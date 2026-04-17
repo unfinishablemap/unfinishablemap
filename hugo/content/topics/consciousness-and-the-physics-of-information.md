@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-19 23:02:00+00:00
+ai_modified: 2026-04-17 08:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: If information is physically fundamental, consciousness may sit at 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 07:45:00+00:00
+last_deep_review: 2026-04-17 08:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -91,7 +91,7 @@ Landauer's principle has a provocative implication for consciousness. Landauer s
 
 This does not reduce consciousness to thermodynamics. The Map's position is that consciousness is not identical to neural information processing—it operates *through* neural information processing via [quantum interaction](/concepts/quantum-consciousness/). But the neural systems through which consciousness acts are subject to Landauer's constraints. The brain cannot process unlimited information for free, and this bounds the bandwidth available to the [mind-matter interface](/topics/consciousness-and-causal-powers/).
 
-This may explain why conscious experience is limited in scope. We are aware of a tiny fraction of the information our brains process. The thermodynamic cost of neural computation—combined with whatever additional constraints the quantum interface imposes—makes consciousness naturally bandwidth-limited. The narrowness of [attention](/concepts/attention-as-interface/) may reflect not a failure of evolution's design but a physical constraint on how much information the conscious interface can handle.
+This may explain why conscious experience is limited in scope. We are aware of a tiny fraction of the information our brains process. The thermodynamic cost of neural computation—combined with whatever additional constraints the quantum interface imposes—makes consciousness naturally bandwidth-limited. The narrowness of [attention](/concepts/attention-as-interface/) may reflect a physical constraint on how much information the conscious interface can handle, rather than a failure of evolution's design.
 
 ## The Black Hole Information Paradox as Diagnostic
 

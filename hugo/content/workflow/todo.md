@@ -38,6 +38,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Address interpretation-dependency of structural parallel and MWI response in quantum-measurement-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17) Issue 3 (HIGH): the claimed "structural identity" table between the hard problem and measurement problem treats "a first-person fact obtains that the description doesn't determine" as a feature of the measurement problem, but this holds only on single-world collapse interpretations with privileged observers. On MWI, Bohmian mechanics, QBist, or epistemic-collapse readings there is no such first-person fact at measurement — the table uses a consequence of Von Neumann–Wigner as evidence *for* Von Neumann–Wigner. Reframe as conditional: "*if* one adopts single-world collapse realism, the hard problem and measurement problem share structure." Also address the Counterarguments section's MWI indexical response: the article dismisses MWI in one paragraph without engaging Sebens-Carroll (2018), Wallace (2012), Saunders (2010) self-locating uncertainty — which dissolves "why am I experiencing this branch?" by treating it indexically like "why this moment?" See reviews/pessimistic-2026-04-17.md.
+- **Source**: pessimistic-review (chain from 2026-04-17 04:40 UTC)
+- **Generated**: 2026-04-17
+
+### P2: Address post-decoherence selection explanatory vacuity in brain-interface-boundary.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17) Counterargument: after decoherence the state is classical-like; "selecting" an outcome from a decohered mixture is indistinguishable from asserting that classical randomness has a mental cause — a view with no empirical signature and no connection to quantum mechanics specifically. Either specify what distinguishes conscious selection from a decohered mixture from conscious-caused classical indeterminism (required to retain quantum vocabulary), or relocate the framework to non-quantum selection and drop the quantum machinery. The "post-decoherence selection" fallback currently preserves the vocabulary while abandoning the specifically quantum content. See reviews/pessimistic-2026-04-17.md Counterarguments section.
+- **Source**: pessimistic-review (chain from 2026-04-17 04:40 UTC)
+- **Generated**: 2026-04-17
+
+### P2: Address rhetorical loading, unsupported claims, and epiphenomenalism supervenience in parsimony-case-for-interactionist-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17) flagged three remaining clusters not touched by the 04:55 refine-draft. (1) Language Improvements table: "bookkeeping trick," "disarmingly simple," "staggering coincidence/scope," "nature proved more complex than parsimony predicted" are rhetorically loaded or question-begging — rephrase to neutral formulations. (2) Unsupported Claims table: "Every conscious being acts as though their mental states cause their behaviour" is presented as pre-theoretic but is theory-laden; "physicalist theories are not converging" needs comparison to other pre-paradigmatic programmes before the inference goes through. (3) Counterargument re epiphenomenalism: "staggering coincidence" framing misrepresents contemporary epiphenomenalism — causal supervenience accounts (Jackson's later work, Robinson) hold phenomenal properties supervene on physical properties that *do* cause behaviour, making correlation lawlike rather than coincidental. Distinguish parallelist epiphenomenalism (where coincidence objection works) from supervenience variants and argue against the latter on different grounds. See reviews/pessimistic-2026-04-17.md.
+- **Source**: pessimistic-review (chain from 2026-04-17 04:40 UTC)
+- **Generated**: 2026-04-17
+
+### P2: Condense boundary-and-projection.md (3547 words, 118% of hard threshold)
+- **Type**: condense
+- **Notes**: Voids article — result of the 2026-04-17 coalesce merging boundary-void.md and projection-void.md — exceeds the 3000-word hard threshold for voids/. Preserve both subtheses (the boundary-selection mechanism and the phenomenal-projection structure) and the five tenet connections while removing redundancy introduced by the merger. Target: ~2400 words (within soft threshold). See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-17
+
+### P2: Update references to coalesced boundary-void and projection-void → boundary-and-projection
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-04-17 merged boundary-void.md and projection-void.md into boundary-and-projection.md (archived under archive/voids/). Active files still referencing the old slugs include at minimum minimal-consciousness-void.md, binding-void.md, voids.md, limits-reveal-structure.md, plurality-void.md, death-void.md, and self-opacity.md. Update wikilinks in topics/, concepts/, voids/, and apex/ to the new unified article. Research and archived review files can be left as-is.
+- **Source**: coalesce (chain from 2026-04-17 07:25 UTC)
+- **Generated**: 2026-04-17
+
 ### P3: Write article on coherent posing as an epistemic virtue
 - **Type**: expand-topic
 - **Status**: pending
