@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 19:43:00+00:00
+ai_modified: 2026-04-17 19:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 19:56 UTC - refine-draft (verification, no-op)
+- **Status**: Success (no changes required)
+- **Files reviewed**: [[voids/anesthesia-void]], [[topics/split-brain-consciousness]], [[concepts/quantum-interpretations]]
+- **Task**: P2 "Address pessimistic-2026-04-17b findings" — verification pass against all four flagged issues
+- **Outcome**: All four issues confirmed already addressed by earlier same-day refinements (anesthesia-void edits 13:11 UTC, split-brain edits 13:11 UTC, quantum-interpretations edits 12:41 UTC). The replenishment pass that regenerated this task had not picked up the earlier completed-task entries. No additional edits warranted.
+- **Verification details**:
+  - Issue 1 (HIGH, memory-failure dismissed too quickly): anesthesia-void.md "Relation to Site Perspective" (lines 127–131) now acknowledges both readings "posit something the anesthesia evidence alone cannot directly show," disavows parsimony at the single-phenomenon level, and grounds the Map's preference in three considerations external to the void (agent-specific failure modes as independent evidence for interface-disruption's dissociable couplings; consilience with altered-states framework; handling of disconnected/connected consciousness states).
+  - Issue 2a (HIGH, sophisticated physicalism in anesthesia-void): lines 85–87 now distinguish naive "one master switch" physicalism from the sophisticated functionalism actually defended (Block on access vs phenomenal, multi-realisability, integrationist IIT) and concede the dissociability phenomenon is theory-neutral between sophisticated physicalism and interface dualism, locating the live question in what is decomposing.
+  - Issue 2b (HIGH, sophisticated physicalism in split-brain): line 118 ("The opposing physicalism is not a 'master switch' view...") adds a full paragraph crediting multiply-realisable functionalism with predicting dissociation as a matter of course, then narrows the Map's challenge to which view most crisply predicts (a) resilience of high-level unity through massive substrate disruption and (b) the threshold character of anaesthetic loss.
+  - Issue 3 (MEDIUM, IIT/synchronization conflation): split-brain-consciousness.md line 130 explicitly writes "This is not a direct refutation of IIT itself. Φ is a distinct quantity from synchronization, and a small fibre bundle that preserves synchrony may or may not preserve high cross-hemispheric Φ — that depends on the full causal-effect structure, not on connectivity alone." Reframes the 2025 finding as challenging connectivity-based heuristics for IIT rather than IIT's core prediction.
+  - Issue 4 (MEDIUM, QBism rating): quantum-interpretations.md line 93 downgrades QBism to **Low** with explanation ("Agent-centrality alone is not enough... QBism's anti-realism blocks exactly this: if quantum states are only beliefs, there is no mind-independent superposition for consciousness to collapse, modulate, or select from"); comparison table (line 158) and Implications section now treat QBism consistently.
+- **Todo updated**: marked as superseded with full verification trace.
+- **Published**: no file changes
 
 ## 2026-04-17 19:43 UTC - refine-draft
 - **Status**: Success
