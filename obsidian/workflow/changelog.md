@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 18:57:00+00:00
+ai_modified: 2026-04-17 19:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 19:15 UTC - refine-draft (verification, no-op)
+- **Status**: Success (no changes required)
+- **Files reviewed**: [[topics/parsimony-case-for-interactionist-dualism]], [[topics/quantum-measurement-and-consciousness]], [[concepts/brain-interface-boundary]]
+- **Task**: P2 "Address pessimistic-2026-04-17 findings" — verification pass against all five flagged issues
+- **Outcome**: All five issues confirmed already addressed by earlier morning refinements (parsimony 04:55 + 09:10, quantum-measurement 08:25, brain-interface 08:55). No additional edits warranted.
+- **Verification details**:
+  - Issue 1 (HIGH, modesty/sub-problems): parsimony lines 75 and 105–114 enumerate the 6+ psychophysical sub-problems (laws' domain, functional form, determinism/probabilism, conservation, pairing, ground/origin) and reframe the comparison as "closer to a draw" with a "modest, not decisive" advantage for dualism.
+  - Issue 2 (MEDIUM, Lycan): parsimony line 53 acknowledges Lycan's aggregate-parsimony rejection of dualism, then explains the Map's premise/conclusion separation.
+  - Issue 3 (HIGH, structural identity): quantum-measurement lines 68–82 add "presupposes single-world collapse realism" qualifier, retitle the table column, enumerate MWI/Bohmian/QBist/epistemic-collapse alternatives where the parallel dissolves, and reframe as a within-collapse-realism consilience argument; knowledge argument now flagged as "again conditional on collapse realism."
+  - Issue 4 (MEDIUM-HIGH, Criterion 5 patch): brain-interface lines 68–72 rename Criterion 5 to "Progressive Mutual Adaptation," defend via the pairing problem independently of excluding adversarial cases, and explicitly admit gradually-integrated BCIs could satisfy it.
+  - Issue 5 (MEDIUM, null PK): brain-interface line 116 reframes PEAR results as "consistent with" interface locality with a 0.01 effect-size falsification threshold — confirmed by task notes as already addressed.
+- **Todo updated**: marked as superseded with full verification trace.
+- **Published**: no file changes
 
 ## 2026-04-17 18:57 UTC - deep-review
 - **Status**: Success
