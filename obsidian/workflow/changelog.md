@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 18:26:00+00:00
+ai_modified: 2026-04-17 18:46:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 18:46 UTC - condense
+- **Status**: Success
+- **File**: [[voids/apophatic-cartography]]
+- **Before**: 3255 words
+- **After**: 2238 words
+- **Reduction**: 31%
+- **Technique**: Removed Process Philosophy / Whitehead section (tangential digression); cut redundant indicators in "Distinguishing Boundaries from Confusion" that duplicated the Five Criteria, keeping only the unique phenomenology and predictive-structure indicators; removed leftover AI REFINEMENT LOG comment block; tightened prose in Apophatic Tradition (Cusanus/Wittgenstein paragraphs), Five Criteria sub-sections, Illusionist Challenge, and Relation to Site Perspective; trimmed the inflated Further Reading list. Preserved opening summary, all five criteria with operational falsifiability, worked-example bullets, and Relation to Site Perspective intact.
 
 ## 2026-04-17 18:26 UTC - deep-review
 - **Status**: Success

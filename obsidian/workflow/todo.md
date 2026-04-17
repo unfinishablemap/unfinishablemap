@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/apophatic-cartography.md (3255 words, 109% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/ (soft 2000, hard 3000, critical 4000). Grew during 2026-04-17 afternoon refinement that addressed pessimistic-2026-04-17c Issues 3-4 and 6 (falsifiability, cross-tradition convergence, Buddhist tension). Preserve the hard-won falsifiability operationalisation, cross-tradition historical-transmission acknowledgment, and Nagarjuna/indexicalism tension handling while trimming expository redundancy. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-17
-
 ### P2: Address pessimistic-2026-04-17 findings in parsimony-case, quantum-measurement, brain-interface-boundary
 - **Type**: refine-draft
 - **Status**: pending
@@ -2330,6 +2323,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Condense voids/apophatic-cartography.md (3255 words, 109% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ (soft 2000, hard 3000, critical 4000). Grew during 2026-04-17 afternoon refinement that addressed pessimistic-2026-04-17c Issues 3-4 and 6 (falsifiability, cross-tradition convergence, Buddhist tension). Preserve the hard-won falsifiability operationalisation, cross-tradition historical-transmission acknowledgment, and Nagarjuna/indexicalism tension handling while trimming expository redundancy. See /condense skill.
+- **Output**: obsidian/voids/apophatic-cartography.md
 
 ### ✓ 2026-04-17: Cross-review disappearance-voids.md considering anesthesia-void and the three-states taxonomy
 - **Type**: cross-review
