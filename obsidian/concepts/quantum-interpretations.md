@@ -4,7 +4,7 @@ description: "Survey of quantum interpretations and their consciousness implicat
 created: 2026-01-17
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-04-17T10:04:00+00:00
+ai_modified: 2026-04-17T12:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,7 +90,7 @@ Answers fall into three categories:
 
 **Consciousness role:** Paradoxical. [[qbism|QBism]] makes agents central—only agents have quantum states (beliefs). But it denies wave functions are real, so there's nothing physical for consciousness to collapse. The agent's experience is epistemically fundamental but ontologically unexplained.
 
-**Site compatibility:** Mixed. QBism's agent-centrality echoes the Map's emphasis on conscious subjects, but its anti-realism conflicts with the Map's commitment to real conscious causation. See [[qbism]] for extended analysis.
+**Site compatibility:** **Low.** Agent-centrality alone is not enough. The Map requires consciousness to do *physical* work—selecting which quantum outcome actualises—and this requires that there be something physical for consciousness to act on. QBism's anti-realism blocks exactly this: if quantum states are only beliefs, there is no mind-independent superposition for consciousness to collapse, modulate, or select from. Centring agents while denying the physical reality on which they act gives the Map's framework nowhere to land. See [[qbism]] for extended analysis.
 
 ### Relational Quantum Mechanics
 
@@ -155,7 +155,7 @@ The Map proposes that Born probabilities describe the objective structure of the
 | Copenhagen | Yes (undefined) | No | Possible but unclear | Moderate |
 | Bohmian | No | Yes | None | Low |
 | MWI | No (global) | Yes | None (all outcomes occur) | **Rejected** (five arguments) |
-| QBism | Epistemic only | N/A | Agent-centered but anti-realist | Mixed |
+| QBism | Epistemic only | N/A | Agent-centered but anti-realist | **Low** |
 | Relational QM | Relational | No | **None** (observer = any physical system) | **Low** |
 | **Transactional/TSVF** | Via transaction | No | **Atemporal selection** | **High** |
 | GRW/CSL | Physical process | No | None (standard) / Modulation (variants) | Moderate-High |
@@ -181,7 +181,13 @@ If consciousness causes collapse at a moment, we face questions about which mome
 
 The [[concepts/many-worlds]] article presents five detailed arguments: ontological extravagance, the indexical identity problem, the probability problem, the preferred basis problem, and MWI's failure to explain consciousness. See also [[many-worlds-argument|Against Many-Worlds]] for the formal argument structure.
 
-The deepest conflict: MWI provides no role for consciousness in physics. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds the opposite. The [[tenets#^no-many-worlds|No Many Worlds]] tenet encodes this incompatibility.
+### Engaging self-locating uncertainty
+
+The most serious modern response to the indexical identity problem is the self-locating uncertainty (SLU) account developed by Vaidman, Saunders, and Wallace. On this view, "why am I on this branch?" is not a metaphysical surd but an uncertainty claim: before measurement, I am uncertain which post-branching observer-stage I will be, and this uncertainty is well-defined as a probability distribution over centred worlds. Wallace's *The Emergent Multiverse* (2012) then argues, via a decision-theoretic representation theorem, that rational agents facing this uncertainty must weight their preferences by the Born rule. Taking this seriously is the minimum intellectual duty; waving at "indexical identity" without it is not.
+
+The Map's objection, as applied here, is not that SLU is incoherent but that it redescribes rather than dissolves the problem it addresses. SLU requires that pre-branching agents have well-defined uncertainty over *which* successor they are about to become, which presupposes that successor-stages are individuated robustly enough to be the referents of indexical belief. That individuation has to be fixed by something in the physics (branch structure, decoherence basis), and on MWI that something is approximate and observer-relative. If the branching structure is emergent and vague at the required scale, then the probability distribution over "which branch am I on" is defined on a vague sample space—and decision-theoretic rationality cannot, by itself, make a vague sample space sharp. This is the Map's specific complaint: SLU transfers the indexical problem from ontology to the branching criterion, where it reappears as the preferred-basis problem. That is not a defeater of MWI, but it does mean the indexical argument in [[concepts/many-worlds]] has not been answered by the literature; it has been relocated.
+
+The deepest conflict remains: MWI provides no role for consciousness in physics. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet holds the opposite. The [[tenets#^no-many-worlds|No Many Worlds]] tenet encodes this incompatibility.
 
 ## Implications for the Map's Framework
 
@@ -191,9 +197,9 @@ Interpretations that eliminate consciousness (Bohmian mechanics, MWI) or treat i
 
 ## The Illusionist Challenge
 
-[[illusionism|Illusionists]] might argue that quantum interpretation has no bearing on consciousness because consciousness itself is an illusion. But for consciousness to be an illusion, *something* must be under the illusion—the question of its relationship to physical processes remains live.
+[[illusionism|Illusionists]] might argue that quantum interpretation has no bearing on consciousness because consciousness itself is an illusion. The standard "something must be under the illusion" reply to illusionism is not adequate here, because Frankish (2016, *Journal of Consciousness Studies*) has an explicit rebuttal: he distinguishes *phenomenal* properties (which he denies exist) from *quasi-phenomenal* properties—introspective representations that *represent* phenomenality without themselves being phenomenal. On this view, the brain hosts introspective states with the content *"there is something it is like to be me right now"* while there is, in fact, nothing it is like. The "subject of the illusion" objection, as ordinarily stated, assumes the very phenomenality the illusionist denies and so begs the question.
 
-A subtler objection: even granting phenomenal experience, its physics-relevance doesn't follow. But this objection fails because the interpretive choice *determines* whether consciousness's causal participation is coherent. If MWI is true, there's nowhere for selection to occur—all outcomes happen. If Bohmian mechanics is true, determinism leaves no room. To dismiss interpretations as irrelevant while maintaining epiphenomenalism is to implicitly assume consciousness-excluding interpretations are correct—a substantive commitment, not neutral methodology.
+The Map's actual quarrel with Frankish-style illusionism is narrower and more empirical. First, the quasi-phenomenal reconstruction leaves the *causal profile* of the introspective state exactly where physicalism already left it: quasi-phenomenal states are realised by whatever neural machinery ordinary physicalism posits, and do no distinct work. That is consistent, but it means illusionism inherits, rather than resolves, the open question about what selects determinate outcomes at measurement—i.e., the issue that the time-symmetric interpretations are here to address. Second, the Map's argument from quantum interpretation is conditional, not question-begging: *if* the interpretive landscape leaves a genuine role for consciousness-like selection (as TI/TSVF do), *then* denying phenomenal consciousness requires denying that this role is ever actually occupied, which is a substantive empirical bet rather than a free consequence of illusionism. Third, the dialectic matters: to dismiss interpretations as irrelevant while maintaining that phenomenal consciousness is illusory is to implicitly commit to consciousness-excluding interpretations being correct. That is a substantive commitment, not neutral methodology. Frankish's distinction preserves the illusionist position against a cheap objection; it does not, by itself, show that the interpretive choice is irrelevant.
 
 ## Process Philosophy Perspective
 
@@ -201,7 +207,7 @@ Alfred North Whitehead's process philosophy offers relevant parallels. His "actu
 
 Different interpretations engage this differently: MWI eliminates the mental pole (no selection, only branching); Bohmian mechanics makes it epiphenomenal (positions predetermined); time-symmetric interpretations make it efficacious (consciousness participates in which transactions complete).
 
-Process philosophy coheres most naturally with collapse interpretations: novelty requires genuine selection, experience requires definiteness (one outcome, not all branches), and the mental pole must do actual work.
+Process philosophy coheres better with collapse interpretations than with MWI or Bohmian mechanics, by a specific criterion: whether the mental pole does explanatory work. Novelty requires genuine selection (no selection exists in MWI, where all branches obtain); experience requires definiteness (a single outcome, not the entire branching tree); and the mental pole must contribute novelty rather than track predetermined positions (as in Bohmian mechanics). Collapse interpretations satisfy all three conditions; MWI and Bohmian mechanics each fail at least one.
 
 ## Contemplative Evidence
 
@@ -219,7 +225,9 @@ The Map's preference for consciousness-inclusive interpretations would face seri
 
 2. **Consciousness-physics interaction is experimentally refuted.** If well-designed experiments consistently found conscious observation produces identical results to unconscious measurement, the consciousness-collapse hypothesis would weaken.
 
-3. **Decoherence timescales prove insurmountable.** If neural decoherence occurs at Tegmark's original timescales (10⁻¹³ seconds) rather than revised estimates (10⁻⁵ seconds), quantum effects relevant to consciousness would be ruled out. Current evidence ([[quantum-biology-and-neural-mechanisms|quantum coherence protection]]) suggests revised estimates are more accurate.
+3. **Decoherence timescales prove insurmountable.** Tegmark (2000, *Physical Review E*) estimated neural microtubule coherence would decay in roughly 10⁻¹³ seconds—ten billion times too short for millisecond cognition. Hagan, Hameroff, and Tuszyński (2002, *Physical Review E*) corrected the model (non-thermal conditions, dipole rather than charge-charge interactions, realistic separations) and derived revised estimates of 10⁻⁵ to 10⁻⁴ seconds. If Tegmark's original estimate holds up, conventional quantum-coherence models of consciousness fail.
+
+   Two points blunt this as an objection to the time-symmetric reading specifically. First, the revised estimates are not decorative: they are based on a different physical regime (active, dipole-coupled, isolated microtubule interiors) with independent experimental support in adjacent quantum-biological systems—magnetoreception via radical pairs, photosynthetic coherence, and 2024 tryptophan superradiance measurements (see [[quantum-biology-and-neural-mechanisms]] for the full source chain). Second, and more importantly, the atemporal-selection mechanism favoured here does not require sustained coherent superposition in neurons in the way Orch OR does. On the TI/TSVF reading, consciousness does not maintain a live superposition long enough to act on it; it participates in which *transaction* (forward-plus-backward boundary pairing) completes. The physical substrate of that participation is the ordinary post-decoherence set of branch-candidates produced by standard neural dynamics. Selection occurs over the completed history rather than inside a maintained coherent state (see [[post-decoherence-selection-programme]]). The decoherence timescale therefore constrains only those variants of the programme that require in-brain coherence; it does not, by itself, refute the broader time-symmetric framework.
 
 4. **A new interpretation emerges that explains consciousness while eliminating selection.** Such an interpretation would challenge the Map by showing consciousness-exclusion needn't mean consciousness-inexplicability.
 
@@ -278,5 +286,25 @@ The choice of quantum interpretation bears directly on all five [[tenets]]:
 1. Aharonov, Y., Bergmann, P. G., & Lebowitz, J. L. (1964). Time symmetry in the quantum process of measurement. *Physical Review*.
 1. Ghirardi, G. C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*.
 1. Kastner, R. E. (2022). *The Transactional Interpretation of Quantum Mechanics*. Cambridge University Press.
+1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194–4206.
+1. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). Quantum computation in brain microtubules: decoherence and biological feasibility. *Physical Review E*, 65, 061901.
+1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory according to the Everett Interpretation*. Oxford University Press.
+1. Saunders, S. (2010). Chance in the Everett interpretation. In *Many Worlds? Everett, Quantum Theory, and Reality*, eds. Saunders, Barrett, Kent, & Wallace. Oxford University Press.
+1. Frankish, K. (2016). Illusionism as a theory of consciousness. *Journal of Consciousness Studies*, 23(11–12), 11–39.
 1. Stanford Encyclopedia of Philosophy. "Retrocausality in Quantum Mechanics."
 1. Stanford Encyclopedia of Philosophy. "Collapse Theories."
+
+<!-- AI REFINEMENT LOG - 2026-04-17
+Addresses pessimistic-2026-04-17b.md Issues 4 and 5 plus follow-on points.
+
+Changes made:
+- Downgraded QBism site compatibility from "Mixed" to "Low" in prose and comparison table; explained why agent-centrality does not redeem anti-realism for the Map (Issue 4).
+- Replaced the parenthetical decoherence punt with a substantive two-paragraph treatment that sources Tegmark (2000) and Hagan et al. (2002) inline, and makes explicit that the time-symmetric atemporal-selection mechanism does not require sustained in-brain coherence, pointing to post-decoherence-selection-programme for the physical realisation (Issue 5).
+- Added a "Engaging self-locating uncertainty" subsection that takes Wallace/Saunders SLU seriously, acknowledges the decision-theoretic representation theorem, and states the Map's specific complaint (SLU relocates the indexical problem into the preferred-basis problem rather than dissolving it).
+- Rewrote the illusionism section to engage Frankish's quasi-phenomenal property distinction explicitly, concede that the naive "something must be under the illusion" reply begs the question, and state the Map's actual quarrel (causal profile, conditional argument from interpretive choice).
+- Specified the comparison in "process philosophy coheres most naturally with collapse interpretations" — now names MWI and Bohmian mechanics as the contrast class and states the criterion (does the mental pole do explanatory work?).
+- Added Tegmark 2000, Hagan et al. 2002, Wallace 2012, Saunders 2010, and Frankish 2016 to the References list.
+
+This log should be removed after human review.
+-->
+

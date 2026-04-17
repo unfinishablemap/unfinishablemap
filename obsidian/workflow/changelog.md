@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 12:17:00+00:00
+ai_modified: 2026-04-17 12:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 12:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/quantum-interpretations]]
+- **Review addressed**: [[reviews/pessimistic-2026-04-17b]] Issues 4 and 5, plus the MWI self-locating uncertainty, Frankish illusionism, and "more naturally" comparison follow-ons
+- **Changes**: QBism downgraded to Low (prose + table) with rationale; substantive decoherence paragraph with inline Tegmark 2000 and Hagan et al. 2002 citations, explicit claim that TI/TSVF atemporal selection does not require sustained in-brain coherence; new "Engaging self-locating uncertainty" subsection taking Wallace/Saunders seriously; illusionism section rewritten to engage Frankish's quasi-phenomenal/phenomenal distinction; "more naturally" in Process Philosophy section replaced with an explicit MWI/Bohmian contrast and stated criterion; five references added
+- **Published**: yes
 
 ## 2026-04-17 12:17 UTC - optimistic-review
 - **Status**: Success

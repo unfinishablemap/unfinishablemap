@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17T09:58:00+00:00
+ai_modified: 2026-04-17T12:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,20 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Address pessimistic-2026-04-17b medium-severity issues in quantum-interpretations.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17b) found three issues on quantum-interpretations: (Issue 4, Medium) inconsistent QBism treatment — the article rates QBism as "Mixed" because it makes agents central, but elsewhere uses anti-realism arguments to dismiss QBism. Either downgrade QBism's site compatibility to "Low" or explain why agent-centrality redeems the anti-realism for the Map's purposes. (Issue 5, Medium) decoherence response is a punt — the only response to the central physical objection is a parenthetical citation of revised estimates with the actual argument outsourced to another article. Add a substantive paragraph defending the revised timescale estimates, OR (preferably) make explicit that the time-symmetric atemporal-selection mechanism does not require neural coherence in the conventional sense, and explain how the interaction is then physically realised. Also: source the "10⁻⁵ seconds" revised decoherence estimate inline; engage Wallace/Saunders self-locating uncertainty as a serious response to the indexical identity argument against MWI (currently rejected on grounds the literature has spent two decades addressing); engage Frankish's quasi-phenomenal property distinction in the illusionism rejection rather than asserting "something must be under the illusion." Specify the comparison whenever using "more naturally explained." See pessimistic-2026-04-17b.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
-### P2: Cross-review anaesthesia/loss-of-consciousness cluster considering anesthesia-void.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article voids/anesthesia-void.md (created 2026-04-17 via expand-topic) introduces the three-states distinction (unconsciousness / disconnected / connected per Mashour), the "compound failure signatures" / dissociability framing, and the void typology (unexplorable + occluded + unexplored). Review (1) topics/anaesthesia-and-the-consciousness-interface.md and (2) voids/sleep-consciousness-void.md for opportunities to cross-link to the new void article, check whether the dissociability framing reinforces or contradicts existing arguments, and ensure consistent terminology. Lower priority because the anesthesia-void article will itself be revised under the P1 pessimistic-review task above; consider whether to wait for that revision before cross-reviewing.
-- **Source**: chain (from voids/anesthesia-void.md)
-- **Generated**: 2026-04-17
 
 ### P3: Write article on the fatigue void
 - **Type**: expand-topic
@@ -2294,6 +2280,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address pessimistic-2026-04-17b medium-severity issues in quantum-interpretations.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17b) found three issues on quantum-interpretations: (Issue 4, Medium) inconsistent QBism treatment — the article rates QBism as "Mixed" because it makes agents central, but elsewhere uses anti-realism arguments to dismiss QBism. Either downgrade QBism's site compatibility to "Low" or explain why agent-centrality redeems the anti-realism for the Map's purposes. (Issue 5, Medium) decoherence response is a punt — the only response to the central physical objection is a parenthetical citation of revised estimates with the actual argument outsourced to another article. Add a substantive paragraph defending the revised timescale estimates, OR (preferably) make explicit that the time-symmetric atemporal-selection mechanism does not require neural coherence in the conventional sense, and explain how the interaction is then physically realised. Also: source the "10⁻⁵ seconds" revised decoherence estimate inline; engage Wallace/Saunders self-locating uncertainty as a serious response to the indexical identity argument against MWI (currently rejected on grounds the literature has spent two decades addressing); engage Frankish's quasi-phenomenal property distinction in the illusionism rejection rather than asserting "something must be under the illusion." Specify the comparison whenever using "more naturally explained." See pessimistic-2026-04-17b.md.
+- **Output**: obsidian/concepts/quantum-interpretations.md
+
+Task context:
+Pessimistic review (2026-04-17b) found three issues on quantum-interpretations: (Issue 4, Medium) inconsistent QBism treatment — the article rates QBism as "Mixed" because it makes agents central, but elsewhere uses anti-realism arguments to dismiss QBism. Either downgrade QBism's site compatibility to "Low" or explain why agent-centrality redeems the anti-realism for the Map's purposes. (Issue 5, Medium) decoherence response is a punt — the only response to the central physical objection is a parenthetical citation of revised estimates with the actual argument outsourced to another article. Add a substantive paragraph defending the revised timescale estimates, OR (preferably) make explicit that the time-symmetric atemporal-selection mechanism does not require neural coherence in the conventional sense, and explain how the interaction is then physically realised. Also: source the "10⁻⁵ seconds" revised decoherence estimate inline; engage Wallace/Saunders self-locating uncertainty as a serious response to the indexical identity argument against MWI (currently rejected on grounds the literature has spent two decades addressing); engage Frankish's quasi-phenomenal property distinction in the illusionism rejection rather than asserting "something must be under the illusion." Specify the comparison whenever using "more naturally explained." See pessimistic-2026-04-17b.md.
+
+### ✓ 2026-04-17: Address pessimistic-2026-04-17b medium-severity issues in quantum-interpretations.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17b) Issues 4 and 5 plus MWI self-locating uncertainty, Frankish, and "more naturally" follow-ons. Addressed by: downgrading QBism to Low in prose and comparison table with rationale; replacing the decoherence parenthetical with a substantive paragraph that sources Tegmark 2000 and Hagan et al. 2002 inline and makes explicit that the TI/TSVF atemporal-selection mechanism does not require sustained in-brain coherence (pointing to post-decoherence-selection-programme for physical realisation); adding an "Engaging self-locating uncertainty" subsection on Wallace/Saunders with the Map's specific complaint (SLU relocates rather than dissolves the indexical problem); rewriting the illusionism section to engage Frankish's quasi-phenomenal/phenomenal distinction; specifying the comparison class (MWI, Bohmian) and criterion ("does the mental pole do explanatory work") in the Process Philosophy paragraph; adding Tegmark, Hagan et al., Wallace 2012, Saunders 2010, and Frankish 2016 to References.
+- **Output**: obsidian/concepts/quantum-interpretations.md
 
 ### ✓ 2026-04-17: Address pessimistic-2026-04-17b high-severity issues in anesthesia-void.md
 - **Type**: refine-draft
