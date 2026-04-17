@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review nihilism-and-existentialism.md considering self-maintained-cognitive-limits coalesce insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The 2026-04-17 coalesce produced voids/self-maintained-cognitive-limits.md, foregrounding the *complicity* dimension — that we participate in maintaining the limits we encounter. concepts/nihilism-and-existentialism.md treats existential responses to meaning-loss but predates the explicit complicity framing now consolidated in the void article. Cross-review to (a) check whether existentialist responses to confronting meaning-limits should now reference the active-maintenance mechanism (Sartrean bad-faith resonates with complicity-in-cognitive-limits), (b) add cross-references where the existentialist diagnosis of self-deception parallels the void article's treatment, (c) verify the article's nihilism treatment is compatible with the unified void's claim that some "voids" are partly of our own making, (d) update wikilinks if not already done. This is argumentative integration beyond wikilink retargeting. Log findings if no edits are made.
-- **Source**: chain (from coalesce 2026-04-17)
-- **Generated**: 2026-04-17
-
 ### P3: Write article on the fatigue void
 - **Type**: expand-topic
 - **Status**: pending
@@ -2287,6 +2280,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review nihilism-and-existentialism.md considering self-maintained-cognitive-limits coalesce insights
+- **Type**: cross-review
+- **Notes**: The 2026-04-17 coalesce produced voids/self-maintained-cognitive-limits.md, foregrounding the *complicity* dimension — that we participate in maintaining the limits we encounter. concepts/nihilism-and-existentialism.md treats existential responses to meaning-loss but predates the explicit complicity framing now consolidated in the void article. Cross-review to (a) check whether existentialist responses to confronting meaning-limits should now reference the active-maintenance mechanism (Sartrean bad-faith resonates with complicity-in-cognitive-limits), (b) add cross-references where the existentialist diagnosis of self-deception parallels the void article's treatment, (c) verify the article's nihilism treatment is compatible with the unified void's claim that some "voids" are partly of our own making, (d) update wikilinks if not already done. This is argumentative integration beyond wikilink retargeting. Log findings if no edits are made.
+- **Output**: obsidian/concepts/nihilism-and-existentialism.md -- Context: Cross-review nihilism-and-existentialism.md considering self-maintained-cognitive-limits coalesce insights
 
 ### ✓ 2026-04-17: Cross-review meta-epistemology-of-limits.md considering self-maintained-cognitive-limits coalesce insights
 - **Type**: cross-review
