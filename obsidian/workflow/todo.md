@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/anesthesia-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 via expand-topic, never deep-reviewed. Voids article on the anaesthesia void — the impossibility of phenomenologically reporting on surgical-depth unconsciousness. Central to the Map's recent interface argument (load-bearing in perceptual-degradation-and-the-interface, disappearance-voids, altered-states-as-interface-evidence apex). Three cross-reviews and one pessimistic review have already engaged it, so this deep review should verify the composite picture rather than treat it as fresh — check that Mashour three-states taxonomy, memory-failure-dualism concession, and falsification conditions are internally coherent; verify cross-links to sleep-consciousness-void, death-void, disappearance-voids, consciousness-interface-development; confirm tenet alignment (Dualism, Bidirectional Interaction).
-- **Source**: chain (from expand-topic 2026-04-17)
-- **Generated**: 2026-04-17
-
 ### P2: Deep review voids/boundary-and-projection.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2344,6 +2337,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review voids/anesthesia-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 via expand-topic, never deep-reviewed. Voids article on the anaesthesia void — the impossibility of phenomenologically reporting on surgical-depth unconsciousness. Central to the Map's recent interface argument (load-bearing in perceptual-degradation-and-the-interface, disappearance-voids, altered-states-as-interface-evidence apex). Three cross-reviews and one pessimistic review have already engaged it, so this deep review should verify the composite picture rather than treat it as fresh — check that Mashour three-states taxonomy, memory-failure-dualism concession, and falsification conditions are internally coherent; verify cross-links to sleep-consciousness-void, death-void, disappearance-voids, consciousness-interface-development; confirm tenet alignment (Dualism, Bidirectional Interaction).
+- **Output**: obsidian/voids/anesthesia-void.md
 
 ### ✓ 2026-04-17: Address pessimistic-2026-04-17b findings in anesthesia-void, split-brain-consciousness, quantum-interpretations
 - **Type**: refine-draft
