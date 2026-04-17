@@ -111,7 +111,7 @@ The Map speculates that the self-referential structure underlying both Gödelian
 ## Further Reading
 
 - [measurement-problem](/concepts/measurement-problem/) — The central puzzle and the causal closure loophole
-- [incompleteness-void](/voids/incompleteness-void/) — Gödel's incompleteness as cognitive limit
+- [incompleteness-void](/voids/formal-cognitive-limits/) — Gödel's incompleteness as cognitive limit
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Self-reference in physics more broadly
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as boundary disclosure
 - [causal-closure](/concepts/causal-closure/) — Why physics is not causally closed at measurement

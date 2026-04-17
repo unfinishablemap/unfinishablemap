@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [Computational Cognitive Limits](/voids/computational-cognitive-limits/)
+**Article**: [Computational Cognitive Limits](/voids/formal-cognitive-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

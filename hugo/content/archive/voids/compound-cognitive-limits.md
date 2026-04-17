@@ -38,7 +38,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map catalogues individual [voids](/voids/)—the [self-reference-paradox](/concepts/self-reference-paradox/), the [language-thought-boundary](/voids/language-thought-boundary/), the [recursion-void](/voids/recursion-void/), the [incompleteness-void](/voids/incompleteness-void/)—as if each were an independent obstacle. But cognitive limits do not operate in isolation. Where two or more limits overlap, the hidden territory is not the sum of what each conceals. It is something qualitatively different: an emergent blindness that no single limit predicts and no single investigation can reach.
+The Unfinishable Map catalogues individual [voids](/voids/)—the [self-reference-paradox](/concepts/self-reference-paradox/), the [language-thought-boundary](/voids/language-thought-boundary/), the [recursion-void](/voids/recursion-void/), the [incompleteness-void](/voids/formal-cognitive-limits/)—as if each were an independent obstacle. But cognitive limits do not operate in isolation. Where two or more limits overlap, the hidden territory is not the sum of what each conceals. It is something qualitatively different: an emergent blindness that no single limit predicts and no single investigation can reach.
 
 Cognitive science calls this *superadditivity*. When multiple cognitive demands compete for overlapping resources, their combined interference exceeds the sum of individual effects (Spagna et al., 2020). The move from task-level interference to epistemic limits is not merely analogical. Cognitive limits *are* resource limitations—self-reference, language production, and metacognitive recursion draw on the same neural architecture that Spagna et al. studied. If dual-task performance degrades superadditively because competing processes share neural substrates, then epistemic capacities sharing the same substrates should exhibit the same nonlinearity when exercised simultaneously. Compound cognitive limits create voids larger and stranger than their components.
 
@@ -66,7 +66,7 @@ McGinn (1989) identified multiple problems subject to [cognitive closure](/conce
 
 ### Emergent Occlusion
 
-The interaction of limits may produce territories hidden for reasons that no single limit explains. Consider the [incompleteness-void](/voids/incompleteness-void/) (self-referential systems contain truths unprovable within themselves) interacting with the [causal interface](/voids/causal-interface/) problem (how consciousness connects to physics). The compound territory is not "what incompleteness hides + what the causal interface obscures." It is the *nature of the connection between formal incompleteness and physical causation*—something neither void alone points to.
+The interaction of limits may produce territories hidden for reasons that no single limit explains. Consider the [incompleteness-void](/voids/formal-cognitive-limits/) (self-referential systems contain truths unprovable within themselves) interacting with the [causal interface](/voids/causal-interface/) problem (how consciousness connects to physics). The compound territory is not "what incompleteness hides + what the causal interface obscures." It is the *nature of the connection between formal incompleteness and physical causation*—something neither void alone points to.
 
 This is the deepest mode. Superadditive interference makes existing blind spots worse. Mutual reinforcement makes blind spots harder to investigate. Emergent occlusion creates *new* blind spots that exist only in the compound.
 
@@ -107,7 +107,7 @@ For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compoun
 - [recursion-void](/voids/recursion-void/)
 - [self-reference-paradox](/concepts/self-reference-paradox/)
 - [language-thought-boundary](/voids/language-thought-boundary/)
-- [incompleteness-void](/voids/incompleteness-void/)
+- [incompleteness-void](/voids/formal-cognitive-limits/)
 - [causal-interface](/voids/causal-interface/)
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)

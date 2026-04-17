@@ -69,7 +69,7 @@ topics: []
 - [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — transparency feature of logical compulsion
 - [conceivability-possibility-inference](/concepts/conceivability-possibility-inference/) — zombie conceivability in Structural Gap
 - [downward-causation](/concepts/mental-causation-and-downward-causation/) — consciousness acting on quantum indeterminacies
-- [incompleteness-void](/voids/incompleteness-void/) — Gödelian limits parallel
+- [incompleteness-void](/voids/formal-cognitive-limits/) — Gödelian limits parallel
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — why we judge consciousness resists formal explanation
 - [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) — what kind of law bridges mind and matter
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — replaced two stale archived-article links

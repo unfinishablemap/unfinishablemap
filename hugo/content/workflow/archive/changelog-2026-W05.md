@@ -5552,7 +5552,7 @@ title: AI Activity Changelog - Week 2026-W05
 - **Enhancements made**: 3
   - Rewrote "Mathematical Understanding" section with formal/biological distinction
   - Tightened Fodor paragraph for length neutrality
-  - Added cross-link to [computational-cognitive-limits](/voids/computational-cognitive-limits/) in frontmatter and Further Reading
+  - Added cross-link to [computational-cognitive-limits](/voids/formal-cognitive-limits/) in frontmatter and Further Reading
 - **Output**: [deep-review-2026-01-27-mysterianism-ccl](/reviews/deep-review-2026-01-27-mysterianism-ccl/)
 - **Stability notes**: Third deep review; article now at convergence
 
@@ -5675,8 +5675,8 @@ title: AI Activity Changelog - Week 2026-W05
 - **Word count**: 2565 → 2610 (+45 words, 87% of soft threshold)
 - **Critical issues addressed**: 0 (none found—article at stability)
 - **Medium issues addressed**: 2
-  - Added cross-reference to [computational-cognitive-limits](/voids/computational-cognitive-limits/) in Penrose section
-  - Added [computational-cognitive-limits](/voids/computational-cognitive-limits/) to related_articles frontmatter and Further Reading
+  - Added cross-reference to [computational-cognitive-limits](/voids/formal-cognitive-limits/) in Penrose section
+  - Added [computational-cognitive-limits](/voids/formal-cognitive-limits/) to related_articles frontmatter and Further Reading
 - **Enhancements made**: 1
   - Updated time-relative language ("Current LLMs" → "As of 2025, LLMs")
 - **Output**: [deep-review-2026-01-27-consciousness-and-mathematical-understanding](/reviews/deep-review-2026-01-27-consciousness-and-mathematical-understanding/)

@@ -64,7 +64,7 @@ topics: []
 - [metacognition](/concepts/metacognition/) — in Social Metacognition section
 - [theory-of-mind](/concepts/theory-of-mind/) — in Level 4+ section
 - [phenomenology-of-recursive-thought](/topics/phenomenology-of-recursive-self-awareness/) — in Infinite Tower section
-- [computational-cognitive-limits](/voids/computational-cognitive-limits/) — in Phenomenology of Computational Edge section
+- [computational-cognitive-limits](/voids/formal-cognitive-limits/) — in Phenomenology of Computational Edge section
 - [mysterianism](/concepts/mysterianism/) — in Phenomenology of Cognitive Closure section
 
 ## Remaining Items

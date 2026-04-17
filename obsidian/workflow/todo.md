@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review default-causal-profile.md against causal-delegation and interactionism cluster
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/default-causal-profile.md (2026-04-15) introduces the counterfactual baseline that makes causal delegation possible — "the pattern of effects a physical state would produce absent conscious takeover." Load-bearing for the Map's delegation account but lacks cross-integration. Review concepts/causal-delegation.md, topics/delegatory-dualism.md, topics/delegation-meets-quantum-selection.md, concepts/interactionist-dualism.md, and concepts/mental-causation-and-downward-causation.md for (a) opportunities to anchor "baseline" claims to the new concept, (b) whether the default-causal-profile framing strengthens or reframes the preemption argument, (c) consistency on the counterfactual reasoning in delegation accounts.
-- **Source**: chain (from default-causal-profile.md)
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review post-decoherence-selection-mechanisms.md against quantum-consciousness cluster
 - **Type**: cross-review
 - **Status**: pending
@@ -2273,6 +2266,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review default-causal-profile.md against causal-delegation and interactionism cluster
+- **Type**: cross-review
+- **Notes**: New concept page concepts/default-causal-profile.md (2026-04-15) introduces the counterfactual baseline that makes causal delegation possible — "the pattern of effects a physical state would produce absent conscious takeover." Load-bearing for the Map's delegation account but lacks cross-integration. Review concepts/causal-delegation.md, topics/delegatory-dualism.md, topics/delegation-meets-quantum-selection.md, concepts/interactionist-dualism.md, and concepts/mental-causation-and-downward-causation.md for (a) opportunities to anchor "baseline" claims to the new concept, (b) whether the default-causal-profile framing strengthens or reframes the preemption argument, (c) consistency on the counterfactual reasoning in delegation accounts.
+- **Output**: obsidian/concepts/default-causal-profile.md -- Context: Cross-review default-causal-profile.md against causal-delegation and interactionism cluster
 
 ### ✓ 2026-04-17: Update wikilinks for coalesced formal-cognitive-limits.md
 - **Type**: cross-review

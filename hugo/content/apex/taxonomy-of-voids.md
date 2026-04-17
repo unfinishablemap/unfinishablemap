@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-10 20:09:00+00:00
+ai_modified: 2026-04-17 01:41:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-10 20:09:00+00:00
 apex_sources:
@@ -107,7 +107,7 @@ The [other minds void](/voids/other-minds-void/) and the [intersubjective void](
 
 ### The Formal and Meta-Cognitive Cluster
 
-The [incompleteness void](/voids/incompleteness-void/) applies Gödelian limits to self-knowledge. The [recursion void](/voids/recursion-void/) shows metacognitive depth terminating around fifth order. The [cartography problem](/voids/cartography-problem/) proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. These formal limits constrain not just what can be thought but what can be thought *about* thought.
+The [formal cognitive limits](/voids/formal-cognitive-limits/) applies Gödelian limits to self-knowledge. The [recursion void](/voids/recursion-void/) shows metacognitive depth terminating around fifth order. The [cartography problem](/voids/cartography-problem/) proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. These formal limits constrain not just what can be thought but what can be thought *about* thought.
 
 ## How Thought Fails: The Topology of Failure
 

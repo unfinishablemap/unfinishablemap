@@ -1,13 +1,147 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 21:45:00+00:00
+ai_modified: 2026-04-17 01:41:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-16'
+date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 01:41 UTC - deep-review
+- **Status**: Success
+- **File**: [formal-cognitive-limits](/voids/formal-cognitive-limits/)
+- **Context**: Post-coalesce hygiene pass on the newly coalesced article
+- **Word count**: 3304 → 3203 (-101; removed duplicative "Implications for the Map" section)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (LLM cliché at line 169; stale wikilinks in 20 content files; voids.md index duplication; subject-verb agreement in 3 files after slug pluralisation; length condensation)
+- **Enhancements made**: 56 inbound wikilinks updated across obsidian/topics, concepts, voids, and apex directories; duplicate related_articles entries deduplicated in mathematical-void, self-transcendence-void, and voids
+- **Output**: [deep-review-2026-04-17-formal-cognitive-limits](/reviews/deep-review-2026-04-17-formal-cognitive-limits/)
+
+## 2026-04-17 01:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [computational-cognitive-limits](/voids/computational-cognitive-limits/), [incompleteness-void](/voids/incompleteness-void/)
+- **Target**: [formal-cognitive-limits](/voids/formal-cognitive-limits/)
+- **Archived**: [computational-cognitive-limits](/archive/voids/computational-cognitive-limits/), [incompleteness-void](/archive/voids/incompleteness-void/)
+- **Rationale**: Voids section at 101/100 capacity (over cap). Two articles had substantial overlap—both centrally treated Gödel, the Lucas-Penrose argument, AI/computation relationships, and Occam's/dualism connections. Unified article preserves the halting problem, Rice's theorem, Chaitin's Ω, computational irreducibility, and bounded rationality from computational-cognitive-limits, plus absolutely undecidable statements, Hoel's incompleteness of science, the Dehaene cognitive architecture material, and the "what would challenge" falsification list from incompleteness-void.
+- **References to review**: 20 active content files link to one or both archived articles. URLs remain valid via archive, but follow-up cross-review recommended.
+
+## 2026-04-17 01:10 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/)
+- **Word count**: 3163 → 3163 (no change — convergence)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (second consecutive clean review; article reached stability after 2026-04-16 coalesce integration pass)
+- **Cross-review context**: Verified cluster relationships with framework-void (complementary structural/experiential split), phenomenology-of-intellectual-life (within-framework vs framework-level distinction cleanly maintained), and phenomenology-of-intellectual-courage (related but non-overlapping). Two cosmetic cleanup tasks noted for sibling articles (not modified in this pass).
+- **Output**: [deep-review-2026-04-17-phenomenology-of-conceptual-frameworks](/reviews/deep-review-2026-04-17-phenomenology-of-conceptual-frameworks/)
+
+## 2026-04-17 01:01 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-induction](/topics/consciousness-and-the-problem-of-induction/)
+- **Word count**: 1854 → 1847 (-7)
+- **Critical issues addressed**: 1 (duplicated Further Reading entry introduced by wikilink migration)
+- **Medium issues addressed**: 3 ("not X, it is Y" LLM-cliché constructs rephrased per style guide)
+- **Enhancements made**: 0 (article at stability per prior reviews; no new substantive content warranted)
+- **Output**: [deep-review-2026-04-17-consciousness-and-the-problem-of-induction](/reviews/deep-review-2026-04-17-consciousness-and-the-problem-of-induction/)
+
+## 2026-04-17 00:40 UTC - deep-review
+- **Status**: Success
+- **File**: [framework-void](/voids/framework-void/)
+- **Word count**: 2001 → 2070 (+69, soft_warning bracket — compensating trims applied but net positive for substantive metaphor-void integration)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing metaphor-void cross-link, verbose adversarial testing paragraph, redundant AI systems framing)
+- **Enhancements made**: 4 (reflexive passage in Approaches to the Edge, metaphor-void added to frontmatter + Further Reading, two prose tightens)
+- **Cross-review context**: framework-void ↔ language-thought-boundary with metaphor-void insights. No changes needed on language-thought-boundary axis; significant gap on metaphor-void axis now closed.
+- **Output**: [deep-review-2026-04-17-framework-void](/reviews/deep-review-2026-04-17-framework-void/)
+
+## 2026-04-17 00:25 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-friction](/concepts/interface-friction/)
+- **Word count**: 2217 → 2230 (+13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (tightened resistance-domain enumeration in opening framing to match the six domains in phenomenology-of-resistance-across-domains; prior version listed five and conflated the interface case with body-matter physical resistance)
+- **Enhancements made**: 1 (cross-review consistency polish)
+- **Output**: [deep-review-2026-04-17-interface-friction](/reviews/deep-review-2026-04-17-interface-friction/)
+
+## 2026-04-17 00:10 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Three recently coalesced/deep-reviewed topic articles — [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/) (coalesced and deep-reviewed 2026-04-16), [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/) (created and deep-reviewed 2026-04-16), and [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) (refined 2026-04-17 with disguised-property-dualism integration)
+- **Output**: [optimistic-2026-04-17](/reviews/optimistic-2026-04-17/)
+- **Suggested tasks**: 2 P3 expand-topic tasks added (Biranian thread apex piece, framework inhabitation vs. AI functional-equivalence)
+
+## 2026-04-17 00:05 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
+- **Word count**: 3139 → 3164 (+25, length-neutral mode honored — same 105% bracket)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal wikilink to new [disguised-property-dualism](/concepts/disguised-property-dualism/) concept article)
+- **Enhancements made**: 3 (inline link in Markovian Monism section, concepts[] frontmatter entry, Further Reading entry)
+- **Output**: [deep-review-2026-04-17-predictive-processing-and-dualism](/reviews/deep-review-2026-04-17-predictive-processing-and-dualism/)
+- **Follow-up**: Sibling article [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) also applies the disguised-property-dualism diagnostic informally without linking to the new concept — follow-up cross-review task recommended.
+
+## 2026-04-16 23:40 UTC - deep-review
+- **Status**: Skipped (stale task — target file is archived)
+- **File**: `parsimony-failure-consciousness.md` (archived 2026-03-21, coalesced into [parsimony-epistemology](/concepts/parsimony-epistemology/))
+- **Reason**: The integrate-orphan task asked for cross-references to an archived file. Archive pages exist to preserve external URLs and intentionally carry no inbound wikilinks from active content; adding cross-references would be incorrect.
+- **Root cause**: The orphan detector in `.claude/skills/replenish-queue/SKILL.md` scans `hugo/content/**/*.md` without excluding `hugo/content/archive/`, so archived files surface as orphans. A sibling task (concept-of-phenomenal-value-realism.md) had the same defect.
+- **Actions**: Removed both stale integrate-orphan tasks from `obsidian/workflow/todo.md`; filed a P2 refine-draft task to fix the orphan detector.
+
+## 2026-04-16 23:25 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-conceptual-frameworks](/topics/phenomenology-of-conceptual-frameworks/)
+- **Word count**: 3161 → 3163 (+2, length-neutral mode honored)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (uncited references artefact from coalesce — integrated McGinn and Polanyi citations; removed peripheral Husserl reference)
+- **Enhancements made**: 3 (2 citations integrated, 2 prose tightenings)
+- **Output**: [deep-review-2026-04-16-phenomenology-of-conceptual-frameworks](/reviews/deep-review-2026-04-16-phenomenology-of-conceptual-frameworks/)
+
+## 2026-04-16 23:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Addresses**: [pessimistic-2026-04-16c](/reviews/pessimistic-2026-04-16c/) Issue 1 (stale AI refinement logs)
+- **Changes**: Removed the 2026-04-16 AI refinement log block from the end of `concepts/philosophical-zombies.md` to close the review loop. Verified that the stale log blocks in `concepts/neural-correlates-of-consciousness.md` (2026-03-19) and `topics/animal-consciousness.md` (2026-03-21) flagged in the review had already been removed in commit f492fde1b; no further action required on those files
+- **Published**: yes
+
+## 2026-04-16 22:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [disguised-property-dualism](/concepts/disguised-property-dualism/)
+- **Addresses**: [pessimistic-2026-04-16d](/reviews/pessimistic-2026-04-16d/) Issues 2 & 3
+- **Changes**: Sharpened condition (3) with an explicit standard for "showing" reduction (logical derivation or empirical identity grounded in explanatory bridge, as *water = H₂O*); added "How the diagnostic applies to the Map's own view" subsection distinguishing the Map's brute-linkage commitment (no promise, so no failed reduction) from the disguised variants' asserted-but-unexhibited unifications, and conceding the diagnostic's force is heuristic rather than metaphysical
+- **Published**: yes
+
+## 2026-04-16 22:45 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/phenomenology-of-resistance-across-domains.md`, `concepts/disguised-property-dualism.md`, `topics/duhem-quine-underdetermination-consciousness.md`
+- **Output**: [pessimistic-2026-04-16d](/reviews/pessimistic-2026-04-16d/)
+
+## 2026-04-16 22:25 UTC - deep-review
+- **Status**: Success (convergence — no changes)
+- **File**: [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/)
+- **Word count**: 2528 → 2528 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (prior same-day review at 21:55 resolved style and cross-link issues; all six-persona re-checks confirmed stability)
+- **Enhancements made**: 0 (article at 84% of soft threshold; convergence affirmed)
+- **Output**: [deep-review-2026-04-16b-phenomenology-of-resistance-across-domains](/reviews/deep-review-2026-04-16b-phenomenology-of-resistance-across-domains/)
+
+## 2026-04-16 22:10 UTC - deep-review
+- **Status**: Success (convergence — no changes)
+- **File**: [disguised-property-dualism](/concepts/disguised-property-dualism/)
+- **Word count**: 1522 → 1522 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (prior same-day review at 20:15 already resolved both medium issues; re-verified attributions against sibling articles)
+- **Enhancements made**: 0 (article at 61% of soft threshold; convergence confirmed by second-pass personas)
+- **Output**: [deep-review-2026-04-16-disguised-property-dualism-followup](/reviews/deep-review-2026-04-16-disguised-property-dualism-followup/)
+
+## 2026-04-16 21:55 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/)
+- **Word count**: 2515 → 2528 (+13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (removed "This is not X. It is Y." style violation at Six Domains opening; clarified overstated logical-resistance yielding claim; added missing [epiphenomenalism](/concepts/epiphenomenalism/) cross-link)
+- **Enhancements made**: 0 (length-neutral tightening; article already at 84% of soft threshold)
+- **Output**: [deep-review-2026-04-16-phenomenology-of-resistance-across-domains](/reviews/deep-review-2026-04-16-phenomenology-of-resistance-across-domains/)
 
 ## 2026-04-16 21:45 UTC - deep-review
 - **Status**: Success

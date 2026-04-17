@@ -144,7 +144,7 @@ This generates a distinctive layered structure:
 2. **Second order**: We cannot formally prove these limits are genuine (the formalization void)
 3. **Third order**: We cannot even determine whether our inability to prove them is itself a genuine limit or merely reflects insufficient formal tools (meta-formalization regress)
 
-The formalization void differs from the [incompleteness-void](/voids/incompleteness-void/) (which covers Gödelian limits on self-knowledge) and from [whether-real](/voids/whether-real/) (which asks whether voids exist). The formalization void asks a more precise question: given that we suspect some cognitive limits are permanent, why does every attempt to *formally demonstrate* their permanence fail — and is this failure itself informative?
+The formalization void differs from the [incompleteness-void](/voids/formal-cognitive-limits/) (which covers Gödelian limits on self-knowledge) and from [whether-real](/voids/whether-real/) (which asks whether voids exist). The formalization void asks a more precise question: given that we suspect some cognitive limits are permanent, why does every attempt to *formally demonstrate* their permanence fail — and is this failure itself informative?
 
 ### Evidence for the Limit
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-17 01:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[tenets]]'
 - '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[computational-cognitive-limits]]'
+- '[[formal-cognitive-limits]]'
 - '[[phenomenology-of-recursive-self-awareness]]'
 - '[[language-recursion-and-consciousness]]'
 - '[[theory-of-mind]]'
@@ -149,7 +149,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [The Phenomenology of Recursive Self-Awareness](/topics/phenomenology-of-recursive-self-awareness/) — What the folding of awareness back on itself feels like
 - [Introspective Opacity](/voids/self-opacity/) — Why cognitive processes remain hidden
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
-- [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits on any algorithmic mind
+- [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Formal limits on any algorithmic mind
 - [Theory of Mind](/concepts/theory-of-mind/) — Levels of intentionality and the working memory constraint
 - [Consciousness and Social Cognition](/concepts/concept-of-consciousness-and-social-cognition/) — Recursive mindreading as consciousness-dependent social cognition
 - [Language, Recursion, and Consciousness](/topics/language-recursion-and-consciousness/) — Working memory bottlenecks on recursive structure

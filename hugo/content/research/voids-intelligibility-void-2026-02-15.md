@@ -220,7 +220,7 @@ Secondary: **Dualism** — If consciousness is fundamental and irreducible, then
 
 1. **Intelligibility as evidence**: The fact that reality is partially intelligible may be evidence for something about the relationship between consciousness and reality. Nagel argues it points to consciousness being fundamental. The Map's dualist framework suggests the partial intelligibility of reality is exactly what we should expect if consciousness is non-physical but interacts with the physical—the interaction is intelligible from neither side alone.
 
-2. **The void is self-referential**: The intelligibility void is the only void that applies to itself. We cannot make intelligible why intelligibility has limits. This self-referential character distinguishes it from all specific cognitive limits and connects it to the [self-reference paradox](/voids/self-opacity/) and [incompleteness-void](/voids/incompleteness-void/).
+2. **The void is self-referential**: The intelligibility void is the only void that applies to itself. We cannot make intelligible why intelligibility has limits. This self-referential character distinguishes it from all specific cognitive limits and connects it to the [self-reference paradox](/voids/self-opacity/) and [incompleteness-void](/voids/formal-cognitive-limits/).
 
 3. **Brute facts as void markers**: Every brute fact—every "that's just how it is"—marks a point where the intelligibility void surfaces. The distribution of brute facts across our understanding maps the boundary of the void.
 

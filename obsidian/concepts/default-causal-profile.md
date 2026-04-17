@@ -4,7 +4,7 @@ description: "A physical state's default causal profile is the pattern of effect
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-15T19:41:00+00:00
+ai_modified: 2026-04-17T01:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-04-15
 last_curated:
-last_deep_review: 2026-04-15T19:41:00+00:00
+last_deep_review: 2026-04-17T01:55:00+00:00
 ---
 
 A default causal profile is the pattern of effects a physical brain state would produce if no conscious experience took over its causal work. The concept originates in Bradford Saad's [[delegatory-dualism]] (2025), where it serves as the counterfactual baseline against which [[causal-delegation]] is defined. When a physical state's default causal profile matches the causal profile of an experiential property, conscious experience is instantiated and [[preemption|preempts]] the physical state's contribution — the experience does the causing, and the physical state is sidelined. The Unfinishable Map treats the default causal profile as a foundational concept in its account of [[mental-causation-and-downward-causation|mental causation]], and identifies it with the Born-rule probability distribution in its quantum interactionist framework.

@@ -63,7 +63,7 @@ None. The article has no factual errors, internal contradictions, or missing req
 4. Added cross-link to computational-cognitive-limits in frontmatter and Further Reading
 
 ### Cross-links Added
-- [computational-cognitive-limits](/voids/computational-cognitive-limits/) — directly relevant, now properly linked
+- [computational-cognitive-limits](/voids/formal-cognitive-limits/) — directly relevant, now properly linked
 
 ## Remaining Items
 

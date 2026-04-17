@@ -27,7 +27,7 @@ topics: []
 None. The article was already in good shape from the earlier review today.
 
 ### Medium Issues Found
-- **Formal vs. biological limits not distinguished**: The "Mathematical Understanding" section discussed Penrose but didn't clarify that computational limits (Gödel, Turing) are *mathematically proven* while McGinn's cognitive closure is a *hypothesis* about biology. **Resolution**: Rewrote the section to distinguish these two types of limits clearly and added link to [computational-cognitive-limits](/voids/computational-cognitive-limits/).
+- **Formal vs. biological limits not distinguished**: The "Mathematical Understanding" section discussed Penrose but didn't clarify that computational limits (Gödel, Turing) are *mathematically proven* while McGinn's cognitive closure is a *hypothesis* about biology. **Resolution**: Rewrote the section to distinguish these two types of limits clearly and added link to [computational-cognitive-limits](/voids/formal-cognitive-limits/).
 
 ### Low Issues Found
 None new.
@@ -58,10 +58,10 @@ None new.
    - Cognitive closure (proposed, human biology)
    - Added clarification on what follows if minds are/aren't computational
 2. **Tightened Fodor paragraph** to offset additions (removed redundant phrases)
-3. **Added cross-link** to [computational-cognitive-limits](/voids/computational-cognitive-limits/) in frontmatter and Further Reading
+3. **Added cross-link** to [computational-cognitive-limits](/voids/formal-cognitive-limits/) in frontmatter and Further Reading
 
 ### Cross-links Added
-- [computational-cognitive-limits](/voids/computational-cognitive-limits/) — New connection showing proven mathematical limits that complement McGinn's biological hypothesis
+- [computational-cognitive-limits](/voids/formal-cognitive-limits/) — New connection showing proven mathematical limits that complement McGinn's biological hypothesis
 
 ## Word Count
 - Before: 2430 words (97% of 2500 soft threshold)

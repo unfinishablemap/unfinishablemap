@@ -52,7 +52,7 @@ topics: []
 - Tightened prose in Non-Surveyable Proofs and Platonic Void sections for length neutrality
 
 ### Cross-links Added
-- None needed—existing links to [incompleteness-void](/voids/incompleteness-void/), [intrinsic-nature-void](/voids/intrinsic-nature-void/), [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), and other voids articles are appropriate
+- None needed—existing links to [incompleteness-void](/voids/formal-cognitive-limits/), [intrinsic-nature-void](/voids/intrinsic-nature-void/), [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), and other voids articles are appropriate
 
 ## Word Count
 - Before: 2226 words (111% of 2000 soft threshold)

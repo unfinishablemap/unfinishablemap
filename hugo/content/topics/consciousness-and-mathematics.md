@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-04-16 04:19:00+00:00
+ai_modified: 2026-04-17 01:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -46,10 +46,9 @@ last_deep_review: 2026-03-28 03:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[computational-cognitive-limits]]'
+- '[[formal-cognitive-limits]]'
 - '[[imagination-and-creativity-void]]'
 - '[[mathematical-void]]'
-- '[[incompleteness-void]]'
 - '[[incubation-effect-and-unconscious-processing]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
@@ -113,7 +112,7 @@ Dualism does not automatically solve the access problem, but it removes the cons
 
 ## Penrose's Gödelian Argument
 
-Penrose argues that Gödel's incompleteness theorems establish limits on algorithms: any sufficiently powerful formal system contains truths it cannot prove, yet mathematicians can *see* these truths, demonstrating that understanding transcends computation. These results constitute [proven limits on computation](/voids/computational-cognitive-limits/). The [authority of formal systems](/topics/consciousness-and-the-authority-of-formal-systems/) article examines how logic reaches a principled boundary at consciousness, and [Lawvere's fixed-point theorem](/topics/self-reference-and-the-limits-of-physical-description/) formally unifies incompleteness with quantum measurement limitations.
+Penrose argues that Gödel's incompleteness theorems establish limits on algorithms: any sufficiently powerful formal system contains truths it cannot prove, yet mathematicians can *see* these truths, demonstrating that understanding transcends computation. These results constitute [proven limits on computation](/voids/formal-cognitive-limits/). The [authority of formal systems](/topics/consciousness-and-the-authority-of-formal-systems/) article examines how logic reaches a principled boundary at consciousness, and [Lawvere's fixed-point theorem](/topics/self-reference-and-the-limits-of-physical-description/) formally unifies incompleteness with quantum measurement limitations.
 
 Critics object that the argument assumes human consistency—an unproven claim. But the regress is telling: mathematicians might use system F' to recognise the Gödel sentence of system F, but F' has its own unprovable truth. The regress suggests understanding cannot be captured by *any* fixed algorithm. The creative dimension deepens this: mathematicians construct new, more powerful systems—an ascent no fixed algorithm can replicate.
 
@@ -217,7 +216,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Gödel's incompleteness and quantum measurement as the same self-referential obstruction
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
-- [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
+- [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Formal proofs of what computation cannot do
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought supports dualism
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Mathematical beauty as evidence for irreducible consciousness
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The felt difference between verification and comprehension

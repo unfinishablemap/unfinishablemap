@@ -56,7 +56,7 @@ Inbound links added FROM existing articles TO this article:
 3. **[consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)** — Added to Further Reading and related_articles
 4. **[the-convergence-argument-for-dualism](/topics/the-convergence-argument-for-dualism/)** — Added to Further Reading
 5. **[epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/)** — Added to Further Reading as a case study
-6. **[incompleteness-void](/voids/incompleteness-void/)** — Added to Further Reading and related_articles
+6. **[incompleteness-void](/voids/formal-cognitive-limits/)** — Added to Further Reading and related_articles
 7. **[mathematical-void](/voids/mathematical-void/)** — Added to related_articles
 8. **[arguments-against-materialism](/topics/arguments-against-materialism/)** — Added to related_articles
 

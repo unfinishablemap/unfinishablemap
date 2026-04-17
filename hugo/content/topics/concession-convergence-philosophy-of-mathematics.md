@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-15 21:11:00+00:00
+ai_modified: 2026-04-17 01:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[reductionism-and-consciousness]]'
 - '[[arguments-against-materialism]]'
 - '[[mathematical-void]]'
-- '[[incompleteness-void]]'
+- '[[formal-cognitive-limits]]'
 - '[[phenomenology-of-intellectual-life]]'
 title: Concession Convergence in Philosophy of Mathematics
 topics:
@@ -126,7 +126,7 @@ The Map interprets the cross-domain convergence as evidence that the problem is 
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When independent convergence constitutes evidence
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reductive programmes fail at consciousness
 - [mathematical-void](/voids/mathematical-void/) — The boundary of mathematical knowledge
-- [incompleteness-void](/voids/incompleteness-void/) — Gödel's theorems and the limits of formal systems
+- [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödel's theorems and the limits of formal systems
 
 ## References
 

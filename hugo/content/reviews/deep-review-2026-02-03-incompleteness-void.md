@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-03
-**Article**: [The Incompleteness Void](/voids/incompleteness-void/)
+**Article**: [The Incompleteness Void](/voids/formal-cognitive-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-16 17:55:00+00:00
+ai_modified: 2026-04-17 00:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -17,6 +17,7 @@ concepts:
 - '[[categorical-surprise]]'
 - '[[qualia]]'
 - '[[parsimony-epistemology]]'
+- '[[disguised-property-dualism]]'
 created: 2026-02-15
 date: &id001 2026-03-19
 description: Predictive processing's metaphysically neutral formalism provides exactly
@@ -24,7 +25,7 @@ description: Predictive processing's metaphysically neutral formalism provides e
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 13:17:00+00:00
+last_deep_review: 2026-04-17 00:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,7 +63,7 @@ Wiese and Friston (2021) reinforce this reading, perhaps unintentionally. Their 
 
 Friston's "Markovian monism" deserves closer scrutiny because it reveals more than it intends. The position acknowledges a "dual information geometry": an extrinsic geometry (beliefs about the world) and an intrinsic geometry (information about the system's own future states). Friston proposes that extrinsic geometry potentially accounts for "mental" properties or "qualia." But he insists both geometries are "mutually reductive" — hence monism, not dualism.
 
-Acknowledging two irreducible *descriptions* while insisting on one *ontology* looks less like a completed reduction and more like a promissory note. If the extrinsic and intrinsic information geometries genuinely account for distinct properties — physical and mental — then the position bears a striking resemblance to [property dualism](/concepts/substance-property-dualism/) wearing a monist label. The question is whether "mutual reducibility" does real philosophical work or merely names the hope that the two descriptions will someday collapse into one.
+Acknowledging two irreducible *descriptions* while insisting on one *ontology* looks less like a completed reduction and more like a promissory note. If the extrinsic and intrinsic information geometries genuinely account for distinct properties — physical and mental — then the position is the Map's paradigm case of [disguised property dualism](/concepts/disguised-property-dualism/): [property dualism](/concepts/substance-property-dualism/) wearing a monist label. The question is whether "mutual reducibility" does real philosophical work or merely names the hope that the two descriptions will someday collapse into one.
 
 The Map's position is that the hope is unfounded. Every attempt to reduce phenomenal properties to informational or functional properties encounters the [explanatory-gap](/concepts/explanatory-gap/): no amount of structural description explains why the structure is *experienced*. Markovian monism inherits this problem. Calling the two information geometries "mutually reductive" does not show how or why intrinsic self-information feels like anything.
 
@@ -124,7 +125,7 @@ What PP misses is what every computational framework misses.
 
 **The qualitative richness of surprise.** As the Map explores in [its treatment of surprise and prediction error](/topics/surprise-prediction-error-and-consciousness/), prediction error as a computational signal fails to capture the phenomenological spectrum of surprise — from the subtle wrongness of a misplaced object to the vertigo of paradigm collapse that constitutes [categorical-surprise](/concepts/categorical-surprise/). These experiences differ in kind, not just in the magnitude of an error signal.
 
-**Why some predictions are conscious and others aren't.** The brain generates predictions at every level, but most remain unconscious. PP explains this through precision weighting, but precision weighting itself lacks an explanation for why high-precision signals are *experienced* while low-precision ones aren't. If precision is just a mathematical parameter, there is no principled reason why any value of precision should cross the threshold into phenomenal awareness.
+**Why some predictions are conscious and others aren't.** The brain generates predictions at every level, but most remain unconscious. PP explains this through precision weighting, but precision weighting itself lacks an explanation for why high-precision signals are *experienced* while low-precision ones aren't. No value of a mathematical precision parameter crosses the threshold into phenomenal awareness on the strength of the parameter alone.
 
 ## Relation to Site Perspective
 
@@ -143,6 +144,7 @@ The Unfinishable Map sees predictive processing as a valuable ally — the best 
 ## Further Reading
 
 - [predictive-processing](/concepts/predictive-processing/) — The core concept: brain as prediction engine
+- [disguised-property-dualism](/concepts/disguised-property-dualism/) — The Map's diagnostic for physicalist theories that posit two irreducible structures while disavowing the dualist label; Markovian monism is its paradigm case
 - [predictive-construction-void](/voids/predictive-construction-void/) — Why the ratio of construction to reception in perception is structurally unknowable, and how the Markov blanket compounds the dualist subject's epistemic isolation
 - [attention-as-interface](/concepts/attention-as-interface/) — Precision weighting as the causal bridge
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Attention and motor planning as unified selection

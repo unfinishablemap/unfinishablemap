@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-04-05 20:55:00+00:00
+ai_modified: 2026-04-17 01:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[scale-void]]'
 - '[[temporal-void]]'
 - '[[smoothness-and-continuity]]'
-- '[[computational-cognitive-limits]]'
+- '[[formal-cognitive-limits]]'
 - '[[bandwidth-of-consciousness]]'
 - '[[bandwidth-problem-mental-causation]]'
 - '[[grain-mismatch]]'
@@ -96,7 +96,7 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 - [grain-mismatch](/concepts/grain-mismatch/) — The structural incompatibility between smooth phenomenal properties and discrete neural substrates
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present and how consciousness packages time
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — What happens when perception degrades and the interface becomes visible
-- [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Mathematical limits on what any system can compute
+- [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Mathematical limits on what any system can compute
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Empirical measurements of the consciousness bottleneck
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — How coarse-grained intention produces fine-grained physical effects
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention operates at the resolution boundary

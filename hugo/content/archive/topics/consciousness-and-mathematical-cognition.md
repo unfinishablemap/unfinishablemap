@@ -76,7 +76,7 @@ The argument runs roughly:
 3. No algorithm operating within F can recognise G as true.
 4. Therefore, mathematical understanding involves something non-algorithmic.
 
-These formal results—Gödel's incompleteness, the halting problem, Rice's theorem—constitute [proven limits on computation](/voids/computational-cognitive-limits/) that no algorithmic process can circumvent. The [authority of formal systems](/topics/consciousness-and-the-authority-of-formal-systems/) article examines how logic and mathematics reach a principled boundary at consciousness: formal systems govern structure, but consciousness involves intrinsic quality that structure alone cannot capture. Category-theoretic work shows these same incompleteness limits also generate quantum measurement limitations—a [formal unification via Lawvere's fixed-point theorem](/topics/self-reference-and-the-limits-of-physical-description/) that strengthens the case for consciousness at physics' boundary. The philosophical question is whether consciousness accesses something beyond these limits or shares them.
+These formal results—Gödel's incompleteness, the halting problem, Rice's theorem—constitute [proven limits on computation](/voids/formal-cognitive-limits/) that no algorithmic process can circumvent. The [authority of formal systems](/topics/consciousness-and-the-authority-of-formal-systems/) article examines how logic and mathematics reach a principled boundary at consciousness: formal systems govern structure, but consciousness involves intrinsic quality that structure alone cannot capture. Category-theoretic work shows these same incompleteness limits also generate quantum measurement limitations—a [formal unification via Lawvere's fixed-point theorem](/topics/self-reference-and-the-limits-of-physical-description/) that strengthens the case for consciousness at physics' boundary. The philosophical question is whether consciousness accesses something beyond these limits or shares them.
 
 Critics object that this proves too much or too little. Perhaps mathematicians use some larger system F' to recognise G—but then F' has its own unprovable truth G'. The regress suggests mathematical understanding cannot be captured by *any* fixed algorithm, which is Penrose's point.
 
@@ -230,11 +230,11 @@ The view would be supported by continued failure of AI to achieve transformation
 - [working-memory](/concepts/working-memory/) — Computational limits that consciousness may transcend
 - [creativity-void](/voids/imagination-and-creativity-void/) — The phenomenologically hidden source of creative insight
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
-- [incompleteness-void](/voids/incompleteness-void/) — The boundary Gödel's theorems reveal
+- [incompleteness-void](/voids/formal-cognitive-limits/) — The boundary Gödel's theorems reveal
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Empirical evidence for unconscious creative processing
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience matters philosophically
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) — The felt difference between mechanical verification and genuine comprehension
-- [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
+- [computational-cognitive-limits](/voids/formal-cognitive-limits/) — Formal proofs of what computation cannot do
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — Parallels between choice phenomenology and insight phenomenology
 - [agent-causation](/concepts/agent-causation/) — Mathematical creativity as a case of genuine causal agency
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why logic and mathematics reach a principled boundary at consciousness

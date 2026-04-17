@@ -76,7 +76,7 @@ topics: []
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
-- [incompleteness-void](/voids/incompleteness-void/)
+- [incompleteness-void](/voids/formal-cognitive-limits/)
 - [illusionism](/concepts/illusionism/)
 - [metarepresentation](/concepts/metacognition/) (frontmatter)
 

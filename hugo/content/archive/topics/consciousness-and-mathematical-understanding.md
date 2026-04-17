@@ -54,7 +54,7 @@ The argument runs roughly:
 3. No algorithm operating within F can recognise G as true.
 4. Therefore, mathematical understanding involves something non-algorithmic.
 
-These formal results—Gödel's incompleteness, the halting problem, Rice's theorem—constitute [proven limits on computation](/voids/computational-cognitive-limits/) that no algorithmic process can circumvent. The philosophical question is whether consciousness accesses something beyond these limits or shares them.
+These formal results—Gödel's incompleteness, the halting problem, Rice's theorem—constitute [proven limits on computation](/voids/formal-cognitive-limits/) that no algorithmic process can circumvent. The philosophical question is whether consciousness accesses something beyond these limits or shares them.
 
 Critics object that this proves too much or too little. Perhaps mathematicians use some larger system F' to recognise G—but then F' has its own unprovable truth G'. The regress suggests mathematical understanding cannot be captured by *any* fixed algorithm, which is Penrose's point.
 
@@ -192,7 +192,7 @@ The view would be *supported* by:
 - [ai-consciousness](/topics/ai-consciousness/) — Whether artificial systems could understand mathematics
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/) — Parallels between choice phenomenology and insight phenomenology
 - [agent-causation](/concepts/agent-causation/) — Mathematical creativity as a case of genuine causal agency
-- [computational-cognitive-limits](/voids/computational-cognitive-limits/) — Formal proofs of what computation cannot do
+- [computational-cognitive-limits](/voids/formal-cognitive-limits/) — Formal proofs of what computation cannot do
 
 ## References
 

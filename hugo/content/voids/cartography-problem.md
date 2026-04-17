@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-28 02:43:00+00:00
+ai_modified: 2026-04-17 01:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[self-opacity]]'
-- '[[incompleteness-void]]'
+- '[[formal-cognitive-limits]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
 - '[[meta-epistemology-of-limits]]'
@@ -37,7 +37,7 @@ topics:
 
 The Unfinishable Map catalogs cognitive voids—territories where thought cannot go or is blocked from going. But can this catalog ever know its own boundaries? The cartography problem is a second-order void: not a specific limit on what we can think, but a structural constraint on the project of enumerating such limits. Multiple independent lines of evidence—formal, transcendental, literary, and phenomenological—converge on a single conclusion: a complete catalog of cognitive voids is impossible in principle. The map of voids cannot contain itself.
 
-This distinguishes the cartography problem from the Map's other self-referential investigations. The [self-reference paradox](/voids/self-opacity/) asks whether consciousness can observe itself. The [incompleteness-void](/voids/incompleteness-void/) applies Gödel to mathematical cognition. The cartography problem asks something different: whether the *project* of cataloging limits can catalog its own limits. It operates at the meta-level—a void in the voids framework rather than a void within cognition directly. The [taxonomy of voids](/apex/taxonomy-of-voids/) places it in the formal and meta-cognitive cluster alongside the incompleteness and recursion voids, where it serves as the structural proof that the taxonomy itself is constitutively incomplete.
+This distinguishes the cartography problem from the Map's other self-referential investigations. The [self-reference paradox](/voids/self-opacity/) asks whether consciousness can observe itself. The [formal cognitive limits](/voids/formal-cognitive-limits/) apply Gödel to mathematical cognition. The cartography problem asks something different: whether the *project* of cataloging limits can catalog its own limits. It operates at the meta-level—a void in the voids framework rather than a void within cognition directly. The [taxonomy of voids](/apex/taxonomy-of-voids/) places it in the formal and meta-cognitive cluster alongside the incompleteness and recursion voids, where it serves as the structural proof that the taxonomy itself is constitutively incomplete.
 
 ## Second-Order Ignorance
 
@@ -128,7 +128,7 @@ The cartography problem connects to the Map's [tenets](/tenets/) at multiple poi
 - [A Taxonomy of Voids](/apex/taxonomy-of-voids/) — Synthesis placing this problem within the full voids architecture
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [The Self-Reference Paradox](/voids/self-opacity/) — Consciousness trying to observe itself
-- [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
+- [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Gödel's shadow on self-knowledge
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our own limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — Boundaries as data about architecture

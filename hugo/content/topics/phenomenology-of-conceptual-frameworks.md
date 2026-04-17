@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-16 21:30:00+00:00
+ai_modified: 2026-04-17 01:10:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -24,6 +24,7 @@ description: What it is like to dwell inside a framework and what it is like whe
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-17 01:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -76,7 +77,7 @@ Predictive processing accounts can model this restructuring computationally — 
 
 ## The Gravitational Structure of Commitment
 
-Theoretical commitment creates something like an experiential gravity well. Ideas within the theory's domain are drawn toward coherent interpretation; those outside drift to the periphery. The *effort* required to entertain alternatives increases with the depth of commitment. This is an epistemic structure that makes sustained inquiry possible — without it, every observation would demand fresh interpretation from scratch.
+Theoretical commitment creates something like an experiential gravity well. Ideas within the theory's domain are drawn toward coherent interpretation; those outside drift to the periphery. The *effort* required to entertain alternatives increases with the depth of commitment. This structure makes sustained inquiry possible — without it, every observation would demand fresh interpretation from scratch.
 
 The gravitational structure manifests as **inferential momentum** (within a framework, conclusions generate pressure toward the next — the dualist accepting irreducibility feels logical momentum toward interactionism), **coherence satisfaction** (disparate observations converging under one framework produces a felt rightness that functions as a phenomenal [epistemic signal](/concepts/epistemic-emotions/) of explanatory progress), and **boundary alertness** (problems at the edge of the theory's reach feel qualitatively different from problems well within its scope).
 
@@ -96,7 +97,7 @@ The irritation may function as a framework-preservation mechanism. Instead of op
 
 ### Moments of Framework Slippage
 
-Rarely, the framework briefly becomes visible as a framework — a sudden, vertiginous sense that what one took for unmediated reality is a constructed perspective. These typically occur during sustained engagement with a radically different tradition. The experience is transient: within seconds to minutes, the framework reasserts its transparency. The transience is philosophically significant — it suggests framework transparency is actively maintained, not merely default. Something in the cognitive architecture actively restores the sense that one's categories are transparent windows rather than coloured glass.
+Rarely, the framework briefly becomes visible as a framework — a sudden, vertiginous sense that what one took for unmediated reality is a constructed perspective. These typically occur during sustained engagement with a radically different tradition. The experience is transient: within seconds to minutes, the framework reasserts its transparency. The transience suggests framework transparency is actively maintained, not merely default — something in the cognitive architecture restores the sense that one's categories are transparent windows rather than coloured glass.
 
 ## When Frameworks Break Down
 
@@ -129,7 +130,7 @@ After the shift comes consolidation: cautious pleasure as the new framework hand
 
 ## The First-Person Asymmetry
 
-A fundamental asymmetry runs through both inhabitation and change: one's own commitments feel like clear sight while others' commitments look like bias. This is a structural feature of what commitment is, not a defect to be corrected. To be committed to a theory is to take it as revealing rather than distorting — if the commitment felt like distortion, it would not be a commitment.
+A fundamental asymmetry runs through both inhabitation and change: one's own commitments feel like clear sight while others' commitments look like bias. This is a structural feature of what commitment is, not a defect to be corrected. To be committed to a theory is to take it as revealing rather than distorting — if the commitment felt like distortion, it would not be a commitment. Polanyi (1958) called this *personal knowledge*: genuine knowing is inseparable from the knower's tacit commitments, which cannot be detached from the act of understanding.
 
 A materialist committed to physicalism experiences the explanatory gap as a puzzle to be solved, not a sign that their framework is inadequate. A dualist committed to irreducibility experiences the gap as pointing toward a genuine feature of reality. The asymmetry is the phenomenological face of [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/): when evidence cannot force theory choice, each committed theorist experiences their framework as transparent. Ratcliffe's work on *feelings of being* illuminates this — theoretical commitment shapes the space of what feels intelligible before deliberate evaluation begins.
 
@@ -169,7 +170,7 @@ The Unfinishable Map's own theoretical commitments — its five [tenets](/tenets
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Framework change is singular and irreversible. After a genuine shift, you inhabit *this* framework, not multiple frameworks simultaneously. The experienced irreversibility presupposes that framework change is a real transition, not a branching into parallel versions of oneself. The determinacy of "which framework do *I* now inhabit?" reflects real collapse, not the illusion of collapse within one branch.
 
-The analysis also resonates with [mysterianism](/concepts/mysterianism/). If frameworks constrain not just what we think but what we can experience, some aspects of consciousness may be structurally inaccessible — not because the phenomena are inherently mysterious, but because every framework filters out precisely what would need to be noticed. The [framework-void](/voids/framework-void/) explores this structural impossibility from outside; this article has explored what it feels like from within.
+The analysis also resonates with McGinn's (1989) [mysterianism](/concepts/mysterianism/). If frameworks constrain not just what we think but what we can experience, cognitive closure acquires a phenomenological dimension — some aspects of consciousness may be structurally inaccessible not because they are inherently mysterious, but because every framework filters out precisely what would need to be noticed. The [framework-void](/voids/framework-void/) explores this structural impossibility from outside; this article has explored what it feels like from within.
 
 ## What Would Challenge This View?
 
@@ -205,7 +206,6 @@ The claim that framework inhabitation and change have irreducible phenomenal cha
 1. Chi, M.T.H. (1992). Conceptual change within and across ontological categories. In R. Giere (Ed.), *Cognitive Models of Science*. University of Minnesota Press.
 1. Davidson, D. (1974). "On the Very Idea of a Conceptual Scheme." *Proceedings and Addresses of the American Philosophical Association*, 47, 5-20.
 1. Heidegger, M. (1927). *Being and Time*. Trans. J. Macquarrie and E. Robinson. Harper & Row, 1962.
-1. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Trans. F. Kersten. Kluwer, 1983.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 1. Kuhn, T.S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
 1. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.

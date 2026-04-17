@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-16 17:55:00+00:00
+ai_modified: 2026-04-17 01:41:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -97,7 +97,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Creativity Void](/voids/imagination-and-creativity-void/) — Where creative insight originates, inaccessible to introspection
 - [The Aesthetic Void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [The Self-Reference Paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
-- [The Incompleteness Void](/voids/incompleteness-void/) — Gödel's shadow on self-knowledge
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
 - [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
@@ -157,7 +156,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [The Architecture of Cognitive Closure](/voids/biological-cognitive-closure/) — What concepts can minds form, and voids we acquire through maturation
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
-- [Computational Cognitive Limits](/voids/computational-cognitive-limits/) — Formal limits on any algorithmic mind
+- [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Proved limits on computation (Gödel, Turing, Chaitin) and their bearing on consciousness
 - [The Mathematical Void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [The Nomic Void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics themselves

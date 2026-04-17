@@ -88,7 +88,7 @@ When mathematicians recognise a Gödel sentence as true, they exercise a capacit
 
 The creative dimension enters because Gödel's theorem applies to *any* formal system. Mathematicians don't stay within one system—they construct new, more powerful systems to handle what the old ones could not prove. This ascent through systems of increasing power is itself a creative act. Each new system requires inventing new axioms, new definitions, new frameworks. The capacity to do this—to build ever-more-powerful formal systems in response to incompleteness—is a form of mathematical creativity that no fixed algorithm can replicate, because any fixed algorithm is itself bounded by some formal system.
 
-The connection to the [mathematical-void](/voids/mathematical-void/) and the [incompleteness-void](/voids/incompleteness-void/) is significant. If mathematical Platonism holds, an infinite realm of mathematical truth exists that no finite system can fully capture. Mathematical creativity, on this view, is the process by which consciousness accesses ever more of this inexhaustible domain—not by running a fixed procedure but by generating new frameworks for apprehending what was previously beyond reach.
+The connection to the [mathematical-void](/voids/mathematical-void/) and the [incompleteness-void](/voids/formal-cognitive-limits/) is significant. If mathematical Platonism holds, an infinite realm of mathematical truth exists that no finite system can fully capture. Mathematical creativity, on this view, is the process by which consciousness accesses ever more of this inexhaustible domain—not by running a fixed procedure but by generating new frameworks for apprehending what was previously beyond reach.
 
 ## The Phenomenology of Mathematical Invention
 
@@ -154,7 +154,7 @@ The [illusionist](/concepts/illusionism/) challenge also applies: if phenomenal 
 - [distinctiveness-of-human-creativity](/topics/consciousness-and-creative-distinctiveness/) — Why human creativity differs in kind from animal and AI creativity
 - [creativity-void](/voids/imagination-and-creativity-void/) — The phenomenologically hidden source of creative insight
 - [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
-- [incompleteness-void](/voids/incompleteness-void/) — The boundary Gödel's theorems reveal
+- [incompleteness-void](/voids/formal-cognitive-limits/) — The boundary Gödel's theorems reveal
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The empirical evidence for unconscious creative processing
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience matters philosophically
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between mechanical verification and genuine comprehension

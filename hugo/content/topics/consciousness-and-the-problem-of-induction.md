@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-17 01:01:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Exploring how consciousness transforms the problem of induction fro
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 01:32:00+00:00
+last_deep_review: 2026-04-17 01:01:00+00:00
 modified: *id001
 related_articles:
 - '[[argument-from-reason]]'
@@ -66,7 +66,7 @@ Similarly, [belief revision](/topics/phenomenology-of-intellectual-life/) has a 
 
 The problem of induction takes on special significance when applied to consciousness itself. Physical science relies on induction: we observe regularities between neural states and reported experiences, then generalise. But the [explanatory-gap](/concepts/explanatory-gap/)—central to the [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)—means that no amount of physical regularity explains *why* a given brain state is accompanied by a specific experience rather than a different one or none at all.
 
-This is not merely an unsolved problem—it represents a fundamental limit on what induction can achieve in the domain of consciousness. Induction works by identifying patterns and projecting them. But the relationship between physical processes and phenomenal experience is not a pattern of the usual kind. It is a brute correlation without an intelligible mechanism connecting its terms. The [knowledge-argument](/concepts/knowledge-argument/) drives this home: Mary knows all the physical facts about colour vision yet cannot inductively derive what red looks like. Physicalists respond that Mary gains only a new *ability* (to recognise red) rather than new propositional knowledge, or that she acquires a new *phenomenal concept* for information she already possessed. But neither response addresses the inductive point: no accumulation of physical facts, however exhaustive, generates the phenomenal prediction. The gap is not in Mary's conceptual repertoire—it is in what induction over physical facts can deliver.
+This represents a fundamental limit on what induction can achieve in the domain of consciousness, rather than a gap awaiting a better theory. Induction works by identifying patterns and projecting them. But the relationship between physical processes and phenomenal experience is not a pattern of the usual kind. It is a brute correlation without an intelligible mechanism connecting its terms. The [knowledge-argument](/concepts/knowledge-argument/) drives this home: Mary knows all the physical facts about colour vision yet cannot inductively derive what red looks like. Physicalists respond that Mary gains only a new *ability* (to recognise red) rather than new propositional knowledge, or that she acquires a new *phenomenal concept* for information she already possessed. But neither response addresses the inductive point: no accumulation of physical facts, however exhaustive, generates the phenomenal prediction. The gap lies in what induction over physical facts can deliver, not in Mary's conceptual repertoire.
 
 The Map's dualist framework makes this failure explicable rather than mysterious. If consciousness is genuinely irreducible to physical processes, then the failure of physical-to-phenomenal induction is not a temporary gap awaiting a future theory. It reflects a real boundary between ontological categories. Induction works within categories—physical patterns predict physical outcomes, phenomenal patterns predict phenomenal expectations—but cannot bridge the fundamental divide.
 
@@ -90,7 +90,7 @@ The problem of induction becomes acutely self-referential when applied to the st
 
 This is a species of [self-stultification](/concepts/self-stultification/). A theory of mind that uses conscious reasoning to conclude that conscious reasoning is illusory defeats itself. The physicalist who inductively argues that consciousness is "nothing but" neural activity relies on the very capacities—pattern recognition, evidential assessment, justified belief—whose reality their conclusion denies.
 
-The obvious physicalist response is: "I am using neural computation to study neural computation—there is no circularity." But this misidentifies the problem. The question is not whether brains can model brains, but whether the inference "my conscious assessment of evidence is reliable" survives the conclusion "conscious assessment is [epiphenomenal](/concepts/epiphenomenalism/)." If the felt weight of evidence plays no causal role in belief formation, then the physicalist's confidence in their own conclusion is not *based on* evidence—it merely coincides with it. The self-application problem is not about computational circularity but about normative self-defeat.
+The obvious physicalist response is: "I am using neural computation to study neural computation—there is no circularity." But this misidentifies the problem. The question is not whether brains can model brains, but whether the inference "my conscious assessment of evidence is reliable" survives the conclusion "conscious assessment is [epiphenomenal](/concepts/epiphenomenalism/)." If the felt weight of evidence plays no causal role in belief formation, then the physicalist's confidence in their own conclusion is not *based on* evidence—it merely coincides with it. The self-application problem concerns normative self-defeat, not computational circularity.
 
 The Map takes this self-application problem seriously. Any adequate account of induction must acknowledge that the inquirer performing the induction is a conscious being whose phenomenal states partly constitute the reasoning process. Stripping consciousness from the picture does not purify the analysis—it destroys it.
 
@@ -107,7 +107,6 @@ The Map's tenets illuminate the consciousness-induction relationship in several 
 ## Further Reading
 
 - [argument-from-reason](/topics/argument-from-reason/)
-- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/)
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/)
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/)

@@ -76,7 +76,7 @@ None. The previous review (2026-01-21) addressed all critical structural issues.
 
 ### Cross-links Added
 
-- [computational-cognitive-limits](/voids/computational-cognitive-limits/) (concepts and Further Reading)
+- [computational-cognitive-limits](/voids/formal-cognitive-limits/) (concepts and Further Reading)
 
 ## Metrics
 

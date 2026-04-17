@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [Computational Cognitive Limits](/voids/computational-cognitive-limits/)
+**Article**: [Computational Cognitive Limits](/voids/formal-cognitive-limits/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-computational-cognitive-limits/)
 **Context**: Cross-review with new incompleteness research (voids-incompleteness-void-2026-01-31.md)
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [The Incompleteness Void](/voids/incompleteness-void/)
+**Article**: [The Incompleteness Void](/voids/formal-cognitive-limits/)
 **Previous review**: [2026-02-03](/reviews/deep-review-2026-02-03-incompleteness-void/)
 
 ## Context

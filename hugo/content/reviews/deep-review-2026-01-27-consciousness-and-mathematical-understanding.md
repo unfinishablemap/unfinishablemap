@@ -70,7 +70,7 @@ The six adversarial personas raised objections that are largely philosophical di
 
 ### Cross-links Added
 
-- [computational-cognitive-limits](/voids/computational-cognitive-limits/) (frontmatter, body, and Further Reading)
+- [computational-cognitive-limits](/voids/formal-cognitive-limits/) (frontmatter, body, and Further Reading)
 
 ## Remaining Items
 

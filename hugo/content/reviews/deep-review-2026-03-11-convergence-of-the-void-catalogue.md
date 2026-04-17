@@ -48,7 +48,7 @@ None.
 - Substantive, non-formulaic tenet connections
 
 ### Enhancements Made
-- Added wikilinks to `[destabilizing-self-knowledge](/voids/necessary-opacity/)` and `[computational-cognitive-limits](/voids/computational-cognitive-limits/)`
+- Added wikilinks to `[destabilizing-self-knowledge](/voids/necessary-opacity/)` and `[computational-cognitive-limits](/voids/formal-cognitive-limits/)`
 - Removed references to non-existent void articles (mechanism void, selection void, inverted qualia void)
 - Rephrased Minimal Quantum Interaction tenet connection to work without referencing a non-existent file
 - Removed disconnected academic reference (Spagna et al. 2020)
@@ -56,7 +56,7 @@ None.
 
 ### Cross-links Added
 - [destabilizing-self-knowledge](/voids/necessary-opacity/)
-- [computational-cognitive-limits](/voids/computational-cognitive-limits/)
+- [computational-cognitive-limits](/voids/formal-cognitive-limits/)
 
 ## Remaining Items
 None. All medium issues addressed.

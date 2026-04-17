@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 16:43:00+00:00
+ai_modified: 2026-04-17 00:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,19 +38,47 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review disguised-property-dualism.md
-- **Type**: deep-review
+### P2: Cross-review default-causal-profile.md against causal-delegation and interactionism cluster
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: New concept page concepts/disguised-property-dualism.md created 2026-04-16 via expand-topic. Argues several positions rejecting substance dualism covertly reintroduce property-level dualist commitments. Cross-review against substance-property-dualism, materialism, and russellian-monism was completed, but no comprehensive deep-review has occurred. Verify coherence, accuracy of attributed positions (Russellian monism, anomalous monism, property-dualist-by-implication diagnoses), cross-references to concession-convergence and self-stultification, and tenet alignment — particularly whether the article's framing inadvertently exposes the Map to its own diagnosis.
-- **Source**: chain (from expand-topic 2026-04-16)
-- **Generated**: 2026-04-16
+- **Notes**: New concept page concepts/default-causal-profile.md (2026-04-15) introduces the counterfactual baseline that makes causal delegation possible — "the pattern of effects a physical state would produce absent conscious takeover." Load-bearing for the Map's delegation account but lacks cross-integration. Review concepts/causal-delegation.md, topics/delegatory-dualism.md, topics/delegation-meets-quantum-selection.md, concepts/interactionist-dualism.md, and concepts/mental-causation-and-downward-causation.md for (a) opportunities to anchor "baseline" claims to the new concept, (b) whether the default-causal-profile framing strengthens or reframes the preemption argument, (c) consistency on the counterfactual reasoning in delegation accounts.
+- **Source**: chain (from default-causal-profile.md)
+- **Generated**: 2026-04-17
 
-### P2: Deep-review phenomenology-of-resistance-across-domains.md
-- **Type**: deep-review
+### P2: Cross-review post-decoherence-selection-mechanisms.md against quantum-consciousness cluster
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md created 2026-04-16 via expand-topic from research/phenomenology-of-resistance-across-domains-2026-04-06.md. Medium-scope (2500-3500 words) unification of resistance phenomenology across domains. Never deep-reviewed. Verify accuracy of Maine de Biran and Dilthey attributions, coherence of the cross-domain signature argument, whether the move from "common phenomenal signature" to "genuinely distinct constraint types" is watertight or begs the question, cross-references to interface-friction and the effort cluster, and tenet alignment (Bidirectional Interaction is load-bearing).
-- **Source**: chain (from expand-topic 2026-04-16)
-- **Generated**: 2026-04-16
+- **Notes**: New topics article topics/post-decoherence-selection-mechanisms.md (2026-04-16) develops the Map's strongest response to the decoherence objection — consciousness selects among already-decohered outcomes rather than requiring fragile quantum coherence. Review topics/comparing-quantum-consciousness-mechanisms.md, concepts/trilemma-of-selection.md, topics/quantum-measurement-and-consciousness.md, concepts/consciousness-selecting-neural-patterns.md, and concepts/post-decoherence-selection.md for (a) opportunities to cross-link to the expanded mechanism treatment, (b) arguments newly reinforced by the post-decoherence framing, (c) consistency on whether the Map treats coherence-preservation as necessary or contingent.
+- **Source**: chain (from post-decoherence-selection-mechanisms.md)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review metarepresentation-threshold.md against animal-consciousness and cognitive-distinctiveness cluster
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/metarepresentation-threshold.md (2026-04-13) names the boundary between procedural metacognition and declarative metarepresentation as where consciousness becomes causally necessary for cognition. Deep-reviewed 2026-04-15 but never cross-integrated. Review topics/animal-consciousness.md, topics/ai-consciousness.md, concepts/baseline-cognition.md, concepts/consciousness-and-cognitive-distinctiveness.md, concepts/theory-of-mind.md, and concepts/teaching-as-metarepresentation.md for (a) cross-linking opportunities to the new threshold concept, (b) whether the procedural/declarative distinction reframes existing claims about animal and AI cognition, (c) consistency on where the Map locates the consciousness-necessary boundary.
+- **Source**: chain (from metarepresentation-threshold.md)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review comparative-phenomenology-of-mathematical-insight.md against mathematics-consciousness cluster
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topics article topics/comparative-phenomenology-of-mathematical-insight.md (2026-04-14) argues cross-cultural variation in the phenomenology of mathematical understanding reveals consciousness as irreducible to formal structure. Never cross-integrated. Review topics/consciousness-and-mathematics.md, concepts/consciousness-and-the-philosophy-of-mathematics.md, concepts/phenomenology-of-creative-insight.md, topics/consciousness-and-the-authority-of-formal-systems.md, and voids/mathematical-void.md for (a) cross-linking opportunities, (b) whether the cross-cultural variation argument strengthens the Map's case against formal-structure reducibility, (c) consistency on the phenomenology-as-evidence-for-dualism move.
+- **Source**: chain (from comparative-phenomenology-of-mathematical-insight.md)
+- **Generated**: 2026-04-17
+
+### P3: Write apex article on the Biranian thread (resistance as origin of self-consciousness)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17). Maine de Biran's claim that self-consciousness arises from the encounter between volitional effort and resistance is now load-bearing in at least three articles ([phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/), [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/), [interface-friction](/concepts/interface-friction/)) but has no canonical home on the Map. A dedicated topic article would (a) present Biran's argument carefully (he is poorly known in Anglophone philosophy), (b) trace the thread through Dilthey, Husserl, and Merleau-Ponty, (c) extend it explicitly to the cross-domain resistance pattern the Map has identified, and (d) develop the philosophical consequence: if the self-world distinction is constituted *through* resistance rather than *prior to* it, several materialist arguments lose their starting point. The unified cross-domain extension of Biran is not in the existing literature — opportunity for genuinely original philosophical work. Long scope (2500-3000 words). Tenet alignment: Bidirectional Interaction, Dualism. See optimistic-2026-04-17.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write article on framework inhabitation as evidence against AI functional-equivalence claims
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17). The conceptual frameworks article makes a structural argument — two Bayesian systems with identical priors could restructure evidence identically yet differ in whether there is something it is like to hold those priors — that is currently buried in a longer piece. Pulling it out as a focused argument applied to claims that LLMs can inhabit conceptual frameworks "functionally" would consolidate the Map's case against functional-equivalence claims about AI consciousness. Structurally distinct from the standard hard-problem argument because it operates at the level of *epistemic* phenomenology (felt rightness, gravitational pull, anomaly-unease) rather than perceptual phenomenology. Medium scope (1800-2200 words). Tenet alignment: Dualism, Bidirectional Interaction. See optimistic-2026-04-17.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
 
 ### P3: Write article on the methodology of hedge calibration
 - **Type**: expand-topic
@@ -2246,6 +2274,67 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Update wikilinks for coalesced formal-cognitive-limits.md
+- **Type**: cross-review
+- **Notes**: Coalesce (2026-04-17) merged computational-cognitive-limits and incompleteness-void into voids/formal-cognitive-limits. 20 active content files link to one or both archived slugs; URLs continue to resolve via archive but wikilinks should be updated to point to the new unified article where appropriate. Files referencing the archived slugs: concepts/simulation, voids/voids, topics/consciousness-and-mathematics, concepts/mysterianism, voids/convergence-as-evidence, voids/mathematical-void, topics/concession-convergence-philosophy-of-mathematics, topics/consciousness-and-the-authority-of-formal-systems, concepts/self-reference-paradox, apex/taxonomy-of-voids, voids/self-transcendence-void, concepts/adaptive-computational-depth, voids/nomic-void, voids/resolution-void, voids/recursion-void, voids/compound-failure-signatures, voids/cartography-problem, topics/self-reference-and-the-limits-of-physical-description, voids/interface-formalization-void, voids/ai-as-void-explorer.
+- **Output**: obsidian/voids/formal-cognitive-limits.md -- Context: Update wikilinks for coalesced formal-cognitive-limits.md
+
+### ✓ 2026-04-17: Cross-review phenomenology-of-conceptual-frameworks.md against framework and intellectual-life cluster
+- **Type**: cross-review
+- **Notes**: topics/phenomenology-of-conceptual-frameworks.md was coalesced on 2026-04-16 from framework-inhabitation + conceptual-change and subsequently condensed (4485→target words), but never cross-reviewed against the articles it merged from or the surrounding cluster. Review voids/framework-void.md, voids/language-thought-boundary.md, topics/phenomenology-of-intellectual-life.md, topics/phenomenology-of-philosophical-disagreement.md, and concepts/cognitive-phenomenology.md for (a) cross-linking opportunities, (b) wikilinks still pointing to the archived framework-inhabitation/conceptual-change that should redirect to the unified article, (c) consistency of the "gestalt shift" and "crisis" framing used across the cluster.
+- **Output**: obsidian/topics/phenomenology-of-conceptual-frameworks.md -- Context: Cross-review phenomenology-of-conceptual-frameworks.md against framework and intellectual-life cluster
+
+### ✓ 2026-04-17: Cross-review framework-void.md and language-thought-boundary.md considering metaphor-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/metaphor-void.md created 2026-04-16 via expand-topic. It names the structural dependence of abstract thought on metaphor (Lakoff & Johnson, Blumenberg's absolute metaphors) and argues the cartographic framing of the Map may predispose it to recognise only map-shaped voids while other cognitive limits remain invisible. Review framework-void.md for cross-links — the new article explicitly contrasts its "false transparency" phenomenology with framework-void's "false clarity about alternative frameworks," so both articles should cross-reference the distinction. Review language-thought-boundary.md for consistency — metaphor-void distinguishes its phenomenology from language-thought-boundary's "felt sense of content resisting articulation," and the boundary article should acknowledge the metaphor-void cousin. Check voids taxonomy coherence.
+- **Output**: obsidian/voids/framework-void.md -- Context: Cross-review framework-void.md and language-thought-boundary.md considering metaphor-void insights
+
+### ✓ 2026-04-17: Cross-review interface-friction.md and mental-effort.md considering phenomenology-of-resistance-across-domains insights
+- **Type**: cross-review
+- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md created 2026-04-16 via expand-topic, deep-reviewed same day. It unifies the phenomenology of resistance across physical, logical, moral, imaginative, doxastic, and material domains under a common interface signature, drawing on the Biranian thread to argue resistance supplies evidence for Bidirectional Interaction. Review interface-friction.md for opportunities to cross-link to the cross-domain synthesis (the new article lists interface-friction as a core concept) and check whether the cross-domain argument strengthens or reframes the friction discussion. Review mental-effort.md for consistency on the effort-meets-constraint phenomenology and add cross-references — mental-effort is listed as a core concept in the new article.
+- **Output**: obsidian/concepts/interface-friction.md -- Context: Cross-review interface-friction.md and mental-effort.md considering phenomenology-of-resistance-across-domains insights
+
+### ✓ 2026-04-17: Cross-review predictive-processing-and-dualism.md and russellian-monism-versus-bi-aspectual-dualism.md considering disguised-property-dualism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/disguised-property-dualism.md created 2026-04-16 via expand-topic, deep-reviewed and refined same day. It names a diagnostic for physicalist theories that posit two irreducible descriptions while disavowing the dualist label (extrinsic/intrinsic information geometry, structural/quidditative properties, extrinsic causal profile/intrinsic phenomenal axiom). Review predictive-processing-and-dualism.md for opportunities to apply the disguised-property-dualism diagnostic to predictive-processing framings and add cross-links. Review russellian-monism-versus-bi-aspectual-dualism.md for consistency on the quidditative-properties framing and add cross-references — the article is explicitly listed as related in disguised-property-dualism's frontmatter and should link back. Check that terminology (aspect vs property, epistemic vs ontological duality) is consistent across the three articles.
+- **Output**: obsidian/topics/predictive-processing-and-dualism.md -- Context: Cross-review predictive-processing-and-dualism.md and russellian-monism-versus-bi-aspectual-dualism.md considering disguised-property-dualism insights
+
+### ✓ 2026-04-16: Integrate parsimony-failure-consciousness.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has zero inbound wikilinks from active content. The article directly supports Tenet 5 (Occam's Razor Has Limits) — being orphaned means readers cannot reach one of the site's key arguments about why parsimony fails for consciousness. Add cross-references from at least: parsimony-epistemology, parsimony-case-for-interactionist-dualism, epistemological-limits-occams-razor, occams-razor-limits-argument, and the tenets/tenets.md page. Consider whether overlap with parsimony-epistemology or epistemological-limits-occams-razor warrants coalesce review.
+- **Output**: parsimony-failure-consciousness.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
+
+### ✓ 2026-04-16: Remove stale AI refinement log comments from neural-correlates-of-consciousness.md and animal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-16c.md, Issue 1) identified HTML comment blocks marked "This log should be removed after human review" still present in neural-correlates-of-consciousness.md (lines 204-216, dated 2026-03-19) and animal-consciousness.md (lines 252-265, dated 2026-03-21). These have survived multiple refinement cycles across at least three review loops. Remove both blocks. If philosophical-zombies.md contains a similar stale log block, remove that too. Low severity but signals the review loop is not closing.
+- **Output**: obsidian/concepts/neural-correlates-of-consciousness.md
+
+Task context:
+Pessimistic review (pessimistic-2026-04-16c.md, Issue 1) identified HTML comment blocks marked "This log should be removed after human review" still present in neural-correlates-of-consciousness.md (lines 204-216, dated 2026-03-19) and animal-consciousness.md (lines 252-265, dated 2026-03-21). These have survived multiple refinement cycles across at least three review loops. Remove both blocks. If philosophical-zombies.md contains a similar stale log block, remove that too. Low severity but signals the review loop is not closing.
+
+### ✓ 2026-04-16: Address self-application tension in disguised-property-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-16d.md, Issue 3) flags that the Map's own bi-aspectual ontology appears to satisfy the diagnostic's conditions (1) and (3), differing from the "disguised" variants only by rejecting condition (2)—i.e., only by labelling. The article needs a subsection explicitly addressing how the diagnostic applies to the Map's own view, and either specifying what substantive philosophical difference there is beyond labelling, or conceding the diagnostic's force is rhetorical/heuristic rather than metaphysical. Also: sharpen condition (3) with a standard for "showing" reduction (Issue 2). Medium-high severity.
+- **Output**: obsidian/concepts/disguised-property-dualism.md
+
+Task context:
+Pessimistic review (pessimistic-2026-04-16d.md, Issue 3) flags that the Map's own bi-aspectual ontology appears to satisfy the diagnostic's conditions (1) and (3), differing from the "disguised" variants only by rejecting condition (2)—i.e., only by labelling. The article needs a subsection explicitly addressing how the diagnostic applies to the Map's own view, and either specifying what substantive philosophical difference there is beyond labelling, or conceding the diagnostic's force is rhetorical/heuristic rather than metaphysical. Also: sharpen condition (3) with a standard for "showing" reduction (Issue 2). Medium-high severity.
+
+### ✓ 2026-04-16: Address self-application tension in disguised-property-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-16d.md, Issue 3) flags that the Map's own bi-aspectual ontology appears to satisfy the diagnostic's conditions (1) and (3), differing from the "disguised" variants only by rejecting condition (2)—i.e., only by labelling. The article needs a subsection explicitly addressing how the diagnostic applies to the Map's own view, and either specifying what substantive philosophical difference there is beyond labelling, or conceding the diagnostic's force is rhetorical/heuristic rather than metaphysical. Also: sharpen condition (3) with a standard for "showing" reduction (Issue 2). Medium-high severity.
+- **Output**: obsidian/concepts/disguised-property-dualism.md
+
+### ✓ 2026-04-16: Deep-review phenomenology-of-resistance-across-domains.md
+- **Type**: deep-review
+- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md created 2026-04-16 via expand-topic from research/phenomenology-of-resistance-across-domains-2026-04-06.md. Medium-scope (2500-3500 words) unification of resistance phenomenology across domains. Never deep-reviewed. Verify accuracy of Maine de Biran and Dilthey attributions, coherence of the cross-domain signature argument, whether the move from "common phenomenal signature" to "genuinely distinct constraint types" is watertight or begs the question, cross-references to interface-friction and the effort cluster, and tenet alignment (Bidirectional Interaction is load-bearing).
+- **Output**: obsidian/topics/phenomenology-of-resistance-across-domains.md
+
+### ✓ 2026-04-16: Deep-review disguised-property-dualism.md
+- **Type**: deep-review
+- **Notes**: New concept page concepts/disguised-property-dualism.md created 2026-04-16 via expand-topic. Argues several positions rejecting substance dualism covertly reintroduce property-level dualist commitments. Cross-review against substance-property-dualism, materialism, and russellian-monism was completed, but no comprehensive deep-review has occurred. Verify coherence, accuracy of attributed positions (Russellian monism, anomalous monism, property-dualist-by-implication diagnoses), cross-references to concession-convergence and self-stultification, and tenet alignment — particularly whether the article's framing inadvertently exposes the Map to its own diagnosis.
+- **Output**: obsidian/concepts/disguised-property-dualism.md
 
 ### ✓ 2026-04-16: Cross-review interface-friction.md, mental-effort.md, and phenomenology-of-agency-vs-passivity.md considering phenomenology-of-resistance-across-domains insights
 - **Type**: cross-review

@@ -27,7 +27,7 @@ None. The article remains stable after three previous reviews. All six adversari
 
 ### Medium Issues Found
 - **Minor typo**: "Godel's" should be "Gödel's" (line 63) — inconsistent with site-wide usage. **Resolved**: Fixed.
-- **Missing outbound cross-links**: The Non-Computability Turn section discussed Gödel/Turing limits without linking to [computational-cognitive-limits](/voids/computational-cognitive-limits/), which covers exactly these formal results. **Resolved**: Added inline link and Further Reading entry.
+- **Missing outbound cross-links**: The Non-Computability Turn section discussed Gödel/Turing limits without linking to [computational-cognitive-limits](/voids/formal-cognitive-limits/), which covers exactly these formal results. **Resolved**: Added inline link and Further Reading entry.
 - **Missing Further Reading entry**: [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) has strong thematic overlap via Penrose's non-computability argument. **Resolved**: Added to Further Reading.
 
 ### Counterarguments Considered
@@ -58,14 +58,14 @@ Primary focus: **extended orphan integration** with 6 new inbound links from maj
 ### Cross-links Added
 
 **New outbound links from adaptive-computational-depth (2):**
-1. **[computational-cognitive-limits](/voids/computational-cognitive-limits/)** — Added inline in Non-Computability Turn section (Gödel/Turing/Chaitin limits) and in Further Reading
+1. **[computational-cognitive-limits](/voids/formal-cognitive-limits/)** — Added inline in Non-Computability Turn section (Gödel/Turing/Chaitin limits) and in Further Reading
 2. **[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)** — Added to Further Reading (Penrose non-computability connection)
 
 **New inbound links (6 articles → adaptive-computational-depth):**
 1. **[measurement-problem](/concepts/measurement-problem/)** — In Consciousness-Based Interpretations section. Natural connection: ACD extends the consciousness-selection picture to reality's information allocation.
 2. **[quantum-consciousness](/concepts/quantum-consciousness/)** — In "What These Theories Share" section. Natural connection: all quantum consciousness mechanisms are compatible with ACD's framework.
 3. **[stapp-quantum-mind](/concepts/stapp-quantum-mind/)** — In Attention-as-Interface bandwidth limitation paragraph. Natural connection: policy-level operation aligns with ACD's coarse-grained selection.
-4. **[computational-cognitive-limits](/voids/computational-cognitive-limits/)** — In Computational Irreducibility section. Natural connection: Wolfram's thesis supports ACD's real-time allocation by non-computable consciousness.
+4. **[computational-cognitive-limits](/voids/formal-cognitive-limits/)** — In Computational Irreducibility section. Natural connection: Wolfram's thesis supports ACD's real-time allocation by non-computable consciousness.
 5. **[bidirectional-interaction](/concepts/bidirectional-interaction/)** — In Quantum Interface section. Natural connection: ACD captures the selective actualisation that bidirectional interaction requires.
 6. **[consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/)** — In Penrose's Gödelian Argument section. Natural connection: Penrose's non-computability argument undergirds ACD.
 
