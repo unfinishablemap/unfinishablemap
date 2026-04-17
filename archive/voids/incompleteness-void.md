@@ -4,8 +4,13 @@ description: "Human+AI exploration of Gödel's incompleteness theorems as cognit
 created: 2026-01-31
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-04-02T08:39:00+00:00
+ai_modified: 2026-04-17T01:25:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-17T01:25:00+00:00
+superseded_by: "/voids/formal-cognitive-limits/"
+archive_reason: "Coalesced into Formal Cognitive Limits: Computation and Incompleteness"
+original_path: "/voids/incompleteness-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

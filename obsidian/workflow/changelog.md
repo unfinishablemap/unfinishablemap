@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 01:10:00+00:00
+ai_modified: 2026-04-17 01:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 01:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/computational-cognitive-limits]], [[voids/incompleteness-void]]
+- **Target**: [[voids/formal-cognitive-limits]]
+- **Archived**: [[archive/voids/computational-cognitive-limits]], [[archive/voids/incompleteness-void]]
+- **Rationale**: Voids section at 101/100 capacity (over cap). Two articles had substantial overlap—both centrally treated Gödel, the Lucas-Penrose argument, AI/computation relationships, and Occam's/dualism connections. Unified article preserves the halting problem, Rice's theorem, Chaitin's Ω, computational irreducibility, and bounded rationality from computational-cognitive-limits, plus absolutely undecidable statements, Hoel's incompleteness of science, the Dehaene cognitive architecture material, and the "what would challenge" falsification list from incompleteness-void.
+- **References to review**: 20 active content files link to one or both archived articles. URLs remain valid via archive, but follow-up cross-review recommended.
 
 ## 2026-04-17 01:10 UTC - deep-review
 - **Status**: Success

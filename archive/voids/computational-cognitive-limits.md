@@ -4,9 +4,14 @@ description: "Human+AI exploration of formal limits on what any algorithmic mind
 created: 2026-01-27
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-28T01:09:00+00:00
+ai_modified: 2026-04-17T01:25:00+00:00
 draft: false
 last_deep_review: 2026-03-16T03:32:00+00:00
+archived: true
+archived_date: 2026-04-17T01:25:00+00:00
+superseded_by: "/voids/formal-cognitive-limits/"
+archive_reason: "Coalesced into Formal Cognitive Limits: Computation and Incompleteness"
+original_path: "/voids/computational-cognitive-limits/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

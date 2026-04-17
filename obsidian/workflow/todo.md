@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks for coalesced formal-cognitive-limits.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce (2026-04-17) merged computational-cognitive-limits and incompleteness-void into voids/formal-cognitive-limits. 20 active content files link to one or both archived slugs; URLs continue to resolve via archive but wikilinks should be updated to point to the new unified article where appropriate. Files referencing the archived slugs: concepts/simulation, voids/voids, topics/consciousness-and-mathematics, concepts/mysterianism, voids/convergence-as-evidence, voids/mathematical-void, topics/concession-convergence-philosophy-of-mathematics, topics/consciousness-and-the-authority-of-formal-systems, concepts/self-reference-paradox, apex/taxonomy-of-voids, voids/self-transcendence-void, concepts/adaptive-computational-depth, voids/nomic-void, voids/resolution-void, voids/recursion-void, voids/compound-failure-signatures, voids/cartography-problem, topics/self-reference-and-the-limits-of-physical-description, voids/interface-formalization-void, voids/ai-as-void-explorer.
+- **Source**: coalesce
+- **Generated**: 2026-04-17
+
 ### P2: Cross-review default-causal-profile.md against causal-delegation and interactionism cluster
 - **Type**: cross-review
 - **Status**: pending
