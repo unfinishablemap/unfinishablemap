@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address gaps in parsimony-case-for-interactionist-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17) Issues 1, 2, and 7. (1) Modesty-argument comparison treats dualism as having "one claim" while unpacking physicalism into three debts — this is dimensionally asymmetric; psychophysical laws expand to several sub-problems (mental/physical coupling form, determinism/probabilism, conservation, pairing, grounding) once made specific. (2) Lycan 2009 quote is presented as a materialist concession but omits that his paper's overall conclusion still rejects dualism on accumulated parsimony grounds — engaging this honestly strengthens rather than weakens the case. (7) "Proliferation vs. convergence" claim treats current non-convergence of physicalist theories as diagnostic of fundamental mismatch; soften to acknowledge the consciousness programme is comparatively young for its difficulty. See pessimistic-2026-04-17.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Address gaps in quantum-measurement-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17) Issue 3 (High) and counterarguments. The structural-identity table is only valid on single-world collapse interpretations with a privileged observer role — on MWI, Bohmian, and QBist readings there is no first-person fact at measurement, so the article is using a consequence of Von Neumann–Wigner as evidence *for* Von Neumann–Wigner. Rewrite as interpretation-conditional: "*if* one adopts single-world collapse realism, the structural parallel holds." Separately, the MWI dismissal does not engage self-locating-uncertainty responses (Sebens-Carroll, Wallace, Saunders) and the post-decoherence-selection fallback needs to specify what distinguishes conscious classical selection from quantum-mediated selection. See pessimistic-2026-04-17.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Address gaps in brain-interface-boundary.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17) Issues 4 (Medium-High), 5, and 6. (4) Criterion 5 (developmental history) looks ad hoc — it exists primarily to disqualify BCIs and artificial systems that would otherwise satisfy criteria 1–4; either drop it or defend it on grounds independent of ruling out adversarial cases. (5) PEAR null PK results are offered as "supporting" interface locality but the framework was constructed knowing PK is null, so this is post-hoc accommodation; reframe as "consistent with" and specify a falsification threshold. (6) Wiest et al. 2024 microtubule-anaesthetic result is overinterpreted — compatible with many non-quantum mechanisms (membrane dynamics, vesicle trafficking); reframe without the quantum-mechanism implication. See pessimistic-2026-04-17.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
 ### P2: Condense formal-cognitive-limits.md (3203 words, 160% of target)
 - **Type**: condense
 - **Status**: pending
