@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 00:10:00+00:00
+ai_modified: 2026-04-17 00:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 00:25 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/interface-friction]]
+- **Word count**: 2217 → 2230 (+13)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (tightened resistance-domain enumeration in opening framing to match the six domains in phenomenology-of-resistance-across-domains; prior version listed five and conflated the interface case with body-matter physical resistance)
+- **Enhancements made**: 1 (cross-review consistency polish)
+- **Output**: [[reviews/deep-review-2026-04-17-interface-friction]]
 
 ## 2026-04-17 00:10 UTC - optimistic-review
 - **Status**: Success

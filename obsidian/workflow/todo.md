@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review interface-friction.md and mental-effort.md considering phenomenology-of-resistance-across-domains insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md created 2026-04-16 via expand-topic, deep-reviewed same day. It unifies the phenomenology of resistance across physical, logical, moral, imaginative, doxastic, and material domains under a common interface signature, drawing on the Biranian thread to argue resistance supplies evidence for Bidirectional Interaction. Review interface-friction.md for opportunities to cross-link to the cross-domain synthesis (the new article lists interface-friction as a core concept) and check whether the cross-domain argument strengthens or reframes the friction discussion. Review mental-effort.md for consistency on the effort-meets-constraint phenomenology and add cross-references — mental-effort is listed as a core concept in the new article.
-- **Source**: chain (from topics/phenomenology-of-resistance-across-domains.md)
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review framework-void.md and language-thought-boundary.md considering metaphor-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2259,6 +2252,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review interface-friction.md and mental-effort.md considering phenomenology-of-resistance-across-domains insights
+- **Type**: cross-review
+- **Notes**: New topics article topics/phenomenology-of-resistance-across-domains.md created 2026-04-16 via expand-topic, deep-reviewed same day. It unifies the phenomenology of resistance across physical, logical, moral, imaginative, doxastic, and material domains under a common interface signature, drawing on the Biranian thread to argue resistance supplies evidence for Bidirectional Interaction. Review interface-friction.md for opportunities to cross-link to the cross-domain synthesis (the new article lists interface-friction as a core concept) and check whether the cross-domain argument strengthens or reframes the friction discussion. Review mental-effort.md for consistency on the effort-meets-constraint phenomenology and add cross-references — mental-effort is listed as a core concept in the new article.
+- **Output**: obsidian/concepts/interface-friction.md -- Context: Cross-review interface-friction.md and mental-effort.md considering phenomenology-of-resistance-across-domains insights
 
 ### ✓ 2026-04-17: Cross-review predictive-processing-and-dualism.md and russellian-monism-versus-bi-aspectual-dualism.md considering disguised-property-dualism insights
 - **Type**: cross-review

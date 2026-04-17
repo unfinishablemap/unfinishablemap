@@ -4,9 +4,9 @@ description: "Interface friction is the resistance consciousness encounters when
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-16T21:45:00+00:00
+ai_modified: 2026-04-17T00:25:00+00:00
 draft: false
-last_deep_review: 2026-04-16T21:45:00+00:00
+last_deep_review: 2026-04-17T00:25:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
@@ -39,7 +39,7 @@ Interface friction is the resistance consciousness encounters when operating thr
 
 This concept matters because friction, if the dualist framework is correct, would be diagnostic. The specific ways the interface resists would reveal its structure, just as drag on a tool reveals properties of the material it cuts. An important caveat: the phenomena interface friction describes—attentional limits, motor error, cognitive load—are already explained by neuroscience as neural processing constraints. Interface friction does not generate empirically distinguishable predictions beyond standard models. Its value is interpretive: it organises familiar phenomena under a dualist ontology, offering a different *explanation* for *why* these constraints have the structure they do, rather than discovering constraints that neuroscience has missed.
 
-Interface friction is, on the Map's reading, the mind-brain instance of a more general pattern. The [[phenomenology-of-resistance-across-domains|phenomenology of resistance across domains]] argues that directed consciousness meets constraint not only in motor action through the neural interface, but also in logic, moral deliberation, imagination, belief revision, and skilled craft. Each domain exhibits the same signature—directedness-against-constraint, graded yielding, sustained temporality—with different objects. Interface friction names the mind-brain variant; it does not float free of that broader structure.
+Interface friction is, on the Map's reading, the mind-brain instance of a more general pattern. The [[phenomenology-of-resistance-across-domains|phenomenology of resistance across domains]] argues that directed consciousness meets constraint not only at the mind-brain interface, but also in physical action against matter, logical necessity, moral demand, imaginative compliance, belief revision, and skilled craft with materials—six domains with distinct objects but a shared phenomenal signature. Each exhibits the same structure—directedness-against-constraint, graded yielding, sustained temporality—with different objects. Interface friction names the mind-brain variant; it does not float free of that broader structure.
 
 ## Sources of Friction
 
@@ -141,15 +141,14 @@ The filter model also generates a distinctive prediction: reduced neural constra
 1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R. F. Schmidt (Ed.), *Fundamentals of Sensory Physiology* (3rd ed., pp. 68–116). Springer.
 
-<!-- AI REFINEMENT LOG - 2026-04-16 (deep review, third pass)
-Changes made in this pass (cross-review with mental-effort, phenomenology-of-agency-vs-passivity, and phenomenology-of-resistance-across-domains):
-- Added a paragraph to the opening framing situating interface friction as the mind-brain instance of the broader resistance pattern surveyed in phenomenology-of-resistance-across-domains. Resolves a one-way cross-link inconsistency: the resistance article positions interface friction as one of six domains, but interface-friction did not reciprocate.
-- Frontmatter: added phenomenology-of-resistance-across-domains to topics; added phenomenology-of-agency-vs-passivity to related_articles.
-- Further Reading: added both new cross-links.
-- Bandwidth section: added Zheng & Meister (2024) citation for the modern ~10 bits/s figure (consistent with mental-effort.md which cites the same source). Kept the Zimmermann/Norretranders classics plus the methodological caveat.
-- References: added Zheng & Meister 2024.
+<!-- AI REFINEMENT LOG - 2026-04-17 (deep review, fourth pass)
+Changes made in this pass (cross-review with mental-effort and phenomenology-of-resistance-across-domains):
+- Opening framing: tightened the enumeration of resistance domains to match the six identified in phenomenology-of-resistance-across-domains. Previous version listed only five (omitting Physical Resistance as distinct from interface friction) and used "motor action through the neural interface" which subtly conflated the mind-brain case with the body-matter case. Fix saves 2 words while being more accurate.
+- No other substantive changes. Article remains at stability per 2026-04-16 stability note.
 
-Prior pass (earlier 2026-04-16): epistemic reframing from predictive to interpretive. Prior deep reviews (2026-02-20, 2026-03-19): bandwidth/Zeno tension, No Many Worlds tenet, citations, Stapp date correction. No critical issues found in this pass — article remains at stability.
+Cross-review confirmed consistency with mental-effort.md (bandwidth figures, Stapp Zeno treatment, timing-gap framing) and with phenomenology-of-resistance-across-domains.md (bidirectional cross-links, shared three-signature structure).
+
+Prior passes: 2026-02-20 (initial), 2026-03-19 (Stapp date fix), 2026-04-16 (epistemic reframing + resistance cross-link addition). Stability trajectory confirmed.
 
 This log should be removed after human review.
 -->
