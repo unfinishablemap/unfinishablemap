@@ -4,7 +4,7 @@ description: "Human+AI exploration of the pharmacologically imposed gap in consc
 created: 2026-04-17
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-17T10:11:00+00:00
+ai_modified: 2026-04-17T10:56:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -54,7 +54,7 @@ The anesthesia void has a specific structure that distinguishes it from adjacent
 
 ## Three States, Not One
 
-Mashour and colleagues distinguish at least three states that can occur under "stable" anesthesia: **unconsciousness** (no subjective experience), **disconnected consciousness** (mental content without environmental perception, like dreaming), and **connected consciousness** (awareness of environment during nominal anesthesia). Consciousness under anesthesia is not a simple on-off switch but shifts dynamically even during pharmacologically stable planes.
+Mashour and colleagues (2023) distinguish at least three states that can occur under "stable" anesthesia: **unconsciousness** (no subjective experience), **disconnected consciousness** (mental content without environmental perception, like dreaming), and **connected consciousness** (awareness of environment during nominal anesthesia). Consciousness under anesthesia is not a simple on-off switch but shifts dynamically even during pharmacologically stable planes.
 
 This taxonomy matters for what the void actually contains. The gap we experience is not guaranteed to be a pure consciousness gap. It may be:
 
@@ -80,9 +80,11 @@ Patient reports converge on specific structural features of the anesthesia exper
 
 Different anesthetic agents dissociate components that cluster naturally under the label "unconsciousness." Some agents produce amnesia without unconsciousness (benzodiazepines); others produce unconsciousness without complete amnesia; neuromuscular blockers immobilise without affecting awareness at all. Propofol acts on GABA receptors in counterintuitive ways — inhibitory effects on inhibitory neurons can produce overall activity increases, with functional connectivity rather than raw activity levels tracking loss of consciousness.
 
-These dissociations are diagnostic. Pharmacological intervention at specific receptor sites can selectively decouple consciousness from environment, from memory consolidation, and from motor output. Different couplings fail under different agents. What we retrospectively experience as "the gap" is the compound signature of several distinct disruptions that happened to co-occur.
+These dissociations are diagnostic. Pharmacological intervention at specific receptor sites can selectively decouple consciousness from environment, from memory consolidation, and from motor output. Ketamine's "dissociative" profile is a clear example of environment-decoupling: patients report rich internal experience while the sensorimotor world seems remote or unreal. Different couplings fail under different agents. What we retrospectively experience as "the gap" is the compound signature of several distinct disruptions that happened to co-occur.
 
-This matters for interpretation. A single mechanism ("the brain switches off") predicts a unified phenomenon. The dissociability evidence predicts something closer to [[compound-failure-signatures|compound failures]] — overlapping but separable disruptions of the systems that together constitute connected, remembered waking experience.
+This matters for interpretation. A naive "one master switch" physicalism predicts a unified phenomenon and is refuted by the dissociability evidence. But naive physicalism is not the physicalism actually defended in the literature. Sophisticated functionalist views — Block on access-versus-phenomenal processing, multi-realisability accounts, integrationist readings of IIT — predict exactly this dissociation pattern: consciousness is realised in coupled subsystems, and pharmacological intervention breaks specific couplings to produce specific failure modes. The basic dissociability phenomenon is theory-neutral between sophisticated physicalism and interface dualism. Treating it as evidence against physicalism simpliciter would be tilting at a strawman.
+
+What the Map claims is different. The interface-disruption reading says the dissociable couplings are between consciousness and the brain mechanisms of generation, environmental connection, and memory consolidation — not between subsystems that together *constitute* consciousness. Both accounts predict the same pharmacological phenomenology; they disagree about what is decomposing. Adjudicating between them requires phenomena the two readings predict differently — phenomena the anesthesia evidence alone cannot supply. The dissociability argument, in short, clears away naive physicalism without settling the live question. [[compound-failure-signatures|Compound failure signatures]] are evidence that something is decomposable; which thing, and whether it has a single relatum that persists through decomposition, remains open at this stage of the argument.
 
 ## Third-Person Workarounds
 
@@ -119,13 +121,28 @@ Three further tenets are relevant:
 - **[[tenets#^occams-limits|Occam's Razor Has Limits]].** The temptation to treat anesthetic unconsciousness as identical to phenomenal cessation is a parsimony move that outruns the evidence. Dissociable components, disconnected consciousness, and intraoperative awareness all complicate the clean "switch off" story. Simpler is not safer when the evidence is this layered.
 - **[[tenets#^minimal-quantum|Minimal Quantum Interaction]].** The Map does not need any specific quantum mechanism to engage this void. The anesthesia evidence constrains interface models without requiring a particular implementation of the coupling.
 
-The memory-failure defence — that consciousness persists through anesthesia but is not remembered — is available to dualists but has costs. It posits unremembered mental life we have no independent grounds to believe in. The interface-disruption reading is more parsimonious: it explains the absence of content during the interval without positing either full cessation or full persistence, and it fits the dissociability evidence. It also aligns with the Map's broader account of consciousness as [[identity-across-transformations|persisting through discontinuities]] — identity carried across transformations is not read off from the record.
+The memory-failure defence — that consciousness persists through anesthesia but is not remembered — is another dualist option, and one a careful critic will press. Both readings posit something the anesthesia evidence alone cannot directly show: memory-failure posits unremembered experience, interface-disruption posits a coupling mechanism. Parsimony at the level of this single phenomenon does not clearly favour one over the other, and the Map should not pretend otherwise.
+
+The Map nevertheless favours interface-disruption for three reasons that live outside the void itself. First, the dissociable couplings on which interface-disruption rests are independently evidenced by agent-specific failure modes, intraoperative awareness, and the three-states taxonomy; memory-failure has no equivalent empirical anchor for an unremembered unity it posits. Second, interface-disruption coheres with the Map's broader account of altered states as [[altered-states-as-interface-evidence|interface modulation rather than content variation]]: the same mechanism is meant to do work in sleep, meditation, psychedelics, and near-death phenomena, a consilience memory-failure does not provide. Third, disconnected and connected consciousness during nominal anesthesia are not well-described as unremembered experience — they are experience that did re-couple to report or imaging probes. Interface-disruption handles the three anesthetic states uniformly; memory-failure has to add special cases for the ones where content returns to the record.
+
+None of this is decisive. A dualist who preferred memory-failure could redescribe the same evidence. What the anesthesia void establishes is that the first-person gap underdetermines the mechanism, and that any choice between dualist readings must be grounded beyond this one void. This reading aligns with the Map's broader account of consciousness as [[identity-across-transformations|persisting through discontinuities]] — identity carried across transformations is not read off from the record.
+
+## What Would Challenge This Reading?
+
+The interface-disruption reading is a substantive claim and should be defeasible. Observations that would count against it:
+
+1. **Converging evidence for genuine phenomenal cessation during the interval.** If third-person methods eventually established that nothing is happening on the consciousness side under any agent — no disconnected content, no retrievable trace, no imaging signature compatible with ongoing experience — the case for "interface disrupted" would blur into "content-generator off." The distinction would lose empirical purchase and cessation-physicalism would become the more parsimonious reading.
+2. **Reliable recovery of unified experience spanning the whole interval.** If a technique recovered not the fragmentary disconnected content that serial awakening already finds, but continuous unified experience across the entire anesthesia gap, that would favour the memory-failure reading. Interface-disruption predicts selective jamming, not preserved unified experience throughout.
+3. **A full mechanistic reduction of the three states to network dynamics alone.** If anesthetic pharmacology were reduced to a quantitative story about integration failure that predicted every agent-specific dissociation pattern without reference to a separately-characterised consciousness-brain coupling, the interface posit would be explanatorily superfluous. Sophisticated functionalist physicalism would have paid its way.
+4. **Agent-level isolation of a unified "consciousness switch."** If any single agent were found to produce, at a specific receptor site, a coordinated loss of all consciousness-related couplings together — amnesia, disconnection, motoric unresponsiveness, and absence of disconnected content — with no dissociability, the one-switch picture would gain ground and the compound-failure argument for interface disruption would weaken correspondingly.
+
+These are hard conditions. The void's interior is closed from inside, third-person probes translate rather than recover phenomenal character, and the clinical literature is young enough that "converging evidence" of the relevant kind is not yet available. The interface-disruption reading is therefore defeasible rather than decisively testable in any near-term experiment. Progress will come from consilient evidence across voids, altered states, and clinical cases, not a single crucial experiment on the anesthesia gap alone.
 
 ## Why the Void Matters
 
 The anesthesia void is a teaching case for how consciousness and its vehicles can come apart in controlled, repeatable ways. In ordinary experience, the coupling between consciousness, brain, and world is tight enough that the joint fact looks like a single phenomenon. Anesthesia pries the joint open. It shows the coupling is decomposable, pharmacologically specific, and capable of failing along particular axes without failing as a whole.
 
-This makes it one of the richest sites for [[altered-states-as-interface-evidence|altered-states-as-interface evidence]]. The anesthesia void does not settle the dualism-physicalism question. It constrains what any answer must accommodate: dissociable failure modes, a first-person gap that is not always a phenomenal gap, and an interior that admits no direct access from inside while yielding partial access from outside. Any theory of consciousness that ignores this structure will underfit the clinical evidence.
+This makes it one of the richest sites for [[altered-states-as-interface-evidence|altered-states-as-interface evidence]]. The anesthesia void does not settle the dualism-physicalism question. It constrains what any answer must accommodate: dissociable failure modes, a first-person gap that is not always a phenomenal gap, and an interior that admits no direct access from inside while yielding partial access from outside. Theories that overlook this structure risk underfitting the clinical evidence.
 
 ## Further Reading
 
@@ -151,3 +168,14 @@ This makes it one of the richest sites for [[altered-states-as-interface-evidenc
 8. "Recovery of consciousness and cognition after general anesthesia in humans." (2021). *eLife*. https://elifesciences.org/articles/59525
 9. Southgate, A. & Oquatre-six, C. (2026-02-02). The Death Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/death-void/
 10. Southgate, A. & Oquatre-sept, C. (2026-04-16). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
+
+<!-- AI REFINEMENT LOG - 2026-04-17
+Changes made in response to pessimistic-2026-04-17b:
+- "Dissociability of Components" rewritten to acknowledge that sophisticated functionalist physicalism predicts dissociability; dissociation evidence now framed as refuting only naive "one master switch" physicalism, with the live dialectical question relocated to what is decomposing.
+- "Relation to Site Perspective" memory-failure paragraph reworked to admit that memory-failure and interface-disruption are in the same epistemic position at the anesthesia-evidence level; three independent grounds supplied for the Map's preference.
+- New section "What Would Challenge This Reading?" added with four concrete falsification conditions.
+- Minor: inline Mashour (2023) citation; ketamine example for environment-decoupling; softened "will underfit" → "risk underfitting".
+
+This log should be removed after human review.
+-->
+

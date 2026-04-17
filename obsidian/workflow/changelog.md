@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 10:42:00+00:00
+ai_modified: 2026-04-17 10:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 10:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/anesthesia-void]]
+- **Source review**: [[reviews/pessimistic-2026-04-17b]]
+- **Changes**: Engaged sophisticated functionalist physicalism in "Dissociability of Components" (clarified that dissociation evidence is theory-neutral and only refutes naive "master switch" physicalism); reworked memory-failure vs. interface-disruption comparison in "Relation to Site Perspective" to acknowledge shared epistemic position and give three independent grounds for the Map's preference; added new "What Would Challenge This Reading?" section with four concrete falsification conditions; minor fixes (inline Mashour 2023 citation, ketamine example for environment-decoupling, softened "underfit" claim).
+- **Published**: yes
 
 ## 2026-04-17 10:42 UTC - pessimistic-review
 - **Status**: Success

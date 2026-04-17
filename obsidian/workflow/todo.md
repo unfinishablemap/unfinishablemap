@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic review findings in voids/anesthesia-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-17b found three issues: (1) the memory-failure defence is dismissed too quickly without explaining why interface-disruption is in a better epistemic position; (2) sophisticated functionalist physicalism (which predicts dissociability) is not engaged; (3) no falsification section. See pessimistic-2026-04-17b.md.
-- **Source**: pessimistic-review 2026-04-17b
-- **Generated**: 2026-04-17
-
 ### P2: Address pessimistic review findings in topics/split-brain-consciousness.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2287,6 +2280,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address pessimistic review findings in voids/anesthesia-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-17b found three issues: (1) the memory-failure defence is dismissed too quickly without explaining why interface-disruption is in a better epistemic position; (2) sophisticated functionalist physicalism (which predicts dissociability) is not engaged; (3) no falsification section. See pessimistic-2026-04-17b.md.
+- **Output**: obsidian/voids/anesthesia-void.md
+
+Task context:
+Pessimistic review 2026-04-17b found three issues: (1) the memory-failure defence is dismissed too quickly without explaining why interface-disruption is in a better epistemic position; (2) sophisticated functionalist physicalism (which predicts dissociability) is not engaged; (3) no falsification section. See pessimistic-2026-04-17b.md.
 
 ### ✓ 2026-04-17: Cross-review split-brain-consciousness.md considering identity-across-transformations updates
 - **Type**: cross-review
