@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/thought-stream-void.md (3412 words, 171% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/ (currently 3412 words, 171% of 2000-word target) after the 2026-04-17 coalesce of spontaneous-thought-void and thoughts-that-slip-away. Preserve the dual-gap architecture (unbidden arrival + vanishing recall), the self-opacity / attention-as-interface framing, and the decoherence / quantum-Zeno material that distinguishes the void. Remove redundancy between the two source articles' overlapping framings of first-person opacity; defer detailed subtopics (DMN neuroscience, specific contemplative traditions, illusionist rebuttal details) to linked articles where the material is already developed.
-- **Source**: length_analysis
-- **Generated**: 2026-04-17
-
 ### P2: Update remaining active-content wikilinks from spontaneous-thought-void and thoughts-that-slip-away to thought-stream-void
 - **Type**: refine-draft
 - **Status**: pending
@@ -2301,6 +2294,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Condense voids/thought-stream-void.md (3412 words, 171% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ (currently 3412 words, 171% of 2000-word target) after the 2026-04-17 coalesce of spontaneous-thought-void and thoughts-that-slip-away. Preserve the dual-gap architecture (unbidden arrival + vanishing recall), the self-opacity / attention-as-interface framing, and the decoherence / quantum-Zeno material that distinguishes the void. Remove redundancy between the two source articles' overlapping framings of first-person opacity; defer detailed subtopics (DMN neuroscience, specific contemplative traditions, illusionist rebuttal details) to linked articles where the material is already developed.
+- **Output**: obsidian/voids/thought-stream-void.md
 
 ### ✓ 2026-04-17: Cross-review topics/anaesthesia-and-the-consciousness-interface considering new anesthesia-void article
 - **Type**: cross-review

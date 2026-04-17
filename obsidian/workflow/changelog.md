@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 14:17:00+00:00
+ai_modified: 2026-04-17 14:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 14:27 UTC - condense
+- **Status**: Success
+- **File**: [[voids/thought-stream-void]]
+- **Before**: 3412 words
+- **After**: 2407 words
+- **Reduction**: 29%
+- **Technique**: Tightened Mechanisms of Slippage (prose → bullets); trimmed redundant framing in Default Stream, Half-Life of Agency, Meditation, Illusionist Challenge, Spontaneity as Evidence; condensed five-paragraph Relation to Site Perspective; pared Further Reading list of entries already in related_articles. Preserved opening summary, generator problem, content-specific slippage, all tenet connections, and references. Status moved from hard_warning to soft_warning.
 
 ## 2026-04-17 14:17 UTC - deep-review
 - **Status**: Success
