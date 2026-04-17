@@ -1,10 +1,10 @@
 ---
 title: "The Phenomenology of Musical Understanding"
-description: "Musical understanding reveals consciousness as irreducibly temporal, aesthetic, and non-propositional—a test case for dualism that materialist accounts cannot accommodate."
+description: "Musical understanding reveals consciousness as irreducibly temporal, aesthetic, and non-propositional—a test case for dualism that materialist accounts struggle to accommodate."
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-17T20:56:00+00:00
+ai_modified: 2026-04-17T23:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -48,7 +48,7 @@ This understanding has several distinctive features:
 
 ## The Specious Present and Musical Coherence
 
-Music exploits the structure of the [[temporal-consciousness|specious present]] more thoroughly than any other art form. A melody is not a sequence of individual tones experienced one at a time—it is a temporal gestalt held together within experiential duration. William James's insight applies directly: the experience of a melody is a single experience of succession, not a succession of experiences.
+Music exploits the structure of the [[temporal-consciousness|specious present]] distinctively among the arts. A melody is a temporal gestalt held together within experiential duration, not a sequence of individual tones experienced one at a time and then summed. William James's insight applies directly: the experience of a melody is a single experience of succession, not a succession of experiences.
 
 The specious present's ~100ms to 3-second window provides the phenomenological horizon within which musical phrases cohere. Within this window, retention holds the just-past notes present while protention anticipates what should follow. Rhythm depends on this structure entirely—a beat is experienced as *on the beat* only relative to the retained pattern of preceding beats and the protended continuation. A system that processed each beat independently, with no retention, could never experience rhythm.
 
@@ -62,9 +62,19 @@ Musical experience generates qualia that resist functional analysis with particu
 
 Consider the experience of a minor key. Minor passages sound *sad*, *dark*, *yearning*—but these verbal labels are approximations of an irreducible phenomenal quality. Two people might disagree about whether "sad" or "wistful" better captures the minor-key feeling, not because one is wrong but because the quale exceeds any verbal description. The felt quality of minor tonality is as immediate and irreducible as the redness of red.
 
-A functionalist account might try to explain minor-key sadness in terms of associations: minor keys are culturally linked to funerals, laments, and melancholy contexts, so we learn to feel sad when hearing them. Cross-cultural research complicates this story—while minor-key associations vary across cultures, listeners reliably distinguish the emotional valence of major and minor modes even in unfamiliar musical traditions (Fritz et al., 2009). More fundamentally, even if the association is partly learned, the learning must latch onto a phenomenal quality. You cannot associate sadness with minor keys unless hearing minor keys *feels like something*, and that feeling is what needs explaining.
+A functionalist account might try to explain minor-key sadness in terms of associations: minor keys are culturally linked to funerals, laments, and melancholy contexts, so we learn to feel sad when hearing them. Cross-cultural evidence is suggestive but limited in scope—Mafa listeners in Cameroon, with no prior exposure to Western music, were able to reliably identify happy, sad, and fearful emotional expressions in Western musical excerpts at above-chance levels (Fritz et al., 2009). Whether the specific major/minor valence mapping is cross-culturally universal is more contested, since Fritz et al. used Western pieces and Mafa listeners may have tracked tempo and timbre cues alongside mode. More fundamentally, even if the association is partly learned, the learning must latch onto a phenomenal quality. You cannot associate sadness with minor keys unless hearing minor keys *feels like something*, and that feeling is what needs explaining.
 
 The inverted qualia argument applies here. Imagine a listener for whom what you experience as the warmth of a major key, they experience as the quality you associate with minor—systematically inverted musical qualia. Their behaviour could be identical: they prefer music in "major" keys (which produce their inverted quale), they describe music the same way (having learned to use "happy" for their inverted experience). The conceivability of this scenario suggests musical qualia are not constituted by their functional role.
+
+## The Predictive-Coding Challenge
+
+Contemporary cognitive science offers functionalism's strongest case for music through predictive-coding accounts (Huron, 2006; Koelsch, 2014; Vuust et al., 2022). On these models, musical meaning emerges from a hierarchy of probabilistic predictions: the brain continuously anticipates the next tone, chord, or rhythmic event; tension is the felt signature of high predictive entropy; resolution is the release of a correctly-predicted outcome; surprise is prediction error propagated up the cortical hierarchy. Huron's ITPRA framework (Imagination, Tension, Prediction, Reaction, Appraisal) decomposes the affective response into distinct predictive stages tracked by neuroimaging. Vuust's work connects musical pleasure to the dopaminergic reward of reducing uncertainty.
+
+The framework explains much. It accounts for why unfamiliar tonal systems gradually become meaningful as listeners build statistical models, why expert listeners hear differently from novices, why deceptive cadences evoke their specific quality of thwarted expectation, and why rhythmic syncopation delivers its particular pleasure. The Map takes predictive coding seriously as the best extant non-dualist account of musical phenomenology.
+
+The explanatory gap survives nonetheless. Predictive-coding models specify *what* the brain computes and *when*; they remain silent on *why* the prediction error at a deceptive cadence feels the way it does rather than some other way, or feeling like nothing at all. A silicon system could implement the same Bayesian hierarchy with no accompanying phenomenology—this is the standard hard-problem point, but it applies with particular force when predictive coding is offered as the full story. The literature sometimes slides between "explains the functional role of surprise" and "explains what surprise feels like," but these are distinct claims. The functional explanation is compatible with dualism. The phenomenal explanation is what remains at issue.
+
+This is not a dismissal of predictive coding as neuroscience. The mechanics of musical cognition are a legitimate computational target, and the Map expects most of the processing story to look like this. The divergence from strong functionalism is not about the mechanics but about whether those mechanics exhaust what requires explanation. On the Map's view, the predictive hierarchy is the physical substrate that consciousness exploits; it is not what consciousness *is*.
 
 ## Emotion Without Proposition
 
@@ -108,9 +118,9 @@ Musical understanding connects to the Map's framework through several tenets.
 
 **[[tenets#^dualism|Dualism]]**: Musical qualia resist physical reduction. A complete physical description of the acoustic signal and neural processing of a minor passage leaves unexplained why it *sounds sad*. The explanatory gap is particularly stark here because the quale—the felt quality of minor tonality, of harmonic tension, of rhythmic drive—is the entire substance of musical experience. Remove the qualia and nothing recognisably musical remains.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Musical understanding guides action in ways that demonstrate phenomenal causation. A jazz improviser's note choices are guided by what the music *sounds like*—by the felt quality of tension and resolution, by the heard rightness or wrongness of each possibility. If these phenomenal qualities were epiphenomenal, improvisers could not use them to guide performance. The felt quality of music does causal work: it shapes what the performer plays next.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Musical understanding appears to guide action in ways suggestive of phenomenal causation. A jazz improviser's note choices track what the music *sounds like*—the felt quality of tension and resolution, the heard rightness or wrongness of each possibility. The epiphenomenalist has a standard reply: the neural correlate of the phenomenal quality does the guiding, while the phenomenal quality itself is causally idle. The Map concedes this correlate-plus-epiphenomenon picture is coherent but finds it explanatorily unstable—it leaves unexplained why the improviser's introspective reports of being guided by felt qualities reliably coincide with those qualities if the qualities themselves do nothing. The bidirectional-interaction tenet resolves the coordination by positing the minimal causal influence specified by the Map's quantum-interaction framework: phenomenal qualities contribute a small but non-zero difference to which physical outcome obtains, enough to make introspective tracking non-miraculous.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Musical experience has irreducible indexical character. *This* performance of *this* piece, heard *now*, is not fungible with a qualitatively identical experience in another branch. The haecceity of musical experience—this particular listening, with its particular emotional resonance—matters in ways that many-worlds collapses.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The aesthetic weight of a particular listening rests on its being the one that happened. An MWI defender correctly observes that within any single branch, the listener's experience is unified and indexical—haecceity is preserved branch-internally. The Map's concern is not with unity-within-a-branch but with the distribution of significance across branches: if every possible continuation of a performance (every missed note, every alternative interpretation, every variation in the listener's attentional trajectory) is equally actual, the concentrated value of the singular aesthetic event dissipates into a proliferation of equally-real variants. Aesthetic practice—the attention performers pay to *this* performance, the reverence audiences give to *this* hearing—presupposes a metaphysics where the singular occurrence is where value lands. Single-world actualism honours what branching metaphysics dilutes, even if it does not formally contradict it.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Explaining musical experience as "just sound waves processed by neurons" achieves apparent parsimony by ignoring what is most distinctive about the phenomenon. The felt quality of music—its capacity to move, to communicate without words, to create non-propositional meaning—is not captured by the simpler physical description. As with consciousness generally, the "simpler" account may be incomplete rather than more accurate.
 
@@ -136,3 +146,6 @@ Musical understanding connects to the Map's framework through several tenets.
 1. Kivy, P. (1989). *Sound Sentiment: An Essay on the Musical Emotions*. Temple University Press.
 1. Davies, S. (1994). *Musical Meaning and Expression*. Cornell University Press.
 1. Fritz, T. et al. (2009). Universal Recognition of Three Basic Emotions in Music. *Current Biology*, 19(7), 573–576.
+1. Huron, D. (2006). *Sweet Anticipation: Music and the Psychology of Expectation*. MIT Press.
+1. Koelsch, S. (2014). Brain correlates of music-evoked emotions. *Nature Reviews Neuroscience*, 15(3), 170–180.
+1. Vuust, P., Heggli, O. A., Friston, K. J., & Kringelbach, M. L. (2022). Music in the brain. *Nature Reviews Neuroscience*, 23(5), 287–305.

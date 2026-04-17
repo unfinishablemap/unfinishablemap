@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 23:03:00+00:00
+ai_modified: 2026-04-17 23:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 23:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-musical-understanding]]
+- **Changes**: Rewrote Fritz et al. 2009 citation to match the actual finding (Mafa listeners recognising happy/sad/fearful in Western excerpts) and hedged the broader major/minor cross-cultural claim; added new "Predictive-Coding Challenge" section engaging Huron, Koelsch, and Vuust as functionalism's strongest case, locating the disagreement at the phenomenal-vs-functional boundary rather than dismissing the framework; reworked the bidirectional-interaction paragraph to concede the correlate-plus-epiphenomenon reply and ground causation in the quantum-interaction framework; recast the weak "No Many Worlds" subsection to acknowledge within-branch indexicality and shift the argument to value-distribution across branches. Also: softened "cannot" → "struggle to" in description; recast the "not X, it is Y" construct in the specious-present section; added Huron 2006, Koelsch 2014, and Vuust 2022 to References.
+- **Addresses**: pessimistic-2026-04-17d Issues 3 (Medium), 4 (Medium), Predictive-Coding counterargument, and the "No Many Worlds" weakness note
+- **Published**: yes
 
 ## 2026-04-17 23:03 UTC - refine-draft
 - **Status**: Success

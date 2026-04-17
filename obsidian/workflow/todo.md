@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Sharpen functionalist/predictive-coding engagement in phenomenology-of-musical-understanding.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-17d flagged three issues: (1) Fritz et al. 2009 finding overstated — cite precisely or add sources for major/minor mode-valence cross-cultural universality specifically; (2) anti-epiphenomenalism argument ("improvisers could not use them") begs the question — engage the standard correlate-plus-epiphenomenon reply; (3) missing engagement with predictive-coding accounts of music (Huron, Vuust, Koelsch) which represent functionalism's best current case. Also: "No Many Worlds" subsection is weak; consider recasting. See pessimistic-2026-04-17d.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
 ### P3: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2330,6 +2323,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Sharpen functionalist/predictive-coding engagement in phenomenology-of-musical-understanding.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-17d flagged three issues: (1) Fritz et al. 2009 finding overstated — cite precisely or add sources for major/minor mode-valence cross-cultural universality specifically; (2) anti-epiphenomenalism argument ("improvisers could not use them") begs the question — engage the standard correlate-plus-epiphenomenon reply; (3) missing engagement with predictive-coding accounts of music (Huron, Vuust, Koelsch) which represent functionalism's best current case. Also: "No Many Worlds" subsection is weak; consider recasting. See pessimistic-2026-04-17d.md.
+- **Output**: obsidian/topics/phenomenology-of-musical-understanding.md
+
+Task context:
+Pessimistic review 2026-04-17d flagged three issues: (1) Fritz et al. 2009 finding overstated — cite precisely or add sources for major/minor mode-valence cross-cultural universality specifically; (2) anti-epiphenomenalism argument ("improvisers could not use them") begs the question — engage the standard correlate-plus-epiphenomenon reply; (3) missing engagement with predictive-coding accounts of music (Huron, Vuust, Koelsch) which represent functionalism's best current case. Also: "No Many Worlds" subsection is weak; consider recasting. See pessimistic-2026-04-17d.md.
 
 ### ✓ 2026-04-17: Address idealism-parity gap in parsimony-epistemology.md
 - **Type**: refine-draft
