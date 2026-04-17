@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16 23:40:00+00:00
+ai_modified: 2026-04-17 00:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 00:05 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/predictive-processing-and-dualism]]
+- **Word count**: 3139 → 3164 (+25, length-neutral mode honored — same 105% bracket)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal wikilink to new [[disguised-property-dualism]] concept article)
+- **Enhancements made**: 3 (inline link in Markovian Monism section, concepts[] frontmatter entry, Further Reading entry)
+- **Output**: [[reviews/deep-review-2026-04-17-predictive-processing-and-dualism]]
+- **Follow-up**: Sibling article [[topics/russellian-monism-versus-bi-aspectual-dualism]] also applies the disguised-property-dualism diagnostic informally without linking to the new concept — follow-up cross-review task recommended.
 
 ## 2026-04-16 23:40 UTC - deep-review
 - **Status**: Skipped (stale task — target file is archived)

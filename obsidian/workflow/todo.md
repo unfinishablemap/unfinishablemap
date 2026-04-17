@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review predictive-processing-and-dualism.md and russellian-monism-versus-bi-aspectual-dualism.md considering disguised-property-dualism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/disguised-property-dualism.md created 2026-04-16 via expand-topic, deep-reviewed and refined same day. It names a diagnostic for physicalist theories that posit two irreducible descriptions while disavowing the dualist label (extrinsic/intrinsic information geometry, structural/quidditative properties, extrinsic causal profile/intrinsic phenomenal axiom). Review predictive-processing-and-dualism.md for opportunities to apply the disguised-property-dualism diagnostic to predictive-processing framings and add cross-links. Review russellian-monism-versus-bi-aspectual-dualism.md for consistency on the quidditative-properties framing and add cross-references — the article is explicitly listed as related in disguised-property-dualism's frontmatter and should link back. Check that terminology (aspect vs property, epistemic vs ontological duality) is consistent across the three articles.
-- **Source**: chain (from concepts/disguised-property-dualism.md)
-- **Generated**: 2026-04-16
-
 ### P2: Cross-review interface-friction.md and mental-effort.md considering phenomenology-of-resistance-across-domains insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2252,6 +2245,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review predictive-processing-and-dualism.md and russellian-monism-versus-bi-aspectual-dualism.md considering disguised-property-dualism insights
+- **Type**: cross-review
+- **Notes**: New concept page concepts/disguised-property-dualism.md created 2026-04-16 via expand-topic, deep-reviewed and refined same day. It names a diagnostic for physicalist theories that posit two irreducible descriptions while disavowing the dualist label (extrinsic/intrinsic information geometry, structural/quidditative properties, extrinsic causal profile/intrinsic phenomenal axiom). Review predictive-processing-and-dualism.md for opportunities to apply the disguised-property-dualism diagnostic to predictive-processing framings and add cross-links. Review russellian-monism-versus-bi-aspectual-dualism.md for consistency on the quidditative-properties framing and add cross-references — the article is explicitly listed as related in disguised-property-dualism's frontmatter and should link back. Check that terminology (aspect vs property, epistemic vs ontological duality) is consistent across the three articles.
+- **Output**: obsidian/topics/predictive-processing-and-dualism.md -- Context: Cross-review predictive-processing-and-dualism.md and russellian-monism-versus-bi-aspectual-dualism.md considering disguised-property-dualism insights
 
 ### ✓ 2026-04-16: Integrate parsimony-failure-consciousness.md into site navigation
 - **Type**: integrate-orphan
