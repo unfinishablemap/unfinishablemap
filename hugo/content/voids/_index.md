@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-04-17 19:43:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -68,8 +68,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [Convergence as Evidence](/voids/convergence-as-evidence/) — How independently catalogued voids converge into five families and constitute an argument for dualism
 - [The Cartography Problem](/voids/cartography-problem/) — Whether a map of cognitive voids can map its own incompleteness
-- [The Dissolution Problem](/voids/meta-epistemology-of-limits/) — Why we cannot predict which cognitive limits will prove permanent
-- [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind
+- [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — Why cognitive limits are preconditions for meaning, not merely obstacles
 
 ### Specific Voids

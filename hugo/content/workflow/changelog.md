@@ -1,13 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 19:30:00+00:00
+ai_modified: 2026-04-17 20:17:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 20:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/)
+- **Word count**: 2379 → 2460 (+81)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan citations activated; unsourced 2±1 ape figure replaced with hedged comparative claim)
+- **Low issues addressed**: 1 (two passages tightened to avoid "not X but Y" cliché pattern)
+- **Enhancements made**: 5 inline citations integrated (Nagel 1974, Roese 1997, Suddendorf & Corballis 2007, Van Hoeck et al. 2015, Van Inwagen 1998)
+- **Output**: [deep-review-2026-04-17-consciousness-and-counterfactual-reasoning](/reviews/deep-review-2026-04-17-consciousness-and-counterfactual-reasoning/)
+
+## 2026-04-17 19:56 UTC - refine-draft (verification, no-op)
+- **Status**: Success (no changes required)
+- **Files reviewed**: [anesthesia-void](/voids/anesthesia-void/), [split-brain-consciousness](/topics/split-brain-consciousness/), [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Task**: P2 "Address pessimistic-2026-04-17b findings" — verification pass against all four flagged issues
+- **Outcome**: All four issues confirmed already addressed by earlier same-day refinements (anesthesia-void edits 13:11 UTC, split-brain edits 13:11 UTC, quantum-interpretations edits 12:41 UTC). The replenishment pass that regenerated this task had not picked up the earlier completed-task entries. No additional edits warranted.
+- **Verification details**:
+  - Issue 1 (HIGH, memory-failure dismissed too quickly): anesthesia-void.md "Relation to Site Perspective" (lines 127–131) now acknowledges both readings "posit something the anesthesia evidence alone cannot directly show," disavows parsimony at the single-phenomenon level, and grounds the Map's preference in three considerations external to the void (agent-specific failure modes as independent evidence for interface-disruption's dissociable couplings; consilience with altered-states framework; handling of disconnected/connected consciousness states).
+  - Issue 2a (HIGH, sophisticated physicalism in anesthesia-void): lines 85–87 now distinguish naive "one master switch" physicalism from the sophisticated functionalism actually defended (Block on access vs phenomenal, multi-realisability, integrationist IIT) and concede the dissociability phenomenon is theory-neutral between sophisticated physicalism and interface dualism, locating the live question in what is decomposing.
+  - Issue 2b (HIGH, sophisticated physicalism in split-brain): line 118 ("The opposing physicalism is not a 'master switch' view...") adds a full paragraph crediting multiply-realisable functionalism with predicting dissociation as a matter of course, then narrows the Map's challenge to which view most crisply predicts (a) resilience of high-level unity through massive substrate disruption and (b) the threshold character of anaesthetic loss.
+  - Issue 3 (MEDIUM, IIT/synchronization conflation): split-brain-consciousness.md line 130 explicitly writes "This is not a direct refutation of IIT itself. Φ is a distinct quantity from synchronization, and a small fibre bundle that preserves synchrony may or may not preserve high cross-hemispheric Φ — that depends on the full causal-effect structure, not on connectivity alone." Reframes the 2025 finding as challenging connectivity-based heuristics for IIT rather than IIT's core prediction.
+  - Issue 4 (MEDIUM, QBism rating): quantum-interpretations.md line 93 downgrades QBism to **Low** with explanation ("Agent-centrality alone is not enough... QBism's anti-realism blocks exactly this: if quantum states are only beliefs, there is no mind-independent superposition for consciousness to collapse, modulate, or select from"); comparison table (line 158) and Implications section now treat QBism consistently.
+- **Todo updated**: marked as superseded with full verification trace.
+- **Published**: no file changes
+
+## 2026-04-17 19:43 UTC - refine-draft
+- **Status**: Success
+- **Files**: [tenet-generated-voids](/voids/tenet-generated-voids/), [voids](/voids/voids/), [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- **Task**: P2 "Update references to coalesced dissolution-problem" — redirect wikilinks to absorbed target
+- **Changes**:
+  - tenet-generated-voids.md: `related_articles` dissolution-problem → meta-epistemology-of-limits; body link (line 109) and Further Reading (line 176) now point to `meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution`
+  - voids.md: removed redundant dissolution-problem bullet; folded its description into the meta-epistemology bullet directly below it
+  - observation-and-measurement-void.md: removed dissolution-problem from `related_articles` (meta-epistemology-of-limits already a topic); body link (line 116) and Further Reading (line 150) redirected to the section anchor
+- **Todo updated**: task marked complete
+- **Published**: yes (changes uncommitted; automation to commit)
 
 ## 2026-04-17 19:30 UTC - coalesce
 - **Status**: Success

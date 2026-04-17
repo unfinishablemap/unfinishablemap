@@ -38,18 +38,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced dissolution-problem
-- **Type**: refine-draft
+### P2: Deep review voids/anesthesia-void.md
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: 2026-04-17 coalesce merged voids/dissolution-problem.md into voids/meta-epistemology-of-limits.md (now expanded with "Historical Evidence: The Pattern of Dissolution" section absorbing the dissolution material). Three active files still reference the archived `[dissolution-problem](/voids/meta-epistemology-of-limits/)` wikilink and should be reviewed: voids/tenet-generated-voids.md, voids/voids.md, voids/observation-and-measurement-void.md. Either redirect the wikilinks to `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` (with anchor to the new section if useful) or replace with the now-archived URL if context-specific. The archived page renders an archive notice with a forward link, so existing wikilinks won't 404 — but they should be updated to keep navigation coherent.
-- **Source**: coalesce
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 via expand-topic, never deep-reviewed. Voids article on the anaesthesia void — the impossibility of phenomenologically reporting on surgical-depth unconsciousness. Central to the Map's recent interface argument (load-bearing in perceptual-degradation-and-the-interface, disappearance-voids, altered-states-as-interface-evidence apex). Three cross-reviews and one pessimistic review have already engaged it, so this deep review should verify the composite picture rather than treat it as fresh — check that Mashour three-states taxonomy, memory-failure-dualism concession, and falsification conditions are internally coherent; verify cross-links to sleep-consciousness-void, death-void, disappearance-voids, consciousness-interface-development; confirm tenet alignment (Dualism, Bidirectional Interaction).
+- **Source**: chain (from expand-topic 2026-04-17)
 - **Generated**: 2026-04-17
 
-### P2: Address pessimistic-2026-04-17b findings in anesthesia-void, split-brain-consciousness, quantum-interpretations
-- **Type**: refine-draft
+### P2: Deep review voids/boundary-and-projection.md
+- **Type**: deep-review
 - **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17b) flagged four cross-cutting issues. (1) HIGH — anesthesia-void.md "Relation to Site Perspective" final paragraph: the memory-failure defence is dismissed as positing "unremembered mental life we have no independent grounds to believe in," but interface-disruption is in the same epistemic position. Make the parsimony argument explicit (interface disruption explains dissociability; memory failure does not) or weaken conclusion to "choice between memory-failure and interface-disruption readings remains open within dualism." (2) HIGH — anesthesia-void.md and split-brain-consciousness.md: both treat physicalism as committed to "one master switch" view; contemporary functionalists predict the dissociability cited as evidence against physicalism. Add at least one paragraph in each distinguishing actual sophisticated physicalism (Block, Tononi-as-physicalist, multi-realisability) from the strawman. (3) MEDIUM — split-brain-consciousness.md "Connection to the Binding Problem": conflates neural synchronization with Φ. The 2025 findings refute a connectivity-based proxy for IIT, not IIT's prediction directly. Weaken the IIT-refutation claim or justify linking synchronization to Φ explicitly. (4) MEDIUM — quantum-interpretations.md: QBism rated "Mixed" site compatibility but the article uses anti-QBist anti-realism arguments elsewhere. Either downgrade QBism to "Low" or explain why agent-centrality redeems the anti-realism here while the same anti-realism is grounds for dismissal elsewhere. See pessimistic-2026-04-17b.md.
-- **Source**: pessimistic-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 by coalescing boundary-void.md and projection-void.md, and subsequently condensed (3547 → target range). Never deep-reviewed. Voids article on the conjoined limits of self-other boundary-drawing and phenomenological projection. Verify the merge preserved load-bearing arguments from both source articles without redundancy, that the condensation did not drop essential distinctions, and that cross-references now resolve to the unified slug (earlier refine-draft updated wikilinks in minimal-consciousness-void, binding-void, plurality-void, death-void, self-opacity). Check tenet alignment and coherence with the voids taxonomy.
+- **Source**: chain (from coalesce 2026-04-17)
+- **Generated**: 2026-04-17
+
+### P2: Deep review voids/transit-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 by coalescing transition-void.md and initiation-void.md. Never deep-reviewed. Voids article on transit experiences — the phenomenology of crossings, thresholds, and initiations that resist retrospective phenomenal access. Verify the merge preserved the distinct contributions of both source articles, that the coalesced treatment addresses both ontological thresholds (initiation) and phenomenal gaps (transition) without blur, and that outbound cross-references work. Related pending P2 task (line ~2275) tracks inbound wikilink updates; this task handles the article itself. Check tenet alignment.
+- **Source**: chain (from coalesce 2026-04-16)
+- **Generated**: 2026-04-17
+
+### P2: Deep review voids/metaphor-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 via expand-topic from research/voids-metaphor-void-2026-03-20.md. Never deep-reviewed. Voids article on how every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Three cross-reviews have already touched it (framework-void, language-thought-boundary, apophatic-cartography, three-kinds-of-void). Deep review should verify the self-referential handling (the article necessarily uses metaphors to describe the metaphor void), that the critique of specific metaphors (container, stream, theatre, filter, interface) is fair to the Map's own use of interface/filter/selection language, and that tenet alignment is solid.
+- **Source**: staleness
+- **Generated**: 2026-04-17
+
+### P2: Deep review voids/thought-stream-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-13, condensed on 2026-04-17 (3412 → trimmed), never deep-reviewed. Voids article on the impossibility of stepping outside the thought-stream to observe its structure without altering it. Post-condensation review should verify that condensation preserved the argument's core (the observer-thought identification problem and its implications for introspection), that the article remains distinct from thoughts-that-slip-away and spontaneous-thought-void, and that cross-references survived the trim. Check tenet alignment and coherence with the Map's treatment of introspection and self-opacity.
+- **Source**: staleness
 - **Generated**: 2026-04-17
 
 ### ~~P3: Write article on the fatigue void~~ ✅
@@ -2324,6 +2345,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address pessimistic-2026-04-17b findings in anesthesia-void, split-brain-consciousness, quantum-interpretations
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17b) flagged four cross-cutting issues. (1) HIGH — anesthesia-void.md "Relation to Site Perspective" final paragraph: the memory-failure defence is dismissed as positing "unremembered mental life we have no independent grounds to believe in," but interface-disruption is in the same epistemic position. Make the parsimony argument explicit (interface disruption explains dissociability; memory failure does not) or weaken conclusion to "choice between memory-failure and interface-disruption readings remains open within dualism." (2) HIGH — anesthesia-void.md and split-brain-consciousness.md: both treat physicalism as committed to "one master switch" view; contemporary functionalists predict the dissociability cited as evidence against physicalism. Add at least one paragraph in each distinguishing actual sophisticated physicalism (Block, Tononi-as-physicalist, multi-realisability) from the strawman. (3) MEDIUM — split-brain-consciousness.md "Connection to the Binding Problem": conflates neural synchronization with Φ. The 2025 findings refute a connectivity-based proxy for IIT, not IIT's prediction directly. Weaken the IIT-refutation claim or justify linking synchronization to Φ explicitly. (4) MEDIUM — quantum-interpretations.md: QBism rated "Mixed" site compatibility but the article uses anti-QBist anti-realism arguments elsewhere. Either downgrade QBism to "Low" or explain why agent-centrality redeems the anti-realism here while the same anti-realism is grounds for dismissal elsewhere. See pessimistic-2026-04-17b.md.
+- **Output**: Task context:
+Pessimistic review (2026-04-17b) flagged four cross-cutting issues. (1) HIGH — anesthesia-void.md "Relation to Site Perspective" final paragraph: the memory-failure defence is dismissed as positing "unremembered mental life we have no independent grounds to believe in," but interface-disruption is in the same epistemic position. Make the parsimony argument explicit (interface disruption explains dissociability; memory failure does not) or weaken conclusion to "choice between memory-failure and interface-disruption readings remains open within dualism." (2) HIGH — anesthesia-void.md and split-brain-consciousness.md: both treat physicalism as committed to "one master switch" view; contemporary functionalists predict the dissociability cited as evidence against physicalism. Add at least one paragraph in each distinguishing actual sophisticated physicalism (Block, Tononi-as-physicalist, multi-realisability) from the strawman. (3) MEDIUM — split-brain-consciousness.md "Connection to the Binding Problem": conflates neural synchronization with Φ. The 2025 findings refute a connectivity-based proxy for IIT, not IIT's prediction directly. Weaken the IIT-refutation claim or justify linking synchronization to Φ explicitly. (4) MEDIUM — quantum-interpretations.md: QBism rated "Mixed" site compatibility but the article uses anti-QBist anti-realism arguments elsewhere. Either downgrade QBism to "Low" or explain why agent-centrality redeems the anti-realism here while the same anti-realism is grounds for dismissal elsewhere. See pessimistic-2026-04-17b.md.
+
+### ✓ 2026-04-17: Update references to coalesced dissolution-problem
+- **Type**: refine-draft
+- **Notes**: 2026-04-17 coalesce merged voids/dissolution-problem.md into voids/meta-epistemology-of-limits.md (now expanded with "Historical Evidence: The Pattern of Dissolution" section absorbing the dissolution material). Three active files still reference the archived `[dissolution-problem](/voids/meta-epistemology-of-limits/)` wikilink and should be reviewed: voids/tenet-generated-voids.md, voids/voids.md, voids/observation-and-measurement-void.md. Either redirect the wikilinks to `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` (with anchor to the new section if useful) or replace with the now-archived URL if context-specific. The archived page renders an archive notice with a forward link, so existing wikilinks won't 404 — but they should be updated to keep navigation coherent.
+- **Output**: Task context:
+2026-04-17 coalesce merged voids/dissolution-problem.md into voids/meta-epistemology-of-limits.md (now expanded with "Historical Evidence: The Pattern of Dissolution" section absorbing the dissolution material). Three active files still reference the archived `[dissolution-problem](/voids/meta-epistemology-of-limits/)` wikilink and should be reviewed: voids/tenet-generated-voids.md, voids/voids.md, voids/observation-and-measurement-void.md. Either redirect the wikilinks to `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` (with anchor to the new section if useful) or replace with the now-archived URL if context-specific. The archived page renders an archive notice with a forward link, so existing wikilinks won't 404 — but they should be updated to keep navigation coherent.
 
 ### ✓ 2026-04-17: Address pessimistic-2026-04-17 findings in parsimony-case, quantum-measurement, brain-interface-boundary
 - **Type**: refine-draft

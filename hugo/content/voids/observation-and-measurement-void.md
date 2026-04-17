@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-04-17 19:43:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,6 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[apophatic-approaches]]'
-- '[[dissolution-problem]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[constitutive-exclusion]]'
 - '[[compound-failure-signatures]]'
@@ -116,7 +115,7 @@ The void operates through independent layers, each blocking investigation throug
 
 **Interpersonal layer.** There is no shared phenomenal space in which two experiences can be held alongside each other for comparison.
 
-These five routes to investigation all fail for different reasons yet converge on the same impasse. The [dissolution-problem](/voids/meta-epistemology-of-limits/) challenges any confident claim of permanent impossibility, but this void exhibits the signatures that distinguish persistent limits from dissolved ones: recurrence across cultures and centuries, irreducible self-reference, stable philosophical positions rather than progressive narrowing, and convergence across independent traditions.
+These five routes to investigation all fail for different reasons yet converge on the same impasse. The [dissolution problem](/voids/meta-epistemology-of-limits/#historical-evidence-the-pattern-of-dissolution) challenges any confident claim of permanent impossibility, but this void exhibits the signatures that distinguish persistent limits from dissolved ones: recurrence across cultures and centuries, irreducible self-reference, stable philosophical positions rather than progressive narrowing, and convergence across independent traditions.
 
 ## The Quantum Parallel
 
@@ -150,7 +149,7 @@ The [constitutive-exclusion](/topics/constitutive-exclusion/) develops a further
 
 ## Further Reading
 
-- [dissolution-problem](/voids/meta-epistemology-of-limits/) — Why we cannot predict which cognitive limits will prove permanent—and why this one likely will
+- [The Dissolution Problem](/voids/meta-epistemology-of-limits/#historical-evidence-the-pattern-of-dissolution) — Why we cannot predict which cognitive limits will prove permanent—and why this one likely will
 - [self-opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [causal-interface](/voids/causal-interface/) — The hidden mechanism of mind-body interaction
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
