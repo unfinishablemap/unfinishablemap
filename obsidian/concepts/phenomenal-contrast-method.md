@@ -4,7 +4,7 @@ description: "The phenomenal contrast method isolates non-sensory phenomenal pro
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-17T15:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-17T15:44:00+00:00
+last_deep_review: 2026-04-17T15:57:00+00:00
 ---
 
 The phenomenal contrast method identifies non-sensory phenomenal properties by holding sensory input constant while varying phenomenal experience. Two situations share identical physical stimulation yet differ in what it is like to undergo them. The difference isolates phenomenal character that cannot be explained by sensory content alone. The Unfinishable Map relies on this method across multiple articles as primary evidence for [[cognitive-phenomenology]], the irreducibility of understanding, and the limits of computational accounts of mind.
@@ -67,7 +67,7 @@ Voluntarily raising your arm and having it raised for you produce different phen
 
 ### Evidence for Cognitive Phenomenology
 
-The phenomenal contrast method provides the primary evidence for [[cognitive-phenomenology]] — the thesis that thinking itself has phenomenal character irreducible to sensory accompaniments. If understanding French and not understanding it differ phenomenally despite identical sounds, then understanding has its own "what it's like." This supports the liberal view that phenomenal consciousness extends beyond sensory [[qualia]] into cognition.
+The phenomenal contrast method provides the primary evidence for [[cognitive-phenomenology]] — the thesis, most forcefully argued by David Pitt (2004), that thinking itself has phenomenal character irreducible to sensory accompaniments. If understanding French and not understanding it differ phenomenally despite identical sounds, then understanding has its own "what it's like." This supports the liberal view that phenomenal consciousness extends beyond sensory [[qualia]] into cognition.
 
 ### Support for Phenomenal Intentionality
 
@@ -80,6 +80,10 @@ The phenomenal contrast method shares logical structure with the [[knowledge-arg
 ### Empirical Applications
 
 The method's logical structure lends itself to empirical research through [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]]. By comparing neural activity during phenomenally contrastive conditions — understanding versus non-understanding, agency versus passivity — researchers can identify neural correlates of non-sensory phenomenal properties. The method provides the experimental design: hold sensory input constant and vary cognitive engagement, then observe what changes in both phenomenal report and neural activity. This makes phenomenal contrasts one of the few tools that can bridge first-person phenomenology and third-person neuroscience without collapsing one into the other.
+
+### Bearing on AI Consciousness
+
+The method also constrains the debate over [[ai-consciousness]]. A language model and a competent human reader process the same French sentence. If phenomenal character attaches to understanding rather than to sensory input or functional transformation, then behavioural parity on comprehension tasks settles nothing about whether the system has the phenomenal contrast. The question becomes whether the system instantiates whatever cognitive phenomenology is, not whether it produces the right outputs. This is why the Map treats phenomenal contrasts as evidence against functionalist shortcuts to machine consciousness — the very datum functionalism must explain is the datum a functional duplicate might lack.
 
 ## Objections and Limitations
 
