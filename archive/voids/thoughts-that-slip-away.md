@@ -1,11 +1,16 @@
 ---
 title: "Thoughts That Slip Away"
 created: 2026-01-13
-modified: 2026-01-20
+modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T13:26:00+00:00
 draft: false
 description: "Why some thoughts vanish as you reach for them—cataloguing slippage mechanisms from tip-of-tongue to double concealment, and asking whether patterns in what slips reveal occluded territory."
+archived: true
+archived_date: 2026-04-17T13:26:00+00:00
+superseded_by: "/voids/thought-stream-void/"
+archive_reason: "Coalesced into The Thought Stream Void"
+original_path: "/voids/thoughts-that-slip-away/"
 topics: []
 concepts:
   - "[[mysterianism]]"

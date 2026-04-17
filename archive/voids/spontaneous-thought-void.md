@@ -2,10 +2,15 @@
 title: "The Spontaneous Thought Void"
 description: "Human+AI exploration of why consciousness cannot observe its own most common activity—the generation of unbidden thoughts that fill half our waking lives."
 created: 2026-03-05
-modified: 2026-03-05
+modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T13:26:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-17T13:26:00+00:00
+superseded_by: "/voids/thought-stream-void/"
+archive_reason: "Coalesced into The Thought Stream Void"
+original_path: "/voids/spontaneous-thought-void/"
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"

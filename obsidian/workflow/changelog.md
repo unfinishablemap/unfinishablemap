@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 13:11:00+00:00
+ai_modified: 2026-04-17 13:26:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 13:26 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/spontaneous-thought-void]], [[voids/thoughts-that-slip-away]]
+- **Target**: [[voids/thought-stream-void]]
+- **Archived**: [[archive/voids/spontaneous-thought-void]], [[archive/voids/thoughts-that-slip-away]]
+- **Section pressure**: voids/ 99/100 → 98/100 after coalesce (reduces one slot of cap pressure)
+- **Rationale**: The two articles treat complementary faces of a single structural fact — consciousness cannot observe how its stream arrives (spontaneous generation) or how its contents depart (slippage). They cross-referenced each other, shared the self-opacity/introspective-retrospection frame, and cited overlapping sources (James, McGinn, mysterianism). Merging preserves distinctive mechanisms (DMN, MCH neurons, ironic suppression, double concealment, dissolution-on-articulation) under one unified frame rather than two articles each gesturing at the other's missing half.
+- **References to review**: 8 files link to `spontaneous-thought-void` and 58 files link to `thoughts-that-slip-away` in active obsidian content. URLs remain valid via archive, but follow-up cross-review recommended to update wikilinks to the unified target.
 
 ## 2026-04-17 13:11 UTC - refine-draft
 - **Status**: Success

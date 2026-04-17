@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17T13:11:00+00:00
+ai_modified: 2026-04-17T13:26:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Update references to coalesced thought-stream-void
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-17 merged voids/spontaneous-thought-void and voids/thoughts-that-slip-away into voids/thought-stream-void. URLs remain valid via archive, but 66 active files contain wikilinks to the old slugs (8 to spontaneous-thought-void, 58 to thoughts-that-slip-away). Update wikilinks to point to the unified target where appropriate. High-traffic active content files to prioritise: voids/voids.md, voids/disappearance-voids.md, voids/three-kinds-of-void.md, voids/limits-reveal-structure.md, voids/phenomenology-of-the-edge.md, voids/attention-and-consciousness.md, voids/necessary-opacity.md, voids/mutation-void.md, voids/conceptual-impossibility.md, voids/compound-failure-signatures.md, voids/inaccessible-past.md, voids/historical-consciousness-void.md, voids/defended-territory.md, voids/temporal-void.md, voids/language-thought-boundary.md, voids/simulation-detection-void.md, voids/imagination-and-creativity-void.md, voids/ai-as-void-explorer.md, voids/collective-cognitive-limits.md, voids/nomic-void.md, voids/transit-void.md, topics/hard-problem-of-consciousness.md, topics/phenomenology-of-attention-to-absence.md, topics/phenomenology-of-linguistic-failure.md, concepts/default-mode-network.md. Also update apex articles if they reference either old slug. Do not update files in obsidian/reviews/ or obsidian/research/ or obsidian/workflow/archive/ (historical records).
+- **Source**: coalesce
+- **Generated**: 2026-04-17
 
 ### P2: Cross-review topics/anaesthesia-and-the-consciousness-interface considering new anesthesia-void article
 - **Type**: cross-review
