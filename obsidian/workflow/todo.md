@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review filter-theory.md considering anesthesia-void and the three-states taxonomy
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The new voids/anesthesia-void.md (created 2026-04-17) makes the Mashour three-states distinction (unconsciousness / disconnected consciousness / connected consciousness) load-bearing across the Map's interface cluster and argues that anaesthesia shows compound failure signatures rather than a master switch-off. concepts/filter-theory.md (last deep-reviewed 2026-04-06) is the canonical Map treatment of the consciousness-as-transmission view but does not yet cite anesthesia-void or the three-states taxonomy. Review to (a) add cross-links to anesthesia-void where filter-theory discusses pharmacological disruption and receiver failure, (b) check whether the three-states taxonomy strengthens or complicates filter-theory's transmission metaphor — disconnected-consciousness is particularly interesting because it corresponds to a filter working but environment-decoupled, (c) ensure compound-failure-signature framing is compatible with filter-theory's predictions, (d) add cross-links forward to the pending pharmacological-specification and compound-failure-signatures articles queued in P3. Log findings either way.
-- **Source**: chain (from voids/anesthesia-void.md)
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review disappearance-voids.md considering anesthesia-void and the three-states taxonomy
 - **Type**: cross-review
 - **Status**: pending
@@ -2295,6 +2288,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review filter-theory.md considering anesthesia-void and the three-states taxonomy
+- **Type**: cross-review
+- **Notes**: The new voids/anesthesia-void.md (created 2026-04-17) makes the Mashour three-states distinction (unconsciousness / disconnected consciousness / connected consciousness) load-bearing across the Map's interface cluster and argues that anaesthesia shows compound failure signatures rather than a master switch-off. concepts/filter-theory.md (last deep-reviewed 2026-04-06) is the canonical Map treatment of the consciousness-as-transmission view but does not yet cite anesthesia-void or the three-states taxonomy. Review to (a) add cross-links to anesthesia-void where filter-theory discusses pharmacological disruption and receiver failure, (b) check whether the three-states taxonomy strengthens or complicates filter-theory's transmission metaphor — disconnected-consciousness is particularly interesting because it corresponds to a filter working but environment-decoupled, (c) ensure compound-failure-signature framing is compatible with filter-theory's predictions, (d) add cross-links forward to the pending pharmacological-specification and compound-failure-signatures articles queued in P3. Log findings either way.
+- **Output**: obsidian/concepts/filter-theory.md -- Context: Cross-review filter-theory.md considering anesthesia-void and the three-states taxonomy
 
 ### ✓ 2026-04-17: Address pessimistic review findings in apophatic-cartography.md
 - **Type**: refine-draft

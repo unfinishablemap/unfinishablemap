@@ -4,7 +4,7 @@ description: "The brain transmits and constrains consciousness rather than produ
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T17:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,13 +36,14 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
+  - "[[anesthesia-void]]"
   - "[[perception]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-04-06T06:56:00+00:00
+last_deep_review: 2026-04-17T17:56:00+00:00
 ---
 
 The filter theory of consciousness proposes that the brain does not *produce* consciousness but *transmits*, *filters*, or *constrains* a consciousness that exists independently. Developed by [[william-james-consciousness|William James]], Henri Bergson, and Aldous Huxley in different forms, this framework reinterprets the tight correlations between brain states and conscious states without equating them. The brain is interface rather than generator—like a radio receiving a broadcast rather than producing it. This view is central to The Unfinishable Map's [[interactionist-dualism|interactionist dualism]] and explains how [[tenets#^dualism|dualism]] can accommodate the empirical findings that seem to support materialism.
@@ -82,7 +83,7 @@ Filter theory interprets this straightforwardly: the DMN normally constrains con
 
 Different anaesthetics produce identical behavioural outputs—unresponsiveness, amnesia—while generating radically different conscious experiences. Sanders et al. (2023) distinguish at least three states under anaesthesia: connected consciousness (environmental awareness), disconnected consciousness (vivid internal experience), and unconsciousness. Clinical effectiveness requires only disconnecting the patient from the environment, not extinguishing experience.
 
-Sarasso et al. (2015) compared brain complexity under propofol, xenon, and ketamine. Propofol and xenon both abolished reported experience but through mechanistically distinct neural signatures. Ketamine preserved wakefulness-like complexity despite equivalent behavioural unresponsiveness—subjects reported long, vivid dreams. Three agents, three distinct neural signatures, two radically different phenomenological outcomes. If neural activity generates consciousness, disrupting it should produce relatively uniform suppression. Instead, different molecular targets yield qualitatively different consciousness profiles—the brain *mediates* rather than *generates* experience.
+Sarasso et al. (2015) compared brain complexity under propofol, xenon, and ketamine. Propofol and xenon both abolished reported experience but through mechanistically distinct neural signatures. Ketamine preserved wakefulness-like complexity despite equivalent behavioural unresponsiveness—subjects reported long, vivid dreams. Three agents, three distinct neural signatures, two radically different phenomenological outcomes. This pattern refutes naive unified-switch physicalism but not sophisticated functionalism, which accommodates dissociability by positing consciousness realised in coupled subsystems. Filter theory attributes the same dissociable pattern to separable interface components; the [[anesthesia-void|anesthesia void]] examines how the first-person gap underdetermines which decomposition is correct.
 
 Consciousness under anaesthesia does not switch off at a threshold; it narrows continuously as dosage increases—fitting a progressively constricting filter better than a generator being powered down. The [[anaesthesia-and-the-consciousness-interface|full pharmacological analysis]] reveals at least four separable interface components that can be independently disrupted. Sensory information reaches the brain during light sedation but is not perceived (Noreika et al. 2018)—the signal arrives at sensory cortex; the interface blocks transmission.
 
@@ -188,6 +189,7 @@ Buddhism offers a structurally parallel framework: the five *skandhas* describe 
 - [[the-interface-location-problem]] — Where consciousness meets the brain
 - [[mind-brain-separation]] — The rendering engine analogy
 - [[anaesthesia-and-the-consciousness-interface]] — Pharmacological dissection of separable filter components
+- [[anesthesia-void]] — The first-person gap under anesthesia as a void probe for the filter-vs-production question
 - [[terminal-lucidity-and-filter-transmission-theory]] — Cognitive return despite severe structural brain damage
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: five altered states converging on multi-channel filter architecture
 - [[binding-problem]] — Classical binding fails; quantum holism and filter theory on unity
