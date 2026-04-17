@@ -2,9 +2,9 @@
 title: "When Consciousness Fragments"
 description: "Split-brain surgery, anaesthesia, and dissociation each fracture conscious expression—but the evidence suggests what breaks is the physical interface, not consciousness itself. Unity proves remarkably resilient."
 created: 2026-01-14
-modified: 2026-04-03
+modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-07T12:53:00+00:00
+ai_modified: 2026-04-17T10:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-24T09:20:00+00:00
+last_deep_review: 2026-04-17T10:26:00+00:00
 coalesced_from:
   - "/concepts/brain-specialness/"
   - "/concepts/interface-locality/"
@@ -103,7 +103,7 @@ For physicalist frameworks like [[integrated-information-theory|Integrated Infor
 
 Dissociative identity disorder (DID) presents perhaps the most philosophically challenging form of fragmentation. Distinct personality states — "alters" — appear to maintain separate experiential streams, memories, and self-concepts within a single brain. Some alters report no awareness of others' experiences. If taken at face value, DID suggests that one brain can host multiple conscious subjects simultaneously.
 
-The philosophical literature on DID and dualism remains remarkably thin. Most analysis operates within physicalist frameworks, treating DID as evidence that consciousness is a product of brain organisation that can be multiply instantiated. Yet the DID evidence is equally compatible with a dualist reading: a single non-physical mind whose expression through the brain is disrupted by trauma, producing fragmented *output* without fragmented *experience*. Whether alters represent genuinely separate consciousnesses or a single consciousness expressing itself through dissociated behavioural-memorial systems remains unresolved.
+The philosophical literature on DID and dualism remains thin. Most analysis treats DID as evidence that consciousness is a product of brain organisation that can be multiply instantiated. Yet the evidence is equally compatible with a dualist reading: a single non-physical mind whose expression is disrupted by trauma, producing fragmented *output* without fragmented *experience*. Whether alters are separate consciousnesses or one consciousness expressing through dissociated behavioural-memorial systems remains unresolved.
 
 ## The Interface Argument
 
@@ -133,7 +133,7 @@ The cases pose genuine puzzles for [[personal-identity|personal identity]]:
 
 **The unity intuition:** Yet the patient remains "one of us" psychologically — one person who self-identifies as singular.
 
-Philosopher Elizabeth Schechter proposes both intuitions are correct: split-brain patients have two minds in one sense, while remaining one person in another.
+Philosopher Elizabeth Schechter proposes both are correct: two minds in one sense, one person in another.
 
 If consciousness can exhibit this kind of partial division, what individuates subjects over time? The [[consciousness-and-the-metaphysics-of-individuation|individuation question]] becomes especially acute, and the [[indexical-void]] — the inability to explain why *this* consciousness is *this one* — intensifies when division creates ambiguity about which continuation is "me." Standard answers struggle:
 
@@ -141,7 +141,7 @@ If consciousness can exhibit this kind of partial division, what individuates su
 - **Biological continuity** identifies the person with the body — but the brain is divided
 - **Non-physical persistence** faces its own puzzle — which hemisphere "gets" the soul?
 
-The concept of [[haecceity]] — "thisness," the non-qualitative property of being *this* particular subject — becomes relevant here. If what makes you *you* is not reducible to qualitative features, then split-brain cases may show that haecceity can partially persist through division. Both hemispheres may share the *same* haecceity in some attenuated sense, explaining why patients feel like one person despite experiencing perceptual division.
+The concept of [[haecceity]] — "thisness," the non-qualitative property of being *this* particular subject — becomes relevant here. If what makes you *you* is not reducible to qualitative features, then split-brain cases may show haecceity partially persisting through division: both hemispheres may share the *same* haecceity in some attenuated sense, explaining why patients feel like one person despite perceptual division. The apex [[identity-across-transformations]] develops this point across transformations more broadly: the dimension of unity most tied to indexical identity — who is the subject — proves most resistant to physical intervention.
 
 ## What the Fragmentation Evidence Shows
 

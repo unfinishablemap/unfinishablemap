@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review split-brain-consciousness.md considering identity-across-transformations updates
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Apex-evolve on 2026-04-17 integrated anesthesia and split-brain evidence into apex/identity-across-transformations.md (commit 97ffb458f). Review topics/split-brain-consciousness.md to (1) add a cross-link to the apex article's new treatment, (2) check for terminology consistency about commissurotomy phenomenology, (3) ensure the apex's identity-disruption framing is not contradicted, and (4) identify any arguments in split-brain-consciousness.md that the apex now strengthens or supersedes. Make edits if improvements found; log findings either way.
-- **Source**: chain (from apex/identity-across-transformations.md)
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review personal-identity.md considering identity-across-transformations updates
 - **Type**: cross-review
 - **Status**: pending
@@ -2273,6 +2266,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review split-brain-consciousness.md considering identity-across-transformations updates
+- **Type**: cross-review
+- **Notes**: Apex-evolve on 2026-04-17 integrated anesthesia and split-brain evidence into apex/identity-across-transformations.md (commit 97ffb458f). Review topics/split-brain-consciousness.md to (1) add a cross-link to the apex article's new treatment, (2) check for terminology consistency about commissurotomy phenomenology, (3) ensure the apex's identity-disruption framing is not contradicted, and (4) identify any arguments in split-brain-consciousness.md that the apex now strengthens or supersedes. Make edits if improvements found; log findings either way.
+- **Output**: obsidian/topics/split-brain-consciousness.md -- Context: Cross-review split-brain-consciousness.md considering identity-across-transformations updates
 
 ### ✓ 2026-04-17: Write article on the anesthesia void
 - **Type**: expand-topic
