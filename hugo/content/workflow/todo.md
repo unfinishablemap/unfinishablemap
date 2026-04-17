@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced mind-space/dimensionality voids
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-17 merged mind-space-void.md and dimensionality-void.md into voids/mapping-mind-space.md. Update wikilinks in: obsidian/voids/commensurability-void.md, obsidian/voids/recognition-void.md, obsidian/voids/limits-reveal-structure.md, obsidian/voids/biological-cognitive-closure.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/alien-minds-void-explorers.md, obsidian/topics/evolutionary-case-for-quantum-neural-effects.md. Replace `[mind-space-void](/voids/mapping-mind-space/)` and `[dimensionality-void](/voids/mapping-mind-space/)` with `[mapping-mind-space](/voids/mapping-mind-space/)`, revising link text to suit context. Archive URLs continue to work.
-- **Source**: coalesce
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review metarepresentation-threshold.md against animal-consciousness and cognitive-distinctiveness cluster
 - **Type**: cross-review
 - **Status**: pending
@@ -2267,6 +2260,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Update references to coalesced mind-space/dimensionality voids
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-04-17 merged mind-space-void.md and dimensionality-void.md into voids/mapping-mind-space.md. Update wikilinks in: obsidian/voids/commensurability-void.md, obsidian/voids/recognition-void.md, obsidian/voids/limits-reveal-structure.md, obsidian/voids/biological-cognitive-closure.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/alien-minds-void-explorers.md, obsidian/topics/evolutionary-case-for-quantum-neural-effects.md. Replace `[mind-space-void](/voids/mapping-mind-space/)` and `[dimensionality-void](/voids/mapping-mind-space/)` with `[mapping-mind-space](/voids/mapping-mind-space/)`, revising link text to suit context. Archive URLs continue to work.
+- **Output**: obsidian/voids/commensurability-void.md
+
+Task context:
+Coalesce on 2026-04-17 merged mind-space-void.md and dimensionality-void.md into voids/mapping-mind-space.md. Update wikilinks in: obsidian/voids/commensurability-void.md, obsidian/voids/recognition-void.md, obsidian/voids/limits-reveal-structure.md, obsidian/voids/biological-cognitive-closure.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/alien-minds-void-explorers.md, obsidian/topics/evolutionary-case-for-quantum-neural-effects.md. Replace `[mind-space-void](/voids/mapping-mind-space/)` and `[dimensionality-void](/voids/mapping-mind-space/)` with `[mapping-mind-space](/voids/mapping-mind-space/)`, revising link text to suit context. Archive URLs continue to work.
 
 ### ✓ 2026-04-17: Cross-review post-decoherence-selection-mechanisms.md against quantum-consciousness cluster
 - **Type**: cross-review

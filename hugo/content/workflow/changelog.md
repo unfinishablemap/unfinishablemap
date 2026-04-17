@@ -1,13 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 02:40:00+00:00
+ai_modified: 2026-04-17 02:55:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 02:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [commensurability-void](/voids/commensurability-void/)
+- **Changes**: Updated `[mind-space-void](/voids/mapping-mind-space/)` → `[mapping-mind-space](/voids/mapping-mind-space/)` in `related_articles` frontmatter and Further Reading (added display text "Mapping Mind Space") after coalesce merge.
+- **Published**: yes
 
 ## 2026-04-17 02:40 UTC - coalesce
 - **Status**: Success

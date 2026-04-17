@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-26 14:17:00+00:00
+ai_modified: 2026-04-17 02:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[other-minds-void]]'
 - '[[intersubjective-void]]'
 - '[[synesthetic-void]]'
-- '[[mind-space-void]]'
+- '[[mapping-mind-space]]'
 - '[[framework-void]]'
 - '[[ai-as-void-explorer]]'
 - '[[comparative-consciousness-and-interface-differences]]'
@@ -104,7 +104,7 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 - [other-minds-void](/voids/other-minds-void/)
 - [intersubjective-void](/voids/intersubjective-void/)
 - [synesthetic-void](/voids/synesthetic-void/)
-- [mind-space-void](/voids/mapping-mind-space/)
+- [Mapping Mind Space](/voids/mapping-mind-space/)
 - [framework-void](/voids/framework-void/)
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/)
 - [apophatic-cartography](/voids/apophatic-cartography/)
