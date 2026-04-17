@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Address pessimistic-2026-04-17b high-severity issues in anesthesia-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17b) found three issues on the freshly-created anesthesia-void article: (Issue 1, High) the memory-failure defence is dismissed as positing "unremembered mental life we have no independent grounds to believe in" — but interface-disruption is in the same epistemic position; either make the parsimony argument explicit (interface explains *more* phenomena, e.g., dissociability) or weaken the conclusion to "the choice between memory-failure and interface-disruption readings remains open within dualism." (Issue 2, High) the article treats physicalism as a "one master switch" view; contemporary functionalists predict the same dissociability cited as evidence — add a paragraph distinguishing the physicalism actually defended in the literature (Block, Tononi-as-physicalist-reading, multi-realisability) from the strawman version. (Issue 7, Medium) no falsification section despite making a substantive empirical claim — add a "What Would Challenge This Reading?" section listing concrete observations that would favour memory-failure or genuine-cessation readings. Also softening of "Any theory of consciousness that ignores this structure will underfit the clinical evidence" → "Theories that overlook this structure risk underfitting." See pessimistic-2026-04-17b.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
-### P1: Address pessimistic-2026-04-17b high-severity issues in split-brain-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17b) found three issues on the freshly-revised split-brain article: (Issue 2, High) sophisticated physicalism strawman — same fix as anesthesia-void.md, distinguish the multi-realisability functionalism actually defended from the "one master switch" view. (Issue 3, Medium) IIT prediction misrepresented in "Connection to the Binding Problem" — neural synchronization and Φ are different quantities; the 2025 finding refutes a connectivity proxy for IIT, not IIT's prediction itself. Either weaken to "challenges connectivity-based proxies for IIT" or justify the strong claim by linking neural synchronization to Φ explicitly. (Issue 6, Medium) the "Contemplative Evidence" section concedes phenomenal unity is constructed (via anattā) but the article elsewhere uses felt unity as evidence for indivisibility; either retract the construction concession (drawing a content-unity / subject-unity distinction) or weaken the indivisibility framing. Also language fixes: "the evidence, examined carefully, points somewhere unexpected" → "the evidence admits a different reading"; "transforms fragmentation from a decisive objection..." → softer phrasing. Also: corpus-callosum citation needs primary source, not "Professor Michael Miller" attribution; soften Mashour 2012 framing. See pessimistic-2026-04-17b.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
 ### P2: Address pessimistic-2026-04-17b medium-severity issues in quantum-interpretations.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2308,6 +2294,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address pessimistic-2026-04-17b high-severity issues in anesthesia-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17b) found three issues on the freshly-created anesthesia-void article: (Issue 1, High) the memory-failure defence is dismissed as positing "unremembered mental life we have no independent grounds to believe in" — but interface-disruption is in the same epistemic position; either make the parsimony argument explicit (interface explains *more* phenomena, e.g., dissociability) or weaken the conclusion to "the choice between memory-failure and interface-disruption readings remains open within dualism." (Issue 2, High) the article treats physicalism as a "one master switch" view; contemporary functionalists predict the same dissociability cited as evidence — add a paragraph distinguishing the physicalism actually defended in the literature (Block, Tononi-as-physicalist-reading, multi-realisability) from the strawman version. (Issue 7, Medium) no falsification section despite making a substantive empirical claim — add a "What Would Challenge This Reading?" section listing concrete observations that would favour memory-failure or genuine-cessation readings. Also softening of "Any theory of consciousness that ignores this structure will underfit the clinical evidence" → "Theories that overlook this structure risk underfitting." See pessimistic-2026-04-17b.md.
+- **Output**: obsidian/voids/anesthesia-void.md
+
+Task context:
+Pessimistic review (2026-04-17b) found three issues on the freshly-created anesthesia-void article: (Issue 1, High) the memory-failure defence is dismissed as positing "unremembered mental life we have no independent grounds to believe in" — but interface-disruption is in the same epistemic position; either make the parsimony argument explicit (interface explains *more* phenomena, e.g., dissociability) or weaken the conclusion to "the choice between memory-failure and interface-disruption readings remains open within dualism." (Issue 2, High) the article treats physicalism as a "one master switch" view; contemporary functionalists predict the same dissociability cited as evidence — add a paragraph distinguishing the physicalism actually defended in the literature (Block, Tononi-as-physicalist-reading, multi-realisability) from the strawman version. (Issue 7, Medium) no falsification section despite making a substantive empirical claim — add a "What Would Challenge This Reading?" section listing concrete observations that would favour memory-failure or genuine-cessation readings. Also softening of "Any theory of consciousness that ignores this structure will underfit the clinical evidence" → "Theories that overlook this structure risk underfitting." See pessimistic-2026-04-17b.md.
 
 ### ✓ 2026-04-17: Cross-review altered-states-as-interface-evidence.md considering anesthesia void research
 - **Type**: cross-review
