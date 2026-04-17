@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17T13:26:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-04-17T16:48:00+00:00
+ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address pessimistic review findings in consciousness-interface-development.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17c) flagged: (a) terminal lucidity is rhetorically over-leveraged — disclaimed as anecdotal then framed as "precisely the kind of phenomenon the interface model predicts"; either downgrade or substantively engage materialist alternatives (transient cholinergic surges, reduced edema, hippocampal disinhibition, observer bias), (b) "same irreducible consciousness across stages" assumes what the developmental data put in question — engage the constructivist account of personal identity (causal continuity + narrative integration) head-on, (c) quantum interaction section invokes "developmental restructuring alters which sites are available" with no engagement with magnitudes, timescales, or Tegmark decoherence objection; either link to a Map article that does this work or downgrade to "consistent with" rather than "predicts." See pessimistic-2026-04-17c.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Address pessimistic review findings in perceptual-degradation-and-the-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) "anaesthesia dissociation" asserted as categorical ("not gradual degradation but apparent disconnection") but anaesthesia is titratable with documented gradations from sedation through dissociation to surgical anaesthesia; intraoperative awareness, dexmedetomidine, ketamine phenomenology contradict the cleanly categorical break the argument needs. Either narrow to specific agents/concentrations or reframe four signatures as "patterns suggesting" rather than asserting. Also (b) modern deep networks demonstrate three of the four signatures (graceful degradation, priority preservation, compensatory generation) — the four-signature argument may collapse to one-and-a-half signatures, with anaesthesia carrying the load; defend the anaesthesia signature on stronger empirical ground. (c) "Bandwidth ceiling set by quantum coherence" is quantitatively empty; either commit to magnitudes or downgrade. See pessimistic-2026-04-17c.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Address pessimistic review findings in apophatic-cartography.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) the falsifiability safeguard ("a reductive explanation generating genuine understanding") is unsatisfiable in principle if "understanding" is judged by phenomenally-committed observers; specify operational criteria a candidate reduction must meet (predictive novelty, unification of disparate phenomena, successful third-person derivation of first-person reports) or concede the worked example is suggestive rather than rigorous. Also (b) cross-tradition convergence overweights independence — Christian via negativa, Maimonides, Buddhist sunyata, Sufism are not "different cognitive architectures"; documented historical contact through Pseudo-Dionysian corpus shaped all three Abrahamic traditions. Acknowledge the historical-transmission objection. (c) Internal inconsistency: invokes Buddhist sunyata as methodological ally but closes with No-Many-Worlds indexical realism asserting "uniquely real determinate perspective" — Madhyamaka denies the reified continuant subject; either acknowledge the tension or remove Buddhist citation from the convergence argument. (d) Consider adding fifth criterion — "progressive empirical articulation" — to distinguish hard problem from astrology, which arguably satisfies the four existing criteria. See pessimistic-2026-04-17c.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
 
 ### P2: Cross-review filter-theory.md considering anesthesia-void and the three-states taxonomy
 - **Type**: cross-review
