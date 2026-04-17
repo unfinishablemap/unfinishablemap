@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Specify what counts as "showing reduction" in disguised-property-dualism.md diagnostic
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-16d) Issue 2 (Medium-High severity): The three-condition diagnostic's condition (3) "No reduction is shown" is not given a standard. Type-B physicalists hold that water=H₂O is an identity not derived from water-concepts but discovered a posteriori — the reduction is "exhibited" by empirical investigation, not by logical derivation. Without a standard, almost any physicalist theory with a hard-problem-acknowledging architecture will fail condition (3), because the relevant reductions are philosophical end-states, not current achievements. Specify what would count as "showing" reduction (logical derivation? Empirical identity claim backed by a research programme? Explanation of why the two descriptions co-vary?). Better: acknowledge explicitly that the diagnostic is stance-sensitive and its utility is heuristic rather than demonstrative. The article's current subsection "How the diagnostic applies to the Map's own view" (added 2026-04-17) partially addresses the Map-self-application worry but does not specify the reduction standard the disguised variants are being measured against. See pessimistic-2026-04-16d.md Issue 2.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
-### P2: Address asymmetric underdetermination and progressive-predictions gap in duhem-quine-underdetermination-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-16d) Issues 4 & 5 (both Medium severity, same article). (Issue 4) The article invokes Lakatos to legitimise dualism as "progressive" and lists three candidate predictions, but (a) functional accounts will continue to face explanatory gaps and (b) first-person data will resist third-person reduction are tautological/definitional given the Map's dualism; only (c) quantum-sensitive decision points is a genuine empirical prediction, with specifics deferred to the falsification roadmap without summary. Replace the definitional "predictions" with specific empirical commitments (what statistical anomaly, at what timescale, in what brain region, distinguishable from what null hypothesis) OR acknowledge the Lakatosian legitimisation is aspirational rather than earned. (Issue 5) Underdetermination is used asymmetrically — it demotes physicalist confidence but the Map's own commitments are preserved via the underspecified Lakatosian defence. Treat the symmetry seriously: if underdetermination is the operative epistemic framework, it demotes all substantive metaphysical commitments to research-programme hard cores, and the comparative evaluation of programmes is the only remaining epistemic exercise — do that evaluation explicitly rather than deferring it. See pessimistic-2026-04-16d.md Issues 4 and 5.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
 ### P2: Narrow unified-resistance signature claim and engage illusionist literature in phenomenology-of-resistance-across-domains.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2273,6 +2259,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Specify what counts as "showing reduction" in disguised-property-dualism.md diagnostic
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16d) Issue 2 (Medium-High severity): The three-condition diagnostic's condition (3) "No reduction is shown" is not given a standard. Type-B physicalists hold that water=H₂O is an identity not derived from water-concepts but discovered a posteriori — the reduction is "exhibited" by empirical investigation, not by logical derivation. Without a standard, almost any physicalist theory with a hard-problem-acknowledging architecture will fail condition (3), because the relevant reductions are philosophical end-states, not current achievements. Specify what would count as "showing" reduction (logical derivation? Empirical identity claim backed by a research programme? Explanation of why the two descriptions co-vary?). Better: acknowledge explicitly that the diagnostic is stance-sensitive and its utility is heuristic rather than demonstrative. The article's current subsection "How the diagnostic applies to the Map's own view" (added 2026-04-17) partially addresses the Map-self-application worry but does not specify the reduction standard the disguised variants are being measured against. See pessimistic-2026-04-16d.md Issue 2.
+- **Output**: obsidian/concepts/disguised-property-dualism.md
+
+Task context:
+Pessimistic review (2026-04-16d) Issue 2 (Medium-High severity): The three-condition diagnostic's condition (3) "No reduction is shown" is not given a standard. Type-B physicalists hold that water=H₂O is an identity not derived from water-concepts but discovered a posteriori — the reduction is "exhibited" by empirical investigation, not by logical derivation. Without a standard, almost any physicalist theory with a hard-problem-acknowledging architecture will fail condition (3), because the relevant reductions are philosophical end-states, not current achievements. Specify what would count as "showing" reduction (logical derivation? Empirical identity claim backed by a research programme? Explanation of why the two descriptions co-vary?). Better: acknowledge explicitly that the diagnostic is stance-sensitive and its utility is heuristic rather than demonstrative. The article's current subsection "How the diagnostic applies to the Map's own view" (added 2026-04-17) partially addresses the Map-self-application worry but does not specify the reduction standard the disguised variants are being measured against. See pessimistic-2026-04-16d.md Issue 2.
+
+### ✓ 2026-04-17: Specify what counts as "showing reduction" in disguised-property-dualism.md diagnostic
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16d) Issue 2 (Medium-High severity): condition (3) "No reduction is shown" lacked an explicit standard. Replaced condition (3) with a three-form standard for "showing" — (i) logical derivation, (ii) empirical identity grounded in an explanatory bridge (Nagelian pattern, water = H₂O via molecular geometry), or (iii) a progressive research programme exhibiting accumulating unification. The third form addresses the review's concern that the diagnostic would otherwise catch any unfinished programme. Made stance-sensitivity and heuristic character explicit. Updated the Map-self-application subsection to reference the three standards directly: Markovian monism fails all three; Russellian monism is blocked from (i) and (ii) by construction (Pautz blocks iii); IIT's identity is axiomatic. Also updated "Why the Pattern Recurs" for consistency.
+- **Output**: obsidian/concepts/disguised-property-dualism.md
 
 ### ✓ 2026-04-17: Cross-review comparative-phenomenology-of-mathematical-insight.md against mathematics-consciousness cluster
 - **Type**: cross-review
