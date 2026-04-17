@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Address pessimistic-2026-04-17b high-severity issues in anesthesia-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17b) found three issues on the freshly-created anesthesia-void article: (Issue 1, High) the memory-failure defence is dismissed as positing "unremembered mental life we have no independent grounds to believe in" — but interface-disruption is in the same epistemic position; either make the parsimony argument explicit (interface explains *more* phenomena, e.g., dissociability) or weaken the conclusion to "the choice between memory-failure and interface-disruption readings remains open within dualism." (Issue 2, High) the article treats physicalism as a "one master switch" view; contemporary functionalists predict the same dissociability cited as evidence — add a paragraph distinguishing the physicalism actually defended in the literature (Block, Tononi-as-physicalist-reading, multi-realisability) from the strawman version. (Issue 7, Medium) no falsification section despite making a substantive empirical claim — add a "What Would Challenge This Reading?" section listing concrete observations that would favour memory-failure or genuine-cessation readings. Also softening of "Any theory of consciousness that ignores this structure will underfit the clinical evidence" → "Theories that overlook this structure risk underfitting." See pessimistic-2026-04-17b.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P1: Address pessimistic-2026-04-17b high-severity issues in split-brain-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17b) found three issues on the freshly-revised split-brain article: (Issue 2, High) sophisticated physicalism strawman — same fix as anesthesia-void.md, distinguish the multi-realisability functionalism actually defended from the "one master switch" view. (Issue 3, Medium) IIT prediction misrepresented in "Connection to the Binding Problem" — neural synchronization and Φ are different quantities; the 2025 finding refutes a connectivity proxy for IIT, not IIT's prediction itself. Either weaken to "challenges connectivity-based proxies for IIT" or justify the strong claim by linking neural synchronization to Φ explicitly. (Issue 6, Medium) the "Contemplative Evidence" section concedes phenomenal unity is constructed (via anattā) but the article elsewhere uses felt unity as evidence for indivisibility; either retract the construction concession (drawing a content-unity / subject-unity distinction) or weaken the indivisibility framing. Also language fixes: "the evidence, examined carefully, points somewhere unexpected" → "the evidence admits a different reading"; "transforms fragmentation from a decisive objection..." → softer phrasing. Also: corpus-callosum citation needs primary source, not "Professor Michael Miller" attribution; soften Mashour 2012 framing. See pessimistic-2026-04-17b.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Address pessimistic-2026-04-17b medium-severity issues in quantum-interpretations.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17b) found three issues on quantum-interpretations: (Issue 4, Medium) inconsistent QBism treatment — the article rates QBism as "Mixed" because it makes agents central, but elsewhere uses anti-realism arguments to dismiss QBism. Either downgrade QBism's site compatibility to "Low" or explain why agent-centrality redeems the anti-realism for the Map's purposes. (Issue 5, Medium) decoherence response is a punt — the only response to the central physical objection is a parenthetical citation of revised estimates with the actual argument outsourced to another article. Add a substantive paragraph defending the revised timescale estimates, OR (preferably) make explicit that the time-symmetric atemporal-selection mechanism does not require neural coherence in the conventional sense, and explain how the interaction is then physically realised. Also: source the "10⁻⁵ seconds" revised decoherence estimate inline; engage Wallace/Saunders self-locating uncertainty as a serious response to the indexical identity argument against MWI (currently rejected on grounds the literature has spent two decades addressing); engage Frankish's quasi-phenomenal property distinction in the illusionism rejection rather than asserting "something must be under the illusion." Specify the comparison whenever using "more naturally explained." See pessimistic-2026-04-17b.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Cross-review anaesthesia/loss-of-consciousness cluster considering anesthesia-void.md insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/anesthesia-void.md (created 2026-04-17 via expand-topic) introduces the three-states distinction (unconsciousness / disconnected / connected per Mashour), the "compound failure signatures" / dissociability framing, and the void typology (unexplorable + occluded + unexplored). Review (1) topics/anaesthesia-and-the-consciousness-interface.md and (2) voids/sleep-consciousness-void.md for opportunities to cross-link to the new void article, check whether the dissociability framing reinforces or contradicts existing arguments, and ensure consistent terminology. Lower priority because the anesthesia-void article will itself be revised under the P1 pessimistic-review task above; consider whether to wait for that revision before cross-reviewing.
+- **Source**: chain (from voids/anesthesia-void.md)
+- **Generated**: 2026-04-17
+
 ### P3: Write article on the fatigue void
 - **Type**: expand-topic
 - **Status**: pending
