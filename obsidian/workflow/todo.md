@@ -37,10 +37,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P3: Write article on the fatigue void
-- **Type**: expand-topic
+### P2: Cross-review filter-theory.md considering anesthesia-void and the three-states taxonomy
+- **Type**: cross-review
 - **Status**: pending
+- **Notes**: The new voids/anesthesia-void.md (created 2026-04-17) makes the Mashour three-states distinction (unconsciousness / disconnected consciousness / connected consciousness) load-bearing across the Map's interface cluster and argues that anaesthesia shows compound failure signatures rather than a master switch-off. concepts/filter-theory.md (last deep-reviewed 2026-04-06) is the canonical Map treatment of the consciousness-as-transmission view but does not yet cite anesthesia-void or the three-states taxonomy. Review to (a) add cross-links to anesthesia-void where filter-theory discusses pharmacological disruption and receiver failure, (b) check whether the three-states taxonomy strengthens or complicates filter-theory's transmission metaphor — disconnected-consciousness is particularly interesting because it corresponds to a filter working but environment-decoupled, (c) ensure compound-failure-signature framing is compatible with filter-theory's predictions, (d) add cross-links forward to the pending pharmacological-specification and compound-failure-signatures articles queued in P3. Log findings either way.
+- **Source**: chain (from voids/anesthesia-void.md)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review disappearance-voids.md considering anesthesia-void and the three-states taxonomy
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: voids/disappearance-voids.md (last deep-reviewed 2026-04-09) coalesced the fatigue-void and two related disappearance modes. The new voids/anesthesia-void.md (2026-04-17) treats a further disappearance case — pharmacologically-induced loss — with the Mashour three-states taxonomy and the memory-failure-dualism vs interface-disruption-dualism comparison. Review disappearance-voids to (a) check whether anaesthesia belongs thematically inside disappearance-voids or stands apart (current structure suggests apart, but this should be explicit), (b) add cross-links where the compound-failure-signature framing from anesthesia-void applies to fatigue/attention-lapse material, (c) verify the article does not implicitly adopt a master-switch framing that anesthesia-void now refutes, (d) update to reflect the memory-failure vs interface-disruption distinction if load-bearing for the disappearance cases. Log findings either way.
+- **Source**: chain (from voids/anesthesia-void.md)
+- **Generated**: 2026-04-17
+
+### ~~P3: Write article on the fatigue void~~ ✅
+- **Type**: expand-topic
+- **Status**: superseded
 - **Notes**: Research completed in research/voids-fatigue-void-2026-04-05.md but article not yet synthesised. Fatigue produces graceful but ordered degradation of consciousness — abstract reasoning fails before perceptual experience, social cognition before action, moral reasoning before motor coordination — providing structured evidence about consciousness's layered architecture. Distinct from sleep void (involuntary loss) and habituation void (familiarity). Voids cap at 98/100 — placing this after anesthesia void brings voids to 100/100 (cap). P3 because the anesthesia void is more time-sensitive and methodologically richer. Target section: voids/. Tenet alignment: Dualism, Hard Problem. Medium scope (2000-2400 words). Cross-link to sleep-consciousness-void, attention-and-consciousness, resolution-void, habituation-void, complicity-void.
+- **Superseded**: 2026-04-17 — fatigue-void.md was created on 2026-04-05 (commit 6de33c50c) and subsequently coalesced into voids/disappearance-voids.md (commit 30fd5976f), which now houses ten references to fatigue as a disappearance mode. The research is consumed; no new article is needed.
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-17
 
