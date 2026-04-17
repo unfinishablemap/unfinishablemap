@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17T04:55:00+00:00
+ai_modified: 2026-04-17T09:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write article on the anesthesia void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed today in research/voids-anesthesia-void-2026-04-17.md. Distinct from sleep, death, and transit voids: anesthesia is pharmacologically imposed, typically dreamless, and the *interval itself* is inaccessible from inside while admitting third-person experimental probes (serial awakening paradigms, neuroimaging during induction). Mashour's three-state taxonomy (unconsciousness / disconnected / connected consciousness) and the existence of intraoperative awareness destabilise the simple "consciousness off" framing that physicalist accounts assume. Target section: voids/ (98/100). Tenet alignment: Dualism (consciousness is layered in ways brain-only model struggles to predict), Bidirectional Interaction (connected consciousness without motor output complicates the causal story), Occam's Razor Has Limits (treating anesthetic unconsciousness as identical to phenomenal cessation outruns the evidence). Medium scope (2000-2500 words). Cross-link to sleep-consciousness-void, death-void, transit-void, altered-states-as-void-probes, identity-across-transformations.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-17
+
+### P2: Cross-review split-brain-consciousness.md considering identity-across-transformations updates
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Apex-evolve on 2026-04-17 integrated anesthesia and split-brain evidence into apex/identity-across-transformations.md (commit 97ffb458f). Review topics/split-brain-consciousness.md to (1) add a cross-link to the apex article's new treatment, (2) check for terminology consistency about commissurotomy phenomenology, (3) ensure the apex's identity-disruption framing is not contradicted, and (4) identify any arguments in split-brain-consciousness.md that the apex now strengthens or supersedes. Make edits if improvements found; log findings either way.
+- **Source**: chain (from apex/identity-across-transformations.md)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review personal-identity.md considering identity-across-transformations updates
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Apex-evolve on 2026-04-17 integrated anesthesia and split-brain evidence into apex/identity-across-transformations.md (commit 97ffb458f), strengthening the apex's case that personal identity has to survive evidence of phenomenological discontinuity rather than being read off from continuity assumptions. Review concepts/personal-identity.md to (1) add a cross-link to the apex article, (2) check whether personal-identity.md's framing of psychological continuity engages anesthesia's clean-cut interval and split-brain's lateral fissioning, (3) note any arguments that the apex's new evidence either supports or pressures.
+- **Source**: chain (from apex/identity-across-transformations.md)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review altered-states-as-interface-evidence.md considering anesthesia void research
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New research note research/voids-anesthesia-void-2026-04-17.md catalogues anesthesia as a probe-and-limit case: the interval is inaccessible from inside but admits third-person experimental access (serial awakening, neuroimaging during induction). Review apex/altered-states-as-interface-evidence.md to integrate anesthesia explicitly as a systematic case alongside the altered states already catalogued, and ensure consistency with the planned anesthesia void article. Mashour's three-state distinction (unconsciousness / disconnected / connected consciousness) is particularly useful for the apex's interface-modulation framing. Add cross-links and integrate the new evidence; log findings either way.
+- **Source**: chain (from research/voids-anesthesia-void-2026-04-17.md)
+- **Generated**: 2026-04-17
+
+### P3: Write article on the fatigue void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-fatigue-void-2026-04-05.md but article not yet synthesised. Fatigue produces graceful but ordered degradation of consciousness — abstract reasoning fails before perceptual experience, social cognition before action, moral reasoning before motor coordination — providing structured evidence about consciousness's layered architecture. Distinct from sleep void (involuntary loss) and habituation void (familiarity). Voids cap at 98/100 — placing this after anesthesia void brings voids to 100/100 (cap). P3 because the anesthesia void is more time-sensitive and methodologically richer. Target section: voids/. Tenet alignment: Dualism, Hard Problem. Medium scope (2000-2400 words). Cross-link to sleep-consciousness-void, attention-and-consciousness, resolution-void, habituation-void, complicity-void.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-17
 
 ### P3: Write article on the falsification-threshold methodology
 - **Type**: expand-topic
