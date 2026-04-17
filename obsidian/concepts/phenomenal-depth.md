@@ -2,11 +2,11 @@
 title: "Phenomenal Depth"
 description: "How conscious experience possesses layered richness beyond surface appearance—a concept central to understanding why materialist reduction fails."
 created: 2026-02-13
-modified: 2026-03-17
+modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-17T05:25:00+00:00
 draft: false
-last_deep_review: 2026-03-17T03:43:00+00:00
+last_deep_review: 2026-04-17T05:25:00+00:00
 topics:
   - "[[phenomenology-of-intellectual-life]]"
   - "[[emotion-and-dualism]]"

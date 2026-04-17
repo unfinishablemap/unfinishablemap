@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 04:55:00+00:00
+ai_modified: 2026-04-17 05:10:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 05:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- **Context**: Addresses pessimistic review (2026-04-17) Issues 4 (Medium-High), 5 (Medium), and 6 (Medium). Criterion 5 (developmental history) looked ad hoc — primarily ruled out BCIs/artificial systems that would satisfy criteria 1–4. PEAR null PK results were offered as "supporting" interface locality although the framework was constructed knowing PK is null (post-hoc accommodation without a specified falsification threshold). Wiest et al. 2024 microtubule–anaesthetic result was cited as evidence microtubules play a functional role in consciousness, overreading a single behavioural delay in rats that is compatible with non-quantum mechanisms.
+- **Changes**: Renamed Criterion 5 from "Developmental History" to "Progressive Mutual Adaptation" and defended it on pairing-problem grounds (what fixes *this* consciousness with *this* brain?) rather than on ruling out adversarial cases; made explicit the criterion does NOT rule out artificial consciousness or BCIs a priori — gradually integrated BCIs could satisfy it; updated Boundary Constraint 3, comparison table, "Why artificial consciousness is difficult", Summary, panpsychism phrasing, and falsification condition 3 to use the new framing. Reframed PEAR null results as "consistent with" interface locality rather than "supporting" it, acknowledged post-hoc accommodation explicitly, and added a specific falsification threshold (~0.01 effect size under preregistered, well-powered protocols, an order of magnitude above PEAR) applied consistently to falsification condition 1. Reframed Wiest et al. 2024 to state what the result actually shows (microtubule function affects anaesthetic sensitivity), acknowledged non-quantum compatible explanations (membrane dynamics, vesicle trafficking, cytoskeletal signalling), removed the quantum-mechanism implication, and softened the lead-in "Neural systems may differ" to "Whether neural systems differ remains empirically contested, but the possibility is live."
+- **Published**: yes
 
 ## 2026-04-17 04:55 UTC - refine-draft
 - **Status**: Success
