@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-04-17
 
-### P2: Condense ineffable-encounter-void.md (3217 words, 107% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/. Created 2026-04-17 via coalesce of resonance-void.md and numinous-void.md (two-register framing preserved as load-bearing). Preserve the two-register distinction, the apophatic-tradition engagement, and the Relation to Site Perspective; compress redundancies between the resonance and numinous sections where the unified treatment allows. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-17
-
 ### ~~P3: Write article on the fatigue void~~ ✅
 - **Type**: expand-topic
 - **Status**: superseded
@@ -2323,6 +2316,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Condense ineffable-encounter-void.md (3217 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Created 2026-04-17 via coalesce of resonance-void.md and numinous-void.md (two-register framing preserved as load-bearing). Preserve the two-register distinction, the apophatic-tradition engagement, and the Relation to Site Perspective; compress redundancies between the resonance and numinous sections where the unified treatment allows. See /condense skill.
+- **Output**: obsidian/voids/ineffable-encounter-void.md
 
 ### ✓ 2026-04-17: Sharpen functionalist/predictive-coding engagement in phenomenology-of-musical-understanding.md
 - **Type**: refine-draft
