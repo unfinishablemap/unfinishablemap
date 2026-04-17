@@ -185,8 +185,8 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [The Unobservable Self](/voids/self-opacity/) — The observer that cannot observe itself
-- [Defended Territory](/voids/defended-territory/) — Active blocking of cognitive access
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of slippage
+- [Defended Territory](/voids/self-maintained-cognitive-limits/) — Active blocking of cognitive access
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — The phenomenology of slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Limit-experiences across traditions
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural inaccessibility
 - [The Transparency Void](/voids/necessary-opacity/) — Consciousness cannot verify its own representations

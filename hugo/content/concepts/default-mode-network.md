@@ -136,7 +136,7 @@ Schizophrenia shows disrupted DMN connectivity and altered anticorrelation with 
 
 ## The Wandering Mind
 
-Mind-wandering—spontaneous, task-unrelated thought—activates the DMN. This has been interpreted negatively (distraction, rumination) and positively (creativity, future planning, consolidation). The [spontaneous-thought-void](/voids/spontaneous-thought-void/) maps the deeper puzzle: the DMN's structured-yet-opaque activity means we experience the *products* of spontaneous thought—memories surfacing, associations presenting themselves—but never the *production*. The most pervasive activity of consciousness is also the most opaque.
+Mind-wandering—spontaneous, task-unrelated thought—activates the DMN. This has been interpreted negatively (distraction, rumination) and positively (creativity, future planning, consolidation). The [spontaneous-thought-void](/voids/thought-stream-void/) maps the deeper puzzle: the DMN's structured-yet-opaque activity means we experience the *products* of spontaneous thought—memories surfacing, associations presenting themselves—but never the *production*. The most pervasive activity of consciousness is also the most opaque.
 
 ### The Cost of Mind-Wandering
 

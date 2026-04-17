@@ -56,7 +56,7 @@ topics: []
 ### Cross-links Added (inbound — solving orphan status)
 - [observation-void](/voids/observation-and-measurement-void/) — added mutation-void reference in first-person layer discussion and Further Reading
 - [introspective-opacity](/voids/self-opacity/) — added mutation-void reference in ontological opacity section
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — added mutation-void distinction (slippage vs mutation) in opening
+- [thoughts-that-slip-away](/voids/thought-stream-void/) — added mutation-void distinction (slippage vs mutation) in opening
 - [self-reference-paradox](/concepts/self-reference-paradox/) — added mutation-void reference in regression of attention section
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) — added mutation-void taxonomy reference in self-studying brain section
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — added mutation-void to Further Reading

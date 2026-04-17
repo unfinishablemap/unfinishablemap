@@ -164,7 +164,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [the-unobservable-self](/voids/self-reference-paradox/) — The present self is also elusive
 - [self-reference-paradox](/concepts/self-reference-paradox/) — Structural limits on self-understanding
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
+- [thoughts-that-slip-away](/voids/thought-stream-void/) — Related phenomenology of cognitive limitation
 
 ## References
 

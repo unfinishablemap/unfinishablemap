@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-17 11:41:00+00:00
+ai_modified: 2026-04-17 13:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,6 +34,7 @@ related_articles:
 - '[[inaccessible-past]]'
 - '[[sleep-consciousness-void]]'
 - '[[indexical-void]]'
+- '[[voids/anesthesia-void]]'
 title: Personal Identity
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -150,6 +151,14 @@ Buddhism, by contrast, generally rejects a persistent witness-self. The [Buddhis
 
 The Map synthesises these insights selectively: it takes seriously the Vedantic intuition that consciousness need not cease when memory-formation stops, while drawing on process metaphysics (Whitehead rather than Buddhism proper) for a framework in which indexical identity applies to streams rather than substances. The gap in memory need not imply a gap in consciousness—or in the conscious being whose identity is in question.
 
+### The Anaesthesia Gap
+
+General anaesthesia sharpens the challenge. Unlike dreamless sleep, which leaves indirect duration-cues, anaesthesia typically leaves no phenomenological residue at all—induction and emergence abut directly, with the interior closed from inside. If consciousness constitutes personal identity and the anaesthesia interval is a genuine phenomenal cessation, the post-operative subject faces the same question the resurrection case raises: what connects *this* pre-operative consciousness to *this* post-operative one?
+
+Arguments about "what persists through anaesthesia" cannot proceed without distinguishing three states the first-person gap fails to discriminate. Mashour (2023) identifies at least three conditions that can occur under stable anaesthesia: **unconsciousness** (no subjective experience), **disconnected consciousness** (mental content without environmental coupling, as in dreaming), and **connected consciousness** (awareness of environment during nominal anaesthesia, as in intraoperative awareness). The [anaesthesia void article](/voids/anesthesia-void/) develops this three-states taxonomy and its consequences for the dualist dialectic. The gap the subject reports as "no time at all" may be any of these states or a mixture, and the subject cannot discriminate from inside.
+
+This matters for the identity argument in two ways. First, memory-failure and interface-disruption readings of anaesthesia posit different things about the interval; parsimony at the single-phenomenon level does not adjudicate between them, and the case for indexical persistence through anaesthesia cannot be made without specifying which reading is in play. Second, if the three states are phenomenologically distinct but subjectively indistinguishable from the interior, the very concept of "the gap"—and hence the question of what crosses it—must be decomposed before it can be answered. The [anaesthesia void](/voids/anesthesia-void/) argument is that this decomposition favours interface-disruption over phenomenal cessation, but the point relevant here is methodological: identity claims about anaesthesia survival require the three-states distinction as a prerequisite.
+
 ## The Illusionist Challenge
 
 [Illusionists](/concepts/illusionism/) argue that phenomenal consciousness is itself an illusion—the brain represents itself as having qualitative states it doesn't actually possess. If so, what exactly persists through time?
@@ -221,6 +230,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — The nightly gap in consciousness and what it means for identity
+- [anesthesia-void](/voids/anesthesia-void/) — The pharmacologically imposed gap and the three-states taxonomy that identity arguments about anaesthesia require
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self; the *anatta* doctrine and the witness response
 - [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/) — Process haecceitism: how Buddhist impermanence and indexical identity coexist
 - [illusionism](/concepts/illusionism/) — The challenge that consciousness itself is illusory

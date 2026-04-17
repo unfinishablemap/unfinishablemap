@@ -88,7 +88,7 @@ This creates a distinctive void—one that combines features of all three catego
 
 **Unexplorable**: If cognitive faculties were designed to prevent detecting the design, no internal method could distinguish natural from designed limits. The very capacity to investigate would be part of what's constrained.
 
-**Occluded**: If design-detection would threaten a simulation or violate designer purposes, the thought itself might be actively blocked—[defended territory](/voids/defended-territory/) in the strongest sense.
+**Occluded**: If design-detection would threaten a simulation or violate designer purposes, the thought itself might be actively blocked—[defended territory](/voids/self-maintained-cognitive-limits/) in the strongest sense.
 
 The void's phenomenology is distinctive: vertigo rather than frustration. Other voids feel like hitting a wall—you know what you cannot think. This void makes the ground itself uncertain—you cannot know what kind of wall you're hitting, or whether the sense of hitting a wall is itself part of the design.
 
@@ -146,7 +146,7 @@ Note that this recursive challenge applies equally to philosophical positions ab
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive limits
 - [Whether the Voids Are Real](/voids/whether-real/) — Questioning whether cognitive limits are genuine
-- [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
+- [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some thoughts be actively blocked?
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level constraints
 - [Simulation Hypothesis](/concepts/simulation/) — The scenario that sharpens the design question

@@ -166,7 +166,7 @@ The evidence currently favors genuine bidirectional inaccessibility. But the voi
 - [Dreams and Consciousness](/topics/dream-consciousness/) — How dreams illuminate the consciousness-brain relationship
 - [The Observation Void](/voids/observation-and-measurement-void/) — Why observing consciousness transforms what is observed
 - [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal or simulate transcendence of cognitive limits
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Sleep and Consciousness](/concepts/sleep-and-consciousness/) — The neural gradients underlying sleep's consciousness modes
 

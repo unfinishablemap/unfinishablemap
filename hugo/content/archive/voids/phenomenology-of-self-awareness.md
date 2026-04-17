@@ -173,7 +173,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects through indexicalit
 
 ### Cognitive Closure
 
-Self-awareness connects directly to [cognitive closure](/concepts/mysterianism/). Error-blindness may be an instance of closure—we cannot know what errors we cannot detect. The bootstrap problem has no complete solution because solving it requires stepping outside our cognitive apparatus. The phenomenology of self-reference reveals the same structural limit from a different angle: the tool bends when turned upon itself, and attempts to articulate self-referential insight encounter the dissolving quality that [thoughts about consciousness](/voids/thoughts-that-slip-away/) characteristically exhibit. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies here too: the assumption that self-awareness is "just" recursive processing hides this circularity behind apparent simplicity.
+Self-awareness connects directly to [cognitive closure](/concepts/mysterianism/). Error-blindness may be an instance of closure—we cannot know what errors we cannot detect. The bootstrap problem has no complete solution because solving it requires stepping outside our cognitive apparatus. The phenomenology of self-reference reveals the same structural limit from a different angle: the tool bends when turned upon itself, and attempts to articulate self-referential insight encounter the dissolving quality that [thoughts about consciousness](/voids/thought-stream-void/) characteristically exhibit. The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies here too: the assumption that self-awareness is "just" recursive processing hides this circularity behind apparent simplicity.
 
 ## What Would Challenge This View?
 
@@ -194,7 +194,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [cognitive closure](/concepts/mysterianism/) — The structural impossibility of knowing what you cannot know
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Consciousness at cognitive boundaries
 - [recursion-void](/voids/recursion-void/) — The empirical ceiling on metacognitive depth
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
+- [thoughts-that-slip-away](/voids/thought-stream-void/) — The phenomenology of cognitive slippage
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) — When self-knowledge undermines the knower
 - [intentionality](/concepts/intentionality/) — The aboutness of consciousness and its limits
 - [voids](/voids/) — The broader framework for investigating cognitive limits

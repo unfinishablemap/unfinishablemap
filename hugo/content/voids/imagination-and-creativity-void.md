@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-04-16 03:18:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ related_articles:
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[limits-reveal-structure]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]'
 - '[[topics/free-will]]'
 - '[[process-and-consciousness]]'
@@ -112,7 +112,7 @@ The phenomenology has distinctive features:
 
 The incubation stage is a void---accessible through its products but not its process. Poincare noted something deeper than mere complexity: "among the great numbers of combinations blindly formed by the subliminal self, almost all are without interest... only certain ones are harmonious." Something selects. If the selection mechanism were conscious, we would observe it selecting. But we observe only results---ideas that have already passed some filter. The filter operates in the void.
 
-Worse, we actively confabulate origin stories for our insights---constructing plausible narratives about *why* an idea came when it did, masking the absence of genuine causal knowledge (Nisbett & Wilson, 1977). The void is doubly concealed: we cannot see the process, and we paper over the gap with false explanations. The [spontaneous-thought-void](/voids/spontaneous-thought-void/) reveals the same pattern in ordinary mentation---the background stream of unbidden thoughts is equally opaque in its generation. Creativity is the dramatic instance of a pervasive condition.
+Worse, we actively confabulate origin stories for our insights---constructing plausible narratives about *why* an idea came when it did, masking the absence of genuine causal knowledge (Nisbett & Wilson, 1977). The void is doubly concealed: we cannot see the process, and we paper over the gap with false explanations. The [spontaneous-thought-void](/voids/thought-stream-void/) reveals the same pattern in ordinary mentation---the background stream of unbidden thoughts is equally opaque in its generation. Creativity is the dramatic instance of a pervasive condition.
 
 The process void may be structural. If creative selection involves the same consciousness that would observe it, observing would interfere with selecting---illuminating the void would destroy what we seek to observe.
 
@@ -120,7 +120,7 @@ The process void may be structural. If creative selection involves the same cons
 
 Across cultures and centuries, creators have externalised their source. Plato's Socrates describes the poet as divinely inspired. Jung locates creativity in "primordial images" that "cannot be explained as personal acquisitions." This externalisation may be phenomenologically accurate---creative insight genuinely arrives from outside the conscious self, where "outside" means the vast unconscious rather than divine sources.
 
-Thomas Kuhn's work on scientific revolutions revealed another dimension: paradigm blindness. Scientists working within a paradigm find its assumptions invisible---the framework that enables normal science simultaneously constrains what questions can be asked. This is Occluded rather than Unexplorable territory---[defended-territory](/voids/defended-territory/) where ideas could be formed but are actively resisted. Kuhn observed that paradigm shifts are generational: proponents of the old paradigm rarely convert.
+Thomas Kuhn's work on scientific revolutions revealed another dimension: paradigm blindness. Scientists working within a paradigm find its assumptions invisible---the framework that enables normal science simultaneously constrains what questions can be asked. This is Occluded rather than Unexplorable territory---[defended territory](/voids/self-maintained-cognitive-limits/) where ideas could be formed but are actively resisted. Kuhn observed that paradigm shifts are generational: proponents of the old paradigm rarely convert.
 
 If paradigm blindness generalises, cultural and personal assumptions may occlude vast territories of possible thought---experienced not as blocked ideas but as absent ones.
 
@@ -171,7 +171,7 @@ Neither void has yielded to centuries of investigation. Imagination's limits per
 ## Further Reading
 
 - [Voids in the Map](/voids/) --- The broader framework for investigating cognitive limits
-- [spontaneous-thought-void](/voids/spontaneous-thought-void/) --- The same generative opacity pervading ordinary mentation
+- [spontaneous-thought-void](/voids/thought-stream-void/) --- The same generative opacity pervading ordinary mentation
 - [aesthetic-void](/voids/aesthetic-void/) --- Where aesthetic content resists articulation
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) --- The generation-selection synthesis
 - [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) --- How consciousness enables creative thought beyond baseline cognition
@@ -185,7 +185,7 @@ Neither void has yielded to centuries of investigation. Imagination's limits per
 - [language-thought-boundary](/voids/language-thought-boundary/) --- Where language constrains or enables thought
 - [self-opacity](/voids/self-opacity/) --- The observer that cannot observe itself
 - [three-kinds-of-void](/voids/three-kinds-of-void/) --- Unexplored, unexplorable, occluded
-- [defended-territory](/voids/defended-territory/) --- Thoughts blocked by commitment rather than impossibility
+- [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) --- Thoughts blocked by commitment rather than impossibility
 - [mysterianism](/concepts/mysterianism/) --- McGinn on structural cognitive limits
 - [limits-reveal-structure](/voids/limits-reveal-structure/) --- How boundaries illuminate architecture
 - [free-will](/topics/free-will/) --- How creative selection connects to agent causation

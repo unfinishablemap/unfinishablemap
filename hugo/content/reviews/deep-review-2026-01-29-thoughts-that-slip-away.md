@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [Thoughts That Slip Away](/voids/thoughts-that-slip-away/)
+**Article**: [Thoughts That Slip Away](/voids/thought-stream-void/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-thoughts-that-slip-away/)
 **Cross-review context**: attention-created-voids research
 

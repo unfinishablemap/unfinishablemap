@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [Defended Territory](/voids/defended-territory/)
+**Article**: [Defended Territory](/voids/self-maintained-cognitive-limits/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-defended-territory/)
 **Cross-review context**: [The Simulation Detection Void](/voids/simulation-detection-void/)
 

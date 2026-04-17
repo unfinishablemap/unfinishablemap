@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-16
-**Article**: [The Complicity Void](/voids/complicity-void/)
+**Article**: [The Complicity Void](/voids/self-maintained-cognitive-limits/)
 **Previous review**: [2026-03-26](/reviews/deep-review-2026-03-26b-complicity-void/) (orphan integration)
 **Context**: Cross-review with [necessary-opacity](/voids/necessary-opacity/) and [interested-party-void](/voids/interested-party-void/)
 

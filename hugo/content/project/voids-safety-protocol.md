@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-03-28 21:11:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ related_articles:
 - '[[project]]'
 - '[[coherence-inflation-countermeasures]]'
 - '[[necessary-opacity]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[human-supervision]]'
 - '[[automation]]'
 title: Voids Safety Protocol
@@ -255,7 +255,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet raises
 
 The protocol also serves the Map's commitment to intellectual honesty. Speculation about the unthinkable is interesting; presenting speculation as certainty is dishonest. The epistemic labeling and structural separation ensure readers know what they're getting.
 
-Finally, the protocol recognizes that the Map has power. Content presented confidently can shape readers' beliefs. That power creates responsibility. Voids content explores [territory that may be actively defended](/voids/defended-territory/)—the safeguards ensure the exploration doesn't cause harm.
+Finally, the protocol recognizes that the Map has power. Content presented confidently can shape readers' beliefs. That power creates responsibility. Voids content explores [territory that may be actively defended](/voids/self-maintained-cognitive-limits/)—the safeguards ensure the exploration doesn't cause harm.
 
 ## Further Reading
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-17 11:11:00+00:00
+ai_modified: 2026-04-17 13:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -107,6 +107,8 @@ For physicalist frameworks like [Integrated Information Theory](/concepts/integr
 Dissociative identity disorder (DID) presents perhaps the most philosophically challenging form of fragmentation. Distinct personality states — "alters" — appear to maintain separate experiential streams, memories, and self-concepts within a single brain. Some alters report no awareness of others' experiences. If taken at face value, DID suggests that one brain can host multiple conscious subjects simultaneously.
 
 The philosophical literature on DID and dualism remains thin. Most analysis treats DID as evidence that consciousness is a product of brain organisation that can be multiply instantiated. Yet the evidence is equally compatible with a dualist reading: a single non-physical mind whose expression is disrupted by trauma, producing fragmented *output* without fragmented *experience*. Whether alters are separate consciousnesses or one consciousness expressing through dissociated behavioural-memorial systems remains unresolved.
+
+The [clinical dissociation article](/topics/clinical-dissociation-as-systematic-evidence/) develops DID at length alongside depersonalization-derealization, dissociative amnesia, and conversion disorder as a systematic family of interface channel disruptions. The key finding relevant here is that DID patients do not lose total information capacity — individual alters show normal cognitive function within their own state — but lose *cross-state integration*: one alter cannot reach another's memories or experiences despite shared neural hardware. This cross-state-integration framing locates the dissociation at the same architectural level the split-brain evidence targets. In split-brain, the failure is bilateral integration across severed hemispheres; in DID, the failure is integration across dissociated alter states within an anatomically intact brain. Both disrupt unity-of-access between otherwise capable systems, reaching the same interface architecture from structurally different routes.
 
 ## The Interface Argument
 

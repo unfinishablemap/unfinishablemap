@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-14
-**Article**: [The Spontaneous Thought Void](/voids/spontaneous-thought-void/)
+**Article**: [The Spontaneous Thought Void](/voids/thought-stream-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

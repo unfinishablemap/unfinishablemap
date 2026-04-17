@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-04-16 17:55:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[ai-as-void-explorer]]'
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[phenomenal-quality-void]]'
@@ -193,8 +193,8 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [self-opacity](/voids/self-opacity/) — The parallel void of consciousness unable to observe itself
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The parallel question of what matter is in itself
 - [mutation-void](/voids/mutation-void/) — When the act of attending transforms the content attended to
-- [Defended Territory](/voids/defended-territory/) — Active blocking of cognitive access
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of slippage
+- [Defended Territory](/voids/self-maintained-cognitive-limits/) — Active blocking of cognitive access
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — The phenomenology of slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Limit-experiences across traditions
 - [whether-real](/voids/whether-real/) — Whether cognitive limits are permanent or merely current
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture

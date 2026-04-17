@@ -116,7 +116,7 @@ The phenomenology of linguistic failure connects to The Unfinishable Map's [tene
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where thought exceeds language: the structural analysis
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How philosophy of language reveals the irreducibility of consciousness
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — The bidirectional relationship between language and experience
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomena of cognitive slippage
+- [thoughts-that-slip-away](/voids/thought-stream-void/) — Related phenomena of cognitive slippage
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The general phenomenology of approaching cognitive limits
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether understanding has its own phenomenal character
 - [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) — How different cognitive limits produce distinct experiential signatures

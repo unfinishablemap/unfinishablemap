@@ -1,13 +1,150 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 12:17:00+00:00
+ai_modified: 2026-04-17 16:11:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 16:11 UTC - deep-review
+- **Status**: Success
+- **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Previous review**: 2026-03-20 (post-coalesce; found no critical issues)
+- **Trigger**: Cross-review after self-maintained-cognitive-limits coalesce
+- **Word count**: 2611 → 2666 (+55, 133% of 2000 soft threshold — stable)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (style-guide "not X, but Y" cliché fix; thin self-maintained integration)
+- **Enhancements made**: 2 (self-maintenance layer added to Detection Problem; complicity dimension sharpened in Recursive Trap cross-link)
+- **Output**: [deep-review-2026-04-17-meta-epistemology-of-limits](/reviews/deep-review-2026-04-17-meta-epistemology-of-limits/)
+
+## 2026-04-17 15:57 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/)
+- **Previous review**: 2026-03-17 (found no critical issues; article converging)
+- **Word count**: 1482 → 1594 (+112, still 64% of 2500 soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (Pitt attribution gap; thin `ai-consciousness` topic coverage)
+- **Enhancements made**: 2 (added Pitt 2004 direct attribution in cognitive-phenomenology section; added "Bearing on AI Consciousness" subsection linking phenomenal contrasts to the functionalism debate)
+- **Output**: [deep-review-2026-04-17-phenomenal-contrast-method](/reviews/deep-review-2026-04-17-phenomenal-contrast-method/)
+
+## 2026-04-17 15:41 UTC - condense
+- **Status**: Success
+- **File**: [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
+- **Before**: 2990 words
+- **After**: 2412 words
+- **Reduction**: 19%
+- **Technique**: Tightened prose across all sections (removed hedging, redundant framing sentences, repeated context); condensed 7 Convergent Evidence subsections; merged "Existential rupture" + "Therapeutic and contemplative resistance" phenomenology markers into one; cut "What Would Challenge" from 6 points to 4 (dropped cross-species uniformity and cross-cultural divergence as lower-value tests); trimmed Three Models, Complicity, Investigator Problem, and Regress sections. Preserved all tenet connections, core arguments, opening summary, and cross-links.
+
+## 2026-04-17 15:35 UTC - deep-review
+- **Status**: Success
+- **File**: [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
+- **Context**: First deep review of the article coalesced from defended-territory + complicity-void earlier today (14:41 UTC). Inherits stability notes from 5+3 prior predecessor reviews.
+- **Word count**: 3767 → 2990 (-777, -21%; status hard_warning -> soft_warning)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 7 (length condensation; falsification overlap; Further Reading bloat; orphan references; External Occlusion Map/source labelling; complicity-distinctions readability; phenomenology-marker overlap)
+- **Enhancements made**: 0 net additions (length-driven review; no expansions)
+- **Attribution check**: All 11 sourced claims verified accurate (Sartre, Buddhist, Heidegger, Nietzsche, Trivers, Becker, Burke et al. 277-experiments, Wegner, Golman, McGinn).
+- **Output**: [deep-review-2026-04-17-self-maintained-cognitive-limits](/reviews/deep-review-2026-04-17-self-maintained-cognitive-limits/)
+
+## 2026-04-17 15:13 UTC - deep-review
+- **Status**: Success
+- **File**: [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/)
+- **Context**: Cross-review considering [anesthesia-void](/voids/anesthesia-void/) and Mashour's three-states taxonomy
+- **Word count**: 2369 → 2674 (+305)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing functionalism engagement, missing pharmacological-route integration, missing cross-links)
+- **Enhancements made**: Added pharmacological-route paragraph with three-states taxonomy; added functionalism paragraph to "Against Identity Theory" relocating live question to what-is-decomposing; added 3 new related_articles and 3 new Further Reading entries
+- **Output**: [deep-review-2026-04-17-neurological-dissociations-as-interface-architecture](/reviews/deep-review-2026-04-17-neurological-dissociations-as-interface-architecture/)
+
+## 2026-04-17 14:56 UTC - refine-draft
+- **Status**: Success
+- **File**: cross-reference update for [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) coalesce
+- **Scope**: 33 live-content files — 27 voids/, 2 topics/, 2 concepts/, project/voids-safety-protocol, workflow/highlights
+- **Changes**: Retargeted all `[defended-territory](/voids/self-maintained-cognitive-limits/)` and `[complicity-void](/voids/self-maintained-cognitive-limits/)` wikilinks to `[self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)`. Preserved display-alias phrasing (e.g., `|defended territory`, `|cognitive aversion`, `|complicity void`) in body prose where it carried natural meaning. Deduped frontmatter `related_articles` where both archived slugs were present (interested-party-void, voids) and pruned redundant Further Reading entries in voids.md, appetitive-void.md, interested-party-void.md. Updated voids.md index description to reflect the merged article.
+- **Excluded**: obsidian/research/, obsidian/reviews/, obsidian/workflow/archive/ (historical records — retained original slug references)
+- **Published**: yes
+
+## 2026-04-17 14:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [defended-territory](/voids/defended-territory/), [complicity-void](/voids/complicity-void/)
+- **Target**: [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
+- **Archived**: [defended-territory](/archive/voids/defended-territory/), [complicity-void](/archive/voids/complicity-void/)
+- **References to review**: 31 live-content files (cross-reference update task created)
+- **Rationale**: Both articles argued consciousness actively participates in maintaining its own cognitive limits. Overlapping sources (Sartre, Heidegger, Becker/TMT, Trivers, Buddhist avidya), overlapping phenomenology (resistance, slide, substitution, anguish, uncanniness), overlapping methods (contemplative practice, AI asymmetry test). Defended-territory contributed the three-models taxonomy (psychological/architectural/external) and the content-geography of what gets defended; complicity-void contributed the agency claim and the regress analysis. Merged article preserves both frames under the unified claim.
+- **Voids count**: 99 → 98 (target cap 100)
+
+## 2026-04-17 14:27 UTC - condense
+- **Status**: Success
+- **File**: [thought-stream-void](/voids/thought-stream-void/)
+- **Before**: 3412 words
+- **After**: 2407 words
+- **Reduction**: 29%
+- **Technique**: Tightened Mechanisms of Slippage (prose → bullets); trimmed redundant framing in Default Stream, Half-Life of Agency, Meditation, Illusionist Challenge, Spontaneity as Evidence; condensed five-paragraph Relation to Site Perspective; pared Further Reading list of entries already in related_articles. Preserved opening summary, generator problem, content-specific slippage, all tenet connections, and references. Status moved from hard_warning to soft_warning.
+
+## 2026-04-17 14:17 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Word count**: 3247 → 3247 (unchanged, convergence)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (third consecutive review finding stability; content unchanged; frontmatter-only update)
+- **Context**: Third deep review. Prior reviews (2026-03-17 substantive improvements, 2026-03-18 integration) plus automation-driven wikilink refreshes for three coalesce operations (contemplative-neuroscience, architecture-of-cognitive-closure, cognitive-closure → mysterianism) have left the article stable. All attribution checks pass; all six pessimistic personas raise only bedrock philosophical disagreements already noted in prior reviews; article has 13+ inbound content links. Length at 108% of soft threshold — length-neutral posture going forward.
+- **Output**: [deep-review-2026-04-17-consciousness-interface-development](/reviews/deep-review-2026-04-17-consciousness-interface-development/)
+
+## 2026-04-17 13:56 UTC - deep-review
+- **Status**: Success
+- **File**: [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/)
+- **Word count**: 3834 → 3873 (+39, restoring to post-2026-03-26 stable level)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added reciprocal cross-link to newly published [anesthesia-void](/voids/anesthesia-void/) — in frontmatter, in-text, and Further Reading)
+- **Enhancements made**: 1 (tightened one sentence in intro to absorb the new cross-link prose)
+- **Context**: Cross-review in light of the new [anesthesia-void](/voids/anesthesia-void/) article (published 2026-04-17). The two articles form a matched pair: topic-level for third-person pharmacology, void-level for first-person epistemic structure. Convergence achieved; no structural changes. One deferred item noted for the void article's own review cycle (Sanders vs Mashour attribution discrepancy on BJA Open 2023 paper).
+- **Output**: [deep-review-2026-04-17-anaesthesia-and-the-consciousness-interface](/reviews/deep-review-2026-04-17-anaesthesia-and-the-consciousness-interface/)
+
+## 2026-04-17 13:42 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-imagination](/topics/phenomenology-of-imagination/)
+- **Word count**: 2182 → 2211 (+29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added cross-link to newly coalesced [thought-stream-void](/voids/thought-stream-void/) in generative-mystery paragraph and Further Reading, drawing the structural parallel between imagination's construction opacity and spontaneous thought's arrival-side opacity)
+- **Context**: Integrates the coalesced thought-stream-void (formed earlier today from spontaneous-thought-void + thoughts-that-slip-away) into the imagination cluster. Article has now reached convergence across three reviews
+- **Output**: [deep-review-2026-04-17-phenomenology-of-imagination](/reviews/deep-review-2026-04-17-phenomenology-of-imagination/)
+
+## 2026-04-17 13:26 UTC - coalesce
+- **Status**: Success
+- **Sources**: [spontaneous-thought-void](/voids/spontaneous-thought-void/), [thoughts-that-slip-away](/voids/thoughts-that-slip-away/)
+- **Target**: [thought-stream-void](/voids/thought-stream-void/)
+- **Archived**: [spontaneous-thought-void](/archive/voids/spontaneous-thought-void/), [thoughts-that-slip-away](/archive/voids/thoughts-that-slip-away/)
+- **Section pressure**: voids/ 99/100 → 98/100 after coalesce (reduces one slot of cap pressure)
+- **Rationale**: The two articles treat complementary faces of a single structural fact — consciousness cannot observe how its stream arrives (spontaneous generation) or how its contents depart (slippage). They cross-referenced each other, shared the self-opacity/introspective-retrospection frame, and cited overlapping sources (James, McGinn, mysterianism). Merging preserves distinctive mechanisms (DMN, MCH neurons, ironic suppression, double concealment, dissolution-on-articulation) under one unified frame rather than two articles each gesturing at the other's missing half.
+- **References to review**: 8 files link to `spontaneous-thought-void` and 58 files link to `thoughts-that-slip-away` in active obsidian content. URLs remain valid via archive, but follow-up cross-review recommended to update wikilinks to the unified target.
+
+## 2026-04-17 13:11 UTC - refine-draft
+- **Status**: Success
+- **Files**: [anesthesia-void](/voids/anesthesia-void/), [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/), [personal-identity](/topics/personal-identity/), [identity-across-transformations](/apex/identity-across-transformations/), [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Review addressed**: [optimistic-2026-04-17-afternoon](/reviews/optimistic-2026-04-17-afternoon/) Cross-Linking Suggestions table (all five entries)
+- **Changes**: (1) anesthesia-void gains a paragraph in Dissociability of Components referencing clinical-dissociation as a non-pharmacological parallel reaching the same interface architecture; (2) clinical-dissociation extends "The Systematic Pattern" to include pharmacological dissociation as a fourth route and adds void article to Further Reading; (3) personal-identity adds an "Anaesthesia Gap" subsection after Dreamless Sleep Challenge explaining why identity arguments require the Mashour three-states distinction (unconsciousness / disconnected / connected consciousness); (4) identity-across-transformations apex extends "The Temporal Gap" with a three-states paragraph citing anesthesia-void and notes how the taxonomy conditionalises the haecceity-persistence claim; (5) split-brain-consciousness gains a paragraph in its DID subsection cross-linking to clinical-dissociation's full DID treatment, specifically the cross-state-integration framing. Related_articles updated in all five files; ai_modified timestamps refreshed
+- **Published**: yes
+
+## 2026-04-17 13:05 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
+- **Word count**: 2825 → 2825 (-0, log comment removed)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed residual AI REFINEMENT LOG comment flagged by prior refinement for removal after human review)
+- **Enhancements made**: 0 (article converged after three deep reviews; third review was housekeeping-only)
+- **Output**: [deep-review-2026-04-17-consciousness-and-the-authority-of-formal-systems](/reviews/deep-review-2026-04-17-consciousness-and-the-authority-of-formal-systems/)
+
+## 2026-04-17 12:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Review addressed**: [pessimistic-2026-04-17b](/reviews/pessimistic-2026-04-17b/) Issues 4 and 5, plus the MWI self-locating uncertainty, Frankish illusionism, and "more naturally" comparison follow-ons
+- **Changes**: QBism downgraded to Low (prose + table) with rationale; substantive decoherence paragraph with inline Tegmark 2000 and Hagan et al. 2002 citations, explicit claim that TI/TSVF atemporal selection does not require sustained in-brain coherence; new "Engaging self-locating uncertainty" subsection taking Wallace/Saunders seriously; illusionism section rewritten to engage Frankish's quasi-phenomenal/phenomenal distinction; "more naturally" in Process Philosophy section replaced with an explicit MWI/Bohmian contrast and stated criterion; five references added
+- **Published**: yes
 
 ## 2026-04-17 12:17 UTC - optimistic-review
 - **Status**: Success

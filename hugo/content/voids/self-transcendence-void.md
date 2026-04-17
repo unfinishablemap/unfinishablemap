@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-17 01:41:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -66,7 +66,7 @@ Self-transcendence would require stepping outside one's perspective to evaluate 
 
 Contemplative traditions have explored the self-transcendence void for millennia. The Buddhist analysis is particularly incisive: the more one tries to *become* enlightened, the more one reinforces the delusion that there is an independent self that can attain enlightenment. The ego attempting to refine itself is like—in Chan master Nanyue Huairang's metaphor—polishing a brick to make a mirror.
 
-The paradox dissolves, Buddhist practitioners report, only when the attempt to *become* ceases altogether. True liberation is "transformation of perception," not self-enhancement. But this dissolution itself operates within consciousness's existing architecture—it is a reorientation, not a transcendence. The [complicity void](/voids/complicity-void/) identifies a related mechanism: consciousness may actively resist self-transcendence, not merely fail at it—maintaining its own limits through what Sartre calls bad faith and Buddhism calls *avidya*.
+The paradox dissolves, Buddhist practitioners report, only when the attempt to *become* ceases altogether. True liberation is "transformation of perception," not self-enhancement. But this dissolution itself operates within consciousness's existing architecture—it is a reorientation, not a transcendence. [Self-maintained cognitive limits](/voids/self-maintained-cognitive-limits/) identify a related mechanism: consciousness may actively resist self-transcendence, not merely fail at it—maintaining its own limits through what Sartre calls bad faith and Buddhism calls *avidya*.
 
 ### Gödelian Self-Reference
 

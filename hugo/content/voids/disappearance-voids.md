@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-04-09 18:56:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[tenets]]'
 - '[[sleep-consciousness-void]]'
-- '[[complicity-void]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[resolution-void]]'
 - '[[transition-void]]'
 - '[[recognition-void]]'
@@ -121,7 +121,7 @@ This is [self-opacity](/voids/self-opacity/) in its most concrete form — not t
 
 ### The Comfort of Narrowing
 
-Fatigue-induced narrowing often feels like relief. The shed capacities are experienced as weights released, not abilities lost. The rich peripheral awareness that characterises alert consciousness drops away, and what remains is a simpler, narrower engagement that consciousness welcomes. This connects to the [complicity-void](/voids/complicity-void/): consciousness does not merely fail to detect its own narrowing — it actively misinterprets narrowing as simplification. The felt sense is not "I am losing capacities" but "things are becoming clearer."
+Fatigue-induced narrowing often feels like relief. The shed capacities are experienced as weights released, not abilities lost. The rich peripheral awareness that characterises alert consciousness drops away, and what remains is a simpler, narrower engagement that consciousness welcomes. This connects to [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/): consciousness does not merely fail to detect its own narrowing — it actively misinterprets narrowing as simplification. The felt sense is not "I am losing capacities" but "things are becoming clearer."
 
 ### Fatigue as Ontological Disclosure
 
@@ -170,13 +170,13 @@ Within the [voids framework](/voids/three-kinds-of-void/), these disappearance v
 - [attention-and-consciousness](/voids/attention-and-consciousness/) — How attention structurally creates voids
 - [self-opacity](/voids/self-opacity/) — The observer who cannot observe itself observing
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive slippage
+- [thoughts-that-slip-away](/voids/thought-stream-void/) — Related phenomenology of cognitive slippage
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal or simulate transcendence
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate architecture
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [transition-void](/voids/transit-void/) — The general case: consciousness cannot witness any of its own state transitions
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — The fatigue-sleep continuum and consciousness during sleep
-- [complicity-void](/voids/complicity-void/) — When consciousness actively misrepresents its own narrowing
+- [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — When consciousness actively misrepresents its own narrowing
 - [resolution-void](/voids/resolution-void/) — The spatial compression constraint on phenomenal access
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How skill acquisition creates phenomenological invisibility
 

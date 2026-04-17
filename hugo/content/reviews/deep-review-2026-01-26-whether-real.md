@@ -57,7 +57,7 @@ topics: []
 3. **Added connecting sentence** in Phenomenology section distinguishing suspension phenomenology from defended-territory phenomenology ("Suspension feels like stable equilibrium; defended territory feels like active deflection")
 
 ### Cross-links Added
-- [defended-territory](/voids/defended-territory/) — new to related_articles and Further Reading
+- [defended-territory](/voids/self-maintained-cognitive-limits/) — new to related_articles and Further Reading
 
 ### Length Management
 Article was at 150% of soft threshold (2994 words). Operated in length-neutral mode:

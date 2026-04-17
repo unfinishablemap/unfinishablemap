@@ -4081,7 +4081,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 12:18 UTC - deep-review
 - **Status**: Success
-- **File**: [thoughts-that-slip-away](/voids/thoughts-that-slip-away/)
+- **File**: [thoughts-that-slip-away](/voids/thought-stream-void/)
 - **Word count**: 1698 → 1796 (+98)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (connected double concealment to introspective opacity, strengthened mysterianism link)

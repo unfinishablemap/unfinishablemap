@@ -120,7 +120,7 @@ Cognitive aversion differs from cognitive closure as [McGinn](/concepts/mysteria
 
 McGinn argues we cannot extend our concept-forming procedures to grasp how neural activity produces experience. The architecture isn't there. With cognitive aversion, the architecture may be present—the concept is perhaps formable—but motivation prevents formation or sustaining.
 
-But might they be related? Perhaps some thoughts we now avert would, if sustained, reveal genuine closure. Aversion might be the first phenomenological manifestation of approaching the architecturally closed. We flee before we discover we cannot proceed. The [complicity void](/voids/complicity-void/) deepens this question: consciousness may not merely flee certain content passively but actively participate in maintaining its own ignorance—complicity rather than simple avoidance.
+But might they be related? Perhaps some thoughts we now avert would, if sustained, reveal genuine closure. Aversion might be the first phenomenological manifestation of approaching the architecturally closed. We flee before we discover we cannot proceed. The [complicity void](/voids/self-maintained-cognitive-limits/) deepens this question: consciousness may not merely flee certain content passively but actively participate in maintaining its own ignorance—complicity rather than simple avoidance.
 
 A deeper relation emerges from the [appetitive void](/voids/appetitive-void/): cognitive aversion deflects *specific* threatening content, but desire may structure the entire cognitive field within which aversion operates. If so, aversion is one local manifestation of a more pervasive appetitive structuring of thought—we flee particular ideas within a framework that wanting has already shaped.
 
@@ -181,11 +181,11 @@ The evidence currently points toward cognitive aversion as a genuine phenomenon�
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, and occluded
 - [The Appetitive Void](/voids/appetitive-void/) — When desire structures the entire cognitive field
-- [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
+- [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some thoughts be actively blocked?
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How thought breaks down at void boundaries
-- [The Complicity Void](/voids/complicity-void/) — Whether consciousness actively maintains its own limits
+- [The Complicity Void](/voids/self-maintained-cognitive-limits/) — Whether consciousness actively maintains its own limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 
 ## References

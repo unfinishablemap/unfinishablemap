@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-16 13:43:00+00:00
+ai_modified: 2026-04-17 15:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Blindsight, anosognosia, alien hand syndrome, and other dissociatio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-03 01:38:00+00:00
+last_deep_review: 2026-04-17 15:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -31,6 +31,9 @@ related_articles:
 - '[[motor-selection]]'
 - '[[reconstruction-paradox-brain-correction-2026-03-09]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
+- '[[anesthesia-void]]'
+- '[[anaesthesia-and-the-consciousness-interface]]'
+- '[[clinical-dissociation-as-systematic-evidence]]'
 title: Neurological Dissociations as Interface Architecture
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -152,11 +155,15 @@ flowchart TB
 
 Each component has been independently confirmed by its characteristic dissociation. No single neurological condition reveals this structure—it emerges only from the pattern across conditions. Further dissociations—vegetative states, covert consciousness in unresponsive patients, locked-in syndrome—extend this mapping beyond the six cases examined here; [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) explores how these global disruptions test the same interface architecture from a different angle. The [clinical phenomenology framework](/topics/clinical-phenomenology-and-altered-experience/) develops the epistemic argument for why this convergent pattern—combining first-person disruption reports with third-person clinical observation—constitutes philosophical evidence with unusual discriminating power.
 
+A pharmacological route reaches the same architecture. General anesthesia does not simply switch consciousness off; different agents selectively decouple different components. Mashour and colleagues distinguish three states that can occur during nominal anesthesia—**unconsciousness** (no experience generated), **disconnected consciousness** (mental content without environmental coupling, as in anesthetic dreams), and **connected consciousness** (intraoperative awareness, environment-coupled experience during ostensibly sufficient dosing). Each state reflects a different pattern of channel failure rather than a different point on a single depth dimension. Ketamine preferentially decouples environmental connection; neuromuscular blockers sever motor output while leaving awareness intact; benzodiazepines disrupt memory consolidation without abolishing experience. [The anesthesia void](/voids/anesthesia-void/) develops this parallel in detail: the same channel-level architecture that lesions reveal through destruction, anesthetic agents reveal through reversible chemical interruption, and [dissociative disorders](/topics/clinical-dissociation-as-systematic-evidence/) reveal through functional decoupling without structural damage. Convergence of three independent perturbation routes—lesion, pharmacology, and psychogenic dissociation—on the same channel taxonomy is itself a compound signature: the architecture replicates under perturbations with no shared mechanism.
+
 ## What the Pattern Argues
 
 ### Against Identity Theory
 
 If consciousness were identical to neural processing, damage should degrade both together. Instead, dissociations produce asymmetric breaks: processing continues without consciousness (blindsight), consciousness receives false reports while processing fails (anosognosia), motor execution proceeds without conscious intent (alien hand). These selective disconnections make sense if consciousness and processing are connected through a multi-channel interface. They are harder to explain if consciousness simply *is* the processing.
+
+The target here is specifically identity theory, not physicalism in general. Sophisticated functionalism—Block's access-versus-phenomenal distinction, multi-realisability accounts, integrationist readings—treats consciousness as realised in coupled subsystems and predicts exactly the modular dissociation pattern the clinical evidence shows. This pattern refutes naive identity, not functionalism. The live dialectical question becomes what is decomposing: separable subsystems whose coupling together *constitutes* consciousness (the functionalist reading), or separable channels connecting an already-unified consciousness to brain mechanisms of content generation, selection, and action (the interface reading). Both readings predict the same dissociation phenomenology. Adjudicating between them requires evidence the dissociations alone cannot supply—bearing on the unity across which the channels connect, not just the channels themselves.
 
 ### For Interface Architecture
 
@@ -193,6 +200,9 @@ The epiphenomenalist can respond that the brain damage disrupts both the neural 
 - [mind-matter-interface](/concepts/mind-matter-interface/) — The two-layer architecture these dissociations map
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How clinical disruptions as a class generate doubly grounded philosophical evidence
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Vegetative states, CMD, and locked-in syndrome test theories via consciousness-behaviour dissociation
+- [anesthesia-void](/voids/anesthesia-void/) — The pharmacological route: three-states taxonomy and agent-specific channel failures
+- [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Topic-level treatment of anesthesia as interface modulation
+- [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) — Psychogenic dissociation reaching the same channel architecture without structural damage
 - [curated-mind](/topics/curated-mind/) — The brain's pervasive curation of experience across vision, body, memory, and self-model
 - [embodied-consciousness](/topics/embodied-consciousness/) — Body-level interface considerations
 

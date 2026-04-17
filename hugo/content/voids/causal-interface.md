@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-30 14:59:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[tenet-generated-voids]]'
 - '[[agency-verification-void]]'
 - '[[self-opacity]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[limits-reveal-structure]]'
 - '[[intrinsic-nature-void]]'
 - '[[what-consciousness-tells-us-about-physics]]'
@@ -118,7 +118,7 @@ The eye cannot see itself seeing. The interface cannot be observed because obser
 
 ### Defended Territory?
 
-Could the interface be actively hidden rather than merely inaccessible? The [defended territory](/voids/defended-territory/) article explores whether some cognitive limits might be imposed by design—by evolution, by the structure of reality, or (in simulation scenarios) by our constructors.
+Could the interface be actively hidden rather than merely inaccessible? The [defended territory](/voids/self-maintained-cognitive-limits/) article explores whether some cognitive limits might be imposed by design—by evolution, by the structure of reality, or (in simulation scenarios) by our constructors.
 
 If consciousness's causal efficacy is real but hidden, one might ask: hidden by whom, and for what purpose? The speculative answer: perhaps the interface must remain obscure for consciousness to function. Full visibility of the causal mechanism might destabilise the sense of agency that makes coherent action possible.
 
@@ -164,7 +164,7 @@ This void appears in the [tenet-generated voids](/voids/tenet-generated-voids/) 
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — How each of the five tenets generates its characteristic void
 - [The Agency Verification Void](/voids/agency-verification-void/) — Whether consciousness causes anything at all is structurally unverifiable
 - [The Self-Reference Paradox](/voids/self-opacity/) — Why consciousness cannot fully model itself
-- [Defended Territory](/voids/defended-territory/) — Could some limits be actively imposed?
+- [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some limits be actively imposed?
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — The causal interface as a specific instance of cognitive closure

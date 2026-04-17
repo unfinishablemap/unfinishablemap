@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-27 23:53:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[biological-cognitive-closure]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[three-kinds-of-void]]'
 - '[[compound-failure-signatures]]'
@@ -47,7 +47,7 @@ The FBT theorem addresses perception, but adaptive limits extend across cognitiv
 
 **Heuristic simplification.** Gerd Gigerenzer's ecological rationality programme identifies "less-is-more" effects where "systematically ignoring part of the available information leads to more accurate inferences" (Gigerenzer & Todd 2012). The cognitive system actively discards data — and performs better for it.
 
-**Strategic self-opacity.** Robert Trivers argues that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (Trivers & von Hippel 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies. Multiple independent traditions converge on this claim that consciousness participates in its own limitation, as the [complicity void](/voids/complicity-void/) documents.
+**Strategic self-opacity.** Robert Trivers argues that self-deception evolved to facilitate interpersonal deception: "we deceive ourselves the better to deceive others" (Trivers & von Hippel 2011). Some truths are actively hidden from consciousness — not merely unperceived but suppressed — because transparency would compromise social strategies. Multiple independent traditions converge on this claim that consciousness participates in its own limitation, as [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) documents.
 
 **Negative information value.** Field and Bonsall (2018) prove formally that the reproductive value of information can become negative — under realistic cost conditions, an organism that remains ignorant will have higher fitness. Acquiring information reduces survival prospects.
 
@@ -61,7 +61,7 @@ Adaptive limits may produce a phenomenology distinct from architectural limits. 
 
 Three signatures characterise adaptive voids:
 
-**Motivated disinterest.** Connected to [defended-territory](/voids/defended-territory/), adaptive limits may produce the sense that a thought is not impossible but merely uninteresting. The cognitive system has learned through evolutionary deep time that certain directions lead nowhere productive — so they register as boring rather than blocked.
+**Motivated disinterest.** Connected to [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/), adaptive limits may produce the sense that a thought is not impossible but merely uninteresting. The cognitive system has learned through evolutionary deep time that certain directions lead nowhere productive — so they register as boring rather than blocked.
 
 **Illusory comprehension.** Hoffman's work suggests that we feel we understand the world because our perceptual interface functions smoothly. The void is invisible precisely because the interface hides it seamlessly. No gap is experienced — only completeness.
 
@@ -102,7 +102,7 @@ A bootstrapping problem remains: if philosophical intuitions are fitness-shaped,
 ## Further Reading
 
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How evolution produces cognitive closure through biological mechanisms
-- [defended-territory](/voids/defended-territory/) — The motivational deflection that steers thought away from certain territories
+- [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — The motivational deflection that steers thought away from certain territories
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether we can distinguish genuine closure from difficult problems
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy adaptive limits refine
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Mapping different modes of cognitive failure

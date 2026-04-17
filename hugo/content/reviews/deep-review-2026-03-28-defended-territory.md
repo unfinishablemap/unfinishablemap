@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-28
-**Article**: [Defended Territory](/voids/defended-territory/)
+**Article**: [Defended Territory](/voids/self-maintained-cognitive-limits/)
 **Previous review**: [2026-03-26](/reviews/deep-review-2026-03-26-defended-territory/)
 
 ## Context

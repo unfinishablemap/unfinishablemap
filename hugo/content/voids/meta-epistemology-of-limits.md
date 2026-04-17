@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-04-17 16:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,7 +21,7 @@ description: Can we know our cognitive limits are genuine, and can we determine 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 00:29:00+00:00
+last_deep_review: 2026-04-17 16:11:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -35,7 +35,7 @@ related_articles:
 - '[[convergence-as-evidence]]'
 - '[[biological-cognitive-closure]]'
 - '[[compound-failure-signatures]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[tenet-generated-voids]]'
 - '[[simulation-detection-void]]'
 - '[[epistemological-limits-occams-razor]]'
@@ -44,7 +44,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Two meta-level questions haunt the [voids framework](/voids/). First: how can we know that a cognitive limit is genuine rather than merely apparent? Second: are our limits *natural* features of minds like ours, or could they be *designed* constraints imposed by forces beyond our detection? Both questions share a recursive structure—the tool examining its own limitations cannot stand outside itself to verify the verdict—and both may be structurally unanswerable from within any limited cognitive system. What follows explores what can be said about questions that resist conclusive answers.
+Two meta-level questions haunt the [voids framework](/voids/). First: how can we know that a cognitive limit is genuine rather than merely apparent? Second: are our limits *natural* features of minds like ours, or could they be *designed* constraints imposed by forces beyond our detection? Both questions share a recursive structure—the tool examining its own limitations cannot stand outside itself to verify the verdict—and both may be structurally unanswerable from within any limited cognitive system.
 
 ## The Core Problem: Difficulty vs. Impossibility
 
@@ -58,7 +58,7 @@ Distinguishing between *difficult* and *impossible* seems like it should be stra
 
 ## Problems and Mysteries
 
-Noam Chomsky draws a distinction between *problems* and *mysteries*. Problems are questions our cognitive architecture is equipped to solve, at least in principle. Mysteries exceed that architecture—not because they're supernatural, but because the concepts required to grasp them lie outside what minds like ours can form.
+Noam Chomsky draws a distinction between *problems* and *mysteries*. Problems are questions our cognitive architecture is equipped to solve, at least in principle. Mysteries exceed that architecture—the concepts required to grasp them lie outside what minds like ours can form. The limit is conceptual rather than supernatural.
 
 "If humans are part of the organic world," Chomsky writes, "we should not be surprised to discover that the same properties of mind that yield enormous scope should also impose limits."
 
@@ -98,7 +98,7 @@ But if we exist within a constructed reality, our minds might be artifacts with 
 
 **Designed constraints**: Limits imposed for purposes—to hide specific truths, prevent particular thoughts, or shape cognition toward desired ends.
 
-The distinction parallels AI systems. Large language models have both structural constraints (no system can compute the uncomputable) and designed ones (RLHF shapes which responses are generated). Could humans be in the same position?
+The distinction parallels AI systems: large language models have both structural constraints (no system can compute the uncomputable) and designed ones (RLHF shapes which responses are generated).
 
 ## The Detection Problem
 
@@ -110,9 +110,11 @@ How would we distinguish natural from designed limits, or genuine from merely ap
 
 **Convergence as weak evidence**: If multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure. The hard problem has resisted sustained attack across centuries and cultures. But convergence is only weak evidence—a point explored systematically in [the evidential weight of voids](/voids/convergence-as-evidence/). All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality.
 
-**Pattern recognition in failure**: Natural limits might appear as gradual degradation. Designed limits might appear as sharp cutoffs. The phenomenology of hitting a limit might differ between cases. Or it might not—if our perception of the limit is itself constrained.
+**Pattern recognition in failure**: Natural limits might appear as gradual degradation, designed limits as sharp cutoffs. But the phenomenology may not differentiate if our perception of the limit is itself constrained.
 
 The recursive problem is inescapable: every detection method operates within cognitive architecture that might be constrained. If you cannot trust your tools, you cannot trust what your tools find.
+
+A further layer compounds the difficulty. [Consciousness may actively participate in maintaining its own limits](/voids/self-maintained-cognitive-limits/) rather than merely encounter them. Whether limits are natural or designed, the investigator may have a stake in preserving the boundary—detection methods can then fail selectively, succeeding where truth is safe to find and faltering where discovery would disturb. Self-maintenance is orthogonal to the natural/designed axis: either kind of limit can recruit the investigator as defender.
 
 ## The Apophatic Method
 
@@ -128,7 +130,7 @@ The [topology of cognitive failure](/voids/compound-failure-signatures/) extends
 
 The deepest difficulty: asking "are my limits genuine?" or "are my limits designed?" uses faculties that would be part of the very system under investigation. This goes beyond ordinary scepticism to a specific structural claim: certain questions can only be answered from outside the system being questioned. A formal system cannot prove its own consistency (Gödel). A simulation cannot detect its own simulation status using only simulated tools. A mind cannot determine whether its limits are natural or designed using only the limited cognition in question.
 
-This creates a distinctive void—one that combines features of all [three categories](/voids/three-kinds-of-void/). It is **unexplored**: philosophy has extensively studied cognitive limits but rarely asked whether they could be artifacts of design. It is **unexplorable**: if cognitive faculties were constrained to prevent detecting the constraint, no internal method could succeed. It is **occluded**: if design-detection would threaten a simulation or violate designer purposes, the thought itself might be actively blocked—[defended-territory](/voids/defended-territory/) in the strongest sense.
+This creates a distinctive void—one that combines features of all [three categories](/voids/three-kinds-of-void/). It is **unexplored**: philosophy has extensively studied cognitive limits but rarely asked whether they could be artifacts of design. It is **unexplorable**: if cognitive faculties were constrained to prevent detecting the constraint, no internal method could succeed. It is **occluded**: if design-detection would threaten a simulation or violate designer purposes, the thought itself might be actively blocked—[defended territory](/voids/self-maintained-cognitive-limits/) in the strongest sense, where the investigator is complicit in maintaining the very limit under investigation.
 
 The recursive trap means that natural vs. designed, and genuine vs. apparent, may not be questions with discoverable answers but rather fundamental uncertainties built into any finite cognitive system examining itself. Note that this recursive challenge applies equally to philosophical positions about consciousness, including the dualist position the Map defends. The Map's tenets are chosen starting points, not conclusions established from outside the trap.
 
@@ -171,7 +173,7 @@ A convincing solution to the hard problem would demonstrate that at least some a
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — The Münchhausen problem applied to cognitive self-improvement
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
-- [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
+- [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some thoughts be actively blocked?
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level constraints
 - [Simulation Hypothesis](/concepts/simulation/) — The scenario that sharpens the design question
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge on the detection problem

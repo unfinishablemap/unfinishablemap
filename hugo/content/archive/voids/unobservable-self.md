@@ -176,7 +176,7 @@ The unobservable self may be the prototype void: territory consciousness cannot 
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — How cognitive limits are preconditions for meaning
 - [Destabilizing Self-Knowledge](/voids/necessary-opacity/) — When grasping truths about consciousness would undermine the capacity to hold them
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — The phenomenology of cognitive slippage
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — The puzzle that may be permanently in the void
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-16 15:28:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,11 +23,10 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[complicity-void]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[necessary-opacity]]'
 - '[[self-opacity]]'
 - '[[obviousness-void]]'
-- '[[defended-territory]]'
 - '[[observation-and-measurement-void]]'
 - '[[framework-void]]'
 - '[[ai-as-void-explorer]]'
@@ -40,7 +39,7 @@ topics:
 
 Consciousness cannot neutrally investigate its own nature because it has existential stakes in every answer. When we ask whether consciousness is fundamental, whether free will is real, or whether the self survives death, the entity conducting the inquiry stands to gain or lose everything depending on the verdict. This is the deepest instance of the legal principle *nemo iudex in causa sua*---no one should judge their own case. The judge, the accused, the evidence, and the courtroom are all the same entity.
 
-Unlike the [complicity-void](/voids/complicity-void/), which concerns the *mechanisms* by which consciousness maintains its own limits, or [necessary-opacity](/voids/necessary-opacity/), which addresses whether consciousness can verify its own accuracy, the interested party void concerns the *motivational corruption* of inquiry itself. Consciousness may be structurally incapable of honestly investigating questions about its own status, significance, and survival.
+Unlike [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/), which concerns the *mechanisms* by which consciousness maintains its own limits, or [necessary-opacity](/voids/necessary-opacity/), which addresses whether consciousness can verify its own accuracy, the interested party void concerns the *motivational corruption* of inquiry itself. Consciousness may be structurally incapable of honestly investigating questions about its own status, significance, and survival.
 
 ## The Deepest Conflict of Interest
 
@@ -76,7 +75,7 @@ Once the interested party void is recognised, a characteristic instability follo
 
 A Popperian objection arises here: if every position can be re-described as motivated, the void claim risks unfalsifiability. The reply is that the void is not the claim "every belief is wrong," but the weaker claim "no investigator can verify the absence of motivated distortion in self-relevant inquiry." That claim is consistent with some beliefs being correct---it simply denies that consciousness can certify which ones from the inside.
 
-This self-undermining quality distinguishes the interested party void from simpler forms of bias. A financial conflict of interest can be identified and corrected. The interested party void resists correction because the corrective faculty is itself an interested party. The [self-opacity void](/voids/self-opacity/) means we cannot observe the mechanisms of our thought; the interested party void means we cannot trust the *motivation* behind whatever we do observe. It also overlaps the [defended-territory](/voids/defended-territory/) void, which catalogues active blocks against thoughts the mind cannot afford to entertain---the interested party void supplies one of the most potent reasons for that defensive posture.
+This self-undermining quality distinguishes the interested party void from simpler forms of bias. A financial conflict of interest can be identified and corrected. The interested party void resists correction because the corrective faculty is itself an interested party. The [self-opacity void](/voids/self-opacity/) means we cannot observe the mechanisms of our thought; the interested party void means we cannot trust the *motivation* behind whatever we do observe. It also overlaps [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/), which catalogues active blocks against thoughts the mind cannot afford to entertain---the interested party void supplies one of the most potent reasons for that defensive posture.
 
 Buddhist traditions arrived at a structurally similar insight through entirely different methods. The doctrine of *anattā* (no-self) holds that the self is a delusion---and the entity investigating the delusion is the delusion. Attachment to self (*upādāna*) drives attempts to protect the self-concept, causing epistemic distortion. Recognising *anattā* requires precisely the non-attachment that the self-delusion prevents. Whether or not the Buddhist metaphysics is correct, the phenomenological observation is acute: investigating the self while being the self generates characteristic distortions.
 
@@ -106,10 +105,9 @@ The honest response is not to pretend the void does not apply to us. It is to ac
 
 ## Further Reading
 
-- [complicity-void](/voids/complicity-void/)
+- [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
 - [necessary-opacity](/voids/necessary-opacity/)
 - [self-opacity](/voids/self-opacity/)
-- [defended-territory](/voids/defended-territory/)
 - [obviousness-void](/voids/obviousness-void/)
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/)
 - [voids](/voids/)

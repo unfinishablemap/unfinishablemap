@@ -34,7 +34,7 @@ topics: []
 
 1. **Temporary vs permanent distinction unclear**: The article explained both positions but didn't clarify which the Map endorses. **Resolution**: Added paragraph clarifying the Map takes no official position, but the "Occam's Razor Has Limits" tenet suggests we should not assume solvability merely from historical precedent.
 
-2. **Missing cross-links**: The voids connection was discussed but lacked links to related articles. **Resolution**: Added links to [apophatic-approaches](/concepts/apophatic-approaches/) and [thoughts-that-slip-away](/voids/thoughts-that-slip-away/).
+2. **Missing cross-links**: The voids connection was discussed but lacked links to related articles. **Resolution**: Added links to [apophatic-approaches](/concepts/apophatic-approaches/) and [thoughts-that-slip-away](/voids/thought-stream-void/).
 
 ### Counterarguments Considered
 
@@ -64,7 +64,7 @@ topics: []
 ### Cross-links Added
 
 - [apophatic-approaches](/concepts/apophatic-approaches/) - methods for approaching cognitive limits
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) - phenomenology of cognitive boundaries
+- [thoughts-that-slip-away](/voids/thought-stream-void/) - phenomenology of cognitive boundaries
 
 ## Word Count
 

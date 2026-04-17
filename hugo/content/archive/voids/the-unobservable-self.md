@@ -154,7 +154,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. I
 - [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Formal limitations on self-understanding
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Limit-experiences and minimal phenomenal experience
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — When cognition slips from grasp
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — When cognition slips from grasp
 - [Introspection and First-Person Methods](/concepts/introspection/) — Reliability and limits of self-examination
 - [Self and Consciousness](/concepts/self-and-self-consciousness/) — Minimal self versus narrative self
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits

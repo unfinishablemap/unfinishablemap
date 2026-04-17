@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [Defended Territory](/voids/defended-territory/)
+**Article**: [Defended Territory](/voids/self-maintained-cognitive-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

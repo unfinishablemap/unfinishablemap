@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-26
-**Article**: [The Complicity Void](/voids/complicity-void/)
+**Article**: [The Complicity Void](/voids/self-maintained-cognitive-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

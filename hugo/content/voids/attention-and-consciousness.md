@@ -136,7 +136,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
 - [structure-of-attention](/topics/structure-of-attention/) — Three modes of attention and their neural signatures
 - [The Habituation Void](/voids/disappearance-voids/) — A related void where familiarity, not attention, erases experience
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive slippage
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — Related phenomenology of cognitive slippage
 - [The Unobservable Self](/voids/self-opacity/) — The observer who cannot observe itself observing
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — What happens when meditation pushes the interface beyond its limits

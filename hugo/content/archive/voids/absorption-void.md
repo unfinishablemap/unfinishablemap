@@ -103,7 +103,7 @@ The Map speculates that the absorption void may be partly occluded rather than m
 - [attention-created-voids](/voids/attention-and-consciousness/) — What attention excludes by selecting
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal or simulate transcendence
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
+- [thoughts-that-slip-away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
 - [transition-void](/voids/transit-void/) — The general case: consciousness cannot witness any of its own state transitions
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-28 21:11:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[observation-and-measurement-void]]'
 - '[[thoughts-that-slip-away]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[self-opacity]]'
 - '[[necessary-opacity]]'
 - '[[phenomenology-of-the-edge]]'
@@ -35,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Some thoughts cannot be held still. Not because they slip away like [forgotten dreams](/voids/thoughts-that-slip-away/), or because we [flinch from them](/voids/defended-territory/), or because their [mechanisms are hidden](/voids/self-opacity/). They mutate. The act of thinking them transforms their content, so that what arrives in consciousness is never quite what was there before attention reached for it. The Unfinishable Map calls this the mutation void—a region where the terrain reshapes itself under the cartographer's gaze.
+Some thoughts cannot be held still. Not because they slip away like [forgotten dreams](/voids/thought-stream-void/), or because we [flinch from them](/voids/self-maintained-cognitive-limits/), or because their [mechanisms are hidden](/voids/self-opacity/). They mutate. The act of thinking them transforms their content, so that what arrives in consciousness is never quite what was there before attention reached for it. The Unfinishable Map calls this the mutation void—a region where the terrain reshapes itself under the cartographer's gaze.
 
 This void is distinct from the [observation-and-measurement-void](/voids/observation-and-measurement-void/), which concerns how studying consciousness alters what is studied. The mutation void is narrower and more radical: certain thought-contents are *constitutively unstable*. They do not merely change under observation; they cannot exist in their original form once consciousness attends to them. The pre-attended thought and the attended thought are different thoughts.
 
@@ -122,9 +122,9 @@ Current evidence favours structural instability. The convergence across contempl
 ## Further Reading
 
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — The broader void where studying consciousness transforms what is studied
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage—related but distinct from mutation
+- [thoughts-that-slip-away](/voids/thought-stream-void/) — The phenomenology of cognitive slippage—related but distinct from mutation
 - [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
-- [defended-territory](/voids/defended-territory/) — Systematic deflection from threatening content—distinct from involuntary transformation
+- [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Systematic deflection from threatening content—distinct from involuntary transformation
 - [necessary-opacity](/voids/necessary-opacity/) — Consciousness cannot verify its own accuracy, and self-knowledge can destabilise the system
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries
 - [self-reference paradox](/voids/self-opacity/) — The observer that cannot observe itself—a structural source of mutation

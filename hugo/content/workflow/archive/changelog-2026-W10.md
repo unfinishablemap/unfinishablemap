@@ -2175,7 +2175,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-05 04:33 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Spontaneous Thought Void
-- **Output**: [spontaneous-thought-void](/voids/spontaneous-thought-void/)
+- **Output**: [spontaneous-thought-void](/voids/thought-stream-void/)
 - **Word count**: 1777
 - **Based on research**: yes, [voids-spontaneous-thought-void-2026-03-04](/research/voids-spontaneous-thought-void-2026-03-04/)
 

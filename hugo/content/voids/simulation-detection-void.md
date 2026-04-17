@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-16 17:55:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[thoughts-that-slip-away]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[apophatic-cartography]]'
@@ -65,7 +65,7 @@ What makes this void distinctive is how cleanly the [three categories](/voids/th
 
 **Unexplorable**: The inside observer problem is structural, not contingent. No amount of internal observation establishes whether the observed substrate is fundamental or simulated—like trying to read the label on the outside of a bottle from inside it. Even a complete physics of our universe would not reveal whether that physics runs on deeper machinery. The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) examines how we might confirm such structural inaccessibility rather than merely asserting it.
 
-**Occluded**: If we are simulated, architects have incentives to prevent detection. Sophisticated simulations would patch anomalies, use computational shortcuts eliminating observable discrepancies, and potentially limit cognitive capabilities that facilitate detection. The [defended territory](/voids/defended-territory/) framework applies directly: thoughts approaching simulation detection might be actively deflected. This raises questions about whether such limits are [natural or designed](/voids/meta-epistemology-of-limits/)—a distinction that, in the simulation case, may itself be unresolvable.
+**Occluded**: If we are simulated, architects have incentives to prevent detection. Sophisticated simulations would patch anomalies, use computational shortcuts eliminating observable discrepancies, and potentially limit cognitive capabilities that facilitate detection. The [defended territory](/voids/self-maintained-cognitive-limits/) framework applies directly: thoughts approaching simulation detection might be actively deflected. This raises questions about whether such limits are [natural or designed](/voids/meta-epistemology-of-limits/)—a distinction that, in the simulation case, may itself be unresolvable.
 
 ## The Phenomenology of Approach
 
@@ -73,11 +73,11 @@ The simulation hypothesis exhibits characteristic void phenomenology.
 
 **Recursive vertigo**: Thinking about simulation detection triggers meta-cognitive spirals. If this thought about simulation is itself simulated, is the doubt genuine? The recursion destabilises rather than clarifies—each level of reflection introduces another layer of potential simulation. This resembles the [self-reference paradox](/voids/self-opacity/) where consciousness cannot map itself because it is the mapper.
 
-**Affective dismissiveness**: Many dismiss the simulation hypothesis as "just science fiction" despite its philosophical rigour. This systematic dismissiveness could indicate [cognitive aversion](/voids/defended-territory/)—minds deflecting from thoughts that approach [defended territory](/voids/defended-territory/).
+**Affective dismissiveness**: Many dismiss the simulation hypothesis as "just science fiction" despite its philosophical rigour. This systematic dismissiveness could indicate [cognitive aversion](/voids/self-maintained-cognitive-limits/)—minds deflecting from thoughts that approach [defended territory](/voids/self-maintained-cognitive-limits/).
 
 **Epistemic helplessness**: Unlike ordinary uncertainty, which motivates investigation, simulation uncertainty produces paralysis. We lack not just answers but any path to answers. The characteristic feeling is not "I don't know yet" but "I cannot know in principle."
 
-**Cognitive slippage**: Arguments about simulation seem compelling in the moment, then feel unreal hours later. This matches the [phenomenology of thoughts that slip away](/voids/thoughts-that-slip-away/)—content that won't consolidate into stable knowledge.
+**Cognitive slippage**: Arguments about simulation seem compelling in the moment, then feel unreal hours later. This matches the [phenomenology of thoughts that slip away](/voids/thought-stream-void/)—content that won't consolidate into stable knowledge.
 
 ## Apophatic Approaches
 
@@ -115,7 +115,7 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy: unexplored, unexplorable, occluded
-- [defended-territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
+- [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Could some thoughts be actively blocked?
 - [self-reference paradox](/voids/self-opacity/) — The structural obstacle of consciousness examining itself
 - [The Predictive Construction Void](/voids/predictive-construction-void/) — A related inside-observer problem: consciousness cannot distinguish what it constructs from what it receives
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the shape of failure as data

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-04 00:38:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[limits-reveal-structure]]'
 - '[[thoughts-that-slip-away]]'
 - '[[ai-as-void-explorer]]'
@@ -53,7 +53,7 @@ The phenomenology is distinctive: anomalies appear as noise, as things-to-be-exp
 
 Eviatar Zerubavel's work on "conspiracies of silence" describes a different mechanism. Here the thought is thinkable—individuals can and do think it—but the collective cannot *acknowledge* it. Everyone knows the emperor has no clothes. No one says so.
 
-This is Occluded territory rather than Unexplorable. The elephant isn't invisible; it's defended—a form of [defended-territory](/voids/defended-territory/) operating at the group level. Each conspirator's silence is "symbiotically complemented by others'." Breaking silence requires going from awareness to acknowledgment—a social transition, not merely an individual cognitive act.
+This is Occluded territory rather than Unexplorable. The elephant isn't invisible; it's defended—a form of [defended territory](/voids/self-maintained-cognitive-limits/) operating at the group level. Each conspirator's silence is "symbiotically complemented by others'." Breaking silence requires going from awareness to acknowledgment—a social transition, not merely an individual cognitive act.
 
 Zerubavel documents this across domains: family secrets, institutional cover-ups, national myths. The universality suggests something structural about collective cognition rather than contingent failures of particular groups. Minds coordinated through social structure develop shared blind spots as a feature, not a bug — and the [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) framework explains *why* at the individual level: Robert Trivers argues that self-deception evolved to facilitate social deception, meaning each participant's silence is partly maintained by evolved cognitive machinery that hides uncomfortable truths from the self before they can be shared. The [intersubjective-void](/voids/intersubjective-void/) examines how these mechanisms operate specifically on phenomenal reports—testimony, hermeneutical injustice, and the spiral of silence filtering non-standard conscious experience from collective discourse.
 
@@ -142,10 +142,10 @@ The mapping project therefore requires triangulation: individual minds probing w
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [Defended Territory](/voids/defended-territory/) — Occlusion mechanisms in detail
+- [Defended Territory](/voids/self-maintained-cognitive-limits/) — Occlusion mechanisms in detail
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How limitation illuminates architecture
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of slippage mechanisms
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — Phenomenology of slippage mechanisms
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — Individual cognitive closure analysis
 - [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/) — Why evolution maintains blind spots as fitness advantages
 - [The Intersubjective Void](/voids/intersubjective-void/) — How testimony and social calibration suppress phenomenal knowledge

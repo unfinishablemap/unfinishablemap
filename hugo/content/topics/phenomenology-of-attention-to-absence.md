@@ -103,7 +103,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is implicated becau
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — The structure of attention returning from absence
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — The forward-directed experience that absence violates
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How attention shapes temporal experience and agency
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive absence
+- [thoughts-that-slip-away](/voids/thought-stream-void/) — The phenomenology of cognitive absence
 - [structure-of-attention](/topics/structure-of-attention/) — The architecture of attentional control
 - [intentionality](/concepts/intentionality/) — The directedness of consciousness toward objects
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The specious present, retention, and protention

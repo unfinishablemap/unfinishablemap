@@ -1760,7 +1760,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-27 23:53 UTC - refine-draft
 - **Status**: Success
 - **File**: Multiple (15 files)
-- **Changes**: Updated all [cognitive-aversion](/voids/defended-territory/) wikilinks to [defended-territory](/voids/defended-territory/) across 15 active content files following coalesce merge. Removed duplicate frontmatter entries in 3 files that already had [defended-territory](/voids/defended-territory/). Updated voids.md section index entry.
+- **Changes**: Updated all [cognitive-aversion](/voids/defended-territory/) wikilinks to [defended-territory](/voids/self-maintained-cognitive-limits/) across 15 active content files following coalesce merge. Removed duplicate frontmatter entries in 3 files that already had [defended-territory](/voids/self-maintained-cognitive-limits/). Updated voids.md section index entry.
 - **Published**: yes
 
 ---

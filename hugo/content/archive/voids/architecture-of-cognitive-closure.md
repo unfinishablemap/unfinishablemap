@@ -125,7 +125,7 @@ Even if LLMs form representations outside human concept space, communication may
 
 What would it feel like to encounter territory closed by architecture or development?
 
-**Absence rather than presence**: Unlike approaching defended territory (where [thoughts slip away](/voids/thoughts-that-slip-away/)), developmental closure leaves no phenomenological trace — [inventory-blindness](/concepts/inventory-blindness/) in action. The territory simply isn't there to miss. You cannot know what it was like to perceive faces without race categories, or to hear phonemes without native-language filters.
+**Absence rather than presence**: Unlike approaching defended territory (where [thoughts slip away](/voids/thought-stream-void/)), developmental closure leaves no phenomenological trace — [inventory-blindness](/concepts/inventory-blindness/) in action. The territory simply isn't there to miss. You cannot know what it was like to perceive faces without race categories, or to hear phonemes without native-language filters.
 
 **The borrowed vocabulary**: You use words that seem to point toward something. "Consciousness," "causation," "time." But when pressed, you cannot articulate what the concept actually *is*. The word functions linguistically without corresponding to genuine conceptual content.
 

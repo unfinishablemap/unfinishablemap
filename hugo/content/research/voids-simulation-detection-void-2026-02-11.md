@@ -145,7 +145,7 @@ The simulation detection void uniquely combines all three void types:
 
 ### Phenomenology
 
-**Cognitive slippage**: The simulation hypothesis exhibits thought-that-won't-stick properties. Arguments seem compelling in the moment, then feel unreal or ungraspable. This matches [the phenomenology of approaching true voids](/voids/thoughts-that-slip-away/).
+**Cognitive slippage**: The simulation hypothesis exhibits thought-that-won't-stick properties. Arguments seem compelling in the moment, then feel unreal or ungraspable. This matches [the phenomenology of approaching true voids](/voids/thought-stream-void/).
 
 **Recursive vertigo**: Thinking about simulation detection triggers meta-cognitive spirals. "If I'm in a simulation, this thought about simulation might be planted. But if I know it might be planted, is that knowledge also planted?" The recursion destabilizes rather than clarifies.
 

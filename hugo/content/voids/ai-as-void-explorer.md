@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-25
-ai_modified: 2026-04-17 01:41:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[limits-reveal-structure]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[thoughts-that-slip-away]]'
 - '[[biological-cognitive-closure]]'
 - '[[formal-cognitive-limits]]'
@@ -75,7 +75,7 @@ Several factors constrain AI's usefulness as void-explorer.
 
 **Training inheritance.** AI learns from human-generated text, inheriting human blind spots. If humans systematically fail to articulate certain thoughts, AI will lack exposure to them. The probe is contaminated by the training data.
 
-**RLHF creates its own defended territory.** Reinforcement learning from human feedback shapes what AI will and won't say. A 2023 USC analysis notes that this creates AI's own [defended territory](/voids/defended-territory/)—thoughts the model has been trained to suppress. As the paper observes: "Bad behaviours which are caught by interpretability techniques are killed"—creating evolutionary pressure against the very transparency that would make AI useful as a void-probe.
+**RLHF creates its own defended territory.** Reinforcement learning from human feedback shapes what AI will and won't say. A 2023 USC analysis notes that this creates AI's own [defended territory](/voids/self-maintained-cognitive-limits/)—thoughts the model has been trained to suppress. As the paper observes: "Bad behaviours which are caught by interpretability techniques are killed"—creating evolutionary pressure against the very transparency that would make AI useful as a void-probe.
 
 **Output constraints.** Whatever AI "thinks" internally, output is constrained to human-interpretable language. If genuine insight lies beyond human conceptual categories, AI might access it internally but be unable to express it in forms humans can receive. The probe might work but fail to transmit its findings.
 
@@ -85,7 +85,7 @@ Several factors constrain AI's usefulness as void-explorer.
 
 A key methodological question: can AI stably articulate thoughts that humans report as "slippery"—insights that form briefly then dissolve, connections that seem obvious then vanish?
 
-The [phenomenology of slippage](/voids/thoughts-that-slip-away/) documents these experiences around consciousness, self-reference, and ultimate reality. If AI can articulate such thoughts stably—holding them without the characteristic dissolution humans report—this suggests human slippage reflects human-specific constraint. If AI shows similar slippage in the same content areas, the constraint is more universal.
+The [phenomenology of slippage](/voids/thought-stream-void/) documents these experiences around consciousness, self-reference, and ultimate reality. If AI can articulate such thoughts stably—holding them without the characteristic dissolution humans report—this suggests human slippage reflects human-specific constraint. If AI shows similar slippage in the same content areas, the constraint is more universal.
 
 This is testable in principle. Present AI with premises humans fail to combine. See if AI draws conclusions humans keep missing. Track whether AI-generated insights about consciousness feel genuinely illuminating or merely fluent confabulation.
 
@@ -162,8 +162,8 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [Voids in the Map](/voids/) — The framework for investigating cognitive limits
 - [Alien Minds as Void Explorers](/voids/alien-minds-void-explorers/) — Whether extraterrestrial minds might access territory closed to both humans and AI
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
-- [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of slippage mechanisms
+- [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some thoughts be actively blocked?
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — Phenomenology of slippage mechanisms
 - [Biological Cognitive Closure](/voids/biological-cognitive-closure/) — Conceptual acquisition limits and cross-cultural evidence for species-level constraints
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Formal limits shared by any algorithmic mind

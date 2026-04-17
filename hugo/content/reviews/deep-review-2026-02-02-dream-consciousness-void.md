@@ -58,7 +58,7 @@ None identified.
 ### Cross-links Added (Orphan Integration)
 Inbound links added FROM:
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Added to Further Reading
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Added to Further Reading
+- [thoughts-that-slip-away](/voids/thought-stream-void/) — Added to Further Reading
 - [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/) — Added to Further Reading
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Added to Further Reading
 - [voids](/voids/) — Added to Specific Voids section

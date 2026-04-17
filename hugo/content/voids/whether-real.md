@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-05 20:26:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[apophatic-approaches]]'
 - '[[self-opacity]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[convergence-as-evidence]]'
 - '[[cartography-problem]]'
 - '[[phenomenal-quality-void]]'
@@ -98,7 +98,7 @@ The evidence is asymmetric: a successful solution proves limits weren't permanen
 
 Approaching this question has a distinctive feel: **suspension rather than confusion**, where arguments on both sides have genuine force but neither settles the matter; **recursive vertigo** from recognising the self-referential structure; **temptation to premature closure**, the psychological pressure to declare the voids real or illusory and be done with it; and paradoxically, **relief in acceptance** that the question may be permanently open.
 
-This phenomenology differs from approaching [defended territory](/voids/defended-territory/), where thoughts slide away or evade articulation. Suspension feels like stable equilibrium; defended territory feels like active deflection.
+This phenomenology differs from approaching [defended territory](/voids/self-maintained-cognitive-limits/), where thoughts slide away or evade articulation. Suspension feels like stable equilibrium; defended territory feels like active deflection.
 
 ## Process Philosophy Perspective
 

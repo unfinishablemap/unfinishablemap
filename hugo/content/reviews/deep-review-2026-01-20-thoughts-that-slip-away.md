@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Thoughts That Slip Away](/voids/thoughts-that-slip-away/)
+**Article**: [Thoughts That Slip Away](/voids/thought-stream-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

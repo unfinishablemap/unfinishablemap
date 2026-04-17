@@ -95,7 +95,7 @@ A critical point: Buddhist philosophy draws the opposite metaphysical conclusion
 
 ## The Dissolving Insight
 
-Insights about consciousness seem clear for a moment and then dissolve—vanishing in the act of articulation. The [thoughts that slip away](/voids/thoughts-that-slip-away/) article catalogues slippage mechanisms. The self-reference paradox suggests some slippage may be structural—thoughts about thinking inherently less stable than thoughts about external objects. The [compound-failure-signatures](/voids/compound-failure-signatures/) framework shows that self-reference, language limits, and recursion limits don't merely sum but amplify each other.
+Insights about consciousness seem clear for a moment and then dissolve—vanishing in the act of articulation. The [thoughts that slip away](/voids/thought-stream-void/) article catalogues slippage mechanisms. The self-reference paradox suggests some slippage may be structural—thoughts about thinking inherently less stable than thoughts about external objects. The [compound-failure-signatures](/voids/compound-failure-signatures/) framework shows that self-reference, language limits, and recursion limits don't merely sum but amplify each other.
 
 Two characteristic phenomenologies emerge. **The receding horizon**: the self seems always just ahead—present but never where you look. **Spacious release**: when attention turns fully inward and finds nothing to grasp, some report empty wakefulness—awareness vividly present but without content. The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) documents this "zero-person perspective."
 
@@ -142,7 +142,7 @@ The self-reference paradox may be the prototype void: territory consciousness st
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Destabilizing Self-Knowledge](/voids/necessary-opacity/) — When grasping truths about consciousness would undermine the capacity to hold them
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of cognitive slippage
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — The phenomenology of cognitive slippage
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — The puzzle that may be permanently in the void
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture

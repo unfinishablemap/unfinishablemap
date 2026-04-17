@@ -69,7 +69,7 @@ topics: []
 ### Cross-links Added
 
 - [epiphenomenalism](/concepts/epiphenomenalism/) (first use in body)
-- [defended-territory](/voids/defended-territory/) (suspicion cascade section)
+- [defended-territory](/voids/self-maintained-cognitive-limits/) (suspicion cascade section)
 - [obviousness-void](/voids/obviousness-void/) (structural mapping section)
 
 ## Remaining Items

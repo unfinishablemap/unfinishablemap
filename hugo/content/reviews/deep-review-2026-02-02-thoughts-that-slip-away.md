@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-02
-**Article**: [Thoughts That Slip Away](/voids/thoughts-that-slip-away/)
+**Article**: [Thoughts That Slip Away](/voids/thought-stream-void/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-thoughts-that-slip-away/)
 **Review context**: Introspective opacity
 

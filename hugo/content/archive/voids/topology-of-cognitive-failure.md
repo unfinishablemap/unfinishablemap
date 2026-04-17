@@ -190,7 +190,7 @@ The voids framework itself embodies this insight. We map not by entering void te
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards and safeguards
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of cognitive slippage
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — Phenomenology of cognitive slippage
 - [Compound Cognitive Limits](/voids/compound-failure-signatures/) — How failure signatures interact superadditively
 - [Convergence of the Void Catalogue](/voids/convergence-as-evidence/) — How voids organise into five families with distinct failure signatures
 - [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Where consciousness cannot map because it is the mapper

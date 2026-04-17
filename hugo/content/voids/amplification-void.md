@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-28
-ai_modified: 2026-04-16 11:59:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[tenet-generated-voids]]'
 - '[[nomic-void]]'
 - '[[observation-and-measurement-void]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 title: The Amplification Void
 topics:
@@ -63,7 +63,7 @@ This reframing deepens the void rather than resolving it. If quantum influences 
 
 The amplification void may not be an accidental gap in human knowledge but a structural consequence of how consciousness-physics interaction works. The minimal quantum interaction tenet specifies the *smallest possible* influence on quantum outcomes. If the amplification chain were traceable, the quantum influence would be detectable—contradicting the minimality that defines it. The opacity is not a limitation on our knowledge of the mechanism but a necessary condition for the mechanism to operate as specified.
 
-This makes the amplification void a candidate for [defended-territory](/voids/defended-territory/)—not territory actively hidden by an agent, but territory whose opacity is maintained by the physics that enables the interaction. The void is self-protecting: the minimality that makes consciousness-physics interaction possible also makes it untraceable.
+This makes the amplification void a candidate for [defended territory](/voids/self-maintained-cognitive-limits/)—not territory actively hidden by an agent, but territory whose opacity is maintained by the physics that enables the interaction. The void is self-protecting: the minimality that makes consciousness-physics interaction possible also makes it untraceable.
 
 There is an analogy—imperfect but suggestive—with Heisenberg's uncertainty principle, where measurement precision on one variable necessarily reduces precision on its conjugate. The amplification void has a similar structure: the more minimal the quantum influence (preserving conservation laws, avoiding empirical detection), the more opaque the amplification chain becomes. Minimality and opacity are not independent properties but coupled aspects of the same constraint.
 
@@ -112,7 +112,7 @@ The amplification void is both **Unexplorable** and potentially **Occluded** in 
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids that arise from the Map's foundational commitments
 - [nomic-void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — How studying consciousness transforms what is studied
-- [defended-territory](/voids/defended-territory/) — Could some limits be actively maintained?
+- [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Could some limits be actively maintained?
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Delegation reframes but does not dissolve the amplification void: experience takes over causal work without explaining how
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: a deeper theory would derive the amplification void's opacity as a consequence of minimality
 

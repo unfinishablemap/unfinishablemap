@@ -71,7 +71,7 @@ Developmental cognitive closure presents as a mixed [void type](/voids/three-kin
 
 Adults cannot directly experience what they have lost—the loss is invisible from the inside. You cannot know what it was like to perceive faces without race categories, or to hear phonemes without native-language filters. The phenomenology is characterised by:
 
-**Absence rather than presence**: Unlike approaching defended territory (where [thoughts slip away](/voids/thoughts-that-slip-away/)), developmental closure leaves no phenomenological trace. The territory simply isn't there to miss.
+**Absence rather than presence**: Unlike approaching defended territory (where [thoughts slip away](/voids/thought-stream-void/)), developmental closure leaves no phenomenological trace. The territory simply isn't there to miss.
 
 **Nostalgia without content**: Adults may sense that children perceive differently, but cannot access the lost perceptions to verify. The intuition of loss exceeds the ability to specify what was lost.
 

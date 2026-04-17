@@ -56,8 +56,8 @@ None. The article is well-structured, makes appropriate claims, and cites empiri
 
 ### Cross-links Added (FROM other articles TO cognitive-aversion)
 1. [death-void](/voids/death-void/) - In the psychological evidence section discussing Terror Management Theory
-2. [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) - In the content-specific slippage section
-3. [defended-territory](/voids/defended-territory/) - In the psychological defense mechanisms section
+2. [thoughts-that-slip-away](/voids/thought-stream-void/) - In the content-specific slippage section
+3. [defended-territory](/voids/self-maintained-cognitive-limits/) - In the psychological defense mechanisms section
 4. [existentialism](/concepts/nihilism-and-existentialism/) - In the authenticity section discussing Heidegger's fallenness
 5. [mysterianism](/concepts/mysterianism/) - In the phenomenology of cognitive closure section
 6. [death-and-consciousness](/topics/death-and-consciousness/) - In the opening section after discussing the death void

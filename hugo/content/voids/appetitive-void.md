@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-27 23:53:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[affective-void]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 - '[[self-opacity]]'
 - '[[whether-real]]'
 - '[[limits-reveal-structure]]'
@@ -35,7 +35,7 @@ topics:
 - '[[philosophy-of-mind]]'
 ---
 
-The Unfinishable Map documents many kinds of cognitive limit: thoughts we [systematically flee](/voids/defended-territory/), emotions we [cannot feel](/voids/affective-void/), truths hidden by [introspective opacity](/voids/self-opacity/). The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established. The appetitive void is the impossibility of stepping outside this framework to see what cognition looks like without it.
+The Unfinishable Map documents many kinds of cognitive limit: thoughts we [systematically flee](/voids/self-maintained-cognitive-limits/), emotions we [cannot feel](/voids/affective-void/), truths hidden by [introspective opacity](/voids/self-opacity/). The appetitive void names something more fundamental. Desire does not merely distort cognition—it may *constitute* it. Every thought you have, including the thought that your thinking is desire-shaped, occurs within a framework that wanting has already established. The appetitive void is the impossibility of stepping outside this framework to see what cognition looks like without it.
 
 Multiple independent traditions converge on this diagnosis. Schopenhauer argued that intellect serves the will. Buddhism identifies craving (tanha) as woven into cognition itself. Nietzsche insisted that all knowing is perspectival knowing, driven by the will to power. Contemporary predictive processing frameworks collapse the distinction between prediction and preference. If these traditions are right, the appetitive void is not a correctable bias but a structural feature of minded existence—possibly inseparable from consciousness itself.
 
@@ -43,11 +43,11 @@ Multiple independent traditions converge on this diagnosis. Schopenhauer argued 
 
 This void occupies territory distinct from related limits on the Map:
 
-**[Cognitive aversion](/voids/defended-territory/)** describes thoughts we flee—specific threatening content that triggers deflection, substitution, or glazing. The appetitive void operates at a different level. It does not block particular thoughts; it shapes the entire field within which thoughts occur. You can overcome aversion to a specific idea. You cannot overcome the appetitive orientation of cognition any more than you can see without light.
+**[Cognitive aversion](/voids/self-maintained-cognitive-limits/)** describes thoughts we flee—specific threatening content that triggers deflection, substitution, or glazing. The appetitive void operates at a different level. It does not block particular thoughts; it shapes the entire field within which thoughts occur. You can overcome aversion to a specific idea. You cannot overcome the appetitive orientation of cognition any more than you can see without light.
 
 **The [affective-void](/voids/affective-void/)** marks emotions we cannot feel—affects beyond our evolutionary and architectural reach. The appetitive void concerns how the affects we *do* have constrain what we can think. The affective void is about missing states; the appetitive void is about how present states generate cognitive limits.
 
-**[Defended territory](/voids/defended-territory/)** asks whether some thoughts are actively blocked. The appetitive void asks whether desire so thoroughly constitutes the cognitive field that alternative framings never arise to be blocked. There is nothing to defend against because the alternatives are never generated.
+**[Defended territory](/voids/self-maintained-cognitive-limits/)** asks whether some thoughts are actively blocked. The appetitive void asks whether desire so thoroughly constitutes the cognitive field that alternative framings never arise to be blocked. There is nothing to defend against because the alternatives are never generated.
 
 **[introspective opacity](/voids/self-opacity/)** describes the inaccessibility of cognitive processes. The appetitive void describes how wanting shapes the *outcomes* of those processes, even when the processes themselves are transparent. You may observe your reasoning clearly and still not see how desire selected what you reason about.
 
@@ -126,9 +126,8 @@ The evidence currently points toward the appetitive void as genuine. The converg
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [defended-territory](/voids/defended-territory/) — Thoughts we systematically flee—the motivational cousin
+- [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Thoughts we systematically flee and active blocks—the motivational cousin
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
-- [defended-territory](/voids/defended-territory/) — Whether some thoughts are actively blocked
 - [introspective opacity](/voids/self-opacity/) — Inaccessibility of cognitive processes
 - [self-reference paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts

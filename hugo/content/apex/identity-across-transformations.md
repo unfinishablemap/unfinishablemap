@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-17 09:22:00+00:00
+ai_modified: 2026-04-17 13:11:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-17 09:22:00+00:00
 apex_sources:
@@ -38,6 +38,7 @@ related_articles:
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[altered-states-of-consciousness]]'
 - '[[indexical-void]]'
+- '[[voids/anesthesia-void]]'
 title: Identity Across Transformations
 topics:
 - '[[personal-identity]]'
@@ -95,7 +96,9 @@ If consciousness could split like physical matter, haecceity would face a proble
 
 Where do you go when time stops?
 
-The materialist says: nowhere. The neural processes generating experience cease, and when they resume, experience resumes with them. But this faces the problem of discontinuity. How does the *same* indexical subject exist before and after a temporal gap with no connecting experience? If identity is just psychological continuity, the anesthetized gap poses no special problem—the same brain resumes the same patterns. But if identity involves haecceity, something must explain why *this* subject—not a new one—wakes up.
+The [anaesthesia void article](/voids/anesthesia-void/) develops the epistemology of this gap at length, and its three-states distinction constrains the discussion here. Mashour (2023) identifies three conditions that can occur under stable anaesthesia: **unconsciousness** (no experience generated), **disconnected consciousness** (experience generated but not environmentally coupled or consolidated into accessible memory, as in dreaming), and **connected consciousness** (environmental awareness during nominal anaesthesia). The first-person report of "no time at all" fails to discriminate between these states—the subject cannot distinguish genuine cessation from disconnected content that was never retained. Any argument about what persists across the anaesthesia gap therefore proceeds under underdetermination: the temporal-gap problem is not a single phenomenon but a family, and the identity question lands differently against each member.
+
+The materialist says: nowhere. The neural processes generating experience cease, and when they resume, experience resumes with them. But this faces the problem of discontinuity. How does the *same* indexical subject exist before and after a temporal gap with no connecting experience? If identity is just psychological continuity, the anesthetized gap poses no special problem—the same brain resumes the same patterns. But if identity involves haecceity, something must explain why *this* subject—not a new one—wakes up. The three-states taxonomy sharpens this: if the interval was disconnected consciousness rather than genuine unconsciousness, the persistence question reduces to the ordinary question of identity through dreaming, and haecceity persists through ongoing (if unremembered) experience. If it was genuine cessation, the question is sharper and closer to the resurrection case. Because the subject cannot tell which state occurred, the identity claim has to be made conditionally or backed by a reading of the gap that goes beyond what the first-person record supplies.
 
 The Map's [filter-theory](/concepts/filter-theory/) offers an interpretation. The brain doesn't *produce* consciousness but *interfaces* with it. Anesthesia disrupts the interface, making consciousness unable to manifest through neural patterns. Upon recovery, the interface restores—and crucially, the *same* consciousness reconnects. This preserves indexical identity through the gap by denying that consciousness ceased; it merely became unable to express itself.
 

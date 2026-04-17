@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-26
-**Article**: [The Complicity Void](/voids/complicity-void/)
+**Article**: [The Complicity Void](/voids/self-maintained-cognitive-limits/)
 **Previous review**: [2026-03-26](/reviews/deep-review-2026-03-26-complicity-void/) (earlier today)
 
 ## Pessimistic Analysis Summary
@@ -43,7 +43,7 @@ topics: []
 ### Enhancements Made
 - **8 inbound cross-links added** from related articles to resolve orphan status:
   1. [cognitive-aversion](/voids/defended-territory/) — in "Aversion Versus Closure" section
-  2. [defended-territory](/voids/defended-territory/) — in "Psychological Defense Mechanisms" section
+  2. [defended-territory](/voids/self-maintained-cognitive-limits/) — in "Psychological Defense Mechanisms" section
   3. [self-opacity](/voids/self-opacity/) — in error recognition section
   4. [existentialism](/concepts/nihilism-and-existentialism/) — in "Bad Faith and the Flight from Freedom" section
   5. [biological-cognitive-closure](/voids/biological-cognitive-closure/) — in "Why Limits Are Adaptive" section
@@ -54,7 +54,7 @@ topics: []
 
 ### Cross-links Added
 - Added to complicity-void's related_articles: [existentialism](/concepts/nihilism-and-existentialism/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/), [narrative-void](/voids/narrative-void/)
-- Added complicity-void to Further Reading in: [cognitive-aversion](/voids/defended-territory/), [defended-territory](/voids/defended-territory/)
+- Added complicity-void to Further Reading in: [cognitive-aversion](/voids/defended-territory/), [defended-territory](/voids/self-maintained-cognitive-limits/)
 - Added complicity-void body links in: [self-opacity](/voids/self-opacity/), [existentialism](/concepts/nihilism-and-existentialism/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/), [self-transcendence-void](/voids/self-transcendence-void/), [framework-void](/voids/framework-void/), [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
 
 ## Remaining Items

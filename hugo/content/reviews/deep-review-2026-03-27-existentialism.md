@@ -23,7 +23,7 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-1. **Broken wikilink to coalesced article**: `[cognitive aversion](/voids/defended-territory/)` on line 92 pointed to `voids/cognitive-aversion.md`, which was coalesced into `voids/defended-territory.md` on 2026-03-27. Updated to `[defended territory](/voids/defended-territory/)`.
+1. **Broken wikilink to coalesced article**: `[cognitive aversion](/voids/defended-territory/)` on line 92 pointed to `voids/cognitive-aversion.md`, which was coalesced into `voids/defended-territory.md` on 2026-03-27. Updated to `[defended territory](/voids/self-maintained-cognitive-limits/)`.
 
 ### Medium Issues Found
 None. All medium issues from the previous review were resolved and remain stable.
@@ -55,7 +55,7 @@ No new counterarguments identified. Previous review's stability notes remain val
 - "What Would Challenge This View?" section (intellectually honest)
 
 ### Enhancements Made
-1. Updated `[cognitive aversion](/voids/defended-territory/)` → `[defended territory](/voids/defended-territory/)` to reflect coalesce
+1. Updated `[cognitive aversion](/voids/defended-territory/)` → `[defended territory](/voids/self-maintained-cognitive-limits/)` to reflect coalesce
 
 ### Cross-links Added
 None needed — existing cross-links remain comprehensive. The defended-territory link replaces the cognitive-aversion link with no loss of connectivity.

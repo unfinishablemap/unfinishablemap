@@ -91,7 +91,7 @@ Multiple lines of evidence converge:
 
 Approaching cognitive limits has a distinctive phenomenology (see [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) for extended treatment):
 
-**The dissolving insight.** Grasping that limits reveal structure is itself unstable—the insight tends to slip away when examined directly. [Thoughts that slip away](/voids/thoughts-that-slip-away/) may include thoughts *about* thinking's boundaries.
+**The dissolving insight.** Grasping that limits reveal structure is itself unstable—the insight tends to slip away when examined directly. [Thoughts that slip away](/voids/thought-stream-void/) may include thoughts *about* thinking's boundaries.
 
 **Recognition without comprehension.** We can *recognise* that certain thoughts are unthinkable without *comprehending* what those thoughts would be. The gap is visible even if its contents aren't. The [boundary-and-projection](/voids/boundary-and-projection/) void provides a concrete case: consciousness cannot determine where experience ends and non-experience begins, yet this very failure reveals that experience has a determinate perimeter set by architecture rather than choice.
 
@@ -153,7 +153,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness cannot upgrade its own cognitive architecture
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of cognitive slippage
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — Phenomenology of cognitive slippage
 - [The Boundary and Projection Void](/voids/boundary-and-projection/) — Consciousness cannot determine its own boundaries or observe their shifts, yet this failure reveals architectural structure
 - [The Habituation Void](/voids/disappearance-voids/) — How familiarity-limits reveal novelty-orientation in consciousness
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like

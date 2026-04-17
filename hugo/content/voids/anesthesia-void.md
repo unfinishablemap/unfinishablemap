@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-17 10:56:00+00:00
+ai_modified: 2026-04-17 13:11:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[altered-states-as-interface-evidence]]'
 - '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[phenomenology-of-the-edge]]'
+- '[[clinical-dissociation-as-systematic-evidence]]'
 title: The Anesthesia Void
 topics:
 - '[[consciousness]]'
@@ -87,6 +88,8 @@ These dissociations are diagnostic. Pharmacological intervention at specific rec
 This matters for interpretation. A naive "one master switch" physicalism predicts a unified phenomenon and is refuted by the dissociability evidence. But naive physicalism is not the physicalism actually defended in the literature. Sophisticated functionalist views — Block on access-versus-phenomenal processing, multi-realisability accounts, integrationist readings of IIT — predict exactly this dissociation pattern: consciousness is realised in coupled subsystems, and pharmacological intervention breaks specific couplings to produce specific failure modes. The basic dissociability phenomenon is theory-neutral between sophisticated physicalism and interface dualism. Treating it as evidence against physicalism simpliciter would be tilting at a strawman.
 
 What the Map claims is different. The interface-disruption reading says the dissociable couplings are between consciousness and the brain mechanisms of generation, environmental connection, and memory consolidation — not between subsystems that together *constitute* consciousness. Both accounts predict the same pharmacological phenomenology; they disagree about what is decomposing. Adjudicating between them requires phenomena the two readings predict differently — phenomena the anesthesia evidence alone cannot supply. The dissociability argument, in short, clears away naive physicalism without settling the live question. [Compound failure signatures](/voids/compound-failure-signatures/) are evidence that something is decomposable; which thing, and whether it has a single relatum that persists through decomposition, remains open at this stage of the argument.
+
+The same selective-disruption pattern arises through a non-pharmacological route in [clinical dissociation](/topics/clinical-dissociation-as-systematic-evidence/). DID, depersonalization-derealization, dissociative amnesia, and conversion disorder each disable a specific interface channel — cross-state integration, felt ownership, autobiographical access, volitional motor control — without structural brain damage and without a pharmacological agent. The clinical route reaches the same architecture the anaesthetic agents reveal: selective disconnection between otherwise capable processing regions. The convergence of pharmacological and clinical evidence on the same channel-level taxonomy is itself a compound failure signature at one level up — the architecture replicates under independent perturbations.
 
 ## Third-Person Workarounds
 

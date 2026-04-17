@@ -61,7 +61,7 @@ The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) takes a disti
 
 Fatigue-induced narrowing often feels like relief. The shed capacities are experienced as weights released, not abilities lost. The rich peripheral awareness that characterises alert consciousness — the ambient processing of sounds, social cues, background concerns — drops away, and what remains is a simpler, narrower engagement that consciousness welcomes.
 
-This makes the fatigue void self-concealing in a way that connects to the [complicity-void](/voids/complicity-void/). Consciousness does not merely fail to detect its own narrowing — it actively misinterprets narrowing as simplification, as the world becoming more manageable. The felt sense is not "I am losing capacities" but "things are becoming clearer" or "nothing else matters right now." The progressive tunnelling that objectively represents cognitive impairment is subjectively experienced as focus.
+This makes the fatigue void self-concealing in a way that connects to the [complicity-void](/voids/self-maintained-cognitive-limits/). Consciousness does not merely fail to detect its own narrowing — it actively misinterprets narrowing as simplification, as the world becoming more manageable. The felt sense is not "I am losing capacities" but "things are becoming clearer" or "nothing else matters right now." The progressive tunnelling that objectively represents cognitive impairment is subjectively experienced as focus.
 
 Byung-Chul Han distinguishes between "I-tiredness" — the isolating exhaustion of burnout — and "we-tiredness," a communal, peaceful fatigue that opens rather than closes. The phenomenological texture of fatigue is not uniform. Self-imposed exhaustion from achievement culture differs from the fatigue of physical labour, which differs from the fatigue of sustained emotional engagement. Each produces narrowing, but the felt quality of the narrowing varies.
 
@@ -104,7 +104,7 @@ The fatigue void connects to the Map's [tenets](/tenets/) at several points.
 ## Further Reading
 
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/)
-- [complicity-void](/voids/complicity-void/)
+- [complicity-void](/voids/self-maintained-cognitive-limits/)
 - [habituation-void](/voids/disappearance-voids/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [attention-and-consciousness](/voids/attention-and-consciousness/)

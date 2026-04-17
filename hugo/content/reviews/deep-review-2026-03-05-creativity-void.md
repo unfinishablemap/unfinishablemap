@@ -52,12 +52,12 @@ None. No factual errors, attribution errors, internal contradictions, or broken 
 
 ### Enhancements Made
 - Added confabulation insight to Process Void: we not only can't observe creative process but actively construct false explanations, doubling the concealment
-- Added cross-link to [spontaneous-thought-void](/voids/spontaneous-thought-void/) establishing creativity void as dramatic instance of a pervasive condition
+- Added cross-link to [spontaneous-thought-void](/voids/thought-stream-void/) establishing creativity void as dramatic instance of a pervasive condition
 - Strengthened contemplative finding in "What Would Illuminate": separated from run-on sentence, added "The void does not shrink with practice; it becomes more precisely located"
 - Tightened prose throughout for length neutrality
 
 ### Cross-links Added
-- [spontaneous-thought-void](/voids/spontaneous-thought-void/) — In Process Void section (inline), related_articles frontmatter, and Further Reading
+- [spontaneous-thought-void](/voids/thought-stream-void/) — In Process Void section (inline), related_articles frontmatter, and Further Reading
 
 ## Remaining Items
 

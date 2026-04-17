@@ -49,7 +49,7 @@ topics: []
 Five existing articles now link to [obviousness-void](/voids/obviousness-void/):
 
 1. **[epistemic-emotions](/concepts/epistemic-emotions/)** — Added in "Epistemic Emotions and Decision" section where certainty ends search, connecting premature certainty to the obviousness void as a stop-sign
-2. **[defended-territory](/voids/defended-territory/)** — Added in "The Phenomenology of Defended Territory" section, contrasting active deflection (defended territory) with passive foreclosure (obviousness void)
+2. **[defended-territory](/voids/self-maintained-cognitive-limits/)** — Added in "The Phenomenology of Defended Territory" section, contrasting active deflection (defended territory) with passive foreclosure (obviousness void)
 3. **[biological-cognitive-closure](/voids/biological-cognitive-closure/)** — Added in phenomenology section where adaptive limits generate satisfaction, identifying this as an obviousness void at species level
 4. **[phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)** — Added in diagnostic grid, labelling "Illusory comprehension" as the obviousness void signature
 5. **[authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)** — Added in "Absence of felt alternatives" subsection, connecting the feeling that one path is obvious/inevitable to the obviousness void operating in the domain of action
@@ -58,7 +58,7 @@ Five existing articles now link to [obviousness-void](/voids/obviousness-void/):
 - [voids](/voids/) (section index only)
 
 ### Total Inbound Links After This Review
-- [voids](/voids/), [epistemic-emotions](/concepts/epistemic-emotions/), [defended-territory](/voids/defended-territory/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/), [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) (6 total)
+- [voids](/voids/), [epistemic-emotions](/concepts/epistemic-emotions/), [defended-territory](/voids/self-maintained-cognitive-limits/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/), [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) (6 total)
 
 ## Remaining Items
 

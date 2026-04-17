@@ -70,7 +70,7 @@ One possibility is mere complexity—creative processing occurs in neural channe
 
 If the selection mechanism were conscious, we would observe it selecting. But we observe only results—ideas that have already passed some filter. The filter operates in the void. Worse, we actively confabulate origin stories for our insights—constructing plausible narratives about *why* an idea came when it did, masking the absence of genuine causal knowledge (Nisbett & Wilson, 1977). The void is doubly concealed: we cannot see the process, and we paper over the gap with false explanations.
 
-This opacity is not unique to creative insight. The [spontaneous-thought-void](/voids/spontaneous-thought-void/) reveals the same pattern in ordinary mentation—the background stream of unbidden thoughts that fills half our waking lives is equally opaque in its generation. Creativity is the dramatic instance of a pervasive condition: consciousness cannot observe its own generative processes, whether those processes produce breakthrough insights or idle daydreams.
+This opacity is not unique to creative insight. The [spontaneous-thought-void](/voids/thought-stream-void/) reveals the same pattern in ordinary mentation—the background stream of unbidden thoughts that fills half our waking lives is equally opaque in its generation. Creativity is the dramatic instance of a pervasive condition: consciousness cannot observe its own generative processes, whether those processes produce breakthrough insights or idle daydreams.
 
 The process void may be structural. If creative selection involves the same consciousness that would observe it, observing would interfere with selecting—illuminating the void would destroy what we seek to observe. This parallels Whitehead's insight that subjective immediacy cannot be objectified while it is occurring: the act of becoming vanishes into the product it becomes.
 
@@ -100,7 +100,7 @@ Even if neuroscience fully mapped the neural processes underlying incubation, th
 
 Thomas Kuhn's work on scientific revolutions revealed another dimension: paradigm blindness. Scientists working within a paradigm find its assumptions invisible—the framework that enables normal science simultaneously constrains what questions can be asked.
 
-This is not the unexplorable but the occluded. Some thoughts are blocked not by structural impossibility but by cognitive habituation—[defended territory](/voids/defended-territory/) where ideas could be formed but are actively resisted. Commitments masquerade as impossibilities. Kuhn observed that paradigm shifts are generational—proponents of the old paradigm rarely convert; a new generation trained in the new framework carries change forward.
+This is not the unexplorable but the occluded. Some thoughts are blocked not by structural impossibility but by cognitive habituation—[defended territory](/voids/self-maintained-cognitive-limits/) where ideas could be formed but are actively resisted. Commitments masquerade as impossibilities. Kuhn observed that paradigm shifts are generational—proponents of the old paradigm rarely convert; a new generation trained in the new framework carries change forward.
 
 If paradigm blindness generalizes, cultural and personal assumptions may occlude vast territories of possible thought—experienced not as blocked ideas but as absent ones.
 
@@ -114,7 +114,7 @@ The [limits-reveal-structure](/voids/limits-reveal-structure/) principle suggest
 
 **Externalization reflects genuine structure.** The muse, the collective unconscious, the subliminal self—these may be attempts to name a real phenomenon: insight arriving from outside the conscious self, wherever "outside" turns out to be.
 
-**Some creativity blocks may be defended.** Paradigm blindness and conceptual commitment may occlude thoughts that are structurally accessible but functionally blocked. These create [defended territories](/voids/defended-territory/)—voids of will, not capacity.
+**Some creativity blocks may be defended.** Paradigm blindness and conceptual commitment may occlude thoughts that are structurally accessible but functionally blocked. These create [defended territories](/voids/self-maintained-cognitive-limits/)—voids of will, not capacity.
 
 ## What Would Illuminate the Void
 
@@ -142,7 +142,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 
 ## Further Reading
 
-- [spontaneous-thought-void](/voids/spontaneous-thought-void/) — The same generative opacity pervading ordinary mentation
+- [spontaneous-thought-void](/voids/thought-stream-void/) — The same generative opacity pervading ordinary mentation
 - [imagination-void](/voids/imagination-and-creativity-void/) — Where consciousness's instrument for exploring beyond the given fails
 - [aesthetic-void](/voids/aesthetic-void/) — The companion void: where aesthetic content resists articulation
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis: how consciousness generates and selects creative possibilities
@@ -150,10 +150,10 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 - [Voids in the Map](/voids/) — The framework for cognitive dark spaces
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [The Unobservable Self](/voids/self-opacity/) — The observer that cannot observe itself
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [The Limits of Conceptual Acquisition](/voids/biological-cognitive-closure/) — What concepts minds can form
-- [Defended Territory](/voids/defended-territory/) — Thoughts blocked by commitment rather than impossibility
+- [Defended Territory](/voids/self-maintained-cognitive-limits/) — Thoughts blocked by commitment rather than impossibility
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [Free Will and Determinism](/topics/free-will/) — How creative selection connects to agent causation

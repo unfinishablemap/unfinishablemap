@@ -112,7 +112,7 @@ The empirical evidence cannot yet distinguish these interpretations. The phenome
 
 ## The Void as Unexplorable
 
-Unlike the [past-self void](/voids/inaccessible-past/) (which concerns identity) or [thoughts that slip away](/voids/thoughts-that-slip-away/) (which concerns retention), the memory void concerns whether there is anything there to access. If past qualia do not persist, the void is not a barrier between us and something—it is the absence of that something.
+Unlike the [past-self void](/voids/inaccessible-past/) (which concerns identity) or [thoughts that slip away](/voids/thought-stream-void/) (which concerns retention), the memory void concerns whether there is anything there to access. If past qualia do not persist, the void is not a barrier between us and something—it is the absence of that something.
 
 This makes the memory void primarily **unexplorable** rather than **occluded**. There may be no hidden content, no preserved experience waiting to be accessed. The original phenomenal state may simply cease when experience passes. What we call "memory" would then be construction from traces—a useful fiction, not a window to the past.
 
@@ -148,7 +148,7 @@ None of these conditions has been met. Current evidence supports the reconstruct
 - [past-self-void](/voids/inaccessible-past/) — The related void concerning personal identity over time
 - [temporal-void](/voids/temporal-void/) — Why we can reconstruct the past but only imagine the future
 - [other-minds-void](/voids/other-minds-void/) — The structural inaccessibility of other present minds
-- [thoughts-that-slip-away](/voids/thoughts-that-slip-away/) — Related phenomenology of cognitive limitation
+- [thoughts-that-slip-away](/voids/thought-stream-void/) — Related phenomenology of cognitive limitation
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — How memory systems map onto levels of consciousness

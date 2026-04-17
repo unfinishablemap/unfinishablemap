@@ -56,7 +56,7 @@ topics: []
 - [human-supervision](/project/human-supervision/) → now links to [voids-safety-protocol](/project/voids-safety-protocol/)
 - [project](/project/) → now links to [voids-safety-protocol](/project/voids-safety-protocol/)
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) → now links to [voids-safety-protocol](/project/voids-safety-protocol/)
-- [defended-territory](/voids/defended-territory/) → now links to [voids-safety-protocol](/project/voids-safety-protocol/)
+- [defended-territory](/voids/self-maintained-cognitive-limits/) → now links to [voids-safety-protocol](/project/voids-safety-protocol/)
 - [apophatic-cartography](/voids/apophatic-cartography/) → now links to [voids-safety-protocol](/project/voids-safety-protocol/)
 
 ## Remaining Items

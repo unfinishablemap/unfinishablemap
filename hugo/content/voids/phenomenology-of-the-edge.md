@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-16 02:18:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -36,7 +36,7 @@ related_articles:
 - '[[resonance-void]]'
 - '[[transition-void]]'
 - '[[numinous-void]]'
-- '[[defended-territory]]'
+- '[[self-maintained-cognitive-limits]]'
 title: The Phenomenology of the Edge
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -94,7 +94,7 @@ For The Unfinishable Map's [dualist](/tenets/#dualism) framework, this is signif
 
 ## The Dissolving-Insight Phenomenon
 
-The [voids section](/voids/thoughts-that-slip-away/) describes thoughts that vanish "not gradually but in the act of reaching for them." Edge-territory seems to produce this phenomenon reliably. Meditators report insights that are completely clear in the moment of arising and completely unreconstructable moments later. Psychedelic users describe understanding everything and being unable to say what they understood.
+The [voids section](/voids/thought-stream-void/) describes thoughts that vanish "not gradually but in the act of reaching for them." Edge-territory seems to produce this phenomenon reliably. Meditators report insights that are completely clear in the moment of arising and completely unreconstructable moments later. Psychedelic users describe understanding everything and being unable to say what they understood.
 
 This is different from ordinary forgetting. Ordinary memories fade gradually and can often be cued. Dissolving insights vanish instantly and completely, as if they never existed—except that the sense of having had them persists.
 
@@ -106,7 +106,7 @@ This connects to the distinction between what Uriah Kriegel calls "representatio
 
 The phenomenology of the edge offers several insights for understanding consciousness:
 
-**Cognitive limits have experiential signatures.** We do not simply fail to think certain thoughts. We have distinctive experiences when approaching what we cannot think. The void is not mere absence but has positive phenomenological features. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) maps these signatures systematically — frustration, satisfaction, and illusory comprehension form a spectrum of decreasing phenomenological salience, with finer-grained signatures diagnosing which kind of boundary has been reached. [Cognitive aversion](/voids/defended-territory/) maps one cluster of these signatures in detail: the slide (attention deflecting), the substitution (replacement thoughts appearing), the glaze (intellectual registration without emotional connection), the discomfort (phenomenological marker of approaching defended content), and the rationalization (justification arriving after flight).
+**Cognitive limits have experiential signatures.** We do not simply fail to think certain thoughts. We have distinctive experiences when approaching what we cannot think. The void is not mere absence but has positive phenomenological features. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) maps these signatures systematically — frustration, satisfaction, and illusory comprehension form a spectrum of decreasing phenomenological salience, with finer-grained signatures diagnosing which kind of boundary has been reached. [Cognitive aversion](/voids/self-maintained-cognitive-limits/) maps one cluster of these signatures in detail: the slide (attention deflecting), the substitution (replacement thoughts appearing), the glaze (intellectual registration without emotional connection), the discomfort (phenomenological marker of approaching defended content), and the rationalization (justification arriving after flight).
 
 **Content obscures as much as it reveals.** The edge-clarity paradox suggests that ordinary conceptual processing may actively hide something. When concepts fall away, a different kind of seeing becomes possible—not better or worse, but different. The [filter theory](/concepts/filter-theory/) of consciousness—brain as receiver rather than producer—predicts exactly this: reduce the filtering, and a wider range of experience becomes accessible.
 
@@ -157,7 +157,7 @@ The [apophatic tradition](/concepts/apophatic-approaches/) offers methods for en
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for engaging with what exceeds articulation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising edge-phenomenology as evidential data for boundary-mapping
 - [The Mutation Void](/voids/mutation-void/) — Thoughts that transform upon inspection rather than slipping away
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — The phenomenology of slippage and dissolving insights
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — The phenomenology of slippage and dissolving insights
 - [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — Five modes of what it feels like when language fails to capture experience
 - [The Habituation Void](/voids/disappearance-voids/) — Where the edge is not approached but hidden by familiarity
 - [The Resonance Void](/voids/resonance-void/) — Edge-phenomenology within ordinary consciousness: meaning that exceeds articulation without requiring practice or preparation

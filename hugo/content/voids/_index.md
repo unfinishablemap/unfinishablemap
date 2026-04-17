@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-17 09:41:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -125,9 +125,9 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Plurality Void](/voids/plurality-void/) — Why we cannot conceive being multiple subjects at once
 - [The Resolution Void](/voids/resolution-void/) — The six-order-of-magnitude compression between available and accessed information
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness cannot bootstrap itself beyond its own cognitive architecture
-- [The Spontaneous Thought Void](/voids/spontaneous-thought-void/) — Why consciousness cannot observe generation of unbidden thoughts
+- [The Spontaneous Thought Void](/voids/thought-stream-void/) — Why consciousness cannot observe generation of unbidden thoughts
 - [Necessary Opacity](/voids/necessary-opacity/) — Why consciousness cannot verify its own accuracy, and why exposing that opacity destabilises the system
-- [The Complicity Void](/voids/complicity-void/) — Whether consciousness actively participates in maintaining its own limits
+- [Self-Maintained Cognitive Limits](/voids/self-maintained-cognitive-limits/) — Whether consciousness actively participates in maintaining its own limits, through defence mechanisms, motivated avoidance, and structural complicity
 - [The Obviousness Void](/voids/obviousness-void/) — How the feeling of self-evidence terminates inquiry before it begins
 - [The Interested Party Void](/voids/interested-party-void/) — Why consciousness cannot neutrally investigate its own nature—it has existential stakes in every answer
 - [The Predictive Construction Void](/voids/predictive-construction-void/) — Why consciousness cannot determine the boundary between what it constructs and what it receives
@@ -135,8 +135,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 ### Phenomenology of Limits
 
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
-- [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Mechanisms of cognitive slippage
-- [Defended Territory](/voids/defended-territory/) — Thoughts we systematically flee
+- [Thoughts That Slip Away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
 - [Attention and the Voids of Consciousness](/voids/attention-and-consciousness/) — How attending generates unattendable territory, and how disordered attention creates unmappable voids
 - [The Disappearance Voids](/voids/disappearance-voids/) — How absorption, habituation, and fatigue each erase phenomenal content through distinct mechanisms
 - [The Expertise Occlusion](/voids/expertise-occlusion/) — How mastery actively defends its own opacity
@@ -186,7 +185,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Question as Evidence](/voids/questioning-as-evidence/) — What our questions reveal
 - [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
 - [Alien Minds as Void Explorers](/voids/alien-minds-void-explorers/) — Non-human perspectives on cognitive space
-- [Defended Territory](/voids/defended-territory/) — Could some thoughts be actively blocked?
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [The Asymmetry Between Remembering and Anticipating](/voids/temporal-void/) — Why past and future access differs
 
