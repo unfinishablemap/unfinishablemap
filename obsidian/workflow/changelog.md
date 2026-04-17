@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 08:19:00+00:00
+ai_modified: 2026-04-17 08:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 08:40 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section searched**: voids/ (99/100 cap, most pressured section)
+- **Clusters evaluated**: 6 iterations — affective/appetitive/valence/emotional-epistemology; biological/embodiment/formal/collective cognitive-limits series; thoughts-that-slip-away / disappearance-voids; indexical / ownership / involuntariness / thrownness; acquaintance / second-person; causal-interface / interface-formalization
+- **Reason**: All examined articles are deliberately well-differentiated, with explicit disambiguation language and cross-references. The cognitive-limits series forms an intentional taxonomy (biological vs embodiment vs formal vs collective sources). Each candidate merge would flatten deliberate nuance. The voids section appears carefully curated with sibling articles staking distinct philosophical territories.
 
 ## 2026-04-17 08:25 UTC - refine-draft
 - **Status**: Success
