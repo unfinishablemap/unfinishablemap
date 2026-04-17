@@ -4,8 +4,8 @@ description: "If information is physically fundamental, consciousness may sit at
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-19T23:02:00+00:00
-last_deep_review: 2026-03-17T07:45:00+00:00
+ai_modified: 2026-04-17T08:19:00+00:00
+last_deep_review: 2026-04-17T08:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -89,7 +89,7 @@ Landauer's principle has a provocative implication for consciousness. Landauer s
 
 This does not reduce consciousness to thermodynamics. The Map's position is that consciousness is not identical to neural information processing—it operates *through* neural information processing via [[quantum-consciousness|quantum interaction]]. But the neural systems through which consciousness acts are subject to Landauer's constraints. The brain cannot process unlimited information for free, and this bounds the bandwidth available to the [[consciousness-and-causal-powers|mind-matter interface]].
 
-This may explain why conscious experience is limited in scope. We are aware of a tiny fraction of the information our brains process. The thermodynamic cost of neural computation—combined with whatever additional constraints the quantum interface imposes—makes consciousness naturally bandwidth-limited. The narrowness of [[attention-as-interface|attention]] may reflect not a failure of evolution's design but a physical constraint on how much information the conscious interface can handle.
+This may explain why conscious experience is limited in scope. We are aware of a tiny fraction of the information our brains process. The thermodynamic cost of neural computation—combined with whatever additional constraints the quantum interface imposes—makes consciousness naturally bandwidth-limited. The narrowness of [[attention-as-interface|attention]] may reflect a physical constraint on how much information the conscious interface can handle, rather than a failure of evolution's design.
 
 ## The Black Hole Information Paradox as Diagnostic
 
