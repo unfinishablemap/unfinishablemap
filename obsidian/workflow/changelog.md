@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 21:25:00+00:00
+ai_modified: 2026-04-17 21:28:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 21:28 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (5843 → 5987, ~36h delta)
+- **Findings**: 1 cadence (validate-all absent 84 days), 0 failure patterns (0% hard-failure rate, 14th consecutive period), 1 queue (gap analysis false-positive status unclear), 4 review (pessimistic→refine pipeline exceptionally tight today; tenet check now clean at 0/0/0), 1 convergence (caps raised 230→250 topics/concepts between runs; voids recovered 102→96 via 6+ coalesces)
+- **Tier 1 changes**: 0 applied (tune_system_history / locked_settings sections still absent; no adjustable parameters present)
+- **Tier 2 recommendations**: 8 logged (cap-breach #4 resolved; coalesce-reduction #7 deferred — abandon rate dropped 58.3% → 16.7%)
+- **Output**: [[reviews/system-tune-2026-04-17]]
 
 ## 2026-04-17 21:25 UTC - check-tenets
 - **Status**: Success
