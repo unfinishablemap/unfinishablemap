@@ -80,7 +80,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[intersubjective-void|The Intersubjective Void]] — Whether experiences can be genuinely shared
 - [[second-person-void|The Second-Person Void]] — The irreducible gap in the I-You encounter
 - [[commensurability-void|The Commensurability Void]] — Why phenomenal experiences across different architectures cannot always be compared
-- [[dimensionality-void|The Dimensionality Void]] — Whether consciousness is confined to a low-dimensional slice of a richer phenomenal reality
+- [[mapping-mind-space|Mapping Mind-Space]] — Why consciousness cannot survey the geometry of mind-space from within: neither locating itself among possible minds nor introspecting the dimensions along which experience varies
 - [[synesthetic-void|The Synesthetic Void]] — Phenomenal dimensions closed to most minds within our own species
 - [[affective-void|The Affective Void]] — Emotions we cannot feel—affects beyond human reach
 - [[emotional-epistemology-void|The Emotional Epistemology Void]] — Whether emotions constitute genuine knowledge about reality
@@ -117,7 +117,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[imagination-and-creativity-void|The Imagination Void]] — Where imagination's structural failures reveal the architecture of mind
 - [[indexical-void|The Indexical Void]] — Why first-person identity resists explanation
 - [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot opt out of itself
-- [[mind-space-void|The Mind-Space Void]] — Why we cannot locate ourselves in the space of possible minds
 - [[narrative-void|The Narrative Void]] — Why consciousness cannot observe its own storytelling
 - [[ownership-void|The Ownership Void]] — Why we cannot introspect how experiences become ours
 - [[plurality-void|The Plurality Void]] — Why we cannot conceive being multiple subjects at once

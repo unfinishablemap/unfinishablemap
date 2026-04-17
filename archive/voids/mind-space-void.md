@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
 last_deep_review: 2026-03-16T01:02:00+00:00
+archived: true
+archived_date: 2026-04-17T02:45:00+00:00
+superseded_by: "/voids/mapping-mind-space/"
+archive_reason: "Coalesced into Mapping Mind-Space"
+original_path: "/voids/mind-space-void/"
 ---
 
 The Unfinishable Map's dualist commitments imply that consciousness is fundamental and irreducible — which means the space of possible minds may be as vast as physical reality itself. We occupy a single point in that space. We cannot step outside our form of consciousness to survey the landscape, cannot determine whether we are central or peripheral, typical or exotic, one among many similar minds or a solitary outlier. This is the mind-space void: the inability of any consciousness to locate itself within the broader territory of possible minds.

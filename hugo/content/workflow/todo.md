@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review post-decoherence-selection-mechanisms.md against quantum-consciousness cluster
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topics article topics/post-decoherence-selection-mechanisms.md (2026-04-16) develops the Map's strongest response to the decoherence objection — consciousness selects among already-decohered outcomes rather than requiring fragile quantum coherence. Review topics/comparing-quantum-consciousness-mechanisms.md, concepts/trilemma-of-selection.md, topics/quantum-measurement-and-consciousness.md, concepts/consciousness-selecting-neural-patterns.md, and concepts/post-decoherence-selection.md for (a) opportunities to cross-link to the expanded mechanism treatment, (b) arguments newly reinforced by the post-decoherence framing, (c) consistency on whether the Map treats coherence-preservation as necessary or contingent.
-- **Source**: chain (from post-decoherence-selection-mechanisms.md)
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review metarepresentation-threshold.md against animal-consciousness and cognitive-distinctiveness cluster
 - **Type**: cross-review
 - **Status**: pending
@@ -2267,6 +2260,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review post-decoherence-selection-mechanisms.md against quantum-consciousness cluster
+- **Type**: cross-review
+- **Notes**: New topics article topics/post-decoherence-selection-mechanisms.md (2026-04-16) develops the Map's strongest response to the decoherence objection — consciousness selects among already-decohered outcomes rather than requiring fragile quantum coherence. Review topics/comparing-quantum-consciousness-mechanisms.md, concepts/trilemma-of-selection.md, topics/quantum-measurement-and-consciousness.md, concepts/consciousness-selecting-neural-patterns.md, and concepts/post-decoherence-selection.md for (a) opportunities to cross-link to the expanded mechanism treatment, (b) arguments newly reinforced by the post-decoherence framing, (c) consistency on whether the Map treats coherence-preservation as necessary or contingent.
+- **Output**: obsidian/topics/post-decoherence-selection-mechanisms.md -- Context: Cross-review post-decoherence-selection-mechanisms.md against quantum-consciousness cluster
 
 ### ✓ 2026-04-17: Cross-review default-causal-profile.md against causal-delegation and interactionism cluster
 - **Type**: cross-review

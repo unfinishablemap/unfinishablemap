@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced mind-space/dimensionality voids
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-17 merged mind-space-void.md and dimensionality-void.md into voids/mapping-mind-space.md. Update wikilinks in: obsidian/voids/commensurability-void.md, obsidian/voids/recognition-void.md, obsidian/voids/limits-reveal-structure.md, obsidian/voids/biological-cognitive-closure.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/alien-minds-void-explorers.md, obsidian/topics/evolutionary-case-for-quantum-neural-effects.md. Replace `[[mind-space-void]]` and `[[dimensionality-void]]` with `[[mapping-mind-space]]`, revising link text to suit context. Archive URLs continue to work.
+- **Source**: coalesce
+- **Generated**: 2026-04-17
+
 ### P2: Cross-review metarepresentation-threshold.md against animal-consciousness and cognitive-distinctiveness cluster
 - **Type**: cross-review
 - **Status**: pending

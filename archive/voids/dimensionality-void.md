@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated:
 last_deep_review: 2026-04-09T20:56:00+00:00
+archived: true
+archived_date: 2026-04-17T02:45:00+00:00
+superseded_by: "/voids/mapping-mind-space/"
+archive_reason: "Coalesced into Mapping Mind-Space"
+original_path: "/voids/dimensionality-void/"
 ---
 
 The Unfinishable Map's exploration of cognitive limits has catalogued many voids — territories where thought cannot go or is blocked from going. Most concern facts we cannot know or properties we cannot detect. The dimensionality void is different. It concerns *axes of variation* we cannot represent — entire dimensions of phenomenal experience that our cognitive architecture may be structurally unable to introspect. If such dimensions exist, we are not merely ignorant of certain experiences. We lack the capacity to conceive what kinds of experiences we are missing.
