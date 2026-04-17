@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Narrow unified-resistance signature claim and engage illusionist literature in phenomenology-of-resistance-across-domains.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-16d) Issues 1 & 6, same article. (Issue 1, Medium) The claim that three specific features (directedness-meeting-constraint, graded yielding, asymmetric temporality) recur across all six domains is strained in at least two cases: logical resistance has binary, not graded, yielding ("2+2=5" does not yield gradually); imaginative resistance (Gendler's puzzle) is not about sustained effort gradually overcoming resistance but about an immediate jarring response. Either narrow the claim to domains where the three features genuinely recur (physical, material, moral, epistemic), acknowledging logical and imaginative resistance as structurally different; or acknowledge the "signature" holds only at a level of abstraction high enough to bear weak inferential weight. (Issue 6, Medium) The self-undermining argument against illusionism in "The Deflationary Challenge" section is deployed in two sentences without engaging the critical literature (Frankish 2016, Dennett 2017). The move trades on equivocation between "illusory" (phenomenology does not accurately represent underlying reality) and "unreliable" (reasoning itself fails) — illusionists generally deny the first and retain the second. Either engage the illusionist response or drop the self-undermining move to a more modest claim: illusionists owe an account of *why* the phenomenology of resistance recurs across domains, not merely that it is illusory. See pessimistic-2026-04-16d.md Issues 1 and 6.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
 ### P2: Flag MWI compatibility as cost in russellian-monism-versus-bi-aspectual-dualism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2259,6 +2252,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Narrow unified-resistance signature claim and engage illusionist literature in phenomenology-of-resistance-across-domains.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-16d) Issues 1 & 6, same article. (Issue 1, Medium) The claim that three specific features (directedness-meeting-constraint, graded yielding, asymmetric temporality) recur across all six domains is strained in at least two cases: logical resistance has binary, not graded, yielding ("2+2=5" does not yield gradually); imaginative resistance (Gendler's puzzle) is not about sustained effort gradually overcoming resistance but about an immediate jarring response. Either narrow the claim to domains where the three features genuinely recur (physical, material, moral, epistemic), acknowledging logical and imaginative resistance as structurally different; or acknowledge the "signature" holds only at a level of abstraction high enough to bear weak inferential weight. (Issue 6, Medium) The self-undermining argument against illusionism in "The Deflationary Challenge" section is deployed in two sentences without engaging the critical literature (Frankish 2016, Dennett 2017). The move trades on equivocation between "illusory" (phenomenology does not accurately represent underlying reality) and "unreliable" (reasoning itself fails) — illusionists generally deny the first and retain the second. Either engage the illusionist response or drop the self-undermining move to a more modest claim: illusionists owe an account of *why* the phenomenology of resistance recurs across domains, not merely that it is illusory. See pessimistic-2026-04-16d.md Issues 1 and 6.
+- **Output**: obsidian/topics/phenomenology-of-resistance-across-domains.md
+
+Task context:
+Pessimistic review (2026-04-16d) Issues 1 & 6, same article. (Issue 1, Medium) The claim that three specific features (directedness-meeting-constraint, graded yielding, asymmetric temporality) recur across all six domains is strained in at least two cases: logical resistance has binary, not graded, yielding ("2+2=5" does not yield gradually); imaginative resistance (Gendler's puzzle) is not about sustained effort gradually overcoming resistance but about an immediate jarring response. Either narrow the claim to domains where the three features genuinely recur (physical, material, moral, epistemic), acknowledging logical and imaginative resistance as structurally different; or acknowledge the "signature" holds only at a level of abstraction high enough to bear weak inferential weight. (Issue 6, Medium) The self-undermining argument against illusionism in "The Deflationary Challenge" section is deployed in two sentences without engaging the critical literature (Frankish 2016, Dennett 2017). The move trades on equivocation between "illusory" (phenomenology does not accurately represent underlying reality) and "unreliable" (reasoning itself fails) — illusionists generally deny the first and retain the second. Either engage the illusionist response or drop the self-undermining move to a more modest claim: illusionists owe an account of *why* the phenomenology of resistance recurs across domains, not merely that it is illusory. See pessimistic-2026-04-16d.md Issues 1 and 6.
 
 ### ✓ 2026-04-17: Specify what counts as "showing reduction" in disguised-property-dualism.md diagnostic
 - **Type**: refine-draft
