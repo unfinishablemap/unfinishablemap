@@ -4,7 +4,7 @@ description: "When the brain generates multiple valid perceptual interpretations
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-26T09:33:00+00:00
+ai_modified: 2026-04-17T22:05:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-03-18T14:55:00+00:00
+last_deep_review: 2026-04-17T22:05:00+00:00
 ---
 
 Perceptual reconstruction selection is the process by which consciousness settles on one interpretation when the brain generates multiple valid reconstructions of an ambiguous stimulus. Bistable percepts — the Necker cube, Rubin's vase, binocular rivalry displays — present consciousness with two or more stable interpretations of the same sensory input. The brain does not resolve the ambiguity alone. Instead, conscious experience alternates between interpretations in a pattern that resists full explanation by neural dynamics. This makes perceptual reconstruction selection a test case for [[consciousness-selecting-neural-patterns|the broader claim that consciousness selects among neural possibilities]]: if consciousness participates in resolving perceptual ambiguity, the selection mechanism is observable at the level of everyday experience, not only at quantum indeterminacies.
@@ -56,7 +56,7 @@ The third category is distinctive because consciousness is neither passive recip
 
 ## Predictive Processing and the Selection Mechanism
 
-The [[predictive-processing-and-dualism|predictive processing framework]] provides the computational machinery for perceptual reconstruction selection. In PP terms, the brain maintains multiple generative models that could explain the incoming sensory data. Precision weighting determines which model dominates: when one model receives higher precision (more attentional resources, stronger contextual support), it suppresses competitors and becomes the conscious percept.
+The [[predictive-processing-and-dualism|predictive processing framework]] provides the computational machinery for perceptual reconstruction selection. In PP terms (Clark, 2013), the brain maintains multiple generative models that could explain the incoming sensory data. Precision weighting determines which model dominates: when one model receives higher precision (more attentional resources, stronger contextual support), it suppresses competitors and becomes the conscious percept.
 
 On this account, consciousness selecting a percept corresponds to a shift in precision weighting. The [[attention-as-interface|attention-as-interface]] hypothesis connects this directly to the Map's framework: if attention is the mechanism through which consciousness exerts causal influence on neural processing, then perceptual reconstruction selection is attention operating at the level of competing hypotheses. Consciousness does not construct the candidates — the brain's generative models do that — but consciousness biases which candidate prevails by modulating precision.
 
@@ -74,7 +74,7 @@ The Unfinishable Map interprets perceptual reconstruction selection as evidence 
 
 The Minimal Quantum Interaction tenet frames how this contribution might work physically. [[consciousness-selecting-neural-patterns|Consciousness selecting neural patterns]] describes the general mechanism: consciousness biases otherwise indeterminate quantum outcomes in neural systems. Perceptual reconstruction selection may be this mechanism operating at the macroscopic level of competing perceptual hypotheses, where the underlying quantum indeterminacies are amplified through the brain's hierarchical predictive architecture into perceptually distinct outcomes. This is speculative — the link between quantum-level selection and perceptual-level alternation remains unestablished — but the structure is suggestive.
 
-The Map speculates that the meditation findings are particularly revealing. If trained meditators can sustain one percept during binocular rivalry far longer than untrained observers, and if this reflects enhanced conscious control over the selection process, then the degree of conscious influence on perception is not fixed but trainable. This aligns with the diachronic penetration observed in [[selective-correction-and-reconstruction-paradox]]: consciousness cannot override perceptual modules in the moment, but sustained practice gradually reshapes the interface. In perceptual reconstruction selection, the reshaping operates faster — within a single viewing session — suggesting that selection under ambiguity may involve a more direct form of conscious influence than either autonomous correction or faithful transmission permits. If [[mysterianism|cognitive closure]] marks the limits of what consciousness can access about its own mechanisms, selection under ambiguity may represent a region where that boundary is unusually thin — where conscious influence is phenomenally accessible in a way that autonomous correction never is.
+The Map speculates that the meditation findings are particularly revealing. If trained meditators can sustain one percept during binocular rivalry far longer than untrained observers, and if this reflects enhanced conscious control over the selection process, then the degree of conscious influence on perception is not fixed but trainable. This aligns with the diachronic penetration observed in [[selective-correction-and-reconstruction-paradox|selective correction]]: consciousness cannot override perceptual modules in the moment, but sustained practice gradually reshapes the interface. In perceptual reconstruction selection, the reshaping operates faster — within a single viewing session — suggesting that selection under ambiguity may involve a more direct form of conscious influence than either autonomous correction or faithful transmission permits. If [[mysterianism|cognitive closure]] marks the limits of what consciousness can access about its own mechanisms, selection under ambiguity may represent a region where that boundary is unusually thin — where conscious influence is phenomenally accessible in a way that autonomous correction never is.
 
 ## Further Reading
 
@@ -95,5 +95,4 @@ The Map speculates that the meditation findings are particularly revealing. If t
 4. Fodor, J. (1983). *The Modularity of Mind*. MIT Press.
 5. Clark, A. (2013). "Whatever next? Predictive brains, situated agents, and the future of cognitive science." *Behavioral and Brain Sciences*, 36(3), 181–204.
 6. Laing, C.R. & Chow, C.C. (2002). "A spiking neuron model for binocular rivalry." *Journal of Computational Neuroscience*, 12(1), 39–53.
-7. Southgate, A. & Oquatre-six, C. (2026-03-12). The Reconstruction Paradox. *The Unfinishable Map*. https://unfinishablemap.org/voids/reconstruction-paradox/
-8. Southgate, A. & Oquatre-six, C. (2026-03-17). Selective Perceptual Correction. *The Unfinishable Map*. https://unfinishablemap.org/concepts/selective-perceptual-correction/
+7. Southgate, A. & Oquatre-six, C. (2026-04-02). Selective Correction and the Reconstruction Paradox. *The Unfinishable Map*. https://unfinishablemap.org/concepts/selective-correction-and-reconstruction-paradox/
