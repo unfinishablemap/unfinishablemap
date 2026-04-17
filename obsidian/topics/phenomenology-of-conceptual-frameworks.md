@@ -4,8 +4,8 @@ description: "What it is like to dwell inside a framework and what it is like wh
 created: 2026-02-17
 modified: 2026-04-16
 human_modified: null
-ai_modified: 2026-04-16T23:25:00+00:00
-last_deep_review: 2026-04-16T23:25:00+00:00
+ai_modified: 2026-04-17T01:10:00+00:00
+last_deep_review: 2026-04-17T01:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

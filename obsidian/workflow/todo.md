@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology-of-conceptual-frameworks.md against framework and intellectual-life cluster
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: topics/phenomenology-of-conceptual-frameworks.md was coalesced on 2026-04-16 from framework-inhabitation + conceptual-change and subsequently condensed (4485→target words), but never cross-reviewed against the articles it merged from or the surrounding cluster. Review voids/framework-void.md, voids/language-thought-boundary.md, topics/phenomenology-of-intellectual-life.md, topics/phenomenology-of-philosophical-disagreement.md, and concepts/cognitive-phenomenology.md for (a) cross-linking opportunities, (b) wikilinks still pointing to the archived framework-inhabitation/conceptual-change that should redirect to the unified article, (c) consistency of the "gestalt shift" and "crisis" framing used across the cluster.
-- **Source**: chain (from phenomenology-of-conceptual-frameworks.md coalesce)
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review default-causal-profile.md against causal-delegation and interactionism cluster
 - **Type**: cross-review
 - **Status**: pending
@@ -2280,6 +2273,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review phenomenology-of-conceptual-frameworks.md against framework and intellectual-life cluster
+- **Type**: cross-review
+- **Notes**: topics/phenomenology-of-conceptual-frameworks.md was coalesced on 2026-04-16 from framework-inhabitation + conceptual-change and subsequently condensed (4485→target words), but never cross-reviewed against the articles it merged from or the surrounding cluster. Review voids/framework-void.md, voids/language-thought-boundary.md, topics/phenomenology-of-intellectual-life.md, topics/phenomenology-of-philosophical-disagreement.md, and concepts/cognitive-phenomenology.md for (a) cross-linking opportunities, (b) wikilinks still pointing to the archived framework-inhabitation/conceptual-change that should redirect to the unified article, (c) consistency of the "gestalt shift" and "crisis" framing used across the cluster.
+- **Output**: obsidian/topics/phenomenology-of-conceptual-frameworks.md -- Context: Cross-review phenomenology-of-conceptual-frameworks.md against framework and intellectual-life cluster
 
 ### ✓ 2026-04-17: Cross-review framework-void.md and language-thought-boundary.md considering metaphor-void insights
 - **Type**: cross-review
