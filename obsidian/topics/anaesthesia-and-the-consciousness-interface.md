@@ -2,9 +2,9 @@
 title: "Anaesthesia and the Consciousness Interface"
 description: "Anaesthetic pharmacology maps the consciousness-brain interface with unexpected precision. Different agents disrupt different interface components, revealing a structured, multi-layered connection between mind and matter."
 created: 2026-02-23
-modified: 2026-03-26
+modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-05T13:02:00+00:00
+ai_modified: 2026-04-17T13:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,12 +34,13 @@ related_articles:
   - "[[epistemology-of-other-minds-under-dualism]]"
   - "[[testing-consciousness-collapse]]"
   - "[[consciousness-and-causal-powers]]"
+  - "[[anesthesia-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-04-05T13:02:00+00:00
+last_deep_review: 2026-04-17T13:56:00+00:00
 coalesced_from:
   - "/topics/anesthesia-and-the-filter-argument/"
   - "/topics/anaesthetic-recovery-and-the-filter-problem/"
@@ -47,7 +48,7 @@ coalesced_from:
 
 Anaesthesia does not simply switch consciousness off. Different anaesthetic agents disrupt different components of the consciousness-brain interface, and the pharmacological specificity of these disruptions amounts to a molecular map of how consciousness connects to neural activity. Anaesthesia produces at least three distinct consciousness states — connected consciousness, disconnected consciousness, and unconsciousness — with transitions [[degrees-of-consciousness|graded rather than binary]]. The Unfinishable Map's [[interactionist-dualism|interactionist framework]] predicts exactly this kind of structured, multi-layered interface.
 
-Propofol, ketamine, xenon, sevoflurane, and nitrous oxide each target different molecular sites, disrupt different neural dynamics, and produce different phenomenological outcomes — yet all render patients behaviourally unresponsive. The pattern of dissociations, particularly cases where consciousness persists while access and control are severed, fits naturally under the Map's [[filter-theory|filter theory]]: the consciousness-brain interface has distinct, separable components that can be individually disrupted.
+Propofol, ketamine, xenon, sevoflurane, and nitrous oxide each target different molecular sites, disrupt different neural dynamics, and produce different phenomenological outcomes — yet all render patients behaviourally unresponsive. Cases where consciousness persists while access and control are severed fit the Map's [[filter-theory|filter theory]]: the interface has distinct, separable components that can be individually disrupted. The first-person side of the interval — an interior the subject cannot enter or retrieve, stripped even of the duration-residue sleep leaves behind — is treated as the [[anesthesia-void]].
 
 ## The Meyer-Overton Correlation and Its Limits
 
@@ -193,6 +194,7 @@ These findings remain speculative, but if anaesthetics work partly by disrupting
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis: anaesthetic dissociations compared with four other altered states in a convergence matrix
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the decisive test case of pain asymbolia
 - [[testing-consciousness-collapse]] — How pharmacological channel mapping could inform consciousness-collapse experimental design
+- [[anesthesia-void]] — The first-person epistemic structure of the anaesthetic interval: the gap as void rather than mechanism
 
 ## References
 

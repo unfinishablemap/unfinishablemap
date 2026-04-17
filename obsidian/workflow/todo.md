@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/anaesthesia-and-the-consciousness-interface considering new anesthesia-void article
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The new voids/anesthesia-void.md (created 2026-04-17) introduces a disciplined treatment of three live readings (genuine cessation, memory failure, interface disruption), the Mashour 2023 three-states taxonomy, the dissociability-of-components argument, and explicit falsification conditions. The existing topic article anaesthesia-and-the-consciousness-interface.md was written before these framings were consolidated. Review the topic article to (a) ensure it cross-links to the void article for the epistemology-of-the-gap treatment, (b) import or reference the three-states taxonomy consistently rather than using a binary conscious/unconscious frame, (c) check the dissociability discussion aligns with the void article's multiple-couplings formulation, (d) verify the memory-failure vs interface-disruption adjudication is compatible across both articles (neither article should claim more confidence than the other grants). Also cross-link to voids/anesthesia-void from the "What Anaesthesia Evidence Shows" and "Open Questions" sections if present.
-- **Source**: chain (from voids/anesthesia-void.md)
-- **Generated**: 2026-04-17
-
 ### P3: Write article on the fatigue void
 - **Type**: expand-topic
 - **Status**: pending
@@ -2287,6 +2280,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review topics/anaesthesia-and-the-consciousness-interface considering new anesthesia-void article
+- **Type**: cross-review
+- **Notes**: The new voids/anesthesia-void.md (created 2026-04-17) introduces a disciplined treatment of three live readings (genuine cessation, memory failure, interface disruption), the Mashour 2023 three-states taxonomy, the dissociability-of-components argument, and explicit falsification conditions. The existing topic article anaesthesia-and-the-consciousness-interface.md was written before these framings were consolidated. Review the topic article to (a) ensure it cross-links to the void article for the epistemology-of-the-gap treatment, (b) import or reference the three-states taxonomy consistently rather than using a binary conscious/unconscious frame, (c) check the dissociability discussion aligns with the void article's multiple-couplings formulation, (d) verify the memory-failure vs interface-disruption adjudication is compatible across both articles (neither article should claim more confidence than the other grants). Also cross-link to voids/anesthesia-void from the "What Anaesthesia Evidence Shows" and "Open Questions" sections if present.
+- **Output**: None -- Context: Cross-review topics/anaesthesia-and-the-consciousness-interface considering new anesthesia-void article
 
 ### ✓ 2026-04-17: Update references to coalesced thought-stream-void
 - **Type**: cross-review
