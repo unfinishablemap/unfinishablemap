@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review voids/anesthesia-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 via expand-topic, never deep-reviewed. Voids article on the anaesthesia void — the impossibility of phenomenologically reporting on surgical-depth unconsciousness. Central to the Map's recent interface argument (load-bearing in perceptual-degradation-and-the-interface, disappearance-voids, altered-states-as-interface-evidence apex). Three cross-reviews and one pessimistic review have already engaged it, so this deep review should verify the composite picture rather than treat it as fresh — check that Mashour three-states taxonomy, memory-failure-dualism concession, and falsification conditions are internally coherent; verify cross-links to sleep-consciousness-void, death-void, disappearance-voids, consciousness-interface-development; confirm tenet alignment (Dualism, Bidirectional Interaction).
+- **Source**: chain (from expand-topic 2026-04-17)
+- **Generated**: 2026-04-17
+
+### P2: Deep review voids/boundary-and-projection.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 by coalescing boundary-void.md and projection-void.md, and subsequently condensed (3547 → target range). Never deep-reviewed. Voids article on the conjoined limits of self-other boundary-drawing and phenomenological projection. Verify the merge preserved load-bearing arguments from both source articles without redundancy, that the condensation did not drop essential distinctions, and that cross-references now resolve to the unified slug (earlier refine-draft updated wikilinks in minimal-consciousness-void, binding-void, plurality-void, death-void, self-opacity). Check tenet alignment and coherence with the voids taxonomy.
+- **Source**: chain (from coalesce 2026-04-17)
+- **Generated**: 2026-04-17
+
+### P2: Deep review voids/transit-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 by coalescing transition-void.md and initiation-void.md. Never deep-reviewed. Voids article on transit experiences — the phenomenology of crossings, thresholds, and initiations that resist retrospective phenomenal access. Verify the merge preserved the distinct contributions of both source articles, that the coalesced treatment addresses both ontological thresholds (initiation) and phenomenal gaps (transition) without blur, and that outbound cross-references work. Related pending P2 task (line ~2275) tracks inbound wikilink updates; this task handles the article itself. Check tenet alignment.
+- **Source**: chain (from coalesce 2026-04-16)
+- **Generated**: 2026-04-17
+
+### P2: Deep review voids/metaphor-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 via expand-topic from research/voids-metaphor-void-2026-03-20.md. Never deep-reviewed. Voids article on how every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Three cross-reviews have already touched it (framework-void, language-thought-boundary, apophatic-cartography, three-kinds-of-void). Deep review should verify the self-referential handling (the article necessarily uses metaphors to describe the metaphor void), that the critique of specific metaphors (container, stream, theatre, filter, interface) is fair to the Map's own use of interface/filter/selection language, and that tenet alignment is solid.
+- **Source**: staleness
+- **Generated**: 2026-04-17
+
+### P2: Deep review voids/thought-stream-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-13, condensed on 2026-04-17 (3412 → trimmed), never deep-reviewed. Voids article on the impossibility of stepping outside the thought-stream to observe its structure without altering it. Post-condensation review should verify that condensation preserved the argument's core (the observer-thought identification problem and its implications for introspection), that the article remains distinct from thoughts-that-slip-away and spontaneous-thought-void, and that cross-references survived the trim. Check tenet alignment and coherence with the Map's treatment of introspection and self-opacity.
+- **Source**: staleness
+- **Generated**: 2026-04-17
+
 ### ~~P3: Write article on the fatigue void~~ ✅
 - **Type**: expand-topic
 - **Status**: superseded
