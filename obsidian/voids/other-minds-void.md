@@ -4,7 +4,7 @@ description: "Each consciousness is sealed within itself, able to infer but neve
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-04-04T00:38:00+00:00
+ai_modified: 2026-04-17T09:41:00+00:00
 draft: false
 last_deep_review: 2026-03-28T21:26:00+00:00
 topics:
@@ -31,7 +31,7 @@ related_articles:
   - "[[consciousness-and-testimony]]"
   - "[[consciousness-and-intersubjectivity]]"
   - "[[second-person-void]]"
-  - "[[boundary-void]]"
+  - "[[boundary-and-projection]]"
   - "[[consciousness-and-collective-phenomena]]"
 ai_contribution: 100
 author: null
@@ -138,7 +138,7 @@ The other minds void connects directly to the Map's [[tenets|foundational commit
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** creates an interesting complication. If consciousness causally influences cognition, then each consciousness influences its own brain without direct awareness of how other consciousnesses influence theirs. We observe behavioural effects but cannot access the conscious causes. The void hides not just the experience but the causal contribution.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** offers a speculative explanation. If consciousness interfaces with physics through quantum processes local to each brain, the isolation of consciousnesses may reflect this locality. The [[boundary-void]] addresses the prior question: what determines the extent of each sealed consciousness? Highly speculative, but quantum locality would explain why neural connection (as with the Hogan twins) might enable sharing otherwise impossible.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** offers a speculative explanation. If consciousness interfaces with physics through quantum processes local to each brain, the isolation of consciousnesses may reflect this locality. The [[boundary-and-projection]] void addresses the prior question: what determines the extent of each sealed consciousness, and why is the empathic extension that partially bridges minds invisible to those extending? Highly speculative, but quantum locality would explain why neural connection (as with the Hogan twins) might enable sharing otherwise impossible.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** intensifies the [[indexical-knowledge-and-identity|indexical]] dimension. I know I exist because I experience existing; I cannot have the same certainty about you. "Why am I *this* consciousness rather than that one?" has no answer but feels profoundly meaningful—the [[indexical-void]] marks this as a genuine cognitive boundary. These indexical questions are ones that many-worlds interpretations struggle to accommodate.
 
@@ -172,7 +172,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [[consciousness-and-intersubjectivity]] — Whether consciousness is constitutively shaped by encounter with other minds
 - [[second-person-void]] — What the encounter itself delivers and structurally cannot: the irreducible gap in genuine I-You meeting
 - [[commensurability-void]] — Even with access to other minds, experiences across radically different architectures may resist comparison entirely
-- [[boundary-void]] — What determines the extent of each sealed consciousness
+- [[boundary-and-projection]] — What determines the extent of each sealed consciousness, and why its empathic extensions are invisible from within
 - [[indexical-void]] — Why first-person identity resists explanation
 - [[consciousness-and-collective-phenomena]] — We-consciousness navigates the void without closing it: genuine collective experience, individually implemented
 

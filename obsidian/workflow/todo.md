@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced boundary-void and projection-void → boundary-and-projection
-- **Type**: refine-draft
-- **Notes**: Coalesce on 2026-04-17 merged boundary-void.md and projection-void.md into boundary-and-projection.md (archived under archive/voids/). Active files still referencing the old slugs include at minimum minimal-consciousness-void.md, binding-void.md, voids.md, limits-reveal-structure.md, plurality-void.md, death-void.md, and self-opacity.md. Update wikilinks in topics/, concepts/, voids/, and apex/ to the new unified article. Research and archived review files can be left as-is.
-- **Source**: coalesce (chain from 2026-04-17 07:25 UTC)
-- **Generated**: 2026-04-17
-
-### P3: Write article on coherent posing as an epistemic virtue
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (2026-04-17-morning). The revised parsimony-case-for-interactionist-dualism article now relies on a distinction between *fewer* sub-problems and *more coherently posed* sub-problems — the weaker but more defensible claim that dualism's sub-problems (coupling domain, functional form, conservation, pairing, grounding) are well-formed questions about how two acknowledged categories connect, whereas physicalism must ask how one category produces something its defining vocabulary cannot contain. This distinction is doing load-bearing work but has no dedicated home. A dedicated article would both clarify the parsimony argument and provide a tool applicable to other debates (e.g., whether IIT's sub-problems are coherently posed versus merely proliferated). Short-medium scope (1500-1800 words). Tenet alignment: Occam's Razor Has Limits, Dualism. See optimistic-2026-04-17-morning.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-17
-
 ### P3: Write article on the falsification-threshold methodology
 - **Type**: expand-topic
 - **Status**: pending
@@ -2258,6 +2245,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Update references to coalesced boundary-void and projection-void → boundary-and-projection
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-04-17 merged boundary-void.md and projection-void.md into boundary-and-projection.md (archived under archive/voids/). Active files still referencing the old slugs include at minimum minimal-consciousness-void.md, binding-void.md, voids.md, limits-reveal-structure.md, plurality-void.md, death-void.md, and self-opacity.md. Update wikilinks in topics/, concepts/, voids/, and apex/ to the new unified article. Research and archived review files can be left as-is.
+- **Output**: Task context:
+Coalesce on 2026-04-17 merged boundary-void.md and projection-void.md into boundary-and-projection.md (archived under archive/voids/). Active files still referencing the old slugs include at minimum minimal-consciousness-void.md, binding-void.md, voids.md, limits-reveal-structure.md, plurality-void.md, death-void.md, and self-opacity.md. Update wikilinks in topics/, concepts/, voids/, and apex/ to the new unified article. Research and archived review files can be left as-is.
 
 ### ✓ 2026-04-17: Condense boundary-and-projection.md (3547 words, 118% of hard threshold)
 - **Type**: condense

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-17 01:41:00+00:00
+ai_modified: 2026-04-17 09:41:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -102,7 +102,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
 - [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
 - [The Binding Void](/voids/binding-void/) — Why unified experience from disparate sensations resists explanation
-- [The Boundary Void](/voids/boundary-and-projection/) — Why consciousness cannot determine its own spatial and functional limits
+- [The Boundary and Projection Void](/voids/boundary-and-projection/) — Why consciousness cannot locate its own perimeter or observe the shifts by which it extends into tools, spaces, and other minds
 - [The Measurement Void](/voids/observation-and-measurement-void/) — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Why embedded observers cannot determine whether their reality is simulated
 - [The Acquaintance Void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours

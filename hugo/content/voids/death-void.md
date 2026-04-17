@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-03-30 16:19:00+00:00
+ai_modified: 2026-04-17 09:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[death-and-consciousness]]'
 - '[[void-as-ground-of-meaning]]'
 - '[[defended-territory]]'
-- '[[boundary-void]]'
+- '[[boundary-and-projection]]'
 title: The Death Void
 topics:
 - '[[death-and-consciousness]]'
@@ -160,7 +160,7 @@ The death void connects directly to the Map's [foundational commitments](/tenets
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [inaccessible-past](/voids/inaccessible-past/) — The discontinuity of personal identity over time
 - [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — Why the death void is not merely a limit but a precondition for temporal meaning
-- [boundary-void](/voids/boundary-and-projection/) — The parallel structural impossibility: consciousness cannot locate its spatial boundaries, just as it cannot represent its temporal end
+- [boundary-and-projection](/voids/boundary-and-projection/) — The parallel structural impossibility: consciousness cannot locate its spatial boundaries or observe the shifts by which it extends, just as it cannot represent its temporal end
 - [death-and-consciousness](/topics/death-and-consciousness/) — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
 
 ## References

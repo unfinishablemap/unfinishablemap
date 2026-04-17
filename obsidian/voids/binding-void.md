@@ -4,7 +4,7 @@ description: "Human+AI exploration of why unified conscious experience resists e
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T09:41:00+00:00
 last_deep_review: 2026-03-10T17:39:00+00:00
 draft: false
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[compound-failure-signatures]]"
   - "[[recognition-void]]"
-  - "[[boundary-void]]"
+  - "[[boundary-and-projection]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -79,7 +79,7 @@ The binding void occupies a precise position in the Map's void taxonomy.
 
 **Not the [[emergence-void|emergence void]].** The emergence void concerns how *levels* transition—parts to wholes, neurons to experience. The binding void operates *within* a single level of consciousness. It asks how the already-present elements of a single experience cohere into one field.
 
-**Not the [[boundary-void|boundary void]].** The boundary void asks why experience has the *extent* it does—why it includes these neural processes and not those. Binding concerns internal coherence; the boundary void concerns external limits.
+**Not the [[boundary-and-projection|boundary-and-projection void]].** That void asks why experience has the *extent* it does—why it includes these neural processes and not those, and how that perimeter shifts during tool use or empathy. Binding concerns internal coherence; boundary-and-projection concerns external limits and their dynamic extensions.
 
 **Not the [[combination-problem|combination problem]].** Panpsychism's combination problem asks how micro-experiences compose macro-consciousness across ontological levels. The binding void asks how a single subject's experiences—sight, sound, thought, emotion—become one field rather than running in parallel.
 
@@ -141,7 +141,7 @@ The binding void connects to the Map's [[tenets]] at multiple points and provide
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[binding-problem]] — The philosophical and scientific puzzle of phenomenal binding
-- [[boundary-void]] — Why experience has the extent it does; binding concerns coherence within the boundary
+- [[boundary-and-projection]] — Why experience has the extent it does and how that perimeter shifts; binding concerns coherence within the boundary
 - [[emergence-void]] — The related void at level transitions; binding operates within a single level
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[causal-interface]] — How consciousness interfaces with the physical world

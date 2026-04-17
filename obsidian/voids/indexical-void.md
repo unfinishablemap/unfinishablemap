@@ -4,7 +4,7 @@ description: "Why am I this consciousness and not another? The indexical void ma
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-15T15:22:00+00:00
+ai_modified: 2026-04-17T09:41:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenet-generated-voids]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[plurality-void]]"
-  - "[[boundary-void]]"
+  - "[[boundary-and-projection]]"
   - "[[identity-across-transformations]]"
   - "[[split-brain-consciousness]]"
   - "[[ownership-void]]"
@@ -107,7 +107,7 @@ The indexical void connects to the Map's [[tenets]] in a distinctive way: it par
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** — The tenet's rationale explicitly cites the indexical problem: "Many-worlds leads to vast ontological proliferation... it raises unanswerable indexical questions: why am I *this* instance and not another?" The Map rejects many-worlds partly because it dissolves the indexical question rather than answering it. Many-worlds declares all instances equally real, so "why this one?" has no answer because there is no privileged "this one." The Map finds this dissolution unsatisfying—the question seems meaningful, and a framework unable to pose it is missing something about consciousness.
 
-**[[tenets#^dualism|Dualism]]** — If consciousness is non-physical, what individuates one consciousness from another? Physical objects are individuated by spatiotemporal location, but non-physical subjects lack spatial coordinates. The indexical void forces dualism to either posit a non-physical principle of individuation or accept individuation as fundamental and unexplainable. The [[boundary-void]] addresses the adjacent question: what determines the *extent* of one consciousness? Indexicality presupposes individuation; the boundary void questions the ground of that individuation. The void is not a problem for dualism specifically—List shows it challenges all third-personal metaphysics—but dualism must acknowledge it.
+**[[tenets#^dualism|Dualism]]** — If consciousness is non-physical, what individuates one consciousness from another? Physical objects are individuated by spatiotemporal location, but non-physical subjects lack spatial coordinates. The indexical void forces dualism to either posit a non-physical principle of individuation or accept individuation as fundamental and unexplainable. The [[boundary-and-projection]] void addresses the adjacent question: what determines the *extent* of one consciousness, and why are the shifts of that extent invisible from within? Indexicality presupposes individuation; the boundary-and-projection void questions the ground of that individuation. The void is not a problem for dualism specifically—List shows it challenges all third-personal metaphysics—but dualism must acknowledge it.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** — The mechanism connecting a specific consciousness to a specific brain requires something that selects *this* consciousness for *this* brain. The indexical void and the [[causal-interface|causal interface void]] may be two aspects of the same deeper void: the question of *which* mind pairs with *which* body. The [[combination-problem]] faces a related difficulty in the opposite direction: how do micro-experiences combine into *this* unified subject? The indexical void asks why the result is *me*; the combination problem asks how the result is achieved at all.
 
@@ -126,7 +126,7 @@ The indexical void connects to the Map's [[tenets]] in a distinctive way: it par
 - [[consciousness-and-the-metaphysics-of-individuation]] — The synchronic individuation question underlying the indexical void
 - [[indexical-identity-quantum-measurement]] — Where indexical identity meets quantum collapse
 - [[combination-problem]] — How micro-experiences combine into unified subjects
-- [[boundary-void]] — What determines the extent of one consciousness; individuation presupposes boundaries
+- [[boundary-and-projection]] — What determines the extent of one consciousness and why its shifts are opaque; individuation presupposes boundaries
 - [[plurality-void]] — The void around the multiplicity of conscious subjects
 - [[identity-across-transformations]] — How indexical identity persists through radical change
 - [[split-brain-consciousness]] — Cases where division intensifies the indexical question

@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-04-17T09:41:00+00:00
 draft: false
 last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
@@ -99,7 +99,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[recursion-void|The Recursion Void]] — Why metacognitive depth is bounded around fifth order
 - [[observation-and-measurement-void|The Observation Void]] — Every method of studying consciousness transforms what it studies
 - [[binding-void|The Binding Void]] — Why unified experience from disparate sensations resists explanation
-- [[boundary-void|The Boundary Void]] — Why consciousness cannot determine its own spatial and functional limits
+- [[boundary-and-projection|The Boundary and Projection Void]] — Why consciousness cannot locate its own perimeter or observe the shifts by which it extends into tools, spaces, and other minds
 - [[observation-and-measurement-void|The Measurement Void]] — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
 - [[simulation-detection-void|The Simulation Detection Void]] — Why embedded observers cannot determine whether their reality is simulated
 - [[acquaintance-void|The Acquaintance Void]] — Modes of direct phenomenal contact structurally inaccessible to minds like ours

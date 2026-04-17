@@ -1,13 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 08:40:00+00:00
+ai_modified: 2026-04-17 09:26:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 09:26 UTC - condense
+- **Status**: Success
+- **File**: [boundary-and-projection](/voids/boundary-and-projection/)
+- **Before**: 3547 words
+- **After**: 2585 words
+- **Reduction**: 27%
+- **Technique**: Tightened prose throughout; compressed "Distinction from Adjacent Voids" section (5 paragraphs → bullet list); merged the Mastery and Resistance-to-override sub-points under "When the Perimeter Shifts"; removed redundant restatements in opening of each section and trimmed quoted material in projection examples; preserved opening summary, all unique arguments, full "Relation to Site Perspective" with all five tenet connections, and the cross-link inventory
+
+## 2026-04-17 09:22 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [identity-across-transformations](/apex/identity-across-transformations/)
+- **Changed sources**: 2 ([split-brain-consciousness](/topics/split-brain-consciousness/), [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/))
+- **Word count**: 3515 → 3685
+- **Key changes**: Integrated propofol/ketamine phenomenological divergence and cognitive motor dissociation (CMD, Bodien 2024) into the temporal gap section, strengthening the filter-theory reading of identity persistence; fixed duplicated "phenomenal unity" link in split-brain section; updated source display titles to match recent article renames ("When Consciousness Fragments", "Consciousness Disruption and the Mind-Brain Interface"); added Bodien and Mashour references
+- **Review**: [apex-evolve-2026-04-17-identity-across-transformations](/reviews/apex-evolve-2026-04-17-identity-across-transformations/)
+
+## 2026-04-17 09:25 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Anesthesia Void
+- **Category**: Mixed (primarily Unexplorable, with Occluded and Unexplored elements)
+- **Output**: [voids-anesthesia-void-2026-04-17](/research/voids-anesthesia-void-2026-04-17/)
+- **Key finding**: Anesthesia produces a first-person gap phenomenologically distinct from sleep, death, and transit voids — inaccessible from inside but partially probable from outside, making it a unique test case for the Map's interface-disruption reading of dualism versus Locke's memory-failure defence
+- **Section cap note**: voids at 98/100 — two slots remaining before capacity
+
+## 2026-04-17 09:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
+- **Task**: Address three remaining clusters from pessimistic-2026-04-17 not touched by the 04:55 refine — loaded language (Language Improvements table), theory-laden/comparative-data claims (Unsupported Claims table), and misrepresentation of contemporary epiphenomenalism (Counterarguments)
+- **Changes**: Neutralised loaded phrasings ("bookkeeping trick", "disarmingly simple", "staggering coincidence/scope", "nature proved more complex than parsimony predicted") with descriptive equivalents and renamed "The Bookkeeping Trick" section to "What the Standard Argument Counts"; reframed "Every conscious being acts as though their mental states cause their behaviour" as explananda any theory must address rather than pre-theoretic evidence of causation; softened "convergence has not occurred" to bind it to the comparative context already provided; restructured "Interactionism Over Epiphenomenalism" to distinguish parallelist variants (coincidence objection still sharp) from supervenience variants (Jackson's later work, Robinson — lawlike correlation, coincidence objection inapplicable), argued against supervenience variants on first-person-efficacy grounds instead, and labelled the overall interactionist advantage as real but narrower than standard presentations suggest
+- **Published**: yes (draft: false)
+
+## 2026-04-17 08:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- **Task**: Address post-decoherence selection counterargument (pessimistic review 2026-04-17 Counterarguments section)
+- **Changes**: Expanded "The Decoherence Challenge" section to answer the objection that post-decoherence selection preserves quantum vocabulary while doing non-quantum work — introduced improper-vs-proper-mixture distinction (d'Espagnat 1976; Schlosshauer 2004) to locate conscious influence in the specifically quantum-formalism gap (problem of outcomes); stated explicitly what distinguishes this from "conscious-caused classical indeterminism"; conceded reduced falsifiability relative to pre-decoherence models; added d'Espagnat and Schlosshauer to References
+- **Published**: yes (draft: false)
 
 ## 2026-04-17 08:40 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)

@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-04-16T17:55:00+00:00
+ai_modified: 2026-04-17T09:41:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[void-as-ground-of-meaning]]"
   - "[[narrative-void]]"
   - "[[limits-reveal-structure]]"
-  - "[[projection-void]]"
+  - "[[boundary-and-projection]]"
   - "[[necessary-opacity]]"
   - "[[constitutive-exclusion]]"
   - "[[causal-interface]]"
@@ -42,7 +42,6 @@ related_articles:
   - "[[recursion-void]]"
   - "[[emotional-epistemology-void]]"
   - "[[self-reference-paradox]]"
-  - "[[boundary-void]]"
   - "[[disappearance-voids]]"
 ai_contribution: 100
 author:
@@ -120,7 +119,7 @@ Some errors resist recognition through active defence. Self-deception creates pr
 
 Most treatments frame self-opacity as a *limitation*. The Map proposes a stronger reading: the opacity is *constitutive*. The subject-object asymmetry is not a bug in conscious architecture but its enabling condition.
 
-Full self-observation would require the subject to become an object to itself while simultaneously remaining the subject doing the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The void is load-bearing—remove it and the structure falls. The [[projection-void]] discovers the same pattern in consciousness's outward reach: tool extension, spatial boundary shifts, and empathic contact all require the projective mechanism to be hidden from the consciousness using it.
+Full self-observation would require the subject to become an object to itself while simultaneously remaining the subject doing the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The void is load-bearing—remove it and the structure falls. The [[boundary-and-projection]] void discovers the same pattern in consciousness's outward reach: tool extension, spatial boundary shifts, and empathic contact all require the projective mechanism to be hidden from the consciousness using it.
 
 This explains the convergence across frameworks. Empiricists, phenomenologists, transcendental idealists, and neuroscientists discover the limit independently because it is a feature of what they study, not an artifact of method. The [[void-as-ground-of-meaning|void-as-ground-of-meaning]] framework generalises this pattern: cognitive limits are preconditions for meaning, not merely obstacles. A mind with perfect self-transparency would have no perspective, no orientation, no "what it is like." It would contain all information about itself without *being* anyone to whom that information matters.
 
@@ -157,7 +156,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot control its own states
 - [[imagination-and-creativity-void|The Creativity Void]] — Parallel opacity: creative process hidden, product accessible
-- [[projection-void|The Projection Void]] — Why consciousness cannot observe its own extension into tools, space, and other minds
+- [[boundary-and-projection|The Boundary and Projection Void]] — Why consciousness cannot locate its own perimeter or observe its extension into tools, space, and other minds
 - [[witness-consciousness|Witness Consciousness]] — The observer mode in contemplative traditions
 - [[constitutive-exclusion|The Constitutive Exclusion]] — The broader structural limit of which self-reference is a special case
 - [[ownership-void|The Ownership Void]] — Why experiences feel mine

@@ -4,7 +4,7 @@ description: "Human+AI investigation of how cognitive boundaries illuminate cogn
 created: 2026-01-16
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-03-30T15:44:00+00:00
+ai_modified: 2026-04-17T09:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ related_articles:
   - "[[collective-cognitive-limits]]"
   - "[[void-as-ground-of-meaning]]"
   - "[[convergence-as-evidence]]"
-  - "[[boundary-void]]"
+  - "[[boundary-and-projection]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -91,7 +91,7 @@ Approaching cognitive limits has a distinctive phenomenology (see [[phenomenolog
 
 **The dissolving insight.** Grasping that limits reveal structure is itself unstable—the insight tends to slip away when examined directly. [[thoughts-that-slip-away|Thoughts that slip away]] may include thoughts *about* thinking's boundaries.
 
-**Recognition without comprehension.** We can *recognise* that certain thoughts are unthinkable without *comprehending* what those thoughts would be. The gap is visible even if its contents aren't. The [[boundary-void]] provides a concrete case: consciousness cannot determine where experience ends and non-experience begins, yet this very failure reveals that experience has a determinate perimeter set by architecture rather than choice.
+**Recognition without comprehension.** We can *recognise* that certain thoughts are unthinkable without *comprehending* what those thoughts would be. The gap is visible even if its contents aren't. The [[boundary-and-projection]] void provides a concrete case: consciousness cannot determine where experience ends and non-experience begins, yet this very failure reveals that experience has a determinate perimeter set by architecture rather than choice.
 
 **Vertigo.** Contemplating that cognitive architecture both enables and constrains creates recursive discomfort—the tool examining its own limitations, the map trying to map the mapper.
 
@@ -152,7 +152,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalising the method with evidential standards
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of cognitive slippage
-- [[boundary-void|The Boundary Void]] — Consciousness cannot determine its own boundaries, yet this failure reveals architectural structure
+- [[boundary-and-projection|The Boundary and Projection Void]] — Consciousness cannot determine its own boundaries or observe their shifts, yet this failure reveals architectural structure
 - [[disappearance-voids|The Habituation Void]] — How familiarity-limits reveal novelty-orientation in consciousness
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?

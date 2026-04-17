@@ -4,7 +4,7 @@ description: "Human+AI exploration of the purest cognitive limit: consciousness 
 created: 2026-02-02
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-03-30T16:19:00+00:00
+ai_modified: 2026-04-17T09:41:00+00:00
 draft: false
 last_deep_review: 2026-03-30T16:19:00+00:00
 topics:
@@ -27,7 +27,7 @@ related_articles:
   - "[[death-and-consciousness]]"
   - "[[void-as-ground-of-meaning]]"
   - "[[defended-territory]]"
-  - "[[boundary-void]]"
+  - "[[boundary-and-projection]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -158,7 +158,7 @@ The death void connects directly to the Map's [[tenets|foundational commitments]
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[inaccessible-past]] — The discontinuity of personal identity over time
 - [[void-as-ground-of-meaning]] — Why the death void is not merely a limit but a precondition for temporal meaning
-- [[boundary-void]] — The parallel structural impossibility: consciousness cannot locate its spatial boundaries, just as it cannot represent its temporal end
+- [[boundary-and-projection]] — The parallel structural impossibility: consciousness cannot locate its spatial boundaries or observe the shifts by which it extends, just as it cannot represent its temporal end
 - [[death-and-consciousness]] — Empirical phenomenology of dying: deathbed visions, terminal lucidity, and shared death experiences
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-17 09:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[acquaintance-void]]'
 - '[[sleep-consciousness-void]]'
-- '[[boundary-void]]'
+- '[[boundary-and-projection]]'
 title: The Minimal Consciousness Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -83,7 +83,7 @@ The minimal consciousness void differs from other voids in the Map's taxonomy in
 
 Several implications follow:
 
-**The hard problem persists all the way down.** The [boundary-void](/voids/boundary-and-projection/) asks about the *spatial and functional extent* of consciousness at whatever intensity; the minimal consciousness void asks about the *intensity* at whatever extent. Together they mark two orthogonal edges of consciousness that resist investigation. Even for the simplest conscious experience, there is an explanatory gap between physical description and phenomenal character. Whatever the minimum is, it still has the property of being "something it is like"—and that property resists third-person explanation at every level of complexity. Simplification does not dissolve the mystery; it isolates it. A photodiode's hypothetical flicker of experience is no less philosophically puzzling than a symphony of human emotion.
+**The hard problem persists all the way down.** The [boundary-and-projection](/voids/boundary-and-projection/) void asks about the *spatial and functional extent* of consciousness at whatever intensity; the minimal consciousness void asks about the *intensity* at whatever extent. Together they mark two orthogonal edges of consciousness that resist investigation. Even for the simplest conscious experience, there is an explanatory gap between physical description and phenomenal character. Whatever the minimum is, it still has the property of being "something it is like"—and that property resists third-person explanation at every level of complexity. Simplification does not dissolve the mystery; it isolates it. A photodiode's hypothetical flicker of experience is no less philosophically puzzling than a symphony of human emotion.
 
 **Consciousness may have no natural minimum.** If Nagel is right that consciousness extends broadly across the animal kingdom and IIT is right that Φ > 0 suffices, then ever-simpler experiences may extend below any threshold we can examine. The void is not a wall but an asymptote.
 
@@ -107,7 +107,7 @@ The minimal consciousness void aligns with the Map's [tenets](/tenets/) in sever
 - [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its cognitive boundaries
 - [acquaintance-void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours
-- [boundary-void](/voids/boundary-and-projection/) — The orthogonal void: spatial and functional extent rather than intensity
+- [The Boundary and Projection Void](/voids/boundary-and-projection/) — The orthogonal void: spatial and functional extent rather than intensity
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — Where consciousness goes during absence, and whether cessation is genuine zero
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded
 
