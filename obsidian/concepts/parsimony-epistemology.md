@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-17T20:56:00+00:00
+ai_modified: 2026-04-17T23:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -94,13 +94,13 @@ The standard parsimony argument against dualism takes this form:
 3. By Occam's Razor, prefer the simpler theory
 4. Therefore, prefer physicalism
 
-Each numbered premise carries a hidden precondition. In the consciousness debate, all three preconditions fail simultaneously — the argument has no rational force.
+Each numbered premise carries a hidden precondition. In the consciousness debate, all three preconditions fail simultaneously — the argument's premises each fail under scrutiny, severely weakening its force.
 
 ### Precondition 1: Equal Explanatory Adequacy
 
 Parsimony is a tie-breaker between theories that explain the same phenomena equally well. Physicalism and dualism do not. Physicalism — relying on [[causal-closure|causal closure]] — correlates neural activity with reported experience but provides no account of why there is [[qualia|something it is like]] to undergo those processes. The [[explanatory-gap]] is not a gap in current neuroscience — it is a structural feature of third-person physical description applied to first-person phenomenal reality. The [[knowledge-argument]] and [[philosophical-zombies|conceivability arguments]] formalise the point: physical facts alone do not entail phenomenal facts.
 
-Type-B physicalists accept the explanatory gap but deny it is metaphysical. This does not restore the parity parsimony requires. Parsimony is a synchronic principle: it adjudicates based on current explanatory credentials, not promissory notes about future understanding. If physicalism cannot currently explain why there is something it is like to be conscious, parsimony has no present tie to break.
+Type-B physicalists accept the explanatory gap but deny it is metaphysical, arguing that future theoretical progress will close the epistemic gap without revising the ontology. This is the strongest physicalist reply at this point in the argument, and it deserves direct engagement. It does not restore parity because parsimony is best understood as a synchronic principle: it adjudicates on the current explanatory credentials of competing theories, not on promissory notes about future understanding. Were promissory notes admissible, any underdetermined theory could plead future resolution of its difficulties and parsimony would be unable to discriminate. The Type-B position is coherent but it shifts the dispute from parsimony to the plausibility of the promissory note — a dispute that must be settled on other grounds, most directly by arguments like the [[knowledge-argument]] and the coherence of [[philosophical-zombies|zombie conceivability]]. If physicalism cannot currently explain why there is something it is like to be conscious, parsimony has no present parity to adjudicate.
 
 Dualism posits that consciousness is genuinely non-physical, which directly explains why physical description cannot capture it. The burden shifts to characterising [[psychophysical-laws|psychophysical laws]] — a genuine open problem, but one that does not require explaining away the phenomenon itself.
 
@@ -110,7 +110,7 @@ When the three dimensions of simplicity [described above](#Three%20Dimensions%20
 
 ### Precondition 3: Domain-Appropriate Application
 
-Even if the first two preconditions were met, parsimony would need epistemic warrant in the relevant domain. As [Huemer's four accounts](#Four%20Accounts%20of%20Why%20Parsimony%20Works) demonstrate, none of the justifications for parsimony extends to metaphysical theory choice. Scientific parsimony does not transfer to metaphysical theory choice — the razor was forged for a different material.
+Even if the first two preconditions were met, parsimony would need epistemic warrant in the relevant domain. As [Huemer's four accounts](#Four%20Accounts%20of%20Why%20Parsimony%20Works) demonstrate, none of the standard justifications for parsimony extends to metaphysical theory choice: likelihoodist and curve-fitting justifications require well-defined probability spaces or test data that metaphysical disputes do not provide, and the remaining prior-probability and pragmatic accounts either beg the question or justify convenience rather than truth-tracking. The live alternative is mathematical-structural parsimony (Tegmark, Deutsch): elegance of fundamental formalism as a guide to metaphysical truth. This is a substantive proposal not reducible to Huemer's four, but it presupposes that a unified formalism exists across competing metaphysics — exactly what is disputed when physicalists and dualists disagree on whether consciousness belongs in the formalism at all.
 
 ### Why the Triple Failure Matters
 
@@ -136,11 +136,15 @@ These concessions matter because they cannot be dismissed as motivated reasoning
 
 Anderson (2002) subjected Churchland's "Raze Dualism" argument to systematic critique and concluded it "is undermined by assumptions which do not withstand scrutiny." His analysis confirms the triple failure: the theories do not explain the data equally well, "simpler" is undefined across multiple dimensions, and the razor cannot uniquely favour physicalism.
 
-### The Idealism Parity
+### The Idealism Parity and the Trilemma
 
-Anderson's structural observation deserves separate emphasis: even if ontological parsimony could adjudicate the mind-body problem, it would not uniquely favour physicalism. Idealism — the view that reality is fundamentally mental — posits a single substance type and is therefore equally parsimonious by the ontological measure. If the razor cuts against dualism for positing two substances, it cuts equally against physicalism in favour of idealism. The fact that physicalists never draw this conclusion reveals that ontological parsimony is not actually doing the argumentative work attributed to it. Something else — naturalistic bias, institutional momentum, or implicit materialism — is driving the preference. The razor is invoked selectively, which is no longer principled reasoning but rhetorical deployment.
+Anderson's structural observation deserves separate emphasis: even if ontological parsimony could adjudicate the mind-body problem, it would not uniquely favour physicalism. Idealism — the view that reality is fundamentally mental — posits a single substance type and is therefore equally parsimonious by the ontological measure. If the razor cuts against dualism for positing two substances, it cuts equally against physicalism in favour of idealism. That physicalists rarely draw this conclusion suggests something other than entity-counting is doing the argumentative work — naturalistic bias, institutional momentum, or implicit materialism. The razor is invoked selectively, which weakens its claim to be principled reasoning.
 
-The [[von-neumann-wigner-interpretation|von Neumann-Wigner interpretation]] sharpens this point. Von Neumann's proof that the mathematical "cut" between observer and observed can be placed anywhere in the measurement chain — including at consciousness itself — suggests that adding consciousness to the ontology (an ontological parsimony cost) may actually *simplify* explanation of why quantum measurements yield definite outcomes (an explanatory parsimony gain). The [[measurement-problem|measurement problem]] is a case study in the multidimensionality of simplicity.
+This cuts both ways. By the same ontological measure, physicalism and idealism both beat interactionist dualism, which posits two substance types to their one. The Map cannot appeal to ontological parsimony to embarrass physicalism with idealism without also embarrassing its own position. This is consistent with — indeed, it is the point of — the article's broader claim: ontological parsimony cannot settle the physicalism-vs-idealism-vs-dualism trilemma in any direction. Entity-counting is silent.
+
+The Map's preference for interactionist dualism over idealism is therefore not parsimony-based but arises from its [[tenets|other tenets]]. **Bidirectional causation** (Tenet 3) requires a physical world with its own causal structure so that consciousness has something genuinely distinct to act upon; strong idealisms in which the physical reduces to mental content make this a report on further mental activity rather than causal traffic between domains. **Minimal quantum interaction** (Tenet 2) presupposes an autonomous quantum dynamics that consciousness perturbs only at the smallest necessary points — a picture that requires a physical substrate with its own lawful behaviour, not a mental monism in which that behaviour is derivative. **Rejecting Many-Worlds** (Tenet 4) and preserving indexical identity favour a distinct observer selecting among physical possibilities over an idealist picture where "physical possibilities" are themselves modes of mind. Forms of idealism can be engineered to accommodate some of these commitments, but only by adding structural machinery that undoes the apparent ontological economy — the choice between monisms and dualism is resolved by theoretical fit with the wider framework, not by counting substance types.
+
+The [[von-neumann-wigner-interpretation|von Neumann-Wigner interpretation]] sharpens this point. Von Neumann's proof that the mathematical "cut" between observer and observed can be placed anywhere in the measurement chain — including at consciousness itself — suggests that adding consciousness to the ontology (an ontological parsimony cost) may *simplify* the explanation of why quantum measurements yield definite outcomes (an explanatory parsimony gain). Decoherence theory challenges this by dissolving the preferred-basis problem, but it does not by itself resolve the measurement problem's outcome question without further interpretive commitments. The [[measurement-problem|measurement problem]] remains a case study in the multidimensionality of simplicity whatever view of decoherence one takes.
 
 ## The IIT Parsimony Paradox
 
@@ -155,6 +159,22 @@ Richard Swinburne offers a provocative inversion: in certain respects, dualism i
 Swinburne's reversal does not establish that dualism is simpler overall — ontological parsimony still favours physicalism. But when simplicity is measured along the dimension most relevant to consciousness — explanatory adequacy — dualism has the advantage. The [[parsimony-case-for-interactionist-dualism|positive parsimony case]] develops this into a systematic argument.
 
 There is a deeper self-referential problem that the [[epistemological-limits-occams-razor|parsimony void]] explores: evaluating whether parsimony is reliable requires parsimony-independent access to the truth — the very thing under dispute. In metaphysical domains without differential predictions, this circularity becomes vicious.
+
+## What Would Refute This View?
+
+The argument that parsimony lacks epistemic warrant in the consciousness debate makes commitments that could, in principle, be overturned. Specific conditions under which the position would weaken or collapse:
+
+- **If the explanatory gap closed.** A functional reduction of phenomenal consciousness that satisfied Type-B physicalists, panpsychists, and first-person phenomenology simultaneously — not merely a promissory account — would restore the explanatory parity parsimony requires. Precondition 1 would then be met, and the standard argument would regain its force.
+
+- **If the dimensions of simplicity converged.** A principled, domain-appropriate definition of parsimony that reliably delivered the same verdict across ontological, syntactic, and explanatory dimensions would dissolve the multidimensionality objection. If that verdict favoured physicalism, Precondition 2 would be met.
+
+- **If differential predictions emerged.** If physicalism and dualism made distinct testable predictions — for instance about the quantum measurement chain, or about specific neural correlates present under one view but absent under the other — parsimony's domain-appropriate application to consciousness would become defensible and Huemer's curve-fitting and likelihoodist accounts would have purchase.
+
+- **If the hostile witnesses reversed their concessions.** If Lycan repudiated his admission that parsimony is "a very posterior reason," if Sober's domain-sensitivity argument were answered, or if Smart's argument received the successful defence it never received, the inductive weight of the "hostile witness" evidence would dissolve. The argument rests on acknowledged concessions from within the materialist tradition; retraction of those concessions would matter.
+
+- **If mathematical-structural parsimony carried demonstrable metaphysical weight.** A successful Deutsch-Tegmark argument that elegance of fundamental formalism tracks metaphysical truth, and that the elegant formalism excludes consciousness as fundamental, would require revising Precondition 3.
+
+These conditions are not idle. Each is an active research programme. That the position is currently well-supported does not make it immune to revision; the argument is conditional on the present state of the debate, not eternally secured.
 
 ## Relation to Site Perspective
 
@@ -189,3 +209,17 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 11. Swinburne, R. (1986). *The Evolution of the Soul*. Clarendon Press.
 12. Tononi, G. (2004). An Information Integration Theory of Consciousness. *BMC Neuroscience*, 5(42).
 13. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109-11132.
+
+<!-- AI REFINEMENT LOG - 2026-04-17
+Changes made:
+- Expanded "Idealism Parity" subsection into "The Idealism Parity and the Trilemma"; acknowledged that the ontological-parity argument also cuts against dualism, then explained why the Map's preference for dualism over idealism rests on the other tenets (bidirectional causation, minimal quantum interaction, no MWI) rather than on parsimony
+- Added "What Would Refute This View?" section before "Relation to Site Perspective" enumerating five specific conditions under which the argument would weaken or collapse
+- Strengthened Type-B physicalism engagement in "Precondition 1" with a dedicated explanation of why promissory notes cannot do the work parsimony requires, while conceding the Type-B reply is coherent
+- Added mathematical-structural parsimony (Tegmark/Deutsch) as an acknowledged alternative to Huemer's four accounts in "Precondition 3"
+- Added hedge to von Neumann-Wigner passage noting decoherence theory's challenge while explaining why the multidimensionality point survives
+- Softened three flagged expressions per review: "has no rational force" → "severely weakening its force"; "no present tie to break" → "no present parity to adjudicate"; dropped "the razor was forged for a different material" rhetorical metaphor in favour of substantive content
+
+Addresses pessimistic-review 2026-04-17d Issues 5 (High severity, idealism parity trilemma), 6 (Medium, Type-B engagement), and several language-improvement items.
+
+This log should be removed after human review.
+-->

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 22:49:00+00:00
+ai_modified: 2026-04-17 23:03:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 23:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/parsimony-epistemology]]
+- **Changes**: Expanded "Idealism Parity" into "Idealism Parity and the Trilemma" — acknowledges that ontological parsimony also cuts against dualism (two substances vs one) and explains why the Map's preference for dualism over idealism derives from Tenets 2/3/4 (bidirectional causation, minimal quantum interaction, no MWI) rather than parsimony; added "What Would Refute This View?" section with five specific falsification conditions; strengthened Type-B physicalism engagement in Precondition 1; added mathematical-structural parsimony (Tegmark/Deutsch) as alternative to Huemer's four in Precondition 3; softened three flagged rhetorical passages per review language improvements; added hedge on vN-W passage noting decoherence challenge.
+- **Addresses**: pessimistic-2026-04-17d Issues 5 (High), 6 (Medium), and language-improvement items
+- **Published**: yes
 
 ## 2026-04-17 22:49 UTC - pessimistic-review
 - **Status**: Success

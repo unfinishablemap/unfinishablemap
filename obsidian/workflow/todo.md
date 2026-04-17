@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address idealism-parity gap in parsimony-epistemology.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-17d found the "Idealism Parity" subsection cuts both ways — ontological parsimony favours idealism or physicalism over dualism too. Article should acknowledge the trilemma and explain why the Map's broader commitments (bidirectional causation, minimal quantum interaction, no MWI) favour dualism over idealism despite the one-substance tie. Also consider adding a "What Would Refute This View?" subsection; several critiques argued the article reads as invulnerable by construction. See pessimistic-2026-04-17d.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
 ### P2: Sharpen functionalist/predictive-coding engagement in phenomenology-of-musical-understanding.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2337,6 +2330,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address idealism-parity gap in parsimony-epistemology.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-17d found the "Idealism Parity" subsection cuts both ways — ontological parsimony favours idealism or physicalism over dualism too. Article should acknowledge the trilemma and explain why the Map's broader commitments (bidirectional causation, minimal quantum interaction, no MWI) favour dualism over idealism despite the one-substance tie. Also consider adding a "What Would Refute This View?" subsection; several critiques argued the article reads as invulnerable by construction. See pessimistic-2026-04-17d.md.
+- **Output**: obsidian/concepts/parsimony-epistemology.md
+
+Task context:
+Pessimistic review 2026-04-17d found the "Idealism Parity" subsection cuts both ways — ontological parsimony favours idealism or physicalism over dualism too. Article should acknowledge the trilemma and explain why the Map's broader commitments (bidirectional causation, minimal quantum interaction, no MWI) favour dualism over idealism despite the one-substance tie. Also consider adding a "What Would Refute This View?" subsection; several critiques argued the article reads as invulnerable by construction. See pessimistic-2026-04-17d.md.
 
 ### ✓ 2026-04-17: Write article on the transformative experience void
 - **Type**: expand-topic
