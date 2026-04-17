@@ -104,7 +104,7 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 - [other-minds-void](/voids/other-minds-void/)
 - [intersubjective-void](/voids/intersubjective-void/)
 - [synesthetic-void](/voids/synesthetic-void/)
-- [mind-space-void](/voids/mind-space-void/)
+- [mind-space-void](/voids/mapping-mind-space/)
 - [framework-void](/voids/framework-void/)
 - [ai-as-void-explorer](/voids/ai-as-void-explorer/)
 - [apophatic-cartography](/voids/apophatic-cartography/)

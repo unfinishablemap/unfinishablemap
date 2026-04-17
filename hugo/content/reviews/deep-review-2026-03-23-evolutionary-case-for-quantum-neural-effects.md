@@ -55,7 +55,7 @@ None.
 - Tightened factual claims by removing unsupported specific numbers
 
 ### Cross-links Added
-- [dimensionality-void](/voids/dimensionality-void/) — binding problem and neural high-dimensionality
+- [dimensionality-void](/voids/mapping-mind-space/) — binding problem and neural high-dimensionality
 - [evolved-cognitive-limits](/voids/biological-cognitive-closure/) — fitness-shaped plausibility intuitions
 
 ## Remaining Items

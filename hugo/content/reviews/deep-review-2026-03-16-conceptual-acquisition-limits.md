@@ -69,7 +69,7 @@ All six adversarial personas applied; findings consistent with previous two revi
 ### Cross-links Added
 - [cognitive-closure](/concepts/mysterianism/)
 - [natural-vs-designed-limits](/voids/meta-epistemology-of-limits/)
-- [mind-space-void](/voids/mind-space-void/)
+- [mind-space-void](/voids/mapping-mind-space/)
 
 ## Remaining Items
 

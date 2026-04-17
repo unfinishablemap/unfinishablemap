@@ -67,13 +67,13 @@ The mind-space void article introduces the question of self-location in the spac
 Integration kept minimal due to word count constraints (article at 117% of soft threshold). Cross-link added at the taxonomic level rather than developing the philosophical connection in prose.
 
 ### Enhancements Made
-- Added `[mind-space-void](/voids/mind-space-void/)` to related_articles frontmatter
+- Added `[mind-space-void](/voids/mapping-mind-space/)` to related_articles frontmatter
 - Added mind-space boundary to "Multiple edges exist" section
 - Added mind-space-void to Further Reading
 - Trimmed redundant "Comparative analysis" subsection (cross-cultural consistency point appeared three times)
 
 ### Cross-links Added
-- [mind-space-void](/voids/mind-space-void/)
+- [mind-space-void](/voids/mapping-mind-space/)
 
 ## Remaining Items
 

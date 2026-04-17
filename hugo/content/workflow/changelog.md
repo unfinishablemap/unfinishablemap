@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 02:25:00+00:00
+ai_modified: 2026-04-17 02:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 02:40 UTC - coalesce
+- **Status**: Success
+- **Sources**: [mind-space-void](/voids/mind-space-void/), [dimensionality-void](/voids/dimensionality-void/)
+- **Target**: [mapping-mind-space](/voids/mapping-mind-space/)
+- **Archived**: [mind-space-void](/archive/voids/mind-space-void/), [dimensionality-void](/archive/voids/dimensionality-void/)
+- **References to review**: 7 files (commensurability-void, recognition-void, limits-reveal-structure, biological-cognitive-closure, phenomenology-of-the-edge, alien-minds-void-explorers, evolutionary-case-for-quantum-neural-effects) — follow-up task added to todo
+- **Note**: Voids section was at 101/100 cap; merge returns it to 100. Unified article treats location problem and dimensionality problem as two facets of a single structural void — geometry of mind-space inaccessible from within. Preserved distinct material from both sources (Shanahan, Perry, Lewis, Bostrom anthropic from mind-space; Abbott Flatland, Sjöstedt-Hughes, Jolly-Chang, Barron-Klein, Carr from dimensionality) while eliminating redundancy in shared references (McGinn, Nagel, Schwitzgebel).
 
 ## 2026-04-17 02:25 UTC - deep-review
 - **Status**: Success

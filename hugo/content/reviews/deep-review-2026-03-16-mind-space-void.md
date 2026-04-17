@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [The Mind-Space Void](/voids/mind-space-void/)
+**Article**: [The Mind-Space Void](/voids/mapping-mind-space/)
 **Previous review**: [2026-03-14](/reviews/deep-review-2026-03-14-mind-space-void/)
 
 ## Pessimistic Analysis Summary

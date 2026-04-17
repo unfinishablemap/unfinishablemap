@@ -59,7 +59,7 @@ Neural computation confronts at least three challenges where quantum effects cou
 
 ### The Binding Problem
 
-How does the brain combine distributed processing into unified experience? Colour, shape, motion, and meaning are processed in separate cortical areas, yet experience is seamlessly integrated. The difficulty deepens when we consider that brain dynamics occupy spaces of thousands of independent variables—the [dimensionality void](/voids/dimensionality-void/) suggests that binding high-dimensional neural activity into unified experience is an even harder problem than low-dimensional models imply. Classical proposals—gamma synchrony, thalamocortical loops, re-entrant signalling—explain *correlation* between neural populations without explaining *unity*. Neurons firing together remain separate neurons.
+How does the brain combine distributed processing into unified experience? Colour, shape, motion, and meaning are processed in separate cortical areas, yet experience is seamlessly integrated. The difficulty deepens when we consider that brain dynamics occupy spaces of thousands of independent variables—the [dimensionality void](/voids/mapping-mind-space/) suggests that binding high-dimensional neural activity into unified experience is an even harder problem than low-dimensional models imply. Classical proposals—gamma synchrony, thalamocortical loops, re-entrant signalling—explain *correlation* between neural populations without explaining *unity*. Neurons firing together remain separate neurons.
 
 Quantum entanglement provides ontological holism: an entangled state is fundamentally indivisible, not assembled from separable components. If the [binding problem](/concepts/binding-problem/) genuinely requires holism rather than mere correlation—and this remains contested—classical mechanisms cannot solve it regardless of their sophistication. This creates a strong selective pressure: organisms that bind experience more effectively respond to their environments more coherently. If quantum entanglement is the only physical mechanism that produces genuine unity, evolution would be under pressure to discover it—just as it discovered quantum spin coherence for magnetoreception when classical mechanisms could not detect weak magnetic fields.
 
@@ -143,7 +143,7 @@ The evolutionary argument connects to the Map's [tenets](/tenets/) at several po
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolution works under dualist assumptions
 - [evolution-of-consciousness](/concepts/evolution-of-consciousness/) — When consciousness arose and what selected for it
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — Evaluating competing quantum consciousness theories
-- [dimensionality-void](/voids/dimensionality-void/) — Why binding high-dimensional neural activity into unified experience is harder than it appears
+- [dimensionality-void](/voids/mapping-mind-space/) — Why binding high-dimensional neural activity into unified experience is harder than it appears
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — How weak quantum biases get amplified into macroscopic neural outcomes
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — How fitness-shaped intuitions bias our judgment of biological plausibility
 

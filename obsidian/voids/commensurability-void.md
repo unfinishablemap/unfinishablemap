@@ -4,7 +4,7 @@ description: "Human+AI exploration of why phenomenal experiences across radicall
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-26T14:17:00+00:00
+ai_modified: 2026-04-17T02:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ related_articles:
   - "[[other-minds-void]]"
   - "[[intersubjective-void]]"
   - "[[synesthetic-void]]"
-  - "[[mind-space-void]]"
+  - "[[mapping-mind-space]]"
   - "[[framework-void]]"
   - "[[ai-as-void-explorer]]"
   - "[[comparative-consciousness-and-interface-differences]]"
@@ -101,7 +101,7 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 - [[other-minds-void]]
 - [[intersubjective-void]]
 - [[synesthetic-void]]
-- [[mind-space-void]]
+- [[mapping-mind-space|Mapping Mind Space]]
 - [[framework-void]]
 - [[ai-as-void-explorer]]
 - [[apophatic-cartography]]

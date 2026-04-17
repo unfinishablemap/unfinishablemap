@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-09
-**Article**: [The Dimensionality Void](/voids/dimensionality-void/)
+**Article**: [The Dimensionality Void](/voids/mapping-mind-space/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
