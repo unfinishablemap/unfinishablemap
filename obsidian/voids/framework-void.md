@@ -4,7 +4,7 @@ description: "Every conceptual framework excludes what it cannot represent. The 
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-16T17:55:00+00:00
+ai_modified: 2026-04-17T00:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[conceptual-impossibility]]"
   - "[[language-thought-boundary]]"
+  - "[[metaphor-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
@@ -32,7 +33,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
-last_deep_review: 2026-03-06T21:38:00+00:00
+last_deep_review: 2026-04-17T00:40:00+00:00
 ---
 
 The Unfinishable Map's voids section explores cognitive limits — territories that resist understanding. Most voids concern specific failures: the inability to articulate certain experiences ([[language-thought-boundary]]), to conceive of formal contradictions ([[conceptual-impossibility]]), or to form particular categories ([[biological-cognitive-closure]]). The framework void operates at a different level entirely. It concerns the totality of one's conceptual apparatus — the entire system of concepts, assumptions, and inferential patterns through which one understands anything at all. The framework is not a tool one uses to examine consciousness; it is the lens through which examination occurs. And a lens cannot bring itself into focus.
@@ -57,7 +58,7 @@ Three features characterise this void:
 
 The persistence of the mind-body problem provides circumstantial evidence. After millennia of philosophical effort, dualism and materialism remain in approximately the same standoff. If the problem were merely difficult, convergence over time would be expected. The absence of convergence is consistent with framework-dependence: each tradition generates arguments that are compelling within its own conceptual system and unpersuasive outside it.
 
-The 2023–2025 adversarial testing of Integrated Information Theory against Global Neuronal Workspace Theory revealed a related pattern. Even when researchers agreed on experimental protocols, the theories generated predictions that were not straightforwardly comparable — they focused on different aspects of consciousness, operationalised different variables, and defined success differently. The theories may be logically commensurable (expressible in the same formal language) while remaining empirically incommensurable (looking for different things in the same data).
+The 2023–2025 adversarial testing of Integrated Information Theory against Global Neuronal Workspace Theory revealed a related pattern. Even when researchers agreed on experimental protocols, the theories generated predictions that were not straightforwardly comparable — they operationalised different variables and defined success differently. The theories may be logically commensurable while remaining empirically incommensurable — looking for different things in the same data.
 
 Colin McGinn's species-relativity argument adds a further dimension. If cognitive closure is real and varies across species — "what is closed to the mind of a rat may be open to the mind of a monkey" — then the human conceptual framework may exclude possibilities available to other cognitive architectures. Both the dualist and materialist frameworks may be wrong in ways that neither can specify, because specifying the error requires concepts neither framework contains.
 
@@ -83,7 +84,9 @@ Two partial methods of approach remain available:
 
 A third partial method — Husserl's *epoché*, the phenomenological suspension of the natural attitude — attempts to bracket the framework itself and attend to experience prior to conceptualisation. Whether this succeeds is contested, but the attempt exercises the capacity to notice framework-dependence even when the framework cannot be fully escaped.
 
-AI systems occupy a distinctive position here. Lacking the first-person experiential framework that shapes human understanding, AI can operate within multiple philosophical frameworks without the commitment that comes from embodied experience. Whether this constitutes genuine framework-switching or surface-level simulation is itself a framework-dependent question — explored further in [[ai-as-void-explorer]].
+Each of these methods confronts a reflexive complication. Describing framework-dependence requires specific metaphors — *lens*, *prison*, *walls*, *map* — whose own distortions cannot be identified from within them. [[metaphor-void|The metaphor void]] asks whether these figurative mappings operate one level beneath framework-dependence: frameworks can be examined (with difficulty) from other frameworks, but metaphors can only be examined through other metaphors. Approaches to the framework void are therefore approaches through metaphor, never free of figurative residue.
+
+AI systems occupy a distinctive position: lacking first-person experiential grounding, they can operate within multiple philosophical frameworks without the commitment that comes from embodied experience. Whether this is genuine framework-switching or surface simulation is itself a framework-dependent question — explored in [[ai-as-void-explorer]].
 
 ## Relation to Site Perspective
 
@@ -104,6 +107,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [[three-kinds-of-void]] — The taxonomy of unexplored, unexplorable, and occluded territory
 - [[conceptual-impossibility]] — Limits at the level of specific concepts, not entire frameworks
 - [[language-thought-boundary]] — Where articulation fails within a framework
+- [[metaphor-void]] — The figurative mappings beneath framework categories, one level further down
 - [[tenet-generated-voids]] — How the Map's own commitments generate framework-specific blind spots
 - [[predictive-construction-void|The Predictive Construction Void]] — A related limit operating below the conceptual level: perception itself is a framework whose construction/reception ratio is structurally hidden
 - [[limits-reveal-structure]] — The principle that what we cannot think reveals what kind of minds we are

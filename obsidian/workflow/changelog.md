@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 00:25:00+00:00
+ai_modified: 2026-04-17 00:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 00:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/framework-void]]
+- **Word count**: 2001 → 2070 (+69, soft_warning bracket — compensating trims applied but net positive for substantive metaphor-void integration)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing metaphor-void cross-link, verbose adversarial testing paragraph, redundant AI systems framing)
+- **Enhancements made**: 4 (reflexive passage in Approaches to the Edge, metaphor-void added to frontmatter + Further Reading, two prose tightens)
+- **Cross-review context**: framework-void ↔ language-thought-boundary with metaphor-void insights. No changes needed on language-thought-boundary axis; significant gap on metaphor-void axis now closed.
+- **Output**: [[reviews/deep-review-2026-04-17-framework-void]]
 
 ## 2026-04-17 00:25 UTC - deep-review
 - **Status**: Success

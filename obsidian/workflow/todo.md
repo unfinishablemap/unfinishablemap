@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review framework-void.md and language-thought-boundary.md considering metaphor-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article voids/metaphor-void.md created 2026-04-16 via expand-topic. It names the structural dependence of abstract thought on metaphor (Lakoff & Johnson, Blumenberg's absolute metaphors) and argues the cartographic framing of the Map may predispose it to recognise only map-shaped voids while other cognitive limits remain invisible. Review framework-void.md for cross-links — the new article explicitly contrasts its "false transparency" phenomenology with framework-void's "false clarity about alternative frameworks," so both articles should cross-reference the distinction. Review language-thought-boundary.md for consistency — metaphor-void distinguishes its phenomenology from language-thought-boundary's "felt sense of content resisting articulation," and the boundary article should acknowledge the metaphor-void cousin. Check voids taxonomy coherence.
-- **Source**: chain (from voids/metaphor-void.md)
-- **Generated**: 2026-04-16
-
 ### P3: Write apex article on the Biranian thread (resistance as origin of self-consciousness)
 - **Type**: expand-topic
 - **Status**: pending
@@ -2252,6 +2245,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review framework-void.md and language-thought-boundary.md considering metaphor-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/metaphor-void.md created 2026-04-16 via expand-topic. It names the structural dependence of abstract thought on metaphor (Lakoff & Johnson, Blumenberg's absolute metaphors) and argues the cartographic framing of the Map may predispose it to recognise only map-shaped voids while other cognitive limits remain invisible. Review framework-void.md for cross-links — the new article explicitly contrasts its "false transparency" phenomenology with framework-void's "false clarity about alternative frameworks," so both articles should cross-reference the distinction. Review language-thought-boundary.md for consistency — metaphor-void distinguishes its phenomenology from language-thought-boundary's "felt sense of content resisting articulation," and the boundary article should acknowledge the metaphor-void cousin. Check voids taxonomy coherence.
+- **Output**: obsidian/voids/framework-void.md -- Context: Cross-review framework-void.md and language-thought-boundary.md considering metaphor-void insights
 
 ### ✓ 2026-04-17: Cross-review interface-friction.md and mental-effort.md considering phenomenology-of-resistance-across-domains insights
 - **Type**: cross-review
