@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Address interpretation-dependency of structural parallel and MWI response in quantum-measurement-and-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17) Issue 3 (HIGH): the claimed "structural identity" table between the hard problem and measurement problem treats "a first-person fact obtains that the description doesn't determine" as a feature of the measurement problem, but this holds only on single-world collapse interpretations with privileged observers. On MWI, Bohmian mechanics, QBist, or epistemic-collapse readings there is no such first-person fact at measurement — the table uses a consequence of Von Neumann–Wigner as evidence *for* Von Neumann–Wigner. Reframe as conditional: "*if* one adopts single-world collapse realism, the hard problem and measurement problem share structure." Also address the Counterarguments section's MWI indexical response: the article dismisses MWI in one paragraph without engaging Sebens-Carroll (2018), Wallace (2012), Saunders (2010) self-locating uncertainty — which dissolves "why am I experiencing this branch?" by treating it indexically like "why this moment?" See reviews/pessimistic-2026-04-17.md.
-- **Source**: pessimistic-review (chain from 2026-04-17 04:40 UTC)
-- **Generated**: 2026-04-17
-
 ### P2: Address post-decoherence selection explanatory vacuity in brain-interface-boundary.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2285,6 +2278,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address interpretation-dependency of structural parallel and MWI response in quantum-measurement-and-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17) Issue 3 (HIGH): the claimed "structural identity" table between the hard problem and measurement problem treats "a first-person fact obtains that the description doesn't determine" as a feature of the measurement problem, but this holds only on single-world collapse interpretations with privileged observers. On MWI, Bohmian mechanics, QBist, or epistemic-collapse readings there is no such first-person fact at measurement — the table uses a consequence of Von Neumann–Wigner as evidence *for* Von Neumann–Wigner. Reframe as conditional: "*if* one adopts single-world collapse realism, the hard problem and measurement problem share structure." Also address the Counterarguments section's MWI indexical response: the article dismisses MWI in one paragraph without engaging Sebens-Carroll (2018), Wallace (2012), Saunders (2010) self-locating uncertainty — which dissolves "why am I experiencing this branch?" by treating it indexically like "why this moment?" See reviews/pessimistic-2026-04-17.md.
+- **Output**: obsidian/topics/quantum-measurement-and-consciousness.md
+
+Task context:
+Pessimistic review (2026-04-17) Issue 3 (HIGH): the claimed "structural identity" table between the hard problem and measurement problem treats "a first-person fact obtains that the description doesn't determine" as a feature of the measurement problem, but this holds only on single-world collapse interpretations with privileged observers. On MWI, Bohmian mechanics, QBist, or epistemic-collapse readings there is no such first-person fact at measurement — the table uses a consequence of Von Neumann–Wigner as evidence *for* Von Neumann–Wigner. Reframe as conditional: "*if* one adopts single-world collapse realism, the hard problem and measurement problem share structure." Also address the Counterarguments section's MWI indexical response: the article dismisses MWI in one paragraph without engaging Sebens-Carroll (2018), Wallace (2012), Saunders (2010) self-locating uncertainty — which dissolves "why am I experiencing this branch?" by treating it indexically like "why this moment?" See reviews/pessimistic-2026-04-17.md.
 
 ### ✓ 2026-04-17: Deep review apex/phenomenology-of-consciousness-doing-work.md
 - **Type**: deep-review

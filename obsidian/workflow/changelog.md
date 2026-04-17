@@ -5,6 +5,13 @@ ai_modified: 2026-04-17 08:19:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-17 08:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-and-consciousness]]
+- **Task**: Address interpretation-dependency of structural parallel and MWI response (pessimistic review 2026-04-17 Issue 3, HIGH)
+- **Changes**: Reframed "Structural Identity" table as conditional on single-world collapse realism (retitled column, added interpretation-relativity paragraph listing MWI, Bohmian, QBist, epistemic-collapse readings where the parallel does not obtain); expanded MWI subsection to engage Saunders 2010, Wallace 2012, Sebens & Carroll 2018 self-locating uncertainty response; narrowed Map's remaining objections to ontological/epistemic shift and independent loss of mental causation; added three new references
+- **Published**: yes (draft: false)
+
 ## 2026-04-17 08:19 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/consciousness-and-the-physics-of-information]]
