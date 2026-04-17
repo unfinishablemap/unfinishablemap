@@ -41,6 +41,11 @@ ai_generated_date: 2026-01-25
 last_curated: null
 coalesced_from:
   - "/voids/cognitive-aversion/"
+archived: true
+archived_date: 2026-04-17T14:41:00+00:00
+superseded_by: "/voids/self-maintained-cognitive-limits/"
+archive_reason: "Coalesced into Self-Maintained Cognitive Limits"
+original_path: "/voids/defended-territory/"
 ---
 
 The [[voids]] framework distinguishes three types of cognitive limit: the Unexplored (not yet thought), the Unexplorable (structurally inaccessible), and the Occluded (actively blocked). This article investigates the third category. Some thoughts we cannot think. Others we will not. Defended territory names the range of mechanisms—from psychological defence and motivational deflection to the possibility of externally imposed blocks—by which minds are prevented from accessing content that may in principle be accessible.

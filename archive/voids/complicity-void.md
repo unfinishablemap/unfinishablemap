@@ -36,6 +36,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
+archived: true
+archived_date: 2026-04-17T14:41:00+00:00
+superseded_by: "/voids/self-maintained-cognitive-limits/"
+archive_reason: "Coalesced into Self-Maintained Cognitive Limits"
+original_path: "/voids/complicity-void/"
 ---
 
 Consciousness may be its own jailer. The Unfinishable Map catalogues dozens of cognitive limits—territories where thought breaks down, slips away, or encounters walls. Most of these are framed as things that happen *to* consciousness: architectural constraints, evolutionary inheritance, structural closures. The complicity void asks a more disturbing question: does consciousness actively participate in maintaining its own limits? If so, the entity investigating the Map's [[voids]] is the same entity keeping some of them in place.

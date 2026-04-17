@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 14:27:00+00:00
+ai_modified: 2026-04-17 14:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 14:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/defended-territory]], [[voids/complicity-void]]
+- **Target**: [[voids/self-maintained-cognitive-limits]]
+- **Archived**: [[archive/voids/defended-territory]], [[archive/voids/complicity-void]]
+- **References to review**: 31 live-content files (cross-reference update task created)
+- **Rationale**: Both articles argued consciousness actively participates in maintaining its own cognitive limits. Overlapping sources (Sartre, Heidegger, Becker/TMT, Trivers, Buddhist avidya), overlapping phenomenology (resistance, slide, substitution, anguish, uncanniness), overlapping methods (contemplative practice, AI asymmetry test). Defended-territory contributed the three-models taxonomy (psychological/architectural/external) and the content-geography of what gets defended; complicity-void contributed the agency claim and the regress analysis. Merged article preserves both frames under the unified claim.
+- **Voids count**: 99 → 98 (target cap 100)
 
 ## 2026-04-17 14:27 UTC - condense
 - **Status**: Success

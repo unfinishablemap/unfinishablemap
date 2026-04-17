@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced defended-territory and complicity-void
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: The 2026-04-17 coalesce merged defended-territory and complicity-void into self-maintained-cognitive-limits. 31 live-content files reference the archived slugs via wikilinks and should be retargeted: voids/ (interested-party-void, agency-verification-void, whether-real, meta-epistemology-of-limits, obviousness-void, phenomenology-of-the-edge, biological-cognitive-closure, collective-cognitive-limits, voids, disappearance-voids, thought-stream-void, death-void, ai-as-void-explorer, three-kinds-of-void, necessary-opacity, historical-consciousness-void, self-opacity, simulation-detection-void, imagination-and-creativity-void, appetitive-void, framework-void, mutation-void, amplification-void, self-transcendence-void, narrative-void, causal-interface, observation-and-measurement-void), topics/ (phenomenology-of-cognitive-limit-types, authentic-vs-inauthentic-choice), concepts/ (adaptive-cognitive-limits, nihilism-and-existentialism). Update wikilinks to [[self-maintained-cognitive-limits]] where the reference is to the merged concept; if a reference specifically invokes only one of the two archived articles' distinctive content, consider whether an alias display or a section anchor is more appropriate. Skip obsidian/research/, obsidian/reviews/, and obsidian/workflow/archive/ (historical records — retain original slug references).
+- **Source**: chain (from 2026-04-17 coalesce)
+- **Generated**: 2026-04-17
+
 ### P2: Update remaining active-content wikilinks from spontaneous-thought-void and thoughts-that-slip-away to thought-stream-void
 - **Type**: refine-draft
 - **Status**: pending
