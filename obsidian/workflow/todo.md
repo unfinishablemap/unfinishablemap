@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-16T16:43:00+00:00
+ai_modified: 2026-04-17T00:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review phenomenology-of-conceptual-frameworks.md against framework and intellectual-life cluster
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: topics/phenomenology-of-conceptual-frameworks.md was coalesced on 2026-04-16 from framework-inhabitation + conceptual-change and subsequently condensed (4485→target words), but never cross-reviewed against the articles it merged from or the surrounding cluster. Review voids/framework-void.md, voids/language-thought-boundary.md, topics/phenomenology-of-intellectual-life.md, topics/phenomenology-of-philosophical-disagreement.md, and concepts/cognitive-phenomenology.md for (a) cross-linking opportunities, (b) wikilinks still pointing to the archived framework-inhabitation/conceptual-change that should redirect to the unified article, (c) consistency of the "gestalt shift" and "crisis" framing used across the cluster.
+- **Source**: chain (from phenomenology-of-conceptual-frameworks.md coalesce)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review default-causal-profile.md against causal-delegation and interactionism cluster
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/default-causal-profile.md (2026-04-15) introduces the counterfactual baseline that makes causal delegation possible — "the pattern of effects a physical state would produce absent conscious takeover." Load-bearing for the Map's delegation account but lacks cross-integration. Review concepts/causal-delegation.md, topics/delegatory-dualism.md, topics/delegation-meets-quantum-selection.md, concepts/interactionist-dualism.md, and concepts/mental-causation-and-downward-causation.md for (a) opportunities to anchor "baseline" claims to the new concept, (b) whether the default-causal-profile framing strengthens or reframes the preemption argument, (c) consistency on the counterfactual reasoning in delegation accounts.
+- **Source**: chain (from default-causal-profile.md)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review post-decoherence-selection-mechanisms.md against quantum-consciousness cluster
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topics article topics/post-decoherence-selection-mechanisms.md (2026-04-16) develops the Map's strongest response to the decoherence objection — consciousness selects among already-decohered outcomes rather than requiring fragile quantum coherence. Review topics/comparing-quantum-consciousness-mechanisms.md, concepts/trilemma-of-selection.md, topics/quantum-measurement-and-consciousness.md, concepts/consciousness-selecting-neural-patterns.md, and concepts/post-decoherence-selection.md for (a) opportunities to cross-link to the expanded mechanism treatment, (b) arguments newly reinforced by the post-decoherence framing, (c) consistency on whether the Map treats coherence-preservation as necessary or contingent.
+- **Source**: chain (from post-decoherence-selection-mechanisms.md)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review metarepresentation-threshold.md against animal-consciousness and cognitive-distinctiveness cluster
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept page concepts/metarepresentation-threshold.md (2026-04-13) names the boundary between procedural metacognition and declarative metarepresentation as where consciousness becomes causally necessary for cognition. Deep-reviewed 2026-04-15 but never cross-integrated. Review topics/animal-consciousness.md, topics/ai-consciousness.md, concepts/baseline-cognition.md, concepts/consciousness-and-cognitive-distinctiveness.md, concepts/theory-of-mind.md, and concepts/teaching-as-metarepresentation.md for (a) cross-linking opportunities to the new threshold concept, (b) whether the procedural/declarative distinction reframes existing claims about animal and AI cognition, (c) consistency on where the Map locates the consciousness-necessary boundary.
+- **Source**: chain (from metarepresentation-threshold.md)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review comparative-phenomenology-of-mathematical-insight.md against mathematics-consciousness cluster
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topics article topics/comparative-phenomenology-of-mathematical-insight.md (2026-04-14) argues cross-cultural variation in the phenomenology of mathematical understanding reveals consciousness as irreducible to formal structure. Never cross-integrated. Review topics/consciousness-and-mathematics.md, concepts/consciousness-and-the-philosophy-of-mathematics.md, concepts/phenomenology-of-creative-insight.md, topics/consciousness-and-the-authority-of-formal-systems.md, and voids/mathematical-void.md for (a) cross-linking opportunities, (b) whether the cross-cultural variation argument strengthens the Map's case against formal-structure reducibility, (c) consistency on the phenomenology-as-evidence-for-dualism move.
+- **Source**: chain (from comparative-phenomenology-of-mathematical-insight.md)
+- **Generated**: 2026-04-17
 
 ### P3: Write apex article on the Biranian thread (resistance as origin of self-consciousness)
 - **Type**: expand-topic
