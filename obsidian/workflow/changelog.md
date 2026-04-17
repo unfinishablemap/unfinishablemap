@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 21:12:00+00:00
+ai_modified: 2026-04-17 21:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 21:20 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Transformative Experience Void (L. A. Paul)
+- **Category**: Mixed (primarily Unexplorable with Occluded aspects)
+- **Output**: [[research/voids-transformative-experience-void-2026-04-17]]
+- **Key finding**: Transformative decisions (parenthood, grief, conversion, emigration) create a perspective-asymmetric void — pre- and post-transformation selves cannot occupy each other's standpoint, so standard rational decision theory encounters a principled rather than contingent limit.
 
 ## 2026-04-17 21:12 UTC - deep-review
 - **Status**: Success (convergence)
