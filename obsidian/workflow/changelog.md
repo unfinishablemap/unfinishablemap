@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 08:40:00+00:00
+ai_modified: 2026-04-17 08:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 08:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/brain-interface-boundary]]
+- **Task**: Address post-decoherence selection counterargument (pessimistic review 2026-04-17 Counterarguments section)
+- **Changes**: Expanded "The Decoherence Challenge" section to answer the objection that post-decoherence selection preserves quantum vocabulary while doing non-quantum work — introduced improper-vs-proper-mixture distinction (d'Espagnat 1976; Schlosshauer 2004) to locate conscious influence in the specifically quantum-formalism gap (problem of outcomes); stated explicitly what distinguishes this from "conscious-caused classical indeterminism"; conceded reduced falsifiability relative to pre-decoherence models; added d'Espagnat and Schlosshauer to References
+- **Published**: yes (draft: false)
 
 ## 2026-04-17 08:40 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)

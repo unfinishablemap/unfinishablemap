@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 08:19:00+00:00
+ai_modified: 2026-04-17 08:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 08:40 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section searched**: voids/ (99/100 cap, most pressured section)
+- **Clusters evaluated**: 6 iterations — affective/appetitive/valence/emotional-epistemology; biological/embodiment/formal/collective cognitive-limits series; thoughts-that-slip-away / disappearance-voids; indexical / ownership / involuntariness / thrownness; acquaintance / second-person; causal-interface / interface-formalization
+- **Reason**: All examined articles are deliberately well-differentiated, with explicit disambiguation language and cross-references. The cognitive-limits series forms an intentional taxonomy (biological vs embodiment vs formal vs collective sources). Each candidate merge would flatten deliberate nuance. The voids section appears carefully curated with sibling articles staking distinct philosophical territories.
+
+## 2026-04-17 08:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Task**: Address interpretation-dependency of structural parallel and MWI response (pessimistic review 2026-04-17 Issue 3, HIGH)
+- **Changes**: Reframed "Structural Identity" table as conditional on single-world collapse realism (retitled column, added interpretation-relativity paragraph listing MWI, Bohmian, QBist, epistemic-collapse readings where the parallel does not obtain); expanded MWI subsection to engage Saunders 2010, Wallace 2012, Sebens & Carroll 2018 self-locating uncertainty response; narrowed Map's remaining objections to ontological/epistemic shift and independent loss of mental causation; added three new references
+- **Published**: yes (draft: false)
 
 ## 2026-04-17 08:19 UTC - deep-review
 - **Status**: Success

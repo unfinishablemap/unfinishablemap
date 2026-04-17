@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address post-decoherence selection explanatory vacuity in brain-interface-boundary.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17) Counterargument: after decoherence the state is classical-like; "selecting" an outcome from a decohered mixture is indistinguishable from asserting that classical randomness has a mental cause — a view with no empirical signature and no connection to quantum mechanics specifically. Either specify what distinguishes conscious selection from a decohered mixture from conscious-caused classical indeterminism (required to retain quantum vocabulary), or relocate the framework to non-quantum selection and drop the quantum machinery. The "post-decoherence selection" fallback currently preserves the vocabulary while abandoning the specifically quantum content. See reviews/pessimistic-2026-04-17.md Counterarguments section.
-- **Source**: pessimistic-review (chain from 2026-04-17 04:40 UTC)
-- **Generated**: 2026-04-17
-
 ### P2: Address rhetorical loading, unsupported claims, and epiphenomenalism supervenience in parsimony-case-for-interactionist-dualism.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2278,6 +2271,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address post-decoherence selection explanatory vacuity in brain-interface-boundary.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17) Counterargument: after decoherence the state is classical-like; "selecting" an outcome from a decohered mixture is indistinguishable from asserting that classical randomness has a mental cause — a view with no empirical signature and no connection to quantum mechanics specifically. Either specify what distinguishes conscious selection from a decohered mixture from conscious-caused classical indeterminism (required to retain quantum vocabulary), or relocate the framework to non-quantum selection and drop the quantum machinery. The "post-decoherence selection" fallback currently preserves the vocabulary while abandoning the specifically quantum content. See reviews/pessimistic-2026-04-17.md Counterarguments section.
+- **Output**: obsidian/concepts/brain-interface-boundary.md
+
+Task context:
+Pessimistic review (2026-04-17) Counterargument: after decoherence the state is classical-like; "selecting" an outcome from a decohered mixture is indistinguishable from asserting that classical randomness has a mental cause — a view with no empirical signature and no connection to quantum mechanics specifically. Either specify what distinguishes conscious selection from a decohered mixture from conscious-caused classical indeterminism (required to retain quantum vocabulary), or relocate the framework to non-quantum selection and drop the quantum machinery. The "post-decoherence selection" fallback currently preserves the vocabulary while abandoning the specifically quantum content. See reviews/pessimistic-2026-04-17.md Counterarguments section.
 
 ### ✓ 2026-04-17: Address interpretation-dependency of structural parallel and MWI response in quantum-measurement-and-consciousness.md
 - **Type**: refine-draft

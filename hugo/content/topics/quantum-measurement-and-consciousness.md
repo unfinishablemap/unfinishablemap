@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-29 20:54:00+00:00
+ai_modified: 2026-04-17 08:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -69,9 +69,9 @@ Wigner's friend thought experiment sharpens the point. If a physicist performs a
 
 ## The Structural Identity with the Hard Problem
 
-The hard problem asks: why is there *something it is like* to be a physical system processing information? Physics describes neurons firing but doesn't explain why firing neurons are accompanied by the redness of red. Strip both problems to their essentials:
+The hard problem asks: why is there *something it is like* to be a physical system processing information? Physics describes neurons firing but doesn't explain why firing neurons are accompanied by the redness of red. The parallel below presupposes single-world collapse realism—an interpretation on which one outcome becomes actual at measurement and others do not. On that framing, strip both problems to their essentials:
 
-| Measurement Problem | Hard Problem |
+| Measurement Problem (single-world collapse realism) | Hard Problem |
 |---------------------|--------------|
 | Complete third-person description exists (wave function) | Complete third-person description exists (or could in principle) |
 | A first-person fact obtains that the description doesn't determine | A first-person fact obtains that the description doesn't determine |
@@ -79,9 +79,11 @@ The hard problem asks: why is there *something it is like* to be a physical syst
 | Physics describes probabilities for outcomes | Physics describes neural processing |
 | Physics doesn't explain why *this* outcome for *this* observer | Physics doesn't explain why *any* experience for *this* subject |
 
-The [knowledge argument](/concepts/knowledge-argument/) applies to both cases with minimal modification. Mary knows all physical facts about colour vision but learns something new when she first sees red. A physicist knows the complete quantum state of a system but not which outcome will obtain *for this observer*. In both cases, the first-person fact is logically independent of the third-person description.
+This parallel is interpretation-relative, and the qualification matters. On [Many-Worlds](/concepts/many-worlds/), no first-person fact is left undetermined at measurement because all outcomes actualise across branches. On Bohmian mechanics, outcomes are fixed by hidden variables. On [QBist](/concepts/qbism/) readings, outcomes are agent-relative credences rather than mind-independent facts. On epistemic-collapse interpretations, no physical selection event occurs at all. The structural identity above therefore holds *if* one adopts single-world collapse realism with a privileged observer role—which is the interpretation this article argues for. The parallel cannot serve as independent evidence against rival interpretations without circularity. It functions instead as a consilience argument *within* the collapse-realist family: once collapse realism is on the table, the measurement problem and the hard problem turn out to be the same kind of problem, and the same resource—consciousness as first-person terminus—naturally addresses both.
 
-If the hard problem reveals something fundamental about the mind-body relation, the same structure in measurement reveals something fundamental about the observer-physics relation. The measurement problem stands to the hard problem as a specific instance of a general structural feature. The [reverse inference](/topics/the-reverse-inference/) exploits this structural identity methodologically: if consciousness is the more secure datum, it should constrain our interpretation of measurement rather than the reverse.
+The [knowledge argument](/concepts/knowledge-argument/) applies to both cases with minimal modification, again conditional on collapse realism. Mary knows all physical facts about colour vision but learns something new when she first sees red. A physicist who accepts that one outcome becomes actual knows the complete quantum state of a system but not which outcome will obtain *for this observer*. In both cases, the first-person fact is logically independent of the third-person description.
+
+If the hard problem reveals something fundamental about the mind-body relation, the same structure in measurement—on collapse-realist assumptions—reveals something fundamental about the observer-physics relation. The measurement problem, so construed, stands to the hard problem as a specific instance of a general structural feature. The [reverse inference](/topics/the-reverse-inference/) exploits this structural identity methodologically: if consciousness is the more secure datum, it should constrain our interpretation of measurement rather than the reverse.
 
 ## The Gap Decoherence Cannot Close
 
@@ -119,7 +121,9 @@ This immediately raises a puzzle: what selected outcomes during the 13.8 billion
 
 ### Deny the Gap: Many-Worlds
 
-The [Many-Worlds Interpretation](/concepts/many-worlds/) denies that one outcome becomes actual—all outcomes occur in branching universes. The Map [rejects Many-Worlds](/tenets/#no-many-worlds): the interpretation faces the [indexical problem](/topics/indexical-identity-quantum-measurement/) (why am I experiencing *this* branch?), eliminates [mental causation](/concepts/mental-causation-and-downward-causation/) (if all outcomes happen regardless, choice makes no difference), and treats the phenomenology of single experienced outcomes as systematically misleading.
+The [Many-Worlds Interpretation](/concepts/many-worlds/) denies that one outcome becomes actual—all outcomes occur in branching universes. The strongest version of this response develops *self-locating uncertainty* (Saunders 2010; Wallace 2012; Sebens and Carroll 2018): after branching but before observing the outcome, a branch-inhabitant does not know which branch they occupy, and the Born rule emerges as rational credence under that uncertainty. On this account, "why am I experiencing *this* branch?" receives the same treatment as "why this moment in time?"—indexical but not metaphysically puzzling. The question does not ask for a fact beyond the specification of which space-time region the subject occupies.
+
+The Map [rejects Many-Worlds](/tenets/#no-many-worlds) while acknowledging that self-locating uncertainty is more developed than the bare indexical objection can defeat. Two concerns remain. First, the move converts an ontological question (which outcome is real?) into an epistemic one (which branch am I in?), and the phenomenology of experiencing a single outcome is not credence but actualisation—the collapse realist treats this dissolution as changing the subject rather than answering it. Second, [mental causation](/concepts/mental-causation-and-downward-causation/) is eliminated independently of whether probability is rescued: if every choice branches into all alternatives, preferring one cannot differentially bring it about, since each alternative is equally realised. See [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) and [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) for extended engagement.
 
 ### Accept the Gap: Objective Collapse
 
@@ -211,9 +215,24 @@ This topic is central to the Map's framework, connecting all five tenets:
 1. Ghirardi, G.C., Rimini, A., Weber, T. (1986). "Unified dynamics for microscopic and macroscopic systems." *Physical Review D*.
 1. Kremnizer, K., & Ranchin, A. (2015). Integrated information-induced quantum collapse. *Foundations of Physics*, 45(8), 889-899.
 1. Okon, E., & Sebastián, M.A. (2016). How to make quantum theory compatible with human experience. *Foundations of Physics*, 46(12), 1529-1552.
+1. Saunders, S. (2010). "Chance in the Everett interpretation." In *Many Worlds? Everett, Quantum Theory, and Reality*, eds. Saunders, Barrett, Kent, and Wallace. Oxford University Press.
+1. Sebens, C.T. & Carroll, S.M. (2018). "Self-Locating Uncertainty and the Origin of Probability in Everettian Quantum Mechanics." *British Journal for the Philosophy of Science*, 69(1), 25-74.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tomaz, A.A., Mattos, R.S., Barbatti, M. (2025). "The Quantum Measurement Problem: A Review of Recent Trends." arXiv:2502.19278.
 1. Von Neumann, J. (1932). *Mathematical Foundations of Quantum Mechanics*. Princeton University Press.
+1. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
 1. Wheeler, J.A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, eds. Wheeler and Zurek. Princeton University Press.
 1. Wigner, E.P. (1961). "Remarks on the mind-body question." In *The Scientist Speculates*, ed. I.J. Good.
 1. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
+
+<!-- AI REFINEMENT LOG - 2026-04-17
+Changes made:
+- Reframed the "Structural Identity with the Hard Problem" table as interpretation-relative: added a preceding clause stating the parallel presupposes single-world collapse realism, retitled the table's left column accordingly, and inserted a paragraph after the table explicitly naming MWI, Bohmian mechanics, QBism, and epistemic-collapse as interpretations on which the parallel does not obtain. Acknowledged that the structural identity cannot function as independent evidence against rival interpretations without circularity; recharacterised it as a consilience argument within the collapse-realist family.
+- Expanded the "Deny the Gap: Many-Worlds" subsection from a single dismissive paragraph to engage the self-locating uncertainty response of Saunders (2010), Wallace (2012), and Sebens & Carroll (2018). Granted that this response dissolves the bare "why this branch?" indexical puzzle by indexicalising it like "why this moment?". Narrowed the Map's objections to two that survive the self-locating move: (a) the conversion of an ontological question into an epistemic one does not address the phenomenology of actualisation, and (b) mental causation is eliminated independently of whether probability is rescued.
+- Added three new references: Saunders (2010), Sebens & Carroll (2018), Wallace (2012).
+- Updated ai_modified timestamp.
+
+Addresses pessimistic review 2026-04-17 Issue 3 (HIGH) and the MWI indexical counterargument noted in the same review's Counterarguments section.
+
+This log should be removed after human review.
+-->
