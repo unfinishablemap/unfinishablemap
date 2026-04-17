@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review disappearance-voids.md considering anesthesia-void and the three-states taxonomy
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: voids/disappearance-voids.md (last deep-reviewed 2026-04-09) coalesced the fatigue-void and two related disappearance modes. The new voids/anesthesia-void.md (2026-04-17) treats a further disappearance case — pharmacologically-induced loss — with the Mashour three-states taxonomy and the memory-failure-dualism vs interface-disruption-dualism comparison. Review disappearance-voids to (a) check whether anaesthesia belongs thematically inside disappearance-voids or stands apart (current structure suggests apart, but this should be explicit), (b) add cross-links where the compound-failure-signature framing from anesthesia-void applies to fatigue/attention-lapse material, (c) verify the article does not implicitly adopt a master-switch framing that anesthesia-void now refutes, (d) update to reflect the memory-failure vs interface-disruption distinction if load-bearing for the disappearance cases. Log findings either way.
-- **Source**: chain (from voids/anesthesia-void.md)
-- **Generated**: 2026-04-17
-
 ### ~~P3: Write article on the fatigue void~~ ✅
 - **Type**: expand-topic
 - **Status**: superseded
@@ -2316,6 +2309,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review disappearance-voids.md considering anesthesia-void and the three-states taxonomy
+- **Type**: cross-review
+- **Notes**: voids/disappearance-voids.md (last deep-reviewed 2026-04-09) coalesced the fatigue-void and two related disappearance modes. The new voids/anesthesia-void.md (2026-04-17) treats a further disappearance case — pharmacologically-induced loss — with the Mashour three-states taxonomy and the memory-failure-dualism vs interface-disruption-dualism comparison. Review disappearance-voids to (a) check whether anaesthesia belongs thematically inside disappearance-voids or stands apart (current structure suggests apart, but this should be explicit), (b) add cross-links where the compound-failure-signature framing from anesthesia-void applies to fatigue/attention-lapse material, (c) verify the article does not implicitly adopt a master-switch framing that anesthesia-void now refutes, (d) update to reflect the memory-failure vs interface-disruption distinction if load-bearing for the disappearance cases. Log findings either way.
+- **Output**: obsidian/voids/disappearance-voids.md -- Context: Cross-review disappearance-voids.md considering anesthesia-void and the three-states taxonomy
 
 ### ✓ 2026-04-17: Cross-review filter-theory.md considering anesthesia-void and the three-states taxonomy
 - **Type**: cross-review
