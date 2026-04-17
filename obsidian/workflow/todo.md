@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense voids/apophatic-cartography.md (3255 words, 109% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ (soft 2000, hard 3000, critical 4000). Grew during 2026-04-17 afternoon refinement that addressed pessimistic-2026-04-17c Issues 3-4 and 6 (falsifiability, cross-tradition convergence, Buddhist tension). Preserve the hard-won falsifiability operationalisation, cross-tradition historical-transmission acknowledgment, and Nagarjuna/indexicalism tension handling while trimming expository redundancy. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-17
+
+### P2: Address pessimistic-2026-04-17 findings in parsimony-case, quantum-measurement, brain-interface-boundary
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17) flagged five cross-cutting issues in three load-bearing articles. (1) HIGH — parsimony-case-for-interactionist-dualism.md "Three Unavoidable Debts"/"Modesty Argument": the framing that dualism has "one open problem" is a dimensional trick; psychophysical laws expand into 5-7 sub-problems (which mental properties enter, coupling form, determinism, conservation, pairing, origin). Rewrite modesty comparison to acknowledge sub-problems while retaining the overall parsimony argument. (2) MEDIUM — parsimony-case "Precondition That Never Held": the Lycan 2009 quote is used as concession but Lycan ultimately rejects dualism on aggregate parsimony grounds; add acknowledgment of his conclusion then explain why the Map reads the premise differently. (3) HIGH — quantum-measurement-and-consciousness.md "Structural Identity with the Hard Problem" section: the "first-person fact obtains" parallel is only true on single-world collapse realism; on MWI/Bohmian/QBist readings it dissolves. Weaken to conditional: "*if* one adopts single-world collapse realism, the hard problem and measurement problem share structure." (4) MEDIUM-HIGH — brain-interface-boundary.md "Five Criteria" section: Criterion 5 (developmental history) is plainly a patch designed to rule out BCIs/uploaded minds; either drop it or defend independently of excluding adversarial cases. (5) MEDIUM — note the overnight revision already addressed the null-PK/effect-size issue flagged as Issue 5. See pessimistic-2026-04-17.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Address pessimistic-2026-04-17b findings in anesthesia-void, split-brain-consciousness, quantum-interpretations
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17b) flagged four cross-cutting issues. (1) HIGH — anesthesia-void.md "Relation to Site Perspective" final paragraph: the memory-failure defence is dismissed as positing "unremembered mental life we have no independent grounds to believe in," but interface-disruption is in the same epistemic position. Make the parsimony argument explicit (interface disruption explains dissociability; memory failure does not) or weaken conclusion to "choice between memory-failure and interface-disruption readings remains open within dualism." (2) HIGH — anesthesia-void.md and split-brain-consciousness.md: both treat physicalism as committed to "one master switch" view; contemporary functionalists predict the dissociability cited as evidence against physicalism. Add at least one paragraph in each distinguishing actual sophisticated physicalism (Block, Tononi-as-physicalist, multi-realisability) from the strawman. (3) MEDIUM — split-brain-consciousness.md "Connection to the Binding Problem": conflates neural synchronization with Φ. The 2025 findings refute a connectivity-based proxy for IIT, not IIT's prediction directly. Weaken the IIT-refutation claim or justify linking synchronization to Φ explicitly. (4) MEDIUM — quantum-interpretations.md: QBism rated "Mixed" site compatibility but the article uses anti-QBist anti-realism arguments elsewhere. Either downgrade QBism to "Low" or explain why agent-centrality redeems the anti-realism here while the same anti-realism is grounds for dismissal elsewhere. See pessimistic-2026-04-17b.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
 ### ~~P3: Write article on the fatigue void~~ ✅
 - **Type**: expand-topic
 - **Status**: superseded
