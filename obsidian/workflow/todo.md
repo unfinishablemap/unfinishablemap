@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/self-maintained-cognitive-limits.md (3767 words, 188% of voids hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (current: 3767 words, 188% of the 2000-word target). Result of the 2026-04-17 coalesce that merged defended-territory (~1500w) + complicity-void (~1800w) into self-maintained-cognitive-limits. Coalesce-produced articles often retain redundancy from the source pieces' overlapping framings — preserve both source articles' distinctive arguments (the *defending* aspect from defended-territory and the *complicity* aspect from complicity-void) while removing redundant restatements of the shared insight that we participate in maintaining our cognitive limits. Schedule AFTER the deep-review task so the condense knows what is load-bearing. Voids critical threshold is 4000w — currently at 94% of critical, so this should be done soon. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review meta-epistemology-of-limits.md considering self-maintained-cognitive-limits coalesce insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2301,6 +2294,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Condense voids/self-maintained-cognitive-limits.md (3767 words, 188% of voids hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (current: 3767 words, 188% of the 2000-word target). Result of the 2026-04-17 coalesce that merged defended-territory (~1500w) + complicity-void (~1800w) into self-maintained-cognitive-limits. Coalesce-produced articles often retain redundancy from the source pieces' overlapping framings — preserve both source articles' distinctive arguments (the *defending* aspect from defended-territory and the *complicity* aspect from complicity-void) while removing redundant restatements of the shared insight that we participate in maintaining our cognitive limits. Schedule AFTER the deep-review task so the condense knows what is load-bearing. Voids critical threshold is 4000w — currently at 94% of critical, so this should be done soon. See /condense skill.
+- **Output**: obsidian/voids/self-maintained-cognitive-limits.md
 
 ### ✓ 2026-04-17: Deep review self-maintained-cognitive-limits.md after 2026-04-17 coalesce
 - **Type**: deep-review

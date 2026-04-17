@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 15:35:00+00:00
+ai_modified: 2026-04-17 15:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 15:41 UTC - condense
+- **Status**: Success
+- **File**: [[voids/self-maintained-cognitive-limits]]
+- **Before**: 2990 words
+- **After**: 2412 words
+- **Reduction**: 19%
+- **Technique**: Tightened prose across all sections (removed hedging, redundant framing sentences, repeated context); condensed 7 Convergent Evidence subsections; merged "Existential rupture" + "Therapeutic and contemplative resistance" phenomenology markers into one; cut "What Would Challenge" from 6 points to 4 (dropped cross-species uniformity and cross-cultural divergence as lower-value tests); trimmed Three Models, Complicity, Investigator Problem, and Regress sections. Preserved all tenet connections, core arguments, opening summary, and cross-links.
 
 ## 2026-04-17 15:35 UTC - deep-review
 - **Status**: Success
