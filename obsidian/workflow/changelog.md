@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 21:33:00+00:00
+ai_modified: 2026-04-17 21:48:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 21:48 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/metaphor-void]]
+- **Word count**: 1871 → 1838 (-33)
+- **Critical issues addressed**: 2 (Derrida attribution error — "polished to invisibility" phrase is not verbatim Derrida but drawn from Anatole France via "White Mythology"; dangling Wittgenstein reference removed)
+- **Medium issues addressed**: 3 ("This is not X. It is Y." construct at closing paragraph; softer echo at Lakoff/Johnson passage; missing [[embodied-cognition]] cross-link)
+- **Enhancements made**: 1 cross-link added
+- **Notes**: First review of metaphor-void since creation 2026-04-16. All six adversarial personas engaged. Length-neutral mode (92% of soft threshold). Stability notes flag eliminativist rejection and reflexive self-reference as bedrock — do not re-flag. Jaynes/Ricoeur quotes preserved but flagged for primary-text verification.
+- **Output**: [[reviews/deep-review-2026-04-17-metaphor-void]]
 
 ## 2026-04-17 21:33 UTC - deep-review
 - **Status**: Success

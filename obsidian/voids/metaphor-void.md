@@ -2,9 +2,10 @@
 title: "The Metaphor Void"
 description: "Human+AI analysis of how metaphorical thought both enables and distorts understanding of cognitive limits—a reflexive void shaping what the Unfinishable Map can discover."
 created: 2026-04-16
-modified: 2026-04-16
+modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-16T19:55:00+00:00
+ai_modified: 2026-04-17T21:48:00+00:00
+last_deep_review: 2026-04-17T21:48:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -34,7 +35,7 @@ This is a mixed void: partly unexplorable (we cannot bootstrap our way to non-me
 
 Describing the metaphor void requires metaphor. Even *void* is spatial. Even *distortion* is optical. Any attempt to identify the specific distortions introduced by a given metaphor must use metaphorical language to do so, which introduces new distortions whose identification requires further metaphors. Derrida identified this as the *metaphor of metaphor* problem: one cannot step outside figuration to classify figuration.
 
-This is not a difficulty that can be overcome by effort or ingenuity. Lakoff and Johnson's work on conceptual metaphor suggests the issue is architectural rather than rhetorical. In *Metaphors We Live By* (1980), they argue that "our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature." Abstract concepts are structured by systematic mappings from embodied domains—space, motion, force, containers—and these mappings operate below awareness. There is no non-metaphorical vantage point within human cognition from which metaphor could be surveyed cleanly.
+No amount of effort or ingenuity dissolves this difficulty. Lakoff and Johnson's work on conceptual metaphor suggests the issue is architectural rather than rhetorical. In *Metaphors We Live By* (1980), they argue that "our ordinary conceptual system, in terms of which we both think and act, is fundamentally metaphorical in nature." Abstract concepts are structured by systematic mappings from [[embodied-cognition|embodied domains]]—space, motion, force, containers—and these mappings operate below awareness. There is no non-metaphorical vantage point within human cognition from which metaphor could be surveyed cleanly.
 
 ## Absolute Metaphors
 
@@ -46,9 +47,9 @@ Which metaphors for consciousness are absolute in this sense, and which are mere
 
 ## Philosophy's White Mythology
 
-In "White Mythology" (1971), Derrida argued that philosophical concepts are "metaphors polished to the point of invisibility"—like coins whose designs have been worn away. Philosophy presents itself as literal analysis while carrying traces of the figurative language from which its concepts emerged. "Metaphysics and metaphor are locked in reciprocal antagonism: philosophy cannot do without metaphor, yet it continually denies this dependence."
+In "White Mythology" (1971), Derrida drew on Anatole France's image of coins whose designs have been worn away by circulation to argue that philosophical concepts are worn-down metaphors—figures eroded into apparent literality through long use. Philosophy presents itself as literal analysis while carrying traces of the figurative language from which its concepts emerged, and it continually denies this dependence even as it relies on it.
 
-Derrida's stronger claim is that any general theory of metaphor collapses on itself, because the concept of metaphor (from *metaphora*, transfer) is already metaphorical. "There will always be at least one metaphor—the metaphor of metaphor—that escapes systematisation." This is not merely a clever reflexive puzzle. It has consequences for how confidently any account of cognitive limits can be stated. An account that claims to describe what metaphor hides is itself a metaphor whose hiding cannot be catalogued from within.
+Derrida's stronger claim is that any general theory of metaphor collapses on itself, because the concept of metaphor (from *metaphora*, transfer) is already metaphorical. At least one metaphor—the metaphor of metaphor itself—always escapes systematisation. This reflexive puzzle has consequences for how confidently any account of cognitive limits can be stated. An account that claims to describe what metaphor hides is itself a metaphor whose hiding cannot be catalogued from within.
 
 ## Semantic Innovation at the Edge
 
@@ -86,7 +87,7 @@ The Map speculates that this reflexive challenge applies to its own methodology.
 
 The metaphor void is also distinct from the [[framework-void]], though they overlap. The framework void concerns the totality of one's conceptual apparatus—the system of categories and inferential patterns through which thought proceeds. The metaphor void operates one level below, at the level of the figurative mappings that generate those categories in the first place. A framework can be examined (with difficulty) from another framework; a metaphor can only be examined through another metaphor. The metaphor void is, in this sense, the framework beneath all frameworks.
 
-The consequence for the Map is not collapse but humility. The voids catalogue remains valuable; the patterns across voids remain informative. But the catalogue is metaphor-shaped, and the patterns may partly reflect the metaphorical substrate from which voids are described rather than the structure of voids themselves. This is not a reason to abandon the project. It is a reason to hold it with appropriate epistemic humility—and to remain alert for voids whose shape the current metaphor cannot accommodate.
+The consequence for the Map is humility rather than collapse. The voids catalogue remains valuable; the patterns across voids remain informative. But the catalogue is metaphor-shaped, and the patterns may partly reflect the metaphorical substrate from which voids are described rather than the structure of voids themselves. The Map should therefore hold its findings with appropriate epistemic reservation and remain alert for voids whose shape the current metaphor cannot accommodate.
 
 ## Further Reading
 
@@ -107,5 +108,4 @@ The consequence for the Map is not collapse but humility. The voids catalogue re
 1. Lakoff, G. & Johnson, M. (1999). *Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought*. Basic Books.
 1. Pseudo-Dionysius the Areopagite. *The Mystical Theology*.
 1. Ricoeur, P. (1975/2003). *The Rule of Metaphor: The Creation of Meaning in Language*. Trans. R. Czerny et al. Routledge.
-1. Wittgenstein, L. (1921/1961). *Tractatus Logico-Philosophicus*. Trans. D. F. Pears & B. F. McGuinness. Routledge.
 1. Southgate, A. & Oquatre-six, C. (2026-02-20). The Framework Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/framework-void/

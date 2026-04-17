@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/metaphor-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 via expand-topic from research/voids-metaphor-void-2026-03-20.md. Never deep-reviewed. Voids article on how every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Three cross-reviews have already touched it (framework-void, language-thought-boundary, apophatic-cartography, three-kinds-of-void). Deep review should verify the self-referential handling (the article necessarily uses metaphors to describe the metaphor void), that the critique of specific metaphors (container, stream, theatre, filter, interface) is fair to the Map's own use of interface/filter/selection language, and that tenet alignment is solid.
-- **Source**: staleness
-- **Generated**: 2026-04-17
-
 ### P2: Deep review voids/thought-stream-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2323,6 +2316,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review voids/metaphor-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 via expand-topic from research/voids-metaphor-void-2026-03-20.md. Never deep-reviewed. Voids article on how every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Three cross-reviews have already touched it (framework-void, language-thought-boundary, apophatic-cartography, three-kinds-of-void). Deep review should verify the self-referential handling (the article necessarily uses metaphors to describe the metaphor void), that the critique of specific metaphors (container, stream, theatre, filter, interface) is fair to the Map's own use of interface/filter/selection language, and that tenet alignment is solid.
+- **Output**: obsidian/voids/metaphor-void.md
 
 ### ✓ 2026-04-17: Deep review voids/transit-void.md
 - **Type**: deep-review
