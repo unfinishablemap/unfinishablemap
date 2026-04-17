@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 09:10:00+00:00
+ai_modified: 2026-04-17 09:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 09:25 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Anesthesia Void
+- **Category**: Mixed (primarily Unexplorable, with Occluded and Unexplored elements)
+- **Output**: [[research/voids-anesthesia-void-2026-04-17]]
+- **Key finding**: Anesthesia produces a first-person gap phenomenologically distinct from sleep, death, and transit voids — inaccessible from inside but partially probable from outside, making it a unique test case for the Map's interface-disruption reading of dualism versus Locke's memory-failure defence
+- **Section cap note**: voids at 98/100 — two slots remaining before capacity
 
 ## 2026-04-17 09:10 UTC - refine-draft
 - **Status**: Success
