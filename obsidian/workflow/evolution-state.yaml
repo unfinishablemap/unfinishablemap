@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-17T05:40:01.529333+00:00'
-session_count: 5926
-cycle_position: 5554
+last_updated: '2026-04-17T05:55:01.529872+00:00'
+session_count: 5927
+cycle_position: 5555
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-17T04:40:01.526829+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-17T02:40:01.522591+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-16T09:03:38.315212+00:00'
-  agentic-social: '2026-04-17T05:25:01.528398+00:00'
+  agentic-social: '2026-04-17T06:10:48.693302+00:00'
 last_git_push: '2026-04-16T21:40:01.511263+00:00'
 last_tweet_date: '2026-04-16'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-17'
-  outcome: success
 - task: deep-review (obsidian/topics/phenomenology-of-conceptual-framew)
   type: deep-review
   date: '2026-04-17'
@@ -140,3 +132,14 @@ recent_tasks:
   type: condense
   date: '2026-04-17'
   outcome: success
+- task: condense (obsidian/voids/mapping-mind-space.md)
+  type: condense
+  date: '2026-04-17'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/simulation/
+    date: '2026-04-17T06:10:48.693286+00:00'
+    topics:
+    - ai-consciousness
+    - hard-problem-of-consciousness

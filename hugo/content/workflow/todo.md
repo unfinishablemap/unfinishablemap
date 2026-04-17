@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense mapping-mind-space.md (3070 words, 154% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 2000-word voids/ hard-warning threshold (status: hard_warning). Coalesced on 2026-04-17 from mind-space-void and dimensionality-void. Preserve the location-problem and dimensionality-problem framings (the two facets of the structural void) and the distinct source material (Shanahan, Perry, Lewis, Bostrom anthropic; Abbott Flatland, Sjöstedt-Hughes, Jolly-Chang, Barron-Klein, Carr). Trim shared-reference overlap (McGinn, Nagel, Schwitzgebel) and consolidate redundant transitions introduced by the merge. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-17
-
 ### P2: Deep review mapping-mind-space.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2274,6 +2267,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Condense mapping-mind-space.md (3070 words, 154% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 2000-word voids/ hard-warning threshold (status: hard_warning). Coalesced on 2026-04-17 from mind-space-void and dimensionality-void. Preserve the location-problem and dimensionality-problem framings (the two facets of the structural void) and the distinct source material (Shanahan, Perry, Lewis, Bostrom anthropic; Abbott Flatland, Sjöstedt-Hughes, Jolly-Chang, Barron-Klein, Carr). Trim shared-reference overlap (McGinn, Nagel, Schwitzgebel) and consolidate redundant transitions introduced by the merge. See /condense skill.
+- **Output**: obsidian/voids/mapping-mind-space.md
 
 ### ✓ 2026-04-17: Condense formal-cognitive-limits.md (3203 words, 160% of target)
 - **Type**: condense
