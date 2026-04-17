@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic review findings in perceptual-degradation-and-the-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) "anaesthesia dissociation" asserted as categorical ("not gradual degradation but apparent disconnection") but anaesthesia is titratable with documented gradations from sedation through dissociation to surgical anaesthesia; intraoperative awareness, dexmedetomidine, ketamine phenomenology contradict the cleanly categorical break the argument needs. Either narrow to specific agents/concentrations or reframe four signatures as "patterns suggesting" rather than asserting. Also (b) modern deep networks demonstrate three of the four signatures (graceful degradation, priority preservation, compensatory generation) — the four-signature argument may collapse to one-and-a-half signatures, with anaesthesia carrying the load; defend the anaesthesia signature on stronger empirical ground. (c) "Bandwidth ceiling set by quantum coherence" is quantitatively empty; either commit to magnitudes or downgrade. See pessimistic-2026-04-17c.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
 ### P2: Address pessimistic review findings in apophatic-cartography.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2309,6 +2302,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address pessimistic review findings in perceptual-degradation-and-the-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) "anaesthesia dissociation" asserted as categorical ("not gradual degradation but apparent disconnection") but anaesthesia is titratable with documented gradations from sedation through dissociation to surgical anaesthesia; intraoperative awareness, dexmedetomidine, ketamine phenomenology contradict the cleanly categorical break the argument needs. Either narrow to specific agents/concentrations or reframe four signatures as "patterns suggesting" rather than asserting. Also (b) modern deep networks demonstrate three of the four signatures (graceful degradation, priority preservation, compensatory generation) — the four-signature argument may collapse to one-and-a-half signatures, with anaesthesia carrying the load; defend the anaesthesia signature on stronger empirical ground. (c) "Bandwidth ceiling set by quantum coherence" is quantitatively empty; either commit to magnitudes or downgrade. See pessimistic-2026-04-17c.md.
+- **Output**: obsidian/concepts/perceptual-degradation-and-the-interface.md
+
+Task context:
+Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) "anaesthesia dissociation" asserted as categorical ("not gradual degradation but apparent disconnection") but anaesthesia is titratable with documented gradations from sedation through dissociation to surgical anaesthesia; intraoperative awareness, dexmedetomidine, ketamine phenomenology contradict the cleanly categorical break the argument needs. Either narrow to specific agents/concentrations or reframe four signatures as "patterns suggesting" rather than asserting. Also (b) modern deep networks demonstrate three of the four signatures (graceful degradation, priority preservation, compensatory generation) — the four-signature argument may collapse to one-and-a-half signatures, with anaesthesia carrying the load; defend the anaesthesia signature on stronger empirical ground. (c) "Bandwidth ceiling set by quantum coherence" is quantitatively empty; either commit to magnitudes or downgrade. See pessimistic-2026-04-17c.md.
 
 ### ✓ 2026-04-17: Address pessimistic review findings in consciousness-interface-development.md
 - **Type**: refine-draft

@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 16:56:00+00:00
+ai_modified: 2026-04-17 17:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 17:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/perceptual-degradation-and-the-interface]]
+- **Trigger**: Pessimistic review 2026-04-17c critical issues 2, 5, and counterargument-1 (HIGH severity)
+- **Changes**:
+  - §"What the Failure Patterns Show" reframed from "four characteristic signatures that, taken together, point toward" to "four patterns...suggest"; flagged that three of the four have physicalist explanations so the load falls on anaesthesia + expansion-under-degradation
+  - §"The Anaesthesia Dissociation" rewritten: acknowledged titratability, intraoperative awareness, and ketamine/dexmedetomidine intermediate phenomenology; narrowed the strong claim to surgical-depth propofol/sevoflurane where emergence reports describe absence rather than impoverishment
+  - §"The Neural Network Objection" rebuilt: conceded deep networks reproduce three signatures; rested the case on narrowed anaesthesia + filter-expansion; added explicit falsifier paragraph
+  - §"Minimal Quantum Interaction" downgraded from bandwidth-ceiling prediction to "consistent with the tenet"; acknowledged unaddressed Tegmark 10⁻¹³ s decoherence objection; reframed interface-friction as phenomenological shape, not calculation
+  - §Dualism (Relation to Site Perspective) aligned with narrowed claim
+  - Replaced "the mask slips" with "introspective access shifts from world to medium"
+- **Published**: yes (uncommitted; automation will commit)
 
 ## 2026-04-17 16:56 UTC - refine-draft
 - **Status**: Success
