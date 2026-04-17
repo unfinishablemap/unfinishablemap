@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 19:56:00+00:00
+ai_modified: 2026-04-17 20:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 20:17 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-counterfactual-reasoning]]
+- **Word count**: 2379 → 2460 (+81)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (orphan citations activated; unsourced 2±1 ape figure replaced with hedged comparative claim)
+- **Low issues addressed**: 1 (two passages tightened to avoid "not X but Y" cliché pattern)
+- **Enhancements made**: 5 inline citations integrated (Nagel 1974, Roese 1997, Suddendorf & Corballis 2007, Van Hoeck et al. 2015, Van Inwagen 1998)
+- **Output**: [[reviews/deep-review-2026-04-17-consciousness-and-counterfactual-reasoning]]
 
 ## 2026-04-17 19:56 UTC - refine-draft (verification, no-op)
 - **Status**: Success (no changes required)
