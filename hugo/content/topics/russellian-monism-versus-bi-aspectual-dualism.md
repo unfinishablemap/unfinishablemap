@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-28 09:57:00+00:00
+ai_modified: 2026-04-17 04:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[measurement-problem]]'
 - '[[substance-property-dualism]]'
 created: 2026-03-22
-date: &id001 2026-03-28
+date: &id001 2026-04-17
 description: Russellian monism and the dual-aspect tradition approach the Map's position
   but stop short. Bi-aspectual dualism is the stable endpoint monism cannot reach.
 draft: false
@@ -97,7 +97,7 @@ Russellian monism is compatible with [causal closure](/concepts/causal-closure/)
 
 ## Russellian Monism and Many-Worlds
 
-Williams (2021) argues that constitutive Russellian panpsychism is most naturally compatible with Everett's many-worlds interpretation. Both establish symmetry between micro- and macrosystems without requiring consciousness to play a causal role at measurement. If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, all branches can persist.
+Williams (2021) argues that constitutive Russellian panpsychism is most naturally compatible with Everett's many-worlds interpretation — a compatibility the Map counts as a cost of the Russellian view, given the [No Many Worlds](/tenets/#no-many-worlds) tenet. Both establish symmetry between micro- and macrosystems without requiring consciousness to play a causal role at measurement. If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, all branches can persist.
 
 This reveals a deep divergence in physics, not just metaphysics. The Map *requires* consciousness at collapse: selection among quantum outcomes is how actuality works. Many-worlds eliminates selection by keeping all outcomes, thereby eliminating the role of consciousness as actualiser. The Map rejects [many-worlds](/tenets/#no-many-worlds) not as a preference but as a consequence of its ontology. Russellian monism's compatibility with many-worlds exposes its lack of commitment to consciousness as causally active — the very commitment the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet demands.
 
@@ -193,6 +193,16 @@ Changes made:
 
 Based on research in bi-aspectual-ontology-dual-aspect-traditions-2026-03-14.md and 2026-03-16.md.
 Key improvements: Article now positions the Map against the full dual-aspect tradition, not just Russellian monism.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-17
+Changes made:
+- Added clarifying clause to the Williams (2021) paragraph in "Russellian Monism and Many-Worlds" section, explicitly flagging MWI compatibility as a cost the Russellian view incurs from the Map's perspective. Links to the No Many Worlds tenet inline so a fast-reading skimmer cannot mistake the description for a neutral observation.
+
+Addresses tenet-check 2026-04-17 flag (only item flagged across 459 files).
+Minimal targeted edit; preserves original argument and voice.
 
 This log should be removed after human review.
 -->
