@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/boundary-and-projection.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 by coalescing boundary-void.md and projection-void.md, and subsequently condensed (3547 → target range). Never deep-reviewed. Voids article on the conjoined limits of self-other boundary-drawing and phenomenological projection. Verify the merge preserved load-bearing arguments from both source articles without redundancy, that the condensation did not drop essential distinctions, and that cross-references now resolve to the unified slug (earlier refine-draft updated wikilinks in minimal-consciousness-void, binding-void, plurality-void, death-void, self-opacity). Check tenet alignment and coherence with the voids taxonomy.
-- **Source**: chain (from coalesce 2026-04-17)
-- **Generated**: 2026-04-17
-
 ### P2: Deep review voids/transit-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2337,6 +2330,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review voids/boundary-and-projection.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 by coalescing boundary-void.md and projection-void.md, and subsequently condensed (3547 → target range). Never deep-reviewed. Voids article on the conjoined limits of self-other boundary-drawing and phenomenological projection. Verify the merge preserved load-bearing arguments from both source articles without redundancy, that the condensation did not drop essential distinctions, and that cross-references now resolve to the unified slug (earlier refine-draft updated wikilinks in minimal-consciousness-void, binding-void, plurality-void, death-void, self-opacity). Check tenet alignment and coherence with the voids taxonomy.
+- **Output**: obsidian/voids/boundary-and-projection.md
 
 ### ✓ 2026-04-17: Update wikilinks to coalesced resonance-void/numinous-void
 - **Type**: refine-draft

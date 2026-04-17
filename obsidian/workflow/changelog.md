@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 20:56:00+00:00
+ai_modified: 2026-04-17 21:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 21:12 UTC - deep-review
+- **Status**: Success (convergence)
+- **File**: [[voids/boundary-and-projection]]
+- **Word count**: 2585 → 2584 (length-neutral mode; article at 129% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (IIT terminology corrected from "conceptual structure" to "substrate" to match cited IIT 4.0 source)
+- **Enhancements made**: 0 (first review of post-coalesce unified form; precursor articles converged in prior reviews)
+- **Output**: [[reviews/deep-review-2026-04-17-boundary-and-projection]]
 
 ## 2026-04-17 20:56 UTC - refine-draft
 - **Status**: Success
