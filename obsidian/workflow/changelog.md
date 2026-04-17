@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 17:27:00+00:00
+ai_modified: 2026-04-17 17:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 17:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/apophatic-cartography]]
+- **Review addressed**: [[reviews/pessimistic-2026-04-17c]]
+- **Changes**: Operationalised falsifiability safeguard (predictive novelty, unificatory power, third-person derivability criteria) replacing unsatisfiable "genuine understanding" language; qualified cross-observer convergence with historical-transmission caveat (Pseudo-Dionysian corpus, monastic contact) and relocated independence weight to analytic philosophy and AI triangulation; added fifth criterion "Progressive Empirical Articulation" with astrology-vs-hard-problem contrast; acknowledged internal tension between Buddhist *sunyata* invocation and No-Many-Worlds indexical realism in both §The Apophatic Tradition and §Relation to Site Perspective.
+- **Published**: yes
 
 ## 2026-04-17 17:27 UTC - deep-review
 - **Status**: Success

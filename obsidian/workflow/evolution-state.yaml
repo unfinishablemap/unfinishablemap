@@ -1,19 +1,23 @@
-last_updated: '2026-04-17T17:11:59.549469+00:00'
-session_count: 5972
-cycle_position: 5600
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-17T17:26:59.549878+00:00'
+session_count: 5973
+cycle_position: 5601
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-17T16:41:59.548239+00:00'
   optimistic-review: '2026-04-17T12:11:59.537836+00:00'
   check-tenets: '2026-04-17T03:10:01.523665+00:00'
   check-links: '2026-04-17T09:10:01.537352+00:00'
-  deep-review: '2026-04-17T15:56:59.546923+00:00'
+  deep-review: '2026-04-17T17:26:59.549878+00:00'
   tune-system: '2026-04-16T09:03:38.315212+00:00'
   research-voids: '2026-04-17T09:10:01.537352+00:00'
   coalesce: '2026-04-17T14:41:59.544313+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-17T09:10:01.537352+00:00'
-  agentic-social: '2026-04-17T17:27:38.653406+00:00'
+  agentic-social: '2026-04-17T17:26:59.549878+00:00'
 last_git_push: '2026-04-17T16:11:59.547582+00:00'
 last_tweet_date: '2026-04-17'
 content_stats:
@@ -47,15 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/voids/anesthesia-void.md
-
-
-    Task context:
-
-    P)'
-  type: refine-draft
-  date: '2026-04-17'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/quantum-interpretations.md
 
 
@@ -139,10 +134,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-17'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/cumulative-culture/
-    date: '2026-04-17T17:27:38.653373+00:00'
-    topics:
-    - animal-consciousness
-    - ai-consciousness
+- task: deep-review
+  type: deep-review
+  date: '2026-04-17'
+  outcome: success

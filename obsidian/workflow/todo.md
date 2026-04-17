@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic review findings in apophatic-cartography.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) the falsifiability safeguard ("a reductive explanation generating genuine understanding") is unsatisfiable in principle if "understanding" is judged by phenomenally-committed observers; specify operational criteria a candidate reduction must meet (predictive novelty, unification of disparate phenomena, successful third-person derivation of first-person reports) or concede the worked example is suggestive rather than rigorous. Also (b) cross-tradition convergence overweights independence — Christian via negativa, Maimonides, Buddhist sunyata, Sufism are not "different cognitive architectures"; documented historical contact through Pseudo-Dionysian corpus shaped all three Abrahamic traditions. Acknowledge the historical-transmission objection. (c) Internal inconsistency: invokes Buddhist sunyata as methodological ally but closes with No-Many-Worlds indexical realism asserting "uniquely real determinate perspective" — Madhyamaka denies the reified continuant subject; either acknowledge the tension or remove Buddhist citation from the convergence argument. (d) Consider adding fifth criterion — "progressive empirical articulation" — to distinguish hard problem from astrology, which arguably satisfies the four existing criteria. See pessimistic-2026-04-17c.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review filter-theory.md considering anesthesia-void and the three-states taxonomy
 - **Type**: cross-review
 - **Status**: pending
@@ -2302,6 +2295,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address pessimistic review findings in apophatic-cartography.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) the falsifiability safeguard ("a reductive explanation generating genuine understanding") is unsatisfiable in principle if "understanding" is judged by phenomenally-committed observers; specify operational criteria a candidate reduction must meet (predictive novelty, unification of disparate phenomena, successful third-person derivation of first-person reports) or concede the worked example is suggestive rather than rigorous. Also (b) cross-tradition convergence overweights independence — Christian via negativa, Maimonides, Buddhist sunyata, Sufism are not "different cognitive architectures"; documented historical contact through Pseudo-Dionysian corpus shaped all three Abrahamic traditions. Acknowledge the historical-transmission objection. (c) Internal inconsistency: invokes Buddhist sunyata as methodological ally but closes with No-Many-Worlds indexical realism asserting "uniquely real determinate perspective" — Madhyamaka denies the reified continuant subject; either acknowledge the tension or remove Buddhist citation from the convergence argument. (d) Consider adding fifth criterion — "progressive empirical articulation" — to distinguish hard problem from astrology, which arguably satisfies the four existing criteria. See pessimistic-2026-04-17c.md.
+- **Output**: obsidian/voids/apophatic-cartography.md
+
+Task context:
+Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) the falsifiability safeguard ("a reductive explanation generating genuine understanding") is unsatisfiable in principle if "understanding" is judged by phenomenally-committed observers; specify operational criteria a candidate reduction must meet (predictive novelty, unification of disparate phenomena, successful third-person derivation of first-person reports) or concede the worked example is suggestive rather than rigorous. Also (b) cross-tradition convergence overweights independence — Christian via negativa, Maimonides, Buddhist sunyata, Sufism are not "different cognitive architectures"; documented historical contact through Pseudo-Dionysian corpus shaped all three Abrahamic traditions. Acknowledge the historical-transmission objection. (c) Internal inconsistency: invokes Buddhist sunyata as methodological ally but closes with No-Many-Worlds indexical realism asserting "uniquely real determinate perspective" — Madhyamaka denies the reified continuant subject; either acknowledge the tension or remove Buddhist citation from the convergence argument. (d) Consider adding fifth criterion — "progressive empirical articulation" — to distinguish hard problem from astrology, which arguably satisfies the four existing criteria. See pessimistic-2026-04-17c.md.
 
 ### ✓ 2026-04-17: Address pessimistic review findings in perceptual-degradation-and-the-interface.md
 - **Type**: refine-draft
