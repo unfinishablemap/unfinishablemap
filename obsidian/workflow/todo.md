@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/transit-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 by coalescing transition-void.md and initiation-void.md. Never deep-reviewed. Voids article on transit experiences — the phenomenology of crossings, thresholds, and initiations that resist retrospective phenomenal access. Verify the merge preserved the distinct contributions of both source articles, that the coalesced treatment addresses both ontological thresholds (initiation) and phenomenal gaps (transition) without blur, and that outbound cross-references work. Related pending P2 task (line ~2275) tracks inbound wikilink updates; this task handles the article itself. Check tenet alignment.
-- **Source**: chain (from coalesce 2026-04-16)
-- **Generated**: 2026-04-17
-
 ### P2: Deep review voids/metaphor-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2330,6 +2323,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review voids/transit-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 by coalescing transition-void.md and initiation-void.md. Never deep-reviewed. Voids article on transit experiences — the phenomenology of crossings, thresholds, and initiations that resist retrospective phenomenal access. Verify the merge preserved the distinct contributions of both source articles, that the coalesced treatment addresses both ontological thresholds (initiation) and phenomenal gaps (transition) without blur, and that outbound cross-references work. Related pending P2 task (line ~2275) tracks inbound wikilink updates; this task handles the article itself. Check tenet alignment.
+- **Output**: obsidian/voids/transit-void.md
 
 ### ✓ 2026-04-17: Deep review voids/boundary-and-projection.md
 - **Type**: deep-review

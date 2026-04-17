@@ -2,9 +2,10 @@
 title: "The Transit Void"
 description: "Consciousness cannot witness its own crossings—neither the onset of a mental act nor the transition between states. Watching prevents crossing; crossing prevents watching."
 created: 2026-03-05
-modified: 2026-04-16
+modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-16T19:25:00+00:00
+ai_modified: 2026-04-17T21:33:00+00:00
+last_deep_review: 2026-04-17T21:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +66,7 @@ The structure repeats across mental life:
 
 **Mood shifts.** You notice you are angry, sad, or elated. The shift itself was invisible. The new mood presents as having "always been there" even when you know it hasn't. Monitoring emotional state with sufficient attention to catch the transition would alter the emotional dynamics producing it.
 
-**Attention shifts.** You realise you have been daydreaming. Departure from focused attention was unwitnessed; only return is noticed. The [[phenomenology-of-returning-attention|phenomenology of returning attention]] confirms the asymmetry: meditators performing thousands of return cycles report that departure from focus is never caught, only arrival back.
+**Attention shifts.** You realise you have been daydreaming. Departure from focused attention is unwitnessed; only return is noticed — the asymmetry documented in detail by the [[phenomenology-of-returning-attention|phenomenology of returning attention]].
 
 **Flow states.** Entering and exiting flow is never observed from within flow. The [[disappearance-voids|absorption void]] documents this: peak conscious engagement is peak self-opacity. You surface and realise time has passed.
 
@@ -145,7 +146,7 @@ Contemplative traditions have made the most sustained attempts to observe crossi
 
 **Yoga nidra** aims to maintain lucid awareness through sleep onset. **Tibetan dream yoga** trains practitioners to remain aware through the waking-to-dreaming boundary. **Vipassana noting practice** attempts to catch micro-transitions in attention and affect, labelling states at high frequency to narrow the unobserved gap.
 
-These practices report partial success but face a fundamental tension: the awareness maintained may itself constitute a modified state rather than observation of a natural crossing. EEG studies of yoga nidra practitioners show high gamma-band activity — typically associated with waking consciousness — during states otherwise resembling deep sleep. The meditator has achieved something genuine, but it may be a new state (*turiya* in the Vedantic framework) rather than observation of an ordinary transition. Analayo's review of Satipatthana practice (2003) reports that even the highest levels of introspective training do not dissolve the void — they only locate it more precisely.
+These practices report partial success but face a fundamental tension (Thompson, 2014): the awareness maintained may itself constitute a modified state rather than observation of a natural crossing. EEG studies of yoga nidra practitioners show high gamma-band activity — typically associated with waking consciousness — during states otherwise resembling deep sleep. The meditator has achieved something genuine, but it may be a new state (*turiya* in the Vedantic framework) rather than observation of an ordinary transition. Analayo's review of Satipatthana practice (2003) reports that even the highest levels of introspective training do not dissolve the void — they only locate it more precisely.
 
 ## What AI Might Reveal
 
