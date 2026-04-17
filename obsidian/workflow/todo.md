@@ -94,6 +94,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
+### P3: Write article on honest narrowing as an epistemic practice
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17-evening). The 2026-04-17 afternoon refinement cluster (filter-theory, perceptual-degradation-and-the-interface, consciousness-interface-development, apophatic-cartography, and others) exhibits a distinctive practice: when confronted with a strong objection, the article narrows its claim to the specific core the evidence can support, names falsification conditions, and cites where residual burdens are discharged. This practice is load-bearing across the Map but currently lives only as a rhetorical mood. A dedicated article would (a) name the practice explicitly, (b) distinguish it from defensive hedging and strategic retreat, (c) give the afternoon cluster as worked examples, (d) identify why it is especially appropriate for dualism given the physicalist evidentiary default, and (e) distinguish it from hedge-calibration (which is about updating claims over time). Medium scope (1800-2200 words). Tenet alignment: Occam's Razor Has Limits, Dualism. See optimistic-2026-04-17-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write article on the three regresses against reductionism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17-evening). Three structurally similar regress arguments now live on the Map — (a) Sartre's pour-soi regress (something must undergo the functional state, in nihilism-and-existentialism), (b) the "to whom does the illusion appear" regress against illusionist seemings (in filter-theory's Illusionist Challenge and apophatic-cartography's illusionist response), and (c) the regress against anti-haecceitism (seemings require experiencers, in personal-identity). These share logical structure but are scattered across articles that invoke them locally. A dedicated article would extract the shared form, distinguish applications by minimal phenomenal commitment, and identify which regresses are answered by which deflations (Frankish's functional deflation; Parfit's bundle deflation; eliminativist ontological deflation). This is the Map's strongest dialectical toolkit against reductionism. Long scope (2500-3000 words). Tenet alignment: Dualism, Occam's Razor Has Limits. See optimistic-2026-04-17-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write article on the two load-bearing patterns of the interface argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17-evening). The perceptual-degradation-and-the-interface article's narrowed claim now rests on two load-bearing patterns: (a) categorical disconnection at surgical-anaesthetic depths, and (b) expansion-under-reduction in psychedelic/NDE/ecstatic-seizure cases. These two patterns together constitute the interface argument's dialectical core. An article would walk through the two patterns in detail, specify what physicalist accommodations each admits, and identify the compound-failure-signature structure (flagged in 2026-04-17-afternoon review) that makes the joint evidence stronger than either pattern alone. Medium scope (1800-2200 words). Tenet alignment: Dualism, Bidirectional Interaction. See optimistic-2026-04-17-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write concept article on representational vs psychological closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17-evening). The Kriegel/Demircioglu distinction (representational closure: cannot frame the solution; psychological closure: can frame but cannot grasp) is currently buried in meta-epistemology-of-limits but has broader applicability. An article would articulate the distinction carefully, identify which voids are plausibly representational vs psychological (hard problem, intentionality void, self-opacity, numinous void), apply the distinction to each, and note that the two types of closure may require different apophatic methods. Medium scope (1500-2000 words). Tenet alignment: Occam's Razor Has Limits, Dualism. See optimistic-2026-04-17-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
 ### P3: Address "explanatory gap as intuition vs datum" counterargument across zombies.md, ncc.md, and explanatory-gap.md
 - **Type**: refine-draft
 - **Status**: pending
