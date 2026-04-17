@@ -4,7 +4,7 @@ description: "Vision divides between brain-side computation and mind-side phenom
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-03-18T20:50:00+00:00
+ai_modified: 2026-04-17T23:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-17T23:29:00+00:00
+last_deep_review: 2026-04-17T23:34:00+00:00
 ---
 
 Vision is the most data-rich sense and the sharpest test case for interactionist dualism's central operational question: which capabilities belong to the brain and which to the mind? The Unfinishable Map's [[capability-division-problem|capability division problem]] frames this as a genuine void — a boundary that may resist precise drawing. This article examines the specific evidence from visual neuroscience that constrains where the division falls, establishing what the brain demonstrably handles alone and where consciousness appears to make an irreducible contribution.
@@ -61,7 +61,7 @@ If the brain handles so much, what does consciousness contribute? The evidence p
 
 ## The Two-Streams Dissociation as Structural Evidence
 
-The ventral-dorsal dissociation provides the closest thing to a neuroanatomical map of the capability division. The dorsal stream operates largely without conscious awareness and handles visuomotor coordination. The ventral stream handles object recognition and is significantly more dependent on conscious perception — ventral-pathway activity is substantially higher for consciously perceived stimuli than for matched unconscious stimuli.
+The ventral-dorsal dissociation provides the closest thing to a neuroanatomical map of the capability division. The dorsal stream operates largely without conscious awareness and handles visuomotor coordination. The ventral stream handles object recognition and is significantly more dependent on conscious perception — ventral-pathway activity is substantially higher for consciously perceived stimuli than for matched unconscious stimuli (Fahrenfort et al., 2023).
 
 The dissociation is not absolute. The streams interact, and the dorsal stream is not entirely unconscious. But the pattern holds as a first approximation: the brain's action-guidance system (dorsal) can operate with minimal mind-side contribution, while the brain's recognition system (ventral) depends heavily on phenomenal awareness.
 
