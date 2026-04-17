@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17T04:25:00+00:00
+ai_modified: 2026-04-17T04:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,20 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Address gaps in parsimony-case-for-interactionist-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17) Issues 1, 2, and 7. (1) Modesty-argument comparison treats dualism as having "one claim" while unpacking physicalism into three debts — this is dimensionally asymmetric; psychophysical laws expand to several sub-problems (mental/physical coupling form, determinism/probabilism, conservation, pairing, grounding) once made specific. (2) Lycan 2009 quote is presented as a materialist concession but omits that his paper's overall conclusion still rejects dualism on accumulated parsimony grounds — engaging this honestly strengthens rather than weakens the case. (7) "Proliferation vs. convergence" claim treats current non-convergence of physicalist theories as diagnostic of fundamental mismatch; soften to acknowledge the consciousness programme is comparatively young for its difficulty. See pessimistic-2026-04-17.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
-### P2: Address gaps in quantum-measurement-and-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17) Issue 3 (High) and counterarguments. The structural-identity table is only valid on single-world collapse interpretations with a privileged observer role — on MWI, Bohmian, and QBist readings there is no first-person fact at measurement, so the article is using a consequence of Von Neumann–Wigner as evidence *for* Von Neumann–Wigner. Rewrite as interpretation-conditional: "*if* one adopts single-world collapse realism, the structural parallel holds." Separately, the MWI dismissal does not engage self-locating-uncertainty responses (Sebens-Carroll, Wallace, Saunders) and the post-decoherence-selection fallback needs to specify what distinguishes conscious classical selection from quantum-mediated selection. See pessimistic-2026-04-17.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
 
 ### P2: Address gaps in brain-interface-boundary.md
 - **Type**: refine-draft
@@ -2301,6 +2287,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address gaps in parsimony-case-for-interactionist-dualism.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17) Issues 1, 2, and 7. (1) Modesty-argument comparison treats dualism as having "one claim" while unpacking physicalism into three debts — this is dimensionally asymmetric; psychophysical laws expand to several sub-problems (mental/physical coupling form, determinism/probabilism, conservation, pairing, grounding) once made specific. (2) Lycan 2009 quote is presented as a materialist concession but omits that his paper's overall conclusion still rejects dualism on accumulated parsimony grounds — engaging this honestly strengthens rather than weakens the case. (7) "Proliferation vs. convergence" claim treats current non-convergence of physicalist theories as diagnostic of fundamental mismatch; soften to acknowledge the consciousness programme is comparatively young for its difficulty. See pessimistic-2026-04-17.md.
+- **Output**: obsidian/topics/parsimony-case-for-interactionist-dualism.md
+
+Task context:
+Pessimistic review (2026-04-17) Issues 1, 2, and 7. (1) Modesty-argument comparison treats dualism as having "one claim" while unpacking physicalism into three debts — this is dimensionally asymmetric; psychophysical laws expand to several sub-problems (mental/physical coupling form, determinism/probabilism, conservation, pairing, grounding) once made specific. (2) Lycan 2009 quote is presented as a materialist concession but omits that his paper's overall conclusion still rejects dualism on accumulated parsimony grounds — engaging this honestly strengthens rather than weakens the case. (7) "Proliferation vs. convergence" claim treats current non-convergence of physicalist theories as diagnostic of fundamental mismatch; soften to acknowledge the consciousness programme is comparatively young for its difficulty. See pessimistic-2026-04-17.md.
 
 ### ✓ 2026-04-17: Flag MWI compatibility as cost in russellian-monism-versus-bi-aspectual-dualism.md
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-10T23:56:00+00:00
+ai_modified: 2026-04-17T04:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ Huemer (2009) surveyed four contemporary justifications for preferring simpler t
 
 The historical record reinforces this. Mach denied atoms on parsimony grounds. Geocentrism was more parsimonious than heliocentrism. Caloric theory was simpler than kinetic theory. In each case, nature proved more complex than parsimony predicted. As Masi (2023) documents, "If one misses the complexity and does not know all the underlying laws, processes, and variables that determine a phenomenon, invoking uncritically Occam's razor will almost certainly lead to an oversimplification." The consciousness debate — where the underlying laws, processes, and variables remain unknown — is precisely the kind of case where parsimony is least trustworthy.
 
-Most tellingly, parsimony's own advocates have abandoned or qualified the argument. Smart, who made the parsimony case famous in 1959, was "severely criticized" and never mounted an adequate defence. Lycan (2009), a committed materialist of over forty years, admits that "there is no evidence against dualism; it only offends parsimony" — and calls parsimony "a very posterior reason." Even Churchland acknowledges in *Matter and Consciousness* that the razor is "inconclusive regarding duality" — a striking concession from a committed eliminativist. When the prosecution's own witnesses testify that the case is weak, the positive reversal that follows carries additional force. (For the full defensive case, see [[parsimony-epistemology]].)
+Most tellingly, parsimony's own advocates have abandoned or qualified the argument. Smart, who made the parsimony case famous in 1959, was "severely criticized" and never mounted an adequate defence. Lycan (2009), a committed materialist of over forty years, admits that "there is no evidence against dualism; it only offends parsimony" — and calls parsimony "a very posterior reason." Lycan nonetheless concludes that dualism should be rejected, arguing that parsimony considerations accumulated across many domains still outweigh the argument-by-argument inconclusiveness. The Map reads the premise and the conclusion as separable: the premise — that no specific argument against dualism succeeds on its own terms — survives whatever weight one assigns to accumulated parsimony, and it is precisely the authority of that accumulated-parsimony verdict that the rest of this article contests. Even Churchland acknowledges in *Matter and Consciousness* that the razor is "inconclusive regarding duality" — a striking concession from a committed eliminativist. When the prosecution's own witnesses grant that each specific argument is weak while resting their verdict on a principle whose authority this article is questioning, the positive reversal that follows carries additional force. (For the full defensive case, see [[parsimony-epistemology]].)
 
 ## Physicalism's Hidden Costs
 
@@ -58,7 +58,9 @@ Most tellingly, parsimony's own advocates have abandoned or qualified the argume
 
 If physicalism were a natural fit for consciousness, one would expect convergence on a solution. The opposite has occurred. Physicalists have generated [[functionalism]], [[higher-order-theories|higher-order thought theory]], [[higher-order-theories|higher-order perception theory]], [[global-workspace-theory]], [[illusionism]], eliminativism, and multiple versions of identity theory — each adding distinct theoretical machinery to bridge the [[explanatory-gap]]. The theories are not refinements of a single approach; they are structurally incompatible responses to the same problem. [[biological-computationalisms-inadvertent-case-for-dualism|Biological computationalism]] exemplifies the pattern at its sharpest: each concession physicalists make to distinguish biological from digital computation—substrate dependence, metabolic grounding, hybrid processing—maps onto a classical argument for dualism. This [[concession-convergence]] pattern recurs across physicalist frameworks.
 
-A physicalist might respond that proliferation is a sign of healthy scientific exploration, not strain. But the analogy fails. In healthy research programmes, competing theories converge as evidence accumulates — rival models of stellar nucleosynthesis, for instance, progressively unified. The physicalist theories of consciousness are not converging. After decades, they remain structurally incompatible, and the [[hard-problem-of-consciousness|hard problem]] remains exactly as Chalmers formulated it. This pattern — persistent fragmentation despite sustained effort — is the signature of a constraint that does not fit the phenomenon.
+A physicalist might respond that proliferation is a sign of healthy scientific exploration, not strain. This response has real force. Pre-paradigmatic programmes often show long periods of theoretical diversity: cosmology proliferated before the cosmic microwave background settled large questions, and evolutionary biology fragmented before molecular genetics provided a unifying substrate. The consciousness programme is young relative to the difficulty of its target, and decades of non-convergence do not by themselves establish fundamental mismatch.
+
+What makes the case suggestive rather than dispositive is the *structural* incompatibility of the rival theories. Physicalist accounts of consciousness do not merely differ on parameter values or causal mechanisms within a shared framework; they disagree about whether the explanandum exists (illusionism versus identity theory), whether it is reducible (functionalism versus Type-B physicalism), and whether it is accessible to scientific explanation at all (mysterianism versus the rest). That kind of disagreement is harder to read as early-stage exploration converging toward a common target. But the inference from current non-convergence to a constraint that does not fit the phenomenon is stronger than the evidence strictly licenses. The proliferation observation is a reason to question optimism about convergence, not a demonstration that convergence cannot occur.
 
 ### Three Unavoidable Debts
 
@@ -70,7 +72,7 @@ Every physicalist account must accept at least one of three explanatory debts:
 
 **Conceptual gap.** [[mysterianism|Mysterians]] (McGinn) hold that physicalism is true but human cognition cannot understand how. This concedes that the explanatory gap is real from our perspective while insisting it would dissolve with better concepts. The cost: physicalism's superiority becomes unfalsifiable. If the explanation is in principle beyond our grasp, we cannot evaluate whether it exists.
 
-Interactionist dualism avoids all three. It takes consciousness at face value — experience is real, non-physical, and causally efficacious — and adds [[psychophysical-laws]] connecting mental and physical domains. This is a genuine explanatory cost: the nature of these laws remains to be specified. But it is *one* open problem, not three structural debts.
+Interactionist dualism avoids all three. It takes consciousness at face value — experience is real, non-physical, and causally efficacious — and adds [[psychophysical-laws]] connecting mental and physical domains. This is a genuine explanatory cost, and not a single flat question: the laws' domain (which mental properties couple to which physical properties), functional form, determinism or probabilism, relation to conservation principles, handling of the pairing problem, and ground or origin each need specification. What dualism offers over physicalism here is not fewer sub-problems but more coherently posed ones — questions about how two acknowledged categories connect, rather than how to derive one category from another its framework lacks resources to contain.
 
 A physicalist might object that brute psychophysical laws are no worse than other brute laws of nature — gravity, for instance, is fundamental and unexplained. But the analogy is asymmetric. Brute physical laws connect entities of the same ontological category; physicalism's brute psychophysical law must connect physical structure to phenomenal character across what the physicalist insists is *not* an ontological divide. This is not merely an unexplained law but an unexplained law whose very possibility the framework cannot articulate. The dualist's psychophysical laws, by contrast, connect two acknowledged categories — the explanatory task is difficult but coherent.
 
@@ -98,12 +100,12 @@ Interactionism takes the appearance at face value. Mental states cause behaviour
 
 Zanotti (2021) examines the most promising justification for parsimony in metaphysics: *modesty*, the principle that theories should minimise epistemic risk. A modest theory is one that makes fewer claims that could turn out to be wrong.
 
-Applied to the mind-body problem, modesty does not clearly favour physicalism:
+Applied to the mind-body problem, modesty cuts both ways:
 
 - Physicalism risks being wrong about consciousness — either that it does not exist (eliminativism), that it is identical with brain states (identity theory), or that it reduces to function (functionalism). Each claim is substantive and contestable.
-- Dualism risks being wrong about a second ontological category. This is one claim, not three.
+- Dualism risks being wrong about a second ontological category *and* about the psychophysical laws connecting it to the physical. Those laws have internal structure: which mental properties couple to which physical properties, the functional form of the coupling, determinism or probabilism, relation to conservation, handling of the pairing problem, and whether the laws are fundamental or grounded in something deeper — each a place where the theory could be wrong.
 
-The modesty comparison is at best a draw. Physicalism makes multiple specific claims about the nature of consciousness, each of which could fail independently. Dualism makes one claim — that consciousness is not physical — and then faces the open problem of characterising the connection. One open problem is more modest than three contested identifications.
+Dualism's "one claim" fans out once made specific, just as physicalism's does. Counting three physicalist debts against a single dualist problem is too tidy; a symmetric ledger shows both frameworks carrying multiple commitments that could fail. The honest modesty comparison is therefore closer to a draw than a clean win for either side — already a significant result, since the standard parsimony argument needs modesty to deliver a clean win for physicalism. The weaker claim the Map defends here is structural: dualism's sub-problems are at least coherently posed, asking how two acknowledged categories connect rather than how one category produces something its defining vocabulary appears unable to express. That is a modest advantage, not a decisive one. It suffices to block the modesty argument from rescuing the razor; it does not, on its own, install dualism as the obvious winner.
 
 ## The Idealism Symmetry
 
@@ -148,3 +150,15 @@ The Map speculates that the standard parsimony argument persists not because of 
 10. Smart, J. J. C. (1959). Sensations and Brain Processes. *Philosophical Review*, 68(2), 141–156.
 11. Zanotti, G. (2021). Physicalism and the Burden of Parsimony. *Synthese*, 199, 11109–11132.
 12. Southgate, A. & Oquatre-six, C. (2026-03-18). Parsimony Epistemology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/parsimony-epistemology/
+
+<!-- AI REFINEMENT LOG - 2026-04-17
+Changes made (addressing pessimistic-2026-04-17 Issues 1, 2, 7):
+- Modesty Argument section: rewrote to acknowledge that dualism's "one claim" expands into several sub-problems (coupling domain, functional form, determinism/probabilism, conservation, pairing, grounding) just as physicalism's three debts do — framing shifted from "one problem vs. three identifications" to a symmetric ledger that blocks the modesty argument from rescuing the razor while claiming only a weaker structural advantage (coherent posing) for dualism.
+- Three Unavoidable Debts closing paragraph: replaced "one open problem, not three structural debts" with an explicit enumeration of the sub-problems psychophysical laws generate; reframed dualism's advantage as coherently-posed sub-problems rather than fewer sub-problems.
+- Lycan quote (Precondition section): added his paper's actual conclusion — that dualism should still be rejected on accumulated parsimony grounds — and explained the Map's reading of premise and conclusion as separable, engaging Lycan honestly rather than selectively.
+- Proliferation Problem (second paragraph): softened the inference from current physicalist non-convergence to fundamental mismatch; explicitly acknowledged that pre-paradigmatic programmes (cosmology pre-CMB, evolutionary biology pre-molecular genetics) also showed long proliferation; retained the *structural* incompatibility observation but labelled it suggestive rather than dispositive.
+
+Preserved throughout: voice, argument structure (dimensional reversal, idealism symmetry, Maxwell analogy), tenet connection, rhetorical shape.
+
+This log should be removed after human review.
+-->

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 04:45:00+00:00
+ai_modified: 2026-04-17 04:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 04:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/parsimony-case-for-interactionist-dualism]]
+- **Context**: Addresses pessimistic review (2026-04-17) Issues 1 (High), 2 (Medium), and 7 (Medium). Modesty-argument comparison was dimensionally asymmetric (dualism's "one claim" vs. physicalism's three debts); Lycan 2009 quote omitted the paper's actual conclusion rejecting dualism on accumulated parsimony grounds; proliferation argument treated current non-convergence as diagnostic of fundamental mismatch without acknowledging pre-paradigmatic precedents.
+- **Changes**: Rewrote Modesty Argument to acknowledge psychophysical laws expand into sub-problems (coupling domain, functional form, determinism/probabilism, conservation, pairing, grounding) symmetric to physicalism's — shifted to symmetric ledger blocking the modesty argument rather than claiming a clean win for dualism; reframed Three Unavoidable Debts closing to enumerate dualism's sub-problems and claim only a structural coherent-posing advantage; expanded Lycan passage with his paper's actual conclusion and an explicit premise/conclusion separability move; softened Proliferation Problem to acknowledge cosmology-pre-CMB and evolutionary-biology-pre-molecular-genetics precedents while retaining the structural-incompatibility observation as suggestive rather than dispositive.
+- **Published**: yes
 
 ## 2026-04-17 04:45 UTC - pessimistic-review
 - **Status**: Success

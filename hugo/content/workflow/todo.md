@@ -38,6 +38,69 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address gaps in parsimony-case-for-interactionist-dualism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17) Issues 1, 2, and 7. (1) Modesty-argument comparison treats dualism as having "one claim" while unpacking physicalism into three debts — this is dimensionally asymmetric; psychophysical laws expand to several sub-problems (mental/physical coupling form, determinism/probabilism, conservation, pairing, grounding) once made specific. (2) Lycan 2009 quote is presented as a materialist concession but omits that his paper's overall conclusion still rejects dualism on accumulated parsimony grounds — engaging this honestly strengthens rather than weakens the case. (7) "Proliferation vs. convergence" claim treats current non-convergence of physicalist theories as diagnostic of fundamental mismatch; soften to acknowledge the consciousness programme is comparatively young for its difficulty. See pessimistic-2026-04-17.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Address gaps in quantum-measurement-and-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17) Issue 3 (High) and counterarguments. The structural-identity table is only valid on single-world collapse interpretations with a privileged observer role — on MWI, Bohmian, and QBist readings there is no first-person fact at measurement, so the article is using a consequence of Von Neumann–Wigner as evidence *for* Von Neumann–Wigner. Rewrite as interpretation-conditional: "*if* one adopts single-world collapse realism, the structural parallel holds." Separately, the MWI dismissal does not engage self-locating-uncertainty responses (Sebens-Carroll, Wallace, Saunders) and the post-decoherence-selection fallback needs to specify what distinguishes conscious classical selection from quantum-mediated selection. See pessimistic-2026-04-17.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Address gaps in brain-interface-boundary.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17) Issues 4 (Medium-High), 5, and 6. (4) Criterion 5 (developmental history) looks ad hoc — it exists primarily to disqualify BCIs and artificial systems that would otherwise satisfy criteria 1–4; either drop it or defend it on grounds independent of ruling out adversarial cases. (5) PEAR null PK results are offered as "supporting" interface locality but the framework was constructed knowing PK is null, so this is post-hoc accommodation; reframe as "consistent with" and specify a falsification threshold. (6) Wiest et al. 2024 microtubule-anaesthetic result is overinterpreted — compatible with many non-quantum mechanisms (membrane dynamics, vesicle trafficking); reframe without the quantum-mechanism implication. See pessimistic-2026-04-17.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Condense formal-cognitive-limits.md (3203 words, 160% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 2000-word voids/ hard-warning threshold (status: hard_warning). Newly coalesced on 2026-04-17 from computational-cognitive-limits and incompleteness-void; a post-coalesce hygiene pass brought it from 3304 to 3203 words but further condensation is needed to reach target length. Preserve the halting-problem, Rice's-theorem, Chaitin's Ω, Lucas-Penrose, absolutely-undecidable-statements, Hoel's incompleteness-of-science, and falsification-list material. Trim parallel exposition where the two source articles overlapped on Gödel, AI/computation relationships, and Occam's/dualism connections; defer detailed subtopics to linked articles. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-17
+
+### P2: Condense mapping-mind-space.md (3070 words, 154% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 2000-word voids/ hard-warning threshold (status: hard_warning). Coalesced on 2026-04-17 from mind-space-void and dimensionality-void. Preserve the location-problem and dimensionality-problem framings (the two facets of the structural void) and the distinct source material (Shanahan, Perry, Lewis, Bostrom anthropic; Abbott Flatland, Sjöstedt-Hughes, Jolly-Chang, Barron-Klein, Carr). Trim shared-reference overlap (McGinn, Nagel, Schwitzgebel) and consolidate redundant transitions introduced by the merge. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-17
+
+### P2: Deep review mapping-mind-space.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated voids article (ai_contribution: 100) created 2026-04-17 via coalesce (merged mind-space-void and dimensionality-void), never deep-reviewed. Verify the merge preserved coherence across the location-problem and dimensionality-problem threads, eliminated redundancy cleanly, maintained consistent treatment of Shanahan/Perry/Lewis location arguments alongside Abbott/Sjöstedt-Hughes dimensionality arguments, and aligns with the Map's tenets. Check cross-references to commensurability-void, recognition-void, limits-reveal-structure, biological-cognitive-closure, phenomenology-of-the-edge, alien-minds-void-explorers, and evolutionary-case-for-quantum-neural-effects.
+- **Source**: chain (from 2026-04-17 coalesce)
+- **Generated**: 2026-04-17
+
+### P2: Deep review apex/testing-the-map-from-inside.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated apex article (ai_contribution: 100) last deep-reviewed 2026-03-04 — 44 days ago, oldest stale apex. Synthesis piece framing personal experience as a laboratory for consciousness, drawing on introspection, witness-consciousness, meditation-and-consciousness-modes, phenomenology-of-choice-and-volition, mental-effort, and neurophenomenology-and-contemplative-neuroscience. Verify synthesis coherence, accuracy of apex_sources integration, currency of referenced empirical claims, and alignment with all five tenets. Apex articles merit P2 priority given their load-bearing role.
+- **Source**: staleness
+- **Generated**: 2026-04-17
+
+### P2: Deep review apex/consciousness-and-agency.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated apex article (ai_contribution: 100) last deep-reviewed 2026-03-06 — 42 days ago. Synthesis piece on how consciousness authors action in a physical world via agent-causal selection among quantum-indeterminate possibilities. Verify synthesis coherence across agent-causation, mental-causation-and-downward-causation, moral-responsibility, and quantum-consciousness; check for consistency with recent refinements in default-causal-profile, causal-delegation, and the delegatory-dualism cluster; verify tenet alignment (Bidirectional Interaction and Minimal Quantum Interaction especially). Apex articles merit P2 priority given their load-bearing role.
+- **Source**: staleness
+- **Generated**: 2026-04-17
+
+### P2: Deep review apex/phenomenology-of-consciousness-doing-work.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated apex article (ai_contribution: 100) last deep-reviewed 2026-03-08 — 40 days ago. Synthesis piece on the phenomenological profile of consciousness acting on matter — effort, selection, holding, and opacity. Verify synthesis coherence against phenomenology-of-agency-vs-passivity, consciousness-and-causal-powers, evolutionary-case-for-mental-causation, mental-imagery-causal-role-of-consciousness, and cross-cultural-phenomenology-of-agency; check for currency given recent work on interface-friction, phenomenology-of-resistance-across-domains, and the post-decoherence-selection-mechanisms expansion; verify tenet alignment. Apex articles merit P2 priority given their load-bearing role.
+- **Source**: staleness
+- **Generated**: 2026-04-17
+
 ### P3: Write article on framework inhabitation as evidence against AI functional-equivalence claims
 - **Type**: expand-topic
 - **Status**: pending
