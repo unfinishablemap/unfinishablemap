@@ -4,8 +4,8 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-17T01:41:00+00:00
-last_deep_review: 2026-03-18T03:59:00+00:00
+ai_modified: 2026-04-17T13:05:00+00:00
+last_deep_review: 2026-04-17T13:05:00+00:00
 draft: false
 topics:
   - "[[dualism]]"
@@ -175,15 +175,3 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 1. McDowell, J. (1994). *Mind and World*. Harvard University Press.
 1. Szangolies, J. (2018). "Epistemic Horizons and the Foundations of Quantum Mechanics." *Foundations of Physics*, 48, 1669-1697.
 1. Alter, T. & Nagasawa, Y. (2015). *Consciousness in the Physical World: Perspectives on Russellian Monism*. Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-04-10
-Changes made:
-- Restructured Szangolies/Lawvere paragraph to clearly separate three layers: (a) the mathematical result (Lawvere's fixed-point theorem connecting incompleteness and complementarity), (b) the interpretive suggestion (observer proximity is suggestive but not a mathematical conclusion), and (c) the Map's philosophical claim (consciousness occupies the boundary, motivated by convergence with independent arguments)
-- Softened "incoherent" claim about cultural construction of modus ponens to "faces a severe difficulty" with explicit argument
-- Softened self-stultification reference from "shows" to "arguments characterise as"
-
-Based on pessimistic review 2026-04-08 (Issue 3: Gödel analogy overstretched, medium severity).
-Key improvements: Epistemic honesty about what the mathematics does and does not show.
-
-This log should be removed after human review.
--->
