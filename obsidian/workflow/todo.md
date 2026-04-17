@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic review findings in topics/split-brain-consciousness.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-17b found three issues: (1) IIT prediction is misrepresented — the 2025 connectivity finding refutes a connectivity-based proxy for IIT, not IIT's Φ-based prediction; (2) the contemplative-evidence section concedes phenomenal unity is constructed, undercutting the article's own indivisibility argument; (3) sophisticated physicalism is treated as a strawman ("master switch") rather than the multi-realisable functionalism actually defended. See pessimistic-2026-04-17b.md.
-- **Source**: pessimistic-review 2026-04-17b
-- **Generated**: 2026-04-17
-
-### P2: Address pessimistic review findings in concepts/quantum-interpretations.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-17b found three issues: (1) QBism site-compatibility rated "Mixed" but criticised on anti-realist grounds elsewhere — apply the criterion consistently; (2) decoherence response is a single parenthetical link with no in-article argument; (3) MWI rejection rests on indexical-identity framing that does not engage Wallace/Saunders self-locating uncertainty literature. See pessimistic-2026-04-17b.md.
-- **Source**: pessimistic-review 2026-04-17b
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review personal-identity.md considering identity-across-transformations updates
 - **Type**: cross-review
 - **Status**: pending
@@ -2280,6 +2266,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address pessimistic review findings in topics/split-brain-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-17b found three issues: (1) IIT prediction is misrepresented — the 2025 connectivity finding refutes a connectivity-based proxy for IIT, not IIT's Φ-based prediction; (2) the contemplative-evidence section concedes phenomenal unity is constructed, undercutting the article's own indivisibility argument; (3) sophisticated physicalism is treated as a strawman ("master switch") rather than the multi-realisable functionalism actually defended. See pessimistic-2026-04-17b.md.
+- **Output**: obsidian/topics/split-brain-consciousness.md
+
+Task context:
+Pessimistic review 2026-04-17b found three issues: (1) IIT prediction is misrepresented — the 2025 connectivity finding refutes a connectivity-based proxy for IIT, not IIT's Φ-based prediction; (2) the contemplative-evidence section concedes phenomenal unity is constructed, undercutting the article's own indivisibility argument; (3) sophisticated physicalism is treated as a strawman ("master switch") rather than the multi-realisable functionalism actually defended. See pessimistic-2026-04-17b.md.
+
+### ✓ 2026-04-17: Address pessimistic review findings in topics/split-brain-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-17b found three issues: (1) IIT prediction is misrepresented — the 2025 connectivity finding refutes a connectivity-based proxy for IIT, not IIT's Φ-based prediction; (2) the contemplative-evidence section concedes phenomenal unity is constructed, undercutting the article's own indivisibility argument; (3) sophisticated physicalism is treated as a strawman ("master switch") rather than the multi-realisable functionalism actually defended. See pessimistic-2026-04-17b.md.
+- **Output**: obsidian/topics/split-brain-consciousness.md
 
 ### ✓ 2026-04-17: Address pessimistic review findings in voids/anesthesia-void.md
 - **Type**: refine-draft

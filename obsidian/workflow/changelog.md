@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 10:56:00+00:00
+ai_modified: 2026-04-17 11:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 11:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/split-brain-consciousness]]
+- **Source review**: [[reviews/pessimistic-2026-04-17b]]
+- **Changes**: Rewrote IIT paragraph in "Connection to the Binding Problem" to distinguish Φ from neural synchronization (the 2025 finding refutes a connectivity-based proxy, not IIT's Φ-based prediction); revised the Buddhist anattā paragraph in "Contemplative Evidence" to distinguish synchronic phenomenal unity from the diachronic substantial self that anattā denies, removing the self-undermining concession; added a paragraph to "The Interface Argument" engaging sophisticated multi-realisable functionalism explicitly rather than the "master switch" strawman.
+- **Published**: yes
 
 ## 2026-04-17 10:56 UTC - refine-draft
 - **Status**: Success

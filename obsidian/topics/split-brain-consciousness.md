@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-17T10:26:00+00:00
+ai_modified: 2026-04-17T11:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,6 +113,8 @@ The interface argument makes this distinction explicit. Consciousness interacts 
 
 This is not a proof. The interface argument is a *possibility* claim: fragmentation of behaviour is compatible with unity of consciousness. It cannot demonstrate that consciousness remains unified — only that the fragmentation evidence does not require genuine phenomenal splitting. The strong physicalist inference (fragmentation of substrate entails fragmentation of consciousness) assumes that consciousness *is* the substrate's activity, which is precisely what dualism denies.
 
+The opposing physicalism is not a "master switch" view. Sophisticated functionalism — multiply-realisable, with consciousness implemented across loosely-coupled subsystems — predicts dissociation as a matter of course: disrupt a specific coupling and a specific failure mode follows. On this reading, split-brain dissociations and anaesthetic dissociability are exactly what the theory expects. The Map's challenge to such functionalism is therefore narrower than "physicalism cannot accommodate fragmentation." It is that functionalism most naturally predicts dissociation as graded loss across many independent dimensions, whereas the actual evidence shows two more specific patterns: the resilience of high-level unity through massive substrate disruption (Pinto et al. 2017; the 2025 layered findings) and the threshold character of consciousness loss under anaesthesia. Functionalism can accommodate both — through redundant pathways and integration thresholds — but as accommodations after the fact rather than as first predictions of the framework. The question is which view predicts the actual pattern most crisply, not whether the rival view *can* be made to fit.
+
 ## Connection to the Binding Problem
 
 Split-brain cases illuminate the [[binding-problem|binding problem]] — how distributed neural processes combine into unified experience:
@@ -123,7 +125,7 @@ Split-brain cases illuminate the [[binding-problem|binding problem]] — how dis
 
 **Phenomenal unity is contested.** Do patients have one unified experience or two parallel streams? The evidence is genuinely ambiguous — perhaps because the question assumes a determinate answer exists.
 
-[[integrated-information-theory|IIT]] predicts consciousness should split when interhemispheric disconnection occurs, since each hemisphere becomes more informationally integrated within itself than with the other. But the 2025 findings suggest unity is more resilient than IIT predicts — minimal connections suffice for full synchronization. Why minimal connections preserve unity so effectively remains an open question. One speculative possibility is the [[entanglement-binding-hypothesis|entanglement binding hypothesis]] — that quantum entanglement rather than classical correlation underwrites phenomenal unity — though this faces significant [[decoherence]] challenges. What the findings establish independently of any proposed mechanism is that the relationship between neural connectivity and experiential unity is far less straightforward than classical models assumed.
+[[integrated-information-theory|IIT]] predicts that consciousness tracks Φ — integrated information — and that interhemispheric disconnection should reduce cross-hemispheric Φ as each hemisphere becomes more integrated within itself than with the other. The 2025 findings complicate *connectivity-based* readings of this prediction: minimal callosal connections produce full neural synchronization, undermining the inference from gross structural disconnection to fragmented integration. This is not a direct refutation of IIT itself. Φ is a distinct quantity from synchronization, and a small fibre bundle that preserves synchrony may or may not preserve high cross-hemispheric Φ — that depends on the full causal-effect structure, not on connectivity alone. What the findings clearly challenge is the heuristic that "fewer connections" implies "less integrated experience." Why minimal connections preserve neural unity so effectively remains an open question. One speculative possibility is the [[entanglement-binding-hypothesis|entanglement binding hypothesis]] — that quantum entanglement rather than classical correlation underwrites phenomenal unity — though this faces significant [[decoherence]] challenges. Independently of any proposed mechanism, the findings show that the relationship between neural connectivity and experiential unity is far less straightforward than classical models assumed.
 
 ## Implications for Personal Identity
 
@@ -183,7 +185,7 @@ Contemplative traditions offer phenomenological resources for understanding part
 
 [[witness-consciousness|Witness consciousness]] — the capacity to observe mental contents without identifying with them — suggests consciousness can partially divide from its contents while remaining experientially unified at a meta-level. Split-brain patients might exhibit an externally imposed version of what meditators access voluntarily: divided content streams observed by a witness that neither fully splits nor fully integrates.
 
-Buddhist philosophy complicates naive unity assumptions further. The *anattā* doctrine holds there is no permanent unified self — what we call "I" is a convention applied to a stream of interdependent processes. Split-brain cases then reveal what was always true: the unity of consciousness is constructed, not given. This needn't support illusionism — the construction is real, the experience genuine — but it challenges assumptions that division creates metaphysical anomaly.
+Buddhist philosophy complicates naive unity assumptions, but the complication needs care. The *anattā* doctrine holds there is no permanent unified self — what we call "I" is a convention applied to a stream of interdependent processes. The Map distinguishes the target of this critique from synchronic phenomenal unity. *Anattā* dissolves the *diachronic* substantial self — a homunculus persisting unchanged through time — without dissolving the synchronic unity of any given experience. A meditator who deconstructs the felt sense of "I" still has, at each moment, a unified field of awareness in which that very deconstruction is occurring. The classical indivisibility argument concerns this synchronic unity, not the persistent substantial self that *anattā* denies. Split-brain cases pressure synchronic unity directly; the contemplative evidence pressures the substantial self. They are different targets, and conceding the second does not concede the first.
 
 ## Relation to Site Perspective
 
