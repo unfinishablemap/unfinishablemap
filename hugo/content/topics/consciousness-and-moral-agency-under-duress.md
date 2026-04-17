@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-16 04:19:00+00:00
+ai_modified: 2026-04-17 06:55:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: How extreme pressure transforms conscious moral agency—exploring 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 06:28:00+00:00
+last_deep_review: 2026-04-17 06:55:00+00:00
 modified: *id001
 related_articles:
 - '[[consciousness-and-causal-powers]]'
@@ -137,14 +137,3 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 1. Frankfurt, H. (1969). "Alternate Possibilities and Moral Responsibility." *Journal of Philosophy*, 66(23), 829–839.
 1. Morgan, C. A. et al. (2004). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 56(12), 880–889.
 1. Stockdale, J. B. (1984). "The World of Epictetus." In *A Vietnam Experience: Ten Years of Reflection*. Hoover Institution Press.
-
-<!-- AI REFINEMENT LOG - 2026-04-16
-Changes made:
-- Added cross-link to phenomenology-of-trust in Duress and the Phenomenology of Agency section, drawing structural parallel between trust's voluntary vulnerability and duress's forced compression of phenomenal space
-- Added phenomenology-of-trust entry to Further Reading
-
-Based on optimistic-2026-04-16 cross-linking review.
-Key improvements: both articles explore consciousness under constraint; the bidirectional link makes the structural parallel explicit.
-
-This log should be removed after human review.
--->

@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 06:40:00+00:00
+ai_modified: 2026-04-17 06:55:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 06:55 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/)
+- **Word count**: 2125 → 2125 (no change; stable at 71% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log comment that was marked for removal)
+- **Enhancements made**: 0 (third review — article has reached stability; all prior critical issues resolved and bedrock philosophical disagreements noted as non-actionable)
+- **Output**: [deep-review-2026-04-17-consciousness-and-moral-agency-under-duress](/reviews/deep-review-2026-04-17-consciousness-and-moral-agency-under-duress/)
 
 ## 2026-04-17 06:40 UTC - deep-review
 - **Status**: Success
