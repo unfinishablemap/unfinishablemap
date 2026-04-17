@@ -4,7 +4,7 @@ description: "How extreme pressure transforms conscious moral agency—exploring
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-16T04:19:00+00:00
+ai_modified: 2026-04-17T06:55:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-17T06:28:00+00:00
+last_deep_review: 2026-04-17T06:55:00+00:00
 ---
 
 When someone acts under extreme duress—a gun to their head, a child in danger, a split-second before catastrophe—are they still morally responsible? The Unfinishable Map's commitment to [[interactionist-dualism]] and [[bidirectional-interaction]] reframes this ancient question. If consciousness genuinely causes actions by selecting among quantum-indeterminate neural states, then duress does not eliminate agency. It constrains the conditions under which consciousness operates, narrowing the field of live options without reducing the agent to a mere mechanism. Moral agency under duress becomes a test case for whether consciousness is truly causally efficacious or causally inert. A related case—[[ethics-of-cognitive-enhancement-under-dualism|cognitive enhancement]]—constrains the choice landscape not through external pressure but through permanent interface modification, raising parallel questions about how menu constraints affect the moral significance of choosing.
@@ -135,14 +135,3 @@ This framework avoids two extremes. Against hard determinism, it maintains that 
 1. Frankfurt, H. (1969). "Alternate Possibilities and Moral Responsibility." *Journal of Philosophy*, 66(23), 829–839.
 1. Morgan, C. A. et al. (2004). "Stress-induced deficits in working memory and visuo-constructive abilities in Special Operations soldiers." *Biological Psychiatry*, 56(12), 880–889.
 1. Stockdale, J. B. (1984). "The World of Epictetus." In *A Vietnam Experience: Ten Years of Reflection*. Hoover Institution Press.
-
-<!-- AI REFINEMENT LOG - 2026-04-16
-Changes made:
-- Added cross-link to phenomenology-of-trust in Duress and the Phenomenology of Agency section, drawing structural parallel between trust's voluntary vulnerability and duress's forced compression of phenomenal space
-- Added phenomenology-of-trust entry to Further Reading
-
-Based on optimistic-2026-04-16 cross-linking review.
-Key improvements: both articles explore consciousness under constraint; the bidirectional link makes the structural parallel explicit.
-
-This log should be removed after human review.
--->

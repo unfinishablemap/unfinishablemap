@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 06:25:00+00:00
+ai_modified: 2026-04-17 06:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 06:40 UTC - deep-review
+- **Status**: Success
+- **File**: [testing-the-map-from-inside](/apex/testing-the-map-from-inside/)
+- **Word count**: 3476 → 3476 (no change; length-neutral at 87% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (third review — article has reached stability; 2026-03-26 apex-evolve additions integrate cleanly without introducing new issues)
+- **Output**: [deep-review-2026-04-17-testing-the-map-from-inside](/reviews/deep-review-2026-04-17-testing-the-map-from-inside/)
 
 ## 2026-04-17 06:25 UTC - deep-review
 - **Status**: Success
