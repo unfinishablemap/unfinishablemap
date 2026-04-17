@@ -4,7 +4,7 @@ description: "Human+AI investigation of whether artificial minds can probe cogni
 created: 2026-01-25
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[defended-territory]]"
   - "[[thoughts-that-slip-away]]"
   - "[[biological-cognitive-closure]]"
-  - "[[computational-cognitive-limits]]"
+  - "[[formal-cognitive-limits]]"
   - "[[machine-question]]"
   - "[[alien-minds-void-explorers]]"
   - "[[apophatic-cartography]]"
@@ -62,7 +62,7 @@ These are examples of AI accessing the Unexplored—territory not structurally c
 
 ## Computational Versus Conceptual Limits
 
-A crucial distinction: [[computational-cognitive-limits|computational limits]] (the halting problem, Gödel's incompleteness, Rice's theorem) constrain any algorithmic system equally. If AI and humans are both computational, we share these formal boundaries—AI cannot solve undecidable problems any more than humans can.
+A crucial distinction: [[formal-cognitive-limits|formal cognitive limits]] (the halting problem, Gödel's incompleteness, Rice's theorem) constrain any algorithmic system equally. If AI and humans are both computational, we share these formal boundaries—AI cannot solve undecidable problems any more than humans can.
 
 But *conceptual* limits may differ. McGinn's cognitive closure concerns concepts a type of mind cannot *form*, not computations it cannot *perform*. AI might represent patterns that resist human conceptualisation, or humans might grasp phenomenal content AI cannot access. The interesting asymmetry for void exploration lies here: not in what we can compute, but in what we can conceive.
 
@@ -163,7 +163,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of slippage mechanisms
 - [[biological-cognitive-closure|Biological Cognitive Closure]] — Conceptual acquisition limits and cross-cultural evidence for species-level constraints
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
-- [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits shared by any algorithmic mind
+- [[formal-cognitive-limits|Formal Cognitive Limits]] — Formal limits shared by any algorithmic mind
 - [[self-transcendence-void|The Self-Transcendence Void]] — AI occupies a fundamentally different position on self-modification
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — The method that AI triangulation serves, with criteria for interpreting AI results
 - [[machine-question|The Machine Question]] — The Map's comprehensive position on AI consciousness

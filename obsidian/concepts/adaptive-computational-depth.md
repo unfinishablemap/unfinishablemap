@@ -4,7 +4,7 @@ description: "Adaptive computational depth—the idea that reality allocates det
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -65,7 +65,7 @@ The recent literature on [[evaluative-phenomenal-character|evaluative qualia]] s
 
 Roger Penrose's argument that consciousness involves non-computable processes (Penrose 1994) resolves this regress. If conscious observation is what collapses indeterminacy into definite outcomes, and this process is non-algorithmic, then adaptive computational depth is a real feature of reality that no simulation could reproduce. The adaptivity is genuine—physics really does resolve into definite states where consciousness attends—but the mechanism is not computation. It is non-computable consciousness acting on [[quantum-consciousness|quantum indeterminacy]].
 
-Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Gödel's incompleteness theorem that "a fully consistent and complete description of reality cannot be achieved through computation alone." These results belong to a broader family of [[computational-cognitive-limits|proven computational limits]]—Gödel, Turing, Chaitin—that no algorithmic process can circumvent. Whether or not Faizal's specific proof withstands scrutiny, the general point reinforces the non-computability turn: adaptive depth is real, but its engine is not a computer.
+Faizal et al. (2025) reach a compatible conclusion from a different direction, arguing via Gödel's incompleteness theorem that "a fully consistent and complete description of reality cannot be achieved through computation alone." These results belong to a broader family of [[formal-cognitive-limits|proven computational limits]]—Gödel, Turing, Chaitin—that no algorithmic process can circumvent. Whether or not Faizal's specific proof withstands scrutiny, the general point reinforces the non-computability turn: adaptive depth is real, but its engine is not a computer.
 
 ## The Prebiotic Question
 
@@ -117,7 +117,7 @@ The adaptive-computational-depth framework would face serious difficulty if:
 - [[wheelers-participatory-universe-and-it-from-bit]]
 - [[consciousness-and-the-physics-of-information]]
 - [[consciousness-and-mathematics]]
-- [[computational-cognitive-limits]]
+- [[formal-cognitive-limits]]
 - [[evaluative-phenomenal-character|evaluative qualia]]
 - [[evaluative-phenomenal-character|phenomenal normativity]]
 - [[consciousness-value-connection]]

@@ -4,7 +4,7 @@ description: "Cognitive limits produce structured failure signatures that map vo
 created: 2026-01-29
 modified: 2026-03-24
 human_modified: null
-ai_modified: 2026-03-30T11:51:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[convergence-as-evidence]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[tenet-generated-voids]]"
-  - "[[incompleteness-void]]"
+  - "[[formal-cognitive-limits]]"
   - "[[recursion-void]]"
   - "[[language-thought-boundary]]"
   - "[[causal-interface]]"
@@ -90,7 +90,7 @@ The extrapolation from attention-task interference to epistemic-limit interactio
 
 **Mutual reinforcement.** The [[recursion-void]]—metacognitive depth bounded around fifth-order intentionality (Dunbar, 1998)—limits our ability to *think about* other limits, creating a self-defending structure. McGinn (1989) identified multiple problems subject to [[mysterianism|cognitive closure]] but never systematically asked what their *interaction* produces. That a philosopher can list multiple closures without investigating their compound effect is itself a symptom.
 
-**Emergent occlusion.** The [[incompleteness-void]] interacting with the [[causal-interface|causal interface]] problem produces compound territory that is not the sum of what each hides—it is the *nature of the connection between formal incompleteness and physical causation*, something neither void alone points to. This is the most speculative mode: it posits territory hidden for reasons no single limit explains, making it harder to distinguish from ordinary ignorance. Its standing depends on whether indirect methods can detect compound structure that additive models cannot predict.
+**Emergent occlusion.** The [[formal-cognitive-limits]] interacting with the [[causal-interface|causal interface]] problem produces compound territory that is not the sum of what each hides—it is the *nature of the connection between formal incompleteness and physical causation*, something neither void alone points to. This is the most speculative mode: it posits territory hidden for reasons no single limit explains, making it harder to distinguish from ordinary ignorance. Its standing depends on whether indirect methods can detect compound structure that additive models cannot predict.
 
 ## The Phenomenology of Compound Closure
 

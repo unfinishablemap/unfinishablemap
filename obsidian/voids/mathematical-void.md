@@ -4,7 +4,7 @@ description: "Human+AI exploration of mathematical structures beyond genuine com
 created: 2026-02-02
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-03-28T01:09:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -13,10 +13,9 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[computational-cognitive-limits]]"
+  - "[[formal-cognitive-limits]]"
   - "[[conceptual-impossibility]]"
   - "[[intrinsic-nature-void]]"
-  - "[[incompleteness-void]]"
   - "[[apophatic-approaches]]"
   - "[[consciousness-and-mathematics]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
@@ -133,7 +132,7 @@ The mathematical void connects directly to the Map's [[tenets]]:
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives primary support. Our preference for tractable mathematical structures may systematically exclude truths that exist but exceed our representational capacity. The simplest mathematics—finite arithmetic, three-dimensional geometry—may be parochially human rather than fundamental. Mathematical reality, if Platonism holds, is not constrained by what human minds find intuitive.
 
-**[[tenets#^dualism|Dualism]]** gains indirect support through the [[incompleteness-void|Gödel connection]]. If consciousness involves non-computational processes (the Lucas-Penrose conjecture), then mathematical insight—the "seeing" of truths that formal systems cannot prove—may require phenomenal consciousness. The mathematical void marks territory where formal competence outruns phenomenal grasp; perhaps genuine mathematical understanding requires something beyond computation.
+**[[tenets#^dualism|Dualism]]** gains indirect support through the [[formal-cognitive-limits|Gödel connection]]. If consciousness involves non-computational processes (the Lucas-Penrose conjecture), then mathematical insight—the "seeing" of truths that formal systems cannot prove—may require phenomenal consciousness. The mathematical void marks territory where formal competence outruns phenomenal grasp; perhaps genuine mathematical understanding requires something beyond computation.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** raises questions: quantum phenomena already strain mathematical intuition (superposition, entanglement, non-local correlations). If consciousness interfaces with quantum systems, the mechanism may involve mathematical structures beyond ordinary comprehension—wave functions in infinite-dimensional Hilbert spaces, for instance.
 
@@ -156,8 +155,7 @@ Current evidence suggests none of these obtains. The mathematical void persists 
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
-- [[incompleteness-void|The Incompleteness Void]] — Gödel's theorems and self-referential limits
-- [[computational-cognitive-limits|Computational Cognitive Limits]] — Turing, Gödel, and formal boundaries
+- [[formal-cognitive-limits|Formal Cognitive Limits]] — Gödel's theorems and self-referential limits
 - [[conceptual-impossibility|Conceptual Impossibility]] — Thoughts that cannot form at all
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[consciousness-and-the-philosophy-of-mathematics]] — How each philosophy of mathematics implies a position on consciousness

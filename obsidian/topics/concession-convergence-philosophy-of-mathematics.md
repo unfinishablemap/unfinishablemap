@@ -4,7 +4,7 @@ description: "Formalism, logicism, intuitionism, and structuralism each independ
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-15T21:11:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-mathematics]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[reductionism-and-consciousness]]"
   - "[[arguments-against-materialism]]"
   - "[[mathematical-void]]"
-  - "[[incompleteness-void]]"
+  - "[[formal-cognitive-limits]]"
   - "[[phenomenology-of-intellectual-life]]"
 ai_contribution: 100
 author:
@@ -123,7 +123,7 @@ The Map interprets the cross-domain convergence as evidence that the problem is 
 - [[epistemology-of-convergence-arguments]] — When independent convergence constitutes evidence
 - [[reductionism-and-consciousness]] — Why reductive programmes fail at consciousness
 - [[mathematical-void]] — The boundary of mathematical knowledge
-- [[incompleteness-void]] — Gödel's theorems and the limits of formal systems
+- [[formal-cognitive-limits]] — Gödel's theorems and the limits of formal systems
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 last_deep_review: 2026-03-18T03:59:00+00:00
 draft: false
 topics:
@@ -41,7 +41,7 @@ related_articles:
   - "[[objectivity-and-consciousness]]"
   - "[[arguments/materialism-argument]]"
   - "[[intrinsic-nature-void]]"
-  - "[[incompleteness-void]]"
+  - "[[formal-cognitive-limits]]"
   - "[[consciousness-and-the-metaphysics-of-laws]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
@@ -110,7 +110,7 @@ The Map proposes a distinction between formal *authority* and formal *sovereignt
 
 Formal authority also matters *for* the Map's framework. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness biases quantum indeterminacies. This claim is partly formal: it concerns probabilities, collapse dynamics, and conservation laws. Mathematics constrains how consciousness could interact with physics even if it cannot describe what consciousness is. An apparent tension emerges: if formal systems cannot capture consciousness, how can consciousness interface with the formally described quantum world? The resolution lies in the authority/sovereignty distinction itself. The *interaction* — probability biasing, conservation compliance — is structural, falling squarely within mathematical authority. The *agent* that interacts — consciousness — has an intrinsic nature that formal description does not exhaust. A person's gravitational mass is fully captured by physics, but physics need not capture everything about the person for gravity to apply. Similarly, [[mental-causation-and-downward-causation|consciousness acts]] on quantum indeterminacies through a structural interface, even though what consciousness *is* exceeds structural description. The authority/sovereignty distinction maps onto [[causal-delegation]]: formal systems have authority over the structural interface through which consciousness operates, while consciousness retains sovereignty as the agent that acts through it—delegating nothing of its intrinsic nature to formal description even as it works within formally constrained channels.
 
-Formal systems also face *internal* limits. Gödel's incompleteness theorems (1931) showed that any consistent formal system powerful enough to express arithmetic contains truths it cannot prove. This is not a practical limitation but a structural one — an inherent boundary on what formal methods can accomplish on their own terms. The consciousness case is a more radical instance of the same pattern: formal systems fail not just to prove certain truths about consciousness but to *express* what consciousness is. The [[incompleteness-void]] explores how Gödelian limits and the limits at consciousness may share a common root in the gap between formal manipulation and genuine comprehension.
+Formal systems also face *internal* limits. Gödel's incompleteness theorems (1931) showed that any consistent formal system powerful enough to express arithmetic contains truths it cannot prove. This is not a practical limitation but a structural one — an inherent boundary on what formal methods can accomplish on their own terms. The consciousness case is a more radical instance of the same pattern: formal systems fail not just to prove certain truths about consciousness but to *express* what consciousness is. The [[formal-cognitive-limits]] explores how Gödelian limits and the limits at consciousness may share a common root in the gap between formal manipulation and genuine comprehension.
 
 The connection between incompleteness and formal limits at consciousness can be stated at three levels of strength that should not be conflated. *Mathematically*, category-theoretic work (Szangolies 2018, via Lawvere's fixed-point theorem) identifies a single structure — self-referential obstruction in Cartesian closed categories — underlying both Gödelian incompleteness and quantum complementarity. The same formal mechanism that prevents a system from proving its own consistency also prevents a physical theory from determining its own measurement outcomes. This is rigorous mathematics, not analogy. *Interpretively*, the measurement problem's self-referential structure involves an observer who is part of the system being described — and every actual measurement we perform involves a conscious subject. This proximity is suggestive but is not itself a mathematical conclusion; Szangolies' result concerns epistemic horizons, not phenomenal experience. *Philosophically*, the Map argues that consciousness — the phenomenon that constitutes the observer's side of every measurement — occupies the boundary where formal self-description breaks down. This is a philosophical claim that draws on but goes beyond the mathematics, motivated by the convergence of the formal result with independent arguments from the [[explanatory-gap]] and the [[hard-problem-of-consciousness|hard problem]]. The [[self-reference-and-the-limits-of-physical-description]] develops the mathematical and interpretive levels across three tiers of rigour.
 
@@ -154,7 +154,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 - [[phenomenology-of-intellectual-life]] — The felt experience of comprehension, inference, and meaning integration
 - [[intrinsic-nature-void]] — The unbridgeable gap between structural description and intrinsic nature
 - [[self-reference-and-the-limits-of-physical-description]] — The structural and formal connections between Gödel's incompleteness and quantum measurement
-- [[incompleteness-void]] — Gödelian limits as a parallel to formal systems' limits at consciousness
+- [[formal-cognitive-limits]] — Gödelian limits as a parallel to formal systems' limits at consciousness
 - [[meta-problem-of-consciousness]] — Why we judge that consciousness resists formal explanation
 - [[consciousness-and-the-metaphysics-of-laws]] — What kind of law could bridge mind and matter
 - [[explanatory-gap]] — The central challenge formal systems face with consciousness

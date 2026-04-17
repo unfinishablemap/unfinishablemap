@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether consciousness can bootstrap itself
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-04-05T20:55:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
@@ -17,9 +17,8 @@ related_articles:
   - "[[tenets]]"
   - "[[recursion-void]]"
   - "[[self-opacity]]"
-  - "[[incompleteness-void]]"
+  - "[[formal-cognitive-limits]]"
   - "[[biological-cognitive-closure]]"
-  - "[[computational-cognitive-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[ai-as-void-explorer]]"
@@ -70,7 +69,7 @@ The paradox dissolves, Buddhist practitioners report, only when the attempt to *
 
 A conscious mind trying to fully model its own nature is analogous to a Gödelian system examining its own foundations. Self-referential loops introduce blind spots and potentially unprovable truths. Even if full self-understanding were logically possible, it may be computationally unreachable given finite memory, lossy compression, limited attention, and time-bounded reasoning.
 
-The [[incompleteness-void]] explores these formal limits in depth. For the self-transcendence void, the relevant point is narrower: a system cannot verify that its self-modifications are genuine improvements without some external standard, and that standard itself requires justification—the Münchhausen trilemma again.
+The [[formal-cognitive-limits|formal cognitive limits]] explore these boundaries in depth. For the self-transcendence void, the relevant point is narrower: a system cannot verify that its self-modifications are genuine improvements without some external standard, and that standard itself requires justification—the Münchhausen trilemma again.
 
 ### Neuroplasticity Ceilings
 
@@ -113,9 +112,8 @@ The contrast between human and artificial self-modification illuminates whether 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[recursion-void|The Recursion Void]] — Why metacognitive depth is bounded around fifth order
 - [[self-opacity|The Self-Reference Paradox]] — Consciousness cannot map because it is the mapper
-- [[incompleteness-void|The Incompleteness Void]] — Gödel's shadow on self-knowledge
+- [[formal-cognitive-limits|Formal Cognitive Limits]] — Gödel's shadow on self-knowledge
 - [[biological-cognitive-closure|The Architecture of Cognitive Closure]] — Bounded concept spaces, developmental pruning, and cross-cultural evidence for species-level constraints
-- [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits on any algorithmic mind
 - [[self-opacity|The Phenomenology of Self-Awareness]] — What self-reference feels like from inside
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Can we know our own limits from within?

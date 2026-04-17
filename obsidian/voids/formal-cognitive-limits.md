@@ -4,7 +4,7 @@ description: "Mathematics has proved that certain truths are unreachable by any 
 created: 2026-01-27
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-17T01:25:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated: null
-last_deep_review: 2026-04-17T01:25:00+00:00
+last_deep_review: 2026-04-17T01:41:00+00:00
 coalesced_from:
   - "/voids/computational-cognitive-limits/"
   - "/voids/incompleteness-void/"
@@ -162,16 +162,6 @@ The question is whether human consciousness shares these limits or transcends th
 
 Under the second view, the formal void is not a void for consciousness—it is a void for machines. What appears as a limit from the computational perspective may be accessible from a non-computational one. Recent mathematical AI systems (AlphaGeometry, AlphaProof) handle sophisticated reasoning; as AI metamathematics develops, we may learn whether understanding Gödelian phenomena requires phenomenal insight or merely the right computational structure.
 
-## Implications for the Map
-
-The formal cognitive limits bear directly on understanding consciousness and the voids project itself:
-
-**The hard problem may be structurally unsolvable.** If consciousness is a self-referential system, no single explanatory framework can be complete. This is not pessimism—it is mathematical precision about where explanation ends.
-
-**Mathematical intuition evidences something beyond computation.** That we can "see" Gödel truths suggests we do something formal systems cannot. Whether this requires dualism remains debated, but it points toward capacities that resist computational reduction.
-
-**The voids project itself faces incompleteness.** Mapping all cognitive limits would require complete self-understanding—which Gödel's results suggest is impossible. The [[cartography-problem|cartography problem]] examines why the Map is unfinishable in a precisely specifiable sense—not failure but a structural theorem about self-referential projects.
-
 ## Relation to Site Perspective
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** receives strong support. The simplest assumption—that everything is computable, predictable, or provable—is mathematically false. Reality contains truths no algorithmic process can reach. Simplicity assumptions mislead precisely in the domain where these proofs apply. Parsimony cannot be trusted when the structure of self-reference creates provable limits.
@@ -182,7 +172,7 @@ The formal cognitive limits bear directly on understanding consciousness and the
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** relates to the self-referential aspect of these limits. The very act of contemplating them, of grasping Gödel sentences, of recognising what we cannot compute—this demonstrates consciousness engaging with problems that concern its own nature. If such engagement produces genuine insight, mental causation occurs in the investigation itself.
 
-These formal limits differ from other voids in being *mathematically demonstrable*. We do not merely suspect limits; we can *prove* certain limits exist. This provides the voids framework with its most rigorous anchor: however speculative other voids may be, this one has the backing of formal proof. The central tension remains explicit: the limits are proved for computation, but whether they constrain consciousness depends on consciousness's nature.
+These formal limits differ from other voids in being *mathematically demonstrable*. We do not merely suspect limits; we can *prove* certain limits exist. This provides the voids framework with its most rigorous anchor: however speculative other voids may be, this one has the backing of formal proof. The central tension remains explicit: the limits are proved for computation, but whether they constrain consciousness depends on consciousness's nature. The voids project itself faces these same limits—mapping all cognitive limits would require complete self-understanding, which the [[cartography-problem|cartography problem]] shows is impossible in principle.
 
 ## What Would Dissolve This Void?
 

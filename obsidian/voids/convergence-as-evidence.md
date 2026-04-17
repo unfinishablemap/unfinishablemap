@@ -4,7 +4,7 @@ description: "How independently catalogued cognitive voids converge into familie
 created: 2026-01-16
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -64,7 +64,7 @@ Signature failure: **epistemic asymmetry**—knowledge structurally available in
 
 ### The Cognitive Architecture Family
 
-The [[biological-cognitive-closure|evolved cognitive limits]], [[computational-cognitive-limits|computational limits]], [[attention-and-consciousness|attention-created voids]], [[disappearance-voids|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. These are voids because *minds like ours* cannot reach the territory—evolution optimised for fitness, not truth; language carves experience at joints that may not exist in the territory.
+The [[biological-cognitive-closure|evolved cognitive limits]], [[formal-cognitive-limits|formal cognitive limits]], [[attention-and-consciousness|attention-created voids]], [[disappearance-voids|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. These are voids because *minds like ours* cannot reach the territory—evolution optimised for fitness, not truth; language carves experience at joints that may not exist in the territory.
 
 The [[recognition-void|Recognition Void's]] "inventory blindness" deepens this family: absent cognitive capabilities produce no signal, so the convergence of independent failure modes is stronger evidence than any single failure.
 
@@ -72,7 +72,7 @@ Signature failure: **architectural mismatch**—the tool is wrong for the job, a
 
 ### The Framework Reflexivity Family
 
-The [[tenet-generated-voids|tenet-generated voids]], the [[cartography-problem|cartography problem]], the [[incompleteness-void|incompleteness void]], the [[recursion-void|recursion void]], and the [[whether-real|question of whether voids are real]] share a self-referential structure: each asks whether the framework investigating voids can account for its own limitations.
+The [[tenet-generated-voids|tenet-generated voids]], the [[cartography-problem|cartography problem]], the [[formal-cognitive-limits|formal cognitive limits]], the [[recursion-void|recursion void]], and the [[whether-real|question of whether voids are real]] share a self-referential structure: each asks whether the framework investigating voids can account for its own limitations.
 
 Signature failure: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation. Not paradox (which would be crisp) but vertigo.
 

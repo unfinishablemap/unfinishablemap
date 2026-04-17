@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 01:25:00+00:00
+ai_modified: 2026-04-17 01:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 01:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/formal-cognitive-limits]]
+- **Context**: Post-coalesce hygiene pass on the newly coalesced article
+- **Word count**: 3304 → 3203 (-101; removed duplicative "Implications for the Map" section)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 (LLM cliché at line 169; stale wikilinks in 20 content files; voids.md index duplication; subject-verb agreement in 3 files after slug pluralisation; length condensation)
+- **Enhancements made**: 56 inbound wikilinks updated across obsidian/topics, concepts, voids, and apex directories; duplicate related_articles entries deduplicated in mathematical-void, self-transcendence-void, and voids
+- **Output**: [[reviews/deep-review-2026-04-17-formal-cognitive-limits]]
 
 ## 2026-04-17 01:25 UTC - coalesce
 - **Status**: Success

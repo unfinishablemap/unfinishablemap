@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-04-10T20:09:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
 last_deep_review: 2026-04-01T12:38:00+00:00
@@ -103,7 +103,7 @@ The [[other-minds-void|other minds void]] and the [[intersubjective-void|intersu
 
 ### The Formal and Meta-Cognitive Cluster
 
-The [[incompleteness-void|incompleteness void]] applies Gödelian limits to self-knowledge. The [[recursion-void|recursion void]] shows metacognitive depth terminating around fifth order. The [[cartography-problem|cartography problem]] proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. These formal limits constrain not just what can be thought but what can be thought *about* thought.
+The [[formal-cognitive-limits|formal cognitive limits]] applies Gödelian limits to self-knowledge. The [[recursion-void|recursion void]] shows metacognitive depth terminating around fifth order. The [[cartography-problem|cartography problem]] proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. These formal limits constrain not just what can be thought but what can be thought *about* thought.
 
 ## How Thought Fails: The Topology of Failure
 

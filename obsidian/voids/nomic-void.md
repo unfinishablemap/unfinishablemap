@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive limits imposed by the laws of ph
 created: 2026-02-06
 modified: 2026-02-06
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[computational-cognitive-limits]]"
+  - "[[formal-cognitive-limits]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[emergence-void]]"
   - "[[intrinsic-nature-void]]"
@@ -31,7 +31,7 @@ last_curated:
 last_deep_review: 2026-03-07T01:38:00+00:00
 ---
 
-The [[computational-cognitive-limits|computational void]] constrains what any algorithm can determine. The [[embodiment-cognitive-limits|embodiment void]] constrains what bodied minds can think. But beneath both lies a deeper stratum: the laws of physics themselves limit what kinds of physical substrates can exist and what physical processes those substrates can perform. Bremermann's limit caps computation at ~1.36 × 10⁵⁰ bits per second per kilogram. Landauer's principle sets a thermodynamic floor on the cost of erasing information. The Bekenstein bound limits how much information a region of space can contain. These are not engineering constraints awaiting better technology. They are nomological—built into the structure of our universe. A universe with different fundamental constants would have different ceilings, enabling different physical architectures for cognition. The nomic void is the territory of thoughts that no physical mind operating under our physics can reach—though whether consciousness itself, if non-physical, faces the same limits is a separate question the Map's [[tenets#^dualism|dualism]] must confront.
+The [[formal-cognitive-limits|computational void]] constrains what any algorithm can determine. The [[embodiment-cognitive-limits|embodiment void]] constrains what bodied minds can think. But beneath both lies a deeper stratum: the laws of physics themselves limit what kinds of physical substrates can exist and what physical processes those substrates can perform. Bremermann's limit caps computation at ~1.36 × 10⁵⁰ bits per second per kilogram. Landauer's principle sets a thermodynamic floor on the cost of erasing information. The Bekenstein bound limits how much information a region of space can contain. These are not engineering constraints awaiting better technology. They are nomological—built into the structure of our universe. A universe with different fundamental constants would have different ceilings, enabling different physical architectures for cognition. The nomic void is the territory of thoughts that no physical mind operating under our physics can reach—though whether consciousness itself, if non-physical, faces the same limits is a separate question the Map's [[tenets#^dualism|dualism]] must confront.
 
 ## Layers of Nomic Constraint
 
@@ -89,12 +89,12 @@ The nomic void connects to the Map's [[tenets]] across several dimensions.
 
 The nomic void is primarily **Unexplorable** in the [[three-kinds-of-void|voids taxonomy]]: no mind under our physics can think the thoughts that different physics would enable. It has an **Occluded** dimension if our physics is observer-relative (Kant, Wolfram)—the constraint is not merely passive absence but active framing that shapes what can appear.
 
-Unlike the [[computational-cognitive-limits|computational void]], which is proven for computation but may not bind consciousness, the nomic void constrains every physical system operating under our physics—computational or otherwise. Unlike the [[embodiment-cognitive-limits|embodiment void]], which is specific to bodied minds, the nomic void binds disembodied physical systems equally. It is the most universal constraint on physical cognition: the one from which nothing physical escapes. Whether consciousness, if non-physical, is equally bound remains an open question—one that the Map's dualism suggests may have a surprising answer.
+Unlike the [[formal-cognitive-limits|computational void]], which is proven for computation but may not bind consciousness, the nomic void constrains every physical system operating under our physics—computational or otherwise. Unlike the [[embodiment-cognitive-limits|embodiment void]], which is specific to bodied minds, the nomic void binds disembodied physical systems equally. It is the most universal constraint on physical cognition: the one from which nothing physical escapes. Whether consciousness, if non-physical, is equally bound remains an open question—one that the Map's dualism suggests may have a surprising answer.
 
 ## Further Reading
 
 - [[voids]] — The broader framework for investigating cognitive limits
-- [[computational-cognitive-limits]] — Formal limits on any algorithmic mind
+- [[formal-cognitive-limits]] — Formal limits on any algorithmic mind
 - [[embodiment-cognitive-limits]] — How bodies constrain thought
 - [[intrinsic-nature-void]] — What matter is in itself—beyond relational description
 - [[emergence-void]] — The gap at every level transition

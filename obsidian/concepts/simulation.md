@@ -4,7 +4,7 @@ description: "If reality were computed, familiar objections to mind-matter inter
 created: 2026-01-07
 modified: 2026-01-07
 human_modified: null
-ai_modified: 2026-04-16T19:40:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"
-  - "[[computational-cognitive-limits]]"
+  - "[[formal-cognitive-limits]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[biological-cognitive-closure]]"
   - "[[consciousness-and-probability-interpretation]]"
@@ -117,7 +117,7 @@ The Map's framework suggests the third option. If consciousness operates through
 
 ### Computational Limits Within Simulations
 
-If we are simulated, we inherit all [[computational-cognitive-limits|computational limits]]: Gödel's incompleteness, the halting problem, Rice's theorem. This creates a tension with Penrose-style arguments: if consciousness genuinely grasps Gödel sentences that formal systems cannot prove, it transcends computation—yet simulated computations *can't* genuinely grasp these truths. Either the simulation hypothesis is false, Lucas-Penrose arguments fail, or consciousness operates non-computationally even within the simulation. The Map's commitment to bidirectional interaction suggests the third option.
+If we are simulated, we inherit all [[formal-cognitive-limits|formal cognitive limits]]: Gödel's incompleteness, the halting problem, Rice's theorem. This creates a tension with Penrose-style arguments: if consciousness genuinely grasps Gödel sentences that formal systems cannot prove, it transcends computation—yet simulated computations *can't* genuinely grasp these truths. Either the simulation hypothesis is false, Lucas-Penrose arguments fail, or consciousness operates non-computationally even within the simulation. The Map's commitment to bidirectional interaction suggests the third option.
 
 A further question: are these limits [[meta-epistemology-of-limits|natural features of finite cognition, or designed constraints]]? A simulator could impose limits beyond those inherent to computation itself. The [[biological-cognitive-closure|evolved cognitive limits]] framework adds another dimension: limits that appear species-wide might reflect either architectural constraints of any mind or fitness-shaped blind spots—and in a simulation, the distinction between "evolved" and "designed" blurs.
 
@@ -197,7 +197,7 @@ Whether or not we are simulated, the *possibility* of simulation illuminates wha
 - [[ai-consciousness]] — Implications for digital consciousness
 - [[haecceity]] — The indexical identity problem that simulation resolves
 - [[decoherence]] — The timescale objection and its application within simulations
-- [[computational-cognitive-limits]] — Formal limits that constrain simulated minds
+- [[formal-cognitive-limits]] — Formal limits that constrain simulated minds
 - [[meta-epistemology-of-limits]] — Whether cognitive limits are natural or engineered
 - [[biological-cognitive-closure]] — Species-level limits that blur the evolved/designed distinction in simulation
 - [[tenets]] — The foundational commitments these concepts serve

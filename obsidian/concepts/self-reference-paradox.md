@@ -4,7 +4,7 @@ description: "Consciousness trying to understand itself faces structural obstacl
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[voids]]"
   - "[[self-opacity]]"
-  - "[[incompleteness-void]]"
+  - "[[formal-cognitive-limits]]"
   - "[[recursion-void]]"
   - "[[necessary-opacity]]"
   - "[[apophatic-approaches]]"
@@ -42,7 +42,7 @@ The self-reference paradox names the structural difficulty that arises when cons
 
 The deepest articulation of the self-reference paradox comes from mathematical logic. Gödel's first incompleteness theorem (1931) demonstrates that any consistent formal system capable of expressing basic arithmetic contains propositions that are true but unprovable within the system. His second theorem goes further: such a system cannot prove its own consistency.
 
-The analogy to consciousness is suggestive. If the mind constitutes or instantiates a system complex enough to model itself, it faces Gödelian constraints. There will be truths about its own operation that it cannot access from within. The [[incompleteness-void|incompleteness void]] explores this formal dimension in detail.
+The analogy to consciousness is suggestive. If the mind constitutes or instantiates a system complex enough to model itself, it faces Gödelian constraints. There will be truths about its own operation that it cannot access from within. The [[formal-cognitive-limits|formal cognitive limits]] explore this dimension in detail.
 
 Lucas (1961) and Penrose (1989, 1994) argued that this structure proves human minds transcend computation—that we can "see" the truth of our Gödel sentences in a way no machine can. The strongest objection is the consistency problem: establishing that we can recognise our own Gödel sentence as true requires establishing our own consistency, which is precisely what Gödel's second theorem forbids. We face a void about our own voids.
 
@@ -108,7 +108,7 @@ The self-reference paradox directly supports several of the Map's [[tenets]].
 
 - [[self-opacity]] — The broader void: self-opacity as constitutive feature of consciousness
 - [[self-and-self-consciousness]]
-- [[incompleteness-void]]
+- [[formal-cognitive-limits]]
 - [[recursion-void]]
 - [[self-reference-and-the-limits-of-physical-description]]
 - [[necessary-opacity]]

@@ -4,7 +4,7 @@ description: "Human+AI exploration of why metacognitive depth is bounded—consc
 created: 2026-02-05
 modified: 2026-02-05
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 last_deep_review: 2026-03-15T13:40:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[computational-cognitive-limits]]"
+  - "[[formal-cognitive-limits]]"
   - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[theory-of-mind]]"
@@ -146,7 +146,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 - [[phenomenology-of-recursive-self-awareness|The Phenomenology of Recursive Self-Awareness]] — What the folding of awareness back on itself feels like
 - [[self-opacity|Introspective Opacity]] — Why cognitive processes remain hidden
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
-- [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits on any algorithmic mind
+- [[formal-cognitive-limits|Formal Cognitive Limits]] — Formal limits on any algorithmic mind
 - [[theory-of-mind|Theory of Mind]] — Levels of intentionality and the working memory constraint
 - [[concept-of-consciousness-and-social-cognition|Consciousness and Social Cognition]] — Recursive mindreading as consciousness-dependent social cognition
 - [[language-recursion-and-consciousness|Language, Recursion, and Consciousness]] — Working memory bottlenecks on recursive structure

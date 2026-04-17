@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-04-16T17:55:00+00:00
+ai_modified: 2026-04-17T01:41:00+00:00
 draft: false
 last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
@@ -94,7 +94,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[imagination-and-creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[aesthetic-void|The Aesthetic Void]] — Where articulation fails at beauty and sublimity
 - [[self-opacity|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
-- [[incompleteness-void|The Incompleteness Void]] — Gödel's shadow on self-knowledge
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — Bidirectional inaccessibility between waking and dreaming
 - [[temporal-void|The Temporal Void]] — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [[recursion-void|The Recursion Void]] — Why metacognitive depth is bounded around fifth order
@@ -154,7 +153,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [[biological-cognitive-closure|The Architecture of Cognitive Closure]] — What concepts can minds form, and voids we acquire through maturation
 - [[conceptual-impossibility|Conceptual Impossibility]] — Thoughts that cannot be thought
-- [[computational-cognitive-limits|Computational Cognitive Limits]] — Formal limits on any algorithmic mind
+- [[formal-cognitive-limits|Formal Cognitive Limits]] — Proved limits on computation (Gödel, Turing, Chaitin) and their bearing on consciousness
 - [[mathematical-void|The Mathematical Void]] — Where formal manipulation succeeds but understanding fails
 - [[embodiment-cognitive-limits|Embodiment and Cognitive Limits]] — How bodies constrain thought
 - [[nomic-void|The Nomic Void]] — Cognitive limits imposed by the laws of physics themselves
