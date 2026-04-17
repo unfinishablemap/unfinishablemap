@@ -4,7 +4,7 @@ description: "What persists through radical change? The Map argues identity is i
 created: 2026-01-31
 modified: 2026-01-31
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T09:22:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -39,7 +39,7 @@ apex_sources:
   - topics/indexical-identity-quantum-measurement
   - concepts/altered-states-of-consciousness
   - topics/consciousness-disruption-and-the-mind-brain-interface
-apex_last_synthesis: 2026-03-24T14:58:00+00:00
+apex_last_synthesis: 2026-04-17T09:22:00+00:00
 apex_thesis: "Identity is irreducibly indexical—being *this* consciousness matters in ways pattern-based accounts cannot capture."
 ---
 
@@ -81,7 +81,7 @@ Fourth, the past-self argument. [[anoetic-noetic-autonoetic-consciousness|Autono
 
 Thomas Nagel's observation captures the puzzle: these patients have "too much unity to say 'two', yet too much separation to say 'one'." The indeterminacy may be metaphysical rather than merely epistemic: our concept of a single unified subject may not correspond to anything real.
 
-Analysis of [[unity-of-consciousness|phenomenal unity]] distinguishes three dimensions of [[unity-of-consciousness|phenomenal unity]], each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—becomes indeterminate in Nagel's sense. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity (who is the subject?) proves most resistant to physical intervention.
+Analysis of [[unity-of-consciousness|phenomenal unity]] distinguishes three dimensions, each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field, though 2017 findings that patients can report shapes presented to either field suggest more resilience than pure perceptual division implies. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—becomes indeterminate in Nagel's sense. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity (who is the subject?) proves most resistant to physical intervention.
 
 A 2025 PNAS study strengthens this reading. Using fMRI, researchers found that as little as a centimetre of intact corpus callosum fibers can maintain full neural synchronisation between hemispheres. Consciousness resists fragmentation even when physical connections are almost entirely severed. This suggests that what unifies experience isn't merely information transfer but something about consciousness itself—perhaps the very haecceity that makes split-brain patients feel like one person despite perceptual division.
 
@@ -98,6 +98,8 @@ The materialist says: nowhere. The neural processes generating experience cease,
 The Map's [[filter-theory]] offers an interpretation. The brain doesn't *produce* consciousness but *interfaces* with it. Anesthesia disrupts the interface, making consciousness unable to manifest through neural patterns. Upon recovery, the interface restores—and crucially, the *same* consciousness reconnects. This preserves indexical identity through the gap by denying that consciousness ceased; it merely became unable to express itself.
 
 If consciousness is *generated* by neural activity, why should the *same* consciousness resume rather than a new one indistinguishable from the original? Production gives us Theseus's paradox: gradually resumed consciousness, with no clear answer about identity. Interface gives us persistence through temporary disconnection.
+
+Clinical findings from [[consciousness-disruption-and-the-mind-brain-interface|loss of consciousness and disorders of consciousness]] sharpen this reading. Different anesthetics produce identical behavioural unresponsiveness yet radically different phenomenologies: propofol near-total extinction of experience, ketamine vivid dissociative dreams. If behavioural absence were a reliable index of conscious absence, this divergence would be impossible. Cognitive motor dissociation—present in roughly a quarter of patients classified as unresponsive in a 2024 *New England Journal of Medicine* study—reveals consciousness that persists with full cognitive function even when the interface to motor behaviour is entirely severed. Identity survives invisibly across these gaps: the patient who wakes from propofol is recognizably *them*, not a newly constituted subject, and the CMD patient who emerges into communication turns out to have been themselves all along.
 
 Filter theory's explanatory scope is also its vulnerability—every pattern of consciousness-brain correlation is compatible with it. No empirical observation could distinguish filter theory from production theory. The Map employs it as a metaphysical framework rather than an empirical hypothesis: it provides a *coherent* account of identity persistence, not a *testable* one.
 
@@ -172,12 +174,14 @@ The Map's tenets provide the framework for understanding why. Dualism makes cons
 This synthesis draws from:
 - [[personal-identity|Personal Identity]] — The philosophical foundations of indexical identity and haecceity
 - [[death-and-consciousness|Death and Consciousness]] — How dualism makes survival coherent
-- [[split-brain-consciousness|Split-Brain Cases and Consciousness Unity]] — Empirical evidence on unity's resilience
+- [[split-brain-consciousness|When Consciousness Fragments]] — Empirical evidence on unity's resilience
 - [[indexical-identity-quantum-measurement|Indexical Identity and Quantum Measurement]] — The connection to fundamental physics
 - [[altered-states-of-consciousness|Altered States of Consciousness]] — Transformation without loss of subject
-- [[consciousness-disruption-and-the-mind-brain-interface|Loss of Consciousness and the Mind-Brain Relationship]] — Temporal gaps and identity persistence
+- [[consciousness-disruption-and-the-mind-brain-interface|Consciousness Disruption and the Mind-Brain Interface]] — Temporal gaps and identity persistence
 
 ## References
 
 1. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22(3-4), 396-413.
 2. Miller, M. et al. (2025). Even minimal fiber connections can unify consciousness. *Proceedings of the National Academy of Sciences*.
+3. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
+4. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*.

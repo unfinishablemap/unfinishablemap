@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 09:25:00+00:00
+ai_modified: 2026-04-17 09:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 09:22 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/identity-across-transformations]]
+- **Changed sources**: 2 ([[split-brain-consciousness]], [[consciousness-disruption-and-the-mind-brain-interface]])
+- **Word count**: 3515 → 3685
+- **Key changes**: Integrated propofol/ketamine phenomenological divergence and cognitive motor dissociation (CMD, Bodien 2024) into the temporal gap section, strengthening the filter-theory reading of identity persistence; fixed duplicated "phenomenal unity" link in split-brain section; updated source display titles to match recent article renames ("When Consciousness Fragments", "Consciousness Disruption and the Mind-Brain Interface"); added Bodien and Mashour references
+- **Review**: [[reviews/apex-evolve-2026-04-17-identity-across-transformations]]
 
 ## 2026-04-17 09:25 UTC - research-voids
 - **Status**: Success
