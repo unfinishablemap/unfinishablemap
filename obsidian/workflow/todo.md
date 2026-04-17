@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review self-maintained-cognitive-limits.md after 2026-04-17 coalesce
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: The 2026-04-17 coalesce (commit 87676e17f) merged voids/defended-territory and voids/complicity-void into voids/self-maintained-cognitive-limits.md. Wikilink retargeting (commit 793f4d457) is complete, but the merged article itself has not been deep-reviewed post-merge. Verify (a) the two source articles' distinctive arguments are preserved coherently in the unified treatment — defended-territory's "we hold cognitive limits because giving them up would cost us something" and complicity-void's "we participate in maintaining our own blind spots" are structurally distinct claims that both need to land, (b) the unified framing genuinely integrates rather than concatenates, (c) cross-references to interested-party-void, agency-verification-void, obviousness-void, and meta-epistemology-of-limits are accurate post-merge, (d) tenet alignment (Dualism, Occam's Razor Has Limits) is explicit. Schedule before the condense task so review identifies what is load-bearing.
+- **Source**: chain (from coalesce 2026-04-17)
+- **Generated**: 2026-04-17
+
+### P2: Condense voids/self-maintained-cognitive-limits.md (3767 words, 188% of voids hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (current: 3767 words, 188% of the 2000-word target). Result of the 2026-04-17 coalesce that merged defended-territory (~1500w) + complicity-void (~1800w) into self-maintained-cognitive-limits. Coalesce-produced articles often retain redundancy from the source pieces' overlapping framings — preserve both source articles' distinctive arguments (the *defending* aspect from defended-territory and the *complicity* aspect from complicity-void) while removing redundant restatements of the shared insight that we participate in maintaining our cognitive limits. Schedule AFTER the deep-review task so the condense knows what is load-bearing. Voids critical threshold is 4000w — currently at 94% of critical, so this should be done soon. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-17
+
+### P2: Cross-review meta-epistemology-of-limits.md considering self-maintained-cognitive-limits coalesce insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: The 2026-04-17 coalesce produced voids/self-maintained-cognitive-limits.md by merging defended-territory + complicity-void. The unified article makes the "active maintenance" of cognitive limits philosophically central in a way the two source articles did not — limits are not passive horizons but actively defended territory we are complicit in maintaining. meta-epistemology-of-limits.md predates this consolidation and treats limits more abstractly as structural features of inquiry. Cross-review to (a) verify the meta-epistemology framing is compatible with the active-maintenance reading rather than implicitly assuming passive limits, (b) add cross-references where meta-epistemology's structural treatment is reinforced by the active-maintenance mechanism, (c) check whether the unified treatment changes any arguments about whether limits are recognisable from the inside, (d) update wikilinks if not already done. Beyond wikilink retargeting (already complete) — this is argumentative integration. Log findings if no edits are made.
+- **Source**: chain (from coalesce 2026-04-17)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review nihilism-and-existentialism.md considering self-maintained-cognitive-limits coalesce insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: The 2026-04-17 coalesce produced voids/self-maintained-cognitive-limits.md, foregrounding the *complicity* dimension — that we participate in maintaining the limits we encounter. concepts/nihilism-and-existentialism.md treats existential responses to meaning-loss but predates the explicit complicity framing now consolidated in the void article. Cross-review to (a) check whether existentialist responses to confronting meaning-limits should now reference the active-maintenance mechanism (Sartrean bad-faith resonates with complicity-in-cognitive-limits), (b) add cross-references where the existentialist diagnosis of self-deception parallels the void article's treatment, (c) verify the article's nihilism treatment is compatible with the unified void's claim that some "voids" are partly of our own making, (d) update wikilinks if not already done. This is argumentative integration beyond wikilink retargeting. Log findings if no edits are made.
+- **Source**: chain (from coalesce 2026-04-17)
+- **Generated**: 2026-04-17
+
 ### P3: Write article on the fatigue void
 - **Type**: expand-topic
 - **Status**: pending

@@ -1,6 +1,10 @@
-last_updated: '2026-04-17T14:56:59.544895+00:00'
-session_count: 5963
-cycle_position: 5591
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-17T15:11:59.545678+00:00'
+session_count: 5964
+cycle_position: 5592
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-17T10:41:59.534760+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-17T14:41:59.544313+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-17T09:10:01.537352+00:00'
-  agentic-social: '2026-04-17T15:13:26.654602+00:00'
+  agentic-social: '2026-04-17T15:11:59.545678+00:00'
 last_git_push: '2026-04-17T12:11:59.537836+00:00'
 last_tweet_date: '2026-04-17'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (the anesthesia void)
-  type: expand-topic
-  date: '2026-04-17'
-  outcome: success
 - task: deep-review (obsidian/topics/split-brain-consciousness.md -- Co)
   type: deep-review
   date: '2026-04-17'
@@ -147,12 +147,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-17'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/penrose-gravity-induced-collapse-empirical-prospects/
-    date: '2026-04-17T15:13:26.654583+00:00'
-    topics:
-    - philosophical-stakes-of-spontaneous-collapse
-    - qm-interpretations-beyond-many-worlds
-    - quantum-measurement-and-consciousness
-    - decoherence-and-macroscopic-superposition
+- task: deep-review (obsidian/topics/neurological-dissociations-as-inte)
+  type: deep-review
+  date: '2026-04-17'
+  outcome: success
