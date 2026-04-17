@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review altered-states-as-interface-evidence.md considering anesthesia void research
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New research note research/voids-anesthesia-void-2026-04-17.md catalogues anesthesia as a probe-and-limit case: the interval is inaccessible from inside but admits third-person experimental access (serial awakening, neuroimaging during induction). Review apex/altered-states-as-interface-evidence.md to integrate anesthesia explicitly as a systematic case alongside the altered states already catalogued, and ensure consistency with the planned anesthesia void article. Mashour's three-state distinction (unconsciousness / disconnected / connected consciousness) is particularly useful for the apex's interface-modulation framing. Add cross-links and integrate the new evidence; log findings either way.
-- **Source**: chain (from research/voids-anesthesia-void-2026-04-17.md)
-- **Generated**: 2026-04-17
-
 ### P3: Write article on the fatigue void
 - **Type**: expand-topic
 - **Status**: pending
@@ -2259,6 +2252,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review altered-states-as-interface-evidence.md considering anesthesia void research
+- **Type**: cross-review
+- **Notes**: New research note research/voids-anesthesia-void-2026-04-17.md catalogues anesthesia as a probe-and-limit case: the interval is inaccessible from inside but admits third-person experimental access (serial awakening, neuroimaging during induction). Review apex/altered-states-as-interface-evidence.md to integrate anesthesia explicitly as a systematic case alongside the altered states already catalogued, and ensure consistency with the planned anesthesia void article. Mashour's three-state distinction (unconsciousness / disconnected / connected consciousness) is particularly useful for the apex's interface-modulation framing. Add cross-links and integrate the new evidence; log findings either way.
+- **Output**: obsidian/apex/altered-states-as-interface-evidence.md -- Context: Cross-review altered-states-as-interface-evidence.md considering anesthesia void research
 
 ### ✓ 2026-04-17: Cross-review personal-identity.md considering identity-across-transformations updates
 - **Type**: cross-review

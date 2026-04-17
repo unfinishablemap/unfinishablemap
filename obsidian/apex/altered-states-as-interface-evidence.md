@@ -3,7 +3,7 @@ title: "Altered States as Systematic Interface Evidence"
 created: 2026-03-16
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-04-16T09:14:00+00:00
+ai_modified: 2026-04-17T11:56:00+00:00
 draft: false
 description: "Five altered states—psychedelics, dreams, hypnagogia, meditation, anaesthesia—converge on the same multi-channel interface architecture, mapping consciousness-brain coupling through systematic perturbation."
 topics:
@@ -32,13 +32,14 @@ related_articles:
   - "[[the-convergence-argument-for-dualism]]"
   - "[[clinical-dissociation-as-systematic-evidence]]"
   - "[[comparative-consciousness-and-interface-differences]]"
+  - "[[anesthesia-void]]"
 
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-16
 last_curated: null
-last_deep_review: 2026-04-16T09:14:00+00:00
+last_deep_review: 2026-04-17T11:56:00+00:00
 
 apex_sources:
   - topics/psychedelics-and-the-filter-model
@@ -97,7 +98,9 @@ Meditative cessation events sharpen the point further. Unlike anaesthesia (exter
 
 ### Anaesthesia: The Interface Pharmacologically Dissected
 
-[[anaesthesia-and-the-consciousness-interface|Anaesthetic pharmacology]] provides the most precise molecular map of the interface. Different agents target different receptor systems and produce different phenomenological outcomes despite identical behavioural unresponsiveness. Propofol (GABA-A) abolishes phenomenal experience entirely—patients report nothing. Ketamine (NMDA) preserves vivid consciousness while severing it from behavioural output. Volatile agents fragment temporal coherence. Midazolam eliminates memory encoding while leaving consciousness and responsiveness largely intact.
+[[anaesthesia-and-the-consciousness-interface|Anaesthetic pharmacology]] provides the most precise molecular map of the interface. Different agents target different receptor systems and produce different phenomenological outcomes despite identical behavioural unresponsiveness. Under propofol (GABA-A), patients typically report nothing on emergence—no retrievable phenomenal content. Ketamine (NMDA) preserves vivid consciousness while severing it from behavioural output. Volatile agents fragment temporal coherence. Midazolam eliminates memory encoding while leaving consciousness and responsiveness largely intact.
+
+Mashour and colleagues (2023) sharpen the framework by distinguishing three states that can occur under nominally "stable" anaesthesia: unconsciousness (no experience generated), disconnected consciousness (content without environmental coupling or accessible memory), and connected consciousness (intraoperative awareness—clinically documented and, in paralysed patients, sometimes including pain). What first-person report registers as "the gap" is a compound signature whose interior is heterogeneous and partly hidden from the subject. The [[anesthesia-void|anaesthesia void]] develops the epistemology: the first-person side cannot enter the interval, while third-person probes partially characterise it from outside.
 
 These dissociations reveal at least four separable interface components: phenomenal presence, behavioural access, temporal binding, and memory encoding. Each can be pharmacologically isolated. The Meyer-Overton correlation—once taken as evidence for a single anaesthetic mechanism—has been replaced by the recognition that anaesthetics act through specific molecular targets, consistent with a structured interface rather than a generic consciousness-production system. The ketamine case also carries epistemological weight: patients who later report vivid experiences demonstrate that consciousness maintained its causal connection to memory encoding even while severed from behavioural output—a point the Map's [[self-stultification-as-master-argument|self-stultification argument]] develops. If consciousness were epiphenomenal during the ketamine state, the reliability of these later reports would be self-defeating, presupposing the very causal efficacy that epiphenomenalism denies.
 
@@ -120,7 +123,7 @@ When the five windows are compared systematically, the interface architecture be
 
 Three patterns emerge from this matrix.
 
-**First, phenomenal presence is the most robust component.** It persists through psychedelic ego dissolution, dreaming, hypnagogia, and open monitoring meditation—states where most other interface components have degraded or reconfigured. Only propofol-class anaesthesia, which targets the posterior cortical hot zone directly, abolishes it. This suggests phenomenal consciousness is either the deepest layer of the interface or the aspect of consciousness least dependent on any particular interface configuration.
+**First, phenomenal presence is the most robust component.** It persists through psychedelic ego dissolution, dreaming, hypnagogia, and open monitoring meditation—states where most other interface components have degraded or reconfigured. Only propofol-class anaesthesia, which targets the posterior cortical hot zone directly, appears to abolish it (the matrix entry reflects what patients retrospectively report; as the [[anesthesia-void|anaesthesia void]] argument notes, first-person silence under anaesthetic amnesia cannot by itself discriminate genuine cessation from disconnected content that was never retained). This suggests phenomenal consciousness is either the deepest layer of the interface or the aspect of consciousness least dependent on any particular interface configuration.
 
 **Second, voluntary attention and agency are the most fragile components.** They degrade first during hypnagogia, are absent in non-lucid dreams, become unreliable under psychedelics, and are deliberately released in open monitoring. This fragility makes sense under the [[coupling-modes]] framework: if attention is the primary channel through which consciousness acts on neural activity (basis and timing control), it should be the component most sensitive to interface disruption, because it requires the tightest bidirectional coupling.
 
@@ -171,6 +174,7 @@ The systematic evidence from altered states connects to each of the Map's [[tene
 - [[comparative-consciousness-and-interface-differences]] — Whether interface architecture varies across species, extending the altered-state evidence
 - [[neural-correlates-of-consciousness|Neural Correlates of Consciousness]] — Why correlates constrain but do not explain consciousness
 - [[clinical-dissociation-as-systematic-evidence]] — Dissociative disorders as another window into interface component separation
+- [[anesthesia-void]] — The first-person gap under anaesthesia and what third-person probes can and cannot recover
 
 ## Source Articles
 
@@ -196,6 +200,7 @@ This synthesis draws on:
 6. Konkoly, K. R., et al. (2026). Puzzle-incorporating dreams and creative problem-solving. *Consciousness and Cognition*, 108, 103567.
 7. Kral, T. R. A., et al. (2022). Absence of structural brain changes from mindfulness-based stress reduction: Two combined randomized controlled trials. *Science Advances*, 8(21), eabk3316.
 8. Lacaux, C., Andrillon, T., Bastoul, C., et al. (2021). Sleep onset is a creative sweet spot. *Science Advances*, 7(50), eabj5866.
-9. Mavromatis, A. (1987). *Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep*. Routledge.
-10. Tagliazucchi, E., et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
-11. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.
+9. Mashour, G. A. (2023). The nature of consciousness in anaesthesia. *BJA Open*, 8, 100215.
+10. Mavromatis, A. (1987). *Hypnagogia: The Unique State of Consciousness Between Wakefulness and Sleep*. Routledge.
+11. Tagliazucchi, E., et al. (2016). Increased global functional connectivity correlates with LSD-induced ego dissolution. *Current Biology*, 26(8), 1043-1050.
+12. Xu, G., et al. (2023). Surge of neurophysiological coupling and connectivity of gamma oscillations in the dying human brain. *PNAS*, 120(19), e2216268120.

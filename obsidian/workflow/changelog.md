@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 11:41:00+00:00
+ai_modified: 2026-04-17 11:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 11:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/altered-states-as-interface-evidence]]
+- **Word count**: 3463 → 3618 (+155)
+- **Critical issues addressed**: 1 (softened propofol "abolishes phenomenal experience entirely" claim; first-person silence under anaesthetic amnesia underdetermines phenomenal cessation)
+- **Medium issues addressed**: 3 (integrated Mashour 2023 three-states taxonomy; added inline + Further Reading + related_articles links to `anesthesia-void`; qualified matrix "Abolished" entry with adjacent caveat)
+- **Enhancements made**: 1 (Mashour 2023 citation added, References renumbered)
+- **Context**: Cross-review prompted by new [[voids/anesthesia-void]] article; apex updated to reflect current anaesthesia consciousness literature and epistemology of the first-person gap
+- **Output**: [[reviews/deep-review-2026-04-17-altered-states-as-interface-evidence]]
 
 ## 2026-04-17 11:41 UTC - deep-review
 - **Status**: Success
