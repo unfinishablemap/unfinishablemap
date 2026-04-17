@@ -1,6 +1,10 @@
-last_updated: '2026-04-17T07:25:01.533943+00:00'
-session_count: 5933
-cycle_position: 5561
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-17T07:40:01.534389+00:00'
+session_count: 5934
+cycle_position: 5562
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-17T04:40:01.526829+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-17T07:25:01.533943+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-16T09:03:38.315212+00:00'
-  agentic-social: '2026-04-17T07:40:44.213567+00:00'
+  agentic-social: '2026-04-17T07:40:01.534389+00:00'
 last_git_push: '2026-04-16T21:40:01.511263+00:00'
 last_tweet_date: '2026-04-16'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-17'
-  outcome: success
 - task: 'refine-draft (obsidian/voids/commensurability-void.md
 
 
@@ -136,10 +136,7 @@ recent_tasks:
   type: coalesce
   date: '2026-04-17'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/panpsychisms-combination-problem/
-    date: '2026-04-17T07:40:44.213549+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - the-strong-emergence-of-consciousness
+- task: 'deep-review (None -- Context: Update references to coalesced bo)'
+  type: deep-review
+  date: '2026-04-17'
+  outcome: success

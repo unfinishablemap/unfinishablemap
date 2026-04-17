@@ -4,8 +4,8 @@ description: "What does it feel like when consciousness acts on matter? Effort, 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
-last_deep_review: 2026-03-08T13:37:00+00:00
+ai_modified: 2026-04-17T07:55:00+00:00
+last_deep_review: 2026-04-17T07:55:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-agency-vs-passivity]]"
@@ -80,7 +80,7 @@ Consciousness at work does not merely choose in discrete moments — it *holds*.
 
 Holding has its own phenomenological character, distinct from initial selection. Selecting a focus requires a burst of effort; sustaining it requires continuous engagement of a different quality — steadier, more draining over time, punctuated by the recurring cycle of [[phenomenology-of-returning-attention|wandering and return]]. When attention drifts, there is a moment of noticing (involuntary — it happens *to* you) followed by a moment of re-engagement (voluntary — you *do* it). The return phase is effortful in a way the noticing is not, and this asymmetry is precisely what the Map's framework predicts: consciousness doing the work of selection feels different from consciousness receiving the fact of having wandered.
 
-The holding dimension connects to the Map's account of [[consciousness-and-causal-powers|causal powers]]. Consciousness's influence is not instantaneous — it operates through sustained engagement with neural processes over time. The [[stapp-quantum-mind|quantum Zeno mechanism]] offers one explanation: rapid, repeated acts of observation hold desired neural patterns stable against the brain's tendency toward decoherence. Whether or not this specific mechanism is correct, the phenomenology of holding — continuous, effortful, depletable — matches what any theory of sustained conscious influence should predict. Something is maintaining a pattern that would otherwise dissipate, and that maintenance feels like work.
+The holding dimension connects to the Map's account of [[consciousness-and-causal-powers|causal powers]]. Consciousness's influence is not instantaneous — it operates through sustained engagement with neural processes over time. The [[stapp-quantum-mind|quantum Zeno mechanism]] (Stapp, 2007) offers one explanation: rapid, repeated acts of observation hold desired neural patterns stable against the brain's tendency toward decoherence. Whether or not this specific mechanism is correct, the phenomenology of holding — continuous, effortful, depletable — matches what any theory of sustained conscious influence should predict. Something is maintaining a pattern that would otherwise dissipate, and that maintenance feels like work.
 
 ### Opacity: The Invisible Mechanism
 
@@ -90,7 +90,7 @@ The expanded treatment of [[self-opacity|introspective opacity]] reveals that th
 
 This four-dimensional opacity is not a failure of attention or a cultural artefact. It appears universally across traditions. The Western phenomenologist cannot observe how willing produces movement. The Daoist cannot explain how *wu wei* works. The Buddhist meditator, refining introspective access to ever finer granularity, discovers more *characteristics* of volitional states without gaining access to their generative mechanisms. As the [[cross-cultural-phenomenology-of-agency|cross-cultural phenomenology of agency]] documents, the gap between willing and doing is invisible everywhere.
 
-A striking corollary is the *transparency illusion*: despite this structural opacity, we *feel* transparent to ourselves. We feel we know why we act, how we decide, what moves us. Wegner called this the mind's "best trick" — fabricated explanations feel no different from veridical ones. Nisbett and Wilson's classic experiments demonstrated the disconnect: subjects who chose stockings based on position effects confabulated elaborate reasons involving quality and colour. They had access to the content of their choice but not the process that determined it. Choice blindness experiments extend the finding — when choices are secretly switched, subjects confabulate reasons for decisions they never made with equal confidence. The opacity is not merely present; it is invisible from within.
+A striking corollary is the *transparency illusion*: despite this structural opacity, we *feel* transparent to ourselves. We feel we know why we act, how we decide, what moves us. Wegner (2002) called this the mind's "best trick" — fabricated explanations feel no different from veridical ones. Nisbett and Wilson's (1977) classic experiments demonstrated the disconnect: subjects who chose stockings based on position effects confabulated elaborate reasons involving quality and colour. They had access to the content of their choice but not the process that determined it. Choice blindness experiments (Johansson et al., 2005) extend the finding — when choices are secretly switched, subjects confabulate reasons for decisions they never made with equal confidence. The opacity is not merely present; it is invisible from within.
 
 The Map treats this as a genuine void — a boundary of the knowable rather than a temporary ignorance. If consciousness operates at quantum indeterminacies in neural systems, the interface is at a scale and of a nature that phenomenological access cannot reach. We experience the inputs (intention, attention, effort) and the outputs (action, sustained focus, selected outcomes) but not the transduction between phenomenal and physical domains. The opacity is what you would expect if the interface operates below the resolution of introspection — and the transparency illusion is what you would expect if the system were designed for action, not self-observation.
 
@@ -175,8 +175,11 @@ This apex article synthesises:
 1. Driskell, J. E., Copper, C. & Moran, A. (1994). Does mental practice enhance performance? *Journal of Applied Psychology*, 79(4), 481-492.
 1. Feltz, D. L. & Landers, D. M. (1983). The effects of mental practice on motor skill learning and performance: A meta-analysis. *Journal of Sport Psychology*, 5(1), 25-57.
 1. James, W. (1890). *The Principles of Psychology*. Henry Holt.
+1. Johansson, P., Hall, L., Sikström, S. & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
 1. Kahneman, D. (1973). *Attention and Effort*. Prentice-Hall.
 1. Markus, H. R. & Kitayama, S. (1991). Culture and the Self: Implications for Cognition, Emotion, and Motivation. *Psychological Review*, 98(2), 224-253.
+1. Nisbett, R. E. & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
 1. Pacherie, E. (2008). The phenomenology of action: A conceptual framework. *Cognition*, 107(1), 179-217.
 1. Rajan, A., Siegel, S.N., Liu, Y., Bengson, J., Mangun, G.R. & Ding, M. (2019). Theta oscillations index frontal decision-making and mediate reciprocal frontal-parietal interactions in willed attention. *Cerebral Cortex*, 29(7), 2832-2843.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
