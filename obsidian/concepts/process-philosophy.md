@@ -4,7 +4,7 @@ description: "A metaphysical tradition treating reality as fundamentally dynamic
 created: 2026-01-27
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T17:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated: null
-last_deep_review: 2026-03-17T16:00:00+00:00
+last_deep_review: 2026-04-17T17:27:00+00:00
 ---
 
 Process philosophy holds that reality is fundamentally dynamic—constituted by events, processes, and becoming rather than static substances or objects. Where traditional metaphysics asks "What things exist?", process philosophy asks "What is happening?" The shift matters for consciousness studies: if experience is intrinsically temporal and flowing, perhaps the universe is too.
