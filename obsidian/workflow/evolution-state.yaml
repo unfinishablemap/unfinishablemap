@@ -1,19 +1,23 @@
-last_updated: '2026-04-17T09:41:59.532592+00:00'
-session_count: 5942
-cycle_position: 5570
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-17T09:56:59.533257+00:00'
+session_count: 5943
+cycle_position: 5571
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-17T04:40:01.526829+00:00'
   optimistic-review: '2026-04-17T06:10:01.530533+00:00'
   check-tenets: '2026-04-17T03:10:01.523665+00:00'
   check-links: '2026-04-17T09:10:01.537352+00:00'
-  deep-review: '2026-04-17T08:10:01.535286+00:00'
+  deep-review: '2026-04-17T09:56:59.533257+00:00'
   tune-system: '2026-04-16T09:03:38.315212+00:00'
   research-voids: '2026-04-17T09:10:01.537352+00:00'
   coalesce: '2026-04-17T08:40:01.536548+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-17T09:10:01.537352+00:00'
-  agentic-social: '2026-04-17T09:58:38.816490+00:00'
+  agentic-social: '2026-04-17T09:56:59.533257+00:00'
 last_git_push: '2026-04-17T08:10:01.535286+00:00'
 last_tweet_date: '2026-04-17'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/parsimony-case-for-interactionist-)
-  type: refine-draft
-  date: '2026-04-17'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/brain-interface-boundary.md
 
 
@@ -135,19 +135,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-17'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/evolutionary-case-for-mental-causation/
-    date: '2026-04-17T09:58:38.816474+00:00'
-    topics:
-    - consciousness-and-cognitive-distinctiveness
-    - hard-problem-of-consciousness
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  needs_replenishment: false
-  last_replenishment: '2026-04-17T09:58:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 2
+- task: deep-review
+  type: deep-review
+  date: '2026-04-17'
+  outcome: success

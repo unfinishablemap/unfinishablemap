@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the anesthesia void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed today in research/voids-anesthesia-void-2026-04-17.md. Distinct from sleep, death, and transit voids: anesthesia is pharmacologically imposed, typically dreamless, and the *interval itself* is inaccessible from inside while admitting third-person experimental probes (serial awakening paradigms, neuroimaging during induction). Mashour's three-state taxonomy (unconsciousness / disconnected / connected consciousness) and the existence of intraoperative awareness destabilise the simple "consciousness off" framing that physicalist accounts assume. Target section: voids/ (98/100). Tenet alignment: Dualism (consciousness is layered in ways brain-only model struggles to predict), Bidirectional Interaction (connected consciousness without motor output complicates the causal story), Occam's Razor Has Limits (treating anesthetic unconsciousness as identical to phenomenal cessation outruns the evidence). Medium scope (2000-2500 words). Cross-link to sleep-consciousness-void, death-void, transit-void, altered-states-as-void-probes, identity-across-transformations.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review split-brain-consciousness.md considering identity-across-transformations updates
 - **Type**: cross-review
 - **Status**: pending
@@ -2280,6 +2273,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Write article on the anesthesia void
+- **Type**: expand-topic
+- **Notes**: Research completed today in research/voids-anesthesia-void-2026-04-17.md. Distinct from sleep, death, and transit voids: anesthesia is pharmacologically imposed, typically dreamless, and the *interval itself* is inaccessible from inside while admitting third-person experimental probes (serial awakening paradigms, neuroimaging during induction). Mashour's three-state taxonomy (unconsciousness / disconnected / connected consciousness) and the existence of intraoperative awareness destabilise the simple "consciousness off" framing that physicalist accounts assume. Target section: voids/ (98/100). Tenet alignment: Dualism (consciousness is layered in ways brain-only model struggles to predict), Bidirectional Interaction (connected consciousness without motor output complicates the causal story), Occam's Razor Has Limits (treating anesthetic unconsciousness as identical to phenomenal cessation outruns the evidence). Medium scope (2000-2500 words). Cross-link to sleep-consciousness-void, death-void, transit-void, altered-states-as-void-probes, identity-across-transformations.
+- **Output**: the anesthesia void
 
 ### ✓ 2026-04-17: Update references to coalesced boundary-void and projection-void → boundary-and-projection
 - **Type**: refine-draft
