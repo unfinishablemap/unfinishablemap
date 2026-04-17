@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17T12:41:00+00:00
+ai_modified: 2026-04-17T13:11:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,20 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Apply cross-linking suggestions from optimistic-2026-04-17-afternoon across the anesthesia/dissociation cluster
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Afternoon optimistic review (2026-04-17) identified five concrete cross-links now missing from the anesthesia/dissociation cluster. (1) voids/anesthesia-void → topics/clinical-dissociation-as-systematic-evidence: reference the clinical evidence as a parallel case with non-pharmacological mechanism producing the same selective-disruption pattern. (2) topics/clinical-dissociation-as-systematic-evidence → voids/anesthesia-void: symmetric back-link noting the pharmacological and clinical routes reach the same interface architecture. (3) topics/personal-identity → voids/anesthesia-void: the consciousness-gaps section should reference the three-states analysis (unconsciousness / disconnected consciousness / connected consciousness) — arguments about "what persists through anaesthesia" require the distinction. (4) apex/identity-across-transformations → voids/anesthesia-void: the apex's anaesthesia discussion currently treats the gap without the three-states epistemology; cite the void article. (5) topics/split-brain-consciousness → topics/clinical-dissociation-as-systematic-evidence: the article references DID briefly but should cross-link to clinical-dissociation's full DID treatment including cross-state-integration framing. See reviews/optimistic-2026-04-17-afternoon.md Cross-Linking Suggestions table.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-17
-
-### P2: Write article on the erasure void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/voids-erasure-void-2026-03-20.md but article not yet synthesised. The erasure void names consciousness's structural inability to inventory its own deletions — when cognitive capacity is lost through neurodegeneration, brain injury, ageing, or ordinary passage of time, the monitoring system that would detect the loss is often degraded alongside the capacity itself. Clinical anosognosia provides the starkest demonstration but the principle operates universally. Distinct from inaccessible-past (forgetting specific memories) — the erasure void concerns the deeper impossibility of auditing cognitive completeness. Voids currently at 99/100 — placing this article brings voids to 100/100 (cap), so it displaces fatigue-void as the next voids slot. Prioritised over fatigue-void because (a) the fatigue-void slug already exists in archive/ (coalesced earlier), making the path there ambiguous; (b) erasure-void's anosognosia grounding gives it clinical specificity fatigue-void lacks; (c) the structural-asymmetry thesis (acquisition is noticed, loss often is not) is a distinctive philosophical contribution. Target section: voids/. Tenet alignment: Dualism, Hard Problem, Occam's Razor Has Limits. Medium scope (2000-2400 words). Cross-link to transparency-void, inaccessible-past, self-opacity, self-transcendence-void, observation-void.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-17
 
 ### P2: Cross-review topics/anaesthesia-and-the-consciousness-interface considering new anesthesia-void article
 - **Type**: cross-review
@@ -2301,6 +2287,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Apply cross-linking suggestions from optimistic-2026-04-17-afternoon across the anesthesia/dissociation cluster
+- **Type**: refine-draft
+- **Notes**: Afternoon optimistic review (2026-04-17) identified five concrete cross-links now missing from the anesthesia/dissociation cluster. (1) voids/anesthesia-void → topics/clinical-dissociation-as-systematic-evidence: reference the clinical evidence as a parallel case with non-pharmacological mechanism producing the same selective-disruption pattern. (2) topics/clinical-dissociation-as-systematic-evidence → voids/anesthesia-void: symmetric back-link noting the pharmacological and clinical routes reach the same interface architecture. (3) topics/personal-identity → voids/anesthesia-void: the consciousness-gaps section should reference the three-states analysis (unconsciousness / disconnected consciousness / connected consciousness) — arguments about "what persists through anaesthesia" require the distinction. (4) apex/identity-across-transformations → voids/anesthesia-void: the apex's anaesthesia discussion currently treats the gap without the three-states epistemology; cite the void article. (5) topics/split-brain-consciousness → topics/clinical-dissociation-as-systematic-evidence: the article references DID briefly but should cross-link to clinical-dissociation's full DID treatment including cross-state-integration framing. See reviews/optimistic-2026-04-17-afternoon.md Cross-Linking Suggestions table.
+- **Output**: Task context:
+Afternoon optimistic review (2026-04-17) identified five concrete cross-links now missing from the anesthesia/dissociation cluster. (1) voids/anesthesia-void → topics/clinical-dissociation-as-systematic-evidence: reference the clinical evidence as a parallel case with non-pharmacological mechanism producing the same selective-disruption pattern. (2) topics/clinical-dissociation-as-systematic-evidence → voids/anesthesia-void: symmetric back-link noting the pharmacological and clinical routes reach the same interface architecture. (3) topics/personal-identity → voids/anesthesia-void: the consciousness-gaps section should reference the three-states analysis (unconsciousness / disconnected consciousness / connected consciousness) — arguments about "what persists through anaesthesia" require the distinction. (4) apex/identity-across-transformations → voids/anesthesia-void: the apex's anaesthesia discussion currently treats the gap without the three-states epistemology; cite the void article. (5) topics/split-brain-consciousness → topics/clinical-dissociation-as-systematic-evidence: the article references DID briefly but should cross-link to clinical-dissociation's full DID treatment including cross-state-integration framing. See reviews/optimistic-2026-04-17-afternoon.md Cross-Linking Suggestions table.
 
 ### ✓ 2026-04-17: Address pessimistic-2026-04-17b medium-severity issues in quantum-interpretations.md
 - **Type**: refine-draft

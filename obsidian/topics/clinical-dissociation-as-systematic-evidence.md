@@ -4,7 +4,7 @@ description: "Dissociative disorders—DID, depersonalization, conversion, amnes
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-17T11:27:00+00:00
+ai_modified: 2026-04-17T13:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,6 +26,7 @@ related_articles:
   - "[[altered-states-as-interface-evidence]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
+  - "[[voids/anesthesia-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -91,7 +92,7 @@ Across all four conditions, the same structural logic repeats:
 
 Each condition selectively disrupts connectivity between otherwise capable processing regions. The individual systems retain their capacity—demonstrated by intact per-alter cognition in DID, preserved sensory processing in DPDR, recoverable memories in dissociative amnesia, and movement under anaesthesia in conversion disorder. What fails is the functional connection between systems. The disconnections are selective, predictable, and map onto the same interface architecture that [[neurological-dissociations-as-interface-architecture|neurological dissociations]] reveal through structural damage.
 
-The convergence across disconnection types is the strongest evidence. Neurological dissociations show that destroying a pathway eliminates an interface channel. Clinical dissociations show that the same channel can go offline without pathway destruction. [[contemplative-pathology-and-interface-malfunction|Contemplative pathology]] adds a third route: voluntary attentional practices that push interface channels beyond their operating parameters, producing depersonalisation, temporal fragmentation, and phenomenal flooding through neither structural damage nor clinical disorder. All three pathways produce the same phenomenological result—selective absence or distortion of a specific aspect of experience. The interface is a functional entity, not merely a structural one. It can be disrupted at the level of information flow, not just at the level of wiring.
+The convergence across disconnection types is the strongest evidence. Neurological dissociations show that destroying a pathway eliminates an interface channel. Clinical dissociations show that the same channel can go offline without pathway destruction. [[contemplative-pathology-and-interface-malfunction|Contemplative pathology]] adds a third route: voluntary attentional practices that push interface channels beyond their operating parameters, producing depersonalisation, temporal fragmentation, and phenomenal flooding through neither structural damage nor clinical disorder. [[voids/anesthesia-void|Pharmacological dissociation]] under anaesthesia reaches the same architecture from a fourth route: receptor-specific agents (GABA-A, NMDA, benzodiazepines, neuromuscular blockers) selectively decouple consciousness from environment, memory consolidation, and motor output in agent-specific patterns, producing the three-states taxonomy — unconsciousness, disconnected consciousness, connected consciousness — that maps cleanly onto the same channel-level architecture the clinical conditions reveal. All four pathways produce the same phenomenological result—selective absence or distortion of a specific aspect of experience. The interface is a functional entity, not merely a structural one. It can be disrupted at the level of information flow, not just at the level of wiring.
 
 ## Why This Favours Dualism
 
@@ -125,6 +126,7 @@ Physicalists can explain this through stress-mediated changes in functional conn
 - [[neurological-dissociations-as-interface-architecture]] — How structural brain damage maps the same interface channels
 - [[split-brain-consciousness]] — The paradigm bilateral disconnection case and broader fragmentation question
 - [[anaesthesia-and-the-consciousness-interface]] — Pharmacological disruption of cortical integration and the interface model
+- [[voids/anesthesia-void]] — The void-level treatment: three-states epistemology and pharmacological dissociation as a parallel route to the same interface architecture
 - [[pain-asymbolia]] — Affective channel dissociation through neurological damage
 - [[clinical-phenomenology-and-altered-experience]] — The broader epistemic framework for clinical evidence in philosophy of mind
 - [[contemplative-pathology-and-interface-malfunction]] — When contemplative practices produce interface disruption

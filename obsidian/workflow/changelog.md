@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 13:05:00+00:00
+ai_modified: 2026-04-17 13:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 13:11 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[voids/anesthesia-void]], [[topics/clinical-dissociation-as-systematic-evidence]], [[topics/personal-identity]], [[apex/identity-across-transformations]], [[topics/split-brain-consciousness]]
+- **Review addressed**: [[reviews/optimistic-2026-04-17-afternoon]] Cross-Linking Suggestions table (all five entries)
+- **Changes**: (1) anesthesia-void gains a paragraph in Dissociability of Components referencing clinical-dissociation as a non-pharmacological parallel reaching the same interface architecture; (2) clinical-dissociation extends "The Systematic Pattern" to include pharmacological dissociation as a fourth route and adds void article to Further Reading; (3) personal-identity adds an "Anaesthesia Gap" subsection after Dreamless Sleep Challenge explaining why identity arguments require the Mashour three-states distinction (unconsciousness / disconnected / connected consciousness); (4) identity-across-transformations apex extends "The Temporal Gap" with a three-states paragraph citing anesthesia-void and notes how the taxonomy conditionalises the haecceity-persistence claim; (5) split-brain-consciousness gains a paragraph in its DID subsection cross-linking to clinical-dissociation's full DID treatment, specifically the cross-state-integration framing. Related_articles updated in all five files; ai_modified timestamps refreshed
+- **Published**: yes
 
 ## 2026-04-17 13:05 UTC - deep-review
 - **Status**: Success

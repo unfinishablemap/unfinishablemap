@@ -1,19 +1,23 @@
-last_updated: '2026-04-17T12:41:59.539273+00:00'
-session_count: 5954
-cycle_position: 5582
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-17T12:56:59.539860+00:00'
+session_count: 5955
+cycle_position: 5583
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-17T10:41:59.534760+00:00'
   optimistic-review: '2026-04-17T12:11:59.537836+00:00'
   check-tenets: '2026-04-17T03:10:01.523665+00:00'
   check-links: '2026-04-17T09:10:01.537352+00:00'
-  deep-review: '2026-04-17T11:26:59.536255+00:00'
+  deep-review: '2026-04-17T12:56:59.539860+00:00'
   tune-system: '2026-04-16T09:03:38.315212+00:00'
   research-voids: '2026-04-17T09:10:01.537352+00:00'
   coalesce: '2026-04-17T08:40:01.536548+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-17T09:10:01.537352+00:00'
-  agentic-social: '2026-04-17T12:57:34.692821+00:00'
+  agentic-social: '2026-04-17T12:56:59.539860+00:00'
 last_git_push: '2026-04-17T12:11:59.537836+00:00'
 last_tweet_date: '2026-04-17'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/apex/phenomenology-of-consciousness-doing)
-  type: deep-review
-  date: '2026-04-17'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-17'
@@ -148,21 +148,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-17'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/
-    date: '2026-04-17T12:57:34.692803+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - dualist-perception
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 319
-  needs_replenishment: false
-  last_replenishment: '2026-04-17T12:57:00+00:00'
-  replenishment_source_counts:
-    optimistic-review: 1
-    unconsumed_research: 1
-    chain: 1
+- task: deep-review
+  type: deep-review
+  date: '2026-04-17'
+  outcome: success
