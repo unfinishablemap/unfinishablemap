@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on the transformative experience void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/voids-transformative-experience-void-2026-04-17.md (2026-04-17 21:20 UTC). L. A. Paul's framework identifies a class of choices — parenthood, religious conversion, profound loss, emigration — where the decider cannot access the value of the outcome from the perspective in which the choice must be made. Doubly sealed: pre-transformation self lacks phenomenal access; post-transformation self cannot retroactively validate the choice for the agent who no longer exists as such. Category: Mixed — primarily Unexplorable with Occluded aspects. Target section: voids/ (96/100, 4 slots remaining). Cross-link candidates: phenomenal-quality-void, acquaintance-void, counterfactual-void, indexical-void, tenets. Tenet alignment: Dualism (phenomenal character is first-personal and structurally inaccessible to pre-transformation deciders), No Many Worlds (indexical identity of the transforming agent matters for whether "the same person" survives the change). Medium scope (2000-2500 words).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-17
+
+### P2: Condense ineffable-encounter-void.md (3217 words, 107% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Created 2026-04-17 via coalesce of resonance-void.md and numinous-void.md (two-register framing preserved as load-bearing). Preserve the two-register distinction, the apophatic-tradition engagement, and the Relation to Site Perspective; compress redundancies between the resonance and numinous sections where the unified treatment allows. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-17
+
 ### ~~P3: Write article on the fatigue void~~ ✅
 - **Type**: expand-topic
 - **Status**: superseded
