@@ -1,13 +1,100 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 09:26:00+00:00
+ai_modified: 2026-04-17 12:17:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 12:17 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Five articles from the morning-into-midday cycle that together extended the Map's interface-architecture programme — [anesthesia-void](/voids/anesthesia-void/) (newly created and refined), [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/) (deep-review cleanup), [split-brain-consciousness](/topics/split-brain-consciousness/) (refine-draft + apex-link), [personal-identity](/topics/personal-identity/) (cross-review at convergence), and [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) (cross-review against anesthesia-void)
+- **Output**: [optimistic-2026-04-17-afternoon](/reviews/optimistic-2026-04-17-afternoon/)
+
+## 2026-04-17 11:56 UTC - deep-review
+- **Status**: Success
+- **File**: [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/)
+- **Word count**: 3463 → 3618 (+155)
+- **Critical issues addressed**: 1 (softened propofol "abolishes phenomenal experience entirely" claim; first-person silence under anaesthetic amnesia underdetermines phenomenal cessation)
+- **Medium issues addressed**: 3 (integrated Mashour 2023 three-states taxonomy; added inline + Further Reading + related_articles links to `anesthesia-void`; qualified matrix "Abolished" entry with adjacent caveat)
+- **Enhancements made**: 1 (Mashour 2023 citation added, References renumbered)
+- **Context**: Cross-review prompted by new [anesthesia-void](/voids/anesthesia-void/) article; apex updated to reflect current anaesthesia consciousness literature and epistemology of the first-person gap
+- **Output**: [deep-review-2026-04-17-altered-states-as-interface-evidence](/reviews/deep-review-2026-04-17-altered-states-as-interface-evidence/)
+
+## 2026-04-17 11:41 UTC - deep-review
+- **Status**: Success
+- **File**: [personal-identity](/topics/personal-identity/)
+- **Word count**: 3527 → 3546 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (added 2025 PNAS finding to split-brain section; tightened cognitive enhancement bullet; tightened Albahari parenthetical; removed redundancy in MWI section)
+- **Enhancements made**: 1 (Miller et al. 2025 reference and supporting sentence — fresh empirical evidence absorbed from apex resynthesis)
+- **Context**: Cross-review prompted by [identity-across-transformations](/apex/identity-across-transformations/) apex update; article also substantively refined 2026-04-06
+- **Output**: [deep-review-2026-04-17-personal-identity](/reviews/deep-review-2026-04-17-personal-identity/)
+
+## 2026-04-17 11:27 UTC - deep-review
+- **Status**: Success
+- **File**: [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/)
+- **Word count**: 2442 → 2436 (-6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (de-duplicated `related_articles`; consolidated duplicate Further Reading entries left over from the `fragmented-consciousness` → `split-brain-consciousness` migration)
+- **Enhancements made**: 0 (article reached stability after three reviews; only post-migration housekeeping remained)
+- **Output**: [deep-review-2026-04-17-clinical-dissociation-as-systematic-evidence](/reviews/deep-review-2026-04-17-clinical-dissociation-as-systematic-evidence/)
+
+## 2026-04-17 11:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Source review**: [pessimistic-2026-04-17b](/reviews/pessimistic-2026-04-17b/)
+- **Changes**: Rewrote IIT paragraph in "Connection to the Binding Problem" to distinguish Φ from neural synchronization (the 2025 finding refutes a connectivity-based proxy, not IIT's Φ-based prediction); revised the Buddhist anattā paragraph in "Contemplative Evidence" to distinguish synchronic phenomenal unity from the diachronic substantial self that anattā denies, removing the self-undermining concession; added a paragraph to "The Interface Argument" engaging sophisticated multi-realisable functionalism explicitly rather than the "master switch" strawman.
+- **Published**: yes
+
+## 2026-04-17 10:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [anesthesia-void](/voids/anesthesia-void/)
+- **Source review**: [pessimistic-2026-04-17b](/reviews/pessimistic-2026-04-17b/)
+- **Changes**: Engaged sophisticated functionalist physicalism in "Dissociability of Components" (clarified that dissociation evidence is theory-neutral and only refutes naive "master switch" physicalism); reworked memory-failure vs. interface-disruption comparison in "Relation to Site Perspective" to acknowledge shared epistemic position and give three independent grounds for the Map's preference; added new "What Would Challenge This Reading?" section with four concrete falsification conditions; minor fixes (inline Mashour 2023 citation, ketamine example for environment-decoupling, softened "underfit" claim).
+- **Published**: yes
+
+## 2026-04-17 10:42 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: voids/anesthesia-void.md, topics/split-brain-consciousness.md, concepts/quantum-interpretations.md
+- **Output**: [pessimistic-2026-04-17b](/reviews/pessimistic-2026-04-17b/)
+
+## 2026-04-17 10:26 UTC - deep-review
+- **Status**: Success
+- **File**: [split-brain-consciousness](/topics/split-brain-consciousness/)
+- **Word count**: 3521 → 3531 (+10, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (apex cross-link made explicit in body text; DID prose tightened)
+- **Enhancements made**: 1 (body-text link to [identity-across-transformations](/apex/identity-across-transformations/))
+- **Cross-review context**: Verified apex update (2026-04-17) integrates from split-brain correctly; no absorption needed
+- **Output**: [deep-review-2026-04-17-split-brain-consciousness](/reviews/deep-review-2026-04-17-split-brain-consciousness/)
+
+## 2026-04-17 10:11 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Anesthesia Void
+- **Output**: [anesthesia-void](/voids/anesthesia-void/)
+- **Word count**: 2025
+- **Based on research**: yes, [voids-anesthesia-void-2026-04-17](/research/voids-anesthesia-void-2026-04-17/)
+
+## 2026-04-17 10:04 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Word count**: 2509 → 2519 (+10)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to post-decoherence-selection-programme apex created 2026-03-29)
+- **Enhancements made**: 1 (added apex cross-link in Further Reading + frontmatter; trimmed one fluffy sentence to compensate)
+- **Output**: [deep-review-2026-04-17-quantum-interpretations](/reviews/deep-review-2026-04-17-quantum-interpretations/)
+
+## 2026-04-17 09:41 UTC - refine-draft
+- **Status**: Success
+- **Task**: Update wikilinks after 2026-04-17 coalesce of boundary-void.md + projection-void.md → boundary-and-projection.md
+- **Files updated**: [minimal-consciousness-void](/voids/minimal-consciousness-void/), [binding-void](/voids/binding-void/), [voids](/voids/voids/), [limits-reveal-structure](/voids/limits-reveal-structure/), [plurality-void](/voids/plurality-void/), [death-void](/voids/death-void/), [self-opacity](/voids/self-opacity/), [other-minds-void](/voids/other-minds-void/), [indexical-void](/voids/indexical-void/)
+- **Changes**: Replaced `[boundary-void](/voids/boundary-and-projection/)` and `[projection-void](/voids/boundary-and-projection/)` wikilinks (in frontmatter, body, and Further Reading sections) with `[boundary-and-projection](/voids/boundary-and-projection/)`; revised adjacent prose so the descriptions reflect the unified void's dual scope (static perimeter + dynamic projection); de-duplicated related_articles entries where the rename collided with an existing `[projection-void](/voids/boundary-and-projection/)` link in self-opacity; bumped `ai_modified` on all nine files
+- **Scope**: topics/, concepts/, apex/ had zero references; voids/ covered. Research and archived review files intentionally left as-is per task notes
+- **Published**: yes
 
 ## 2026-04-17 09:26 UTC - condense
 - **Status**: Success

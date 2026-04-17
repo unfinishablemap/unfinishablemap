@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-17 11:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Dissociative disorders—DID, depersonalization, conversion, amnesi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 13:58:00+00:00
+last_deep_review: 2026-04-17 11:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,7 +29,6 @@ related_articles:
 - '[[pain-asymbolia]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
 - '[[altered-states-as-interface-evidence]]'
-- '[[split-brain-consciousness]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
 title: Clinical Dissociation as Systematic Evidence
@@ -127,9 +126,8 @@ Physicalists can explain this through stress-mediated changes in functional conn
 
 - [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) — Apex synthesis: five altered states converging on the same multi-channel interface architecture
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — How structural brain damage maps the same interface channels
-- [split-brain-consciousness](/topics/split-brain-consciousness/) — The broader fragmentation question and dualist responses
+- [split-brain-consciousness](/topics/split-brain-consciousness/) — The paradigm bilateral disconnection case and broader fragmentation question
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Pharmacological disruption of cortical integration and the interface model
-- [split-brain-consciousness](/topics/split-brain-consciousness/) — The paradigm bilateral disconnection case
 - [pain-asymbolia](/concepts/pain-asymbolia/) — Affective channel dissociation through neurological damage
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — The broader epistemic framework for clinical evidence in philosophy of mind
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — When contemplative practices produce interface disruption

@@ -1,8 +1,13 @@
 #!/usr/bin/env python3
 """Check all internal links on the local Hugo site for broken links."""
 
+import contextlib
+import socket
+import subprocess
 import sys
+import time
 from html.parser import HTMLParser
+from pathlib import Path
 from urllib.error import HTTPError, URLError
 from urllib.parse import urljoin, urlparse
 from urllib.request import urlopen
@@ -132,15 +137,66 @@ def find_hugo_server() -> str | None:
     return None
 
 
+def pick_free_port() -> int:
+    with socket.socket(socket.AF_INET, socket.SOCK_STREAM) as s:
+        s.bind(("127.0.0.1", 0))
+        return s.getsockname()[1]
+
+
+def wait_for_server(url: str, timeout: float = 60.0) -> bool:
+    deadline = time.monotonic() + timeout
+    while time.monotonic() < deadline:
+        try:
+            with urlopen(url, timeout=2) as response:
+                if response.status == 200:
+                    return True
+        except (HTTPError, URLError, TimeoutError, OSError):
+            time.sleep(0.5)
+    return False
+
+
+@contextlib.contextmanager
+def managed_hugo_server(hugo_dir: Path):
+    """Start a hugo server on an ephemeral port and ensure it is killed on exit."""
+    port = pick_free_port()
+    url = f"http://localhost:{port}/"
+    proc = subprocess.Popen(
+        ["hugo", "server", "--port", str(port), "--disableLiveReload", "--disableFastRender"],
+        cwd=hugo_dir,
+        stdout=subprocess.DEVNULL,
+        stderr=subprocess.DEVNULL,
+    )
+    try:
+        if not wait_for_server(url):
+            raise RuntimeError(f"Hugo server failed to become ready on {url}")
+        yield url
+    finally:
+        proc.terminate()
+        try:
+            proc.wait(timeout=10)
+        except subprocess.TimeoutExpired:
+            proc.kill()
+            proc.wait()
+
+
 def main() -> int:
     """Main entry point."""
-    start_url = find_hugo_server()
+    existing = find_hugo_server()
 
-    if not start_url:
-        print("Error: Cannot find Hugo server on common ports")
-        print("Make sure Hugo server is running: cd hugo && hugo server")
+    if existing:
+        return run_check(existing)
+
+    hugo_dir = Path(__file__).resolve().parents[4] / "hugo"
+    if not hugo_dir.exists():
+        print(f"Error: Hugo directory not found at {hugo_dir}")
         return 1
 
+    print("No Hugo server found; starting one for the check.")
+    with managed_hugo_server(hugo_dir) as url:
+        return run_check(url)
+
+
+def run_check(start_url: str) -> int:
     print(f"Checking links starting from {start_url}")
     print("-" * 50)
 

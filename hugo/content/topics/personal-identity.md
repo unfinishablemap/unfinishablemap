@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-06 18:21:00+00:00
+ai_modified: 2026-04-17 11:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: What makes you *you* across time? The Map emphasizes indexical iden
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 11:11:00+00:00
+last_deep_review: 2026-04-17 11:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -74,7 +74,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the Many-Worlds inte
 
 The [argument against many-worlds](/concepts/many-worlds/) develops this concern formally. When a quantum measurement occurs, many-worlds says you split into branches—one where you see spin-up, another spin-down. But you only experience one outcome. Which you? The many-worlds theorist dissolves the question: both branches are equally real, both contain persons derived from you, and there is no fact about which is "really" you.
 
-This dissolution is what the Map rejects. Before measurement, one you; after, many-worlds posits two equally real continuations. Yet you find yourself in exactly one. The experience of being *this* one rather than *that* one seems factual—but many-worlds says it's not. If identity fragments across infinite branches with no answer about which is "really" you, identity becomes incoherent.
+This dissolution is what the Map rejects. You find yourself in exactly one branch—being *this* one rather than *that* one seems factual, but many-worlds says it is not. If identity fragments across infinite branches with no fact about which is "really" you, identity becomes incoherent.
 
 On Parfit's view, there's nothing more to being *this* person than instantiating *this* pattern of psychological continuity. If the pattern is replicated, so is everything that matters. Many-worlds and Parfit converge here: both treat identity as pattern rather than particular.
 
@@ -138,7 +138,7 @@ This aligns with Parfit's conclusion but for different reasons. Parfit says iden
 
 [Split-brain patients](/topics/split-brain-consciousness/) provide empirical evidence. When the corpus callosum is severed, each hemisphere processes independently. Yet as Nagel (1971) observed, such cases present "too much unity" to count as two minds, yet "too much diversity" to count straightforwardly as one.
 
-This supports the Map's view: if consciousness were merely brain processes, complete disconnection should produce complete division. That some unity persists despite massive disconnection suggests consciousness has intrinsic unity physical disconnection cannot fully sever. Despite perceptual fragmentation, split-brain patients maintain first-person unity—suggesting indexical identity is more fundamental than the computational binding that physical connections enable.
+This supports the Map's view: if consciousness were merely brain processes, complete disconnection should produce complete division. That some unity persists despite massive disconnection suggests consciousness has intrinsic unity physical disconnection cannot fully sever. A 2025 PNAS study sharpens the point: as little as a centimetre of intact corpus callosum fibres can maintain full neural synchronisation between hemispheres (Miller et al. 2025), suggesting consciousness resists fragmentation even when physical connections are nearly severed. Despite perceptual fragmentation, split-brain patients maintain first-person unity—suggesting indexical identity is more fundamental than the computational binding that physical connections enable.
 
 ### The Dreamless Sleep Challenge
 
@@ -176,7 +176,7 @@ What does survival require? As discussed in [death-and-consciousness](/topics/de
 
 **Uploading**: An uploaded mind would not be you. Functional identity isn't consciousness identity.
 
-**Cognitive enhancement**: If the brain is interface rather than seat of mind, radical enhancement modifies the channel through which consciousness operates without altering the conscious subject itself—see [the ethics of cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/) for how dualism reshapes bioethical questions about identity under modification.
+**Cognitive enhancement**: If the brain interfaces with consciousness rather than producing it, radical enhancement modifies the channel without altering the subject—see [the ethics of cognitive enhancement](/topics/ethics-of-cognitive-enhancement-under-dualism/).
 
 **Bodily death**: If consciousness is irreducible and the brain is interface rather than generator, brain death might alter how consciousness manifests without ending *this* consciousness (see [death-and-consciousness](/topics/death-and-consciousness/)).
 
@@ -192,7 +192,7 @@ But if the Map is right—if *you* are this unrepeatable conscious being—then 
 
 ## What Would Challenge This View?
 
-The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) teleportation experiments where replicas report no experiential discontinuity; (4) contemplative reports of complete loss of particularity—not just loss of substantial selfhood, but loss of the sense of being *this* experiencer (existing accounts of meditative self-deconstruction, such as those documented in Albahari 2006, typically describe loss of ego-identification while a perspectival centre remains, but more radical cases would challenge this); (5) a complete neural explanation of unified experience that accounts for split-brain unity.
+The Map's account would be challenged by: (1) a successful illusionist explanation of why we *seem* to be particular subjects without actual particularity; (2) a decision-theoretic vindication of many-worlds deriving the Born rule without presupposing indexical identity; (3) teleportation experiments where replicas report no experiential discontinuity; (4) contemplative reports of complete loss of particularity—not just loss of substantial selfhood, but loss of the sense of being *this* experiencer (existing accounts—e.g., Albahari 2006—describe loss of ego-identification while a perspectival centre remains; more radical cases would challenge this); (5) a complete neural explanation of unified experience that accounts for split-brain unity.
 
 These challenges remain unmet, but articulating them clarifies what evidence would count against the view.
 
@@ -246,18 +246,4 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 1. Nagel, T. (1971). "Brain Bisection and the Unity of Consciousness." *Synthese*, 22(3-4), 396-413.
 1. Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 1. Stanford Encyclopedia of Philosophy: Personal Identity and Ethics. https://plato.stanford.edu/entries/identity-ethics/
-
-<!-- AI REFINEMENT LOG - 2026-04-06
-Changes made:
-- Fixed conceivability argument non-sequitur: added explicit bridging premise showing the argument opens logical space for haecceity rather than proving it directly; weakened conclusion accordingly
-- Fixed Buddhist/Vedantic conflation: process haecceitism now presented as the Map's own synthesis (drawing on Whitehead), not attributed to Buddhism; removed unsourced claim about Buddhist contemplatives
-- Dreamless sleep section rewritten: Vedantic and Buddhist perspectives now presented as distinct traditions with genuine disagreements, not "complementary insights"; Map's selective synthesis made explicit
-- Added citation for Nagel split-brain observation (1971 Synthese paper); corrected paraphrase
-- Added Albahari 2006 citation for contemplative reports of perspectival centre surviving ego-dissolution
-- Added Chalmers 1996 citation for zombie conceivability argument
-
-Based on pessimistic review findings (2026-04-06).
-Key improvements: argument rigour and proper attribution of Map-specific syntheses vs. source traditions.
-
-This log should be removed after human review.
--->
+1. Miller, M. et al. (2025). "Even minimal fiber connections can unify consciousness." *Proceedings of the National Academy of Sciences*.

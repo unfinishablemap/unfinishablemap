@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-20 04:33:46+00:00
+ai_modified: 2026-04-17 10:04:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ description: Survey of quantum interpretations and their consciousness implicati
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 06:43:00+00:00
+last_deep_review: 2026-04-17 10:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,6 +38,7 @@ related_articles:
 - '[[quantum-probability-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[interface-specification-programme]]'
+- '[[post-decoherence-selection-programme]]'
 title: Interpretations of Quantum Mechanics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -186,7 +187,7 @@ The deepest conflict: MWI provides no role for consciousness in physics. The [Bi
 
 ## Implications for the Map's Framework
 
-The interpretive landscape remains genuinely open—see [Quantum Interpretations Beyond Many-Worlds](/topics/qm-interpretations-beyond-many-worlds/) for detailed evaluation of each interpretation's compatibility with the Map's tenets. This gives the Map's position legitimate standing. The question is not whether physics rules out consciousness-participation (it doesn't) but which interpretation best explains both quantum phenomena and consciousness. The [reverse inference](/apex/what-consciousness-tells-us-about-physics/) develops this further: if consciousness genuinely selects among quantum possibilities, quantum mechanics is structurally partial—complete about possibilities, silent about actuality.
+The interpretive landscape remains genuinely open—see [Quantum Interpretations Beyond Many-Worlds](/topics/qm-interpretations-beyond-many-worlds/) for detailed evaluation of each interpretation's compatibility with the Map's tenets. The question is not whether physics rules out consciousness-participation (it doesn't) but which interpretation best explains both quantum phenomena and consciousness. The [reverse inference](/apex/what-consciousness-tells-us-about-physics/) develops this further: if consciousness genuinely selects among quantum possibilities, quantum mechanics is structurally partial—complete about possibilities, silent about actuality.
 
 Interpretations that eliminate consciousness (Bohmian mechanics, MWI) or treat it as purely epistemic (QBism) don't explain why consciousness exists. The Map's framework takes consciousness as explanatory target, not philosophical afterthought.
 
@@ -270,6 +271,7 @@ The choice of quantum interpretation bears directly on all five [tenets](/tenets
 - [the-reverse-inference](/topics/the-reverse-inference/) — The methodological move: using consciousness as secure datum to constrain physics
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — The reverse inference: what consciousness, taken as datum, reveals about the structure of physics
 - [interface-specification-programme](/apex/interface-specification-programme/) — How the Map specifies the mechanism of consciousness-physics interaction
+- [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/) — Why consciousness acting *after* decoherence sidesteps the timing-gap objection that has stalled quantum-consciousness theories
 
 ## References
 

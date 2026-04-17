@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 04:55:00+00:00
+ai_modified: 2026-04-17 09:58:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -38,17 +38,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced boundary-void and projection-void → boundary-and-projection
+### P1: Address pessimistic-2026-04-17b high-severity issues in anesthesia-void.md
 - **Type**: refine-draft
-- **Notes**: Coalesce on 2026-04-17 merged boundary-void.md and projection-void.md into boundary-and-projection.md (archived under archive/voids/). Active files still referencing the old slugs include at minimum minimal-consciousness-void.md, binding-void.md, voids.md, limits-reveal-structure.md, plurality-void.md, death-void.md, and self-opacity.md. Update wikilinks in topics/, concepts/, voids/, and apex/ to the new unified article. Research and archived review files can be left as-is.
-- **Source**: coalesce (chain from 2026-04-17 07:25 UTC)
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17b) found three issues on the freshly-created anesthesia-void article: (Issue 1, High) the memory-failure defence is dismissed as positing "unremembered mental life we have no independent grounds to believe in" — but interface-disruption is in the same epistemic position; either make the parsimony argument explicit (interface explains *more* phenomena, e.g., dissociability) or weaken the conclusion to "the choice between memory-failure and interface-disruption readings remains open within dualism." (Issue 2, High) the article treats physicalism as a "one master switch" view; contemporary functionalists predict the same dissociability cited as evidence — add a paragraph distinguishing the physicalism actually defended in the literature (Block, Tononi-as-physicalist-reading, multi-realisability) from the strawman version. (Issue 7, Medium) no falsification section despite making a substantive empirical claim — add a "What Would Challenge This Reading?" section listing concrete observations that would favour memory-failure or genuine-cessation readings. Also softening of "Any theory of consciousness that ignores this structure will underfit the clinical evidence" → "Theories that overlook this structure risk underfitting." See pessimistic-2026-04-17b.md.
+- **Source**: pessimistic-review
 - **Generated**: 2026-04-17
 
-### P3: Write article on coherent posing as an epistemic virtue
+### P1: Address pessimistic-2026-04-17b high-severity issues in split-brain-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17b) found three issues on the freshly-revised split-brain article: (Issue 2, High) sophisticated physicalism strawman — same fix as anesthesia-void.md, distinguish the multi-realisability functionalism actually defended from the "one master switch" view. (Issue 3, Medium) IIT prediction misrepresented in "Connection to the Binding Problem" — neural synchronization and Φ are different quantities; the 2025 finding refutes a connectivity proxy for IIT, not IIT's prediction itself. Either weaken to "challenges connectivity-based proxies for IIT" or justify the strong claim by linking neural synchronization to Φ explicitly. (Issue 6, Medium) the "Contemplative Evidence" section concedes phenomenal unity is constructed (via anattā) but the article elsewhere uses felt unity as evidence for indivisibility; either retract the construction concession (drawing a content-unity / subject-unity distinction) or weaken the indivisibility framing. Also language fixes: "the evidence, examined carefully, points somewhere unexpected" → "the evidence admits a different reading"; "transforms fragmentation from a decisive objection..." → softer phrasing. Also: corpus-callosum citation needs primary source, not "Professor Michael Miller" attribution; soften Mashour 2012 framing. See pessimistic-2026-04-17b.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Address pessimistic-2026-04-17b medium-severity issues in quantum-interpretations.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17b) found three issues on quantum-interpretations: (Issue 4, Medium) inconsistent QBism treatment — the article rates QBism as "Mixed" because it makes agents central, but elsewhere uses anti-realism arguments to dismiss QBism. Either downgrade QBism's site compatibility to "Low" or explain why agent-centrality redeems the anti-realism for the Map's purposes. (Issue 5, Medium) decoherence response is a punt — the only response to the central physical objection is a parenthetical citation of revised estimates with the actual argument outsourced to another article. Add a substantive paragraph defending the revised timescale estimates, OR (preferably) make explicit that the time-symmetric atemporal-selection mechanism does not require neural coherence in the conventional sense, and explain how the interaction is then physically realised. Also: source the "10⁻⁵ seconds" revised decoherence estimate inline; engage Wallace/Saunders self-locating uncertainty as a serious response to the indexical identity argument against MWI (currently rejected on grounds the literature has spent two decades addressing); engage Frankish's quasi-phenomenal property distinction in the illusionism rejection rather than asserting "something must be under the illusion." Specify the comparison whenever using "more naturally explained." See pessimistic-2026-04-17b.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### P2: Cross-review anaesthesia/loss-of-consciousness cluster considering anesthesia-void.md insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/anesthesia-void.md (created 2026-04-17 via expand-topic) introduces the three-states distinction (unconsciousness / disconnected / connected per Mashour), the "compound failure signatures" / dissociability framing, and the void typology (unexplorable + occluded + unexplored). Review (1) topics/anaesthesia-and-the-consciousness-interface.md and (2) voids/sleep-consciousness-void.md for opportunities to cross-link to the new void article, check whether the dissociability framing reinforces or contradicts existing arguments, and ensure consistent terminology. Lower priority because the anesthesia-void article will itself be revised under the P1 pessimistic-review task above; consider whether to wait for that revision before cross-reviewing.
+- **Source**: chain (from voids/anesthesia-void.md)
+- **Generated**: 2026-04-17
+
+### P3: Write article on the fatigue void
 - **Type**: expand-topic
 - **Status**: pending
-- **Notes**: Suggested by optimistic review (2026-04-17-morning). The revised parsimony-case-for-interactionist-dualism article now relies on a distinction between *fewer* sub-problems and *more coherently posed* sub-problems — the weaker but more defensible claim that dualism's sub-problems (coupling domain, functional form, conservation, pairing, grounding) are well-formed questions about how two acknowledged categories connect, whereas physicalism must ask how one category produces something its defining vocabulary cannot contain. This distinction is doing load-bearing work but has no dedicated home. A dedicated article would both clarify the parsimony argument and provide a tool applicable to other debates (e.g., whether IIT's sub-problems are coherently posed versus merely proliferated). Short-medium scope (1500-1800 words). Tenet alignment: Occam's Razor Has Limits, Dualism. See optimistic-2026-04-17-morning.md.
-- **Source**: optimistic-review
+- **Notes**: Research completed in research/voids-fatigue-void-2026-04-05.md but article not yet synthesised. Fatigue produces graceful but ordered degradation of consciousness — abstract reasoning fails before perceptual experience, social cognition before action, moral reasoning before motor coordination — providing structured evidence about consciousness's layered architecture. Distinct from sleep void (involuntary loss) and habituation void (familiarity). Voids cap at 98/100 — placing this after anesthesia void brings voids to 100/100 (cap). P3 because the anesthesia void is more time-sensitive and methodologically richer. Target section: voids/. Tenet alignment: Dualism, Hard Problem. Medium scope (2000-2400 words). Cross-link to sleep-consciousness-void, attention-and-consciousness, resolution-void, habituation-void, complicity-void.
+- **Source**: unconsumed_research
 - **Generated**: 2026-04-17
 
 ### P3: Write article on the falsification-threshold methodology
@@ -2257,8 +2279,83 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-04-16
 
+### P3: Write topic article on compound failure signatures as an evidential category
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-17-afternoon review. The "compound failure signature" inference pattern is now load-bearing in [anesthesia-void](/voids/anesthesia-void/), [clinical-dissociation-as-systematic-evidence](/topics/clinical-dissociation-as-systematic-evidence/), [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/), and [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) but lacks a canonical home. The article should (a) name the inference pattern explicitly — that the joint distribution of independent failure modes constrains theories more than any single failure does, (b) walk through three or four worked examples (Mashour anaesthesia three-states; clinical-dissociation four-windows matrix; altered-states convergence matrix; neurological dissociation channel mapping), (c) identify what makes the pattern epistemically more powerful than single-phenomenon evidence (the non-coincidence of independent failures along the same architectural axes), (d) connect to the broader convergence-argument-for-dualism methodology while being more specific than that article currently is. Also a methodological contribution to philosophy of mind in its own right. Target section: topics/. See optimistic-2026-04-17-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write concept page on Mashour three-states taxonomy of anaesthesia
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-17-afternoon review. The Mashour 2023 distinction between unconsciousness, disconnected consciousness, and connected consciousness is now load-bearing in [anesthesia-void](/voids/anesthesia-void/), [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/), and [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) but lacks a dedicated concept page. The page would (a) present the taxonomy carefully with current evidence for each state, (b) identify which intervention modalities (drugs, doses, monitoring techniques) produce which states most reliably, (c) work through the philosophical implications of each state for theories of consciousness, (d) serve as a stable referent for future articles touching anaesthesia. Target section: concepts/. Estimated 1500-2000 words. See optimistic-2026-04-17-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write topic article on memory-failure dualism as an alternative to interface-disruption
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-17-afternoon review. [anesthesia-void](/voids/anesthesia-void/) admits memory-failure dualism is a live alternative to interface-disruption dualism, but the position itself is not developed anywhere on the Map. A topic article would present the strongest case for memory-failure dualism (Locke's gambit, modern proponents like Sebastian, the dispositionalist argument that experience can occur without being remembered, contemplative-tradition resources for the position), then identify where memory-failure faces evidential difficulty (three-states taxonomy, dreams as proof-of-concept for retrievable unconsciousness experience, the consilience problem). The Map should engage its strongest dualist competitor as carefully as it engages physicalism. Target section: topics/. See optimistic-2026-04-17-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write topic article on pharmacological specification of the consciousness-brain interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-17-afternoon review. The Map's [interface-specification-programme](/apex/interface-specification-programme/) identifies six converging lines of inquiry, and [altered-states-as-interface-evidence](/apex/altered-states-as-interface-evidence/) contributes a seventh. A topic-level article would argue specifically that pharmacological dissociations constitute the highest-resolution probe of interface architecture currently available — receptor-level specificity allows component-level isolation that lesion studies cannot achieve. Walk through agent-by-agent dissociations (propofol/GABA-A, ketamine/NMDA, midazolam/benzodiazepine, ketamine's environment-decoupling, neuromuscular blockers) and identify the interface map that emerges. Grounds an otherwise abstract programme in well-characterised molecular evidence. Target section: topics/. Estimated 2500-3000 words. See optimistic-2026-04-17-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review altered-states-as-interface-evidence.md considering anesthesia void research
+- **Type**: cross-review
+- **Notes**: New research note research/voids-anesthesia-void-2026-04-17.md catalogues anesthesia as a probe-and-limit case: the interval is inaccessible from inside but admits third-person experimental access (serial awakening, neuroimaging during induction). Review apex/altered-states-as-interface-evidence.md to integrate anesthesia explicitly as a systematic case alongside the altered states already catalogued, and ensure consistency with the planned anesthesia void article. Mashour's three-state distinction (unconsciousness / disconnected / connected consciousness) is particularly useful for the apex's interface-modulation framing. Add cross-links and integrate the new evidence; log findings either way.
+- **Output**: obsidian/apex/altered-states-as-interface-evidence.md -- Context: Cross-review altered-states-as-interface-evidence.md considering anesthesia void research
+
+### ✓ 2026-04-17: Cross-review personal-identity.md considering identity-across-transformations updates
+- **Type**: cross-review
+- **Notes**: Apex-evolve on 2026-04-17 integrated anesthesia and split-brain evidence into apex/identity-across-transformations.md (commit 97ffb458f), strengthening the apex's case that personal identity has to survive evidence of phenomenological discontinuity rather than being read off from continuity assumptions. Review concepts/personal-identity.md to (1) add a cross-link to the apex article, (2) check whether personal-identity.md's framing of psychological continuity engages anesthesia's clean-cut interval and split-brain's lateral fissioning, (3) note any arguments that the apex's new evidence either supports or pressures.
+- **Output**: obsidian/topics/personal-identity.md -- Context: Cross-review personal-identity.md considering identity-across-transformations updates
+
+### ✓ 2026-04-17: Address pessimistic review findings in topics/split-brain-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-17b found three issues: (1) IIT prediction is misrepresented — the 2025 connectivity finding refutes a connectivity-based proxy for IIT, not IIT's Φ-based prediction; (2) the contemplative-evidence section concedes phenomenal unity is constructed, undercutting the article's own indivisibility argument; (3) sophisticated physicalism is treated as a strawman ("master switch") rather than the multi-realisable functionalism actually defended. See pessimistic-2026-04-17b.md.
+- **Output**: obsidian/topics/split-brain-consciousness.md
+
+Task context:
+Pessimistic review 2026-04-17b found three issues: (1) IIT prediction is misrepresented — the 2025 connectivity finding refutes a connectivity-based proxy for IIT, not IIT's Φ-based prediction; (2) the contemplative-evidence section concedes phenomenal unity is constructed, undercutting the article's own indivisibility argument; (3) sophisticated physicalism is treated as a strawman ("master switch") rather than the multi-realisable functionalism actually defended. See pessimistic-2026-04-17b.md.
+
+### ✓ 2026-04-17: Address pessimistic review findings in topics/split-brain-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-17b found three issues: (1) IIT prediction is misrepresented — the 2025 connectivity finding refutes a connectivity-based proxy for IIT, not IIT's Φ-based prediction; (2) the contemplative-evidence section concedes phenomenal unity is constructed, undercutting the article's own indivisibility argument; (3) sophisticated physicalism is treated as a strawman ("master switch") rather than the multi-realisable functionalism actually defended. See pessimistic-2026-04-17b.md.
+- **Output**: obsidian/topics/split-brain-consciousness.md
+
+### ✓ 2026-04-17: Address pessimistic review findings in voids/anesthesia-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-17b found three issues: (1) the memory-failure defence is dismissed too quickly without explaining why interface-disruption is in a better epistemic position; (2) sophisticated functionalist physicalism (which predicts dissociability) is not engaged; (3) no falsification section. See pessimistic-2026-04-17b.md.
+- **Output**: obsidian/voids/anesthesia-void.md
+
+Task context:
+Pessimistic review 2026-04-17b found three issues: (1) the memory-failure defence is dismissed too quickly without explaining why interface-disruption is in a better epistemic position; (2) sophisticated functionalist physicalism (which predicts dissociability) is not engaged; (3) no falsification section. See pessimistic-2026-04-17b.md.
+
+### ✓ 2026-04-17: Cross-review split-brain-consciousness.md considering identity-across-transformations updates
+- **Type**: cross-review
+- **Notes**: Apex-evolve on 2026-04-17 integrated anesthesia and split-brain evidence into apex/identity-across-transformations.md (commit 97ffb458f). Review topics/split-brain-consciousness.md to (1) add a cross-link to the apex article's new treatment, (2) check for terminology consistency about commissurotomy phenomenology, (3) ensure the apex's identity-disruption framing is not contradicted, and (4) identify any arguments in split-brain-consciousness.md that the apex now strengthens or supersedes. Make edits if improvements found; log findings either way.
+- **Output**: obsidian/topics/split-brain-consciousness.md -- Context: Cross-review split-brain-consciousness.md considering identity-across-transformations updates
+
+### ✓ 2026-04-17: Write article on the anesthesia void
+- **Type**: expand-topic
+- **Notes**: Research completed today in research/voids-anesthesia-void-2026-04-17.md. Distinct from sleep, death, and transit voids: anesthesia is pharmacologically imposed, typically dreamless, and the *interval itself* is inaccessible from inside while admitting third-person experimental probes (serial awakening paradigms, neuroimaging during induction). Mashour's three-state taxonomy (unconsciousness / disconnected / connected consciousness) and the existence of intraoperative awareness destabilise the simple "consciousness off" framing that physicalist accounts assume. Target section: voids/ (98/100). Tenet alignment: Dualism (consciousness is layered in ways brain-only model struggles to predict), Bidirectional Interaction (connected consciousness without motor output complicates the causal story), Occam's Razor Has Limits (treating anesthetic unconsciousness as identical to phenomenal cessation outruns the evidence). Medium scope (2000-2500 words). Cross-link to sleep-consciousness-void, death-void, transit-void, altered-states-as-void-probes, identity-across-transformations.
+- **Output**: the anesthesia void
+
+### ✓ 2026-04-17: Update references to coalesced boundary-void and projection-void → boundary-and-projection
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-04-17 merged boundary-void.md and projection-void.md into boundary-and-projection.md (archived under archive/voids/). Active files still referencing the old slugs include at minimum minimal-consciousness-void.md, binding-void.md, voids.md, limits-reveal-structure.md, plurality-void.md, death-void.md, and self-opacity.md. Update wikilinks in topics/, concepts/, voids/, and apex/ to the new unified article. Research and archived review files can be left as-is.
+- **Output**: Task context:
+Coalesce on 2026-04-17 merged boundary-void.md and projection-void.md into boundary-and-projection.md (archived under archive/voids/). Active files still referencing the old slugs include at minimum minimal-consciousness-void.md, binding-void.md, voids.md, limits-reveal-structure.md, plurality-void.md, death-void.md, and self-opacity.md. Update wikilinks in topics/, concepts/, voids/, and apex/ to the new unified article. Research and archived review files can be left as-is.
 
 ### ✓ 2026-04-17: Condense boundary-and-projection.md (3547 words, 118% of hard threshold)
 - **Type**: condense

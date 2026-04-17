@@ -24,11 +24,9 @@ python .claude/skills/check-links/scripts/check_links.py
 
 ## Prerequisites
 
-The Hugo development server must be running:
-
-```bash
-cd hugo && hugo server
-```
+None. The script reuses an existing Hugo dev server if one is listening on a
+common port; otherwise it launches its own on an ephemeral port and kills it
+when the check completes. Do not start a server yourself before running this.
 
 ## Output
 
