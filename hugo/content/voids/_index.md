@@ -102,7 +102,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
 - [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
 - [The Binding Void](/voids/binding-void/) — Why unified experience from disparate sensations resists explanation
-- [The Boundary Void](/voids/boundary-void/) — Why consciousness cannot determine its own spatial and functional limits
+- [The Boundary Void](/voids/boundary-and-projection/) — Why consciousness cannot determine its own spatial and functional limits
 - [The Measurement Void](/voids/observation-and-measurement-void/) — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Why embedded observers cannot determine whether their reality is simulated
 - [The Acquaintance Void](/voids/acquaintance-void/) — Modes of direct phenomenal contact structurally inaccessible to minds like ours

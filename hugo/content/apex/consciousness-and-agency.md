@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-04-07 12:53:00+00:00
+ai_modified: 2026-04-17 07:15:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-29 17:27:00+00:00
 apex_sources:
@@ -29,7 +29,7 @@ description: How does consciousness author action in a physical world? Through a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-06 04:55:00+00:00
+last_deep_review: 2026-04-17 07:15:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ This follows from two tenets. [Minimal quantum interaction](/tenets/#minimal-qua
 
 A genuine difficulty arises here: selecting among complex neural firing patterns requires influencing *macroscopic* brain states, not individual quantum events. How does minimal quantum bias produce macroscopic neural selection? The proposed answer involves amplification—small quantum biases cascading through sensitive neural dynamics into large-scale pattern selection, much as tiny perturbations in chaotic systems produce dramatically different trajectories. The [mental causation](/concepts/mental-causation-and-downward-causation/) article discusses coupling mechanisms in more detail. Whether this amplification is physically realistic remains an open empirical question—one the framework must ultimately answer rather than simply acknowledge.
 
-Most cognition is therefore *nonconscious scaffolding*—creative generation, consequence evaluation, motor preparation are brain processes. The "action channel" through which consciousness influences the world has limited bandwidth. The [attentional economics](/concepts/attentional-economics/) framework captures this: agency operates through the ongoing allocation of a finite attentional resource, making freedom scale with attentional skill. [Skill delegation](/concepts/skill-delegation/) demonstrates this selective engagement: consciousness trains procedural systems during learning, withdraws from routine execution, and re-engages when novel decisions are needed—a three-phase pattern where the "choking under pressure" phenomenon proves consciousness isn't epiphenomenal, since attention's re-engagement with automatised skills degrades performance.
+Most cognition is therefore *nonconscious scaffolding*—creative generation, consequence evaluation, motor preparation are brain processes. The "action channel" through which consciousness influences the world has limited bandwidth. The [attentional economics](/concepts/attentional-economics/) framework captures this: agency operates through the ongoing allocation of a finite attentional resource, making freedom scale with attentional skill. [Skill delegation](/concepts/skill-delegation/) demonstrates this selective engagement: consciousness trains procedural systems during learning, withdraws from routine execution, and re-engages when novel decisions are needed—a three-phase pattern where the "choking under pressure" phenomenon tells against epiphenomenalism, since attention's re-engagement with automatised skills degrades performance.
 
 Yet the selector model requires a caveat. As [recent work on creative generation](/concepts/agent-causation/) argues, consciousness doesn't merely select from a fixed menu—it also *generates* options through imaginative exploration. Each movement of attention opens further possibilities that didn't exist before the exploration. The agent contributes both which options become actual and which options exist. This generation-selection interplay strengthens the authorship claim: the agent explains the outcome more fully when they also constituted the options available.
 

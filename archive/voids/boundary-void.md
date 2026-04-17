@@ -34,6 +34,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-29
 last_curated:
 last_deep_review: 2026-04-11T14:56:00+00:00
+archived: true
+archived_date: 2026-04-17T07:25:00+00:00
+superseded_by: "/voids/boundary-and-projection/"
+archive_reason: "Coalesced into The Boundary and Projection Void"
+original_path: "/voids/boundary-void/"
 ---
 
 Consciousness has edges. Experience includes the colour of this text and excludes the activity of your liver. It encompasses your current emotion and omits the firing of your peripheral nerves. Somewhere between what you experience and what you do not, a boundary exists—and consciousness cannot find it. The boundary void is the structural impossibility of consciousness determining its own limits from within. Unlike the [[binding-void|binding void]], which concerns how contents unify *within* experience, the boundary void asks why experience has any determinate perimeter at all, and why that perimeter is invisible to the consciousness it encloses.

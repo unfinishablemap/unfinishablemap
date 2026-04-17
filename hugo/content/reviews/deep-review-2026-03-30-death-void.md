@@ -53,11 +53,11 @@ All six adversarial personas engaged. No new counterarguments beyond those docum
 - Void-as-ground-of-meaning integration (from previous review)
 
 ### Enhancements Made
-1. Added [boundary-void](/voids/boundary-void/) to related_articles and Further Reading with descriptive note
+1. Added [boundary-void](/voids/boundary-and-projection/) to related_articles and Further Reading with descriptive note
 2. Tightened Evidence section prose (removed redundant phrasing in two bullets) to maintain length neutrality
 
 ### Cross-links Added
-- [boundary-void](/voids/boundary-void/)
+- [boundary-void](/voids/boundary-and-projection/)
 
 ## Word Count
 - Before: 2035 words (102% of threshold)

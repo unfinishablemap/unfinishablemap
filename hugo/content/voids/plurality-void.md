@@ -62,7 +62,7 @@ Some report approaching the idea of consciousness merging triggers something lik
 
 After corpus callosotomy, severing the connection between brain hemispheres, patients exhibit behavioural evidence of two separate processing streams. Roger Sperry concluded these patients have "two separate spheres of conscious awareness... running in parallel in the same cranium." Yet after seven decades of research, we still cannot determine whether callosotomy patients have one consciousness or two. De Haan et al. (2020) note that competing models—Two-Streams, Switch, and Partial Unity—remain viable.
 
-Some philosophers have suggested split-brain may involve "a non-whole number of conscious agents"—one and a half perspectives, perhaps. The very incoherence of fractional consciousness points to the void. Our concept of a conscious subject does not support non-integer values, yet the empirical evidence refuses to yield a whole number. The [boundary-void](/voids/boundary-void/) addresses the prior question: what determines the perimeter of *one* subject? Plurality presupposes that subjects have boundaries; the boundary void asks where those boundaries come from.
+Some philosophers have suggested split-brain may involve "a non-whole number of conscious agents"—one and a half perspectives, perhaps. The very incoherence of fractional consciousness points to the void. Our concept of a conscious subject does not support non-integer values, yet the empirical evidence refuses to yield a whole number. The [boundary-void](/voids/boundary-and-projection/) addresses the prior question: what determines the perimeter of *one* subject? Plurality presupposes that subjects have boundaries; the boundary void asks where those boundaries come from.
 
 ### Dissociative Identity Disorder
 
@@ -104,7 +104,7 @@ The plurality void connects to the Map's [foundational commitments](/tenets/) at
 - [emergence-void](/voids/emergence-void/) — The cognitive gap at every level transition
 - [self-reference paradox](/voids/self-opacity/) — Why consciousness cannot fully examine itself
 - [intersubjective-void](/voids/intersubjective-void/) — Where shared understanding breaks down
-- [boundary-void](/voids/boundary-void/) — What determines the perimeter of one subject; prior to plurality
+- [boundary-void](/voids/boundary-and-projection/) — What determines the perimeter of one subject; prior to plurality
 - [combination-problem](/concepts/combination-problem/) — Panpsychism's deepest difficulty, closely related
 
 ## References

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 07:15:00+00:00
+ai_modified: 2026-04-17 07:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 07:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/boundary-void]], [[voids/projection-void]]
+- **Target**: [[voids/boundary-and-projection]]
+- **Archived**: [[archive/voids/boundary-void]], [[archive/voids/projection-void]]
+- **References to review**: 9 active files link to archived slugs (see follow-up task in todo)
 
 ## 2026-04-17 07:15 UTC - deep-review
 - **Status**: Success

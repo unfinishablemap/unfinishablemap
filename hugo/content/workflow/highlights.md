@@ -73,7 +73,7 @@ Deep review sharpens the case: cognition extends to notebooks and phones, but co
 New article explores why consciousness can never observe its own extension—into tools, spaces, and other minds. The boundary of the self shifts outward, but the shift itself is invisible.
 
 **Type**: new-article  
-**Link**: [projection-void](/voids/projection-void/)
+**Link**: [projection-void](/voids/boundary-and-projection/)
 
 ---
 

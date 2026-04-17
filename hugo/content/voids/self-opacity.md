@@ -123,7 +123,7 @@ Some errors resist recognition through active defence. Self-deception creates pr
 
 Most treatments frame self-opacity as a *limitation*. The Map proposes a stronger reading: the opacity is *constitutive*. The subject-object asymmetry is not a bug in conscious architecture but its enabling condition.
 
-Full self-observation would require the subject to become an object to itself while simultaneously remaining the subject doing the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The void is load-bearing—remove it and the structure falls. The [projection-void](/voids/projection-void/) discovers the same pattern in consciousness's outward reach: tool extension, spatial boundary shifts, and empathic contact all require the projective mechanism to be hidden from the consciousness using it.
+Full self-observation would require the subject to become an object to itself while simultaneously remaining the subject doing the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The void is load-bearing—remove it and the structure falls. The [projection-void](/voids/boundary-and-projection/) discovers the same pattern in consciousness's outward reach: tool extension, spatial boundary shifts, and empathic contact all require the projective mechanism to be hidden from the consciousness using it.
 
 This explains the convergence across frameworks. Empiricists, phenomenologists, transcendental idealists, and neuroscientists discover the limit independently because it is a feature of what they study, not an artifact of method. The [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) framework generalises this pattern: cognitive limits are preconditions for meaning, not merely obstacles. A mind with perfect self-transparency would have no perspective, no orientation, no "what it is like." It would contain all information about itself without *being* anyone to whom that information matters.
 
@@ -160,7 +160,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/imagination-and-creativity-void/) — Parallel opacity: creative process hidden, product accessible
-- [The Projection Void](/voids/projection-void/) — Why consciousness cannot observe its own extension into tools, space, and other minds
+- [The Projection Void](/voids/boundary-and-projection/) — Why consciousness cannot observe its own extension into tools, space, and other minds
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case
 - [The Ownership Void](/voids/ownership-void/) — Why experiences feel mine

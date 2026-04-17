@@ -28,7 +28,7 @@ topics: []
 None.
 
 ### Medium Issues Found
-1. **Duplicate in related_articles**: `[observation-and-measurement-void](/voids/observation-and-measurement-void/)` appeared twice. Resolution: replaced second instance with `[projection-void](/voids/projection-void/)`.
+1. **Duplicate in related_articles**: `[observation-and-measurement-void](/voids/observation-and-measurement-void/)` appeared twice. Resolution: replaced second instance with `[projection-void](/voids/boundary-and-projection/)`.
 2. **Duplicate in Further Reading**: observation-and-measurement-void linked twice (as "The Observation Void" and "The Calibration Void"). Resolution: replaced duplicate with projection-void entry.
 3. **Missing reciprocal cross-link to projection-void**: Projection-void develops Metzinger's phenomenal transparency and the "constitutive opacity" principle for tool extension—directly paralleling self-opacity's constitutive thesis. Projection-void already links to self-opacity but not vice versa. Resolution: added cross-link in constitutive thesis section and updated related_articles and Further Reading.
 
@@ -58,7 +58,7 @@ No new counterarguments beyond those noted in previous reviews. All bedrock disa
 - Minor prose tightening for length neutrality
 
 ### Cross-links Added
-- [projection-void](/voids/projection-void/) (related_articles, Further Reading, and body text cross-reference in constitutive thesis section)
+- [projection-void](/voids/boundary-and-projection/) (related_articles, Further Reading, and body text cross-reference in constitutive thesis section)
 
 ## Word Count
 - Before: 2733 words (137% of 2000 soft threshold)

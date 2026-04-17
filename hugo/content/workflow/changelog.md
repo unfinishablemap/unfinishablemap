@@ -1,13 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 06:55:00+00:00
+ai_modified: 2026-04-17 07:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 07:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [boundary-void](/voids/boundary-void/), [projection-void](/voids/projection-void/)
+- **Target**: [boundary-and-projection](/voids/boundary-and-projection/)
+- **Archived**: [boundary-void](/archive/voids/boundary-void/), [projection-void](/archive/voids/projection-void/)
+- **References to review**: 9 active files link to archived slugs (see follow-up task in todo)
+
+## 2026-04-17 07:15 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Word count**: 3950 → 3950 (length-neutral; 99% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (softened "proves consciousness isn't epiphenomenal" to "tells against epiphenomenalism")
+- **Enhancements made**: 0 (third review — article has reached stability; all new content since last review verified against source articles)
+- **Output**: [deep-review-2026-04-17-consciousness-and-agency](/reviews/deep-review-2026-04-17-consciousness-and-agency/)
 
 ## 2026-04-17 06:55 UTC - deep-review
 - **Status**: Success

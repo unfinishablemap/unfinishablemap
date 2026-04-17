@@ -45,7 +45,7 @@ topics: []
 3. [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — Added inline link in "Embodied Cognition Reshapes" section, connecting the parity principle's failure at phenomenal experience
 4. [phenomenal-consciousness](/concepts/phenomenal-consciousness/) — Added inline link in "Access/Phenomenal Distinction" section, noting how the A/P distinction plays out in extended cognition
 5. [filter-theory](/concepts/filter-theory/) — Added to Further Reading with description of filter theory applied to extended cognition
-6. [projection-void](/voids/projection-void/) — Added inline link in "Tool Projection" section, connecting the cane user's phenomenal experience to the consciousness extension gap, plus Further Reading entry
+6. [projection-void](/voids/boundary-and-projection/) — Added inline link in "Tool Projection" section, connecting the cane user's phenomenal experience to the consciousness extension gap, plus Further Reading entry
 
 ## Remaining Items
 

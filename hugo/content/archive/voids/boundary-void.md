@@ -3,6 +3,9 @@ ai_contribution: 100
 ai_generated_date: 2026-03-29
 ai_modified: 2026-04-11 14:56:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into The Boundary and Projection Void
+archived: true
+archived_date: 2026-04-17 07:25:00+00:00
 author: null
 concepts:
 - '[[binding-problem]]'
@@ -19,6 +22,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-04-11 14:56:00+00:00
 modified: *id001
+original_path: /voids/boundary-void/
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
@@ -32,6 +36,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[limits-reveal-structure]]'
 - '[[phenomenology-of-the-edge]]'
+superseded_by: /voids/boundary-and-projection/
 title: The Boundary Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -62,7 +67,7 @@ Consciousness can notice *contents* appearing and disappearing—a sound enters 
 
 Meditators report dissolution of the self-other boundary—the felt perimeter of consciousness expanding or disappearing entirely. Ataria et al. (2021) documented six experiential features that change during dissolution: location, agency, first-person perspective, attention, body sensations, and affective valence. "Letting go" reduces the sense of agency and drives the depth of dissolution. At its extreme, "the boundary between self and world gradually dissolves, eventually leading to a complete disappearance."
 
-These reports are philosophically explosive. If the boundary can dissolve, it is not a fixed feature of consciousness but something actively maintained—or maintained *for* it. Independent evidence supports this: during skilled tool use, the felt boundary of consciousness extends to incorporate the tool, and peripersonal space research shows the brain dynamically remapping its self-boundary in response to multisensory cues (see [projection-void](/voids/projection-void/)). The boundary, when present, is invisible; only its removal or shift generates experiential data. The return to bounded consciousness feels like contraction, re-imposition—which suggests the boundary may be experienced as a constraint even when it cannot be experienced as a boundary.
+These reports are philosophically explosive. If the boundary can dissolve, it is not a fixed feature of consciousness but something actively maintained—or maintained *for* it. Independent evidence supports this: during skilled tool use, the felt boundary of consciousness extends to incorporate the tool, and peripersonal space research shows the brain dynamically remapping its self-boundary in response to multisensory cues (see [projection-void](/voids/boundary-and-projection/)). The boundary, when present, is invisible; only its removal or shift generates experiential data. The return to bounded consciousness feels like contraction, re-imposition—which suggests the boundary may be experienced as a constraint even when it cannot be experienced as a boundary.
 
 Split-brain research provides a different kind of evidence. Roger Sperry described "two separate spheres of conscious awareness... each with its own sensations, cognitive processes, learning processes, memories" after corpus callosum severance. Yet Pinto et al. (2017) found "split perception but undivided consciousness." After six decades, neuroscience still cannot determine whether split-brain patients harbour one consciousness or two. This ambiguity is not a technical limitation. It reflects the impossibility of counting consciousnesses from the outside—and the impossibility of the patient counting from the inside, since each perspective is enclosed within its own boundary.
 
@@ -76,7 +81,7 @@ The boundary void occupies a precise position relative to neighbouring voids.
 
 **Not the [indexical-void](/voids/indexical-void/).** The indexical void concerns why I am *this* particular consciousness. The boundary void concerns what makes *this* consciousness a determinate entity at all. Indexicality presupposes individuation; the boundary void questions the ground of that individuation.
 
-**Not the [projection-void](/voids/projection-void/).** The projection void concerns the *dynamic shifting* of consciousness's boundary during tool use, spatial extension, and empathy—and the invisibility of that shifting mechanism. The boundary void is prior: it asks why consciousness has any determinate perimeter at all, not how that perimeter moves.
+**Not the [projection-void](/voids/boundary-and-projection/).** The projection void concerns the *dynamic shifting* of consciousness's boundary during tool use, spatial extension, and empathy—and the invisibility of that shifting mechanism. The boundary void is prior: it asks why consciousness has any determinate perimeter at all, not how that perimeter moves.
 
 **Not the [minimal-consciousness-void](/voids/minimal-consciousness-void/).** The minimal consciousness void asks about the lower bound of consciousness's *intensity*—how dim can experience get before it vanishes? The boundary void asks about the *spatial and functional extent* of consciousness at whatever intensity.
 
@@ -122,7 +127,7 @@ The boundary void connects to the Map's [tenets](/tenets/) with unusual directne
 - [binding-void](/voids/binding-void/) — The adjacent void concerning unity *within* experience
 - [plurality-void](/voids/plurality-void/) — Why we cannot conceive being multiple subjects
 - [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
-- [projection-void](/voids/projection-void/) — Why consciousness cannot observe its own boundary shifts
+- [projection-void](/voids/boundary-and-projection/) — Why consciousness cannot observe its own boundary shifts
 - [self-opacity](/voids/self-opacity/) — Why consciousness cannot verify its own accuracy
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — The void at consciousness's lower intensity bound
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded

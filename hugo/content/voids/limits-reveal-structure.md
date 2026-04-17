@@ -93,7 +93,7 @@ Approaching cognitive limits has a distinctive phenomenology (see [phenomenology
 
 **The dissolving insight.** Grasping that limits reveal structure is itself unstable—the insight tends to slip away when examined directly. [Thoughts that slip away](/voids/thoughts-that-slip-away/) may include thoughts *about* thinking's boundaries.
 
-**Recognition without comprehension.** We can *recognise* that certain thoughts are unthinkable without *comprehending* what those thoughts would be. The gap is visible even if its contents aren't. The [boundary-void](/voids/boundary-void/) provides a concrete case: consciousness cannot determine where experience ends and non-experience begins, yet this very failure reveals that experience has a determinate perimeter set by architecture rather than choice.
+**Recognition without comprehension.** We can *recognise* that certain thoughts are unthinkable without *comprehending* what those thoughts would be. The gap is visible even if its contents aren't. The [boundary-void](/voids/boundary-and-projection/) provides a concrete case: consciousness cannot determine where experience ends and non-experience begins, yet this very failure reveals that experience has a determinate perimeter set by architecture rather than choice.
 
 **Vertigo.** Contemplating that cognitive architecture both enables and constrains creates recursive discomfort—the tool examining its own limitations, the map trying to map the mapper.
 
@@ -154,7 +154,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards
 - [Thoughts That Slip Away](/voids/thoughts-that-slip-away/) — Phenomenology of cognitive slippage
-- [The Boundary Void](/voids/boundary-void/) — Consciousness cannot determine its own boundaries, yet this failure reveals architectural structure
+- [The Boundary Void](/voids/boundary-and-projection/) — Consciousness cannot determine its own boundaries, yet this failure reveals architectural structure
 - [The Habituation Void](/voids/disappearance-voids/) — How familiarity-limits reveal novelty-orientation in consciousness
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?

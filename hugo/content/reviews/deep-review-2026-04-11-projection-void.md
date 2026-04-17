@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-11
-**Article**: [The Projection Void](/voids/projection-void/)
+**Article**: [The Projection Void](/voids/boundary-and-projection/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

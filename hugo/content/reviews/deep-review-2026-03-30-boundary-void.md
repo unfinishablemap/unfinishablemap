@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-30
-**Article**: [The Boundary Void](/voids/boundary-void/)
+**Article**: [The Boundary Void](/voids/boundary-and-projection/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

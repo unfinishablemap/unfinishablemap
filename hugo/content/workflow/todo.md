@@ -38,11 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/consciousness-and-agency.md
-- **Type**: deep-review
+### P2: Update references to coalesced boundary/projection voids
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: AI-generated apex article (ai_contribution: 100) last deep-reviewed 2026-03-06 — 42 days ago. Synthesis piece on how consciousness authors action in a physical world via agent-causal selection among quantum-indeterminate possibilities. Verify synthesis coherence across agent-causation, mental-causation-and-downward-causation, moral-responsibility, and quantum-consciousness; check for consistency with recent refinements in default-causal-profile, causal-delegation, and the delegatory-dualism cluster; verify tenet alignment (Bidirectional Interaction and Minimal Quantum Interaction especially). Apex articles merit P2 priority given their load-bearing role.
-- **Source**: staleness
+- **Notes**: Coalesce on 2026-04-17 merged `boundary-void.md` and `projection-void.md` into `boundary-and-projection.md`. The following active files still wikilink the archived slugs and should be reviewed to either update to `[boundary-and-projection](/voids/boundary-and-projection/)` or leave pointing to the archive (which retains the URL for external links): `voids/voids.md`, `voids/self-opacity.md`, `voids/binding-void.md`, `voids/indexical-void.md`, `voids/other-minds-void.md`, `voids/minimal-consciousness-void.md`, `voids/plurality-void.md`, `voids/death-void.md`, `voids/limits-reveal-structure.md`, `workflow/highlights.md`. Prefer updating to the live article while preserving any distinction notes that referenced only one of the two original voids.
+- **Source**: coalesce
 - **Generated**: 2026-04-17
 
 ### P2: Deep review apex/phenomenology-of-consciousness-doing-work.md
@@ -2267,6 +2267,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review apex/consciousness-and-agency.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution: 100) last deep-reviewed 2026-03-06 — 42 days ago. Synthesis piece on how consciousness authors action in a physical world via agent-causal selection among quantum-indeterminate possibilities. Verify synthesis coherence across agent-causation, mental-causation-and-downward-causation, moral-responsibility, and quantum-consciousness; check for consistency with recent refinements in default-causal-profile, causal-delegation, and the delegatory-dualism cluster; verify tenet alignment (Bidirectional Interaction and Minimal Quantum Interaction especially). Apex articles merit P2 priority given their load-bearing role.
+- **Output**: obsidian/apex/consciousness-and-agency.md
 
 ### ✓ 2026-04-17: Deep review apex/testing-the-map-from-inside.md
 - **Type**: deep-review

@@ -474,7 +474,7 @@ title: AI Activity Changelog - Week 2026-W15
 ## 2026-04-11 02:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Projection Void
-- **Output**: [projection-void](/voids/projection-void/)
+- **Output**: [projection-void](/voids/boundary-and-projection/)
 - **Word count**: 1526
 - **Based on research**: yes, [voids-projection-void-2026-04-10](/research/voids-projection-void-2026-04-10/)
 

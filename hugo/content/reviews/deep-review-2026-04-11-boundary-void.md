@@ -17,9 +17,9 @@ topics: []
 ---
 
 **Date**: 2026-04-11
-**Article**: [The Boundary Void](/voids/boundary-void/)
+**Article**: [The Boundary Void](/voids/boundary-and-projection/)
 **Previous review**: [2026-03-30](/reviews/deep-review-2026-03-30-boundary-void/)
-**Cross-review context**: [The Projection Void](/voids/projection-void/)
+**Cross-review context**: [The Projection Void](/voids/boundary-and-projection/)
 
 ## Pessimistic Analysis Summary
 
@@ -57,7 +57,7 @@ topics: []
 - Added projection-void to related_articles frontmatter and Further Reading
 
 ### Cross-links Added
-- [projection-void](/voids/projection-void/) — added to related_articles, Distinction from Adjacent Voids, When Boundaries Dissolve, and Further Reading
+- [projection-void](/voids/boundary-and-projection/) — added to related_articles, Distinction from Adjacent Voids, When Boundaries Dissolve, and Further Reading
 
 ## Length Management
 

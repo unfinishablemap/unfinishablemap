@@ -26,7 +26,7 @@ topics: []
 None. Article remains at high stability after six previous reviews.
 
 ### Medium Issues Found
-- **Missing reciprocal cross-link to boundary-void**: The new article [boundary-void](/voids/boundary-void/) (created 2026-03-29) directly instantiates the limits-reveal-structure thesis — consciousness cannot determine its own boundaries, and this failure reveals architectural structure. It linked back here but the link was not reciprocated.
+- **Missing reciprocal cross-link to boundary-void**: The new article [boundary-void](/voids/boundary-and-projection/) (created 2026-03-29) directly instantiates the limits-reveal-structure thesis — consciousness cannot determine its own boundaries, and this failure reveals architectural structure. It linked back here but the link was not reciprocated.
   - **Resolution**: Added to related_articles, body text (Phenomenology of the Edge section), and Further Reading.
 
 ### Low Issues Found
@@ -67,7 +67,7 @@ All citations verified and accurate:
 - **Opening paragraph accuracy**: Replaced "evolutionary epistemology" with "Wittgenstein" to match article content
 
 ### Cross-links Added
-- [boundary-void](/voids/boundary-void/) in related_articles, body, and Further Reading
+- [boundary-void](/voids/boundary-and-projection/) in related_articles, body, and Further Reading
 
 ## Word Count
 
