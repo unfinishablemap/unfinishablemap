@@ -51,6 +51,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from voids/metaphor-void.md)
 - **Generated**: 2026-04-16
 
+### P3: Write apex article on the Biranian thread (resistance as origin of self-consciousness)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17). Maine de Biran's claim that self-consciousness arises from the encounter between volitional effort and resistance is now load-bearing in at least three articles ([[phenomenology-of-resistance-across-domains]], [[phenomenology-of-agency-vs-passivity]], [[interface-friction]]) but has no canonical home on the Map. A dedicated topic article would (a) present Biran's argument carefully (he is poorly known in Anglophone philosophy), (b) trace the thread through Dilthey, Husserl, and Merleau-Ponty, (c) extend it explicitly to the cross-domain resistance pattern the Map has identified, and (d) develop the philosophical consequence: if the self-world distinction is constituted *through* resistance rather than *prior to* it, several materialist arguments lose their starting point. The unified cross-domain extension of Biran is not in the existing literature — opportunity for genuinely original philosophical work. Long scope (2500-3000 words). Tenet alignment: Bidirectional Interaction, Dualism. See optimistic-2026-04-17.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write article on framework inhabitation as evidence against AI functional-equivalence claims
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17). The conceptual frameworks article makes a structural argument — two Bayesian systems with identical priors could restructure evidence identically yet differ in whether there is something it is like to hold those priors — that is currently buried in a longer piece. Pulling it out as a focused argument applied to claims that LLMs can inhabit conceptual frameworks "functionally" would consolidate the Map's case against functional-equivalence claims about AI consciousness. Structurally distinct from the standard hard-problem argument because it operates at the level of *epistemic* phenomenology (felt rightness, gravitational pull, anomaly-unease) rather than perceptual phenomenology. Medium scope (1800-2200 words). Tenet alignment: Dualism, Bidirectional Interaction. See optimistic-2026-04-17.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
 ### P3: Write article on the methodology of hedge calibration
 - **Type**: expand-topic
 - **Status**: pending
