@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address gaps in brain-interface-boundary.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-17) Issues 4 (Medium-High), 5, and 6. (4) Criterion 5 (developmental history) looks ad hoc — it exists primarily to disqualify BCIs and artificial systems that would otherwise satisfy criteria 1–4; either drop it or defend it on grounds independent of ruling out adversarial cases. (5) PEAR null PK results are offered as "supporting" interface locality but the framework was constructed knowing PK is null, so this is post-hoc accommodation; reframe as "consistent with" and specify a falsification threshold. (6) Wiest et al. 2024 microtubule-anaesthetic result is overinterpreted — compatible with many non-quantum mechanisms (membrane dynamics, vesicle trafficking); reframe without the quantum-mechanism implication. See pessimistic-2026-04-17.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-17
-
 ### P2: Condense formal-cognitive-limits.md (3203 words, 160% of target)
 - **Type**: condense
 - **Status**: pending
@@ -2287,6 +2280,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address gaps in brain-interface-boundary.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17) Issues 4 (Medium-High), 5, and 6. (4) Criterion 5 (developmental history) looks ad hoc — it exists primarily to disqualify BCIs and artificial systems that would otherwise satisfy criteria 1–4; either drop it or defend it on grounds independent of ruling out adversarial cases. (5) PEAR null PK results are offered as "supporting" interface locality but the framework was constructed knowing PK is null, so this is post-hoc accommodation; reframe as "consistent with" and specify a falsification threshold. (6) Wiest et al. 2024 microtubule-anaesthetic result is overinterpreted — compatible with many non-quantum mechanisms (membrane dynamics, vesicle trafficking); reframe without the quantum-mechanism implication. See pessimistic-2026-04-17.md.
+- **Output**: obsidian/concepts/brain-interface-boundary.md
+
+Task context:
+Pessimistic review (2026-04-17) Issues 4 (Medium-High), 5, and 6. (4) Criterion 5 (developmental history) looks ad hoc — it exists primarily to disqualify BCIs and artificial systems that would otherwise satisfy criteria 1–4; either drop it or defend it on grounds independent of ruling out adversarial cases. (5) PEAR null PK results are offered as "supporting" interface locality but the framework was constructed knowing PK is null, so this is post-hoc accommodation; reframe as "consistent with" and specify a falsification threshold. (6) Wiest et al. 2024 microtubule-anaesthetic result is overinterpreted — compatible with many non-quantum mechanisms (membrane dynamics, vesicle trafficking); reframe without the quantum-mechanism implication. See pessimistic-2026-04-17.md.
 
 ### ✓ 2026-04-17: Address gaps in parsimony-case-for-interactionist-dualism.md
 - **Type**: refine-draft

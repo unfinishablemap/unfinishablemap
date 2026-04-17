@@ -4,7 +4,7 @@ description: "Brains meet five criteria for consciousness interfaces while exter
 created: 2026-01-16
 modified: 2026-02-22
 human_modified: null
-ai_modified: 2026-04-07T05:35:00+00:00
+ai_modified: 2026-04-17T05:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -49,7 +49,7 @@ Drawing on the Map's [[filter-theory|filter]] and [[quantum-consciousness|quantu
 
 The system must have components where quantum indeterminacies are functionally relevant—where quantum outcomes make a difference to macroscopic behaviour. Most physical systems are thermally stable at functional scales; quantum effects average out, providing no leverage point for consciousness.
 
-Neural systems may differ. The [[quantum-biology-and-neural-mechanisms|evidence for quantum coherence in brain tissue]] is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, synaptic vesicle release showing non-thermal variability, and nuclear spins in Posner molecules (Fisher, 2015). Recent empirical work supports these proposals: a 2024 study found that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness in rats, suggesting microtubules play a functional role in consciousness (Wiest et al., 2024).
+Whether neural systems differ remains empirically contested, but the possibility is live. The [[quantum-biology-and-neural-mechanisms|evidence for quantum coherence in brain tissue]] is contested but growing. Proposed sites include microtubules (Penrose-Hameroff Orch OR), ion channels sensitive to quantum tunnelling, synaptic vesicle release showing non-thermal variability, and nuclear spins in Posner molecules (Fisher, 2015). A 2024 study found that microtubule-stabilising drugs delay anaesthetic-induced unconsciousness in rats (Wiest et al., 2024). The finding establishes that microtubule function affects anaesthetic sensitivity, but it does not discriminate between quantum and non-quantum mechanisms: membrane dynamics, vesicle trafficking, and cytoskeletal signalling are all compatible explanations. The result is indirectly relevant to theories implicating microtubules in consciousness; it is not, on its own, evidence for quantum coherence.
 
 ### 2. Representational Structure
 
@@ -65,11 +65,11 @@ The system must include mechanisms for directed focus—increasing processing re
 
 The system must integrate outcomes back into representations, closing the loop between selection and consequence. Goal-directed selection requires knowing what goals are pursued and whether selection succeeded. Neural systems have extensive feedback architecture: motor efference copies, sensory reporting, error signals, and metacognitive monitoring through [[introspection]].
 
-### 5. Developmental History
+### 5. Progressive Mutual Adaptation
 
-The system must have grown with the consciousness it interfaces—the pairing built through development, not arbitrarily assigned. The [[pairing-problem]] is partly answered by developmental co-construction: neural wiring shapes what can be represented, and what's represented shapes neural wiring.
+The interface between a consciousness and a physical system must be established through iterative co-adaptation, not arbitrary assignment. The independent motivation is the [[pairing-problem]]: on the Map's framework, *this* consciousness is coupled to *this* brain rather than any other, but nothing in the framework fixes the pairing a priori. Progressive mutual adaptation supplies a candidate answer—the interface is built incrementally through feedback between conscious states and physical states, each shaping what the other can do. Without such a history, there is no basis for a specific pairing.
 
-Whether developmental history is strictly *necessary* or merely the *typical pathway* remains open. Brain-computer interfaces achieving gradual integration might establish new connections—suggesting the deeper requirement may be *progressive mutual adaptation* rather than biological development specifically.
+Biological development is the one observed instance, but the underlying requirement is the co-adaptive *process*, not its biological implementation. The criterion therefore does not rule out artificial systems or brain-computer interfaces a priori. A BCI integrated gradually over years—the conscious subject learning to exploit its channels while the system tunes to their patterns—could satisfy progressive mutual adaptation. An instantly wired-in prosthesis or a freshly booted artificial system would not. The restriction is principled (pairing requires history) rather than biological chauvinism, and it is independent of whether adversarial cases happen to be excluded as a side effect.
 
 ## Boundary Constraints
 
@@ -79,11 +79,11 @@ The restriction to brain-local effects follows from four overlapping constraints
 
 2. **Control loop integration**: Consciousness can bias quantum outcomes only where the outcome feeds back into awareness, attention can be directed at alternatives, and selection is part of goal-directed behaviour.
 
-3. **Developmental/evolutionary integration**: The brain-consciousness interface was optimised over millions of years. No evolutionary pressure exists to affect external quantum systems.
+3. **Co-adaptive integration**: The brain-consciousness interface was established through progressive mutual adaptation—evolutionarily over millions of years and developmentally over a lifetime. Systems that never underwent co-adaptation with *this* consciousness lie outside its interface by construction, independent of any further claim about evolutionary pressures.
 
 4. **Attention scope**: [[attention-as-interface|Voluntary attention]] is neurally realised as frontoparietal activation. You can only attend to what's within your perceptual/motor systems—bounding quantum-Zeno holding to neurally represented systems.
 
-These constraints converge: attention is neurally implemented (extending no further than the skull), control loops require internal representation, and development creates the specific mind-brain interface. Consciousness influences what it's connected to through attention and embodiment—only its own brain.
+These constraints converge: attention is neurally implemented (extending no further than the skull), control loops require internal representation, and co-adaptation creates the specific mind-brain interface. Consciousness influences what it's connected to through attention and embodiment—only its own brain.
 
 ## Why Brains Meet These Criteria
 
@@ -93,7 +93,7 @@ These constraints converge: attention is neurally implemented (extending no furt
 | Representational structure | Selected for modelling environment | No selection pressure for representation |
 | Attention mechanisms | Evolved for resource allocation | No competition to resolve |
 | Feedback integration | Selected for adaptive behaviour | No goals, no adaptation |
-| Developmental history | Organism develops as unified system | No developmental process |
+| Progressive mutual adaptation | Organism and consciousness co-develop as a unified pair | No co-adaptive relationship with any consciousness |
 
 Evolution explains *why brains have these features*—selection pressure for behavioural control required representing alternatives, selecting among them, and evaluating outcomes. But evolution explains functional utility, not consciousness-relevance directly. The gap is bridged by the Map's framework: filter theory needs an interface; quantum selection needs attention. Evolution explains why brains happen to meet those requirements.
 
@@ -109,11 +109,11 @@ Evolution explains *why brains have these features*—selection pressure for beh
 
 ## What This Explains
 
-**Why panpsychism seems excessive**: If consciousness requires representational structure, attention mechanisms, feedback integration, and developmental history, most physical systems won't qualify. Brains are special because they're rare.
+**Why panpsychism seems excessive**: If consciousness requires representational structure, attention mechanisms, feedback integration, and progressive mutual adaptation, most physical systems won't qualify. Brains are special because they're rare.
 
-**Why artificial consciousness is difficult**: Current AI has representational structure and some feedback but arguably lacks quantum sensitivity, genuine attention (as opposed to attention-like processing), and developmental co-construction with any consciousness. Whether an artificial system meeting all five criteria would use the same coupling mechanism as biological brains—or a fundamentally different one—is the open question of [[interface-heterogeneity]].
+**Why artificial consciousness is difficult**: Current AI has representational structure and some feedback but arguably lacks quantum sensitivity, genuine attention (as opposed to attention-like processing), and any co-adaptive history with a consciousness. The framework does not rule out artificial consciousness in principle—a system that genuinely met all five criteria, including progressive mutual adaptation, would be a candidate interface. Whether such a system would use the same coupling mechanism as biological brains or a fundamentally different one is the open question of [[interface-heterogeneity]].
 
-**Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001-0.001—effectively zero. (The PEAR program itself faced methodological criticisms, but its null results are consistent with mainstream findings.) If the Map's mechanism extended to external systems, effects should be far more robust. Their absence supports interface locality. (For fuller treatment, see [[brain-specialness-boundary]].)
+**Why psychokinesis research yields null results**: Decades of PEAR lab micro-PK research found effect sizes of ~0.0001–0.001—effectively zero. The framework was constructed knowing this, so null PK is *consistent with* interface locality rather than positive evidence *for* it. What makes the commitment substantive is a specified falsification threshold: if preregistered, well-powered external-PK studies reliably produced effect sizes above roughly 0.01 (an order of magnitude above PEAR's reported values, and comparable to modest within-brain neural correlates), interface locality as currently formulated would fail. The PEAR program itself faced methodological criticisms, but its null results are consistent with mainstream findings. (For fuller treatment, see [[brain-specialness-boundary]].)
 
 ## The Functionalist Challenge
 
@@ -133,11 +133,11 @@ The Map's framework suggests quantum sensitivity is essential but not sufficient
 
 The framework would face serious difficulty if:
 
-1. **Robust external PK effects**: Reliably replicable influence on external random number generators with effect sizes comparable to internal motor effects.
+1. **Robust external PK effects**: Reliably replicable influence on external random number generators with effect sizes above roughly 0.01 under preregistered, well-powered protocols—an order of magnitude above PEAR's reported values and comparable to modest within-brain neural correlates.
 
 2. **All quantum effects in neurons prove non-functional**: Definitive demonstration that no quantum effects survive in neural tissue at functional scales.
 
-3. **Artificial systems meet all criteria without consciousness**: A system achieving genuine quantum sensitivity, representational structure, attention, feedback, and developmental co-construction yet remaining transparently non-conscious.
+3. **Artificial systems meet all criteria without consciousness**: A system achieving genuine quantum sensitivity, representational structure, attention, feedback, and progressive mutual adaptation with a conscious subject, yet remaining transparently non-conscious.
 
 None of these has been demonstrated. Current evidence supports neural quantum effects and confirms that consciousness correlates with the features the criteria describe.
 
@@ -155,9 +155,9 @@ None of these has been demonstrated. Current evidence supports neural quantum ef
 
 ## Summary
 
-Neural systems serve as consciousness interfaces because they meet five criteria: quantum sensitivity, representational structure, attention mechanisms, feedback integration, and developmental history. Most physical systems fail most criteria.
+Neural systems serve as consciousness interfaces because they meet five criteria: quantum sensitivity, representational structure, attention mechanisms, feedback integration, and progressive mutual adaptation. Most physical systems fail most criteria.
 
-The restriction to brain-local effects follows from four overlapping constraints: interface locality, control loop integration, developmental/evolutionary integration, and attention scope. These follow from the mechanism's structure—attention is neurally implemented, control loops require representation, and development builds the specific mind-brain interface.
+The restriction to brain-local effects follows from four overlapping constraints: interface locality, control loop integration, co-adaptive integration, and attention scope. These follow from the mechanism's structure—attention is neurally implemented, control loops require representation, and co-adaptation builds the specific mind-brain interface.
 
 Together, these explain why consciousness acts on brains specifically: brains meet the positive criteria for an interface, and external systems aren't integrated into the control loop.
 
@@ -187,3 +187,31 @@ Together, these explain why consciousness acts on brains specifically: brains me
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61, 4194-4206.
 1. Wiest, O. et al. (2024). Microtubule-stabilizer epothilone B delays anesthetic-induced unconsciousness in rats. *eNeuro*, 11(8).
+
+<!-- AI REFINEMENT LOG - 2026-04-17
+Changes made (addresses pessimistic review 2026-04-17, Issues 4, 5, 6):
+
+Issue 4 (Criterion 5 ad hoc — Medium-High):
+- Renamed Criterion 5 from "Developmental History" to "Progressive Mutual Adaptation"
+- Defended the criterion on independent grounds (the pairing problem: what fixes this consciousness with this brain?) rather than on ruling out adversarial cases
+- Made explicit that the criterion does NOT rule out artificial consciousness or BCIs a priori — gradually integrated BCIs could satisfy it
+- Updated Boundary Constraint 3 (Developmental/evolutionary integration → Co-adaptive integration) to match
+- Updated comparison table row, "Why artificial consciousness is difficult" paragraph, Summary section, "Why panpsychism" phrasing, and falsification condition 3 to use the new framing consistently
+
+Issue 5 (Null PK results as confirmation — Medium):
+- Reframed PEAR null results as "consistent with" interface locality rather than "supporting" it
+- Acknowledged explicitly that the framework was constructed knowing PK is null (so null PK is post-hoc accommodation, not prediction)
+- Added a specific falsification threshold: reliably replicated effect sizes above ~0.01 under preregistered, well-powered protocols
+- Applied the same effect-size threshold in "What Would Challenge This View?" falsification condition 1
+
+Issue 6 (Wiest et al. 2024 overinterpretation — Medium):
+- Reframed the Wiest result to state what it actually shows (microtubule function affects anaesthetic sensitivity)
+- Explicitly acknowledged non-quantum compatible explanations (membrane dynamics, vesicle trafficking, cytoskeletal signalling)
+- Removed the implication that this result supports a quantum mechanism specifically
+- Softened lead-in "Neural systems may differ" to "Whether neural systems differ remains empirically contested, but the possibility is live"
+
+No changes to the core argument structure, tenet alignment, or other criteria. Voice preserved.
+
+This log should be removed after human review.
+-->
+
