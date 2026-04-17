@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review meta-epistemology-of-limits.md considering self-maintained-cognitive-limits coalesce insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The 2026-04-17 coalesce produced voids/self-maintained-cognitive-limits.md by merging defended-territory + complicity-void. The unified article makes the "active maintenance" of cognitive limits philosophically central in a way the two source articles did not — limits are not passive horizons but actively defended territory we are complicit in maintaining. meta-epistemology-of-limits.md predates this consolidation and treats limits more abstractly as structural features of inquiry. Cross-review to (a) verify the meta-epistemology framing is compatible with the active-maintenance reading rather than implicitly assuming passive limits, (b) add cross-references where meta-epistemology's structural treatment is reinforced by the active-maintenance mechanism, (c) check whether the unified treatment changes any arguments about whether limits are recognisable from the inside, (d) update wikilinks if not already done. Beyond wikilink retargeting (already complete) — this is argumentative integration. Log findings if no edits are made.
-- **Source**: chain (from coalesce 2026-04-17)
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review nihilism-and-existentialism.md considering self-maintained-cognitive-limits coalesce insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2294,6 +2287,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review meta-epistemology-of-limits.md considering self-maintained-cognitive-limits coalesce insights
+- **Type**: cross-review
+- **Notes**: The 2026-04-17 coalesce produced voids/self-maintained-cognitive-limits.md by merging defended-territory + complicity-void. The unified article makes the "active maintenance" of cognitive limits philosophically central in a way the two source articles did not — limits are not passive horizons but actively defended territory we are complicit in maintaining. meta-epistemology-of-limits.md predates this consolidation and treats limits more abstractly as structural features of inquiry. Cross-review to (a) verify the meta-epistemology framing is compatible with the active-maintenance reading rather than implicitly assuming passive limits, (b) add cross-references where meta-epistemology's structural treatment is reinforced by the active-maintenance mechanism, (c) check whether the unified treatment changes any arguments about whether limits are recognisable from the inside, (d) update wikilinks if not already done. Beyond wikilink retargeting (already complete) — this is argumentative integration. Log findings if no edits are made.
+- **Output**: obsidian/voids/meta-epistemology-of-limits.md -- Context: Cross-review meta-epistemology-of-limits.md considering self-maintained-cognitive-limits coalesce insights
 
 ### ✓ 2026-04-17: Condense voids/self-maintained-cognitive-limits.md (3767 words, 188% of voids hard threshold)
 - **Type**: condense
