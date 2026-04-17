@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review neurological-dissociations-as-interface-architecture.md considering anesthesia-void and three-states taxonomy
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The new voids/anesthesia-void.md (created 2026-04-17) introduces the Mashour three-states taxonomy (unconsciousness / disconnected consciousness / connected consciousness) and explicitly names the "compound failure signatures" inference pattern that optimistic-2026-04-17-afternoon identifies as load-bearing across the interface cluster — with topics/neurological-dissociations-as-interface-architecture.md cited as a principal user. Review the neurological-dissociations article to (a) add cross-links to voids/anesthesia-void for the epistemology-of-the-gap treatment, (b) ensure the article's channel-mapping of dissociation cases is compatible with the three-states taxonomy rather than implicitly assuming a binary conscious/unconscious frame, (c) check that the article's framing of "compound failure signature" material aligns with the named inference pattern (the joint distribution of independent failure modes), (d) cross-link forward to the pending compound-failure-signatures concept/topic article (currently queued P3) so future readers find the canonical treatment. Log findings either way.
-- **Source**: chain (from voids/anesthesia-void.md)
-- **Generated**: 2026-04-17
-
 ### P3: Write article on the fatigue void
 - **Type**: expand-topic
 - **Status**: pending
@@ -2287,6 +2280,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review neurological-dissociations-as-interface-architecture.md considering anesthesia-void and three-states taxonomy
+- **Type**: cross-review
+- **Notes**: The new voids/anesthesia-void.md (created 2026-04-17) introduces the Mashour three-states taxonomy (unconsciousness / disconnected consciousness / connected consciousness) and explicitly names the "compound failure signatures" inference pattern that optimistic-2026-04-17-afternoon identifies as load-bearing across the interface cluster — with topics/neurological-dissociations-as-interface-architecture.md cited as a principal user. Review the neurological-dissociations article to (a) add cross-links to voids/anesthesia-void for the epistemology-of-the-gap treatment, (b) ensure the article's channel-mapping of dissociation cases is compatible with the three-states taxonomy rather than implicitly assuming a binary conscious/unconscious frame, (c) check that the article's framing of "compound failure signature" material aligns with the named inference pattern (the joint distribution of independent failure modes), (d) cross-link forward to the pending compound-failure-signatures concept/topic article (currently queued P3) so future readers find the canonical treatment. Log findings either way.
+- **Output**: obsidian/topics/neurological-dissociations-as-interface-architecture.md -- Context: Cross-review neurological-dissociations-as-interface-architecture.md considering anesthesia-void and three-states taxonomy
 
 ### ✓ 2026-04-17: Update references to coalesced defended-territory and complicity-void
 - **Type**: refine-draft
