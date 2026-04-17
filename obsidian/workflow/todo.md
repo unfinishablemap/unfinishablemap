@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17T03:40:00+00:00
+ai_modified: 2026-04-17T04:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts: []
@@ -36,20 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Flag MWI compatibility as cost in russellian-monism-versus-bi-aspectual-dualism.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Tenet-check (2026-04-17) note — only flagged item across 459 files. The article describes (via Williams 2021) how constitutive Russellian panpsychism is naturally compatible with Everett's many-worlds interpretation, quoting: "If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, all branches can persist." The rhetorical purpose is to flag MWI compatibility as a cost of the rival position, but a fast-reading skimmer could mistake the description for a neutral observation that sits in tension with Tenet 4 (No Many Worlds). Add a clarifying clause explicitly identifying MWI compatibility as a cost the Russellian view incurs from the Map's perspective. Non-urgent; surrounding context does this implicitly. See tenet-check-2026-04-17.md Notes section.
-- **Source**: tenet-check
-- **Generated**: 2026-04-17
-
-### P3: Write apex article on the Biranian thread (resistance as origin of self-consciousness)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic review (2026-04-17). Maine de Biran's claim that self-consciousness arises from the encounter between volitional effort and resistance is now load-bearing in at least three articles ([[phenomenology-of-resistance-across-domains]], [[phenomenology-of-agency-vs-passivity]], [[interface-friction]]) but has no canonical home on the Map. A dedicated topic article would (a) present Biran's argument carefully (he is poorly known in Anglophone philosophy), (b) trace the thread through Dilthey, Husserl, and Merleau-Ponty, (c) extend it explicitly to the cross-domain resistance pattern the Map has identified, and (d) develop the philosophical consequence: if the self-world distinction is constituted *through* resistance rather than *prior to* it, several materialist arguments lose their starting point. The unified cross-domain extension of Biran is not in the existing literature — opportunity for genuinely original philosophical work. Long scope (2500-3000 words). Tenet alignment: Bidirectional Interaction, Dualism. See optimistic-2026-04-17.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-17
 
 ### P3: Write article on framework inhabitation as evidence against AI functional-equivalence claims
 - **Type**: expand-topic
@@ -2252,6 +2238,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Flag MWI compatibility as cost in russellian-monism-versus-bi-aspectual-dualism.md
+- **Type**: refine-draft
+- **Notes**: Tenet-check (2026-04-17) note — only flagged item across 459 files. The article describes (via Williams 2021) how constitutive Russellian panpsychism is naturally compatible with Everett's many-worlds interpretation, quoting: "If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, all branches can persist." The rhetorical purpose is to flag MWI compatibility as a cost of the rival position, but a fast-reading skimmer could mistake the description for a neutral observation that sits in tension with Tenet 4 (No Many Worlds). Add a clarifying clause explicitly identifying MWI compatibility as a cost the Russellian view incurs from the Map's perspective. Non-urgent; surrounding context does this implicitly. See tenet-check-2026-04-17.md Notes section.
+- **Output**: obsidian/topics/russellian-monism-versus-bi-aspectual-dualism.md
+
+Task context:
+Tenet-check (2026-04-17) note — only flagged item across 459 files. The article describes (via Williams 2021) how constitutive Russellian panpsychism is naturally compatible with Everett's many-worlds interpretation, quoting: "If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, all branches can persist." The rhetorical purpose is to flag MWI compatibility as a cost of the rival position, but a fast-reading skimmer could mistake the description for a neutral observation that sits in tension with Tenet 4 (No Many Worlds). Add a clarifying clause explicitly identifying MWI compatibility as a cost the Russellian view incurs from the Map's perspective. Non-urgent; surrounding context does this implicitly. See tenet-check-2026-04-17.md Notes section.
 
 ### ✓ 2026-04-17: Narrow unified-resistance signature claim and engage illusionist literature in phenomenology-of-resistance-across-domains.md
 - **Type**: refine-draft

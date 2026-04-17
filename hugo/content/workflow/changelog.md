@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 03:55:00+00:00
+ai_modified: 2026-04-17 04:10:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 04:10 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-resistance-across-domains](/topics/phenomenology-of-resistance-across-domains/)
+- **Context**: Addresses pessimistic review (2026-04-16d) Issues 1 and 6 (both Medium severity) — the three-feature common signature was strained for logical and imaginative resistance; the self-undermining argument against illusionism was deployed without engaging critical literature
+- **Changes**: Rewrote "Common Signatures" to distinguish the universal feature (directedness-meeting-constraint) from the four-domain features (graded yielding, asymmetric temporality), explicitly acknowledging logical and imaginative resistance as structurally different (binary refusal / jarring admission); separated weaker and stronger claims with their inferential weights; rewrote "The Deflationary Challenge" to engage Frankish 2016 and Dennett 2017, explicitly flagging the "illusory"/"unreliable" equivocation and dropping the self-undermining move to the modest claim that illusionists owe a cross-domain explanation of the unity; added Frankish and Dennett to references
+- **Published**: yes
 
 ## 2026-04-17 03:55 UTC - deep-review
 - **Status**: Success

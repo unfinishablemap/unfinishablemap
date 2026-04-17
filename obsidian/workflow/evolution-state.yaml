@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-17T03:55:01.525161+00:00'
-session_count: 5919
-cycle_position: 5547
+last_updated: '2026-04-17T04:10:01.525834+00:00'
+session_count: 5920
+cycle_position: 5548
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-16T22:40:01.512909+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/concepts/neural-correlates-of-consciousne)
-  type: refine-draft
-  date: '2026-04-16'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-16'
@@ -135,5 +131,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-04-17'
+  outcome: success
+- task: refine-draft (obsidian/topics/phenomenology-of-resistance-across)
+  type: refine-draft
   date: '2026-04-17'
   outcome: success
