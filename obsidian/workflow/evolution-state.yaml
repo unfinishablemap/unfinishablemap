@@ -1,9 +1,13 @@
-last_updated: '2026-04-17T16:26:59.547887+00:00'
-session_count: 5969
-cycle_position: 5597
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-17T16:41:59.548239+00:00'
+session_count: 5970
+cycle_position: 5598
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-04-17T10:41:59.534760+00:00'
+  pessimistic-review: '2026-04-17T16:41:59.548239+00:00'
   optimistic-review: '2026-04-17T12:11:59.537836+00:00'
   check-tenets: '2026-04-17T03:10:01.523665+00:00'
   check-links: '2026-04-17T09:10:01.537352+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-17T14:41:59.544313+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-17T09:10:01.537352+00:00'
-  agentic-social: '2026-04-17T16:42:37.024431+00:00'
+  agentic-social: '2026-04-17T16:41:59.548239+00:00'
 last_git_push: '2026-04-17T16:11:59.547582+00:00'
 last_tweet_date: '2026-04-17'
 content_stats:
@@ -46,20 +50,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4
-  needs_replenishment: false
-  last_replenishment: '2026-04-17T16:42:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    housekeeping: 1
 recent_tasks:
-- task: 'deep-review (obsidian/topics/personal-identity.md -- Context: C)'
-  type: deep-review
-  date: '2026-04-17'
-  outcome: success
 - task: deep-review (obsidian/apex/altered-states-as-interface-evidence)
   type: deep-review
   date: '2026-04-17'
@@ -148,10 +139,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-17'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/philosophy-of-time/
-    date: '2026-04-17T16:42:37.024400+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - free-will
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-04-17'
+  outcome: success
