@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 19:15:00+00:00
+ai_modified: 2026-04-17 19:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 19:30 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/dissolution-problem]], [[voids/meta-epistemology-of-limits]] (existing)
+- **Target**: [[voids/meta-epistemology-of-limits]] (expanded; absorbed dissolution material)
+- **Archived**: [[archive/voids/dissolution-problem]]
+- **Rationale**: Both articles addressed the same meta-question (how do we know cognitive limits are genuine?) using overlapping vocabulary (Vlerick-Boudry, recursive trap, asymmetry of evidence). Dissolution problem absorbed as "Historical Evidence" section providing the empirical complement to the structural analysis.
+- **Word count**: 2995 (under voids hard threshold of 3000)
+- **References to review**: 3 — tenet-generated-voids.md, voids.md, observation-and-measurement-void.md (active wikilinks to archived dissolution-problem)
+- **Voids count**: 97 → 96 (creates 1 more slot under cap of 100)
 
 ## 2026-04-17 19:15 UTC - refine-draft (verification, no-op)
 - **Status**: Success (no changes required)

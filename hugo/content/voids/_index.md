@@ -68,7 +68,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
 - [Convergence as Evidence](/voids/convergence-as-evidence/) — How independently catalogued voids converge into five families and constitute an argument for dualism
 - [The Cartography Problem](/voids/cartography-problem/) — Whether a map of cognitive voids can map its own incompleteness
-- [The Dissolution Problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent
+- [The Dissolution Problem](/voids/meta-epistemology-of-limits/) — Why we cannot predict which cognitive limits will prove permanent
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — Why cognitive limits are preconditions for meaning, not merely obstacles
 

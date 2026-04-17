@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
 last_deep_review: 2026-03-15T16:19:00+00:00
+archived: true
+archived_date: 2026-04-17T19:30:00+00:00
+superseded_by: "/voids/meta-epistemology-of-limits/"
+archive_reason: "Coalesced into The Meta-Epistemology of Cognitive Limits"
+original_path: "/voids/dissolution-problem/"
 ---
 
 Throughout intellectual history, concepts once deemed literally unthinkable have become routine. Irrational numbers shattered Pythagorean cosmology. Non-Euclidean geometry overturned Kant's claim that Euclidean space was knowable a priori. Quantum mechanics forced physicists to abandon the requirement that particles have definite position and momentum simultaneously. Each case appeared, at the time, to involve a genuine cognitive limit—not merely a difficult problem but a [[conceptual-impossibility|conceptual impossibility]]. Yet each dissolved. The dissolution problem asks what these cases tell us about current [[voids]]—and the answer is troubling: we have no reliable method for predicting which cognitive limits will prove permanent and which will yield to new concepts.

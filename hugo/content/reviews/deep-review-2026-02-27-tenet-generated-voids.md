@@ -35,7 +35,7 @@ Six adversarial personas engaged with the content. Context: cross-review in ligh
 None. Fifth consecutive review with no critical issues.
 
 ### Medium Issues Found
-- **"Unexplorable" classification unqualified**: The "Nature of These Limits" section classified voids as "predominantly Unexplorable" without acknowledging the dissolution-problem's asymmetry argument (persistence ≠ proof of permanence). *Resolution*: Added parenthetical cross-reference to `[dissolution-problem](/voids/dissolution-problem/)` qualifying the claim.
+- **"Unexplorable" classification unqualified**: The "Nature of These Limits" section classified voids as "predominantly Unexplorable" without acknowledging the dissolution-problem's asymmetry argument (persistence ≠ proof of permanence). *Resolution*: Added parenthetical cross-reference to `[dissolution-problem](/voids/meta-epistemology-of-limits/)` qualifying the claim.
 - **Missing cross-link to dissolution-problem**: New void article directly addresses the reliability of void classification. *Resolution*: Added to "Nature of These Limits" section, Further Reading, and related_articles.
 
 ### Counterarguments Considered
@@ -62,12 +62,12 @@ Six sympathetic personas identified strengths:
 
 ### Enhancements Made
 - Added dissolution-problem qualification to "Unexplorable" classification in "Nature of These Limits"
-- Added `[dissolution-problem](/voids/dissolution-problem/)` to Further Reading and related_articles
+- Added `[dissolution-problem](/voids/meta-epistemology-of-limits/)` to Further Reading and related_articles
 - Tightened Mechanism Void prose: removed redundant detail from candidate mechanisms list and consolidated placeholder paragraph
 - Tightened Coherence Void: removed redundant clause, consolidated Gödelian reference
 
 ### Cross-links Added
-- [dissolution-problem](/voids/dissolution-problem/)
+- [dissolution-problem](/voids/meta-epistemology-of-limits/)
 
 ## Length Management
 

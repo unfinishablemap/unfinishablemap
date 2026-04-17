@@ -116,7 +116,7 @@ The void operates through independent layers, each blocking investigation throug
 
 **Interpersonal layer.** There is no shared phenomenal space in which two experiences can be held alongside each other for comparison.
 
-These five routes to investigation all fail for different reasons yet converge on the same impasse. The [dissolution-problem](/voids/dissolution-problem/) challenges any confident claim of permanent impossibility, but this void exhibits the signatures that distinguish persistent limits from dissolved ones: recurrence across cultures and centuries, irreducible self-reference, stable philosophical positions rather than progressive narrowing, and convergence across independent traditions.
+These five routes to investigation all fail for different reasons yet converge on the same impasse. The [dissolution-problem](/voids/meta-epistemology-of-limits/) challenges any confident claim of permanent impossibility, but this void exhibits the signatures that distinguish persistent limits from dissolved ones: recurrence across cultures and centuries, irreducible self-reference, stable philosophical positions rather than progressive narrowing, and convergence across independent traditions.
 
 ## The Quantum Parallel
 
@@ -150,7 +150,7 @@ The [constitutive-exclusion](/topics/constitutive-exclusion/) develops a further
 
 ## Further Reading
 
-- [dissolution-problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent—and why this one likely will
+- [dissolution-problem](/voids/meta-epistemology-of-limits/) — Why we cannot predict which cognitive limits will prove permanent—and why this one likely will
 - [self-opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [causal-interface](/voids/causal-interface/) — The hidden mechanism of mind-body interaction
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience

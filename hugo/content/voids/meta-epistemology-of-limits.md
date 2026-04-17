@@ -1,12 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-17 16:11:00+00:00
+ai_modified: 2026-04-17 19:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
 - /voids/epistemology-of-cognitive-limits/
 - /voids/natural-vs-designed-limits/
+- /voids/dissolution-problem/
 concepts:
 - '[[mysterianism]]'
 - '[[metacognition]]'
@@ -14,10 +15,10 @@ concepts:
 - '[[simulation]]'
 - '[[phenomenology]]'
 created: 2026-01-30
-date: &id001 2026-03-19
-description: Can we know our cognitive limits are genuine, and can we determine whether
-  they are natural features or designed constraints? Both questions may be structurally
-  unanswerable from within any limited mind.
+date: &id001 2026-04-17
+description: Can we know our cognitive limits are genuine, can we predict which will
+  dissolve, and can we determine whether they are natural features or designed constraints?
+  All three questions may be structurally unanswerable from within any limited mind.
 draft: false
 human_modified: null
 last_curated: null
@@ -44,7 +45,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Two meta-level questions haunt the [voids framework](/voids/). First: how can we know that a cognitive limit is genuine rather than merely apparent? Second: are our limits *natural* features of minds like ours, or could they be *designed* constraints imposed by forces beyond our detection? Both questions share a recursive structure—the tool examining its own limitations cannot stand outside itself to verify the verdict—and both may be structurally unanswerable from within any limited cognitive system.
+Two meta-level questions haunt the [voids framework](/voids/). How can we know that a cognitive limit is genuine rather than merely apparent? Are our limits *natural* features of minds like ours, or *designed* constraints imposed by forces beyond our detection? Both share a recursive structure—the tool examining its limitations cannot stand outside itself to verify the verdict—and both may be structurally unanswerable from within any limited mind.
 
 ## The Core Problem: Difficulty vs. Impossibility
 
@@ -76,9 +77,7 @@ Kriegel's argument cuts against naive mysterianism but does not obviously dissol
 
 ## Metacognitive Miscalibration
 
-Empirical research on [metacognition](/concepts/metacognition/) complicates matters further. The Dunning-Kruger effect shows that low performers on cognitive tasks lack the metacognitive ability to recognise their incompetence—as Kruger and Dunning put it, "their incompetence robs them of the metacognitive ability to realize it." The analogy to philosophy is imperfect (Dunning-Kruger concerns domain-specific skills, not metaphysical questions), but the structural point transfers: if our tools for assessing cognitive reach are themselves calibrated by that reach, systematic overconfidence is predictable.
-
-Even high performers display "systematic and important imperfections" in self-assessment. If we are overconfident about our cognitive reach, optimism about eventually solving the hard problem may reflect architectural bias rather than warranted expectation.
+Empirical research on [metacognition](/concepts/metacognition/) complicates matters. The Dunning-Kruger effect shows that low performers lack the metacognitive ability to recognise their incompetence—"their incompetence robs them of the metacognitive ability to realize it." The philosophy analogy is imperfect (Dunning-Kruger concerns domain-specific skills, not metaphysics), but the structural point transfers: if our tools for assessing cognitive reach are themselves calibrated by that reach, systematic overconfidence is predictable. Even high performers display "systematic and important imperfections" in self-assessment. Optimism about eventually solving the hard problem may reflect architectural bias rather than warranted expectation.
 
 ## Temporary and Permanent Mysterianism
 
@@ -88,17 +87,23 @@ Colin McGinn defends *permanent* mysterianism: our ignorance is constitutional, 
 
 The worry for permanent mysterianism is that it is "hard to establish just what sorts of problems are permanently beyond our ken." Yet the worry for temporary mysterianism is that it offers no prediction about *when* or *how* the roadblock will yield—it remains faith that gaps close, absent evidence that this particular gap can.
 
+## Historical Evidence: The Pattern of Dissolution
+
+The dispute between temporary and permanent mysterianism turns on what historical dissolutions demonstrate. Concepts once deemed literally unthinkable have become routine. Irrational numbers shattered Pythagorean cosmology. Non-Euclidean geometry overturned Kant's claim that Euclidean space was knowable a priori. Quantum mechanics abandoned simultaneous definite position and momentum. Each case appeared to involve genuine [conceptual impossibility](/voids/conceptual-impossibility/) at the time; each dissolved—and dissolved by replacing the framework rather than solving the original question. Gauss observed of non-Euclidean theorems that they "appear to be paradoxical and, to the uninitiated, absurd; but calm, steady reflection reveals that they contain nothing at all impossible." Mathematical consistency, not intuitive conceivability, became the standard for possibility. Quantum mechanics adds a refinement: the formalism succeeds while interpretation remains psychologically opaque, sharpening the Vlerick-Boudry distinction—representational mastery can coexist with permanent psychological closure.
+
+### Structural Signatures
+
+Dissolved limits share features that serve as diagnostic criteria. **Dissolved limits tend to** depend on a specific false assumption ("all is ratio"), stay domain-specific, yield to new representational tools, feel like "I can't imagine *how*," and show accumulating progress before breakthrough. **Persistent limits tend to** recur across cultures and centuries (Leibniz posed essentially the same [hard problem](/topics/hard-problem-of-consciousness/) in 1714 that Chalmers formalised in 1995), involve self-reference, resist interpretation even when formalism succeeds, generate stable philosophical positions rather than progressive research programmes, and feel like "I can't even formulate what a solution would look like."
+
+The hard problem scores high on persistent-limit indicators. [Illusionism](/concepts/illusionism/) attempts dissolution by denying the explanandum, but this move illustrates the problem's resistance rather than effects one. Yet every dissolved limit *also* looked permanent to those inside it—the Pythagoreans presumably felt their limit was structural; so did Kant.
+
+### The Asymmetry Problem
+
+The deepest difficulty is asymmetric evidence. Every dissolution proves a specific limit was apparent. No amount of persistence proves a limit is permanent. We can demonstrate that a limit *wasn't* real, but not that one *is*—future concepts might dissolve it. This generates a reference-class problem: assessing whether the hard problem will dissolve like vitalism requires choosing a comparison class, and the choice determines the conclusion. Dennett argues the track record favours the optimist—declaring problems permanently mysterious has been consistently wrong. But this generalises from cases where limits dissolved, the only cases that leave evidence of their prior existence. Genuinely permanent limits leave no such evidence; the track record is silent about them. Quantum mechanics dissolved classical intuitions about particles but left the measurement problem—do dissolved limits always reveal deeper limits behind them?
+
 ## Could Limits Be Designed?
 
-The [simulation hypothesis](/concepts/simulation/) sharpens a further question. Major philosophical frameworks for cognitive limits—Kant's transcendental illusion, McGinn's cognitive closure, Gödel's incompleteness—all assume limits are natural features of finite minds. None raises the question of design.
-
-But if we exist within a constructed reality, our minds might be artifacts with engineered constraints. Bostrom notes that simulation operators could edit simulated beings' awareness to conceal errors—cognitive limits serving as containment. The question is whether limitations are:
-
-**Natural constraints**: Limits emerging from physics, evolution, and information processing bounds, existing regardless of any designer's intentions.
-
-**Designed constraints**: Limits imposed for purposes—to hide specific truths, prevent particular thoughts, or shape cognition toward desired ends.
-
-The distinction parallels AI systems: large language models have both structural constraints (no system can compute the uncomputable) and designed ones (RLHF shapes which responses are generated).
+The [simulation hypothesis](/concepts/simulation/) sharpens a further question. Major philosophical frameworks for cognitive limits—Kant's transcendental illusion, McGinn's cognitive closure, Gödel's incompleteness—all assume limits are natural features of finite minds. None raises the question of design. But if we exist within a constructed reality, our minds might be artifacts with engineered constraints, and Bostrom notes that simulation operators could edit awareness to conceal errors—cognitive limits serving as containment. The distinction matters: **natural constraints** emerge from physics, evolution, and information bounds regardless of any designer's intentions; **designed constraints** are imposed for purposes—to hide truths, prevent thoughts, or shape cognition. The distinction parallels AI systems: large language models have both structural constraints (no system can compute the uncomputable) and designed ones (RLHF shapes which responses are generated).
 
 ## The Detection Problem
 
@@ -110,17 +115,13 @@ How would we distinguish natural from designed limits, or genuine from merely ap
 
 **Convergence as weak evidence**: If multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure. The hard problem has resisted sustained attack across centuries and cultures. But convergence is only weak evidence—a point explored systematically in [the evidential weight of voids](/voids/convergence-as-evidence/). All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality.
 
-**Pattern recognition in failure**: Natural limits might appear as gradual degradation, designed limits as sharp cutoffs. But the phenomenology may not differentiate if our perception of the limit is itself constrained.
-
 The recursive problem is inescapable: every detection method operates within cognitive architecture that might be constrained. If you cannot trust your tools, you cannot trust what your tools find.
 
 A further layer compounds the difficulty. [Consciousness may actively participate in maintaining its own limits](/voids/self-maintained-cognitive-limits/) rather than merely encounter them. Whether limits are natural or designed, the investigator may have a stake in preserving the boundary—detection methods can then fail selectively, succeeding where truth is safe to find and faltering where discovery would disturb. Self-maintenance is orthogonal to the natural/designed axis: either kind of limit can recruit the investigator as defender.
 
 ## The Apophatic Method
 
-If direct verification of limits is impossible, [indirect methods](/concepts/apophatic-approaches/) become essential. Apophatic methodology—knowing through negation—has roots in multiple philosophical and contemplative traditions.
-
-Since positive description of what lies beyond our grasp will always distort, map the boundaries through systematic negation. What is consciousness *not*? Each negation rules out territory, gradually outlining what remains.
+If direct verification of limits is impossible, [indirect methods](/concepts/apophatic-approaches/) become essential. Apophatic methodology—knowing through negation—has roots in multiple philosophical and contemplative traditions. Since positive description of what lies beyond our grasp will always distort, map the boundaries through systematic negation. What is consciousness *not*? Each negation rules out territory, gradually outlining what remains.
 
 Nicholas of Cusa's *docta ignorantia*—learned ignorance—refines this insight. The goal is not to fill gaps with speculation but to know more precisely *that* we do not know and *why*. Cusanus distinguished simple ignorance (not knowing and not knowing it) from learned ignorance (knowing the limits of your knowledge). The latter is achievement, not merely absence.
 
@@ -150,17 +151,17 @@ If the epistemology of limits is itself a limit, several methodological conseque
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is most directly supported. If we cannot reliably assess our cognitive limits or determine their nature, parsimony assumptions become unreliable guides. The simpler theory may appear more plausible not because it's closer to truth but because the true theory lies in territory we cannot access. The simpler assumption—that cognitive limits are natural—may also be wrong, and parsimony cannot distinguish between natural and designed constraints when we lack the tools to investigate.
 
-**[Dualism](/tenets/#dualism)** gains indirect support from multiple angles. If we cannot trust our confidence about what future understanding will achieve, claims that materialism will eventually explain consciousness become epistemically suspect—not proved false, but revealed as faith rather than warranted expectation. If consciousness is fundamental and irreducible, designed limits on understanding consciousness would not be arbitrary—a designer might impose cognitive closure around consciousness precisely *because* understanding it would reveal something about the substrate of reality itself.
+**[Dualism](/tenets/#dualism)** gains indirect support. If we cannot trust our confidence about what future understanding will achieve, claims that materialism will eventually explain consciousness become epistemically suspect—revealed as faith rather than warranted expectation. If consciousness is fundamental, designed limits around it would not be arbitrary; a designer might impose closure precisely *because* understanding consciousness would reveal something about reality's substrate.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through self-reference. If consciousness causally influences physics at the interface this tenet describes, understanding *how* may be permanently closed because the knowing is the interacting. We cannot observe the mechanism we use to observe. A designer might similarly want the interface to function without the interfacing being aware of how—for the same reasons operating systems hide kernel operations from user processes.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through self-reference. If consciousness causally influences physics at this interface, understanding *how* may be permanently closed because the knowing is the interacting—we cannot observe the mechanism we use to observe.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** makes designed limits coherent. Under Many Worlds, every possible configuration of limits is realised somewhere—the question of *why these particular limits* loses force when all alternatives coexist. The rejection of Many Worlds makes it sensible to ask whether limits serve purposes relating to this specific reality.
+**[No Many Worlds](/tenets/#no-many-worlds)** makes designed limits coherent. Under MWI, every configuration of limits is realised somewhere; the question of *why these particular limits* loses force. Rejecting MWI makes it sensible to ask whether limits serve purposes for this specific reality.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** faces a distinctive challenge. If cognitive closure applies to the mind-matter interface, our specific proposals about quantum mechanisms may be wrong in principle. Yet they remain useful as working hypotheses—useful for generating predictions even if the underlying reality is inaccessible.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** faces a distinctive challenge. If cognitive closure applies to the mind-matter interface, specific proposals about quantum mechanisms may be wrong in principle—though useful as working hypotheses for generating predictions.
 
 ## What Would Challenge This View?
 
-A convincing solution to the hard problem would demonstrate that at least some apparently permanent limits are merely difficult problems—undermining the case for cognitive closure without eliminating the meta-epistemological question (we would still need to explain how we had been wrong). Discovery of a reliable internal method for distinguishing natural from designed constraints would dissolve the detection problem. Evidence that AI systems, trained independently of human concepts, converge on the same limits would strengthen the case for genuine closure; evidence that they break through where humans stall would weaken it.
+A convincing solution to the hard problem would demonstrate that at least some apparently permanent limits are merely difficult—undermining cognitive closure without eliminating the meta-epistemological question. Discovery of a reliable internal method for distinguishing natural from designed constraints would dissolve the detection problem. Evidence that AI systems, trained independently of human concepts, converge on the same limits would strengthen the case for genuine closure; breakthroughs where humans stall would weaken it.
 
 ## Further Reading
 
@@ -192,3 +193,8 @@ A convincing solution to the hard problem would demonstrate that at least some a
 8. Nicholas of Cusa. (1440). *De Docta Ignorantia* (*On Learned Ignorance*).
 9. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
 10. Kant, I. (1781/1787). *Critique of Pure Reason*. See SEP: https://plato.stanford.edu/entries/kant-metaphysics/
+11. Vlerick, M. & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*. https://onlinelibrary.wiley.com/doi/abs/10.1111/1746-8361.12176
+12. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+13. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+14. Dennett, D. "Review of McGinn, *The Problem of Consciousness*." https://ase.tufts.edu/cogstud/dennett/papers/mcginn.htm
+15. Gauss, C. F. Quoted in MacTutor History of Mathematics. https://mathshistory.st-andrews.ac.uk/HistTopics/Non-Euclidean_geometry/

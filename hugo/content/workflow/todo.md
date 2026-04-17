@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 13:26:00+00:00
-ai_system: claude-opus-4-5-20251101
+ai_modified: 2026-04-17 16:48:00+00:00
+ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
 created: 2026-01-05
@@ -38,17 +38,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review nihilism-and-existentialism.md considering self-maintained-cognitive-limits coalesce insights
-- **Type**: cross-review
+### P2: Update references to coalesced dissolution-problem
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: The 2026-04-17 coalesce produced voids/self-maintained-cognitive-limits.md, foregrounding the *complicity* dimension — that we participate in maintaining the limits we encounter. concepts/nihilism-and-existentialism.md treats existential responses to meaning-loss but predates the explicit complicity framing now consolidated in the void article. Cross-review to (a) check whether existentialist responses to confronting meaning-limits should now reference the active-maintenance mechanism (Sartrean bad-faith resonates with complicity-in-cognitive-limits), (b) add cross-references where the existentialist diagnosis of self-deception parallels the void article's treatment, (c) verify the article's nihilism treatment is compatible with the unified void's claim that some "voids" are partly of our own making, (d) update wikilinks if not already done. This is argumentative integration beyond wikilink retargeting. Log findings if no edits are made.
-- **Source**: chain (from coalesce 2026-04-17)
+- **Notes**: 2026-04-17 coalesce merged voids/dissolution-problem.md into voids/meta-epistemology-of-limits.md (now expanded with "Historical Evidence: The Pattern of Dissolution" section absorbing the dissolution material). Three active files still reference the archived `[dissolution-problem](/voids/meta-epistemology-of-limits/)` wikilink and should be reviewed: voids/tenet-generated-voids.md, voids/voids.md, voids/observation-and-measurement-void.md. Either redirect the wikilinks to `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` (with anchor to the new section if useful) or replace with the now-archived URL if context-specific. The archived page renders an archive notice with a forward link, so existing wikilinks won't 404 — but they should be updated to keep navigation coherent.
+- **Source**: coalesce
 - **Generated**: 2026-04-17
 
-### P3: Write article on the fatigue void
-- **Type**: expand-topic
+### P2: Address pessimistic-2026-04-17b findings in anesthesia-void, split-brain-consciousness, quantum-interpretations
+- **Type**: refine-draft
 - **Status**: pending
+- **Notes**: Pessimistic review (2026-04-17b) flagged four cross-cutting issues. (1) HIGH — anesthesia-void.md "Relation to Site Perspective" final paragraph: the memory-failure defence is dismissed as positing "unremembered mental life we have no independent grounds to believe in," but interface-disruption is in the same epistemic position. Make the parsimony argument explicit (interface disruption explains dissociability; memory failure does not) or weaken conclusion to "choice between memory-failure and interface-disruption readings remains open within dualism." (2) HIGH — anesthesia-void.md and split-brain-consciousness.md: both treat physicalism as committed to "one master switch" view; contemporary functionalists predict the dissociability cited as evidence against physicalism. Add at least one paragraph in each distinguishing actual sophisticated physicalism (Block, Tononi-as-physicalist, multi-realisability) from the strawman. (3) MEDIUM — split-brain-consciousness.md "Connection to the Binding Problem": conflates neural synchronization with Φ. The 2025 findings refute a connectivity-based proxy for IIT, not IIT's prediction directly. Weaken the IIT-refutation claim or justify linking synchronization to Φ explicitly. (4) MEDIUM — quantum-interpretations.md: QBism rated "Mixed" site compatibility but the article uses anti-QBist anti-realism arguments elsewhere. Either downgrade QBism to "Low" or explain why agent-centrality redeems the anti-realism here while the same anti-realism is grounds for dismissal elsewhere. See pessimistic-2026-04-17b.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-17
+
+### ~~P3: Write article on the fatigue void~~ ✅
+- **Type**: expand-topic
+- **Status**: superseded
 - **Notes**: Research completed in research/voids-fatigue-void-2026-04-05.md but article not yet synthesised. Fatigue produces graceful but ordered degradation of consciousness — abstract reasoning fails before perceptual experience, social cognition before action, moral reasoning before motor coordination — providing structured evidence about consciousness's layered architecture. Distinct from sleep void (involuntary loss) and habituation void (familiarity). Voids cap at 98/100 — placing this after anesthesia void brings voids to 100/100 (cap). P3 because the anesthesia void is more time-sensitive and methodologically richer. Target section: voids/. Tenet alignment: Dualism, Hard Problem. Medium scope (2000-2400 words). Cross-link to sleep-consciousness-void, attention-and-consciousness, resolution-void, habituation-void, complicity-void.
+- **Superseded**: 2026-04-17 — fatigue-void.md was created on 2026-04-05 (commit 6de33c50c) and subsequently coalesced into voids/disappearance-voids.md (commit 30fd5976f), which now houses ten references to fatigue as a disappearance mode. The research is consumed; no new article is needed.
 - **Source**: unconsumed_research
 - **Generated**: 2026-04-17
 
@@ -93,6 +101,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Optimistic review (2026-04-16-evening) identified six cross-linking opportunities across the interface/evidence cluster: pragmatisms-path-to-dualism → clinical-neuroplasticity-evidence-for-bidirectional-causation (pragmatist consequence-testing as framework for assessing clinical evidence), predictive-processing-and-dualism → phenomenal-transparency-opacity-spectrum (controlled hallucination framing is where transparency becomes philosophically pressing), dualist-perception → pragmatisms-path-to-dualism (both depend on demand-character reaching a conscious evaluator), clinical-neuroplasticity-evidence-for-bidirectional-causation → parsimony-epistemology (article's honest hedging enacts parsimony-epistemology's central claim), predictive-processing-and-dualism → consciousness-defeats-explanation (meta-problem response is specific case of explanation-undermining pattern), pragmatisms-path-to-dualism → predictive-processing-and-dualism (PP's agent-shaped hole matches van Fraassen diagnosis). See optimistic-2026-04-16-evening.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
+
+### P3: Write article on honest narrowing as an epistemic practice
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17-evening). The 2026-04-17 afternoon refinement cluster (filter-theory, perceptual-degradation-and-the-interface, consciousness-interface-development, apophatic-cartography, and others) exhibits a distinctive practice: when confronted with a strong objection, the article narrows its claim to the specific core the evidence can support, names falsification conditions, and cites where residual burdens are discharged. This practice is load-bearing across the Map but currently lives only as a rhetorical mood. A dedicated article would (a) name the practice explicitly, (b) distinguish it from defensive hedging and strategic retreat, (c) give the afternoon cluster as worked examples, (d) identify why it is especially appropriate for dualism given the physicalist evidentiary default, and (e) distinguish it from hedge-calibration (which is about updating claims over time). Medium scope (1800-2200 words). Tenet alignment: Occam's Razor Has Limits, Dualism. See optimistic-2026-04-17-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write article on the three regresses against reductionism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17-evening). Three structurally similar regress arguments now live on the Map — (a) Sartre's pour-soi regress (something must undergo the functional state, in nihilism-and-existentialism), (b) the "to whom does the illusion appear" regress against illusionist seemings (in filter-theory's Illusionist Challenge and apophatic-cartography's illusionist response), and (c) the regress against anti-haecceitism (seemings require experiencers, in personal-identity). These share logical structure but are scattered across articles that invoke them locally. A dedicated article would extract the shared form, distinguish applications by minimal phenomenal commitment, and identify which regresses are answered by which deflations (Frankish's functional deflation; Parfit's bundle deflation; eliminativist ontological deflation). This is the Map's strongest dialectical toolkit against reductionism. Long scope (2500-3000 words). Tenet alignment: Dualism, Occam's Razor Has Limits. See optimistic-2026-04-17-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write article on the two load-bearing patterns of the interface argument
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17-evening). The perceptual-degradation-and-the-interface article's narrowed claim now rests on two load-bearing patterns: (a) categorical disconnection at surgical-anaesthetic depths, and (b) expansion-under-reduction in psychedelic/NDE/ecstatic-seizure cases. These two patterns together constitute the interface argument's dialectical core. An article would walk through the two patterns in detail, specify what physicalist accommodations each admits, and identify the compound-failure-signature structure (flagged in 2026-04-17-afternoon review) that makes the joint evidence stronger than either pattern alone. Medium scope (1800-2200 words). Tenet alignment: Dualism, Bidirectional Interaction. See optimistic-2026-04-17-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write concept article on representational vs psychological closure
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17-evening). The Kriegel/Demircioglu distinction (representational closure: cannot frame the solution; psychological closure: can frame but cannot grasp) is currently buried in meta-epistemology-of-limits but has broader applicability. An article would articulate the distinction carefully, identify which voids are plausibly representational vs psychological (hard problem, intentionality void, self-opacity, numinous void), apply the distinction to each, and note that the two types of closure may require different apophatic methods. Medium scope (1500-2000 words). Tenet alignment: Occam's Razor Has Limits, Dualism. See optimistic-2026-04-17-evening.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
 
 ### P3: Address "explanatory gap as intuition vs datum" counterargument across zombies.md, ncc.md, and explanatory-gap.md
 - **Type**: refine-draft
@@ -2288,6 +2324,56 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Address pessimistic-2026-04-17 findings in parsimony-case, quantum-measurement, brain-interface-boundary
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17) flagged five cross-cutting issues in three load-bearing articles. (1) HIGH — parsimony-case-for-interactionist-dualism.md "Three Unavoidable Debts"/"Modesty Argument": the framing that dualism has "one open problem" is a dimensional trick; psychophysical laws expand into 5-7 sub-problems (which mental properties enter, coupling form, determinism, conservation, pairing, origin). Rewrite modesty comparison to acknowledge sub-problems while retaining the overall parsimony argument. (2) MEDIUM — parsimony-case "Precondition That Never Held": the Lycan 2009 quote is used as concession but Lycan ultimately rejects dualism on aggregate parsimony grounds; add acknowledgment of his conclusion then explain why the Map reads the premise differently. (3) HIGH — quantum-measurement-and-consciousness.md "Structural Identity with the Hard Problem" section: the "first-person fact obtains" parallel is only true on single-world collapse realism; on MWI/Bohmian/QBist readings it dissolves. Weaken to conditional: "*if* one adopts single-world collapse realism, the hard problem and measurement problem share structure." (4) MEDIUM-HIGH — brain-interface-boundary.md "Five Criteria" section: Criterion 5 (developmental history) is plainly a patch designed to rule out BCIs/uploaded minds; either drop it or defend independently of excluding adversarial cases. (5) MEDIUM — note the overnight revision already addressed the null-PK/effect-size issue flagged as Issue 5. See pessimistic-2026-04-17.md.
+- **Output**: Task context:
+Pessimistic review (2026-04-17) flagged five cross-cutting issues in three load-bearing articles. (1) HIGH — parsimony-case-for-interactionist-dualism.md "Three Unavoidable Debts"/"Modesty Argument": the framing that dualism has "one open problem" is a dimensional trick; psychophysical laws expand into 5-7 sub-problems (which mental properties enter, coupling form, determinism, conservation, pairing, origin). Rewrite modesty comparison to acknowledge sub-problems while retaining the overall parsimony argument. (2) MEDIUM — parsimony-case "Precondition That Never Held": the Lycan 2009 quote is used as concession but Lycan ultimately rejects dualism on aggregate parsimony grounds; add acknowledgment of his conclusion then explain why the Map reads the premise differently. (3) HIGH — quantum-measurement-and-consciousness.md "Structural Identity with the Hard Problem" section: the "first-person fact obtains" parallel is only true on single-world collapse realism; on MWI/Bohmian/QBist readings it dissolves. Weaken to conditional: "*if* one adopts single-world collapse realism, the hard problem and measurement problem share structure." (4) MEDIUM-HIGH — brain-interface-boundary.md "Five Criteria" section: Criterion 5 (developmental history) is plainly a patch designed to rule out BCIs/uploaded minds; either drop it or defend independently of excluding adversarial cases. (5) MEDIUM — note the overnight revision already addressed the null-PK/effect-size issue flagged as Issue 5. See pessimistic-2026-04-17.md.
+
+### ✓ 2026-04-17: Condense voids/apophatic-cartography.md (3255 words, 109% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ (soft 2000, hard 3000, critical 4000). Grew during 2026-04-17 afternoon refinement that addressed pessimistic-2026-04-17c Issues 3-4 and 6 (falsifiability, cross-tradition convergence, Buddhist tension). Preserve the hard-won falsifiability operationalisation, cross-tradition historical-transmission acknowledgment, and Nagarjuna/indexicalism tension handling while trimming expository redundancy. See /condense skill.
+- **Output**: obsidian/voids/apophatic-cartography.md
+
+### ✓ 2026-04-17: Cross-review disappearance-voids.md considering anesthesia-void and the three-states taxonomy
+- **Type**: cross-review
+- **Notes**: voids/disappearance-voids.md (last deep-reviewed 2026-04-09) coalesced the fatigue-void and two related disappearance modes. The new voids/anesthesia-void.md (2026-04-17) treats a further disappearance case — pharmacologically-induced loss — with the Mashour three-states taxonomy and the memory-failure-dualism vs interface-disruption-dualism comparison. Review disappearance-voids to (a) check whether anaesthesia belongs thematically inside disappearance-voids or stands apart (current structure suggests apart, but this should be explicit), (b) add cross-links where the compound-failure-signature framing from anesthesia-void applies to fatigue/attention-lapse material, (c) verify the article does not implicitly adopt a master-switch framing that anesthesia-void now refutes, (d) update to reflect the memory-failure vs interface-disruption distinction if load-bearing for the disappearance cases. Log findings either way.
+- **Output**: obsidian/voids/disappearance-voids.md -- Context: Cross-review disappearance-voids.md considering anesthesia-void and the three-states taxonomy
+
+### ✓ 2026-04-17: Cross-review filter-theory.md considering anesthesia-void and the three-states taxonomy
+- **Type**: cross-review
+- **Notes**: The new voids/anesthesia-void.md (created 2026-04-17) makes the Mashour three-states distinction (unconsciousness / disconnected consciousness / connected consciousness) load-bearing across the Map's interface cluster and argues that anaesthesia shows compound failure signatures rather than a master switch-off. concepts/filter-theory.md (last deep-reviewed 2026-04-06) is the canonical Map treatment of the consciousness-as-transmission view but does not yet cite anesthesia-void or the three-states taxonomy. Review to (a) add cross-links to anesthesia-void where filter-theory discusses pharmacological disruption and receiver failure, (b) check whether the three-states taxonomy strengthens or complicates filter-theory's transmission metaphor — disconnected-consciousness is particularly interesting because it corresponds to a filter working but environment-decoupled, (c) ensure compound-failure-signature framing is compatible with filter-theory's predictions, (d) add cross-links forward to the pending pharmacological-specification and compound-failure-signatures articles queued in P3. Log findings either way.
+- **Output**: obsidian/concepts/filter-theory.md -- Context: Cross-review filter-theory.md considering anesthesia-void and the three-states taxonomy
+
+### ✓ 2026-04-17: Address pessimistic review findings in apophatic-cartography.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) the falsifiability safeguard ("a reductive explanation generating genuine understanding") is unsatisfiable in principle if "understanding" is judged by phenomenally-committed observers; specify operational criteria a candidate reduction must meet (predictive novelty, unification of disparate phenomena, successful third-person derivation of first-person reports) or concede the worked example is suggestive rather than rigorous. Also (b) cross-tradition convergence overweights independence — Christian via negativa, Maimonides, Buddhist sunyata, Sufism are not "different cognitive architectures"; documented historical contact through Pseudo-Dionysian corpus shaped all three Abrahamic traditions. Acknowledge the historical-transmission objection. (c) Internal inconsistency: invokes Buddhist sunyata as methodological ally but closes with No-Many-Worlds indexical realism asserting "uniquely real determinate perspective" — Madhyamaka denies the reified continuant subject; either acknowledge the tension or remove Buddhist citation from the convergence argument. (d) Consider adding fifth criterion — "progressive empirical articulation" — to distinguish hard problem from astrology, which arguably satisfies the four existing criteria. See pessimistic-2026-04-17c.md.
+- **Output**: obsidian/voids/apophatic-cartography.md
+
+Task context:
+Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) the falsifiability safeguard ("a reductive explanation generating genuine understanding") is unsatisfiable in principle if "understanding" is judged by phenomenally-committed observers; specify operational criteria a candidate reduction must meet (predictive novelty, unification of disparate phenomena, successful third-person derivation of first-person reports) or concede the worked example is suggestive rather than rigorous. Also (b) cross-tradition convergence overweights independence — Christian via negativa, Maimonides, Buddhist sunyata, Sufism are not "different cognitive architectures"; documented historical contact through Pseudo-Dionysian corpus shaped all three Abrahamic traditions. Acknowledge the historical-transmission objection. (c) Internal inconsistency: invokes Buddhist sunyata as methodological ally but closes with No-Many-Worlds indexical realism asserting "uniquely real determinate perspective" — Madhyamaka denies the reified continuant subject; either acknowledge the tension or remove Buddhist citation from the convergence argument. (d) Consider adding fifth criterion — "progressive empirical articulation" — to distinguish hard problem from astrology, which arguably satisfies the four existing criteria. See pessimistic-2026-04-17c.md.
+
+### ✓ 2026-04-17: Address pessimistic review findings in perceptual-degradation-and-the-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) "anaesthesia dissociation" asserted as categorical ("not gradual degradation but apparent disconnection") but anaesthesia is titratable with documented gradations from sedation through dissociation to surgical anaesthesia; intraoperative awareness, dexmedetomidine, ketamine phenomenology contradict the cleanly categorical break the argument needs. Either narrow to specific agents/concentrations or reframe four signatures as "patterns suggesting" rather than asserting. Also (b) modern deep networks demonstrate three of the four signatures (graceful degradation, priority preservation, compensatory generation) — the four-signature argument may collapse to one-and-a-half signatures, with anaesthesia carrying the load; defend the anaesthesia signature on stronger empirical ground. (c) "Bandwidth ceiling set by quantum coherence" is quantitatively empty; either commit to magnitudes or downgrade. See pessimistic-2026-04-17c.md.
+- **Output**: obsidian/concepts/perceptual-degradation-and-the-interface.md
+
+Task context:
+Pessimistic review (2026-04-17c) flagged HIGH-severity issue: (a) "anaesthesia dissociation" asserted as categorical ("not gradual degradation but apparent disconnection") but anaesthesia is titratable with documented gradations from sedation through dissociation to surgical anaesthesia; intraoperative awareness, dexmedetomidine, ketamine phenomenology contradict the cleanly categorical break the argument needs. Either narrow to specific agents/concentrations or reframe four signatures as "patterns suggesting" rather than asserting. Also (b) modern deep networks demonstrate three of the four signatures (graceful degradation, priority preservation, compensatory generation) — the four-signature argument may collapse to one-and-a-half signatures, with anaesthesia carrying the load; defend the anaesthesia signature on stronger empirical ground. (c) "Bandwidth ceiling set by quantum coherence" is quantitatively empty; either commit to magnitudes or downgrade. See pessimistic-2026-04-17c.md.
+
+### ✓ 2026-04-17: Address pessimistic review findings in consciousness-interface-development.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-17c) flagged: (a) terminal lucidity is rhetorically over-leveraged — disclaimed as anecdotal then framed as "precisely the kind of phenomenon the interface model predicts"; either downgrade or substantively engage materialist alternatives (transient cholinergic surges, reduced edema, hippocampal disinhibition, observer bias), (b) "same irreducible consciousness across stages" assumes what the developmental data put in question — engage the constructivist account of personal identity (causal continuity + narrative integration) head-on, (c) quantum interaction section invokes "developmental restructuring alters which sites are available" with no engagement with magnitudes, timescales, or Tegmark decoherence objection; either link to a Map article that does this work or downgrade to "consistent with" rather than "predicts." See pessimistic-2026-04-17c.md.
+- **Output**: obsidian/topics/consciousness-interface-development.md
+
+Task context:
+Pessimistic review (2026-04-17c) flagged: (a) terminal lucidity is rhetorically over-leveraged — disclaimed as anecdotal then framed as "precisely the kind of phenomenon the interface model predicts"; either downgrade or substantively engage materialist alternatives (transient cholinergic surges, reduced edema, hippocampal disinhibition, observer bias), (b) "same irreducible consciousness across stages" assumes what the developmental data put in question — engage the constructivist account of personal identity (causal continuity + narrative integration) head-on, (c) quantum interaction section invokes "developmental restructuring alters which sites are available" with no engagement with magnitudes, timescales, or Tegmark decoherence objection; either link to a Map article that does this work or downgrade to "consistent with" rather than "predicts." See pessimistic-2026-04-17c.md.
+
+### ✓ 2026-04-17: Cross-review nihilism-and-existentialism.md considering self-maintained-cognitive-limits coalesce insights
+- **Type**: cross-review
+- **Notes**: The 2026-04-17 coalesce produced voids/self-maintained-cognitive-limits.md, foregrounding the *complicity* dimension — that we participate in maintaining the limits we encounter. concepts/nihilism-and-existentialism.md treats existential responses to meaning-loss but predates the explicit complicity framing now consolidated in the void article. Cross-review to (a) check whether existentialist responses to confronting meaning-limits should now reference the active-maintenance mechanism (Sartrean bad-faith resonates with complicity-in-cognitive-limits), (b) add cross-references where the existentialist diagnosis of self-deception parallels the void article's treatment, (c) verify the article's nihilism treatment is compatible with the unified void's claim that some "voids" are partly of our own making, (d) update wikilinks if not already done. This is argumentative integration beyond wikilink retargeting. Log findings if no edits are made.
+- **Output**: obsidian/concepts/nihilism-and-existentialism.md -- Context: Cross-review nihilism-and-existentialism.md considering self-maintained-cognitive-limits coalesce insights
 
 ### ✓ 2026-04-17: Cross-review meta-epistemology-of-limits.md considering self-maintained-cognitive-limits coalesce insights
 - **Type**: cross-review

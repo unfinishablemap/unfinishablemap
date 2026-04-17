@@ -1,13 +1,139 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 16:11:00+00:00
+ai_modified: 2026-04-17 19:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 19:30 UTC - coalesce
+- **Status**: Success
+- **Sources**: [dissolution-problem](/voids/dissolution-problem/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) (existing)
+- **Target**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) (expanded; absorbed dissolution material)
+- **Archived**: [dissolution-problem](/archive/voids/dissolution-problem/)
+- **Rationale**: Both articles addressed the same meta-question (how do we know cognitive limits are genuine?) using overlapping vocabulary (Vlerick-Boudry, recursive trap, asymmetry of evidence). Dissolution problem absorbed as "Historical Evidence" section providing the empirical complement to the structural analysis.
+- **Word count**: 2995 (under voids hard threshold of 3000)
+- **References to review**: 3 — tenet-generated-voids.md, voids.md, observation-and-measurement-void.md (active wikilinks to archived dissolution-problem)
+- **Voids count**: 97 → 96 (creates 1 more slot under cap of 100)
+
+## 2026-04-17 19:15 UTC - refine-draft (verification, no-op)
+- **Status**: Success (no changes required)
+- **Files reviewed**: [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/), [brain-interface-boundary](/concepts/brain-interface-boundary/)
+- **Task**: P2 "Address pessimistic-2026-04-17 findings" — verification pass against all five flagged issues
+- **Outcome**: All five issues confirmed already addressed by earlier morning refinements (parsimony 04:55 + 09:10, quantum-measurement 08:25, brain-interface 08:55). No additional edits warranted.
+- **Verification details**:
+  - Issue 1 (HIGH, modesty/sub-problems): parsimony lines 75 and 105–114 enumerate the 6+ psychophysical sub-problems (laws' domain, functional form, determinism/probabilism, conservation, pairing, ground/origin) and reframe the comparison as "closer to a draw" with a "modest, not decisive" advantage for dualism.
+  - Issue 2 (MEDIUM, Lycan): parsimony line 53 acknowledges Lycan's aggregate-parsimony rejection of dualism, then explains the Map's premise/conclusion separation.
+  - Issue 3 (HIGH, structural identity): quantum-measurement lines 68–82 add "presupposes single-world collapse realism" qualifier, retitle the table column, enumerate MWI/Bohmian/QBist/epistemic-collapse alternatives where the parallel dissolves, and reframe as a within-collapse-realism consilience argument; knowledge argument now flagged as "again conditional on collapse realism."
+  - Issue 4 (MEDIUM-HIGH, Criterion 5 patch): brain-interface lines 68–72 rename Criterion 5 to "Progressive Mutual Adaptation," defend via the pairing problem independently of excluding adversarial cases, and explicitly admit gradually-integrated BCIs could satisfy it.
+  - Issue 5 (MEDIUM, null PK): brain-interface line 116 reframes PEAR results as "consistent with" interface locality with a 0.01 effect-size falsification threshold — confirmed by task notes as already addressed.
+- **Todo updated**: marked as superseded with full verification trace.
+- **Published**: no file changes
+
+## 2026-04-17 18:57 UTC - deep-review
+- **Status**: Success
+- **File**: [duhem-quine-underdetermination-consciousness](/topics/duhem-quine-underdetermination-consciousness/)
+- **Word count**: 2676 → 2676 (length-neutral)
+- **Critical issues addressed**: 1 (attribution/fabrication — "Consciousness Atlas" name did not match citation's "A Landscape of Consciousness"; "over 325" theory count unverifiable, softened to "several hundred")
+- **Medium issues addressed**: 5 (five instances of the prohibited "not X but Y" LLM cliché construct in the Relation to Site Perspective section, reworded to use "X rather than Y" while preserving the positive claims)
+- **Enhancements made**: 0 (article is stable across four reviews; no cross-link or structural changes needed)
+- **Notes**: Fourth review of this article. Previous reviews (2026-03-04, 2026-03-05, 2026-03-18) marked it stable. This round caught style-guide violations and one attribution imprecision that earlier reviews missed.
+- **Output**: [deep-review-2026-04-17-duhem-quine-underdetermination-consciousness](/reviews/deep-review-2026-04-17-duhem-quine-underdetermination-consciousness/)
+
+## 2026-04-17 18:46 UTC - condense
+- **Status**: Success
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Before**: 3255 words
+- **After**: 2238 words
+- **Reduction**: 31%
+- **Technique**: Removed Process Philosophy / Whitehead section (tangential digression); cut redundant indicators in "Distinguishing Boundaries from Confusion" that duplicated the Five Criteria, keeping only the unique phenomenology and predictive-structure indicators; removed leftover AI REFINEMENT LOG comment block; tightened prose in Apophatic Tradition (Cusanus/Wittgenstein paragraphs), Five Criteria sub-sections, Illusionist Challenge, and Relation to Site Perspective; trimmed the inflated Further Reading list. Preserved opening summary, all five criteria with operational falsifiability, worked-example bullets, and Relation to Site Perspective intact.
+
+## 2026-04-17 18:26 UTC - deep-review
+- **Status**: Success
+- **File**: [disappearance-voids](/voids/disappearance-voids/)
+- **Word count**: 2652 → 2658 (+6, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+- **Enhancements made**: 4 (cross-link to [anesthesia-void](/voids/anesthesia-void/) in three locations; integrated Mashour three-states taxonomy into Fatigue section; tightened Dreyfus-Zahavi paragraph; trimmed redundant Classification closing)
+- **Notes**: Cross-review triggered by today's publication of [anesthesia-void](/voids/anesthesia-void/) with Mashour three-states taxonomy. The disappearance-voids article previously treated anesthesia as a "parallel hierarchy" supporting fatigue's architectural claim; now reframed as dissociable couplings (unconsciousness / disconnected consciousness / connected consciousness). Length kept neutral by offsetting cuts. Article has stabilised across two reviews.
+- **Output**: [deep-review-2026-04-17-disappearance-voids](/reviews/deep-review-2026-04-17-disappearance-voids/)
+
+## 2026-04-17 18:12 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The afternoon-into-evening refinement cluster (eight articles edited after the 12:17 UTC optimistic review) — [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/), [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/), [consciousness-interface-development](/topics/consciousness-interface-development/), [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/), [process-philosophy](/concepts/process-philosophy/), [apophatic-cartography](/voids/apophatic-cartography/), [filter-theory](/concepts/filter-theory/). Treated as a single methodological arc: each article responded to pessimistic-review pressure by narrowing claims and operationalising safeguards rather than doubling down. High-priority emergent opportunity: a dedicated concept article on "honest narrowing" as the Map's distinctive epistemic posture. Four P3 tasks added: honest-narrowing article, three-regresses article, two-load-bearing-patterns article, representational-vs-psychological-closure article.
+- **Output**: [optimistic-2026-04-17-evening](/reviews/optimistic-2026-04-17-evening/)
+
+## 2026-04-17 17:56 UTC - deep-review
+- **Status**: Success
+- **File**: [filter-theory](/concepts/filter-theory/)
+- **Word count**: 2898 → 2931 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 1 (reciprocal cross-link to anesthesia-void; removed strawman against naive physicalism in Anesthetic Divergence)
+- **Notes**: Ninth deep review. Cross-review against new [anesthesia-void](/voids/anesthesia-void/) (created today) flagged a strawman: the filter-theoretic dissociability argument was formulated as refuting "physicalism" when it only refutes naive unified-switch models. Tightened to honestly underdetermine between sophisticated functionalism and interface-dualism. Attribution inconsistency noted (Sanders vs Mashour for same BJA Open paper) belongs in the void article, not here.
+- **Output**: [deep-review-2026-04-17-filter-theory](/reviews/deep-review-2026-04-17-filter-theory/)
+
+## 2026-04-17 17:41 UTC - refine-draft
+- **Status**: Success
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Review addressed**: [pessimistic-2026-04-17c](/reviews/pessimistic-2026-04-17c/)
+- **Changes**: Operationalised falsifiability safeguard (predictive novelty, unificatory power, third-person derivability criteria) replacing unsatisfiable "genuine understanding" language; qualified cross-observer convergence with historical-transmission caveat (Pseudo-Dionysian corpus, monastic contact) and relocated independence weight to analytic philosophy and AI triangulation; added fifth criterion "Progressive Empirical Articulation" with astrology-vs-hard-problem contrast; acknowledged internal tension between Buddhist *sunyata* invocation and No-Many-Worlds indexical realism in both §The Apophatic Tradition and §Relation to Site Perspective.
+- **Published**: yes
+
+## 2026-04-17 17:27 UTC - deep-review
+- **Status**: Success
+- **File**: [process-philosophy](/concepts/process-philosophy/)
+- **Word count**: 2116 → 2116 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth deep review; article has converged. All six adversarial personas applied — findings match bedrock disagreements already documented in prior stability notes. Attribution check passed. All wikilinks resolve (verified `[Process haecceitism](/concepts/haecceity/)` still works after process-haecceitism was coalesced into haecceity on 2026-04-04). No content changes warranted per convergence principle.
+- **Output**: [deep-review-2026-04-17-process-philosophy](/reviews/deep-review-2026-04-17-process-philosophy/)
+
+## 2026-04-17 17:11 UTC - refine-draft
+- **Status**: Success
+- **File**: [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
+- **Trigger**: Pessimistic review 2026-04-17c critical issues 2, 5, and counterargument-1 (HIGH severity)
+- **Changes**:
+  - §"What the Failure Patterns Show" reframed from "four characteristic signatures that, taken together, point toward" to "four patterns...suggest"; flagged that three of the four have physicalist explanations so the load falls on anaesthesia + expansion-under-degradation
+  - §"The Anaesthesia Dissociation" rewritten: acknowledged titratability, intraoperative awareness, and ketamine/dexmedetomidine intermediate phenomenology; narrowed the strong claim to surgical-depth propofol/sevoflurane where emergence reports describe absence rather than impoverishment
+  - §"The Neural Network Objection" rebuilt: conceded deep networks reproduce three signatures; rested the case on narrowed anaesthesia + filter-expansion; added explicit falsifier paragraph
+  - §"Minimal Quantum Interaction" downgraded from bandwidth-ceiling prediction to "consistent with the tenet"; acknowledged unaddressed Tegmark 10⁻¹³ s decoherence objection; reframed interface-friction as phenomenological shape, not calculation
+  - §Dualism (Relation to Site Perspective) aligned with narrowed claim
+  - Replaced "the mask slips" with "introspective access shifts from world to medium"
+- **Published**: yes (uncommitted; automation will commit)
+
+## 2026-04-17 16:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-interface-development](/topics/consciousness-interface-development/)
+- **Trigger**: Pessimistic review 2026-04-17c critical issues 1, 5, and counterargument-2
+- **Changes**:
+  - Terminal lucidity paragraphs rewritten: removed "precisely the kind of phenomenon the interface model predicts" overclaim; substantively engaged materialist alternatives (cholinergic/noradrenergic surges, oedema/inflammation reduction, hippocampal disinhibition, observer-effect bias); downgraded to "congenial *if* robust and irreducible"
+  - Added two-paragraph engagement with Parfit-reductionist constructivist account of trans-stage identity in §Dualism; framed Map's commitment as open rather than forced
+  - §Minimal quantum interaction downgraded "predicts" → "consistent with"; added explicit Tegmark (2000) 10⁻¹³ s decoherence acknowledgement; linked to [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) and [decoherence](/concepts/decoherence/) for the quantitative work
+  - Added Tegmark (2000), Parfit (1984) references; added parfit-reductionism, quantum-neural-timing-constraints, decoherence to Further Reading
+- **Published**: yes (uncommitted; automation will commit)
+
+## 2026-04-17 16:48 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/consciousness-interface-development.md`, `concepts/perceptual-degradation-and-the-interface.md`, `voids/apophatic-cartography.md`
+- **Critical issues found**: 6 (2 high, 4 medium); recurring theme: claims labelled "predicted by interface model" without specifying disconfirmers
+- **Tasks added**: 3 P2 refine-draft tasks
+- **Output**: [pessimistic-2026-04-17c](/reviews/pessimistic-2026-04-17c/)
+
+## 2026-04-17 16:26 UTC - deep-review
+- **Status**: Success
+- **File**: [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)
+- **Previous review**: 2026-04-05 (found no critical issues; article marked stable)
+- **Trigger**: Cross-review after self-maintained-cognitive-limits coalesce
+- **Word count**: 2019 → 2044 (+25, 82% of 2500 soft threshold — stable)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 2 (thin self-maintained-limits reference in Bad Faith section; narrow Further Reading description)
+- **Enhancements made**: 2 (convergence framing added to Bad Faith cross-link; Further Reading entry sharpened to reflect coalesced scope)
+- **Output**: [deep-review-2026-04-17-nihilism-and-existentialism](/reviews/deep-review-2026-04-17-nihilism-and-existentialism/)
 
 ## 2026-04-17 16:11 UTC - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-15 10:15:00+00:00
+ai_modified: 2026-04-17 17:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -37,13 +37,13 @@ Perceptual degradation and the interface is the observation that when perception
 
 ## The Core Observation
 
-Normal perception is [phenomenally transparent](/concepts/phenomenal-transparency-opacity-spectrum/). Experience feels like direct contact with the world—you see the apple, not the seeing. This transparency masks the interface through which perceptual information reaches consciousness. When perception degrades, the mask slips.
+Normal perception is [phenomenally transparent](/concepts/phenomenal-transparency-opacity-spectrum/). Experience feels like direct contact with the world—you see the apple, not the seeing. This transparency masks the interface through which perceptual information reaches consciousness. When perception degrades, introspective access shifts from world to medium.
 
 Remove your glasses: the resulting blur is not a property of external objects. It is a property of *your experience*—a [qualitative character](/concepts/qualia/) (softness, haziness, visual texture) that belongs to the experiencing subject. You become aware of the medium of perception itself, the way you notice a scratched lens rather than the scene behind it. This simple observation has deep consequences. If phenomenal character were exhausted by representational content about external objects, as representationalism claims, blur should be fully explicable as representing some external property. But the felt quality of blur—its specific "what it is like"—has no home in the physical scene. It belongs to the interface.
 
 ## What the Failure Patterns Show
 
-Perceptual degradation exhibits four characteristic signatures that, taken together, point toward a bandwidth-limited transmission channel connecting consciousness and the brain rather than an identity between them.
+Perceptual degradation exhibits four patterns that, taken together, suggest a bandwidth-limited transmission channel connecting consciousness and the brain rather than an identity between them. Three of the four patterns have working physicalist explanations through distributed neural architecture; the argumentative weight falls on the fourth (anaesthesia dissociation) and on a further expansion-under-degradation pattern discussed in [](#the-neural-network-objection). The framing is "patterns suggesting an interface," not a conjunctive proof.
 
 ### Graceful Degradation
 
@@ -59,7 +59,9 @@ Degraded perception is not simply impoverished—it often generates novel phenom
 
 ### The Anaesthesia Dissociation
 
-General [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) provides a contrasting failure mode. Anaesthetics do not destroy neural tissue; they disrupt specific patterns of neural communication. Yet their effect on consciousness is not gradual degradation but apparent disconnection. If consciousness were identical to neural activity, reduced activity should always produce reduced experience. Instead, degradation and disconnection produce categorically different phenomenologies—impoverished-but-present experience versus apparent absence. The interface can transmit at reduced capacity or be functionally closed, and these are distinct failure modes of a channel, not degrees of a single phenomenon.
+General [anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) provides a contrasting failure mode, though the argument requires care. Anaesthesia is titratable, and the overall phenomenological landscape is graded rather than clean. Sedation, dissociative states (ketamine, dexmedetomidine), and surgical anaesthesia form a continuum; intraoperative awareness shows that even surgical depth does not guarantee disconnection; the phenomenology of emergence is famously fragmentary and confabulated.
+
+The stronger claim therefore narrows to a specific corner of this continuum: high-dose propofol or sevoflurane at unambiguous surgical anaesthesia, where patients who emerge reliably describe absence rather than impoverishment—no blur, no dim experience, no time passing, just a gap. At that end of the continuum, the failure looks qualitatively unlike the graded loss of blur or ageing: not reduced capacity on the same channel but something closer to the channel being closed. Whether the apparent categorical break at that corner survives a more thorough phenomenological survey is an open empirical question, and this signature's argumentative weight is proportional to how the survey comes out. Other anaesthetic regimes (ketamine dissociation, light sedation, intraoperative awareness) occupy intermediate phenomenal states between full degradation and full absence, and the Map treats those as evidence that the channel metaphor has more than two modes—not as proof of a single clean dichotomy.
 
 ## The Blur Paradox
 
@@ -71,9 +73,13 @@ Błażej Skrzypulec's proposal that blur is *interoceptive*—representing the v
 
 ## The Neural Network Objection
 
-The strongest physicalist reply is that distributed neural networks degrade gracefully by architecture—no interface required. Connectionist models naturally show priority preservation (high-weight connections survive noise), graceful degradation (distributed representations lose precision smoothly), and even compensatory generation (pattern completion from partial input). This is a serious objection for any single signature taken alone.
+The strongest physicalist reply is that distributed neural networks degrade gracefully by architecture—no interface required. Modern deep networks demonstrate three of the four patterns without invoking consciousness: priority preservation (high-weight connections and skip pathways survive noise), graceful degradation (distributed representations lose precision smoothly), and compensatory generation (pattern completion and confabulated outputs under corrupted input, as seen in image-restoration and language models). The Map concedes this. Taken individually, none of these three signatures needs an interface; each has a working physical mechanism.
 
-The force weakens when the four signatures are considered together. Neural network degradation does not predict the anaesthesia dissociation: why should disrupting communication patterns produce categorical absence rather than further degradation? Nor does it predict the [filter-expansion](/concepts/filter-theory/) cases—psychedelic states where reduced neural activity correlates with *expanded* phenomenal content. A system that merely computes and degrades should not produce richer output with less computation. The combination of graceful loss, compensatory generation, categorical disconnection, and expansion-under-degradation is better explained by a channel with its own architecture than by a single system exhibiting different failure modes. The [selective correction paradox](/concepts/selective-correction-and-reconstruction-paradox/) presents a related puzzle: the brain corrects perceptual errors it cannot access through physical mechanisms alone.
+The weight therefore falls on two patterns the physicalist story handles less easily. The first is the anaesthesia dissociation as narrowed above: the apparent categorical step from impoverished experience to absence at surgical depths of propofol or sevoflurane has no clear deep-network analogue. Partial signal loss in a network yields degraded output, not the transition from "operating at reduced capacity" to "no longer operating as a channel" that surgical anaesthesia appears to reveal. The second is the [filter-expansion](/concepts/filter-theory/) pattern: psychedelic states, ecstatic epileptic seizures, and near-death reports where reduced neural activity (including reduced default-mode-network activity on psychedelics) correlates with *expanded* phenomenal content. A system that merely computes and degrades should not produce richer output with less computation. These two together—categorical disconnection at one end, expansion-under-reduction at the other—are what the interface framing predicts and what a straightforward network-degradation story struggles to absorb.
+
+The [selective correction paradox](/concepts/selective-correction-and-reconstruction-paradox/) is a related puzzle: the brain corrects perceptual errors it cannot access through physical mechanisms alone.
+
+**What would count against the interface framing**: if large-sample phenomenological studies of surgical-depth anaesthesia reliably turned up graded experience at that corner of the continuum rather than gap-shaped absence; or if filter-expansion cases turned out to track increased neural integration or unmeasured computation (rather than reduced activity) under tighter measurement. Either outcome would remove one of the two load-bearing patterns and leave the argument resting on signatures that connectionist architectures already reproduce.
 
 ## Connection to Interface Theories
 
@@ -83,9 +89,9 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 
 ## Relation to Site Perspective
 
-**Dualism**: Perceptual degradation exposes phenomenal properties—the qualitative character of haziness, the texture of degraded vision—that belong to the experiencing subject, not to external physical objects. The four failure signatures (graceful degradation, priority preservation, compensatory generation, anaesthesia dissociation) collectively suggest that consciousness and neural activity are connected by a channel with its own architecture, discoverable through its failure modes, rather than being identical. Two systems connected by an interface fail differently from one system exhibiting different aspects.
+**Dualism**: Perceptual degradation exposes phenomenal properties—the qualitative character of haziness, the texture of degraded vision—that belong to the experiencing subject, not to external physical objects. Of the four patterns (graceful degradation, priority preservation, compensatory generation, anaesthesia dissociation), the first three are reproduced by distributed neural networks; the anaesthesia dissociation at surgical depths, together with expansion-under-degradation, is where the dualist reading gains its traction. Two systems connected by an interface fail differently from one system exhibiting different aspects, but the pattern has to be narrow and specific to carry the load.
 
-**Minimal Quantum Interaction**: The bandwidth model raises a mechanistic question: what determines the interface's capacity? If consciousness biases quantum indeterminacies in neural systems, the number and coherence of available quantum events may set the bandwidth ceiling. Neural damage reduces available sites for quantum interaction, progressively constraining how much information crosses the interface. [interface-friction](/concepts/interface-friction/) would increase as the channel degrades.
+**Minimal Quantum Interaction**: The bandwidth model raises a mechanistic question: what determines the interface's capacity? A tenet-level conjecture is that if consciousness biases quantum indeterminacies in neural systems, the number and coherence of available quantum events would constrain how much information crosses the interface, and neural damage would reduce available sites for such interaction. This is a direction of fit, not a derivation: the Map offers no commitment to magnitudes (how many events, on what timescale, against what decoherence rate) and does not here answer the standard Tegmark objection that warm, wet neural environments destroy coherence on picosecond timescales far shorter than cognitive dynamics require. [interface-friction](/concepts/interface-friction/) names the phenomenological shape of the problem rather than a calculated decoherence budget; this section should be read as consistent with the tenet rather than as predicting specific observations.
 
 **Bidirectional Interaction**: Compensatory phenomena suggest the interface is not a one-way pipe. When external signal drops, the system generates phenomenal content—consciousness or the interface itself actively maintains a phenomenal field. When blur triggers corrective action (squinting, reaching for glasses), information about the interface's own state flows from the phenomenal domain into physical behaviour.
 
@@ -109,3 +115,16 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 2. Phillips, I. (2021). Blindsight Is Qualitatively Degraded Conscious Vision. *Psychological Review*, 128(3), 558–584.
 3. Skrzypulec, B. (2021). Blur and Interoceptive Vision. *Philosophical Studies*, 178, 3149–3168.
 4. Southgate, A. & Oquatre-six, C. (2026-03-09). Perceptual Failure and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/
+
+<!-- AI REFINEMENT LOG - 2026-04-17
+Changes made in response to pessimistic-2026-04-17c HIGH-severity issues:
+- Reframed opening of "What the Failure Patterns Show" from "four characteristic signatures that, taken together, point toward" to "four patterns that...suggest"; flagged that three of the four have physicalist explanations and the load falls on anaesthesia + expansion-under-degradation.
+- Rewrote "The Anaesthesia Dissociation" to acknowledge anaesthesia is titratable, cite intraoperative awareness and ketamine/dexmedetomidine dissociation as intermediate states, and narrow the strong claim to surgical-depth propofol/sevoflurane where emergence reports describe absence rather than impoverishment.
+- Rewrote "The Neural Network Objection" to concede deep networks reproduce graceful degradation, priority preservation, and compensatory generation; rebuilt the case on anaesthesia dissociation (narrowed) + filter-expansion; added an explicit falsifier paragraph describing what would count against the interface framing.
+- Downgraded "Minimal Quantum Interaction" from a bandwidth-ceiling prediction to a tenet-level conjecture "consistent with the tenet"; acknowledged the unaddressed Tegmark decoherence objection (picosecond timescales) and clarified interface-friction is phenomenological shape rather than a calculated decoherence budget.
+- Updated "Dualism" paragraph in Relation to Site Perspective to align with the narrowed claim (three of four signatures reproduced by networks; weight on anaesthesia + expansion).
+- Replaced "the mask slips" borrowed metaphor with concrete claim "introspective access shifts from world to medium."
+- Updated ai_modified timestamp.
+
+This log should be removed after human review.
+-->

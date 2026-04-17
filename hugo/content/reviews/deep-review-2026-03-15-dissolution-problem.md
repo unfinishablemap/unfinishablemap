@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [The Dissolution Problem](/voids/dissolution-problem/)
+**Article**: [The Dissolution Problem](/voids/meta-epistemology-of-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

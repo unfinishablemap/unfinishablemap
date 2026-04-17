@@ -108,7 +108,7 @@ Some voids emerge from the *interaction* between tenets rather than individual c
 
 ## The Nature of These Limits
 
-These voids are predominantly **Unexplorable** rather than merely Unexplored (though the [dissolution problem](/voids/dissolution-problem/) cautions that persistence alone never proves permanence):
+These voids are predominantly **Unexplorable** rather than merely Unexplored (though the [dissolution problem](/voids/meta-epistemology-of-limits/) cautions that persistence alone never proves permanence):
 
 The interaction problem has persisted since Princess Elisabeth posed it to Descartes in 1643, suggesting structural difficulty rather than insufficient effort.
 
@@ -175,7 +175,7 @@ The framework-generated-voids analysis would be undermined if:
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter and consciousness are in themselves
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers more than function requires
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why experience presents as immediately given
-- [The Dissolution Problem](/voids/dissolution-problem/) — Why we cannot predict which cognitive limits will prove permanent
+- [The Dissolution Problem](/voids/meta-epistemology-of-limits/) — Why we cannot predict which cognitive limits will prove permanent
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 
 ## References

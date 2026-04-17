@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-26
 **Article**: [The Observation Void](/voids/observation-and-measurement-void/)
 **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-observation-void/)
-**Cross-review context**: [The Dissolution Problem](/voids/dissolution-problem/)
+**Cross-review context**: [The Dissolution Problem](/voids/meta-epistemology-of-limits/)
 
 ## Pessimistic Analysis Summary
 
@@ -48,11 +48,11 @@ None. The article was already in good shape following the 2026-02-25 review. All
 ### Enhancements Made
 - Added dissolution-problem engagement paragraph in Three Layers section (~95 words)
 - Added dissolution-problem connection to Occam's Razor paragraph in Relation to Site Perspective
-- Added [dissolution-problem](/voids/dissolution-problem/) to frontmatter related_articles
-- Added [dissolution-problem](/voids/dissolution-problem/) to Further Reading with descriptive text
+- Added [dissolution-problem](/voids/meta-epistemology-of-limits/) to frontmatter related_articles
+- Added [dissolution-problem](/voids/meta-epistemology-of-limits/) to Further Reading with descriptive text
 
 ### Cross-links Added
-- [dissolution-problem](/voids/dissolution-problem/) (Three Layers section, Relation to Site Perspective, Further Reading, frontmatter)
+- [dissolution-problem](/voids/meta-epistemology-of-limits/) (Three Layers section, Relation to Site Perspective, Further Reading, frontmatter)
 
 ## Remaining Items
 

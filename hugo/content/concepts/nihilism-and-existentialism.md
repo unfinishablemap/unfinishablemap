@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-04-17 16:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: Nihilism diagnoses the absence of cosmic purpose; existentialism re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 20:40:00+00:00
+last_deep_review: 2026-04-17 16:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -94,7 +94,7 @@ These structures resist reduction because any scientific investigation of consci
 
 ## Bad Faith, Freedom, and the Singular Self
 
-Sartre's *mauvaise foi* (bad faith) illuminates self-deception unique to consciousness. In bad faith, I deny my freedom by treating myself as a thing—the waiter who performs his role as if it fully defines him, the person who claims "I couldn't help it." This self-deception presupposes the pour-soi: only a being not identical with itself can deceive itself. Materialist accounts struggle to explain how a physical system can be simultaneously deceiver and deceived without multiplying subjects. The pour-soi's self-distance provides exactly this structure. [Self-maintained cognitive limits](/voids/self-maintained-cognitive-limits/) extend the analysis: consciousness may be systematically complicit in maintaining its own cognitive limits.
+Sartre's *mauvaise foi* (bad faith) illuminates self-deception unique to consciousness. In bad faith, I deny my freedom by treating myself as a thing—the waiter who performs his role as if it fully defines him, the person who claims "I couldn't help it." This self-deception presupposes the pour-soi: only a being not identical with itself can deceive itself. Materialist accounts struggle to explain how a physical system can be simultaneously deceiver and deceived without multiplying subjects. The pour-soi's self-distance provides exactly this structure. [Self-maintained cognitive limits](/voids/self-maintained-cognitive-limits/) place bad faith within a wider convergence: Sartrean analysis, Buddhist *avidya*, terror management, and evolutionary self-deception all independently describe consciousness as systematically complicit in maintaining its own limits—suggesting a structural feature rather than a culture-specific pattern.
 
 Freedom, for existentialists, is a structural feature of consciousness—the capacity to suspend automatic response and act on reasons rather than impulses. The experience of [mental-effort](/concepts/mental-effort/)—sustaining attention against distraction—provides evidence for this selection function. If choices were predetermined, the phenomenology of effort would be systematically illusory.
 
@@ -165,7 +165,7 @@ The existentialist-dualist synthesis would face difficulty if:
 - [witness-consciousness](/concepts/witness-consciousness/) — Contemplative cultivation of non-identified awareness
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effortful attention
 - [The Ownership Void](/voids/ownership-void/) — Why mineness hides from the subject who bears it
-- [Self-Maintained Cognitive Limits](/voids/self-maintained-cognitive-limits/) — Whether consciousness actively maintains its own limits through bad faith and other defence mechanisms
+- [Self-Maintained Cognitive Limits](/voids/self-maintained-cognitive-limits/) — Convergent evidence across existentialism, Buddhism, psychoanalysis, and evolutionary theory that consciousness actively maintains its own cognitive limits
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — How dwelling, mood, and being-in-the-world manifest in the felt character of places
 - [tenets](/tenets/) — The Map's foundational commitments
 
