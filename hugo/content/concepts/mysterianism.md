@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-17 01:41:00+00:00
+ai_modified: 2026-04-17 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -115,7 +115,7 @@ Property P may be the intrinsic categorical nature of matter. If so, cognitive c
 
 What does it feel like to approach a cognitive limit? The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) provides a diagnostic framework: different limits produce different felt qualities, from frustration (architectural limits) through satisfaction (adaptive limits) to illusory comprehension (the deepest adaptive constraints). The [edge-phenomenology](/voids/phenomenology-of-the-edge/) maps this at the experiential level—consistent features appear across contemplation, psychedelics, and philosophical inquiry: ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity.
 
-McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. [Altered states research](/voids/altered-states-as-void-probes/) sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. The [numinous-void](/voids/numinous-void/) provides a paradigm case: numinous experience produces profound certainty of contact with transcendent reality while simultaneously dismantling the reflective self-awareness needed to evaluate that certainty. Cognitive closure has a phenomenology, and that phenomenology is data.
+McGinn argues theoretically that certain properties lie beyond our conceptual reach; edge-phenomenology suggests we can *experience* that boundary. [Altered states research](/voids/altered-states-as-void-probes/) sharpens the question: do extraordinary states *transcend* cognitive closure or merely *approach* it? If they consistently produce the phenomenology of transcendence without yielding communicable insight, this supports McGinn. The [ineffable-encounter-void](/voids/ineffable-encounter-void/) provides a paradigm case: numinous experience produces profound certainty of contact with transcendent reality while simultaneously dismantling the reflective self-awareness needed to evaluate that certainty. Cognitive closure has a phenomenology, and that phenomenology is data.
 
 ## What the Limits Reveal
 
@@ -196,7 +196,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap that may reflect cognitive closure
 - [illusionism](/concepts/illusionism/) — The rival view that consciousness isn't real
 - [voids](/voids/) — The Map's framework for approaching cognitive limits
-- [numinous-void](/voids/numinous-void/) — Cognitive closure applied to numinous experience: the evaluating mind and the numinous mind cannot coexist
+- [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Cognitive closure applied to numinous experience: the evaluating mind and the numinous mind cannot coexist
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that mysterianism motivates
 
 ## References

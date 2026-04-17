@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [The Numinous Void](/voids/numinous-void/)
+**Article**: [The Numinous Void](/voids/ineffable-encounter-void/)
 **Previous review**: [2026-04-15](/reviews/deep-review-2026-04-15-numinous-void/) (earlier today)
 
 ## Pessimistic Analysis Summary

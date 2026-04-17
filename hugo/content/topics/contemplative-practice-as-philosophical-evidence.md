@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-27
-ai_modified: 2026-04-16 12:28:00+00:00
+ai_modified: 2026-04-17 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -49,7 +49,7 @@ related_articles:
 - '[[testing-the-map-from-inside]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
-- '[[numinous-void]]'
+- '[[ineffable-encounter-void]]'
 title: Contemplative Practice as Philosophical Evidence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -105,7 +105,7 @@ Perhaps the most philosophically significant convergence: trained contemplatives
 
 Three significant domains show genuine divergence, revealing the epistemic boundaries of contemplative evidence.
 
-**Metaphysical interpretation.** Buddhist traditions interpret the deconstructed self as revealing *śūnyatā* (emptiness). Hindu traditions interpret the same phenomenological deconstruction as revealing *ātman* (eternal self). Christian traditions see divine indwelling. These represent fundamentally different metaphysical conclusions drawn from similar phenomenological data. The [numinous-void](/voids/numinous-void/) analyses why this interpretive deadlock may be structural rather than temporary: numinous experience dismantles the very reflexive self-awareness needed to evaluate it, making the question of what contemplative practice reveals unanswerable from within.
+**Metaphysical interpretation.** Buddhist traditions interpret the deconstructed self as revealing *śūnyatā* (emptiness). Hindu traditions interpret the same phenomenological deconstruction as revealing *ātman* (eternal self). Christian traditions see divine indwelling. These represent fundamentally different metaphysical conclusions drawn from similar phenomenological data. The [ineffable-encounter-void](/voids/ineffable-encounter-void/) analyses why this interpretive deadlock may be structural rather than temporary: numinous experience dismantles the very reflexive self-awareness needed to evaluate it, making the question of what contemplative practice reveals unanswerable from within.
 
 **Ethical framing.** Buddhist practice aims at liberation through non-attachment; Hindu traditions at *mokṣa* through self-knowledge; Christian contemplation at union with God; secular mindfulness at psychological well-being. These different frameworks shape practice in ways that may influence findings.
 
@@ -218,7 +218,7 @@ The distinction between willed and exogenous attention in [contemplative neurosc
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — Micro-phenomenology of attentional recovery during practice
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — Clinical disruptions as involuntary counterpart to contemplative evidence
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic sensitivity deepening with training as evidence for irreducibility
-- [The Numinous Void](/voids/numinous-void/) — Why numinous experience dismantles the reflexive capacity needed to evaluate what contemplative practice reveals
+- [The Ineffable Encounter Void](/voids/ineffable-encounter-void/) — Why numinous experience dismantles the reflexive capacity needed to evaluate what contemplative practice reveals
 
 ## References
 

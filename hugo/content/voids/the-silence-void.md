@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-04-15 16:35:00+00:00
+ai_modified: 2026-04-17 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -35,7 +35,7 @@ related_articles:
 - '[[witness-consciousness]]'
 - '[[meditation-and-consciousness-modes]]'
 - '[[altered-states-as-void-probes]]'
-- '[[numinous-void]]'
+- '[[ineffable-encounter-void]]'
 title: The Silence Void
 topics:
 - '[[hard-problem-of-consciousness]]'

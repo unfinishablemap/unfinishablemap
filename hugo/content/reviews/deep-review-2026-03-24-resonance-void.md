@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [The Resonance Void](/voids/resonance-void/)
+**Article**: [The Resonance Void](/voids/ineffable-encounter-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

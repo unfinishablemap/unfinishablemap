@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-04-17 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[mysterianism]]'
 - '[[tenets]]'
-- '[[resonance-void]]'
+- '[[ineffable-encounter-void]]'
 title: The Mutation Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -75,7 +75,7 @@ Contemplative traditions have documented this class for centuries. The meditator
 
 Encountering a mutating thought has a distinctive phenomenology.
 
-There is the **shimmer**—a sense that something was there but shifted as attention reached for it. This resembles the [edge-experience](/voids/phenomenology-of-the-edge/) but differs crucially: at the edge, something is absent. In mutation, something *was present and changed*. The [resonance-void](/voids/resonance-void/) documents a related phenomenon: resonance dissolves under analytical attention, not because the content mutates into something else but because the receptive mode that sustains it is incompatible with interrogation.
+There is the **shimmer**—a sense that something was there but shifted as attention reached for it. This resembles the [edge-experience](/voids/phenomenology-of-the-edge/) but differs crucially: at the edge, something is absent. In mutation, something *was present and changed*. The [ineffable-encounter-void](/voids/ineffable-encounter-void/) documents a related phenomenon: resonance dissolves under analytical attention, not because the content mutates into something else but because the receptive mode that sustains it is incompatible with interrogation.
 
 There is the **substitution**—the sudden recognition that you are thinking *about* a feeling rather than *having* it. The meta-level has replaced the object level without consent.
 

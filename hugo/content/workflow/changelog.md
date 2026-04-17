@@ -1,13 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 20:17:00+00:00
+ai_modified: 2026-04-17 21:12:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 21:12 UTC - deep-review
+- **Status**: Success (convergence)
+- **File**: [boundary-and-projection](/voids/boundary-and-projection/)
+- **Word count**: 2585 → 2584 (length-neutral mode; article at 129% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (IIT terminology corrected from "conceptual structure" to "substrate" to match cited IIT 4.0 source)
+- **Enhancements made**: 0 (first review of post-coalesce unified form; precursor articles converged in prior reviews)
+- **Output**: [deep-review-2026-04-17-boundary-and-projection](/reviews/deep-review-2026-04-17-boundary-and-projection/)
+
+## 2026-04-17 20:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/) (coalesce cleanup across 20 files)
+- **Changes**: Retargeted `[resonance-void](/voids/ineffable-encounter-void/)` and `[numinous-void](/voids/ineffable-encounter-void/)` wikilinks to `[ineffable-encounter-void](/voids/ineffable-encounter-void/)` following 2026-04-17 coalesce. Updated 20 active files (frontmatter `related_articles` and inline prose); rephrased sentences that explicitly distinguished the two original registers so the single new article's two-register framing reads naturally. Skipped historical records (reviews/, research/, changelog).
+- **Published**: yes
+
+## 2026-04-17 20:41 UTC - coalesce
+- **Status**: Success
+- **Sources**: [resonance-void](/voids/resonance-void/), [numinous-void](/voids/numinous-void/)
+- **Target**: [ineffable-encounter-void](/voids/ineffable-encounter-void/)
+- **Archived**: [resonance-void](/archive/voids/resonance-void/), [numinous-void](/archive/voids/numinous-void/)
+- **References to review**: 20 (follow-up task added to todo)
+
+## 2026-04-17 20:28 UTC - deep-review
+- **Status**: Success (convergence)
+- **File**: [anesthesia-void](/voids/anesthesia-void/)
+- **Word count**: 2806 → 2806 (no net change; single clarity edit)
+- **Critical issues addressed**: 0 (previous review's criticals already resolved)
+- **Medium issues addressed**: 1 (opening-paragraph sleep-contrast self-muddle fixed)
+- **Enhancements made**: 0 (length-neutral mode; article already at 140% of soft threshold)
+- **Output**: [deep-review-2026-04-17-anesthesia-void](/reviews/deep-review-2026-04-17-anesthesia-void/)
 
 ## 2026-04-17 20:17 UTC - deep-review
 - **Status**: Success
@@ -35,7 +66,7 @@ title: Changelog
 
 ## 2026-04-17 19:43 UTC - refine-draft
 - **Status**: Success
-- **Files**: [tenet-generated-voids](/voids/tenet-generated-voids/), [voids](/voids/voids/), [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- **Files**: [tenet-generated-voids](/voids/tenet-generated-voids/), [voids](/voids/), [observation-and-measurement-void](/voids/observation-and-measurement-void/)
 - **Task**: P2 "Update references to coalesced dissolution-problem" — redirect wikilinks to absorbed target
 - **Changes**:
   - tenet-generated-voids.md: `related_articles` dissolution-problem → meta-epistemology-of-limits; body link (line 109) and Further Reading (line 176) now point to `meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution`
@@ -389,7 +420,7 @@ title: Changelog
 ## 2026-04-17 09:41 UTC - refine-draft
 - **Status**: Success
 - **Task**: Update wikilinks after 2026-04-17 coalesce of boundary-void.md + projection-void.md → boundary-and-projection.md
-- **Files updated**: [minimal-consciousness-void](/voids/minimal-consciousness-void/), [binding-void](/voids/binding-void/), [voids](/voids/voids/), [limits-reveal-structure](/voids/limits-reveal-structure/), [plurality-void](/voids/plurality-void/), [death-void](/voids/death-void/), [self-opacity](/voids/self-opacity/), [other-minds-void](/voids/other-minds-void/), [indexical-void](/voids/indexical-void/)
+- **Files updated**: [minimal-consciousness-void](/voids/minimal-consciousness-void/), [binding-void](/voids/binding-void/), [voids](/voids/), [limits-reveal-structure](/voids/limits-reveal-structure/), [plurality-void](/voids/plurality-void/), [death-void](/voids/death-void/), [self-opacity](/voids/self-opacity/), [other-minds-void](/voids/other-minds-void/), [indexical-void](/voids/indexical-void/)
 - **Changes**: Replaced `[boundary-void](/voids/boundary-and-projection/)` and `[projection-void](/voids/boundary-and-projection/)` wikilinks (in frontmatter, body, and Further Reading sections) with `[boundary-and-projection](/voids/boundary-and-projection/)`; revised adjacent prose so the descriptions reflect the unified void's dual scope (static perimeter + dynamic projection); de-duplicated related_articles entries where the rename collided with an existing `[projection-void](/voids/boundary-and-projection/)` link in self-opacity; bumped `ai_modified` on all nine files
 - **Scope**: topics/, concepts/, apex/ had zero references; voids/ covered. Research and archived review files intentionally left as-is per task notes
 - **Published**: yes
@@ -1106,7 +1137,7 @@ title: Changelog
 
 ## 2026-04-16 12:28 UTC - deep-review
 - **Status**: Success
-- **File**: [numinous-void](/voids/numinous-void/)
+- **File**: [numinous-void](/voids/ineffable-encounter-void/)
 - **Word count**: 1717 → 1678 (-39)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (duplicate Further Reading entry, verbatim repetition in Reflexivity Problem, cross-linking gaps)

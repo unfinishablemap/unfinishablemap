@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-17 09:26:00+00:00
+ai_modified: 2026-04-17 21:12:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: 'Consciousness has a perimeter it cannot locate and extends beyond 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-17 21:12:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -100,7 +100,7 @@ Independent lines of evidence confirm that the perimeter is actively maintained,
 
 ## What Theories Describe but Cannot Explain
 
-IIT's exclusion postulate claims consciousness has definite borders: only the maximally irreducible conceptual structure is conscious. This describes rather than explains—it specifies that consciousness must have definite boundaries without saying why they fall where they do, reformulating the problem in mathematical language without dissolving it.
+IIT's exclusion postulate claims consciousness has definite borders: only the maximally irreducible substrate is conscious. This describes rather than explains—it specifies that consciousness must have definite boundaries without saying why they fall where they do, reformulating the problem in mathematical language without dissolving it.
 
 Gómez-Emilsson and Percy (2023) offer a mechanistic account: EM field topology creates hard boundaries through phase transitions between coherence and decoherence. Promising as a physical correlate, but inheriting the standard explanatory gap—even if EM topology correlates perfectly with consciousness boundaries, no physical story has yet shown why *this* topology produces *this* experiential perimeter, or why functional transparency should feel like anything from the inside.
 

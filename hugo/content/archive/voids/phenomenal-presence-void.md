@@ -169,7 +169,7 @@ The unexplorable dimension is more speculative. If the phenomenal presence mecha
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own contribution
-- [resonance-void](/voids/resonance-void/) — Where consciousness encounters meaning as presence rather than absence—Marion's saturated phenomena in everyday form
+- [resonance-void](/voids/ineffable-encounter-void/) — Where consciousness encounters meaning as presence rather than absence—Marion's saturated phenomena in everyday form
 - [phenomenal-absence-void](/voids/phenomenal-quality-void/) — The complementary void: consciousness fabricates presence from absence, revealing the stamp mechanism's full scope
 
 ## References

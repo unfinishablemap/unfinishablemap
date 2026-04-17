@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-04-17 18:46:00+00:00
+ai_modified: 2026-04-17 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -54,7 +54,7 @@ The method appears across traditions: Christian *via negativa*, Maimonides's neg
 
 Nicholas of Cusa's *docta ignorantia* gave the approach its most systematic treatment. Human cognition works through measurement and comparison, but some subjects—the infinite, the absolute, consciousness itself—cannot be grasped through comparison because there is nothing else of their kind. Cusanus distinguished simple ignorance (not knowing that you don't know) from learned ignorance (knowing the limits of your knowledge). The latter is an achievement.
 
-The [numinous-void](/voids/numinous-void/) applies learned ignorance to lived experience: consciousness cannot determine from within whether numinous encounters constitute genuine transcendent contact or elaborate affective response. The numinous exceeds the evaluative capacity of the very consciousness it overwhelms.
+The [ineffable-encounter-void](/voids/ineffable-encounter-void/) applies learned ignorance to lived experience: consciousness cannot determine from within whether numinous encounters constitute genuine transcendent contact or elaborate affective response. The numinous exceeds the evaluative capacity of the very consciousness it overwhelms.
 
 Wittgenstein's "Whereof one cannot speak, thereof one must be silent" is often read as dismissive but was protective: silence preserves what speech would distort. The [silence void](/voids/the-silence-void/) takes this further—contemplative traditions report that even negation must cease, that the territory opens only when the activity of thinking itself stops.
 

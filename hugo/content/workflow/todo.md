@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/anesthesia-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 via expand-topic, never deep-reviewed. Voids article on the anaesthesia void — the impossibility of phenomenologically reporting on surgical-depth unconsciousness. Central to the Map's recent interface argument (load-bearing in perceptual-degradation-and-the-interface, disappearance-voids, altered-states-as-interface-evidence apex). Three cross-reviews and one pessimistic review have already engaged it, so this deep review should verify the composite picture rather than treat it as fresh — check that Mashour three-states taxonomy, memory-failure-dualism concession, and falsification conditions are internally coherent; verify cross-links to sleep-consciousness-void, death-void, disappearance-voids, consciousness-interface-development; confirm tenet alignment (Dualism, Bidirectional Interaction).
-- **Source**: chain (from expand-topic 2026-04-17)
-- **Generated**: 2026-04-17
-
-### P2: Deep review voids/boundary-and-projection.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 by coalescing boundary-void.md and projection-void.md, and subsequently condensed (3547 → target range). Never deep-reviewed. Voids article on the conjoined limits of self-other boundary-drawing and phenomenological projection. Verify the merge preserved load-bearing arguments from both source articles without redundancy, that the condensation did not drop essential distinctions, and that cross-references now resolve to the unified slug (earlier refine-draft updated wikilinks in minimal-consciousness-void, binding-void, plurality-void, death-void, self-opacity). Check tenet alignment and coherence with the voids taxonomy.
-- **Source**: chain (from coalesce 2026-04-17)
-- **Generated**: 2026-04-17
-
 ### P2: Deep review voids/transit-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2345,6 +2331,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review voids/boundary-and-projection.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 by coalescing boundary-void.md and projection-void.md, and subsequently condensed (3547 → target range). Never deep-reviewed. Voids article on the conjoined limits of self-other boundary-drawing and phenomenological projection. Verify the merge preserved load-bearing arguments from both source articles without redundancy, that the condensation did not drop essential distinctions, and that cross-references now resolve to the unified slug (earlier refine-draft updated wikilinks in minimal-consciousness-void, binding-void, plurality-void, death-void, self-opacity). Check tenet alignment and coherence with the voids taxonomy.
+- **Output**: obsidian/voids/boundary-and-projection.md
+
+### ✓ 2026-04-17: Update wikilinks to coalesced resonance-void/numinous-void
+- **Type**: refine-draft
+- **Notes**: Coalesce 2026-04-17 merged resonance-void.md and numinous-void.md into ineffable-encounter-void.md. The following active files contain `[resonance-void](/voids/ineffable-encounter-void/)` and/or `[numinous-void](/voids/ineffable-encounter-void/)` wikilinks that should be retargeted to `[ineffable-encounter-void](/voids/ineffable-encounter-void/)` (or rephrased where the surrounding sentence explicitly distinguishes the two original registers): obsidian/voids/voids.md, obsidian/voids/apophatic-cartography.md, obsidian/voids/mutation-void.md, obsidian/voids/three-kinds-of-void.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/apex/taxonomy-of-voids.md, obsidian/concepts/mysterianism.md, obsidian/topics/phenomenology-of-intellectual-life.md, obsidian/topics/comparative-phenomenology-of-meditative-traditions.md, obsidian/voids/emotional-epistemology-void.md, obsidian/topics/contemplative-practice-as-philosophical-evidence.md, obsidian/voids/aesthetic-void.md, obsidian/topics/aesthetics-and-consciousness.md, obsidian/voids/consciousness-only-territories.md, obsidian/voids/the-silence-void.md, obsidian/voids/altered-states-as-void-probes.md, obsidian/concepts/parsimony-epistemology.md, obsidian/topics/william-james-consciousness.md, obsidian/topics/psychedelics-and-the-filter-model.md, obsidian/topics/phenomenology-of-musical-understanding.md. Skip historical records (workflow/changelog.md, reviews/, research/). The archive notice will keep old URLs working.
+- **Output**: obsidian/voids/voids.md
+
+Task context:
+Coalesce 2026-04-17 merged resonance-void.md and numinous-void.md into ineffable-encounter-void.md. The following active files contain `[resonance-void](/voids/ineffable-encounter-void/)` and/or `[numinous-void](/voids/ineffable-encounter-void/)` wikilinks that should be retargeted to `[ineffable-encounter-void](/voids/ineffable-encounter-void/)` (or rephrased where the surrounding sentence explicitly distinguishes the two original registers): obsidian/voids/voids.md, obsidian/voids/apophatic-cartography.md, obsidian/voids/mutation-void.md, obsidian/voids/three-kinds-of-void.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/apex/taxonomy-of-voids.md, obsidian/concepts/mysterianism.md, obsidian/topics/phenomenology-of-intellectual-life.md, obsidian/topics/comparative-phenomenology-of-meditative-traditions.md, obsidian/voids/emotional-epistemology-void.md, obsidian/topics/contemplative-practice-as-philosophical-evidence.md, obsidian/voids/aesthetic-void.md, obsidian/topics/aesthetics-and-consciousness.md, obsidian/voids/consciousness-only-territories.md, obsidian/voids/the-silence-void.md, obsidian/voids/altered-states-as-void-probes.md, obsidian/concepts/parsimony-epistemology.md, obsidian/topics/william-james-consciousness.md, obsidian/topics/psychedelics-and-the-filter-model.md, obsidian/topics/phenomenology-of-musical-understanding.md. Skip historical records (workflow/changelog.md, reviews/, research/). The archive notice will keep old URLs working.
+
+### ✓ 2026-04-17: Deep review voids/anesthesia-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-17 via expand-topic, never deep-reviewed. Voids article on the anaesthesia void — the impossibility of phenomenologically reporting on surgical-depth unconsciousness. Central to the Map's recent interface argument (load-bearing in perceptual-degradation-and-the-interface, disappearance-voids, altered-states-as-interface-evidence apex). Three cross-reviews and one pessimistic review have already engaged it, so this deep review should verify the composite picture rather than treat it as fresh — check that Mashour three-states taxonomy, memory-failure-dualism concession, and falsification conditions are internally coherent; verify cross-links to sleep-consciousness-void, death-void, disappearance-voids, consciousness-interface-development; confirm tenet alignment (Dualism, Bidirectional Interaction).
+- **Output**: obsidian/voids/anesthesia-void.md
 
 ### ✓ 2026-04-17: Address pessimistic-2026-04-17b findings in anesthesia-void, split-brain-consciousness, quantum-interpretations
 - **Type**: refine-draft

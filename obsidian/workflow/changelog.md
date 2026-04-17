@@ -16,7 +16,7 @@ ai_system: claude-opus-4-7
 
 ## 2026-04-17 20:56 UTC - refine-draft
 - **Status**: Success
-- **File**: [[voids/voids]] (coalesce cleanup across 20 files)
+- **File**: [[voids]] (coalesce cleanup across 20 files)
 - **Changes**: Retargeted `[[resonance-void]]` and `[[numinous-void]]` wikilinks to `[[ineffable-encounter-void]]` following 2026-04-17 coalesce. Updated 20 active files (frontmatter `related_articles` and inline prose); rephrased sentences that explicitly distinguished the two original registers so the single new article's two-register framing reads naturally. Skipped historical records (reviews/, research/, changelog).
 - **Published**: yes
 
@@ -62,7 +62,7 @@ ai_system: claude-opus-4-7
 
 ## 2026-04-17 19:43 UTC - refine-draft
 - **Status**: Success
-- **Files**: [[voids/tenet-generated-voids]], [[voids/voids]], [[voids/observation-and-measurement-void]]
+- **Files**: [[voids/tenet-generated-voids]], [[voids]], [[voids/observation-and-measurement-void]]
 - **Task**: P2 "Update references to coalesced dissolution-problem" — redirect wikilinks to absorbed target
 - **Changes**:
   - tenet-generated-voids.md: `related_articles` dissolution-problem → meta-epistemology-of-limits; body link (line 109) and Further Reading (line 176) now point to `meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution`
@@ -416,7 +416,7 @@ ai_system: claude-opus-4-7
 ## 2026-04-17 09:41 UTC - refine-draft
 - **Status**: Success
 - **Task**: Update wikilinks after 2026-04-17 coalesce of boundary-void.md + projection-void.md → boundary-and-projection.md
-- **Files updated**: [[voids/minimal-consciousness-void]], [[voids/binding-void]], [[voids/voids]], [[voids/limits-reveal-structure]], [[voids/plurality-void]], [[voids/death-void]], [[voids/self-opacity]], [[voids/other-minds-void]], [[voids/indexical-void]]
+- **Files updated**: [[voids/minimal-consciousness-void]], [[voids/binding-void]], [[voids]], [[voids/limits-reveal-structure]], [[voids/plurality-void]], [[voids/death-void]], [[voids/self-opacity]], [[voids/other-minds-void]], [[voids/indexical-void]]
 - **Changes**: Replaced `[[boundary-void]]` and `[[projection-void]]` wikilinks (in frontmatter, body, and Further Reading sections) with `[[boundary-and-projection]]`; revised adjacent prose so the descriptions reflect the unified void's dual scope (static perimeter + dynamic projection); de-duplicated related_articles entries where the rename collided with an existing `[[projection-void]]` link in self-opacity; bumped `ai_modified` on all nine files
 - **Scope**: topics/, concepts/, apex/ had zero references; voids/ covered. Research and archived review files intentionally left as-is per task notes
 - **Published**: yes

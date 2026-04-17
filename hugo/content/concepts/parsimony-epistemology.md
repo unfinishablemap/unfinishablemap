@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-04 12:12:00+00:00
+ai_modified: 2026-04-17 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -175,7 +175,7 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 - [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) — The positive case that dualism is simpler once all costs are counted
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The epistemology of epistemic limits themselves
 - [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — The measurement problem as a case where adding consciousness simplifies explanation
-- [numinous-void](/voids/numinous-void/) — Where parsimony may systematically exclude evidence from the domain where it matters most
+- [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Where parsimony may systematically exclude evidence from the domain where it matters most
 - [Tenet: Occam's Razor Has Limits](/tenets/#occams-limits)
 
 ## References

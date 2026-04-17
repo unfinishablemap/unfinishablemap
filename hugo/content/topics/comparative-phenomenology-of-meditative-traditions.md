@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-04-16 12:28:00+00:00
+ai_modified: 2026-04-17 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,7 +33,7 @@ related_articles:
 - '[[epistemology-of-convergence-arguments]]'
 - '[[indian-philosophy-of-mind]]'
 - '[[the-hard-problem-in-non-western-philosophy]]'
-- '[[numinous-void]]'
+- '[[ineffable-encounter-void]]'
 title: Comparative Phenomenology of Meditative Traditions
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -89,7 +89,7 @@ A third convergence zone involves states where the ordinary distinction between 
 
 **Dzogchen's rigpa** in Tibetan Buddhism describes "intrinsic awareness" that is neither subject nor object—the natural state before the subject-object split is constructed.
 
-The structural convergence: ordinary experience divides into experiencer and experienced. Advanced contemplative practice across traditions reports that this division can dissolve, revealing a mode of experience that precedes or transcends the subject-object structure. The [numinous-void](/voids/numinous-void/) analyses a specific consequence of this collapse: when the evaluating subject dissolves during numinous experience, the reflexive capacity needed to assess whether the experience is veridical dissolves with it. The metaphysical interpretation varies wildly—monist idealism (Advaita), emptiness of inherent existence (Buddhism), theistic union (Christianity, Sufism)—but the phenomenological structure is recognisable across traditions.
+The structural convergence: ordinary experience divides into experiencer and experienced. Advanced contemplative practice across traditions reports that this division can dissolve, revealing a mode of experience that precedes or transcends the subject-object structure. The [ineffable-encounter-void](/voids/ineffable-encounter-void/) analyses a specific consequence of this collapse: when the evaluating subject dissolves during numinous experience, the reflexive capacity needed to assess whether the experience is veridical dissolves with it. The metaphysical interpretation varies wildly—monist idealism (Advaita), emptiness of inherent existence (Buddhism), theistic union (Christianity, Sufism)—but the phenomenological structure is recognisable across traditions.
 
 ## Zones of Divergence
 
@@ -189,7 +189,7 @@ The divergence zones illustrate [Occam's Razor Has Limits](/tenets/#occams-limit
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Defence of first-person methodology
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Epistemic foundations of contemplative inquiry
 - [The Absorption Void](/voids/disappearance-voids/) — The phenomenology of absorptive states as cognitive limit
-- [The Numinous Void](/voids/numinous-void/) — Why subject-object collapse in numinous experience prevents epistemic evaluation of its veridicality
+- [The Ineffable Encounter Void](/voids/ineffable-encounter-void/) — Why subject-object collapse in numinous experience prevents epistemic evaluation of its veridicality
 
 ## References
 

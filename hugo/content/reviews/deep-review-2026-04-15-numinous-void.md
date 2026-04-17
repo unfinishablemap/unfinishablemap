@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [The Numinous Void](/voids/numinous-void/)
+**Article**: [The Numinous Void](/voids/ineffable-encounter-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -61,11 +61,11 @@ All six adversarial personas engaged. No critical issues arose because the artic
 
 ### Enhancements Made
 - Added inline cross-link to [mysterianism](/concepts/mysterianism/) in the reflexivity problem section (cognitive closure connection)
-- Added inline cross-link to [resonance-void](/voids/resonance-void/) in the awe section (convergent evidence)
-- Added [resonance-void](/voids/resonance-void/), [mysterianism](/concepts/mysterianism/), and [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) to Further Reading
+- Added inline cross-link to [resonance-void](/voids/ineffable-encounter-void/) in the awe section (convergent evidence)
+- Added [resonance-void](/voids/ineffable-encounter-void/), [mysterianism](/concepts/mysterianism/), and [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) to Further Reading
 
 ### Cross-links Added (Inbound — Orphan Integration)
-- [resonance-void](/voids/resonance-void/) — inline mention of numinous-void in Otto discussion + Further Reading
+- [resonance-void](/voids/ineffable-encounter-void/) — inline mention of numinous-void in Otto discussion + Further Reading
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — inline sentence after Otto's numinous mention in Phenomenological Cluster
 - [mysterianism](/concepts/mysterianism/) — inline sentence in Phenomenology of Cognitive Closure section + Further Reading
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — inline sentence after Stace cross-cultural convergence + Further Reading

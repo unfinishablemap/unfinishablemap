@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-24
 **Article**: [A Taxonomy of Voids](/apex/taxonomy-of-voids/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-taxonomy-of-voids/)
-**Context**: Cross-review considering new [resonance void](/voids/resonance-void/) article
+**Context**: Cross-review considering new [resonance void](/voids/ineffable-encounter-void/) article
 
 ## Pessimistic Analysis Summary
 
@@ -57,7 +57,7 @@ None identified. The new material references published sources (Gendlin 1997, Ot
 - Added resonance-void and phenomenal-presence-void to related_articles
 
 ### Cross-links Added
-- [resonance-void](/voids/resonance-void/) (new, in phenomenological cluster and related_articles)
+- [resonance-void](/voids/ineffable-encounter-void/) (new, in phenomenological cluster and related_articles)
 - [phenomenal-presence-void](/voids/phenomenal-quality-void/) (new, in phenomenological cluster and related_articles)
 - [mutation-void](/voids/mutation-void/) (new cross-reference in failure signatures section, contrasting dissolution vs. transformation)
 

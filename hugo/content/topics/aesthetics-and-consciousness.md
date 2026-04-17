@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-17 20:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -71,7 +71,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-life]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[phenomenology-of-creative-insight]]'
-- '[[resonance-void]]'
+- '[[ineffable-encounter-void]]'
 title: Aesthetics and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -169,7 +169,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Cross-traditional convergence on aesthetic and evaluative qualia, including Indian rasa theory
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [cognitive closure](/concepts/mysterianism/) — Why the structure-experience gap may be permanent
-- [resonance-void](/voids/resonance-void/) — Consciousness encountering meaning beyond articulation—broader than beauty, with the same phenomenological structure
+- [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Consciousness encountering meaning beyond articulation—broader than beauty, with the same phenomenological structure
 - [quantum-holism-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/) — Quantum approaches to the binding problem
 
 ## References
