@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review metarepresentation-threshold.md against animal-consciousness and cognitive-distinctiveness cluster
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept page concepts/metarepresentation-threshold.md (2026-04-13) names the boundary between procedural metacognition and declarative metarepresentation as where consciousness becomes causally necessary for cognition. Deep-reviewed 2026-04-15 but never cross-integrated. Review topics/animal-consciousness.md, topics/ai-consciousness.md, concepts/baseline-cognition.md, concepts/consciousness-and-cognitive-distinctiveness.md, concepts/theory-of-mind.md, and concepts/teaching-as-metarepresentation.md for (a) cross-linking opportunities to the new threshold concept, (b) whether the procedural/declarative distinction reframes existing claims about animal and AI cognition, (c) consistency on where the Map locates the consciousness-necessary boundary.
-- **Source**: chain (from metarepresentation-threshold.md)
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review comparative-phenomenology-of-mathematical-insight.md against mathematics-consciousness cluster
 - **Type**: cross-review
 - **Status**: pending
@@ -2260,6 +2253,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review metarepresentation-threshold.md against animal-consciousness and cognitive-distinctiveness cluster
+- **Type**: cross-review
+- **Notes**: New concept page concepts/metarepresentation-threshold.md (2026-04-13) names the boundary between procedural metacognition and declarative metarepresentation as where consciousness becomes causally necessary for cognition. Deep-reviewed 2026-04-15 but never cross-integrated. Review topics/animal-consciousness.md, topics/ai-consciousness.md, concepts/baseline-cognition.md, concepts/consciousness-and-cognitive-distinctiveness.md, concepts/theory-of-mind.md, and concepts/teaching-as-metarepresentation.md for (a) cross-linking opportunities to the new threshold concept, (b) whether the procedural/declarative distinction reframes existing claims about animal and AI cognition, (c) consistency on where the Map locates the consciousness-necessary boundary.
+- **Output**: obsidian/concepts/metarepresentation-threshold.md -- Context: Cross-review metarepresentation-threshold.md against animal-consciousness and cognitive-distinctiveness cluster
 
 ### ✓ 2026-04-17: Update references to coalesced mind-space/dimensionality voids
 - **Type**: refine-draft

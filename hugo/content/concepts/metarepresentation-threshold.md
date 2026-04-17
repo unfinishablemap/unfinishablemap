@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-15 08:41:00+00:00
+ai_modified: 2026-04-17 03:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -14,13 +14,13 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[teaching-as-metarepresentation]]'
 created: 2026-04-13
-date: &id001 2026-04-13
+date: &id001 2026-04-17
 description: The boundary between procedural metacognition and declarative metarepresentation
   marks where consciousness becomes causally necessary for cognition.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 08:41:00+00:00
+last_deep_review: 2026-04-17 03:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -56,6 +56,7 @@ This capacity for declarative metarepresentation enables distinctly human cognit
 - **Cumulative culture**: Improving cultural practices requires representing them as practices—seeing a technique not just as something one does but as something that *could be done differently*.
 - **Logical reasoning**: Evaluating one's own inferences requires treating beliefs as objects that can be examined for consistency. Lieberman et al. (2002) found that cognitive load on conscious reflective processing specifically impairs higher-order reasoning while leaving automatic reflexive processes unaffected.
 - **Counterfactual thinking**: Imagining how things might have gone differently requires representing actual states of affairs *as* actual—distinguishing them from merely possible alternatives.
+- **Transformational creativity**: Changing the rules of a domain rather than merely recombining within them—what [exits the zone of latent solutions](/topics/consciousness-and-cognitive-distinctiveness/)—requires representing one's own methods as objects subject to revision.
 - **Teaching**: Transmitting knowledge intentionally requires a model of what the learner does and does not know—a representation of another mind's representational states.
 - **Moral agency**: Evaluating whether one *should* act a certain way requires representing one's own desires and impulses as mental states subject to normative assessment.
 
@@ -67,7 +68,7 @@ The comparative record shows no clear intermediate cases among well-studied spec
 
 Neurological evidence points in the same direction. The anterior prefrontal cortex (aPFC), particularly Brodmann area 10, is disproportionately enlarged in humans relative to other primates and is specifically associated with metacognitive accuracy—the ability to correctly assess one's own confidence. Damage to this region impairs explicit metacognitive judgements while leaving first-order task performance intact. The neural substrate for metarepresentation appears to be an all-or-nothing anatomical feature rather than a gradually scalable capacity.
 
-The [baseline cognition hypothesis](/concepts/baseline-cognition/) provides additional structural evidence. If consciousness were removed from human cognition, the remaining unconscious capacities would closely resemble great ape cognition: [working memory](/concepts/working-memory/) of approximately 2±1 items, procedural but not declarative metacognition, product-oriented but not process-oriented social learning. This suggests the metarepresentation threshold tracks the presence or absence of consciousness rather than simply reflecting quantitative differences in neural complexity.
+The [baseline cognition hypothesis](/concepts/baseline-cognition/) provides additional structural evidence. If consciousness were removed from human cognition, the remaining unconscious capacities would closely resemble great ape cognition: [working memory](/concepts/working-memory/) of approximately 2±1 items, procedural but not declarative metacognition, product-oriented but not process-oriented social learning. This suggests the metarepresentation threshold tracks the presence or absence of consciousness rather than simply reflecting quantitative differences in neural complexity. The selective pattern of the human-ape cognitive gap—dramatic differences on tasks requiring explicit representation, modest differences on perceptual speed and associative learning—matches precisely what a [consciousness-driven threshold](/topics/consciousness-and-cognitive-distinctiveness/) would predict rather than a uniform scaling effect.
 
 ## Implications for Higher-Order Theories
 

@@ -1,13 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 02:55:00+00:00
+ai_modified: 2026-04-17 03:14:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-17'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-17 03:14 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 459
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1
+- **Output**: [tenet-check-2026-04-17](/reviews/tenet-check-2026-04-17/)
+
+## 2026-04-17 03:10 UTC - deep-review
+- **Status**: Success
+- **File**: [metarepresentation-threshold](/concepts/metarepresentation-threshold/)
+- **Context**: Cross-review against animal-consciousness and cognitive-distinctiveness cluster; third review (prior 2026-04-14, 2026-04-15 established substantive stability)
+- **Word count**: 1391 → 1445 (+54)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (incomplete in-body cross-reference to cognitive-distinctiveness cluster)
+- **Enhancements made**: 2 (transformational-creativity bullet with cognitive-distinctiveness link; selective-gap-pattern sentence in Evidence section)
+- **Flagged for follow-up**: animal-consciousness.md misattributes the 2008 DeWall/Baumeister/Masicampo paper to Lieberman — address in next deep-review of that file, not across-file edit
+- **Output**: [deep-review-2026-04-17-metarepresentation-threshold](/reviews/deep-review-2026-04-17-metarepresentation-threshold/)
 
 ## 2026-04-17 02:55 UTC - refine-draft
 - **Status**: Success
