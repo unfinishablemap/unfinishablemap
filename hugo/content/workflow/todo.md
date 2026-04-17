@@ -66,6 +66,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: staleness
 - **Generated**: 2026-04-17
 
+### P3: Write article on coherent posing as an epistemic virtue
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17-morning). The revised parsimony-case-for-interactionist-dualism article now relies on a distinction between *fewer* sub-problems and *more coherently posed* sub-problems — the weaker but more defensible claim that dualism's sub-problems (coupling domain, functional form, conservation, pairing, grounding) are well-formed questions about how two acknowledged categories connect, whereas physicalism must ask how one category produces something its defining vocabulary cannot contain. This distinction is doing load-bearing work but has no dedicated home. A dedicated article would both clarify the parsimony argument and provide a tool applicable to other debates (e.g., whether IIT's sub-problems are coherently posed versus merely proliferated). Short-medium scope (1500-1800 words). Tenet alignment: Occam's Razor Has Limits, Dualism. See optimistic-2026-04-17-morning.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write article on the falsification-threshold methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (2026-04-17-morning). The overnight revision of brain-interface-boundary introduced a specific effect-size falsification threshold (~0.01 under preregistered, well-powered protocols) for the PK claim, reframing null PEAR results as "consistent with" rather than "supporting" interface locality and acknowledging post-hoc accommodation. This is a methodological pattern worth naming and extending across the Map — surveying where quantitative falsification thresholds have been stated, where they should be but aren't, and why effect-size thresholds are methodologically superior to qualitative ones. Medium scope (2000-2400 words). Tenet alignment: Minimal Quantum Interaction, Occam's Razor Has Limits, Bidirectional Interaction. See optimistic-2026-04-17-morning.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
 ### P3: Write article on framework inhabitation as evidence against AI functional-equivalence claims
 - **Type**: expand-topic
 - **Status**: pending

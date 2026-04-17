@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot survey the geomet
 created: 2026-02-25
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-17T05:55:00+00:00
+ai_modified: 2026-04-17T06:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-17T06:25:00+00:00
 coalesced_from:
   - "/voids/mind-space-void/"
   - "/voids/dimensionality-void/"
