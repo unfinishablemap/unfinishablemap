@@ -2278,6 +2278,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce
 - **Generated**: 2026-04-16
 
+### P3: Write topic article on compound failure signatures as an evidential category
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-17-afternoon review. The "compound failure signature" inference pattern is now load-bearing in [[anesthesia-void]], [[clinical-dissociation-as-systematic-evidence]], [[apex/altered-states-as-interface-evidence]], and [[neurological-dissociations-as-interface-architecture]] but lacks a canonical home. The article should (a) name the inference pattern explicitly — that the joint distribution of independent failure modes constrains theories more than any single failure does, (b) walk through three or four worked examples (Mashour anaesthesia three-states; clinical-dissociation four-windows matrix; altered-states convergence matrix; neurological dissociation channel mapping), (c) identify what makes the pattern epistemically more powerful than single-phenomenon evidence (the non-coincidence of independent failures along the same architectural axes), (d) connect to the broader convergence-argument-for-dualism methodology while being more specific than that article currently is. Also a methodological contribution to philosophy of mind in its own right. Target section: topics/. See optimistic-2026-04-17-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write concept page on Mashour three-states taxonomy of anaesthesia
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-17-afternoon review. The Mashour 2023 distinction between unconsciousness, disconnected consciousness, and connected consciousness is now load-bearing in [[anesthesia-void]], [[topics/anaesthesia-and-the-consciousness-interface]], and [[apex/altered-states-as-interface-evidence]] but lacks a dedicated concept page. The page would (a) present the taxonomy carefully with current evidence for each state, (b) identify which intervention modalities (drugs, doses, monitoring techniques) produce which states most reliably, (c) work through the philosophical implications of each state for theories of consciousness, (d) serve as a stable referent for future articles touching anaesthesia. Target section: concepts/. Estimated 1500-2000 words. See optimistic-2026-04-17-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write topic article on memory-failure dualism as an alternative to interface-disruption
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-17-afternoon review. [[anesthesia-void]] admits memory-failure dualism is a live alternative to interface-disruption dualism, but the position itself is not developed anywhere on the Map. A topic article would present the strongest case for memory-failure dualism (Locke's gambit, modern proponents like Sebastian, the dispositionalist argument that experience can occur without being remembered, contemplative-tradition resources for the position), then identify where memory-failure faces evidential difficulty (three-states taxonomy, dreams as proof-of-concept for retrievable unconsciousness experience, the consilience problem). The Map should engage its strongest dualist competitor as carefully as it engages physicalism. Target section: topics/. See optimistic-2026-04-17-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
+### P3: Write topic article on pharmacological specification of the consciousness-brain interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-17-afternoon review. The Map's [[apex/interface-specification-programme]] identifies six converging lines of inquiry, and [[apex/altered-states-as-interface-evidence]] contributes a seventh. A topic-level article would argue specifically that pharmacological dissociations constitute the highest-resolution probe of interface architecture currently available — receptor-level specificity allows component-level isolation that lesion studies cannot achieve. Walk through agent-by-agent dissociations (propofol/GABA-A, ketamine/NMDA, midazolam/benzodiazepine, ketamine's environment-decoupling, neuromuscular blockers) and identify the interface map that emerges. Grounds an otherwise abstract programme in well-characterised molecular evidence. Target section: topics/. Estimated 2500-3000 words. See optimistic-2026-04-17-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-17
+
 ## Completed Tasks
 
 
