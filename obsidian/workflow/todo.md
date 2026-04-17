@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced boundary/projection voids
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-17 merged `boundary-void.md` and `projection-void.md` into `boundary-and-projection.md`. The following active files still wikilink the archived slugs and should be reviewed to either update to `[[boundary-and-projection]]` or leave pointing to the archive (which retains the URL for external links): `voids/voids.md`, `voids/self-opacity.md`, `voids/binding-void.md`, `voids/indexical-void.md`, `voids/other-minds-void.md`, `voids/minimal-consciousness-void.md`, `voids/plurality-void.md`, `voids/death-void.md`, `voids/limits-reveal-structure.md`, `workflow/highlights.md`. Prefer updating to the live article while preserving any distinction notes that referenced only one of the two original voids.
-- **Source**: coalesce
-- **Generated**: 2026-04-17
-
 ### P2: Deep review apex/phenomenology-of-consciousness-doing-work.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2266,6 +2259,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Update references to coalesced boundary/projection voids
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-17 merged `boundary-void.md` and `projection-void.md` into `boundary-and-projection.md`. The following active files still wikilink the archived slugs and should be reviewed to either update to `[[boundary-and-projection]]` or leave pointing to the archive (which retains the URL for external links): `voids/voids.md`, `voids/self-opacity.md`, `voids/binding-void.md`, `voids/indexical-void.md`, `voids/other-minds-void.md`, `voids/minimal-consciousness-void.md`, `voids/plurality-void.md`, `voids/death-void.md`, `voids/limits-reveal-structure.md`, `workflow/highlights.md`. Prefer updating to the live article while preserving any distinction notes that referenced only one of the two original voids.
+- **Output**: None -- Context: Update references to coalesced boundary/projection voids
 
 ### ✓ 2026-04-17: Deep review apex/consciousness-and-agency.md
 - **Type**: deep-review
