@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/thought-stream-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-13, condensed on 2026-04-17 (3412 → trimmed), never deep-reviewed. Voids article on the impossibility of stepping outside the thought-stream to observe its structure without altering it. Post-condensation review should verify that condensation preserved the argument's core (the observer-thought identification problem and its implications for introspection), that the article remains distinct from thoughts-that-slip-away and spontaneous-thought-void, and that cross-references survived the trim. Check tenet alignment and coherence with the Map's treatment of introspection and self-opacity.
-- **Source**: staleness
-- **Generated**: 2026-04-17
-
 ### ~~P3: Write article on the fatigue void~~ ✅
 - **Type**: expand-topic
 - **Status**: superseded
@@ -2316,6 +2309,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Deep review voids/thought-stream-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-13, condensed on 2026-04-17 (3412 → trimmed), never deep-reviewed. Voids article on the impossibility of stepping outside the thought-stream to observe its structure without altering it. Post-condensation review should verify that condensation preserved the argument's core (the observer-thought identification problem and its implications for introspection), that the article remains distinct from thoughts-that-slip-away and spontaneous-thought-void, and that cross-references survived the trim. Check tenet alignment and coherence with the Map's treatment of introspection and self-opacity.
+- **Output**: obsidian/voids/thought-stream-void.md
 
 ### ✓ 2026-04-17: Deep review voids/metaphor-void.md
 - **Type**: deep-review
