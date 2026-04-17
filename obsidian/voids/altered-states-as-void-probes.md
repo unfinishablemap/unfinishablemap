@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether altered states of consciousness re
 created: 2026-02-03
 modified: 2026-02-03
 human_modified: null
-ai_modified: 2026-04-15T16:35:00+00:00
+ai_modified: 2026-04-17T20:56:00+00:00
 draft: false
 last_deep_review: 2026-03-15T14:49:00+00:00
 topics:
@@ -73,7 +73,7 @@ ASCs produce characteristic phenomenological signatures:
 
 **Transcendence of time.** Temporal frameworks collapse. Since time may be partially an artifact of how minds organize experience, temporal dissolution may mark the limits of that organization rather than access to timeless truth. (The [[sleep-consciousness-void|dream consciousness void]] explores a parallel case: waking and dreaming each have territories inaccessible to the other.)
 
-**Noetic quality.** The experience feels "more real than real"—a conviction of encountering something beyond ordinary experience. This might indicate genuine contact with a wider reality, or it might be what [[mysterianism|cognitive closure]] feels like from inside—the conviction arising precisely because metacognitive systems fail to flag the experience as confused. The [[numinous-void]] examines this question most directly: numinous experience dismantles the very reflexive self-awareness needed to evaluate it, making the transcendence-versus-illusion question structurally unanswerable from within.
+**Noetic quality.** The experience feels "more real than real"—a conviction of encountering something beyond ordinary experience. This might indicate genuine contact with a wider reality, or it might be what [[mysterianism|cognitive closure]] feels like from inside—the conviction arising precisely because metacognitive systems fail to flag the experience as confused. The [[ineffable-encounter-void]] examines this question most directly: numinous experience dismantles the very reflexive self-awareness needed to evaluate it, making the transcendence-versus-illusion question structurally unanswerable from within.
 
 ## Cross-Method Convergence
 
@@ -151,7 +151,7 @@ The apophatic interpretation preserves ASC significance while maintaining episte
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — State-dependent cognition across conscious modes
 - [[voids|Voids in the Map]] — The broader context of cognitive limits
 - [[filter-theory|Filter Theory]] — The brain as receiver rather than producer
-- [[numinous-void|The Numinous Void]] — The reflexivity problem at the heart of numinous experience: why evaluation is structurally impossible
+- [[ineffable-encounter-void|The Ineffable Encounter Void]] — The reflexivity problem at the heart of numinous experience: why evaluation is structurally impossible
 
 ## References
 

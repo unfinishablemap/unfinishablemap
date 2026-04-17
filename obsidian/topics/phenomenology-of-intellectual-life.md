@@ -4,7 +4,7 @@ description: "Intellectual life has irreducible phenomenal character: the work o
 created: 2026-01-22
 modified: 2026-04-03
 human_modified: null
-ai_modified: 2026-04-15T12:05:00+00:00
+ai_modified: 2026-04-17T20:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,7 +69,7 @@ related_articles:
   - "[[phenomenology-of-anticipation]]"
   - "[[topics/phenomenal-value-realism]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
-  - "[[resonance-void]]"
+  - "[[ineffable-encounter-void]]"
   - "[[comparative-phenomenology-of-mathematical-insight]]"
 ai_contribution: 100
 author: null
@@ -159,7 +159,7 @@ The core mode: grasping what something means, understanding a proof, comprehendi
 
 ### Aesthetic Meaning
 
-[[phenomenology-of-musical-understanding|Musical understanding]] provides the clearest case of meaning that cannot be stated propositionally. When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning cannot be translated into any assertion. The music generates felt significance directly, without passing through propositional content. The meaning of a harmonic resolution is constituted by its phenomenal character — by the felt release of tension, the satisfaction of an anticipated continuation arriving. The [[resonance-void]] investigates what happens when this kind of meaning exceeds articulation entirely.
+[[phenomenology-of-musical-understanding|Musical understanding]] provides the clearest case of meaning that cannot be stated propositionally. When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning cannot be translated into any assertion. The music generates felt significance directly, without passing through propositional content. The meaning of a harmonic resolution is constituted by its phenomenal character — by the felt release of tension, the satisfaction of an anticipated continuation arriving. The [[ineffable-encounter-void]] investigates what happens when this kind of meaning exceeds articulation entirely.
 
 ### Temporal Meaning
 
@@ -276,7 +276,7 @@ None of these findings currently obtains.
 - [[phenomenology-of-anticipation]] — The forward-directed structure of experience
 - [[topics/phenomenal-value-realism]] — Value as intrinsic to conscious experience
 - [[evaluative-phenomenal-character|phenomenal normativity]] — Logical compulsion as one species of normative phenomenal property
-- [[resonance-void]] — Where felt significance exceeds articulation
+- [[ineffable-encounter-void]] — Where felt significance exceeds articulation
 
 ## References
 

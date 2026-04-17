@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 20:28:00+00:00
+ai_modified: 2026-04-17 20:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 20:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]] (coalesce cleanup across 20 files)
+- **Changes**: Retargeted `[[resonance-void]]` and `[[numinous-void]]` wikilinks to `[[ineffable-encounter-void]]` following 2026-04-17 coalesce. Updated 20 active files (frontmatter `related_articles` and inline prose); rephrased sentences that explicitly distinguished the two original registers so the single new article's two-register framing reads naturally. Skipped historical records (reviews/, research/, changelog).
+- **Published**: yes
 
 ## 2026-04-17 20:41 UTC - coalesce
 - **Status**: Success

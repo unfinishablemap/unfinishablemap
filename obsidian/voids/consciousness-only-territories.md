@@ -3,7 +3,7 @@ title: "Consciousness-Only Territories"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-04-15T16:35:00+00:00
+ai_modified: 2026-04-17T20:56:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -161,7 +161,7 @@ If genuine consciousness-only territories exist, several implications follow.
 - [[hard-problem-of-consciousness|The Hard Problem]] — Why explaining consciousness resists physical reduction
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know whether limits are genuine or merely apparent
 - [[the-silence-void|The Silence Void]] — Territory accessible only through the cessation of cognition itself
-- [[numinous-void|The Numinous Void]] — A candidate consciousness-only territory where numinous experience resists third-person evaluation
+- [[ineffable-encounter-void|The Ineffable Encounter Void]] — A candidate consciousness-only territory where numinous experience resists third-person evaluation
 
 ## References
 

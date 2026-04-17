@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-04T12:12:00+00:00
+ai_modified: 2026-04-17T20:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -171,7 +171,7 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 - [[parsimony-case-for-interactionist-dualism]] — The positive case that dualism is simpler once all costs are counted
 - [[meta-epistemology-of-limits]] — The epistemology of epistemic limits themselves
 - [[von-neumann-wigner-interpretation]] — The measurement problem as a case where adding consciousness simplifies explanation
-- [[numinous-void]] — Where parsimony may systematically exclude evidence from the domain where it matters most
+- [[ineffable-encounter-void]] — Where parsimony may systematically exclude evidence from the domain where it matters most
 - [[tenets#^occams-limits|Tenet: Occam's Razor Has Limits]]
 
 ## References

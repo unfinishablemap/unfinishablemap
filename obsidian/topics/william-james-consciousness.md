@@ -4,7 +4,7 @@ description: "James's radical empiricism treats experience as fundamental realit
 created: 2026-02-01
 modified: 2026-02-01
 human_modified:
-ai_modified: 2026-04-02T17:38:00+00:00
+ai_modified: 2026-04-17T20:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -195,7 +195,7 @@ James's philosophy aligns with all five tenets, though the alignment varies in d
 - [[process-philosophy]] — Whitehead's development of Jamesian themes
 - [[epistemic-advantages-of-dualism]] — Why maintaining dualism as live option is epistemically responsible
 - [[pragmatisms-path-to-dualism]] — James's pragmatic opening developed into a full argument for dualism
-- [[numinous-void]] — James's *Varieties* as evidence for a structural limit on evaluating numinous experience
+- [[ineffable-encounter-void]] — James's *Varieties* as evidence for a structural limit on evaluating numinous experience
 - [[tenets]] — The Map's foundational commitments
 
 ## References

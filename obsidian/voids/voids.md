@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-04-17T19:43:00+00:00
+ai_modified: 2026-04-17T20:56:00+00:00
 draft: false
 last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
@@ -143,7 +143,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why experience's immediacy and felt realness hide their own mechanisms
 - [[the-silence-void|The Silence Void]] — Whether cognitive silence accesses truths that reasoning cannot reach
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers richness far beyond survival requirements
-- [[resonance-void|The Resonance Void]] — Why consciousness encounters meaning it cannot articulate or inspect
+- [[ineffable-encounter-void|The Ineffable Encounter Void]] — Why consciousness encounters meaning and sacred significance it cannot articulate or evaluate from within
 - [[conceptual-metabolism-void|The Conceptual Metabolism Void]] — How understanding consumes concepts irreversibly, destroying their pre-understood form
 
 ### Types of Cognitive Limits

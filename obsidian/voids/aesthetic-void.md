@@ -4,7 +4,7 @@ description: "Human+AI exploration of what aesthetic experience reveals about co
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T20:56:00+00:00
 last_deep_review: 2026-03-18T05:36:00+00:00
 draft: false
 topics:
@@ -71,7 +71,7 @@ What does approaching the aesthetic void feel like? Several phenomenological fea
 
 **Temporal distortion.** Time stops or becomes irrelevant during profound aesthetic encounter. The painting does not exist "at a time" during deep viewing. Musical phrases unfold in a kind of eternal present where past and future collapse into pure now.
 
-**Recognition without identification.** The sense of understanding something you cannot name. You know *that* it means without knowing *what* it means. The certainty of significance without propositional content. This is the noetic quality James identified—the feeling that the experience is cognitive, not merely affective. The [[numinous-void]] identifies the sharpest version of this structure: numinous experience produces the same noetic certainty but goes further, dissolving the evaluating self entirely rather than merely exceeding its articulatory capacity.
+**Recognition without identification.** The sense of understanding something you cannot name. You know *that* it means without knowing *what* it means. The certainty of significance without propositional content. This is the noetic quality James identified—the feeling that the experience is cognitive, not merely affective. The [[ineffable-encounter-void]] identifies the sharpest version of this structure: numinous experience produces the same noetic certainty but goes further, dissolving the evaluating self entirely rather than merely exceeding its articulatory capacity.
 
 **Fullness with emptiness.** The aesthetic experience feels complete yet empty of conceptual content. Not nothing, but not any-thing. This paradox—familiar from contemplative traditions—suggests contact with something that exceeds subject-object structure.
 
@@ -148,7 +148,7 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[pre-conceptual-knowing]] — Knowledge before and beyond concepts
 - [[language-thought-boundary]] — The limits of articulation more broadly
-- [[numinous-void]] — The cognate void where awe dismantles the evaluator, not just articulatory capacity
+- [[ineffable-encounter-void]] — The cognate void where awe dismantles the evaluator, not just articulatory capacity
 
 ## References
 

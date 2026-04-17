@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-30T16:44:00+00:00
+ai_modified: 2026-04-17T20:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -81,7 +81,7 @@ Several lines of evidence support genuine epistemic value rather than mere confa
 
 **Selective access.** Psychedelic experiences are not random. Users frequently report access to specific suppressed material—childhood memories, repressed emotional patterns, relational dynamics they had not consciously recognised. Filter theory predicts this selectivity: loosening the filter grants access to genuinely suppressed information, not arbitrary hallucination.
 
-**Cross-cultural convergence.** Walter Stace documented common phenomenological features across independent mystical traditions: ego dissolution, sense of unity, ineffability, noetic quality, transcendence of time and space. Psychedelic experiences reliably produce this same cluster, suggesting structural features of consciousness rather than cultural artefact. The [[numinous-void]] analyses why these experiences — whether spontaneous or psychedelic — resist epistemic evaluation: they dismantle the very reflective capacity needed to assess their veridicality.
+**Cross-cultural convergence.** Walter Stace documented common phenomenological features across independent mystical traditions: ego dissolution, sense of unity, ineffability, noetic quality, transcendence of time and space. Psychedelic experiences reliably produce this same cluster, suggesting structural features of consciousness rather than cultural artefact. The [[ineffable-encounter-void]] analyses why these experiences — whether spontaneous or psychedelic — resist epistemic evaluation: they dismantle the very reflective capacity needed to assess their veridicality.
 
 **Creative and intellectual output.** Kary Mullis publicly credited LSD with influencing the thinking that led to polymerase chain reaction (PCR), and multiple researchers have reported psychedelic experiences contributing to creative breakthroughs. Though such reports are difficult to verify definitively, they are consistent with expanded rather than degraded cognitive access.
 
@@ -119,7 +119,7 @@ Psychedelics illuminate several of the Map's [[tenets]]:
 - [[bandwidth-of-consciousness]] — The information-theoretic asymmetry that filter theory resolves
 - [[william-james-consciousness]] — James's transmission theory: the philosophical ancestor of the reducing valve
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing psychedelic evidence within the convergence matrix of five altered states
-- [[numinous-void]] — Why numinous and mystical experiences resist epistemic evaluation from within
+- [[ineffable-encounter-void]] — Why numinous and mystical experiences resist epistemic evaluation from within
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T20:56:00+00:00
 draft: false
 last_deep_review: 2026-04-05T22:11:00+00:00
 topics:
@@ -61,7 +61,7 @@ related_articles:
   - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[phenomenology-of-creative-insight]]"
-  - "[[resonance-void]]"
+  - "[[ineffable-encounter-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -165,7 +165,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on aesthetic and evaluative qualia, including Indian rasa theory
 - [[modal-structure-of-phenomenal-properties]] — Why phenomenal properties resist physical reduction
 - [[mysterianism|cognitive closure]] — Why the structure-experience gap may be permanent
-- [[resonance-void]] — Consciousness encountering meaning beyond articulation—broader than beauty, with the same phenomenological structure
+- [[ineffable-encounter-void]] — Consciousness encountering meaning beyond articulation—broader than beauty, with the same phenomenological structure
 - [[quantum-holism-and-phenomenal-unity]] — Quantum approaches to the binding problem
 
 ## References
