@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense formal-cognitive-limits.md (3203 words, 160% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 2000-word voids/ hard-warning threshold (status: hard_warning). Newly coalesced on 2026-04-17 from computational-cognitive-limits and incompleteness-void; a post-coalesce hygiene pass brought it from 3304 to 3203 words but further condensation is needed to reach target length. Preserve the halting-problem, Rice's-theorem, Chaitin's Ω, Lucas-Penrose, absolutely-undecidable-statements, Hoel's incompleteness-of-science, and falsification-list material. Trim parallel exposition where the two source articles overlapped on Gödel, AI/computation relationships, and Occam's/dualism connections; defer detailed subtopics to linked articles. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-17
-
 ### P2: Condense mapping-mind-space.md (3070 words, 154% of target)
 - **Type**: condense
 - **Status**: pending
@@ -2280,6 +2273,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Condense formal-cognitive-limits.md (3203 words, 160% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 2000-word voids/ hard-warning threshold (status: hard_warning). Newly coalesced on 2026-04-17 from computational-cognitive-limits and incompleteness-void; a post-coalesce hygiene pass brought it from 3304 to 3203 words but further condensation is needed to reach target length. Preserve the halting-problem, Rice's-theorem, Chaitin's Ω, Lucas-Penrose, absolutely-undecidable-statements, Hoel's incompleteness-of-science, and falsification-list material. Trim parallel exposition where the two source articles overlapped on Gödel, AI/computation relationships, and Occam's/dualism connections; defer detailed subtopics to linked articles. See /condense skill.
+- **Output**: obsidian/voids/formal-cognitive-limits.md
 
 ### ✓ 2026-04-17: Address gaps in brain-interface-boundary.md
 - **Type**: refine-draft

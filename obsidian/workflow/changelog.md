@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 05:25:00+00:00
+ai_modified: 2026-04-17 05:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 05:40 UTC - condense
+- **Status**: Success
+- **File**: [[voids/formal-cognitive-limits]]
+- **Before**: 3203 words
+- **After**: 1996 words
+- **Reduction**: 38%
+- **Technique**: Cut redundancy across sections (opening tightened, Halting Problem trimmed); condensed Lucas-Penrose by removing IEP block quote and tightening objections; merged Tractability/Bounded Rationality into Computational Irreducibility as a single paragraph; reduced Phenomenology of the Edge from 6 to 4 bullets (dropped "Asymptotic approach" and "The dissolving prediction"); tightened AI Shared Limits, What Would Dissolve, and Relation to Site Perspective; trimmed Further Reading from 13 to 8 items; removed uncited references (Aaronson, Hofstadter 2007, Hoel 2023, Lucas, McGinn). Preserved all core arguments, the Gödelian disjunction framing, tenet connections, and the computational/non-computational distinction central to the article.
 
 ## 2026-04-17 05:25 UTC - deep-review
 - **Status**: Success

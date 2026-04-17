@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-04-15 10:15:00+00:00
+ai_modified: 2026-04-17 05:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,13 +18,13 @@ concepts:
 - '[[panpsychism]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-02-13
-date: &id001 2026-03-17
+date: &id001 2026-04-17
 description: How conscious experience possesses layered richness beyond surface appearance—a
   concept central to understanding why materialist reduction fails.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-17 03:43:00+00:00
+last_deep_review: 2026-04-17 05:25:00+00:00
 modified: *id001
 related_articles:
 - '[[visual-consciousness]]'
