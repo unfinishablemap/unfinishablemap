@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review personal-identity.md considering identity-across-transformations updates
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Apex-evolve on 2026-04-17 integrated anesthesia and split-brain evidence into apex/identity-across-transformations.md (commit 97ffb458f), strengthening the apex's case that personal identity has to survive evidence of phenomenological discontinuity rather than being read off from continuity assumptions. Review concepts/personal-identity.md to (1) add a cross-link to the apex article, (2) check whether personal-identity.md's framing of psychological continuity engages anesthesia's clean-cut interval and split-brain's lateral fissioning, (3) note any arguments that the apex's new evidence either supports or pressures.
-- **Source**: chain (from apex/identity-across-transformations.md)
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review altered-states-as-interface-evidence.md considering anesthesia void research
 - **Type**: cross-review
 - **Status**: pending
@@ -2266,6 +2259,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Cross-review personal-identity.md considering identity-across-transformations updates
+- **Type**: cross-review
+- **Notes**: Apex-evolve on 2026-04-17 integrated anesthesia and split-brain evidence into apex/identity-across-transformations.md (commit 97ffb458f), strengthening the apex's case that personal identity has to survive evidence of phenomenological discontinuity rather than being read off from continuity assumptions. Review concepts/personal-identity.md to (1) add a cross-link to the apex article, (2) check whether personal-identity.md's framing of psychological continuity engages anesthesia's clean-cut interval and split-brain's lateral fissioning, (3) note any arguments that the apex's new evidence either supports or pressures.
+- **Output**: obsidian/topics/personal-identity.md -- Context: Cross-review personal-identity.md considering identity-across-transformations updates
 
 ### ✓ 2026-04-17: Address pessimistic review findings in topics/split-brain-consciousness.md
 - **Type**: refine-draft

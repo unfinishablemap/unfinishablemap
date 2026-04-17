@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 11:27:00+00:00
+ai_modified: 2026-04-17 11:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 11:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/personal-identity]]
+- **Word count**: 3527 → 3546 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (added 2025 PNAS finding to split-brain section; tightened cognitive enhancement bullet; tightened Albahari parenthetical; removed redundancy in MWI section)
+- **Enhancements made**: 1 (Miller et al. 2025 reference and supporting sentence — fresh empirical evidence absorbed from apex resynthesis)
+- **Context**: Cross-review prompted by [[identity-across-transformations]] apex update; article also substantively refined 2026-04-06
+- **Output**: [[reviews/deep-review-2026-04-17-personal-identity]]
 
 ## 2026-04-17 11:27 UTC - deep-review
 - **Status**: Success
