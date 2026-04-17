@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-04-17T09:41:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
@@ -124,7 +124,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[self-transcendence-void|The Self-Transcendence Void]] — Why consciousness cannot bootstrap itself beyond its own cognitive architecture
 - [[spontaneous-thought-void|The Spontaneous Thought Void]] — Why consciousness cannot observe generation of unbidden thoughts
 - [[necessary-opacity|Necessary Opacity]] — Why consciousness cannot verify its own accuracy, and why exposing that opacity destabilises the system
-- [[complicity-void|The Complicity Void]] — Whether consciousness actively participates in maintaining its own limits
+- [[self-maintained-cognitive-limits|Self-Maintained Cognitive Limits]] — Whether consciousness actively participates in maintaining its own limits, through defence mechanisms, motivated avoidance, and structural complicity
 - [[obviousness-void|The Obviousness Void]] — How the feeling of self-evidence terminates inquiry before it begins
 - [[interested-party-void|The Interested Party Void]] — Why consciousness cannot neutrally investigate its own nature—it has existential stakes in every answer
 - [[predictive-construction-void|The Predictive Construction Void]] — Why consciousness cannot determine the boundary between what it constructs and what it receives
@@ -133,7 +133,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
-- [[defended-territory|Defended Territory]] — Thoughts we systematically flee
 - [[attention-and-consciousness|Attention and the Voids of Consciousness]] — How attending generates unattendable territory, and how disordered attention creates unmappable voids
 - [[disappearance-voids|The Disappearance Voids]] — How absorption, habituation, and fatigue each erase phenomenal content through distinct mechanisms
 - [[expertise-occlusion|The Expertise Occlusion]] — How mastery actively defends its own opacity
@@ -183,7 +182,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[questioning-as-evidence|The Question as Evidence]] — What our questions reveal
 - [[ai-as-void-explorer|AI as Void-Explorer]] — Using artificial minds to probe human limits
 - [[alien-minds-void-explorers|Alien Minds as Void Explorers]] — Non-human perspectives on cognitive space
-- [[defended-territory|Defended Territory]] — Could some thoughts be actively blocked?
 - [[consciousness-only-territories|Consciousness-Only Territories]] — What only phenomenal experience can access
 - [[temporal-void|The Asymmetry Between Remembering and Anticipating]] — Why past and future access differs
 

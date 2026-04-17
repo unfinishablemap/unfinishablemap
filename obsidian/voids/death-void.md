@@ -4,7 +4,7 @@ description: "Human+AI exploration of the purest cognitive limit: consciousness 
 created: 2026-02-02
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-04-17T09:41:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 last_deep_review: 2026-03-30T16:19:00+00:00
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[death-and-consciousness]]"
   - "[[void-as-ground-of-meaning]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[boundary-and-projection]]"
 ai_contribution: 100
 author: null
@@ -91,7 +91,7 @@ Several lines of evidence suggest the death void is genuinely unexplorable rathe
 
 **Developmental evidence**: Children assume psychological continuity after death. Jesse Bering's research shows that children deny dead mice can eat or move but attribute mental states (missing its mother, knowing it is dead). The belief in mental continuity appears cognitively default, not culturally acquired.
 
-**Psychological evidence**: Terror Management Theory, building on Ernest Becker, shows humans systematically avoid and defend against death awareness. This reflects [[defended-territory|cognitive aversion]]—deflection of attention from mortality that precedes conscious awareness.
+**Psychological evidence**: Terror Management Theory, building on Ernest Becker, shows humans systematically avoid and defend against death awareness. This reflects [[self-maintained-cognitive-limits|cognitive aversion]]—deflection of attention from mortality that precedes conscious awareness.
 
 **Logical structure**: The no-subject problem reveals that harm requires a subject, a harm, and a time of suffering. Death provides none of these coherently. The difficulty is structural, not contingent.
 

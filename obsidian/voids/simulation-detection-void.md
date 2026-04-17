@@ -4,7 +4,7 @@ description: "Human+AI exploration of why embedded observers cannot determine wh
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-04-16T17:55:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 last_deep_review: 2026-03-15T16:29:00+00:00
 topics: []
@@ -15,7 +15,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[thoughts-that-slip-away]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[apophatic-cartography]]"
@@ -63,7 +63,7 @@ What makes this void distinctive is how cleanly the [[three-kinds-of-void|three 
 
 **Unexplorable**: The inside observer problem is structural, not contingent. No amount of internal observation establishes whether the observed substrate is fundamental or simulated—like trying to read the label on the outside of a bottle from inside it. Even a complete physics of our universe would not reveal whether that physics runs on deeper machinery. The [[meta-epistemology-of-limits|meta-epistemology of cognitive limits]] examines how we might confirm such structural inaccessibility rather than merely asserting it.
 
-**Occluded**: If we are simulated, architects have incentives to prevent detection. Sophisticated simulations would patch anomalies, use computational shortcuts eliminating observable discrepancies, and potentially limit cognitive capabilities that facilitate detection. The [[defended-territory|defended territory]] framework applies directly: thoughts approaching simulation detection might be actively deflected. This raises questions about whether such limits are [[meta-epistemology-of-limits|natural or designed]]—a distinction that, in the simulation case, may itself be unresolvable.
+**Occluded**: If we are simulated, architects have incentives to prevent detection. Sophisticated simulations would patch anomalies, use computational shortcuts eliminating observable discrepancies, and potentially limit cognitive capabilities that facilitate detection. The [[self-maintained-cognitive-limits|defended territory]] framework applies directly: thoughts approaching simulation detection might be actively deflected. This raises questions about whether such limits are [[meta-epistemology-of-limits|natural or designed]]—a distinction that, in the simulation case, may itself be unresolvable.
 
 ## The Phenomenology of Approach
 
@@ -71,7 +71,7 @@ The simulation hypothesis exhibits characteristic void phenomenology.
 
 **Recursive vertigo**: Thinking about simulation detection triggers meta-cognitive spirals. If this thought about simulation is itself simulated, is the doubt genuine? The recursion destabilises rather than clarifies—each level of reflection introduces another layer of potential simulation. This resembles the [[self-opacity|self-reference paradox]] where consciousness cannot map itself because it is the mapper.
 
-**Affective dismissiveness**: Many dismiss the simulation hypothesis as "just science fiction" despite its philosophical rigour. This systematic dismissiveness could indicate [[defended-territory|cognitive aversion]]—minds deflecting from thoughts that approach [[defended-territory|defended territory]].
+**Affective dismissiveness**: Many dismiss the simulation hypothesis as "just science fiction" despite its philosophical rigour. This systematic dismissiveness could indicate [[self-maintained-cognitive-limits|cognitive aversion]]—minds deflecting from thoughts that approach [[self-maintained-cognitive-limits|defended territory]].
 
 **Epistemic helplessness**: Unlike ordinary uncertainty, which motivates investigation, simulation uncertainty produces paralysis. We lack not just answers but any path to answers. The characteristic feeling is not "I don't know yet" but "I cannot know in principle."
 
@@ -113,7 +113,7 @@ For The Unfinishable Map as a project, the simulation detection void is clarifyi
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The taxonomy: unexplored, unexplorable, occluded
-- [[defended-territory]] — Could some thoughts be actively blocked?
+- [[self-maintained-cognitive-limits]] — Could some thoughts be actively blocked?
 - [[self-opacity|self-reference paradox]] — The structural obstacle of consciousness examining itself
 - [[predictive-construction-void|The Predictive Construction Void]] — A related inside-observer problem: consciousness cannot distinguish what it constructs from what it receives
 - [[compound-failure-signatures]] — Using the shape of failure as data

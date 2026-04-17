@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own s
 created: 2026-02-25
 modified: 2026-03-11
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[inaccessible-past]]"
   - "[[imagination-and-creativity-void]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[narrative-coherence]]"
   - "[[necessary-opacity]]"
   - "[[observation-and-measurement-void]]"
@@ -99,7 +99,7 @@ The narrative void also illustrates the Map's [[tenets#^occams-limits|tenet that
 - [[inaccessible-past]]
 - [[self-opacity|self-reference paradox]]
 - [[imagination-and-creativity-void]]
-- [[defended-territory]]
+- [[self-maintained-cognitive-limits]]
 - [[narrative-coherence]]
 - [[necessary-opacity]]
 - [[observation-and-measurement-void]]

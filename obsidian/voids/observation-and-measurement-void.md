@@ -4,7 +4,7 @@ description: "Every route to investigating consciousness fails: observation tran
 created: 2026-02-24
 modified: 2026-03-28
 human_modified: null
-ai_modified: 2026-03-28T21:11:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[causal-interface]]"
   - "[[consciousness-only-territories]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[apophatic-approaches]]"
   - "[[dissolution-problem]]"
   - "[[phenomenology-of-the-edge]]"

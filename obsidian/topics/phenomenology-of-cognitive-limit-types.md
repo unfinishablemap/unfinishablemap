@@ -4,7 +4,7 @@ description: "Human+AI systematic mapping of how different cognitive limits feel
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-16T03:18:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 last_deep_review: 2026-03-18T23:59:00+00:00
 draft: false
 topics:
@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[biological-cognitive-closure]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[three-kinds-of-void]]"
   - "[[limits-reveal-structure]]"
   - "[[self-opacity]]"
@@ -40,7 +40,7 @@ The [[biological-cognitive-closure]] article identifies three broad phenomenolog
 
 **Frustration** marks architectural limits — constraints built into the structure of human cognition. Trying to visualise a four-dimensional object, holding seven-plus items in working memory, imagining a colour never seen (the [[imagination-and-creativity-void|imagination void's]] paradigm case), or grasping the hard problem of consciousness all produce the experience of effortful straining against a wall. The thinker knows they are failing. The limit announces itself as obstruction. Frustration is honest: it tells you a boundary exists and that you are pressing against it.
 
-**Satisfaction** marks adaptive limits — blind spots maintained by natural selection because ignorance conferred fitness advantage. The experience here is completeness rather than obstruction. The bias blind spot exemplifies this: we feel we see clearly while others are distorted. The limit disguises itself as success. [[defended-territory|Cognitive aversion]] operates similarly — thoughts we systematically flee feel uninteresting rather than impossible, so the deflection goes unnoticed. Satisfaction is deceptive: it tells you the territory is fully mapped when a region has been quietly excised.
+**Satisfaction** marks adaptive limits — blind spots maintained by natural selection because ignorance conferred fitness advantage. The experience here is completeness rather than obstruction. The bias blind spot exemplifies this: we feel we see clearly while others are distorted. The limit disguises itself as success. [[self-maintained-cognitive-limits|Cognitive aversion]] operates similarly — thoughts we systematically flee feel uninteresting rather than impossible, so the deflection goes unnoticed. Satisfaction is deceptive: it tells you the territory is fully mapped when a region has been quietly excised.
 
 **Illusory comprehension** marks the deepest adaptive limits — what Donald Hoffman's interface theory predicts when perception is tuned to fitness rather than truth. [[mysterianism|Mysterian]] philosophers have long argued that some problems exceed human cognitive architecture; illusory comprehension adds a darker twist — some limits do not even register as problems. The perceptual and conceptual interface functions smoothly, delivering a sense of understanding. No gap is felt because the interface hides the gap seamlessly. Where frustration signals a wall and satisfaction signals completion, illusory comprehension signals *nothing at all*. The limit is phenomenologically invisible, detectable only through indirect methods — formal proofs, cross-cultural convergence, or AI-assisted analysis that bypasses human cognitive architecture.
 
@@ -68,7 +68,7 @@ An error that persists after you understand it is an error. Visual illusions con
 
 ### Motivated Disinterest
 
-Where frustration announces a limit loudly, motivated disinterest silences the announcement. The thought simply seems boring, irrelevant, or not worth pursuing. Terror management research documents this with death-awareness: subliminal mortality reminders produce measurable behavioural changes without conscious recognition that anything has happened. The deflection precedes awareness. This is the phenomenology of [[defended-territory]] — the slide, the substitution, the glaze — where attention is redirected before the limit is consciously encountered.
+Where frustration announces a limit loudly, motivated disinterest silences the announcement. The thought simply seems boring, irrelevant, or not worth pursuing. Terror management research documents this with death-awareness: subliminal mortality reminders produce measurable behavioural changes without conscious recognition that anything has happened. The deflection precedes awareness. This is the phenomenology of [[self-maintained-cognitive-limits|defended territory]] — the slide, the substitution, the glaze — where attention is redirected before the limit is consciously encountered.
 
 ### Dissolving Insight
 
@@ -131,7 +131,7 @@ The systematic mapping of limit phenomenologies connects to the Map's [[tenets]]
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at boundaries
 - [[compound-failure-signatures|Compound Failure Signatures]] — Structured failure as diagnostic method
 - [[biological-cognitive-closure|Evolved Cognitive Limits]] — Architectural versus adaptive limits and their origins
-- [[defended-territory|Cognitive Aversion]] — The motivational deflection that hides limits
+- [[self-maintained-cognitive-limits|Cognitive Aversion]] — The motivational deflection that hides limits
 - [[three-kinds-of-void|Three Kinds of Void]] — The fundamental void taxonomy
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Detecting one's own mistakes and felt signatures of self-referential thought

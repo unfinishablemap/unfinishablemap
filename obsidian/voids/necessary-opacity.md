@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-01-27
 modified: 2026-04-01
 human_modified: null
-ai_modified: 2026-04-16T17:55:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[ai-as-void-explorer]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[phenomenal-quality-void]]"
@@ -190,7 +190,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[self-opacity]] — The parallel void of consciousness unable to observe itself
 - [[intrinsic-nature-void]] — The parallel question of what matter is in itself
 - [[mutation-void]] — When the act of attending transforms the content attended to
-- [[defended-territory|Defended Territory]] — Active blocking of cognitive access
+- [[self-maintained-cognitive-limits|Defended Territory]] — Active blocking of cognitive access
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — Limit-experiences across traditions
 - [[whether-real]] — Whether cognitive limits are permanent or merely current

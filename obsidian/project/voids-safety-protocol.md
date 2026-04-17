@@ -4,7 +4,7 @@ description: "Safety rails for AI-assisted exploration of cognitive voids—meme
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-03-28T21:11:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics: []
 concepts:
@@ -14,7 +14,7 @@ related_articles:
   - "[[project]]"
   - "[[coherence-inflation-countermeasures]]"
   - "[[necessary-opacity]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[human-supervision]]"
   - "[[automation]]"
 ai_contribution: 100
@@ -253,7 +253,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet raises
 
 The protocol also serves the Map's commitment to intellectual honesty. Speculation about the unthinkable is interesting; presenting speculation as certainty is dishonest. The epistemic labeling and structural separation ensure readers know what they're getting.
 
-Finally, the protocol recognizes that the Map has power. Content presented confidently can shape readers' beliefs. That power creates responsibility. Voids content explores [[defended-territory|territory that may be actively defended]]—the safeguards ensure the exploration doesn't cause harm.
+Finally, the protocol recognizes that the Map has power. Content presented confidently can shape readers' beliefs. That power creates responsibility. Voids content explores [[self-maintained-cognitive-limits|territory that may be actively defended]]—the safeguards ensure the exploration doesn't cause harm.
 
 ## Further Reading
 

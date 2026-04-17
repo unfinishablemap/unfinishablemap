@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine, and can we determine
 created: 2026-01-30
 modified: 2026-03-19
 human_modified: null
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,7 +26,7 @@ related_articles:
   - "[[convergence-as-evidence]]"
   - "[[biological-cognitive-closure]]"
   - "[[compound-failure-signatures]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[tenet-generated-voids]]"
   - "[[simulation-detection-void]]"
   - "[[epistemological-limits-occams-razor]]"
@@ -125,7 +125,7 @@ The [[compound-failure-signatures|topology of cognitive failure]] extends this m
 
 The deepest difficulty: asking "are my limits genuine?" or "are my limits designed?" uses faculties that would be part of the very system under investigation. This goes beyond ordinary scepticism to a specific structural claim: certain questions can only be answered from outside the system being questioned. A formal system cannot prove its own consistency (Gödel). A simulation cannot detect its own simulation status using only simulated tools. A mind cannot determine whether its limits are natural or designed using only the limited cognition in question.
 
-This creates a distinctive void—one that combines features of all [[three-kinds-of-void|three categories]]. It is **unexplored**: philosophy has extensively studied cognitive limits but rarely asked whether they could be artifacts of design. It is **unexplorable**: if cognitive faculties were constrained to prevent detecting the constraint, no internal method could succeed. It is **occluded**: if design-detection would threaten a simulation or violate designer purposes, the thought itself might be actively blocked—[[defended-territory]] in the strongest sense.
+This creates a distinctive void—one that combines features of all [[three-kinds-of-void|three categories]]. It is **unexplored**: philosophy has extensively studied cognitive limits but rarely asked whether they could be artifacts of design. It is **unexplorable**: if cognitive faculties were constrained to prevent detecting the constraint, no internal method could succeed. It is **occluded**: if design-detection would threaten a simulation or violate designer purposes, the thought itself might be actively blocked—[[self-maintained-cognitive-limits|defended territory]] in the strongest sense.
 
 The recursive trap means that natural vs. designed, and genuine vs. apparent, may not be questions with discoverable answers but rather fundamental uncertainties built into any finite cognitive system examining itself. Note that this recursive challenge applies equally to philosophical positions about consciousness, including the dualist position the Map defends. The Map's tenets are chosen starting points, not conclusions established from outside the trap.
 
@@ -168,7 +168,7 @@ A convincing solution to the hard problem would demonstrate that at least some a
 - [[three-kinds-of-void|Three Kinds of Void]] — The unexplored, unexplorable, and occluded
 - [[self-transcendence-void|The Self-Transcendence Void]] — The Münchhausen problem applied to cognitive self-improvement
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
-- [[defended-territory|Defended Territory]] — Could some thoughts be actively blocked?
+- [[self-maintained-cognitive-limits|Defended Territory]] — Could some thoughts be actively blocked?
 - [[biological-cognitive-closure|Evolved Cognitive Limits]] — Cross-cultural evidence for species-level constraints
 - [[simulation|Simulation Hypothesis]] — The scenario that sharpens the design question
 - [[simulation-detection-void|The Simulation Detection Void]] — Where all three void types converge on the detection problem

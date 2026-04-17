@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 14:41:00+00:00
+ai_modified: 2026-04-17 14:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-17 14:56 UTC - refine-draft
+- **Status**: Success
+- **File**: cross-reference update for [[voids/self-maintained-cognitive-limits]] coalesce
+- **Scope**: 33 live-content files — 27 voids/, 2 topics/, 2 concepts/, project/voids-safety-protocol, workflow/highlights
+- **Changes**: Retargeted all `[[defended-territory]]` and `[[complicity-void]]` wikilinks to `[[self-maintained-cognitive-limits]]`. Preserved display-alias phrasing (e.g., `|defended territory`, `|cognitive aversion`, `|complicity void`) in body prose where it carried natural meaning. Deduped frontmatter `related_articles` where both archived slugs were present (interested-party-void, voids) and pruned redundant Further Reading entries in voids.md, appetitive-void.md, interested-party-void.md. Updated voids.md index description to reflect the merged article.
+- **Excluded**: obsidian/research/, obsidian/reviews/, obsidian/workflow/archive/ (historical records — retained original slug references)
+- **Published**: yes
 
 ## 2026-04-17 14:41 UTC - coalesce
 - **Status**: Success

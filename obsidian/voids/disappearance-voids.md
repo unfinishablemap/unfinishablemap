@@ -4,7 +4,7 @@ description: "Three mechanisms by which phenomenal content vanishes from conscio
 created: 2026-02-03
 modified: 2026-04-09
 human_modified: null
-ai_modified: 2026-04-09T18:56:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[tenets]]"
   - "[[sleep-consciousness-void]]"
-  - "[[complicity-void]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[resolution-void]]"
   - "[[transition-void]]"
   - "[[recognition-void]]"
@@ -118,7 +118,7 @@ This is [[self-opacity]] in its most concrete form — not the general philosoph
 
 ### The Comfort of Narrowing
 
-Fatigue-induced narrowing often feels like relief. The shed capacities are experienced as weights released, not abilities lost. The rich peripheral awareness that characterises alert consciousness drops away, and what remains is a simpler, narrower engagement that consciousness welcomes. This connects to the [[complicity-void]]: consciousness does not merely fail to detect its own narrowing — it actively misinterprets narrowing as simplification. The felt sense is not "I am losing capacities" but "things are becoming clearer."
+Fatigue-induced narrowing often feels like relief. The shed capacities are experienced as weights released, not abilities lost. The rich peripheral awareness that characterises alert consciousness drops away, and what remains is a simpler, narrower engagement that consciousness welcomes. This connects to [[self-maintained-cognitive-limits]]: consciousness does not merely fail to detect its own narrowing — it actively misinterprets narrowing as simplification. The felt sense is not "I am losing capacities" but "things are becoming clearer."
 
 ### Fatigue as Ontological Disclosure
 
@@ -173,7 +173,7 @@ Within the [[three-kinds-of-void|voids framework]], these disappearance voids ar
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[transition-void]] — The general case: consciousness cannot witness any of its own state transitions
 - [[sleep-consciousness-void]] — The fatigue-sleep continuum and consciousness during sleep
-- [[complicity-void]] — When consciousness actively misrepresents its own narrowing
+- [[self-maintained-cognitive-limits]] — When consciousness actively misrepresents its own narrowing
 - [[resolution-void]] — The spatial compression constraint on phenomenal access
 - [[consciousness-and-skill-acquisition]] — How skill acquisition creates phenomenological invisibility
 

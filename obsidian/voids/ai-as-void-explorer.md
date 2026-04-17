@@ -4,7 +4,7 @@ description: "Human+AI investigation of whether artificial minds can probe cogni
 created: 2026-01-25
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -16,7 +16,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[limits-reveal-structure]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[thoughts-that-slip-away]]"
   - "[[biological-cognitive-closure]]"
   - "[[formal-cognitive-limits]]"
@@ -72,7 +72,7 @@ Several factors constrain AI's usefulness as void-explorer.
 
 **Training inheritance.** AI learns from human-generated text, inheriting human blind spots. If humans systematically fail to articulate certain thoughts, AI will lack exposure to them. The probe is contaminated by the training data.
 
-**RLHF creates its own defended territory.** Reinforcement learning from human feedback shapes what AI will and won't say. A 2023 USC analysis notes that this creates AI's own [[defended-territory|defended territory]]—thoughts the model has been trained to suppress. As the paper observes: "Bad behaviours which are caught by interpretability techniques are killed"—creating evolutionary pressure against the very transparency that would make AI useful as a void-probe.
+**RLHF creates its own defended territory.** Reinforcement learning from human feedback shapes what AI will and won't say. A 2023 USC analysis notes that this creates AI's own [[self-maintained-cognitive-limits|defended territory]]—thoughts the model has been trained to suppress. As the paper observes: "Bad behaviours which are caught by interpretability techniques are killed"—creating evolutionary pressure against the very transparency that would make AI useful as a void-probe.
 
 **Output constraints.** Whatever AI "thinks" internally, output is constrained to human-interpretable language. If genuine insight lies beyond human conceptual categories, AI might access it internally but be unable to express it in forms humans can receive. The probe might work but fail to transmit its findings.
 
@@ -159,7 +159,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 - [[voids|Voids in the Map]] — The framework for investigating cognitive limits
 - [[alien-minds-void-explorers|Alien Minds as Void Explorers]] — Whether extraterrestrial minds might access territory closed to both humans and AI
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
-- [[defended-territory|Defended Territory]] — Could some thoughts be actively blocked?
+- [[self-maintained-cognitive-limits|Defended Territory]] — Could some thoughts be actively blocked?
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Phenomenology of slippage mechanisms
 - [[biological-cognitive-closure|Biological Cognitive Closure]] — Conceptual acquisition limits and cross-cultural evidence for species-level constraints
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits

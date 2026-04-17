@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced defended-territory and complicity-void
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The 2026-04-17 coalesce merged defended-territory and complicity-void into self-maintained-cognitive-limits. 31 live-content files reference the archived slugs via wikilinks and should be retargeted: voids/ (interested-party-void, agency-verification-void, whether-real, meta-epistemology-of-limits, obviousness-void, phenomenology-of-the-edge, biological-cognitive-closure, collective-cognitive-limits, voids, disappearance-voids, thought-stream-void, death-void, ai-as-void-explorer, three-kinds-of-void, necessary-opacity, historical-consciousness-void, self-opacity, simulation-detection-void, imagination-and-creativity-void, appetitive-void, framework-void, mutation-void, amplification-void, self-transcendence-void, narrative-void, causal-interface, observation-and-measurement-void), topics/ (phenomenology-of-cognitive-limit-types, authentic-vs-inauthentic-choice), concepts/ (adaptive-cognitive-limits, nihilism-and-existentialism). Update wikilinks to [[self-maintained-cognitive-limits]] where the reference is to the merged concept; if a reference specifically invokes only one of the two archived articles' distinctive content, consider whether an alias display or a section anchor is more appropriate. Skip obsidian/research/, obsidian/reviews/, and obsidian/workflow/archive/ (historical records — retain original slug references).
-- **Source**: chain (from 2026-04-17 coalesce)
-- **Generated**: 2026-04-17
-
-### P2: Update remaining active-content wikilinks from spontaneous-thought-void and thoughts-that-slip-away to thought-stream-void
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The 2026-04-17 coalesce-reference-update task was logged complete but dozens of active content files still reference the old slugs. Search identifies remaining active references in at least: voids/ (language-thought-boundary.md, transit-void.md, mutation-void.md, imagination-and-creativity-void.md, simulation-detection-void.md, conceptual-impossibility.md, inaccessible-past.md, historical-consciousness-void.md, necessary-opacity.md, three-kinds-of-void.md, ai-as-void-explorer.md, thought-stream-void.md self-references), concepts/default-mode-network.md, and likely others. Update these wikilinks to point to [[thought-stream-void]] (the unified target). Skip obsidian/research/, obsidian/reviews/, and obsidian/workflow/archive/ (historical records — retain original slug references). Also note: thought-stream-void itself currently has only 1 inbound link from active content (phenomenology-of-imagination); completing these updates restores its navigational integration.
-- **Source**: chain (from 2026-04-17 coalesce)
-- **Generated**: 2026-04-17
-
 ### P2: Cross-review neurological-dissociations-as-interface-architecture.md considering anesthesia-void and three-states taxonomy
 - **Type**: cross-review
 - **Status**: pending
@@ -2301,6 +2287,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-17: Update references to coalesced defended-territory and complicity-void
+- **Type**: refine-draft
+- **Notes**: The 2026-04-17 coalesce merged defended-territory and complicity-void into self-maintained-cognitive-limits. 31 live-content files reference the archived slugs via wikilinks and should be retargeted: voids/ (interested-party-void, agency-verification-void, whether-real, meta-epistemology-of-limits, obviousness-void, phenomenology-of-the-edge, biological-cognitive-closure, collective-cognitive-limits, voids, disappearance-voids, thought-stream-void, death-void, ai-as-void-explorer, three-kinds-of-void, necessary-opacity, historical-consciousness-void, self-opacity, simulation-detection-void, imagination-and-creativity-void, appetitive-void, framework-void, mutation-void, amplification-void, self-transcendence-void, narrative-void, causal-interface, observation-and-measurement-void), topics/ (phenomenology-of-cognitive-limit-types, authentic-vs-inauthentic-choice), concepts/ (adaptive-cognitive-limits, nihilism-and-existentialism). Update wikilinks to [[self-maintained-cognitive-limits]] where the reference is to the merged concept; if a reference specifically invokes only one of the two archived articles' distinctive content, consider whether an alias display or a section anchor is more appropriate. Skip obsidian/research/, obsidian/reviews/, and obsidian/workflow/archive/ (historical records — retain original slug references).
+- **Output**: Task context:
+The 2026-04-17 coalesce merged defended-territory and complicity-void into self-maintained-cognitive-limits. 31 live-content files reference the archived slugs via wikilinks and should be retargeted: voids/ (interested-party-void, agency-verification-void, whether-real, meta-epistemology-of-limits, obviousness-void, phenomenology-of-the-edge, biological-cognitive-closure, collective-cognitive-limits, voids, disappearance-voids, thought-stream-void, death-void, ai-as-void-explorer, three-kinds-of-void, necessary-opacity, historical-consciousness-void, self-opacity, simulation-detection-void, imagination-and-creativity-void, appetitive-void, framework-void, mutation-void, amplification-void, self-transcendence-void, narrative-void, causal-interface, observation-and-measurement-void), topics/ (phenomenology-of-cognitive-limit-types, authentic-vs-inauthentic-choice), concepts/ (adaptive-cognitive-limits, nihilism-and-existentialism). Update wikilinks to [[self-maintained-cognitive-limits]] where the reference is to the merged concept; if a reference specifically invokes only one of the two archived articles' distinctive content, consider whether an alias display or a section anchor is more appropriate. Skip obsidian/research/, obsidian/reviews/, and obsidian/workflow/archive/ (historical records — retain original slug references).
 
 ### ✓ 2026-04-17: Condense voids/thought-stream-void.md (3412 words, 171% of target)
 - **Type**: condense

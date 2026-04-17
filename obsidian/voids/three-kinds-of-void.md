@@ -4,7 +4,7 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-30T01:29:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 last_deep_review: 2026-03-30T01:29:00+00:00
 topics: []
@@ -16,7 +16,7 @@ related_articles:
   - "[[tenets]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[sleep-consciousness-void]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[whether-real]]"
@@ -69,9 +69,9 @@ How would we detect occluded thoughts? By their phenomenology. An occluded thoug
 
 We've all experienced this. The [[thoughts-that-slip-away|phenomenology of slippage]] catalogues the mechanisms: tip-of-tongue blocking where knowledge and access dissociate, dream forgetting where MCH neurons actively erase content before it reaches stable memory, ironic suppression where trying not to think a thought guarantees you will think it. Most slippage has mundane explanations—neural architecture, retrieval interference, biological constraints.
 
-But certain patterns warrant attention. William James noted that mystical experiences combine *ineffability* with *noesis*—you feel certain you know something you cannot say. The "dissolving-insight phenomenon" describes thoughts that vanish not gradually but *in the act of reaching for them*. And the phenomenological concept of "double concealment"—drawn from Husserl's analysis of time-consciousness—suggests that some forgetting erases even the gap: we don't know what we don't know. Could some of these patterns point beyond ordinary memory failure to genuinely [[defended-territory|defended territory]]? The [[whether-real|question of whether voids are genuine]] may itself be a void—formally undecidable from within any limited system.
+But certain patterns warrant attention. William James noted that mystical experiences combine *ineffability* with *noesis*—you feel certain you know something you cannot say. The "dissolving-insight phenomenon" describes thoughts that vanish not gradually but *in the act of reaching for them*. And the phenomenological concept of "double concealment"—drawn from Husserl's analysis of time-consciousness—suggests that some forgetting erases even the gap: we don't know what we don't know. Could some of these patterns point beyond ordinary memory failure to genuinely [[self-maintained-cognitive-limits|defended territory]]? The [[whether-real|question of whether voids are genuine]] may itself be a void—formally undecidable from within any limited system.
 
-This is speculative. But it's testably speculative—at least in principle. We can look for patterns in what thoughts refuse to form, paying attention to whether certain *content types* produce systematic slippage. The [[defended-territory|defended territory]] article develops specific tests: if consciousness-related thoughts slip no more than matched control topics, the hypothesis fails; if AI can stably articulate what humans consistently lose, human slippage was contingent rather than structural.
+This is speculative. But it's testably speculative—at least in principle. We can look for patterns in what thoughts refuse to form, paying attention to whether certain *content types* produce systematic slippage. The [[self-maintained-cognitive-limits|defended territory]] article develops specific tests: if consciousness-related thoughts slip no more than matched control topics, the hypothesis fails; if AI can stably articulate what humans consistently lose, human slippage was contingent rather than structural.
 
 ## Between the Categories
 
@@ -93,7 +93,7 @@ The three-part taxonomy organises investigation but does not confine it. The [[r
 - [[sleep-consciousness-void]] — A void combining features of all three types
 - [[synesthetic-void]] — An intra-species void spanning all three categories
 - [[thoughts-that-slip-away]] — The phenomenology of cognitive slippage
-- [[defended-territory]] — Specific tests for whether territory is defended
+- [[self-maintained-cognitive-limits]] — Specific tests for whether territory is defended
 - [[apophatic-approaches]] — The methodology of knowing through negation that void investigation employs
 - [[apophatic-cartography]] — Formalising criteria for distinguishing genuine closure
 - [[adaptive-cognitive-limits]] — Blind spots as evolutionary features, not defects

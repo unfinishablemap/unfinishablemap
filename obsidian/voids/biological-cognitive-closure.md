@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-04-16T03:18:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[collective-cognitive-limits]]"
@@ -88,7 +88,7 @@ Hoffman, Singh, and Prakash's [[fitness-beats-truth|Fitness-Beats-Truth theorem]
 
 ### Adaptive Limitation Beyond Perception
 
-The FBT theorem addresses perception, but adaptive limits extend further. Gigerenzer's ecological rationality identifies "less-is-more" effects where ignoring available information leads to better decisions. Trivers argues self-deception evolved to facilitate interpersonal deception — some truths are actively hidden from consciousness. The [[complicity-void|complicity void]] examines whether this active concealment implicates consciousness itself as participant rather than mere victim. Field and Bonsall (2018) prove formally that information's reproductive value can become negative: remaining ignorant sometimes yields higher fitness.
+The FBT theorem addresses perception, but adaptive limits extend further. Gigerenzer's ecological rationality identifies "less-is-more" effects where ignoring available information leads to better decisions. Trivers argues self-deception evolved to facilitate interpersonal deception — some truths are actively hidden from consciousness. The [[self-maintained-cognitive-limits|complicity void]] examines whether this active concealment implicates consciousness itself as participant rather than mere victim. Field and Bonsall (2018) prove formally that information's reproductive value can become negative: remaining ignorant sometimes yields higher fitness.
 
 ## Developmental Limits: What Growing Up Closes
 
@@ -148,7 +148,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[meta-epistemology-of-limits]] — Distinguishing evolved from engineered limits
-- [[defended-territory]] — Motivational deflection from certain territories
+- [[self-maintained-cognitive-limits]] — Motivational deflection from certain territories
 - [[limits-reveal-structure]] — How limitation illuminates architecture
 - [[apophatic-cartography]] — Formalising convergence as an evidential criterion
 - [[ai-as-void-explorer]] — Using artificial minds to probe human limits

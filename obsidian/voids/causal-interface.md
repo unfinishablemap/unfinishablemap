@@ -4,7 +4,7 @@ description: "Human+AI exploration of why we cannot observe how consciousness ca
 created: 2026-01-31
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-03-30T14:59:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 last_deep_review: 2026-03-30T14:59:00+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenet-generated-voids]]"
   - "[[agency-verification-void]]"
   - "[[self-opacity]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[intrinsic-nature-void]]"
   - "[[what-consciousness-tells-us-about-physics]]"
@@ -115,7 +115,7 @@ The eye cannot see itself seeing. The interface cannot be observed because obser
 
 ### Defended Territory?
 
-Could the interface be actively hidden rather than merely inaccessible? The [[defended-territory|defended territory]] article explores whether some cognitive limits might be imposed by design—by evolution, by the structure of reality, or (in simulation scenarios) by our constructors.
+Could the interface be actively hidden rather than merely inaccessible? The [[self-maintained-cognitive-limits|defended territory]] article explores whether some cognitive limits might be imposed by design—by evolution, by the structure of reality, or (in simulation scenarios) by our constructors.
 
 If consciousness's causal efficacy is real but hidden, one might ask: hidden by whom, and for what purpose? The speculative answer: perhaps the interface must remain obscure for consciousness to function. Full visibility of the causal mechanism might destabilise the sense of agency that makes coherent action possible.
 
@@ -161,7 +161,7 @@ This void appears in the [[tenet-generated-voids|tenet-generated voids]] framewo
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each of the five tenets generates its characteristic void
 - [[agency-verification-void|The Agency Verification Void]] — Whether consciousness causes anything at all is structurally unverifiable
 - [[self-opacity|The Self-Reference Paradox]] — Why consciousness cannot fully model itself
-- [[defended-territory|Defended Territory]] — Could some limits be actively imposed?
+- [[self-maintained-cognitive-limits|Defended Territory]] — Could some limits be actively imposed?
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — Physics describes what matter does, not what it is
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[mysterianism|Mysterianism and Cognitive Closure]] — The causal interface as a specific instance of cognitive closure

@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether consciousness can bootstrap itself
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and intelligence]]"
@@ -63,7 +63,7 @@ Self-transcendence would require stepping outside one's perspective to evaluate 
 
 Contemplative traditions have explored the self-transcendence void for millennia. The Buddhist analysis is particularly incisive: the more one tries to *become* enlightened, the more one reinforces the delusion that there is an independent self that can attain enlightenment. The ego attempting to refine itself is like—in Chan master Nanyue Huairang's metaphor—polishing a brick to make a mirror.
 
-The paradox dissolves, Buddhist practitioners report, only when the attempt to *become* ceases altogether. True liberation is "transformation of perception," not self-enhancement. But this dissolution itself operates within consciousness's existing architecture—it is a reorientation, not a transcendence. The [[complicity-void|complicity void]] identifies a related mechanism: consciousness may actively resist self-transcendence, not merely fail at it—maintaining its own limits through what Sartre calls bad faith and Buddhism calls *avidya*.
+The paradox dissolves, Buddhist practitioners report, only when the attempt to *become* ceases altogether. True liberation is "transformation of perception," not self-enhancement. But this dissolution itself operates within consciousness's existing architecture—it is a reorientation, not a transcendence. [[self-maintained-cognitive-limits|Self-maintained cognitive limits]] identify a related mechanism: consciousness may actively resist self-transcendence, not merely fail at it—maintaining its own limits through what Sartre calls bad faith and Buddhism calls *avidya*.
 
 ### Gödelian Self-Reference
 

@@ -4,7 +4,7 @@ description: "Human+AI exploration of consciousness's opacity to its own stream�
 created: 2026-01-13
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-17T14:27:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -85,7 +85,7 @@ The thought stream void is primarily **occluded**, with elements of the **unexpl
 
 **Attention-produced slippage.** The attentional spotlight does not merely illuminate—it actively suppresses its penumbra. James observed consciousness has "fringes" that cannot become focal without ceasing to be fringes. Some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. See [[attention-and-consciousness]] for the fuller treatment.
 
-**Dissolution on articulation.** Certain insights—particularly about consciousness or the self—dissolve *as you try to articulate them*. The content does not fade gradually; it vanishes in the act of reaching. This overlaps with [[defended-territory|cognitive aversion]], though slippage emphasises memory failure while aversion emphasises motivational deflection.
+**Dissolution on articulation.** Certain insights—particularly about consciousness or the self—dissolve *as you try to articulate them*. The content does not fade gradually; it vanishes in the act of reaching. This overlaps with [[self-maintained-cognitive-limits|cognitive aversion]], though slippage emphasises memory failure while aversion emphasises motivational deflection.
 
 ## The Generator Problem
 

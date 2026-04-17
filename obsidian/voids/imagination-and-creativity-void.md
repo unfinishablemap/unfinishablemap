@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-06
 human_modified: null
-ai_modified: 2026-04-16T03:18:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[limits-reveal-structure]]"
-  - "[[defended-territory]]"
+  - "[[self-maintained-cognitive-limits]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[topics/free-will]]"
   - "[[process-and-consciousness]]"
@@ -117,7 +117,7 @@ The process void may be structural. If creative selection involves the same cons
 
 Across cultures and centuries, creators have externalised their source. Plato's Socrates describes the poet as divinely inspired. Jung locates creativity in "primordial images" that "cannot be explained as personal acquisitions." This externalisation may be phenomenologically accurate---creative insight genuinely arrives from outside the conscious self, where "outside" means the vast unconscious rather than divine sources.
 
-Thomas Kuhn's work on scientific revolutions revealed another dimension: paradigm blindness. Scientists working within a paradigm find its assumptions invisible---the framework that enables normal science simultaneously constrains what questions can be asked. This is Occluded rather than Unexplorable territory---[[defended-territory]] where ideas could be formed but are actively resisted. Kuhn observed that paradigm shifts are generational: proponents of the old paradigm rarely convert.
+Thomas Kuhn's work on scientific revolutions revealed another dimension: paradigm blindness. Scientists working within a paradigm find its assumptions invisible---the framework that enables normal science simultaneously constrains what questions can be asked. This is Occluded rather than Unexplorable territory---[[self-maintained-cognitive-limits|defended territory]] where ideas could be formed but are actively resisted. Kuhn observed that paradigm shifts are generational: proponents of the old paradigm rarely convert.
 
 If paradigm blindness generalises, cultural and personal assumptions may occlude vast territories of possible thought---experienced not as blocked ideas but as absent ones.
 
@@ -182,7 +182,7 @@ Neither void has yielded to centuries of investigation. Imagination's limits per
 - [[language-thought-boundary]] --- Where language constrains or enables thought
 - [[self-opacity]] --- The observer that cannot observe itself
 - [[three-kinds-of-void]] --- Unexplored, unexplorable, occluded
-- [[defended-territory]] --- Thoughts blocked by commitment rather than impossibility
+- [[self-maintained-cognitive-limits]] --- Thoughts blocked by commitment rather than impossibility
 - [[mysterianism]] --- McGinn on structural cognitive limits
 - [[limits-reveal-structure]] --- How boundaries illuminate architecture
 - [[topics/free-will]] --- How creative selection connects to agent causation

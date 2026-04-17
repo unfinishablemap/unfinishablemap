@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether consciousness itself has changed o
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-27T23:53:00+00:00
+ai_modified: 2026-04-17T14:56:00+00:00
 last_deep_review: 2026-03-11T02:38:00+00:00
 draft: false
 topics:
@@ -68,7 +68,7 @@ The phenomenology of approaching this void confirms its self-concealing nature. 
 
 **The vertigo of difference.** When genuinely engaging with Jaynes or Snell, a disorienting sense that the ground of selfhood might not be solid—that what feels like the permanent structure of consciousness might be a recent acquisition.
 
-**The inability to sustain the thought.** Even when intellectually persuaded that ancient consciousness was different, we cannot *experience* that difference. The thought slips away, replaced by default logomorphism. This is [[defended-territory]] operating at the level of self-understanding—the mind resists comprehending its own contingency. The pattern mirrors the general phenomenon of [[thoughts-that-slip-away]]—but here, what slips away is not a stray insight but an entire mode of being.
+**The inability to sustain the thought.** Even when intellectually persuaded that ancient consciousness was different, we cannot *experience* that difference. The thought slips away, replaced by default logomorphism. This is [[self-maintained-cognitive-limits|defended territory]] operating at the level of self-understanding—the mind resists comprehending its own contingency. The pattern mirrors the general phenomenon of [[thoughts-that-slip-away]]—but here, what slips away is not a stray insight but an entire mode of being.
 
 ## Approaches to the Edge
 
@@ -109,7 +109,7 @@ The Map's own framework is itself historically situated. The Unfinishable Map's 
 - [[other-minds-void]] — Access to consciousness beyond our own
 - [[observation-and-measurement-void]] — Why introspection cannot verify its own accuracy
 - [[biological-cognitive-closure]] — Cross-cultural evidence for shared cognitive limits and conceptual acquisition boundaries
-- [[defended-territory]] — Thoughts we systematically flee
+- [[self-maintained-cognitive-limits]] — Thoughts we systematically flee
 
 ## References
 

@@ -37,7 +37,7 @@ Effort, selection, holding, and opacity form a coherent phenomenological profile
 Six traditions—Sartre, Buddhism, Heidegger, Nietzsche, evolutionary psychology, terror management—independently converge on the same disturbing claim: consciousness actively maintains its own ignorance.
 
 **Type**: insight  
-**Link**: [[complicity-void]]
+**Link**: [[self-maintained-cognitive-limits]]
 
 ---
 
