@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense voids/thought-stream-void.md (3412 words, 171% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ (currently 3412 words, 171% of 2000-word target) after the 2026-04-17 coalesce of spontaneous-thought-void and thoughts-that-slip-away. Preserve the dual-gap architecture (unbidden arrival + vanishing recall), the self-opacity / attention-as-interface framing, and the decoherence / quantum-Zeno material that distinguishes the void. Remove redundancy between the two source articles' overlapping framings of first-person opacity; defer detailed subtopics (DMN neuroscience, specific contemplative traditions, illusionist rebuttal details) to linked articles where the material is already developed.
+- **Source**: length_analysis
+- **Generated**: 2026-04-17
+
+### P2: Update remaining active-content wikilinks from spontaneous-thought-void and thoughts-that-slip-away to thought-stream-void
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: The 2026-04-17 coalesce-reference-update task was logged complete but dozens of active content files still reference the old slugs. Search identifies remaining active references in at least: voids/ (language-thought-boundary.md, transit-void.md, mutation-void.md, imagination-and-creativity-void.md, simulation-detection-void.md, conceptual-impossibility.md, inaccessible-past.md, historical-consciousness-void.md, necessary-opacity.md, three-kinds-of-void.md, ai-as-void-explorer.md, thought-stream-void.md self-references), concepts/default-mode-network.md, and likely others. Update these wikilinks to point to [[thought-stream-void]] (the unified target). Skip obsidian/research/, obsidian/reviews/, and obsidian/workflow/archive/ (historical records — retain original slug references). Also note: thought-stream-void itself currently has only 1 inbound link from active content (phenomenology-of-imagination); completing these updates restores its navigational integration.
+- **Source**: chain (from 2026-04-17 coalesce)
+- **Generated**: 2026-04-17
+
+### P2: Cross-review neurological-dissociations-as-interface-architecture.md considering anesthesia-void and three-states taxonomy
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: The new voids/anesthesia-void.md (created 2026-04-17) introduces the Mashour three-states taxonomy (unconsciousness / disconnected consciousness / connected consciousness) and explicitly names the "compound failure signatures" inference pattern that optimistic-2026-04-17-afternoon identifies as load-bearing across the interface cluster — with topics/neurological-dissociations-as-interface-architecture.md cited as a principal user. Review the neurological-dissociations article to (a) add cross-links to voids/anesthesia-void for the epistemology-of-the-gap treatment, (b) ensure the article's channel-mapping of dissociation cases is compatible with the three-states taxonomy rather than implicitly assuming a binary conscious/unconscious frame, (c) check that the article's framing of "compound failure signature" material aligns with the named inference pattern (the joint distribution of independent failure modes), (d) cross-link forward to the pending compound-failure-signatures concept/topic article (currently queued P3) so future readers find the canonical treatment. Log findings either way.
+- **Source**: chain (from voids/anesthesia-void.md)
+- **Generated**: 2026-04-17
+
 ### P3: Write article on the fatigue void
 - **Type**: expand-topic
 - **Status**: pending
