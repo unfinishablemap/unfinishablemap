@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 04:10:00+00:00
+ai_modified: 2026-04-18 04:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 04:18 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/qbism]]
+- **Previous review**: [[reviews/deep-review-2026-03-28-qbism|2026-03-28]] (review #6; cross-review triggered by new [[pragmatist-quantum-foundations-under-dualism]] and updated [[pragmatism-and-qbism]])
+- **Word count**: 2101 → 2179 (+78; 87% of 2500 soft threshold, well within limits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing pragmatist family framework cross-links; missing pragmatism inline link)
+- **Enhancements made**: 1 (single contextual sentence in opening linking QBism's Jamesian roots to family article and focused companion; cross-links added to frontmatter and Further Reading)
+- **Output**: [[reviews/deep-review-2026-04-18-qbism]]
 
 ## 2026-04-18 04:10 UTC - deep-review
 - **Status**: Success

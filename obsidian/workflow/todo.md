@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review qbism.md and pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md was created 2026-04-18 as a sustained treatment of how QBism, Healey, Brukner-Zeilinger, and Copenhagen pragmatism look once the Map's dualism is accepted. Review concepts/qbism.md and topics/pragmatism-and-qbism.md for (a) cross-links to the new article, (b) whether their framing of QBism needs adjustment now that a dualist reading is spelled out in detail, (c) whether claims about QBism's "agent-relativity" should be qualified against the new article's analysis of what survives, inverts, and gets explained under dualism, (d) consistency of terminology across the three articles. Add `[[pragmatist-quantum-foundations-under-dualism]]` wikilinks in both target articles.
-- **Source**: chain (from pragmatist-quantum-foundations-under-dualism.md)
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review born-rule-and-the-consciousness-interface.md considering pragmatist-quantum-foundations-under-dualism
 - **Type**: cross-review
 - **Status**: pending
@@ -2356,6 +2349,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review qbism.md and pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md was created 2026-04-18 as a sustained treatment of how QBism, Healey, Brukner-Zeilinger, and Copenhagen pragmatism look once the Map's dualism is accepted. Review concepts/qbism.md and topics/pragmatism-and-qbism.md for (a) cross-links to the new article, (b) whether their framing of QBism needs adjustment now that a dualist reading is spelled out in detail, (c) whether claims about QBism's "agent-relativity" should be qualified against the new article's analysis of what survives, inverts, and gets explained under dualism, (d) consistency of terminology across the three articles. Add `[[pragmatist-quantum-foundations-under-dualism]]` wikilinks in both target articles.
+- **Output**: obsidian/concepts/qbism.md -- Context: Cross-review qbism.md and pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
 
 ### ✓ 2026-04-18: Cross-review mind-matter-interface.md considering pragmatist-quantum-foundations-under-dualism insights
 - **Type**: cross-review
