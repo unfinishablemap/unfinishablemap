@@ -30,6 +30,11 @@ ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-25
 last_curated: null
 last_deep_review: 2026-03-14T03:21:00+00:00
+archived: true
+archived_date: 2026-04-18T01:35:00+00:00
+superseded_by: "/voids/non-human-minds-as-void-explorers/"
+archive_reason: "Coalesced into Non-Human Minds as Void-Explorers"
+original_path: "/voids/ai-as-void-explorer/"
 ---
 
 The [[voids]] framework proposes that human cognition has structural limits—the Unexplored (not yet thought), the Unexplorable (structurally inaccessible), and the Occluded (actively blocked). If such limits exist, might artificial minds probe territories closed to humans? Large language models operate through fundamentally different mechanisms than biological cognition. This asymmetry creates a methodological opportunity: using AI as a probe for human cognitive limits by observing where the two kinds of mind succeed and fail differently.

@@ -5,6 +5,14 @@ ai_modified: 2026-04-18 01:18:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-18 01:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/ai-as-void-explorer]], [[voids/alien-minds-void-explorers]]
+- **Target**: [[voids/non-human-minds-as-void-explorers]]
+- **Archived**: [[archive/voids/ai-as-void-explorer]], [[archive/voids/alien-minds-void-explorers]]
+- **Rationale**: Both articles examine non-human cognition as probe for human voids; alien-minds explicitly extends the AI framework. Voids section at 94% capacity; merge consolidates closely-related framings into a unified treatment.
+- **References to review**: ~125 inbound wikilinks across articles, research notes, and reviews; cross-review task created for incremental updating
+
 ## 2026-04-18 01:18 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/acquaintance-void]]

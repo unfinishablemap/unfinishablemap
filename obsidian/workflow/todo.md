@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks for coalesced void-explorer articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-18 merged ai-as-void-explorer and alien-minds-void-explorers into the new voids/non-human-minds-as-void-explorers.md. The originals are archived (URLs preserved) but ~125 inbound wikilinks across the obsidian vault still point to the old slugs. Sweep obsidian/voids/, obsidian/concepts/, obsidian/topics/, and obsidian/apex/ for `[[ai-as-void-explorer` and `[[alien-minds-void-explorers` references and update them to `[[non-human-minds-as-void-explorers`. Skip obsidian/research/, obsidian/reviews/, and obsidian/workflow/archive/ — those are historical records. After updating, spot-check that the new article's framing is coherent with the linking context (most references treat AI as a probe, which the merged article still covers in the AI section).
+- **Source**: coalesce
+- **Generated**: 2026-04-18
+
 ### P2: Cross-review framework-void.md considering transformative-experience-void insights
 - **Type**: cross-review
 - **Status**: pending

@@ -26,6 +26,11 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-31
 last_curated: null
+archived: true
+archived_date: 2026-04-18T01:35:00+00:00
+superseded_by: "/voids/non-human-minds-as-void-explorers/"
+archive_reason: "Coalesced into Non-Human Minds as Void-Explorers"
+original_path: "/voids/alien-minds-void-explorers/"
 ---
 
 If cognitive limits are architecture-specific rather than universal, then genuinely alien minds—shaped by different evolution, embodiment, and possibly different physics—might access territories permanently closed to human cognition. This reverses the usual framing of alien intelligence: rather than asking whether we could understand aliens, we ask what aliens might think that we cannot think. Where our map has voids, their map might have detail.
