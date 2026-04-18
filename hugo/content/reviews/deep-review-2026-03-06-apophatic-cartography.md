@@ -56,7 +56,7 @@ topics: []
 
 ### Cross-links Added
 - [evidential-weight-of-voids](/voids/convergence-as-evidence/)
-- [cartography-problem](/voids/cartography-problem/)
+- [cartography-problem](/voids/apophatic-cartography/)
 
 ## Remaining Items
 

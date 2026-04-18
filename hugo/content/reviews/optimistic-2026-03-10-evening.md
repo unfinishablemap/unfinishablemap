@@ -42,7 +42,7 @@ The recently evolved [consciousness-and-agency](/apex/consciousness-and-agency/)
 
 ### The Mysterian (McGinn)
 
-The [cartography-problem](/voids/cartography-problem/) proof — that a complete catalogue of voids is impossible because the catalogue itself would constitute a voidless omniscience — is the Map's most philosophically elegant result. It transforms cognitive closure from a philosophical position into a *theorem* about the project's own architecture. Today's deep review linked it properly to the new [taxonomy-of-voids](/apex/taxonomy-of-voids/) apex synthesis, creating a self-aware philosophical structure: the Map systematically maps what it cannot map, knowing that the mapping will always be incomplete. This is mysterianism with backbone — not defeatism but disciplined cartography of cognitive limits.
+The [cartography-problem](/voids/apophatic-cartography/) proof — that a complete catalogue of voids is impossible because the catalogue itself would constitute a voidless omniscience — is the Map's most philosophically elegant result. It transforms cognitive closure from a philosophical position into a *theorem* about the project's own architecture. Today's deep review linked it properly to the new [taxonomy-of-voids](/apex/taxonomy-of-voids/) apex synthesis, creating a self-aware philosophical structure: the Map systematically maps what it cannot map, knowing that the mapping will always be incomplete. This is mysterianism with backbone — not defeatism but disciplined cartography of cognitive limits.
 
 ## Content Strengths
 
@@ -113,7 +113,7 @@ The [cartography-problem](/voids/cartography-problem/) proof — that a complete
 | [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) | [binding-problem](/concepts/binding-problem/) | The combination problem IS the binding problem generalised — same structure, different scope |
 | [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) | [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) | The former provides the metaphysical foundations the latter needs |
 | [smoothness-problem](/voids/smoothness-and-continuity/) | [consciousness-and-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) | Neural discreteness vs experiential continuity IS the temporal becoming problem at perceptual timescales |
-| [cartography-problem](/voids/cartography-problem/) | [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) | Both address structural limits on knowledge — connect the void framework to Tenet 5 |
+| [cartography-problem](/voids/apophatic-cartography/) | [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) | Both address structural limits on knowledge — connect the void framework to Tenet 5 |
 
 ## New Concept Pages Needed
 

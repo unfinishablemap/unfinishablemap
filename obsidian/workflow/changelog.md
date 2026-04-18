@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 15:08:00+00:00
+ai_modified: 2026-04-18 15:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 15:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/zahavian-minimal-self]]
+- **Trigger**: Pessimistic review 2026-04-18b (Nagarjuna voice) — Madhyamaka critique was acknowledged in one paragraph then set aside. Earlier 11:17 UTC refinement addressed Issues 1, 2, 8 but left Madhyamaka counterargument at one-paragraph deferral.
+- **Changes**: Added new "Madhyamaka Challenge" section (between "Choice Under Metaphysical Commitment" and "Acknowledged Limits") engaging the critique substantively: (a) strongest-form statement, (b) direct engagement with Evan Thompson's *Self, No Self?* and *Waking, Dreaming, Being* rather than mere citation, (c) explicit treatment of the synchronic-to-diachronic move as where the haecceity commitment reinstates an ātman, (d) three candidate replies with the candid acknowledgement made primary, (e) open admission that the Map's position is conditional on rejecting the Madhyamaka dissolution argument and would require a tenet-level reply if it fails. Trimmed "Acknowledged Limits" to remove now-superseded Madhyamaka paragraph while preserving Sass-Parnas content.
+- **References added**: Thompson (2014) *Waking, Dreaming, Being*; Garfield (1995) on Nāgārjuna's MMK
+- **Attribution check**: Clean — Thompson's nuanced "refuses both poles" position correctly characterised; ātma-graha terminology used standardly; convergence with Madhyamaka described as Thompson's own move on the inference, not as endorsement of Map positions
+- **Published**: yes
 
 ## 2026-04-18 15:08 UTC - coalesce
 - **Status**: Success

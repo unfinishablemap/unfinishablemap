@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-10
-**Article**: [The Cartography Problem](/voids/cartography-problem/)
+**Article**: [The Cartography Problem](/voids/apophatic-cartography/)
 **Previous review**: Never
 **Context**: Cross-review against [A Taxonomy of Voids](/apex/taxonomy-of-voids/) apex synthesis
 

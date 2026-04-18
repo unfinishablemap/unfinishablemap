@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Cross-review triggered by the creation of [The Cartography Problem](/voids/cartography-problem/), which directly references incompleteness-void and develops related themes about second-order limits on cataloging voids.
+Cross-review triggered by the creation of [The Cartography Problem](/voids/apophatic-cartography/), which directly references incompleteness-void and develops related themes about second-order limits on cataloging voids.
 
 ## Pessimistic Analysis Summary
 
@@ -62,13 +62,13 @@ All checks pass:
 8. **"What Would Challenge This View"**: Strong epistemic honesty
 
 ### Enhancements Made
-1. Cross-link to [cartography-problem](/voids/cartography-problem/) in "Implications for Consciousness" section
-2. Cross-link to [cartography-problem](/voids/cartography-problem/) in Further Reading
-3. Added [cartography-problem](/voids/cartography-problem/) to frontmatter related_articles
+1. Cross-link to [cartography-problem](/voids/apophatic-cartography/) in "Implications for Consciousness" section
+2. Cross-link to [cartography-problem](/voids/apophatic-cartography/) in Further Reading
+3. Added [cartography-problem](/voids/apophatic-cartography/) to frontmatter related_articles
 4. Trimmed weak editorial sentence in "What AI Might See" for length neutrality
 
 ### Cross-links Added
-- [cartography-problem](/voids/cartography-problem/) — in Implications section and Further Reading
+- [cartography-problem](/voids/apophatic-cartography/) — in Implications section and Further Reading
 
 ## Word Count
 - Before: 2020 words (101% of 2000 soft threshold)

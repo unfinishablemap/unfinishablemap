@@ -27,7 +27,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[voids-as-evidence]]'
-- '[[cartography-problem]]'
+- '[[apophatic-cartography]]'
 - '[[phenomenal-quality-void]]'
 title: Whether the Voids Are Real
 topics:
@@ -110,7 +110,7 @@ This reframes the three verdicts: limits may be neither permanently fixed nor co
 
 If the question whether voids are real is itself a void, then:
 
-**The framework must embrace meta-uncertainty.** The [voids project](/voids/) cannot assume its central premise, but neither can it dismiss it. The [cartography problem](/voids/cartography-problem/) deepens this: even setting aside individual voids, cataloging them faces a provable second-order gap—we cannot know what limits we have missed.
+**The framework must embrace meta-uncertainty.** The [voids project](/voids/) cannot assume its central premise, but neither can it dismiss it. The [cartography problem](/voids/apophatic-cartography/) deepens this: even setting aside individual voids, cataloging them faces a provable second-order gap—we cannot know what limits we have missed.
 
 **Indirect methods become essential.** Direct verification being impossible, the Map should track the *shape* of failure. If attempts to solve the hard problem keep failing structurally—and if those failures [cluster around the consciousness-matter interface](/voids/voids-as-evidence/)—the pattern provides weak but cumulative evidence. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) formalises these indirect methods and identifies the distinct warrant structures each produces.
 
@@ -152,7 +152,7 @@ The voids framework does not require that the voids be real. It requires only th
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why the stamp of realness hides itself
 - [Voids as Evidence](/voids/voids-as-evidence/) — Whether the clustering pattern and the capacity to conceive voids constitute evidence for dualism
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — What kind of knowledge limit-claims are and what warrant supports them
-- [The Cartography Problem](/voids/cartography-problem/) — Whether the voids project can catalog its own limits
+- [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — The method of knowing through negation, and whether the voids project can catalog its own limits
 
 ## References
 

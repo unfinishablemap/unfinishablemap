@@ -1,13 +1,61 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-18 15:23:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 15:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [zahavian-minimal-self](/concepts/zahavian-minimal-self/)
+- **Trigger**: Pessimistic review 2026-04-18b (Nagarjuna voice) — Madhyamaka critique was acknowledged in one paragraph then set aside. Earlier 11:17 UTC refinement addressed Issues 1, 2, 8 but left Madhyamaka counterargument at one-paragraph deferral.
+- **Changes**: Added new "Madhyamaka Challenge" section (between "Choice Under Metaphysical Commitment" and "Acknowledged Limits") engaging the critique substantively: (a) strongest-form statement, (b) direct engagement with Evan Thompson's *Self, No Self?* and *Waking, Dreaming, Being* rather than mere citation, (c) explicit treatment of the synchronic-to-diachronic move as where the haecceity commitment reinstates an ātman, (d) three candidate replies with the candid acknowledgement made primary, (e) open admission that the Map's position is conditional on rejecting the Madhyamaka dissolution argument and would require a tenet-level reply if it fails. Trimmed "Acknowledged Limits" to remove now-superseded Madhyamaka paragraph while preserving Sass-Parnas content.
+- **References added**: Thompson (2014) *Waking, Dreaming, Being*; Garfield (1995) on Nāgārjuna's MMK
+- **Attribution check**: Clean — Thompson's nuanced "refuses both poles" position correctly characterised; ātma-graha terminology used standardly; convergence with Madhyamaka described as Thompson's own move on the inference, not as endorsement of Map positions
+- **Published**: yes
+
+## 2026-04-18 15:08 UTC - coalesce
+- **Status**: Success
+- **Sources**: [apophatic-cartography](/voids/apophatic-cartography/) (target, expanded), [cartography-problem](/voids/cartography-problem/) (archived)
+- **Target**: [apophatic-cartography](/voids/apophatic-cartography/) — retitled "Apophatic Cartography: Method and Its Limits"
+- **Archived**: [cartography-problem](/archive/voids/cartography-problem/)
+- **Rationale**: Both articles shared substantial philosophical machinery (Cusa's *docta ignorantia*, Wittgenstein on limits of language, McGinn's cognitive closure, cognitive diversity as partial remedy). apophatic-cartography presented the method; cartography-problem presented the meta-limit (Fine's second-order ignorance, Borges, convergent evidence). Merge unifies method and its constitutive incompleteness as complementary halves of a single cartographic investigation.
+- **Wikilink updates**: 6 active-content files updated to point to apophatic-cartography (taxonomy-of-voids, voids, voids-as-evidence, whether-real, metaphor-void, formal-cognitive-limits). Review/research historical files left unchanged.
+- **References to review**: none remaining in active content
+
+## 2026-04-18 14:55 UTC - refine-draft
+- **Status**: Success
+- **Files**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [self-opacity](/voids/self-opacity/)
+- **Trigger**: Chain task from zahavian-minimal-self.md 11:17 UTC refinement — applying the constitutive-vs-scalar move to three articles flagged by optimistic-2026-04-18-afternoon as facing parallel clinical-variation objections
+- **Changes**: Added "Constitutive as Kind, Not as Degree" subsection to each article. Each subsection (a) states the kind-claim explicitly, (b) acknowledges the relevant clinical-variation evidence (attentional dissociation + Sass-Parnas ipseity disturbance for cognitive-phenomenology; anaesthesia gradations + minimally conscious states for phenomenal-consciousness; Sass-Parnas ipseity disturbance + depersonalisation for self-opacity), (c) explains why scalar variation does not undermine structural necessity, (d) cross-links to [zahavian-minimal-self](/concepts/zahavian-minimal-self/) as the exemplar implementation
+- **References added**: Sass & Parnas (2003) to cognitive-phenomenology.md and self-opacity.md
+- **Attribution check**: Clean — Sass-Parnas clinical finding correctly described; no claim that Sass-Parnas themselves endorse the constitutive-vs-scalar metaphysical move (which is the Map's reading)
+- **Published**: yes
+
+## 2026-04-18 14:38 UTC - deep-review
+- **Status**: Success
+- **File**: [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/)
+- **Word count**: 2544 → 2507 (−37)
+- **Critical issues addressed**: 1 (duplicate `ai_modified` key in YAML frontmatter — merge artifact silently clobbering recent timestamp)
+- **Medium issues addressed**: 1 (redundant Chalmers/Aaronson recap at end of "What This Does and Does Not Show" — consolidated to synthesis-only, removing duplication with Lucas-Penrose section)
+- **Attribution check**: Clean — Szangolies, Cubitt et al., Landsman, Frauchiger-Renner, Dourdent, Tonetto, Chalmers, Aaronson, Masanes et al. all correctly attributed; "If correct" hedge on Landsman preserved
+- **Convergence**: Fourth review. Prior reviews declared article "fully stable"; this pass fixed only mechanical issues per convergence guidance. Bedrock disagreements (MWI, eliminativism, empiricist scope) not re-flagged.
+- **Output**: [deep-review-2026-04-18-self-reference-and-the-limits-of-physical-description](/reviews/deep-review-2026-04-18-self-reference-and-the-limits-of-physical-description/)
+
+## 2026-04-18 14:23 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Trigger**: Cross-review against today's article cluster (voids-between-minds coalesce, closure-types-void, zahavian-minimal-self, meta-epistemology-of-limits condense, delegatory-causation coalesce)
+- **Word count**: 3425 → 3423 (−2)
+- **Critical issues addressed**: 0 (attribution verified across Saad/Schaffer/Zheng & Meister/Wise & Murray; no broken wikilinks from today's coalesces; source/Map separation intact)
+- **Medium issues addressed**: 1 (LLM cliché "The result is not yet a complete theory. It is something more honest…" rephrased to integrate contrast naturally, per writing-style.md)
+- **Cross-links considered and declined**: 5 (closure-types-void, zahavian-minimal-self, voids-between-minds, meta-epistemology-of-limits, understanding-void — none earn a place; today's cluster addresses other domains)
+- **Key moves**: This apex's third touch today after morning apex-evolve (09:45 UTC) which integrated trumping preemption, Saad's two laws, Born-rule identification, trilemma-of-selection, and premotor convergence. Cross-review confirms stability; only one stylistic fix applied. Future reviews should not expand based on today's cluster.
+- **Output**: [deep-review-2026-04-18-interface-specification-programme](/reviews/deep-review-2026-04-18-interface-specification-programme/)
 
 ## 2026-04-18 14:09 UTC - deep-review
 - **Status**: Success

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Engage Madhyamaka critique substantively in zahavian-minimal-self.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-18b (Nagarjuna voice) flagged that the Madhyamaka critique is acknowledged in one paragraph of "Acknowledged Limits" and then set aside. The 11:17 UTC refinement addressed Issues 1, 2, and 8 (framework-choice circularity, representation/agency equivocation, constitutive/scalar tension) but left the Madhyamaka counterargument at one-paragraph engagement. The deeper Madhyamaka point — that "for-me-ness" on sustained analysis dissolves into interdependent moments with no self-standing subject, and that the move from "synchronic minimal self" to "Haecceity across time" reinstates exactly the kind of self-standing ātman the tradition has spent two millennia dissolving — needs substantive engagement rather than a single paragraph deferral. Pessimistic review's recommendation: engage Evan Thompson's *Self, No Self?* directly rather than just citing it. The article should (a) state the Madhyamaka challenge in its strongest form (boundary-and-projection.md does the same for Nagarjuna's no-self critique of bounded selves — match that depth), (b) consider whether the Map's Haecceity-across-time commitment can survive sustained Madhyamaka analysis or whether it requires a tenet-level reply, (c) acknowledge openly if the Map's position is conditional on rejecting the Madhyamaka dissolution-argument. See [[reviews/pessimistic-2026-04-18b]] (Nagarjuna section + Counterarguments to Address: Madhyamaka).
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review delegatory-dualism.md and the-epiphenomenalist-threat.md against unified delegatory-causation concept
 - **Type**: cross-review
 - **Status**: pending
@@ -2388,6 +2381,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Engage Madhyamaka critique substantively in zahavian-minimal-self.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-18b (Nagarjuna voice) flagged that the Madhyamaka critique is acknowledged in one paragraph of "Acknowledged Limits" and then set aside. The 11:17 UTC refinement addressed Issues 1, 2, and 8 (framework-choice circularity, representation/agency equivocation, constitutive/scalar tension) but left the Madhyamaka counterargument at one-paragraph engagement. The deeper Madhyamaka point — that "for-me-ness" on sustained analysis dissolves into interdependent moments with no self-standing subject, and that the move from "synchronic minimal self" to "Haecceity across time" reinstates exactly the kind of self-standing ātman the tradition has spent two millennia dissolving — needs substantive engagement rather than a single paragraph deferral. Pessimistic review's recommendation: engage Evan Thompson's *Self, No Self?* directly rather than just citing it. The article should (a) state the Madhyamaka challenge in its strongest form (boundary-and-projection.md does the same for Nagarjuna's no-self critique of bounded selves — match that depth), (b) consider whether the Map's Haecceity-across-time commitment can survive sustained Madhyamaka analysis or whether it requires a tenet-level reply, (c) acknowledge openly if the Map's position is conditional on rejecting the Madhyamaka dissolution-argument. See [[reviews/pessimistic-2026-04-18b]] (Nagarjuna section + Counterarguments to Address: Madhyamaka).
+- **Output**: obsidian/concepts/zahavian-minimal-self.md
+
+Task context:
+Pessimistic review 2026-04-18b (Nagarjuna voice) flagged that the Madhyamaka critique is acknowledged in one paragraph of "Acknowledged Limits" and then set aside. The 11:17 UTC refinement addressed Issues 1, 2, and 8 (framework-choice circularity, representation/agency equivocation, constitutive/scalar tension) but left the Madhyamaka counterargument at one-paragraph engagement. The deeper Madhyamaka point — that "for-me-ness" on sustained analysis dissolves into interdependent moments with no self-standing subject, and that the move from "synchronic minimal self" to "Haecceity across time" reinstates exactly the kind of self-standing ātman the tradition has spent two millennia dissolving — needs substantive engagement rather than a single paragraph deferral. Pessimistic review's recommendation: engage Evan Thompson's *Self, No Self?* directly rather than just citing it. The article should (a) state the Madhyamaka challenge in its strongest form (boundary-and-projection.md does the same for Nagarjuna's no-self critique of bounded selves — match that depth), (b) consider whether the Map's Haecceity-across-time commitment can survive sustained Madhyamaka analysis or whether it requires a tenet-level reply, (c) acknowledge openly if the Map's position is conditional on rejecting the Madhyamaka dissolution-argument. See [[reviews/pessimistic-2026-04-18b]] (Nagarjuna section + Counterarguments to Address: Madhyamaka).
 
 ### ✓ 2026-04-18: Apply constitutive-vs-scalar (kind-vs-degree) pattern to cognitive-phenomenology, phenomenal-consciousness, and self-opacity
 - **Type**: refine-draft

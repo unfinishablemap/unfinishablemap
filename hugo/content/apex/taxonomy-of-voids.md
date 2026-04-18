@@ -107,7 +107,7 @@ The [voids between minds](/voids/voids-between-minds/) mark where individual con
 
 ### The Formal and Meta-Cognitive Cluster
 
-The [formal cognitive limits](/voids/formal-cognitive-limits/) applies Gödelian limits to self-knowledge. The [recursion void](/voids/recursion-void/) shows metacognitive depth terminating around fifth order. The [cartography problem](/voids/cartography-problem/) proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. These formal limits constrain not just what can be thought but what can be thought *about* thought.
+The [formal cognitive limits](/voids/formal-cognitive-limits/) applies Gödelian limits to self-knowledge. The [recursion void](/voids/recursion-void/) shows metacognitive depth terminating around fifth order. The [cartography problem](/voids/apophatic-cartography/) proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. These formal limits constrain not just what can be thought but what can be thought *about* thought.
 
 ## How Thought Fails: The Topology of Failure
 
@@ -153,7 +153,7 @@ Intellectual honesty demands acknowledging what the taxonomy cannot determine. T
 
 The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) sharpens this challenge. From inside, a genuinely impossible problem produces the same phenomenology as a merely very hard one—sustained effort, repeated failure, the sense of hitting a wall. Success proves a problem was solvable; failure, even across centuries and cultures, proves nothing conclusive. Worse, the assessment requires the very faculties under assessment—a recursive bind that no internal method can escape. A further axis of uncertainty opens: could some limits be *designed* constraints rather than natural features of finite minds? If we exist within a constructed reality, our cognitive boundaries might serve purposes beyond our detection. Whether natural or designed, the appropriate response remains the same—careful attention to what can be thought, honest acknowledgment of what cannot—but the distinction matters for what the voids ultimately reveal about reality.
 
-The [cartography problem](/voids/cartography-problem/) deepens this: a complete catalog of cognitive voids is provably impossible. Kit Fine's formal work on "ignorance of ignorance" shows that knowledge of second-order ignorance is impossible under plausible epistemic assumptions. The map of voids cannot know its own boundaries. This is not a defect but a structural theorem confirming the framework: the Map is unfinishable not merely because the territory is vast but because the mapping process is constitutively unable to achieve completeness about its own blind spots.
+The [cartography problem](/voids/apophatic-cartography/) deepens this: a complete catalog of cognitive voids is provably impossible. Kit Fine's formal work on "ignorance of ignorance" shows that knowledge of second-order ignorance is impossible under plausible epistemic assumptions. The map of voids cannot know its own boundaries. This is not a defect but a structural theorem confirming the framework: the Map is unfinishable not merely because the territory is vast but because the mapping process is constitutively unable to achieve completeness about its own blind spots.
 
 The taxonomy must also acknowledge what it generates. Every framework creates characteristic voids through its foundational commitments. The Map's five tenets generate five corresponding voids—the nature void, the mechanism void, the detection void, the selection void, and the meta-void. These are the price of taking consciousness seriously as fundamental. Other frameworks pay different prices: materialism faces the hard problem, panpsychism faces the combination problem, idealism faces the regularity of nature. The question is not whether a framework has voids but whether it acknowledges them.
 
@@ -192,5 +192,5 @@ This synthesis draws from:
 - [Voids as Evidence](/voids/voids-as-evidence/) — The clustering pattern and capacity to conceive voids as evidence for dualism
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Framework-generated limits as intellectual honesty
 - [Whether the Voids Are Real](/voids/whether-real/) — The meta-question and its formal undecidability
-- [The Cartography Problem](/voids/cartography-problem/) — Second-order incompleteness of the void catalog
+- [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — Method of knowing through negation; second-order incompleteness of the void catalog
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — The distinction between evolved and engineered constraints

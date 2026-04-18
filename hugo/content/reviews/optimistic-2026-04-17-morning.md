@@ -120,7 +120,7 @@ The mapping-mind-space article's Flatland treatment — "a Flatlander can be *to
 #### Recursive Cognitive Closure
 
 - **Builds on**: [mapping-mind-space](/voids/mapping-mind-space/) "Dimensionality limit is recursive" passage, [biological-cognitive-closure](/voids/biological-cognitive-closure/), [self-transcendence-void](/voids/self-transcendence-void/), [mysterianism](/concepts/mysterianism/).
-- **Would address**: The mapping-mind-space condensation sharpened the recursive-closure argument — can't know, can't know we can't know, can't formulate the question. This structural feature distinguishes second-order closure from first-order closure and deserves dedicated treatment. It also connects to [cartography-problem](/voids/cartography-problem/) (the map of cognitive voids cannot contain itself) in ways that article does not fully develop.
+- **Would address**: The mapping-mind-space condensation sharpened the recursive-closure argument — can't know, can't know we can't know, can't formulate the question. This structural feature distinguishes second-order closure from first-order closure and deserves dedicated treatment. It also connects to [cartography-problem](/voids/apophatic-cartography/) (the map of cognitive voids cannot contain itself) in ways that article does not fully develop.
 - **Estimated scope**: Medium (2000 words).
 - **Tenet alignment**: Occam's Razor Has Limits, Dualism.
 

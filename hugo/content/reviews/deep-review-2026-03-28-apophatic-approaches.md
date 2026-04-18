@@ -53,7 +53,7 @@ Fifth review. The article was declared converged at the fourth review (no critic
 
 ### Cross-links Added (Inbound)
 - **[taxonomy-of-voids](/apex/taxonomy-of-voids/)** — Added contextual link where the apex article discusses the traditions underpinning apophatic cartography
-- **[cartography-problem](/voids/cartography-problem/)** — Added link on "learned ignorance" connecting Cusanus reference to the concept page
+- **[cartography-problem](/voids/apophatic-cartography/)** — Added link on "learned ignorance" connecting Cusanus reference to the concept page
 
 ## Remaining Items
 

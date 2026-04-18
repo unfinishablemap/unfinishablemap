@@ -80,7 +80,7 @@ Signature failure: **architectural mismatch**—the tool is wrong for the job, a
 
 ### The Framework Reflexivity Family
 
-The [tenet-generated voids](/voids/tenet-generated-voids/), the [cartography problem](/voids/cartography-problem/), the [formal cognitive limits](/voids/formal-cognitive-limits/), the [recursion void](/voids/recursion-void/), and the [question of whether voids are real](/voids/whether-real/) share a self-referential structure: each asks whether the framework investigating voids can account for its own limitations.
+The [tenet-generated voids](/voids/tenet-generated-voids/), the [cartography problem](/voids/apophatic-cartography/), the [formal cognitive limits](/voids/formal-cognitive-limits/), the [recursion void](/voids/recursion-void/), and the [question of whether voids are real](/voids/whether-real/) share a self-referential structure: each asks whether the framework investigating voids can account for its own limitations.
 
 Signature failure: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation. Not paradox (which would be crisp) but vertigo.
 

@@ -72,7 +72,7 @@ topics: []
 6. **Tightened "Why conditions haven't been met"** — removed tangential decoherence sentence
 
 ### Cross-links Added
-- [cartography-problem](/voids/cartography-problem/) — new to related_articles, body text, and Further Reading
+- [cartography-problem](/voids/apophatic-cartography/) — new to related_articles, body text, and Further Reading
 
 ### Length Management
 Article was at 2993 words (150% of soft threshold). Operated in length-neutral mode:
