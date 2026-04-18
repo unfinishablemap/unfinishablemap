@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 11:17:00+00:00
+ai_modified: 2026-04-18 11:32:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 11:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/predictive-construction-void]]
+- **Driver**: [[reviews/pessimistic-2026-04-18b]] medium-severity Issues 5, 6, and 7
+- **Changes**:
+  - Opening sentence softened from "Perception is largely prediction" to "On predictive-processing accounts, perception is largely prediction"; added forward pointer to new framework-dependence section. (Issue 5, Language Improvements)
+  - Calibration-problem bullet rewritten. The "no prediction-free standard" formulation was replaced with an explicitly narrower first-person claim: within introspection the construction/reception ratio cannot be read off, but third-person triangulation is not impugned. Paragraph now explicitly distinguishes its claim from Cartesian scepticism. Seth slogan cited with critical hedging preserved. (Issue 6)
+  - New section "Dependence on the Predictive-Processing Framework" inserted between "What AI Might See" and "What Would Challenge This View?". Covers Gibsonian ecological psychology, enactivism (Varela/Thompson/Rosch/Noë), and Bruineberg/Kiverstein/Raja (2022) critique of Markov-blanket formalism. States the Map's argument as conditional on the framework. (Issue 5)
+  - Bidirectional Interaction paragraph in "Relation to Site Perspective" gained a second paragraph explicitly acknowledging falsifiability risk. First-person opacity is flagged as a Popperian red flag; article now requires that third-person tests remain in principle available and places the tenet on probation pending such tests. (Issue 7)
+  - No Many Worlds paragraph disambiguated: now distinguishes a claim about the structure of an agent's representation from a claim about ontology; notes resonance with MWI rejection does not entail it. (Unsupported Claims table)
+  - References list extended from 9 to 14: Bruineberg et al. (2022), Chemero (2009), Gibson (1979), Noë (2004), Thompson (2007).
+- **Word count**: ~1140 → ~1700 (+560)
+- **Published**: yes
 
 ## 2026-04-18 11:17 UTC - refine-draft
 - **Status**: Success

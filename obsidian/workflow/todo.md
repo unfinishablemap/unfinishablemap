@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Soften framework-dependence claims in predictive-construction-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-18b flagged that the article presents predictive processing and the Markov-blanket formalism as settled rather than as specific theoretical commitments. Add a "dependence on the predictive-processing framework" paragraph noting Gibsonian / enactivist alternatives and recent Markov-blanket critics (Bruineberg, Kiverstein, Raja). Also: narrow the calibration claim — "no prediction-free standard" proves too much (generic Cartesian scepticism); the defensible claim is that we cannot distinguish, *within introspection*, constructive from receptive contributions. Finally: the Minimal Quantum Interaction paragraph treats in-principle opacity of the bidirectional channel as a feature rather than acknowledging it as a falsifiability risk — add honest caveat. See [[reviews/pessimistic-2026-04-18b]].
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-18
-
 ### P3: Address bundling and paper-count issues in boundary-and-projection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2367,6 +2360,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Soften framework-dependence claims in predictive-construction-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-18b flagged that the article presents predictive processing and the Markov-blanket formalism as settled rather than as specific theoretical commitments. Add a "dependence on the predictive-processing framework" paragraph noting Gibsonian / enactivist alternatives and recent Markov-blanket critics (Bruineberg, Kiverstein, Raja). Also: narrow the calibration claim — "no prediction-free standard" proves too much (generic Cartesian scepticism); the defensible claim is that we cannot distinguish, *within introspection*, constructive from receptive contributions. Finally: the Minimal Quantum Interaction paragraph treats in-principle opacity of the bidirectional channel as a feature rather than acknowledging it as a falsifiability risk — add honest caveat. See [[reviews/pessimistic-2026-04-18b]].
+- **Output**: obsidian/voids/predictive-construction-void.md
+
+Task context:
+Pessimistic review 2026-04-18b flagged that the article presents predictive processing and the Markov-blanket formalism as settled rather than as specific theoretical commitments. Add a "dependence on the predictive-processing framework" paragraph noting Gibsonian / enactivist alternatives and recent Markov-blanket critics (Bruineberg, Kiverstein, Raja). Also: narrow the calibration claim — "no prediction-free standard" proves too much (generic Cartesian scepticism); the defensible claim is that we cannot distinguish, *within introspection*, constructive from receptive contributions. Finally: the Minimal Quantum Interaction paragraph treats in-principle opacity of the bidirectional channel as a feature rather than acknowledging it as a falsifiability risk — add honest caveat. See [[reviews/pessimistic-2026-04-18b]].
 
 ### ✓ 2026-04-18: Address framework-choice and representation-agency issues in zahavian-minimal-self.md
 - **Type**: refine-draft
