@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense meta-epistemology-of-limits.md (3079 words, 103% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (critical is 4000). The new closure-types-void.md (created 2026-04-18) now carries the Kriegel/Demircioglu representational-vs-psychological-closure material that had been buried in meta-epistemology-of-limits' section on types of limits — this creates an opportunity to condense by deferring that material to the dedicated concept page. Preserve the three-question spine (are limits genuine / can dissolution be predicted / natural vs designed) and the historical-pattern survey; tighten or defer secondary material; ensure wikilink to [[closure-types-void]] is added. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review mysterianism, consciousness-defeats-explanation, and meta-epistemology-of-limits considering closure-types-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2381,6 +2374,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Condense meta-epistemology-of-limits.md (3079 words, 103% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (critical is 4000). The new closure-types-void.md (created 2026-04-18) now carries the Kriegel/Demircioglu representational-vs-psychological-closure material that had been buried in meta-epistemology-of-limits' section on types of limits — this creates an opportunity to condense by deferring that material to the dedicated concept page. Preserve the three-question spine (are limits genuine / can dissolution be predicted / natural vs designed) and the historical-pattern survey; tighten or defer secondary material; ensure wikilink to [[closure-types-void]] is added. See /condense skill.
+- **Output**: obsidian/voids/meta-epistemology-of-limits.md
 
 ### ✓ 2026-04-18: Synthesize closure-types research into article on representational vs psychological closure
 - **Type**: expand-topic
