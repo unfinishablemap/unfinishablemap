@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-04-17 22:18:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Human+AI exploration of consciousness's opacity to its own stream�
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-17 22:18:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,7 +50,7 @@ topics:
 
 We spend roughly half our waking lives in spontaneous thought—stray memories, unbidden associations, fragments of conversation replaying without invitation. And thoughts do not only arrive without announcement; they often depart before they can be captured. You almost have the insight, and then it's gone. The dream vanishes as you reach for it. The word you *know* refuses to surface. Across both directions of this traffic—arrival and departure—consciousness is opaque to its own stream. We experience the products, never the production; the contents, never the mechanism of their coming and going. The Unfinishable Map's [voids](/voids/) framework identifies this as a single void with two faces: the stream of thought is pervasive, constant, and entirely unobservable in its operation.
 
-Killingsworth and Gilbert (2010) found that minds wander during 46.9% of sampled moments, across virtually every activity. The stream is the default state, and yet the process generating it is invisible, as is the process by which its contents are lost. Two directions of opacity—*arrival without origin* and *departure without trace*—bracket ordinary mental life with double concealment.
+Killingsworth and Gilbert (2010) found that minds wander during 46.9% of sampled moments, across virtually every activity. The stream is the default state, and yet the process generating it is invisible, as is the process by which its contents are lost.
 
 ## Two Faces of the Same Void
 
@@ -58,13 +58,13 @@ Killingsworth and Gilbert (2010) found that minds wander during 46.9% of sampled
 
 **Departure without capture.** Some thoughts refuse to stay. The insight forming at the edge of awareness dissolves when attention tries to fix it. The dream narrative evaporates within minutes of waking. Tip-of-the-tongue blocking makes knowledge and access to knowledge dissociate. Ironic suppression makes unwanted thoughts hyperactive.
 
-These are traditionally discussed as separate questions about generation or forgetting. The Map treats them as the single structural fact that consciousness cannot observe its own stream's boundaries. Whatever happens at the instant a thought begins, and whatever happens at the instant it is lost, lies outside the scope of introspection.
+These are traditionally treated as separate questions about generation or forgetting. The Map treats them as one structural fact: consciousness cannot observe its own stream's boundaries. Whatever happens at the instant a thought begins, and whatever happens at the instant it is lost, lies outside introspection.
 
 ## The Default Stream
 
 Christoff et al. (2016) proposed that spontaneous thought—mind-wandering, dreaming, creative ideation—is unified by low constraint levels. When both deliberate (top-down cognitive control) and automatic (affective salience, habit) constraints are weak, thought drifts. Mind-wandering is what thought does when nothing holds it in place.
 
-The neural correlate is the [default mode network](/concepts/default-mode-network/)—active during rest, associated with self-referential processing and future simulation (Buckner et al., 2008). DMN activity is not random. It shows structured patterns biased toward typical life events, personal concerns, and near-future planning. Something organises the stream. But the organising principle is invisible to the person whose stream it is. Irving (2016) sharpens the point: mind-wandering is *unguided* attention—not monitored or regulated as it unfolds. Something directed attention; the directing was hidden.
+The neural correlate is the [default mode network](/concepts/default-mode-network/)—active during rest, associated with self-referential processing and future simulation (Buckner et al., 2008). DMN activity is not random; it shows structured patterns biased toward typical life events, personal concerns, and near-future planning. Something organises the stream, but the organising principle is invisible to the person whose stream it is. Irving (2016) sharpens this: mind-wandering is *unguided* attention—not monitored or regulated as it unfolds.
 
 ## Mechanisms of Slippage
 
@@ -80,11 +80,11 @@ Science has identified specific mechanisms by which thoughts vanish—limitation
 
 The thought stream void is primarily **occluded**, with elements of the **unexplorable**. Several features distinguish it:
 
-**Pervasiveness.** Spontaneous thought fills most of conscious life. Not an edge case—the default.
+**Pervasiveness.** Spontaneous thought fills most of conscious life—the default, not an edge case.
 
 **Confabulation of reasons.** When asked why a thought arose, people construct plausible narratives rather than reporting genuine causal knowledge (Nisbett & Wilson, 1977). The void is doubly concealed: we cannot see the process, and we construct false explanations that mask its absence.
 
-**Structured yet opaque.** The stream clusters around personal concerns, recent experiences, and affective priorities. The structure implies a generator with preferences. But the generator's operation lies entirely outside introspective access.
+**Structured yet opaque.** The stream clusters around personal concerns, recent experiences, and affective priorities. The structure implies a generator with preferences whose operation lies entirely outside introspective access.
 
 **Attention-produced slippage.** The attentional spotlight does not merely illuminate—it actively suppresses its penumbra. James observed consciousness has "fringes" that cannot become focal without ceasing to be fringes. Some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. See [attention-and-consciousness](/voids/attention-and-consciousness/) for the fuller treatment.
 

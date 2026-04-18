@@ -11,15 +11,17 @@ title: Tenet Alignment Check - 2026-04-17
 
 # Tenet Alignment Check
 
-**Date**: 2026-04-17
-**Files checked**: 459 (83 priority re-reads + pattern sweep of remaining ~376)
+**Date**: 2026-04-17 (re-check at 21:25 UTC; original check at 03:18 UTC)
+**Files checked**: 459 total — 41 re-read in delta sweep since the morning check + carry-forward of the prior full-corpus pass
 **Errors**: 0
 **Warnings**: 0
-**Notes**: 1
+**Notes**: 0
 
 ## Summary
 
-No error- or warning-level violations found. This is the strongest tenet-alignment result in recent checks. All eight files flagged in the 2026-04-16 review have been addressed (six fixed via refinement, two stable). Newer files—83 modified since the last check—consistently engage opposing views critically rather than endorsing them, using conditional/reductio framing, explicit rejection markers, or tenet-relation sections. Only one minor framing note remains.
+This is a delta re-check on the 41 topic and concept files modified between 03:18 UTC and 21:25 UTC today. The single note carried over from the morning check (`russellian-monism-versus-bi-aspectual-dualism.md`) has been resolved: the article now contains inline clarification that constitutive Russellian panpsychism's compatibility with Everett MWI is a *cost* the rival position incurs from the Map's perspective, with an inline link to the No Many Worlds tenet. A fast skimmer can no longer mistake the description for neutral observation.
+
+No new errors or warnings have been introduced by today's editing. This is the second consecutive zero-error, zero-warning result and the first zero-note result in recent checks. Tenet alignment is at a high-water mark.
 
 ## Errors
 
@@ -31,34 +33,25 @@ None.
 
 ## Notes
 
-### russellian-monism-versus-bi-aspectual-dualism.md (topics)
-- **Tenet in tension**: No Many Worlds (Tenet 4)
-- **Issue**: The article describes (via Williams 2021) how constitutive Russellian panpsychism is naturally compatible with Everett's many-worlds interpretation. The rhetorical purpose is to flag MWI compatibility as a *cost* of the rival position, but a fast-reading skimmer could mistake the description for a neutral observation.
-- **Quote**: "If consciousness is merely the intrinsic nature of physical processes, there is nothing for it to *do* at collapse — and if nothing needs doing, all branches can persist."
-- **Recommendation**: Add a clarifying clause identifying MWI compatibility as a cost this view incurs from the Map's perspective. Non-urgent; surrounding context does this implicitly.
+None.
 
-## Re-check Status of Previously Flagged Files
+## Re-check Status of Prior Note
 
-All eight files flagged in the 2026-04-16 check have been addressed:
+- **`russellian-monism-versus-bi-aspectual-dualism.md`** — Resolved. Inline clarification now identifies MWI compatibility as a cost the rival view incurs, with a direct link to the No Many Worlds tenet anchor. Fast-reading-misread risk eliminated.
 
-- **higher-order-theories.md** — Stable. Clearly framed as a theory the Map rejects; tenet-relation section makes the conflict explicit.
-- **phenomenal-overflow.md** — Fixed. The 2026-03-25 deep-review strengthened the tenet section; deflationary/illusionist readings are now framed as positions the Map resists.
-- **analytic-idealism-and-mind-centric-metaphysics.md** — Fixed. The 2026-04-06 refinement renamed the diagnostic question, removed rhetorical self-positioning, and acknowledged selection bias in the history-of-science claim.
-- **amplification-mechanisms-consciousness-physics.md** — Stable. Explicitly contrasts with MWI and grounds mechanisms in the tenets.
-- **ai-consciousness.md** — Fixed. The 2026-04-16 refinement elevated the quantum-interaction empirical-status caveat to prominent bolded text.
-- **simulation.md** — Fixed. The 2026-04-16 refinement added a locality worked example distinguishing the simulation framing from Cartesian skepticism.
-- **embodied-cognition.md** — Fixed. The 2026-04-15 refinement reduced the choking/dualist argument from ~800 to ~200 words and reframed as compatibility rather than evidential support.
-- **parfit-reductionism.md** — Stable. Clean framing of Parfit as a view the Map rejects, with tenet connections explicit.
+## Files Modified Since Morning Check (all passing)
 
-## Files Passing All Checks
+**Concepts (13):** `adaptive-cognitive-limits`, `brain-interface-boundary`, `disguised-property-dualism`, `filter-theory`, `measurement-problem`, `mysterianism`, `nihilism-and-existentialism`, `parsimony-epistemology`, `perceptual-degradation-and-the-interface`, `phenomenal-contrast-method`, `phenomenal-depth`, `process-philosophy`, `quantum-interpretations`.
 
-All 458 remaining files pass tenet alignment checks. Notable exemplars:
+**Topics (28):** `aesthetics-and-consciousness`, `anaesthesia-and-the-consciousness-interface`, `authentic-vs-inauthentic-choice`, `clinical-dissociation-as-systematic-evidence`, `comparative-phenomenology-of-mathematical-insight`, `comparative-phenomenology-of-meditative-traditions`, `concession-convergence-philosophy-of-mathematics`, `consciousness-and-counterfactual-reasoning`, `consciousness-and-moral-agency-under-duress`, `consciousness-and-the-authority-of-formal-systems`, `consciousness-and-the-physics-of-information`, `consciousness-interface-development`, `contemplative-practice-as-philosophical-evidence`, `duhem-quine-underdetermination-consciousness`, `emotion-and-dualism`, `neurological-dissociations-as-interface-architecture`, `parsimony-case-for-interactionist-dualism`, `personal-identity`, `phenomenology-of-cognitive-limit-types`, `phenomenology-of-imagination`, `phenomenology-of-intellectual-life`, `phenomenology-of-musical-understanding`, `phenomenology-of-resistance-across-domains`, `psychedelics-and-the-filter-model`, `quantum-measurement-and-consciousness`, `russellian-monism-versus-bi-aspectual-dualism`, `split-brain-consciousness`, `william-james-consciousness`.
 
-**Concepts:**
-- `disguised-property-dualism.md` — Applies the Map's own diagnostic to itself in a dedicated subsection, modeling the tenet-reflection discipline these checks aim to cultivate.
-- `epiphenomenalism.md` — Acknowledges the AI/cultural-transmission limit of the self-stultification argument openly, then separates epistemic certainty from the metaphysical commitment embodied in Tenet 3.
-- `biological-computationalism.md` — Describes a physicalist framework in depth while clearly distinguishing its "something more" (more physics) from dualism's "something more" (beyond physics).
-- `measurement-problem.md` — Opens with an "honest limitation" block: predictions are empirically indistinguishable from random collapse; framework is compatible with physics rather than competing with it.
+## Notable Exemplars from This Sweep
 
-**Topics:**
-- `ethics-of-possible-ai-consciousness.md` — Contains an explicit transparency note warning that tenet-derived low probability of AI consciousness should not be treated as evidence for the tenets. Exemplary epistemic hygiene.
+- **`parsimony-epistemology.md`** and **`parsimony-case-for-interactionist-dualism.md`** — Together they do the heavy lifting on Tenet 5, showing why simplicity arguments fail in consciousness studies. Edits in this window strengthen the historical-counterexample analysis.
+- **`quantum-interpretations.md`** — Rigorous engagement with Bohmian mechanics, QBism, MWI, and RQM, each evaluated against site tenets with explicit support/conflict markers.
+- **`filter-theory.md`** and the cluster around it (`anaesthesia-and-the-consciousness-interface`, `perceptual-degradation-and-the-interface`, `psychedelics-and-the-filter-model`) — Cross-reinforcing treatment of consciousness-as-filtered-through-brain that supports both Dualism and Bidirectional Interaction without drifting into dual-aspect or panpsychic readings.
+- **`russellian-monism-versus-bi-aspectual-dualism.md`** — Now models the discipline of treating MWI compatibility as a *liability* of rival views, demonstrating the rhetorical move that resolved the prior note.
+
+## Carry-Forward from Morning Check
+
+The morning check's full-corpus pass (459 files, 0 errors, 0 warnings, 1 note) remains the authoritative baseline for files unmodified in this window. Notable exemplars cited there — `disguised-property-dualism.md`, `epiphenomenalism.md`, `biological-computationalism.md`, `measurement-problem.md`, `ethics-of-possible-ai-consciousness.md` — continue to model the tenet-reflection discipline that holds across the corpus.

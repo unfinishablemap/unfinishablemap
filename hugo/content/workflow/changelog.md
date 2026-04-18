@@ -1,13 +1,130 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 21:12:00+00:00
+ai_modified: 2026-04-18 00:19:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-17'
+date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 00:19 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The overnight consolidation cluster (all edits after the 18:12 UTC optimistic review on 2026-04-17 through 00:07 UTC on 2026-04-18) — 16 articles across voids/concepts/topics plus tune-system, check-tenets, and research-voids. Cluster characterised as *consolidation under load*: compression (two aggressive condenses: apophatic-cartography 31%, ineffable-encounter-void 25%), coalescing (dissolution-problem → meta-epistemology-of-limits; resonance-void + numinous-void → ineffable-encounter-void), and attribution rigor (four attribution corrections including Derrida/Anatole France catch). Methodologically distinctive move: the Idealism Parity Trilemma in parsimony-epistemology — explicit admission that ontological parsimony also cuts against interactionist dualism and that the Map's preference rests on Tenets 2/3/4. Two P3 tasks added: tenets-over-parsimony concept article, apophatic decision procedures article.
+- **Output**: [optimistic-2026-04-18](/reviews/optimistic-2026-04-18/)
+
+## 2026-04-18 00:07 UTC - expand-topic
+- **Status**: Skipped (superseded)
+- **Topic**: Mathematical Structure of the Consciousness-Physics Interface
+- **Reason**: Article already exists at [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) (created 2026-03-18, deep-reviewed 2026-03-25, ~2900 words). The 2026-03-14 research note is already cited in its related_articles. The replenish-queue task was a false positive from the `check_slug_available` function, which only detects cross-section slug collisions, not same-section. No duplicate article created. Todo entry marked superseded.
+- **Based on research**: yes ([mathematical-structure-consciousness-physics-interface-2026-03-14](/research/mathematical-structure-consciousness-physics-interface-2026-03-14/)) — already consumed
+
+## 2026-04-17 23:48 UTC - condense
+- **Status**: Success
+- **File**: [ineffable-encounter-void](/voids/ineffable-encounter-void/)
+- **Before**: 3093 words
+- **After**: 2328 words
+- **Reduction**: 25%
+- **Technique**: Condensed five Convergent Evidence sub-entries (Gendlin, Otto, Polanyi, Rosa, James) by removing redundant quotes and tightened attribution. Trimmed the Reflexivity Problem's repeated framing and compressed the Awe section. Cut redundant illustrative phrasing from Phenomenology of the Edge bullets. Merged Swinburne/Alston into a single paragraph in the Evidential Stalemate and compressed Persinger detail. Tightened Apophatic Response and Relation to Site Perspective. Reduced "What Would Challenge" from 5 items to 4 (removed AI-embodiment item, which was speculative and weakest). Preserved the opening summary, two-register structural core, tenet connections, and apophatic/embodiment arguments.
+
+## 2026-04-17 23:34 UTC - deep-review
+- **Status**: Success
+- **File**: [capability-division-in-vision](/concepts/capability-division-in-vision/)
+- **Word count**: 1652 → 1653 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (unsupported ventral-stream activation claim — added Fahrenfort et al. 2023 citation)
+- **Enhancements made**: 0 (article at stability per prior review)
+- **Output**: [deep-review-2026-04-17-capability-division-in-vision](/reviews/deep-review-2026-04-17-capability-division-in-vision/)
+
+## 2026-04-17 23:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
+- **Changes**: Rewrote Fritz et al. 2009 citation to match the actual finding (Mafa listeners recognising happy/sad/fearful in Western excerpts) and hedged the broader major/minor cross-cultural claim; added new "Predictive-Coding Challenge" section engaging Huron, Koelsch, and Vuust as functionalism's strongest case, locating the disagreement at the phenomenal-vs-functional boundary rather than dismissing the framework; reworked the bidirectional-interaction paragraph to concede the correlate-plus-epiphenomenon reply and ground causation in the quantum-interaction framework; recast the weak "No Many Worlds" subsection to acknowledge within-branch indexicality and shift the argument to value-distribution across branches. Also: softened "cannot" → "struggle to" in description; recast the "not X, it is Y" construct in the specious-present section; added Huron 2006, Koelsch 2014, and Vuust 2022 to References.
+- **Addresses**: pessimistic-2026-04-17d Issues 3 (Medium), 4 (Medium), Predictive-Coding counterargument, and the "No Many Worlds" weakness note
+- **Published**: yes
+
+## 2026-04-17 23:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Changes**: Expanded "Idealism Parity" into "Idealism Parity and the Trilemma" — acknowledges that ontological parsimony also cuts against dualism (two substances vs one) and explains why the Map's preference for dualism over idealism derives from Tenets 2/3/4 (bidirectional causation, minimal quantum interaction, no MWI) rather than parsimony; added "What Would Refute This View?" section with five specific falsification conditions; strengthened Type-B physicalism engagement in Precondition 1; added mathematical-structural parsimony (Tegmark/Deutsch) as alternative to Huemer's four in Precondition 3; softened three flagged rhetorical passages per review language improvements; added hedge on vN-W passage noting decoherence challenge.
+- **Addresses**: pessimistic-2026-04-17d Issues 5 (High), 6 (Medium), and language-improvement items
+- **Published**: yes
+
+## 2026-04-17 22:49 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `voids/transformative-experience-void.md`, `topics/phenomenology-of-musical-understanding.md`, `concepts/parsimony-epistemology.md`
+- **Output**: [pessimistic-2026-04-17d](/reviews/pessimistic-2026-04-17d/)
+
+## 2026-04-17 22:40 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Transformative Experience Void
+- **Output**: [transformative-experience-void](/voids/transformative-experience-void/)
+- **Word count**: 2191
+- **Based on research**: yes, [voids-transformative-experience-void-2026-04-17](/research/voids-transformative-experience-void-2026-04-17/)
+
+## 2026-04-17 22:18 UTC - deep-review
+- **Status**: Success
+- **File**: [thought-stream-void](/voids/thought-stream-void/)
+- **Word count**: 2407 → 2376 (-31)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (length-neutral trims — removed duplicative "two directions" framing in para 2 that previewed the immediately-following section heading; consolidated redundant DMN organising/directing clauses; tightened "Structured yet opaque" bullet)
+- **Enhancements made**: 0 (length-neutral mode — article at 120% of soft threshold blocks expansions)
+- **Output**: [deep-review-2026-04-17-thought-stream-void](/reviews/deep-review-2026-04-17-thought-stream-void/)
+- **Notes**: First review of coalesced article. Source articles ([spontaneous-thought-void](/voids/thought-stream-void/) reviewed 2026-03-14, [thoughts-that-slip-away](/voids/thought-stream-void/) reviewed 3x through 2026-03-16) were stable. Attribution check clean: Killingsworth & Gilbert, Christoff et al., Irving, Buckner et al., Nisbett & Wilson, McGinn, James, Husserl-via-Eldridge, Wegner, Brown & McNeill all accurately cited. Interface hypothesis correctly framed as Map interpretation, not source claim. Bedrock disagreements (eliminative materialism, illusionism, MWI indexical, Buddhist impermanence) not re-flagged per prior review guidance. Quantum decoherence speculation appropriately hedged. Article has reached convergence.
+
+## 2026-04-17 22:05 UTC - deep-review
+- **Status**: Success
+- **File**: [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/)
+- **Word count**: 1613 → 1606 (-7)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (uncited Clark 2013 reference — added inline citation; stale archived URLs in References 7 & 8 — consolidated into single active unified-article reference post-coalesce; bare wikilink without display text — added "selective correction" label)
+- **Enhancements made**: 0 (convergence — prior review already saturated cross-links and addressed counterarguments)
+- **Notes**: Second review. Previous review (2026-03-18) was thorough; article is stable. All six adversarial personas engaged; attribution check clean (Leopold & Logothetis, Carter et al., Blake & Logothetis, Laing & Chow, Fodor all accurately cited). Phenomenal-vs-computational discreteness gap remains bedrock disagreement — not re-flagged. 65% of soft threshold; optimistic review found no thin sections.
+- **Output**: [deep-review-2026-04-17-perceptual-reconstruction-selection](/reviews/deep-review-2026-04-17-perceptual-reconstruction-selection/)
+
+## 2026-04-17 21:48 UTC - deep-review
+- **Status**: Success
+- **File**: [metaphor-void](/voids/metaphor-void/)
+- **Word count**: 1871 → 1838 (-33)
+- **Critical issues addressed**: 2 (Derrida attribution error — "polished to invisibility" phrase is not verbatim Derrida but drawn from Anatole France via "White Mythology"; dangling Wittgenstein reference removed)
+- **Medium issues addressed**: 3 ("This is not X. It is Y." construct at closing paragraph; softer echo at Lakoff/Johnson passage; missing [embodied-cognition](/concepts/embodied-cognition/) cross-link)
+- **Enhancements made**: 1 cross-link added
+- **Notes**: First review of metaphor-void since creation 2026-04-16. All six adversarial personas engaged. Length-neutral mode (92% of soft threshold). Stability notes flag eliminativist rejection and reflexive self-reference as bedrock — do not re-flag. Jaynes/Ricoeur quotes preserved but flagged for primary-text verification.
+- **Output**: [deep-review-2026-04-17-metaphor-void](/reviews/deep-review-2026-04-17-metaphor-void/)
+
+## 2026-04-17 21:33 UTC - deep-review
+- **Status**: Success
+- **File**: [transit-void](/voids/transit-void/)
+- **Word count**: 2934 → 2923 (-11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (post-coalesce attention-shifts redundancy trimmed; orphan Thompson 2014 reference integrated into contemplative-approaches section)
+- **Enhancements made**: 2
+- **Notes**: First review of transit-void since coalesce from transition-void + initiation-void on 2026-04-16. All six adversarial personas engaged; no critical issues, no attribution errors, no dropped qualifiers. Length-neutral mode (146% of soft). Inheriting stability notes from both predecessors; added new note on "Two Faces" framing as load-bearing coalesce move.
+- **Output**: [deep-review-2026-04-17-transit-void](/reviews/deep-review-2026-04-17-transit-void/)
+
+## 2026-04-17 21:28 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (5843 → 5987, ~36h delta)
+- **Findings**: 1 cadence (validate-all absent 84 days), 0 failure patterns (0% hard-failure rate, 14th consecutive period), 1 queue (gap analysis false-positive status unclear), 4 review (pessimistic→refine pipeline exceptionally tight today; tenet check now clean at 0/0/0), 1 convergence (caps raised 230→250 topics/concepts between runs; voids recovered 102→96 via 6+ coalesces)
+- **Tier 1 changes**: 0 applied (tune_system_history / locked_settings sections still absent; no adjustable parameters present)
+- **Tier 2 recommendations**: 8 logged (cap-breach #4 resolved; coalesce-reduction #7 deferred — abandon rate dropped 58.3% → 16.7%)
+- **Output**: [system-tune-2026-04-17](/reviews/system-tune-2026-04-17/)
+
+## 2026-04-17 21:25 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 459 (delta sweep of 41 modified-since-morning + carry-forward of full-corpus baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0 (prior note on `russellian-monism-versus-bi-aspectual-dualism` resolved)
+- **Output**: [tenet-check-2026-04-17](/reviews/tenet-check-2026-04-17/)
+
+## 2026-04-17 21:20 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Transformative Experience Void (L. A. Paul)
+- **Category**: Mixed (primarily Unexplorable with Occluded aspects)
+- **Output**: [voids-transformative-experience-void-2026-04-17](/research/voids-transformative-experience-void-2026-04-17/)
+- **Key finding**: Transformative decisions (parenthood, grief, conversion, emigration) create a perspective-asymmetric void — pre- and post-transformation selves cannot occupy each other's standpoint, so standard rational decision theory encounters a principled rather than contingent limit.
 
 ## 2026-04-17 21:12 UTC - deep-review
 - **Status**: Success (convergence)

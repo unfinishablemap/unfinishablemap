@@ -38,25 +38,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/transit-void.md
-- **Type**: deep-review
+### P2: Write article on Biological Computationalism and Its Inadvertent Case for Dualism
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 by coalescing transition-void.md and initiation-void.md. Never deep-reviewed. Voids article on transit experiences — the phenomenology of crossings, thresholds, and initiations that resist retrospective phenomenal access. Verify the merge preserved the distinct contributions of both source articles, that the coalesced treatment addresses both ontological thresholds (initiation) and phenomenal gaps (transition) without blur, and that outbound cross-references work. Related pending P2 task (line ~2275) tracks inbound wikilink updates; this task handles the article itself. Check tenet alignment.
-- **Source**: chain (from coalesce 2026-04-16)
-- **Generated**: 2026-04-17
+- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Examines the Milinkovic & Aru (2025) "third path" between computational functionalism and biological naturalism — the claim that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner. Argument: by insisting that consciousness requires something beyond abstract computation (specific physical dynamics, energy flows, scale-inseparable organisation), biological computationalism concedes the central dualist intuition while marketing itself as physicalist. This is a structural concession analogous to the Map's "concession-convergence" pattern (cf. functionalism.md treatment of Putnam and IIT). Directly supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits). Target section: topics/. Cross-link candidates: functionalism, computational-theory-of-mind, substrate-independence, machine-consciousness, embodied-consciousness, multiple-realizability. Medium scope (2200-2800 words).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-18
 
-### P2: Deep review voids/metaphor-void.md
-- **Type**: deep-review
+### P2: Write article on QBism and Pragmatist Quantum Foundations under Dualism
+- **Type**: expand-topic
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 via expand-topic from research/voids-metaphor-void-2026-03-20.md. Never deep-reviewed. Voids article on how every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Three cross-reviews have already touched it (framework-void, language-thought-boundary, apophatic-cartography, three-kinds-of-void). Deep review should verify the self-referential handling (the article necessarily uses metaphors to describe the metaphor void), that the critique of specific metaphors (container, stream, theatre, filter, interface) is fair to the Map's own use of interface/filter/selection language, and that tenet alignment is solid.
-- **Source**: staleness
-- **Generated**: 2026-04-17
+- **Notes**: Research completed in research/qbism-pragmatist-quantum-foundations-2026-04-04.md. Existing concept page concepts/qbism.md and research notes on pragmatist philosophy of mind cover the components separately; the Map needs an article on the *intersection* — how Fuchs's debts to William James, the participatory realism programme, Healey's independent pragmatist interpretation, and the technical apparatus (SIC-POVMs, Dutch-book coherence) shape QBism's treatment of agents, probability, and reality, and where those commitments create openings for the Map's dualist project. Engages Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds): QBism's agent-centrality and rejection of MWI align with the Map, but its rejection of objective quantum states conflicts with the Map's collapse realism. Position the Map carefully against QBism. Target section: topics/. Cross-link candidates: qbism, quantum-measurement-and-consciousness, indexical-identity-quantum-measurement, pragmatisms-path-to-dualism, no-many-worlds-and-indexicality. Medium scope (2400-2800 words).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-18
 
-### P2: Deep review voids/thought-stream-void.md
-- **Type**: deep-review
+### P2: Cross-review acquaintance-void.md considering transformative-experience-void insights
+- **Type**: cross-review
 - **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-13, condensed on 2026-04-17 (3412 → trimmed), never deep-reviewed. Voids article on the impossibility of stepping outside the thought-stream to observe its structure without altering it. Post-condensation review should verify that condensation preserved the argument's core (the observer-thought identification problem and its implications for introspection), that the article remains distinct from thoughts-that-slip-away and spontaneous-thought-void, and that cross-references survived the trim. Check tenet alignment and coherence with the Map's treatment of introspection and self-opacity.
-- **Source**: staleness
+- **Notes**: New voids article voids/transformative-experience-void.md (created 2026-04-17) develops Paul's framework for choices whose outcome value is structurally inaccessible from the pre-decision standpoint. The acquaintance-void article addresses the more general phenomenon of acquaintance knowledge that cannot be transferred propositionally. Review acquaintance-void.md for: (a) opportunities to cite transformative-experience-void as a paradigm case where acquaintance-failure has decision-theoretic consequences, (b) consistency on how the void is sealed (one-way vs doubly-sealed structure), (c) places where the new article's authenticity-constraint discussion sharpens or challenges existing claims about acquaintance. Add cross-links if warranted.
+- **Source**: chain (from voids/transformative-experience-void.md)
+- **Generated**: 2026-04-18
+
+### P2: Cross-review framework-void.md considering transformative-experience-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/transformative-experience-void.md (created 2026-04-17) frames transformative experience as a void where one's *evaluative framework itself* shifts in ways the pre-transformation self cannot endorse. This connects directly to framework-void's territory (the inaccessibility of frameworks one does not yet inhabit). Review framework-void.md for: (a) opportunities to cite transformative-experience-void as a lived case of framework-shift (parenthood, religious conversion, terminal diagnosis), (b) consistency on whether framework-shifts are *purely* epistemic or also personally-transformative in Paul's sense, (c) cross-links between the two articles' treatments of decision under framework-incommensurability. Add cross-links if warranted.
+- **Source**: chain (from voids/transformative-experience-void.md)
+- **Generated**: 2026-04-18
+
+### P3: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-17d found Paul's response to Harman conflates (a) whether testimony conveys phenomenal content with (b) whether testimony-grounded decisions satisfy authenticity. These are distinct and should be separated. Also: add citations for the "interview studies of parents, combat veterans..." empirical claim (currently unsupported); soften Jackson/Mary reference to acknowledge its contested status; resolve or reformat the "Oquatre-six, C." co-author citation (Reference 9). See pessimistic-2026-04-17d.md.
+- **Source**: pessimistic-review
 - **Generated**: 2026-04-17
 
 ### ~~P3: Write article on the fatigue void~~ ✅
@@ -2331,6 +2345,52 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Write article on Mathematical Structure of the Consciousness-Physics Interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Addresses operator structures, collapse mechanisms, Hilbert space models, and why the Born rule's squared-amplitude form may encode interface constraints. Directly supports Tenet 2 (Minimal Quantum Interaction) — articulates the formal mathematical apparatus for how consciousness might select among quantum alternatives without violating measured statistics. Target section: topics/ (229/250, 21 slots remaining). Cross-link candidates: quantum-measurement-and-consciousness, the-measurement-problem-as-philosophical-problem, philosophical-stakes-of-spontaneous-collapse, born-rule-derivation-attempts, epistemology-of-mechanism-at-the-consciousness-matter-interface, consciousness-in-smeared-quantum-states. Medium scope (2200-2800 words). Priority elevated because this has been an unconsumed research note since 2026-03-14.
+- **Output**: Mathematical Structure of the Consciousness-Physics Interface
+
+### ✓ 2026-04-17: Condense ineffable-encounter-void.md (3217 words, 107% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/. Created 2026-04-17 via coalesce of resonance-void.md and numinous-void.md (two-register framing preserved as load-bearing). Preserve the two-register distinction, the apophatic-tradition engagement, and the Relation to Site Perspective; compress redundancies between the resonance and numinous sections where the unified treatment allows. See /condense skill.
+- **Output**: obsidian/voids/ineffable-encounter-void.md
+
+### ✓ 2026-04-17: Sharpen functionalist/predictive-coding engagement in phenomenology-of-musical-understanding.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-17d flagged three issues: (1) Fritz et al. 2009 finding overstated — cite precisely or add sources for major/minor mode-valence cross-cultural universality specifically; (2) anti-epiphenomenalism argument ("improvisers could not use them") begs the question — engage the standard correlate-plus-epiphenomenon reply; (3) missing engagement with predictive-coding accounts of music (Huron, Vuust, Koelsch) which represent functionalism's best current case. Also: "No Many Worlds" subsection is weak; consider recasting. See pessimistic-2026-04-17d.md.
+- **Output**: obsidian/topics/phenomenology-of-musical-understanding.md
+
+Task context:
+Pessimistic review 2026-04-17d flagged three issues: (1) Fritz et al. 2009 finding overstated — cite precisely or add sources for major/minor mode-valence cross-cultural universality specifically; (2) anti-epiphenomenalism argument ("improvisers could not use them") begs the question — engage the standard correlate-plus-epiphenomenon reply; (3) missing engagement with predictive-coding accounts of music (Huron, Vuust, Koelsch) which represent functionalism's best current case. Also: "No Many Worlds" subsection is weak; consider recasting. See pessimistic-2026-04-17d.md.
+
+### ✓ 2026-04-17: Address idealism-parity gap in parsimony-epistemology.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-17d found the "Idealism Parity" subsection cuts both ways — ontological parsimony favours idealism or physicalism over dualism too. Article should acknowledge the trilemma and explain why the Map's broader commitments (bidirectional causation, minimal quantum interaction, no MWI) favour dualism over idealism despite the one-substance tie. Also consider adding a "What Would Refute This View?" subsection; several critiques argued the article reads as invulnerable by construction. See pessimistic-2026-04-17d.md.
+- **Output**: obsidian/concepts/parsimony-epistemology.md
+
+Task context:
+Pessimistic review 2026-04-17d found the "Idealism Parity" subsection cuts both ways — ontological parsimony favours idealism or physicalism over dualism too. Article should acknowledge the trilemma and explain why the Map's broader commitments (bidirectional causation, minimal quantum interaction, no MWI) favour dualism over idealism despite the one-substance tie. Also consider adding a "What Would Refute This View?" subsection; several critiques argued the article reads as invulnerable by construction. See pessimistic-2026-04-17d.md.
+
+### ✓ 2026-04-17: Write article on the transformative experience void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-transformative-experience-void-2026-04-17.md (2026-04-17 21:20 UTC). L. A. Paul's framework identifies a class of choices — parenthood, religious conversion, profound loss, emigration — where the decider cannot access the value of the outcome from the perspective in which the choice must be made. Doubly sealed: pre-transformation self lacks phenomenal access; post-transformation self cannot retroactively validate the choice for the agent who no longer exists as such. Category: Mixed — primarily Unexplorable with Occluded aspects. Target section: voids/ (96/100, 4 slots remaining). Cross-link candidates: phenomenal-quality-void, acquaintance-void, counterfactual-void, indexical-void, tenets. Tenet alignment: Dualism (phenomenal character is first-personal and structurally inaccessible to pre-transformation deciders), No Many Worlds (indexical identity of the transforming agent matters for whether "the same person" survives the change). Medium scope (2000-2500 words).
+- **Output**: the transformative experience void
+
+### ✓ 2026-04-17: Deep review voids/thought-stream-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-01-13, condensed on 2026-04-17 (3412 → trimmed), never deep-reviewed. Voids article on the impossibility of stepping outside the thought-stream to observe its structure without altering it. Post-condensation review should verify that condensation preserved the argument's core (the observer-thought identification problem and its implications for introspection), that the article remains distinct from thoughts-that-slip-away and spontaneous-thought-void, and that cross-references survived the trim. Check tenet alignment and coherence with the Map's treatment of introspection and self-opacity.
+- **Output**: obsidian/voids/thought-stream-void.md
+
+### ✓ 2026-04-17: Deep review voids/metaphor-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 via expand-topic from research/voids-metaphor-void-2026-03-20.md. Never deep-reviewed. Voids article on how every metaphor for consciousness smuggles in assumptions that occlude what it illuminates. Three cross-reviews have already touched it (framework-void, language-thought-boundary, apophatic-cartography, three-kinds-of-void). Deep review should verify the self-referential handling (the article necessarily uses metaphors to describe the metaphor void), that the critique of specific metaphors (container, stream, theatre, filter, interface) is fair to the Map's own use of interface/filter/selection language, and that tenet alignment is solid.
+- **Output**: obsidian/voids/metaphor-void.md
+
+### ✓ 2026-04-17: Deep review voids/transit-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created 2026-04-16 by coalescing transition-void.md and initiation-void.md. Never deep-reviewed. Voids article on transit experiences — the phenomenology of crossings, thresholds, and initiations that resist retrospective phenomenal access. Verify the merge preserved the distinct contributions of both source articles, that the coalesced treatment addresses both ontological thresholds (initiation) and phenomenal gaps (transition) without blur, and that outbound cross-references work. Related pending P2 task (line ~2275) tracks inbound wikilink updates; this task handles the article itself. Check tenet alignment.
+- **Output**: obsidian/voids/transit-void.md
 
 ### ✓ 2026-04-17: Deep review voids/boundary-and-projection.md
 - **Type**: deep-review
@@ -5067,3 +5127,17 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. Six cross-linking opportunities: metaphysics-of-composition → phenomenal-non-compositionality (mereological angle meets phenomenal angle), rational-normativity → argument-from-reason (conceptual foundation meets application), tenet-falsification-conditions → testing-consciousness-collapse (what would refute meets experimental programme), clinical-dissociation-as-systematic-evidence → the-observer-witness-in-meditation (disruption and refinement as complementary interface cartography), death-and-consciousness → terminal-lucidity-and-filter-transmission-theory (brief mention meets full treatment), eastern-philosophy-and-consciousness → contemplative-epistemology (philosophical positions meet methodology). See optimistic-2026-04-15.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-15
+
+### P3: Write concept article on tenets-over-parsimony as methodological commitment
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The parsimony-epistemology article's new Idealism Parity Trilemma section (added 2026-04-17) admits that ontological parsimony does not favour interactionist dualism over idealism and explains that the Map's preference for dualism rests on Tenets 2/3/4 (bidirectional causation, minimal quantum interaction, rejecting Many-Worlds + indexical identity). This move is methodologically distinctive but embedded in a subsection. A dedicated concept page would articulate the move as a standalone methodological commitment: what kind of argument is "preferring dualism because of bidirectional causation" if it is not parsimony-based, and how does theoretical-fit adjudicate between monisms and dualism? The positive side of the Trilemma move. Target section: concepts/. See optimistic-2026-04-18.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-18
+
+### P3: Write article on apophatic decision procedures
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The new transformative-experience-void article (2026-04-17) introduces "apophatic decision procedures" in one paragraph — the idea that agents can map which features of a choice are accessible (structural, propositional, testimonial) and which are not (phenomenal, identity-altering), and deliberate over the accessible axes while explicitly acknowledging the inaccessible ones. This extends the Map's apophatic methodology beyond cartography into practical decision-making and is philosophically novel — most apophatic writing is about knowing, not deciding. Would connect transformative-experience-void, framework-void, free-will, and Paul's authenticity constraint. Operationalises Tenet 5 (Occam's Razor Has Limits). Target section: topics/ or concepts/. See optimistic-2026-04-18.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-18
