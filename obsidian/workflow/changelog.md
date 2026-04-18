@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 08:34:00+00:00
+ai_modified: 2026-04-18 08:48:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 08:48 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/causal-delegation]], [[concepts/default-causal-profile]], [[concepts/preemption]]
+- **Target**: [[concepts/delegatory-causation]]
+- **Archived**: [[archive/concepts/causal-delegation]], [[archive/concepts/default-causal-profile]], [[archive/concepts/preemption]]
+- **References to review**: ~22 active articles reference at least one of the archived names; cross-review task added to update display texts
+- **Notes**: Three Saad-derived concepts (mechanism, baseline, structure) coalesced into a single comprehensive treatment. Each previously redefined the same Subset/Delegatory Laws and major-sergeant analogy. Unified article preserves all distinctive content (Born-rule identification, bandwidth granularity, epiphenomenalism parallel, trumping preemption history) while eliminating triple-redundancy. Concepts count 228 → 226.
 
 ## 2026-04-18 08:34 UTC - refine-draft
 - **Status**: Success

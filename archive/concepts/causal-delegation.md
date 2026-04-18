@@ -29,6 +29,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-04
 last_curated:
 last_deep_review: 2026-03-26T14:45:00+00:00
+archived: true
+archived_date: 2026-04-18T08:48:00+00:00
+superseded_by: "/concepts/delegatory-causation/"
+archive_reason: "Coalesced into Delegatory Causation"
+original_path: "/concepts/causal-delegation/"
 ---
 
 Causal delegation is the mechanism at the heart of Bradford Saad's [[delegatory-dualism]] (2025): when a conscious experience arises, it takes over causal work that the underlying physical brain state would otherwise perform. The physical state *delegates* its causal responsibilities to the experience, which then does the actual causing. Pain causes wincing not alongside the brain state but instead of it. The Unfinishable Map treats causal delegation as the preferred causal structure for [[interactionist-dualism]], because it preserves genuine [[mental-causation-and-downward-causation|mental causation]] without the theoretical cost of overdetermination or the self-defeating implications of [[epiphenomenalism]].

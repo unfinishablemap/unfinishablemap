@@ -26,6 +26,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
 last_deep_review: 2026-04-06T15:36:00+00:00
+archived: true
+archived_date: 2026-04-18T08:48:00+00:00
+superseded_by: "/concepts/delegatory-causation/"
+archive_reason: "Coalesced into Delegatory Causation"
+original_path: "/concepts/preemption/"
 ---
 
 Preemption is a causal structure in which one sufficient cause renders another sufficient cause idle, so that only the first does the actual causal work. Unlike overdetermination—where two sufficient causes both contribute to the same effect—preemption involves one cause *operating* while the backup is *sidelined*. The Unfinishable Map's interest in preemption centres on its role in Bradford Saad's [[delegatory-dualism]], where conscious experiences preempt the causal contributions of physical brain states, solving the exclusion problem without overdetermination.
