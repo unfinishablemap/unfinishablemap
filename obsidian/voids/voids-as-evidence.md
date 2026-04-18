@@ -4,8 +4,8 @@ description: "Two distinct arguments converge: the capacity to conceive cognitiv
 created: 2026-01-16
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T02:55:00+00:00
-last_deep_review: 2026-04-18T02:55:00+00:00
+ai_modified: 2026-04-18T03:05:00+00:00
+last_deep_review: 2026-04-18T03:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

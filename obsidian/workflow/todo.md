@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids-as-evidence.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New voids article created 2026-04-18 via coalesce of convergence-as-evidence.md (2147 words) + questioning-as-evidence.md (2751 words) → 2674 words. Unified abductive argument for dualism combining: (1) the convergent structure of the void catalogue (five families clustering on the consciousness-physics interface), and (2) the capacity to conceive cognitive voids (vantage-point irreducibility). Verify the merge preserved key arguments from both sources, eliminated redundancy without losing distinctive claims, maintains coherent structure, handles physicalist responses (phenomenal concept strategy, illusionism, McGinn) adequately, and integrates with apophatic-cartography, recognition-void, tenet-generated-voids, epistemology-of-limit-knowledge. Check Chomsky scope-limit entailment, Heidegger Dasein, Socratic paradox, transcendental argument all retained with adequate context.
-- **Source**: chain (from coalesce 2026-04-18)
-- **Generated**: 2026-04-18
-
 ### P2: Deep review transformative-experience-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2356,6 +2349,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Deep review voids-as-evidence.md
+- **Type**: deep-review
+- **Notes**: New voids article created 2026-04-18 via coalesce of convergence-as-evidence.md (2147 words) + questioning-as-evidence.md (2751 words) → 2674 words. Unified abductive argument for dualism combining: (1) the convergent structure of the void catalogue (five families clustering on the consciousness-physics interface), and (2) the capacity to conceive cognitive voids (vantage-point irreducibility). Verify the merge preserved key arguments from both sources, eliminated redundancy without losing distinctive claims, maintains coherent structure, handles physicalist responses (phenomenal concept strategy, illusionism, McGinn) adequately, and integrates with apophatic-cartography, recognition-void, tenet-generated-voids, epistemology-of-limit-knowledge. Check Chomsky scope-limit entailment, Heidegger Dasein, Socratic paradox, transcendental argument all retained with adequate context.
+- **Output**: obsidian/voids/voids-as-evidence.md
 
 ### ✓ 2026-04-18: Cross-review framework-void.md considering transformative-experience-void insights
 - **Type**: cross-review
