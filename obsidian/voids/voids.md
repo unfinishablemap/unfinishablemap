@@ -63,7 +63,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[origin-of-consciousness|The Origin Void]] — Why consciousness exists at all—the most logically prior void
 - [[compound-failure-signatures|Compound Failure Signatures]] — Using the structure of failure as data
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
-- [[convergence-as-evidence|Convergence as Evidence]] — How independently catalogued voids converge into five families and constitute an argument for dualism
+- [[voids-as-evidence|Voids as Evidence]] — How the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
 - [[cartography-problem|The Cartography Problem]] — Whether a map of cognitive voids can map its own incompleteness
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — Why cognitive limits are preconditions for meaning, not merely obstacles
@@ -178,7 +178,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[apophatic-approaches|Apophatic Approaches]] — Knowing through negation
 - [[apophatic-cartography|Apophatic Cartography]] — Formalising the method with evidential standards
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
-- [[questioning-as-evidence|The Question as Evidence]] — What our questions reveal
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Using AI and hypothetical alien minds to probe territories closed to human cognition
 - [[consciousness-only-territories|Consciousness-Only Territories]] — What only phenomenal experience can access
 - [[temporal-void|The Asymmetry Between Remembering and Anticipating]] — Why past and future access differs

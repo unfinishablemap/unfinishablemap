@@ -23,7 +23,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[convergence-as-evidence]]"
+  - "[[voids-as-evidence]]"
   - "[[biological-cognitive-closure]]"
   - "[[compound-failure-signatures]]"
   - "[[self-maintained-cognitive-limits]]"
@@ -110,7 +110,7 @@ How would we distinguish natural from designed limits, or genuine from merely ap
 
 **Cross-architecture comparison**: Different mind types might fail at different points. Where human cognition fails but AI succeeds (or vice versa), the asymmetry might reveal architecture-specific constraints. The [[non-human-minds-as-void-explorers|AI as void-explorer]] framework explores this approach. Yet current AI systems, trained on human text, largely inherit human categories and blind spots.
 
-**Convergence as weak evidence**: If multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure. The hard problem has resisted sustained attack across centuries and cultures. But convergence is only weak evidence—a point explored systematically in [[convergence-as-evidence|the evidential weight of voids]]. All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality.
+**Convergence as weak evidence**: If multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure. The hard problem has resisted sustained attack across centuries and cultures. But convergence is only weak evidence—a point explored systematically in [[voids-as-evidence|the evidential weight of voids]]. All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality.
 
 The recursive problem is inescapable: every detection method operates within cognitive architecture that might be constrained. If you cannot trust your tools, you cannot trust what your tools find.
 

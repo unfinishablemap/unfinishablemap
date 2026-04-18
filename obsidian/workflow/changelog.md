@@ -5,6 +5,16 @@ ai_modified: 2026-04-18 02:34:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-18 02:55 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/convergence-as-evidence]], [[voids/questioning-as-evidence]]
+- **Target**: [[voids/voids-as-evidence]]
+- **Rationale**: Both articles made abductive "evidence" arguments for dualism from features of the voids project — convergence-as-evidence from the structure of the catalogue, questioning-as-evidence from the capacity to conceive voids. Shared thesis, shared references (Chomsky, McGinn, illusionism), cross-referenced each other. Coalescing produces a single piece making a cumulative case: structure + reflexivity.
+- **Word count**: 2147 + 2751 = 4898 → 2674 (55% reduction while preserving both arguments)
+- **Archived**: [[archive/voids/convergence-as-evidence]], [[archive/voids/questioning-as-evidence]]
+- **References updated**: 9 active content files (recognition-void, limits-reveal-structure, voids, apophatic-cartography, compound-failure-signatures, meta-epistemology-of-limits, whether-real, epistemology-of-limit-knowledge, phenomenology-of-intellectual-life, taxonomy-of-voids)
+- **Voids section**: 96 → 95 (after archival of 2 + creation of 1)
+
 ## 2026-04-18 02:34 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/framework-void]]

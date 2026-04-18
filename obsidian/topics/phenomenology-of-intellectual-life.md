@@ -48,7 +48,7 @@ related_articles:
   - "[[phenomenology-of-recursive-self-awareness]]"
   - "[[self-opacity]]"
   - "[[phenomenology-of-deliberation-under-uncertainty]]"
-  - "[[questioning-as-evidence]]"
+  - "[[voids-as-evidence]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[necessary-opacity]]"

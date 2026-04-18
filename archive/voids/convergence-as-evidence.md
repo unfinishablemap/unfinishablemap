@@ -34,6 +34,11 @@ last_deep_review: 2026-03-22T14:47:00+00:00
 coalesced_from:
   - "/voids/convergence-of-the-void-catalogue/"
   - "/voids/evidential-weight-of-voids/"
+archived: true
+archived_date: 2026-04-18T02:55:00+00:00
+superseded_by: "/voids/voids-as-evidence/"
+archive_reason: "Coalesced into Voids as Evidence"
+original_path: "/voids/convergence-as-evidence/"
 ---
 
 The [[voids|void catalogue]] now contains over a hundred entries, each independently motivated—arising from a specific philosophical puzzle, a particular failure of explanation, a distinct place where thought breaks down. Taken individually, each void might be dismissed as a puzzle awaiting a solution. Taken collectively, the pattern becomes harder to ignore.

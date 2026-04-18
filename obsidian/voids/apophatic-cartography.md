@@ -24,7 +24,7 @@ related_articles:
   - "[[meta-epistemology-of-limits]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[the-silence-void]]"
-  - "[[convergence-as-evidence]]"
+  - "[[voids-as-evidence]]"
   - "[[cartography-problem]]"
   - "[[compound-failure-signatures]]"
 description: "How apophatic methods—knowing through negation—map the boundaries of consciousness where positive description fails. Combines philosophical foundations with formalized evidential criteria."
@@ -155,7 +155,7 @@ Apophatic cartography connects to the Map's [[tenets]] by providing the methodol
 - [[hard-problem-of-consciousness|The Hard Problem of Consciousness]] — Concrete instance of the explanatory gap
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's analysis of structural limits
 - [[whether-real|Whether the Voids Are Real]] — Are the limits permanent?
-- [[convergence-as-evidence|Convergence as Evidence]] — Void clustering as evidence for dualism
+- [[voids-as-evidence|Voids as Evidence]] — Void clustering and the capacity to conceive of voids as abductive evidence for dualism
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Formal framework for reasoning about limits
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Using AI and alien minds as cartographic instruments

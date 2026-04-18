@@ -27,6 +27,11 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-30
 last_curated: null
+archived: true
+archived_date: 2026-04-18T02:55:00+00:00
+superseded_by: "/voids/voids-as-evidence/"
+archive_reason: "Coalesced into Voids as Evidence"
+original_path: "/voids/questioning-as-evidence/"
 ---
 
 The very fact that we can conceive of cognitive voids—that we can ask "what can't I think?"—is itself a datum requiring explanation. The Unfinishable Map investigates cognitive limits, but this article steps back further: what does the *capacity* for such investigation reveal? That existence has produced beings who can conceive of their own cognitive boundaries is not merely interesting but evidential. The capacity to grasp cognitive absence—to conceive of an outside to one's own cognition—is best explained by a framework in which consciousness is genuinely distinct from the processes it surveys.
