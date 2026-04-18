@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-04-15 12:50:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,7 +29,7 @@ related_articles:
 - '[[cetacean-and-corvid-consciousness]]'
 - '[[comparative-consciousness-and-interface-differences]]'
 - '[[invertebrate-consciousness-interface-test-case-2026-04-06]]'
-- '[[causal-delegation]]'
+- '[[delegatory-causation]]'
 - '[[ethics-of-consciousness-invertebrate-question]]'
 title: Invertebrate Consciousness as Interface Test Case
 topics:
@@ -95,7 +95,7 @@ Three responses are available:
 
 **The coupling selectivity response** holds that consciousness couples selectively with some adequate systems but not others, based on features we haven't identified. This is the least satisfying option—it introduces an unexplained selection principle that does the work dualism was supposed to avoid needing.
 
-The Map finds the universal coupling response most coherent. If the interface model is correct, the question for insects is not *whether* they are conscious but *how* consciousness couples with their particular architecture—the same question that motivates this article. The [ethical implications](/topics/ethics-of-consciousness-invertebrate-question/) of universal coupling are correspondingly broad: wherever coupling occurs, a subject exists who can be wronged. The [causal-delegation](/concepts/causal-delegation/) framework developed from Saad's delegatory dualism applies directly: when a bee's brain state delegates causal work to consciousness through preemption, the same delegation structure holds regardless of whether the physical substrate is a million-neuron insect brain or a human cortex. Universal coupling implies universal delegation.
+The Map finds the universal coupling response most coherent. If the interface model is correct, the question for insects is not *whether* they are conscious but *how* consciousness couples with their particular architecture—the same question that motivates this article. The [ethical implications](/topics/ethics-of-consciousness-invertebrate-question/) of universal coupling are correspondingly broad: wherever coupling occurs, a subject exists who can be wronged. The [causal delegation](/concepts/delegatory-causation/) framework developed from Saad's delegatory dualism applies directly: when a bee's brain state delegates causal work to consciousness through preemption, the same delegation structure holds regardless of whether the physical substrate is a million-neuron insect brain or a human cortex. Universal coupling implies universal delegation.
 
 ## What Invertebrates Demand of the Interface Model
 
@@ -134,7 +134,7 @@ The constraints also imply that consciousness varies across these architectures 
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Dolphins and corvids as convergent amplification test cases
 - [degrees-of-consciousness](/concepts/degrees-of-consciousness/) — How consciousness varies across species
 - [substrate-independence](/concepts/substrate-independence/) — Whether consciousness requires specific physical substrates
-- [causal-delegation](/concepts/causal-delegation/) — The preemption structure through which consciousness takes over causal work from physical states
+- [delegatory-causation](/concepts/delegatory-causation/) — The preemption structure through which consciousness takes over causal work from physical states
 - [ethics-of-consciousness-invertebrate-question](/topics/ethics-of-consciousness-invertebrate-question/) — The moral obligations that follow if invertebrates are conscious
 
 ## References

@@ -72,7 +72,10 @@ No misattribution, dropped qualifiers, or source/Map conflation found.
 
 **Primary focus: Additional orphan integration (5 inbound links added)**
 
-The previous review (2026-02-25) added 12+ inbound links using lowercase wikilinks. An additional 4 links using uppercase `Perception-and-conscious-experience` existed but were missed by case-sensitive link checking. This review adds 5 more inbound links from files that discuss perception-related content: — Added inline link in enactivism section where perception is described as sensorimotor skill
+The previous review (2026-02-25) added 12+ inbound links using lowercase wikilinks. An additional 4 links using uppercase `[[Perception-and-conscious-experience` existed but were missed by case-sensitive link checking. This review adds 5 more inbound links from files that discuss perception-related content:
+
+#### Concepts (3):
+- [embodied-cognition](/concepts/embodied-cognition/) — Added inline link in enactivism section where perception is described as sensorimotor skill
 - [phenomenal-binding-and-holism](/concepts/binding-problem/) — Added Further Reading entry noting perceptual experience as paradigm case of binding
 - [inverted-qualia](/concepts/inverted-qualia/) — Added Further Reading entry noting perceptual qualia as paradigm case
 - [phenomenology](/concepts/phenomenology/) — Added inline link where qualitative character of perception is discussed as evidence for first-person irreducibility

@@ -1,16 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-13
-ai_modified: 2026-04-16 11:59:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[causal-closure]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[interactionist-dualism]]'
-- '[[causal-delegation]]'
+- '[[delegatory-causation]]'
 - '[[delegatory-dualism]]'
-- '[[preemption]]'
 - '[[stapp-quantum-mind]]'
 - '[[quantum-indeterminacy-free-will]]'
 - '[[epiphenomenalism]]'
@@ -57,7 +56,7 @@ If consciousness causes physical events, why doesn't this show up in experiments
 
 ### Causal Profile Matching
 
-Saad's [delegatory-dualism](/topics/delegatory-dualism/) provides a different route to the same result. When an experience arises, its causal profile matches the "default causal profile" of the underlying physical state—the pattern of effects that state *would* produce absent any experience. The experience then [preempts](/concepts/preemption/) the physical state, taking over its causal work. Because the experience causes exactly what the physical state would have caused by default, no experiment can detect the substitution. The observable causal pattern is identical whether the experience or the physical state does the work.
+Saad's [delegatory-dualism](/topics/delegatory-dualism/) provides a different route to the same result. When an experience arises, its causal profile matches the "default causal profile" of the underlying physical state—the pattern of effects that state *would* produce absent any experience. The experience then [preempts](/concepts/delegatory-causation/) the physical state, taking over its causal work. Because the experience causes exactly what the physical state would have caused by default, no experiment can detect the substitution. The observable causal pattern is identical whether the experience or the physical state does the work.
 
 > "If the causal profile of an experiential property E is a subset of the **default causal profile** of a physical property P, then whatever has P also has E." (Saad 2025)
 
@@ -99,11 +98,10 @@ The distinction also bears on testability. The Map's position is not empirically
 
 - [causal-closure](/concepts/causal-closure/) — The broader principle from which observational closure is distinguished
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — Historical evolution of the causal closure principle from Descartes to Kim
-- [causal-delegation](/concepts/causal-delegation/) — The mechanism that respects observational closure through preemption
+- [delegatory-causation](/concepts/delegatory-causation/) — The mechanism that respects observational closure: preemption and default causal profile matching
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — Born-rule preservation makes observational closure physically necessary, not merely philosophically designed
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full theory developing observational closure as a design constraint
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The problem observational closure helps resolve
-- [preemption](/concepts/preemption/) — The causal structure making delegation observationally invisible
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno framework satisfying observational closure via statistical invisibility
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why mental causation violates neither conservation laws nor observational closure
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the broader mysterian position on limits of human understanding

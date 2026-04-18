@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-06
-**Article**: [Preemption](/concepts/preemption/)
+**Article**: [Preemption](/concepts/delegatory-causation/)
 **Previous review**: [2026-03-01](/reviews/deep-review-2026-03-01-preemption/)
 
 ## Pessimistic Analysis Summary
@@ -27,7 +27,7 @@ None. Third consecutive review with no critical issues. Attribution checks all p
 
 ### Medium Issues Found
 - **Long Observational Closure paragraph** (7 sentences): Violated style guide's 1-3 sentence paragraph guideline. **Resolution**: Split into three focused paragraphs—empirical equivalence, metaphysical interpretation, and philosophical basis.
-- **Missing causal-delegation in frontmatter and Further Reading**: Article linked to [causal-delegation](/concepts/causal-delegation/) inline but omitted it from concepts frontmatter and Further Reading despite causal delegation being central to Saad's model. **Resolution**: Added to both.
+- **Missing causal-delegation in frontmatter and Further Reading**: Article linked to [causal-delegation](/concepts/delegatory-causation/) inline but omitted it from concepts frontmatter and Further Reading despite causal delegation being central to Saad's model. **Resolution**: Added to both.
 - **Disproportionate preemption bullet in "Why Preemption"**: The preemption bullet was much longer than the other three, mixing structural explanation with its defence of causal closure violation. **Resolution**: Split the bullet into the core comparison point and a follow-up paragraph elaborating the causal closure implications.
 
 ### Low Issues Found
@@ -66,11 +66,11 @@ All checks passed (unchanged from previous review):
 ### Enhancements Made
 - Split long Observational Closure paragraph into three focused paragraphs
 - Restructured preemption bullet in comparative section for balance
-- Added [causal-delegation](/concepts/causal-delegation/) to frontmatter concepts and Further Reading
+- Added [causal-delegation](/concepts/delegatory-causation/) to frontmatter concepts and Further Reading
 - Normalised frontmatter path prefixes
 
 ### Cross-links Added
-- [causal-delegation](/concepts/causal-delegation/) — added to frontmatter concepts and Further Reading
+- [causal-delegation](/concepts/delegatory-causation/) — added to frontmatter concepts and Further Reading
 
 ## Remaining Items
 

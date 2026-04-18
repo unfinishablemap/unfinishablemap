@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-04-15 16:06:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,9 +26,8 @@ concepts:
 - '[[bidirectional-interaction]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[mind-matter-interface]]'
-- '[[causal-delegation]]'
+- '[[delegatory-causation]]'
 - '[[delegatory-dualism]]'
-- '[[preemption]]'
 - '[[observational-closure]]'
 - '[[bandwidth-problem-mental-causation]]'
 - '[[bandwidth-of-consciousness]]'
@@ -89,7 +88,7 @@ Mental properties [supervene](/concepts/supervenience/) on physical properties: 
 
 ### The Overdetermination Problem
 
-Kim argues systematic overdetermination is untenable—two independent causal chains reliably converging would be an intolerable coincidence. Responses include Yablo's proportionality argument (mental properties may be the more appropriate causal level), the levels response (one cause under two descriptions), and [causal-delegation](/concepts/causal-delegation/)—the physical state *delegates* its causal work to the experience, which preempts rather than duplicates the physical contribution.
+Kim argues systematic overdetermination is untenable—two independent causal chains reliably converging would be an intolerable coincidence. Responses include Yablo's proportionality argument (mental properties may be the more appropriate causal level), the levels response (one cause under two descriptions), and [causal delegation](/concepts/delegatory-causation/)—the physical state *delegates* its causal work to the experience, which preempts rather than duplicates the physical contribution.
 
 ## Major Responses to the Exclusion Argument
 
@@ -103,9 +102,9 @@ James Woodward's interventionist theory vindicates mental causation by replacing
 
 ### Delegatory Dualism
 
-Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025) holds that experiences *[preempt](/concepts/preemption/)* physical causes rather than overdetermining alongside them. Physical brain states have a "default causal profile"—the effects they *would* produce absent any experience. When an experience arises whose causal profile matches this default, the experience takes over. Pain causes wincing by preempting what the physical state would otherwise do.
+Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025) holds that experiences *[preempt](/concepts/delegatory-causation/)* physical causes rather than overdetermining alongside them. Physical brain states have a "default causal profile"—the effects they *would* produce absent any experience. When an experience arises whose causal profile matches this default, the experience takes over. Pain causes wincing by preempting what the physical state would otherwise do.
 
-This differs crucially from overdetermination: preemption has one cause *operating* while the other is *sidelined*. Saad's distinction between *universal* closure and *[observational closure](/concepts/observational-closure/)* parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. The [delegation-selection bridge](/topics/delegation-meets-quantum-selection/) argues these parallels reflect deep unity: the default causal profile just *is* the Born-rule distribution, making delegation the causal structure and quantum selection the mechanism of a single causal event. See [causal-delegation](/concepts/causal-delegation/) for the full mechanism.
+This differs crucially from overdetermination: preemption has one cause *operating* while the other is *sidelined*. Saad's distinction between *universal* closure and *[observational closure](/concepts/observational-closure/)* parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. The [delegation-selection bridge](/topics/delegation-meets-quantum-selection/) argues these parallels reflect deep unity: the default causal profile just *is* the Born-rule distribution, making delegation the causal structure and quantum selection the mechanism of a single causal event. See [delegatory-causation](/concepts/delegatory-causation/) for the full mechanism.
 
 ## The Quantum Opening
 
@@ -224,7 +223,7 @@ Mental causation and downward causation are central to the Map's framework.
 
 - [causal-closure](/concepts/causal-closure/) — The principle mental causation challenges
 - [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/) — How the causal closure principle evolved from Elisabeth's challenge through Kim's exclusion argument
-- [causal-delegation](/concepts/causal-delegation/) — Mechanism by which physical states hand off causal work to experiences
+- [delegatory-causation](/concepts/delegatory-causation/) — Mechanism by which physical states hand off causal work to experiences
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's 2025 response: experiences preempt rather than overdetermine
 - [psychophysical-laws](/concepts/psychophysical-laws/) — How mental states select physical outcomes
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Framework requiring selection laws for mental causation

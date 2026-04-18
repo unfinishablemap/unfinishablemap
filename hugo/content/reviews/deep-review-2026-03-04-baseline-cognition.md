@@ -68,8 +68,8 @@ None. The article has stabilized well since the first deep review.
 ### Cross-links Added
 
 - [delegatory-dualism](/topics/delegatory-dualism/) — in epiphenomenalism section, Relation to Site Perspective, Further Reading, and frontmatter
-- [causal-delegation](/concepts/causal-delegation/) — in Bidirectional Interaction tenet, Further Reading, and frontmatter concepts
-- [preemption](/concepts/preemption/) — in epiphenomenalism section (inline reference)
+- [causal-delegation](/concepts/delegatory-causation/) — in Bidirectional Interaction tenet, Further Reading, and frontmatter concepts
+- [preemption](/concepts/delegatory-causation/) — in epiphenomenalism section (inline reference)
 
 ## Remaining Items
 

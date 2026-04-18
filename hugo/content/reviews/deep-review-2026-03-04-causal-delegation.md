@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-04
-**Article**: [Causal Delegation](/concepts/causal-delegation/)
+**Article**: [Causal Delegation](/concepts/delegatory-causation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -64,7 +64,7 @@ topics: []
 - [emergence](/concepts/emergence/) — Added causal-delegation as third option after Kim's exclusion argument
 - [agent-causation](/concepts/agent-causation/) — Added causal-delegation parallel in Skill Delegation section
 - [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added causal-delegation reference in Delegatory Dualism subsection
-- [preemption](/concepts/preemption/) — Added causal-delegation link in Saad's Delegatory Preemption section
+- [preemption](/concepts/delegatory-causation/) — Added causal-delegation link in Saad's Delegatory Preemption section
 - [delegatory-dualism](/topics/delegatory-dualism/) — Added causal-delegation link where two laws are introduced
 - [interactionist-dualism](/concepts/interactionist-dualism/) — Added causal-delegation in Delegation response paragraph
 

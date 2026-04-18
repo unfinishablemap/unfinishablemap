@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [Default Causal Profile](/concepts/default-causal-profile/)
+**Article**: [Default Causal Profile](/concepts/delegatory-causation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

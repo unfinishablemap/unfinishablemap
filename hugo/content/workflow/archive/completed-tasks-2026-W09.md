@@ -121,7 +121,7 @@ Pessimistic review found high-severity omission of Dennett's Multiple Drafts mod
 
 ### ✓ 2026-03-01: Integrate preemption.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: Concepts article (created 2026-02-15) with zero inbound wikilinks. The word "preemption" appears in body text of delegatory-dualism and related articles as a common noun but never as a wikilink. Adding [preemption](/concepts/preemption/) links from delegatory-dualism.md, consciousness-and-causal-powers.md, and attention-as-selection-interface.md would integrate this concept into the site's navigation.
+- **Notes**: Concepts article (created 2026-02-15) with zero inbound wikilinks. The word "preemption" appears in body text of delegatory-dualism and related articles as a common noun but never as a wikilink. Adding [preemption](/concepts/delegatory-causation/) links from delegatory-dualism.md, consciousness-and-causal-powers.md, and attention-as-selection-interface.md would integrate this concept into the site's navigation.
 - **Output**: obsidian/concepts/preemption.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-03-01: Write voids article on the continuity void

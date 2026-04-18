@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-06 10:58:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -160,7 +160,7 @@ The retrocausal dimension deepens this: if selection operates through [atemporal
 
 ## Skill Delegation and the Interface
 
-If agents cause actions, why don't they control every detail of skilled performance? The [implicit memory](/concepts/implicit-memory/) framework resolves this: skilled automaticity represents *delegation*, not absence. [Skill delegation](/concepts/skill-delegation/) follows a three-phase pattern—conscious calibration, progressive withdrawal, and retained override capacity—paralleling [causal-delegation](/concepts/causal-delegation/)'s metaphysical structure.
+If agents cause actions, why don't they control every detail of skilled performance? The [implicit memory](/concepts/implicit-memory/) framework resolves this: skilled automaticity represents *delegation*, not absence. [Skill delegation](/concepts/skill-delegation/) follows a three-phase pattern—conscious calibration, progressive withdrawal, and retained override capacity—paralleling [causal delegation](/concepts/delegatory-causation/)'s metaphysical structure.
 
 The "choking under pressure" phenomenon demonstrates causal efficacy—as the [phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/) details, when experts consciously re-engage with automatised actions, performance degrades. This proves consciousness isn't epiphenomenal: if attention were causally inert, it couldn't interfere with skills. The agency-passivity axis provides the empirical grounding for agent causation, showing that consciousness's causal contribution varies along a spectrum from full agentic selection to passive observation.
 
@@ -236,7 +236,7 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation com
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as causal pathway
 - [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) — Frontal decision circuits, salience network switching, and thalamic gating
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The agency-passivity axis that empirically grounds agent causation
-- [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern, choking phenomenon, and parallel with [causal-delegation](/concepts/causal-delegation/)
+- [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern, choking phenomenon, and parallel with [causal delegation](/concepts/delegatory-causation/)
 - [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [causal-closure](/concepts/causal-closure/) — The principle substance causation challenges

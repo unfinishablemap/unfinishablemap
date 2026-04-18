@@ -54,7 +54,7 @@ Inbound links added from 6 articles to resolve orphan status:
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — inline link at override capacity discussion + Further Reading
 - [implicit-memory](/concepts/implicit-memory/) — inline link at body memory delegation discussion + Further Reading
 - [agent-causation](/concepts/agent-causation/) — inline link at "Skill Delegation and the Interface" section + Further Reading
-- [causal-delegation](/concepts/causal-delegation/) — new paragraph describing inverse parallel + Further Reading
+- [causal-delegation](/concepts/delegatory-causation/) — new paragraph describing inverse parallel + Further Reading
 - [embodied-cognition](/concepts/embodied-cognition/) — inline link replacing causal-delegation link at delegation mention + Further Reading
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — inline link at choking discussion + Further Reading
 

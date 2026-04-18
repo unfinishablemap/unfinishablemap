@@ -45,7 +45,9 @@ def convert_wikilinks(
         [[Page Name#Heading]] -> [Page Name](/page-name/#heading)
     """
     # Pattern for wikilinks: [[target]] or [[target|display]]
-    wikilink_pattern = re.compile(r"\[\[([^\]]+)\]\]")
+    # Exclude newlines so a stray unclosed `[[` (e.g. inside backticks) can't
+    # greedily consume content across lines until finding a later `]]`.
+    wikilink_pattern = re.compile(r"\[\[([^\]\n]+)\]\]")
 
     def replace_wikilink(match: re.Match) -> str:
         link_content = match.group(1)
@@ -231,7 +233,7 @@ def extract_wikilinks(content: str) -> list[dict]:
     Returns:
         List of dicts with wikilink info
     """
-    wikilink_pattern = re.compile(r"\[\[([^\]]+)\]\]")
+    wikilink_pattern = re.compile(r"\[\[([^\]\n]+)\]\]")
     links = []
 
     for match in wikilink_pattern.finditer(content):

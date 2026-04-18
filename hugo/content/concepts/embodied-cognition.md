@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-16 13:43:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[symbol-grounding-problem]]'
-- '[[causal-delegation]]'
+- '[[delegatory-causation]]'
 created: 2026-01-14
 date: &id001 2026-01-14
 description: Cognition depends on the body and extends into the environment. This

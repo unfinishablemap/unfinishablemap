@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-03-28 11:23:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -16,9 +16,8 @@ concepts:
 - '[[pairing-problem]]'
 - '[[luck-objection]]'
 - '[[delegatory-dualism]]'
-- '[[preemption]]'
 - '[[observational-closure]]'
-- '[[causal-delegation]]'
+- '[[delegatory-causation]]'
 created: 2026-01-18
 date: &id001 2026-01-18
 description: 'Six major challenges to dualism: pairing, conservation, parsimony, decoherence,
@@ -157,7 +156,7 @@ The Map's primary response: at quantum indeterminacies, P is *not* sufficient fo
 
 ### Response 4: Delegatory Preemption
 
-[Delegatory dualism](/topics/delegatory-dualism/) (Saad, 2025) offers a response independent of quantum mechanics. When a physical brain state's default causal profile matches an experience's causal profile, the experience *[preempts](/concepts/preemption/)* the physical state's causal role through [causal-delegation](/concepts/causal-delegation/). Only one cause operates—the experience does the causal work while the physical state is sidelined. Saad also distinguishes *[observational closure](/concepts/observational-closure/)* from universal closure: mental causation need not violate what physics experiments detect.
+[Delegatory dualism](/topics/delegatory-dualism/) (Saad, 2025) offers a response independent of quantum mechanics. When a physical brain state's default causal profile matches an experience's causal profile, the experience *[preempts](/concepts/delegatory-causation/)* the physical state's causal role through [causal delegation](/concepts/delegatory-causation/). Only one cause operates—the experience does the causal work while the physical state is sidelined. Saad also distinguishes *[observational closure](/concepts/observational-closure/)* from universal closure: mental causation need not violate what physics experiments detect.
 
 ### Connection to the Luck Objection
 

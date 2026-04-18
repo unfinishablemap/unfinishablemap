@@ -270,6 +270,9 @@ def convert_file(
             if "/" in target:
                 parts = target.split("/")
                 slugified_parts = [slugify(part) for part in parts]
+                # Section-index convention: foo/foo.md becomes /foo/ (as _index.md)
+                if len(slugified_parts) == 2 and slugified_parts[0] == slugified_parts[1]:
+                    return f"/{slugified_parts[0]}/"
                 return "/" + "/".join(slugified_parts) + "/"
             # Single-part target: look up in index
             slug = slugify(target)

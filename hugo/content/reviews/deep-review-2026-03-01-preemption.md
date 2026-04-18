@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-01
-**Article**: [Preemption](/concepts/preemption/)
+**Article**: [Preemption](/concepts/delegatory-causation/)
 **Previous review**: [2026-02-20](/reviews/deep-review-2026-02-20-preemption/)
 
 ## Pessimistic Analysis Summary
@@ -58,14 +58,14 @@ All checks passed (unchanged from previous review):
 - **Removed stale AI refinement log**: Log was marked for removal after human review; article had been deep-reviewed.
 
 ### Cross-links Added (Orphan Integration)
-The primary focus of this review was integrating preemption.md into the site navigation. The article had zero inbound wikilinks. Added `[preemption](/concepts/preemption/)` links in 6 articles:
+The primary focus of this review was integrating preemption.md into the site navigation. The article had zero inbound wikilinks. Added `[preemption](/concepts/delegatory-causation/)` links in 6 articles:
 
-- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added `[preempt](/concepts/preemption/)` inline link (line 98) + frontmatter concept
-- [delegatory-dualism](/topics/delegatory-dualism/) — Added `[preempts](/concepts/preemption/)` inline link (line 97) + frontmatter concept + Further Reading entry
-- [objections-to-interactionism](/concepts/objections-to-interactionism/) — Added `[preempts](/concepts/preemption/)` inline link (line 249) + frontmatter concept + Further Reading entry
-- [causal-closure](/concepts/causal-closure/) — Added `[preempt](/concepts/preemption/)` inline link (line 107) + frontmatter concept
-- [interactionist-dualism](/concepts/interactionist-dualism/) — Added `[preempted](/concepts/preemption/)` inline link (line 116)
-- [consciousness-and-agency](/apex/consciousness-and-agency/) (apex) — Added `[preempt](/concepts/preemption/)` inline link (line 120)
+- [mental-causation](/concepts/mental-causation-and-downward-causation/) — Added `[preempt](/concepts/delegatory-causation/)` inline link (line 98) + frontmatter concept
+- [delegatory-dualism](/topics/delegatory-dualism/) — Added `[preempts](/concepts/delegatory-causation/)` inline link (line 97) + frontmatter concept + Further Reading entry
+- [objections-to-interactionism](/concepts/objections-to-interactionism/) — Added `[preempts](/concepts/delegatory-causation/)` inline link (line 249) + frontmatter concept + Further Reading entry
+- [causal-closure](/concepts/causal-closure/) — Added `[preempt](/concepts/delegatory-causation/)` inline link (line 107) + frontmatter concept
+- [interactionist-dualism](/concepts/interactionist-dualism/) — Added `[preempted](/concepts/delegatory-causation/)` inline link (line 116)
+- [consciousness-and-agency](/apex/consciousness-and-agency/) (apex) — Added `[preempt](/concepts/delegatory-causation/)` inline link (line 120)
 
 ## Remaining Items
 

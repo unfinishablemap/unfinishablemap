@@ -28,8 +28,8 @@ topics: []
 - None. Article is stable after 7 reviews. All attributions verified, no factual errors or internal contradictions.
 
 ### Medium Issues Found
-- **Missing `[causal-delegation](/concepts/causal-delegation/)` in frontmatter concepts**: The concept was linked in the body (line 99) but absent from the frontmatter concepts list. [RESOLVED: Added to frontmatter]
-- **Missing `[causal-delegation](/concepts/causal-delegation/)` in Further Reading**: The dedicated concept page had no entry in Further Reading despite being referenced in the body. [RESOLVED: Added with description]
+- **Missing `[causal-delegation](/concepts/delegatory-causation/)` in frontmatter concepts**: The concept was linked in the body (line 99) but absent from the frontmatter concepts list. [RESOLVED: Added to frontmatter]
+- **Missing `[causal-delegation](/concepts/delegatory-causation/)` in Further Reading**: The dedicated concept page had no entry in Further Reading despite being referenced in the body. [RESOLVED: Added with description]
 
 ### Counterarguments Considered
 All six adversarial personas engaged. No new concerns beyond those already addressed in prior reviews:
@@ -57,11 +57,11 @@ All attributions verified against causal-delegation article for cross-consistenc
 - The body reference at line 99 effectively bridges to the dedicated concept page without replicating its content
 
 ### Enhancements Made
-- Added `[causal-delegation](/concepts/causal-delegation/)` to frontmatter concepts list
-- Added `[causal-delegation](/concepts/causal-delegation/)` to Further Reading with description
+- Added `[causal-delegation](/concepts/delegatory-causation/)` to frontmatter concepts list
+- Added `[causal-delegation](/concepts/delegatory-causation/)` to Further Reading with description
 
 ### Cross-links Added
-- `[causal-delegation](/concepts/causal-delegation/)` — frontmatter and Further Reading (body link already existed from earlier causal-delegation review)
+- `[causal-delegation](/concepts/delegatory-causation/)` — frontmatter and Further Reading (body link already existed from earlier causal-delegation review)
 
 ## Remaining Items
 

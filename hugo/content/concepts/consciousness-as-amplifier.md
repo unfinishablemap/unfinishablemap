@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-21
-ai_modified: 2026-04-15 08:41:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ concepts:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[phenomenal-consciousness]]'
 - '[[access-consciousness]]'
-- '[[causal-delegation]]'
+- '[[delegatory-causation]]'
 - '[[amplification-void]]'
 - '[[cumulative-culture]]'
 created: 2026-01-21
@@ -159,7 +159,7 @@ The [Dualism](/tenets/#dualism) tenet holds consciousness is irreducible to phys
 
 The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet claims consciousness causally influences the physical world. The [universal-coupling-response](/concepts/universal-coupling-response/) predicts this influence occurs wherever adequate neural architecture exists—across phyla, not just in primates. The amplification hypothesis provides a specific account at two levels: cognitively, through flexible deployment, metacognitive monitoring, and counterfactual simulation; physically, through the [proposed amplification mechanisms](#proposed-physical-mechanisms) bridging quantum-scale influence to macroscopic neural effects.
 
-The exclusion problem—if every neural event has a sufficient physical cause, how can consciousness contribute?—is addressed by [causal delegation](/concepts/causal-delegation/) (Saad 2025): consciousness *takes over* causal work through [preemption](/concepts/preemption/) rather than duplication. Amplification is not an additional cause layered atop neural processing but consciousness exercising the causal role the neural substrate yields.
+The exclusion problem—if every neural event has a sufficient physical cause, how can consciousness contribute?—is addressed by [causal delegation](/concepts/delegatory-causation/) (Saad 2025): consciousness *takes over* causal work through [preemption](/concepts/delegatory-causation/) rather than duplication. Amplification is not an additional cause layered atop neural processing but consciousness exercising the causal role the neural substrate yields.
 
 ### Minimal Quantum Interaction
 
@@ -183,7 +183,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [attention-as-interface](/concepts/attention-as-interface/) — How consciousness engages neural systems
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The felt structure of deliberate selection
 - [metarepresentation](/concepts/metacognition/) — Representing representations as representations
-- [causal-delegation](/concepts/causal-delegation/) — How consciousness takes over causal work from neural states (the causal structure for amplification)
+- [delegatory-causation](/concepts/delegatory-causation/) — How consciousness takes over causal work from neural states (the causal structure for amplification)
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full framework for mental causation without overdetermination
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — Why the phenomenal character of reasoning is irreducible: consciousness pervades cognition
 - [global-workspace-theory](/concepts/global-workspace-theory/) — The broadcasting account of conscious access

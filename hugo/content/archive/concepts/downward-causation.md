@@ -75,7 +75,7 @@ Kim's argument implies causal efficacy "drains" to fundamental physics. If each 
 
 Perhaps mental and physical causes both contribute? Kim argues this systematic overdetermination is untenable—two independent causal chains reliably converging would be an intolerable coincidence.
 
-Responses include: mental and physical causes aren't independent (they supervene); Yablo's proportionality argument that mental properties may be the more appropriate causal level; the levels response that mental and physical descriptions capture one cause under two descriptions; and [causal-delegation](/concepts/causal-delegation/)—the physical state *delegates* its causal work to the experience, which preempts rather than duplicates the physical contribution.
+Responses include: mental and physical causes aren't independent (they supervene); Yablo's proportionality argument that mental properties may be the more appropriate causal level; the levels response that mental and physical descriptions capture one cause under two descriptions; and [causal-delegation](/concepts/delegatory-causation/)—the physical state *delegates* its causal work to the experience, which preempts rather than duplicates the physical contribution.
 
 ## Major Responses to the Exclusion Argument
 
@@ -209,7 +209,7 @@ Kim's exclusion argument remains the primary challenge to mental causation. But 
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (and why it matters for downward causation)
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
 - [decoherence](/concepts/decoherence/) — The physics challenge and why it doesn't close the quantum opening
-- [causal-delegation](/concepts/causal-delegation/) — How physical states delegate causal work to experience
+- [causal-delegation](/concepts/delegatory-causation/) — How physical states delegate causal work to experience
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention implements downward causation
 - [luck-objection](/concepts/luck-objection/) — The parallel challenge to agent causation
 - [pairing-problem](/concepts/pairing-problem/) — What connects this mind to this body

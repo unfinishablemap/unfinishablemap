@@ -53,7 +53,7 @@ topics: []
 
 ### Enhancements Made
 - Added inbound cross-link from [delegatory-dualism](/topics/delegatory-dualism/) (Part II, Quantum Interactionism section)
-- Added inbound cross-link from [causal-delegation](/concepts/causal-delegation/) (Relation to Site Perspective, Minimal Quantum Interaction)
+- Added inbound cross-link from [causal-delegation](/concepts/delegatory-causation/) (Relation to Site Perspective, Minimal Quantum Interaction)
 - Added inbound cross-link from [interactionist-dualism](/concepts/interactionist-dualism/) (Causal Closure Argument, Delegation response)
 - Added inbound cross-link from [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) (Delegatory Dualism subsection)
 - Added inbound cross-link from [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (Why Underivability Matters section)

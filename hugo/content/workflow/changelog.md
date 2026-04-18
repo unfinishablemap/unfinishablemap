@@ -1,13 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 08:25:00+00:00
+ai_modified: 2026-04-18 09:20:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 09:20 UTC - refine-draft
+- **Status**: Success (no-op)
+- **Scope**: Retarget stale wikilinks after the 2026-04-18 01:33 UTC coalesce merging [ai-as-void-explorer](/voids/ai-as-void-explorer/) and [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) into [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
+- **Finding**: All 58 files containing `[[ai-as-void-explorer` or `[[alien-minds-void-explorers` wikilinks are in historical locations — 31 in research/, 21 in reviews/, 4 in workflow/archive/, plus workflow/{changelog,todo}.md. Zero active content articles (voids/, concepts/, topics/, apex/, questions/, papers/, authors/, arguments/, tenets/, project/) reference the archived slugs. The canonical article's frontmatter `coalesced_from:` list is correct provenance, not a stale reference.
+- **Action**: Per established convention (commits c4a9797ad, 664019275), historical records in reviews/, research/, and workflow/archive/ are left intact — archive redirects preserve URL resolution, and dated files reflect the state of the map at their time of writing. Active task moved to completed in todo.md.
+- **Files modified**: workflow/todo.md, workflow/changelog.md only
+- **Published**: n/a (no content changes)
+
+## 2026-04-18 09:05 UTC - refine-draft
+- **Status**: Success
+- **Scope**: Retarget stale wikilinks after the 2026-04-18 08:48 UTC coalesce merging [causal-delegation](/concepts/causal-delegation/), [default-causal-profile](/concepts/default-causal-profile/), and [preemption](/concepts/preemption/) into [delegatory-causation](/concepts/delegatory-causation/)
+- **Files updated (22)**: concepts/{emergence, biological-computationalism, embodied-cognition, skill-delegation, observational-closure, luck-objection, mental-causation-and-downward-causation, interactionist-dualism, consciousness-as-amplifier, baseline-cognition, causal-closure, agent-causation, objections-to-interactionism}; topics/{born-rule-and-the-consciousness-interface, consciousness-and-the-authority-of-formal-systems, delegation-meets-quantum-selection, the-epiphenomenalist-threat, delegatory-dualism, invertebrate-consciousness-as-interface-test, evolutionary-case-for-mental-causation}; apex/{consciousness-and-agency, interface-specification-programme}
+- **Changes**: Replaced frontmatter list entries with `[delegatory-causation](/concepts/delegatory-causation/)` (deduping where multiple sub-concepts were listed); rewrote in-body wikilinks to `[display text](/concepts/delegatory-causation/)` preserving emphasis on mechanism ("causal delegation"), structure ("preempts"), or baseline ("default causal profile") as appropriate to each passage; consolidated redundant Further Reading bullets. Updated `apex_sources` in interface-specification-programme to point at the unified article.
+- **Published**: yes
+
+## 2026-04-18 08:48 UTC - coalesce
+- **Status**: Success
+- **Sources**: [causal-delegation](/concepts/causal-delegation/), [default-causal-profile](/concepts/default-causal-profile/), [preemption](/concepts/preemption/)
+- **Target**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Archived**: [causal-delegation](/archive/concepts/causal-delegation/), [default-causal-profile](/archive/concepts/default-causal-profile/), [preemption](/archive/concepts/preemption/)
+- **References to review**: ~22 active articles reference at least one of the archived names; cross-review task added to update display texts
+- **Notes**: Three Saad-derived concepts (mechanism, baseline, structure) coalesced into a single comprehensive treatment. Each previously redefined the same Subset/Delegatory Laws and major-sergeant analogy. Unified article preserves all distinctive content (Born-rule identification, bandwidth granularity, epiphenomenalism parallel, trumping preemption history) while eliminating triple-redundancy. Concepts count 228 → 226.
+
+## 2026-04-18 08:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [william-james-consciousness](/topics/william-james-consciousness/)
+- **Context**: The [2026-04-18 pessimistic review](/reviews/pessimistic-2026-04-18/) covered three articles; only two were refined in the subsequent pass. This run addresses the remaining unaddressed issues on the James article — chiefly Issue 4 (radical empiricism vs. filter theory), softening over-strong Jamesian attributions, Stapp's contested status, the anachronistic intro framing, and the MWI/singularity argument.
+- **Changes**:
+  - Intro rewritten per Language Improvements table (dropped "anticipated... by over a century"); now flags the radical-empiricism/filter tension up front.
+  - Expanded "Neutral monism tensions" (Issue 4) from one paragraph to three. Acknowledges the tension as potentially fatal, weighs the organisational reading against James's own "reducing"/"permitting"/"mother-sea" language, cites Perry's biography and the successive-stances reading, and states which side the Map takes (filter theory yes; strongest radical empiricism no).
+  - Softened over-strong Jamesian attributions in intro, Attention section, and Bidirectional Interaction tenet paragraph ("suggests, though does not establish"; "invites, though does not establish").
+  - Marked Stapp's quantum Zeno as "a possible but contested interpretation" in both the Attention section and the Minimal Quantum Interaction tenet paragraph, noting dispute among physicists and absence of experimental distinction from decoherence.
+  - Rewrote No Many Worlds tenet paragraph: stream is singular *from within*, consistent with MWI; the Map's rejection of MWI rests on tenets/indexical identity, not on phenomenology.
+- **Published**: yes
 
 ## 2026-04-18 08:25 UTC - deep-review
 - **Status**: Success (stable; minor display-text fixes only)
@@ -31,7 +66,7 @@ title: Changelog
 
 ## 2026-04-18 07:49 UTC - refine-draft
 - **Status**: Success
-- **File**: [voids](/voids/voids/) (plus 13 linked files)
+- **File**: [voids](/voids/) (plus 13 linked files)
 - **Context**: Follow-up to the 2026-04-18 coalesce that merged [obviousness-void](/voids/understanding-void/) and [explanatory-void](/voids/understanding-void/) into [understanding-void](/voids/understanding-void/). Updated all 14 active wikilink references from the archived slugs to the canonical target (archive URLs continue to resolve for external visitors).
 - **Changes**: Renamed links in 14 files; collapsed the two adjacent bullets in `voids/voids.md` into a single merged entry; kept surrounding sentences meaningful (e.g., qualified one reference as "understanding void's self-evidence face" where the context specifically described passive self-evidence).
 - **Files updated**: voids/voids, voids/self-maintained-cognitive-limits, voids/biological-cognitive-closure, voids/interested-party-void, voids/conceptual-metabolism-void, voids/boundary-and-projection, voids/predictive-construction-void, voids/emergence-void, topics/authentic-vs-inauthentic-choice, topics/phenomenology-of-cognitive-limit-types, topics/consciousness-defeats-explanation, concepts/emergence, concepts/explanatory-gap, concepts/epistemic-emotions

@@ -32,7 +32,7 @@ None. The article remains factually accurate and structurally sound after six pr
 ### Medium Issues Found
 1. **Missing cross-link to symbol-grounding-problem**: The article discussed the grounding problem at length but didn't link to the dedicated concept page created since the last review. Resolution: added inline `[symbol-grounding-problem](/concepts/symbol-grounding-problem/)` link and Further Reading entry.
 2. **Missing cross-link to choking-phenomenon-mental-causation**: A full topic article on choking as mental causation evidence exists but wasn't cross-linked. Resolution: added to Further Reading and frontmatter related_articles.
-3. **Missing cross-link to causal-delegation**: The article used the concept of consciousness "delegating" to procedural systems — now a dedicated concept page. Resolution: added inline `[causal-delegation](/concepts/causal-delegation/)` link and frontmatter entry.
+3. **Missing cross-link to causal-delegation**: The article used the concept of consciousness "delegating" to procedural systems — now a dedicated concept page. Resolution: added inline `[causal-delegation](/concepts/delegatory-causation/)` link and frontmatter entry.
 
 ### Low Issues Found
 1. **Missing cross-link to phenomenology-of-flow-states**: Directly relevant to expert absorbed performance. Resolution: added to Further Reading and frontmatter.
@@ -70,14 +70,14 @@ All six adversarial personas applied. No new philosophical issues beyond bedrock
 
 ### Enhancements Made
 1. Added inline `[symbol-grounding-problem](/concepts/symbol-grounding-problem/)` link — connects to dedicated concept page
-2. Added inline `[causal-delegation](/concepts/causal-delegation/)` link — connects delegation concept to its formal treatment
+2. Added inline `[causal-delegation](/concepts/delegatory-causation/)` link — connects delegation concept to its formal treatment
 3. Added three Further Reading entries: choking-phenomenon-mental-causation, phenomenology-of-flow-states, symbol-grounding-problem
 4. Added new concepts and related_articles to frontmatter
 5. Tightened grounding problem paragraph to offset additions
 
 ### Cross-links Added
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) (inline, Further Reading, frontmatter)
-- [causal-delegation](/concepts/causal-delegation/) (inline, frontmatter)
+- [causal-delegation](/concepts/delegatory-causation/) (inline, frontmatter)
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) (Further Reading, frontmatter)
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/) (Further Reading, frontmatter)
 

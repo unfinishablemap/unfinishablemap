@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-16 11:59:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[implicit-memory]]'
 - '[[attention-as-interface]]'
 - '[[mental-effort]]'
-- '[[causal-delegation]]'
+- '[[delegatory-causation]]'
 - '[[motor-selection]]'
 - '[[embodied-cognition]]'
 - '[[conscious-vs-unconscious-processing]]'
@@ -91,7 +91,7 @@ These gradients suggest that skill delegation is not a single mechanism but a fa
 
 ## Skill Delegation and Causal Delegation
 
-The everyday phenomenon of skill delegation parallels a deeper metaphysical structure. In Bradford Saad's [delegatory dualism](/concepts/causal-delegation/), physical brain states hand off their causal responsibilities to conscious experiences—the physical state retains the capacity to cause the effect but does not exercise it because consciousness has taken over.
+The everyday phenomenon of skill delegation parallels a deeper metaphysical structure. In Bradford Saad's [delegatory dualism](/concepts/delegatory-causation/), physical brain states hand off their causal responsibilities to conscious experiences—the physical state retains the capacity to cause the effect but does not exercise it because consciousness has taken over.
 
 Skill delegation inverts this direction: consciousness hands off causal work to procedural systems. The conscious agent retains the capacity to control the action but does not exercise it because the trained procedure has taken over.
 
@@ -143,7 +143,7 @@ These patterns are consistent with delegation as the mechanism underlying automa
 
 - [implicit-memory](/concepts/implicit-memory/) — Anoetic consciousness and the phenomenology of automatised skill
 - [agent-causation](/concepts/agent-causation/) — Why skill delegation presupposes a genuine agent as delegator
-- [causal-delegation](/concepts/causal-delegation/) — The metaphysical parallel: physical states delegating to consciousness
+- [delegatory-causation](/concepts/delegatory-causation/) — The metaphysical parallel: physical states delegating to consciousness
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The unified framework situating skill-delegation as the inverse of causal delegation within quantum selection
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Extended analysis of choking as evidence for mental causation
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — How consciousness shapes skill acquisition, flow, and performance restructuring

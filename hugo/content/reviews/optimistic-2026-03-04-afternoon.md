@@ -162,11 +162,11 @@ The contemplative-path article's treatment of the self-eluding nature of awarene
 
 | From | To | Reason |
 |------|-----|--------|
-| [causal-delegation](/concepts/causal-delegation/) | [conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/) | Delegation explains how causation works without energy injection; conservation laws article addresses the same concern from the physics side |
+| [causal-delegation](/concepts/delegatory-causation/) | [conservation-laws-mind-brain-causation](/concepts/conservation-laws-and-mental-causation/) | Delegation explains how causation works without energy injection; conservation laws article addresses the same concern from the physics side |
 | [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) | [machine-consciousness](/topics/machine-consciousness/) | Amplification thesis implies AI lacks consciousness-dependent capabilities; machine-consciousness should reference this |
 | [baseline-cognition](/concepts/baseline-cognition/) | [consciousness-threshold-in-cognitive-evolution](/topics/consciousness-and-intelligence/) | The threshold question directly follows from baseline cognition: at what point does consciousness emerge? |
 | [the-measurement-problem-as-philosophical-problem](/topics/quantum-measurement-and-consciousness/) | [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) | Both address the observer's role in quantum mechanics from different angles |
-| [causal-delegation](/concepts/causal-delegation/) | [mental-causation](/concepts/mental-causation-and-downward-causation/) | Mental causation is the Map's central treatment; should cross-reference delegation as a specific mechanism |
+| [causal-delegation](/concepts/delegatory-causation/) | [mental-causation](/concepts/mental-causation-and-downward-causation/) | Mental causation is the Map's central treatment; should cross-reference delegation as a specific mechanism |
 | [the-hard-problem-in-non-western-philosophy](/topics/the-hard-problem-in-non-western-philosophy/) | [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) | The hard problem article mentions Indian philosophy broadly; the dedicated article deserves explicit linking |
 
 ## New Concept Pages Needed

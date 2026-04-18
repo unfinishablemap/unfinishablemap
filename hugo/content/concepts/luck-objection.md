@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-04-15 21:36:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,8 +21,7 @@ concepts:
 - '[[concepts/many-worlds]]'
 - '[[buddhism-and-dualism]]'
 - '[[trilemma-of-selection]]'
-- '[[default-causal-profile]]'
-- '[[causal-delegation]]'
+- '[[delegatory-causation]]'
 created: 2026-01-18
 date: &id001 2026-01-21
 description: Why indeterminism seems to threaten free will as much as determinism,
@@ -88,7 +87,7 @@ The Map strengthens the agent-causal response by specifying *how* consciousness 
 | Phenomenology | None | Effort, engagement |
 | Agent's relationship | Passive recipient | Active selector |
 
-The [delegation](/concepts/causal-delegation/) framework makes this precise. Every brain state has a [default-causal-profile](/concepts/default-causal-profile/) — the pattern of effects it would produce absent conscious takeover. When consciousness selects, it *preempts* that default profile: the experience does the causal work the physical state would otherwise have done. Selection is not a mysterious extra force; it is the agent taking over causal responsibilities that physics leaves open at points of quantum indeterminacy.
+The [delegation](/concepts/delegatory-causation/) framework makes this precise. Every brain state has a [default causal profile](/concepts/delegatory-causation/) — the pattern of effects it would produce absent conscious takeover. When consciousness selects, it *preempts* that default profile: the experience does the causal work the physical state would otherwise have done. Selection is not a mysterious extra force; it is the agent taking over causal responsibilities that physics leaves open at points of quantum indeterminacy.
 
 If selection is genuine, the luck objection fails. The agent explains the difference by selecting for reasons.
 
@@ -157,8 +156,7 @@ The luck objection directly challenges the Map's [Bidirectional Interaction](/te
 - [quantum-consciousness](/concepts/quantum-consciousness/) — The broader framework for consciousness-physics interaction
 - [decoherence](/concepts/decoherence/) — The physics-based objection and quantum biology responses
 - [many-worlds](/concepts/many-worlds/) — Why MWI undermines the selection picture entirely
-- [default-causal-profile](/concepts/default-causal-profile/) — The counterfactual baseline that consciousness preempts when selecting
-- [causal-delegation](/concepts/causal-delegation/) — The mechanism by which experience takes over the physical state's causal work
+- [delegatory-causation](/concepts/delegatory-causation/) — Default causal profile (counterfactual baseline), preemption, and the mechanism by which experience takes over the physical state's causal work
 - [trilemma-of-selection](/topics/trilemma-of-selection/) — The three-way choice between determinism, randomness, and mental causation
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral luck and grounds desert
 

@@ -160,5 +160,5 @@ The expertise void's identification of the "void within the void" — that at pe
 
 ## New Concept Pages Needed
 
-- **Causal delegation**: Referenced in delegatory-dualism.md as [causal-delegation](/concepts/causal-delegation/) but the concept page may not exist. Deserves its own page as a distinctive causal structure relevant beyond Saad's specific theory.
+- **Causal delegation**: Referenced in delegatory-dualism.md as [causal-delegation](/concepts/delegatory-causation/) but the concept page may not exist. Deserves its own page as a distinctive causal structure relevant beyond Saad's specific theory.
 - **Transformative experience**: L.A. Paul's framework is cited in expertise-void.md and has broader applications across the Map (altered states, contemplative practice, expertise acquisition). A concept page would serve as a cross-referencing hub.

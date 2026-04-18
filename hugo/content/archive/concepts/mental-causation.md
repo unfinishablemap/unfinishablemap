@@ -104,9 +104,9 @@ Mental properties might "inherit" causal powers from physical realizers through 
 
 ### Delegatory Dualism
 
-Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025) holds that experiences *[preempt](/concepts/preemption/)* physical causes rather than overdetermining alongside them. Physical brain states have a "default causal profile" — the effects they *would* produce absent any experience. When an experience arises whose causal profile matches this default, the experience takes over. Pain causes wincing by preempting what the physical state would otherwise do.
+Bradford Saad's [delegatory dualism](/topics/delegatory-dualism/) (2025) holds that experiences *[preempt](/concepts/delegatory-causation/)* physical causes rather than overdetermining alongside them. Physical brain states have a "default causal profile" — the effects they *would* produce absent any experience. When an experience arises whose causal profile matches this default, the experience takes over. Pain causes wincing by preempting what the physical state would otherwise do.
 
-This differs crucially from overdetermination: preemption has one cause *operating* while the other is *sidelined*. Saad's distinction between *universal* closure and *[observational closure](/concepts/observational-closure/)* parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. See [causal-delegation](/concepts/causal-delegation/) for the full mechanism.
+This differs crucially from overdetermination: preemption has one cause *operating* while the other is *sidelined*. Saad's distinction between *universal* closure and *[observational closure](/concepts/observational-closure/)* parallels the Map's quantum framework: both hold that mental causation can be genuine without producing empirically detectable anomalies. See [causal-delegation](/concepts/delegatory-causation/) for the full mechanism.
 
 ### The Quantum Opening
 
@@ -224,7 +224,7 @@ Mental causation, as defended here, is falsifiable:
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Framework requiring selection laws for mental causation
 - [psychophysical-laws](/concepts/psychophysical-laws/) — How mental states select physical outcomes
 - [coupling-modes](/concepts/coupling-modes/) — Taxonomy: basis, timing, or probability control
-- [causal-delegation](/concepts/causal-delegation/) — Mechanism by which physical states hand off causal work to experiences
+- [causal-delegation](/concepts/delegatory-causation/) — Mechanism by which physical states hand off causal work to experiences
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's 2025 response: experiences preempt rather than overdetermine
 - [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/) — Empirical evidence: conscious interference demonstrates causation
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The Map's commitment to consciousness causally influencing the physical

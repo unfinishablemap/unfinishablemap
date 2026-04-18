@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-17 13:05:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -52,7 +52,7 @@ related_articles:
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
 - '[[tenets]]'
-- '[[causal-delegation]]'
+- '[[delegatory-causation]]'
 title: Consciousness and the Authority of Formal Systems
 topics:
 - '[[dualism]]'
@@ -110,7 +110,7 @@ Consciousness differs because it *is* the experiential side that structural reca
 
 The Map proposes a distinction between formal *authority* and formal *sovereignty*. Logic has authority over valid inference; mathematics has authority over structure. Neither has sovereignty over all of reality if reality includes non-structural, non-formal features — intrinsic qualities, phenomenal properties, the what-it-is-like of experience.
 
-Formal authority also matters *for* the Map's framework. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases quantum indeterminacies. This claim is partly formal: it concerns probabilities, collapse dynamics, and conservation laws. Mathematics constrains how consciousness could interact with physics even if it cannot describe what consciousness is. An apparent tension emerges: if formal systems cannot capture consciousness, how can consciousness interface with the formally described quantum world? The resolution lies in the authority/sovereignty distinction itself. The *interaction* — probability biasing, conservation compliance — is structural, falling squarely within mathematical authority. The *agent* that interacts — consciousness — has an intrinsic nature that formal description does not exhaust. A person's gravitational mass is fully captured by physics, but physics need not capture everything about the person for gravity to apply. Similarly, [consciousness acts](/concepts/mental-causation-and-downward-causation/) on quantum indeterminacies through a structural interface, even though what consciousness *is* exceeds structural description. The authority/sovereignty distinction maps onto [causal-delegation](/concepts/causal-delegation/): formal systems have authority over the structural interface through which consciousness operates, while consciousness retains sovereignty as the agent that acts through it—delegating nothing of its intrinsic nature to formal description even as it works within formally constrained channels.
+Formal authority also matters *for* the Map's framework. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases quantum indeterminacies. This claim is partly formal: it concerns probabilities, collapse dynamics, and conservation laws. Mathematics constrains how consciousness could interact with physics even if it cannot describe what consciousness is. An apparent tension emerges: if formal systems cannot capture consciousness, how can consciousness interface with the formally described quantum world? The resolution lies in the authority/sovereignty distinction itself. The *interaction* — probability biasing, conservation compliance — is structural, falling squarely within mathematical authority. The *agent* that interacts — consciousness — has an intrinsic nature that formal description does not exhaust. A person's gravitational mass is fully captured by physics, but physics need not capture everything about the person for gravity to apply. Similarly, [consciousness acts](/concepts/mental-causation-and-downward-causation/) on quantum indeterminacies through a structural interface, even though what consciousness *is* exceeds structural description. The authority/sovereignty distinction maps onto [causal delegation](/concepts/delegatory-causation/): formal systems have authority over the structural interface through which consciousness operates, while consciousness retains sovereignty as the agent that acts through it—delegating nothing of its intrinsic nature to formal description even as it works within formally constrained channels.
 
 Formal systems also face *internal* limits. Gödel's incompleteness theorems (1931) showed that any consistent formal system powerful enough to express arithmetic contains truths it cannot prove. This is not a practical limitation but a structural one — an inherent boundary on what formal methods can accomplish on their own terms. The consciousness case is a more radical instance of the same pattern: formal systems fail not just to prove certain truths about consciousness but to *express* what consciousness is. The [formal-cognitive-limits](/voids/formal-cognitive-limits/) explores how Gödelian limits and the limits at consciousness may share a common root in the gap between formal manipulation and genuine comprehension.
 
@@ -160,7 +160,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Why we judge that consciousness resists formal explanation
 - [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) — What kind of law could bridge mind and matter
 - [explanatory-gap](/concepts/explanatory-gap/) — The central challenge formal systems face with consciousness
-- [causal-delegation](/concepts/causal-delegation/) — The preemption structure that mirrors the authority/sovereignty distinction
+- [delegatory-causation](/concepts/delegatory-causation/) — The preemption structure that mirrors the authority/sovereignty distinction
 
 ## References
 

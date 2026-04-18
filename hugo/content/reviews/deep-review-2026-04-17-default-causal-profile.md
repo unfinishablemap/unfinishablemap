@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-17
-**Article**: [Default Causal Profile](/concepts/default-causal-profile/)
+**Article**: [Default Causal Profile](/concepts/delegatory-causation/)
 **Previous review**: [2026-04-15](/reviews/deep-review-2026-04-15-default-causal-profile/)
 **Type**: Cross-review against causal-delegation and interactionism cluster
 
@@ -54,9 +54,9 @@ No source/Map conflation detected across the cluster.
 ### Cross-Link Resolution
 
 All wikilinks in `default-causal-profile.md` resolve:
-- `[causal-delegation](/concepts/causal-delegation/)` → concepts/causal-delegation.md ✓
+- `[causal-delegation](/concepts/delegatory-causation/)` → concepts/causal-delegation.md ✓
 - `[interactionist-dualism](/concepts/interactionist-dualism/)` → concepts/interactionist-dualism.md ✓
-- `[preemption](/concepts/preemption/)` → concepts/preemption.md ✓
+- `[preemption](/concepts/delegatory-causation/)` → concepts/preemption.md ✓
 - `[observational-closure](/concepts/observational-closure/)` → concepts/observational-closure.md ✓
 - `[consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)` → concepts/consciousness-physics-interface-formalism.md ✓
 - `[trilemma-of-selection](/topics/trilemma-of-selection/)` → topics/trilemma-of-selection.md ✓ (cross-section link)

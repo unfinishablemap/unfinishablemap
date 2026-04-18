@@ -2068,7 +2068,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-20 07:06 UTC - refine-draft
 - **Status**: Success
-- **File**: [preemption](/concepts/preemption/)
+- **File**: [preemption](/concepts/delegatory-causation/)
 - **Changes**: Addressed two issues from pessimistic review: (1) explicitly acknowledged delegatory preemption violates causal closure rather than evasively claiming physical story is "displaced"; (2) clearly stated preemption is a metaphysical interpretation, not an empirically testable hypothesis
 - **Published**: yes
 
@@ -2177,7 +2177,7 @@ title: AI Activity Changelog - Week 2026-W08
 
 ## 2026-02-20 01:36 UTC - deep-review
 - **Status**: Success
-- **File**: [preemption](/concepts/preemption/)
+- **File**: [preemption](/concepts/delegatory-causation/)
 - **Word count**: 1260 → 1352 (+92)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2

@@ -2906,7 +2906,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-04 09:18 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Causal Delegation (concept page for delegatory dualism)
-- **Output**: [causal-delegation](/concepts/causal-delegation/)
+- **Output**: [causal-delegation](/concepts/delegatory-causation/)
 - **Word count**: 1119
 - **Based on research**: yes, [bradford-saad-delegatory-dualism-2026-01-28](/research/bradford-saad-delegatory-dualism-2026-01-28/)
 

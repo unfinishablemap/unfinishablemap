@@ -29,7 +29,7 @@ None. Article structure and argumentation remain solid after two previous review
 ### Medium Issues Found
 
 1. **Missing engagement with the exclusion problem**: The article asserts consciousness causally amplifies intelligence but never addressed the central objection to mental causation — if every neural event has a sufficient physical cause, how can consciousness amplify without overdetermination? Bradford Saad's causal delegation framework directly resolves this gap.
-   - **Resolution**: Added a paragraph in the Bidirectional Interaction tenet section explaining how causal delegation (Saad 2025) provides the causal structure for amplification — consciousness takes over causal work via preemption rather than duplication. Added cross-links to [causal-delegation](/concepts/causal-delegation/) and [delegatory-dualism](/topics/delegatory-dualism/). Added Saad reference.
+   - **Resolution**: Added a paragraph in the Bidirectional Interaction tenet section explaining how causal delegation (Saad 2025) provides the causal structure for amplification — consciousness takes over causal work via preemption rather than duplication. Added cross-links to [causal-delegation](/concepts/delegatory-causation/) and [delegatory-dualism](/topics/delegatory-dualism/). Added Saad reference.
 
 ### Counterarguments Considered
 
@@ -58,13 +58,13 @@ None. Article structure and argumentation remain solid after two previous review
 ### Enhancements Made
 
 1. Added causal delegation integration in Bidirectional Interaction section (~80 words added)
-2. Added [causal-delegation](/concepts/causal-delegation/) and [delegatory-dualism](/topics/delegatory-dualism/) cross-links in Further Reading
+2. Added [causal-delegation](/concepts/delegatory-causation/) and [delegatory-dualism](/topics/delegatory-dualism/) cross-links in Further Reading
 3. Added `causal-delegation` to concepts frontmatter, `delegatory-dualism` to related_articles
 4. Added Saad (2025) reference
 5. Trimmed epiphenomenalist response paragraph and Process Philosophy section to offset additions
 
 ### Cross-links Added
-- [causal-delegation](/concepts/causal-delegation/)
+- [causal-delegation](/concepts/delegatory-causation/)
 - [delegatory-dualism](/topics/delegatory-dualism/)
 
 ## Length Management

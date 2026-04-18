@@ -59,7 +59,7 @@ None.
 
 ### Cross-links Added
 - [panpsychism](/concepts/panpsychism/)
-- [default-causal-profile](/concepts/default-causal-profile/)
+- [default-causal-profile](/concepts/delegatory-causation/)
 
 ## Remaining Items
 

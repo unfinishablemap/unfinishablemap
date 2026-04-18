@@ -32,8 +32,8 @@ None. The article has been reviewed five times previously and reached stability.
 1. **Redundancy with new observational-closure.md**: The "Observational vs Universal Closure" section (~420 words) substantially overlapped with the new standalone [observational-closure](/concepts/observational-closure/) article created today. With the article at 112% of soft threshold (2800 words), this redundancy was the primary improvement target.
    - **Resolution**: Condensed to ~200 words, preserving the core distinction and equivocation argument while delegating detailed mechanisms (statistical invisibility, causal profile matching, domain specificity) and objection responses (unfalsifiability, epiphenomenalism-in-disguise, evasion) to the standalone article.
 
-2. **Missing cross-link to causal-delegation**: The article discussed delegation and preemption mechanisms but didn't link to the standalone [causal-delegation](/concepts/causal-delegation/) concept article.
-   - **Resolution**: Added [causal-delegation](/concepts/causal-delegation/) to concepts frontmatter and Further Reading. Integrated inline via "causal profile matching" link in the condensed observational closure section.
+2. **Missing cross-link to causal-delegation**: The article discussed delegation and preemption mechanisms but didn't link to the standalone [causal-delegation](/concepts/delegatory-causation/) concept article.
+   - **Resolution**: Added [causal-delegation](/concepts/delegatory-causation/) to concepts frontmatter and Further Reading. Integrated inline via "causal profile matching" link in the condensed observational closure section.
 
 ### Low Issues
 
@@ -80,7 +80,7 @@ No dropped qualifiers, no source/Map conflation, no misattributions.
 
 ### Cross-links Added
 
-- `[causal-delegation](/concepts/causal-delegation/)` — concepts frontmatter, inline, and Further Reading
+- `[causal-delegation](/concepts/delegatory-causation/)` — concepts frontmatter, inline, and Further Reading
 
 ## Length Management
 

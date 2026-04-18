@@ -30,7 +30,7 @@ None. Article has reached stability after two previous reviews.
   - **Resolution**: Added Carroll (2016), Hagan/Hameroff/Tuszyński (2002), and Kalra et al. (2025) to references with inline attribution.
 
 - **Missing cross-link to causal-delegation**: New article created 2026-03-04 elaborates the delegatory preemption mechanism discussed in the exclusion section.
-  - **Resolution**: Added `[causal-delegation](/concepts/causal-delegation/)` link in exclusion section text, frontmatter concepts, and Further Reading.
+  - **Resolution**: Added `[causal-delegation](/concepts/delegatory-causation/)` link in exclusion section text, frontmatter concepts, and Further Reading.
 
 ### Counterarguments Considered
 All six adversarial personas engaged. No new substantive objections beyond those identified in previous reviews. Bedrock disagreements (eliminativism, MWI, Buddhist emptiness) remain per previous stability notes.
@@ -65,13 +65,13 @@ No misattribution, dropped qualifiers, overstated positions, or source/Map confl
 - Falsifiability section (added in first review)
 
 ### Enhancements Made
-1. Added `[causal-delegation](/concepts/causal-delegation/)` cross-link in exclusion section (~5 words net)
+1. Added `[causal-delegation](/concepts/delegatory-causation/)` cross-link in exclusion section (~5 words net)
 2. Added 3 missing citations to references (Carroll, Hagan et al., Kalra et al.)
 3. Alphabetized references section
 4. Tightened several passages for length neutrality (pairing response, parsimony, evolutionary argument, entanglement precedent)
 
 ### Cross-links Added
-- [causal-delegation](/concepts/causal-delegation/) — new reference in exclusion section, frontmatter, and Further Reading
+- [causal-delegation](/concepts/delegatory-causation/) — new reference in exclusion section, frontmatter, and Further Reading
 
 ## Word Count
 

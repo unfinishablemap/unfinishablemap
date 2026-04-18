@@ -83,7 +83,7 @@ All six adversarial personas engaged. No new substantive issues beyond what prev
 ### Enhancements Made
 
 1. Fixed uncited "2025 review" quote — rephrased to remove vague attribution
-2. Added `[causal-delegation](/concepts/causal-delegation/)` to Further Reading — referenced in body but missing from Further Reading
+2. Added `[causal-delegation](/concepts/delegatory-causation/)` to Further Reading — referenced in body but missing from Further Reading
 
 ### Cross-links Verified
 

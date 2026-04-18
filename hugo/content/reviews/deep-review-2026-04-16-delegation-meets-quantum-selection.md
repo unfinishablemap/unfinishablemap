@@ -50,7 +50,7 @@ topics: []
 - Bridging argument (added in first review) strengthening the Born-rule identification
 
 ### Enhancements Made
-- Added inbound cross-link from [preemption](/concepts/preemption/) (Further Reading)
+- Added inbound cross-link from [preemption](/concepts/delegatory-causation/) (Further Reading)
 - Added inbound cross-link from [observational-closure](/concepts/observational-closure/) (Further Reading)
 - Added inbound cross-link from [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) (Further Reading)
 - Added inbound cross-link from [post-decoherence-selection](/concepts/post-decoherence-selection/) (Further Reading)

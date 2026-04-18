@@ -1,15 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-16 11:59:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[causal-delegation]]'
+- '[[delegatory-causation]]'
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation-and-downward-causation]]'
-- '[[preemption]]'
 - '[[observational-closure]]'
 - '[[post-decoherence-selection]]'
 - '[[psychophysical-laws]]'
@@ -38,11 +37,11 @@ topics:
 - '[[quantum-measurement-and-consciousness]]'
 ---
 
-Bradford Saad's [causal-delegation](/concepts/causal-delegation/) framework and The Unfinishable Map's quantum selection framework address mental causation at different levels — logical structure and physical mechanism — that have remained largely unconnected. Delegation explains *how* mental causation avoids overdetermination: conscious experience [preempts](/concepts/preemption/) the physical state's causal contribution rather than duplicating it. Quantum selection explains *where* consciousness interfaces with physics: at quantum indeterminacies where physics leaves outcomes undetermined. This article argues that the two frameworks are not merely compatible but mutually completing. The central claim: Saad's "default causal profile" — the pattern of effects a physical state would produce absent conscious takeover — corresponds to the Born-rule probability distribution governing quantum outcomes, making delegation the causal structure and quantum selection the physical implementation of a single event.
+Bradford Saad's [causal delegation](/concepts/delegatory-causation/) framework and The Unfinishable Map's quantum selection framework address mental causation at different levels — logical structure and physical mechanism — that have remained largely unconnected. Delegation explains *how* mental causation avoids overdetermination: conscious experience [preempts](/concepts/delegatory-causation/) the physical state's causal contribution rather than duplicating it. Quantum selection explains *where* consciousness interfaces with physics: at quantum indeterminacies where physics leaves outcomes undetermined. This article argues that the two frameworks are not merely compatible but mutually completing. The central claim: Saad's "default causal profile" — the pattern of effects a physical state would produce absent conscious takeover — corresponds to the Born-rule probability distribution governing quantum outcomes, making delegation the causal structure and quantum selection the physical implementation of a single event.
 
 ## Two Frameworks, Two Questions
 
-Existing Map articles treat delegation and quantum selection as addressing different aspects of the mind-body problem. The [delegatory-dualism](/topics/delegatory-dualism/) article notes that "quantum interactionism specifies *where* consciousness interfaces with physics... delegatory dualism specifies *how* mental causation avoids overdetermination." The [causal-delegation](/concepts/causal-delegation/) article similarly distinguishes mechanism from structure. Both observe compatibility without pursuing integration.
+Existing Map articles treat delegation and quantum selection as addressing different aspects of the mind-body problem. The [delegatory-dualism](/topics/delegatory-dualism/) article notes that "quantum interactionism specifies *where* consciousness interfaces with physics... delegatory dualism specifies *how* mental causation avoids overdetermination." The [causal delegation](/concepts/delegatory-causation/) article similarly distinguishes mechanism from structure. Both observe compatibility without pursuing integration.
 
 The gap is significant. Without a bridge, each framework inherits problems the other could address:
 
@@ -68,7 +67,7 @@ This identification has several consequences.
 
 ## Preemption at the Quantum Level
 
-Delegation's core mechanism is [preemption](/concepts/preemption/): the physical state retains the *capacity* to produce the effect but does not exercise it because experience takes over. How does preemption work at quantum indeterminacies?
+Delegation's core mechanism is [preemption](/concepts/delegatory-causation/): the physical state retains the *capacity* to produce the effect but does not exercise it because experience takes over. How does preemption work at quantum indeterminacies?
 
 Consider a neural system approaching the [post-decoherence gap](/concepts/post-decoherence-selection/). Decoherence has selected a preferred basis and suppressed interference, but the system remains in an improper mixture — multiple outcomes are genuinely possible, and physics provides no principle selecting one. Without conscious involvement, some physical process (objective collapse, hidden variables, or whatever baseline mechanism resolves the [prebiotic collapse problem](/concepts/prebiotic-collapse/)) would determine the outcome. This baseline process has a "default causal profile" — the statistical distribution of outcomes it would produce.
 
@@ -114,13 +113,12 @@ The delegation-selection bridge integrates multiple tenets into a unified accoun
 
 ## Further Reading
 
-- [causal-delegation](/concepts/causal-delegation/) — The causal structure: preemption and the Subset Law*
+- [delegatory-causation](/concepts/delegatory-causation/) — The causal structure: preemption, default causal profile, and the Subset Law*
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full theory including five constraints
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why the Born rule encodes the consciousness-physics interface
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) — Selection after decoherence removes the coherence requirement
 - [skill-delegation](/concepts/skill-delegation/) — The inverse direction: consciousness delegating to procedural systems
-- [preemption](/concepts/preemption/) — The causal structure underlying both delegation and selection
 - [trilemma-of-selection](/topics/trilemma-of-selection/) — Why selection at indeterminacies must be conscious
 - [observational-closure](/concepts/observational-closure/) — Why delegation-selection leaves no empirical trace
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Five constraints on any consciousness-physics coupling

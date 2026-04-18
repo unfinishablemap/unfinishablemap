@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-04-15 16:06:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[illusionism]]'
 - '[[concepts/many-worlds]]'
 - '[[observational-closure]]'
-- '[[preemption]]'
+- '[[delegatory-causation]]'
 - '[[entanglement-binding-hypothesis]]'
 created: 2026-01-29
 date: &id001 2026-01-29
@@ -84,7 +84,7 @@ Saad observes that existing dualist theories satisfy only some constraints. Epip
 
 ## Saad's Two Laws
 
-Delegatory dualism works through two laws that together define [causal-delegation](/concepts/causal-delegation/):
+Delegatory dualism works through two laws that together define [causal delegation](/concepts/delegatory-causation/):
 
 ### The Subset Law*
 
@@ -98,7 +98,7 @@ Causal profiles are defined functionally. A physical brain state has a default c
 
 ### The Delegatory Law
 
-The central mechanism: when an experience is instantiated via profile-matching, the experience *[preempts](/concepts/preemption/)* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
+The central mechanism: when an experience is instantiated via profile-matching, the experience *[preempts](/concepts/delegatory-causation/)* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
 
 > **Delegatory Law**: "Whenever a subject instantiates an experiential property E and a physical property P such that E's causal profile is a subset of P's default causal profile, E's causal profile preempts the corresponding subset of P's default causal profile." (Saad 2025)
 
@@ -242,7 +242,7 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 
 ## Further Reading
 
-- [preemption](/concepts/preemption/) — The causal structure underlying delegation: one cause operates, the other is sidelined
+- [delegatory-causation](/concepts/delegatory-causation/) — The unified account of delegation, preemption, and default causal profile: one cause operates, the other is sidelined
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position on mind-body interaction
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness causes physical effects
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses

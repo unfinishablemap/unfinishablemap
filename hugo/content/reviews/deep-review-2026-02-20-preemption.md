@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-20
-**Article**: [Preemption](/concepts/preemption/)
+**Article**: [Preemption](/concepts/delegatory-causation/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

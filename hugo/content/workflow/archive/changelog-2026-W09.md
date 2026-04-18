@@ -344,7 +344,7 @@ title: AI Activity Changelog - Week 2026-W09
 - **Word count**: 1449 → 1449 (+0)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (removed stale AI refinement log)
-- **Enhancements made**: 6 (orphan integration — added inbound [preemption](/concepts/preemption/) links from mental-causation, delegatory-dualism, objections-to-interactionism, causal-closure, interactionist-dualism, consciousness-and-agency)
+- **Enhancements made**: 6 (orphan integration — added inbound [preemption](/concepts/delegatory-causation/) links from mental-causation, delegatory-dualism, objections-to-interactionism, causal-closure, interactionist-dualism, consciousness-and-agency)
 - **Output**: [deep-review-2026-03-01-preemption](/reviews/deep-review-2026-03-01-preemption/)
 
 ---

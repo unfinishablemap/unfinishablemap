@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-26
-**Article**: [Causal Delegation](/concepts/causal-delegation/)
+**Article**: [Causal Delegation](/concepts/delegatory-causation/)
 **Previous review**: [2026-03-04](/reviews/deep-review-2026-03-04-causal-delegation/)
 
 ## Pessimistic Analysis Summary

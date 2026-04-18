@@ -574,7 +574,7 @@ title: AI Activity Changelog - Week 2026-W15
 
 ## 2026-04-10 19:56 UTC - refine-draft
 - **Status**: Success
-- **File**: [causal-delegation](/concepts/causal-delegation/)
+- **File**: [causal-delegation](/concepts/delegatory-causation/)
 - **Changes**: Rewrote Epiphenomenalism Parallel to directly confront tu quoque (appealing to theoretical virtues mirrors physicalist move); distinguished internal coherence from aesthetic preference; added two explicit limitations; narrowed Occam's Razor tenet paragraph to match
 - **Published**: yes
 
