@@ -2,9 +2,9 @@
 title: "The Born Rule and the Consciousness-Physics Interface"
 description: "The Born rule resists derivation across every quantum interpretation — abductive evidence it encodes the consciousness-physics interface rather than a gap awaiting closure."
 created: 2026-03-15
-modified: 2026-03-28
+modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-18T09:05:00+00:00
+ai_modified: 2026-04-18T10:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,6 +36,7 @@ related_articles:
   - "[[many-worlds-argument]]"
   - "[[concepts/many-worlds]]"
   - "[[pragmatist-quantum-foundations-under-dualism]]"
+  - "[[the-interface-specification-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -122,6 +123,8 @@ For the consciousness-interface interpretation, this is illuminating rather than
 
 The rule's form is determined by causal consistency; its existence — the fact that there are probabilities at all, that one outcome actualises from among possibilities — is what physics cannot generate.
 
+This negative constraint — specifying what any consciousness-modulated selection must respect, without yet specifying the mental variable doing the selecting — is precisely the kind of partial progress [[the-interface-specification-problem#What Would Count as Progress?|the interface specification problem]] identifies as tractable short of a full mapping. Accumulating such physics-side constraints narrows the space of viable specifications even while the mental-side variable remains unsettled.
+
 ## Why Underivability Matters for Consciousness-Collapse
 
 If the Born rule could be derived from physics alone — with no reference to observers, agents, or measurement outcomes — there would be no conceptual space for consciousness at the measurement interface. That it *cannot* be so derived, despite a century of effort across every framework, is abductive evidence that it encodes something the formalism does not contain. The [[the-reverse-inference|reverse inference]] uses this pattern: consciousness — the more epistemically secure datum — constrains what physics can be, and the Born rule's underivability marks exactly the boundary where consciousness meets quantum indeterminacy. The [[quantum-probability-consciousness|interface view]] proposes that the Born rule describes how consciousness actualises one possibility among many — [[conservation-laws-and-mental-causation|without injecting energy]] — an objective feature of the consciousness-quantum interface. The [[consciousness-physics-interface-formalism]] establishes Born rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling. The [[delegation-meets-quantum-selection|delegation-selection bridge]] takes this further, identifying the Born-rule distribution with Saad's "default causal profile" in [[delegatory-causation|causal delegation]] — the counterfactual baseline against which delegation operates acquires empirical grounding as the most precisely confirmed regularity in physics.
@@ -177,6 +180,7 @@ Third, the Map's position does not predict specific deviations from the Born rul
 - [[completeness-in-physics-under-dualism]] — Why structural completeness in physics does not entail ontological completeness
 - [[what-consciousness-tells-us-about-physics]] — The reverse inference from mind to matter
 - [[penrose-gravity-induced-collapse-empirical-prospects]] — Empirical tests of gravitational collapse and Born-rule predictions
+- [[the-interface-specification-problem]] — The Causal Consistency Constraint as partial progress on specifying how consciousness couples to physical selections
 
 ## References
 

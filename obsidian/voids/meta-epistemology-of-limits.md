@@ -2,9 +2,9 @@
 title: "The Meta-Epistemology of Cognitive Limits"
 description: "Can we know our cognitive limits are genuine, can we predict which will dissolve, and can we determine whether they are natural features or designed constraints? All three questions may be structurally unanswerable from within any limited mind."
 created: 2026-01-30
-modified: 2026-04-17
+modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-17T19:30:00+00:00
+ai_modified: 2026-04-18T10:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[tenet-generated-voids]]"
   - "[[simulation-detection-void]]"
   - "[[epistemological-limits-occams-razor]]"
+  - "[[psychedelics-and-the-filter-model]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -93,6 +94,8 @@ The dispute between temporary and permanent mysterianism turns on what historica
 Dissolved limits share features that serve as diagnostic criteria. **Dissolved limits tend to** depend on a specific false assumption ("all is ratio"), stay domain-specific, yield to new representational tools, feel like "I can't imagine *how*," and show accumulating progress before breakthrough. **Persistent limits tend to** recur across cultures and centuries (Leibniz posed essentially the same [[hard-problem-of-consciousness|hard problem]] in 1714 that Chalmers formalised in 1995), involve self-reference, resist interpretation even when formalism succeeds, generate stable philosophical positions rather than progressive research programmes, and feel like "I can't even formulate what a solution would look like."
 
 The hard problem scores high on persistent-limit indicators. [[illusionism|Illusionism]] attempts dissolution by denying the explanandum, but this move illustrates the problem's resistance rather than effects one. Yet every dissolved limit *also* looked permanent to those inside it—the Pythagoreans presumably felt their limit was structural; so did Kant.
+
+These diagnostics apply beyond historical cases to live theoretical disputes. The evidential structure distinguishing [[psychedelics-and-the-filter-model#Where the Accounts Could Diverge|filter theory from entropic-brain accounts of psychedelics]] — selective access to specifically inaccessible content, convergent phenomenology under divergent neural conditions, therapeutic durability without ongoing reinforcement — deploys the same dissolved-vs-persistent pattern prospectively, treating competing frameworks as making different bets about which divergences will accumulate as evidence.
 
 ### The Asymmetry Problem
 
@@ -177,6 +180,7 @@ A convincing solution to the hard problem would demonstrate that at least some a
 - [[simulation-detection-void|The Simulation Detection Void]] — Where all three void types converge on the detection problem
 - [[epistemological-limits-occams-razor|Epistemological Limits of Occam's Razor]] — A concrete instance of limits undermining a reasoning tool
 - [[epistemology-of-limit-knowledge]] — The systematic account of what kind of knowledge limit-claims are and what methods produce them
+- [[psychedelics-and-the-filter-model#Where the Accounts Could Diverge|Psychedelics and the Filter Model]] — The dissolved-vs-persistent diagnostic applied prospectively to the filter-theory/entropic-brain dispute
 
 ## References
 

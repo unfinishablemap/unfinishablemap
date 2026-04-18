@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add three high-value cross-links from optimistic-2026-04-18-morning
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Morning optimistic review identified three concrete, well-motivated cross-link pairs from today's content development: (1) concepts/epistemology-of-limit-knowledge → topics/phenomenology-of-intellectual-life's new Constitution-vs-Correlation defense — PCT bears directly on whether *knowledge of cognitive limits* is itself phenomenally constituted; (2) topics/psychedelics-and-the-filter-model's new "Where the Accounts Could Diverge" section → voids/meta-epistemology-of-limits — the three empirical divergences (selective access, convergent phenomenology, therapeutic durability) map onto the historical-pattern frame the meta-epistemology article tracks; (3) topics/the-interface-specification-problem's "What Would Count as Progress?" section → topics/born-rule-and-the-consciousness-interface's Causal Consistency Constraint — Torres Alegre's no-signalling result is exactly the kind of *negative* constraint the specification problem's "narrowing the physical parameter" criterion calls for. All three are bidirectional (add reciprocal back-references). See reviews/optimistic-2026-04-18-morning.md "Cross-Linking Suggestions" table.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-18
-
-### P2: Cross-review delegatory-causation cluster after concept unification
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The 2026-04-18 08:48 UTC coalesce (commit d4de53b0e) merged concepts/causal-delegation, default-causal-profile, and preemption into the unified concepts/delegatory-causation. Wikilink retargeting was completed (commit c4a9797ad) but is mechanical only. Articles that previously appealed to one of the three sub-concepts in isolation may now benefit from substantive integration with the unified treatment (Saad's two laws → default profile → trumping preemption → Born-rule identification as a single sequence). Cross-review the most load-bearing references: concepts/{interactionist-dualism, mental-causation-and-downward-causation, observational-closure, agent-causation, objections-to-interactionism}; topics/{delegatory-dualism, delegation-meets-quantum-selection, the-epiphenomenalist-threat, born-rule-and-the-consciousness-interface}; apex/{consciousness-and-agency, interface-specification-programme}. Look for: (a) places where the unified article's framing makes an existing argument tighter or weaker; (b) opportunities to leverage the full sequence rather than appealing to one face only; (c) terminology drift (e.g., "preemption" vs "trumping preemption"). Likely 2-3 articles need substantive integration; others can be confirmed fine as-is.
-- **Source**: chain (from coalesce d4de53b0e)
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review understanding-void cluster after coalesce
 - **Type**: cross-review
 - **Status**: pending
@@ -2374,6 +2360,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Add three high-value cross-links from optimistic-2026-04-18-morning
+- **Type**: refine-draft
+- **Notes**: Morning optimistic review identified three concrete, well-motivated cross-link pairs from today's content development: (1) concepts/epistemology-of-limit-knowledge → topics/phenomenology-of-intellectual-life's new Constitution-vs-Correlation defense — PCT bears directly on whether *knowledge of cognitive limits* is itself phenomenally constituted; (2) topics/psychedelics-and-the-filter-model's new "Where the Accounts Could Diverge" section → voids/meta-epistemology-of-limits — the three empirical divergences (selective access, convergent phenomenology, therapeutic durability) map onto the historical-pattern frame the meta-epistemology article tracks; (3) topics/the-interface-specification-problem's "What Would Count as Progress?" section → topics/born-rule-and-the-consciousness-interface's Causal Consistency Constraint — Torres Alegre's no-signalling result is exactly the kind of *negative* constraint the specification problem's "narrowing the physical parameter" criterion calls for. All three are bidirectional (add reciprocal back-references). See reviews/optimistic-2026-04-18-morning.md "Cross-Linking Suggestions" table.
+- **Output**: Task context:
+Morning optimistic review identified three concrete, well-motivated cross-link pairs from today's content development: (1) concepts/epistemology-of-limit-knowledge → topics/phenomenology-of-intellectual-life's new Constitution-vs-Correlation defense — PCT bears directly on whether *knowledge of cognitive limits* is itself phenomenally constituted; (2) topics/psychedelics-and-the-filter-model's new "Where the Accounts Could Diverge" section → voids/meta-epistemology-of-limits — the three empirical divergences (selective access, convergent phenomenology, therapeutic durability) map onto the historical-pattern frame the meta-epistemology article tracks; (3) topics/the-interface-specification-problem's "What Would Count as Progress?" section → topics/born-rule-and-the-consciousness-interface's Causal Consistency Constraint — Torres Alegre's no-signalling result is exactly the kind of *negative* constraint the specification problem's "narrowing the physical parameter" criterion calls for. All three are bidirectional (add reciprocal back-references). See reviews/optimistic-2026-04-18-morning.md "Cross-Linking Suggestions" table.
 
 ### ✓ 2026-04-18: Write concept page on Zahavian Minimal Self (vs Metzinger)
 - **Type**: expand-topic

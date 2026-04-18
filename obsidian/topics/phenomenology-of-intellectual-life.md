@@ -2,9 +2,9 @@
 title: "The Phenomenology of Intellectual Life"
 description: "Intellectual life has irreducible phenomenal character: the work of inference, the click of comprehension, five modes of meaning, and the felt texture of knowing."
 created: 2026-01-22
-modified: 2026-04-03
+modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T06:33:00+00:00
+ai_modified: 2026-04-18T10:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,6 +71,7 @@ related_articles:
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
   - "[[ineffable-encounter-void]]"
   - "[[comparative-phenomenology-of-mathematical-insight]]"
+  - "[[epistemology-of-limit-knowledge]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -189,6 +190,8 @@ The functionalist argues that "felt difference" just is the difference in functi
 
 Understanding exhibits tight coupling between phenomenology and competence: those who report genuine insight demonstrate ability to apply understanding to novel cases, detect errors, explain the content. If cognitive phenomenology were confabulation, this reliable coupling would be coincidence. PCT explains it: the phenomenology *is* the understanding.
 
+PCT's reach extends beyond first-order knowing. If the phenomenology of grasping partly constitutes the achievement, the felt encounter with closure — the phenomenology of hitting a wall — may partly constitute the second-order recognition *that* a limit exists. The [[epistemology-of-limit-knowledge]] develops this extension: limit-knowledge is not merely evidenced by phenomenology but (plausibly) phenomenally constituted, which shifts the bootstrap problem for knowing one's own limits from a question of introspective access to a question of whether the felt encounter with closure is itself a reliable presentation.
+
 ## Contemplative Evidence
 
 Contemplative traditions provide independent evidence by revealing meaning's phenomenal character under careful observation. **Beginner's mind** (shoshin) reveals how habitual certainty closes inquiry. **The great doubt** (daigi) intensifies not-understanding until the effort collapses — what follows (kensho) has phenomenal character distinct from ordinary understanding. **[[witness-consciousness|Witness consciousness]]** practices enable observing understanding as it occurs, distinguishing semantic content, the phenomenal character of grasping it, and metacognitive awareness.
@@ -245,6 +248,7 @@ None of these findings currently obtains in the strong form required.
 - [[ineffable-encounter-void]] — Where felt significance exceeds articulation
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — Why genuine aboutness requires phenomenal consciousness
 - [[comparative-phenomenology-of-mathematical-insight]] — Cross-cultural phenomenology of insight
+- [[epistemology-of-limit-knowledge]] — PCT extended to second-order knowing: the phenomenology of encountering cognitive limits as partly constitutive of knowledge about them
 
 ## References
 
