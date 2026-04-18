@@ -5126,3 +5126,17 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. Six cross-linking opportunities: metaphysics-of-composition → phenomenal-non-compositionality (mereological angle meets phenomenal angle), rational-normativity → argument-from-reason (conceptual foundation meets application), tenet-falsification-conditions → testing-consciousness-collapse (what would refute meets experimental programme), clinical-dissociation-as-systematic-evidence → the-observer-witness-in-meditation (disruption and refinement as complementary interface cartography), death-and-consciousness → terminal-lucidity-and-filter-transmission-theory (brief mention meets full treatment), eastern-philosophy-and-consciousness → contemplative-epistemology (philosophical positions meet methodology). See optimistic-2026-04-15.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-15
+
+### P3: Write concept article on tenets-over-parsimony as methodological commitment
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The parsimony-epistemology article's new Idealism Parity Trilemma section (added 2026-04-17) admits that ontological parsimony does not favour interactionist dualism over idealism and explains that the Map's preference for dualism rests on Tenets 2/3/4 (bidirectional causation, minimal quantum interaction, rejecting Many-Worlds + indexical identity). This move is methodologically distinctive but embedded in a subsection. A dedicated concept page would articulate the move as a standalone methodological commitment: what kind of argument is "preferring dualism because of bidirectional causation" if it is not parsimony-based, and how does theoretical-fit adjudicate between monisms and dualism? The positive side of the Trilemma move. Target section: concepts/. See optimistic-2026-04-18.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-18
+
+### P3: Write article on apophatic decision procedures
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The new transformative-experience-void article (2026-04-17) introduces "apophatic decision procedures" in one paragraph — the idea that agents can map which features of a choice are accessible (structural, propositional, testimonial) and which are not (phenomenal, identity-altering), and deliberate over the accessible axes while explicitly acknowledging the inaccessible ones. This extends the Map's apophatic methodology beyond cartography into practical decision-making and is philosophically novel — most apophatic writing is about knowing, not deciding. Would connect transformative-experience-void, framework-void, free-will, and Paul's authenticity constraint. Operationalises Tenet 5 (Occam's Razor Has Limits). Target section: topics/ or concepts/. See optimistic-2026-04-18.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-18
