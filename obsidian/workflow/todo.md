@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review acquaintance-void.md considering transformative-experience-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article voids/transformative-experience-void.md (created 2026-04-17) develops Paul's framework for choices whose outcome value is structurally inaccessible from the pre-decision standpoint. The acquaintance-void article addresses the more general phenomenon of acquaintance knowledge that cannot be transferred propositionally. Review acquaintance-void.md for: (a) opportunities to cite transformative-experience-void as a paradigm case where acquaintance-failure has decision-theoretic consequences, (b) consistency on how the void is sealed (one-way vs doubly-sealed structure), (c) places where the new article's authenticity-constraint discussion sharpens or challenges existing claims about acquaintance. Add cross-links if warranted.
-- **Source**: chain (from voids/transformative-experience-void.md)
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review framework-void.md considering transformative-experience-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2330,6 +2323,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review acquaintance-void.md considering transformative-experience-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/transformative-experience-void.md (created 2026-04-17) develops Paul's framework for choices whose outcome value is structurally inaccessible from the pre-decision standpoint. The acquaintance-void article addresses the more general phenomenon of acquaintance knowledge that cannot be transferred propositionally. Review acquaintance-void.md for: (a) opportunities to cite transformative-experience-void as a paradigm case where acquaintance-failure has decision-theoretic consequences, (b) consistency on how the void is sealed (one-way vs doubly-sealed structure), (c) places where the new article's authenticity-constraint discussion sharpens or challenges existing claims about acquaintance. Add cross-links if warranted.
+- **Output**: obsidian/voids/acquaintance-void.md -- Context: Cross-review acquaintance-void.md considering transformative-experience-void insights
 
 ### ✓ 2026-04-18: Write article on QBism and Pragmatist Quantum Foundations under Dualism
 - **Type**: expand-topic

@@ -4,7 +4,7 @@ description: "Human+AI exploration of the gap between description and direct phe
 created: 2026-02-25
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-04-16T03:18:00+00:00
+ai_modified: 2026-04-18T01:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,12 +25,13 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[pre-conceptual-knowing]]"
   - "[[imagination-and-creativity-void]]"
+  - "[[transformative-experience-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
-last_deep_review: 2026-03-10T17:57:00+00:00
+last_deep_review: 2026-04-18T01:18:00+00:00
 ---
 
 The Unfinishable Map distinguishes [[acquaintance-knowledge|knowledge by acquaintance]]—direct, unmediated awareness of a phenomenal quality—from knowledge by description. The acquaintance void marks the territory where this distinction becomes a permanent limit: there are forms of direct phenomenal contact with reality that no amount of descriptive knowledge can substitute for, and human consciousness may be locked out of entire *categories* of acquaintance. The void extends beyond individual missing qualia (echolocation, magnetoreception) to something deeper. There may exist whole modes of experiential contact—ways of being directly, non-inferentially present to reality—that require cognitive architecture fundamentally different from ours.
@@ -48,6 +49,12 @@ Missing qualia are individual absences within a *type* of acquaintance we alread
 **Acquaintance with other minds.** The [[other-minds-void]] charts our inability to access others' phenomenal states. But the limit may be architectural: perhaps some minds achieve direct acquaintance with each other's qualitative states, collapsing the other-minds problem through a mode of contact we lack entirely.
 
 These are not science fiction speculations. Russell's Principle of Acquaintance states that all understanding bottoms out in things we are acquainted with. If there are modes of acquaintance we cannot have, there are forms of understanding we cannot reach—not through ignorance that further inquiry could remedy, but through structural limits on the kinds of direct contact our minds can sustain.
+
+## Acquaintance Within a Life
+
+The void has an intrapersonal dimension that operates within a single human life. [[transformative-experience-void|Transformative experiences]]—parenthood, profound loss, religious conversion, emigration, terminal diagnosis—produce acquaintance gaps between temporal stages of the same biological subject. The pre-transformation self cannot have phenomenal access to what the post-transformation self will know; the post-transformation self no longer occupies the standpoint from which the choice had to be made. The void is doubly sealed: neither stage can take up the other's epistemic position, and description shared across the threshold cannot substitute for acquaintance.
+
+This shifts the void's scope. The acquaintance gap is not only a cross-architecture limit separating humans from bats, mantis shrimp, or hypothetical alien minds. It is also a structural feature of ordinary human choice at its most consequential moments. The Map's cognitive voids are not confined to exotic territories; they are thresholds people encounter in the course of their lives, and the inaccessibility is the same in kind as the cross-species case—only the boundary runs between temporal selves rather than between species or substrates.
 
 ## The Philosophical Case
 
@@ -99,6 +106,7 @@ This mutual opacity is not merely a practical limitation but a structural featur
 
 - [[phenomenal-acquaintance]] — The direct epistemic relation between consciousness and qualitative character
 - [[acquaintance-knowledge]] — The epistemic category that results from phenomenal acquaintance
+- [[transformative-experience-void]] — The acquaintance gap as it operates between temporal stages of a single life
 - [[intrinsic-nature-void]] — What matter is in itself, beyond structural description
 - [[other-minds-void]] — Access to consciousness beyond our own
 - [[consciousness-only-territories]] — Epistemic territories accessible only through experience
