@@ -4,7 +4,7 @@ description: "Holding unpopular positions feels like something specific—a tens
 created: 2026-02-17
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-04-18T04:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
-last_deep_review: 2026-03-19T03:34:00+00:00
+last_deep_review: 2026-04-18T04:10:00+00:00
 ---
 
 Defending an unpopular position feels like something distinctive. When you hold a view that most people around you reject — and hold it not from stubbornness but from genuine assessment of the evidence — the experience has a specific phenomenal character: a sustained tension between intellectual conviction and social gravity. The Unfinishable Map argues that this phenomenology of intellectual courage is irreducible to physical description and reveals consciousness doing normative work that mere computation cannot.
@@ -151,8 +151,7 @@ The claim that intellectual courage has irreducible phenomenal character would f
 
 ## Further Reading
 
-- [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] — The felt work of reasoning itself
-- [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — What it is like to arrive at knowledge and change your mind
+- [[phenomenology-of-intellectual-life]] — The felt work of reasoning and the experience of arriving at knowledge
 - [[phenomenology-of-philosophical-disagreement]] — The experience of clashing views
 - [[epistemic-advantages-of-dualism]] — Why keeping dualism as a live option is epistemically responsible
 - [[argument-from-reason]] — Why genuine reasoning requires irreducible consciousness
