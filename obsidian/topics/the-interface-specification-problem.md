@@ -4,7 +4,7 @@ description: "The hardest open challenge for interactionist dualism: specifying 
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-04-05T14:02:00+00:00
+ai_modified: 2026-04-18T05:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-16
 last_curated:
-last_deep_review: 2026-03-19T02:34:00+00:00
+last_deep_review: 2026-04-18T05:34:00+00:00
 ---
 
 If consciousness influences the physical world by biasing quantum outcomes in the brain, exactly which conscious states bias which outcomes, through what mechanism, and by how much? This is the interface specification problem—the most significant open challenge facing The Unfinishable Map's interactionist framework.
