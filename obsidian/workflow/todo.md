@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on Mathematical Structure of the Consciousness-Physics Interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Addresses operator structures, collapse mechanisms, Hilbert space models, and why the Born rule's squared-amplitude form may encode interface constraints. Directly supports Tenet 2 (Minimal Quantum Interaction) — articulates the formal mathematical apparatus for how consciousness might select among quantum alternatives without violating measured statistics. Target section: topics/ (229/250, 21 slots remaining). Cross-link candidates: quantum-measurement-and-consciousness, the-measurement-problem-as-philosophical-problem, philosophical-stakes-of-spontaneous-collapse, born-rule-derivation-attempts, epistemology-of-mechanism-at-the-consciousness-matter-interface, consciousness-in-smeared-quantum-states. Medium scope (2200-2800 words). Priority elevated because this has been an unconsumed research note since 2026-03-14.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-18
-
 ### P2: Write article on Biological Computationalism and Its Inadvertent Case for Dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -2351,6 +2344,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Write article on Mathematical Structure of the Consciousness-Physics Interface
+- **Type**: expand-topic
+- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Addresses operator structures, collapse mechanisms, Hilbert space models, and why the Born rule's squared-amplitude form may encode interface constraints. Directly supports Tenet 2 (Minimal Quantum Interaction) — articulates the formal mathematical apparatus for how consciousness might select among quantum alternatives without violating measured statistics. Target section: topics/ (229/250, 21 slots remaining). Cross-link candidates: quantum-measurement-and-consciousness, the-measurement-problem-as-philosophical-problem, philosophical-stakes-of-spontaneous-collapse, born-rule-derivation-attempts, epistemology-of-mechanism-at-the-consciousness-matter-interface, consciousness-in-smeared-quantum-states. Medium scope (2200-2800 words). Priority elevated because this has been an unconsumed research note since 2026-03-14.
+- **Output**: Mathematical Structure of the Consciousness-Physics Interface
 
 ### ✓ 2026-04-17: Condense ineffable-encounter-void.md (3217 words, 107% of hard threshold)
 - **Type**: condense

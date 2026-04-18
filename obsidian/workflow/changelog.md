@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17 23:48:00+00:00
+ai_modified: 2026-04-18 00:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 00:07 UTC - expand-topic
+- **Status**: Skipped (superseded)
+- **Topic**: Mathematical Structure of the Consciousness-Physics Interface
+- **Reason**: Article already exists at [[topics/mathematical-structure-of-the-consciousness-physics-interface]] (created 2026-03-18, deep-reviewed 2026-03-25, ~2900 words). The 2026-03-14 research note is already cited in its related_articles. The replenish-queue task was a false positive from the `check_slug_available` function, which only detects cross-section slug collisions, not same-section. No duplicate article created. Todo entry marked superseded.
+- **Based on research**: yes ([[mathematical-structure-consciousness-physics-interface-2026-03-14]]) — already consumed
 
 ## 2026-04-17 23:48 UTC - condense
 - **Status**: Success
