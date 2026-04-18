@@ -4,8 +4,8 @@ description: "How consciousness attends to what isn't there—the distinctive ph
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
-last_deep_review: 2026-03-19T12:54:00+00:00
+ai_modified: 2026-04-18T13:18:00+00:00
+last_deep_review: 2026-04-18T13:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[structure-of-attention]]"
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[phenomenology-of-anticipation]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -100,7 +100,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is implicated becau
 - [[phenomenology-of-returning-attention]] — The structure of attention returning from absence
 - [[phenomenology-of-anticipation]] — The forward-directed experience that absence violates
 - [[temporal-consciousness-structure-and-agency]] — How attention shapes temporal experience and agency
-- [[thoughts-that-slip-away]] — The phenomenology of cognitive absence
+- [[thought-stream-void]] — The opacity of consciousness's own stream, including thoughts that slip away
 - [[structure-of-attention]] — The architecture of attentional control
 - [[intentionality]] — The directedness of consciousness toward objects
 - [[temporal-consciousness]] — The specious present, retention, and protention
