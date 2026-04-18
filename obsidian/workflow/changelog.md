@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 09:34:00+00:00
+ai_modified: 2026-04-18 09:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 09:40 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/interface-specification-programme]]
+- **Changed sources**: 3 substantive (delegatory-causation, attention-and-the-consciousness-interface, consciousness-and-causal-powers); 3 lighter refinements not requiring integration
+- **Word count**: 3,439 → 3,564
+- **Key additions**: trumping preemption (Schaffer 2000) + Saad's Subset Law*/Delegatory Law + Born-rule identification of the default causal profile in "The Causal Structure"; trilemma-of-selection framing in "What the Interface Can Do"; Rizzolatti + Wise & Murray premotor-theory convergence in "What Breaks"; synthesis bullet list updated.
+- **Trims**: OCD caveat condensed; three candidate control-laws paragraph tightened; stale AI-refinement logs removed.
+- **Review**: [[reviews/apex-evolve-2026-04-18-interface-specification-programme]]
 
 ## 2026-04-18 09:34 UTC - research-voids
 - **Status**: Success
