@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T09:45:00+00:00
+ai_modified: 2026-04-18T14:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-15
 last_curated: null
-last_deep_review: 2026-03-20T12:30:00+00:00
+last_deep_review: 2026-04-18T14:23:00+00:00
 
 apex_sources:
   - topics/the-psychophysical-control-law
@@ -135,7 +135,7 @@ The six source articles were developed to address different philosophical questi
 - Breaking in predictable ways when specific components are compromised—with attention-motor convergence showing the same substrates mediate selection across perception and action
 - Awaiting formal specification of the psychophysical control law that governs it
 
-This convergence is not accidental. It reflects the Map's tenets working as constraints should—ruling out possibilities and forcing remaining options to cohere. The result is not yet a complete theory. It is something more honest: a specification precise enough to be wrong. The bandwidth can be measured more exactly. The control operations generate predictions about reaction times and attention dynamics. Clinical evidence can confirm or disconfirm the predicted failure modes. The specification gap marks exactly where new work is needed.
+This convergence is not accidental. It reflects the Map's tenets working as constraints should—ruling out possibilities and forcing remaining options to cohere. The result falls short of a complete theory but offers something more honest: a specification precise enough to be wrong. The bandwidth can be measured more exactly. The control operations generate predictions about reaction times and attention dynamics. Clinical evidence can confirm or disconfirm the predicted failure modes. The specification gap marks exactly where new work is needed.
 
 The interface specification programme moves "consciousness interacts with the brain" from a philosophical assertion toward an engineering-level description—incomplete, but with identified parameters, testable constraints, and clear next steps. Whether this architecture is universal or whether [[interface-heterogeneity|interface heterogeneity]] means different systems couple through different mechanisms remains a major open question. That progression is the programme's contribution, and it is what distinguishes the Map's interactionism from the vague hand-waving that has historically plagued dualist accounts.
 

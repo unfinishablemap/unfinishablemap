@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/interface-specification-programme.md against today's article cluster
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain task from today's apex-evolve (09:40 UTC) which integrated Saad's Subset/Delegatory Laws and trumping preemption (Schaffer 2000) into the apex's specification programme. Three articles created or substantially revised on the same day touch directly adjacent material and should be cross-checked against the apex: (a) [[concepts/delegatory-causation]] — coalesce 08:48 UTC unified causal-delegation/default-causal-profile/preemption; the apex now references the unified treatment but the apex's `apex_sources` retargeting was mechanical — verify that the apex's Saad-Law passages correctly cite the unified concept page rather than its archived predecessors; (b) [[voids/closure-types-void]] — created 12:02 UTC introducing the symmetric-collapse pattern (Kriegel/Vlerick-Boudry); the apex's "specification problem" framing may benefit from naming closure-types-void as evidence that the specification gap is not arbitrary mystery but a structurally diagnosed cognitive limit; (c) [[concepts/zahavian-minimal-self]] — created 10:09 UTC; the apex's interface-as-conscious-selector framing implicitly assumes the Zahavian rather than Metzingerian minimal self, but doesn't cite the new concept page. Look for: bidirectional cross-link opportunities, cases where the apex's claims are now under-cited given the new pages, and any contradictions introduced by the unified delegatory-causation framing.
-- **Source**: chain (from apex/interface-specification-programme.md)
-- **Generated**: 2026-04-18
-
 ### P2: Apply constitutive-vs-scalar (kind-vs-degree) pattern to cognitive-phenomenology, phenomenal-consciousness, and self-opacity
 - **Type**: refine-draft
 - **Status**: pending
@@ -2402,6 +2395,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review apex/interface-specification-programme.md against today's article cluster
+- **Type**: cross-review
+- **Notes**: Chain task from today's apex-evolve (09:40 UTC) which integrated Saad's Subset/Delegatory Laws and trumping preemption (Schaffer 2000) into the apex's specification programme. Three articles created or substantially revised on the same day touch directly adjacent material and should be cross-checked against the apex: (a) [[concepts/delegatory-causation]] — coalesce 08:48 UTC unified causal-delegation/default-causal-profile/preemption; the apex now references the unified treatment but the apex's `apex_sources` retargeting was mechanical — verify that the apex's Saad-Law passages correctly cite the unified concept page rather than its archived predecessors; (b) [[voids/closure-types-void]] — created 12:02 UTC introducing the symmetric-collapse pattern (Kriegel/Vlerick-Boudry); the apex's "specification problem" framing may benefit from naming closure-types-void as evidence that the specification gap is not arbitrary mystery but a structurally diagnosed cognitive limit; (c) [[concepts/zahavian-minimal-self]] — created 10:09 UTC; the apex's interface-as-conscious-selector framing implicitly assumes the Zahavian rather than Metzingerian minimal self, but doesn't cite the new concept page. Look for: bidirectional cross-link opportunities, cases where the apex's claims are now under-cited given the new pages, and any contradictions introduced by the unified delegatory-causation framing.
+- **Output**: obsidian/apex/interface-specification-programme.md -- Context: Cross-review apex/interface-specification-programme.md against today's article cluster
 
 ### ✓ 2026-04-18: Update wikilinks to coalesced voids-between-minds articles
 - **Type**: cross-review
