@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-04-18 09:05:00+00:00
+ai_modified: 2026-04-18 15:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'Bradford Saad''s 2025 theory explains how consciousness causes beh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 23:53:00+00:00
+last_deep_review: 2026-04-18 15:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -247,6 +247,7 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness causes physical effects
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The view delegatory dualism rejects
+- [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why epiphenomenalism is the default destination of most consciousness theories, and what genuine escape requires
 - [illusionism](/concepts/illusionism/) — The radical challenge that denies phenomenal consciousness exists
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI (relevant to Map's quantum integration, not Saad's theory)
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework for mind-body laws

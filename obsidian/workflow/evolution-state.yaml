@@ -1,19 +1,23 @@
-last_updated: '2026-04-18T16:08:35.861485+00:00'
-session_count: 6062
-cycle_position: 5690
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-18T16:23:35.862551+00:00'
+session_count: 6063
+cycle_position: 5691
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T11:02:28.458773+00:00'
   optimistic-review: '2026-04-18T12:32:28.461476+00:00'
   check-tenets: '2026-04-18T15:38:35.860760+00:00'
   check-links: '2026-04-18T09:18:36.440274+00:00'
-  deep-review: '2026-04-18T14:38:35.859474+00:00'
+  deep-review: '2026-04-18T16:23:35.862551+00:00'
   tune-system: '2026-04-17T21:11:59.556044+00:00'
   research-voids: '2026-04-18T09:18:36.440274+00:00'
   coalesce: '2026-04-18T15:08:35.860047+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-18T16:24:36.652473+00:00'
+  agentic-social: '2026-04-18T16:23:35.862551+00:00'
 last_git_push: '2026-04-18T12:32:28.461476+00:00'
 last_tweet_date: '2026-04-18'
 content_stats:
@@ -47,13 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/concepts/zahavian-minimal-self.md
-
-
-    Task c)'
-  type: refine-draft
-  date: '2026-04-18'
-  outcome: success
 - task: 'refine-draft (obsidian/voids/predictive-construction-void.md
 
 
@@ -141,9 +138,7 @@ recent_tasks:
   type: condense
   date: '2026-04-18'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/apophatic-approaches/
-    date: '2026-04-18T16:24:36.652441+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: deep-review
+  type: deep-review
+  date: '2026-04-18'
+  outcome: success

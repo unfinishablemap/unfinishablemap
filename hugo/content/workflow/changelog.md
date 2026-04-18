@@ -1,13 +1,58 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 15:23:00+00:00
+ai_modified: 2026-04-18 16:24:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 16:24 UTC - deep-review
+- **Status**: Success
+- **File**: [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)
+- **Word count**: 1985 → 1985 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth review. Stability-confirmation pass — prior review (2026-03-18) marked the article at stability and changes since were routine wikilink consolidation only. All six pessimistic personas re-engaged, attribution checks passed, all wikilinks and tenet anchors verified. No critical or medium issues surfaced. Bedrock disagreements (MWI, eliminative materialism, framework-level testability) explicitly noted as not-to-be-re-flagged.
+- **Output**: [deep-review-2026-04-18-bandwidth-problem-mental-causation](/reviews/deep-review-2026-04-18-bandwidth-problem-mental-causation/)
+
+## 2026-04-18 16:14 UTC - condense
+- **Status**: Success
+- **File**: [voids-between-minds](/voids/voids-between-minds/)
+- **Before**: 5430 words (critical, 272% of 2000-word voids target)
+- **After**: 2708 words (soft_warning, within acceptable range)
+- **Reduction**: 50%
+- **Technique**: Cut the "Convergence Across Traditions" literature survey and "What AI Might See" tangent entirely; removed "A Note on Intellectual Honesty" meta-commentary (folded its substance into Implications); merged "Evidence Against Absolute Isolation" into the Sharing section to eliminate overlap; folded "When the Voids Become Visible" examples into "Why We Don't Notice" as a single tighter paragraph; tightened each of the three core void sections (Existence/Encounter/Sharing) by ~45–55% via prose compression while preserving Husserl, Buber, Levinas, and Schilbach anchors; reduced Relation to Site Perspective by ~40% while keeping all five tenet connections; trimmed Further Reading from 26 to 15 entries and References from 25 to 15 (kept all inline-cited works). Preserved opening summary, three-voids table, and tenet section structure.
+
+## 2026-04-18 15:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [boundary-and-projection](/voids/boundary-and-projection/)
+- **Changes**: Hedged the quantum-reach proposal in the Minimal Quantum Interaction section into an explicit if-and-then conditional with three independently-contested conjuncts; named Tegmark's (2000) decoherence-timescale objection; reframed as speculative possibility rather than inference; added Tegmark reference.
+- **Source**: pessimistic-2026-04-18b Issue 7
+- **Published**: yes
+
+## 2026-04-18 15:42 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 68 (delta sweep since 2026-04-17 21:25 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: [tenet-check-2026-04-18](/reviews/tenet-check-2026-04-18/)
+
+## 2026-04-18 15:40 UTC - deep-review
+- **Status**: Success
+- **File**: [delegatory-dualism](/topics/delegatory-dualism/)
+- **Context**: Fifth deep review, cross-reviewed against `the-epiphenomenalist-threat.md` and unified `delegatory-causation` concept (coalesced earlier today)
+- **Word count**: 3089 → 3109 words (+20, remains at ~103% of 3000 target, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 (added `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)` cross-link to Further Reading to complete the triangle with `delegatory-causation` and `concepts/epiphenomenalism`)
+- **Cross-review findings**: Integration with unified `delegatory-causation` concept complete. Both topic articles consistent in their treatment of delegation as structural solution complementing quantum interactionism as mechanism. Verbatim quotes preserved. Attribution clean. Source/Map separation intact.
+- **Stability**: Fully stable across five reviews plus outer review. All bedrock philosophical disagreements properly acknowledged as standoffs, not flaws.
+- **Output**: [deep-review-2026-04-18-delegatory-dualism](/reviews/deep-review-2026-04-18-delegatory-dualism/)
 
 ## 2026-04-18 15:23 UTC - refine-draft
 - **Status**: Success
