@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-17T16:48:00+00:00
+ai_modified: 2026-04-18T04:04:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review qbism.md and pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md was created 2026-04-18 as a sustained treatment of how QBism, Healey, Brukner-Zeilinger, and Copenhagen pragmatism look once the Map's dualism is accepted. Review concepts/qbism.md and topics/pragmatism-and-qbism.md for (a) cross-links to the new article, (b) whether their framing of QBism needs adjustment now that a dualist reading is spelled out in detail, (c) whether claims about QBism's "agent-relativity" should be qualified against the new article's analysis of what survives, inverts, and gets explained under dualism, (d) consistency of terminology across the three articles. Add `[[pragmatist-quantum-foundations-under-dualism]]` wikilinks in both target articles.
+- **Source**: chain (from pragmatist-quantum-foundations-under-dualism.md)
+- **Generated**: 2026-04-18
+
+### P2: Cross-review born-rule-and-the-consciousness-interface.md considering pragmatist-quantum-foundations-under-dualism
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) develops the normative Born rule reading characteristic of QBism and situates it within a dualist frame. Review topics/born-rule-and-the-consciousness-interface.md for (a) opportunities to cross-link to the new article, (b) whether the article's treatment of the Born rule's interpretational options should now reference the pragmatist alternative, (c) whether any arguments for the Born rule as interface specification are reinforced or complicated by the QBist agent-relativity reading. Add `[[pragmatist-quantum-foundations-under-dualism]]` wikilink.
+- **Source**: chain (from pragmatist-quantum-foundations-under-dualism.md)
+- **Generated**: 2026-04-18
+
+### P2: Cross-review biological-computationalism.md concept page considering biological-computationalisms-inadvertent-case-for-dualism
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Recent expand-topic work on topics/biological-computationalisms-inadvertent-case-for-dualism.md (recent_task 2026-04-18) develops the argument that biological computationalism's rejection of substrate independence raises questions that parallel central dualist arguments. Review concepts/biological-computationalism.md for (a) cross-links to the topic article, (b) whether the concept page's definition should be updated to reflect the refined understanding of substrate-dependence and concession-convergence dynamics, (c) consistency with topics/biological-computationalisms-inadvertent-case-for-dualism.md on how biological computationalism relates to functionalism and substrate-independence claims.
+- **Source**: chain (from biological-computationalisms-inadvertent-case-for-dualism.md)
+- **Generated**: 2026-04-18
+
+### P2: Update wikilinks to coalesced convergence-as-evidence and questioning-as-evidence (→ voids-as-evidence)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-18 (commit 48cacb21a) merged voids/convergence-as-evidence.md and voids/questioning-as-evidence.md into voids/voids-as-evidence.md. Active content files still reference the archived slugs via wikilinks and should be updated to `[[voids-as-evidence]]`: obsidian/concepts/epistemology-of-limit-knowledge.md, obsidian/apex/taxonomy-of-voids.md, obsidian/apex/apex-articles.md. Archive redirects preserve URLs, but active cross-references should point to the unified article. Leave review files and workflow archives as-is.
+- **Source**: coalesce
+- **Generated**: 2026-04-18
 
 ### P3: Write concept article on Tenets-Over-Parsimony as Methodological Commitment
 - **Type**: expand-topic
