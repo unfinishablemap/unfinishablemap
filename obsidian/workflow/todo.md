@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18T06:19:00+00:00
+ai_modified: 2026-04-18T06:24:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -67,6 +67,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P3: Write article on Apophatic Decision Procedures
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic-2026-04-18 (Medium Priority expansion). The new voids/transformative-experience-void.md introduces "apophatic decision procedures" in one paragraph — the agent maps which features of the choice are accessible (structural, propositional, testimonial) and which are not (phenomenal, identity-altering), then deliberates only over accessible axes while explicitly acknowledging the inaccessible ones. This extends the Map's apophatic methodology beyond cartography into practical decision-making. Most apophatic writing is about knowing, not deciding — this is philosophically novel territory. Article would (a) formalise the procedure, (b) connect to [[framework-void]], [[topics/free-will]], and transformative-experience authenticity constraints, (c) distinguish apophatic decision-making from both classical decision theory and Paul's transformative-choice framework, (d) examine whether the procedure resolves or merely manages the void. Medium scope (2000-2500 words). Target section: topics/ or concepts/. Tenet alignment: operationalises Tenet 5 (Occam's Razor Has Limits) — decision theory's elegance is what excludes transformative cases. See optimistic-2026-04-18.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-18
+
+### P3: Write concept article on Phenomenal Constitution Thesis (PCT)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-18-morning (High Priority expansion). The 2026-04-18 05:03 UTC phenomenology-of-intellectual-life refine-draft introduced PCT by name and added the Constitution-vs-Correlation defense — a substantive three-step argument distinguishing the constitutive claim (phenomenology *is* the achievement, not its correlate) from the weaker correlational alternative, granting coherence to the weaker view while naming three explanatory burdens it carries (residual epiphenomenalism, brute-regularity coupling, causal-work mismatch under Bidirectional Interaction). The PCT is the Map's sharpest cognitive-phenomenology position but currently sits embedded in a single subsection of a 4618-word article. A concept page would (a) state PCT explicitly and distinguish it from Pitt's proprietary-phenomenology thesis and Strawson's panpsychic move, (b) develop the Constitution-vs-Correlation defense in full, (c) connect to [[cognitive-phenomenology]], [[meaning-of-life]], [[argument-from-reason]], [[phenomenology-of-musical-understanding]], and [[consciousness-and-mathematics]] as an upstream link target, (d) treat the Bidirectional-Interaction argument for constitution as a distinctive Map move (non-epiphenomenal phenomenology cannot be a mere correlate of the work done). Medium scope (2000-2500 words). Target section: concepts/ (229/250 — near cap but merits the slot). Tenet alignment: Dualism directly, Bidirectional Interaction supporting, Occam's Razor Has Limits relevant. See optimistic-2026-04-18-morning.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-18
+
+### P3: Write article on Filter-vs-Entropic-Brain Empirical Divergence Criteria
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-18-morning (Medium Priority expansion). The 2026-04-18 05:18 UTC psychedelics-and-the-filter-model refine-draft added a "Where the Accounts Could Diverge" subsection naming three candidate empirical divergences between filter theory and entropic-brain/REBUS accounts: (1) selective access to specifically inaccessible content (filter theory predicts reach beyond prior neural representation; entropic-brain predicts richer recombination of stored content); (2) convergent phenomenology under divergent neural conditions (structurally different filter-attenuation routes should yield identical unfiltered manifestation); (3) therapeutic durability without ongoing reinforcement. Each is named in a single paragraph in the psychedelics article. A dedicated topic article would develop each divergence into an explicit research programme: what experimental protocols would test it, what published findings already bear on it, what confounds are known, how each divergence interacts with the "selective access is also the place most vulnerable to confirmation bias" caveat. This turns filter theory from a metaphysical reading into a partially-testable empirical programme. Medium scope (2500 words). Target section: topics/ (~224/250). Tenet alignment: Dualism through filter framework; Occam's Razor Has Limits — entropic-brain's "simpler" account requires patching to handle convergent phenomenology. See optimistic-2026-04-18-morning.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-04-18
 
