@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 07:04:00+00:00
+ai_modified: 2026-04-18 07:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 07:18 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-and-consciousness]]
+- **Word count**: 3059 → 3087 (+28, length-neutral mode at soft warning)
+- **Critical issues addressed**: 0 (article converging — attribution checks pass, interpretation-relative framing stable)
+- **Medium issues addressed**: 2 (removed stale refinement-log comment; added cross-link to new pragmatist sibling article)
+- **Enhancements made**: 1 cross-link in mapping section body, related_articles entry, Further Reading bullet for [[pragmatist-quantum-foundations-under-dualism]]
+- **Context**: Cross-review after creation of pragmatist-quantum-foundations-under-dualism (2026-04-18)
+- **Output**: [[reviews/deep-review-2026-04-18-quantum-measurement-and-consciousness]]
 
 ## 2026-04-18 07:04 UTC - deep-review
 - **Status**: Success

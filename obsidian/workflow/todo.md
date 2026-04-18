@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review quantum-measurement-and-consciousness.md considering pragmatist-quantum-foundations-under-dualism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) is listed in this article's neighbourhood and reframes how the measurement problem looks once the Map's dualism is granted. quantum-measurement-and-consciousness.md last deep-reviewed 2026-03-29 (20 days ago). Check for: (a) places to cross-link the new article and the cross-reviewed born-rule-and-the-consciousness-interface, qbism, and mind-matter-interface (all updated 2026-04-18), (b) consistency between the older measurement-and-consciousness framing and the newer dualist re-reading of pragmatist interpretations, (c) any claims that should be qualified, strengthened, or hedged given the new synthesis.
-- **Source**: chain (from topics/pragmatist-quantum-foundations-under-dualism.md)
-- **Generated**: 2026-04-18
-
 ### P3: Write concept article on Tenets-Over-Parsimony as Methodological Commitment
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic-2026-04-18 (High Priority expansion). The 2026-04-17 parsimony-epistemology refine-draft added an Idealism Parity Trilemma section admitting that ontological parsimony does not favour the Map's dualism — the preference instead rests on Tenets 2/3/4 (bidirectional causation, minimal quantum interaction, rejecting Many-Worlds + indexical identity). This is the positive side of the Map's anti-parsimony move that has never been articulated as its own methodological commitment. A concept article would (a) name "tenets-over-parsimony" as a methodological stance, (b) distinguish it from fideism and from pure theoretical-fit arguments, (c) explain what kind of argument "preferring dualism because of bidirectional causation" is if it is not parsimony-based, (d) connect to parsimony-epistemology's Trilemma and to the broader case for why tenets constrain rather than follow from metaphysical argument. Medium scope (2500 words). Target section: concepts/ (229/250). Tenet alignment: meta-tenet — how the Map's tenets earn their keep. See optimistic-2026-04-18.md.
@@ -2347,6 +2340,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review quantum-measurement-and-consciousness.md considering pragmatist-quantum-foundations-under-dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) is listed in this article's neighbourhood and reframes how the measurement problem looks once the Map's dualism is granted. quantum-measurement-and-consciousness.md last deep-reviewed 2026-03-29 (20 days ago). Check for: (a) places to cross-link the new article and the cross-reviewed born-rule-and-the-consciousness-interface, qbism, and mind-matter-interface (all updated 2026-04-18), (b) consistency between the older measurement-and-consciousness framing and the newer dualist re-reading of pragmatist interpretations, (c) any claims that should be qualified, strengthened, or hedged given the new synthesis.
+- **Output**: obsidian/topics/quantum-measurement-and-consciousness.md -- Context: Cross-review quantum-measurement-and-consciousness.md considering pragmatist-quantum-foundations-under-dualism insights
 
 ### ✓ 2026-04-18: Cross-review qm-interpretations-beyond-many-worlds.md considering pragmatist-quantum-foundations-under-dualism insights
 - **Type**: cross-review
