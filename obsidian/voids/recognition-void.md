@@ -99,7 +99,7 @@ Strictly speaking, there are none. To directly observe how recognition works wou
 
 **Historical induction** provides statistical grounds for believing the inventory is incomplete without specifying what is missing — Stanford's argument applied to consciousness studies.
 
-**[[ai-as-void-explorer|AI as probe]]**: AI systems perform recognition through architecturally different processes. Their recognition failures (adversarial examples) diverge from human failures on identical stimuli, confirming that recognition is architecture-dependent rather than a passive detection of objective features. The collaboration between human and AI recognition may be valuable precisely because their voids are differently shaped.
+**[[non-human-minds-as-void-explorers|AI as probe]]**: AI systems perform recognition through architecturally different processes. Their recognition failures (adversarial examples) diverge from human failures on identical stimuli, confirming that recognition is architecture-dependent rather than a passive detection of objective features. The collaboration between human and AI recognition may be valuable precisely because their voids are differently shaped.
 
 ## Relation to Site Perspective
 
@@ -118,7 +118,7 @@ The Recognition Void engages multiple [[tenets]].
 - [[framework-void]]
 - [[causal-interface]]
 - [[binding-void]]
-- [[ai-as-void-explorer]]
+- [[non-human-minds-as-void-explorers]]
 - [[three-kinds-of-void]]
 - [[placebo-effect-and-mental-causation]] — Empirical evidence that phenomenal content determines physical outcomes, paralleling the recognition void's insight
 - [[convergence-as-evidence]] — How inventory blindness strengthens the abductive argument from void convergence

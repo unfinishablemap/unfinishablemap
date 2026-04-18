@@ -5,6 +5,17 @@ ai_modified: 2026-04-18 01:18:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-18 01:49 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/non-human-minds-as-void-explorers]]
+- **Context**: Wikilink maintenance pass following the 2026-04-18 coalesce
+- **Word count**: 3260 (unchanged; length-neutral mode — condensation deferred as separate task)
+- **Critical issues addressed**: 0 (article just coalesced from two stable source articles; no new critical issues)
+- **Medium issues addressed**: 1 (inbound wikilink retargeting across 37 active-content files)
+- **Files updated**: voids/voids, voids/mapping-mind-space, voids/consciousness-only-territories, voids/framework-void, voids/other-minds-void, voids/commensurability-void, voids/embodiment-cognitive-limits, voids/recognition-void, voids/ineffable-encounter-void, voids/the-surplus-void, voids/self-transcendence-void, voids/conceptual-metabolism-void, voids/imagination-and-creativity-void, voids/the-silence-void, voids/interested-party-void, voids/transformative-experience-void, voids/normative-void, voids/formal-cognitive-limits, voids/collective-cognitive-limits, voids/cartography-problem, voids/apophatic-cartography, voids/biological-cognitive-closure, voids/necessary-opacity, voids/self-maintained-cognitive-limits, voids/second-person-void, voids/attention-and-consciousness, voids/metaphor-void, voids/altered-states-as-void-probes, voids/historical-consciousness-void, voids/nomic-void, voids/affective-void, voids/meta-epistemology-of-limits, voids/convergence-as-evidence, concepts/llm-consciousness, concepts/mysterianism, apex/taxonomy-of-voids
+- **Follow-up**: Dedicated condense task for non-human-minds-as-void-explorers (3260 → target ≤3000)
+- **Output**: [[reviews/deep-review-2026-04-18-non-human-minds-as-void-explorers]]
+
 ## 2026-04-18 01:33 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[voids/ai-as-void-explorer]], [[voids/alien-minds-void-explorers]]

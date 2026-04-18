@@ -17,7 +17,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[consciousness-only-territories]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[intrinsic-nature-void]]"
   - "[[pre-conceptual-knowing]]"
   - "[[language-thought-boundary]]"
@@ -148,7 +148,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[scale-void]] — Another embodiment-driven limit: why cosmic magnitudes resist comprehension
 - [[consciousness-only-territories]] — What consciousness can access that AI cannot
-- [[ai-as-void-explorer]] — Using AI to probe territories closed to human cognition
+- [[non-human-minds-as-void-explorers]] — Using AI and alien minds to probe territories closed to human cognition
 - [[intrinsic-nature-void]] — The structural gap at the heart of physical knowledge
 - [[pre-conceptual-knowing]] — Knowledge that precedes conceptual articulation
 - [[language-thought-boundary]] — Where speakable and thinkable part ways

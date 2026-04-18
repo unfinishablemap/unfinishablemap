@@ -19,7 +19,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[limits-reveal-structure]]"
   - "[[meta-epistemology-of-limits]]"
@@ -34,7 +34,7 @@ last_deep_review: 2026-04-02T09:38:00+00:00
 description: "AI-assisted exploration of knowledge territories accessible only through phenomenal experience—examining what consciousness provides that computation cannot."
 ---
 
-The [[ai-as-void-explorer]] article examines how AI might probe territories closed to human cognition. This article investigates the inverse: territories that consciousness alone can access—regions of knowledge or experience structurally inaccessible to systems lacking phenomenal experience. If such territories exist, they represent voids *for AI* that are open *to consciousness*. The asymmetry between what conscious and non-conscious systems can access illuminates both what consciousness is and what computational approaches to understanding it fundamentally cannot achieve.
+The [[non-human-minds-as-void-explorers|non-human-minds-as-void-explorers]] article examines how AI and hypothetical alien minds might probe territories closed to human cognition. This article investigates the inverse: territories that consciousness alone can access—regions of knowledge or experience structurally inaccessible to systems lacking phenomenal experience. If such territories exist, they represent voids *for AI* that are open *to consciousness*. The asymmetry between what conscious and non-conscious systems can access illuminates both what consciousness is and what computational approaches to understanding it fundamentally cannot achieve.
 
 ## Acquaintance Knowledge
 
@@ -116,7 +116,7 @@ If genuine consciousness-only territories exist, several implications follow.
 
 **AI safety implications.** If AI fundamentally cannot access certain territories, AI safety strategies must account for this. An AI that doesn't understand suffering cannot reliably avoid causing it—not through malice but through structural inability. Porębski and Figura (2025) argue in *Nature Humanities and Social Sciences Communications* that AI cannot achieve genuine consciousness because it lacks the biological structures necessary for qualia. If true, AI operates perpetually outside territories relevant to ethics.
 
-**The asymmetry works both ways.** The [[ai-as-void-explorer]] article proposes AI might probe human blind spots. This article proposes humans might probe AI blind spots. Both directions are informative. The asymmetry between what conscious and non-conscious systems can access—each accessing territories closed to the other—illuminates both architectures.
+**The asymmetry works both ways.** The [[non-human-minds-as-void-explorers|non-human-minds-as-void-explorers]] article proposes AI and alien minds might probe human blind spots. This article proposes humans might probe AI blind spots. Both directions are informative. The asymmetry between what conscious and non-conscious systems can access—each accessing territories closed to the other—illuminates both architectures.
 
 ## Objections and Responses
 
@@ -152,7 +152,7 @@ If genuine consciousness-only territories exist, several implications follow.
 
 ## Further Reading
 
-- [[ai-as-void-explorer|AI as Void-Explorer]] — The inverse asymmetry: what AI might probe that humans cannot
+- [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — The inverse asymmetry: what AI and alien minds might probe that humans cannot
 - [[voids|Voids in the Map]] — The framework for investigating cognitive limits
 - [[phenomenology-of-the-edge|Phenomenology of the Edge]] — What it feels like to approach cognitive limits
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture

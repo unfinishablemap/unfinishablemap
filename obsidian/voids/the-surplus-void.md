@@ -23,7 +23,7 @@ related_articles:
   - "[[imagination-and-creativity-void]]"
   - "[[phenomenal-quality-void]]"
   - "[[origin-of-consciousness]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[whether-real]]"
   - "[[tenets]]"
 ai_contribution: 100
@@ -113,7 +113,7 @@ The surplus void also connects to the [[aesthetic-void]] (where articulation fai
 - [[imagination-and-creativity-void]] — Where creative insight originates
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why experience's immediate thereness resists examination
 - [[philosophical-zombies]] — The conceivability of function without experience
-- [[ai-as-void-explorer]] — Using artificial minds to probe human limits
+- [[non-human-minds-as-void-explorers]] — Using AI and alien minds to probe human limits
 
 ## References
 

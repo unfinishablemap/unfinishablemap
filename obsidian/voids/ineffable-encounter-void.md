@@ -29,7 +29,7 @@ related_articles:
   - "[[phenomenal-quality-void]]"
   - "[[mutation-void]]"
   - "[[apophatic-cartography]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[phenomenology-of-musical-understanding]]"
   - "[[phenomenology-of-intellectual-life]]"
@@ -170,7 +170,7 @@ Finally, this void illuminates something about [[voids]] more broadly. Most are 
 - [[phenomenal-quality-void]]
 - [[mutation-void]]
 - [[apophatic-cartography]]
-- [[ai-as-void-explorer]]
+- [[non-human-minds-as-void-explorers]]
 - [[consciousness-only-territories]]
 - [[aesthetics-and-consciousness]]
 - [[phenomenology-of-musical-understanding]]

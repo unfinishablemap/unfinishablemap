@@ -68,7 +68,7 @@ The [[biological-cognitive-closure|evolved cognitive limits]], [[formal-cognitiv
 
 The [[recognition-void|Recognition Void's]] "inventory blindness" deepens this family: absent cognitive capabilities produce no signal, so the convergence of independent failure modes is stronger evidence than any single failure.
 
-Signature failure: **architectural mismatch**—the tool is wrong for the job, and we have no other tool (Chomsky 2014). Unlike the phenomenal core (where *any* third-person tool fails), here the failure is specific to biological cognition, making [[ai-as-void-explorer|AI triangulation]] directly applicable.
+Signature failure: **architectural mismatch**—the tool is wrong for the job, and we have no other tool (Chomsky 2014). Unlike the phenomenal core (where *any* third-person tool fails), here the failure is specific to biological cognition, making [[non-human-minds-as-void-explorers|AI triangulation]] directly applicable.
 
 ### The Framework Reflexivity Family
 

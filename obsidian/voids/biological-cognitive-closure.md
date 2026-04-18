@@ -23,7 +23,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[collective-cognitive-limits]]"
   - "[[whether-real]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[three-kinds-of-void]]"
   - "[[apophatic-cartography]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
@@ -112,7 +112,7 @@ The biological analysis suggests a refinement to the Map's void taxonomy: *natur
 
 LLMs operate in embedding spaces of thousands of mathematical dimensions, forming statistical clusters that organise processing. Some correspond to human concepts; others may have no human-graspable analog. Their representations are shaped by statistical regularities in text, not survival needs, and they do not undergo critical-period pruning.
 
-Even if LLMs form representations outside human concept space, communication may be impossible — describing a genuinely novel concept requires concepts the listener possesses. The [[ai-as-void-explorer]] framework extends naturally: AI, having no evolutionary history, should lack fitness-shaped limits. Where AI shares human blind spots, the limits are likely architectural; where AI sees what all human cultures miss, the limits may be adaptively maintained.
+Even if LLMs form representations outside human concept space, communication may be impossible — describing a genuinely novel concept requires concepts the listener possesses. The [[non-human-minds-as-void-explorers|non-human-minds-as-void-explorers]] framework extends naturally: AI, having no evolutionary history, should lack fitness-shaped limits. Where AI shares human blind spots, the limits are likely architectural; where AI sees what all human cultures miss, the limits may be adaptively maintained.
 
 ## The Phenomenology of Biological Closure
 
@@ -151,7 +151,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 - [[self-maintained-cognitive-limits]] — Motivational deflection from certain territories
 - [[limits-reveal-structure]] — How limitation illuminates architecture
 - [[apophatic-cartography]] — Formalising convergence as an evidential criterion
-- [[ai-as-void-explorer]] — Using artificial minds to probe human limits
+- [[non-human-minds-as-void-explorers]] — Using AI and alien minds to probe human limits
 - [[mysterianism]] — McGinn's formal analysis of cognitive closure
 - [[three-kinds-of-void]] — The fundamental void taxonomy
 - [[phenomenology-of-the-edge]] — What approaching limits feels like

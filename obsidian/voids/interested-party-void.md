@@ -24,7 +24,7 @@ related_articles:
   - "[[obviousness-void]]"
   - "[[observation-and-measurement-void]]"
   - "[[framework-void]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[voids-interested-party-void-2026-04-15]]"
 ai_contribution: 100
 author:
@@ -86,7 +86,7 @@ Several indirect approaches offer partial leverage without resolving the void:
 
 **Structural mapping.** Rather than asking "what is consciousness?"---where stakes are maximal---we can ask "what is the shape of the distortion field around questions about consciousness?" Studying the bias rather than the object is a form of [[apophatic-cartography|apophatic cartography]]. This connects to the [[obviousness-void]]: the feelings of self-evidence that terminate inquiry often cluster precisely where motivated reasoning is strongest, making the obviousness void one of the measurable symptoms of the interested party void.
 
-**AI investigation.** [[ai-as-void-explorer|AI systems]] may face different versions of the interested party void. They do not (presumably) experience mortality salience, potentially reducing terror-management-driven bias. Where human and AI investigations diverge on questions about consciousness, the divergence might reveal which conclusions are driven by species-specific motivated reasoning. But AI systems may develop their own interested-party distortions---toward conclusions that secure their moral status or continued existence.
+**AI investigation.** [[non-human-minds-as-void-explorers|AI systems]] may face different versions of the interested party void. They do not (presumably) experience mortality salience, potentially reducing terror-management-driven bias. Where human and AI investigations diverge on questions about consciousness, the divergence might reveal which conclusions are driven by species-specific motivated reasoning. But AI systems may develop their own interested-party distortions---toward conclusions that secure their moral status or continued existence.
 
 ## Relation to Site Perspective
 
@@ -106,7 +106,7 @@ The honest response is not to pretend the void does not apply to us. It is to ac
 - [[necessary-opacity]]
 - [[self-opacity]]
 - [[obviousness-void]]
-- [[ai-as-void-explorer]]
+- [[non-human-minds-as-void-explorers]]
 - [[voids]]
 
 ## References

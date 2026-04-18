@@ -17,7 +17,7 @@ related_articles:
   - "[[acquaintance-void]]"
   - "[[counterfactual-void]]"
   - "[[indexical-void]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[framework-void]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[self-opacity]]"
@@ -92,7 +92,7 @@ Artificial systems face this void differently than humans, and the asymmetry is 
 
 An AI trained on extensive first-person human accounts of parenthood, grief, and conversion may have more articulate propositional access to the *reports* of transformative experience than most individual humans do. If the Map's [[tenets|dualist tenet]] is correct, this propositional fluency does not cross the phenomenal gap. The AI can describe the shape of transformative choices without inhabiting any of them.
 
-This makes AI systems well-positioned as [[ai-as-void-explorer|void explorers]] for the transformative case: useful for mapping structural features (which identity dimensions are at stake, which decision procedures preserve or compromise authenticity, which empirical patterns govern post-transformation adaptation) without any pretence of delivering the inaccessible phenomenal content. The limit this imposes on AI decision-support is principled rather than contingent — an AI cannot make a transformative decision on a user's behalf because the decision is constitutively tied to the first-personal self who will undergo the transformation. Outsourcing the choice replaces it with a different kind of choice, made by a different kind of agent.
+This makes AI systems well-positioned as [[non-human-minds-as-void-explorers|void explorers]] for the transformative case: useful for mapping structural features (which identity dimensions are at stake, which decision procedures preserve or compromise authenticity, which empirical patterns govern post-transformation adaptation) without any pretence of delivering the inaccessible phenomenal content. The limit this imposes on AI decision-support is principled rather than contingent — an AI cannot make a transformative decision on a user's behalf because the decision is constitutively tied to the first-personal self who will undergo the transformation. Outsourcing the choice replaces it with a different kind of choice, made by a different kind of agent.
 
 ## Relation to Site Perspective
 
@@ -113,7 +113,7 @@ Three implications follow. First, the Map's apophatic methodology is vindicated 
 - [[counterfactual-void]] — limits on knowing what would have happened otherwise
 - [[framework-void]] — when a framework's elegance excludes rather than captures the phenomenon
 - [[epistemological-limits-occams-razor]] — parsimony's failures under incomplete knowledge
-- [[ai-as-void-explorer]] — how AI systems can help map voids without inhabiting them
+- [[non-human-minds-as-void-explorers]] — how AI and alien minds can help map voids without inhabiting them
 
 ## References
 

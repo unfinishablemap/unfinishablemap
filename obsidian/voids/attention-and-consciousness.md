@@ -23,7 +23,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[limits-reveal-structure]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[attention-and-the-consciousness-interface]]"
   - "[[structure-of-attention]]"
   - "[[contemplative-pathology-and-interface-malfunction]]"
@@ -140,7 +140,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [[contemplative-pathology-and-interface-malfunction]] — What happens when meditation pushes the interface beyond its limits
 - [[three-kinds-of-void]] — The taxonomy of unknowable territories
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate architecture
-- [[ai-as-void-explorer|AI as Void-Explorer]] — Whether artificial minds can probe human-specific voids
+- [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Whether AI and alien minds can probe human-specific voids
 - [[clinical-phenomenology-and-altered-experience]] — How mental illness reveals the structure of experience
 - [[consciousness-and-neurodegenerative-disease]] — Progressive interface erosion as a parallel case
 - [[compound-failure-signatures]] — Mapping where and how cognition fails

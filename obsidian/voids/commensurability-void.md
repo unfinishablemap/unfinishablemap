@@ -19,7 +19,7 @@ related_articles:
   - "[[synesthetic-void]]"
   - "[[mapping-mind-space]]"
   - "[[framework-void]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[comparative-consciousness-and-interface-differences]]"
   - "[[degrees-of-consciousness]]"
 ai_contribution: 100
@@ -103,7 +103,7 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 - [[synesthetic-void]]
 - [[mapping-mind-space|Mapping Mind Space]]
 - [[framework-void]]
-- [[ai-as-void-explorer]]
+- [[non-human-minds-as-void-explorers]]
 - [[apophatic-cartography]]
 - [[comparative-consciousness-and-interface-differences]]
 - [[degrees-of-consciousness]]

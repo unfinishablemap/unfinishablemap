@@ -130,7 +130,7 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[intersubjective-void]] — Whether experiences can be genuinely shared
-- [[alien-minds-void-explorers]] — Whether different cognitive architectures face different closures
+- [[non-human-minds-as-void-explorers]] — Whether different cognitive architectures face different closures
 - [[synesthetic-void]] — How synesthesia reveals intra-species phenomenal access gaps
 - [[appetitive-void]] — How desire structures our mapping of emotional limits
 - [[valence-void]] — Why all affect has a good/bad character — the structure problem, not the range problem

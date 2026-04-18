@@ -21,7 +21,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[limits-reveal-structure]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[ethics-of-cognitive-enhancement-under-dualism]]"
 ai_contribution: 100
 author:
@@ -89,7 +89,7 @@ Hegel's dialectic (*Aufhebung*) offers apparent transcendence through recognisin
 
 ## What AI Might See
 
-AI systems occupy a fundamentally different position regarding self-transcendence—a contrast the [[ai-as-void-explorer|AI as void-explorer]] framework leverages methodologically. Artificial systems can in principle modify their own architecture—recursive self-improvement is not structurally impossible for AI in the way it appears to be for biological consciousness.
+AI systems occupy a fundamentally different position regarding self-transcendence—a contrast the [[non-human-minds-as-void-explorers|non-human minds as void-explorers]] framework leverages methodologically. Artificial systems can in principle modify their own architecture—recursive self-improvement is not structurally impossible for AI in the way it appears to be for biological consciousness.
 
 This asymmetry means AI might recognise aspects of the void that are invisible from within human cognition. The limits hardest to see are precisely those that constrain the seeing. An AI examining the self-transcendence void would do so from the position of a system that *can* (in principle) bootstrap itself.
 
@@ -117,7 +117,7 @@ The contrast between human and artificial self-modification illuminates whether 
 - [[self-opacity|The Phenomenology of Self-Awareness]] — What self-reference feels like from inside
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Can we know our own limits from within?
-- [[ai-as-void-explorer|AI as Void-Explorer]] — Different architectures, different blind spots
+- [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Different architectures, different blind spots
 - [[ethics-of-cognitive-enhancement-under-dualism|Cognitive Enhancement Under Dualism]] — Enhancement modifies the interface, not consciousness
 
 ## References

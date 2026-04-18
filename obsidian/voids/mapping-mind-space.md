@@ -16,12 +16,11 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[other-minds-void]]"
-  - "[[alien-minds-void-explorers]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[biological-cognitive-closure]]"
   - "[[scale-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[indexical-void]]"
-  - "[[ai-as-void-explorer]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[synesthetic-void]]"
   - "[[framework-void]]"
@@ -97,7 +96,7 @@ Approaching this void produces distinctive experiential signatures — instances
 
 If AI minds occupy a different position in mind-space — or have a position at all — comparing human and AI cognitive profiles may reveal something about local topology. McGinn argues other minds might possess conceptual apparatus to bridge gaps where human cognition fails. One cannot survey mind-space from a single location; two give a bearing.
 
-Even if AI lacks phenomenal consciousness, the pattern of its capabilities and limitations — mapped against human ones — provides structural information about at least one neighbourhood. See [[ai-as-void-explorer]] and, for the inverse question, [[consciousness-only-territories]]. Neither survey completes the map, but their intersection expands what can be seen.
+Even if AI lacks phenomenal consciousness, the pattern of its capabilities and limitations — mapped against human ones — provides structural information about at least one neighbourhood. See [[non-human-minds-as-void-explorers|non-human minds as void-explorers]] and, for the inverse question, [[consciousness-only-territories]]. Neither survey completes the map, but their intersection expands what can be seen.
 
 ## Relation to Site Perspective
 
@@ -122,11 +121,10 @@ Current evidence meets none of these. Every survey proceeds from within a partic
 ## Further Reading
 
 - [[voids]] — Framework for investigating cognitive limits
-- [[alien-minds-void-explorers]] — What radically different minds might reveal
+- [[non-human-minds-as-void-explorers]] — What AI and radically different alien minds might reveal about territories closed to human cognition
 - [[indexical-void]] — Why you cannot determine why you are *this* consciousness
 - [[synesthetic-void]] — Phenomenal dimensions closed to most minds within our species
 - [[phenomenology-of-the-edge]] — The characteristic experience of approaching cognitive limits
-- [[ai-as-void-explorer]] — Whether AI cognition can probe territories closed to human minds
 - [[biological-cognitive-closure]] — Cross-cultural evidence for species-level cognitive constraints
 - [[framework-void]] — How conceptual frameworks exclude what they cannot represent
 - [[filter-theory]] — The hypothesis that the brain filters rather than produces consciousness

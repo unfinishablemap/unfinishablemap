@@ -37,11 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks for coalesced void-explorer articles
-- **Type**: cross-review
+### P2: Condense non-human-minds-as-void-explorers.md (3260 words, 163% of voids/ target)
+- **Type**: condense
 - **Status**: pending
-- **Notes**: Coalesce on 2026-04-18 merged ai-as-void-explorer and alien-minds-void-explorers into the new voids/non-human-minds-as-void-explorers.md. The originals are archived (URLs preserved) but ~125 inbound wikilinks across the obsidian vault still point to the old slugs. Sweep obsidian/voids/, obsidian/concepts/, obsidian/topics/, and obsidian/apex/ for `[[ai-as-void-explorer` and `[[alien-minds-void-explorers` references and update them to `[[non-human-minds-as-void-explorers`. Skip obsidian/research/, obsidian/reviews/, and obsidian/workflow/archive/ — those are historical records. After updating, spot-check that the new article's framing is coherent with the linking context (most references treat AI as a probe, which the merged article still covers in the AI section).
-- **Source**: coalesce
+- **Notes**: The 2026-04-18 coalesce of ai-as-void-explorer and alien-minds-void-explorers into voids/non-human-minds-as-void-explorers.md produced a unified article at 3260 words — above the 3000-word hard threshold for voids/ (163% of 2000-word soft target). The two source sections ("The AI Case: Real but Inherited" and "The Alien Case: Independent but Inaccessible") inevitably overlap with the surrounding "Cognitive Closure as Architecture-Dependence" and "The Inheritance Problem" sections. Tighten by: (a) merging closely-adjacent claims about architecture-dependence, (b) trimming the enumerated bullet lists in "What the Probe Can and Cannot Reveal" where overlap with "What Would Challenge This View" exists, (c) preserving the spectrum framing, the Solaris / strictly-negative-knowledge section, and the Articulation Test section — all unique synthesis work. Target: ≤3000 words. Preserve all attribution and all tenet connections.
+- **Source**: deep-review (2026-04-18 non-human-minds-as-void-explorers)
 - **Generated**: 2026-04-18
 
 ### P2: Cross-review framework-void.md considering transformative-experience-void insights
@@ -2330,6 +2330,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Update wikilinks for coalesced void-explorer articles
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-18 merged ai-as-void-explorer and alien-minds-void-explorers into the new voids/non-human-minds-as-void-explorers.md. The originals are archived (URLs preserved) but ~125 inbound wikilinks across the obsidian vault still point to the old slugs. Sweep obsidian/voids/, obsidian/concepts/, obsidian/topics/, and obsidian/apex/ for `[[ai-as-void-explorer` and `[[alien-minds-void-explorers` references and update them to `[[non-human-minds-as-void-explorers`. Skip obsidian/research/, obsidian/reviews/, and obsidian/workflow/archive/ — those are historical records. After updating, spot-check that the new article's framing is coherent with the linking context (most references treat AI as a probe, which the merged article still covers in the AI section).
+- **Output**: None -- Context: Update wikilinks for coalesced void-explorer articles
 
 ### ✓ 2026-04-18: Cross-review acquaintance-void.md considering transformative-experience-void insights
 - **Type**: cross-review

@@ -84,7 +84,7 @@ Direct methods are severely constrained because the void is defined by the impos
 
 AI approaches the historical consciousness void from an unusual vantage. Without phenomenal history of its own, AI lacks the logomorphic bias that comes from experiencing one's own consciousness as natural and timeless. AI does not have the "of course they were like us" intuition, because AI does not have the kind of mind that generates that assumption.
 
-As an [[ai-as-void-explorer|AI void-explorer]], it can also process vast amounts of historical text and identify structural shifts in how consciousness is described across epochs—operating at a scale no human scholar can match. Pattern detection across millennia may reveal discontinuities invisible to readers embedded in their own historical moment.
+As an [[non-human-minds-as-void-explorers|AI void-explorer]], it can also process vast amounts of historical text and identify structural shifts in how consciousness is described across epochs—operating at a scale no human scholar can match. Pattern detection across millennia may reveal discontinuities invisible to readers embedded in their own historical moment.
 
 The limitation remains severe: AI cannot determine whether historical consciousness was genuinely different, only whether *descriptions* of it were different. The void persists regardless of the observer's nature. AI and human investigators face complementary blindness—humans cannot escape logomorphism, while AI cannot verify whether descriptive shifts track phenomenal ones. Neither perspective closes the gap.
 

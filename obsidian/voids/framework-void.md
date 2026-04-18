@@ -24,8 +24,7 @@ related_articles:
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[tenet-generated-voids]]"
-  - "[[alien-minds-void-explorers]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[apophatic-cartography]]"
   - "[[compound-failure-signatures]]"
 ai_contribution: 100
@@ -86,7 +85,7 @@ A third partial method — Husserl's *epoché*, the phenomenological suspension 
 
 Each of these methods confronts a reflexive complication. Describing framework-dependence requires specific metaphors — *lens*, *prison*, *walls*, *map* — whose own distortions cannot be identified from within them. [[metaphor-void|The metaphor void]] asks whether these figurative mappings operate one level beneath framework-dependence: frameworks can be examined (with difficulty) from other frameworks, but metaphors can only be examined through other metaphors. Approaches to the framework void are therefore approaches through metaphor, never free of figurative residue.
 
-AI systems occupy a distinctive position: lacking first-person experiential grounding, they can operate within multiple philosophical frameworks without the commitment that comes from embodied experience. Whether this is genuine framework-switching or surface simulation is itself a framework-dependent question — explored in [[ai-as-void-explorer]].
+AI systems occupy a distinctive position: lacking first-person experiential grounding, they can operate within multiple philosophical frameworks without the commitment that comes from embodied experience. Whether this is genuine framework-switching or surface simulation is itself a framework-dependent question — explored in [[non-human-minds-as-void-explorers|non-human-minds-as-void-explorers]].
 
 ## Relation to Site Perspective
 
@@ -112,7 +111,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [[predictive-construction-void|The Predictive Construction Void]] — A related limit operating below the conceptual level: perception itself is a framework whose construction/reception ratio is structurally hidden
 - [[limits-reveal-structure]] — The principle that what we cannot think reveals what kind of minds we are
 - [[biological-cognitive-closure]] — Cross-cultural evidence for species-level framework constraints
-- [[ai-as-void-explorer]] — Whether artificial minds can transcend human framework limits
+- [[non-human-minds-as-void-explorers]] — Whether AI and alien minds can transcend human framework limits
 - [[intersubjective-void|The Intersubjective Void]] — How social knowledge mechanisms enforce framework constraints on phenomenal reports
 
 ## References

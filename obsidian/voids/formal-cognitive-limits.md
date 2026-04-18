@@ -16,7 +16,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[limits-reveal-structure]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[consciousness-only-territories]]"
   - "[[whether-real]]"
   - "[[self-opacity]]"
@@ -114,7 +114,7 @@ Approaching these limits has a distinctive phenomenology, distinct from the [[ph
 
 No AI, however powerful, escapes these limits for systems operating by Turing computation. An LLM cannot determine whether an arbitrary program halts; a superintelligent AI cannot prove all arithmetic truths; a self-modelling AI would encounter Gödel-type constraints on its self-knowledge.
 
-**If consciousness is computational**, humans share these limits absolutely. [[ai-as-void-explorer|AI as void explorer]] cannot probe beyond where humans are stuck—the limits are mathematical, not biological. Asymmetries exist only in practice: AI might recognise patterns in intractable problems or hold more problem structure in working memory.
+**If consciousness is computational**, humans share these limits absolutely. [[non-human-minds-as-void-explorers|AI as void explorer]] cannot probe beyond where humans are stuck—the limits are mathematical, not biological. Asymmetries exist only in practice: AI might recognise patterns in intractable problems or hold more problem structure in working memory.
 
 **If consciousness transcends computation**, the void constrains machines while consciousness potentially accesses truths beyond algorithmic reach. Penrose argues consciousness involves quantum gravitational processes beyond Turing computation. The Map's commitment to [[tenets#^bidirectional-interaction|bidirectional interaction]] suggests the mind-matter interface might operate non-computationally. Recent AI systems (AlphaGeometry, AlphaProof) handle sophisticated reasoning; as AI metamathematics develops, we may learn whether understanding Gödelian phenomena requires phenomenal insight or merely the right computational structure.
 
@@ -142,7 +142,7 @@ The open question concerns whether this void constrains consciousness. Two devel
 - [[mathematical-void|The Mathematical Void]] — The complementary limit: formal competence without phenomenal grasp
 - [[self-opacity|The Self-Reference Paradox]] — Obstacles to self-understanding
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural cognitive limits
-- [[ai-as-void-explorer|AI as Void Explorer]] — Can artificial minds probe beyond human cognitive limits?
+- [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Can AI or alien minds probe beyond human cognitive limits?
 - [[cartography-problem|The Cartography Problem]] — Why the map of cognitive voids cannot contain itself
 - [[consciousness-and-mathematics]] — The epistemology and phenomenology of mathematical understanding
 - [[concession-convergence-philosophy-of-mathematics]] — How formalism's Gödelian concession fits among four independent convergences

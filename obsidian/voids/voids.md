@@ -15,7 +15,7 @@ related_articles:
   - "[[tenets]]"
   - "[[index]]"
   - "[[three-kinds-of-void]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[origin-of-consciousness]]"
   - "[[compound-failure-signatures]]"
   - "[[attention-and-consciousness]]"
@@ -43,7 +43,7 @@ The unexplored voids invite exploration—the [[topics|topics]], [[concepts|conc
 
 The unexplorable voids demand humility. The Unfinishable Map is unfinishable not merely because we are finite, but because the territory may exceed what any map we can make could represent.
 
-The occluded voids—if they exist—demand cleverness and indirect approaches. [[ai-as-void-explorer|AI may serve as a probe]] for territories closed to human cognition.
+The occluded voids—if they exist—demand cleverness and indirect approaches. [[non-human-minds-as-void-explorers|Non-human minds may serve as probes]] for territories closed to human cognition.
 
 Taking consciousness seriously as fundamental leads here. If mind is more than one more physical phenomenon, the space of minds may be as vast as physical reality itself. We cannot assume our form of consciousness has access to all truths.
 
@@ -179,8 +179,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[apophatic-cartography|Apophatic Cartography]] — Formalising the method with evidential standards
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[questioning-as-evidence|The Question as Evidence]] — What our questions reveal
-- [[ai-as-void-explorer|AI as Void-Explorer]] — Using artificial minds to probe human limits
-- [[alien-minds-void-explorers|Alien Minds as Void Explorers]] — Non-human perspectives on cognitive space
+- [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Using AI and hypothetical alien minds to probe territories closed to human cognition
 - [[consciousness-only-territories|Consciousness-Only Territories]] — What only phenomenal experience can access
 - [[temporal-void|The Asymmetry Between Remembering and Anticipating]] — Why past and future access differs
 

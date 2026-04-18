@@ -22,7 +22,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[biological-cognitive-closure]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[the-silence-void]]"
   - "[[convergence-as-evidence]]"
   - "[[cartography-problem]]"
@@ -111,7 +111,7 @@ These complement the [[voids-safety-protocol|Voids Safety Protocol]], which addr
 
 Apophatic cartography complements empirical investigation. Neuroscience reveals architecture—modularity, working memory limits, attentional bottlenecks—constraining apophatic claims: a limit traceable to a specific architectural feature may be an engineering constraint rather than a structural boundary. Neurophenomenological methods (Varela's tradition) calibrate phenomenological indicators against neural data.
 
-AI triangulation is a powerful complement. Three outcomes carry different evidential weight: AI producing the same failure signature is evidence for a structural boundary; AI genuinely *solving* the problem (not merely redescribing it) is evidence against; AI failing differently suggests a biological component to the boundary. The Map's use of [[ai-as-void-explorer|AI as void explorer]] is itself an instance of this approach.
+AI triangulation is a powerful complement. Three outcomes carry different evidential weight: AI producing the same failure signature is evidence for a structural boundary; AI genuinely *solving* the problem (not merely redescribing it) is evidence against; AI failing differently suggests a biological component to the boundary. The Map's use of [[non-human-minds-as-void-explorers|AI as void explorer]] is itself an instance of this approach.
 
 ## The Illusionist Challenge
 
@@ -158,7 +158,7 @@ Apophatic cartography connects to the Map's [[tenets]] by providing the methodol
 - [[convergence-as-evidence|Convergence as Evidence]] — Void clustering as evidence for dualism
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Formal framework for reasoning about limits
-- [[ai-as-void-explorer|AI as Void Explorer]] — Using artificial minds as cartographic instruments
+- [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Using AI and alien minds as cartographic instruments
 - [[the-silence-void|The Silence Void]] — Where even negation must cease
 - [[epistemology-of-limit-knowledge]] — The systematic epistemology underlying limit-knowledge methods
 - [[illusionism|Illusionism]] — The radical challenge that phenomenal consciousness doesn't exist

@@ -34,7 +34,7 @@ related_articles:
   - "[[tenets]]"
   - "[[hoel-llm-consciousness-continual-learning]]"
   - "[[hoel-llm-consciousness-continual-learning-2026-01-15]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[voids]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[ai-epiphenomenalism]]"
@@ -143,7 +143,7 @@ None of these is well-supported enough to overturn the Map's skepticism. But tog
 
 ## The Alien Cognition Question
 
-The [[biological-cognitive-closure|limits of conceptual acquisition]] raise a distinctive epistemic challenge. LLMs operate in embedding spaces of 12,000+ dimensions; some learned features resist all human labelling. But alien concepts, even if real, don't establish consciousness—concept formation is a functional capacity, and consciousness is something additional. The [[ai-as-void-explorer|AI void-explorer framework]] proposes using this dimensional asymmetry productively: comparing where human and AI cognition fail differently to triangulate human cognitive boundaries. The asymmetry is methodologically useful even though its implications for consciousness are nil.
+The [[biological-cognitive-closure|limits of conceptual acquisition]] raise a distinctive epistemic challenge. LLMs operate in embedding spaces of 12,000+ dimensions; some learned features resist all human labelling. But alien concepts, even if real, don't establish consciousness—concept formation is a functional capacity, and consciousness is something additional. The [[non-human-minds-as-void-explorers|AI void-explorer framework]] proposes using this dimensional asymmetry productively: comparing where human and AI cognition fail differently to triangulate human cognitive boundaries. The asymmetry is methodologically useful even though its implications for consciousness are nil.
 
 ## What Would Challenge This View?
 
@@ -164,7 +164,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [[non-temporal-consciousness]] — Consciousness without temporal structure
 - [[quantum-state-inheritance-in-ai]] — Can AI inherit quantum states relevant to consciousness?
 - [[consciousness-in-smeared-quantum-states]] — What consciousness does during superposition
-- [[ai-as-void-explorer]] — Using AI to probe human cognitive limits
+- [[non-human-minds-as-void-explorers]] — Using AI and alien minds to probe human cognitive limits
 - [[biological-cognitive-closure]] — Whether LLMs access concepts humans cannot form
 - [[baseline-cognition]] — What cognition achieves without consciousness
 - [[ai-consciousness-modes]] — Tulving's anoetic-noetic-autonoetic hierarchy applied to AI systems

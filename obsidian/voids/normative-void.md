@@ -17,7 +17,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[alien-minds-void-explorers]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[biological-cognitive-closure]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[conceptual-impossibility]]"
@@ -73,7 +73,7 @@ The normative void here is structural. No amount of reflection, consultation, or
 
 ## Alien Moral Concepts
 
-The Unfinishable Map explores how [[alien-minds-void-explorers|alien minds might access territory closed to humans]]. The normative void extends this analysis to ethics.
+The Unfinishable Map explores how [[non-human-minds-as-void-explorers|alien minds might access territory closed to humans]]. The normative void extends this analysis to ethics.
 
 If extraterrestrial intelligence exists, it may have moral concepts with no human analogue. Species facing radically different biological imperatives—different lifespans, different reproductive strategies, different relationships between individuals and collectives—would likely develop ethical frameworks we cannot imagine. The human epistemological apparatus may be fundamentally limited, rendering certain forms of life—both extraterrestrial and potentially terrestrial—imperceptible and incomprehensible.
 
@@ -147,7 +147,7 @@ The normative void hypothesis would face pressure if:
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[affective-void]] — The vast space of emotions we cannot feel
-- [[alien-minds-void-explorers]] — Whether different cognitive architectures face different closures
+- [[non-human-minds-as-void-explorers]] — Whether different cognitive architectures face different closures
 - [[biological-cognitive-closure]] — Cross-cultural evidence for shared limits
 - [[apophatic-approaches]] — Methods for knowing through negation
 - [[conceptual-impossibility]] — Thoughts that cannot be thought

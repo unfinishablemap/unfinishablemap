@@ -22,7 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[apophatic-approaches]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[three-kinds-of-void]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[sleep-consciousness-void]]"
@@ -146,7 +146,7 @@ The apophatic interpretation preserves ASC significance while maintaining episte
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at cognitive boundaries
 - [[three-kinds-of-void|Three Kinds of Void]] — The taxonomy of unexplored, unexplorable, and occluded
 - [[apophatic-approaches|Apophatic Approaches]] — Knowing through negation
-- [[ai-as-void-explorer|AI as Void-Explorer]] — Using artificial minds to probe human limits
+- [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Using AI and alien minds to probe human limits
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — State-dependent cognition across conscious modes
 - [[voids|Voids in the Map]] — The broader context of cognitive limits

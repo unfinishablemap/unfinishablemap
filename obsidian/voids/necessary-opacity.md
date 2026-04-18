@@ -24,7 +24,7 @@ related_articles:
   - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[self-maintained-cognitive-limits]]"
-  - "[[ai-as-void-explorer]]"
+  - "[[non-human-minds-as-void-explorers]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[phenomenal-quality-void]]"
   - "[[compound-failure-signatures]]"
@@ -197,7 +197,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
 - [[observation-and-measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards
 - [[initiation-void|The Initiation Void]] — Why consciousness cannot witness its own mental acts beginning
-- [[ai-as-void-explorer]] — AI as potential void-explorer
+- [[non-human-minds-as-void-explorers]] — AI and alien minds as potential void-explorers
 - [[intersubjective-void|The Intersubjective Void]] — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 
 ## References
