@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 00:33:00+00:00
+ai_modified: 2026-04-18 00:48:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 00:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: QBism and Pragmatist Quantum Foundations under Dualism
+- **Output**: [[topics/pragmatist-quantum-foundations-under-dualism]]
+- **Word count**: 2637
+- **Based on research**: yes ([[research/qbism-pragmatist-quantum-foundations-2026-04-04]])
+- **Notes**: Distinct from existing [[topics/pragmatism-and-qbism]] (which focuses on QBism's Jamesian genealogy). This article surveys the broader pragmatist family — QBism, Healey, Brukner-Zeilinger, Stapp — and evaluates each under dualism. Key move: reads QBism's normative Born rule and Fuchs's primitive-agent stance as *predicted* by dualism rather than contradicted by it. Positions Stapp as natural ally, QBism as under-specified version of the Map, Healey as residual competitor that demonstrates the cost of de-psychologising agency.
 
 ## 2026-04-18 00:33 UTC - expand-topic
 - **Status**: Skipped (superseded)

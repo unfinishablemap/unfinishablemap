@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on QBism and Pragmatist Quantum Foundations under Dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/qbism-pragmatist-quantum-foundations-2026-04-04.md. Existing concept page concepts/qbism.md and research notes on pragmatist philosophy of mind cover the components separately; the Map needs an article on the *intersection* — how Fuchs's debts to William James, the participatory realism programme, Healey's independent pragmatist interpretation, and the technical apparatus (SIC-POVMs, Dutch-book coherence) shape QBism's treatment of agents, probability, and reality, and where those commitments create openings for the Map's dualist project. Engages Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds): QBism's agent-centrality and rejection of MWI align with the Map, but its rejection of objective quantum states conflicts with the Map's collapse realism. Position the Map carefully against QBism. Target section: topics/. Cross-link candidates: qbism, quantum-measurement-and-consciousness, indexical-identity-quantum-measurement, pragmatisms-path-to-dualism, no-many-worlds-and-indexicality. Medium scope (2400-2800 words).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review acquaintance-void.md considering transformative-experience-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2337,6 +2330,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Write article on QBism and Pragmatist Quantum Foundations under Dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/qbism-pragmatist-quantum-foundations-2026-04-04.md. Existing concept page concepts/qbism.md and research notes on pragmatist philosophy of mind cover the components separately; the Map needs an article on the *intersection* — how Fuchs's debts to William James, the participatory realism programme, Healey's independent pragmatist interpretation, and the technical apparatus (SIC-POVMs, Dutch-book coherence) shape QBism's treatment of agents, probability, and reality, and where those commitments create openings for the Map's dualist project. Engages Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds): QBism's agent-centrality and rejection of MWI align with the Map, but its rejection of objective quantum states conflicts with the Map's collapse realism. Position the Map carefully against QBism. Target section: topics/. Cross-link candidates: qbism, quantum-measurement-and-consciousness, indexical-identity-quantum-measurement, pragmatisms-path-to-dualism, no-many-worlds-and-indexicality. Medium scope (2400-2800 words).
+- **Output**: QBism and Pragmatist Quantum Foundations under Dualism
 
 ### ✓ 2026-04-18: Write article on Biological Computationalism and Its Inadvertent Case for Dualism
 - **Type**: expand-topic
