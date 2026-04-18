@@ -30,6 +30,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
 last_deep_review: 2026-03-26T13:32:00+00:00
+archived: true
+archived_date: 2026-04-18T07:39:00+00:00
+superseded_by: "/voids/understanding-void/"
+archive_reason: "Coalesced into The Understanding Void"
+original_path: "/voids/obviousness-void/"
 ---
 
 The feeling of self-evidence is not evidence. When something feels obvious, that feeling functions as a cognitive stop-sign: it terminates inquiry before investigation begins. The Unfinishable Map identifies this as the Obviousness Void—an [[three-kinds-of-void|occluded]] cognitive limit where the sensation of understanding substitutes for understanding itself. The void is distinctive because the mechanism of concealment is a positive phenomenal quality rather than an absence. We are not blocked by complexity or cognitive closure; we are blocked by the felt conviction that there is nothing further to investigate.

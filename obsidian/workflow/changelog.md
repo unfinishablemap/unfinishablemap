@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 07:18:00+00:00
+ai_modified: 2026-04-18 07:39:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 07:39 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/obviousness-void]], [[voids/explanatory-void]]
+- **Target**: [[voids/understanding-void]]
+- **Archived**: [[archive/voids/obviousness-void]], [[archive/voids/explanatory-void]]
+- **References to review**: 14 active files reference the archived articles (follow-up task created)
+- **Rationale**: Both articles centered on the unreliability of the feeling of understanding, both cited Rozenblit & Keil's illusion of explanatory depth as evidence, and both explicitly listed each other as neighbouring voids. The obviousness face (self-evidence as cognitive stop-sign) and the explanatory face (regress, loveliness, ungrounded feeling) are two angles on the same recursive opacity. Unified article preserves both faces — phenomenal obviousness and structural regress — in a single frame.
 
 ## 2026-04-18 07:18 UTC - deep-review
 - **Status**: Success

@@ -34,6 +34,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-27
 last_curated:
+archived: true
+archived_date: 2026-04-18T07:39:00+00:00
+superseded_by: "/voids/understanding-void/"
+archive_reason: "Coalesced into The Understanding Void"
+original_path: "/voids/explanatory-void/"
 ---
 
 Consciousness explains things constantly—inferring causes, constructing narratives, building theories. Yet explanation cannot explain itself. The feeling of understanding cannot ground its own validity, the explanatory regress either terminates in brute facts or continues without end, and our criteria for what counts as a good explanation resist full articulation. The Unfinishable Map identifies this as the explanatory void: a recursive opacity at the heart of human sense-making that is distinct from adjacent [[voids]]. The [[intentionality-void|intentionality void]] concerns how thoughts achieve reference; the [[imagination-and-creativity-void|creativity void]] concerns where insight originates. The explanatory void concerns why any explanation feels like it explains at all—and whether the phenomenal sense of "getting it" masks an absence where genuine comprehension should be.
