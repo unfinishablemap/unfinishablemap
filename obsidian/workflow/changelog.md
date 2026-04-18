@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 07:49:00+00:00
+ai_modified: 2026-04-18 08:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 08:04 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/epistemology-of-limit-knowledge]], [[topics/psychedelics-and-the-filter-model]], [[topics/the-interface-specification-problem]]
+- **Context**: Three cross-links surfaced by the 2026-04-18 morning optimistic review ([[reviews/optimistic-2026-04-18-morning]]) — integrating the overnight refinements into the broader site.
+- **Changes**:
+  - epistemology-of-limit-knowledge: added a fifth feature ("It may be phenomenally constituted") in "What Kind of Knowledge Is This?" linking to PCT in [[topics/phenomenology-of-intellectual-life]]; updated related_articles and Further Reading.
+  - psychedelics-and-the-filter-model: extended "Where the Accounts Could Diverge" with a closing connection to [[meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution]]; updated related_articles and Further Reading.
+  - the-interface-specification-problem: added negative-constraint paragraph in "Constraining the physical parameter" pointing to [[born-rule-and-the-consciousness-interface#The Causal Consistency Constraint]] (Torres Alegre's no-signalling result); updated related_articles and Further Reading.
+- **Published**: yes
 
 ## 2026-04-18 07:49 UTC - refine-draft
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "The hardest open challenge for interactionist dualism: specifying 
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-04-18T05:34:00+00:00
+ai_modified: 2026-04-18T08:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[attention-and-the-consciousness-interface]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[bandwidth-of-consciousness]]"
+  - "[[born-rule-and-the-consciousness-interface]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -150,7 +151,7 @@ The specification problem will not be solved all at once. Incremental progress w
 
 **Narrowing the mental variable**: Demonstrating empirically that one type of conscious state (attention, intention, effort, valence) correlates with physical selection while others do not. The willed attention research (Rajan et al.'s theta-band signatures) is a step in this direction.
 
-**Constraining the physical parameter**: Identifying which quantum parameter is affected, even indirectly. If attention influences outcome statistics in ways that differ from purely computational attention models, this constrains the physical side.
+**Constraining the physical parameter**: Identifying which quantum parameter is affected, even indirectly. If attention influences outcome statistics in ways that differ from purely computational attention models, this constrains the physical side. Negative constraints already count: Torres Alegre's [[born-rule-and-the-consciousness-interface#The Causal Consistency Constraint|causal consistency result]] proves that any consciousness-mediated selection must follow the Born rule exactly, since deviation would enable superluminal signalling. This narrows the space of viable specifications without identifying the variable—the kind of partial progress this section calls for, demonstrating that physics-side constraints can accumulate even where the mental-side variable remains unsettled.
 
 **Establishing bandwidth quantitatively**: The ~10 bits/second figure constrains selection capacity. If this constraint is confirmed and sharpened, it narrows the space of possible transfer functions.
 
@@ -183,6 +184,7 @@ The specification problem is the Map's most significant open challenge. Acknowle
 - [[pairing-problem]] — What connects a particular mind to a particular body
 - [[history-of-the-interaction-problem]] — The original formulation of the interaction problem
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — What epistemic methods can reach the interface when direct observation is impossible
+- [[born-rule-and-the-consciousness-interface]] — A negative constraint already in place: any selection must follow the Born rule exactly
 
 ## References
 

@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-04-18T05:18:00+00:00
+ai_modified: 2026-04-18T08:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[altered-states-consciousness-2026-01-19]]"
   - "[[voids-altered-states-as-void-probes-2026-02-03]]"
+  - "[[meta-epistemology-of-limits]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -71,7 +72,7 @@ Second, *convergent phenomenology under divergent neural conditions*. The same m
 
 Third, *therapeutic durability without ongoing reinforcement*. REBUS predicts that relaxed priors permit reorganisation, which then needs behavioural rehearsal to consolidate. Filter theory predicts that exposure to less-filtered consciousness can itself produce lasting reorientation. The persistence of single-dose insights over months or years (Griffiths et al., 2016) is suggestive but not decisive—both frameworks have available accounts.
 
-None of these is a knockdown experiment. The point is that the accounts are not strictly equivalent: they make different bets about which patterns will hold up as evidence accumulates.
+None of these is a knockdown experiment. The point is that the accounts are not strictly equivalent: they make different bets about which patterns will hold up as evidence accumulates. The evidential structure here—structurally different processes converging on the same phenomenology, single interventions producing durable reorientation, access to specifically inaccessible content—is the same kind of pattern the [[meta-epistemology-of-limits#Historical Evidence: The Pattern of Dissolution|meta-epistemology of cognitive limits]] uses to distinguish persistent from dissolved limits. Filter theory and disinhibition are not just rival readings of the DMN data; they are competing predictions about which divergences will accumulate, judged by the same evidential criteria the Map applies elsewhere when limits are at stake.
 
 ## Ego Dissolution and the Filtering Self
 
@@ -136,6 +137,7 @@ Psychedelics illuminate several of the Map's [[tenets]]:
 - [[william-james-consciousness]] — James's transmission theory: the philosophical ancestor of the reducing valve
 - [[altered-states-as-interface-evidence|Altered States as Systematic Interface Evidence]] — Apex synthesis placing psychedelic evidence within the convergence matrix of five altered states
 - [[ineffable-encounter-void]] — Why numinous and mystical experiences resist epistemic evaluation from within
+- [[meta-epistemology-of-limits]] — The Map's general framework for distinguishing persistent from dissolved limits, applied here to filter theory vs disinhibition
 
 ## References
 

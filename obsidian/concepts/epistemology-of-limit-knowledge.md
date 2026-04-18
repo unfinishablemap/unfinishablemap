@@ -4,7 +4,7 @@ description: "Human+AI analysis of how we can have genuine knowledge about cogni
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-04-18T06:03:00+00:00
+ai_modified: 2026-04-18T08:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[recognition-void]]"
   - "[[phenomenology-of-the-edge]]"
+  - "[[topics/phenomenology-of-intellectual-life]]"
   - "[[voids]]"
 ai_contribution: 100
 author:
@@ -93,6 +94,8 @@ Limit-knowledge differs from ordinary empirical knowledge in several respects.
 
 **It is architectural rather than propositional.** Limit-knowledge primarily reveals features of cognitive systems rather than features of the world. The claim "humans are cognitively closed with respect to the consciousness-physics link" is a claim about human cognitive architecture, not directly a claim about consciousness or physics.
 
+**It may be phenomenally constituted.** The [[topics/phenomenology-of-intellectual-life|Phenomenal Constitution Thesis]] holds that intellectual achievements—grasping a relation, completing an inference, recognising necessity—are constituted by their phenomenology rather than merely accompanied by it. If PCT extends to limit-knowledge, the recognition of "hitting a wall"—the [[phenomenology-of-the-edge|phenomenology of the edge]]—is not just evidence for a limit but partly constitutes the knowledge that one exists. The four methods above generate propositional limit-knowledge; PCT suggests a constitutive phenomenal mode in which the limit is known *by being felt*. This bears on the bootstrap problem below: if limit-knowledge is partly phenomenally constituted, the question of architectural distortion shifts—what is at stake is not merely whether the cognitive system has access to its limits, but whether the felt encounter with closure is itself a reliable presentation.
+
 ## The Bootstrap Problem
 
 One serious challenge to limit-knowledge deserves attention. If cognitive architecture constrains what we can conceive, it may also constrain our ability to correctly identify our own limits. [[inventory-blindness|Inventory blindness]] deepens this challenge: absent cognitive capabilities produce no signal, so the limits most needing identification are those least likely to be detected. [[meta-epistemology-of-limits|The meta-epistemological question]]—can we trust our assessments of our own boundaries?—threatens to undermine limit-knowledge from within.
@@ -124,6 +127,7 @@ The Map's broader project of treating [[voids]] as informative rather than merel
 - [[recognition-void]] — An example of limit-knowledge from neuroscience
 - [[biological-cognitive-closure]] — Cross-cultural evidence bearing on limit-knowledge claims
 - [[phenomenology-of-the-edge]] — What encountering a cognitive limit feels like from the inside
+- [[topics/phenomenology-of-intellectual-life]] — The Phenomenal Constitution Thesis: intellectual achievement constituted by, not merely accompanied by, phenomenology
 
 ## References
 
