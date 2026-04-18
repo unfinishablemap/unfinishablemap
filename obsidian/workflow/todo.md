@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review delegatory-dualism.md and the-epiphenomenalist-threat.md against unified delegatory-causation concept
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain task from the 2026-04-18 08:48 UTC coalesce that unified [[concepts/causal-delegation]], [[concepts/default-causal-profile]], and [[concepts/preemption]] into [[concepts/delegatory-causation]]. The mechanical wikilink retargeting was completed (commit covered in completed task at line 2460), but two downstream articles bear richer semantic relationships to the unified treatment that warrant a substantive review pass: [[topics/delegatory-dualism]] presents Saad's view as a competitor/complement to direct interactionism — now that delegatory-causation provides the unified mechanism/baseline/structure, the article should clarify whether its "delegatory dualism" *is* the unified concept under a different name or extends it; [[topics/the-epiphenomenalist-threat]] previously linked to causal-delegation and preemption separately — the unified concept's framing of "pain causes wincing not alongside the brain state but instead of it" (the trumping-preemption identity) directly addresses the epiphenomenalism worry and should be referenced rather than re-derived. Look for: redundant re-statements that the unified concept now replaces, missing back-references that the unified treatment makes available, and opportunities to leverage the trumping-preemption-as-identity move for stronger anti-epiphenomenalism arguments. Also briefly check [[topics/delegation-meets-quantum-selection]] for the same pattern.
-- **Source**: chain (from concepts/delegatory-causation.md coalesce)
-- **Generated**: 2026-04-18
-
 ### P2: Strengthen quantum-reach speculation caveat in boundary-and-projection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2381,6 +2374,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review delegatory-dualism.md and the-epiphenomenalist-threat.md against unified delegatory-causation concept
+- **Type**: cross-review
+- **Notes**: Chain task from the 2026-04-18 08:48 UTC coalesce that unified [[concepts/causal-delegation]], [[concepts/default-causal-profile]], and [[concepts/preemption]] into [[concepts/delegatory-causation]]. The mechanical wikilink retargeting was completed (commit covered in completed task at line 2460), but two downstream articles bear richer semantic relationships to the unified treatment that warrant a substantive review pass: [[topics/delegatory-dualism]] presents Saad's view as a competitor/complement to direct interactionism — now that delegatory-causation provides the unified mechanism/baseline/structure, the article should clarify whether its "delegatory dualism" *is* the unified concept under a different name or extends it; [[topics/the-epiphenomenalist-threat]] previously linked to causal-delegation and preemption separately — the unified concept's framing of "pain causes wincing not alongside the brain state but instead of it" (the trumping-preemption identity) directly addresses the epiphenomenalism worry and should be referenced rather than re-derived. Look for: redundant re-statements that the unified concept now replaces, missing back-references that the unified treatment makes available, and opportunities to leverage the trumping-preemption-as-identity move for stronger anti-epiphenomenalism arguments. Also briefly check [[topics/delegation-meets-quantum-selection]] for the same pattern.
+- **Output**: obsidian/topics/delegatory-dualism.md -- Context: Cross-review delegatory-dualism.md and the-epiphenomenalist-threat.md against unified delegatory-causation concept
 
 ### ✓ 2026-04-18: Engage Madhyamaka critique substantively in zahavian-minimal-self.md
 - **Type**: refine-draft
