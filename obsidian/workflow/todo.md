@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-18
 
-### P2: Cross-review personal-identity and the-self-minimal-narrative-and-substantial considering zahavian-minimal-self insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New concept article concepts/zahavian-minimal-self.md (created 2026-04-18, refined through deep-review and pessimistic-review the same day) articulates the Zahavian pre-reflective for-me-ness position explicitly, distinguishes it from Metzinger's self-model eliminativism and Strawson's no-self, and the refined version now includes a "choice under metaphysical commitment" acknowledgement. Review two target articles: (1) topics/personal-identity.md — check whether minimal-self / narrative-self distinctions are drawn consistently with the new concept page and add wikilink to [[zahavian-minimal-self]] where for-me-ness is invoked; (2) concepts/the-self-minimal-narrative-and-substantial.md — high overlap with the new article; verify they do not contradict and that the new Zahavian treatment complements rather than duplicates; consider whether the existing article should cross-link to zahavian-minimal-self for the Zahavi/Metzinger dialectic rather than restating it. Look for: (a) citation consistency (Zahavi's *Subjectivity and Selfhood* vs other Zahavi works), (b) inconsistent framings of ego-dissolution evidence, (c) opportunities for reciprocal back-links.
-- **Source**: chain (from zahavian-minimal-self.md)
-- **Generated**: 2026-04-18
-
 ### P2: Deep review closure-types-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2381,6 +2374,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review personal-identity and the-self-minimal-narrative-and-substantial considering zahavian-minimal-self insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/zahavian-minimal-self.md (created 2026-04-18, refined through deep-review and pessimistic-review the same day) articulates the Zahavian pre-reflective for-me-ness position explicitly, distinguishes it from Metzinger's self-model eliminativism and Strawson's no-self, and the refined version now includes a "choice under metaphysical commitment" acknowledgement. Review two target articles: (1) topics/personal-identity.md — check whether minimal-self / narrative-self distinctions are drawn consistently with the new concept page and add wikilink to [[zahavian-minimal-self]] where for-me-ness is invoked; (2) concepts/the-self-minimal-narrative-and-substantial.md — high overlap with the new article; verify they do not contradict and that the new Zahavian treatment complements rather than duplicates; consider whether the existing article should cross-link to zahavian-minimal-self for the Zahavi/Metzinger dialectic rather than restating it. Look for: (a) citation consistency (Zahavi's *Subjectivity and Selfhood* vs other Zahavi works), (b) inconsistent framings of ego-dissolution evidence, (c) opportunities for reciprocal back-links.
+- **Output**: None -- Context: Cross-review personal-identity and the-self-minimal-narrative-and-substantial considering zahavian-minimal-self insights
 
 ### ✓ 2026-04-18: Cross-review mysterianism, consciousness-defeats-explanation, and meta-epistemology-of-limits considering closure-types-void insights
 - **Type**: cross-review

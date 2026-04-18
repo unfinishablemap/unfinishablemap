@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 12:47:00+00:00
+ai_modified: 2026-04-18 13:02:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 13:02 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Files**: [[topics/personal-identity]], [[topics/the-self-minimal-narrative-and-substantial]]
+- **Trigger**: Cross-review against newly created [[concepts/zahavian-minimal-self]] (2026-04-18) which develops the Map's explicit Zahavi-vs-Metzinger position
+- **Word counts**:
+  - personal-identity: 3846 → 3868 (+22)
+  - the-self-minimal-narrative-and-substantial: 2832 → 2885 (+53)
+- **Critical issues addressed**: 0 (none found in either article — both stable from prior reviews)
+- **Medium issues addressed**: 2 (both articles presupposed Zahavian framing without naming it or linking to dedicated treatment)
+- **Enhancements made**: 6 (inline cross-links in minimal-self paragraphs of both articles, parenthetical pointer in The Self's "Eliminativist Temptation" section where Metzinger is introduced, concepts frontmatter additions on both, Further Reading entries on both)
+- **Key moves**: Made the Zahavian commitment explicit in both targets while keeping the dedicated argument in the concept article; preserved length-neutrality (personal-identity still under 4000 hard threshold; the-self still under 3000 soft target)
+- **Output**: [[reviews/deep-review-2026-04-18-zahavian-cross-review]]
 
 ## 2026-04-18 12:47 UTC - deep-review (cross-review)
 - **Status**: Success

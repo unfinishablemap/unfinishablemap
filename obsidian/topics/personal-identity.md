@@ -4,7 +4,7 @@ description: "What makes you *you* across time? The Map emphasizes indexical ide
 created: 2026-01-08
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-17T13:11:00+00:00
+ai_modified: 2026-04-18T13:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,6 +14,7 @@ concepts:
   - "[[death-and-consciousness]]"
   - "[[split-brain-consciousness]]"
   - "[[self-and-self-consciousness]]"
+  - "[[zahavian-minimal-self]]"
   - "[[anoetic-noetic-autonoetic-consciousness]]"
   - "[[concepts/many-worlds]]"
   - "[[parfit-reductionism]]"
@@ -36,7 +37,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
-last_deep_review: 2026-04-17T11:41:00+00:00
+last_deep_review: 2026-04-18T13:02:00+00:00
 ---
 
 What makes you *you*? Not just at this moment, but across time—what connects the person reading this sentence to the [[infant-consciousness|infant you once were]] and the person you'll be tomorrow? The persistence question is literally a matter of life and death: it determines the conditions under which you survive or cease to exist.
@@ -53,7 +54,7 @@ Three main positions dominate the debate about what makes someone at one time th
 
 **The Narrative View**: You are your story. Marya Schechtman argues identity emerges through self-created life narratives. But this may exclude those with fragmented narratives.
 
-Recent phenomenological work distinguishes these from a more basic [[self-and-self-consciousness|minimal self]]—a pre-reflective first-person perspective present whenever consciousness is present. The minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. This suggests personal identity may have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
+Recent phenomenological work — most prominently [[zahavian-minimal-self|Zahavi's]] account of first-personal givenness — distinguishes these from a more basic [[self-and-self-consciousness|minimal self]]: a pre-reflective first-person perspective present whenever consciousness is present. This minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. Personal identity may thus have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
 
 [[anoetic-noetic-autonoetic-consciousness|Autonoetic consciousness]]—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. The [[anoetic-noetic-autonoetic-consciousness|constitutive view]] holds that this felt quality *defines* episodic memory—strip it away and what remains is factual knowledge, not genuine remembering. Yet as the [[inaccessible-past]] reveals, reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. Each act of retrieval permanently alters the trace through reconsolidation, making [[consciousness-and-memory|consciousness a causal participant in memory's ongoing transformation]]—the self perpetually rewriting its own history. The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
 
@@ -224,6 +225,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [[concepts/many-worlds]] — Why the Map rejects many-worlds (the indexical problem is central)
 - [[haecceity]] — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough
 - [[self-and-self-consciousness]] — The minimal self and phenomenology of selfhood
+- [[zahavian-minimal-self]] — Why the Map adopts Zahavi's pre-reflective givenness over Metzinger's self-model
 - [[anoetic-noetic-autonoetic-consciousness]] — Mental time travel and the temporal self
 - [[split-brain-consciousness]] — Empirical evidence on consciousness unity and division
 - [[death-and-consciousness]] — What survival after death would require
