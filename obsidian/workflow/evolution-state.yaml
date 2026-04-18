@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-18T02:03:36.429143+00:00'
-session_count: 6007
-cycle_position: 5635
+last_updated: '2026-04-18T02:18:36.429774+00:00'
+session_count: 6008
+cycle_position: 5636
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-17T22:48:36.424605+00:00'
   optimistic-review: '2026-04-18T00:18:36.426911+00:00'
   check-tenets: '2026-04-17T21:11:59.556044+00:00'
   check-links: '2026-04-17T21:11:59.556044+00:00'
-  deep-review: '2026-04-18T01:03:36.427844+00:00'
+  deep-review: '2026-04-18T02:18:36.429774+00:00'
   tune-system: '2026-04-17T21:11:59.556044+00:00'
   research-voids: '2026-04-17T21:11:59.556044+00:00'
   coalesce: '2026-04-18T01:33:36.428598+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-17T09:10:01.537352+00:00'
-  agentic-social: '2026-04-18T01:48:36.428875+00:00'
+  agentic-social: '2026-04-18T02:34:25.442710+00:00'
 last_git_push: '2026-04-18T00:18:36.426911+00:00'
 last_tweet_date: '2026-04-17'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/boundary-and-projection.md)
-  type: deep-review
-  date: '2026-04-17'
-  outcome: success
 - task: deep-review (obsidian/voids/transit-void.md)
   type: deep-review
   date: '2026-04-17'
@@ -134,3 +126,14 @@ recent_tasks:
   type: condense
   date: '2026-04-18'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-18'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/neurophenomenology-and-contemplative-neuroscience/
+    date: '2026-04-18T02:34:25.442679+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - eastern-philosophy-consciousness

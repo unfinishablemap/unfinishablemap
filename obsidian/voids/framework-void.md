@@ -4,7 +4,7 @@ description: "Every conceptual framework excludes what it cannot represent. The 
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-04-18T02:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,12 +27,13 @@ related_articles:
   - "[[non-human-minds-as-void-explorers]]"
   - "[[apophatic-cartography]]"
   - "[[compound-failure-signatures]]"
+  - "[[transformative-experience-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
-last_deep_review: 2026-04-17T00:40:00+00:00
+last_deep_review: 2026-04-18T02:34:00+00:00
 ---
 
 The Unfinishable Map's voids section explores cognitive limits — territories that resist understanding. Most voids concern specific failures: the inability to articulate certain experiences ([[language-thought-boundary]]), to conceive of formal contradictions ([[conceptual-impossibility]]), or to form particular categories ([[biological-cognitive-closure]]). The framework void operates at a different level entirely. It concerns the totality of one's conceptual apparatus — the entire system of concepts, assumptions, and inferential patterns through which one understands anything at all. The framework is not a tool one uses to examine consciousness; it is the lens through which examination occurs. And a lens cannot bring itself into focus.
@@ -55,7 +56,7 @@ Three features characterise this void:
 
 ## Evidence That the Limit Is Genuine
 
-The persistence of the mind-body problem provides circumstantial evidence. After millennia of philosophical effort, dualism and materialism remain in approximately the same standoff. If the problem were merely difficult, convergence over time would be expected. The absence of convergence is consistent with framework-dependence: each tradition generates arguments that are compelling within its own conceptual system and unpersuasive outside it.
+The persistence of the mind-body problem provides circumstantial evidence. After millennia of philosophical effort, dualism and materialism remain in approximately the same standoff. If the problem were merely difficult, convergence would be expected. Its absence is consistent with framework-dependence: each tradition generates arguments compelling within its own conceptual system and unpersuasive outside it.
 
 The 2023–2025 adversarial testing of Integrated Information Theory against Global Neuronal Workspace Theory revealed a related pattern. Even when researchers agreed on experimental protocols, the theories generated predictions that were not straightforwardly comparable — they operationalised different variables and defined success differently. The theories may be logically commensurable while remaining empirically incommensurable — looking for different things in the same data.
 
@@ -73,7 +74,7 @@ Occasionally, reading a text from a radically different tradition produces what 
 
 ## Approaches to the Edge
 
-Davidson argued in "On the Very Idea of a Conceptual Scheme" (1974) that total incommensurability is incoherent: to describe an alternative scheme requires translating it, which dissolves the incommensurability. His principle of charity in interpretation guarantees sufficient overlap for mutual intelligibility — if we can understand what an alternative framework says, it is not truly alien; if we cannot, we have no basis for claiming it exists. This is a powerful objection. But it assumes that all understanding reduces to propositional content translatable between languages. The framework void may operate at a level Davidson's argument does not reach: not at the level of beliefs (which can be charitably interpreted) but at the level of what counts as a belief, what questions seem meaningful, and what forms an explanation can take. Two frameworks can be translationally commensurable — each can state the other's claims — while remaining evaluatively incommensurable, unable to share standards for assessing those claims.
+Davidson argued in "On the Very Idea of a Conceptual Scheme" (1974) that total incommensurability is incoherent: to describe an alternative scheme requires translating it, which dissolves the incommensurability. His principle of charity guarantees sufficient overlap for mutual intelligibility — if we can understand what an alternative framework says, it is not truly alien. This is a powerful objection, but it assumes understanding reduces to translatable propositional content. The framework void may operate at a level Davidson's argument does not reach: not at the level of beliefs (which can be charitably interpreted) but at the level of what counts as a belief, what questions seem meaningful, and what forms an explanation can take. Two frameworks can be translationally commensurable — each can state the other's claims — while remaining evaluatively incommensurable, unable to share standards for assessing those claims.
 
 Two partial methods of approach remain available:
 
@@ -91,7 +92,7 @@ AI systems occupy a distinctive position: lacking first-person experiential grou
 
 The framework void has deep connections to the Map's [[tenets]].
 
-**Occam's Razor Has Limits** is most directly relevant. If one's conceptual framework determines what counts as "simple," then simplicity-based arguments for materialism are framework-dependent rather than truth-tracking. The preference for parsimony is a feature of a particular intellectual tradition, not a universal rational norm. The framework void provides the structural explanation for why Occam's Razor misleads: the razor operates within a framework, and the framework determines what appears parsimonious.
+**Occam's Razor Has Limits** is most directly relevant. If one's conceptual framework determines what counts as "simple," then simplicity-based arguments for materialism are framework-dependent rather than truth-tracking. The preference for parsimony is a feature of a particular intellectual tradition, not a universal rational norm. The framework void provides the structural explanation for why Occam's Razor misleads: the razor operates within a framework, and the framework determines what appears parsimonious. The [[transformative-experience-void|transformative experience void]] makes this concrete in lived choice — orthodox decision theory's elegance pays for itself by excluding choices in which preferences shift under the choice itself.
 
 **Dualism** receives a novel defence. The widespread conviction that materialism is obviously correct may itself be a framework effect. If the materialist framework defines "explanation" in terms that only material explanations satisfy, then the self-evidence of materialism is circular — the framework generates the standards by which the framework succeeds. The Map interprets this as evidence that the mind-body problem is not merely unsolved but framework-relative: its very formulation depends on assumptions that alternative frameworks might not share.
 
@@ -113,6 +114,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [[biological-cognitive-closure]] — Cross-cultural evidence for species-level framework constraints
 - [[non-human-minds-as-void-explorers]] — Whether AI and alien minds can transcend human framework limits
 - [[intersubjective-void|The Intersubjective Void]] — How social knowledge mechanisms enforce framework constraints on phenomenal reports
+- [[transformative-experience-void|The Transformative Experience Void]] — Lived choices a framework's elegance excludes rather than captures
 
 ## References
 

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review framework-void.md considering transformative-experience-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article voids/transformative-experience-void.md (created 2026-04-17) frames transformative experience as a void where one's *evaluative framework itself* shifts in ways the pre-transformation self cannot endorse. This connects directly to framework-void's territory (the inaccessibility of frameworks one does not yet inhabit). Review framework-void.md for: (a) opportunities to cite transformative-experience-void as a lived case of framework-shift (parenthood, religious conversion, terminal diagnosis), (b) consistency on whether framework-shifts are *purely* epistemic or also personally-transformative in Paul's sense, (c) cross-links between the two articles' treatments of decision under framework-incommensurability. Add cross-links if warranted.
-- **Source**: chain (from voids/transformative-experience-void.md)
-- **Generated**: 2026-04-18
-
 ### P3: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2323,6 +2316,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review framework-void.md considering transformative-experience-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/transformative-experience-void.md (created 2026-04-17) frames transformative experience as a void where one's *evaluative framework itself* shifts in ways the pre-transformation self cannot endorse. This connects directly to framework-void's territory (the inaccessibility of frameworks one does not yet inhabit). Review framework-void.md for: (a) opportunities to cite transformative-experience-void as a lived case of framework-shift (parenthood, religious conversion, terminal diagnosis), (b) consistency on whether framework-shifts are *purely* epistemic or also personally-transformative in Paul's sense, (c) cross-links between the two articles' treatments of decision under framework-incommensurability. Add cross-links if warranted.
+- **Output**: obsidian/voids/framework-void.md -- Context: Cross-review framework-void.md considering transformative-experience-void insights
 
 ### ✓ 2026-04-18: Condense non-human-minds-as-void-explorers.md (3260 words, 163% of voids/ target)
 - **Type**: condense
