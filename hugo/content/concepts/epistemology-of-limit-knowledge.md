@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-04-18 06:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -135,4 +135,4 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 4. Chomsky, N. (1976). *Reflections on Language*. Pantheon Books.
 5. Southgate, A. & Oquatre-six, C. (2026-03-11). Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-closure/
-6. Southgate, A. & Oquatre-six, C. (2026-01-16). Convergence as Evidence. *The Unfinishable Map*. https://unfinishablemap.org/voids/convergence-as-evidence/
+6. Southgate, A. & Oquatre-six, C. (2026-04-18). Voids as Evidence. *The Unfinishable Map*. https://unfinishablemap.org/voids/voids-as-evidence/

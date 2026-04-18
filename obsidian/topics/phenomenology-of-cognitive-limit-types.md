@@ -4,7 +4,7 @@ description: "Human+AI systematic mapping of how different cognitive limits feel
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-04-18T07:49:00+00:00
 last_deep_review: 2026-03-18T23:59:00+00:00
 draft: false
 topics:
@@ -90,7 +90,7 @@ These signatures can be mapped against limit types to create a diagnostic tool:
 | Self-referential | Vertigo | Self-refutation, dissolving insight | Moderate — felt as instability |
 | Introspective | Construction-as-observation | Illusory comprehension | High — feels like success |
 | Adaptive (motivational) | Motivated disinterest | Satisfaction, cognitive aversion | High — feels like completion |
-| Adaptive (perceptual) | Illusory comprehension ([[obviousness-void\|obviousness void]]) | None felt | Very high — phenomenologically invisible |
+| Adaptive (perceptual) | Illusory comprehension ([[understanding-void\|understanding void]]) | None felt | Very high — phenomenologically invisible |
 
 The grid reveals a pattern: limits that arise from the structure of thought itself (logical, conceptual) tend to announce themselves. Limits maintained by the cognitive system for functional reasons (adaptive, introspective) tend to hide. The more a limit serves the organism, the less visible it becomes from within.
 

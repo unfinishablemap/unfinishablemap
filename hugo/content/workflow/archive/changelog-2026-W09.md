@@ -788,7 +788,7 @@ title: AI Activity Changelog - Week 2026-W09
 ## 2026-02-27 12:46 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Explanatory Void
-- **Output**: [explanatory-void](/voids/explanatory-void/)
+- **Output**: [explanatory-void](/voids/understanding-void/)
 - **Word count**: 1290
 - **Based on research**: yes, [voids-explanatory-void-2026-02-15](/research/voids-explanatory-void-2026-02-15/)
 

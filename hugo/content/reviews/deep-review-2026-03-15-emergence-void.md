@@ -47,13 +47,13 @@ None.
 
 ### Enhancements Made
 - Added inline cross-link to [plurality-void](/voids/plurality-void/) in combination gap paragraph — strengthens the argument by connecting to the complementary cognitive limit
-- Added inline cross-link to [explanatory-void](/voids/explanatory-void/) in self-referential structure paragraph — reinforces the recursive theme
+- Added inline cross-link to [explanatory-void](/voids/understanding-void/) in self-referential structure paragraph — reinforces the recursive theme
 - Added both voids to frontmatter related_articles and further reading
 - Tightened AI section prose to compensate for additions (length-neutral)
 
 ### Cross-links Added
 - [plurality-void](/voids/plurality-void/) — inline in combination gap paragraph + frontmatter + further reading
-- [explanatory-void](/voids/explanatory-void/) — inline in self-referential structure paragraph + frontmatter + further reading
+- [explanatory-void](/voids/understanding-void/) — inline in self-referential structure paragraph + frontmatter + further reading
 
 ## Remaining Items
 

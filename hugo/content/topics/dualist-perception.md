@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-16 17:55:00+00:00
+ai_modified: 2026-04-18 07:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ description: Perception is where consciousness meets the world. Dissociations, p
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 05:33:00+00:00
+last_deep_review: 2026-04-18 07:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,7 +125,7 @@ The Map's framework suggests that [phenomenal binding](/concepts/binding-problem
 
 The philosophy of perception asks what happens when someone sees a red apple, hears a trumpet, or feels the warmth of sunlight. Three families of theory compete: direct realism (perception puts us in direct contact with mind-independent objects), indirect realism (perception is mediated by mental representations), and idealism (the "external" world is constituted by mind).
 
-Under physicalism, these debates unfold within a single ontological layer. Dualism changes the terrain. If consciousness is ontologically distinct from the physical, then the perceptual relation crosses an ontological boundary. Light strikes the retina, neurons fire, and at some point experience arises in a domain that is not itself physical. This boundary crossing opens possibilities that physicalist theories foreclose.
+Under physicalism, these debates unfold within a single ontological layer. Dualism changes the terrain. If consciousness is ontologically distinct from the physical, then the perceptual relation crosses an ontological boundary. Light strikes the retina, neurons fire, and at some point experience arises in a domain that is not itself physical. This boundary crossing opens possibilities that physicalist theories foreclose. The Map's position is a hybrid indirect realism: the phenomenal interface is itself constitutive — neither private theatre nor unmediated contact, but the experiential face of an interaction across the divide.
 
 ### The Problem of Perceptual Qualities
 
@@ -153,7 +153,7 @@ This is speculative, and the Map does not claim it as established. But it addres
 
 ## Beyond the Visual
 
-While vision dominates philosophical discussions, perception extends across modalities — auditory, tactile, olfactory, gustatory, proprioceptive, vestibular — and these modalities interact. The contrast between perceptual and non-perceptual consciousness is equally instructive. Abstract thought, imagination, and emotion have phenomenal character but lack the determinacy, transparency, and spatial structure of perception. A mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be interrupted and resumed where a heard melody unfolds with perceptual authority. Consciousness varies in structure across the perception-thought continuum, and any adequate theory must accommodate this variation.
+While vision dominates philosophical discussions, perception extends across modalities — auditory, tactile, olfactory, gustatory, proprioceptive, vestibular — and these modalities interact. Equally instructive is the contrast between perception and other phenomenal states: a mental image of a tiger is vague where a perceived tiger is precise; an imagined melody can be paused where a heard one unfolds with perceptual authority. Consciousness varies in structure across this continuum, and any adequate theory must accommodate that variation.
 
 ## Relation to Site Perspective
 

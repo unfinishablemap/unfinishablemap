@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-17 21:12:00+00:00
+ai_modified: 2026-04-18 07:49:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -116,7 +116,7 @@ The void is **mixed** in the [voids taxonomy](/voids/three-kinds-of-void/): prim
 
 **Unexplorable.** Consciousness cannot step outside itself to observe where it ends or how it extends. Functional extension requires phenomenal invisibility; observation collapses the extension being observed. Architectural, not contingent.
 
-**Unexplored.** The five-to-ninety-two paper ratio reveals a scholarly blind spot—an instance of the [obviousness void](/voids/obviousness-void/), where self-evidence terminates inquiry before it begins. The projective side has received empirical attention (rubber hand, peripersonal space) but little philosophical synthesis.
+**Unexplored.** The five-to-ninety-two paper ratio reveals a scholarly blind spot—an instance of the [understanding void](/voids/understanding-void/), where self-evidence terminates inquiry before it begins. The projective side has received empirical attention (rubber hand, peripersonal space) but little philosophical synthesis.
 
 **Possibly Occluded.** If dissolution requires "letting go" of agency, boundaries may be actively maintained by processes consciousness cannot observe—not merely structural but defended, in the territory of [self-opacity](/voids/self-opacity/).
 

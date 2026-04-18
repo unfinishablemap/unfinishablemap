@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-26
-**Article**: [The Obviousness Void](/voids/obviousness-void/)
+**Article**: [The Obviousness Void](/voids/understanding-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

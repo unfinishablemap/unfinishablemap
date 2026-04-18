@@ -4,7 +4,7 @@ description: "Six major models of explanation all fail for consciousness—not a
 created: 2026-02-18
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-04-09T22:03:00+00:00
+ai_modified: 2026-04-18T07:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[phenomenology-of-philosophical-disagreement]]"
   - "[[epistemology-of-convergence-arguments]]"
   - "[[methodology-of-consciousness-research]]"
-  - "[[explanatory-void]]"
+  - "[[understanding-void]]"
   - "[[self-reference-paradox]]"
   - "[[temporal-structure-of-understanding]]"
   - "[[evaluative-qualia-phenomenal-normativity-across-traditions]]"
@@ -185,7 +185,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [[methodology-of-consciousness-research]] — Integrating subjective and objective approaches
 - [[contemplative-practice-as-philosophical-evidence]] — First-person methods for the reflexive gap
 - [[illusionism]] — The strongest physicalist response to the explanatory gap
-- [[explanatory-void]] — The void at the heart of explanation: why understanding cannot ground itself
+- [[understanding-void]] — The void at the heart of explanation: why understanding cannot ground itself
 - [[self-reference-paradox]] — Structural obstacles when consciousness studies itself
 - [[temporal-structure-of-understanding]] — The phenomenal character of the "click" of comprehension
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Why theoretical virtues like elegance and loveliness are phenomenal states

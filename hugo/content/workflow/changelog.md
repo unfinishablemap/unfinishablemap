@@ -1,13 +1,106 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 05:03:00+00:00
+ai_modified: 2026-04-18 07:49:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 07:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/voids/) (plus 13 linked files)
+- **Context**: Follow-up to the 2026-04-18 coalesce that merged [obviousness-void](/voids/understanding-void/) and [explanatory-void](/voids/understanding-void/) into [understanding-void](/voids/understanding-void/). Updated all 14 active wikilink references from the archived slugs to the canonical target (archive URLs continue to resolve for external visitors).
+- **Changes**: Renamed links in 14 files; collapsed the two adjacent bullets in `voids/voids.md` into a single merged entry; kept surrounding sentences meaningful (e.g., qualified one reference as "understanding void's self-evidence face" where the context specifically described passive self-evidence).
+- **Files updated**: voids/voids, voids/self-maintained-cognitive-limits, voids/biological-cognitive-closure, voids/interested-party-void, voids/conceptual-metabolism-void, voids/boundary-and-projection, voids/predictive-construction-void, voids/emergence-void, topics/authentic-vs-inauthentic-choice, topics/phenomenology-of-cognitive-limit-types, topics/consciousness-defeats-explanation, concepts/emergence, concepts/explanatory-gap, concepts/epistemic-emotions
+- **Published**: yes
+
+## 2026-04-18 07:39 UTC - coalesce
+- **Status**: Success
+- **Sources**: [obviousness-void](/voids/obviousness-void/), [explanatory-void](/voids/explanatory-void/)
+- **Target**: [understanding-void](/voids/understanding-void/)
+- **Archived**: [obviousness-void](/archive/voids/obviousness-void/), [explanatory-void](/archive/voids/explanatory-void/)
+- **References to review**: 14 active files reference the archived articles (follow-up task created)
+- **Rationale**: Both articles centered on the unreliability of the feeling of understanding, both cited Rozenblit & Keil's illusion of explanatory depth as evidence, and both explicitly listed each other as neighbouring voids. The obviousness face (self-evidence as cognitive stop-sign) and the explanatory face (regress, loveliness, ungrounded feeling) are two angles on the same recursive opacity. Unified article preserves both faces — phenomenal obviousness and structural regress — in a single frame.
+
+## 2026-04-18 07:18 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Word count**: 3059 → 3087 (+28, length-neutral mode at soft warning)
+- **Critical issues addressed**: 0 (article converging — attribution checks pass, interpretation-relative framing stable)
+- **Medium issues addressed**: 2 (removed stale refinement-log comment; added cross-link to new pragmatist sibling article)
+- **Enhancements made**: 1 cross-link in mapping section body, related_articles entry, Further Reading bullet for [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/)
+- **Context**: Cross-review after creation of pragmatist-quantum-foundations-under-dualism (2026-04-18)
+- **Output**: [deep-review-2026-04-18-quantum-measurement-and-consciousness](/reviews/deep-review-2026-04-18-quantum-measurement-and-consciousness/)
+
+## 2026-04-18 07:04 UTC - deep-review
+- **Status**: Success
+- **File**: [dualist-perception](/topics/dualist-perception/)
+- **Word count**: 3300 → 3311 (+11, length-neutral mode at soft warning)
+- **Critical issues addressed**: 0 (article converging — second review confirms stability)
+- **Medium issues addressed**: 1 (resolved unresolved realism/idealism trilemma by stating Map's hybrid indirect realism position)
+- **Enhancements made**: tightened "Beyond the Visual" section (-20 words) to compensate for trilemma-resolution addition (+30 words)
+- **Output**: [deep-review-2026-04-18-dualist-perception](/reviews/deep-review-2026-04-18-dualist-perception/)
+
+## 2026-04-18 06:48 UTC - deep-review
+- **Status**: Success
+- **File**: [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/)
+- **Word count**: 2605 → 2775 (+170)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (QBism section gained pragmatist-reading nuance; Stapp's Copenhagen pragmatism now pointed to from Copenhagen section)
+- **Enhancements made**: 4 cross-links to new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) article (related_articles frontmatter, Copenhagen section, QBism section, Further Reading)
+- **Context**: Cross-review after creation of pragmatist-quantum-foundations-under-dualism (2026-04-18)
+- **Output**: [deep-review-2026-04-18-qm-interpretations-beyond-many-worlds](/reviews/deep-review-2026-04-18-qm-interpretations-beyond-many-worlds/)
+
+## 2026-04-18 06:33 UTC - condense
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Before**: 4618 words
+- **After**: 3104 words
+- **Reduction**: 33%
+- **Technique**: Tightened prose throughout; cut redundancy in Work of Reasoning (merged necessity paragraphs) and Evidence/Compulsion; compressed Click of Comprehension (Bergson aside, Kounios paragraph); cut Doubt paragraph from Belief Revision; merged Meaning Integration Problem and Unity of Thinking Subject into single section; major cut in Against Reduction (condensed Pitt/Prinz back-and-forth, Constitution-vs-Correlation, Schwitzgebel passage); trimmed Contemplative Evidence and Five Modes sections; tightened Relation to Site Perspective; cut Further Reading list from 34 to 20 essential entries; trimmed What Would Challenge into flowing paragraphs. Preserved opening summary, all five modes, tenet connections, core arguments.
+
+## 2026-04-18 06:24 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The 00:19–06:04 UTC cluster — deep-reviews on born-rule-and-the-consciousness-interface (cross-review after pragmatist-quantum-foundations creation), the-interface-specification-problem (third review — full convergence, no body change), and biological-computationalism (fifth review — full stability); refinements on phenomenology-of-intellectual-life (Constitution-vs-Correlation defense, MWI rewrite, risk-vs-insulated falsification restructure), psychedelics-and-the-filter-model (Zahavi-over-Metzinger distinction, "Where the Accounts Could Diverge" subsection, Katz constructivist objection, Mullis/PCR set aside), and epistemology-of-limit-knowledge (post-coalesce reference update); plus the 04:49 UTC pessimistic-review that drove the two refinements
+- **Output**: [optimistic-2026-04-18-morning](/reviews/optimistic-2026-04-18-morning/)
+
+## 2026-04-18 06:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
+- **Context**: Post-coalesce link cleanup — convergence-as-evidence merged into voids-as-evidence (commit 48cacb21a)
+- **Changes**: Updated reference #6 to cite unified [voids-as-evidence](/voids/voids-as-evidence/) article (title and URL); body wikilinks already pointed to the unified slug
+- **Published**: yes
+
+## 2026-04-18 05:48 UTC - deep-review
+- **Status**: Success
+- **File**: [biological-computationalism](/concepts/biological-computationalism/)
+- **Context**: Cross-review against companion topic [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/)
+- **Word count**: 1750 → 1750 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added Searle 1980 reference to match existing "(1980, 1992)" dual-date citation; renumbered references)
+- **Enhancements made**: 0
+- **Stability**: Fifth review — article at full stability. Cross-review confirmed concept and topic articles are internally consistent in attribution, quotes, characterizations, and source/Map separation.
+- **Output**: [deep-review-2026-04-18-biological-computationalism](/reviews/deep-review-2026-04-18-biological-computationalism/)
+
+## 2026-04-18 05:34 UTC - deep-review
+- **Status**: Success
+- **File**: [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- **Word count**: 2428 → 2428 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Stability**: Third review of this article — converged. All wikilinks valid, attributions correct, prose strong. No regressions; no improvements needed.
+- **Output**: [deep-review-2026-04-18-the-interface-specification-problem](/reviews/deep-review-2026-04-18-the-interface-specification-problem/)
+
+## 2026-04-18 05:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Driver**: [pessimistic-2026-04-18](/reviews/pessimistic-2026-04-18/) issues 2, 6, 7 + unsupported-claims (Stace/Katz, Mullis/PCR) + REBUS "mainstream" softening + intro/closer overclaim softening
+- **Changes**: distinguished meaningfulness/salience from richness/expansion in Neuroimaging Paradox; softened "predicts exactly this" → "is consistent with this pattern" in intro; softened "precisely what neuroimaging confirms" → "is consistent with what neuroimaging shows" in Huxley section; added new "Where the Accounts Could Diverge" subsection laying out three filter-vs-entropic candidate divergences (selective access, convergent phenomenology under divergent neural conditions, therapeutic durability); cited Zahavi 2014 for persisting-minimal-self claim and explicitly flagged Map's departure from Metzinger's eliminativism (added Buddhist/Madhyamaka qualifier); added Katz 1978 constructivist objection to Stace cross-cultural claim and narrowed argument to psychedelic data; qualified Mullis/PCR anecdote (set aside as disputed) and acknowledged selection bias in creative-output reports; softened "single most direct pharmacological challenge" → "a significant pharmacological challenge"; softened REBUS "mainstream computational neuroscience" → "influential model within predictive-processing neuroscience"; added Zahavi (2014) and Katz (1978) to references
+- **Published**: yes
 
 ## 2026-04-18 05:03 UTC - refine-draft
 - **Status**: Success

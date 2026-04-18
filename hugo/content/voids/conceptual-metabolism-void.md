@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-06
-ai_modified: 2026-04-06 05:21:00+00:00
+ai_modified: 2026-04-18 07:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[tenets]]'
 - '[[mutation-void]]'
 - '[[framework-void]]'
-- '[[obviousness-void]]'
+- '[[understanding-void]]'
 - '[[disappearance-voids]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[expertise-occlusion]]'
@@ -70,7 +70,7 @@ The [mutation-void](/voids/mutation-void/) concerns thoughts that change under i
 
 The [framework-void](/voids/framework-void/) marks what conceptual frameworks exclude — what they cannot represent at all. Conceptual metabolism concerns what frameworks *do* represent and how representing it transforms the representation. The framework void is about exclusion; the metabolism void is about transformation through inclusion.
 
-The [obviousness-void](/voids/obviousness-void/) describes how self-evidence terminates inquiry before it begins. Conceptual metabolism operates even when inquiry is active and successful. The very success of understanding — the moment of comprehension — is when the original is consumed.
+The [understanding-void](/voids/understanding-void/) describes how the feeling of understanding cannot ground itself—self-evidence terminates inquiry before it begins. Conceptual metabolism operates even when inquiry is active and successful. The very success of understanding — the moment of comprehension — is when the original is consumed.
 
 The [habituation void](/voids/disappearance-voids/) erases familiar experiences from consciousness through repetition. Conceptual metabolism operates on first encounter. The first time you understand something, the pre-understood version is already gone. No repetition is needed.
 

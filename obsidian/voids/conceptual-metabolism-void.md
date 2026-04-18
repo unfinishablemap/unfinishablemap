@@ -4,7 +4,7 @@ description: "Human+AI exploration of how understanding consumes concepts irreve
 created: 2026-04-06
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-06T05:21:00+00:00
+ai_modified: 2026-04-18T07:49:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[mutation-void]]"
   - "[[framework-void]]"
-  - "[[obviousness-void]]"
+  - "[[understanding-void]]"
   - "[[disappearance-voids]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[expertise-occlusion]]"
@@ -67,7 +67,7 @@ The [[mutation-void]] concerns thoughts that change under inspection — attenti
 
 The [[framework-void]] marks what conceptual frameworks exclude — what they cannot represent at all. Conceptual metabolism concerns what frameworks *do* represent and how representing it transforms the representation. The framework void is about exclusion; the metabolism void is about transformation through inclusion.
 
-The [[obviousness-void]] describes how self-evidence terminates inquiry before it begins. Conceptual metabolism operates even when inquiry is active and successful. The very success of understanding — the moment of comprehension — is when the original is consumed.
+The [[understanding-void]] describes how the feeling of understanding cannot ground itself—self-evidence terminates inquiry before it begins. Conceptual metabolism operates even when inquiry is active and successful. The very success of understanding — the moment of comprehension — is when the original is consumed.
 
 The [[disappearance-voids|habituation void]] erases familiar experiences from consciousness through repetition. Conceptual metabolism operates on first encounter. The first time you understand something, the pre-understood version is already gone. No repetition is needed.
 

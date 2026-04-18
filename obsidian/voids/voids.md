@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-04-17T20:56:00+00:00
+ai_modified: 2026-04-18T07:49:00+00:00
 draft: false
 last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
@@ -112,7 +112,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[thrownness-void|The Thrownness Void]] — Why consciousness cannot access the conditions under which it became conscious
 - [[smoothness-and-continuity|Smoothness and Continuity]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [[counterfactual-void|The Counterfactual Void]] — How counterfactual thinking is trapped near actuality
-- [[explanatory-void|The Explanatory Void]] — Why explanation cannot explain itself
+- [[understanding-void|The Understanding Void]] — Why the feeling of understanding cannot ground itself: explanation cannot explain itself, and self-evidence terminates inquiry before it begins
 - [[imagination-and-creativity-void|The Imagination Void]] — Where imagination's structural failures reveal the architecture of mind
 - [[indexical-void|The Indexical Void]] — Why first-person identity resists explanation
 - [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot opt out of itself
@@ -124,7 +124,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[spontaneous-thought-void|The Spontaneous Thought Void]] — Why consciousness cannot observe generation of unbidden thoughts
 - [[necessary-opacity|Necessary Opacity]] — Why consciousness cannot verify its own accuracy, and why exposing that opacity destabilises the system
 - [[self-maintained-cognitive-limits|Self-Maintained Cognitive Limits]] — Whether consciousness actively participates in maintaining its own limits, through defence mechanisms, motivated avoidance, and structural complicity
-- [[obviousness-void|The Obviousness Void]] — How the feeling of self-evidence terminates inquiry before it begins
 - [[interested-party-void|The Interested Party Void]] — Why consciousness cannot neutrally investigate its own nature—it has existential stakes in every answer
 - [[predictive-construction-void|The Predictive Construction Void]] — Why consciousness cannot determine the boundary between what it constructs and what it receives
 

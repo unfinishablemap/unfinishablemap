@@ -4,7 +4,7 @@ description: "Physical descriptions leave unexplained why neural activity feels 
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-18T07:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-and-consciousness]]"
-  - "[[explanatory-void]]"
+  - "[[understanding-void]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[consciousness-and-the-problem-of-measurement-standards]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
@@ -129,7 +129,7 @@ Problem: other gaps closed because we found connections that made the phenomena 
 
 Levine's original formulation was carefully modest: the gap is epistemic, concerning what we can understand, not necessarily what exists. Consciousness might be physical even if we cannot see why—perhaps we lack the cognitive resources, or consciousness is simply a brute fact.
 
-But Chalmers' development of the gap into the [[hard-problem-of-consciousness|hard problem]] pushes toward ontological conclusions. The gap isn't like our historical failure to understand lightning (which was resolved by learning physical facts). With consciousness, we cannot even imagine what kind of physical fact would make the experience of red intelligible. The gap resists all incremental progress. The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] frames this persistence as a hallmark of paradigm crisis: an anomaly that the framework's resources are structurally inadequate to address. The [[explanatory-void]] deepens this point: the phenomenal feeling of explanatory satisfaction—what makes the water/H₂O reduction seem *transparent*—is itself a conscious state. The very criterion by which we would judge the gap closed belongs to what the gap leaves unexplained.
+But Chalmers' development of the gap into the [[hard-problem-of-consciousness|hard problem]] pushes toward ontological conclusions. The gap isn't like our historical failure to understand lightning (which was resolved by learning physical facts). With consciousness, we cannot even imagine what kind of physical fact would make the experience of red intelligible. The gap resists all incremental progress. The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] frames this persistence as a hallmark of paradigm crisis: an anomaly that the framework's resources are structurally inadequate to address. The [[understanding-void]] deepens this point: the phenomenal feeling of explanatory satisfaction—what makes the water/H₂O reduction seem *transparent*—is itself a conscious state. The very criterion by which we would judge the gap closed belongs to what the gap leaves unexplained.
 
 This suggests the gap is not merely in us but in the nature of things. If consciousness were identical to physical processes, we would expect the identity to be explanatorily satisfying once we had the facts—as with water and H₂O. The persistent dissatisfaction suggests the identity doesn't hold. Across physicalist frameworks, this pressure produces [[concession-convergence]]—independent theories narrowing their claims in structurally identical ways that inadvertently concede the dualist point. The gap functions as a [[duhem-quine-underdetermination-consciousness|Duhem-Quine auxiliary assumption]]: physicalists presuppose it can be closed; dualists deny it—and no experiment adjudicates because the disagreement concerns what would count as closure. [[cognitive-science-of-dualism|Cognitive science's own methodology]] reveals the same structure: the field depends on first-person report to ground its third-person measurements, creating a methodological circle it cannot close from within.
 
@@ -210,7 +210,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[topics/phenomenal-value-realism]] — The evaluative dimension of the gap: if phenomenal properties constitute value, physics cannot reach normativity either
 - [[evaluative-phenomenal-character|moral phenomenology and perception]] — The explanatory gap extended into the moral domain: why neural descriptions cannot capture felt wrongness
 - [[quantum-measurement-and-consciousness]] — The argument that the measurement problem is an instance of the same explanatory gap
-- [[explanatory-void]] — Why explanation cannot explain itself: the recursive opacity that compounds the gap
+- [[understanding-void]] — Why explanation cannot explain itself: the recursive opacity that compounds the gap
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — How the gap constrains what we can know about the consciousness-matter interface
 - [[metaphysics-of-information-under-dualism]] — The syntax-semantics divide as an informational framing of the gap
 - [[consciousness-and-the-problem-of-measurement-standards]] — Why the gap extends to measurement itself: no units, instruments, or calibration for phenomenal quantities

@@ -29,7 +29,7 @@ None. The article remains factually sound, properly attributed, and structurally
 ### Medium Issues Found
 - **Missing self-referential acknowledgment in transparency test**: The transparency test relies on a phenomenal sense of understanding that is itself a conscious process—making it self-referentially reinforcing for the strong emergence argument. The new explanatory-void article (Rozenblit & Keil 2002, Trout 2007) reveals this dimension explicitly. **Resolution**: Added one sentence in "Why Consciousness Is the Paradigm Case" connecting the transparency test to the explanatory void.
 - **Missing cross-link to `[explanatory-gap](/concepts/explanatory-gap/)`**: The article discusses the gap between physical description and experience (the transparency test) but didn't link to the concept page developing this in detail. **Resolution**: Added inline link and Further Reading entry.
-- **Missing cross-link to `[explanatory-void](/voids/explanatory-void/)`**: The new voids article about recursive opacity of explanation is directly relevant to the transparency test discussion. **Resolution**: Added inline link, frontmatter related_articles entry, and Further Reading entry.
+- **Missing cross-link to `[explanatory-void](/voids/understanding-void/)`**: The new voids article about recursive opacity of explanation is directly relevant to the transparency test discussion. **Resolution**: Added inline link, frontmatter related_articles entry, and Further Reading entry.
 
 ### Counterarguments Considered
 - **MWI arguments** — Bedrock disagreement per previous reviews (not re-flagged)
@@ -65,12 +65,12 @@ None. The article remains factually sound, properly attributed, and structurally
 ### Enhancements Made
 - Added explanatory void insight to transparency test section — the phenomenal sense of understanding that makes reductions feel transparent is itself a conscious process, making the test self-referentially reinforcing
 - Added `[explanatory-gap](/concepts/explanatory-gap/)` inline link and to concepts frontmatter and Further Reading
-- Added `[explanatory-void](/voids/explanatory-void/)` inline link and to related_articles frontmatter and Further Reading
+- Added `[explanatory-void](/voids/understanding-void/)` inline link and to related_articles frontmatter and Further Reading
 - Trimmed generic closing sentence from evolutionary emergence paragraph to offset additions (length-neutral mode)
 
 ### Cross-links Added
 - [explanatory-gap](/concepts/explanatory-gap/) — inline link (transparency test section), concepts frontmatter, Further Reading
-- [explanatory-void](/voids/explanatory-void/) — inline link (transparency test section), related_articles frontmatter, Further Reading
+- [explanatory-void](/voids/understanding-void/) — inline link (transparency test section), related_articles frontmatter, Further Reading
 
 ## Word Count
 

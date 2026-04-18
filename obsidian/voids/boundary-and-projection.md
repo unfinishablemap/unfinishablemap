@@ -4,7 +4,7 @@ description: "Consciousness has a perimeter it cannot locate and extends beyond 
 created: 2026-03-29
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-17T21:12:00+00:00
+ai_modified: 2026-04-18T07:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -112,7 +112,7 @@ The void is **mixed** in the [[three-kinds-of-void|voids taxonomy]]: primarily U
 
 **Unexplorable.** Consciousness cannot step outside itself to observe where it ends or how it extends. Functional extension requires phenomenal invisibility; observation collapses the extension being observed. Architectural, not contingent.
 
-**Unexplored.** The five-to-ninety-two paper ratio reveals a scholarly blind spot—an instance of the [[obviousness-void|obviousness void]], where self-evidence terminates inquiry before it begins. The projective side has received empirical attention (rubber hand, peripersonal space) but little philosophical synthesis.
+**Unexplored.** The five-to-ninety-two paper ratio reveals a scholarly blind spot—an instance of the [[understanding-void|understanding void]], where self-evidence terminates inquiry before it begins. The projective side has received empirical attention (rubber hand, peripersonal space) but little philosophical synthesis.
 
 **Possibly Occluded.** If dissolution requires "letting go" of agency, boundaries may be actively maintained by processes consciousness cannot observe—not merely structural but defended, in the territory of [[self-opacity]].
 

@@ -92,11 +92,11 @@ None. Merger preserved all sourced claims accurately.
 
 ### Enhancements Made
 - Trimmed description from 248 to 170 characters
-- Added [obviousness-void](/voids/obviousness-void/) to related_articles frontmatter
+- Added [obviousness-void](/voids/understanding-void/) to related_articles frontmatter
 - Added obviousness-void to Further Reading with description
 
 ### Cross-links Added
-- [obviousness-void](/voids/obviousness-void/) — body reference now supported by frontmatter and Further Reading entries
+- [obviousness-void](/voids/understanding-void/) — body reference now supported by frontmatter and Further Reading entries
 
 ## Word Count Change
 

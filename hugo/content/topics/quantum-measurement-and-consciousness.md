@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-17 08:25:00+00:00
+ai_modified: 2026-04-18 07:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ concepts:
 - '[[von-neumann-wigner-interpretation]]'
 - '[[post-decoherence-selection]]'
 created: 2026-02-01
-date: &id001 2026-03-17
+date: &id001 2026-04-18
 description: 'The measurement problem and the hard problem share an identical logical
   structure: both concern where first-person facts resist absorption into third-person
   descriptions. This convergence suggests consciousness participates in determining
@@ -31,7 +31,7 @@ description: 'The measurement problem and the hard problem share an identical lo
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 20:54:00+00:00
+last_deep_review: 2026-04-18 07:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,6 +39,7 @@ related_articles:
 - '[[collapse-and-time]]'
 - '[[quantum-measurement-and-subjective-probability]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
+- '[[pragmatist-quantum-foundations-under-dualism]]'
 - '[[consciousness-measurement-problem-2026-01-16]]'
 - '[[measurement-problem-quantum-mechanics-2026-01-14]]'
 - '[[methodology-of-consciousness-research]]'
@@ -139,7 +140,7 @@ The strength: consciousness is causally efficacious—[Bidirectional Interaction
 
 Every interpretation either smuggles the observer in through a back door, eliminates them at too high a cost, or presupposes them without analysis. If the measurement problem is an instance of the hard problem, this persistent disagreement is expected: trying to solve it with more physics is like trying to solve the hard problem with more neuroscience.
 
-The structural parallel reveals that interpretations of quantum mechanics are implicitly positions on consciousness. Many-worlds denies that first-person selection is genuine—parallel to eliminativism about qualia. Hidden variables deny the gap itself—parallel to reductive physicalism. Objective collapse accepts a physical gap but declines to fill it with consciousness—parallel to [mysterianism](/concepts/mysterianism/). QBism embraces the observer but presupposes the consciousness it cannot explain.
+The structural parallel reveals that interpretations of quantum mechanics are implicitly positions on consciousness. Many-worlds denies that first-person selection is genuine—parallel to eliminativism about qualia. Hidden variables deny the gap itself—parallel to reductive physicalism. Objective collapse accepts a physical gap but declines to fill it with consciousness—parallel to [mysterianism](/concepts/mysterianism/). QBism embraces the observer but presupposes the consciousness it cannot explain—a feature the [wider pragmatist family](/topics/pragmatist-quantum-foundations-under-dualism/) (QBism, Healey, Brukner-Zeilinger, Stapp) shares, and which dualism supplies.
 
 These mappings follow from the structural identity between the two problems and contribute to the [broader convergence argument for dualism](/topics/the-convergence-argument-for-dualism/): when independent lines of reasoning all point in the same direction, the cumulative case exceeds any individual argument.
 
@@ -202,6 +203,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Three-tier prediction hierarchy, experimental obstacles, and the convergence strategy
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — How definite outcomes obtained before conscious observers existed
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Interpretation comparison
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is assumed
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science reinforces the first-person/third-person distinction
 - [tenets](/tenets/) — The Map's foundational commitments
 
@@ -224,15 +226,3 @@ This topic is central to the Map's framework, connecting all five tenets:
 1. Wheeler, J.A. (1983). "Law Without Law." In *Quantum Theory and Measurement*, eds. Wheeler and Zurek. Princeton University Press.
 1. Wigner, E.P. (1961). "Remarks on the mind-body question." In *The Scientist Speculates*, ed. I.J. Good.
 1. Zurek, W.H. (2003). "Decoherence, einselection, and the quantum origins of the classical." *Reviews of Modern Physics*.
-
-<!-- AI REFINEMENT LOG - 2026-04-17
-Changes made:
-- Reframed the "Structural Identity with the Hard Problem" table as interpretation-relative: added a preceding clause stating the parallel presupposes single-world collapse realism, retitled the table's left column accordingly, and inserted a paragraph after the table explicitly naming MWI, Bohmian mechanics, QBism, and epistemic-collapse as interpretations on which the parallel does not obtain. Acknowledged that the structural identity cannot function as independent evidence against rival interpretations without circularity; recharacterised it as a consilience argument within the collapse-realist family.
-- Expanded the "Deny the Gap: Many-Worlds" subsection from a single dismissive paragraph to engage the self-locating uncertainty response of Saunders (2010), Wallace (2012), and Sebens & Carroll (2018). Granted that this response dissolves the bare "why this branch?" indexical puzzle by indexicalising it like "why this moment?". Narrowed the Map's objections to two that survive the self-locating move: (a) the conversion of an ontological question into an epistemic one does not address the phenomenology of actualisation, and (b) mental causation is eliminated independently of whether probability is rescued.
-- Added three new references: Saunders (2010), Sebens & Carroll (2018), Wallace (2012).
-- Updated ai_modified timestamp.
-
-Addresses pessimistic review 2026-04-17 Issue 3 (HIGH) and the MWI indexical counterargument noted in the same review's Counterarguments section.
-
-This log should be removed after human review.
--->

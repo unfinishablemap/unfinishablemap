@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-11 00:56:00+00:00
+ai_modified: 2026-04-18 07:49:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,7 +33,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-measurement-and-consciousness]]'
-- '[[explanatory-void]]'
+- '[[understanding-void]]'
 title: Emergence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -91,7 +91,7 @@ Their view requires rejecting causal closure: if consciousness possesses genuine
 
 Every successful [scientific reduction](/topics/reductionism-and-consciousness/) passes a transparency test: once the lower-level mechanism is known, the higher-level phenomenon becomes *intelligible*. Learning that temperature is molecular kinetic energy explains *why* heating gas increases pressure. Learning that genes are DNA explains *why* inheritance follows Mendelian ratios. Consciousness fails this test uniquely—complete knowledge of neural correlates leaves the existence of experience [opaque](/concepts/explanatory-gap/).
 
-The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) argues this opacity is present at every level transition—reduction relocates explanatory gaps rather than closing them. Consciousness is where the gap becomes undeniable because the qualitative character in question is experience itself. The [explanatory void](/voids/explanatory-void/) deepens this: the phenomenal sense of understanding that makes other reductions *feel* transparent is itself a conscious process, so the transparency test relies on the very phenomenon it identifies as irreducible. Three features make this failure systematic:
+The [universal hard problem thesis](/topics/emergence-as-universal-hard-problem/) argues this opacity is present at every level transition—reduction relocates explanatory gaps rather than closing them. Consciousness is where the gap becomes undeniable because the qualitative character in question is experience itself. The [understanding void](/voids/understanding-void/) deepens this: the phenomenal sense of understanding that makes other reductions *feel* transparent is itself a conscious process, so the transparency test relies on the very phenomenon it identifies as irreducible. Three features make this failure systematic:
 
 **[Unified awareness](/concepts/unity-of-consciousness/).** Physically separated neural networks somehow constitute a single conscious state. The [binding problem](/concepts/binding-problem/)—how distributed neural processes combine into unified experience—has proposed neural solutions (synchrony, global workspace broadcasting), but these explain coordination without explaining unity itself. Correlation between distinct processes isn't identity. The [convergence of composition theories](/topics/consciousness-and-the-metaphysics-of-composition/) on consciousness as the criterion for genuine wholes reinforces this: consciousness is what distinguishes genuine composites from mere aggregates, yet consciousness itself resists compositional analysis.
 
@@ -189,7 +189,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [supervenience](/concepts/supervenience/) — Why phenomenal-physical covariance does not entail physicalism
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [explanatory-gap](/concepts/explanatory-gap/) — The chasm between physical descriptions and conscious experience
-- [explanatory-void](/voids/explanatory-void/) — Why explanation cannot explain itself—the recursive opacity the transparency test relies on
+- [understanding-void](/voids/understanding-void/) — Why explanation cannot explain itself—the recursive opacity the transparency test relies on
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
 - [free-will](/topics/free-will/) — The debate over whether genuine choice exists and what it requires
 - [binding-problem](/concepts/binding-problem/) — How distributed processes achieve phenomenal unity

@@ -69,7 +69,7 @@ All six adversarial personas engaged:
 
 ### Cross-links Added
 
-- [explanatory-void](/voids/explanatory-void/) (in related_articles frontmatter, inline in text, and Further Reading)
+- [explanatory-void](/voids/understanding-void/) (in related_articles frontmatter, inline in text, and Further Reading)
 
 ## Remaining Items
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-17 15:41:00+00:00
+ai_modified: 2026-04-18 07:49:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ related_articles:
 - '[[self-transcendence-void]]'
 - '[[framework-void]]'
 - '[[necessary-opacity]]'
-- '[[obviousness-void]]'
+- '[[understanding-void]]'
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
@@ -150,7 +150,7 @@ A note of caution: [illusionists](/concepts/illusionism/) rightly warn that intr
 
 **Existential rupture and therapeutic resistance.** Sartrean anguish, Heideggerian *Unheimlichkeit*, psychoanalytic resistance, and Buddhist *auddhatya* all name moments where consciousness agitates against its own investigation as it nears concealed material—the work of self-maintenance becoming briefly visible.
 
-The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) positions these markers within a broader diagnostic grid. Where self-maintenance uses active deflection, the [obviousness void](/voids/obviousness-void/) achieves a similar result passively—territory that feels already known.
+The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) positions these markers within a broader diagnostic grid. Where self-maintenance uses active deflection, the [understanding void's self-evidence face](/voids/understanding-void/) achieves a similar result passively—territory that feels already known.
 
 ## The Investigator Problem
 
@@ -208,7 +208,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 - [Necessary Opacity](/voids/necessary-opacity/) — Whether the medium of representation introduces systematic distortion
 - [The Phenomenology of Self-Awareness](/voids/self-opacity/) — Self-reference and the bootstrap problem
 - [The Framework Void](/voids/framework-void/) — How frameworks exclude what they cannot represent
-- [The Obviousness Void](/voids/obviousness-void/) — Passive analogue: territory that feels already known
+- [The Understanding Void](/voids/understanding-void/) — Passive analogue: territory that feels already known (self-evidence face)
 - [The Agency Verification Void](/voids/agency-verification-void/) — The circularity of consciousness probing its own limits
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural limits (architectural occlusion)
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge

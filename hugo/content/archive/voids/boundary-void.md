@@ -103,7 +103,7 @@ The boundary void is **mixed** in the [voids taxonomy](/voids/three-kinds-of-voi
 
 **Unexplorable.** Consciousness cannot step outside itself to observe where it ends. The investigation occurs within the boundary, making the boundary structurally invisible to the investigator. This is not a contingent limitation but an architectural one.
 
-**Unexplored.** The five-to-ninety-two paper ratio reveals a genuine scholarly blind spot—an instance of what the Map calls the [obviousness void](/voids/obviousness-void/), where self-evidence terminates inquiry before it begins.
+**Unexplored.** The five-to-ninety-two paper ratio reveals a genuine scholarly blind spot—an instance of what the Map calls the [obviousness void](/voids/understanding-void/), where self-evidence terminates inquiry before it begins.
 
 **Possibly Occluded.** If meditation reveals that boundaries can dissolve, and dissolution requires "letting go" of agency, then boundaries may be actively maintained. The maintenance mechanism operates below the threshold of awareness. The boundary is not merely a structural feature but potentially a defended one—kept in place by processes consciousness cannot observe. This places the boundary void in the territory explored by [self-opacity](/voids/self-opacity/)—the systematic inability of consciousness to observe its own mechanisms.
 

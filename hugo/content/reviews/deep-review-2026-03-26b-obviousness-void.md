@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-26
-**Article**: [The Obviousness Void](/voids/obviousness-void/)
+**Article**: [The Obviousness Void](/voids/understanding-void/)
 **Previous review**: [2026-03-26](/reviews/deep-review-2026-03-26-obviousness-void/) (earlier today)
 
 ## Pessimistic Analysis Summary
@@ -41,12 +41,12 @@ topics: []
 - Heidegger paragraph remains well-written
 
 ### Enhancements Made
-- Added [explanatory-void](/voids/explanatory-void/) to Further Reading with descriptive annotation
-- Added [explanatory-void](/voids/explanatory-void/) to related_articles frontmatter
+- Added [explanatory-void](/voids/understanding-void/) to Further Reading with descriptive annotation
+- Added [explanatory-void](/voids/understanding-void/) to related_articles frontmatter
 
 ### Cross-links Added (Inbound — Primary Focus)
 
-Five existing articles now link to [obviousness-void](/voids/obviousness-void/):
+Five existing articles now link to [obviousness-void](/voids/understanding-void/):
 
 1. **[epistemic-emotions](/concepts/epistemic-emotions/)** — Added in "Epistemic Emotions and Decision" section where certainty ends search, connecting premature certainty to the obviousness void as a stop-sign
 2. **[defended-territory](/voids/self-maintained-cognitive-limits/)** — Added in "The Phenomenology of Defended Territory" section, contrasting active deflection (defended territory) with passive foreclosure (obviousness void)

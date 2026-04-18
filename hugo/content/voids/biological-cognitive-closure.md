@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-04-18 07:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -122,7 +122,7 @@ Even if LLMs form representations outside human concept space, communication may
 
 Different biological sources produce different phenomenological signatures, mapped systematically in the [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/).
 
-**Architectural limits generate frustration** — trying and failing to think something, documented in the Map's [topology of cognitive failure](/voids/compound-failure-signatures/). **Adaptive limits generate satisfaction** — the limit feels like completion, not obstruction, producing an [obviousness void](/voids/obviousness-void/) at the species level. Hoffman's work suggests the deepest form: the perceptual interface hides voids seamlessly, producing illusory comprehension connected to [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/). **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [inventory-blindness](/concepts/inventory-blindness/).
+**Architectural limits generate frustration** — trying and failing to think something, documented in the Map's [topology of cognitive failure](/voids/compound-failure-signatures/). **Adaptive limits generate satisfaction** — the limit feels like completion, not obstruction, producing an [understanding void](/voids/understanding-void/) at the species level: self-evidence as stop-sign. Hoffman's work suggests the deepest form: the perceptual interface hides voids seamlessly, producing illusory comprehension connected to [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/). **Developmental closure leaves no trace** — you cannot know what it was like to perceive faces without race categories. The word for this is [inventory-blindness](/concepts/inventory-blindness/).
 
 Buddhist, Hindu, and Western contemplative traditions all report that self-investigation reaches a point where the investigator cannot be found. The consistent phenomenology across traditions suggests a species-level feature of self-directed cognition.
 

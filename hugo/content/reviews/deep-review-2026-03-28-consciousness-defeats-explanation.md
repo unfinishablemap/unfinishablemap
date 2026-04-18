@@ -54,12 +54,12 @@ No new counterarguments identified that aren't already engaged.
 
 ### Enhancements Made
 - Added 3 cross-links to Further Reading and related_articles:
-  - [explanatory-void](/voids/explanatory-void/) — the void article directly about explanation's inability to explain itself
+  - [explanatory-void](/voids/understanding-void/) — the void article directly about explanation's inability to explain itself
   - [self-reference-paradox](/concepts/self-reference-paradox/) — formal self-reference obstacles parallel the reflexive gap
   - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — concrete evidence for the phenomenal character of comprehension
 
 ### Cross-links Added
-- [explanatory-void](/voids/explanatory-void/)
+- [explanatory-void](/voids/understanding-void/)
 - [self-reference-paradox](/concepts/self-reference-paradox/)
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/)
 

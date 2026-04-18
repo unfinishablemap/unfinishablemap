@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-17T15:41:00+00:00
+ai_modified: 2026-04-18T07:49:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[self-transcendence-void]]"
   - "[[framework-void]]"
   - "[[necessary-opacity]]"
-  - "[[obviousness-void]]"
+  - "[[understanding-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
@@ -147,7 +147,7 @@ A note of caution: [[illusionism|illusionists]] rightly warn that introspective 
 
 **Existential rupture and therapeutic resistance.** Sartrean anguish, Heideggerian *Unheimlichkeit*, psychoanalytic resistance, and Buddhist *auddhatya* all name moments where consciousness agitates against its own investigation as it nears concealed material—the work of self-maintenance becoming briefly visible.
 
-The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] positions these markers within a broader diagnostic grid. Where self-maintenance uses active deflection, the [[obviousness-void|obviousness void]] achieves a similar result passively—territory that feels already known.
+The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] positions these markers within a broader diagnostic grid. Where self-maintenance uses active deflection, the [[understanding-void|understanding void's self-evidence face]] achieves a similar result passively—territory that feels already known.
 
 ## The Investigator Problem
 
@@ -205,7 +205,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 - [[necessary-opacity|Necessary Opacity]] — Whether the medium of representation introduces systematic distortion
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Self-reference and the bootstrap problem
 - [[framework-void|The Framework Void]] — How frameworks exclude what they cannot represent
-- [[obviousness-void|The Obviousness Void]] — Passive analogue: territory that feels already known
+- [[understanding-void|The Understanding Void]] — Passive analogue: territory that feels already known (self-evidence face)
 - [[agency-verification-void|The Agency Verification Void]] — The circularity of consciousness probing its own limits
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural limits (architectural occlusion)
 - [[simulation-detection-void|The Simulation Detection Void]] — Where all three void types converge

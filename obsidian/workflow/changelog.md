@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 07:39:00+00:00
+ai_modified: 2026-04-18 07:49:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 07:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]] (plus 13 linked files)
+- **Context**: Follow-up to the 2026-04-18 coalesce that merged [[obviousness-void]] and [[explanatory-void]] into [[understanding-void]]. Updated all 14 active wikilink references from the archived slugs to the canonical target (archive URLs continue to resolve for external visitors).
+- **Changes**: Renamed links in 14 files; collapsed the two adjacent bullets in `voids/voids.md` into a single merged entry; kept surrounding sentences meaningful (e.g., qualified one reference as "understanding void's self-evidence face" where the context specifically described passive self-evidence).
+- **Files updated**: voids/voids, voids/self-maintained-cognitive-limits, voids/biological-cognitive-closure, voids/interested-party-void, voids/conceptual-metabolism-void, voids/boundary-and-projection, voids/predictive-construction-void, voids/emergence-void, topics/authentic-vs-inauthentic-choice, topics/phenomenology-of-cognitive-limit-types, topics/consciousness-defeats-explanation, concepts/emergence, concepts/explanatory-gap, concepts/epistemic-emotions
+- **Published**: yes
 
 ## 2026-04-18 07:39 UTC - coalesce
 - **Status**: Success

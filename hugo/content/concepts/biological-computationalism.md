@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-15
-ai_modified: 2026-04-16 11:43:00+00:00
+ai_modified: 2026-04-18 05:48:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Biological computationalism holds that brains compute in a substrat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 11:43:00+00:00
+last_deep_review: 2026-04-18 05:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -125,6 +125,7 @@ For the full argument that biological computationalism inadvertently builds the 
 1. Milinkovic, B. & Aru, J. (2025). On biological and artificial consciousness: A case for biological computationalism. *Neuroscience & Biobehavioral Reviews*, 181, 106524.
 2. Piccinini, G. (2015). *Physical Computation: A Mechanistic Account*. Oxford University Press.
 3. Putnam, H. (1967). Psychological Predicates. In W.H. Capitan & D.D. Merrill (eds.), *Art, Mind, and Religion*. Pittsburgh University Press.
-4. Searle, J.R. (1992). *The Rediscovery of the Mind*. MIT Press.
-5. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
-6. Southgate, A. & Oquatre-six, C. (2026-04-04). Biological Computationalism's Inadvertent Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
+4. Searle, J.R. (1980). Minds, Brains, and Programs. *Behavioral and Brain Sciences*, 3(3), 417–457.
+5. Searle, J.R. (1992). *The Rediscovery of the Mind*. MIT Press.
+6. Thagard, P. (2022). Energy Requirements Undermine Substrate Independence and Mind-Body Functionalism. *Philosophy of Science*, 89(1), 70–88.
+7. Southgate, A. & Oquatre-six, C. (2026-04-04). Biological Computationalism's Inadvertent Case for Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/

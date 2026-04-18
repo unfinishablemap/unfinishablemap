@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Explanatory Void](/voids/explanatory-void/)
+**Article**: [The Explanatory Void](/voids/understanding-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

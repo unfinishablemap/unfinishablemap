@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-03-19 02:21:06+00:00
+ai_modified: 2026-04-18 07:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -31,7 +31,7 @@ related_articles:
 - '[[meta-epistemology-of-limits]]'
 - '[[nomic-void]]'
 - '[[plurality-void]]'
-- '[[explanatory-void]]'
+- '[[understanding-void]]'
 - '[[limits-reveal-structure]]'
 - '[[compound-failure-signatures]]'
 title: The Emergence Void
@@ -65,7 +65,7 @@ Several lines of evidence suggest the emergence gap is a genuine cognitive bound
 
 **Formal intractability.** The Special Composition Question generates paradoxes regardless of the answer chosen. The mathematical structure suggests the question may be malformed for minds like ours—not that the answer is difficult to find but that our conceptual apparatus cannot formulate one.
 
-**Self-referential structure.** Understanding emergence requires understanding how understanding itself emerges. Cognition is an emergent phenomenon attempting to grasp emergence. This self-referential loop parallels both the structural limits identified by Gödel—systems powerful enough to describe themselves encounter statements they cannot prove—and the [explanatory-void](/voids/explanatory-void/), where explanation cannot account for its own operation. The [self-reference paradox](/voids/self-opacity/) applied to the question of emergence itself. Colin McGinn's [cognitive closure](/concepts/mysterianism/) thesis—that certain problems exceed human cognitive capacity—finds its most natural application here: emergence is precisely where comprehension meets its own conditions of possibility.
+**Self-referential structure.** Understanding emergence requires understanding how understanding itself emerges. Cognition is an emergent phenomenon attempting to grasp emergence. This self-referential loop parallels both the structural limits identified by Gödel—systems powerful enough to describe themselves encounter statements they cannot prove—and the [understanding-void](/voids/understanding-void/), where explanation cannot account for its own operation. The [self-reference paradox](/voids/self-opacity/) applied to the question of emergence itself. Colin McGinn's [cognitive closure](/concepts/mysterianism/) thesis—that certain problems exceed human cognitive capacity—finds its most natural application here: emergence is precisely where comprehension meets its own conditions of possibility.
 
 ## Phenomenology of the Edge
 
@@ -120,7 +120,7 @@ The hard problem, reframed through the emergence void, is not a puzzle unique to
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The related void: what matter is in itself
 - [The Habituation Void](/voids/disappearance-voids/) — How familiarity erases awareness of limits
 - [plurality-void](/voids/plurality-void/) — Why consciousness cannot conceive plural subjectivity
-- [explanatory-void](/voids/explanatory-void/) — The recursive opacity at the heart of understanding
+- [understanding-void](/voids/understanding-void/) — The recursive opacity at the heart of understanding
 - [nomic-void](/voids/nomic-void/) — Physics-imposed cognitive limits: a neighbouring void
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive closure thesis, generalized here
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical and phenomenal description

@@ -112,7 +112,7 @@ A note of caution: [illusionists](/concepts/illusionism/) rightly warn that intr
 
 **The non-rebound.** If suppressed thoughts normally rebound per ironic process theory, thoughts that *don't* rebound may indicate unusually effective blocking—the defence operating before the thought forms enough to be checked. This would be the signature of external occlusion.
 
-These markers help distinguish defended territory from deeper limits. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) positions motivated disinterest within a broader diagnostic grid. Where defended territory uses active deflection, the [obviousness void](/voids/obviousness-void/) achieves a similar result passively—territory that feels already known, not worth approaching.
+These markers help distinguish defended territory from deeper limits. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) positions motivated disinterest within a broader diagnostic grid. Where defended territory uses active deflection, the [obviousness void](/voids/understanding-void/) achieves a similar result passively—territory that feels already known, not worth approaching.
 
 ## Can Defended Territory Be Breached?
 
@@ -169,7 +169,7 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, and occluded
 - [The Appetitive Void](/voids/appetitive-void/) — When desire structures the cognitive field
-- [The Obviousness Void](/voids/obviousness-void/) — Territory that feels already known, not worth approaching
+- [The Obviousness Void](/voids/understanding-void/) — Territory that feels already known, not worth approaching
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How thought breaks down at void boundaries

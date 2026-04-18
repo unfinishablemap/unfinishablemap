@@ -70,7 +70,7 @@ topics: []
 
 - [epiphenomenalism](/concepts/epiphenomenalism/) (first use in body)
 - [defended-territory](/voids/self-maintained-cognitive-limits/) (suspicion cascade section)
-- [obviousness-void](/voids/obviousness-void/) (structural mapping section)
+- [obviousness-void](/voids/understanding-void/) (structural mapping section)
 
 ## Remaining Items
 
