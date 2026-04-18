@@ -5,6 +5,16 @@ ai_modified: 2026-04-18 03:19:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-18 03:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatism-and-qbism]]
+- **Previous review**: [[reviews/deep-review-2026-04-06-pragmatism-and-qbism|2026-04-06]] (review #4; cross-review triggered by new [[pragmatist-quantum-foundations-under-dualism]])
+- **Word count**: 2445 → 2521 (+76; well within soft threshold at 84%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing link to broader pragmatist family framework)
+- **Enhancements made**: 1 (integrated pointer to family-level treatment via opening paragraph, frontmatter, Further Reading, and reference)
+- **Output**: [[reviews/deep-review-2026-04-18-pragmatism-and-qbism]]
+
 ## 2026-04-18 03:19 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/transformative-experience-void]]

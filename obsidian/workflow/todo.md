@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md created 2026-04-18 via expand-topic develops the QBism/pragmatist-foundations thread at topic-scale. The concepts/pragmatism-and-qbism.md page (last deep-reviewed 2026-04-06) should be reviewed for: (a) places where concept-level treatment should defer to the new topic article for deeper discussion, (b) cross-link opportunities, (c) terminology consistency (framework-inhabitation, pragmatist bridge, QBism-as-epistemic-commitment framing), (d) whether any arguments in the concept page are now superseded or contradicted by the topic article's more developed treatment. Add cross-links if warranted.
-- **Source**: chain (from expand-topic topics/pragmatist-quantum-foundations-under-dualism.md 2026-04-18)
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review mind-matter-interface.md considering pragmatist-quantum-foundations-under-dualism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2342,6 +2335,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md created 2026-04-18 via expand-topic develops the QBism/pragmatist-foundations thread at topic-scale. The concepts/pragmatism-and-qbism.md page (last deep-reviewed 2026-04-06) should be reviewed for: (a) places where concept-level treatment should defer to the new topic article for deeper discussion, (b) cross-link opportunities, (c) terminology consistency (framework-inhabitation, pragmatist bridge, QBism-as-epistemic-commitment framing), (d) whether any arguments in the concept page are now superseded or contradicted by the topic article's more developed treatment. Add cross-links if warranted.
+- **Output**: obsidian/topics/pragmatism-and-qbism.md -- Context: Cross-review pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
 
 ### ✓ 2026-04-18: Deep review transformative-experience-void.md
 - **Type**: deep-review
