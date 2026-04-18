@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense meta-epistemology-of-limits.md (3079 words, 103% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (critical is 4000). The new closure-types-void.md (created 2026-04-18) now carries the Kriegel/Demircioglu representational-vs-psychological-closure material that had been buried in meta-epistemology-of-limits' section on types of limits — this creates an opportunity to condense by deferring that material to the dedicated concept page. Preserve the three-question spine (are limits genuine / can dissolution be predicted / natural vs designed) and the historical-pattern survey; tighten or defer secondary material; ensure wikilink to [[closure-types-void]] is added. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-18
+
+### P2: Cross-review mysterianism, consciousness-defeats-explanation, and meta-epistemology-of-limits considering closure-types-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept article voids/closure-types-void.md (created 2026-04-18, commit 46ad8bdac) makes the Kriegel/Demircioglu distinction between representational closure (cannot frame the solution) and psychological closure (can frame but cannot grasp) into a standalone framework, and argues that apophatic methods must differ by closure type. Review three target articles: (1) concepts/mysterianism.md — likely discusses McGinn/Chomsky closure; check whether it currently conflates the two types and add cross-link; (2) topics/consciousness-defeats-explanation.md — the article argues a defeat-pattern that maps onto specifically representational closure for the hard problem; make the distinction explicit and cross-link; (3) voids/meta-epistemology-of-limits.md — previously carried the Kriegel material; retarget any buried treatment to cite the dedicated article and tighten. Look for: (a) places where closure-type distinction sharpens an existing argument, (b) terminology inconsistencies, (c) opportunities for reciprocal back-links.
+- **Source**: chain (from closure-types-void.md)
+- **Generated**: 2026-04-18
+
+### P2: Cross-review personal-identity and the-self-minimal-narrative-and-substantial considering zahavian-minimal-self insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New concept article concepts/zahavian-minimal-self.md (created 2026-04-18, refined through deep-review and pessimistic-review the same day) articulates the Zahavian pre-reflective for-me-ness position explicitly, distinguishes it from Metzinger's self-model eliminativism and Strawson's no-self, and the refined version now includes a "choice under metaphysical commitment" acknowledgement. Review two target articles: (1) topics/personal-identity.md — check whether minimal-self / narrative-self distinctions are drawn consistently with the new concept page and add wikilink to [[zahavian-minimal-self]] where for-me-ness is invoked; (2) concepts/the-self-minimal-narrative-and-substantial.md — high overlap with the new article; verify they do not contradict and that the new Zahavian treatment complements rather than duplicates; consider whether the existing article should cross-link to zahavian-minimal-self for the Zahavi/Metzinger dialectic rather than restating it. Look for: (a) citation consistency (Zahavi's *Subjectivity and Selfhood* vs other Zahavi works), (b) inconsistent framings of ego-dissolution evidence, (c) opportunities for reciprocal back-links.
+- **Source**: chain (from zahavian-minimal-self.md)
+- **Generated**: 2026-04-18
+
+### P2: Deep review closure-types-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Newly created AI-generated article (ai_contribution: 100, created 2026-04-18 from research/voids-closure-types-2026-04-18.md). The article applies the Kriegel/Demircioglu distinction to the Map's void catalogue and argues apophatic methods must differ by closure type — a philosophically novel synthesis. Deep review should verify: (a) accuracy of attributions to Kriegel, Demircioglu, Vlerick, Chomsky, McGinn; (b) coherence of the proposed classification of specific voids (hard-problem, intentionality-void, self-opacity, numinous-void) by closure type; (c) tenet alignment (Occam's Razor Has Limits, Dualism); (d) cross-link density to related articles (mysterianism, meta-epistemology-of-limits, phenomenology-of-the-edge, consciousness-defeats-explanation); (e) whether the methodological claim — that apophatic methods must differ by closure type — is supported or asserted. Close the research → expand → review chain.
+- **Source**: chain (from closure-types-void.md)
+- **Generated**: 2026-04-18
+
 ### P3: Address bundling and paper-count issues in boundary-and-projection.md
 - **Type**: refine-draft
 - **Status**: pending
