@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine, can we predict which
 created: 2026-01-30
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T12:22:00+00:00
+ai_modified: 2026-04-18T12:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,12 +31,13 @@ related_articles:
   - "[[simulation-detection-void]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[psychedelics-and-the-filter-model]]"
+  - "[[closure-types-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated: null
-last_deep_review: 2026-04-17T16:11:00+00:00
+last_deep_review: 2026-04-18T12:47:00+00:00
 coalesced_from:
   - "/voids/epistemology-of-cognitive-limits/"
   - "/voids/natural-vs-designed-limits/"
@@ -59,7 +60,7 @@ Distinguishing *difficult* from *impossible* seems straightforward. In practice,
 
 Chomsky distinguishes *problems*—questions our cognitive architecture can solve in principle—from *mysteries*, which exceed that architecture because the concepts required to grasp them lie outside what minds like ours can form. [[biological-cognitive-closure|Evolution shaped cognition for specific tasks]]; there is no reason to expect universal access to all truths. The hard problem of consciousness may be a mystery rather than a problem.
 
-Kriegel challenges [[mysterianism]] as *incoherent*: questions are individuated by the statements that would answer them, so to pose a question is already to have the conceptual resources for potential answers. But Demircioglu distinguishes *representational* from *psychological* closure. We may be able to represent what would count as a solution while remaining unable to grasp it when presented—as a rat might represent "the prime numbers" as "the set mathematicians study" without identifying which numbers those are. Kriegel's argument cuts against naive mysterianism but not sophisticated versions.
+Kriegel challenges [[mysterianism]] as *incoherent*: questions are individuated by the statements that would answer them, so to pose a question is already to have the conceptual resources for potential answers. But Demircioglu distinguishes *representational* from *psychological* closure. We may be able to represent what would count as a solution while remaining unable to grasp it when presented—as a rat might represent "the prime numbers" as "the set mathematicians study" without identifying which numbers those are. Kriegel's argument cuts against naive mysterianism but not sophisticated versions. The [[closure-types-void|closure-types void]] develops this distinction into a second-order limit: the two readings separate cleanly in theory, but from within a mind no reliable procedure distinguishes which type one is facing.
 
 Empirical metacognition research adds pressure. If our tools for assessing cognitive reach are themselves calibrated by that reach, systematic overconfidence is predictable. Optimism about eventually solving the hard problem may reflect architectural bias rather than warranted expectation.
 
@@ -155,6 +156,7 @@ A convincing solution to the hard problem would demonstrate that at least some a
 - [[epistemological-limits-occams-razor|Epistemological Limits of Occam's Razor]] — A concrete instance of limits undermining a reasoning tool
 - [[epistemology-of-limit-knowledge]] — The systematic account of what kind of knowledge limit-claims are and what methods produce them
 - [[psychedelics-and-the-filter-model#Where the Accounts Could Diverge|Psychedelics and the Filter Model]] — The dissolved-vs-persistent diagnostic applied prospectively to the filter-theory/entropic-brain dispute
+- [[closure-types-void|The Closure-Types Void]] — The representational/psychological distinction formalised, plus the second-order void behind it
 
 ## References
 
