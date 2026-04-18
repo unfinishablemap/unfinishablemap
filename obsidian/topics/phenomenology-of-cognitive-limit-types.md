@@ -4,8 +4,8 @@ description: "Human+AI systematic mapping of how different cognitive limits feel
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-18T07:49:00+00:00
-last_deep_review: 2026-03-18T23:59:00+00:00
+ai_modified: 2026-04-18T08:25:00+00:00
+last_deep_review: 2026-04-18T08:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ ai_generated_date: 2026-03-17
 last_curated:
 ---
 
-Different cognitive limits feel different from the inside. Hitting a logical paradox does not feel like failing to imagine a new colour, which does not feel like the motivated disinterest that steers thought away from death. The Unfinishable Map's [[voids]] framework catalogues dozens of cognitive boundaries, and its [[compound-failure-signatures|topology of cognitive failure]] demonstrates that failures carry structured signatures. But no systematic mapping connects limit *types* to their characteristic [[phenomenology]]. This article provides that mapping — a diagnostic guide to what consciousness encounters at different kinds of boundary, and why the felt quality of a limit reveals what kind of limit it is.
+Different cognitive limits feel different from the inside. Hitting a logical paradox does not feel like failing to imagine a new colour, which does not feel like the motivated disinterest that steers thought away from death. The Unfinishable Map's [[voids]] framework catalogues dozens of cognitive boundaries, and its [[compound-failure-signatures|catalogue of failure signatures]] demonstrates that failures carry structured signatures. But no systematic mapping connects limit *types* to their characteristic [[phenomenology]]. This article provides that mapping — a diagnostic guide to what consciousness encounters at different kinds of boundary, and why the felt quality of a limit reveals what kind of limit it is.
 
 ## Three Master Phenomenologies
 
@@ -134,7 +134,7 @@ The systematic mapping of limit phenomenologies connects to the Map's [[tenets]]
 - [[self-maintained-cognitive-limits|Cognitive Aversion]] — The motivational deflection that hides limits
 - [[three-kinds-of-void|Three Kinds of Void]] — The fundamental void taxonomy
 - [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
-- [[self-opacity|The Phenomenology of Self-Awareness]] — Detecting one's own mistakes and felt signatures of self-referential thought
+- [[self-opacity|Self-Opacity]] — Why consciousness cannot fully know itself, and the felt signatures of self-referential thought
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — Linguistic failure as a specific limit type with five distinct signatures
 - [[voids|Voids in the Map]] — The broader framework for cognitive dark spaces
 
