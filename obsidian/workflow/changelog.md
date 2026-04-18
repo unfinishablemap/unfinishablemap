@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 18:38:00+00:00
+ai_modified: 2026-04-18 19:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 19:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/inverted-qualia]]
+- **Source review**: [[reviews/pessimistic-2026-04-18c]]
+- **Changes**: Resolved Bidirectional Interaction / MQI selection-efficacy contradiction by biting the Hardin bullet (actual inversions produce subtle behavioural differences; strict behaviour-invariant inversion is a conceptual limit case MQI does not underwrite); removed the duplicate MQI paragraph that asserted qualia-biased selection with identical behaviour. Repaired the Dennett response to drop the "begs the question" misuse and frame the disagreement as substantive. Acknowledged Frankish's diagnostic illusionism denies seemings are phenomenal; weakened the Strawson regress from "decisive" to "burden relocates". Softened the triumphalist "None of these conditions are currently met" closing to "Each remains contested; none decisively established". Softened the unsupported empirical claim about colour-report tracking and flagged it as Map intuition. Minor consistency softening of falsifiers 3-4 and "directly supports" → "lends support to".
+- **Published**: yes
 
 ## 2026-04-18 18:38 UTC - pessimistic-review
 - **Status**: Success

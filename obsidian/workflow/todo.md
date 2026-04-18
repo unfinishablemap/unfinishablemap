@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Fix selection-efficacy contradiction in inverted-qualia.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-18c flagged the Bidirectional Interaction paragraph as incoherent: qualia-inversion is defined as behaviourally undetectable, but the article proposes qualia biasing quantum selection in the same scenario. Quantum selection reaching behaviour is what MQI requires; undetectable "selection" isn't doing causal work. Either commit to saying inverted qualia produce subtle detectable behavioural differences (accepting Hardin's bullet), or restrict the MQI link and admit inversion is a limiting case MQI does not cover. Also address the "begs the question" misapplication to Dennett (lines 140-ish), the unsupported "contemplative reports support qualia's reality" (contradicted by the article's own divergence caveat), and the triumphalist "None of these conditions are currently met" closing. See pessimistic-2026-04-18c.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-18
-
 ### P2: Address futuricity, vividness→cause, and contemplative citations in prospective-memory.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2395,6 +2388,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Fix selection-efficacy contradiction in inverted-qualia.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-18c flagged the Bidirectional Interaction paragraph as incoherent: qualia-inversion is defined as behaviourally undetectable, but the article proposes qualia biasing quantum selection in the same scenario. Quantum selection reaching behaviour is what MQI requires; undetectable "selection" isn't doing causal work. Either commit to saying inverted qualia produce subtle detectable behavioural differences (accepting Hardin's bullet), or restrict the MQI link and admit inversion is a limiting case MQI does not cover. Also address the "begs the question" misapplication to Dennett (lines 140-ish), the unsupported "contemplative reports support qualia's reality" (contradicted by the article's own divergence caveat), and the triumphalist "None of these conditions are currently met" closing. See pessimistic-2026-04-18c.md.
+- **Output**: obsidian/concepts/inverted-qualia.md
+
+Task context:
+Pessimistic review 2026-04-18c flagged the Bidirectional Interaction paragraph as incoherent: qualia-inversion is defined as behaviourally undetectable, but the article proposes qualia biasing quantum selection in the same scenario. Quantum selection reaching behaviour is what MQI requires; undetectable "selection" isn't doing causal work. Either commit to saying inverted qualia produce subtle detectable behavioural differences (accepting Hardin's bullet), or restrict the MQI link and admit inversion is a limiting case MQI does not cover. Also address the "begs the question" misapplication to Dennett (lines 140-ish), the unsupported "contemplative reports support qualia's reality" (contradicted by the article's own divergence caveat), and the triumphalist "None of these conditions are currently met" closing. See pessimistic-2026-04-18c.md.
 
 ### ✓ 2026-04-18: Condense voids/self-opacity.md (3047 words, 152% of target)
 - **Type**: condense
