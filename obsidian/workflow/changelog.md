@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 08:25:00+00:00
+ai_modified: 2026-04-18 08:34:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 08:34 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/william-james-consciousness]]
+- **Context**: The [[reviews/pessimistic-2026-04-18|2026-04-18 pessimistic review]] covered three articles; only two were refined in the subsequent pass. This run addresses the remaining unaddressed issues on the James article — chiefly Issue 4 (radical empiricism vs. filter theory), softening over-strong Jamesian attributions, Stapp's contested status, the anachronistic intro framing, and the MWI/singularity argument.
+- **Changes**:
+  - Intro rewritten per Language Improvements table (dropped "anticipated... by over a century"); now flags the radical-empiricism/filter tension up front.
+  - Expanded "Neutral monism tensions" (Issue 4) from one paragraph to three. Acknowledges the tension as potentially fatal, weighs the organisational reading against James's own "reducing"/"permitting"/"mother-sea" language, cites Perry's biography and the successive-stances reading, and states which side the Map takes (filter theory yes; strongest radical empiricism no).
+  - Softened over-strong Jamesian attributions in intro, Attention section, and Bidirectional Interaction tenet paragraph ("suggests, though does not establish"; "invites, though does not establish").
+  - Marked Stapp's quantum Zeno as "a possible but contested interpretation" in both the Attention section and the Minimal Quantum Interaction tenet paragraph, noting dispute among physicists and absence of experimental distinction from decoherence.
+  - Rewrote No Many Worlds tenet paragraph: stream is singular *from within*, consistent with MWI; the Map's rejection of MWI rests on tenets/indexical identity, not on phenomenology.
+- **Published**: yes
 
 ## 2026-04-18 08:25 UTC - deep-review
 - **Status**: Success (stable; minor display-text fixes only)
