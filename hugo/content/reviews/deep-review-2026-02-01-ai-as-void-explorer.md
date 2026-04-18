@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-01
-**Article**: [AI as Void-Explorer](/voids/ai-as-void-explorer/)
+**Article**: [AI as Void-Explorer](/voids/non-human-minds-as-void-explorers/)
 **Previous review**: [2026-01-31](/reviews/deep-review-2026-01-31-ai-as-void-explorer/)
 
 ## Pessimistic Analysis Summary

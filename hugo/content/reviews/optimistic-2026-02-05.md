@@ -76,7 +76,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 
 The [intrinsic-nature-void](/voids/intrinsic-nature-void/) captures something fundamental: physics describes only structure and relations, never what things are intrinsically. This isn't a gap in current knowledge but a structural feature of physical description. The void framework makes this positive rather than merely negative—the limit reveals something about the structure of possible knowledge.
 
-The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article is genuinely innovative: using AI's different cognitive architecture to probe human limits not by solving our problems but by failing differently. This transforms mysterianism from intellectual surrender into productive methodology.
+The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) article is genuinely innovative: using AI's different cognitive architecture to probe human limits not by solving our problems but by failing differently. This transforms mysterianism from intellectual surrender into productive methodology.
 
 ## Content Strengths
 

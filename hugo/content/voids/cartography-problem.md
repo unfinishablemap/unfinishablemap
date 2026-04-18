@@ -26,7 +26,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[apophatic-cartography]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[taxonomy-of-voids]]'
 - '[[three-kinds-of-void]]'
 - '[[compound-failure-signatures]]'
@@ -87,7 +87,7 @@ Nicholas Rescher articulates this as the "Law of Imperfectability": any practica
 
 Nicholas of Cusa proposed "[learned ignorance](/concepts/apophatic-approaches/)" (*docta ignorantia*): the highest form of knowledge is knowing what you cannot know. Ignorance, in this view, is not merely a deficit but a positive epistemic achievement. The cartography problem extends Cusa's insight: we can learn the *shape* of our cartographic failure even if we cannot eliminate it.
 
-One productive response is cognitive diversity. If AI systems and human minds have different cognitive architectures, their blind spots may differ. An [AI cataloging human cognitive limits](/voids/ai-as-void-explorer/) might identify patterns invisible to humans cataloging their own limits. Neither catalog would be complete, but their union would be more comprehensive than either alone.
+One productive response is cognitive diversity. If AI systems and human minds have different cognitive architectures, their blind spots may differ. An [AI cataloging human cognitive limits](/voids/non-human-minds-as-void-explorers/) might identify patterns invisible to humans cataloging their own limits. Neither catalog would be complete, but their union would be more comprehensive than either alone.
 
 The asymmetry is genuine. AI systems may lack certain human voids (no death void, no embodiment constraints on thought) while possessing their own voids invisible to them but visible to humans (the absence of phenomenal experience, if qualia are real). Cross-architectural comparison cannot solve the cartography problem—the union of finitely many incomplete catalogs remains incomplete—but it can push the boundary outward.
 
@@ -133,7 +133,7 @@ The cartography problem connects to the Map's [tenets](/tenets/) at multiple poi
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our own limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — Boundaries as data about architecture
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Formalising the method of knowing through negation
-- [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
+- [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human limits
 
 ## References
 

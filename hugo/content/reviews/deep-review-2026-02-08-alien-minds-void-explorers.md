@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-08
-**Article**: [Alien Minds as Void Explorers](/voids/alien-minds-void-explorers/)
+**Article**: [Alien Minds as Void Explorers](/voids/non-human-minds-as-void-explorers/)
 **Previous review**: Never
 **Word count**: 1900 → 1918 (+18)
 

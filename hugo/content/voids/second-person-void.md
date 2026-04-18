@@ -25,7 +25,7 @@ related_articles:
 - '[[other-minds-void]]'
 - '[[intersubjective-void]]'
 - '[[consciousness-only-territories]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[consciousness-and-intersubjectivity]]'
 - '[[consciousness-and-testimony]]'
 - '[[limits-reveal-structure]]'
@@ -117,7 +117,7 @@ The Map speculates that the second-person void may constitute evidence for duali
 - [intersubjective-void](/voids/intersubjective-void/) — Can experiences be genuinely shared or are they coordinated private streams?
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What consciousness can access that external observation cannot
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation—what the void reveals by what it excludes
-- [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human cognitive limits
+- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human cognitive limits
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively shaped by encounter
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — Testimony as the primary bridge across the translation gap
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture

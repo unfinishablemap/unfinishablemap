@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-22
-**Article**: [Convergence as Evidence](/voids/convergence-as-evidence/)
+**Article**: [Convergence as Evidence](/voids/voids-as-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

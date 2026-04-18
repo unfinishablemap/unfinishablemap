@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-04-15 15:22:00+00:00
+ai_modified: 2026-04-18 04:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,11 +19,13 @@ description: QBism interprets quantum states as subjective beliefs, not objectiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 11:27:00+00:00
+last_deep_review: 2026-04-18 04:18:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[indexical-void]]'
+- '[[pragmatism-and-qbism]]'
+- '[[pragmatist-quantum-foundations-under-dualism]]'
 title: QBism (Quantum Bayesianism)
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -31,7 +33,7 @@ topics:
 
 QBism (Quantum Bayesianism) is an interpretation of quantum mechanics that treats quantum states as representing an agent's subjective beliefs rather than objective features of reality. Developed primarily by Christopher Fuchs, Carlton Caves, and Rüdiger Schack, QBism dissolves the [measurement-problem](/concepts/measurement-problem/) by denying there was ever an objective wave function to collapse. "Collapse" is simply belief-updating—the agent learns something and revises their expectations.
 
-Fuchs explicitly positioned QBism as furthering Wheeler's [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/) program and its ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) thesis, coining the term "participatory realism" in 2017 to mark the connection.
+Fuchs explicitly positioned QBism as furthering Wheeler's [participatory universe](/topics/wheelers-participatory-universe-and-it-from-bit/) program and its ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) thesis, coining the term "participatory realism" in 2017 to mark the connection. He has also been explicit that QBism's philosophical roots lie in classical American [pragmatism](/concepts/pragmatism/), with William James as "veritable mascot" of the programme. QBism is one member of a broader [pragmatist family in quantum foundations](/topics/pragmatist-quantum-foundations-under-dualism/) (alongside Healey, Brukner-Zeilinger, and Stapp); the [Jamesian genealogy](/topics/pragmatism-and-qbism/) is treated in dedicated detail elsewhere.
 
 For The Unfinishable Map, QBism presents a paradox: it makes agents epistemically central to quantum mechanics yet provides no account of what agents *are*. QBism presupposes that agents have determinate experiences to form beliefs about, treating the source of such experience as given rather than explained. The Map holds that this is precisely what requires explanation.
 
@@ -135,6 +137,8 @@ Despite its limitations, QBism contributes several insights the Map affirms:
 
 ## Further Reading
 
+- [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) — QBism's Jamesian genealogy and the agent-shaped hole, treated in focus
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — QBism situated within the broader pragmatist family (Healey, Brukner-Zeilinger, Stapp), reread under dualism
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Survey of interpretations and their consciousness implications
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — QBism evaluated alongside other interpretations for consciousness compatibility
 - [measurement-problem](/concepts/measurement-problem/) — The puzzle QBism claims to dissolve

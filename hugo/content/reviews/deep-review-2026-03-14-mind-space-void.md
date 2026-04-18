@@ -50,7 +50,7 @@ topics: []
 - Connected self-location problem to [indexical-void](/voids/indexical-void/)
 - Added [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) reference in phenomenology section
 - Changed [mysterianism](/concepts/mysterianism/) link to [cognitive-closure](/concepts/mysterianism/) (more precise concept)
-- Added [ai-as-void-explorer](/voids/ai-as-void-explorer/) connection in AI section
+- Added [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) connection in AI section
 - Expanded Further Reading with three new entries
 - Integrated Perry citation into text
 
@@ -58,7 +58,7 @@ topics: []
 - [indexical-void](/voids/indexical-void/)
 - [cognitive-closure](/concepts/mysterianism/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
-- [ai-as-void-explorer](/voids/ai-as-void-explorer/)
+- [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/)
 
 ## Remaining Items
 

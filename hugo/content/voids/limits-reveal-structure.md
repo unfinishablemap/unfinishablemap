@@ -24,7 +24,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[intrinsic-nature-void]]'
-- '[[questioning-as-evidence]]'
+- '[[voids-as-evidence]]'
 - '[[self-opacity]]'
 - '[[apophatic-approaches]]'
 - '[[thoughts-that-slip-away]]'
@@ -34,7 +34,6 @@ related_articles:
 - '[[decoherence]]'
 - '[[collective-cognitive-limits]]'
 - '[[void-as-ground-of-meaning]]'
-- '[[convergence-as-evidence]]'
 - '[[boundary-and-projection]]'
 title: What the Limits Reveal
 topics:
@@ -75,7 +74,7 @@ The limit is visible from within only through negative evidence: where thought f
 
 These limits also operate collectively. Paradigms, cultures, and social structures develop emergent blind spots—limitations no individual mind would face alone (see [collective-cognitive-limits](/voids/collective-cognitive-limits/)). The shape of *collective* limits may reveal the architecture of collective cognition.
 
-This leads to a meta-level insight: the very *capacity* to conceive of cognitive limits is itself a datum requiring explanation (see [questioning-as-evidence](/voids/questioning-as-evidence/)). That existence produced beings who can ask "what can't I think?" is potentially evidential—the questioning capacity reveals something about the questioner.
+This leads to a meta-level insight: the very *capacity* to conceive of cognitive limits is itself a datum requiring explanation (see [voids-as-evidence](/voids/voids-as-evidence/)). That existence produced beings who can ask "what can't I think?" is potentially evidential—the questioning capacity reveals something about the questioner.
 
 ## Evidence for Structural Limits
 
@@ -146,7 +145,7 @@ The limits-reveal-structure thesis would be undermined if:
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics captures structure but not what underlies it; consciousness as sole window
-- [The Question as Evidence](/voids/questioning-as-evidence/) — The meta-insight: that we can conceive of limits is itself evidential
+- [Voids as Evidence](/voids/voids-as-evidence/) — The meta-insight: that we can conceive of limits is itself evidential, and the catalogue's convergent structure adds cumulative weight
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — The constitutive thesis: limits are preconditions for meaning, not merely obstacles
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [The Self-Reference Paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
@@ -158,7 +157,6 @@ The limits-reveal-structure thesis would be undermined if:
 - [The Habituation Void](/voids/disappearance-voids/) — How familiarity-limits reveal novelty-orientation in consciousness
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
-- [Convergence as Evidence](/voids/convergence-as-evidence/) — How the full catalogue's limits converge into five families and constitute evidence for dualism
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic epistemology of how knowledge about cognitive limits is warranted
 - [Illusionism](/concepts/illusionism/) — The radical challenge that limits are misrepresentations (see Illusionist Challenge section)
 - [Introspection](/concepts/introspection/) — The reliability of first-person access to cognitive architecture

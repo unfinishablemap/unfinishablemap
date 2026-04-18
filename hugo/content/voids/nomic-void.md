@@ -26,7 +26,7 @@ related_articles:
 - '[[emergence-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[biological-cognitive-closure]]'
-- '[[alien-minds-void-explorers]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[framework-void]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 title: The Nomic Void
@@ -102,7 +102,7 @@ Unlike the [computational void](/voids/formal-cognitive-limits/), which is prove
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself—beyond relational description
 - [emergence-void](/voids/emergence-void/) — The gap at every level transition
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
-- [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Non-human perspectives on cognitive space
+- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — AI and hypothetical alien minds as probes of cognitive space
 - [framework-void](/voids/framework-void/) — The circularity of frameworks understanding themselves
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the laws of physics constrain what a deeper bi-aspectual theory would need to explain
 

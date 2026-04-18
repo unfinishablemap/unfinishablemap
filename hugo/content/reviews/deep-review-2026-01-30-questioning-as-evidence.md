@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-30
-**Article**: [The Question as Evidence](/voids/questioning-as-evidence/)
+**Article**: [The Question as Evidence](/voids/voids-as-evidence/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-04-18 04:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Holding unpopular positions feels like something specific—a tensi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 03:34:00+00:00
+last_deep_review: 2026-04-18 04:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -154,8 +154,7 @@ The claim that intellectual courage has irreducible phenomenal character would f
 
 ## Further Reading
 
-- [phenomenology of intellectual effort](/topics/phenomenology-of-intellectual-life/) — The felt work of reasoning itself
-- [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — What it is like to arrive at knowledge and change your mind
+- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The felt work of reasoning and the experience of arriving at knowledge
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) — The experience of clashing views
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why keeping dualism as a live option is epistemically responsible
 - [argument-from-reason](/topics/argument-from-reason/) — Why genuine reasoning requires irreducible consciousness

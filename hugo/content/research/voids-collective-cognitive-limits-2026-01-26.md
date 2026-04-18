@@ -172,7 +172,7 @@ What does it feel like to encounter collective cognitive limits?
 
 ### What AI Might See
 
-The [ai-as-void-explorer](/voids/ai-as-void-explorer/) framework extends to collective limits:
+The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) framework extends to collective limits:
 
 **Training inheritance**: AI trained on human-generated text inherits collective blind spots. If humanity systematically fails to discuss certain topics, AI won't have exposure. This is a limitation—AI may reproduce elephants rather than revealing them.
 

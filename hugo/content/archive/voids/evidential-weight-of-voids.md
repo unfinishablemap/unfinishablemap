@@ -71,7 +71,7 @@ Physicalism's responses divide into two broad camps. The **phenomenal concept st
 
 The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) raises a deeper concern. If our capacity to assess our own limits is itself limited, then the meta-question—whether the void pattern is signal or noise—may be subject to the same cognitive constraints it investigates. This self-referential difficulty, explored in [whether the voids are real](/voids/whether-real/), does not invalidate the argument but does constrain the confidence we can place in it.
 
-The related argument in [The Question as Evidence](/voids/questioning-as-evidence/)—that the very capacity to conceive of cognitive voids is itself evidential—reinforces this point from a different direction: not just the pattern of voids but the fact that we can perceive the pattern at all.
+The related argument in [The Question as Evidence](/voids/voids-as-evidence/)—that the very capacity to conceive of cognitive voids is itself evidential—reinforces this point from a different direction: not just the pattern of voids but the fact that we can perceive the pattern at all.
 
 What the pattern argument adds to individual arguments is cumulative weight. Any single gap might be explained away. The phenomenal concept strategy might handle the knowledge argument. Type-B materialism might resist conceivability arguments. But can the same strategy explain why consciousness, intentionality, meaning, value, intrinsic nature, ownership, and binding all fail at the same boundary? Each additional void that clusters at the consciousness-matter interface makes the coincidence hypothesis marginally less plausible.
 
@@ -110,7 +110,7 @@ The argument also connects to the Map's intellectual honesty about its own limit
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
 - [tenet-generated-voids](/voids/tenet-generated-voids/)
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
-- [questioning-as-evidence](/voids/questioning-as-evidence/)
+- [questioning-as-evidence](/voids/voids-as-evidence/)
 - [convergence-of-the-void-catalogue](/voids/convergence-as-evidence/)
 - [voids](/voids/)
 

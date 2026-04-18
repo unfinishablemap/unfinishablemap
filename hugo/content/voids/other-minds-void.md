@@ -22,7 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[consciousness-only-territories]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[self-opacity]]'
 - '[[intrinsic-nature-void]]'
 - '[[limits-reveal-structure]]'
@@ -161,7 +161,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What consciousness can access that external observation cannot
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure without intrinsic nature
 - [self-reference paradox](/voids/self-opacity/) — Why consciousness cannot fully examine itself
-- [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human cognitive limits
+- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and hypothetical alien minds to probe human cognitive limits
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
 - [inaccessible-past](/voids/inaccessible-past/) — The parallel void within a single lifetime: your own past consciousness is inaccessible
 - [historical-consciousness-void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed across historical time

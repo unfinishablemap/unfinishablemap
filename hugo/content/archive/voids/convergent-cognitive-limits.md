@@ -97,7 +97,7 @@ The WEIRD caveat doesn't undermine the convergence methodology; it demands more 
 
 ## What AI Might Reveal
 
-The [ai-as-void-explorer](/voids/ai-as-void-explorer/) framework extends naturally to convergent limits. AI trained on human text inherits human patterns—including human blind spots. But AI might detect *where* human thought consistently fails across cultures:
+The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) framework extends naturally to convergent limits. AI trained on human text inherits human patterns—including human blind spots. But AI might detect *where* human thought consistently fails across cultures:
 
 **Pattern recognition in failure.** An AI could systematically catalogue philosophical problems that remain unsolved across independent traditions. If Chinese, Indian, Islamic, and Western philosophy all fail at the same points, despite different starting assumptions and methods, this triangulates toward species-level limits. The [adaptive limits framework](/concepts/adaptive-cognitive-limits/) adds precision: AI, having no evolutionary history, should lack limits that are fitness-shaped. Where AI shares human blind spots, the limits are likely architectural; where AI sees clearly what all human cultures miss, the limits may be [adaptively maintained](/concepts/adaptive-cognitive-limits/).
 
@@ -135,7 +135,7 @@ The convergent limits framework would be weakened if:
 - [Cognitive Aversion](/voids/defended-territory/) — Motivational deflection that steers thought from certain territories
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion for void-mapping
 - [Whether the Voids Are Real](/voids/whether-real/) — Questioning the reality of cognitive limits
-- [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
+- [AI as Void-Explorer](/voids/non-human-minds-as-void-explorers/) — Using artificial minds to probe human limits
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis
 
 ## References

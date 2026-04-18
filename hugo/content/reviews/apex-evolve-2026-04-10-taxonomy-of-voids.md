@@ -21,7 +21,7 @@ title: 'Apex Evolve Review: A Taxonomy of Voids'
 
 1. **[compound-failure-signatures](/voids/compound-failure-signatures/)** — Modified 2026-03-24 (+2 days). Deep review and coalescing added: detailed failure signature taxonomy table, infant consciousness as paradigm case of compound failure, probing methods for compound voids, phenomenology-of-cognitive-limit-types reference, "what would challenge this view" section.
 
-2. **[convergence-as-evidence](/voids/convergence-as-evidence/)** — Modified 2026-03-22 (+0 days). Coalesced from two prior articles. Added: five families structure (phenomenal core, self-knowledge, intersubjectivity, cognitive architecture, framework reflexivity), recognition void / inventory blindness, non-convergent outliers, "against premature dissolution" overdetermination argument, epistemology-of-limit-knowledge reference.
+2. **[convergence-as-evidence](/voids/voids-as-evidence/)** — Modified 2026-03-22 (+0 days). Coalesced from two prior articles. Added: five families structure (phenomenal core, self-knowledge, intersubjectivity, cognitive architecture, framework reflexivity), recognition void / inventory blindness, non-convergent outliers, "against premature dissolution" overdetermination argument, epistemology-of-limit-knowledge reference.
 
 ## Pessimistic Review
 

@@ -60,7 +60,7 @@ Thomas Nagel's 1974 argument about what it is like to be a bat crystallised a li
 
 The failure is not one of effort. It is not like struggling with a difficult maths problem, where more work might yield progress. When you try to imagine bat sonar experience, the mind substitutes something from its own palette—perhaps a dim visual scene or a tactile sense of space—and labels it "sonar." The gap between label and content is the void. What fills your imagination is human experience wearing a bat costume.
 
-This extends beyond exotic cases. The [synesthetic-void](/voids/synesthetic-void/) demonstrates that even between humans, phenomenal access varies. Synesthetes report "Martian colours" that non-synesthetes cannot imagine—not because non-synesthetes lack effort but because they lack the experiential dimension. The [alien minds void](/voids/alien-minds-void-explorers/) generalises further: any mind with a sufficiently different sensory architecture inhabits phenomenal territory that our imagination cannot reach.
+This extends beyond exotic cases. The [synesthetic-void](/voids/synesthetic-void/) demonstrates that even between humans, phenomenal access varies. Synesthetes report "Martian colours" that non-synesthetes cannot imagine—not because non-synesthetes lack effort but because they lack the experiential dimension. The [alien minds void](/voids/non-human-minds-as-void-explorers/) generalises further: any mind with a sufficiently different sensory architecture inhabits phenomenal territory that our imagination cannot reach.
 
 ## The Architecture of Failure
 
@@ -127,7 +127,7 @@ From a dualist perspective, the question is whether AI has *any* imaginative acc
 - [creativity-void](/voids/imagination-and-creativity-void/) — Where creative insight emerges from beyond conscious observation
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — The experience of encountering formally unthinkable content
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds
-- [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether radically different minds can probe our void
+- [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether radically different minds can probe our void
 - [scale-void](/voids/scale-void/) — Where cognitive architecture fails at extreme magnitudes
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Modes of knowing that conceptual thought cannot access
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Whether some concepts are permanently inaccessible

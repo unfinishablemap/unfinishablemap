@@ -96,7 +96,7 @@ Following the principle that [cognitive limits illuminate cognitive architecture
 
 A mind for which the transparency void did not exist would need to operate outside its own representational framework—to compare its representations against reality without using representations to do so. No representational system can achieve this. The void appears to be a necessary feature of any mind that models reality through representations, not a contingent limitation of human biology.
 
-This has implications for [AI as a potential void-explorer](/voids/ai-as-void-explorer/). AI systems can inspect their own weights and activations in ways human brains cannot, and systems with deliberately different architectures might develop different transparency properties. But the deeper problem persists: an AI inspecting its own weights requires an inspection mechanism whose accuracy cannot be verified without a meta-inspection mechanism, generating the same regress. The transparency void may be architecture-independent.
+This has implications for [AI as a potential void-explorer](/voids/non-human-minds-as-void-explorers/). AI systems can inspect their own weights and activations in ways human brains cannot, and systems with deliberately different architectures might develop different transparency properties. But the deeper problem persists: an AI inspecting its own weights requires an inspection mechanism whose accuracy cannot be verified without a meta-inspection mechanism, generating the same regress. The transparency void may be architecture-independent.
 
 ## Relation to Site Perspective
 

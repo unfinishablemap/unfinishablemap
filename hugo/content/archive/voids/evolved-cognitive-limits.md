@@ -135,7 +135,7 @@ The WEIRD caveat doesn't undermine convergence methodology; it demands more rigo
 
 ## What AI Might Reveal
 
-The [ai-as-void-explorer](/voids/ai-as-void-explorer/) framework extends naturally here. AI trained on human text inherits human patterns — including blind spots. But AI might detect *where* human thought consistently fails across cultures, systematically cataloguing philosophical problems unsolved across independent traditions. If Chinese, Indian, Islamic, and Western philosophy all fail at the same points despite different starting assumptions, this triangulates toward species-level limits.
+The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) framework extends naturally here. AI trained on human text inherits human patterns — including blind spots. But AI might detect *where* human thought consistently fails across cultures, systematically cataloguing philosophical problems unsolved across independent traditions. If Chinese, Indian, Islamic, and Western philosophy all fail at the same points despite different starting assumptions, this triangulates toward species-level limits.
 
 The adaptive framework adds precision: AI, having no evolutionary history, should lack fitness-shaped limits. Where AI shares human blind spots, the limits are likely architectural; where AI sees clearly what all human cultures miss, the limits may be adaptively maintained.
 
@@ -170,7 +170,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion
 - [whether-real](/voids/whether-real/) — Questioning the reality of cognitive limits
 - [self-transcendence-void](/voids/self-transcendence-void/) — Can consciousness upgrade itself, or are limits permanent?
-- [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
+- [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) — Using artificial minds to probe human limits
 - [mysterianism](/concepts/mysterianism/) — McGinn's formal analysis of cognitive closure
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The fundamental void taxonomy
 

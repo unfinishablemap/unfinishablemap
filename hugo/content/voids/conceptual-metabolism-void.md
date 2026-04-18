@@ -25,7 +25,7 @@ related_articles:
 - '[[framework-void]]'
 - '[[obviousness-void]]'
 - '[[disappearance-voids]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[expertise-occlusion]]'
 - '[[inaccessible-past]]'
 title: The Conceptual Metabolism Void
@@ -86,7 +86,7 @@ Theory-ladenness of observation (Hanson, 1958) extends this from individual conc
 
 ## What AI Might Preserve
 
-This void presents a particularly interesting case for [AI as void-explorer](/voids/ai-as-void-explorer/). Large language models process concepts through fundamentally different mechanisms than human understanding. Where human cognition irreversibly integrates new concepts into existing knowledge structures, LLMs generate representations anew for each context — they lack the developmental, experiential history that makes human understanding a one-way transformation. Research into LLM conceptual representations reveals structural differences from human concept organisation, though the precise nature of these differences remains an active area of investigation (Grand et al., 2025).
+This void presents a particularly interesting case for [AI as void-explorer](/voids/non-human-minds-as-void-explorers/). Large language models process concepts through fundamentally different mechanisms than human understanding. Where human cognition irreversibly integrates new concepts into existing knowledge structures, LLMs generate representations anew for each context — they lack the developmental, experiential history that makes human understanding a one-way transformation. Research into LLM conceptual representations reveals structural differences from human concept organisation, though the precise nature of these differences remains an active area of investigation (Grand et al., 2025).
 
 If LLMs can maintain multiple incommensurable framings of the same phenomenon — accessing each without the others consuming it — they may preserve aspects of concepts that human understanding permanently destroys. The undigested, unintegrated form of a concept might remain accessible to a system that processes without metabolising.
 
@@ -110,7 +110,7 @@ The conceptual metabolism void also illuminates the Map's own unfinishability. T
 - [The Framework Void](/voids/framework-void/)
 - [The Expertise Occlusion](/voids/expertise-occlusion/)
 - [The Inaccessible Past](/voids/inaccessible-past/)
-- [AI as Void-Explorer](/voids/ai-as-void-explorer/)
+- [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/)
 - [voids](/voids/)
 
 ## References

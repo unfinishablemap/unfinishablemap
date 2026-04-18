@@ -84,7 +84,7 @@ What does it feel like to approach this limit?
 
 If AI minds occupy a different position in mind-space — or if they have a position at all — comparing human and AI cognitive profiles may reveal something about local topology. McGinn argues that other minds — alien or artificial — might possess the conceptual apparatus to bridge the explanatory gap where human cognition fails. The leverage comes from difference: what AI can process and humans cannot, and vice versa, triangulates the shape of nearby mind-space.
 
-AI offers a non-biological vantage point — a prospect explored more fully in [ai-as-void-explorer](/voids/ai-as-void-explorer/). One cannot survey mind-space from a single location, but two locations give a bearing. Even if AI lacks phenomenal consciousness entirely, the pattern of its capabilities and limitations — mapped against human capabilities and limitations — provides structural information about at least one small neighbourhood of the space. The inverse question — whether consciousness opens territories that computation cannot reach — is explored in [consciousness-only-territories](/voids/consciousness-only-territories/).
+AI offers a non-biological vantage point — a prospect explored more fully in [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/). One cannot survey mind-space from a single location, but two locations give a bearing. Even if AI lacks phenomenal consciousness entirely, the pattern of its capabilities and limitations — mapped against human capabilities and limitations — provides structural information about at least one small neighbourhood of the space. The inverse question — whether consciousness opens territories that computation cannot reach — is explored in [consciousness-only-territories](/voids/consciousness-only-territories/).
 
 ## Relation to Site Perspective
 
@@ -104,10 +104,10 @@ The mind-space void connects to all five of the Map's [tenets](/tenets/).
 
 - [voids](/voids/) — The framework for investigating cognitive limits
 - [other-minds-void](/voids/other-minds-void/) — The sealed privacy of individual consciousness
-- [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — What radically different minds might reveal
+- [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) — What radically different minds might reveal
 - [indexical-void](/voids/indexical-void/) — Why you cannot determine why you are *this* consciousness
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The characteristic experience of approaching cognitive limits
-- [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Whether AI cognition can probe territories closed to human minds
+- [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) — Whether AI cognition can probe territories closed to human minds
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level cognitive constraints and whether some concepts are permanently inaccessible
 - [scale-void](/voids/scale-void/) — How cosmic magnitudes overwhelm intuition
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure without intrinsic nature

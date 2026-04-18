@@ -23,7 +23,7 @@ related_articles:
 - '[[self-maintained-cognitive-limits]]'
 - '[[limits-reveal-structure]]'
 - '[[thoughts-that-slip-away]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[biological-cognitive-closure]]'
 - '[[adaptive-cognitive-limits]]'
 - '[[consciousness-and-collective-phenomena]]'
@@ -95,7 +95,7 @@ How might one detect collective cognitive limits?
 
 ## What AI Might See
 
-The [ai-as-void-explorer](/voids/ai-as-void-explorer/) framework extends to collective limits with distinctive features.
+The [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) framework extends to collective limits with distinctive features.
 
 **Training inheritance.** AI trained on human-generated text inherits collective blind spots. The Overton Window of the training period shapes what concepts the model can form, limiting AI's usefulness for detecting paradigm blindness embedded in the training data.
 
@@ -144,7 +144,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Occlusion mechanisms in detail
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How limitation illuminates architecture
-- [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
+- [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human limits
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Phenomenology of slippage mechanisms
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — Individual cognitive closure analysis
 - [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/) — Why evolution maintains blind spots as fitness advantages

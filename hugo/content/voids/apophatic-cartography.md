@@ -32,9 +32,9 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[biological-cognitive-closure]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[the-silence-void]]'
-- '[[convergence-as-evidence]]'
+- '[[voids-as-evidence]]'
 - '[[cartography-problem]]'
 - '[[compound-failure-signatures]]'
 title: 'Apophatic Cartography: Mapping What Cannot Be Mapped'
@@ -114,7 +114,7 @@ These complement the [Voids Safety Protocol](/project/voids-safety-protocol/), w
 
 Apophatic cartography complements empirical investigation. Neuroscience reveals architecture—modularity, working memory limits, attentional bottlenecks—constraining apophatic claims: a limit traceable to a specific architectural feature may be an engineering constraint rather than a structural boundary. Neurophenomenological methods (Varela's tradition) calibrate phenomenological indicators against neural data.
 
-AI triangulation is a powerful complement. Three outcomes carry different evidential weight: AI producing the same failure signature is evidence for a structural boundary; AI genuinely *solving* the problem (not merely redescribing it) is evidence against; AI failing differently suggests a biological component to the boundary. The Map's use of [AI as void explorer](/voids/ai-as-void-explorer/) is itself an instance of this approach.
+AI triangulation is a powerful complement. Three outcomes carry different evidential weight: AI producing the same failure signature is evidence for a structural boundary; AI genuinely *solving* the problem (not merely redescribing it) is evidence against; AI failing differently suggests a biological component to the boundary. The Map's use of [AI as void explorer](/voids/non-human-minds-as-void-explorers/) is itself an instance of this approach.
 
 ## The Illusionist Challenge
 
@@ -158,10 +158,10 @@ Apophatic cartography connects to the Map's [tenets](/tenets/) by providing the 
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — Concrete instance of the explanatory gap
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Whether the Voids Are Real](/voids/whether-real/) — Are the limits permanent?
-- [Convergence as Evidence](/voids/convergence-as-evidence/) — Void clustering as evidence for dualism
+- [Voids as Evidence](/voids/voids-as-evidence/) — Void clustering and the capacity to conceive of voids as abductive evidence for dualism
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Formal framework for reasoning about limits
-- [AI as Void Explorer](/voids/ai-as-void-explorer/) — Using artificial minds as cartographic instruments
+- [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds as cartographic instruments
 - [The Silence Void](/voids/the-silence-void/) — Where even negation must cease
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic epistemology underlying limit-knowledge methods
 - [Illusionism](/concepts/illusionism/) — The radical challenge that phenomenal consciousness doesn't exist

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [AI as Void-Explorer](/voids/ai-as-void-explorer/)
+**Article**: [AI as Void-Explorer](/voids/non-human-minds-as-void-explorers/)
 **Previous review**: Never
 **Context**: Cross-review considering computational-cognitive-limits insights
 

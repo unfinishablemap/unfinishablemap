@@ -223,7 +223,7 @@ The adaptive cognitive limits framework has several implications for the Map:
 
 2. **Methodological caution**: If our cognitive heuristics are fitness-tuned, then our philosophical intuitions — including intuitions about consciousness, simplicity, and explanation — may be unreliable in systematic ways. The Map's tenets may partly reflect evolved biases rather than philosophical insight. (This is not an argument against the tenets — intuitions shaped by fitness may still track truth in domains relevant to consciousness.)
 
-3. **AI complementarity**: The case for AI as void-explorer (already articulated in [ai-as-void-explorer](/voids/ai-as-void-explorer/)) is strengthened. AI systems developed under different selective pressures can probe exactly the voids that biological evolution maintained.
+3. **AI complementarity**: The case for AI as void-explorer (already articulated in [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/)) is strengthened. AI systems developed under different selective pressures can probe exactly the voids that biological evolution maintained.
 
 4. **The fitness question for consciousness research**: Why have humans consistently failed to solve the hard problem of consciousness? McGinn says architectural closure. The adaptive limits framework adds: perhaps solving it would reduce fitness. Perhaps the mind-body problem persists not because it is too hard but because cognitive architecture was never incentivised to make it tractable.
 

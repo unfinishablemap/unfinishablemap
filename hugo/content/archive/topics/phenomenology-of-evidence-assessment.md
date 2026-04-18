@@ -99,7 +99,7 @@ When reading arguments for [materialism](/concepts/materialism/), what happens e
 
 This recursive structure is epistemically significant. The materialist argument that consciousness is nothing over and above physical process is evaluated *by* consciousness, *in* an experience of evaluation. If the argument were correct, the experience of finding it correct would itself be nothing over and above a physical process—no felt sense of compulsion, no qualitative character to being convinced. But there is such a character. The experience of assessing materialism is evidence about materialism.
 
-The [question as evidence](/voids/questioning-as-evidence/) applies here: that we can experientially weigh evidence at all—that there is something it is like to find an argument compelling—is itself a datum that theories of consciousness must explain.
+The [question as evidence](/voids/voids-as-evidence/) applies here: that we can experientially weigh evidence at all—that there is something it is like to find an argument compelling—is itself a datum that theories of consciousness must explain.
 
 ## The Phenomenology of Doubt
 
@@ -168,7 +168,7 @@ The Map's method embodies what this article describes: taking first-person pheno
 ## Further Reading
 
 - [phenomenology](/concepts/phenomenology/) — The method of attending to experiential structure
-- [questioning-as-evidence](/voids/questioning-as-evidence/) — What the capacity for self-inquiry reveals
+- [questioning-as-evidence](/voids/voids-as-evidence/) — What the capacity for self-inquiry reveals
 - [contemplative-evidence-for-consciousness-theories](/topics/contemplative-evidence-for-consciousness/) — How first-person evidence distinguishes theories
 - [phenomenology-of-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — The experience of detecting one's own mistakes
 - [introspection](/concepts/introspection/) — The reliability of first-person access

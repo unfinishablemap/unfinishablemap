@@ -21,7 +21,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[convergence-as-evidence]]'
+- '[[voids-as-evidence]]'
 - '[[compound-failure-signatures]]'
 - '[[limits-reveal-structure]]'
 - '[[apophatic-approaches]]'
@@ -62,7 +62,7 @@ Failure analysis produces **diagnostic knowledge**: if attempts to explain consc
 
 ### Convergence
 
-When multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience, phenomenology—encounter the same boundary, the convergence provides evidence that the boundary is real rather than an artefact of any single method. [The void catalogue's organisation into families](/voids/convergence-as-evidence/) sharing structural logic demonstrates this: over a hundred independently motivated entries cluster around the consciousness-physics interface.
+When multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience, phenomenology—encounter the same boundary, the convergence provides evidence that the boundary is real rather than an artefact of any single method. [The void catalogue's organisation into families](/voids/voids-as-evidence/) sharing structural logic demonstrates this: over a hundred independently motivated entries cluster around the consciousness-physics interface.
 
 Convergence produces **triangulation knowledge**: the boundary's location is fixed by multiple independent bearings, each fallible individually but jointly constraining.
 
@@ -118,7 +118,7 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 
 - [cognitive closure](/concepts/mysterianism/) — The thesis that limit-knowledge is about
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The deeper question of whether limits are genuine or designed
-- [convergence-as-evidence](/voids/convergence-as-evidence/) — The convergence method applied to the void catalogue
+- [voids-as-evidence](/voids/voids-as-evidence/) — The convergence method applied to the void catalogue
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — The failure analysis method systematised
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — The structural inference method in action
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The apophatic method's philosophical roots

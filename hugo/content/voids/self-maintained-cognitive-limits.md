@@ -42,7 +42,7 @@ related_articles:
 - '[[compound-failure-signatures]]'
 - '[[adaptive-cognitive-limits]]'
 - '[[altered-states-as-void-probes]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[death-void]]'
 - '[[death-and-consciousness]]'
 - '[[appetitive-void]]'
@@ -213,7 +213,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural limits (architectural occlusion)
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge
 - [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/) — Why evolution maintains blind spots
-- [AI as Void Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human cognitive limits
+- [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human cognitive limits
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation as a probing method
 
 ## References

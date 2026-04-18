@@ -66,7 +66,7 @@ The voids framework represents a genuinely novel philosophical contribution. Rat
 
 The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically sophisticated. The voids articles explore specific cognitive dark spaces with rigor: [the-unobservable-self](/voids/self-reference-paradox/), [pre-conceptual-knowing](/voids/pre-conceptual-knowing/), [consciousness-only-territories](/voids/consciousness-only-territories/), [causal-interface](/voids/causal-interface/). The recognition that different void types have different epistemic structures advances mysterianism beyond mere hand-waving.
 
-The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article innovatively proposes using AI's different cognitive architecture to probe human limits—not by solving our problems but by failing differently. This is productive mysterianism rather than intellectual surrender.
+The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) article innovatively proposes using AI's different cognitive architecture to probe human limits—not by solving our problems but by failing differently. This is productive mysterianism rather than intellectual surrender.
 
 ## Content Strengths
 

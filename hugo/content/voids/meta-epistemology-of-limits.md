@@ -33,7 +33,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[convergence-as-evidence]]'
+- '[[voids-as-evidence]]'
 - '[[biological-cognitive-closure]]'
 - '[[compound-failure-signatures]]'
 - '[[self-maintained-cognitive-limits]]'
@@ -111,9 +111,9 @@ How would we distinguish natural from designed limits, or genuine from merely ap
 
 **Structural analysis**: Natural limits should be general—following from the mathematics of information processing. Designed limits might be specific—targeting particular content while leaving structurally similar content accessible. A limit specifically on understanding consciousness would be more suspicious than a general computational ceiling. But our sense of what counts as "structural" versus "purposive" might itself be shaped by design.
 
-**Cross-architecture comparison**: Different mind types might fail at different points. Where human cognition fails but AI succeeds (or vice versa), the asymmetry might reveal architecture-specific constraints. The [AI as void-explorer](/voids/ai-as-void-explorer/) framework explores this approach. Yet current AI systems, trained on human text, largely inherit human categories and blind spots.
+**Cross-architecture comparison**: Different mind types might fail at different points. Where human cognition fails but AI succeeds (or vice versa), the asymmetry might reveal architecture-specific constraints. The [AI as void-explorer](/voids/non-human-minds-as-void-explorers/) framework explores this approach. Yet current AI systems, trained on human text, largely inherit human categories and blind spots.
 
-**Convergence as weak evidence**: If multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure. The hard problem has resisted sustained attack across centuries and cultures. But convergence is only weak evidence—a point explored systematically in [the evidential weight of voids](/voids/convergence-as-evidence/). All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality.
+**Convergence as weak evidence**: If multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure. The hard problem has resisted sustained attack across centuries and cultures. But convergence is only weak evidence—a point explored systematically in [the evidential weight of voids](/voids/voids-as-evidence/). All human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality.
 
 The recursive problem is inescapable: every detection method operates within cognitive architecture that might be constrained. If you cannot trust your tools, you cannot trust what your tools find.
 

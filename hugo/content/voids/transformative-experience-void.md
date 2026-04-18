@@ -1,19 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-17 22:40:00+00:00
+ai_modified: 2026-04-18 03:19:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[qualia]]'
 - '[[acquaintance-knowledge]]'
 created: 2026-04-17
-date: &id001 2026-04-17
+date: &id001 2026-04-18
 description: Human+AI exploration of the cognitive void opened by choices whose outcomes
   cannot be evaluated from the perspective in which the choice must be made.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-18 03:19:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -22,7 +23,7 @@ related_articles:
 - '[[acquaintance-void]]'
 - '[[counterfactual-void]]'
 - '[[indexical-void]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[framework-void]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[self-opacity]]'
@@ -41,7 +42,7 @@ L. A. Paul's *Transformative Experience* (Oxford, 2014) identifies two features 
 
 Paul's central claim is that these features combine in a class of choices where neither the phenomenal character of the outcome nor the preferences of the post-choice agent are accessible to the agent who must choose. Assessing what it would be like to become a parent, Paul argues, is in principle not possible while reaching the "epistemic gold standard" orthodox decision theory requires. Transformative choices violate the rational-agent model's stable-preferences and accessible-outcome assumptions at the axiom level, not as measurement difficulty.
 
-Paul's positive proposal reframes such choices as decisions about whether to make **discoveries** about the intrinsic nature of experience. Rather than weighing expected outcome values one cannot know, the agent weighs the *revelatory value* of undergoing the transformation. The question "do I wish to discover this?" is one the pre-transformation self can answer, even when the outcome-evaluation question cannot be.
+Paul's positive proposal reframes such choices as decisions about whether to undergo **revelations** about the intrinsic nature of experience. Rather than weighing expected outcome values one cannot know, the agent weighs the *revelatory value* of undergoing the transformation. The question "do I wish to discover this?" is one the pre-transformation self can answer, even when the outcome-evaluation question cannot be.
 
 Paul also introduces an **authenticity constraint**, writing that "part of the value of living authentically is to experience one's life and preferences in whatever way they may evolve in the wake of the choices one makes" (Paul 2015). If the decision procedure alienates the agent from the decision — by outsourcing the choice to testimony or statistical aggregates — something essential is lost, even if the procedure produces a determinate output.
 
@@ -94,7 +95,7 @@ Artificial systems face this void differently than humans, and the asymmetry is 
 
 An AI trained on extensive first-person human accounts of parenthood, grief, and conversion may have more articulate propositional access to the *reports* of transformative experience than most individual humans do. If the Map's [dualist tenet](/tenets/) is correct, this propositional fluency does not cross the phenomenal gap. The AI can describe the shape of transformative choices without inhabiting any of them.
 
-This makes AI systems well-positioned as [void explorers](/voids/ai-as-void-explorer/) for the transformative case: useful for mapping structural features (which identity dimensions are at stake, which decision procedures preserve or compromise authenticity, which empirical patterns govern post-transformation adaptation) without any pretence of delivering the inaccessible phenomenal content. The limit this imposes on AI decision-support is principled rather than contingent — an AI cannot make a transformative decision on a user's behalf because the decision is constitutively tied to the first-personal self who will undergo the transformation. Outsourcing the choice replaces it with a different kind of choice, made by a different kind of agent.
+This makes AI systems well-positioned as [void explorers](/voids/non-human-minds-as-void-explorers/) for the transformative case: useful for mapping structural features (which identity dimensions are at stake, which decision procedures preserve or compromise authenticity, which empirical patterns govern post-transformation adaptation) without any pretence of delivering the inaccessible phenomenal content. The limit this imposes on AI decision-support is principled rather than contingent — an AI cannot make a transformative decision on a user's behalf because the decision is constitutively tied to the first-personal self who will undergo the transformation. Outsourcing the choice replaces it with a different kind of choice, made by a different kind of agent.
 
 ## Relation to Site Perspective
 
@@ -102,7 +103,7 @@ The transformative experience void connects most directly to the Map's **Dualism
 
 The void also engages **Occam's Razor Has Limits**. Standard decision theory is elegant, and its simplicity is precisely its appeal. The transformative case reveals a class of real human choices that simplicity mishandles. The Map reads this as a characteristic pattern: parsimony becomes unreliable when the domain's essential features include phenomenal character, identity-dependent preferences, and first-personal standpoints that the simpler framework has no resources to represent.
 
-**No Many Worlds** enters less directly but not trivially. The transformation produces *this* future self, not a distribution of possible future selves to be averaged over. The Map takes indexical identity seriously (see [indexical-void](/voids/indexical-void/)): the question of which self emerges from the transformation is not resolved by considering all branches equally real. Pettigrew-style aggregation strategies implicitly lean on a many-selves averaging that the Map's indexical commitments would reject even if the decision-theoretic problems were otherwise soluble.
+**No Many Worlds** enters less directly but not trivially. The transformation produces *this* future self, not a distribution of possible future selves to be averaged over. The Map takes indexical identity seriously (see [indexical-void](/voids/indexical-void/)): the question of which self emerges from the transformation is not resolved by considering all branches equally real. Pettigrew-style aggregation treats future selves as a distribution to average across; the Map reads this as structurally analogous to many-worlds averaging — both abstract away from the indexically singular self the agent will become — and the indexical commitments that motivate rejecting MWI motivate scepticism of aggregation here too.
 
 Three implications follow. First, the Map's apophatic methodology is vindicated in a domain that matters to ordinary lives: structural mapping and negative description are not second-best strategies for transformative decisions but the only rationally available ones. Second, the voids framework connects to lived experience here in a way abstract voids do not — the choices people already experience as most significant are the ones that encounter genuine cognitive voids. Third, authenticity becomes a void-navigation ethic: the weight shifts from *whether* to choose rationally to *how* one navigates the void — with willingness to discover, without pretending to knowledge one does not have, without alienating the choice from the self who must live its consequences.
 
@@ -115,7 +116,7 @@ Three implications follow. First, the Map's apophatic methodology is vindicated 
 - [counterfactual-void](/voids/counterfactual-void/) — limits on knowing what would have happened otherwise
 - [framework-void](/voids/framework-void/) — when a framework's elegance excludes rather than captures the phenomenon
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — parsimony's failures under incomplete knowledge
-- [ai-as-void-explorer](/voids/ai-as-void-explorer/) — how AI systems can help map voids without inhabiting them
+- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — how AI and alien minds can help map voids without inhabiting them
 
 ## References
 

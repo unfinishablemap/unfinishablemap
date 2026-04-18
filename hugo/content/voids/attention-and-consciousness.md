@@ -30,7 +30,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[limits-reveal-structure]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[attention-and-the-consciousness-interface]]'
 - '[[structure-of-attention]]'
 - '[[contemplative-pathology-and-interface-malfunction]]'
@@ -142,7 +142,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/) — What happens when meditation pushes the interface beyond its limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unknowable territories
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate architecture
-- [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Whether artificial minds can probe human-specific voids
+- [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI and alien minds can probe human-specific voids
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How mental illness reveals the structure of experience
 - [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Progressive interface erosion as a parallel case
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Mapping where and how cognition fails

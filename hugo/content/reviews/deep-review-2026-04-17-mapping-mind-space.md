@@ -72,7 +72,7 @@ None in this review. The article is at soft warning threshold and has converged 
 
 ### Cross-links Verified
 All wikilinks in the article resolve to existing files:
-- `[three-kinds-of-void](/voids/three-kinds-of-void/)`, `[indexical-void](/voids/indexical-void/)`, `[synesthetic-void](/voids/synesthetic-void/)`, `[phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)`, `[framework-void](/voids/framework-void/)`, `[biological-cognitive-closure](/voids/biological-cognitive-closure/)`, `[ai-as-void-explorer](/voids/ai-as-void-explorer/)`, `[consciousness-only-territories](/voids/consciousness-only-territories/)` (voids)
+- `[three-kinds-of-void](/voids/three-kinds-of-void/)`, `[indexical-void](/voids/indexical-void/)`, `[synesthetic-void](/voids/synesthetic-void/)`, `[phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)`, `[framework-void](/voids/framework-void/)`, `[biological-cognitive-closure](/voids/biological-cognitive-closure/)`, `[ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/)`, `[consciousness-only-territories](/voids/consciousness-only-territories/)` (voids)
 - `[mysterianism](/concepts/mysterianism/)`, `[filter-theory](/concepts/filter-theory/)` (concepts)
 - `[tenets](/tenets/)` with anchor references
 

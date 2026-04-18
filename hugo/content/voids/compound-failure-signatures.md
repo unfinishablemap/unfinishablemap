@@ -31,7 +31,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[apophatic-approaches]]'
 - '[[biological-cognitive-closure]]'
-- '[[convergence-as-evidence]]'
+- '[[voids-as-evidence]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[tenet-generated-voids]]'
 - '[[formal-cognitive-limits]]'
@@ -148,7 +148,7 @@ Current evidence supports structured, persistent failure patterns. [Cross-cultur
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared boundaries
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards
-- [Convergence as Evidence](/voids/convergence-as-evidence/) — How voids organise into five families
+- [Voids as Evidence](/voids/voids-as-evidence/) — How voids organise into five families, and how conceiving of voids is itself evidential
 - [The Self-Reference Paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids that emerge from interactions between tenets
 - [infant-consciousness](/voids/infant-consciousness/) — Paradigm case of compound failure

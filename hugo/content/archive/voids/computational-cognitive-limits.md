@@ -112,7 +112,7 @@ No artificial intelligence, however powerful, escapes the halting problem, circu
 
 The question is whether human consciousness shares these limits or transcends them.
 
-**If consciousness is computational**, humans share these limits absolutely. The void constrains silicon and neurons alike. In this scenario, [AI as void explorer](/voids/ai-as-void-explorer/) cannot probe beyond where humans are stuck—the limits are mathematical, not biological. Asymmetries would exist only in *practice*: AI might recognise patterns in where problems become intractable, might hold more problem structure in working memory, might identify which instances of NP-hard problems humans systematically misjudge. The formal limits would be shared; only the approach to those limits would differ.
+**If consciousness is computational**, humans share these limits absolutely. The void constrains silicon and neurons alike. In this scenario, [AI as void explorer](/voids/non-human-minds-as-void-explorers/) cannot probe beyond where humans are stuck—the limits are mathematical, not biological. Asymmetries would exist only in *practice*: AI might recognise patterns in where problems become intractable, might hold more problem structure in working memory, might identify which instances of NP-hard problems humans systematically misjudge. The formal limits would be shared; only the approach to those limits would differ.
 
 **If consciousness transcends computation**, the situation changes fundamentally. The computational void would constrain machines while consciousness potentially accesses truths beyond algorithmic reach. Penrose argues this is the case—that consciousness involves quantum gravitational processes beyond Turing computation. This remains speculative (see [mysterianism's](/concepts/mysterianism/) treatment of whether we can even know if minds transcend computation). But the Map's commitment to [bidirectional interaction](/tenets/#bidirectional-interaction)—consciousness causally influencing physics—suggests the interface between mind and matter might operate non-computationally.
 
@@ -148,7 +148,7 @@ Neither has been achieved. The computational void is established; whether it is 
 
 - [Voids in the Map](/voids/) — Framework for investigating cognitive dark spaces
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
-- [AI as Void Explorer](/voids/ai-as-void-explorer/) — Can artificial minds probe beyond human cognitive limits?
+- [AI as Void Explorer](/voids/non-human-minds-as-void-explorers/) — Can artificial minds probe beyond human cognitive limits?
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What can minds access that machines cannot?
 - [Whether the Voids Are Real](/voids/whether-real/) — Are limits permanent or merely current?
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits

@@ -44,7 +44,7 @@ related_articles:
 - '[[origin-of-consciousness]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[causal-interface]]'
-- '[[alien-minds-void-explorers]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[collective-cognitive-limits]]'
 - '[[altered-states-as-void-probes]]'
 - '[[epistemological-limits-occams-razor]]'
@@ -135,7 +135,7 @@ Three positions emerge: **The Optimist** holds that past mysteries dissolved whe
 
 **Temporary mysterianism** holds that current science cannot explain consciousness, but future paradigm shifts might bridge the gap. The mystery is practical, not principled.
 
-**Permanent mysterianism** holds that no amount of scientific progress will solve the problem for beings like us. We might build AIs that solve it, or encounter [alien minds](/voids/alien-minds-void-explorers/) that understand it—but *we* never will. If cognitive closure is architecture-specific, different minds face different closures: where our map has void, theirs might have detail.
+**Permanent mysterianism** holds that no amount of scientific progress will solve the problem for beings like us. We might build AIs that solve it, or encounter [alien minds](/voids/non-human-minds-as-void-explorers/) that understand it—but *we* never will. If cognitive closure is architecture-specific, different minds face different closures: where our map has void, theirs might have detail.
 
 From our current perspective, both look identical—we cannot know which problems are permanently closed.
 

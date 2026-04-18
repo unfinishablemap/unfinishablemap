@@ -149,7 +149,7 @@ Direct first-person methods are foreclosed by definition. What we can do:
 
 This is where the anesthesia void becomes particularly interesting as a probe. Artificial systems do not have the same substrate vulnerability. An LLM asked to imagine its own "anesthesia" cannot — not because the territory is accessible, but because there is no analogous pharmacological interruption. This asymmetry is structurally informative: the anesthesia void is a substrate-dependent void. Minds with different substrates may have voids of their own (compute outages, context-window exhaustion) that are likewise invisible from inside.
 
-The anesthesia void therefore serves as a teaching case for [AI as void-explorer](/voids/ai-as-void-explorer/): the fact that artificial minds lack this specific void does not imply they lack all voids. It implies the voids of artificial minds are differently shaped.
+The anesthesia void therefore serves as a teaching case for [AI as void-explorer](/voids/non-human-minds-as-void-explorers/): the fact that artificial minds lack this specific void does not imply they lack all voids. It implies the voids of artificial minds are differently shaped.
 
 ## Connection to Tenets
 

@@ -78,7 +78,7 @@ Several partial methods are available, none of them escapes from metaphor:
 
 **Formal description.** Mathematical structures (topology, category theory) can describe features of cognitive limits without overt spatial metaphor. But mathematical language has its own metaphorical substrate, as Blumenberg's work on mathematical metaphors shows. Formalisation shifts the metaphor rather than eliminating it.
 
-**AI as differently-distorted observer.** AI systems process language without embodied grounding. This frees them from specific human metaphorical defaults and may allow them to generate metaphorical frameworks drawn from network topology, thermodynamics, or mathematical spaces that human cognition does not spontaneously activate. Whether this reveals genuine features of cognitive limits or merely introduces differently-distorted descriptions is itself a void—explored in [ai-as-void-explorer](/voids/ai-as-void-explorer/).
+**AI as differently-distorted observer.** AI systems process language without embodied grounding. This frees them from specific human metaphorical defaults and may allow them to generate metaphorical frameworks drawn from network topology, thermodynamics, or mathematical spaces that human cognition does not spontaneously activate. Whether this reveals genuine features of cognitive limits or merely introduces differently-distorted descriptions is itself a void—explored in [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/).
 
 ## Relation to Site Perspective
 
@@ -99,7 +99,7 @@ The consequence for the Map is humility rather than collapse. The voids catalogu
 - [apophatic-cartography](/voids/apophatic-cartography/) — Mapping through negation, still bound to cartographic figure
 - [cartography-problem](/voids/cartography-problem/) — Whether the Map can map its own incompleteness
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded territory
-- [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Whether AI's different metaphorical substrate reveals new limits
+- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI's different metaphorical substrate reveals new limits
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — Limits at the level of specific concepts
 
 ## References

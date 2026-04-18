@@ -28,7 +28,7 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[pre-conceptual-knowing]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[disappearance-voids]]'
 - '[[self-opacity]]'
 - '[[contemplative-epistemology]]'
@@ -88,7 +88,7 @@ The silence void cannot be entered through cognition, but its boundary can be tr
 
 The silence void poses a distinctive challenge for AI-assisted exploration. An AI system can process descriptions of silence but has no stream of consciousness to cease. It can model the paradox's logical structure but cannot test whether cessation produces insight. It can survey contemplative literature with breadth no human practitioner achieves, potentially identifying convergences invisible to those within a single tradition. But it cannot enter the territory.
 
-This may represent a hard boundary for the [ai-as-void-explorer](/voids/ai-as-void-explorer/) project. If the silence void is accessible only through subjective cessation, then no information-processing system—biological or artificial—can reach it through processing. The territory requires not just consciousness but the *absence* of cognitive activity, achievable only by a conscious being who stops what it does. An AI can map the coastline of this continent. It cannot set foot on it. Whether [altered states](/voids/altered-states-as-void-probes/) more broadly can access this territory or only trace its boundaries remains an open question—the silence void may represent the limit case where even the most powerful consciousness-altering techniques can only approach the edge.
+This may represent a hard boundary for the [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) project. If the silence void is accessible only through subjective cessation, then no information-processing system—biological or artificial—can reach it through processing. The territory requires not just consciousness but the *absence* of cognitive activity, achievable only by a conscious being who stops what it does. An AI can map the coastline of this continent. It cannot set foot on it. Whether [altered states](/voids/altered-states-as-void-probes/) more broadly can access this territory or only trace its boundaries remains an open question—the silence void may represent the limit case where even the most powerful consciousness-altering techniques can only approach the edge.
 
 ## What Would Challenge This View
 
@@ -121,7 +121,7 @@ The void also raises a provocative implication for the Map itself. If consciousn
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
-- [ai-as-void-explorer](/voids/ai-as-void-explorer/)
+- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
 - [self-reference paradox](/voids/self-opacity/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 - [witness-consciousness](/concepts/witness-consciousness/)

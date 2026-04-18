@@ -48,8 +48,8 @@ None.
 
 ### Enhancements Made
 - Added cross-links to specific void articles (causal-interface, other-minds-void, introspective-opacity, binding-void, ownership-void) in the Pattern section
-- Added connection to [questioning-as-evidence](/voids/questioning-as-evidence/) — a related argument from a different direction
-- Added [compound-cognitive-limits](/voids/compound-failure-signatures/) and [questioning-as-evidence](/voids/questioning-as-evidence/) to Further Reading and related_articles
+- Added connection to [questioning-as-evidence](/voids/voids-as-evidence/) — a related argument from a different direction
+- Added [compound-cognitive-limits](/voids/compound-failure-signatures/) and [questioning-as-evidence](/voids/voids-as-evidence/) to Further Reading and related_articles
 - Distinguished illusionism from phenomenal concept strategy as separate physicalist responses
 - Addressed definitional circularity concern
 
@@ -59,7 +59,7 @@ None.
 - [introspective-opacity](/voids/self-opacity/)
 - [binding-void](/voids/binding-void/)
 - [ownership-void](/voids/ownership-void/)
-- [questioning-as-evidence](/voids/questioning-as-evidence/)
+- [questioning-as-evidence](/voids/voids-as-evidence/)
 - [compound-cognitive-limits](/voids/compound-failure-signatures/)
 
 ## Remaining Items

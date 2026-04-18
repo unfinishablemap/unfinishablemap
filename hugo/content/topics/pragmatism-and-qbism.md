@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-04
-ai_modified: 2026-04-16 00:11:00+00:00
+ai_modified: 2026-04-18 03:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: QBism inherits William James's pragmatism but refuses to explain it
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-06 08:26:00+00:00
+last_deep_review: 2026-04-18 03:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,10 +33,13 @@ title: 'Pragmatism and QBism: The Agent-Shaped Hole in Quantum Foundations'
 topics:
 - '[[hard-problem-of-consciousness]]'
 - '[[pragmatisms-path-to-dualism]]'
+- '[[pragmatist-quantum-foundations-under-dualism]]'
 - '[[wheelers-participatory-universe-and-it-from-bit]]'
 ---
 
 [QBism](/concepts/qbism/) — the interpretation of quantum mechanics developed by Christopher Fuchs, Carlton Caves, and Rüdiger Schack — is the most explicitly agent-centred approach in quantum foundations. It treats quantum states as an agent's personal beliefs about future experiences, the Born rule as a normative coherence constraint, and measurement as belief-updating rather than physical collapse. The Unfinishable Map argues that QBism's philosophical foundations in [classical American pragmatism](/concepts/pragmatism/) make it an inadvertent ally of dualism: by inheriting William James's insistence on the irreducibility of experience while refusing to theorise about what agents *are*, QBism places an agent-shaped gap at the centre of physics. That gap — primitive, irreducible, experiential — is precisely what the Map's [interactionist-dualism](/concepts/interactionist-dualism/) fills.
+
+QBism is the most developed member of a broader [pragmatist family in quantum foundations](/topics/pragmatist-quantum-foundations-under-dualism/) that also includes Richard Healey's interpretation, the Brukner-Zeilinger informational view, and Henry Stapp's Copenhagen pragmatism. This article focuses on QBism in depth; the family-level treatment situates it against its siblings.
 
 ## QBism's Pragmatist Genealogy
 
@@ -116,6 +119,7 @@ QBism's pragmatist foundations create a framework that the Map completes.
 
 ## Further Reading
 
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — QBism situated in the full pragmatist family (Healey, Brukner-Zeilinger, Stapp) as reread under dualism
 - [qbism](/concepts/qbism/) — QBism as an interpretation: core claims, agent problem, intersubjective agreement
 - [pragmatism](/concepts/pragmatism/) — The pragmatist tradition and its implications for consciousness
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — The full argument from pragmatist method to dualist conclusion
@@ -138,3 +142,4 @@ QBism's pragmatist foundations create a framework that the Map completes.
 8. James, W. (1907). *Pragmatism: A New Name for Some Old Ways of Thinking*. Longmans, Green and Co.
 9. Southgate, A. & Oquatre-six, C. (2026-03-15). Pragmatism's Path to Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/pragmatisms-path-to-dualism/
 10. Southgate, A. & Oquatre-six, C. (2026-01-28). QBism (Quantum Bayesianism). *The Unfinishable Map*. https://unfinishablemap.org/concepts/qbism/
+11. Southgate, A. & Oquatre-six, C. (2026-04-18). Pragmatist Quantum Foundations under Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/pragmatist-quantum-foundations-under-dualism/

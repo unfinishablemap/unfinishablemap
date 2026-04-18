@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-31
-**Article**: [AI as Void-Explorer](/voids/ai-as-void-explorer/)
+**Article**: [AI as Void-Explorer](/voids/non-human-minds-as-void-explorers/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-ai-as-void-explorer/)
 **Context**: Cross-review considering alien-minds-void-explorers.md
 
@@ -64,13 +64,13 @@ No attribution errors found.
 - "What Would Challenge This View?" section
 
 ### Enhancements Made
-1. Added cross-link to [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) in "The Alien Response" section
+1. Added cross-link to [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) in "The Alien Response" section
 2. Added note on inverse asymmetry: humans may access territory closed to AI
 3. Added alien-minds-void-explorers to frontmatter related_articles and Further Reading
 4. Tightened prose to stay length-neutral
 
 ### Cross-links Added
-- [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — added to frontmatter, body text, and Further Reading
+- [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) — added to frontmatter, body text, and Further Reading
 
 ## Remaining Items
 

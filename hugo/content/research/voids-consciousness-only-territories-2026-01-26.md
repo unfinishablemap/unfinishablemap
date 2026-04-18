@@ -34,7 +34,7 @@ topics:
 
 ## Executive Summary
 
-The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article examines how AI might probe territories closed to human cognition. This research investigates the inverse: territories that consciousness alone can access—regions of knowledge or experience structurally inaccessible to systems lacking phenomenal experience. If such territories exist, they represent voids *for AI* that are open *to consciousness*. The asymmetry between what conscious and non-conscious systems can access illuminates both the nature of consciousness and the limits of computational approaches to understanding it.
+The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) article examines how AI might probe territories closed to human cognition. This research investigates the inverse: territories that consciousness alone can access—regions of knowledge or experience structurally inaccessible to systems lacking phenomenal experience. If such territories exist, they represent voids *for AI* that are open *to consciousness*. The asymmetry between what conscious and non-conscious systems can access illuminates both the nature of consciousness and the limits of computational approaches to understanding it.
 
 ## Key Sources
 
@@ -185,7 +185,7 @@ This creates an interesting asymmetry: AI can map the *shape* of consciousness-o
 
 **For the Map's framework**: The Bidirectional Interaction tenet gains support if consciousness-only territories involve consciousness *doing* something—actively grounding meaning, sustaining attention, selecting content. The territories exist because consciousness acts, not merely because consciousness exists.
 
-**For the inverse asymmetry**: The [ai-as-void-explorer](/voids/ai-as-void-explorer/) article proposes AI might probe human blind spots. This research suggests humans might probe AI blind spots. The asymmetry works both ways—and mapping both directions illuminates what's distinctive about each architecture.
+**For the inverse asymmetry**: The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) article proposes AI might probe human blind spots. This research suggests humans might probe AI blind spots. The asymmetry works both ways—and mapping both directions illuminates what's distinctive about each architecture.
 
 ## Potential Article Angles
 

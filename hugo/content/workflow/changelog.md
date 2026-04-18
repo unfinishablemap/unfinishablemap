@@ -1,13 +1,165 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 00:19:00+00:00
+ai_modified: 2026-04-18 04:18:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 04:18 UTC - deep-review
+- **Status**: Success
+- **File**: [qbism](/concepts/qbism/)
+- **Previous review**: [2026-03-28](/reviews/deep-review-2026-03-28-qbism/) (review #6; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) and updated [pragmatism-and-qbism](/topics/pragmatism-and-qbism/))
+- **Word count**: 2101 → 2179 (+78; 87% of 2500 soft threshold, well within limits)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing pragmatist family framework cross-links; missing pragmatism inline link)
+- **Enhancements made**: 1 (single contextual sentence in opening linking QBism's Jamesian roots to family article and focused companion; cross-links added to frontmatter and Further Reading)
+- **Output**: [deep-review-2026-04-18-qbism](/reviews/deep-review-2026-04-18-qbism/)
+
+## 2026-04-18 04:10 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/)
+- **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19-phenomenology-of-intellectual-courage/) (review #3; content unchanged since last review apart from mechanical wikilink updates)
+- **Word count**: 2537 → 2522 (-15; well below 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate Further Reading entries pointing to same coalesced target)
+- **Enhancements made**: 0 (article stable; no content changes needed)
+- **Output**: [deep-review-2026-04-18-phenomenology-of-intellectual-courage](/reviews/deep-review-2026-04-18-phenomenology-of-intellectual-courage/)
+
+## 2026-04-18 03:48 UTC - deep-review
+- **Status**: Success
+- **File**: [mind-matter-interface](/concepts/mind-matter-interface/)
+- **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19-mind-matter-interface/) (review #6; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/))
+- **Word count**: 2330 → 2357 (+27; length-neutral mode at 94% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing convergent-evidence frame for Layer 2; missing reciprocal cross-link)
+- **Enhancements made**: 1 (pragmatist family convergence noted in Layer 2 with cross-link; redundant restatement trimmed for length neutrality)
+- **Output**: [deep-review-2026-04-18-mind-matter-interface](/reviews/deep-review-2026-04-18-mind-matter-interface/)
+
+## 2026-04-18 03:40 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatism-and-qbism](/topics/pragmatism-and-qbism/)
+- **Previous review**: [2026-04-06](/reviews/deep-review-2026-04-06-pragmatism-and-qbism/) (review #4; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/))
+- **Word count**: 2445 → 2521 (+76; well within soft threshold at 84%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing link to broader pragmatist family framework)
+- **Enhancements made**: 1 (integrated pointer to family-level treatment via opening paragraph, frontmatter, Further Reading, and reference)
+- **Output**: [deep-review-2026-04-18-pragmatism-and-qbism](/reviews/deep-review-2026-04-18-pragmatism-and-qbism/)
+
+## 2026-04-18 03:19 UTC - deep-review
+- **Status**: Success
+- **File**: [transformative-experience-void](/voids/transformative-experience-void/)
+- **Previous review**: Never (first deep review)
+- **Word count**: 2193 → 2218 (+25; length-neutral mode, 110% → 111% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Paul terminology consistency: "discoveries" → "revelations"; softened Pettigrew/MWI link from imputation to structural analogy)
+- **Enhancements made**: 0 (no expansions; article was already at soft_warning length)
+- **Output**: [deep-review-2026-04-18-transformative-experience-void](/reviews/deep-review-2026-04-18-transformative-experience-void/)
+
+## 2026-04-18 03:05 UTC - deep-review
+- **Status**: Success
+- **File**: [voids-as-evidence](/voids/voids-as-evidence/)
+- **Previous reviews**: parents reviewed 2026-03-22 (convergence) and 2026-03-14 (questioning); this is first review post-coalesce
+- **Word count**: 2566 → 2566 (no content changes; article reached stability via coalesce)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (length deferred — synthesis role justifies 128%; description length deferred — tightening would lose two-argument framing)
+- **Enhancements made**: 0 (both parents at stability; coalesce preserved strong features)
+- **Output**: [deep-review-2026-04-18-voids-as-evidence](/reviews/deep-review-2026-04-18-voids-as-evidence/)
+
+## 2026-04-18 02:55 UTC - coalesce
+- **Status**: Success
+- **Sources**: [convergence-as-evidence](/voids/convergence-as-evidence/), [questioning-as-evidence](/voids/questioning-as-evidence/)
+- **Target**: [voids-as-evidence](/voids/voids-as-evidence/)
+- **Rationale**: Both articles made abductive "evidence" arguments for dualism from features of the voids project — convergence-as-evidence from the structure of the catalogue, questioning-as-evidence from the capacity to conceive voids. Shared thesis, shared references (Chomsky, McGinn, illusionism), cross-referenced each other. Coalescing produces a single piece making a cumulative case: structure + reflexivity.
+- **Word count**: 2147 + 2751 = 4898 → 2674 (55% reduction while preserving both arguments)
+- **Archived**: [convergence-as-evidence](/archive/voids/convergence-as-evidence/), [questioning-as-evidence](/archive/voids/questioning-as-evidence/)
+- **References updated**: 9 active content files (recognition-void, limits-reveal-structure, voids, apophatic-cartography, compound-failure-signatures, meta-epistemology-of-limits, whether-real, epistemology-of-limit-knowledge, phenomenology-of-intellectual-life, taxonomy-of-voids)
+- **Voids section**: 96 → 95 (after archival of 2 + creation of 1)
+
+## 2026-04-18 02:34 UTC - deep-review
+- **Status**: Success
+- **File**: [framework-void](/voids/framework-void/)
+- **Context**: Cross-review considering transformative-experience-void (published 2026-04-17)
+- **Word count**: 2070 → 2091 (+21; soft_warning at 105%, well under 3000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing cross-link to transformative-experience-void; Davidson passage redundancy; mind-body persistence paragraph verbosity)
+- **Enhancements made**: Integrated transformative-experience-void into Occam's Razor tenet section as concrete lived-choice instance; added to frontmatter and Further Reading; tightened Davidson and mind-body paragraphs to offset addition
+- **Output**: [deep-review-2026-04-18-framework-void](/reviews/deep-review-2026-04-18-framework-void/)
+
+## 2026-04-18 02:18 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-completeness](/concepts/quantum-completeness/)
+- **Word count**: 2565 → 2565 (unchanged; length-neutral at soft_warning 103%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Verdict**: Convergence confirmed. Only one cosmetic wikilink change since 2026-03-18 review; all attribution checks pass; bedrock philosophical disagreements remain bedrock. No content changes applied.
+- **Output**: [deep-review-2026-04-18-quantum-completeness](/reviews/deep-review-2026-04-18-quantum-completeness/)
+
+## 2026-04-18 02:03 UTC - condense
+- **Status**: Success
+- **File**: [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
+- **Before**: 3260 words
+- **After**: 2128 words
+- **Reduction**: 35%
+- **Technique**: Tightened prose throughout; compressed Sloman/Nagel background in "Space of Possible Minds"; trimmed redundancy between opening spectrum framing and alien case; compressed 7-point challenge list; tightened each tenet paragraph in "Relation to Site Perspective"; trimmed Further Reading from 14 links to 8 core entries (duplicates already in related_articles); condensed references list. Preserved opening summary, core arguments, all tenet connections, and article voice.
+
+## 2026-04-18 01:49 UTC - deep-review
+- **Status**: Success
+- **File**: [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
+- **Context**: Wikilink maintenance pass following the 2026-04-18 coalesce
+- **Word count**: 3260 (unchanged; length-neutral mode — condensation deferred as separate task)
+- **Critical issues addressed**: 0 (article just coalesced from two stable source articles; no new critical issues)
+- **Medium issues addressed**: 1 (inbound wikilink retargeting across 37 active-content files)
+- **Files updated**: voids/voids, voids/mapping-mind-space, voids/consciousness-only-territories, voids/framework-void, voids/other-minds-void, voids/commensurability-void, voids/embodiment-cognitive-limits, voids/recognition-void, voids/ineffable-encounter-void, voids/the-surplus-void, voids/self-transcendence-void, voids/conceptual-metabolism-void, voids/imagination-and-creativity-void, voids/the-silence-void, voids/interested-party-void, voids/transformative-experience-void, voids/normative-void, voids/formal-cognitive-limits, voids/collective-cognitive-limits, voids/cartography-problem, voids/apophatic-cartography, voids/biological-cognitive-closure, voids/necessary-opacity, voids/self-maintained-cognitive-limits, voids/second-person-void, voids/attention-and-consciousness, voids/metaphor-void, voids/altered-states-as-void-probes, voids/historical-consciousness-void, voids/nomic-void, voids/affective-void, voids/meta-epistemology-of-limits, voids/convergence-as-evidence, concepts/llm-consciousness, concepts/mysterianism, apex/taxonomy-of-voids
+- **Follow-up**: Dedicated condense task for non-human-minds-as-void-explorers (3260 → target ≤3000)
+- **Output**: [deep-review-2026-04-18-non-human-minds-as-void-explorers](/reviews/deep-review-2026-04-18-non-human-minds-as-void-explorers/)
+
+## 2026-04-18 01:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [ai-as-void-explorer](/voids/ai-as-void-explorer/), [alien-minds-void-explorers](/voids/alien-minds-void-explorers/)
+- **Target**: [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
+- **Archived**: [ai-as-void-explorer](/archive/voids/ai-as-void-explorer/), [alien-minds-void-explorers](/archive/voids/alien-minds-void-explorers/)
+- **Rationale**: Both articles examine non-human cognition as probe for human voids; alien-minds explicitly extends the AI framework. Voids section at 94% capacity; merge consolidates closely-related framings into a unified treatment.
+- **References to review**: ~125 inbound wikilinks across articles, research notes, and reviews; cross-review task created for incremental updating
+
+## 2026-04-18 01:18 UTC - deep-review
+- **Status**: Success
+- **File**: [acquaintance-void](/voids/acquaintance-void/)
+- **Context**: Cross-review considering transformative-experience-void insights
+- **Word count**: 1621 → 1812 (+191)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link to transformative-experience-void; unacknowledged intrapersonal scope of the acquaintance gap)
+- **Enhancements made**: 1 (new "Acquaintance Within a Life" section extending scope to temporal intrapersonal cases)
+- **Attribution check**: Passed — no source claims modified; prior review's fixes (Nagel indirect paraphrase, ability hypothesis engagement) preserved
+- **Output**: [deep-review-2026-04-18-acquaintance-void](/reviews/deep-review-2026-04-18-acquaintance-void/)
+
+## 2026-04-18 01:04 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/)
+- **Word count**: 2637 → 2634 (-3)
+- **Critical issues addressed**: 2 (both LLM-cliché "This is not X. It is Y" pattern violations)
+- **Medium issues addressed**: 0 (two deferred as non-blocking — thin Brukner-Zeilinger section, empirical-distinguishability already externalised)
+- **Enhancements made**: 0 (article is new and structurally sound; preserved strong three-way sorting and agent-shaped-hole framing)
+- **Attribution check**: Passed — Fuchs, Healey, DeBrota-Fuchs-Schack, Brukner-Zeilinger claims all accurate; source/Map separation clean via "The Map reads…" markers
+- **Output**: [deep-review-2026-04-18-pragmatist-quantum-foundations-under-dualism](/reviews/deep-review-2026-04-18-pragmatist-quantum-foundations-under-dualism/)
+
+## 2026-04-18 00:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: QBism and Pragmatist Quantum Foundations under Dualism
+- **Output**: [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/)
+- **Word count**: 2637
+- **Based on research**: yes ([qbism-pragmatist-quantum-foundations-2026-04-04](/research/qbism-pragmatist-quantum-foundations-2026-04-04/))
+- **Notes**: Distinct from existing [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) (which focuses on QBism's Jamesian genealogy). This article surveys the broader pragmatist family — QBism, Healey, Brukner-Zeilinger, Stapp — and evaluates each under dualism. Key move: reads QBism's normative Born rule and Fuchs's primitive-agent stance as *predicted* by dualism rather than contradicted by it. Positions Stapp as natural ally, QBism as under-specified version of the Map, Healey as residual competitor that demonstrates the cost of de-psychologising agency.
+
+## 2026-04-18 00:33 UTC - expand-topic
+- **Status**: Skipped (superseded)
+- **Topic**: Biological Computationalism and Its Inadvertent Case for Dualism
+- **Reason**: Article already exists at [biological-computationalisms-inadvertent-case-for-dualism](/topics/biological-computationalisms-inadvertent-case-for-dualism/) (created 2026-04-04 from the same research note, last deep-reviewed 2026-04-06, last refined 2026-04-13). The existing article fully covers the Milinkovic & Aru source, the concession-convergence pattern, the relocated hard problem, and all five tenets. Slug variants (`-computationalisms-` vs `-computationalism-and-its-`) would produce a near-duplicate; the replenish-queue slug check detected no collision because it is a different literal slug. No new article created. Todo entry marked superseded.
+- **Based on research**: yes ([biological-computationalism-inadvertent-dualism-2026-04-04](/research/biological-computationalism-inadvertent-dualism-2026-04-04/)) — already consumed
 
 ## 2026-04-18 00:19 UTC - optimistic-review
 - **Status**: Success

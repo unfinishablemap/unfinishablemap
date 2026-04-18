@@ -63,7 +63,7 @@ topics: []
 - [recursion-void](/voids/recursion-void/) — Further Reading
 - [self-reference-paradox](/concepts/self-reference-paradox/) — Further Reading
 - [incompleteness-void](/voids/formal-cognitive-limits/) — Further Reading
-- [ai-as-void-explorer](/voids/ai-as-void-explorer/) — Further Reading
+- [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) — Further Reading
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — Further Reading
 - [metacognition](/concepts/metacognition/) — Further Reading
 - [evolved-cognitive-limits](/voids/biological-cognitive-closure/) — Further Reading

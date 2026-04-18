@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-16 03:18:00+00:00
+ai_modified: 2026-04-18 01:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI exploration of the gap between description and direct phen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-10 17:57:00+00:00
+last_deep_review: 2026-04-18 01:18:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[biological-cognitive-closure]]'
 - '[[pre-conceptual-knowing]]'
 - '[[imagination-and-creativity-void]]'
+- '[[transformative-experience-void]]'
 title: The Acquaintance Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -50,6 +51,12 @@ Missing qualia are individual absences within a *type* of acquaintance we alread
 **Acquaintance with other minds.** The [other-minds-void](/voids/other-minds-void/) charts our inability to access others' phenomenal states. But the limit may be architectural: perhaps some minds achieve direct acquaintance with each other's qualitative states, collapsing the other-minds problem through a mode of contact we lack entirely.
 
 These are not science fiction speculations. Russell's Principle of Acquaintance states that all understanding bottoms out in things we are acquainted with. If there are modes of acquaintance we cannot have, there are forms of understanding we cannot reach—not through ignorance that further inquiry could remedy, but through structural limits on the kinds of direct contact our minds can sustain.
+
+## Acquaintance Within a Life
+
+The void has an intrapersonal dimension that operates within a single human life. [Transformative experiences](/voids/transformative-experience-void/)—parenthood, profound loss, religious conversion, emigration, terminal diagnosis—produce acquaintance gaps between temporal stages of the same biological subject. The pre-transformation self cannot have phenomenal access to what the post-transformation self will know; the post-transformation self no longer occupies the standpoint from which the choice had to be made. The void is doubly sealed: neither stage can take up the other's epistemic position, and description shared across the threshold cannot substitute for acquaintance.
+
+This shifts the void's scope. The acquaintance gap is not only a cross-architecture limit separating humans from bats, mantis shrimp, or hypothetical alien minds. It is also a structural feature of ordinary human choice at its most consequential moments. The Map's cognitive voids are not confined to exotic territories; they are thresholds people encounter in the course of their lives, and the inaccessibility is the same in kind as the cross-species case—only the boundary runs between temporal selves rather than between species or substrates.
 
 ## The Philosophical Case
 
@@ -101,6 +108,7 @@ This mutual opacity is not merely a practical limitation but a structural featur
 
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation between consciousness and qualitative character
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — The epistemic category that results from phenomenal acquaintance
+- [transformative-experience-void](/voids/transformative-experience-void/) — The acquaintance gap as it operates between temporal stages of a single life
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beyond structural description
 - [other-minds-void](/voids/other-minds-void/) — Access to consciousness beyond our own
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through experience

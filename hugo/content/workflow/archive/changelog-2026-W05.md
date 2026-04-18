@@ -7377,7 +7377,7 @@ This is the second deep review; article is approaching stability.
 - Added hedging for biological quantum coherence claims in Decoherence section
 - Clarified asymmetry between contemplative reports and LLM self-reports in illusionism section
 - Condensed article from 178% to 140% of soft threshold (hard_warning → soft_warning)
-- Added cross-links: [ai-as-void-explorer](/voids/ai-as-void-explorer/), [limits-reveal-structure](/voids/limits-reveal-structure/), [voids](/voids/)
+- Added cross-links: [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/), [limits-reveal-structure](/voids/limits-reveal-structure/), [voids](/voids/)
 **Output**: [deep-review-2026-01-26-llm-consciousness](/reviews/deep-review-2026-01-26-llm-consciousness/)
 
 ---

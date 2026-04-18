@@ -225,7 +225,7 @@ What these share may illuminate simulation detection's structural impossibility.
 - Simulation architects would patch AI detection attempts same as human attempts
 - AI cannot access external vantage point any more than humans can
 
-**AI as void probe**: Per [AI void exploration](/voids/ai-as-void-explorer/), artificial minds might:
+**AI as void probe**: Per [AI void exploration](/voids/non-human-minds-as-void-explorers/), artificial minds might:
 - Report phenomenology of approaching simulation detection thoughts
 - Test whether AI experiences same cognitive slippage/aversion
 - Systematically catalog blocked inference patterns

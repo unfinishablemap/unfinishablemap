@@ -46,15 +46,15 @@ None identified. The article has accurate attributions, no broken links, and fol
 ### Enhancements Made
 - Added deflationary objection paragraph to strengthen engagement with counterarguments
 - Strengthened qualification on quantum speculation
-- Added [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) to Further Reading
+- Added [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) to Further Reading
 
 ### Cross-links Added
 To affective-void.md:
-- [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) in Further Reading
+- [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) in Further Reading
 
 From other articles to affective-void.md (orphan integration):
 - [voids](/voids/) — Added to "Specific Voids" navigation section
-- [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Added in "Space of Possible Minds" section
+- [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) — Added in "Space of Possible Minds" section
 - [emotional-consciousness](/topics/emotion-and-dualism/) — Added in "Challenges and Open Questions" section
 - [qualia](/concepts/qualia/) — Added in "Extensions" section of Further Reading
 - [mysterianism](/concepts/mysterianism/) — Added in Further Reading section

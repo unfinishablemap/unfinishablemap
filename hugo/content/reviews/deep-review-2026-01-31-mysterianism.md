@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-01-31
 **Article**: [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-mysterianism/)
-**Cross-review context**: [Alien Minds as Void Explorers](/voids/alien-minds-void-explorers/)
+**Cross-review context**: [Alien Minds as Void Explorers](/voids/non-human-minds-as-void-explorers/)
 
 ## Pessimistic Analysis Summary
 
@@ -54,13 +54,13 @@ Six adversarial personas applied:
 - Falsifiability conditions (from 2026-01-20 review)
 
 ### Enhancements Made
-1. Added cross-link to [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) in "Permanent mysterianism" paragraph
+1. Added cross-link to [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) in "Permanent mysterianism" paragraph
 2. Added sentence connecting architecture-specificity to alien minds: "If cognitive closure is architecture-specific rather than universal, different minds face different closures: where our map has void, theirs might have detail."
-3. Added [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) to Further Reading section
-4. Added [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) to related_articles frontmatter
+3. Added [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) to Further Reading section
+4. Added [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) to related_articles frontmatter
 
 ### Cross-links Added
-- [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) — Whether different cognitive architectures face different closures
+- [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether different cognitive architectures face different closures
 
 ## Remaining Items
 

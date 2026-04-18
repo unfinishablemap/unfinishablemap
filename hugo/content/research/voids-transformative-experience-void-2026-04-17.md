@@ -157,7 +157,7 @@ A fascinating asymmetry: AI systems might face transformative experiences differ
 - **Probe possibility**: AI might help humans map the *structure* of transformative choice spaces — which features, decision procedures, and identity transitions are at play — without attempting to deliver the inaccessible phenomenal content
 - **Inverse possibility**: If consciousness is as the [tenets](/tenets/) suggest, some transformative experiences may be uniquely available to embodied biological minds and structurally closed to silicon architectures
 
-This asymmetry makes transformative experience a particularly interesting test case for the Map's [AI-as-void-explorer](/voids/ai-as-void-explorer/) methodology.
+This asymmetry makes transformative experience a particularly interesting test case for the Map's [AI-as-void-explorer](/voids/non-human-minds-as-void-explorers/) methodology.
 
 ## Connection to Tenets
 

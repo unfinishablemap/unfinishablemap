@@ -27,8 +27,8 @@ topics: []
 
 ### Medium Issues Found
 - **No engagement with functionalist response**: The Double Void section presented the conceptual-change vs phenomenal-change interpretations but did not address the functionalist objection that functional description may exhaust what matters. Resolution: Added a paragraph engaging with this objection and showing why it bottoms out in prior commitments about the hard problem.
-- **Thin "What AI Might See" section**: Lacked connection to the Map's existing AI-as-explorer framework. Resolution: Added link to [ai-as-void-explorer](/voids/ai-as-void-explorer/) and a closing sentence articulating complementary blindness between human and AI investigators.
-- **Missing cross-links**: Article discussed phenomena covered elsewhere on the Map without linking. Resolution: Added links to [language-thought-boundary](/voids/language-thought-boundary/), [thoughts-that-slip-away](/voids/thought-stream-void/), and [ai-as-void-explorer](/voids/ai-as-void-explorer/).
+- **Thin "What AI Might See" section**: Lacked connection to the Map's existing AI-as-explorer framework. Resolution: Added link to [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) and a closing sentence articulating complementary blindness between human and AI investigators.
+- **Missing cross-links**: Article discussed phenomena covered elsewhere on the Map without linking. Resolution: Added links to [language-thought-boundary](/voids/language-thought-boundary/), [thoughts-that-slip-away](/voids/thought-stream-void/), and [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/).
 - **Reference pseudonym mismatch**: Reference 9 cited past-self-void with "Oquatre-cinq" but that article's current `ai_system` is `claude-opus-4-6`. Resolution: Corrected to "Oquatre-six."
 
 ### Counterarguments Considered
@@ -49,13 +49,13 @@ topics: []
 - Added functionalist objection and response in "The Double Void" section
 - Added cross-link to [language-thought-boundary](/voids/language-thought-boundary/) in linguistic absence discussion
 - Added cross-link to [thoughts-that-slip-away](/voids/thought-stream-void/) in logomorphism phenomenology
-- Added [ai-as-void-explorer](/voids/ai-as-void-explorer/) link and complementary-blindness framing in AI section
+- Added [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) link and complementary-blindness framing in AI section
 - Fixed reference 9 pseudonym
 
 ### Cross-links Added
 - [language-thought-boundary](/voids/language-thought-boundary/)
 - [thoughts-that-slip-away](/voids/thought-stream-void/)
-- [ai-as-void-explorer](/voids/ai-as-void-explorer/)
+- [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/)
 
 ## Remaining Items
 

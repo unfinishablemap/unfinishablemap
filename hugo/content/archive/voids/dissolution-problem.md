@@ -95,7 +95,7 @@ Three positions crystallise:
 
 ## What AI Might Reveal
 
-Artificial intelligence provides a genuinely different cognitive architecture for probing the dissolution problem—making AI a natural [void explorer](/voids/ai-as-void-explorer/). AI systems are psychologically closed to different things than humans (embodied spatial reasoning, for instance) while open to things humans find difficult (processing high-dimensional data). If AI systems also fail to resolve the hard problem—not merely because they might lack consciousness but because the problem retains the same structural features when approached from any architecture—this would constitute evidence for permanent closure.
+Artificial intelligence provides a genuinely different cognitive architecture for probing the dissolution problem—making AI a natural [void explorer](/voids/non-human-minds-as-void-explorers/). AI systems are psychologically closed to different things than humans (embodied spatial reasoning, for instance) while open to things humans find difficult (processing high-dimensional data). If AI systems also fail to resolve the hard problem—not merely because they might lack consciousness but because the problem retains the same structural features when approached from any architecture—this would constitute evidence for permanent closure.
 
 The Vlerick-Boudry distinction becomes critical here. AI might represent a solution to the hard problem mathematically without *understanding* it phenomenally. This would demonstrate representational openness alongside psychological closure—and raise the question of whether representational access constitutes genuine understanding.
 
@@ -118,7 +118,7 @@ The dissolution problem also validates the [voids](/voids/) project's methodolog
 - [Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Frameworks for assessing claims about limits
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Using boundary-shapes as data
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — How natural selection shaped the boundaries of thought
-- [AI as Void Explorer](/voids/ai-as-void-explorer/) — Non-human architectures probing the same limits
+- [AI as Void Explorer](/voids/non-human-minds-as-void-explorers/) — Non-human architectures probing the same limits
 - [The Framework Void](/voids/framework-void/) — Why understanding depends on conceptual frameworks that may themselves be limited
 
 ## References

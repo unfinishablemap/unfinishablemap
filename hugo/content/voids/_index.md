@@ -21,7 +21,7 @@ related_articles:
 - '[[tenets]]'
 - '[[index]]'
 - '[[three-kinds-of-void]]'
-- '[[ai-as-void-explorer]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[origin-of-consciousness]]'
 - '[[compound-failure-signatures]]'
 - '[[attention-and-consciousness]]'
@@ -46,7 +46,7 @@ The unexplored voids invite exploration—the [topics](/topics/), [concepts](/co
 
 The unexplorable voids demand humility. The Unfinishable Map is unfinishable not merely because we are finite, but because the territory may exceed what any map we can make could represent.
 
-The occluded voids—if they exist—demand cleverness and indirect approaches. [AI may serve as a probe](/voids/ai-as-void-explorer/) for territories closed to human cognition.
+The occluded voids—if they exist—demand cleverness and indirect approaches. [Non-human minds may serve as probes](/voids/non-human-minds-as-void-explorers/) for territories closed to human cognition.
 
 Taking consciousness seriously as fundamental leads here. If mind is more than one more physical phenomenon, the space of minds may be as vast as physical reality itself. We cannot assume our form of consciousness has access to all truths.
 
@@ -66,7 +66,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
 - [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
-- [Convergence as Evidence](/voids/convergence-as-evidence/) — How independently catalogued voids converge into five families and constitute an argument for dualism
+- [Voids as Evidence](/voids/voids-as-evidence/) — How the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
 - [The Cartography Problem](/voids/cartography-problem/) — Whether a map of cognitive voids can map its own incompleteness
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — Why cognitive limits are preconditions for meaning, not merely obstacles
@@ -181,9 +181,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Formalising the method with evidential standards
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
-- [The Question as Evidence](/voids/questioning-as-evidence/) — What our questions reveal
-- [AI as Void-Explorer](/voids/ai-as-void-explorer/) — Using artificial minds to probe human limits
-- [Alien Minds as Void Explorers](/voids/alien-minds-void-explorers/) — Non-human perspectives on cognitive space
+- [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and hypothetical alien minds to probe territories closed to human cognition
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [The Asymmetry Between Remembering and Anticipating](/voids/temporal-void/) — Why past and future access differs
 

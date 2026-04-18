@@ -59,8 +59,8 @@ None. The article has been reviewed twice previously (2026-01-20, 2026-01-27) an
 - **Added metacognition concept**: Linked in frontmatter
 
 ### Cross-links Added
-- [questioning-as-evidence](/voids/questioning-as-evidence/) in related_articles
-- [questioning-as-evidence](/voids/questioning-as-evidence/) in Further Reading with description
+- [questioning-as-evidence](/voids/voids-as-evidence/) in related_articles
+- [questioning-as-evidence](/voids/voids-as-evidence/) in Further Reading with description
 
 ## Word Count
 

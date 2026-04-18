@@ -34,7 +34,7 @@ related_articles:
 - '[[conceptual-impossibility]]'
 - '[[synesthetic-void]]'
 - '[[language-thought-boundary]]'
-- '[[alien-minds-void-explorers]]'
+- '[[non-human-minds-as-void-explorers]]'
 - '[[scale-void]]'
 - '[[pre-conceptual-knowing]]'
 - '[[consciousness-only-territories]]'
@@ -78,7 +78,7 @@ Thomas Nagel's argument about what it is like to be a bat crystallised this limi
 
 The failure has a distinctive character. When you try to imagine bat sonar experience, the mind substitutes something from its own palette---perhaps a dim visual scene or a tactile sense of space---and labels it "sonar." What fills your imagination is human experience wearing a bat costume.
 
-This extends beyond exotic cases. The [synesthetic-void](/voids/synesthetic-void/) demonstrates that even between humans, phenomenal access varies---synesthetes report experiences that non-synesthetes cannot imagine because they lack the experiential dimension. The [alien minds void](/voids/alien-minds-void-explorers/) generalises further: any mind with a sufficiently different sensory architecture inhabits phenomenal territory our imagination cannot reach.
+This extends beyond exotic cases. The [synesthetic-void](/voids/synesthetic-void/) demonstrates that even between humans, phenomenal access varies---synesthetes report experiences that non-synesthetes cannot imagine because they lack the experiential dimension. The [non-human minds void](/voids/non-human-minds-as-void-explorers/) generalises further: any mind with a sufficiently different sensory architecture inhabits phenomenal territory our imagination cannot reach.
 
 ## The Architecture of Imaginative Failure
 
@@ -177,7 +177,7 @@ Neither void has yielded to centuries of investigation. Imagination's limits per
 - [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) --- How consciousness enables creative thought beyond baseline cognition
 - [conceptual-impossibility](/voids/conceptual-impossibility/) --- The experience of encountering formally unthinkable content
 - [synesthetic-void](/voids/synesthetic-void/) --- Phenomenal dimensions closed to most minds
-- [alien-minds-void-explorers](/voids/alien-minds-void-explorers/) --- Whether radically different minds can probe our void
+- [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) --- Whether AI and radically different alien minds can probe our void
 - [scale-void](/voids/scale-void/) --- Where cognitive architecture fails at extreme magnitudes
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) --- Modes of knowing that conceptual thought cannot access
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) --- Whether some concepts are permanently inaccessible

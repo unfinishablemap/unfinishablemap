@@ -116,7 +116,7 @@ Virtue epistemologists argue that knowledge involves a cognitive *achievement*�
 
 Belief revision creates a distinctive epistemic puzzle. To revise a belief, you evaluate it against standards. But your standards are themselves beliefs subject to revision. The phenomenology suggests that conscious experience provides resources here that pure computation does not. When evaluating competing frameworks, we attend to the felt quality of coherence—the way a framework either generates or fails to generate the experience of things hanging together. This felt coherence is not reducible to logical consistency and is not captured by formal models such as the AGM framework (Alchourrón, Gärdenfors, and Makinson, 1985). [Phenomenal conservatism](/topics/phenomenal-authority-and-introspective-evidence/) provides a framework for taking these seemings seriously as defeasible evidence.
 
-The Map's project involves a recursive structure: using conscious assessment to evaluate arguments about consciousness. The type-B materialist will grant that there is qualitative character to conviction while insisting this character is identical to a physical process. But the recursive structure creates distinctive pressure: each qualitative nuance of the assessment process demands its own brute psychophysical identity. The assessment generates new phenomenal data faster than the identity theory can absorb it. The [question as evidence](/voids/questioning-as-evidence/) applies: that there is something it is like to find an argument compelling is a fact requiring explanation. This is the [self-stultification](/topics/self-stultification-as-master-argument/) structure applied to epistemic phenomenology.
+The Map's project involves a recursive structure: using conscious assessment to evaluate arguments about consciousness. The type-B materialist will grant that there is qualitative character to conviction while insisting this character is identical to a physical process. But the recursive structure creates distinctive pressure: each qualitative nuance of the assessment process demands its own brute psychophysical identity. The assessment generates new phenomenal data faster than the identity theory can absorb it. The [question as evidence](/voids/voids-as-evidence/) applies: that there is something it is like to find an argument compelling is a fact requiring explanation. This is the [self-stultification](/topics/self-stultification-as-master-argument/) structure applied to epistemic phenomenology.
 
 ## Against Epiphenomenalism and Functionalism
 
@@ -159,7 +159,7 @@ The Unfinishable Map's [tenets](/tenets/) find substantial support in epistemic 
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/)
 - [argument-from-reason](/topics/argument-from-reason/)
-- [questioning-as-evidence](/voids/questioning-as-evidence/)
+- [questioning-as-evidence](/voids/voids-as-evidence/)
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 - [reasons-responsiveness](/concepts/reasons-responsiveness/)

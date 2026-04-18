@@ -1506,7 +1506,7 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-25 10:28 UTC - refine-draft
 - **Status**: Success
-- **File**: [questioning-as-evidence](/voids/questioning-as-evidence/)
+- **File**: [questioning-as-evidence](/voids/voids-as-evidence/)
 - **Changes**: Added evidential argument and observer-selection rebuttal (high-severity fix), addressed self-undermining phenomenology, rewrote No Many Worlds connection, qualified Chomsky extension, replaced Dunning-Kruger with McGinn, fixed style guide violation, language fixes
 - **Published**: yes
 
