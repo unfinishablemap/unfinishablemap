@@ -5,6 +5,14 @@ ai_modified: 2026-04-18 16:24:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-18 16:37 UTC - condense
+- **Status**: Success
+- **File**: [[voids/apophatic-cartography]]
+- **Before**: 4047 words (critical, 202% of 2000-word voids target)
+- **After**: 2470 words (soft_warning, under hard threshold)
+- **Reduction**: 39%
+- **Technique**: Compressed the Apophatic Tradition section by ~60% (cut historical survey material LLMs already know, kept Cusanus's learned ignorance framing and the Map's appropriation-without-metaphysics caveat); folded "Cognitive Closure and the Voids" into the tradition section via a single paragraph linking to [[mysterianism]]; merged "Distinguishing Boundaries from Confusion" into the five-criteria section as two paragraph-length indicators rather than a separate section; cut Safeguards by ~50% via prose tightening; preserved the cartography-problem sections nearly intact since they are the article's unique contribution (Fine, Kant/Wittgenstein, Borges, convergent-evidence, Rescher/Rancourt), with only light compression; merged Integration/Illusionist/Worked-Example into a single consolidated section that cut the repetition of criteria across the worked example; trimmed Relation to Site Perspective ~40% while keeping all five tenet connections; reduced Further Reading from 19 to 10 entries and References from 18 to 12. Preserved opening summary and all tenet anchors.
+
 ## 2026-04-18 16:24 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/bandwidth-problem-mental-causation]]

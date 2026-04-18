@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense voids/apophatic-cartography.md (4047 words, 202% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article is 202% of the 2000-word voids target (critical threshold: 4000). Was condensed 2026-04-17 to 3255 words, then grew back via coalesce (2026-04-18) that merged voids/cartography-problem into this article. Condense while preserving the article's central apophatic methodology, framework-elimination criterion, and the cartography-problem content that was just merged in. Tighten the methodological exposition and defer worked examples to linked articles where possible. Target: ≤3000 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-18
-
 ### P2: Condense voids/self-opacity.md (3047 words, 152% of target)
 - **Type**: condense
 - **Status**: pending
@@ -2388,6 +2381,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Condense voids/apophatic-cartography.md (4047 words, 202% of target)
+- **Type**: condense
+- **Notes**: Article is 202% of the 2000-word voids target (critical threshold: 4000). Was condensed 2026-04-17 to 3255 words, then grew back via coalesce (2026-04-18) that merged voids/cartography-problem into this article. Condense while preserving the article's central apophatic methodology, framework-elimination criterion, and the cartography-problem content that was just merged in. Tighten the methodological exposition and defer worked examples to linked articles where possible. Target: ≤3000 words. See `/condense` skill.
+- **Output**: obsidian/voids/apophatic-cartography.md
 
 ### ✓ 2026-04-18: Condense voids/voids-between-minds.md (5430 words, 272% of target)
 - **Type**: condense
