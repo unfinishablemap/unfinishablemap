@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18T09:20:00+00:00
+ai_modified: 2026-04-18T11:03:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address framework-choice and representation-agency issues in zahavian-minimal-self.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-18b flagged two high-severity issues. (1) The choice of Zahavi over Metzinger is justified by the Map's tenets (indexical identity, bidirectional interaction) rather than by independent evidence — the article should add a "choice under metaphysical commitment" acknowledgement rather than presenting the preference as evidence-driven. (2) The claim "a self-model cannot be a causal agent; it is a representation" is asserted, not argued; cognitive science routinely treats representations as causally implicated. Either defend the strong claim (requires defining agency to exclude representations) or weaken it to "the Zahavian minimal self is a more perspicuous locus of agency than a self-model." Also: the "constitutive, not contingent" claim is in tension with the conceded Sass-Parnas evidence that the minimal self admits of degrees — resolve or acknowledge. See [[reviews/pessimistic-2026-04-18b]] for full list.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-18
+
+### P2: Soften framework-dependence claims in predictive-construction-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-18b flagged that the article presents predictive processing and the Markov-blanket formalism as settled rather than as specific theoretical commitments. Add a "dependence on the predictive-processing framework" paragraph noting Gibsonian / enactivist alternatives and recent Markov-blanket critics (Bruineberg, Kiverstein, Raja). Also: narrow the calibration claim — "no prediction-free standard" proves too much (generic Cartesian scepticism); the defensible claim is that we cannot distinguish, *within introspection*, constructive from receptive contributions. Finally: the Minimal Quantum Interaction paragraph treats in-principle opacity of the bidirectional channel as a feature rather than acknowledging it as a falsifiability risk — add honest caveat. See [[reviews/pessimistic-2026-04-18b]].
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-18
+
+### P3: Address bundling and paper-count issues in boundary-and-projection.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-18b flagged two medium-severity issues. (1) The "Three Forms of Projection" section bundles tool projection, peripersonal space, and interpersonal empathy as one void despite the article's own parenthetical admission that the first two concern cognitive rather than phenomenal extension — either argue the unification more carefully or separate. (2) The 5-vs-92 paper count is treated as evidence of hidden depth; the same statistic supports the null hypothesis that the boundary problem is underspecified. Either drop the claim, hedge it, or justify the inference from neglect to depth. See [[reviews/pessimistic-2026-04-18b]].
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-18
 
 ### P2: Synthesize closure-types research into article on representational vs psychological closure
 - **Type**: expand-topic
