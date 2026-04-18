@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18T04:04:00+00:00
+ai_modified: 2026-04-18T04:49:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address pessimistic-review findings for phenomenology-of-intellectual-life.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-18 found: (1) PCT asserted as "constitutes" without positive argument against weaker correlation claim — either weaken or defend the constitution step vs parsimony; (2) MWI subsection confuses branch-weighting and should be rewritten or dropped (branches with invalid inference have negligible amplitude); (3) "What Would Challenge This View" — three of six criteria are insulated by other Map commitments (trained-introspector criterion, AI phenomenal capacity criterion, physicalist explanation criterion); acknowledge the insulation or replace; (4) Pitt's proprietary-phenomenology argument cited as settled but contested by Prinz/Carruthers, especially on aphantasia (aphantasics still have inner speech); add one paragraph with deflationary responses; (5) self-stultification argument in Occam's paragraph is question-begging as stated. See [[reviews/pessimistic-2026-04-18]].
+- **Source**: pessimistic-review 2026-04-18
+- **Generated**: 2026-04-18
+
+### P2: Address pessimistic-review findings for psychedelics-and-the-filter-model.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-18 found: (1) "meaningfulness ratings" elided with "richness of consciousness" — distinguish salience from expansion; (2) "precisely what neuroimaging confirms" and "predicts exactly this" overclaim — soften to "is consistent with" and add paragraph distinguishing filter-theoretic predictions from disinhibition/entropic-brain accounts (what would filter theory predict that REBUS/entropic-brain do not?); (3) Metzinger cited for persisting-minimal-self claim but Metzinger is a self-model eliminativist who does not hold this — either cite Zahavi or flag the divergence; (4) Stace typology should acknowledge Katz 1978 criticism of imposed Western mystical frame; (5) Mullis/PCR anecdote needs qualification or removal (disputed). See [[reviews/pessimistic-2026-04-18]].
+- **Source**: pessimistic-review 2026-04-18
+- **Generated**: 2026-04-18
+
+### P2: Address pessimistic-review findings for william-james-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-18 found: (1) "Neutral monism tensions" paragraph acknowledges the radical-empiricism vs filter-theory tension but does not resolve it — expand and either commit to the organisational reading (defend textually from James) or concede that the Map adopts filter theory while setting aside radical empiricism's stronger claims; (2) intro line "anticipated many of The Unfinishable Map's central commitments by over a century" is anachronistic/self-congratulatory — rephrase; (3) Stapp's quantum Zeno mechanism framed as filling James's gap but Stapp remains contested among physicists — hedge the framing. See [[reviews/pessimistic-2026-04-18]].
+- **Source**: pessimistic-review 2026-04-18
+- **Generated**: 2026-04-18
 
 ### P2: Cross-review biological-computationalism.md concept page considering biological-computationalisms-inadvertent-case-for-dualism
 - **Type**: cross-review
