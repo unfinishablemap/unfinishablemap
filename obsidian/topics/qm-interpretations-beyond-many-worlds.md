@@ -2,10 +2,10 @@
 title: "Quantum Interpretations Beyond Many-Worlds"
 description: "A survey of QM interpretations—Copenhagen, Bohmian, QBism, relational, transactional, and objective collapse—evaluating which leave room for consciousness as causal participant."
 created: 2026-01-23
-modified: 2026-03-12
+modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-09T06:56:00+00:00
-last_deep_review: 2026-03-19T21:39:00+00:00
+ai_modified: 2026-04-18T06:48:00+00:00
+last_deep_review: 2026-04-18T06:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[quantum-measurement-and-subjective-probability]]"
   - "[[indexical-identity-quantum-measurement]]"
   - "[[what-consciousness-tells-us-about-physics]]"
+  - "[[pragmatist-quantum-foundations-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -50,7 +51,7 @@ The original Copenhagen interpretation treats the wave function as a calculation
 
 This ambiguity is both Copenhagen's weakness and its philosophical opening. By leaving the [[measurement-problem|measurement problem]] unsolved, Copenhagen creates logical space for consciousness-based accounts. Von Neumann's chain analysis showed that the quantum-classical boundary can be pushed arbitrarily far toward the observer, and Wigner later suggested consciousness itself might be the collapse trigger—see [[von-neumann-wigner-interpretation]] for the foundational account. The Map argues that [[quantum-measurement-and-consciousness|the measurement problem and the hard problem share identical logical structure]]—both involve a complete third-person description that fails to determine a first-person fact—and Copenhagen's unresolved measurement concept is precisely where this structural parallel becomes visible.
 
-Copenhagen's instrumentalism, however, conflicts with the Map's realist commitments. Treating quantum states as mere bookkeeping devices sidesteps the question the Map cares most about: what is actually happening when a measurement occurs, and what role does the observer's experience play in determining outcomes?
+Copenhagen's instrumentalism, however, conflicts with the Map's realist commitments. Treating quantum states as mere bookkeeping devices sidesteps the question the Map cares most about: what is actually happening when a measurement occurs, and what role does the observer's experience play in determining outcomes? Stapp's Copenhagen pragmatism recovers a realist reading compatible with the Map—see [[pragmatist-quantum-foundations-under-dualism]] for how Stapp's quantum Zeno mechanism extends Copenhagen while preserving conscious causal role.
 
 ## Bohmian Mechanics: Determinism Without Collapse
 
@@ -67,6 +68,8 @@ Three considerations weigh against Bohmian mechanics from the Map's perspective.
 QBism's agent-centrality resonates with the Map's phenomenological emphasis—both frameworks refuse to eliminate the observer from the picture. But QBism's anti-realism creates a fundamental tension. By denying that quantum states describe reality, QBism eliminates the ontological substrate where consciousness might act. There is nothing real for consciousness to collapse.
 
 More critically, QBism sidesteps the [[hard-problem-of-consciousness|hard problem]] rather than addressing it. It makes agents epistemically fundamental without explaining what agents *are*. The Map asks why there is something it is like to be the agent performing the measurement. QBism has no answer—it treats agenthood as primitive without investigating its nature. This leaves QBism philosophically incomplete precisely where the Map's questions begin. See [[quantum-measurement-and-subjective-probability]] for a detailed analysis of how subjective probability interpretations fail phenomenologically—experience has determinate content that belief updating cannot ground.
+
+**A more sympathetic reading under dualism**: QBism's anti-realism about quantum states is separable from its agent-centrality. The [[pragmatist-quantum-foundations-under-dualism|pragmatist-family reading]] argues that, once dualism is granted, QBism's treatment of agents as primitive and irreducible ceases to be a bug and becomes a prediction—any physics that requires conscious agents at its foundations should find those agents irreducible within its own vocabulary. The QBist reformulation of the Born rule as a normative coherence constraint (DeBrota, Fuchs & Schack 2021) then acquires a metaphysical reading its authors explicitly decline to give: the Born rule is normative *because* it describes the structure of the interface at which consciousness meets quantum indeterminacy. On this reading, QBism is an under-specified version of the Map's own commitments rather than a rival—the structural frame is right, the ontology is missing.
 
 ## Relational Quantum Mechanics: Relations Without Privilege
 
@@ -139,6 +142,7 @@ No interpretation is proven. The Map does not claim to know which is correct. Wh
 - [[concepts/many-worlds|The Many-Worlds Interpretation]] — Why the Map rejects MWI
 - [[probability-problem-in-many-worlds]] — Why MWI cannot recover the Born rule
 - [[qbism|QBism (Quantum Bayesianism)]]
+- [[pragmatist-quantum-foundations-under-dualism]] — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is accepted
 - [[philosophical-stakes-of-spontaneous-collapse|The Philosophical Stakes of Spontaneous Collapse]]
 - [[quantum-measurement-and-consciousness|The Measurement Problem as Philosophical Problem]]
 - [[quantum-measurement-and-subjective-probability]] — Why subjective probability interpretations fail phenomenologically

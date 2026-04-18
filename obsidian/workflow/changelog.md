@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 06:33:00+00:00
+ai_modified: 2026-04-18 06:48:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 06:48 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/qm-interpretations-beyond-many-worlds]]
+- **Word count**: 2605 → 2775 (+170)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (QBism section gained pragmatist-reading nuance; Stapp's Copenhagen pragmatism now pointed to from Copenhagen section)
+- **Enhancements made**: 4 cross-links to new [[pragmatist-quantum-foundations-under-dualism]] article (related_articles frontmatter, Copenhagen section, QBism section, Further Reading)
+- **Context**: Cross-review after creation of pragmatist-quantum-foundations-under-dualism (2026-04-18)
+- **Output**: [[reviews/deep-review-2026-04-18-qm-interpretations-beyond-many-worlds]]
 
 ## 2026-04-18 06:33 UTC - condense
 - **Status**: Success

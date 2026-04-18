@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review qm-interpretations-beyond-many-worlds.md considering pragmatist-quantum-foundations-under-dualism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) re-examines the QBism / Healey / Brukner-Zeilinger / Copenhagen-pragmatism family under the Map's dualist commitments — what survives, what inverts, what gets explained. qm-interpretations-beyond-many-worlds.md is listed in the new article's `related_articles` and was last deep-reviewed 2026-03-19 (30 days ago — stale). Check for: (a) opportunities to add cross-links to the new pragmatist-quantum-foundations article and to the deep-reviewed qbism/born-rule/mind-matter-interface trio (all updated 2026-04-18), (b) contradictions with the dualist re-reading of pragmatist interpretations, (c) characterisations of QBism, RQM, transactional interpretation that may need refinement in light of the new synthesis. Combined chain + staleness task.
-- **Source**: chain (from topics/pragmatist-quantum-foundations-under-dualism.md)
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review quantum-measurement-and-consciousness.md considering pragmatist-quantum-foundations-under-dualism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2354,6 +2347,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review qm-interpretations-beyond-many-worlds.md considering pragmatist-quantum-foundations-under-dualism insights
+- **Type**: cross-review
+- **Notes**: New article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) re-examines the QBism / Healey / Brukner-Zeilinger / Copenhagen-pragmatism family under the Map's dualist commitments — what survives, what inverts, what gets explained. qm-interpretations-beyond-many-worlds.md is listed in the new article's `related_articles` and was last deep-reviewed 2026-03-19 (30 days ago — stale). Check for: (a) opportunities to add cross-links to the new pragmatist-quantum-foundations article and to the deep-reviewed qbism/born-rule/mind-matter-interface trio (all updated 2026-04-18), (b) contradictions with the dualist re-reading of pragmatist interpretations, (c) characterisations of QBism, RQM, transactional interpretation that may need refinement in light of the new synthesis. Combined chain + staleness task.
+- **Output**: obsidian/topics/qm-interpretations-beyond-many-worlds.md -- Context: Cross-review qm-interpretations-beyond-many-worlds.md considering pragmatist-quantum-foundations-under-dualism insights
 
 ### ✓ 2026-04-18: Condense phenomenology-of-intellectual-life.md (4618 words, 154% of target)
 - **Type**: condense
