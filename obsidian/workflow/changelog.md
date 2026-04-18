@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 11:03:00+00:00
+ai_modified: 2026-04-18 11:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 11:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/zahavian-minimal-self]]
+- **Driver**: [[reviews/pessimistic-2026-04-18b]] high-severity Issues 1, 2, and 8
+- **Changes**:
+  - New section "Choice Under Metaphysical Commitment" added between "Why the Map Requires…" and "Acknowledged Limits". Concedes the Zahavi/Metzinger choice is conditional on the Map's prior tenets (No Many Worlds, Bidirectional Interaction, Dualism) rather than evidence-forced. Engages Metzinger's post-hoc-reconstitution counter directly. (Issue 1)
+  - "A self-model cannot be a causal agent; it is a representation" weakened. Now distinguishes "implicated in" agency from "the bearer of" agency, acknowledges cognitive science treats representations as causally implicated, rests the claim on the Map's dualist commitment. Mirrored fix in "Relation to Site Perspective" Bidirectional Interaction paragraph. (Issue 2)
+  - Constitutive-vs-scalar tension resolved (Issue 8). "Constitutive, not contingent" reframed as a kind-claim with forward reference to "Acknowledged Limits"; that section now explicitly distinguishes structural-necessity-in-kind from uniformity-in-degree.
+- **Word count**: ~1880 → ~2330 (+450, well within concept-article band)
+- **Published**: yes
 
 ## 2026-04-18 11:03 UTC - pessimistic-review
 - **Status**: Success

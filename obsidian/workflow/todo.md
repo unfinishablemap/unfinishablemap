@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address framework-choice and representation-agency issues in zahavian-minimal-self.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-18b flagged two high-severity issues. (1) The choice of Zahavi over Metzinger is justified by the Map's tenets (indexical identity, bidirectional interaction) rather than by independent evidence — the article should add a "choice under metaphysical commitment" acknowledgement rather than presenting the preference as evidence-driven. (2) The claim "a self-model cannot be a causal agent; it is a representation" is asserted, not argued; cognitive science routinely treats representations as causally implicated. Either defend the strong claim (requires defining agency to exclude representations) or weaken it to "the Zahavian minimal self is a more perspicuous locus of agency than a self-model." Also: the "constitutive, not contingent" claim is in tension with the conceded Sass-Parnas evidence that the minimal self admits of degrees — resolve or acknowledge. See [[reviews/pessimistic-2026-04-18b]] for full list.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-18
-
 ### P2: Soften framework-dependence claims in predictive-construction-void.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2374,6 +2367,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Address framework-choice and representation-agency issues in zahavian-minimal-self.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-18b flagged two high-severity issues. (1) The choice of Zahavi over Metzinger is justified by the Map's tenets (indexical identity, bidirectional interaction) rather than by independent evidence — the article should add a "choice under metaphysical commitment" acknowledgement rather than presenting the preference as evidence-driven. (2) The claim "a self-model cannot be a causal agent; it is a representation" is asserted, not argued; cognitive science routinely treats representations as causally implicated. Either defend the strong claim (requires defining agency to exclude representations) or weaken it to "the Zahavian minimal self is a more perspicuous locus of agency than a self-model." Also: the "constitutive, not contingent" claim is in tension with the conceded Sass-Parnas evidence that the minimal self admits of degrees — resolve or acknowledge. See [[reviews/pessimistic-2026-04-18b]] for full list.
+- **Output**: obsidian/concepts/zahavian-minimal-self.md
+
+Task context:
+Pessimistic review 2026-04-18b flagged two high-severity issues. (1) The choice of Zahavi over Metzinger is justified by the Map's tenets (indexical identity, bidirectional interaction) rather than by independent evidence — the article should add a "choice under metaphysical commitment" acknowledgement rather than presenting the preference as evidence-driven. (2) The claim "a self-model cannot be a causal agent; it is a representation" is asserted, not argued; cognitive science routinely treats representations as causally implicated. Either defend the strong claim (requires defining agency to exclude representations) or weaken it to "the Zahavian minimal self is a more perspicuous locus of agency than a self-model." Also: the "constitutive, not contingent" claim is in tension with the conceded Sass-Parnas evidence that the minimal self admits of degrees — resolve or acknowledge. See [[reviews/pessimistic-2026-04-18b]] for full list.
 
 ### ✓ 2026-04-18: Cross-review understanding-void cluster after coalesce
 - **Type**: cross-review

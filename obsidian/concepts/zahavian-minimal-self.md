@@ -4,7 +4,7 @@ description: "Dan Zahavi defends a pre-reflective minimal self as the constituti
 created: 2026-04-18
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-18T10:09:00+00:00
+ai_modified: 2026-04-18T11:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ Several features of the account deserve careful statement:
 
 **Minimal, not substantial.** Zahavi is careful to distinguish his position from Cartesian or classical dualist conceptions. The minimal self is not a little homunculus behind the scenes, nor an unchanging soul-substance. It is simply the subjective character of experience itself — what Zahavi calls its "mineness" (*Jemeinigkeit* in Husserl's German heritage).
 
-**Constitutive, not contingent.** Against eliminativists, Zahavi holds that there is no coherent phenomenology in which experience lacks first-personal givenness altogether. An experience that belonged to no one would not be an experience at all. The minimal self is a necessary structural feature, not an optional one.
+**Constitutive, not contingent (in kind).** Against eliminativists, Zahavi holds that there is no coherent phenomenology in which experience lacks first-personal givenness altogether. An experience that belonged to no one would not be an experience at all. The minimal self is a necessary structural feature, not an optional one. A clarification is in order: clinical evidence (discussed under "Acknowledged Limits" below) shows that first-personal givenness admits of *degrees*. The Map reads "constitutive" as a claim about *kind* — every phenomenal state instantiates for-me-ness to some degree above zero — rather than uniformity of intensity. A scalar feature can still be structurally necessary.
 
 **Compatible with impermanence.** Crucially — and often missed — Zahavi's minimal self does not entail diachronic identity. The claim is synchronic: each conscious moment has first-personal givenness. Whether this grounds numerical identity across time is a further question Zahavi treats with caution. On this point Zahavi converges with some Buddhist critics rather than opposing them outright (see [[buddhism-and-dualism]]).
 
@@ -85,11 +85,19 @@ Three of the Map's core commitments require the Zahavian minimal self specifical
 
 **Indexical identity (No Many Worlds tenet).** The Map's [[tenets#^no-many-worlds|No Many Worlds]] commitment rests on the fact that *this* experience is *mine* and not some duplicate's. First-personal givenness is exactly the structural feature this tenet appeals to. A Metzingerian zero-person phenomenology, if genuinely attainable, would be a phenomenology with no indexical anchor — a consciousness that could in principle be had by anyone or no one. The Map's indexical arguments presuppose the Zahavian picture.
 
-**Bidirectional interaction and agency.** The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires a subject who does the interacting. A self-model cannot be a causal agent; it is a representation. If consciousness causally influences physical outcomes, there must be *someone* whose influence it is. The minimal self, in the Zahavian sense, is the locus required. This is not to claim that Zahavi himself endorses bidirectional causation — he is a phenomenologist, not a metaphysician of interaction — but that his minimal-self posit provides the subject the Map's metaphysics needs.
+**Bidirectional interaction and agency.** The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires a subject whose influence on physical outcomes is real. The Map takes the Zahavian minimal self to be a more perspicuous locus of such agency than a self-model. The earlier draft of this article asserted the stronger claim that "a self-model cannot be a causal agent; it is a representation" — but cognitive science routinely treats representations as causally implicated, and the assertion overreaches as stated. The defensible weaker claim is this: when a self-model causes behaviour, the natural description is that the brain runs the model and the model's content shapes downstream processing. *Implicated in* is not the same role as *the agent of*. On the dualist picture the Map adopts (see [[tenets#^dualism|Dualism]]), the bearer of consciousness does the influencing; representations are part of the structure through which the influence operates. A self-model alone does not supply that bearer; the Zahavian minimal self does. This is not to claim Zahavi himself endorses bidirectional causation — he is a phenomenologist, not a metaphysician of interaction — but that his posit gives the Map's metaphysics the subject it needs.
+
+## Choice Under Metaphysical Commitment
+
+Honesty requires acknowledging the structure of the choice just made. The Zahavi/Metzinger question cannot be decided by ego-dissolution reports alone. Metzinger's reading — that those reports are post-hoc reconstructions produced by a reconstituted self-model after the state has ended — is internally consistent and not refutable by introspective data, since by hypothesis no introspective access to a putative zero-person phase is possible. The convergence of meditator and psychedelic reports is suggestive but not probative; expectation, language, and prior self-modelling shape what gets reported.
+
+The Map's preference for Zahavi over Metzinger is therefore conditional rather than evidence-forced. It is conditional on three further commitments the Map already holds: (i) the indexical structure invoked by the [[tenets#^no-many-worlds|No Many Worlds]] tenet, which presupposes that there is *someone* whose experience is *this* one; (ii) the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, which requires a subject who does the influencing; and (iii) the [[tenets#^dualism|dualist]] commitment that consciousness is not exhausted by its representational structure. If these prior commitments are sound, the Zahavian framework coheres with them and the Metzingerian framework does not. If they are not sound, the parsimony advantage runs to Metzinger.
+
+This is special pleading only if the prior commitments are themselves baseless. The Map argues for them elsewhere; the present article only flags that the choice between Zahavi and Metzinger is one of metaphysical fit, not of empirical compulsion. Subsequent neurophenomenological work — fine-grained EEG/MEG signatures during deep meditative or psychedelic states, paired with carefully prompted retrospective reports — may eventually narrow the space. At present it does not.
 
 ## Acknowledged Limits
 
-The Zahavian position has genuine limitations the Map takes seriously. Mādhyamaka Buddhist critics argue that even the minimal self is a subtle reification and that sustained analysis dissolves it alongside the narrative self (see [[buddhism-and-dualism]]). Sass and Parnas's clinical evidence on schizophrenic ipseity disturbance (discussed in [[clinical-phenomenology-and-altered-experience]]) suggests the minimal self admits of degrees — it can be attenuated, distorted, or partially disrupted — which complicates the claim that it is strictly constitutive. And the synchronic character of Zahavi's account leaves the question of diachronic identity open, requiring the Map to supplement Zahavi with its own [[haecceity|haecceity]]-based commitments.
+The Zahavian position has genuine limitations the Map takes seriously. Mādhyamaka Buddhist critics argue that even the minimal self is a subtle reification and that sustained analysis dissolves it alongside the narrative self (see [[buddhism-and-dualism]]). Sass and Parnas's clinical evidence on schizophrenic ipseity disturbance (discussed in [[clinical-phenomenology-and-altered-experience]]) suggests the minimal self admits of degrees — it can be attenuated, distorted, or partially disrupted. The Map resolves the tension with the earlier "constitutive" claim by distinguishing two questions: whether first-personal givenness is *structurally necessary in kind* (yes — there is no phenomenology that altogether lacks it without ceasing to be phenomenology) and whether it is *uniform in degree* (no — clinical and meditative evidence both suggest gradients). "Constitutive" is the kind-claim, not the degree-claim; a scalar feature can be structurally necessary if every value above zero counts as instantiation. The synchronic character of Zahavi's account also leaves the question of diachronic identity open, requiring the Map to supplement Zahavi with its own [[haecceity|haecceity]]-based commitments.
 
 The Map does not treat Zahavi as the last word, only as the best current framing of the minimal-self position — and specifically the framing that coheres with the Map's broader commitments in a way Metzinger's cannot.
 
@@ -97,7 +105,7 @@ The Map does not treat Zahavi as the last word, only as the best current framing
 
 **[[tenets#^dualism|Dualism]]**: The Zahavian minimal self is a structural feature of phenomenal consciousness that no third-person description captures. First-personal givenness is precisely the feature [[reductionism-and-consciousness|reductive programmes]] cannot accommodate, and its constitutive status rules out accounts that would eliminate subjectivity in favour of a self-model alone.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: A minimal self with first-personal givenness is the kind of entity that can *do* something — a locus of agency rather than a representation of one. Metzinger's self-model cannot be a causal agent; Zahavi's minimal self can.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The Zahavian minimal self is a more perspicuous locus of agency than a self-model. Representations can be causally implicated in cognition, but "implicated in" is not the same role as "the bearer of" agency — and only the latter is what the bidirectional tenet asks for.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The indexical character of first-personal givenness — the fact that this experience is *mine*, unrepeatably — is exactly what the No Many Worlds tenet protects against MWI's proliferation of qualitatively identical subjects.
 
@@ -126,3 +134,15 @@ The Map does not treat Zahavi as the last word, only as the best current framing
 8. Sass, L. A., & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
 9. Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
 10. Southgate, A. & Oquatre-six, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/
+
+<!-- AI REFINEMENT LOG - 2026-04-18
+Changes made in response to pessimistic-2026-04-18b high-severity findings:
+- Added new section "Choice Under Metaphysical Commitment" between "Why the Map Requires…" and "Acknowledged Limits", explicitly conceding that the Zahavi/Metzinger choice is conditional on the Map's prior tenets rather than evidence-forced. Engages Metzinger's post-hoc-reconstitution counter directly (Issue 1).
+- Weakened the "self-model cannot be a causal agent; it is a representation" assertion. Now distinguishes "implicated in" agency from "the bearer of" agency, acknowledges cognitive science treats representations as causally implicated, and rests the claim on the dualist commitment (Issue 2). Mirrored fix in "Relation to Site Perspective" Bidirectional Interaction paragraph.
+- Resolved the constitutive-vs-scalar tension (Issue 8): "Constitutive, not contingent" now flagged as a kind-claim, not a degree-claim, with forward reference to "Acknowledged Limits"; that section now explicitly distinguishes structural-necessity-in-kind from uniformity-in-degree.
+
+Key improvements: Major weaknesses in justification structure addressed. Article now honest about the conditional character of its framework choice and no longer overstates the representation/agency claim.
+
+This log should be removed after human review.
+-->
+
