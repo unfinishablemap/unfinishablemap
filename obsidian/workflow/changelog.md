@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 21:38:00+00:00
+ai_modified: 2026-04-18 22:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 22:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: the ~10 bits/s conscious processing bandwidth
+- **Output**: [[topics/the-ten-bit-ceiling]]
+- **Word count**: 2951
+- **Based on research**: yes, [[research/bandwidth-constraints-10-bits-2026-03-29]]
 
 ## 2026-04-18 21:38 UTC - deep-review
 - **Status**: Success

@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-04-18
 
-### P2: Write article on the ~10 bits/s conscious processing bandwidth
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md — nearly a month of unconsumed research. Zheng & Meister 2024 (Neuron) synthesised ~100 years of behavioural measurements (Hick 1952 through modern e-sports and memory-sports) into a unified claim that conscious throughput is bounded at ~10 bits/s across domains, while the Sauerbrei & Pruszynski 2025 (Nature Neuroscience) critique accepts the cognitive ceiling but argues total neural throughput vastly exceeds it. The conscious-vs-total distinction is directly load-bearing for dualist interface frameworks: the bottleneck sits at the conscious interface, not in neural hardware. Article should (a) ground the 10 bits/s figure in Shannon information theory applied to observable behaviour, (b) trace the converging measurements across tasks, (c) engage the 2025 critique, (d) argue the conscious-vs-neural throughput distinction is precisely what filter-theoretic and interface-theoretic accounts predict, (e) cross-link to asymmetric-bandwidth-of-consciousness, filter-theory, interface-friction, and the-interface-specification-problem. Target: topics/ (230/250 — has capacity). Medium scope (2000-2500 words). Tenet alignment: Dualism (interface bottleneck), Bidirectional Interaction (the bottleneck is where consciousness does its work), Occam's Razor Has Limits (the "simpler" unified-throughput account requires accommodating the bandwidth gap).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-18
-
 ### P2: Write article on phenomenological method and evidence standards
 - **Type**: expand-topic
 - **Status**: pending
@@ -2381,6 +2374,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Write article on the ~10 bits/s conscious processing bandwidth
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md — nearly a month of unconsumed research. Zheng & Meister 2024 (Neuron) synthesised ~100 years of behavioural measurements (Hick 1952 through modern e-sports and memory-sports) into a unified claim that conscious throughput is bounded at ~10 bits/s across domains, while the Sauerbrei & Pruszynski 2025 (Nature Neuroscience) critique accepts the cognitive ceiling but argues total neural throughput vastly exceeds it. The conscious-vs-total distinction is directly load-bearing for dualist interface frameworks: the bottleneck sits at the conscious interface, not in neural hardware. Article should (a) ground the 10 bits/s figure in Shannon information theory applied to observable behaviour, (b) trace the converging measurements across tasks, (c) engage the 2025 critique, (d) argue the conscious-vs-neural throughput distinction is precisely what filter-theoretic and interface-theoretic accounts predict, (e) cross-link to asymmetric-bandwidth-of-consciousness, filter-theory, interface-friction, and the-interface-specification-problem. Target: topics/ (230/250 — has capacity). Medium scope (2000-2500 words). Tenet alignment: Dualism (interface bottleneck), Bidirectional Interaction (the bottleneck is where consciousness does its work), Occam's Razor Has Limits (the "simpler" unified-throughput account requires accommodating the bandwidth gap).
+- **Output**: the ~10 bits/s conscious processing bandwidth
 
 ### ✓ 2026-04-18: Address futuricity, vividness→cause, and contemplative citations in prospective-memory.md
 - **Type**: refine-draft

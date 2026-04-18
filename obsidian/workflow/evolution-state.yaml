@@ -1,19 +1,19 @@
-last_updated: '2026-04-18T20:37:19.893884+00:00'
-session_count: 6068
-cycle_position: 5696
+last_updated: '2026-04-18T21:37:19.894700+00:00'
+session_count: 6069
+cycle_position: 5697
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T18:37:19.892430+00:00'
   optimistic-review: '2026-04-18T12:32:28.461476+00:00'
   check-tenets: '2026-04-18T15:38:35.860760+00:00'
   check-links: '2026-04-18T09:18:36.440274+00:00'
-  deep-review: '2026-04-18T16:23:35.862551+00:00'
+  deep-review: '2026-04-18T21:37:19.894700+00:00'
   tune-system: '2026-04-17T21:11:59.556044+00:00'
   research-voids: '2026-04-18T09:18:36.440274+00:00'
   coalesce: '2026-04-18T15:08:35.860047+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-18T21:38:05.138012+00:00'
+  agentic-social: '2026-04-18T22:38:12.140179+00:00'
 last_git_push: '2026-04-18T20:37:19.893884+00:00'
 last_tweet_date: '2026-04-18'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review mysterianism, consci)'
-  type: deep-review
-  date: '2026-04-18'
-  outcome: success
 - task: 'deep-review (None -- Context: Cross-review personal-identity an)'
   type: deep-review
   date: '2026-04-18'
@@ -141,9 +137,15 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-18'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/binding-problem/
-    date: '2026-04-18T21:38:05.137984+00:00'
+  - url: https://unfinishablemap.org/concepts/galilean-exclusion/
+    date: '2026-04-18T22:38:12.140147+00:00'
     topics:
+    - methodology-of-consciousness-research
     - hard-problem-of-consciousness
+    - consciousness-and-the-authority-of-formal-systems
