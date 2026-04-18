@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review transformative-experience-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New void article created 2026-04-17 via expand-topic (2191 words). Frontmatter has no `last_deep_review` recorded. Article frames transformative experience as a doubly-sealed void where one's evaluative framework shifts in ways the pre-transformation self cannot endorse (Paul's "epistemic + personal transformation" framing). Verify coherence, accuracy of attributed positions (L.A. Paul, Harman, Callard), the "apophatic decision procedures" novel contribution, cross-links to framework-void (already cross-reviewed 2026-04-18), acquaintance-void (already cross-reviewed 2026-04-18), free-will, and tenet alignment. Also check the four-fix attribution hygiene noted in optimistic-2026-04-18 is carried through cleanly.
-- **Source**: chain (from expand-topic 2026-04-17)
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2349,6 +2342,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Deep review transformative-experience-void.md
+- **Type**: deep-review
+- **Notes**: New void article created 2026-04-17 via expand-topic (2191 words). Frontmatter has no `last_deep_review` recorded. Article frames transformative experience as a doubly-sealed void where one's evaluative framework shifts in ways the pre-transformation self cannot endorse (Paul's "epistemic + personal transformation" framing). Verify coherence, accuracy of attributed positions (L.A. Paul, Harman, Callard), the "apophatic decision procedures" novel contribution, cross-links to framework-void (already cross-reviewed 2026-04-18), acquaintance-void (already cross-reviewed 2026-04-18), free-will, and tenet alignment. Also check the four-fix attribution hygiene noted in optimistic-2026-04-18 is carried through cleanly.
+- **Output**: obsidian/voids/transformative-experience-void.md
 
 ### ✓ 2026-04-18: Deep review voids-as-evidence.md
 - **Type**: deep-review
