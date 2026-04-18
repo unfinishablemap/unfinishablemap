@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 00:48:00+00:00
+ai_modified: 2026-04-18 01:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 01:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-under-dualism]]
+- **Word count**: 2637 → 2634 (-3)
+- **Critical issues addressed**: 2 (both LLM-cliché "This is not X. It is Y" pattern violations)
+- **Medium issues addressed**: 0 (two deferred as non-blocking — thin Brukner-Zeilinger section, empirical-distinguishability already externalised)
+- **Enhancements made**: 0 (article is new and structurally sound; preserved strong three-way sorting and agent-shaped-hole framing)
+- **Attribution check**: Passed — Fuchs, Healey, DeBrota-Fuchs-Schack, Brukner-Zeilinger claims all accurate; source/Map separation clean via "The Map reads…" markers
+- **Output**: [[reviews/deep-review-2026-04-18-pragmatist-quantum-foundations-under-dualism]]
 
 ## 2026-04-18 00:48 UTC - expand-topic
 - **Status**: Success

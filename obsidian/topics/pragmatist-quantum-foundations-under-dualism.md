@@ -4,7 +4,7 @@ description: "Human-AI analysis, iteratively refined, of how QBism, Healey, Bruk
 created: 2026-04-18
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-18T00:48:00+00:00
+ai_modified: 2026-04-18T01:04:00+00:00
 draft: false
 topics:
   - "[[pragmatism-and-qbism]]"
@@ -31,11 +31,12 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-18
 last_curated:
+last_deep_review: 2026-04-18T01:04:00+00:00
 ---
 
 Pragmatist quantum foundations — [[qbism|QBism]], Richard Healey's agent-centred interpretation, the Brukner-Zeilinger informational view, and Henry Stapp's Copenhagen pragmatism — form a family unified by one move: they refuse to read the formalism as a description of mind-independent reality and reread it as guidance for situated agents. The Unfinishable Map argues that this family looks very different once dualism is accepted. Some members (Stapp) become natural allies; some (QBism, Healey) turn from competitors into under-specified versions of the Map's own commitments; one technical result (the Born rule reformulated through symmetric informationally complete measurements and Dutch-book coherence) acquires a metaphysical reading its authors explicitly decline to give it. The thread that ties the family together — the irreducibility of the agent — is precisely what the Map's [[interactionist-dualism]] explains and what secular pragmatism leaves as a placeholder.
 
-This article does not defend dualism. It assumes it, in line with Tenet 1, and asks what pragmatist quantum foundations look like from inside that commitment.
+The argument here assumes dualism as a working premise (Tenet 1) rather than defending it, then asks what pragmatist quantum foundations look like from inside that commitment.
 
 ## The Pragmatist Family
 
@@ -81,7 +82,7 @@ On this reading, SIC-POVMs and Dutch-book coherence are not tools for dissolving
 
 The "agent problem" that critics raise against QBism then looks different. Critics complain that QBism presupposes conscious agents without explaining them; Fuchs concedes this openly, treating agents as primitive and irreducible. Under dualism, "primitive and irreducible" is not a concession but a prediction. If consciousness is not reducible to physical processes, any physics that requires conscious agents at its foundations *should* find those agents irreducible within its own vocabulary. QBism's agent-shaped hole is exactly the shape dualism predicts.
 
-This is not a claim that QBists are closet dualists. It is a claim about structural compatibility: the Map's dualism can absorb QBism's technical results without distortion; QBism's anti-realism about quantum states is a separable philosophical choice that the Map does not make and need not make in order to preserve the urgleichung's normative reading.
+The claim here concerns structural compatibility rather than covert dualism among QBists: the Map's dualism can absorb QBism's technical results without distortion, and QBism's anti-realism about quantum states is a separable philosophical choice that the Map does not make and need not make in order to preserve the urgleichung's normative reading.
 
 ## Healey: The Cost of De-Psychologising the Agent
 
