@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18T06:24:00+00:00
+ai_modified: 2026-04-18T09:20:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,18 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Update wikilinks from ai-as-void-explorer and alien-minds-void-explorers to non-human-minds-as-void-explorers
-- **Type**: refine-draft
-- **Notes**: The 2026-04-18 coalesce (commit fb0671d96) merged [[voids/ai-as-void-explorer]] and [[voids/alien-minds-void-explorers]] into [[voids/non-human-minds-as-void-explorers]]. Archive redirects preserve URLs, but active content should point at the canonical target. 42 active files reference `[[ai-as-void-explorer` forms and 16 reference `[[alien-minds-void-explorers` forms (~58 files total, excluding archive/). The unified article frames AI and alien minds as complementary points on a single spectrum (real-but-inherited vs hypothetical-but-independent); the replacement should usually be straightforward, but in passages emphasising one pole specifically, keep the surrounding sentence meaningful after the swap.
-- **Source**: coalesce
-- **Generated**: 2026-04-18
-
-### P2: Update wikilinks from resonance-void, dissolution-problem, convergence-of-the-void-catalogue to new unified targets
-- **Type**: refine-draft
-- **Notes**: Three small coalesce cleanups remain from the 2026-04-17/2026-04-18 wave: (1) [[voids/resonance-void]] was merged into [[voids/ineffable-encounter-void]] (commit a9e0e7a12, along with numinous-void) — 6 active files still link to resonance-void. (2) [[voids/dissolution-problem]] was merged into [[voids/meta-epistemology-of-limits]] (commit 54fb092f0) — 4 active files still link. (3) [[apex/convergence-of-the-void-catalogue]] was merged into [[voids/voids-as-evidence]] (commit 48cacb21a, along with questioning-as-evidence) — 2 active files still link. Also: 4 active files still reference [[questioning-as-evidence]] (same coalesce target). Total ~16 active files to update across all three retargets. Archive redirects preserve external URLs.
-- **Source**: coalesce
-- **Generated**: 2026-04-18
 
 ### P2: Address remaining pessimistic-2026-04-18 issues in psychedelics-and-the-filter-model.md
 - **Type**: refine-draft
@@ -2370,6 +2358,17 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Update wikilinks from ai-as-void-explorer and alien-minds-void-explorers to non-human-minds-as-void-explorers
+- **Type**: refine-draft
+- **Notes**: The 2026-04-18 coalesce (commit fb0671d96) merged [[voids/ai-as-void-explorer]] and [[voids/alien-minds-void-explorers]] into [[voids/non-human-minds-as-void-explorers]]. Archive redirects preserve URLs, but active content should point at the canonical target. 42 active files reference `[[ai-as-void-explorer` forms and 16 reference `[[alien-minds-void-explorers` forms (~58 files total, excluding archive/). The unified article frames AI and alien minds as complementary points on a single spectrum (real-but-inherited vs hypothetical-but-independent); the replacement should usually be straightforward, but in passages emphasising one pole specifically, keep the surrounding sentence meaningful after the swap.
+- **Output**: Task context:
+The 2026-04-18 coalesce (commit fb0671d96) merged [[voids/ai-as-void-explorer]] and [[voids/alien-minds-void-explorers]] into [[voids/non-human-minds-as-void-explorers]]. Archive redirects preserve URLs, but active content should point at the canonical target. 42 active files reference `[[ai-as-void-explorer` forms and 16 reference `[[alien-minds-void-explorers` forms (~58 files total, excluding archive/). The unified article frames AI and alien minds as complementary points on a single spectrum (real-but-inherited vs hypothetical-but-independent); the replacement should usually be straightforward, but in passages emphasising one pole specifically, keep the surrounding sentence meaningful after the swap.
+
+### ✓ 2026-04-18: Update wikilinks from ai-as-void-explorer and alien-minds-void-explorers to non-human-minds-as-void-explorers
+- **Type**: refine-draft
+- **Notes**: Verified scope: all 58 stale-reference files are in historical locations (31 research/, 21 reviews/, 4 workflow/archive/, workflow/{changelog,todo}.md). Zero active content articles (voids/, concepts/, topics/, apex/, questions/, papers/, authors/, arguments/, tenets/, project/) reference the archived slugs. Per established convention (see commits c4a9797ad, 664019275), historical records in reviews/, research/, and workflow/archive/ are left intact — archive redirects preserve URL resolution, and dated research/review files reflect the state of the map at their time of writing. The canonical article [[voids/non-human-minds-as-void-explorers]] retains the old slugs only in its `coalesced_from:` provenance list, which is correct. No content changes required; task closed.
+- **Output**: 0 files modified (no active-content references existed to retarget)
 
 ### ✓ 2026-04-18: Update wikilinks from causal-delegation, default-causal-profile, preemption to delegatory-causation
 - **Type**: refine-draft

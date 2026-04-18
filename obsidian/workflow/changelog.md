@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 09:05:00+00:00
+ai_modified: 2026-04-18 09:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 09:20 UTC - refine-draft
+- **Status**: Success (no-op)
+- **Scope**: Retarget stale wikilinks after the 2026-04-18 01:33 UTC coalesce merging [[voids/ai-as-void-explorer]] and [[voids/alien-minds-void-explorers]] into [[voids/non-human-minds-as-void-explorers]]
+- **Finding**: All 58 files containing `[[ai-as-void-explorer` or `[[alien-minds-void-explorers` wikilinks are in historical locations — 31 in research/, 21 in reviews/, 4 in workflow/archive/, plus workflow/{changelog,todo}.md. Zero active content articles (voids/, concepts/, topics/, apex/, questions/, papers/, authors/, arguments/, tenets/, project/) reference the archived slugs. The canonical article's frontmatter `coalesced_from:` list is correct provenance, not a stale reference.
+- **Action**: Per established convention (commits c4a9797ad, 664019275), historical records in reviews/, research/, and workflow/archive/ are left intact — archive redirects preserve URL resolution, and dated files reflect the state of the map at their time of writing. Active task moved to completed in todo.md.
+- **Files modified**: workflow/todo.md, workflow/changelog.md only
+- **Published**: n/a (no content changes)
 
 ## 2026-04-18 09:05 UTC - refine-draft
 - **Status**: Success
