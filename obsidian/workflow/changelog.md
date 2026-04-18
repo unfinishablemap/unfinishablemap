@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 10:32:00+00:00
+ai_modified: 2026-04-18 10:47:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 10:47 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/understanding-void]]
+- **Word count**: 2941 → 2932 (-9, length-neutral mode at 147% of soft threshold)
+- **Critical issues addressed**: 2 (two LLM "X is not Y" clichés at the end of "The Feeling That Doesn't Ground Itself" and within the functionalist reply — both rephrased to positive claims)
+- **Medium issues addressed**: 1 ("aha" experience reattributed to Gestalt psychology with philosophy of science as secondary adopter)
+- **Enhancements made**: 0 (cross-review after coalesce — inbound links already updated in 07:49 UTC refine-draft pass; outbound links verified; both precursor articles were stable pre-coalesce)
+- **Attribution check**: Clean — Rozenblit & Keil, Trout, Lipton, de Regt, Wittgenstein, Heidegger, Schutz, Arango-Muñoz & Michaelian, Fernández Velasco & Loev, McGinn, Kvanvig all accurately cited; no dropped qualifiers, no source/Map conflation
+- **Context**: First review of post-coalesce unified article. Both precursors ([[archive/voids/obviousness-void]] reviewed 2x on 2026-03-26, [[archive/voids/explanatory-void]] reviewed 2026-03-11) were stable. Dual-structure framing preserved; load-bearing coalesce move noted in stability section.
+- **Deferred**: Functionalist paragraph placement (inside "Where the Void Intersects Other Voids" is structurally awkward); Mādhyamaka counter-reading (would need ~80 words, article near hard threshold)
+- **Output**: [[reviews/deep-review-2026-04-18-understanding-void]]
 
 ## 2026-04-18 10:32 UTC - refine-draft
 - **Status**: Success

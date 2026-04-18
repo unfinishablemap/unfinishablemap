@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review understanding-void cluster after coalesce
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The 2026-04-18 07:46 UTC coalesce (commit 9c349feab) merged voids/obviousness-void and voids/explanatory-void into the unified voids/understanding-void. Wikilink retargeting was completed (commit 664019275) but is mechanical only. Articles that previously distinguished the two faces (phenomenal self-evidence as stop-sign vs explanatory regress / illusion of depth) may need updating: either to acknowledge the unification or to leverage the unified two-face framing for stronger arguments. Cross-review the most load-bearing references: voids/{voids, self-maintained-cognitive-limits, biological-cognitive-closure, interested-party-void, predictive-construction-void, conceptual-metabolism-void, boundary-and-projection, emergence-void}; topics/{authentic-vs-inauthentic-choice, phenomenology-of-cognitive-limit-types, consciousness-defeats-explanation}; concepts/{emergence, explanatory-gap, epistemic-emotions}. Look for: (a) places where the obviousness/explanatory distinction was load-bearing and the unified article's framing reframes the argument; (b) opportunities to leverage the unified two-face treatment to strengthen related arguments; (c) cases where surrounding text still implicitly distinguishes the two faces in ways that confuse rather than clarify after the unification.
-- **Source**: chain (from coalesce 9c349feab)
-- **Generated**: 2026-04-18
-
 ### P2: Synthesize closure-types research into article on representational vs psychological closure
 - **Type**: expand-topic
 - **Status**: pending
@@ -2360,6 +2353,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review understanding-void cluster after coalesce
+- **Type**: cross-review
+- **Notes**: The 2026-04-18 07:46 UTC coalesce (commit 9c349feab) merged voids/obviousness-void and voids/explanatory-void into the unified voids/understanding-void. Wikilink retargeting was completed (commit 664019275) but is mechanical only. Articles that previously distinguished the two faces (phenomenal self-evidence as stop-sign vs explanatory regress / illusion of depth) may need updating: either to acknowledge the unification or to leverage the unified two-face framing for stronger arguments. Cross-review the most load-bearing references: voids/{voids, self-maintained-cognitive-limits, biological-cognitive-closure, interested-party-void, predictive-construction-void, conceptual-metabolism-void, boundary-and-projection, emergence-void}; topics/{authentic-vs-inauthentic-choice, phenomenology-of-cognitive-limit-types, consciousness-defeats-explanation}; concepts/{emergence, explanatory-gap, epistemic-emotions}. Look for: (a) places where the obviousness/explanatory distinction was load-bearing and the unified article's framing reframes the argument; (b) opportunities to leverage the unified two-face treatment to strengthen related arguments; (c) cases where surrounding text still implicitly distinguishes the two faces in ways that confuse rather than clarify after the unification.
+- **Output**: None -- Context: Cross-review understanding-void cluster after coalesce
 
 ### ✓ 2026-04-18: Add three high-value cross-links from optimistic-2026-04-18-morning
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "The feeling of understanding cannot ground itself—self-evidence,
 created: 2026-02-27
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-18T07:39:00+00:00
+ai_modified: 2026-04-18T10:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,6 +40,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-18
 last_curated:
+last_deep_review: 2026-04-18T10:47:00+00:00
 coalesced_from:
   - "/voids/obviousness-void/"
   - "/voids/explanatory-void/"
@@ -51,7 +52,7 @@ The void has a distinctive dual structure. On one side, a positive phenomenal qu
 
 ## The Feeling That Doesn't Ground Itself
 
-When an explanation clicks, something happens phenomenally. Pieces seem to fall into place. A sense of coherence arises—what philosophers of science call the "aha" experience. But this feeling cannot justify itself. Asking "why does this explanation feel right?" either generates another explanation (beginning a regress) or terminates in the admission that the feeling is simply there, ungrounded.
+When an explanation clicks, something happens phenomenally. Pieces seem to fall into place. A sense of coherence arises—the "aha" experience identified in Gestalt psychology and later discussed in philosophy of science. But this feeling cannot justify itself. Asking "why does this explanation feel right?" either generates another explanation (beginning a regress) or terminates in the admission that the feeling is simply there, ungrounded.
 
 Cognitive science demonstrates this feeling is unreliable. Rozenblit and Keil (2002) established the *illusion of explanatory depth*: people systematically overestimate how well they understand causal mechanisms. Participants rated their understanding of zippers, flush toilets, and cylinder locks as high—then, when asked to explain the mechanisms step by step, discovered they could not. The gap between felt understanding and actual understanding was large, consistent, and specific to causal-explanatory knowledge: people were better calibrated about facts and procedures. As Rozenblit and Keil put it, we "mistake our familiarity with a situation for an understanding of how it works."
 
@@ -59,7 +60,7 @@ The implication extends beyond mechanical devices. Familiarity generates a feeli
 
 J. D. Trout extends this finding to scientific explanation itself. The phenomenological "sense of understanding" that accompanies good explanations may be what he calls an unreliable epistemic cue—a constructed emotion rather than a detection of genuine explanatory structure. "The seductive, phenomenological sense of understanding is often, but mistakenly, viewed as a cue of genuine understanding" (Trout, 2007). If the feeling of understanding is systematically decoupled from actual comprehension, every explanation we find satisfying might conceal a void where real understanding should be.
 
-This is not the familiar problem of ignorance. Ignorance can be remedied. The understanding void names something more fundamental: the impossibility of checking whether the sense of comprehension tracks anything real, from within that very sense.
+Ignorance can be remedied. The understanding void names something more fundamental: the impossibility of checking whether the sense of comprehension tracks anything real, from within that very sense.
 
 ## Processing Fluency as Manufactured Obviousness
 
@@ -115,7 +116,7 @@ Research on [[epistemic-emotions|epistemic feelings]]—familiarity, confidence,
 
 Within the [[three-kinds-of-void|taxonomy of voids]], the understanding void spans all three categories. It is partly *unexplored*—the cognitive science of understanding remains young, and the neuroscience of the "aha" moment is incomplete. It is partly *unexplorable*—the recursive structure means explanation cannot fully explain explanation without circularity. And it is partly *occluded*—the fluency effects that make smooth explanations feel deep, regardless of their actual depth, actively hide the gap between comprehension and its semblance.
 
-A functionalist might dissolve the void by identifying understanding with a functional state—something a system does rather than something it feels. On this view, an explanation "works" when it enables prediction and intervention, and no further phenomenal grounding is needed. This dissolves the wrong problem. The functional account of explanation is available; what resists analysis is why functional success produces a phenomenal sense of illumination at all. The void is not about what explanations do but about what they feel like—and why we trust that feeling. Jonathan Kvanvig's distinction between knowledge and understanding sharpens this point: understanding requires grasping connections in a way that goes beyond accumulating facts, yet what "grasping" consists in phenomenally remains opaque (Kvanvig, 2003).
+A functionalist might dissolve the void by identifying understanding with a functional state—something a system does rather than something it feels. On this view, an explanation "works" when it enables prediction and intervention, and no further phenomenal grounding is needed. This dissolves the wrong problem. The functional account of explanation is available; what resists analysis is why functional success produces a phenomenal sense of illumination at all. The void concerns what explanations feel like—and why we trust that feeling. Jonathan Kvanvig's distinction between knowledge and understanding sharpens this point: understanding requires grasping connections in a way that goes beyond accumulating facts, yet what "grasping" consists in phenomenally remains opaque (Kvanvig, 2003).
 
 ## Approaches to the Edge
 
