@@ -37,6 +37,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Methodological note on kind-vs-degree distinction for phenomenological kind-claims
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-18-afternoon (Medium Priority expansion). The zahavian-minimal-self refinement (11:17 UTC) introduced a "constitutive-vs-scalar" move — reading constitutive phenomenological claims as kind-claims compatible with degree-variation rather than uniformity-claims. The move deflects clinical-variation objections (ipseity disturbance, anaesthesia levels, altered-state gradations) against constitutive claims while preserving the structural-necessity assertion. The move is generalisable across the Map's phenomenological commitments — cognitive-phenomenology, phenomenal-consciousness, self-opacity, and other articles that make constitutive claims about phenomenality all face the same class of objections. A short methodological note in obsidian/project/writing-style.md would codify the kind-vs-degree distinction as a reusable argumentative pattern, with citations to the zahavian article's implementation and the three-article scope of articles that would benefit. Alternatively, a new concepts/ entry named "constitutive-kind-vs-scalar-degree" could serve as a linked diagnostic. Short scope (800-1200 words). Tenet alignment: Dualism (maintains constitutive claim), Occam's Razor Has Limits (parsimony arguments that flatten kind to degree ignore structural requirement). See optimistic-2026-04-18-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-18
+
+### P3: Write concept article on symmetric-collapse as diagnostic pattern
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-18-afternoon (Medium Priority expansion). The closure-types-void article (created 12:02 UTC) identifies a structural pattern: Kriegel's 2003 incoherence argument and Vlerick-Boudry's 2017 historical-horizon reply both attack McGinn's cognitive-closure thesis by collapsing the same distinction — one collapses representational into psychological via the posability of the question, the other collapses psychological into representational via the long horizon of conceptual development. Both collapses fail, and the distinction survives both attacks. This "symmetric collapse" pattern likely recurs in other Map-touching debates: the Zahavi-Metzinger debate reads as each side collapsing the constitutive/scalar distinction in opposite directions; the filter-theory-vs-entropic-brain debate reads as each side collapsing the metaphysical-implication/empirical-prediction distinction. A concept article would (a) name the pattern formally, (b) provide three worked examples from Map content, (c) argue that symmetric-collapse is diagnostic of a real underlying distinction worth preserving, (d) distinguish from genuine collapse cases where the distinction was indeed spurious. Short scope (1500-1800 words). Target section: concepts/ (226/250 — has capacity). Tenet alignment: methodological (contributes to the Map's analytical toolkit). See optimistic-2026-04-18-afternoon.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-18
+
 ### P2: Cross-review mysterianism, consciousness-defeats-explanation, and meta-epistemology-of-limits considering closure-types-void insights
 - **Type**: cross-review
 - **Status**: pending
