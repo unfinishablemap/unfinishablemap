@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept page on Zahavian Minimal Self (vs Metzinger)
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-18-morning under "New Concept Pages Needed". The 2026-04-18 psychedelics-and-the-filter-model refine-draft clarified the Map's commitment to Zahavi's (not Metzinger's) minimal-self account at the ego-dissolution section, in response to pessimistic Issue 7. Without a dedicated concept page, future articles risk drifting back toward ambiguity between the two positions (Metzinger is a self-model eliminativist; Zahavi posits a substantive pre-reflective minimal self). A page would (a) state the Zahavian position explicitly with citations to Zahavi's *Subjectivity and Selfhood*, (b) distinguish it from Metzinger's Self-Model Theory, Strawson's no-self, and Hume's bundle, (c) explain why the Map's filter theory and ego-dissolution evidence specifically requires the Zahavian (not Metzinger-eliminativist) version of minimal-self, (d) anchor links from psychedelics-and-the-filter-model, narrative-self-and-cognitive-self, personal-identity, anaesthesia-and-the-consciousness-interface, the-observer-witness-in-meditation, and self-and-self-consciousness. Medium scope (1500-2000 words). Target section: concepts/ (226/250 — room). Tenet alignment: Dualism (the Zahavian minimal self is what survives ego-dissolution and grounds the witness in altered states), Bidirectional Interaction. See optimistic-2026-04-18-morning.md "New Concept Pages Needed" section.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-18
-
 ### P2: Add three high-value cross-links from optimistic-2026-04-18-morning
 - **Type**: refine-draft
 - **Status**: pending
@@ -2381,6 +2374,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Write concept page on Zahavian Minimal Self (vs Metzinger)
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-18-morning under "New Concept Pages Needed". The 2026-04-18 psychedelics-and-the-filter-model refine-draft clarified the Map's commitment to Zahavi's (not Metzinger's) minimal-self account at the ego-dissolution section, in response to pessimistic Issue 7. Without a dedicated concept page, future articles risk drifting back toward ambiguity between the two positions (Metzinger is a self-model eliminativist; Zahavi posits a substantive pre-reflective minimal self). A page would (a) state the Zahavian position explicitly with citations to Zahavi's *Subjectivity and Selfhood*, (b) distinguish it from Metzinger's Self-Model Theory, Strawson's no-self, and Hume's bundle, (c) explain why the Map's filter theory and ego-dissolution evidence specifically requires the Zahavian (not Metzinger-eliminativist) version of minimal-self, (d) anchor links from psychedelics-and-the-filter-model, narrative-self-and-cognitive-self, personal-identity, anaesthesia-and-the-consciousness-interface, the-observer-witness-in-meditation, and self-and-self-consciousness. Medium scope (1500-2000 words). Target section: concepts/ (226/250 — room). Tenet alignment: Dualism (the Zahavian minimal self is what survives ego-dissolution and grounds the witness in altered states), Bidirectional Interaction. See optimistic-2026-04-18-morning.md "New Concept Pages Needed" section.
+- **Output**: Write concept page on Zahavian Minimal Self (vs Metzinger)
 
 ### ✓ 2026-04-18: Address remaining pessimistic-2026-04-18 issues in psychedelics-and-the-filter-model.md
 - **Type**: refine-draft

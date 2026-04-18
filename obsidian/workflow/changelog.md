@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 09:47:00+00:00
+ai_modified: 2026-04-18 10:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 10:09 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Zahavian Minimal Self (vs Metzinger)
+- **Output**: [[concepts/zahavian-minimal-self]]
+- **Word count**: 1886
+- **Based on research**: no — drew on existing Map articles (self-and-self-consciousness, the-self-minimal-narrative-and-substantial, psychedelics-and-the-filter-model) and primary sources (Zahavi 2005/2014, Metzinger 2003/2020, Strawson 2009)
+- **Notes**: P2 task from optimistic-2026-04-18-morning. Establishes a dedicated concept page anchoring the Map's commitment to Zahavi's minimal self over Metzinger's self-model eliminativism. Two-channel structure: source exposition (Zahavi's position, Metzinger's alternative, Strawson/Hume contrasts) separated from Map integration (why filter theory, indexical identity, and bidirectional interaction require the Zahavian version). Acknowledges limits: Mādhyamaka critique, ipseity-disturbance evidence for degrees, synchronic-only scope.
 
 ## 2026-04-18 09:47 UTC - refine-draft
 - **Status**: Success
