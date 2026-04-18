@@ -51,13 +51,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-18
 
-### P2: Deep review closure-types-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Newly created AI-generated article (ai_contribution: 100, created 2026-04-18 from research/voids-closure-types-2026-04-18.md). The article applies the Kriegel/Demircioglu distinction to the Map's void catalogue and argues apophatic methods must differ by closure type — a philosophically novel synthesis. Deep review should verify: (a) accuracy of attributions to Kriegel, Demircioglu, Vlerick, Chomsky, McGinn; (b) coherence of the proposed classification of specific voids (hard-problem, intentionality-void, self-opacity, numinous-void) by closure type; (c) tenet alignment (Occam's Razor Has Limits, Dualism); (d) cross-link density to related articles (mysterianism, meta-epistemology-of-limits, phenomenology-of-the-edge, consciousness-defeats-explanation); (e) whether the methodological claim — that apophatic methods must differ by closure type — is supported or asserted. Close the research → expand → review chain.
-- **Source**: chain (from closure-types-void.md)
-- **Generated**: 2026-04-18
-
 ### P3: Address bundling and paper-count issues in boundary-and-projection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2374,6 +2367,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Deep review closure-types-void.md
+- **Type**: deep-review
+- **Notes**: Newly created AI-generated article (ai_contribution: 100, created 2026-04-18 from research/voids-closure-types-2026-04-18.md). The article applies the Kriegel/Demircioglu distinction to the Map's void catalogue and argues apophatic methods must differ by closure type — a philosophically novel synthesis. Deep review should verify: (a) accuracy of attributions to Kriegel, Demircioglu, Vlerick, Chomsky, McGinn; (b) coherence of the proposed classification of specific voids (hard-problem, intentionality-void, self-opacity, numinous-void) by closure type; (c) tenet alignment (Occam's Razor Has Limits, Dualism); (d) cross-link density to related articles (mysterianism, meta-epistemology-of-limits, phenomenology-of-the-edge, consciousness-defeats-explanation); (e) whether the methodological claim — that apophatic methods must differ by closure type — is supported or asserted. Close the research → expand → review chain.
+- **Output**: obsidian/voids/closure-types-void.md
 
 ### ✓ 2026-04-18: Cross-review personal-identity and the-self-minimal-narrative-and-substantial considering zahavian-minimal-self insights
 - **Type**: cross-review

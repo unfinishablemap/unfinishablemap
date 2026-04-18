@@ -4,15 +4,15 @@ description: "Representational and psychological closure are distinct species of
 created: 2026-04-18
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T12:02:00+00:00
+ai_modified: 2026-04-18T13:32:00+00:00
+last_deep_review: 2026-04-18T13:32:00+00:00
 draft: false
 topics:
-  - "[[mysterianism]]"
   - "[[hard-problem-of-consciousness]]"
 concepts:
   - "[[mysterianism]]"
-  - "[[conceptual-impossibility]]"
   - "[[introspection]]"
+  - "[[inventory-blindness]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[compound-failure-signatures]]"
   - "[[non-human-minds-as-void-explorers]]"
+  - "[[conceptual-impossibility]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -69,11 +70,11 @@ This classification is not a stable taxonomy. It is a working hypothesis about s
 
 The deeper result is not the first-order distinction but its inaccessibility. *From within a mind, there is no reliable procedure for determining which type of closure one is facing.*
 
-Representational closure is, by its own definition, undetectable. If a mind's concept-forming procedures cannot extend to P, the mind lacks the very resources needed to notice the insufficiency. There is no phenomenology of representational absence; minds do not represent what they cannot represent. Psychological closure, by contrast, leaves traces: partial understanding, conceptual handles that slip, formulations that feel close but wrong. But the *difference* between "we have not yet constructed the concepts" and "our concept-forming procedures could never construct them" is exactly what is not visible from inside.
+Representational closure is, by its own definition, undetectable. If a mind's concept-forming procedures cannot extend to P, the mind lacks the very resources needed to notice the insufficiency. There is no phenomenology of representational absence; minds do not represent what they cannot represent. This is the closure-types analogue of [[inventory-blindness]]: absent capabilities produce no signal marking their absence. Psychological closure, by contrast, leaves traces: partial understanding, conceptual handles that slip, formulations that feel close but wrong. But the *difference* between "we have not yet constructed the concepts" and "our concept-forming procedures could never construct them" is exactly what is not visible from inside.
 
 The history of apparent representational closures that turned out to be psychological supplies the indirect evidence. Each of Vlerick and Boudry's examples looked, to participants, like a principled conceptual limit; in retrospect the concepts existed but had not been assembled. The track record does not prove there are no genuine representational closures. It shows that minds are unreliable judges of which is which. The asymmetry of error is systematic: false positives for representational closure outnumber false negatives, because the phenomenology of merely hard problems mimics principled impossibility.
 
-This second-order void is what makes the first-order distinction philosophically serious rather than merely taxonomic. The distinction is not a taxonomy we can apply from within and rest on. It is a lens that exposes the limits of our self-diagnosis.
+This second-order void is what makes the first-order distinction philosophically serious rather than merely taxonomic. The distinction works as a lens exposing the limits of our self-diagnosis, rather than as a taxonomy we can apply from within and rest on.
 
 ## Methodological Consequences
 
@@ -81,7 +82,7 @@ This second-order void is what makes the first-order distinction philosophically
 
 **Void claims should declare their type.** An article that says "X is unknowable" should specify whether the claim is representational, psychological, or ambiguous, and flag the second-order uncertainty. [[apophatic-cartography]] becomes sharper when it drops the pretence that it is mapping a single type of wall. Different closure types admit different indirect probes, and apophatic description of the wall's *shape* is how the Map can contribute without overclaiming its type.
 
-**Mysterianism is partially rehabilitated.** Kriegel's argument succeeds against naive representational claims derived from the mere posability of the question, but does not touch sophisticated mysterianism that locates closure in the mismatch between our concept-forming procedures and the property's true theory.
+**Mysterianism is partially rehabilitated.** Kriegel's argument bites against psychological closure, and against any version of mysterianism that conflates the form of an answer (which posing the question requires) with its content (which posing does not). It does not touch sophisticated representational mysterianism, which locates closure in the mismatch between our concept-forming procedures and the property's true theory.
 
 ## Relation to Site Perspective
 
