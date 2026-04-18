@@ -4,7 +4,7 @@ description: "Why does consciousness come in discrete subjects? The individuatio
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[process-philosophy]]"
 related_articles:
   - "[[tenets]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[inaccessible-past]]"
   - "[[binding-problem]]"
   - "[[identity-across-transformations]]"
@@ -137,7 +137,7 @@ The individuation question connects to all five of the Map's [[tenets]], but mos
 - [[split-brain-consciousness]] — Empirical evidence on subject boundaries
 - [[combination-problem]] — How micro-subjects fail to compose macro-subjects
 - [[unity-of-consciousness]] — Phenomenal unity, its varieties, and what makes experiences belong to one subject
-- [[other-minds-void]] — The epistemic asymmetry in consciousness access
+- [[voids-between-minds]] — The epistemic asymmetry in consciousness access
 - [[identity-across-transformations]] — Apex synthesis: identity through radical change
 - [[binding-problem]] — The related problem of what binds experiences into a unified field
 - [[self-and-self-consciousness]] — The minimal self and phenomenology of subjecthood

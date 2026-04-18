@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,8 +30,7 @@ last_deep_review: 2026-03-22 14:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[intersubjective-void]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 - '[[introspection]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[argument-from-reason]]'
@@ -168,7 +167,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Meaning and conscious comprehension
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Shared consciousness and joint action
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How consciousness converts experience into language
-- [intersubjective-void](/voids/voids-between-minds/) — The constitutive gap between consciousnesses
+- [voids-between-minds](/voids/voids-between-minds/) — The constitutive gap between consciousnesses
 - [knowledge-argument](/concepts/knowledge-argument/) — What testimony cannot convey about phenomenal experience
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — Deciding without full information
 - [cumulative-culture](/concepts/cumulative-culture/) — How testimonial networks build civilisation

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-18 02:03:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ related_articles:
 - '[[machine-question]]'
 - '[[apophatic-cartography]]'
 - '[[recognition-void]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[embodied-cognition]]'
 - '[[meta-epistemology-of-limits]]'

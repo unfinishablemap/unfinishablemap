@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 13:54:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 14:09 UTC - deep-review
+- **Status**: Success
+- **Task**: Update wikilinks to coalesced voids-between-minds articles
+- **Scope**: 42 active content files (topics/, concepts/, voids/, apex/)
+- **Wikilinks retargeted**: ~122 references across `[other-minds-void](/voids/voids-between-minds/)`, `[second-person-void](/voids/voids-between-minds/)`, `[intersubjective-void](/voids/voids-between-minds/)` (plus display-text variants) → `[voids-between-minds](/voids/voids-between-minds/)`
+- **Prose dedupes**: 10 locations where parallel references collapsed to one (See also lists, "X and Y both explore" clauses, triple-reference enumerations in closure-types-void, taxonomy-of-voids, voids-as-evidence, commensurability-void)
+- **Frontmatter dedupes**: consecutive duplicate `related_articles` entries removed across affected files
+- **Citation fix**: commensurability-void reference #5 URL updated to voids-between-minds
+- **Research/archive files**: Left as historical snapshots (URLs continue to resolve via archive redirects)
 
 ## 2026-04-18 13:54 UTC - coalesce
 - **Status**: Success

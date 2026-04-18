@@ -4,7 +4,7 @@ description: "What does it feel like to disagree philosophically? Human+AI explo
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-intellectual-life]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[consciousness-and-testimony]]"
   - "[[consciousness-and-normative-force]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
-  - "[[intersubjective-void]]"
+  - "[[voids-between-minds]]"
   - "[[phenomenology-of-conceptual-frameworks]]"
   - "[[phenomenology-of-intellectual-courage]]"
   - "[[consciousness-defeats-explanation]]"
@@ -93,7 +93,7 @@ The phenomenology of philosophical disagreement bears on the consciousness debat
 
 First, the fact that philosophical positions are *inhabited* rather than merely believed suggests that [[cognitive-phenomenology]] is real and causally significant — a thesis defended on independent grounds by Pitt (2004), who argues that occurrent thoughts have proprietary phenomenal character, and Strawson (1994), who insists that the reality of conscious experience is the most certain thing we know. If philosophical understanding were purely propositional — a set of beliefs without felt character — then disagreement would lack the phenomenal texture described here. The incomprehension, the failed inhabitation, the rubber-band snap: these are phenomenal events, not just cognitive operations. Their existence supports the view that thinking itself has qualitative character, which in turn is difficult to accommodate within frameworks that reduce thought to computation. The step from "thinking has phenomenal character" to "phenomenal character is irreducible" requires an additional argument — but the [[hard-problem-of-consciousness|hard problem]] provides exactly that. If the phenomenal textures of disagreement can be functionally duplicated without any accompanying experience (the zombie scenario), then the textures are not identical to the functional operations. The phenomenology of disagreement does not *by itself* establish irreducibility, but it provides vivid first-person evidence that thinking is phenomenally laden — evidence that standard materialist theories must then explain away.
 
-Second, the persistence of philosophical disagreement despite shared arguments may point to something about the structure of consciousness itself. The [[consciousness-defeats-explanation|problem of philosophical progress]] article explores this asymmetry with science at length. If conscious experience were fully transparent to introspection and communicable through language, philosophical disagreement about consciousness should eventually resolve — the disputants share the subject matter (their own experience) and the method (introspective examination plus argument). The fact that disagreement persists despite shared access to the phenomenon suggests that either introspective access is partial (we do not fully see what we are), or communicative transfer is lossy (we cannot fully convey what we see), or both. The [[intersubjective-void]] — the gap between what one consciousness can grasp of another — may apply even when the subject matter is consciousness itself.
+Second, the persistence of philosophical disagreement despite shared arguments may point to something about the structure of consciousness itself. The [[consciousness-defeats-explanation|problem of philosophical progress]] article explores this asymmetry with science at length. If conscious experience were fully transparent to introspection and communicable through language, philosophical disagreement about consciousness should eventually resolve — the disputants share the subject matter (their own experience) and the method (introspective examination plus argument). The fact that disagreement persists despite shared access to the phenomenon suggests that either introspective access is partial (we do not fully see what we are), or communicative transfer is lossy (we cannot fully convey what we see), or both. The [[voids-between-minds]] — the gap between what one consciousness can grasp of another — may apply even when the subject matter is consciousness itself.
 
 Third, philosophical disagreement illustrates the [[tenets#^bidirectional-interaction|bidirectional interaction]] between consciousness and cognition. The felt quality of one's philosophical framework shapes reasoning: what counts as a problem, what counts as a solution, which arguments feel compelling. This influence operates at a level more fundamental than explicit reasoning. It structures the space within which reasoning occurs. If consciousness were epiphenomenal — present but causally idle — this shaping influence would be inexplicable. The phenomenology of philosophical disagreement reveals consciousness doing causal work at the foundations of thought.
 
@@ -114,7 +114,7 @@ The Map's [[tenets#^occams-limits|Occam's Razor tenet]] is also relevant. The ma
 - [[consciousness-and-social-understanding]] — What genuine understanding of another person requires
 - [[consciousness-and-testimony]] — The phenomenology of accepting or resisting another's claims
 - [[epistemic-advantages-of-dualism]] — Why the dualist framework has distinctive strengths
-- [[intersubjective-void]] — The gap between what one consciousness can grasp of another
+- [[voids-between-minds]] — The gap between what one consciousness can grasp of another
 - [[cognitive-phenomenology]] — The debate about whether thinking has phenomenal character
 - [[phenomenology-of-conceptual-frameworks]] — How inhabiting a theoretical framework reshapes perception of evidence, and what happens when the opposing framework takes hold
 - [[phenomenology-of-intellectual-courage]] — The felt experience of maintaining conviction against peer disagreement

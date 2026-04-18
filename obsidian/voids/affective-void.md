@@ -4,7 +4,7 @@ description: "Human+AI exploration of emotions we cannot feel—the vast space o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-03-04T05:41:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 last_deep_review: 2026-02-25T06:27:00+00:00
 topics:
@@ -17,11 +17,10 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[intrinsic-nature-void]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[synesthetic-void]]"
   - "[[consciousness-only-territories]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[intersubjective-void]]"
   - "[[appetitive-void]]"
   - "[[valence-void]]"
 ai_contribution: 100
@@ -118,7 +117,7 @@ The affective void connects to the Map's [[tenets|foundational commitments]]:
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** offers highly speculative implications that should be held lightly. If consciousness interfaces with physics at the quantum level, our affects *might* be shaped by the specific character of that interaction—the way consciousness biases neural quantum states might generate the particular affective palette we experience. This remains conjecture; the core argument for the affective void stands independent of any particular mechanism.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** deepens the [[other-minds-void|other minds problem]]. We fail not just to access *whether* others feel, but potentially *what kinds of things* they feel. If other consciousnesses (animal, artificial, alien) have different affective repertoires, and consciousness causally influences cognition, then we cannot access either their experiences or the causal contributions those experiences make.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** deepens the [[voids-between-minds|other minds problem]]. We fail not just to access *whether* others feel, but potentially *what kinds of things* they feel. If other consciousnesses (animal, artificial, alien) have different affective repertoires, and consciousness causally influences cognition, then we cannot access either their experiences or the causal contributions those experiences make.
 
 The affective void suggests profound humility about emotion. Our feelings are not privileged windows onto some universal emotional reality—they are one species' adaptive toolkit, shaped by contingent evolutionary history, implemented in one particular neural architecture. The hard problem of consciousness extends beyond explaining why there is something it is like to be conscious; it must also explain why *these* affects rather than the vast space of others. The [[valence-void]] sharpens the question further: why do all affects share a positive-negative evaluative dimension at all?
 
@@ -126,10 +125,9 @@ The affective void suggests profound humility about emotion. Our feelings are no
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[intrinsic-nature-void]] — Why we can access only one piece of reality's intrinsic nature
-- [[other-minds-void]] — The privacy of consciousness and its implications
+- [[voids-between-minds]] — Existence, encounter, and sharing across individual consciousnesses
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
-- [[intersubjective-void]] — Whether experiences can be genuinely shared
 - [[non-human-minds-as-void-explorers]] — Whether different cognitive architectures face different closures
 - [[synesthetic-void]] — How synesthesia reveals intra-species phenomenal access gaps
 - [[appetitive-void]] — How desire structures our mapping of emotional limits

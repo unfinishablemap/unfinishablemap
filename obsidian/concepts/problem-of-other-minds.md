@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Six philosophical approaches
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-04-15T12:50:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[problem-of-other-minds-2026-01-14]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -78,7 +78,7 @@ This captures how interpersonal understanding actually feels: immediate, percept
 
 Edmund Husserl's phenomenological analysis offers a deeper insight: the other is accessible *precisely insofar as* they are constituted as inaccessible. When I encounter you, I encounter another *subject*—someone with their own inner life that I cannot enter. The very constitution of you as another subject requires recognizing what I cannot access.
 
-This reframes the problem. The asymmetry is not failure but success—if I could directly access your experience, you would not be another subject but an extension of me. The [[other-minds-void|void between minds]] is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. Empathy operates through this structure: we "feel into" the other, imagining their perspective while knowing we imagine rather than share it.
+This reframes the problem. The asymmetry is not failure but success—if I could directly access your experience, you would not be another subject but an extension of me. The [[voids-between-minds|void between minds]] is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. Empathy operates through this structure: we "feel into" the other, imagining their perspective while knowing we imagine rather than share it.
 
 ### The Argument from Discourse
 
@@ -142,7 +142,7 @@ Conjoined twins Krista and Tatiana Hogan share a thalamic bridge—neural tissue
 
 Brain-computer interface research raises similar questions in principle: if connecting neural systems could yield shared experience, the asymmetry would be technological rather than metaphysical. The thought experiment clarifies what's at stake without resolving it.
 
-These cases don't eliminate the [[other-minds-void|void between minds]] but suggest its boundaries may be more complex than simple introspection reveals. For almost all humans in almost all circumstances, the asymmetry holds. Whether it is *necessarily* so remains open.
+These cases don't eliminate the [[voids-between-minds|void between minds]] but suggest its boundaries may be more complex than simple introspection reveals. For almost all humans in almost all circumstances, the asymmetry holds. Whether it is *necessarily* so remains open.
 
 ## What Would Challenge This View?
 
@@ -162,7 +162,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 
 ### Site Content
 - [[consciousness-and-the-problem-of-other-properties]] — Even granting other minds exist, which phenomenal properties do they instantiate?
-- [[other-minds-void]] — The voids framework treatment: why the gap is constitutive of intersubjectivity
+- [[voids-between-minds]] — The voids framework treatment: why the gap is constitutive of intersubjectivity
 - [[objectivity-and-consciousness]] — Why the "view from nowhere" fails for consciousness
 - [[theory-of-mind]] — Mental state attribution as evidence for other minds
 - [[concept-of-consciousness-and-social-cognition]] — How consciousness enables the social cognition that grounds other-minds inference

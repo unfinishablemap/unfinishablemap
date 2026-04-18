@@ -4,7 +4,7 @@ description: "Human+AI exploration of whether consciousness itself has changed o
 created: 2026-03-01
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 last_deep_review: 2026-03-11T02:38:00+00:00
 draft: false
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[inaccessible-past]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[observation-and-measurement-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[three-kinds-of-void]]"
@@ -106,7 +106,7 @@ The Map's own framework is itself historically situated. The Unfinishable Map's 
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[inaccessible-past]] — The parallel void within a single lifetime: your own past is inaccessible
-- [[other-minds-void]] — Access to consciousness beyond our own
+- [[voids-between-minds]] — Access to consciousness beyond our own
 - [[observation-and-measurement-void]] — Why introspection cannot verify its own accuracy
 - [[biological-cognitive-closure]] — Cross-cultural evidence for shared cognitive limits and conceptual acquisition boundaries
 - [[self-maintained-cognitive-limits]] — Thoughts we systematically flee

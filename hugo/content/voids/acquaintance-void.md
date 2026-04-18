@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-18 01:18:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[intrinsic-nature-void]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 - '[[consciousness-only-territories]]'
 - '[[synesthetic-void]]'
 - '[[biological-cognitive-closure]]'
@@ -48,7 +48,7 @@ Missing qualia are individual absences within a *type* of acquaintance we alread
 
 **Acquaintance with causation.** We infer causal relations from observed regularities. A mind directly acquainted with causal power—experiencing the *making-happen* as immediately as we experience colour—would inhabit an epistemic territory structurally closed to us.
 
-**Acquaintance with other minds.** The [other-minds-void](/voids/voids-between-minds/) charts our inability to access others' phenomenal states. But the limit may be architectural: perhaps some minds achieve direct acquaintance with each other's qualitative states, collapsing the other-minds problem through a mode of contact we lack entirely.
+**Acquaintance with other minds.** The [voids-between-minds](/voids/voids-between-minds/) charts our inability to access others' phenomenal states. But the limit may be architectural: perhaps some minds achieve direct acquaintance with each other's qualitative states, collapsing the other-minds problem through a mode of contact we lack entirely.
 
 These are not science fiction speculations. Russell's Principle of Acquaintance states that all understanding bottoms out in things we are acquainted with. If there are modes of acquaintance we cannot have, there are forms of understanding we cannot reach—not through ignorance that further inquiry could remedy, but through structural limits on the kinds of direct contact our minds can sustain.
 
@@ -110,7 +110,7 @@ This mutual opacity is not merely a practical limitation but a structural featur
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — The epistemic category that results from phenomenal acquaintance
 - [transformative-experience-void](/voids/transformative-experience-void/) — The acquaintance gap as it operates between temporal stages of a single life
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beyond structural description
-- [other-minds-void](/voids/voids-between-minds/) — Access to consciousness beyond our own
+- [voids-between-minds](/voids/voids-between-minds/) — Access to consciousness beyond our own
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through experience
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our species
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — What concepts minds can and cannot form

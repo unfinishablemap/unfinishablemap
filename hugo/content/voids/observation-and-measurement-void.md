@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-04-17 19:43:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ related_articles:
 - '[[whether-real]]'
 - '[[necessary-opacity]]'
 - '[[intrinsic-nature-void]]'
-- '[[intersubjective-void]]'
+- '[[voids-between-minds]]'
 - '[[consciousness-and-the-problem-of-measurement-standards]]'
 - '[[integrated-information-theory]]'
 - '[[psychophysical-laws]]'
@@ -157,7 +157,7 @@ The [constitutive-exclusion](/topics/constitutive-exclusion/) develops a further
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own constitutive contribution
 - [mutation-void](/voids/mutation-void/) — Thought-contents that are constitutively unstable under attention
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter and consciousness are in themselves, beneath structure and experience
-- [intersubjective-void](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
+- [voids-between-minds](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
 - [necessary-opacity](/voids/necessary-opacity/) — Consciousness cannot verify its own accuracy, and piercing this opacity destabilises the system
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/) — The formal triad that physical measurement requires and consciousness lacks

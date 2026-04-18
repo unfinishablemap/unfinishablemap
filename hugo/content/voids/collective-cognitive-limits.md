@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -55,7 +55,7 @@ Eviatar Zerubavel's work on "conspiracies of silence" describes a different mech
 
 This is Occluded territory rather than Unexplorable. The elephant isn't invisible; it's defended—a form of [defended territory](/voids/self-maintained-cognitive-limits/) operating at the group level. Each conspirator's silence is "symbiotically complemented by others'." Breaking silence requires going from awareness to acknowledgment—a social transition, not merely an individual cognitive act.
 
-Zerubavel documents this across domains: family secrets, institutional cover-ups, national myths. The universality suggests something structural about collective cognition rather than contingent failures of particular groups. Minds coordinated through social structure develop shared blind spots as a feature, not a bug — and the [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) framework explains *why* at the individual level: Robert Trivers argues that self-deception evolved to facilitate social deception, meaning each participant's silence is partly maintained by evolved cognitive machinery that hides uncomfortable truths from the self before they can be shared. The [intersubjective-void](/voids/voids-between-minds/) examines how these mechanisms operate specifically on phenomenal reports—testimony, hermeneutical injustice, and the spiral of silence filtering non-standard conscious experience from collective discourse.
+Zerubavel documents this across domains: family secrets, institutional cover-ups, national myths. The universality suggests something structural about collective cognition rather than contingent failures of particular groups. Minds coordinated through social structure develop shared blind spots as a feature, not a bug — and the [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) framework explains *why* at the individual level: Robert Trivers argues that self-deception evolved to facilitate social deception, meaning each participant's silence is partly maintained by evolved cognitive machinery that hides uncomfortable truths from the self before they can be shared. The [voids-between-minds](/voids/voids-between-minds/) examines how these mechanisms operate specifically on phenomenal reports—testimony, hermeneutical injustice, and the spiral of silence filtering non-standard conscious experience from collective discourse.
 
 The phenomenology differs from paradigm blindness. Approaching the elephant produces social discomfort—a sense that naming the obvious would be transgressive. You *can* think it; you feel pressure not to express or even fully acknowledge it. This contrasts with Kuhn's paradigm-bound scientist who genuinely cannot see the alternative.
 

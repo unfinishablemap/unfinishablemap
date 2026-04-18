@@ -4,7 +4,7 @@ description: "What the lived experience of translating between languages reveals
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-04-13T19:57:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[consciousness-and-language-interface]]"
   - "[[language-thought-boundary]]"
   - "[[phenomenology-of-intellectual-life]]"
-  - "[[intersubjective-void]]"
+  - "[[voids-between-minds]]"
   - "[[consciousness-and-social-understanding]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
@@ -92,7 +92,7 @@ The remainder also exhibits the [[clinical-phenomenology-and-altered-experience|
 
 ## Translation and the Intersubjective Void
 
-Translation involves not just two languages but (typically) two minds. The translator attempts to grasp what the author meant — to cross the [[intersubjective-void|intersubjective void]] — and then to re-express that meaning for a different audience. This double crossing reveals something about the structure of understanding itself.
+Translation involves not just two languages but (typically) two minds. The translator attempts to grasp what the author meant — to cross the [[voids-between-minds|intersubjective void]] — and then to re-express that meaning for a different audience. This double crossing reveals something about the structure of understanding itself.
 
 ### Phenomenal Empathy Across Languages
 
@@ -128,7 +128,7 @@ The phenomenology of translation connects to the Map's [[tenets]] at several poi
 - [[language-thought-boundary]] — Where thought exceeds what language can capture
 - [[cognitive-phenomenology]] — Whether thinking has phenomenal character beyond sensory accompaniments
 - [[phenomenology-of-intellectual-life]] — How consciousness constitutes semantic grasp
-- [[intersubjective-void]] — The gap between minds that translation attempts to bridge
+- [[voids-between-minds]] — The gap between minds that translation attempts to bridge
 - [[consciousness-and-social-understanding]] — Phenomenal engagement with other minds
 - [[clinical-phenomenology-and-altered-experience]] — How disruptions of experience reveal consciousness architecture
 - [[phenomenology-of-agency-vs-passivity]] — The felt difference between doing and undergoing

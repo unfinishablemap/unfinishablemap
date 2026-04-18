@@ -4,7 +4,7 @@ description: "Trust has a distinctive felt character that information processing
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-16T04:19:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 last_deep_review: 2026-03-25T14:13:00+00:00
 draft: false
 topics:
@@ -23,8 +23,7 @@ concepts:
   - "[[intentionality]]"
 related_articles:
   - "[[tenets]]"
-  - "[[other-minds-void]]"
-  - "[[intersubjective-void]]"
+  - "[[voids-between-minds]]"
   - "[[consciousness-and-collective-phenomena]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[emotion-and-dualism]]"
@@ -54,7 +53,7 @@ There is also trust's relationship to time. Trust is not a snapshot assessment b
 
 Trust sits at the heart of the [[problem-of-other-minds|problem of other minds]]. To trust someone genuinely, you must experience them as a conscious being — as someone who could keep faith with you or betray you, not a mechanism that will either deliver expected outputs or fail.
 
-This creates a distinctive epistemic situation. You can never have direct access to another person's intentions. The [[intersubjective-void|intersubjective void]] — the unchartable gap between your consciousness and theirs — means that trust always operates across an abyss. You experience this abyss phenomenologically: the slight vertigo of depending on someone whose inner life you cannot directly inspect, the felt leap involved in proceeding as though their commitments are genuine.
+This creates a distinctive epistemic situation. You can never have direct access to another person's intentions. The [[voids-between-minds|intersubjective void]] — the unchartable gap between your consciousness and theirs — means that trust always operates across an abyss. You experience this abyss phenomenologically: the slight vertigo of depending on someone whose inner life you cannot directly inspect, the felt leap involved in proceeding as though their commitments are genuine.
 
 The Map's dualist framework illuminates why this abyss exists. If consciousness is irreducible to physical processes, then another person's inner life is not merely practically inaccessible (because we lack the right instruments) but constitutively so: there is something about first-person experience that cannot be read off any third-person description, no matter how complete. The [[consciousness-and-intersubjectivity|constitutive structure of intersubjectivity]] — how minds relate to one another at all — shapes what trust can and cannot be. Trust, then, is the practice of acting across this constitutive gap. It is one of the ways consciousness copes with its own irreducibility in the social domain.
 
@@ -120,7 +119,7 @@ The [[tenets#^occams-limits|limits of Occam's Razor]] (Tenet 5) caution against 
 - [[problem-of-other-minds]]
 - [[intersubjectivity]]
 - [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]]
-- [[intersubjective-void]]
+- [[voids-between-minds]]
 - [[consciousness-and-collective-phenomena]]
 - [[phenomenology-of-deliberation-under-uncertainty]]
 - [[emotion-and-dualism]]

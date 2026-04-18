@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-06 07:26:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -58,7 +58,7 @@ related_articles:
 - '[[introspection-reliability-first-person-2026-01-15]]'
 - '[[ethics-and-value-in-a-dualist-world]]'
 - '[[observation-and-measurement-void]]'
-- '[[intersubjective-void]]'
+- '[[voids-between-minds]]'
 - '[[objectivity-and-consciousness]]'
 - '[[epistemology-of-convergence-arguments]]'
 - '[[epistemology-of-other-minds-under-dualism]]'

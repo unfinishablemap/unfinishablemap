@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-26
-ai_modified: 2026-04-18 12:47:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,7 +42,7 @@ related_articles:
 - '[[consciousness-and-neurodegenerative-disease]]'
 - '[[pragmatisms-path-to-dualism]]'
 - '[[pragmatism]]'
-- '[[intersubjective-void]]'
+- '[[voids-between-minds]]'
 - '[[the-convergence-argument-for-dualism]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[epistemic-advantages-of-dualism]]'
@@ -159,7 +159,7 @@ A genuine resolution would require one of:
 
 **[Dualism](/tenets/#dualism)**: The collective failure of every major theory of explanation and every theoretical virtue to accommodate consciousness supports the claim that consciousness is irreducible. These represent philosophy of science's best accounts of how understanding works. Their collective failure signals a category difference between physical phenomena and conscious experience. The reflexive gap provides a structural reason: the explanatory framework through which reduction operates is itself dependent on consciousness.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Explanatory power, elegance, and fertility are assessed through phenomenal states — understanding, aesthetic response, the felt sense of productive inquiry. If consciousness causally contributes to theory selection, then the process of choosing between theories of consciousness is not a neutral evaluation but an exercise in which consciousness reflexively evaluates theories about itself. A purely third-person methodology that treats consciousness as epiphenomenal will systematically miss what consciousness does. The [intersubjective-void](/voids/voids-between-minds/) compounds the difficulty: the social infrastructure of explanation systematically fails for phenomenal experience.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Explanatory power, elegance, and fertility are assessed through phenomenal states — understanding, aesthetic response, the felt sense of productive inquiry. If consciousness causally contributes to theory selection, then the process of choosing between theories of consciousness is not a neutral evaluation but an exercise in which consciousness reflexively evaluates theories about itself. A purely third-person methodology that treats consciousness as epiphenomenal will systematically miss what consciousness does. The [voids-between-minds](/voids/voids-between-minds/) compounds the difficulty: the social infrastructure of explanation systematically fails for phenomenal experience.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" view — that science will eventually explain consciousness as it explains everything else — ignores the reflexive gap. Consciousness is not another entry on science's to-do list. It is the condition that makes the list possible. If the phenomenal sense of understanding is unreliable (per Rozenblit, Keil, and Trout), then our preference for simpler explanations may reflect cognitive architecture rather than reality's structure. The entire toolkit of theoretical virtues fails, not just simplicity.
 

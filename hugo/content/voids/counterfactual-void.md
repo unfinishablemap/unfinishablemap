@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[imagination-and-creativity-void]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[consciousness-only-territories]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 - '[[inaccessible-past]]'
 - '[[framework-void]]'
 - '[[biological-cognitive-closure]]'
@@ -103,7 +103,7 @@ The counterfactual void connects to The Unfinishable Map's [tenets](/tenets/) at
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — Where thought encounters the formally unthinkable
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — How bodily architecture constrains cognition
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Whether all minds converge on the same boundaries
-- [other-minds-void](/voids/voids-between-minds/) — The inaccessibility of alien phenomenology
+- [voids-between-minds](/voids/voids-between-minds/) — The inaccessibility of alien phenomenology
 - [inaccessible-past](/voids/inaccessible-past/) — The inaccessibility of our own former experience
 - [framework-void](/voids/framework-void/) — The inability to think outside our conceptual framework
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Experiential terrain that resists third-person description

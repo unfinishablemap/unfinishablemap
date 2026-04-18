@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-16 21:10:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -135,7 +135,7 @@ Why? Several possibilities:
 
 **Privacy and publicity**: Grasping a concept requires something like intersubjective triangulation—we check our understanding against others'. But I cannot check whether my red matches yours. Without triangulation, genuine conceptual formation may be impossible.
 
-The qualia case suggests that ineffability isn't always a deficiency in our language. Some content may be *constitutively* private, unable in principle to enter the public domain that language requires. The [intersubjective-void](/voids/voids-between-minds/) explores how this privacy compounds at the social level: experiences that resist linguistic encoding are progressively filtered out of collective discourse through hermeneutical injustice, social calibration, and the spiral of silence.
+The qualia case suggests that ineffability isn't always a deficiency in our language. Some content may be *constitutively* private, unable in principle to enter the public domain that language requires. The [voids-between-minds](/voids/voids-between-minds/) explores how this privacy compounds at the social level: experiences that resist linguistic encoding are progressively filtered out of collective discourse through hermeneutical injustice, social calibration, and the spiral of silence.
 
 ## Relation to Site Perspective
 

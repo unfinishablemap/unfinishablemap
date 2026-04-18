@@ -4,7 +4,7 @@ description: "Groups are not conscious, but collective intentionality requires i
 created: 2026-02-15
 modified: 2026-04-02
 human_modified: null
-ai_modified: 2026-04-04T00:38:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-social-understanding]]"
@@ -25,8 +25,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[collective-cognitive-limits]]"
-  - "[[intersubjective-void]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[phenomenology-of-trust]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[consciousness-and-normative-force]]"
@@ -70,7 +69,7 @@ The Map finds proposals for group consciousness — from Durkheim's *conscience 
 
 **The interface problem.** The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that consciousness interfaces with the physical world through quantum indeterminacy in neural systems. A group of people has no analogous physical substrate. Communication between people — speech, gesture, writing — is classical, macroscopic, and far too coarse-grained to serve as a quantum consciousness interface. Without a physical interface, the Map's framework provides no mechanism for group consciousness.
 
-**The phenomenological evidence.** No juror reports participating in a jury-mind. The "group flow" reported by jazz musicians and sports teams — a phenomenon explored further in the Map's treatment of [[phenomenology-of-musical-understanding|musical understanding]] — is better described as synchronised individual consciousness, each player deeply aware of the others, rather than a merged group experience. This synchronisation can produce a genuine phenomenal shift from I-mode to we-mode experience, but the "we" is an intentional structure within each individual consciousness, not a bridge between them. The [[intersubjective-void]] persists even through the most intense experiences of togetherness.
+**The phenomenological evidence.** No juror reports participating in a jury-mind. The "group flow" reported by jazz musicians and sports teams — a phenomenon explored further in the Map's treatment of [[phenomenology-of-musical-understanding|musical understanding]] — is better described as synchronised individual consciousness, each player deeply aware of the others, rather than a merged group experience. This synchronisation can produce a genuine phenomenal shift from I-mode to we-mode experience, but the "we" is an intentional structure within each individual consciousness, not a bridge between them. The [[voids-between-minds]] persists even through the most intense experiences of togetherness.
 
 **The classical success objection** asks: if collective intelligence works through classical communication, why believe individual cognition needs quantum processes? The Map's response is that the argument concerns where *consciousness* acts, not where *intelligence* arises. Ant colonies demonstrate that intelligence without consciousness is possible; what the Map argues is that distinctively human intelligence — requiring genuine understanding — depends on consciousness acting through quantum-sensitive neural substrates.
 
@@ -169,7 +168,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet counsels against di
 - [[consciousness-and-social-understanding]] — How individual consciousness enables the social cognition that makes collective phenomena possible
 - [[combination-problem]] — The challenge of explaining how experiences combine, relevant in both directions
 - [[collective-cognitive-limits]] — The voids perspective: how groups create emergent blind spots
-- [[intersubjective-void]] — Why the gap between individual minds persists even in tightly coupled groups
+- [[voids-between-minds]] — Why the gap between individual minds persists even in tightly coupled groups
 - [[the-strong-emergence-of-consciousness]] — Strong emergence and the consciousness debate
 - [[intentionality]] — The "aboutness" of mental states and its relation to consciousness
 - [[social-construction-of-self-vs-phenomenal-self]] — Why social construction requires phenomenal subjects

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-17 20:56:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -30,7 +30,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[acquaintance-void]]'
-- '[[second-person-void]]'
+- '[[voids-between-minds]]'
 title: Consciousness-Only Territories
 topics:
 - '[[ai-consciousness]]'

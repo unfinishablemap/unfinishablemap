@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-17 06:25:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[biological-cognitive-closure]]'
 - '[[scale-void]]'

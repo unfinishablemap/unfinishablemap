@@ -4,7 +4,7 @@ description: "Testimony requires consciousness to function yet cannot fully conv
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,8 +24,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
 related_articles:
   - "[[tenets]]"
-  - "[[intersubjective-void]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[introspection]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[argument-from-reason]]"
@@ -99,7 +98,7 @@ The danger of testimonial authority lies precisely in its phenomenal power. Beca
 
 ## Testimony Across the Intersubjective Void
 
-Testimony is an epistemic bridge across the [[intersubjective-void|intersubjective void]] — the constitutive gap between one consciousness and another. When someone tells you what they experienced, their words carry information across an abyss that no physical measurement can fully bridge. The speaker converts phenomenal experience into linguistic form through the [[consciousness-and-language-interface|consciousness-language interface]]; the listener receives the linguistic form and reconstructs something of the phenomenal experience on their side.
+Testimony is an epistemic bridge across the [[voids-between-minds|intersubjective void]] — the constitutive gap between one consciousness and another. When someone tells you what they experienced, their words carry information across an abyss that no physical measurement can fully bridge. The speaker converts phenomenal experience into linguistic form through the [[consciousness-and-language-interface|consciousness-language interface]]; the listener receives the linguistic form and reconstructs something of the phenomenal experience on their side.
 
 This process is imperfect and everyone knows it. The felt inadequacy of testimony about subjective experience — the sense that words cannot fully convey what pain, beauty, or terror is like — is itself a phenomenological datum. Testimony conveys real knowledge across the void, but the conveyance is inherently lossy because the phenomenal exceeds the propositional.
 
@@ -165,7 +164,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet is
 - [[phenomenology-of-intellectual-life]] — Meaning and conscious comprehension
 - [[consciousness-and-collective-phenomena]] — Shared consciousness and joint action
 - [[consciousness-and-language-interface]] — How consciousness converts experience into language
-- [[intersubjective-void]] — The constitutive gap between consciousnesses
+- [[voids-between-minds]] — The constitutive gap between consciousnesses
 - [[knowledge-argument]] — What testimony cannot convey about phenomenal experience
 - [[phenomenology-of-deliberation-under-uncertainty]] — Deciding without full information
 - [[cumulative-culture]] — How testimonial networks build civilisation

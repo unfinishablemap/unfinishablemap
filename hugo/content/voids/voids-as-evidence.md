@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-18 03:05:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -85,7 +85,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The catalogue'
 
 **The Self-Knowledge Cluster.** The [self-reference paradox](/voids/self-opacity/), introspective opacity, [calibration void](/voids/observation-and-measurement-void/), [past-self void](/voids/inaccessible-past/), and [necessary opacity](/voids/necessary-opacity/) converge on a different boundary: consciousness cannot fully examine itself. Signature: **recursive collapse**—each attempt to deepen self-examination encounters itself as obstacle.
 
-**The Intersubjectivity Gap.** The [other minds void](/voids/voids-between-minds/), [intersubjective void](/voids/voids-between-minds/), and [synesthetic void](/voids/synesthetic-void/) share the asymmetry between first-person access and third-person inference. Signature: **epistemic asymmetry**—knowledge structurally available inward and structurally unavailable outward.
+**The Intersubjectivity Gap.** The [voids between minds](/voids/voids-between-minds/) and the [synesthetic void](/voids/synesthetic-void/) share the asymmetry between first-person access and third-person inference. Signature: **epistemic asymmetry**—knowledge structurally available inward and structurally unavailable outward.
 
 **The Cognitive Architecture Family.** [Evolved cognitive limits](/voids/biological-cognitive-closure/), [formal cognitive limits](/voids/formal-cognitive-limits/), [attention-created voids](/voids/attention-and-consciousness/), [habituation void](/voids/disappearance-voids/), [language-thought boundary](/voids/language-thought-boundary/), and [scale void](/voids/scale-void/) reveal constraints imposed by the specific architecture of human minds. The [Recognition Void's](/voids/recognition-void/) "inventory blindness" deepens this family. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Unlike the phenomenal core, the failure is specific to biological cognition, making [AI triangulation](/voids/non-human-minds-as-void-explorers/) directly applicable.
 

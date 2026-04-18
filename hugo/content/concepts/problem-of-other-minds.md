@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-15 12:50:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[problem-of-other-minds-2026-01-14]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 title: Problem of Other Minds
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -164,7 +164,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 
 ### Site Content
 - [consciousness-and-the-problem-of-other-properties](/topics/consciousness-and-the-problem-of-other-properties/) — Even granting other minds exist, which phenomenal properties do they instantiate?
-- [other-minds-void](/voids/voids-between-minds/) — The voids framework treatment: why the gap is constitutive of intersubjectivity
+- [voids-between-minds](/voids/voids-between-minds/) — The voids framework treatment: why the gap is constitutive of intersubjectivity
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Why the "view from nowhere" fails for consciousness
 - [theory-of-mind](/concepts/theory-of-mind/) — Mental state attribution as evidence for other minds
 - [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/) — How consciousness enables the social cognition that grounds other-minds inference

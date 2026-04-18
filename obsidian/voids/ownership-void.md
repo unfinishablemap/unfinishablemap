@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why we cannot introspect how experiences bec
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[self-opacity]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[necessary-opacity]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[consciousness-and-the-ownership-problem]]"
@@ -110,7 +110,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet applies. Predictive
 - [[self-reference-paradox]] — The observer that cannot observe itself observing
 - [[self-opacity|introspective opacity]] — Why cognitive processes hide from introspection
 - [[necessary-opacity]] — When cognitive mechanisms become invisible through transparency, and why this opacity is structural
-- [[other-minds-void]] — The impossibility of accessing another subject's ownership
+- [[voids-between-minds]] — The impossibility of accessing another subject's ownership
 - [[phenomenology-of-the-edge]] — What approaching limits feels like
 - [[self-and-self-consciousness]] — Minimal self, pre-reflective awareness, and the circularity of self-knowledge
 - [[consciousness-and-the-ownership-problem]] — Why experience belongs to anyone, and what happens when it stops

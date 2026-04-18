@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -11,8 +11,7 @@ concepts:
 - '[[objectivity-and-consciousness]]'
 - '[[heterophenomenology]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
-- '[[other-minds-void]]'
-- '[[intersubjective-void]]'
+- '[[voids-between-minds]]'
 - '[[contemplative-epistemology]]'
 created: 2026-01-23
 date: &id001 2026-01-25
@@ -58,7 +57,7 @@ This perception of other subjects constitutes the intersubjective world. The obj
 
 Husserl's later work on *Vergemeinschaftung* (communalisation) extends this analysis beyond dyadic encounter to collective intentionality — the [phenomenology of "we-mode" experience](/topics/consciousness-and-collective-phenomena/) where individual experiential streams become intertwined without merging. Intersubjectivity grounds not just knowledge of other minds but the capacity for genuinely shared intentions, commitments, and projects.
 
-Husserl's later work also reveals a deeper insight: the other is accessible *precisely insofar as* they are constituted as ultimately inaccessible. When I encounter you, I encounter another *subject*—someone with their own inner life that I cannot enter. The very constitution of you as another subject requires recognizing what I cannot access. This is not failure but success: if I could directly access your experience, you would not be another subject but an extension of me. The [void between minds](/voids/voids-between-minds/) is constitutive of intersubjectivity itself. Recognition of the void *is* recognition of the other as other. The [phenomenology of trust](/topics/phenomenology-of-trust/) reveals one way consciousness copes with this constitutive gap: trust is the practice of acting across the void, sustaining felt openness toward another subject whose inner life remains inaccessible. A further question then arises: even granting mutual recognition, can experiences be genuinely *shared*—or does each mind remain a fundamentally private stream? The [intersubjective-void](/voids/voids-between-minds/) explores this deeper puzzle.
+Husserl's later work also reveals a deeper insight: the other is accessible *precisely insofar as* they are constituted as ultimately inaccessible. When I encounter you, I encounter another *subject*—someone with their own inner life that I cannot enter. The very constitution of you as another subject requires recognizing what I cannot access. This is not failure but success: if I could directly access your experience, you would not be another subject but an extension of me. The [voids between minds](/voids/voids-between-minds/) are constitutive of intersubjectivity itself—they distinguish three structural limits: whether other minds exist, what the encounter itself delivers, and whether experiences can be genuinely shared. Recognition of the void *is* recognition of the other as other. The [phenomenology of trust](/topics/phenomenology-of-trust/) reveals one way consciousness copes with this constitutive gap: trust is the practice of acting across the void, sustaining felt openness toward another subject whose inner life remains inaccessible.
 
 ## Second-Person Methodology
 
@@ -132,8 +131,7 @@ Intersubjectivity also connects to methodology. The [first-person/third-person d
 
 ## Further Reading
 
-- [other-minds-void](/voids/voids-between-minds/) — The voids framework treatment: why the gap between minds is constitutive of intersubjectivity
-- [intersubjective-void](/voids/voids-between-minds/) — Whether experiences can be genuinely shared or remain fundamentally private
+- [voids-between-minds](/voids/voids-between-minds/) — The voids framework treatment: existence, encounter, and sharing across individual consciousnesses
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How dualism shapes the epistemic landscape of knowing other minds
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as a knowledge source, grounding the contemplative evidence discussed here
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — The "view from nowhere" and its limits; objectivity as intersubjective agreement

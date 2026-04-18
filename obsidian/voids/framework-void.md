@@ -4,7 +4,7 @@ description: "Every conceptual framework excludes what it cannot represent. The 
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-18T02:34:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -113,7 +113,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [[limits-reveal-structure]] — The principle that what we cannot think reveals what kind of minds we are
 - [[biological-cognitive-closure]] — Cross-cultural evidence for species-level framework constraints
 - [[non-human-minds-as-void-explorers]] — Whether AI and alien minds can transcend human framework limits
-- [[intersubjective-void|The Intersubjective Void]] — How social knowledge mechanisms enforce framework constraints on phenomenal reports
+- [[voids-between-minds|The Intersubjective Void]] — How social knowledge mechanisms enforce framework constraints on phenomenal reports
 - [[transformative-experience-void|The Transformative Experience Void]] — Lived choices a framework's elegance excludes rather than captures
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ last_deep_review: 2026-03-25 11:58:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 - '[[inaccessible-past]]'
 - '[[binding-problem]]'
 - '[[identity-across-transformations]]'
@@ -139,7 +139,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on subject boundaries
 - [combination-problem](/concepts/combination-problem/) — How micro-subjects fail to compose macro-subjects
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity, its varieties, and what makes experiences belong to one subject
-- [other-minds-void](/voids/voids-between-minds/) — The epistemic asymmetry in consciousness access
+- [voids-between-minds](/voids/voids-between-minds/) — The epistemic asymmetry in consciousness access
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: identity through radical change
 - [binding-problem](/concepts/binding-problem/) — The related problem of what binds experiences into a unified field
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of subjecthood

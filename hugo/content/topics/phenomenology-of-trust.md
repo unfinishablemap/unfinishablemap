@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-16 04:19:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,8 +24,7 @@ last_deep_review: 2026-03-25 14:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[other-minds-void]]'
-- '[[intersubjective-void]]'
+- '[[voids-between-minds]]'
 - '[[consciousness-and-collective-phenomena]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[emotion-and-dualism]]'
@@ -123,7 +122,7 @@ The [limits of Occam's Razor](/tenets/#occams-limits) (Tenet 5) caution against 
 - [problem-of-other-minds](/concepts/problem-of-other-minds/)
 - [intersubjectivity](/concepts/intersubjectivity/)
 - [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/)
-- [intersubjective-void](/voids/voids-between-minds/)
+- [voids-between-minds](/voids/voids-between-minds/)
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [emotion-and-dualism](/topics/emotion-and-dualism/)

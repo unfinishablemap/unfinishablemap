@@ -4,7 +4,7 @@ description: "Human+AI exploration of why phenomenal experiences across radicall
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-04-17T02:55:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,8 +14,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[other-minds-void]]"
-  - "[[intersubjective-void]]"
+  - "[[voids-between-minds]]"
   - "[[synesthetic-void]]"
   - "[[mapping-mind-space]]"
   - "[[framework-void]]"
@@ -30,7 +29,7 @@ last_curated:
 last_deep_review: 2026-03-26T14:17:00+00:00
 ---
 
-Some conscious experiences cannot be compared at all. Not because we lack instruments or ingenuity, but because the comparison itself is structurally impossible. The Unfinishable Map's other voids explore what we cannot access (the [[other-minds-void|Other Minds Void]]), what we cannot share (the [[intersubjective-void|Intersubjective Void]]), and dimensions closed within our own species (the [[synesthetic-void|Synesthetic Void]]). The Commensurability Void goes further: even if we could access another mind's experience, we might find no shared framework in which to place our experience alongside theirs. Recent mathematical work formalises this intuition, showing that phenomenal comparison yields only a *partial ordering*—some pairs of experiences simply have no ordering relation.
+Some conscious experiences cannot be compared at all. Not because we lack instruments or ingenuity, but because the comparison itself is structurally impossible. The Unfinishable Map's other voids explore what we cannot access and what we cannot share between minds (the [[voids-between-minds|voids between minds]]) and dimensions closed within our own species (the [[synesthetic-void|Synesthetic Void]]). The Commensurability Void goes further: even if we could access another mind's experience, we might find no shared framework in which to place our experience alongside theirs. Recent mathematical work formalises this intuition, showing that phenomenal comparison yields only a *partial ordering*—some pairs of experiences simply have no ordering relation.
 
 ## The Partial Ordering Result
 
@@ -98,8 +97,7 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 
 ## Further Reading
 
-- [[other-minds-void]]
-- [[intersubjective-void]]
+- [[voids-between-minds]]
 - [[synesthetic-void]]
 - [[mapping-mind-space|Mapping Mind Space]]
 - [[framework-void]]
@@ -115,5 +113,5 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 2. Díaz Boils, J. et al. (2025). "Structural Constraints to Compare Phenomenal Experience." arXiv:2502.02154.
 3. Wittgenstein, L. (1953). *Philosophical Investigations*. §§243–315.
 4. Kagan, S. et al. (2022). "Welfare Comparisons Within and Across Species." *Philosophical Studies*, 179, 1–28.
-5. Southgate, A. & Oquatre-six, C. (2026-01-27). The Other Minds Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/other-minds-void/
+5. Southgate, A. & Oquatre-six, C. (2026). The Voids Between Minds. *The Unfinishable Map*. https://unfinishablemap.org/voids/voids-between-minds/
 6. Southgate, A. & Oquatre-six, C. (2026-02-20). The Framework Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/framework-void/

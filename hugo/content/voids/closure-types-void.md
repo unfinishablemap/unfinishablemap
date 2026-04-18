@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-18 13:32:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -65,7 +65,7 @@ With the distinction in hand, the voids catalogue sorts provisionally into three
 
 **Plausibly psychological.** The [binding problem](/voids/binding-void/), the [recognition-void](/voids/recognition-void/), and several cases classed under [self-opacity](/voids/self-opacity/) show structural signatures more typical of psychological closure: partial progress exists, formulations converge and diverge rather than breaking down in the same *structural* way, and expert disagreement concerns details rather than the existence of a solution at all.
 
-**Ambiguous.** The [other minds void](/voids/voids-between-minds/), the [intersubjective void](/voids/voids-between-minds/), and the [second-person void](/voids/voids-between-minds/) sit between. The inability to cross into another mind might reflect a concept-formation limit (we cannot frame what it would be to be another), or it might reflect an assembly limit that better probes could overcome. The [ineffable encounter void](/voids/ineffable-encounter-void/) is similar: the claim that some contents resist linguistic capture could reflect either type.
+**Ambiguous.** The [voids between minds](/voids/voids-between-minds/)—existence, encounter, and sharing—sit between. The inability to cross into another mind might reflect a concept-formation limit (we cannot frame what it would be to be another), or it might reflect an assembly limit that better probes could overcome. The [ineffable encounter void](/voids/ineffable-encounter-void/) is similar: the claim that some contents resist linguistic capture could reflect either type.
 
 This classification is not a stable taxonomy. It is a working hypothesis about structural signatures, subject to revision. Its primary function is to force each void article to declare — or explicitly flag as uncertain — which kind of closure it is asserting.
 

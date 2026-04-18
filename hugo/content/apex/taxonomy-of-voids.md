@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-17 20:56:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-10 20:09:00+00:00
 apex_sources:
@@ -103,7 +103,7 @@ The [initiation void](/voids/transit-void/) and [thrownness void](/voids/thrownn
 
 ### The Interpersonal and Social Cluster
 
-The [other minds void](/voids/voids-between-minds/) and the [intersubjective void](/voids/voids-between-minds/) mark where individual consciousness meets its own isolation. The [synesthetic void](/voids/synesthetic-void/)—phenomenal dimensions open to some minds but closed to others within a single species—demonstrates that even human-to-human access is partial. The [commensurability void](/voids/commensurability-void/) goes further: even with access granted, experiences across radically different architectures may yield only a partial ordering—some pairs simply have no comparison relation. The [collective cognitive limits](/voids/collective-cognitive-limits/) show that groups develop emergent blind spots no individual would face alone.
+The [voids between minds](/voids/voids-between-minds/) mark where individual consciousness meets its own isolation—three structural limits on existence, encounter, and sharing across subjects. The [synesthetic void](/voids/synesthetic-void/)—phenomenal dimensions open to some minds but closed to others within a single species—demonstrates that even human-to-human access is partial. The [commensurability void](/voids/commensurability-void/) goes further: even with access granted, experiences across radically different architectures may yield only a partial ordering—some pairs simply have no comparison relation. The [collective cognitive limits](/voids/collective-cognitive-limits/) show that groups develop emergent blind spots no individual would face alone.
 
 ### The Formal and Meta-Cognitive Cluster
 

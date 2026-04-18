@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-02-02
 human_modified: 2026-01-08
-ai_modified: 2026-04-18T07:49:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 last_deep_review: 2026-03-30T21:39:00+00:00
 topics: []
@@ -19,7 +19,7 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[compound-failure-signatures]]"
   - "[[attention-and-consciousness]]"
-  - "[[second-person-void]]"
+  - "[[voids-between-minds]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-6
@@ -75,9 +75,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[interface-formalization-void|The Interface Formalization Void]] — Why the consciousness-physics interface resists mathematical formalization
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter and consciousness are in themselves, when every answer yields only structure or negation
 - [[emergence-void|The Emergence Void]] — How arrangement produces novelty—the gap at every level transition
-- [[other-minds-void|The Other Minds Void]] — Access to consciousness beyond our own
-- [[intersubjective-void|The Intersubjective Void]] — Whether experiences can be genuinely shared
-- [[second-person-void|The Second-Person Void]] — The irreducible gap in the I-You encounter
+- [[voids-between-minds|The Voids Between Minds]] — Existence, encounter, and sharing: three structural limits on access between consciousnesses
 - [[commensurability-void|The Commensurability Void]] — Why phenomenal experiences across different architectures cannot always be compared
 - [[mapping-mind-space|Mapping Mind-Space]] — Why consciousness cannot survey the geometry of mind-space from within: neither locating itself among possible minds nor introspecting the dimensions along which experience varies
 - [[synesthetic-void|The Synesthetic Void]] — Phenomenal dimensions closed to most minds within our own species
@@ -167,7 +165,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [[biological-cognitive-closure|Evolved Cognitive Limits]] — Cross-cultural evidence for shared limits
 - [[collective-cognitive-limits|Collective Cognitive Limits]] — What groups cannot think
-- [[intersubjective-void|The Intersubjective Void]] — How testimony and social calibration suppress phenomenal knowledge
+- [[voids-between-minds|The Voids Between Minds]] — How testimony and social calibration suppress phenomenal knowledge
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Evolved versus engineered constraints
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Limits implied by the Map's commitments
 - [[historical-consciousness-void|The Historical Consciousness Void]] — Whether consciousness itself has changed over historical time

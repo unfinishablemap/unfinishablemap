@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-01-27
 modified: 2026-04-01
 human_modified: null
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -198,7 +198,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[observation-and-measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards
 - [[initiation-void|The Initiation Void]] — Why consciousness cannot witness its own mental acts beginning
 - [[non-human-minds-as-void-explorers]] — AI and alien minds as potential void-explorers
-- [[intersubjective-void|The Intersubjective Void]] — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
+- [[voids-between-minds|The Intersubjective Void]] — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 
 ## References
 

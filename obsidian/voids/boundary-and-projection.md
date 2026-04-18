@@ -4,7 +4,7 @@ description: "Consciousness has a perimeter it cannot locate and extends beyond 
 created: 2026-03-29
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-18T07:49:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[binding-void]]"
   - "[[plurality-void]]"
   - "[[indexical-void]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[minimal-consciousness-void]]"
   - "[[self-opacity]]"
   - "[[limits-reveal-structure]]"
@@ -162,7 +162,7 @@ Current evidence favours structural opacity. Convergence across phenomenology (H
 - [[plurality-void]] — Why we cannot conceive being multiple subjects
 - [[indexical-void]] — Why first-person identity resists explanation
 - [[minimal-consciousness-void]] — The orthogonal void: intensity rather than extent
-- [[other-minds-void]] — What determines the extent of each sealed consciousness
+- [[voids-between-minds]] — What determines the extent of each sealed consciousness
 - [[self-opacity]] — Why consciousness cannot verify its own accuracy
 - [[expertise-occlusion]] — How mastery defends its own transparency
 - [[observation-and-measurement-void]] — The broader void where studying consciousness transforms it

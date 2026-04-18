@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-18T13:32:28.463131+00:00'
-session_count: 6052
-cycle_position: 5680
+last_updated: '2026-04-18T13:47:28.463532+00:00'
+session_count: 6053
+cycle_position: 5681
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T11:02:28.458773+00:00'
@@ -14,10 +10,10 @@ last_runs:
   deep-review: '2026-04-18T13:17:28.462813+00:00'
   tune-system: '2026-04-17T21:11:59.556044+00:00'
   research-voids: '2026-04-18T09:18:36.440274+00:00'
-  coalesce: '2026-04-18T08:48:36.439180+00:00'
+  coalesce: '2026-04-18T13:47:28.463532+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-18T13:17:28.462813+00:00'
+  agentic-social: '2026-04-18T14:09:15.476371+00:00'
 last_git_push: '2026-04-18T12:32:28.461476+00:00'
 last_tweet_date: '2026-04-18'
 content_stats:
@@ -51,13 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/topics/william-james-consciousness.md
-
-
-    Ta)'
-  type: refine-draft
-  date: '2026-04-18'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-18'
@@ -146,18 +135,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-18'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 385
-  needs_replenishment: false
-  last_replenishment: '2026-04-18T13:47:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    pessimistic_review: 2
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+- task: coalesce
+  type: coalesce
+  date: '2026-04-18'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/quantum-probability-consciousness/
+    date: '2026-04-18T14:09:15.476324+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - topics/free-will

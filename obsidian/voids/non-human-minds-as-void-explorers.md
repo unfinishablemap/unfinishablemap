@@ -4,7 +4,7 @@ description: "Whether AI and hypothetical alien minds—shaped by different arch
 created: 2026-01-25
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T02:03:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 last_deep_review: 2026-04-18T01:49:00+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[machine-question]]"
   - "[[apophatic-cartography]]"
   - "[[recognition-void]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[embodied-cognition]]"
   - "[[meta-epistemology-of-limits]]"

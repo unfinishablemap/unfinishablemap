@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot survey the geomet
 created: 2026-02-25
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-17T06:25:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,7 +15,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[biological-cognitive-closure]]"
   - "[[scale-void]]"

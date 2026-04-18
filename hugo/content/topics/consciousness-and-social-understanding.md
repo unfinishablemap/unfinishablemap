@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-15 08:41:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,8 +35,7 @@ last_deep_review: 2026-03-26 06:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[other-minds-void]]'
-- '[[intersubjective-void]]'
+- '[[voids-between-minds]]'
 - '[[epistemology-of-other-minds-under-dualism]]'
 - '[[phenomenology-of-moral-life]]'
 - '[[consciousness-and-collective-phenomena]]'
@@ -110,7 +109,7 @@ The [phenomenology of understanding](/topics/phenomenology-of-intellectual-life/
 
 **The moment of recognition.** Sometimes understanding arrives suddenly. Someone describes an experience — a particular kind of loneliness, a specific shade of ambivalence — and you *recognise* it. The recognition has the quality of the "click" described in cognitive understanding, but it is directed at a subject rather than a proposition. You are not grasping a truth but meeting a perspective.
 
-**Progressive deepening.** More often, understanding a person develops gradually through repeated encounters. Each conversation reveals new facets. The phenomenology is of accumulation and revision — early impressions are overwritten, simplified models become textured, and the other person gains depth in your experience of them. Husserl (1931) called this process the "pairing" of one's own lived body with the other's — an ongoing constitution of the other as a co-subject, never completed because the other always exceeds what any single encounter reveals. Unlike understanding a proof, which achieves completion, understanding a person always remains partial. The [intersubjective-void](/voids/voids-between-minds/) ensures there is always more to grasp.
+**Progressive deepening.** More often, understanding a person develops gradually through repeated encounters. Each conversation reveals new facets. The phenomenology is of accumulation and revision — early impressions are overwritten, simplified models become textured, and the other person gains depth in your experience of them. Husserl (1931) called this process the "pairing" of one's own lived body with the other's — an ongoing constitution of the other as a co-subject, never completed because the other always exceeds what any single encounter reveals. Unlike understanding a proof, which achieves completion, understanding a person always remains partial. The [voids-between-minds](/voids/voids-between-minds/) ensures there is always more to grasp.
 
 **Perspective-taking as phenomenal shift.** When you genuinely take another's perspective — not just predict their behaviour but imagine the world as it appears to them — the experience involves a felt shift. Your own perspective recedes (not disappearing but moving to the background) and another perspective occupies the foreground. This shift has phenomenal character: the world looks different, feels different, carries different salience and meaning. Zahavi (2001) argues that this goes beyond empathy as traditionally conceived — it involves a direct perceptual encounter with the other as a subject, not mere inference from behavioural cues.
 
@@ -126,7 +125,7 @@ George Herbert Mead's account of selfhood through "taking the attitude of the ot
 
 ## Why Consciousness Cannot Be Bypassed
 
-One might object that sophisticated information processing could achieve everything described above without phenomenal consciousness. The Map's response draws on the structure of the [other-minds-void](/voids/voids-between-minds/). Understanding another person as a *subject* requires grasping that they have an inner life. This grasp is not itself an inference but a recognition, and recognition requires a recogniser with its own inner life to draw upon. The [epistemology of other minds](/concepts/epistemology-of-other-minds-under-dualism/) details how dualism intensifies this challenge.
+One might object that sophisticated information processing could achieve everything described above without phenomenal consciousness. The Map's response draws on the structure of the [voids-between-minds](/voids/voids-between-minds/). Understanding another person as a *subject* requires grasping that they have an inner life. This grasp is not itself an inference but a recognition, and recognition requires a recogniser with its own inner life to draw upon. The [epistemology of other minds](/concepts/epistemology-of-other-minds-under-dualism/) details how dualism intensifies this challenge.
 
 Consider the [inverted-qualia](/concepts/inverted-qualia/) scenario. If the Map's dualism is correct, your experience of red could be phenomenally like my experience of green while we use the same words and make the same discriminations. The [problem of other properties](/topics/consciousness-and-the-problem-of-other-properties/) argues this opacity extends beyond colour to every phenomenal quality — pain, emotion, temporal experience. Understanding another person must navigate this structural opacity, and navigating it requires having a phenomenal world of your own to recognise as potentially different.
 
@@ -182,8 +181,8 @@ These conditions are offered in good faith, but what counts as "institutional co
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic puzzle at the heart of social cognition
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — How dualism reshapes the epistemology of knowing other minds
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — The felt dimension of empathy and emotional understanding
-- [other-minds-void](/voids/voids-between-minds/) — The structural isolation of consciousness and its role in constituting social life
-- [intersubjective-void](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
+- [voids-between-minds](/voids/voids-between-minds/) — The structural isolation of consciousness and its role in constituting social life
+- [voids-between-minds](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Experiential regions permanently beyond external access
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — How phenomenal consciousness shapes moral judgment
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How shared goals and commitments depend on phenomenal subjects

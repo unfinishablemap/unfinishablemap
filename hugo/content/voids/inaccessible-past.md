@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-22 14:31:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 - '[[historical-consciousness-void]]'
 - '[[temporal-void]]'
 - '[[self-opacity]]'
@@ -179,7 +179,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [historical-consciousness-void](/voids/historical-consciousness-void/) — The same void at historical scale: entire past forms of consciousness may be inaccessible
-- [other-minds-void](/voids/voids-between-minds/) — The parallel void: other present minds are equally inaccessible
+- [voids-between-minds](/voids/voids-between-minds/) — The parallel void: other present minds are equally inaccessible
 - [temporal-void](/voids/temporal-void/) — Why we can reconstruct the past but only imagine the future
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"

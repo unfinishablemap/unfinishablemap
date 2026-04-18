@@ -4,7 +4,7 @@ description: "Dualism both intensifies and enriches the problem of knowing other
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-21T19:25:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ concepts:
   - "[[contemplative-epistemology]]"
 related_articles:
   - "[[tenets]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[dualism]]"
   - "[[consciousness-as-amplifier]]"
   - "[[problem-of-other-minds-2026-01-14]]"
@@ -86,7 +86,7 @@ An epiphenomenalist can explain the convergence differently: shared neural archi
 
 Even with these resources, dualism acknowledges limits that physicalism can pretend to avoid.
 
-**Qualitative character stays private.** Interactionism establishes that consciousness causally influences behaviour, but it cannot establish *what it is like* for another person to have an experience. Causal traces reveal that experience exists and roughly what category it falls into (pain versus pleasure, seeing versus hearing). They do not reveal the intrinsic phenomenal character—the specific shade of your red, the texture of your grief. The [[consciousness-and-the-problem-of-other-properties|problem of other properties]] develops this point systematically: the explanatory gap applies not just between physics and experience in general but between physics and *each specific quality* of experience. The [[other-minds-void|other minds void]] persists even for interactionists, and there may be [[consciousness-only-territories|entire regions of another's experience]] that remain structurally beyond reach.
+**Qualitative character stays private.** Interactionism establishes that consciousness causally influences behaviour, but it cannot establish *what it is like* for another person to have an experience. Causal traces reveal that experience exists and roughly what category it falls into (pain versus pleasure, seeing versus hearing). They do not reveal the intrinsic phenomenal character—the specific shade of your red, the texture of your grief. The [[consciousness-and-the-problem-of-other-properties|problem of other properties]] develops this point systematically: the explanatory gap applies not just between physics and experience in general but between physics and *each specific quality* of experience. The [[voids-between-minds|other minds void]] persists even for interactionists, and there may be [[consciousness-only-territories|entire regions of another's experience]] that remain structurally beyond reach.
 
 Yet this limit is not purely negative. As Husserl recognised, the other is accessible *precisely insofar as* they are constituted as ultimately inaccessible. If I could directly access your experience, you would not be another subject but an extension of me. The void between minds is constitutive of genuine [[intersubjectivity]]—recognising the gap *is* recognising the other as other. The dualist should embrace this: the epistemic limit that makes other minds unknowable in full is the same feature that makes them genuinely *other* minds rather than projections of one's own.
 
@@ -121,7 +121,7 @@ The epistemology of other minds under dualism connects to the Map's framework at
 ## Further Reading
 
 - [[problem-of-other-minds]] — The general epistemological puzzle and major approaches
-- [[other-minds-void]] — The voids framework treatment of intersubjective inaccessibility
+- [[voids-between-minds]] — The voids framework treatment of intersubjective inaccessibility
 - [[interactionist-dualism]] — The dualist position that grounds epistemic access to other minds
 - [[philosophical-zombies]] — Why behavioural evidence cannot logically guarantee consciousness
 - [[zombie-master-argument]] — How zombie conceivability subsumes the knowledge argument and explanatory gap

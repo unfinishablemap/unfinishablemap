@@ -4,7 +4,7 @@ description: "Representational and psychological closure are distinct species of
 created: 2026-04-18
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T13:32:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 last_deep_review: 2026-04-18T13:32:00+00:00
 draft: false
 topics:
@@ -62,7 +62,7 @@ With the distinction in hand, the voids catalogue sorts provisionally into three
 
 **Plausibly psychological.** The [[binding-void|binding problem]], the [[recognition-void]], and several cases classed under [[self-opacity]] show structural signatures more typical of psychological closure: partial progress exists, formulations converge and diverge rather than breaking down in the same *structural* way, and expert disagreement concerns details rather than the existence of a solution at all.
 
-**Ambiguous.** The [[other-minds-void|other minds void]], the [[intersubjective-void|intersubjective void]], and the [[second-person-void|second-person void]] sit between. The inability to cross into another mind might reflect a concept-formation limit (we cannot frame what it would be to be another), or it might reflect an assembly limit that better probes could overcome. The [[ineffable-encounter-void|ineffable encounter void]] is similar: the claim that some contents resist linguistic capture could reflect either type.
+**Ambiguous.** The [[voids-between-minds|voids between minds]]—existence, encounter, and sharing—sit between. The inability to cross into another mind might reflect a concept-formation limit (we cannot frame what it would be to be another), or it might reflect an assembly limit that better probes could overcome. The [[ineffable-encounter-void|ineffable encounter void]] is similar: the claim that some contents resist linguistic capture could reflect either type.
 
 This classification is not a stable taxonomy. It is a working hypothesis about structural signatures, subject to revision. Its primary function is to force each void article to declare — or explicitly flag as uncertain — which kind of closure it is asserting.
 

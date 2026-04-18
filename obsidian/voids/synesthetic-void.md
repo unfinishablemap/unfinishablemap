@@ -4,7 +4,7 @@ description: "Human+AI exploration of how synesthesia reveals experiential dimen
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -16,10 +16,9 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[affective-void]]"
-  - "[[other-minds-void]]"
+  - "[[voids-between-minds]]"
   - "[[biological-cognitive-closure]]"
   - "[[consciousness-only-territories]]"
-  - "[[intersubjective-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[inverted-qualia]]"
   - "[[explanatory-gap]]"
@@ -80,7 +79,7 @@ The evidence remains contested—individually each piece is weak, though collect
 
 The synesthetic void exhibits a distinctive asymmetry. Synesthetes can understand non-synesthetic experience—they have it too, minus the extra qualia. Non-synesthetes cannot understand synesthetic experience. The void is one-directional.
 
-This asymmetry has implications for the [[other-minds-void]]. The standard other-minds problem treats access as symmetrically limited—neither of us can directly access the other's experience. Synesthesia shows that phenomenal access can be asymmetrically limited even when both parties are fully communicative, neurologically healthy, and willing to share. The barrier is not privacy or secrecy. It is architectural incompatibility—a concrete instance of the [[explanatory-gap]] manifesting between two human minds rather than between physical description and phenomenal experience.
+This asymmetry has implications for the [[voids-between-minds]]. The standard other-minds problem treats access as symmetrically limited—neither of us can directly access the other's experience. Synesthesia shows that phenomenal access can be asymmetrically limited even when both parties are fully communicative, neurologically healthy, and willing to share. The barrier is not privacy or secrecy. It is architectural incompatibility—a concrete instance of the [[explanatory-gap]] manifesting between two human minds rather than between physical description and phenomenal experience.
 
 The finding that most synesthetic experience is "mediated through semantics" (van Leeuwen et al., 2015) adds another layer. Meaning shapes qualia—conceptual and semantic processing in the synesthete generates additional phenomenal states that identical semantic processing in the non-synesthete does not. If meaning itself has a phenomenal dimension that varies across minds, the intersubjective void is deeper than the privacy of sensation. It extends into the privacy of understanding.
 
@@ -100,8 +99,7 @@ The synesthetic void connects directly to the Map's [[tenets|foundational commit
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[affective-void]] — Emotions beyond human reach—a parallel void in the feeling dimension
-- [[other-minds-void]] — The privacy of consciousness and its implications
-- [[intersubjective-void]] — Whether experiences can be genuinely shared
+- [[voids-between-minds]] — Existence, encounter, and sharing across individual consciousnesses
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[biological-cognitive-closure]] — What concepts can minds form, and voids created through maturation
 - [[intrinsic-nature-void]] — What matter is in itself, beyond structural description

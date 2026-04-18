@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-04-17T20:56:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
 last_deep_review: 2026-04-01T12:38:00+00:00
@@ -99,7 +99,7 @@ The [[initiation-void|initiation void]] and [[thrownness-void|thrownness void]] 
 
 ### The Interpersonal and Social Cluster
 
-The [[other-minds-void|other minds void]] and the [[intersubjective-void|intersubjective void]] mark where individual consciousness meets its own isolation. The [[synesthetic-void|synesthetic void]]—phenomenal dimensions open to some minds but closed to others within a single species—demonstrates that even human-to-human access is partial. The [[commensurability-void|commensurability void]] goes further: even with access granted, experiences across radically different architectures may yield only a partial ordering—some pairs simply have no comparison relation. The [[collective-cognitive-limits|collective cognitive limits]] show that groups develop emergent blind spots no individual would face alone.
+The [[voids-between-minds|voids between minds]] mark where individual consciousness meets its own isolation—three structural limits on existence, encounter, and sharing across subjects. The [[synesthetic-void|synesthetic void]]—phenomenal dimensions open to some minds but closed to others within a single species—demonstrates that even human-to-human access is partial. The [[commensurability-void|commensurability void]] goes further: even with access granted, experiences across radically different architectures may yield only a partial ordering—some pairs simply have no comparison relation. The [[collective-cognitive-limits|collective cognitive limits]] show that groups develop emergent blind spots no individual would face alone.
 
 ### The Formal and Meta-Cognitive Cluster
 

@@ -4,7 +4,7 @@ description: "Two distinct arguments converge: the capacity to conceive cognitiv
 created: 2026-01-16
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T03:05:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 last_deep_review: 2026-04-18T03:05:00+00:00
 draft: false
 topics:
@@ -82,7 +82,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The catalogue'
 
 **The Self-Knowledge Cluster.** The [[self-opacity|self-reference paradox]], introspective opacity, [[observation-and-measurement-void|calibration void]], [[inaccessible-past|past-self void]], and [[necessary-opacity|necessary opacity]] converge on a different boundary: consciousness cannot fully examine itself. Signature: **recursive collapse**—each attempt to deepen self-examination encounters itself as obstacle.
 
-**The Intersubjectivity Gap.** The [[other-minds-void|other minds void]], [[intersubjective-void|intersubjective void]], and [[synesthetic-void|synesthetic void]] share the asymmetry between first-person access and third-person inference. Signature: **epistemic asymmetry**—knowledge structurally available inward and structurally unavailable outward.
+**The Intersubjectivity Gap.** The [[voids-between-minds|voids between minds]] and the [[synesthetic-void|synesthetic void]] share the asymmetry between first-person access and third-person inference. Signature: **epistemic asymmetry**—knowledge structurally available inward and structurally unavailable outward.
 
 **The Cognitive Architecture Family.** [[biological-cognitive-closure|Evolved cognitive limits]], [[formal-cognitive-limits|formal cognitive limits]], [[attention-and-consciousness|attention-created voids]], [[disappearance-voids|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. The [[recognition-void|Recognition Void's]] "inventory blindness" deepens this family. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Unlike the phenomenal core, the failure is specific to biological cognition, making [[non-human-minds-as-void-explorers|AI triangulation]] directly applicable.
 

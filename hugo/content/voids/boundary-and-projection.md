@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-18 07:49:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ related_articles:
 - '[[binding-void]]'
 - '[[plurality-void]]'
 - '[[indexical-void]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 - '[[minimal-consciousness-void]]'
 - '[[self-opacity]]'
 - '[[limits-reveal-structure]]'
@@ -166,7 +166,7 @@ Current evidence favours structural opacity. Convergence across phenomenology (H
 - [plurality-void](/voids/plurality-void/) — Why we cannot conceive being multiple subjects
 - [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — The orthogonal void: intensity rather than extent
-- [other-minds-void](/voids/voids-between-minds/) — What determines the extent of each sealed consciousness
+- [voids-between-minds](/voids/voids-between-minds/) — What determines the extent of each sealed consciousness
 - [self-opacity](/voids/self-opacity/) — Why consciousness cannot verify its own accuracy
 - [expertise-occlusion](/voids/expertise-occlusion/) — How mastery defends its own transparency
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — The broader void where studying consciousness transforms it

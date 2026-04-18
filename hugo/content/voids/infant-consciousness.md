@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[tenets]]'
 - '[[inaccessible-past]]'
 - '[[biological-cognitive-closure]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 - '[[indexical-void]]'
 - '[[transition-void]]'
 - '[[synesthetic-void]]'
@@ -106,7 +106,7 @@ The infant consciousness void connects to all five of the Map's [tenets](/tenets
 
 - [inaccessible-past](/voids/inaccessible-past/)
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
-- [other-minds-void](/voids/voids-between-minds/)
+- [voids-between-minds](/voids/voids-between-minds/)
 - [synesthetic-void](/voids/synesthetic-void/)
 - [transition-void](/voids/transit-void/)
 - [indexical-void](/voids/indexical-void/)

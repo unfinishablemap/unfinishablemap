@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-21
-ai_modified: 2026-03-28 21:26:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,9 +22,7 @@ last_deep_review: 2026-03-26 08:48:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[other-minds-void]]'
-- '[[intersubjective-void]]'
-- '[[second-person-void]]'
+- '[[voids-between-minds]]'
 - '[[social-construction-of-self-vs-phenomenal-self]]'
 - '[[the-self-minimal-narrative-and-substantial]]'
 - '[[epistemology-of-other-minds-under-dualism]]'
@@ -90,7 +88,7 @@ These findings do not prove that intersubjectivity is constitutive of consciousn
 
 The Map's dualism gives the priority question distinctive contours. If consciousness is ontologically irreducible to physical processes, then the encounter between two consciousnesses is an encounter between two genuinely distinct experiential domains. This makes the puzzle sharper than it is for materialists: under physicalism, two brains are two arrangements of the same fundamental stuff, and communication between them is just more physics. Under dualism, two consciousnesses are two ontologically distinct realities that must somehow achieve contact.
 
-This sharpening is a strength, not a weakness. The Map holds that the difficulty of intersubjectivity under dualism reflects something real about the human situation. Understanding another person *is* hard. The [intersubjective-void](/voids/voids-between-minds/) — the gap between what I experience and what you experience — is not a theoretical artefact but a lived reality. The loneliness of intimate connection, the frustration of failed communication, the astonishment when someone truly understands — these everyday phenomena make more sense if the gap between minds is genuine rather than merely apparent.
+This sharpening is a strength, not a weakness. The Map holds that the difficulty of intersubjectivity under dualism reflects something real about the human situation. Understanding another person *is* hard. The [voids-between-minds](/voids/voids-between-minds/) — the gap between what I experience and what you experience — is not a theoretical artefact but a lived reality. The loneliness of intimate connection, the frustration of failed communication, the astonishment when someone truly understands — these everyday phenomena make more sense if the gap between minds is genuine rather than merely apparent.
 
 The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) provides a resource here. If consciousness causally influences the physical world, then communication between consciousnesses proceeds through a chain: my consciousness shapes neural states that produce words and gestures; your sensory systems receive these; your consciousness appresents my subjectivity through the perceived patterns. The physical channel — sound waves, light, touch — mediates between two non-physical experiential domains. Intersubjectivity, on this account, is a genuine achievement: two distinct consciousnesses managing to coordinate through a shared physical medium.
 
@@ -108,7 +106,7 @@ The asymmetry matters for the Map's framework in three ways:
 
 **It grounds the reality of individual consciousness.** If experience were fully intersubjective — if your pain and mine were literally shared — there would be no individual experiencers, only a distributed phenomenal field. The fact that I cannot feel *your* pain, only my empathic response to it, demonstrates that consciousness comes in discrete, bounded units. The Map's dualism predicts exactly this: each consciousness is its own ontological reality.
 
-**It explains why intersubjective knowledge is always approximate.** The [other-minds-void](/voids/voids-between-minds/) is not a failure of intersubjectivity but a consequence of the asymmetry. I can approach your experience through empathy, [testimony](/topics/consciousness-and-testimony/), and shared attention, but I cannot coincide with it. This makes [interpersonal understanding](/topics/consciousness-and-social-understanding/) an ongoing achievement that is never completed — which matches the phenomenology. Understanding another person deepens indefinitely without reaching a terminus.
+**It explains why intersubjective knowledge is always approximate.** The [voids-between-minds](/voids/voids-between-minds/) is not a failure of intersubjectivity but a consequence of the asymmetry. I can approach your experience through empathy, [testimony](/topics/consciousness-and-testimony/), and shared attention, but I cannot coincide with it. This makes [interpersonal understanding](/topics/consciousness-and-social-understanding/) an ongoing achievement that is never completed — which matches the phenomenology. Understanding another person deepens indefinitely without reaching a terminus.
 
 **It gives moral significance to the attempt.** Because understanding across the asymmetry requires effort, attention, and vulnerability, it carries moral weight. The attempt to understand another consciousness despite the gap is an ethical act — what Levinas would call responsibility. If the gap were illusory or easily bridged, the attempt would lose its significance.
 
@@ -131,9 +129,7 @@ The Map's third position — ontologically individual, phenomenologically enrich
 - [intersubjectivity](/concepts/intersubjectivity/) — The concept: shared space between minds, Husserl's analysis, methodological implications
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Social cognition and interpersonal understanding through phenomenal consciousness
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — "We-consciousness" and shared intentionality
-- [other-minds-void](/voids/voids-between-minds/) — The constitutive gap between individual consciousnesses
-- [intersubjective-void](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
-- [second-person-void](/voids/voids-between-minds/) — The irreducible gap in the I-You encounter: what genuine meeting delivers and structurally cannot
+- [voids-between-minds](/voids/voids-between-minds/) — Three structural limits on access between consciousnesses: existence, encounter, and sharing
 
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic puzzle that intersubjectivity addresses
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects

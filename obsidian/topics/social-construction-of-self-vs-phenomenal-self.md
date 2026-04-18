@@ -4,7 +4,7 @@ description: "Two accounts of selfhood compete: social construction (self as cul
 created: 2026-02-12
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-04-16T13:43:00+00:00
+ai_modified: 2026-04-18T14:09:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -81,7 +81,7 @@ Consider [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]]—
 
 The critical asymmetry: social construction of self depends on phenomenal selfhood, but not vice versa.
 
-Social construction requires subjects who can recognise each other, interpret each other's behaviour, and internalise each other's perspectives. [[topics/consciousness-and-social-understanding|These capacities]] require phenomenal consciousness. Husserl's analysis of [[intersubjectivity]] confirms the point: we perceive others as subjects through "appresentation"—grasping their subjectivity directly in embodied encounter, not by inference from behaviour. This perception of others *as phenomenal subjects* is itself a phenomenal act. The [[other-minds-void|constitutive void between minds]]—the gap that makes genuine intersubjectivity possible—requires separate phenomenal subjects on both sides. Mead's "taking the attitude of the other" presupposes something it is like to take that attitude—a phenomenal subject who experiences the perspective-shift. Butler's performative constitution presupposes an experiential arena in which performances occur and are registered.
+Social construction requires subjects who can recognise each other, interpret each other's behaviour, and internalise each other's perspectives. [[topics/consciousness-and-social-understanding|These capacities]] require phenomenal consciousness. Husserl's analysis of [[intersubjectivity]] confirms the point: we perceive others as subjects through "appresentation"—grasping their subjectivity directly in embodied encounter, not by inference from behaviour. This perception of others *as phenomenal subjects* is itself a phenomenal act. The [[voids-between-minds|constitutive void between minds]]—the gap that makes genuine intersubjectivity possible—requires separate phenomenal subjects on both sides. Mead's "taking the attitude of the other" presupposes something it is like to take that attitude—a phenomenal subject who experiences the perspective-shift. Butler's performative constitution presupposes an experiential arena in which performances occur and are registered.
 
 A community of [[philosophical-zombies|philosophical zombies]]—functionally identical to humans but lacking phenomenal consciousness—could not socially construct selves in any meaningful sense. They might produce the same behaviours, use the same language, follow the same social norms. But there would be no one for whom the social identity is an identity. The construction would lack a site. Performance without experience is mechanism without meaning.
 

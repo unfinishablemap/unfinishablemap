@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-21 19:25:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ last_deep_review: 2026-03-21 19:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[other-minds-void]]'
+- '[[voids-between-minds]]'
 - '[[dualism]]'
 - '[[consciousness-as-amplifier]]'
 - '[[problem-of-other-minds-2026-01-14]]'
@@ -123,7 +123,7 @@ The epistemology of other minds under dualism connects to the Map's framework at
 ## Further Reading
 
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The general epistemological puzzle and major approaches
-- [other-minds-void](/voids/voids-between-minds/) — The voids framework treatment of intersubjective inaccessibility
+- [voids-between-minds](/voids/voids-between-minds/) — The voids framework treatment of intersubjective inaccessibility
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The dualist position that grounds epistemic access to other minds
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Why behavioural evidence cannot logically guarantee consciousness
 - [zombie-master-argument](/concepts/zombie-master-argument/) — How zombie conceivability subsumes the knowledge argument and explanatory gap

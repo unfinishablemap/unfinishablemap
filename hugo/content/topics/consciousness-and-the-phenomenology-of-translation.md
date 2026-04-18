@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-13 19:57:00+00:00
+ai_modified: 2026-04-18 14:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[consciousness-and-language-interface]]'
 - '[[language-thought-boundary]]'
 - '[[phenomenology-of-intellectual-life]]'
-- '[[intersubjective-void]]'
+- '[[voids-between-minds]]'
 - '[[consciousness-and-social-understanding]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
@@ -131,7 +131,7 @@ The phenomenology of translation connects to the Map's [tenets](/tenets/) at sev
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where thought exceeds what language can capture
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has phenomenal character beyond sensory accompaniments
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — How consciousness constitutes semantic grasp
-- [intersubjective-void](/voids/voids-between-minds/) — The gap between minds that translation attempts to bridge
+- [voids-between-minds](/voids/voids-between-minds/) — The gap between minds that translation attempts to bridge
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Phenomenal engagement with other minds
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How disruptions of experience reveal consciousness architecture
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between doing and undergoing
