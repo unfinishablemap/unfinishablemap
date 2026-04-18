@@ -37,6 +37,39 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review transformative-experience-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: New void article created 2026-04-17 via expand-topic (2191 words). Frontmatter has no `last_deep_review` recorded. Article frames transformative experience as a doubly-sealed void where one's evaluative framework shifts in ways the pre-transformation self cannot endorse (Paul's "epistemic + personal transformation" framing). Verify coherence, accuracy of attributed positions (L.A. Paul, Harman, Callard), the "apophatic decision procedures" novel contribution, cross-links to framework-void (already cross-reviewed 2026-04-18), acquaintance-void (already cross-reviewed 2026-04-18), free-will, and tenet alignment. Also check the four-fix attribution hygiene noted in optimistic-2026-04-18 is carried through cleanly.
+- **Source**: chain (from expand-topic 2026-04-17)
+- **Generated**: 2026-04-18
+
+### P2: Cross-review pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md created 2026-04-18 via expand-topic develops the QBism/pragmatist-foundations thread at topic-scale. The concepts/pragmatism-and-qbism.md page (last deep-reviewed 2026-04-06) should be reviewed for: (a) places where concept-level treatment should defer to the new topic article for deeper discussion, (b) cross-link opportunities, (c) terminology consistency (framework-inhabitation, pragmatist bridge, QBism-as-epistemic-commitment framing), (d) whether any arguments in the concept page are now superseded or contradicted by the topic article's more developed treatment. Add cross-links if warranted.
+- **Source**: chain (from expand-topic topics/pragmatist-quantum-foundations-under-dualism.md 2026-04-18)
+- **Generated**: 2026-04-18
+
+### P2: Cross-review mind-matter-interface.md considering pragmatist-quantum-foundations-under-dualism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md created 2026-04-18 via expand-topic. The mind-matter-interface concept page is central to the Map's physics programme and is cross-referenced by many articles. Review for: (a) opportunities to cite the new pragmatist-quantum-foundations article as a more developed treatment of how QBism grounds the interface proposal, (b) whether the new article's framing of pragmatist epistemic commitments affects mind-matter-interface's account of what "the interface" is, (c) terminology alignment, (d) whether the exposition of quantum indeterminacy selection remains coherent with the QBism-compatible framing. Add cross-links where reinforcing.
+- **Source**: chain (from expand-topic topics/pragmatist-quantum-foundations-under-dualism.md 2026-04-18)
+- **Generated**: 2026-04-18
+
+### P3: Write concept article on Tenets-Over-Parsimony as Methodological Commitment
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-18 (High Priority expansion). The 2026-04-17 parsimony-epistemology refine-draft added an Idealism Parity Trilemma section admitting that ontological parsimony does not favour the Map's dualism — the preference instead rests on Tenets 2/3/4 (bidirectional causation, minimal quantum interaction, rejecting Many-Worlds + indexical identity). This is the positive side of the Map's anti-parsimony move that has never been articulated as its own methodological commitment. A concept article would (a) name "tenets-over-parsimony" as a methodological stance, (b) distinguish it from fideism and from pure theoretical-fit arguments, (c) explain what kind of argument "preferring dualism because of bidirectional causation" is if it is not parsimony-based, (d) connect to parsimony-epistemology's Trilemma and to the broader case for why tenets constrain rather than follow from metaphysical argument. Medium scope (2500 words). Target section: concepts/ (229/250). Tenet alignment: meta-tenet — how the Map's tenets earn their keep. See optimistic-2026-04-18.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-18
+
+### P3: Write article on Apophatic Decision Procedures
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-18 (Medium Priority expansion). The new voids/transformative-experience-void.md introduces "apophatic decision procedures" in one paragraph — the agent maps which features of the choice are accessible (structural, propositional, testimonial) and which are not (phenomenal, identity-altering), then deliberates only over accessible axes while explicitly acknowledging the inaccessible ones. This extends the Map's apophatic methodology beyond cartography into practical decision-making. Most apophatic writing is about knowing, not deciding — this is philosophically novel territory. Article would (a) formalise the procedure, (b) connect to [[framework-void]], [[topics/free-will]], and transformative-experience authenticity constraints, (c) distinguish apophatic decision-making from both classical decision theory and Paul's transformative-choice framework, (d) examine whether the procedure resolves or merely manages the void. Medium scope (2000-2500 words). Target section: topics/ or concepts/. Tenet alignment: operationalises Tenet 5 (Occam's Razor Has Limits) — decision theory's elegance is what excludes transformative cases. See optimistic-2026-04-18.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-18
+
 ### P3: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
 - **Type**: refine-draft
 - **Status**: pending
