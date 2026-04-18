@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-18T15:38:35.860760+00:00'
-session_count: 6060
-cycle_position: 5688
+last_updated: '2026-04-18T15:53:35.861066+00:00'
+session_count: 6061
+cycle_position: 5689
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T11:02:28.458773+00:00'
@@ -49,12 +49,18 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 2
+  p2_tasks: 4
+  p3_tasks: 330
+  needs_replenishment: false
+  last_replenishment: '2026-04-18T16:08:00+00:00'
+  replenishment_source_counts:
+    length_analysis: 3
+    unconsumed_research: 2
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review understanding-void c)'
-  type: deep-review
-  date: '2026-04-18'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-04-18'
@@ -140,5 +146,12 @@ recent_tasks:
   outcome: success
 - task: 'deep-review (obsidian/topics/delegatory-dualism.md -- Context: )'
   type: deep-review
+  date: '2026-04-18'
+  outcome: success
+- task: 'refine-draft (obsidian/voids/boundary-and-projection.md
+
+
+    Task co)'
+  type: refine-draft
   date: '2026-04-18'
   outcome: success

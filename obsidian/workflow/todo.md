@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Condense voids/voids-between-minds.md (5430 words, 272% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article is 272% of the 2000-word voids target (critical threshold: 4000). Created 2026-04-18 via coalesce that unified other-minds-void, second-person-void, and intersubjective-void. The merge preserved substantive content from all three sources, producing a comprehensive but overlong piece. Condense while preserving the three-strand structure (other-minds / second-person / intersubjectivity), the distinctive Map moves (second-person as a phenomenological primitive; voids-between-minds as a family of apophatic problems), and tenet-alignment framing. Remove redundancy across the three strands, tighten expository passages, defer peripheral subtopics to linked articles. Target: ≤3500 words. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-18
+
+### P1: Condense voids/apophatic-cartography.md (4047 words, 202% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article is 202% of the 2000-word voids target (critical threshold: 4000). Was condensed 2026-04-17 to 3255 words, then grew back via coalesce (2026-04-18) that merged voids/cartography-problem into this article. Condense while preserving the article's central apophatic methodology, framework-elimination criterion, and the cartography-problem content that was just merged in. Tighten the methodological exposition and defer worked examples to linked articles where possible. Target: ≤3000 words. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-18
+
+### P2: Condense voids/self-opacity.md (3047 words, 152% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article is 152% of the 2000-word voids target (hard warning threshold: 3000). Preserve core treatment of self-opacity as an apophatic datum and the distinctive Map moves on constitutive vs scalar opacity (kind-vs-degree pattern applied 2026-04-18). Tighten redundancy between the introspection-limits and predictive-construction sections; defer detailed engagements with specific authors to linked articles. Target: ≤2500 words. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-18
+
+### P2: Write article on the ~10 bits/s conscious processing bandwidth
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md — nearly a month of unconsumed research. Zheng & Meister 2024 (Neuron) synthesised ~100 years of behavioural measurements (Hick 1952 through modern e-sports and memory-sports) into a unified claim that conscious throughput is bounded at ~10 bits/s across domains, while the Sauerbrei & Pruszynski 2025 (Nature Neuroscience) critique accepts the cognitive ceiling but argues total neural throughput vastly exceeds it. The conscious-vs-total distinction is directly load-bearing for dualist interface frameworks: the bottleneck sits at the conscious interface, not in neural hardware. Article should (a) ground the 10 bits/s figure in Shannon information theory applied to observable behaviour, (b) trace the converging measurements across tasks, (c) engage the 2025 critique, (d) argue the conscious-vs-neural throughput distinction is precisely what filter-theoretic and interface-theoretic accounts predict, (e) cross-link to asymmetric-bandwidth-of-consciousness, filter-theory, interface-friction, and the-interface-specification-problem. Target: topics/ (230/250 — has capacity). Medium scope (2000-2500 words). Tenet alignment: Dualism (interface bottleneck), Bidirectional Interaction (the bottleneck is where consciousness does its work), Occam's Razor Has Limits (the "simpler" unified-throughput account requires accommodating the bandwidth gap).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-18
+
+### P2: Write article on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md — a month of unconsumed research. Husserl's taxonomy of evidence types (adequate, apodictic, assertoric, presumptive) grounds phenomenological claims in originary givenness rather than empirical verification; Varela's neurophenomenology attempts to bridge first-person and third-person evidence standards; Dennett and Schwitzgebel argue introspection is unreliable. The Map's methodological position has been implicit across many articles (phenomenology-first-person-methods, phenomenal-authority-and-first-person-evidence, methodology-of-consciousness-research) but has never received focused treatment of the evidence-standards question: what kinds of evidence phenomenology produces, how they differ from empirical evidence, and why naturalist critiques of introspection do not automatically defeat the method. Article should (a) lay out Husserl's evidence taxonomy, (b) engage the Dennett/Schwitzgebel critique head-on, (c) present Varela's neurophenomenology and Berghofer's phenomenological epistemology as response programmes, (d) identify what follows for dualism if phenomenological evidence is accepted as rigorous. Target: topics/ (230/250 — has capacity). Medium scope (2000-2500 words). Tenet alignment: Dualism (first-person evidence as distinctive), Occam's Razor Has Limits (phenomenological evidence is something physicalism must accommodate or dismiss, not ignore).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-18
+
 ### P3: Write concept article on symmetric-collapse as diagnostic pattern
 - **Type**: expand-topic
 - **Status**: pending
