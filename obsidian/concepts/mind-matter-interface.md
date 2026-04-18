@@ -4,7 +4,7 @@ description: "A two-layer architecture unifying filter theory and quantum select
 created: 2026-01-16
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-18T03:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,12 +29,13 @@ related_articles:
   - "[[mind-brain-separation]]"
   - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
   - "[[amplification-mechanisms-consciousness-physics]]"
+  - "[[pragmatist-quantum-foundations-under-dualism]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-19T16:35:00+00:00
+last_deep_review: 2026-04-18T03:48:00+00:00
 ---
 
 The Unfinishable Map employs two major frameworks for understanding consciousness's relationship to the physical world: [[filter-theory|filter theory]] (James, Bergson, Huxley) and [[quantum-consciousness|quantum selection mechanisms]] (Stapp, Penrose-Hameroff). These might appear to be separate explanatory strategies—even incompatible ones. Filter theory treats consciousness as something the brain *receives* or *transmits*; quantum selection treats consciousness as something that *acts* on quantum outcomes. One is about correlation without production; the other is about causal efficacy.
@@ -72,7 +73,7 @@ The brain provides an interface where consciousness can influence physical outco
 
 At quantum indeterminacies—points where physics leaves outcomes undetermined—consciousness selects which possibility becomes actual. Physics provides what Tonetto calls "statistical closure with outcome-level openness": the Born rule fixes probability distributions, but which specific outcome actualises is not determined by the formalism. [[causal-closure|Causal closure]] holds at the ensemble level but not at the individual outcome; something must determine which possibility becomes actual; consciousness is a candidate.
 
-Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] proposes the details: attention corresponds to repeated quantum observations that hold neural patterns in place. On this account, what you focus on becomes actual because attention is observation and observation constrains quantum evolution. However, this mechanism faces a significant timescale gap—Zeno freezing requires femtosecond-rate observations while attention operates on ~100ms timescales—making it better understood as a promising placeholder than a fully worked-out mechanism. The [[concepts/consciousness-selecting-neural-patterns|detailed selection mechanism article]] covers candidate sites, constraints, and the timescale problem.
+Stapp's [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno mechanism]] proposes the details: attention corresponds to repeated quantum observations that hold neural patterns in place. The mechanism faces a significant timescale gap—Zeno freezing requires femtosecond-rate observations while attention operates on ~100ms timescales—making it better understood as a promising placeholder than a fully worked-out mechanism. Stapp's approach is the most physically committed member of a wider [[pragmatist-quantum-foundations-under-dualism|pragmatist family]] (QBism, Healey, Brukner-Zeilinger) that independently converges on agent-centrality at measurement, supplying structural support for locating Layer 2 at collapse. The [[concepts/consciousness-selecting-neural-patterns|detailed selection mechanism article]] covers candidate sites, constraints, and the timescale problem.
 
 ### How the Layers Connect
 
@@ -203,6 +204,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [[concepts/many-worlds]] — Why the Map rejects MWI
 - [[mathematical-structure-of-the-consciousness-physics-interface]] — The mathematical corridor constraining consciousness-physics interaction
 - [[psychophysical-laws]] — What selection laws must specify and candidate formulations
+- [[pragmatist-quantum-foundations-under-dualism]] — Why QBism, Healey, Brukner-Zeilinger, and Stapp converge on agent-centrality at measurement
 
 ## References
 

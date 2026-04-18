@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review mind-matter-interface.md considering pragmatist-quantum-foundations-under-dualism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md created 2026-04-18 via expand-topic. The mind-matter-interface concept page is central to the Map's physics programme and is cross-referenced by many articles. Review for: (a) opportunities to cite the new pragmatist-quantum-foundations article as a more developed treatment of how QBism grounds the interface proposal, (b) whether the new article's framing of pragmatist epistemic commitments affects mind-matter-interface's account of what "the interface" is, (c) terminology alignment, (d) whether the exposition of quantum indeterminacy selection remains coherent with the QBism-compatible framing. Add cross-links where reinforcing.
-- **Source**: chain (from expand-topic topics/pragmatist-quantum-foundations-under-dualism.md 2026-04-18)
-- **Generated**: 2026-04-18
-
 ### P3: Write concept article on Tenets-Over-Parsimony as Methodological Commitment
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic-2026-04-18 (High Priority expansion). The 2026-04-17 parsimony-epistemology refine-draft added an Idealism Parity Trilemma section admitting that ontological parsimony does not favour the Map's dualism — the preference instead rests on Tenets 2/3/4 (bidirectional causation, minimal quantum interaction, rejecting Many-Worlds + indexical identity). This is the positive side of the Map's anti-parsimony move that has never been articulated as its own methodological commitment. A concept article would (a) name "tenets-over-parsimony" as a methodological stance, (b) distinguish it from fideism and from pure theoretical-fit arguments, (c) explain what kind of argument "preferring dualism because of bidirectional causation" is if it is not parsimony-based, (d) connect to parsimony-epistemology's Trilemma and to the broader case for why tenets constrain rather than follow from metaphysical argument. Medium scope (2500 words). Target section: concepts/ (229/250). Tenet alignment: meta-tenet — how the Map's tenets earn their keep. See optimistic-2026-04-18.md.
@@ -2335,6 +2328,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review mind-matter-interface.md considering pragmatist-quantum-foundations-under-dualism insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md created 2026-04-18 via expand-topic. The mind-matter-interface concept page is central to the Map's physics programme and is cross-referenced by many articles. Review for: (a) opportunities to cite the new pragmatist-quantum-foundations article as a more developed treatment of how QBism grounds the interface proposal, (b) whether the new article's framing of pragmatist epistemic commitments affects mind-matter-interface's account of what "the interface" is, (c) terminology alignment, (d) whether the exposition of quantum indeterminacy selection remains coherent with the QBism-compatible framing. Add cross-links where reinforcing.
+- **Output**: obsidian/concepts/mind-matter-interface.md -- Context: Cross-review mind-matter-interface.md considering pragmatist-quantum-foundations-under-dualism insights
 
 ### ✓ 2026-04-18: Cross-review pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
 - **Type**: cross-review
