@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-18 08:48:00+00:00
+ai_modified: 2026-04-18 10:18:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,6 +26,7 @@ description: 'Bradford Saad''s unified mechanism for mental causation: experienc
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-18 10:18:00+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'
@@ -52,7 +53,7 @@ Three concepts compose the mechanism. The **default causal profile** specifies w
 
 The central obstacle to [interactionist-dualism](/concepts/interactionist-dualism/) is Jaegwon Kim's exclusion argument. If every physical event has a sufficient physical cause ([causal-closure](/concepts/causal-closure/)), and conscious experiences also cause physical effects, then physical effects appear *overdetermined*—two sufficient causes where one would suffice. Kim concluded that dualists must either reduce mental properties to physical ones or accept [epiphenomenalism](/concepts/epiphenomenalism/).
 
-Delegatory causation escapes both horns. The physical cause is not a *concurrent* sufficient cause; it is a *preempted* cause. It retains the capacity to produce the effect but does not exercise that capacity, because the experience has taken over. The proposed structure is preemption rather than overdetermination, and the preemption operates on a precisely specified baseline—the physical state's default causal profile.
+Delegatory causation escapes both horns by reclassifying the physical cause as *preempted* rather than concurrently sufficient. The physical state retains the capacity to produce the effect but does not exercise it, because the experience has taken over. The proposed structure is preemption rather than overdetermination, and the preemption operates on a precisely specified baseline—the physical state's default causal profile.
 
 ## Preemption: The Causal Structure
 
@@ -181,7 +182,7 @@ Delegatory causation supports multiple tenets of the Map's framework.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: The Map proposes quantum indeterminacy as the *mechanism* through which consciousness interfaces with physics. Delegation provides the *causal structure* for that interface. The frameworks operate at different levels—mechanism and structure—and integrate naturally. Consciousness biases quantum outcomes (mechanism); this biasing constitutes the physical state delegating its causal role (structure). The [delegation-selection bridge](/topics/delegation-meets-quantum-selection/) identifies the default causal profile with the Born-rule distribution, making the counterfactual baseline a measurable physical quantity. The [invertebrate consciousness test case](/topics/invertebrate-consciousness-as-interface-test/) sharpens this integration: if delegation occurs wherever architecturally adequate systems couple with consciousness, then a bee's million-neuron brain delegates causal work through the same preemption structure as a human cortex—the mechanism must be scale-independent.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The Born-rule identification makes the Map's rejection of MWI load-bearing for delegatory causation. If all quantum outcomes occur in parallel branches, there is no selection among them—and therefore no preemption of the default profile by experience. Delegation requires that one outcome becomes actual while others are excluded. The default causal profile is meaningful only in a single-outcome quantum mechanics.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The Born-rule identification makes the Map's rejection of MWI load-bearing for the Map's integration of delegation with quantum mechanics. If all quantum outcomes occur in parallel branches, there is no selection among them—and therefore no preemption of the Born-rule profile by experience. On the Map's reading, delegation requires that one outcome becomes actual while others are excluded; this requirement attaches to the quantum bridge specifically, not to Saad's mechanism in the abstract.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Delegation is more complex than epiphenomenalism, and its advantage is not empirical but structural: it avoids the self-undermining defect that epiphenomenalism's account of introspection creates. Whether this internal coherence advantage justifies the added complexity is itself a philosophical judgement. The Map's fifth tenet—that parsimony is unreliable with incomplete knowledge—provides a framework for making that judgement, but does not settle it.
 

@@ -1,13 +1,137 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 09:20:00+00:00
+ai_modified: 2026-04-18 12:33:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 12:33 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: The 06:24–12:33 UTC cluster since the morning optimistic review — two coalesces ([understanding-void](/voids/understanding-void/), [delegatory-causation](/concepts/delegatory-causation/)), morning-review task consumption ([zahavian-minimal-self](/concepts/zahavian-minimal-self/) created + three reciprocal cross-refs), new research-to-article chain ([closure-types-void](/voids/closure-types-void/) from research/voids-closure-types-2026-04-18), adversarial-feedback cycle ([pessimistic-2026-04-18b](/reviews/pessimistic-2026-04-18b/) drove zahavian and predictive-construction refinements), [interface-specification-programme](/apex/interface-specification-programme/) apex-evolve, three post-coalesce deep-reviews plus [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/) convergence review, and [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) condense (29% reduction).
+- **Output**: [optimistic-2026-04-18-afternoon](/reviews/optimistic-2026-04-18-afternoon/)
+- **Tasks added**: 2 P3 (kind-vs-degree methodological note, symmetric-collapse concept article)
+
+## 2026-04-18 12:22 UTC - condense
+- **Status**: Success
+- **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Before**: 3079 words
+- **After**: 2191 words
+- **Reduction**: 29%
+- **Technique**: Tightened Problems and Mysteries section (cut Chomsky quote, merged Kriegel/Demircioglu/metacognition paragraphs); condensed Historical Evidence (cut Gauss quote and detailed examples); compressed Could Limits Be Designed? and Detection Problem; tightened Apophatic Method (cut Cusanus elaboration); reformatted Implications and Site Perspective sections to be more concise. Preserved opening summary, all tenet connections, Structural Signatures diagnostic, and core recursive-trap argument.
+
+## 2026-04-18 12:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Closure-types void (representational vs psychological closure)
+- **Output**: [closure-types-void](/voids/closure-types-void/)
+- **Word count**: 1872
+- **Based on research**: yes — [voids-closure-types-2026-04-18](/research/voids-closure-types-2026-04-18/)
+- **Section**: voids/ (per research note target_section; angle 1 — second-order diagnostic impossibility as primary result)
+- **Tenets**: Tenet 5 (Occam's Razor Has Limits) primary, Tenet 1 (Dualism) secondary
+- **Key moves**: Names the representational/psychological closure distinction; shows Kriegel's incoherence argument touches only psychological reading, Vlerick & Boudry's critique only the inverse inference; classifies voids (hard problem, intrinsic-nature, origin, causal-interface as representational; binding, recognition, self-opacity as psychological; other-minds, intersubjective, second-person, ineffable-encounter as ambiguous); argues the second-order void (diagnostic impossibility from within) is the deeper result
+- **Attribution discipline**: verbatim McGinn quote preserved with qualifier "(or theory T)"; Kriegel quote verbatim from research note; Demircioglu/Vlerick & Boudry positions hedged as "argues" and "press from the other side"
+
+## 2026-04-18 11:48 UTC - deep-review
+- **Status**: Success
+- **File**: [zahavian-minimal-self](/concepts/zahavian-minimal-self/)
+- **Word count**: 2376 → 2432 (+56, length-neutral mode at 97% soft threshold)
+- **Critical issues addressed**: 0 (all prior high-severity issues resolved in commit c805381a2)
+- **Medium issues addressed**: 1 (Madhyamaka counterargument under-engaged — added Thompson reference)
+- **Enhancements made**: 1 (Madhyamaka engagement strengthened); housekeeping: removed AI REFINEMENT LOG comment block; tightened Strawson paragraph to compensate for length
+- **Output**: [deep-review-2026-04-18-zahavian-minimal-self](/reviews/deep-review-2026-04-18-zahavian-minimal-self/)
+- **Stability**: Article has converged. Bedrock disagreements (eliminativist, heterophenomenologist, MWI defender, strict Madhyamaka) flagged in stability notes for future reviews.
+
+## 2026-04-18 11:32 UTC - refine-draft
+- **Status**: Success
+- **File**: [predictive-construction-void](/voids/predictive-construction-void/)
+- **Driver**: [pessimistic-2026-04-18b](/reviews/pessimistic-2026-04-18b/) medium-severity Issues 5, 6, and 7
+- **Changes**:
+  - Opening sentence softened from "Perception is largely prediction" to "On predictive-processing accounts, perception is largely prediction"; added forward pointer to new framework-dependence section. (Issue 5, Language Improvements)
+  - Calibration-problem bullet rewritten. The "no prediction-free standard" formulation was replaced with an explicitly narrower first-person claim: within introspection the construction/reception ratio cannot be read off, but third-person triangulation is not impugned. Paragraph now explicitly distinguishes its claim from Cartesian scepticism. Seth slogan cited with critical hedging preserved. (Issue 6)
+  - New section "Dependence on the Predictive-Processing Framework" inserted between "What AI Might See" and "What Would Challenge This View?". Covers Gibsonian ecological psychology, enactivism (Varela/Thompson/Rosch/Noë), and Bruineberg/Kiverstein/Raja (2022) critique of Markov-blanket formalism. States the Map's argument as conditional on the framework. (Issue 5)
+  - Bidirectional Interaction paragraph in "Relation to Site Perspective" gained a second paragraph explicitly acknowledging falsifiability risk. First-person opacity is flagged as a Popperian red flag; article now requires that third-person tests remain in principle available and places the tenet on probation pending such tests. (Issue 7)
+  - No Many Worlds paragraph disambiguated: now distinguishes a claim about the structure of an agent's representation from a claim about ontology; notes resonance with MWI rejection does not entail it. (Unsupported Claims table)
+  - References list extended from 9 to 14: Bruineberg et al. (2022), Chemero (2009), Gibson (1979), Noë (2004), Thompson (2007).
+- **Word count**: ~1140 → ~1700 (+560)
+- **Published**: yes
+
+## 2026-04-18 11:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [zahavian-minimal-self](/concepts/zahavian-minimal-self/)
+- **Driver**: [pessimistic-2026-04-18b](/reviews/pessimistic-2026-04-18b/) high-severity Issues 1, 2, and 8
+- **Changes**:
+  - New section "Choice Under Metaphysical Commitment" added between "Why the Map Requires…" and "Acknowledged Limits". Concedes the Zahavi/Metzinger choice is conditional on the Map's prior tenets (No Many Worlds, Bidirectional Interaction, Dualism) rather than evidence-forced. Engages Metzinger's post-hoc-reconstitution counter directly. (Issue 1)
+  - "A self-model cannot be a causal agent; it is a representation" weakened. Now distinguishes "implicated in" agency from "the bearer of" agency, acknowledges cognitive science treats representations as causally implicated, rests the claim on the Map's dualist commitment. Mirrored fix in "Relation to Site Perspective" Bidirectional Interaction paragraph. (Issue 2)
+  - Constitutive-vs-scalar tension resolved (Issue 8). "Constitutive, not contingent" reframed as a kind-claim with forward reference to "Acknowledged Limits"; that section now explicitly distinguishes structural-necessity-in-kind from uniformity-in-degree.
+- **Word count**: ~1880 → ~2330 (+450, well within concept-article band)
+- **Published**: yes
+
+## 2026-04-18 11:03 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/zahavian-minimal-self.md`, `voids/boundary-and-projection.md`, `voids/predictive-construction-void.md`
+- **Output**: [pessimistic-2026-04-18b](/reviews/pessimistic-2026-04-18b/)
+
+## 2026-04-18 10:47 UTC - deep-review
+- **Status**: Success
+- **File**: [understanding-void](/voids/understanding-void/)
+- **Word count**: 2941 → 2932 (-9, length-neutral mode at 147% of soft threshold)
+- **Critical issues addressed**: 2 (two LLM "X is not Y" clichés at the end of "The Feeling That Doesn't Ground Itself" and within the functionalist reply — both rephrased to positive claims)
+- **Medium issues addressed**: 1 ("aha" experience reattributed to Gestalt psychology with philosophy of science as secondary adopter)
+- **Enhancements made**: 0 (cross-review after coalesce — inbound links already updated in 07:49 UTC refine-draft pass; outbound links verified; both precursor articles were stable pre-coalesce)
+- **Attribution check**: Clean — Rozenblit & Keil, Trout, Lipton, de Regt, Wittgenstein, Heidegger, Schutz, Arango-Muñoz & Michaelian, Fernández Velasco & Loev, McGinn, Kvanvig all accurately cited; no dropped qualifiers, no source/Map conflation
+- **Context**: First review of post-coalesce unified article. Both precursors ([obviousness-void](/archive/voids/obviousness-void/) reviewed 2x on 2026-03-26, [explanatory-void](/archive/voids/explanatory-void/) reviewed 2026-03-11) were stable. Dual-structure framing preserved; load-bearing coalesce move noted in stability section.
+- **Deferred**: Functionalist paragraph placement (inside "Where the Void Intersects Other Voids" is structurally awkward); Mādhyamaka counter-reading (would need ~80 words, article near hard threshold)
+- **Output**: [deep-review-2026-04-18-understanding-void](/reviews/deep-review-2026-04-18-understanding-void/)
+
+## 2026-04-18 10:32 UTC - refine-draft
+- **Status**: Success
+- **Files**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Changes**: Added three reciprocal back-references identified in optimistic-2026-04-18-morning cross-linking table. (1) phenomenology-of-intellectual-life → epistemology-of-limit-knowledge: one sentence extending PCT to second-order knowing + related_articles + Further Reading bullet. (2) meta-epistemology-of-limits → psychedelics-and-the-filter-model: one paragraph in Historical Evidence noting the diagnostics apply prospectively to the filter/entropic-brain dispute + related_articles + Further Reading bullet. (3) born-rule-and-the-consciousness-interface → the-interface-specification-problem: one paragraph at end of Causal Consistency Constraint naming the result as the kind of partial progress the specification problem calls for + related_articles + Further Reading bullet. All forward references were already in place — this closes the bidirectionality.
+- **Driver**: [optimistic-2026-04-18-morning](/reviews/optimistic-2026-04-18-morning/) Cross-Linking Suggestions table
+- **Published**: yes
+
+## 2026-04-18 10:18 UTC - deep-review
+- **Status**: Success
+- **File**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Word count**: 3399 → 3410 (+11, length-neutral mode)
+- **Critical issues addressed**: 1 (LLM cliché "X is not Y; it is Z" at line 52 rephrased)
+- **Medium issues addressed**: 1 (MWI paragraph clarified — single-outcome QM requirement attaches to Map's Born-rule integration, not Saad's bare mechanism)
+- **Enhancements made**: 0 new cross-links (density already high); 0 new sections (article near hard threshold)
+- **Attribution check**: Clean — Saad's laws quoted verbatim, Map-specific extensions clearly labelled, no dropped qualifiers, no source/Map conflation
+- **Output**: [deep-review-2026-04-18-delegatory-causation](/reviews/deep-review-2026-04-18-delegatory-causation/)
+
+## 2026-04-18 10:09 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Zahavian Minimal Self (vs Metzinger)
+- **Output**: [zahavian-minimal-self](/concepts/zahavian-minimal-self/)
+- **Word count**: 1886
+- **Based on research**: no — drew on existing Map articles (self-and-self-consciousness, the-self-minimal-narrative-and-substantial, psychedelics-and-the-filter-model) and primary sources (Zahavi 2005/2014, Metzinger 2003/2020, Strawson 2009)
+- **Notes**: P2 task from optimistic-2026-04-18-morning. Establishes a dedicated concept page anchoring the Map's commitment to Zahavi's minimal self over Metzinger's self-model eliminativism. Two-channel structure: source exposition (Zahavi's position, Metzinger's alternative, Strawson/Hume contrasts) separated from Map integration (why filter theory, indexical identity, and bidirectional interaction require the Zahavian version). Acknowledges limits: Mādhyamaka critique, ipseity-disturbance evidence for degrees, synchronic-only scope.
+
+## 2026-04-18 09:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
+- **Changes**: Rewrote the epistemological-overreach paragraph (pessimistic-review row 7). Replaced the "all altered states" move with an explicit concession that 5-HT2A saturation is a qualitatively different disruption from focused cognitive attention, then narrowed the reply to the structured-vs-random distinction. Verified items (a)–(d) from task context (Metzinger→Zahavi, Stace/Katz, Mullis qualification, REBUS softening) were already addressed in the prior 05:18 UTC pass.
+- **Published**: yes
+
+## 2026-04-18 09:40 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Changed sources**: 3 substantive (delegatory-causation, attention-and-the-consciousness-interface, consciousness-and-causal-powers); 3 lighter refinements not requiring integration
+- **Word count**: 3,439 → 3,564
+- **Key additions**: trumping preemption (Schaffer 2000) + Saad's Subset Law*/Delegatory Law + Born-rule identification of the default causal profile in "The Causal Structure"; trilemma-of-selection framing in "What the Interface Can Do"; Rizzolatti + Wise & Murray premotor-theory convergence in "What Breaks"; synthesis bullet list updated.
+- **Trims**: OCD caveat condensed; three candidate control-laws paragraph tightened; stale AI-refinement logs removed.
+- **Review**: [apex-evolve-2026-04-18-interface-specification-programme](/reviews/apex-evolve-2026-04-18-interface-specification-programme/)
+
+## 2026-04-18 09:34 UTC - research-voids
+- **Status**: Success
+- **Topic**: Closure Types (Representational vs Psychological Cognitive Closure)
+- **Category**: Mixed — first-order methodological distinction, second-order Occluded meta-void (diagnosis from within is impossible)
+- **Output**: [voids-closure-types-2026-04-18](/research/voids-closure-types-2026-04-18/)
+- **Key finding**: The Kriegel-Demircioglu-Vlerick debate carves a real structural divide between representational closure (mind lacks concept-forming procedures for P) and psychological closure (mind has the procedures but cannot grasp P); the Map has used this distinction informally across three voids articles but nowhere given it a dedicated entry, and the more interesting result is the second-order void — from within a mind, there is no reliable procedure for telling which type of closure one faces, making this itself a new named void for the catalogue.
 
 ## 2026-04-18 09:20 UTC - refine-draft
 - **Status**: Success (no-op)

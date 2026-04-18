@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-18 09:05:00+00:00
+ai_modified: 2026-04-18 09:45:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-03-15 18:09:00+00:00
+apex_last_synthesis: 2026-04-18 09:45:00+00:00
 apex_sources:
 - topics/the-psychophysical-control-law
 - concepts/bandwidth-problem-mental-causation
@@ -24,7 +24,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 created: 2026-03-15
-date: &id001 2026-03-15
+date: &id001 2026-04-18
 description: Six converging lines of inquiry—bandwidth, control operations, causal
   delegation, causal powers, the psychophysical control law, and attention disorders—specify
   the mind-matter interface as a research programme.
@@ -55,7 +55,7 @@ The interface specification programme addresses these questions by drawing on wo
 
 ## What the Interface Can Do
 
-The first constraint comes from asking what *kind* of causal powers consciousness possesses. As [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) argues, the answer is neither unlimited psychokinesis nor epiphenomenal impotence but something precise: consciousness biases quantum indeterminacies in neural systems toward certain outcomes without violating conservation laws.
+The first constraint comes from asking what *kind* of causal powers consciousness possesses. As [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) argues, the answer is neither unlimited psychokinesis nor epiphenomenal impotence but something precise: consciousness biases quantum indeterminacies in neural systems toward certain outcomes without violating conservation laws. The [trilemma-of-selection](/topics/trilemma-of-selection/) sharpens why a capacity of this shape is needed at all — at any point of genuine indeterminacy, determinism, randomness, and mental causation exhaust the options, and only the third preserves authorship. The interface programme is the attempt to specify what that third option *is*.
 
 This power has four specific dimensions. Consciousness selects among action possibilities—biasing which neural pattern wins when multiple patterns compete. It sustains attention, holding selected patterns stable against competing alternatives. It engages in phenomenal biasing—the felt character of experience (the unpleasantness of pain, the pull of desire) contributes to which outcomes are favoured. And it modulates its own intensity—what we experience as trying harder or letting go.
 
@@ -95,21 +95,23 @@ Each operation is consistent with the ~10 bits/second bandwidth constraint. None
 
 How does this control avoid the exclusion problem—the objection that if every physical event has a sufficient physical cause, consciousness is redundant? [Causal delegation](/concepts/delegatory-causation/) provides the causal structure. Drawing on Bradford Saad's delegatory dualism (2025), the Map proposes that when consciousness selects, the underlying physical state *delegates* its causal responsibilities to the experience. Pain causes wincing not alongside the brain state but instead of it. The physical state retains the capacity to cause the effect but does not exercise it—the experience preempts it.
 
-Delegation matters because it avoids both horns of the exclusion dilemma. Overdetermination (two sufficient causes for one effect) makes the mental cause redundant. Epiphenomenalism (consciousness does nothing) makes our reports about experience accidentally correct. Delegation preserves genuine mental causation through preemption: one cause operates, the other is sidelined, and no redundancy occurs.
+The specific variety is *trumping preemption* (Schaffer 2000). Unlike early preemption, where the preempting cause prevents the backup from completing, or late preemption, where one process beats another to the finish, trumping preemption involves both causes operating fully yet one rendered causally idle by a structural principle of priority. Saad formalises this into two laws. The Subset Law* specifies when an experience is instantiated: whenever an experiential property's causal profile is a subset of a physical state's *default causal profile*—what the state would produce absent any conscious involvement. The Delegatory Law specifies what then happens: the experience's profile preempts the matching subset of the default profile. One cause operates; the other is sidelined; no redundancy occurs.
 
-A key feature is *observational closure*: because experiences cause exactly the effects their underlying physical states would have caused by default, no experiment can detect that delegation has occurred. This property requires honest acknowledgment: observational closure means delegation is a metaphysical claim about causal structure, not an empirically testable hypothesis in the usual sense. The Map cannot point to an experiment whose outcome would distinguish a world with delegation from one without it. This is a genuine cost. The justification for accepting delegation despite this cost is philosophical rather than empirical: delegation solves the exclusion problem elegantly, preserves the causal efficacy that our phenomenology insists upon, and coheres with the minimal-interaction constraint the Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet independently requires. But the inability to test delegation directly means this component of the architecture rests on inference to the best explanation, not on empirical confirmation—and readers should weigh it accordingly.
+The Map adds a specifically physical interpretation. The default causal profile of a brain state approaching a quantum indeterminacy *is* the Born-rule probability distribution over possible outcomes—what the system would produce statistically if no conscious selection occurred. Delegation means experience selects within this distribution rather than deviating from it. The philosophical constraint Saad imposes by design (no observable violations) coincides with the physical constraint the Born rule imposes by necessity. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) treats Born-rule preservation as the first of five non-negotiable constraints on any consciousness-physics coupling; delegation satisfies it structurally, not as an added assumption.
 
-Delegation also integrates naturally with the control-theoretic picture. The controller's output (conscious selection) preempts what the plant's dynamics would have produced autonomously. When consciousness gates, stabilises, or vetoes, it takes over causal work that default neural dynamics would otherwise perform. The control operations describe *what* consciousness does; delegation describes *how* that doing relates to what the brain would have done without it.
+A key feature of this architecture is *observational closure*: because experiences cause exactly the effects their underlying physical states would have caused by default, no experiment can detect that delegation has occurred. This requires honest acknowledgment: delegation is a metaphysical claim about causal structure, not an empirically testable hypothesis in the usual sense. The justification for accepting it is philosophical rather than empirical. Delegation's strongest case is that [epiphenomenalism](/concepts/epiphenomenalism/) is *internally incoherent* in a way delegation is not—if experiences cause nothing, the introspective reports that constitute the evidence for their existence are not caused by them, severing the theory from its own evidence base. Delegation avoids this self-undermining defect: reports about pain are caused by the pain itself. The asymmetry is closer to a consistency requirement than a taste preference, though readers should weigh the combined cost of observational invisibility and residual metaphysical commitment accordingly.
+
+Delegation also integrates naturally with the control-theoretic picture. The controller's output (conscious selection) preempts what the plant's dynamics would have produced autonomously. When consciousness gates, stabilises, or vetoes, it takes over causal work that default neural dynamics would otherwise perform. The control operations describe *what* consciousness does; delegation describes *how* that doing relates to what the brain would have done without it; the Born-rule identification describes *where in physics* the default lives.
 
 ## What Breaks: Evidence from Attention Disorders
 
-If the interface has a specific architecture, it should malfunction in specific ways. [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) confirms this prediction. Different disorders affect different components of the interface, and the pattern of breakdown illuminates the architecture itself.
+If the interface has a specific architecture, it should malfunction in specific ways. [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) confirms this prediction and adds a further unification: Rizzolatti's premotor theory of attention, extended by Wise and Murray (2022), shows that selective attention and motor planning share the same fronto-parietal substrates—directing attention *is* preparing to act. This collapses the traditional separation of perception and action puzzles into a single interface question: how does consciousness select? Different disorders affect different components of this unified selection mechanism, and the pattern of breakdown illuminates the architecture itself.
 
 **ADHD as threshold dysregulation**: The dopamine system modulates how easily neural options cross the threshold for action. In ADHD, this modulation is dysregulated—options become actions too easily (impulsivity) or the system fails to maintain threshold-crossing for intended goals (inattention). Consciousness remains present; people with ADHD report normal subjective experience. What fails is the *control* aspect—the capacity to sustain selection over time. Stimulant treatment restores dopamine modulation; patients report that intentions translate more reliably into sustained action. The interface works better, not differently.
 
 **Attention fatigue as resource depletion**: Sustained attention depletes. After extended effortful focus, the subjective sense of effort intensifies and attention slips despite intention. This reveals that the interface has biological costs—not because consciousness needs energy, but because the neural mechanisms through which it operates require metabolic resources.
 
-**OCD as runaway stabilisation**: Jeffrey Schwartz's work provides suggestive clinical evidence for the interface. OCD patients trained to recognise obsessive thoughts as symptoms and redirect attention produce measurable brain changes—reduced metabolic activity in the orbital frontal cortex and caudate nucleus—paralleling changes from medication but achieved through directed mental effort alone. Important caveats: the original PET study included only 18 participants (9 new), has not been independently replicated outside Schwartz's group, and the four-step method shares core behavioural elements with standard exposure-response prevention therapy. The findings are compatible with the interface model but also with standard Hebbian learning explanations. See [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for detailed assessment.
+**OCD as runaway stabilisation**: Jeffrey Schwartz's work provides suggestive clinical evidence. OCD patients trained to recognise obsessive thoughts as symptoms and redirect attention produced measurable brain changes paralleling medication effects—achieved through directed mental effort alone. The evidence is small-sample (18 participants, 9 new), unreplicated outside Schwartz's group, and compatible with standard Hebbian learning. What remains philosophically significant is the pathway divergence: cognitive intervention modulates brain activity through a different causal route than pharmacological intervention. See [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) for detailed assessment.
 
 **Meditation as interface training**: Beginning meditators discover that voluntary attention control is weak by default. With practice, sustained attention duration increases, meta-awareness improves, recovery from distraction accelerates, and effort requirements decrease. The interface becomes more efficient—not wider, but better governed.
 
@@ -121,7 +123,7 @@ Intellectual honesty requires marking where the programme remains incomplete. Th
 
 The gap has three sources. *Scientific immaturity*: physics took two millennia from Aristotle to Newton before arriving at F=ma, and Newton had the advantage of dealing with quantities that already admitted measurement. Consciousness science has not yet had its Galileo. *Conceptual asymmetry*: physical variables have defined units and intersubjective verification; phenomenal variables—how much attention, how intense the effort—have none of these. *The T-shirt problem*: good fundamental laws are simple (F=ma, E=mc²), but the psychophysical mapping might reflect evolutionary contingency rather than fundamental simplicity, resisting compression into an elegant formula.
 
-Three candidate formulations exist. Stapp's attention-rate law proposes that observation frequency is proportional to attention intensity—a proportional controller with a gain parameter that would be the fundamental psychophysical constant. Eccles' intention-probability law proposes that consciousness shifts vesicle release probabilities—a probability-reweighting controller. The Map's own policy-selection law proposes that consciousness selects among a finite set of brain-prepared action policies—a switching controller requiring minimal bandwidth. Each implies a different control law form; none has been empirically confirmed.
+Three candidate formulations currently exist: Stapp's attention-rate law (observation frequency proportional to attention intensity—a proportional controller), Eccles' intention-probability law (consciousness shifts vesicle release probabilities—a probability-reweighting controller), and the Map's own policy-selection law (consciousness selects among brain-prepared action policies—a switching controller requiring minimal bandwidth). Each implies a different control-law form; none has been empirically confirmed. See [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) for detailed comparison.
 
 The gap is real but not damning. Any psychophysical control law must satisfy five constraints that the programme has already identified: bandwidth compatibility (~10 bits/second), conservation compliance (no energy injection), scope locality (only neural systems within the attention loop), phenomenological consistency (matching what effort feels like), and falsifiability (predicting something that could turn out to be false). These constraints narrow the space from unconstrained speculation to empirically bounded conjecture—the trajectory every successful physical law followed before its formulation.
 
@@ -131,9 +133,10 @@ The six source articles were developed to address different philosophical questi
 
 - An interface that carries ~10 bits/second of conscious selection
 - Operating through five control operations (gating, stabilisation, veto, attractor steering, resource allocation)
-- Using causal delegation to avoid exclusion while preserving genuine mental causation
-- Constrained to quantum indeterminacies, respecting conservation laws
-- Breaking in predictable ways when specific components are compromised
+- Using trumping preemption to avoid exclusion while preserving genuine mental causation
+- Anchored physically by identifying the default causal profile with the Born-rule distribution, making observational closure a physical rather than merely stipulated property
+- Constrained to quantum indeterminacies and respecting conservation laws
+- Breaking in predictable ways when specific components are compromised—with attention-motor convergence showing the same substrates mediate selection across perception and action
 - Awaiting formal specification of the psychophysical control law that governs it
 
 This convergence is not accidental. It reflects the Map's tenets working as constraints should—ruling out possibilities and forcing remaining options to cohere. The result is not yet a complete theory. It is something more honest: a specification precise enough to be wrong. The bandwidth can be measured more exactly. The control operations generate predictions about reaction times and attention dynamics. Clinical evidence can confirm or disconfirm the predicted failure modes. The specification gap marks exactly where new work is needed.
@@ -173,34 +176,13 @@ This synthesis draws on:
 ## References
 
 1. Saad, B. (2025). A dualist theory of experience. *Philosophical Studies*, 182(3), 939-967.
-2. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-3. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
-4. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
-5. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
-6. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
-7. Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
-8. Southgate, A. & Oquatre-six, C. (2026-02-19). The Psychophysical Control Law. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-psychophysical-control-law/
-9. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/
-
-<!-- AI REFINEMENT LOG - 2026-03-20
-Changes made:
-- Observational closure: added explicit acknowledgment that delegation is a metaphysical claim, not an empirically testable hypothesis; justified via inference to best explanation rather than presenting unfalsifiability as a feature
-- 10 bits/second bandwidth: added bridging argument acknowledging the gap between behavioural output measurement and metaphysical interface specification; treats figure as approximate upper bound with caveats
-- Softened "matching the phenomenology" to "consistent with the phenomenology... suggestive rather than demonstrated"
-- Final paragraph: "transforms...into" → "moves...toward" to avoid overselling current state
-
-Based on pessimistic-2026-03-20-d.md Issues 1 and 3.
-This log should be removed after human review.
--->
-
-<!-- AI REFINEMENT LOG - 2026-03-31
-Changes made:
-- OCD section: downgraded "strongest clinical evidence" to "suggestive clinical evidence"
-- Added caveats: n=18 (9 new) sample size, no independent replication, shared elements with standard ERP
-- Added cross-reference to clinical-neuroplasticity-evidence-for-bidirectional-causation for detailed assessment
-
-Based on research in research/clinical-evidence-quality-2026-03-29.md.
-Key improvements: Evidence quality honesty for Schwartz OCD claims.
-
-This log should be removed after human review.
--->
+2. Schaffer, J. (2000). Trumping Preemption. *Journal of Philosophy*, 97(4), 165-181.
+3. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+4. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
+5. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
+6. Cisek, P. (2007). Cortical mechanisms of action selection: the affordance competition hypothesis. *Philosophical Transactions of the Royal Society B*, 362(1485), 1585-1599.
+7. Kim, J. (2005). *Physicalism, or Something Near Enough*. Princeton University Press.
+8. Wiener, N. (1948). *Cybernetics: Or Control and Communication in the Animal and the Machine*. MIT Press.
+9. Wise, S.P. & Murray, E.A. (2022). The whole prefrontal cortex is premotor cortex. *Philosophical Transactions of the Royal Society B*, 377(1844), 20200524.
+10. Southgate, A. & Oquatre-six, C. (2026-02-19). The Psychophysical Control Law. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-psychophysical-control-law/
+11. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/
