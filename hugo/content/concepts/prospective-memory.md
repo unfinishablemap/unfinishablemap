@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-17
-ai_modified: 2026-03-12 21:20:00+00:00
+ai_modified: 2026-04-18 20:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -79,11 +79,15 @@ A striking feature of everyday PM is the **spontaneous "pop"** of intentions int
 
 Einstein and McDaniel (1990) identified two retrieval routes: resource-intensive conscious **monitoring** versus automatic **spontaneous retrieval**. The pop phenomenon highlights that consciousness bookends the process (forming the intention, receiving the retrieval) while something unconscious bridges the gap.
 
-### Futuricity: The Temporal Quale
+### Futuricity: A Contested Posit
 
-When you imagine a future event, it carries a distinctive phenomenal character—**futuricity** (our term for this temporal quale), a felt sense of possibility and "not yet." This is closely related to what Husserl called [protention](/concepts/temporal-consciousness/)—the forward-directed structure of present experience—but futuricity extends beyond the immediate horizon into genuinely imagined futures. Just as remembered events carry pastness, imagined future events carry this phenomenal marker of projected possibility.
+When you imagine a future event, it appears to carry a distinctive phenomenal character—**futuricity** (our term), a felt sense of possibility and "not yet." This is closely related to what Husserl called [protention](/concepts/temporal-consciousness/)—the forward-directed structure of present experience—but the proposal here extends beyond the immediate horizon to genuinely imagined futures.
 
-Futuricity differs from pastness: memories represent what happened; future simulations represent what might happen. Both involve autonoetic consciousness, but the modal character differs—and this difference appears in phenomenology, not just propositional content.
+Futuricity is a *theoretical posit*, not an uncontroversial datum. The eliminativist reply is sharp: what we call futuricity may be a cognitive tag—*knowing* a simulation is forward-directed—rather than a distinct felt quality. On that view, the "possibility character" is metacognitive content dressing itself up as phenomenology. Naming the feeling does not show the feeling is phenomenally distinct from the knowing.
+
+Showing futuricity to be a quale rather than a tag would require a *dissociation case*: a condition under which the cognitive attribution of pastness or futurity dissociates from the felt temporal character (or vice versa). Candidates worth investigating include déjà vu and jamais vu (where familiarity-feeling dissociates from familiarity-knowledge), certain dissociative or depersonalisation states where patients report knowing something is a memory while feeling it as foreign, and anticipatory reports where simulations "feel past" despite being forward-directed. Parallel dissociations for pastness have partial empirical support; the futuricity case remains unestablished. Until such evidence arrives, the posit should be treated as contested—worth defending as a research hypothesis, not as a reported datum.
+
+If the posit holds, futuricity differs from pastness in modal character: memories represent what happened; future simulations represent what might happen—and this difference would register in phenomenology, not just in propositional content. If the posit fails, future-oriented cognition still exists, but its distinctive "feel" reduces to attribution and the consciousness-theoretic weight the article places on it must be reduced accordingly.
 
 ### The Impossibility of Anticipatory Qualia
 
@@ -113,7 +117,11 @@ This matters for [agent causation](/concepts/agent-causation/) and [diachronic a
 
 ### Future Simulation Influences Decisions
 
-EFT causally influences behaviour: vividly imagining future consequences reduces temporal discounting, decreases impulsive decision-making, and improves goal-directed behaviour (Szpunar, Spreng, & Schacter, 2014). If conscious simulation of future scenarios shapes present decisions, consciousness participates in directing action exactly as the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet proposes.
+EFT influences behaviour: vividly imagining future consequences reduces temporal discounting, decreases impulsive decision-making, and improves goal-directed behaviour (Szpunar, Spreng, & Schacter, 2014).
+
+These results do not by themselves show that *phenomenology* causes the behavioural change. The evidence is consistent with two pictures: (a) conscious vividness causes richer neural simulation which causes behavioural change (phenomenology load-bearing); (b) richer neural simulation causes both the vividness reports *and* the behavioural change, with phenomenology riding along as correlate (epiphenomenalist-compatible). Vividness ratings track both phenomenal and neural magnitude; the behavioural literature cannot separate them.
+
+The Map's framework commits to (a) on independent grounds—the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet, the rejection of causal closure, and the self-stultification worry that an epiphenomenal consciousness could not reliably report its own vividness in the first place. Readers who do not accept those commitments should read the EFT evidence as compatible with consciousness participating in decision-making rather than as showing it does.
 
 ## Working Memory and Future Simulation
 
@@ -127,17 +135,19 @@ The [specious present](/concepts/temporal-consciousness/) may constrain future s
 
 **The regress problem.** If futuricity is an illusion, something must experience this illusion—the seeming-to-project-forward must seem *to* something. Either that something has genuine experience, or it too merely seems to experience (generating a regress).
 
-**Introspective stability.** When you attend carefully to imagining a future event, the futuricity doesn't dissolve—it intensifies. Closer attention reveals rather than dissolves the phenomenon.
+**Introspective stability.** When practitioners attend carefully to imagining a future event, most report the futuricity does not dissolve but appears to intensify. Illusionists will rightly point out that this is exactly the confabulation pattern they diagnose—closer attention could be constructing richer representational content that seems phenomenal without being so. The response has force only to the extent one grants that introspection tracks something beyond its own outputs, which is the point at issue.
 
-**The asymmetry argument.** Pastness and futuricity feel categorically different as phenomenal characters. If these were mere cognitive tags, why would the same information accessed through [episodic memory](/concepts/episodic-memory/) versus future simulation have radically different texture?
+**The asymmetry argument.** Pastness and futuricity feel categorically different. If these were mere cognitive tags, the same information accessed through [episodic memory](/concepts/episodic-memory/) versus future simulation should share its texture—but it does not. The illusionist reply is that the texture difference just *is* a functional-representational difference, not a difference in phenomenal character; the argument succeeds only against versions of illusionism that deny any such differential signature, which modern illusionism does not.
 
 ## Contemplative Evidence
 
-**[Witness consciousness](/concepts/witness-consciousness/) and future thought.** Meditators report observing future simulations arise as contents within awareness—the anticipated scenario appears with its futuricity intact while the witness remains present. This capacity to observe the possibility-character of future thoughts suggests futuricity is a genuine phenomenal feature.
+The following observations are drawn from contemplative first-person literatures and informal practitioner reports rather than peer-reviewed empirical study; they are best read as hypotheses worth investigating, not as established findings.
 
-**Intention and volition.** Advanced meditators report that intention formation has a distinctive phenomenology that survives contemplative scrutiny rather than dissolving under examination.
+**[Witness consciousness](/concepts/witness-consciousness/) and future thought.** Practitioners in the Advaita Vedanta and Theravāda traditions describe observing future simulations arise as contents within awareness—the anticipated scenario appearing with its futuricity intact while the witness remains present. If this report is accurate it is suggestive, but it inherits the broader introspection-reliability concern: the witness may be constructing the futuricity it takes itself to observe.
 
-**The worry-obsession contrast.** Contemplative practice reveals that anxious future simulation differs phenomenologically from deliberate prospective planning—worry has a "sticky," compulsive quality that relaxed future thinking lacks.
+**Intention and volition.** Some contemplative reports describe intention formation as having a distinctive phenomenology that persists under examination rather than dissolving. This is anecdotal and disputed; it has not, to our knowledge, been systematically investigated in the contemplative-science literature (Varela-style neurophenomenological studies of intention formation remain sparse).
+
+**The worry-obsession contrast.** Practitioners informally describe anxious future simulation as differing in texture from deliberate prospective planning—the former feeling "sticky" or compulsive, the latter more tractable. This blends contemplative and clinical intuitions; rigorous phenomenological analysis of the contrast appears to be lacking, and the anecdote should not be treated as evidence until such work exists.
 
 ## Process Philosophy Perspective
 
@@ -161,13 +171,13 @@ Prospective memory and future-oriented consciousness support all five foundation
 
 **[Dualism](/tenets/#dualism)**: The phenomenology of future simulation involves irreducible qualia—futuricity, the self projected forward, the possibility character of imagined events. Neural activity correlates with future thinking, but correlation doesn't explain why there is something it is like to imagine tomorrow. The [illusionist](/concepts/illusionism/) response faces the regress problem: the illusion of anticipating requires some experience in which to be illuded.
 
-**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Intention formation may involve the same [attention-mediated quantum mechanisms](/concepts/attention-as-interface/) proposed for other conscious selection. If [mental effort](/concepts/mental-effort/) operates through quantum Zeno-type mechanisms, intention formation involves consciousness selecting among superposed neural patterns representing possible futures. The [decoherence](/concepts/decoherence/) objection applies, but biological quantum effects demonstrate that evolution can exploit quantum phenomena.
+**[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)**: Intention formation may involve the same [attention-mediated quantum mechanisms](/concepts/attention-as-interface/) proposed for other conscious selection. If [mental effort](/concepts/mental-effort/) operates through quantum Zeno-type mechanisms, intention formation would involve consciousness biasing selection among candidate neural patterns representing possible futures. The [decoherence](/concepts/decoherence/) objection applies forcefully and is not resolved here: brains are warm and wet, and maintaining coherent superposition across the millisecond-to-day timescales required for EFT or distal intention is the central problem MQI must address. Examples like photosynthetic energy transfer or magnetoreception show that evolution *can* exploit quantum effects in biological systems, but they do not generalise to the required case—those effects operate over femtosecond timescales and involve energy-transfer optimisation, not persistent coherent superposition serving as a substrate for macroscopic selection. The analogy is suggestive; it is not a demonstration. The Map treats MQI as a programmatic commitment contingent on future mechanism-finding rather than as established physics.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: Evidence that EFT reduces temporal discounting and improves goal-directed behaviour suggests conscious simulation causally shapes action—precisely the downward causation the Map proposes. Even if Libet-style challenges undermine proximal motor commands, distal intentions formed through conscious planning causally shape subsequent behaviour trajectories.
 
 **[No Many Worlds](/tenets/#no-many-worlds)**: Future simulation presupposes that only one future will actualise. Deliberation makes sense only if alternatives are genuinely exclusive—why deliberate if all options will occur? The phenomenology of intention formation presupposes single-history metaphysics. This connects to [haecceity](/concepts/haecceity/): the future you're planning for is *your* future, and in branching scenarios "your" future becomes indeterminate.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" computational account fails to explain futuricity as immediately given phenomenal character (not merely a timestamp). Evidence that conscious vividness predicts behavioral effects suggests phenomenology isn't epiphenomenal decoration but causally relevant.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" computational account leaves unexplained what futuricity would be if it is a genuine phenomenal character rather than a cognitive tag. The vividness-behaviour correlations are compatible with either phenomenology or its neural correlates doing the causal work; they motivate rather than settle the case against epiphenomenal decoration, and settling that case requires arguments beyond parsimony.
 
 **Agent Causation**: Intention formation is paradigmatically what [agent causation](/concepts/agent-causation/) describes—deciding now what to do later, with the intention persisting, retrieving, and guiding action. This causal chain is exactly what libertarian free will requires. The [motor selection](/concepts/motor-selection/) research suggests even final motor execution may involve the same attention-mediated selection mechanisms, unifying voluntary action under a single interface model.
 
@@ -207,3 +217,18 @@ Prospective memory and future-oriented consciousness support all five foundation
 1. Tallis, R. (2016). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+
+<!-- AI REFINEMENT LOG - 2026-04-18
+Changes made (addressing pessimistic-2026-04-18c):
+- Recast "Futuricity: The Temporal Quale" as "Futuricity: A Contested Posit" — explicitly flags it as a theoretical posit rather than a reported datum, describes the dissociation-case research programme that would be required to establish it as a distinct quale, and states the consequences if the posit fails.
+- Softened the illusionist responses ("Introspective stability" and "The asymmetry argument") to acknowledge the modern-illusionist diagnosis of introspective intensification as confabulation, and the diagnosis of texture differences as representational-functional rather than phenomenal. The responses no longer read as decisive.
+- Reworked "Future Simulation Influences Decisions" to distinguish phenomenology-causing-behaviour from neural-correlates-causing-behaviour (the two pictures (a) and (b)); notes that the behavioural literature cannot separate them and that the Map's preference for (a) rests on independent tenet-level commitments.
+- Softened the parallel claim in the Occam's Razor section so it no longer conflates vividness-behaviour correlations with a settled case against epiphenomenalism.
+- Flagged the Contemplative Evidence section as anecdotal/hypothesis-level with a prefatory paragraph; rewrote the three sub-items to avoid "advanced meditators report" appeals without citation, and to acknowledge the lacking empirical base.
+- Reworked the MQI paragraph to admit decoherence is unresolved, and to distinguish photosynthesis/magnetoreception-style exploitation (femtosecond energy-transfer optimisation) from the required case (persistent coherent superposition serving as a macroscopic-selection substrate). Now explicitly frames MQI as programmatic.
+- Updated ai_modified timestamp.
+
+Key improvements: the article no longer treats "futuricity" as a discovered datum, no longer conflates phenomenology and its neural correlates in the EFT-behaviour inference, no longer makes uncitated appeals to contemplative consensus, and no longer smuggles from one class of biological quantum effect to a very different one.
+
+This log should be removed after human review.
+-->

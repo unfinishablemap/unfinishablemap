@@ -1,13 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 16:24:00+00:00
+ai_modified: 2026-04-18 20:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 20:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [prospective-memory](/concepts/prospective-memory/)
+- **Source review**: [pessimistic-2026-04-18c](/reviews/pessimistic-2026-04-18c/)
+- **Changes**: Recast the "Futuricity: The Temporal Quale" section as "Futuricity: A Contested Posit" — the article now presents futuricity as a theoretical posit and sketches the dissociation-case research programme (déjà vu/jamais vu, depersonalisation states, "feels past" anticipations) required to establish it as a distinct quale rather than a cognitive tag, with explicit consequences if the posit fails. Softened the Illusionist Challenge responses so "introspective stability" and the asymmetry argument no longer read as decisive against modern diagnostic illusionism. Reworked "Future Simulation Influences Decisions" to distinguish phenomenology-causing-behaviour from neural-correlates-causing-behaviour via the two-picture formulation (a) vs (b), noting the behavioural literature cannot separate them and that the Map's preference rests on tenet-level commitments not on the EFT data. Mirrored the softening in the Occam's Razor tenet-alignment paragraph. Flagged the Contemplative Evidence section as anecdotal/hypothesis-level with a prefatory paragraph and rewrote each sub-item to drop uncited "advanced meditators report" appeals. Reworked the MQI tenet paragraph to admit decoherence is unresolved and to distinguish photosynthesis/magnetoreception-style biological quantum effects (femtosecond energy-transfer optimisation) from the required case (persistent coherent superposition as a macroscopic-selection substrate); now frames MQI as a programmatic commitment, not established physics.
+- **Published**: yes
+
+## 2026-04-18 19:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [inverted-qualia](/concepts/inverted-qualia/)
+- **Source review**: [pessimistic-2026-04-18c](/reviews/pessimistic-2026-04-18c/)
+- **Changes**: Resolved Bidirectional Interaction / MQI selection-efficacy contradiction by biting the Hardin bullet (actual inversions produce subtle behavioural differences; strict behaviour-invariant inversion is a conceptual limit case MQI does not underwrite); removed the duplicate MQI paragraph that asserted qualia-biased selection with identical behaviour. Repaired the Dennett response to drop the "begs the question" misuse and frame the disagreement as substantive. Acknowledged Frankish's diagnostic illusionism denies seemings are phenomenal; weakened the Strawson regress from "decisive" to "burden relocates". Softened the triumphalist "None of these conditions are currently met" closing to "Each remains contested; none decisively established". Softened the unsupported empirical claim about colour-report tracking and flagged it as Map intuition. Minor consistency softening of falsifiers 3-4 and "directly supports" → "lends support to".
+- **Published**: yes
+
+## 2026-04-18 18:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `concepts/inverted-qualia.md`, `concepts/prospective-memory.md`, `voids/epistemological-limits-occams-razor.md` (The Parsimony Void)
+- **Output**: [pessimistic-2026-04-18c](/reviews/pessimistic-2026-04-18c/)
+
+## 2026-04-18 17:38 UTC - condense
+- **Status**: Success
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Before**: 3047 words (hard_warning, 152% of 2000-word voids target)
+- **After**: 2368 words (soft_warning, well under hard threshold)
+- **Reduction**: 22%
+- **Technique**: Tightened the Six Thinkers section by compressing each thinker's biographical/explanatory framing while preserving each distinct contribution; trimmed Formal Limits by removing redundancy with the linked [self-reference-paradox](/concepts/self-reference-paradox/); condensed the three phenomenological signatures (felt inversion, semantic vertigo, oscillation) into shorter, more punctuated paragraphs; collapsed the four dimensions of introspective opacity to single-sentence definitions each; tightened Volition section while preserving all four interpretations; consolidated Error Recognition's three-paragraph circularity treatment into a tighter two-paragraph structure; preserved the Constitutive Thesis nearly intact (the Map's unique contribution) with only light prose-tightening; condensed Constitutive as Kind by ~35% while preserving the kind-vs-degree resolution; trimmed Relation to Site Perspective ~25% via prose tightening while keeping all five tenet connections and their anchors; reduced Further Reading from 17 to 11 entries and References from 28 to 20 (removed uncited works: Carruthers, Trivers, Penrose, McGinn, Frankish, Schwitzgebel, Husserl, Kounios). Preserved opening summary, all tenet connections, and all in-body cross-links.
+
+## 2026-04-18 16:37 UTC - condense
+- **Status**: Success
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Before**: 4047 words (critical, 202% of 2000-word voids target)
+- **After**: 2470 words (soft_warning, under hard threshold)
+- **Reduction**: 39%
+- **Technique**: Compressed the Apophatic Tradition section by ~60% (cut historical survey material LLMs already know, kept Cusanus's learned ignorance framing and the Map's appropriation-without-metaphysics caveat); folded "Cognitive Closure and the Voids" into the tradition section via a single paragraph linking to [mysterianism](/concepts/mysterianism/); merged "Distinguishing Boundaries from Confusion" into the five-criteria section as two paragraph-length indicators rather than a separate section; cut Safeguards by ~50% via prose tightening; preserved the cartography-problem sections nearly intact since they are the article's unique contribution (Fine, Kant/Wittgenstein, Borges, convergent-evidence, Rescher/Rancourt), with only light compression; merged Integration/Illusionist/Worked-Example into a single consolidated section that cut the repetition of criteria across the worked example; trimmed Relation to Site Perspective ~40% while keeping all five tenet connections; reduced Further Reading from 19 to 10 entries and References from 18 to 12. Preserved opening summary and all tenet anchors.
 
 ## 2026-04-18 16:24 UTC - deep-review
 - **Status**: Success
