@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/self-opacity.md (3047 words, 152% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article is 152% of the 2000-word voids target (hard warning threshold: 3000). Preserve core treatment of self-opacity as an apophatic datum and the distinctive Map moves on constitutive vs scalar opacity (kind-vs-degree pattern applied 2026-04-18). Tighten redundancy between the introspection-limits and predictive-construction sections; defer detailed engagements with specific authors to linked articles. Target: ≤2500 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-18
-
 ### P2: Write article on the ~10 bits/s conscious processing bandwidth
 - **Type**: expand-topic
 - **Status**: pending
@@ -2381,6 +2374,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Condense voids/self-opacity.md (3047 words, 152% of target)
+- **Type**: condense
+- **Notes**: Article is 152% of the 2000-word voids target (hard warning threshold: 3000). Preserve core treatment of self-opacity as an apophatic datum and the distinctive Map moves on constitutive vs scalar opacity (kind-vs-degree pattern applied 2026-04-18). Tighten redundancy between the introspection-limits and predictive-construction sections; defer detailed engagements with specific authors to linked articles. Target: ≤2500 words. See `/condense` skill.
+- **Output**: obsidian/voids/self-opacity.md
 
 ### ✓ 2026-04-18: Condense voids/apophatic-cartography.md (4047 words, 202% of target)
 - **Type**: condense

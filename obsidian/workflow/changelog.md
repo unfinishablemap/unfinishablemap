@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 16:24:00+00:00
+ai_modified: 2026-04-18 17:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 17:38 UTC - condense
+- **Status**: Success
+- **File**: [[voids/self-opacity]]
+- **Before**: 3047 words (hard_warning, 152% of 2000-word voids target)
+- **After**: 2368 words (soft_warning, well under hard threshold)
+- **Reduction**: 22%
+- **Technique**: Tightened the Six Thinkers section by compressing each thinker's biographical/explanatory framing while preserving each distinct contribution; trimmed Formal Limits by removing redundancy with the linked [[self-reference-paradox]]; condensed the three phenomenological signatures (felt inversion, semantic vertigo, oscillation) into shorter, more punctuated paragraphs; collapsed the four dimensions of introspective opacity to single-sentence definitions each; tightened Volition section while preserving all four interpretations; consolidated Error Recognition's three-paragraph circularity treatment into a tighter two-paragraph structure; preserved the Constitutive Thesis nearly intact (the Map's unique contribution) with only light prose-tightening; condensed Constitutive as Kind by ~35% while preserving the kind-vs-degree resolution; trimmed Relation to Site Perspective ~25% via prose tightening while keeping all five tenet connections and their anchors; reduced Further Reading from 17 to 11 entries and References from 28 to 20 (removed uncited works: Carruthers, Trivers, Penrose, McGinn, Frankish, Schwitzgebel, Husserl, Kounios). Preserved opening summary, all tenet connections, and all in-body cross-links.
 
 ## 2026-04-18 16:37 UTC - condense
 - **Status**: Success

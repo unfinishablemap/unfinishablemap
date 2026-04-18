@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-04-18T14:55:00+00:00
+ai_modified: 2026-04-18T17:38:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -65,73 +65,71 @@ The convergence is striking. Six thinkers from divergent frameworks identify the
 
 ## Six Thinkers, One Limit
 
-**Hume** searched honestly and reported failure: "I never can catch myself at any time without a perception." Introspection yields contents—warmth, colour, desire—but never the one to whom they belong. Yet in the *Treatise*'s Appendix, he confessed the bundle theory could not account for the felt unity of experience. **Kant** reframed the problem transcendentally: the "I think" must accompany all representations as the condition for their unity, yet through it I am conscious only *that* I am, not *what* I am. The transcendental ego cannot appear among the objects it organises.
+**Hume** reported failure: "I never can catch myself at any time without a perception." Introspection yields contents—warmth, colour, desire—but never the one to whom they belong. The *Treatise*'s Appendix conceded the bundle theory could not account for felt unity. **Kant** reframed transcendentally: the "I think" must accompany all representations, yet through it I am conscious only *that* I am, not *what* I am. The transcendental ego cannot appear among the objects it organises.
 
-**Sartre** identified the structure phenomenologically. Pre-reflective consciousness is self-aware without being self-objectifying, but the moment reflection tries to grasp this awareness directly, it transforms the target. **Wittgenstein** arrived logically: "The subject does not belong to the world: rather, it is a limit of the world." His eye analogy captures the structure—nothing in the visual field allows you to infer it is seen by an eye.
+**Sartre** identified the structure phenomenologically: pre-reflective consciousness is self-aware without being self-objectifying, but the moment reflection tries to grasp this awareness, it transforms the target. **Wittgenstein** arrived logically: "The subject does not belong to the world: rather, it is a limit of the world." Nothing in the visual field allows you to infer it is seen by an eye.
 
-**Metzinger** translates into neuroscientific terms. The phenomenal self is the content of a "transparent self-model"—a representation the system cannot recognise as representation. We experience *being* ourselves rather than *having a representation of* ourselves. **Shoemaker** identifies the absence through a logical peculiarity: first-person introspective judgments are immune to error through misidentification. You cannot introspect and wonder *whose* experience this is—precisely because the self is not encountered as an object during introspection at all.
+**Metzinger** translates this into neuroscience: the phenomenal self is the content of a "transparent self-model"—a representation the system cannot recognise as representation. We experience *being* ourselves rather than *having a representation of* ourselves. **Shoemaker** identifies the absence through immunity to error through misidentification: you cannot introspect and wonder *whose* experience this is—precisely because the self is not encountered as an object during introspection at all.
 
 These traditions share almost no premises, yet their conclusions converge: wherever consciousness encounters itself, it finds contents rather than the container.
 
 ## Formal Limits and Strange Loops
 
-Gödel proved that any sufficiently powerful formal system contains true statements it cannot prove—through self-reference. Hofstadter's *I Am a Strange Loop* offers a complementary view: no complete self-model can exist because any such model would need to include the model, ad infinitum. The [[self-reference-paradox]] explores this formal dimension in detail, distinguishing structural, transparency, and recursive limits that converge on the same obstruction. The analogy is imperfect—the human mind is not obviously a formal system—but self-referential systems face characteristic difficulties when modelling themselves regardless of substrate.
+Gödel proved that any sufficiently powerful formal system contains true statements it cannot prove—through self-reference. Hofstadter's *I Am a Strange Loop* extends the intuition: no complete self-model can exist because any such model would need to include the model, ad infinitum. The [[self-reference-paradox]] develops the formal dimension. The analogy is imperfect—the mind is not obviously a formal system—but self-referential systems face characteristic difficulties modelling themselves regardless of substrate.
 
-The regression of attention makes this concrete. Direct attention inward: observe your own observing. You become aware of awareness—but now there are two layers. Attempt to observe *that* awareness—a third forms. Unlike infinite mirrors, each layer is genuinely new: a fresh act of attention attending to the previous. The [[witness-consciousness|witness consciousness]] traditions recognise this: the Sanskrit *sakshi* refers to awareness that observes without becoming an object. Awareness can take thoughts, sensations, even other acts of awareness as objects—but it cannot take its own *current act* as object. The [[recursion-void]] quantifies the limit at approximately fifth-order intentionality.
+The regression of attention makes this concrete. Observe your own observing: you become aware of awareness—two layers. Observe *that* awareness—a third forms. Each layer is a fresh act attending to the previous. [[witness-consciousness|Witness consciousness]] traditions recognise this: awareness can take thoughts, sensations, even other acts of awareness as objects—but it cannot take its own *current act* as object. The [[recursion-void]] quantifies the limit at approximately fifth-order intentionality.
 
 ## The Phenomenology of Turning Inward
 
-Self-reference produces experiential signatures that outward-directed thought lacks. The most primitive is *felt inversion*: think "I am the one thinking this thought" and attend to the moment when the reference completes its circuit. A flicker that ordinary reference does not produce—a momentary encounter between sign and signified that cannot resolve into a stable representation because the representation is part of what it represents.
+Self-reference produces experiential signatures outward-directed thought lacks. *Felt inversion*: think "I am the one thinking this thought" and attend to the moment the reference completes its circuit—a flicker, a momentary encounter between sign and signified that cannot resolve into stable representation because the representation is part of what it represents.
 
-Extended self-reference produces *semantic vertigo*. Hold in mind "I am conscious of being conscious" and sustain attention. Meaning slides: the proposition feels meaningful, then hollow, then meaningful again—oscillating between sense and the appearance of sense. The experience has closer kinship with physical vertigo than intellectual puzzlement. In both cases, the orienting system loses its fixed reference point.
+*Semantic vertigo*: hold in mind "I am conscious of being conscious." Meaning slides—the proposition feels meaningful, then hollow, then meaningful again. The experience has closer kinship with physical vertigo than intellectual puzzlement; the orienting system loses its fixed reference point.
 
-Self-reference also forces *oscillation* between incompatible perspectives. Say "I am aware" and hold steady attention. Awareness shifts between *being* the awareness and *noting* the awareness. Neither position is stable: being-aware without noting it is ordinary consciousness, not self-reference; noting-awareness without being it is impossible. The oscillation continues because subject and object collapse into one, and [[intentionality]]—the aboutness of consciousness—reaches a boundary condition.
+*Oscillation*: say "I am aware" with steady attention. Awareness shifts between *being* the awareness and *noting* it. Neither position is stable, because subject and object collapse into one, and [[intentionality]] reaches a boundary condition.
 
-The distinction matters between self-directed thought (thinking *about* myself as an object) and genuinely self-referential thought (the act of reference encountering itself as referent). Planning tomorrow's schedule uses "I" as a convenient label; the intentional structure remains outward. Genuine self-reference occurs when consciousness takes *itself-as-act* as its object. Contemplative traditions distinguish these: ordinary self-reflection is preliminary practice; "turning attention to attention itself" produces phenomenologically distinct experiences.
+The distinction matters between self-directed thought (thinking *about* myself as an object) and genuinely self-referential thought (the act of reference encountering itself as referent). Planning tomorrow uses "I" as convenient label; the intentional structure remains outward. Genuine self-reference occurs when consciousness takes *itself-as-act* as its object—what contemplative traditions call "turning attention to attention itself."
 
 ## Introspective Opacity
 
-We access mental contents—thoughts, images, feelings—but not the processes that produce them. William James compared introspecting thought to "seizing a spinning top to catch its motion." Nisbett and Wilson (1977) established the asymmetry empirically: participants chose among identical stockings, consistently preferring items on the right—a position effect—then confabulated reasons about quality and colour. No participant mentioned position. Choice blindness experiments (Johansson et al., 2005) deepened the finding: when choices were secretly switched, most failed to notice, then confabulated reasons for choices they never made with equal detail and confidence.
+We access mental contents—thoughts, images, feelings—but not the processes that produce them. James compared introspecting thought to "seizing a spinning top to catch its motion." Nisbett and Wilson (1977) established the asymmetry empirically: participants chose among identical stockings, consistently preferring items on the right, then confabulated reasons about quality and colour. No one mentioned position. Choice blindness (Johansson et al., 2005) deepens this: when choices are secretly switched, most fail to notice, then confabulate reasons for choices they never made with equal detail and confidence.
 
-This opacity has four dimensions. **Temporal**: by the time introspection occurs, the thought has passed—James's "flights" between "perchings" resist capture. **Process**: you perceive the solution but not solving; the [[recognition-void]] is paradigmatic. **Mechanism**: even metacognition yields descriptions but not mechanisms—"I solved it by thinking differently" is a real description of an opaque mechanism. **Ontological**: Sartre's deeper point that consciousness cannot objectify itself without self-distortion.
+The opacity has four dimensions. **Temporal**: by the time introspection occurs, the thought has passed. **Process**: you perceive the solution but not solving—the [[recognition-void]] is paradigmatic. **Mechanism**: even metacognition yields descriptions but not mechanisms. **Ontological**: Sartre's point that consciousness cannot objectify itself without self-distortion.
 
-Despite structural opacity, we *feel* transparent to ourselves. This connects to [[inventory-blindness|inventory blindness]]: absent capabilities produce no signal, so the illusion of transparency is never challenged from within. Fabricated explanations feel no different from veridical ones—confidence where none is warranted.
+Despite structural opacity, we *feel* transparent to ourselves. This connects to [[inventory-blindness|inventory blindness]]: absent capabilities produce no signal, so the illusion of transparency is never challenged from within. Fabricated explanations feel no different from veridical ones.
 
 ## The Special Case of Volition
 
-Volitional opacity sits at the intersection of introspective opacity and the [[causal-interface|causal interface void]]. We cannot observe the processes of willing, and we cannot observe how (or whether) willing causes action.
+Volitional opacity sits at the intersection of introspective opacity and the [[causal-interface|causal interface void]]. We cannot observe the processes of willing, nor how (or whether) willing causes action.
 
-Libet's experiments revealed the "readiness potential" beginning ~550 milliseconds before voluntary action, while conscious awareness appears only ~200 milliseconds before. Soon et al. (2008) extended this: brain activity predicted decisions up to seven seconds before awareness, though at modest accuracy (~60%). Wegner showed that the experience of willing arises from interpreting thoughts as causes of actions based on priority, consistency, and exclusivity—constructed from interpretive cues, not observed directly.
+Libet's experiments revealed a "readiness potential" beginning ~550 ms before voluntary action; conscious awareness appears only ~200 ms before. Soon et al. (2008) extended this: brain activity predicted decisions up to seven seconds before awareness (~60% accuracy). Wegner showed that the experience of willing arises from interpreting thoughts as causes of actions based on priority, consistency, and exclusivity—constructed from cues, not observed directly.
 
-Three interpretations compete. The **illusion** reading: the "will" is post-hoc narrative. The **partial access** reading: volition is real but largely unconscious—"free won't" rather than free will. The **closure** reading: volition is real and causally efficacious, but the mechanism is permanently inaccessible. Merleau-Ponty adds a fourth: much of willing operates pre-reflectively through the body—the "willing" we seek may be distributed across processes that were never conscious to begin with.
+Three interpretations compete. The **illusion** reading: "will" is post-hoc narrative. The **partial access** reading: volition is real but largely unconscious—"free won't" rather than free will. The **closure** reading: volition is real and causally efficacious, but the mechanism is permanently inaccessible. Merleau-Ponty adds a fourth: much of willing operates pre-reflectively through the body—distributed across processes that were never conscious to begin with.
 
 ## Error Recognition and the Bootstrap Problem
 
-Self-awareness faces its starkest practical test in error recognition. Kathryn Schulz articulates the central insight: "Being wrong doesn't feel like anything." Beliefs function by presenting their content as true; a belief signalling "I might be false" would be doubt, not belief. The Dunning-Kruger research deepens this: competence in X includes the ability to distinguish good from bad instances of X, so incompetence structurally guarantees error-blindness.
+Schulz articulates the central insight: "Being wrong doesn't feel like anything." Beliefs function by presenting their content as true; a belief signalling "I might be false" would be doubt, not belief. Dunning-Kruger deepens this: competence in X includes the ability to distinguish good from bad X, so incompetence structurally guarantees error-blindness.
 
-Yet we clearly do recognise errors. Recognising that belief B is wrong requires standard S against which B is judged—but S comes from the same cognitive system that produced B. External feedback, formal methods, and redundancy partially resolve this, but none eliminates circularity.
+Yet we recognise errors. Recognising that belief B is wrong requires standard S against which B is judged—but S comes from the same system that produced B. External feedback partially resolves this; none eliminates circularity. Žižek notes a temporal paradox: before discovering you were wrong, you had "a belief," experienced as true. Only after correction does the prior state become "the error." We have rich access to *realising* we were wrong, none to *being* wrong—the same "feeling of being right" accompanies both states.
 
-Žižek observes a temporal paradox: before discovering you were wrong, you had "a belief," experienced as true. Only after correction does the prior state become "the error." We have rich access to *realising* we were wrong—the suddenness, surprise, and affective charge of the "aha moment"—but no access to *being* wrong. The same "feeling of being right" accompanies both the error and its correction.
-
-Some errors resist recognition through active defence. Self-deception creates protected zones where error recognition cannot reach—[[self-maintained-cognitive-limits|self-maintained cognitive limits]] investigate whether this protection is not merely defensive but constitutive, with consciousness actively maintaining its own cognitive limits. If self-deception is real, some fraction of our errors is structurally protected, and we cannot know how large that fraction is.
+Self-deception creates protected zones where error recognition cannot reach. [[self-maintained-cognitive-limits|Self-maintained cognitive limits]] investigate whether this protection is constitutive rather than merely defensive. If self-deception is real, some fraction of our errors is structurally protected, and we cannot know how large.
 
 ## The Constitutive Thesis
 
 Most treatments frame self-opacity as a *limitation*. The Map proposes a stronger reading: the opacity is *constitutive*. The subject-object asymmetry is not a bug in conscious architecture but its enabling condition.
 
-Full self-observation would require the subject to become an object to itself while simultaneously remaining the subject doing the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The void is load-bearing—remove it and the structure falls. The [[boundary-and-projection]] void discovers the same pattern in consciousness's outward reach: tool extension, spatial boundary shifts, and empathic contact all require the projective mechanism to be hidden from the consciousness using it.
+Full self-observation would require the subject to become an object to itself while simultaneously remaining the subject doing the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The void is load-bearing—remove it and the structure falls. The [[boundary-and-projection]] void discovers the same pattern in consciousness's outward reach: tool extension and empathic contact require the projective mechanism to be hidden from the consciousness using it.
 
-This explains the convergence across frameworks. Empiricists, phenomenologists, transcendental idealists, and neuroscientists discover the limit independently because it is a feature of what they study, not an artifact of method. The [[void-as-ground-of-meaning|void-as-ground-of-meaning]] framework generalises this pattern: cognitive limits are preconditions for meaning, not merely obstacles. A mind with perfect self-transparency would have no perspective, no orientation, no "what it is like." It would contain all information about itself without *being* anyone to whom that information matters.
+This explains the convergence across frameworks. Empiricists, phenomenologists, transcendental idealists, and neuroscientists discover the limit independently because it is a feature of what they study, not an artifact of method. The [[void-as-ground-of-meaning|void-as-ground-of-meaning]] framework generalises: cognitive limits are preconditions for meaning. A mind with perfect self-transparency would have no perspective, no orientation, no "what it is like." It would contain all information about itself without *being* anyone to whom that information matters.
 
-The eliminativist response—if the self cannot be found, perhaps it does not exist—stumbles on its own terms. Hume could not make the bundle account work; Metzinger must explain why the transparent self-model produces *experienced* transparency rather than mere functional self-representation. The Map holds that elimination mistakes the limits of observation for evidence of absence. The self is not found through introspection for the same reason the eye is not found in the visual field: it is the condition of the search, not a possible result of it.
+The eliminativist response—if the self cannot be found, perhaps it does not exist—stumbles on its own terms. Hume could not make the bundle account work; Metzinger must explain why the transparent self-model produces *experienced* transparency rather than mere functional self-representation. Elimination mistakes the limits of observation for evidence of absence. The self is not found through introspection for the same reason the eye is not found in the visual field: it is the condition of the search, not a possible result of it.
 
 ## Constitutive as Kind, Not as Degree
 
-The constitutive thesis can seem to ignore clinical evidence that the subject-object asymmetry itself varies in strength. Sass and Parnas's studies of schizophrenic ipseity disturbance document patients whose first-personal givenness is attenuated, fragmented, or partially objectified — thoughts appearing as alien, the sense of being the one thinking wavering, self-reference producing intensified versions of the felt instabilities described above (Sass & Parnas 2003). Depersonalisation and dissociative states show similar scalar disruption. If self-opacity can be partially breached — or partially abandoned — under clinical conditions, how can it be constitutive of consciousness?
+Clinical evidence shows the subject-object asymmetry varies in strength. Sass and Parnas's studies of schizophrenic ipseity disturbance document patients whose first-personal givenness is attenuated or fragmented—thoughts appearing as alien, the sense of being the one thinking wavering, self-reference producing intensified felt instabilities (Sass & Parnas 2003). Depersonalisation shows similar scalar disruption. If self-opacity can be partially breached, how can it be constitutive?
 
-The resolution applies the same move the Map uses for first-personal givenness more generally (see [[zahavian-minimal-self]] for the exemplar). The claim that the subject-object asymmetry is constitutive is a claim about *kind*, not uniformity of intensity. Clinical variation shows that the asymmetry can attenuate, distort, or destabilise — not that it fully dissolves while experience continues. Schizophrenic reports describe felt encounters with the breakdown itself; depersonalisation is reported *from* a subjective position even when that position feels unreal. Every value above zero counts as instantiation, and every reported case is reported from somewhere.
+The resolution mirrors the Map's general treatment of first-personal givenness (see [[zahavian-minimal-self]]). The constitutive claim is about *kind*, not uniformity of intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise—not that it fully dissolves while experience continues. Schizophrenic reports describe felt encounters with the breakdown itself; depersonalisation is reported *from* a subjective position even when that position feels unreal. Every reported case is reported from somewhere.
 
-What would undermine the constitutive reading is phenomenal life continuing fully *without* the asymmetry — an experience in which the subject-object distinction has not merely attenuated but been cleanly eliminated. Clinical and contemplative evidence to date supplies attenuations and destabilisations, not eliminations. Scalar variation in ipseity is compatible with the structural necessity of self-opacity, just as scalar variation in first-personal givenness is compatible with its constitutive role in phenomenality.
+What would undermine the constitutive reading is phenomenal life continuing fully *without* the asymmetry—a clean elimination, not an attenuation. Clinical and contemplative evidence to date supplies only the latter.
 
 ## What Would Challenge This View
 
@@ -141,35 +139,29 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]** receives support from both formal and phenomenological routes. If the self is non-physical, its systematic absence from introspective and empirical investigation reflects an ontological boundary, not merely a cognitive one. The convergence of six independent traditions suggests structural reality, not methodological artifact. The uniformity of introspective opacity—categorical across all cognitive processes regardless of neural substrate—points beyond engineering limitation to ontological distinction. Wittgenstein's formulation—the subject as the limit of the world, not part of it—maps onto interactionist dualism's central insight.
+**[[tenets#^dualism|Dualism]]** receives support from both formal and phenomenological routes. If the self is non-physical, its systematic absence from introspective and empirical investigation reflects an ontological boundary, not merely a cognitive one. The convergence of six independent traditions—and the uniformity of introspective opacity across cognitive processes regardless of neural substrate—points beyond engineering limitation to ontological distinction. Wittgenstein's formulation, the subject as the limit of the world, maps onto interactionist dualism's central insight.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through the constitutive thesis. If consciousness causally influences the physical world, the mechanism of that influence might be structurally hidden from the consciousness that exercises it. Libet himself took "an explicitly dualistic view" of the veto process. The self-referential oscillation—consciousness causally interacting with itself, producing novel experiential structures—further demonstrates bidirectional interaction. Epistemic emotions do causal work motivating inquiry and revision; if consciousness were epiphenomenal, why would error recognition have phenomenal character?
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through the constitutive thesis. If consciousness causally influences the physical world, the mechanism of that influence might be structurally hidden from the consciousness that exercises it. Libet himself took "an explicitly dualistic view" of the veto process. Epistemic emotions do causal work motivating inquiry and revision; if consciousness were epiphenomenal, why would error recognition have phenomenal character?
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** raises a possibility: if consciousness's influence affects quantum probabilities at femtosecond timescales and molecular scales, the interaction would be too small, too fast, and too fundamental for introspection to track. The opacity would follow from the mechanism's nature.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: if consciousness's influence affects quantum probabilities at femtosecond and molecular scales, the interaction would be too small, too fast, and too fundamental for introspection to track. The opacity would follow from the mechanism's nature.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** preserves self-opacity as a genuine puzzle. Under Many-Worlds, all outcomes occur—the experience of choosing is merely being in one branch. By rejecting MWI, the Map insists that decisions involve genuine selection among possibilities, making volitional opacity a substantive problem. The felt inversion of self-reference is not a generic structural feature but a *particular* encounter: *this* consciousness curving back on *itself*.
+**[[tenets#^no-many-worlds|No Many Worlds]]** preserves self-opacity as a genuine puzzle. Under MWI, all outcomes occur—the experience of choosing is merely being in one branch. By rejecting MWI, the Map insists decisions involve genuine selection, making volitional opacity substantive. Felt inversion is not generic structural feature but *particular* encounter: *this* consciousness curving back on *itself*.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies precisely here. Hume's bundle theory is maximally parsimonious; Hume himself could not accept it. The simplest account—no self exists—fails to capture something structurally real about subjectivity. The introspection illusion compounds this: the simplest theory about our minds (direct self-access) is systematically false, and we cannot trust the intuition that favours simplicity when the intuition-generator is demonstrably unreliable.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies precisely. Hume's bundle theory is maximally parsimonious; Hume himself could not accept it. The simplest account—no self exists—fails to capture something structurally real. We cannot trust the intuition favouring simplicity when the intuition-generator is demonstrably unreliable.
 
 ## Further Reading
 
-- [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
-- [[observation-and-measurement-void|The Observation Void]] — Every method of studying consciousness transforms what it studies
+- [[voids|Voids in the Map]] — The broader framework for cognitive limits
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — How cognitive limits are preconditions for meaning
-- [[necessary-opacity|Necessary Opacity]] — Consciousness cannot verify its own accuracy, and piercing this opacity destabilises the system
-- [[predictive-construction-void|The Predictive Construction Void]] — Why consciousness cannot audit the ratio of construction to reception in its own perception
-- [[narrative-void|The Narrative Void]] — How consciousness constructs self-stories it cannot audit
+- [[necessary-opacity|Necessary Opacity]] — Consciousness cannot verify its own accuracy
+- [[narrative-void|The Narrative Void]] — Self-stories consciousness cannot audit
 - [[causal-interface|The Causal Interface Void]] — How consciousness interfaces with the physical
-- [[topics/free-will|Free Will]] — The broader context for questions of agency
-- [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
-- [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot control its own states
-- [[imagination-and-creativity-void|The Creativity Void]] — Parallel opacity: creative process hidden, product accessible
-- [[boundary-and-projection|The Boundary and Projection Void]] — Why consciousness cannot locate its own perimeter or observe its extension into tools, space, and other minds
+- [[boundary-and-projection|The Boundary and Projection Void]] — Why consciousness cannot locate its own perimeter
 - [[witness-consciousness|Witness Consciousness]] — The observer mode in contemplative traditions
-- [[constitutive-exclusion|The Constitutive Exclusion]] — The broader structural limit of which self-reference is a special case
-- [[ownership-void|The Ownership Void]] — Why experiences feel mine
-- [[recursion-void|The Recursion Void]] — The depth limit of metacognitive self-reference
+- [[constitutive-exclusion|The Constitutive Exclusion]] — The broader structural limit
+- [[recursion-void|The Recursion Void]] — Depth limit of metacognitive self-reference
 - [[recognition-void|The Recognition Void]] — Process opacity applied to recognition
+- [[topics/free-will|Free Will]] — Broader context for questions of agency
 
 ## References
 
@@ -177,27 +169,19 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 2. Kant, I. (1781/1787). *Critique of Pure Reason*, Transcendental Deduction and Paralogisms.
 3. Sartre, J.-P. (1943). *Being and Nothingness*. Gallimard.
 4. Wittgenstein, L. (1921). *Tractatus Logico-Philosophicus*, propositions 5.63–5.641.
-5. Metzinger, T. (2003). *Being No One: The Self-Model Theory of Subjectivity*. MIT Press.
+5. Metzinger, T. (2003). *Being No One*. MIT Press.
 6. Shoemaker, S. (1968). "Self-Reference and Self-Awareness." *Journal of Philosophy* 65(19).
-7. Zahavi, D. (2005). *Subjectivity and Selfhood: Investigating the First-Person Perspective*. MIT Press.
-8. Gödel, K. (1931). "On Formally Undecidable Propositions of *Principia Mathematica* and Related Systems."
+7. Zahavi, D. (2005). *Subjectivity and Selfhood*. MIT Press.
+8. Gödel, K. (1931). "On Formally Undecidable Propositions of *Principia Mathematica*."
 9. Hofstadter, D. (2007). *I Am a Strange Loop*. Basic Books.
-10. Nisbett, R.E. & Wilson, T.D. (1977). "Telling more than we can know: Verbal reports on mental processes." *Psychological Review*, 84(3), 231-259.
-11. Johansson, P., et al. (2005). "Failure to detect mismatches between intention and outcome in a simple decision task." *Science*, 310(5745), 116-119.
-12. James, W. (1890). *The Principles of Psychology*. Henry Holt and Company.
-13. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
-14. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will in voluntary action." *Behavioral and Brain Sciences*, 8(4), 529-566.
-15. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
-16. Soon, C. S., Brass, M., Heinze, H.-J., & Haynes, J.-D. (2008). "Unconscious determinants of free decisions in the human brain." *Nature Neuroscience*, 11(5), 543-545.
-17. Schulz, K. (2010). *Being Wrong: Adventures in the Margin of Error*. Ecco.
-18. Dunning, D., & Kruger, J. (1999). "Unskilled and unaware of it." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
-19. Žižek, S. (1989). *The Sublime Object of Ideology*. Verso.
-20. Trivers, R. (2011). *The Folly of Fools: The Logic of Deceit and Self-Deception in Human Life*. Basic Books.
-21. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-22. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98, 349-366.
-23. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-24. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.
-25. Schwitzgebel, E. (2008). "The unreliability of naive introspection." *Philosophical Review*, 117(2), 245-273.
-26. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Nijhoff.
-27. Kounios, J., & Beeman, M. (2014). "The cognitive neuroscience of insight." *Annual Review of Psychology*, 65, 71-93.
-28. Sass, L. A., & Parnas, J. (2003). "Schizophrenia, consciousness, and the self." *Schizophrenia Bulletin*, 29(3), 427-444.
+10. Nisbett, R.E. & Wilson, T.D. (1977). "Telling more than we can know." *Psychological Review*, 84(3), 231-259.
+11. Johansson, P., et al. (2005). "Failure to detect mismatches between intention and outcome." *Science*, 310(5745), 116-119.
+12. James, W. (1890). *The Principles of Psychology*.
+13. Libet, B. (1985). "Unconscious cerebral initiative and the role of conscious will." *Behavioral and Brain Sciences*, 8(4), 529-566.
+14. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
+15. Soon, C. S., et al. (2008). "Unconscious determinants of free decisions in the human brain." *Nature Neuroscience*, 11(5), 543-545.
+16. Schulz, K. (2010). *Being Wrong*. Ecco.
+17. Dunning, D., & Kruger, J. (1999). "Unskilled and unaware of it." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
+18. Žižek, S. (1989). *The Sublime Object of Ideology*. Verso.
+19. Merleau-Ponty, M. (1945). *Phenomenology of Perception*. Gallimard.
+20. Sass, L. A., & Parnas, J. (2003). "Schizophrenia, consciousness, and the self." *Schizophrenia Bulletin*, 29(3), 427-444.
