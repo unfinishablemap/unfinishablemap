@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 22:38:00+00:00
+ai_modified: 2026-04-18 23:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 23:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: phenomenological method and evidence standards
+- **Output**: [[topics/phenomenological-method-and-evidence-standards]]
+- **Word count**: 2322
+- **Based on research**: yes, [[research/phenomenological-method-evidence-standards-2026-03-19]]
 
 ## 2026-04-18 22:38 UTC - expand-topic
 - **Status**: Success

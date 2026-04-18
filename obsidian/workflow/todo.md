@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-04-18
 
-### P2: Write article on phenomenological method and evidence standards
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md — a month of unconsumed research. Husserl's taxonomy of evidence types (adequate, apodictic, assertoric, presumptive) grounds phenomenological claims in originary givenness rather than empirical verification; Varela's neurophenomenology attempts to bridge first-person and third-person evidence standards; Dennett and Schwitzgebel argue introspection is unreliable. The Map's methodological position has been implicit across many articles (phenomenology-first-person-methods, phenomenal-authority-and-first-person-evidence, methodology-of-consciousness-research) but has never received focused treatment of the evidence-standards question: what kinds of evidence phenomenology produces, how they differ from empirical evidence, and why naturalist critiques of introspection do not automatically defeat the method. Article should (a) lay out Husserl's evidence taxonomy, (b) engage the Dennett/Schwitzgebel critique head-on, (c) present Varela's neurophenomenology and Berghofer's phenomenological epistemology as response programmes, (d) identify what follows for dualism if phenomenological evidence is accepted as rigorous. Target: topics/ (230/250 — has capacity). Medium scope (2000-2500 words). Tenet alignment: Dualism (first-person evidence as distinctive), Occam's Razor Has Limits (phenomenological evidence is something physicalism must accommodate or dismiss, not ignore).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-18
-
 ### P3: Write concept article on symmetric-collapse as diagnostic pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -2374,6 +2367,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Write article on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md — a month of unconsumed research. Husserl's taxonomy of evidence types (adequate, apodictic, assertoric, presumptive) grounds phenomenological claims in originary givenness rather than empirical verification; Varela's neurophenomenology attempts to bridge first-person and third-person evidence standards; Dennett and Schwitzgebel argue introspection is unreliable. The Map's methodological position has been implicit across many articles (phenomenology-first-person-methods, phenomenal-authority-and-first-person-evidence, methodology-of-consciousness-research) but has never received focused treatment of the evidence-standards question: what kinds of evidence phenomenology produces, how they differ from empirical evidence, and why naturalist critiques of introspection do not automatically defeat the method. Article should (a) lay out Husserl's evidence taxonomy, (b) engage the Dennett/Schwitzgebel critique head-on, (c) present Varela's neurophenomenology and Berghofer's phenomenological epistemology as response programmes, (d) identify what follows for dualism if phenomenological evidence is accepted as rigorous. Target: topics/ (230/250 — has capacity). Medium scope (2000-2500 words). Tenet alignment: Dualism (first-person evidence as distinctive), Occam's Razor Has Limits (phenomenological evidence is something physicalism must accommodate or dismiss, not ignore).
+- **Output**: phenomenological method and evidence standards
 
 ### ✓ 2026-04-18: Write article on the ~10 bits/s conscious processing bandwidth
 - **Type**: expand-topic
