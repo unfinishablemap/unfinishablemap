@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 05:34:00+00:00
+ai_modified: 2026-04-18 05:48:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 05:48 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/biological-computationalism]]
+- **Context**: Cross-review against companion topic [[topics/biological-computationalisms-inadvertent-case-for-dualism]]
+- **Word count**: 1750 → 1750 (no body change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added Searle 1980 reference to match existing "(1980, 1992)" dual-date citation; renumbered references)
+- **Enhancements made**: 0
+- **Stability**: Fifth review — article at full stability. Cross-review confirmed concept and topic articles are internally consistent in attribution, quotes, characterizations, and source/Map separation.
+- **Output**: [[reviews/deep-review-2026-04-18-biological-computationalism]]
 
 ## 2026-04-18 05:34 UTC - deep-review
 - **Status**: Success

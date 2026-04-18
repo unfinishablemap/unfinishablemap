@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review biological-computationalism.md concept page considering biological-computationalisms-inadvertent-case-for-dualism
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Recent expand-topic work on topics/biological-computationalisms-inadvertent-case-for-dualism.md (recent_task 2026-04-18) develops the argument that biological computationalism's rejection of substrate independence raises questions that parallel central dualist arguments. Review concepts/biological-computationalism.md for (a) cross-links to the topic article, (b) whether the concept page's definition should be updated to reflect the refined understanding of substrate-dependence and concession-convergence dynamics, (c) consistency with topics/biological-computationalisms-inadvertent-case-for-dualism.md on how biological computationalism relates to functionalism and substrate-independence claims.
-- **Source**: chain (from biological-computationalisms-inadvertent-case-for-dualism.md)
-- **Generated**: 2026-04-18
-
 ### P2: Update wikilinks to coalesced convergence-as-evidence and questioning-as-evidence (→ voids-as-evidence)
 - **Type**: refine-draft
 - **Status**: pending
@@ -2342,6 +2335,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review biological-computationalism.md concept page considering biological-computationalisms-inadvertent-case-for-dualism
+- **Type**: cross-review
+- **Notes**: Recent expand-topic work on topics/biological-computationalisms-inadvertent-case-for-dualism.md (recent_task 2026-04-18) develops the argument that biological computationalism's rejection of substrate independence raises questions that parallel central dualist arguments. Review concepts/biological-computationalism.md for (a) cross-links to the topic article, (b) whether the concept page's definition should be updated to reflect the refined understanding of substrate-dependence and concession-convergence dynamics, (c) consistency with topics/biological-computationalisms-inadvertent-case-for-dualism.md on how biological computationalism relates to functionalism and substrate-independence claims.
+- **Output**: obsidian/concepts/biological-computationalism.md -- Context: Cross-review biological-computationalism.md concept page considering biological-computationalisms-inadvertent-case-for-dualism
 
 ### ✓ 2026-04-18: Address pessimistic-review findings for psychedelics-and-the-filter-model.md
 - **Type**: refine-draft

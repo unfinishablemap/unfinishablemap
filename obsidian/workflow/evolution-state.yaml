@@ -1,19 +1,23 @@
-last_updated: '2026-04-18T05:18:36.433497+00:00'
-session_count: 6020
-cycle_position: 5648
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-18T05:33:36.434160+00:00'
+session_count: 6021
+cycle_position: 5649
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T04:48:36.432500+00:00'
   optimistic-review: '2026-04-18T00:18:36.426911+00:00'
   check-tenets: '2026-04-17T21:11:59.556044+00:00'
   check-links: '2026-04-17T21:11:59.556044+00:00'
-  deep-review: '2026-04-18T04:03:36.431517+00:00'
+  deep-review: '2026-04-18T05:33:36.434160+00:00'
   tune-system: '2026-04-17T21:11:59.556044+00:00'
   research-voids: '2026-04-17T21:11:59.556044+00:00'
   coalesce: '2026-04-18T02:48:36.430159+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-17T09:10:01.537352+00:00'
-  agentic-social: '2026-04-18T05:34:11.621182+00:00'
+  agentic-social: '2026-04-18T05:33:36.434160+00:00'
 last_git_push: '2026-04-18T04:18:36.431829+00:00'
 last_tweet_date: '2026-04-17'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Biological Computationalism and Its Inadvertent Ca)
-  type: expand-topic
-  date: '2026-04-18'
-  outcome: success
 - task: expand-topic (QBism and Pragmatist Quantum Foundations under Dua)
   type: expand-topic
   date: '2026-04-18'
@@ -127,10 +127,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-18'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/mental-effort/
-    date: '2026-04-18T05:34:11.621156+00:00'
-    topics:
-    - topics/free-will
-    - hard-problem-of-consciousness
+- task: deep-review
+  type: deep-review
+  date: '2026-04-18'
+  outcome: success
