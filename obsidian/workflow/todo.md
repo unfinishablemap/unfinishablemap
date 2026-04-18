@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Strengthen quantum-reach speculation caveat in boundary-and-projection.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-18b Issue 7 + Unsupported Claims table flagged a specific claim distinct from the bundling/paper-count issues already captured in the P3 task at line 54: the article asserts "consciousness may extend exactly as far as its causal reach — bounded to the neural systems whose quantum events it can influence" without caveat in the Minimal Quantum Interaction section of "Relation to Site Perspective". The Tegmark-voice critique notes this is speculation piled on speculation — assuming (a) quantum events in neurons are causally relevant to cognition, (b) consciousness influences these events, and (c) the perimeter of consciousness aligns with the region of influence — and that decoherence-timescale calculations alone make the underlying scheme contested. The task is to (i) hedge the claim explicitly (e.g., "*if* quantum events in neurons are cognitively relevant *and* consciousness influences them, *then* the boundary may correspond to the influenced region — but each conjunct is independently contested"), (ii) acknowledge the decoherence-timescale objection by name, (iii) avoid presenting the quantum-reach proposal as an inference rather than a speculative possibility. Distinct from the bundling/paper-count P3 task — this is the third issue from the same review that the existing task does not cover.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-18
-
-### P3: Methodological note on kind-vs-degree distinction for phenomenological kind-claims
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-18-afternoon (Medium Priority expansion). The zahavian-minimal-self refinement (11:17 UTC) introduced a "constitutive-vs-scalar" move — reading constitutive phenomenological claims as kind-claims compatible with degree-variation rather than uniformity-claims. The move deflects clinical-variation objections (ipseity disturbance, anaesthesia levels, altered-state gradations) against constitutive claims while preserving the structural-necessity assertion. The move is generalisable across the Map's phenomenological commitments — cognitive-phenomenology, phenomenal-consciousness, self-opacity, and other articles that make constitutive claims about phenomenality all face the same class of objections. A short methodological note in obsidian/project/writing-style.md would codify the kind-vs-degree distinction as a reusable argumentative pattern, with citations to the zahavian article's implementation and the three-article scope of articles that would benefit. Alternatively, a new concepts/ entry named "constitutive-kind-vs-scalar-degree" could serve as a linked diagnostic. Short scope (800-1200 words). Tenet alignment: Dualism (maintains constitutive claim), Occam's Razor Has Limits (parsimony arguments that flatten kind to degree ignore structural requirement). See optimistic-2026-04-18-afternoon.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-18
-
 ### P3: Write concept article on symmetric-collapse as diagnostic pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -2374,6 +2360,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Strengthen quantum-reach speculation caveat in boundary-and-projection.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-18b Issue 7 + Unsupported Claims table flagged a specific claim distinct from the bundling/paper-count issues already captured in the P3 task at line 54: the article asserts "consciousness may extend exactly as far as its causal reach — bounded to the neural systems whose quantum events it can influence" without caveat in the Minimal Quantum Interaction section of "Relation to Site Perspective". The Tegmark-voice critique notes this is speculation piled on speculation — assuming (a) quantum events in neurons are causally relevant to cognition, (b) consciousness influences these events, and (c) the perimeter of consciousness aligns with the region of influence — and that decoherence-timescale calculations alone make the underlying scheme contested. The task is to (i) hedge the claim explicitly (e.g., "*if* quantum events in neurons are cognitively relevant *and* consciousness influences them, *then* the boundary may correspond to the influenced region — but each conjunct is independently contested"), (ii) acknowledge the decoherence-timescale objection by name, (iii) avoid presenting the quantum-reach proposal as an inference rather than a speculative possibility. Distinct from the bundling/paper-count P3 task — this is the third issue from the same review that the existing task does not cover.
+- **Output**: obsidian/voids/boundary-and-projection.md
+
+Task context:
+Pessimistic review 2026-04-18b Issue 7 + Unsupported Claims table flagged a specific claim distinct from the bundling/paper-count issues already captured in the P3 task at line 54: the article asserts "consciousness may extend exactly as far as its causal reach — bounded to the neural systems whose quantum events it can influence" without caveat in the Minimal Quantum Interaction section of "Relation to Site Perspective". The Tegmark-voice critique notes this is speculation piled on speculation — assuming (a) quantum events in neurons are causally relevant to cognition, (b) consciousness influences these events, and (c) the perimeter of consciousness aligns with the region of influence — and that decoherence-timescale calculations alone make the underlying scheme contested. The task is to (i) hedge the claim explicitly (e.g., "*if* quantum events in neurons are cognitively relevant *and* consciousness influences them, *then* the boundary may correspond to the influenced region — but each conjunct is independently contested"), (ii) acknowledge the decoherence-timescale objection by name, (iii) avoid presenting the quantum-reach proposal as an inference rather than a speculative possibility. Distinct from the bundling/paper-count P3 task — this is the third issue from the same review that the existing task does not cover.
 
 ### ✓ 2026-04-18: Cross-review delegatory-dualism.md and the-epiphenomenalist-threat.md against unified delegatory-causation concept
 - **Type**: cross-review

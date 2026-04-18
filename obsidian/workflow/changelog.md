@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 15:42:00+00:00
+ai_modified: 2026-04-18 15:53:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 15:53 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/boundary-and-projection]]
+- **Changes**: Hedged the quantum-reach proposal in the Minimal Quantum Interaction section into an explicit if-and-then conditional with three independently-contested conjuncts; named Tegmark's (2000) decoherence-timescale objection; reframed as speculative possibility rather than inference; added Tegmark reference.
+- **Source**: pessimistic-2026-04-18b Issue 7
+- **Published**: yes
 
 ## 2026-04-18 15:42 UTC - check-tenets
 - **Status**: Success

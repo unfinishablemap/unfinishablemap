@@ -4,7 +4,7 @@ description: "Consciousness has a perimeter it cannot locate and extends beyond 
 created: 2026-03-29
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-18T15:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -124,7 +124,7 @@ This void connects to the Map's [[tenets]] with unusual directness.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** gives the perimeter causal significance. The boundary determines the *scope* of influence—what lies within can be influenced; what lies outside cannot. More strikingly, the projective forms suggest that *wherever consciousness interfaces with the physical world, the interface is hidden from the consciousness using it*. You cannot observe yourself influencing quantum outcomes for the same structural reason you cannot observe yourself extending into a hammer.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** suggests an origin for the static perimeter: consciousness may extend exactly as far as its causal reach—bounded to the neural systems whose quantum events it can influence.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** suggests one speculative origin for the static perimeter. *If* quantum events in neurons are causally relevant to cognition, *and* consciousness influences those events, *and* the perimeter of consciousness aligns with the region of influence, *then* the boundary may correspond to the influenced region. Each conjunct is independently contested—Tegmark's (2000) decoherence-timescale calculations alone make the underlying scheme controversial, since warm-and-wet neural conditions appear to scrub quantum coherence on timescales orders of magnitude shorter than cognitive processes require. This is one speculative possibility worth noting; the void itself licenses no such inference.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** intensifies the question. If consciousness does not branch with the wave function, each consciousness has exactly one perimeter at any moment—singular and determinate, yet unexplainable in location.
 
@@ -192,3 +192,4 @@ Current evidence favours structural opacity. Convergence across phenomenology (H
 15. Canzoneri, E. et al. (2015). "Extending Peripersonal Space Representation Without Tool-Use." *Frontiers in Behavioral Neuroscience*.
 16. Botvinick, M. & Cohen, J. (1998). "Rubber hands 'feel' touch that eyes see." *Nature*, 391, 756.
 17. Tsakiris, M. et al. (2011). "Just a heartbeat away from one's body: interoceptive sensitivity predicts malleability of body-representations." *Proceedings of the Royal Society B*, 278(1717), 2470-2476.
+18. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194-4206.
