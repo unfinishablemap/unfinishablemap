@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-18 07:49:00+00:00
+ai_modified: 2026-04-18 08:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI systematic mapping of how different cognitive limits feel 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 23:59:00+00:00
+last_deep_review: 2026-04-18 08:25:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -35,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Different cognitive limits feel different from the inside. Hitting a logical paradox does not feel like failing to imagine a new colour, which does not feel like the motivated disinterest that steers thought away from death. The Unfinishable Map's [voids](/voids/) framework catalogues dozens of cognitive boundaries, and its [topology of cognitive failure](/voids/compound-failure-signatures/) demonstrates that failures carry structured signatures. But no systematic mapping connects limit *types* to their characteristic [phenomenology](/concepts/phenomenology/). This article provides that mapping — a diagnostic guide to what consciousness encounters at different kinds of boundary, and why the felt quality of a limit reveals what kind of limit it is.
+Different cognitive limits feel different from the inside. Hitting a logical paradox does not feel like failing to imagine a new colour, which does not feel like the motivated disinterest that steers thought away from death. The Unfinishable Map's [voids](/voids/) framework catalogues dozens of cognitive boundaries, and its [catalogue of failure signatures](/voids/compound-failure-signatures/) demonstrates that failures carry structured signatures. But no systematic mapping connects limit *types* to their characteristic [phenomenology](/concepts/phenomenology/). This article provides that mapping — a diagnostic guide to what consciousness encounters at different kinds of boundary, and why the felt quality of a limit reveals what kind of limit it is.
 
 ## Three Master Phenomenologies
 
@@ -137,7 +137,7 @@ The systematic mapping of limit phenomenologies connects to the Map's [tenets](/
 - [Cognitive Aversion](/voids/self-maintained-cognitive-limits/) — The motivational deflection that hides limits
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The fundamental void taxonomy
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
-- [The Phenomenology of Self-Awareness](/voids/self-opacity/) — Detecting one's own mistakes and felt signatures of self-referential thought
+- [Self-Opacity](/voids/self-opacity/) — Why consciousness cannot fully know itself, and the felt signatures of self-referential thought
 - [The Phenomenology of Linguistic Failure](/topics/phenomenology-of-linguistic-failure/) — Linguistic failure as a specific limit type with five distinct signatures
 - [Voids in the Map](/voids/) — The broader framework for cognitive dark spaces
 

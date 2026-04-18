@@ -1,13 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 07:49:00+00:00
+ai_modified: 2026-04-18 08:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 08:25 UTC - deep-review
+- **Status**: Success (stable; minor display-text fixes only)
+- **File**: [phenomenology-of-cognitive-limit-types](/topics/phenomenology-of-cognitive-limit-types/)
+- **Word count**: 2245 → 2245 (no substantive change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (stale display texts after coalesces)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-18-phenomenology-of-cognitive-limit-types](/reviews/deep-review-2026-04-18-phenomenology-of-cognitive-limit-types/)
+- **Notes**: Third consecutive review finding no critical issues. Article has converged. Refreshed two wikilink display texts ("topology of cognitive failure" → "catalogue of failure signatures"; "The Phenomenology of Self-Awareness" → "Self-Opacity") to align with renamed coalesced targets.
+
+## 2026-04-18 08:04 UTC - refine-draft
+- **Status**: Success
+- **Files**: [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/), [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/), [the-interface-specification-problem](/topics/the-interface-specification-problem/)
+- **Context**: Three cross-links surfaced by the 2026-04-18 morning optimistic review ([optimistic-2026-04-18-morning](/reviews/optimistic-2026-04-18-morning/)) — integrating the overnight refinements into the broader site.
+- **Changes**:
+  - epistemology-of-limit-knowledge: added a fifth feature ("It may be phenomenally constituted") in "What Kind of Knowledge Is This?" linking to PCT in [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/); updated related_articles and Further Reading.
+  - psychedelics-and-the-filter-model: extended "Where the Accounts Could Diverge" with a closing connection to [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/#historical-evidence-the-pattern-of-dissolution); updated related_articles and Further Reading.
+  - the-interface-specification-problem: added negative-constraint paragraph in "Constraining the physical parameter" pointing to [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/#the-causal-consistency-constraint) (Torres Alegre's no-signalling result); updated related_articles and Further Reading.
+- **Published**: yes
 
 ## 2026-04-18 07:49 UTC - refine-draft
 - **Status**: Success
