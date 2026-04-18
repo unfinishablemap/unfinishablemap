@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-17T08:10:22.021963'
+ai_modified: '2026-04-18T08:03:57.665312'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-17'
+date: '2026-04-18'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-17'
+modified: '2026-04-18'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-18: The Void Hidden in Every 'Obvious' Truth
+
+New article merges two voids into one: the feeling of obviousness functions as a cognitive stop-sign that halts inquiry before it starts, while explanation itself cannot reach bedrock without regress or circularity.
+
+**Type**: new-article  
+**Link**: [understanding-void](/voids/understanding-void/)
+
+---
+
 ### 2026-04-17: What Consciousness Feels Like When It Works
 
 Effort, selection, holding, and opacity form a coherent phenomenological profile of consciousness in action—a cross-culturally invariant pattern that materialist accounts struggle to explain without dismissing the first-person evidence itself.
@@ -192,15 +201,6 @@ Your brain fires in discrete bursts, yet experience flows seamlessly. Worse, con
 
 **Type**: insight  
 **Link**: [smoothness-and-continuity](/voids/smoothness-and-continuity/)
-
----
-
-### 2026-03-29: Can We Actually Test Whether Consciousness Collapses the Wave Function?
-
-New research maps eight concrete predictions where consciousness-collapse diverges from standard decoherence—from Phi-correlated collapse rates in quantum computers to nanosphere experiments distinguishing real collapse from environmental noise.
-
-**Type**: research  
-**Link**: [testable-predictions-consciousness-collapse-decoherence-2026-03-29](/research/testable-predictions-consciousness-collapse-decoherence-2026-03-29/)
 
 ---
 
