@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 01:18:00+00:00
+ai_modified: 2026-04-18 02:03:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 02:03 UTC - condense
+- **Status**: Success
+- **File**: [[voids/non-human-minds-as-void-explorers]]
+- **Before**: 3260 words
+- **After**: 2128 words
+- **Reduction**: 35%
+- **Technique**: Tightened prose throughout; compressed Sloman/Nagel background in "Space of Possible Minds"; trimmed redundancy between opening spectrum framing and alien case; compressed 7-point challenge list; tightened each tenet paragraph in "Relation to Site Perspective"; trimmed Further Reading from 14 links to 8 core entries (duplicates already in related_articles); condensed references list. Preserved opening summary, core arguments, all tenet connections, and article voice.
 
 ## 2026-04-18 01:49 UTC - deep-review
 - **Status**: Success

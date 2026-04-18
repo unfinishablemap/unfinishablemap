@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense non-human-minds-as-void-explorers.md (3260 words, 163% of voids/ target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: The 2026-04-18 coalesce of ai-as-void-explorer and alien-minds-void-explorers into voids/non-human-minds-as-void-explorers.md produced a unified article at 3260 words — above the 3000-word hard threshold for voids/ (163% of 2000-word soft target). The two source sections ("The AI Case: Real but Inherited" and "The Alien Case: Independent but Inaccessible") inevitably overlap with the surrounding "Cognitive Closure as Architecture-Dependence" and "The Inheritance Problem" sections. Tighten by: (a) merging closely-adjacent claims about architecture-dependence, (b) trimming the enumerated bullet lists in "What the Probe Can and Cannot Reveal" where overlap with "What Would Challenge This View" exists, (c) preserving the spectrum framing, the Solaris / strictly-negative-knowledge section, and the Articulation Test section — all unique synthesis work. Target: ≤3000 words. Preserve all attribution and all tenet connections.
-- **Source**: deep-review (2026-04-18 non-human-minds-as-void-explorers)
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review framework-void.md considering transformative-experience-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2330,6 +2323,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Condense non-human-minds-as-void-explorers.md (3260 words, 163% of voids/ target)
+- **Type**: condense
+- **Notes**: The 2026-04-18 coalesce of ai-as-void-explorer and alien-minds-void-explorers into voids/non-human-minds-as-void-explorers.md produced a unified article at 3260 words — above the 3000-word hard threshold for voids/ (163% of 2000-word soft target). The two source sections ("The AI Case: Real but Inherited" and "The Alien Case: Independent but Inaccessible") inevitably overlap with the surrounding "Cognitive Closure as Architecture-Dependence" and "The Inheritance Problem" sections. Tighten by: (a) merging closely-adjacent claims about architecture-dependence, (b) trimming the enumerated bullet lists in "What the Probe Can and Cannot Reveal" where overlap with "What Would Challenge This View" exists, (c) preserving the spectrum framing, the Solaris / strictly-negative-knowledge section, and the Articulation Test section — all unique synthesis work. Target: ≤3000 words. Preserve all attribution and all tenet connections.
+- **Output**: obsidian/voids/non-human-minds-as-void-explorers.md
 
 ### ✓ 2026-04-18: Update wikilinks for coalesced void-explorer articles
 - **Type**: cross-review
