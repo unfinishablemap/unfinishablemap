@@ -1491,7 +1491,7 @@ Pessimistic review 2026-02-02 (midday) identified high-severity issue: the artic
 ### ✓ 2026-02-02: Write voids article on intersubjective void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-intersubjective-void-2026-02-01.md.
-- **Output**: [intersubjective-void](/voids/intersubjective-void/)
+- **Output**: [intersubjective-void](/voids/voids-between-minds/)
 
 ### ✓ 2026-02-02: Write voids article on the death void
 - **Type**: expand-topic

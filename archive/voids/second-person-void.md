@@ -2,11 +2,16 @@
 title: "The Second-Person Void"
 description: "The irreducible gap in the I-You encounter: genuine meeting between consciousnesses delivers knowledge no other method can, yet structurally cannot deliver the other's full subjectivity."
 created: 2026-03-28
-modified: 2026-04-09
+modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-09T11:56:00+00:00
+ai_modified: 2026-04-18T13:54:00+00:00
 last_deep_review: 2026-04-09T11:56:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-18T13:54:00+00:00
+superseded_by: "/voids/voids-between-minds/"
+archive_reason: "Coalesced into The Voids Between Minds"
+original_path: "/voids/second-person-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"

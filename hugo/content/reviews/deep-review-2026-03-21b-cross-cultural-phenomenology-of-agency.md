@@ -47,7 +47,7 @@ No new counterarguments surfaced beyond those already documented in the previous
 
 ### Cross-links Added
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — body text, related_articles, Further Reading
-- [intersubjective-void](/voids/intersubjective-void/) — referenced in new paragraph as "constitutive gap between minds"
+- [intersubjective-void](/voids/voids-between-minds/) — referenced in new paragraph as "constitutive gap between minds"
 
 ## Remaining Items
 

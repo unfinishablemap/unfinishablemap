@@ -190,7 +190,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/imagination-and-creativity-void/) — Parallel opacity: creative process hidden, product accessible
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/) — What choosing feels like from the inside
-- [The Intersubjective Void](/voids/intersubjective-void/) — How opacity compounds at the social level through testimony failure, calibration pressure, and hermeneutical gaps
+- [The Intersubjective Void](/voids/voids-between-minds/) — How opacity compounds at the social level through testimony failure, calibration pressure, and hermeneutical gaps
 - [The Recognition Void](/voids/recognition-void/) — Process opacity applied to recognition: the gap between perceiving and knowing-as
 
 ## References

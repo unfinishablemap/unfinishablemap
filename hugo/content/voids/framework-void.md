@@ -116,7 +116,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — The principle that what we cannot think reveals what kind of minds we are
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level framework constraints
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI and alien minds can transcend human framework limits
-- [The Intersubjective Void](/voids/intersubjective-void/) — How social knowledge mechanisms enforce framework constraints on phenomenal reports
+- [The Intersubjective Void](/voids/voids-between-minds/) — How social knowledge mechanisms enforce framework constraints on phenomenal reports
 - [The Transformative Experience Void](/voids/transformative-experience-void/) — Lived choices a framework's elegance excludes rather than captures
 
 ## References

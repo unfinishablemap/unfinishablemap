@@ -177,7 +177,7 @@ Three interpretations of the void:
 
 **Temporal evidence (the stream problem)**: If James is right that we cannot even capture present experience without transforming it, the problem compounds for past experience. The original was never "arrested" in the first place—it flowed past.
 
-**Identity evidence (Parfit)**: Psychological connectedness weakens over time. If the past self is only weakly connected to the present self, the question "can I access my past experience?" becomes "can I access someone else's experience?"—and we know from the [other-minds-void](/voids/other-minds-void/) that other minds are inaccessible.
+**Identity evidence (Parfit)**: Psychological connectedness weakens over time. If the past self is only weakly connected to the present self, the question "can I access my past experience?" becomes "can I access someone else's experience?"—and we know from the [other-minds-void](/voids/voids-between-minds/) that other minds are inaccessible.
 
 **The qualia problem**: Even if propositional content is preserved (I remember *that* the sunset was beautiful), the phenomenal content (the actual experience of beauty) may be unrecoverable. Semantic memory may survive where episodic memory cannot.
 

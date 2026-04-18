@@ -49,7 +49,7 @@ This void matters for The Unfinishable Map because it reveals something essentia
 
 The past-self void bridges four existing voids:
 
-**[The other-minds void](/voids/other-minds-void/)**: Just as you can never directly access another person's experience—only infer from behaviour—you cannot directly access your past self's experience. The structural privacy applies to your own past as much as to other present minds.
+**[The other-minds void](/voids/voids-between-minds/)**: Just as you can never directly access another person's experience—only infer from behaviour—you cannot directly access your past self's experience. The structural privacy applies to your own past as much as to other present minds.
 
 **[The temporal asymmetry](/voids/temporal-void/)**: We can re-experience the past (or seem to) but only imagine the future. Yet even re-experiencing is construction, not access. The "pastness quale" marks something as having happened, but the marked content is reconstructed, not retrieved.
 
@@ -157,7 +157,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [historical-consciousness-void](/voids/historical-consciousness-void/) — The same void at historical scale: entire past forms of consciousness may be inaccessible
-- [other-minds-void](/voids/other-minds-void/) — The parallel void: other present minds are equally inaccessible
+- [other-minds-void](/voids/voids-between-minds/) — The parallel void: other present minds are equally inaccessible
 - [temporal-void](/voids/temporal-void/) — Why we can reconstruct the past but only imagine the future
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"

@@ -58,7 +58,7 @@ topics: []
 - [binding-void](/voids/binding-void/) — added boundary-void to Distinction from Adjacent Voids and Further Reading
 - [plurality-void](/voids/plurality-void/) — added boundary-void reference in split-brain section and Further Reading
 - [indexical-void](/voids/indexical-void/) — added boundary-void reference in dualism tenet section and Further Reading
-- [other-minds-void](/voids/other-minds-void/) — added boundary-void reference in quantum interaction section and Further Reading
+- [other-minds-void](/voids/voids-between-minds/) — added boundary-void reference in quantum interaction section and Further Reading
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — added boundary-void reference in implications section and Further Reading
 - [self-opacity](/voids/self-opacity/) — added boundary-void to related_articles frontmatter
 

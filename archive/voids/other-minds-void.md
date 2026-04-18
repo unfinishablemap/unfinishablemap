@@ -2,11 +2,16 @@
 title: "The Other Minds Void"
 description: "Each consciousness is sealed within itself, able to infer but never directly access other minds. Human+AI exploration of philosophy's most pervasive void."
 created: 2026-01-27
-modified: 2026-01-27
+modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-17T09:41:00+00:00
+ai_modified: 2026-04-18T13:54:00+00:00
 draft: false
 last_deep_review: 2026-03-28T21:26:00+00:00
+archived: true
+archived_date: 2026-04-18T13:54:00+00:00
+superseded_by: "/voids/voids-between-minds/"
+archive_reason: "Coalesced into The Voids Between Minds"
+original_path: "/voids/other-minds-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

@@ -53,7 +53,7 @@ topics: []
 
 ### Cross-links Added
 - [intersubjectivity](/concepts/intersubjectivity/) — in the asymmetry argument (appresentation)
-- [other-minds-void](/voids/other-minds-void/) — constitutive void between minds
+- [other-minds-void](/voids/voids-between-minds/) — constitutive void between minds
 - [intersubjectivity](/concepts/intersubjectivity/#the-discourse-argument) — discourse argument supporting cross-cultural invariance
 
 ## Remaining Items

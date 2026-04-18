@@ -1,11 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-03-26 08:17:00+00:00
+ai_modified: 2026-04-18 13:02:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[self-and-self-consciousness]]'
+- '[[zahavian-minimal-self]]'
 - '[[haecceity]]'
 - '[[parfit-reductionism]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
@@ -26,7 +27,7 @@ description: What kind of thing are you? Three answers compete—bare perspectiv
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 18:47:00+00:00
+last_deep_review: 2026-04-18 13:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -49,7 +50,7 @@ The Unfinishable Map argues that all three are real, but they are not equal. The
 
 ## The Minimal Self: Perspective Without Content
 
-Shaun Gallagher and Dan Zahavi identify the minimal self as "a very basic form of first-person, pre-reflective self-consciousness." It is present whenever consciousness is present. You do not need to think "I am experiencing this" for the experience to belong to you—the belonging is built in. Zahavi calls this "first-personal givenness": every experience comes tagged as *mine* before any reflection occurs.
+Shaun Gallagher and Dan Zahavi identify the minimal self as "a very basic form of first-person, pre-reflective self-consciousness." It is present whenever consciousness is present. You do not need to think "I am experiencing this" for the experience to belong to you—the belonging is built in. Zahavi calls this "first-personal givenness": every experience comes tagged as *mine* before any reflection occurs. The Map adopts specifically [Zahavi's version](/concepts/zahavian-minimal-self/) of the minimal self over Metzinger's self-model eliminativism — a choice developed in the dedicated concept article and presupposed throughout this one.
 
 The minimal self has three features that distinguish it from richer conceptions:
 
@@ -77,7 +78,7 @@ This is where the philosophical danger lies. If the narrative self is constructe
 
 ## The Eliminativist Temptation
 
-Several influential thinkers answer yes. Thomas Metzinger argues that the self is the content of a "transparent self-model"—a brain-generated representation that we mistake for direct reality. There is no self; there is only the self-model. Daniel Dennett reaches a similar conclusion through different means: the self is a "center of narrative gravity," a useful fiction rather than a real entity.
+Several influential thinkers answer yes. Thomas Metzinger argues that the self is the content of a "transparent self-model"—a brain-generated representation that we mistake for direct reality. There is no self; there is only the self-model. (The Map's detailed rejection of this position is developed in [zahavian-minimal-self](/concepts/zahavian-minimal-self/).) Daniel Dennett reaches a similar conclusion through different means: the self is a "center of narrative gravity," a useful fiction rather than a real entity.
 
 These [eliminativist](/concepts/illusionism/) positions share a structure. They accept the minimal self as a phenomenological datum and the narrative self as a cognitive construction, then deny that anything further exists. The self is exhausted by perspective plus story. There is no substantial self underneath. Dennett's position deserves particular care: he does not deny phenomenology but denies that phenomenology reveals metaphysical furniture. The self is real the way a centre of gravity is real—a useful abstraction, not an extra entity. The challenge is to explain why this deflationary move fails.
 
@@ -159,6 +160,7 @@ The three-layered self connects directly to the Map's foundational commitments.
 
 - [phenomenology-of-recursive-self-awareness](/topics/phenomenology-of-recursive-self-awareness/) — How self-awareness transforms consciousness: the experiential signatures that distinguish self-aware from merely conscious beings
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self as structural feature of consciousness
+- [zahavian-minimal-self](/concepts/zahavian-minimal-self/) — The Map's direct argument for Zahavi's account over Metzinger's self-model eliminativism
 - [personal-identity](/topics/personal-identity/) — What makes you persist over time
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity isn't enough
 - [parfit-reductionism](/concepts/parfit-reductionism/) — The Map's critique of identity-as-pattern

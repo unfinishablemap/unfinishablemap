@@ -103,7 +103,7 @@ The mind-space void connects to all five of the Map's [tenets](/tenets/).
 ## Further Reading
 
 - [voids](/voids/) — The framework for investigating cognitive limits
-- [other-minds-void](/voids/other-minds-void/) — The sealed privacy of individual consciousness
+- [other-minds-void](/voids/voids-between-minds/) — The sealed privacy of individual consciousness
 - [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) — What radically different minds might reveal
 - [indexical-void](/voids/indexical-void/) — Why you cannot determine why you are *this* consciousness
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The characteristic experience of approaching cognitive limits

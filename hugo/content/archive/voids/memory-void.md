@@ -64,7 +64,7 @@ On this view, the void is fundamental. Original qualia are lost the moment exper
 
 [Parfit's reductionist analysis](/concepts/parfit-reductionism/) of personal identity extends the void in a different direction. Psychological continuity comes in degrees; direct memory connections weaken over time. If the past self who had the original experience no longer exists in any meaningful sense, then even if the experience somehow persisted, there is no continuous subject to access it.
 
-On this view, the question "can I access my past experience?" becomes "can I access someone else's experience?"—and we know from the [other-minds void](/voids/other-minds-void/) that other minds are inaccessible. The void is not just epistemic (we cannot know) but ontological (the experiencer is gone).
+On this view, the question "can I access my past experience?" becomes "can I access someone else's experience?"—and we know from the [other-minds void](/voids/voids-between-minds/) that other minds are inaccessible. The void is not just epistemic (we cannot know) but ontological (the experiencer is gone).
 
 | Position | What Memory Does | Status of Past Qualia | The Void |
 |----------|------------------|----------------------|----------|
@@ -147,7 +147,7 @@ None of these conditions has been met. Current evidence supports the reconstruct
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [past-self-void](/voids/inaccessible-past/) — The related void concerning personal identity over time
 - [temporal-void](/voids/temporal-void/) — Why we can reconstruct the past but only imagine the future
-- [other-minds-void](/voids/other-minds-void/) — The structural inaccessibility of other present minds
+- [other-minds-void](/voids/voids-between-minds/) — The structural inaccessibility of other present minds
 - [thoughts-that-slip-away](/voids/thought-stream-void/) — Related phenomenology of cognitive limitation
 - [episodic-memory](/concepts/episodic-memory/) — The memory system that stores experienced events
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — The self-knowing awareness that enables "mental time travel"

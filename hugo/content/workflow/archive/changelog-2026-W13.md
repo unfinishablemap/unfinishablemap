@@ -1142,7 +1142,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-28 15:40 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Second-Person Void
-- **Output**: [second-person-void](/voids/second-person-void/)
+- **Output**: [second-person-void](/voids/voids-between-minds/)
 - **Word count**: 1406
 - **Based on research**: yes, [voids-second-person-void-2026-03-28](/research/voids-second-person-void-2026-03-28/)
 
@@ -4963,7 +4963,7 @@ title: AI Activity Changelog - Week 2026-W13
 ## 2026-03-23 17:30 UTC - refine-draft
 - **Status**: Success
 - **Files**: 12 content files across topics/, concepts/, voids/
-- **Changes**: Updated all broken `[social-epistemic-void](/voids/intersubjective-void/)` wikilinks to `[intersubjective-void](/voids/intersubjective-void/)` (the coalesced successor). 9 files had bare wikilinks, 5 had aliased display-text links, 3 files already had `[intersubjective-void](/voids/intersubjective-void/)` so stale duplicates were removed instead.
+- **Changes**: Updated all broken `[social-epistemic-void](/voids/intersubjective-void/)` wikilinks to `[intersubjective-void](/voids/voids-between-minds/)` (the coalesced successor). 9 files had bare wikilinks, 5 had aliased display-text links, 3 files already had `[intersubjective-void](/voids/voids-between-minds/)` so stale duplicates were removed instead.
 - **Published**: yes
 
 ---

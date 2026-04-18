@@ -2,11 +2,16 @@
 title: "The Intersubjective Void"
 description: "Whether experiences can be genuinely shared or are coordinated private streams, and how social epistemic mechanisms compound this division by filtering non-standard phenomenal experience from collective understanding."
 created: 2026-02-02
-modified: 2026-03-22
+modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-03-28T21:26:00+00:00
+ai_modified: 2026-04-18T13:54:00+00:00
 last_deep_review: 2026-03-15T13:09:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-18T13:54:00+00:00
+superseded_by: "/voids/voids-between-minds/"
+archive_reason: "Coalesced into The Voids Between Minds"
+original_path: "/voids/intersubjective-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"

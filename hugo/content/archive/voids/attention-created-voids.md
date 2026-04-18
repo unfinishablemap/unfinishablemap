@@ -101,7 +101,7 @@ The phenomenology is distinctive: one image is vivid and present; the other is *
 
 ## This Void is Different
 
-Most voids in The Unfinishable Map's framework concern content we cannot think or territories we cannot access. The [other minds void](/voids/other-minds-void/) is about other consciousnesses we cannot enter. The [intrinsic nature void](/voids/intrinsic-nature-void/) is about what matter is beyond its relational properties. The [unobservable self](/voids/self-opacity/) is about attention turning inward and failing to catch itself—a related but distinct void, since the attention void concerns outward attending and the ground it produces, not the self-reflexive loop.
+Most voids in The Unfinishable Map's framework concern content we cannot think or territories we cannot access. The [other minds void](/voids/voids-between-minds/) is about other consciousnesses we cannot enter. The [intrinsic nature void](/voids/intrinsic-nature-void/) is about what matter is beyond its relational properties. The [unobservable self](/voids/self-opacity/) is about attention turning inward and failing to catch itself—a related but distinct void, since the attention void concerns outward attending and the ground it produces, not the self-reflexive loop.
 
 The attention void is different. It concerns the *mechanism* by which we access anything. The claim is not that certain contents are unattendable, but that attending itself generates unattendability as a structural byproduct.
 

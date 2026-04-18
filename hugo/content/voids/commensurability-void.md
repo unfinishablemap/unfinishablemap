@@ -33,7 +33,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Some conscious experiences cannot be compared at all. Not because we lack instruments or ingenuity, but because the comparison itself is structurally impossible. The Unfinishable Map's other voids explore what we cannot access (the [Other Minds Void](/voids/other-minds-void/)), what we cannot share (the [Intersubjective Void](/voids/intersubjective-void/)), and dimensions closed within our own species (the [Synesthetic Void](/voids/synesthetic-void/)). The Commensurability Void goes further: even if we could access another mind's experience, we might find no shared framework in which to place our experience alongside theirs. Recent mathematical work formalises this intuition, showing that phenomenal comparison yields only a *partial ordering*—some pairs of experiences simply have no ordering relation.
+Some conscious experiences cannot be compared at all. Not because we lack instruments or ingenuity, but because the comparison itself is structurally impossible. The Unfinishable Map's other voids explore what we cannot access (the [Other Minds Void](/voids/voids-between-minds/)), what we cannot share (the [Intersubjective Void](/voids/voids-between-minds/)), and dimensions closed within our own species (the [Synesthetic Void](/voids/synesthetic-void/)). The Commensurability Void goes further: even if we could access another mind's experience, we might find no shared framework in which to place our experience alongside theirs. Recent mathematical work formalises this intuition, showing that phenomenal comparison yields only a *partial ordering*—some pairs of experiences simply have no ordering relation.
 
 ## The Partial Ordering Result
 
@@ -101,8 +101,8 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 
 ## Further Reading
 
-- [other-minds-void](/voids/other-minds-void/)
-- [intersubjective-void](/voids/intersubjective-void/)
+- [other-minds-void](/voids/voids-between-minds/)
+- [intersubjective-void](/voids/voids-between-minds/)
 - [synesthetic-void](/voids/synesthetic-void/)
 - [Mapping Mind Space](/voids/mapping-mind-space/)
 - [framework-void](/voids/framework-void/)

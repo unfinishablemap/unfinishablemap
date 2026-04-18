@@ -120,7 +120,7 @@ The affective void connects to the Map's [foundational commitments](/tenets/):
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** offers highly speculative implications that should be held lightly. If consciousness interfaces with physics at the quantum level, our affects *might* be shaped by the specific character of that interaction—the way consciousness biases neural quantum states might generate the particular affective palette we experience. This remains conjecture; the core argument for the affective void stands independent of any particular mechanism.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** deepens the [other minds problem](/voids/other-minds-void/). We fail not just to access *whether* others feel, but potentially *what kinds of things* they feel. If other consciousnesses (animal, artificial, alien) have different affective repertoires, and consciousness causally influences cognition, then we cannot access either their experiences or the causal contributions those experiences make.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** deepens the [other minds problem](/voids/voids-between-minds/). We fail not just to access *whether* others feel, but potentially *what kinds of things* they feel. If other consciousnesses (animal, artificial, alien) have different affective repertoires, and consciousness causally influences cognition, then we cannot access either their experiences or the causal contributions those experiences make.
 
 The affective void suggests profound humility about emotion. Our feelings are not privileged windows onto some universal emotional reality—they are one species' adaptive toolkit, shaped by contingent evolutionary history, implemented in one particular neural architecture. The hard problem of consciousness extends beyond explaining why there is something it is like to be conscious; it must also explain why *these* affects rather than the vast space of others. The [valence-void](/voids/valence-void/) sharpens the question further: why do all affects share a positive-negative evaluative dimension at all?
 
@@ -128,10 +128,10 @@ The affective void suggests profound humility about emotion. Our feelings are no
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why we can access only one piece of reality's intrinsic nature
-- [other-minds-void](/voids/other-minds-void/) — The privacy of consciousness and its implications
+- [other-minds-void](/voids/voids-between-minds/) — The privacy of consciousness and its implications
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
-- [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
+- [intersubjective-void](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether different cognitive architectures face different closures
 - [synesthetic-void](/voids/synesthetic-void/) — How synesthesia reveals intra-species phenomenal access gaps
 - [appetitive-void](/voids/appetitive-void/) — How desire structures our mapping of emotional limits

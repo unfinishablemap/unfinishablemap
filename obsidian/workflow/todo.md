@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Update wikilinks to coalesced voids-between-minds articles
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain task from the 2026-04-18 13:54 UTC coalesce that unified [[voids/other-minds-void]], [[voids/second-person-void]], and [[voids/intersubjective-void]] into [[voids/voids-between-minds]]. URLs for the three originals continue to work via archive redirects, but ~40 active files reference the archived articles by wikilink and would land readers on archive notices rather than the unified treatment. Active references span: voids/ (closure-types-void, boundary-and-projection, plurality-void, mapping-mind-space, indexical-void, ownership-void, observation-and-measurement-void, language-thought-boundary, framework-void, infant-consciousness, historical-consciousness-void, inaccessible-past, necessary-opacity, voids.md, voids-as-evidence, consciousness-only-territories, non-human-minds-as-void-explorers, synesthetic-void, affective-void, plurality-void, counterfactual-void, void-as-ground-of-meaning, mapping-mind-space, acquaintance-void, commensurability-void, collective-cognitive-limits); concepts/ (epistemology-of-other-minds-under-dualism, introspection, problem-of-other-minds, intersubjectivity); topics/ (phenomenal-authority-and-first-person-evidence, consciousness-and-intersubjectivity, phenomenology-of-trust, cross-cultural-phenomenology-of-agency, consciousness-and-the-phenomenology-of-translation, consciousness-and-testimony, consciousness-and-collective-phenomena, phenomenology-of-philosophical-disagreement, consciousness-and-the-problem-of-other-properties, social-construction-of-self-vs-phenomenal-self, consciousness-and-the-metaphysics-of-individuation, consciousness-and-social-understanding, consciousness-defeats-explanation); apex/ (taxonomy-of-voids). For each file, retarget wikilinks `[[other-minds-void]]`, `[[second-person-void]]`, `[[intersubjective-void]]` (and any display-text variants) to `[[voids-between-minds]]`. Also check whether `coalesced_from` values in mapping-mind-space.md, apophatic-cartography.md, and other previously-coalesced files still resolve correctly. Scope is mechanical retargeting plus light contextual review where the surrounding sentence becomes redundant after the merge (e.g., "see also other-minds-void / second-person-void / intersubjective-void" lists collapsing into a single reference).
+- **Source**: chain (from voids/voids-between-minds.md coalesce)
+- **Generated**: 2026-04-18
+
 ### P2: Cross-review apex/interface-specification-programme.md against today's article cluster
 - **Type**: cross-review
 - **Status**: pending

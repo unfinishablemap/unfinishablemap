@@ -52,7 +52,7 @@ Nisbett and Wilson's 1977 study "Telling More Than We Can Know" demonstrated tha
 
 Choice blindness experiments extended this dramatically. When researchers covertly switched participants' chosen photos, 75% remained blind to the mismatch—and confabulated detailed justifications for choices they never made.
 
-Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience inner speech, or the character of peripheral vision. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [intersubjective-void](/voids/intersubjective-void/) compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
+Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience inner speech, or the character of peripheral vision. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [intersubjective-void](/voids/voids-between-minds/) compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
 
 ## The Crucial Distinction: Process vs. Content
 
@@ -184,7 +184,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 - [phenomenology of self-awareness](/voids/self-opacity/) — Why introspective error cannot be detected from within, and where process access fails structurally
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The spectrum of phenomenal authority positions and phenomenal conservatism
 - [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — When the attentional basis of introspection is itself disordered
-- [The Intersubjective Void](/voids/intersubjective-void/) — How social calibration compounds introspective unreliability
+- [The Intersubjective Void](/voids/voids-between-minds/) — How social calibration compounds introspective unreliability
 
 ## References
 

@@ -58,7 +58,7 @@ The family's signature failure is **recursive collapse**: each attempt to deepen
 
 ### The Intersubjectivity Gap
 
-The [other minds void](/voids/other-minds-void/), the [intersubjective void](/voids/intersubjective-void/), and the [synesthetic void](/voids/synesthetic-void/) share a structural feature: the asymmetry between first-person access and third-person inference. You know your own experience directly but can only infer others' experience from behaviour and analogy. This is not a temporary limitation awaiting better brain scanning. It is constitutive of what experience *is*—private by nature, not by engineering constraint.
+The [other minds void](/voids/voids-between-minds/), the [intersubjective void](/voids/voids-between-minds/), and the [synesthetic void](/voids/synesthetic-void/) share a structural feature: the asymmetry between first-person access and third-person inference. You know your own experience directly but can only infer others' experience from behaviour and analogy. This is not a temporary limitation awaiting better brain scanning. It is constitutive of what experience *is*—private by nature, not by engineering constraint.
 
 The family's signature failure is **epistemic asymmetry**: knowledge that is structurally available in one direction (inward) and structurally unavailable in the other (outward). No instrument can bridge the gap because the gap is not spatial or temporal but ontological—between being a subject and observing one.
 

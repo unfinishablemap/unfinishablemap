@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-07
-**Article**: [The Intersubjective Void](/voids/intersubjective-void/)
+**Article**: [The Intersubjective Void](/voids/voids-between-minds/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

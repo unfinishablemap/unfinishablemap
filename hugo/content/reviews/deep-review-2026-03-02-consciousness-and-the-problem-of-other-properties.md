@@ -58,9 +58,9 @@ Inbound links added FROM other articles TO this one:
 - [intersubjectivity](/concepts/intersubjectivity/) — Inline link in "Limits of Intersubjectivity" linguistic mediation paragraph
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — Inline link in "What Testimony Cannot Convey" section
 - [consciousness-and-interpersonal-understanding](/topics/consciousness-and-social-understanding/) — Inline link in inverted qualia paragraph
-- [other-minds-void](/voids/other-minds-void/) — Added to Further Reading
+- [other-minds-void](/voids/voids-between-minds/) — Added to Further Reading
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/) — Inline link in "What Remains Beyond Reach" section
-- [intersubjective-void](/voids/intersubjective-void/) — Inline link in inverted spectrum evidence paragraph
+- [intersubjective-void](/voids/voids-between-minds/) — Inline link in inverted spectrum evidence paragraph
 
 ## Remaining Items
 

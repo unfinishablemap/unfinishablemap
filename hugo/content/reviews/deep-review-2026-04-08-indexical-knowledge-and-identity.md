@@ -64,7 +64,7 @@ Five new inbound cross-links from articles in the voids and concepts clusters:
 1. **[indexical-void](/voids/indexical-void/)** — Added to Further Reading section, linking to the epistemic and metaphysical dimensions of indexical knowledge. The most significant omission: the indexical void article discusses indexical facts extensively but had no link to the concept page that defines and analyses them.
 2. **[philosophy-of-time](/concepts/philosophy-of-time/)** — Added link in "Haecceity and indexical identity" subsection under Process Philosophy, connecting the temporal-indexical discussion to the broader framework.
 3. **[ownership-void](/voids/ownership-void/)** — Added link in No Many Worlds tenet section where "inherently indexical" ownership is discussed, connecting to the concept that grounds this claim.
-4. **[other-minds-void](/voids/other-minds-void/)** — Added link in No Many Worlds tenet section where the "indexical dimension" of consciousness privacy is discussed.
+4. **[other-minds-void](/voids/voids-between-minds/)** — Added link in No Many Worlds tenet section where the "indexical dimension" of consciousness privacy is discussed.
 5. **[binding-void](/voids/binding-void/)** — Added link in No Many Worlds tenet section where "indexical identity" connects phenomenal binding to particular experience.
 
 ## Remaining Items

@@ -135,7 +135,7 @@ The Recognition Void's treatment of "inventory blindness"—absent capabilities 
 | [convergence-as-evidence](/voids/voids-as-evidence/) | [recognition-void](/voids/recognition-void/) | The recognition void's inventory blindness strengthens the convergence argument: if we cannot detect absent cognitive capabilities, convergence of independent failure modes is stronger evidence than any single failure |
 | [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) | [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/) | Anaesthetic channel mapping could inform experimental design—if different channels have different quantum signatures, pharmacological manipulation might provide the controlled variation consciousness-collapse experiments need |
 | [compound-failure-signatures](/voids/compound-failure-signatures/) | [infant-consciousness](/voids/infant-consciousness/) | Infant consciousness is a paradigm case of compound failure: language barrier + absence of self-concept + demolished hardware = superadditive inaccessibility |
-| [consciousness-and-testimony](/topics/consciousness-and-testimony/) | [other-minds-void](/voids/other-minds-void/) | Testimony's structural dependence on consciousness deepens the other minds problem: we rely on testimony to navigate the void, yet testimony presupposes what the void puts in question |
+| [consciousness-and-testimony](/topics/consciousness-and-testimony/) | [other-minds-void](/voids/voids-between-minds/) | Testimony's structural dependence on consciousness deepens the other minds problem: we rely on testimony to navigate the void, yet testimony presupposes what the void puts in question |
 
 ## New Concept Pages Needed
 

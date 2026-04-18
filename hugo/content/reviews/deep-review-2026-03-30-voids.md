@@ -64,7 +64,7 @@ Not applicable — section index page, not source-based article.
 
 ### Cross-links Added
 - [attention-and-consciousness](/voids/attention-and-consciousness/) (replacing archived attention-created-voids and attention-disorders-and-consciousness)
-- [second-person-void](/voids/second-person-void/) (new article, created 2026-03-28)
+- [second-person-void](/voids/voids-between-minds/) (new article, created 2026-03-28)
 
 ## Remaining Items
 

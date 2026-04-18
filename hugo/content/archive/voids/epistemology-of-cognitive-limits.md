@@ -120,7 +120,7 @@ Approaching this epistemological question has [distinctive phenomenology](/voids
 
 **Regress vertigo.** Each attempt to assess our limits requires assessing our ability to assess. The recursion produces disorientation—a distinctive unsteadiness different from ordinary confusion.
 
-**Pragmatic frustration.** Unlike specific voids (the [death-void](/voids/death-void/), the [other-minds-void](/voids/other-minds-void/)), this meta-void undermines the methodology itself. How do we proceed when we cannot determine whether our procedure is tracking reality?
+**Pragmatic frustration.** Unlike specific voids (the [death-void](/voids/death-void/), the [other-minds-void](/voids/voids-between-minds/)), this meta-void undermines the methodology itself. How do we proceed when we cannot determine whether our procedure is tracking reality?
 
 **Temptation to premature closure.** There is strong pressure to decide—to declare limits real (mysterianism) or illusory (optimism) and end the discomfort. The suspended position described in [whether-real](/voids/whether-real/) requires tolerating unresolved tension.
 

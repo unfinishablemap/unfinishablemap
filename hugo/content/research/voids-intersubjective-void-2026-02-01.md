@@ -35,7 +35,7 @@ topics:
 
 ## Executive Summary
 
-The intersubjective void concerns a deeper question than whether other minds exist: Can experiences be genuinely *shared*? When two people watch a sunset together, are they co-experiencing one phenomenal event, or are they having two parallel private experiences that happen to correlate? The [other minds void](/voids/other-minds-void/) asks whether we can *know* other consciousnesses exist; the intersubjective void asks whether genuine *communion* between consciousnesses is possible or whether "shared experience" is a useful fiction describing coordinated but fundamentally separate phenomenal streams.
+The intersubjective void concerns a deeper question than whether other minds exist: Can experiences be genuinely *shared*? When two people watch a sunset together, are they co-experiencing one phenomenal event, or are they having two parallel private experiences that happen to correlate? The [other minds void](/voids/voids-between-minds/) asks whether we can *know* other consciousnesses exist; the intersubjective void asks whether genuine *communion* between consciousnesses is possible or whether "shared experience" is a useful fiction describing coordinated but fundamentally separate phenomenal streams.
 
 This research explores three positions: (1) Strong isolation—experiences are necessarily private, and "sharing" is metaphor; (2) Partial bridging—some experiences may be genuinely shared through empathy, collective intentionality, or unusual neural connections; (3) Constitutive intersubjectivity—the very structure of experience already involves the other, making the question of "sharing" confused.
 
@@ -154,7 +154,7 @@ This research explores three positions: (1) Strong isolation—experiences are n
 
 ### Nature of the Limit
 
-The intersubjective void is distinct from the [other minds void](/voids/other-minds-void/):
+The intersubjective void is distinct from the [other minds void](/voids/voids-between-minds/):
 
 | Other Minds Void | Intersubjective Void |
 |------------------|---------------------|

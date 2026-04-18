@@ -52,7 +52,7 @@ Where [collective-cognitive-limits](/voids/collective-cognitive-limits/) examine
 
 Testimony is the primary vehicle through which knowledge circulates. John Hardwig argues that epistemic dependence on others is a structural feature of human cognition—"no individual has the temporal, cognitive, or material capacity to verify all their beliefs independently" (Hardwig 1985). For most domains this works adequately.
 
-Consciousness breaks this transfer. When someone testifies about their phenomenal experience—what red looks like to them, what their pain feels like, how their inner monologue operates—the hearer has no independent access to verify the claim. The usual epistemic checks that make testimony reliable (corroboration, coherence with background knowledge, track record of the testifier) all fail or become circular when applied to phenomenal reports. Corroboration requires that others access the same phenomenon, which the [other-minds-void](/voids/other-minds-void/) denies. Coherence checks measure phenomenal reports against... other phenomenal reports. Track record assumes a standard of correctness that, as Schwitzgebel demonstrates, does not exist for introspection.
+Consciousness breaks this transfer. When someone testifies about their phenomenal experience—what red looks like to them, what their pain feels like, how their inner monologue operates—the hearer has no independent access to verify the claim. The usual epistemic checks that make testimony reliable (corroboration, coherence with background knowledge, track record of the testifier) all fail or become circular when applied to phenomenal reports. Corroboration requires that others access the same phenomenon, which the [other-minds-void](/voids/voids-between-minds/) denies. Coherence checks measure phenomenal reports against... other phenomenal reports. Track record assumes a standard of correctness that, as Schwitzgebel demonstrates, does not exist for introspection.
 
 The result is a domain where testimonial knowledge operates without its usual safeguards, yet where we proceed as though the safeguards were in place.
 
@@ -74,7 +74,7 @@ What Schwitzgebel documents at the individual level becomes more troubling at th
 
 The adjustment begins before deliberate choice, before language. Research on [intersubjectivity](/topics/consciousness-and-intersubjectivity/) shows that joint attention, social referencing, and protoconversational behaviour establish self-other alignment from early infancy—social calibration of phenomenal attention operates before a child has any explicit concepts for experience. As language develops, children learn which phenomenal reports are met with understanding and which with puzzlement. Over decades, this shapes not merely how people *describe* their experience but how they *attend* to it—which features they foreground, which they ignore, which they reinterpret to fit available categories.
 
-This mechanism explains a puzzle: why do people seem to agree so readily about phenomenal experience when the [intersubjective-void](/voids/intersubjective-void/) suggests such agreement should be nearly impossible to verify? The agreement may be partly an artifact of social calibration—we have trained each other to report experiences using shared categories, and this training masks whatever underlying phenomenal diversity exists. The effect deepens in collective contexts: what Zahavi calls [we-mode phenomenology](/topics/consciousness-and-collective-phenomena/) transforms the experiential perspective itself, so that participants in joint activities, rituals, or collective effervescence experience phenomenal conformity not as compliance but as shared reality—social calibration operating at the level of experiential structure, not merely verbal report.
+This mechanism explains a puzzle: why do people seem to agree so readily about phenomenal experience when the [intersubjective-void](/voids/voids-between-minds/) suggests such agreement should be nearly impossible to verify? The agreement may be partly an artifact of social calibration—we have trained each other to report experiences using shared categories, and this training masks whatever underlying phenomenal diversity exists. The effect deepens in collective contexts: what Zahavi calls [we-mode phenomenology](/topics/consciousness-and-collective-phenomena/) transforms the experiential perspective itself, so that participants in joint activities, rituals, or collective effervescence experience phenomenal conformity not as compliance but as shared reality—social calibration operating at the level of experiential structure, not merely verbal report.
 
 ## The Private Language Barrier
 
@@ -123,11 +123,11 @@ The social dimension of explanation connects to a deeper structural issue. [Cons
 ## Further Reading
 
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — Emergent blind spots at the level of paradigms and societies
-- [The Intersubjective Void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
+- [The Intersubjective Void](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
 - [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [Introspective Opacity](/voids/self-opacity/) — Why we access contents but never mechanisms
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said
-- [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
+- [The Other Minds Void](/voids/voids-between-minds/) — Access to consciousness beyond our own
 - [The Transparency Void](/voids/necessary-opacity/) — Why consciousness cannot verify its own accuracy
 - [Consciousness and Testimony](/topics/consciousness-and-testimony/) — Testimony requires consciousness yet cannot fully convey it
 - [Intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds

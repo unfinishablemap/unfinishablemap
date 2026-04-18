@@ -73,7 +73,7 @@ Physical science succeeded by externalising measurement—removing the observer'
 
 Clinical pain scales ask patients to rate their pain from 1 to 10. The numbers are useful for tracking changes within a single patient over time. They are meaningless for comparing pain between patients. No one—including the patient—knows whether their "7" maps onto anyone else's "7," or even onto their own previous "7."
 
-This reflects the [intersubjective void](/voids/intersubjective-void/): there is no shared phenomenal space in which two experiences can be held alongside each other for comparison. Stevens' power law in psychophysics relates physical stimulus intensity to reported perceived intensity via a power function (one of the [psychophysical-laws](/concepts/psychophysical-laws/) linking mind and matter). The equation is elegant, but it measures the interface between experience and report, not experience itself. The psychophysical function is underdetermined: multiple alternative mathematical functions can account for the same behavioural data equally well. The underlying phenomenal mechanism cannot be inferred from the behavioural pattern, because the same external pattern is compatible with radically different internal experiences.
+This reflects the [intersubjective void](/voids/voids-between-minds/): there is no shared phenomenal space in which two experiences can be held alongside each other for comparison. Stevens' power law in psychophysics relates physical stimulus intensity to reported perceived intensity via a power function (one of the [psychophysical-laws](/concepts/psychophysical-laws/) linking mind and matter). The equation is elegant, but it measures the interface between experience and report, not experience itself. The psychophysical function is underdetermined: multiple alternative mathematical functions can account for the same behavioural data equally well. The underlying phenomenal mechanism cannot be inferred from the behavioural pattern, because the same external pattern is compatible with radically different internal experiences.
 
 ## The Uncalibratable Instrument
 
@@ -147,7 +147,7 @@ The measurement void follows from the Map's [tenets](/tenets/) with particular d
 - [introspective opacity](/voids/self-opacity/) — Why we access mental contents but never the mechanisms producing them
 - [self-reference paradox](/voids/self-opacity/) — The subject that cannot become its own object
 - [substrate-void](/voids/intrinsic-nature-void/) — What consciousness is made of, when every answer collapses
-- [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
+- [intersubjective-void](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beneath relational properties
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) — Knowledge that undermines its own conditions

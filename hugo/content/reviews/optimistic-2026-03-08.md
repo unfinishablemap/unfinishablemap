@@ -110,7 +110,7 @@ The three kinds of void distinction (unexplored, unexplorable, occluded) provide
 - **Tenet alignment**: Bidirectional Interaction (memory retrieval as selection), Dualism (phenomenal memory exceeds informational content)
 
 #### The Phenomenology of Collective Attention
-- **Builds on**: [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/), [structure-of-attention](/topics/structure-of-attention/), [other-minds-void](/voids/other-minds-void/)
+- **Builds on**: [attention-as-selection-interface](/topics/attention-and-the-consciousness-interface/), [structure-of-attention](/topics/structure-of-attention/), [other-minds-void](/voids/voids-between-minds/)
 - **Would address**: Concerts, rituals, and shared contemplative practice create experiences of collective attentional alignment where individual consciousness seems to participate in something larger. This is phenomenologically real (reported cross-culturally) and challenges purely individual models of consciousness-selection. How does the interface framework accommodate shared intentionality?
 - **Estimated scope**: Medium article (1200-1800 words)
 - **Tenet alignment**: Bidirectional Interaction (collective selection effects?), Minimal Quantum Interaction (scope questions for shared attention)

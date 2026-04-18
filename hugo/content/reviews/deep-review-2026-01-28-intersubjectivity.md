@@ -28,7 +28,7 @@ None. The previous review (2026-01-25) addressed the main gaps including elimina
 
 ### Medium Issues Found
 1. **Missing cross-link to other-minds-void**: The newly created voids article offers complementary insights—Husserl's paradox that the other is "accessible precisely insofar as they are constituted as ultimately inaccessible," the Hogan twins case suggesting partial contingency, the voids taxonomy.
-   - **Resolution**: Added [other-minds-void](/voids/other-minds-void/) to concepts list and Further Reading section.
+   - **Resolution**: Added [other-minds-void](/voids/voids-between-minds/) to concepts list and Further Reading section.
 
 2. **Husserl's constitutive paradox underdeveloped**: The previous version mentioned appresentation but didn't capture Husserl's deeper insight that inaccessibility *constitutes* rather than merely blocks intersubjectivity.
    - **Resolution**: Added paragraph in Husserl section explaining the constitutive role of the void.
@@ -63,11 +63,11 @@ All six adversarial personas applied:
 1. Added paragraph on Husserl's constitutive paradox—the void as constitutive of intersubjectivity, not merely blocking access
 2. Added paragraph acknowledging contemplative evidence confounds while defending the specificity argument
 3. Added "Contingency of the boundary" subsection in Limits discussing Hogan twins and BCI implications
-4. Added [other-minds-void](/voids/other-minds-void/) cross-link in concepts and Further Reading
+4. Added [other-minds-void](/voids/voids-between-minds/) cross-link in concepts and Further Reading
 5. Removed outdated AI refinement log comment
 
 ### Cross-links Added
-- [other-minds-void](/voids/other-minds-void/) — Essential connection given the cross-review context
+- [other-minds-void](/voids/voids-between-minds/) — Essential connection given the cross-review context
 
 ## Word Count Changes
 - Before: 1899 words

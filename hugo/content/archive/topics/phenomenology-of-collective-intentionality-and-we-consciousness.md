@@ -103,7 +103,7 @@ This account preserves the Map's commitment to individual neural substrates whil
 
 This also connects to the [problem-of-other-minds](/concepts/problem-of-other-minds/): if each participant's "we" is individually constructed, the question of whether your we-mode experience matches mine becomes a variant of the classic epistemic gap.
 
-However, this raises a question about the [intersubjective-void](/voids/intersubjective-void/). If we-consciousness is always an individual consciousness operating in collective mode, then the "we" is never truly shared in the strong sense. My experience of "our grief" and your experience of "our grief" are two experiences, not one, however similar their intentional structure. The felt unity of we-experience may be genuine phenomenology without being genuine unity. This is not a defect of the account but a consequence of taking both individual consciousness and collective phenomenology seriously. The intersubjective void persists even through the most intense experiences of togetherness — but what it separates are consciousnesses that have each independently structured their experience around a shared "we."
+However, this raises a question about the [intersubjective-void](/voids/voids-between-minds/). If we-consciousness is always an individual consciousness operating in collective mode, then the "we" is never truly shared in the strong sense. My experience of "our grief" and your experience of "our grief" are two experiences, not one, however similar their intentional structure. The felt unity of we-experience may be genuine phenomenology without being genuine unity. This is not a defect of the account but a consequence of taking both individual consciousness and collective phenomenology seriously. The intersubjective void persists even through the most intense experiences of togetherness — but what it separates are consciousnesses that have each independently structured their experience around a shared "we."
 
 ## Relation to Site Perspective
 
@@ -121,7 +121,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet deepens the significance of 
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — How consciousness enables social cognition and interpersonal understanding
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — How trust operates across the intersubjective void
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively intersubjective or ontologically individual
-- [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
+- [intersubjective-void](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between phenomenal subjects
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects
 

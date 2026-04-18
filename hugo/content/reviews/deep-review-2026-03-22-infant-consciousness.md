@@ -51,7 +51,7 @@ topics: []
 
 ### Cross-links Added (inbound to infant-consciousness)
 - [inaccessible-past](/voids/inaccessible-past/) — Added as most radical form of past-self inaccessibility
-- [other-minds-void](/voids/other-minds-void/) — Added in developmental awakening section
+- [other-minds-void](/voids/voids-between-minds/) — Added in developmental awakening section
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Added developmental emergence context
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — Added in pre-linguistic experience section
 - [consciousness-interface-development](/topics/consciousness-interface-development/) — Added in infant interface section

@@ -246,7 +246,7 @@ The probability intuition void shows that simplicity-seeking is not just a metho
 
 1. **Probability as cognitive construction:** What we call "probability" might be a conceptual overlay on reality rather than a direct perception of it. We have no probability qualia—no phenomenal experience of 30% vs. 70%. Probability is always translated into something else (frequency, confidence, expectation) for conscious access.
 
-2. **Randomness as the ultimate void:** If consciousness cannot experience genuine randomness, this may be a deeper limit than the [Scale Void](/voids/scale-void/) or [Other Minds Void](/voids/other-minds-void/). We can conceptualize large numbers even if we can't intuit them. But genuine randomness—pure chance with no pattern—may be phenomenologically empty, a void within consciousness itself.
+2. **Randomness as the ultimate void:** If consciousness cannot experience genuine randomness, this may be a deeper limit than the [Scale Void](/voids/scale-void/) or [Other Minds Void](/voids/voids-between-minds/). We can conceptualize large numbers even if we can't intuit them. But genuine randomness—pure chance with no pattern—may be phenomenologically empty, a void within consciousness itself.
 
 3. **Agency detection as fundamental:** The tendency to see agency (hyperactive agency detection) is related to probability blindness. We're built to find *who* did something rather than accepting that *nothing* caused it. This suggests consciousness may be inherently intentional in structure—always oriented toward agents, patterns, meanings—with randomness falling outside its scope.
 

@@ -66,7 +66,7 @@ Signature failure: **recursive collapse**—each attempt to deepen self-examinat
 
 ### The Intersubjectivity Gap
 
-The [other minds void](/voids/other-minds-void/), the [intersubjective void](/voids/intersubjective-void/), and the [synesthetic void](/voids/synesthetic-void/) share the asymmetry between first-person access and third-person inference. Experience is private by nature, not by engineering constraint.
+The [other minds void](/voids/voids-between-minds/), the [intersubjective void](/voids/voids-between-minds/), and the [synesthetic void](/voids/synesthetic-void/) share the asymmetry between first-person access and third-person inference. Experience is private by nature, not by engineering constraint.
 
 Signature failure: **epistemic asymmetry**—knowledge structurally available inward and structurally unavailable outward. No instrument bridges the gap because it is ontological.
 

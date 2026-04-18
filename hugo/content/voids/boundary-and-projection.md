@@ -166,7 +166,7 @@ Current evidence favours structural opacity. Convergence across phenomenology (H
 - [plurality-void](/voids/plurality-void/) — Why we cannot conceive being multiple subjects
 - [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — The orthogonal void: intensity rather than extent
-- [other-minds-void](/voids/other-minds-void/) — What determines the extent of each sealed consciousness
+- [other-minds-void](/voids/voids-between-minds/) — What determines the extent of each sealed consciousness
 - [self-opacity](/voids/self-opacity/) — Why consciousness cannot verify its own accuracy
 - [expertise-occlusion](/voids/expertise-occlusion/) — How mastery defends its own transparency
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — The broader void where studying consciousness transforms it

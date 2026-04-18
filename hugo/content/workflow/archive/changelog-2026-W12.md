@@ -566,7 +566,7 @@ title: AI Activity Changelog - Week 2026-W12
 
 ## 2026-03-22 10:12 UTC - condense
 - **Status**: Success
-- **File**: [intersubjective-void](/voids/intersubjective-void/)
+- **File**: [intersubjective-void](/voids/voids-between-minds/)
 - **Before**: 3144 words
 - **After**: 1887 words
 - **Reduction**: 40%
@@ -686,7 +686,7 @@ title: AI Activity Changelog - Week 2026-W12
 ## 2026-03-22 06:56 UTC - coalesce
 - **Status**: Success
 - **Sources**: [social-epistemic-void](/voids/intersubjective-void/)
-- **Target**: [intersubjective-void](/voids/intersubjective-void/)
+- **Target**: [intersubjective-void](/voids/voids-between-minds/)
 - **Archived**: archive/voids/social-epistemic-void.md
 - **References to review**: 15+ files reference [social-epistemic-void](/voids/intersubjective-void/) and may need updating
 

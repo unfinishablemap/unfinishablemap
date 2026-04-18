@@ -95,7 +95,7 @@ The remainder also exhibits the [double grounding](/topics/clinical-phenomenolog
 
 ## Translation and the Intersubjective Void
 
-Translation involves not just two languages but (typically) two minds. The translator attempts to grasp what the author meant — to cross the [intersubjective void](/voids/intersubjective-void/) — and then to re-express that meaning for a different audience. This double crossing reveals something about the structure of understanding itself.
+Translation involves not just two languages but (typically) two minds. The translator attempts to grasp what the author meant — to cross the [intersubjective void](/voids/voids-between-minds/) — and then to re-express that meaning for a different audience. This double crossing reveals something about the structure of understanding itself.
 
 ### Phenomenal Empathy Across Languages
 
@@ -131,7 +131,7 @@ The phenomenology of translation connects to the Map's [tenets](/tenets/) at sev
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where thought exceeds what language can capture
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Whether thinking has phenomenal character beyond sensory accompaniments
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — How consciousness constitutes semantic grasp
-- [intersubjective-void](/voids/intersubjective-void/) — The gap between minds that translation attempts to bridge
+- [intersubjective-void](/voids/voids-between-minds/) — The gap between minds that translation attempts to bridge
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — Phenomenal engagement with other minds
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How disruptions of experience reveal consciousness architecture
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The felt difference between doing and undergoing

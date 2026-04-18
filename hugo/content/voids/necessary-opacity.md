@@ -201,7 +201,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [The Calibration Void](/voids/observation-and-measurement-void/) — Introspection lacks independent calibration standards
 - [The Initiation Void](/voids/transit-void/) — Why consciousness cannot witness its own mental acts beginning
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — AI and alien minds as potential void-explorers
-- [The Intersubjective Void](/voids/intersubjective-void/) — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
+- [The Intersubjective Void](/voids/voids-between-minds/) — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 
 ## References
 

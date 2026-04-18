@@ -130,7 +130,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet counsels against di
 - [consciousness-and-social-cognition](/topics/consciousness-and-social-cognition/) — How individual consciousness enables the social cognition collective intentionality requires
 - [intentionality](/concepts/intentionality/) — The "aboutness" of mental states and its relation to consciousness
 - [intersubjectivity](/concepts/intersubjectivity/) — The shared space between minds where collective intentionality operates
-- [intersubjective-void](/voids/intersubjective-void/) — The structural gap between minds that collective intentionality bridges but never closes
+- [intersubjective-void](/voids/voids-between-minds/) — The structural gap between minds that collective intentionality bridges but never closes
 - [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/) — Why social construction requires phenomenal subjects
 - [phenomenology-of-trust](/topics/phenomenology-of-trust/) — How trust operates across the intersubjective void and what betrayal reveals about commitment
 

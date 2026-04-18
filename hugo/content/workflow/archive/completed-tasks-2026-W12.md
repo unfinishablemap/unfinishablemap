@@ -146,7 +146,7 @@ Pessimistic review found question-begging dismissal of illusionism (line 105), u
 
 ### ✓ 2026-03-22: Update references from social-epistemic-void to intersubjective-void
 - **Type**: cross-review
-- **Notes**: Coalesce on 2026-03-22 merged social-epistemic-void.md into intersubjective-void.md. 15+ active content files still reference [social-epistemic-void](/voids/intersubjective-void/) and need wikilinks updated to [intersubjective-void](/voids/intersubjective-void/). Check topics/, concepts/, and voids/ for stale references.
+- **Notes**: Coalesce on 2026-03-22 merged social-epistemic-void.md into intersubjective-void.md. 15+ active content files still reference [social-epistemic-void](/voids/intersubjective-void/) and need wikilinks updated to [intersubjective-void](/voids/voids-between-minds/). Check topics/, concepts/, and voids/ for stale references.
 - **Output**: None -- Context: Update references from social-epistemic-void to intersubjective-void
 
 ### ✓ 2026-03-22: Cross-review experimental-design-for-consciousness-collapse-testing.md considering consciousness-collapse experiments

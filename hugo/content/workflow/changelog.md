@@ -1,13 +1,66 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 12:33:00+00:00
+ai_modified: 2026-04-18 13:54:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 13:54 UTC - coalesce
+- **Status**: Success
+- **Sources**: [other-minds-void](/voids/other-minds-void/), [second-person-void](/voids/second-person-void/), [intersubjective-void](/voids/intersubjective-void/)
+- **Target**: [voids-between-minds](/voids/voids-between-minds/)
+- **Archived**: [other-minds-void](/archive/voids/other-minds-void/), [second-person-void](/archive/voids/second-person-void/), [intersubjective-void](/archive/voids/intersubjective-void/)
+- **References to review**: ~40 active files (topics, voids, concepts, apex) reference one or more archived articles; follow-up task created
+- **Rationale**: Three articles shared an identical comparison table, repeated Husserl's paradox text, and duplicated Hogan twins discussion. Coalesced into single unified article preserving the three-aspect structure (existence, encounter, sharing) with consolidated shared content. Voids section was at 94% capacity (highest of all sections).
+
+## 2026-04-18 13:32 UTC - deep-review
+- **Status**: Success
+- **File**: [closure-types-void](/voids/closure-types-void/)
+- **Word count**: 1872 → 1904 (+32)
+- **Critical issues addressed**: 1 (Kriegel framing inconsistency between "The Kriegel Attack" and "Methodological Consequences" sections — rewrote to consistently track psychological vs representational distinction)
+- **Medium issues addressed**: 2 (frontmatter category errors: mysterianism is concept not topic, conceptual-impossibility is void not concept; LLM cliché "Not X. It is Y." pattern rephrased)
+- **Enhancements made**: 1 (added inventory-blindness cross-link in body and concepts — directly relevant to "no phenomenology of representational absence")
+- **Output**: [deep-review-2026-04-18-closure-types-void](/reviews/deep-review-2026-04-18-closure-types-void/)
+
+## 2026-04-18 13:18 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-attention-to-absence](/topics/phenomenology-of-attention-to-absence/)
+- **Word count**: 2144 → 2144 (no net change)
+- **Critical issues addressed**: 1 (broken wikilink to archived `thoughts-that-slip-away` replaced with `thought-stream-void` in both related_articles and Further Reading)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stability review — third deep review; article is in its stable form, only post-coalesce drift needed fixing)
+- **Output**: [deep-review-2026-04-18-phenomenology-of-attention-to-absence](/reviews/deep-review-2026-04-18-phenomenology-of-attention-to-absence/)
+
+## 2026-04-18 13:02 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Files**: [personal-identity](/topics/personal-identity/), [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- **Trigger**: Cross-review against newly created [zahavian-minimal-self](/concepts/zahavian-minimal-self/) (2026-04-18) which develops the Map's explicit Zahavi-vs-Metzinger position
+- **Word counts**:
+  - personal-identity: 3846 → 3868 (+22)
+  - the-self-minimal-narrative-and-substantial: 2832 → 2885 (+53)
+- **Critical issues addressed**: 0 (none found in either article — both stable from prior reviews)
+- **Medium issues addressed**: 2 (both articles presupposed Zahavian framing without naming it or linking to dedicated treatment)
+- **Enhancements made**: 6 (inline cross-links in minimal-self paragraphs of both articles, parenthetical pointer in The Self's "Eliminativist Temptation" section where Metzinger is introduced, concepts frontmatter additions on both, Further Reading entries on both)
+- **Key moves**: Made the Zahavian commitment explicit in both targets while keeping the dedicated argument in the concept article; preserved length-neutrality (personal-identity still under 4000 hard threshold; the-self still under 3000 soft target)
+- **Output**: [deep-review-2026-04-18-zahavian-cross-review](/reviews/deep-review-2026-04-18-zahavian-cross-review/)
+
+## 2026-04-18 12:47 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Files**: [mysterianism](/concepts/mysterianism/), [consciousness-defeats-explanation](/topics/consciousness-defeats-explanation/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Trigger**: Cross-review against newly published [closure-types-void](/voids/closure-types-void/) (2026-04-18 12:02 UTC)
+- **Word counts**:
+  - mysterianism: 2705 → 2769 (+64)
+  - consciousness-defeats-explanation: 3153 → 3214 (+61)
+  - meta-epistemology-of-limits: 2191 → 2237 (+46)
+- **Critical issues addressed**: 0 (none found across all three)
+- **Medium issues addressed**: 4 (bi-directional linkage missing from all three articles; stale 2026-04-09 AI refinement log comment block removed from consciousness-defeats-explanation)
+- **Enhancements made**: 9 (related_articles additions, contextual body-paragraph pointers in existing closure-distinction passages, Further Reading entries)
+- **Key moves**: Back-linked closure-types-void from all three adjacent articles; sharpened mysterianism's "Can We Know" section with the second-order-void pointer; added closure-types nuance to the third interpretation in consciousness-defeats-explanation; appended second-order-void reference in meta-epistemology's Problems and Mysteries section; removed stale refinement-log comment block per its own instruction
+- **Output**: [deep-review-2026-04-18-closure-types-cross-review](/reviews/deep-review-2026-04-18-closure-types-cross-review/)
 
 ## 2026-04-18 12:33 UTC - optimistic-review
 - **Status**: Success

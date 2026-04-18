@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 13:32:00+00:00
+ai_modified: 2026-04-18 13:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 13:54 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/other-minds-void]], [[voids/second-person-void]], [[voids/intersubjective-void]]
+- **Target**: [[voids/voids-between-minds]]
+- **Archived**: [[archive/voids/other-minds-void]], [[archive/voids/second-person-void]], [[archive/voids/intersubjective-void]]
+- **References to review**: ~40 active files (topics, voids, concepts, apex) reference one or more archived articles; follow-up task created
+- **Rationale**: Three articles shared an identical comparison table, repeated Husserl's paradox text, and duplicated Hogan twins discussion. Coalesced into single unified article preserving the three-aspect structure (existence, encounter, sharing) with consolidated shared content. Voids section was at 94% capacity (highest of all sections).
 
 ## 2026-04-18 13:32 UTC - deep-review
 - **Status**: Success

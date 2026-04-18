@@ -107,7 +107,7 @@ The Map's commitment to [interactionist-dualism](/concepts/interactionist-dualis
 
 The Map's second tenet — [minimal quantum interaction](/tenets/#minimal-quantum-interaction) — adds a further dimension. If consciousness operates at the quantum level by biasing indeterminate outcomes, then the specific phenomenal properties accompanying a given brain state might depend on the particular consciousness-matter interface in that individual. Two brains with identical quantum states could, in principle, be paired with different phenomenal properties if the non-physical side of the interaction differs. The interface is personal.
 
-This connects to the Map's broader recognition that some things may be structurally beyond knowledge. The [other-minds-void](/voids/other-minds-void/) and the [intersubjective-void](/voids/intersubjective-void/) both explore territories where epistemic access fails not through ignorance but through the architecture of reality. The problem of other properties belongs in this family — it marks a boundary that no amount of scientific or philosophical progress can cross, precisely because the irreducibility of phenomenal properties is not a temporary limitation but a permanent feature of a world that contains more than matter.
+This connects to the Map's broader recognition that some things may be structurally beyond knowledge. The [other-minds-void](/voids/voids-between-minds/) and the [intersubjective-void](/voids/voids-between-minds/) both explore territories where epistemic access fails not through ignorance but through the architecture of reality. The problem of other properties belongs in this family — it marks a boundary that no amount of scientific or philosophical progress can cross, precisely because the irreducibility of phenomenal properties is not a temporary limitation but a permanent feature of a world that contains more than matter.
 
 Yet this epistemic barrier need not be cause for despair. It reveals something important about the kind of universe we inhabit: one where each conscious perspective is genuinely its own, irreplaceable not just sentimentally but metaphysically. The privacy of phenomenal properties is the cost of their reality.
 
@@ -117,8 +117,8 @@ Yet this epistemic barrier need not be cause for despair. It reveals something i
 - [inverted-qualia](/concepts/inverted-qualia/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [explanatory-gap](/concepts/explanatory-gap/)
-- [other-minds-void](/voids/other-minds-void/)
-- [intersubjective-void](/voids/intersubjective-void/)
+- [other-minds-void](/voids/voids-between-minds/)
+- [intersubjective-void](/voids/voids-between-minds/)
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/)
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 - [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)

@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-18 12:02:00+00:00
+ai_modified: 2026-04-18 13:32:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[mysterianism]]'
-- '[[conceptual-impossibility]]'
 - '[[introspection]]'
+- '[[inventory-blindness]]'
 created: 2026-04-18
 date: &id001 2026-04-18
 description: 'Representational and psychological closure are distinct species of cognitive
@@ -16,6 +16,7 @@ description: 'Representational and psychological closure are distinct species of
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-18 13:32:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -28,9 +29,9 @@ related_articles:
 - '[[biological-cognitive-closure]]'
 - '[[compound-failure-signatures]]'
 - '[[non-human-minds-as-void-explorers]]'
+- '[[conceptual-impossibility]]'
 title: The Closure-Types Void
 topics:
-- '[[mysterianism]]'
 - '[[hard-problem-of-consciousness]]'
 ---
 
@@ -64,7 +65,7 @@ With the distinction in hand, the voids catalogue sorts provisionally into three
 
 **Plausibly psychological.** The [binding problem](/voids/binding-void/), the [recognition-void](/voids/recognition-void/), and several cases classed under [self-opacity](/voids/self-opacity/) show structural signatures more typical of psychological closure: partial progress exists, formulations converge and diverge rather than breaking down in the same *structural* way, and expert disagreement concerns details rather than the existence of a solution at all.
 
-**Ambiguous.** The [other minds void](/voids/other-minds-void/), the [intersubjective void](/voids/intersubjective-void/), and the [second-person void](/voids/second-person-void/) sit between. The inability to cross into another mind might reflect a concept-formation limit (we cannot frame what it would be to be another), or it might reflect an assembly limit that better probes could overcome. The [ineffable encounter void](/voids/ineffable-encounter-void/) is similar: the claim that some contents resist linguistic capture could reflect either type.
+**Ambiguous.** The [other minds void](/voids/voids-between-minds/), the [intersubjective void](/voids/voids-between-minds/), and the [second-person void](/voids/voids-between-minds/) sit between. The inability to cross into another mind might reflect a concept-formation limit (we cannot frame what it would be to be another), or it might reflect an assembly limit that better probes could overcome. The [ineffable encounter void](/voids/ineffable-encounter-void/) is similar: the claim that some contents resist linguistic capture could reflect either type.
 
 This classification is not a stable taxonomy. It is a working hypothesis about structural signatures, subject to revision. Its primary function is to force each void article to declare — or explicitly flag as uncertain — which kind of closure it is asserting.
 
@@ -72,11 +73,11 @@ This classification is not a stable taxonomy. It is a working hypothesis about s
 
 The deeper result is not the first-order distinction but its inaccessibility. *From within a mind, there is no reliable procedure for determining which type of closure one is facing.*
 
-Representational closure is, by its own definition, undetectable. If a mind's concept-forming procedures cannot extend to P, the mind lacks the very resources needed to notice the insufficiency. There is no phenomenology of representational absence; minds do not represent what they cannot represent. Psychological closure, by contrast, leaves traces: partial understanding, conceptual handles that slip, formulations that feel close but wrong. But the *difference* between "we have not yet constructed the concepts" and "our concept-forming procedures could never construct them" is exactly what is not visible from inside.
+Representational closure is, by its own definition, undetectable. If a mind's concept-forming procedures cannot extend to P, the mind lacks the very resources needed to notice the insufficiency. There is no phenomenology of representational absence; minds do not represent what they cannot represent. This is the closure-types analogue of [inventory-blindness](/concepts/inventory-blindness/): absent capabilities produce no signal marking their absence. Psychological closure, by contrast, leaves traces: partial understanding, conceptual handles that slip, formulations that feel close but wrong. But the *difference* between "we have not yet constructed the concepts" and "our concept-forming procedures could never construct them" is exactly what is not visible from inside.
 
 The history of apparent representational closures that turned out to be psychological supplies the indirect evidence. Each of Vlerick and Boudry's examples looked, to participants, like a principled conceptual limit; in retrospect the concepts existed but had not been assembled. The track record does not prove there are no genuine representational closures. It shows that minds are unreliable judges of which is which. The asymmetry of error is systematic: false positives for representational closure outnumber false negatives, because the phenomenology of merely hard problems mimics principled impossibility.
 
-This second-order void is what makes the first-order distinction philosophically serious rather than merely taxonomic. The distinction is not a taxonomy we can apply from within and rest on. It is a lens that exposes the limits of our self-diagnosis.
+This second-order void is what makes the first-order distinction philosophically serious rather than merely taxonomic. The distinction works as a lens exposing the limits of our self-diagnosis, rather than as a taxonomy we can apply from within and rest on.
 
 ## Methodological Consequences
 
@@ -84,7 +85,7 @@ This second-order void is what makes the first-order distinction philosophically
 
 **Void claims should declare their type.** An article that says "X is unknowable" should specify whether the claim is representational, psychological, or ambiguous, and flag the second-order uncertainty. [apophatic-cartography](/voids/apophatic-cartography/) becomes sharper when it drops the pretence that it is mapping a single type of wall. Different closure types admit different indirect probes, and apophatic description of the wall's *shape* is how the Map can contribute without overclaiming its type.
 
-**Mysterianism is partially rehabilitated.** Kriegel's argument succeeds against naive representational claims derived from the mere posability of the question, but does not touch sophisticated mysterianism that locates closure in the mismatch between our concept-forming procedures and the property's true theory.
+**Mysterianism is partially rehabilitated.** Kriegel's argument bites against psychological closure, and against any version of mysterianism that conflates the form of an answer (which posing the question requires) with its content (which posing does not). It does not touch sophisticated representational mysterianism, which locates closure in the mismatch between our concept-forming procedures and the property's true theory.
 
 ## Relation to Site Perspective
 

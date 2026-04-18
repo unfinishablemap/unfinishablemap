@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-17 13:11:00+00:00
+ai_modified: 2026-04-18 13:02:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -9,6 +9,7 @@ concepts:
 - '[[death-and-consciousness]]'
 - '[[split-brain-consciousness]]'
 - '[[self-and-self-consciousness]]'
+- '[[zahavian-minimal-self]]'
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[concepts/many-worlds]]'
 - '[[parfit-reductionism]]'
@@ -25,7 +26,7 @@ description: What makes you *you* across time? The Map emphasizes indexical iden
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 11:41:00+00:00
+last_deep_review: 2026-04-18 13:02:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +56,7 @@ Three main positions dominate the debate about what makes someone at one time th
 
 **The Narrative View**: You are your story. Marya Schechtman argues identity emerges through self-created life narratives. But this may exclude those with fragmented narratives.
 
-Recent phenomenological work distinguishes these from a more basic [minimal self](/concepts/self-and-self-consciousness/)—a pre-reflective first-person perspective present whenever consciousness is present. The minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. This suggests personal identity may have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
+Recent phenomenological work — most prominently [Zahavi's](/concepts/zahavian-minimal-self/) account of first-personal givenness — distinguishes these from a more basic [minimal self](/concepts/self-and-self-consciousness/): a pre-reflective first-person perspective present whenever consciousness is present. This minimal self is the "for-me-ness" of experience that persists even when narrative identity fragments. Personal identity may thus have layers: a narrative layer that changes dramatically, and a minimal layer—the bare perspectival character of experience—that persists throughout.
 
 [Autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/)—the capacity for mental time travel—adds another dimension. When remembering, you don't merely access information; you *reconstruct* the past with a distinctive phenomenal character that marks the experience as yours. The [constitutive view](/concepts/anoetic-noetic-autonoetic-consciousness/) holds that this felt quality *defines* episodic memory—strip it away and what remains is factual knowledge, not genuine remembering. Yet as the [inaccessible-past](/voids/inaccessible-past/) reveals, reconstruction can never fully access the original experience—the phenomenal state itself is gone, replaced by present simulation. Each act of retrieval permanently alters the trace through reconsolidation, making [consciousness a causal participant in memory's ongoing transformation](/topics/consciousness-and-memory/)—the self perpetually rewriting its own history. The "pastness quale" that marks memories as genuinely yours points to something information storage cannot capture.
 
@@ -226,6 +227,7 @@ Personal identity exemplifies the Map's framework and connects to all five tenet
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects many-worlds (the indexical problem is central)
 - [haecceity](/concepts/haecceity/) — Primitive thisness, Whitehead's process philosophy, and why qualitative identity isn't enough
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of selfhood
+- [zahavian-minimal-self](/concepts/zahavian-minimal-self/) — Why the Map adopts Zahavi's pre-reflective givenness over Metzinger's self-model
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Mental time travel and the temporal self
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on consciousness unity and division
 - [death-and-consciousness](/topics/death-and-consciousness/) — What survival after death would require

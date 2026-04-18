@@ -46,7 +46,7 @@ Cross-links added FROM the following articles TO [indexical-void](/voids/indexic
 1. **[haecceity](/concepts/haecceity/)** — Added body text link at the concept convergence paragraph ("The indexical void marks the cognitive boundary..."), added to Further Reading, added to related_articles
 2. **[personal-identity](/topics/personal-identity/)** — Added body text link at indexical uniqueness point, added to Further Reading, added to related_articles
 3. **[indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/)** — Added body text link at counterfactual argument, added to Further Reading, added to related_articles
-4. **[other-minds-void](/voids/other-minds-void/)** — Added body text link at No Many Worlds tenet connection, added to Further Reading, added to related_articles
+4. **[other-minds-void](/voids/voids-between-minds/)** — Added body text link at No Many Worlds tenet connection, added to Further Reading, added to related_articles
 5. **[combination-problem](/concepts/combination-problem/)** — Added to Further Reading, updated ai_modified
 6. **[self-and-consciousness](/concepts/self-and-self-consciousness/)** — Added to related_articles
 7. **[past-self-void](/voids/inaccessible-past/)** — Added to related_articles
@@ -57,7 +57,7 @@ Cross-links added FROM the following articles TO [indexical-void](/voids/indexic
 - [haecceity](/concepts/haecceity/) → [indexical-void](/voids/indexical-void/)
 - [personal-identity](/topics/personal-identity/) → [indexical-void](/voids/indexical-void/)
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) → [indexical-void](/voids/indexical-void/)
-- [other-minds-void](/voids/other-minds-void/) → [indexical-void](/voids/indexical-void/)
+- [other-minds-void](/voids/voids-between-minds/) → [indexical-void](/voids/indexical-void/)
 - [combination-problem](/concepts/combination-problem/) → [indexical-void](/voids/indexical-void/)
 - [self-and-consciousness](/concepts/self-and-self-consciousness/) → [indexical-void](/voids/indexical-void/)
 - [past-self-void](/voids/inaccessible-past/) → [indexical-void](/voids/indexical-void/)

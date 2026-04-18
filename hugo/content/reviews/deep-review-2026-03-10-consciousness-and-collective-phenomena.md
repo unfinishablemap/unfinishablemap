@@ -48,13 +48,13 @@ topics: []
 ### Enhancements Made
 - Added `[metacognition](/concepts/metacognition/)` wikilink in metarepresentation discussion
 - Added `[machine-consciousness](/topics/machine-consciousness/)` wikilink in institutional reality section
-- Added `[other-minds-void](/voids/other-minds-void/)` reference in phenomenological evidence section
+- Added `[other-minds-void](/voids/voids-between-minds/)` reference in phenomenological evidence section
 - Added No Many Worlds tenet paragraph to Relation to Site Perspective
 
 ### Cross-links Added
 - [metacognition](/concepts/metacognition/)
 - [machine-consciousness](/topics/machine-consciousness/)
-- [other-minds-void](/voids/other-minds-void/)
+- [other-minds-void](/voids/voids-between-minds/)
 
 ## Remaining Items
 

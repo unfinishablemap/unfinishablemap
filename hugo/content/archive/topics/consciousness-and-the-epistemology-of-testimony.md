@@ -114,7 +114,7 @@ The Map's [tenets](/tenets/) illuminate the epistemology of testimony about cons
 - [phenomenology-of-trust-and-testimony](/topics/consciousness-and-testimony/) — The felt experience of receiving testimony
 - [epistemology-of-phenomenal-reports](/topics/epistemology-of-first-person-evidence/) — Testimonial evidence in consciousness science
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The epistemic gap between minds
-- [intersubjective-void](/voids/intersubjective-void/) — The constitutive gap between consciousnesses
+- [intersubjective-void](/voids/voids-between-minds/) — The constitutive gap between consciousnesses
 - [knowledge-argument](/concepts/knowledge-argument/) — What testimony cannot convey about phenomenal experience
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — Restoring introspective evidence
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational discourse requires conscious causation

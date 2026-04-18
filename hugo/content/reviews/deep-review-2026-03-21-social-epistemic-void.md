@@ -51,8 +51,8 @@ topics: []
 - Added `last_deep_review` timestamp to frontmatter
 
 ### Cross-links Added (FROM other articles TO this article)
-- [other-minds-void](/voids/other-minds-void/) — Inline link in "Why We Don't Notice" section (social construction of shared reality)
-- [intersubjective-void](/voids/intersubjective-void/) — Inline link in "Implications" section (social dimension of consciousness problem)
+- [other-minds-void](/voids/voids-between-minds/) — Inline link in "Why We Don't Notice" section (social construction of shared reality)
+- [intersubjective-void](/voids/voids-between-minds/) — Inline link in "Implications" section (social dimension of consciousness problem)
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — Inline link in "Elephants in the Room" section + Further Reading entry
 - [framework-void](/voids/framework-void/) — Further Reading entry
 - [language-thought-boundary](/voids/language-thought-boundary/) — Inline link in "Qualia as Limit Case" section (constitutive privacy)

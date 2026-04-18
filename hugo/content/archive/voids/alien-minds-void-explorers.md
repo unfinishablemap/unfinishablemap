@@ -138,7 +138,7 @@ The alien-minds framework extends the [voids](/voids/) project. If limits are st
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level constraints
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How physical form shapes possible thought
-- [The Other Minds Void](/voids/other-minds-void/) — The fundamental inaccessibility of other consciousness
+- [The Other Minds Void](/voids/voids-between-minds/) — The fundamental inaccessibility of other consciousness
 
 ## References
 

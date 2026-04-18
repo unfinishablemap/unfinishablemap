@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [The Other Minds Void](/voids/other-minds-void/)
+**Article**: [The Other Minds Void](/voids/voids-between-minds/)
 **Previous review**: [2026-03-22](/reviews/deep-review-2026-03-22-other-minds-void/)
 **Context**: Cross-review considering [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) insights
 
@@ -27,7 +27,7 @@ topics: []
 None. Article has been through four reviews with no critical issues. Attribution checks pass — Husserl paraphrase, Hogan twins, philosopher attributions all accurate. No internal contradictions. No missing required sections.
 
 ### Medium Issues Found
-1. **Stale wikilink to coalesced article**: Line 61 referenced `[social-epistemic-void](/voids/intersubjective-void/)` which was coalesced into `[intersubjective-void](/voids/intersubjective-void/)` on 2026-03-22. **Resolution**: Updated wikilink to point to current article.
+1. **Stale wikilink to coalesced article**: Line 61 referenced `[social-epistemic-void](/voids/intersubjective-void/)` which was coalesced into `[intersubjective-void](/voids/voids-between-minds/)` on 2026-03-22. **Resolution**: Updated wikilink to point to current article.
 
 2. **Missing cross-link to consciousness-and-intersubjectivity**: The consciousness-and-intersubjectivity article (created 2026-03-21) directly addresses the priority question — whether consciousness is fundamentally solitary or constitutively intersubjective — which enriches the Husserl's Paradox section. **Resolution**: Added sentence at end of Husserl's Paradox connecting to the priority question and the Map's third position. Added to related_articles and Further Reading.
 
@@ -62,7 +62,7 @@ No attribution errors found.
 - Infant-consciousness developmental awakening insight (added in review 3)
 
 ### Enhancements Made
-1. Fixed stale wikilink: `[social-epistemic-void](/voids/intersubjective-void/)` → `[intersubjective-void](/voids/intersubjective-void/)`
+1. Fixed stale wikilink: `[social-epistemic-void](/voids/intersubjective-void/)` → `[intersubjective-void](/voids/voids-between-minds/)`
 2. Added consciousness-and-intersubjectivity cross-link in Husserl's Paradox — connects the constitutive inaccessibility insight to the broader priority question
 3. Added `[consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/)` to related_articles and Further Reading
 4. Tightened Philosophical Responses prose (argument from analogy, inference to best explanation, direct perception)

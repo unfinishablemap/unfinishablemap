@@ -37,7 +37,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map's [voids](/voids/) project catalogs dozens of cognitive limits—places where thought cannot go or cannot report what it finds. These articles frequently note that particular voids are "constitutive" of their domains: the [other-minds-void](/voids/other-minds-void/) enables ethical life, the [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) enables creative production, the [death-void](/voids/death-void/) structures temporal urgency. But one thesis unifies these observations: voids as such—cognitive limits, unknowable territories, unchartable darkness—are not merely constraints on meaning but *preconditions* for it. A mind with no limits would have no meaning. The shape of our voids is the shape of our significance.
+The Unfinishable Map's [voids](/voids/) project catalogs dozens of cognitive limits—places where thought cannot go or cannot report what it finds. These articles frequently note that particular voids are "constitutive" of their domains: the [other-minds-void](/voids/voids-between-minds/) enables ethical life, the [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) enables creative production, the [death-void](/voids/death-void/) structures temporal urgency. But one thesis unifies these observations: voids as such—cognitive limits, unknowable territories, unchartable darkness—are not merely constraints on meaning but *preconditions* for it. A mind with no limits would have no meaning. The shape of our voids is the shape of our significance.
 
 The constitutive thesis functions as a meta-void—it sits behind every specific void in the Map, reframing the entire project: we are not cataloging failures but mapping the architecture of what makes anything matter at all.
 
@@ -57,7 +57,7 @@ The constitutive thesis is not the discovery of any single thinker. Multiple ind
 
 **Wittgenstein** drew the limit from the side of language. "The limits of my language mean the limits of my world." But ethics, aesthetics, and the meaning of life lie *outside* what language captures—and these are what matter most. The closing proposition of the *Tractatus*—"Whereof one cannot speak, thereof one must be silent"—is not dismissive but protective. Silence preserves what speech would distort.
 
-**Levinas** located the constitutive void in the face of the Other. The Other resists all attempts at totalization—every effort to fully comprehend another person reduces them to a projection of yourself. This unknowability is not failure but the *source* of ethical obligation: the Other grounds meaning for the self precisely because the Other exceeds any totalized account. If you could fully comprehend another consciousness, ethical life would collapse into self-relation. The [other-minds-void](/voids/other-minds-void/) is what makes ethics possible.
+**Levinas** located the constitutive void in the face of the Other. The Other resists all attempts at totalization—every effort to fully comprehend another person reduces them to a projection of yourself. This unknowability is not failure but the *source* of ethical obligation: the Other grounds meaning for the self precisely because the Other exceeds any totalized account. If you could fully comprehend another consciousness, ethical life would collapse into self-relation. The [other-minds-void](/voids/voids-between-minds/) is what makes ethics possible.
 
 **Derrida** generalized the point: absence is constitutive of presence. Every sign means what it means partly through what it excludes. What traditional metaphysics marginalizes—the supplement, the trace, *différance*—turns out to be constitutive of what seemed primary: presence, speech, origin. Meaning requires what is *not there* as much as what is.
 
@@ -78,7 +78,7 @@ This does not mean *any* limits produce meaning, or that more limitation always 
 The constitutive thesis reframes the Map's voids project. Each void article documents a specific cognitive limit. Read individually, they might seem to catalog human deficiencies. Read through the constitutive thesis, they reveal the architecture of significance:
 
 - The [death-void](/voids/death-void/) structures temporal meaning—urgency, commitment, the weight of irreversible choice
-- The [other-minds-void](/voids/other-minds-void/) grounds ethical life—obligation, care, the encounter with what exceeds comprehension
+- The [other-minds-void](/voids/voids-between-minds/) grounds ethical life—obligation, care, the encounter with what exceeds comprehension
 - The [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) enables genuine novelty—if creative origins were transparent, nothing would be surprising
 - The [aesthetic-void](/voids/aesthetic-void/) opens access to the ineffable—beauty matters partly because it exceeds articulation
 - The [language-thought-boundary](/voids/language-thought-boundary/) preserves territory that concepts would distort
@@ -127,7 +127,7 @@ The constitutive thesis connects to each of the Map's [tenets](/tenets/):
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are permanent?
 - [death-void](/voids/death-void/) — How mortality structures temporal meaning
-- [other-minds-void](/voids/other-minds-void/) — How the unknowability of others grounds ethics
+- [other-minds-void](/voids/voids-between-minds/) — How the unknowability of others grounds ethics
 - [aesthetic-void](/voids/aesthetic-void/) — Where ineffability opens access to the sublime
 - [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — Why creative origins must remain hidden
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation ends and something else begins

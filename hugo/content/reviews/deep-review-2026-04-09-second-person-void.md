@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-09
-**Article**: [The Second-Person Void](/voids/second-person-void/)
+**Article**: [The Second-Person Void](/voids/voids-between-minds/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -65,7 +65,7 @@ Nagel identified this structure in 1974: "Every subjective phenomenon is essenti
 
 Clinical pain scales ask patients to rate their pain from 1 to 10. The numbers are useful for tracking changes within a single patient over time. They are meaningless for comparing pain between patients. No one—including the patient—knows whether their "7" maps onto anyone else's "7," or even onto their own previous "7."
 
-This is not a problem of imprecise language. It reflects the [intersubjective void](/voids/intersubjective-void/): there is no shared phenomenal space in which two experiences can be held alongside each other for comparison. Comparison requires a common scale, and a common scale requires access to both items being compared from a single vantage point. Phenomenal experiences are perspectivally singular—each accessible only from the point of view that has it.
+This is not a problem of imprecise language. It reflects the [intersubjective void](/voids/voids-between-minds/): there is no shared phenomenal space in which two experiences can be held alongside each other for comparison. Comparison requires a common scale, and a common scale requires access to both items being compared from a single vantage point. Phenomenal experiences are perspectivally singular—each accessible only from the point of view that has it.
 
 Stevens' power law in psychophysics relates physical stimulus intensity to reported perceived intensity via a power function (one of the [psychophysical-laws](/concepts/psychophysical-laws/) linking mind and matter). The equation is elegant, but it measures the interface between experience and report, not experience itself. MacKay demonstrated that near-infinite alternative mathematical functions could account for the same behavioural data. The underlying phenomenal mechanism cannot be inferred from the behavioural pattern, because the same external pattern is compatible with radically different internal experiences.
 
@@ -110,7 +110,7 @@ The quantification void follows from the Map's [tenets](/tenets/) with particula
 - [calibration-void](/voids/measurement-void/) — Why introspection cannot be calibrated against any independent standard
 - [observation-void](/voids/observation-and-measurement-void/) — How every method of studying consciousness transforms what it studies
 - [substrate-void](/voids/intrinsic-nature-void/) — What consciousness is made of, when every answer collapses
-- [intersubjective-void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
+- [intersubjective-void](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beneath relational properties
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation—mapping by the shape of failure
 

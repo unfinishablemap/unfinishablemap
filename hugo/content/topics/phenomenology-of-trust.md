@@ -57,7 +57,7 @@ There is also trust's relationship to time. Trust is not a snapshot assessment b
 
 Trust sits at the heart of the [problem of other minds](/concepts/problem-of-other-minds/). To trust someone genuinely, you must experience them as a conscious being — as someone who could keep faith with you or betray you, not a mechanism that will either deliver expected outputs or fail.
 
-This creates a distinctive epistemic situation. You can never have direct access to another person's intentions. The [intersubjective void](/voids/intersubjective-void/) — the unchartable gap between your consciousness and theirs — means that trust always operates across an abyss. You experience this abyss phenomenologically: the slight vertigo of depending on someone whose inner life you cannot directly inspect, the felt leap involved in proceeding as though their commitments are genuine.
+This creates a distinctive epistemic situation. You can never have direct access to another person's intentions. The [intersubjective void](/voids/voids-between-minds/) — the unchartable gap between your consciousness and theirs — means that trust always operates across an abyss. You experience this abyss phenomenologically: the slight vertigo of depending on someone whose inner life you cannot directly inspect, the felt leap involved in proceeding as though their commitments are genuine.
 
 The Map's dualist framework illuminates why this abyss exists. If consciousness is irreducible to physical processes, then another person's inner life is not merely practically inaccessible (because we lack the right instruments) but constitutively so: there is something about first-person experience that cannot be read off any third-person description, no matter how complete. The [constitutive structure of intersubjectivity](/topics/consciousness-and-intersubjectivity/) — how minds relate to one another at all — shapes what trust can and cannot be. Trust, then, is the practice of acting across this constitutive gap. It is one of the ways consciousness copes with its own irreducibility in the social domain.
 
@@ -123,7 +123,7 @@ The [limits of Occam's Razor](/tenets/#occams-limits) (Tenet 5) caution against 
 - [problem-of-other-minds](/concepts/problem-of-other-minds/)
 - [intersubjectivity](/concepts/intersubjectivity/)
 - [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/)
-- [intersubjective-void](/voids/intersubjective-void/)
+- [intersubjective-void](/voids/voids-between-minds/)
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)
 - [emotion-and-dualism](/topics/emotion-and-dualism/)

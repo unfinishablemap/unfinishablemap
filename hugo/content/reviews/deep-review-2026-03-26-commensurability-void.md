@@ -49,8 +49,8 @@ topics: []
 - Added comparative-consciousness-and-interface-differences and degrees-of-consciousness to related_articles and Further Reading
 
 ### Cross-links Added (FROM other articles TO commensurability-void)
-- [other-minds-void](/voids/other-minds-void/) — Added to Further Reading
-- [intersubjective-void](/voids/intersubjective-void/) — Added to Further Reading
+- [other-minds-void](/voids/voids-between-minds/) — Added to Further Reading
+- [intersubjective-void](/voids/voids-between-minds/) — Added to Further Reading
 - [synesthetic-void](/voids/synesthetic-void/) — Added contextual link in "The Geometry of Experiential Possibility" section
 - [animal-consciousness](/topics/animal-consciousness/) — Added contextual link in "What Is It Like to Be a Bat?" section
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Added contextual link in "Animal Ethics" section

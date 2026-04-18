@@ -72,7 +72,7 @@ This shift is phenomenologically palpable. Consider the moment you realise someo
 
 ## Testimony Across the Intersubjective Void
 
-Testimony is an epistemic bridge across the [intersubjective void](/voids/intersubjective-void/) — the constitutive gap between one consciousness and another. When someone tells you what they experienced, their words carry information across an abyss that no physical measurement can fully bridge. The speaker converts phenomenal experience into linguistic form through the [consciousness-language interface](/topics/consciousness-and-language-interface/); you receive the linguistic form and reconstruct something of the phenomenal experience on your side.
+Testimony is an epistemic bridge across the [intersubjective void](/voids/voids-between-minds/) — the constitutive gap between one consciousness and another. When someone tells you what they experienced, their words carry information across an abyss that no physical measurement can fully bridge. The speaker converts phenomenal experience into linguistic form through the [consciousness-language interface](/topics/consciousness-and-language-interface/); you receive the linguistic form and reconstruct something of the phenomenal experience on your side.
 
 This process is imperfect and everyone knows it. The felt inadequacy of testimony about subjective experience — the sense that words cannot fully convey what pain, beauty, or terror is like — is itself a phenomenological datum. It reveals the limits of the testimonial bridge without undermining the bridge entirely. You can learn that someone suffered without fully grasping what their suffering was like. The gap between propositional knowledge and experiential knowledge is felt in the act of receiving testimony about experience.
 
@@ -118,7 +118,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet (T
 - [consciousness-and-semantic-understanding](/topics/phenomenology-of-understanding/)
 - [consciousness-and-collective-intentionality](/topics/consciousness-and-collective-phenomena/)
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/)
-- [intersubjective-void](/voids/intersubjective-void/)
+- [intersubjective-void](/voids/voids-between-minds/)
 - [argument-from-reason](/topics/argument-from-reason/)
 - [problem-of-other-minds](/concepts/problem-of-other-minds/)
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/)

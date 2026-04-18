@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-29
-**Article**: [The Other Minds Void](/voids/other-minds-void/)
+**Article**: [The Other Minds Void](/voids/voids-between-minds/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

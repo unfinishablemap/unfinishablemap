@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-02
-**Article**: [The Other Minds Void](/voids/other-minds-void/)
+**Article**: [The Other Minds Void](/voids/voids-between-minds/)
 **Previous review**: [2026-01-29](/reviews/deep-review-2026-01-29-other-minds-void/)
 **Context**: Cross-review considering [historical-consciousness-void](/voids/historical-consciousness-void/) insights
 

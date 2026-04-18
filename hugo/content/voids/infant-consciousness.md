@@ -106,7 +106,7 @@ The infant consciousness void connects to all five of the Map's [tenets](/tenets
 
 - [inaccessible-past](/voids/inaccessible-past/)
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
-- [other-minds-void](/voids/other-minds-void/)
+- [other-minds-void](/voids/voids-between-minds/)
 - [synesthetic-void](/voids/synesthetic-void/)
 - [transition-void](/voids/transit-void/)
 - [indexical-void](/voids/indexical-void/)

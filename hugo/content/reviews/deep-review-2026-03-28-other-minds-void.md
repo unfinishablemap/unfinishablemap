@@ -17,9 +17,9 @@ topics: []
 ---
 
 **Date**: 2026-03-28
-**Article**: [The Other Minds Void](/voids/other-minds-void/)
+**Article**: [The Other Minds Void](/voids/voids-between-minds/)
 **Previous review**: [2026-03-23](/reviews/deep-review-2026-03-23-other-minds-void/)
-**Context**: Cross-review considering [second-person-void](/voids/second-person-void/) (created 2026-03-28)
+**Context**: Cross-review considering [second-person-void](/voids/voids-between-minds/) (created 2026-03-28)
 
 ## Pessimistic Analysis Summary
 
@@ -59,16 +59,16 @@ Not a source-based article. All attributions verified in previous reviews. No ch
 ### Enhancements Made
 1. Added second-person-void cross-reference in Husserl's Paradox section — connects constitutive inaccessibility to Buber's *Zwischen* and the relational space of encounter
 2. Added second-person-void cross-reference in direct perception response — links the question of how expressions give access to experience with the second-person mode
-3. Added `[second-person-void](/voids/second-person-void/)` to related_articles and Further Reading
+3. Added `[second-person-void](/voids/voids-between-minds/)` to related_articles and Further Reading
 4. Tightened Hogan twins description (removed redundant anatomical detail)
 5. Tightened multi-subject states and AI sections
 
 ### Cross-links Added
-- [second-person-void](/voids/second-person-void/) — the irreducible gap in genuine I-You meeting
+- [second-person-void](/voids/voids-between-minds/) — the irreducible gap in genuine I-You meeting
 
 ### Cross-Review: Other Articles Updated
-Added `[second-person-void](/voids/second-person-void/)` to related_articles and Further Reading in:
-- [intersubjective-void](/voids/intersubjective-void/) — also expanded "Distinguishing the Voids" table from 2-column (other-minds vs intersubjective) to 3-column (other-minds vs second-person vs intersubjective)
+Added `[second-person-void](/voids/voids-between-minds/)` to related_articles and Further Reading in:
+- [intersubjective-void](/voids/voids-between-minds/) — also expanded "Distinguishing the Voids" table from 2-column (other-minds vs intersubjective) to 3-column (other-minds vs second-person vs intersubjective)
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — second-person encounter as consciousness-only territory
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — natural companion treating the priority question
 

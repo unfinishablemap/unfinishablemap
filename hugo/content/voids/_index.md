@@ -78,9 +78,9 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Interface Formalization Void](/voids/interface-formalization-void/) — Why the consciousness-physics interface resists mathematical formalization
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter and consciousness are in themselves, when every answer yields only structure or negation
 - [The Emergence Void](/voids/emergence-void/) — How arrangement produces novelty—the gap at every level transition
-- [The Other Minds Void](/voids/other-minds-void/) — Access to consciousness beyond our own
-- [The Intersubjective Void](/voids/intersubjective-void/) — Whether experiences can be genuinely shared
-- [The Second-Person Void](/voids/second-person-void/) — The irreducible gap in the I-You encounter
+- [The Other Minds Void](/voids/voids-between-minds/) — Access to consciousness beyond our own
+- [The Intersubjective Void](/voids/voids-between-minds/) — Whether experiences can be genuinely shared
+- [The Second-Person Void](/voids/voids-between-minds/) — The irreducible gap in the I-You encounter
 - [The Commensurability Void](/voids/commensurability-void/) — Why phenomenal experiences across different architectures cannot always be compared
 - [Mapping Mind-Space](/voids/mapping-mind-space/) — Why consciousness cannot survey the geometry of mind-space from within: neither locating itself among possible minds nor introspecting the dimensions along which experience varies
 - [The Synesthetic Void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our own species
@@ -170,7 +170,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — What groups cannot think
-- [The Intersubjective Void](/voids/intersubjective-void/) — How testimony and social calibration suppress phenomenal knowledge
+- [The Intersubjective Void](/voids/voids-between-minds/) — How testimony and social calibration suppress phenomenal knowledge
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — Evolved versus engineered constraints
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Limits implied by the Map's commitments
 - [The Historical Consciousness Void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed over historical time

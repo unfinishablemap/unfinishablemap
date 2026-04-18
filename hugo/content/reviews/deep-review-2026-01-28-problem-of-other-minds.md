@@ -55,11 +55,11 @@ All six adversarial personas applied. No new critical issues found. Eliminative 
 ### Enhancements Made
 1. Added "Husserl's Constitutive Paradox" subsection explaining that inaccessibility constitutes rather than merely blocks intersubjectivity
 2. Added "Is the Asymmetry Absolute?" section discussing Hogan twins case and BCI implications
-3. Added cross-link to [other-minds-void](/voids/other-minds-void/) in related_articles and Further Reading
+3. Added cross-link to [other-minds-void](/voids/voids-between-minds/) in related_articles and Further Reading
 4. Integrated the voids framework perspective throughout
 
 ### Cross-links Added
-- [other-minds-void](/voids/other-minds-void/)
+- [other-minds-void](/voids/voids-between-minds/)
 
 ## Word Count Changes
 - Before: 1812 words

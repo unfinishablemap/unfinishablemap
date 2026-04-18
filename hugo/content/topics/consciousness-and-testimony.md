@@ -102,7 +102,7 @@ The danger of testimonial authority lies precisely in its phenomenal power. Beca
 
 ## Testimony Across the Intersubjective Void
 
-Testimony is an epistemic bridge across the [intersubjective void](/voids/intersubjective-void/) — the constitutive gap between one consciousness and another. When someone tells you what they experienced, their words carry information across an abyss that no physical measurement can fully bridge. The speaker converts phenomenal experience into linguistic form through the [consciousness-language interface](/topics/consciousness-and-language-interface/); the listener receives the linguistic form and reconstructs something of the phenomenal experience on their side.
+Testimony is an epistemic bridge across the [intersubjective void](/voids/voids-between-minds/) — the constitutive gap between one consciousness and another. When someone tells you what they experienced, their words carry information across an abyss that no physical measurement can fully bridge. The speaker converts phenomenal experience into linguistic form through the [consciousness-language interface](/topics/consciousness-and-language-interface/); the listener receives the linguistic form and reconstructs something of the phenomenal experience on their side.
 
 This process is imperfect and everyone knows it. The felt inadequacy of testimony about subjective experience — the sense that words cannot fully convey what pain, beauty, or terror is like — is itself a phenomenological datum. Testimony conveys real knowledge across the void, but the conveyance is inherently lossy because the phenomenal exceeds the propositional.
 
@@ -168,7 +168,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Meaning and conscious comprehension
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Shared consciousness and joint action
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How consciousness converts experience into language
-- [intersubjective-void](/voids/intersubjective-void/) — The constitutive gap between consciousnesses
+- [intersubjective-void](/voids/voids-between-minds/) — The constitutive gap between consciousnesses
 - [knowledge-argument](/concepts/knowledge-argument/) — What testimony cannot convey about phenomenal experience
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — Deciding without full information
 - [cumulative-culture](/concepts/cumulative-culture/) — How testimonial networks build civilisation
