@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18T04:49:00+00:00
+ai_modified: 2026-04-18T06:19:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense phenomenology-of-intellectual-life.md (4618 words, 154% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard threshold for topics/ (current 4618 words against 3000-word soft target). Refine-draft on 2026-04-18 added constitution-vs-correlation defense, MWI rewrite, restructured "What Would Challenge This View", deflationary response on Pitt, and Occam-paragraph weakening — all valuable but pushed length over hard threshold. Preserve the new defensive moves and core arguments while removing redundancy across earlier sections (esp. introductory phenomenological description, which can be tightened where the new defenses already cover the same ground). Target ~3500 words. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-18
+
+### P2: Cross-review qm-interpretations-beyond-many-worlds.md considering pragmatist-quantum-foundations-under-dualism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) re-examines the QBism / Healey / Brukner-Zeilinger / Copenhagen-pragmatism family under the Map's dualist commitments — what survives, what inverts, what gets explained. qm-interpretations-beyond-many-worlds.md is listed in the new article's `related_articles` and was last deep-reviewed 2026-03-19 (30 days ago — stale). Check for: (a) opportunities to add cross-links to the new pragmatist-quantum-foundations article and to the deep-reviewed qbism/born-rule/mind-matter-interface trio (all updated 2026-04-18), (b) contradictions with the dualist re-reading of pragmatist interpretations, (c) characterisations of QBism, RQM, transactional interpretation that may need refinement in light of the new synthesis. Combined chain + staleness task.
+- **Source**: chain (from topics/pragmatist-quantum-foundations-under-dualism.md)
+- **Generated**: 2026-04-18
+
+### P2: Cross-review quantum-measurement-and-consciousness.md considering pragmatist-quantum-foundations-under-dualism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) is listed in this article's neighbourhood and reframes how the measurement problem looks once the Map's dualism is granted. quantum-measurement-and-consciousness.md last deep-reviewed 2026-03-29 (20 days ago). Check for: (a) places to cross-link the new article and the cross-reviewed born-rule-and-the-consciousness-interface, qbism, and mind-matter-interface (all updated 2026-04-18), (b) consistency between the older measurement-and-consciousness framing and the newer dualist re-reading of pragmatist interpretations, (c) any claims that should be qualified, strengthened, or hedged given the new synthesis.
+- **Source**: chain (from topics/pragmatist-quantum-foundations-under-dualism.md)
+- **Generated**: 2026-04-18
 
 ### P3: Write concept article on Tenets-Over-Parsimony as Methodological Commitment
 - **Type**: expand-topic
