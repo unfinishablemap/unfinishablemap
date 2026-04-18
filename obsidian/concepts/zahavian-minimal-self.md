@@ -4,7 +4,7 @@ description: "Dan Zahavi defends a pre-reflective minimal self as the constituti
 created: 2026-04-18
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-18T11:17:00+00:00
+ai_modified: 2026-04-18T11:48:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-18
 last_curated:
+last_deep_review: 2026-04-18T11:48:00+00:00
 ---
 
 Dan Zahavi's **minimal self** is the pre-reflective first-personal givenness that every conscious experience already carries — the "for-me-ness" that makes an experience this subject's rather than anyone's or no one's. On Zahavi's phenomenological account, this minimal self is not something consciousness *has* alongside its contents; it is the structural form consciousness takes. The Unfinishable Map adopts this Zahavian position in preference to Thomas Metzinger's self-model theory, which treats selfhood as the content of a transparent representation that the brain generates and could in principle dismantle entirely. The distinction is load-bearing: arguments about ego-dissolution, meditative witnessing, indexical identity, and agency require a subject that the Metzinger framework does not supply, and that Zahavi's framework does.
@@ -73,7 +74,7 @@ The Map takes the Zahavian interpretation to better fit the actual first-person 
 
 Two further positions need separating from Zahavi's.
 
-**Galen Strawson's "thin subject" / Pearl view.** Strawson (2009) holds that subjects of experience do exist, but are thin and short-lived — each conscious moment has its own distinct subject, and these do not persist diachronically. This is closer to Zahavi than Metzinger is, but Strawson pushes further by denying that a single subject endures across the gaps in consciousness (sleep, anaesthesia, attention breaks). Zahavi's minimal self is explicitly synchronic and does not resolve the diachronic question; Strawson commits to a specific negative answer.
+**Galen Strawson's "thin subject" / Pearl view.** Strawson (2009) holds that subjects of experience exist but are thin and short-lived — each conscious moment has its own distinct subject, with no persistence across the gaps in consciousness (sleep, anaesthesia, attention breaks). This is closer to Zahavi than Metzinger is, but Strawson commits to a specific negative answer to the diachronic question that Zahavi treats with caution.
 
 **Hume's bundle theory.** Hume famously reported that when he introspected for the self, he found only perceptions, "never anything but the perception" (Hume 1739, I.IV.VI). This is often cited against the minimal self, but Zahavi's reply is diagnostic: Hume was looking for the self as a distinct *object* of introspection. The minimal self is not an object; it is the *subjective pole* of the very introspection Hume performed. Hume could not *find* the self for the same reason an eye cannot see itself seeing. This parallels the [[self-opacity|structural unobservability]] of the subject.
 
@@ -97,7 +98,7 @@ This is special pleading only if the prior commitments are themselves baseless. 
 
 ## Acknowledged Limits
 
-The Zahavian position has genuine limitations the Map takes seriously. Mādhyamaka Buddhist critics argue that even the minimal self is a subtle reification and that sustained analysis dissolves it alongside the narrative self (see [[buddhism-and-dualism]]). Sass and Parnas's clinical evidence on schizophrenic ipseity disturbance (discussed in [[clinical-phenomenology-and-altered-experience]]) suggests the minimal self admits of degrees — it can be attenuated, distorted, or partially disrupted. The Map resolves the tension with the earlier "constitutive" claim by distinguishing two questions: whether first-personal givenness is *structurally necessary in kind* (yes — there is no phenomenology that altogether lacks it without ceasing to be phenomenology) and whether it is *uniform in degree* (no — clinical and meditative evidence both suggest gradients). "Constitutive" is the kind-claim, not the degree-claim; a scalar feature can be structurally necessary if every value above zero counts as instantiation. The synchronic character of Zahavi's account also leaves the question of diachronic identity open, requiring the Map to supplement Zahavi with its own [[haecceity|haecceity]]-based commitments.
+The Zahavian position has genuine limitations the Map takes seriously. Mādhyamaka Buddhist critics argue that even the minimal self is a subtle reification and that sustained analysis dissolves it alongside the narrative self (see [[buddhism-and-dualism]]). Evan Thompson's contribution to *Self, No Self?* (Siderits, Thompson & Zahavi 2011) sharpens the disagreement: the question is whether for-me-ness is an irreducible structural feature or a persistent mode of cognitive clinging that contemplative practice can in principle relax. The Map adopts the Zahavian reading because of its fit with [[haecceity|haecceity]]-based commitments, while granting that under sustained Madhyamaka analysis for-me-ness may attenuate further than Zahavi's framing anticipates. Sass and Parnas's clinical evidence on schizophrenic ipseity disturbance (discussed in [[clinical-phenomenology-and-altered-experience]]) reinforces the same point from a different angle: the minimal self admits of degrees — it can be attenuated, distorted, or partially disrupted. The Map resolves the tension with the earlier "constitutive" claim by distinguishing two questions: whether first-personal givenness is *structurally necessary in kind* (yes — there is no phenomenology that altogether lacks it without ceasing to be phenomenology) and whether it is *uniform in degree* (no — clinical and meditative evidence both suggest gradients). "Constitutive" is the kind-claim, not the degree-claim; a scalar feature can be structurally necessary if every value above zero counts as instantiation. The synchronic character of Zahavi's account also leaves the question of diachronic identity open, requiring the Map to supplement Zahavi with its own [[haecceity|haecceity]]-based commitments.
 
 The Map does not treat Zahavi as the last word, only as the best current framing of the minimal-self position — and specifically the framing that coheres with the Map's broader commitments in a way Metzinger's cannot.
 
@@ -134,15 +135,4 @@ The Map does not treat Zahavi as the last word, only as the best current framing
 8. Sass, L. A., & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
 9. Siderits, M., Thompson, E., & Zahavi, D. (Eds.) (2011). *Self, No Self? Perspectives from Analytical, Phenomenological, and Indian Traditions*. Oxford University Press.
 10. Southgate, A. & Oquatre-six, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-04-18
-Changes made in response to pessimistic-2026-04-18b high-severity findings:
-- Added new section "Choice Under Metaphysical Commitment" between "Why the Map Requires…" and "Acknowledged Limits", explicitly conceding that the Zahavi/Metzinger choice is conditional on the Map's prior tenets rather than evidence-forced. Engages Metzinger's post-hoc-reconstitution counter directly (Issue 1).
-- Weakened the "self-model cannot be a causal agent; it is a representation" assertion. Now distinguishes "implicated in" agency from "the bearer of" agency, acknowledges cognitive science treats representations as causally implicated, and rests the claim on the dualist commitment (Issue 2). Mirrored fix in "Relation to Site Perspective" Bidirectional Interaction paragraph.
-- Resolved the constitutive-vs-scalar tension (Issue 8): "Constitutive, not contingent" now flagged as a kind-claim, not a degree-claim, with forward reference to "Acknowledged Limits"; that section now explicitly distinguishes structural-necessity-in-kind from uniformity-in-degree.
-
-Key improvements: Major weaknesses in justification structure addressed. Article now honest about the conditional character of its framework choice and no longer overstates the representation/agency claim.
-
-This log should be removed after human review.
--->
 
