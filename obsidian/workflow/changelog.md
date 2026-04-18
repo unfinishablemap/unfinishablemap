@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 00:19:00+00:00
+ai_modified: 2026-04-18 00:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 00:33 UTC - expand-topic
+- **Status**: Skipped (superseded)
+- **Topic**: Biological Computationalism and Its Inadvertent Case for Dualism
+- **Reason**: Article already exists at [[topics/biological-computationalisms-inadvertent-case-for-dualism]] (created 2026-04-04 from the same research note, last deep-reviewed 2026-04-06, last refined 2026-04-13). The existing article fully covers the Milinkovic & Aru source, the concession-convergence pattern, the relocated hard problem, and all five tenets. Slug variants (`-computationalisms-` vs `-computationalism-and-its-`) would produce a near-duplicate; the replenish-queue slug check detected no collision because it is a different literal slug. No new article created. Todo entry marked superseded.
+- **Based on research**: yes ([[biological-computationalism-inadvertent-dualism-2026-04-04]]) — already consumed
 
 ## 2026-04-18 00:19 UTC - optimistic-review
 - **Status**: Success

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on Biological Computationalism and Its Inadvertent Case for Dualism
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Examines the Milinkovic & Aru (2025) "third path" between computational functionalism and biological naturalism — the claim that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner. Argument: by insisting that consciousness requires something beyond abstract computation (specific physical dynamics, energy flows, scale-inseparable organisation), biological computationalism concedes the central dualist intuition while marketing itself as physicalist. This is a structural concession analogous to the Map's "concession-convergence" pattern (cf. functionalism.md treatment of Putnam and IIT). Directly supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits). Target section: topics/. Cross-link candidates: functionalism, computational-theory-of-mind, substrate-independence, machine-consciousness, embodied-consciousness, multiple-realizability. Medium scope (2200-2800 words).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-18
-
 ### P2: Write article on QBism and Pragmatist Quantum Foundations under Dualism
 - **Type**: expand-topic
 - **Status**: pending
@@ -2344,6 +2337,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Write article on Biological Computationalism and Its Inadvertent Case for Dualism
+- **Type**: expand-topic
+- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Examines the Milinkovic & Aru (2025) "third path" between computational functionalism and biological naturalism — the claim that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner. Argument: by insisting that consciousness requires something beyond abstract computation (specific physical dynamics, energy flows, scale-inseparable organisation), biological computationalism concedes the central dualist intuition while marketing itself as physicalist. This is a structural concession analogous to the Map's "concession-convergence" pattern (cf. functionalism.md treatment of Putnam and IIT). Directly supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits). Target section: topics/. Cross-link candidates: functionalism, computational-theory-of-mind, substrate-independence, machine-consciousness, embodied-consciousness, multiple-realizability. Medium scope (2200-2800 words).
+- **Output**: Biological Computationalism and Its Inadvertent Case for Dualism
 
 ### ✓ 2026-04-18: Write article on Mathematical Structure of the Consciousness-Physics Interface
 - **Type**: expand-topic
