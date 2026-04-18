@@ -4,7 +4,7 @@ description: "Even granting that consciousness can influence the brain, does the
 created: 2026-02-23
 modified: 2026-03-01
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-18T16:24:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-18T14:40:00+00:00
+last_deep_review: 2026-04-18T16:24:00+00:00
 ---
 
 The bandwidth problem in mental causation asks: even if consciousness *can* influence physical outcomes, can it carry enough information to produce the specific effects we observe? This challenge is distinct from Jaegwon Kim's [[causal-closure|causal exclusion]] argument, which questions whether mental causation occurs at all. The bandwidth problem grants that consciousness might influence the brain—then asks whether the mind-body channel has sufficient capacity and specificity to do useful causal work.
