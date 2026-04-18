@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write article on Mathematical Structure of the Consciousness-Physics Interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md. Addresses operator structures, collapse mechanisms, Hilbert space models, and why the Born rule's squared-amplitude form may encode interface constraints. Directly supports Tenet 2 (Minimal Quantum Interaction) — articulates the formal mathematical apparatus for how consciousness might select among quantum alternatives without violating measured statistics. Target section: topics/ (229/250, 21 slots remaining). Cross-link candidates: quantum-measurement-and-consciousness, the-measurement-problem-as-philosophical-problem, philosophical-stakes-of-spontaneous-collapse, born-rule-derivation-attempts, epistemology-of-mechanism-at-the-consciousness-matter-interface, consciousness-in-smeared-quantum-states. Medium scope (2200-2800 words). Priority elevated because this has been an unconsumed research note since 2026-03-14.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-18
+
+### P2: Write article on Biological Computationalism and Its Inadvertent Case for Dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/biological-computationalism-inadvertent-dualism-2026-04-04.md. Examines the Milinkovic & Aru (2025) "third path" between computational functionalism and biological naturalism — the claim that brains compute but in a substrate-dependent, metabolically grounded, hybrid discrete-continuous manner. Argument: by insisting that consciousness requires something beyond abstract computation (specific physical dynamics, energy flows, scale-inseparable organisation), biological computationalism concedes the central dualist intuition while marketing itself as physicalist. This is a structural concession analogous to the Map's "concession-convergence" pattern (cf. functionalism.md treatment of Putnam and IIT). Directly supports Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits). Target section: topics/. Cross-link candidates: functionalism, computational-theory-of-mind, substrate-independence, machine-consciousness, embodied-consciousness, multiple-realizability. Medium scope (2200-2800 words).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-18
+
+### P2: Write article on QBism and Pragmatist Quantum Foundations under Dualism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in research/qbism-pragmatist-quantum-foundations-2026-04-04.md. Existing concept page concepts/qbism.md and research notes on pragmatist philosophy of mind cover the components separately; the Map needs an article on the *intersection* — how Fuchs's debts to William James, the participatory realism programme, Healey's independent pragmatist interpretation, and the technical apparatus (SIC-POVMs, Dutch-book coherence) shape QBism's treatment of agents, probability, and reality, and where those commitments create openings for the Map's dualist project. Engages Tenet 2 (Minimal Quantum Interaction) and Tenet 4 (No Many Worlds): QBism's agent-centrality and rejection of MWI align with the Map, but its rejection of objective quantum states conflicts with the Map's collapse realism. Position the Map carefully against QBism. Target section: topics/. Cross-link candidates: qbism, quantum-measurement-and-consciousness, indexical-identity-quantum-measurement, pragmatisms-path-to-dualism, no-many-worlds-and-indexicality. Medium scope (2400-2800 words).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-18
+
+### P2: Cross-review acquaintance-void.md considering transformative-experience-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/transformative-experience-void.md (created 2026-04-17) develops Paul's framework for choices whose outcome value is structurally inaccessible from the pre-decision standpoint. The acquaintance-void article addresses the more general phenomenon of acquaintance knowledge that cannot be transferred propositionally. Review acquaintance-void.md for: (a) opportunities to cite transformative-experience-void as a paradigm case where acquaintance-failure has decision-theoretic consequences, (b) consistency on how the void is sealed (one-way vs doubly-sealed structure), (c) places where the new article's authenticity-constraint discussion sharpens or challenges existing claims about acquaintance. Add cross-links if warranted.
+- **Source**: chain (from voids/transformative-experience-void.md)
+- **Generated**: 2026-04-18
+
+### P2: Cross-review framework-void.md considering transformative-experience-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article voids/transformative-experience-void.md (created 2026-04-17) frames transformative experience as a void where one's *evaluative framework itself* shifts in ways the pre-transformation self cannot endorse. This connects directly to framework-void's territory (the inaccessibility of frameworks one does not yet inhabit). Review framework-void.md for: (a) opportunities to cite transformative-experience-void as a lived case of framework-shift (parenthood, religious conversion, terminal diagnosis), (b) consistency on whether framework-shifts are *purely* epistemic or also personally-transformative in Paul's sense, (c) cross-links between the two articles' treatments of decision under framework-incommensurability. Add cross-links if warranted.
+- **Source**: chain (from voids/transformative-experience-void.md)
+- **Generated**: 2026-04-18
+
 ### P3: Disentangle epistemic vs authenticity critiques in transformative-experience-void.md
 - **Type**: refine-draft
 - **Status**: pending
