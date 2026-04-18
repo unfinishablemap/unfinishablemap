@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review born-rule-and-the-consciousness-interface.md considering pragmatist-quantum-foundations-under-dualism
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) develops the normative Born rule reading characteristic of QBism and situates it within a dualist frame. Review topics/born-rule-and-the-consciousness-interface.md for (a) opportunities to cross-link to the new article, (b) whether the article's treatment of the Born rule's interpretational options should now reference the pragmatist alternative, (c) whether any arguments for the Born rule as interface specification are reinforced or complicated by the QBist agent-relativity reading. Add `[[pragmatist-quantum-foundations-under-dualism]]` wikilink.
-- **Source**: chain (from pragmatist-quantum-foundations-under-dualism.md)
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review biological-computationalism.md concept page considering biological-computationalisms-inadvertent-case-for-dualism
 - **Type**: cross-review
 - **Status**: pending
@@ -2349,6 +2342,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review born-rule-and-the-consciousness-interface.md considering pragmatist-quantum-foundations-under-dualism
+- **Type**: cross-review
+- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) develops the normative Born rule reading characteristic of QBism and situates it within a dualist frame. Review topics/born-rule-and-the-consciousness-interface.md for (a) opportunities to cross-link to the new article, (b) whether the article's treatment of the Born rule's interpretational options should now reference the pragmatist alternative, (c) whether any arguments for the Born rule as interface specification are reinforced or complicated by the QBist agent-relativity reading. Add `[[pragmatist-quantum-foundations-under-dualism]]` wikilink.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md -- Context: Cross-review born-rule-and-the-consciousness-interface.md considering pragmatist-quantum-foundations-under-dualism
 
 ### ✓ 2026-04-18: Cross-review qbism.md and pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
 - **Type**: cross-review

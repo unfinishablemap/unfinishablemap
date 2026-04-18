@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-04-15T16:06:00+00:00
+ai_modified: 2026-04-18T04:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,12 +35,13 @@ related_articles:
   - "[[trilemma-of-selection]]"
   - "[[many-worlds-argument]]"
   - "[[concepts/many-worlds]]"
+  - "[[pragmatist-quantum-foundations-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-04-11T08:57:00+00:00
+last_deep_review: 2026-04-18T04:33:00+00:00
 coalesced_from:
   - "/topics/born-rule-derivation-failures-consciousness-collapse/"
   - "/topics/born-rule-interpretation-invariance-consciousness/"
@@ -64,9 +65,9 @@ Beyond additivity, each derivation presupposes an observer. Decoherence explains
 
 **Deutsch-Wallace decision theory** (1999, 2010) shows rational agents in a branching Everettian universe must assign Born-rule credences. But the rationality axioms — measurement neutrality, branching indifference, diachronic consistency — are substantive philosophical claims, not consequences of physics. Critics (Baker 2007, Kent 2010, Albert 2010, Price 2010) argue they smuggle in the conclusion. Carroll and Sebens (2014) attempted a different MWI route via self-locating uncertainty, but as Friederich and Dawid note, the Epistemic Separability Principle it requires is itself a substantive assumption.
 
-**Zurek's envariance** (2003, 2005) appeals to symmetries of entangled states. Envariance is part of Zurek's broader [[quantum-darwinism-and-consciousness|quantum Darwinism]] programme, which explains how classical objectivity emerges through environmental selection of pointer states—yet even this full programme cannot derive the Born rule without probabilistic assumptions. Schlosshauer and Fine (2005) showed the auxiliary assumption extending from equal to unequal amplitudes is strong enough to yield the Born rule directly. Máttyus (2023) demonstrated that envariance conditions do not necessitate Born's rule for all measurements.
+**Zurek's envariance** (2003, 2005) appeals to symmetries of entangled states. Envariance belongs to Zurek's broader [[quantum-darwinism-and-consciousness|quantum Darwinism]] programme on environmental selection of pointer states—yet the programme cannot derive the Born rule without probabilistic assumptions. Schlosshauer and Fine (2005) showed the auxiliary assumption extending from equal to unequal amplitudes is strong enough to yield the Born rule directly. Máttyus (2023) demonstrated envariance conditions do not necessitate Born's rule for all measurements.
 
-**QBism** reframes the Born rule as a normative coherence constraint on an agent's credences, making the observer central by design. It avoids rather than solves the measurement problem — it does not explain why agents who violate the Born rule get wrong predictions.
+**QBism** reframes the Born rule as a normative coherence constraint on an agent's credences (DeBrota, Fuchs & Schack 2021), making the observer central by design. It avoids rather than solves the measurement problem — it does not explain why agents who violate the Born rule get wrong predictions. The [[pragmatist-quantum-foundations-under-dualism|pragmatist family]] reading treats this normativity as the structural surface of a dualist interface that QBism declines to posit.
 
 **Masanes-Galley-Müller** (2019) derives the Born rule from quantum postulates plus finite-dimensionality assumptions. But the operational axioms presuppose definite outcomes — relocating observer-dependence to the measurement postulate without eliminating it.
 
@@ -147,7 +148,7 @@ First, absence of a derivation is not proof that no derivation exists. Future wo
 
 Second, consciousness-collapse is not the only interpretation compatible with the Born rule's underivability. Bohmian mechanics, GRW/CSL, and retrocausal interpretations each relocate the explanatory burden rather than eliminating it, but the consciousness-collapse interpretation is not uniquely supported by the underivability pattern alone.
 
-Third, the Map's position does not predict specific deviations from the Born rule. It reinterprets what the rule means — interface structure rather than physical law — without changing what it predicts. This makes the position difficult to test empirically, a limitation shared by all quantum interpretations. The causal consistency result constrains the rule's form without explaining its existence. Even granting that the Born rule is the unique causally consistent probability assignment, the question of why there are definite outcomes with any probability at all remains open.
+Third, the Map's position does not predict specific deviations from the Born rule. It reinterprets what the rule means — interface structure rather than physical law — without changing what it predicts. This makes the position difficult to test empirically, a limitation shared by all quantum interpretations. The causal consistency result constrains the rule's form but not its existence: why there are definite outcomes with any probability at all remains open.
 
 ## Relation to Site Perspective
 
@@ -195,39 +196,41 @@ Third, the Map's position does not predict specific deviations from the Born rul
 
 8. Cramer, J. G. (1986). "The Transactional Interpretation of Quantum Mechanics." *Reviews of Modern Physics*, 58, 647–687.
 
-9. Diósi, L. (1987). "A Universal Master Equation for the Gravitational Violation of Quantum Mechanics." *Physics Letters A*, 120, 377–381.
+9. DeBrota, J. B., Fuchs, C. A. & Schack, R. (2021). "Born's Rule as a Quantum Extension of Bayesian Coherence." *Physical Review A*, 104, 022207.
 
-10. Dürr, D., Goldstein, S. & Zanghì, N. (1992). "Quantum Equilibrium and the Origin of Absolute Uncertainty." *Journal of Statistical Physics*, 67, 843–907.
+10. Diósi, L. (1987). "A Universal Master Equation for the Gravitational Violation of Quantum Mechanics." *Physics Letters A*, 120, 377–381.
 
-11. Finkelstein, D. (1963). "The Logic of Quantum Physics." *Transactions of the New York Academy of Sciences*, 25(6), 621–637.
+11. Dürr, D., Goldstein, S. & Zanghì, N. (1992). "Quantum Equilibrium and the Origin of Absolute Uncertainty." *Journal of Statistical Physics*, 67, 843–907.
 
-12. Ghirardi, G. C., Rimini, A. & Weber, T. (1986). "Unified Dynamics for Microscopic and Macroscopic Systems." *Physical Review D*, 34, 470.
+12. Finkelstein, D. (1963). "The Logic of Quantum Physics." *Transactions of the New York Academy of Sciences*, 25(6), 621–637.
 
-13. Gleason, A. M. (1957). "Measures on the Closed Subspaces of a Hilbert Space." *Journal of Mathematics and Mechanics*, 6, 885–893.
+13. Ghirardi, G. C., Rimini, A. & Weber, T. (1986). "Unified Dynamics for Microscopic and Macroscopic Systems." *Physical Review D*, 34, 470.
 
-14. Hartle, J. B. (1968). "Quantum Mechanics of Individual Systems." *American Journal of Physics*, 36(8), 704–712.
+14. Gleason, A. M. (1957). "Measures on the Closed Subspaces of a Hilbert Space." *Journal of Mathematics and Mechanics*, 6, 885–893.
 
-15. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
+15. Hartle, J. B. (1968). "Quantum Mechanics of Individual Systems." *American Journal of Physics*, 36(8), 704–712.
 
-16. Landsman, K. (2025). "The Born Rule — 100 Years Ago and Today." arXiv:2502.08545.
+16. Kastner, R. E. (2012). *The Transactional Interpretation of Quantum Mechanics: The Reality of Possibility*. Cambridge University Press.
 
-17. Masanes, L., Galley, T. D. & Müller, M. P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Physics*, 15, 1174–1177.
+17. Landsman, K. (2025). "The Born Rule — 100 Years Ago and Today." arXiv:2502.08545.
 
-18. Máttyus, E. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement." *Entropy*, 25(3), 435.
+18. Masanes, L., Galley, T. D. & Müller, M. P. (2019). "The measurement postulates of quantum mechanics are operationally redundant." *Nature Physics*, 15, 1174–1177.
 
-19. Penrose, R. (1996). "On Gravity's Role in Quantum State Reduction." *General Relativity and Gravitation*, 28, 581–600.
+19. Máttyus, E. (2023). "Environment-Assisted Invariance Does Not Necessitate Born's Rule for Quantum Measurement." *Entropy*, 25(3), 435.
 
-20. Schlosshauer, M. & Fine, A. (2005). "On Zurek's Derivation of the Born Rule." *Foundations of Physics*, 35, 197–213.
+20. Penrose, R. (1996). "On Gravity's Role in Quantum State Reduction." *General Relativity and Gravitation*, 28, 581–600.
 
-21. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
+21. Schlosshauer, M. & Fine, A. (2005). "On Zurek's Derivation of the Born Rule." *Foundations of Physics*, 35, 197–213.
 
-22. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636.
+22. Tonetto, B. "What Physics Actually Closes: Causal Closure, Quantum Indeterminacy, and the Interpretive Asymmetry." PhilArchive. https://philarchive.org/rec/TONWPA
 
-23. Valentini, A. (1991). "Signal-Locality, Uncertainty, and the Subquantum H-Theorem." *Physics Letters A*, 156, 5–11.
+23. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636.
 
-24. Wallace, D. (2010). "A Formal Proof of the Born Rule from Decision-Theoretic Assumptions." In S. Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
+24. Valentini, A. (1991). "Signal-Locality, Uncertainty, and the Subquantum H-Theorem." *Physics Letters A*, 156, 5–11.
 
-25. Zhang, J. (2026). "Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule." arXiv:2603.06211.
+25. Wallace, D. (2010). "A Formal Proof of the Born Rule from Decision-Theoretic Assumptions." In S. Saunders et al. (eds.), *Many Worlds?*, Oxford University Press.
 
-26. Zurek, W. H. (2005). "Probabilities from Entanglement, Born's Rule from Envariance." *Physical Review A*, 71, 052105.
+26. Zhang, J. (2026). "Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule." arXiv:2603.06211.
+
+27. Zurek, W. H. (2005). "Probabilities from Entanglement, Born's Rule from Envariance." *Physical Review A*, 71, 052105.
 

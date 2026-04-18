@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 04:18:00+00:00
+ai_modified: 2026-04-18 04:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 04:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Previous review**: [[reviews/deep-review-2026-04-11-born-rule-and-the-consciousness-interface|2026-04-11]] (review #13; cross-review triggered by new [[pragmatist-quantum-foundations-under-dualism]])
+- **Word count**: 3076 → 3100 (+24; 103% of 3000 soft threshold, same bracket as before)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing reciprocal cross-link to pragmatist article; missing DeBrota, Fuchs & Schack 2021 inline cite; missing bridge to dualist reading of QBism)
+- **Enhancements made**: 1 (bridging sentence linking QBism critique to pragmatist family reading; inline cite and References entry added; Zurek and final caveat paragraphs tightened to offset additions)
+- **Output**: [[reviews/deep-review-2026-04-18-born-rule-and-the-consciousness-interface]]
 
 ## 2026-04-18 04:18 UTC - deep-review
 - **Status**: Success
