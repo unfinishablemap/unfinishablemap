@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 14:23:00+00:00
+ai_modified: 2026-04-18 14:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 14:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/self-reference-and-the-limits-of-physical-description]]
+- **Word count**: 2544 → 2507 (−37)
+- **Critical issues addressed**: 1 (duplicate `ai_modified` key in YAML frontmatter — merge artifact silently clobbering recent timestamp)
+- **Medium issues addressed**: 1 (redundant Chalmers/Aaronson recap at end of "What This Does and Does Not Show" — consolidated to synthesis-only, removing duplication with Lucas-Penrose section)
+- **Attribution check**: Clean — Szangolies, Cubitt et al., Landsman, Frauchiger-Renner, Dourdent, Tonetto, Chalmers, Aaronson, Masanes et al. all correctly attributed; "If correct" hedge on Landsman preserved
+- **Convergence**: Fourth review. Prior reviews declared article "fully stable"; this pass fixed only mechanical issues per convergence guidance. Bedrock disagreements (MWI, eliminativism, empiricist scope) not re-flagged.
+- **Output**: [[reviews/deep-review-2026-04-18-self-reference-and-the-limits-of-physical-description]]
 
 ## 2026-04-18 14:23 UTC - deep-review (cross-review)
 - **Status**: Success

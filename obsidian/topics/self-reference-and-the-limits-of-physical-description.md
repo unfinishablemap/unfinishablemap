@@ -4,7 +4,7 @@ description: "Gödel's incompleteness and the quantum measurement problem share 
 created: 2026-03-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-04-18T14:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,8 +34,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-03-19T10:12:00+00:00
-ai_modified: 2026-03-24T19:24:00+00:00
+last_deep_review: 2026-04-18T14:38:00+00:00
 coalesced_from:
   - "/topics/self-reference-and-the-limits-of-physical-description/"
   - "/topics/godel-measurement-problem-analogy/"
@@ -109,7 +108,7 @@ Intellectual honesty requires marking the boundaries. The Lawvere unification sh
 
 What these results collectively accomplish is more modest but philosophically significant: they remove the most common objection to consciousness playing a role in quantum foundations. The objection — that physics is causally closed and leaves no room for non-physical influence — requires physics to be formally complete. It is not. The structural gap where consciousness might act is not a convenient philosophical fiction but a mathematically demonstrable feature of quantum theory's own architecture.
 
-The Penrose route — from Gödel through non-computability to [[quantum-consciousness|quantum gravity consciousness]] — remains contested. Chalmers (1995) showed that Penrose's secondary argument falters because the contradiction comes from self-knowledge assumptions, not computability assumptions. Aaronson (2006) argued that Penrose conflates computability with complexity, and that real questions about consciousness concern efficiency, not mathematical impossibility. These are valid criticisms of a specific argumentative path. They do not touch the broader structural point that formal systems face principled limits at self-description, and consciousness stands at precisely that boundary.
+The Chalmers and Aaronson criticisms discussed above are valid against a specific argumentative path — Penrose's route from Gödel through non-computability to [[quantum-consciousness|quantum gravity consciousness]]. They do not touch the broader structural point that formal systems face principled limits at self-description, and consciousness stands at precisely that boundary.
 
 ## Relation to Site Perspective
 
