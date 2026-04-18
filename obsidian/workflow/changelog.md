@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 05:03:00+00:00
+ai_modified: 2026-04-18 05:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 05:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Driver**: [[reviews/pessimistic-2026-04-18]] issues 2, 6, 7 + unsupported-claims (Stace/Katz, Mullis/PCR) + REBUS "mainstream" softening + intro/closer overclaim softening
+- **Changes**: distinguished meaningfulness/salience from richness/expansion in Neuroimaging Paradox; softened "predicts exactly this" → "is consistent with this pattern" in intro; softened "precisely what neuroimaging confirms" → "is consistent with what neuroimaging shows" in Huxley section; added new "Where the Accounts Could Diverge" subsection laying out three filter-vs-entropic candidate divergences (selective access, convergent phenomenology under divergent neural conditions, therapeutic durability); cited Zahavi 2014 for persisting-minimal-self claim and explicitly flagged Map's departure from Metzinger's eliminativism (added Buddhist/Madhyamaka qualifier); added Katz 1978 constructivist objection to Stace cross-cultural claim and narrowed argument to psychedelic data; qualified Mullis/PCR anecdote (set aside as disputed) and acknowledged selection bias in creative-output reports; softened "single most direct pharmacological challenge" → "a significant pharmacological challenge"; softened REBUS "mainstream computational neuroscience" → "influential model within predictive-processing neuroscience"; added Zahavi (2014) and Katz (1978) to references
+- **Published**: yes
 
 ## 2026-04-18 05:03 UTC - refine-draft
 - **Status**: Success
