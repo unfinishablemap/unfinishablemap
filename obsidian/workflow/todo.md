@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense phenomenology-of-intellectual-life.md (4618 words, 154% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/ (current 4618 words against 3000-word soft target). Refine-draft on 2026-04-18 added constitution-vs-correlation defense, MWI rewrite, restructured "What Would Challenge This View", deflationary response on Pitt, and Occam-paragraph weakening — all valuable but pushed length over hard threshold. Preserve the new defensive moves and core arguments while removing redundancy across earlier sections (esp. introductory phenomenological description, which can be tightened where the new defenses already cover the same ground). Target ~3500 words. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-18
-
 ### P2: Cross-review qm-interpretations-beyond-many-worlds.md considering pragmatist-quantum-foundations-under-dualism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2361,6 +2354,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Condense phenomenology-of-intellectual-life.md (4618 words, 154% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/ (current 4618 words against 3000-word soft target). Refine-draft on 2026-04-18 added constitution-vs-correlation defense, MWI rewrite, restructured "What Would Challenge This View", deflationary response on Pitt, and Occam-paragraph weakening — all valuable but pushed length over hard threshold. Preserve the new defensive moves and core arguments while removing redundancy across earlier sections (esp. introductory phenomenological description, which can be tightened where the new defenses already cover the same ground). Target ~3500 words. See /condense skill.
+- **Output**: obsidian/topics/phenomenology-of-intellectual-life.md
 
 ### ✓ 2026-04-18: Update wikilinks to coalesced convergence-as-evidence and questioning-as-evidence (→ voids-as-evidence)
 - **Type**: refine-draft

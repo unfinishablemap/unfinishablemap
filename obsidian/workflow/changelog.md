@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 06:24:00+00:00
+ai_modified: 2026-04-18 06:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 06:33 UTC - condense
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-intellectual-life]]
+- **Before**: 4618 words
+- **After**: 3104 words
+- **Reduction**: 33%
+- **Technique**: Tightened prose throughout; cut redundancy in Work of Reasoning (merged necessity paragraphs) and Evidence/Compulsion; compressed Click of Comprehension (Bergson aside, Kounios paragraph); cut Doubt paragraph from Belief Revision; merged Meaning Integration Problem and Unity of Thinking Subject into single section; major cut in Against Reduction (condensed Pitt/Prinz back-and-forth, Constitution-vs-Correlation, Schwitzgebel passage); trimmed Contemplative Evidence and Five Modes sections; tightened Relation to Site Perspective; cut Further Reading list from 34 to 20 essential entries; trimmed What Would Challenge into flowing paragraphs. Preserved opening summary, all five modes, tenet connections, core arguments.
 
 ## 2026-04-18 06:24 UTC - optimistic-review
 - **Status**: Success
