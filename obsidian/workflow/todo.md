@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Fix selection-efficacy contradiction in inverted-qualia.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-18c flagged the Bidirectional Interaction paragraph as incoherent: qualia-inversion is defined as behaviourally undetectable, but the article proposes qualia biasing quantum selection in the same scenario. Quantum selection reaching behaviour is what MQI requires; undetectable "selection" isn't doing causal work. Either commit to saying inverted qualia produce subtle detectable behavioural differences (accepting Hardin's bullet), or restrict the MQI link and admit inversion is a limiting case MQI does not cover. Also address the "begs the question" misapplication to Dennett (lines 140-ish), the unsupported "contemplative reports support qualia's reality" (contradicted by the article's own divergence caveat), and the triumphalist "None of these conditions are currently met" closing. See pessimistic-2026-04-18c.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-18
+
+### P2: Address futuricity, vividness→cause, and contemplative citations in prospective-memory.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-18c flagged three issues. (1) "Futuricity" is coined and treated as a discovered quale without argument; recast as a contested posit or produce a phenomenological argument for its distinctness from cognitive tagging (ideally via a dissociation case). (2) "Evidence that conscious vividness predicts behavioral effects suggests phenomenology isn't epiphenomenal decoration" conflates phenomenology causing behaviour with its neural correlates causing behaviour; add the distinction. (3) Contemplative claims ("advanced meditators report..." and the worry-obsession contrast) lack citations; supply sources or flag as anecdotal. (4) "Biological quantum effects demonstrate evolution can exploit quantum phenomena" smuggles from photosynthesis-style exploitation to coherent-superposition-for-choice; these are different. See pessimistic-2026-04-18c.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-18
+
+### P3: Address symmetry problem in Parsimony Void article
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-18c noted that the void-argument (parsimony bias filters correct-but-complex theories) supports every anti-parsimony view equally — panpsychism, Russellian monism, neutral monism — not dualism specifically. Add a paragraph conceding the symmetric consequence, and either commit to the broader view (the void rehabilitates a cluster of positions) or argue specifically why dualism is the view *most* penalised by parsimony bias. Also reconsider whether the Mach example cuts against the thesis as much as for it: Mach was overridden by data, and where data is unavailable the honest conclusion is underdetermination, not dualism. See pessimistic-2026-04-18c.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-18
+
 ### P2: Write article on the ~10 bits/s conscious processing bandwidth
 - **Type**: expand-topic
 - **Status**: pending
