@@ -86,7 +86,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The catalogue'
 
 **The Cognitive Architecture Family.** [[biological-cognitive-closure|Evolved cognitive limits]], [[formal-cognitive-limits|formal cognitive limits]], [[attention-and-consciousness|attention-created voids]], [[disappearance-voids|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. The [[recognition-void|Recognition Void's]] "inventory blindness" deepens this family. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Unlike the phenomenal core, the failure is specific to biological cognition, making [[non-human-minds-as-void-explorers|AI triangulation]] directly applicable.
 
-**The Framework Reflexivity Family.** The [[tenet-generated-voids|tenet-generated voids]], [[cartography-problem|cartography problem]], formal cognitive limits, [[recursion-void|recursion void]], and [[whether-real|question of whether voids are real]] share a self-referential structure. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
+**The Framework Reflexivity Family.** The [[tenet-generated-voids|tenet-generated voids]], [[apophatic-cartography|cartography problem]], formal cognitive limits, [[recursion-void|recursion void]], and [[whether-real|question of whether voids are real]] share a self-referential structure. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
 
 ### Shared Boundaries and Directional Convergence
 

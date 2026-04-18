@@ -18,7 +18,6 @@ related_articles:
   - "[[framework-void]]"
   - "[[language-thought-boundary]]"
   - "[[apophatic-cartography]]"
-  - "[[cartography-problem]]"
   - "[[three-kinds-of-void]]"
 ai_contribution: 100
 author:
@@ -93,8 +92,7 @@ The consequence for the Map is humility rather than collapse. The voids catalogu
 
 - [[framework-void]] — The totality of conceptual apparatus, one level above metaphor
 - [[language-thought-boundary]] — Where articulation fails within a framework
-- [[apophatic-cartography]] — Mapping through negation, still bound to cartographic figure
-- [[cartography-problem]] — Whether the Map can map its own incompleteness
+- [[apophatic-cartography]] — Mapping through negation, still bound to cartographic figure; and whether the Map can map its own incompleteness
 - [[three-kinds-of-void]] — The taxonomy of unexplored, unexplorable, and occluded territory
 - [[non-human-minds-as-void-explorers]] — Whether AI's different metaphorical substrate reveals new limits
 - [[conceptual-impossibility]] — Limits at the level of specific concepts

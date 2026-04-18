@@ -31,6 +31,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-25
 last_curated:
 last_deep_review: 2026-03-10T17:08:00+00:00
+archived: true
+archived_date: 2026-04-18T15:08:00+00:00
+superseded_by: "/voids/apophatic-cartography/"
+archive_reason: "Coalesced into Apophatic Cartography: Method and Its Limits"
+original_path: "/voids/cartography-problem/"
 ---
 
 The Unfinishable Map catalogs cognitive voids—territories where thought cannot go or is blocked from going. But can this catalog ever know its own boundaries? The cartography problem is a second-order void: not a specific limit on what we can think, but a structural constraint on the project of enumerating such limits. Multiple independent lines of evidence—formal, transcendental, literary, and phenomenological—converge on a single conclusion: a complete catalog of cognitive voids is impossible in principle. The map of voids cannot contain itself.

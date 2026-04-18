@@ -64,7 +64,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[compound-failure-signatures|Compound Failure Signatures]] — Using the structure of failure as data
 - [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[voids-as-evidence|Voids as Evidence]] — How the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
-- [[cartography-problem|The Cartography Problem]] — Whether a map of cognitive voids can map its own incompleteness
+- [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — The method of knowing through negation, and why any such catalog is constitutively incomplete
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — Why cognitive limits are preconditions for meaning, not merely obstacles
 

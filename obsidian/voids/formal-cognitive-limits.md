@@ -21,7 +21,7 @@ related_articles:
   - "[[whether-real]]"
   - "[[self-opacity]]"
   - "[[mathematical-void]]"
-  - "[[cartography-problem]]"
+  - "[[apophatic-cartography]]"
   - "[[compound-failure-signatures]]"
   - "[[concession-convergence-philosophy-of-mathematics]]"
   - "[[self-transcendence-void]]"
@@ -128,7 +128,7 @@ No AI, however powerful, escapes these limits for systems operating by Turing co
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** relates to the self-referential aspect of these limits. Contemplating them—grasping Gödel sentences, recognising what we cannot compute—demonstrates consciousness engaging with its own nature. If this produces genuine insight, mental causation occurs in the investigation itself.
 
-These limits differ from other voids in being *mathematically demonstrable*. However speculative other voids may be, this one has the backing of formal proof. The voids project faces these same limits—mapping all cognitive limits would require complete self-understanding, which the [[cartography-problem|cartography problem]] shows is impossible.
+These limits differ from other voids in being *mathematically demonstrable*. However speculative other voids may be, this one has the backing of formal proof. The voids project faces these same limits—mapping all cognitive limits would require complete self-understanding, which the [[apophatic-cartography|cartography problem]] shows is impossible.
 
 ## What Would Dissolve This Void?
 
@@ -143,7 +143,7 @@ The open question concerns whether this void constrains consciousness. Two devel
 - [[self-opacity|The Self-Reference Paradox]] — Obstacles to self-understanding
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural cognitive limits
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Can AI or alien minds probe beyond human cognitive limits?
-- [[cartography-problem|The Cartography Problem]] — Why the map of cognitive voids cannot contain itself
+- [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — Why the map of cognitive voids cannot contain itself, and the method of knowing through negation
 - [[consciousness-and-mathematics]] — The epistemology and phenomenology of mathematical understanding
 - [[concession-convergence-philosophy-of-mathematics]] — How formalism's Gödelian concession fits among four independent convergences
 

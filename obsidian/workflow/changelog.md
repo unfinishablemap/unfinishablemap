@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 14:55:00+00:00
+ai_modified: 2026-04-18 15:08:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 15:08 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/apophatic-cartography]] (target, expanded), [[voids/cartography-problem]] (archived)
+- **Target**: [[voids/apophatic-cartography]] — retitled "Apophatic Cartography: Method and Its Limits"
+- **Archived**: [[archive/voids/cartography-problem]]
+- **Rationale**: Both articles shared substantial philosophical machinery (Cusa's *docta ignorantia*, Wittgenstein on limits of language, McGinn's cognitive closure, cognitive diversity as partial remedy). apophatic-cartography presented the method; cartography-problem presented the meta-limit (Fine's second-order ignorance, Borges, convergent evidence). Merge unifies method and its constitutive incompleteness as complementary halves of a single cartographic investigation.
+- **Wikilink updates**: 6 active-content files updated to point to apophatic-cartography (taxonomy-of-voids, voids, voids-as-evidence, whether-real, metaphor-void, formal-cognitive-limits). Review/research historical files left unchanged.
+- **References to review**: none remaining in active content
 
 ## 2026-04-18 14:55 UTC - refine-draft
 - **Status**: Success
