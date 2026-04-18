@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-04-18T14:55:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -125,6 +125,14 @@ This explains the convergence across frameworks. Empiricists, phenomenologists, 
 
 The eliminativist response—if the self cannot be found, perhaps it does not exist—stumbles on its own terms. Hume could not make the bundle account work; Metzinger must explain why the transparent self-model produces *experienced* transparency rather than mere functional self-representation. The Map holds that elimination mistakes the limits of observation for evidence of absence. The self is not found through introspection for the same reason the eye is not found in the visual field: it is the condition of the search, not a possible result of it.
 
+## Constitutive as Kind, Not as Degree
+
+The constitutive thesis can seem to ignore clinical evidence that the subject-object asymmetry itself varies in strength. Sass and Parnas's studies of schizophrenic ipseity disturbance document patients whose first-personal givenness is attenuated, fragmented, or partially objectified — thoughts appearing as alien, the sense of being the one thinking wavering, self-reference producing intensified versions of the felt instabilities described above (Sass & Parnas 2003). Depersonalisation and dissociative states show similar scalar disruption. If self-opacity can be partially breached — or partially abandoned — under clinical conditions, how can it be constitutive of consciousness?
+
+The resolution applies the same move the Map uses for first-personal givenness more generally (see [[zahavian-minimal-self]] for the exemplar). The claim that the subject-object asymmetry is constitutive is a claim about *kind*, not uniformity of intensity. Clinical variation shows that the asymmetry can attenuate, distort, or destabilise — not that it fully dissolves while experience continues. Schizophrenic reports describe felt encounters with the breakdown itself; depersonalisation is reported *from* a subjective position even when that position feels unreal. Every value above zero counts as instantiation, and every reported case is reported from somewhere.
+
+What would undermine the constitutive reading is phenomenal life continuing fully *without* the asymmetry — an experience in which the subject-object distinction has not merely attenuated but been cleanly eliminated. Clinical and contemplative evidence to date supplies attenuations and destabilisations, not eliminations. Scalar variation in ipseity is compatible with the structural necessity of self-opacity, just as scalar variation in first-personal givenness is compatible with its constitutive role in phenomenality.
+
 ## What Would Challenge This View
 
 The constitutive thesis would be undermined if: a contemplative tradition demonstrated stable, articulable knowledge of the observing process itself (not merely its contents or absence); neuroscience captured the subjective perspective as such (not merely neural correlates); a formal proof showed self-modelling systems can achieve complete self-transparency without infinite regress; training produced genuine process-access (contemplatives reporting *how* thoughts arise, not just *that* they arise); direct neural intervention produced first-person observation of thought-generation; or the Libet timing gap proved methodological rather than structural.
@@ -192,3 +200,4 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 25. Schwitzgebel, E. (2008). "The unreliability of naive introspection." *Philosophical Review*, 117(2), 245-273.
 26. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy*. Nijhoff.
 27. Kounios, J., & Beeman, M. (2014). "The cognitive neuroscience of insight." *Annual Review of Psychology*, 65, 71-93.
+28. Sass, L. A., & Parnas, J. (2003). "Schizophrenia, consciousness, and the self." *Schizophrenia Bulletin*, 29(3), 427-444.

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 14:38:00+00:00
+ai_modified: 2026-04-18 14:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 14:55 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[concepts/cognitive-phenomenology]], [[concepts/phenomenal-consciousness]], [[voids/self-opacity]]
+- **Trigger**: Chain task from zahavian-minimal-self.md 11:17 UTC refinement — applying the constitutive-vs-scalar move to three articles flagged by optimistic-2026-04-18-afternoon as facing parallel clinical-variation objections
+- **Changes**: Added "Constitutive as Kind, Not as Degree" subsection to each article. Each subsection (a) states the kind-claim explicitly, (b) acknowledges the relevant clinical-variation evidence (attentional dissociation + Sass-Parnas ipseity disturbance for cognitive-phenomenology; anaesthesia gradations + minimally conscious states for phenomenal-consciousness; Sass-Parnas ipseity disturbance + depersonalisation for self-opacity), (c) explains why scalar variation does not undermine structural necessity, (d) cross-links to [[zahavian-minimal-self]] as the exemplar implementation
+- **References added**: Sass & Parnas (2003) to cognitive-phenomenology.md and self-opacity.md
+- **Attribution check**: Clean — Sass-Parnas clinical finding correctly described; no claim that Sass-Parnas themselves endorse the constitutive-vs-scalar metaphysical move (which is the Map's reading)
+- **Published**: yes
 
 ## 2026-04-18 14:38 UTC - deep-review
 - **Status**: Success

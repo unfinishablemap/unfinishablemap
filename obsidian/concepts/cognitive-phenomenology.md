@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-15T12:05:00+00:00
+ai_modified: 2026-04-18T14:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -254,6 +254,14 @@ A Buddhist critique applies: if cognitive phenomenology is "proprietary"—a dis
 
 The Map's position would face difficulty if: (1) neuroscience showed phenomenal contrasts in understanding reduce entirely to subtle sensory differences; (2) aphantasics reported *no* phenomenal character to understanding rather than different character; (3) contemplative training dissolved rather than clarified the appearance of cognitive phenomenology. Currently, none of these obtain.
 
+## Constitutive as Kind, Not as Degree
+
+A methodological clarification strengthens the liberal position against clinical-variation objections. Aphantasia, attentional dissociation, wide individual variation in introspective access, and Sass and Parnas's documentation of attenuated self-presence in schizophrenia all show that cognitive phenomenology admits of *degrees* — more or less vivid, more or less stable, partially disrupted in ipseity disturbance without disappearing entirely (Sass & Parnas 2003). Conservatives sometimes take this scalar evidence as grounds for scepticism about cognitive phenomenology as a category.
+
+The reply is that the liberal claim is one about *kind*, not uniformity of intensity. Cognitive phenomenology is constitutive of genuine understanding in the following sense: whenever a subject grasps a meaning, there is some phenomenal character to the grasping, and that character individuates thoughts with different contents. Every value above zero counts as instantiation; variation in degree is compatible with structural necessity. The exemplar treatment of this constitutive-vs-scalar distinction is in [[zahavian-minimal-self]], where first-personal givenness is defended as structurally necessary in kind while acknowledged as scalar in degree across clinical and meditative cases. The same move licenses liberalism here: a scalar feature can still be structurally necessary if every instantiation above zero counts as an instance of the kind.
+
+The conservative would need to produce not merely variation — liberalism predicts this — but a clear case of genuine understanding occurring with no phenomenal character whatsoever. Clinical variation supplies gradients, not cases of zero; gradients are what a scalar structural feature should produce.
+
 ## Relation to Site Perspective
 
 **[[tenets#^dualism|Dualism]]**: If cognitive phenomenology exists, not just sensory qualia but the experience of thinking resists reduction. If intentionality requires phenomenal character (the phenomenal intentionality thesis), meaning itself is irreducibly mental.
@@ -285,6 +293,7 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 1. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
 1. Metzinger, T. (2024). *The Elephant and the Blind: The Experience of Pure Consciousness*. MIT Press.
 1. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
+1. Sass, L. A., & Parnas, J. (2003). Schizophrenia, consciousness, and the self. *Schizophrenia Bulletin*, 29(3), 427-444.
 1. Siegel, S. (2010). *The Contents of Visual Experience*. Oxford University Press.
 1. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.

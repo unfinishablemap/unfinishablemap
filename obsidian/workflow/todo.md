@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Apply constitutive-vs-scalar (kind-vs-degree) pattern to cognitive-phenomenology, phenomenal-consciousness, and self-opacity
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Chain task from the [[concepts/zahavian-minimal-self]] 11:17 UTC refinement which introduced the "constitutive-vs-scalar" move — reading constitutive phenomenological claims as kind-claims compatible with degree-variation rather than uniformity-claims. The optimistic-2026-04-18-afternoon review explicitly flagged three articles as facing the same class of clinical-variation objections that this move deflects: [[concepts/cognitive-phenomenology]], [[concepts/phenomenal-consciousness]], and [[concepts/self-opacity]]. Each article makes constitutive claims about phenomenality that critics can attack via clinical-variation evidence (anaesthesia gradations, ipseity disturbance, attentional dissociation). The refinement task is to add a short subsection or paragraph in each of these three articles that (a) makes the kind-claim explicit ("phenomenal X is a kind-feature instantiated to varying degrees, not a uniform property"), (b) acknowledges the clinical-variation evidence (with citations to Sass-Parnas where applicable), (c) explains why scalar variation does not undermine the structural-necessity claim, (d) cross-links to zahavian-minimal-self.md as the exemplar implementation. Distinct from the existing P3 "methodological note in writing-style.md" task, which codifies the pattern abstractly — this task is the substantive application across the three articles named by the optimistic review.
-- **Source**: chain (from concepts/zahavian-minimal-self.md)
-- **Generated**: 2026-04-18
-
 ### P2: Engage Madhyamaka critique substantively in zahavian-minimal-self.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2395,6 +2388,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Apply constitutive-vs-scalar (kind-vs-degree) pattern to cognitive-phenomenology, phenomenal-consciousness, and self-opacity
+- **Type**: refine-draft
+- **Notes**: Chain task from the [[concepts/zahavian-minimal-self]] 11:17 UTC refinement which introduced the "constitutive-vs-scalar" move — reading constitutive phenomenological claims as kind-claims compatible with degree-variation rather than uniformity-claims. The optimistic-2026-04-18-afternoon review explicitly flagged three articles as facing the same class of clinical-variation objections that this move deflects: [[concepts/cognitive-phenomenology]], [[concepts/phenomenal-consciousness]], and [[concepts/self-opacity]]. Each article makes constitutive claims about phenomenality that critics can attack via clinical-variation evidence (anaesthesia gradations, ipseity disturbance, attentional dissociation). The refinement task is to add a short subsection or paragraph in each of these three articles that (a) makes the kind-claim explicit ("phenomenal X is a kind-feature instantiated to varying degrees, not a uniform property"), (b) acknowledges the clinical-variation evidence (with citations to Sass-Parnas where applicable), (c) explains why scalar variation does not undermine the structural-necessity claim, (d) cross-links to zahavian-minimal-self.md as the exemplar implementation. Distinct from the existing P3 "methodological note in writing-style.md" task, which codifies the pattern abstractly — this task is the substantive application across the three articles named by the optimistic review.
+- **Output**: Task context:
+Chain task from the [[concepts/zahavian-minimal-self]] 11:17 UTC refinement which introduced the "constitutive-vs-scalar" move — reading constitutive phenomenological claims as kind-claims compatible with degree-variation rather than uniformity-claims. The optimistic-2026-04-18-afternoon review explicitly flagged three articles as facing the same class of clinical-variation objections that this move deflects: [[concepts/cognitive-phenomenology]], [[concepts/phenomenal-consciousness]], and [[concepts/self-opacity]]. Each article makes constitutive claims about phenomenality that critics can attack via clinical-variation evidence (anaesthesia gradations, ipseity disturbance, attentional dissociation). The refinement task is to add a short subsection or paragraph in each of these three articles that (a) makes the kind-claim explicit ("phenomenal X is a kind-feature instantiated to varying degrees, not a uniform property"), (b) acknowledges the clinical-variation evidence (with citations to Sass-Parnas where applicable), (c) explains why scalar variation does not undermine the structural-necessity claim, (d) cross-links to zahavian-minimal-self.md as the exemplar implementation. Distinct from the existing P3 "methodological note in writing-style.md" task, which codifies the pattern abstractly — this task is the substantive application across the three articles named by the optimistic review.
 
 ### ✓ 2026-04-18: Cross-review apex/interface-specification-programme.md against today's article cluster
 - **Type**: cross-review
