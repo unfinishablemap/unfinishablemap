@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 09:20:00+00:00
+ai_modified: 2026-04-18 09:34:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 09:34 UTC - research-voids
+- **Status**: Success
+- **Topic**: Closure Types (Representational vs Psychological Cognitive Closure)
+- **Category**: Mixed — first-order methodological distinction, second-order Occluded meta-void (diagnosis from within is impossible)
+- **Output**: [[research/voids-closure-types-2026-04-18]]
+- **Key finding**: The Kriegel-Demircioglu-Vlerick debate carves a real structural divide between representational closure (mind lacks concept-forming procedures for P) and psychological closure (mind has the procedures but cannot grasp P); the Map has used this distinction informally across three voids articles but nowhere given it a dedicated entry, and the more interesting result is the second-order void — from within a mind, there is no reliable procedure for telling which type of closure one faces, making this itself a new named void for the catalogue.
 
 ## 2026-04-18 09:20 UTC - refine-draft
 - **Status**: Success (no-op)
