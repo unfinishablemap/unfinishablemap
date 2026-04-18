@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-04-15T16:06:00+00:00
+ai_modified: 2026-04-18T09:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[illusionism]]"
   - "[[concepts/many-worlds]]"
   - "[[observational-closure]]"
-  - "[[preemption]]"
+  - "[[delegatory-causation]]"
   - "[[entanglement-binding-hypothesis]]"
 related_articles:
   - "[[tenets]]"
@@ -82,7 +82,7 @@ Saad observes that existing dualist theories satisfy only some constraints. Epip
 
 ## Saad's Two Laws
 
-Delegatory dualism works through two laws that together define [[causal-delegation]]:
+Delegatory dualism works through two laws that together define [[delegatory-causation|causal delegation]]:
 
 ### The Subset Law*
 
@@ -96,7 +96,7 @@ Causal profiles are defined functionally. A physical brain state has a default c
 
 ### The Delegatory Law
 
-The central mechanism: when an experience is instantiated via profile-matching, the experience *[[preemption|preempts]]* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
+The central mechanism: when an experience is instantiated via profile-matching, the experience *[[delegatory-causation|preempts]]* the physical state's causal contributions. The physical state "delegates" its causal responsibilities to the experience:
 
 > **Delegatory Law**: "Whenever a subject instantiates an experiential property E and a physical property P such that E's causal profile is a subset of P's default causal profile, E's causal profile preempts the corresponding subset of P's default causal profile." (Saad 2025)
 
@@ -240,7 +240,7 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 
 ## Further Reading
 
-- [[preemption]] — The causal structure underlying delegation: one cause operates, the other is sidelined
+- [[delegatory-causation]] — The unified account of delegation, preemption, and default causal profile: one cause operates, the other is sidelined
 - [[interactionist-dualism]] — The Map's core position on mind-body interaction
 - [[mental-causation-and-downward-causation|mental causation]] — How consciousness causes physical effects
 - [[causal-closure]] — The closure objection and responses

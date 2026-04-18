@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 08:48:00+00:00
+ai_modified: 2026-04-18 09:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 09:05 UTC - refine-draft
+- **Status**: Success
+- **Scope**: Retarget stale wikilinks after the 2026-04-18 08:48 UTC coalesce merging [[concepts/causal-delegation]], [[concepts/default-causal-profile]], and [[concepts/preemption]] into [[concepts/delegatory-causation]]
+- **Files updated (22)**: concepts/{emergence, biological-computationalism, embodied-cognition, skill-delegation, observational-closure, luck-objection, mental-causation-and-downward-causation, interactionist-dualism, consciousness-as-amplifier, baseline-cognition, causal-closure, agent-causation, objections-to-interactionism}; topics/{born-rule-and-the-consciousness-interface, consciousness-and-the-authority-of-formal-systems, delegation-meets-quantum-selection, the-epiphenomenalist-threat, delegatory-dualism, invertebrate-consciousness-as-interface-test, evolutionary-case-for-mental-causation}; apex/{consciousness-and-agency, interface-specification-programme}
+- **Changes**: Replaced frontmatter list entries with `[[delegatory-causation]]` (deduping where multiple sub-concepts were listed); rewrote in-body wikilinks to `[[delegatory-causation|display text]]` preserving emphasis on mechanism ("causal delegation"), structure ("preempts"), or baseline ("default causal profile") as appropriate to each passage; consolidated redundant Further Reading bullets. Updated `apex_sources` in interface-specification-programme to point at the unified article.
+- **Published**: yes
 
 ## 2026-04-18 08:48 UTC - coalesce
 - **Status**: Success

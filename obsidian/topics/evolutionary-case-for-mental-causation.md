@@ -4,7 +4,7 @@ description: "Evolution provides significant evidence that consciousness causall
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-04-06T12:47:00+00:00
+ai_modified: 2026-04-18T09:05:00+00:00
 draft: false
 last_deep_review: 2026-04-02T01:45:00+00:00
 topics:
@@ -137,7 +137,7 @@ This is not a fringe objection. It is the default position in contemporary philo
 
 **The conceivability argument**: It seems conceivable that a physical duplicate of a conscious being could lack experience entirely (a [[philosophical-zombies|philosophical zombie]]). If this is genuinely conceivable, consciousness cannot be necessitated by physics alone. The physicalist must argue either that zombies are not conceivable on reflection or that conceivability does not track metaphysical possibility.
 
-**The causal closure problem**: If physics is causally closed—every physical event has a sufficient physical cause—then mental causation either reduces to physical causation or is overdetermined. The non-reductive physicalist must explain how mental properties can be genuinely causal without overdetermining their physical bases. This remains an active area of debate, with exclusion arguments (Kim, 1998) pressing the physicalist toward either reductionism or epiphenomenalism. The Map's preferred structural response is [[causal-delegation]]: experiences [[preemption|preempt]] the causal contributions of their underlying physical states rather than overdetermining them.
+**The causal closure problem**: If physics is causally closed—every physical event has a sufficient physical cause—then mental causation either reduces to physical causation or is overdetermined. The non-reductive physicalist must explain how mental properties can be genuinely causal without overdetermining their physical bases. This remains an active area of debate, with exclusion arguments (Kim, 1998) pressing the physicalist toward either reductionism or epiphenomenalism. The Map's preferred structural response is [[delegatory-causation|causal delegation]]: experiences [[delegatory-causation|preempt]] the causal contributions of their underlying physical states rather than overdetermining them.
 
 The Unfinishable Map's position is that the evolutionary argument provides necessary but not sufficient grounds for dualism. It establishes the causal efficacy that epiphenomenalism and eliminativism deny. The further step to non-physicality depends on the explanatory gap, conceivability arguments, and the difficulty of reconciling genuine mental causation with causal closure—arguments developed elsewhere in the Map.
 

@@ -4,7 +4,7 @@ description: "Six major challenges to dualism: pairing, conservation, parsimony,
 created: 2026-01-18
 modified: 2026-01-18
 human_modified: null
-ai_modified: 2026-03-28T11:23:00+00:00
+ai_modified: 2026-04-18T09:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,9 +21,8 @@ concepts:
   - "[[pairing-problem]]"
   - "[[luck-objection]]"
   - "[[delegatory-dualism]]"
-  - "[[preemption]]"
   - "[[observational-closure]]"
-  - "[[causal-delegation]]"
+  - "[[delegatory-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[dualism]]"
@@ -155,7 +154,7 @@ The Map's primary response: at quantum indeterminacies, P is *not* sufficient fo
 
 ### Response 4: Delegatory Preemption
 
-[[delegatory-dualism|Delegatory dualism]] (Saad, 2025) offers a response independent of quantum mechanics. When a physical brain state's default causal profile matches an experience's causal profile, the experience *[[preemption|preempts]]* the physical state's causal role through [[causal-delegation]]. Only one cause operates—the experience does the causal work while the physical state is sidelined. Saad also distinguishes *[[observational-closure|observational closure]]* from universal closure: mental causation need not violate what physics experiments detect.
+[[delegatory-dualism|Delegatory dualism]] (Saad, 2025) offers a response independent of quantum mechanics. When a physical brain state's default causal profile matches an experience's causal profile, the experience *[[delegatory-causation|preempts]]* the physical state's causal role through [[delegatory-causation|causal delegation]]. Only one cause operates—the experience does the causal work while the physical state is sidelined. Saad also distinguishes *[[observational-closure|observational closure]]* from universal closure: mental causation need not violate what physics experiments detect.
 
 ### Connection to the Luck Objection
 

@@ -4,7 +4,7 @@ description: "Biological computationalism holds that brains compute in a substra
 created: 2026-04-15
 modified: 2026-04-15
 human_modified:
-ai_modified: 2026-04-18T05:48:00+00:00
+ai_modified: 2026-04-18T09:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[integrated-information-theory]]"
   - "[[global-workspace-theory]]"
   - "[[panpsychism]]"
-  - "[[default-causal-profile]]"
+  - "[[delegatory-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
@@ -92,7 +92,7 @@ The **Dualism** tenet holds that consciousness is not reducible to physical proc
 
 The **Minimal Quantum Interaction** tenet suggests consciousness operates at quantum indeterminacies in biological systems. Biological computationalism's emphasis on substrate-specific dynamics—continuous fields, ion flows, electromagnetic interactions—places consciousness-relevant processing in the physical regime where quantum effects in biology have been demonstrated in specific systems (avian magnetoreception, photosynthetic energy transfer). Whether quantum effects extend to the neural processes biological computationalism highlights remains an open empirical question, but the framework's insistence on substrate specificity is at least compatible with a quantum-level interface for consciousness.
 
-The **Bidirectional Interaction** tenet requires consciousness to causally influence physical outcomes. Biological computationalism's central claim—that the algorithm is the substrate—means any non-physical influence on the substrate would simultaneously be influence on the computation. In terms of [[default-causal-profile|default causal profiles]], the substrate's physical causal repertoire *is* the computation's causal repertoire—so consciousness preempting a substrate state's default profile would directly alter what gets computed. The tight coupling of algorithm and substrate ensures that the Map's proposed mechanism (consciousness biasing quantum indeterminacies) would be computationally relevant rather than epiphenomenal.
+The **Bidirectional Interaction** tenet requires consciousness to causally influence physical outcomes. Biological computationalism's central claim—that the algorithm is the substrate—means any non-physical influence on the substrate would simultaneously be influence on the computation. In terms of [[delegatory-causation|default causal profiles]], the substrate's physical causal repertoire *is* the computation's causal repertoire—so consciousness preempting a substrate state's default profile would directly alter what gets computed. The tight coupling of algorithm and substrate ensures that the Map's proposed mechanism (consciousness biasing quantum indeterminacies) would be computationally relevant rather than epiphenomenal.
 
 The **No Many Worlds** tenet is supported by biological computationalism's insistence on substrate specificity. If consciousness depends on particular physical dynamics rather than abstract computation, indexical identity is tied to a specific substrate trajectory—not duplicated across branches.
 

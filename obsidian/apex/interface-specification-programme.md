@@ -3,7 +3,7 @@ title: "The Interface Specification Programme"
 created: 2026-03-15
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-03-31T00:38:00+00:00
+ai_modified: 2026-04-18T09:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,14 +34,14 @@ apex_sources:
   - topics/the-psychophysical-control-law
   - concepts/bandwidth-problem-mental-causation
   - concepts/control-theoretic-will
-  - concepts/causal-delegation
+  - concepts/delegatory-causation
   - topics/consciousness-and-causal-powers
   - topics/attention-and-the-consciousness-interface
 apex_last_synthesis: 2026-03-15T18:09:00+00:00
 apex_thesis: "Six converging lines of inquiry—the psychophysical control law, the bandwidth problem, control-theoretic will, causal delegation, the nature of causal powers, and attention disorders—collectively specify the mind-matter interface as a unified research programme rather than scattered philosophical speculation."
 ---
 
-The Unfinishable Map does not merely assert that consciousness influences the physical world. It is developing a specification of *how*. Across six distinct lines of inquiry—the [[the-psychophysical-control-law|psychophysical control law]], the [[bandwidth-problem-mental-causation|bandwidth problem]], [[control-theoretic-will|control-theoretic will]], [[causal-delegation|causal delegation]], the nature of [[consciousness-and-causal-powers|consciousness's causal powers]], and what [[attention-and-the-consciousness-interface|attention disorders reveal about the interface]]—a single architecture emerges. The mind-matter interface is a low-bandwidth, feedback-dependent control channel through which consciousness selects among brain-prepared alternatives without injecting energy or violating conservation laws. Each line of inquiry constrains this picture from a different direction: causal powers define what the interface can do, bandwidth defines how much it can carry, control theory specifies the operations it performs, causal delegation describes its causal structure, the psychophysical control law seeks its formal specification, and attention disorders reveal what happens when it breaks. Together they constitute not scattered observations but a unified research programme—one precise enough to generate predictions and honest enough to mark where specification remains incomplete.
+The Unfinishable Map does not merely assert that consciousness influences the physical world. It is developing a specification of *how*. Across six distinct lines of inquiry—the [[the-psychophysical-control-law|psychophysical control law]], the [[bandwidth-problem-mental-causation|bandwidth problem]], [[control-theoretic-will|control-theoretic will]], [[delegatory-causation|causal delegation]], the nature of [[consciousness-and-causal-powers|consciousness's causal powers]], and what [[attention-and-the-consciousness-interface|attention disorders reveal about the interface]]—a single architecture emerges. The mind-matter interface is a low-bandwidth, feedback-dependent control channel through which consciousness selects among brain-prepared alternatives without injecting energy or violating conservation laws. Each line of inquiry constrains this picture from a different direction: causal powers define what the interface can do, bandwidth defines how much it can carry, control theory specifies the operations it performs, causal delegation describes its causal structure, the psychophysical control law seeks its formal specification, and attention disorders reveal what happens when it breaks. Together they constitute not scattered observations but a unified research programme—one precise enough to generate predictions and honest enough to mark where specification remains incomplete.
 
 ## The Problem: From Commitment to Specification
 
@@ -89,7 +89,7 @@ Each operation is consistent with the ~10 bits/second bandwidth constraint. None
 
 ## The Causal Structure
 
-How does this control avoid the exclusion problem—the objection that if every physical event has a sufficient physical cause, consciousness is redundant? [[causal-delegation]] provides the causal structure. Drawing on Bradford Saad's delegatory dualism (2025), the Map proposes that when consciousness selects, the underlying physical state *delegates* its causal responsibilities to the experience. Pain causes wincing not alongside the brain state but instead of it. The physical state retains the capacity to cause the effect but does not exercise it—the experience preempts it.
+How does this control avoid the exclusion problem—the objection that if every physical event has a sufficient physical cause, consciousness is redundant? [[delegatory-causation|Causal delegation]] provides the causal structure. Drawing on Bradford Saad's delegatory dualism (2025), the Map proposes that when consciousness selects, the underlying physical state *delegates* its causal responsibilities to the experience. Pain causes wincing not alongside the brain state but instead of it. The physical state retains the capacity to cause the effect but does not exercise it—the experience preempts it.
 
 Delegation matters because it avoids both horns of the exclusion dilemma. Overdetermination (two sufficient causes for one effect) makes the mental cause redundant. Epiphenomenalism (consciousness does nothing) makes our reports about experience accidentally correct. Delegation preserves genuine mental causation through preemption: one cause operates, the other is sidelined, and no redundancy occurs.
 
@@ -162,7 +162,7 @@ This synthesis draws on:
 - [[the-psychophysical-control-law|The Psychophysical Control Law]] — What formal mapping connects conscious states to physical selection
 - [[bandwidth-problem-mental-causation|The Bandwidth Problem in Mental Causation]] — Whether the mind-body channel carries enough information for specific behaviour
 - [[control-theoretic-will|Control-Theoretic Will]] — Will as a low-bandwidth control signal governing neural dynamics
-- [[causal-delegation|Causal Delegation]] — How physical states hand off causal responsibilities to conscious experiences
+- [[delegatory-causation|Causal Delegation]] — How physical states hand off causal responsibilities to conscious experiences
 - [[consciousness-and-causal-powers|Consciousness and Causal Powers]] — The nature and scope of phenomenal influence on physical reality
 - [[attention-and-the-consciousness-interface|Attention and the Consciousness Interface]] — What ADHD, fatigue, and meditation deficits reveal about the interface
 

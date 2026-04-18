@@ -4,7 +4,7 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-04-17T07:15:00+00:00
+ai_modified: 2026-04-18T09:05:00+00:00
 last_deep_review: 2026-04-17T07:15:00+00:00
 draft: false
 topics:
@@ -121,7 +121,7 @@ Agent causation requires that mental states actually cause physical effects. But
 
 The Map offers two independent responses. The first denies causal closure at quantum indeterminacies. Physics provides necessary but not sufficient causes at these points. Consciousness selects among outcomes physics leaves undetermined, causing physical events without competing with physical causes. No overdetermination occurs because physics doesn't determine everything.
 
-The second draws on Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025): experiences *[[preemption|preempt]]* rather than overdetermine physical causes. Physical brain states have a default causal profile—the effects they *would* produce absent any experience. When an experience arises, it takes over this causal work. As Saad's analogy suggests: a major and a sergeant both order troops to advance, but the major's order preempts the sergeant's—one cause operates while the other is sidelined. Mental causation is genuine without requiring overdetermination. Saad's distinction between *universal* closure and *[[causal-closure|observational closure]]* parallels the Map's quantum framework: mental causation can be genuine without producing empirically detectable anomalies.
+The second draws on Bradford Saad's [[delegatory-dualism|delegatory dualism]] (2025): experiences *[[delegatory-causation|preempt]]* rather than overdetermine physical causes. Physical brain states have a default causal profile—the effects they *would* produce absent any experience. When an experience arises, it takes over this causal work. As Saad's analogy suggests: a major and a sergeant both order troops to advance, but the major's order preempts the sergeant's—one cause operates while the other is sidelined. Mental causation is genuine without requiring overdetermination. Saad's distinction between *universal* closure and *[[causal-closure|observational closure]]* parallels the Map's quantum framework: mental causation can be genuine without producing empirically detectable anomalies.
 
 [[clinical-neuroplasticity-evidence-for-bidirectional-causation|Clinical neuroplasticity]] provides suggestive empirical support for these philosophical arguments. Schwartz's cognitive protocol for OCD found normalisation of caudate nucleus metabolism—through intentional mental activity rather than pharmacological intervention—though the original study was small (18 participants), unreplicated independently, and the four-step method shares core elements with standard exposure-response prevention therapy. Meta-analyses reveal that CBT and medication achieve comparable outcomes through *different neural pathways*: top-down cortical-to-limbic versus bottom-up neurochemical. This pathway divergence bears directly on the exclusion argument—if mental causation were merely physical causation redescribed, psychological and pharmacological interventions should converge on the same neural route. The physicalist can reply that different physical inputs (verbal instructions vs. serotonin reuptake inhibition) naturally take different physical routes, but must explain why the directional asymmetry is so consistent across conditions.
 

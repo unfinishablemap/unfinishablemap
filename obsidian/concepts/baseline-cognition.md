@@ -4,7 +4,7 @@ description: "Baseline cognition is what neural systems achieve without consciou
 created: 2026-01-22
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-04-15T08:41:00+00:00
+ai_modified: 2026-04-18T09:05:00+00:00
 last_deep_review: 2026-03-26T11:32:00+00:00
 draft: false
 topics:
@@ -31,7 +31,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[attention-as-interface]]"
   - "[[counterfactual-reasoning]]"
-  - "[[causal-delegation]]"
+  - "[[delegatory-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[interactionist-dualism]]"
@@ -145,7 +145,7 @@ The baseline cognition framework supports the [[tenets#^bidirectional-interactio
 2. Capacities requiring conscious processing should be absent or severely limited
 3. The gap should track consciousness-dependent operations specifically
 
-This is what we observe. Great apes excel within baseline cognition and fail systematically where consciousness appears required. One explanation consistent with this evidence: consciousness does the amplifying work. [[delegatory-dualism|Delegatory dualism]] provides the causal structure for how this works without overdetermination: physical brain states [[causal-delegation|delegate]] their causal responsibilities to conscious experiences, which then do the actual causing through [[preemption]] rather than redundant dual causation.
+This is what we observe. Great apes excel within baseline cognition and fail systematically where consciousness appears required. One explanation consistent with this evidence: consciousness does the amplifying work. [[delegatory-dualism|Delegatory dualism]] provides the causal structure for how this works without overdetermination: physical brain states [[delegatory-causation|delegate]] their causal responsibilities to conscious experiences, which then do the actual causing through [[delegatory-causation|preemption]] rather than redundant dual causation.
 
 ## The Illusionist Challenge
 
@@ -193,7 +193,7 @@ The baseline cognition hypothesis could be undermined by:
 
 **Dualism**: If consciousness amplifies baseline cognition—contributing something neural processing alone cannot achieve—then consciousness has causal powers not derivable from physics.
 
-**Bidirectional Interaction**: The framework specifies *what* consciousness contributes: flexible deployment, metacognitive monitoring, metarepresentation, counterfactual simulation. [[causal-delegation|Causal delegation]] explains *how* this avoids overdetermination.
+**Bidirectional Interaction**: The framework specifies *what* consciousness contributes: flexible deployment, metacognitive monitoring, metarepresentation, counterfactual simulation. [[delegatory-causation|Causal delegation]] explains *how* this avoids overdetermination.
 
 **Minimal Quantum Interaction**: Consciousness might bias which neural patterns become actual through quantum selection, though classical attention-based selection could produce similar effects.
 

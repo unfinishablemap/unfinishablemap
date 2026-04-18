@@ -4,7 +4,7 @@ description: "Consciousness is the paradigm case of strong emergence: genuinely 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-18T07:49:00+00:00
+ai_modified: 2026-04-18T09:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -71,7 +71,7 @@ Jaegwon Kim's exclusion argument is the most influential contemporary challenge 
 3. Mental causes don't systematically overdetermine physical events alongside physical causes
 4. Therefore, mental causes just *are* physical causes (reductionism)
 
-For strong emergentists—and dualists—this forces a choice: deny that consciousness has causal powers ([[concepts/epiphenomenalism]]), or deny that physics is causally closed. A third option is [[causal-delegation]]: the physical state delegates its causal work to the experience via [[preemption]], avoiding overdetermination while preserving mental causation.
+For strong emergentists—and dualists—this forces a choice: deny that consciousness has causal powers ([[concepts/epiphenomenalism]]), or deny that physics is causally closed. A third option is [[delegatory-causation|causal delegation]]: the physical state delegates its causal work to the experience via [[delegatory-causation|preemption]], avoiding overdetermination while preserving mental causation.
 
 Kim himself diagnosed the dilemma facing his own argument: the causal closure principle must be neither too strong (begging the question by assuming physicalism) nor too weak (trivially allowing mental causation). Finding this balance proves difficult.
 

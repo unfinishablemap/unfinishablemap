@@ -4,7 +4,7 @@ description: "Epiphenomenalism isn't just one view among many—it's the default
 created: 2026-02-22
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-18T09:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -152,7 +152,7 @@ Genuine escape requires denying the source of the pull: the causal completeness 
 
 The Unfinishable Map rejects this premise. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds that physics is *incomplete* at quantum indeterminacies—not merely epistemically (we don't know the cause) but ontologically (there is no sufficient physical cause). The [[self-reference-and-the-limits-of-physical-description|formal case for this incompleteness]] runs deeper than quantum stochasticity: category-theoretic results show that self-referential formal systems face principled limits on complete self-description. At these openings, consciousness biases which quantum outcomes actualize, selecting among physically permissible alternatives without injecting energy or violating [[conservation-laws-and-mental-causation|conservation laws]]. The result satisfies [[observational-closure]]—physics appears complete wherever we can check, because the mechanism operates within the probability distributions physics already permits.
 
-The framework escapes because it denies step 2 of the pattern. Physical events do *not* always have sufficient physical causes. Kim's exclusion argument does not apply where physics is incomplete—there is no physical cause to exclude the mental one. Bradford Saad's [[causal-delegation]] provides the complementary structural account: the physical state retains the *capacity* to cause the effect but does not exercise it, because the experience has taken over through [[preemption]]. The [[agent-causation|agent-causal framework]] strengthens this: consciousness exercises causal powers at quantum openings through a mode of causation that is irreducibly agentive, not event-causal.
+The framework escapes because it denies step 2 of the pattern. Physical events do *not* always have sufficient physical causes. Kim's exclusion argument does not apply where physics is incomplete—there is no physical cause to exclude the mental one. Bradford Saad's [[delegatory-causation|causal delegation]] provides the complementary structural account: the physical state retains the *capacity* to cause the effect but does not exercise it, because the experience has taken over through [[delegatory-causation|preemption]]. The [[agent-causation|agent-causal framework]] strengthens this: consciousness exercises causal powers at quantum openings through a mode of causation that is irreducibly agentive, not event-causal.
 
 This escape depends on a collapse interpretation. Under [[tenets#^no-many-worlds|many-worlds]], every quantum outcome actualizes—there are no undetermined outcomes for consciousness to select among. The Map's No Many Worlds tenet is not a separate preference; it is a structural requirement for maintaining escape velocity. See [[many-worlds-argument|Against Many-Worlds]] for the full argument.
 
@@ -226,7 +226,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[metaproblem-of-consciousness-under-dualism]] — Why positions in the gravity well fail the metaproblem diagnostic
 - [[dualism]] — The broader argument for taking consciousness as irreducible
 - [[observational-closure]] — Why the quantum mechanism is empirically invisible by design
-- [[causal-delegation]] — How experiences take over causal work from physical states without overdetermination
+- [[delegatory-causation]] — How experiences take over causal work from physical states without overdetermination
 
 ## References
 

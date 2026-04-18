@@ -4,7 +4,7 @@ description: "Causal closure claims every physical event has sufficient physical
 created: 2026-01-14
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-04-10T23:56:00+00:00
+ai_modified: 2026-04-18T09:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,10 +22,9 @@ concepts:
   - "[[mental-causation-and-downward-causation]]"
   - "[[reductionism]]"
   - "[[delegatory-dualism]]"
-  - "[[preemption]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[conservation-laws-and-mental-causation]]"
-  - "[[causal-delegation]]"
+  - "[[delegatory-causation]]"
   - "[[observational-closure]]"
   - "[[physical-completeness]]"
 related_articles:
@@ -116,7 +115,7 @@ Bradford Saad (2025) identifies a crucial distinction—[[observational-closure]
 
 Universal closure entails observational closure, but not vice versa. Physics might be incomplete in domains beyond observation—such as the consciousness-physics interface—while appearing complete where we can check. The empirical evidence only supports observational closure, exposing an equivocation in the exclusion argument: it needs universal closure, but the evidence provides only observational closure.
 
-Mental causation can satisfy observational closure through converging mechanisms: statistical invisibility within quantum noise, [[causal-delegation|causal profile matching]] via [[preemption]], and operation only at quantum indeterminacies where physics is already incomplete. See [[observational-closure]] for full treatment of these mechanisms and responses to the unfalsifiability, epiphenomenalism, and domain-specification objections. The upshot: dualists need only respect observational closure, not universal closure. [[delegatory-dualism|Saad's delegatory framework]] develops the strongest version: experiences preempt rather than overdetermine physical causation.
+Mental causation can satisfy observational closure through converging mechanisms: statistical invisibility within quantum noise, [[delegatory-causation|causal profile matching]] via [[delegatory-causation|preemption]], and operation only at quantum indeterminacies where physics is already incomplete. See [[observational-closure]] for full treatment of these mechanisms and responses to the unfalsifiability, epiphenomenalism, and domain-specification objections. The upshot: dualists need only respect observational closure, not universal closure. [[delegatory-dualism|Saad's delegatory framework]] develops the strongest version: experiences preempt rather than overdetermine physical causation.
 
 ### Empirical Status
 
@@ -203,7 +202,7 @@ This is not "god of the gaps" reasoning. Physics *describes* a gap—between qua
 - [[conservation-laws-and-mental-causation]] — Why the energy conservation objection fails; selection-not-injection framework and precedents for causation without energy transfer
 - [[observational-closure]] — Why the empirical evidence supports only observational, not universal, closure
 - [[delegatory-dualism]] — Saad's framework avoiding overdetermination through preemption
-- [[causal-delegation]] — The mechanism by which physical states hand off causal work to experiences
+- [[delegatory-causation]] — The mechanism by which physical states hand off causal work to experiences
 - [[luck-objection]] — The challenge that undetermined choices are merely random; consciousness-as-selector response
 - [[mysterianism]] — Why the mechanism of mind-matter interaction may exceed human comprehension
 - [[self-reference-and-the-limits-of-physical-description]] — Formal incompleteness arguments (Gödel, Lawvere, Cubitt) undermining the assumption of complete physical explanation
