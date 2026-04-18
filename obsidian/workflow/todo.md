@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address futuricity, vividness→cause, and contemplative citations in prospective-memory.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-18c flagged three issues. (1) "Futuricity" is coined and treated as a discovered quale without argument; recast as a contested posit or produce a phenomenological argument for its distinctness from cognitive tagging (ideally via a dissociation case). (2) "Evidence that conscious vividness predicts behavioral effects suggests phenomenology isn't epiphenomenal decoration" conflates phenomenology causing behaviour with its neural correlates causing behaviour; add the distinction. (3) Contemplative claims ("advanced meditators report..." and the worry-obsession contrast) lack citations; supply sources or flag as anecdotal. (4) "Biological quantum effects demonstrate evolution can exploit quantum phenomena" smuggles from photosynthesis-style exploitation to coherent-superposition-for-choice; these are different. See pessimistic-2026-04-18c.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-18
-
 ### P3: Address symmetry problem in Parsimony Void article
 - **Type**: refine-draft
 - **Status**: pending
@@ -2388,6 +2381,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Address futuricity, vividness→cause, and contemplative citations in prospective-memory.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-18c flagged three issues. (1) "Futuricity" is coined and treated as a discovered quale without argument; recast as a contested posit or produce a phenomenological argument for its distinctness from cognitive tagging (ideally via a dissociation case). (2) "Evidence that conscious vividness predicts behavioral effects suggests phenomenology isn't epiphenomenal decoration" conflates phenomenology causing behaviour with its neural correlates causing behaviour; add the distinction. (3) Contemplative claims ("advanced meditators report..." and the worry-obsession contrast) lack citations; supply sources or flag as anecdotal. (4) "Biological quantum effects demonstrate evolution can exploit quantum phenomena" smuggles from photosynthesis-style exploitation to coherent-superposition-for-choice; these are different. See pessimistic-2026-04-18c.md.
+- **Output**: obsidian/concepts/prospective-memory.md
+
+Task context:
+Pessimistic review 2026-04-18c flagged three issues. (1) "Futuricity" is coined and treated as a discovered quale without argument; recast as a contested posit or produce a phenomenological argument for its distinctness from cognitive tagging (ideally via a dissociation case). (2) "Evidence that conscious vividness predicts behavioral effects suggests phenomenology isn't epiphenomenal decoration" conflates phenomenology causing behaviour with its neural correlates causing behaviour; add the distinction. (3) Contemplative claims ("advanced meditators report..." and the worry-obsession contrast) lack citations; supply sources or flag as anecdotal. (4) "Biological quantum effects demonstrate evolution can exploit quantum phenomena" smuggles from photosynthesis-style exploitation to coherent-superposition-for-choice; these are different. See pessimistic-2026-04-18c.md.
 
 ### ✓ 2026-04-18: Fix selection-efficacy contradiction in inverted-qualia.md
 - **Type**: refine-draft

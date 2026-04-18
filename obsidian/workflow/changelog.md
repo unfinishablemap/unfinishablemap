@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 19:38:00+00:00
+ai_modified: 2026-04-18 20:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 20:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/prospective-memory]]
+- **Source review**: [[reviews/pessimistic-2026-04-18c]]
+- **Changes**: Recast the "Futuricity: The Temporal Quale" section as "Futuricity: A Contested Posit" — the article now presents futuricity as a theoretical posit and sketches the dissociation-case research programme (déjà vu/jamais vu, depersonalisation states, "feels past" anticipations) required to establish it as a distinct quale rather than a cognitive tag, with explicit consequences if the posit fails. Softened the Illusionist Challenge responses so "introspective stability" and the asymmetry argument no longer read as decisive against modern diagnostic illusionism. Reworked "Future Simulation Influences Decisions" to distinguish phenomenology-causing-behaviour from neural-correlates-causing-behaviour via the two-picture formulation (a) vs (b), noting the behavioural literature cannot separate them and that the Map's preference rests on tenet-level commitments not on the EFT data. Mirrored the softening in the Occam's Razor tenet-alignment paragraph. Flagged the Contemplative Evidence section as anecdotal/hypothesis-level with a prefatory paragraph and rewrote each sub-item to drop uncited "advanced meditators report" appeals. Reworked the MQI tenet paragraph to admit decoherence is unresolved and to distinguish photosynthesis/magnetoreception-style biological quantum effects (femtosecond energy-transfer optimisation) from the required case (persistent coherent superposition as a macroscopic-selection substrate); now frames MQI as a programmatic commitment, not established physics.
+- **Published**: yes
 
 ## 2026-04-18 19:38 UTC - refine-draft
 - **Status**: Success

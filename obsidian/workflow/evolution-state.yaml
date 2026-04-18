@@ -1,6 +1,6 @@
-last_updated: '2026-04-18T18:37:19.892430+00:00'
-session_count: 6066
-cycle_position: 5694
+last_updated: '2026-04-18T19:37:19.893110+00:00'
+session_count: 6067
+cycle_position: 5695
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T18:37:19.892430+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-18T15:08:35.860047+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-18T19:38:40.149611+00:00'
+  agentic-social: '2026-04-18T20:38:11.591813+00:00'
 last_git_push: '2026-04-18T16:37:13.472592+00:00'
 last_tweet_date: '2026-04-18'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/voids/meta-epistemology-of-limits.md)
-  type: condense
-  date: '2026-04-18'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-04-18'
@@ -135,9 +131,17 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-04-18'
   outcome: success
+- task: 'refine-draft (obsidian/concepts/inverted-qualia.md
+
+
+    Task context)'
+  type: refine-draft
+  date: '2026-04-18'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/decoherence/
-    date: '2026-04-18T19:38:40.149583+00:00'
+  - url: https://unfinishablemap.org/concepts/global-workspace-theory/
+    date: '2026-04-18T20:38:11.591779+00:00'
     topics:
     - hard-problem-of-consciousness
+    - ai-consciousness
