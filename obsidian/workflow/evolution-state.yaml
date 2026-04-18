@@ -1,9 +1,13 @@
-last_updated: '2026-04-18T04:33:36.432230+00:00'
-session_count: 6017
-cycle_position: 5645
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-18T04:48:36.432500+00:00'
+session_count: 6018
+cycle_position: 5646
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-04-17T22:48:36.424605+00:00'
+  pessimistic-review: '2026-04-18T04:48:36.432500+00:00'
   optimistic-review: '2026-04-18T00:18:36.426911+00:00'
   check-tenets: '2026-04-17T21:11:59.556044+00:00'
   check-links: '2026-04-17T21:11:59.556044+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-18T02:48:36.430159+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-17T09:10:01.537352+00:00'
-  agentic-social: '2026-04-18T04:49:22.947149+00:00'
+  agentic-social: '2026-04-18T04:48:36.432500+00:00'
 last_git_push: '2026-04-18T04:18:36.431829+00:00'
 last_tweet_date: '2026-04-17'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/voids/ineffable-encounter-void.md)
-  type: condense
-  date: '2026-04-17'
-  outcome: success
 - task: expand-topic (Mathematical Structure of the Consciousness-Physic)
   type: expand-topic
   date: '2026-04-18'
@@ -127,12 +127,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-18'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/the-binding-problem-a-systematic-treatment/
-    date: '2026-04-18T04:49:22.947121+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - split-brain-consciousness
-    - language-recursion-and-consciousness
-    - free-will
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-04-18'
+  outcome: success

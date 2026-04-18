@@ -1,13 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 04:18:00+00:00
+ai_modified: 2026-04-18 05:03:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-18'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-18 05:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
+- **Driver**: [pessimistic-2026-04-18](/reviews/pessimistic-2026-04-18/) issues 1, 3, 5, 8, 9
+- **Changes**: added constitution-vs-correlation defense in "Against Reduction"; rewrote MWI paragraph to address amplitude/indexical issue; restructured "What Would Challenge This View" with genuine-risk vs partially-insulated sections; added deflationary-response paragraph on Pitt (Prinz/Carruthers, aphantasia); weakened self-stultification sentence in Occam paragraph to avoid question-begging; softened "cannot be translated into any assertion" and closer
+- **Published**: yes
+
+## 2026-04-18 04:49 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: `topics/phenomenology-of-intellectual-life.md`, `topics/psychedelics-and-the-filter-model.md`, `topics/william-james-consciousness.md`
+- **Output**: [pessimistic-2026-04-18](/reviews/pessimistic-2026-04-18/)
+
+## 2026-04-18 04:33 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Previous review**: [2026-04-11](/reviews/deep-review-2026-04-11-born-rule-and-the-consciousness-interface/) (review #13; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/))
+- **Word count**: 3076 → 3100 (+24; 103% of 3000 soft threshold, same bracket as before)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (missing reciprocal cross-link to pragmatist article; missing DeBrota, Fuchs & Schack 2021 inline cite; missing bridge to dualist reading of QBism)
+- **Enhancements made**: 1 (bridging sentence linking QBism critique to pragmatist family reading; inline cite and References entry added; Zurek and final caveat paragraphs tightened to offset additions)
+- **Output**: [deep-review-2026-04-18-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-04-18-born-rule-and-the-consciousness-interface/)
 
 ## 2026-04-18 04:18 UTC - deep-review
 - **Status**: Success

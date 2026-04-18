@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic-review findings for phenomenology-of-intellectual-life.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-18 found: (1) PCT asserted as "constitutes" without positive argument against weaker correlation claim — either weaken or defend the constitution step vs parsimony; (2) MWI subsection confuses branch-weighting and should be rewritten or dropped (branches with invalid inference have negligible amplitude); (3) "What Would Challenge This View" — three of six criteria are insulated by other Map commitments (trained-introspector criterion, AI phenomenal capacity criterion, physicalist explanation criterion); acknowledge the insulation or replace; (4) Pitt's proprietary-phenomenology argument cited as settled but contested by Prinz/Carruthers, especially on aphantasia (aphantasics still have inner speech); add one paragraph with deflationary responses; (5) self-stultification argument in Occam's paragraph is question-begging as stated. See [[reviews/pessimistic-2026-04-18]].
-- **Source**: pessimistic-review 2026-04-18
-- **Generated**: 2026-04-18
-
 ### P2: Address pessimistic-review findings for psychedelics-and-the-filter-model.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2363,6 +2356,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Address pessimistic-review findings for phenomenology-of-intellectual-life.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-18 found: (1) PCT asserted as "constitutes" without positive argument against weaker correlation claim — either weaken or defend the constitution step vs parsimony; (2) MWI subsection confuses branch-weighting and should be rewritten or dropped (branches with invalid inference have negligible amplitude); (3) "What Would Challenge This View" — three of six criteria are insulated by other Map commitments (trained-introspector criterion, AI phenomenal capacity criterion, physicalist explanation criterion); acknowledge the insulation or replace; (4) Pitt's proprietary-phenomenology argument cited as settled but contested by Prinz/Carruthers, especially on aphantasia (aphantasics still have inner speech); add one paragraph with deflationary responses; (5) self-stultification argument in Occam's paragraph is question-begging as stated. See [[reviews/pessimistic-2026-04-18]].
+- **Output**: obsidian/topics/phenomenology-of-intellectual-life.md
+
+Task context:
+Pessimistic review 2026-04-18 found: (1) PCT asserted as "constitutes" without positive argument against weaker correlation claim — either weaken or defend the constitution step vs parsimony; (2) MWI subsection confuses branch-weighting and should be rewritten or dropped (branches with invalid inference have negligible amplitude); (3) "What Would Challenge This View" — three of six criteria are insulated by other Map commitments (trained-introspector criterion, AI phenomenal capacity criterion, physicalist explanation criterion); acknowledge the insulation or replace; (4) Pitt's proprietary-phenomenology argument cited as settled but contested by Prinz/Carruthers, especially on aphantasia (aphantasics still have inner speech); add one paragraph with deflationary responses; (5) self-stultification argument in Occam's paragraph is question-begging as stated. See [[reviews/pessimistic-2026-04-18]].
 
 ### ✓ 2026-04-18: Cross-review born-rule-and-the-consciousness-interface.md considering pragmatist-quantum-foundations-under-dualism
 - **Type**: cross-review

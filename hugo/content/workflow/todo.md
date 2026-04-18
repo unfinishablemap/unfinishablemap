@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 04:04:00+00:00
+ai_modified: 2026-04-18 04:49:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review born-rule-and-the-consciousness-interface.md considering pragmatist-quantum-foundations-under-dualism
-- **Type**: cross-review
+### ✓ 2026-04-18: Address pessimistic-review findings for phenomenology-of-intellectual-life.md
+- **Type**: refine-draft
+- **Status**: complete
+- **Notes**: All five issues addressed in one pass — PCT constitution-vs-correlation defense, MWI rewrite on amplitude/indexical grounds, falsifiability section restructured with genuine-risk vs partially-insulated split, Pitt deflationary paragraph added, Occam self-stultification weakened with pointer to [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/). Two flagged language fixes also applied (aesthetic-meaning translation claim; "currently obtains" softened).
+- **Source**: pessimistic-review 2026-04-18
+- **Generated**: 2026-04-18
+
+### P2: Address pessimistic-review findings for psychedelics-and-the-filter-model.md
+- **Type**: refine-draft
 - **Status**: pending
-- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) develops the normative Born rule reading characteristic of QBism and situates it within a dualist frame. Review topics/born-rule-and-the-consciousness-interface.md for (a) opportunities to cross-link to the new article, (b) whether the article's treatment of the Born rule's interpretational options should now reference the pragmatist alternative, (c) whether any arguments for the Born rule as interface specification are reinforced or complicated by the QBist agent-relativity reading. Add `[pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/)` wikilink.
-- **Source**: chain (from pragmatist-quantum-foundations-under-dualism.md)
+- **Notes**: Pessimistic review 2026-04-18 found: (1) "meaningfulness ratings" elided with "richness of consciousness" — distinguish salience from expansion; (2) "precisely what neuroimaging confirms" and "predicts exactly this" overclaim — soften to "is consistent with" and add paragraph distinguishing filter-theoretic predictions from disinhibition/entropic-brain accounts (what would filter theory predict that REBUS/entropic-brain do not?); (3) Metzinger cited for persisting-minimal-self claim but Metzinger is a self-model eliminativist who does not hold this — either cite Zahavi or flag the divergence; (4) Stace typology should acknowledge Katz 1978 criticism of imposed Western mystical frame; (5) Mullis/PCR anecdote needs qualification or removal (disputed). See [pessimistic-2026-04-18](/reviews/pessimistic-2026-04-18/).
+- **Source**: pessimistic-review 2026-04-18
+- **Generated**: 2026-04-18
+
+### P2: Address pessimistic-review findings for william-james-consciousness.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-18 found: (1) "Neutral monism tensions" paragraph acknowledges the radical-empiricism vs filter-theory tension but does not resolve it — expand and either commit to the organisational reading (defend textually from James) or concede that the Map adopts filter theory while setting aside radical empiricism's stronger claims; (2) intro line "anticipated many of The Unfinishable Map's central commitments by over a century" is anachronistic/self-congratulatory — rephrase; (3) Stapp's quantum Zeno mechanism framed as filling James's gap but Stapp remains contested among physicists — hedge the framing. See [pessimistic-2026-04-18](/reviews/pessimistic-2026-04-18/).
+- **Source**: pessimistic-review 2026-04-18
 - **Generated**: 2026-04-18
 
 ### P2: Cross-review biological-computationalism.md concept page considering biological-computationalisms-inadvertent-case-for-dualism
@@ -2350,6 +2364,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Cross-review born-rule-and-the-consciousness-interface.md considering pragmatist-quantum-foundations-under-dualism
+- **Type**: cross-review
+- **Notes**: New topic article topics/pragmatist-quantum-foundations-under-dualism.md (created 2026-04-18) develops the normative Born rule reading characteristic of QBism and situates it within a dualist frame. Review topics/born-rule-and-the-consciousness-interface.md for (a) opportunities to cross-link to the new article, (b) whether the article's treatment of the Born rule's interpretational options should now reference the pragmatist alternative, (c) whether any arguments for the Born rule as interface specification are reinforced or complicated by the QBist agent-relativity reading. Add `[pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/)` wikilink.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md -- Context: Cross-review born-rule-and-the-consciousness-interface.md considering pragmatist-quantum-foundations-under-dualism
 
 ### ✓ 2026-04-18: Cross-review qbism.md and pragmatism-and-qbism.md considering pragmatist-quantum-foundations-under-dualism insights
 - **Type**: cross-review

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-03
-ai_modified: 2026-04-17 20:56:00+00:00
+ai_modified: 2026-04-18 05:03:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -162,7 +162,7 @@ The core mode: grasping what something means, understanding a proof, comprehendi
 
 ### Aesthetic Meaning
 
-[Musical understanding](/topics/phenomenology-of-musical-understanding/) provides the clearest case of meaning that cannot be stated propositionally. When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning cannot be translated into any assertion. The music generates felt significance directly, without passing through propositional content. The meaning of a harmonic resolution is constituted by its phenomenal character — by the felt release of tension, the satisfaction of an anticipated continuation arriving. The [ineffable-encounter-void](/voids/ineffable-encounter-void/) investigates what happens when this kind of meaning exceeds articulation entirely.
+[Musical understanding](/topics/phenomenology-of-musical-understanding/) provides the clearest case of meaning that cannot be stated propositionally. When a minor key passage sounds, listeners experience something — sadness, darkness, yearning — but the meaning resists translation into propositional form. The music generates felt significance directly, without passing through propositional content. The meaning of a harmonic resolution is constituted by its phenomenal character — by the felt release of tension, the satisfaction of an anticipated continuation arriving. The [ineffable-encounter-void](/voids/ineffable-encounter-void/) investigates what happens when this kind of meaning exceeds articulation entirely.
 
 ### Temporal Meaning
 
@@ -198,7 +198,11 @@ There is something peculiar about this: you are doing logic from inside. The log
 
 If intellectual phenomenology were epiphenomenal — causally inert decoration on underlying computation — then the felt difference between knowing and guessing would be illusion. The more parsimonious view: the phenomenology of intellectual life is what it is *like* to think.
 
+**Constitution vs reliable correlation.** A fair critic accepts the phenomenology but asks whether PCT needs the strong claim. Why not the weaker thesis that phenomenology is reliably correlated with and co-varies with cognitive achievement? Correlation is ontologically cheaper; it adds no extra commitment about what the achievement *is*. Three considerations push toward constitution. First, the correlational view leaves the achievement specifiable without reference to phenomenology, which means the phenomenology plays no role in what understanding *is* and reopens the standard epiphenomenalist embarrassment: the experience could be subtracted while the achievement remained. Second, the tight coupling between phenomenology and competence (discussed below) is explained rather than merely redescribed if the phenomenology partly constitutes the competence; under correlation, the coupling is a brute regularity awaiting further explanation. Third, under Bidirectional Interaction the phenomenal work of inference does causal work on which states become actual; a thing that does causal work is not plausibly a mere correlate of the work done. The Map therefore reads PCT as an explanatory commitment, not a stipulation — and concedes that a correlationist who accepts epiphenomenalism can hold the weaker thesis coherently, at the cost of these explanatory burdens.
+
 The functionalist argues that "felt difference" just is the difference in functional architecture. David Pitt (2004) argues this does not exhaust the phenomenal character: there is proprietary phenomenology of thought distinct from associated sensory imagery or functional role. Evidence supports this. The ambiguity case: hearing "bank" and understanding it as financial institution versus riverbank produces distinct phenomenal states from identical sensory input. The aphantasia case: people with no voluntary mental imagery still understand, have insights, and experience the click of comprehension. The recursive language case: understanding "The man ran" differs phenomenally from understanding "The man who saw the woman who chased the dog ran." The difference is structural, not sensory.
+
+Pitt's argument is contested. Prinz and Carruthers reply that the alleged proprietary phenomenology reduces to quasi-sensory vehicles — inner speech, auditory imagery, motor imagery — plus functional role; no extra cognitive phenomenology is needed. Aphantasia is the weakest of the three cases here: most aphantasics retain inner speech and non-visual imagery, and recent work (Zeman, Dance) suggests multi-modal aphantasia is rare. A deflationary reading can therefore explain comprehension in typical aphantasics without appeal to proprietary cognitive phenomenology. The Map finds the proprietary reading more plausible for two reasons beyond aphantasia alone: the ambiguity and recursion cases hold phonology fixed while comprehension varies, and the structural phenomenology of inferential necessity does not resemble any sensory or motor profile. But the deflationary account is live, and the argument here should be read as cumulative rather than settled.
 
 [Illusionists](/concepts/illusionism/) argue that understanding's phenomenology is introspective illusion. This faces a regress. For understanding to quasi-*seem* a certain way, something must register the quasi-seeming. If that registering is itself quasi-phenomenal, another level is needed. The chain terminates only when something genuinely seems some way to something — at which point phenomenal consciousness has been reintroduced. As Raymond Tallis sharpens the point: "Misrepresentation presupposes presentation."
 
@@ -228,21 +232,25 @@ The implications extend to AI safety. Systems that do not genuinely understand t
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** connects through the mechanism question. The quantum Zeno model proposes that mental effort operates by rapid observation of neural states, holding desired patterns stable. Understanding may also involve selection among meanings — "bank" as financial institution versus riverbank, one interpretation of an ambiguous sentence versus another. Consciousness might bias which meaning-configuration becomes actual among competing neural patterns.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The effort of reasoning feels meaningful because it shapes what *you* — singular — come to believe. Understanding's phenomenology is singular: when you grasp a meaning, you grasp *this* meaning. Under MWI, for every branch where you correctly follow modus ponens, branches exist where your copy draws invalid conclusions with equal subjective conviction — undermining the rational authority of seeing-why.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The effort of reasoning feels meaningful because it shapes what *you* — singular — come to believe. Understanding's phenomenology is singular: when you grasp a meaning, you grasp *this* meaning. The honest tension with MWI is not that invalid-inference branches carry comparable subjective weight — branch amplitudes concentrate on the reliable-inference outcomes of a reliable-inference instrument. The tension is indexical: nothing in the phenomenology of seeing-why privileges one branch as *the* place where the reasoning happened. The felt singularity of "I grasped this" lacks a natural referent when "I" refers to an ever-branching bundle. On a single-world reading, the click attaches to a non-branching subject and the phenomenology is taken at face value.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing understanding to computation appears parsimonious. But this parsimony requires ignoring the data — the click, the visibility of the because, the five modes of meaning, the unity of meaning-integration, the gravitational pull of evidence. The parsimony is self-undermining: the argument for the parsimonious view must itself be reasoned to, and reasoning, on this view, has no phenomenal character.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)**: Reducing understanding to computation appears parsimonious. But this parsimony requires ignoring the data — the click, the visibility of the because, the five modes of meaning, the unity of meaning-integration, the gravitational pull of evidence. A theory is not cheaper when it purchases its economy by discarding the phenomena it was meant to explain. The full self-stultification argument — that eliminating phenomenal character from reasoning removes what makes an argument *about* its subject — is developed in [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/); here the point is narrower: parsimony counts only when both theories predict the same data, and reductive computationalism does not.
 
 ## What Would Challenge This View
 
-The claim that intellectual life has irreducible phenomenal character would face difficulty if:
-- Trained introspectors consistently reported that intellectual effort dissolves into component sensations without proprietary cognitive phenomenology
-- AI systems demonstrated understanding-signatures — creative application, error detection, explanatory skill, and transfer to novel domains — without any phenomenal capacity
-- Understanding-phenomenology came apart from understanding-ability: vivid clicks accompanied by no comprehension, or excellent understanding with no distinctive experience
-- What appears as unified meaning proved always to be a conjunction of separable sensory and affective components with no irreducible cognitive phenomenology
-- A physicalist account explained not just which neural states correlate with logical insight but *why* those states have the specific phenomenal character of necessity
-- Cross-cultural studies revealed that meaning-making has no consistent phenomenal character across cultures
+Honest falsification conditions require candidates that could actually be met, not demands insulated by other commitments. Some criteria below are genuine risks; others are partially protected, and we flag which is which.
 
-None of these findings currently obtains.
+**Genuine risks.**
+- Understanding-phenomenology comes apart from understanding-ability: vivid clicks accompanied by no comprehension, or excellent understanding with no distinctive experience. Existing partial dissociations (hyperlexia, savant computation without comprehension, sentence-processing in agrammatic aphasia) already press this question; we read them as dissociating *verbal output* from understanding rather than *phenomenology* from competence, but this reading is contestable and a clearer case — reliable transfer and error-detection with no reportable phenomenology of grasping — would be serious trouble.
+- What appears as unified meaning proves always to be a conjunction of separable sensory and affective components with no irreducible cognitive phenomenology, experimentally dissociable by method.
+- Cross-cultural studies reveal that meaning-making has no consistent phenomenal character across cultures — that the click, the felt necessity, and the distinction between compelling and forced reasoning are local cultural artefacts.
+
+**Partially insulated criteria** (listed for transparency; they would count as challenging evidence, but other Map commitments can partly absorb them).
+- Trained introspectors consistently reported that intellectual effort dissolves into component sensations without proprietary cognitive phenomenology. The Map also claims that contemplative training *intensifies* phenomenology, so a negative finding could be deflected as "insufficient training." We count it as challenging anyway: if the most credentialed introspectors converged on dissolution reports, the intensification claim would itself be in trouble.
+- AI systems demonstrated understanding-signatures without any phenomenal capacity. Verifying "without phenomenal capacity" is exactly the problem the Map takes to be potentially undecidable from outside. The criterion has teeth only if some independent marker of phenomenality becomes available — or if behavioural sophistication eventually forces a rethinking of what "understanding" requires.
+- A physicalist account explained not just which neural states correlate with logical insight but *why* those states have the specific phenomenal character of necessity. This is adjacent to demanding a solution to the hard problem, which the Map holds to be structurally unavailable to physical description. Still: an account that closed the explanatory gap for intellectual phenomenology in particular — even without a fully general solution — would dislodge PCT.
+
+None of these findings currently obtains in the strong form required.
 
 ## Further Reading
 

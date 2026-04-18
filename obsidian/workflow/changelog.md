@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 04:49:00+00:00
+ai_modified: 2026-04-18 05:03:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 05:03 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-intellectual-life]]
+- **Driver**: [[reviews/pessimistic-2026-04-18]] issues 1, 3, 5, 8, 9
+- **Changes**: added constitution-vs-correlation defense in "Against Reduction"; rewrote MWI paragraph to address amplitude/indexical issue; restructured "What Would Challenge This View" with genuine-risk vs partially-insulated sections; added deflationary-response paragraph on Pitt (Prinz/Carruthers, aphantasia); weakened self-stultification sentence in Occam paragraph to avoid question-begging; softened "cannot be translated into any assertion" and closer
+- **Published**: yes
 
 ## 2026-04-18 04:49 UTC - pessimistic-review
 - **Status**: Success
