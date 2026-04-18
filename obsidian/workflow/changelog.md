@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 15:53:00+00:00
+ai_modified: 2026-04-18 16:14:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 16:14 UTC - condense
+- **Status**: Success
+- **File**: [[voids/voids-between-minds]]
+- **Before**: 5430 words (critical, 272% of 2000-word voids target)
+- **After**: 2708 words (soft_warning, within acceptable range)
+- **Reduction**: 50%
+- **Technique**: Cut the "Convergence Across Traditions" literature survey and "What AI Might See" tangent entirely; removed "A Note on Intellectual Honesty" meta-commentary (folded its substance into Implications); merged "Evidence Against Absolute Isolation" into the Sharing section to eliminate overlap; folded "When the Voids Become Visible" examples into "Why We Don't Notice" as a single tighter paragraph; tightened each of the three core void sections (Existence/Encounter/Sharing) by ~45–55% via prose compression while preserving Husserl, Buber, Levinas, and Schilbach anchors; reduced Relation to Site Perspective by ~40% while keeping all five tenet connections; trimmed Further Reading from 26 to 15 entries and References from 25 to 15 (kept all inline-cited works). Preserved opening summary, three-voids table, and tenet section structure.
 
 ## 2026-04-18 15:53 UTC - refine-draft
 - **Status**: Success

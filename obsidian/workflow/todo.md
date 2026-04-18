@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense voids/voids-between-minds.md (5430 words, 272% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article is 272% of the 2000-word voids target (critical threshold: 4000). Created 2026-04-18 via coalesce that unified other-minds-void, second-person-void, and intersubjective-void. The merge preserved substantive content from all three sources, producing a comprehensive but overlong piece. Condense while preserving the three-strand structure (other-minds / second-person / intersubjectivity), the distinctive Map moves (second-person as a phenomenological primitive; voids-between-minds as a family of apophatic problems), and tenet-alignment framing. Remove redundancy across the three strands, tighten expository passages, defer peripheral subtopics to linked articles. Target: ≤3500 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-18
-
 ### P1: Condense voids/apophatic-cartography.md (4047 words, 202% of target)
 - **Type**: condense
 - **Status**: pending
@@ -2395,6 +2388,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Condense voids/voids-between-minds.md (5430 words, 272% of target)
+- **Type**: condense
+- **Notes**: Article is 272% of the 2000-word voids target (critical threshold: 4000). Created 2026-04-18 via coalesce that unified other-minds-void, second-person-void, and intersubjective-void. The merge preserved substantive content from all three sources, producing a comprehensive but overlong piece. Condense while preserving the three-strand structure (other-minds / second-person / intersubjectivity), the distinctive Map moves (second-person as a phenomenological primitive; voids-between-minds as a family of apophatic problems), and tenet-alignment framing. Remove redundancy across the three strands, tighten expository passages, defer peripheral subtopics to linked articles. Target: ≤3500 words. See `/condense` skill.
+- **Output**: obsidian/voids/voids-between-minds.md
 
 ### ✓ 2026-04-18: Strengthen quantum-reach speculation caveat in boundary-and-projection.md
 - **Type**: refine-draft
