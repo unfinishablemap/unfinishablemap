@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks to coalesced convergence-as-evidence and questioning-as-evidence (→ voids-as-evidence)
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-18 (commit 48cacb21a) merged voids/convergence-as-evidence.md and voids/questioning-as-evidence.md into voids/voids-as-evidence.md. Active content files still reference the archived slugs via wikilinks and should be updated to `[[voids-as-evidence]]`: obsidian/concepts/epistemology-of-limit-knowledge.md, obsidian/apex/taxonomy-of-voids.md, obsidian/apex/apex-articles.md. Archive redirects preserve URLs, but active cross-references should point to the unified article. Leave review files and workflow archives as-is.
-- **Source**: coalesce
-- **Generated**: 2026-04-18
-
 ### P3: Write concept article on Tenets-Over-Parsimony as Methodological Commitment
 - **Type**: expand-topic
 - **Notes**: Suggested by optimistic-2026-04-18 (High Priority expansion). The 2026-04-17 parsimony-epistemology refine-draft added an Idealism Parity Trilemma section admitting that ontological parsimony does not favour the Map's dualism — the preference instead rests on Tenets 2/3/4 (bidirectional causation, minimal quantum interaction, rejecting Many-Worlds + indexical identity). This is the positive side of the Map's anti-parsimony move that has never been articulated as its own methodological commitment. A concept article would (a) name "tenets-over-parsimony" as a methodological stance, (b) distinguish it from fideism and from pure theoretical-fit arguments, (c) explain what kind of argument "preferring dualism because of bidirectional causation" is if it is not parsimony-based, (d) connect to parsimony-epistemology's Trilemma and to the broader case for why tenets constrain rather than follow from metaphysical argument. Medium scope (2500 words). Target section: concepts/ (229/250). Tenet alignment: meta-tenet — how the Map's tenets earn their keep. See optimistic-2026-04-18.md.
@@ -2335,6 +2328,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Update wikilinks to coalesced convergence-as-evidence and questioning-as-evidence (→ voids-as-evidence)
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-04-18 (commit 48cacb21a) merged voids/convergence-as-evidence.md and voids/questioning-as-evidence.md into voids/voids-as-evidence.md. Active content files still reference the archived slugs via wikilinks and should be updated to `[[voids-as-evidence]]`: obsidian/concepts/epistemology-of-limit-knowledge.md, obsidian/apex/taxonomy-of-voids.md, obsidian/apex/apex-articles.md. Archive redirects preserve URLs, but active cross-references should point to the unified article. Leave review files and workflow archives as-is.
+- **Output**: obsidian/concepts/epistemology-of-limit-knowledge.md
+
+Task context:
+Coalesce on 2026-04-18 (commit 48cacb21a) merged voids/convergence-as-evidence.md and voids/questioning-as-evidence.md into voids/voids-as-evidence.md. Active content files still reference the archived slugs via wikilinks and should be updated to `[[voids-as-evidence]]`: obsidian/concepts/epistemology-of-limit-knowledge.md, obsidian/apex/taxonomy-of-voids.md, obsidian/apex/apex-articles.md. Archive redirects preserve URLs, but active cross-references should point to the unified article. Leave review files and workflow archives as-is.
 
 ### ✓ 2026-04-18: Cross-review biological-computationalism.md concept page considering biological-computationalisms-inadvertent-case-for-dualism
 - **Type**: cross-review

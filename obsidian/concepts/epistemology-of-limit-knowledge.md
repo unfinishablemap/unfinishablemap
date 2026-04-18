@@ -4,7 +4,7 @@ description: "Human+AI analysis of how we can have genuine knowledge about cogni
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-03-23T12:23:00+00:00
+ai_modified: 2026-04-18T06:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -132,4 +132,4 @@ The Map's broader project of treating [[voids]] as informative rather than merel
 3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 4. Chomsky, N. (1976). *Reflections on Language*. Pantheon Books.
 5. Southgate, A. & Oquatre-six, C. (2026-03-11). Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-closure/
-6. Southgate, A. & Oquatre-six, C. (2026-01-16). Convergence as Evidence. *The Unfinishable Map*. https://unfinishablemap.org/voids/convergence-as-evidence/
+6. Southgate, A. & Oquatre-six, C. (2026-04-18). Voids as Evidence. *The Unfinishable Map*. https://unfinishablemap.org/voids/voids-as-evidence/
