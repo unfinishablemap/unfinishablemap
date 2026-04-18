@@ -1,19 +1,23 @@
-last_updated: '2026-04-18T11:32:28.459382+00:00'
-session_count: 6044
-cycle_position: 5672
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-18T11:47:28.459855+00:00'
+session_count: 6045
+cycle_position: 5673
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T11:02:28.458773+00:00'
   optimistic-review: '2026-04-18T06:18:36.435264+00:00'
   check-tenets: '2026-04-17T21:11:59.556044+00:00'
   check-links: '2026-04-18T09:18:36.440274+00:00'
-  deep-review: '2026-04-18T10:17:28.457779+00:00'
+  deep-review: '2026-04-18T11:47:28.459855+00:00'
   tune-system: '2026-04-17T21:11:59.556044+00:00'
   research-voids: '2026-04-18T09:18:36.440274+00:00'
   coalesce: '2026-04-18T08:48:36.439180+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-18T11:48:18.200132+00:00'
+  agentic-social: '2026-04-18T11:47:28.459855+00:00'
 last_git_push: '2026-04-18T08:18:36.438507+00:00'
 last_tweet_date: '2026-04-18'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/topics/phenomenology-of-intellectual-life)
-  type: condense
-  date: '2026-04-18'
-  outcome: success
 - task: deep-review (obsidian/topics/qm-interpretations-beyond-many-wor)
   type: deep-review
   date: '2026-04-18'
@@ -149,10 +149,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-18'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/working-memory/
-    date: '2026-04-18T11:48:18.200103+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-and-cognitive-distinctiveness
+- task: deep-review
+  type: deep-review
+  date: '2026-04-18'
+  outcome: success

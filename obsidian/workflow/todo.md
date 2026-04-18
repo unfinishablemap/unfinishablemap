@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: pessimistic-review
 - **Generated**: 2026-04-18
 
-### P2: Synthesize closure-types research into article on representational vs psychological closure
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Today's research note research/voids-closure-types-2026-04-18.md (commit bf69a5896) developed the Kriegel/Demircioglu/Vlerick distinction between representational closure (cannot frame the solution) and psychological closure (can frame but cannot grasp), with Chomsky's problems-vs-mysteries framing as background. The research is fresh and ready for synthesis. Existing P3 task at this file's line 148 was generated 2026-04-17 from optimistic review before the research existed; this task supersedes it with the actual research output to draw from. Article should (a) state both closure types carefully with their philosophical lineage, (b) classify the Map's voids by closure type (hard problem and intentionality void as candidate representational closures; self-opacity and numinous void as candidate psychological closures; closure-mixed cases like the binding problem), (c) argue that the distinction matters methodologically — apophatic methods differ for representational vs psychological closure, (d) connect to meta-epistemology-of-limits and phenomenology-of-cognitive-limit-types. Medium scope (1500-2000 words). Target section: concepts/ (226/250). Tenet alignment: Occam's Razor Has Limits, Dualism. Closes the chain: research → article → cross-review.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-18
-
 ### P3: Add Attribution Hygiene Patterns note to writing-style.md
 - **Type**: refine-draft
 - **Notes**: Suggested by optimistic-2026-04-18-morning (Ideas for Later). The overnight-to-morning arc across 18+ hours produced five separate attribution corrections (Derrida/Anatole France, Consciousness Atlas → Landscape of Consciousness, Fritz et al. 2009, Fahrenfort 2023, Mullis/PCR). A brief methodological note in obsidian/project/writing-style.md on common attribution traps would codify the pattern. Traps to cover: (a) coin metaphors (checking the actual source before attributing a famous framing), (b) famous-phrase misattributions (Derrida/France being the canonical case), (c) celebrity-anecdote citations (Mullis/PCR: informally repeated but contested), (d) claims that outrun their source studies (Fritz et al. 2009 cited for more than it established), (e) title/phrasing drift in book references (Landscape vs Atlas). Short (400-600 words added to writing-style.md under a new "Attribution Hygiene" section). No new article.
@@ -2360,6 +2353,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Synthesize closure-types research into article on representational vs psychological closure
+- **Type**: expand-topic
+- **Notes**: Today's research note research/voids-closure-types-2026-04-18.md (commit bf69a5896) developed the Kriegel/Demircioglu/Vlerick distinction between representational closure (cannot frame the solution) and psychological closure (can frame but cannot grasp), with Chomsky's problems-vs-mysteries framing as background. The research is fresh and ready for synthesis. Existing P3 task at this file's line 148 was generated 2026-04-17 from optimistic review before the research existed; this task supersedes it with the actual research output to draw from. Article should (a) state both closure types carefully with their philosophical lineage, (b) classify the Map's voids by closure type (hard problem and intentionality void as candidate representational closures; self-opacity and numinous void as candidate psychological closures; closure-mixed cases like the binding problem), (c) argue that the distinction matters methodologically — apophatic methods differ for representational vs psychological closure, (d) connect to meta-epistemology-of-limits and phenomenology-of-cognitive-limit-types. Medium scope (1500-2000 words). Target section: concepts/ (226/250). Tenet alignment: Occam's Razor Has Limits, Dualism. Closes the chain: research → article → cross-review.
+- **Output**: Synthesize closure-types research into article on representational vs psychological closure
 
 ### ✓ 2026-04-18: Soften framework-dependence claims in predictive-construction-void.md
 - **Type**: refine-draft

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 11:48:00+00:00
+ai_modified: 2026-04-18 12:02:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 12:02 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Closure-types void (representational vs psychological closure)
+- **Output**: [[voids/closure-types-void]]
+- **Word count**: 1872
+- **Based on research**: yes — [[research/voids-closure-types-2026-04-18]]
+- **Section**: voids/ (per research note target_section; angle 1 — second-order diagnostic impossibility as primary result)
+- **Tenets**: Tenet 5 (Occam's Razor Has Limits) primary, Tenet 1 (Dualism) secondary
+- **Key moves**: Names the representational/psychological closure distinction; shows Kriegel's incoherence argument touches only psychological reading, Vlerick & Boudry's critique only the inverse inference; classifies voids (hard problem, intrinsic-nature, origin, causal-interface as representational; binding, recognition, self-opacity as psychological; other-minds, intersubjective, second-person, ineffable-encounter as ambiguous); argues the second-order void (diagnostic impossibility from within) is the deeper result
+- **Attribution discipline**: verbatim McGinn quote preserved with qualifier "(or theory T)"; Kriegel quote verbatim from research note; Demircioglu/Vlerick & Boudry positions hedged as "argues" and "press from the other side"
 
 ## 2026-04-18 11:48 UTC - deep-review
 - **Status**: Success
