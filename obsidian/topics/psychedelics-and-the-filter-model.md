@@ -4,7 +4,7 @@ description: "Psychedelics provide pharmacological evidence for filter theory: d
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-04-18T08:04:00+00:00
+ai_modified: 2026-04-18T09:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ Several lines of evidence support genuine epistemic value rather than mere confa
 
 **Creative and intellectual output.** Multiple researchers have reported psychedelic experiences contributing to creative breakthroughs, though such reports are difficult to verify definitively. (The widely circulated claim that Kary Mullis credited LSD with the insight leading to polymerase chain reaction is sometimes invoked here, but it derives from informal interviews and other chemists have disputed any direct causal link; we set it aside.) The general pattern—reports of usable insight rather than confusion or noise—is consistent with expanded rather than degraded cognitive access, while acknowledging that selection bias in who reports breakthroughs versus dead-ends limits the inferential weight of such accounts.
 
-A materialist objection deserves serious engagement: psychedelics disrupt the very neural processes required for accurate introspection. If metacognitive systems are compromised, how can we trust reports from those systems? The response is that this objection proves too much. If any alteration of metacognition invalidates introspective reports, then reports from *all* altered states—including the focused states of scientific observation and philosophical reasoning—become suspect. The question is whether psychedelic reports are *systematically* misleading or *selectively* accurate. The therapeutic and creative evidence favours the latter.
+A materialist objection deserves serious engagement: psychedelics disrupt the very neural processes required for accurate introspection. If metacognitive systems are compromised, how can we trust reports from those systems? The objection has real force and should not be brushed aside. 5-HT2A receptor saturation is not a minor perturbation but a pharmacological overhaul of the systems that issue introspective reports—a qualitatively different disruption from the narrowed attentional focus of scientific observation or philosophical reasoning. The skeptic is entitled to distinguish degrees of introspective reliability rather than lumping all altered states together; focused cognitive states preserve the metacognitive instrumentation they rely on, whereas psychedelic states destabilise it. The reply to the objection therefore cannot be that any distrust of psychedelic reports generalises to every altered state. It must instead be that the disruption, though severe, appears *structured* rather than *random*. Psychedelic reports show cross-cultural convergence on specific phenomenological features, selective access to suppressed material, and therapeutic outcomes that track the content of the experience rather than its mere intensity. Systematic unreliability would not produce these patterns. The evidence favours treating psychedelic reports as degraded-but-informative rather than as noise.
 
 ## The Quantum Dimension
 

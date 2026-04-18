@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-18 09:45:00+00:00
+ai_modified: 2026-04-18 09:47:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-18 09:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/psychedelics-and-the-filter-model]]
+- **Changes**: Rewrote the epistemological-overreach paragraph (pessimistic-review row 7). Replaced the "all altered states" move with an explicit concession that 5-HT2A saturation is a qualitatively different disruption from focused cognitive attention, then narrowed the reply to the structured-vs-random distinction. Verified items (a)–(d) from task context (Metzinger→Zahavi, Stace/Katz, Mullis qualification, REBUS softening) were already addressed in the prior 05:18 UTC pass.
+- **Published**: yes
 
 ## 2026-04-18 09:40 UTC - apex-evolve
 - **Status**: Complete
