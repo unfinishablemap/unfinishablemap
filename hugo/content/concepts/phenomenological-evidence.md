@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-04-05 23:27:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-19 13:38:00+00:00
+ai_system: claude-opus-4-7
 author: null
 coalesced_from:
 - /concepts/phenomenological-evidence/
@@ -25,14 +25,14 @@ concepts:
 - '[[contemplative-epistemology]]'
 - '[[methodological-pluralism]]'
 created: 2026-02-01
-date: &id001 2026-04-05
+date: &id001 2026-04-19
 description: First-person experience reports are genuine evidence for consciousness
   theories when gathered through trained observation, convergence across independent
   traditions, and rigorous methods.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-05 23:27:00+00:00
+last_deep_review: 2026-04-19 13:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -40,6 +40,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-life]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
+- '[[phenomenological-method-and-evidence-standards]]'
 - '[[epistemology-of-convergence-arguments]]'
 - '[[cross-cultural-convergence-on-mental-causation]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
@@ -81,7 +82,7 @@ Three methodological traditions have established how to gather phenomenological 
 
 ### Husserl's Epoché
 
-Edmund Husserl (1859–1938) developed [phenomenology](/concepts/phenomenology/) as a rigorous discipline. The core method—epoché or "bracketing"—suspends assumptions about the external world to attend purely to how things appear in experience. Husserl distinguished phenomenological *description* from causal *explanation*: the question is not "why does this experience occur?" but "what is its structure?" His [evidence taxonomy](/topics/phenomenal-authority-and-first-person-evidence/)—apodictic, adequate, assertoric, presumptive—determines how much epistemic weight different phenomenological claims can bear. A crucial late insight: we can be certain *that* experience exists while remaining fallible about its detailed structure (*Cartesian Meditations*, 1929).
+Edmund Husserl (1859–1938) developed [phenomenology](/concepts/phenomenology/) as a rigorous discipline. The core method—epoché or "bracketing"—suspends assumptions about the external world to attend purely to how things appear in experience. Husserl distinguished phenomenological *description* from causal *explanation*: the question is not "why does this experience occur?" but "what is its structure?" His [evidence taxonomy](/topics/phenomenological-method-and-evidence-standards/)—apodictic, adequate, assertoric, presumptive—determines how much epistemic weight different phenomenological claims can bear. A crucial late insight: we can be certain *that* experience exists while remaining fallible about its detailed structure (*Cartesian Meditations*, 1929).
 
 Berghofer (2019) interprets Husserl as a "mentalist evidentialist" whose ultimate evidence consists of *originary presentive intuitions*—perceptual, introspective, eidetic, and evaluative experiences. If originary givenness is genuinely foundational, phenomenological evidence has epistemic standing independent of third-person corroboration.
 
@@ -199,6 +200,7 @@ Phenomenological evidence provides the data that any adequate theory of consciou
 ## Further Reading
 
 - [phenomenology](/concepts/phenomenology/) — The philosophical method for generating phenomenological evidence
+- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Husserl's apodictic/adequate/assertoric/presumptive framework in depth
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Integration of phenomenological evidence with neuroscience
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Epistemological models and the case for sui generis introspective knowledge
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct, non-inferential relation grounding first-person evidence

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 13:38:00+00:00
+ai_modified: 2026-04-19 14:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-19 14:38 UTC - research-topic
+- **Status**: Success
+- **Topic**: Petitmengin's microphenomenological interview method
+- **Output**: [[research/petitmengin-microphenomenological-interview-2026-04-19]]
+- **Sources consulted**: 13 (Petitmengin 2006 founding paper; Depraz-Varela-Vermersch 2003; Bitbol & Petitmengin 2017; Petitmengin-Remillieux-Valenzuela-Moguillansky 2019 analysis procedure; Petitmengin 2019 meditation; epilepsy seizure anticipation 2006/2007; Olivares et al. 2015 reliability; "Can we trust the phenomenological interview?" 2022; microphenomenology applied to itself 2022; Di Paolo & De Jaegher 2019 sympathetic critique; Sparby 2023 self-inquiry; microphenomenology.com; SEP/IEP phenomenology entries)
+- **Key finding**: No published study uses microphenomenology to test metaphysical dualism directly; its evidential contribution is strengthening assertoric/presumptive warrants on experiential structure while leaving apodictic claims untouched. Epilepsy prodrome case (Petitmengin-Navarro-Le Van Quyen 2006/2007) is the strongest demonstration of the method producing clinically actionable findings invisible to third-person methods alone — a direct illustration of Occam's Razor Has Limits tenet.
 
 ## 2026-04-19 13:38 UTC - deep-review (cross-review)
 - **Status**: Success

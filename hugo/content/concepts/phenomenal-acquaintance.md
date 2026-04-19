@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-16 01:52:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-19 13:38:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[acquaintance-knowledge]]'
@@ -13,14 +13,14 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[phenomenal-concepts-strategy]]'
 created: 2026-02-15
-date: &id001 2026-02-20
+date: &id001 2026-04-19
 description: Phenomenal acquaintance—the direct, non-inferential relation between
   consciousness and its own qualities—grounds the epistemic asymmetry between first-person
   experience and third-person description.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 00:15:00+00:00
+last_deep_review: 2026-04-19 13:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -29,9 +29,9 @@ related_articles:
 - '[[pre-conceptual-knowing]]'
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[intentionality]]'
-- '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[acquaintance-void]]'
+- '[[phenomenological-method-and-evidence-standards]]'
 title: Phenomenal Acquaintance
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -87,6 +87,8 @@ The resolution lies in distinguishing the relation from judgements based on it. 
 
 This is not to claim that acquaintance is infallible in any metaphysically loaded sense. The point is structural: the immediacy of phenomenal acquaintance means that certain kinds of error—those involving misrepresentation across a causal chain—do not arise. Other kinds of error—misclassification, inattention, imprecise description—remain possible because they involve operations that go beyond the acquaintance relation itself.
 
+In Husserl's mature evidence taxonomy, this structural difference has a precise vocabulary. Phenomenal acquaintance supplies *apodictic* evidence for the existence of experience—the impossibility of being mistaken *that* one is experiencing—while supplying only *assertoric* and *presumptive* evidence for the detailed content of that experience. Certainty at the level of presence, fallibility at the level of content: the Husserlian taxonomy makes explicit what the acquaintance/judgement distinction articulates informally. See [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) for the full framework and its epistemological consequences.
+
 Higher-order thought theories (Rosenthal, Brown) raise a deeper challenge to the directness claim. On these views, what seems like immediate acquaintance is actually a higher-order representation of a first-order neural state. The brain generates both the first-order state and a rapid, automatic higher-order representation, and [introspection](/concepts/introspection/) cannot distinguish genuine immediacy from a very fast representational process. If this is correct, the "directness" central to acquaintance is phenomenologically convincing but metaphysically illusory—and the epistemic gap opens between two physical representations rather than between physical and non-physical.
 
 The acquaintance theorist's reply: higher-order theories face a dilemma of their own. If the higher-order representation is accurate—if it faithfully represents the first-order state's qualitative character—then the qualitative character must be present in the first-order state for the representation to get right. But then acquaintance with qualitative character occurs at the first-order level, and the higher-order representation merely notices it. If instead the higher-order representation *creates* qualitative character that is absent from the first-order state, then consciousness is constituted by a representation misrepresenting its target—an account that struggles to explain why introspective reports track genuine qualities so reliably.
@@ -108,6 +110,7 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 - [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — The epistemic category that results from standing in the acquaintance relation
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the case that acquaintance reveals facts beyond physical knowledge
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — How acquaintance grounds introspective justification
+- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Husserl's apodictic/adequate/assertoric/presumptive taxonomy, which gives acquaintance its epistemological vocabulary
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through phenomenal acquaintance
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — The pre-conceptual character of acquaintance
 - [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) — The physicalist response that locates the gap in concepts rather than acquaintance

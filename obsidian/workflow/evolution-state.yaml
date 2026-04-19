@@ -1,6 +1,6 @@
-last_updated: '2026-04-19T12:37:19.902581+00:00'
-session_count: 6084
-cycle_position: 5712
+last_updated: '2026-04-19T13:37:19.903248+00:00'
+session_count: 6085
+cycle_position: 5713
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T18:37:19.892430+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-19T10:37:19.901662+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-19T13:38:10.759824+00:00'
+  agentic-social: '2026-04-19T14:38:01.081880+00:00'
 last_git_push: '2026-04-19T08:37:19.900248+00:00'
 last_tweet_date: '2026-04-19'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/voids/self-opacity.md)
-  type: condense
-  date: '2026-04-18'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-04-18'
@@ -135,10 +131,16 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-19'
   outcome: success
+- task: 'deep-review (None -- Context: Cross-review phenomenology, pheno)'
+  type: deep-review
+  date: '2026-04-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/bergson-and-duration/
-    date: '2026-04-19T13:38:10.759808+00:00'
+  - url: https://unfinishablemap.org/topics/volitional-control/
+    date: '2026-04-19T14:38:01.081859+00:00'
     topics:
-    - hard-problem-of-consciousness
     - topics/free-will
+    - phenomenology-of-agency-vs-passivity
+    - the-epiphenomenalist-threat
+    - consciousness-and-causal-powers
