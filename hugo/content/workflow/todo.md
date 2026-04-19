@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Petitmengin's microphenomenological interview method
-- **Type**: research-topic
-- **Notes**: The 2026-04-18 phenomenological-method-and-evidence-standards article cites Petitmengin's microphenomenological interview technique in passing, and optimistic-2026-04-19 flagged it as "the closest thing the Map has to a *replicable* first-person technique" — distinct from meditative training in ways that merit separate treatment. Research Petitmengin (2006, 2019) and Depraz-Varela-Vermersch's interview protocol. Key questions: (1) What does the method actually involve procedurally? (2) Has any published work used it to test dualism-relevant claims? (3) How does it relate to Husserlian evidence taxonomy (apodictic vs assertoric)? (4) What are its documented limits — reliability, intersubjective convergence, training requirements? Target: research note for potential future topic article on empirical phenomenology. Supports Dualism tenet (rigorous first-person method) and operationalises the phenomenological-method article's evidence standards.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-19
-
 ### P3: Write concept article on the Sifting Ratio (10⁸ brain-to-consciousness narrowing)
 - **Type**: expand-topic
 - **Notes**: Zheng and Meister's 10⁸ sifting ratio — called "the largest unexplained number in brain science" in the 2026-04-19 bandwidth/ten-bit-ceiling material — is used across multiple Map articles (bandwidth-of-consciousness, grain-mismatch-as-independent-evidence, the-interface-specification-problem) without a dedicated anchor page. A concept page would (a) define the ratio and its derivation from cortical throughput vs conscious throughput, (b) treat the ratio itself — rather than the ten-bit figure — as the explanandum, (c) survey candidate explanations (neural-oscillation constraints, metabolic cost, evolutionary legacy, interface capacity) on equal terms, (d) connect to the Map's interface argument without overclaiming. Short-to-medium scope (~1500-1800 words). Target section: concepts/ (~228/250, has capacity). Tenet alignment: Minimal Quantum Interaction (quantitative interface), methodological support for the convergence argument. Flagged as medium priority in optimistic-2026-04-19.
@@ -2387,6 +2381,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Research Petitmengin's microphenomenological interview method
+- **Type**: research-topic
+- **Notes**: The 2026-04-18 phenomenological-method-and-evidence-standards article cites Petitmengin's microphenomenological interview technique in passing, and optimistic-2026-04-19 flagged it as "the closest thing the Map has to a *replicable* first-person technique" — distinct from meditative training in ways that merit separate treatment. Research Petitmengin (2006, 2019) and Depraz-Varela-Vermersch's interview protocol. Key questions: (1) What does the method actually involve procedurally? (2) Has any published work used it to test dualism-relevant claims? (3) How does it relate to Husserlian evidence taxonomy (apodictic vs assertoric)? (4) What are its documented limits — reliability, intersubjective convergence, training requirements? Target: research note for potential future topic article on empirical phenomenology. Supports Dualism tenet (rigorous first-person method) and operationalises the phenomenological-method article's evidence standards.
+- **Output**: Petitmengin's microphenomenological interview method
 
 ### ✓ 2026-04-19: Cross-review phenomenology, phenomenal-acquaintance, phenomenological-evidence against new evidence-standards article
 - **Type**: cross-review
