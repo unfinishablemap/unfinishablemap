@@ -4,11 +4,12 @@ description: "Why controlling attention feels like work—and what this universa
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-16T04:03:00+00:00
+ai_modified: 2026-04-19T02:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
+  - "[[topics/the-ten-bit-ceiling]]"
 concepts:
   - "[[stapp-quantum-mind]]"
   - "[[quantum-consciousness]]"
@@ -35,7 +36,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-28T10:13:00+00:00
+last_deep_review: 2026-04-19T02:38:00+00:00
 ---
 
 Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is among the strongest evidence that consciousness does something. If effort is *real*—if it genuinely costs something to hold attention on a topic—then something is doing work. The question is what. The Unfinishable Map argues that this datum supports interactionist dualism regardless of which physical mechanism turns out to mediate the interaction.
@@ -52,7 +53,7 @@ This phenomenology is universal. Everyone knows the experience of trying to focu
 
 The [[attention-as-interface|attention as interface hypothesis]] provides a framework. Attention functions as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates on matter. [[attention-as-interface|Attention and consciousness are dissociable]]: you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). If consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement.
 
-The phenomenology of effort reflects the *real cost* of operating through this interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. The interface is bandwidth-limited—human behavioural throughput is bounded at roughly 10 bits per second regardless of task domain (Zheng & Meister, 2024)—and requires active maintenance.
+The phenomenology of effort reflects the *real cost* of operating through this interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. The interface is bandwidth-limited: Shannon-calibrated measurements converge on ~10 bits/s for *conscious* throughput, while unconscious motor and sensory processing runs orders of magnitude faster (Zheng & Meister, 2024; Sauerbrei & Pruszynski, 2025; see [[topics/the-ten-bit-ceiling|the ten-bit ceiling]]). The narrowing sits where consciousness participates, not in the neural hardware around it—which is what effort tracks from the inside.
 
 ### The Willed-Instructed Distinction
 
@@ -64,7 +65,7 @@ This neural distinction explains why effort tracks volition. Instructed attentio
 
 The [[phenomenology-of-choice-and-volition|phenomenology of choice]] clarifies what effort tracks. The [[trilemma-of-selection|trilemma of selection]] makes the logical structure explicit: at any decision point, the outcome is determined, random, or consciously selected—and only selection explains why choosing feels effortful. When observing a coin flip, you experience the outcome as *happening to* you—no effort, no sense of authorship. When choosing, you participate in determining the outcome. The selection feels like something you *do*.
 
-This distinction extends to multiple levels: selecting among options, refraining from selection, and meta-choosing whether to enter selection mode at all. Each involves effort when consciously undertaken.
+The distinction extends to multiple levels—selecting among options, refraining from selection, and meta-choosing whether to enter selection mode at all—each involving effort when consciously undertaken.
 
 ### Empirical Confirmation
 
@@ -136,7 +137,7 @@ The resolution involves two modes of consciousness (see [[meditation-and-conscio
 
 **Passive witnessing**: Consciousness observes without selecting. Neural patterns evolve according to their natural dynamics. This feels effortless because observation without selection requires less engagement.
 
-Neuroscience confirms this: when experienced meditators report "not efforting," their posterior cingulate cortex deactivates. The distinction is neurally real.
+Neuroscience confirms the distinction: when experienced meditators report "not efforting," their posterior cingulate cortex deactivates.
 
 The developmental pattern also matters. Beginners find meditation effortful because the brain's defaults pull toward distraction. With practice, neural pathways supporting stable attention strengthen. Eventually the trained brain needs less correction—not because consciousness stopped working, but because the interface has been trained. This parallels skill acquisition (see [[implicit-memory]]): the expert's effortlessness reflects mastery, not passivity.
 
@@ -169,6 +170,7 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [[attention-as-interface]] — Attention as the interface layer between consciousness and neural systems
 - [[structure-of-attention]] — How attention is organized across voluntary, involuntary, and meta-attentional layers
 - [[phenomenology-of-choice-and-volition]] — The choosing-observing distinction and four-component structure of willing
+- [[topics/the-ten-bit-ceiling|The Ten-Bit Ceiling]] — Seventy years of Shannon-calibrated measurements converging on ~10 bits/s of conscious throughput
 - [[meditation-and-consciousness-modes]] — Selection vs witnessing modes
 - [[illusionism]] — The eliminativist challenge
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms
@@ -188,13 +190,5 @@ The phenomenology of effort provides a datum any account must explain. If contro
 1. Schwartz, J.M. & Begley, S. (2002). *The Mind and the Brain: Neuroplasticity and the Power of Mental Force*. ReganBooks.
 1. Schwartz, J.M., Stapp, H.P., & Beauregard, M. (2005). Quantum physics in neuroscience and psychology. *Philosophical Transactions of the Royal Society B*, 360(1458), 1309-1327.
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192-204.
-
-<!-- AI REFINEMENT LOG - 2026-04-16
-Changes made:
-- Replaced Schwartz-specific example in Illusionist Challenge section with three converging examples (CBT amygdala changes, meditation attentional networks, OCD caudate metabolism) to eliminate remaining over-reliance on the n=18 study outside the neuroplasticity section
-
-Continues pessimistic review (2026-04-15c) remediation. Previous pass (2026-04-15) restructured the neuroplasticity section; this pass addresses Schwartz prominence in remaining sections.
-
-This log should be removed after human review.
--->

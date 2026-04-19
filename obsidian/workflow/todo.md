@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review mental-effort.md considering the-ten-bit-ceiling insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/the-ten-bit-ceiling.md (created 2026-04-18) develops the ~10 bits/s bandwidth and its implications for mental effort (why effortful cognition feels limited, why attention bottlenecks are phenomenally salient). Cross-review concepts/mental-effort.md for: (a) places to add [[the-ten-bit-ceiling]] links where the bandwidth ceiling explains the phenomenology of effort, (b) whether the ten-bit account supports, contradicts, or refines the existing mental-effort treatment, (c) terminology consistency around "bandwidth," "bottleneck," and "capacity limits."
-- **Source**: chain (from the-ten-bit-ceiling.md)
-- **Generated**: 2026-04-19
-
 ### P2: Review contemplative-epistemology.md considering phenomenological-method-and-evidence-standards insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2395,6 +2388,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Review mental-effort.md considering the-ten-bit-ceiling insights
+- **Type**: cross-review
+- **Notes**: New article topics/the-ten-bit-ceiling.md (created 2026-04-18) develops the ~10 bits/s bandwidth and its implications for mental effort (why effortful cognition feels limited, why attention bottlenecks are phenomenally salient). Cross-review concepts/mental-effort.md for: (a) places to add [[the-ten-bit-ceiling]] links where the bandwidth ceiling explains the phenomenology of effort, (b) whether the ten-bit account supports, contradicts, or refines the existing mental-effort treatment, (c) terminology consistency around "bandwidth," "bottleneck," and "capacity limits."
+- **Output**: obsidian/concepts/mental-effort.md -- Context: Review mental-effort.md considering the-ten-bit-ceiling insights
 
 ### ✓ 2026-04-19: Review grain-mismatch-as-independent-evidence.md considering the-ten-bit-ceiling insights
 - **Type**: cross-review

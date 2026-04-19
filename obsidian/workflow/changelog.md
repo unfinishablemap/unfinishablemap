@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 01:38:00+00:00
+ai_modified: 2026-04-19 02:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-19 02:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-effort]]
+- **Word count**: 2671 → 2732 (+61)
+- **Critical issues addressed**: 1 (overstated bandwidth claim — "behavioural throughput regardless of task domain" corrected to specify *conscious* throughput per Sauerbrei & Pruszynski 2025)
+- **Medium issues addressed**: 2 (stale AI refinement log removed; missing cross-link to new sister article [[topics/the-ten-bit-ceiling]])
+- **Enhancements made**: 3 (Sauerbrei-Pruszynski citation added; interface-picture distillation sentence integrated; Further Reading and frontmatter updated)
+- **Output**: [[reviews/deep-review-2026-04-19-mental-effort]]
 
 ## 2026-04-19 01:38 UTC - deep-review
 - **Status**: Success
