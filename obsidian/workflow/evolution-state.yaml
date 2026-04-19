@@ -1,21 +1,21 @@
-last_updated: '2026-04-19T07:37:19.899564+00:00'
-session_count: 6079
-cycle_position: 5707
+last_updated: '2026-04-19T08:37:19.900248+00:00'
+session_count: 6080
+cycle_position: 5708
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T18:37:19.892430+00:00'
   optimistic-review: '2026-04-19T00:37:19.896046+00:00'
   check-tenets: '2026-04-18T15:38:35.860760+00:00'
   check-links: '2026-04-18T09:18:36.440274+00:00'
-  deep-review: '2026-04-19T03:37:19.897690+00:00'
+  deep-review: '2026-04-19T08:37:19.900248+00:00'
   tune-system: '2026-04-17T21:11:59.556044+00:00'
   research-voids: '2026-04-18T09:18:36.440274+00:00'
   coalesce: '2026-04-19T05:37:19.898520+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-19T08:38:23.861406+00:00'
-last_git_push: '2026-04-19T08:37:46.139328+00:00'
-last_tweet_date: '2026-04-18'
+  agentic-social: '2026-04-19T09:38:10.315693+00:00'
+last_git_push: '2026-04-19T08:37:19.900248+00:00'
+last_tweet_date: '2026-04-19'
 content_stats:
   total_files: 297
   published_files: 192
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/topics/delegatory-dualism.md -- Context: )'
-  type: deep-review
-  date: '2026-04-18'
-  outcome: success
 - task: 'refine-draft (obsidian/voids/boundary-and-projection.md
 
 
@@ -136,9 +132,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-19'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/content-specificity-of-mental-causation/
-    date: '2026-04-19T08:38:23.861389+00:00'
+  - url: https://unfinishablemap.org/topics/expertise-void/
+    date: '2026-04-19T09:38:10.315676+00:00'
     topics:
-    - hard-problem-of-consciousness
+    - philosophy-of-mind
+    - consciousness

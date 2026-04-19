@@ -3,9 +3,9 @@ title: "The Bandwidth of Consciousness"
 created: 2026-02-09
 modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-04-19T05:38:00+00:00
+ai_modified: 2026-04-19T09:38:00+00:00
 draft: false
-description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
+description: "The 100-million-fold gap between neural processing and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[free-will]]"
@@ -50,7 +50,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated: null
-last_deep_review: 2026-04-07T11:07:00+00:00
+last_deep_review: 2026-04-19T09:38:00+00:00
 coalesced_from:
   - "/topics/neural-bandwidth-constraints-and-the-interface/"
   - "/topics/asymmetric-bandwidth-of-consciousness/"

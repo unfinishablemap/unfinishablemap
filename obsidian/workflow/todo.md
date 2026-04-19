@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review bandwidth-of-consciousness.md after ten-bit-ceiling coalesce
-- **Type**: deep-review
-- **Notes**: The 2026-04-19 coalesce merged topics/the-ten-bit-ceiling.md into bandwidth-of-consciousness.md (commit 37dcc2848). Last deep review of the absorbing article was 2026-04-07 — pre-coalesce. Verify the merge preserved the Sauerbrei-Pruszynski discipline (motor/conscious dissociation), the Shannon-calibration point, the "offered as interpretation" disclaimer, and the Relation-to-Tenets on epiphenomenalism. Check that the absorbed content reads coherently alongside the pre-existing material rather than as a grafted section. Watch for length creep (the article was condensed on 2026-04-13 from 120% of hard threshold).
-- **Source**: chain (from 2026-04-19 coalesce)
-- **Generated**: 2026-04-19
-
 ### P2: Add body-text cross-links suggested by optimistic-2026-04-19
 - **Type**: refine-draft
 - **Notes**: The optimistic-2026-04-19 review's Cross-Linking Suggestions table identifies six specific body-text cross-references that would strengthen structural mutual reinforcement: (1) topics/bandwidth-of-consciousness ↔ topics/grain-mismatch-as-independent-evidence (currently only in Further Reading; the ten-bit ceiling is one of three grain mismatches in the convergence argument); (2) topics/bandwidth-of-consciousness ↔ topics/the-interface-specification-problem (capacity language directly implements the specification programme); (3) topics/phenomenological-method-and-evidence-standards ↔ concepts/zahavian-minimal-self (apodictic evidence for for-me-ness); (4) topics/phenomenological-method-and-evidence-standards ↔ reviews/pessimistic-2026-04-18b "Choice Under Metaphysical Commitment" section; (5) concepts/inverted-qualia ↔ concepts/asymmetric-bandwidth-consciousness (MQI "at least statistically" language connects to bandwidth-based predictions); (6) concepts/inverted-qualia ↔ topics/bandwidth-of-consciousness (both handle the MQI discipline — qualitative difference must eventually reach behaviour). Where a link already exists in Further Reading, surface it in the body text. See optimistic-2026-04-19.md Cross-Linking Suggestions table.
@@ -2403,6 +2397,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Deep review bandwidth-of-consciousness.md after ten-bit-ceiling coalesce
+- **Type**: deep-review
+- **Notes**: The 2026-04-19 coalesce merged topics/the-ten-bit-ceiling.md into bandwidth-of-consciousness.md (commit 37dcc2848). Last deep review of the absorbing article was 2026-04-07 — pre-coalesce. Verify the merge preserved the Sauerbrei-Pruszynski discipline (motor/conscious dissociation), the Shannon-calibration point, the "offered as interpretation" disclaimer, and the Relation-to-Tenets on epiphenomenalism. Check that the absorbed content reads coherently alongside the pre-existing material rather than as a grafted section. Watch for length creep (the article was condensed on 2026-04-13 from 120% of hard threshold).
+- **Output**: obsidian/topics/bandwidth-of-consciousness.md
 
 ### ✓ 2026-04-19: Deep review voids-between-minds.md
 - **Type**: deep-review
