@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-07
-ai_modified: 2026-04-12 12:57:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-19 01:38:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[grain-mismatch]]'
@@ -21,13 +21,14 @@ description: Three independent grain mismatches—spatial, temporal, information
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 09:03:00+00:00
+last_deep_review: 2026-04-19 01:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[resolution-void]]'
 - '[[neural-refresh-rates-and-the-smoothness-problem]]'
 - '[[bandwidth-of-consciousness]]'
+- '[[the-ten-bit-ceiling]]'
 - '[[phenomenal-binding-and-multimodal-integration]]'
 title: The Grain Mismatch as Independent Evidence Programme
 topics:
@@ -54,7 +55,7 @@ Andrew Lee's introspective opacity finding applies with equal force here: we can
 
 ### Informational Grain
 
-The brain processes roughly 10⁹ bits per second. Consciousness accesses approximately 10 bits per second — a compression ratio of 100 million to one. This is not a rough estimate but a measurement replicated across diverse tasks, from typing to gaming to mental arithmetic (Zheng & Meister 2025). The mismatch is informational: the grain of conscious content is eight orders of magnitude coarser than the grain of neural computation.
+The brain processes roughly 10⁹ bits per second. Conscious declarative throughput — the rate at which reportable decisions resolve — runs at approximately 10 bits per second, a compression ratio of 100 million to one. This is not a rough estimate but a Shannon-calibrated measurement that has held across roughly seven decades of work and radically different tasks, from 1952 choice-reaction experiments through typing, gaming, and speedcubing (Zheng & Meister 2025; see [the ten-bit ceiling](/topics/the-ten-bit-ceiling/) for the measurement history). The mismatch is informational: the grain of conscious content is eight orders of magnitude coarser than the grain of neural computation.
 
 This third mismatch is independent of the first two. Even if phenomenal space were somehow discrete (dissolving the spatial mismatch) and phenomenal time were somehow periodic (dissolving the temporal mismatch), the informational compression ratio would remain. Consciousness would still operate at a radically different informational grain from its neural substrate.
 
@@ -102,8 +103,8 @@ The Map speculates that the grain mismatch programme may extend further. The [bi
 
 - [grain-mismatch](/concepts/grain-mismatch/) — The core concept: Sellars' argument and its modern development
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The architectural implications of grain mismatch
+- [the-ten-bit-ceiling](/topics/the-ten-bit-ceiling/) — Seven decades of Shannon-calibrated measurement behind the informational grain figure
 - [neural-refresh-rates-and-the-smoothness-problem](/topics/neural-refresh-rates-and-the-smoothness-problem/) — The temporal mismatch in detail
-- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The empirical basis for the informational mismatch
 - [resolution-void](/voids/resolution-void/) — What grain mismatch means for the limits of self-knowledge
 - [interface-heterogeneity](/concepts/interface-heterogeneity/) — Whether grain structure varies across conscious systems
 

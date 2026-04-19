@@ -1,13 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 00:42:00+00:00
+ai_modified: 2026-04-19 04:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-19 04:38 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-epistemology](/concepts/contemplative-epistemology/)
+- **Word count**: 2389 → 2405 (+16, length-neutral at 96% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to new sibling article [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/))
+- **Enhancements made**: 2 (frontmatter topic added; Further Reading entry added with evidence-taxonomy annotation)
+- **Output**: [deep-review-2026-04-19-contemplative-epistemology](/reviews/deep-review-2026-04-19-contemplative-epistemology/)
+- **Stability**: Fifth consecutive stable review; no substantive body changes. Cross-link integration only.
+
+## 2026-04-19 03:38 UTC - deep-review
+- **Status**: Success
+- **File**: [the-ten-bit-ceiling](/topics/the-ten-bit-ceiling/)
+- **Word count**: 2951 → 2942 (-9, length-neutral at 98% of 3000 soft threshold)
+- **Critical issues addressed**: 2 (two "not X. It is Y." LLM cliché violations eliminated in opening and closing)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article was thorough and well-balanced; preservation-focused review)
+- **Output**: [deep-review-2026-04-19-the-ten-bit-ceiling](/reviews/deep-review-2026-04-19-the-ten-bit-ceiling/)
+
+## 2026-04-19 02:38 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-effort](/concepts/mental-effort/)
+- **Word count**: 2671 → 2732 (+61)
+- **Critical issues addressed**: 1 (overstated bandwidth claim — "behavioural throughput regardless of task domain" corrected to specify *conscious* throughput per Sauerbrei & Pruszynski 2025)
+- **Medium issues addressed**: 2 (stale AI refinement log removed; missing cross-link to new sister article [the-ten-bit-ceiling](/topics/the-ten-bit-ceiling/))
+- **Enhancements made**: 3 (Sauerbrei-Pruszynski citation added; interface-picture distillation sentence integrated; Further Reading and frontmatter updated)
+- **Output**: [deep-review-2026-04-19-mental-effort](/reviews/deep-review-2026-04-19-mental-effort/)
+
+## 2026-04-19 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Word count**: 1854 → 1888 (+34)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (imprecise 10 bits/s characterisation; missing the-ten-bit-ceiling cross-link; duplicate bandwidth-of-consciousness entry in Further Reading)
+- **Enhancements made**: 3 (sharpened declarative-throughput framing; seven-decades temporal-breadth note; cross-link integration with new companion article)
+- **Output**: [deep-review-2026-04-19-grain-mismatch-as-independent-evidence](/reviews/deep-review-2026-04-19-grain-mismatch-as-independent-evidence/)
 
 ## 2026-04-19 00:42 UTC - optimistic-review
 - **Status**: Success

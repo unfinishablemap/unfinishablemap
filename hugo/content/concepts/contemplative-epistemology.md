@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-04-03 13:48:00+00:00
+ai_modified: 2026-04-19 04:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,7 +24,7 @@ description: Systematic contemplative practice as a legitimate knowledge source 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-03 13:48:00+00:00
+last_deep_review: 2026-04-19 04:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -38,6 +38,7 @@ topics:
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[methodology-of-consciousness-research]]'
+- '[[phenomenological-method-and-evidence-standards]]'
 ---
 
 Contemplative epistemology is the view that systematic contemplative practice—meditation, phenomenological training, and disciplined introspective methods—constitutes a genuine source of knowledge about consciousness. Where standard Western epistemology restricts legitimate evidence to third-person observation and logical inference, contemplative epistemology holds that trained first-person inquiry yields knowledge inaccessible by other means. The framework does not claim that untrained introspection is reliable, nor that contemplative reports are infallible. It claims that rigorous first-person methods, refined through extensive practice, produce epistemic goods—replicable observations, predictive power, and intersubjective convergence—that meet reasonable standards for knowledge. Mapping the conditions under which this reliability holds, and where it breaks down, is essential for any framework that treats phenomenological evidence as bearing on questions about the nature of consciousness.
@@ -155,6 +156,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Applying contemplative knowledge to test philosophical positions
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The methodological gap between subjective and objective approaches
 - [phenomenology](/concepts/phenomenology/) — The philosophical tradition grounding contemplative methods
+- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Husserl's evidence taxonomy (adequate, apodictic, assertoric, presumptive) and how it calibrates first-person claims
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — When first-person reports constitute evidence
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — How Buddhist no-self findings relate to dualist frameworks
 - [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) — The three-layered self framework distinguishing what contemplatives dissolve from what persists

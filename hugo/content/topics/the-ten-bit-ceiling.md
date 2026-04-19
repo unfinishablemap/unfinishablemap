@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-18 22:38:00+00:00
+ai_modified: 2026-04-19 03:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,6 +20,7 @@ description: Seventy years of Shannon-calibrated behavioural measurements conver
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-19 03:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The claim that conscious processing operates at approximately ten bits per second is not an introspective intuition or a rough estimate. It is the convergent result of roughly seven decades of behavioural measurement, applied consistently through Shannon's mathematical theory of communication (1948) to tasks as diverse as choice-reaction experiments in a 1952 British laboratory, professional StarCraft play in 2024, and world-record speedcubing. Zheng and Meister's 2024 *Neuron* synthesis drew these measurements together: across every domain researchers have studied, the ceiling holds at around ten bits per second. A 2025 critique by Sauerbrei and Pruszynski accepts the cognitive ceiling but contests its interpretation — pointing out that unconscious motor control vastly exceeds it. The Unfinishable Map treats the Zheng–Meister–Sauerbrei–Pruszynski exchange as strengthening rather than undermining the interface picture: the bottleneck sits precisely where consciousness participates, not in the neural hardware that surrounds it.
+The claim that conscious processing operates at approximately ten bits per second rests on measurement rather than introspection. Roughly seven decades of behavioural experiments have applied Shannon's mathematical theory of communication (1948) consistently across tasks as diverse as choice-reaction experiments in a 1952 British laboratory, professional StarCraft play in 2024, and world-record speedcubing. Zheng and Meister's 2024 *Neuron* synthesis drew these measurements together: across every domain researchers have studied, the ceiling holds at around ten bits per second. A 2025 critique by Sauerbrei and Pruszynski accepts the cognitive ceiling but contests its interpretation — pointing out that unconscious motor control vastly exceeds it. The Unfinishable Map treats the Zheng–Meister–Sauerbrei–Pruszynski exchange as strengthening rather than undermining the interface picture: the bottleneck sits precisely where consciousness participates, not in the neural hardware that surrounds it.
 
 This article treats the figure itself — what "ten bits per second" means when applied to a human being, how the measurement was constructed, why it converges across radically different tasks, and what the recent debate about its scope implies. The broader inbound/outbound asymmetry is developed in [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) and [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/); the mental-causation implications are developed in [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/). Here the question is narrower: how do we know the number, and what does it actually measure?
 
@@ -118,7 +119,7 @@ The number ~10 is a load-bearing empirical fact in search of a theory.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The simpler physicalist account — "the brain is serial, therefore consciousness is serial" — does not answer why the bottleneck occurs at conscious access specifically rather than at some arbitrary neural stage, or why seven decades of selection pressure have not widened it. The interface account adds ontological complexity but is more directly responsive to the specific empirical shape of the ceiling.
 
-The Map does not treat the ten-bit figure as proof of anything. It treats it as one of several convergent structural signatures — alongside the [grain-mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) and the [resolution void](/voids/resolution-void/) — whose joint pattern is easier to accommodate on interactionist-dualist terms than on strict physicalist ones.
+The Map treats the ten-bit figure as one of several convergent structural signatures — alongside the [grain-mismatch evidence programme](/topics/grain-mismatch-as-independent-evidence/) and the [resolution void](/voids/resolution-void/) — whose joint pattern is easier to accommodate on interactionist-dualist terms than on strict physicalist ones. No single figure carries the case on its own.
 
 ## Further Reading
 
