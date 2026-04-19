@@ -1,13 +1,40 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 04:38:00+00:00
+ai_modified: 2026-04-19 07:37:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-19 07:37 UTC - deep-review
+- **Status**: Success
+- **File**: [voids-between-minds](/voids/voids-between-minds/)
+- **Word count**: 2708 → 2708 (unchanged, 135% of 2000 soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0 (article at high convergence from three coalesced predecessors)
+- **Medium issues addressed**: 0 (contemplative traditions paragraph deferred due to length constraint)
+- **Enhancements made**: None — article has converged; only frontmatter timestamps updated
+- **Output**: [deep-review-2026-04-19-voids-between-minds](/reviews/deep-review-2026-04-19-voids-between-minds/)
+
+## 2026-04-19 06:38 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
+- **Word count**: 1709 → 1953 (+244, 98% of 2000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (no engagement with phenomenology as partial escape route)
+- **Enhancements made**: New "A Partial Access Point" section engages with phenomenological-method-and-evidence-standards insights; cross-links added to frontmatter and Further Reading
+- **Output**: [deep-review-2026-04-19-epistemological-limits-occams-razor](/reviews/deep-review-2026-04-19-epistemological-limits-occams-razor/)
+
+## 2026-04-19 05:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [the-ten-bit-ceiling](/topics/the-ten-bit-ceiling/)
+- **Target**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) (merged into existing article)
+- **Archived**: [the-ten-bit-ceiling](/archive/topics/the-ten-bit-ceiling/)
+- **Rationale**: ~70% content overlap — same studies (Zheng & Meister, Sauerbrei & Pruszynski, Hick, Hyman, Miller), same interface argument. Distinctive methodological framing (Shannon's bit-based measurement, Pierce & Karlin) and candidate explanations for the specific ten-bit figure (alpha rhythm, metabolic cost, evolutionary legacy, interface capacity) integrated into new "Measuring the Ceiling in Bits" and "Why Ten Specifically" sections.
+- **References updated**: [mental-effort](/concepts/mental-effort/), [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/)
+- **Topics slot freed**: 233 → 232
 
 ## 2026-04-19 04:38 UTC - deep-review
 - **Status**: Success

@@ -38,7 +38,7 @@ title: Mental Effort
 topics:
 - '[[topics/free-will]]'
 - '[[hard-problem-of-consciousness]]'
-- '[[topics/the-ten-bit-ceiling]]'
+- '[[topics/bandwidth-of-consciousness]]'
 ---
 
 Controlling your attention takes effort. This simple phenomenological fact—that directing the mind feels effortful, that overriding impulses requires work—is among the strongest evidence that consciousness does something. If effort is *real*—if it genuinely costs something to hold attention on a topic—then something is doing work. The question is what. The Unfinishable Map argues that this datum supports interactionist dualism regardless of which physical mechanism turns out to mediate the interaction.
@@ -55,7 +55,7 @@ This phenomenology is universal. Everyone knows the experience of trying to focu
 
 The [attention as interface hypothesis](/concepts/attention-as-interface/) provides a framework. Attention functions as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates on matter. [Attention and consciousness are dissociable](/concepts/attention-as-interface/): you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). If consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement.
 
-The phenomenology of effort reflects the *real cost* of operating through this interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. The interface is bandwidth-limited: Shannon-calibrated measurements converge on ~10 bits/s for *conscious* throughput, while unconscious motor and sensory processing runs orders of magnitude faster (Zheng & Meister, 2024; Sauerbrei & Pruszynski, 2025; see [the ten-bit ceiling](/topics/the-ten-bit-ceiling/)). The narrowing sits where consciousness participates, not in the neural hardware around it—which is what effort tracks from the inside.
+The phenomenology of effort reflects the *real cost* of operating through this interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. The interface is bandwidth-limited: Shannon-calibrated measurements converge on ~10 bits/s for *conscious* throughput, while unconscious motor and sensory processing runs orders of magnitude faster (Zheng & Meister, 2024; Sauerbrei & Pruszynski, 2025; see [the bandwidth of consciousness](/topics/bandwidth-of-consciousness/)). The narrowing sits where consciousness participates, not in the neural hardware around it—which is what effort tracks from the inside.
 
 ### The Willed-Instructed Distinction
 
@@ -172,7 +172,7 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface layer between consciousness and neural systems
 - [structure-of-attention](/topics/structure-of-attention/) — How attention is organized across voluntary, involuntary, and meta-attentional layers
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The choosing-observing distinction and four-component structure of willing
-- [The Ten-Bit Ceiling](/topics/the-ten-bit-ceiling/) — Seventy years of Shannon-calibrated measurements converging on ~10 bits/s of conscious throughput
+- [The Bandwidth of Consciousness](/topics/bandwidth-of-consciousness/) — Seventy years of Shannon-calibrated measurements converging on ~10 bits/s of conscious throughput
 - [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/) — Selection vs witnessing modes
 - [illusionism](/concepts/illusionism/) — The eliminativist challenge
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Overview of quantum consciousness mechanisms

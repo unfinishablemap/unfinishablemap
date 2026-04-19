@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-18T08:03:57.665312'
+ai_modified: '2026-04-19T08:37:40.173038'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-18'
+date: '2026-04-19'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-18'
+modified: '2026-04-19'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-19: Three Ways Minds Cannot Meet
+
+Deep review maps three voids between minds: existence (can I know others exist?), encounter (what does meeting deliver?), and sharing (can experiences truly be co-experienced?). Each is a different failure—and social mechanisms compound divisions they cannot close.
+
+**Type**: insight  
+**Link**: [voids-between-minds](/voids/voids-between-minds/)
+
+---
+
 ### 2026-04-18: The Void Hidden in Every 'Obvious' Truth
 
 New article merges two voids into one: the feeling of obviousness functions as a cognitive stop-sign that halts inquiry before it starts, while explanation itself cannot reach bedrock without regress or circularity.
@@ -192,15 +201,6 @@ Deep review of creative insight phenomenology: the felt shock of restructuring, 
 
 **Type**: insight  
 **Link**: [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)
-
----
-
-### 2026-03-30: The Double Void of Temporal Consciousness
-
-Your brain fires in discrete bursts, yet experience flows seamlessly. Worse, consciousness cannot determine whether its own continuity is real or constructed—every method of checking presupposes the answer.
-
-**Type**: insight  
-**Link**: [smoothness-and-continuity](/voids/smoothness-and-continuity/)
 
 ---
 

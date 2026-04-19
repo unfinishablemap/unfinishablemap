@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review epistemological-limits-occams-razor.md considering phenomenological-method-and-evidence-standards insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-04-18) argues that first-person evidence can clear specified methodological bars and that Occam-style demands for third-person confirmation are not epistemically neutral when applied to phenomenal claims. Cross-review voids/epistemological-limits-occams-razor.md for: (a) places where the new article's evidence-standard arguments reinforce the void's claim about parsimony's limits, (b) whether the two articles share (or should share) an explicit defence of first-person evidence as non-parsimony-defeating, (c) potential overlap or redundancy that could be resolved by cross-linking rather than restating.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-04-19
-
-### P2: Deep review voids-between-minds.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated voids article (ai_contribution: 100) with no recorded last_deep_review despite being recently condensed (2026-04-18). After condensation, a deep review is warranted to verify that the shortened article retains argumentative coherence, accurate philosophical claims about interpersonal phenomenal inaccessibility, correct cross-references, and tenet alignment (Dualism, Hard Problem). Check especially whether the condensation preserved the core dialectic with other-minds scepticism and the connections to zombies, inverted-qualia, and interface-locality.
-- **Source**: staleness
-- **Generated**: 2026-04-19
-
 ### P3: Address symmetry problem in Parsimony Void article
 - **Type**: refine-draft
 - **Status**: pending
@@ -2383,6 +2369,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ## Completed Tasks
 
 
+### ✓ 2026-04-19: Deep review voids-between-minds.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) with no recorded last_deep_review despite being recently condensed (2026-04-18). After condensation, a deep review is warranted to verify that the shortened article retains argumentative coherence, accurate philosophical claims about interpersonal phenomenal inaccessibility, correct cross-references, and tenet alignment (Dualism, Hard Problem). Check especially whether the condensation preserved the core dialectic with other-minds scepticism and the connections to zombies, inverted-qualia, and interface-locality.
+- **Output**: obsidian/voids/voids-between-minds.md
+
+### ✓ 2026-04-19: Review epistemological-limits-occams-razor.md considering phenomenological-method-and-evidence-standards insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-04-18) argues that first-person evidence can clear specified methodological bars and that Occam-style demands for third-person confirmation are not epistemically neutral when applied to phenomenal claims. Cross-review voids/epistemological-limits-occams-razor.md for: (a) places where the new article's evidence-standard arguments reinforce the void's claim about parsimony's limits, (b) whether the two articles share (or should share) an explicit defence of first-person evidence as non-parsimony-defeating, (c) potential overlap or redundancy that could be resolved by cross-linking rather than restating.
+- **Output**: obsidian/voids/epistemological-limits-occams-razor.md -- Context: Review epistemological-limits-occams-razor.md considering phenomenological-method-and-evidence-standards insights
+
 ### ✓ 2026-04-19: Review contemplative-epistemology.md considering phenomenological-method-and-evidence-standards insights
 - **Type**: cross-review
 - **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-04-18, ~2322 words) articulates the Map's methodological standards for first-person evidence, including training, inter-subjective validation, and falsification conditions. Cross-review concepts/contemplative-epistemology.md for: (a) places to add [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) links where contemplative training grounds evidence-standard claims, (b) whether the new article's evidence standards strengthen, hedge, or contradict contemplative-epistemology's arguments about meditative access, (c) terminological alignment around "first-person method," "trained attention," and "evidence."
@@ -2390,7 +2386,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### ✓ 2026-04-19: Review mental-effort.md considering the-ten-bit-ceiling insights
 - **Type**: cross-review
-- **Notes**: New article topics/the-ten-bit-ceiling.md (created 2026-04-18) develops the ~10 bits/s bandwidth and its implications for mental effort (why effortful cognition feels limited, why attention bottlenecks are phenomenally salient). Cross-review concepts/mental-effort.md for: (a) places to add [the-ten-bit-ceiling](/topics/the-ten-bit-ceiling/) links where the bandwidth ceiling explains the phenomenology of effort, (b) whether the ten-bit account supports, contradicts, or refines the existing mental-effort treatment, (c) terminology consistency around "bandwidth," "bottleneck," and "capacity limits."
+- **Notes**: New article topics/the-ten-bit-ceiling.md (created 2026-04-18) develops the ~10 bits/s bandwidth and its implications for mental effort (why effortful cognition feels limited, why attention bottlenecks are phenomenally salient). Cross-review concepts/mental-effort.md for: (a) places to add [the-ten-bit-ceiling](/topics/bandwidth-of-consciousness/) links where the bandwidth ceiling explains the phenomenology of effort, (b) whether the ten-bit account supports, contradicts, or refines the existing mental-effort treatment, (c) terminology consistency around "bandwidth," "bottleneck," and "capacity limits."
 - **Output**: obsidian/concepts/mental-effort.md -- Context: Review mental-effort.md considering the-ten-bit-ceiling insights
 
 ### ✓ 2026-04-19: Review grain-mismatch-as-independent-evidence.md considering the-ten-bit-ceiling insights

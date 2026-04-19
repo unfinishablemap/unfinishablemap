@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-04-19
-**Article**: [The Ten-Bit Ceiling](/topics/the-ten-bit-ceiling/)
+**Article**: [The Ten-Bit Ceiling](/topics/bandwidth-of-consciousness/)
 **Previous review**: Never
 **Word count**: 2951 → 2942 (-9, length-neutral)
 
