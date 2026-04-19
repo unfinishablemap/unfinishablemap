@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 10:39:00+00:00
+ai_modified: 2026-04-19 11:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-19 11:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/wheelers-participatory-universe-and-it-from-bit]]
+- **Changes**: Updated two wikilinks from archived `[[pragmatism-and-qbism]]` slug to the unified `[[pragmatist-quantum-foundations-and-the-agent]]` article (body §QBism and Participatory Realism, and Further Reading entry). Display label updated to the new article's title "Pragmatist Quantum Foundations and the Agent-Shaped Hole".
+- **Published**: yes
 
 ## 2026-04-19 10:39 UTC - coalesce
 - **Status**: Success
