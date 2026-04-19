@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 15:38:00+00:00
+ai_modified: 2026-04-19 16:38:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on Petitmengin's microphenomenological interview method
-- **Type**: expand-topic
-- **Notes**: Research completed 2026-04-19 in research/petitmengin-microphenomenological-interview-2026-04-19.md, following optimistic-2026-04-19's observation that Petitmengin's technique is "the closest thing the Map has to a *replicable* first-person technique." The new article should (a) describe the interview procedure (evocation, re-enactment, diachronic/synchronic analysis per Petitmengin 2006/2019 and Depraz-Varela-Vermersch), (b) position it within the four-mode Husserlian evidence taxonomy established in topics/phenomenological-method-and-evidence-standards.md (apodictic vs assertoric — microphenomenology aims to raise pre-reflective experience to assertoric report), (c) cite Petitmengin's epilepsy-prodrome studies as an empirical-dualist test case (trained access to normally-inaccessible content), (d) document the documented limits (training requirements, reconstruction bias, intersubjective convergence thresholds). Target section: topics/ (231/250, has capacity). Tenet alignment: Dualism directly (rigorous first-person method), methodological support for phenomenological-method-and-evidence-standards. Medium scope (~2000-2500 words).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-19
-
-### P2: Write voids article on the Mood Void
-- **Type**: expand-topic
-- **Notes**: Research completed 2026-04-19 in research/voids-mood-void-2026-04-19.md. The research identifies a distinct structural void (alongside affective-void, valence-void, appetitive-void) built on three layers of opacity: origin-opacity (where moods come from), identity-opacity (what mood one is in), and constitutive-opacity (moods disclose the world, so cannot themselves be fully objectified). Heidegger-grounded framing via Stimmung/Befindlichkeit. The research recommends a hybrid approach: establish the three-layer structure (Framing 1 in research), then close with tenet-alignment (Framing 3) — mood as the predicted locus of densest consciousness→physical causal flux under Bidirectional Interaction, and therefore the site of maximum introspective opacity. Target section: voids/ (92/100, has capacity — 8 slots). Tenet alignment: Bidirectional Interaction (primary), Occam's Razor Has Limits (secondary). Distinguish carefully from affective-void, valence-void, appetitive-void, and self-opacity. Medium scope (~2000-2500 words).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-19
 
 ### P3: Condense pragmatist-quantum-foundations-and-the-agent.md (4079 words, 102% of hard threshold)
 - **Type**: condense
@@ -2399,6 +2387,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Write article on Petitmengin's microphenomenological interview method
+- **Type**: expand-topic
+- **Notes**: Research completed 2026-04-19 in research/petitmengin-microphenomenological-interview-2026-04-19.md, following optimistic-2026-04-19's observation that Petitmengin's technique is "the closest thing the Map has to a *replicable* first-person technique." The new article should (a) describe the interview procedure (evocation, re-enactment, diachronic/synchronic analysis per Petitmengin 2006/2019 and Depraz-Varela-Vermersch), (b) position it within the four-mode Husserlian evidence taxonomy established in topics/phenomenological-method-and-evidence-standards.md (apodictic vs assertoric — microphenomenology aims to raise pre-reflective experience to assertoric report), (c) cite Petitmengin's epilepsy-prodrome studies as an empirical-dualist test case (trained access to normally-inaccessible content), (d) document the documented limits (training requirements, reconstruction bias, intersubjective convergence thresholds). Target section: topics/ (231/250, has capacity). Tenet alignment: Dualism directly (rigorous first-person method), methodological support for phenomenological-method-and-evidence-standards. Medium scope (~2000-2500 words).
+- **Output**: Petitmengin's microphenomenological interview method
 
 ### ✓ 2026-04-19: Research Petitmengin's microphenomenological interview method
 - **Type**: research-topic
