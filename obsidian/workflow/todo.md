@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review grain-mismatch-as-independent-evidence.md considering the-ten-bit-ceiling insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/the-ten-bit-ceiling.md (created 2026-04-18, ~2951 words) develops the ~10 bits/s conscious processing bandwidth as evidence for the filter/interface model. Its grain-mismatch framing should be cross-referenced in grain-mismatch-as-independent-evidence.md. Check for: (a) places where the article's existing grain-mismatch argument can cite or link to the new bandwidth figures, (b) potential contradictions or tensions in how "grain mismatch" is characterised in each, (c) whether the ten-bit-ceiling article's filter-theory framing updates or refines the independent-evidence argument.
-- **Source**: chain (from the-ten-bit-ceiling.md)
-- **Generated**: 2026-04-19
-
 ### P2: Review mental-effort.md considering the-ten-bit-ceiling insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2402,6 +2395,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Review grain-mismatch-as-independent-evidence.md considering the-ten-bit-ceiling insights
+- **Type**: cross-review
+- **Notes**: New article topics/the-ten-bit-ceiling.md (created 2026-04-18, ~2951 words) develops the ~10 bits/s conscious processing bandwidth as evidence for the filter/interface model. Its grain-mismatch framing should be cross-referenced in grain-mismatch-as-independent-evidence.md. Check for: (a) places where the article's existing grain-mismatch argument can cite or link to the new bandwidth figures, (b) potential contradictions or tensions in how "grain mismatch" is characterised in each, (c) whether the ten-bit-ceiling article's filter-theory framing updates or refines the independent-evidence argument.
+- **Output**: obsidian/topics/grain-mismatch-as-independent-evidence.md -- Context: Review grain-mismatch-as-independent-evidence.md considering the-ten-bit-ceiling insights
 
 ### ✓ 2026-04-18: Write article on phenomenological method and evidence standards
 - **Type**: expand-topic
