@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 14:38:00+00:00
+ai_modified: 2026-04-19 15:41:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-19 15:41 UTC - deep-review
+- **Status**: Success
+- **File**: [prospective-memory](/concepts/prospective-memory/)
+- **Word count**: 2787 → 2805 (+18, remains at soft_warning 112%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (MWI amplitude-shaping reply now engaged; "conceptually incoherent" pre-experience claim softened to conditional; "paradigmatically" language inflation fixed)
+- **Enhancements made**: 2 (removed stale AI REFINEMENT LOG comment; tightened Whitehead section ~25 words to partly offset MWI expansion)
+- **Output**: [deep-review-2026-04-19-prospective-memory](/reviews/deep-review-2026-04-19-prospective-memory/)
 
 ## 2026-04-19 14:38 UTC - research-topic
 - **Status**: Success
