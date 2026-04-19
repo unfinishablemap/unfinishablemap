@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review contemplative-epistemology.md considering phenomenological-method-and-evidence-standards insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-04-18, ~2322 words) articulates the Map's methodological standards for first-person evidence, including training, inter-subjective validation, and falsification conditions. Cross-review concepts/contemplative-epistemology.md for: (a) places to add [[phenomenological-method-and-evidence-standards]] links where contemplative training grounds evidence-standard claims, (b) whether the new article's evidence standards strengthen, hedge, or contradict contemplative-epistemology's arguments about meditative access, (c) terminological alignment around "first-person method," "trained attention," and "evidence."
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-04-19
-
 ### P2: Review epistemological-limits-occams-razor.md considering phenomenological-method-and-evidence-standards insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2388,6 +2381,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Review contemplative-epistemology.md considering phenomenological-method-and-evidence-standards insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-04-18, ~2322 words) articulates the Map's methodological standards for first-person evidence, including training, inter-subjective validation, and falsification conditions. Cross-review concepts/contemplative-epistemology.md for: (a) places to add [[phenomenological-method-and-evidence-standards]] links where contemplative training grounds evidence-standard claims, (b) whether the new article's evidence standards strengthen, hedge, or contradict contemplative-epistemology's arguments about meditative access, (c) terminological alignment around "first-person method," "trained attention," and "evidence."
+- **Output**: obsidian/concepts/contemplative-epistemology.md -- Context: Review contemplative-epistemology.md considering phenomenological-method-and-evidence-standards insights
 
 ### ✓ 2026-04-19: Review mental-effort.md considering the-ten-bit-ceiling insights
 - **Type**: cross-review
