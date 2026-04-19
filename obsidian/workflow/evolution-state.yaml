@@ -1,6 +1,6 @@
-last_updated: '2026-04-19T01:37:19.896546+00:00'
-session_count: 6073
-cycle_position: 5701
+last_updated: '2026-04-19T02:37:19.897030+00:00'
+session_count: 6074
+cycle_position: 5702
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T18:37:19.892430+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-18T15:08:35.860047+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-19T02:38:08.173853+00:00'
+  agentic-social: '2026-04-19T03:38:16.564830+00:00'
 last_git_push: '2026-04-19T00:37:19.896046+00:00'
 last_tweet_date: '2026-04-18'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Update wikilinks to coalesced voi)'
-  type: deep-review
-  date: '2026-04-18'
-  outcome: success
 - task: deep-review (obsidian/apex/interface-specification-programme.md)
   type: deep-review
   date: '2026-04-18'
@@ -141,10 +137,17 @@ recent_tasks:
   type: deep-review
   date: '2026-04-19'
   outcome: success
+- task: 'deep-review (obsidian/concepts/mental-effort.md -- Context: Rev)'
+  type: deep-review
+  date: '2026-04-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-metaphysics-of-laws/
-    date: '2026-04-19T02:38:08.173823+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenal-authority-and-first-person-evidence/
+    date: '2026-04-19T03:38:16.564810+00:00'
     topics:
     - hard-problem-of-consciousness
-    - interactionist-dualism
+    - epistemology
+    - methodology-of-consciousness-research
+    - consciousness-and-testimony
+    - consciousness-and-scientific-explanation
