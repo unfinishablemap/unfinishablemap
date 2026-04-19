@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 12:38:00+00:00
+ai_modified: 2026-04-19 12:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-19 12:55 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Mood Void — introspective opacity of the pervasive affective background
+- **Category**: Occluded (primary) with Unexplorable elements
+- **Output**: [[research/voids-mood-void-2026-04-19]]
+- **Key finding**: Mood has three-layer opacity (origin, identity, constitutive) because it is the medium through which consciousness discloses a world rather than a content within the world — exactly where Bidirectional Interaction predicts the densest causal flux is exactly where introspection fails most completely.
 
 ## 2026-04-19 12:38 UTC - refine-draft
 - **Status**: Success
