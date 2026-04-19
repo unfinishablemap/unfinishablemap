@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 07:37:00+00:00
+ai_modified: 2026-04-19 08:46:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-19 08:46 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Word count**: 2322 → 2310 (-12, 77% of 3000 soft threshold)
+- **Critical issues addressed**: 0 (no critical issues found; article in stable convergent state)
+- **Medium issues addressed**: 2 (Chalmers reference mismatch resolved via argumentative reframe; uncited Thomasson reference removed)
+- **Enhancements made**: Added [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) cross-link in apodictic certainty section; promoted [explanatory-gap](/concepts/explanatory-gap/) to inline wikilink in Dennett response
+- **Output**: [deep-review-2026-04-19-phenomenological-method-and-evidence-standards](/reviews/deep-review-2026-04-19-phenomenological-method-and-evidence-standards/)
 
 ## 2026-04-19 07:37 UTC - deep-review
 - **Status**: Success

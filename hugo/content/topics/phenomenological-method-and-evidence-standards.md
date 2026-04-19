@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-18 23:38:00+00:00
+ai_modified: 2026-04-19 08:46:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -15,13 +15,14 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[qualia]]'
 created: 2026-04-18
-date: &id001 2026-04-18
+date: &id001 2026-04-19
 description: Husserl's evidence taxonomy—adequate, apodictic, assertoric, presumptive—gives
   phenomenology a rigorous standard distinct from natural science, with consequences
   for the dualist case.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-19 08:46:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -46,7 +47,7 @@ Husserl's most technically demanding contribution to epistemology is his classif
 
 **Adequate evidence** is evidence in which the object is given completely, without remainder—the entirety of what is intended is present in the giving. **Apodictic evidence** is evidence in which the impossibility of being otherwise is itself given—what is seen could not be doubted because doubting it is itself unintelligible. The early Husserl treated these as paired marks of phenomenological certainty. The mature Husserl, after recognising that immanent perception involves temporal horizons (the just-passed and the about-to-come are co-given but never wholly present), separated them. As Himanka (2018) reconstructs the move: "adequacy and apodicticity of evidence need not go hand in hand."
 
-This separation has a striking implication. The ego's living present is given with apodictic certainty—*that* I am experiencing cannot be doubted, even if I am wrong about *what* I am experiencing. But the content of that experience trails off into a presumptive horizon that is never fully given. We can be certain of the existence of consciousness while remaining fallible about its detailed structure.
+This separation has a striking implication. The ego's living present is given with apodictic certainty—*that* I am experiencing cannot be doubted, even if I am wrong about *what* I am experiencing. This is the bedrock of [phenomenal acquaintance](/concepts/phenomenal-acquaintance/): direct, non-inferential contact with the fact of one's own experiencing. But the content of that experience trails off into a presumptive horizon that is never fully given. We can be certain of the existence of consciousness while remaining fallible about its detailed structure.
 
 The mature taxonomy distinguishes four modes:
 
@@ -81,7 +82,7 @@ Two influential lines of objection challenge whether phenomenology delivers anyt
 
 Both critiques deserve direct engagement.
 
-Against Dennett's heterophenomenology: the deflationary move presupposes what it claims to remain neutral about. Treating reports as "merely text" is itself a metaphysical stance—it assumes that the report-text exhausts the data. But this is the question at issue. As Chalmers (in the same debate) notes, if heterophenomenology is genuinely neutral about whether subjects' reports describe real phenomenal properties, then it is consistent with phenomenology and adds nothing. If it is committed to denying those properties, it begs the question against the explanatory gap. The "neutrality" is unstable.
+Against Dennett's heterophenomenology: the deflationary move presupposes what it claims to remain neutral about. Treating reports as "merely text" is itself a metaphysical stance—it assumes that the report-text exhausts the data. But this is the question at issue. A dilemma follows: if heterophenomenology is genuinely neutral about whether subjects' reports describe real phenomenal properties, then it is consistent with phenomenology and adds nothing. If it is committed to denying those properties, it begs the question against the [explanatory gap](/concepts/explanatory-gap/). The "neutrality" is unstable.
 
 Against Schwitzgebel's introspective skepticism: the critique targets *naive* introspection, not phenomenological method. Phenomenology was developed precisely because Husserl recognised that ordinary introspection conflates appearance with theory, present experience with remembered experience, and phenomenal content with cognitive process. The epoché is a discipline against exactly the failures Schwitzgebel catalogues. Conflating disciplined and naive introspection lets the critique succeed against a target phenomenology has already abandoned.
 
@@ -152,8 +153,6 @@ Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. Nijhoff.
 Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
 
 Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
-
-Thomasson, A. L. (2003). First-person knowledge in phenomenology. In D. W. Smith & A. L. Thomasson (Eds.), *Phenomenology and Philosophy of Mind*. Oxford University Press.
 
 Varela, F. J. (1996). Neurophenomenology: A methodological remedy for the hard problem. *Journal of Consciousness Studies*, 3(4), 330-349.
 
