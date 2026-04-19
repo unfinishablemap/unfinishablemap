@@ -2,10 +2,10 @@
 title: "The Parsimony Void"
 description: "Human+AI exploration of why Occam's Razor may be a cognitive bias masquerading as an epistemic principle—and why we cannot tell from within."
 created: 2026-02-22
-modified: 2026-03-10
+modified: 2026-04-19
 human_modified:
-ai_modified: 2026-03-25T01:24:00+00:00
-last_deep_review: 2026-03-10T11:53:00+00:00
+ai_modified: 2026-04-19T06:38:00+00:00
+last_deep_review: 2026-04-19T06:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[whether-real]]"
   - "[[parsimony-epistemology]]"
+  - "[[phenomenological-method-and-evidence-standards]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -74,6 +75,12 @@ In the Map's [[three-kinds-of-void|taxonomy]], this void has elements of all thr
 
 Whether this void is permanent or temporary remains, as with most voids, [[whether-real|undecidable from within]].
 
+## A Partial Access Point
+
+One candidate for parsimony-independent access deserves consideration: phenomenological evidence. The [[phenomenological-method-and-evidence-standards|phenomenological method]] trades on evidence standards that do not reduce to compression preference. The ego's living present is given with apodictic certainty — *that* I am experiencing cannot be coherently doubted, whatever simplicity verdict a theory of consciousness would satisfy. This is originary givenness, not inference; it is not felt as plausible because it is simpler.
+
+Does this dissolve the void? Not entirely. Phenomenological evidence delivers the existence of experience apodictically but leaves the ontological question — how consciousness relates to the physical — within the scope of theory-choice, and theory-choice is where parsimony bias operates. Still, phenomenology provides a toehold: a domain of evidence that parsimony cannot fully discipline, because its evidential authority is not compression-based. Intersubjective convergence among trained observers — across contemplative traditions, microphenomenological interview, cross-cultural reports of altered states — strengthens the toehold by adding structurally reproducible findings whose weight does not track which theory is simpler. Dismissing that body of evidence because it fails natural-scientific standards is itself a parsimony move, as the phenomenological-method article argues. The void is thus not total. There is a narrow band of evidence — the given facts of experience — where parsimony bias has no purchase. The limits of that band, and whether disciplined inquiry can extend them, are themselves part of what the void conceals.
+
 ## What This Changes
 
 If the parsimony void is genuine, two consequences follow for the Map's project:
@@ -94,6 +101,7 @@ The connection to [[tenets#^minimal-quantum-interaction|Tenet 2 (Minimal Quantum
 
 - [[epistemological-limits-of-occams-razor]] — The philosophical arguments against parsimony in the consciousness debate
 - [[parsimony-epistemology]] — Why Occam's Razor lacks epistemic warrant, including hostile witnesses from the materialist camp
+- [[phenomenological-method-and-evidence-standards]] — Evidence standards that do not reduce to compression preference
 - [[meta-epistemology-of-limits]] — The general problem of assessing cognitive limits from within
 - [[three-kinds-of-void]] — The unexplored, unexplorable, and occluded
 - [[whether-real]] — Can we determine if cognitive limits are permanent?

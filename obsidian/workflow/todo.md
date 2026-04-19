@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Review epistemological-limits-occams-razor.md considering phenomenological-method-and-evidence-standards insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-04-18) argues that first-person evidence can clear specified methodological bars and that Occam-style demands for third-person confirmation are not epistemically neutral when applied to phenomenal claims. Cross-review voids/epistemological-limits-occams-razor.md for: (a) places where the new article's evidence-standard arguments reinforce the void's claim about parsimony's limits, (b) whether the two articles share (or should share) an explicit defence of first-person evidence as non-parsimony-defeating, (c) potential overlap or redundancy that could be resolved by cross-linking rather than restating.
-- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
-- **Generated**: 2026-04-19
-
 ### P2: Deep review voids-between-minds.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2381,6 +2374,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Review epistemological-limits-occams-razor.md considering phenomenological-method-and-evidence-standards insights
+- **Type**: cross-review
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-04-18) argues that first-person evidence can clear specified methodological bars and that Occam-style demands for third-person confirmation are not epistemically neutral when applied to phenomenal claims. Cross-review voids/epistemological-limits-occams-razor.md for: (a) places where the new article's evidence-standard arguments reinforce the void's claim about parsimony's limits, (b) whether the two articles share (or should share) an explicit defence of first-person evidence as non-parsimony-defeating, (c) potential overlap or redundancy that could be resolved by cross-linking rather than restating.
+- **Output**: obsidian/voids/epistemological-limits-occams-razor.md -- Context: Review epistemological-limits-occams-razor.md considering phenomenological-method-and-evidence-standards insights
 
 ### ✓ 2026-04-19: Review contemplative-epistemology.md considering phenomenological-method-and-evidence-standards insights
 - **Type**: cross-review
