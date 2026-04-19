@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 12:55:00+00:00
+ai_modified: 2026-04-19 13:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-19 13:38 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Files**: [[concepts/phenomenology]], [[concepts/phenomenal-acquaintance]], [[concepts/phenomenological-evidence]]
+- **Against new content**: [[topics/phenomenological-method-and-evidence-standards]] (created 2026-04-18)
+- **Word counts**: phenomenology 2486→2496 (99%→100%), phenomenal-acquaintance 2268→2356 (91%→94%), phenomenological-evidence 2595→2603 (104%, soft_warning unchanged)
+- **Critical issues addressed**: 2 — fixed misleading wikilink targets in phenomenology.md and phenomenological-evidence.md where display text matched the new article's title but link pointed to `phenomenal-authority-and-first-person-evidence`. Retargeted to the new article.
+- **Medium issues addressed**: 3 — added apodictic/assertoric/presumptive paragraph to phenomenal-acquaintance.md connecting its acquaintance/judgement distinction to Husserl's evidence taxonomy; added Further Reading entries for the new article in all three; updated `related_articles` frontmatter in all three.
+- **Enhancements made**: 6 (three link/FR updates plus the apodictic-vocabulary integration in phenomenal-acquaintance)
+- **Output**: [[reviews/deep-review-2026-04-19-cross-review-phenomenology-cluster]]
 
 ## 2026-04-19 12:55 UTC - research-voids
 - **Status**: Success

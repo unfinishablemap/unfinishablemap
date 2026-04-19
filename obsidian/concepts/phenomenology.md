@@ -2,9 +2,8 @@
 title: "Phenomenology"
 description: "The philosophical method of investigating consciousness through systematic first-person description, suspending assumptions about external causes."
 created: 2026-01-14
-modified: 2026-01-14
+modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-04-16T09:44:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,12 +33,14 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[phenomenology-first-person-methods-2026-01-14]]"
+  - "[[phenomenological-method-and-evidence-standards]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-20T01:07:00+00:00
+last_deep_review: 2026-04-19T13:38:00+00:00
+ai_modified: 2026-04-19T13:38:00+00:00
 ---
 
 Phenomenology is the philosophical tradition most committed to first-person investigation of consciousness. Founded by Edmund Husserl and developed by Heidegger, Merleau-Ponty, and Sartre, it provides systematic methods for exploring the structures of experience from within. Its central methodological commitment: consciousness has an intricate architecture accessible through first-person investigation—an architecture that third-person scientific description has not captured and may be structurally unable to capture.
@@ -90,7 +91,7 @@ Gallagher and Zahavi identify this as the [[self-and-self-consciousness|minimal 
 
 Critics object that phenomenological reports cannot be trusted. Nisbett and Wilson showed people confabulate explanations for choices; Schwitzgebel catalogued domains where [[introspection]] fails.
 
-The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Fox et al. (2012) found meditation experience predicts introspective accuracy—trained observation is a skill like any other, and Petitmengin's microphenomenology provides techniques to minimize confabulation. The critique clarifies rather than defeats phenomenological method. See [[phenomenological-evidence]] for criteria distinguishing reliable from unreliable first-person reports, and [[phenomenal-authority-and-first-person-evidence|phenomenological method and evidence standards]] for Husserl's evidence taxonomy.
+The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Fox et al. (2012) found meditation experience predicts introspective accuracy—trained observation is a skill like any other, and Petitmengin's microphenomenology provides techniques to minimize confabulation. The critique clarifies rather than defeats phenomenological method. See [[phenomenological-evidence]] for criteria distinguishing reliable from unreliable first-person reports, and [[phenomenological-method-and-evidence-standards]] for Husserl's apodictic/adequate/assertoric/presumptive taxonomy.
 
 ## Intersubjective Validation
 
@@ -159,6 +160,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 ## Further Reading
 
 - [[methodology-of-consciousness-research]] — The methodological divide and why it reflects ontological dualism
+- [[phenomenological-method-and-evidence-standards]] — Husserl's evidence taxonomy and how phenomenological standards differ from natural-scientific ones
 - [[heterophenomenology]] — Dennett's third-person approach
 - [[consciousness]] — The concept phenomenology investigates
 - [[intersubjectivity]] — How phenomenological findings can be shared across minds

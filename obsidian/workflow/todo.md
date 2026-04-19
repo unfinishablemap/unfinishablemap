@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenology, phenomenal-acquaintance, phenomenological-evidence against new evidence-standards article
-- **Type**: cross-review
-- **Notes**: The 2026-04-18 expand-topic produced topics/phenomenological-method-and-evidence-standards.md with a four-mode Husserlian taxonomy (adequate/apodictic/assertoric/presumptive) that is now load-bearing methodological vocabulary. Existing concept/topic pages discussing phenomenal evidence — concepts/phenomenology.md, concepts/phenomenal-acquaintance.md, concepts/phenomenological-evidence.md — should now reference the four-mode taxonomy where it clarifies their existing claims. For each article, check (a) whether the article's claims about evidence-weight already implicitly use these modes and could be made explicit, (b) whether a body-text link to the new article would replace ad-hoc evidentiary phrasing, (c) whether terminology diverges in ways that should be reconciled.
-- **Source**: chain (from 2026-04-18 expand-topic)
-- **Generated**: 2026-04-19
-
 ### P2: Research Petitmengin's microphenomenological interview method
 - **Type**: research-topic
 - **Notes**: The 2026-04-18 phenomenological-method-and-evidence-standards article cites Petitmengin's microphenomenological interview technique in passing, and optimistic-2026-04-19 flagged it as "the closest thing the Map has to a *replicable* first-person technique" — distinct from meditative training in ways that merit separate treatment. Research Petitmengin (2006, 2019) and Depraz-Varela-Vermersch's interview protocol. Key questions: (1) What does the method actually involve procedurally? (2) Has any published work used it to test dualism-relevant claims? (3) How does it relate to Husserlian evidence taxonomy (apodictic vs assertoric)? (4) What are its documented limits — reliability, intersubjective convergence, training requirements? Target: research note for potential future topic article on empirical phenomenology. Supports Dualism tenet (rigorous first-person method) and operationalises the phenomenological-method article's evidence standards.
@@ -2392,6 +2386,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Cross-review phenomenology, phenomenal-acquaintance, phenomenological-evidence against new evidence-standards article
+- **Type**: cross-review
+- **Notes**: The 2026-04-18 expand-topic produced topics/phenomenological-method-and-evidence-standards.md with a four-mode Husserlian taxonomy (adequate/apodictic/assertoric/presumptive) that is now load-bearing methodological vocabulary. Existing concept/topic pages discussing phenomenal evidence — concepts/phenomenology.md, concepts/phenomenal-acquaintance.md, concepts/phenomenological-evidence.md — should now reference the four-mode taxonomy where it clarifies their existing claims. For each article, check (a) whether the article's claims about evidence-weight already implicitly use these modes and could be made explicit, (b) whether a body-text link to the new article would replace ad-hoc evidentiary phrasing, (c) whether terminology diverges in ways that should be reconciled.
+- **Output**: None -- Context: Cross-review phenomenology, phenomenal-acquaintance, phenomenological-evidence against new evidence-standards article
 
 ### ✓ 2026-04-19: Add body-text cross-links suggested by optimistic-2026-04-19
 - **Type**: refine-draft
