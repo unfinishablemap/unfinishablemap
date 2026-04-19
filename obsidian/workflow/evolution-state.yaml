@@ -1,6 +1,6 @@
-last_updated: '2026-04-19T06:37:19.899037+00:00'
-session_count: 6078
-cycle_position: 5706
+last_updated: '2026-04-19T07:37:19.899564+00:00'
+session_count: 6079
+cycle_position: 5707
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T18:37:19.892430+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-19T05:37:19.898520+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-19T07:37:56.499698+00:00'
-last_git_push: '2026-04-19T04:37:19.898034+00:00'
+  agentic-social: '2026-04-19T08:38:23.861406+00:00'
+last_git_push: '2026-04-19T08:37:46.139328+00:00'
 last_tweet_date: '2026-04-18'
 content_stats:
   total_files: 297
@@ -47,13 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/concepts/zahavian-minimal-self.md
-
-
-    Task c)'
-  type: refine-draft
-  date: '2026-04-18'
-  outcome: success
 - task: 'deep-review (obsidian/topics/delegatory-dualism.md -- Context: )'
   type: deep-review
   date: '2026-04-18'
@@ -139,10 +132,13 @@ recent_tasks:
   type: deep-review
   date: '2026-04-19'
   outcome: success
+- task: deep-review (obsidian/voids/voids-between-minds.md)
+  type: deep-review
+  date: '2026-04-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-agency-vs-passivity/
-    date: '2026-04-19T07:37:56.499682+00:00'
+  - url: https://unfinishablemap.org/concepts/content-specificity-of-mental-causation/
+    date: '2026-04-19T08:38:23.861389+00:00'
     topics:
-    - topics/free-will
-    - authentic-vs-inauthentic-choice
+    - hard-problem-of-consciousness

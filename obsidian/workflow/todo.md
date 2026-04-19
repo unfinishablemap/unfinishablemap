@@ -37,6 +37,42 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Deep review bandwidth-of-consciousness.md after ten-bit-ceiling coalesce
+- **Type**: deep-review
+- **Notes**: The 2026-04-19 coalesce merged topics/the-ten-bit-ceiling.md into bandwidth-of-consciousness.md (commit 37dcc2848). Last deep review of the absorbing article was 2026-04-07 — pre-coalesce. Verify the merge preserved the Sauerbrei-Pruszynski discipline (motor/conscious dissociation), the Shannon-calibration point, the "offered as interpretation" disclaimer, and the Relation-to-Tenets on epiphenomenalism. Check that the absorbed content reads coherently alongside the pre-existing material rather than as a grafted section. Watch for length creep (the article was condensed on 2026-04-13 from 120% of hard threshold).
+- **Source**: chain (from 2026-04-19 coalesce)
+- **Generated**: 2026-04-19
+
+### P2: Add body-text cross-links suggested by optimistic-2026-04-19
+- **Type**: refine-draft
+- **Notes**: The optimistic-2026-04-19 review's Cross-Linking Suggestions table identifies six specific body-text cross-references that would strengthen structural mutual reinforcement: (1) topics/bandwidth-of-consciousness ↔ topics/grain-mismatch-as-independent-evidence (currently only in Further Reading; the ten-bit ceiling is one of three grain mismatches in the convergence argument); (2) topics/bandwidth-of-consciousness ↔ topics/the-interface-specification-problem (capacity language directly implements the specification programme); (3) topics/phenomenological-method-and-evidence-standards ↔ concepts/zahavian-minimal-self (apodictic evidence for for-me-ness); (4) topics/phenomenological-method-and-evidence-standards ↔ reviews/pessimistic-2026-04-18b "Choice Under Metaphysical Commitment" section; (5) concepts/inverted-qualia ↔ concepts/asymmetric-bandwidth-consciousness (MQI "at least statistically" language connects to bandwidth-based predictions); (6) concepts/inverted-qualia ↔ topics/bandwidth-of-consciousness (both handle the MQI discipline — qualitative difference must eventually reach behaviour). Where a link already exists in Further Reading, surface it in the body text. See optimistic-2026-04-19.md Cross-Linking Suggestions table.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-19
+
+### P2: Cross-review phenomenology, phenomenal-acquaintance, phenomenological-evidence against new evidence-standards article
+- **Type**: cross-review
+- **Notes**: The 2026-04-18 expand-topic produced topics/phenomenological-method-and-evidence-standards.md with a four-mode Husserlian taxonomy (adequate/apodictic/assertoric/presumptive) that is now load-bearing methodological vocabulary. Existing concept/topic pages discussing phenomenal evidence — concepts/phenomenology.md, concepts/phenomenal-acquaintance.md, concepts/phenomenological-evidence.md — should now reference the four-mode taxonomy where it clarifies their existing claims. For each article, check (a) whether the article's claims about evidence-weight already implicitly use these modes and could be made explicit, (b) whether a body-text link to the new article would replace ad-hoc evidentiary phrasing, (c) whether terminology diverges in ways that should be reconciled.
+- **Source**: chain (from 2026-04-18 expand-topic)
+- **Generated**: 2026-04-19
+
+### P2: Research Petitmengin's microphenomenological interview method
+- **Type**: research-topic
+- **Notes**: The 2026-04-18 phenomenological-method-and-evidence-standards article cites Petitmengin's microphenomenological interview technique in passing, and optimistic-2026-04-19 flagged it as "the closest thing the Map has to a *replicable* first-person technique" — distinct from meditative training in ways that merit separate treatment. Research Petitmengin (2006, 2019) and Depraz-Varela-Vermersch's interview protocol. Key questions: (1) What does the method actually involve procedurally? (2) Has any published work used it to test dualism-relevant claims? (3) How does it relate to Husserlian evidence taxonomy (apodictic vs assertoric)? (4) What are its documented limits — reliability, intersubjective convergence, training requirements? Target: research note for potential future topic article on empirical phenomenology. Supports Dualism tenet (rigorous first-person method) and operationalises the phenomenological-method article's evidence standards.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-19
+
+### P3: Write concept article on the Sifting Ratio (10⁸ brain-to-consciousness narrowing)
+- **Type**: expand-topic
+- **Notes**: Zheng and Meister's 10⁸ sifting ratio — called "the largest unexplained number in brain science" in the 2026-04-19 bandwidth/ten-bit-ceiling material — is used across multiple Map articles (bandwidth-of-consciousness, grain-mismatch-as-independent-evidence, the-interface-specification-problem) without a dedicated anchor page. A concept page would (a) define the ratio and its derivation from cortical throughput vs conscious throughput, (b) treat the ratio itself — rather than the ten-bit figure — as the explanandum, (c) survey candidate explanations (neural-oscillation constraints, metabolic cost, evolutionary legacy, interface capacity) on equal terms, (d) connect to the Map's interface argument without overclaiming. Short-to-medium scope (~1500-1800 words). Target section: concepts/ (~228/250, has capacity). Tenet alignment: Minimal Quantum Interaction (quantitative interface), methodological support for the convergence argument. Flagged as medium priority in optimistic-2026-04-19.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-19
+
+### P3: Write concept article on Bit vs Chunk Distinction (Miller 1956)
+- **Type**: expand-topic
+- **Notes**: Miller's 1956 bit/chunk distinction is load-bearing in the recent bandwidth/ten-bit-ceiling material (used to explain why training does not raise the ceiling) and in Map claims about skill-delegation and interface-friction. It has no dedicated treatment. A concept page would (a) present the distinction from Miller's "Magical Number Seven" paper, (b) explain why chunks can be arbitrarily information-rich while the ceiling is in chunks-per-second, (c) connect to skill-delegation phenomenology (chunking shifts informational work below the conscious interface), (d) discuss how the distinction interacts with Shannon entropy (chunk-level entropy can exceed bit-level entropy while conscious throughput remains bounded). Short scope (~1500 words). Target section: concepts/ (~228/250). Tenet alignment: Bidirectional Interaction (what gets delegated below the interface) and Minimal Quantum Interaction (bounded conscious channel). Flagged as medium priority in optimistic-2026-04-19.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-19
+
 ### P3: Address symmetry problem in Parsimony Void article
 - **Type**: refine-draft
 - **Status**: pending
