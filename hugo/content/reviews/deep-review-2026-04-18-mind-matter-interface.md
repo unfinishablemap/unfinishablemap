@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-18
 **Article**: [The Mind-Matter Interface: Unifying Filter Theory and Quantum Selection](/concepts/mind-matter-interface/)
 **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19-mind-matter-interface/)
-**Context**: Cross-review considering [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) insights
+**Context**: Cross-review considering [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) insights
 
 ## Pessimistic Analysis Summary
 
@@ -30,7 +30,7 @@ None. This is the sixth deep review. The article remains stable with no attribut
 ### Medium Issues Found
 
 1. **Missing convergent-evidence frame for Layer 2**: The Stapp Zeno mechanism was presented as a lone proposal. The pragmatist-quantum-foundations article demonstrates that QBism, Healey, and Brukner-Zeilinger independently identify agent-centrality at measurement — the same juncture Layer 2 specifies. Acknowledging this convergence provides structural support for locating consciousness at collapse without changing any Map commitment.
-   - **Resolution**: Added one sentence in the Layer 2 Stapp paragraph connecting Stapp to the broader pragmatist family with cross-link to [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/). Trimmed a redundant restatement in the same paragraph for length neutrality.
+   - **Resolution**: Added one sentence in the Layer 2 Stapp paragraph connecting Stapp to the broader pragmatist family with cross-link to [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/). Trimmed a redundant restatement in the same paragraph for length neutrality.
 
 2. **Missing reciprocal cross-link**: The pragmatist-quantum-foundations article is conceptually adjacent but not linked from mind-matter-interface.
    - **Resolution**: Added to Further Reading and `related_articles` frontmatter.
@@ -61,11 +61,11 @@ All six pessimistic personas engaged:
 
 - Added pragmatist-family convergence note to Layer 2 Stapp paragraph with cross-link
 - Trimmed redundant restatement ("On this account, what you focus on becomes actual because attention is observation and observation constrains quantum evolution") — this repeated the preceding sentence with slight rephrasing
-- Added [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) to Further Reading and related_articles
+- Added [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) to Further Reading and related_articles
 
 ### Cross-links Added
 
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) (in Layer 2 text, Further Reading, and frontmatter)
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) (in Layer 2 text, Further Reading, and frontmatter)
 
 ## Remaining Items
 

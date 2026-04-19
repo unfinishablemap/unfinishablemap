@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-18
-**Article**: [Pragmatist Quantum Foundations under Dualism](/topics/pragmatist-quantum-foundations-under-dualism/)
+**Article**: [Pragmatist Quantum Foundations under Dualism](/topics/pragmatist-quantum-foundations-and-the-agent/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -55,7 +55,7 @@ topics: []
 - Both banned LLM-cliché patterns rephrased while preserving the contrast (one in the assumption paragraph, one in the structural-compatibility paragraph).
 
 ### Cross-links Added
-- None. Existing cross-link density is already high; all four pragmatist positions, all five tenets, and the closest sibling articles ([pragmatism-and-qbism](/topics/pragmatism-and-qbism/), [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) are already linked.
+- None. Existing cross-link density is already high; all four pragmatist positions, all five tenets, and the closest sibling articles ([pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/), [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/), [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)) are already linked.
 
 ## Remaining Items
 

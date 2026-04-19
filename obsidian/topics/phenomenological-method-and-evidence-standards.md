@@ -4,7 +4,7 @@ description: "Husserl's evidence taxonomy—adequate, apodictic, assertoric, pre
 created: 2026-04-18
 modified: 2026-04-19
 human_modified:
-ai_modified: 2026-04-19T08:46:00+00:00
+ai_modified: 2026-04-19T12:38:00+00:00
 last_deep_review: 2026-04-19T08:46:00+00:00
 draft: false
 topics:
@@ -44,7 +44,7 @@ Husserl's most technically demanding contribution to epistemology is his classif
 
 **Adequate evidence** is evidence in which the object is given completely, without remainder—the entirety of what is intended is present in the giving. **Apodictic evidence** is evidence in which the impossibility of being otherwise is itself given—what is seen could not be doubted because doubting it is itself unintelligible. The early Husserl treated these as paired marks of phenomenological certainty. The mature Husserl, after recognising that immanent perception involves temporal horizons (the just-passed and the about-to-come are co-given but never wholly present), separated them. As Himanka (2018) reconstructs the move: "adequacy and apodicticity of evidence need not go hand in hand."
 
-This separation has a striking implication. The ego's living present is given with apodictic certainty—*that* I am experiencing cannot be doubted, even if I am wrong about *what* I am experiencing. This is the bedrock of [[phenomenal-acquaintance|phenomenal acquaintance]]: direct, non-inferential contact with the fact of one's own experiencing. But the content of that experience trails off into a presumptive horizon that is never fully given. We can be certain of the existence of consciousness while remaining fallible about its detailed structure.
+This separation has a striking implication. The ego's living present is given with apodictic certainty—*that* I am experiencing cannot be doubted, even if I am wrong about *what* I am experiencing. This is the bedrock of [[phenomenal-acquaintance|phenomenal acquaintance]] and of what Zahavi calls the [[zahavian-minimal-self|minimal self's "for-me-ness"]]: direct, non-inferential contact with the fact of one's own experiencing. But the content of that experience trails off into a presumptive horizon that is never fully given. We can be certain of the existence of consciousness while remaining fallible about its detailed structure.
 
 The mature taxonomy distinguishes four modes:
 
@@ -55,7 +55,7 @@ The mature taxonomy distinguishes four modes:
 
 These modes combine independently. The Cartesian *cogito* is apodictic but not adequate—I am certain *that* I think, but the full content of my thinking is never wholly present. An ordinary perceptual act is assertoric and presumptive—I see what is here, but the back of the object is anticipated rather than given. Eidetic insight (seeing the structure of a possibility) can be apodictic without being assertoric—necessity is recognised without commitment to actuality.
 
-The pay-off: phenomenological claims can be calibrated to the evidence type that supports them. A claim about the existence of [[qualia|phenomenal experience]] is supported by apodictic evidence; a claim about the precise structural relations within a particular qualitative field is supported by assertoric and presumptive evidence; a claim about the necessary structures of any possible consciousness is supported by eidetic intuition. Different epistemic weights for different claim types—this is the rigour Husserl offers.
+The pay-off: phenomenological claims can be calibrated to the evidence type that supports them. A claim about the existence of [[qualia|phenomenal experience]] is supported by apodictic evidence; a claim about the precise structural relations within a particular qualitative field is supported by assertoric and presumptive evidence; a claim about the necessary structures of any possible consciousness is supported by eidetic intuition. Different epistemic weights for different claim types—this is the rigour Husserl offers, and it also supplies the methodological backing for the "choice under metaphysical commitment" move deployed elsewhere on the Map (see [[zahavian-minimal-self#Choice Under Metaphysical Commitment|the Zahavi/Metzinger worked example]], developed in response to [[pessimistic-2026-04-18b]]). The taxonomy makes explicit which parts of a position carry apodictic weight, which assertoric, and which presumptive—so that conditional framework preferences can be labelled honestly rather than papered over.
 
 ## How Phenomenological Standards Differ from Natural-Scientific Standards
 
@@ -122,6 +122,7 @@ The Map does not claim that phenomenology delivers a complete metaphysics of con
 - [[phenomenology]] — The phenomenological method itself, its history and central operations
 - [[phenomenological-evidence]] — The concept of phenomenological evidence and its reliability
 - [[phenomenal-authority-and-first-person-evidence]] — Layered epistemic authority of first-person reports
+- [[zahavian-minimal-self]] — The for-me-ness structure that apodictic phenomenological evidence discloses
 - [[neurophenomenology-and-contemplative-neuroscience]] — Varela's mutual constraint programme
 - [[contemplative-epistemology]] — Trained contemplative practice as a knowledge source
 - [[heterophenomenology]] — Dennett's third-person alternative

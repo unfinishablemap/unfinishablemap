@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 11:38:00+00:00
+ai_modified: 2026-04-19 12:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-19 12:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[topics/bandwidth-of-consciousness]], [[topics/phenomenological-method-and-evidence-standards]], [[concepts/zahavian-minimal-self]], [[concepts/inverted-qualia]], [[concepts/asymmetric-bandwidth-consciousness]]
+- **Changes**: Surfaced body-text cross-references flagged by optimistic-2026-04-19's Cross-Linking Suggestions table — (1) bandwidth-of-consciousness → the-interface-specification-problem (capacity language implements the specification programme); (2) bandwidth-of-consciousness → inverted-qualia (MQI discipline on the qualitative side); (3) phenomenological-method ↔ zahavian-minimal-self (apodictic evidence for for-me-ness, reciprocated); (4) phenomenological-method → zahavian-minimal-self#Choice Under Metaphysical Commitment with pessimistic-2026-04-18b cited as source review; (5) inverted-qualia ↔ asymmetric-bandwidth-consciousness (bandwidth-limited behavioural signature, reciprocated); (6) inverted-qualia → bandwidth-of-consciousness (same outbound channel disciplines "at least statistically" language). Further Reading entries updated to match body-text links. The bandwidth ↔ grain-mismatch body-text link was already in place (coalesced from the archived the-ten-bit-ceiling article); no further surfacing required.
+- **Published**: yes
 
 ## 2026-04-19 11:38 UTC - refine-draft
 - **Status**: Success

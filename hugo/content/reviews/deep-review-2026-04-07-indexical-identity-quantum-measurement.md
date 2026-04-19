@@ -63,10 +63,10 @@ All six personas engaged. No new issues beyond previous reviews.
 - Effective italic *this*/*I* emphasis pattern throughout
 
 ### Enhancements Made
-- Added cross-link from [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) — inline reference in agent problem section, frontmatter, and Further Reading
+- Added cross-link from [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) — inline reference in agent problem section, frontmatter, and Further Reading
 
 ### Cross-links Added
-- [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) → [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) (new inbound link)
+- [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) → [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) (new inbound link)
 
 ## Word Count
 

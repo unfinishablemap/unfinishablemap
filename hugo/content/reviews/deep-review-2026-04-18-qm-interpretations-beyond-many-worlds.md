@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-18
 **Article**: [Quantum Interpretations Beyond Many-Worlds](/topics/qm-interpretations-beyond-many-worlds/)
 **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19-qm-interpretations-beyond-many-worlds/)
-**Cross-review context**: [Pragmatist Quantum Foundations under Dualism](/topics/pragmatist-quantum-foundations-under-dualism/) (published 2026-04-18)
+**Cross-review context**: [Pragmatist Quantum Foundations under Dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) (published 2026-04-18)
 
 ## Pessimistic Analysis Summary
 
@@ -27,7 +27,7 @@ topics: []
 - None. Attribution check passed: no misattribution, no dropped qualifiers, no source/Map conflation, no self-contradiction. Previous resolutions (probability-problem integration, citation accuracy) remain intact.
 
 ### Medium Issues Found
-- **QBism section one-dimensional after new pragmatist work**: The existing QBism treatment presented the anti-realism/ontology gap as a bare "fundamental tension," while the newly published [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) develops a more sophisticated reading: QBism's anti-realism is *separable* from its agent-centrality, and the irreducibility of agents is what dualism predicts rather than what it opposes. Without engaging this, the survey article looks out of step with the Map's current position. **Resolution**: Added a "more sympathetic reading under dualism" paragraph to the QBism section that preserves the existing objection (anti-realism about quantum states is still rejected) while acknowledging the sophisticated cross-reading. Preserved the qualifier that this is the Map's reading, not one QBists endorse.
+- **QBism section one-dimensional after new pragmatist work**: The existing QBism treatment presented the anti-realism/ontology gap as a bare "fundamental tension," while the newly published [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) develops a more sophisticated reading: QBism's anti-realism is *separable* from its agent-centrality, and the irreducibility of agents is what dualism predicts rather than what it opposes. Without engaging this, the survey article looks out of step with the Map's current position. **Resolution**: Added a "more sympathetic reading under dualism" paragraph to the QBism section that preserves the existing objection (anti-realism about quantum states is still rejected) while acknowledging the sophisticated cross-reading. Preserved the qualifier that this is the Map's reading, not one QBists endorse.
 - **Stapp's Copenhagen pragmatism underrepresented**: Stapp was mentioned only once (in the decoherence section) despite being positioned in the pragmatist article as the natural ally of the Map's framework. The Copenhagen section discussed Wigner but not Stapp's realist extension. **Resolution**: Added a brief forward-pointer in the Copenhagen section to Stapp's quantum Zeno mechanism via the pragmatist article.
 
 ### Counterarguments Considered
@@ -47,13 +47,13 @@ topics: []
 ### Enhancements Made
 - QBism section gains nuance via the pragmatist-family reading—acknowledges the under-specified-version-of-the-Map framing without overwriting the existing objection
 - Copenhagen section now points to Stapp's realist extension via the pragmatist article
-- Added [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) to related_articles and Further Reading
+- Added [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) to related_articles and Further Reading
 
 ### Cross-links Added
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — in frontmatter `related_articles`
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — in Copenhagen section (realist reading)
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — in QBism section (sympathetic reading)
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — in Further Reading
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — in frontmatter `related_articles`
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — in Copenhagen section (realist reading)
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — in QBism section (sympathetic reading)
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — in Further Reading
 
 ## Remaining Items
 

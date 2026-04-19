@@ -22,7 +22,7 @@ topics: []
 
 ## Cross-Review Context
 
-This review was conducted as a cross-review following the creation of [Pragmatist Quantum Foundations under Dualism](/topics/pragmatist-quantum-foundations-under-dualism/) (2026-04-18). The goal was to ensure that the quantum-measurement article links to the new sibling where appropriate, and that the brief remark "QBism embraces the observer but presupposes the consciousness it cannot explain" no longer stands isolated when a dedicated article now develops exactly that point across the wider pragmatist family.
+This review was conducted as a cross-review following the creation of [Pragmatist Quantum Foundations under Dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) (2026-04-18). The goal was to ensure that the quantum-measurement article links to the new sibling where appropriate, and that the brief remark "QBism embraces the observer but presupposes the consciousness it cannot explain" no longer stands isolated when a dedicated article now develops exactly that point across the wider pragmatist family.
 
 ## Pessimistic Analysis Summary
 
@@ -44,7 +44,7 @@ This review was conducted as a cross-review following the creation of [Pragmatis
 ## Attribution Accuracy Check
 
 - Bell (1990), Von Neumann (1932), Frauchiger & Renner (2018), Kremnizer & Ranchin (2015), Okon & Sebastián (2016), Saunders (2010), Wallace (2012), Sebens & Carroll (2018) — all verified ✓
-- New cross-link to [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) accurately characterises the family's scope (QBism/Healey/Brukner-Zeilinger/Stapp) ✓
+- New cross-link to [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) accurately characterises the family's scope (QBism/Healey/Brukner-Zeilinger/Stapp) ✓
 - "QBism embraces the observer but presupposes the consciousness it cannot explain" — this characterisation is consistent with the pragmatist article's treatment of QBism's "agent-shaped hole" and with Fuchs's own framing of agents as primitive and irreducible ✓
 
 ## Optimistic Analysis Summary
@@ -64,7 +64,7 @@ This review was conducted as a cross-review following the creation of [Pragmatis
 - Updated related_articles, Further Reading, and review timestamps
 
 ### Cross-links Added
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — in related_articles frontmatter, mapping section body, and Further Reading
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — in related_articles frontmatter, mapping section body, and Further Reading
 
 ## Word Count
 

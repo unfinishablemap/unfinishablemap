@@ -75,7 +75,7 @@ The brain provides an interface where consciousness can influence physical outco
 
 At quantum indeterminacies—points where physics leaves outcomes undetermined—consciousness selects which possibility becomes actual. Physics provides what Tonetto calls "statistical closure with outcome-level openness": the Born rule fixes probability distributions, but which specific outcome actualises is not determined by the formalism. [Causal closure](/concepts/causal-closure/) holds at the ensemble level but not at the individual outcome; something must determine which possibility becomes actual; consciousness is a candidate.
 
-Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) proposes the details: attention corresponds to repeated quantum observations that hold neural patterns in place. The mechanism faces a significant timescale gap—Zeno freezing requires femtosecond-rate observations while attention operates on ~100ms timescales—making it better understood as a promising placeholder than a fully worked-out mechanism. Stapp's approach is the most physically committed member of a wider [pragmatist family](/topics/pragmatist-quantum-foundations-under-dualism/) (QBism, Healey, Brukner-Zeilinger) that independently converges on agent-centrality at measurement, supplying structural support for locating Layer 2 at collapse. The [detailed selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) covers candidate sites, constraints, and the timescale problem.
+Stapp's [quantum Zeno mechanism](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) proposes the details: attention corresponds to repeated quantum observations that hold neural patterns in place. The mechanism faces a significant timescale gap—Zeno freezing requires femtosecond-rate observations while attention operates on ~100ms timescales—making it better understood as a promising placeholder than a fully worked-out mechanism. Stapp's approach is the most physically committed member of a wider [pragmatist family](/topics/pragmatist-quantum-foundations-and-the-agent/) (QBism, Healey, Brukner-Zeilinger) that independently converges on agent-centrality at measurement, supplying structural support for locating Layer 2 at collapse. The [detailed selection mechanism article](/concepts/consciousness-selecting-neural-patterns/) covers candidate sites, constraints, and the timescale problem.
 
 ### How the Layers Connect
 
@@ -206,7 +206,7 @@ This unified model is the Map's most complete answer to how consciousness relate
 - [many-worlds](/concepts/many-worlds/) — Why the Map rejects MWI
 - [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — The mathematical corridor constraining consciousness-physics interaction
 - [psychophysical-laws](/concepts/psychophysical-laws/) — What selection laws must specify and candidate formulations
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — Why QBism, Healey, Brukner-Zeilinger, and Stapp converge on agent-centrality at measurement
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — Why QBism, Healey, Brukner-Zeilinger, and Stapp converge on agent-centrality at measurement
 
 ## References
 

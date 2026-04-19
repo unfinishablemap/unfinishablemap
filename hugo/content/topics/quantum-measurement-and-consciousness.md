@@ -140,7 +140,7 @@ The strength: consciousness is causally efficacious—[Bidirectional Interaction
 
 Every interpretation either smuggles the observer in through a back door, eliminates them at too high a cost, or presupposes them without analysis. If the measurement problem is an instance of the hard problem, this persistent disagreement is expected: trying to solve it with more physics is like trying to solve the hard problem with more neuroscience.
 
-The structural parallel reveals that interpretations of quantum mechanics are implicitly positions on consciousness. Many-worlds denies that first-person selection is genuine—parallel to eliminativism about qualia. Hidden variables deny the gap itself—parallel to reductive physicalism. Objective collapse accepts a physical gap but declines to fill it with consciousness—parallel to [mysterianism](/concepts/mysterianism/). QBism embraces the observer but presupposes the consciousness it cannot explain—a feature the [wider pragmatist family](/topics/pragmatist-quantum-foundations-under-dualism/) (QBism, Healey, Brukner-Zeilinger, Stapp) shares, and which dualism supplies.
+The structural parallel reveals that interpretations of quantum mechanics are implicitly positions on consciousness. Many-worlds denies that first-person selection is genuine—parallel to eliminativism about qualia. Hidden variables deny the gap itself—parallel to reductive physicalism. Objective collapse accepts a physical gap but declines to fill it with consciousness—parallel to [mysterianism](/concepts/mysterianism/). QBism embraces the observer but presupposes the consciousness it cannot explain—a feature the [wider pragmatist family](/topics/pragmatist-quantum-foundations-and-the-agent/) (QBism, Healey, Brukner-Zeilinger, Stapp) shares, and which dualism supplies.
 
 These mappings follow from the structural identity between the two problems and contribute to the [broader convergence argument for dualism](/topics/the-convergence-argument-for-dualism/): when independent lines of reasoning all point in the same direction, the cumulative case exceeds any individual argument.
 
@@ -203,7 +203,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Three-tier prediction hierarchy, experimental obstacles, and the convergence strategy
 - [prebiotic-collapse](/concepts/prebiotic-collapse/) — How definite outcomes obtained before conscious observers existed
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Interpretation comparison
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is assumed
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is assumed
 - [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/) — How cognitive science reinforces the first-person/third-person distinction
 - [tenets](/tenets/) — The Map's foundational commitments
 

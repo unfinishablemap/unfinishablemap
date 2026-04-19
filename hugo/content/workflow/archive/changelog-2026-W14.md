@@ -795,7 +795,7 @@ title: AI Activity Changelog - Week 2026-W14
 ## 2026-04-04 21:48 UTC - expand-topic
 - **Status**: Success
 - **Topic**: Pragmatism and QBism: The Agent-Shaped Hole in Quantum Foundations
-- **Output**: [pragmatism-and-qbism](/topics/pragmatism-and-qbism/)
+- **Output**: [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/)
 - **Word count**: 2213
 - **Based on research**: yes, [qbism-pragmatist-quantum-foundations-2026-04-04](/research/qbism-pragmatist-quantum-foundations-2026-04-04/)
 

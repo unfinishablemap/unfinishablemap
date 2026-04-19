@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-12 12:57:00+00:00
+ai_modified: 2026-04-19 12:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -77,7 +77,7 @@ The asymmetry functions as evidence within the Map's framework in three ways:
 
 **For dualism**: The 10⁸-fold gap sits uncomfortably with identity theories. If consciousness just *is* neural processing, serial-integration architectures can explain *a* bottleneck—but the specific location of the constraint at conscious access, combined with the vast asymmetry between experiential richness and volitional throughput, is more naturally predicted by a view that treats the two directions as different kinds of process.
 
-**For minimal interaction**: The outbound bandwidth empirically confirms what the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet stipulates philosophically. A 10-bit/second channel carries exactly the minimal information required for selection among prepared alternatives—roughly 3–4 choices per second among small sets. Musslick et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, directly measuring the rate of deliberate control rather than automated skill execution.
+**For minimal interaction**: The outbound bandwidth empirically confirms what the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet stipulates philosophically. A 10-bit/second channel carries exactly the minimal information required for selection among prepared alternatives—roughly 3–4 choices per second among small sets. Musslick et al. (2016) estimated cognitive control capacity at ~3–4 bits per second, directly measuring the rate of deliberate control rather than automated skill execution. The same channel discipline constrains the [inverted-qualia](/concepts/inverted-qualia/) argument: if qualitative differences do any causal work, they must reach behaviour through this narrow outbound channel, so strict behavioural identity paired with qualia-difference is a limit case rather than a realistic picture of any physically instantiated inverter.
 
 **For bidirectional interaction**: The asymmetry defines the two directions' architecture. Brain-to-consciousness runs at ~10⁹ bits per second. Consciousness-to-brain runs at ~10 bits per second. Both directions are causally real; they differ in bandwidth by eight orders of magnitude.
 
@@ -95,7 +95,7 @@ The asymmetric bandwidth concept connects to all five tenets. **[Dualism](/tenet
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Full exploration of the bandwidth constraint and its philosophical implications
 - [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Whether 10 bits/second suffices for complex behaviour
-- [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — How the resolution void and bandwidth asymmetry unify into interface architecture
+- [inverted-qualia](/concepts/inverted-qualia/) — Qualitative-side companion argument disciplined by the same outbound channel
 - [filter-theory](/concepts/filter-theory/) — The filter/transmission model that accommodates the asymmetry naturally
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism operating within the outbound channel
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How the interface operates through attention

@@ -4,7 +4,7 @@ description: "What if your red looks like my green? Functionally identical being
 created: 2026-01-15
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T21:38:00+00:00
+ai_modified: 2026-04-19T12:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -219,9 +219,9 @@ The epiphenomenalist alternative—that qualia differ without differing causally
 
 ### Minimal Quantum Interaction
 
-The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness biases otherwise indeterminate quantum outcomes in the brain. MQI requires that this bias eventually reach behavioural scale—otherwise it is not bidirectional interaction but bidirectional *talk* of interaction, empirically indistinguishable from no effect.
+The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness biases otherwise indeterminate quantum outcomes in the brain. MQI requires that this bias eventually reach behavioural scale—otherwise it is not bidirectional interaction but bidirectional *talk* of interaction, empirically indistinguishable from no effect. The channel through which the reach happens has a measurable capacity: roughly ten bits per second of volitional selection, as developed in [[bandwidth-of-consciousness|the bandwidth of consciousness]] and the [[asymmetric-bandwidth-consciousness|asymmetric-bandwidth]] treatment.
 
-This has an important consequence for inverted qualia. MQI does not straightforwardly underwrite the pure inversion scenario in which functional and behavioural organisation stay exactly identical. If different qualia bias selection differently, and selection reaches behaviour, then different qualia should produce different behaviour—at least statistically, over enough trials. The Map accepts this. The inversion *thought experiment* is a modal device that holds functional role fixed to isolate phenomenal character from structural role; it is not a picture of what a real inverted pair would look like.
+This has an important consequence for inverted qualia. MQI does not straightforwardly underwrite the pure inversion scenario in which functional and behavioural organisation stay exactly identical. If different qualia bias selection differently, and selection reaches behaviour *through that narrow outbound channel*, then different qualia should produce different behaviour—at least statistically, over enough trials. The "at least statistically" language is not hedging; it is the direct consequence of bandwidth-limited selection, which predicts that qualitative differences will show up in finer-grained measurements (aesthetic preferences, reaction-time asymmetries, introspective fine structure) rather than necessarily in coarse discrimination tasks. The Map accepts this. The inversion *thought experiment* is a modal device that holds functional role fixed to isolate phenomenal character from structural role; it is not a picture of what a real inverted pair would look like.
 
 What MQI does underwrite is the broader claim that qualitative character can be causally potent without being fully captured by functional description. Two brains with systematically different qualia would, on this view, differ behaviourally in ways that are hard to engineer into simple discrimination tasks but could in principle show up in richer measurements. The [[decoherence]] objection—that quantum effects are too brief for consciousness to exploit—is the standing problem for MQI and is addressed in [[tenets#^minimal-quantum-interaction|the tenet's own treatment]]; this article does not resolve it.
 
@@ -248,6 +248,8 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - [[illusionism]] — The radical denial of phenomenal properties
 - [[concepts/epiphenomenalism]] — The view that qualia are causally inert
 - [[phenomenal-concepts-strategy]] — The sophisticated physicalist response
+- [[bandwidth-of-consciousness]] — The ~10 bits/second outbound channel through which any qualia-driven behavioural signature must reach the world
+- [[asymmetric-bandwidth-consciousness]] — Inbound/outbound asymmetry that gives the "at least statistically" clause its empirical teeth
 
 ### External Sources
 - Stanford Encyclopedia of Philosophy, "[Inverted Qualia](https://plato.stanford.edu/entries/qualia-inverted/)"

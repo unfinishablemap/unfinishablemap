@@ -17,9 +17,9 @@ topics: []
 ---
 
 **Date**: 2026-04-18
-**Article**: [Pragmatism and QBism: The Agent-Shaped Hole in Quantum Foundations](/topics/pragmatism-and-qbism/)
+**Article**: [Pragmatism and QBism: The Agent-Shaped Hole in Quantum Foundations](/topics/pragmatist-quantum-foundations-and-the-agent/)
 **Previous review**: [2026-04-06](/reviews/deep-review-2026-04-06-pragmatism-and-qbism/)
-**Trigger**: Cross-review following creation of [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) on 2026-04-18
+**Trigger**: Cross-review following creation of [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) on 2026-04-18
 
 ## Pessimistic Analysis Summary
 
@@ -27,7 +27,7 @@ topics: []
 - None. Previous review (2026-04-06) established the article had reached stability. No new critical issues introduced by the cross-review lens.
 
 ### Medium Issues Found
-- **Missing link to broader pragmatist family framework** (new): The 2026-04-18 synthesis article [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) places QBism within a four-member family (QBism, Healey, Brukner-Zeilinger, Stapp) and provides the unified dualist reading. Without a pointer to that piece, readers of this article cannot easily locate the family-level treatment that situates QBism against its siblings. [Resolved — added pointer paragraph in opening, entry in Further Reading, and reference]
+- **Missing link to broader pragmatist family framework** (new): The 2026-04-18 synthesis article [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) places QBism within a four-member family (QBism, Healey, Brukner-Zeilinger, Stapp) and provides the unified dualist reading. Without a pointer to that piece, readers of this article cannot easily locate the family-level treatment that situates QBism against its siblings. [Resolved — added pointer paragraph in opening, entry in Further Reading, and reference]
 
 ### Counterarguments Considered
 - **Family-level treatment might make this article redundant**: The family article treats QBism alongside Healey, Brukner-Zeilinger, and Stapp. Does this article still earn its keep? Yes — the Jamesian genealogy (three-part structure: open universe, irreducibility of experience, anti-representationalism), the detailed Healey comparison, and the "distinction without difference" treatment of the normative Born rule are developed here in a depth the family article deliberately compresses. The articles are complementary rather than redundant.
@@ -52,12 +52,12 @@ topics: []
 
 ### Enhancements Made
 - Added single pointer paragraph to broader pragmatist family framework — preserves focus of this article while directing interested readers to the family-level treatment
-- Added [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) to topics frontmatter (natural parent frame)
+- Added [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) to topics frontmatter (natural parent frame)
 - Added to Further Reading (top position — most relevant new context)
 - Added reference entry (#11)
 
 ### Cross-links Added
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) — as frontmatter topic, inline link, Further Reading, and reference
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) — as frontmatter topic, inline link, Further Reading, and reference
 
 ## Remaining Items
 

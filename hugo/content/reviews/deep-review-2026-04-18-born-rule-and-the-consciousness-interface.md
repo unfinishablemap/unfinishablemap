@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-04-18
 **Article**: [The Born Rule and the Consciousness-Physics Interface](/topics/born-rule-and-the-consciousness-interface/)
 **Previous review**: [2026-04-11 (cross-review: many-worlds cluster)](/reviews/deep-review-2026-04-11-born-rule-and-the-consciousness-interface/)
-**Cross-review context**: New sibling article [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) (created 2026-04-18) lists this article under `topics:` and cites it as "[interface reading](/topics/born-rule-and-the-consciousness-interface/)" when discussing QBism's reformulation of the Born rule via SIC-POVMs and Dutch-book coherence (DeBrota, Fuchs & Schack 2021).
+**Cross-review context**: New sibling article [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) (created 2026-04-18) lists this article under `topics:` and cites it as "[interface reading](/topics/born-rule-and-the-consciousness-interface/)" when discussing QBism's reformulation of the Born rule via SIC-POVMs and Dutch-book coherence (DeBrota, Fuchs & Schack 2021).
 
 ## Review Context
 
@@ -70,7 +70,7 @@ All six adversarial personas engaged. All disagreements are bedrock per prior re
 - Phenomenal non-compositionality connection
 
 ### Enhancements Made
-- Added `[pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/)` to `related_articles` frontmatter (reciprocal link)
+- Added `[pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/)` to `related_articles` frontmatter (reciprocal link)
 - Added inline citation `(DeBrota, Fuchs & Schack 2021)` in QBism paragraph
 - Added References entry #9 (DeBrota, Fuchs & Schack 2021) with renumbering of subsequent entries
 - Added bridging sentence: "The pragmatist family reading treats this normativity as the structural surface of a dualist interface that QBism declines to posit."
@@ -78,7 +78,7 @@ All six adversarial personas engaged. All disagreements are bedrock per prior re
 - Tightened final caveat sentence (saved ~4 words) to offset additions
 
 ### Cross-links Added
-- `[pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/)` (frontmatter + one inline use)
+- `[pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/)` (frontmatter + one inline use)
 
 ## Word Count
 - Before: 3076 words (103% of 3000 soft threshold)

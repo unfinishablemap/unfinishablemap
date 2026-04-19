@@ -1,13 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 08:46:00+00:00
+ai_modified: 2026-04-19 12:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-19 12:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/), [zahavian-minimal-self](/concepts/zahavian-minimal-self/), [inverted-qualia](/concepts/inverted-qualia/), [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **Changes**: Surfaced body-text cross-references flagged by optimistic-2026-04-19's Cross-Linking Suggestions table — (1) bandwidth-of-consciousness → the-interface-specification-problem (capacity language implements the specification programme); (2) bandwidth-of-consciousness → inverted-qualia (MQI discipline on the qualitative side); (3) phenomenological-method ↔ zahavian-minimal-self (apodictic evidence for for-me-ness, reciprocated); (4) phenomenological-method → zahavian-minimal-self#Choice Under Metaphysical Commitment with pessimistic-2026-04-18b cited as source review; (5) inverted-qualia ↔ asymmetric-bandwidth-consciousness (bandwidth-limited behavioural signature, reciprocated); (6) inverted-qualia → bandwidth-of-consciousness (same outbound channel disciplines "at least statistically" language). Further Reading entries updated to match body-text links. The bandwidth ↔ grain-mismatch body-text link was already in place (coalesced from the archived the-ten-bit-ceiling article); no further surfacing required.
+- **Published**: yes
+
+## 2026-04-19 11:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Changes**: Updated two wikilinks from archived `[pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/)` slug to the unified `[pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/)` article (body §QBism and Participatory Realism, and Further Reading entry). Display label updated to the new article's title "Pragmatist Quantum Foundations and the Agent-Shaped Hole".
+- **Published**: yes
+
+## 2026-04-19 10:39 UTC - coalesce
+- **Status**: Success
+- **Sources**: [pragmatism-and-qbism](/topics/pragmatism-and-qbism/), [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/)
+- **Target**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/)
+- **Archived**: [pragmatism-and-qbism](/archive/topics/pragmatism-and-qbism/), [pragmatist-quantum-foundations-under-dualism](/archive/topics/pragmatist-quantum-foundations-under-dualism/)
+- **Rationale**: Both articles covered the same ground — QBism's pragmatist genealogy, Healey's de-psychologised agency, the normative Born rule under dualism — with extensive cross-references and overlapping reference lists. The narrower QBism-focused piece was already mostly subsumed by the family-level treatment. Coalesced into a single article that keeps Stapp/QBism/Healey/Brukner-Zeilinger family structure while preserving the detailed Jamesian genealogy and SIC-POVM / urgleichung analysis from the narrower source.
+- **References to review**: 7 active content files use `[wikilinks](/wikilinks/)` to the archived slugs (wheelers-participatory-universe, quantum-measurement-and-consciousness, qm-interpretations-beyond-many-worlds, pragmatisms-path-to-dualism, born-rule-and-the-consciousness-interface, concepts/mind-matter-interface, concepts/qbism). Follow-up task added to workflow/todo.md.
+
+## 2026-04-19 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+- **Word count**: 3669 → 3669 (unchanged, 122% of 3000 soft threshold; length-neutral mode)
+- **Critical issues addressed**: 0 (fifth review; article stable)
+- **Medium issues addressed**: 1 (description field imprecision: "sensory input" → "neural processing", aligning hook with body-text dual-framing of inbound bandwidth and Zheng & Meister's sifting ratio)
+- **Enhancements made**: None beyond the precision fix; all bedrock philosophical disagreements noted per convergence rule
+- **Output**: [deep-review-2026-04-19-bandwidth-of-consciousness](/reviews/deep-review-2026-04-19-bandwidth-of-consciousness/)
 
 ## 2026-04-19 08:46 UTC - deep-review
 - **Status**: Success
@@ -502,7 +531,7 @@ title: Changelog
 - **Word count**: 3059 → 3087 (+28, length-neutral mode at soft warning)
 - **Critical issues addressed**: 0 (article converging — attribution checks pass, interpretation-relative framing stable)
 - **Medium issues addressed**: 2 (removed stale refinement-log comment; added cross-link to new pragmatist sibling article)
-- **Enhancements made**: 1 cross-link in mapping section body, related_articles entry, Further Reading bullet for [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/)
+- **Enhancements made**: 1 cross-link in mapping section body, related_articles entry, Further Reading bullet for [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/)
 - **Context**: Cross-review after creation of pragmatist-quantum-foundations-under-dualism (2026-04-18)
 - **Output**: [deep-review-2026-04-18-quantum-measurement-and-consciousness](/reviews/deep-review-2026-04-18-quantum-measurement-and-consciousness/)
 
@@ -521,7 +550,7 @@ title: Changelog
 - **Word count**: 2605 → 2775 (+170)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (QBism section gained pragmatist-reading nuance; Stapp's Copenhagen pragmatism now pointed to from Copenhagen section)
-- **Enhancements made**: 4 cross-links to new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) article (related_articles frontmatter, Copenhagen section, QBism section, Further Reading)
+- **Enhancements made**: 4 cross-links to new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) article (related_articles frontmatter, Copenhagen section, QBism section, Further Reading)
 - **Context**: Cross-review after creation of pragmatist-quantum-foundations-under-dualism (2026-04-18)
 - **Output**: [deep-review-2026-04-18-qm-interpretations-beyond-many-worlds](/reviews/deep-review-2026-04-18-qm-interpretations-beyond-many-worlds/)
 
@@ -588,7 +617,7 @@ title: Changelog
 ## 2026-04-18 04:33 UTC - deep-review
 - **Status**: Success
 - **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
-- **Previous review**: [2026-04-11](/reviews/deep-review-2026-04-11-born-rule-and-the-consciousness-interface/) (review #13; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/))
+- **Previous review**: [2026-04-11](/reviews/deep-review-2026-04-11-born-rule-and-the-consciousness-interface/) (review #13; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/))
 - **Word count**: 3076 → 3100 (+24; 103% of 3000 soft threshold, same bracket as before)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (missing reciprocal cross-link to pragmatist article; missing DeBrota, Fuchs & Schack 2021 inline cite; missing bridge to dualist reading of QBism)
@@ -598,7 +627,7 @@ title: Changelog
 ## 2026-04-18 04:18 UTC - deep-review
 - **Status**: Success
 - **File**: [qbism](/concepts/qbism/)
-- **Previous review**: [2026-03-28](/reviews/deep-review-2026-03-28-qbism/) (review #6; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) and updated [pragmatism-and-qbism](/topics/pragmatism-and-qbism/))
+- **Previous review**: [2026-03-28](/reviews/deep-review-2026-03-28-qbism/) (review #6; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) and updated [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/))
 - **Word count**: 2101 → 2179 (+78; 87% of 2500 soft threshold, well within limits)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (missing pragmatist family framework cross-links; missing pragmatism inline link)
@@ -618,7 +647,7 @@ title: Changelog
 ## 2026-04-18 03:48 UTC - deep-review
 - **Status**: Success
 - **File**: [mind-matter-interface](/concepts/mind-matter-interface/)
-- **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19-mind-matter-interface/) (review #6; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/))
+- **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19-mind-matter-interface/) (review #6; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/))
 - **Word count**: 2330 → 2357 (+27; length-neutral mode at 94% of soft threshold)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (missing convergent-evidence frame for Layer 2; missing reciprocal cross-link)
@@ -628,7 +657,7 @@ title: Changelog
 ## 2026-04-18 03:40 UTC - deep-review
 - **Status**: Success
 - **File**: [pragmatism-and-qbism](/topics/pragmatism-and-qbism/)
-- **Previous review**: [2026-04-06](/reviews/deep-review-2026-04-06-pragmatism-and-qbism/) (review #4; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/))
+- **Previous review**: [2026-04-06](/reviews/deep-review-2026-04-06-pragmatism-and-qbism/) (review #4; cross-review triggered by new [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/))
 - **Word count**: 2445 → 2521 (+76; well within soft threshold at 84%)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1 (missing link to broader pragmatist family framework)

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-04
-**Article**: [Pragmatism and QBism: The Agent-Shaped Hole in Quantum Foundations](/topics/pragmatism-and-qbism/)
+**Article**: [Pragmatism and QBism: The Agent-Shaped Hole in Quantum Foundations](/topics/pragmatist-quantum-foundations-and-the-agent/)
 **Previous review**: [2026-04-04](/reviews/deep-review-2026-04-04-pragmatism-and-qbism/)
 
 ## Pessimistic Analysis Summary

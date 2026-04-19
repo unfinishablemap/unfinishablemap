@@ -164,7 +164,7 @@ The Map exhibits genuine epistemic humility without retreating into agnosticism.
 | [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) | [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) | Cognitive binding in mathematical understanding (holding complex proofs in unified comprehension) |
 | the-phenomenology-of-trust | [consciousness-and-moral-agency-under-duress](/topics/consciousness-and-moral-agency-under-duress/) | Both explore consciousness operating under constraint -- trust under vulnerability, agency under duress |
 | hoel-disproof-llm-consciousness | the-expertise-void | Hoel's continual learning criterion connects to expertise's irreversible transformation of experience |
-| wheeler-participatory-universe | [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) | Wheeler's participatory realism is QBism's ancestor; the genealogy deserves explicit connection |
+| wheeler-participatory-universe | [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) | Wheeler's participatory realism is QBism's ancestor; the genealogy deserves explicit connection |
 | [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) | the-consciousness-value-connection | The evaluative character concept grounds the consciousness-value thesis phenomenologically |
 
 ## New Concept Pages Needed

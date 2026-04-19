@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-18
 **Article**: [QBism (Quantum Bayesianism)](/concepts/qbism/)
 **Previous review**: [2026-03-28](/reviews/deep-review-2026-03-28-qbism/)
-**Trigger**: Cross-review following creation of [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) on 2026-04-18 and update of [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) on 2026-04-18
+**Trigger**: Cross-review following creation of [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) on 2026-04-18 and update of [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) on 2026-04-18
 
 ## Pessimistic Analysis Summary
 
@@ -27,7 +27,7 @@ topics: []
 - None. Sixth review of a stable article. All attribution checks pass against the new family-level treatment.
 
 ### Medium Issues Found
-- **Missing connection to pragmatist family framework** (new): The 2026-04-18 family article [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) situates QBism alongside Healey, Brukner-Zeilinger, and Stapp under a unified dualist reading. The companion [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) article (also updated 2026-04-18) explores QBism's Jamesian genealogy in dedicated focus. The QBism concept page made no mention of either, leaving readers without a navigation path to the family-level treatment or the focused pragmatist genealogy. **Resolution**: Added a single sentence in the opening that names QBism's pragmatist roots and points to both the family article and the focused companion. Added both to `related_articles` frontmatter and to Further Reading (top positions, as most relevant context for the broader programme).
+- **Missing connection to pragmatist family framework** (new): The 2026-04-18 family article [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) situates QBism alongside Healey, Brukner-Zeilinger, and Stapp under a unified dualist reading. The companion [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) article (also updated 2026-04-18) explores QBism's Jamesian genealogy in dedicated focus. The QBism concept page made no mention of either, leaving readers without a navigation path to the family-level treatment or the focused pragmatist genealogy. **Resolution**: Added a single sentence in the opening that names QBism's pragmatist roots and points to both the family article and the focused companion. Added both to `related_articles` frontmatter and to Further Reading (top positions, as most relevant context for the broader programme).
 - **Missing pragmatism cross-link**: QBism's Jamesian roots are well-documented (Fuchs's "James as veritable mascot" framing) but the article never mentioned pragmatism as a tradition. **Resolution**: Added inline link to [pragmatism](/concepts/pragmatism/) when introducing the genealogical claim.
 
 ### Counterarguments Considered
@@ -62,14 +62,14 @@ All six adversarial personas engaged. No new issues beyond those already identif
 - 2025 covert consciousness empirical grounding (added in prior review, preserved)
 
 ### Enhancements Made
-- Added single contextual sentence in opening linking QBism to its pragmatist family context (one inline link to [pragmatism](/concepts/pragmatism/), one to [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/), one to [pragmatism-and-qbism](/topics/pragmatism-and-qbism/))
-- Added [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) and [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) to `related_articles` frontmatter
+- Added single contextual sentence in opening linking QBism to its pragmatist family context (one inline link to [pragmatism](/concepts/pragmatism/), one to [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/), one to [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/))
+- Added [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) and [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) to `related_articles` frontmatter
 - Added both to Further Reading at top positions
 
 ### Cross-links Added
 - [pragmatism](/concepts/pragmatism/) (inline)
-- [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) (inline + frontmatter + Further Reading)
-- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-under-dualism/) (inline + frontmatter + Further Reading)
+- [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) (inline + frontmatter + Further Reading)
+- [pragmatist-quantum-foundations-under-dualism](/topics/pragmatist-quantum-foundations-and-the-agent/) (inline + frontmatter + Further Reading)
 
 ## Word Count
 - Before: 2101 words
@@ -78,7 +78,7 @@ All six adversarial personas engaged. No new issues beyond those already identif
 
 ## Remaining Items
 
-None. The article remains at convergence; this review's sole substantive change is surgical integration of the new family framework cross-links, mirroring the analogous integration done for [pragmatism-and-qbism](/topics/pragmatism-and-qbism/) earlier today.
+None. The article remains at convergence; this review's sole substantive change is surgical integration of the new family framework cross-links, mirroring the analogous integration done for [pragmatism-and-qbism](/topics/pragmatist-quantum-foundations-and-the-agent/) earlier today.
 
 ## Stability Notes
 
