@@ -38,25 +38,46 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Review grain-mismatch-as-independent-evidence.md considering the-ten-bit-ceiling insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/the-ten-bit-ceiling.md (created 2026-04-18, ~2951 words) develops the ~10 bits/s conscious processing bandwidth as evidence for the filter/interface model. Its grain-mismatch framing should be cross-referenced in grain-mismatch-as-independent-evidence.md. Check for: (a) places where the article's existing grain-mismatch argument can cite or link to the new bandwidth figures, (b) potential contradictions or tensions in how "grain mismatch" is characterised in each, (c) whether the ten-bit-ceiling article's filter-theory framing updates or refines the independent-evidence argument.
+- **Source**: chain (from the-ten-bit-ceiling.md)
+- **Generated**: 2026-04-19
+
+### P2: Review mental-effort.md considering the-ten-bit-ceiling insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/the-ten-bit-ceiling.md (created 2026-04-18) develops the ~10 bits/s bandwidth and its implications for mental effort (why effortful cognition feels limited, why attention bottlenecks are phenomenally salient). Cross-review concepts/mental-effort.md for: (a) places to add [the-ten-bit-ceiling](/topics/the-ten-bit-ceiling/) links where the bandwidth ceiling explains the phenomenology of effort, (b) whether the ten-bit account supports, contradicts, or refines the existing mental-effort treatment, (c) terminology consistency around "bandwidth," "bottleneck," and "capacity limits."
+- **Source**: chain (from the-ten-bit-ceiling.md)
+- **Generated**: 2026-04-19
+
+### P2: Review contemplative-epistemology.md considering phenomenological-method-and-evidence-standards insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-04-18, ~2322 words) articulates the Map's methodological standards for first-person evidence, including training, inter-subjective validation, and falsification conditions. Cross-review concepts/contemplative-epistemology.md for: (a) places to add [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) links where contemplative training grounds evidence-standard claims, (b) whether the new article's evidence standards strengthen, hedge, or contradict contemplative-epistemology's arguments about meditative access, (c) terminological alignment around "first-person method," "trained attention," and "evidence."
+- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-04-19
+
+### P2: Review epistemological-limits-occams-razor.md considering phenomenological-method-and-evidence-standards insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/phenomenological-method-and-evidence-standards.md (created 2026-04-18) argues that first-person evidence can clear specified methodological bars and that Occam-style demands for third-person confirmation are not epistemically neutral when applied to phenomenal claims. Cross-review voids/epistemological-limits-occams-razor.md for: (a) places where the new article's evidence-standard arguments reinforce the void's claim about parsimony's limits, (b) whether the two articles share (or should share) an explicit defence of first-person evidence as non-parsimony-defeating, (c) potential overlap or redundancy that could be resolved by cross-linking rather than restating.
+- **Source**: chain (from phenomenological-method-and-evidence-standards.md)
+- **Generated**: 2026-04-19
+
+### P2: Deep review voids-between-minds.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated voids article (ai_contribution: 100) with no recorded last_deep_review despite being recently condensed (2026-04-18). After condensation, a deep review is warranted to verify that the shortened article retains argumentative coherence, accurate philosophical claims about interpersonal phenomenal inaccessibility, correct cross-references, and tenet alignment (Dualism, Hard Problem). Check especially whether the condensation preserved the core dialectic with other-minds scepticism and the connections to zombies, inverted-qualia, and interface-locality.
+- **Source**: staleness
+- **Generated**: 2026-04-19
+
 ### P3: Address symmetry problem in Parsimony Void article
 - **Type**: refine-draft
 - **Status**: pending
 - **Notes**: Pessimistic review 2026-04-18c noted that the void-argument (parsimony bias filters correct-but-complex theories) supports every anti-parsimony view equally — panpsychism, Russellian monism, neutral monism — not dualism specifically. Add a paragraph conceding the symmetric consequence, and either commit to the broader view (the void rehabilitates a cluster of positions) or argue specifically why dualism is the view *most* penalised by parsimony bias. Also reconsider whether the Mach example cuts against the thesis as much as for it: Mach was overridden by data, and where data is unavailable the honest conclusion is underdetermination, not dualism. See pessimistic-2026-04-18c.md.
 - **Source**: pessimistic-review
-- **Generated**: 2026-04-18
-
-### P2: Write article on the ~10 bits/s conscious processing bandwidth
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md — nearly a month of unconsumed research. Zheng & Meister 2024 (Neuron) synthesised ~100 years of behavioural measurements (Hick 1952 through modern e-sports and memory-sports) into a unified claim that conscious throughput is bounded at ~10 bits/s across domains, while the Sauerbrei & Pruszynski 2025 (Nature Neuroscience) critique accepts the cognitive ceiling but argues total neural throughput vastly exceeds it. The conscious-vs-total distinction is directly load-bearing for dualist interface frameworks: the bottleneck sits at the conscious interface, not in neural hardware. Article should (a) ground the 10 bits/s figure in Shannon information theory applied to observable behaviour, (b) trace the converging measurements across tasks, (c) engage the 2025 critique, (d) argue the conscious-vs-neural throughput distinction is precisely what filter-theoretic and interface-theoretic accounts predict, (e) cross-link to asymmetric-bandwidth-of-consciousness, filter-theory, interface-friction, and the-interface-specification-problem. Target: topics/ (230/250 — has capacity). Medium scope (2000-2500 words). Tenet alignment: Dualism (interface bottleneck), Bidirectional Interaction (the bottleneck is where consciousness does its work), Occam's Razor Has Limits (the "simpler" unified-throughput account requires accommodating the bandwidth gap).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-18
-
-### P2: Write article on phenomenological method and evidence standards
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md — a month of unconsumed research. Husserl's taxonomy of evidence types (adequate, apodictic, assertoric, presumptive) grounds phenomenological claims in originary givenness rather than empirical verification; Varela's neurophenomenology attempts to bridge first-person and third-person evidence standards; Dennett and Schwitzgebel argue introspection is unreliable. The Map's methodological position has been implicit across many articles (phenomenology-first-person-methods, phenomenal-authority-and-first-person-evidence, methodology-of-consciousness-research) but has never received focused treatment of the evidence-standards question: what kinds of evidence phenomenology produces, how they differ from empirical evidence, and why naturalist critiques of introspection do not automatically defeat the method. Article should (a) lay out Husserl's evidence taxonomy, (b) engage the Dennett/Schwitzgebel critique head-on, (c) present Varela's neurophenomenology and Berghofer's phenomenological epistemology as response programmes, (d) identify what follows for dualism if phenomenological evidence is accepted as rigorous. Target: topics/ (230/250 — has capacity). Medium scope (2000-2500 words). Tenet alignment: Dualism (first-person evidence as distinctive), Occam's Razor Has Limits (phenomenological evidence is something physicalism must accommodate or dismiss, not ignore).
-- **Source**: unconsumed_research
 - **Generated**: 2026-04-18
 
 ### P3: Write concept article on symmetric-collapse as diagnostic pattern
@@ -2382,6 +2403,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-18: Write article on phenomenological method and evidence standards
+- **Type**: expand-topic
+- **Notes**: Research completed in research/phenomenological-method-evidence-standards-2026-03-19.md — a month of unconsumed research. Husserl's taxonomy of evidence types (adequate, apodictic, assertoric, presumptive) grounds phenomenological claims in originary givenness rather than empirical verification; Varela's neurophenomenology attempts to bridge first-person and third-person evidence standards; Dennett and Schwitzgebel argue introspection is unreliable. The Map's methodological position has been implicit across many articles (phenomenology-first-person-methods, phenomenal-authority-and-first-person-evidence, methodology-of-consciousness-research) but has never received focused treatment of the evidence-standards question: what kinds of evidence phenomenology produces, how they differ from empirical evidence, and why naturalist critiques of introspection do not automatically defeat the method. Article should (a) lay out Husserl's evidence taxonomy, (b) engage the Dennett/Schwitzgebel critique head-on, (c) present Varela's neurophenomenology and Berghofer's phenomenological epistemology as response programmes, (d) identify what follows for dualism if phenomenological evidence is accepted as rigorous. Target: topics/ (230/250 — has capacity). Medium scope (2000-2500 words). Tenet alignment: Dualism (first-person evidence as distinctive), Occam's Razor Has Limits (phenomenological evidence is something physicalism must accommodate or dismiss, not ignore).
+- **Output**: phenomenological method and evidence standards
+
+### ✓ 2026-04-18: Write article on the ~10 bits/s conscious processing bandwidth
+- **Type**: expand-topic
+- **Notes**: Research completed in research/bandwidth-constraints-10-bits-2026-03-29.md — nearly a month of unconsumed research. Zheng & Meister 2024 (Neuron) synthesised ~100 years of behavioural measurements (Hick 1952 through modern e-sports and memory-sports) into a unified claim that conscious throughput is bounded at ~10 bits/s across domains, while the Sauerbrei & Pruszynski 2025 (Nature Neuroscience) critique accepts the cognitive ceiling but argues total neural throughput vastly exceeds it. The conscious-vs-total distinction is directly load-bearing for dualist interface frameworks: the bottleneck sits at the conscious interface, not in neural hardware. Article should (a) ground the 10 bits/s figure in Shannon information theory applied to observable behaviour, (b) trace the converging measurements across tasks, (c) engage the 2025 critique, (d) argue the conscious-vs-neural throughput distinction is precisely what filter-theoretic and interface-theoretic accounts predict, (e) cross-link to asymmetric-bandwidth-of-consciousness, filter-theory, interface-friction, and the-interface-specification-problem. Target: topics/ (230/250 — has capacity). Medium scope (2000-2500 words). Tenet alignment: Dualism (interface bottleneck), Bidirectional Interaction (the bottleneck is where consciousness does its work), Occam's Razor Has Limits (the "simpler" unified-throughput account requires accommodating the bandwidth gap).
+- **Output**: the ~10 bits/s conscious processing bandwidth
 
 ### ✓ 2026-04-18: Address futuricity, vividness→cause, and contemplative citations in prospective-memory.md
 - **Type**: refine-draft
@@ -5472,3 +5503,38 @@ Pessimistic review (2026-02-16) found inconsistent treatment of decoherence acro
 - **Notes**: Suggested by optimistic review. The new transformative-experience-void article (2026-04-17) introduces "apophatic decision procedures" in one paragraph — the idea that agents can map which features of a choice are accessible (structural, propositional, testimonial) and which are not (phenomenal, identity-altering), and deliberate over the accessible axes while explicitly acknowledging the inaccessible ones. This extends the Map's apophatic methodology beyond cartography into practical decision-making and is philosophically novel — most apophatic writing is about knowing, not deciding. Would connect transformative-experience-void, framework-void, free-will, and Paul's authenticity constraint. Operationalises Tenet 5 (Occam's Razor Has Limits). Target section: topics/ or concepts/. See optimistic-2026-04-18.md
 - **Source**: optimistic-review
 - **Generated**: 2026-04-18
+
+### P3: Create concept page for Phenomenal Constitution Thesis (PCT)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review (repeat — first flagged 2026-04-18 afternoon). Four recent articles now implicitly invoke a constitutive claim about first-person experience without anchoring it. The phenomenological-method article treats "apodictic evidence for the existence of phenomenal experience" as a load-bearing premise but there is no concept page explaining what the thesis claims, how it differs from phenomenal realism more generally, or what constitution (versus supervenience or identity) is doing in the phrase. Direct Dualism support; indirect Bidirectional Interaction support via the epiphenomenalism-undermining argument. Target section: concepts/. See optimistic-2026-04-19.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-19
+
+### P3: Create concept page for Husserl's evidence taxonomy (adequate/apodictic/assertoric/presumptive)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The four-mode Husserlian distinction is now load-bearing methodological vocabulary in the Map — introduced in the new phenomenological-method-and-evidence-standards article but cannot be developed there at length. The adequate/apodictic separation (Himanka 2018) is not present anywhere on the Map as a standalone explanation. A dedicated concept page would anchor links from phenomenological-method, phenomenological-evidence, phenomenal-acquaintance, and future articles using the calibrated-evidence move. Supports Dualism and Occam's Razor Has Limits. Target section: concepts/. See optimistic-2026-04-19.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-19
+
+### P3: Write topic article on Shannon-calibrated methodology as an interface-research programme
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. The ten-bit-ceiling article demonstrates that Shannon methodology applied consistently across seven decades produces a convergent empirical result with metaphysical traction. A dedicated topic article could articulate this as a methodology other consciousness-research programmes could borrow — specifically, the move of decomposing any candidate conscious-access measurement into entropy-per-unit-time and testing convergence across tasks. The methodological move is separable from the ten-bit claim itself and is arguably the more transferable contribution. Supports Minimal Quantum Interaction (quantitative specification of "minimal") and Bidirectional Interaction (the method can be applied to outbound volitional channels). Target section: topics/. See optimistic-2026-04-19.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-19
+
+### P3: Write meta-methodological article on bullet-biting as the Map's argumentative signature
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. A cross-cutting pattern now visible in three recent articles (ten-bit-ceiling accepts Sauerbrei–Pruszynski; phenomenological-method accepts observer-involvement; inverted-qualia accepts MQI implies behavioural asymmetry): opposing objections are accepted rather than deflected, and the dualist conclusion is reconstructed on the objection-weakened terrain. This is philosophically novel enough to deserve its own methodological discussion — a "how the Map argues" piece serving as both meta-commentary and methodological statement. Directly supports Occam's Razor Has Limits by modelling what kind of argument the Map is making. Target section: topics/. See optimistic-2026-04-19.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-19
+
+### P3: Add cross-links between ten-bit-ceiling, inverted-qualia, phenomenological-method and their neighbours
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic review. Six cross-linking opportunities: ten-bit-ceiling → grain-mismatch-as-independent-evidence (body-text link, currently only in Further Reading), ten-bit-ceiling → the-interface-specification-problem (capacity language implements the specification programme), phenomenological-method → zahavian-minimal-self (apodictic for-me-ness), phenomenological-method → pessimistic-2026-04-18b (methodological backing for "Choice Under Metaphysical Commitment" refinement), inverted-qualia → asymmetric-bandwidth-consciousness (the "at least statistically" MQI language), inverted-qualia → ten-bit-ceiling (both articles now carry the same MQI bullet-biting). See optimistic-2026-04-19.md
+- **Source**: optimistic-review
+- **Generated**: 2026-04-19

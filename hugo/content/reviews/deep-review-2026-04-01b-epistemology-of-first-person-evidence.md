@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-01
 **Article**: [The Epistemology of First-Person Evidence](/topics/phenomenal-authority-and-first-person-evidence/)
 **Previous review**: [2026-04-01 (earlier)](/reviews/deep-review-2026-04-01-epistemology-of-first-person-evidence/)
-**Review context**: Cross-review considering [Phenomenological Method and Evidence Standards](/topics/phenomenal-authority-and-first-person-evidence/) article (created 2026-03-31)
+**Review context**: Cross-review considering [Phenomenological Method and Evidence Standards](/topics/phenomenological-method-and-evidence-standards/) article (created 2026-03-31)
 
 ## Pessimistic Analysis Summary
 
@@ -47,7 +47,7 @@ topics: []
 - Self-stultification argument against eliminativism
 
 ### Enhancements Made
-- Added cross-link to [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) in `related_articles`, inline text, and Further Reading
+- Added cross-link to [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) in `related_articles`, inline text, and Further Reading
 - Updated timestamps
 
 ### Complementarity with Phenomenological Method Article
@@ -65,7 +65,7 @@ topics: []
 The articles share overlapping ground in Husserl's taxonomy and the training gradient, but each develops distinct arguments. The epistemology article is the definitive treatment of calibration strategies and the warranted trust gradient; the phenomenological method article focuses on why naturalist evidence standards are categorically insufficient.
 
 ### Cross-links Verified
-- [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) — now linked in `related_articles`, inline (line 73), and Further Reading. Bidirectional linking complete.
+- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — now linked in `related_articles`, inline (line 73), and Further Reading. Bidirectional linking complete.
 
 ## Word Count
 - Before: 2843 words (95% of 3000 target)

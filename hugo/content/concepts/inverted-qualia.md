@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-18 19:38:00+00:00
+ai_modified: 2026-04-18 21:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: What if your red looks like my green? Functionally identical beings
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-05 23:26:00+00:00
+last_deep_review: 2026-04-18 21:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -119,7 +119,7 @@ Inverted qualia dramatically illustrate the [problem-of-other-minds](/concepts/p
 
 You and I might agree perfectly about color categories, share all aesthetic judgments about art, and find the same color combinations pleasing—yet experience systematically different qualia. Our shared language and behavior hide potentially radical experiential divergence.
 
-This isn't merely an epistemological puzzle. It reveals something about qualia's nature: they are intrinsic, private, and not fully captured by their relational properties. What color experience is *like* isn't exhausted by what it does or what it's about.
+The implication runs past epistemology to qualia's nature: they are intrinsic, private, and not fully captured by their relational properties—what a colour experience is *like* outruns what it does or what it's about.
 
 ## Physicalist Responses
 
@@ -127,7 +127,7 @@ This isn't merely an epistemological puzzle. It reveals something about qualia's
 
 Representationalists argue that qualia are (or supervene on) representational properties—what experiences are *about*. If Invert and Nonvert both accurately perceive that tomatoes are red, their experiences must have the same content, hence the same qualia.
 
-**Problem:** This seems to conflate what experiences represent with how they represent it. Both may accurately represent redness, but through different qualitative modes. The redness-representation can be accurate whether it's phenomenally warm or cool.
+**Problem:** This conflates what experiences represent with how they represent it. Both may accurately represent redness through different qualitative modes.
 
 ### The Phenomenal Concepts Strategy
 
@@ -159,7 +159,7 @@ The Map's position is that even the weaker move—representational states misrep
 
 Illusionist arguments typically rely on [introspection](/concepts/introspection/)'s unreliability about cognitive *processes*—we confabulate reasons, misattribute causes, construct narratives post hoc. But the inverted qualia argument concerns qualitative *content*, not process. The distinction matters: I may be wrong about *why* I find this red beautiful, but the redness itself is directly given.
 
-The phenomenology-cognition asymmetry: cognitive biases demonstrably operate on judgments about experience, whereas whether they reach the qualitative content itself is contested. If colour reports track qualitative content more closely than they track higher-order judgment, introspection of qualitative content may be more reliable than introspection of cognitive processes. This is a claim the Map finds plausible but does not take as established; the empirical literature on introspection is not uniform, and illusionists read the same data in the opposite direction.
+The phenomenology-cognition asymmetry—cognitive biases demonstrably operate on judgments about experience, but whether they reach the qualitative content itself is contested—is a claim the Map finds plausible but not established. The empirical literature on introspection is not uniform, and illusionists read the same data in the opposite direction.
 
 ### Contemplative Evidence
 
@@ -197,7 +197,7 @@ The inverted qualia argument—and The Unfinishable Map's reliance on it—would
 
 5. **Contemplative traditions uniformly support illusionism.** If advanced practitioners across major traditions (Theravada jhāna, Zen shikantaza, Tibetan dzogchen, Advaita self-inquiry) consistently reported that sustained examination reveals qualia as purely constructed—with no irreducible qualitative residue—this would strengthen illusionism. Currently, reports diverge: some traditions emphasize construction, others report an irreducible "suchness" that survives deconstruction.
 
-Each of these conditions remains contested; none has been decisively established. Functional role continues to *seem*, to many philosophers, distinct from qualitative character—though this is a report on the state of philosophical intuition, not a settled result. The asymmetries in human colour space identified so far are partial rather than total. Illusionism's response to the regress is actively developed rather than settled in either direction. Functionalism has not yet produced a widely-accepted account of intrinsicness, though work by Rosenthal, Clark, and others continues. Contemplative reports diverge: some traditions describe an irreducible qualitative core, others emphasise the constructed character of experience, and (as noted above) the divergence itself is evidence that introspection alone cannot settle the question.
+None of these conditions has been decisively established. The argument's persistence across sophisticated functionalist replies reflects genuine philosophical intuition rather than settled fact; each line remains an active research programme the Map does not claim to close.
 
 ## Relation to Site Perspective
 
@@ -263,19 +263,3 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - Chalmers, D. (1996). *The Conscious Mind*. Oxford University Press.
 - Strawson, G. (2006). "Realistic Monism: Why Physicalism Entails Panpsychism." *Journal of Consciousness Studies*, 13(10-11), 3-31.
 - Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
-
-<!-- AI REFINEMENT LOG - 2026-04-18
-Changes made (addressing pessimistic-2026-04-18c):
-- Rewrote the Dennett response (line ~140) to stop calling his position "question-begging"; acknowledged the disagreement is substantive and that Dennett is *stating* his thesis, not committing a fallacy.
-- Revised the Strawson regress response to acknowledge that Frankish's diagnostic illusionism explicitly denies seemings are phenomenal; replaced the "decisive" framing with a weaker "the burden relocates" claim.
-- Rewrote the Bidirectional Interaction + Minimal Quantum Interaction sections to resolve the selection-efficacy contradiction: the Map bites the Hardin bullet (any actual inversion would produce subtle behavioural differences) and treats strict behavioural-identity-plus-qualia-difference as a conceptual limit case that MQI does not underwrite. Removed the old MQI section that asserted qualia-biased selection with converging behaviour.
-- Softened "None of these conditions are currently met" to "Each remains contested; none has been decisively established", per the review's suggested language.
-- Softened unsupported empirical claim about colour-report tracking and flagged it explicitly as a Map intuition rather than an established result.
-- Softened falsifiers #3 and #4 for internal consistency; softened "directly supports" to "lends support to" under Dualism.
-- Fixed the "contemplative reports support qualia's reality" summary line to match the article's own earlier divergence caveat.
-
-Based on pessimistic review (not scored).
-Key improvements: removed a genuine contradiction with the MQI tenet; repaired the Dennett and Frankish engagement; brought closing triumph-claims in line with the article's own caveats elsewhere. Article length is up slightly; voice preserved.
-
-This log should be removed after human review.
--->

@@ -36,7 +36,7 @@ Both source articles had been reviewed multiple times and were approaching stabi
 ### Medium Issues Found
 - [Qualifier jump]: "appears specific to the schizophrenia spectrum demonstrates" — jumped from hedged "appears" to confident "demonstrates." **Resolution**: Replaced with "aggregates selectively in schizophrenia spectrum disorders suggests" for consistent calibration.
 - [Research note in related_articles]: `[phenomenological-psychiatry-altered-experience-2026-02-21](/research/phenomenological-psychiatry-altered-experience-2026-02-21/)` (a research note) was listed in related_articles, unusual for a topics article. **Resolution**: Removed.
-- [Missing methodology cross-link]: Article discusses methodology extensively but didn't link to `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)`. **Resolution**: Added to topics frontmatter and Further Reading.
+- [Missing methodology cross-link]: Article discusses methodology extensively but didn't link to `[phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)`. **Resolution**: Added to topics frontmatter and Further Reading.
 
 ### Counterarguments Considered
 - **Eliminative Materialist (Churchland)**: Phenomenological categories as folk-psychological artifacts. Bedrock disagreement from source article reviews — not re-flagged.
@@ -69,11 +69,11 @@ Both source articles had been reviewed multiple times and were approaching stabi
 ### Enhancements Made
 - Shortened description to guideline compliance
 - Fixed qualifier calibration in EASE findings claim
-- Added `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` cross-link (frontmatter + Further Reading)
+- Added `[phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)` cross-link (frontmatter + Further Reading)
 - Removed research note from related_articles
 
 ### Cross-links Added
-- [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) (topics frontmatter + Further Reading)
+- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) (topics frontmatter + Further Reading)
 
 ### Site-Wide Reference Updates
 Updated 22 content files (topics, concepts, voids, apex) to redirect old slugs to the coalesced article:

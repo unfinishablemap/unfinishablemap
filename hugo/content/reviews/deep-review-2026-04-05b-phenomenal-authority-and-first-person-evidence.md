@@ -27,7 +27,7 @@ topics: []
 - None. Fifth consecutive review with no critical issues. All six adversarial personas engaged. Attribution accuracy check passed for all philosophers cited (Husserl, Huemer, Chalmers, Jackson, Rorty, Schwitzgebel, Markie, Siegel, Carruthers, Byrne, Varela, Lutz, Nisbett & Wilson, Petitmengin, Fox et al.).
 
 ### Medium Issues Found
-- **Circular wikilink to coalesced source**: Line 86 contained `[Phenomenological method](/topics/phenomenal-authority-and-first-person-evidence/)` — linking to the archived/coalesced source article. This created a circular path (article → archive → superseded notice → back to article). Fixed by redirecting to `[Phenomenological method](/concepts/phenomenology/)`.
+- **Circular wikilink to coalesced source**: Line 86 contained `[Phenomenological method](/topics/phenomenological-method-and-evidence-standards/)` — linking to the archived/coalesced source article. This created a circular path (article → archive → superseded notice → back to article). Fixed by redirecting to `[Phenomenological method](/concepts/phenomenology/)`.
 
 ### Counterarguments Considered
 - All six adversarial personas confirm article handles counterarguments fairly. Dennett heterophenomenology treatment remains nuanced (neither strawman nor capitulation). Schwitzgebel critique properly scoped to layer 3. Eliminativist self-stultification argument correctly framed. No changes warranted.
