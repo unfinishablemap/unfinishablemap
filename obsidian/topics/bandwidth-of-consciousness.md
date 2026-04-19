@@ -1,9 +1,9 @@
 ---
 title: "The Bandwidth of Consciousness"
 created: 2026-02-09
-modified: 2026-04-12
+modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-04-16T16:13:00+00:00
+ai_modified: 2026-04-19T05:38:00+00:00
 draft: false
 description: "The 100-million-fold gap between sensory input and conscious output reveals the shape of the mind-brain interface—a selection channel whose coarseness is architecturally required, not a defect."
 topics:
@@ -56,9 +56,18 @@ coalesced_from:
   - "/topics/asymmetric-bandwidth-of-consciousness/"
   - "/topics/bandwidth-constraints-conscious-processing/"
   - "/topics/resolution-bandwidth-interface/"
+  - "/topics/the-ten-bit-ceiling/"
 ---
 
 Consciousness sits at the centre of a dramatic information asymmetry. Sensory transduction delivers roughly 11 million bits per second to the brain (Zimmermann 1986; Nørretranders 1998), and aggregate neural processing runs at ~10⁹ bits per second (Zheng & Meister 2025). Yet conscious influence on behaviour measures at approximately 10 bits per second—a ratio Zheng and Meister call the "sifting ratio," running to 100 million to one. The Unfinishable Map treats this asymmetry as a structural signature of the mind-brain interface: consciousness *receives* vast information passively but *acts* through a channel so narrow it can only select among pre-computed options. The bandwidth constraint defines the *shape* of the interface, distinguishing what consciousness does from what the brain does, and exposing why production models face a problem that [[filter-theory|filter]] and [[interactionist-dualism|interactionist]] models handle naturally.
+
+## Measuring the Ceiling in Bits
+
+Shannon (1948) defined information as the reduction of uncertainty. One bit is the information gained by distinguishing between two equally likely alternatives; for an equiprobable choice among *N* options, the content is log₂(*N*) bits. The framework makes no appeal to introspection, difficulty, or phenomenology. It treats any system that takes inputs and produces outputs as an information channel whose throughput is measured in bits per unit time.
+
+Hick (1952) was the first to apply this framework to the mind. He treated a human participant as a Shannon channel—the "input" was a set of stimuli with quantifiable entropy, the "output" was a correct response at measurable latency—and reported a rate of "the order of five 'bits' per second." Hyman (1953) replicated and extended across unequal-probability conditions, establishing the Hick-Hyman law. Pierce and Karlin (1957) applied Shannon's redundancy estimates for English to reading-aloud tasks at Bell Labs. Miller (1956) added complementary capacity limits: ~2.5 bits per dimension in absolute judgement, ~7 chunks in immediate memory.
+
+The critical point for later debates is what the figure measures. It measures the rate at which observable, reportable decisions resolve. It does not measure unconscious sensory processing, unconscious motor execution, or parallel preprocessing that narrows the decision space before conscious choice. The ten-bit figure is the throughput of the decision bottleneck—the point where options become actions.
 
 ## The Outbound Bottleneck
 
@@ -176,6 +185,20 @@ The arguments above rest on a specific empirical claim: that conscious throughpu
 
 The interface argument requires a large asymmetry—large enough that conscious causation must work through selection rather than specification. If the true figure were 50 or even 100 bits/s, the gap would still be enormous and the architectural argument would hold. What would genuinely threaten the argument is evidence that conscious throughput is *variable*—that it scales with training or pharmacological intervention in ways suggesting a soft, brain-determined limit. Zheng and Meister note that extensive practice does not substantially increase the ceiling, supporting the fixed-channel interpretation, though the distinction between "hard ceiling" and "typical operating point" has not been definitively resolved.
 
+## Why Ten Specifically
+
+Zheng and Meister's phrase—"the largest unexplained number in brain science"—names a genuine open problem. Why ten bits per second? Why not a hundred, or one? Several candidate explanations exist, none fully satisfactory.
+
+**Neural oscillation frequencies.** The alpha rhythm at roughly ten hertz is suggestively close to ten bits per second; if each alpha cycle carries about one bit, the figure follows. Evidence connecting alpha rhythm specifically to conscious decision rate is circumstantial.
+
+**Metabolic cost.** Conscious processing is energetically expensive, and the ceiling could reflect the point where marginal metabolic cost exceeds marginal adaptive benefit. This is underdetermined—it predicts *a* ceiling, not the specific value.
+
+**Evolutionary legacy.** Zheng and Meister's speculation about inheritance from chemical-gradient navigation faces a standard objection: evolution routinely scales inherited architectures, and hundreds of millions of years of selection pressure should have widened the channel if widening were physiologically accessible.
+
+**Interface capacity.** The Map's candidate is that the ceiling reflects the bandwidth of the mind-matter interface itself. This predicts stability across species, training, and neural reorganisation, because no amount of brain optimisation can widen a channel whose narrow end lies outside the brain. The interface picture is compatible with the data but not uniquely forced by it.
+
+The number ~10 is a load-bearing empirical fact in search of a theory.
+
 ## What Would Challenge This View
 
 The argument linking bandwidth constraints to the interface model would face serious challenge if:
@@ -232,6 +255,8 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Miller, G.A. (1956). The magical number seven, plus or minus two. *Psychological Review*, 63(2), 81–97.
 1. Musslick, S., Shenhav, A., Botvinick, M.M., & Cohen, J.D. (2016). The capacity of cognitive control estimated from a perceptual decision making task. *PLoS ONE*, 11(3).
 1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking Press.
+1. Pierce, J.R. & Karlin, J.E. (1957). Reading rates and the information rate of a human channel. *Bell System Technical Journal*, 36(2), 497–516.
+1. Shannon, C.E. (1948). A mathematical theory of communication. *Bell System Technical Journal*, 27, 379–423 and 623–656.
 1. Sauerbrei, B.A. & Pruszynski, J.A. (2025). The brain works at more than 10 bits per second. *Nature Neuroscience*.
 1. Schultze-Kraft, M. et al. (2016). The point of no return in vetoing self-initiated movements. *Proceedings of the National Academy of Sciences*, 113(4), 1080–1085.
 1. Schwartz, J.M. et al. (1996). Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder. *Archives of General Psychiatry*, 53(2), 109–113.
@@ -239,14 +264,3 @@ The argument linking bandwidth constraints to the interface model would face ser
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 1. Pashler, H. (1994). Dual-task interference in simple tasks: Data and theory. *Psychological Bulletin*, 116(2), 220–244.
 1. DeWall, C.N., Baumeister, R.F., & Masicampo, E.J. (2008). Evidence that logical reasoning depends on conscious processing. *Consciousness and Cognition*, 17(3), 628–645.
-
-<!-- AI REFINEMENT LOG - 2026-04-16
-Changes made:
-- Opening paragraph: distinguished sensory transduction (~11 million bits/s, Zimmermann/Nørretranders) from aggregate neural processing (~10⁹ bits/s, Zheng & Meister) rather than collapsing both into a single "10⁹ bits to the brain" figure; attributed the 10⁸ "sifting ratio" explicitly to Zheng and Meister.
-- Inbound Channel section: added Nørretranders (1998) citation and "user illusion" framing (previously in references but uncited in-text); clarified that sensory transduction vs total outer-brain throughput yield different ratios (10⁶ vs 10⁸) but the structural gap argument is invariant across them.
-
-Integrates research/bandwidth-constraints-10-bits-2026-03-29.md.
-Key improvements: grounds the 11M vs ~10 bits asymmetry in its primary historical source (Nørretranders popularising Zimmermann); removes subtle imprecision about what the 10⁹ figure measures.
-
-This log should be removed after human review.
--->

@@ -1,6 +1,6 @@
-last_updated: '2026-04-19T03:37:19.897690+00:00'
-session_count: 6075
-cycle_position: 5703
+last_updated: '2026-04-19T04:37:19.898034+00:00'
+session_count: 6076
+cycle_position: 5704
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-18T18:37:19.892430+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-18T15:08:35.860047+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-19T04:38:09.070261+00:00'
-last_git_push: '2026-04-19T00:37:19.896046+00:00'
+  agentic-social: '2026-04-19T05:38:12.132886+00:00'
+last_git_push: '2026-04-19T04:37:19.898034+00:00'
 last_tweet_date: '2026-04-18'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-18'
-  outcome: success
 - task: 'refine-draft (Task context:
 
     Chain task from the [[concepts/zahav)'
@@ -141,11 +137,13 @@ recent_tasks:
   type: deep-review
   date: '2026-04-19'
   outcome: success
+- task: deep-review (obsidian/concepts/contemplative-epistemology.md --)
+  type: deep-review
+  date: '2026-04-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/cognitive-integration-and-the-self/
-    date: '2026-04-19T04:38:09.070244+00:00'
+  - url: https://unfinishablemap.org/topics/arguments-against-materialism/
+    date: '2026-04-19T05:38:12.132869+00:00'
     topics:
-    - personal-identity
-    - temporal-consciousness
-    - self-and-self-consciousness
+    - hard-problem-of-consciousness

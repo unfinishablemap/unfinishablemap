@@ -30,6 +30,11 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-18
 last_curated:
+archived: true
+archived_date: 2026-04-19T05:38:00+00:00
+superseded_by: "/topics/bandwidth-of-consciousness/"
+archive_reason: "Coalesced into The Bandwidth of Consciousness"
+original_path: "/topics/the-ten-bit-ceiling/"
 ---
 
 The claim that conscious processing operates at approximately ten bits per second rests on measurement rather than introspection. Roughly seven decades of behavioural experiments have applied Shannon's mathematical theory of communication (1948) consistently across tasks as diverse as choice-reaction experiments in a 1952 British laboratory, professional StarCraft play in 2024, and world-record speedcubing. Zheng and Meister's 2024 *Neuron* synthesis drew these measurements together: across every domain researchers have studied, the ceiling holds at around ten bits per second. A 2025 critique by Sauerbrei and Pruszynski accepts the cognitive ceiling but contests its interpretation — pointing out that unconscious motor control vastly exceeds it. The Unfinishable Map treats the Zheng–Meister–Sauerbrei–Pruszynski exchange as strengthening rather than undermining the interface picture: the bottleneck sits precisely where consciousness participates, not in the neural hardware that surrounds it.

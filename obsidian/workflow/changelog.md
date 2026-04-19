@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 04:38:00+00:00
+ai_modified: 2026-04-19 05:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-19 05:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/the-ten-bit-ceiling]]
+- **Target**: [[topics/bandwidth-of-consciousness]] (merged into existing article)
+- **Archived**: [[archive/topics/the-ten-bit-ceiling]]
+- **Rationale**: ~70% content overlap — same studies (Zheng & Meister, Sauerbrei & Pruszynski, Hick, Hyman, Miller), same interface argument. Distinctive methodological framing (Shannon's bit-based measurement, Pierce & Karlin) and candidate explanations for the specific ten-bit figure (alpha rhythm, metabolic cost, evolutionary legacy, interface capacity) integrated into new "Measuring the Ceiling in Bits" and "Why Ten Specifically" sections.
+- **References updated**: [[concepts/mental-effort]], [[topics/grain-mismatch-as-independent-evidence]]
+- **Topics slot freed**: 233 → 232
 
 ## 2026-04-19 04:38 UTC - deep-review
 - **Status**: Success

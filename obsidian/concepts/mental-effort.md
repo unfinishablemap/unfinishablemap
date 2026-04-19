@@ -9,7 +9,7 @@ draft: false
 topics:
   - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[topics/the-ten-bit-ceiling]]"
+  - "[[topics/bandwidth-of-consciousness]]"
 concepts:
   - "[[stapp-quantum-mind]]"
   - "[[quantum-consciousness]]"
@@ -53,7 +53,7 @@ This phenomenology is universal. Everyone knows the experience of trying to focu
 
 The [[attention-as-interface|attention as interface hypothesis]] provides a framework. Attention functions as the *interface layer* between consciousness and neural systems—not identical to consciousness, but the causal bridge through which consciousness operates on matter. [[attention-as-interface|Attention and consciousness are dissociable]]: you can attend without being conscious (blindsight) and be conscious without focused attention (peripheral awareness). If consciousness is the *subject* that directs attention, and attention is the *mechanism* it deploys, then effort makes sense as the cost of engagement.
 
-The phenomenology of effort reflects the *real cost* of operating through this interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. The interface is bandwidth-limited: Shannon-calibrated measurements converge on ~10 bits/s for *conscious* throughput, while unconscious motor and sensory processing runs orders of magnitude faster (Zheng & Meister, 2024; Sauerbrei & Pruszynski, 2025; see [[topics/the-ten-bit-ceiling|the ten-bit ceiling]]). The narrowing sits where consciousness participates, not in the neural hardware around it—which is what effort tracks from the inside.
+The phenomenology of effort reflects the *real cost* of operating through this interface. Consciousness cannot influence neural patterns directly—it must work through attention mechanisms. The interface is bandwidth-limited: Shannon-calibrated measurements converge on ~10 bits/s for *conscious* throughput, while unconscious motor and sensory processing runs orders of magnitude faster (Zheng & Meister, 2024; Sauerbrei & Pruszynski, 2025; see [[topics/bandwidth-of-consciousness|the bandwidth of consciousness]]). The narrowing sits where consciousness participates, not in the neural hardware around it—which is what effort tracks from the inside.
 
 ### The Willed-Instructed Distinction
 
@@ -170,7 +170,7 @@ The phenomenology of effort provides a datum any account must explain. If contro
 - [[attention-as-interface]] — Attention as the interface layer between consciousness and neural systems
 - [[structure-of-attention]] — How attention is organized across voluntary, involuntary, and meta-attentional layers
 - [[phenomenology-of-choice-and-volition]] — The choosing-observing distinction and four-component structure of willing
-- [[topics/the-ten-bit-ceiling|The Ten-Bit Ceiling]] — Seventy years of Shannon-calibrated measurements converging on ~10 bits/s of conscious throughput
+- [[topics/bandwidth-of-consciousness|The Bandwidth of Consciousness]] — Seventy years of Shannon-calibrated measurements converging on ~10 bits/s of conscious throughput
 - [[meditation-and-consciousness-modes]] — Selection vs witnessing modes
 - [[illusionism]] — The eliminativist challenge
 - [[quantum-consciousness]] — Overview of quantum consciousness mechanisms
