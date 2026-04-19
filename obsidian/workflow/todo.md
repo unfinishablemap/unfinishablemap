@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write article on the Mood Void
-- **Type**: expand-topic
-- **Notes**: Research completed 2026-04-19 in [[research/voids-mood-void-2026-04-19]]. The Mood Void has three-layer opacity (origin, identity, constitutive) because mood is the medium through which consciousness discloses a world rather than a content within it — exactly where Bidirectional Interaction predicts the densest causal flux is exactly where introspection fails most completely. Distinct from [[valence-void]] (why experience has valence at all) and [[affective-void]] (emotions beyond human reach). Key sources: Ratcliffe on Heidegger's *Befindlichkeit*, Mitchell 2019 on intentional structure of moods, Russell on core affect, Nisbett & Wilson on introspection illusion, alexithymia literature. Target section: voids/ (92/100, has capacity). Medium scope (2000-2400 words). Tenet alignment: Bidirectional Interaction (mood as causal channel invisible to its occupant) and Dualism (alexithymic dissociation shows phenomenal presence and introspective access are separable).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-19
-
-### P2: Cross-review phenomenal-authority, introspection, and neurophenomenology considering microphenomenological-interview-method insights
-- **Type**: cross-review
-- **Notes**: New article [[topics/microphenomenological-interview-method]] (created 2026-04-19) introduces Petitmengin's structured second-person procedure, its Husserlian evidence profile (strengthens assertoric/presumptive warrants but not apodictic or adequate), the epilepsy prodrome case as strongest empirical demonstration, and documented limits. The earlier 13:38 UTC cross-review covered the phenomenology/phenomenal-acquaintance/phenomenological-evidence cluster against [[phenomenological-method-and-evidence-standards]], but not against the newer microphenomenological-interview-method article. Review [[concepts/phenomenal-authority-and-first-person-evidence]], [[concepts/introspection]], and [[concepts/neurophenomenology-and-contemplative-neuroscience]] for: (a) opportunities to cross-link to the new article, (b) places where Petitmengin's method sharpens or challenges existing claims about first-person evidence quality, (c) terminology consistency on evocation/content-direction/position-direction distinctions, (d) whether the epilepsy-prodrome case strengthens or requires hedging in claims about introspective reliability.
-- **Source**: chain (from topics/microphenomenological-interview-method.md)
-- **Generated**: 2026-04-19
-
 ### P2: Condense inverted-qualia.md (3600 words, 103% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/ by 100 words. Only marginally over — amenable to targeted trimming rather than full condense. Preserve the core inverted-qualia thought experiment, the arguments for and against its coherence, and tenet alignment to Dualism and Hard Problem. Check for redundancy with nearby concepts pages ([[qualia]], [[philosophical-zombies]], [[knowledge-argument]], [[concepts/functionalism]]) that can be referenced rather than reproduced. Target: ≤3500 words. See /condense skill.
@@ -2404,6 +2392,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Write article on the Mood Void
+- **Type**: expand-topic
+- **Notes**: Research completed 2026-04-19 in [[research/voids-mood-void-2026-04-19]]. The Mood Void has three-layer opacity (origin, identity, constitutive) because mood is the medium through which consciousness discloses a world rather than a content within it — exactly where Bidirectional Interaction predicts the densest causal flux is exactly where introspection fails most completely. Distinct from [[valence-void]] (why experience has valence at all) and [[affective-void]] (emotions beyond human reach). Key sources: Ratcliffe on Heidegger's *Befindlichkeit*, Mitchell 2019 on intentional structure of moods, Russell on core affect, Nisbett & Wilson on introspection illusion, alexithymia literature. Target section: voids/ (92/100, has capacity). Medium scope (2000-2400 words). Tenet alignment: Bidirectional Interaction (mood as causal channel invisible to its occupant) and Dualism (alexithymic dissociation shows phenomenal presence and introspective access are separable).
+- **Output**: the Mood Void
 
 ### ✓ 2026-04-19: Write article on Petitmengin's microphenomenological interview method
 - **Type**: expand-topic
