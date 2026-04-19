@@ -37,6 +37,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks to coalesced pragmatism/QBism articles
+- **Type**: refine-draft
+- **Notes**: On 2026-04-19 pragmatism-and-qbism.md and pragmatist-quantum-foundations-under-dualism.md were coalesced into topics/pragmatist-quantum-foundations-and-the-agent.md. The following files still reference the archived slugs via `[[wikilinks]]` and should be updated to point to the new unified article: obsidian/topics/wheelers-participatory-universe-and-it-from-bit.md (line ~186), obsidian/topics/quantum-measurement-and-consciousness.md (frontmatter + body + further reading), obsidian/topics/qm-interpretations-beyond-many-worlds.md (frontmatter + body + further reading), obsidian/topics/pragmatisms-path-to-dualism.md (frontmatter + body line ~69 + further reading line ~178), obsidian/topics/born-rule-and-the-consciousness-interface.md (frontmatter + body line ~71), obsidian/concepts/mind-matter-interface.md (frontmatter + body + further reading), obsidian/concepts/qbism.md (frontmatter lines 21–22 + further reading lines 137–138). Preserve the distinction where both archived articles were linked (qbism.md and born-rule): now a single link to the unified article. Hugo's archive redirects will keep old URLs working, but wikilinks should be updated for future consistency.
+- **Source**: coalesce
+- **Generated**: 2026-04-19
+
 ### P2: Add body-text cross-links suggested by optimistic-2026-04-19
 - **Type**: refine-draft
 - **Notes**: The optimistic-2026-04-19 review's Cross-Linking Suggestions table identifies six specific body-text cross-references that would strengthen structural mutual reinforcement: (1) topics/bandwidth-of-consciousness ↔ topics/grain-mismatch-as-independent-evidence (currently only in Further Reading; the ten-bit ceiling is one of three grain mismatches in the convergence argument); (2) topics/bandwidth-of-consciousness ↔ topics/the-interface-specification-problem (capacity language directly implements the specification programme); (3) topics/phenomenological-method-and-evidence-standards ↔ concepts/zahavian-minimal-self (apodictic evidence for for-me-ness); (4) topics/phenomenological-method-and-evidence-standards ↔ reviews/pessimistic-2026-04-18b "Choice Under Metaphysical Commitment" section; (5) concepts/inverted-qualia ↔ concepts/asymmetric-bandwidth-consciousness (MQI "at least statistically" language connects to bandwidth-based predictions); (6) concepts/inverted-qualia ↔ topics/bandwidth-of-consciousness (both handle the MQI discipline — qualitative difference must eventually reach behaviour). Where a link already exists in Further Reading, surface it in the body text. See optimistic-2026-04-19.md Cross-Linking Suggestions table.
@@ -751,7 +757,8 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Cross-review pragmatism-and-qbism against related articles
 - **Type**: cross-review
-- **Status**: pending
+- **Status**: superseded
+- **Superseded**: 2026-04-19 — pragmatism-and-qbism.md was archived (coalesced into topics/pragmatist-quantum-foundations-and-the-agent.md along with pragmatist-quantum-foundations-under-dualism.md). Cross-review work is absorbed by the new P2 wikilink-update task.
 - **Notes**: New article topics/pragmatism-and-qbism.md created. Review against concepts/qbism.md, concepts/pragmatism.md, topics/pragmatisms-path-to-dualism.md, topics/born-rule-and-the-consciousness-interface.md, and topics/the-participatory-universe.md for consistency and cross-linking.
 - **Source**: chain (from topics/pragmatism-and-qbism.md)
 - **Generated**: 2026-04-04

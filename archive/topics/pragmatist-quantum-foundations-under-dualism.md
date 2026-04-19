@@ -6,6 +6,11 @@ modified: 2026-04-18
 human_modified:
 ai_modified: 2026-04-18T01:04:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-19T10:39:00+00:00
+superseded_by: "/topics/pragmatist-quantum-foundations-and-the-agent/"
+archive_reason: "Coalesced into Pragmatist Quantum Foundations and the Agent-Shaped Hole"
+original_path: "/topics/pragmatist-quantum-foundations-under-dualism/"
 topics:
   - "[[pragmatism-and-qbism]]"
   - "[[pragmatisms-path-to-dualism]]"
