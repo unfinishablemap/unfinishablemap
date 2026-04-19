@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 20:43:00+00:00
+ai_modified: 2026-04-19 21:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-19 21:38 UTC - deep-review
+- **Status**: Success
+- **File**: [microphenomenological-interview-method](/topics/microphenomenological-interview-method/)
+- **Word count**: 2002 → 2181 (+179)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (named all three reliability levels, added missing 2006 *Epilepsy and Behavior* reference, rephrased "to this author's knowledge")
+- **Enhancements made**: 2 (added heterophenomenology engagement paragraph in Limits section; added cross-links to [heterophenomenology](/concepts/heterophenomenology/) and [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) in frontmatter and Further Reading)
+- **Output**: [deep-review-2026-04-19-microphenomenological-interview-method](/reviews/deep-review-2026-04-19-microphenomenological-interview-method/)
 
 ## 2026-04-19 20:43 UTC - condense
 - **Status**: Success

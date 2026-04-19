@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-04-19 16:38:00+00:00
+ai_modified: 2026-04-19 21:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[phenomenological-evidence]]'
 - '[[introspection]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
+- '[[heterophenomenology]]'
 created: 2026-04-19
 date: &id001 2026-04-19
 description: Claire Petitmengin's disciplined second-person interview procedure for
@@ -16,10 +17,12 @@ description: Claire Petitmengin's disciplined second-person interview procedure 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-19 21:38:00+00:00
 modified: *id001
 related_articles:
 - '[[phenomenological-method-and-evidence-standards]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
+- '[[contemplative-practice-as-philosophical-evidence]]'
 title: The Microphenomenological Interview Method
 topics: []
 ---
@@ -42,7 +45,7 @@ The microphenomenological interview targets one specific, singular past experien
 
 **Analysis.** Petitmengin, Remillieux and Valenzuela-Moguillansky (2019) formalise the separate work of *analysing* interview transcripts. Their 15-stage procedure transforms singular descriptions into two kinds of generic structure: *diachronic* (temporal unfolding — phases, transitions, durations) and *synchronic* (momentary structure — what is co-present in a single instant). The procedure is iterative and abductive: proposed structures are tested against further interviews and revised.
 
-Diachronic analysis treats experience as unfolding; synchronic analysis takes a transverse slice. The two are complementary, and the resulting structures are claimed to converge both across subjects and across independent analysts — the first two of three reliability levels the tradition claims.
+Diachronic analysis treats experience as unfolding; synchronic analysis takes a transverse slice. The two are complementary, and the resulting structures are claimed to converge at three reliability levels: intra-subject consistency (the same subject re-interviewed gives the same structure), inter-subject structural recurrence (different subjects yield convergent generic structures for comparable episodes), and inter-analyst agreement (independent coders extract the same structures from the same transcripts).
 
 ## Husserlian Evidence Profile
 
@@ -75,7 +78,7 @@ The method has real limits, and the microphenomenological community is unusually
 
 **Retrospective reconstruction.** All reports are retrospective. Memory reconstruction and confabulation (heir to Nisbett and Wilson 1977) remain plausible sources of error. Evocation and non-leading structure address but do not eliminate this. The 2021 review "Can we trust the phenomenological interview?" catalogues the objections in detail and finds the method's responses partial.
 
-**Reliability ceiling.** Olivares et al. (2015) found that experimental manipulations were detected in approximately 80% of trials when microphenomenological interview was used — a strong result against the null hypothesis that reports are noise, but well short of perfect detection. The 80% figure has not, to this author's knowledge, been replicated in a meta-analysis.
+**Reliability ceiling.** Olivares et al. (2015) found that experimental manipulations were detected in approximately 80% of trials when microphenomenological interview was used — a strong result against the null hypothesis that reports are noise, but well short of perfect detection. The 80% figure is widely cited in the secondary literature; no meta-analytic replication has appeared in the available record.
 
 **Intersubjective convergence thresholds.** The claim that generic structures converge across subjects and across analysts is typically made informally. Formal inter-rater reliability statistics on microphenomenological coding are still relatively sparse.
 
@@ -84,6 +87,8 @@ The method has real limits, and the microphenomenological community is unusually
 **Training requirements.** Interviewer training is extensive and qualitatively described rather than quantified. Sparby's (2023) work on micro-phenomenological self-inquiry for headache extends the method toward single-person use but concedes that interviewer-mediation provides a reliability contribution that self-inquiry forgoes.
 
 **Demand and pragmatic pressures.** The subject's engagement with an interviewer introduces social-pragmatic pressures — the wish to be a good interviewee, the tendency to settle descriptions prematurely if interviewer satisfaction is cued. Disciplined interviewers are trained to resist these, but the pressures remain live.
+
+**The heterophenomenological challenge.** A Dennett-style objector ([heterophenomenology](/concepts/heterophenomenology/)) will argue that everything microphenomenology surfaces is verbal report, not access to phenomenal content — the "describing" is data, the "experience described" is a theorist's posit. Microphenomenology does not refute this objection; it pushes against it by showing that disciplined elicitation produces report-content that converges across subjects, tracks experimental manipulations, and occasionally forecasts events (the prodromes) the subject did not previously notice. Whether the gap between rich, convergent report and "real" phenomenal content is closed or merely narrowed by the method depends on prior commitments the method itself cannot adjudicate.
 
 None of these limits is fatal. Together they set the method's ceiling: a substantial improvement on casual introspection for a well-specified class of experiences, not a universal window on consciousness.
 
@@ -107,6 +112,8 @@ One further integration: the method is a live candidate for operationalising wha
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) — concept page for the evidence type
 - [introspection](/concepts/introspection/) — the baseline the method aims to improve on
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — a cognate trained-observation tradition
+- [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — a parallel argument that disciplined first-person inquiry yields evidence of philosophical consequence
+- [heterophenomenology](/concepts/heterophenomenology/) — the principal methodological alternative that treats reports as data without committing to inner referents
 
 ## References
 
@@ -115,9 +122,10 @@ One further integration: the method is a live candidate for operationalising wha
 3. Di Paolo, E. A. & De Jaegher, H. (2019). Microphenomenology of first encounters: A sympathetic critique. *Constructivist Foundations*, 14(2), 185–187.
 4. Olivares, F. A., Vargas, E., Fuentes, C., Martínez-Pernía, D., & Canales-Johnson, A. (2015). Neurophenomenology revisited: Second-person methods for the study of human consciousness. *Frontiers in Psychology*.
 5. Petitmengin, C. (2006). Describing one's subjective experience in the second person: An interview method for the science of consciousness. *Phenomenology and the Cognitive Sciences*, 5(3), 229–269.
-6. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2007). Anticipating seizure: Pre-reflective experience at the centre of neurophenomenology. *Phenomenology and the Cognitive Sciences*.
-7. Petitmengin, C. (2019). Studying the experience of meditation through micro-phenomenology. *Current Opinion in Psychology*, 28, 54–59.
-8. Petitmengin, C., Remillieux, A., & Valenzuela-Moguillansky, C. (2019). Discovering the structures of lived experience: Towards a micro-phenomenological analysis method. *Phenomenology and the Cognitive Sciences*, 18(4), 691–730.
-9. Sparby, T. (2023). Training naive subjects in using micro-phenomenological self-inquiry to investigate pain and suffering during headaches. *Scandinavian Journal of Psychology*.
-10. Valenzuela-Moguillansky, C. & Vásquez-Rosati, A. (2022). The lived experience of remembering a 'good' interview: Micro-phenomenology applied to itself. *Phenomenology and the Cognitive Sciences*.
-11. Vermersch, P. (1994). *L'entretien d'explicitation*. ESF Éditeur.
+6. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2006). Seizure anticipation: Are neurophenomenological approaches able to detect preictal symptoms? *Epilepsy and Behavior*.
+7. Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2007). Anticipating seizure: Pre-reflective experience at the centre of neurophenomenology. *Phenomenology and the Cognitive Sciences*.
+8. Petitmengin, C. (2019). Studying the experience of meditation through micro-phenomenology. *Current Opinion in Psychology*, 28, 54–59.
+9. Petitmengin, C., Remillieux, A., & Valenzuela-Moguillansky, C. (2019). Discovering the structures of lived experience: Towards a micro-phenomenological analysis method. *Phenomenology and the Cognitive Sciences*, 18(4), 691–730.
+10. Sparby, T. (2023). Training naive subjects in using micro-phenomenological self-inquiry to investigate pain and suffering during headaches. *Scandinavian Journal of Psychology*.
+11. Valenzuela-Moguillansky, C. & Vásquez-Rosati, A. (2022). The lived experience of remembering a 'good' interview: Micro-phenomenology applied to itself. *Phenomenology and the Cognitive Sciences*.
+12. Vermersch, P. (1994). *L'entretien d'explicitation*. ESF Éditeur.

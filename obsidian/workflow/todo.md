@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review emotional-epistemology-void.md considering mood-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/mood-void.md (2026-04-19, refined 2026-04-19 via pessimistic-review response) develops a three-layer opacity structure (origin, identity, constitutive) for mood and explicitly distinguishes itself from emotional-epistemology-void: "Distinct from [[valence-void]] (why experience has valence at all) and [[affective-void]] (emotions beyond human reach)." Emotional-epistemology-void addresses limits of knowing one's own emotional states — the mood-void's three-layer structure may strengthen or refine its arguments by providing a specific articulation of what makes emotional self-knowledge structurally limited (not just contingently difficult). Check for: (a) places in emotional-epistemology-void.md where mood-void's three-layer opacity could be cited as a worked example of the broader phenomenon, (b) whether the mood-void's falsifiability paragraph (added in refinement) suggests parallel falsifiability language for emotional-epistemology-void, (c) scope-distinction language ensuring the two articles complement rather than overlap. Output: revisions to emotional-epistemology-void.md if warranted; no-edit review if integration is already adequate.
-- **Source**: chain (from mood-void.md)
-- **Generated**: 2026-04-19
-
 ### P2: Cross-review affective-void.md considering mood-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/mood-void.md (2026-04-19) explicitly distinguishes itself from affective-void ("emotions beyond human reach"), but the scope boundary between the two is not currently articulated from affective-void's side. Mood-void treats the opacity of normal mood as structural; affective-void treats emotions humans cannot experience. Together they form a two-axis cartography (opacity of accessible affect × inaccessibility of alien affect) that the existing affective-void article does not mark. Check for: (a) a brief paragraph in affective-void distinguishing its scope from mood-void (the two axes together), (b) body-text wikilink to mood-void at the point where "alien emotions" is first introduced, (c) whether affective-void's argumentative structure benefits from contrast with mood-void's three-layer opacity framework. Output: revisions to affective-void.md if warranted.
@@ -2398,6 +2392,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Cross-review emotional-epistemology-void.md considering mood-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mood-void.md (2026-04-19, refined 2026-04-19 via pessimistic-review response) develops a three-layer opacity structure (origin, identity, constitutive) for mood and explicitly distinguishes itself from emotional-epistemology-void: "Distinct from [[valence-void]] (why experience has valence at all) and [[affective-void]] (emotions beyond human reach)." Emotional-epistemology-void addresses limits of knowing one's own emotional states — the mood-void's three-layer structure may strengthen or refine its arguments by providing a specific articulation of what makes emotional self-knowledge structurally limited (not just contingently difficult). Check for: (a) places in emotional-epistemology-void.md where mood-void's three-layer opacity could be cited as a worked example of the broader phenomenon, (b) whether the mood-void's falsifiability paragraph (added in refinement) suggests parallel falsifiability language for emotional-epistemology-void, (c) scope-distinction language ensuring the two articles complement rather than overlap. Output: revisions to emotional-epistemology-void.md if warranted; no-edit review if integration is already adequate.
+- **Output**: obsidian/voids/emotional-epistemology-void.md -- Context: Cross-review emotional-epistemology-void.md considering mood-void insights
 
 ### ✓ 2026-04-19: Condense inverted-qualia.md (3600 words, 103% of hard threshold)
 - **Type**: condense
