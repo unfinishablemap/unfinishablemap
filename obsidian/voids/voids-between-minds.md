@@ -2,10 +2,10 @@
 title: "The Voids Between Minds"
 description: "Three structural limits on access between consciousnesses—existence, encounter, and sharing—and how social epistemic mechanisms compound the divisions they cannot close."
 created: 2026-01-27
-modified: 2026-04-18
+modified: 2026-04-19
 human_modified: null
-ai_modified: 2026-04-18T16:14:00+00:00
-last_deep_review: null
+ai_modified: 2026-04-19T07:37:00+00:00
+last_deep_review: 2026-04-19T07:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

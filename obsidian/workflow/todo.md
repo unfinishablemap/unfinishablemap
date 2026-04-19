@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids-between-minds.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated voids article (ai_contribution: 100) with no recorded last_deep_review despite being recently condensed (2026-04-18). After condensation, a deep review is warranted to verify that the shortened article retains argumentative coherence, accurate philosophical claims about interpersonal phenomenal inaccessibility, correct cross-references, and tenet alignment (Dualism, Hard Problem). Check especially whether the condensation preserved the core dialectic with other-minds scepticism and the connections to zombies, inverted-qualia, and interface-locality.
-- **Source**: staleness
-- **Generated**: 2026-04-19
-
 ### P3: Address symmetry problem in Parsimony Void article
 - **Type**: refine-draft
 - **Status**: pending
@@ -2374,6 +2367,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Deep review voids-between-minds.md
+- **Type**: deep-review
+- **Notes**: AI-generated voids article (ai_contribution: 100) with no recorded last_deep_review despite being recently condensed (2026-04-18). After condensation, a deep review is warranted to verify that the shortened article retains argumentative coherence, accurate philosophical claims about interpersonal phenomenal inaccessibility, correct cross-references, and tenet alignment (Dualism, Hard Problem). Check especially whether the condensation preserved the core dialectic with other-minds scepticism and the connections to zombies, inverted-qualia, and interface-locality.
+- **Output**: obsidian/voids/voids-between-minds.md
 
 ### ✓ 2026-04-19: Review epistemological-limits-occams-razor.md considering phenomenological-method-and-evidence-standards insights
 - **Type**: cross-review
