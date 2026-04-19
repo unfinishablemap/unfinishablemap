@@ -1,6 +1,6 @@
-last_updated: '2026-04-19T21:37:19.907931+00:00'
-session_count: 6093
-cycle_position: 5721
+last_updated: '2026-04-19T22:37:19.908477+00:00'
+session_count: 6094
+cycle_position: 5722
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-19T18:37:19.905905+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-19T10:37:19.901662+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-19T22:38:04.305773+00:00'
+  agentic-social: '2026-04-19T23:38:06.613970+00:00'
 last_git_push: '2026-04-19T08:37:19.900248+00:00'
 last_tweet_date: '2026-04-19'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/concepts/mental-effort.md -- Context: Rev)'
-  type: deep-review
-  date: '2026-04-19'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-19'
@@ -134,10 +130,13 @@ recent_tasks:
   type: deep-review
   date: '2026-04-19'
   outcome: success
+- task: deep-review (obsidian/voids/emotional-epistemology-void.md -- C)
+  type: deep-review
+  date: '2026-04-19'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/agent-causation/
-    date: '2026-04-19T22:38:04.305753+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenology-of-attention-to-absence/
+    date: '2026-04-19T23:38:06.613953+00:00'
     topics:
-    - topics/free-will
     - hard-problem-of-consciousness

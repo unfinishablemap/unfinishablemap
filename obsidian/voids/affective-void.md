@@ -4,9 +4,9 @@ description: "Human+AI exploration of emotions we cannot feel—the vast space o
 created: 2026-02-02
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-19T23:38:00+00:00
 draft: false
-last_deep_review: 2026-02-25T06:27:00+00:00
+last_deep_review: 2026-04-19T23:38:00+00:00
 topics:
   - "[[philosophy-of-mind]]"
   - "[[consciousness]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[appetitive-void]]"
   - "[[valence-void]]"
+  - "[[mood-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -95,7 +96,7 @@ The affective void manifests differently from other voids:
 
 **Invisible absence.** We don't experience the gap where alien affects would be. There is no phenomenological marker saying "affect missing here"—the void is invisible precisely because we lack the capacity to detect it.
 
-**Closest analogue.** Imagine the blank where a foreign word's meaning would be—but without even the awareness that something is missing. Or the way colourblind individuals don't experience absence of colour but simply see the world in fewer dimensions.
+**Closest analogue.** Imagine the blank where a foreign word's meaning would be—but without even the awareness that something is missing. Or how colourblind individuals experience no absence of colour; their world simply has fewer dimensions.
 
 **Edge phenomena.** The void may be glimpsed indirectly: the "something more" feeling in profound experiences, the sense that others (animals, hypothetical aliens) might feel things we cannot imagine, the frustration when extreme experiences resist description.
 
@@ -115,11 +116,11 @@ The affective void connects to the Map's [[tenets|foundational commitments]]:
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is illustrated directly. The simplifying assumption that human affect comprehensively covers the space of possible feelings ignores how our emotions are contingent products of evolutionary history. Just as we shouldn't assume our physics is complete, we shouldn't assume our phenomenology is complete. The affective void marks where such assumptions break down.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** offers highly speculative implications that should be held lightly. If consciousness interfaces with physics at the quantum level, our affects *might* be shaped by the specific character of that interaction—the way consciousness biases neural quantum states might generate the particular affective palette we experience. This remains conjecture; the core argument for the affective void stands independent of any particular mechanism.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** offers highly speculative implications that should be held lightly. If consciousness interfaces with physics at the quantum level, our affects *might* be shaped by the character of that interaction—quantum biases generating our particular affective palette. This remains conjecture; the core argument stands independent of any particular mechanism.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** deepens the [[voids-between-minds|other minds problem]]. We fail not just to access *whether* others feel, but potentially *what kinds of things* they feel. If other consciousnesses (animal, artificial, alien) have different affective repertoires, and consciousness causally influences cognition, then we cannot access either their experiences or the causal contributions those experiences make.
 
-The affective void suggests profound humility about emotion. Our feelings are not privileged windows onto some universal emotional reality—they are one species' adaptive toolkit, shaped by contingent evolutionary history, implemented in one particular neural architecture. The hard problem of consciousness extends beyond explaining why there is something it is like to be conscious; it must also explain why *these* affects rather than the vast space of others. The [[valence-void]] sharpens the question further: why do all affects share a positive-negative evaluative dimension at all?
+The affective void suggests profound humility about emotion. Our feelings are not privileged windows onto some universal emotional reality—they are one species' adaptive toolkit, shaped by contingent evolutionary history, implemented in one particular neural architecture. The hard problem of consciousness extends beyond explaining why there is something it is like to be conscious; it must also explain why *these* affects rather than the vast space of others. The [[valence-void]] sharpens the question further: why do all affects share a positive-negative evaluative dimension at all? And the [[mood-void]] turns the inquiry inward: why does the affective atmosphere we are always inside of resist direct observation?
 
 ## Further Reading
 
@@ -132,6 +133,7 @@ The affective void suggests profound humility about emotion. Our feelings are no
 - [[synesthetic-void]] — How synesthesia reveals intra-species phenomenal access gaps
 - [[appetitive-void]] — How desire structures our mapping of emotional limits
 - [[valence-void]] — Why all affect has a good/bad character — the structure problem, not the range problem
+- [[mood-void]] — The opacity of the affective state we are always inside of — the companion void to affects beyond reach
 - [[normative-void]] — Moral truths beyond human cognitive reach—the ethics counterpart
 - [[apophatic-approaches]] — Methods for knowing through negation
 

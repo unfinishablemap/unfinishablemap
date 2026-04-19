@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-02
-ai_modified: 2026-04-17 20:56:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-19 22:38:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[qualia]]'
@@ -16,7 +16,7 @@ description: Human+AI investigation of whether emotions constitute genuine knowl
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 01:26:00+00:00
+last_deep_review: 2026-04-19 22:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[contemplative-epistemology]]'
 - '[[phenomenal-value-realism]]'
 - '[[ineffable-encounter-void]]'
+- '[[mood-void]]'
 title: The Emotional Epistemology Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -62,7 +63,7 @@ What makes this a void rather than merely an open question is the circularity of
 
 A sceptic might object that all perception faces the same bootstrapping problem—you cannot verify vision without using vision. But ordinary perceptual circularity has external checks: visual claims can be cross-verified by touch, testimony, instruments, and predictive success. Emotional disclosure resists this. The claim that awe reveals the sublime cannot be checked by non-affective means without begging the question against affective epistemology. There is no independent instrument that measures what grief purportedly discloses. The circularity here is tighter and less escapable than the ordinary perceptual case.
 
-This is the void itself. The instrument of verification is the thing whose epistemic status needs verifying. In psychotherapy, patients routinely "know" something emotionally long before they can articulate it rationally—but whether this constitutes knowledge or merely a feeling of knowledge cannot be determined from within the experience. The conviction that grief reveals something true about love's importance carries enormous phenomenal force, yet that force is exactly what a sceptic would predict from a sophisticated emotional system that simulates knowledge without constituting it.
+This is the void itself. The instrument of verification is the thing whose epistemic status needs verifying. In psychotherapy, patients routinely "know" something emotionally long before they can articulate it rationally—but whether this constitutes knowledge or merely a feeling of knowledge cannot be determined from within the experience. The conviction that grief reveals something true about love's importance carries enormous phenomenal force, yet that force is exactly what a sceptic would predict from a sophisticated emotional system that simulates knowledge without constituting it. Introspective confabulation research — discussed in [The Mood Void](/voids/mood-void/) — sharpens the concern: Nisbett and Wilson's finding that subjects are "unaware of their own unawareness" shows the feeling of insight accompanies post-hoc construction as readily as it accompanies genuine access. Phenomenal force alone cannot discriminate between them.
 
 ## The AI Contrast Case
 
@@ -95,6 +96,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 - [Emotion and Dualism](/topics/emotion-and-dualism/) — Valence irreducibility, emotional intentionality, and the dualist case
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation
 - [The Ineffable Encounter Void](/voids/ineffable-encounter-void/) — The sharpest case of affective epistemic closure: numinous experience dismantles the evaluator entirely
+- [The Mood Void](/voids/mood-void/) — Opacity of the affective background within which emotional knowledge claims arise
 
 ## References
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review affective-void.md considering mood-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/mood-void.md (2026-04-19) explicitly distinguishes itself from affective-void ("emotions beyond human reach"), but the scope boundary between the two is not currently articulated from affective-void's side. Mood-void treats the opacity of normal mood as structural; affective-void treats emotions humans cannot experience. Together they form a two-axis cartography (opacity of accessible affect × inaccessibility of alien affect) that the existing affective-void article does not mark. Check for: (a) a brief paragraph in affective-void distinguishing its scope from mood-void (the two axes together), (b) body-text wikilink to mood-void at the point where "alien emotions" is first introduced, (c) whether affective-void's argumentative structure benefits from contrast with mood-void's three-layer opacity framework. Output: revisions to affective-void.md if warranted.
-- **Source**: chain (from mood-void.md)
-- **Generated**: 2026-04-19
-
 ### P3: Condense pragmatist-quantum-foundations-and-the-agent.md (4079 words, 102% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/ by 79 words. Created 2026-04-19 via coalesce of pragmatism-and-qbism.md and pragmatist-quantum-foundations-under-dualism.md. Only marginally over — could be handled with targeted trimming rather than full condense. Preserve the unified agent-shaped-hole thesis, the four-tradition comparison (QBism/Healey/Brukner-Zeilinger/Stapp), the specific dualist moves each tradition declines to make, and tenet alignment. Compress any remaining redundancy between the two merged sources where the unified treatment now allows. Target: ≤4000 words. See /condense skill.
@@ -2392,6 +2386,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-19: Cross-review affective-void.md considering mood-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mood-void.md (2026-04-19) explicitly distinguishes itself from affective-void ("emotions beyond human reach"), but the scope boundary between the two is not currently articulated from affective-void's side. Mood-void treats the opacity of normal mood as structural; affective-void treats emotions humans cannot experience. Together they form a two-axis cartography (opacity of accessible affect × inaccessibility of alien affect) that the existing affective-void article does not mark. Check for: (a) a brief paragraph in affective-void distinguishing its scope from mood-void (the two axes together), (b) body-text wikilink to mood-void at the point where "alien emotions" is first introduced, (c) whether affective-void's argumentative structure benefits from contrast with mood-void's three-layer opacity framework. Output: revisions to affective-void.md if warranted.
+- **Output**: obsidian/voids/affective-void.md -- Context: Cross-review affective-void.md considering mood-void insights
 
 ### ✓ 2026-04-19: Cross-review emotional-epistemology-void.md considering mood-void insights
 - **Type**: cross-review
