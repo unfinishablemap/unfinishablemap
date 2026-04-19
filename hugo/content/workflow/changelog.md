@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19 19:38:00+00:00
+ai_modified: 2026-04-19 20:43:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-19'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-19 20:43 UTC - condense
+- **Status**: Success
+- **File**: [inverted-qualia](/concepts/inverted-qualia/)
+- **Before**: 3600 words
+- **After**: 2355 words
+- **Reduction**: 35%
+- **Technique**: Tightened prose throughout; compressed Block's Inverted Earth, Detectability, and Privacy of Experience sections; converted Physicalist Responses subsections to inline paragraphs; heavily condensed Illusionist Challenge (merged Introspection and Contemplative sections); shortened Process Philosophy perspective and What Would Challenge list; merged Bidirectional Interaction and MQI subsections in Relation to Site. Preserved opening summary, core arguments, tenet alignment, and voice.
 
 ## 2026-04-19 19:38 UTC - refine-draft
 - **Status**: Success
