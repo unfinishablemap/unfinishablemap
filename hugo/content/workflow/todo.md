@@ -38,6 +38,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Refine mood-void.md to address pessimistic-review findings
+- **Type**: refine-draft
+- **Notes**: Pessimistic review found (1) load-bearing leap from "mood opaque" to "mood = bidirectional-interaction interface" without disambiguation from attention/intention/salience; (2) strawmanned reductionist reply (engage the architectural version — PFC/insula/DMN); (3) missing falsifiability paragraph; (4) three "not X, Y" constructs at lines 65/75/109 (banned by CLAUDE.md); (5) two overclaiming "exactly"s (lines 73, 105); (6) pharmacology claim too strong. Preserve the three-layer structure, Heidegger-Russell juxtaposition, and mood-congruence anchor. See [pessimistic-2026-04-19](/reviews/pessimistic-2026-04-19/).
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-19
+
 ### P2: Condense inverted-qualia.md (3600 words, 103% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 3500-word hard threshold for concepts/ by 100 words. Only marginally over — amenable to targeted trimming rather than full condense. Preserve the core inverted-qualia thought experiment, the arguments for and against its coherence, and tenet alignment to Dualism and Hard Problem. Check for redundancy with nearby concepts pages ([qualia](/concepts/qualia/), [philosophical-zombies](/concepts/philosophical-zombies/), [knowledge-argument](/concepts/knowledge-argument/), [functionalism](/concepts/functionalism/)) that can be referenced rather than reproduced. Target: ≤3500 words. See /condense skill.
