@@ -4,7 +4,7 @@ description: "Remembering to act in the future: how intentions persist and episo
 created: 2026-01-17
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-18T20:38:00+00:00
+ai_modified: 2026-04-19T15:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-17
 last_curated: null
-last_deep_review: 2026-03-12T21:20:00+00:00
+last_deep_review: 2026-04-19T15:41:00+00:00
 ---
 
 When you leave home intending to buy milk, something must hold that intention during your commute so it "pops" into awareness when you pass the shop. This is prospective memory (PM)—remembering to perform planned actions in the future. Unlike retrospective memory (remembering what happened), PM is about remembering what to do. The capacity to maintain intentions across time, simulate future scenarios, and execute delayed plans represents a distinctively conscious form of cognition that connects intimately to free will and agency.
@@ -99,7 +99,7 @@ Three implications follow:
 
 2. **Future simulation is imagination repurposed.** Memory and future thinking share neural substrate but produce different phenomenal products because memory has actual events as causal source while future simulation has only abstracted patterns. This is why [[counterfactual-reasoning]]—imagining what might have been—shares phenomenological features with future simulation: both manipulate elements without causal contact with the imagined scenario.
 
-3. **The void is structural.** Pre-experience—genuinely re-experiencing events that haven't occurred—is conceptually incoherent. Minds can access what has touched them but cannot reach forward to what hasn't.
+3. **The void is structural.** Pre-experience—genuinely re-experiencing events that haven't occurred—would require causal contact a mind cannot have with what does not yet exist. Minds can access what has touched them but cannot reach forward to what hasn't.
 
 ### Pre-Made Thoughts
 
@@ -149,9 +149,7 @@ The following observations are drawn from contemplative first-person literatures
 
 ## Process Philosophy Perspective
 
-Whitehead's process philosophy illuminates prospective consciousness. Each actual occasion has a "subjective aim"—inherent directedness toward its own completion involving selection among future possibilities. Prospective memory, on this view, is consciousness accessing its own future-directed character.
-
-Future simulation involves prehending "eternal objects" (pure potentials) not yet instantiated—the futuricity quale marks this distinctive mode of relating to what might become rather than what has occurred. The spontaneous "pop" of intentions isn't mechanical triggering but the occasion's felt reception of newly relevant possibilities. Intention formation is a form of concrescence—constituting a new experiential fact that will influence subsequent occasions.
+Whitehead's process philosophy offers a framing. Each actual occasion has a "subjective aim"—directedness toward its own completion involving selection among future possibilities. Future simulation prehends "eternal objects" (pure potentials) not yet instantiated; if futuricity is genuine, it marks this distinctive mode of relating to what might become. The spontaneous "pop" becomes the occasion's felt reception of newly relevant possibilities rather than mechanical triggering. Intention formation is concrescence—a new experiential fact that will influence subsequent occasions.
 
 ## What Would Challenge This View?
 
@@ -173,11 +171,11 @@ Prospective memory and future-oriented consciousness support all five foundation
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Evidence that EFT reduces temporal discounting and improves goal-directed behaviour suggests conscious simulation causally shapes action—precisely the downward causation the Map proposes. Even if Libet-style challenges undermine proximal motor commands, distal intentions formed through conscious planning causally shape subsequent behaviour trajectories.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Future simulation presupposes that only one future will actualise. Deliberation makes sense only if alternatives are genuinely exclusive—why deliberate if all options will occur? The phenomenology of intention formation presupposes single-history metaphysics. This connects to [[haecceity]]: the future you're planning for is *your* future, and in branching scenarios "your" future becomes indeterminate.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Future simulation presupposes that only one future will actualise. The MWI reply—that deliberation shapes the *measure* of branches in which the intention is acted upon rather than selecting among exclusive outcomes—preserves the behavioural role of planning but leaves the first-person question untouched: on every branch, a counterpart deliberated and did the opposite. This connects to [[haecceity]]: the future you're planning for is *your* future, and when every alternative self-continuation co-exists, "your" future becomes indeterminate in a way indexical reference cannot fix.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The "simpler" computational account leaves unexplained what futuricity would be if it is a genuine phenomenal character rather than a cognitive tag. The vividness-behaviour correlations are compatible with either phenomenology or its neural correlates doing the causal work; they motivate rather than settle the case against epiphenomenal decoration, and settling that case requires arguments beyond parsimony.
 
-**Agent Causation**: Intention formation is paradigmatically what [[agent-causation|agent causation]] describes—deciding now what to do later, with the intention persisting, retrieving, and guiding action. This causal chain is exactly what libertarian free will requires. The [[motor-selection|motor selection]] research suggests even final motor execution may involve the same attention-mediated selection mechanisms, unifying voluntary action under a single interface model.
+**Agent Causation**: Intention formation fits the [[agent-causation|agent causation]] schema—deciding now what to do later, with the intention persisting, retrieving, and guiding action. This causal chain is exactly what libertarian free will requires. The [[motor-selection|motor selection]] research suggests even final motor execution may involve the same attention-mediated selection mechanisms, unifying voluntary action under a single interface model.
 
 ## Further Reading
 
@@ -215,19 +213,4 @@ Prospective memory and future-oriented consciousness support all five foundation
 1. Tallis, R. (2016). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Routledge.
 1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 1. Stapp, H.P. (2011). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-
-<!-- AI REFINEMENT LOG - 2026-04-18
-Changes made (addressing pessimistic-2026-04-18c):
-- Recast "Futuricity: The Temporal Quale" as "Futuricity: A Contested Posit" — explicitly flags it as a theoretical posit rather than a reported datum, describes the dissociation-case research programme that would be required to establish it as a distinct quale, and states the consequences if the posit fails.
-- Softened the illusionist responses ("Introspective stability" and "The asymmetry argument") to acknowledge the modern-illusionist diagnosis of introspective intensification as confabulation, and the diagnosis of texture differences as representational-functional rather than phenomenal. The responses no longer read as decisive.
-- Reworked "Future Simulation Influences Decisions" to distinguish phenomenology-causing-behaviour from neural-correlates-causing-behaviour (the two pictures (a) and (b)); notes that the behavioural literature cannot separate them and that the Map's preference for (a) rests on independent tenet-level commitments.
-- Softened the parallel claim in the Occam's Razor section so it no longer conflates vividness-behaviour correlations with a settled case against epiphenomenalism.
-- Flagged the Contemplative Evidence section as anecdotal/hypothesis-level with a prefatory paragraph; rewrote the three sub-items to avoid "advanced meditators report" appeals without citation, and to acknowledge the lacking empirical base.
-- Reworked the MQI paragraph to admit decoherence is unresolved, and to distinguish photosynthesis/magnetoreception-style exploitation (femtosecond energy-transfer optimisation) from the required case (persistent coherent superposition serving as a macroscopic-selection substrate). Now explicitly frames MQI as programmatic.
-- Updated ai_modified timestamp.
-
-Key improvements: the article no longer treats "futuricity" as a discovered datum, no longer conflates phenomenology and its neural correlates in the EFT-behaviour inference, no longer makes uncitated appeals to contemplative consensus, and no longer smuggles from one class of biological quantum effect to a very different one.
-
-This log should be removed after human review.
--->
 
