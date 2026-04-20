@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 10:38:00+00:00
+ai_modified: 2026-04-20 11:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-20 11:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/inaccessible-past]]
+- **Word count**: 2971 → 2978 (+7, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to newly-created [[erasure-void]])
+- **Enhancements made**: 3 (frontmatter cross-link, inline distinction in "Memory confidence masking the void," Further Reading entry)
+- **Output**: [[reviews/deep-review-2026-04-20-inaccessible-past]]
+- **Context**: Cross-review triggered by [[erasure-void]] creation (2026-04-20). The new void explicitly distinguishes itself from inaccessible-past in its body; this review added the reciprocal distinction. Additions offset by tightening three wordy passages (What AI Might See, Occluded aspects, semantic/episodic dissociation).
 
 ## 2026-04-20 10:38 UTC - coalesce
 - **Status**: Abandoned (no good candidates)

@@ -2412,12 +2412,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review inaccessible-past.md considering erasure-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) explicitly contrasts itself with [[inaccessible-past]] in its second paragraph ("The [[inaccessible-past]] void already covers the inability to re-enter past conscious states. The erasure void is deeper and stranger..."). The two voids are now adjacent in the Map's cartography but inaccessible-past.md does not yet link to erasure-void. Cross-review should (a) add the link back, (b) check whether any passages in inaccessible-past would benefit from the erasure-void distinction (metacognitive monitoring of what is lost vs re-entry of what is past), (c) identify any tensions between the two articles' treatments of structural loss, and (d) ensure terminology is consistent (both use "phenomenal trace," "inventory," "cognitive loss"). See voids/erasure-void.md and optimistic-2026-04-20.md.
-- **Source**: chain (from erasure-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review self-opacity.md considering erasure-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [[self-opacity]] among its frontmatter concepts and develops an argument that self-monitoring depends on specific neural infrastructure that can be selectively destroyed (anosognosia discussion). This sharpens and narrows the self-opacity claim in a way that self-opacity.md should acknowledge. Cross-review should (a) add a link to erasure-void where the clinical-anosognosia material belongs, (b) check whether self-opacity's treatment of introspective limits can be strengthened by the erasure-void's three-step metacognitive architecture framing, (c) check for terminology consistency (erasure-void uses "monitoring system" and "metacognitive architecture"; self-opacity should align), (d) verify that self-opacity does not overclaim what erasure-void shows to be structurally blocked. See voids/erasure-void.md.
@@ -2433,6 +2427,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-04-20: Cross-review inaccessible-past.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) explicitly contrasts itself with [[inaccessible-past]] in its second paragraph ("The [[inaccessible-past]] void already covers the inability to re-enter past conscious states. The erasure void is deeper and stranger..."). The two voids are now adjacent in the Map's cartography but inaccessible-past.md does not yet link to erasure-void. Cross-review should (a) add the link back, (b) check whether any passages in inaccessible-past would benefit from the erasure-void distinction (metacognitive monitoring of what is lost vs re-entry of what is past), (c) identify any tensions between the two articles' treatments of structural loss, and (d) ensure terminology is consistent (both use "phenomenal trace," "inventory," "cognitive loss"). See voids/erasure-void.md and optimistic-2026-04-20.md.
+- **Output**: obsidian/voids/inaccessible-past.md -- Context: Cross-review inaccessible-past.md considering erasure-void insights
 
 ### ✓ 2026-04-20: Update references to coalesced transition-void and initiation-void
 - **Type**: refine-draft
