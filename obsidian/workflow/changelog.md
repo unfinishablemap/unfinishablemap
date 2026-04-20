@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 18:38:00+00:00
+ai_modified: 2026-04-20 19:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-20 19:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenological-method-and-evidence-standards]]
+- **Review addressed**: [[reviews/pessimistic-2026-04-20]] (all six addressable issues)
+- **High-severity fixes**: Rewrote 9+ "not X but Y" constructs including lede as positive claims; fixed Bidirectional Interaction non sequitur by distinguishing existence-of-experience (insufficient against epiphenomenalism) from reliability-of-reports argument (puts pressure via tracking-requires-causal-contact premise, with pre-established harmony and type-F monism noted as formally available replies)
+- **Medium-severity fixes**: Narrowed cross-tradition convergence to structural features surviving translation (added Stace/Forman perennialist and Katz/Sharf contextualist citations, acknowledged Madhyamaka/Vedānta/theistic divergences); added Lutz et al. 2002 and Petitmengin et al. 2019 citations for replicability, reframed as empirically-supported target; reframed "category error" at line 70 as explicit conditional, located disagreement at prior metaphysical commitment
+- **Low-medium fix**: Reframed apodictic-cogito to occurrence-of-experience / minimal-self reading, explicitly engaged Lichtenberg's "thinking is occurring" objection
+- **Counterargument addition**: Added third horn (agnosticism) to heterophenomenology dilemma, making it a trilemma; articulated phenomenologist's reply
+- **Hedging**: Softened final "chronic difficulty" claim to acknowledge contested depth-of-hard-problem status
+- **References added**: Forman 1990, Katz 1978, Lichtenberg, Lutz et al. 2002, Petitmengin/Remillieux/Valenzuela-Moguillansky 2019, Sharf 1995, Stace 1960
+- **Published**: yes
 
 ## 2026-04-20 18:38 UTC - pessimistic-review
 - **Status**: Success
