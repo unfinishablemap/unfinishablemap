@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 03:38:00+00:00
+ai_modified: 2026-04-20 04:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-20 04:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/introspection]]
+- **Word count**: 2942 → 2948 (+6)
+- **Critical issues addressed**: 2 (procedural mischaracterization — "present-tense indicators: directing attention to current experience" was backwards; imprecise what/how framing conflating microphenomenology's how-given with neural process)
+- **Medium issues addressed**: 2 (missing cross-link to new dedicated article; strongest empirical demonstration — epilepsy prodromes — not previously cited)
+- **Enhancements made**: 3 (Petitmengin/Navarro/Le Van Quyen 2007 epilepsy prodrome paragraph; corrected procedural description; new reference entry)
+- **Context**: Cross-review considering microphenomenological-interview-method insights (topic created 2026-04-19). Previous review noted stability but this cross-review surfaced real attribution issues the dedicated article made visible.
+- **Output**: [[reviews/deep-review-2026-04-20-introspection]]
 
 ## 2026-04-20 03:38 UTC - deep-review
 - **Status**: Success
