@@ -2412,12 +2412,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review valence-void.md considering mood-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [[valence-void]] among its related articles. Valence-void concerns the limits on introspective access to hedonic polarity; mood-void adds a prior structural claim (the atmosphere within which any valence-judgement occurs is itself inaccessible as atmosphere). Cross-review should (a) add inbound links to mood-void where the atmospheric-background argument is relevant, (b) check whether valence-void's treatment of hedonic introspection can distinguish clearly between valence-as-object-of-report and valence-as-colouring-of-atmosphere (the latter belongs in mood-void's territory), (c) verify terminology consistency, (d) look for places where valence-void's claims might be sharpened or narrowed given the mood/emotion partition. See voids/mood-void.md.
-- **Source**: chain (from mood-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review predictive-construction-void.md considering mood-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [[predictive-construction-void]] among its related articles. Mood-void's argument that the affective atmosphere is the prior within which any conscious contrast occurs resonates structurally with predictive-construction-void's claim that prediction shapes what conscious access can reach. Cross-review should (a) add inbound links to mood-void where the prior/background structure is developed, (b) check whether mood as an instance of the predictive prior strengthens or complicates predictive-construction-void's treatment (mood is continuously present and slowly varying — a limit case for the predictive account), (c) verify terminology consistency, (d) identify any cross-references that would let each article lean on the other's argument without repetition. See voids/mood-void.md.
@@ -2439,6 +2433,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-04-20: Cross-review valence-void.md considering mood-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [[valence-void]] among its related articles. Valence-void concerns the limits on introspective access to hedonic polarity; mood-void adds a prior structural claim (the atmosphere within which any valence-judgement occurs is itself inaccessible as atmosphere). Cross-review should (a) add inbound links to mood-void where the atmospheric-background argument is relevant, (b) check whether valence-void's treatment of hedonic introspection can distinguish clearly between valence-as-object-of-report and valence-as-colouring-of-atmosphere (the latter belongs in mood-void's territory), (c) verify terminology consistency, (d) look for places where valence-void's claims might be sharpened or narrowed given the mood/emotion partition. See voids/mood-void.md.
+- **Output**: obsidian/voids/valence-void.md -- Context: Cross-review valence-void.md considering mood-void insights
 
 ### ✓ 2026-04-20: Cross-review affective-void.md considering mood-void insights
 - **Type**: cross-review

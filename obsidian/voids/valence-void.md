@@ -4,9 +4,9 @@ description: "Why does experience come sorted into good and bad? Human+AI explor
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-03-06T19:38:00+00:00
+ai_modified: 2026-04-20T14:40:00+00:00
 draft: false
-last_deep_review: 2026-03-06T19:38:00+00:00
+last_deep_review: 2026-04-20T14:40:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[pain-consciousness-and-causal-power]]"
@@ -19,6 +19,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[affective-void]]"
+  - "[[mood-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[origin-of-consciousness]]"
   - "[[emergence-void]]"
@@ -37,9 +38,9 @@ The [[hard-problem-of-consciousness|hard problem]] asks why there is something i
 
 The Unfinishable Map treats the valence void as a distinct cognitive boundary, sharper and more intimate than the hard problem it inherits. The hard problem is abstract — one can discuss it without confronting it. The valence void is lived. Every moment of experience demonstrates the phenomenon and defeats the explanation simultaneously.
 
-## Distinct from the Affective Void
+## Distinct from Affective and Mood Voids
 
-The valence void should not be confused with the [[affective-void|affective void]], which concerns emotions we cannot feel — affects beyond human phenomenological reach due to evolutionary contingency and architectural limits. The valence void is orthogonal: it concerns why *any* affect has a good/bad character at all. A being with access to every possible emotion in the affective space would still confront the valence void. The question is not about the range of feelings but about the evaluative structure that all feelings share.
+The valence void sits among a family of affect-related voids. The [[affective-void|affective void]] concerns emotions we cannot feel — affects beyond human phenomenological reach due to evolutionary contingency and architectural limits. The [[mood-void|mood void]] concerns the opacity of the affective atmosphere we are always inside of — why we cannot cleanly witness the mood that colours our witnessing. The valence void is orthogonal to both: it asks why *any* affect has a good/bad character at all. A being with access to every possible emotion, in any mood, would still confront the valence void. The question concerns the evaluative structure all feelings share, not the range of feelings or the pervasiveness of the affective background.
 
 ## Three Failures of Explanation
 
@@ -66,6 +67,8 @@ The deepest obstacle is self-referential. Any attempt to explain valence from wi
 This is not merely an inconvenience. It is a structural feature of evaluative cognition. To assess whether an explanation of valence succeeds, one must judge it — and judgment itself is valenced. The evaluative framework we use to evaluate explanations is the very thing we are trying to explain. One cannot achieve the affective distance needed to examine valence as an object precisely because the examination requires valenced cognition at every step.
 
 The circularity is tighter than comparable self-referential problems in philosophy. The [[self-opacity|self-reference paradox]] concerns consciousness trying to observe itself as object; the valence void concerns evaluation trying to evaluate itself. And while one might imagine a form of consciousness that does not attempt self-observation, it is harder to imagine one that does not evaluate — since valence appears to be constitutive of experience.
+
+The circularity also parallels the [[mood-void|mood void]]'s constitutive-opacity layer — mood shapes the cognition that attempts to witness mood — but cuts deeper. Mood admits indirect probing through mood-congruent biases, testimony, and counterfactual triangulation. Valence admits no affectively neutral probe, since every probe carries hedonic tone. The instrument participates in what it measures.
 
 ## Could Consciousness Exist Without Valence?
 
@@ -110,6 +113,7 @@ The valence void connects to the Map's [[tenets|foundational commitments]] at mu
 - [[pain-consciousness-and-causal-power]] — Pain's phenomenal character and causal power — the valence void's paradigm case
 - [[emotion-and-dualism]] — Valence irreducibility, emotional consciousness, and the dualist case
 - [[affective-void]] — Emotions beyond human reach — the range problem, not the structure problem
+- [[mood-void]] — The opacity of the affective atmosphere — the pervasiveness problem, not the structure problem
 - [[intrinsic-nature-void]] — What matter is in itself — valence as a case of intrinsic nature
 - [[origin-of-consciousness]] — Why consciousness exists at all — the most logically prior void
 - [[emergence-void]] — How arrangement produces novelty
