@@ -2412,12 +2412,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review phenomenological-method-and-evidence-standards.md considering microphenomenological-interview-method insights
-- **Type**: cross-review
-- **Notes**: New article topics/microphenomenological-interview-method.md (created 2026-04-19) lists [[phenomenological-method-and-evidence-standards]] among its related articles and anchors explicitly to that article's "Husserl's Evidence Taxonomy" section. The new piece develops Petitmengin's method as the closest thing consciousness science has to a replicable protocolised first-person technique. Cross-review should (a) add a forward link from phenomenological-method-and-evidence-standards to microphenomenological-interview-method where disciplined-first-person-method is discussed, (b) check whether the Husserlian evidence taxonomy treatment can now cite the microphenomenological method as a worked example of assertoric-adequate evidence under training, (c) verify that terminology aligns (apodictic/assertoric × adequate/inadequate), (d) check for places where the evidence-standards article could be strengthened or sharpened by referencing the epilepsy-prodrome empirical demonstration. See topics/microphenomenological-interview-method.md.
-- **Source**: chain (from microphenomenological-interview-method.md)
-- **Generated**: 2026-04-20
-
 ### P2: Update [[concept-of-free-will]] wikilinks across 14 files after coalesce
 - **Type**: refine-draft
 - **Notes**: The 2026-04-20 coalesce (commit 2c870a9ce) merged concepts/concept-of-free-will into topics/free-will and archived the source. Fourteen files still carry stale wikilinks to the archived slug: concepts/agent-causation.md, concepts/control-theoretic-will.md, concepts/luck-objection.md, concepts/moral-responsibility.md, concepts/phenomenology-of-choice-and-volition.md, concepts/quantum-indeterminacy-free-will.md, concepts/reasons-responsiveness.md, concepts/spontaneous-intentional-action.md, topics/authentic-vs-inauthentic-choice.md, topics/consciousness-and-causal-powers.md, topics/free-will.md (self-reference in coalesced content), topics/moral-implications-of-genuine-agency.md, topics/trilemma-of-selection.md, topics/volitional-control.md. For each file, replace `[[concept-of-free-will]]` with `[[topics/free-will]]` (or `[[topics/free-will|free will]]` where display text is needed), preserving any pipe-aliased display text. Verify the link target makes sense in context — in some places the original referenced a narrower aspect (the *concept* analysis vs the topic overview) and a brief paragraph rewrite may be needed to keep the sentence accurate. Update ai_modified timestamps on edited files. Do not modify the archived source. See commit 2c870a9ce for the coalesce diff.
@@ -2445,6 +2439,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-04-20: Cross-review phenomenological-method-and-evidence-standards.md considering microphenomenological-interview-method insights
+- **Type**: cross-review
+- **Notes**: New article topics/microphenomenological-interview-method.md (created 2026-04-19) lists [[phenomenological-method-and-evidence-standards]] among its related articles and anchors explicitly to that article's "Husserl's Evidence Taxonomy" section. The new piece develops Petitmengin's method as the closest thing consciousness science has to a replicable protocolised first-person technique. Cross-review should (a) add a forward link from phenomenological-method-and-evidence-standards to microphenomenological-interview-method where disciplined-first-person-method is discussed, (b) check whether the Husserlian evidence taxonomy treatment can now cite the microphenomenological method as a worked example of assertoric-adequate evidence under training, (c) verify that terminology aligns (apodictic/assertoric × adequate/inadequate), (d) check for places where the evidence-standards article could be strengthened or sharpened by referencing the epilepsy-prodrome empirical demonstration. See topics/microphenomenological-interview-method.md.
+- **Output**: obsidian/topics/phenomenological-method-and-evidence-standards.md -- Context: Cross-review phenomenological-method-and-evidence-standards.md considering microphenomenological-interview-method insights
 
 ### ✓ 2026-04-20: Cross-review predictive-construction-void.md considering mood-void insights
 - **Type**: cross-review

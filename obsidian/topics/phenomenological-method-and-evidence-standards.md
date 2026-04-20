@@ -2,10 +2,10 @@
 title: "Phenomenological Method and Evidence Standards"
 description: "Husserl's evidence taxonomy—adequate, apodictic, assertoric, presumptive—gives phenomenology a rigorous standard distinct from natural science, with consequences for the dualist case."
 created: 2026-04-18
-modified: 2026-04-19
+modified: 2026-04-20
 human_modified:
-ai_modified: 2026-04-19T12:38:00+00:00
-last_deep_review: 2026-04-19T08:46:00+00:00
+ai_modified: 2026-04-20T17:46:00+00:00
+last_deep_review: 2026-04-20T17:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -102,7 +102,7 @@ The intersubjective dimension of phenomenological method is its most underapprec
 Three sources of convergence carry distinctive evidential weight:
 
 - **Trained meditators across contemplative traditions** independently report similar structural features of attention, self, and awareness—features that diverge from naive folk-psychological description. The [[contemplative-epistemology|contemplative epistemology]] argument extends this convergence into a substantive evidential claim.
-- **Microphenomenological interview techniques** (Petitmengin) elicit fine-grained descriptions of brief experiential moments through non-leading prompts and re-enactment, revealing structures invisible to casual introspection while controlling for suggestion and theory-contamination.
+- **[[microphenomenological-interview-method|Microphenomenological interview techniques]]** (Petitmengin 2006; Bitbol & Petitmengin 2017) elicit fine-grained descriptions of brief experiential moments through non-leading prompts and re-enactment, revealing structures invisible to casual introspection while controlling for suggestion and theory-contamination. The epilepsy-prodrome work (Petitmengin, Navarro & Le Van Quyen 2007) provides the strongest empirical demonstration: continuous preictal experiences invisible to both casual introspection and contemporary neurodynamic measurement were surfaced by disciplined interviewing and proved clinically actionable. Mapped against the Husserlian taxonomy, the method strengthens *assertoric* warrant for pre-reflective content and raises *presumptive* claims about generic structure via inter-subject convergence; it does not deliver apodictic certainty, and it does not resolve the adequacy problem—a sober ceiling that the [[microphenomenological-interview-method|sibling article]] develops in detail.
 - **Cross-cultural phenomenological reports** of altered states, anomalous experiences, and developmental milestones in attention show structural agreements across linguistic and theoretical frameworks too divergent to share theoretical contamination.
 
 None of these is conclusive on its own. Together they suggest that what trained observers find when they look carefully is not an artefact of any one training programme but a feature of consciousness itself.
@@ -121,6 +121,7 @@ The Map does not claim that phenomenology delivers a complete metaphysics of con
 
 - [[phenomenology]] — The phenomenological method itself, its history and central operations
 - [[phenomenological-evidence]] — The concept of phenomenological evidence and its reliability
+- [[microphenomenological-interview-method]] — Petitmengin's protocolised second-person procedure and its evidence profile
 - [[phenomenal-authority-and-first-person-evidence]] — Layered epistemic authority of first-person reports
 - [[zahavian-minimal-self]] — The for-me-ness structure that apodictic phenomenological evidence discloses
 - [[neurophenomenology-and-contemplative-neuroscience]] — Varela's mutual constraint programme
@@ -136,6 +137,8 @@ Berghofer, P. (2019). On the nature and systematic role of evidence: Husserl as 
 
 Berghofer, P. (2023). Demystifying originary givenness. *Bulletin d'analyse phénoménologique*.
 
+Bitbol, M. & Petitmengin, C. (2017). Neurophenomenology and the micro-phenomenological interview. In *The Blackwell Companion to Consciousness* (2nd ed.). Wiley.
+
 Chalmers, D. J. (1996). *The Conscious Mind: In Search of a Fundamental Theory*. Oxford University Press.
 
 Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
@@ -149,6 +152,8 @@ Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phen
 Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. Nijhoff.
 
 Petitmengin, C. (2006). Describing one's subjective experience in the second person. *Phenomenology and the Cognitive Sciences*, 5(3), 229-269.
+
+Petitmengin, C., Navarro, V., & Le Van Quyen, M. (2007). Anticipating seizure: Pre-reflective experience at the centre of neurophenomenology. *Phenomenology and the Cognitive Sciences*.
 
 Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
 
