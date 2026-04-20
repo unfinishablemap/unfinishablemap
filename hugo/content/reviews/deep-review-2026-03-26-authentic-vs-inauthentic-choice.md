@@ -67,7 +67,7 @@ None required. The mechanical cross-link additions since the last review (concep
 
 ### Cross-links Added
 None new needed. Recent additions from integration reviews have brought this article to comprehensive connectivity:
-- [concept-of-free-will](/concepts/concept-of-free-will/) (added since last review)
+- [concept-of-free-will](/topics/free-will/) (added since last review)
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) (added since last review)
 - [trilemma-of-selection](/topics/trilemma-of-selection/) (added since last review, with inline content)
 

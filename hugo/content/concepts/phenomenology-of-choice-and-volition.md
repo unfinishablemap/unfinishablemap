@@ -59,7 +59,7 @@ topics:
 - '[[consciousness-and-causal-powers]]'
 ---
 
-Choosing feels like something. Willing feels like something. And the two feel different. When you deliberate between options and settle on one, there is a distinctive qualitative character — a phenomenology of decision that differs markedly from passively observing events unfold. When you then execute that decision — raising your arm, directing attention, suppressing an impulse — a further phenomenology of volitional control unfolds, with its own structure of initiation, sustained effort, and active inhibition. The Unfinishable Map treats this full arc, from deliberation through decision to execution, as evidence that consciousness is a genuine selector and controller rather than an epiphenomenal spectator. See [free will](/concepts/concept-of-free-will/) for the Map's agent-causal position that this phenomenology supports.
+Choosing feels like something. Willing feels like something. And the two feel different. When you deliberate between options and settle on one, there is a distinctive qualitative character — a phenomenology of decision that differs markedly from passively observing events unfold. When you then execute that decision — raising your arm, directing attention, suppressing an impulse — a further phenomenology of volitional control unfolds, with its own structure of initiation, sustained effort, and active inhibition. The Unfinishable Map treats this full arc, from deliberation through decision to execution, as evidence that consciousness is a genuine selector and controller rather than an epiphenomenal spectator. See [free will](/topics/free-will/) for the Map's agent-causal position that this phenomenology supports.
 
 ## Deliberation: Options as Felt Possibilities
 
@@ -186,7 +186,7 @@ The framework would face serious difficulty if: (1) trained introspectors report
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — Invariants of volitional experience across cultures
 - [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) — The broader case for consciousness doing work
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The full case for conscious causal efficacy
-- [concept-of-free-will](/concepts/concept-of-free-will/) — The Map's libertarian position and its grounds
+- [concept-of-free-will](/topics/free-will/) — The Map's libertarian position and its grounds
 
 ## References
 

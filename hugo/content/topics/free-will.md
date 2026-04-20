@@ -1,9 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-20 05:45:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
+coalesced_from:
+- /concepts/concept-of-free-will/
 concepts:
 - '[[quantum-indeterminacy-free-will]]'
 - '[[retrocausality]]'
@@ -24,8 +26,13 @@ concepts:
 - '[[counterfactual-reasoning]]'
 - '[[nihilism-and-existentialism]]'
 - '[[self-opacity|volitional opacity]]'
+- '[[luck-objection]]'
+- '[[reasons-responsiveness]]'
+- '[[self-stultification]]'
+- '[[control-theoretic-will]]'
+- '[[spontaneous-intentional-action]]'
 created: 2026-01-08
-date: &id001 2026-02-28
+date: &id001 2026-04-20
 description: Can we genuinely author our choices? The Map defends agent-causal libertarian
   free will grounded in phenomenology—the felt difference between choosing and merely
   observing.
@@ -40,6 +47,8 @@ related_articles:
 - '[[dream-consciousness]]'
 - '[[motor-control-quantum-zeno]]'
 - '[[counterfactual-void]]'
+- '[[authentic-vs-inauthentic-choice]]'
+- '[[moral-implications-of-genuine-agency]]'
 title: Free Will and Determinism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -99,9 +108,11 @@ The philosophical case for agent causation does not depend on any particular mec
 The Map's [interactionist-dualism](/concepts/interactionist-dualism/) combined with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) yields this picture:
 
 1. The brain prepares multiple possible action patterns
-2. Consciousness—as an agent-causal power—selects which pattern becomes actual
+2. Consciousness—as an agent-causal power—selects which pattern becomes actual, operating as a [low-bandwidth control signal](/concepts/control-theoretic-will/) that gates, stabilises, and steers neural dynamics rather than computing outcomes from scratch
 3. This selection reflects genuine choice grounded in the agent's reasons and values
 4. The selection is "minimal"—working with what physics allows, not overriding it
+
+Selection need not always involve deliberation. [Spontaneous intentional actions](/concepts/spontaneous-intentional-action/)—reaching for a friend's hand, speaking a sentence that surprises you with its precision—are authored without prior planning. The agent-causal framework accommodates this naturally: consciousness selects among possibilities the brain presents, and sometimes selection is immediate and prereflective rather than effortful. What varies is the difficulty of selection, not its nature.
 
 ### The Temporal Problem
 
@@ -176,8 +187,11 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 
 ## Further Reading
 
-- [Free Will (concept overview)](/concepts/concept-of-free-will/) — The core concept: agent-causal libertarian free will grounded in phenomenology and quantum selection
 - [agent-causation](/concepts/agent-causation/) — Why the Map's framework is agent-causal, including substance causation
+- [control-theoretic-will](/concepts/control-theoretic-will/) — Consciousness as low-bandwidth controller of neural dynamics
+- [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — Authored action without deliberation
+- [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When choice engages genuine agency versus running on scripts
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What genuine agency implies for obligation, character, and moral life
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian free will
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How the framework addresses Kim's exclusion argument
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing: initiation, sustained control, effort, and veto

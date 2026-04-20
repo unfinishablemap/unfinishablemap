@@ -4,8 +4,8 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-04-18T09:05:00+00:00
-last_deep_review: 2026-04-17T07:15:00+00:00
+ai_modified: 2026-04-20T06:38:00+00:00
+last_deep_review: 2026-04-20T06:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[quantum-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[concept-of-free-will]]"
+  - "[[trilemma-of-selection]]"
   - "[[phenomenology-mechanism-bridge]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[testing-the-map-from-inside]]"

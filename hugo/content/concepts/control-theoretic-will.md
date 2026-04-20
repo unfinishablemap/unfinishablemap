@@ -152,7 +152,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 ## Further Reading
 
-- [concept-of-free-will](/concepts/concept-of-free-will/) — The Map's broader treatment of will and agency
+- [concept-of-free-will](/topics/free-will/) — The Map's broader treatment of will and agency
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis that grounds the controller's output channel
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism the controller employs
 - [attentional-economics](/concepts/attentional-economics/) — The economics of the controller's scarce bandwidth

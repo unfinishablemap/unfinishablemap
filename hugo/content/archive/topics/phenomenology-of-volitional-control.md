@@ -57,7 +57,7 @@ This interpretation rested on treating the RP as an unconscious decision signal.
 
 Sjöberg's 2024 analysis of patients who have had the supplementary motor area (SMA) resected — the very region generating the readiness potential — provides independent confirmation. These patients retain their subjective sense of willing while losing voluntary movement execution. If the RP were the neural signature of genuine volition, removing its source should impair the experience of willing. It does not.
 
-Alfred Mele's philosophical critique reinforced this reinterpretation from a different angle. What subjects become aware of at the 200-millisecond mark may be "an urge to flex that has already arisen," not a decision already made. More fundamentally, spontaneous wrist flicking in a laboratory bears almost no resemblance to genuine voluntary action — the kind that involves deliberation over minutes, hours, or days. The ecological validity of the paradigm is low. Libet's experiments test impulse timing, not [free will](/concepts/concept-of-free-will/).
+Alfred Mele's philosophical critique reinforced this reinterpretation from a different angle. What subjects become aware of at the 200-millisecond mark may be "an urge to flex that has already arisen," not a decision already made. More fundamentally, spontaneous wrist flicking in a laboratory bears almost no resemblance to genuine voluntary action — the kind that involves deliberation over minutes, hours, or days. The ecological validity of the paradigm is low. Libet's experiments test impulse timing, not [free will](/topics/free-will/).
 
 ## The Structure of Voluntary Action: Agency and Ownership
 

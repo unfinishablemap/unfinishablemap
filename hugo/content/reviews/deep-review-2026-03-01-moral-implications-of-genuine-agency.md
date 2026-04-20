@@ -76,7 +76,7 @@ No attribution errors found.
 
 **Further Reading links added FROM these articles:**
 5. [reasons-responsiveness](/concepts/reasons-responsiveness/) — Added to Further Reading
-6. [concept-of-free-will](/concepts/concept-of-free-will/) — Added to Further Reading
+6. [concept-of-free-will](/topics/free-will/) — Added to Further Reading
 7. [luck-objection](/concepts/luck-objection/) — Added to Further Reading
 8. [moral-phenomenology](/concepts/moral-phenomenology-and-perception/) — Added to Further Reading
 9. [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Added to Further Reading

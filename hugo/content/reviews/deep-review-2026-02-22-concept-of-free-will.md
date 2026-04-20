@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-22
-**Article**: [Free Will](/concepts/concept-of-free-will/)
+**Article**: [Free Will](/topics/free-will/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

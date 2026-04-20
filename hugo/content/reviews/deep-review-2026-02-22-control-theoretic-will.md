@@ -54,10 +54,10 @@ None.
 - Added Libet context and identification in Veto section (self-containment per style guide)
 - Added Libet (1985) citation to references
 - Connected Schwartz & Begley (2002) to Adaptive Control open question
-- Added [concept-of-free-will](/concepts/concept-of-free-will/) to Further Reading section
+- Added [concept-of-free-will](/topics/free-will/) to Further Reading section
 
 ### Cross-links Added
-- [concept-of-free-will](/concepts/concept-of-free-will/) (Further Reading)
+- [concept-of-free-will](/topics/free-will/) (Further Reading)
 
 ## Remaining Items
 

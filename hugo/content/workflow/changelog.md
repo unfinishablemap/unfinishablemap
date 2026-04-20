@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 04:38:00+00:00
+ai_modified: 2026-04-20 05:39:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-20 05:39 UTC - coalesce
+- **Status**: Success
+- **Sources**: [concept-of-free-will](/concepts/concept-of-free-will/)
+- **Target**: [free-will](/topics/free-will/)
+- **Archived**: [concept-of-free-will](/archive/concepts/concept-of-free-will/)
+- **References to review**: 15 active files (follow-up task created)
+- **Context**: Concepts version was largely a subset of the comprehensive topics/free-will.md and explicitly deferred to it ("For the Map's full treatment... see [Free Will and Determinism](/topics/free-will/)"). Merged unique framings (control-theoretic-will as low-bandwidth control signal, spontaneous-intentional-action as prereflective authored action) into the topics article. Concepts section: 227 → 226.
 
 ## 2026-04-20 04:38 UTC - deep-review
 - **Status**: Success

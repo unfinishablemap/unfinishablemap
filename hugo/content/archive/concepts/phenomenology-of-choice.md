@@ -47,7 +47,7 @@ topics:
 - '[[topics/free-will]]'
 ---
 
-Choosing feels like something. This obvious fact carries philosophical weight that is often overlooked. When you deliberate between options and settle on one, there is a distinctive qualitative character to the experience—a phenomenology of decision that differs markedly from passively observing events unfold. This phenomenology provides evidence for the Map's framework: consciousness as genuine selector rather than epiphenomenal spectator. See [free will](/concepts/concept-of-free-will/) for the Map's agent-causal position that this phenomenology supports.
+Choosing feels like something. This obvious fact carries philosophical weight that is often overlooked. When you deliberate between options and settle on one, there is a distinctive qualitative character to the experience—a phenomenology of decision that differs markedly from passively observing events unfold. This phenomenology provides evidence for the Map's framework: consciousness as genuine selector rather than epiphenomenal spectator. See [free will](/topics/free-will/) for the Map's agent-causal position that this phenomenology supports.
 
 The phenomenology of choice encompasses deliberation, resolution, and authorship. Each phase has distinctive experiential signatures that materialist accounts struggle to explain while the Map's [agent-causal](/concepts/agent-causation/) framework predicts them. Where the [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) concerns the exertion of will itself—initiation, sustained control, effort, and veto—the phenomenology of choice concerns the preceding deliberative phase: weighing options, experiencing their felt significance, and arriving at resolution.
 
