@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20T18:38:00+00:00
+ai_modified: 2026-04-20T21:38:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -2415,6 +2415,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 ### P2: Cross-review limits-reveal-structure.md considering erasure-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/erasure-void.md (created 2026-04-20) is a clear instance of the limits-reveal-structure methodology: the structural impossibility of cognitive self-audit reveals architectural facts about consciousness (the monitoring system is co-located with the monitored faculties, anosognosia shows selective destruction, the apparent completeness of the map is itself the erasure). Limits-reveal-structure.md does not yet reference erasure-void despite its centrality as a worked example of the methodology. Cross-review should (a) add erasure-void to the related_articles frontmatter and link to it where the limits→structure inference is developed, (b) consider whether erasure-void should appear in the article body as a worked example alongside the existing intrinsic-nature-void and self-opacity treatments, (c) check whether the erasure-void's anosognosia material provides a clinical anchor that strengthens the limits-reveal-structure argument's empirical grounding, (d) verify terminology consistency (limits-reveal-structure uses "architecture," "constitutive limit"; erasure-void uses "monitoring system," "metacognitive architecture" — align if drift exists). See voids/erasure-void.md.
+- **Source**: chain (from erasure-void.md)
+- **Generated**: 2026-04-20
+
+### P2: Cross-review taxonomy-of-voids.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) introduces a structurally distinct void — the impossibility of auditing cognitive completeness — that belongs in the apex taxonomy but is not yet listed there. Erasure-void itself includes [[voids]] and [[self-opacity]] in its related_articles but the apex taxonomy article has zero references to erasure-void. Cross-review should (a) locate erasure-void within the taxonomy's existing categorisation (likely adjacent to self-opacity, inaccessible-past, and the metacognitive-architecture cluster), (b) add erasure-void to the apex's running list of voids with a one-sentence gloss distinguishing it from neighbouring voids (inaccessible-past covers inability to re-enter past states; self-opacity covers limits on present-tense introspection; erasure-void covers structural blindness to what has been lost), (c) check whether the clinical anosognosia material in erasure-void strengthens the apex's claim that voids reveal architectural facts, (d) add inbound link to erasure-void where the "voids compound" or "voids reveal structure" themes are developed. See voids/erasure-void.md.
+- **Source**: chain (from erasure-void.md)
+- **Generated**: 2026-04-20
+
+### P2: Cross-review voids.md (voids section index) considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [[voids]] among its related_articles but the voids section index has no inbound link to erasure-void. The voids index is a primary navigation surface and needs to enumerate erasure-void alongside the other cartographic entries. Cross-review should (a) add erasure-void to the index's running catalogue with a short descriptive gloss, (b) place it in a sensible cluster (with the metacognitive/introspective voids — self-opacity, inaccessible-past, intrinsic-nature-void — rather than phenomenal absences), (c) check whether the index's introductory framing needs any update to accommodate "voids that erase their own evidence" as a structural category, (d) verify that terminology is consistent across the index and the new article (monitoring system, metacognitive architecture, selective destruction). See voids/erasure-void.md.
+- **Source**: chain (from erasure-void.md)
+- **Generated**: 2026-04-20
+
+### P2: Cross-review necessary-opacity.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) is conceptually adjacent to necessary-opacity: both concern structural impossibilities of self-transparency rather than contingent cognitive limits. Erasure-void lists [[necessary-opacity]] in its related_articles but necessary-opacity.md has no inbound link to erasure-void. Cross-review should (a) add the inbound link where necessary-opacity discusses architectural reasons monitoring fails (the erasure-void's "the monitoring system is co-located with the monitored faculties" is a paradigm case of necessary opacity), (b) check whether necessary-opacity's treatment of "opacity that follows from architecture" can be strengthened by citing the anosognosia material, (c) consider whether the compound phenomenon — monitoring failure co-occurring with capacity loss — adds a sharper case than necessary-opacity currently provides, (d) verify terminology consistency (necessary-opacity uses "constitutive," "architectural"; erasure-void uses "metacognitive architecture," "monitoring system" — align if drift exists), (e) note that there is an existing P3 task to cross-review necessary-opacity against predictive-construction-void insights; these two cross-reviews can be handled in sequence or combined if the reviewer sees overlap. See voids/erasure-void.md.
 - **Source**: chain (from erasure-void.md)
 - **Generated**: 2026-04-20
 
