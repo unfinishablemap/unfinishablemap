@@ -4,7 +4,7 @@ description: "Memory is not storage but structured re-experiencing—and the hie
 created: 2026-02-08
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-29T02:22:00+00:00
+ai_modified: 2026-04-20T03:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,6 @@ concepts:
   - "[[sleep-and-consciousness]]"
   - "[[binding-problem]]"
   - "[[attention-as-interface]]"
-  - "[[binding-problem]]"
   - "[[temporal-consciousness]]"
   - "[[neuroplasticity]]"
   - "[[phenomenal-contrast-method]]"
@@ -48,7 +47,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-08
 last_curated:
-last_deep_review: 2026-03-18T23:05:00+00:00
+last_deep_review: 2026-04-20T03:38:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-memory/"
   - "/topics/consciousness-and-memory-consolidation/"
@@ -167,7 +166,7 @@ For dualism, this creates both a challenge and an opportunity. The challenge: if
 
 The opportunity: this is exactly what dualism predicts. If qualia are not identical to physical states, there is no reason to expect them to persist when the physical substrate changes. The information is preserved; the experience is not. Materialists must explain why a supposedly physical phenomenon (conscious experience) fails to persist in the way other physical states do. Dualists have a ready answer: phenomenal properties are not the kind of thing that gets stored in synapses.
 
-Proustian moments—involuntary memories triggered by sensory cues that seem to recover the *feel* of past experience—test this boundary. Do they genuinely access past qualia, or do they generate exceptionally vivid simulations? The question may be unanswerable, which places it squarely in the territory of the [[inaccessible-past]] and the [[inaccessible-past]]: a genuine limit on what consciousness can know about its own history.
+Proustian moments—involuntary memories triggered by sensory cues that seem to recover the *feel* of past experience—test this boundary. Do they genuinely access past qualia, or do they generate exceptionally vivid simulations? The question may be unanswerable, placing it squarely in the territory of the [[inaccessible-past|inaccessible past]]—a genuine limit on what consciousness can know about its own history.
 
 ## Relation to Site Perspective
 
@@ -210,7 +209,6 @@ Memory provides some of the Map's strongest evidence for its foundational commit
 - [[dream-consciousness]]
 - [[sleep-consciousness-void]]
 - [[capability-division-problem]]
-- [[episodic-memory]]
 - [[consciousness-and-the-phenomenology-of-place]]
 - [[phenomenology-of-memory-and-the-self]]
 - [[phenomenal-contrast-method]] — The method that reveals consolidation's qualitative shifts
