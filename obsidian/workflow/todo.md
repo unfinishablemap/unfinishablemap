@@ -2412,12 +2412,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review limits-reveal-structure.md considering erasure-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) is a clear instance of the limits-reveal-structure methodology: the structural impossibility of cognitive self-audit reveals architectural facts about consciousness (the monitoring system is co-located with the monitored faculties, anosognosia shows selective destruction, the apparent completeness of the map is itself the erasure). Limits-reveal-structure.md does not yet reference erasure-void despite its centrality as a worked example of the methodology. Cross-review should (a) add erasure-void to the related_articles frontmatter and link to it where the limits→structure inference is developed, (b) consider whether erasure-void should appear in the article body as a worked example alongside the existing intrinsic-nature-void and self-opacity treatments, (c) check whether the erasure-void's anosognosia material provides a clinical anchor that strengthens the limits-reveal-structure argument's empirical grounding, (d) verify terminology consistency (limits-reveal-structure uses "architecture," "constitutive limit"; erasure-void uses "monitoring system," "metacognitive architecture" — align if drift exists). See voids/erasure-void.md.
-- **Source**: chain (from erasure-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review taxonomy-of-voids.md considering erasure-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/erasure-void.md (created 2026-04-20) introduces a structurally distinct void — the impossibility of auditing cognitive completeness — that belongs in the apex taxonomy but is not yet listed there. Erasure-void itself includes [[voids]] and [[self-opacity]] in its related_articles but the apex taxonomy article has zero references to erasure-void. Cross-review should (a) locate erasure-void within the taxonomy's existing categorisation (likely adjacent to self-opacity, inaccessible-past, and the metacognitive-architecture cluster), (b) add erasure-void to the apex's running list of voids with a one-sentence gloss distinguishing it from neighbouring voids (inaccessible-past covers inability to re-enter past states; self-opacity covers limits on present-tense introspection; erasure-void covers structural blindness to what has been lost), (c) check whether the clinical anosognosia material in erasure-void strengthens the apex's claim that voids reveal architectural facts, (d) add inbound link to erasure-void where the "voids compound" or "voids reveal structure" themes are developed. See voids/erasure-void.md.
@@ -2438,6 +2432,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-20: Cross-review limits-reveal-structure.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) is a clear instance of the limits-reveal-structure methodology: the structural impossibility of cognitive self-audit reveals architectural facts about consciousness (the monitoring system is co-located with the monitored faculties, anosognosia shows selective destruction, the apparent completeness of the map is itself the erasure). Limits-reveal-structure.md does not yet reference erasure-void despite its centrality as a worked example of the methodology. Cross-review should (a) add erasure-void to the related_articles frontmatter and link to it where the limits→structure inference is developed, (b) consider whether erasure-void should appear in the article body as a worked example alongside the existing intrinsic-nature-void and self-opacity treatments, (c) check whether the erasure-void's anosognosia material provides a clinical anchor that strengthens the limits-reveal-structure argument's empirical grounding, (d) verify terminology consistency (limits-reveal-structure uses "architecture," "constitutive limit"; erasure-void uses "monitoring system," "metacognitive architecture" — align if drift exists). See voids/erasure-void.md.
+- **Output**: obsidian/voids/limits-reveal-structure.md -- Context: Cross-review limits-reveal-structure.md considering erasure-void insights
 
 ### ✓ 2026-04-20: Update [[concept-of-free-will]] wikilinks across 14 files after coalesce
 - **Type**: refine-draft

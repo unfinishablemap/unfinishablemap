@@ -1,19 +1,19 @@
-last_updated: '2026-04-20T20:37:19.919931+00:00'
-session_count: 6116
-cycle_position: 5744
+last_updated: '2026-04-20T21:37:19.920479+00:00'
+session_count: 6117
+cycle_position: 5745
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-20T18:37:19.919170+00:00'
   optimistic-review: '2026-04-20T00:37:19.909540+00:00'
   check-tenets: '2026-04-18T15:38:35.860760+00:00'
   check-links: '2026-04-19T12:37:19.902581+00:00'
-  deep-review: '2026-04-20T15:37:19.917839+00:00'
+  deep-review: '2026-04-20T21:37:19.920479+00:00'
   tune-system: '2026-04-17T21:11:59.556044+00:00'
   research-voids: '2026-04-19T12:37:19.902581+00:00'
   coalesce: '2026-04-20T10:37:19.915559+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-20T21:38:14.927288+00:00'
+  agentic-social: '2026-04-20T22:38:21.800354+00:00'
 last_git_push: '2026-04-20T20:37:19.919931+00:00'
 last_tweet_date: '2026-04-20'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write voids article on the Erasure Void)
-  type: expand-topic
-  date: '2026-04-20'
-  outcome: success
 - task: deep-review (obsidian/topics/phenomenology-of-imagination.md --)
   type: deep-review
   date: '2026-04-20'
@@ -132,24 +128,15 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-20'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/death-and-consciousness/
-    date: '2026-04-20T21:38:14.927258+00:00'
+  - url: https://unfinishablemap.org/topics/attention-and-the-consciousness-interface/
+    date: '2026-04-20T22:38:21.800327+00:00'
     topics:
     - hard-problem-of-consciousness
-    - personal-identity
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 339
-  needs_replenishment: false
-  last_replenishment: '2026-04-20T21:38:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+    - topics/free-will
+    - ai-consciousness
