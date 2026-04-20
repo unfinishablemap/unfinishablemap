@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 15:38:00+00:00
+ai_modified: 2026-04-20 16:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-20 16:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/predictive-construction-void]]
+- **Word count**: 2322 → 2384 (+62, length-neutral mode; soft_warning sustained but well below hard threshold)
+- **Critical issues addressed**: 0 (prior review found none; this review confirmed convergence)
+- **Medium issues addressed**: 3 (LLM-cliché-adjacent "It is not X — third-person science can..." rewritten in calibration paragraph; missing reverse cross-link to [[mood-void]] added; structural parallel between calibration problem and mood-void's constitutive-opacity layer surfaced in self-erasing-void section)
+- **Enhancements made**: 4 (mood-void cross-link in self-erasing section identifying shared "media that disappear into what they enable" architecture; mutation-void cross-link in inspection-paradox mechanism; both added to related_articles and Further Reading; Bruineberg paragraph tightened to offset additions)
+- **Output**: [[reviews/deep-review-2026-04-20-predictive-construction-void]]
+- **Context**: Cross-review focused on integrating mood-void (created 2026-04-19) which already linked here but had no reverse link. Length-neutral mode held: ~146 words added for cross-review integration, ~84 words cut via tightening of calibration and Bruineberg paragraphs. Article remains stable; bedrock disagreements (eliminative materialist, MWI defender) intentionally not re-flagged per prior stability notes.
 
 ## 2026-04-20 15:38 UTC - deep-review
 - **Status**: Success
