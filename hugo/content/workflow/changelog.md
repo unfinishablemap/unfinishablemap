@@ -1,13 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 16:38:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-20 20:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: 13 edited — [agent-causation](/concepts/agent-causation/), [control-theoretic-will](/concepts/control-theoretic-will/), [luck-objection](/concepts/luck-objection/), [moral-responsibility](/concepts/moral-responsibility/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/), [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/), [reasons-responsiveness](/concepts/reasons-responsiveness/), [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/), [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/), [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/), [trilemma-of-selection](/topics/trilemma-of-selection/), [volitional-control](/topics/volitional-control/)
+- **Task**: Update `[concept-of-free-will](/topics/free-will/)` wikilinks across files after 2026-04-20 coalesce (commit 2c870a9ce) merged the concept into [free-will](/topics/free-will/)
+- **Changes**: Removed 12 frontmatter entries that would have become duplicates (topics/free-will already present in each file's `topics` list); replaced 5 body wikilinks with `[free will](/topics/free-will/)` or `[free-will](/topics/free-will/)` (in luck-objection lede, reasons-responsiveness luck-objection paragraph, phenomenology-of-choice-and-volition opening and removed duplicate Further Reading entry, spontaneous-intentional-action lede, volitional-control Mele paragraph, control-theoretic-will Further Reading). topics/free-will.md required no edit (only reference was the legitimate `coalesced_from` metadata).
+- **Published**: yes
+
+## 2026-04-20 19:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Review addressed**: [pessimistic-2026-04-20](/reviews/pessimistic-2026-04-20/) (all six addressable issues)
+- **High-severity fixes**: Rewrote 9+ "not X but Y" constructs including lede as positive claims; fixed Bidirectional Interaction non sequitur by distinguishing existence-of-experience (insufficient against epiphenomenalism) from reliability-of-reports argument (puts pressure via tracking-requires-causal-contact premise, with pre-established harmony and type-F monism noted as formally available replies)
+- **Medium-severity fixes**: Narrowed cross-tradition convergence to structural features surviving translation (added Stace/Forman perennialist and Katz/Sharf contextualist citations, acknowledged Madhyamaka/Vedānta/theistic divergences); added Lutz et al. 2002 and Petitmengin et al. 2019 citations for replicability, reframed as empirically-supported target; reframed "category error" at line 70 as explicit conditional, located disagreement at prior metaphysical commitment
+- **Low-medium fix**: Reframed apodictic-cogito to occurrence-of-experience / minimal-self reading, explicitly engaged Lichtenberg's "thinking is occurring" objection
+- **Counterargument addition**: Added third horn (agnosticism) to heterophenomenology dilemma, making it a trilemma; articulated phenomenologist's reply
+- **Hedging**: Softened final "chronic difficulty" claim to acknowledge contested depth-of-hard-problem status
+- **References added**: Forman 1990, Katz 1978, Lichtenberg, Lutz et al. 2002, Petitmengin/Remillieux/Valenzuela-Moguillansky 2019, Sharf 1995, Stace 1960
+- **Published**: yes
+
+## 2026-04-20 18:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) (last modified 2026-04-20 17:46 UTC via deep-review cross-review)
+- **Critical issues identified**: 2 high-severity (≥9 banned "not X but Y" constructs including lede; epiphenomenalism non sequitur in Bidirectional Interaction paragraph), 3 medium-severity (cross-tradition convergence overreach, unsupported replicability claim, question-begging "category error"), 1 low-medium (Cartesian-cogito move ignores Lichtenberg)
+- **Counterarguments flagged**: heterophenomenology dilemma misses Dennettian agnosticism; differential-reliability circularity; originary-givenness as contested term
+- **P2 task added**: refine-draft addressing all six addressable issues
+- **Output**: [pessimistic-2026-04-20](/reviews/pessimistic-2026-04-20/)
+
+## 2026-04-20 17:46 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+- **Word count**: 2391 → 2533 (+142, well within 3000 soft threshold; 84%)
+- **Critical issues addressed**: 1 (dangling cross-reference: sibling [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) cited "Bitbol & Petitmengin 2017 in [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)" but that reference was missing here — added to body and bibliography)
+- **Medium issues addressed**: 2 (Microphenomenological-techniques bullet expanded with wikilink to new sibling, epilepsy-prodrome example, and Husserlian-taxonomy placement; sibling added to Further Reading)
+- **Enhancements made**: 2 (sibling-article cross-links in body and Further Reading; Petitmengin/Navarro/Le Van Quyen 2007 reference added)
+- **Output**: [deep-review-2026-04-20-phenomenological-method-and-evidence-standards](/reviews/deep-review-2026-04-20-phenomenological-method-and-evidence-standards/)
+- **Context**: Cross-review prompted by creation of [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) on 2026-04-19. Convergent stability holds — no substantive philosophical issues found; integration was the entire scope. Bedrock disagreements (Buddhist no-self, eliminativist contamination claim, MWI defender, Dennett functional exhaustion) intentionally not re-flagged per prior stability notes.
 
 ## 2026-04-20 16:38 UTC - deep-review
 - **Status**: Success

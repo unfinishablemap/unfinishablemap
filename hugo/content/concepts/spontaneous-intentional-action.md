@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,7 +33,6 @@ related_articles:
 - '[[consciousness-and-agency]]'
 - '[[consciousness-and-skill-acquisition]]'
 - '[[libet-experiments]]'
-- '[[concept-of-free-will]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
 - '[[eastern-philosophy-consciousness]]'
 - '[[the-observer-witness-in-meditation]]'

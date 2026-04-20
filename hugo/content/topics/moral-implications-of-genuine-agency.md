@@ -1,11 +1,10 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
-- '[[concept-of-free-will]]'
 - '[[agent-causation]]'
 - '[[moral-responsibility]]'
 - '[[mental-causation-and-downward-causation]]'

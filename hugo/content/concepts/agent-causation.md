@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-18 09:05:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -44,7 +44,6 @@ related_articles:
 - '[[agent-causation-libertarian-free-will-2026-01-14]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
 - '[[motor-control-quantum-zeno-2026-01-18]]'
-- '[[concept-of-free-will]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[consciousness-value-connection]]'
 title: Agent Causation

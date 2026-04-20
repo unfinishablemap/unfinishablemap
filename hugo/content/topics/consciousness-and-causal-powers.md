@@ -1,11 +1,10 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-04-06 10:58:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
-- '[[concept-of-free-will]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[interactionist-dualism]]'
 - '[[concepts/epiphenomenalism]]'

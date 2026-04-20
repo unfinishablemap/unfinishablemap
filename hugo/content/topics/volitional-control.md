@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-24
-ai_modified: 2026-04-02 21:38:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -16,7 +16,6 @@ concepts:
 - '[[phenomenology]]'
 - '[[attention-as-interface]]'
 - '[[consciousness-selecting-neural-patterns]]'
-- '[[concept-of-free-will]]'
 - '[[mental-effort]]'
 - '[[introspection]]'
 - '[[causal-closure]]'

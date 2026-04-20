@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,6 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[reviews/outer-review-2026-02-19-site-chatgpt-5-2-pro]]'
-- '[[concept-of-free-will]]'
 title: Control-Theoretic Will
 topics:
 - '[[topics/free-will]]'
@@ -152,7 +151,7 @@ Conflating the model with the ontology would be a category error—treating a us
 
 ## Further Reading
 
-- [concept-of-free-will](/topics/free-will/) — The Map's broader treatment of will and agency
+- [free-will](/topics/free-will/) — The Map's broader treatment of will and agency
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis that grounds the controller's output channel
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism the controller employs
 - [attentional-economics](/concepts/attentional-economics/) — The economics of the controller's scarce bandwidth

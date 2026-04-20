@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-04-18 09:05:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -34,7 +34,6 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[luck-objection-libertarian-free-will-2026-01-17]]'
-- '[[concept-of-free-will]]'
 title: The Luck Objection to Libertarian Free Will
 topics:
 - '[[topics/free-will]]'

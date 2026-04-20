@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-06 10:58:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -33,7 +33,6 @@ related_articles:
 - '[[tenets]]'
 - '[[quantum-mechanics-free-will-2026-01-16]]'
 - '[[concepts/many-worlds]]'
-- '[[concept-of-free-will]]'
 title: Quantum Indeterminacy and Free Will
 topics:
 - '[[topics/free-will]]'

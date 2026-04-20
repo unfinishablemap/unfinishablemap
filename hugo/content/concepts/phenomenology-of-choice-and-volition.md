@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-31 08:39:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -43,7 +43,6 @@ last_deep_review: 2026-03-24 08:51:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[concept-of-free-will]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
 - '[[temporal-consciousness-structure-and-agency]]'
 - '[[phenomenology-of-moral-life]]'
@@ -186,7 +185,6 @@ The framework would face serious difficulty if: (1) trained introspectors report
 - [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/) — Invariants of volitional experience across cultures
 - [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/) — The broader case for consciousness doing work
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The full case for conscious causal efficacy
-- [concept-of-free-will](/topics/free-will/) — The Map's libertarian position and its grounds
 
 ## References
 

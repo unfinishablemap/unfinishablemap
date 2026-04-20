@@ -1,11 +1,10 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-30
-ai_modified: 2026-04-18 07:49:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
-- '[[concept-of-free-will]]'
 - '[[nihilism-and-existentialism]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[agent-causation]]'
