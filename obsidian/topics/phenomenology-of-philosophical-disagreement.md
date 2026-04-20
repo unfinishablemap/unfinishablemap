@@ -4,7 +4,7 @@ description: "What does it feel like to disagree philosophically? Human+AI explo
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-20T08:50:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-intellectual-life]]"
@@ -34,14 +34,14 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-17
 last_curated:
-last_deep_review: 2026-03-19T07:53:00+00:00
+last_deep_review: 2026-04-20T08:50:00+00:00
 ---
 
 Philosophical disagreement feels different from other kinds of disagreement. When two people dispute a factual question — the population of a city, the date of a battle — the disagreement has a characteristic lightness. Evidence will resolve it. But when a dualist and a materialist face each other across the consciousness debate, something else happens. Each finds the other's position not merely wrong but deeply puzzling — almost unintelligible. The Unfinishable Map argues that the phenomenology of philosophical disagreement reveals something important about consciousness itself: that philosophical positions are not merely believed but *inhabited*, and that the felt impossibility of occupying an opposing framework provides evidence for the irreducibility of conscious experience.
 
 ## The Felt Texture of Deep Disagreement
 
-Philosophical disagreement carries a distinctive phenomenal signature. Consider what happens when a committed dualist encounters the claim that consciousness is "just what the brain does." The experience is not simply one of judging the claim false. It involves a specific constellation of felt states:
+Philosophical disagreement carries a distinctive phenomenal signature. Fogelin (1985) coined the term "deep disagreement" to name disputes where disputants lack shared framework principles — where no underlying common ground permits resolution. His analysis was logical, concerned with the structure of argument when premises themselves are at stake. The phenomenological dimension Fogelin leaves implicit is that deep disagreements have a distinctive felt quality. Consider what happens when a committed dualist encounters the claim that consciousness is "just what the brain does." The experience is not simply one of judging the claim false. It involves a specific constellation of felt states:
 
 **Incomprehension.** Not the incomprehension of encountering a difficult proof one cannot yet follow, but the incomprehension of encountering a perspective that seems to deny what is most obvious. The dualist finds it phenomenally strange that someone could look at the hard problem and see no problem. The materialist finds it equally strange that someone could accept irreducible mental substances.
 
