@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 11:38:00+00:00
+ai_modified: 2026-04-20 12:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-20 12:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/self-opacity]]
+- **Word count**: 2368 → 2402 (+34, justified by reciprocal cross-link to new void)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to newly-created [[erasure-void]])
+- **Enhancements made**: 3 (frontmatter cross-link, inline temporal-extension sentence beside existing inventory-blindness reference, Further Reading entry)
+- **Output**: [[reviews/deep-review-2026-04-20-self-opacity]]
+- **Context**: Cross-review triggered by [[erasure-void]] creation (2026-04-20). Self-opacity covers within-moment introspective limits; erasure-void extends the same "absent capability produces no signal" principle across time. Cross-link sits naturally beside the existing inventory-blindness reference. Fourth review of this article; remains stable with zero critical issues across all four passes.
 
 ## 2026-04-20 11:38 UTC - deep-review
 - **Status**: Success

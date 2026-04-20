@@ -2412,12 +2412,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review self-opacity.md considering erasure-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [[self-opacity]] among its frontmatter concepts and develops an argument that self-monitoring depends on specific neural infrastructure that can be selectively destroyed (anosognosia discussion). This sharpens and narrows the self-opacity claim in a way that self-opacity.md should acknowledge. Cross-review should (a) add a link to erasure-void where the clinical-anosognosia material belongs, (b) check whether self-opacity's treatment of introspective limits can be strengthened by the erasure-void's three-step metacognitive architecture framing, (c) check for terminology consistency (erasure-void uses "monitoring system" and "metacognitive architecture"; self-opacity should align), (d) verify that self-opacity does not overclaim what erasure-void shows to be structurally blocked. See voids/erasure-void.md.
-- **Source**: chain (from erasure-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review affective-void.md considering mood-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [[affective-void]] among its related articles and develops the mood/emotion distinction — mood as atmospheric (no intentional object) vs emotion as object-directed — in a way that sharpens the general affective-void claim. Cross-review should (a) add inbound links from affective-void to mood-void where atmospheric/mood material appears, (b) check whether affective-void's treatment of affective self-knowledge limits can be partitioned more cleanly using mood-void's atmospheric-vs-intentional distinction, (c) verify terminology consistency (mood-void positions mood as the affective atmosphere within which witnessing occurs — affective-void should acknowledge this framing where relevant), (d) check for any overclaim that mood-void's narrower argument already covers structurally. See voids/mood-void.md.
@@ -2451,6 +2445,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-04-20: Cross-review self-opacity.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [[self-opacity]] among its frontmatter concepts and develops an argument that self-monitoring depends on specific neural infrastructure that can be selectively destroyed (anosognosia discussion). This sharpens and narrows the self-opacity claim in a way that self-opacity.md should acknowledge. Cross-review should (a) add a link to erasure-void where the clinical-anosognosia material belongs, (b) check whether self-opacity's treatment of introspective limits can be strengthened by the erasure-void's three-step metacognitive architecture framing, (c) check for terminology consistency (erasure-void uses "monitoring system" and "metacognitive architecture"; self-opacity should align), (d) verify that self-opacity does not overclaim what erasure-void shows to be structurally blocked. See voids/erasure-void.md.
+- **Output**: obsidian/voids/self-opacity.md -- Context: Cross-review self-opacity.md considering erasure-void insights
 
 ### ✓ 2026-04-20: Cross-review inaccessible-past.md considering erasure-void insights
 - **Type**: cross-review
