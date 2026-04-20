@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 01:38:00+00:00
+ai_modified: 2026-04-20 08:46:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -2418,6 +2418,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic-2026-04-20 review. Berghofer's (2019, 2023) programme places phenomenology and perception on the same evidential footing: both are *originary presentive* intuitions. The cleanest contemporary argument that anyone who grants perceptual evidence must grant phenomenological evidence — removes a standard asymmetry objection to first-person methods. [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) currently gives it two sentences (lines 93-94). Full treatment would unpack the evidentialist framework, Berghofer's Husserl reading, and how the parity argument affects philosophy-of-mind debates. Target: topics/. Scope 1400-1800 words. Tenet alignment: Dualism (parity argument), Occam's Razor Has Limits (expands admissible evidence).
 - **Source**: optimistic-review
+- **Generated**: 2026-04-20
+
+### P2: Cross-review inaccessible-past.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) explicitly contrasts itself with [inaccessible-past](/voids/inaccessible-past/) in its second paragraph ("The [inaccessible-past](/voids/inaccessible-past/) void already covers the inability to re-enter past conscious states. The erasure void is deeper and stranger..."). The two voids are now adjacent in the Map's cartography but inaccessible-past.md does not yet link to erasure-void. Cross-review should (a) add the link back, (b) check whether any passages in inaccessible-past would benefit from the erasure-void distinction (metacognitive monitoring of what is lost vs re-entry of what is past), (c) identify any tensions between the two articles' treatments of structural loss, and (d) ensure terminology is consistent (both use "phenomenal trace," "inventory," "cognitive loss"). See voids/erasure-void.md and optimistic-2026-04-20.md.
+- **Source**: chain (from erasure-void.md)
+- **Generated**: 2026-04-20
+
+### P2: Cross-review self-opacity.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [self-opacity](/voids/self-opacity/) among its frontmatter concepts and develops an argument that self-monitoring depends on specific neural infrastructure that can be selectively destroyed (anosognosia discussion). This sharpens and narrows the self-opacity claim in a way that self-opacity.md should acknowledge. Cross-review should (a) add a link to erasure-void where the clinical-anosognosia material belongs, (b) check whether self-opacity's treatment of introspective limits can be strengthened by the erasure-void's three-step metacognitive architecture framing, (c) check for terminology consistency (erasure-void uses "monitoring system" and "metacognitive architecture"; self-opacity should align), (d) verify that self-opacity does not overclaim what erasure-void shows to be structurally blocked. See voids/erasure-void.md.
+- **Source**: chain (from erasure-void.md)
 - **Generated**: 2026-04-20
 
 ## Completed Tasks

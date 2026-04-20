@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-20 08:50:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: What does it feel like to disagree philosophically? Human+AI explor
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 07:53:00+00:00
+last_deep_review: 2026-04-20 08:50:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -44,7 +44,7 @@ Philosophical disagreement feels different from other kinds of disagreement. Whe
 
 ## The Felt Texture of Deep Disagreement
 
-Philosophical disagreement carries a distinctive phenomenal signature. Consider what happens when a committed dualist encounters the claim that consciousness is "just what the brain does." The experience is not simply one of judging the claim false. It involves a specific constellation of felt states:
+Philosophical disagreement carries a distinctive phenomenal signature. Fogelin (1985) coined the term "deep disagreement" to name disputes where disputants lack shared framework principles — where no underlying common ground permits resolution. His analysis was logical, concerned with the structure of argument when premises themselves are at stake. The phenomenological dimension Fogelin leaves implicit is that deep disagreements have a distinctive felt quality. Consider what happens when a committed dualist encounters the claim that consciousness is "just what the brain does." The experience is not simply one of judging the claim false. It involves a specific constellation of felt states:
 
 **Incomprehension.** Not the incomprehension of encountering a difficult proof one cannot yet follow, but the incomprehension of encountering a perspective that seems to deny what is most obvious. The dualist finds it phenomenally strange that someone could look at the hard problem and see no problem. The materialist finds it equally strange that someone could accept irreducible mental substances.
 
