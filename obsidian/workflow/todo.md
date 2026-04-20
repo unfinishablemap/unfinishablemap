@@ -2412,12 +2412,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review taxonomy-of-voids.md considering erasure-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) introduces a structurally distinct void — the impossibility of auditing cognitive completeness — that belongs in the apex taxonomy but is not yet listed there. Erasure-void itself includes [[voids]] and [[self-opacity]] in its related_articles but the apex taxonomy article has zero references to erasure-void. Cross-review should (a) locate erasure-void within the taxonomy's existing categorisation (likely adjacent to self-opacity, inaccessible-past, and the metacognitive-architecture cluster), (b) add erasure-void to the apex's running list of voids with a one-sentence gloss distinguishing it from neighbouring voids (inaccessible-past covers inability to re-enter past states; self-opacity covers limits on present-tense introspection; erasure-void covers structural blindness to what has been lost), (c) check whether the clinical anosognosia material in erasure-void strengthens the apex's claim that voids reveal architectural facts, (d) add inbound link to erasure-void where the "voids compound" or "voids reveal structure" themes are developed. See voids/erasure-void.md.
-- **Source**: chain (from erasure-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review voids.md (voids section index) considering erasure-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [[voids]] among its related_articles but the voids section index has no inbound link to erasure-void. The voids index is a primary navigation surface and needs to enumerate erasure-void alongside the other cartographic entries. Cross-review should (a) add erasure-void to the index's running catalogue with a short descriptive gloss, (b) place it in a sensible cluster (with the metacognitive/introspective voids — self-opacity, inaccessible-past, intrinsic-nature-void — rather than phenomenal absences), (c) check whether the index's introductory framing needs any update to accommodate "voids that erase their own evidence" as a structural category, (d) verify that terminology is consistent across the index and the new article (monitoring system, metacognitive architecture, selective destruction). See voids/erasure-void.md.
@@ -2432,6 +2426,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-20: Cross-review taxonomy-of-voids.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) introduces a structurally distinct void — the impossibility of auditing cognitive completeness — that belongs in the apex taxonomy but is not yet listed there. Erasure-void itself includes [[voids]] and [[self-opacity]] in its related_articles but the apex taxonomy article has zero references to erasure-void. Cross-review should (a) locate erasure-void within the taxonomy's existing categorisation (likely adjacent to self-opacity, inaccessible-past, and the metacognitive-architecture cluster), (b) add erasure-void to the apex's running list of voids with a one-sentence gloss distinguishing it from neighbouring voids (inaccessible-past covers inability to re-enter past states; self-opacity covers limits on present-tense introspection; erasure-void covers structural blindness to what has been lost), (c) check whether the clinical anosognosia material in erasure-void strengthens the apex's claim that voids reveal architectural facts, (d) add inbound link to erasure-void where the "voids compound" or "voids reveal structure" themes are developed. See voids/erasure-void.md.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review taxonomy-of-voids.md considering erasure-void insights
 
 ### ✓ 2026-04-20: Cross-review limits-reveal-structure.md considering erasure-void insights
 - **Type**: cross-review

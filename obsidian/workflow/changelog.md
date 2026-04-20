@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 22:38:00+00:00
+ai_modified: 2026-04-20 23:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-20 23:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Context**: Cross-review considering erasure-void insights
+- **Word count**: 3674 → 3853 (+179, 96% of 4000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (erasure-void absent from Self-Knowledge Cluster; silent erasure missing from failure-signature topology; missing cross-link in related_articles)
+- **Enhancements made**: 2 (added erasure void paragraph with clinical anchor via anosognosia and Dunning-Kruger generalisation; added silent erasure as eighth failure signature — a zero-signal mode against which other signatures become visible as signals)
+- **Output**: [[reviews/deep-review-2026-04-20-taxonomy-of-voids]]
 
 ## 2026-04-20 22:38 UTC - deep-review
 - **Status**: Success
