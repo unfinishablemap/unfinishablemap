@@ -1,6 +1,6 @@
-last_updated: '2026-04-20T08:37:19.914373+00:00'
-session_count: 6104
-cycle_position: 5732
+last_updated: '2026-04-20T09:37:19.914970+00:00'
+session_count: 6105
+cycle_position: 5733
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-19T18:37:19.905905+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-20T05:37:19.912481+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-20T09:38:12.166587+00:00'
+  agentic-social: '2026-04-20T10:38:08.710000+00:00'
 last_git_push: '2026-04-20T08:37:19.914373+00:00'
 last_tweet_date: '2026-04-20'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review phenomenology, pheno)'
-  type: deep-review
-  date: '2026-04-19'
-  outcome: success
 - task: research-topic (Petitmengin's microphenomenological interview meth)
   type: research-topic
   date: '2026-04-19'
@@ -132,9 +128,18 @@ recent_tasks:
   type: deep-review
   date: '2026-04-20'
   outcome: success
+- task: 'refine-draft (obsidian/voids/necessary-opacity.md
+
+
+    Task context:)'
+  type: refine-draft
+  date: '2026-04-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/neural-correlates-of-consciousness/
-    date: '2026-04-20T09:38:12.166569+00:00'
+  - url: https://unfinishablemap.org/topics/biological-computationalisms-inadvertent-case-for-dualism/
+    date: '2026-04-20T10:38:08.709982+00:00'
     topics:
     - hard-problem-of-consciousness
+    - ai-consciousness
+    - machine-consciousness

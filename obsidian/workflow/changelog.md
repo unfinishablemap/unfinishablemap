@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 09:38:00+00:00
+ai_modified: 2026-04-20 10:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-20 10:38 UTC - coalesce
+- **Status**: Abandoned (no good candidates)
+- **Sections examined**: voids/ (93% of cap — most pressured), concepts/ (90% of cap)
+- **Candidates investigated**: affective/mood/valence voids (explicitly differentiated as range/atmosphere/structure problems); cognitive closure cluster of 6 voids (biological, embodiment, formal, self-maintained, collective, closure-types — deliberately typological); limits-reveal-structure vs voids-as-evidence (latter already coalesced from two articles; each makes a distinct argument); ownership/involuntariness/agency-verification (different questions about mineness/control/causation); historical-consciousness vs inaccessible-past (intentionally separate temporal scales); plurality-void vs voids-between-minds (latter already coalesced from three articles); mapping-mind-space vs framework-void vs commensurability-void (distinct scopes — latter two cross-referenced as complementary); mental-causation cluster (bandwidth/content-specificity/conservation/cross-cultural/downward — each a distinct challenge, several already coalesced); memory types (five separate systems); AI consciousness articles (each uses a different organizing principle)
+- **Reason**: 7+ voids articles and multiple concepts articles are already marked `coalesced_from` in their frontmatter. The remaining articles occupy distinct territory by design and are explicitly cross-referenced as related-but-distinct. Forcing a merger would lose meaningful differentiation.
 
 ## 2026-04-20 09:38 UTC - refine-draft
 - **Status**: Success
