@@ -2,9 +2,9 @@
 title: "Free Will and Determinism"
 description: "Can we genuinely author our choices? The Map defends agent-causal libertarian free will grounded in phenomenology—the felt difference between choosing and merely observing."
 created: 2026-01-08
-modified: 2026-02-28
+modified: 2026-04-20
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-20T05:45:00+00:00
 last_deep_review: 2026-03-21T02:05:00+00:00
 draft: false
 topics:
@@ -30,17 +30,26 @@ concepts:
   - "[[counterfactual-reasoning]]"
   - "[[nihilism-and-existentialism]]"
   - "[[self-opacity|volitional opacity]]"
+  - "[[luck-objection]]"
+  - "[[reasons-responsiveness]]"
+  - "[[self-stultification]]"
+  - "[[control-theoretic-will]]"
+  - "[[spontaneous-intentional-action]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-cognitive-distinctiveness|consciousness and creative distinctiveness]]"
   - "[[dream-consciousness]]"
   - "[[motor-control-quantum-zeno]]"
   - "[[counterfactual-void]]"
+  - "[[authentic-vs-inauthentic-choice]]"
+  - "[[moral-implications-of-genuine-agency]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-08
 last_curated: null
+coalesced_from:
+  - "/concepts/concept-of-free-will/"
 ---
 
 Free will is the capacity to have done otherwise—to be the genuine author of one's choices rather than a puppet of prior causes. The Unfinishable Map defends a distinctive position: consciousness is an [[agent-causation|agent-causal]] power that genuinely influences physical outcomes. The core evidence is phenomenological—the felt difference between choosing and observing, the effort of deliberation, the distinctive neural signatures of willed action. These phenomena survive regardless of which physical mechanism enables consciousness-brain interaction.
@@ -96,9 +105,11 @@ The philosophical case for agent causation does not depend on any particular mec
 The Map's [[interactionist-dualism]] combined with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] yields this picture:
 
 1. The brain prepares multiple possible action patterns
-2. Consciousness—as an agent-causal power—selects which pattern becomes actual
+2. Consciousness—as an agent-causal power—selects which pattern becomes actual, operating as a [[control-theoretic-will|low-bandwidth control signal]] that gates, stabilises, and steers neural dynamics rather than computing outcomes from scratch
 3. This selection reflects genuine choice grounded in the agent's reasons and values
 4. The selection is "minimal"—working with what physics allows, not overriding it
+
+Selection need not always involve deliberation. [[spontaneous-intentional-action|Spontaneous intentional actions]]—reaching for a friend's hand, speaking a sentence that surprises you with its precision—are authored without prior planning. The agent-causal framework accommodates this naturally: consciousness selects among possibilities the brain presents, and sometimes selection is immediate and prereflective rather than effortful. What varies is the difficulty of selection, not its nature.
 
 ### The Temporal Problem
 
@@ -173,8 +184,11 @@ Free will stands at the intersection of all five [[tenets]]:
 
 ## Further Reading
 
-- [[concept-of-free-will|Free Will (concept overview)]] — The core concept: agent-causal libertarian free will grounded in phenomenology and quantum selection
 - [[agent-causation]] — Why the Map's framework is agent-causal, including substance causation
+- [[control-theoretic-will]] — Consciousness as low-bandwidth controller of neural dynamics
+- [[spontaneous-intentional-action]] — Authored action without deliberation
+- [[authentic-vs-inauthentic-choice]] — When choice engages genuine agency versus running on scripts
+- [[moral-implications-of-genuine-agency]] — What genuine agency implies for obligation, character, and moral life
 - [[quantum-indeterminacy-free-will]] — How quantum mechanics supports libertarian free will
 - [[mental-causation-and-downward-causation|mental causation]] — How the framework addresses Kim's exclusion argument
 - [[phenomenology-of-choice-and-volition]] — The four components of willing: initiation, sustained control, effort, and veto

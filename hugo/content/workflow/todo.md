@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review introspection.md considering microphenomenological-interview-method insights
-- **Type**: cross-review
-- **Notes**: New topic article topics/microphenomenological-interview-method.md (created 2026-04-19 via expand-topic from research/petitmengin-microphenomenological-interview-2026-04-19.md, subsequently deep-reviewed) treats Petitmengin's second-person method as a structured approach to accessing pre-reflective experience. concepts/introspection.md currently has zero references to microphenomenology or Petitmengin despite introspection being the canonical umbrella concept. Cross-review should (a) add microphenomenological interviewing as a method that partially addresses classical introspection-reliability objections (Lyons, Schwitzgebel), (b) distinguish what the method claims to access from what traditional introspection claims, (c) check whether introspection.md's scepticism is undercut or reframed by the method's evasion-identification and re-situation protocols, (d) add cross-link to microphenomenological-interview-method.md. Log findings even if no edits are made.
-- **Source**: chain (from topics/microphenomenological-interview-method.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review cognitive-phenomenology.md considering microphenomenological-interview-method insights
 - **Type**: cross-review
 - **Notes**: New topic article topics/microphenomenological-interview-method.md (created 2026-04-19) provides methodological infrastructure for accessing the fine-grained structure of thought-experience. concepts/cognitive-phenomenology.md currently has zero references to microphenomenology or Petitmengin, yet cognitive phenomenology is precisely the domain microphenomenological interviewing was designed to probe (Petitmengin's early work on insight-experience used the method to distinguish structural stages of thought). Cross-review should (a) identify where microphenomenological findings could strengthen the Phenomenal Constitution Thesis defence, (b) add cross-links to the new method article, (c) check whether claims about the accessibility or inaccessibility of cognitive phenomenology need revision in light of the method's demonstrated yields, (d) consider adding a methodology section if the article treats cognitive phenomenology only as a phenomenon without naming how it gets studied. Log findings even if no edits are made.
@@ -2441,6 +2435,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-04-20: Cross-review introspection.md considering microphenomenological-interview-method insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/microphenomenological-interview-method.md (created 2026-04-19 via expand-topic from research/petitmengin-microphenomenological-interview-2026-04-19.md, subsequently deep-reviewed) treats Petitmengin's second-person method as a structured approach to accessing pre-reflective experience. concepts/introspection.md currently has zero references to microphenomenology or Petitmengin despite introspection being the canonical umbrella concept. Cross-review should (a) add microphenomenological interviewing as a method that partially addresses classical introspection-reliability objections (Lyons, Schwitzgebel), (b) distinguish what the method claims to access from what traditional introspection claims, (c) check whether introspection.md's scepticism is undercut or reframed by the method's evasion-identification and re-situation protocols, (d) add cross-link to microphenomenological-interview-method.md. Log findings even if no edits are made.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering microphenomenological-interview-method insights
 
 ### ✓ 2026-04-20: Cross-review phenomenology-of-imagination.md considering mood-void insights
 - **Type**: cross-review

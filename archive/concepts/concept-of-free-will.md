@@ -2,11 +2,16 @@
 title: "Free Will"
 description: "Free will as the capacity for genuine authorship of choices. The Unfinishable Map defends agent-causal libertarianism grounded in phenomenology and quantum selection."
 created: 2026-02-20
-modified: 2026-02-20
+modified: 2026-04-20
 human_modified:
-ai_modified: 2026-03-25T01:40:00+00:00
+ai_modified: 2026-04-20T05:45:00+00:00
 last_deep_review: 2026-03-23T03:37:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-20T05:45:00+00:00
+superseded_by: "/topics/free-will/"
+archive_reason: "Coalesced into Free Will and Determinism (topics/free-will)—the concepts version was largely a subset that explicitly deferred to the topics article for the full treatment."
+original_path: "/concepts/concept-of-free-will/"
 topics:
   - "[[topics/free-will|Free Will and Determinism]]"
   - "[[personal-identity]]"
