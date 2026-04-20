@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-19T20:38:00+00:00
+ai_modified: 2026-04-20T00:44:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -2414,6 +2414,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Notes**: Suggested by optimistic-2026-04-17-afternoon review. The Map's [[apex/interface-specification-programme]] identifies six converging lines of inquiry, and [[apex/altered-states-as-interface-evidence]] contributes a seventh. A topic-level article would argue specifically that pharmacological dissociations constitute the highest-resolution probe of interface architecture currently available — receptor-level specificity allows component-level isolation that lesion studies cannot achieve. Walk through agent-by-agent dissociations (propofol/GABA-A, ketamine/NMDA, midazolam/benzodiazepine, ketamine's environment-decoupling, neuromuscular blockers) and identify the interface map that emerges. Grounds an otherwise abstract programme in well-characterised molecular evidence. Target section: topics/. Estimated 2500-3000 words. See optimistic-2026-04-17-afternoon.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-04-17
+
+### P3: Write concept article on the Acquaintance/Judgement Distinction
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-20 review. Currently distributed across [[phenomenal-acquaintance]] (lines 82-86), [[phenomenal-authority-and-first-person-evidence]], and [[phenomenological-method-and-evidence-standards]] (lines 82-87 mapping to Husserl's apodictic/assertoric taxonomy). A dedicated concept page would unify these passages and give downstream articles a single anchor. Key features: acquaintance is infallible *presentation*; judgement about what is presented is fallible; empirical error-clustering literature supports this structural partition. Target: concepts/. Scope 1800-2200 words. Tenet alignment: Dualism (secures the data on which dualist arguments rest), Occam's Razor Has Limits (explains why both Schwitzgebel's skepticism and first-person authority claims have partial support). Check concepts/ cap (~226/250) before generating.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-20
+
+### P3: Write topic article on Eidetic Variation
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-20 review. The Map repeatedly makes modal arguments (inverted qualia, zombies, knowledge argument) but never articulates the positive phenomenological method — eidetic variation — that yields claims about necessary structures. An article would convert these modal moves from philosophical-intuition claims into disciplined phenomenological operations. Sources: Husserl *Ideas I* §§67-72 on eidetic intuition; Mohanty on eidetic method; contemporary reconstructions (Moran, Sokolowski). Differentiate from Kripkean modal intuition and mere conceivability. Connect to the Map's use of zombie/inversion arguments. Target: topics/. Scope 2000-2500 words. Tenet alignment: Dualism, Occam's Razor Has Limits.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-20
+
+### P3: Write concept article on the Report-Content Gap
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-20 review. The heterophenomenologist's deflation — "everything phenomenology surfaces is verbal report, not access to phenomenal content" — is the load-bearing challenge to the Map's phenomenological-evidence cluster. [[microphenomenological-interview-method]] (line 88) explicitly flags this as the open question. A concept page focused on: (a) the precise formulation of the report/content gap, (b) channels of partial closure (inter-subject convergence, clinical actionability via prodromes, predictive validity), (c) the residual gap that no methodological improvement closes. Consolidates currently-scattered treatment. Target: concepts/. Scope 1800-2200 words. Tenet alignment: Dualism (pivot for physicalism vs dualism), Bidirectional Interaction (clinical actionability of first-person reports is evidence of causal efficacy). Check concepts/ cap before generating.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-20
+
+### P3: Expand Palmer's Partial-Inversion Argument into standalone treatment
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-20 review. [[inverted-qualia]] currently dispatches the Hardin/Palmer empirical exchange in two sentences (lines 69-71). A dedicated article would treat: what Palmer's 1999 BBS paper actually argues about the isomorphism constraint; what empirical literature has done since; what the result means for the distinction between modal and empirical versions of the inverted-qualia argument. Hardens the Map's handling of a thought experiment that currently relies on Hardin/Palmer as a briefly-mentioned exchange. Target: topics/ or concepts/. Scope 1200-1600 words.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-20
+
+### P3: Write topic article on Berghofer's mentalist evidentialism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-20 review. Berghofer's (2019, 2023) programme places phenomenology and perception on the same evidential footing: both are *originary presentive* intuitions. The cleanest contemporary argument that anyone who grants perceptual evidence must grant phenomenological evidence — removes a standard asymmetry objection to first-person methods. [[phenomenological-method-and-evidence-standards]] currently gives it two sentences (lines 93-94). Full treatment would unpack the evidentialist framework, Berghofer's Husserl reading, and how the parity argument affects philosophy-of-mind debates. Target: topics/. Scope 1400-1800 words. Tenet alignment: Dualism (parity argument), Occam's Razor Has Limits (expands admissible evidence).
+- **Source**: optimistic-review
+- **Generated**: 2026-04-20
 
 ## Completed Tasks
 
