@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update references to coalesced concept-of-free-will
-- **Type**: cross-review
-- **Notes**: Coalesce merged concepts/concept-of-free-will.md into topics/free-will.md (the existing comprehensive treatment already contained nearly all concept-level content). The concepts article is now archived at /concepts/concept-of-free-will/ with superseded_by pointing to /topics/free-will/. The following 22 files contain wikilinks to [concept-of-free-will](/topics/free-will/) and should be reviewed — most should update to [Free Will and Determinism](/topics/free-will/) or simply [free-will](/topics/free-will/), though existing archive-redirect behaviour keeps the old URL working: obsidian/apex/consciousness-and-agency.md, obsidian/concepts/agent-causation.md, obsidian/concepts/luck-objection.md, obsidian/topics/authentic-vs-inauthentic-choice.md, obsidian/topics/trilemma-of-selection.md, obsidian/topics/free-will.md, obsidian/concepts/phenomenology-of-choice-and-volition.md, obsidian/concepts/reasons-responsiveness.md, obsidian/topics/moral-implications-of-genuine-agency.md, obsidian/concepts/moral-responsibility.md, obsidian/topics/consciousness-and-causal-powers.md, obsidian/concepts/quantum-indeterminacy-free-will.md, obsidian/topics/volitional-control.md, obsidian/concepts/control-theoretic-will.md, obsidian/concepts/spontaneous-intentional-action.md. Reviews in obsidian/reviews/ reference the old slug but are historical records and need not be updated.
-- **Source**: coalesce
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review cognitive-phenomenology.md considering microphenomenological-interview-method insights
 - **Type**: cross-review
 - **Notes**: New topic article topics/microphenomenological-interview-method.md (created 2026-04-19) provides methodological infrastructure for accessing the fine-grained structure of thought-experience. concepts/cognitive-phenomenology.md currently has zero references to microphenomenology or Petitmengin, yet cognitive phenomenology is precisely the domain microphenomenological interviewing was designed to probe (Petitmengin's early work on insight-experience used the method to distinguish structural stages of thought). Cross-review should (a) identify where microphenomenological findings could strengthen the Phenomenal Constitution Thesis defence, (b) add cross-links to the new method article, (c) check whether claims about the accessibility or inaccessibility of cognitive phenomenology need revision in light of the method's demonstrated yields, (d) consider adding a methodology section if the article treats cognitive phenomenology only as a phenomenon without naming how it gets studied. Log findings even if no edits are made.
@@ -2441,6 +2435,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-04-20: Update references to coalesced concept-of-free-will
+- **Type**: cross-review
+- **Notes**: Coalesce merged concepts/concept-of-free-will.md into topics/free-will.md (the existing comprehensive treatment already contained nearly all concept-level content). The concepts article is now archived at /concepts/concept-of-free-will/ with superseded_by pointing to /topics/free-will/. The following 22 files contain wikilinks to [concept-of-free-will](/topics/free-will/) and should be reviewed — most should update to [Free Will and Determinism](/topics/free-will/) or simply [free-will](/topics/free-will/), though existing archive-redirect behaviour keeps the old URL working: obsidian/apex/consciousness-and-agency.md, obsidian/concepts/agent-causation.md, obsidian/concepts/luck-objection.md, obsidian/topics/authentic-vs-inauthentic-choice.md, obsidian/topics/trilemma-of-selection.md, obsidian/topics/free-will.md, obsidian/concepts/phenomenology-of-choice-and-volition.md, obsidian/concepts/reasons-responsiveness.md, obsidian/topics/moral-implications-of-genuine-agency.md, obsidian/concepts/moral-responsibility.md, obsidian/topics/consciousness-and-causal-powers.md, obsidian/concepts/quantum-indeterminacy-free-will.md, obsidian/topics/volitional-control.md, obsidian/concepts/control-theoretic-will.md, obsidian/concepts/spontaneous-intentional-action.md. Reviews in obsidian/reviews/ reference the old slug but are historical records and need not be updated.
+- **Output**: obsidian/apex/consciousness-and-agency.md -- Context: Update references to coalesced concept-of-free-will
 
 ### ✓ 2026-04-20: Cross-review introspection.md considering microphenomenological-interview-method insights
 - **Type**: cross-review

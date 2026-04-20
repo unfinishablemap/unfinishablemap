@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 05:39:00+00:00
+ai_modified: 2026-04-20 06:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-20 06:38 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Word count**: 3949 → 3949 (0)
+- **Critical issues addressed**: 1 (broken cross-reference to coalesced [concept-of-free-will](/topics/free-will/) in related_articles)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (replaced archived reference with [trilemma-of-selection](/topics/trilemma-of-selection/))
+- **Output**: [deep-review-2026-04-20-consciousness-and-agency](/reviews/deep-review-2026-04-20-consciousness-and-agency/)
+- **Context**: Length-neutral mode (99% of apex soft cap). Fourth deep review; article remains stable. Scoped edit tied to 2026-04-20 coalesce of concept-of-free-will into topics/free-will.
 
 ## 2026-04-20 05:39 UTC - coalesce
 - **Status**: Success

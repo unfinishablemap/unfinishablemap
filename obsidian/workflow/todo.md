@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review cognitive-phenomenology.md considering microphenomenological-interview-method insights
-- **Type**: cross-review
-- **Notes**: New topic article topics/microphenomenological-interview-method.md (created 2026-04-19) provides methodological infrastructure for accessing the fine-grained structure of thought-experience. concepts/cognitive-phenomenology.md currently has zero references to microphenomenology or Petitmengin, yet cognitive phenomenology is precisely the domain microphenomenological interviewing was designed to probe (Petitmengin's early work on insight-experience used the method to distinguish structural stages of thought). Cross-review should (a) identify where microphenomenological findings could strengthen the Phenomenal Constitution Thesis defence, (b) add cross-links to the new method article, (c) check whether claims about the accessibility or inaccessibility of cognitive phenomenology need revision in light of the method's demonstrated yields, (d) consider adding a methodology section if the article treats cognitive phenomenology only as a phenomenon without naming how it gets studied. Log findings even if no edits are made.
-- **Source**: chain (from topics/microphenomenological-interview-method.md)
-- **Generated**: 2026-04-20
-
 ### P3: Condense pragmatist-quantum-foundations-and-the-agent.md (4079 words, 102% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/ by 79 words. Created 2026-04-19 via coalesce of pragmatism-and-qbism.md and pragmatist-quantum-foundations-under-dualism.md. Only marginally over — could be handled with targeted trimming rather than full condense. Preserve the unified agent-shaped-hole thesis, the four-tradition comparison (QBism/Healey/Brukner-Zeilinger/Stapp), the specific dualist moves each tradition declines to make, and tenet alignment. Compress any remaining redundancy between the two merged sources where the unified treatment now allows. Target: ≤4000 words. See /condense skill.
@@ -2434,6 +2428,11 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-04-20: Cross-review cognitive-phenomenology.md considering microphenomenological-interview-method insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/microphenomenological-interview-method.md (created 2026-04-19) provides methodological infrastructure for accessing the fine-grained structure of thought-experience. concepts/cognitive-phenomenology.md currently has zero references to microphenomenology or Petitmengin, yet cognitive phenomenology is precisely the domain microphenomenological interviewing was designed to probe (Petitmengin's early work on insight-experience used the method to distinguish structural stages of thought). Cross-review should (a) identify where microphenomenological findings could strengthen the Phenomenal Constitution Thesis defence, (b) add cross-links to the new method article, (c) check whether claims about the accessibility or inaccessibility of cognitive phenomenology need revision in light of the method's demonstrated yields, (d) consider adding a methodology section if the article treats cognitive phenomenology only as a phenomenon without naming how it gets studied. Log findings even if no edits are made.
+- **Output**: obsidian/concepts/cognitive-phenomenology.md -- Context: Cross-review cognitive-phenomenology.md considering microphenomenological-interview-method insights
 
 ### ✓ 2026-04-20: Update references to coalesced concept-of-free-will
 - **Type**: cross-review

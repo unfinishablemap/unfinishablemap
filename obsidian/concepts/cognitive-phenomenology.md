@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-18T14:55:00+00:00
+ai_modified: 2026-04-20T07:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-28T12:28:00+00:00
+last_deep_review: 2026-04-20T07:39:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
 ---
@@ -85,11 +85,11 @@ Hearing the word "bank" and understanding it as a financial institution versus a
 
 ### Sudden Insight
 
-"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. The [[phenomenology-of-creative-insight|phenomenology of creative insight]] reveals this: scientists report experimental confirmation carrying a distinctive felt quality of *mediated contact*—certainty arrived at through instruments, yet experienced as genuine encounter. [[consciousness-and-mathematics|Mathematical insight]] provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [[comparative-phenomenology-of-mathematical-insight|cross-cultural phenomenology of mathematical insight]] strengthens this evidence: different mathematical traditions report qualitatively distinct experiential structures for the same mathematical content, suggesting phenomenal character that cannot be read off from formal content alone. The [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] and [[phenomenology-of-intellectual-life|intellectual effort]] examine the broader epistemic process—the gravitational pull of evidence, the strain of holding premises together—situating insight within the full arc of phenomenal cognition.
+"Aha" moments have phenomenal character that precedes any accompanying imagery or emotional response. The [[phenomenology-of-creative-insight|phenomenology of creative insight]] reveals this: scientists report experimental confirmation carrying a distinctive felt quality of *mediated contact*—certainty arrived at through instruments, yet experienced as genuine encounter. [[consciousness-and-mathematics|Mathematical insight]] provides the paradigm case: mathematicians report solutions arriving fully formed, with phenomenal character distinctly different from mechanical verification. The [[comparative-phenomenology-of-mathematical-insight|cross-cultural phenomenology of mathematical insight]] strengthens this evidence: different mathematical traditions report qualitatively distinct experiential structures for the same mathematical content, suggesting phenomenal character that cannot be read off from formal content alone. The [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] situates insight within the broader arc—the gravitational pull of evidence, the strain of holding premises together.
 
 ### The Temporal Structure of Understanding
 
-[[temporal-structure-of-understanding|Understanding's temporal phenomenology]] cannot reduce to sensory accompaniments. The "click" when comprehension arrives, the gradual accumulation during complex parsing, the illumination after incubation—these are phenomenal yet not sensory. The click's suddenness suggests qualitative shift rather than mere information accumulation. See [[temporal-structure-of-understanding]] for detailed analysis.
+[[temporal-structure-of-understanding|Understanding's temporal phenomenology]] cannot reduce to sensory accompaniments. The "click" when comprehension arrives, the gradual accumulation during complex parsing, the illumination after incubation—these are phenomenal yet not sensory. The click's suddenness suggests qualitative shift rather than mere information accumulation.
 
 ### Expert Perception
 
@@ -232,7 +232,7 @@ The [[consciousness-as-amplifier|amplification hypothesis]] provides empirical s
 
 ## Evidence from Unusual Cases
 
-People with **aphantasia** (inability to form mental images) still think, understand, and have insights—their cognitive phenomenology cannot reduce to visual imagery. Some people report vivid inner speech while others report "thinking in concepts" without verbal accompaniment, suggesting cognitive phenomenology manifests differently across individuals. Additionally, introspective reliability improves with training: expert meditators may access cognitive phenomenology that untrained observers miss.
+People with **aphantasia** (inability to form mental images) still think, understand, and have insights—their cognitive phenomenology cannot reduce to visual imagery. Some people report vivid inner speech while others report "thinking in concepts" without verbal accompaniment, suggesting cognitive phenomenology manifests differently across individuals. Additionally, introspective reliability improves with training: expert meditators and subjects guided by the [[microphenomenological-interview-method|microphenomenological interview]] access pre-reflective cognitive content that casual introspection overlooks, narrowing the variation that fuels the unreliability objection.
 
 ## The Illusionist Challenge
 
