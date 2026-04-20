@@ -4,7 +4,7 @@ description: "Imagination's distinctive phenomenal character—voluntary, quasi-
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-17T13:42:00+00:00
+ai_modified: 2026-04-20T02:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-04-17T13:42:00+00:00
+last_deep_review: 2026-04-20T02:38:00+00:00
 ---
 
 Imagination occupies a unique phenomenal territory—borrowing from perception, memory, and thought while remaining distinct from each. When you imagine a purple elephant standing in your kitchen, the experience has a specific character: quasi-perceptual vividness without sensory conviction, voluntary directedness without guaranteed compliance, and a felt awareness that the content is self-generated rather than world-given. The Unfinishable Map holds that this distinctive phenomenal profile resists materialist reduction. Imagination reveals consciousness as an active structuring force—assembling novel experiential wholes from components that need never have co-occurred in perception—rather than a passive replay mechanism running on neural hardware.
@@ -85,6 +85,8 @@ Walton (1990) argued that fiction-directed emotions are *quasi-emotions*—make-
 
 This illuminates the relationship between [[phenomenal-consciousness]] and [[intentionality]]. Consciousness operates on self-generated scenarios with the same seriousness it brings to perceived reality. For the dualist, this suggests that phenomenal consciousness is an independent source of experiential reality—not merely a readout of sensory transduction. The mind generates phenomenal states complete with emotional valence, bodily response, and motivational force, without external prompting. Imagination demonstrates that consciousness is generative, not merely receptive.
 
+The affective side of this generativity has its own opacity. Imagined scenarios shift mood, and current mood in turn shapes which scenarios arise and how vivid they feel—mood-congruent retrieval and imagination are well-documented. Yet the [[mood-void|mood]] in which this exchange takes place is not itself a clean object of introspection: its origins, identity, and formative influence on cognition operate largely below the phenomenal surface. Consciousness thus generates imagined content *within* an affective medium it cannot directly witness, and the imagined content reshapes that medium in ways only indirectly tracked.
+
 ## Imaginative Resistance and Its Limits
 
 Not everything can be imagined with equal ease. Philosophers have noted *imaginative resistance*—difficulty imagining certain propositions as true even in fictional contexts. People readily imagine physically impossible scenarios (flying unaided) but resist imagining morally inverted worlds (where cruelty is virtuous). Logical contradictions prove harder still: try to vividly imagine a round square.
@@ -121,6 +123,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 - [[phenomenology-of-moral-life]] — Moral imagination and the felt quality of ethical perception
 - [[imagination-and-creativity-void]] — The opacity of consciousness's generative processes
 - [[thought-stream-void]] — The parallel opacity of spontaneous thought's arrival and departure
+- [[mood-void]] — The affective medium within which imagination unfolds, itself opaque to introspection
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Spatial imagination as a dual-domain capability: the aphantasia dissociation as evidence for separable physical and phenomenal contributions
 
 ## References

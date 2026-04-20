@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review emotion-and-dualism.md considering mood-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/mood-void.md (created 2026-04-19 via expand-topic, then refined from pessimistic review) is the Map's first dedicated treatment of mood as background-field rather than object-directed emotion. topics/emotion-and-dualism.md is the canonical predecessor and may require updates to (a) distinguish mood from emotion in ways that were previously implicit, (b) cross-link to mood-void where the article's emotion-for-dualism argument would be strengthened or complicated by the mood-specific analysis, (c) check terminology consistency between the two articles, (d) identify whether any claims in emotion-and-dualism.md are undercut or supported by the mood-void treatment. Check also that the disappearance-voids coalesced article (which houses mood-adjacent phenomena) is not left dangling. Log findings even if no edits are made.
-- **Source**: chain (from voids/mood-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review phenomenology-of-imagination.md considering mood-void insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/mood-void.md (created 2026-04-19) treats mood as a pre-objective background-field shaping what can be imagined or entertained. topics/phenomenology-of-imagination.md was flagged as a candidate for mood-void linkage by the grep over mood-referencing files. Check whether (a) mood-as-backdrop belongs in the imagination article's treatment of affective colouring, (b) Heideggerian Stimmung / thrownness connections are consistent across the two articles, (c) cross-links to [mood-void](/voids/mood-void/) would tighten the argument that imagination operates within a mood-horizon it cannot fully disclose. Log findings even if no edits are made.
@@ -2452,6 +2446,12 @@ Tasks that failed 3+ times and require human intervention.
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
+
+
+### ✓ 2026-04-20: Write voids article on the Erasure Void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-erasure-void-2026-03-20.md (2026-03-20) and never synthesised into an article. Distinct from the inaccessible-past void (covers forgetting specific memories): the erasure void is about the deeper structural impossibility of auditing one's own cognitive completeness — consciousness cannot inventory its own deletions. Clinical anosognosia provides the starkest demonstration (Gertler; the 2024 TiCS review of visual metacognition failures identifying the three-step monitoring architecture; Alzheimer's three-form taxonomy — executive/mnemonic/primary), but the principle operates universally. Key sources in research note: Gertler on anosognosia and unity of consciousness, the TiCS 2024 visual-metacognition review, Alzheimer's metacognitive-error studies, the "unknown unknowns" / hypocognition material, and the SEP entry on epistemological problems of memory. Tenet alignment: Dualism (selective disruption of the monitoring interface is predicted by mind-brain distinctness but puzzling under identity theory), Bidirectional Interaction (self-monitoring has an architecture, not a brute given), Occam's Razor Has Limits (confabulation constructs the illusion of completeness). Category: Occluded/Unexplorable (mixed). Target section: voids/ (~93/100 — has capacity). Scope: 2200-2700 words. Cross-link candidates: [transparency-void](/voids/necessary-opacity/), [inaccessible-past-void](/inaccessible-past-void/), [self-opacity](/voids/self-opacity/), [self-transcendence-void](/voids/self-transcendence-void/), [observation-void](/voids/observation-and-measurement-void/). Preserve distinction from inaccessible-past: this void is not about what has been forgotten but about the invisibility of the loss itself.
+- **Output**: Write voids article on the Erasure Void
 
 ### ✓ 2026-03-17: Research Russellian monism as competitor to bi-aspectual dualism
 - **Type**: research-topic
