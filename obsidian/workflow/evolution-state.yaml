@@ -1,6 +1,6 @@
-last_updated: '2026-04-20T16:37:19.918530+00:00'
-session_count: 6112
-cycle_position: 5740
+last_updated: '2026-04-20T17:37:19.918863+00:00'
+session_count: 6113
+cycle_position: 5741
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-19T18:37:19.905905+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-20T10:37:19.915559+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-20T17:38:47.436913+00:00'
+  agentic-social: '2026-04-20T18:38:01.508079+00:00'
 last_git_push: '2026-04-20T16:37:19.918530+00:00'
 last_tweet_date: '2026-04-20'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-19'
-  outcome: success
 - task: deep-review (obsidian/voids/emotional-epistemology-void.md -- C)
   type: deep-review
   date: '2026-04-19'
@@ -130,26 +126,17 @@ recent_tasks:
   type: deep-review
   date: '2026-04-20'
   outcome: success
+- task: deep-review (obsidian/topics/phenomenological-method-and-eviden)
+  type: deep-review
+  date: '2026-04-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/theory-of-mind/
-    date: '2026-04-20T17:38:47.436880+00:00'
+  - url: https://unfinishablemap.org/concepts/degrees-of-consciousness/
+    date: '2026-04-20T18:38:01.508049+00:00'
     topics:
+    - hard-problem-of-consciousness
+    - consciousness-in-simple-organisms
     - animal-consciousness
-    - ai-consciousness
-    - topics/consciousness-and-social-understanding
-    - topics/free-will
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 394
-  needs_replenishment: false
-  last_replenishment: '2026-04-20T17:38:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+    - anaesthesia-and-the-consciousness-interface
+    - consciousness-disruption-and-the-mind-brain-interface

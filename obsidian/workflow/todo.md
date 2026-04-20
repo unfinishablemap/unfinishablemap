@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20T17:38:00+00:00
+ai_modified: 2026-04-20T18:38:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address style-violations and load-bearing inferences in phenomenological-method-and-evidence-standards.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-20 found six addressable issues. (1) HIGH — At least nine "not X but Y" constructs (banned by writing-style.md), including in the lede ("not parsimony but methodological prejudice"); rewrite each as a positive claim. (2) HIGH — Non sequitur in Bidirectional Interaction paragraph (line 116): apodictic certainty about *existence* of experience does not threaten epiphenomenalism (which denies *causal role*, not existence); either drop the move or develop the missing premise about reliability requiring causal contact. (3) MEDIUM — Cross-tradition convergence claim (line 104) ignores Madhyamaka/Vedanta/theistic divergence and the Katz/Sharf contextualist critique; cite Forman/Stace and engage critics, or narrow the claim. (4) MEDIUM — Replicability claim (line 66) lacks empirical citations; cite Lutz/Petitmengin inter-rater work or weaken to aspirational. (5) LOW-MEDIUM — Apodictic-cogito move at line 47 doesn't acknowledge Lichtenberg's "thinking is occurring" objection; reframe to minimal-self reading. (6) MEDIUM — "Category error" claim at line 70 presupposes consciousness is mind-dependent, which is the disputed question; reframe as conditional. Also add a third horn (agnosticism) to the heterophenomenology dilemma at line 82. See [[reviews/pessimistic-2026-04-20]].
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-20
 
 ### P3: Condense pragmatist-quantum-foundations-and-the-agent.md (4079 words, 102% of hard threshold)
 - **Type**: condense
