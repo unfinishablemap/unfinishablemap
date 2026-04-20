@@ -146,7 +146,7 @@ archived: true
 - **Target**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
 - **Archived**: [[archive/topics/pragmatism-and-qbism]], [[archive/topics/pragmatist-quantum-foundations-under-dualism]]
 - **Rationale**: Both articles covered the same ground — QBism's pragmatist genealogy, Healey's de-psychologised agency, the normative Born rule under dualism — with extensive cross-references and overlapping reference lists. The narrower QBism-focused piece was already mostly subsumed by the family-level treatment. Coalesced into a single article that keeps Stapp/QBism/Healey/Brukner-Zeilinger family structure while preserving the detailed Jamesian genealogy and SIC-POVM / urgleichung analysis from the narrower source.
-- **References to review**: 7 active content files use `[[wikilinks]]` to the archived slugs (wheelers-participatory-universe, quantum-measurement-and-consciousness, qm-interpretations-beyond-many-worlds, pragmatisms-path-to-dualism, born-rule-and-the-consciousness-interface, concepts/mind-matter-interface, concepts/qbism). Follow-up task added to workflow/todo.md.
+- **References to review**: 7 active content files use wikilink references to the archived slugs (wheelers-participatory-universe, quantum-measurement-and-consciousness, qm-interpretations-beyond-many-worlds, pragmatisms-path-to-dualism, born-rule-and-the-consciousness-interface, concepts/mind-matter-interface, concepts/qbism). Follow-up task added to workflow/todo.md.
 
 ---
 
