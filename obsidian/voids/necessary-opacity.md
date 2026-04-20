@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-01-27
 modified: 2026-04-01
 human_modified: null
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-20T09:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[mutation-void]]"
   - "[[narrative-void]]"
-  - "[[initiation-void]]"
+  - "[[transit-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -124,7 +124,7 @@ The necessary opacity occupies distinctive territory among the Map's [[voids]]:
 - The [[intrinsic-nature-void]] asks what matter is in itself—a question about the world's hidden nature
 - [[Self-opacity]] asks whether consciousness can map itself—a question about reflexivity
 - The [[mutation-void]] concerns cases where attending to content *transforms* that content
-- The [[initiation-void]] asks why consciousness cannot witness its own mental acts beginning—a specific instance where opacity is structurally required, since observing the onset of an act would require consciousness to precede itself
+- The [[transit-void]] asks why consciousness cannot witness its own crossings—the onset of mental acts or transitions between states—a specific instance where opacity is structurally required, since observing the crossing would require the observing stance to coexist with the crossing stance
 
 The necessary opacity asks something different: whether the *medium* of all mapping introduces systematic distortion, and whether exposing that distortion would break the system. [[Self-opacity|Introspective opacity]] means we cannot see the machinery; the necessary opacity means we cannot determine whether the machinery's output tracks reality, *and* that this ignorance may be required for the machinery to function at all.
 
@@ -196,7 +196,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[whether-real]] — Whether cognitive limits are permanent or merely current
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
 - [[observation-and-measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards
-- [[initiation-void|The Initiation Void]] — Why consciousness cannot witness its own mental acts beginning
+- [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings, including the onset of mental acts
 - [[non-human-minds-as-void-explorers]] — AI and alien minds as potential void-explorers
 - [[voids-between-minds|The Intersubjective Void]] — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 

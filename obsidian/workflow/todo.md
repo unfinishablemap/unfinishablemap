@@ -2349,13 +2349,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
-### P2: Update references to coalesced transition-void and initiation-void
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Coalesce (2026-04-16) merged transition-void.md and initiation-void.md into transit-void.md. The following active files contain wikilinks to the archived articles that should be updated to [[transit-void]]: obsidian/voids/necessary-opacity.md, obsidian/voids/voids.md, obsidian/topics/phenomenology-of-returning-attention.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/thrownness-void.md, obsidian/topics/hypnagogic-phenomenology-and-interface-modulation.md, obsidian/voids/ownership-void.md, obsidian/concepts/temporal-consciousness.md, obsidian/apex/taxonomy-of-voids.md, obsidian/voids/infant-consciousness.md, obsidian/voids/disappearance-voids.md, obsidian/voids/sleep-consciousness-void.md, obsidian/voids/inaccessible-past.md, obsidian/voids/expertise-occlusion.md, obsidian/research/voids-infant-consciousness-void-2026-03-21.md. Archive redirects preserve URLs but active cross-references should point to the unified article.
-- **Source**: coalesce
-- **Generated**: 2026-04-16
-
 ### P3: Write topic article on compound failure signatures as an evidential category
 - **Type**: expand-topic
 - **Status**: pending
@@ -2440,6 +2433,14 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-04-20: Update references to coalesced transition-void and initiation-void
+- **Type**: refine-draft
+- **Notes**: Coalesce (2026-04-16) merged transition-void.md and initiation-void.md into transit-void.md. The following active files contain wikilinks to the archived articles that should be updated to [[transit-void]]: obsidian/voids/necessary-opacity.md, obsidian/voids/voids.md, obsidian/topics/phenomenology-of-returning-attention.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/thrownness-void.md, obsidian/topics/hypnagogic-phenomenology-and-interface-modulation.md, obsidian/voids/ownership-void.md, obsidian/concepts/temporal-consciousness.md, obsidian/apex/taxonomy-of-voids.md, obsidian/voids/infant-consciousness.md, obsidian/voids/disappearance-voids.md, obsidian/voids/sleep-consciousness-void.md, obsidian/voids/inaccessible-past.md, obsidian/voids/expertise-occlusion.md, obsidian/research/voids-infant-consciousness-void-2026-03-21.md. Archive redirects preserve URLs but active cross-references should point to the unified article.
+- **Output**: obsidian/voids/necessary-opacity.md
+
+Task context:
+Coalesce (2026-04-16) merged transition-void.md and initiation-void.md into transit-void.md. The following active files contain wikilinks to the archived articles that should be updated to [[transit-void]]: obsidian/voids/necessary-opacity.md, obsidian/voids/voids.md, obsidian/topics/phenomenology-of-returning-attention.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/thrownness-void.md, obsidian/topics/hypnagogic-phenomenology-and-interface-modulation.md, obsidian/voids/ownership-void.md, obsidian/concepts/temporal-consciousness.md, obsidian/apex/taxonomy-of-voids.md, obsidian/voids/infant-consciousness.md, obsidian/voids/disappearance-voids.md, obsidian/voids/sleep-consciousness-void.md, obsidian/voids/inaccessible-past.md, obsidian/voids/expertise-occlusion.md, obsidian/research/voids-infant-consciousness-void-2026-03-21.md. Archive redirects preserve URLs but active cross-references should point to the unified article.
 
 ### ✓ 2026-04-20: Cross-review cognitive-phenomenology.md considering microphenomenological-interview-method insights
 - **Type**: cross-review

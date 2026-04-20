@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 08:50:00+00:00
+ai_modified: 2026-04-20 09:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-20 09:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/necessary-opacity]]
+- **Changes**: Updated wikilinks from archived [[initiation-void]] to unified [[transit-void]] in related_articles, "Distinguishing This Void" section, and "Further Reading" list; broadened accompanying descriptions to reflect transit-void's combined scope (onset + transitions)
+- **Published**: yes
 
 ## 2026-04-20 08:50 UTC - deep-review
 - **Status**: Success
