@@ -4,7 +4,7 @@ description: "If value requires consciousness, what grounds environmental obliga
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-20T15:38:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -15,7 +15,6 @@ concepts:
   - "[[topics/phenomenal-value-realism|phenomenal value realism]]"
   - "[[qualia]]"
   - "[[valence]]"
-  - "[[evaluative-phenomenal-character]]"
 related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
@@ -24,14 +23,13 @@ related_articles:
   - "[[pain-consciousness-and-causal-power]]"
   - "[[free-will]]"
   - "[[mental-causation-and-downward-causation]]"
-  - "[[evaluative-phenomenal-character]]"
   - "[[topics/evaluative-qualia-phenomenal-normativity-across-traditions]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-21
 last_curated:
-last_deep_review: 2026-03-19T14:58:00+00:00
+last_deep_review: 2026-04-20T15:38:00+00:00
 ---
 
 If intrinsic value exists only in conscious experience—if pain's badness and pleasure's goodness are built into what those experiences feel like—then environmental ethics cannot ground obligations in ecosystems, species, or landscapes themselves. The Unfinishable Map's [[evaluative-phenomenal-character|phenomenal normativity]] demands that moral weight tracks consciousness, not ecological wholes. Yet this position does not license environmental indifference. It reconfigures environmental ethics around the conscious beings who inhabit, depend on, and appreciate the natural world—yielding obligations that are often more demanding than those of traditional environmentalism.
@@ -136,18 +134,16 @@ The Map's tenets shape environmental ethics distinctively:
 
 ## Further Reading
 
-- [[evaluative-phenomenal-character|phenomenal normativity]] — The view that experience carries intrinsic normative force
+- [[evaluative-phenomenal-character|phenomenal normativity / evaluative qualia]] — The view that experience carries intrinsic normative force; also the locus of moral phenomenology and direct moral perception
 - [[consciousness-value-connection]] — Why value requires consciousness
 - [[ethics-of-consciousness]] — Moral implications of consciousness across beings
 - [[animal-consciousness]] — Evidence for and scope of animal experience
 - [[topics/phenomenal-value-realism]] — The metaethical foundation
 - [[aesthetics-and-consciousness]] — Aesthetic normativity beyond hedonic valence
 - [[consciousness-and-normative-force]] — How normative demands present in experience across four domains
-- [[evaluative-phenomenal-character|Moral Phenomenology and Perception]] — Direct apprehension of moral properties
 - [[pain-consciousness-and-causal-power]] — Why pain's awfulness is constitutive, not correlative
 - [[free-will]] — Genuine moral agency and environmental responsibility
 - [[meaning-of-life]] — How consciousness grounds meaning and value
-- [[evaluative-phenomenal-character|evaluative qualia]] — Phenomenal experiences carrying intrinsic evaluative character
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-cultural convergence on evaluative qualia from Buddhist, Confucian, Indian, Islamic, and Western sources
 
 ## References
@@ -160,14 +156,3 @@ The Map's tenets shape environmental ethics distinctively:
 1. Cambridge Declaration on Consciousness. (2012). Francis Crick Memorial Conference.
 1. New York Declaration on Animal Consciousness. (2024). NYU Conference.
 1. Rolston, H. (1988). *Environmental Ethics: Duties to and Values in the Natural World*. Temple University Press.
-
-<!-- AI REFINEMENT LOG - 2026-04-02
-Changes made:
-- Rewrote the response to deep ecology's "Western narrowness" objection: now cites cross-cultural convergence (Buddhist vedanā, Confucian qíng/liángzhī, Indian rasa, Islamic philosophy) as evidence that consciousness-centred value theory is not Western-parochial
-- Strengthened the aesthetic dimension opening with rasa theory connection (Abhinavagupta)
-- Added evaluative-qualia and evaluative-qualia-phenomenal-normativity-across-traditions to related_articles and Further Reading
-
-Key improvement: The article now turns the deep ecology "Western narrowness" charge on its head by showing that the world's major traditions converge on locating value in phenomenal experience rather than in unexperienced nature.
-
-This log should be removed after human review.
--->
