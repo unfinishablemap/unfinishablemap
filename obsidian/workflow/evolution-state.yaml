@@ -1,6 +1,6 @@
-last_updated: '2026-04-20T11:37:19.916053+00:00'
-session_count: 6107
-cycle_position: 5735
+last_updated: '2026-04-20T12:37:19.916422+00:00'
+session_count: 6108
+cycle_position: 5736
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-19T18:37:19.905905+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-20T10:37:19.915559+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-20T12:38:08.620025+00:00'
-last_git_push: '2026-04-20T08:37:19.914373+00:00'
+  agentic-social: '2026-04-20T13:38:37.041442+00:00'
+last_git_push: '2026-04-20T12:37:19.916422+00:00'
 last_tweet_date: '2026-04-20'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Petitmengin's microphenomenological interview meth)
-  type: expand-topic
-  date: '2026-04-19'
-  outcome: success
 - task: expand-topic (the Mood Void)
   type: expand-topic
   date: '2026-04-19'
@@ -135,10 +131,15 @@ recent_tasks:
   type: deep-review
   date: '2026-04-20'
   outcome: success
+- task: 'deep-review (obsidian/voids/self-opacity.md -- Context: Cross-r)'
+  type: deep-review
+  date: '2026-04-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
-    date: '2026-04-20T12:38:08.620010+00:00'
+  - url: https://unfinishablemap.org/topics/the-interface-location-problem/
+    date: '2026-04-20T13:38:37.041423+00:00'
     topics:
-    - animal-consciousness
     - hard-problem-of-consciousness
+    - free-will
+    - attention-and-the-consciousness-interface
