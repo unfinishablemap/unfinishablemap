@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-04-18T09:05:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -29,7 +29,6 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[luck-objection-libertarian-free-will-2026-01-17]]"
-  - "[[concept-of-free-will]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -38,7 +37,7 @@ last_curated: null
 last_deep_review: 2026-04-15T21:36:00+00:00
 ---
 
-The luck objection is the most persistent challenge to libertarian [[concept-of-free-will|free will]]. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
+The luck objection is the most persistent challenge to libertarian [[topics/free-will|free will]]. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
 
 The Unfinishable Map's framework provides a distinctive response: consciousness *selects* quantum outcomes rather than merely receiving them. This transforms the relationship to indeterminacy from passive luck to active choice.
 

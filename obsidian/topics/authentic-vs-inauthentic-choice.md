@@ -4,13 +4,12 @@ description: "Authentic choice feels like genuine self-expression; inauthentic c
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-04-18T07:49:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
   - "[[meaning-of-life]]"
 concepts:
-  - "[[concept-of-free-will]]"
   - "[[nihilism-and-existentialism]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[agent-causation]]"

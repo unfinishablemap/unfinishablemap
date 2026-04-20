@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-04-18T09:05:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -38,7 +38,6 @@ related_articles:
   - "[[agent-causation-libertarian-free-will-2026-01-14]]"
   - "[[voluntary-attention-control-mechanisms-2026-01-17]]"
   - "[[motor-control-quantum-zeno-2026-01-18]]"
-  - "[[concept-of-free-will]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[consciousness-value-connection]]"
 ai_contribution: 100

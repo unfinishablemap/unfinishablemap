@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 19:38:00+00:00
+ai_modified: 2026-04-20 20:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-20 20:38 UTC - refine-draft
+- **Status**: Success
+- **Files**: 13 edited — [[concepts/agent-causation]], [[concepts/control-theoretic-will]], [[concepts/luck-objection]], [[concepts/moral-responsibility]], [[concepts/phenomenology-of-choice-and-volition]], [[concepts/quantum-indeterminacy-free-will]], [[concepts/reasons-responsiveness]], [[concepts/spontaneous-intentional-action]], [[topics/authentic-vs-inauthentic-choice]], [[topics/consciousness-and-causal-powers]], [[topics/moral-implications-of-genuine-agency]], [[topics/trilemma-of-selection]], [[topics/volitional-control]]
+- **Task**: Update `[[concept-of-free-will]]` wikilinks across files after 2026-04-20 coalesce (commit 2c870a9ce) merged the concept into [[topics/free-will]]
+- **Changes**: Removed 12 frontmatter entries that would have become duplicates (topics/free-will already present in each file's `topics` list); replaced 5 body wikilinks with `[[topics/free-will|free will]]` or `[[topics/free-will]]` (in luck-objection lede, reasons-responsiveness luck-objection paragraph, phenomenology-of-choice-and-volition opening and removed duplicate Further Reading entry, spontaneous-intentional-action lede, volitional-control Mele paragraph, control-theoretic-will Further Reading). topics/free-will.md required no edit (only reference was the legitimate `coalesced_from` metadata).
+- **Published**: yes
 
 ## 2026-04-20 19:38 UTC - refine-draft
 - **Status**: Success

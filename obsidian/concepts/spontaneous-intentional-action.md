@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -28,7 +28,6 @@ related_articles:
   - "[[consciousness-and-agency]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[libet-experiments]]"
-  - "[[concept-of-free-will]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[the-observer-witness-in-meditation]]"
@@ -41,7 +40,7 @@ last_curated:
 last_deep_review: 2026-03-21T02:27:00+00:00
 ---
 
-Some of the most revealing exercises of agency arrive without deliberation. You reach for a friend's hand without planning to. You speak a sentence that surprises you with its precision. You stop walking to watch a hawk, having never decided to stop. These are spontaneous intentional actions: goal-directed, owned, and meaningful, yet initiated without prior deliberation or conscious planning. They occupy a philosophically rich middle ground between the two categories that dominate discussions of agency—effortful deliberate choice and automatic habitual behaviour—and their existence challenges accounts that reduce [[concept-of-free-will|free will]] to either.
+Some of the most revealing exercises of agency arrive without deliberation. You reach for a friend's hand without planning to. You speak a sentence that surprises you with its precision. You stop walking to watch a hawk, having never decided to stop. These are spontaneous intentional actions: goal-directed, owned, and meaningful, yet initiated without prior deliberation or conscious planning. They occupy a philosophically rich middle ground between the two categories that dominate discussions of agency—effortful deliberate choice and automatic habitual behaviour—and their existence challenges accounts that reduce [[topics/free-will|free will]] to either.
 
 The Unfinishable Map's framework of [[agent-causation|agent causation]] through [[tenets#^minimal-quantum-interaction|minimal quantum interaction]] accommodates spontaneous intentional action more naturally than competing accounts. If consciousness selects among possibilities the brain presents, that selection need not always involve laborious deliberation. Sometimes selection is immediate, fluid, and prereflective—yet still genuinely authored.
 

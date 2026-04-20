@@ -4,7 +4,7 @@ description: "How agent causation grounds genuine moral desert. Agents originate
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -23,7 +23,6 @@ concepts:
   - "[[buddhism-and-dualism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[concept-of-free-will]]"
   - "[[phenomenology-of-moral-life]]"
 ai_contribution: 100
 author: null

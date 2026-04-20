@@ -4,7 +4,7 @@ description: "How quantum mechanics creates logical space for libertarian free w
 created: 2026-01-19
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-06T10:58:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -29,7 +29,6 @@ related_articles:
   - "[[tenets]]"
   - "[[quantum-mechanics-free-will-2026-01-16]]"
   - "[[concepts/many-worlds]]"
-  - "[[concept-of-free-will]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101

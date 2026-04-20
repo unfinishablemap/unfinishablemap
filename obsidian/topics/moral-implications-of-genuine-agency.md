@@ -4,7 +4,7 @@ description: "If consciousness genuinely causes actions, morality transforms fro
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -12,7 +12,6 @@ topics:
   - "[[phenomenology-of-moral-life]]"
   - "[[consciousness-and-moral-agency-under-duress]]"
 concepts:
-  - "[[concept-of-free-will]]"
   - "[[agent-causation]]"
   - "[[moral-responsibility]]"
   - "[[mental-causation-and-downward-causation]]"

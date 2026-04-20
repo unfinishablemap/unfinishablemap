@@ -3,7 +3,7 @@ title: "Volitional Control"
 created: 2026-03-20
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-02T21:38:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 draft: false
 description: "The experience of willing tracks real causal architecture, not post-hoc confabulation. Phenomenology and empirical evidence converge against epiphenomenalism."
 topics:
@@ -20,7 +20,6 @@ concepts:
   - "[[phenomenology]]"
   - "[[attention-as-interface]]"
   - "[[consciousness-selecting-neural-patterns]]"
-  - "[[concept-of-free-will]]"
   - "[[mental-effort]]"
   - "[[introspection]]"
   - "[[causal-closure]]"
@@ -52,7 +51,7 @@ This interpretation rested on treating the RP as an unconscious decision signal.
 
 Sjöberg's 2024 analysis of patients who have had the supplementary motor area (SMA) resected — the very region generating the readiness potential — provides independent confirmation. These patients retained their subjective sense of willing while losing voluntary movement execution. Automatic movements like walking remained intact. If the RP were the neural signature of genuine volition, removing its source should impair the experience of willing. It does not.
 
-Alfred Mele's philosophical critique reinforced this from a different angle. What subjects become aware of at the 200-millisecond mark may be "an urge to flex that has already arisen," not a decision already made. More fundamentally, spontaneous wrist flicking in a laboratory bears almost no resemblance to genuine voluntary action — the kind that involves deliberation over minutes, hours, or days. Libet's experiments test impulse timing, not [[concept-of-free-will|free will]].
+Alfred Mele's philosophical critique reinforced this from a different angle. What subjects become aware of at the 200-millisecond mark may be "an urge to flex that has already arisen," not a decision already made. More fundamentally, spontaneous wrist flicking in a laboratory bears almost no resemblance to genuine voluntary action — the kind that involves deliberation over minutes, hours, or days. Libet's experiments test impulse timing, not [[topics/free-will|free will]].
 
 Braun, Wessler, and Friese's 2021 meta-analysis found that the evidence for RP-preceding-intention is "uncertain and based on only a small number of studies." The field has moved substantially from the early claim that neuroscience disproved free will. What remains is a genuine puzzle about temporal ordering that admits multiple interpretations — all compatible with the Map's framework of conscious causation.
 

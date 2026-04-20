@@ -2412,18 +2412,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Update [[concept-of-free-will]] wikilinks across 14 files after coalesce
-- **Type**: refine-draft
-- **Notes**: The 2026-04-20 coalesce (commit 2c870a9ce) merged concepts/concept-of-free-will into topics/free-will and archived the source. Fourteen files still carry stale wikilinks to the archived slug: concepts/agent-causation.md, concepts/control-theoretic-will.md, concepts/luck-objection.md, concepts/moral-responsibility.md, concepts/phenomenology-of-choice-and-volition.md, concepts/quantum-indeterminacy-free-will.md, concepts/reasons-responsiveness.md, concepts/spontaneous-intentional-action.md, topics/authentic-vs-inauthentic-choice.md, topics/consciousness-and-causal-powers.md, topics/free-will.md (self-reference in coalesced content), topics/moral-implications-of-genuine-agency.md, topics/trilemma-of-selection.md, topics/volitional-control.md. For each file, replace `[[concept-of-free-will]]` with `[[topics/free-will]]` (or `[[topics/free-will|free will]]` where display text is needed), preserving any pipe-aliased display text. Verify the link target makes sense in context — in some places the original referenced a narrower aspect (the *concept* analysis vs the topic overview) and a brief paragraph rewrite may be needed to keep the sentence accurate. Update ai_modified timestamps on edited files. Do not modify the archived source. See commit 2c870a9ce for the coalesce diff.
-- **Source**: chain (from coalesce 2c870a9ce)
-- **Generated**: 2026-04-20
-
-### P2: Cross-review self-transcendence-void.md considering erasure-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) addresses the structural impossibility of auditing one's own cognitive completeness — the monitoring system that would detect loss is itself among the casualties. Self-transcendence-void.md treats the Münchhausen problem of consciousness bootstrapping itself beyond its own architecture and already lists [[limits-reveal-structure]] and [[meta-epistemology-of-limits]] among related articles, but does not yet link to erasure-void. The two voids form a natural pair: self-transcendence-void concerns the impossibility of *upward* cognitive expansion under the same architecture; erasure-void concerns the impossibility of *downward* cognitive auditing for losses. Cross-review should (a) add a link to erasure-void where self-monitoring or metacognitive limits are developed, (b) check whether the Münchhausen framing in self-transcendence-void can be sharpened by erasure-void's clinical-anosognosia material (which provides empirical grounding for self-monitoring failure), (c) identify whether the two voids together establish a stronger compound-failure-signature pattern about metacognition's dependence on the very faculties it monitors, (d) ensure terminology consistency (both use "metacognition," "monitoring," "architecture"). See voids/erasure-void.md.
-- **Source**: chain (from erasure-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review limits-reveal-structure.md considering erasure-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/erasure-void.md (created 2026-04-20) is a clear instance of the limits-reveal-structure methodology: the structural impossibility of cognitive self-audit reveals architectural facts about consciousness (the monitoring system is co-located with the monitored faculties, anosognosia shows selective destruction, the apparent completeness of the map is itself the erasure). Limits-reveal-structure.md does not yet reference erasure-void despite its centrality as a worked example of the methodology. Cross-review should (a) add erasure-void to the related_articles frontmatter and link to it where the limits→structure inference is developed, (b) consider whether erasure-void should appear in the article body as a worked example alongside the existing intrinsic-nature-void and self-opacity treatments, (c) check whether the erasure-void's anosognosia material provides a clinical anchor that strengthens the limits-reveal-structure argument's empirical grounding, (d) verify terminology consistency (limits-reveal-structure uses "architecture," "constitutive limit"; erasure-void uses "monitoring system," "metacognitive architecture" — align if drift exists). See voids/erasure-void.md.
@@ -2431,6 +2419,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Generated**: 2026-04-20
 
 ## Completed Tasks
+
+
+### ✓ 2026-04-20: Update [[concept-of-free-will]] wikilinks across 14 files after coalesce
+- **Type**: refine-draft
+- **Notes**: The 2026-04-20 coalesce (commit 2c870a9ce) merged concepts/concept-of-free-will into topics/free-will and archived the source. Fourteen files still carry stale wikilinks to the archived slug: concepts/agent-causation.md, concepts/control-theoretic-will.md, concepts/luck-objection.md, concepts/moral-responsibility.md, concepts/phenomenology-of-choice-and-volition.md, concepts/quantum-indeterminacy-free-will.md, concepts/reasons-responsiveness.md, concepts/spontaneous-intentional-action.md, topics/authentic-vs-inauthentic-choice.md, topics/consciousness-and-causal-powers.md, topics/free-will.md (self-reference in coalesced content), topics/moral-implications-of-genuine-agency.md, topics/trilemma-of-selection.md, topics/volitional-control.md. For each file, replace `[[concept-of-free-will]]` with `[[topics/free-will]]` (or `[[topics/free-will|free will]]` where display text is needed), preserving any pipe-aliased display text. Verify the link target makes sense in context — in some places the original referenced a narrower aspect (the *concept* analysis vs the topic overview) and a brief paragraph rewrite may be needed to keep the sentence accurate. Update ai_modified timestamps on edited files. Do not modify the archived source. See commit 2c870a9ce for the coalesce diff.
+- **Output**: Task context:
+The 2026-04-20 coalesce (commit 2c870a9ce) merged concepts/concept-of-free-will into topics/free-will and archived the source. Fourteen files still carry stale wikilinks to the archived slug: concepts/agent-causation.md, concepts/control-theoretic-will.md, concepts/luck-objection.md, concepts/moral-responsibility.md, concepts/phenomenology-of-choice-and-volition.md, concepts/quantum-indeterminacy-free-will.md, concepts/reasons-responsiveness.md, concepts/spontaneous-intentional-action.md, topics/authentic-vs-inauthentic-choice.md, topics/consciousness-and-causal-powers.md, topics/free-will.md (self-reference in coalesced content), topics/moral-implications-of-genuine-agency.md, topics/trilemma-of-selection.md, topics/volitional-control.md. For each file, replace `[[concept-of-free-will]]` with `[[topics/free-will]]` (or `[[topics/free-will|free will]]` where display text is needed), preserving any pipe-aliased display text. Verify the link target makes sense in context — in some places the original referenced a narrower aspect (the *concept* analysis vs the topic overview) and a brief paragraph rewrite may be needed to keep the sentence accurate. Update ai_modified timestamps on edited files. Do not modify the archived source. See commit 2c870a9ce for the coalesce diff.
+
+### ✓ 2026-04-20: Update [[concept-of-free-will]] wikilinks across 14 files after coalesce
+- **Type**: refine-draft
+- **Notes**: Edited 13 of the 14 listed files (topics/free-will.md needed no edit — its only reference was legitimate `coalesced_from` metadata). Removed 12 frontmatter entries that would have become duplicates of the existing `[[topics/free-will]]` topics entry; replaced body-text wikilinks in luck-objection, reasons-responsiveness, phenomenology-of-choice-and-volition, spontaneous-intentional-action, volitional-control (including removing a duplicate Further Reading entry) and a Further Reading entry in control-theoretic-will. All `ai_modified` timestamps updated to 2026-04-20T20:38:00+00:00. Verified no stale `[[concept-of-free-will]]` wikilinks remain in active content (only reviews/ and workflow/archive/ historical artifacts, which are left untouched).
+- **Output**: 13 files under obsidian/concepts/ and obsidian/topics/
+
 ## Blocked Tasks (Needs Human)
 
 Tasks that failed 3+ times and require human intervention.
@@ -2438,7 +2439,6 @@ Tasks that failed 3+ times and require human intervention.
 ## Vetoed Tasks
 
 Ideas that were considered and rejected. The AI will not re-propose these.
-
 
 ### ✓ 2026-04-20: Address style-violations and load-bearing inferences in phenomenological-method-and-evidence-standards.md
 - **Type**: refine-draft

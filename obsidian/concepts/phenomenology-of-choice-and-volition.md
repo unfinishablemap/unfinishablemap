@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-03-31T08:39:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -36,7 +36,6 @@ concepts:
   - "[[trilemma-of-selection]]"
 related_articles:
   - "[[tenets]]"
-  - "[[concept-of-free-will]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[phenomenology-of-moral-life]]"
@@ -55,7 +54,7 @@ coalesced_from:
   - "/concepts/phenomenology-of-volition/"
 ---
 
-Choosing feels like something. Willing feels like something. And the two feel different. When you deliberate between options and settle on one, there is a distinctive qualitative character — a phenomenology of decision that differs markedly from passively observing events unfold. When you then execute that decision — raising your arm, directing attention, suppressing an impulse — a further phenomenology of volitional control unfolds, with its own structure of initiation, sustained effort, and active inhibition. The Unfinishable Map treats this full arc, from deliberation through decision to execution, as evidence that consciousness is a genuine selector and controller rather than an epiphenomenal spectator. See [[concept-of-free-will|free will]] for the Map's agent-causal position that this phenomenology supports.
+Choosing feels like something. Willing feels like something. And the two feel different. When you deliberate between options and settle on one, there is a distinctive qualitative character — a phenomenology of decision that differs markedly from passively observing events unfold. When you then execute that decision — raising your arm, directing attention, suppressing an impulse — a further phenomenology of volitional control unfolds, with its own structure of initiation, sustained effort, and active inhibition. The Unfinishable Map treats this full arc, from deliberation through decision to execution, as evidence that consciousness is a genuine selector and controller rather than an epiphenomenal spectator. See [[topics/free-will|free will]] for the Map's agent-causal position that this phenomenology supports.
 
 ## Deliberation: Options as Felt Possibilities
 
@@ -182,7 +181,6 @@ The framework would face serious difficulty if: (1) trained introspectors report
 - [[cross-cultural-phenomenology-of-agency]] — Invariants of volitional experience across cultures
 - [[phenomenology-of-consciousness-doing-work]] — The broader case for consciousness doing work
 - [[consciousness-and-causal-powers]] — The full case for conscious causal efficacy
-- [[concept-of-free-will]] — The Map's libertarian position and its grounds
 
 ## References
 

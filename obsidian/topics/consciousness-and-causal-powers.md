@@ -4,14 +4,13 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-06T10:58:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 last_deep_review: 2026-03-28T03:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
-  - "[[concept-of-free-will]]"
   - "[[mental-causation-and-downward-causation]]"
   - "[[interactionist-dualism]]"
   - "[[concepts/epiphenomenalism]]"

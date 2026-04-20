@@ -4,7 +4,7 @@ description: "At any decision point involving genuine indeterminacy, exactly thr
 created: 2026-03-10
 modified: 2026-03-10
 human_modified:
-ai_modified: 2026-04-16T11:59:00+00:00
+ai_modified: 2026-04-20T20:38:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,7 +26,6 @@ related_articles:
   - "[[tenets]]"
   - "[[attention-and-the-consciousness-interface]]"
   - "[[consciousness-and-causal-powers]]"
-  - "[[concept-of-free-will]]"
   - "[[quantum-measurement-and-consciousness]]"
   - "[[post-decoherence-selection-mechanisms]]"
   - "[[born-rule-and-the-consciousness-interface]]"
