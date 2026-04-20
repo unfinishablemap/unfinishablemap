@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-18 17:38:00+00:00
+ai_modified: 2026-04-20 12:41:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: Consciousness cannot fully know itself—six thinkers from divergen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-11 16:56:00+00:00
+last_deep_review: 2026-04-20 12:41:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -54,6 +54,7 @@ related_articles:
 - '[[emotional-epistemology-void]]'
 - '[[self-reference-paradox]]'
 - '[[disappearance-voids]]'
+- '[[erasure-void]]'
 title: Self-Opacity
 topics:
 - '[[philosophy-of-mind]]'
@@ -98,7 +99,7 @@ We access mental contents—thoughts, images, feelings—but not the processes t
 
 The opacity has four dimensions. **Temporal**: by the time introspection occurs, the thought has passed. **Process**: you perceive the solution but not solving—the [recognition-void](/voids/recognition-void/) is paradigmatic. **Mechanism**: even metacognition yields descriptions but not mechanisms. **Ontological**: Sartre's point that consciousness cannot objectify itself without self-distortion.
 
-Despite structural opacity, we *feel* transparent to ourselves. This connects to [inventory blindness](/concepts/inventory-blindness/): absent capabilities produce no signal, so the illusion of transparency is never challenged from within. Fabricated explanations feel no different from veridical ones.
+Despite structural opacity, we *feel* transparent to ourselves. This connects to [inventory blindness](/concepts/inventory-blindness/): absent capabilities produce no signal, so the illusion of transparency is never challenged from within. The [erasure-void](/voids/erasure-void/) extends the same structure across time—when capacities erode, the monitor that would notice the loss often erodes with them. Fabricated explanations feel no different from veridical ones.
 
 ## The Special Case of Volition
 
@@ -164,6 +165,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit
 - [The Recursion Void](/voids/recursion-void/) — Depth limit of metacognitive self-reference
 - [The Recognition Void](/voids/recognition-void/) — Process opacity applied to recognition
+- [The Erasure Void](/voids/erasure-void/) — Self-opacity extended across time: capacity loss without signal
 - [Free Will](/topics/free-will/) — Broader context for questions of agency
 
 ## References

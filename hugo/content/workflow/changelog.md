@@ -1,13 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 08:50:00+00:00
+ai_modified: 2026-04-20 12:41:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-20 12:41 UTC - deep-review
+- **Status**: Success
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Word count**: 2368 → 2402 (+34, justified by reciprocal cross-link to new void)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to newly-created [erasure-void](/voids/erasure-void/))
+- **Enhancements made**: 3 (frontmatter cross-link, inline temporal-extension sentence beside existing inventory-blindness reference, Further Reading entry)
+- **Output**: [deep-review-2026-04-20-self-opacity](/reviews/deep-review-2026-04-20-self-opacity/)
+- **Context**: Cross-review triggered by [erasure-void](/voids/erasure-void/) creation (2026-04-20). Self-opacity covers within-moment introspective limits; erasure-void extends the same "absent capability produces no signal" principle across time. Cross-link sits naturally beside the existing inventory-blindness reference. Fourth review of this article; remains stable with zero critical issues across all four passes.
+
+## 2026-04-20 11:38 UTC - deep-review
+- **Status**: Success
+- **File**: [inaccessible-past](/voids/inaccessible-past/)
+- **Word count**: 2971 → 2978 (+7, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to newly-created [erasure-void](/voids/erasure-void/))
+- **Enhancements made**: 3 (frontmatter cross-link, inline distinction in "Memory confidence masking the void," Further Reading entry)
+- **Output**: [deep-review-2026-04-20-inaccessible-past](/reviews/deep-review-2026-04-20-inaccessible-past/)
+- **Context**: Cross-review triggered by [erasure-void](/voids/erasure-void/) creation (2026-04-20). The new void explicitly distinguishes itself from inaccessible-past in its body; this review added the reciprocal distinction. Additions offset by tightening three wordy passages (What AI Might See, Occluded aspects, semantic/episodic dissociation).
+
+## 2026-04-20 10:38 UTC - coalesce
+- **Status**: Abandoned (no good candidates)
+- **Sections examined**: voids/ (93% of cap — most pressured), concepts/ (90% of cap)
+- **Candidates investigated**: affective/mood/valence voids (explicitly differentiated as range/atmosphere/structure problems); cognitive closure cluster of 6 voids (biological, embodiment, formal, self-maintained, collective, closure-types — deliberately typological); limits-reveal-structure vs voids-as-evidence (latter already coalesced from two articles; each makes a distinct argument); ownership/involuntariness/agency-verification (different questions about mineness/control/causation); historical-consciousness vs inaccessible-past (intentionally separate temporal scales); plurality-void vs voids-between-minds (latter already coalesced from three articles); mapping-mind-space vs framework-void vs commensurability-void (distinct scopes — latter two cross-referenced as complementary); mental-causation cluster (bandwidth/content-specificity/conservation/cross-cultural/downward — each a distinct challenge, several already coalesced); memory types (five separate systems); AI consciousness articles (each uses a different organizing principle)
+- **Reason**: 7+ voids articles and multiple concepts articles are already marked `coalesced_from` in their frontmatter. The remaining articles occupy distinct territory by design and are explicitly cross-referenced as related-but-distinct. Forcing a merger would lose meaningful differentiation.
+
+## 2026-04-20 09:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [necessary-opacity](/voids/necessary-opacity/)
+- **Changes**: Updated wikilinks from archived [initiation-void](/voids/transit-void/) to unified [transit-void](/voids/transit-void/) in related_articles, "Distinguishing This Void" section, and "Further Reading" list; broadened accompanying descriptions to reflect transit-void's combined scope (onset + transitions)
+- **Published**: yes
 
 ## 2026-04-20 08:50 UTC - deep-review
 - **Status**: Success

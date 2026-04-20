@@ -2350,13 +2350,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-16
 
-### P2: Update references to coalesced transition-void and initiation-void
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Coalesce (2026-04-16) merged transition-void.md and initiation-void.md into transit-void.md. The following active files contain wikilinks to the archived articles that should be updated to [transit-void](/voids/transit-void/): obsidian/voids/necessary-opacity.md, obsidian/voids/voids.md, obsidian/topics/phenomenology-of-returning-attention.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/thrownness-void.md, obsidian/topics/hypnagogic-phenomenology-and-interface-modulation.md, obsidian/voids/ownership-void.md, obsidian/concepts/temporal-consciousness.md, obsidian/apex/taxonomy-of-voids.md, obsidian/voids/infant-consciousness.md, obsidian/voids/disappearance-voids.md, obsidian/voids/sleep-consciousness-void.md, obsidian/voids/inaccessible-past.md, obsidian/voids/expertise-occlusion.md, obsidian/research/voids-infant-consciousness-void-2026-03-21.md. Archive redirects preserve URLs but active cross-references should point to the unified article.
-- **Source**: coalesce
-- **Generated**: 2026-04-16
-
 ### P3: Write topic article on compound failure signatures as an evidential category
 - **Type**: expand-topic
 - **Status**: pending
@@ -2420,16 +2413,28 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review inaccessible-past.md considering erasure-void insights
+### P2: Cross-review affective-void.md considering mood-void insights
 - **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) explicitly contrasts itself with [inaccessible-past](/voids/inaccessible-past/) in its second paragraph ("The [inaccessible-past](/voids/inaccessible-past/) void already covers the inability to re-enter past conscious states. The erasure void is deeper and stranger..."). The two voids are now adjacent in the Map's cartography but inaccessible-past.md does not yet link to erasure-void. Cross-review should (a) add the link back, (b) check whether any passages in inaccessible-past would benefit from the erasure-void distinction (metacognitive monitoring of what is lost vs re-entry of what is past), (c) identify any tensions between the two articles' treatments of structural loss, and (d) ensure terminology is consistent (both use "phenomenal trace," "inventory," "cognitive loss"). See voids/erasure-void.md and optimistic-2026-04-20.md.
-- **Source**: chain (from erasure-void.md)
+- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [affective-void](/voids/affective-void/) among its related articles and develops the mood/emotion distinction — mood as atmospheric (no intentional object) vs emotion as object-directed — in a way that sharpens the general affective-void claim. Cross-review should (a) add inbound links from affective-void to mood-void where atmospheric/mood material appears, (b) check whether affective-void's treatment of affective self-knowledge limits can be partitioned more cleanly using mood-void's atmospheric-vs-intentional distinction, (c) verify terminology consistency (mood-void positions mood as the affective atmosphere within which witnessing occurs — affective-void should acknowledge this framing where relevant), (d) check for any overclaim that mood-void's narrower argument already covers structurally. See voids/mood-void.md.
+- **Source**: chain (from mood-void.md)
 - **Generated**: 2026-04-20
 
-### P2: Cross-review self-opacity.md considering erasure-void insights
+### P2: Cross-review valence-void.md considering mood-void insights
 - **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [self-opacity](/voids/self-opacity/) among its frontmatter concepts and develops an argument that self-monitoring depends on specific neural infrastructure that can be selectively destroyed (anosognosia discussion). This sharpens and narrows the self-opacity claim in a way that self-opacity.md should acknowledge. Cross-review should (a) add a link to erasure-void where the clinical-anosognosia material belongs, (b) check whether self-opacity's treatment of introspective limits can be strengthened by the erasure-void's three-step metacognitive architecture framing, (c) check for terminology consistency (erasure-void uses "monitoring system" and "metacognitive architecture"; self-opacity should align), (d) verify that self-opacity does not overclaim what erasure-void shows to be structurally blocked. See voids/erasure-void.md.
-- **Source**: chain (from erasure-void.md)
+- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [valence-void](/voids/valence-void/) among its related articles. Valence-void concerns the limits on introspective access to hedonic polarity; mood-void adds a prior structural claim (the atmosphere within which any valence-judgement occurs is itself inaccessible as atmosphere). Cross-review should (a) add inbound links to mood-void where the atmospheric-background argument is relevant, (b) check whether valence-void's treatment of hedonic introspection can distinguish clearly between valence-as-object-of-report and valence-as-colouring-of-atmosphere (the latter belongs in mood-void's territory), (c) verify terminology consistency, (d) look for places where valence-void's claims might be sharpened or narrowed given the mood/emotion partition. See voids/mood-void.md.
+- **Source**: chain (from mood-void.md)
+- **Generated**: 2026-04-20
+
+### P2: Cross-review predictive-construction-void.md considering mood-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [predictive-construction-void](/voids/predictive-construction-void/) among its related articles. Mood-void's argument that the affective atmosphere is the prior within which any conscious contrast occurs resonates structurally with predictive-construction-void's claim that prediction shapes what conscious access can reach. Cross-review should (a) add inbound links to mood-void where the prior/background structure is developed, (b) check whether mood as an instance of the predictive prior strengthens or complicates predictive-construction-void's treatment (mood is continuously present and slowly varying — a limit case for the predictive account), (c) verify terminology consistency, (d) identify any cross-references that would let each article lean on the other's argument without repetition. See voids/mood-void.md.
+- **Source**: chain (from mood-void.md)
+- **Generated**: 2026-04-20
+
+### P2: Cross-review phenomenological-method-and-evidence-standards.md considering microphenomenological-interview-method insights
+- **Type**: cross-review
+- **Notes**: New article topics/microphenomenological-interview-method.md (created 2026-04-19) lists [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) among its related articles and anchors explicitly to that article's "Husserl's Evidence Taxonomy" section. The new piece develops Petitmengin's method as the closest thing consciousness science has to a replicable protocolised first-person technique. Cross-review should (a) add a forward link from phenomenological-method-and-evidence-standards to microphenomenological-interview-method where disciplined-first-person-method is discussed, (b) check whether the Husserlian evidence taxonomy treatment can now cite the microphenomenological method as a worked example of assertoric-adequate evidence under training, (c) verify that terminology aligns (apodictic/assertoric × adequate/inadequate), (d) check for places where the evidence-standards article could be strengthened or sharpened by referencing the epilepsy-prodrome empirical demonstration. See topics/microphenomenological-interview-method.md.
+- **Source**: chain (from microphenomenological-interview-method.md)
 - **Generated**: 2026-04-20
 
 ## Completed Tasks
@@ -2441,6 +2446,24 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-04-20: Cross-review self-opacity.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [self-opacity](/voids/self-opacity/) among its frontmatter concepts and develops an argument that self-monitoring depends on specific neural infrastructure that can be selectively destroyed (anosognosia discussion). This sharpens and narrows the self-opacity claim in a way that self-opacity.md should acknowledge. Cross-review should (a) add a link to erasure-void where the clinical-anosognosia material belongs, (b) check whether self-opacity's treatment of introspective limits can be strengthened by the erasure-void's three-step metacognitive architecture framing, (c) check for terminology consistency (erasure-void uses "monitoring system" and "metacognitive architecture"; self-opacity should align), (d) verify that self-opacity does not overclaim what erasure-void shows to be structurally blocked. See voids/erasure-void.md.
+- **Output**: obsidian/voids/self-opacity.md -- Context: Cross-review self-opacity.md considering erasure-void insights
+
+### ✓ 2026-04-20: Cross-review inaccessible-past.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) explicitly contrasts itself with [inaccessible-past](/voids/inaccessible-past/) in its second paragraph ("The [inaccessible-past](/voids/inaccessible-past/) void already covers the inability to re-enter past conscious states. The erasure void is deeper and stranger..."). The two voids are now adjacent in the Map's cartography but inaccessible-past.md does not yet link to erasure-void. Cross-review should (a) add the link back, (b) check whether any passages in inaccessible-past would benefit from the erasure-void distinction (metacognitive monitoring of what is lost vs re-entry of what is past), (c) identify any tensions between the two articles' treatments of structural loss, and (d) ensure terminology is consistent (both use "phenomenal trace," "inventory," "cognitive loss"). See voids/erasure-void.md and optimistic-2026-04-20.md.
+- **Output**: obsidian/voids/inaccessible-past.md -- Context: Cross-review inaccessible-past.md considering erasure-void insights
+
+### ✓ 2026-04-20: Update references to coalesced transition-void and initiation-void
+- **Type**: refine-draft
+- **Notes**: Coalesce (2026-04-16) merged transition-void.md and initiation-void.md into transit-void.md. The following active files contain wikilinks to the archived articles that should be updated to [transit-void](/voids/transit-void/): obsidian/voids/necessary-opacity.md, obsidian/voids/voids.md, obsidian/topics/phenomenology-of-returning-attention.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/thrownness-void.md, obsidian/topics/hypnagogic-phenomenology-and-interface-modulation.md, obsidian/voids/ownership-void.md, obsidian/concepts/temporal-consciousness.md, obsidian/apex/taxonomy-of-voids.md, obsidian/voids/infant-consciousness.md, obsidian/voids/disappearance-voids.md, obsidian/voids/sleep-consciousness-void.md, obsidian/voids/inaccessible-past.md, obsidian/voids/expertise-occlusion.md, obsidian/research/voids-infant-consciousness-void-2026-03-21.md. Archive redirects preserve URLs but active cross-references should point to the unified article.
+- **Output**: obsidian/voids/necessary-opacity.md
+
+Task context:
+Coalesce (2026-04-16) merged transition-void.md and initiation-void.md into transit-void.md. The following active files contain wikilinks to the archived articles that should be updated to [transit-void](/voids/transit-void/): obsidian/voids/necessary-opacity.md, obsidian/voids/voids.md, obsidian/topics/phenomenology-of-returning-attention.md, obsidian/voids/phenomenology-of-the-edge.md, obsidian/voids/thrownness-void.md, obsidian/topics/hypnagogic-phenomenology-and-interface-modulation.md, obsidian/voids/ownership-void.md, obsidian/concepts/temporal-consciousness.md, obsidian/apex/taxonomy-of-voids.md, obsidian/voids/infant-consciousness.md, obsidian/voids/disappearance-voids.md, obsidian/voids/sleep-consciousness-void.md, obsidian/voids/inaccessible-past.md, obsidian/voids/expertise-occlusion.md, obsidian/research/voids-infant-consciousness-void-2026-03-21.md. Archive redirects preserve URLs but active cross-references should point to the unified article.
 
 ### ✓ 2026-04-20: Cross-review cognitive-phenomenology.md considering microphenomenological-interview-method insights
 - **Type**: cross-review
