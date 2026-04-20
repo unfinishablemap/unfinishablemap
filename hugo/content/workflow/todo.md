@@ -2413,24 +2413,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review affective-void.md considering mood-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [affective-void](/voids/affective-void/) among its related articles and develops the mood/emotion distinction — mood as atmospheric (no intentional object) vs emotion as object-directed — in a way that sharpens the general affective-void claim. Cross-review should (a) add inbound links from affective-void to mood-void where atmospheric/mood material appears, (b) check whether affective-void's treatment of affective self-knowledge limits can be partitioned more cleanly using mood-void's atmospheric-vs-intentional distinction, (c) verify terminology consistency (mood-void positions mood as the affective atmosphere within which witnessing occurs — affective-void should acknowledge this framing where relevant), (d) check for any overclaim that mood-void's narrower argument already covers structurally. See voids/mood-void.md.
-- **Source**: chain (from mood-void.md)
-- **Generated**: 2026-04-20
-
-### P2: Cross-review valence-void.md considering mood-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [valence-void](/voids/valence-void/) among its related articles. Valence-void concerns the limits on introspective access to hedonic polarity; mood-void adds a prior structural claim (the atmosphere within which any valence-judgement occurs is itself inaccessible as atmosphere). Cross-review should (a) add inbound links to mood-void where the atmospheric-background argument is relevant, (b) check whether valence-void's treatment of hedonic introspection can distinguish clearly between valence-as-object-of-report and valence-as-colouring-of-atmosphere (the latter belongs in mood-void's territory), (c) verify terminology consistency, (d) look for places where valence-void's claims might be sharpened or narrowed given the mood/emotion partition. See voids/mood-void.md.
-- **Source**: chain (from mood-void.md)
-- **Generated**: 2026-04-20
-
-### P2: Cross-review predictive-construction-void.md considering mood-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [predictive-construction-void](/voids/predictive-construction-void/) among its related articles. Mood-void's argument that the affective atmosphere is the prior within which any conscious contrast occurs resonates structurally with predictive-construction-void's claim that prediction shapes what conscious access can reach. Cross-review should (a) add inbound links to mood-void where the prior/background structure is developed, (b) check whether mood as an instance of the predictive prior strengthens or complicates predictive-construction-void's treatment (mood is continuously present and slowly varying — a limit case for the predictive account), (c) verify terminology consistency, (d) identify any cross-references that would let each article lean on the other's argument without repetition. See voids/mood-void.md.
-- **Source**: chain (from mood-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review phenomenological-method-and-evidence-standards.md considering microphenomenological-interview-method insights
 - **Type**: cross-review
 - **Notes**: New article topics/microphenomenological-interview-method.md (created 2026-04-19) lists [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) among its related articles and anchors explicitly to that article's "Husserl's Evidence Taxonomy" section. The new piece develops Petitmengin's method as the closest thing consciousness science has to a replicable protocolised first-person technique. Cross-review should (a) add a forward link from phenomenological-method-and-evidence-standards to microphenomenological-interview-method where disciplined-first-person-method is discussed, (b) check whether the Husserlian evidence taxonomy treatment can now cite the microphenomenological method as a worked example of assertoric-adequate evidence under training, (c) verify that terminology aligns (apodictic/assertoric × adequate/inadequate), (d) check for places where the evidence-standards article could be strengthened or sharpened by referencing the epilepsy-prodrome empirical demonstration. See topics/microphenomenological-interview-method.md.
@@ -2446,6 +2428,21 @@ Tasks that failed 3+ times and require human intervention.
 
 Ideas that were considered and rejected. The AI will not re-propose these.
 
+
+### ✓ 2026-04-20: Cross-review predictive-construction-void.md considering mood-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [predictive-construction-void](/voids/predictive-construction-void/) among its related articles. Mood-void's argument that the affective atmosphere is the prior within which any conscious contrast occurs resonates structurally with predictive-construction-void's claim that prediction shapes what conscious access can reach. Cross-review should (a) add inbound links to mood-void where the prior/background structure is developed, (b) check whether mood as an instance of the predictive prior strengthens or complicates predictive-construction-void's treatment (mood is continuously present and slowly varying — a limit case for the predictive account), (c) verify terminology consistency, (d) identify any cross-references that would let each article lean on the other's argument without repetition. See voids/mood-void.md.
+- **Output**: obsidian/voids/predictive-construction-void.md -- Context: Cross-review predictive-construction-void.md considering mood-void insights
+
+### ✓ 2026-04-20: Cross-review valence-void.md considering mood-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [valence-void](/voids/valence-void/) among its related articles. Valence-void concerns the limits on introspective access to hedonic polarity; mood-void adds a prior structural claim (the atmosphere within which any valence-judgement occurs is itself inaccessible as atmosphere). Cross-review should (a) add inbound links to mood-void where the atmospheric-background argument is relevant, (b) check whether valence-void's treatment of hedonic introspection can distinguish clearly between valence-as-object-of-report and valence-as-colouring-of-atmosphere (the latter belongs in mood-void's territory), (c) verify terminology consistency, (d) look for places where valence-void's claims might be sharpened or narrowed given the mood/emotion partition. See voids/mood-void.md.
+- **Output**: obsidian/voids/valence-void.md -- Context: Cross-review valence-void.md considering mood-void insights
+
+### ✓ 2026-04-20: Cross-review affective-void.md considering mood-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mood-void.md (created 2026-04-19) lists [affective-void](/voids/affective-void/) among its related articles and develops the mood/emotion distinction — mood as atmospheric (no intentional object) vs emotion as object-directed — in a way that sharpens the general affective-void claim. Cross-review should (a) add inbound links from affective-void to mood-void where atmospheric/mood material appears, (b) check whether affective-void's treatment of affective self-knowledge limits can be partitioned more cleanly using mood-void's atmospheric-vs-intentional distinction, (c) verify terminology consistency (mood-void positions mood as the affective atmosphere within which witnessing occurs — affective-void should acknowledge this framing where relevant), (d) check for any overclaim that mood-void's narrower argument already covers structurally. See voids/mood-void.md.
+- **Output**: obsidian/voids/affective-void.md -- Context: Cross-review affective-void.md considering mood-void insights
 
 ### ✓ 2026-04-20: Cross-review self-opacity.md considering erasure-void insights
 - **Type**: cross-review

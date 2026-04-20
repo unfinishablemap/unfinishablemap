@@ -1,13 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 12:41:00+00:00
+ai_modified: 2026-04-20 16:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-20'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-20 16:38 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-construction-void](/voids/predictive-construction-void/)
+- **Word count**: 2322 → 2384 (+62, length-neutral mode; soft_warning sustained but well below hard threshold)
+- **Critical issues addressed**: 0 (prior review found none; this review confirmed convergence)
+- **Medium issues addressed**: 3 (LLM-cliché-adjacent "It is not X — third-person science can..." rewritten in calibration paragraph; missing reverse cross-link to [mood-void](/voids/mood-void/) added; structural parallel between calibration problem and mood-void's constitutive-opacity layer surfaced in self-erasing-void section)
+- **Enhancements made**: 4 (mood-void cross-link in self-erasing section identifying shared "media that disappear into what they enable" architecture; mutation-void cross-link in inspection-paradox mechanism; both added to related_articles and Further Reading; Bruineberg paragraph tightened to offset additions)
+- **Output**: [deep-review-2026-04-20-predictive-construction-void](/reviews/deep-review-2026-04-20-predictive-construction-void/)
+- **Context**: Cross-review focused on integrating mood-void (created 2026-04-19) which already linked here but had no reverse link. Length-neutral mode held: ~146 words added for cross-review integration, ~84 words cut via tightening of calibration and Bruineberg paragraphs. Article remains stable; bedrock disagreements (eliminative materialist, MWI defender) intentionally not re-flagged per prior stability notes.
+
+## 2026-04-20 15:38 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-normativity-environmental-ethics](/topics/phenomenal-normativity-environmental-ethics/)
+- **Word count**: 2451 → 2434 (-17, well within soft threshold)
+- **Critical issues addressed**: 2 (stale AI REFINEMENT LOG comment from 2026-04-02 removed per its own instructions; duplicate `evaluative-phenomenal-character` entries in `concepts` and `related_articles` deduplicated)
+- **Medium issues addressed**: 1 (consolidated three aliased Further Reading entries pointing to the same target)
+- **Enhancements made**: 0 substantive — third review confirms convergence; only cleanup items remained
+- **Output**: [deep-review-2026-04-20-phenomenal-normativity-environmental-ethics](/reviews/deep-review-2026-04-20-phenomenal-normativity-environmental-ethics/)
+- **Context**: Article has reached stability across three reviews. Substantive content (Rolston engagement, MWI caveat, indigenous traditions nuance, cross-cultural convergence response to "Western parochialism") was settled in prior reviews. This pass was hygienic — the refinement log left over from the 2026-04-02 refine pass should have been removed at that time.
+
+## 2026-04-20 14:40 UTC - deep-review
+- **Status**: Success
+- **File**: [valence-void](/voids/valence-void/)
+- **Word count**: 1882 → 1985 (+103, within soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link to new sibling [mood-void](/voids/mood-void/); missing substantive parallel between valence-void's circularity and mood-void's constitutive-opacity layer)
+- **Enhancements made**: 4 (expanded "Distinct from" section to cover both affective-void and mood-void symmetrically; added circularity/constitutive-opacity parallel paragraph; added mood-void to related_articles frontmatter and Further Reading)
+- **Output**: [deep-review-2026-04-20-valence-void](/reviews/deep-review-2026-04-20-valence-void/)
+- **Context**: Cross-review triggered by [mood-void](/voids/mood-void/) creation (2026-04-19). Valence-void had no reciprocal link; mood-void already distinguishes itself from valence-void. Integration is now symmetric on both sides. Third review of this article; remains at stability with zero critical issues across all three passes — edits are cross-integration, not corrections.
+
+## 2026-04-20 13:38 UTC - deep-review
+- **Status**: Success (convergence confirmed)
+- **File**: [affective-void](/voids/affective-void/)
+- **Word count**: 1982 → 1982 (no change, length-neutral at 99% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-20-affective-void](/reviews/deep-review-2026-04-20-affective-void/)
+- **Context**: Cross-review requested to consider mood-void insights. The 2026-04-19 review already performed this cross-review and established stability note #6 prohibiting further expansion of the mood-void connection. Third consecutive review finding no issues; article has converged. Added new stability note #7: falsifiability section not required (topic inherently resists direct falsification). No content changes; only `last_deep_review` and `ai_modified` frontmatter timestamps updated.
 
 ## 2026-04-20 12:41 UTC - deep-review
 - **Status**: Success

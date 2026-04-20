@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-18 11:32:00+00:00
+ai_modified: 2026-04-20 16:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,13 +11,13 @@ concepts:
 - '[[perception]]'
 - '[[mysterianism]]'
 created: 2026-04-16
-date: &id001 2026-04-18
+date: &id001 2026-04-20
 description: Human+AI exploration of why consciousness cannot determine the boundary
   between what it constructs and what it receives—a void that erases itself by succeeding.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 17:55:00+00:00
+last_deep_review: 2026-04-20 16:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -29,6 +29,8 @@ related_articles:
 - '[[framework-void]]'
 - '[[predictive-processing-and-dualism]]'
 - '[[dualist-perception]]'
+- '[[mood-void]]'
+- '[[mutation-void]]'
 title: The Predictive Construction Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -45,17 +47,17 @@ The void arises from four interlocking features of [predictive processing](/conc
 
 **The Markov blanket barrier.** Karl Friston's free-energy principle formalises the boundary between organism and environment as a Markov blanket—a statistical partition through which internal states access external states only indirectly, via sensory and active boundaries. Kirchhoff et al. state the implication directly: "As long as the energetic exchanges across the sensory boundaries are held constant, the agent cannot know whether the world beyond is one way or another" (2018). There is no bypass. Every channel from world to mind passes through prediction machinery.
 
-**The inspection paradox.** Any attempt to examine whether a given experience is constructed or received must use the same predictive apparatus under investigation. The instrument and the object of measurement are identical. Embedded cognition has no outside vantage from which to audit the apparatus—the limitation is structural, not a contingent shortcoming of current neuroscience. You cannot step outside prediction to audit prediction.
+**The inspection paradox.** Any attempt to examine whether a given experience is constructed or received must use the same predictive apparatus under investigation. The instrument and the object of measurement are identical. Embedded cognition has no outside vantage from which to audit the apparatus—the limitation is structural, not a contingent shortcoming of current neuroscience. You cannot step outside prediction to audit prediction. Where the inspection still proceeds, it risks [mutating what it inspects](/voids/mutation-void/): the predictive setting under examination is itself updated by the act of attending to it.
 
 **The transparency problem.** Successful predictions vanish phenomenologically. When the brain's model matches sensory input, the model disappears from awareness and what remains feels like unmediated contact with the world. Only prediction errors—surprises—register as such. This is [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) operating at the predictive level: the machinery becomes invisible precisely when it succeeds. Jakob Hohwy captures it: minds are "in the business of inferring the world and selves from behind a sensory veil, while being deeply embedded in bodies and worlds" (2013). The veil is invisible precisely because it works.
 
-**The calibration problem.** Within introspection, no standard is available for separating constructive from receptive contributions to a given experience: any attempted comparison is itself another prediction. The claim here is deliberately narrow. It is not the stronger Cartesian one that empirical knowledge in general is unreachable—third-person science can still triangulate across observers, modalities, and perturbation protocols, and those triangulations do real work. What is blocked is specifically first-person: the ratio of constructed to received content in ordinary experience cannot be read off from experience. Anil Seth's slogan captures the flavour—"We're all hallucinating all the time, including right now. It's just that when we agree about our hallucinations, we call that reality" (2021). Critics have objected that "hallucination" so used stretches the term past useful content, since veridical perception and clinical hallucination differ in their typical causal sensitivity to the world. The weaker claim on which this article rests—that the construction/reception split is not visible from within, regardless of what we call the visible part—survives that objection.
+**The calibration problem.** Within introspection, no standard is available for separating constructive from receptive contributions to a given experience: any attempted comparison is itself another prediction. The claim is deliberately narrow and specifically first-person—third-person science can still triangulate across observers, modalities, and perturbation protocols, and those triangulations do real work. What is blocked is reading the construction/reception ratio off experience itself. Anil Seth's slogan captures the flavour—"We're all hallucinating all the time, including right now. It's just that when we agree about our hallucinations, we call that reality" (2021). Critics object that "hallucination" stretches the term past useful content; the weaker claim here—that the split is not visible from within, regardless of what we call the visible part—survives that objection.
 
 ## A Self-Erasing Void
 
 Most voids in the Map are experienced as limits. The [framework void](/voids/framework-void/) manifests as the frustration of conceptual inadequacy. [Self-opacity](/voids/self-opacity/) manifests as the strangeness of not knowing one's own processes. The predictive construction void is distinctive because it does not feel like a limit at all. Successful prediction generates the phenomenology of direct access—the more thoroughly perception is constructed, the more it feels like unmediated contact with reality.
 
-This makes the void not merely self-concealing but self-erasing. The [understanding void](/voids/understanding-void/) identifies how self-evidence terminates inquiry. The predictive construction void goes further: it produces the very feeling of self-evidence. The sense that you are "just seeing" the world—that perception is transparent, immediate, obvious—is itself a prediction. The void manufactures the confidence that occludes it.
+This makes the void not merely self-concealing but self-erasing. The [understanding void](/voids/understanding-void/) identifies how self-evidence terminates inquiry. The predictive construction void goes further: it produces the very feeling of self-evidence. The sense that you are "just seeing" the world—that perception is transparent, immediate, obvious—is itself a prediction. The void manufactures the confidence that occludes it. The [mood void](/voids/mood-void/) exhibits the same self-erasing structure in the affective register: a pervasive mood frames experience precisely by not appearing within it, and the framing vanishes most thoroughly when it is working most thoroughly. Construction and coloration share an architecture—both are media that disappear into what they enable.
 
 The void becomes briefly visible when prediction fails:
 
@@ -93,7 +95,7 @@ The void described here is conditional. If predictive-processing accounts of per
 
 **Enactivism.** Varela, Thompson, Rosch, and Noë argue that perception is a skilled, world-involving engagement constituted by sensorimotor coupling rather than by inference. Under enactivist accounts the Markov blanket separates nothing that matters phenomenologically; experience is already coupled to its environment rather than inferred from behind a statistical boundary.
 
-**Critiques of the Markov-blanket formalism.** Bruineberg, Kiverstein, and Raja (2022) argue that Friston-style Markov blankets conflate a statistical tool—Pearl blankets, defined over probability distributions—with a claim about actual organismic boundaries. On their critique, the mathematical structure does not by itself identify any real partition in brains or bodies, and the inference from "there exists a Markov blanket over these variables" to "the organism is epistemically isolated from the world" is illicit. Kirchhoff and colleagues dispute this, but the debate is live rather than closed.
+**Critiques of the Markov-blanket formalism.** Bruineberg, Kiverstein, and Raja (2022) argue that Friston-style Markov blankets conflate a statistical tool (Pearl blankets, defined over probability distributions) with a claim about actual organismic boundaries: the mathematical structure does not by itself identify any real partition in brains or bodies, and the inference from "there exists a Markov blanket over these variables" to "the organism is epistemically isolated from the world" is illicit. Kirchhoff and colleagues dispute this; the debate is live.
 
 The Map does not claim independent evidence that predictive processing is correct. The claim is the conditional one: *if* the framework is broadly right, this void is among its structural implications, and dualist metaphysics inherits additional opacity on top of the construction problem. The force of the argument tracks the force of the framework. Under direct-perception or enactivist alternatives, much of this article's analysis would need reconstruction on different foundations—or would not apply at all.
 
@@ -127,6 +129,8 @@ This is a falsifiability risk, not only a feature. Treating first-person opacity
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive processing reinterpreted for dualist frameworks
 - [dualist-perception](/topics/dualist-perception/) — How dualism reshapes the philosophy of perception
 - [self-opacity](/voids/self-opacity/) — The inability to observe one's own cognitive mechanisms
+- [mood-void](/voids/mood-void/) — The same self-erasing structure in the affective register: mood as the disclosive medium that disappears into what it discloses
+- [mutation-void](/voids/mutation-void/) — Inspection-induced transformation, the mechanism by which auditing prediction perturbs what is being audited
 
 ## References
 
