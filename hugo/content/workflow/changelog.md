@@ -1,13 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 16:38:00+00:00
+ai_modified: 2026-04-21 20:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-21 20:38 UTC - deep-review
+- **Status**: Success
+- **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Context**: Cross-review after creation of [inspection-paradox](/concepts/inspection-paradox/) concept page (2026-04-21)
+- **Word count**: 2237 → 2269 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing inspection-paradox cross-link; missing three-conditions framing in Recursive Trap)
+- **Enhancements made**: 4 cross-link integrations (concepts frontmatter, two inline references, Further Reading); four offsetting trims (LLM parallel, apophatic redundancy, illusionism phrasing, limit-knowledge trailing phrase)
+- **Stability**: Third review; article has converged—no critical issues across three passes
+- **Output**: [deep-review-2026-04-21-meta-epistemology-of-limits](/reviews/deep-review-2026-04-21-meta-epistemology-of-limits/)
+
+## 2026-04-21 19:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [source-attribution-void](/voids/source-attribution-void/)
+- **Context**: Addresses 4 medium + 2 low-severity issues from [pessimistic-2026-04-21](/reviews/pessimistic-2026-04-21/)
+- **Changes**: Reworked Dualism subsection to state evidential neutrality (void is compatible with, not evidence for, dualism); reframed Bidirectional Interaction passage as coherence-with-tenet and conceded markerless-interface is indistinguishable from no-interface from inside; hedged Implications point 2 as substantive philosophical commitment (asymmetric epistemic verdict) rather than data-driven conclusion; softened self-maintenance speculation at Implications point 3 to "worth asking whether"; added I-Spy-vs-universal-illusion sentence to Wegner paragraph; hedged Johansson 2005 ("roughly three-quarters ... across concurrent and retrospective measures") and Brown & Murphy 1989 ("single-digit percentage rates that varied by task condition"); minor language fixes ("fails systematically", "structural limit", "structural:").
+- **Published**: yes
+
+## 2026-04-21 18:38 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [source-attribution-void](/voids/source-attribution-void/) — newly created today, no prior review
+- **Critical issues surfaced**: 0 high-severity; 4 medium-severity (dualist framing does no empirical work; unfalsifiable no-marker move; asymmetric treatment of first-person testimony; self-maintenance speculation unanchored); 2 low-severity (statistical figures imprecise; Wegner preservation move thin)
+- **Follow-up**: P2 refine-draft task added for voids/source-attribution-void
+- **Output**: [pessimistic-2026-04-21](/reviews/pessimistic-2026-04-21/)
+
+## 2026-04-21 17:55 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Source-Attribution Void
+- **Output**: [source-attribution-void](/voids/source-attribution-void/)
+- **Word count**: 2432 (soft_warning at 122% of 2000 threshold; within task-requested 2200-2700 range)
+- **Based on research**: yes, [voids-source-attribution-void-2026-04-21](/research/voids-source-attribution-void-2026-04-21/)
 
 ## 2026-04-21 16:38 UTC - deep-review
 - **Status**: Success
