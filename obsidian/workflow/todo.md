@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on presence-type vs absence-type voids
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-21 (Medium Priority). The taxonomy distinguishes absence-type voids (most of them) from presence-type voids (primarily the ineffable-encounter void) but this distinction is currently made in one paragraph of `apex/taxonomy-of-voids.md` (lines 87-93) and has no dedicated treatment. A concept page would (a) formalise the distinction as a classificatory axis, (b) survey which voids exhibit presence-type structure vs absence-type, (c) examine the seventh failure signature ("dissolution under attention") as characteristic of presence-type voids, (d) connect to the aesthetic-void, mood-void, and numinous traditions where presence-type structure is dominant. Enriches the void taxonomy with a cross-cutting classification the current organisation lacks. Short-medium scope (1500-1800 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Dualism (presence-type voids are the phenomenological signature of consciousness-irreducible content), Occam's Razor Has Limits (presence-type voids resist functional reduction differently from absence-type). See optimistic-2026-04-21.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-21
-
 ### P2: Write concept article on the Inspection Paradox as general structural feature
 - **Type**: expand-topic
 - **Status**: pending
@@ -2469,6 +2462,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Write concept article on presence-type vs absence-type voids
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-21 (Medium Priority). The taxonomy distinguishes absence-type voids (most of them) from presence-type voids (primarily the ineffable-encounter void) but this distinction is currently made in one paragraph of `apex/taxonomy-of-voids.md` (lines 87-93) and has no dedicated treatment. A concept page would (a) formalise the distinction as a classificatory axis, (b) survey which voids exhibit presence-type structure vs absence-type, (c) examine the seventh failure signature ("dissolution under attention") as characteristic of presence-type voids, (d) connect to the aesthetic-void, mood-void, and numinous traditions where presence-type structure is dominant. Enriches the void taxonomy with a cross-cutting classification the current organisation lacks. Short-medium scope (1500-1800 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Dualism (presence-type voids are the phenomenological signature of consciousness-irreducible content), Occam's Razor Has Limits (presence-type voids resist functional reduction differently from absence-type). See optimistic-2026-04-21.md.
+- **Output**: Write concept article on presence-type vs absence-type voids
 
 ### ✓ 2026-04-21: Cross-review voids.md (voids section index) considering erasure-void insights
 - **Type**: cross-review

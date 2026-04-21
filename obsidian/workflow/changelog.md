@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 01:38:00+00:00
+ai_modified: 2026-04-21 02:47:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 02:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Presence-type vs absence-type voids (concept article)
+- **Output**: [[concepts/presence-type-and-absence-type-voids]]
+- **Word count**: 1547
+- **Based on research**: no (source material: apex/taxonomy-of-voids.md lines 87-93, 117)
 
 ## 2026-04-21 01:38 UTC - deep-review
 - **Status**: Success
