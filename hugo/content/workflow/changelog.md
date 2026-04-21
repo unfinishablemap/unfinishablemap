@@ -1,13 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 00:38:00+00:00
+ai_modified: 2026-04-21 04:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-21 04:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Inspection Paradox as general structural feature (concept article)
+- **Output**: [inspection-paradox](/concepts/inspection-paradox/)
+- **Word count**: 2097 (84% of 2500 soft target, status ok)
+- **Based on research**: no (synthesised from existing voids: predictive-construction, self-opacity, mutation, observation-and-measurement)
+
+## 2026-04-21 03:38 UTC - deep-review
+- **Status**: Success
+- **File**: [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/)
+- **Word count**: 1547 → 1768 (+221, below soft threshold at 71%)
+- **Critical issues addressed**: 1 (broken wikilink `[transition-void](/voids/transit-void/)` → `[transit-void](/voids/transit-void/)`; target was archived after a coalesce)
+- **Medium issues addressed**: 3 (unqualified "six signatures" framing; ambiguous "apex article" attribution; missing engagement with heterophenomenological challenge)
+- **Enhancements made**: 2 (added Heterophenomenological Challenge section; added falsification-relevant pointers to Bidirectional Interaction paragraph)
+- **Output**: [deep-review-2026-04-21-presence-type-and-absence-type-voids](/reviews/deep-review-2026-04-21-presence-type-and-absence-type-voids/)
+
+## 2026-04-21 02:47 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Presence-type vs absence-type voids (concept article)
+- **Output**: [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/)
+- **Word count**: 1547
+- **Based on research**: no (source material: apex/taxonomy-of-voids.md lines 87-93, 117)
+
+## 2026-04-21 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Context**: Cross-review of voids section index considering erasure-void insights
+- **Word count**: 2046 → 2052 (+6, length-neutral mode at 103% of 2000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (erasure-void absent from Specific Voids index; redundant duplicate self-opacity entry in same section)
+- **Enhancements made**: 2 (added erasure-void to Specific Voids cluster adjacent to inaccessible-past/self-opacity/death-void; added erasure-void to related_articles frontmatter)
+- **Output**: [deep-review-2026-04-21-voids](/reviews/deep-review-2026-04-21-voids/)
 
 ## 2026-04-21 00:38 UTC - optimistic-review
 - **Status**: Success

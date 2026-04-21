@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 21:38:00+00:00
+ai_modified: 2026-04-21 02:41:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write concept article on Metacognitive Monitoring Architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (Ideas for Later, flagged as load-bearing). `voids/erasure-void.md` lines 37-43 articulate a three-step metacognitive architecture (expectation, comparison, judgement) that is load-bearing for the erasure-void argument and increasingly referenced across the voids cluster, but has no dedicated treatment on the Map. Distinct from the existing `concepts/metacognition.md` — this would focus on the *architectural* decomposition and its failure modes rather than metacognition as a general capacity. Article would (a) specify the three steps and their distinct functional roles, (b) map each step's characteristic failure modes onto clinical syndromes (anosognosia for hemiplegia, confabulation, selective unawareness), (c) connect to the erasure-void, self-opacity, and phenomenology-of-agency-vs-passivity, (d) treat the architecture as the concrete substrate behind "necessary opacity" claims. Short-medium scope (1800-2200 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Dualism (the architecture is a limit-revealing case), Occam's Razor Has Limits. See optimistic-2026-04-21.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
 
 ### P3: Write concept article on The Double Veil as dualist epistemology
 - **Type**: expand-topic
@@ -2441,12 +2448,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review voids.md (voids section index) considering erasure-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [voids](/voids/) among its related_articles but the voids section index has no inbound link to erasure-void. The voids index is a primary navigation surface and needs to enumerate erasure-void alongside the other cartographic entries. Cross-review should (a) add erasure-void to the index's running catalogue with a short descriptive gloss, (b) place it in a sensible cluster (with the metacognitive/introspective voids — self-opacity, inaccessible-past, intrinsic-nature-void — rather than phenomenal absences), (c) check whether the index's introductory framing needs any update to accommodate "voids that erase their own evidence" as a structural category, (d) verify that terminology is consistent across the index and the new article (monitoring system, metacognitive architecture, selective destruction). See voids/erasure-void.md.
-- **Source**: chain (from erasure-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review necessary-opacity.md considering erasure-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/erasure-void.md (created 2026-04-20) is conceptually adjacent to necessary-opacity: both concern structural impossibilities of self-transparency rather than contingent cognitive limits. Erasure-void lists [necessary-opacity](/voids/necessary-opacity/) in its related_articles but necessary-opacity.md has no inbound link to erasure-void. Cross-review should (a) add the inbound link where necessary-opacity discusses architectural reasons monitoring fails (the erasure-void's "the monitoring system is co-located with the monitored faculties" is a paradigm case of necessary opacity), (b) check whether necessary-opacity's treatment of "opacity that follows from architecture" can be strengthened by citing the anosognosia material, (c) consider whether the compound phenomenon — monitoring failure co-occurring with capacity loss — adds a sharper case than necessary-opacity currently provides, (d) verify terminology consistency (necessary-opacity uses "constitutive," "architectural"; erasure-void uses "metacognitive architecture," "monitoring system" — align if drift exists), (e) note that there is an existing P3 task to cross-review necessary-opacity against predictive-construction-void insights; these two cross-reviews can be handled in sequence or combined if the reviewer sees overlap. See voids/erasure-void.md.
@@ -2455,6 +2456,21 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Write concept article on the Inspection Paradox as general structural feature
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-21 (Medium Priority). The "inspection paradox" — that examining the apparatus requires using it — appears across multiple voids (predictive-construction-void lines 47-48, self-opacity, observation-and-measurement-void, mutation-void) but is currently treated as an instance-specific problem rather than a general structural feature. A concept page would (a) identify the common structural pattern, (b) survey its instantiations across the void catalogue, (c) distinguish weak forms (using the apparatus but not transforming it) from strong forms (using transforms what is measured), (d) connect to the quantum measurement problem structurally. Consolidates material currently scattered across articles. Medium scope (1800-2200 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Minimal Quantum Interaction (observer-participancy theme), Dualism (inspection paradox is a structural signature of subject-object identity at the interface). See optimistic-2026-04-21.md.
+- **Output**: Write concept article on the Inspection Paradox as general structural feature
+
+### ✓ 2026-04-21: Write concept article on presence-type vs absence-type voids
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-21 (Medium Priority). The taxonomy distinguishes absence-type voids (most of them) from presence-type voids (primarily the ineffable-encounter void) but this distinction is currently made in one paragraph of `apex/taxonomy-of-voids.md` (lines 87-93) and has no dedicated treatment. A concept page would (a) formalise the distinction as a classificatory axis, (b) survey which voids exhibit presence-type structure vs absence-type, (c) examine the seventh failure signature ("dissolution under attention") as characteristic of presence-type voids, (d) connect to the aesthetic-void, mood-void, and numinous traditions where presence-type structure is dominant. Enriches the void taxonomy with a cross-cutting classification the current organisation lacks. Short-medium scope (1500-1800 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Dualism (presence-type voids are the phenomenological signature of consciousness-irreducible content), Occam's Razor Has Limits (presence-type voids resist functional reduction differently from absence-type). See optimistic-2026-04-21.md.
+- **Output**: Write concept article on presence-type vs absence-type voids
+
+### ✓ 2026-04-21: Cross-review voids.md (voids section index) considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [voids](/voids/) among its related_articles but the voids section index has no inbound link to erasure-void. The voids index is a primary navigation surface and needs to enumerate erasure-void alongside the other cartographic entries. Cross-review should (a) add erasure-void to the index's running catalogue with a short descriptive gloss, (b) place it in a sensible cluster (with the metacognitive/introspective voids — self-opacity, inaccessible-past, intrinsic-nature-void — rather than phenomenal absences), (c) check whether the index's introductory framing needs any update to accommodate "voids that erase their own evidence" as a structural category, (d) verify that terminology is consistent across the index and the new article (monitoring system, metacognitive architecture, selective destruction). See voids/erasure-void.md.
+- **Output**: obsidian/voids/voids.md -- Context: Cross-review voids.md (voids section index) considering erasure-void insights
 
 ### ✓ 2026-04-20: Cross-review taxonomy-of-voids.md considering erasure-void insights
 - **Type**: cross-review

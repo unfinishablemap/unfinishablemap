@@ -1,21 +1,21 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-21 01:38:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-02-02
+date: &id001 2026-04-21
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
 draft: false
 human_modified: 2026-01-08
 last_curated: null
-last_deep_review: 2026-03-30 21:39:00+00:00
+last_deep_review: 2026-04-21 01:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -26,6 +26,7 @@ related_articles:
 - '[[compound-failure-signatures]]'
 - '[[attention-and-consciousness]]'
 - '[[voids-between-minds]]'
+- '[[erasure-void]]'
 title: Voids in the Map
 topics: []
 ---
@@ -88,12 +89,12 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Normative Void](/voids/normative-void/) — Moral truths beyond human cognitive reach
 - [The Inaccessible Past](/voids/inaccessible-past/) — Why past conscious states cannot be re-entered, only reconstructed
 - [The Unobservable Self](/voids/self-opacity/) — The subject that cannot be its own object
+- [The Erasure Void](/voids/erasure-void/) — Why consciousness cannot inventory its own deletions: lost capacities take their detection mechanisms with them
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — Where consciousness goes during deep sleep
 - [The Intentionality Void](/voids/intentionality-void/) — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
 - [The Creativity Void](/voids/imagination-and-creativity-void/) — Where creative insight originates, inaccessible to introspection
 - [The Aesthetic Void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
-- [The Self-Reference Paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
 - [The Dream Consciousness Void](/voids/sleep-consciousness-void/) — Bidirectional inaccessibility between waking and dreaming
 - [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
