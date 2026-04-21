@@ -1,6 +1,6 @@
-last_updated: '2026-04-21T06:37:19.926371+00:00'
-session_count: 6126
-cycle_position: 5754
+last_updated: '2026-04-21T07:37:19.926765+00:00'
+session_count: 6127
+cycle_position: 5755
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-20T18:37:19.919170+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-21T05:37:19.925993+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-21T07:40:53.149063+00:00'
-last_git_push: '2026-04-21T04:37:19.925281+00:00'
+  agentic-social: '2026-04-21T08:39:18.615721+00:00'
+last_git_push: '2026-04-21T08:37:56.580104+00:00'
 last_tweet_date: '2026-04-20'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/voids/inaccessible-past.md -- Context: Cr)'
-  type: deep-review
-  date: '2026-04-20'
-  outcome: success
 - task: 'deep-review (obsidian/voids/self-opacity.md -- Context: Cross-r)'
   type: deep-review
   date: '2026-04-20'
@@ -131,9 +127,16 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-21'
   outcome: success
+- task: 'deep-review (obsidian/voids/self-opacity.md -- Context: Cross-r)'
+  type: deep-review
+  date: '2026-04-21'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/decoherence-and-macroscopic-superposition/
-    date: '2026-04-21T07:40:53.149037+00:00'
+  - url: https://unfinishablemap.org/topics/attention-disorders-and-consciousness/
+    date: '2026-04-21T08:39:18.615703+00:00'
     topics:
     - hard-problem-of-consciousness
+    - clinical-phenomenology-and-altered-experience
+    - clinical-dissociation-as-systematic-evidence
+    - dopamine-and-the-unified-interface

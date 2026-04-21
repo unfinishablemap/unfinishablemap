@@ -4,7 +4,8 @@ description: "Examining the apparatus requires using it. This concept names the 
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-21T04:38:00+00:00
+ai_modified: 2026-04-21T08:39:00+00:00
+last_deep_review: 2026-04-21T08:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +18,7 @@ concepts:
   - "[[observational-closure]]"
   - "[[measurement-problem]]"
   - "[[phenomenology]]"
+  - "[[mysterianism]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -58,7 +60,7 @@ The inspection paradox admits a principled distinction by whether inspection lea
 
 **Weak form.** The apparatus is used to examine itself or its products, but use does not transform the state under examination. The difficulty is purely epistemic: any validation of the apparatus' reliability must invoke the apparatus. Alston's treatment of perceptual circularity is paradigmatic—checking whether perception is reliable requires perceiving. The circle is tight but benign where the object is publicly accessible, because multiple observers can triangulate. Where the object is not publicly accessible, benignity fails and the circle bites.
 
-Examples: validating introspective reliability via introspection; assessing whether one's reasoning faculty reaches sound conclusions by reasoning about it; auditing the reliability of memory through memory. In each case the state of the apparatus survives the audit; only the audit's epistemic standing is compromised.
+Examples: validating introspective reliability via introspection; assessing whether one's reasoning faculty reaches sound conclusions by reasoning about it; auditing the reliability of memory through memory. In each case the state of the apparatus survives the audit; only the audit's epistemic standing is compromised. Schwitzgebel (2008) provides empirical sharpening: experimental probes of naive introspection find systematic error even on basic questions such as whether one is currently experiencing visual imagery, yet the errors are invisible from within because introspection is the only tool available to check itself.
 
 **Strong form.** Using the apparatus transforms what is measured. The act of inspection is not neutral with respect to its object; examining changes the state examined. The [[mutation-void]] catalogues several classes: pre-attentive experience changes character when attention selects it; spontaneous emotion becomes compound emotion-plus-awareness; mental emptiness fills as soon as it is noticed. Brentano's paradox is a strong-form case: attention to inner states does not merely risk incorrect reports but constitutively alters the target.
 
@@ -70,7 +72,7 @@ A third gradient sits between weak and strong: **irrecoverably-conditioned inspe
 
 The same structural shape recurs in multiple voids, each supplying a different physical or phenomenological substrate to the common pattern.
 
-**The predictive construction void.** Any attempt to examine whether a given experience is perception or prediction must use the same predictive apparatus under investigation. The instrument and the object of measurement are identical, because embedded cognition has no outside vantage from which to audit the apparatus. Where the inspection still proceeds, it risks mutating what it inspects: the predictive setting under examination is itself updated by the act of attending to it, moving the weak form toward the strong.
+**The predictive construction void.** Any attempt to examine whether a given experience is perception or prediction must use the same predictive apparatus under investigation. The instrument and the object of measurement are identical, because embedded cognition has no outside vantage from which to audit the apparatus. Where the inspection still proceeds, it risks mutating what it inspects: the predictive setting under examination is itself updated by the act of attending to it, moving the weak form toward the strong. The Markov-blanket formalism (Kirchhoff et al. 2018) makes the architectural point explicit: a system's inferential states are statistically sealed from the states it models, so any self-audit is itself an inference drawn through the same blanket.
 
 **Self-opacity.** The observer cannot observe itself observing. Wittgenstein's image of the eye that cannot appear in the visual field captures the geometry: the subject is the limit of the experiential field, not an item within it. Every attempt to place the observer inside its own field of attention yields contents that belong to the observer, never the observer as-observing. [[self-opacity]] identifies this as a convergence point for six thinkers (Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker) who share almost no premises.
 
@@ -102,7 +104,7 @@ A common materialist reply treats all four instantiations above as artefacts of 
 
 The inspection paradox resists this dissolution for a structural reason: no improved apparatus can be external to its object when the object is or constitutes the apparatus. Three considerations sharpen the point.
 
-**Third-person displacement is not dissolution.** Brain imaging, behavioural triangulation, and cross-observer comparison do genuine work, but they relocate the inspection site rather than escape it. To interpret a neural correlate *as* a correlate of conscious experience, the interpreter must at some point deploy introspection—the identification of what the correlate is supposed to correlate *with* remains an inspection act.
+**Third-person displacement is not dissolution.** Brain imaging, behavioural triangulation, and cross-observer comparison do genuine work, but they relocate the inspection site rather than escape it. Dennett's heterophenomenology is the most disciplined form of the displacement move: treat introspective reports as verbal output to be modelled third-personally, and the paradox allegedly dissolves. It does not. To interpret a neural correlate—or a verbal report—*as* a correlate of conscious experience, the interpreter must at some point deploy introspection: the identification of what the correlate is supposed to correlate *with* remains an inspection act. The heterophenomenologist has relocated the paradox to the interpreter, not removed it.
 
 **AI introspection inherits the paradox.** A sufficiently self-representing artificial system faces the same structural feature, though possibly in attenuated form. Whether a system's self-model corresponds to its actual states cannot be fully checked from inside the system.
 
@@ -134,6 +136,7 @@ The paradox does not, by itself, prove any tenet. It does less ambitious work: i
 - [[limits-reveal-structure]] — The framing thesis: cognitive limits carve out architecture
 - [[boundary-and-projection]] — The outward analogue: projective mechanisms hidden from the consciousness using them
 - [[apophatic-approaches]] — Knowing through negation, the methodological response to the inspection paradox
+- [[mysterianism]] — McGinn's cognitive-closure thesis; the inspection paradox supplies a specific structural reason that consciousness may be closed to the minds investigating it
 
 ## References
 
