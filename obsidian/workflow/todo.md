@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Write voids article on the Source-Attribution Void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed today in research/voids-source-attribution-void-2026-04-21.md. The void names the structural impossibility of reliably tracing which contents of consciousness originate internally (self-generated thought, imagination, memory) vs externally (perception, communication, cultural absorption). Distinct from self-opacity (inaccessibility of the generating machinery) and predictive-construction-void (the constructed nature of perceptual content): source-attribution concerns the tag that marks a content as mine-or-not, self-made-or-received, novel-or-recalled. Clinical demonstrations: schizophrenic thought-insertion, confabulation in split-brain and Korsakoff cases, cryptomnesia (Nietzsche/Helen Keller cases), déjà vu, involuntary musical imagery. Phenomenologically invariant under effort — training does not improve attribution accuracy. Tenet alignment: Dualism (the felt sense of authorship is phenomenologically real yet architecturally unverifiable — an interface feature, not a transparent report of underlying fact), Bidirectional Interaction (self-authorship is a causal claim about origin that the verifying system cannot discharge), Occam's Razor Has Limits (simpler theories identifying thought-origin with neural-origin lose the attribution phenomenon). Target section: voids/ (~93/100, has 7 slots). Scope: 2200-2700 words. Related articles named in research: [[self-opacity]], [[spontaneous-thought-void]], [[narrative-void]], [[interested-party-void]], [[predictive-construction-void]], [[agency-verification-void]]. See /expand-topic skill.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-21
+
+### P2: Cross-review dualism.md considering four-quadrant-dualism-taxonomy insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) lists [[dualism]] among its related_articles and introduces a two-axis framework (mind-side thickness × physical-side thickness) that locates Russellian monism, property dualism, substance dualism, analytic idealism, panpsychism, and delegatory-dualism in specific quadrants. concepts/dualism.md is the Map's core umbrella page for dualist positions and currently treats the variants in an undifferentiated list. Cross-review should (a) add a link to four-quadrant-dualism-taxonomy.md in the section that surveys dualist positions, (b) check whether dualism.md's enumeration of variants can now defer detailed taxonomic discussion to the new article, (c) verify terminology aligns (mind-side thickness, physical-side thickness, minimalist vs maximalist), (d) look for places where dualism.md makes taxonomic claims (e.g. treating substance and property dualism as the main division) that the new four-quadrant view would refine, (e) ensure the Map's own delegatory-dualism commitment is coherently positioned across the two articles. Log findings even if no edits are made. See topics/four-quadrant-dualism-taxonomy.md.
+- **Source**: chain (from four-quadrant-dualism-taxonomy.md)
+- **Generated**: 2026-04-21
+
+### P2: Cross-review meta-epistemology-of-limits.md considering inspection-paradox insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/inspection-paradox.md (created 2026-04-21) names "examining the apparatus requires using it" as the general structural feature recurring across the Map's voids and introduces a weak/strong form distinction (weak: use leaves the apparatus intact; strong: use transforms what is measured). concepts/meta-epistemology-of-limits.md is the closest methodological sibling — it houses the representational/psychological closure distinction and is the natural upstream anchor for the inspection-paradox family. Cross-review should (a) add an inbound link where the inspection paradox is relevant to limit-epistemology, (b) check whether meta-epistemology-of-limits.md's treatment of closure types can now lean on inspection-paradox as the generative structural feature, (c) verify terminology alignment (both articles handle "closure," "apparatus," "inspection" — do they use these consistently?), (d) identify any tension or redundancy between the two articles' framings, (e) consider whether any of meta-epistemology-of-limits' generalisations would be sharper expressed as instances of inspection-paradox's weak/strong forms. Log findings even if no edits are made. See concepts/inspection-paradox.md.
+- **Source**: chain (from inspection-paradox.md)
+- **Generated**: 2026-04-21
+
+### P2: Cross-review three-kinds-of-void.md considering presence-type-and-absence-type-voids insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article concepts/presence-type-and-absence-type-voids.md (created 2026-04-21) introduces a cross-cutting classificatory axis — voids defined by what consciousness lacks vs voids defined by an excess overwhelming the apparatus designed to handle it — and lists [[three-kinds-of-void]] among its related_articles. The existing three-kinds-of-void taxonomy treats voids along a different partition (generative / boundary / compound or similar) and does not yet engage the presence/absence axis. (Note: a P3 "refine-draft" task from 2026-03-24 exists to revise three-kinds-of-void with the absence/presence distinction; this cross-review supersedes and sharpens it now that a concept-level anchor exists.) Cross-review should (a) add an inbound link to presence-type-and-absence-type-voids.md where the taxonomy is presented, (b) check whether the three-kinds partition and the presence/absence axis are orthogonal, nested, or in tension, (c) integrate the cross-cutting axis explicitly rather than restating it, (d) verify terminology alignment across both articles, (e) ensure no void is mis-classified under the older partition once the new axis is visible. Log findings even if no edits are made. See concepts/presence-type-and-absence-type-voids.md.
+- **Source**: chain (from presence-type-and-absence-type-voids.md)
+- **Generated**: 2026-04-21
+
 ### P3: Write concept article on The Double Veil as dualist epistemology
 - **Type**: expand-topic
 - **Status**: pending
