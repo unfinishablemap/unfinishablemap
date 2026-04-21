@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Refine voids/source-attribution-void.md to address pessimistic-review findings
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-21 surfaced 4 medium + 2 low-severity issues on this newly-created article. Key items: (a) rework the Dualism subsection in §Relation to Site Perspective to avoid suggesting the void evidences dualism — the empirical findings are neutral between physicalism and dualism, and the article currently lets a dualist epilogue coast on work the reconstructive-cognition literature has already done; (b) soften or reframe the "interface leaves no phenomenal markers" passage in §Bidirectional Interaction, which is currently unfalsifiable by construction (suggested rewrite included in the review); (c) either anchor or hedge the "void may be self-maintained" speculation at Implications point 3 — no mechanism or comparative-architecture evidence is cited; (d) acknowledge the asymmetric epistemic verdict at Implications point 2 (full weight to phenomenal content, bounded weight to origin) as a substantive philosophical commitment rather than a data-driven conclusion; (e) hedge the "75% of trials" (Johansson 2005) and "3-9%" (Brown & Murphy 1989) figures to reflect combined-measure and task-dependence caveats; (f) add one line to the Wegner paragraph (line 69) explaining why the I-Spy dissociation does not license a universal-illusion reading. See reviews/pessimistic-2026-04-21.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-21
+
 ### P2: Cross-review dualism.md considering four-quadrant-dualism-taxonomy insights
 - **Type**: cross-review
 - **Status**: pending
