@@ -59,7 +59,7 @@ None. No factual errors, attribution errors, dropped qualifiers, internal contra
 - Changed "no such explanation exists" to "no such explanation has succeeded"
 
 ### Cross-links Added
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — linked in Gertler acquaintance discussion
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — linked in Gertler acquaintance discussion
 - [self-stultification](/concepts/self-stultification/) — linked in self-defeat argument
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — linked in new contemplative phenomenology paragraph
 - [introspection-rehabilitation](/topics/epistemology-of-introspection-and-calibration/) — linked in new contemplative paragraph and Further Reading

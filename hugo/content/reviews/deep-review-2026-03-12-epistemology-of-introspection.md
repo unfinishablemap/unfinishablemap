@@ -58,7 +58,7 @@ All six pessimistic personas engaged. No new critical objections beyond those ad
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/)
 - [knowledge-argument](/concepts/knowledge-argument/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/)
@@ -76,7 +76,7 @@ All six pessimistic personas engaged. No new critical objections beyond those ad
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
 - [first-person-third-person-methodology](/topics/methodology-of-consciousness-research/)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/)
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/)
 
 ## Remaining Items
 

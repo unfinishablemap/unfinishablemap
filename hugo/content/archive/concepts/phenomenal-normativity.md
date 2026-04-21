@@ -65,7 +65,7 @@ This identity claim is stronger than typical hedonism. Hedonists often argue ple
 
 ### Direct Acquaintance with Value
 
-The case builds on [knowledge by acquaintance](/concepts/acquaintance-knowledge/). We don't know pain is bad through inference—we are directly acquainted with its badness in experience. The [knowledge-argument](/concepts/knowledge-argument/) establishes that phenomenal knowledge exceeds physical description. Phenomenal normativity extends this: normative knowledge, at least concerning hedonic value, also exceeds description.
+The case builds on [knowledge by acquaintance](/concepts/phenomenal-acquaintance/). We don't know pain is bad through inference—we are directly acquainted with its badness in experience. The [knowledge-argument](/concepts/knowledge-argument/) establishes that phenomenal knowledge exceeds physical description. Phenomenal normativity extends this: normative knowledge, at least concerning hedonic value, also exceeds description.
 
 Unlike the water-H₂O identity (discovered empirically), we have direct access to both relata. When experiencing pleasure, the goodness appears inseparable from the experience itself—the pleasure doesn't *cause* or *indicate* goodness; attending to the pleasure just is attending to something good. And once you fully attend to what pleasure feels like, there's no residual question "but why is this good?"—echoing Moore's open question test (Moore 1903), but grounded in phenomenological acquaintance rather than conceptual analysis. The question loses its force because the goodness is constitutive of what you're attending to.
 

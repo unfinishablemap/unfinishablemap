@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-03-28 00:14:00+00:00
+ai_modified: 2026-04-21 06:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[knowledge-argument]]'
 - '[[mysterianism]]'
 - '[[metacognition]]'
-- '[[acquaintance-knowledge]]'
+- '[[phenomenal-acquaintance]]'
 - '[[contemplative-epistemology]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-03-25
@@ -57,7 +57,7 @@ The Map recognises two fundamentally different ways of knowing about consciousne
 
 **Third-person epistemology** — the standard scientific approach — yields knowledge through observation, measurement, and inference. Neuroscience, behavioural psychology, and computational modelling operate here. This channel excels at identifying neural correlates, mapping functional relationships, and building predictive models. It fails at a specific point: explaining why any physical process is accompanied by experience rather than proceeding "in the dark."
 
-**First-person epistemology** — [introspection](/concepts/introspection/), [phenomenological report](/concepts/phenomenological-evidence/), and contemplative inquiry — yields knowledge through direct [acquaintance](/concepts/acquaintance-knowledge/) with experience. This channel provides the primary data that consciousness science seeks to explain. [Phenomenological evidence](/concepts/phenomenological-evidence/) is not merely anecdotal colour added to the real science; it constitutes the explanandum itself. Without first-person reports, there would be no consciousness problem to solve.
+**First-person epistemology** — [introspection](/concepts/introspection/), [phenomenological report](/concepts/phenomenological-evidence/), and contemplative inquiry — yields knowledge through direct [acquaintance](/concepts/phenomenal-acquaintance/) with experience. This channel provides the primary data that consciousness science seeks to explain. [Phenomenological evidence](/concepts/phenomenological-evidence/) is not merely anecdotal colour added to the real science; it constitutes the explanandum itself. Without first-person reports, there would be no consciousness problem to solve.
 
 The tension between these channels is not resolvable by subordinating one to the other. Third-person methods cannot access the qualitative character of experience. [Heterophenomenology](/concepts/heterophenomenology/) disputes this, arguing that third-person methods can take first-person reports seriously without granting them infallibility — though this approach arguably reduces first-person data to behavioural evidence. First-person methods cannot establish the physical mechanisms underlying experience.
 
@@ -91,7 +91,7 @@ Fifth, the [philosophy of science itself requires revision](/concepts/philosophy
 
 The Map's fifth tenet — [Occam's Razor Has Limits](/tenets/#occams-limits) — is an epistemological claim about the reliability of our simplicity intuitions. It does not counsel blanket scepticism but targeted humility: when our conceptual tools may be inadequate to the domain, we should not mistake our inability to conceive of a solution for evidence that no solution exists. [Mysterianism](/concepts/mysterianism/) takes this further, arguing that some aspects of the mind-body relation may exceed human cognitive capacity entirely.
 
-But epistemic humility has limits of its own. The Map does not treat all positions as equally uncertain. Some claims — that consciousness exists, that it has qualitative character, that it is not identical to any third-person description — are warranted by direct [acquaintance](/concepts/acquaintance-knowledge/). Epistemological modesty about mechanisms does not require agnosticism about phenomena. The challenge is calibrating confidence correctly: certain about the existence and character of experience, modest about the mechanisms connecting it to the physical world, and sceptical about arguments that rely on unexamined epistemic assumptions.
+But epistemic humility has limits of its own. The Map does not treat all positions as equally uncertain. Some claims — that consciousness exists, that it has qualitative character, that it is not identical to any third-person description — are warranted by direct [acquaintance](/concepts/phenomenal-acquaintance/). Epistemological modesty about mechanisms does not require agnosticism about phenomena. The challenge is calibrating confidence correctly: certain about the existence and character of experience, modest about the mechanisms connecting it to the physical world, and sceptical about arguments that rely on unexamined epistemic assumptions.
 
 ## Relation to Site Perspective
 

@@ -140,7 +140,7 @@ The substrate-independence of aesthetic experience aligns with the Map's [founda
 - [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [knowledge-argument](/concepts/knowledge-argument/) — Why phenomenal facts exceed physical facts
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience
 
 ## References
 

@@ -1,12 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-18 03:19:00+00:00
+ai_modified: 2026-04-21 06:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[qualia]]'
-- '[[acquaintance-knowledge]]'
+- '[[phenomenal-acquaintance]]'
 created: 2026-04-17
 date: &id001 2026-04-18
 description: Human+AI exploration of the cognitive void opened by choices whose outcomes

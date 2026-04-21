@@ -55,7 +55,7 @@ When you report that you are in pain, that report carries a distinctive epistemi
 
 No serious philosopher defends infallibility—the claim that first-person reports about experience are immune to error. The interesting positions occupy a spectrum between two poles: near-incorrigibility for the existence of experience and radical scepticism about what introspection reveals.
 
-**Strong authority (acquaintance-based).** Chalmers argues that we stand in a basic epistemic relation of *acquaintance* with phenomenal states. Direct phenomenal concepts have their content partially constituted by the phenomenal quality itself—the concept of *this redness* is partly made of the redness it represents (Chalmers 2003). This grounds a robust but non-infallible authority: you can be wrong about the structural features of your experience while being right that experience exists and has qualitative character. Russell's original distinction between [knowledge by acquaintance and knowledge by description](/concepts/acquaintance-knowledge/) is the template: acquaintance provides direct, non-inferential epistemic contact that description cannot replicate.
+**Strong authority (acquaintance-based).** Chalmers argues that we stand in a basic epistemic relation of *acquaintance* with phenomenal states. Direct phenomenal concepts have their content partially constituted by the phenomenal quality itself—the concept of *this redness* is partly made of the redness it represents (Chalmers 2003). This grounds a robust but non-infallible authority: you can be wrong about the structural features of your experience while being right that experience exists and has qualitative character. Russell's original distinction between [knowledge by acquaintance and knowledge by description](/concepts/phenomenal-acquaintance/) is the template: acquaintance provides direct, non-inferential epistemic contact that description cannot replicate.
 
 **Moderate authority (privileged access).** Most contemporary epistemologists hold that first-person access is privileged but fallible. Reports deserve a default presumption of truth—a *prima facie* credibility that third-person observations about someone's mental states lack—but this presumption can be overridden by sufficient evidence. This position preserves the asymmetry between self-knowledge and other-knowledge without committing to anything Cartesian.
 
@@ -130,7 +130,7 @@ The methodological choice is not neutral with respect to the mind-body problem. 
 - [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Four models of introspective knowledge and five calibration strategies
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying acquaintance authority
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction between acquaintance and description
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Russell's distinction between acquaintance and description
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's room and the limits of physical knowledge
 - [self-opacity](/voids/self-opacity/) — Where introspective access fails structurally
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's deflationary methodology

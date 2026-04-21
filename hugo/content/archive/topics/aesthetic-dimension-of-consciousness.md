@@ -239,7 +239,7 @@ The aesthetic dimension of consciousness supports the Map's [foundational commit
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Moral implications of conscious experience
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience
 - [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Substrate independence and formal precision as two-pronged case for irreducibility
 
 ## References

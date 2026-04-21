@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-16
-**Article**: [Acquaintance Knowledge](/concepts/acquaintance-knowledge/)
+**Article**: [Acquaintance Knowledge](/concepts/phenomenal-acquaintance/)
 **Previous review**: [2026-02-15](/reviews/deep-review-2026-02-15-acquaintance-knowledge/)
 
 ## Pessimistic Analysis Summary

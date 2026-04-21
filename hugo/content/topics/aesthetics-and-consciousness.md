@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-17 20:56:00+00:00
+ai_modified: 2026-04-21 06:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -60,7 +60,7 @@ related_articles:
 - '[[emotion-and-dualism]]'
 - '[[modal-structure-of-phenomenal-properties]]'
 - '[[consciousness-value-connection]]'
-- '[[acquaintance-knowledge]]'
+- '[[phenomenal-acquaintance]]'
 - '[[phenomenology-of-musical-understanding]]'
 - '[[the-binding-problem-a-systematic-treatment]]'
 - '[[quantum-holism-and-phenomenal-unity]]'
@@ -165,7 +165,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Experiential evidence for consciousness theories
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — Aesthetic experience guiding scientific theory choice
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Cross-traditional convergence on aesthetic and evaluative qualia, including Indian rasa theory
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [cognitive closure](/concepts/mysterianism/) — Why the structure-experience gap may be permanent

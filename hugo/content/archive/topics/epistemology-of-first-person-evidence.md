@@ -191,7 +191,7 @@ Phenomenological method also faces a self-grounding problem: its evidence standa
 - [introspection](/concepts/introspection/) — Foundational concept article on the reliability debate
 - [phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Russell's distinction and its role in the knowledge argument
 - [self-opacity](/voids/self-opacity/) — Where introspective access fails structurally
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why strict calibration is structurally impossible
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Cross-traditional convergence as methodology

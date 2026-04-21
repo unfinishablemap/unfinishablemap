@@ -110,7 +110,7 @@ This entanglement matters because physicalist strategies for handling qualia and
 
 The distinction matters. An argument for irreducibility targets a specific feature and invites a specific response. A test case presents an integrated phenomenon and challenges any response to handle the whole of it at once. Standard arguments for irreducibility are like asking the physicalist to lift one heavy object at a time. Aesthetic consciousness is like asking the physicalist to lift them all simultaneously while they are chained together.
 
-The test case strategy has a further advantage: it connects irreducibility to something universally recognised. Nearly everyone has been stopped by beauty—caught in a moment where the world showed more than physics describes. The experience carries its own authority, requiring no philosophical training to recognise. Where the knowledge argument relies on a thought experiment and the zombie argument relies on modal intuitions, the aesthetic test case relies on acquaintance. As [acquaintance-knowledge](/concepts/acquaintance-knowledge/) suggests, knowing what beauty is like requires having experienced it, and having experienced it supplies its own evidence for irreducibility.
+The test case strategy has a further advantage: it connects irreducibility to something universally recognised. Nearly everyone has been stopped by beauty—caught in a moment where the world showed more than physics describes. The experience carries its own authority, requiring no philosophical training to recognise. Where the knowledge argument relies on a thought experiment and the zombie argument relies on modal intuitions, the aesthetic test case relies on acquaintance. As [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) suggests, knowing what beauty is like requires having experienced it, and having experienced it supplies its own evidence for irreducibility.
 
 This is not an appeal to popularity or naive realism. It is the observation that aesthetic experience provides pre-theoretical data that any adequate theory of consciousness must accommodate—and that accommodating it requires resources physicalism does not possess.
 
@@ -134,7 +134,7 @@ The Unfinishable Map's [foundational commitments](/tenets/) are illuminated by t
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to phenomenal character
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-21 06:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -14,7 +14,7 @@ concepts:
 - '[[qualia]]'
 - '[[phenomenal-consciousness]]'
 - '[[knowledge-argument]]'
-- '[[acquaintance-knowledge]]'
+- '[[phenomenal-acquaintance]]'
 - '[[concepts/many-worlds]]'
 created: 2026-01-27
 date: &id001 2026-02-13
@@ -66,7 +66,7 @@ Not all indexical knowledge is alike. Drawing on the distinctions in the literat
 
 **Self-locating knowledge** is stronger. Lewis's Two Gods each know every impersonal fact yet cannot determine which god they are. The knowledge "I am the mountain god" cannot be derived from any impersonal description. This is where the distinction between [epistemic and metaphysical theses](#from-epistemic-to-metaphysical) (explained below) becomes critical.
 
-**Phenomenal indexical knowledge** is the strongest grade. Knowing *what it is like* to see red—not that certain wavelengths stimulate certain cones, but the qualitative character of the experience as undergone by *this* subject—resists translation into any impersonal vocabulary. This is what Mary gains when she leaves her black-and-white room in the [knowledge-argument](/concepts/knowledge-argument/). Phenomenal indexical knowledge combines the irreducibility of self-location with the irreducibility of [acquaintance-knowledge](/concepts/acquaintance-knowledge/)—direct experiential contact with qualitative character. It is doubly perspectival: accessible only from a particular subject-position *and* only through having the experience, making it a [consciousness-only territory](/voids/consciousness-only-territories/) inaccessible to systems lacking phenomenal experience.
+**Phenomenal indexical knowledge** is the strongest grade. Knowing *what it is like* to see red—not that certain wavelengths stimulate certain cones, but the qualitative character of the experience as undergone by *this* subject—resists translation into any impersonal vocabulary. This is what Mary gains when she leaves her black-and-white room in the [knowledge-argument](/concepts/knowledge-argument/). Phenomenal indexical knowledge combines the irreducibility of self-location with the irreducibility of [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)—direct experiential contact with qualitative character. It is doubly perspectival: accessible only from a particular subject-position *and* only through having the experience, making it a [consciousness-only territory](/voids/consciousness-only-territories/) inaccessible to systems lacking phenomenal experience.
 
 These grades are cumulative. Phenomenal indexical knowledge includes self-locating knowledge, which in turn includes perspectival knowledge. But each stronger grade adds something the weaker grades lack.
 
@@ -153,7 +153,7 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 - [haecceity](/concepts/haecceity/) — Primitive thisness grounding indexical identity
 - [vertiginous-question](/topics/vertiginous-question/) — Why am I this conscious being?
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical knowledge misses
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Direct experiential contact underlying phenomenal indexical knowledge
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — Direct experiential contact underlying phenomenal indexical knowledge
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories accessible only through experience
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [many-worlds](/concepts/many-worlds/) — Why indexical identity poses problems for branching interpretations

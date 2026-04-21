@@ -35,7 +35,7 @@ None.
    - **Resolution**: Changed to "Buddhist non-conceptual perception (nirvikalpa pratyaksha)" — more precise for the Buddhist epistemological tradition being referenced.
 
 3. **Missing high-value cross-links**: Article discusses embodied cognition, acquaintance knowledge, and contemplative epistemology at length without linking to existing Map articles on these topics.
-   - **Resolution**: Added cross-links to [embodied-cognition](/concepts/embodied-cognition/), [acquaintance-knowledge](/concepts/acquaintance-knowledge/), and [contemplative-epistemology](/concepts/contemplative-epistemology/) in both frontmatter and body text.
+   - **Resolution**: Added cross-links to [embodied-cognition](/concepts/embodied-cognition/), [acquaintance-knowledge](/concepts/phenomenal-acquaintance/), and [contemplative-epistemology](/concepts/contemplative-epistemology/) in both frontmatter and body text.
 
 ### Counterarguments Considered
 
@@ -62,7 +62,7 @@ All six pessimistic personas engaged. Key findings:
 
 1. Fixed Buddhist terminology: "nirvikalpa jnana" → "nirvikalpa pratyaksha"
 2. Added cross-link to [embodied-cognition](/concepts/embodied-cognition/) in prereflective bodily awareness section
-3. Added cross-link to [acquaintance-knowledge](/concepts/acquaintance-knowledge/) in Russell section
+3. Added cross-link to [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) in Russell section
 4. Added cross-link to [contemplative-epistemology](/concepts/contemplative-epistemology/) in contemplative practice section
 5. Removed phantom Evans (1982) citation
 6. Tightened acquaintance section prose to maintain length neutrality
@@ -70,7 +70,7 @@ All six pessimistic personas engaged. Key findings:
 ### Cross-links Added
 
 - [embodied-cognition](/concepts/embodied-cognition/)
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/)
 - [contemplative-epistemology](/concepts/contemplative-epistemology/)
 
 ## Word Count

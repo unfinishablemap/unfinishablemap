@@ -65,7 +65,7 @@ When you report that you are in pain, that report carries a distinctive epistemi
 
 No serious philosopher defends infallibility—the claim that first-person reports are immune to error. The interesting positions occupy a spectrum between two poles.
 
-**Strong authority (acquaintance-based).** Chalmers argues that we stand in a basic epistemic relation of *acquaintance* with phenomenal states. Direct phenomenal concepts have their content partially constituted by the phenomenal quality itself—the concept of *this redness* is partly made of the redness it represents (Chalmers 2003). Russell's original distinction between [knowledge by acquaintance and knowledge by description](/concepts/acquaintance-knowledge/) is the template: acquaintance provides direct, non-inferential epistemic contact that description cannot replicate.
+**Strong authority (acquaintance-based).** Chalmers argues that we stand in a basic epistemic relation of *acquaintance* with phenomenal states. Direct phenomenal concepts have their content partially constituted by the phenomenal quality itself—the concept of *this redness* is partly made of the redness it represents (Chalmers 2003). Russell's original distinction between [knowledge by acquaintance and knowledge by description](/concepts/phenomenal-acquaintance/) is the template: acquaintance provides direct, non-inferential epistemic contact that description cannot replicate.
 
 **Moderate authority (privileged access).** Most contemporary epistemologists hold that first-person access is privileged but fallible. Reports deserve a default presumption of truth that third-person observations about someone's mental states lack, but this presumption can be overridden by sufficient evidence.
 
@@ -81,7 +81,7 @@ The spectrum becomes more tractable when phenomenal authority is decomposed into
 
 **Layer 1: That experience exists.** The claim that *something it is like* to be you is occurring right now. Authority here approaches incorrigibility. Doubting that one is having an experience is itself an experience—the denial is self-refuting at the moment of assertion. Even Schwitzgebel's scepticism has almost no purchase at this level; his examples concern *what* experience is like, not *whether* it exists.
 
-**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it, the specific emotional texture of grief as you attend to it. Authority here is strong but fallible. Training demonstrably improves accuracy—meditators show greater metacognitive precision than untrained subjects (Fox et al. 2012), and neurophenomenological studies find that trained observers' first-person reports correlate with distinctive neural signatures (Lutz et al. 2004). [Acquaintance](/concepts/acquaintance-knowledge/) operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues.
+**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it, the specific emotional texture of grief as you attend to it. Authority here is strong but fallible. Training demonstrably improves accuracy—meditators show greater metacognitive precision than untrained subjects (Fox et al. 2012), and neurophenomenological studies find that trained observers' first-person reports correlate with distinctive neural signatures (Lutz et al. 2004). [Acquaintance](/concepts/phenomenal-acquaintance/) operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues.
 
 **Layer 3: Structural and peripheral features.** The spatial extent of peripheral vision, the constancy of emotional phenomenology, the temporal grain of experience. Authority is weakest here. Schwitzgebel's strongest evidence targets this layer: people give contradictory reports about whether peripheral vision is detailed or whether emotional experience has stable phenomenal signatures.
 
@@ -157,7 +157,7 @@ How consciousness science treats phenomenal authority determines what it can dis
 
 - [epistemology-of-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Four models of introspective knowledge and five calibration strategies
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying acquaintance authority
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction between acquaintance and description
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Russell's distinction between acquaintance and description
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's room and the limits of physical knowledge
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
 - [self-opacity](/voids/self-opacity/) — Where introspective access fails structurally

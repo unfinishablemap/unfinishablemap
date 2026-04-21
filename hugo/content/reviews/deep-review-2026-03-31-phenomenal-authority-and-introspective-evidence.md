@@ -64,7 +64,7 @@ Updated `phenomenal-conservatism-and-introspective-evidence` → `phenomenal-aut
 Added `[phenomenal-authority-and-introspective-evidence](/topics/phenomenal-authority-and-first-person-evidence/)` to related_articles in:
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — reliability of trained introspection grounded in phenomenal authority framework
 - [explanatory-gap](/concepts/explanatory-gap/) — introspective access to the gap depends on phenomenal authority
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — acquaintance grounds the strongest layer of authority (also added to Further Reading)
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — acquaintance grounds the strongest layer of authority (also added to Further Reading)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — the hard problem rests on layers 1-2 of phenomenal authority
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — contemplative training targets authority layers where naive introspection is weakest
 - [dualism](/concepts/dualism/) — phenomenal authority provides the evidential foundation for the dualism case

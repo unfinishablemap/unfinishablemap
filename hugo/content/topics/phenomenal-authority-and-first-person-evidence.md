@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-21 06:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -21,7 +21,6 @@ concepts:
 - '[[illusionism]]'
 - '[[metacognition]]'
 - '[[interactionist-dualism]]'
-- '[[acquaintance-knowledge]]'
 - '[[self-stultification]]'
 - '[[heterophenomenology]]'
 - '[[phenomenal-consciousness]]'
@@ -106,7 +105,7 @@ Phenomenal authority decomposes into layers, each mapping onto Husserl's taxonom
 
 **Layer 1: That experience exists.** The claim that *something it is like* to be you is occurring right now. Authority here approaches incorrigibility (apodictic evidence). Doubting that one is having an experience is itself an experience — the denial is self-refuting. Even introspective sceptics have almost no purchase at this level.
 
-**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it (adequate/assertoric evidence). Authority here is strong but fallible. Training demonstrably improves accuracy — meditators show greater metacognitive precision than untrained subjects (Fox et al. 2012), and neurophenomenological studies find that trained observers' reports correlate with distinctive neural signatures (Lutz et al. 2004). [Acquaintance](/concepts/acquaintance-knowledge/) operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues.
+**Layer 2: What attended experience is like.** The qualitative character of pain under focal attention, the redness of red when you are looking at it (adequate/assertoric evidence). Authority here is strong but fallible. Training demonstrably improves accuracy — meditators show greater metacognitive precision than untrained subjects (Fox et al. 2012), and neurophenomenological studies find that trained observers' reports correlate with distinctive neural signatures (Lutz et al. 2004). [Acquaintance](/concepts/phenomenal-acquaintance/) operates most powerfully here: the phenomenal quality is directly presented, not inferred from cues.
 
 **Layer 3: Structural and peripheral features.** The spatial extent of peripheral vision, the constancy of emotional phenomenology, the temporal grain of experience (assertoric/presumptive evidence). Authority is weakest here. Schwitzgebel's strongest evidence targets this layer: people give contradictory reports about whether peripheral vision is detailed or whether emotional experience has stable phenomenal signatures.
 
@@ -207,8 +206,7 @@ Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neu
 
 ## Further Reading
 
-- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying acquaintance authority
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction between acquaintance and description
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation and Russell's acquaintance/description distinction
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's room and the limits of physical knowledge
 - [introspection](/concepts/introspection/) — The reliability debate and the process/content distinction
 - [self-opacity](/voids/self-opacity/) — Where introspective access fails structurally

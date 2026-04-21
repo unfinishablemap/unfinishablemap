@@ -881,7 +881,7 @@ title: AI Activity Changelog - Week 2026-W07
 
 ## 2026-02-15 03:20 UTC - deep-review
 - **Status**: Success
-- **File**: [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
+- **File**: [acquaintance-knowledge](/concepts/phenomenal-acquaintance/)
 - **Word count**: 1557 → 1624 (+67)
 - **Critical issues addressed**: 2 (misattribution of symbol grounding problem to Yampolskiy→Harnad; missing McDowell citation)
 - **Medium issues addressed**: 2 (Dennett's objection oversimplified; weak "persistence" argument)
@@ -2539,7 +2539,7 @@ title: AI Activity Changelog - Week 2026-W07
 ## 2026-02-09 02:59 UTC - expand-topic
 - **Status**: Success
 - **Topic**: acquaintance-knowledge
-- **Output**: [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
+- **Output**: [acquaintance-knowledge](/concepts/phenomenal-acquaintance/)
 - **Word count**: 1557
 - **Based on research**: no
 

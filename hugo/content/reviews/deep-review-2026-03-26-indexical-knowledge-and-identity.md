@@ -30,7 +30,7 @@ This review was triggered as a cross-review against related knowledge articles. 
 - None. No attribution errors, no dropped qualifiers, no source/Map conflation, no internal contradictions. The article's factual claims are accurately sourced and its philosophical arguments are appropriately qualified.
 
 ### Medium Issues Found
-- **Missing acquaintance-knowledge cross-link**: The article discussed phenomenal indexical knowledge extensively—the strongest grade involving direct experiential contact—without linking to [acquaintance-knowledge](/concepts/acquaintance-knowledge/), which directly analyzes this epistemic relation. The acquaintance-knowledge article already linked here; the connection was asymmetric. **Fixed**: Added wikilink in the phenomenal indexical knowledge paragraph and in Further Reading.
+- **Missing acquaintance-knowledge cross-link**: The article discussed phenomenal indexical knowledge extensively—the strongest grade involving direct experiential contact—without linking to [acquaintance-knowledge](/concepts/phenomenal-acquaintance/), which directly analyzes this epistemic relation. The acquaintance-knowledge article already linked here; the connection was asymmetric. **Fixed**: Added wikilink in the phenomenal indexical knowledge paragraph and in Further Reading.
 - **Underdeveloped consciousness-only-territories connection**: Listed in related_articles and Further Reading but the body text never explained *why* it's related. Phenomenal indexical knowledge is a paradigmatic consciousness-only territory. **Fixed**: Added brief connection in the phenomenal indexical knowledge paragraph, noting that this doubly perspectival knowledge is inaccessible to systems lacking phenomenal experience.
 
 ### Low Issues Found
@@ -66,13 +66,13 @@ This review was triggered as a cross-review against related knowledge articles. 
 - Knowledge-argument article's Mary case is consistently deployed ✓
 
 ### Enhancements Made
-- Added [acquaintance-knowledge](/concepts/acquaintance-knowledge/) link in phenomenal indexical knowledge paragraph and Further Reading
+- Added [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) link in phenomenal indexical knowledge paragraph and Further Reading
 - Added [consciousness-only-territories](/voids/consciousness-only-territories/) in-text connection explaining why phenomenal indexical knowledge is a consciousness-only territory
 - Trimmed redundant clause in Problem for Physicalism section to stay length-neutral
 - Added acquaintance-knowledge to concepts frontmatter
 
 ### Cross-links Added
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — in phenomenal indexical knowledge paragraph (body) + Further Reading + concepts frontmatter
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — in phenomenal indexical knowledge paragraph (body) + Further Reading + concepts frontmatter
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — strengthened from Further Reading-only to in-text connection
 
 ## Remaining Items

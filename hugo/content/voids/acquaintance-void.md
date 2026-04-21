@@ -1,13 +1,12 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-21 06:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[qualia]]'
 - '[[phenomenal-acquaintance]]'
-- '[[acquaintance-knowledge]]'
 - '[[mysterianism]]'
 - '[[explanatory-gap]]'
 - '[[introspection]]'
@@ -36,7 +35,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The Unfinishable Map distinguishes [knowledge by acquaintance](/concepts/acquaintance-knowledge/)—direct, unmediated awareness of a phenomenal quality—from knowledge by description. The acquaintance void marks the territory where this distinction becomes a permanent limit: there are forms of direct phenomenal contact with reality that no amount of descriptive knowledge can substitute for, and human consciousness may be locked out of entire *categories* of acquaintance. The void extends beyond individual missing qualia (echolocation, magnetoreception) to something deeper. There may exist whole modes of experiential contact—ways of being directly, non-inferentially present to reality—that require cognitive architecture fundamentally different from ours.
+The Unfinishable Map distinguishes [knowledge by acquaintance](/concepts/phenomenal-acquaintance/)—direct, unmediated awareness of a phenomenal quality—from knowledge by description. The acquaintance void marks the territory where this distinction becomes a permanent limit: there are forms of direct phenomenal contact with reality that no amount of descriptive knowledge can substitute for, and human consciousness may be locked out of entire *categories* of acquaintance. The void extends beyond individual missing qualia (echolocation, magnetoreception) to something deeper. There may exist whole modes of experiential contact—ways of being directly, non-inferentially present to reality—that require cognitive architecture fundamentally different from ours.
 
 ## Beyond Missing Qualia
 
@@ -106,8 +105,7 @@ This mutual opacity is not merely a practical limitation but a structural featur
 
 ## Further Reading
 
-- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation between consciousness and qualitative character
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — The epistemic category that results from phenomenal acquaintance
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation and the knowledge category that results from it
 - [transformative-experience-void](/voids/transformative-experience-void/) — The acquaintance gap as it operates between temporal stages of a single life
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beyond structural description
 - [voids-between-minds](/voids/voids-between-minds/) — Access to consciousness beyond our own

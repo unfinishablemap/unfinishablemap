@@ -51,7 +51,7 @@ This article examines the competing models of introspective epistemology — acq
 
 ## The Acquaintance Model
 
-Bertrand Russell distinguished [knowledge by acquaintance](/concepts/acquaintance-knowledge/) from knowledge by *description*. You are acquainted with the redness of your current visual experience — it is presented to you directly, without intermediary. You have knowledge by description of electromagnetic wavelengths around 700 nanometres. The two kinds of knowledge concern the same phenomenon but differ fundamentally in epistemic character.
+Bertrand Russell distinguished [knowledge by acquaintance](/concepts/phenomenal-acquaintance/) from knowledge by *description*. You are acquainted with the redness of your current visual experience — it is presented to you directly, without intermediary. You have knowledge by description of electromagnetic wavelengths around 700 nanometres. The two kinds of knowledge concern the same phenomenon but differ fundamentally in epistemic character.
 
 Applied to introspection, the acquaintance model holds that conscious states are self-presenting. To be in pain is already to be aware of pain. No additional epistemic act bridges the gap between the experience and knowledge of it — the experience *is* the knowledge, or at least constitutes it. The [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) article develops the acquaintance relation in detail — its immediacy, non-conceptual character, and subject-dependence. Laurence BonJour developed this into an epistemological argument: acquaintance provides a form of justification that is "direct and non-inferential," grounding basic beliefs about phenomenal states without requiring further evidence (BonJour 2003).
 
@@ -132,7 +132,7 @@ The sui generis model yields clear epistemological conclusions about what intros
 - [epistemology-of-introspective-calibration](/topics/epistemology-of-introspection-and-calibration/) — Five strategies for approximating calibration despite the void
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Russell's distinction and its role in the knowledge argument
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The structural impossibility of observing the observer
 - [introspective-opacity](/voids/self-opacity/) — Where introspective access fails structurally
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Systematic contemplative practice as knowledge source

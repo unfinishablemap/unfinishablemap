@@ -30,7 +30,7 @@ None. The article remains stable after two prior reviews. No attribution errors,
 1. **Missing cross-link to acquaintance-void**: The newly created acquaintance-void article (2026-02-25) directly extends the acquaintance knowledge discussion—from individual missing qualia to entire modes of phenomenal contact structurally inaccessible to different cognitive architectures. The consciousness-only-territories article discussed acquaintance extensively but didn't link to this new companion piece.
    - **Resolution**: Added acquaintance-void to related_articles, body text (Acquaintance Knowledge section), and Further Reading.
 
-2. **Missing concept cross-links**: The article discusses acquaintance knowledge at length but didn't link to the dedicated [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) and [acquaintance-knowledge](/concepts/acquaintance-knowledge/) concept pages.
+2. **Missing concept cross-links**: The article discusses acquaintance knowledge at length but didn't link to the dedicated [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) and [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) concept pages.
    - **Resolution**: Added both to frontmatter concepts; added inline link to phenomenal-acquaintance in the new acquaintance-void connecting text.
 
 3. **Redundancy in Grounding Asymmetry section**: A sentence paraphrased the Barrett & Stout quote that immediately followed it, stating the same point twice.
@@ -68,13 +68,13 @@ All attributions verified:
 
 ### Enhancements Made
 1. Connected acquaintance-void's deeper insight about modes of acquaintance to the Acquaintance Knowledge section — strengthens the argument by showing consciousness-only territories encompass not just individual missing experiences but entire categories of epistemic contact
-2. Added concept links to [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) and [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
+2. Added concept links to [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) and [acquaintance-knowledge](/concepts/phenomenal-acquaintance/)
 3. Trimmed three redundant passages to maintain length neutrality
 
 ### Cross-links Added
 - [acquaintance-void](/voids/acquaintance-void/) — Modes of phenomenal contact structurally inaccessible to different cognitive architectures
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation at the heart of the argument
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — The knowledge category Mary gains (frontmatter concept link)
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — The knowledge category Mary gains (frontmatter concept link)
 
 ## Remaining Items
 

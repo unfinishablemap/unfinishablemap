@@ -60,7 +60,7 @@ topics: []
 - Added Abhinavagupta source citation
 
 ### Cross-links Added
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) (Islamic section)
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) (Islamic section)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) (Convergence Claim section)
 - [philosophical-zombies](/concepts/philosophical-zombies/) (Western Analytic section, via Kriegel)
 - [interactionist-dualism](/concepts/interactionist-dualism/) (Western Analytic section, via Onof)

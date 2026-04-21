@@ -167,7 +167,7 @@ The aesthetic irreducibility arguments would weaken if:
 - [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [knowledge-argument](/concepts/knowledge-argument/) — Why phenomenal facts exceed physical facts
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Why aesthetic knowledge requires experience
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience
 - [cognitive-closure](/concepts/mysterianism/) — Why the structure-experience gap may be permanent
 
 ## References

@@ -75,7 +75,7 @@ The force of these critiques is unevenly distributed. Schwitzgebel's strongest e
 
 ### The Acquaintance Model
 
-Bertrand Russell distinguished [knowledge by acquaintance](/concepts/acquaintance-knowledge/) from knowledge by *description*. Applied to introspection, the acquaintance model holds that conscious states are self-presenting. To be in pain is already to be aware of pain. The experience *is* the knowledge, or at least constitutes it. Laurence BonJour developed this into an epistemological argument: acquaintance provides justification that is "direct and non-inferential," grounding basic beliefs about phenomenal states without requiring further evidence (BonJour 2003).
+Bertrand Russell distinguished [knowledge by acquaintance](/concepts/phenomenal-acquaintance/) from knowledge by *description*. Applied to introspection, the acquaintance model holds that conscious states are self-presenting. To be in pain is already to be aware of pain. The experience *is* the knowledge, or at least constitutes it. Laurence BonJour developed this into an epistemological argument: acquaintance provides justification that is "direct and non-inferential," grounding basic beliefs about phenomenal states without requiring further evidence (BonJour 2003).
 
 The strength: acquaintance explains why introspective knowledge feels certain. If awareness of pain is constitutive of being in pain, scepticism about whether one is really in pain when one seems to be has a self-undermining quality.
 
@@ -204,7 +204,7 @@ The honest acknowledgment: these strategies do not close the [measurement-void](
 - [introspection](/concepts/introspection/) — Foundational concept article on the reliability debate
 - [phenomenal-conservatism-and-introspective-evidence](/topics/phenomenal-authority-and-introspective-evidence/) — Huemer's principle as epistemological grounding
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation underlying the acquaintance model
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Russell's distinction and its role in the knowledge argument
+- [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Russell's distinction and its role in the knowledge argument
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The structural impossibility of observing the observer
 - [introspective-opacity](/voids/self-opacity/) — Where introspective access fails structurally
 - [measurement-void](/voids/observation-and-measurement-void/) — Why strict calibration of introspection is structurally impossible

@@ -1,13 +1,39 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 04:38:00+00:00
+ai_modified: 2026-04-21 07:45:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-21 07:45 UTC - deep-review
+- **Status**: Success
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Context**: Cross-review considering the new [inspection-paradox](/concepts/inspection-paradox/) concept article
+- **Word count**: 2402 → 2426 (+24)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to inspection-paradox)
+- **Enhancements made**: 1 body cross-reference in "The Constitutive Thesis" section, Further Reading entry, related_articles entry; offsetting trim in "Formal Limits and Strange Loops"
+- **Output**: [deep-review-2026-04-21-self-opacity](/reviews/deep-review-2026-04-21-self-opacity/)
+- **Stability**: Fifth review, zero critical issues across all five. Article remains stable.
+
+## 2026-04-21 06:38 UTC - refine-draft
+- **Status**: Success
+- **Scope**: Retarget wikilinks following [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) coalesce
+- **Files modified**: voids/consciousness-only-territories, voids/acquaintance-void, voids/transformative-experience-void, voids/pre-conceptual-knowing, topics/phenomenal-authority-and-first-person-evidence, topics/aesthetics-and-consciousness, topics/evaluative-qualia-phenomenal-normativity-across-traditions, concepts/evaluative-phenomenal-character, concepts/indexical-knowledge-and-identity, concepts/epistemology
+- **Changes**: Retargeted `[acquaintance-knowledge](/concepts/phenomenal-acquaintance/)` → `[phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)` across body text, frontmatter, and Further Reading lists; removed 4 duplicate frontmatter entries (acquaintance-void, consciousness-only-territories, phenomenal-authority-and-first-person-evidence) and 2 redundant Further Reading entries where phenomenal-acquaintance already appeared adjacent
+- **Preserved**: Display labels ("knowledge by acquaintance", "Acquaintance") kept in pipe-linked references where the Russellian framing is foregrounded
+- **Published**: yes
+
+## 2026-04-21 05:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/), [acquaintance-knowledge](/concepts/acquaintance-knowledge/)
+- **Target**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- **Archived**: [acquaintance-knowledge](/archive/concepts/acquaintance-knowledge/)
+- **References to review**: 10 active files wikilink to `[acquaintance-knowledge](/concepts/phenomenal-acquaintance/)` and may be retargeted to `[phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)`
 
 ## 2026-04-21 04:38 UTC - expand-topic
 - **Status**: Success

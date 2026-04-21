@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-04-07 09:23:00+00:00
+ai_modified: 2026-04-21 06:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[concepts/phenomenal-normativity]]'
 - '[[concepts/evaluative-qualia]]'
 - '[[aesthetics-and-consciousness]]'
-- '[[acquaintance-knowledge]]'
+- '[[phenomenal-acquaintance]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[consciousness-value-connection]]'
 - '[[interactionist-dualism]]'
@@ -80,7 +80,7 @@ This framework treats evaluative phenomenal character as more revealing of consc
 
 Avicenna's (980–1037) flying man argument establishes that self-awareness is pure first-personality, independent of bodily sensation—a conclusion that directly supports the Map's Dualism tenet. But the tradition's contribution to evaluative qualia runs deeper through Mulla Sadra's (1571–1636) radical epistemology.
 
-Sadra argues that knowledge is not representation but a mode of existence—what the tradition calls *ʿilm al-ḥuḍūrī* (knowledge by presence). In knowing, the intellect becomes ontologically unified with the intelligible form—a transformation of the knowing subject. This means evaluative knowledge is not abstraction from experience but participation in modes of being. To know goodness is not to have a belief *about* goodness but to participate in the mode of being that goodness constitutes. The parallel to [knowledge by acquaintance](/concepts/acquaintance-knowledge/) in Western epistemology is striking: both frameworks hold that evaluative knowledge is constituted by direct contact rather than inference.
+Sadra argues that knowledge is not representation but a mode of existence—what the tradition calls *ʿilm al-ḥuḍūrī* (knowledge by presence). In knowing, the intellect becomes ontologically unified with the intelligible form—a transformation of the knowing subject. This means evaluative knowledge is not abstraction from experience but participation in modes of being. To know goodness is not to have a belief *about* goodness but to participate in the mode of being that goodness constitutes. The parallel to [knowledge by acquaintance](/concepts/phenomenal-acquaintance/) in Western epistemology is striking: both frameworks hold that evaluative knowledge is constituted by direct contact rather than inference.
 
 Sadra's framework implies that the appearance-reality gap that plagues representational theories of value does not arise for evaluative experience. You do not *represent* felt badness and then wonder whether your representation is accurate—you participate in badness as a mode of existence. This structural conclusion, reached through Islamic philosophical theology, parallels Dimitrov's analytic argument that there is "no appearance-reality gap for simple, nonrepresentational phenomenal states like felt badness."
 
@@ -125,7 +125,7 @@ The cross-traditional convergence on evaluative qualia connects to the Map's [te
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — How phenomenal normativity manifests across domains
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on experience and dualism
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic qualia as evidence for irreducibility
-- [acquaintance-knowledge](/concepts/acquaintance-knowledge/) — Knowledge by direct contact, parallel to Sadra's ʿilm al-ḥuḍūrī
+- [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — Knowledge by direct contact, parallel to Sadra's ʿilm al-ḥuḍūrī
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The challenge evaluative qualia extend into the domain of value
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why value requires consciousness
 - [argument-from-reason](/topics/argument-from-reason/) — Rational inference requires phenomenal normativity: evaluative qualia ground the felt authority of reasons

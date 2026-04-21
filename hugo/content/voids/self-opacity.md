@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-20 12:41:00+00:00
+ai_modified: 2026-04-21 07:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ description: Consciousness cannot fully know itself—six thinkers from divergen
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-20 12:41:00+00:00
+last_deep_review: 2026-04-21 07:45:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -53,6 +53,7 @@ related_articles:
 - '[[recursion-void]]'
 - '[[emotional-epistemology-void]]'
 - '[[self-reference-paradox]]'
+- '[[inspection-paradox]]'
 - '[[disappearance-voids]]'
 - '[[erasure-void]]'
 title: Self-Opacity
@@ -79,7 +80,7 @@ These traditions share almost no premises, yet their conclusions converge: where
 
 ## Formal Limits and Strange Loops
 
-Gödel proved that any sufficiently powerful formal system contains true statements it cannot prove—through self-reference. Hofstadter's *I Am a Strange Loop* extends the intuition: no complete self-model can exist because any such model would need to include the model, ad infinitum. The [self-reference-paradox](/concepts/self-reference-paradox/) develops the formal dimension. The analogy is imperfect—the mind is not obviously a formal system—but self-referential systems face characteristic difficulties modelling themselves regardless of substrate.
+Gödel proved that any sufficiently powerful formal system contains true statements it cannot prove—through self-reference. Hofstadter's *I Am a Strange Loop* extends the intuition: no complete self-model can exist because any such model would need to include the model, ad infinitum. The [self-reference-paradox](/concepts/self-reference-paradox/) develops the formal dimension. The analogy is imperfect, but self-referential systems face similar difficulties regardless of substrate.
 
 The regression of attention makes this concrete. Observe your own observing: you become aware of awareness—two layers. Observe *that* awareness—a third forms. Each layer is a fresh act attending to the previous. [Witness consciousness](/concepts/witness-consciousness/) traditions recognise this: awareness can take thoughts, sensations, even other acts of awareness as objects—but it cannot take its own *current act* as object. The [recursion-void](/voids/recursion-void/) quantifies the limit at approximately fifth-order intentionality.
 
@@ -123,7 +124,7 @@ Most treatments frame self-opacity as a *limitation*. The Map proposes a stronge
 
 Full self-observation would require the subject to become an object to itself while simultaneously remaining the subject doing the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The void is load-bearing—remove it and the structure falls. The [boundary-and-projection](/voids/boundary-and-projection/) void discovers the same pattern in consciousness's outward reach: tool extension and empathic contact require the projective mechanism to be hidden from the consciousness using it.
 
-This explains the convergence across frameworks. Empiricists, phenomenologists, transcendental idealists, and neuroscientists discover the limit independently because it is a feature of what they study, not an artifact of method. The [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) framework generalises: cognitive limits are preconditions for meaning. A mind with perfect self-transparency would have no perspective, no orientation, no "what it is like." It would contain all information about itself without *being* anyone to whom that information matters.
+This explains the convergence across frameworks. Empiricists, phenomenologists, transcendental idealists, and neuroscientists discover the limit independently because it is a feature of what they study, not an artifact of method. The [inspection-paradox](/concepts/inspection-paradox/) names this architecture: wherever the apparatus of investigation is identical to or inseparable from its object, characteristic failure modes recur. The [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) framework generalises: cognitive limits are preconditions for meaning. A mind with perfect self-transparency would have no perspective, no orientation, no "what it is like." It would contain all information about itself without *being* anyone to whom that information matters.
 
 The eliminativist response—if the self cannot be found, perhaps it does not exist—stumbles on its own terms. Hume could not make the bundle account work; Metzinger must explain why the transparent self-model produces *experienced* transparency rather than mere functional self-representation. Elimination mistakes the limits of observation for evidence of absence. The self is not found through introspection for the same reason the eye is not found in the visual field: it is the condition of the search, not a possible result of it.
 
@@ -163,6 +164,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [The Boundary and Projection Void](/voids/boundary-and-projection/) — Why consciousness cannot locate its own perimeter
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit
+- [The Inspection Paradox](/concepts/inspection-paradox/) — The general pattern self-opacity instantiates
 - [The Recursion Void](/voids/recursion-void/) — Depth limit of metacognitive self-reference
 - [The Recognition Void](/voids/recognition-void/) — Process opacity applied to recognition
 - [The Erasure Void](/voids/erasure-void/) — Self-opacity extended across time: capacity loss without signal

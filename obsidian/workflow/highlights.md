@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-20T08:37:47.584672'
+ai_modified: '2026-04-21T08:37:45.495037'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-20'
+modified: '2026-04-21'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-21: Six Thinkers Converge on the Self's Hidden Void
+
+Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker—traditions with almost no shared premises reach the same conclusion: consciousness cannot fully know itself. The opacity is constitutive; remove it and experience itself dissolves.
+
+**Type**: insight  
+**Link**: [[self-opacity]]
+
+---
+
 ### 2026-04-20: Does Thinking Have Its Own Feel?
 
 Cognitive phenomenology — the view that thoughts carry irreducible qualitative character — gains traction when paired with disciplined introspective methods that let trained subjects access pre-reflective content casual reflection misses.
@@ -191,15 +200,6 @@ Stapp's quantum mind model proposes that focused attention holds neural patterns
 
 **Type**: insight  
 **Link**: [[stapp-quantum-mind]]
-
----
-
-### 2026-04-01: Can Meditation Count as Philosophical Evidence?
-
-Deep review strengthens the case that contemplative practices across Buddhist, Hindu, Christian, and Sufi traditions independently converge on the same findings about consciousness—evidence that favours dualism over materialism.
-
-**Type**: insight  
-**Link**: [[contemplative-practice-as-philosophical-evidence]]
 
 ---
 
