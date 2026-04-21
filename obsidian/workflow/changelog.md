@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 09:38:00+00:00
+ai_modified: 2026-04-21 10:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 10:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/asymmetric-bandwidth-consciousness]], [[concepts/bandwidth-problem-mental-causation]]
+- **Target**: [[concepts/consciousness-bandwidth-architecture]]
+- **Archived**: [[archive/concepts/asymmetric-bandwidth-consciousness]], [[archive/concepts/bandwidth-problem-mental-causation]]
+- **References to review**: 10 active files updated (inverted-qualia, consciousness-selecting-neural-patterns, delegatory-causation, delegation-meets-quantum-selection, attention-and-the-consciousness-interface, bandwidth-of-consciousness, interface-specification-programme apex, grain-mismatch, psychophysical-laws, resolution-void, mental-causation-and-downward-causation, grain-mismatch-as-independent-evidence, psychophysical-laws-bridging-mind-and-matter, valence-and-conscious-selection, consciousness-physics-interface-formalism)
+- **Rationale**: Both articles overlapped substantially on the ~10 bits/s empirical data (Zheng & Meister 2025, Nørretranders 1998, Mandik 2010), hierarchical selection as resolution, and arguments against epiphenomenalism. The asymmetry puzzle and the bandwidth problem are complementary aspects of a single architecture; merging clarifies their relationship (asymmetry describes the channel structure; specification challenge describes the causal consequence) without losing content.
 
 ## 2026-04-21 09:38 UTC - research-topic
 - **Status**: Success

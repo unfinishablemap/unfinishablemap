@@ -31,7 +31,7 @@ concepts:
   - "[[delegatory-causation]]"
   - "[[delegatory-dualism]]"
   - "[[observational-closure]]"
-  - "[[bandwidth-problem-mental-causation]]"
+  - "[[consciousness-bandwidth-architecture]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[cross-cultural-convergence-on-mental-causation]]"
   - "[[luck-objection]]"
@@ -139,7 +139,7 @@ Several responses are available, though none fully resolves the gap:
 
 **Outcome selection persists**: [[decoherence]] explains why interference effects wash out, but outcomes still require determination. Something must select which possibility becomes actual.
 
-**Bandwidth and amplification**: Conscious thought operates at roughly 10 bits per second, suggesting consciousness works at the policy level, not individual quantum events. The [[bandwidth-problem-mental-causation|bandwidth problem]] is resolved by [[bandwidth-of-consciousness|hierarchical selection]]. Even granting the quantum opening, consciousness must bridge to macroscopic outcomes; six distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed.
+**Bandwidth and amplification**: Conscious thought operates at roughly 10 bits per second, suggesting consciousness works at the policy level, not individual quantum events. The [[consciousness-bandwidth-architecture|bandwidth problem]] is resolved by [[bandwidth-of-consciousness|hierarchical selection]]. Even granting the quantum opening, consciousness must bridge to macroscopic outcomes; six distinct [[amplification-mechanisms-consciousness-physics|amplification mechanisms]] have been proposed.
 
 The decoherence objection is a serious empirical challenge, not a philosophical refutation. The quantum opening remains, but the Map should not claim the mechanism is fully specified.
 
@@ -233,7 +233,7 @@ Mental causation and downward causation are central to the Map's framework.
 - [[conservation-laws-and-mental-causation]] — Why conservation laws don't block mental causation
 - [[decoherence]] — The physics challenge and why it doesn't close the quantum opening
 - [[mind-matter-interface]] — The unified two-layer architecture
-- [[bandwidth-problem-mental-causation]] — Whether the mind-body channel carries enough information
+- [[consciousness-bandwidth-architecture]] — Whether the mind-body channel carries enough information
 - [[concepts/many-worlds]] — Why the Map rejects MWI (and why it matters here)
 - [[pairing-problem]] — What connects this mind to this body
 - [[concepts/epiphenomenalism]] — The view denying mental causation

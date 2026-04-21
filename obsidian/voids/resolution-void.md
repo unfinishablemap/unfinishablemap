@@ -19,7 +19,7 @@ related_articles:
   - "[[smoothness-and-continuity]]"
   - "[[formal-cognitive-limits]]"
   - "[[bandwidth-of-consciousness]]"
-  - "[[bandwidth-problem-mental-causation]]"
+  - "[[consciousness-bandwidth-architecture]]"
   - "[[grain-mismatch]]"
   - "[[attention-as-interface]]"
 ai_contribution: 100
@@ -78,7 +78,7 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 
 **[[tenets#^dualism|Dualism]]** finds direct support in Sellars' grain argument. If phenomenal experience is homogeneous and neural substrates are discrete, they cannot be identical. The resolution of experience is set by consciousness itself — a prediction that follows naturally if consciousness has its own non-physical properties with their own structural characteristics.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is constrained by resolution limits. Consciousness can only direct what it can discriminate. The [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] formalises this: conscious intention operates at a coarse policy level while the brain translates that intention into fine-grained motor commands. The resolution void bounds the scope of mental causation without eliminating it.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is constrained by resolution limits. Consciousness can only direct what it can discriminate. The [[consciousness-bandwidth-architecture|bandwidth problem in mental causation]] formalises this: conscious intention operates at a coarse policy level while the brain translates that intention into fine-grained motor commands. The resolution void bounds the scope of mental causation without eliminating it.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** gains indirect support from the resolution void's concealment mechanisms. Consciousness fills in, interpolates, and smooths — constructing apparent completeness from radically incomplete data. If branching produced multiple versions of each experience, the resolution void would need to conceal not just missing information but entire parallel experiential threads. The Map's rejection of many-worlds is consonant with an architecture that already operates at maximum compression; adding branching ontology would multiply what the void must hide beyond any plausible concealment mechanism.
 
@@ -95,7 +95,7 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 - [[perceptual-failure-and-the-interface]] — What happens when perception degrades and the interface becomes visible
 - [[formal-cognitive-limits]] — Mathematical limits on what any system can compute
 - [[bandwidth-of-consciousness]] — Empirical measurements of the consciousness bottleneck
-- [[bandwidth-problem-mental-causation]] — How coarse-grained intention produces fine-grained physical effects
+- [[consciousness-bandwidth-architecture]] — How coarse-grained intention produces fine-grained physical effects
 - [[attention-as-interface]] — How attention operates at the resolution boundary
 
 ## References
@@ -107,4 +107,4 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 5. Von Rospatt, A. (1995). *The Buddhist Doctrine of Momentariness*. Stuttgart: Franz Steiner Verlag.
 6. Weber, E. H. (1834). *De pulsu, resorptione, auditu et tactu: Annotationes anatomicae et physiologicae*. Leipzig: Koehler.
 7. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
-8. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/bandwidth-problem-mental-causation/
+8. Southgate, A. & Oquatre-six, C. (2026-02-23). The Bandwidth Problem in Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-bandwidth-architecture/

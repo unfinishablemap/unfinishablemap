@@ -21,11 +21,10 @@ concepts:
   - "[[motor-selection]]"
   - "[[baseline-cognition]]"
   - "[[interactionist-dualism]]"
-  - "[[bandwidth-problem-mental-causation]]"
+  - "[[consciousness-bandwidth-architecture]]"
   - "[[mental-causation-and-downward-causation]]"
   - "[[phenomenal-overflow]]"
   - "[[access-consciousness]]"
-  - "[[asymmetric-bandwidth-consciousness]]"
   - "[[global-workspace-theory]]"
   - "[[causal-closure]]"
   - "[[libet-experiments]]"
@@ -105,7 +104,7 @@ Consciousness processes one thing at a time. At 10 bits per second, dividing cap
 
 ### Forced Abstraction
 
-A 10-bit/second processor cannot operate on raw sensory data. Vision delivers roughly 10⁷ bits per second; even after cortical compression, the data stream dwarfs conscious capacity by orders of magnitude. Consciousness is forced to operate on *abstractions*—compressed, categorical representations encoding meanings and goals rather than sensory primitives. Intentions are coarse-grained—"reach for the cup" rather than "fire motor neurons N₄₅₆₇₈ in sequence"—as the [[bandwidth-problem-mental-causation|bandwidth problem in mental causation]] makes explicit. [[language-recursion-and-consciousness|Recursive linguistic structure]] may be the most powerful compression scheme consciousness employs, composing compressed representations into novel combinations at rates the bandwidth can sustain.
+A 10-bit/second processor cannot operate on raw sensory data. Vision delivers roughly 10⁷ bits per second; even after cortical compression, the data stream dwarfs conscious capacity by orders of magnitude. Consciousness is forced to operate on *abstractions*—compressed, categorical representations encoding meanings and goals rather than sensory primitives. Intentions are coarse-grained—"reach for the cup" rather than "fire motor neurons N₄₅₆₇₈ in sequence"—as the [[consciousness-bandwidth-architecture|bandwidth problem in mental causation]] makes explicit. [[language-recursion-and-consciousness|Recursive linguistic structure]] may be the most powerful compression scheme consciousness employs, composing compressed representations into novel combinations at rates the bandwidth can sustain.
 
 ### The Temporal Grain
 
@@ -227,8 +226,7 @@ The argument linking bandwidth constraints to the interface model would face ser
 
 ## Further Reading
 
-- [[asymmetric-bandwidth-consciousness]] — The 100-million-fold inbound/outbound asymmetry as a defining interface feature
-- [[bandwidth-problem-mental-causation]] — Whether 10 bits/second suffices for complex behaviour
+- [[consciousness-bandwidth-architecture]] — The 100-million-fold inbound/outbound asymmetry and whether 10 bits/second suffices for complex behaviour
 - [[attention-and-the-consciousness-interface]] — How the interface operates through attention and motor planning
 - [[attentional-economics]] — Agency as allocation of the scarce conscious resource
 - [[filter-theory]] — The filter/transmission model and the bandwidth as filter parameter

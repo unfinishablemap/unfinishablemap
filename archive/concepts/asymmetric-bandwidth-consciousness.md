@@ -28,6 +28,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
+archived: true
+archived_date: 2026-04-21T10:38:00+00:00
+superseded_by: "/concepts/consciousness-bandwidth-architecture/"
+archive_reason: "Coalesced into Consciousness Bandwidth Architecture"
+original_path: "/concepts/asymmetric-bandwidth-consciousness/"
 ---
 
 The consciousness-brain interface is dramatically asymmetric. Sensory systems deliver roughly 10⁹ bits per second to the brain, generating rich phenomenal experience—colour, depth, motion, texture, sound. Conscious influence on behaviour measures at approximately 10 bits per second. The ratio is 100 million to one. The Unfinishable Map treats this asymmetry as a defining structural feature of the mind-brain interface, not an incidental limitation of neural architecture. The inbound channel delivers experience; the outbound channel permits selection. The two operations differ in kind, not merely in throughput.

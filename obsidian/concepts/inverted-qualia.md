@@ -146,7 +146,7 @@ This connects to the core [[explanatory-gap]] argument: physics describes struct
 
 The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] and [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenets raise an awkward question: if Invert and Nonvert are behaviourally identical, what causal work do their different qualia do?
 
-The Map bites the bullet. Phenomenal character is causally efficacious; any *actual* instance of qualia-inversion should produce subtle behavioural differences—in aesthetic preferences, emotional valences, reaction-time asymmetries, or the fine structure of introspective reports. MQI, through a bandwidth-limited outbound channel (see [[bandwidth-of-consciousness]] and [[asymmetric-bandwidth-consciousness]]), predicts that qualitative differences show up in finer-grained measurements rather than coarse discrimination tasks. This aligns with part of Hardin's detectability objection: real inverters would likely reveal themselves under careful testing.
+The Map bites the bullet. Phenomenal character is causally efficacious; any *actual* instance of qualia-inversion should produce subtle behavioural differences—in aesthetic preferences, emotional valences, reaction-time asymmetries, or the fine structure of introspective reports. MQI, through a bandwidth-limited outbound channel (see [[bandwidth-of-consciousness]] and [[consciousness-bandwidth-architecture]]), predicts that qualitative differences show up in finer-grained measurements rather than coarse discrimination tasks. This aligns with part of Hardin's detectability objection: real inverters would likely reveal themselves under careful testing.
 
 What survives is the thought experiment's *conceptual* force. Strict behavioural identity plus qualia-difference is a limit case the Map treats as physically unrealised even if conceivable. The zombie and knowledge arguments do similar work without this tension.
 
@@ -176,7 +176,7 @@ Eliminativists and illusionists invoke parsimony: why posit qualia as something 
 - [[concepts/epiphenomenalism]] — The view that qualia are causally inert
 - [[phenomenal-concepts-strategy]] — The sophisticated physicalist response
 - [[bandwidth-of-consciousness]] — The ~10 bits/second outbound channel through which any qualia-driven behavioural signature must reach the world
-- [[asymmetric-bandwidth-consciousness]] — Inbound/outbound asymmetry that gives the "at least statistically" clause its empirical teeth
+- [[consciousness-bandwidth-architecture]] — Inbound/outbound asymmetry that gives the "at least statistically" clause its empirical teeth
 
 ### External Sources
 - Stanford Encyclopedia of Philosophy, "[Inverted Qualia](https://plato.stanford.edu/entries/qualia-inverted/)"

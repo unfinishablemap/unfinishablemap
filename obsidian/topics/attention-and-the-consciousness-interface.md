@@ -161,7 +161,7 @@ The Map doesn't commit to a specific neural mechanism—what matters is that con
 
 ### The Bandwidth Constraint
 
-Conscious processing operates at roughly 10 bits per second—a universal ceiling (Zheng & Meister, 2024)—while sensory systems deliver ~10⁹ bits per second. This [[asymmetric-bandwidth-consciousness|100-million-fold asymmetry]] defines the [[interface-friction|friction]] at the interface: wide for reception, narrow for action. Ten bits per second suffices for 3-4 selections per second among small alternative sets—precisely the competition-selection architecture.
+Conscious processing operates at roughly 10 bits per second—a universal ceiling (Zheng & Meister, 2024)—while sensory systems deliver ~10⁹ bits per second. This [[consciousness-bandwidth-architecture|100-million-fold asymmetry]] defines the [[interface-friction|friction]] at the interface: wide for reception, narrow for action. Ten bits per second suffices for 3-4 selections per second among small alternative sets—precisely the competition-selection architecture.
 
 ## Testable Predictions
 

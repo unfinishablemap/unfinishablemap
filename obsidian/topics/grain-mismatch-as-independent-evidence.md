@@ -14,7 +14,7 @@ concepts:
   - "[[dualism]]"
   - "[[reductionism]]"
   - "[[neural-refresh-rates]]"
-  - "[[bandwidth-problem-mental-causation]]"
+  - "[[consciousness-bandwidth-architecture]]"
   - "[[interface-heterogeneity]]"
   - "[[causal-closure]]"
 related_articles:
