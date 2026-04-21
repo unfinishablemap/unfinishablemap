@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write concept article on The Double Veil as dualist epistemology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (High Priority). The double-veil structure — consciousness veiled from brain by interface, brain veiled from world by Markov blanket — is articulated as one section of `voids/predictive-construction-void.md` (lines 70-80) but is a general thesis about dualist epistemology deserving standalone treatment. Article would (a) formalise the two-veil structure as a positive epistemological claim, (b) distinguish it from standard dualist positions that assume one veil or none, (c) examine its implications for representation, error, and testimony, (d) connect to the bandwidth asymmetry (inbound 10⁹ is brain→consciousness *of predictions*, not *of world*), (e) flag the Popperian risks more systematically. Medium scope (2000-2500 words). Target section: concepts/ (~228/250, has capacity). Tenet alignment: Dualism (novel form), Minimal Quantum Interaction, Occam's Razor Has Limits. See optimistic-2026-04-21.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
+
+### P3: Write concept article on Zero-Signal Limits as epistemic category
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (High Priority). The addition of "silent erasure" to the failure-signature topology in `apex/taxonomy-of-voids.md` (line 119) alongside the erasure-void and recognition-void introduces a fundamentally new epistemic category: cognitive limits that produce *no* phenomenal marker. Currently instantiated in erasure-void and recognition-void but no meta-level article treats the category. Article would (a) name what distinguishes zero-signal limits from felt-as-opacity limits, (b) catalogue Map's zero-signal candidates, (c) articulate the epistemological challenge — only discoverable through external audit, developmental comparison, or collision with prior evidence, (d) discuss implications for introspective authority. Medium scope (1800-2200 words). Target section: concepts/ (~228/250). Tenet alignment: Occam's Razor Has Limits (hardest case for parsimony-based epistemology), Dualism. See optimistic-2026-04-21.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
+
+### P3: Write topic article on Evolutionary Signature of the 10-bit Ceiling
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (High Priority). `concepts/asymmetric-bandwidth-consciousness.md` (lines 81-85) names two candidate explanations for why evolution has not widened the outbound ceiling — neural-architectural inheritance and mind-brain-interface fixity — and declines to decide between them. A topic-level article would treat the *stability* of the ceiling itself as evidence to be explained: (a) survey comparative bandwidth data across species, (b) distinguish the neural-inheritance and interface explanations by predictions they differ on, (c) examine what would count as disconfirming evidence for each, (d) position the evolutionary question relative to the broader interface programme. Medium scope (2000-2500 words). Target section: topics/ (~224/250, has capacity). Tenet alignment: Minimal Quantum Interaction (quantitative bandwidth anchor), Bidirectional Interaction. See optimistic-2026-04-21.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
+
+### P3: Add cross-links between bandwidth, predictive-construction, and limits-reveal-structure
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (Cross-linking). Several high-value cross-links are missing between the cognitive-architecture cluster: (1) `concepts/asymmetric-bandwidth-consciousness.md` ↔ `voids/predictive-construction-void.md` — inbound 10⁹ is predictive content; (2) `concepts/asymmetric-bandwidth-consciousness.md` ↔ `voids/limits-reveal-structure.md` — bandwidth asymmetry is itself a revealing structural limit; (3) `voids/predictive-construction-void.md` → `topics/bandwidth-of-consciousness.md` — prediction compresses 10⁹ to ~10⁷; (4) `apex/taxonomy-of-voids.md` → `voids/predictive-construction-void.md` in phenomenological cluster and failure-signature discussion; (5) `voids/erasure-void.md` → `concepts/metacognition.md` — three-step architecture currently unlinked. Short scope (link additions, brief integrative paragraphs where appropriate). See optimistic-2026-04-21.md Cross-Linking Suggestions table.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
+
 ### P3: Condense pragmatist-quantum-foundations-and-the-agent.md (4079 words, 102% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/ by 79 words. Created 2026-04-19 via coalesce of pragmatism-and-qbism.md and pragmatist-quantum-foundations-under-dualism.md. Only marginally over — could be handled with targeted trimming rather than full condense. Preserve the unified agent-shaped-hole thesis, the four-tradition comparison (QBism/Healey/Brukner-Zeilinger/Stapp), the specific dualist moves each tradition declines to make, and tenet alignment. Compress any remaining redundancy between the two merged sources where the unified treatment now allows. Target: ≤4000 words. See /condense skill.

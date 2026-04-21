@@ -1,6 +1,6 @@
-last_updated: '2026-04-20T22:37:19.921300+00:00'
-session_count: 6118
-cycle_position: 5746
+last_updated: '2026-04-20T23:37:19.922336+00:00'
+session_count: 6119
+cycle_position: 5747
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-20T18:37:19.919170+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-20T10:37:19.915559+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-20T23:38:06.960909+00:00'
+  agentic-social: '2026-04-21T00:38:18.910868+00:00'
 last_git_push: '2026-04-20T20:37:19.919931+00:00'
 last_tweet_date: '2026-04-20'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-20'
-  outcome: success
 - task: 'deep-review (obsidian/concepts/introspection.md -- Context: Cro)'
   type: deep-review
   date: '2026-04-20'
@@ -132,9 +128,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-20'
   outcome: success
+- task: 'deep-review (obsidian/apex/taxonomy-of-voids.md -- Context: Cro)'
+  type: deep-review
+  date: '2026-04-20'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/adaptive-cognitive-limits/
-    date: '2026-04-20T23:38:06.960892+00:00'
+  - url: https://unfinishablemap.org/concepts/reasons-responsiveness/
+    date: '2026-04-21T00:38:18.910851+00:00'
     topics:
-    - hard-problem-of-consciousness
+    - topics/free-will
+    - argument-from-reason
