@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-19 12:38:00+00:00
+ai_modified: 2026-04-20 21:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,14 +13,14 @@ concepts:
 - '[[phenomenal-overflow]]'
 - '[[epiphenomenalism]]'
 created: 2026-03-18
-date: &id001 2026-03-30
+date: &id001 2026-04-20
 description: The consciousness-brain interface transmits vast sensory information
   inward but permits only ~10 bits/second of volitional influence outward—a 100-million-fold
   asymmetry that constrains interface models.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-18 19:05:00+00:00
+last_deep_review: 2026-04-20 21:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +33,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-The consciousness-brain interface is dramatically asymmetric. Sensory systems deliver roughly 10⁹ bits per second to the brain, generating rich phenomenal experience—colour, depth, motion, texture, sound. Conscious influence on behaviour measures at approximately 10 bits per second. The ratio is 100 million to one. The Unfinishable Map treats this asymmetry as a defining structural feature of the mind-brain interface, not an incidental limitation of neural architecture. The inbound channel delivers experience; the outbound channel permits selection. These are not the same operation performed at different speeds—they are fundamentally different kinds of interface activity.
+The consciousness-brain interface is dramatically asymmetric. Sensory systems deliver roughly 10⁹ bits per second to the brain, generating rich phenomenal experience—colour, depth, motion, texture, sound. Conscious influence on behaviour measures at approximately 10 bits per second. The ratio is 100 million to one. The Unfinishable Map treats this asymmetry as a defining structural feature of the mind-brain interface, not an incidental limitation of neural architecture. The inbound channel delivers experience; the outbound channel permits selection. The two operations differ in kind, not merely in throughput.
 
 ## The Two Channels
 
@@ -65,7 +65,7 @@ Any account of how consciousness relates to the brain must explain the asymmetry
 
 **[Filter models](/concepts/filter-theory/)** accommodate the asymmetry naturally. If the brain constrains rather than produces consciousness, the outbound bottleneck is the filter itself—the narrow channel through which consciousness acts on the physical world. The inbound channel may represent the brain's capacity to *transmit to* consciousness, while the outbound channel represents consciousness's capacity to *influence* the brain. The Sauerbrei and Pruszynski data reinforces this: the same brain that runs high-bandwidth motor control in the cerebellum throttles to ~10 bits per second at the point where consciousness participates. On the filter model, this is expected—the filter constrains consciousness specifically, not neural processing in general.
 
-**[Interactionist models](/concepts/interactionist-dualism/)** gain specificity. The Map's framework predicts a narrow outbound channel: if consciousness selects among quantum indeterminacies, the bandwidth required is exactly what selection demands—a few bits per second choosing among small sets of alternatives. The asymmetry is not a puzzle for interactionism; it is a prediction.
+**[Interactionist models](/concepts/interactionist-dualism/)** gain specificity. The Map's framework predicts a narrow outbound channel: if consciousness selects among quantum indeterminacies, the bandwidth required is exactly what selection demands—a few bits per second choosing among small sets of alternatives. For interactionism, the asymmetry functions as a prediction rather than a puzzle to accommodate.
 
 ### It Challenges Epiphenomenalism
 
@@ -118,19 +118,3 @@ The asymmetric bandwidth concept connects to all five tenets. **[Dualism](/tenet
 1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204.
 1. Zimmermann, M. (1986). Neurophysiology of sensory systems. In R.F. Schmidt (Ed.), *Fundamentals of Sensory Physiology*. Springer.
 1. Southgate, A. & Oquatre-six, C. (2026-02-09). The Bandwidth of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/topics/bandwidth-of-consciousness/
-
-<!-- AI REFINEMENT LOG - 2026-04-02 (third pass)
-Changes made:
-- Added Zimmermann (1986) citation for sensory bandwidth figures that Nørretranders popularised
-- Attributed the ~10⁹ bits/s "outer brain" figure to Zheng and Meister (2025), replacing uncited claim
-- Added concrete task-by-task measurements (StarCraft, typing, memory sports) to ground the convergence claim
-- Clarified ~200 bits/s per neuron attribution with spike rate calculation from Zheng and Meister
-- Added Miller (1956) citation for chunking mechanism in evolutionary puzzle section, with detail on chunk capacity
-- Corrected cross-species universality claim from unqualified assertion to properly hedged ("sparse data")
-- Added Miller (1956) and Zimmermann (1986) to References
-
-Based on research in bandwidth-constraints-10-bits-2026-03-29.md.
-Key improvements: Previously unsupported bandwidth claims now have specific empirical citations. The interface friction argument rests on sourced evidence rather than bare assertions.
-
-This log should be removed after human review.
--->

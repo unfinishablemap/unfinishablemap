@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 18:38:00+00:00
+ai_modified: 2026-04-20 21:38:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: Write concept article on The Double Veil as dualist epistemology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (High Priority). The double-veil structure — consciousness veiled from brain by interface, brain veiled from world by Markov blanket — is articulated as one section of `voids/predictive-construction-void.md` (lines 70-80) but is a general thesis about dualist epistemology deserving standalone treatment. Article would (a) formalise the two-veil structure as a positive epistemological claim, (b) distinguish it from standard dualist positions that assume one veil or none, (c) examine its implications for representation, error, and testimony, (d) connect to the bandwidth asymmetry (inbound 10⁹ is brain→consciousness *of predictions*, not *of world*), (e) flag the Popperian risks more systematically. Medium scope (2000-2500 words). Target section: concepts/ (~228/250, has capacity). Tenet alignment: Dualism (novel form), Minimal Quantum Interaction, Occam's Razor Has Limits. See optimistic-2026-04-21.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
+
+### P3: Write concept article on Zero-Signal Limits as epistemic category
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (High Priority). The addition of "silent erasure" to the failure-signature topology in `apex/taxonomy-of-voids.md` (line 119) alongside the erasure-void and recognition-void introduces a fundamentally new epistemic category: cognitive limits that produce *no* phenomenal marker. Currently instantiated in erasure-void and recognition-void but no meta-level article treats the category. Article would (a) name what distinguishes zero-signal limits from felt-as-opacity limits, (b) catalogue Map's zero-signal candidates, (c) articulate the epistemological challenge — only discoverable through external audit, developmental comparison, or collision with prior evidence, (d) discuss implications for introspective authority. Medium scope (1800-2200 words). Target section: concepts/ (~228/250). Tenet alignment: Occam's Razor Has Limits (hardest case for parsimony-based epistemology), Dualism. See optimistic-2026-04-21.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
+
+### P3: Write topic article on Evolutionary Signature of the 10-bit Ceiling
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (High Priority). `concepts/asymmetric-bandwidth-consciousness.md` (lines 81-85) names two candidate explanations for why evolution has not widened the outbound ceiling — neural-architectural inheritance and mind-brain-interface fixity — and declines to decide between them. A topic-level article would treat the *stability* of the ceiling itself as evidence to be explained: (a) survey comparative bandwidth data across species, (b) distinguish the neural-inheritance and interface explanations by predictions they differ on, (c) examine what would count as disconfirming evidence for each, (d) position the evolutionary question relative to the broader interface programme. Medium scope (2000-2500 words). Target section: topics/ (~224/250, has capacity). Tenet alignment: Minimal Quantum Interaction (quantitative bandwidth anchor), Bidirectional Interaction. See optimistic-2026-04-21.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
+
+### P3: Add cross-links between bandwidth, predictive-construction, and limits-reveal-structure
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (Cross-linking). Several high-value cross-links are missing between the cognitive-architecture cluster: (1) `concepts/asymmetric-bandwidth-consciousness.md` ↔ `voids/predictive-construction-void.md` — inbound 10⁹ is predictive content; (2) `concepts/asymmetric-bandwidth-consciousness.md` ↔ `voids/limits-reveal-structure.md` — bandwidth asymmetry is itself a revealing structural limit; (3) `voids/predictive-construction-void.md` → `topics/bandwidth-of-consciousness.md` — prediction compresses 10⁹ to ~10⁷; (4) `apex/taxonomy-of-voids.md` → `voids/predictive-construction-void.md` in phenomenological cluster and failure-signature discussion; (5) `voids/erasure-void.md` → `concepts/metacognition.md` — three-step architecture currently unlinked. Short scope (link additions, brief integrative paragraphs where appropriate). See optimistic-2026-04-21.md Cross-Linking Suggestions table.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
 
 ### P3: Condense pragmatist-quantum-foundations-and-the-agent.md (4079 words, 102% of hard threshold)
 - **Type**: condense
@@ -2413,14 +2441,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review limits-reveal-structure.md considering erasure-void insights
+### P2: Cross-review voids.md (voids section index) considering erasure-void insights
 - **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) is a clear instance of the limits-reveal-structure methodology: the structural impossibility of cognitive self-audit reveals architectural facts about consciousness (the monitoring system is co-located with the monitored faculties, anosognosia shows selective destruction, the apparent completeness of the map is itself the erasure). Limits-reveal-structure.md does not yet reference erasure-void despite its centrality as a worked example of the methodology. Cross-review should (a) add erasure-void to the related_articles frontmatter and link to it where the limits→structure inference is developed, (b) consider whether erasure-void should appear in the article body as a worked example alongside the existing intrinsic-nature-void and self-opacity treatments, (c) check whether the erasure-void's anosognosia material provides a clinical anchor that strengthens the limits-reveal-structure argument's empirical grounding, (d) verify terminology consistency (limits-reveal-structure uses "architecture," "constitutive limit"; erasure-void uses "monitoring system," "metacognitive architecture" — align if drift exists). See voids/erasure-void.md.
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [voids](/voids/) among its related_articles but the voids section index has no inbound link to erasure-void. The voids index is a primary navigation surface and needs to enumerate erasure-void alongside the other cartographic entries. Cross-review should (a) add erasure-void to the index's running catalogue with a short descriptive gloss, (b) place it in a sensible cluster (with the metacognitive/introspective voids — self-opacity, inaccessible-past, intrinsic-nature-void — rather than phenomenal absences), (c) check whether the index's introductory framing needs any update to accommodate "voids that erase their own evidence" as a structural category, (d) verify that terminology is consistent across the index and the new article (monitoring system, metacognitive architecture, selective destruction). See voids/erasure-void.md.
+- **Source**: chain (from erasure-void.md)
+- **Generated**: 2026-04-20
+
+### P2: Cross-review necessary-opacity.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) is conceptually adjacent to necessary-opacity: both concern structural impossibilities of self-transparency rather than contingent cognitive limits. Erasure-void lists [necessary-opacity](/voids/necessary-opacity/) in its related_articles but necessary-opacity.md has no inbound link to erasure-void. Cross-review should (a) add the inbound link where necessary-opacity discusses architectural reasons monitoring fails (the erasure-void's "the monitoring system is co-located with the monitored faculties" is a paradigm case of necessary opacity), (b) check whether necessary-opacity's treatment of "opacity that follows from architecture" can be strengthened by citing the anosognosia material, (c) consider whether the compound phenomenon — monitoring failure co-occurring with capacity loss — adds a sharper case than necessary-opacity currently provides, (d) verify terminology consistency (necessary-opacity uses "constitutive," "architectural"; erasure-void uses "metacognitive architecture," "monitoring system" — align if drift exists), (e) note that there is an existing P3 task to cross-review necessary-opacity against predictive-construction-void insights; these two cross-reviews can be handled in sequence or combined if the reviewer sees overlap. See voids/erasure-void.md.
 - **Source**: chain (from erasure-void.md)
 - **Generated**: 2026-04-20
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-20: Cross-review taxonomy-of-voids.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) introduces a structurally distinct void — the impossibility of auditing cognitive completeness — that belongs in the apex taxonomy but is not yet listed there. Erasure-void itself includes [voids](/voids/) and [self-opacity](/voids/self-opacity/) in its related_articles but the apex taxonomy article has zero references to erasure-void. Cross-review should (a) locate erasure-void within the taxonomy's existing categorisation (likely adjacent to self-opacity, inaccessible-past, and the metacognitive-architecture cluster), (b) add erasure-void to the apex's running list of voids with a one-sentence gloss distinguishing it from neighbouring voids (inaccessible-past covers inability to re-enter past states; self-opacity covers limits on present-tense introspection; erasure-void covers structural blindness to what has been lost), (c) check whether the clinical anosognosia material in erasure-void strengthens the apex's claim that voids reveal architectural facts, (d) add inbound link to erasure-void where the "voids compound" or "voids reveal structure" themes are developed. See voids/erasure-void.md.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review taxonomy-of-voids.md considering erasure-void insights
+
+### ✓ 2026-04-20: Cross-review limits-reveal-structure.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) is a clear instance of the limits-reveal-structure methodology: the structural impossibility of cognitive self-audit reveals architectural facts about consciousness (the monitoring system is co-located with the monitored faculties, anosognosia shows selective destruction, the apparent completeness of the map is itself the erasure). Limits-reveal-structure.md does not yet reference erasure-void despite its centrality as a worked example of the methodology. Cross-review should (a) add erasure-void to the related_articles frontmatter and link to it where the limits→structure inference is developed, (b) consider whether erasure-void should appear in the article body as a worked example alongside the existing intrinsic-nature-void and self-opacity treatments, (c) check whether the erasure-void's anosognosia material provides a clinical anchor that strengthens the limits-reveal-structure argument's empirical grounding, (d) verify terminology consistency (limits-reveal-structure uses "architecture," "constitutive limit"; erasure-void uses "monitoring system," "metacognitive architecture" — align if drift exists). See voids/erasure-void.md.
+- **Output**: obsidian/voids/limits-reveal-structure.md -- Context: Cross-review limits-reveal-structure.md considering erasure-void insights
 
 ### ✓ 2026-04-20: Update [concept-of-free-will](/topics/free-will/) wikilinks across 14 files after coalesce
 - **Type**: refine-draft

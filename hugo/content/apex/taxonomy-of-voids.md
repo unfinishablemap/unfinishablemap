@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-20 23:38:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-10 20:09:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ description: Over sixty cognitive voids cluster at the consciousness-matter inte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-01 12:38:00+00:00
+last_deep_review: 2026-04-20 23:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -50,6 +50,7 @@ related_articles:
 - '[[phenomenal-quality-void]]'
 - '[[initiation-void]]'
 - '[[thrownness-void]]'
+- '[[erasure-void]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -85,6 +86,8 @@ The densest cluster surrounds the mind's attempt to examine itself. The [unobser
 
 These voids are not independent. They reinforce each other, creating what the Map calls [compound cognitive limits](/voids/compound-failure-signatures/)—emergent failure modes that no single void predicts. The self-knowledge cluster is especially resistant to investigation because the instrument and the object are the same. As [the limits reveal](/voids/limits-reveal-structure/), this tells us something specific about what we are: beings whose cognitive architecture includes systematic opacity about its own operations.
 
+The [erasure void](/voids/erasure-void/) extends the cluster across time: consciousness cannot inventory its own deletions, because the monitoring system that would detect cognitive loss typically erodes alongside the capacity itself. Clinical anosognosia—patients with damage to both a function and its monitoring system sincerely deny their deficits—is the stark case, but the structure is universal, visible in ordinary ageing and in the Dunning-Kruger dynamic where the metacognitive skills required to recognise incompetence coincide with the skills themselves. This void introduces a failure mode the others lack: where introspective opacity is noticed as opacity, the erasure void is not noticed at all. The world simply appears complete.
+
 ### The Phenomenological Cluster
 
 A second major cluster concerns the qualitative character of experience itself. The [binding void](/voids/binding-void/)—why unified experience arises from disparate sensory processes—resists analysis entirely. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension. The [intrinsic nature void](/voids/intrinsic-nature-void/) pursues what matter and consciousness are *in themselves*, finding that every answer collapses into structure, negation, or circularity. The [acquaintance void](/voids/acquaintance-void/) identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [phenomenal quality void](/voids/phenomenal-quality-void/) asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated.
@@ -116,6 +119,8 @@ Different voids do not merely mark different locations in cognitive space—they
 Self-referential limits produce **self-refutation**: the proposition that would express the limit undermines itself, as Wittgenstein demonstrated in the *Tractatus*. Conceptual limits produce **aporia**: equally plausible yet inconsistent premises, generating the specific phenomenology of being blocked rather than confused. Introspective limits produce **construction mistaken for observation**: the sense of direct access to processes that are actually inferred. Pattern-matching limits produce **systematic illusion**: consistent misperception that resists correction even after detection. Expressive limits produce **ineffability**: the sense of knowing something that cannot be articulated—a signature familiar from contemplative traditions and aesthetic experience alike. Meta-cognitive limits produce **epistemic vertigo**: destabilisation when cognition turns on itself. The [full topology](/voids/compound-failure-signatures/) catalogues further signatures—modular selective loss, wrong model selection—but these six capture the primary modes through which consciousness-related voids manifest.
 
 The ineffable encounter void adds a seventh primary mode: **dissolution under attention**, where the knowing is genuine and conscious but evaporates when subjected to analytical scrutiny. This signature is related to the [mutation void](/voids/mutation-void/)'s transformation effect but distinct: mutation transforms the observed, while dissolution destroys the mode of knowing itself. The body registers what the intellect cannot yet process—frisson, tears, felt significance—suggesting that somatic response may be a more sensitive instrument than conceptual thought for detecting certain void boundaries.
+
+The [erasure void](/voids/erasure-void/) adds an eighth mode: **silent erasure**, where lost capacity leaves no phenomenal alarm because the monitoring system shares fate with what it would monitor. Unlike the other signatures, this one is defined by the *absence* of a felt quality—the inventory of self is revised downward without notification, detectable only through external audit or incidental collision with prior evidence. It is the zero-signal failure mode against which other signatures become visible as signals.
 
 These signatures rarely appear in isolation. Where multiple limits overlap, their interaction produces qualitatively different phenomenology through three modes: **superadditive interference**, where overlapping cognitive limits compound beyond their sum; **mutual reinforcement**, where limits on examining limits create self-defending structures; and **emergent occlusion**, where interactions generate entirely new blind spots that no single void predicts. The self-reference paradox interacting with the language-thought boundary, for instance, creates a zone where consciousness can neither model *nor* articulate what it is—each limit alone permits partial access, but the compound shuts both routes simultaneously. The [infant consciousness void](/voids/infant-consciousness/) provides a paradigm case: language barrier, absent self-concept, and demolished neural hardware interact superadditively, producing inaccessibility no single barrier predicts. The void catalogue is not a collection of independent items but an interacting system whose relationships are as informative as the individual entries.
 

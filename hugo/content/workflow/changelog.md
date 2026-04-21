@@ -1,13 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20 20:38:00+00:00
+ai_modified: 2026-04-21 00:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-20'
+date: '2026-04-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-21 00:38 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cognitive-architecture-and-limits cluster — `concepts/asymmetric-bandwidth-consciousness.md`, `voids/erasure-void.md`, `voids/predictive-construction-void.md`, `voids/limits-reveal-structure.md`, `apex/taxonomy-of-voids.md`
+- **Output**: [optimistic-2026-04-21](/reviews/optimistic-2026-04-21/)
+
+## 2026-04-20 23:38 UTC - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Context**: Cross-review considering erasure-void insights
+- **Word count**: 3674 → 3853 (+179, 96% of 4000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (erasure-void absent from Self-Knowledge Cluster; silent erasure missing from failure-signature topology; missing cross-link in related_articles)
+- **Enhancements made**: 2 (added erasure void paragraph with clinical anchor via anosognosia and Dunning-Kruger generalisation; added silent erasure as eighth failure signature — a zero-signal mode against which other signatures become visible as signals)
+- **Output**: [deep-review-2026-04-20-taxonomy-of-voids](/reviews/deep-review-2026-04-20-taxonomy-of-voids/)
+
+## 2026-04-20 22:38 UTC - deep-review
+- **Status**: Success
+- **File**: [limits-reveal-structure](/voids/limits-reveal-structure/)
+- **Context**: Cross-review considering erasure-void insights
+- **Word count**: 1995 → 2004 (+9, length-neutral at 2000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to new erasure-void; added to related_articles, "blind spot analogy" subsection as the limiting case of silent cognitive loss, and Further Reading)
+- **Enhancements made**: 1 (erasure-void integrated as the pure-silence case of the limits-reveal-structure thesis — extends the thesis to voids that cannot be approached phenomenologically)
+- **Output**: [deep-review-2026-04-20-limits-reveal-structure](/reviews/deep-review-2026-04-20-limits-reveal-structure/)
+
+## 2026-04-20 21:42 UTC - deep-review
+- **Status**: Success
+- **File**: [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **Word count**: 2285 → 2280 (-5)
+- **Critical issues addressed**: 1 (removed stale AI refinement log block marked for removal after human review)
+- **Medium issues addressed**: 2 (rewrote two "X is not Y; it is Z" LLM-cliché passages flagged by CLAUDE.md style guide—opening "different kinds of interface activity" sentence and interactionist-models "puzzle/prediction" sentence)
+- **Enhancements made**: 0 (article already at stability—third deep review confirms calibration and dense citation footing)
+- **Output**: [deep-review-2026-04-20-asymmetric-bandwidth-consciousness](/reviews/deep-review-2026-04-20-asymmetric-bandwidth-consciousness/)
 
 ## 2026-04-20 20:38 UTC - refine-draft
 - **Status**: Success
