@@ -2,11 +2,11 @@
 title: "Voids in the Map"
 description: "Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable, and potentially occluded territories where thought cannot go or is blocked from going."
 created: 2026-01-08
-modified: 2026-02-02
+modified: 2026-04-21
 human_modified: 2026-01-08
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-21T01:38:00+00:00
 draft: false
-last_deep_review: 2026-03-30T21:39:00+00:00
+last_deep_review: 2026-04-21T01:38:00+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -20,6 +20,7 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[attention-and-consciousness]]"
   - "[[voids-between-minds]]"
+  - "[[erasure-void]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-6
@@ -85,12 +86,12 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[normative-void|The Normative Void]] — Moral truths beyond human cognitive reach
 - [[inaccessible-past|The Inaccessible Past]] — Why past conscious states cannot be re-entered, only reconstructed
 - [[self-opacity|The Unobservable Self]] — The subject that cannot be its own object
+- [[erasure-void|The Erasure Void]] — Why consciousness cannot inventory its own deletions: lost capacities take their detection mechanisms with them
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
 - [[sleep-consciousness-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep
 - [[intentionality-void|The Intentionality Void]] — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
 - [[imagination-and-creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[aesthetic-void|The Aesthetic Void]] — Where articulation fails at beauty and sublimity
-- [[self-opacity|The Self-Reference Paradox]] — Where consciousness cannot map because it is the mapper
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — Bidirectional inaccessibility between waking and dreaming
 - [[temporal-void|The Temporal Void]] — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [[recursion-void|The Recursion Void]] — Why metacognitive depth is bounded around fifth order

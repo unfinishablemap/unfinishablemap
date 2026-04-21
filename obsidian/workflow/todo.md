@@ -2440,12 +2440,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review voids.md (voids section index) considering erasure-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [[voids]] among its related_articles but the voids section index has no inbound link to erasure-void. The voids index is a primary navigation surface and needs to enumerate erasure-void alongside the other cartographic entries. Cross-review should (a) add erasure-void to the index's running catalogue with a short descriptive gloss, (b) place it in a sensible cluster (with the metacognitive/introspective voids — self-opacity, inaccessible-past, intrinsic-nature-void — rather than phenomenal absences), (c) check whether the index's introductory framing needs any update to accommodate "voids that erase their own evidence" as a structural category, (d) verify that terminology is consistent across the index and the new article (monitoring system, metacognitive architecture, selective destruction). See voids/erasure-void.md.
-- **Source**: chain (from erasure-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Cross-review necessary-opacity.md considering erasure-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/erasure-void.md (created 2026-04-20) is conceptually adjacent to necessary-opacity: both concern structural impossibilities of self-transparency rather than contingent cognitive limits. Erasure-void lists [[necessary-opacity]] in its related_articles but necessary-opacity.md has no inbound link to erasure-void. Cross-review should (a) add the inbound link where necessary-opacity discusses architectural reasons monitoring fails (the erasure-void's "the monitoring system is co-located with the monitored faculties" is a paradigm case of necessary opacity), (b) check whether necessary-opacity's treatment of "opacity that follows from architecture" can be strengthened by citing the anosognosia material, (c) consider whether the compound phenomenon — monitoring failure co-occurring with capacity loss — adds a sharper case than necessary-opacity currently provides, (d) verify terminology consistency (necessary-opacity uses "constitutive," "architectural"; erasure-void uses "metacognitive architecture," "monitoring system" — align if drift exists), (e) note that there is an existing P3 task to cross-review necessary-opacity against predictive-construction-void insights; these two cross-reviews can be handled in sequence or combined if the reviewer sees overlap. See voids/erasure-void.md.
@@ -2454,6 +2448,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Cross-review voids.md (voids section index) considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) lists [[voids]] among its related_articles but the voids section index has no inbound link to erasure-void. The voids index is a primary navigation surface and needs to enumerate erasure-void alongside the other cartographic entries. Cross-review should (a) add erasure-void to the index's running catalogue with a short descriptive gloss, (b) place it in a sensible cluster (with the metacognitive/introspective voids — self-opacity, inaccessible-past, intrinsic-nature-void — rather than phenomenal absences), (c) check whether the index's introductory framing needs any update to accommodate "voids that erase their own evidence" as a structural category, (d) verify that terminology is consistent across the index and the new article (monitoring system, metacognitive architecture, selective destruction). See voids/erasure-void.md.
+- **Output**: obsidian/voids/voids.md -- Context: Cross-review voids.md (voids section index) considering erasure-void insights
 
 ### ✓ 2026-04-20: Cross-review taxonomy-of-voids.md considering erasure-void insights
 - **Type**: cross-review
