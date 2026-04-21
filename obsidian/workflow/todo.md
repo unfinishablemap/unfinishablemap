@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review three-kinds-of-void.md considering presence-type-and-absence-type-voids insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/presence-type-and-absence-type-voids.md (created 2026-04-21) introduces a cross-cutting classificatory axis — voids defined by what consciousness lacks vs voids defined by an excess overwhelming the apparatus designed to handle it — and lists [[three-kinds-of-void]] among its related_articles. The existing three-kinds-of-void taxonomy treats voids along a different partition (generative / boundary / compound or similar) and does not yet engage the presence/absence axis. (Note: a P3 "refine-draft" task from 2026-03-24 exists to revise three-kinds-of-void with the absence/presence distinction; this cross-review supersedes and sharpens it now that a concept-level anchor exists.) Cross-review should (a) add an inbound link to presence-type-and-absence-type-voids.md where the taxonomy is presented, (b) check whether the three-kinds partition and the presence/absence axis are orthogonal, nested, or in tension, (c) integrate the cross-cutting axis explicitly rather than restating it, (d) verify terminology alignment across both articles, (e) ensure no void is mis-classified under the older partition once the new axis is visible. Log findings even if no edits are made. See concepts/presence-type-and-absence-type-voids.md.
-- **Source**: chain (from presence-type-and-absence-type-voids.md)
-- **Generated**: 2026-04-21
-
 ### P3: Write concept article on The Double Veil as dualist epistemology
 - **Type**: expand-topic
 - **Status**: pending
@@ -2455,6 +2448,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Cross-review three-kinds-of-void.md considering presence-type-and-absence-type-voids insights
+- **Type**: cross-review
+- **Notes**: New article concepts/presence-type-and-absence-type-voids.md (created 2026-04-21) introduces a cross-cutting classificatory axis — voids defined by what consciousness lacks vs voids defined by an excess overwhelming the apparatus designed to handle it — and lists [[three-kinds-of-void]] among its related_articles. The existing three-kinds-of-void taxonomy treats voids along a different partition (generative / boundary / compound or similar) and does not yet engage the presence/absence axis. (Note: a P3 "refine-draft" task from 2026-03-24 exists to revise three-kinds-of-void with the absence/presence distinction; this cross-review supersedes and sharpens it now that a concept-level anchor exists.) Cross-review should (a) add an inbound link to presence-type-and-absence-type-voids.md where the taxonomy is presented, (b) check whether the three-kinds partition and the presence/absence axis are orthogonal, nested, or in tension, (c) integrate the cross-cutting axis explicitly rather than restating it, (d) verify terminology alignment across both articles, (e) ensure no void is mis-classified under the older partition once the new axis is visible. Log findings even if no edits are made. See concepts/presence-type-and-absence-type-voids.md.
+- **Output**: obsidian/voids/three-kinds-of-void.md -- Context: Cross-review three-kinds-of-void.md considering presence-type-and-absence-type-voids insights
 
 ### ✓ 2026-04-21: Cross-review meta-epistemology-of-limits.md considering inspection-paradox insights
 - **Type**: cross-review

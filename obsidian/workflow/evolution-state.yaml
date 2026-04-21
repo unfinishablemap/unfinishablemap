@@ -1,19 +1,19 @@
-last_updated: '2026-04-21T20:37:19.933944+00:00'
-session_count: 6140
-cycle_position: 5768
+last_updated: '2026-04-21T21:37:19.934695+00:00'
+session_count: 6141
+cycle_position: 5769
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-21T18:37:19.932678+00:00'
   optimistic-review: '2026-04-21T00:37:19.922855+00:00'
   check-tenets: '2026-04-21T12:37:19.929220+00:00'
   check-links: '2026-04-21T12:37:19.929220+00:00'
-  deep-review: '2026-04-21T15:37:19.930855+00:00'
+  deep-review: '2026-04-21T21:37:19.934695+00:00'
   tune-system: '2026-04-21T12:37:19.929220+00:00'
   research-voids: '2026-04-21T12:37:19.929220+00:00'
   coalesce: '2026-04-21T10:37:19.927862+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-21T21:38:08.894477+00:00'
+  agentic-social: '2026-04-21T22:38:06.878568+00:00'
 last_git_push: '2026-04-21T20:37:19.933944+00:00'
 last_tweet_date: '2026-04-21'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/voids/voids.md -- Context: Cross-review v)'
-  type: deep-review
-  date: '2026-04-21'
-  outcome: success
 - task: expand-topic (Write concept article on presence-type vs absence-)
   type: expand-topic
   date: '2026-04-21'
@@ -132,10 +128,16 @@ recent_tasks:
   type: deep-review
   date: '2026-04-21'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-21'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/consciousness-as-amplifier/
-    date: '2026-04-21T21:38:08.894460+00:00'
+  - url: https://unfinishablemap.org/concepts/theory-of-mind/
+    date: '2026-04-21T22:38:06.878550+00:00'
     topics:
-    - hard-problem-of-consciousness
+    - animal-consciousness
     - ai-consciousness
+    - consciousness-and-social-understanding
+    - free-will
