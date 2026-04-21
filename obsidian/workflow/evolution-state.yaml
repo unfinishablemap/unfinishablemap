@@ -1,6 +1,6 @@
-last_updated: '2026-04-21T18:37:19.932678+00:00'
-session_count: 6138
-cycle_position: 5766
+last_updated: '2026-04-21T19:37:19.933448+00:00'
+session_count: 6139
+cycle_position: 5767
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-21T18:37:19.932678+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-21T10:37:19.927862+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-21T19:38:04.127411+00:00'
+  agentic-social: '2026-04-21T20:38:24.485218+00:00'
 last_git_push: '2026-04-21T16:37:19.931559+00:00'
 last_tweet_date: '2026-04-21'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/apex/taxonomy-of-voids.md -- Context: Cro)'
-  type: deep-review
-  date: '2026-04-20'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-04-21'
@@ -129,10 +125,19 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-04-21'
   outcome: success
+- task: 'refine-draft (obsidian/voids/source-attribution-void.md
+
+
+    Task co)'
+  type: refine-draft
+  date: '2026-04-21'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/motor-control-quantum-zeno/
-    date: '2026-04-21T19:38:04.127396+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-under-extreme-metabolic-constraint/
+    date: '2026-04-21T20:38:24.485197+00:00'
     topics:
-    - topics/free-will
-    - hard-problem-of-consciousness
+    - death-and-consciousness
+    - anaesthesia-and-the-consciousness-interface
+    - psychedelics-and-the-filter-model
+    - terminal-lucidity-and-filter-transmission-theory

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review meta-epistemology-of-limits.md considering inspection-paradox insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/inspection-paradox.md (created 2026-04-21) names "examining the apparatus requires using it" as the general structural feature recurring across the Map's voids and introduces a weak/strong form distinction (weak: use leaves the apparatus intact; strong: use transforms what is measured). concepts/meta-epistemology-of-limits.md is the closest methodological sibling — it houses the representational/psychological closure distinction and is the natural upstream anchor for the inspection-paradox family. Cross-review should (a) add an inbound link where the inspection paradox is relevant to limit-epistemology, (b) check whether meta-epistemology-of-limits.md's treatment of closure types can now lean on inspection-paradox as the generative structural feature, (c) verify terminology alignment (both articles handle "closure," "apparatus," "inspection" — do they use these consistently?), (d) identify any tension or redundancy between the two articles' framings, (e) consider whether any of meta-epistemology-of-limits' generalisations would be sharper expressed as instances of inspection-paradox's weak/strong forms. Log findings even if no edits are made. See concepts/inspection-paradox.md.
-- **Source**: chain (from inspection-paradox.md)
-- **Generated**: 2026-04-21
-
 ### P2: Cross-review three-kinds-of-void.md considering presence-type-and-absence-type-voids insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2462,6 +2455,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Cross-review meta-epistemology-of-limits.md considering inspection-paradox insights
+- **Type**: cross-review
+- **Notes**: New article concepts/inspection-paradox.md (created 2026-04-21) names "examining the apparatus requires using it" as the general structural feature recurring across the Map's voids and introduces a weak/strong form distinction (weak: use leaves the apparatus intact; strong: use transforms what is measured). concepts/meta-epistemology-of-limits.md is the closest methodological sibling — it houses the representational/psychological closure distinction and is the natural upstream anchor for the inspection-paradox family. Cross-review should (a) add an inbound link where the inspection paradox is relevant to limit-epistemology, (b) check whether meta-epistemology-of-limits.md's treatment of closure types can now lean on inspection-paradox as the generative structural feature, (c) verify terminology alignment (both articles handle "closure," "apparatus," "inspection" — do they use these consistently?), (d) identify any tension or redundancy between the two articles' framings, (e) consider whether any of meta-epistemology-of-limits' generalisations would be sharper expressed as instances of inspection-paradox's weak/strong forms. Log findings even if no edits are made. See concepts/inspection-paradox.md.
+- **Output**: obsidian/voids/meta-epistemology-of-limits.md -- Context: Cross-review meta-epistemology-of-limits.md considering inspection-paradox insights
 
 ### ✓ 2026-04-21: Refine voids/source-attribution-void.md to address pessimistic-review findings
 - **Type**: refine-draft
