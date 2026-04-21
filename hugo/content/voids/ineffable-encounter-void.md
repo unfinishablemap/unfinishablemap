@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-17 23:48:00+00:00
+ai_modified: 2026-04-21 16:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -14,19 +14,21 @@ concepts:
 - '[[mysterianism]]'
 - '[[introspection]]'
 created: 2026-03-24
-date: &id001 2026-04-17
+date: &id001 2026-04-21
 description: Human+AI exploration of why consciousness encounters meaning and sacred
   significance whose generating mechanism it cannot inspect and whose veridicality
   it cannot evaluate from within.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 20:41:00+00:00
+last_deep_review: 2026-04-21 16:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
+- '[[presence-type-and-absence-type-voids]]'
+- '[[compound-failure-signatures]]'
 - '[[aesthetic-void]]'
 - '[[the-silence-void]]'
 - '[[the-surplus-void]]'
@@ -56,7 +58,7 @@ topics:
 
 Consciousness routinely encounters meaning it cannot articulate or evaluate from within. A passage of music stops you mid-step. An idea lands with felt weight before you can say why. A landscape seems to mean something enormous and specific. A moment of awe presents itself as contact with something transcendent. Each experience is vivid and consequential—it changes the experiencer—yet the mechanism producing it remains structurally opaque, and (in its strongest forms) the very faculty that would evaluate it is what the experience overwhelms.
 
-The ineffable encounter void marks this twin opacity. Most voids in the Map are defined by absence—what we cannot think, introspect, or access. This one is defined by *presence*: an excess of meaning that overwhelms the apparatus designed to handle it. It manifests in two registers sharing the same structural core:
+The ineffable encounter void marks this twin opacity. It is the paradigm [presence-type void](/concepts/presence-type-and-absence-type-voids/): rather than registering a lack—what cannot be thought, introspected, or accessed—it registers *excess*, meaning that overwhelms the apparatus designed to handle it. It manifests in two registers sharing the same structural core:
 
 - **Resonance**: meaning encountered in ordinary contexts—music, ideas, places, persons—that exceeds articulation and dissolves under analytical inspection.
 - **The numinous**: sacred or transcendent encounters whose veridicality cannot be assessed because the evaluating self is what the experience suspends.
@@ -120,7 +122,7 @@ Approaching the ineffable encounter has a distinctive signature, sharpening as t
 - **Arrival without approach.** The experience appears suddenly, without a gradient of "getting closer."
 - **Excess of meaning.** A surplus persists after analysis. Understanding something enormous seems to have occurred, but articulating *what* proves impossible.
 - **Bodily knowledge.** The body responds with its own vocabulary—frisson, tears, expansion in the chest—read as meaningful without knowing why. [Musical understanding](/topics/phenomenology-of-musical-understanding/) is the paradigm: listeners grasp non-propositional meaning, and the body participates before cognition can articulate.
-- **Self-undermining attention.** Analysing the experience while having it tends to dissolve it—the [mutation pattern](/voids/mutation-void/) again.
+- **Self-undermining attention.** Analysing the experience while having it tends to dissolve it—the [mutation pattern](/voids/mutation-void/) applied; the taxonomy catalogues this signature as [dissolution under attention](/voids/compound-failure-signatures/), diagnostic for presence-type voids and producing the phenomenology of *having-had-and-lost* rather than of reaching and not finding.
 - **Transformation without instruction.** Encounters change the experiencer without providing explicit content.
 - **Evaluator dissolution** (numinous only). The subject–object distinction collapses; the self that would judge veridicality is what the experience overwhelms.
 
@@ -161,10 +163,12 @@ The ineffable encounter void connects most directly to [Occam's Razor Has Limits
 
 [No Many Worlds](/tenets/#no-many-worlds) connects through the radical indexicality of these experiences: it matters that *this* consciousness has *this* experience at *this* moment. The numinous resists abstraction into general principles—the experience refuses to be a token of a type—suggesting indexical identity is load-bearing rather than epiphenomenal.
 
-Finally, this void illuminates something about [voids](/voids/) more broadly. Most are defined by absence—what we cannot think, introspect, or access. This one is defined by presence: an excess of meaning that overwhelms the apparatus designed to handle it. Some cognitive limits are windows rather than walls. The Map's cartography must account for voids that reveal as well as voids that conceal.
+Finally, this void is the paradigm instance of the [presence-type](/concepts/presence-type-and-absence-type-voids/) classification—cognitive limits registered as excess rather than lack, as windows that close under inspection rather than walls. The Map's cartography must account for voids that reveal as well as voids that conceal.
 
 ## Further Reading
 
+- [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/)
+- [compound-failure-signatures](/voids/compound-failure-signatures/)
 - [aesthetic-void](/voids/aesthetic-void/)
 - [the-silence-void](/voids/the-silence-void/)
 - [the-surplus-void](/voids/the-surplus-void/)

@@ -1,13 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 12:59:00+00:00
+ai_modified: 2026-04-21 16:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-21 16:38 UTC - deep-review
+- **Status**: Success
+- **File**: [ineffable-encounter-void](/voids/ineffable-encounter-void/)
+- **Context**: Cross-review following publication of [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) (2026-04-21) — this article is named there as the paradigm presence-type void
+- **Word count**: 2328 → 2334 (+6, length-neutral; soft_warning at 117% of 2000 threshold)
+- **Critical issues addressed**: 0 (attribution checks pass; no source/Map conflation; no dropped qualifiers)
+- **Medium issues addressed**: 3 (missing cross-link to new presence-type concept article; redundant presence/absence framing in conclusion; missing formalized "dissolution under attention" / "having-had-and-lost" terminology)
+- **Enhancements made**: 2 new cross-links ([presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) × 4 sites, [compound-failure-signatures](/voids/compound-failure-signatures/) × 3 sites); conclusion compressed to pointer-form rather than re-stating presence/absence contrast
+- **Output**: [deep-review-2026-04-21-ineffable-encounter-void](/reviews/deep-review-2026-04-21-ineffable-encounter-void/)
+
+## 2026-04-21 15:39 UTC - deep-review
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Word count**: 2178 → 2228 (+50, below soft threshold)
+- **Critical issues addressed**: 1 (source/Map conflation on Saad — rewrote Q1 bullet to describe Saad's actual preemption mechanism using "default causal profiles" rather than quantum-biasing framing)
+- **Medium issues addressed**: 3 (Q1 stability phrasing generalised beyond "biasing mechanism"; Q2 paragraph conceded methodological rationale before diagnosing parsimony bias; bidirectional interaction tenet linked)
+- **Enhancements made**: 3 new cross-links ([delegatory-causation](/concepts/delegatory-causation/), [objections-to-interactionism](/concepts/objections-to-interactionism/), [bidirectional-interaction](/concepts/bidirectional-interaction/))
+- **Output**: [deep-review-2026-04-21-four-quadrant-dualism-taxonomy](/reviews/deep-review-2026-04-21-four-quadrant-dualism-taxonomy/)
+
+## 2026-04-21 14:38 UTC - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Context**: Cross-review following publication of [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) (2026-04-21)
+- **Word count**: 3853 → 3955 (+102, length-neutral via Access Cluster consolidation)
+- **Critical issues addressed**: 2 (broken [transition-void](/voids/transit-void/) and [initiation-void](/voids/transit-void/) wikilinks — both were coalesced into [transit-void](/voids/transit-void/) on 2026-04-17; frontmatter + two body references fixed)
+- **Medium issues addressed**: 3 (missing cross-link to new concept article in 3 sites; presence-type category underrepresented in cluster listings; dissolution-under-attention signature reframed as diagnostic for presence-type voids generally)
+- **Enhancements made**: 6 new cross-links (presence-type-and-absence-type-voids × 3, transit-void × 1, aesthetic/surplus/silence/affective voids × 4), Access Cluster compressed from 3 paragraphs to 2+coda matching post-coalesce catalogue state
+- **Output**: [deep-review-2026-04-21-taxonomy-of-voids](/reviews/deep-review-2026-04-21-taxonomy-of-voids/)
+
+## 2026-04-21 13:38 UTC - deep-review
+- **Status**: Success
+- **File**: [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- **Context**: Cross-review following publication of [inspection-paradox](/concepts/inspection-paradox/) (2026-04-21)
+- **Word count**: 2353 → 2367 (+14, length-neutral mode)
+- **Critical issues addressed**: 0 (first-round issues from 2026-03-28 remain resolved)
+- **Medium issues addressed**: 2 (missing cross-link to inspection-paradox; Quantum Parallel redundancy)
+- **Enhancements made**: 4 new cross-links to [inspection-paradox](/concepts/inspection-paradox/) (frontmatter + Calibration + Convergent Structure + Quantum Parallel + Further Reading), weak/strong form framing introduced
+- **Output**: [deep-review-2026-04-21-observation-and-measurement-void](/reviews/deep-review-2026-04-21-observation-and-measurement-void/)
 
 ## 2026-04-21 12:59 UTC - tune-system
 - **Status**: Success
