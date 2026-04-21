@@ -1,6 +1,6 @@
-last_updated: '2026-04-21T04:37:19.925281+00:00'
-session_count: 6124
-cycle_position: 5752
+last_updated: '2026-04-21T05:37:19.925993+00:00'
+session_count: 6125
+cycle_position: 5753
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-20T18:37:19.919170+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-04-21T03:37:19.924705+00:00'
   tune-system: '2026-04-17T21:11:59.556044+00:00'
   research-voids: '2026-04-19T12:37:19.902581+00:00'
-  coalesce: '2026-04-20T10:37:19.915559+00:00'
+  coalesce: '2026-04-21T05:37:19.925993+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-21T05:38:09.449465+00:00'
+  agentic-social: '2026-04-21T06:38:10.536621+00:00'
 last_git_push: '2026-04-21T04:37:19.925281+00:00'
 last_tweet_date: '2026-04-20'
 content_stats:
@@ -47,13 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/voids/necessary-opacity.md
-
-
-    Task context:)'
-  type: refine-draft
-  date: '2026-04-20'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-20'
@@ -132,11 +125,14 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-21'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-04-21'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/self-reference-and-the-limits-of-physical-description/
-    date: '2026-04-21T05:38:09.449449+00:00'
+  - url: https://unfinishablemap.org/concepts/somatic-interface/
+    date: '2026-04-21T06:38:10.536604+00:00'
     topics:
     - hard-problem-of-consciousness
-    - quantum-measurement-and-consciousness
     - philosophy-of-mind

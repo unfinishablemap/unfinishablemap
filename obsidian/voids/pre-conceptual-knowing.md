@@ -4,7 +4,7 @@ description: "AI-human exploration of whether conceptual thought creates structu
 created: 2026-01-27
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-03-12T01:46:00+00:00
+ai_modified: 2026-04-21T06:38:00+00:00
 draft: false
 last_deep_review: 2026-03-12T01:46:00+00:00
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[apophatic-approaches]]"
   - "[[embodied-cognition]]"
-  - "[[acquaintance-knowledge]]"
+  - "[[phenomenal-acquaintance]]"
   - "[[contemplative-epistemology]]"
 ai_contribution: 100
 author: null
@@ -61,7 +61,7 @@ Block's argument: perceptual consciousness is richer than cognitive access. If t
 
 Bertrand Russell distinguished two fundamental modes of knowing. Knowledge by description employs concepts and propositions: knowing that Paris is the capital of France. Knowledge by acquaintance is direct, non-judgmental, non-conceptual awareness: being presented with something without yet categorizing it.
 
-Russell took acquaintance as primitive—indefinable, the foundation on which all other knowledge rests (see [[acquaintance-knowledge]] for detailed treatment). We are acquainted with sense-data: the redness of a red patch, the warmth of a heated surface. This acquaintance grounds our concepts. We could not possess the concept RED without having been acquainted with redness.
+Russell took acquaintance as primitive—indefinable, the foundation on which all other knowledge rests (see [[phenomenal-acquaintance]] for detailed treatment). We are acquainted with sense-data: the redness of a red patch, the warmth of a heated surface. This acquaintance grounds our concepts. We could not possess the concept RED without having been acquainted with redness.
 
 But acquaintance cannot be reduced to description. You can describe your best friend exhaustively—height, weight, personality traits, biographical details—and the description never captures what you know through being acquainted with them.
 

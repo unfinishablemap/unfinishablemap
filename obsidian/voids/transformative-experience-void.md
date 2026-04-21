@@ -4,13 +4,13 @@ description: "Human+AI exploration of the cognitive void opened by choices whose
 created: 2026-04-17
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-18T03:19:00+00:00
+ai_modified: 2026-04-21T06:38:00+00:00
 last_deep_review: 2026-04-18T03:19:00+00:00
 draft: false
 topics: []
 concepts:
   - "[[qualia]]"
-  - "[[acquaintance-knowledge]]"
+  - "[[phenomenal-acquaintance]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"

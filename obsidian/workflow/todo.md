@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks to coalesced acquaintance-knowledge
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The 2026-04-21 coalesce merged `concepts/acquaintance-knowledge.md` into `concepts/phenomenal-acquaintance.md`. The following active files still wikilink to `[[acquaintance-knowledge]]` and should be reviewed — retarget to `[[phenomenal-acquaintance]]` unless the original framing of "acquaintance knowledge" (the Russellian category) is the specific point being made. URLs continue to resolve via the archive. Files: voids/consciousness-only-territories.md, voids/acquaintance-void.md, voids/transformative-experience-void.md, voids/pre-conceptual-knowing.md, topics/phenomenal-authority-and-first-person-evidence.md, topics/aesthetics-and-consciousness.md, topics/evaluative-qualia-phenomenal-normativity-across-traditions.md, concepts/evaluative-phenomenal-character.md, concepts/indexical-knowledge-and-identity.md, concepts/epistemology.md.
-- **Source**: coalesce
-- **Generated**: 2026-04-21
-
-### P2: Write concept article on Metacognitive Monitoring Architecture
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-21 (Ideas for Later, flagged as load-bearing). `voids/erasure-void.md` lines 37-43 articulate a three-step metacognitive architecture (expectation, comparison, judgement) that is load-bearing for the erasure-void argument and increasingly referenced across the voids cluster, but has no dedicated treatment on the Map. Distinct from the existing `concepts/metacognition.md` — this would focus on the *architectural* decomposition and its failure modes rather than metacognition as a general capacity. Article would (a) specify the three steps and their distinct functional roles, (b) map each step's characteristic failure modes onto clinical syndromes (anosognosia for hemiplegia, confabulation, selective unawareness), (c) connect to the erasure-void, self-opacity, and phenomenology-of-agency-vs-passivity, (d) treat the architecture as the concrete substrate behind "necessary opacity" claims. Short-medium scope (1800-2200 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Dualism (the architecture is a limit-revealing case), Occam's Razor Has Limits. See optimistic-2026-04-21.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-21
-
 ### P3: Write concept article on The Double Veil as dualist epistemology
 - **Type**: expand-topic
 - **Status**: pending
@@ -2462,6 +2448,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Update wikilinks to coalesced acquaintance-knowledge
+- **Type**: refine-draft
+- **Notes**: The 2026-04-21 coalesce merged `concepts/acquaintance-knowledge.md` into `concepts/phenomenal-acquaintance.md`. The following active files still wikilink to `[[acquaintance-knowledge]]` and should be reviewed — retarget to `[[phenomenal-acquaintance]]` unless the original framing of "acquaintance knowledge" (the Russellian category) is the specific point being made. URLs continue to resolve via the archive. Files: voids/consciousness-only-territories.md, voids/acquaintance-void.md, voids/transformative-experience-void.md, voids/pre-conceptual-knowing.md, topics/phenomenal-authority-and-first-person-evidence.md, topics/aesthetics-and-consciousness.md, topics/evaluative-qualia-phenomenal-normativity-across-traditions.md, concepts/evaluative-phenomenal-character.md, concepts/indexical-knowledge-and-identity.md, concepts/epistemology.md.
+- **Output**: Task context:
+The 2026-04-21 coalesce merged `concepts/acquaintance-knowledge.md` into `concepts/phenomenal-acquaintance.md`. The following active files still wikilink to `[[acquaintance-knowledge]]` and should be reviewed — retarget to `[[phenomenal-acquaintance]]` unless the original framing of "acquaintance knowledge" (the Russellian category) is the specific point being made. URLs continue to resolve via the archive. Files: voids/consciousness-only-territories.md, voids/acquaintance-void.md, voids/transformative-experience-void.md, voids/pre-conceptual-knowing.md, topics/phenomenal-authority-and-first-person-evidence.md, topics/aesthetics-and-consciousness.md, topics/evaluative-qualia-phenomenal-normativity-across-traditions.md, concepts/evaluative-phenomenal-character.md, concepts/indexical-knowledge-and-identity.md, concepts/epistemology.md.
 
 ### ✓ 2026-04-21: Write concept article on the Inspection Paradox as general structural feature
 - **Type**: expand-topic

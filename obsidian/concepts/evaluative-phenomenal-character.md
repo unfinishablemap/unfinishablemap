@@ -4,7 +4,7 @@ description: "Conscious experience carries intrinsic evaluative character—felt
 created: 2026-01-16
 modified: 2026-04-06
 human_modified:
-ai_modified: 2026-04-16T04:19:00+00:00
+ai_modified: 2026-04-21T06:38:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -74,7 +74,7 @@ Three features distinguish evaluative from sensory qualia. **Normative valence**
 
 Sharon Hewitt Rawlette develops the core argument in *The Feeling of Value* (2016). Pleasantness and intrinsic goodness are identical—not merely correlated. The experiential quality of joy just is what we mean by "intrinsically good." This identity claim is stronger than typical hedonism: hedonists argue pleasure causes or indicates value; Rawlette argues pleasure *is* value—one property under two descriptions.
 
-The case builds on [[acquaintance-knowledge|knowledge by acquaintance]]. We don't know pain is bad through inference—we are directly acquainted with its badness in experience. The [[knowledge-argument]] establishes that phenomenal knowledge exceeds physical description. Phenomenal normativity extends this: normative knowledge, at least concerning hedonic value, also exceeds description.
+The case builds on [[phenomenal-acquaintance|knowledge by acquaintance]]. We don't know pain is bad through inference—we are directly acquainted with its badness in experience. The [[knowledge-argument]] establishes that phenomenal knowledge exceeds physical description. Phenomenal normativity extends this: normative knowledge, at least concerning hedonic value, also exceeds description.
 
 When experiencing intense pain and asking "is *this* bad?"—attending directly to the phenomenal character—the question closes. The badness is not inferred or added; it is manifest in what you are attending to. [[introspection|Introspective]] access provides evidence but not proof. A critic will object that feeling certain about the pleasure-goodness link is exactly what we'd expect if the identification were a deeply ingrained conceptual habit rather than a metaphysical discovery. What it does establish is that any account making pleasure's goodness contingent must explain away a persistent and cross-culturally robust phenomenological appearance.
 

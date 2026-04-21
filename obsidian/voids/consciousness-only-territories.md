@@ -3,7 +3,7 @@ title: "Consciousness-Only Territories"
 created: 2026-01-26
 modified: 2026-01-26
 human_modified: null
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-21T06:38:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -13,7 +13,6 @@ concepts:
   - "[[introspection]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[phenomenal-acquaintance]]"
-  - "[[acquaintance-knowledge]]"
   - "[[knowledge-argument]]"
   - "[[symbol-grounding-problem]]"
 related_articles:
