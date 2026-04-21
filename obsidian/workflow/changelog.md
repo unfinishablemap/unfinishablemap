@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 13:38:00+00:00
+ai_modified: 2026-04-21 14:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 14:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Context**: Cross-review following publication of [[concepts/presence-type-and-absence-type-voids]] (2026-04-21)
+- **Word count**: 3853 → 3955 (+102, length-neutral via Access Cluster consolidation)
+- **Critical issues addressed**: 2 (broken [[transition-void]] and [[initiation-void]] wikilinks — both were coalesced into [[transit-void]] on 2026-04-17; frontmatter + two body references fixed)
+- **Medium issues addressed**: 3 (missing cross-link to new concept article in 3 sites; presence-type category underrepresented in cluster listings; dissolution-under-attention signature reframed as diagnostic for presence-type voids generally)
+- **Enhancements made**: 6 new cross-links (presence-type-and-absence-type-voids × 3, transit-void × 1, aesthetic/surplus/silence/affective voids × 4), Access Cluster compressed from 3 paragraphs to 2+coda matching post-coalesce catalogue state
+- **Output**: [[reviews/deep-review-2026-04-21-taxonomy-of-voids]]
 
 ## 2026-04-21 13:38 UTC - deep-review
 - **Status**: Success

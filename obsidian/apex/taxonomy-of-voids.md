@@ -3,10 +3,10 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-04-20T23:38:00+00:00
+ai_modified: 2026-04-21T14:38:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
-last_deep_review: 2026-04-20T23:38:00+00:00
+last_deep_review: 2026-04-21T14:38:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -25,9 +25,10 @@ related_articles:
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[ineffable-encounter-void]]"
   - "[[phenomenal-quality-void]]"
-  - "[[initiation-void]]"
+  - "[[transit-void]]"
   - "[[thrownness-void]]"
   - "[[erasure-void]]"
+  - "[[presence-type-and-absence-type-voids]]"
 
 ai_contribution: 100
 author: null
@@ -92,13 +93,15 @@ These voids share a feature: they concern aspects of consciousness so fundamenta
 
 The [[ineffable-encounter-void|ineffable encounter void]] complicates this cluster in an important way. Most voids in the taxonomy are defined by *absence*—what cannot be thought, introspected, or accessed. The ineffable encounter void is defined by *presence*: an excess of meaning and sacred significance that overwhelms the cognitive apparatus designed to handle it. Consciousness encounters something—felt significance in music, ideas, encounters, sacred moments—that it registers as genuine knowing yet cannot inspect or articulate. The mechanism generating this signal is opaque (unexplorable), and the experience dissolves under analytical attention (occluded). Independent traditions—Gendlin's felt sense, Otto's numinous, Polanyi's tacit knowledge, Rosa's resonance theory—converge on the same structure, strengthening the case that presence-type voids mark genuine cognitive boundaries rather than articulation failures. In its numinous register, the void sharpens further: numinous experience specifically dismantles the evaluative mechanism needed to assess it, creating a reflexivity problem absent from other presence-type encounters. If some limits are windows rather than walls, the taxonomy must account for voids that reveal as well as voids that conceal.
 
+The [[presence-type-and-absence-type-voids|presence-type/absence-type axis]] cross-cuts the three-kinds taxonomy and redistributes the catalogue: presence-type voids cluster beyond the ineffable encounter—the [[aesthetic-void|aesthetic void]], the [[the-surplus-void|surplus void]], the [[the-silence-void|silence void]], and the [[affective-void|affective void]] all register as overwhelm rather than lack. The phenomenal quality void is structurally hybrid. This axis is independent of the unexplored/unexplorable/occluded scheme and demands different probing methods: presence-type voids resist direct apophatic mapping because the object is not a gap but a saturated encounter that dissolves under inspection.
+
 ### The Access Cluster
 
-A third domain concerns boundaries between conscious states. The [[sleep-consciousness-void|dream consciousness void]] marks the bidirectional inaccessibility between waking and dreaming. The [[transition-void|transition void]] names the impossibility of witnessing one's own state changes. The [[sleep-consciousness-void|dreamless sleep void]] asks where consciousness goes during deep sleep. The [[death-void|death void]]—perhaps the purest limit—marks where consciousness cannot represent its own cessation.
+A third domain concerns boundaries between conscious states. The [[sleep-consciousness-void|dream consciousness void]] marks the bidirectional inaccessibility between waking and dreaming. The [[transit-void|transit void]] names the impossibility of witnessing one's own crossings—both state changes (falling asleep, shifting moods, losing focus) and act onsets (the moment a decision begins, an intention forms, attention reorients). Libet's timing experiments provided one empirical touchstone, but the void runs deeper than any measurement: consciousness cannot precede itself to observe itself beginning, generating an immediate regress in which the act of observing initiation is itself a mental act whose initiation is hidden. The [[sleep-consciousness-void|dreamless sleep void]] asks where consciousness goes during deep sleep. The [[death-void|death void]]—perhaps the purest limit—marks where consciousness cannot represent its own cessation.
 
 These voids trace the temporal grain of consciousness: its inability to observe its own transitions, its discontinuities, its absences. They suggest consciousness is not a continuous stream that happens to have gaps but something whose very structure precludes self-observation at boundary points.
 
-The [[initiation-void|initiation void]] and [[thrownness-void|thrownness void]] complete this temporal arc. The initiation void identifies a structural impossibility: consciousness cannot precede itself to observe itself beginning, so every mental act—deciding, attending, remembering—is already underway when awareness arrives. Libet's timing experiments provided the empirical touchstone, but the void is deeper than any measurement: it generates an immediate regress, since the act of observing initiation is itself a mental act whose initiation is hidden. The thrownness void extends this to consciousness's most fundamental boundary: the pre-constitutional moment, the transition from non-existence to existence that no witness can attend. Four independent traditions—Heidegger's *Geworfenheit*, Sartre's facticity, Levinas's *il y a*, Arendt's natality—converge on the same structure, strengthening the case that this is a genuine limit rather than a philosophical artefact. Together, these voids trace a full spectrum of temporal opacity: from the hiddenness of each act's onset, through state-change blindness, to the inaccessibility of consciousness's own origin and cessation.
+The [[thrownness-void|thrownness void]] completes this temporal arc, extending the transit void to consciousness's most fundamental boundary: the pre-constitutional moment, the transition from non-existence to existence that no witness can attend. Four independent traditions—Heidegger's *Geworfenheit*, Sartre's facticity, Levinas's *il y a*, Arendt's natality—converge on the same structure, strengthening the case that this is a genuine limit rather than a philosophical artefact. Together, these voids trace a full spectrum of temporal opacity: from the hiddenness of each act's onset, through state-change blindness, to the inaccessibility of consciousness's own origin and cessation.
 
 ### The Interpersonal and Social Cluster
 
@@ -114,7 +117,7 @@ Different voids do not merely mark different locations in cognitive space—they
 
 Self-referential limits produce **self-refutation**: the proposition that would express the limit undermines itself, as Wittgenstein demonstrated in the *Tractatus*. Conceptual limits produce **aporia**: equally plausible yet inconsistent premises, generating the specific phenomenology of being blocked rather than confused. Introspective limits produce **construction mistaken for observation**: the sense of direct access to processes that are actually inferred. Pattern-matching limits produce **systematic illusion**: consistent misperception that resists correction even after detection. Expressive limits produce **ineffability**: the sense of knowing something that cannot be articulated—a signature familiar from contemplative traditions and aesthetic experience alike. Meta-cognitive limits produce **epistemic vertigo**: destabilisation when cognition turns on itself. The [[compound-failure-signatures|full topology]] catalogues further signatures—modular selective loss, wrong model selection—but these six capture the primary modes through which consciousness-related voids manifest.
 
-The ineffable encounter void adds a seventh primary mode: **dissolution under attention**, where the knowing is genuine and conscious but evaporates when subjected to analytical scrutiny. This signature is related to the [[mutation-void|mutation void]]'s transformation effect but distinct: mutation transforms the observed, while dissolution destroys the mode of knowing itself. The body registers what the intellect cannot yet process—frisson, tears, felt significance—suggesting that somatic response may be a more sensitive instrument than conceptual thought for detecting certain void boundaries.
+The ineffable encounter void adds a seventh primary mode: **dissolution under attention**, where the knowing is genuine and conscious but evaporates when subjected to analytical scrutiny. This is the diagnostic signature for [[presence-type-and-absence-type-voids|presence-type voids]] generally—where absence-type voids produce the phenomenology of reaching and not finding, presence-type voids produce the phenomenology of having-had-and-lost. The signature is related to the [[mutation-void|mutation void]]'s transformation effect but distinct: mutation transforms the observed, while dissolution destroys the mode of knowing itself. The body registers what the intellect cannot yet process—frisson, tears, felt significance—suggesting that somatic response may be a more sensitive instrument than conceptual thought for detecting certain void boundaries.
 
 The [[erasure-void|erasure void]] adds an eighth mode: **silent erasure**, where lost capacity leaves no phenomenal alarm because the monitoring system shares fate with what it would monitor. Unlike the other signatures, this one is defined by the *absence* of a felt quality—the inventory of self is revised downward without notification, detectable only through external audit or incidental collision with prior evidence. It is the zero-signal failure mode against which other signatures become visible as signals.
 

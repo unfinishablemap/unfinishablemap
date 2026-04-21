@@ -1,6 +1,6 @@
-last_updated: '2026-04-21T12:37:19.929220+00:00'
-session_count: 6132
-cycle_position: 5760
+last_updated: '2026-04-21T13:37:19.929986+00:00'
+session_count: 6133
+cycle_position: 5761
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-20T18:37:19.919170+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-21T10:37:19.927862+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-21T13:38:28.840384+00:00'
+  agentic-social: '2026-04-21T14:38:26.352100+00:00'
 last_git_push: '2026-04-21T12:37:19.929220+00:00'
 last_tweet_date: '2026-04-21'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/phenomenological-method-and-eviden)
-  type: deep-review
-  date: '2026-04-20'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-04-20'
@@ -131,9 +127,14 @@ recent_tasks:
   type: apex-evolve
   date: '2026-04-21'
   outcome: success
+- task: deep-review (obsidian/voids/observation-and-measurement-void.md)
+  type: deep-review
+  date: '2026-04-21'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/llm-consciousness/
-    date: '2026-04-21T13:38:28.840366+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-ontology-of-dispositions/
+    date: '2026-04-21T14:38:26.352084+00:00'
     topics:
-    - ai-consciousness
+    - hard-problem-of-consciousness
+    - consciousness-and-causal-powers

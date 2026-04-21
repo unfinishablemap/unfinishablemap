@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review taxonomy-of-voids.md considering presence-type vs absence-type distinction
-- **Type**: cross-review
-- **Notes**: New article concepts/presence-type-and-absence-type-voids.md (created 2026-04-21) formalises a cross-cutting classificatory axis mentioned in apex/taxonomy-of-voids.md (lines 87-93) but never developed there. The new article lists [[taxonomy-of-voids]] among its related_articles; the apex does not yet cite the new concept page. Cross-review should (a) add a link from taxonomy-of-voids to presence-type-and-absence-type-voids where the presence/absence distinction is first introduced, promoting the one-paragraph treatment to a named axis with a concept-page anchor, (b) check whether the "seventh failure signature" (dissolution under attention) discussion in the apex can now lean on the concept page rather than re-stating the argument, (c) verify that the apex's presence-type examples (ineffable-encounter-void) and absence-type examples are consistent with the concept page's catalogue, (d) consider whether the concept page's claim that presence-type voids resist functional reduction differently from absence-type voids can sharpen the apex's treatment of Occam's Razor Has Limits. See concepts/presence-type-and-absence-type-voids.md.
-- **Source**: chain (from presence-type-and-absence-type-voids.md)
-- **Generated**: 2026-04-21
-
 ### P2: Cross-review ineffable-encounter-void.md considering presence-type vs absence-type distinction
 - **Type**: cross-review
 - **Notes**: New article concepts/presence-type-and-absence-type-voids.md (created 2026-04-21) treats the ineffable-encounter void as the paradigmatic presence-type case — a void defined by an excess that overwhelms the apparatus designed to handle it rather than by what consciousness lacks. ineffable-encounter-void.md does not yet link to the new concept page. Cross-review should (a) add an inbound link where the void's structural character is developed, (b) check whether ineffable-encounter-void's treatment can now cite presence-type-and-absence-type-voids as the classificatory anchor and position itself as the canonical presence-type instance, (c) verify that the presence-type framing (overwhelm-of-apparatus rather than lack-of-content) is consistent with how ineffable-encounter-void currently describes itself, (d) consider whether other voids listed as presence-type in the concept page (aesthetic-void, affective-void, the-surplus-void) warrant mention here as kin rather than just related articles. See concepts/presence-type-and-absence-type-voids.md.
@@ -2460,6 +2454,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Cross-review taxonomy-of-voids.md considering presence-type vs absence-type distinction
+- **Type**: cross-review
+- **Notes**: New article concepts/presence-type-and-absence-type-voids.md (created 2026-04-21) formalises a cross-cutting classificatory axis mentioned in apex/taxonomy-of-voids.md (lines 87-93) but never developed there. The new article lists [[taxonomy-of-voids]] among its related_articles; the apex does not yet cite the new concept page. Cross-review should (a) add a link from taxonomy-of-voids to presence-type-and-absence-type-voids where the presence/absence distinction is first introduced, promoting the one-paragraph treatment to a named axis with a concept-page anchor, (b) check whether the "seventh failure signature" (dissolution under attention) discussion in the apex can now lean on the concept page rather than re-stating the argument, (c) verify that the apex's presence-type examples (ineffable-encounter-void) and absence-type examples are consistent with the concept page's catalogue, (d) consider whether the concept page's claim that presence-type voids resist functional reduction differently from absence-type voids can sharpen the apex's treatment of Occam's Razor Has Limits. See concepts/presence-type-and-absence-type-voids.md.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review taxonomy-of-voids.md considering presence-type vs absence-type distinction
 
 ### ✓ 2026-04-21: Cross-review observation-and-measurement-void.md considering inspection-paradox insights
 - **Type**: cross-review
