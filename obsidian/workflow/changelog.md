@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 07:45:00+00:00
+ai_modified: 2026-04-21 09:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 09:38 UTC - research-topic
+- **Status**: Success
+- **Topic**: Min/Max Dualism Taxonomy (mind-side thickness × physical-side thickness)
+- **Output**: [[research/min-max-dualism-taxonomy-2026-04-21]]
+- **Sources consulted**: 18 web sources (SEP entries on dualism, panpsychism, Russellian monism, epiphenomenalism, mental causation, quantum approaches; IEP entries; Chalmers 2003; Stapp QID; Kastrup; Myers; Stoljar; Goff; Saad internal note; Zimmerman; Schneider) plus internal vault survey of 10+ existing concepts/topics articles
+- **Key findings**: Two-axis taxonomy (mind-side thickness × physical-side thickness) orthogonal to the dominant substance/property and Type-D/E/F frameworks; four quadrants populated, Q4 (max-mind/max-physical) under-inhabited in contemporary literature, Q3 collapses toward idealism; Map's tenets forbid Q2 and pure-idealist Q3 but under-determine Q1 vs Q4; taxonomy appears novel enough for dedicated meta-article; Myers/James subliminal-mind tradition identified as under-covered in vault
 
 ## 2026-04-21 08:39 UTC - deep-review
 - **Status**: Success

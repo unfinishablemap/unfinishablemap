@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21T07:41:00+00:00
+ai_modified: 2026-04-21T08:15:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Write article on the four-quadrant taxonomy of dualist positions (min/max mind × min/max physical)
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Chain from the min/max dualism research task above. Target section: **topics/** (~224/250, has capacity) since the article is meta-philosophical rather than introducing a single concept. Article should (a) name the two axes explicitly — mind-side thickness (minimal bare-experience vs maximalist rich-mind) and physical-side thickness (lean physicalist ontology vs max-physical with intrinsic natures / hidden variables / full phase-space); (b) populate the four quadrants with named historical and contemporary positions (property dualism, substance dualism, Russellian monism, panpsychism, analytic idealism, delegatory dualism, Myers/Jamesian subliminal-mind views, Stapp's interactionism, etc.); (c) identify which quadrants are under-inhabited and why; (d) situate the Map's own commitments — the three tenets appear to constrain but not uniquely determine a quadrant; (e) discuss why minimalist-mind positions dominate the contemporary literature and what evidence would push us toward maximalist-mind views; (f) connect to the observational-closure and interface-specification programme where the mind-side ontology is load-bearing. Medium-to-long scope (2500-3500 words). Tenet alignment: Dualism (foundational), Bidirectional Interaction (maximalist mind expands causal repertoire), Occam's Razor Has Limits (quadrant choice is under-determined by parsimony). Do not begin until research note exists. See /expand-topic skill.
+- **Source**: human_request (chain)
+- **Generated**: 2026-04-21
+
+### P1: Consider apex article on dualist min/max taxonomy as meta-framework
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Human-requested consideration (2026-04-21). After the research task and the four-quadrant topic article are complete, evaluate whether an apex article is warranted. Criteria: (a) does the taxonomy cut across enough existing Map articles (dualism, interactionist-dualism, substance-property-dualism, russellian-monism, analytic-idealism, delegatory-dualism, panpsychism, minimal-consciousness) to function as a genuine synthesis rather than a restatement? (b) does the maximalist-mind quadrant open novel testable consequences for the interface-specification programme or bidirectional interaction? (c) does the taxonomy help clarify the Map's tenets by showing which quadrants they rule out vs permit? If yes to most, draft apex article "The Shape of the Dualist Space" (or similar) covering the two-axis taxonomy, the tenets' constraints on it, the under-explored maximalist-mind options, and implications for the Map's programme. If the topic article already does this work, skip apex creation and note the decision in evolution-state.yaml. See /apex-evolve skill.
+- **Source**: human_request (chain)
+- **Generated**: 2026-04-21
 
 ### P2: Cross-review observation-and-measurement-void.md considering inspection-paradox insights
 - **Type**: cross-review
@@ -2466,6 +2480,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Research min/max dualism taxonomy (mind-side thickness × physical-side thickness)
+- **Type**: research-topic
+- **Notes**: Human-requested (2026-04-21). Dualist positions vary along two axes rarely treated together: (1) **mind-side thickness** — does the non-physical side do only a minimal job (bare experience/qualia, as in most property-dualist and epiphenomenalist pictures) or is it vast and rich, with many more properties than we introspect (unconscious mental content, unperceived qualia-spaces, richer causal powers, a larger-than-phenomenal subject)? (2) **physical-side thickness** — is the physical world lean (standard physicalist ontology) or itself maximal (hidden variables, extra structure, Russellian intrinsic natures, full phase-space beyond measurement)? The cross-product yields four quadrants: min-mind/min-physical, min-mind/max-physical (typical property dualism), max-mind/min-physical (rich-mind minimalist-world, e.g. some idealist-leaning dualisms), max-mind/max-physical (richest joint ontology). Research should (a) survey existing philosophical vocabulary for this axis — terms like "inflationary" vs "deflationary" dualism, "maximalist" mind, "cosmopsychic" variants, Russellian-monist moves, the subliminal/unconscious-mind traditions (James, Myers), Stapp-style rich-mind views, Chalmers' "Type-F" monisms; (b) identify which positions actually occupy each quadrant and which quadrants are under-inhabited; (c) examine whether the Map's tenets (especially Minimal Quantum Interaction + Bidirectional Interaction + Occam's Razor Has Limits) commit to a specific quadrant or are compatible with several; (d) collect quotations and citations sufficient to ground subsequent article(s); (e) flag whether the taxonomy is novel enough to deserve an apex treatment or is a restatement of existing literature. Consult SEP entries on dualism, panpsychism, Russellian monism, idealism; recent work by Chalmers, Goff, Saad, Stoljar; classical subliminal-mind literature. Output: research note in `research/` following the /research-topic skill format.
+- **Output**: min/max dualism taxonomy (mind-side thickness × physical-side thickness)
 
 ### ✓ 2026-04-21: Cross-review self-opacity.md considering inspection-paradox insights
 - **Type**: cross-review
