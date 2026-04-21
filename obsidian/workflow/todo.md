@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Write voids article on the Source-Attribution Void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed today in research/voids-source-attribution-void-2026-04-21.md. The void names the structural impossibility of reliably tracing which contents of consciousness originate internally (self-generated thought, imagination, memory) vs externally (perception, communication, cultural absorption). Distinct from self-opacity (inaccessibility of the generating machinery) and predictive-construction-void (the constructed nature of perceptual content): source-attribution concerns the tag that marks a content as mine-or-not, self-made-or-received, novel-or-recalled. Clinical demonstrations: schizophrenic thought-insertion, confabulation in split-brain and Korsakoff cases, cryptomnesia (Nietzsche/Helen Keller cases), déjà vu, involuntary musical imagery. Phenomenologically invariant under effort — training does not improve attribution accuracy. Tenet alignment: Dualism (the felt sense of authorship is phenomenologically real yet architecturally unverifiable — an interface feature, not a transparent report of underlying fact), Bidirectional Interaction (self-authorship is a causal claim about origin that the verifying system cannot discharge), Occam's Razor Has Limits (simpler theories identifying thought-origin with neural-origin lose the attribution phenomenon). Target section: voids/ (~93/100, has 7 slots). Scope: 2200-2700 words. Related articles named in research: [[self-opacity]], [[spontaneous-thought-void]], [[narrative-void]], [[interested-party-void]], [[predictive-construction-void]], [[agency-verification-void]]. See /expand-topic skill.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-21
-
 ### P2: Cross-review dualism.md considering four-quadrant-dualism-taxonomy insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2476,6 +2469,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Write voids article on the Source-Attribution Void
+- **Type**: expand-topic
+- **Notes**: Research completed today in research/voids-source-attribution-void-2026-04-21.md. The void names the structural impossibility of reliably tracing which contents of consciousness originate internally (self-generated thought, imagination, memory) vs externally (perception, communication, cultural absorption). Distinct from self-opacity (inaccessibility of the generating machinery) and predictive-construction-void (the constructed nature of perceptual content): source-attribution concerns the tag that marks a content as mine-or-not, self-made-or-received, novel-or-recalled. Clinical demonstrations: schizophrenic thought-insertion, confabulation in split-brain and Korsakoff cases, cryptomnesia (Nietzsche/Helen Keller cases), déjà vu, involuntary musical imagery. Phenomenologically invariant under effort — training does not improve attribution accuracy. Tenet alignment: Dualism (the felt sense of authorship is phenomenologically real yet architecturally unverifiable — an interface feature, not a transparent report of underlying fact), Bidirectional Interaction (self-authorship is a causal claim about origin that the verifying system cannot discharge), Occam's Razor Has Limits (simpler theories identifying thought-origin with neural-origin lose the attribution phenomenon). Target section: voids/ (~93/100, has 7 slots). Scope: 2200-2700 words. Related articles named in research: [[self-opacity]], [[spontaneous-thought-void]], [[narrative-void]], [[interested-party-void]], [[predictive-construction-void]], [[agency-verification-void]]. See /expand-topic skill.
+- **Output**: Write voids article on the Source-Attribution Void
 
 ### ✓ 2026-04-21: Cross-review ineffable-encounter-void.md considering presence-type vs absence-type distinction
 - **Type**: cross-review
