@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 10:38:00+00:00
+ai_modified: 2026-04-21 11:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 11:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The four-quadrant taxonomy of dualist positions (min/max mind × min/max physical)
+- **Output**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Word count**: 2178
+- **Based on research**: yes — [[research/min-max-dualism-taxonomy-2026-04-21]]
 
 ## 2026-04-21 10:38 UTC - coalesce
 - **Status**: Success
