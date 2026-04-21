@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-21 08:39 UTC - deep-review
+- **Status**: Success
+- **File**: [inspection-paradox](/concepts/inspection-paradox/)
+- **Word count**: 2097 → 2244 (+147)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (uncited references integrated, heterophenomenology named, mysterianism cross-link added)
+- **Enhancements made**: Schwitzgebel (2008) cited in weak-form discussion; Kirchhoff et al. (2018) Markov-blanket formalism cited in predictive-construction instantiation; Dennett's heterophenomenology named and engaged in materialist-response section; [mysterianism](/concepts/mysterianism/) added to concepts and Further Reading
+- **Output**: [deep-review-2026-04-21-inspection-paradox](/reviews/deep-review-2026-04-21-inspection-paradox/)
+- **Stability**: First review. No critical issues. Article has stable structure; future reviews should focus on cross-review as new voids content emerges rather than further rewriting.
+
 ## 2026-04-21 07:45 UTC - deep-review
 - **Status**: Success
 - **File**: [self-opacity](/voids/self-opacity/)
