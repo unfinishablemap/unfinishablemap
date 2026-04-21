@@ -5227,7 +5227,7 @@ topics: []
 
 ## 2026-03-18T17:43:00+00:00 - refine-draft
 - **Status**: Success
-- **File**: [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **File**: [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/)
 - **Changes**: Engaged with Global Workspace Theory instead of dismissing production models; fixed circular evolutionary argument; toned down anti-epiphenomenalism to parsimony argument
 - **Published**: yes
 

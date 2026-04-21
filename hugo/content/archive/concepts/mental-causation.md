@@ -130,7 +130,7 @@ If non-physical consciousness moves matter, doesn't energy appear from nowhere? 
 
 Even granting the quantum opening, *which* phenomenal properties map to *which* physical selections? The [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) provides the conceptual structure: Chalmers distinguished *supervenience laws* from what the Map calls *[selection laws](/concepts/psychophysical-laws/)* — laws specifying how consciousness participates in determining physical outcomes.
 
-The [psychophysical-laws](/concepts/psychophysical-laws/) article surveys five candidate mechanisms, of which only two meet basic adequacy standards: attention → observation rate (Stapp) and intention → probability weighting (Eccles). These operate through different [coupling-modes](/concepts/coupling-modes/) with distinct implications for detectability. The related [bandwidth problem](/concepts/bandwidth-problem-mental-causation/) — whether the mind-body channel carries enough information — is resolved by [hierarchical selection](/topics/bandwidth-of-consciousness/): consciousness selects at policy level while unconscious systems supply fine-grained detail.
+The [psychophysical-laws](/concepts/psychophysical-laws/) article surveys five candidate mechanisms, of which only two meet basic adequacy standards: attention → observation rate (Stapp) and intention → probability weighting (Eccles). These operate through different [coupling-modes](/concepts/coupling-modes/) with distinct implications for detectability. The related [bandwidth problem](/concepts/consciousness-bandwidth-architecture/) — whether the mind-body channel carries enough information — is resolved by [hierarchical selection](/topics/bandwidth-of-consciousness/): consciousness selects at policy level while unconscious systems supply fine-grained detail.
 
 ### Why Not Many Worlds?
 
@@ -241,7 +241,7 @@ Mental causation, as defended here, is falsifiable:
 - [emergence](/concepts/emergence/) — Mental causation as strong emergence with mechanism
 - [agent-causation](/concepts/agent-causation/) — Agent causation as substance causation
 - [cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/) — Indian, African, and Western traditions independently converge on consciousness as causally efficacious
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Whether the mind-body channel carries enough information
+- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — Whether the mind-body channel carries enough information
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain: phenomenal character inseparable from causal power
 - [content-specificity-of-mental-causation](/concepts/content-specificity-of-mental-causation/) — Meaning determines which physical effect occurs
 - [quantum-consciousness](/concepts/quantum-consciousness/) — How consciousness interfaces with physics

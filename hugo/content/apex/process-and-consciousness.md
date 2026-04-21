@@ -1,16 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-03-15 14:09:00+00:00
+ai_modified: 2026-04-21 12:51:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-03-15 10:08:00+00:00
+apex_last_synthesis: 2026-04-21 12:51:00+00:00
 apex_sources:
 - concepts/process-philosophy
-- concepts/duration
 - concepts/temporal-consciousness
 - concepts/panpsychism
 - concepts/combination-problem
-- concepts/phenomenal-unity
+- concepts/unity-of-consciousness
 - topics/free-will
 apex_thesis: Process philosophy—reality as dynamic becoming rather than static substance—provides
   conceptual resources for the Map's dualist framework, illuminating how consciousness
@@ -24,7 +23,7 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[agent-causation]]'
 created: 2026-01-31
-date: &id001 2026-02-02
+date: &id001 2026-04-21
 description: Reality as becoming, not being. Whitehead and Bergson's process frameworks
   illuminate the Map's five tenets—from irreducibility to temporal agency.
 draft: false
@@ -66,11 +65,11 @@ Standard physicalism faces the [hard problem](/topics/hard-problem-of-consciousn
 
 Whitehead denied "vacuous actuality"—the idea of utterly non-experiential matter. Every actual occasion involves some form of experience, however primitive. This is [Whitehead's panpsychism](/concepts/panpsychism/): not that electrons have rich inner lives, but that experiential taking-account-of is fundamental to reality. Human consciousness is highly organized experience—a "society" of actual occasions forming a "personally ordered" stream.
 
-The Map does not embrace panpsychism. It maintains that consciousness is distinct from matter and interacts with it via quantum indeterminacy—[interactionist dualism](/concepts/interactionist-dualism/) rather than processual monism. But both frameworks agree on the essential point: consciousness cannot emerge from wholly non-conscious matter. The explanatory gap cannot be closed by adding more physical detail because physical description is constitutively structural while consciousness is constitutively qualitative.
-
-Where they differ: process philosophy dissolves the mind-matter distinction by holding that matter is already experiential. The Map preserves the distinction, arguing that consciousness interfaces with matter at specific points (quantum indeterminacies in neural systems) rather than being present everywhere. This avoids attributing experience to rocks—a cost many find too high—while preserving the anti-emergentist insight that consciousness cannot arise from the wholly non-conscious.
+Both frameworks agree on an essential point: consciousness cannot emerge from wholly non-conscious matter. Physical description is constitutively structural; consciousness is constitutively qualitative; no amount of structural detail closes the gap. Where they differ is in the response. Process philosophy dissolves the mind-matter distinction by holding that matter is already experiential. The Map preserves the distinction, defending [interactionist dualism](/concepts/interactionist-dualism/): consciousness interfaces with matter at specific points—quantum indeterminacies in neural systems—rather than being present everywhere. This avoids attributing experience to rocks while keeping the anti-emergentist insight.
 
 The philosophical tradeoff is clear. Process philosophy avoids the *interaction problem* (how do distinct substances causally connect?) but faces the [combination problem](/concepts/combination-problem/) (how do micro-experiences combine into unified consciousness?). The difficulty is sharper than it first appears. [Phenomenal unity](/concepts/unity-of-consciousness/) requires *conjoint phenomenology*—a unified "what it is like" that subsumes its parts rather than merely aggregating them. Micro-experiences would need to fuse into a whole whose character is not derivable from theirs individually. As William James observed, separate feelings cannot simply be added together to produce a unified experience; the whole has properties that no part possesses. Both the combination problem and the hard problem may be instances of a general difficulty at level transitions—what emerges at the macro level resists derivation from the micro level regardless of one's starting ontology.
+
+The difficulty may be structural rather than merely unsolved. Three independent responses to the Special Composition Question—van Inwagen's life criterion, Merricks's eliminativism, and McQueen and Tsuchiya's phenomenal-binding criterion—converge on treating consciousness as the mark of genuine composition. If consciousness is what makes a composite real, then asking how non-conscious (or merely micro-conscious) parts compose a conscious whole inverts the explanatory order. Phenomenal non-compositionality may be categorical, not contingent.
 
 Interactionist dualism avoids the combination difficulty entirely—there is no need to explain how micro-experiences combine because matter lacks experience. The Map argues that quantum mechanics provides resources for the interaction problem that make the dualist path tractable.
 
@@ -90,9 +89,13 @@ The Map's commitment to *minimal* interaction finds resonance in Whitehead's acc
 
 Minimal interaction also bears on [phenomenal unity](/concepts/unity-of-consciousness/). Quantum entanglement is the one domain in physics where genuinely non-separable states exist—entangled particles form a whole whose properties cannot be decomposed into individual states. If consciousness interacts with the brain at the quantum level, entanglement provides a physical correlate whose structure mirrors how unified experience resists decomposition into separate parts. Classical coordination relates distinct parts; entanglement produces states that are intrinsically unified. Process philosophy's concrescence—where the occasion synthesises its data into one definite experience—describes metaphysically what entanglement exhibits physically.
 
+Recent empirical work sharpens the picture. Kerskens and Pérez (2022) report MRI signatures suggestive of brain-based entanglement correlating with conscious states; microtubule-stabilising anaesthetics delay loss of consciousness (Wiest et al. 2024) in ways that purely classical neural theories struggle to predict. These results don't confirm the entanglement-binding hypothesis, but they make it empirically distinguishable. Interactionism generates testable quantum predictions; the combination problem, by contrast, remains primarily conceptual. Where competing frameworks look philosophically balanced, empirical tractability tilts the scales.
+
 Bergson's duration points to the same structure from the phenomenological side. The creative novelty he attributes to lived time—the way each moment brings something genuinely new—requires an opening in deterministic closure. If the future were fixed by the past, time would be mere rearrangement, not invention. Bergson argued that determinism rests on spatializing time—treating mental states as discrete causes producing discrete effects, like billiard balls. But if mental states interpenetrate in qualitative multiplicity, this model fails. The whole of one's past converges in each moment, not as a sum of separate influences but as an indivisible movement. Freedom—and creative causation—emerges from this convergence.
 
 Temporal thickness clarifies the link: [authentic choice](/topics/authentic-vs-inauthentic-choice/) unfolds in durée, the decision emerging from one's whole history as creative expression, while inauthentic choice lacks temporal depth—reactive compression where horizons collapse to near-zero. Randomness at a temporally thin moment is mere noise; indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
+
+Temporal consciousness research localises the specious present at roughly 100–750 ms, and the ~280 ms commitment point for voluntary motor action falls squarely inside that window. Kent and Wittmann (2021) identify this temporal-extension gap as "one of the core issues" in consciousness theories: functional models capture the 100–300 ms window but not the unified present that agency inhabits. What feels phenomenologically like a single moment of decision is, at the neural level, the window within which commitment becomes irreversible. The parallel is precise—the specious present is the phenomenological face of concrescence, its interior.
 
 ## Bidirectional Causation and Subjective Aim
 
@@ -101,6 +104,8 @@ The Map's third tenet holds that consciousness causally influences the physical 
 Process philosophy strongly supports this claim—indeed, it generalizes it. Every actual occasion has "subjective aim"—each steers its own becoming toward satisfaction. This provides resources for [agent causation](/concepts/agent-causation/) without making it exceptional. Free acts aren't anomalies requiring special pleading but instances of the goal-directedness inherent in all actuality. The question is not "How can consciousness possibly cause anything?" but "Why did we think it couldn't?"
 
 The phenomenology of [durée](/concepts/temporal-consciousness/) reinforces this. Bergson connected duration directly to free will in *Time and Free Will* (1889). A free act emerges from the whole self—from the full depth of one's duration. Unfree acts are superficial, from habit or convention, without engaging genuine selfhood. Freedom is not arbitrary choice between pre-defined options but creative expression of who we are becoming.
+
+Recent empirical work defends the phenomenological basis against sceptical reinterpretations. Schurger et al. (2012) showed that the Libet readiness potential more plausibly reflects ongoing neural noise than unconscious decision preparation; Sjöberg (2024) reports that surgical resection of the supplementary motor area preserves volitional phenomenology entirely, suggesting the readiness potential is not necessary for conscious willing. Four independent phenomenological features of agency—initiation, sustained control, effort, and veto—each have distinct neural correlates and dissociate in pathologies like anarchic hand syndrome and schizophrenic passivity. This structured correspondence is not what blanket confabulation would produce. The process framework makes it legible: these features are dimensions of concrescence's subjective pole, the inheriting occasion taking up its past and contributing its novel synthesis through distinguishable modes of subjective aim.
 
 This connects to the Map's treatment of the [argument-from-reason](/topics/argument-from-reason/). If all beliefs are fully explained by nonrational physical causes—neurons firing because of electrochemical gradients rather than because conclusions *follow* from premises—then no belief is rationally justified. The physicalist's own belief in physicalism would itself be unjustified. Functionalists respond that physical systems *can* track normative relationships—that the right causal structure constitutes rational inference. But this conflates reliable causal correlation with genuine normative grasp: a thermostat reliably tracks temperature without *understanding* heat. Rational inference requires consciousness that grasps logical connections and affirms accordingly. Process philosophy provides the metaphysical framework: occasions with subjective aim can instantiate rational causation because aim is constitutive of actuality itself.
 
@@ -138,13 +143,13 @@ A note on testability: process philosophy is primarily a metaphysical framework 
 
 Individual source articles establish separate components: [process-philosophy](/concepts/process-philosophy/) explains Whitehead's framework; [temporal-consciousness](/concepts/temporal-consciousness/) presents Bergson's durée alongside the neuroscience of temporal binding and the specious present; [panpsychism](/concepts/panpsychism/) explores the view that experience is ubiquitous; [phenomenal unity](/concepts/unity-of-consciousness/) analyses the subsumptive character of unified experience. What emerges from synthesis is a unified perspective that individual treatments cannot provide.
 
-Process philosophy offers the Map conceptual resources without ontological commitment. The Map need not say that rocks have experience (as panpsychism claims) to benefit from Whitehead's account of how experience relates to time, creativity, and causation. The Map need not accept that reality is *only* process to draw on Bergson's demonstration that lived duration cannot be reduced to sequences of static states.
+Process philosophy offers the Map conceptual resources without ontological commitment. One can draw on Whitehead's account of how experience relates to time, creativity, and causation without accepting panpsychism, and on Bergson's demonstration that lived duration cannot be reduced to sequences of static states without accepting process monism.
 
 The resources run deeper than individual arguments. Process philosophy explains why physical description leaves out what it leaves out: physics describes relations while consciousness involves intrinsic character. The explanatory gap is not a temporary limitation but reflects the difference between structural and non-structural modes of being. Temporal consciousness research confirms and extends this insight—the specious present, with its nested timescales of perceptual moment, specious present proper, and extended present, manifests processual reality at scales that neuroscience can study but not fully explain. What Bergson called *durée* and what Whitehead modelled as prehensive inheritance, temporal consciousness research identifies as the micro-, meso-, and macro-integration levels of experienced time.
 
-This framework also illuminates creative causation. Whitehead's subjective aim and Bergson's creative duration provide models for how consciousness could be causally efficacious without violating physical law. Causation-from-the-whole-self working with inherited constraints—this is what the Map means by consciousness selecting among quantum possibilities. And the connection runs both ways: quantum entanglement mirrors the non-separability of phenomenal unity, providing a physical correlate for what process philosophy describes metaphysically as the indivisible character of concrescence.
+This framework also illuminates creative causation. Whitehead's subjective aim and Bergson's creative duration provide models for how consciousness could be causally efficacious without violating physical law. Causation-from-the-whole-self working with inherited constraints—this is what the Map means by consciousness selecting among quantum possibilities.
 
-The Map draws on process philosophy without adopting its ontology. By maintaining genuine mind-matter distinction, it avoids the combination problem that phenomenal unity's requirement of conjoint phenomenology makes especially acute for panpsychism. But it recognizes process philosophy as a fellow traveler—a tradition that takes consciousness seriously, rejects reductive materialism, and provides conceptual tools for thinking about time, causation, and experience that the Map deploys within its own dualist framework.
+The Map draws on process philosophy without adopting its ontology. By maintaining a genuine mind-matter distinction, it avoids the combination problem; by engaging seriously with process thought, it inherits a rich vocabulary for time, causation, and experience that pure substance metaphysics lacks. Process philosophy is a fellow traveller, not a destination.
 
 What process philosophy ultimately offers is a vision of reality where consciousness fits. Not as an anomaly to be explained away, not as an embarrassment to scientific naturalism, but as paradigmatic of what reality fundamentally involves: becoming, creativity, experience, time. The Map charts different territory, but it travels through a landscape that process philosophy helped to reveal.
 

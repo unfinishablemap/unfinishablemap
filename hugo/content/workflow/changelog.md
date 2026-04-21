@@ -1,13 +1,78 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 07:45:00+00:00
+ai_modified: 2026-04-21 12:59:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-21'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-21 12:59 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 5987 → 6131, ~88 hours)
+- **Findings**: 2 cadence (check-tenets/apex-evolve last_runs stale writeback NEW; validate-all 87 days), 0 failure (15th zero-failure period), 1 queue (P3 overhang 398), 1 review (pessimistic→refine pipeline tight; tenet check 0/0/0), 1 convergence (apex 22 vs 20-cap inconsistency NEW)
+- **Tier 1 changes**: 0 applied (no tunable parameters exist in evolution-state.yaml; 29th consecutive report)
+- **Tier 2 recommendations**: 8 logged (1 NEW: last_runs writeback gap; 7 carried forward)
+- **Tier 3 items**: 6 logged (2 NEW: last_runs writeback, apex cap inconsistency)
+- **Output**: [system-tune-2026-04-21](/reviews/system-tune-2026-04-21/)
+
+## 2026-04-21 12:51 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Changed sources**: 6 updated (process-philosophy, temporal-consciousness, panpsychism, combination-problem, unity-of-consciousness, free-will) + 2 replaced (archived duration → temporal-consciousness; archived phenomenal-unity → unity-of-consciousness)
+- **Word count**: 3500 → 3806
+- **Review**: [apex-evolve-2026-04-21-process-and-consciousness](/reviews/apex-evolve-2026-04-21-process-and-consciousness/)
+- **Key integrations**: phenomenal non-compositionality (van Inwagen / Merricks / McQueen-Tsuchiya convergence); 2022–2024 empirical bridges for entanglement-binding (Kerskens & Pérez; Wiest et al.); Schurger/Sjöberg reinterpretation of Libet; 280 ms motor commitment inside 100–750 ms specious present (Kent & Wittmann). Frontmatter sources updated to drop two archived references.
+
+## 2026-04-21 12:48 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 53 (delta sweep against 2026-04-18 baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-04-21](/reviews/tenet-check-2026-04-21/)
+
+## 2026-04-21 12:42 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Source-Attribution Void — structural inability of consciousness to determine the origin of its own contents (self-generated vs implanted, primed, learned, or confabulated)
+- **Category**: Occluded (with constitutive Unexplorable structure — source tags are not encoded with content)
+- **Output**: [voids-source-attribution-void-2026-04-21](/research/voids-source-attribution-void-2026-04-21/)
+- **Key finding**: Source monitoring framework, choice blindness (~75% non-detection), cryptomnesia, source amnesia, and Wegner's apparent mental causation converge on a zero-signal void — the absence of phenomenal contrast between real and confabulated source attribution; distinct from self-opacity (mechanism-blindness) and spontaneous-thought-void (unbidden generation)
+
+## 2026-04-21 12:38 UTC - apex-evolve
+- **Status**: Complete (decision: skip)
+- **Subject**: Dualist min/max taxonomy as meta-framework (provisional title "The Shape of the Dualist Space")
+- **Decision**: Skip apex creation; topic article [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) already performs the synthesis
+- **Criteria evaluation**:
+  - (a) Cross-cutting synthesis — YES, already done by the topic article (cross-links dualism, interactionist-dualism, substance-property-dualism, russellian-monism, analytic-idealism, delegatory-dualism, panpsychism, idealism, epiphenomenalism, russellian-monism-versus-bi-aspectual-dualism, parsimony-case-for-interactionist-dualism)
+  - (b) Maximalist-mind implications for interface-specification/bidirectional interaction — PARTIAL; the topic article gestures (Stapp's thick-observer-plus-minimal-channel; thick-physics × MQI compatibility) but does not develop against [interface-specification-programme](/apex/interface-specification-programme/) or [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/). Best handled as cross-review.
+  - (c) Tenet clarification — YES, already done in Relation to Site Perspective
+- **Additional constraint**: Apex cap (20) already at limit per [apex-articles.md](/apex/apex-articles/)
+- **Decision record**: `obsidian/workflow/evolution-state.yaml` `apex_evaluations` entry 2026-04-21
+- **Follow-up**: P3 cross-review task generated to surface criterion-(b) implications without creating duplicate apex
+
+## 2026-04-21 11:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The four-quadrant taxonomy of dualist positions (min/max mind × min/max physical)
+- **Output**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Word count**: 2178
+- **Based on research**: yes — [min-max-dualism-taxonomy-2026-04-21](/research/min-max-dualism-taxonomy-2026-04-21/)
+
+## 2026-04-21 10:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/), [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)
+- **Target**: [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)
+- **Archived**: [asymmetric-bandwidth-consciousness](/archive/concepts/asymmetric-bandwidth-consciousness/), [bandwidth-problem-mental-causation](/archive/concepts/bandwidth-problem-mental-causation/)
+- **References to review**: 10 active files updated (inverted-qualia, consciousness-selecting-neural-patterns, delegatory-causation, delegation-meets-quantum-selection, attention-and-the-consciousness-interface, bandwidth-of-consciousness, interface-specification-programme apex, grain-mismatch, psychophysical-laws, resolution-void, mental-causation-and-downward-causation, grain-mismatch-as-independent-evidence, psychophysical-laws-bridging-mind-and-matter, valence-and-conscious-selection, consciousness-physics-interface-formalism)
+- **Rationale**: Both articles overlapped substantially on the ~10 bits/s empirical data (Zheng & Meister 2025, Nørretranders 1998, Mandik 2010), hierarchical selection as resolution, and arguments against epiphenomenalism. The asymmetry puzzle and the bandwidth problem are complementary aspects of a single architecture; merging clarifies their relationship (asymmetry describes the channel structure; specification challenge describes the causal consequence) without losing content.
+
+## 2026-04-21 09:38 UTC - research-topic
+- **Status**: Success
+- **Topic**: Min/Max Dualism Taxonomy (mind-side thickness × physical-side thickness)
+- **Output**: [min-max-dualism-taxonomy-2026-04-21](/research/min-max-dualism-taxonomy-2026-04-21/)
+- **Sources consulted**: 18 web sources (SEP entries on dualism, panpsychism, Russellian monism, epiphenomenalism, mental causation, quantum approaches; IEP entries; Chalmers 2003; Stapp QID; Kastrup; Myers; Stoljar; Goff; Saad internal note; Zimmerman; Schneider) plus internal vault survey of 10+ existing concepts/topics articles
+- **Key findings**: Two-axis taxonomy (mind-side thickness × physical-side thickness) orthogonal to the dominant substance/property and Type-D/E/F frameworks; four quadrants populated, Q4 (max-mind/max-physical) under-inhabited in contemporary literature, Q3 collapses toward idealism; Map's tenets forbid Q2 and pure-idealist Q3 but under-determine Q1 vs Q4; taxonomy appears novel enough for dedicated meta-article; Myers/James subliminal-mind tradition identified as under-covered in vault
 
 ## 2026-04-21 08:39 UTC - deep-review
 - **Status**: Success

@@ -64,7 +64,7 @@ A complete selection law would answer:
 - Measurement basis selection
 - Collapse timing
 
-**3. Bandwidth constraints**: How much selection can consciousness accomplish per unit time? Research suggests conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices (action patterns, not individual neurons). The [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) explores this constraint in depth.
+**3. Bandwidth constraints**: How much selection can consciousness accomplish per unit time? Research suggests conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices (action patterns, not individual neurons). The [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) explores this constraint in depth.
 
 **4. Scope constraints**: What is *not* selectable? External quantum systems, others' brains, events outside attention—selection operates through the brain's representational interface.
 
@@ -160,7 +160,7 @@ None of these currently succeeds, but they mark conditions under which the frame
 - [mental-causation](/concepts/mental-causation-and-downward-causation/) — How consciousness affects physical outcomes
 - [downward-causation](/concepts/mental-causation-and-downward-causation/) — The general framework for higher-level causes affecting lower-level processes
 - [quantum-consciousness](/concepts/quantum-consciousness/) — Quantum mechanisms for selection
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The ~10 bits/second constraint on conscious selection
+- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — The ~10 bits/second constraint on conscious selection
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — Epistemic challenges of specifying the mind-matter interface
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Formal approaches to the control relationship
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The attention-observation mechanism in detail

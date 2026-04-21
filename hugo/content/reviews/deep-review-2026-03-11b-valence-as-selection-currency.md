@@ -51,7 +51,7 @@ topics: []
 - [emotional-consciousness](/topics/emotion-and-dualism/) — In "Valence and Motivation" section, linking "selection criteria"
 - [agent-teleology](/concepts/agent-teleology/) — In "Agent Teleology and Agent Causation" section, specifying what directedness consists in
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — In "Bidirectional Interaction" section, developing the stronger position
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — In "Hierarchical Selection Response", noting valence as evaluative metric
+- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — In "Hierarchical Selection Response", noting valence as evaluative metric
 - [psychophysical-laws](/concepts/psychophysical-laws/) — In coupling law comparison table, linking the Valence→Motivation row
 
 **Further Reading additions**:

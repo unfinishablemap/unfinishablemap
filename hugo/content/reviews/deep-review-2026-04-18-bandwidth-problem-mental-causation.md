@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-18
-**Article**: [The Bandwidth Problem in Mental Causation](/concepts/bandwidth-problem-mental-causation/)
+**Article**: [The Bandwidth Problem in Mental Causation](/concepts/consciousness-bandwidth-architecture/)
 **Previous review**: [2026-03-18](/reviews/deep-review-2026-03-18-bandwidth-problem-mental-causation/)
 **Context**: Stability-confirmation pass. Prior review explicitly marked the article at stability after three reviews. Changes since were routine wikilink consolidation only.
 

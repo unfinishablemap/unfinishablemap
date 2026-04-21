@@ -82,7 +82,7 @@ Even microsecond coherence remains three orders of magnitude below millisecond n
 
 **Quantum Zeno mechanism**: [Stapp's](/concepts/stapp-quantum-mind/) [mental effort](/concepts/mental-effort/) framework uses rapid repeated mental "observations" to maintain neural patterns—the quantum Zeno effect refreshes superpositions faster than decoherence destroys them, without requiring continuous coherence.
 
-**Cumulative selection**: If consciousness selects among quantum alternatives many times per second, microsecond coherence windows suffice. The [bandwidth constraint](/concepts/bandwidth-problem-mental-causation/) (~10 bits/second) limits information per selection, but [coupling modes](/concepts/coupling-modes/) like basis control multiply impact. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
+**Cumulative selection**: If consciousness selects among quantum alternatives many times per second, microsecond coherence windows suffice. The [bandwidth constraint](/concepts/consciousness-bandwidth-architecture/) (~10 bits/second) limits information per selection, but [coupling modes](/concepts/coupling-modes/) like basis control multiply impact. See [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/) for the full timing hierarchy.
 
 ## Four Coherence Protection Mechanisms
 

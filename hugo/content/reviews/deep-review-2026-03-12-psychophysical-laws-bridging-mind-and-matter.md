@@ -39,10 +39,10 @@ None. The 2026-03-10 refinement addressed the main concerns from the previous pe
 
 ### Medium Issues Found
 1. **Unsupported inference from bandwidth to policies** (line 97): "implying consciousness operates at the level of policies" was editorial inference not from Zheng & Meister.
-   - **Resolution**: Changed "implying" to "consistent with" and added cross-link to [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/).
+   - **Resolution**: Changed "implying" to "consistent with" and added cross-link to [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/).
 
 2. **Missing high-value cross-links**: Three closely related concept pages weren't linked despite direct relevance.
-   - **Resolution**: Added inline links to [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), [causal-closure](/concepts/causal-closure/), [the-psychophysical-control-law](/topics/the-psychophysical-control-law/), and [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/). Added to concepts frontmatter and Further Reading.
+   - **Resolution**: Added inline links to [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/), [causal-closure](/concepts/causal-closure/), [the-psychophysical-control-law](/topics/the-psychophysical-control-law/), and [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/). Added to concepts frontmatter and Further Reading.
 
 3. **Stale AI refinement log**: Internal HTML comment from 2026-03-10 refinement marked "should be removed after human review" was still present.
    - **Resolution**: Removed.
@@ -72,7 +72,7 @@ All six philosopher personas engaged. No new counterarguments beyond those alrea
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) (Relation to Site Perspective)
 - [causal-closure](/concepts/causal-closure/) (Upward-Downward Asymmetry)
 - [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) (Specification Problem + Further Reading)
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) (Selection laws section + Further Reading)
+- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) (Selection laws section + Further Reading)
 
 ## Word Count
 

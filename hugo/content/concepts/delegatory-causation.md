@@ -17,7 +17,7 @@ concepts:
 - '[[psychophysical-laws]]'
 - '[[agent-causation]]'
 - '[[observational-closure]]'
-- '[[asymmetric-bandwidth-consciousness]]'
+- '[[consciousness-bandwidth-architecture]]'
 created: 2026-02-15
 date: &id001 2026-04-18
 description: 'Bradford Saad''s unified mechanism for mental causation: experiences
@@ -162,7 +162,7 @@ This identification has consequences:
 
 ## Bandwidth and Granularity
 
-The [bandwidth constraint](/concepts/asymmetric-bandwidth-consciousness/)—consciousness operates at roughly 10 bits per second—shapes how default profiles relate to conscious selection. Consciousness cannot take over fine-grained neural details at that bandwidth. The experience's causal profile, and therefore the subset of the default profile it preempts, must be coarse-grained: "raise arm" or "attend to the argument," not individual synaptic events.
+The [bandwidth constraint](/concepts/consciousness-bandwidth-architecture/)—consciousness operates at roughly 10 bits per second—shapes how default profiles relate to conscious selection. Consciousness cannot take over fine-grained neural details at that bandwidth. The experience's causal profile, and therefore the subset of the default profile it preempts, must be coarse-grained: "raise arm" or "attend to the argument," not individual synaptic events.
 
 The physical state's default profile therefore splits into two parts: the coarse-grained subset that experience preempts, and the fine-grained remainder that the physical state continues to exercise. When you decide to speak, your experience preempts the default profile's "produce speech" component. But laryngeal muscle contractions, respiratory timing, and tongue placement remain under the physical state's control—those parts of the default profile are not delegated but exercised normally. Through [skill-delegation](/concepts/skill-delegation/), consciousness further narrows the subset it preempts as procedural expertise takes over.
 
@@ -209,7 +209,7 @@ The full development of Saad's theory, including his five constraints on dualist
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — The Born rule as the physics of the default profile
 - [trilemma-of-selection](/topics/trilemma-of-selection/) — Why selection at quantum indeterminacies must be conscious
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Five constraints on any consciousness-physics coupling
-- [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/) — The bandwidth constraint shaping which portions of the default profile experience preempts
+- [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — The bandwidth constraint shaping which portions of the default profile experience preempts
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Other responses to the exclusion problem
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why mental causation violates neither conservation laws nor observational closure
 

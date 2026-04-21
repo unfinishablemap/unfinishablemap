@@ -10,7 +10,7 @@ concepts:
 - '[[dualism]]'
 - '[[reductionism]]'
 - '[[neural-refresh-rates]]'
-- '[[bandwidth-problem-mental-causation]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[interface-heterogeneity]]'
 - '[[causal-closure]]'
 created: 2026-04-07

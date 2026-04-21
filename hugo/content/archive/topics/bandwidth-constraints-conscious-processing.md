@@ -53,13 +53,13 @@ Consciousness processes one thing at a time. Dual-task interference — the inab
 
 This seriality is often treated as a quirk of neural architecture, but the bandwidth constraint makes it inevitable. At 10 bits per second, there is no capacity for parallel conscious streams. Dividing 10 bits across two tasks yields ~5 bits each — below the threshold for effective decision-making in either. Seriality is not a design choice the brain made; it is a mathematical consequence of the channel's capacity.
 
-The contrast with unconscious processing sharpens the point. Sauerbrei and Pruszynski (2025) observed that the cerebellum coordinates dozens of muscles simultaneously, each requiring multiple bits of specification per movement cycle. The brain runs massively parallel computation at full neural bandwidth. Consciousness does not. The serial/parallel divide maps precisely onto the conscious/unconscious divide. Materialist accounts can explain *a* serial bottleneck — neural broadcast architectures create one — but struggle to explain why the processing *mode* changes so radically at the bottleneck rather than merely the throughput. On the Map's framework, this is an expected signature of the [interface](/concepts/asymmetric-bandwidth-consciousness/) between two distinct systems.
+The contrast with unconscious processing sharpens the point. Sauerbrei and Pruszynski (2025) observed that the cerebellum coordinates dozens of muscles simultaneously, each requiring multiple bits of specification per movement cycle. The brain runs massively parallel computation at full neural bandwidth. Consciousness does not. The serial/parallel divide maps precisely onto the conscious/unconscious divide. Materialist accounts can explain *a* serial bottleneck — neural broadcast architectures create one — but struggle to explain why the processing *mode* changes so radically at the bottleneck rather than merely the throughput. On the Map's framework, this is an expected signature of the [interface](/concepts/consciousness-bandwidth-architecture/) between two distinct systems.
 
 ## Forced Abstraction
 
 A 10-bit/second processor cannot operate on raw sensory data. Vision delivers roughly 10⁷ bits per second (Zimmermann 1986); even after cortical compression, the data stream dwarfs conscious capacity by orders of magnitude. Consciousness is forced to operate on *abstractions* — compressed, categorical, high-level representations that encode meanings and goals rather than pixel-level detail.
 
-This is why conscious thought traffics in categories ("cup," "danger," "opportunity") rather than sensory primitives. It is why intentions are coarse-grained — "reach for the cup" rather than "fire motor neurons N₄₅₆₇₈ in sequence" — as the [bandwidth problem in mental causation](/concepts/bandwidth-problem-mental-causation/) makes explicit. The bandwidth constraint does not just prevent fine-grained processing; it *requires* that consciousness operate at a level of abstraction where 10 bits per second suffices.
+This is why conscious thought traffics in categories ("cup," "danger," "opportunity") rather than sensory primitives. It is why intentions are coarse-grained — "reach for the cup" rather than "fire motor neurons N₄₅₆₇₈ in sequence" — as the [bandwidth problem in mental causation](/concepts/consciousness-bandwidth-architecture/) makes explicit. The bandwidth constraint does not just prevent fine-grained processing; it *requires* that consciousness operate at a level of abstraction where 10 bits per second suffices.
 
 Miller (1956) showed that immediate memory holds approximately 7 chunks regardless of chunk size. Chunking is the mechanism by which information is compressed into consciousness-sized units. Expert typists chunk letter sequences so that each conscious selection triggers multiple keystrokes. Memory athletes compress arbitrary card sequences into spatial patterns via the method of loci. In every case, expertise works *around* the bandwidth ceiling by reformatting information into units that the narrow channel can handle — not by widening the channel itself (Zheng & Meister 2025).
 
@@ -106,8 +106,8 @@ The [filter model](/concepts/filter-theory/) accommodates this naturally. If con
 ## Further Reading
 
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The empirical bandwidth data and the selection model
-- [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/) — The 100-million-fold inbound/outbound asymmetry
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Whether 10 bits/second suffices for complex behaviour
+- [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/) — The 100-million-fold inbound/outbound asymmetry
+- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — Whether 10 bits/second suffices for complex behaviour
 - [working-memory](/concepts/working-memory/) — The workspace where conscious processing operates
 - [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — How the interface operates through attention

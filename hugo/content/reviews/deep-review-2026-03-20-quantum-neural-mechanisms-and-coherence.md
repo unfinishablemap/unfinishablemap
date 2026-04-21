@@ -34,7 +34,7 @@ None. The previous review resolved all critical reference/attribution errors. No
 
 - **Missing cross-link to formalism framework**: The article discussed "biasing quantum outcomes without violating physical law" and "without injecting energy" without referencing the formal constraints that make these claims precise. **Resolution**: Added reference to [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) in Minimal Quantum Interaction tenet section, specifying all five constraints.
 - **Missing cross-link to coupling modes**: The article discussed mechanisms for consciousness-physics interaction without referencing the coupling modes taxonomy. **Resolution**: Added [coupling-modes](/concepts/coupling-modes/) cross-link in cumulative selection discussion and Further Reading.
-- **Cumulative selection lacked bandwidth context**: The "how fast can selection operate?" question had no answer regarding informational constraints. **Resolution**: Added [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) reference noting ~10 bits/second bandwidth and how coupling modes like basis control multiply impact.
+- **Cumulative selection lacked bandwidth context**: The "how fast can selection operate?" question had no answer regarding informational constraints. **Resolution**: Added [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) reference noting ~10 bits/second bandwidth and how coupling modes like basis control multiply impact.
 - **Twin study still vague**: The Escolà-Gascón (2025) description used opaque language about "entanglement of qubits in stimulus configurations." **Resolution**: Clarified to explain that stimulus presentations were modelled as entangled qubits and the result exceeded classical probability model predictions.
 
 ### Counterarguments Considered
@@ -68,7 +68,7 @@ None. The previous review resolved all critical reference/attribution errors. No
 
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) (concepts frontmatter + Minimal Quantum Interaction section + Further Reading)
 - [coupling-modes](/concepts/coupling-modes/) (concepts frontmatter + cumulative selection + Further Reading)
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) (cumulative selection + Further Reading)
+- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) (cumulative selection + Further Reading)
 
 ## Remaining Items
 

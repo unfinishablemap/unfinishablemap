@@ -38,7 +38,7 @@ None.
 - Missing No Many Worlds tenet in Relation to Site Perspective: Added paragraph explaining why MWI undermines delegation — if all outcomes occur, there is no preemption
 - Missing cross-link to `[consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)`: Added in Born-Rule section where observational closure is discussed, noting Born-rule preservation as first of five non-negotiable constraints
 - Missing cross-link to `[trilemma-of-selection](/topics/trilemma-of-selection/)`: Added in profile matching section, establishing why selection at indeterminacies must be conscious
-- Missing `[asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)` in frontmatter concepts: Added, since the bandwidth constraint warrants its own section
+- Missing `[asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/)` in frontmatter concepts: Added, since the bandwidth constraint warrants its own section
 
 ### Counterarguments Considered
 - Counterfactual nature of default profiles: Already well-addressed via three-pronged defense (functional specification, zombie thought experiment, physical law)
@@ -58,14 +58,14 @@ None.
 - Added No Many Worlds tenet connection to Relation to Site Perspective
 - Added cross-link to [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) with context about Born-rule preservation constraint
 - Added cross-link to [trilemma-of-selection](/topics/trilemma-of-selection/) with context about why selection must be conscious
-- Added [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/) to frontmatter concepts
+- Added [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/) to frontmatter concepts
 - Added three new entries to Further Reading section
 - Added [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) and [trilemma-of-selection](/topics/trilemma-of-selection/) to frontmatter related_articles
 
 ### Cross-links Added
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
 - [trilemma-of-selection](/topics/trilemma-of-selection/)
-- [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/)
 
 ## Remaining Items
 

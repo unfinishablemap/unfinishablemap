@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-24
-**Article**: [The Bandwidth Problem in Mental Causation](/concepts/bandwidth-problem-mental-causation/)
+**Article**: [The Bandwidth Problem in Mental Causation](/concepts/consciousness-bandwidth-architecture/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

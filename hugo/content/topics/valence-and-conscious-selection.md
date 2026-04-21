@@ -216,7 +216,7 @@ This fork is structurally forced by the Map's own commitments, and resolving it 
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface through which consciousness acts
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia as evidence that valence does causal work in selection
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Why emotional consciousness provides distinctive evidence for dualism
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The ~10 bits/second constraint on conscious selection
+- [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — The ~10 bits/second constraint on conscious selection
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The demand-character of experience as the mechanism through which valence grips and guides
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — Apex synthesis: the value-sensitivity question within a unified moral framework
 

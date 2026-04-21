@@ -82,7 +82,7 @@ This identification has consequences:
 
 ## Default Profiles and the Bandwidth Constraint
 
-The [bandwidth constraint](/concepts/asymmetric-bandwidth-consciousness/) — consciousness operates at roughly 10 bits per second — shapes how default profiles relate to conscious selection. Consciousness cannot take over fine-grained neural details at that bandwidth. The experience's causal profile, and therefore the subset of the default profile it preempts, must be coarse-grained: "raise arm" or "attend to the argument," not individual synaptic events.
+The [bandwidth constraint](/concepts/consciousness-bandwidth-architecture/) — consciousness operates at roughly 10 bits per second — shapes how default profiles relate to conscious selection. Consciousness cannot take over fine-grained neural details at that bandwidth. The experience's causal profile, and therefore the subset of the default profile it preempts, must be coarse-grained: "raise arm" or "attend to the argument," not individual synaptic events.
 
 The physical state's default profile therefore splits into two parts: the coarse-grained subset that experience preempts, and the fine-grained remainder that the physical state continues to exercise. When you decide to speak, your experience preempts the default profile's "produce speech" component. But laryngeal muscle contractions, respiratory timing, and tongue placement remain under the physical state's control — those parts of the default profile are not delegated but exercised normally. Through [skill-delegation](/concepts/skill-delegation/), consciousness further narrows the subset it preempts as procedural expertise takes over.
 
@@ -111,7 +111,7 @@ The default causal profile connects to multiple tenets of The Unfinishable Map's
 - [psychophysical-laws](/concepts/psychophysical-laws/) — The broader framework for mind-body laws
 - [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) — Five constraints on any consciousness-physics coupling, starting with Born-rule preservation
 - [trilemma-of-selection](/topics/trilemma-of-selection/) — Why selection at quantum indeterminacies must be conscious
-- [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/) — The bandwidth constraint shaping which portions of the default profile experience preempts
+- [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/) — The bandwidth constraint shaping which portions of the default profile experience preempts
 
 ## References
 

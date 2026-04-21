@@ -79,7 +79,7 @@ The crucial difference from standard preemption analogies: the preemption occurs
 
 ## The Bandwidth Constraint as Delegation Scope
 
-The [bandwidth constraint](/concepts/asymmetric-bandwidth-consciousness/) — consciousness operates at roughly 10 bits per second, five million times slower than unconscious processing — shapes how delegation integrates with selection.
+The [bandwidth constraint](/concepts/consciousness-bandwidth-architecture/) — consciousness operates at roughly 10 bits per second, five million times slower than unconscious processing — shapes how delegation integrates with selection.
 
 Consciousness cannot delegate at the level of individual quantum events. At ~10 bits per second, selection is policy-level: consciousness selects "raise arm" or "attend to the argument," not individual neuron firings. This means delegation operates at the level of action patterns. Experience takes over the causal role of producing a coherent motor programme or attentional configuration, while the detailed neural implementation falls out from the selected policy through ordinary physical dynamics.
 

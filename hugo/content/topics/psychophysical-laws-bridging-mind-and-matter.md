@@ -23,7 +23,7 @@ concepts:
 - '[[mental-effort]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[causal-closure]]'
-- '[[bandwidth-problem-mental-causation]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[mysterianism]]'
 - '[[post-decoherence-selection]]'
 - '[[tenet-falsification-conditions]]'
@@ -100,7 +100,7 @@ Why the focus on quantum selection? Classical physics is deterministic—[causal
 Selection laws must specify:
 1. **Variables on the mental side**: What aspects of experience map to selection? Attention? Intention? Effort?
 2. **Variables on the physical side**: What physical parameters does consciousness influence? Observation rate? Tunneling probability?
-3. **Bandwidth constraints**: Research suggests ~10 bits/second—the measured bandwidth of conscious thought—consistent with consciousness operating at the level of policies rather than individual quantum events (see [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)).
+3. **Bandwidth constraints**: Research suggests ~10 bits/second—the measured bandwidth of conscious thought—consistent with consciousness operating at the level of policies rather than individual quantum events (see [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/)).
 4. **Scope constraints**: What is *not* selectable? External systems? Others' brains? Events outside attention?
 
 ## The Super-Resistance Principle
@@ -247,7 +247,7 @@ The framework would face serious difficulty if (see also [tenet-falsification-co
 - [tenet-falsification-conditions](/concepts/tenet-falsification-conditions/) — What it would take to abandon the Map's foundational commitments
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/) — Why selection without energy injection is consistent with conservation
 - [causal-closure](/concepts/causal-closure/) — The exclusion argument and quantum indeterminacy's opening
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — How coarse-grained consciousness produces fine-grained effects
+- [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — How coarse-grained consciousness produces fine-grained effects
 - [tenets](/tenets/) — The Map's foundational commitments
 
 ## References

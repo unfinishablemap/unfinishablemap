@@ -19,7 +19,7 @@ title: 'Apex Evolve Review: The Interface Specification Programme'
 
 All six source articles were read in full:
 1. [the-psychophysical-control-law](/topics/the-psychophysical-control-law/) — Formal mapping between conscious states and physical selection
-2. [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — Whether the mind-body channel carries enough information
+2. [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — Whether the mind-body channel carries enough information
 3. [control-theoretic-will](/concepts/control-theoretic-will/) — Will as low-bandwidth control signal
 4. [causal-delegation](/concepts/delegatory-causation/) — Physical states delegating causal responsibilities to experiences
 5. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — Nature and scope of phenomenal influence

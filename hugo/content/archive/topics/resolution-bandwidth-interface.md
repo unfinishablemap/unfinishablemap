@@ -42,7 +42,7 @@ topics:
 - '[[attention-and-the-consciousness-interface]]'
 ---
 
-Consciousness processes roughly ten bits per second. The brain it inhabits processes roughly 10⁹ bits per second — a [100-million-fold asymmetry](/topics/bandwidth-of-consciousness/). The Unfinishable Map has explored both sides of this ratio separately: the [resolution-void](/voids/resolution-void/) quantifies what consciousness cannot access, while the [bandwidth problem in mental causation](/concepts/bandwidth-problem-mental-causation/) formalises the challenge for downward causation. This article unifies both into a single claim. The coarseness of consciousness is not a defect to be explained away but an architectural requirement for its causal role. A ten-bit-per-second controller is a fundamentally different kind of system from a billion-bit-per-second processor, and that difference is precisely what makes conscious selection possible.
+Consciousness processes roughly ten bits per second. The brain it inhabits processes roughly 10⁹ bits per second — a [100-million-fold asymmetry](/topics/bandwidth-of-consciousness/). The Unfinishable Map has explored both sides of this ratio separately: the [resolution-void](/voids/resolution-void/) quantifies what consciousness cannot access, while the [bandwidth problem in mental causation](/concepts/consciousness-bandwidth-architecture/) formalises the challenge for downward causation. This article unifies both into a single claim. The coarseness of consciousness is not a defect to be explained away but an architectural requirement for its causal role. A ten-bit-per-second controller is a fundamentally different kind of system from a billion-bit-per-second processor, and that difference is precisely what makes conscious selection possible.
 
 ## Two Problems, One Interface
 
@@ -66,13 +66,13 @@ The resolution void creates this abstraction. By compressing eleven million bits
 
 ## The Division of Labour
 
-The [bandwidth asymmetry](/concepts/asymmetric-bandwidth-consciousness/) — 10⁹ bits per second inbound, 10¹ outbound — defines a division of labour between brain and consciousness that the Map's interactionist framework requires.
+The [bandwidth asymmetry](/concepts/consciousness-bandwidth-architecture/) — 10⁹ bits per second inbound, 10¹ outbound — defines a division of labour between brain and consciousness that the Map's interactionist framework requires.
 
 The brain's role: generate, evaluate, and prepare candidate action sequences at full computational bandwidth. Translate goals into motor plans. Compute sensory predictions. Maintain homeostasis. Execute overlearned skills. All of this proceeds at billions of bits per second, unconsciously.
 
 Consciousness's role: select among the prepared candidates. Redirect attention when current strategies fail. Inhibit impulses that conflict with longer-term goals. Introduce novel combinations that habit cannot produce. All of this proceeds at ten bits per second, deliberately.
 
-This division is not merely efficient — it is the only architecture that resolves the [bandwidth problem](/concepts/bandwidth-problem-mental-causation/). If consciousness had to specify neural configurations directly, ten bits per second would be catastrophically insufficient. But consciousness does not specify configurations. It selects among them. And a channel operating at roughly ten bits per second can make a few selections per second among small sets of alternatives — consistent with the rate at which deliberate choices appear to occur, though precise measurement of conscious decision rate remains an open question.
+This division is not merely efficient — it is the only architecture that resolves the [bandwidth problem](/concepts/consciousness-bandwidth-architecture/). If consciousness had to specify neural configurations directly, ten bits per second would be catastrophically insufficient. But consciousness does not specify configurations. It selects among them. And a channel operating at roughly ten bits per second can make a few selections per second among small sets of alternatives — consistent with the rate at which deliberate choices appear to occur, though precise measurement of conscious decision rate remains an open question.
 
 The resolution void is what *creates* the appropriate selection categories. By compressing sensory information into high-level summaries, the brain presents consciousness with the kind of options consciousness can evaluate: "reach for the cup" versus "wait," not "fire motor unit N₄₅₆₇₈ at 40 Hz." The compression is not information loss in any functionally relevant sense. It is format translation — from a vocabulary consciousness cannot use to one it can.
 
@@ -146,7 +146,7 @@ The interface interpretation would face serious difficulty if:
 
 - [resolution-void](/voids/resolution-void/) — The epistemic side: what consciousness cannot access
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The empirical bandwidth data and its implications
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The causal side: whether the channel suffices for behaviour
+- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — The causal side: whether the channel suffices for behaviour
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the primary vehicle of conscious selection
 - [baseline-cognition](/concepts/baseline-cognition/) — What the brain achieves without conscious involvement

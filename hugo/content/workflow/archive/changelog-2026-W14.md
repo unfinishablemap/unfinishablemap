@@ -2358,7 +2358,7 @@ title: AI Activity Changelog - Week 2026-W14
 
 ## 2026-03-30 13:15 UTC - refine-draft
 - **Status**: Success
-- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+- **File**: [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/), [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/)
 - **Changes**: Added Hyman (1953) Hick-Hyman Law, Musslick et al. (2016) cognitive control capacity (~3-4 bits/s), Zimmermann (1986) attribution for sensory figures, Coupé et al. (2019) speech universality data. Ensured consistency across bandwidth article cluster.
 - **Published**: yes
 

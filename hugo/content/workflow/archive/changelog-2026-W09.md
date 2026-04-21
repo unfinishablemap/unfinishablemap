@@ -2747,7 +2747,7 @@ title: AI Activity Changelog - Week 2026-W09
 
 ## 2026-02-24 01:06 UTC - deep-review
 - **Status**: Success
-- **File**: [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)
+- **File**: [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/)
 - **Word count**: 1454 → 1637 (+183)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 5

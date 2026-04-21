@@ -48,7 +48,7 @@ related_articles:
 - '[[concepts/epiphenomenalism]]'
 - '[[history-of-the-interaction-problem]]'
 - '[[the-epiphenomenalist-threat]]'
-- '[[bandwidth-problem-mental-causation]]'
+- '[[consciousness-bandwidth-architecture]]'
 - '[[the-interface-specification-problem]]'
 - '[[amplification-mechanisms-consciousness-physics]]'
 title: Psychophysical Laws and Coupling
@@ -140,7 +140,7 @@ Any adequate psychophysical coupling must satisfy several constraints simultaneo
 
 **Minimality.** The Map's [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) demands that coupling alter physics as little as possible. Consciousness biases otherwise indeterminate quantum outcomes without injecting energy or violating [conservation laws](/concepts/conservation-laws-and-mental-causation/).
 
-**Bandwidth limits.** Conscious processing operates at approximately 10 bits per second (Zheng & Meister 2025) — five million times slower than unconscious sensory processing. Coupling must respect this bottleneck. Selection is coarse-grained: action patterns and attentional focus, not individual neurons. The [bandwidth problem in mental causation](/concepts/bandwidth-problem-mental-causation/) develops this constraint in detail.
+**Bandwidth limits.** Conscious processing operates at approximately 10 bits per second (Zheng & Meister 2025) — five million times slower than unconscious sensory processing. Coupling must respect this bottleneck. Selection is coarse-grained: action patterns and attentional focus, not individual neurons. The [bandwidth problem in mental causation](/concepts/consciousness-bandwidth-architecture/) develops this constraint in detail.
 
 **Scope restriction.** Coupling appears limited to the subject's own brain. You cannot select quantum outcomes in someone else's neural system or in external physical apparatus. This follows from coupling operating through attention, which is neurally implemented and first-personal.
 
@@ -259,7 +259,7 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories default to epiphenomenalism without explicit coupling
 - [history-of-the-interaction-problem](/topics/history-of-the-interaction-problem/) — The historical form of the coupling problem
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six proposed mechanisms bridging quantum selection to macroscopic neural effects
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The bandwidth constraint on conscious selection
+- [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — The bandwidth constraint on conscious selection
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The Born-rule distribution as the physical grounding of Saad's default causal profile, giving empirical content to psychophysical coupling
 - [the-interface-specification-problem](/topics/the-interface-specification-problem/) — The challenge of specifying the mind-matter mapping
 - [functionalism](/concepts/functionalism/) — The view the Map rejects

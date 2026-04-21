@@ -67,7 +67,7 @@ That said, the structural claim is not empirically empty. It generates specific 
 
 ## Valence Currency and the Bandwidth Constraint
 
-Conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices. The [bandwidth constraint](/concepts/bandwidth-problem-mental-causation/) means consciousness selects among action patterns and attentional targets, not among individual neurons or synapses.
+Conscious processing operates at approximately 10 bits per second—sharply limiting selection to coarse-grained choices. The [bandwidth constraint](/concepts/consciousness-bandwidth-architecture/) means consciousness selects among action patterns and attentional targets, not among individual neurons or synapses.
 
 Valence currency is compatible with this constraint. A common currency *reduces* the information processing demand: instead of evaluating outcomes along multiple incommensurable dimensions, consciousness evaluates along one. Ten bits per second is enough to compare a handful of options on a single dimension and select the highest-valued one. The currency metaphor explains *why* the bandwidth is sufficient: consciousness doesn't need high bandwidth because it processes a low-dimensional signal (valence) rather than the high-dimensional neural patterns themselves.
 
@@ -164,7 +164,7 @@ The selection currency thesis is where several of the Map's tenets converge into
 - [agent-teleology](/concepts/agent-teleology/) — Genuine purpose through conscious causation
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Values grounded in phenomenal properties
 - [attention-as-interface](/concepts/attention-as-interface/) — The attentional channel through which selection operates
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) — The ~10 bits/second constraint on conscious selection
+- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) — The ~10 bits/second constraint on conscious selection
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain asymbolia as evidence that valence does causal work
 
 ## References

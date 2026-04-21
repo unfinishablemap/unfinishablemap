@@ -69,7 +69,7 @@ All six adversarial personas engaged. No new counterarguments beyond those ident
 
 ### Cross-links Added
 
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/)
+- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/)
 - [mental-causation](/concepts/mental-causation-and-downward-causation/)
 - [conservation-laws-and-mind](/concepts/conservation-laws-and-mental-causation/)
 - [downward-causation](/concepts/mental-causation-and-downward-causation/)

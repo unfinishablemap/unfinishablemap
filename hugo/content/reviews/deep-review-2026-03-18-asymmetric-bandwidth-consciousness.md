@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-18
-**Article**: [Asymmetric Bandwidth of Consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+**Article**: [Asymmetric Bandwidth of Consciousness](/concepts/consciousness-bandwidth-architecture/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

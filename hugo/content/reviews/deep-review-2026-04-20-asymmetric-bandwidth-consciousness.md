@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-20
-**Article**: [Asymmetric Bandwidth of Consciousness](/concepts/asymmetric-bandwidth-consciousness/)
+**Article**: [Asymmetric Bandwidth of Consciousness](/concepts/consciousness-bandwidth-architecture/)
 **Previous review**: [2026-03-18b](/reviews/deep-review-2026-03-18b-asymmetric-bandwidth-consciousness/) (orphan integration pass)
 
 ## Context

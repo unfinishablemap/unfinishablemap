@@ -97,7 +97,7 @@ McGinn would find the Map's voids section — 99 articles cataloguing cognitive 
 - **Tenet alignment**: Dualism (emotional qualia resist reduction), Bidirectional Interaction (emotions demonstrably cause behaviour)
 
 #### The Interface Specification as Research Programme
-- **Builds on**: [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/), [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/), [coupling-modes](/concepts/coupling-modes/), [interface-friction](/concepts/interface-friction/), [interface-heterogeneity](/concepts/interface-heterogeneity/)
+- **Builds on**: [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/), [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/), [coupling-modes](/concepts/coupling-modes/), [interface-friction](/concepts/interface-friction/), [interface-heterogeneity](/concepts/interface-heterogeneity/)
 - **Would address**: The Map has developed formal interface constraints, bandwidth data, coupling modes, and friction analysis across separate articles — but no article synthesises these into a coherent research programme with testable predictions
 - **Estimated scope**: Long article (2000-3000 words), possible apex candidate
 - **Tenet alignment**: All five tenets — this is the Map's most distinctive scientific contribution
@@ -142,7 +142,7 @@ McGinn would find the Map's voids section — 99 articles cataloguing cognitive 
 |------|-----|--------|
 | [concession-convergence](/concepts/concession-convergence/) | [parsimony-epistemology](/concepts/parsimony-epistemology/) | Concession convergence shows parsimony failing in practice; parsimony epistemology explains why theoretically |
 | [physics-as-disclosure](/concepts/physics-as-disclosure/) | [galilean-exclusion](/concepts/galilean-exclusion/) | Galileo excluded consciousness; the measurement problem discloses it was there all along |
-| [asymmetric-bandwidth-consciousness](/concepts/asymmetric-bandwidth-consciousness/) | [control-theoretic-will](/concepts/control-theoretic-will/) | The ~10 bits/sec outbound ceiling is precisely the constraint that makes will a low-bandwidth control signal |
+| [asymmetric-bandwidth-consciousness](/concepts/consciousness-bandwidth-architecture/) | [control-theoretic-will](/concepts/control-theoretic-will/) | The ~10 bits/sec outbound ceiling is precisely the constraint that makes will a low-bandwidth control signal |
 | [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) | [filter-theory](/concepts/filter-theory/) | Extended cognition enriches the filter's informational resources — the article gestures at this but the link isn't made |
 | [inventory-blindness](/concepts/inventory-blindness/) | [fitness-beats-truth](/concepts/fitness-beats-truth/) | If perception is tuned for fitness not truth, our cognitive inventory is shaped by selection pressure, not by the structure of reality |
 | [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) | [categorical-surprise](/concepts/categorical-surprise/) | Creative insight involves categorical surprise at the moment of restructuring — these articles discuss related phenomena without connecting |

@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-24
 **Article**: [Neural Bandwidth Constraints and the Interface](/topics/bandwidth-of-consciousness/)
 **Previous review**: [2026-02-24](/reviews/deep-review-2026-02-24-neural-bandwidth-constraints-and-the-interface/)
-**Cross-review context**: Reviewing in light of [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) insights
+**Cross-review context**: Reviewing in light of [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) insights
 
 ## Pessimistic Analysis Summary
 
@@ -67,7 +67,7 @@ All six adversarial personas engaged. No new counterarguments beyond those ident
 ### Cross-links Added
 
 No new cross-links needed. The existing link set is comprehensive:
-- [bandwidth-problem-mental-causation](/concepts/bandwidth-problem-mental-causation/) (bidirectional link confirmed)
+- [bandwidth-problem-mental-causation](/concepts/consciousness-bandwidth-architecture/) (bidirectional link confirmed)
 - [psychophysical-laws](/concepts/psychophysical-laws/) (updated from archived psychophysical-coupling)
 
 ## Remaining Items
