@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review apex/interface-specification-programme.md considering four-quadrant-dualism-taxonomy insights
+- **Type**: cross-review
+- **Notes**: New article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) sorts dualist positions along two axes (mind-side thickness × physical-side thickness) and locates several positions that bear directly on the interface-specification programme — most notably Q1 (thin mind × thick physics), which the Map's minimum-quantum-interaction reading inhabits, and Q4 (thick mind × thick physics), Stapp's "thick-observer-plus-minimal-channel" configuration. The 2026-04-21 apex-evolve skip decision explicitly flagged this cross-review as the follow-up to surface criterion-(b) implications without creating a duplicate apex (see reviews/apex-evolve-2026-04-21 log). Cross-review should (a) add inbound link to four-quadrant-dualism-taxonomy where interface-specification-programme discusses the channel architecture, (b) check whether the quadrant taxonomy sharpens the programme's position-taking — the programme currently speaks in the language of "minimal channel" without naming which quadrant it occupies, (c) identify whether Stapp's thick-observer reading (Q4) adds an alternative specification the programme should name and position against, (d) verify terminology alignment (the taxonomy uses "mind-side thickness" and "physical-side thickness"; the programme uses "interface bandwidth" and "channel properties" — align where drift exists), (e) consider whether Q2 (thick mind × thin physics, Bradford Saad's delegatory dualism) forces the programme to articulate why the Map takes a thin-mind path. See topics/four-quadrant-dualism-taxonomy.md and reviews/apex-evolve-2026-04-21-process-and-consciousness.md.
+- **Source**: chain (from four-quadrant-dualism-taxonomy.md)
+- **Generated**: 2026-04-21
+
+### P2: Cross-review concepts/dualism.md considering four-quadrant-dualism-taxonomy insights
+- **Type**: cross-review
+- **Notes**: New article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) is the Map's most extensive treatment of the space of dualist positions and explicitly cross-links to [[dualism]] in its related_articles. concepts/dualism.md is the canonical concept-level anchor for the site's treatment of dualism but currently has no inbound link to the new taxonomy. Cross-review should (a) add inbound link where dualism.md surveys the varieties of dualist position, (b) check whether dualism.md's current taxonomy can be sharpened or reorganised around the two-axis partition (mind-side × physical-side thickness) rather than the traditional substance/property/predicate distinction, (c) identify where dualism.md's positional claims would benefit from naming which quadrant the Map's own view inhabits (the taxonomy locates the Map in Q1: thin mind × thick physics via MQI, with partial Q4 features via bidirectional interaction), (d) verify terminology alignment (both articles use "interactionist," "substance," "property" — align if drift exists), (e) ensure dualism.md does not overclaim or underclaim about positions the taxonomy positions more precisely. See topics/four-quadrant-dualism-taxonomy.md.
+- **Source**: chain (from four-quadrant-dualism-taxonomy.md)
+- **Generated**: 2026-04-21
+
+### P2: Cross-review concepts/temporal-consciousness.md considering process-and-consciousness apex insights
+- **Type**: cross-review
+- **Notes**: The 2026-04-21 apex-evolve of apex/process-and-consciousness.md integrated temporal-consciousness.md as a replacement for the archived duration.md and added the 280 ms motor commitment inside 100–750 ms specious present material (Kent & Wittmann) plus the Schurger/Sjöberg reinterpretation of Libet. temporal-consciousness.md supplied source material but does not yet link back to the updated apex article or cite the new specious-present/motor-commitment framing from the apex side. Cross-review should (a) add inbound link from temporal-consciousness.md to apex/process-and-consciousness.md in related_articles and in the body where temporal phenomenology bears on agency and free will, (b) check whether temporal-consciousness.md's treatment of the specious present can be sharpened by citing the apex article's integration of Kent & Wittmann's 280 ms motor-commitment datum, (c) verify terminology alignment ("specious present," "temporal thickness," "duration" — the apex now leans on "specious present" specifically; concept article should align), (d) check whether the Schurger/Sjöberg Libet reinterpretation surfaces in temporal-consciousness.md and, if not, whether it should, (e) confirm that archived duration.md references (now redirected) are not silently broken. See apex/process-and-consciousness.md and reviews/apex-evolve-2026-04-21-process-and-consciousness.md.
+- **Source**: chain (from apex/process-and-consciousness.md)
+- **Generated**: 2026-04-21
+
+### P3: Deep review voids/apophatic-cartography.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-06 (46 days ago). Voids article on the apophatic-cartography method — describing what consciousness cannot reach rather than asserting what it is. The article supplies methodological framing referenced across several recent voids articles (erasure-void, source-attribution-void, meta-epistemology-of-limits) but has not been revisited as those downstream articles refined the methodological vocabulary. Verify (a) terminology alignment with recent voids additions, (b) that illustrative examples still map cleanly to the current voids catalogue (some voids have been archived or coalesced since March 6), (c) tenet alignment under the current phrasing of Occam's Razor Has Limits, (d) no stale inbound references to archived voids. See /deep-review skill.
+- **Source**: staleness
+- **Generated**: 2026-04-21
+
+### P3: Deep review voids/nomic-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-07 (45 days ago). Voids article on the nomic void — the structural gap between psychophysical laws and the felt character of what they govern. The article is methodologically close to the 2026-04-17 parsimony-epistemology refinement's Idealism Parity Trilemma and to the four-quadrant dualism taxonomy's treatment of thin-mind positions; these later pieces have likely shifted the dialectical landscape. Verify (a) engagement with psychophysical-law literature remains current, (b) alignment with the Map's minimum-quantum-interaction specification of how laws are realised, (c) no stale inbound references, (d) tenet alignment under the refined parsimony-epistemology framing. See /deep-review skill.
+- **Source**: staleness
+- **Generated**: 2026-04-21
+
 ### P3: Write concept article on The Double Veil as dualist epistemology
 - **Type**: expand-topic
 - **Status**: pending
