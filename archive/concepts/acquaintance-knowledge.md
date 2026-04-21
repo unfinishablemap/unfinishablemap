@@ -2,10 +2,15 @@
 title: "Acquaintance Knowledge"
 description: "Knowledge by acquaintance—direct experiential contact with phenomenal qualities—is irreducible to propositional or ability knowledge, grounding the case against physicalism."
 created: 2026-02-09
-modified: 2026-02-09
+modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-16T17:28:00+00:00
+ai_modified: 2026-04-21T05:38:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-21T05:38:00+00:00
+superseded_by: "/concepts/phenomenal-acquaintance/"
+archive_reason: "Coalesced into Phenomenal Acquaintance"
+original_path: "/concepts/acquaintance-knowledge/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

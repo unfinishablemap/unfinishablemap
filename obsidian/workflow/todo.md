@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks to coalesced acquaintance-knowledge
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: The 2026-04-21 coalesce merged `concepts/acquaintance-knowledge.md` into `concepts/phenomenal-acquaintance.md`. The following active files still wikilink to `[[acquaintance-knowledge]]` and should be reviewed — retarget to `[[phenomenal-acquaintance]]` unless the original framing of "acquaintance knowledge" (the Russellian category) is the specific point being made. URLs continue to resolve via the archive. Files: voids/consciousness-only-territories.md, voids/acquaintance-void.md, voids/transformative-experience-void.md, voids/pre-conceptual-knowing.md, topics/phenomenal-authority-and-first-person-evidence.md, topics/aesthetics-and-consciousness.md, topics/evaluative-qualia-phenomenal-normativity-across-traditions.md, concepts/evaluative-phenomenal-character.md, concepts/indexical-knowledge-and-identity.md, concepts/epistemology.md.
+- **Source**: coalesce
+- **Generated**: 2026-04-21
+
 ### P2: Write concept article on Metacognitive Monitoring Architecture
 - **Type**: expand-topic
 - **Status**: pending
