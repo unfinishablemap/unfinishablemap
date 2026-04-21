@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 18:38:00+00:00
+ai_modified: 2026-04-21 19:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 19:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/source-attribution-void]]
+- **Context**: Addresses 4 medium + 2 low-severity issues from [[reviews/pessimistic-2026-04-21]]
+- **Changes**: Reworked Dualism subsection to state evidential neutrality (void is compatible with, not evidence for, dualism); reframed Bidirectional Interaction passage as coherence-with-tenet and conceded markerless-interface is indistinguishable from no-interface from inside; hedged Implications point 2 as substantive philosophical commitment (asymmetric epistemic verdict) rather than data-driven conclusion; softened self-maintenance speculation at Implications point 3 to "worth asking whether"; added I-Spy-vs-universal-illusion sentence to Wegner paragraph; hedged Johansson 2005 ("roughly three-quarters ... across concurrent and retrospective measures") and Brown & Murphy 1989 ("single-digit percentage rates that varied by task condition"); minor language fixes ("fails systematically", "structural limit", "structural:").
+- **Published**: yes
 
 ## 2026-04-21 18:38 UTC - pessimistic-review
 - **Status**: Success
