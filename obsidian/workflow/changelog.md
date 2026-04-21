@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 12:48:00+00:00
+ai_modified: 2026-04-21 12:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 12:51 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/process-and-consciousness]]
+- **Changed sources**: 6 updated (process-philosophy, temporal-consciousness, panpsychism, combination-problem, unity-of-consciousness, free-will) + 2 replaced (archived duration → temporal-consciousness; archived phenomenal-unity → unity-of-consciousness)
+- **Word count**: 3500 → 3806
+- **Review**: [[reviews/apex-evolve-2026-04-21-process-and-consciousness]]
+- **Key integrations**: phenomenal non-compositionality (van Inwagen / Merricks / McQueen-Tsuchiya convergence); 2022–2024 empirical bridges for entanglement-binding (Kerskens & Pérez; Wiest et al.); Schurger/Sjöberg reinterpretation of Libet; 280 ms motor commitment inside 100–750 ms specious present (Kent & Wittmann). Frontmatter sources updated to drop two archived references.
 
 ## 2026-04-21 12:48 UTC - check-tenets
 - **Status**: Success
