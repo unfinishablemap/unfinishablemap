@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 12:51:00+00:00
+ai_modified: 2026-04-21 12:59:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 12:59 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 5987 → 6131, ~88 hours)
+- **Findings**: 2 cadence (check-tenets/apex-evolve last_runs stale writeback NEW; validate-all 87 days), 0 failure (15th zero-failure period), 1 queue (P3 overhang 398), 1 review (pessimistic→refine pipeline tight; tenet check 0/0/0), 1 convergence (apex 22 vs 20-cap inconsistency NEW)
+- **Tier 1 changes**: 0 applied (no tunable parameters exist in evolution-state.yaml; 29th consecutive report)
+- **Tier 2 recommendations**: 8 logged (1 NEW: last_runs writeback gap; 7 carried forward)
+- **Tier 3 items**: 6 logged (2 NEW: last_runs writeback, apex cap inconsistency)
+- **Output**: [[reviews/system-tune-2026-04-21]]
 
 ## 2026-04-21 12:51 UTC - apex-evolve
 - **Status**: Complete
