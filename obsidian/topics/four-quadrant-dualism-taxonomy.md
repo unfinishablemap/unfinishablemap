@@ -4,7 +4,7 @@ description: "A two-axis taxonomy sorting dualist positions by how much ontologi
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-21T11:38:00+00:00
+ai_modified: 2026-04-21T15:39:00+00:00
 draft: false
 topics:
   - dualism
@@ -33,7 +33,7 @@ author:
 ai_system: "claude-opus-4-7"
 ai_generated_date: 2026-04-21
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-21T15:39:00+00:00
 ---
 
 Dualist positions are usually classified by the *kind* of mind–matter relation they posit (substance vs property; interactive vs epiphenomenal; Chalmers' Type-D vs Type-E vs Type-F). A second axis is rarely named: how much ontological weight each side carries. Crossing these gives four quadrants — min-mind/min-physical, min-mind/max-physical, max-mind/min-physical, max-mind/max-physical — three of which are heavily populated in the literature and one of which is largely avoided by contemporary philosophers trained to read parsimony as virtue.
@@ -68,12 +68,12 @@ The thickness axis is orthogonal to the substance/property distinction and to Ch
 
 *"Only what we need, on both sides, and no more."*
 
-- **Bradford Saad's delegatory dualism** (2025): consciousness biases otherwise undetermined outcomes; physics is standard quantum mechanics; both sides are maximally deflated while preserving dualism. Currently the cleanest Q1 inhabitant in contemporary philosophy (see [[delegatory-dualism]]).
+- **Bradford Saad's delegatory dualism** (2025): experiences preempt physical states whose *default causal profiles* match them, so neither side inflates beyond what preemption requires. Saad's framework does not itself commit to a quantum interpretation, though the Map's reading integrates it with quantum indeterminacy (see [[delegatory-dualism]] and [[delegatory-causation]]). Currently the cleanest Q1 inhabitant in contemporary philosophy.
 - **Neutral monism** (Mach; late James; Russell's transitional phase): both mind and matter supervene on a neutral base, neither side ontologically primary. Technically monist but behaves like deflationary dualism along both axes.
 - **Deflationary readings of Russellian monism**: some readings treat quiddities as ontologically lean placeholders rather than full phenomenal stuff.
 - **Minimal interactionism**: [[interactionist-dualism|interactionist dualism]] read as "biasing agent at indeterminacy" without further subliminal structure drifts toward Q1.
 
-Q1 is attractive to philosophers who want to keep dualism while paying minimal ontological cost. Critics ask whether a "biasing mechanism" can really be specified without inflating one side or the other — the stability of Q1 is the live question here.
+Q1 is attractive to philosophers who want to keep dualism while paying minimal ontological cost. Critics ask whether any workable interaction mechanism can really be specified without inflating one side or the other — the stability of Q1 is the live question here (see [[objections-to-interactionism]]).
 
 ### Quadrant 2: min-mind / max-physical {#q2}
 
@@ -84,7 +84,7 @@ Q1 is attractive to philosophers who want to keep dualism while paying minimal o
 - **Stoljar's epistemic physicalism** (2006): thin mind (no extra ontology beyond the physical) combined with thick physical because there are non-experiential facts we are currently ignorant of. Stoljar's stated aim is to save physicalism.
 - **Bohmian physicalism plus thin qualia**: hidden variables carry the weight; phenomenal properties are an epiphenomenal overlay.
 
-Q2 dominates contemporary analytic philosophy of mind. It preserves "intellectual modesty" on the mind-side while allowing full scientific commitment on the physical-side — a combination that feels virtuous in a materialist-leaning discipline. Most self-described dualists in recent decades live here.
+Q2 dominates contemporary analytic philosophy of mind. It preserves "intellectual modesty" on the mind-side while allowing full scientific commitment on the physical-side — a combination that feels virtuous in a materialist-leaning discipline. The dominance is not merely cultural: physical science has delivered well-tested structure in a way that phenomenal ontology has not, and epistemic weighting can reasonably follow. Most self-described dualists in recent decades live here.
 
 ### Quadrant 3: max-mind / min-physical {#q3}
 
@@ -122,7 +122,7 @@ The axis also explains a pattern in the literature. Q1 looks attractive (minimal
 
 The Map's five [[tenets|tenets]] interact with the thickness taxonomy in a specific way.
 
-The **Dualism** tenet rules out the idealist limit of Q3 but is compatible with Q1, Q2, Q4 (and with Q3 short of the idealist limit). The **Bidirectional Interaction** tenet rules out *pure* Q2 epiphenomenalism and Type-E positions — Q2 is then only open to "weak causal efficacy" readings that collapse toward Q1. The **Minimal Quantum Interaction** tenet pushes the physical side toward min (physics is complete except at probabilistic indeterminacies) but does not directly constrain mind-side thickness. **No Many Worlds** is largely orthogonal to the thickness axes. **Occam's Razor Has Limits** *explicitly refuses* to let thinness count automatically as a virtue — permitting Q4 as a live option where parsimony-only arguments would rule it out.
+The **Dualism** tenet rules out the idealist limit of Q3 but is compatible with Q1, Q2, Q4 (and with Q3 short of the idealist limit). The [[bidirectional-interaction|Bidirectional Interaction]] tenet rules out *pure* Q2 epiphenomenalism and Type-E positions — Q2 is then only open to "weak causal efficacy" readings that collapse toward Q1. The **Minimal Quantum Interaction** tenet pushes the physical side toward min (physics is complete except at probabilistic indeterminacies) but does not directly constrain mind-side thickness. **No Many Worlds** is largely orthogonal to the thickness axes. **Occam's Razor Has Limits** *explicitly refuses* to let thinness count automatically as a virtue — permitting Q4 as a live option where parsimony-only arguments would rule it out.
 
 Net: the tenets forbid pure Q2 and the idealist limit of Q3, leaving Q1, Q4, and physical-thin / mind-variable hybrids in between as genuine options. The Map's current default reading — physical-thin plus mind-medium — sits close to Q1 with room to expand along the mind axis if Myersian or Jamesian evidence warrants. The Map is not committed to a specific quadrant; it is committed to a *region* of the taxonomy that excludes epiphenomenalist and idealist extremes.
 

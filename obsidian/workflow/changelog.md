@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 14:38:00+00:00
+ai_modified: 2026-04-21 15:39:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 15:39 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Word count**: 2178 → 2228 (+50, below soft threshold)
+- **Critical issues addressed**: 1 (source/Map conflation on Saad — rewrote Q1 bullet to describe Saad's actual preemption mechanism using "default causal profiles" rather than quantum-biasing framing)
+- **Medium issues addressed**: 3 (Q1 stability phrasing generalised beyond "biasing mechanism"; Q2 paragraph conceded methodological rationale before diagnosing parsimony bias; bidirectional interaction tenet linked)
+- **Enhancements made**: 3 new cross-links ([[delegatory-causation]], [[objections-to-interactionism]], [[bidirectional-interaction]])
+- **Output**: [[reviews/deep-review-2026-04-21-four-quadrant-dualism-taxonomy]]
 
 ## 2026-04-21 14:38 UTC - deep-review
 - **Status**: Success
