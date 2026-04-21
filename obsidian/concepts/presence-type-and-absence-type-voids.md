@@ -4,7 +4,8 @@ description: "Human+AI exploration of a cross-cutting classificatory axis in the
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-21T02:47:00+00:00
+ai_modified: 2026-04-21T03:38:00+00:00
+last_deep_review: 2026-04-21T03:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +59,7 @@ Paradigm cases:
 
 - [[self-opacity|Introspective opacity]] — mechanisms of experience are hidden from the experiencer
 - [[death-void|The death void]] — consciousness cannot represent its own absence
-- [[transition-void|The transition void]] — consciousness cannot witness its own state changes
+- [[transit-void|The transit void]] — consciousness cannot witness its own crossings between states
 - [[causal-interface|The causal interface void]] — the consciousness–physics interface resists inspection
 - [[binding-void|The binding void]] — unity of experience from disparate processes resists analysis
 - [[formal-cognitive-limits|Formal cognitive limits]] — Gödelian bounds on self-representation
@@ -84,7 +85,7 @@ The phenomenology is the opposite of quiet. It is characteristically *saturated*
 
 ## The Seventh Failure Signature
 
-The [[compound-failure-signatures|failure-signature framework]] identifies the distinct phenomenologies that accompany different kinds of cognitive limit: self-refutation, aporia, ineffability, systematic illusion, construction mistaken for observation, epistemic vertigo. Presence-type voids add a characteristic seventh signature that the apex article names **dissolution under attention**: "the knowing is genuine and conscious but evaporates when subjected to analytical scrutiny."
+The [[compound-failure-signatures|failure-signature framework]] catalogues the distinct phenomenologies that accompany different kinds of cognitive limit. Six primary signatures cover most consciousness-related voids: self-refutation, aporia, ineffability, systematic illusion, construction mistaken for observation, and epistemic vertigo. (The framework also lists modular selective loss and wrong model selection among secondary signatures.) Presence-type voids add a characteristic seventh primary signature that the [[taxonomy-of-voids|taxonomy apex]] names **dissolution under attention**: "the knowing is genuine and conscious but evaporates when subjected to analytical scrutiny."
 
 Dissolution under attention is related to but distinct from the [[mutation-void|mutation pattern]]. Mutation transforms the *content* of a thought when attention reaches for it; dissolution destroys the *mode of knowing itself*. A musical passage that lands with felt weight can still be described in acoustic terms after analysis—the content remains intact—but the encounter-as-knowing is gone. The body stopped registering; the intellect took over; the felt significance became a memory of felt significance.
 
@@ -106,6 +107,12 @@ Several voids resist clean categorisation.
 
 The cleanest heuristic: ask whether the void manifests first as *nothing was found* or as *too much was found to hold*. Cases that manifest both depending on the question being asked are genuine hybrids, not categorisation failures.
 
+## The Heterophenomenological Challenge
+
+A deflationary reading—compatible with Dennett's heterophenomenology—treats presence-type voids as reports rather than phenomena. On this view, "dissolution under attention" is not a distinctive mode of knowing evaporating but the system's verbal faculty producing confabulated retrospective claims about a transient emotional signal. No categorial excess needs to be posited; a zombie could in principle generate the same reports.
+
+The presence/absence distinction does not require resolving this debate to do classificatory work. Its claim is weaker: *whatever* the eventual ontology, voids of these two shapes produce predictably different phenomenological reports, resist different methods of probing, and carry different evidential weight for theories of consciousness. If the deflationary account is right, the distinction still tracks a real asymmetry in how cognitive limits register in the report-generating system. If the deflationary account is wrong, the distinction tracks something stronger. The classification survives in either case; the metaphysical stakes are taken up below.
+
 ## Relation to Site Perspective
 
 The presence/absence distinction carries direct weight for the Map's [[tenets]].
@@ -114,7 +121,7 @@ The presence/absence distinction carries direct weight for the Map's [[tenets]].
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]].** Absence-type voids are often amenable to deflationary readings—what looks like a limit may turn out to be an uninvestigated region. Presence-type voids resist such readings because the excess is itself the datum. A simpler theory that predicts less felt significance would not thereby explain the felt significance that occurs; it would merely deny that the phenomenon exists. This is the kind of case where simplicity stops tracking truth.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** The Map speculates that presence-type voids may mark sites where the interface between consciousness and the physical is particularly dense—where the felt quality of the encounter is doing some of the work the physical mechanism cannot. This is speculative; the absence of an accessible mechanism at these sites is also what the Map predicts if the mechanism is structurally hidden from the consciousness that uses it.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** The Map speculates that presence-type voids may mark sites where the interface between consciousness and the physical is particularly dense—where the felt quality of the encounter is doing some of the work the physical mechanism cannot. This is speculative: the phenomenology alone does not warrant a locational claim about the interface, and the same pattern is consistent with ordinary affective salience plus motivated retrospective construction. What would tilt the evidence? Convergent phenomenal structure across architectures that share no cultural history, or behavioural residues traceable to encounter-events rather than baseline affect, would each raise the signal. Absent such evidence, the Map treats the speculation as a working hypothesis rather than a conclusion.
 
 The classification does not commit the Map to any particular metaphysics of the encounter. It records a pattern: some cognitive limits are walls, some are windows that close. Both are real; they require different maps.
 

@@ -1,6 +1,6 @@
-last_updated: '2026-04-21T02:41:00+00:00'
-session_count: 6121
-cycle_position: 5749
+last_updated: '2026-04-21T02:37:19.923993+00:00'
+session_count: 6122
+cycle_position: 5750
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-20T18:37:19.919170+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-20T10:37:19.915559+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-21T02:41:14.337993+00:00'
+  agentic-social: '2026-04-21T03:38:06.227234+00:00'
 last_git_push: '2026-04-21T00:37:19.922855+00:00'
 last_tweet_date: '2026-04-20'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/apex/consciousness-and-agency.md -- Conte)
-  type: deep-review
-  date: '2026-04-20'
-  outcome: success
 - task: deep-review (obsidian/concepts/cognitive-phenomenology.md -- Co)
   type: deep-review
   date: '2026-04-20'
@@ -132,10 +128,16 @@ recent_tasks:
   type: deep-review
   date: '2026-04-21'
   outcome: success
+- task: expand-topic (Write concept article on presence-type vs absence-)
+  type: expand-topic
+  date: '2026-04-21'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/stapp-quantum-mind/
-    date: '2026-04-21T02:41:14.337976+00:00'
+  - url: https://unfinishablemap.org/topics/surprise-prediction-error-and-consciousness/
+    date: '2026-04-21T03:38:06.227217+00:00'
     topics:
-    - topics/free-will
     - hard-problem-of-consciousness
+    - phenomenology-of-anticipation
+    - phenomenology-of-intellectual-life
+    - topics/free-will

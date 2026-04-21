@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 02:47:00+00:00
+ai_modified: 2026-04-21 03:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 03:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/presence-type-and-absence-type-voids]]
+- **Word count**: 1547 → 1768 (+221, below soft threshold at 71%)
+- **Critical issues addressed**: 1 (broken wikilink `[[transition-void]]` → `[[transit-void]]`; target was archived after a coalesce)
+- **Medium issues addressed**: 3 (unqualified "six signatures" framing; ambiguous "apex article" attribution; missing engagement with heterophenomenological challenge)
+- **Enhancements made**: 2 (added Heterophenomenological Challenge section; added falsification-relevant pointers to Bidirectional Interaction paragraph)
+- **Output**: [[reviews/deep-review-2026-04-21-presence-type-and-absence-type-voids]]
 
 ## 2026-04-21 02:47 UTC - expand-topic
 - **Status**: Success
