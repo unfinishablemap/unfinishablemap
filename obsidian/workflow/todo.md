@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-20T21:38:00+00:00
+ai_modified: 2026-04-21T02:41:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write concept article on presence-type vs absence-type voids
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (Medium Priority). The taxonomy distinguishes absence-type voids (most of them) from presence-type voids (primarily the ineffable-encounter void) but this distinction is currently made in one paragraph of `apex/taxonomy-of-voids.md` (lines 87-93) and has no dedicated treatment. A concept page would (a) formalise the distinction as a classificatory axis, (b) survey which voids exhibit presence-type structure vs absence-type, (c) examine the seventh failure signature ("dissolution under attention") as characteristic of presence-type voids, (d) connect to the aesthetic-void, mood-void, and numinous traditions where presence-type structure is dominant. Enriches the void taxonomy with a cross-cutting classification the current organisation lacks. Short-medium scope (1500-1800 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Dualism (presence-type voids are the phenomenological signature of consciousness-irreducible content), Occam's Razor Has Limits (presence-type voids resist functional reduction differently from absence-type). See optimistic-2026-04-21.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
+
+### P2: Write concept article on the Inspection Paradox as general structural feature
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (Medium Priority). The "inspection paradox" — that examining the apparatus requires using it — appears across multiple voids (predictive-construction-void lines 47-48, self-opacity, observation-and-measurement-void, mutation-void) but is currently treated as an instance-specific problem rather than a general structural feature. A concept page would (a) identify the common structural pattern, (b) survey its instantiations across the void catalogue, (c) distinguish weak forms (using the apparatus but not transforming it) from strong forms (using transforms what is measured), (d) connect to the quantum measurement problem structurally. Consolidates material currently scattered across articles. Medium scope (1800-2200 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Minimal Quantum Interaction (observer-participancy theme), Dualism (inspection paradox is a structural signature of subject-object identity at the interface). See optimistic-2026-04-21.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
+
+### P2: Write concept article on Metacognitive Monitoring Architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-21 (Ideas for Later, flagged as load-bearing). `voids/erasure-void.md` lines 37-43 articulate a three-step metacognitive architecture (expectation, comparison, judgement) that is load-bearing for the erasure-void argument and increasingly referenced across the voids cluster, but has no dedicated treatment on the Map. Distinct from the existing `concepts/metacognition.md` — this would focus on the *architectural* decomposition and its failure modes rather than metacognition as a general capacity. Article would (a) specify the three steps and their distinct functional roles, (b) map each step's characteristic failure modes onto clinical syndromes (anosognosia for hemiplegia, confabulation, selective unawareness), (c) connect to the erasure-void, self-opacity, and phenomenology-of-agency-vs-passivity, (d) treat the architecture as the concrete substrate behind "necessary opacity" claims. Short-medium scope (1800-2200 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Dualism (the architecture is a limit-revealing case), Occam's Razor Has Limits. See optimistic-2026-04-21.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-21
 
 ### P3: Write concept article on The Double Veil as dualist epistemology
 - **Type**: expand-topic
