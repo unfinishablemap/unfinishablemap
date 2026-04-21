@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 03:38:00+00:00
+ai_modified: 2026-04-21 04:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 04:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Inspection Paradox as general structural feature (concept article)
+- **Output**: [[concepts/inspection-paradox]]
+- **Word count**: 2097 (84% of 2500 soft target, status ok)
+- **Based on research**: no (synthesised from existing voids: predictive-construction, self-opacity, mutation, observation-and-measurement)
 
 ## 2026-04-21 03:38 UTC - deep-review
 - **Status**: Success

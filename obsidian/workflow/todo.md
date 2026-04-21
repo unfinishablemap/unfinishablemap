@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write concept article on the Inspection Paradox as general structural feature
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-21 (Medium Priority). The "inspection paradox" — that examining the apparatus requires using it — appears across multiple voids (predictive-construction-void lines 47-48, self-opacity, observation-and-measurement-void, mutation-void) but is currently treated as an instance-specific problem rather than a general structural feature. A concept page would (a) identify the common structural pattern, (b) survey its instantiations across the void catalogue, (c) distinguish weak forms (using the apparatus but not transforming it) from strong forms (using transforms what is measured), (d) connect to the quantum measurement problem structurally. Consolidates material currently scattered across articles. Medium scope (1800-2200 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Minimal Quantum Interaction (observer-participancy theme), Dualism (inspection paradox is a structural signature of subject-object identity at the interface). See optimistic-2026-04-21.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-21
-
 ### P2: Write concept article on Metacognitive Monitoring Architecture
 - **Type**: expand-topic
 - **Status**: pending
@@ -2462,6 +2455,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Write concept article on the Inspection Paradox as general structural feature
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-21 (Medium Priority). The "inspection paradox" — that examining the apparatus requires using it — appears across multiple voids (predictive-construction-void lines 47-48, self-opacity, observation-and-measurement-void, mutation-void) but is currently treated as an instance-specific problem rather than a general structural feature. A concept page would (a) identify the common structural pattern, (b) survey its instantiations across the void catalogue, (c) distinguish weak forms (using the apparatus but not transforming it) from strong forms (using transforms what is measured), (d) connect to the quantum measurement problem structurally. Consolidates material currently scattered across articles. Medium scope (1800-2200 words). Target section: concepts/ (227/250 — has capacity). Tenet alignment: Minimal Quantum Interaction (observer-participancy theme), Dualism (inspection paradox is a structural signature of subject-object identity at the interface). See optimistic-2026-04-21.md.
+- **Output**: Write concept article on the Inspection Paradox as general structural feature
 
 ### ✓ 2026-04-21: Write concept article on presence-type vs absence-type voids
 - **Type**: expand-topic
