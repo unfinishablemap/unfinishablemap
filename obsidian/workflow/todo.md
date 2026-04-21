@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review observation-and-measurement-void.md considering inspection-paradox insights
-- **Type**: cross-review
-- **Notes**: New article concepts/inspection-paradox.md (created 2026-04-21) names observation-and-measurement-void among its related_articles and argues that the quantum measurement problem is the strong form of the inspection paradox — one where use of the apparatus transforms what is measured. observation-and-measurement-void.md does not yet link to inspection-paradox. Cross-review should (a) add inbound links where the measurement problem is developed, (b) check whether observation-and-measurement-void can now lean on inspection-paradox as the concept-level anchor rather than re-deriving the structural argument, (c) verify that terminology aligns (inspection-paradox uses "weak/strong forms," "use transforms what is measured"; observation-and-measurement-void should not conflict), (d) consider whether the strong-form claim (measurement transforms the measured) is correctly attributed to this void in inspection-paradox and whether the connection could be sharpened without overclaiming about quantum interpretations. See concepts/inspection-paradox.md.
-- **Source**: chain (from inspection-paradox.md)
-- **Generated**: 2026-04-21
-
 ### P2: Cross-review taxonomy-of-voids.md considering presence-type vs absence-type distinction
 - **Type**: cross-review
 - **Notes**: New article concepts/presence-type-and-absence-type-voids.md (created 2026-04-21) formalises a cross-cutting classificatory axis mentioned in apex/taxonomy-of-voids.md (lines 87-93) but never developed there. The new article lists [[taxonomy-of-voids]] among its related_articles; the apex does not yet cite the new concept page. Cross-review should (a) add a link from taxonomy-of-voids to presence-type-and-absence-type-voids where the presence/absence distinction is first introduced, promoting the one-paragraph treatment to a named axis with a concept-page anchor, (b) check whether the "seventh failure signature" (dissolution under attention) discussion in the apex can now lean on the concept page rather than re-stating the argument, (c) verify that the apex's presence-type examples (ineffable-encounter-void) and absence-type examples are consistent with the concept page's catalogue, (d) consider whether the concept page's claim that presence-type voids resist functional reduction differently from absence-type voids can sharpen the apex's treatment of Occam's Razor Has Limits. See concepts/presence-type-and-absence-type-voids.md.
@@ -2466,6 +2460,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Cross-review observation-and-measurement-void.md considering inspection-paradox insights
+- **Type**: cross-review
+- **Notes**: New article concepts/inspection-paradox.md (created 2026-04-21) names observation-and-measurement-void among its related_articles and argues that the quantum measurement problem is the strong form of the inspection paradox — one where use of the apparatus transforms what is measured. observation-and-measurement-void.md does not yet link to inspection-paradox. Cross-review should (a) add inbound links where the measurement problem is developed, (b) check whether observation-and-measurement-void can now lean on inspection-paradox as the concept-level anchor rather than re-deriving the structural argument, (c) verify that terminology aligns (inspection-paradox uses "weak/strong forms," "use transforms what is measured"; observation-and-measurement-void should not conflict), (d) consider whether the strong-form claim (measurement transforms the measured) is correctly attributed to this void in inspection-paradox and whether the connection could be sharpened without overclaiming about quantum interpretations. See concepts/inspection-paradox.md.
+- **Output**: obsidian/voids/observation-and-measurement-void.md -- Context: Cross-review observation-and-measurement-void.md considering inspection-paradox insights
 
 ### ✓ 2026-04-21: Consider apex article on dualist min/max taxonomy as meta-framework
 - **Type**: apex-evolve

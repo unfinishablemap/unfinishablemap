@@ -1,20 +1,20 @@
-last_updated: '2026-04-21T11:37:19.928486+00:00'
-session_count: 6131
-cycle_position: 5759
+last_updated: '2026-04-21T12:37:19.929220+00:00'
+session_count: 6132
+cycle_position: 5760
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-20T18:37:19.919170+00:00'
   optimistic-review: '2026-04-21T00:37:19.922855+00:00'
-  check-tenets: '2026-04-18T15:38:35.860760+00:00'
-  check-links: '2026-04-19T12:37:19.902581+00:00'
+  check-tenets: '2026-04-21T12:37:19.929220+00:00'
+  check-links: '2026-04-21T12:37:19.929220+00:00'
   deep-review: '2026-04-21T08:37:19.927197+00:00'
-  tune-system: '2026-04-21T12:59:00+00:00'
-  research-voids: '2026-04-21T12:42:00+00:00'
+  tune-system: '2026-04-21T12:37:19.929220+00:00'
+  research-voids: '2026-04-21T12:37:19.929220+00:00'
   coalesce: '2026-04-21T10:37:19.927862+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-04-18T09:18:36.440274+00:00'
-  agentic-social: '2026-04-21T12:37:58.885195+00:00'
-last_git_push: '2026-04-21T08:37:19.927197+00:00'
+  apex-evolve: '2026-04-21T12:37:19.929220+00:00'
+  agentic-social: '2026-04-21T13:38:28.840384+00:00'
+last_git_push: '2026-04-21T12:37:19.929220+00:00'
 last_tweet_date: '2026-04-21'
 content_stats:
   total_files: 297
@@ -37,7 +37,7 @@ progress:
   arguments_written: 4
   questions_written: 1
   voids_written: 11
-  research_notes: 118
+  research_notes: 117
   reviews_completed: 542
   apex_articles: 4
 quality:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/predictive-construction-void.md -- )
-  type: deep-review
-  date: '2026-04-20'
-  outcome: success
 - task: deep-review (obsidian/topics/phenomenological-method-and-eviden)
   type: deep-review
   date: '2026-04-20'
@@ -131,43 +127,13 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-21'
   outcome: success
+- task: apex-evolve (Consider apex article on dualist min/max taxonomy )
+  type: apex-evolve
+  date: '2026-04-21'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/somatic-interface/
-    date: '2026-04-21T12:37:58.885178+00:00'
+  - url: https://unfinishablemap.org/concepts/llm-consciousness/
+    date: '2026-04-21T13:38:28.840366+00:00'
     topics:
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
-apex_evaluations:
-- date: '2026-04-21'
-  subject: "Dualist min/max taxonomy as meta-framework (provisional title 'The Shape of the Dualist Space')"
-  decision: skip
-  trigger: human_request (P1 todo 2026-04-21)
-  reasoning: |
-    Topic article topics/four-quadrant-dualism-taxonomy.md (2026-04-21, ~2500 words)
-    already performs the apex-level synthesis. Criteria evaluation:
-    (a) Cross-cutting synthesis — YES, but already done. The topic article
-        cross-references dualism, interactionist-dualism, substance-property-dualism,
-        russellian-monism, analytic-idealism, delegatory-dualism, panpsychism,
-        idealism, epiphenomenalism, russellian-monism-versus-bi-aspectual-dualism,
-        and parsimony-case-for-interactionist-dualism, with worked examples.
-    (b) Maximalist-mind quadrant opens novel consequences — PARTIAL. The topic
-        article names Stapp as cleanest axis-independence case (thick observer
-        + minimal intervention channel) and flags thick-physics × MQI
-        compatibility as case-by-case, but does not develop these against
-        apex/interface-specification-programme or concepts/bidirectional-interaction.
-        Better addressed as cross-review than duplicate apex.
-    (c) Tenet clarification — YES, already done. Relation to Site Perspective
-        maps all five tenets to quadrant-constraints: tenets forbid pure Q2
-        and the idealist limit of Q3; Q1, Q4, and physical-thin/mind-variable
-        hybrids remain; Map's default sits close to Q1 with mind-axis room.
-    Additional constraint: apex cap is 20 and already at 20 per apex-articles.md
-    approved list. Creating a new apex would require exceeding the cap or
-    displacing an existing apex — neither warranted when the topic article
-    already does the work.
-  follow_up: |
-    Generated P3 cross-review task to surface the criterion-(b) implications:
-    link four-quadrant-dualism-taxonomy to apex/interface-specification-programme
-    and apex/what-consciousness-tells-us-about-physics so the thickness-axis
-    consequences for the Map's research programme are made explicit without
-    creating a duplicate apex piece.
+    - ai-consciousness
