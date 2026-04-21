@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 12:38:00+00:00
+ai_modified: 2026-04-21 12:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 12:42 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Source-Attribution Void — structural inability of consciousness to determine the origin of its own contents (self-generated vs implanted, primed, learned, or confabulated)
+- **Category**: Occluded (with constitutive Unexplorable structure — source tags are not encoded with content)
+- **Output**: [[research/voids-source-attribution-void-2026-04-21]]
+- **Key finding**: Source monitoring framework, choice blindness (~75% non-detection), cryptomnesia, source amnesia, and Wegner's apparent mental causation converge on a zero-signal void — the absence of phenomenal contrast between real and confabulated source attribution; distinct from self-opacity (mechanism-blindness) and spontaneous-thought-void (unbidden generation)
 
 ## 2026-04-21 12:38 UTC - apex-evolve
 - **Status**: Complete (decision: skip)
