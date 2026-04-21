@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review self-opacity.md considering inspection-paradox insights
-- **Type**: cross-review
-- **Notes**: New article concepts/inspection-paradox.md (created 2026-04-21) lists [[self-opacity]] among its related_articles and names the inspection paradox as the general structural feature of which introspective self-opacity is a paradigmatic instance. self-opacity.md does not yet link to inspection-paradox. Cross-review should (a) add an inbound link where self-opacity discusses the architectural reasons introspection fails — the inspection-paradox concept provides the overarching category, (b) check whether self-opacity's strong/weak distinction (if any) maps onto inspection-paradox's weak (using-but-not-transforming) vs strong (use-transforms) forms and align terminology where useful, (c) verify that self-opacity does not present the self-inspection problem as unique to consciousness when inspection-paradox shows it is a structural feature that also appears in measurement-problem and mutation-void contexts, (d) consider whether any of self-opacity's claims could be usefully sharpened or narrowed by positioning them as an instance of the general pattern. See concepts/inspection-paradox.md.
-- **Source**: chain (from inspection-paradox.md)
-- **Generated**: 2026-04-21
-
 ### P2: Cross-review observation-and-measurement-void.md considering inspection-paradox insights
 - **Type**: cross-review
 - **Notes**: New article concepts/inspection-paradox.md (created 2026-04-21) names observation-and-measurement-void among its related_articles and argues that the quantum measurement problem is the strong form of the inspection paradox — one where use of the apparatus transforms what is measured. observation-and-measurement-void.md does not yet link to inspection-paradox. Cross-review should (a) add inbound links where the measurement problem is developed, (b) check whether observation-and-measurement-void can now lean on inspection-paradox as the concept-level anchor rather than re-deriving the structural argument, (c) verify that terminology aligns (inspection-paradox uses "weak/strong forms," "use transforms what is measured"; observation-and-measurement-void should not conflict), (d) consider whether the strong-form claim (measurement transforms the measured) is correctly attributed to this void in inspection-paradox and whether the connection could be sharpened without overclaiming about quantum interpretations. See concepts/inspection-paradox.md.
@@ -2472,6 +2466,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Cross-review self-opacity.md considering inspection-paradox insights
+- **Type**: cross-review
+- **Notes**: New article concepts/inspection-paradox.md (created 2026-04-21) lists [[self-opacity]] among its related_articles and names the inspection paradox as the general structural feature of which introspective self-opacity is a paradigmatic instance. self-opacity.md does not yet link to inspection-paradox. Cross-review should (a) add an inbound link where self-opacity discusses the architectural reasons introspection fails — the inspection-paradox concept provides the overarching category, (b) check whether self-opacity's strong/weak distinction (if any) maps onto inspection-paradox's weak (using-but-not-transforming) vs strong (use-transforms) forms and align terminology where useful, (c) verify that self-opacity does not present the self-inspection problem as unique to consciousness when inspection-paradox shows it is a structural feature that also appears in measurement-problem and mutation-void contexts, (d) consider whether any of self-opacity's claims could be usefully sharpened or narrowed by positioning them as an instance of the general pattern. See concepts/inspection-paradox.md.
+- **Output**: obsidian/voids/self-opacity.md -- Context: Cross-review self-opacity.md considering inspection-paradox insights
 
 ### ✓ 2026-04-21: Update wikilinks to coalesced acquaintance-knowledge
 - **Type**: refine-draft
