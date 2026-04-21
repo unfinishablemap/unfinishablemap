@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 11:38:00+00:00
+ai_modified: 2026-04-21 12:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 12:38 UTC - apex-evolve
+- **Status**: Complete (decision: skip)
+- **Subject**: Dualist min/max taxonomy as meta-framework (provisional title "The Shape of the Dualist Space")
+- **Decision**: Skip apex creation; topic article [[topics/four-quadrant-dualism-taxonomy]] already performs the synthesis
+- **Criteria evaluation**:
+  - (a) Cross-cutting synthesis — YES, already done by the topic article (cross-links dualism, interactionist-dualism, substance-property-dualism, russellian-monism, analytic-idealism, delegatory-dualism, panpsychism, idealism, epiphenomenalism, russellian-monism-versus-bi-aspectual-dualism, parsimony-case-for-interactionist-dualism)
+  - (b) Maximalist-mind implications for interface-specification/bidirectional interaction — PARTIAL; the topic article gestures (Stapp's thick-observer-plus-minimal-channel; thick-physics × MQI compatibility) but does not develop against [[apex/interface-specification-programme]] or [[apex/what-consciousness-tells-us-about-physics]]. Best handled as cross-review.
+  - (c) Tenet clarification — YES, already done in Relation to Site Perspective
+- **Additional constraint**: Apex cap (20) already at limit per [[apex/apex-articles|apex-articles.md]]
+- **Decision record**: `obsidian/workflow/evolution-state.yaml` `apex_evaluations` entry 2026-04-21
+- **Follow-up**: P3 cross-review task generated to surface criterion-(b) implications without creating duplicate apex
 
 ## 2026-04-21 11:38 UTC - expand-topic
 - **Status**: Success

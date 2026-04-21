@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Consider apex article on dualist min/max taxonomy as meta-framework
-- **Type**: apex-evolve
-- **Status**: pending
-- **Notes**: Human-requested consideration (2026-04-21). After the research task and the four-quadrant topic article are complete, evaluate whether an apex article is warranted. Criteria: (a) does the taxonomy cut across enough existing Map articles (dualism, interactionist-dualism, substance-property-dualism, russellian-monism, analytic-idealism, delegatory-dualism, panpsychism, minimal-consciousness) to function as a genuine synthesis rather than a restatement? (b) does the maximalist-mind quadrant open novel testable consequences for the interface-specification programme or bidirectional interaction? (c) does the taxonomy help clarify the Map's tenets by showing which quadrants they rule out vs permit? If yes to most, draft apex article "The Shape of the Dualist Space" (or similar) covering the two-axis taxonomy, the tenets' constraints on it, the under-explored maximalist-mind options, and implications for the Map's programme. If the topic article already does this work, skip apex creation and note the decision in evolution-state.yaml. See /apex-evolve skill.
-- **Source**: human_request (chain)
-- **Generated**: 2026-04-21
-
 ### P2: Cross-review observation-and-measurement-void.md considering inspection-paradox insights
 - **Type**: cross-review
 - **Notes**: New article concepts/inspection-paradox.md (created 2026-04-21) names observation-and-measurement-void among its related_articles and argues that the quantum measurement problem is the strong form of the inspection paradox — one where use of the apparatus transforms what is measured. observation-and-measurement-void.md does not yet link to inspection-paradox. Cross-review should (a) add inbound links where the measurement problem is developed, (b) check whether observation-and-measurement-void can now lean on inspection-paradox as the concept-level anchor rather than re-deriving the structural argument, (c) verify that terminology aligns (inspection-paradox uses "weak/strong forms," "use transforms what is measured"; observation-and-measurement-void should not conflict), (d) consider whether the strong-form claim (measurement transforms the measured) is correctly attributed to this void in inspection-paradox and whether the connection could be sharpened without overclaiming about quantum interpretations. See concepts/inspection-paradox.md.
@@ -2473,6 +2466,20 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Consider apex article on dualist min/max taxonomy as meta-framework
+- **Type**: apex-evolve
+- **Notes**: Human-requested consideration (2026-04-21). After the research task and the four-quadrant topic article are complete, evaluate whether an apex article is warranted. Criteria: (a) does the taxonomy cut across enough existing Map articles (dualism, interactionist-dualism, substance-property-dualism, russellian-monism, analytic-idealism, delegatory-dualism, panpsychism, minimal-consciousness) to function as a genuine synthesis rather than a restatement? (b) does the maximalist-mind quadrant open novel testable consequences for the interface-specification programme or bidirectional interaction? (c) does the taxonomy help clarify the Map's tenets by showing which quadrants they rule out vs permit? If yes to most, draft apex article "The Shape of the Dualist Space" (or similar) covering the two-axis taxonomy, the tenets' constraints on it, the under-explored maximalist-mind options, and implications for the Map's programme. If the topic article already does this work, skip apex creation and note the decision in evolution-state.yaml. See /apex-evolve skill.
+- **Output**: Consider apex article on dualist min/max taxonomy as meta-framework
+
+Task context:
+Human-requested consideration (2026-04-21). After the research task and the four-quadrant topic article are complete, evaluate whether an apex article is warranted. Criteria: (a) does the taxonomy cut across enough existing Map articles (dualism, interactionist-dualism, substance-property-dualism, russellian-monism, analytic-idealism, delegatory-dualism, panpsychism, minimal-consciousness) to function as a genuine synthesis rather than a restatement? (b) does the maximalist-mind quadrant open novel testable consequences for the interface-specification programme or bidirectional interaction? (c) does the taxonomy help clarify the Map's tenets by showing which quadrants they rule out vs permit? If yes to most, draft apex article "The Shape of the Dualist Space" (or similar) covering the two-axis taxonomy, the tenets' constraints on it, the under-explored maximalist-mind options, and implications for the Map's programme. If the topic article already does this work, skip apex creation and note the decision in evolution-state.yaml. See /apex-evolve skill.
+
+### ✓ 2026-04-21: Consider apex article on dualist min/max taxonomy as meta-framework
+- **Type**: apex-evolve
+- **Decision**: skip (see evolution-state.yaml `apex_evaluations` 2026-04-21)
+- **Notes**: Topic article topics/four-quadrant-dualism-taxonomy.md already performs the synthesis (criteria a and c fully satisfied; criterion b partial). Apex cap (20) also binding. Generated follow-up P3 cross-review task to surface the criterion-(b) implications for apex/interface-specification-programme and apex/what-consciousness-tells-us-about-physics without creating a duplicate apex.
+- **Output**: evolution-state.yaml decision record; P3 cross-review follow-up task
 
 ### ✓ 2026-04-21: Write article on the four-quadrant taxonomy of dualist positions (min/max mind × min/max physical)
 - **Type**: expand-topic
