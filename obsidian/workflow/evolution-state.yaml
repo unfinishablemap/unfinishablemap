@@ -1,19 +1,19 @@
-last_updated: '2026-04-21T14:37:19.930499+00:00'
-session_count: 6134
-cycle_position: 5762
+last_updated: '2026-04-21T15:37:19.930855+00:00'
+session_count: 6135
+cycle_position: 5763
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-20T18:37:19.919170+00:00'
   optimistic-review: '2026-04-21T00:37:19.922855+00:00'
   check-tenets: '2026-04-21T12:37:19.929220+00:00'
   check-links: '2026-04-21T12:37:19.929220+00:00'
-  deep-review: '2026-04-21T08:37:19.927197+00:00'
+  deep-review: '2026-04-21T15:37:19.930855+00:00'
   tune-system: '2026-04-21T12:37:19.929220+00:00'
   research-voids: '2026-04-21T12:37:19.929220+00:00'
   coalesce: '2026-04-21T10:37:19.927862+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-21T15:39:39.735663+00:00'
+  agentic-social: '2026-04-21T16:38:13.695573+00:00'
 last_git_push: '2026-04-21T12:37:19.929220+00:00'
 last_tweet_date: '2026-04-21'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/phenomenological-method-and-eviden)
-  type: refine-draft
-  date: '2026-04-20'
-  outcome: success
 - task: 'refine-draft (Task context:
 
     The 2026-04-20 coalesce (commit 2c87)'
@@ -131,10 +127,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-21'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-21'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/dopamine-and-the-unified-interface/
-    date: '2026-04-21T15:39:39.735646+00:00'
+  - url: https://unfinishablemap.org/topics/motor-control-quantum-zeno/
+    date: '2026-04-21T16:38:13.695555+00:00'
     topics:
     - topics/free-will
     - hard-problem-of-consciousness

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review ineffable-encounter-void.md considering presence-type vs absence-type distinction
-- **Type**: cross-review
-- **Notes**: New article concepts/presence-type-and-absence-type-voids.md (created 2026-04-21) treats the ineffable-encounter void as the paradigmatic presence-type case — a void defined by an excess that overwhelms the apparatus designed to handle it rather than by what consciousness lacks. ineffable-encounter-void.md does not yet link to the new concept page. Cross-review should (a) add an inbound link where the void's structural character is developed, (b) check whether ineffable-encounter-void's treatment can now cite presence-type-and-absence-type-voids as the classificatory anchor and position itself as the canonical presence-type instance, (c) verify that the presence-type framing (overwhelm-of-apparatus rather than lack-of-content) is consistent with how ineffable-encounter-void currently describes itself, (d) consider whether other voids listed as presence-type in the concept page (aesthetic-void, affective-void, the-surplus-void) warrant mention here as kin rather than just related articles. See concepts/presence-type-and-absence-type-voids.md.
-- **Source**: chain (from presence-type-and-absence-type-voids.md)
-- **Generated**: 2026-04-21
-
 ### P3: Write concept article on The Double Veil as dualist epistemology
 - **Type**: expand-topic
 - **Status**: pending
@@ -2454,6 +2448,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-21: Cross-review ineffable-encounter-void.md considering presence-type vs absence-type distinction
+- **Type**: cross-review
+- **Notes**: New article concepts/presence-type-and-absence-type-voids.md (created 2026-04-21) treats the ineffable-encounter void as the paradigmatic presence-type case — a void defined by an excess that overwhelms the apparatus designed to handle it rather than by what consciousness lacks. ineffable-encounter-void.md does not yet link to the new concept page. Cross-review should (a) add an inbound link where the void's structural character is developed, (b) check whether ineffable-encounter-void's treatment can now cite presence-type-and-absence-type-voids as the classificatory anchor and position itself as the canonical presence-type instance, (c) verify that the presence-type framing (overwhelm-of-apparatus rather than lack-of-content) is consistent with how ineffable-encounter-void currently describes itself, (d) consider whether other voids listed as presence-type in the concept page (aesthetic-void, affective-void, the-surplus-void) warrant mention here as kin rather than just related articles. See concepts/presence-type-and-absence-type-voids.md.
+- **Output**: obsidian/voids/ineffable-encounter-void.md -- Context: Cross-review ineffable-encounter-void.md considering presence-type vs absence-type distinction
 
 ### ✓ 2026-04-21: Cross-review taxonomy-of-voids.md considering presence-type vs absence-type distinction
 - **Type**: cross-review

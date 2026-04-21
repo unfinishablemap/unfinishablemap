@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 15:39:00+00:00
+ai_modified: 2026-04-21 16:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-21 16:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/ineffable-encounter-void]]
+- **Context**: Cross-review following publication of [[concepts/presence-type-and-absence-type-voids]] (2026-04-21) — this article is named there as the paradigm presence-type void
+- **Word count**: 2328 → 2334 (+6, length-neutral; soft_warning at 117% of 2000 threshold)
+- **Critical issues addressed**: 0 (attribution checks pass; no source/Map conflation; no dropped qualifiers)
+- **Medium issues addressed**: 3 (missing cross-link to new presence-type concept article; redundant presence/absence framing in conclusion; missing formalized "dissolution under attention" / "having-had-and-lost" terminology)
+- **Enhancements made**: 2 new cross-links ([[presence-type-and-absence-type-voids]] × 4 sites, [[compound-failure-signatures]] × 3 sites); conclusion compressed to pointer-form rather than re-stating presence/absence contrast
+- **Output**: [[reviews/deep-review-2026-04-21-ineffable-encounter-void]]
 
 ## 2026-04-21 15:39 UTC - deep-review
 - **Status**: Success
