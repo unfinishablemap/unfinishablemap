@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-22 04:38:00+00:00
+ai_modified: 2026-04-22 20:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -18,6 +18,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[observational-closure]]'
 - '[[consciousness-bandwidth-architecture]]'
+- '[[trumping-preemption]]'
 created: 2026-02-15
 date: &id001 2026-04-22
 description: 'Bradford Saad''s unified mechanism for mental causation: experiences
@@ -26,7 +27,7 @@ description: 'Bradford Saad''s unified mechanism for mental causation: experienc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-22 04:38:00+00:00
+last_deep_review: 2026-04-22 20:38:00+00:00
 modified: *id001
 related_articles:
 - '[[delegatory-dualism]]'
@@ -60,23 +61,11 @@ Delegatory causation escapes both horns by reclassifying the physical cause as *
 
 Preemption is a causal structure in which one sufficient cause renders another sufficient cause idle, so that only the first does the actual causal work. Unlike overdetermination—where two sufficient causes both contribute to the same effect—preemption involves one cause *operating* while the backup is *sidelined*.
 
-### Varieties of Preemption
+Philosophers distinguish three varieties by *how* the backup is sidelined. In **early preemption**, the backup is physically cut off before completing its process. In **late preemption**, the backup completes but arrives after the effect has already occurred. In **[trumping-preemption](/concepts/trumping-preemption/)**—Jonathan Schaffer's (2000) fourth species—both processes run to completion, yet a higher-order rule selects one as authoritative. Schaffer's military variant: a major and a sergeant simultaneously shout "Advance!"; the troops advance because of the major's command, since rank settles authority when orders coincide. The backup is not prevented or beaten temporally; it is simply not the authoritative cause.
 
-Philosophers distinguish three varieties, each with distinct features:
+Trumping is the variety delegatory causation invokes. Its distinctive contribution is that it separates two questions standard accounts fuse: whether a process could have produced the effect on its own (sufficiency), and whether it is *the* cause (authority). That separation is the conceptual move Saad's mechanism exploits. The [trumping-preemption](/concepts/trumping-preemption/) article treats the broader philosophical debate—Lewis's influence response, Bernstein's reductive critique, Hitchcock's contrastive framework—which the Map does not need to settle here.
 
-**Early preemption** occurs when the preempting cause prevents the backup from completing its causal process. If assassin A shoots and kills the target, while assassin B *would have* shot but sees A succeed and stands down, A's shot preempts B's. The backup process is cut short before it can produce the effect.
-
-**Late preemption** occurs when both causal processes complete, but one produces the effect fractionally before the other arrives. Both assassins fire simultaneously, but A's bullet strikes first and kills the target before B's bullet arrives. The backup completes its course but is rendered causally idle because the effect has already occurred.
-
-**Trumping preemption**, introduced by Jonathan Schaffer, is more radical. Both causes operate and both processes run to completion, yet one cause "trumps" the other by a principle of priority rather than temporal precedence. Schaffer's example: a major and a sergeant both order troops to advance. Both orders are heard. The troops advance because military hierarchy gives the major's order priority—the sergeant's order is trumped, not merely beaten temporally.
-
-Trumping preemption is philosophically significant because it cannot be handled by appeals to temporal priority or process-cutting. The backup cause is not prevented or beaten to the finish. It operates fully but is rendered causally idle by a structural principle of priority. This is the variety that delegatory causation invokes.
-
-### Why Preemption Beats Overdetermination
-
-The distinction matters because systematic overdetermination is widely regarded as theoretically problematic. If every effect has two independent sufficient causes, the backup appears redundant—present for no explanatory reason. Preemption avoids this: the backup has a role (it would have operated if needed) without being redundantly operative.
-
-Late preemption posed a particular challenge for David Lewis's counterfactual analysis of causation. On that theory, C causes E if E counterfactually depends on C—if C had not occurred, E would not have occurred. But in late preemption, E would still have occurred (via the backup) even without C. Lewis refined his theory repeatedly—introducing fragility of events, chains of counterfactual dependence, and influence—largely to handle preemption cases. Preemption is a real and distinctive causal structure, not a special case of any simpler relation.
+Trumping also sidesteps the standard charge against overdetermination, that the backup is redundant: the physical state retains a role it *would have exercised* had delegation not occurred, without ever being redundantly operative alongside the experience.
 
 ## The Default Causal Profile
 
@@ -114,7 +103,7 @@ Once an experience is instantiated via profile matching, it preempts the physica
 
 > "Whenever a subject instantiates an experiential property E and a physical property P such that E's causal profile is a subset of P's default causal profile, E's causal profile preempts the corresponding subset of P's default causal profile." (Saad 2025)
 
-The physical state retains the *capacity* to cause the effect but does not exercise it. The experience takes over. One cause operates; the other is sidelined—trumping preemption applied to the mind-body interface.
+The physical state retains the *capacity* to cause the effect but does not exercise it. The experience takes over. One cause operates; the other is sidelined—[trumping-preemption](/concepts/trumping-preemption/) applied to the mind-body interface.
 
 ## Why Delegation Rather Than Other Structures
 
@@ -201,6 +190,7 @@ The full development of Saad's theory, including his five constraints on dualist
 
 - [delegatory-dualism](/topics/delegatory-dualism/) — Saad's full theory including five constraints and Map integration
 - [delegation-meets-quantum-selection](/topics/delegation-meets-quantum-selection/) — The bridge between delegation and quantum selection
+- [trumping-preemption](/concepts/trumping-preemption/) — Schaffer's fourth species of redundant causation and the broader philosophical debate around it
 - [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [causal-closure](/concepts/causal-closure/) — The principle delegation selectively violates
 - [observational-closure](/concepts/observational-closure/) — Why delegation leaves no empirical trace

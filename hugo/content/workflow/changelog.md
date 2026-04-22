@@ -1,13 +1,50 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 16:38:00+00:00
+ai_modified: 2026-04-22 20:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-22 20:38 UTC - deep-review
+- **Status**: Success
+- **File**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Context**: Cross-review considering [trumping-preemption](/concepts/trumping-preemption/) research insights (concept created 2026-04-22)
+- **Word count**: 3464 → 3314 (−150 words; 99% → 95% of 3500 hard threshold)
+- **Critical issues addressed**: 0 (article stable; no new critical issues)
+- **Medium issues addressed**: 3 (redundant preemption exposition delegated to dedicated article; missing reciprocal cross-link to [trumping-preemption](/concepts/trumping-preemption/) added; sufficiency/authority framing imported to sharpen motivation)
+- **Enhancements made**: 3 (condensed §Preemption section; added [trumping-preemption](/concepts/trumping-preemption/) to frontmatter/body/Further Reading; aligned Schaffer example phrasing with dedicated article)
+- **Output**: [deep-review-2026-04-22-delegatory-causation-trumping](/reviews/deep-review-2026-04-22-delegatory-causation-trumping/)
+
+## 2026-04-22 19:38 UTC - deep-review
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Context**: Cross-review considering [trumping-preemption](/concepts/trumping-preemption/) insights (concept created 2026-04-22)
+- **Word count**: 2582 → 2584 (+2 words, 103% of 2500 soft target; length-neutral mode)
+- **Critical issues addressed**: 0 (eleventh review; article stable; second same-day cross-review)
+- **Medium issues addressed**: 2 (redundant delegatory-causation link retargeted to trumping-preemption; offsetting length-neutral trims applied)
+- **Enhancements made**: 3 (trumping genealogy named in Delegation response; Further Reading cross-link added; frontmatter concepts list updated)
+- **Output**: [deep-review-2026-04-22b-interactionist-dualism](/reviews/deep-review-2026-04-22b-interactionist-dualism/)
+
+## 2026-04-22 18:39 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [trumping-preemption](/concepts/trumping-preemption/) — newly created today, ~1700 words, no prior review
+- **Critical issues**: 0
+- **Medium issues**: 2 (fiction-to-nature gap unbridged; tonal break between hedged middle and confident closing)
+- **Low issues**: 2 (counterfactual-dependence phrasing loose; "observable closure is preserved" reported without hedge)
+- **Counterarguments flagged**: 3 (Bernstein reduction to lawful overdetermination; linguistic-vs-metaphysical reading of authority/sufficiency decoupling; Saad's laws as candidates not derivations)
+- **Task generated**: P2 refine-draft on concepts/trumping-preemption.md
+- **Output**: [pessimistic-2026-04-22](/reviews/pessimistic-2026-04-22/)
+
+## 2026-04-22 17:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Trumping Preemption as Mental-Causation Mechanism
+- **Output**: [trumping-preemption](/concepts/trumping-preemption/)
+- **Word count**: 1695 (68% of 2500 soft target; within concept range 1500-2000)
+- **Based on research**: yes ([trumping-preemption-mental-causation-2026-04-22](/research/trumping-preemption-mental-causation-2026-04-22/))
 
 ## 2026-04-22 16:38 UTC - deep-review
 - **Status**: Success
