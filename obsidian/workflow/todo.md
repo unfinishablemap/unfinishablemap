@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review panpsychism.md considering four-quadrant-dualism-taxonomy insights
-- **Type**: cross-review
-- **Notes**: New topic article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) is a two-axis taxonomy (mind-side × physical-side ontological thickness) that explicitly populates Q3 (max-mind / min-physical) and Q4 (max-mind / max-physical) with panpsychism and its relatives. Currently concepts/panpsychism.md has no link to the taxonomy, and the taxonomy is not yet cited where panpsychism's positional commitments are developed. Cross-review should (a) add the inbound/outbound links between panpsychism.md and four-quadrant-dualism-taxonomy.md, (b) check whether the Q3 vs Q4 distinction (purely mind-side thickening vs mind-side thickening combined with physical-side hidden intrinsic natures) can be clarified within panpsychism.md — constitutive panpsychism reads more Q3, Russellian panpsychism reads more Q4, (c) verify the combination-problem treatment is consistent with the taxonomy's characterisation of Q3/Q4 stability pressures, (d) check terminology alignment (the taxonomy uses "thickness," "inflation pressure," "quadrant stability"; panpsychism.md should cross-reference this vocabulary where helpful). Log findings even if no edits are made. See topics/four-quadrant-dualism-taxonomy.md.
-- **Source**: chain (from four-quadrant-dualism-taxonomy.md)
-- **Generated**: 2026-04-22
-
 ### P2: Cross-review russellian-monism.md considering four-quadrant-dualism-taxonomy insights
 - **Type**: cross-review
 - **Notes**: New topic article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) explicitly places Russellian monism in Q4 (max-mind / max-physical) — hidden intrinsic natures thickening the physical side while categorical consciousness thickens the mind side — and contrasts it with the Map's Q1-proximal stance. concepts/russellian-monism.md currently does not link to the taxonomy, and the separate topic concepts/russellian-monism-versus-bi-aspectual-dualism.md has not been updated to exploit the taxonomic vocabulary. Cross-review should (a) add outbound links from russellian-monism.md to four-quadrant-dualism-taxonomy.md and reciprocally check inbound, (b) locate Russellian monism in Q4 within russellian-monism.md's architecture-of-dualism discussion, (c) check whether the article's treatment of the combination problem now gains sharpness when framed as a Q4-inflation-pressure instance, (d) verify terminology alignment with the taxonomy's ontological-thickness vocabulary. Log findings even if no edits made. See topics/four-quadrant-dualism-taxonomy.md.
@@ -2531,6 +2525,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-22: Cross-review panpsychism.md considering four-quadrant-dualism-taxonomy insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) is a two-axis taxonomy (mind-side × physical-side ontological thickness) that explicitly populates Q3 (max-mind / min-physical) and Q4 (max-mind / max-physical) with panpsychism and its relatives. Currently concepts/panpsychism.md has no link to the taxonomy, and the taxonomy is not yet cited where panpsychism's positional commitments are developed. Cross-review should (a) add the inbound/outbound links between panpsychism.md and four-quadrant-dualism-taxonomy.md, (b) check whether the Q3 vs Q4 distinction (purely mind-side thickening vs mind-side thickening combined with physical-side hidden intrinsic natures) can be clarified within panpsychism.md — constitutive panpsychism reads more Q3, Russellian panpsychism reads more Q4, (c) verify the combination-problem treatment is consistent with the taxonomy's characterisation of Q3/Q4 stability pressures, (d) check terminology alignment (the taxonomy uses "thickness," "inflation pressure," "quadrant stability"; panpsychism.md should cross-reference this vocabulary where helpful). Log findings even if no edits are made. See topics/four-quadrant-dualism-taxonomy.md.
+- **Output**: obsidian/concepts/panpsychism.md -- Context: Cross-review panpsychism.md considering four-quadrant-dualism-taxonomy insights
 
 ### ✓ 2026-04-22: Cross-review apex/what-consciousness-tells-us-about-physics.md considering four-quadrant-dualism-taxonomy insights
 - **Type**: cross-review
