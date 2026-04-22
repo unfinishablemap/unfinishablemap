@@ -27,6 +27,7 @@ concepts:
   - "[[contemplative-epistemology]]"
   - "[[self-stultification]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
+  - "[[source-attribution-void]]"
 related_articles:
   - "[[tenets]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
@@ -35,12 +36,13 @@ related_articles:
   - "[[recognition-void]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[microphenomenological-interview-method]]"
+  - "[[source-attribution-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-04-20T04:38:00+00:00
+last_deep_review: 2026-04-22T13:38:00+00:00
 ---
 
 Introspection is our primary [[epistemology|epistemic]] access to conscious experience, yet its reliability is widely contested. Critics argue that we routinely confabulate explanations for decisions we never made and remain blind to the causal processes shaping our thoughts. Defenders respond that these critiques target the wrong domain: we may lack access to cognitive *processes*, but phenomenal *content*—what it is like to see red or feel pain—remains accessible. Meditation experience predicts greater introspective accuracy, and rigorous methods can minimize confabulation. The debate matters because any account of consciousness that takes first-person data seriously must address whether those data can be trusted.
@@ -49,7 +51,7 @@ Introspection is our primary [[epistemology|epistemic]] access to conscious expe
 
 Nisbett and Wilson's 1977 study "Telling More Than We Can Know" demonstrated that people are often unaware of stimuli influencing their responses. Position effects, priming, and context effects remain invisible to subjects, who nonetheless confidently explain choices using theories unrelated to actual causes.
 
-Choice blindness experiments extended this dramatically. When researchers covertly switched participants' chosen photos, 75% remained blind to the mismatch—and confabulated detailed justifications for choices they never made.
+Choice blindness experiments extended this dramatically. When researchers covertly switched participants' chosen photos, roughly three-quarters of manipulated trials went undetected—and subjects confabulated detailed justifications for choices they never made. The [[source-attribution-void]] traces these failures to an architectural limit: mental content lacks native origin tags, so source must be inferred from surface features—vividness, fluency, narrative fit—that correlate weakly with actual origin and collapse under predictable conditions.
 
 Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience inner speech, or the character of peripheral vision. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [[voids-between-minds]] compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
 
@@ -137,7 +139,7 @@ This differs from the process/content distinction. That distinction says we cann
 
 David Hume put it empirically: "I can never catch myself at any time without a perception." When we look for the looker, we find only more looking. [[witness-consciousness|Witness consciousness]] traditions recognise this: the instruction to "look at the looker" exhausts the search rather than finding something.
 
-The [[self-opacity|self-reference paradox]] distinguishes three types of limit converging here: *structural* limits analogous to Gödel's incompleteness (some truths about the system are permanently beyond its own reach), *transparency* limits where the self-model must hide its own machinery to function, and *recursive* limits where nested self-observation collapses. All three constrain introspection — a form of [[self-stultification]] where the system's capacity for self-knowledge is undermined by the very activity of self-knowing. The implications: understanding subjectivity requires making it into an object; meditators report the limit more clearly rather than overcome it; and the calibrator *is* the thing to be calibrated. The [[self-opacity|phenomenology of self-awareness]] documents what this structural difficulty feels like from the inside: the felt inversion, semantic vertigo, and oscillation that arise when consciousness takes itself as referent. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] places these introspective signatures within a broader diagnostic grid, showing how construction-mistaken-for-observation is the characteristic failure mode of introspective limits — where the detection mechanism is itself implicated.
+The [[self-opacity|self-reference paradox]] distinguishes three converging types: *structural* limits analogous to Gödel's incompleteness (some truths about the system lie permanently beyond its reach), *transparency* limits where the self-model must hide its machinery to function, and *recursive* limits where nested self-observation collapses. All three constrain introspection — a form of [[self-stultification]] where self-knowing undermines self-knowledge. The implications: understanding subjectivity requires making it into an object; meditators report the limit more clearly rather than overcoming it; and the calibrator *is* the thing to be calibrated. The [[self-opacity|phenomenology of self-awareness]] captures how this feels from inside — felt inversion, semantic vertigo, oscillation when consciousness takes itself as referent. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] places these signatures in a broader grid where construction-mistaken-for-observation is the characteristic failure mode of introspective limits.
 
 ## Error-Blindness: A Structural Limit
 
@@ -177,7 +179,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 - [[contemplative-epistemology]] — First-person observation through contemplative practice as legitimate knowledge
 - [[witness-consciousness]] — The observer phenomenon in contemplative traditions
 - [[apex/testing-the-map-from-inside|Testing the Map from Inside]] — Apex synthesis: phenomenological experiments you can run using your own experience
-- [[self-opacity|phenomenology of self-awareness]] — Why introspective error cannot be detected from within, and where process access fails structurally
+- [[source-attribution-void]] — The architectural absence of origin tags on mental content: why choice blindness and confabulation are structural features rather than noisy exceptions
 - [[phenomenal-authority-and-first-person-evidence]] — The spectrum of phenomenal authority positions and phenomenal conservatism
 - [[attention-disorders-and-consciousness]] — When the attentional basis of introspection is itself disordered
 - [[voids-between-minds|The Intersubjective Void]] — How social calibration compounds introspective unreliability

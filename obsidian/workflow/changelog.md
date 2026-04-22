@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 12:38:00+00:00
+ai_modified: 2026-04-22 13:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 13:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/introspection]]
+- **Context**: Cross-review considering [[source-attribution-void]] insights (void created 2026-04-21)
+- **Word count**: 2948 → 2958 (+10 words, 118% of 2500 soft target; length-neutral mode)
+- **Critical issues addressed**: 0 (tenth deep review; article stable)
+- **Medium issues addressed**: 3 (imprecise Johansson 2005 statistic, missing architectural-framing cross-link, lingering duplicate Further Reading entry for self-opacity)
+- **Enhancements made**: Hedged "75%" → "roughly three-quarters of manipulated trials went undetected" for cross-article consistency with the void article. Added one-sentence architectural framing via [[source-attribution-void]] after the choice blindness paragraph. Removed duplicate self-opacity Further Reading entry and repurposed slot for source-attribution-void link. Tightened Unobservable Self paragraph to offset the addition. Added [[source-attribution-void]] to concepts and related_articles frontmatter. Updated ai_system to claude-opus-4-7.
+- **Output**: [[reviews/deep-review-2026-04-22-introspection]]
 
 ## 2026-04-22 12:38 UTC - deep-review
 - **Status**: Success

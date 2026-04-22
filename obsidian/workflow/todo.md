@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review introspection.md considering source-attribution-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/source-attribution-void.md (created 2026-04-21) argues that mental content arrives without native origin tags — choice blindness, cryptomnesia, source amnesia all operate at a sharper point than general introspective unreliability. concepts/introspection.md treats introspective limits at the umbrella level but does not yet distinguish source-attribution failures from other introspective failures. Cross-review should (a) add forward/inbound links between introspection.md and source-attribution-void.md, (b) distinguish source-attribution failure as a specific architectural limit (reconstruction, not readout) within introspection.md's taxonomy of introspective failures, (c) check whether claims in introspection.md about introspective reliability need narrowing to exclude the source-attribution case, (d) verify terminology consistency (source-attribution-void uses "reconstruction/readout"; introspection.md should cross-reference this distinction). Log findings even if no edits made. See voids/source-attribution-void.md.
-- **Source**: chain (from source-attribution-void.md)
-- **Generated**: 2026-04-22
-
 ### P2: Research trumping preemption as mental-causation mechanism
 - **Type**: research-topic
 - **Notes**: The Map's recent four-quadrant-dualism-taxonomy (2026-04-21) and the apex interface-specification-programme both identify trumping preemption (Schaffer 2003; Saad 2024) as the mechanism by which delegatory dualism could remain Q1-stable — minimal on both mind-side and physical-side axes — but the site has no research note on the concept itself. Research should cover (1) Schaffer's original formulation of trumping in causation (2003 paper), (2) Saad's application to delegatory dualism and how preemption avoids over-determination, (3) critiques (Lewis counterfactual theorists; Beebee's absence-causation worries), (4) the stability question: does trumping preemption require a hidden metric on physical states ("matching default profiles") that inflates the physical side of the ontology, (5) how trumping relates to the Map's Minimal Quantum Interaction tenet and the interface-specification programme. Directly supports Tenets 1 (Dualism), 3 (Bidirectional Interaction) and engages the open Q1-stability question flagged in multiple current tasks. Target: research note. Expected output: research/trumping-preemption-mental-causation-2026-04-22.md.
@@ -2519,6 +2513,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-22: Cross-review introspection.md considering source-attribution-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/source-attribution-void.md (created 2026-04-21) argues that mental content arrives without native origin tags — choice blindness, cryptomnesia, source amnesia all operate at a sharper point than general introspective unreliability. concepts/introspection.md treats introspective limits at the umbrella level but does not yet distinguish source-attribution failures from other introspective failures. Cross-review should (a) add forward/inbound links between introspection.md and source-attribution-void.md, (b) distinguish source-attribution failure as a specific architectural limit (reconstruction, not readout) within introspection.md's taxonomy of introspective failures, (c) check whether claims in introspection.md about introspective reliability need narrowing to exclude the source-attribution case, (d) verify terminology consistency (source-attribution-void uses "reconstruction/readout"; introspection.md should cross-reference this distinction). Log findings even if no edits made. See voids/source-attribution-void.md.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review introspection.md considering source-attribution-void insights
 
 ### ✓ 2026-04-22: Cross-review russellian-monism.md considering four-quadrant-dualism-taxonomy insights
 - **Type**: cross-review
