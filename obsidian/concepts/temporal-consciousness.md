@@ -4,7 +4,7 @@ description: "Consciousness flows through time in the specious present—Bergson
 created: 2026-01-14
 modified: 2026-03-15
 human_modified: null
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-04-22T02:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,7 +75,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-19T18:48:00+00:00
+last_deep_review: 2026-04-22T02:39:00+00:00
 coalesced_from:
   - "/concepts/temporal-consciousness/"
   - "/concepts/specious-present/"
@@ -105,7 +105,7 @@ Physical descriptions consist of states at times and transition rules between th
 
 ## Bergson's Durée
 
-Bergson argued that science systematically misunderstands time by spatializing it—treating moments as points on a line. **Spatialized time** is homogeneous, measurable, quantifiable. **Duration** (*durée*) is time as consciousness experiences it: heterogeneous, qualitative, indivisible. The past lives in the present; the future colours current experience. The physicist's equations are time-reversible; durée is not.
+Bergson argued that science systematically misunderstands time by spatializing it—treating moments as points on a line. **Spatialized time** is homogeneous, measurable, quantifiable. **Duration** (*durée*) is time as consciousness experiences it: heterogeneous, qualitative, indivisible. The past lives in the present; the future colours current experience.
 
 Bergson's key technical concept is "qualitative multiplicity"—elements that interpenetrate while remaining distinguishable. In a musical phrase, each note is heard *in light of* what came before and *in anticipation of* what follows. A free act emerges from the whole self—the full depth of one's duration—connecting to the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet. Kent and Wittmann (2021) confirm experienced duration remains "one of the core issues in theories of consciousness"—IIT and Global Workspace spatialize time, focusing on functional moments of 100-300ms while experienced time extends to seconds.
 
@@ -115,7 +115,7 @@ The specious present establishes that consciousness has duration. Temporal thick
 
 Two moments of identical specious-present length can differ radically in phenomenal character. A musician improvising experiences each beat as dense with harmonic possibility, melodic memory, and anticipatory tension. Someone passively overhearing the same music inhabits a thinner present. The clock measures the same interval; the phenomenology diverges.
 
-This divergence reflects differences in retention depth (how much of the immediate past remains phenomenally present), protentional reach (how far anticipated futures shape the now), and interpenetration (the degree to which past, present, and future permeate each other). Bergson's durée captures this interpenetration; temporal thickness measures how fully it is realised in any given moment.
+This divergence reflects differences in retention depth (how much of the immediate past remains phenomenally present), protentional reach (how far anticipated futures shape the now), and interpenetration (the degree to which past, present, and future permeate each other). Bergson's durée captures this interpenetration; temporal thickness measures how fully it is realised in any given moment. [[process-philosophy|Whitehead's concrescence]] describes the same phenomenon metaphysically: some occasions synthesise their inheritance richly, others merely repeat it.
 
 Temporal thickness does significant work in the Map's treatment of [[authentic-vs-inauthentic-choice|authentic versus inauthentic choice]]. Authentic decisions unfold in durée—the choice emerging from your whole history as creative expression. Inauthentic choice lacks temporal thickness: reactive compression where temporal horizons collapse to near-zero. Randomness at a temporally thin moment is mere noise; indeterminacy at a temporally thick moment, where consciousness selects from possibilities saturated with personal history, is agency.
 
@@ -153,7 +153,7 @@ Temporal unity can degrade, revealing it as contingent. **Temporal disintegratio
 
 ## Connection to Quantum Consciousness
 
-The Map's framework proposes consciousness participates in [[quantum-consciousness|quantum collapse]] and that [[collapse-and-time|collapse constitutes time's arrow]]. The specious present may be the phenomenological manifestation—what quantum selection feels like from within.
+The Map's framework proposes consciousness participates in [[quantum-consciousness|quantum collapse]] and that [[collapse-and-time|collapse constitutes time's arrow]]. The specious present may be the phenomenological face of what [[process-philosophy|Whitehead]] describes metaphysically as concrescence—what quantum selection feels like from within.
 
 ### Temporal Phenomenology as Selection Signature
 
@@ -169,7 +169,7 @@ A significant challenge is the [[timing-gap-problem|timescale gap]]: quantum dec
 
 ### Duration, Flow, and Superposition
 
-B-theory eternalism treats temporal flow as illusory; the Map counters that flow is the experiential side of time's constitution through collapse. The irreversibility of lived time may reflect the deeper irreversibility of collapse itself. The phenomenology of [[mental-effort|effort]] provides additional evidence: maintaining focused attention feels costly, reflecting consciousness working to bias quantum outcomes against the system's spontaneous tendencies.
+B-theory eternalism treats temporal flow as illusory; the Map counters that flow is the experiential side of time's constitution through collapse. The phenomenology of [[mental-effort|effort]] provides additional evidence: maintaining focused attention feels costly, reflecting consciousness working to bias quantum outcomes against the system's spontaneous tendencies.
 
 ### Challenges and Limits
 
