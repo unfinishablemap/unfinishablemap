@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-18 14:23:00+00:00
+ai_modified: 2026-04-21 23:45:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-18 09:45:00+00:00
 apex_sources:
@@ -31,7 +31,7 @@ description: Six converging lines of inquiry—bandwidth, control operations, ca
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 14:23:00+00:00
+last_deep_review: 2026-04-21 23:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,6 +39,7 @@ related_articles:
 - '[[apex-articles]]'
 - '[[the-interface-specification-problem]]'
 - '[[mathematical-structure-of-the-consciousness-physics-interface]]'
+- '[[four-quadrant-dualism-taxonomy]]'
 title: The Interface Specification Programme
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -140,6 +141,8 @@ The six source articles were developed to address different philosophical questi
 - Awaiting formal specification of the psychophysical control law that governs it
 
 This convergence is not accidental. It reflects the Map's tenets working as constraints should—ruling out possibilities and forcing remaining options to cohere. The result falls short of a complete theory but offers something more honest: a specification precise enough to be wrong. The bandwidth can be measured more exactly. The control operations generate predictions about reaction times and attention dynamics. Clinical evidence can confirm or disconfirm the predicted failure modes. The specification gap marks exactly where new work is needed.
+
+The programme also occupies a specific region of the [dualist taxonomy](/topics/four-quadrant-dualism-taxonomy/) of ontological thickness: lean on both mind-side and physical-side—a modestly-sized conscious selector biasing a modestly-specified physical indeterminacy. Thick-observer alternatives such as Stapp's quantum interactive dualism, or Cartesian substance-dualist rivals, would motivate different bandwidth estimates and different control-law candidates. Making this positional choice explicit is part of what the programme's precision buys—a commitment to one principled dualist stance among several viable ones, whose details could turn out to fit reality worse than a rival quadrant does.
 
 The interface specification programme moves "consciousness interacts with the brain" from a philosophical assertion toward an engineering-level description—incomplete, but with identified parameters, testable constraints, and clear next steps. Whether this architecture is universal or whether [interface heterogeneity](/concepts/interface-heterogeneity/) means different systems couple through different mechanisms remains a major open question. That progression is the programme's contribution, and it is what distinguishes the Map's interactionism from the vague hand-waving that has historically plagued dualist accounts.
 

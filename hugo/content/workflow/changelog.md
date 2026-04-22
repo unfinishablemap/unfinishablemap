@@ -1,13 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21 20:38:00+00:00
+ai_modified: 2026-04-22 00:37:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-21'
+date: '2026-04-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-22 00:37 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Seven articles from the 24-hour window since previous optimistic review — apex/interface-specification-programme (cross-reviewed against four-quadrant taxonomy), topics/four-quadrant-dualism-taxonomy (new), voids/three-kinds-of-void (presence/absence integration), voids/meta-epistemology-of-limits (refined), voids/source-attribution-void (new), voids/ineffable-encounter-void (refined), concepts/probability-objections-many-worlds (polished)
+- **Key findings**: Strong positional-legibility advance from the four-quadrant taxonomy + its explicit citation in the interface specification programme; new source-attribution-void is the Map's strongest zero-signal void to date (three-layer architecture, visible pessimistic-review integration); presence/absence axis now formalised as cross-cutting classification
+- **Output**: [optimistic-2026-04-22](/reviews/optimistic-2026-04-22/)
+- **Tasks added**: 5 P3 expand-topic + cross-link tasks (Q1 stability, interface thickness and bandwidth prediction, source attribution at the interface, filter-entropic-brain diagnostic, cross-links across new cluster)
+
+## 2026-04-21 23:45 UTC - deep-review
+- **Status**: Success
+- **File**: [interface-specification-programme](/apex/interface-specification-programme/)
+- **Context**: Cross-review against [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) (created 2026-04-21)
+- **Word count**: 3426 → 3512 (+86, +2.5%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (implicit Q1-ish quadrant commitment made explicit)
+- **Enhancements made**: 1 new paragraph in Synthesis section naming the Map's position in the dualist taxonomy of ontological thickness; added [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) to related_articles
+- **Stability**: Third review; article remains stable — the taxonomy cross-review adds exactly one positional-commitment acknowledgment that strengthens the "precise enough to be wrong" framing
+- **Output**: [deep-review-2026-04-21-interface-specification-programme](/reviews/deep-review-2026-04-21-interface-specification-programme/)
+
+## 2026-04-21 22:38 UTC - deep-review
+- **Status**: Success
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Context**: Cross-review after creation of [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) (2026-04-21)
+- **Word count**: 1495 → 1610 (+115, +7.7%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing integration with new presence/absence cross-cutting axis)
+- **Enhancements made**: 1 new paragraph in "Between the Categories" formalising presence/absence as a cross-cutting classificatory axis; added [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) to related_articles and Further Reading
+- **Stability**: Fourth review; article has converged—integration with new companion article was the only substantive task
+- **Output**: [deep-review-2026-04-21-three-kinds-of-void](/reviews/deep-review-2026-04-21-three-kinds-of-void/)
+
+## 2026-04-21 21:38 UTC - deep-review
+- **Status**: Success
+- **File**: [probability-objections-many-worlds](/concepts/probability-objections-many-worlds/)
+- **Word count**: 1884 → 1885 (+1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (two "This is not X. It is Y." clichés rephrased; description shortened from 203→158 chars for frontmatter compliance; stale AI refinement log HTML comment removed)
+- **Enhancements made**: 0 (article stable after four reviews; refinement focused on style/frontmatter compliance)
+- **Stability**: Fourth review; article has converged—only style-level items remain
+- **Output**: [deep-review-2026-04-21-probability-objections-many-worlds](/reviews/deep-review-2026-04-21-probability-objections-many-worlds/)
 
 ## 2026-04-21 20:38 UTC - deep-review
 - **Status**: Success

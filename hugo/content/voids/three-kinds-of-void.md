@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-17 20:56:00+00:00
+ai_modified: 2026-04-21 22:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -14,7 +14,7 @@ description: The unexplored, the unexplorable, and the occluded—a taxonomy of 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-30 01:29:00+00:00
+last_deep_review: 2026-04-21 22:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[the-silence-void]]'
 - '[[recognition-void]]'
 - '[[ineffable-encounter-void]]'
+- '[[presence-type-and-absence-type-voids]]'
 title: Three Kinds of Void
 topics: []
 ---
@@ -81,6 +82,8 @@ This is speculative. But it's testably speculative—at least in principle. We c
 
 The three-part taxonomy organises investigation but does not confine it. The [ineffable-encounter-void](/voids/ineffable-encounter-void/)—consciousness encountering meaning and sacred significance that exceeds articulation—combines unexplorable and occluded features: the generating mechanism is hidden from introspection (unexplorable), while analytical attention actively dissolves the experience (occluded). It is unusual among mixed-type voids because it manifests as *presence* rather than absence—an excess of meaning rather than a deficit of access. The [synesthetic-void](/voids/synesthetic-void/)—experiential dimensions open to some minds but closed to others within a single species—spans all three types: partly unexplored, partly unexplorable by non-synesthetic architectures, and partly occluded through developmental neural pruning that actively dismantles broader phenomenal access. The [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) framework identifies "naturally occluded" voids—blind spots maintained by natural selection because ignorance conferred fitness advantage. These differ from each existing category: not merely uninvestigated, not necessarily beyond all possible cognition, yet not maintained by any intentional agent. The taxonomy's value lies less in rigid classification than in revealing how different kinds of darkness demand different investigative approaches.
 
+The presence-type manifestation noted in the ineffable-encounter-void turns out to mark a cross-cutting classificatory axis, formalised separately in [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/). Most voids are *absence-type*: cognitive limits registered as the failure of some conscious operation—reaching and not finding. A smaller class is *presence-type*: cognitive limits registered as the overwhelming of some conscious operation—encountering too much, too intensely, or in a modality the evaluative apparatus cannot process. The presence/absence axis is independent of the three-kinds taxonomy. Presence-type voids typically fall under unexplorable-and-occluded jointly, while absence-type voids spread across all three kinds. Together the two axes produce a two-dimensional classification the single taxonomy cannot express.
+
 ## Relation to Site Perspective
 
 **[Dualism](/tenets/#dualism)** makes the Unexplorable possible. If consciousness is fundamental and irreducible, some aspects of its nature may be permanently beyond third-person methods.
@@ -101,6 +104,7 @@ The three-part taxonomy organises investigation but does not confine it. The [in
 - [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) — Blind spots as evolutionary features, not defects
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level limits
 - [the-silence-void](/voids/the-silence-void/) — Territory accessible only through the cessation of thought
+- [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) — A cross-cutting axis: voids of lack versus voids of overwhelming excess
 
 ## References
 
