@@ -9,6 +9,16 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-22 08:39 UTC - deep-review
+- **Status**: Success
+- **File**: [neural-refresh-rates](/concepts/neural-refresh-rates/)
+- **Word count**: 1254 → 1299 (+45 words, 52% of 2500 soft target)
+- **Critical issues addressed**: 0 (fourth review; article stable since 2026-03-18)
+- **Medium issues addressed**: 1 (missing link to evidence programme article created after last review)
+- **Enhancements made**: Added [grain-mismatch-as-independent-evidence](/topics/grain-mismatch-as-independent-evidence/) to related_articles; added convergent-programme sentence in Relation to Site Perspective; added descriptor entry in Further Reading
+- **Stability**: 4th review; integrative-only changes. Core argumentation, structure, and voice unchanged.
+- **Output**: [deep-review-2026-04-22-neural-refresh-rates](/reviews/deep-review-2026-04-22-neural-refresh-rates/)
+
 ## 2026-04-22 07:38 UTC - deep-review
 - **Status**: Success
 - **File**: [delegatory-dualism](/topics/delegatory-dualism/)
