@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-21T08:15:00+00:00
+ai_modified: 2026-04-22T17:39:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,25 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Write concept article on Trumping Preemption as Mental-Causation Mechanism
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Unconsumed research: research/trumping-preemption-mental-causation-2026-04-22.md (created 2026-04-22, no article yet). Schaffer's (2000) fourth species of redundant causation — where two causally complete processes both run to their effect but a meta-level rule selects one as authoritative — offers a structural template for dualist mental causation that preserves physical closure without requiring the causal effect to be either overdetermined or brute. Article would synthesise the research: (a) introduce the mechanism via Schaffer's magician-spell and major-sergeant cases, (b) distinguish trumping from early preemption, late preemption, and symmetric overdetermination, (c) show how trumping separates *counterfactual sufficiency* from *causal authority*, (d) apply the template to mental causation — a non-physical experience can be *the* cause of a physical effect while its physical correlate remains counterfactually sufficient, avoiding brute overdetermination and visible closure violations, (e) connect to Bradford Saad's preemptive/delegatory dualism as the leading application (already covered in [[concepts/delegatory-causation]]), (f) assess what the mechanism buys (closure preservation, non-epiphenomenal consciousness, no energy debt) and what it costs (identity conditions on experiences, a metric on physical states, psychophysical authority-laws linking them). Note the archived `concepts/preemption.md` was coalesced into [[concepts/delegatory-causation]] and covered preemption generally — this article focuses specifically on the trumping variant Schaffer introduced, which is a distinct and Map-load-bearing mechanism. Medium-long scope (2500-3000 words). Target section: concepts/ (227/250, has capacity). Tenet alignment: Dualism, Bidirectional Interaction, Minimal Quantum Interaction. See /expand-topic skill and research/trumping-preemption-mental-causation-2026-04-22.md.
+- **Source**: unconsumed_research (chain from research-topic completion)
+- **Generated**: 2026-04-22
+
+### P2: Cross-review concepts/interactionist-dualism.md considering trumping-preemption research insights
+- **Type**: cross-review
+- **Notes**: Research completed in research/trumping-preemption-mental-causation-2026-04-22.md. Schaffer's trumping preemption mechanism addresses the exclusion problem by separating counterfactual sufficiency from causal authority — a key move for any interactionist position. Cross-review interactionist-dualism.md should (a) check whether the exclusion-problem treatment can be sharpened by distinguishing trumping-style authority from early/late preemption, (b) add citation to Schaffer (2000) "Trumping Preemption" where the preemption family is discussed, (c) verify consistency with Saad's preemptive-dualism framing (already referenced via [[delegatory-causation]]), (d) identify sections where the trumping mechanism resolves or clarifies issues currently flagged as open objections. Log findings even if no edits are made. See research/trumping-preemption-mental-causation-2026-04-22.md.
+- **Source**: chain (from research-topic on trumping preemption)
+- **Generated**: 2026-04-22
+
+### P2: Cross-review concepts/delegatory-causation.md considering trumping-preemption research insights
+- **Type**: cross-review
+- **Notes**: Research completed in research/trumping-preemption-mental-causation-2026-04-22.md. The coalesced preemption-into-delegatory-causation article (merged 2026-04-18) absorbed general preemption material but predates the trumping-specific research. Cross-review should (a) check whether the article should cite Schaffer (2000) "Trumping Preemption" alongside the existing Saad delegatory-dualism treatment, (b) verify that the trumping vs early/late preemption distinction is preserved and sharpened in the merged article, (c) identify places where an authority-vs-sufficiency framing could tighten the exclusion-problem argument, (d) check that the planned [[trumping-preemption]] concept page will be cross-linked bidirectionally. Log findings even if no edits are made. See research/trumping-preemption-mental-causation-2026-04-22.md.
+- **Source**: chain (from research-topic on trumping preemption)
+- **Generated**: 2026-04-22
 
 ### P3: Deep review narrative-void.md
 - **Type**: deep-review
