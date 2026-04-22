@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-22T15:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,7 +12,6 @@ topics:
   - "[[personal-identity]]"
 concepts:
   - "[[buddhism-and-dualism]]"
-  - "[[nihilism-and-existentialism]]"
   - "[[nihilism-and-existentialism]]"
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[dream-consciousness]]"
@@ -32,8 +31,10 @@ concepts:
   - "[[african-philosophy-of-consciousness]]"
   - "[[islamic-sufi-philosophy-of-consciousness]]"
   - "[[cross-cultural-convergence-on-mental-causation]]"
+  - "[[evaluative-phenomenal-character]]"
 related_articles:
   - "[[tenets]]"
+  - "[[evaluative-qualia-phenomenal-normativity-across-traditions]]"
   - "[[buddhist-perspectives-meaning-2026-01-06]]"
   - "[[contemplative-path]]"
   - "[[vertiginous-question]]"
@@ -47,7 +48,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-03-19T13:02:00+00:00
+last_deep_review: 2026-04-22T15:38:00+00:00
 coalesced_from:
   - "/topics/eastern-philosophy-consciousness/"
   - "/topics/eastern-metaphysics-integration/"
@@ -100,7 +101,7 @@ For the Map, Taoism contributes in three ways. First, *wu wei* addresses the [[m
 
 Despite different starting points, all three traditions converge on claims that support the Map's framework:
 
-**Consciousness is real and significant.** None is eliminativist. Buddhism denies the permanent self *owning* consciousness, not consciousness itself. That traditions investigating consciousness for millennia through systematic practice all conclude it is real supports the Dualism tenet's rejection of eliminative materialism. This convergence extends beyond the three traditions treated here: [[african-philosophy-of-consciousness|African]] and [[islamic-sufi-philosophy-of-consciousness|Islamic]] philosophical traditions independently reach similar conclusions. The [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence on irreducibility]] analyses this pattern in detail, showing that traditions disagreeing about substance, self, and causation all arrive at the same structural recognition—functioning as an attractor of sustained philosophical inquiry.
+**Consciousness is real and significant.** None is eliminativist. Buddhism denies the permanent self *owning* consciousness, not consciousness itself. That traditions investigating consciousness for millennia through systematic practice all conclude it is real supports the Dualism tenet's rejection of eliminative materialism. This convergence extends beyond the three traditions treated here: [[african-philosophy-of-consciousness|African]] and [[islamic-sufi-philosophy-of-consciousness|Islamic]] philosophical traditions independently reach similar conclusions, as does cross-traditional work on [[evaluative-qualia-phenomenal-normativity-across-traditions|evaluative qualia]]—Buddhist *vedanā*, Confucian moral feeling, Indian *rasa*, and Islamic knowledge-by-presence all identify evaluative character as irreducibly phenomenal. The [[cross-traditional-convergence-on-consciousness-irreducibility|cross-traditional convergence on irreducibility]] analyses this pattern in detail, showing that traditions disagreeing about substance, self, and causation all arrive at the same structural recognition—functioning as an attractor of sustained philosophical inquiry.
 
 **Contemplative methods access what theory cannot.** Cross-traditional convergence appears on the impermanence of mental contents, witnessing awareness distinct from what it observes, and cessation states. The [[comparative-phenomenology-of-meditative-traditions|comparative phenomenology of meditative traditions]] maps three convergence zones (self-dissolution, contentless awareness, subject-object collapse) alongside three axes of genuine divergence (witness status, affective tone, cessation versus plenitude). That independent traditions converge on structural findings while diverging on interpretation suggests they're discovering something real—though Thompson (2020) cautions that apparent agreement may mask significant experiential differences.
 
@@ -196,6 +197,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[indian-philosophy-of-mind]] — Samkhya, Nyaya, and Vedanta: India's sophisticated philosophies of mind
 - [[the-hard-problem-in-non-western-philosophy]] — How Indian, Islamic, African, and Japanese traditions independently engaged the hard problem
 - [[cross-cultural-convergence-on-mental-causation]] — Independent traditions converge on consciousness as causally efficacious
+- [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on the irreducibility of evaluative experience
 - [[cross-cultural-phenomenology-of-agency]] — How cultural frameworks shape the felt experience of willing and acting
 - [[african-philosophy-of-consciousness]] — Relational and communal approaches to consciousness from African traditions
 - [[islamic-sufi-philosophy-of-consciousness]] — From Avicenna's Flying Man to Sufi phenomenology of fana
