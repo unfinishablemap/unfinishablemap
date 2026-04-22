@@ -4,7 +4,7 @@ description: "Bradford Saad's 2025 theory explains how consciousness causes beha
 created: 2026-01-29
 modified: 2026-01-29
 human_modified:
-ai_modified: 2026-04-18T15:40:00+00:00
+ai_modified: 2026-04-22T07:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-29
 last_curated:
-last_deep_review: 2026-04-18T15:40:00+00:00
+last_deep_review: 2026-04-22T07:38:00+00:00
 ---
 
 Delegatory dualism is Bradford Saad's 2025 solution to the causal exclusion problem—the challenge of how consciousness can cause physical effects without overdetermining outcomes that already have sufficient physical causes. The core insight: physical brain states *delegate* their causal responsibilities to conscious experiences that share their causal profiles. When you wince from pain, the pain causes the wince by taking over causal work the physical state would otherwise perform. No overdetermination occurs because the physical state's contribution is preempted, not duplicated.
@@ -240,7 +240,8 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 
 ## Further Reading
 
-- [[delegatory-causation]] — The unified account of delegation, preemption, and default causal profile: one cause operates, the other is sidelined
+- [[delegatory-causation]] — The unified account of delegation, preemption, and default causal profile
+- [[four-quadrant-dualism-taxonomy]] — Map's ontological-weight taxonomy places delegatory dualism as the cleanest Q1 (min-mind / min-physical) inhabitant
 - [[interactionist-dualism]] — The Map's core position on mind-body interaction
 - [[mental-causation-and-downward-causation|mental causation]] — How consciousness causes physical effects
 - [[causal-closure]] — The closure objection and responses
