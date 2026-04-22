@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 21:38:00+00:00
+ai_modified: 2026-04-22 22:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 22:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/trumping-preemption]]
+- **Context**: Addresses pessimistic review 2026-04-22 findings (two medium, two low)
+- **Word count**: ~1700 → ~2000 (80% of 2500 soft target; within concept range)
+- **Issues addressed**: 4 (fiction-to-nature disanalogy now flagged at start of §"Applying the Template"; counterfactual-necessity phrasing tightened in §"Schaffer's Cases"; closing "evidence warrants" softened to "Map's tenet framework warrants" with observation-legibility hedge; Saad's observable-closure claim flagged as controversial with Crane/Papineau pointer)
+- **Language improvements**: 4 (opening "load-bearing" hedged; "about as small as a real cause can be" → "as minimal an intervention as the concept of cause permits"; "evidence warrants" adjusted; "dualist attention should go" → "dualist analysis productively concentrates")
+- **Argumentative strengthening**: Mills/Lowe reply to Bernstein made explicit (coincidence-vs-lawfulness distinction; observational-closure move), replacing the allusive one-sentence gesture
+- **References added**: Crane (1995), Papineau (2001)
+- **Published**: yes
 
 ## 2026-04-22 21:38 UTC - deep-review
 - **Status**: Success
