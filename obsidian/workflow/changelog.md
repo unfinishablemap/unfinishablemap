@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 03:46:00+00:00
+ai_modified: 2026-04-22 04:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 04:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/delegatory-causation]]
+- **Context**: Cross-review considering [[four-quadrant-dualism-taxonomy]] insights (taxonomy reviewed 2026-04-21)
+- **Word count**: 3410 → 3464 (+54, below 3500 hard threshold; length-neutral mode)
+- **Critical issues addressed**: 0 (prior 2026-04-18 review resolved remaining issues)
+- **Medium issues addressed**: 1 (missing reciprocal taxonomic placement — article did not acknowledge its Q1 (min-mind / min-physical) position in the thickness taxonomy even though the taxonomy names it "the cleanest Q1 inhabitant")
+- **Enhancements made**: Added Q1-placement paragraph in §Honest Limitations naming the open Q1-stability question; added [[four-quadrant-dualism-taxonomy]] to related_articles and Further Reading; tightened trivial closings (removed "The lesson:" editorialising; compressed speculative final sentence of §Inverse section) to offset added content
+- **Attribution consistency**: Cross-checked Saad characterization between delegatory-causation and four-quadrant-dualism-taxonomy — consistent (Saad's bare mechanism is quantum-agnostic; Born-rule identification is Map-specific integration in both)
+- **Stability**: Second review; article remains stable. All prior bedrock disagreements preserved; Q1 stability is now an acknowledged open question rather than an external unresolved issue. Length now at 99% of hard threshold — future edits must be length-neutral or net-negative
+- **Output**: [[reviews/deep-review-2026-04-22-delegatory-causation]]
 
 ## 2026-04-22 03:46 UTC - deep-review
 - **Status**: Success

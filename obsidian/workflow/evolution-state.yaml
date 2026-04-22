@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-22T02:37:19.937200+00:00'
-session_count: 6146
-cycle_position: 5774
+last_updated: '2026-04-22T03:37:19.937674+00:00'
+session_count: 6147
+cycle_position: 5775
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-21T18:37:19.932678+00:00'
   optimistic-review: '2026-04-22T00:37:19.936160+00:00'
   check-tenets: '2026-04-21T12:37:19.929220+00:00'
   check-links: '2026-04-21T12:37:19.929220+00:00'
-  deep-review: '2026-04-21T21:37:19.934695+00:00'
+  deep-review: '2026-04-22T03:37:19.937674+00:00'
   tune-system: '2026-04-21T12:37:19.929220+00:00'
   research-voids: '2026-04-21T12:37:19.929220+00:00'
   coalesce: '2026-04-21T10:37:19.927862+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-22T02:37:19.937200+00:00'
+  agentic-social: '2026-04-22T04:38:33.104290+00:00'
 last_git_push: '2026-04-22T00:37:19.936160+00:00'
 last_tweet_date: '2026-04-21'
 content_stats:
@@ -51,15 +47,11 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/voids/self-opacity.md -- Context: Cross-r)'
-  type: deep-review
-  date: '2026-04-21'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-21'
   outcome: success
-- task: research-topic (min/max dualism taxonomy (mind-side thickness × ph)
+- task: "research-topic (min/max dualism taxonomy (mind-side thickness \xD7 ph)"
   type: research-topic
   date: '2026-04-21'
   outcome: success
@@ -134,17 +126,13 @@ recent_tasks:
   type: deep-review
   date: '2026-04-22'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 6
-  p3_tasks: 405
-  needs_replenishment: false
-  last_replenishment: '2026-04-22T03:39:00+00:00'
-  replenishment_source_counts:
-    chain: 4
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+- task: deep-review
+  type: deep-review
+  date: '2026-04-22'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/pain-asymbolia/
+    date: '2026-04-22T04:38:33.104272+00:00'
+    topics:
+    - pain-consciousness-and-causal-power

@@ -2,10 +2,10 @@
 title: "Delegatory Causation"
 description: "Bradford Saad's unified mechanism for mental causation: experiences preempt the default causal profile of physical brain states by trumping rather than competing—solving the exclusion problem without overdetermination."
 created: 2026-02-15
-modified: 2026-04-18
+modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-04-18T10:18:00+00:00
-last_deep_review: 2026-04-18T10:18:00+00:00
+ai_modified: 2026-04-22T04:38:00+00:00
+last_deep_review: 2026-04-22T04:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,6 +31,7 @@ related_articles:
   - "[[trilemma-of-selection]]"
   - "[[consciousness-physics-interface-formalism]]"
   - "[[objections-to-interactionism]]"
+  - "[[four-quadrant-dualism-taxonomy]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -72,7 +73,7 @@ Trumping preemption is philosophically significant because it cannot be handled 
 
 The distinction matters because systematic overdetermination is widely regarded as theoretically problematic. If every effect has two independent sufficient causes, the backup appears redundant—present for no explanatory reason. Preemption avoids this: the backup has a role (it would have operated if needed) without being redundantly operative.
 
-Late preemption posed a particular challenge for David Lewis's counterfactual analysis of causation. On that theory, C causes E if E counterfactually depends on C—if C had not occurred, E would not have occurred. But in late preemption, E would still have occurred (via the backup) even without C. Lewis refined his theory repeatedly—introducing fragility of events, chains of counterfactual dependence, and influence—largely to handle preemption cases. The lesson: preemption is a real and distinctive causal structure, not a special case of any simpler relation.
+Late preemption posed a particular challenge for David Lewis's counterfactual analysis of causation. On that theory, C causes E if E counterfactually depends on C—if C had not occurred, E would not have occurred. But in late preemption, E would still have occurred (via the backup) even without C. Lewis refined his theory repeatedly—introducing fragility of events, chains of counterfactual dependence, and influence—largely to handle preemption cases. Preemption is a real and distinctive causal structure, not a special case of any simpler relation.
 
 ## The Default Causal Profile
 
@@ -167,7 +168,7 @@ The physical state's default profile therefore splits into two parts: the coarse
 
 The everyday phenomenon of [[skill-delegation]] inverts the direction of delegatory causation. Where Saad's mechanism describes physical states delegating causal work *to* experience, skill-delegation describes consciousness handing off causal work *to* procedural systems. The conscious agent retains the capacity to control the action but does not exercise it because the trained procedure has taken over.
 
-Both directions share the crucial feature of preemption—one causal source does the work while the other retains capacity without exercising it. Together they suggest delegation is a general feature of the mind-brain interface: causal responsibility flows in the direction that produces the most reliable outcome, with the displaced source preserving its capacity in reserve.
+Both directions share the crucial feature of preemption—one causal source does the work while the other retains capacity without exercising it. Together they suggest delegation is a general feature of the mind-brain interface, operating in whichever direction produces the more reliable outcome.
 
 ## Relation to Site Perspective
 
@@ -189,6 +190,8 @@ Delegatory causation is not proven superior to its rivals. The claim is narrower
 
 The mechanism specifies *where* and *how* mental causation could operate without contradicting empirical findings. It does not establish *that* mental causation in fact operates this way. The case for that further claim rests on the broader Map framework—the [[hard-problem-of-consciousness|hard problem]], conceivability arguments, the [[trilemma-of-selection]] at points of genuine indeterminacy—not on the causal structure alone.
 
+Within the [[four-quadrant-dualism-taxonomy|thickness taxonomy of dualist positions]], Saad's bare mechanism is the cleanest current min-mind / min-physical inhabitant—neither side inflates beyond what preemption requires. Whether any workable interaction specification can remain purely in that quadrant, or whether some thickening on one side is ultimately unavoidable, is the live stability question for this family of positions.
+
 The full development of Saad's theory, including his five constraints on dualist theories and the integration with the Map's quantum framework, is presented in the [[delegatory-dualism]] article. This article specifies the unified mechanism—default profile, preemption, delegation—that makes the broader theory work.
 
 ## Further Reading
@@ -209,6 +212,7 @@ The full development of Saad's theory, including his five constraints on dualist
 - [[consciousness-bandwidth-architecture]] — The bandwidth constraint shaping which portions of the default profile experience preempts
 - [[objections-to-interactionism]] — Other responses to the exclusion problem
 - [[conservation-laws-and-mental-causation]] — Why mental causation violates neither conservation laws nor observational closure
+- [[four-quadrant-dualism-taxonomy]] — Where delegation sits in the thickness taxonomy of dualist positions
 
 ## References
 
