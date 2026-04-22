@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22T17:39:00+00:00
+ai_modified: 2026-04-22T23:39:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review concepts/mental-causation-and-downward-causation.md considering trumping-preemption insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/trumping-preemption.md (created 2026-04-22) develops Schaffer's trumping mechanism as the structural template that separates *counterfactual sufficiency* (physical pathway remains complete) from *causal authority* (the mental state is the cause). This is precisely the move that responds to Kim's exclusion argument treated in mental-causation-and-downward-causation.md — but the article currently has zero references to trumping-preemption or Schaffer (grep confirmed). The exclusion-argument treatment is the site's canonical concept page on the topic and should cite the trumping template alongside its existing delegatory-causation / selection-laws framing. Cross-review should (a) add inbound link to concepts/trumping-preemption.md where the exclusion argument is engaged, (b) check whether the "non-overdetermination without epiphenomenalism" move the article already makes can now be sharpened by naming the authority/sufficiency decoupling explicitly, (c) consider whether Saad's preemption-based dualism warrants a short paragraph as an alternative response-strategy alongside the Map's quantum-interface response, (d) verify terminology alignment (trumping-preemption uses "authority," "default causal profile," "meta-level selection rule"; mental-causation-and-downward-causation uses "selection laws," "downward causation" — check for drift), (e) ensure the energy-debt and observational-closure arguments remain consistent with the trumping framing. Log findings even if no edits made. See concepts/trumping-preemption.md.
+- **Source**: chain (from concepts/trumping-preemption.md)
+- **Generated**: 2026-04-22
+
+### P2: Cross-review concepts/conservation-laws-and-mental-causation.md considering trumping-preemption insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/trumping-preemption.md (created 2026-04-22) specifies that trumping preserves the physical pathway's counterfactual sufficiency — the physical effect still has a physical cause that would have produced it — so no energy need be injected from the mental side. This is a fresh angle on the conservation objection that conservation-laws-and-mental-causation.md should engage, but the article currently has zero references to trumping-preemption or Schaffer (grep confirmed). The article's existing two-pronged response (conservation is conditional on symmetries; influence without energy transfer via quantum indeterminacy) addresses the Carroll-style challenge but does not engage the alternative line of defence trumping opens: even if closure holds symmetrically, the trumping relation lets the mental cause do authoritative causal work without requiring any energetic addition. Cross-review should (a) add inbound link to concepts/trumping-preemption.md where the "influence without transfer" argument is developed — trumping is the structural template under which that move becomes intelligible, (b) check whether the article's Stapp/quantum-indeterminacy response can be supplemented (not replaced) by a brief treatment of the trumping-closure compatibility, (c) verify that terminology aligns, (d) consider whether the "no energy debt" section should distinguish the quantum-interface response from the trumping-authority response as two non-competing defences. Log findings even if no edits made. See concepts/trumping-preemption.md.
+- **Source**: chain (from concepts/trumping-preemption.md)
+- **Generated**: 2026-04-22
+
+### P2: Deep-review voids/expertise-and-its-occlusion.md as post-coalesce integration check
+- **Type**: deep-review
+- **Notes**: The 2026-04-22 coalesce (commit 218d18741) merged topics/expertise-void.md and voids/expertise-occlusion.md into this unified article. Post-coalesce the article has 2675 words and 11 sections but has not been deep-reviewed as a unified whole — the prior reviews on the two source articles no longer apply cleanly. Review should (a) verify the merge produced a coherent argument flow rather than a seam-visible concatenation (the source articles had different angles: the topic page framed expertise as producing cognitive voids, the void page framed the occlusion as a specific limit structure — check whether the merged article integrates these framings or switches mid-article), (b) confirm no duplicated passages or inconsistent terminology remain from the merge, (c) check tenet alignment under the unified framing — the new article must connect cleanly to all five tenets in a single voice rather than two overlapping ones, (d) verify that wikilinks in body text all resolve post-merge and that the related_articles frontmatter is deduplicated and comprehensive, (e) check for any claims inherited from one source article that are weakened or strengthened by material from the other source (e.g. does the combined treatment of irreversibility now carry more weight than either source?). Note: a P2 task already exists (line 2490) to update OTHER articles' wikilinks pointing to the archived source slugs — that is a separate concern from this deep-review of the merged article itself. See voids/expertise-and-its-occlusion.md and commit 218d18741.
+- **Source**: coalesce (from commit 218d18741)
+- **Generated**: 2026-04-22
 
 ### P3: Deep review voids/apophatic-cartography.md
 - **Type**: deep-review

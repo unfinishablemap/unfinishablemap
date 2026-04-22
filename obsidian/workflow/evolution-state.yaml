@@ -1,6 +1,10 @@
-last_updated: '2026-04-22T21:37:19.948372+00:00'
-session_count: 6165
-cycle_position: 5793
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-22T22:37:19.949029+00:00'
+session_count: 6166
+cycle_position: 5794
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-22T18:37:19.946835+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-22T10:37:19.942297+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-22T22:38:23.354895+00:00'
+  agentic-social: '2026-04-22T22:37:19.949029+00:00'
 last_git_push: '2026-04-22T20:37:19.947898+00:00'
 last_tweet_date: '2026-04-22'
 content_stats:
@@ -46,11 +50,17 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 405
+  needs_replenishment: false
+  last_replenishment: '2026-04-22T23:39:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    coalesce: 1
 recent_tasks:
-- task: deep-review (obsidian/concepts/temporal-consciousness.md -- Con)
-  type: deep-review
-  date: '2026-04-22'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-22'
@@ -127,9 +137,10 @@ recent_tasks:
   type: deep-review
   date: '2026-04-22'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-attention-to-absence/
-    date: '2026-04-22T22:38:23.354874+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: 'refine-draft (obsidian/concepts/trumping-preemption.md
+
+
+    Task con)'
+  type: refine-draft
+  date: '2026-04-22'
+  outcome: success
