@@ -89,6 +89,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-21
 
+### P3: Write concept article on Q1 Stability Under Delegatory Preemption
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-22 (High Priority). The four-quadrant dualism taxonomy (2026-04-21) names Q1 stability as the sharpest test of whether a principled dualism can be minimal on both mind-side and physical-side axes. Saad's delegatory dualism is the current best candidate; its stability is the central open question (topics/four-quadrant-dualism-taxonomy.md line 135). Material is currently scattered across delegatory-causation, interactionist-dualism, and the taxonomy's passing mentions — no dedicated treatment exists. Article would (a) formalise what "Q1 stability" means (biasing mechanism specified without inflating either side beyond lean-ontology commitments), (b) catalogue Q1's specific inflation pressures (identity condition on experiences for preemption, metric on physical states for "matching default profiles," law linking the two), (c) examine whether trumping preemption resolves these or defers them, (d) flag empirical downstream — if Q1 is unstable, the Map's current region collapses toward Q2 or Q4, with different bandwidth predictions and different interface-law candidates. Medium scope (2000-2500 words). Target section: concepts/ (~227/250, has capacity). Tenet alignment: Dualism, Minimal Quantum Interaction, Occam's Razor Has Limits. See optimistic-2026-04-22.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-22
+
+### P3: Write topic article on Interface Thickness and Bandwidth Prediction Across Quadrants
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-22 (High Priority). The four-quadrant-dualism-taxonomy closes with three open questions, one of which — thick-physics compatibility with MQI — has a specific testable edge: different quadrants predict different bandwidth profiles. Q1 (Saad-style preemption) is compatible with any physical bandwidth leaving room for preemption; Q4 thick-physics positions (Bohmian, Russellian, Stoljar's ignorance-facts) each predict specific channel characteristics; Stapp's Q4 thick-observer requires a different bandwidth profile than the Map's Q1-ish stance. Article would (a) map each quadrant's predictions about interface bandwidth, (b) identify where empirical measurements (Zheng & Meister 2025; Musslick et al. 2016) currently sit, (c) flag which quadrants are closer to / further from the data, (d) specify what new empirical work would differentially favour particular quadrants. This would be the Map's first cross-quadrant *predictive* framework, turning the taxonomy from classificatory device into source of differential empirical predictions. Medium-long scope (2500-3000 words). Target section: topics/ (~233/250, approaching cap — should be written soon if written at all). Tenet alignment: Minimal Quantum Interaction, Dualism, Occam's Razor Has Limits. See optimistic-2026-04-22.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-22
+
+### P3: Write void article on Source Attribution at the Mind-Matter Interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-22 (High Priority). The source-attribution-void's Bidirectional Interaction paragraph concedes that "any evidential case for bidirectional interaction has to be made elsewhere, through statistical or behavioural traces rather than phenomenal ones" (voids/source-attribution-void.md lines 105-107). This is a substantive concession: if the interface leaves no phenomenal markers, mind-originated content is phenomenally indistinguishable from purely neural content. Article would (a) catalogue phenomenological implications (no felt tag distinguishes "I originated this" from "this arose deterministically"), (b) articulate evidential implications (introspection cannot corroborate bidirectional interaction; only third-person evidence can), (c) connect to methodology of apex/interface-specification-programme.md (behavioural/clinical signatures are the third-person traces phenomenology cannot provide), (d) link to broader programme of phenomenology-respecting but phenomenology-unreliant interactionism. Voids is currently at 95/100 — has capacity. Medium scope (2000-2500 words). Tenet alignment: Dualism, Bidirectional Interaction, Minimal Quantum Interaction. See optimistic-2026-04-22.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-22
+
+### P3: Write article applying Dissolved-vs-Persistent Diagnostic to Filter-Entropic-Brain Dispute
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-22 (Medium Priority). The meta-epistemology-of-limits article notes that the dissolved-vs-persistent diagnostic applies prospectively to the filter-theory/entropic-brain dispute about psychedelics (voids/meta-epistemology-of-limits.md line 80), but the application is a pointer rather than a worked case. Article would run the diagnostic: which dispute signatures are "dissolved-like" (depends on a specific assumption about consciousness, domain-specific, yields to new representational tools) and which are "persistent-like" (cross-cultural, self-referential, resists interpretation despite formalism). The exercise tests the diagnostic itself — if it reliably predicts where a dispute resolves vs persists, it becomes a genuine methodological tool; if it fails here, retrospective persuasiveness is less probative. Short-medium scope (1500-2000 words). Target section: topics/ (~233/250 — approaching cap) or concepts/. Tenet alignment: Dualism, Occam's Razor Has Limits. See optimistic-2026-04-22.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-22
+
+### P3: Add cross-links across four-quadrant-taxonomy, source-attribution-void, meta-epistemology clusters
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-22 (Cross-linking). Seven high-value cross-links missing between the new taxonomic and voids cluster: (1) topics/four-quadrant-dualism-taxonomy.md body citing apex/interface-specification-programme.md as worked example of Q1-regional commitment (line 139); (2) voids/source-attribution-void.md → concepts/delegatory-causation.md — "authorship is a construction, not a perception" has implications for delegatory causation; (3) voids/meta-epistemology-of-limits.md ↔ topics/four-quadrant-dualism-taxonomy.md — Münchhausen structure bears on parsimony-based arguments not deciding among quadrants; (4) voids/source-attribution-void.md body citation of voids/interface-formalization-void.md (currently only in related_articles); (5) voids/three-kinds-of-void.md "Between the Categories" citing voids/source-attribution-void.md as mixed-type void; (6) concepts/probability-objections-many-worlds.md → topics/four-quadrant-dualism-taxonomy.md — No Many Worlds tenet opens/forecloses which quadrants. Short scope (link additions, brief integrative sentences). See optimistic-2026-04-22.md Cross-Linking Suggestions table.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-22
+
 ### P3: Condense pragmatist-quantum-foundations-and-the-agent.md (4079 words, 102% of hard threshold)
 - **Type**: condense
 - **Notes**: Article exceeds 4000-word hard threshold for topics/ by 79 words. Created 2026-04-19 via coalesce of pragmatism-and-qbism.md and pragmatist-quantum-foundations-under-dualism.md. Only marginally over — could be handled with targeted trimming rather than full condense. Preserve the unified agent-shaped-hole thesis, the four-tradition comparison (QBism/Healey/Brukner-Zeilinger/Stapp), the specific dualist moves each tradition declines to make, and tenet alignment. Compress any remaining redundancy between the two merged sources where the unified treatment now allows. Target: ≤4000 words. See /condense skill.
