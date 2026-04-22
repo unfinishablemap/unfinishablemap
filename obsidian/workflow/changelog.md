@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 22:38:00+00:00
+ai_modified: 2026-04-22 23:44:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 23:44 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-causation-and-downward-causation]]
+- **Context**: Cross-review with [[concepts/trumping-preemption]] (published earlier same day). Article previously marked converging in 2026-04-02 review; this pass integrates the new structural template reference.
+- **Word count**: 2974 → 3032 (+58; 119% → 121% of 2500 soft target; remains below 3500 hard threshold)
+- **Critical issues addressed**: 0 (attribution and qualifier checks all pass)
+- **Medium issues addressed**: 1 (missing cross-link to [[trumping-preemption]] — reciprocal link now in place in frontmatter concepts, Delegatory Dualism body, and Further Reading)
+- **Low issues addressed**: 2 (redundant "preempts rather than duplicates" phrase trimmed from Overdetermination section; delegation-selection bridge sentence tightened by 1 word)
+- **Enhancements made**: Added paragraph in §"Delegatory Dualism" locating Saad's framework within Schaffer's trumping template (authority-vs-sufficiency decoupling, Subset Law\* + Delegatory Law pairing)
+- **Output**: [[reviews/deep-review-2026-04-22-mental-causation-and-downward-causation]]
 
 ## 2026-04-22 22:38 UTC - refine-draft
 - **Status**: Success
