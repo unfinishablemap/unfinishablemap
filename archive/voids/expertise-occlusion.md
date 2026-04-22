@@ -31,6 +31,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-27
 last_curated:
 last_deep_review: 2026-03-28T01:23:00+00:00
+archived: true
+archived_date: 2026-04-22T10:43:00+00:00
+superseded_by: "/voids/expertise-and-its-occlusion/"
+archive_reason: "Coalesced into The Expertise Void, combining transformation and active occlusion"
+original_path: "/voids/expertise-occlusion/"
 ---
 
 Consciousness builds expert skill and is then actively excluded from inspecting what it built. The Unfinishable Map calls this the expertise occlusion: a cognitive void where the acquisition of mastery structurally prevents the master from observing, recovering, or articulating the processes that mastery comprises. Unlike voids at the edges of cognition—limits we approach but never reach—the expertise occlusion is a void that consciousness creates inside itself, through the very activity of learning.

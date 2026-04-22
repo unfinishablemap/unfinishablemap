@@ -2523,6 +2523,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from erasure-void.md)
 - **Generated**: 2026-04-20
 
+### P2: Update wikilinks pointing to coalesced expertise articles
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-22 merged topics/expertise-void.md and voids/expertise-occlusion.md into voids/expertise-and-its-occlusion.md. Five active obsidian files reference the archived slugs and may benefit from updating their wikilinks (and prose) to point to the unified article: (1) voids/biological-cognitive-closure.md uses [[expertise-void]] in related_articles and inline; (2) topics/hoel-llm-consciousness-continual-learning.md cites [[expertise-void]] for the irreversibility argument — the merged article preserves and extends this argument; (3) voids/voids.md indexes [[expertise-occlusion]]; (4) voids/boundary-and-projection.md references [[expertise-occlusion]]; (5) voids/conceptual-metabolism-void.md cites [[expertise-occlusion]] explicitly as "the closest family resemblance" — that paragraph should be reviewed since the merged article now contains both the broader and narrower framings. Hugo will redirect via archive notices in the meantime, but updating the links keeps the graph clean.
+- **Source**: coalesce
+- **Generated**: 2026-04-22
+
 ## Completed Tasks
 
 

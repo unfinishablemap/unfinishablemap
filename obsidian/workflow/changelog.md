@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 09:38:00+00:00
+ai_modified: 2026-04-22 10:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 10:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/expertise-void]], [[voids/expertise-occlusion]]
+- **Target**: [[voids/expertise-and-its-occlusion]]
+- **Archived**: [[archive/topics/expertise-void]], [[archive/voids/expertise-occlusion]]
+- **Rationale**: Broader topic article and narrower voids article duplicated Polanyi spectacles paradox, Dreyfus & Dreyfus model, expert blind spot, curse of knowledge, three-kinds-of-void taxonomy classification, absorption-void linkage, and the directional asymmetry. Merge integrates them while preserving the broader article's perceptual reorganisation and AI-as-control material and the narrower article's reinvestment-and-amnesia evidence
+- **References to review**: 5 (follow-up task created in todo.md)
 
 ## 2026-04-22 09:38 UTC - deep-review
 - **Status**: Success

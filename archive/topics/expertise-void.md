@@ -31,6 +31,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-05
 last_curated:
 last_deep_review: 2026-03-27T21:32:00+00:00
+archived: true
+archived_date: 2026-04-22T10:43:00+00:00
+superseded_by: "/voids/expertise-and-its-occlusion/"
+archive_reason: "Coalesced into The Expertise Void, combining transformation and active occlusion"
+original_path: "/topics/expertise-void/"
 ---
 
 Deep expertise irreversibly transforms conscious experience. The chess grandmaster cannot see the board as a beginner does. The fluent speaker cannot hear their second language as unintelligible sound. The surgeon cannot perceive the operative field as a layperson's confusion. Each domain of mastery closes a door that cannot be reopened—not through effort, not through imagination, not through deliberate attempts to "unsee." The Unfinishable Map calls this the expertise void: a structured cognitive limit where the acquisition of skill permanently occludes the phenomenology it replaces.
