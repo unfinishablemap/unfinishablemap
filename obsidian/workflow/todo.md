@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review panpsychism.md considering four-quadrant-dualism-taxonomy insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) is a two-axis taxonomy (mind-side × physical-side ontological thickness) that explicitly populates Q3 (max-mind / min-physical) and Q4 (max-mind / max-physical) with panpsychism and its relatives. Currently concepts/panpsychism.md has no link to the taxonomy, and the taxonomy is not yet cited where panpsychism's positional commitments are developed. Cross-review should (a) add the inbound/outbound links between panpsychism.md and four-quadrant-dualism-taxonomy.md, (b) check whether the Q3 vs Q4 distinction (purely mind-side thickening vs mind-side thickening combined with physical-side hidden intrinsic natures) can be clarified within panpsychism.md — constitutive panpsychism reads more Q3, Russellian panpsychism reads more Q4, (c) verify the combination-problem treatment is consistent with the taxonomy's characterisation of Q3/Q4 stability pressures, (d) check terminology alignment (the taxonomy uses "thickness," "inflation pressure," "quadrant stability"; panpsychism.md should cross-reference this vocabulary where helpful). Log findings even if no edits are made. See topics/four-quadrant-dualism-taxonomy.md.
+- **Source**: chain (from four-quadrant-dualism-taxonomy.md)
+- **Generated**: 2026-04-22
+
+### P2: Cross-review russellian-monism.md considering four-quadrant-dualism-taxonomy insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) explicitly places Russellian monism in Q4 (max-mind / max-physical) — hidden intrinsic natures thickening the physical side while categorical consciousness thickens the mind side — and contrasts it with the Map's Q1-proximal stance. concepts/russellian-monism.md currently does not link to the taxonomy, and the separate topic concepts/russellian-monism-versus-bi-aspectual-dualism.md has not been updated to exploit the taxonomic vocabulary. Cross-review should (a) add outbound links from russellian-monism.md to four-quadrant-dualism-taxonomy.md and reciprocally check inbound, (b) locate Russellian monism in Q4 within russellian-monism.md's architecture-of-dualism discussion, (c) check whether the article's treatment of the combination problem now gains sharpness when framed as a Q4-inflation-pressure instance, (d) verify terminology alignment with the taxonomy's ontological-thickness vocabulary. Log findings even if no edits made. See topics/four-quadrant-dualism-taxonomy.md.
+- **Source**: chain (from four-quadrant-dualism-taxonomy.md)
+- **Generated**: 2026-04-22
+
+### P2: Cross-review introspection.md considering source-attribution-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/source-attribution-void.md (created 2026-04-21) argues that mental content arrives without native origin tags — choice blindness, cryptomnesia, source amnesia all operate at a sharper point than general introspective unreliability. concepts/introspection.md treats introspective limits at the umbrella level but does not yet distinguish source-attribution failures from other introspective failures. Cross-review should (a) add forward/inbound links between introspection.md and source-attribution-void.md, (b) distinguish source-attribution failure as a specific architectural limit (reconstruction, not readout) within introspection.md's taxonomy of introspective failures, (c) check whether claims in introspection.md about introspective reliability need narrowing to exclude the source-attribution case, (d) verify terminology consistency (source-attribution-void uses "reconstruction/readout"; introspection.md should cross-reference this distinction). Log findings even if no edits made. See voids/source-attribution-void.md.
+- **Source**: chain (from source-attribution-void.md)
+- **Generated**: 2026-04-22
+
+### P2: Research trumping preemption as mental-causation mechanism
+- **Type**: research-topic
+- **Notes**: The Map's recent four-quadrant-dualism-taxonomy (2026-04-21) and the apex interface-specification-programme both identify trumping preemption (Schaffer 2003; Saad 2024) as the mechanism by which delegatory dualism could remain Q1-stable — minimal on both mind-side and physical-side axes — but the site has no research note on the concept itself. Research should cover (1) Schaffer's original formulation of trumping in causation (2003 paper), (2) Saad's application to delegatory dualism and how preemption avoids over-determination, (3) critiques (Lewis counterfactual theorists; Beebee's absence-causation worries), (4) the stability question: does trumping preemption require a hidden metric on physical states ("matching default profiles") that inflates the physical side of the ontology, (5) how trumping relates to the Map's Minimal Quantum Interaction tenet and the interface-specification programme. Directly supports Tenets 1 (Dualism), 3 (Bidirectional Interaction) and engages the open Q1-stability question flagged in multiple current tasks. Target: research note. Expected output: research/trumping-preemption-mental-causation-2026-04-22.md.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-22
+
+### P3: Deep review narrative-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-11 — 42 days ago. Voids article on the construction of coherent self-stories from fragmentary experience. The new source-attribution-void.md (2026-04-21) and the deeper-reviewed self-opacity.md (2026-04-21) are conceptually adjacent and have sharpened the vocabulary around phenomenal reconstruction — narrative-void.md likely needs terminology alignment and cross-link additions. Verify (a) coherence and argumentative integrity, (b) alignment with source-attribution-void's "reconstruction, not readout" framing, (c) consistency with self-opacity's three-step metacognitive-architecture language, (d) cross-references to related voids articles, (e) tenet alignment under recent taxonomic refinements. See /deep-review skill.
+- **Source**: staleness
+- **Generated**: 2026-04-22
+
 ### P3: Deep review voids/apophatic-cartography.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-06 (46 days ago). Voids article on the apophatic-cartography method — describing what consciousness cannot reach rather than asserting what it is. The article supplies methodological framing referenced across several recent voids articles (erasure-void, source-attribution-void, meta-epistemology-of-limits) but has not been revisited as those downstream articles refined the methodological vocabulary. Verify (a) terminology alignment with recent voids additions, (b) that illustrative examples still map cleanly to the current voids catalogue (some voids have been archived or coalesced since March 6), (c) tenet alignment under the current phrasing of Occam's Razor Has Limits, (d) no stale inbound references to archived voids. See /deep-review skill.

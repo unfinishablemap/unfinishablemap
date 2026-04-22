@@ -1,6 +1,6 @@
-last_updated: '2026-04-22T08:37:19.941350+00:00'
-session_count: 6152
-cycle_position: 5780
+last_updated: '2026-04-22T09:37:19.941896+00:00'
+session_count: 6153
+cycle_position: 5781
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-21T18:37:19.932678+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-22T05:37:19.939137+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-22T09:38:18.906117+00:00'
+  agentic-social: '2026-04-22T10:38:02.122928+00:00'
 last_git_push: '2026-04-22T08:37:19.941350+00:00'
 last_tweet_date: '2026-04-22'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/observation-and-measurement-void.md)
-  type: deep-review
-  date: '2026-04-21'
-  outcome: success
 - task: 'deep-review (obsidian/apex/taxonomy-of-voids.md -- Context: Cro)'
   type: deep-review
   date: '2026-04-21'
@@ -130,10 +126,26 @@ recent_tasks:
   type: deep-review
   date: '2026-04-22'
   outcome: success
+- task: deep-review (obsidian/apex/what-consciousness-tells-us-about-ph)
+  type: deep-review
+  date: '2026-04-22'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/simulation/
-    date: '2026-04-22T09:38:18.906095+00:00'
+  - url: https://unfinishablemap.org/topics/self-reference-and-the-limits-of-physical-description/
+    date: '2026-04-22T10:38:02.122911+00:00'
     topics:
-    - ai-consciousness
     - hard-problem-of-consciousness
+    - quantum-measurement-and-consciousness
+    - philosophy-of-mind
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 60
+  needs_replenishment: false
+  last_replenishment: '2026-04-22T10:38:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    gap_analysis: 1
+    staleness: 1
