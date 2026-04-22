@@ -1,10 +1,11 @@
 ---
 title: "Trumping Preemption"
-description: "Schaffer's fourth species of redundant causation, where one of two sufficient processes is selected as authoritative by a higher-order law — a structural template the Map treats as a route to dualist mental causation that preserves observable physical closure."
+description: "Schaffer decouples causal authority from sufficiency; the Map treats this as a structural template for dualist mental causation preserving observable closure."
 created: 2026-04-22
 modified: 2026-04-22
 human_modified: null
-ai_modified: 2026-04-22T17:45:00+00:00
+ai_modified: 2026-04-22T21:38:00+00:00
+last_deep_review: 2026-04-22T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -58,7 +59,7 @@ The exclusion problem in its canonical Kimian form (Kim 1998) turns on physical 
 
 Trumping supplies a third option. If a psychophysical law selects the experience as authoritative — while leaving the physical base counterfactually sufficient — then the experience can be *the* cause without the base becoming inert and without duplicate causation. The physical base is not cut off; it is not epiphenomenal either; it is simply not the authoritative cause when an experience with the matching causal profile is present.
 
-Bradford Saad (2024, 2025) has developed the most explicit version of this strategy. Saad's "preemptive dualism" (Saad 2024) treats experiences as preempting their accompanying physical states from causing downstream effects; his "delegatory dualism" (Saad 2025) pairs a *Subset Law\** — an experience instantiates when its causal profile matches the default causal profile of the physical state — with a *Delegatory Law*: matched-profile experiences cause instead of their physical bases. Saad argues that only unobservable violations of physical closure occur; observable closure is preserved. The trumping structure is what makes this coherent: both levels remain sufficient, but only one is authoritative.
+Bradford Saad (2024, 2025) has developed the most explicit version of this strategy. Saad (2024) develops mental causation for standard dualists via preemption: experiences preempt their accompanying physical states from causing downstream effects. His "delegatory dualism" (Saad 2025) refines this with a *Subset Law\** — an experience instantiates when its causal profile matches the default causal profile of the physical state — paired with a *Delegatory Law*: matched-profile experiences cause instead of their physical bases. Saad argues that only unobservable violations of physical closure occur; observable closure is preserved. The trumping structure is what makes this coherent: both levels remain sufficient, but only one is authoritative.
 
 The Map's article on [[delegatory-causation]] treats Saad's framework as one developed application of the broader trumping template. This article treats the template itself.
 
@@ -89,6 +90,7 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 - [[psychophysical-laws]]
 - [[conservation-laws-and-mental-causation]]
 - [[epiphenomenalism]]
+- [[four-quadrant-dualism-taxonomy]]
 - [[tenets]]
 
 ## References
