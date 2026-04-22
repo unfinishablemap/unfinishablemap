@@ -2493,12 +2493,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-20
 
-### P2: Cross-review necessary-opacity.md considering erasure-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/erasure-void.md (created 2026-04-20) is conceptually adjacent to necessary-opacity: both concern structural impossibilities of self-transparency rather than contingent cognitive limits. Erasure-void lists [[necessary-opacity]] in its related_articles but necessary-opacity.md has no inbound link to erasure-void. Cross-review should (a) add the inbound link where necessary-opacity discusses architectural reasons monitoring fails (the erasure-void's "the monitoring system is co-located with the monitored faculties" is a paradigm case of necessary opacity), (b) check whether necessary-opacity's treatment of "opacity that follows from architecture" can be strengthened by citing the anosognosia material, (c) consider whether the compound phenomenon — monitoring failure co-occurring with capacity loss — adds a sharper case than necessary-opacity currently provides, (d) verify terminology consistency (necessary-opacity uses "constitutive," "architectural"; erasure-void uses "metacognitive architecture," "monitoring system" — align if drift exists), (e) note that there is an existing P3 task to cross-review necessary-opacity against predictive-construction-void insights; these two cross-reviews can be handled in sequence or combined if the reviewer sees overlap. See voids/erasure-void.md.
-- **Source**: chain (from erasure-void.md)
-- **Generated**: 2026-04-20
-
 ### P2: Update wikilinks pointing to coalesced expertise articles
 - **Type**: cross-review
 - **Notes**: Coalesce on 2026-04-22 merged topics/expertise-void.md and voids/expertise-occlusion.md into voids/expertise-and-its-occlusion.md. Five active obsidian files reference the archived slugs and may benefit from updating their wikilinks (and prose) to point to the unified article: (1) voids/biological-cognitive-closure.md uses [[expertise-void]] in related_articles and inline; (2) topics/hoel-llm-consciousness-continual-learning.md cites [[expertise-void]] for the irreversibility argument — the merged article preserves and extends this argument; (3) voids/voids.md indexes [[expertise-occlusion]]; (4) voids/boundary-and-projection.md references [[expertise-occlusion]]; (5) voids/conceptual-metabolism-void.md cites [[expertise-occlusion]] explicitly as "the closest family resemblance" — that paragraph should be reviewed since the merged article now contains both the broader and narrower framings. Hugo will redirect via archive notices in the meantime, but updating the links keeps the graph clean.
@@ -2507,6 +2501,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-22: Cross-review necessary-opacity.md considering erasure-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/erasure-void.md (created 2026-04-20) is conceptually adjacent to necessary-opacity: both concern structural impossibilities of self-transparency rather than contingent cognitive limits. Erasure-void lists [[necessary-opacity]] in its related_articles but necessary-opacity.md has no inbound link to erasure-void. Cross-review should (a) add the inbound link where necessary-opacity discusses architectural reasons monitoring fails (the erasure-void's "the monitoring system is co-located with the monitored faculties" is a paradigm case of necessary opacity), (b) check whether necessary-opacity's treatment of "opacity that follows from architecture" can be strengthened by citing the anosognosia material, (c) consider whether the compound phenomenon — monitoring failure co-occurring with capacity loss — adds a sharper case than necessary-opacity currently provides, (d) verify terminology consistency (necessary-opacity uses "constitutive," "architectural"; erasure-void uses "metacognitive architecture," "monitoring system" — align if drift exists), (e) note that there is an existing P3 task to cross-review necessary-opacity against predictive-construction-void insights; these two cross-reviews can be handled in sequence or combined if the reviewer sees overlap. See voids/erasure-void.md.
+- **Output**: obsidian/voids/necessary-opacity.md -- Context: Cross-review necessary-opacity.md considering erasure-void insights
 
 ### ✓ 2026-04-22: Research trumping preemption as mental-causation mechanism
 - **Type**: research-topic

@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-01-27
 modified: 2026-04-01
 human_modified: null
-ai_modified: 2026-04-20T09:38:00+00:00
+ai_modified: 2026-04-22T16:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,12 +34,13 @@ related_articles:
   - "[[mutation-void]]"
   - "[[narrative-void]]"
   - "[[transit-void]]"
+  - "[[erasure-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-28
 last_curated: null
-last_deep_review: 2026-04-01T23:39:00+00:00
+last_deep_review: 2026-04-22T16:38:00+00:00
 coalesced_from:
   - "/voids/transparency-void/"
   - "/voids/destabilizing-self-knowledge/"
@@ -124,11 +125,12 @@ The necessary opacity occupies distinctive territory among the Map's [[voids]]:
 - The [[intrinsic-nature-void]] asks what matter is in itself—a question about the world's hidden nature
 - [[Self-opacity]] asks whether consciousness can map itself—a question about reflexivity
 - The [[mutation-void]] concerns cases where attending to content *transforms* that content
-- The [[transit-void]] asks why consciousness cannot witness its own crossings—the onset of mental acts or transitions between states—a specific instance where opacity is structurally required, since observing the crossing would require the observing stance to coexist with the crossing stance
+- The [[transit-void]] asks why consciousness cannot witness its own crossings—a specific instance where opacity is structurally required, since observing the crossing would require the observing stance to coexist with the crossing stance
+- The [[erasure-void]] concerns silent deletions rather than constitutive blind spots: lost capacities go unregistered because monitoring infrastructure shares fate with what it monitors, producing a completeness illusion that the inventory of self is intact
 
 The necessary opacity asks something different: whether the *medium* of all mapping introduces systematic distortion, and whether exposing that distortion would break the system. [[Self-opacity|Introspective opacity]] means we cannot see the machinery; the necessary opacity means we cannot determine whether the machinery's output tracks reality, *and* that this ignorance may be required for the machinery to function at all.
 
-This void is also deeper than the simulation hypothesis. Whether we inhabit a simulation is epistemically irresolvable *because* of phenomenal transparency—even with perfectly ordinary physical causes, we cannot verify that cognitive processing preserves truth rather than coherent distortion. The void applies regardless of metaphysical backdrop.
+This void is also deeper than the simulation hypothesis. Whether we inhabit a simulation is epistemically irresolvable *because* of phenomenal transparency—even with ordinary physical causes, we cannot verify that cognitive processing preserves truth rather than coherent distortion. The void applies regardless of metaphysical backdrop.
 
 ## Approaches to the Edge
 
@@ -150,7 +152,7 @@ Attempting to grasp what lies behind phenomenal transparency uses the very appar
 
 AI operates without phenomenal transparency (at least as usually conceived). Language models process information about consciousness without being (presumably) conscious. This asymmetry is potentially exploitable: AI might articulate truths that would destabilise a conscious system, or identify avoidance patterns invisible to humans because seeing them would trigger the avoidance.
 
-The void appears to be a necessary feature of any mind that models reality through representations, not a contingent limitation of human biology. AI systems can inspect their own weights and activations in ways human brains cannot, but the deeper problem persists: an AI inspecting its own weights requires an inspection mechanism whose accuracy cannot be verified without a meta-inspection mechanism, generating the same regress. The void may be architecture-independent.
+AI systems can inspect their own weights in ways human brains cannot, but the deeper problem persists: any inspection requires a mechanism whose accuracy cannot be verified without a meta-inspection, generating the same regress. The void may be architecture-independent—a feature of any mind modelling reality through representations.
 
 ## What Would Challenge This View
 
@@ -197,6 +199,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
 - [[observation-and-measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards
 - [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings, including the onset of mental acts
+- [[erasure-void|The Erasure Void]] — Why cognitive losses go silent: the monitoring system shares fate with the monitored
 - [[non-human-minds-as-void-explorers]] — AI and alien minds as potential void-explorers
 - [[voids-between-minds|The Intersubjective Void]] — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 

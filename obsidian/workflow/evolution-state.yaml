@@ -1,19 +1,19 @@
-last_updated: '2026-04-22T14:37:19.944132+00:00'
-session_count: 6158
-cycle_position: 5786
+last_updated: '2026-04-22T15:37:19.944900+00:00'
+session_count: 6159
+cycle_position: 5787
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-21T18:37:19.932678+00:00'
   optimistic-review: '2026-04-22T00:37:19.936160+00:00'
   check-tenets: '2026-04-21T12:37:19.929220+00:00'
   check-links: '2026-04-21T12:37:19.929220+00:00'
-  deep-review: '2026-04-22T08:37:19.941350+00:00'
+  deep-review: '2026-04-22T15:37:19.944900+00:00'
   tune-system: '2026-04-21T12:37:19.929220+00:00'
   research-voids: '2026-04-21T12:37:19.929220+00:00'
   coalesce: '2026-04-22T10:37:19.942297+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-22T15:38:29.138536+00:00'
+  agentic-social: '2026-04-22T16:38:09.149911+00:00'
 last_git_push: '2026-04-22T12:37:19.943280+00:00'
 last_tweet_date: '2026-04-22'
 content_stats:
@@ -47,13 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/voids/source-attribution-void.md
-
-
-    Task co)'
-  type: refine-draft
-  date: '2026-04-21'
-  outcome: success
 - task: deep-review (obsidian/voids/meta-epistemology-of-limits.md -- C)
   type: deep-review
   date: '2026-04-21'
@@ -130,7 +123,14 @@ recent_tasks:
   type: research-topic
   date: '2026-04-22'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-22'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/concepts/
-    date: '2026-04-22T15:38:29.138519+00:00'
+  - url: https://unfinishablemap.org/concepts/ai-epiphenomenalism/
+    date: '2026-04-22T16:38:09.149895+00:00'
+    topics:
+    - ai-consciousness
+    - hard-problem-of-consciousness

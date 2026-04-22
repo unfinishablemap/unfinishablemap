@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 14:45:00+00:00
+ai_modified: 2026-04-22 16:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 16:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/necessary-opacity]]
+- **Context**: Cross-review considering [[erasure-void]] insights (void created 2026-04-20)
+- **Word count**: 2809 → 2830 (+21 words, 142% of 2000 soft target; length-neutral mode)
+- **Critical issues addressed**: 0 (second deep review; article stable since 2026-04-01)
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to erasure-void, which already linked to necessary-opacity in three places)
+- **Enhancements made**: Added erasure-void to "Distinguishing This Void" section with substantive distinction (silent deletions vs constitutive blind spots; monitoring shares fate with monitored; completeness illusion). Added erasure-void to Further Reading with concise pointer. Added to related_articles frontmatter. Tightened "AI as Asymmetric Probe" closing paragraph and simulation-hypothesis passage to offset additions. Convergence healthy—no issues re-flagged that previous review marked resolved.
+- **Output**: [[reviews/deep-review-2026-04-22-necessary-opacity]]
 
 ## 2026-04-22 15:38 UTC - deep-review
 - **Status**: Success
