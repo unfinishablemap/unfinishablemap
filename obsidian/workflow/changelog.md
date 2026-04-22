@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 13:38:00+00:00
+ai_modified: 2026-04-22 14:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 14:45 UTC - research-topic
+- **Status**: Success
+- **Topic**: Trumping preemption as mental-causation mechanism
+- **Output**: [[research/trumping-preemption-mental-causation-2026-04-22]]
+- **Sources consulted**: 18 (SEP Counterfactual Theories, SEP Mental Causation, SEP Metaphysics of Causation, IEP Mind and Causal Exclusion, Schaffer 2000 Trumping Preemption, Schaffer 2005 Contrastive Causation, Lewis 2000 Causation as Influence, Hitchcock 2011, Bernstein 2014 and 2016, Saad 2024 Mental Causation for Standard Dualists, Saad 2025 A Dualist Theory of Experience, Mills 1996, Lowe 2003, Kim 1998, Bennett on mental causation, Thomasson nonreductivist solution, Lewis 1973)
 
 ## 2026-04-22 13:38 UTC - deep-review
 - **Status**: Success

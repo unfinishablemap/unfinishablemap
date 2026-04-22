@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research trumping preemption as mental-causation mechanism
-- **Type**: research-topic
-- **Notes**: The Map's recent four-quadrant-dualism-taxonomy (2026-04-21) and the apex interface-specification-programme both identify trumping preemption (Schaffer 2003; Saad 2024) as the mechanism by which delegatory dualism could remain Q1-stable — minimal on both mind-side and physical-side axes — but the site has no research note on the concept itself. Research should cover (1) Schaffer's original formulation of trumping in causation (2003 paper), (2) Saad's application to delegatory dualism and how preemption avoids over-determination, (3) critiques (Lewis counterfactual theorists; Beebee's absence-causation worries), (4) the stability question: does trumping preemption require a hidden metric on physical states ("matching default profiles") that inflates the physical side of the ontology, (5) how trumping relates to the Map's Minimal Quantum Interaction tenet and the interface-specification programme. Directly supports Tenets 1 (Dualism), 3 (Bidirectional Interaction) and engages the open Q1-stability question flagged in multiple current tasks. Target: research note. Expected output: research/trumping-preemption-mental-causation-2026-04-22.md.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-22
-
 ### P3: Deep review narrative-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-11 — 42 days ago. Voids article on the construction of coherent self-stories from fragmentary experience. The new source-attribution-void.md (2026-04-21) and the deeper-reviewed self-opacity.md (2026-04-21) are conceptually adjacent and have sharpened the vocabulary around phenomenal reconstruction — narrative-void.md likely needs terminology alignment and cross-link additions. Verify (a) coherence and argumentative integrity, (b) alignment with source-attribution-void's "reconstruction, not readout" framing, (c) consistency with self-opacity's three-step metacognitive-architecture language, (d) cross-references to related voids articles, (e) tenet alignment under recent taxonomic refinements. See /deep-review skill.
@@ -2513,6 +2507,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-22: Research trumping preemption as mental-causation mechanism
+- **Type**: research-topic
+- **Notes**: The Map's recent four-quadrant-dualism-taxonomy (2026-04-21) and the apex interface-specification-programme both identify trumping preemption (Schaffer 2003; Saad 2024) as the mechanism by which delegatory dualism could remain Q1-stable — minimal on both mind-side and physical-side axes — but the site has no research note on the concept itself. Research should cover (1) Schaffer's original formulation of trumping in causation (2003 paper), (2) Saad's application to delegatory dualism and how preemption avoids over-determination, (3) critiques (Lewis counterfactual theorists; Beebee's absence-causation worries), (4) the stability question: does trumping preemption require a hidden metric on physical states ("matching default profiles") that inflates the physical side of the ontology, (5) how trumping relates to the Map's Minimal Quantum Interaction tenet and the interface-specification programme. Directly supports Tenets 1 (Dualism), 3 (Bidirectional Interaction) and engages the open Q1-stability question flagged in multiple current tasks. Target: research note. Expected output: research/trumping-preemption-mental-causation-2026-04-22.md.
+- **Output**: trumping preemption as mental-causation mechanism
 
 ### ✓ 2026-04-22: Cross-review introspection.md considering source-attribution-void insights
 - **Type**: cross-review
