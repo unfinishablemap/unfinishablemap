@@ -4,7 +4,7 @@ description: "Born probabilities describe the consciousness-quantum interface: n
 created: 2026-01-23
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-04-07T11:52:00+00:00
+ai_modified: 2026-04-22T03:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated:
-last_deep_review: 2026-03-19T00:51:00+00:00
+last_deep_review: 2026-04-22T03:46:00+00:00
 coalesced_from:
   - "/concepts/quantum-probability-and-consciousness/"
   - "/concepts/subjective-probability-quantum-measurement/"
@@ -234,6 +234,8 @@ The question of quantum probability's nature connects to all five tenets:
 18. Hagan, S., Hameroff, S. R., & Tuszyński, J. A. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65(6), 061901.
 
 19. Von Neumann, J. (1932). *Mathematische Grundlagen der Quantenmechanik*. Springer.
+
+20. Torres Alegre, E. O. (2025). "Causal Consistency Selects the Born Rule." arXiv:2512.12636.
 
 <!-- AI REFINEMENT LOG - 2026-03-15
 Changes made:

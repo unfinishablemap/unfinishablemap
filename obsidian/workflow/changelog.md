@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 02:39:00+00:00
+ai_modified: 2026-04-22 03:46:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 03:46 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/quantum-probability-consciousness]]
+- **Context**: 6th review; triggered by five cross-link integrations from other deep-reviews since 2026-03-19 (indexical-knowledge, wheelers-participatory-universe, born-rule-and-consciousness-interface, conservation-laws-and-mental-causation, born-rule-interpretation-invariance)
+- **Word count**: 2631 → 2644 (+13)
+- **Critical issues addressed**: 1 (Torres Alegre 2025 cited in-text but missing from References — added reference 20)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added Torres Alegre reference entry)
+- **Stability**: 6th review confirms continued stability. All bedrock disagreements (eliminativism, functionalism, MWI, mysterianism) already acknowledged in-article
+- **Output**: [[reviews/deep-review-2026-04-22-quantum-probability-consciousness]]
 
 ## 2026-04-22 02:39 UTC - deep-review
 - **Status**: Success
