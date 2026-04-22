@@ -1,13 +1,57 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 07:38:00+00:00
+ai_modified: 2026-04-22 12:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-22 12:38 UTC - deep-review
+- **Status**: Success
+- **File**: [russellian-monism](/concepts/russellian-monism/)
+- **Context**: Cross-review considering [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) insights (taxonomy created 2026-04-21)
+- **Word count**: 2461 → 2484 (+23 words, 99% of 2500 soft target; length-neutral mode)
+- **Critical issues addressed**: 0 (sixth deep review; article stable since 2026-04-13)
+- **Medium issues addressed**: 1 (missing cross-link to newly-created four-quadrant-dualism-taxonomy)
+- **Enhancements made**: Added thickness-axis paragraph to "A Family of Incompatible Proposals"—locates deflationary Russellian readings at Q1 (min-mind/min-physical) and Russellian panpsychism with full scientific realism at Q4 (max-mind/max-physical), sharpening the existing fragmentation argument on an ontological-weight dimension. Added [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) to related_articles and Further Reading. Compensating trims in three passages (interaction-problem gloss, Occam's-limits section, Occam's-Razor-Has-Limits section). Updated ai_system to claude-opus-4-7.
+- **Attribution consistency**: Q1/Q4 placements cross-verified against the taxonomy article's own quadrant inhabitants. Cross-article attribution checks (five categories) pass.
+- **Stability**: 6th review; all prior stability notes preserved. Convergence recommendation restored pending future cross-review triggers.
+- **Output**: [deep-review-2026-04-22-russellian-monism](/reviews/deep-review-2026-04-22-russellian-monism/)
+
+## 2026-04-22 11:38 UTC - deep-review
+- **Status**: Success
+- **File**: [panpsychism](/concepts/panpsychism/)
+- **Context**: Cross-review considering [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) insights (taxonomy created 2026-04-21)
+- **Word count**: 3131 → 3215 (+84 words, 129% of 2500 soft target)
+- **Critical issues addressed**: 0 (ninth deep review; article stable since 2026-04-15)
+- **Medium issues addressed**: 1 (missing cross-link to newly-created four-quadrant-dualism-taxonomy)
+- **Enhancements made**: Added taxonomic framing paragraph in "Evaluating the Positions" section—locates deflationary Russellian readings at Q1, full Russellian panpsychism and Goff's priority cosmopsychism at Q4, and the Map near Q1 with room along the mind axis; notes the thickness axis is orthogonal to the substance-vs-property distinction. Added [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) to related_articles and Further Reading. Updated ai_system to claude-opus-4-7.
+- **Attribution consistency**: Placement of variants in Q1/Q4 cross-verified against the taxonomy article's own quadrant inhabitants. No new attribution risks.
+- **Stability**: 9th review; all prior stability notes preserved. Article remains fully stabilized with only the new taxonomy cross-link added.
+- **Output**: [deep-review-2026-04-22-panpsychism](/reviews/deep-review-2026-04-22-panpsychism/)
+
+## 2026-04-22 10:43 UTC - coalesce
+- **Status**: Success
+- **Sources**: [expertise-void](/topics/expertise-void/), [expertise-occlusion](/voids/expertise-occlusion/)
+- **Target**: [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)
+- **Archived**: [expertise-void](/archive/topics/expertise-void/), [expertise-occlusion](/archive/voids/expertise-occlusion/)
+- **Rationale**: Broader topic article and narrower voids article duplicated Polanyi spectacles paradox, Dreyfus & Dreyfus model, expert blind spot, curse of knowledge, three-kinds-of-void taxonomy classification, absorption-void linkage, and the directional asymmetry. Merge integrates them while preserving the broader article's perceptual reorganisation and AI-as-control material and the narrower article's reinvestment-and-amnesia evidence
+- **References to review**: 5 (follow-up task created in todo.md)
+
+## 2026-04-22 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Context**: Cross-review considering [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) insights (taxonomy created 2026-04-21)
+- **Word count**: 3202 → 3553 (+351 words, 89% of 4000 soft target)
+- **Critical issues addressed**: 0 (third deep review; article stable since 2026-03-14)
+- **Medium issues addressed**: 3 (thickness commitments unnamed; Stapp mechanism ontology unsignalled; delegatory-dualism not cross-linked)
+- **Enhancements made**: Added `### Thickness commitments` subsection locating the article in the four-quadrant taxonomy (physical-thin committed; mind-side axis underdetermined by reverse inference); added portability note for Stapp's quantum-Zeno mechanism (Q4 origin, portable to leaner readings); linked [delegatory-dualism](/topics/delegatory-dualism/) at the Saad citation; added [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) and [delegatory-dualism](/topics/delegatory-dualism/) to related_articles
+- **Attribution consistency**: All source attributions verified (Saad closure distinction, Stapp quantum-Zeno, Gleason/Deutsch-Wallace/Zurek/Torres Alegre, Penrose OR, Wheeler participatory). No misattribution, no dropped qualifiers, no source/Map conflation
+- **Stability**: 3rd review; all prior stability notes preserved. New stability note: the mind-side axis is deliberately underdetermined—future reviews should not treat this as an omission
+- **Output**: [deep-review-2026-04-22-what-consciousness-tells-us-about-physics](/reviews/deep-review-2026-04-22-what-consciousness-tells-us-about-physics/)
 
 ## 2026-04-22 08:39 UTC - deep-review
 - **Status**: Success

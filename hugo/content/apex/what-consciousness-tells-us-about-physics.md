@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-04-07 12:53:00+00:00
+ai_modified: 2026-04-22 09:38:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-30 23:04:00+00:00
 apex_sources:
@@ -43,7 +43,7 @@ description: If consciousness participates in quantum outcomes, quantum mechanic
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-14 20:43:00+00:00
+last_deep_review: 2026-04-22 09:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,6 +55,8 @@ related_articles:
 - '[[amplification-void]]'
 - '[[nomic-void]]'
 - '[[indexical-void]]'
+- '[[four-quadrant-dualism-taxonomy]]'
+- '[[delegatory-dualism]]'
 title: What Consciousness Tells Us About Physics
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -92,7 +94,7 @@ From [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction): the Bo
 
 This rules out: Bohmian mechanics, superdeterminism, and any interpretation where outcomes are predetermined by physical facts we happen not to know.
 
-Bradford Saad's [distinction between universal and observational closure](/concepts/causal-closure/) sharpens the point: empirical evidence supports only *observational* closure—that no observable violation of physical law has been detected—not the metaphysical claim that every event has a sufficient physical cause. The gap between what has been observed and what must be true is precisely where consciousness could operate.
+Bradford Saad's [distinction between universal and observational closure](/concepts/causal-closure/) sharpens the point: empirical evidence supports only *observational* closure—that no observable violation of physical law has been detected—not the metaphysical claim that every event has a sufficient physical cause. The gap between what has been observed and what must be true is precisely where consciousness could operate. Saad's own [delegatory account](/topics/delegatory-dualism/) exploits this gap without inflating either side ontologically—a lean worked example of how the opening can be occupied.
 
 ### 3. Something Non-Physical Participates in Outcome Selection
 
@@ -166,7 +168,7 @@ If this picture is correct, a genuine theory of everything would need to be *bi-
 
 **Explain [prebiotic collapse](/concepts/prebiotic-collapse/).** For 13.8 billion years before consciousness evolved, quantum outcomes were determined somehow. Objective collapse theories provide baseline mechanisms. A complete theory would show how consciousness *modulates* this baseline rather than replacing it.
 
-**Specify the coupling.** The Map's [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) and [coupling modes](/concepts/coupling-modes/) describe *how* consciousness interfaces with quantum events. A deeper theory would show *why* these coupling modes are possible—what properties of the bi-aspectual reality enable them.
+**Specify the coupling.** The Map's [quantum Zeno mechanism](/concepts/stapp-quantum-mind/) and [coupling modes](/concepts/coupling-modes/) describe *how* consciousness interfaces with quantum events. A deeper theory would show *why* these coupling modes are possible—what properties of the bi-aspectual reality enable them. The quantum-Zeno mechanism is portable across ontologies: Stapp himself pairs it with a thick observer and thick potentialities (a [Q4 position](/topics/four-quadrant-dualism-taxonomy/#q4) in the thickness taxonomy), but the same mechanism can serve a leaner reading where consciousness does only the indexical-actuality work this article requires. The mechanism is a constraint on *how* selection operates, not a commitment to a specific ontological weight on either side.
 
 **Predict the amplification void.** If the interface is minimal, the chain from quantum bias to macroscopic neural effect should be structurally untraceable. A deeper theory would derive this opacity as a consequence rather than an accident.
 
@@ -197,6 +199,16 @@ This article draws together threads from across the Map into a single argumentat
 **[No Many Worlds](/tenets/#no-many-worlds)**: MWI dissolves the interface by making all possibilities actual. The reverse inference requires that actualization be genuine—one outcome selected, the rest eliminated. MWI denies there is anything behind the wavefunction; this article argues there must be. See [Against Many-Worlds](/arguments/many-worlds-argument/) for the cumulative case.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: The "simpler" move is to deny that consciousness plays any role in physics. But this simplicity is purchased by leaving two problems unsolved (the measurement problem and the hard problem) that the reverse inference addresses as one. Apparent complexity in the ontology (two aspects rather than one) yields genuine simplification in the explanatory structure.
+
+### Thickness commitments {#thickness}
+
+The [four-quadrant taxonomy](/topics/four-quadrant-dualism-taxonomy/) sorts dualist positions by how much ontological weight each side carries—mind-side thickness crossed with physical-side thickness. The reverse inference commits cleanly on only one of those axes.
+
+The *physical side is thin*: the wavefunction's mathematics is structurally exhaustive, no hidden variables are needed, no Russellian quiddities or ignorance-facts are invoked. What physics describes, it describes completely; it is silent about actuality, not deficient about structure. This is a definite Q1/Q2 commitment on the physical axis (minimal-physical in the taxonomy's sense—physics' own ontology treated as minimal rather than enriched).
+
+The *mind side is underdetermined*. The argument requires only that consciousness be rich enough to ground indexical actuality—to settle which outcome is experienced by this subject. That requirement is compatible with a thin mind (bare first-person character plus selection) or a thicker one (a subliminal self à la Myers–James, a unified Nida-Rümelin-style substance, or Goff-style cosmopsychism's intrinsic cosmic consciousness). The reverse inference does not decide among these. It places the Map firmly in the physical-thin column and leaves a choice of row.
+
+This portability is important. The argument is not hostage to a particular dualist settlement. It lives in Q1 as naturally as in Q4; it could even accommodate a mind-heavy Q3-adjacent position that stops short of full idealism. What it rules out is physical-thick dualisms (hidden variables, determinism with epiphenomenal mind) and the idealist limit where the physical side vanishes entirely. Future Map work that chooses a specific thickness on the mind-side—delegatory minimalism, Myersian inflation, or something between—will be refining within a taxonomic region that this article already fixes.
 
 ## Source Articles
 

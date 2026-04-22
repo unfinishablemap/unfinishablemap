@@ -82,7 +82,7 @@ Several converging lines suggest the projection void marks a structural limit ra
 
 **Resistance to override.** The rubber hand illusion persists despite the subject's full knowledge that it is an illusion. Tsakiris et al. (2011) found that individuals with weaker interoceptive awareness—less accurate heartbeat tracking—show greater susceptibility, suggesting that a weaker internal self-model is more malleable. The implication is not that conscious control is insufficient but that conscious control is structurally excluded from the process.
 
-**Mastery deepens the void.** Novices report awareness of tools that experts cannot access. The progression from beginner to expert is a progressive deepening of the projection void—the better the skill, the more complete the transparency, the less available the mechanism becomes to introspection. This connects directly to [expertise-occlusion](/voids/expertise-occlusion/), where mastery actively defends its own opacity.
+**Mastery deepens the void.** Novices report awareness of tools that experts cannot access. The progression from beginner to expert is a progressive deepening of the projection void—the better the skill, the more complete the transparency, the less available the mechanism becomes to introspection. This connects directly to [expertise-occlusion](/voids/expertise-and-its-occlusion/), where mastery actively defends its own opacity.
 
 **Neural automaticity.** Peripersonal space extension during tool use occurs without conscious direction and cannot be consciously prevented during active tool use. The neural mechanism operates below the threshold of awareness and resists conscious intervention.
 
@@ -112,7 +112,7 @@ Finally, the Map's tenet that [Occam's Razor has limits](/tenets/#occams-limits)
 
 - [self-opacity](/voids/self-opacity/)
 - [boundary-void](/voids/boundary-and-projection/)
-- [expertise-occlusion](/voids/expertise-occlusion/)
+- [expertise-occlusion](/voids/expertise-and-its-occlusion/)
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/)
 - [ownership-void](/voids/ownership-void/)
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/)

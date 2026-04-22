@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-28
-**Article**: [The Expertise Occlusion](/voids/expertise-occlusion/)
+**Article**: [The Expertise Occlusion](/voids/expertise-and-its-occlusion/)
 **Previous review**: Never (first deep review; pessimistic review [2026-03-27](/reviews/pessimistic-2026-03-27/) preceded this)
 
 ## Pessimistic Analysis Summary
@@ -61,7 +61,7 @@ All substantive counterarguments from the pessimistic review were already addres
 
 ### Cross-links Added
 - In expertise-occlusion.md: [choking-phenomenon-mental-causation](/topics/choking-phenomenon-mental-causation/), [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/), [skill-delegation](/concepts/skill-delegation/)
-- In expertise-void.md: [expertise-occlusion](/voids/expertise-occlusion/) (related_articles + Further Reading)
+- In expertise-void.md: [expertise-occlusion](/voids/expertise-and-its-occlusion/) (related_articles + Further Reading)
 
 ## Remaining Items
 

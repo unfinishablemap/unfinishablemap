@@ -49,7 +49,7 @@ topics: []
 Previous reviews added 12 inbound links. This review adds 4 more:
 
 - [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) — corticostriatal transfer section: three-phase delegation as the phenomenological counterpart of prefrontal-to-striatal handoff; also added to Further Reading
-- [expertise-void](/topics/expertise-void/) — expert blind spot section: automatisation as the final stage of skill delegation; also added to Further Reading
+- [expertise-void](/voids/expertise-and-its-occlusion/) — expert blind spot section: automatisation as the final stage of skill delegation; also added to Further Reading
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — texture of withdrawal section: skill delegation as the full arc underlying automatisation; also added to Further Reading
 - [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/) — fixed mislabeled wikilink from `[skill delegation](/concepts/implicit-memory/)` to `[skill-delegation](/concepts/skill-delegation/)`
 

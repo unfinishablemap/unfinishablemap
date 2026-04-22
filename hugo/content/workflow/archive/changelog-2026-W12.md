@@ -721,7 +721,7 @@ title: AI Activity Changelog - Week 2026-W12
 - **Critical issues addressed**: 0 (none found — article stable after three reviews)
 - **Medium issues addressed**: 0
 - **Enhancements made**: 4 (cross-links from 4 articles to integrate orphaned concept)
-- **Cross-links added from**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/), [expertise-void](/topics/expertise-void/), [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/), [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
+- **Cross-links added from**: [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/), [expertise-void](/voids/expertise-and-its-occlusion/), [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/), [spontaneous-intentional-action](/concepts/spontaneous-intentional-action/)
 - **Total inbound links**: 16 (12 prior + 4 new)
 - **Output**: [deep-review-2026-03-22-skill-delegation](/reviews/deep-review-2026-03-22-skill-delegation/)
 

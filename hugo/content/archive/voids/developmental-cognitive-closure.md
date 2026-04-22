@@ -79,7 +79,7 @@ Adults cannot directly experience what they have lost—the loss is invisible fr
 
 ## The Expert's Compounding Closure
 
-Development into adulthood does not end the closure process. Expertise creates further voids throughout life—a pattern explored in depth in the [expertise void](/topics/expertise-void/).
+Development into adulthood does not end the closure process. Expertise creates further voids throughout life—a pattern explored in depth in the [expertise void](/voids/expertise-and-its-occlusion/).
 
 The "curse of knowledge" demonstrates the continuity: once information becomes internalised, you lose access to your former ignorant state. The bias is structural, not motivational—financial incentives and explicit warnings fail to reduce it. Every skill acquired is also a closure, narrowing the space of possible thoughts in exchange for fluency within a domain. Unlike infant perceptual narrowing, expertise closure is not biologically mandated, yet it appears similarly irreversible once entrenched. The [opacity of introspection](/voids/self-opacity/) deepens at each stage.
 
@@ -123,7 +123,7 @@ The developmental void is a reminder that the boundaries of thought are not stat
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
-- [The Expertise Void](/topics/expertise-void/) — How deep skill irreversibly transforms perception
+- [The Expertise Void](/voids/expertise-and-its-occlusion/) — How deep skill irreversibly transforms perception
 - [The Limits of Conceptual Acquisition](/voids/architecture-of-cognitive-closure/) — What concepts can minds form?
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought

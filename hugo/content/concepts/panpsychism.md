@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-15 19:57:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-22 11:38:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[minimal-consciousness]]'
@@ -25,7 +25,7 @@ description: The view that consciousness is fundamental and ubiquitous in nature
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 19:57:00+00:00
+last_deep_review: 2026-04-22 11:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -34,6 +34,7 @@ related_articles:
 - '[[consciousness-and-integrated-information]]'
 - '[[origin-of-consciousness]]'
 - '[[russellian-monism-versus-bi-aspectual-dualism]]'
+- '[[four-quadrant-dualism-taxonomy]]'
 title: Panpsychism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -178,6 +179,8 @@ The choice between panpsychism and interactionist dualism turns on which problem
 
 Both views take consciousness seriously and reject physicalist emergence. The decision also depends on which intuitions seem more reliable: that rocks have no experience at all, or that genuinely distinct substances can interact.
 
+The [four-quadrant taxonomy](/topics/four-quadrant-dualism-taxonomy/) adds a second axis—the ontological weight each side carries. Panpsychism's variants span this thickness range: deflationary Russellian readings sit near Q1 (minimal on both sides), while full Russellian panpsychism and Goff's priority cosmopsychism sit in Q4 (rich on both sides). The Map's interactionist framework sits closer to Q1 with room along the mind axis. This thickness distinction is orthogonal to the substance-vs-property split the panpsychism debate usually foregrounds.
+
 ## Relation to Site Perspective
 
 The Map's framework is closer to dualism than panpsychism, but the two share more than either shares with standard physicalism. The [tenets](/tenets/) establish consciousness as irreducible and causally efficacious—claims panpsychism largely endorses.
@@ -195,6 +198,7 @@ But the Map thinks interactionist dualism offers a cleaner solution. Consciousne
 - [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) — In-depth treatment of the combination problem's variants and responses
 - [russellian-monism](/concepts/russellian-monism/) — The most developed theoretical framework for panpsychism
 - [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — Why the Map's explicit dualism is preferable to Russellian monism's unstable middle path
+- [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — The thickness axis that distributes panpsychism's variants across ontological quadrants
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework where experience is fundamental to actuality
 - [idealism](/concepts/idealism/) — Broader treatment of idealist positions, including analytic idealism as an alternative that claims to avoid the combination problem
 - [analytic-idealism-and-mind-centric-metaphysics](/topics/analytic-idealism-and-mind-centric-metaphysics/) — Comparative survey of mind-centric frameworks including panpsychism, idealism, and dualism

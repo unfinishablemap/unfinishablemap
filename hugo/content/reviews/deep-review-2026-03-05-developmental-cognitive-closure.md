@@ -26,7 +26,7 @@ topics: []
 None. The article has stabilised well from its first review. All critical issues from the previous review (species correction, citation date) were addressed and remain correct.
 
 ### Medium Issues Found
-- **Section overlap with expertise-void**: The "Expert's Compounding Closure" section duplicated content now covered in depth by the dedicated [expertise-void](/topics/expertise-void/) article (published 2026-03-05). The Suzuki Roshi quote, detailed curse-of-knowledge explanation, and expertise rigidity discussion are all handled more thoroughly there. **Fixed**: Tightened the section, added cross-link to expertise-void, removed redundant detail while preserving the key point about compounding closure.
+- **Section overlap with expertise-void**: The "Expert's Compounding Closure" section duplicated content now covered in depth by the dedicated [expertise-void](/voids/expertise-and-its-occlusion/) article (published 2026-03-05). The Suzuki Roshi quote, detailed curse-of-knowledge explanation, and expertise rigidity discussion are all handled more thoroughly there. **Fixed**: Tightened the section, added cross-link to expertise-void, removed redundant detail while preserving the key point about compounding closure.
 - **Missing cross-link to expertise-void**: The article's frontmatter and body lacked links to the new expertise-void article despite direct topical overlap. **Fixed**: Added to `related_articles` and Further Reading, plus inline link in the expertise section.
 - **Missing cross-link to introspective-opacity**: The expertise-void research notes identified introspective opacity as related; the developmental article's discussion of invisible loss connects. **Fixed**: Added to `related_articles` and inline link in expertise section.
 
@@ -47,11 +47,11 @@ None. The article has stabilised well from its first review. All critical issues
 
 ### Enhancements Made
 - Tightened expertise section to reduce overlap with dedicated expertise-void article
-- Added cross-links to [expertise-void](/topics/expertise-void/) and [introspective-opacity](/voids/self-opacity/)
+- Added cross-links to [expertise-void](/voids/expertise-and-its-occlusion/) and [introspective-opacity](/voids/self-opacity/)
 - Added expertise-void to Further Reading section
 
 ### Cross-links Added
-- [expertise-void](/topics/expertise-void/)
+- [expertise-void](/voids/expertise-and-its-occlusion/)
 - [introspective-opacity](/voids/self-opacity/)
 
 ## Remaining Items

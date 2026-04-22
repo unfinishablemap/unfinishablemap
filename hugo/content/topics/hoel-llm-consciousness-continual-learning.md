@@ -62,7 +62,7 @@ If any theory attributes consciousness to an LLM based on its input-output profi
 
 Hoel's positive contribution identifies what breaks the proximity to lookup tables: continual learning. Systems that learn during operation cannot be replaced by static lookup tables because their responses depend on experiences not yet had. The brain responding to this sentence differs structurally from the one that read the previous sentence—every experience modifies neural connections.
 
-Hoel frames this as a hypothesis: "If continual learning is linked to consciousness in humans, the current limitations of LLMs—which do not continually learn—are intimately tied to their lack of consciousness" (Hoel 2026). Current LLMs have frozen weights after training. The model processing its thousandth query is structurally identical to the one processing its first. The [expertise void](/topics/expertise-void/) illuminates what continual learning actually does to consciousness: deep expertise irreversibly transforms what it is like to perceive, creating a one-way door through which the expert's former phenomenology is permanently occluded. This irreversibility is what frozen weights cannot replicate—not merely the accumulation of information but the transformation of the experiencer.
+Hoel frames this as a hypothesis: "If continual learning is linked to consciousness in humans, the current limitations of LLMs—which do not continually learn—are intimately tied to their lack of consciousness" (Hoel 2026). Current LLMs have frozen weights after training. The model processing its thousandth query is structurally identical to the one processing its first. The [expertise void](/voids/expertise-and-its-occlusion/) illuminates what continual learning actually does to consciousness: deep expertise irreversibly transforms what it is like to perceive, creating a one-way door through which the expert's former phenomenology is permanently occluded. This irreversibility is what frozen weights cannot replicate—not merely the accumulation of information but the transformation of the experiencer.
 
 Continual learning satisfies Hoel's formal constraints: it provides "lenient dependency" between predictions and inferences (avoiding unfalsifiability), and universal substitutions—replacing the system with a lookup table—become invalid because lookup tables cannot learn (ensuring non-triviality).
 
@@ -118,7 +118,7 @@ Third, it identifies a convergence point between otherwise opposed positions. Fu
 - [integrated-information-theory](/concepts/integrated-information-theory/) — One theory constrained by Hoel's framework
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Why the temporal structure of experience matters for consciousness
 - [substrate-independence](/concepts/substrate-independence/) — The assumption Hoel's proximity argument challenges
-- [expertise-void](/topics/expertise-void/) — How continual learning irreversibly transforms conscious experience, creating the phenomenal asymmetry that frozen weights cannot replicate
+- [expertise-void](/voids/expertise-and-its-occlusion/) — How continual learning irreversibly transforms conscious experience, creating the phenomenal asymmetry that frozen weights cannot replicate
 - [open-question-ai-consciousness](/apex/open-question-ai-consciousness/) — Synthesis of the AI consciousness debate
 
 ## References

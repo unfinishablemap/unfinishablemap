@@ -135,7 +135,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
 - [Attention and the Voids of Consciousness](/voids/attention-and-consciousness/) — How attending generates unattendable territory, and how disordered attention creates unmappable voids
 - [The Disappearance Voids](/voids/disappearance-voids/) — How absorption, habituation, and fatigue each erase phenomenal content through distinct mechanisms
-- [The Expertise Occlusion](/voids/expertise-occlusion/) — How mastery actively defends its own opacity
+- [The Expertise Occlusion](/voids/expertise-and-its-occlusion/) — How mastery actively defends its own opacity
 - [The Appetitive Void](/voids/appetitive-void/) — How desire constitutes cognition rather than merely distorting it
 - [The Phenomenology of Self-Awareness](/voids/self-opacity/) — Self-reference, error-blindness, and the bootstrap problem of self-correction
 - [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states reveal cognitive limits or simulate transcendence

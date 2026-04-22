@@ -97,7 +97,7 @@ Architectural and developmental limits are not independent. They interact to cre
 
 The infant begins with innate conceptual primitives (architectural constraint) but broad perceptual access. Development then narrows the perceptual channels through which new concept-triggering experiences might arrive. The result is doubly bounded: limited primitives receiving limited input. Concepts that require both unavailable primitives *and* unavailable perceptual data are inaccessible by two independent routes.
 
-Beyond these, expertise creates further voids throughout adult life—a pattern explored in the [expertise void](/topics/expertise-void/). The "curse of knowledge" demonstrates the continuity: once information becomes internalised, you lose access to your former ignorant state. Every skill acquired is also a closure, narrowing the space of possible thoughts in exchange for fluency within a domain. The [opacity of introspection](/voids/self-opacity/) deepens at each stage.
+Beyond these, expertise creates further voids throughout adult life—a pattern explored in the [expertise void](/voids/expertise-and-its-occlusion/). The "curse of knowledge" demonstrates the continuity: once information becomes internalised, you lose access to your former ignorant state. Every skill acquired is also a closure, narrowing the space of possible thoughts in exchange for fluency within a domain. The [opacity of introspection](/voids/self-opacity/) deepens at each stage.
 
 Voids compound over the lifespan: the infant loses perceptual breadth, the child loses exploratory flexibility, the adult loses access to ignorance, the expert loses the ability to see alternatives. Each stage trades accessible territory for efficiency within what remains.
 
@@ -183,7 +183,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — When logic excludes conception
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
-- [The Expertise Void](/topics/expertise-void/) — How deep skill irreversibly transforms perception
+- [The Expertise Void](/voids/expertise-and-its-occlusion/) — How deep skill irreversibly transforms perception
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [Cognitive Closure](/concepts/mysterianism/) — The formal analysis of architectural limits on understanding

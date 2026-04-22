@@ -106,7 +106,7 @@ The closure is physical. Perineuronal nets encapsulate neurons, stabilising matu
 
 The infant begins with innate conceptual primitives (architectural constraint) operating through a fitness-shaped perceptual interface (adaptive constraint). Development then narrows the perceptual channels through which new concept-triggering experiences arrive (developmental closure). The result is triply bounded.
 
-Beyond these, the [expertise void](/topics/expertise-void/) shows how specialisation creates further closures throughout adult life. Each stage trades accessible territory for efficiency within what remains. The [opacity of introspection](/voids/self-opacity/) deepens at every level.
+Beyond these, the [expertise void](/voids/expertise-and-its-occlusion/) shows how specialisation creates further closures throughout adult life. Each stage trades accessible territory for efficiency within what remains. The [opacity of introspection](/voids/self-opacity/) deepens at every level.
 
 ## Naturally Occluded Voids
 

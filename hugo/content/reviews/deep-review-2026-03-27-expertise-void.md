@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-27
-**Article**: [The Expertise Void](/topics/expertise-void/)
+**Article**: [The Expertise Void](/voids/expertise-and-its-occlusion/)
 **Previous review**: [2026-03-05](/reviews/deep-review-2026-03-05-expertise-void/)
 
 ## Pessimistic Analysis Summary
