@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 07:38:00+00:00
+ai_modified: 2026-04-22 09:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/what-consciousness-tells-us-about-physics]]
+- **Context**: Cross-review considering [[four-quadrant-dualism-taxonomy]] insights (taxonomy created 2026-04-21)
+- **Word count**: 3202 → 3553 (+351 words, 89% of 4000 soft target)
+- **Critical issues addressed**: 0 (third deep review; article stable since 2026-03-14)
+- **Medium issues addressed**: 3 (thickness commitments unnamed; Stapp mechanism ontology unsignalled; delegatory-dualism not cross-linked)
+- **Enhancements made**: Added `### Thickness commitments` subsection locating the article in the four-quadrant taxonomy (physical-thin committed; mind-side axis underdetermined by reverse inference); added portability note for Stapp's quantum-Zeno mechanism (Q4 origin, portable to leaner readings); linked [[delegatory-dualism]] at the Saad citation; added [[four-quadrant-dualism-taxonomy]] and [[delegatory-dualism]] to related_articles
+- **Attribution consistency**: All source attributions verified (Saad closure distinction, Stapp quantum-Zeno, Gleason/Deutsch-Wallace/Zurek/Torres Alegre, Penrose OR, Wheeler participatory). No misattribution, no dropped qualifiers, no source/Map conflation
+- **Stability**: 3rd review; all prior stability notes preserved. New stability note: the mind-side axis is deliberately underdetermined—future reviews should not treat this as an omission
+- **Output**: [[reviews/deep-review-2026-04-22-what-consciousness-tells-us-about-physics]]
 
 ## 2026-04-22 08:39 UTC - deep-review
 - **Status**: Success
