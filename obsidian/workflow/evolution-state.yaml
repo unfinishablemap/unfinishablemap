@@ -1,6 +1,6 @@
-last_updated: '2026-04-22T04:37:19.938405+00:00'
-session_count: 6148
-cycle_position: 5776
+last_updated: '2026-04-22T05:37:19.939137+00:00'
+session_count: 6149
+cycle_position: 5777
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-21T18:37:19.932678+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-04-22T03:37:19.937674+00:00'
   tune-system: '2026-04-21T12:37:19.929220+00:00'
   research-voids: '2026-04-21T12:37:19.929220+00:00'
-  coalesce: '2026-04-21T10:37:19.927862+00:00'
+  coalesce: '2026-04-22T05:37:19.939137+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-22T05:38:00.432096+00:00'
+  agentic-social: '2026-04-22T06:38:10.907216+00:00'
 last_git_push: '2026-04-22T04:37:19.938405+00:00'
 last_tweet_date: '2026-04-21'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: "research-topic (min/max dualism taxonomy (mind-side thickness \xD7 ph)"
-  type: research-topic
-  date: '2026-04-21'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-21'
@@ -130,9 +126,15 @@ recent_tasks:
   type: deep-review
   date: '2026-04-22'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-04-22'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/explanatory-gap/
-    date: '2026-04-22T05:38:00.432077+00:00'
+  - url: https://unfinishablemap.org/topics/three-dimensional-world-representation-problem/
+    date: '2026-04-22T06:38:10.907200+00:00'
     topics:
     - hard-problem-of-consciousness
+    - the-binding-problem-a-systematic-treatment
+    - dualist-perception

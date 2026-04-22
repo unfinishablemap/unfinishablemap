@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 05:38:00+00:00
+ai_modified: 2026-04-22 06:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 06:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/interactionist-dualism]]
+- **Context**: Cross-review considering [[four-quadrant-dualism-taxonomy]] insights (taxonomy created 2026-04-21)
+- **Word count**: 2555 → 2582 (+27, in soft_warning range; far below 3500 hard threshold)
+- **Critical issues addressed**: 0 (prior 2026-04-15 review — 9th overall — confirmed convergence)
+- **Medium issues addressed**: 2 (parsimony bullet over-linked to three articles; redundant "dualism without substances" sentence)
+- **Enhancements made**: Added thickness-axis paragraph in §Property Dualism vs. Substance Dualism naming Map's Q1-proximity while keeping Occam's-Razor-Has-Limits-authorised thicker quadrants live; added [[four-quadrant-dualism-taxonomy]] to Further Reading (Core framework) and related_articles; tightened prose to partially offset
+- **Attribution consistency**: Verified "near Q1" framing matches taxonomy's "sits close to Q1" language; preserved qualifier ("near"); no source/Map conflation since taxonomy is Map-internal
+- **Stability**: 10th review; article remains stable. Future reviews should be cross-review-triggered only
+- **Output**: [[reviews/deep-review-2026-04-22-interactionist-dualism]]
 
 ## 2026-04-22 05:38 UTC - coalesce
 - **Status**: Aborted (no strong candidates)
