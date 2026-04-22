@@ -49,6 +49,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from research-topic on trumping preemption)
 - **Generated**: 2026-04-22
 
+### P2: Address gaps in concepts/trumping-preemption.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-22 found four issues: (1) Medium — fiction-to-nature gap in §"Applying the Template" is not bridged (Schaffer's cases are stipulated/fictional; the article imports the structure to psychophysics without explaining why nature would supply a non-stipulative analogue — add a paragraph flagging the disanalogy). (2) Low — counterfactual-dependence phrasing in §"Schaffer's Cases" is loose (tighten to "counterfactual necessity fails for both candidates … yet the asymmetry survives"). (3) Medium — tonal break between defensive middle (Lewis, Bernstein, no empirical signature conceded) and confident closing ("the evidence warrants"); soften to "the Map's tenet framework warrants" or add explicit grounding in non-trumping evidence. (4) Low — "observable closure is preserved" is reported as Saad's position without flagging that the observable/unobservable distinction is itself contested (Crane, Papineau). Also tighten four language items (front-loaded "philosophically load-bearing," "about as small as a real cause can be," "a genuine addition the evidence warrants," "dualist attention should go"). Make Mills/Lowe response to Bernstein explicit rather than allusive. See reviews/pessimistic-2026-04-22.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-22
+
 ### P3: Deep review narrative-void.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-11 — 42 days ago. Voids article on the construction of coherent self-stories from fragmentary experience. The new source-attribution-void.md (2026-04-21) and the deeper-reviewed self-opacity.md (2026-04-21) are conceptually adjacent and have sharpened the vocabulary around phenomenal reconstruction — narrative-void.md likely needs terminology alignment and cross-link additions. Verify (a) coherence and argumentative integrity, (b) alignment with source-attribution-void's "reconstruction, not readout" framing, (c) consistency with self-opacity's three-step metacognitive-architecture language, (d) cross-references to related voids articles, (e) tenet alignment under recent taxonomic refinements. See /deep-review skill.
