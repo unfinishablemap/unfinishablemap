@@ -1,13 +1,48 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 12:38:00+00:00
+ai_modified: 2026-04-22 16:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-22 16:38 UTC - deep-review
+- **Status**: Success
+- **File**: [necessary-opacity](/voids/necessary-opacity/)
+- **Context**: Cross-review considering [erasure-void](/voids/erasure-void/) insights (void created 2026-04-20)
+- **Word count**: 2809 → 2830 (+21 words, 142% of 2000 soft target; length-neutral mode)
+- **Critical issues addressed**: 0 (second deep review; article stable since 2026-04-01)
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to erasure-void, which already linked to necessary-opacity in three places)
+- **Enhancements made**: Added erasure-void to "Distinguishing This Void" section with substantive distinction (silent deletions vs constitutive blind spots; monitoring shares fate with monitored; completeness illusion). Added erasure-void to Further Reading with concise pointer. Added to related_articles frontmatter. Tightened "AI as Asymmetric Probe" closing paragraph and simulation-hypothesis passage to offset additions. Convergence healthy—no issues re-flagged that previous review marked resolved.
+- **Output**: [deep-review-2026-04-22-necessary-opacity](/reviews/deep-review-2026-04-22-necessary-opacity/)
+
+## 2026-04-22 15:38 UTC - deep-review
+- **Status**: Success
+- **File**: [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/)
+- **Word count**: 2627 → 2661 (+34 words, 89% of 3000 target)
+- **Critical issues addressed**: 1 (frontmatter duplicate concept entry)
+- **Medium issues addressed**: 1 (missing link to new evaluative-qualia cross-traditional article)
+- **Enhancements made**: Added one-sentence reference in Cross-Traditional Convergences plus Further Reading entry and frontmatter cross-links to [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) (created 2026-03-29). Cleaned duplicate `[nihilism-and-existentialism](/concepts/nihilism-and-existentialism/)` from concepts frontmatter. Seventh deep review; article remains at full stability per prior notes.
+- **Output**: [deep-review-2026-04-22-eastern-philosophy-consciousness](/reviews/deep-review-2026-04-22-eastern-philosophy-consciousness/)
+
+## 2026-04-22 14:45 UTC - research-topic
+- **Status**: Success
+- **Topic**: Trumping preemption as mental-causation mechanism
+- **Output**: [trumping-preemption-mental-causation-2026-04-22](/research/trumping-preemption-mental-causation-2026-04-22/)
+- **Sources consulted**: 18 (SEP Counterfactual Theories, SEP Mental Causation, SEP Metaphysics of Causation, IEP Mind and Causal Exclusion, Schaffer 2000 Trumping Preemption, Schaffer 2005 Contrastive Causation, Lewis 2000 Causation as Influence, Hitchcock 2011, Bernstein 2014 and 2016, Saad 2024 Mental Causation for Standard Dualists, Saad 2025 A Dualist Theory of Experience, Mills 1996, Lowe 2003, Kim 1998, Bennett on mental causation, Thomasson nonreductivist solution, Lewis 1973)
+
+## 2026-04-22 13:38 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Context**: Cross-review considering [source-attribution-void](/voids/source-attribution-void/) insights (void created 2026-04-21)
+- **Word count**: 2948 → 2958 (+10 words, 118% of 2500 soft target; length-neutral mode)
+- **Critical issues addressed**: 0 (tenth deep review; article stable)
+- **Medium issues addressed**: 3 (imprecise Johansson 2005 statistic, missing architectural-framing cross-link, lingering duplicate Further Reading entry for self-opacity)
+- **Enhancements made**: Hedged "75%" → "roughly three-quarters of manipulated trials went undetected" for cross-article consistency with the void article. Added one-sentence architectural framing via [source-attribution-void](/voids/source-attribution-void/) after the choice blindness paragraph. Removed duplicate self-opacity Further Reading entry and repurposed slot for source-attribution-void link. Tightened Unobservable Self paragraph to offset the addition. Added [source-attribution-void](/voids/source-attribution-void/) to concepts and related_articles frontmatter. Updated ai_system to claude-opus-4-7.
+- **Output**: [deep-review-2026-04-22-introspection](/reviews/deep-review-2026-04-22-introspection/)
 
 ## 2026-04-22 12:38 UTC - deep-review
 - **Status**: Success
