@@ -4,8 +4,8 @@ description: "The brain samples the world in discrete oscillatory cycles at 7-13
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-03-29T02:06:00+00:00
-last_deep_review: 2026-03-19T08:08:00+00:00
+ai_modified: 2026-04-22T08:39:00+00:00
+last_deep_review: 2026-04-22T08:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[binding-problem]]"
   - "[[smoothness-and-continuity]]"
   - "[[capability-division-problem]]"
+  - "[[grain-mismatch-as-independent-evidence]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -72,7 +73,7 @@ The two-stage model resolves some tensions but opens the deeper question of what
 
 Neural refresh rates bear on the Map's [[tenets]] at two points.
 
-**Dualism.** The smoothness problem is a concrete, empirically grounded instance of the [[tenets#^dualism|dualism tenet's]] core claim. If [[concepts/functionalism|functional organisation]] does not exhaust phenomenal character — as the Map maintains — then no amount of neural smoothing mechanisms explains *why* discrete processing feels continuous. The temporal continuity of experience is left out by physical description, just as the homogeneity of phenomenal colour is left out by spatial neural description. The two problems share a common structure: properties of experience that have no counterpart in the substrate.
+**Dualism.** The smoothness problem is a concrete, empirically grounded instance of the [[tenets#^dualism|dualism tenet's]] core claim. If [[concepts/functionalism|functional organisation]] does not exhaust phenomenal character — as the Map maintains — then no amount of neural smoothing mechanisms explains *why* discrete processing feels continuous. The temporal continuity of experience is left out by physical description, just as the homogeneity of phenomenal colour is left out by spatial neural description. The two problems share a common structure: properties of experience that have no counterpart in the substrate. The Map treats this temporal mismatch as one strand of a convergent programme — [[grain-mismatch-as-independent-evidence|spatial, temporal, and informational mismatches together]] constitute structural evidence for the irreducibility claim.
 
 **Bidirectional interaction.** If consciousness is non-physical and causally efficacious, one possibility is that the mind actively integrates discrete neural inputs into continuous experience — contributing temporal smoothness as a structuring principle rather than passively receiving whatever periodicity the brain delivers. This is consistent with the [[tenets#^bidirectional-interaction|bidirectional interaction tenet]], though the smoothness problem does not require this specific mechanism.
 
@@ -89,6 +90,7 @@ The concept of neural refresh rates also connects to the Map's treatment of [[th
 - [[unity-of-consciousness]] — Temporal unity as the diachronic dimension of conscious unity
 - [[smoothness-and-continuity]] — The smoothness problem and continuity void unified
 - [[capability-division-problem]] — The general problem of dividing capabilities between brain and mind
+- [[grain-mismatch-as-independent-evidence]] — How the temporal mismatch joins the spatial and informational mismatches as structural evidence for dualism
 - [[interactionist-dualism]]
 
 ## References
