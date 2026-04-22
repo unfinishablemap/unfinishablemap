@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 19:38:00+00:00
+ai_modified: 2026-04-22 20:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 20:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/delegatory-causation]]
+- **Context**: Cross-review considering [[trumping-preemption]] research insights (concept created 2026-04-22)
+- **Word count**: 3464 → 3314 (−150 words; 99% → 95% of 3500 hard threshold)
+- **Critical issues addressed**: 0 (article stable; no new critical issues)
+- **Medium issues addressed**: 3 (redundant preemption exposition delegated to dedicated article; missing reciprocal cross-link to [[trumping-preemption]] added; sufficiency/authority framing imported to sharpen motivation)
+- **Enhancements made**: 3 (condensed §Preemption section; added [[trumping-preemption]] to frontmatter/body/Further Reading; aligned Schaffer example phrasing with dedicated article)
+- **Output**: [[reviews/deep-review-2026-04-22-delegatory-causation-trumping]]
 
 ## 2026-04-22 19:38 UTC - deep-review
 - **Status**: Success

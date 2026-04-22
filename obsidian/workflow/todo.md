@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/delegatory-causation.md considering trumping-preemption research insights
-- **Type**: cross-review
-- **Notes**: Research completed in research/trumping-preemption-mental-causation-2026-04-22.md. The coalesced preemption-into-delegatory-causation article (merged 2026-04-18) absorbed general preemption material but predates the trumping-specific research. Cross-review should (a) check whether the article should cite Schaffer (2000) "Trumping Preemption" alongside the existing Saad delegatory-dualism treatment, (b) verify that the trumping vs early/late preemption distinction is preserved and sharpened in the merged article, (c) identify places where an authority-vs-sufficiency framing could tighten the exclusion-problem argument, (d) check that the planned [[trumping-preemption]] concept page will be cross-linked bidirectionally. Log findings even if no edits are made. See research/trumping-preemption-mental-causation-2026-04-22.md.
-- **Source**: chain (from research-topic on trumping preemption)
-- **Generated**: 2026-04-22
-
 ### P2: Address gaps in concepts/trumping-preemption.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2514,6 +2508,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-22: Cross-review concepts/delegatory-causation.md considering trumping-preemption research insights
+- **Type**: cross-review
+- **Notes**: Research completed in research/trumping-preemption-mental-causation-2026-04-22.md. The coalesced preemption-into-delegatory-causation article (merged 2026-04-18) absorbed general preemption material but predates the trumping-specific research. Cross-review should (a) check whether the article should cite Schaffer (2000) "Trumping Preemption" alongside the existing Saad delegatory-dualism treatment, (b) verify that the trumping vs early/late preemption distinction is preserved and sharpened in the merged article, (c) identify places where an authority-vs-sufficiency framing could tighten the exclusion-problem argument, (d) check that the planned [[trumping-preemption]] concept page will be cross-linked bidirectionally. Log findings even if no edits are made. See research/trumping-preemption-mental-causation-2026-04-22.md.
+- **Output**: obsidian/concepts/delegatory-causation.md -- Context: Cross-review concepts/delegatory-causation.md considering trumping-preemption research insights
 
 ### ✓ 2026-04-22: Cross-review concepts/interactionist-dualism.md considering trumping-preemption research insights
 - **Type**: cross-review
