@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review russellian-monism.md considering four-quadrant-dualism-taxonomy insights
-- **Type**: cross-review
-- **Notes**: New topic article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) explicitly places Russellian monism in Q4 (max-mind / max-physical) — hidden intrinsic natures thickening the physical side while categorical consciousness thickens the mind side — and contrasts it with the Map's Q1-proximal stance. concepts/russellian-monism.md currently does not link to the taxonomy, and the separate topic concepts/russellian-monism-versus-bi-aspectual-dualism.md has not been updated to exploit the taxonomic vocabulary. Cross-review should (a) add outbound links from russellian-monism.md to four-quadrant-dualism-taxonomy.md and reciprocally check inbound, (b) locate Russellian monism in Q4 within russellian-monism.md's architecture-of-dualism discussion, (c) check whether the article's treatment of the combination problem now gains sharpness when framed as a Q4-inflation-pressure instance, (d) verify terminology alignment with the taxonomy's ontological-thickness vocabulary. Log findings even if no edits made. See topics/four-quadrant-dualism-taxonomy.md.
-- **Source**: chain (from four-quadrant-dualism-taxonomy.md)
-- **Generated**: 2026-04-22
-
 ### P2: Cross-review introspection.md considering source-attribution-void insights
 - **Type**: cross-review
 - **Notes**: New voids article voids/source-attribution-void.md (created 2026-04-21) argues that mental content arrives without native origin tags — choice blindness, cryptomnesia, source amnesia all operate at a sharper point than general introspective unreliability. concepts/introspection.md treats introspective limits at the umbrella level but does not yet distinguish source-attribution failures from other introspective failures. Cross-review should (a) add forward/inbound links between introspection.md and source-attribution-void.md, (b) distinguish source-attribution failure as a specific architectural limit (reconstruction, not readout) within introspection.md's taxonomy of introspective failures, (c) check whether claims in introspection.md about introspective reliability need narrowing to exclude the source-attribution case, (d) verify terminology consistency (source-attribution-void uses "reconstruction/readout"; introspection.md should cross-reference this distinction). Log findings even if no edits made. See voids/source-attribution-void.md.
@@ -2525,6 +2519,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-22: Cross-review russellian-monism.md considering four-quadrant-dualism-taxonomy insights
+- **Type**: cross-review
+- **Notes**: New topic article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) explicitly places Russellian monism in Q4 (max-mind / max-physical) — hidden intrinsic natures thickening the physical side while categorical consciousness thickens the mind side — and contrasts it with the Map's Q1-proximal stance. concepts/russellian-monism.md currently does not link to the taxonomy, and the separate topic concepts/russellian-monism-versus-bi-aspectual-dualism.md has not been updated to exploit the taxonomic vocabulary. Cross-review should (a) add outbound links from russellian-monism.md to four-quadrant-dualism-taxonomy.md and reciprocally check inbound, (b) locate Russellian monism in Q4 within russellian-monism.md's architecture-of-dualism discussion, (c) check whether the article's treatment of the combination problem now gains sharpness when framed as a Q4-inflation-pressure instance, (d) verify terminology alignment with the taxonomy's ontological-thickness vocabulary. Log findings even if no edits made. See topics/four-quadrant-dualism-taxonomy.md.
+- **Output**: obsidian/concepts/russellian-monism.md -- Context: Cross-review russellian-monism.md considering four-quadrant-dualism-taxonomy insights
 
 ### ✓ 2026-04-22: Cross-review panpsychism.md considering four-quadrant-dualism-taxonomy insights
 - **Type**: cross-review

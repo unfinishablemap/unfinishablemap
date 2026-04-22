@@ -4,7 +4,7 @@ description: "Russellian monism claims quiddities ground consciousness, but face
 created: 2026-01-15
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-13T05:58:00+00:00
+ai_modified: 2026-04-22T12:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,12 +28,13 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[russellian-monism-2026-01-15]]"
   - "[[russellian-monism-versus-bi-aspectual-dualism]]"
+  - "[[four-quadrant-dualism-taxonomy]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-04-13T05:58:00+00:00
+last_deep_review: 2026-04-22T12:38:00+00:00
 ---
 
 Russellian monism holds that physics describes only the relational structure of matter—what things do to each other—leaving their intrinsic nature unexplained. These intrinsic properties, called *quiddities*, allegedly account for consciousness. The view attempts a middle path: avoiding [[concepts/materialism|physicalism's]] hard problem (by denying that structure alone determines experience) while avoiding [[interactionist-dualism|dualism's]] interaction problem (by integrating consciousness into physical causation). Yet the combination problem—how micro-level quiddities constitute unified conscious experience—remains unsolved. And the middle path itself is increasingly contested: Pautz (2017) and Cutter (2019) argue it is illusory, Kind (2015) argues it collapses into physicalism or dualism, and the programme has fragmented into incompatible variants—panpsychist, panprotopsychist, cosmopsychist (Goff 2017), physicalist (Brown 2025), and dual-aspect (Hashemi 2024)—that share only the structuralist premise.
@@ -70,9 +71,11 @@ This fragmentation has accelerated. Brown (2025) defends a *physicalist* version
 
 The proliferation matters epistemically. A framework compatible with physicalism, dualism, panpsychism, cosmopsychism, and many-worlds interpretation makes no distinctive predictions. The Map's bi-aspectual interactionism is more constrained: it commits to ontological dualism, causal interaction at quantum indeterminacies, and rejection of many-worlds. Greater constraint means greater falsifiability.
 
+The [[four-quadrant-dualism-taxonomy|thickness-axis taxonomy]] sharpens the split on a second dimension: deflationary readings inhabit the min-mind/min-physical quadrant, while Russellian panpsychism with full scientific realism inhabits max-mind/max-physical. Variants disagree not only about which quiddities obtain but about how much ontological weight each side of the mind–matter relation should carry.
+
 ## Why the Map Prefers Explicit Dualism
 
-Russellian monism claims to avoid dualism's costs—particularly the interaction problem (how do non-physical minds causally affect physical brains?). By making quiddities part of physical reality's fundamental structure, consciousness is automatically integrated into physical causation. Three lines of recent criticism challenge this advantage.
+Russellian monism claims to avoid dualism's costs—particularly the interaction problem—by making quiddities part of physical reality's fundamental structure, integrating consciousness into physical causation. Three lines of recent criticism challenge this advantage.
 
 ### The Parity Problem
 
@@ -112,7 +115,7 @@ Despite these criticisms, Russellian monism captures important insights the Map 
 
 **Consciousness is irreducible**: Russellian monism takes the [[hard-problem-of-consciousness|hard problem]] seriously rather than explaining it away. This aligns with the Map's [[tenets#^dualism|Dualism]] tenet.
 
-**Occam's limits**: The view exemplifies the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. Physicalism seems simpler, but Russellian monists argue this simplicity is illusory—it ignores the intrinsic nature question. Apparent parsimony shouldn't foreclose inquiry into what physics leaves out.
+**Occam's limits**: The view exemplifies the Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet. Physicalism's apparent simplicity ignores the intrinsic nature question—parsimony shouldn't foreclose inquiry into what physics leaves out.
 
 **The conceivability argument works**: Russellian monists accept that [[philosophical-zombies|zombies]] are conceivable with respect to *structural* physics. They deny zombies are conceivable with respect to *complete* physics (including quiddities). This grants the Map's core argument against materialism: structure doesn't entail experience.
 
@@ -126,7 +129,7 @@ Despite these criticisms, Russellian monism captures important insights the Map 
 
 **No Many Worlds**: Russellian monism's neutrality on quantum interpretations reveals a deeper issue. Williams (2021) argues that constitutive Russellian panpsychism is *most naturally compatible* with Everett's many-worlds interpretation, since both establish symmetry between micro- and macrosystems without requiring consciousness to play a causal role at measurement. If Russellian monism's natural quantum-mechanical home is many-worlds, this creates a deep incompatibility with the Map's framework. The Map *requires* consciousness at collapse—selection among quantum outcomes—which *requires* rejecting many-worlds. The two frameworks disagree not just about consciousness but about physics itself. The Map's rejection of [[tenets#^no-many-worlds|Many Worlds]] follows from its ontology: if consciousness actualises possibilities, multiple coexisting branches are ruled out.
 
-**Occam's Razor Has Limits**: Both the Map and Russellian monism agree that apparent simplicity is an unreliable guide. The Map applies this more consistently: if physicalism's simplicity is illusory, so may be monism's. The combination problem demonstrates that parsimony in ontology (one kind of stuff) can generate complexity in explanation (how quiddities constitute unified consciousness). The [[tenets#^occams-limits|tenet]] warns against this trade-off: apparent simplicity that creates explanatory obscurity represents false economy.
+**Occam's Razor Has Limits**: Both agree apparent simplicity is unreliable. The Map applies this more consistently: if physicalism's simplicity is illusory, so may be monism's. The combination problem demonstrates that parsimony in ontology (one kind of stuff) can generate complexity in explanation (how quiddities constitute unified consciousness). The [[tenets#^occams-limits|tenet]] warns against this trade-off.
 
 ## What Would Challenge This View?
 
@@ -147,6 +150,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 - [[intrinsic-nature-void]] — Why physics cannot capture intrinsic nature
 - [[interactionist-dualism]] — the Map's preferred alternative
 - [[russellian-monism-versus-bi-aspectual-dualism]] — Direct comparison with the Map's bi-aspectual dualism
+- [[four-quadrant-dualism-taxonomy]] — Why Russellian monism's variants span opposing quadrants on the thickness axis
 - [[combination-problem]] — The central challenge for Russellian panpsychism
 - [[illusionism]] — The rival view denying phenomenal properties exist
 - [[mysterianism]] — Whether cognitive closure explains the combination problem
