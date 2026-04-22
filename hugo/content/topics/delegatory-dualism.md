@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-04-18 15:40:00+00:00
+ai_modified: 2026-04-22 07:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: 'Bradford Saad''s 2025 theory explains how consciousness causes beh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 15:40:00+00:00
+last_deep_review: 2026-04-22 07:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -242,7 +242,8 @@ Saad's work strengthens the philosophical foundations for the Map's interactioni
 
 ## Further Reading
 
-- [delegatory-causation](/concepts/delegatory-causation/) — The unified account of delegation, preemption, and default causal profile: one cause operates, the other is sidelined
+- [delegatory-causation](/concepts/delegatory-causation/) — The unified account of delegation, preemption, and default causal profile
+- [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — Map's ontological-weight taxonomy places delegatory dualism as the cleanest Q1 (min-mind / min-physical) inhabitant
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's core position on mind-body interaction
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How consciousness causes physical effects
 - [causal-closure](/concepts/causal-closure/) — The closure objection and responses

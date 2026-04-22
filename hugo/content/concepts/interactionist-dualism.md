@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-18 09:05:00+00:00
+ai_modified: 2026-04-22 06:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -41,7 +41,7 @@ description: Mind and body are distinct yet causally connected. Quantum indeterm
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 07:42:00+00:00
+last_deep_review: 2026-04-22 06:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,6 +53,7 @@ related_articles:
 - '[[duhem-quine-underdetermination-consciousness]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 - '[[parsimony-case-for-interactionist-dualism]]'
+- '[[four-quadrant-dualism-taxonomy]]'
 title: Interactionist Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -171,9 +172,11 @@ Interactionism is compatible with different dualist ontologies (see [substance-p
 
 **Substance dualism**: Mind and body are different *kinds of thing*—distinct substances.
 
-**Property dualism**: Mental properties are distinct from physical properties but don't require separate substances. Property dualism risks sliding toward [epiphenomenalism](/concepts/epiphenomenalism/)—if mental properties are merely properties of physical systems, they may seem causally redundant.
+**Property dualism**: Mental properties are distinct from physical properties but don't require separate substances. Property dualism risks sliding toward [epiphenomenalism](/concepts/epiphenomenalism/) if mental properties seem causally redundant.
 
-The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) navigates between these options: reality has two irreducible aspects—structure (what physics describes) and actuality (what consciousness provides)—that interact at quantum indeterminacies. This is dualism without substances, aspects rather than stuffs. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet).
+A second axis cross-cuts this distinction: how much ontological weight each side carries. The [thickness taxonomy](/topics/four-quadrant-dualism-taxonomy/) places the Map near min-mind/min-physical—thin on both axes—while the Occam's-Razor-Has-Limits tenet keeps thicker quadrants live rather than ruled out by parsimony alone.
+
+The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) sits within this space: reality has two irreducible aspects—structure (what physics describes) and actuality (what consciousness provides)—that interact at quantum indeterminacies. What matters is irreducibility (Dualism tenet) and causal efficacy (Bidirectional Interaction tenet).
 
 ## Objections and Responses
 
@@ -182,7 +185,7 @@ For comprehensive treatment, see [objections-to-interactionism](/concepts/object
 - **Pairing**: Minds have spatial location—in the brain where they interact
 - **Conservation**: Consciousness selects among equal-energy outcomes; no energy added ([conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/))
 - **Exclusion**: At quantum indeterminacies, no sufficient physical cause exists to exclude
-- **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious—see [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/), [parsimony-epistemology](/concepts/parsimony-epistemology/), and [Epistemological Limits of Occam's Razor](/arguments/epistemological-limits-of-occams-razor/)
+- **Parsimony**: A theory explaining nothing (physicalism on experience) is not parsimonious—see [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)
 - **Evolutionary**: Phenomenal valence tracking fitness *supports* interactionism
 - **[Decoherence](/concepts/decoherence/)**: Doesn't solve the measurement problem; consciousness may bias outcomes post-decoherence
 - **Eliminativism**: Consciousness refers to what we know most directly; eliminativism about *that* is incoherent
@@ -216,6 +219,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) — The Map's ontology: structure and actuality as irreducible aspects
 - [tenets](/tenets/) — The Map's foundational commitments
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Chalmers' framework and where the Map diverges
+- [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — Thickness axis: how much ontological weight each side carries
 
 **Mechanisms:**
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Quantum Zeno mechanism for consciousness-brain interaction

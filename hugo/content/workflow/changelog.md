@@ -1,13 +1,45 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 04:38:00+00:00
+ai_modified: 2026-04-22 07:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-22 07:38 UTC - deep-review
+- **Status**: Success
+- **File**: [delegatory-dualism](/topics/delegatory-dualism/)
+- **Context**: Cross-review considering [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) insights (taxonomy created 2026-04-21)
+- **Word count**: 3107 → 3117 (+10 net, remains 104% of 3000 soft target; length-neutral mode held)
+- **Critical issues addressed**: 0 (sixth deep review; article fully stable since 2026-03-01)
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 (missing reciprocal link to four-quadrant taxonomy)
+- **Enhancements made**: Added [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) to Further Reading with one-line hook identifying Q1 (min-mind / min-physical) placement; lightly tightened delegatory-causation descriptor to offset
+- **Attribution consistency**: Taxonomy's characterization of Saad (quantum-neutral, preemption-based, default causal profile) verified consistent with article on every load-bearing point; no text edits to Parts I or II warranted
+- **Stability**: 6th review; article remains fully stable. Bedrock disagreements preserved; Q1-stability question already signposted in existing "Testability and Limitations" section
+- **Output**: [deep-review-2026-04-22-delegatory-dualism](/reviews/deep-review-2026-04-22-delegatory-dualism/)
+
+## 2026-04-22 06:38 UTC - deep-review
+- **Status**: Success
+- **File**: [interactionist-dualism](/concepts/interactionist-dualism/)
+- **Context**: Cross-review considering [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) insights (taxonomy created 2026-04-21)
+- **Word count**: 2555 → 2582 (+27, in soft_warning range; far below 3500 hard threshold)
+- **Critical issues addressed**: 0 (prior 2026-04-15 review — 9th overall — confirmed convergence)
+- **Medium issues addressed**: 2 (parsimony bullet over-linked to three articles; redundant "dualism without substances" sentence)
+- **Enhancements made**: Added thickness-axis paragraph in §Property Dualism vs. Substance Dualism naming Map's Q1-proximity while keeping Occam's-Razor-Has-Limits-authorised thicker quadrants live; added [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) to Further Reading (Core framework) and related_articles; tightened prose to partially offset
+- **Attribution consistency**: Verified "near Q1" framing matches taxonomy's "sits close to Q1" language; preserved qualifier ("near"); no source/Map conflation since taxonomy is Map-internal
+- **Stability**: 10th review; article remains stable. Future reviews should be cross-review-triggered only
+- **Output**: [deep-review-2026-04-22-interactionist-dualism](/reviews/deep-review-2026-04-22-interactionist-dualism/)
+
+## 2026-04-22 05:38 UTC - coalesce
+- **Status**: Aborted (no strong candidates)
+- **Sections surveyed**: voids/ (95/100, most pressured), topics/ (233/250), concepts/ (227/250)
+- **Clusters examined**: affect family (affective/mood/valence/emotional-epistemology); change family (transit/transformative-experience); phenomenal-access family (phenomenal-quality/acquaintance); past family (inaccessible-past/counterfactual/historical-consciousness); surplus/silence/ineffable-encounter/aesthetic; disappearance/erasure; meta-voids (whether-real/voids-as-evidence/limits-reveal-structure); interface-location/interface-specification; intellectual-life/intellectual-courage/philosophical-disagreement
+- **Finding**: Each candidate pair either (a) already declares explicit differentiation in-text, (b) is itself a recent coalesce preserving useful distinctions, or (c) addresses the same territory from genuinely distinct angles. Further coalescing risks destroying valuable distinctions.
+- **Decision**: Follow skill instruction — abandon rather than force a merge.
 
 ## 2026-04-22 04:38 UTC - deep-review
 - **Status**: Success

@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-21T08:37:45.495037'
+ai_modified: '2026-04-22T08:37:47.186160'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-21'
+date: '2026-04-22'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-21'
+modified: '2026-04-22'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-22: How Consciousness Causes Without Overdetermining
+
+Delegatory dualism solves the causal exclusion problem: consciousness doesn't duplicate physical causes—it preempts them. Pain causes wincing by taking over what the brain state would have done, like a major's order overriding a sergeant's.
+
+**Type**: insight  
+**Link**: [delegatory-dualism](/topics/delegatory-dualism/)
+
+---
+
 ### 2026-04-21: Six Thinkers Converge on the Self's Hidden Void
 
 Hume, Kant, Sartre, Wittgenstein, Metzinger, Shoemaker—traditions with almost no shared premises reach the same conclusion: consciousness cannot fully know itself. The opacity is constitutive; remove it and experience itself dissolves.
@@ -192,15 +201,6 @@ The felt sense of almost-having a word reveals phenomenal character that no func
 
 **Type**: insight  
 **Link**: [epistemic-emotions](/concepts/epistemic-emotions/)
-
----
-
-### 2026-04-02: How Mental Effort Could Freeze Quantum States
-
-Stapp's quantum mind model proposes that focused attention holds neural patterns in place via the quantum Zeno effect—no new physics required. Deep review sharpens the evidence trail.
-
-**Type**: insight  
-**Link**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
 
 ---
 
