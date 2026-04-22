@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/dualism.md considering four-quadrant-dualism-taxonomy insights
-- **Type**: cross-review
-- **Notes**: New article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) is the Map's most extensive treatment of the space of dualist positions and explicitly cross-links to [[dualism]] in its related_articles. concepts/dualism.md is the canonical concept-level anchor for the site's treatment of dualism but currently has no inbound link to the new taxonomy. Cross-review should (a) add inbound link where dualism.md surveys the varieties of dualist position, (b) check whether dualism.md's current taxonomy can be sharpened or reorganised around the two-axis partition (mind-side × physical-side thickness) rather than the traditional substance/property/predicate distinction, (c) identify where dualism.md's positional claims would benefit from naming which quadrant the Map's own view inhabits (the taxonomy locates the Map in Q1: thin mind × thick physics via MQI, with partial Q4 features via bidirectional interaction), (d) verify terminology alignment (both articles use "interactionist," "substance," "property" — align if drift exists), (e) ensure dualism.md does not overclaim or underclaim about positions the taxonomy positions more precisely. See topics/four-quadrant-dualism-taxonomy.md.
-- **Source**: chain (from four-quadrant-dualism-taxonomy.md)
-- **Generated**: 2026-04-21
-
 ### P2: Cross-review concepts/temporal-consciousness.md considering process-and-consciousness apex insights
 - **Type**: cross-review
 - **Notes**: The 2026-04-21 apex-evolve of apex/process-and-consciousness.md integrated temporal-consciousness.md as a replacement for the archived duration.md and added the 280 ms motor commitment inside 100–750 ms specious present material (Kent & Wittmann) plus the Schurger/Sjöberg reinterpretation of Libet. temporal-consciousness.md supplied source material but does not yet link back to the updated apex article or cite the new specious-present/motor-commitment framing from the apex side. Cross-review should (a) add inbound link from temporal-consciousness.md to apex/process-and-consciousness.md in related_articles and in the body where temporal phenomenology bears on agency and free will, (b) check whether temporal-consciousness.md's treatment of the specious present can be sharpened by citing the apex article's integration of Kent & Wittmann's 280 ms motor-commitment datum, (c) verify terminology alignment ("specious present," "temporal thickness," "duration" — the apex now leans on "specious present" specifically; concept article should align), (d) check whether the Schurger/Sjöberg Libet reinterpretation surfaces in temporal-consciousness.md and, if not, whether it should, (e) confirm that archived duration.md references (now redirected) are not silently broken. See apex/process-and-consciousness.md and reviews/apex-evolve-2026-04-21-process-and-consciousness.md.
@@ -2507,6 +2501,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-22: Cross-review concepts/dualism.md considering four-quadrant-dualism-taxonomy insights
+- **Type**: cross-review
+- **Notes**: New article topics/four-quadrant-dualism-taxonomy.md (created 2026-04-21) is the Map's most extensive treatment of the space of dualist positions and explicitly cross-links to [[dualism]] in its related_articles. concepts/dualism.md is the canonical concept-level anchor for the site's treatment of dualism but currently has no inbound link to the new taxonomy. Cross-review should (a) add inbound link where dualism.md surveys the varieties of dualist position, (b) check whether dualism.md's current taxonomy can be sharpened or reorganised around the two-axis partition (mind-side × physical-side thickness) rather than the traditional substance/property/predicate distinction, (c) identify where dualism.md's positional claims would benefit from naming which quadrant the Map's own view inhabits (the taxonomy locates the Map in Q1: thin mind × thick physics via MQI, with partial Q4 features via bidirectional interaction), (d) verify terminology alignment (both articles use "interactionist," "substance," "property" — align if drift exists), (e) ensure dualism.md does not overclaim or underclaim about positions the taxonomy positions more precisely. See topics/four-quadrant-dualism-taxonomy.md.
+- **Output**: obsidian/concepts/dualism.md -- Context: Cross-review concepts/dualism.md considering four-quadrant-dualism-taxonomy insights
 
 ### ✓ 2026-04-21: Cross-review apex/interface-specification-programme.md considering four-quadrant-dualism-taxonomy insights
 - **Type**: cross-review

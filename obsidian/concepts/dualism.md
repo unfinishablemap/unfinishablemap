@@ -4,7 +4,7 @@ description: "Dualism holds that consciousness is distinct from physical matter.
 created: 2026-01-14
 modified: 2026-03-11
 human_modified: null
-ai_modified: 2026-03-25T01:24:00+00:00
+ai_modified: 2026-04-22T01:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -55,12 +55,13 @@ related_articles:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[russellian-monism-versus-bi-aspectual-dualism]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
+  - "[[four-quadrant-dualism-taxonomy]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-19
 last_curated: null
-last_deep_review: 2026-03-19T15:36:00+00:00
+last_deep_review: 2026-04-22T01:39:00+00:00
 coalesced_from:
   - "/concepts/the-case-for-dualism/"
   - "/concepts/arguments-against-materialism/"
@@ -87,9 +88,11 @@ Dualism comes in two main forms (see [[substance-property-dualism]] for detailed
 
 The Map's [[tenets#^dualism|Dualism tenet]] is compatible with either formulation. What matters is the irreducibility claim: consciousness cannot be identified with or derived from physical processes.
 
+A second axis cross-cuts the substance/property distinction: how much ontological weight each side carries. The [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy]] sorts positions by mind-side and physical-side thickness, exposing combinations (e.g., thick-observer/thin-channel positions like Stapp's) that one-axis classifications collapse. The Map's tenets exclude pure epiphenomenalism and the idealist limit but leave a genuine region of options open.
+
 ## Arguments for Dualism
 
-Multiple independent arguments support the dualist conclusion. Their convergence is significant—different starting points reach the same destination.
+Multiple independent arguments support the dualist conclusion, converging from different starting points.
 
 ### The Explanatory Gap
 
@@ -207,7 +210,7 @@ Combined with the [[tenets#^bidirectional-interaction|Bidirectional Interaction]
 
 **The Map's framework:** [[bi-aspectual-ontology]], [[interactionist-dualism]], [[the-reverse-inference]], [[quantum-consciousness]], [[objections-to-interactionism]], [[epistemic-advantages-of-dualism]], [[epistemology]], [[epistemological-limits-of-occams-razor]], [[epistemological-limits-occams-razor]], [[parsimony-epistemology]], [[causal-closure]], [[mental-causation-and-downward-causation|mental causation]], [[topics/free-will]]
 
-**Varieties and context:** [[substance-property-dualism]], [[intuitive-dualism]], [[cognitive-science-of-dualism]], [[buddhism-and-dualism]]
+**Varieties and context:** [[substance-property-dualism]], [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy]], [[intuitive-dualism]], [[cognitive-science-of-dualism]], [[buddhism-and-dualism]]
 
 **Alternative frameworks:** [[idealism]], [[analytic-idealism-and-mind-centric-metaphysics|analytic idealism]], [[russellian-monism-versus-bi-aspectual-dualism|Russellian monism vs bi-aspectual dualism]]
 
