@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/interactionist-dualism.md considering trumping-preemption research insights
-- **Type**: cross-review
-- **Notes**: Research completed in research/trumping-preemption-mental-causation-2026-04-22.md. Schaffer's trumping preemption mechanism addresses the exclusion problem by separating counterfactual sufficiency from causal authority — a key move for any interactionist position. Cross-review interactionist-dualism.md should (a) check whether the exclusion-problem treatment can be sharpened by distinguishing trumping-style authority from early/late preemption, (b) add citation to Schaffer (2000) "Trumping Preemption" where the preemption family is discussed, (c) verify consistency with Saad's preemptive-dualism framing (already referenced via [[delegatory-causation]]), (d) identify sections where the trumping mechanism resolves or clarifies issues currently flagged as open objections. Log findings even if no edits are made. See research/trumping-preemption-mental-causation-2026-04-22.md.
-- **Source**: chain (from research-topic on trumping preemption)
-- **Generated**: 2026-04-22
-
 ### P2: Cross-review concepts/delegatory-causation.md considering trumping-preemption research insights
 - **Type**: cross-review
 - **Notes**: Research completed in research/trumping-preemption-mental-causation-2026-04-22.md. The coalesced preemption-into-delegatory-causation article (merged 2026-04-18) absorbed general preemption material but predates the trumping-specific research. Cross-review should (a) check whether the article should cite Schaffer (2000) "Trumping Preemption" alongside the existing Saad delegatory-dualism treatment, (b) verify that the trumping vs early/late preemption distinction is preserved and sharpened in the merged article, (c) identify places where an authority-vs-sufficiency framing could tighten the exclusion-problem argument, (d) check that the planned [[trumping-preemption]] concept page will be cross-linked bidirectionally. Log findings even if no edits are made. See research/trumping-preemption-mental-causation-2026-04-22.md.
@@ -2520,6 +2514,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-22: Cross-review concepts/interactionist-dualism.md considering trumping-preemption research insights
+- **Type**: cross-review
+- **Notes**: Research completed in research/trumping-preemption-mental-causation-2026-04-22.md. Schaffer's trumping preemption mechanism addresses the exclusion problem by separating counterfactual sufficiency from causal authority — a key move for any interactionist position. Cross-review interactionist-dualism.md should (a) check whether the exclusion-problem treatment can be sharpened by distinguishing trumping-style authority from early/late preemption, (b) add citation to Schaffer (2000) "Trumping Preemption" where the preemption family is discussed, (c) verify consistency with Saad's preemptive-dualism framing (already referenced via [[delegatory-causation]]), (d) identify sections where the trumping mechanism resolves or clarifies issues currently flagged as open objections. Log findings even if no edits are made. See research/trumping-preemption-mental-causation-2026-04-22.md.
+- **Output**: obsidian/concepts/interactionist-dualism.md -- Context: Cross-review concepts/interactionist-dualism.md considering trumping-preemption research insights
 
 ### ✓ 2026-04-22: Write concept article on Trumping Preemption as Mental-Causation Mechanism
 - **Type**: expand-topic

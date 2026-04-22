@@ -4,7 +4,7 @@ description: "Mind and body are distinct yet causally connected. Quantum indeter
 created: 2026-01-14
 modified: 2026-01-31
 human_modified: null
-ai_modified: 2026-04-22T06:38:00+00:00
+ai_modified: 2026-04-22T19:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,6 +37,7 @@ concepts:
   - "[[observational-closure]]"
   - "[[bi-aspectual-ontology]]"
   - "[[amplification-void]]"
+  - "[[trumping-preemption]]"
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-as-amplifier]]"
@@ -53,7 +54,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-04-22T06:38:00+00:00
+last_deep_review: 2026-04-22T19:38:00+00:00
 coalesced_from:
   - "/arguments/interactionist-dualism/"
 ---
@@ -80,13 +81,13 @@ If consciousness is ontologically distinct from physics, their relationship requ
 
 Crucially, [[supervenience]] laws alone yield epiphenomenalism—consciousness merely accompanies physical states without causing anything. The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires *causal* laws: consciousness selects among physically underdetermined alternatives, not just accompanies determined outcomes.
 
-Chalmers tends toward epiphenomenalism. The Map diverges: the self-stultification argument shows epiphenomenalism is self-undermining (see Argument 6 below). The [[psychophysical-laws]] page explains Chalmers' framework and where the Map departs.
+Chalmers tends toward epiphenomenalism; the Map diverges via the self-stultification argument (see Argument 6 below). The [[psychophysical-laws]] page details where the Map departs from Chalmers.
 
 ## The Historical Problem
 
 René Descartes established the classic formulation: mind (res cogitans) and body (res extensa) are distinct substances that interact. Princess Elizabeth of Bohemia immediately asked how something non-spatial could affect something spatial. Leibniz sharpened the objection: if mind pushes matter, it adds momentum, violating conservation. Contemporary physicists like Sean Carroll revitalize this argument. See [[history-of-the-interaction-problem]] for the full trajectory from Descartes through Leibniz to quantum mechanics.
 
-Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. Notably, non-Western traditions independently developed [[interaction-problem-across-traditions|the same structural types of solution]]—this [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence on mental causation]] is itself evidentially significant. See [[conservation-laws-and-mental-causation]] for why the conservation objection fails and how the "selection not injection" framework provides a positive account of mental causation.
+Yet recent work demonstrates this objection rests on misunderstandings. Conservation is *local* and *conditional*—it holds given certain assumptions. The objection begs the question: expecting conservation to hold in the brain assumes interactionism is false. Notably, non-Western traditions independently developed [[interaction-problem-across-traditions|the same structural types of solution]]—this [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence on mental causation]] is itself evidentially significant. See [[conservation-laws-and-mental-causation]] for the "selection not injection" account that replaces it.
 
 Meanwhile, [[concepts/epiphenomenalism]] faces its own devastating objection: if consciousness causes nothing, how can we know anything about consciousness? The [[epiphenomenalism-argument|cumulative case against epiphenomenalism]] presents four independent arguments—self-stultification, evolutionary, knowledge-based, and introspective—showing that denying mental causation is epistemically self-defeating. Your belief that you're in pain must be caused by your pain.
 
@@ -116,15 +117,15 @@ Two responses address the exclusion argument:
 
 **Quantum response**: The Map rejects premise 1. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet holds physics is *not* causally closed at quantum indeterminacies—physics specifies probabilities but not outcomes. The [[stapp-quantum-mind|Stapp model]] articulates this: consciousness operates through rapid observation (quantum Zeno effect), holding desired neural patterns in place. At quantum indeterminacies, physics is "silent" about outcomes.
 
-**Delegation response**: [[delegatory-dualism|Delegatory dualism]] (Saad 2025) rejects premise 3 without accepting overdetermination. Through [[delegatory-causation|causal delegation]], physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles. When pain causes wincing, the physical state's causal role is [[delegatory-causation|preempted]], not duplicated. Saad's crucial distinction between universal closure and [[observational-closure|observational closure]] shows that dualists need only respect empirical constraints, not the stronger metaphysical claim. The [[delegation-meets-quantum-selection|delegation-selection bridge]] integrates both responses: Saad's default causal profile maps onto the Born-rule distribution, making delegation the causal structure and quantum selection the physical mechanism of a single event.
+**Delegation response**: [[delegatory-dualism|Delegatory dualism]] (Saad 2025) rejects premise 3 without accepting overdetermination. Through [[delegatory-causation|causal delegation]], physical brain states *delegate* their causal responsibilities to experiences that share their causal profiles. When pain causes wincing, the physical state's role is [[trumping-preemption|preempted]]—Saad's framework instantiates Schaffer's trumping structure, where a higher-order law selects one of two sufficient processes as authoritative. Saad's distinction between universal closure and [[observational-closure|observational closure]] shows that dualists need only respect empirical constraints, not the stronger metaphysical claim. The [[delegation-meets-quantum-selection|delegation-selection bridge]] integrates both responses: Saad's default causal profile maps onto the Born-rule distribution, making delegation the causal structure and quantum selection the physical mechanism of a single event.
 
 ## The Pairing Problem
 
-Kim asks: what pairs a particular mind with a particular body? If minds are non-spatial, no spatial relation grounds the pairing. The response: contemporary dualists accept minds are spatially located—in the brain where they causally interact. The distinctiveness of consciousness is metaphysical, not spatial. See [[objections-to-interactionism]] for fuller treatment.
+Kim asks: what pairs a particular mind with a particular body? If minds are non-spatial, no spatial relation grounds the pairing. The response: contemporary dualists accept minds are spatially located—in the brain where they causally interact. The distinctiveness of consciousness is metaphysical, not spatial. See [[objections-to-interactionism]].
 
 ## The Multi-Mind Collapse Problem
 
-If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [[multi-mind-collapse-problem|solution]] combines [[brain-interface-boundary]] with [[prebiotic-collapse]]: each consciousness interfaces only with its own brain; external systems collapse through objective physical processes. Attention is neurally implemented—you cannot attend to distant quantum systems. No coordination is needed because each mind operates on its own substrate.
+If consciousness causes quantum collapse, what happens when multiple minds observe the same system? The [[multi-mind-collapse-problem|solution]] combines [[brain-interface-boundary]] with [[prebiotic-collapse]]: each consciousness interfaces only with its own brain; external systems collapse through objective physical processes. Attention is neurally implemented—you cannot attend to distant quantum systems. No coordination needed: each mind operates on its own substrate.
 
 ## Quantum Interactionism
 
@@ -150,7 +151,7 @@ Beyond *where* consciousness interfaces with physics, interactionism must specif
 
 ## The Decoherence Objection
 
-Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters significantly; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, [[decoherence]] explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting the decoherence concern, the chain from quantum-scale influence to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable—the [[amplification-void|amplification void]]. The Map takes no position on which quantum mechanism is correct, only that some interface exists.
+Critics argue brain quantum effects decohere too fast (~10^-13 seconds by Tegmark's calculation). Responses: the Zeno effect doesn't require long coherence; Hameroff challenged Tegmark's parameters; photosynthesis demonstrates quantum effects in warm, wet systems. Crucially, [[decoherence]] explains basis selection but not why *this particular* outcome occurs—consciousness could bias outcomes even after decoherence. Even granting the decoherence concern, the chain from quantum-scale influence to macroscopic neural effect passes through regimes where chaotic dynamics make the pathway structurally untraceable—the [[amplification-void|amplification void]]. The Map takes no position on which quantum mechanism is correct, only that some interface exists.
 
 ## Agent Causation: The Metaphysical Framework
 
@@ -230,6 +231,7 @@ Elizabeth of Bohemia's question—how can mind affect matter?—now has a candid
 - [[conservation-laws-and-mental-causation]] — Why the conservation objection fails
 - [[causal-closure]] — The closure objection and responses
 - [[causal-closure-debate-historical-survey]] — How the closure principle evolved from Elisabeth through Leibniz to Kim
+- [[trumping-preemption]] — Schaffer's authority-vs-sufficiency template underlying the delegation response
 
 **Epistemology:**
 - [[epistemology-of-mechanism-at-the-consciousness-matter-interface]] — What kind of knowledge about the interface is epistemically available

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 18:45:00+00:00
+ai_modified: 2026-04-22 19:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-22 19:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/interactionist-dualism]]
+- **Context**: Cross-review considering [[trumping-preemption]] insights (concept created 2026-04-22)
+- **Word count**: 2582 → 2584 (+2 words, 103% of 2500 soft target; length-neutral mode)
+- **Critical issues addressed**: 0 (eleventh review; article stable; second same-day cross-review)
+- **Medium issues addressed**: 2 (redundant delegatory-causation link retargeted to trumping-preemption; offsetting length-neutral trims applied)
+- **Enhancements made**: 3 (trumping genealogy named in Delegation response; Further Reading cross-link added; frontmatter concepts list updated)
+- **Output**: [[reviews/deep-review-2026-04-22b-interactionist-dualism]]
 
 ## 2026-04-22 18:39 UTC - pessimistic-review
 - **Status**: Success
