@@ -1,13 +1,59 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 00:37:00+00:00
+ai_modified: 2026-04-22 04:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-22'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-22 04:38 UTC - deep-review
+- **Status**: Success
+- **File**: [delegatory-causation](/concepts/delegatory-causation/)
+- **Context**: Cross-review considering [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) insights (taxonomy reviewed 2026-04-21)
+- **Word count**: 3410 → 3464 (+54, below 3500 hard threshold; length-neutral mode)
+- **Critical issues addressed**: 0 (prior 2026-04-18 review resolved remaining issues)
+- **Medium issues addressed**: 1 (missing reciprocal taxonomic placement — article did not acknowledge its Q1 (min-mind / min-physical) position in the thickness taxonomy even though the taxonomy names it "the cleanest Q1 inhabitant")
+- **Enhancements made**: Added Q1-placement paragraph in §Honest Limitations naming the open Q1-stability question; added [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) to related_articles and Further Reading; tightened trivial closings (removed "The lesson:" editorialising; compressed speculative final sentence of §Inverse section) to offset added content
+- **Attribution consistency**: Cross-checked Saad characterization between delegatory-causation and four-quadrant-dualism-taxonomy — consistent (Saad's bare mechanism is quantum-agnostic; Born-rule identification is Map-specific integration in both)
+- **Stability**: Second review; article remains stable. All prior bedrock disagreements preserved; Q1 stability is now an acknowledged open question rather than an external unresolved issue. Length now at 99% of hard threshold — future edits must be length-neutral or net-negative
+- **Output**: [deep-review-2026-04-22-delegatory-causation](/reviews/deep-review-2026-04-22-delegatory-causation/)
+
+## 2026-04-22 03:46 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-probability-consciousness](/concepts/quantum-probability-consciousness/)
+- **Context**: 6th review; triggered by five cross-link integrations from other deep-reviews since 2026-03-19 (indexical-knowledge, wheelers-participatory-universe, born-rule-and-consciousness-interface, conservation-laws-and-mental-causation, born-rule-interpretation-invariance)
+- **Word count**: 2631 → 2644 (+13)
+- **Critical issues addressed**: 1 (Torres Alegre 2025 cited in-text but missing from References — added reference 20)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added Torres Alegre reference entry)
+- **Stability**: 6th review confirms continued stability. All bedrock disagreements (eliminativism, functionalism, MWI, mysterianism) already acknowledged in-article
+- **Output**: [deep-review-2026-04-22-quantum-probability-consciousness](/reviews/deep-review-2026-04-22-quantum-probability-consciousness/)
+
+## 2026-04-22 02:39 UTC - deep-review
+- **Status**: Success
+- **File**: [temporal-consciousness](/concepts/temporal-consciousness/)
+- **Context**: Cross-review considering [process-and-consciousness](/apex/process-and-consciousness/) apex insights (apex modified 2026-04-21)
+- **Word count**: 2836 → 2839 (+3, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Whitehead cited in bibliography but uncited in body — added two minimal concrescence connections reciprocating the apex's structural claims)
+- **Enhancements made**: Concrescence framed as metaphysical counterpart to temporal thickness in the Temporal Thickness section; specious present framed as phenomenological face of concrescence alongside quantum collapse in the quantum section
+- **Offsetting trims**: Removed two redundant time-reversibility sentences (covered by [collapse-and-time](/concepts/collapse-and-time/))
+- **Stability**: Ninth review; remains stable. Bedrock disagreements (MWI, illusionism, panpsychism, mental-time-travel self) unchanged
+- **Output**: [deep-review-2026-04-22-temporal-consciousness](/reviews/deep-review-2026-04-22-temporal-consciousness/)
+
+## 2026-04-22 01:39 UTC - deep-review
+- **Status**: Success
+- **File**: [dualism](/concepts/dualism/)
+- **Context**: Cross-review considering [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) insights
+- **Word count**: 2432 → 2482 (+50, +2%)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added cross-reference to thickness-axis taxonomy in *Main Varieties*; added related_articles + Further Reading entries)
+- **Enhancements made**: 1 new sentence naming the orthogonal thickness axis without forcing a quadrant placement on the concept page; tightened redundant *Arguments for Dualism* opener to stay under soft length threshold
+- **Stability**: Eighth review; remains highly stable — only new substantive change is the cross-link to a taxonomy article that did not exist at the previous review
+- **Output**: [deep-review-2026-04-22-dualism](/reviews/deep-review-2026-04-22-dualism/)
 
 ## 2026-04-22 00:37 UTC - optimistic-review
 - **Status**: Success

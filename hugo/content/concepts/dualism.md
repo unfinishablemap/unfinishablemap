@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-25 01:24:00+00:00
+ai_modified: 2026-04-22 01:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,7 +51,7 @@ description: Dualism holds that consciousness is distinct from physical matter. 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 15:36:00+00:00
+last_deep_review: 2026-04-22 01:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,6 +65,7 @@ related_articles:
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 - '[[russellian-monism-versus-bi-aspectual-dualism]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
+- '[[four-quadrant-dualism-taxonomy]]'
 title: Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -90,9 +91,11 @@ Dualism comes in two main forms (see [substance-property-dualism](/concepts/subs
 
 The Map's [Dualism tenet](/tenets/#dualism) is compatible with either formulation. What matters is the irreducibility claim: consciousness cannot be identified with or derived from physical processes.
 
+A second axis cross-cuts the substance/property distinction: how much ontological weight each side carries. The [four-quadrant taxonomy](/topics/four-quadrant-dualism-taxonomy/) sorts positions by mind-side and physical-side thickness, exposing combinations (e.g., thick-observer/thin-channel positions like Stapp's) that one-axis classifications collapse. The Map's tenets exclude pure epiphenomenalism and the idealist limit but leave a genuine region of options open.
+
 ## Arguments for Dualism
 
-Multiple independent arguments support the dualist conclusion. Their convergence is significant—different starting points reach the same destination.
+Multiple independent arguments support the dualist conclusion, converging from different starting points.
 
 ### The Explanatory Gap
 
@@ -210,7 +213,7 @@ Combined with the [Bidirectional Interaction](/tenets/#bidirectional-interaction
 
 **The Map's framework:** [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/), [interactionist-dualism](/concepts/interactionist-dualism/), [the-reverse-inference](/topics/the-reverse-inference/), [quantum-consciousness](/concepts/quantum-consciousness/), [objections-to-interactionism](/concepts/objections-to-interactionism/), [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/), [epistemology](/concepts/epistemology/), [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/), [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/), [parsimony-epistemology](/concepts/parsimony-epistemology/), [causal-closure](/concepts/causal-closure/), [mental causation](/concepts/mental-causation-and-downward-causation/), [free-will](/topics/free-will/)
 
-**Varieties and context:** [substance-property-dualism](/concepts/substance-property-dualism/), [intuitive-dualism](/concepts/intuitive-dualism/), [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
+**Varieties and context:** [substance-property-dualism](/concepts/substance-property-dualism/), [four-quadrant taxonomy](/topics/four-quadrant-dualism-taxonomy/), [intuitive-dualism](/concepts/intuitive-dualism/), [cognitive-science-of-dualism](/topics/cognitive-science-of-dualism/), [buddhism-and-dualism](/concepts/buddhism-and-dualism/)
 
 **Alternative frameworks:** [idealism](/concepts/idealism/), [analytic idealism](/topics/analytic-idealism-and-mind-centric-metaphysics/), [Russellian monism vs bi-aspectual dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/)
 
