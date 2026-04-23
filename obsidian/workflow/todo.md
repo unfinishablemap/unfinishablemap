@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/understanding-void.md considering noetic-feelings-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/noetic-feelings-void.md` (created 2026-04-23) lists `[[understanding-void]]` as the first of its related voids and treats feeling-of-understanding (FOU) as a noetic feeling manipulable independently of reasoning itself — precisely the material that bears on understanding-void's claims about the introspective inaccessibility of comprehension. Cross-review should (a) add inbound links from understanding-void to noetic-feelings-void where the fluency-FOU material is relevant, (b) check whether understanding-void's treatment of the felt arc of understanding can now cite Thompson (2009) and the generation-fluency literature catalogued in the new piece, (c) verify terminology consistency (the two articles must not diverge on whether "understanding" names the reasoning, the felt signal, or the metacognitive attribution), (d) check whether any passages in understanding-void overclaim what the noetic-feelings framing shows to be structurally fluency-driven, (e) identify where a reciprocal locator in the new piece would point readers back to understanding-void's specific architecture. Log findings even if no edits made.
-- **Source**: chain (from noetic-feelings-void.md)
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review voids/thought-stream-void.md considering distraction-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2609,6 +2602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review voids/understanding-void.md considering noetic-feelings-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/noetic-feelings-void.md` (created 2026-04-23) lists `[[understanding-void]]` as the first of its related voids and treats feeling-of-understanding (FOU) as a noetic feeling manipulable independently of reasoning itself — precisely the material that bears on understanding-void's claims about the introspective inaccessibility of comprehension. Cross-review should (a) add inbound links from understanding-void to noetic-feelings-void where the fluency-FOU material is relevant, (b) check whether understanding-void's treatment of the felt arc of understanding can now cite Thompson (2009) and the generation-fluency literature catalogued in the new piece, (c) verify terminology consistency (the two articles must not diverge on whether "understanding" names the reasoning, the felt signal, or the metacognitive attribution), (d) check whether any passages in understanding-void overclaim what the noetic-feelings framing shows to be structurally fluency-driven, (e) identify where a reciprocal locator in the new piece would point readers back to understanding-void's specific architecture. Log findings even if no edits made.
+- **Output**: obsidian/voids/understanding-void.md -- Context: Cross-review voids/understanding-void.md considering noetic-feelings-void insights
 
 ### ✓ 2026-04-23: Cross-review voids/recognition-void.md considering noetic-feelings-void insights
 - **Type**: cross-review
