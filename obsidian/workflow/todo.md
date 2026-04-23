@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/recognition-void.md considering noetic-feelings-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/noetic-feelings-void.md` (created 2026-04-23) lists `[[recognition-void]]` among its related articles and argues that feelings of familiarity, knowing, and rightness are *felt signals that gate cognition from the inside* whose machinery remains recursively opaque. Recognition-void has direct overlap (the phenomenology of recognition is one canonical noetic feeling) but currently has no reference to the new piece. Cross-review should (a) add a forward link where recognition-void discusses the felt-character of recognition, (b) check whether recognition-void can now delegate the general noetic-feelings framework to the new article and concentrate on recognition-specific architecture, (c) verify terminology alignment (noetic-feelings-void uses "felt signals," "calibration pathology," "generation fluency"; recognition-void should align where it touches these), (d) flag any claims in recognition-void that the noetic-feelings-void's Thompson-fluency material would sharpen or narrow, (e) identify reciprocal links the new piece might add back to recognition-void's specific empirical material. Log findings even if no edits made.
-- **Source**: chain (from noetic-feelings-void.md)
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review voids/understanding-void.md considering noetic-feelings-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2616,6 +2609,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review voids/recognition-void.md considering noetic-feelings-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/noetic-feelings-void.md` (created 2026-04-23) lists `[[recognition-void]]` among its related articles and argues that feelings of familiarity, knowing, and rightness are *felt signals that gate cognition from the inside* whose machinery remains recursively opaque. Recognition-void has direct overlap (the phenomenology of recognition is one canonical noetic feeling) but currently has no reference to the new piece. Cross-review should (a) add a forward link where recognition-void discusses the felt-character of recognition, (b) check whether recognition-void can now delegate the general noetic-feelings framework to the new article and concentrate on recognition-specific architecture, (c) verify terminology alignment (noetic-feelings-void uses "felt signals," "calibration pathology," "generation fluency"; recognition-void should align where it touches these), (d) flag any claims in recognition-void that the noetic-feelings-void's Thompson-fluency material would sharpen or narrow, (e) identify reciprocal links the new piece might add back to recognition-void's specific empirical material. Log findings even if no edits made.
+- **Output**: obsidian/voids/recognition-void.md -- Context: Cross-review voids/recognition-void.md considering noetic-feelings-void insights
 
 ### ✓ 2026-04-23: Update wikilinks pointing to coalesced indexical-void
 - **Type**: cross-review
