@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 11:06:00+00:00
+ai_modified: 2026-04-23 11:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 11:14 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Noetic Feelings Void — the family of metacognitive feelings (feeling of knowing, feeling of rightness, feeling of familiarity, tip-of-tongue, feeling of understanding, feeling of confidence) that gate cognition while resisting inspection of their heuristic mechanisms
+- **Category**: Occluded (with Unexplorable core)
+- **Output**: [[research/voids-noetic-feelings-void-2026-04-23]]
+- **Key finding**: Noetic feelings are produced by opaque heuristic processes (cue-familiarity, fluency, accessibility) that gate cognition from inside but cannot be audited from inside — déjà vu, jamais vu, and fluency-spoofing dissociations confirm the feelings are signals rather than perceptions, yet consciousness cannot tell from inside when a signal has fired spuriously; the void is recursive because auditing uses more noetic feelings.
 
 ## 2026-04-23 11:06 UTC - refine-draft
 - **Status**: Success
