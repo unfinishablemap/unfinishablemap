@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine? Can we predict which
 created: 2026-01-16
 modified: 2026-04-23
 human_modified: null
-ai_modified: 2026-04-23T12:52:00+00:00
+ai_modified: 2026-04-23T14:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[closure-types-void]]"
   - "[[apophatic-cartography]]"
   - "[[phenomenal-quality-void]]"
+  - "[[noetic-feelings-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -126,7 +127,7 @@ The recursive challenge applies equally to the dualist position the Map defends.
 
 ## Phenomenology of Suspension
 
-Approaching this question has a distinctive feel: **suspension rather than confusion**, where arguments on both sides have genuine force but neither settles the matter; **recursive vertigo** from recognising the self-referential structure; **temptation to premature closure**, the psychological pressure to declare the voids real or illusory and be done with it; and paradoxically, **relief in acceptance** that the question may be permanently open. This phenomenology differs from approaching [[self-maintained-cognitive-limits|defended territory]], where thoughts slide away or evade articulation. Suspension feels like stable equilibrium; defended territory feels like active deflection.
+Approaching this question has a distinctive feel: **suspension rather than confusion**, where arguments on both sides have genuine force but neither settles the matter; **recursive vertigo** from recognising the self-referential structure; **temptation to premature closure**, the psychological pressure to declare the voids real or illusory and be done with it; and paradoxically, **relief in acceptance** that the question may be permanently open. Each of these textures is itself a [[noetic-feelings-void|noetic feeling]] — a felt verdict whose underlying heuristic machinery is occluded — which means the suspended position must be held against the fluency-driven pull toward closure, not merely decided on intellectually. This phenomenology differs from approaching [[self-maintained-cognitive-limits|defended territory]], where thoughts slide away or evade articulation. Suspension feels like stable equilibrium; defended territory feels like active deflection.
 
 ## Implications for the Voids Framework
 

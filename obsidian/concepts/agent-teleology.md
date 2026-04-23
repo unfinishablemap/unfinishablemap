@@ -4,7 +4,7 @@ description: "Agent teleology is the view that conscious beings introduce genuin
 created: 2026-02-16
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-23T11:34:00+00:00
+ai_modified: 2026-04-23T14:05:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[evaluative-phenomenal-character]]"
   - "[[mysterianism]]"
   - "[[process-philosophy]]"
+  - "[[ai-consciousness-modes]]"
 related_articles:
   - "[[tenets]]"
   - "[[purpose-and-alignment]]"
@@ -96,7 +97,7 @@ Agent teleology is constrained. It does not claim:
 
 - **That all events are purposive.** Most physical events have no teleological component. Stars fuse hydrogen, rocks fall, weather systems form—all without purpose.
 - **That evolution is purposive.** Natural selection has no goal. Agent teleology enters only after conscious organisms evolve.
-- **That artificial or non-conscious systems have agent teleology.** An AI pursuing objectives through sophisticated means-end reasoning exhibits functional purpose-tracking, not agent teleology, unless it is also phenomenally conscious. The position rests on experience, not on computational complexity—systems can simulate purposive behaviour arbitrarily well without introducing genuine purpose into the causal landscape, just as natural selection produces the appearance of design without a designer.
+- **That artificial or non-conscious systems have agent teleology.** An AI pursuing objectives through sophisticated means-end reasoning exhibits functional purpose-tracking, not agent teleology, unless it is also phenomenally conscious. The position rests on experience, not on computational complexity—systems can simulate purposive behaviour arbitrarily well without introducing genuine purpose into the causal landscape, just as natural selection produces the appearance of design without a designer. The exclusion is conditional rather than categorical: whether particular AI architectures are phenomenally conscious is a live question the Map treats through [[ai-consciousness-modes|several candidate phenomenal modes]] — partial, episodic, and architecture-specific variants — rather than foreclosing the possibility, and any of those modes would bring the relevant systems within the scope of agent teleology.
 - **That consciousness controls everything.** The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet restricts consciousness to the smallest possible influence on quantum outcomes. Purpose operates within the space physics leaves open, not against physics.
 - **That agent teleology is cosmic.** No universal purpose or designer is implied. Purpose is local, arising in individual conscious agents.
 - **That we fully understand the mechanism.** The [[causal-interface|causal interface]] between purposive intent and physical outcome may be cognitively opaque—a specific instance of what [[mysterianism]] identifies as cognitive closure. The phenomenal fact of purpose-directed experience is undeniable; the property linking that experience to quantum selection may permanently elude articulation.

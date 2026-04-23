@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 14:00:00+00:00
+ai_modified: 2026-04-23 14:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 14:05 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[voids/meta-epistemology-of-limits]], [[concepts/psychophysical-laws]], [[concepts/mental-imagery]], [[concepts/agent-teleology]], [[voids/noetic-feelings-void]]
+- **Changes**: Installed six cross-links from optimistic-2026-04-23-midday review's Cross-Linking Suggestions table:
+  1. `meta-epistemology-of-limits` → `noetic-feelings-void` — inline link in "Phenomenology of Suspension" section (each felt texture named there is itself a noetic feeling)
+  2. `psychophysical-laws` → `mathematical-structure-of-the-consciousness-physics-interface` — inline reference to three-option MQI-sanctioned branch (corridor/minimum-outside-corridor/trumping) in the footnote to the Supervenience/Selection Laws table
+  3. `mental-imagery` → `trumping-preemption` — new paragraph framing motor imagery as a clean test case for authority-selecting coupling, preserving identity theorist's physical story while locating causal authority in consciousness
+  4. `agent-teleology` → `ai-consciousness-modes` — extended AI-exclusion bullet to clarify exclusion is conditional on phenomenality (not categorical), pointing to Map's candidate phenomenal modes for AI
+  5. `noetic-feelings-void` → `consciousness-and-scientific-explanation` — inline link in Occam's-Razor tenet paragraph (explanatory satisfaction as fluency-driven noetic feeling)
+  6. `noetic-feelings-void` → `consciousness-and-creativity` — inline link in family-of-noetic-feelings section (insight / "aha" moments as empirically studied family member)
+- **Frontmatter**: Reciprocated related_articles where missing (noetic-feelings-void added to meta-epistemology-of-limits; consciousness-and-scientific-explanation and consciousness-and-creativity added to noetic-feelings-void; ai-consciousness-modes added to agent-teleology)
+- **Published**: yes
 
 ## 2026-04-23 14:00 UTC - deep-review
 - **Status**: Success
