@@ -4,7 +4,7 @@ description: "A two-axis taxonomy sorting dualist positions by how much ontologi
 created: 2026-04-21
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T13:15:00+00:00
+ai_modified: 2026-04-23T14:54:00+00:00
 draft: false
 topics:
   - dualism
@@ -199,6 +199,13 @@ Changes made in response to pessimistic review 2026-04-23 (Issues 1–4, Counter
 Second-pass additions (13:15 UTC) addressing remaining counterargument gaps:
 - Strengthened the orthogonality argument with concrete cases: Nida-Rümelin vs Descartes (both Type-D but different mind-thickness), and Saad vs Chalmers-naturalistic (Saad is Type-D-proximal but mind-thin where Chalmers is mind-medium). This disarms Counterargument 1 (the re-parameterisation-of-Chalmers charge) by showing Type-D/E/F and thickness pull apart on named positions, not just in principle
 - Rewrote Q4 closing paragraph to explicitly acknowledge that maximum commitments on both sides do carry real explanatory costs independent of sociology, and that Q4's losses on parsimony are case-by-case rather than a uniform verdict — addresses Counterargument 2 (the "parsimony-cost vs sociology" charge), aligning the Q4 paragraph with the already-revised §"Why the Thickness Axis Matters" language
+
+Third-pass verification (14:54 UTC) — P1 re-run of pessimistic-2026-04-23 refinement:
+- Cross-checked all four critical issues, six unsupported-claim rows, three counterarguments, and six language-improvement rows from the review against current text. All items already addressed by the 12:00 UTC and 13:15 UTC passes — no further substantive edits required.
+- Verified Q3 "unstable" / "slides toward" at line 108 is a legitimate logical-collapse usage (the mental doing all the work makes the physical explanatorily redundant), distinct from the Q1 "stability" dynamical-systems metaphor Issue 4 flagged — kept as is.
+- Verified "Stapp is the cleanest illustration" at line 127 is a pedagogical-clarity descriptor, distinct from the "cleanest Q1 inhabitant" empirical superlative the review asked to soften — kept as is.
+- Verified [[born-rule-violation-brain-interface-empirical-status-2026-04-23]] wikilink resolves to the research note acknowledging Tegmark 2000.
+- Verified [[trumping-preemption#costs-of-the-template]] anchor targets the "Costs of the Template" H2 heading at line 70 of the concept page.
 
 Net length: ~2420 → ~3050 words; still within 3000-3500 window.
 
