@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-23 11:39:00+00:00
+ai_modified: 2026-04-23 16:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Quantum mechanics' mathematical form—Hilbert space, the Born rule
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 11:39:00+00:00
+last_deep_review: 2026-04-23 16:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,7 +41,7 @@ topics:
 - '[[the-interface-specification-problem]]'
 ---
 
-If consciousness interacts with the physical world at quantum indeterminacies, the mathematics of quantum mechanics does not leave this interaction unconstrained. The Unfinishable Map argues that, wherever the standard quantum postulates hold, Hilbert space structure, the Born rule, and the no-signalling principle together define a narrow mathematical corridor through which any consciousness-physics interaction must pass. The corridor binds every tested regime; whether it extends into brain-internal conscious selection remains empirically open. Several formal frameworks attempt to work within these bounds, each proposing distinct mathematical structures for the meeting point of mind and matter. Their successes and limitations reveal both what the mathematics permits and what it cannot yet express.
+If consciousness interacts with the physical world at quantum indeterminacies, the mathematics of quantum mechanics does not leave this interaction unconstrained. The Unfinishable Map argues that, wherever the standard quantum postulates hold, Hilbert space structure, the Born rule, and the no-signalling principle together define a narrow mathematical corridor through which any consciousness-physics interaction must pass. The corridor binds every tested regime; whether it extends into brain-internal conscious selection remains empirically open. Several formal frameworks attempt to work within these bounds; their successes and limitations reveal what the mathematics permits and what it cannot yet express.
 
 ## The Mathematical Corridor
 
@@ -79,7 +79,7 @@ The corridor's authority depends on the postulates holding in the regime where c
 - **Minimum-outside-the-corridor dualism** — if corridor-compliant selection is insufficient to produce the observed correlation between conscious intention and physical outcome, MQI would *require* moving outside the corridor, because the tenet demands the minimum interaction *necessary to cause the effect*, not the minimum that is mathematically neat. Stapp's quantum Zeno selection, Chalmers-McQueen's Φ-dependent collapse read at the ensemble level, Penrose-Hameroff orchestrated reduction, and Arana's (2025) time-extended weighting with exponentially suppressed λ all instantiate this option with different mathematical machinery.
 - **Trumping dualism** — a structurally distinct option in which the physical trajectory is fully sufficient and consciousness is the *authoritative* cause without altering the trajectory. On the [trumping template](/concepts/trumping-preemption/) (developed in [delegatory-causation](/concepts/delegatory-causation/) as a specific application), the mathematical corridor describes physics at the trajectory level; consciousness operates at the authority level, where the formalism has nothing to say. No postulate is violated in any regime, and no quantum indeterminacy need be exploited — arguably an even smaller footprint than corridor selection by MQI's own yardstick. The cost is that consciousness leaves no distinctive trajectory signature, so the position earns its place on theoretical rather than empirical grounds.
 
-There is no positive reason to expect the quantum postulates to fail inside brains specifically. Brains are warm, wet, and made of ordinary atoms; neural processes we can measure obey standard QM, and a brain-internal Born violation that leaves no downstream signature—in muscles, light, sound, subsequent measurements—is a tall order. The Map therefore adopts corridor dualism as its default, a choice responsive to current evidence rather than a mathematical straitjacket. If evidence shifted—preregistration-robust micro-PK signals, Nirvanic-style brain-coupled quantum-system anomalies, entanglement-witness departures from standard QM predictions—MQI would sanction moving the minimum outside the corridor without any tenet change.
+No experiment directly probes Born-rule compliance inside brains, and the contested positive claims that do exist—Kerskens-style MRI entanglement witnesses in brain water, microtubule-coherence reviews—do not isolate the Born rule as the variable at stake. Neural processes we can measure obey standard QM, and a brain-internal Born violation that leaves no downstream signature—in muscles, light, sound, subsequent measurements—is a tall order. The Map therefore adopts corridor dualism as its default, a choice responsive to current evidence rather than a mathematical straitjacket. If evidence shifted—preregistration-robust micro-PK signals, Nirvanic-style brain-coupled quantum-system anomalies, entanglement-witness departures from standard QM predictions—MQI would sanction moving the minimum outside the corridor without any tenet change.
 
 ## Statistical Closure and Outcome-Level Openness
 
@@ -103,7 +103,7 @@ The framework's strength is parsimony: it adds no new mathematics, only an inter
 
 Chalmers and McQueen combine integrated information theory (IIT) with continuous spontaneous localisation (CSL) dynamics, producing the most mathematically detailed consciousness-collapse model. The central move: integrated information Φ serves as the collapse operator in a modified stochastic Schrödinger equation. Systems with high Φ resist superposition; the collapse rate is tied to the degree of information integration.
 
-The "super-resistance" model proposes that consciousness does not absolutely prevent superposition (which would freeze quantum evolution through the Zeno effect) but continuously biases toward localisation proportionally to Φ. This yields a specific mathematical prediction: CSL dynamics with a Φ-dependent collapse rate. The framework is in principle testable—quantum computer experiments could probe whether systems with different integration structures exhibit different collapse behaviour.
+The "super-resistance" model proposes that consciousness does not absolutely prevent superposition (which would freeze quantum evolution through the Zeno effect) but continuously biases toward localisation proportionally to Φ. This yields a specific mathematical prediction: CSL dynamics with a Φ-dependent collapse rate (Born-modifying at the neural ensemble level, since the collapse probabilities depend on a consciousness-related variable standard QM does not include). The framework is in principle testable—quantum computer experiments could probe whether systems with different integration structures exhibit different collapse behaviour.
 
 The limitation is the mathematical relationship between IIT's information-theoretic structure and Hilbert space structure. IIT computes Φ over cause-effect repertoires defined on discrete classical systems; embedding this within quantum dynamics bridges two frameworks not designed to connect, and the bridge remains underspecified. The framework also inherits the open questions of [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)—whether CSL dynamics can be made fully relativistic, and whether the collapse rate parameters are independently motivated.
 

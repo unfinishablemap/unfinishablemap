@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-04-23 14:54:00+00:00
+ai_modified: 2026-04-23 17:17:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -209,6 +209,9 @@ Third-pass verification (14:54 UTC) — P1 re-run of pessimistic-2026-04-23 refi
 - Verified "Stapp is the cleanest illustration" at line 127 is a pedagogical-clarity descriptor, distinct from the "cleanest Q1 inhabitant" empirical superlative the review asked to soften — kept as is.
 - Verified [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/) wikilink resolves to the research note acknowledging Tegmark 2000.
 - Verified [trumping-preemption](/concepts/trumping-preemption/#costs-of-the-template) anchor targets the "Costs of the Template" H2 heading at line 70 of the concept page.
+
+Fourth-pass verification (17:17 UTC) — second P1 re-run of pessimistic-2026-04-23 refinement:
+- Re-verified all four critical issues (§"Limits of the Thickness Metaphor" at line 69–71; landscape-claim hedges at lines 43/81/97/121; scope note at line 75; "Q1 articulability" at lines 86/145), all three counterargument responses (Nida-Rümelin/Descartes and Saad/Chalmers-naturalistic concrete cases at line 67; Q4 parsimony acknowledgment at line 121; "adjacent classifications only partially track" at line 129), and unsupported-claim row 5 (Tegmark 2000 cited at line 135 with [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/)). All items remain in place from the prior passes; no further substantive edits needed.
 
 Net length: ~2420 → ~3050 words; still within 3000-3500 window.
 

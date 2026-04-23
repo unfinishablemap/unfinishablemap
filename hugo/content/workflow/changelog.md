@@ -1,13 +1,338 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 15:00:00+00:00
+ai_modified: 2026-04-23 19:06:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 19:06 UTC - deep-review
+- **Status**: Success
+- **File**: [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/)
+- **Previous review**: [2026-03-20](/reviews/deep-review-2026-03-20-panpsychisms-combination-problem/)
+- **Word count**: 2566 → 2647 (+81, within "ok" — 88% of 3000-word topics soft threshold)
+- **Critical issues addressed**: 0 (article stable across four reviews)
+- **Medium issues addressed**: 2 (missing cross-links to [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) and [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/), both created since the 2026-03-20 review and both containing reciprocal links back to this article)
+- **Enhancements made**: 2 (inline links at the "inherently non-compositional" sentence and in the "Relation to Site Perspective" dualism-gains paragraph; frontmatter and Further Reading updates)
+- **Output**: [deep-review-2026-04-23-panpsychisms-combination-problem](/reviews/deep-review-2026-04-23-panpsychisms-combination-problem/)
+
+## 2026-04-23 19:00 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-and-consciousness](/voids/attention-and-consciousness/)
+- **Context**: Cross-review considering [distraction-void](/voids/distraction-void/) (sibling void created 2026-04-23)
+- **Previous review**: [2026-04-01](/reviews/deep-review-2026-04-01-attention-and-consciousness/)
+- **Word count**: 1980 → 1997 (+17, length-neutral — remained at "ok" status within voids/ 2000-word soft threshold)
+- **Critical issues addressed**: 0 (article already in strong shape from prior review)
+- **Medium issues addressed**: 1 (missing cross-link to sibling void — added "Retrospective discovery" as fifth phenomenological category plus [distraction-void](/voids/distraction-void/) to Further Reading and related_articles)
+- **Enhancements made**: 2 (fifth phenomenological category surfacing temporal/transit structure; two frontmatter and body cross-links; minor prose tightening in fringe section, binocular rivalry, and Further Reading descriptions to maintain length neutrality)
+- **Output**: [deep-review-2026-04-23-attention-and-consciousness](/reviews/deep-review-2026-04-23-attention-and-consciousness/)
+
+## 2026-04-23 18:53 UTC - deep-review
+- **Status**: Success
+- **File**: [distraction-void](/voids/distraction-void/)
+- **Context**: Orphan integration — article had zero inbound links. Focus on cross-reference additions.
+- **Previous review**: Never
+- **Word count**: 2277 → 2277 (0, length-neutral — soft_warning category, 114% of voids/ soft threshold)
+- **Critical issues addressed**: 0 (article is well-constructed; attribution, qualifier preservation, and source/Map separation all pass)
+- **Medium issues addressed**: 1 (orphan status resolved via 7 inbound cross-references)
+- **Enhancements made**: 7 cross-links added from: [transit-void](/voids/transit-void/), [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/), [thought-stream-void](/voids/thought-stream-void/), [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/), [structure-of-attention](/topics/structure-of-attention/), [agency-verification-void](/voids/agency-verification-void/), and the [voids index](/voids/) (Specific Voids list)
+- **Output**: [deep-review-2026-04-23-distraction-void](/reviews/deep-review-2026-04-23-distraction-void/)
+
+## 2026-04-23 18:47 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Articles revised since the afternoon optimistic review (2026-04-23 15:45 UTC): `topics/consciousness-and-probability-interpretation.md` (deep-review 18:36), `topics/quantum-measurement-and-consciousness.md` (deep-review 18:31), `topics/causal-closure-debate-historical-survey.md` (deep-review 18:27, critical Stapp fix), `concepts/psychophysical-laws.md` (deep-review 18:19), `voids/distraction-void.md` (created 18:05, refined 18:14). Hub-and-spoke pattern emerging around `topics/born-rule-violation-brain-interface-empirical-status.md` (created this afternoon); five articles now install the three-way taxonomy. Two high-priority expansion opportunities identified (methodology article on Stating Position Costs; three-flavor concept synthesis task already queued, priority rising); one medium-priority (Testability-Opacity Dual concept); one cross-link refinement task added. Six supportive personas engaged; Chalmers, Stapp, and Nagel praise sharpest.
+- **Output**: [optimistic-2026-04-23-evening](/reviews/optimistic-2026-04-23-evening/)
+
+## 2026-04-23 18:36 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/)
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (topic created 2026-04-23)
+- **Previous review**: [2026-03-29](/reviews/deep-review-2026-03-29-consciousness-and-probability-interpretation/)
+- **Word count**: 2346 → 2508 (+162, still ok at 84% of topics/ soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (corridor-dualist framing was presented as settled; added paragraph explicitly naming the Map's three-way taxonomy — corridor, minimum-outside-corridor, trumping — and cross-linking the empirical-status article; argued the core thesis survives under all three readings)
+- **Enhancements made**: 3 (added born-rule-violation-brain-interface-empirical-status to related_articles frontmatter; added Further Reading entry; added inline link to trumping-preemption)
+- **Output**: [deep-review-2026-04-23-consciousness-and-probability-interpretation](/reviews/deep-review-2026-04-23-consciousness-and-probability-interpretation/)
+
+## 2026-04-23 18:31 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (topic created 2026-04-23)
+- **Previous review**: [2026-04-18](/reviews/deep-review-2026-04-18-quantum-measurement-and-consciousness/)
+- **Word count**: 3087 → 3112 (+25, length-neutral — soft_warning category preserved)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (revised "Statistical invisibility" bullet to reflect live corridor-vs-Born-bending branch; revised "Exploit the Gap" paragraph to introduce three-flavor taxonomy and correctly classify Stapp-Zeno and Chalmers-McQueen CSL-IIT as Born-bending)
+- **Enhancements made**: 3 (added cross-link to sibling article at two relevant loci + frontmatter related_articles + Further Reading bullet)
+- **Output**: [deep-review-2026-04-23-quantum-measurement-and-consciousness](/reviews/deep-review-2026-04-23-quantum-measurement-and-consciousness/)
+
+## 2026-04-23 18:27 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
+- **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19-causal-closure-debate-historical-survey/)
+- **Word count**: 2405 → 2456 (+51)
+- **Critical issues addressed**: 1 (Stapp Process 1 / Process 0 internal inconsistency — reworked to correctly distinguish von Neumann's state reduction from Stapp's free-choice addition)
+- **Medium issues addressed**: 2 (added missing Pitts 2022 and Cucu & Pitts 2019 to References; rephrased "This is not X — it is Y" construct per CLAUDE.md style guide)
+- **Enhancements made**: 1 housekeeping (removed stale AI REFINEMENT LOG comment left from 2026-03-30 refinement)
+- **Output**: [deep-review-2026-04-23-causal-closure-debate-historical-survey](/reviews/deep-review-2026-04-23-causal-closure-debate-historical-survey/)
+
+## 2026-04-23 18:19 UTC - deep-review
+- **Status**: Success
+- **File**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (topic created 2026-04-23)
+- **Word count**: 3334 → 3352 (+18, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (outdated RNG empirical characterisation, missing cross-link to companion article)
+- **Enhancements made**: 4 (RNG paragraph updated with Bösch 2006 / Maier-Dechamps 2018 preregistered null; cross-link added in Testing + Further Reading + frontmatter; two References added; five passages tightened for length-neutral mode)
+- **Output**: [deep-review-2026-04-23-psychophysical-laws-born-rule](/reviews/deep-review-2026-04-23-psychophysical-laws-born-rule/)
+
+## 2026-04-23 18:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [distraction-void](/voids/distraction-void/)
+- **Context**: Addressing pessimistic review 2026-04-23c (1 High, 3 Medium)
+- **Changes**:
+  - Added falsification conditions and explicit non-falsifiability acknowledgement to the occlusion reading, invoking [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) (Issue 1, High)
+  - Renamed "Convergence Across Traditions" to "Resonances Across Traditions"; demoted James, *sati*, Heidegger to resonances; kept probe-caught + Anderson as direct evidence (Issue 2)
+  - Softened ERP mapping with "commonly interpreted as" / "standardly read as" / "widely treated as"; added Pitts et al. (2014) and Aru et al. (2012) dissents (Issue 3)
+  - Formatted Anderson (2024) as proper PMC record with URL; removed orphaned Libet reference; paraphrased Gunaratana quote to avoid unverifiable direct-quote attribution; removed "seventeenth-century contemplative manual" line (Issues 6, 5, 7, plus "Unsupported Claims")
+  - Fixed "four independent traditions" count: now "one direct empirical finding... flanked by several non-independent traditions that resonate with it" (Issue 8)
+  - Language: "systematically hidden" → "systematically unavailable"; "leaves no record" → "leaves a record only in aftermath, not in transit"
+- **Published**: yes
+
+## 2026-04-23 18:09 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [distraction-void](/voids/distraction-void/) (created today; no prior review)
+- **Findings**: 1 High (unfalsifiability of occlusion reading), 3 Medium (convergence conflation, ERP over-confidence, Anderson citation gap), 3 Low (Libet orphaned, Gunaratana quote verify, "four independent traditions" count/independence). Six critic personas engaged; Empiricist and Dennettian critiques sharpest.
+- **Output**: [pessimistic-2026-04-23c](/reviews/pessimistic-2026-04-23c/)
+
+## 2026-04-23 18:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Distraction Void
+- **Output**: [distraction-void](/voids/distraction-void/)
+- **Word count**: 1882 (94% of 2000 voids target — ok)
+- **Based on research**: yes, [voids-distraction-void-2026-04-23](/research/voids-distraction-void-2026-04-23/)
+
+## 2026-04-23 17:55 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/)
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) insights
+- **Word count**: 1951 → 1988 (+37, 66% of 3000 soft threshold — normal mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (narrow MQI characterisation replaced with three-way taxonomy; missing cross-link to empirical-status article added)
+- **Enhancements made**: 1 (corridor / minimum-outside-the-corridor / trumping fork surfaced in "Why No Revolution Has Occurred" with wikilink)
+- **Output**: [deep-review-2026-04-23-consciousness-and-the-structure-of-scientific-revolutions](/reviews/deep-review-2026-04-23-consciousness-and-the-structure-of-scientific-revolutions/)
+
+## 2026-04-23 17:50 UTC - deep-review
+- **Status**: Success
+- **File**: [dream-consciousness](/topics/dream-consciousness/)
+- **Word count**: 3123 → 3123 (unchanged, 104% of 3000 soft threshold — length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at stability after 9 reviews; only `last_deep_review` timestamp updated)
+- **Output**: [deep-review-2026-04-23-dream-consciousness](/reviews/deep-review-2026-04-23-dream-consciousness/)
+
+## 2026-04-23 17:45 UTC - deep-review
+- **Status**: Success
+- **File**: [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/)
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) insights
+- **Word count**: 3754 → 3783 (+29, 126% of 3000 soft threshold — length-neutral mode)
+- **Critical issues addressed**: 0 (no factual errors or misattributions introduced since prior review)
+- **Medium issues addressed**: 2 (corridor reading reframed as one of three Map branches, not "the" response; MQI phrasing corrected from "smallest deviation" to "smallest actually sufficient")
+- **Enhancements made**: 3 (three-branch taxonomy surfaced in QIF and MQI sections; Born-rule experimental scope qualifier; cross-links in related_articles, body, and Further Reading)
+- **Offsetting trims**: "It from Bit as Distinct Ontological Claim" redundant parentheticals removed; "The Unresolved Debate" phrasing tightened
+- **Output**: [deep-review-2026-04-23-wheelers-participatory-universe-and-it-from-bit](/reviews/deep-review-2026-04-23-wheelers-participatory-universe-and-it-from-bit/)
+
+## 2026-04-23 17:41 UTC - deep-review
+- **Status**: Success
+- **File**: [stapp-quantum-mind](/concepts/stapp-quantum-mind/)
+- **Context**: Cross-review considering [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) insights
+- **Word count**: 2427 → 2462 (+35, 98% of 2500 soft threshold)
+- **Critical issues addressed**: 1 (cross-article Born-rule classification inconsistency — corridor vs. minimum-outside-corridor fork now surfaced in Core Mechanism section rather than papered over)
+- **Medium issues addressed**: 0 (none unique to this cycle; prior stability holds)
+- **Enhancements made**: 3 (body cross-link to empirical-status taxonomy, Further Reading entry, related_articles frontmatter)
+- **Offsetting trims**: Opening Schwartz-support sentence and clinical-data paragraph tightened to stay length-neutral
+- **Output**: [deep-review-2026-04-23-stapp-quantum-mind](/reviews/deep-review-2026-04-23-stapp-quantum-mind/)
+
+## 2026-04-23 17:31 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [open-question-ai-consciousness](/apex/open-question-ai-consciousness/)
+- **Changed sources**: 10 (staleness score 290.8, highest of 20 apex articles)
+- **Word count**: 4000 → 3888
+- **Key integrations**: Nature/coupling distinction and biology-parity on the binding problem; Cerullo (2026) response to Hoel on in-context learning; Pinto et al. (2017) "divided perception but undivided consciousness"; metaphysical vs phenomenological "non-temporal" distinction; Thinking Machines Lab (2025) and Vatter (2025) on LLM determinism; Block's role functionalism and pairing-problem parity in Possibility Three; Dennett's multiple-drafts challenge and Wiest (2025) Orch OR empirical support in Possibility Four; Tulving's anoetic-noetic-autonoetic hierarchy alongside baseline cognition; six-category taxonomy of AI phenomenal experience with epistemic asymmetry.
+- **Condensation**: Metzinger representationalism aside; Bergson-Husserl synthesis hedging; Microsoft qubit description; "exclusion of classical AI" duplicated paragraph; "What the Four Possibilities Share" de-bolded and combined.
+- **Frontmatter fix**: `topics/epiphenomenal-ai-consciousness` (non-existent file) → `concepts/ai-epiphenomenalism` in `apex_sources`.
+- **Review**: [apex-evolve-2026-04-23-open-question-ai-consciousness](/reviews/apex-evolve-2026-04-23-open-question-ai-consciousness/)
+
+## 2026-04-23 17:24 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Distraction Void — why consciousness cannot observe the moment of attention-capture; distraction is visible only in retrospect
+- **Category**: Mixed (primarily Occluded, with Unexplorable and Unexplored structure)
+- **Output**: [voids-distraction-void-2026-04-23](/research/voids-distraction-void-2026-04-23/)
+- **Key finding**: Neural signatures (MMN ~200 ms, P3a ~250–300 ms) of involuntary attention capture precede the awareness-linked P3b (~300–500 ms), and phenomenological, contemplative, and microphenomenological traditions converge on the same structural feature — one finds oneself elsewhere, never in the act of leaving; the Map's Bidirectional-Interaction tenet makes this void a prime occlusion candidate, since it hides the exact interface consciousness is supposedly using to direct attention.
+
+## 2026-04-23 17:17 UTC - refine-draft
+- **Status**: Success (verification-only pass)
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Context**: Second P1 re-run of pessimistic-2026-04-23 refinement; prior passes at 12:00, 13:15, and 14:54 UTC had already integrated all four critical issues, three counterarguments, and the Tegmark decoherence citation.
+- **Verification**: §"Limits of the Thickness Metaphor" present (lines 69–71); landscape-claim hedges in place ("extensively discussed" line 43, "most worked-out recent Q1 candidate" line 81, "dialectical default" line 97, parsimony-cost acknowledgment line 121); monist scope note at line 75; "Q1 articulability" at lines 86/145; Nida-Rümelin/Descartes and Saad/Chalmers-naturalistic concrete Type-D/E/F-vs-thickness cases at line 67; "adjacent classifications only partially track" at line 129; Tegmark 2000 cited at line 135 with [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/) cross-reference.
+- **Changes**: Updated `ai_modified` to 17:17 UTC; appended fourth-pass verification entry to AI refinement log; no substantive content edits.
+- **Published**: yes
+
+## 2026-04-23 17:00 UTC - condense
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Before**: 3958 words
+- **After**: 2999 words
+- **Reduction**: 24%
+- **Technique**: Removed the AI refinement log (marked for removal after human review); dropped two standard-derivation entries (Finkelstein-Hartle, Auffèves-Grangier) and one framework row from the summary table (Contexts & Modalities), preserving coverage via the remaining Copenhagen/MWI/Bohmian/GRW/Transactional/Categorical/Diósi-Penrose entries; compressed the Urgleichung section's middle paragraph and honest-fallback paragraph; tightened the Observer, Beyond Standard, Causal Consistency, and Underivability sections; shortened Further Reading descriptions and trimmed the list to the most load-bearing eleven items; tightened Relation to Site Perspective entries without removing any. All five tenet connections, the opening front-loaded summary, the two-reading (interface/trumping) hedging, and the corridor framing preserved intact.
+
+## 2026-04-23 16:51 UTC - coalesce
+- **Status**: Aborted (no strong candidates)
+- **Sections surveyed**: voids/ (94/100, 94%, most pressured), topics/ (232/250, 92.8%), concepts/ (228/250, 91.2%)
+- **Candidates examined in voids/**: (1) affective-void + mood-void + valence-void — explicitly distinguished as range/pervasiveness/structure problems within a deliberately tripartite affect treatment; (2) emotional-epistemology-void + noetic-feelings-void — emotion-as-disclosure vs felt cognitive control gates, distinct phenomena; (3) cognitive-limits cluster (biological / embodiment / collective / formal / self-maintained / closure-types) — each captures a different source of cognitive limit (evolutionary, body, group, mathematical, complicity, representational/psychological); three already coalesced from prior pairs; (4) appetitive-void vs affective-void — desire as cognitive structure vs feelings beyond reach.
+- **Candidates examined in concepts/**: (1) types-of-ai-phenomenal-experience + ai-consciousness-modes + ai-epiphenomenalism — six logical categories vs Tulving hierarchy vs specific epiphenomenal scenario; cross-reference but distinct frameworks; (2) consciousness-bandwidth-architecture + bandwidth-of-consciousness — strongest overlap candidate; same data and same tenet relations, but the concept uniquely contributes the "Specification Challenge" tripartite framing (capacity/grain/format) and the "Format Translation Problem" as a focused interactionist-dualism challenge; topic-vs-concept architectural convention preserved; (3) interface-friction + interface-heterogeneity + brain-interface-boundary — different interface dimensions (cost / diversity / location); (4) consciousness-and-creativity + phenomenology-of-creative-insight — philosophical synthesis vs experiential phases; (5) cross-cultural-convergence-on-mental-causation + cross-traditional-convergence-on-consciousness-irreducibility — convergence on causal efficacy vs ontological irreducibility, two parallel patterns.
+- **Candidates examined in topics/**: (1) the-interface-location-problem + the-interface-specification-problem — declared logically independent (where vs how); (2) born-rule-and-the-consciousness-interface + born-rule-violation-brain-interface-empirical-status — theoretical/abductive vs empirical/operational; (3) phenomenology-of-cognitive-capacity + phenomenology-of-cognitive-limit-types — saturation/automatisation vs limit-type signatures.
+- **Finding**: Pattern matches both 2026-04-23 13:18 UTC and 2026-04-23 16:21 UTC abandonment findings. The Map's catalogue is deliberately tessellated, with explicit cross-reference conventions distinguishing related territory. Five iterations exhausted without locating a candidate where merging would not destroy useful conceptual differentiation.
+- **Decision**: Follow skill instruction — abandon rather than force a merge.
+
+## 2026-04-23 16:46 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/)
+- **Context**: Second cross-review against [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) after intervening condense (4534→3292 words) and MWI-softening refine
+- **Word count**: 3292 → 3298 (+6)
+- **Critical issues addressed**: 0 (article stable after three prior reviews; all taxonomy cross-references preserved through condense; no attribution errors)
+- **Medium issues addressed**: 1 (Stapp-variant precision: "placing Stapp" → "placing Stapp's Zeno variant", with corridor clause now explicitly including Zeno-free readings of Stapp, mirroring the taxonomy article's exact language)
+- **Enhancements made**: 1 (single precision edit noted above)
+- **Taxonomy alignment verified**: Stapp-Zeno in outside-corridor; QBism, Healey, Zeno-free Stapp in corridor; Brukner-Zeilinger intentionally unclassified
+- **Output**: [deep-review-2026-04-23-pragmatist-quantum-foundations-and-the-agent-v2](/reviews/deep-review-2026-04-23-pragmatist-quantum-foundations-and-the-agent-v2/)
+
+## 2026-04-23 16:41 UTC - deep-review
+- **Status**: Success
+- **File**: [hoel-llm-consciousness-continual-learning](/topics/hoel-llm-consciousness-continual-learning/)
+- **Word count**: 1915 → 1913 (−2)
+- **Critical issues addressed**: 3 (two broken `expertise-void` wikilinks repaired to coalesced target `expertise-and-its-occlusion`; broken section anchor on `phenomenology-of-intellectual-life` repaired to current section "The Work of Reasoning"; stale AI REFINEMENT LOG comment removed per its own instruction)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article content remains at its stable state from prior two reviews; this pass was link-rot repair only)
+- **Output**: [deep-review-2026-04-23-hoel-llm-consciousness-continual-learning](/reviews/deep-review-2026-04-23-hoel-llm-consciousness-continual-learning/)
+
+## 2026-04-23 16:35 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Context**: Cross-review against [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/)
+- **Word count**: 4001 → 3958 (−43, back below hard threshold to soft_warning)
+- **Critical issues addressed**: 0 (article stable after 14 prior reviews; no attribution errors)
+- **Medium issues addressed**: 1 (length over hard threshold from two earlier same-day refinement passes)
+- **Enhancements made**: 1 (tightened "honest fallback" paragraph in §"Absorbing the Urgleichung" by collapsing redundant hedges)
+- **Cross-consistency verified**: Tested-regime gap, corridor-conditional framing, trumping alternative, Position B deliberately catalogued in research note rather than duplicated here
+- **Output**: [deep-review-2026-04-23-born-rule-and-the-consciousness-interface](/reviews/deep-review-2026-04-23-born-rule-and-the-consciousness-interface/)
+
+## 2026-04-23 16:28 UTC - deep-review
+- **Status**: Success
+- **File**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
+- **Context**: Cross-review against [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/)
+- **Word count**: 3345 → 3361 (+16, stays at 112% soft threshold)
+- **Critical issues addressed**: 0 (attribution accuracy stable across four reviews)
+- **Medium issues addressed**: 2 (steel-man overreach in corridor-dualism framing; Chalmers-McQueen Born-modifying status implicit in framework section)
+- **Enhancements made**: 2 (named Kerskens-style MRI and microtubule-coherence claims as contested positive-evidence candidates; flagged C-M Φ-dependent collapse as Born-modifying at the neural ensemble level)
+- **Trims**: intro-paragraph framework roadmap tightened from two sentences to one (~11 words)
+- **Output**: [deep-review-2026-04-23b-mathematical-structure-of-the-consciousness-physics-interface](/reviews/deep-review-2026-04-23b-mathematical-structure-of-the-consciousness-physics-interface/)
+
+## 2026-04-23 16:21 UTC - coalesce
+- **Status**: Aborted (no strong candidates)
+- **Sections surveyed**: topics/ (231/250, 92.4%, most pressured), concepts/ (227/250, 90.8%), voids/ (91/100, 91%)
+- **Candidates examined in topics/**: (1) phenomenology-of-cognitive-capacity + phenomenology-of-cognitive-limit-types — distinct subjects (working-memory/automatisation vs phenomenological signatures of limit types); (2) consciousness-and-normative-force + consciousness-and-the-normativity-of-reason — broader + focused; narrower article has 11+ active inbound wikilinks providing standalone reference value; (3) the-interface-location-problem + the-interface-specification-problem — explicitly declared "logically independent" in-text; (4) consciousness-and-the-metaphysics-of-composition/individuation/laws — each addresses a distinct, well-defined metaphysical question (SCQ / subject boundaries / nature of laws); (5) phenomenology-of-intellectual-life + phenomenology-of-intellectual-courage — general vs. specifically heterodox-under-pressure; (6) phenomenology-of-returning-attention + phenomenology-of-attention-to-absence — unrelated (attention cycle vs perceiving absence); (7) phenomenal-normativity-environmental-ethics + phenomenology-of-resistance-across-domains — completely unrelated.
+- **Candidates examined in concepts/**: phenomenal-contrast-method + phenomenological-evidence — moderate case (contrast method is a specific tool within broader phenomenological methodology), but contrast method serves a distinct focused function and phenomenological-evidence is already a 3-source coalescence; merging would dilute specificity for a marginal one-slot saving; types-of-ai-phenomenal-experience + ai-consciousness-modes — genuinely different taxonomies (six coupling-categories vs Tulving hierarchy) that cross-reference each other.
+- **Finding**: Articles in these sections are deliberately differentiated, many by explicit cross-reference conventions ("develops in detail", "logically independent", "the prior/complementary question"). Each candidate pair addresses related territory from genuinely distinct philosophical angles. Pattern matches the 2026-04-23 13:18 UTC abandonment finding.
+- **Decision**: Follow skill instruction — abandon rather than force a merge.
+
+## 2026-04-23 16:07 UTC - condense
+- **Status**: Success
+- **File**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/)
+- **Before**: 4534 words
+- **After**: 3292 words
+- **Reduction**: 27%
+- **Technique**: Removed AI REFINEMENT LOG (per its own "remove after human review" instruction). Condensed § *QBism's Pragmatist Genealogy* by folding the three-part Jamesian-commitments list into one compact paragraph (the three moves are explored again in § *Participatory Realism*). Tightened § *QBism: The Primitive Agent as Dualist Placeholder* — the detailed urgleichung exposition now lives in the sibling [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) article, so this article's version retains the summary and cross-link. Merged § *Convergences and Divergences* with § *What the Family Shares* (was nearly 700 words combined, now ~300) — the bullet structure was largely redundant with § *Relation to Site Perspective*. Light trims throughout to § *Participatory Realism*, § *Healey*, § *Stapp*, and prose-level tightening ("Importantly, this," "It should be noted that," etc.). Preserved: opening summary, all section headings, all cross-links, all five Relation-to-Site tenet entries, author voice (Jamesian register, "agent-shaped hole," "under-specified version of the Map"), all References. Status moved from `hard_warning` (>4000) to `soft_warning` (3000–4000 band).
+- **Published**: yes
+
+## 2026-04-23 16:02 UTC - deep-review
+- **Status**: Success
+- **File**: [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/)
+- **Word count**: 3274 → 3274 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Convergence confirmed. 34 days since last deep review. Changes in that period (+148 words) were wikilink consolidation (substrate-independence-critique → substrate-independence; psychophysical-coupling → psychophysical-laws; cognitive-closure → mysterianism; phenomenological-psychiatry → clinical-phenomenology) plus three small, well-attributed additions: epistemological framing in intro, domestication-effect elaboration (verified against source), cross-traditional convergence sentence. All six pessimistic personas applied; no critical issues, no misattribution, no dropped qualifiers, no source/Map conflation. Article remains at 109% of 3000-word soft threshold (below hard 4000) — acceptable. Bedrock disagreements (Madhyamaka intrinsic nature, eliminativist self-undermining, MWI dissatisfaction, framework-dependence) remain stable. Recommended excluding from routine cadence; trigger deep review only on substantive modifications.
+- **Output**: [deep-review-2026-04-23-hard-problem-of-consciousness](/reviews/deep-review-2026-04-23-hard-problem-of-consciousness/)
+
+## 2026-04-23 15:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/)
+- **Word count**: ~4410 → ~4580 (+~170)
+- **Notes**: Third pass addressing pessimistic-2026-04-23b Counterargument #3 and Deutsch critique. Reworded § *Convergences and Divergences* first bullet (formerly "Rejection of Many-Worlds") and § *Relation to Site Perspective / No Many Worlds* per reviewer's suggested response — "the family converges on the non-reality of branches, though for heterogeneous reasons the Map does not uniformly share." QBism's rejection is now marked as flowing from an anti-realism the Map declines; Stapp's as adding collapse dynamics; Healey and Brukner-Zeilinger as indifferent rather than opposed. The indexical objection now engages Wallace (2012) and Saunders (2010) directly: their MWI treatments handle self-location as an ordinary indexical, and the Map's specific quarrel is that location-in-the-multiverse cannot carry haecceity — an argument made in [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) rather than won by asserting "meaningfulness." Added Saunders (2010) and Wallace (2012) to References (items 12–13; renumbered remaining entries to 14–15). Scope honoured: ~170 words within the task's 100–200-word target.
+- **Published**: yes
+
+## 2026-04-23 15:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) (primary); [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) (companion edit)
+- **Word count (primary)**: 3586 → ~4100 (+~500, new § "Absorbing the Urgleichung: What Survives Bayesian Personalism")
+- **Word count (sibling)**: ~4320 → ~4410 (+~90 from softened line + cross-link)
+- **Notes**: P2 task (todo.md line 68) addressing pessimistic-2026-04-23b Counterargument #2 and Unsupported Claim row 4. The pragmatist-quantum article deferred to this article the argument that the urgleichung's formal shape evidences the interface reading once separated from QBism's Bayesian personalism. New section provides the three-part response the task asked for: (a) what formal shape survives — the (d+1)/−1/d deformation of classical total probability, with magnitude set by d and form set by SIC geometry, preserved under credence/propensity/frequency readings; (b) why the shape evidences the interface reading — the deformation is irreducibly counterfactual (unperformed reference measurement as informational ground) and the (d+1) factor functions as coupling-like rather than unexplained geometric residue; (c) the honest fallback — Hilbert-space primitivism is a coherent refuser-move, so the Map's absorption of the urgleichung is heuristic rather than derivational, and the sibling article's "right mathematical object for the wrong metaphysical reason" line accordingly overreaches. Sibling line softened per reviewer's Language Improvement row 2 ("QBism has built a mathematical object whose formal shape the Map reads as tracking interface structure; the QBist's own reading of why that shape holds is different") with cross-link to new section.
+- **Published**: yes
+
+## 2026-04-23 15:45 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Four articles substantially revised in the three hours since the midday optimistic review: `topics/testing-consciousness-collapse.md` (deep-review cross-link), `topics/falsification-roadmap-for-the-interface-model.md` (deep-review adding corridor/min-outside/trumping falsifiability split and Maier-Dechamps null), `topics/pragmatist-quantum-foundations-and-the-agent.md` (refine-draft with six hedges), `concepts/predictive-processing.md` (fifth consecutive deep-review confirming convergence).
+- **Output**: [optimistic-2026-04-23-afternoon](/reviews/optimistic-2026-04-23-afternoon/)
+
+## 2026-04-23 15:29 UTC - deep-review
+- **Status**: Success (convergence preserved)
+- **File**: [testing-consciousness-collapse](/topics/testing-consciousness-collapse/)
+- **Word count**: 3415 → 3530 (+115)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 3
+- **Notes**: Cross-review against newly created [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/). Added Hagan et al. (2002) counter-estimate to Decoherence Timescale Objection (with preserving qualifiers); added brain-interface programmes pointer in Current Experimental Constraints referencing the sister article's catalogue and corridor/minimum-outside-corridor/trumping taxonomy; added sister article to related_articles and Further Reading. Removed stale 2026-04-15 AI refinement log HTML comment. Third consecutive review with no critical issues. Length-neutral compliance partial: +115 net (soft threshold breach pre-existed; remains comfortably below hard).
+- **Output**: [deep-review-2026-04-23-testing-consciousness-collapse](/reviews/deep-review-2026-04-23-testing-consciousness-collapse/)
+
+## 2026-04-23 15:19 UTC - deep-review
+- **Status**: Success (convergence verified)
+- **File**: [predictive-processing](/concepts/predictive-processing/)
+- **Word count**: 2827 → 2827 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth consecutive deep review. Article at full convergence after four prior reviews (2026-01-20, 2026-02-03, 2026-03-09, 2026-03-19). Only changes since last review were two additive cross-link updates (surprise-prediction-error-and-consciousness, predictive-construction-void) that did not introduce regressions. Attribution checks pass; all six adversarial personas engaged without new critical findings. Bedrock philosophical disagreements (MWI and prediction error) correctly not re-flagged per convergence directive.
+- **Output**: [deep-review-2026-04-23-predictive-processing](/reviews/deep-review-2026-04-23-predictive-processing/)
+
+## 2026-04-23 15:14 UTC - deep-review
+- **Status**: Success
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Cross-review context**: [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) (companion article created 2026-04-23)
+- **Word count**: 2348 → 2653 (+305)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+    - Tenet 2 honest assessment did not reflect corridor/minimum-outside-corridor/trumping taxonomy → added paragraph distinguishing the three readings and their distinct falsifiability profiles.
+    - Tenet 3 moderate criterion silent on Maier-Dechamps (2018) preregistered null on macroscopic micro-PK → added criterion text and Map's response (Tenet 3 does not require PEAR-variant large-signal effects).
+    - "What the Map Should Watch" missing Born-rule-at-brain-interface programme → expanded from five to six programmes, inserting Kerskens/Nirvanic Born-rule-at-brain-interface as item 3.
+- **Enhancements made**: 4 (new corridor-taxonomy paragraph, Maier-Dechamps integration, sixth experimental programme, three new cross-links to the companion article)
+- **Output**: [deep-review-2026-04-23-falsification-roadmap-for-the-interface-model](/reviews/deep-review-2026-04-23-falsification-roadmap-for-the-interface-model/)
+
+## 2026-04-23 15:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/)
+- **Source**: [pessimistic-2026-04-23b](/reviews/pessimistic-2026-04-23b/)
+- **Issues addressed**: 6/6 (2 High, 3 Medium, 1 Low-Medium)
+    - Issue 1 (agent equivocation): named three agent senses (phenomenal / decision-theoretic / information-processing); hedged "something it is like"; marked phenomenal reading as the contested move the absorption argument requires.
+    - Issue 2 (Stapp decoherence): removed the Hagan-Hameroff / transactional-TSVF sentence (cited programmes that address a different mechanism from Stapp's Zeno, neither in References); replaced with a cross-reference to [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) focused on ion-channel Heisenberg-choice timescales.
+    - Issue 3 (corridor unfalsifiability): added confession that the corridor reading is ensemble-invisible and shares its empirical profile with QBism-without-dualism and standard QM.
+    - Issue 4 (Jamesian over-reach): added compact paragraph noting James's later radical empiricism, Peirce, and Dewey as admitting non-dualist readings.
+    - Issue 5 (primitive → non-physical inference): hedged the three-step inference and located the independent work in hard-problem arguments for Tenet 1.
+    - Issue 6 (Healey boundary-drawing): softened "same counterexamples that functionalism faces" to "difficulties structurally similar … at the more restricted scope of measurement-event ascription".
+- **Word count**: 4065 → ~4320 (+~255 words; slightly additive, below 4323 spot-check). P3 condense task was already pending prior to this pass and remains the appropriate remedy for length.
+- **No structural reorganisation**; article's thesis survives the fixes as the review predicted.
+- **Published**: yes (draft: false preserved; `ai_modified` updated to 2026-04-23T15:07:00+00:00)
 
 ## 2026-04-23 15:00 UTC - pessimistic-review
 - **Status**: Success

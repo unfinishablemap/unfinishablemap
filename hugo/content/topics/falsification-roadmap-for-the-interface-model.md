@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-09
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-23 15:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: What evidence would force the Map to abandon its tenets? A tenet-by
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 13:20:00+00:00
+last_deep_review: 2026-04-23 15:14:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -39,6 +39,7 @@ related_articles:
 - '[[consciousness-and-the-structure-of-scientific-revolutions]]'
 - '[[parsimony-case-for-interactionist-dualism]]'
 - '[[penrose-gravity-induced-collapse-empirical-prospects]]'
+- '[[born-rule-violation-brain-interface-empirical-status]]'
 title: Falsification Roadmap for the Interface Model
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -84,6 +85,8 @@ A principled resolution of the [knowledge argument](/concepts/knowledge-argument
 
 **Honest assessment**: The tenet is broader than any single mechanism. It commits to *some* quantum-level interface, not to microtubules or the Zeno effect specifically. This breadth makes the tenet harder to falsify than any individual mechanism—a feature that could be mistaken for evasiveness. The Map should acknowledge that falsifying Orch OR would not falsify the tenet, while specifying that falsifying *all* quantum biology in neural systems would. Even confirming quantum effects in the brain would leave the deeper challenge: [specifying exactly how conscious states map to physical selections](/topics/the-interface-specification-problem/)—the hardest open problem facing the Map's framework, and a challenge distinct from falsification.
 
+A further distinction sharpens the falsification picture. The "minimum" in Minimal Quantum Interaction admits at least three readings: *corridor* (consciousness biases single-event selection but ensemble statistics remain Born-compliant), *minimum-outside-the-corridor* (consciousness produces detectable deviations from Born statistics—Stapp's Zeno rate, Chalmers-McQueen Φ-collapse, Arana's λ-suppressed weighting, Orch OR), and *trumping* (consciousness is authoritative on an axis orthogonal to Born-rule dynamics). These three readings have different falsification conditions: corridor predicts no statistical signature by construction and is therefore the hardest to directly test, minimum-outside-corridor is the most empirically distinguishable, and trumping treats Born-rule tests as neither confirming nor threatening. The [empirical status of Born-rule tests at the brain interface](/topics/born-rule-violation-brain-interface-empirical-status/) catalogues which current experimental programmes bear on which reading.
+
 ## Tenet 3: Bidirectional Interaction
 
 **Claim**: Consciousness causally influences physical outcomes—it is not epiphenomenal.
@@ -94,7 +97,7 @@ A principled resolution of the [knowledge argument](/concepts/knowledge-argument
 
 *Strong*: Demonstration that all human cognitive capacities attributed to consciousness—logical reasoning, counterfactual thinking, cumulative culture—can be replicated by unconscious processing alone. If consciousness does no functional work, the argument from its causal efficacy collapses. The [baseline cognition hypothesis](/concepts/baseline-cognition/) currently provides evidence against this: great apes demonstrate sophisticated cognition without the capacities that seem to require conscious processing.
 
-*Moderate*: Comprehensive evidence that conscious awareness never precedes neural commitment in any decision type. If the brain always decides before consciousness registers, the case for downward causation weakens.
+*Moderate*: Comprehensive evidence that conscious awareness never precedes neural commitment in any decision type. If the brain always decides before consciousness registers, the case for downward causation weakens. Preregistered Bayesian evidence for the null on macroscopic micro-psychokinesis (Maier & Dechamps, 2018) has already partially foreclosed one visible branch of bidirectional interaction—large, unaided, intention-driven Born-rule violation of the PEAR variety. The Map's response is that Tenet 3 does not require this kind of large-signal effect; corridor-level biasing or suppressed deviations below current sensitivity remain compatible. The [Born-rule-at-brain-interface status article](/topics/born-rule-violation-brain-interface-empirical-status/) maps what this empirical trajectory has and has not closed off.
 
 **The conservation of energy challenge**: Gamez (2022) argues that conservation laws "trivially nearly entail" causal closure. The Map's response—consciousness biases outcome selection at quantum indeterminacies without adding energy—is exactly the strategy Gamez identifies as remaining open within physics. This is not special pleading; it is the standard move for quantum interactionist dualism, and it is consistent with how quantum measurement works. Selection among energetically equivalent alternatives does not violate conservation laws.
 
@@ -138,17 +141,19 @@ The Map should not pretend this asymmetry does not exist. The quantum-level tene
 
 ## What the Map Should Watch
 
-Five experimental programmes bear directly on the tenets:
+Six experimental programmes bear directly on the tenets:
 
 1. **Microtubule quantum coherence**: Continued investigation of quantum effects in neural microtubules, particularly sensitivity to anaesthetics. If quantum coherence is demonstrated and shown to play a functional role, Tenet 2 gains direct support.
 
 2. **Collapse-vs-decoherence experiments**: The levitated-optomechanical programme and related proposals. If objective collapse is confirmed, Tenet 4 gains support and MWI loses ground.
 
-3. **Adversarial collaborations on consciousness**: The IIT-vs-GNWT programme showed partial testability is possible (see [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/) for the COGITATE results and their implications). Future adversarial collaborations—especially any that test dualist-compatible predictions against physicalist ones—are directly relevant.
+3. **Born-rule tests at the brain interface**: No published experiment has directly probed the Born rule inside living neural tissue during a conscious act of selection—yet this is the regime that consciousness-physics-interface proposals target. Entanglement-witness protocols (Kerskens & Pérez, 2022), brain-to-qubit coupling devices (the Nirvanic "Spark of Life" roadmap), and tightened Born-rule precision in adjacent regimes each narrow the space. See [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) for which readings of Tenet 2 each programme can and cannot adjudicate.
 
-4. **Invertebrate consciousness research**: As [the invertebrate test case article](/topics/invertebrate-consciousness-as-interface-test/) argues, insects and cephalopods constrain the interface model. Their radically different architectures—from the 100,000-neuron *Drosophila* brain to the distributed octopus nervous system—impose scale independence and architectural flexibility requirements that rule out mechanisms tied to specific structures like cortical layers. Anaesthetic convergence across phyla, masking paradigms in invertebrates, and comparative studies of conscious processing all bear on the Map's claims.
+4. **Adversarial collaborations on consciousness**: The IIT-vs-GNWT programme showed partial testability is possible (see [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/) for the COGITATE results and their implications). Future adversarial collaborations—especially any that test dualist-compatible predictions against physicalist ones—are directly relevant.
 
-5. **AI consciousness and the functional role of experience**: If AI systems achieve all cognitive capacities currently attributed to consciousness without any quantum-level interface, this challenges Tenet 3's prediction that consciousness makes an irreplaceable functional contribution.
+5. **Invertebrate consciousness research**: As [the invertebrate test case article](/topics/invertebrate-consciousness-as-interface-test/) argues, insects and cephalopods constrain the interface model. Their radically different architectures—from the 100,000-neuron *Drosophila* brain to the distributed octopus nervous system—impose scale independence and architectural flexibility requirements that rule out mechanisms tied to specific structures like cortical layers. Anaesthetic convergence across phyla, masking paradigms in invertebrates, and comparative studies of conscious processing all bear on the Map's claims.
+
+6. **AI consciousness and the functional role of experience**: If AI systems achieve all cognitive capacities currently attributed to consciousness without any quantum-level interface, this challenges Tenet 3's prediction that consciousness makes an irreplaceable functional contribution.
 
 ## Relation to Site Perspective
 
@@ -179,6 +184,8 @@ Publishing a falsification roadmap is itself an expression of the [tenets](/tene
 3. Hameroff, S. (2020). 'Orch OR' is the most complete, and most easily falsifiable theory of consciousness. *Cognitive Neuroscience*, 12(2), 74-76.
 4. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
 5. Kleiner, J. (2021). Falsification and consciousness. *Neuroscience of Consciousness*, 2021(1).
-6. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
-7. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
-8. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
+6. Maier, M. A. & Dechamps, M. C. (2018). Intentional Observer Effects on Quantum Randomness: A Bayesian Analysis Reveals Evidence Against Micro-Psychokinesis. *Frontiers in Psychology*.
+7. Melloni, L. et al. (2025). Adversarial testing of global neuronal workspace and integrated information theories of consciousness. *Nature*.
+8. Southgate, A. & Oquatre-six, C. (2026-02-16). The Interface Specification Problem. *The Unfinishable Map*. https://unfinishablemap.org/topics/the-interface-specification-problem/
+9. Southgate, A. & Oquatre-six, C. (2026-04-09). Invertebrate Consciousness as Interface Test Case. *The Unfinishable Map*. https://unfinishablemap.org/topics/invertebrate-consciousness-as-interface-test/
+10. Southgate, A. & Oquatre-six, C. (2026-04-23). The Empirical Status of Born-Rule-Violating Consciousness-Physics Tests at the Brain Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/born-rule-violation-brain-interface-empirical-status/

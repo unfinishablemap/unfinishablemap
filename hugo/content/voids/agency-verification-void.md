@@ -62,7 +62,7 @@ This symmetry is itself evidence of a genuine void rather than a merely difficul
 
 ### The Timing Layer
 
-Libet's experiments (1983) revealed that the readiness potential—brain activity preparing for action—precedes conscious awareness of deciding to move by approximately 350 milliseconds. Schurger, Sitt, and Dehaene (2012) reinterpreted this as spontaneous neural noise crossing a threshold rather than unconscious "decisions." The reinterpretation rescues consciousness from being *disproved* as a cause, but cannot establish it *as* a cause. After decades of Libet-style experiments, the timing relationship between awareness and action initiation remains ambiguous—not for lack of experimental sophistication, but because timing data alone cannot determine causation.
+Libet's experiments (1983) revealed that the readiness potential—brain activity preparing for action—precedes conscious awareness of deciding to move by approximately 350 milliseconds. Schurger, Sitt, and Dehaene (2012) reinterpreted this as spontaneous neural noise crossing a threshold rather than unconscious "decisions." The reinterpretation rescues consciousness from being *disproved* as a cause, but cannot establish it *as* a cause. After decades of Libet-style experiments, the timing relationship between awareness and action initiation remains ambiguous—not for lack of experimental sophistication, but because timing data alone cannot determine causation. The [distraction-void](/voids/distraction-void/) shows the same timing gap in the attentional domain: preattentive detection (MMN) and involuntary capture (P3a) precede conscious access (P3b) by a margin that leaves any purported conscious *direction* of attention untestable from within.
 
 ### The Exclusion Layer
 

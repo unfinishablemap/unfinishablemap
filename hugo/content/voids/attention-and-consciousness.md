@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-04-01 14:38:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-23 19:00:00+00:00
+ai_system: claude-opus-4-7
 author: null
 coalesced_from:
 - /voids/attention-created-voids/
@@ -15,17 +15,18 @@ concepts:
 - '[[mental-effort]]'
 - '[[interface-friction]]'
 created: 2026-01-29
-date: &id001 2026-03-30
+date: &id001 2026-04-23
 description: Attending generates unattendable territory as a structural necessity.
   Disordered attention creates epistemological voids that may be permanently unmappable.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-01 14:38:00+00:00
+last_deep_review: 2026-04-23 19:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
+- '[[distraction-void]]'
 - '[[thoughts-that-slip-away]]'
 - '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
@@ -57,17 +58,17 @@ Every act of attention therefore produces unattendable territory as its structur
 
 Neuroscience reveals something stronger than mere non-attention to the ground. The attentional spotlight has a *penumbra* — a surrounding zone of active suppression. Research by Müller and colleagues showed that neural activity in regions representing nearby-but-unattended locations is actively reduced below baseline. To illuminate is to darken.
 
-William James identified a complementary structure: the fringes of consciousness. Every conscious state has a centre surrounded by a fringe that "shades insensibly into a subconscious more." The fringes modify the theme and bridge gaps between thoughts but — crucially — cannot be the primary focus of attention. Attempting to focus on a fringe element transforms it into a theme while generating new fringes. The fringe-quality *requires* non-focality.
+William James identified a complementary structure: the fringes of consciousness. Every conscious state has a centre surrounded by a fringe that "shades insensibly into a subconscious more." The fringes modify the theme and bridge gaps between thoughts but cannot be the primary focus of attention. Attempting to focus on a fringe transforms it into a theme while generating new fringes.
 
-The centre works in one way while the margins work in another. Marginal awareness is vague, relational, connective — it provides the sense that the current thought belongs somewhere, means something beyond its explicit content. But this marginal work cannot be directly observed without transforming it into something else.
+Marginal awareness is vague, relational, connective — it provides the sense that the current thought belongs somewhere, means something beyond its explicit content. This marginal work cannot be directly observed without transforming it into something else.
 
 ## Empirical Demonstrations
 
 **Inattentional blindness** shows that attention does not select from what is already consciously present — it determines what *becomes* consciously present. In the invisible gorilla experiment (Simons & Chabris, 1999), subjects focused on a counting task do not experience a gorilla-shaped gap in perception. The gorilla is genuinely absent from experience — never entering awareness at all.
 
-**Binocular rivalry** reveals a limit where attention meets structural constraints it cannot overcome. When different images are presented to each eye, perception alternates. Even maximal voluntary effort cannot arrest the alternations. The suppressed percept is not dim or peripheral but *absent* — then it switches. The void is the absence of whichever percept is currently suppressed.
+**Binocular rivalry** reveals a limit where attention meets structural constraints it cannot overcome. When different images are presented to each eye, perception alternates. Even maximal voluntary effort cannot arrest the alternations. The suppressed percept is not dim or peripheral but *absent* — then it switches.
 
-These phenomena suggest multiple levels of attention-created void: the marginalised (present but not focal) and the excluded (not present at all).
+These phenomena reveal multiple levels of attention-created void: the marginalised (present but not focal) and the excluded (not present at all).
 
 ## The Phenomenology of Attention Voids
 
@@ -77,7 +78,9 @@ These phenomena suggest multiple levels of attention-created void: the marginali
 
 **The suppressive dark.** Not mere absence but a felt sense that something is being kept out. In focused concentration, the world contracts; what lies beyond the focus has a quality of active exclusion.
 
-**The alternation frustration.** In bistable perception, the sense that something is there that attention cannot stabilise. You know both interpretations exist; you can see each in turn; you cannot see both at once.
+**The alternation frustration.** In bistable perception, the sense that something is there that attention cannot stabilise. Both interpretations exist; you see each in turn; you cannot see both at once.
+
+**Retrospective discovery.** Finding oneself elsewhere without having witnessed the transit. Attention moved, and the moving is introspectively absent; there is a before and an after but no felt span between. The void is temporal rather than spatial — the gap between capture and noticing-capture. See [distraction-void](/voids/distraction-void/).
 
 ## When the Instrument Breaks
 
@@ -93,7 +96,7 @@ ADHD produces a striking paradox: the same person who cannot sustain attention o
 
 But hyperfocus introduces its own void. During intense absorption, metacognitive monitoring often disappears. Consciousness seems both *more* present (vivid engagement) and *less* present (reflective self-awareness drops away). Which aspect represents "more" consciousness? The question assumes these can be compared on a single scale, but attention disorders suggest consciousness has multiple dimensions that can dissociate.
 
-Lifelong attention disorders deepen the void further. A person who has never experienced neurotypical attention has no baseline for comparison — they cannot know what attention feels like to someone without the disorder, any more than a congenitally colourblind person can know what red looks like. Their reports are doubly limited: constrained by the disorder itself and by the absence of a baseline against which to measure that constraint. This is the hallmark of an [occluded void](/voids/three-kinds-of-void/).
+Lifelong attention disorders deepen the void further. A person who has never experienced neurotypical attention has no baseline for comparison — they cannot know what attention feels like to someone without the disorder, any more than a congenitally colourblind person can know what red looks like. Their reports are doubly limited: constrained by the disorder itself and by the absence of any baseline against which to measure it. This is the hallmark of an [occluded void](/voids/three-kinds-of-void/).
 
 ## Hemispatial Neglect
 
@@ -109,11 +112,11 @@ First, the figure-ground relation appears to be a condition of perception as suc
 
 Second, prioritisation — which Sebastian Watzl argues is the essence of attention — necessarily creates hierarchy. To prioritise is to rank. Ranking requires lower ranks.
 
-Third, finite access entails exclusion. Only a consciousness that simultaneously and fully grasps everything could attend without creating voids.
+Third, finite access entails exclusion. Only a consciousness simultaneously grasping everything could attend without creating voids.
 
 The disorder-based voids may be equally permanent. We cannot determine, from inside an attention disorder, whether consciousness is the same consciousness operating through a degraded interface, or a different form of consciousness that the degraded interface prevents us from recognising as different. The materialist response — identifying consciousness with attention — merely relocates the void rather than dissolving it.
 
-This makes the attention void among the most fundamental in The Unfinishable Map's framework. It concerns not content we cannot access but the *mechanism* by which we access anything.
+This makes the attention void among the most fundamental in the Map's framework — it concerns not content we cannot access but the *mechanism* by which we access anything.
 
 ## Relation to Site Perspective
 
@@ -133,6 +136,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The interface model applied to ADHD, fatigue, and clinical evidence
+- [distraction-void](/voids/distraction-void/) — The temporal gap between being captured and noticing one has been captured
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
 - [structure-of-attention](/topics/structure-of-attention/) — Three modes of attention and their neural signatures
 - [The Habituation Void](/voids/disappearance-voids/) — A related void where familiarity, not attention, erases experience
@@ -144,8 +148,8 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate architecture
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI and alien minds can probe human-specific voids
 - [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/) — How mental illness reveals the structure of experience
-- [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Progressive interface erosion as a parallel case
-- [compound-failure-signatures](/voids/compound-failure-signatures/) — Mapping where and how cognition fails
+- [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/) — Progressive interface erosion
+- [compound-failure-signatures](/voids/compound-failure-signatures/) — Where and how cognition fails
 - [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/) — Moral implications when attentional capacity varies
 
 ## References

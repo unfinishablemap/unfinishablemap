@@ -69,7 +69,7 @@ The structure repeats across mental life:
 
 **Mood shifts.** You notice you are angry, sad, or elated. The shift itself was invisible. The new mood presents as having "always been there" even when you know it hasn't. Monitoring emotional state with sufficient attention to catch the transition would alter the emotional dynamics producing it.
 
-**Attention shifts.** You realise you have been daydreaming. Departure from focused attention is unwitnessed; only return is noticed — the asymmetry documented in detail by the [phenomenology of returning attention](/topics/phenomenology-of-returning-attention/).
+**Attention shifts.** You realise you have been daydreaming. Departure from focused attention is unwitnessed; only return is noticed — the asymmetry documented in detail by the [phenomenology of returning attention](/topics/phenomenology-of-returning-attention/). The [distraction-void](/voids/distraction-void/) treats this case in depth, pairing probe-caught mind-wandering with ERP timing to show the capture itself running its course before conscious access can engage.
 
 **Flow states.** Entering and exiting flow is never observed from within flow. The [absorption void](/voids/disappearance-voids/) documents this: peak conscious engagement is peak self-opacity. You surface and realise time has passed.
 

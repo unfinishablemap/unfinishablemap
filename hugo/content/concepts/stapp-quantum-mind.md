@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-02 21:38:00+00:00
+ai_modified: 2026-04-23 17:41:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,13 +29,14 @@ description: 'Mental effort operates through the quantum Zeno effect: rapid atte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-02 07:38:00+00:00
+last_deep_review: 2026-04-23 17:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[stapp-mental-effort-mind-matter-2026-01-14]]'
 - '[[attention-as-interface]]'
 - '[[what-consciousness-tells-us-about-physics]]'
+- '[[born-rule-violation-brain-interface-empirical-status]]'
 title: Stapp's Quantum Mind Model
 topics:
 - '[[topics/free-will]]'
@@ -44,7 +45,7 @@ topics:
 
 Henry Stapp's quantum mind model proposes that consciousness influences the brain through the quantum Zeno effect—a standard result in quantum mechanics where rapid, repeated observation prevents a quantum system from evolving. In Stapp's framework, mental effort acts like repeated observation, "holding" desired neural patterns in place against their natural tendency to dissipate. This provides a mechanism for mind-matter interaction that requires no new physics: consciousness operates through orthodox quantum mechanics, selecting among superposed neural states by attending to them.
 
-The model has remarkable properties. It explains why controlling attention feels effortful (rapid observation requires continuous engagement). It satisfies conservation laws (no energy is injected). It addresses the exclusion problem (consciousness operates where physics leaves outcomes undetermined). And it finds suggestive—though not conclusive—empirical support in Jeffrey Schwartz's neuroplasticity research showing that cognitive-behavioural intervention produces measurable brain changes, though this evidence admits materialist reinterpretation. For the candidate neural sites and timing constraints relevant to this mechanism, see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/).
+The model has remarkable properties. It explains why controlling attention feels effortful (rapid observation requires continuous engagement). It satisfies conservation laws (no energy is injected). It addresses the exclusion problem (consciousness operates where physics leaves outcomes undetermined). And it finds suggestive support in Jeffrey Schwartz's neuroplasticity research on cognitive-behavioural intervention, though that evidence admits materialist reinterpretation. For the candidate neural sites and timing constraints relevant to this mechanism, see [quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/).
 
 ## The Core Mechanism
 
@@ -61,7 +62,7 @@ Stapp proposes that neural firing patterns exist in superposition until "observe
 
 The key insight: consciousness doesn't *generate* neural patterns—it *selects* among patterns the brain presents. This represents basis control (choosing which question to ask) combined with timing control (determining when observation occurs)—two of the three [coupling-modes](/concepts/coupling-modes/) by which consciousness might influence quantum outcomes. As a forward-in-time mechanism, the Zeno model is one of three [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks the Map develops.
 
-Crucially, the mechanism satisfies both [conservation laws](/concepts/conservation-laws-and-mental-causation/) and [observational-closure](/concepts/observational-closure/). Consciousness shapes which possibility actualises without adding energy, and the aggregate statistics remain indistinguishable from [Born-rule](/topics/born-rule-and-the-consciousness-interface/) predictions. This addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined. Consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
+Crucially, the mechanism satisfies [conservation laws](/concepts/conservation-laws-and-mental-causation/)—consciousness shapes which possibility actualises without adding energy. Whether [Born-rule](/topics/born-rule-and-the-consciousness-interface/) statistics survive at the ensemble is a live question: the [corridor reading](/concepts/observational-closure/) treats single selections as averaging to |⟨φ|ψ⟩|² and leaving no detectable signature, while the Map's [empirical-status taxonomy](/topics/born-rule-violation-brain-interface-empirical-status/) classifies Stapp's picture as Born-rule-bending because attention-modulated observation rate shifts aggregate probabilities ("minimum-outside-the-corridor"). Either reading addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined, and consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 
 Among [proposed coupling mechanisms](/concepts/psychophysical-laws/), Stapp's model is the most developed, satisfying all three criteria for scientific adequacy: *precision*, *mechanism*, and *falsifiability*. See the linked article for comparative analysis with Eccles and other proposals.
 
@@ -79,7 +80,7 @@ Jeffrey Schwartz developed a cognitive therapy for OCD based on his four-step me
 
 Schwartz and Stapp's 2005 collaboration proposed that mental effort operates through quantum Zeno mechanisms: repeated attention sustains alternative neural patterns, which strengthen over time while obsessive patterns weaken. The [clinical neuroplasticity evidence](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) extends the empirical case with additional evidence streams—psychotherapy neuroimaging showing pathway divergence between CBT and pharmacotherapy, and placebo neuroplasticity—though each stream individually admits materialist reinterpretation. Meditation structural remodelling, once cited as supporting evidence, has been weakened by replication failures (Kral et al., 2022).
 
-The findings don't definitively prove the quantum Zeno mechanism—the clinical data is compatible with both the quantum interpretation and classical neural self-modification. But they establish that cognitive-behavioural intervention has physical consequences. The philosophical case for Stapp's mechanism rests on independent arguments about quantum indeterminacy and the measurement problem, not on clinical evidence alone.
+The clinical data is compatible with both the quantum interpretation and classical neural self-modification—cognitive-behavioural intervention has physical consequences either way. The philosophical case for Stapp's mechanism rests on independent arguments about quantum indeterminacy and the measurement problem, not on clinical evidence alone.
 
 ## The Attention-as-Interface Extension
 
@@ -182,6 +183,7 @@ The model generates falsifiable predictions:
 - [stapp-mental-effort-mind-matter-2026-01-14](/research/stapp-mental-effort-mind-matter-2026-01-14/) — Detailed research notes
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — How Stapp's Zeno mechanism fits within the broader interpretive landscape
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Comparative survey: Stapp's Zeno approach alongside five other amplification mechanisms
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — Where Stapp's Zeno picture sits in the corridor-vs-minimum-outside-corridor taxonomy, and what current experiments can and cannot foreclose
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the reverse inference from consciousness to physics, with the Born rule as interface specification
 
 ## References

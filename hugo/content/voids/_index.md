@@ -106,6 +106,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Minimal Consciousness Void](/voids/minimal-consciousness-void/) — Why consciousness cannot investigate its own lower bound
 - [The Amplification Void](/voids/amplification-void/) — Why the chain from quantum influence to neural effect cannot be traced
 - [The Transition Void](/voids/transit-void/) — Why consciousness cannot witness its own state transitions
+- [The Distraction Void](/voids/distraction-void/) — Why the moment of attentional capture is systematically unavailable to the consciousness that is captured
 - [The Agency Verification Void](/voids/agency-verification-void/) — Why consciousness cannot verify its own causal powers
 - [The Initiation Void](/voids/transit-void/) — Why consciousness cannot witness the onset of its own mental acts
 - [The Thrownness Void](/voids/thrownness-void/) — Why consciousness cannot access the conditions under which it became conscious

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-15 17:36:00+00:00
+ai_modified: 2026-04-23 15:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[consciousness-selecting-neural-patterns]]'
 - '[[post-decoherence-selection]]'
 created: 2026-02-19
-date: &id001 2026-04-02
+date: &id001 2026-04-23
 description: Can experiments distinguish consciousness-driven collapse from decoherence?
   Predictions fall into three tiers—collapse existence, consciousness-dependence,
   and logical constraints—with the consciousness-specific tier remaining the hardest
@@ -30,13 +30,14 @@ description: Can experiments distinguish consciousness-driven collapse from deco
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-03 23:39:00+00:00
+last_deep_review: 2026-04-23 15:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[decoherence-and-macroscopic-superposition]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[born-rule-and-the-consciousness-interface]]'
+- '[[born-rule-violation-brain-interface-empirical-status]]'
 - '[[penrose-gravity-induced-collapse-empirical-prospects]]'
 - '[[non-retrocausal-conscious-selection-models]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
@@ -80,6 +81,8 @@ An ideal experiment would compare a quantum system measured by a conscious obser
 **Gran Sasso (2022):** Curceanu and colleagues searched for spontaneous radiation predicted by the Diósi-Penrose collapse model. The result was negative: the simplest gravity-related collapse models are "highly implausible." Barbatti (2024) applied atomistic Diósi-Penrose calculations to molecular and biological systems, opening additional experimental channels.
 
 **Macromolecule interferometry:** The current record (Fein et al., 2019) stands at ~25,000 amu. Direct CSL testing requires superpositions at 10⁹–10¹¹ amu. The proposed MAQRO space mission would probe this regime — persistent superposition would largely exclude CSL, while mass-dependent breakdown would support the physical framework consciousness-collapse requires.
+
+**Brain-interface programmes:** A parallel landscape targets the brain-internal regime — Kerskens' MRI entanglement-witness protocol (2022), Babcock-Hameroff microtubule evidence (2025), the Nirvanic quantum-agent device (2025), and Maier-Dechamps's (2018) preregistered RNG null. [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) catalogues these and the corridor/minimum-outside-corridor/trumping taxonomy for reading Born-rule status.
 
 ## Tier 1 Predictions: Does Collapse Happen at All?
 
@@ -153,7 +156,7 @@ Stapp's quantum Zeno approach proposes that conscious attention holds neural ass
 
 Tegmark (2000) calculates that quantum coherence in neural tissue decoheres within roughly 10⁻¹³ seconds — far too fast for any neural process to exploit. This is the most cited physics objection to consciousness-collapse models, and any Tier 2 framework must address it.
 
-The objection is decisive against models requiring sustained quantum coherence in neural tissue — Penrose-Hameroff orchestrated reduction, for instance, must explain how microtubule coherence survives the warm, wet brain environment. But the Map's framework operates through [post-decoherence-selection](/concepts/post-decoherence-selection/), which sidesteps the timescale problem entirely. Consciousness does not need to maintain or exploit quantum coherence; it acts *after* decoherence has already produced the classical-looking mixture, selecting which outcome becomes actual from the improper mixture that decoherence leaves behind. Tegmark's calculation constrains when coherence vanishes — it says nothing about what happens to the resulting mixture.
+The objection is decisive against models requiring sustained quantum coherence in neural tissue — Penrose-Hameroff orchestrated reduction, for instance, must explain how microtubule coherence survives the warm, wet brain environment. Hagan, Hameroff, and Tuszyński (2002) contest Tegmark's estimate for that specific case, calculating microtubule decoherence times up to ~10⁻⁵ seconds under Debye-layer screening and ordered water — seven orders of magnitude above Tegmark's figure, though still far short of perceptual timescales. But the Map's framework operates through [post-decoherence-selection](/concepts/post-decoherence-selection/), which sidesteps the timescale problem entirely. Consciousness does not need to maintain or exploit quantum coherence; it acts *after* decoherence has already produced the classical-looking mixture, selecting which outcome becomes actual from the improper mixture that decoherence leaves behind. Tegmark's calculation constrains when coherence vanishes — it says nothing about what happens to the resulting mixture.
 
 The Phi-threshold and Q-shape predictions (Kremnizer-Ranchin and Chalmers-McQueen) reinforce this separation. Integrated information (Φ) is computed over the causal structure of a system — its information-integration architecture — not over quantum coherence. A neural network's Φ value depends on how its components influence each other causally, which is a property of the classical dynamics that persist long after decoherence. The collapse operator in these models is indexed to information structure, not to fragile quantum states. The quantum computer variable-Φ tests proposed by Chalmers and McQueen (2021) make this concrete: the circuits would already be decohered systems whose differing information architectures predict differing collapse rates.
 
@@ -239,6 +242,7 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 - [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — GRW, CSL, and Penrose OR in detail
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How proposed mechanisms compare
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — Why deriving the Born rule matters for collapse theories
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — Active brain-interface programmes and the corridor-vs-minimum-outside-corridor taxonomy
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Experimental programme constraining gravity-collapse models
 - [anaesthesia-and-the-consciousness-interface](/topics/anaesthesia-and-the-consciousness-interface/) — Anaesthesia as a test case for consciousness-physics interaction
 - [testability-ledger](/project/testability-ledger/) — Systematic catalogue of what would disconfirm the Map's framework
@@ -256,26 +260,15 @@ If Tier 1 experiments progressively eliminate all collapse models, consciousness
 7. Curceanu, C., Diósi, L., et al. (2022). "At the crossroad of the search for spontaneous radiation and the Orch OR consciousness theory." *Physics of Life Reviews*.
 8. Fein, Y.Y., et al. (2019). "Quantum superposition of molecules beyond 25 kDa." *Nature Physics*, 15, 1242–1245.
 9. Frauchiger, D. & Renner, R. (2018). "Quantum theory cannot consistently describe the use of itself." *Nature Communications*, 9, 3711.
-10. Horchani, R. (2025). "Experimental Blueprint for Distinguishing Decoherence from Objective Collapse." *arXiv:2512.02838*.
-11. Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
-12. Kleiner, J. & Hoel, E. (2024). "Testing the Conjecture That Quantum Processes Create Conscious Experience." *Entropy*, 26(6), 460.
-13. Kremnizer, K. & Ranchin, A. (2015). "Integrated Information-Induced Quantum Collapse." *Foundations of Physics*, 45(8), 889–899.
-14. Proietti, M. et al. (2019). "Experimental test of local observer independence." *Science Advances*, 5(9), eaaw9832.
-15. Schlosshauer, M. (2004). "Decoherence, the measurement problem, and interpretations of quantum mechanics." *Reviews of Modern Physics*, 76(4), 1267–1305.
-16. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer.* Springer.
-17. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
-18. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
-19. Tononi, G. et al. (2023). "Integrated information theory (IIT) 4.0." *PLOS Computational Biology*.
-20. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
-
-<!-- AI REFINEMENT LOG - 2026-04-15
-Changes made:
-- Added "The Decoherence Timescale Objection" subsection to Tier 2 addressing Tegmark's (2000) 10⁻¹³s neural decoherence calculation
-- Explained how post-decoherence selection sidesteps the timescale problem (consciousness acts after decoherence, not during coherence)
-- Clarified that Phi-threshold/Q-shape predictions are indexed to information structure, not quantum coherence
-- Noted what Tegmark does constrain: timing window for selection must be post-decoherence neural timescale
-
-Prompted by pessimistic review Issue 3: Tier 2 section ignored the most prominent physics objection.
-
-This log should be removed after human review.
--->
+10. Hagan, S., Hameroff, S. & Tuszyński, J. (2002). "Quantum computation in brain microtubules: Decoherence and biological feasibility." *Physical Review E*, 65, 061901.
+11. Horchani, R. (2025). "Experimental Blueprint for Distinguishing Decoherence from Objective Collapse." *arXiv:2512.02838*.
+12. Jahn, R. G., & Dunne, B. J. (2005). "The PEAR Proposition." *Journal of Scientific Exploration*, 19(2), 195–245.
+13. Kleiner, J. & Hoel, E. (2024). "Testing the Conjecture That Quantum Processes Create Conscious Experience." *Entropy*, 26(6), 460.
+14. Kremnizer, K. & Ranchin, A. (2015). "Integrated Information-Induced Quantum Collapse." *Foundations of Physics*, 45(8), 889–899.
+15. Proietti, M. et al. (2019). "Experimental test of local observer independence." *Science Advances*, 5(9), eaaw9832.
+16. Schlosshauer, M. (2004). "Decoherence, the measurement problem, and interpretations of quantum mechanics." *Reviews of Modern Physics*, 76(4), 1267–1305.
+17. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer.* Springer.
+18. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61, 4194–4206.
+19. Tononi, G. (2008). "Consciousness as Integrated Information: A Provisional Manifesto." *Biological Bulletin*, 215(3), 216–242.
+20. Tononi, G. et al. (2023). "Integrated information theory (IIT) 4.0." *PLOS Computational Biology*.
+21. Bacciagaluppi, G. (2020). "The Role of Decoherence in Quantum Mechanics." *Stanford Encyclopedia of Philosophy* (Fall 2020 Edition), Edward N. Zalta (ed.).
