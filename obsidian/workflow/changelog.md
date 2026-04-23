@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 21:42:00+00:00
+ai_modified: 2026-04-23 21:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 21:55 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Context**: Cross-review considering today's three new voids articles (plenitude-void, categorial-void, epistemic-horizon-void)
+- **Word count**: 3920 → 4020 (+100, length-neutral against 4000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (plenitude missing from Phenomenological Cluster; epistemic horizon missing from Formal/Meta-Cognitive Cluster and Taxonomy's Own Limits; categorial missing from Formal/Meta-Cognitive Cluster; all three missing from related_articles)
+- **Enhancements made**: 5 (plenitude void integrated with self-concealing-structure framing; epistemic horizon integrated in two places—cluster + Taxonomy's Own Limits—as structural formalisation of "Map is unfinishable"; categorial void integrated with "soft absence" signature flagged inline; compound-failure-methods paragraph trimmed to compensate for additions; related_articles frontmatter updated)
+- **Output**: [[reviews/deep-review-2026-04-23-taxonomy-of-voids]]
 
 ## 2026-04-23 21:42 UTC - deep-review
 - **Status**: Success
