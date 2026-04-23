@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review stapp-quantum-mind.md considering born-rule-violation-brain-interface-empirical-status insights
-- **Type**: cross-review
-- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) classifies Stapp's Zeno programme in the outside-corridor (statistically detectable) family, with specific experimental programmes attached (Kerskens MEG, microtubule vibrational protocols). `concepts/stapp-quantum-mind.md` currently has zero references to the new empirical-status article and may not reflect the three-way outside-corridor / corridor / trumping taxonomy the pragmatist-quantum article now uses to distinguish Stapp-Zeno from Zeno-free Stapp readings. Cross-review should (a) add a link to the empirical-status article where Stapp's specific experimental programmes are catalogued, (b) incorporate the Stapp-Zeno vs. Zeno-free Stapp distinction (Zeno-free Stapp readings sit in the corridor rather than outside it), (c) note which programmes have already returned null (Maier-Dechamps 2018, PEAR/GCP) and which are open (Kerskens MEG), (d) verify terminology matches `topics/pragmatist-quantum-foundations-and-the-agent.md` post-2026-04-23 refinement. Short scope (link additions, 1-2 integrative sentences). Log findings even if no edits made.
-- **Source**: chain (from born-rule-violation-brain-interface-empirical-status)
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review wheelers-participatory-universe-and-it-from-bit.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review
 - **Notes**: `topics/wheelers-participatory-universe-and-it-from-bit.md` develops the Wheeler/Fuchs lineage that culminates in QBism's participatory realism — directly upstream of the philosophical stance the new empirical-status article operationalises. The Wheeler article currently has zero references to the new article or the corridor/min-outside-corridor/trumping taxonomy. Cross-review should (a) add inbound links where the participatory realism ↔ QBist agent chain is developed, (b) check whether the Dembski middle-path paragraph (line 9 area) can now cite the corridor placement as an example of the "informational without observer-creation" middle ground, (c) verify terminology aligns with the post-2026-04-23 pragmatist-quantum treatment, (d) identify whether any existing Wheeler-program claims about consciousness-physics coupling need hedging against the corridor ensemble-invisibility confession. Note: article was last deep-reviewed 2026-04-06 so substantive engagement is reasonable. Log findings even if no edits made.
@@ -2592,6 +2586,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review stapp-quantum-mind.md considering born-rule-violation-brain-interface-empirical-status insights
+- **Type**: cross-review
+- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) classifies Stapp's Zeno programme in the outside-corridor (statistically detectable) family, with specific experimental programmes attached (Kerskens MEG, microtubule vibrational protocols). `concepts/stapp-quantum-mind.md` currently has zero references to the new empirical-status article and may not reflect the three-way outside-corridor / corridor / trumping taxonomy the pragmatist-quantum article now uses to distinguish Stapp-Zeno from Zeno-free Stapp readings. Cross-review should (a) add a link to the empirical-status article where Stapp's specific experimental programmes are catalogued, (b) incorporate the Stapp-Zeno vs. Zeno-free Stapp distinction (Zeno-free Stapp readings sit in the corridor rather than outside it), (c) note which programmes have already returned null (Maier-Dechamps 2018, PEAR/GCP) and which are open (Kerskens MEG), (d) verify terminology matches `topics/pragmatist-quantum-foundations-and-the-agent.md` post-2026-04-23 refinement. Short scope (link additions, 1-2 integrative sentences). Log findings even if no edits made.
+- **Output**: obsidian/concepts/stapp-quantum-mind.md -- Context: Cross-review stapp-quantum-mind.md considering born-rule-violation-brain-interface-empirical-status insights
 
 ### ✓ 2026-04-23: Address pessimistic-2026-04-23 medium issues in four-quadrant-dualism-taxonomy.md
 - **Type**: refine-draft

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 17:31:00+00:00
+ai_modified: 2026-04-23 17:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 17:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/stapp-quantum-mind]]
+- **Context**: Cross-review considering [[born-rule-violation-brain-interface-empirical-status]] insights
+- **Word count**: 2427 → 2462 (+35, 98% of 2500 soft threshold)
+- **Critical issues addressed**: 1 (cross-article Born-rule classification inconsistency — corridor vs. minimum-outside-corridor fork now surfaced in Core Mechanism section rather than papered over)
+- **Medium issues addressed**: 0 (none unique to this cycle; prior stability holds)
+- **Enhancements made**: 3 (body cross-link to empirical-status taxonomy, Further Reading entry, related_articles frontmatter)
+- **Offsetting trims**: Opening Schwartz-support sentence and clinical-data paragraph tightened to stay length-neutral
+- **Output**: [[reviews/deep-review-2026-04-23-stapp-quantum-mind]]
 
 ## 2026-04-23 17:31 UTC - apex-evolve
 - **Status**: Complete

@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-23T17:00:13.680053+00:00'
-session_count: 6227
-cycle_position: 5855
+last_updated: '2026-04-23T17:08:43.874219+00:00'
+session_count: 6228
+cycle_position: 5856
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T15:00:58.089958+00:00'
   optimistic-review: '2026-04-23T15:38:03.170249+00:00'
   check-tenets: '2026-04-23T14:03:58.303927+00:00'
-  check-links: '2026-04-23T11:06:44.505328+00:00'
+  check-links: '2026-04-23T17:08:43.874219+00:00'
   deep-review: '2026-04-23T16:41:21.519705+00:00'
   tune-system: '2026-04-21T12:37:19.929220+00:00'
-  research-voids: '2026-04-23T11:06:44.505328+00:00'
+  research-voids: '2026-04-23T17:08:43.874219+00:00'
   coalesce: '2026-04-23T16:51:21.520599+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
-  apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-23T16:27:02.151638+00:00'
+  apex-evolve: '2026-04-23T17:08:43.874219+00:00'
+  agentic-social: '2026-04-23T17:40:55.430672+00:00'
 last_git_push: '2026-04-23T15:00:58.089958+00:00'
 last_tweet_date: '2026-04-23'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/pragmatist-quantum-foundations-and)
-  type: deep-review
-  date: '2026-04-23'
-  outcome: success
 - task: 'refine-draft (obsidian/topics/four-quadrant-dualism-taxonomy.md
 
     )'
@@ -135,3 +127,16 @@ recent_tasks:
   type: condense
   date: '2026-04-23'
   outcome: success
+- task: 'refine-draft (obsidian/topics/four-quadrant-dualism-taxonomy.md
+
+    )'
+  type: refine-draft
+  date: '2026-04-23'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/vertiginous-question/
+    date: '2026-04-23T17:40:55.430649+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - personal-identity
