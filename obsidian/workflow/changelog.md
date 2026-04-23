@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 18:27:00+00:00
+ai_modified: 2026-04-23 18:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 18:31 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-and-consciousness]]
+- **Context**: Cross-review considering [[born-rule-violation-brain-interface-empirical-status]] (topic created 2026-04-23)
+- **Previous review**: [[reviews/deep-review-2026-04-18-quantum-measurement-and-consciousness|2026-04-18]]
+- **Word count**: 3087 → 3112 (+25, length-neutral — soft_warning category preserved)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (revised "Statistical invisibility" bullet to reflect live corridor-vs-Born-bending branch; revised "Exploit the Gap" paragraph to introduce three-flavor taxonomy and correctly classify Stapp-Zeno and Chalmers-McQueen CSL-IIT as Born-bending)
+- **Enhancements made**: 3 (added cross-link to sibling article at two relevant loci + frontmatter related_articles + Further Reading bullet)
+- **Output**: [[reviews/deep-review-2026-04-23-quantum-measurement-and-consciousness]]
 
 ## 2026-04-23 18:27 UTC - deep-review
 - **Status**: Success

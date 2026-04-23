@@ -4,7 +4,7 @@ description: "The measurement problem and the hard problem share an identical lo
 created: 2026-02-01
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-18T07:18:00+00:00
+ai_modified: 2026-04-23T18:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,6 +30,7 @@ related_articles:
   - "[[quantum-measurement-and-subjective-probability]]"
   - "[[qm-interpretations-beyond-many-worlds]]"
   - "[[pragmatist-quantum-foundations-under-dualism]]"
+  - "[[born-rule-violation-brain-interface-empirical-status]]"
   - "[[consciousness-measurement-problem-2026-01-16]]"
   - "[[measurement-problem-quantum-mechanics-2026-01-14]]"
   - "[[methodology-of-consciousness-research]]"
@@ -44,7 +45,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-17
 last_curated:
-last_deep_review: 2026-04-18T07:18:00+00:00
+last_deep_review: 2026-04-23T18:31:00+00:00
 coalesced_from:
   - "/topics/quantum-measurement-consciousness-interface/"
   - "/topics/the-measurement-problem-as-philosophical-problem/"
@@ -108,7 +109,7 @@ The [[causal-closure|causal closure]] principle—every physical event has a suf
 
 **No energy required.** Selecting among outcomes need not inject energy. In certain scenarios, possible outcomes are equi-energetic, and biasing toward one doesn't violate conservation laws. (See [[conservation-laws-and-mental-causation]] for the detailed argument.)
 
-**Statistical invisibility.** Any consciousness-mediated selection must preserve Born statistics over ensembles—the influence must be invisible to third-person physics while determining first-person outcomes.
+**Statistical compatibility.** On the Map's corridor-dualist working hypothesis, selection preserves Born statistics over ensembles while determining first-person outcomes. Whether Born-bending variants are required instead is a [[born-rule-violation-brain-interface-empirical-status|live empirical question]].
 
 **Genuine indeterminacy.** Unlike classical "randomness" (which might be deterministic chaos), [[quantum-indeterminacy-free-will|quantum indeterminacy]] appears fundamental.
 
@@ -128,7 +129,7 @@ The Map [[tenets#^no-many-worlds|rejects Many-Worlds]] while acknowledging that 
 
 ### Exploit the Gap: Consciousness Selection
 
-A third approach takes the gap seriously: consciousness determines outcomes *within* the probabilistic constraints physics provides. This aligns with [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks like [[quantum-consciousness#quantum-zeno-effect-stapp|Stapp's quantum Zeno model]] and Chalmers-McQueen's CSL-IIT — mental attention biases which neural patterns become actual using orthodox or minimally modified quantum mechanics. Stapp's approach is the most developed successor to the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]], retaining the insight that consciousness terminates the measurement chain while specifying *how* it does so—through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse." Consciousness operates *within* physics, not overriding it.
+A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [[born-rule-violation-brain-interface-empirical-status]]. [[non-retrocausal-conscious-selection-models|Non-retrocausal selection]] frameworks like [[quantum-consciousness#quantum-zeno-effect-stapp|Stapp's quantum Zeno model]] and Chalmers-McQueen's CSL-IIT fall in the Born-bending family: mental attention biases which neural patterns become actual, with selection statistics depending on a consciousness-related variable. Stapp's model is the most developed successor to the [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]], specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
 
 The strength: consciousness is causally efficacious—[[tenets#^bidirectional-interaction|Bidirectional Interaction]] is preserved. The weakness: the mechanism by which mental attention generates observation events in a warm, decoherent brain remains unspecified.
 
@@ -200,6 +201,7 @@ This topic is central to the Map's framework, connecting all five tenets:
 - [[prebiotic-collapse]] — How definite outcomes obtained before conscious observers existed
 - [[qm-interpretations-beyond-many-worlds]] — Interpretation comparison
 - [[pragmatist-quantum-foundations-under-dualism]] — How QBism, Healey, Brukner-Zeilinger, and Stapp look once dualism is assumed
+- [[born-rule-violation-brain-interface-empirical-status]] — Empirical status of corridor vs. Born-bending dualism at the brain interface
 - [[cognitive-science-of-dualism]] — How cognitive science reinforces the first-person/third-person distinction
 - [[tenets]] — The Map's foundational commitments
 

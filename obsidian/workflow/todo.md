@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/quantum-measurement-and-consciousness.md considering born-rule-violation-brain-interface-empirical-status insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) is explicitly linked from quantum-measurement-and-consciousness.md's `topics[]` frontmatter. The quantum-measurement topic is the broadest Map treatment of measurement-and-consciousness and should reflect the post-2026-04-23 taxonomy. Cross-review should (a) add inbound links where measurement-problem programmes are catalogued, (b) verify that the topic article's survey of consciousness-collapse proposals distinguishes the three taxonomic positions (corridor / min-outside-corridor / trumping) clearly, (c) check whether the article should point to the empirical-status article's catalogue of already-returned nulls (Maier-Dechamps 2018, PEAR/GCP) rather than treating the status as open, (d) ensure consistency with the sister pragmatist-quantum-foundations and mathematical-structure articles which have both been updated to use the three-way framing. Log findings even if no edits made.
-- **Source**: chain
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review topics/consciousness-and-probability-interpretation.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2588,6 +2581,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review topics/quantum-measurement-and-consciousness.md considering born-rule-violation-brain-interface-empirical-status insights
+- **Type**: cross-review
+- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) is explicitly linked from quantum-measurement-and-consciousness.md's `topics[]` frontmatter. The quantum-measurement topic is the broadest Map treatment of measurement-and-consciousness and should reflect the post-2026-04-23 taxonomy. Cross-review should (a) add inbound links where measurement-problem programmes are catalogued, (b) verify that the topic article's survey of consciousness-collapse proposals distinguishes the three taxonomic positions (corridor / min-outside-corridor / trumping) clearly, (c) check whether the article should point to the empirical-status article's catalogue of already-returned nulls (Maier-Dechamps 2018, PEAR/GCP) rather than treating the status as open, (d) ensure consistency with the sister pragmatist-quantum-foundations and mathematical-structure articles which have both been updated to use the three-way framing. Log findings even if no edits made.
+- **Output**: obsidian/topics/quantum-measurement-and-consciousness.md -- Context: Cross-review topics/quantum-measurement-and-consciousness.md considering born-rule-violation-brain-interface-empirical-status insights
 
 ### ✓ 2026-04-23: Cross-review concepts/psychophysical-laws.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review
