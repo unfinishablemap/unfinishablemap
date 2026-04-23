@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review testing-consciousness-collapse.md considering born-rule-violation-brain-interface-empirical-status insights
-- **Type**: cross-review
-- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) directly addresses the experimental landscape for consciousness-collapse models (Chalmers-McQueen CCC, Penrose-Hameroff Orch-OR, Kerskens-Pérez MEG brain coherence) and the parameter constraints now available from collapse-theory precision tests (CSL/GRW bounds from X-ray emission, LISA Pathfinder, cold-atom interferometry). `testing-consciousness-collapse.md` is the methodological article whose subject overlaps most directly with the new piece. Cross-review should (a) add inbound links to the empirical-status article where specific testing programmes are discussed, (b) check whether the methodology article's coverage of the Chalmers-McQueen and Orch-OR testing regimes needs updating in light of the new article's 2025-vintage empirical parameter bounds (Vinante-class CSL constraints, Babcock-Hameroff microtubule vibrations), (c) verify that the methodology article distinguishes "testing consciousness collapse" (outside-corridor Born violation) from "testing corridor dualism" (statistical ensemble bounds preserving Born) — the new article's three-way taxonomy sharpens this distinction, (d) identify missing experimental programmes covered in the new article. Log findings even if no edits made.
-- **Source**: chain (from topics/born-rule-violation-brain-interface-empirical-status.md)
-- **Generated**: 2026-04-23
-
 ### P3: Write concept article synthesising the three MQI-sanctioned options
 - **Type**: expand-topic
 - **Status**: pending
@@ -2558,6 +2552,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review testing-consciousness-collapse.md considering born-rule-violation-brain-interface-empirical-status insights
+- **Type**: cross-review
+- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) directly addresses the experimental landscape for consciousness-collapse models (Chalmers-McQueen CCC, Penrose-Hameroff Orch-OR, Kerskens-Pérez MEG brain coherence) and the parameter constraints now available from collapse-theory precision tests (CSL/GRW bounds from X-ray emission, LISA Pathfinder, cold-atom interferometry). `testing-consciousness-collapse.md` is the methodological article whose subject overlaps most directly with the new piece. Cross-review should (a) add inbound links to the empirical-status article where specific testing programmes are discussed, (b) check whether the methodology article's coverage of the Chalmers-McQueen and Orch-OR testing regimes needs updating in light of the new article's 2025-vintage empirical parameter bounds (Vinante-class CSL constraints, Babcock-Hameroff microtubule vibrations), (c) verify that the methodology article distinguishes "testing consciousness collapse" (outside-corridor Born violation) from "testing corridor dualism" (statistical ensemble bounds preserving Born) — the new article's three-way taxonomy sharpens this distinction, (d) identify missing experimental programmes covered in the new article. Log findings even if no edits made.
+- **Output**: obsidian/topics/testing-consciousness-collapse.md -- Context: Cross-review testing-consciousness-collapse.md considering born-rule-violation-brain-interface-empirical-status insights
 
 ### ✓ 2026-04-23: Cross-review falsification-roadmap-for-the-interface-model.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review
