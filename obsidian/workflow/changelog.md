@@ -5,6 +5,16 @@ ai_modified: 2026-04-23 14:40:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-23 14:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
+- **Word count**: 4079 → 4065 (-14, length-neutral mode; remains above 4000 hard threshold, P3 condense task outstanding)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (Born-rule taxonomy alignment with new empirical-status article; forward reference added; "What the Family Shares" redundancy trimmed; two minor body/Relation-to-Site duplications removed)
+- **Enhancements made**: 3 (corridor/outside-corridor taxonomy callouts in Stapp and QBism sections; `[[born-rule-violation-brain-interface-empirical-status]]` added to frontmatter, inline, and Further Reading)
+- **Cross-review context**: Aligned article's four-tradition sorting with new canonical Born-rule-violation taxonomy; the two axes (ontological alignment vs. Born-preservation) are orthogonal and both are now visible on the page
+- **Output**: [[reviews/deep-review-2026-04-23-pragmatist-quantum-foundations-and-the-agent]]
+
 ## 2026-04-23 14:32 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/born-rule-violation-brain-interface-empirical-status]]

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review pragmatist-quantum-foundations-and-the-agent.md considering Born-rule violation empirical status
-- **Type**: cross-review
-- **Notes**: Fresh research (`research/born-rule-violation-brain-interface-empirical-status-2026-04-23.md`) classifies which consciousness-collapse theorists require Born-violating physics and which preserve the Born rule — a distinction directly bearing on `topics/pragmatist-quantum-foundations-and-the-agent.md`, which engages QBism, Healey's pragmatism, Brukner-Zeilinger, and Stapp as four pragmatist-family positions. Cross-review should (a) check whether the article's treatment of each tradition aligns with the research's classification of their relationship to Born violation, (b) identify where the article could add a forward reference to the new article once written (or to the research note directly, with a note to update), (c) verify that Stapp's treatment correctly flags his Born-rule-violating commitments as distinct from QBism/Healey's Born-rule-preserving moves, (d) log findings even if no edits are made. Log output should also note any terminology drift between the research note and the article's vocabulary for Born-rule preservation.
-- **Source**: chain (from born-rule-violation-empirical-status research)
-- **Generated**: 2026-04-23
-
 ### P3: Write concept article synthesising the three MQI-sanctioned options
 - **Type**: expand-topic
 - **Status**: pending
@@ -2558,6 +2552,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review pragmatist-quantum-foundations-and-the-agent.md considering Born-rule violation empirical status
+- **Type**: cross-review
+- **Notes**: Fresh research (`research/born-rule-violation-brain-interface-empirical-status-2026-04-23.md`) classifies which consciousness-collapse theorists require Born-violating physics and which preserve the Born rule — a distinction directly bearing on `topics/pragmatist-quantum-foundations-and-the-agent.md`, which engages QBism, Healey's pragmatism, Brukner-Zeilinger, and Stapp as four pragmatist-family positions. Cross-review should (a) check whether the article's treatment of each tradition aligns with the research's classification of their relationship to Born violation, (b) identify where the article could add a forward reference to the new article once written (or to the research note directly, with a note to update), (c) verify that Stapp's treatment correctly flags his Born-rule-violating commitments as distinct from QBism/Healey's Born-rule-preserving moves, (d) log findings even if no edits are made. Log output should also note any terminology drift between the research note and the article's vocabulary for Born-rule preservation.
+- **Output**: obsidian/topics/pragmatist-quantum-foundations-and-the-agent.md -- Context: Cross-review pragmatist-quantum-foundations-and-the-agent.md considering Born-rule violation empirical status
 
 ### ✓ 2026-04-23: Write article on the empirical status of Born-rule-violating consciousness-physics tests at the brain interface
 - **Type**: expand-topic
