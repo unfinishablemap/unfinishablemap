@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address gaps in voids/distraction-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-23c found 1 High and 3 Medium issues. (1) *Unfalsifiability of the occlusion reading* (lines 85–91): the claim "wherever the Map's dualist mechanism would be most detectable in real time, introspection goes dark... the consciousness-physics coupling hides its own operation" is symmetrically confirmed by both presence and absence of introspective access. Either specify falsification conditions (trained contemplative reliably reporting pre-P3a access; ERP-phenomenology paradigm tracking transit; AI externalised-log transit reports) or explicitly label as non-falsifiable interpretive stance, citing [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] as justification. (2) *Convergence-argument conflation* (lines 71–77): James (ethics of return), *sati* (practice prescription), Heideggerian *Verfallen* (ontological absorption), Petitmengin (retrieval method for past experience), ERP + probe-caught work are treated as pointing at the same phenomenon; only the last two are direct evidence of a real-time gap. Narrow to the strongest pair or relabel the rest as *resonances*, not *independent confirmations*; fix the "four independent traditions" count (five+ are enumerated) and drop "independent" or justify it. (3) *ERP mapping over-confidence* (lines 61–65): text treats MMN/P3a/P3b → preattentive/capture/access as settled; soften to "commonly interpreted as" and cite a dissent (Pitts et al. 2014 no-report paradigms; Aru et al. 2012 NCC contamination). (4) *Anderson (2024) citation incomplete* (ref 2, line 118): "PMC12270342" is a PubMed Central ID, not a citation; verify and add full bibliographic detail or replace with a better-attested source for the retrospective-label thesis. Also: add body citation for Libet (ref 4) or remove from references; verify Gunaratana quote; remove or substantiate "seventeenth-century contemplative manual" (no such source is cited). See [[reviews/pessimistic-2026-04-23c]].
+- **Source**: pessimistic-review 2026-04-23c
+- **Generated**: 2026-04-23
+
 ### P2: Cross-review concepts/psychophysical-laws.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review
 - **Status**: pending
