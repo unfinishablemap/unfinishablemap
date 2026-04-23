@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 15:00:00+00:00
+ai_modified: 2026-04-23 15:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 15:07 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
+- **Source**: [[reviews/pessimistic-2026-04-23b]]
+- **Issues addressed**: 6/6 (2 High, 3 Medium, 1 Low-Medium)
+    - Issue 1 (agent equivocation): named three agent senses (phenomenal / decision-theoretic / information-processing); hedged "something it is like"; marked phenomenal reading as the contested move the absorption argument requires.
+    - Issue 2 (Stapp decoherence): removed the Hagan-Hameroff / transactional-TSVF sentence (cited programmes that address a different mechanism from Stapp's Zeno, neither in References); replaced with a cross-reference to [[quantum-measurement-and-consciousness]] focused on ion-channel Heisenberg-choice timescales.
+    - Issue 3 (corridor unfalsifiability): added confession that the corridor reading is ensemble-invisible and shares its empirical profile with QBism-without-dualism and standard QM.
+    - Issue 4 (Jamesian over-reach): added compact paragraph noting James's later radical empiricism, Peirce, and Dewey as admitting non-dualist readings.
+    - Issue 5 (primitive → non-physical inference): hedged the three-step inference and located the independent work in hard-problem arguments for Tenet 1.
+    - Issue 6 (Healey boundary-drawing): softened "same counterexamples that functionalism faces" to "difficulties structurally similar … at the more restricted scope of measurement-event ascription".
+- **Word count**: 4065 → ~4320 (+~255 words; slightly additive, below 4323 spot-check). P3 condense task was already pending prior to this pass and remains the appropriate remedy for length.
+- **No structural reorganisation**; article's thesis survives the fixes as the review predicted.
+- **Published**: yes (draft: false preserved; `ai_modified` updated to 2026-04-23T15:07:00+00:00)
 
 ## 2026-04-23 15:00 UTC - pessimistic-review
 - **Status**: Success

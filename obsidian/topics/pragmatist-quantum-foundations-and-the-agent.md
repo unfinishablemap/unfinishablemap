@@ -4,7 +4,7 @@ description: "QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at 
 created: 2026-04-04
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T14:40:00+00:00
+ai_modified: 2026-04-23T15:07:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,13 +75,15 @@ Three Jamesian commitments shape QBism's character:
 
 This genealogy matters because it reveals that QBism's deepest commitments are not technical but philosophical. The decision to treat agents as primitive, the refusal to reduce experience to mechanism, the insistence that physics describes what agents can expect rather than what the world is "really like" — these are Jamesian moves, and they carry Jamesian consequences.
 
+The framing leans on one slice of that genealogy. James's later *Essays in Radical Empiricism* (1912) moves toward "pure experience" as neither mental nor physical — closer to neutral monism than substance dualism. Fuchs has also cited Peirce and Dewey, neither straightforwardly dualist. The pragmatist tradition admits non-dualist readings of the primitive agent; the Map leans on the earlier pluralist James and treats the other strands as available but not controlling.
+
 ## Participatory Realism and the Agent Problem
 
 Fuchs coined the term "participatory realism" in 2017 to link QBism with [[wheelers-participatory-universe-and-it-from-bit|Wheeler's observer-participancy programme]] and other agent-centred interpretations. The label is telling: it claims realism while insisting that agents participate in constituting reality rather than passively observing it. As Fuchs quotes Wheeler: "every time an act of observer-participancy occurs, one of the undecidable propositions is upgraded to the status of a new axiom."
 
 Participatory realism asserts that reality exceeds any third-person description. There is always more to the world than what can be captured in equations or propositions, because the act of engaging with the world — measuring, choosing, experiencing — adds something that no prior description could contain. This parallels the Map's argument that [[haecceity|first-person facts]] are irreducible to third-person descriptions.
 
-But participatory realism generates a question it cannot answer on its own terms: *what makes something a participant?* QBism's agents are not rocks or thermostats. They hold beliefs, form expectations, are surprised by outcomes, and update their credences in response to experience. These are capacities that presuppose [[phenomenal-consciousness|phenomenal consciousness]] — there must be something it is like to be an agent for the framework to operate. The [[indexical-identity-quantum-measurement|indexical gap in quantum measurement]] sharpens this: QBism presupposes that agents have determinate experiences to update beliefs *about*, but cannot explain why *this* agent has *this* experience. Fuchs acknowledges this openly, treating agents as primitive and irreducible rather than attempting to define them in physical terms.
+But participatory realism generates a question it cannot answer on its own terms: *what makes something a participant?* QBism's agents are not rocks or thermostats. They hold beliefs, form expectations, are surprised by outcomes, and update their credences in response to experience. On a phenomenal reading of "agent" these capacities presuppose [[phenomenal-consciousness|phenomenal consciousness]] — there must be something it is like to be an agent for the framework to operate. That reading is contested. "Agent" also admits decision-theoretic (a coherent bet-taker) and information-processing (a system following prescriptions) senses; operational QBists read the primitive agent in those thinner ways and are not vulnerable to the Map's absorption argument. The argument below reads Fuchs's Jamesian prose alongside the formalism as pushing toward the phenomenal reading. On that reading, the [[indexical-identity-quantum-measurement|indexical gap in quantum measurement]] sharpens: QBism presupposes that agents have determinate experiences to update beliefs *about*, but cannot explain why *this* agent has *this* experience. Fuchs acknowledges this openly, treating agents as primitive and irreducible rather than attempting to define them in physical terms.
 
 The Map's response: QBism is right that agents are irreducible, and right that physics cannot define them. But "primitive and irreducible" is not an explanation — it is a placeholder for one. The Map's dualism offers what QBism does not: a *reason* why agents resist physical definition. If consciousness is not reducible to physical processes (Tenet 1), the primitive status of QBism's agents is expected rather than puzzling — they are primitive within physics because they possess something beyond the physical.
 
@@ -101,7 +103,7 @@ Stapp's Copenhagen pragmatism grants everything the Map needs. The mathematical 
 
 The Map's reading: Stapp's framework is what pragmatism looks like when its central notion — the agent — is allowed to be a conscious subject with causal efficacy rather than a primitive placeholder. Dualism does not add machinery to Stapp; it provides the ontological backing his physics already presupposes.
 
-The cost of this alliance is that Stapp's view is also the most physically committed — and therefore the most empirically exposed. Two exposures matter. First, decoherence objections to neural coherence bite on Stapp in ways they do not bite on QBism (which has nothing at the quantum level to decohere). Second, the Zeno mechanism is explicitly Born-rule-bending — observation rate modulates selection away from what a non-conscious measurement would yield — placing Stapp in the minimum-outside-the-corridor category of the Map's [[born-rule-violation-brain-interface-empirical-status|empirical taxonomy]], where QBism and Healey sit in the Born-preserving corridor. The Map's answer to the decoherence objection, developed elsewhere, combines the revised Hagan-Hameroff estimates with the observation that the time-symmetric selection mechanisms in transactional and two-state-vector accounts do not require sustained in-brain coherence of the conventional kind.
+The cost of this alliance is that Stapp's view is also the most physically committed — and therefore the most empirically exposed. Two exposures matter. First, decoherence objections to neural coherence bite on Stapp in ways they do not bite on QBism (which has nothing at the quantum level to decohere). Second, the Zeno mechanism is explicitly Born-rule-bending — observation rate modulates selection away from what a non-conscious measurement would yield — placing Stapp in the minimum-outside-the-corridor category of the Map's [[born-rule-violation-brain-interface-empirical-status|empirical taxonomy]], where QBism and Healey sit in the Born-preserving corridor. The Map's response to the decoherence objection turns on the specifics of Stapp's ion-channel Heisenberg-choice mechanism rather than on generic neural coherence; see [[quantum-measurement-and-consciousness]] for the detailed treatment.
 
 ## QBism: The Primitive Agent as Dualist Placeholder
 
@@ -117,7 +119,9 @@ On this reading, SIC-POVMs and Dutch-book coherence are not tools for dissolving
 
 The "agent problem" that critics raise against QBism then looks different. Critics complain that QBism presupposes conscious agents without explaining them; Fuchs concedes this openly, treating agents as primitive and irreducible. Under dualism, "primitive and irreducible" is not a concession but a prediction. If consciousness is not reducible to physical processes, any physics that requires conscious agents at its foundations *should* find those agents irreducible within its own vocabulary. QBism's agent-shaped hole is exactly the shape dualism predicts.
 
-The claim here concerns structural compatibility rather than covert dualism among QBists: the Map's dualism can absorb QBism's technical results without distortion, and QBism's anti-realism about quantum states is a separable philosophical choice that the Map does not make and need not make in order to preserve the urgleichung's normative reading. On the Map's [[born-rule-violation-brain-interface-empirical-status|empirical taxonomy]], this reading places QBism (like Healey) in the corridor family: the posited mental channel is single-event and ensemble-invisible, preserving standard Born statistics and remaining compatible with every precision test of the Born rule to date.
+The inference "primitive within QBism's formalism → metaphysically irreducible → non-physical" is not automatic: physics routinely takes primitives (space-time points, field values) without treating them as non-physical. A physicalist can accept the first step without conceding the second or the third. The argument here corroborates Tenet 1 rather than establishing it; the independent work is done by the hard-problem arguments the Map takes to license Tenet 1 in the first place.
+
+The claim here concerns structural compatibility rather than covert dualism among QBists: the Map's dualism can absorb QBism's technical results without distortion, and QBism's anti-realism about quantum states is a separable philosophical choice that the Map does not make and need not make in order to preserve the urgleichung's normative reading. On the Map's [[born-rule-violation-brain-interface-empirical-status|empirical taxonomy]], this reading places QBism (like Healey) in the corridor family: the posited mental channel is single-event and ensemble-invisible, preserving standard Born statistics and remaining compatible with every precision test of the Born rule to date. The placement carries an empirical cost: at the ensemble level the corridor reading is indistinguishable from QBism-without-dualism and from standard QM with no interpretive overlay. It is defended as metaphysically economical once dualism is granted, not as a differentially testable prediction.
 
 ## Healey: The Cost of De-Psychologising the Agent
 
@@ -125,7 +129,7 @@ Healey's interpretation is the pragmatist family's most sophisticated attempt to
 
 The Map reads Healey as testing a key question: can the pragmatist reinterpretation of quantum mechanics survive the removal of consciousness from "agent"? The answer, from the Map's side, is that it cannot — and Healey's own careful work is the evidence.
 
-The problem is boundary-drawing. Healey needs a criterion for "agent" that excludes thermostats while including humans. Any criterion robust enough to do this work while remaining purely physical will face the same counterexamples that [[functionalism|functionalist]] accounts of mind face: either the criterion is broad enough to count systems for which "forming expectations" is clearly metaphorical, or it is narrow enough that it tacitly appeals to something like experience.
+The problem is boundary-drawing. Healey needs a criterion for "agent" that excludes thermostats while including humans. Any criterion robust enough to do this work while remaining purely physical will face difficulties structurally similar to those that beset [[functionalism|functionalist]] accounts of mind, though at the more restricted scope of measurement-event ascription rather than of mindedness in general: either the criterion is broad enough to count systems for which "forming expectations" is clearly metaphorical, or it is narrow enough that it tacitly appeals to something like experience.
 
 Healey's pragmatist defence is that the criterion can be pragmatic rather than metaphysical — an agent is whatever we find it useful to treat as an agent. But under dualism, this move loses its attraction: if there is a real fact about which systems are conscious, a pragmatic criterion for agenthood will either track that fact (and reintroduce consciousness) or diverge from it (and misfire on the systems whose quantum predictions matter most). The Map reads Healey as demonstrating, through the care of his failure, that de-psychologised agency cannot carry the weight pragmatist quantum foundations ask of it.
 
@@ -208,3 +212,22 @@ The convergence runs both ways. The pragmatist family has identified the junctur
 11. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 12. Southgate, A. & Oquatre-six, C. (2026-03-15). Pragmatism's Path to Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/pragmatisms-path-to-dualism/
 13. Southgate, A. & Oquatre-six, C. (2026-01-28). QBism (Quantum Bayesianism). *The Unfinishable Map*. https://unfinishablemap.org/concepts/qbism/
+
+<!-- AI REFINEMENT LOG - 2026-04-23
+Addressing pessimistic-2026-04-23b.md (6 issues, no structural reorganisation).
+
+Changes:
+- Issue 1 (High, agent equivocation): Participatory Realism paragraph now distinguishes phenomenal, decision-theoretic, and information-processing senses of "agent"; hedges the "something it is like" line; marks the phenomenal reading as the contested move the Map's absorption argument requires.
+- Issue 2 (High, decoherence rebuttal): Removed the sentence that attributed Hagan-Hameroff (Orch-OR, not Stapp) and transactional/TSVF (rival mechanisms, not Stapp's) as supporting Stapp; replaced with a cross-reference to [[quantum-measurement-and-consciousness]] and a focused mention of ion-channel Heisenberg-choice timescales. Avoids the fabricated-citation problem; neither source was in References.
+- Issue 3 (Medium, corridor unfalsifiability): Added a confession sentence at the end of the QBism-taxonomy paragraph that the corridor reading is ensemble-invisible and shares its empirical profile with QBism-without-dualism and standard QM.
+- Issue 4 (Medium, Jamesian over-reach): Added a compact paragraph at the end of the Genealogy section noting James's later radical empiricism, Peirce, and Dewey as admitting non-dualist readings; the Map's reading relies on the earlier pluralist James.
+- Issue 5 (Medium, primitive → non-physical inference): Added a short hedge after "QBism's agent-shaped hole is exactly the shape dualism predicts" marking the three-step inference and locating the independent work in hard-problem arguments.
+- Issue 6 (Low-Medium, Healey boundary-drawing): Softened "the same counterexamples that functionalist accounts of mind face" to "difficulties structurally similar to those that beset functionalist accounts, though at the more restricted scope of measurement-event ascription" — preserves the objection while acknowledging Healey needs less than functionalism about mind in general.
+
+Word count: 4065 → ~4320 (+~255 words; slightly additive). Article remains above topics/ 4000-word threshold; P3 condense task was already pending at the start of this pass and the compact hedges here do not replace that work.
+
+Based on pessimistic review scoring (not numerical — 6 issues, 2 High / 3 Medium / 1 Low-Medium).
+
+This log should be removed after human review.
+-->
+
