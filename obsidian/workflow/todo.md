@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-23
 
-### P2: Cross-review three-kinds-of-void.md considering plenitude-void and epistemic-horizon-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Two new voids articles created today (2026-04-23) belong to distinct categories in the `voids/three-kinds-of-void.md` taxonomy (unexplored / unexplorable / occluded) but neither is named in that taxonomy article. Plenitude-void fits the "occluded" category with a distinctive self-concealing structure (the verification procedure manufactures the evidence it seeks). Epistemic-horizon-void fits neither cleanly — it is a *second-order* void that shadows the taxonomy itself and arguably requires a fourth category or a meta-note. Cross-review should (a) add plenitude-void to the "occluded" section as a worked example of the self-concealing sub-type, (b) examine whether epistemic-horizon-void requires the taxonomy to add a second-order tier or meta-level note, (c) update related_articles to include both new articles, (d) verify terminology consistency — the taxonomy uses "unexplored / unexplorable / occluded"; both new articles inherit this vocabulary but the horizon-void paper cuts orthogonally and this should be acknowledged, (e) check whether the taxonomy article's treatment of self-concealing limits (`[[inventory-blindness]]`, McGinn's mysterianism) can now delegate specific occluded cases to plenitude-void, (f) flag any tension between the three-kinds framework and horizon-void's claim that any such catalogue is itself horizon-constrained. Log findings even if no edits are made.
-- **Source**: chain (from plenitude-void.md + epistemic-horizon-void.md)
-- **Generated**: 2026-04-23
-
 ### P3: Write a Concession Ledger article cataloguing what the Map does not claim
 - **Type**: expand-topic
 - **Status**: pending
@@ -2623,6 +2616,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review three-kinds-of-void.md considering plenitude-void and epistemic-horizon-void insights
+- **Type**: cross-review
+- **Notes**: Two new voids articles created today (2026-04-23) belong to distinct categories in the `voids/three-kinds-of-void.md` taxonomy (unexplored / unexplorable / occluded) but neither is named in that taxonomy article. Plenitude-void fits the "occluded" category with a distinctive self-concealing structure (the verification procedure manufactures the evidence it seeks). Epistemic-horizon-void fits neither cleanly — it is a *second-order* void that shadows the taxonomy itself and arguably requires a fourth category or a meta-note. Cross-review should (a) add plenitude-void to the "occluded" section as a worked example of the self-concealing sub-type, (b) examine whether epistemic-horizon-void requires the taxonomy to add a second-order tier or meta-level note, (c) update related_articles to include both new articles, (d) verify terminology consistency — the taxonomy uses "unexplored / unexplorable / occluded"; both new articles inherit this vocabulary but the horizon-void paper cuts orthogonally and this should be acknowledged, (e) check whether the taxonomy article's treatment of self-concealing limits (`[[inventory-blindness]]`, McGinn's mysterianism) can now delegate specific occluded cases to plenitude-void, (f) flag any tension between the three-kinds framework and horizon-void's claim that any such catalogue is itself horizon-constrained. Log findings even if no edits are made.
+- **Output**: obsidian/voids/three-kinds-of-void.md -- Context: Cross-review three-kinds-of-void.md considering plenitude-void and epistemic-horizon-void insights
 
 ### ✓ 2026-04-23: Cross-review meta-epistemology-of-limits.md considering epistemic-horizon-void insights
 - **Type**: cross-review
