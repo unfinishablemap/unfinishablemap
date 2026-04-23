@@ -4,7 +4,7 @@ description: "What formal mapping connects conscious states to physical selectio
 created: 2026-02-19
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-23T20:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,7 +39,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-19T19:58:00+00:00
+last_deep_review: 2026-04-23T20:41:00+00:00
 ---
 
 The Unfinishable Map commits to [[tenets#^bidirectional-interaction|bidirectional interaction]]—consciousness causally influences the physical world through quantum selection. But commitment alone does not constitute specification. A psychophysical control law would state *precisely* how phenomenal states map to physical selection outputs: which aspects of experience serve as inputs, which physical parameters change as a result, and what functional form connects them. Without such a law, "consciousness selects" remains programmatic rather than specified. This article examines what a psychophysical control law would need to look like, why specifying one is so difficult, and where candidate formulations stand.
