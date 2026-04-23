@@ -4,7 +4,7 @@ description: "The combination problem reveals something fundamental about subjec
 created: 2026-02-15
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-03-25T01:24:00+00:00
+ai_modified: 2026-04-23T19:06:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ concepts:
   - "[[philosophical-zombies]]"
   - "[[explanatory-gap]]"
   - "[[mysterianism]]"
+  - "[[phenomenal-non-compositionality]]"
 related_articles:
   - "[[tenets]]"
   - "[[panpsychism-consciousness-2026-01-08]]"
@@ -29,12 +30,13 @@ related_articles:
   - "[[consciousness-and-the-metaphysics-of-individuation]]"
   - "[[emergence-as-universal-hard-problem]]"
   - "[[parsimony-epistemology]]"
+  - "[[four-quadrant-dualism-taxonomy]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-20T15:13:00+00:00
+last_deep_review: 2026-04-23T19:06:00+00:00
 ---
 
 The combination problem does more than embarrass panpsychism. It reveals something deep about the nature of subjectivity: consciousness resists composition. If billions of micro-experiences cannot intelligibly combine into a unified mind, the problem is not merely that panpsychists lack the right mechanism. The problem is that subjectivity—the having of a perspective, the being of a "someone"—may be the sort of thing that cannot be assembled from parts at all. The Unfinishable Map takes this lesson seriously. Where panpsychism and physicalism both attempt to build consciousness from constituents, the Map treats it as ontologically distinct—something that interacts with matter rather than arising from it.
@@ -109,7 +111,7 @@ This avoids the combination problem as stated (no micro-experiences to combine),
 
 ## What the Problem Reveals
 
-The combination problem's persistence across every proposed solution suggests something philosophically important: subjectivity may be *inherently non-compositional*.
+The combination problem's persistence across every proposed solution suggests something philosophically important: subjectivity may be *inherently non-compositional* (see [[phenomenal-non-compositionality]] for the Map's fuller treatment of this asymmetry between physical and phenomenal composition).
 
 Physical properties compose readily. Two masses combine into a larger mass. Two charges superpose. Two velocities add (relativistic corrections aside). But two perspectives do not combine into a third. Two experiential viewpoints do not merge into a wider viewpoint. This asymmetry between physical composition and phenomenal composition is the combination problem's deepest lesson.
 
@@ -125,7 +127,7 @@ The Map draws exactly this conclusion. The [[tenets#^dualism|Dualism tenet]] hol
 
 The combination problem strengthens the Map's position in several ways.
 
-**Dualism gains by elimination.** Both physicalism and panpsychism attempt to derive consciousness from constituents: non-experiential constituents in one case, experiential in the other. Both face structurally similar explanatory gaps. [[interactionist-dualism|Interactionist dualism]] avoids both gaps by treating consciousness as ontologically distinct. There is nothing to combine because consciousness is not composed.
+**Dualism gains by elimination.** Both physicalism and panpsychism attempt to derive consciousness from constituents: non-experiential constituents in one case, experiential in the other. Both face structurally similar explanatory gaps. [[interactionist-dualism|Interactionist dualism]] avoids both gaps by treating consciousness as ontologically distinct. There is nothing to combine because consciousness is not composed. (The [[four-quadrant-dualism-taxonomy]] locates panpsychism's Russellian variants and the Map on a shared axis, showing that the combination problem is what pulls the Map away from thick-mind panpsychist quadrants even when the monist temptation is strong.)
 
 **The interaction problem is differently structured.** Dualism's classic challenge—how do distinct substances causally interact?—is formidable (see [[history-of-the-interaction-problem]]), but it is at least the sort of problem where empirical discoveries about quantum measurement, neural correlates, and [[stapp-quantum-mind|quantum brain models]] could bear on potential answers. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet proposes that consciousness biases quantum indeterminacies—a hypothesis constrained by physics even if not yet directly tested. The combination problem, by contrast, is conceptual: we cannot formulate what it would mean for micro-experiences to merge, regardless of what experiments reveal.
 
@@ -140,6 +142,8 @@ The Map recognises what panpsychism gets right: consciousness is fundamental, em
 - [[combination-problem]] — Definitional treatment of the problem and its dimensions
 - [[panpsychism]] — The view facing this challenge
 - [[russellian-monism]] — The most developed framework for contemporary panpsychism
+- [[phenomenal-non-compositionality]] — The Map's fuller statement of the asymmetry between physical and phenomenal composition
+- [[four-quadrant-dualism-taxonomy]] — Where panpsychism variants and the Map sit on the mind-weight / physical-weight grid
 - [[quantum-holism-and-phenomenal-unity]] — Why unity cannot be functionally explained
 - [[the-strong-emergence-of-consciousness]] — Emergence and its limits
 - [[idealism]] — An alternative that claims to invert the combination problem
