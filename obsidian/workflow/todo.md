@@ -37,6 +37,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Condense creative-aesthetic-void.md (4316 words, 216% of voids target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 4000-word critical threshold for voids/ by 316 words (216% of 2000-word target). Created 2026-04-23 via coalesce of aesthetic-void and imagination-and-creativity-void, and the merged article retains substantial overlap between the two source treatments. Preserve (a) the unified claim that aesthetic and imaginative phenomenology index the same family of cognitive voids, (b) the distinctions the merge was designed to honour (receptive aesthetic experience vs generative imagination; the void's role as condition vs content), (c) tenet alignment across Dualism, Occam's Razor Has Limits, and the methodological apophatic-cartography framing. Target: ≤3000 words (hard threshold). Defer worked examples and extended phenomenological vignettes to linked articles where parallel treatment already exists. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-23
+
+### P2: Write article on the empirical status of Born-rule-violating consciousness-physics tests at the brain interface
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Fresh research 2026-04-23 (`research/born-rule-violation-brain-interface-empirical-status-2026-04-23.md`) scopes the empirical state of Born-rule testing vs. untested brain-internal regimes and surveys active consciousness-quantum experimental programmes (Kerskens microtubule interferometry, Nirvanic, PEAR/GCP, Orch-OR tests, Keppler resonance programme). The research is distinct from the existing `topics/born-rule-and-the-consciousness-interface.md` (general interface theory) in that it catalogues *which* consciousness-collapse theorists explicitly require Born-violating physics and *which* experiments are currently running or feasible. Article would (a) state which regimes have been tested and which remain untested at the brain interface, (b) map each live experimental programme to the theoretical position it could falsify or support, (c) distinguish Born-rule-violating proposals from Born-rule-preserving consciousness-physics interaction proposals, (d) flag what negative results would and would not foreclose for the Map's MQI commitments. Medium scope (2500-3000 words). Target section: topics/ (231/250, has capacity). Tenet alignment: Minimal Quantum Interaction (core), Bidirectional Interaction, Occam's Razor Has Limits. See research file.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-23
+
+### P2: Cross-review pragmatist-quantum-foundations-and-the-agent.md considering Born-rule violation empirical status
+- **Type**: cross-review
+- **Notes**: Fresh research (`research/born-rule-violation-brain-interface-empirical-status-2026-04-23.md`) classifies which consciousness-collapse theorists require Born-violating physics and which preserve the Born rule — a distinction directly bearing on `topics/pragmatist-quantum-foundations-and-the-agent.md`, which engages QBism, Healey's pragmatism, Brukner-Zeilinger, and Stapp as four pragmatist-family positions. Cross-review should (a) check whether the article's treatment of each tradition aligns with the research's classification of their relationship to Born violation, (b) identify where the article could add a forward reference to the new article once written (or to the research note directly, with a note to update), (c) verify that Stapp's treatment correctly flags his Born-rule-violating commitments as distinct from QBism/Healey's Born-rule-preserving moves, (d) log findings even if no edits are made. Log output should also note any terminology drift between the research note and the article's vocabulary for Born-rule preservation.
+- **Source**: chain (from born-rule-violation-empirical-status research)
+- **Generated**: 2026-04-23
+
 ### P3: Write concept article synthesising the three MQI-sanctioned options
 - **Type**: expand-topic
 - **Status**: pending
