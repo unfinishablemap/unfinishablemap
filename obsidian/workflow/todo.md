@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense born-rule-and-the-consciousness-interface.md (4001 words, at hard threshold for topics/)
-- **Type**: condense
-- **Notes**: Article reached the 4000-word hard threshold for topics/ as of 2026-04-23 (4001 words; 133% of soft threshold). Today's refine-draft additions — strengthening the urgleichung-under-realist-reading argument (per pessimistic-2026-04-23b Counterargument 2) and applying corridor-conditionality / trumping-alternative framing — pushed the article over. The pending cross-review tasks above will likely add further material as the article absorbs links to and discussion of the new born-rule-violation-empirical-status article. Condense should (a) preserve the core urgleichung-as-evidence-for-interface argument and the new realist-reading section, (b) preserve the corridor / minimum-outside-corridor / trumping taxonomy in this article (it is a load-bearing reference for several sister articles), (c) preserve tenet alignment, (d) compress redundancy with the formal `mathematical-structure-of-the-consciousness-physics-interface.md` article where the formal structure is duplicated, (e) defer detailed empirical-programme catalogues to the new `born-rule-violation-brain-interface-empirical-status.md` sister article rather than reproducing them here. Target: ≤3800 words to leave room for downstream growth. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-23
-
 ### P3: Write a Concession Ledger article cataloguing what the Map does not claim
 - **Type**: expand-topic
 - **Status**: pending
@@ -2580,6 +2574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Condense born-rule-and-the-consciousness-interface.md (4001 words, at hard threshold for topics/)
+- **Type**: condense
+- **Notes**: Article reached the 4000-word hard threshold for topics/ as of 2026-04-23 (4001 words; 133% of soft threshold). Today's refine-draft additions — strengthening the urgleichung-under-realist-reading argument (per pessimistic-2026-04-23b Counterargument 2) and applying corridor-conditionality / trumping-alternative framing — pushed the article over. The pending cross-review tasks above will likely add further material as the article absorbs links to and discussion of the new born-rule-violation-empirical-status article. Condense should (a) preserve the core urgleichung-as-evidence-for-interface argument and the new realist-reading section, (b) preserve the corridor / minimum-outside-corridor / trumping taxonomy in this article (it is a load-bearing reference for several sister articles), (c) preserve tenet alignment, (d) compress redundancy with the formal `mathematical-structure-of-the-consciousness-physics-interface.md` article where the formal structure is duplicated, (e) defer detailed empirical-programme catalogues to the new `born-rule-violation-brain-interface-empirical-status.md` sister article rather than reproducing them here. Target: ≤3800 words to leave room for downstream growth. See /condense skill.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
 
 ### ✓ 2026-04-23: Cross-review pragmatist-quantum-foundations-and-the-agent.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review

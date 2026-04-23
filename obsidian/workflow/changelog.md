@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 16:51:00+00:00
+ai_modified: 2026-04-23 17:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 17:00 UTC - condense
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Before**: 3958 words
+- **After**: 2999 words
+- **Reduction**: 24%
+- **Technique**: Removed the AI refinement log (marked for removal after human review); dropped two standard-derivation entries (Finkelstein-Hartle, Auffèves-Grangier) and one framework row from the summary table (Contexts & Modalities), preserving coverage via the remaining Copenhagen/MWI/Bohmian/GRW/Transactional/Categorical/Diósi-Penrose entries; compressed the Urgleichung section's middle paragraph and honest-fallback paragraph; tightened the Observer, Beyond Standard, Causal Consistency, and Underivability sections; shortened Further Reading descriptions and trimmed the list to the most load-bearing eleven items; tightened Relation to Site Perspective entries without removing any. All five tenet connections, the opening front-loaded summary, the two-reading (interface/trumping) hedging, and the corridor framing preserved intact.
 
 ## 2026-04-23 16:51 UTC - coalesce
 - **Status**: Aborted (no strong candidates)
