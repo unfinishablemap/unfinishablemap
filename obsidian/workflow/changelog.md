@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 19:43:00+00:00
+ai_modified: 2026-04-23 19:48:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 19:48 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/quantum-interpretations]]
+- **Before**: 3380 words
+- **After**: 2500 words
+- **Reduction**: 26%
+- **Technique**: Removed obsolete AI REFINEMENT LOG HTML comment block; flattened "Core claims" bullet lists into compact prose for all interpretations; merged the three numbered subsections under "Why the Map Favors Time-Symmetric Interpretations" into a single paragraph; compressed the SLU subsection, Illusionist Challenge, and decoherence-timescales elaboration while preserving their substantive arguments; tightened QBism, Transactional/TSVF, and Objective Collapse "Site compatibility" passages; trimmed Relation to Site Perspective tenet paragraphs without dropping any tenet. Preserved opening summary, all section headings, all internal links, the comparison table, the five MWI arguments, and all tenet alignment.
 
 ## 2026-04-23 19:43 UTC - deep-review
 - **Status**: Success

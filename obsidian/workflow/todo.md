@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense concepts/quantum-interpretations.md (3605 words, 144% of soft target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 2500-word soft threshold and crosses the 3500-word hard threshold for `concepts/`. This concept page surveys the interpretations landscape — a reference-style function that tends to accumulate. Candidates for compression: interpretations that have dedicated articles elsewhere (MWI, Bohmian, QBism, collapse theories) can have their body text trimmed to locator-paragraphs that defer detail to the dedicated pages. Preserve the Map-relevant comparative framing (which interpretations are compatible with MQI, which foreclose it). Aim for ~2500-2800 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-23
-
 ### P2: Condense topics/consciousness-interface-development.md (4008 words, 133% of soft target)
 - **Type**: condense
 - **Status**: pending
@@ -2630,6 +2623,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Condense concepts/quantum-interpretations.md (3605 words, 144% of soft target)
+- **Type**: condense
+- **Notes**: Article exceeds the 2500-word soft threshold and crosses the 3500-word hard threshold for `concepts/`. This concept page surveys the interpretations landscape — a reference-style function that tends to accumulate. Candidates for compression: interpretations that have dedicated articles elsewhere (MWI, Bohmian, QBism, collapse theories) can have their body text trimmed to locator-paragraphs that defer detail to the dedicated pages. Preserve the Map-relevant comparative framing (which interpretations are compatible with MQI, which foreclose it). Aim for ~2500-2800 words. See `/condense` skill.
+- **Output**: obsidian/concepts/quantum-interpretations.md
 
 ### ✓ 2026-04-23: Condense concepts/parsimony-epistemology.md (3662 words, 146% of soft target)
 - **Type**: condense
