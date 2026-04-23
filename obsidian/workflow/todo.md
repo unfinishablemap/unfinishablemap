@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense concepts/parsimony-epistemology.md (3662 words, 146% of soft target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 2500-word soft threshold and crosses the 3500-word hard threshold for `concepts/`. Parsimony-epistemology is a load-bearing concept page — the Map's Tenet 5 (Occam's Razor Has Limits) depends on it, and several recent articles (phenomenological-method-and-evidence-standards 2026-04-18, four-quadrant-dualism-taxonomy 2026-04-21, consciousness-and-probability-interpretation) cite it extensively. Condense carefully: preserve the Idealism Parity Trilemma and the distinction between token-counting parsimony and felt-sufficiency parsimony; defer worked illustrations to linked articles where they already exist. Aim for ~2500-2800 words. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-23
+
+### P2: Condense concepts/quantum-interpretations.md (3605 words, 144% of soft target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 2500-word soft threshold and crosses the 3500-word hard threshold for `concepts/`. This concept page surveys the interpretations landscape — a reference-style function that tends to accumulate. Candidates for compression: interpretations that have dedicated articles elsewhere (MWI, Bohmian, QBism, collapse theories) can have their body text trimmed to locator-paragraphs that defer detail to the dedicated pages. Preserve the Map-relevant comparative framing (which interpretations are compatible with MQI, which foreclose it). Aim for ~2500-2800 words. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-23
+
+### P2: Condense topics/consciousness-interface-development.md (4008 words, 133% of soft target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3000-word soft threshold and crosses the 4000-word hard threshold for `topics/`. This article on developmental trajectories of the consciousness-brain interface overlaps with `topics/consciousness-brain-interface-across-development.md` and with `voids/infant-consciousness.md`; redundancy is the most likely source of bloat. Condense: collapse duplicated developmental-psychology summaries, defer infant-specific material to the void article, keep the interface-specification content that makes this the topic-level treatment. Aim for ~3000-3500 words. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-23
+
+### P2: Cross-review voids/recognition-void.md considering noetic-feelings-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `voids/noetic-feelings-void.md` (created 2026-04-23) lists `[[recognition-void]]` among its related articles and argues that feelings of familiarity, knowing, and rightness are *felt signals that gate cognition from the inside* whose machinery remains recursively opaque. Recognition-void has direct overlap (the phenomenology of recognition is one canonical noetic feeling) but currently has no reference to the new piece. Cross-review should (a) add a forward link where recognition-void discusses the felt-character of recognition, (b) check whether recognition-void can now delegate the general noetic-feelings framework to the new article and concentrate on recognition-specific architecture, (c) verify terminology alignment (noetic-feelings-void uses "felt signals," "calibration pathology," "generation fluency"; recognition-void should align where it touches these), (d) flag any claims in recognition-void that the noetic-feelings-void's Thompson-fluency material would sharpen or narrow, (e) identify reciprocal links the new piece might add back to recognition-void's specific empirical material. Log findings even if no edits made.
+- **Source**: chain (from noetic-feelings-void.md)
+- **Generated**: 2026-04-23
+
+### P2: Cross-review voids/understanding-void.md considering noetic-feelings-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `voids/noetic-feelings-void.md` (created 2026-04-23) lists `[[understanding-void]]` as the first of its related voids and treats feeling-of-understanding (FOU) as a noetic feeling manipulable independently of reasoning itself — precisely the material that bears on understanding-void's claims about the introspective inaccessibility of comprehension. Cross-review should (a) add inbound links from understanding-void to noetic-feelings-void where the fluency-FOU material is relevant, (b) check whether understanding-void's treatment of the felt arc of understanding can now cite Thompson (2009) and the generation-fluency literature catalogued in the new piece, (c) verify terminology consistency (the two articles must not diverge on whether "understanding" names the reasoning, the felt signal, or the metacognitive attribution), (d) check whether any passages in understanding-void overclaim what the noetic-feelings framing shows to be structurally fluency-driven, (e) identify where a reciprocal locator in the new piece would point readers back to understanding-void's specific architecture. Log findings even if no edits made.
+- **Source**: chain (from noetic-feelings-void.md)
+- **Generated**: 2026-04-23
+
+### P2: Cross-review voids/thought-stream-void.md considering distraction-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `voids/distraction-void.md` (created 2026-04-23) lists `[[thought-stream-void]]` among its related articles and develops a transit-reconstructive model of attentional capture (preattentive ERP components MMN ~200ms, P3a ~250-300ms fire without conscious access; noticing-one-has-been-captured is reconstruction, not witness). Thought-stream-void treats the broader opacity of spontaneous thought-succession and is the natural parent of the distraction case. The reciprocal link does not yet exist. Cross-review should (a) add a forward link in thought-stream-void where spontaneous-thought transitions are discussed, flagging distraction as the best-documented empirical sub-case, (b) check whether thought-stream-void's general transit claim can now delegate the ERP-timing evidence to distraction-void rather than carrying it, (c) verify terminology alignment (distraction-void's "transit / capture / meta-awareness gap" vocabulary should be consistent with thought-stream-void's phrasing), (d) identify whether thought-stream-void's treatment of the onset-of-thought problem is sharpened by distraction-void's retrospective-reconstruction framing, (e) flag any tension between the two articles' treatments of what consciousness can and cannot witness during transitions. Log findings even if no edits made.
+- **Source**: chain (from distraction-void.md)
+- **Generated**: 2026-04-23
+
 ### P3: Write a Concession Ledger article cataloguing what the Map does not claim
 - **Type**: expand-topic
 - **Status**: pending
