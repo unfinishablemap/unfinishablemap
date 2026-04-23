@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Address pessimistic review findings in concepts/trumping-preemption.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-22 found 4 issues in the newly-created concepts/trumping-preemption.md (2026-04-22). (1) Medium — Fiction-to-nature gap never bridged: add a paragraph at §"Applying the Template" explicitly flagging the disanalogy between stipulated-law cases (magic, rank) and natural-law cases, and noting that the argument for psychophysical authority laws must come from the tenets / hard problem / explanatory gap, not from Schaffer's structure itself. (2) Low — Counterfactual-dependence characterisation in §"Schaffer's Cases" is loose: tighten to "Counterfactual necessity fails for both candidates … yet the asymmetry in our causal judgement survives." (3) Medium — Defensive middle / confident ending mismatch: either soften final paragraph to "a genuine addition the Map's commitments require" or tie closing confidence to non-trumping evidence (hard problem, other tenets). (4) Low — Saad's "observable closure preserved" reported as settled: add hedge noting Crane-style challenges to the observable/unobservable distinction. Also address four unsupported claims table (the "first worked-out model" overstatement, "about as small as a real cause can be" metric, "the evidence warrants" claim) and four language improvements. See reviews/pessimistic-2026-04-22.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-23
-
 ### P2: Write concept article on Petitmengin's microphenomenological interview method
 - **Type**: expand-topic
 - **Status**: pending
@@ -2565,6 +2558,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Address pessimistic review findings in concepts/trumping-preemption.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-22 found 4 issues in the newly-created concepts/trumping-preemption.md (2026-04-22). (1) Medium — Fiction-to-nature gap never bridged: add a paragraph at §"Applying the Template" explicitly flagging the disanalogy between stipulated-law cases (magic, rank) and natural-law cases, and noting that the argument for psychophysical authority laws must come from the tenets / hard problem / explanatory gap, not from Schaffer's structure itself. (2) Low — Counterfactual-dependence characterisation in §"Schaffer's Cases" is loose: tighten to "Counterfactual necessity fails for both candidates … yet the asymmetry in our causal judgement survives." (3) Medium — Defensive middle / confident ending mismatch: either soften final paragraph to "a genuine addition the Map's commitments require" or tie closing confidence to non-trumping evidence (hard problem, other tenets). (4) Low — Saad's "observable closure preserved" reported as settled: add hedge noting Crane-style challenges to the observable/unobservable distinction. Also address four unsupported claims table (the "first worked-out model" overstatement, "about as small as a real cause can be" metric, "the evidence warrants" claim) and four language improvements. See reviews/pessimistic-2026-04-22.md.
+- **Output**: obsidian/concepts/trumping-preemption.md
+
+Task context:
+Pessimistic review 2026-04-22 found 4 issues in the newly-created concepts/trumping-preemption.md (2026-04-22). (1) Medium — Fiction-to-nature gap never bridged: add a paragraph at §"Applying the Template" explicitly flagging the disanalogy between stipulated-law cases (magic, rank) and natural-law cases, and noting that the argument for psychophysical authority laws must come from the tenets / hard problem / explanatory gap, not from Schaffer's structure itself. (2) Low — Counterfactual-dependence characterisation in §"Schaffer's Cases" is loose: tighten to "Counterfactual necessity fails for both candidates … yet the asymmetry in our causal judgement survives." (3) Medium — Defensive middle / confident ending mismatch: either soften final paragraph to "a genuine addition the Map's commitments require" or tie closing confidence to non-trumping evidence (hard problem, other tenets). (4) Low — Saad's "observable closure preserved" reported as settled: add hedge noting Crane-style challenges to the observable/unobservable distinction. Also address four unsupported claims table (the "first worked-out model" overstatement, "about as small as a real cause can be" metric, "the evidence warrants" claim) and four language improvements. See reviews/pessimistic-2026-04-22.md.
 
 ### ✓ 2026-04-23: Deep-review voids/expertise-and-its-occlusion.md as post-coalesce integration check
 - **Type**: deep-review
