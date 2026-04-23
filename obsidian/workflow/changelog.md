@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 16:41:00+00:00
+ai_modified: 2026-04-23 16:46:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 16:46 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
+- **Context**: Second cross-review against [[topics/born-rule-violation-brain-interface-empirical-status]] after intervening condense (4534→3292 words) and MWI-softening refine
+- **Word count**: 3292 → 3298 (+6)
+- **Critical issues addressed**: 0 (article stable after three prior reviews; all taxonomy cross-references preserved through condense; no attribution errors)
+- **Medium issues addressed**: 1 (Stapp-variant precision: "placing Stapp" → "placing Stapp's Zeno variant", with corridor clause now explicitly including Zeno-free readings of Stapp, mirroring the taxonomy article's exact language)
+- **Enhancements made**: 1 (single precision edit noted above)
+- **Taxonomy alignment verified**: Stapp-Zeno in outside-corridor; QBism, Healey, Zeno-free Stapp in corridor; Brukner-Zeilinger intentionally unclassified
+- **Output**: [[reviews/deep-review-2026-04-23-pragmatist-quantum-foundations-and-the-agent-v2]]
 
 ## 2026-04-23 16:41 UTC - deep-review
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at 
 created: 2026-04-04
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T16:07:00+00:00
+ai_modified: 2026-04-23T16:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-19
 last_curated:
-last_deep_review: 2026-04-23T14:40:00+00:00
+last_deep_review: 2026-04-23T16:46:00+00:00
 coalesced_from:
   - "/topics/pragmatism-and-qbism/"
   - "/topics/pragmatist-quantum-foundations-under-dualism/"
@@ -89,7 +89,7 @@ Dualism (Tenet 1) combined with Tenets 2 and 3 — consciousness biases quantum 
 
 Stapp's Copenhagen pragmatism grants everything the Map needs. The mathematical apparatus describes something real; the choice of measurement is not reducible to Schrödinger evolution; conscious attention holds neural patterns in place via repeated "Heisenberg choices" that exploit the quantum Zeno effect. Stapp extends Bohr's dictum that the observer cannot be eliminated from the description into an explicit mind-matter coupling. Stapp's framework is what pragmatism looks like when its central notion — the agent — is allowed to be a conscious subject with causal efficacy rather than a primitive placeholder; dualism provides the ontological backing his physics already presupposes.
 
-The cost is that Stapp's view is the most physically committed, and therefore the most empirically exposed. Decoherence objections to neural coherence bite on Stapp in ways they do not bite on QBism (which has nothing at the quantum level to decohere). And the Zeno mechanism is explicitly Born-rule-bending — observation rate modulates selection away from non-conscious-measurement outcomes — placing Stapp in the minimum-outside-the-corridor category of the [[born-rule-violation-brain-interface-empirical-status|empirical taxonomy]], where QBism and Healey sit in the Born-preserving corridor. The Map's response to the decoherence objection turns on the specifics of Stapp's ion-channel Heisenberg-choice mechanism rather than on generic neural coherence; see [[quantum-measurement-and-consciousness]].
+The cost is that Stapp's view is the most physically committed, and therefore the most empirically exposed. Decoherence objections to neural coherence bite on Stapp in ways they do not bite on QBism (which has nothing at the quantum level to decohere). And the Zeno mechanism is explicitly Born-rule-bending — observation rate modulates selection away from non-conscious-measurement outcomes — placing Stapp's Zeno variant in the minimum-outside-the-corridor category of the [[born-rule-violation-brain-interface-empirical-status|empirical taxonomy]], where QBism, Healey, and Zeno-free readings of Stapp sit in the Born-preserving corridor. The Map's response to the decoherence objection turns on the specifics of Stapp's ion-channel Heisenberg-choice mechanism rather than on generic neural coherence; see [[quantum-measurement-and-consciousness]].
 
 ## QBism: The Primitive Agent as Dualist Placeholder
 
