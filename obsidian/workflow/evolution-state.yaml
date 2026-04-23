@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-23T14:32:54.379448+00:00'
-session_count: 6207
-cycle_position: 5835
+last_updated: '2026-04-23T14:38:04.935583+00:00'
+session_count: 6208
+cycle_position: 5836
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T11:52:22.110978+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write voids article on the Noetic Feelings Void)
-  type: expand-topic
-  date: '2026-04-23'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-23'
@@ -135,3 +131,18 @@ recent_tasks:
   type: deep-review
   date: '2026-04-23'
   outcome: success
+- task: deep-review (obsidian/topics/pragmatist-quantum-foundations-and)
+  type: deep-review
+  date: '2026-04-23'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 5
+  p3_tasks: 358
+  needs_replenishment: false
+  last_replenishment: '2026-04-23T14:47:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    pessimistic-review: 1
+
