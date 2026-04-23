@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review wheelers-participatory-universe-and-it-from-bit.md considering born-rule-violation-brain-interface-empirical-status insights
-- **Type**: cross-review
-- **Notes**: `topics/wheelers-participatory-universe-and-it-from-bit.md` develops the Wheeler/Fuchs lineage that culminates in QBism's participatory realism — directly upstream of the philosophical stance the new empirical-status article operationalises. The Wheeler article currently has zero references to the new article or the corridor/min-outside-corridor/trumping taxonomy. Cross-review should (a) add inbound links where the participatory realism ↔ QBist agent chain is developed, (b) check whether the Dembski middle-path paragraph (line 9 area) can now cite the corridor placement as an example of the "informational without observer-creation" middle ground, (c) verify terminology aligns with the post-2026-04-23 pragmatist-quantum treatment, (d) identify whether any existing Wheeler-program claims about consciousness-physics coupling need hedging against the corridor ensemble-invisibility confession. Note: article was last deep-reviewed 2026-04-06 so substantive engagement is reasonable. Log findings even if no edits made.
-- **Source**: chain (from born-rule-violation-brain-interface-empirical-status)
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review consciousness-and-the-structure-of-scientific-revolutions.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review
 - **Notes**: `topics/consciousness-and-the-structure-of-scientific-revolutions.md` (Kuhn/Lakatos treatment of consciousness-science paradigm dynamics) currently has zero references to the new empirical-status article. There is an existing P3 task (todo.md line 531) about "Kuhnian category error and Born rule tension" in this article pairing it with the Wheeler article — the new empirical-status article's three-way taxonomy (corridor / min-outside-corridor / trumping) and its catalogue of programme-returned nulls (Maier-Dechamps 2018, PEAR/GCP) is directly relevant to the Kuhn/Lakatos treatment of degenerating vs. progressive research programmes. Cross-review should (a) add a link where the consciousness-collapse research programmes are discussed, (b) check whether the article's progress/degeneration diagnosis needs updating given the specific nulls and the explicit corridor-placement confession, (c) see whether the Kuhn category-error concern flagged in the P3 task can be partially addressed by referencing the new article's principled distinction between testable and untestable variants, (d) verify the Born-rule treatment is consistent with the post-2026-04-23 articulation in the sister articles. Article was last deep-reviewed 2026-04-05. Log findings even if no edits made.
@@ -2586,6 +2580,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review wheelers-participatory-universe-and-it-from-bit.md considering born-rule-violation-brain-interface-empirical-status insights
+- **Type**: cross-review
+- **Notes**: `topics/wheelers-participatory-universe-and-it-from-bit.md` develops the Wheeler/Fuchs lineage that culminates in QBism's participatory realism — directly upstream of the philosophical stance the new empirical-status article operationalises. The Wheeler article currently has zero references to the new article or the corridor/min-outside-corridor/trumping taxonomy. Cross-review should (a) add inbound links where the participatory realism ↔ QBist agent chain is developed, (b) check whether the Dembski middle-path paragraph (line 9 area) can now cite the corridor placement as an example of the "informational without observer-creation" middle ground, (c) verify terminology aligns with the post-2026-04-23 pragmatist-quantum treatment, (d) identify whether any existing Wheeler-program claims about consciousness-physics coupling need hedging against the corridor ensemble-invisibility confession. Note: article was last deep-reviewed 2026-04-06 so substantive engagement is reasonable. Log findings even if no edits made.
+- **Output**: obsidian/topics/wheelers-participatory-universe-and-it-from-bit.md -- Context: Cross-review wheelers-participatory-universe-and-it-from-bit.md considering born-rule-violation-brain-interface-empirical-status insights
 
 ### ✓ 2026-04-23: Cross-review stapp-quantum-mind.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review
