@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/psychophysical-laws.md considering born-rule-violation-brain-interface-empirical-status insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) is explicitly linked from the psychophysical-laws.md frontmatter via `concepts[]` relationship, but psychophysical-laws.md itself does not yet reference the empirical-status article or the corridor / minimum-outside-corridor / trumping three-way taxonomy. psychophysical-laws is the foundational concept page that the empirical-status article operationalises — today's cross-reviews of `concepts/stapp-quantum-mind.md`, `topics/mathematical-structure-of-the-consciousness-physics-interface.md`, `topics/pragmatist-quantum-foundations-and-the-agent.md`, and the Kuhn/Wheeler topic pairings have propagated the taxonomy outward, but the concept-layer anchor has not yet absorbed it. Cross-review should (a) add inbound links where psychophysical-law candidates are discussed, (b) ensure the corridor / min-outside-corridor / trumping taxonomy is consistent with the concept article's treatment of psychophysical law-types, (c) check whether the concept article's survey of candidate laws needs updating to distinguish ensemble-invisible (corridor) from statistically-detectable (min-outside-corridor) from trumping variants, (d) verify that empirical programmes catalogued in the new article (Kerskens MEG, microtubule vibrational protocols, Maier-Dechamps 2018 null, PEAR/GCP nulls) can be referenced as concrete instantiations of the law-types the concept article describes. Log findings even if no edits made.
-- **Source**: chain
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review topics/quantum-measurement-and-consciousness.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2595,6 +2588,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review concepts/psychophysical-laws.md considering born-rule-violation-brain-interface-empirical-status insights
+- **Type**: cross-review
+- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) is explicitly linked from the psychophysical-laws.md frontmatter via `concepts[]` relationship, but psychophysical-laws.md itself does not yet reference the empirical-status article or the corridor / minimum-outside-corridor / trumping three-way taxonomy. psychophysical-laws is the foundational concept page that the empirical-status article operationalises — today's cross-reviews of `concepts/stapp-quantum-mind.md`, `topics/mathematical-structure-of-the-consciousness-physics-interface.md`, `topics/pragmatist-quantum-foundations-and-the-agent.md`, and the Kuhn/Wheeler topic pairings have propagated the taxonomy outward, but the concept-layer anchor has not yet absorbed it. Cross-review should (a) add inbound links where psychophysical-law candidates are discussed, (b) ensure the corridor / min-outside-corridor / trumping taxonomy is consistent with the concept article's treatment of psychophysical law-types, (c) check whether the concept article's survey of candidate laws needs updating to distinguish ensemble-invisible (corridor) from statistically-detectable (min-outside-corridor) from trumping variants, (d) verify that empirical programmes catalogued in the new article (Kerskens MEG, microtubule vibrational protocols, Maier-Dechamps 2018 null, PEAR/GCP nulls) can be referenced as concrete instantiations of the law-types the concept article describes. Log findings even if no edits made.
+- **Output**: obsidian/concepts/psychophysical-laws.md -- Context: Cross-review concepts/psychophysical-laws.md considering born-rule-violation-brain-interface-empirical-status insights
 
 ### ✓ 2026-04-23: Address gaps in voids/distraction-void.md
 - **Type**: refine-draft
