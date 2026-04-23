@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/introspection.md considering noetic-feelings-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article `voids/noetic-feelings-void.md` (2026-04-23, 2346 words) develops the Lima problem (Synthese 2021) as a formally-stated recursion constraint on introspection: epistemic feelings inform us about content we cannot independently access, so we have no way to cross-check their accuracy except through more feelings. concepts/introspection.md should (a) engage the Lima problem directly as a constraint on how much argumentative weight introspective reports can bear, (b) add inbound links to noetic-feelings-void where feelings-of-knowing, transparency-of-noetic-feelings, and the fluency/FOR family are discussed, (c) distinguish introspection of content (what is the experience) from introspection of epistemic state (do I know this), (d) verify alignment with the noetic void's "treacherous transparency" framing — the mode of presentation hides the affective-heuristic character — and adjust introspection.md's scepticism to reflect this specific structural claim. Optimistic-2026-04-23-midday flagged this as Medium Priority expansion. Log findings even if no edits are made.
-- **Source**: chain (from noetic-feelings-void.md)
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review concepts/consciousness-and-creativity.md considering noetic-feelings-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2580,6 +2573,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review concepts/introspection.md considering noetic-feelings-void insights
+- **Type**: cross-review
+- **Notes**: New voids article `voids/noetic-feelings-void.md` (2026-04-23, 2346 words) develops the Lima problem (Synthese 2021) as a formally-stated recursion constraint on introspection: epistemic feelings inform us about content we cannot independently access, so we have no way to cross-check their accuracy except through more feelings. concepts/introspection.md should (a) engage the Lima problem directly as a constraint on how much argumentative weight introspective reports can bear, (b) add inbound links to noetic-feelings-void where feelings-of-knowing, transparency-of-noetic-feelings, and the fluency/FOR family are discussed, (c) distinguish introspection of content (what is the experience) from introspection of epistemic state (do I know this), (d) verify alignment with the noetic void's "treacherous transparency" framing — the mode of presentation hides the affective-heuristic character — and adjust introspection.md's scepticism to reflect this specific structural claim. Optimistic-2026-04-23-midday flagged this as Medium Priority expansion. Log findings even if no edits are made.
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review concepts/introspection.md considering noetic-feelings-void insights
 
 ### ✓ 2026-04-23: Address pessimistic-2026-04-23 findings in four-quadrant-dualism-taxonomy.md
 - **Type**: refine-draft

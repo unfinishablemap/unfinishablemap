@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-23T13:13:06.452145+00:00'
-session_count: 6196
-cycle_position: 5824
+last_updated: '2026-04-23T13:18:19.467044+00:00'
+session_count: 6197
+cycle_position: 5825
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T11:52:22.110978+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-04-23T13:04:21.882193+00:00'
   tune-system: '2026-04-21T12:37:19.929220+00:00'
   research-voids: '2026-04-23T11:06:44.505328+00:00'
-  coalesce: '2026-04-23T10:37:19.955360+00:00'
+  coalesce: '2026-04-23T13:18:19.467044+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
   agentic-social: '2026-04-23T13:13:06.452145+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/psychophysical-laws.md -- Contex)
-  type: deep-review
-  date: '2026-04-23'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-23'
@@ -136,5 +132,9 @@ recent_tasks:
 
     )'
   type: refine-draft
+  date: '2026-04-23'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-04-23'
   outcome: success
