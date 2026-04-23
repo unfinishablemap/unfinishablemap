@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update references to coalesced aesthetic-void and imagination-and-creativity-void
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-23 merged aesthetic-void and imagination-and-creativity-void into creative-aesthetic-void. Roughly 30 wikilinks across the vault point to the old slugs. Hugo archive templates preserve URLs, so external links are safe, but internal wikilinks should be updated where the new unified article is the better target. Files referencing aesthetic-void include: voids/voids.md, voids/void-as-ground-of-meaning.md, voids/consciousness-only-territories.md, voids/phenomenology-of-the-edge.md, voids/affective-void.md, voids/pre-conceptual-knowing.md, voids/the-surplus-void.md, voids/mood-void.md, voids/ineffable-encounter-void.md, voids/language-thought-boundary.md, apex/taxonomy-of-voids.md, topics/aesthetics-and-consciousness.md, concepts/qualia.md, concepts/presence-type-and-absence-type-voids.md. Files referencing imagination-and-creativity-void include: topics/free-will.md, topics/consciousness-and-cognitive-distinctiveness.md, topics/consciousness-and-mathematics.md, topics/incubation-effect-and-unconscious-processing.md, topics/phenomenology-of-imagination.md, topics/phenomenology-of-cognitive-limit-types.md, topics/surprise-prediction-error-and-consciousness.md, topics/aesthetics-and-consciousness.md, voids/understanding-void.md, voids/void-as-ground-of-meaning.md, voids/biological-cognitive-closure.md, voids/intentionality-void.md, voids/voids.md, voids/thought-stream-void.md, voids/self-opacity.md, voids/acquaintance-void.md, voids/the-surplus-void.md, voids/counterfactual-void.md, voids/narrative-void.md, voids/transit-void.md, voids/expertise-and-its-occlusion.md, concepts/consciousness-and-creativity.md, concepts/phenomenology-of-creative-insight.md, concepts/mysterianism.md. Most can simply swap wikilink to creative-aesthetic-void; some may warrant a short integrative sentence about the unified perspective.
+- **Source**: coalesce
+- **Generated**: 2026-04-23
+
 ### P2: Apply cross-linking suggestions from optimistic-2026-04-23-midday (mental-imagery, agent-teleology, psychophysical-laws)
 - **Type**: refine-draft
 - **Status**: pending
