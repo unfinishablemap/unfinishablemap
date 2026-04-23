@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T15:51:00+00:00
+ai_modified: 2026-04-23T16:35:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -45,7 +45,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-04-18T04:33:00+00:00
+last_deep_review: 2026-04-23T16:35:00+00:00
 coalesced_from:
   - "/topics/born-rule-derivation-failures-consciousness-collapse/"
   - "/topics/born-rule-interpretation-invariance-consciousness/"
@@ -130,7 +130,7 @@ where d is the Hilbert-space dimension, {H_i} are SIC outcomes, and {D_j} outcom
 
 **Why this shape evidences the interface reading.** Two features resist a purely mathematical-realist redescription. First, the deformation is *irreducibly counterfactual*: it relates probabilities for a measurement that is not performed (the reference SIC) to probabilities for one that is, making the unperformed measurement function as the informational ground against which actual outcomes are specified — the structural signature of a gap being crossed rather than a distribution being updated. Second, the (d+1)/−1/d numerical form falls out of SIC geometry, but the realist explains this only by deferral: Hilbert space has this geometry because it has this geometry. The interface reading offers an independent motivation — the deformation measures the non-classicality of outcome actualisation at the point where consciousness encounters d-dimensional indeterminacy, with (d+1) playing a coupling-like role rather than sitting as an unexplained dimensional residue. Combined with Kochen-Specker contextuality — which shows that no classical joint distribution over measurement contexts exists — the urgleichung supplies the *positive* relation that replaces classical total probability, and the shape of that replacement is what the interface reading predicts.
 
-**The honest fallback.** The argument depends on reading the deformation as carrying a specific *meaning* rather than only a specific *form*. A determined Hilbert-space primitivist can accept the theorem, refuse the meaning, and rest on the geometry. If that stance is coherent — and it may be — the Map's absorption of the urgleichung is heuristic rather than derivational: QBism has built an object whose formal shape the Map reads as tracking interface structure, and that reading is not forced by the formalism alone. The pragmatist-quantum article's "right mathematical object for the wrong metaphysical reason" line accordingly overreaches; the more defensible claim is that the urgleichung's formal shape is consistent with and suggestive of the interface reading the Map defends on independent grounds (the interpretation-invariant pattern above), not that QBism has built the Map's object and misunderstood it.
+**The honest fallback.** The argument depends on reading the deformation as carrying a specific *meaning* rather than only a specific *form*. A determined Hilbert-space primitivist can accept the theorem, refuse the meaning, and rest on the geometry — in which case the Map's absorption of the urgleichung is heuristic rather than derivational: the urgleichung's formal shape is consistent with and suggestive of the interface reading the Map defends on independent grounds (the interpretation-invariant pattern above), not forced by the formalism alone. The pragmatist-quantum article's "right mathematical object for the wrong metaphysical reason" line accordingly overreaches.
 
 ## The Causal Consistency Constraint
 
