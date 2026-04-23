@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 15:51:00+00:00
+ai_modified: 2026-04-23 15:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 15:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
+- **Word count**: ~4410 → ~4580 (+~170)
+- **Notes**: Third pass addressing pessimistic-2026-04-23b Counterargument #3 and Deutsch critique. Reworded § *Convergences and Divergences* first bullet (formerly "Rejection of Many-Worlds") and § *Relation to Site Perspective / No Many Worlds* per reviewer's suggested response — "the family converges on the non-reality of branches, though for heterogeneous reasons the Map does not uniformly share." QBism's rejection is now marked as flowing from an anti-realism the Map declines; Stapp's as adding collapse dynamics; Healey and Brukner-Zeilinger as indifferent rather than opposed. The indexical objection now engages Wallace (2012) and Saunders (2010) directly: their MWI treatments handle self-location as an ordinary indexical, and the Map's specific quarrel is that location-in-the-multiverse cannot carry haecceity — an argument made in [[indexical-identity-quantum-measurement]] rather than won by asserting "meaningfulness." Added Saunders (2010) and Wallace (2012) to References (items 12–13; renumbered remaining entries to 14–15). Scope honoured: ~170 words within the task's 100–200-word target.
+- **Published**: yes
 
 ## 2026-04-23 15:51 UTC - refine-draft
 - **Status**: Success

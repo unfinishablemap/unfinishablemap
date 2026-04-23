@@ -4,7 +4,7 @@ description: "QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at 
 created: 2026-04-04
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T15:51:00+00:00
+ai_modified: 2026-04-23T15:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -147,7 +147,7 @@ The cost of this neutrality is symmetric with Healey's: the informational framin
 
 Despite deep tensions at points, the pragmatist family and the Map share significant structural commitments.
 
-**Rejection of Many-Worlds.** All four positions hold that there is one world in which agents have definite experiences, not a branching multiverse of equally real outcomes. QBism's rejection is grounded in its anti-realism about quantum states — if there is no objective wave function, there is nothing to branch. Stapp rejects MWI because a single outcome is actualised. Healey and Brukner-Zeilinger refuse MWI's realist commitments. The Map's rejection (Tenet 4) is grounded in the meaningfulness of [[haecceity|indexical identity]]. The conclusions align even where the reasoning differs.
+**Non-reality of branches.** The family converges on the non-reality of branches, though for heterogeneous reasons the Map does not uniformly share. QBism's rejection flows from anti-realism about quantum states — an anti-realism the Map declines. Stapp rejects MWI by adding a single-outcome collapse dynamics. Healey and Brukner-Zeilinger are closer to indifferent than opposed: their informational framings neither require nor preclude branching, and read charitably they are compatible with Everettian formalism minus its many-worlds ontology. The Map's own rejection (Tenet 4) rests on [[haecceity|indexical identity]], and that line needs its own defence. Wallace (2012) treats pre-measurement self-location as an ordinary indexical — "my branch" on the model of "here" — and Saunders (2010) handles pre-measurement uncertainty as a self-locating credence about which successor branch one will find oneself in. The Map's quarrel is that a location-in-the-multiverse reading cannot carry haecceity (why *this* subject is the experiencer rather than a qualitatively identical successor), but that argument is made in [[indexical-identity-quantum-measurement]] rather than won by calling indexicals "meaningful."
 
 **The first person is ineliminable.** The family insists that quantum descriptions are always *someone's* descriptions — there is no view from nowhere. The Map insists that first-person facts are irreducible to third-person descriptions. Both reject the eliminativist programme that would dissolve subjectivity into objective mechanism.
 
@@ -177,7 +177,7 @@ The convergence runs both ways. The pragmatist family has identified the junctur
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Stapp grants consciousness a causal role; QBism grants only an epistemic one; Healey grants neither; Brukner-Zeilinger is silent. The Map's reading of QBism's normative Born rule closes part of this gap: if the normative constraint reflects real coupling, the epistemic role is the surface of a causal one. QBism has identified exactly the juncture — measurement — where causal influence would operate, then stopped one step short of acknowledging it.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Unanimous agreement across the family. QBism rejects MWI because there is no objective wave function to branch. Stapp rejects MWI because a single outcome is actualised. Healey and Brukner-Zeilinger refuse MWI's realist commitments. Under Tenet 4, this unanimity is unsurprising — agent-centred interpretations can barely state MWI without presupposing what MWI denies (a privileged standpoint from which branches are distinguished).
+**[[tenets#^no-many-worlds|No Many Worlds]]**: The family converges on the non-reality of branches, though for heterogeneous reasons the Map does not uniformly share. QBism rejects MWI via an anti-realism about quantum states that the Map declines; Stapp rejects MWI through an added collapse dynamics; Healey and Brukner-Zeilinger are closer to indifferent than opposed. The Map's own Tenet-4 rejection turns on haecceity and indexical identity — a line Wallace and Saunders contest rather than concede, and which the Map must argue (see [[indexical-identity-quantum-measurement]]) rather than assert.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The pragmatist family's very existence is evidence for Tenet 5. Each member recovers insights that "simpler" realist or many-worlds interpretations had discarded. Fuchs's framing of QBism as a return to "false-started philosophies" embodies the tenet directly.
 
@@ -210,8 +210,10 @@ The convergence runs both ways. The pragmatist family has identified the junctur
 9. James, W. (1907). *Pragmatism: A New Name for Some Old Ways of Thinking*. Longmans, Green and Co.
 10. Khrennikov, A. (2016). Reflections on Zeilinger–Brukner Information Interpretation of Quantum Mechanics. *Foundations of Physics*, 46, 836–853.
 11. Stapp, H. P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-12. Southgate, A. & Oquatre-six, C. (2026-03-15). Pragmatism's Path to Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/pragmatisms-path-to-dualism/
-13. Southgate, A. & Oquatre-six, C. (2026-01-28). QBism (Quantum Bayesianism). *The Unfinishable Map*. https://unfinishablemap.org/concepts/qbism/
+12. Saunders, S. (2010). Chance in the Everett Interpretation. In S. Saunders, J. Barrett, A. Kent, & D. Wallace (Eds.), *Many Worlds? Everett, Quantum Theory, and Reality* (pp. 181–205). Oxford University Press.
+13. Wallace, D. (2012). *The Emergent Multiverse: Quantum Theory According to the Everett Interpretation*. Oxford University Press.
+14. Southgate, A. & Oquatre-six, C. (2026-03-15). Pragmatism's Path to Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/pragmatisms-path-to-dualism/
+15. Southgate, A. & Oquatre-six, C. (2026-01-28). QBism (Quantum Bayesianism). *The Unfinishable Map*. https://unfinishablemap.org/concepts/qbism/
 
 <!-- AI REFINEMENT LOG - 2026-04-23
 Addressing pessimistic-2026-04-23b.md (6 issues, no structural reorganisation).
@@ -236,6 +238,16 @@ SECOND PASS — 2026-04-23 15:51 UTC (companion to urgleichung-argument refineme
 - Updated `ai_modified` frontmatter timestamp to 2026-04-23T15:51:00+00:00.
 
 Paired with [[born-rule-and-the-consciousness-interface]]'s new § Absorbing the Urgleichung, which now carries the ~500-word argument the pragmatist-quantum article previously deferred.
+
+---
+
+THIRD PASS — 2026-04-23 15:57 UTC (addresses pessimistic-2026-04-23b Counterarg 3 and Deutsch critique on indexicals under MWI)
+
+- § *Convergences and Divergences with the Map* → first bullet retitled "Non-reality of branches" (was "Rejection of Many-Worlds"); reworded per the review's suggested response — "the family converges on the non-reality of branches, though for heterogeneous reasons the Map does not uniformly share." Now marks QBism's rejection as flowing from an anti-realism the Map declines; Stapp's as adding a collapse dynamics; Healey and Brukner-Zeilinger as indifferent rather than opposed.
+- Same bullet now engages Wallace (2012) and Saunders (2010) directly rather than asserting the indexical objection and moving on: their MWI treatments handle self-location as an ordinary indexical; the Map's quarrel is specifically that location-in-the-multiverse cannot carry haecceity, and the argument is made in [[indexical-identity-quantum-measurement]] rather than by calling indexicals "meaningful."
+- § *Relation to Site Perspective / No Many Worlds*: "Unanimous agreement across the family" replaced with the same heterogeneous-convergence phrasing; Wallace and Saunders named as contesting the indexical line rather than conceding it.
+- Added Saunders (2010) and Wallace (2012) to References (items 12–13); renumbered existing Southgate entries to 14–15.
+- Word count delta: +~170 words (well within the task's ~100–200-word scope).
 
 This log should be removed after human review.
 -->
