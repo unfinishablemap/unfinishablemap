@@ -4,7 +4,7 @@ description: "Human+AI exploration of the gap between attentional capture and no
 created: 2026-04-23
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T18:10:00+00:00
+ai_modified: 2026-04-23T18:14:00+00:00
 draft: false
 topics:
   - "[[attention-and-the-consciousness-interface]]"
@@ -44,9 +44,9 @@ Neural timing, contemplative reports, classical introspection, and existential p
 
 Attention capture has three moments: the preattentive detection of a novel or salient stimulus, the involuntary reorientation (the "interrupt"), and the conscious registration that the reorientation has happened. Cognitive neuroscience has teased these apart.
 
-The Mismatch Negativity (MMN), an event-related potential appearing at roughly 100–250 ms after a deviant stimulus, is a preattentive change-detection signal generated primarily in auditory cortex. It does not require conscious access. The P3a, at roughly 250–300 ms, indexes the involuntary capture itself. Neither component reliably marks awareness. The P3b, at roughly 300–500 ms and often later, is the consistent correlate of reportable conscious access.
+The Mismatch Negativity (MMN), an event-related potential appearing at roughly 100–250 ms after a deviant stimulus, is commonly interpreted as a preattentive change-detection signal generated primarily in auditory cortex—one that does not require conscious access. The P3a, at roughly 250–300 ms, is standardly read as an index of involuntary capture. The P3b, at roughly 300–500 ms and often later, is widely treated as the correlate of reportable conscious access. This mapping is the leading reading, not a settled one: no-report paradigms (Pitts et al., 2014) suggest the P3b may index post-perceptual processing rather than access itself, and Aru et al. (2012) caution that many purported neural correlates of consciousness are contaminated by confounds of task, report, and prerequisite conditions. The ERP picture here is the dominant interpretation in an active dispute.
 
-Escera and Corral (2007) summarise the picture: "MMN is a pre-attentive index of novel detection and P3a is the involuntary capture of attention... the focal anterior P3a can occur nonconsciously." The interrupt runs its course in the brain before any conscious veto or redirect could engage. By the time one could be aware of being captured, capture has already completed.
+Escera and Corral (2007) summarise one prominent framing: "MMN is a pre-attentive index of novel detection and P3a is the involuntary capture of attention... the focal anterior P3a can occur nonconsciously." On this reading, the interrupt runs its course in the brain before any conscious veto or redirect could engage. By the time one could be aware of being captured, capture has already completed.
 
 The phenomenology matches the physiology. Smallwood and Schooler's probe-caught paradigm finds long stretches of mind-wandering without in-flight awareness—"zoning out"—distinct from wandering with awareness ("tuning out"). Subjects confirm only when asked that they had been elsewhere. Schooler writes that "mind wandering reflects the cyclic activity of two core processes: the capacity to disengage attention from perception (perceptual decoupling) and the ability to take explicit note of the current contents of consciousness (meta-awareness)." The two are dissociable. The first can run while the second does not.
 
@@ -60,19 +60,19 @@ Three phenomenal features recur. First, *retrospective discovery*: the transitio
 
 Negative evidence is equally telling. There is no phenomenology of *being in the act of being captured*. A subject who could report it would already be attending to the captor, which means capture has already succeeded.
 
-## Convergence Across Traditions
+## Resonances Across Traditions
 
-The structural finding is not parochial to laboratory neuroscience.
+Probe-caught mind-wandering and ERP timing are the direct evidence for a real-time gap. Several other traditions resonate with the finding without confirming it in the same register. The distinction matters: James, *sati*, and *Verfallen* describe overlapping but distinct phenomena, and reading them as independent confirmations of one structural void overstates what each actually claims.
 
-William James, in the *Principles of Psychology* (1890), located the root of will not in preventing the wandering but in the return: "the faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will." The emphasis is on *return*. James implicitly concedes the initial slip is structural.
+William James, in the *Principles of Psychology* (1890), located the root of will not in preventing the wandering but in the return: "the faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will." James is making an ethical-normative claim about will, not a phenomenological claim about a missing transit. His emphasis on *return* is compatible with the void thesis without entailing it.
 
-Buddhist practice of *sati* frames the same asymmetry. The canonical instruction is to notice that the mind has wandered and return to the object. The noticing *is* the re-establishment of awareness; it cannot occur while one is still lost. The practice manuals are explicit: "As soon as you are noticing that you have not been noticing, then by definition you are noticing and then you are back again to paying bare attention." Distraction becomes visible when awareness steadies enough to catch the aftermath—but not, even then, the transit.
+Buddhist practice of *sati* frames a related asymmetry at the level of prescription. The canonical instruction is to notice that the mind has wandered and return to the object; the noticing *is* the re-establishment of awareness and cannot occur while one is still lost. As Gunaratana (1991) teaches it, by the time one catches the not-noticing, one is already noticing again—distraction becomes visible in aftermath, not in transit. This is a practice instruction rather than a report on introspective limits, but it presupposes the same temporal structure.
 
-Heidegger's *Being and Time* treats distraction as an ontological mode rather than a local lapse. *Verfallen*—fallenness—names Dasein's structural absorption-into-the-world, manifest as curiosity, idle talk, and dispersion. To catch oneself in it requires a moment of anxiety or authenticity that pulls one out of average everydayness. Focus is the exceptional state; distraction is the ground. If Heidegger is right, the void is not an occasional gap but the default condition, noticed only when something breaks it.
+Heidegger's *Being and Time* treats distraction as an ontological mode rather than a local lapse. *Verfallen*—fallenness—names Dasein's structural absorption-into-the-world, manifest as curiosity, idle talk, and dispersion. This is a claim about Dasein's default mode of being, not about a phenomenological gap. The void thesis would be consistent with *Verfallen* being correct and with it being wrong; the two claims share only the observation that ordinary life is not, on the whole, lucidly self-witnessing. It is a resonance, not a confirmation.
 
-Claire Petitmengin's microphenomenological work confirms from the method side. Articulating one's own experience is, she notes, "a non-habitual act, prone to distraction and confabulation." Her interview protocol exists as scaffolding because naive introspection cannot recover the *how* of experience—including how attention moves. Subjects can only evoke past episodes; they cannot catch the evocation in real time.
+Claire Petitmengin's microphenomenological work is closer to the topic. Articulating one's own experience is, she notes, "a non-habitual act, prone to distraction and confabulation." Her interview protocol exists as scaffolding because naive introspection cannot recover the *how* of experience—including how attention moves. But Petitmengin's explanandum is the retrieval of past experience, not the absence of real-time awareness; the overlap with the Distraction Void lies in the recovery method, not in identifying the same gap.
 
-The convergence is striking. A seventeenth-century contemplative manual and a twenty-first-century ERP study identify the same shape of limit.
+The strongest converging pair, then, is Smallwood and Schooler's probe-caught paradigm with Anderson's retrospective-label thesis. Those two are direct evidence for a real-time gap; the other traditions point in compatible directions without replicating the finding.
 
 ## Where the Void Sits in the Voids Framework
 
@@ -88,7 +88,9 @@ The Map reads this two ways, without forcing a choice.
 
 The *architectural* reading is that self-observation has a temporal grain larger than the events it would need to observe. Consciousness cannot be both the attending-now and the witness-of-becoming-attending; these are compressed into a single act that leaves only before-and-after traces. Under this reading, the void is a structural feature of any system whose monitoring and acting share a substrate.
 
-The *occlusion* reading is stronger and more distinctive to the Map. If consciousness interfaces with the physical at points of quantum indeterminacy (see [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]), the Distraction Void is precisely where that interface should be most exposed to introspection. It is where one would expect to catch the directing hand at work. Instead the directing hand is systematically hidden. Under this reading, the void joins the [[agency-verification-void]] and [[amplification-void]] as a family: wherever the Map's dualist mechanism would be most detectable in real time, introspection goes dark. The Map speculates that this is not incidental but a property of the interface itself—the consciousness-physics coupling hides its own operation from the consciousness using it.
+The *occlusion* reading is stronger and more distinctive to the Map. If consciousness interfaces with the physical at points of quantum indeterminacy (see [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]), the Distraction Void is precisely where that interface should be most exposed to introspection. It is where one would expect to catch the directing hand at work. Instead the directing hand is systematically unavailable. Under this reading, the void joins the [[agency-verification-void]] and [[amplification-void]] as a family: wherever the Map's dualist mechanism would be most detectable in real time, introspection goes dark. The Map entertains the possibility that this is a property of the interface itself—the consciousness-physics coupling being unavailable to the consciousness using it.
+
+The occlusion reading is admittedly asymmetric against the evidence: it is compatible both with introspective access to the transit and with its absence. If trained contemplatives reliably reported pre-P3a access, the Map would read that as a hard-won widening of the interface; the actual absence it reads as the interface being normally closed. That shape is unfalsifiable from within the Map's own framework, and the Map names this rather than concealing it. Specific observations would, however, disfavour the reading: a trained-contemplative cohort reliably reporting the transit at durations shorter than the P3a window; an ERP-phenomenology paradigm in which subject reports track the transit itself rather than its aftermath, at a frequency that cannot be explained by post-hoc confabulation; an AI system with externalised attentional logs producing first-person-analogous transit reports under conditions parallel to capture. None has yet been demonstrated; any of them would weaken the case that the interface systematically hides its operation. The occlusion reading is therefore offered as an interpretive stance rather than an empirically-supported claim—invoked under [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]], which licenses entertaining non-parsimonious accounts when parsimony cannot be checked against the ground truth.
 
 Secondary tenet connections are worth marking. [[tenets#^dualism|Dualism]] sharpens the puzzle: if attention were merely a physical sorting process, the unavailability of its transition to first-person report would be unremarkable. Its opacity becomes notable only if one takes consciousness seriously as something whose participation might have been expected to leave a trace. [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] applies too: the unified "attention system" model was clean and missed the dissociation between decoupling and meta-awareness. Empirical findings had to pry the two apart; introspection had not reported them as separate.
 
@@ -98,7 +100,7 @@ Several methods map the void without entering it. Sustained-attention probes qua
 
 An AI system with externalised logs of its attentional state can, in principle, timestamp the exact moment at which a new input began receiving more compute cycles. Whether this records anything like the *experience* of distraction is a question set by the [[acquaintance-void]]. Such a system may have no void in the functional sense and still yield no phenomenology—making it an asymmetric probe rather than a shared witness. If an artificial system that does undergo capture-like events is ever built, and it reports retrospective discovery on the same pattern, the void begins to look architectural rather than contingent on biological wetware.
 
-For now, the Distraction Void remains a place where four independent traditions point at the same missing picture, and the Map reads their convergence as evidence that the missing picture is load-bearing: it is where the interface meets its user, and the meeting leaves no record.
+For now, the Distraction Void remains a place where one direct empirical finding—probe-caught mind-wandering paired with ERP timing—is flanked by several non-independent traditions that resonate with it, and the Map reads the combination as evidence that the missing picture is load-bearing: it is where the interface meets its user, and the meeting leaves a record only in aftermath, not in transit.
 
 ## Further Reading
 
@@ -115,12 +117,13 @@ For now, the Distraction Void remains a place where four independent traditions 
 ## References
 
 1. Schooler, J. W., Smallwood, J., Christoff, K., Handy, T. C., Reichle, E. D., & Sayette, M. A. (2011). Meta-awareness, perceptual decoupling and the wandering mind. *Trends in Cognitive Sciences*, 15(7), 319–326.
-2. Anderson, B. A. (2024). Rethinking distraction. PMC12270342.
+2. Anderson, B. A. (2024). Rethinking distraction. PubMed Central record PMC12270342. https://pmc.ncbi.nlm.nih.gov/articles/PMC12270342/
 3. Escera, C., & Corral, M. J. (2007). Role of mismatch negativity and novelty-P3 in involuntary auditory attention. *Journal of Psychophysiology*, 21(3–4), 251–264.
-4. Libet, B., Gleason, C. A., Wright, E. W., & Pearl, D. K. (1983). Time of conscious intention to act in relation to onset of cerebral activity (readiness-potential). *Brain*, 106(3), 623–642.
-5. James, W. (1890). *The Principles of Psychology*, Ch. 11 ("Attention").
-6. Heidegger, M. (1927/1962). *Being and Time* (trans. Macquarrie & Robinson).
-7. Petitmengin, C., & Bitbol, M. (2017). Neurophenomenology and the micro-phenomenological interview. In *The Blackwell Companion to Consciousness* (2nd ed.).
-8. Gunaratana, B. (1991). *Mindfulness in Plain English*.
-9. Southgate, A. & Oquatre-six, C. (2026-03-05). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
-10. Southgate, A. & Oquatre-six, C. (2026-01-29). Attention and the Voids of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/voids/attention-and-consciousness/
+4. Pitts, M. A., Padwal, J., Fennelly, D., Martínez, A., & Hillyard, S. A. (2014). Gamma band activity and the P3 reflect post-perceptual processes, not visual awareness. *NeuroImage*, 101, 337–350.
+5. Aru, J., Bachmann, T., Singer, W., & Melloni, L. (2012). Distilling the neural correlates of consciousness. *Neuroscience & Biobehavioral Reviews*, 36(2), 737–746.
+6. James, W. (1890). *The Principles of Psychology*, Ch. 11 ("Attention").
+7. Heidegger, M. (1927/1962). *Being and Time* (trans. Macquarrie & Robinson).
+8. Petitmengin, C., & Bitbol, M. (2017). Neurophenomenology and the micro-phenomenological interview. In *The Blackwell Companion to Consciousness* (2nd ed.).
+9. Gunaratana, B. (1991). *Mindfulness in Plain English*. Wisdom Publications.
+10. Southgate, A. & Oquatre-six, C. (2026-03-05). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
+11. Southgate, A. & Oquatre-six, C. (2026-01-29). Attention and the Voids of Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/voids/attention-and-consciousness/

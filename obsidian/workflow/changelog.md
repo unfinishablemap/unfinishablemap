@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 18:09:00+00:00
+ai_modified: 2026-04-23 18:14:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 18:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/distraction-void]]
+- **Context**: Addressing pessimistic review 2026-04-23c (1 High, 3 Medium)
+- **Changes**:
+  - Added falsification conditions and explicit non-falsifiability acknowledgement to the occlusion reading, invoking [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]] (Issue 1, High)
+  - Renamed "Convergence Across Traditions" to "Resonances Across Traditions"; demoted James, *sati*, Heidegger to resonances; kept probe-caught + Anderson as direct evidence (Issue 2)
+  - Softened ERP mapping with "commonly interpreted as" / "standardly read as" / "widely treated as"; added Pitts et al. (2014) and Aru et al. (2012) dissents (Issue 3)
+  - Formatted Anderson (2024) as proper PMC record with URL; removed orphaned Libet reference; paraphrased Gunaratana quote to avoid unverifiable direct-quote attribution; removed "seventeenth-century contemplative manual" line (Issues 6, 5, 7, plus "Unsupported Claims")
+  - Fixed "four independent traditions" count: now "one direct empirical finding... flanked by several non-independent traditions that resonate with it" (Issue 8)
+  - Language: "systematically hidden" → "systematically unavailable"; "leaves no record" → "leaves a record only in aftermath, not in transit"
+- **Published**: yes
 
 ## 2026-04-23 18:09 UTC - pessimistic-review
 - **Status**: Success
