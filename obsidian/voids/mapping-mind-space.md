@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot survey the geomet
 created: 2026-02-25
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[scale-void]]"
   - "[[intrinsic-nature-void]]"
-  - "[[indexical-void]]"
+  - "[[vertiginous-question]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[synesthetic-void]]"
   - "[[framework-void]]"
@@ -48,7 +48,7 @@ The ambition is sound; the execution faces a fundamental obstacle. Any survey mu
 
 ## Location Without Coordinates
 
-We know we exist as conscious beings but may be structurally unable to determine where we fall in the broader landscape of possible consciousness. This connects to the [[indexical-void]]: "why am I *this* consciousness?" becomes unanswerable when you cannot locate "this" within the space of alternatives.
+We know we exist as conscious beings but may be structurally unable to determine where we fall in the broader landscape of possible consciousness. This connects to the [[vertiginous-question]]: "why am I *this* consciousness?" becomes unanswerable when you cannot locate "this" within the space of alternatives.
 
 Pre-Copernican cosmology is the instructive analogy. Humans assumed Earth's centrality because they had no external vantage point; the Copernican revolution required instruments revealing actual position. For mind-space, no telescope exists. Self-locating beliefs — Lewis's "attitudes *de se*" and Perry's "essential indexical" — cannot be characterised without terms like "I," "here," "now." You cannot triangulate from a single point.
 
@@ -122,7 +122,7 @@ Current evidence meets none of these. Every survey proceeds from within a partic
 
 - [[voids]] — Framework for investigating cognitive limits
 - [[non-human-minds-as-void-explorers]] — What AI and radically different alien minds might reveal about territories closed to human cognition
-- [[indexical-void]] — Why you cannot determine why you are *this* consciousness
+- [[vertiginous-question]] — Why you cannot determine why you are *this* consciousness
 - [[synesthetic-void]] — Phenomenal dimensions closed to most minds within our species
 - [[phenomenology-of-the-edge]] — The characteristic experience of approaching cognitive limits
 - [[biological-cognitive-closure]] — Cross-cultural evidence for species-level cognitive constraints

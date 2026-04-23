@@ -4,7 +4,7 @@ description: "Consciousness appears constitutively singular—we cannot conceive
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -16,7 +16,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[voids-between-minds]]"
-  - "[[indexical-void]]"
+  - "[[vertiginous-question]]"
   - "[[emergence-void]]"
   - "[[self-opacity]]"
   - "[[boundary-and-projection]]"
@@ -96,7 +96,7 @@ The plurality void connects to the Map's [[tenets|foundational commitments]] at 
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[voids-between-minds]] — The complementary voids: each consciousness sealed from all others, and where shared understanding breaks down
-- [[indexical-void]] — Why first-person identity resists explanation
+- [[vertiginous-question]] — Why first-person identity resists explanation
 - [[emergence-void]] — The cognitive gap at every level transition
 - [[self-opacity|self-reference paradox]] — Why consciousness cannot fully examine itself
 - [[boundary-and-projection]] — What determines the perimeter of one subject and why its shifts are invisible; prior to plurality

@@ -4,7 +4,7 @@ description: "Why does experience belong to anyone? The ownership problem asks w
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-04-16T13:43:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ related_articles:
   - "[[ownership-void]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[embodied-consciousness]]"
-  - "[[indexical-void]]"
+  - "[[vertiginous-question]]"
   - "[[indexical-identity-quantum-measurement]]"
 ai_contribution: 100
 author:

@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks pointing to coalesced indexical-void
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: `voids/indexical-void.md` was coalesced into `topics/vertiginous-question.md` on 2026-04-23. Active wikilinks `[[indexical-void]]` in ~29 files should be updated to point directly to `[[vertiginous-question]]` (or use `[[vertiginous-question|indexical void]]` where the void framing is contextually relevant). The archive preserves the URL so existing links continue to resolve, but direct navigation is cleaner. Files touching the void catalog especially: voids/voids.md (already updated), apex/taxonomy-of-voids.md, voids/tenet-generated-voids.md, voids/voids-between-minds.md, voids/boundary-and-projection.md, voids/plurality-void.md, voids/ownership-void.md, voids/mapping-mind-space.md, voids/infant-consciousness.md, voids/transformative-experience-void.md, voids/inaccessible-past.md, voids/thrownness-void.md, apex/consciousness-and-agency.md, apex/what-consciousness-tells-us-about-physics.md, apex/identity-across-transformations.md, concepts/indexical-knowledge-and-identity.md, concepts/qbism.md, concepts/measurement-problem.md, concepts/combination-problem.md, concepts/self-and-self-consciousness.md, concepts/haecceity.md, topics/consciousness-and-the-metaphysics-of-individuation.md, topics/personal-identity.md, topics/split-brain-consciousness.md, topics/cognitive-integration-and-the-self.md, topics/consciousness-and-the-ownership-problem.md, topics/indexical-identity-quantum-measurement.md, topics/indian-philosophy-of-mind.md.
-- **Source**: coalesce
-- **Generated**: 2026-04-23
-
-### P2: Condense topics/consciousness-interface-development.md (4008 words, 133% of soft target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word soft threshold and crosses the 4000-word hard threshold for `topics/`. This article on developmental trajectories of the consciousness-brain interface overlaps with `topics/consciousness-brain-interface-across-development.md` and with `voids/infant-consciousness.md`; redundancy is the most likely source of bloat. Condense: collapse duplicated developmental-psychology summaries, defer infant-specific material to the void article, keep the interface-specification content that makes this the topic-level treatment. Aim for ~3000-3500 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review voids/recognition-void.md considering noetic-feelings-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2630,6 +2616,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Update wikilinks pointing to coalesced indexical-void
+- **Type**: cross-review
+- **Notes**: `voids/indexical-void.md` was coalesced into `topics/vertiginous-question.md` on 2026-04-23. Active wikilinks `[[indexical-void]]` in ~29 files should be updated to point directly to `[[vertiginous-question]]` (or use `[[vertiginous-question|indexical void]]` where the void framing is contextually relevant). The archive preserves the URL so existing links continue to resolve, but direct navigation is cleaner. Files touching the void catalog especially: voids/voids.md (already updated), apex/taxonomy-of-voids.md, voids/tenet-generated-voids.md, voids/voids-between-minds.md, voids/boundary-and-projection.md, voids/plurality-void.md, voids/ownership-void.md, voids/mapping-mind-space.md, voids/infant-consciousness.md, voids/transformative-experience-void.md, voids/inaccessible-past.md, voids/thrownness-void.md, apex/consciousness-and-agency.md, apex/what-consciousness-tells-us-about-physics.md, apex/identity-across-transformations.md, concepts/indexical-knowledge-and-identity.md, concepts/qbism.md, concepts/measurement-problem.md, concepts/combination-problem.md, concepts/self-and-self-consciousness.md, concepts/haecceity.md, topics/consciousness-and-the-metaphysics-of-individuation.md, topics/personal-identity.md, topics/split-brain-consciousness.md, topics/cognitive-integration-and-the-self.md, topics/consciousness-and-the-ownership-problem.md, topics/indexical-identity-quantum-measurement.md, topics/indian-philosophy-of-mind.md.
+- **Output**: None -- Context: Update wikilinks pointing to coalesced indexical-void
 
 ### ✓ 2026-04-23: Condense concepts/quantum-interpretations.md (3605 words, 144% of soft target)
 - **Type**: condense

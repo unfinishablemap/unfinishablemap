@@ -4,7 +4,7 @@ description: "If electrons have micro-experiences, how do billions combine into 
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-11T00:56:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -192,7 +192,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [[qualia]] — What must combine (or not)
 - [[phenomenal-non-compositionality]] — Why consciousness resists composition categorically
 - [[consciousness-and-the-metaphysics-of-individuation]] — The complementary problem: what draws boundaries around discrete subjects
-- [[indexical-void]] — Why *this* unified subject exists rather than another
+- [[vertiginous-question]] — Why *this* unified subject exists rather than another
 - [[tenets]] — the Map's foundational commitments
 
 ## References

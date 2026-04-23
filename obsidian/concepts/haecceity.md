@@ -4,7 +4,7 @@ description: "The quality of being this particular conscious subject. Pattern-ba
 created: 2026-01-16
 modified: 2026-04-04
 human_modified: null
-ai_modified: 2026-04-04T20:18:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,6 @@ related_articles:
   - "[[tenets]]"
   - "[[meaning-of-life]]"
   - "[[indexical-identity-quantum-measurement]]"
-  - "[[indexical-void]]"
   - "[[eastern-philosophy-consciousness]]"
   - "[[identity-across-transformations]]"
 ai_contribution: 100
@@ -54,7 +53,7 @@ Modern discussions distinguish:
 
 **[[indexical-knowledge-and-identity|Indexical facts]]**: Facts specifiable only using indexicals like "I," "here," "now." The fact that *I* am writing this sentence cannot be reduced to facts about some person writing a sentence—because there might be multiple people writing identical sentences, and only one of them is me.
 
-These concepts converge for consciousness. The question "Why am I this subject and not another?" presupposes that being this subject is a genuine fact—a haecceitistic fact not reducible to qualitative features of my psychology. The [[indexical-void]] marks the cognitive boundary where this question confronts its own inexplicability.
+These concepts converge for consciousness. The question "Why am I this subject and not another?" presupposes that being this subject is a genuine fact—a haecceitistic fact not reducible to qualitative features of my psychology. The [[vertiginous-question]] marks the cognitive boundary where this question confronts its own inexplicability.
 
 ## Haecceitism vs Anti-Haecceitism
 
@@ -196,7 +195,6 @@ Process haecceitism refines what the Map presupposes: personal identity is not p
 - [[process-philosophy]] — Whitehead's metaphysics of events and becoming
 - [[eastern-philosophy-consciousness]] — Where process haecceitism resolves the Buddhist-dualist tension
 - [[parfit-reductionism]] — The pattern-based view that process haecceitism rejects
-- [[indexical-void]] — The cognitive boundary where first-person identity resists explanation
 
 ## References
 

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 19:57:00+00:00
+ai_modified: 2026-04-23 20:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 20:13 UTC - deep-review
+- **Status**: Success
+- **Task**: Update wikilinks pointing to coalesced indexical-void
+- **Files modified**: 27 active obsidian files (concepts/, voids/, topics/, apex/)
+- **Substitutions**: `[[indexical-void]]` → `[[vertiginous-question]]`; `[[indexical-void|X]]` → `[[vertiginous-question|X]]` (display text preserved where the "indexical void" framing was contextually meaningful)
+- **Deduplication**: Removed cross-key frontmatter duplicates in `concepts/haecceity.md` and `concepts/indexical-knowledge-and-identity.md` where `[[vertiginous-question]]` was already present under `topics:`/`concepts:` and the replaced `[[indexical-void]]` entry in `related_articles:` would have duplicated it.
+- **Skipped**: reviews/, research/, workflow/archive/, changelog.md (historical records); todo task entry removed on completion.
 
 ## 2026-04-23 19:57 UTC - coalesce
 - **Status**: Success

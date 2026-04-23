@@ -4,7 +4,7 @@ description: "Human+AI exploration of the cognitive void opened by choices whose
 created: 2026-04-17
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-21T06:38:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 last_deep_review: 2026-04-18T03:19:00+00:00
 draft: false
 topics: []
@@ -17,7 +17,7 @@ related_articles:
   - "[[phenomenal-quality-void]]"
   - "[[acquaintance-void]]"
   - "[[counterfactual-void]]"
-  - "[[indexical-void]]"
+  - "[[vertiginous-question]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[framework-void]]"
   - "[[epistemological-limits-occams-razor]]"
@@ -101,7 +101,7 @@ The transformative experience void connects most directly to the Map's **Dualism
 
 The void also engages **Occam's Razor Has Limits**. Standard decision theory is elegant, and its simplicity is precisely its appeal. The transformative case reveals a class of real human choices that simplicity mishandles. The Map reads this as a characteristic pattern: parsimony becomes unreliable when the domain's essential features include phenomenal character, identity-dependent preferences, and first-personal standpoints that the simpler framework has no resources to represent.
 
-**No Many Worlds** enters less directly but not trivially. The transformation produces *this* future self, not a distribution of possible future selves to be averaged over. The Map takes indexical identity seriously (see [[indexical-void]]): the question of which self emerges from the transformation is not resolved by considering all branches equally real. Pettigrew-style aggregation treats future selves as a distribution to average across; the Map reads this as structurally analogous to many-worlds averaging — both abstract away from the indexically singular self the agent will become — and the indexical commitments that motivate rejecting MWI motivate scepticism of aggregation here too.
+**No Many Worlds** enters less directly but not trivially. The transformation produces *this* future self, not a distribution of possible future selves to be averaged over. The Map takes indexical identity seriously (see [[vertiginous-question]]): the question of which self emerges from the transformation is not resolved by considering all branches equally real. Pettigrew-style aggregation treats future selves as a distribution to average across; the Map reads this as structurally analogous to many-worlds averaging — both abstract away from the indexically singular self the agent will become — and the indexical commitments that motivate rejecting MWI motivate scepticism of aggregation here too.
 
 Three implications follow. First, the Map's apophatic methodology is vindicated in a domain that matters to ordinary lives: structural mapping and negative description are not second-best strategies for transformative decisions but the only rationally available ones. Second, the voids framework connects to lived experience here in a way abstract voids do not — the choices people already experience as most significant are the ones that encounter genuine cognitive voids. Third, authenticity becomes a void-navigation ethic: the weight shifts from *whether* to choose rationally to *how* one navigates the void — with willingness to discover, without pretending to knowledge one does not have, without alienating the choice from the self who must live its consequences.
 
@@ -110,7 +110,7 @@ Three implications follow. First, the Map's apophatic methodology is vindicated 
 - [[voids]] — index and framework for cognitive limits
 - [[acquaintance-void]] — modes of direct phenomenal contact unavailable to minds like ours
 - [[phenomenal-quality-void]] — general inaccessibility of qualia to third-person description
-- [[indexical-void]] — why "which self" cannot be resolved by averaging
+- [[vertiginous-question]] — why "which self" cannot be resolved by averaging
 - [[counterfactual-void]] — limits on knowing what would have happened otherwise
 - [[framework-void]] — when a framework's elegance excludes rather than captures the phenomenon
 - [[epistemological-limits-occams-razor]] — parsimony's failures under incomplete knowledge

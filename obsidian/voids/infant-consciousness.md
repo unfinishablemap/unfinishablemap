@@ -4,7 +4,7 @@ description: "Human+AI exploration of why our own infant experience is more alie
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[inaccessible-past]]"
   - "[[biological-cognitive-closure]]"
   - "[[voids-between-minds]]"
-  - "[[indexical-void]]"
+  - "[[vertiginous-question]]"
   - "[[transition-void]]"
   - "[[synesthetic-void]]"
   - "[[three-kinds-of-void]]"
@@ -106,7 +106,7 @@ The infant consciousness void connects to all five of the Map's [[tenets]], maki
 - [[voids-between-minds]]
 - [[synesthetic-void]]
 - [[transition-void]]
-- [[indexical-void]]
+- [[vertiginous-question]]
 - [[three-kinds-of-void]]
 - [[consciousness-and-cognitive-distinctiveness|consciousness threshold in cognitive evolution]] — The cross-species analogue: evolutionary phase transitions in how consciousness interfaces with neural architecture
 - [[compound-failure-signatures]] — Infant consciousness as a paradigm case of superadditive cognitive closure

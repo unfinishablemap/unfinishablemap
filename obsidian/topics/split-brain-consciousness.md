@@ -4,7 +4,7 @@ description: "Split-brain surgery, anaesthesia, and dissociation each fracture c
 created: 2026-01-14
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-17T13:11:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -139,7 +139,7 @@ The cases pose genuine puzzles for [[personal-identity|personal identity]]:
 
 Philosopher Elizabeth Schechter proposes both are correct: two minds in one sense, one person in another.
 
-If consciousness can exhibit this kind of partial division, what individuates subjects over time? The [[consciousness-and-the-metaphysics-of-individuation|individuation question]] becomes especially acute, and the [[indexical-void]] — the inability to explain why *this* consciousness is *this one* — intensifies when division creates ambiguity about which continuation is "me." Standard answers struggle:
+If consciousness can exhibit this kind of partial division, what individuates subjects over time? The [[consciousness-and-the-metaphysics-of-individuation|individuation question]] becomes especially acute, and the [[vertiginous-question]] — the inability to explain why *this* consciousness is *this one* — intensifies when division creates ambiguity about which continuation is "me." Standard answers struggle:
 
 - **Psychological continuity** assumes continuous streams — but which stream?
 - **Biological continuity** identifies the person with the body — but the brain is divided
@@ -232,7 +232,7 @@ The indeterminacy itself may be a clue to what consciousness is.
 - [[binding-problem]] — How distributed processes combine into unified experience
 - [[personal-identity]] — What makes you *you* across time
 - [[haecceity]] — The "thisness" that individuates subjects
-- [[indexical-void]] — The cognitive boundary where first-person identity resists explanation
+- [[vertiginous-question]] — The cognitive boundary where first-person identity resists explanation
 - [[concepts/consciousness-selecting-neural-patterns]] — How consciousness selects among neural possibilities
 - [[hard-problem-of-consciousness]] — Why physical explanation seems to leave consciousness unexplained
 - [[neural-correlates-of-consciousness]] — What neuroscience reveals about consciousness

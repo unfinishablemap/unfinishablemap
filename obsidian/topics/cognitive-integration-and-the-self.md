@@ -4,7 +4,7 @@ description: "How consciousness binds information across time and modality to co
 created: 2026-02-11
 modified: 2026-03-06
 human_modified:
-ai_modified: 2026-04-16T14:14:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[quantum-holism-and-phenomenal-unity]]"
   - "[[social-construction-of-self-vs-phenomenal-self]]"
   - "[[phenomenology-of-recursive-self-awareness]]"
-  - "[[indexical-void]]"
+  - "[[vertiginous-question]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -128,7 +128,7 @@ This prospective dimension matters for [[free-will|free will]]. If consciousness
 
 ## Integration and Indexical Identity
 
-The [[vertiginous-question|vertiginous question]]—"Why am I this particular person?"—reveals something important about cognitive integration. The self is not just unified but *this particular* unified self. [[haecceity|Haecceity]], or "thisness," is the property that makes this consciousness mine rather than someone else's. [[indexical-knowledge-and-identity|Indexical knowledge]]—knowledge expressible only as "I," "here," "now"—provides the epistemic counterpart: the self is not merely unified but known from the inside in a way that resists third-person translation. The [[indexical-void]] marks the cognitive boundary where this first-person identity resists every attempt at explanation—a limit that integration approaches but cannot cross.
+The [[vertiginous-question|vertiginous question]]—"Why am I this particular person?"—reveals something important about cognitive integration. The self is not just unified but *this particular* unified self. [[haecceity|Haecceity]], or "thisness," is the property that makes this consciousness mine rather than someone else's. [[indexical-knowledge-and-identity|Indexical knowledge]]—knowledge expressible only as "I," "here," "now"—provides the epistemic counterpart: the self is not merely unified but known from the inside in a way that resists third-person translation. The [[vertiginous-question]] marks the cognitive boundary where this first-person identity resists every attempt at explanation—a limit that integration approaches but cannot cross.
 
 Cognitive integration constitutes indexical identity. The boundaries of "me" are defined by what integrates into a single experiential stream. Experiences that bind together phenomenally belong to the same self; experiences that do not remain separate selves.
 
@@ -212,7 +212,7 @@ The physicalist might object that positing irreducible phenomenal unity violates
 - [[consciousness-and-memory|Consciousness and Memory]] — The relationship between consciousness and memory formation
 - [[quantum-holism-and-phenomenal-unity|Quantum Holism and Phenomenal Unity]] — Why phenomenal unity resists physical explanation
 - [[phenomenology-of-recursive-self-awareness]] — How self-awareness transforms consciousness and enables the evaluative capacities that integration serves
-- [[indexical-void]] — The cognitive boundary where first-person identity resists explanation; integration approaches but cannot cross this limit
+- [[vertiginous-question]] — The cognitive boundary where first-person identity resists explanation; integration approaches but cannot cross this limit
 
 ## References
 

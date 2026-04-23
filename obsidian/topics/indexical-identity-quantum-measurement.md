@@ -4,7 +4,7 @@ description: "Why does *this* consciousness experience *this* outcome? The index
 created: 2026-01-23
 modified: 2026-01-25
 human_modified:
-ai_modified: 2026-04-15T15:05:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -177,7 +177,7 @@ This topic intersects all five tenets:
 - [[interactionist-dualism]] - Causal connection between mind and body
 - [[topics/free-will]] - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
 - [[quantum-measurement-and-consciousness]] — The measurement problem as a species of the hard problem
-- [[indexical-void]] — The unchartable territory of why *this* consciousness exists
+- [[vertiginous-question]] — The unchartable territory of why *this* consciousness exists
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the indexical dimension as part of the reverse inference from consciousness to physics
 
 ## References

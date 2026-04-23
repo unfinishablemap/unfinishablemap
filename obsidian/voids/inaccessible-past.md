@@ -4,7 +4,7 @@ description: "Past conscious states are structurally inaccessible — both becau
 created: 2026-01-29
 modified: 2026-03-19
 human_modified: null
-ai_modified: 2026-04-20T11:38:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[temporal-void]]"
   - "[[self-opacity]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[indexical-void]]"
+  - "[[vertiginous-question]]"
   - "[[consciousness-and-memory]]"
   - "[[contemplative-epistemology]]"
   - "[[narrative-void]]"

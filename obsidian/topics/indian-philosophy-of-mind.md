@@ -4,7 +4,7 @@ description: "Three rival Indian schools spent two millennia debating what consc
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-04-07T12:53:00+00:00
+ai_modified: 2026-04-23T20:16:25+00:00
 last_deep_review: 2026-03-20T04:14:00+00:00
 draft: false
 topics:
@@ -143,7 +143,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Nyaya provides the strongest Indian support, with its explicit causal chain from self through *manas* to sense organs—a form of [[agent-causation]] articulated independently of the Western tradition. Samkhya's passive *purusha* is a genuine tension. The Map sides with Nyaya over Samkhya on this point: consciousness acts, it does not merely witness.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]**: Samkhya's and Nyaya's insistence on multiple distinct selves, each with its own experiential history, supports the Map's concern that indexical identity matters. The question "Why am I *this* purusha and not another?" is meaningful in Samkhya—and the tradition takes it seriously enough to argue for it. This is precisely the [[indexical-void]]: the cognitive boundary where first-person identity resists explanation, formulated independently in an Indian tradition two millennia before Western analytic philosophy posed the same question.
+**[[tenets#^no-many-worlds|No Many Worlds]]**: Samkhya's and Nyaya's insistence on multiple distinct selves, each with its own experiential history, supports the Map's concern that indexical identity matters. The question "Why am I *this* purusha and not another?" is meaningful in Samkhya—and the tradition takes it seriously enough to argue for it. This is precisely the [[vertiginous-question]]: the cognitive boundary where first-person identity resists explanation, formulated independently in an Indian tradition two millennia before Western analytic philosophy posed the same question.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]**: Two millennia of rigorous internal debate—Samkhya against Nyaya against Vedanta against Buddhism—produced sophisticated positions that cannot be dismissed as pre-scientific naivety. These schools disagree about nearly everything else (whether consciousness acts, whether it is self-luminous, whether selves are many or one) yet converge on irreducibility. If the simpler hypothesis were that consciousness is physical, one would expect at least one major school—across two thousand years of mutual criticism—to have found reduction viable. None did. The apparent simplicity of materialism looks less compelling when the traditions with the deepest sustained investigation of consciousness consistently find it irreducible—not because they lacked rigour, but because their rigour pointed elsewhere.
 
@@ -164,7 +164,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [[dualism]] — The Map's core commitment, independently affirmed by all three schools; the cumulative case to which Indian philosophy contributes
 - [[the-convergence-argument-for-dualism]] — The epistemological structure Indian philosophy exemplifies
 - [[interaction-problem-across-traditions]] — Broader survey including Samkhya alongside Islamic and Buddhist approaches
-- [[indexical-void]] — The cognitive boundary where first-person identity confronts its own inexplicability
+- [[vertiginous-question]] — The cognitive boundary where first-person identity confronts its own inexplicability
 - [[causal-closure]] — How Samkhya's framework preserves causal closure
 - [[dualist-perception]] — Dualist theories of perception, with parallels to Nyaya
 - [[objections-to-interactionism]] — Standard challenges that Samkhya's framework sidesteps
