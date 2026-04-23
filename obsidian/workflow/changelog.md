@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 14:35:00+00:00
+ai_modified: 2026-04-23 14:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 14:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/born-rule-violation-brain-interface-empirical-status]]
+- **Word count**: 2932 → 2938 (+6, length-neutral mode)
+- **Critical issues addressed**: 1 (Chalmers-McQueen "2021 follow-up" chronology error; removed dubious date)
+- **Medium issues addressed**: 2 (two instances of "not X, it is Y" LLM-cliché pattern reworded; added inline spontaneous-collapse-theories cross-link)
+- **Enhancements made**: 1 (body-text wikilink to `[[spontaneous-collapse-theories]]`)
+- **Output**: [[reviews/deep-review-2026-04-23-born-rule-violation-brain-interface-empirical-status]]
 
 ## 2026-04-23 14:27 UTC - expand-topic
 - **Status**: Success

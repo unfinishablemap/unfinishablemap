@@ -4,7 +4,7 @@ description: "Maps which consciousness-physics proposals require Born-rule viola
 created: 2026-04-23
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T14:35:00+00:00
+ai_modified: 2026-04-23T14:40:00+00:00
 draft: false
 topics:
   - "[[mathematical-structure-of-the-consciousness-physics-interface]]"
@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-23
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-23T14:40:00+00:00
 ---
 
 The Born rule — quantum mechanics' prescription that measurement probabilities equal |⟨φ|ψ⟩|² — has been tested to exquisite precision in photon, atom, superconducting-qubit, and triple-slit systems. **No published experiment directly probes the Born rule inside living neural tissue during a conscious act of selection**, which is precisely the regime that consciousness-physics-interface programmes target. This article maps the experimental landscape: which proposals explicitly require Born-rule violation, which preserve the rule while still claiming a mental-physical interaction, which experiments are currently running or feasible, and what negative results would and would not foreclose for the Map's [[tenets|Minimal Quantum Interaction]] commitment.
@@ -58,12 +58,12 @@ Not every proposal that posits a consciousness-physics interaction entails Born-
 **Minimum-outside-the-corridor dualism (Born-rule-bending)**. The corridor is insufficient to produce the observed correlation between conscious intention and physical outcome, so the Minimal Quantum Interaction tenet — properly read as "smallest interaction actually sufficient" rather than "smallest interaction that preserves ensemble statistics" — requires deviation. Several distinct proposals fall here:
 
 - *Stapp's quantum Zeno picture.* Rapid conscious attention holds a particular eigenstate, shifting selection probabilities away from what a non-conscious measurement would produce. The modification depends on observation frequency and is explicitly Born-rule-bending.
-- *Chalmers-McQueen Φ-dependent collapse.* Integrated-information-theoretic Φ gates collapse dynamics; "Φ resists superposition, and superpositions of distinct Φ values trigger collapse" (Chalmers & McQueen 2022). At the ensemble level, with Φ-dependent stochasticity added, the Born rule is generally not preserved — collapse probabilities depend on a consciousness-related variable that standard QM does not include. Chalmers and McQueen's 2021 follow-up argues that no single scalar measure suffices, sharpening rather than softening the Born-modifying implication.
+- *Chalmers-McQueen Φ-dependent collapse.* Integrated-information-theoretic Φ gates collapse dynamics; "Φ resists superposition, and superpositions of distinct Φ values trigger collapse" (Chalmers & McQueen 2022). At the ensemble level, with Φ-dependent stochasticity added, the Born rule is generally not preserved — collapse probabilities depend on a consciousness-related variable that standard QM does not include. Chalmers and McQueen themselves note that no single scalar Φ measure suffices, sharpening rather than softening the Born-modifying implication.
 - *Penrose-Hameroff Orch-OR.* Orchestrated objective reduction is explicitly a modification of QM, not selection within it. The theory lives or dies on deviations from standard unitary plus Born dynamics.
 - *Arana (2025) time-extended weighting.* A time-integrated functional perturbs Born probabilities by an exponentially suppressed factor λ, recovering standard Born as λ → 0. This is a worked example of a "Born-violating-but-arbitrarily-close" proposal — a falsifiable phenomenological model.
 - *Kauffman-Radin-Stapp acausal actualisation.* Quantum measurement as an acausal conversion of possibles into actuals by mind; naturally entails departures from a measurement-independent probability distribution.
 
-**Trumping dualism (orthogonal to Born)**. The [[trumping-preemption|trumping-preemption reading]] developed in the Map treats consciousness as authoritative over trajectories the formalism already fully describes, leaving the Born rule outside the gap analysis entirely. This is not a Born-preserving position in the corridor sense; it is a position on which the Born rule and the consciousness-physics question belong to different explanatory axes. See [[concepts/trumping-preemption]] and the [[delegatory-causation]] articulation for the full treatment.
+**Trumping dualism (orthogonal to Born)**. The [[trumping-preemption|trumping-preemption reading]] developed in the Map treats consciousness as authoritative over trajectories the formalism already fully describes, leaving the Born rule outside the gap analysis entirely. Trumping sits on a different explanatory axis: the Born rule and the consciousness-physics question belong to separate axes under this reading, so trumping counts as neither a corridor-preserving nor a Born-modifying position. See [[concepts/trumping-preemption]] and the [[delegatory-causation]] articulation for the full treatment.
 
 A fourth family — **no consciousness-physics interaction at all** (Everettian, Bohmian, orthodox pragmatism-without-interface) — rejects the premise and lies outside the Map's tenet commitments.
 
@@ -99,7 +99,7 @@ What it has not foreclosed: smaller, targeted, brain-internal deviations of the 
 
 ### Collapse-Theory Parameter Bounds
 
-Spontaneous collapse models (GRW, CSL, Diósi-Penrose) add nonlinear stochastic collapse terms to Schrödinger evolution. Diósi-Penrose in its simplest form is now ruled out by germanium-detector data (2021). GRW and CSL have "survived by a whisker" at their original parameter values after LISA Pathfinder bounds, X-ray detector experiments, and intergalactic-medium heating constraints (SEP 2024). If a Chalmers-McQueen-style model couples Φ to the collapse dynamics, the parameter space shifts into less-constrained brain-specific regions — an advantage for the theorist, but also a warning about unfalsifiability drift.
+[[spontaneous-collapse-theories|Spontaneous collapse models]] (GRW, CSL, Diósi-Penrose) add nonlinear stochastic collapse terms to Schrödinger evolution. Diósi-Penrose in its simplest form is now ruled out by germanium-detector data (2021). GRW and CSL have "survived by a whisker" at their original parameter values after LISA Pathfinder bounds, X-ray detector experiments, and intergalactic-medium heating constraints (SEP 2024). If a Chalmers-McQueen-style model couples Φ to the collapse dynamics, the parameter space shifts into less-constrained brain-specific regions — an advantage for the theorist, but also a warning about unfalsifiability drift.
 
 ## What the Map's Minimal Quantum Interaction Commits To
 
@@ -125,7 +125,7 @@ This article directly engages three of the Map's five tenets.
 
 **Tenet 3 (Bidirectional Interaction)**: A Born-rule-preserving corridor position has to explain how single-event selection adds up to a genuine mental-to-physical causal channel without leaving an ensemble signature. This is a known tension, not a dissolved one — arguably the Map's sharpest open question, and the reason minimum-outside-the-corridor readings remain attractive despite their empirical riskiness.
 
-**Tenet 5 (Occam's Razor Has Limits)**: The temptation to treat "the Born rule has held in every test so far" as evidence of universal validity is a case where simplicity is unreliable with incomplete knowledge. The tested regimes are a narrow slice of physical configurations; extrapolation to the brain-internal regime is not parsimony, it is assumption.
+**Tenet 5 (Occam's Razor Has Limits)**: The temptation to treat "the Born rule has held in every test so far" as evidence of universal validity is a case where simplicity is unreliable with incomplete knowledge. The tested regimes are a narrow slice of physical configurations; treating the extrapolation to the brain-internal regime as parsimony disguises an underlying assumption.
 
 The Map's working position is that the empirical question is genuinely open, that the present generation of experiments cannot adjudicate it, and that intellectual honesty requires holding the corridor-vs-minimum-outside-corridor distinction as a live fork rather than a solved problem.
 
