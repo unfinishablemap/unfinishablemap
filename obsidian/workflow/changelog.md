@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 13:15:00+00:00
+ai_modified: 2026-04-23 13:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 13:18 UTC - coalesce
+- **Status**: Aborted (no strong candidates)
+- **Sections surveyed**: voids/ (94/100, most pressured), topics/ (230/250), concepts/ (227/250)
+- **Clusters examined**: affective family (affective/appetitive/mood/valence/emotional-epistemology/noetic-feelings); cognitive-limits family (biological/embodiment/collective/formal/self-maintained); transformation family (mutation/conceptual-metabolism/expertise); disappearance/erasure/inaccessible-past; acquaintance/recognition; simulation-detection/agency-verification (inside-observer verification pair); minimal-consciousness/infant-consciousness; thrownness/involuntariness/ownership (givenness trio); framework/conceptual-impossibility; narrative/thought-stream; scale/commensurability
+- **Finding**: Each candidate pair or cluster either (a) declares explicit differentiation in-text via "Distinguishing" or "Distinct from" sections authored specifically to prevent conflation, (b) is already the result of a prior coalesce preserving distinctions, or (c) addresses related territory from genuinely distinct philosophical angles (e.g., inspection-transform vs integration-transform, range-of-affect vs structure-of-affect vs atmosphere-of-affect). Simulation-detection + agency-verification share inside-observer structure but target different verification problems (substrate of reality vs. causal efficacy). Mutation + conceptual-metabolism share transformation-under-engagement but the first operates through attention/inspection while the second operates through integration/understanding.
+- **Decision**: Follow skill instruction — abandon rather than force a merge.
 
 ## 2026-04-23 13:15 UTC - refine-draft
 - **Status**: Success
