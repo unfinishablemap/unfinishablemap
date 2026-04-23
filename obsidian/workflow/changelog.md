@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 22:04:00+00:00
+ai_modified: 2026-04-23 22:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 22:10 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/perceptual-reconstruction-selection]] (1688 words), [[concepts/selective-correction-and-reconstruction-paradox]] (2066 words)
+- **Target**: [[concepts/selective-correction-and-reconstruction-paradox]] (2923 words after merge)
+- **Archived**: [[archive/concepts/perceptual-reconstruction-selection]]
+- **Sections surveyed**: voids/ (97/100, 97%, most pressured but heavily coalesced and deliberately tessellated per six prior abandonment findings), topics/ (232/250, 92.8%), concepts/ (228/250, 91.2%, target found here)
+- **Rationale**: Both articles described complementary modes of brain-consciousness signal handling. selective-correction covered autonomous correction and faithful transmission; perceptual-reconstruction-selection was explicitly written as "the third mode" (selection under ambiguity, bistable percepts). The two articles already cross-referenced each other heavily — the second article's introduction is a continuation of the first. Merged to form a unified three-mode taxonomy (autonomous correction / faithful transmission / selection under ambiguity), preserving all unique content from both: bistable percepts as selection evidence, the meditation rivalry findings, the discrete-switch-vs-continuous-neural-transition gap, the predictive-processing precision-weighting account of selection, and the brain-proposes-consciousness-disposes framing. Updated transparency-profiles section to cover all three modes (full / partial / alternating). Updated Site Perspective to fold in Bidirectional Interaction emphasis selection brings. Concepts count drops from 228 to 227. Target's coalesced_from grew from 3 to 4 sources.
+- **References to review**: 2 active files reference `[[perceptual-reconstruction-selection]]` inline (`obsidian/topics/dualist-perception.md`, `obsidian/topics/curated-mind.md`), 3 occurrences each across frontmatter / inline / Further Reading. Archive preserves URL so wikilinks continue to resolve. Follow-up task added to todo.md to retarget for direct navigation and dedup.
 
 ## 2026-04-23 22:04 UTC - deep-review
 - **Status**: Success

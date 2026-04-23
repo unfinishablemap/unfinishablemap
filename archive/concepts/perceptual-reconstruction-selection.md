@@ -2,10 +2,15 @@
 title: "Perceptual Reconstruction Selection"
 description: "When the brain generates multiple valid perceptual interpretations, consciousness selects among them—bistable percepts provide direct evidence of selection at the perceptual level."
 created: 2026-03-18
-modified: 2026-03-18
+modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-17T22:05:00+00:00
+ai_modified: 2026-04-23T22:10:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-23T22:10:00+00:00
+superseded_by: "/concepts/selective-correction-and-reconstruction-paradox/"
+archive_reason: "Coalesced into Selective Correction and the Reconstruction Paradox as the third mode (selection under ambiguity) within a unified three-mode taxonomy."
+original_path: "/concepts/perceptual-reconstruction-selection/"
 topics:
   - "[[dualist-perception]]"
   - "[[predictive-processing-and-dualism]]"
