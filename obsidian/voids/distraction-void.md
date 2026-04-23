@@ -4,7 +4,8 @@ description: "Human+AI exploration of the gap between attentional capture and no
 created: 2026-04-23
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T18:14:00+00:00
+ai_modified: 2026-04-23T18:53:00+00:00
+last_deep_review: 2026-04-23T18:53:00+00:00
 draft: false
 topics:
   - "[[attention-and-the-consciousness-interface]]"

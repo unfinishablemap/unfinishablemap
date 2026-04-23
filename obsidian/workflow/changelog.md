@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 18:47:00+00:00
+ai_modified: 2026-04-23 18:53:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 18:53 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/distraction-void]]
+- **Context**: Orphan integration — article had zero inbound links. Focus on cross-reference additions.
+- **Previous review**: Never
+- **Word count**: 2277 → 2277 (0, length-neutral — soft_warning category, 114% of voids/ soft threshold)
+- **Critical issues addressed**: 0 (article is well-constructed; attribution, qualifier preservation, and source/Map separation all pass)
+- **Medium issues addressed**: 1 (orphan status resolved via 7 inbound cross-references)
+- **Enhancements made**: 7 cross-links added from: [[voids/transit-void]], [[topics/phenomenology-of-returning-attention]], [[voids/thought-stream-void]], [[topics/attention-and-the-consciousness-interface]], [[topics/structure-of-attention]], [[voids/agency-verification-void]], and the [[voids/voids|voids index]] (Specific Voids list)
+- **Output**: [[reviews/deep-review-2026-04-23-distraction-void]]
 
 ## 2026-04-23 18:47 UTC - optimistic-review
 - **Status**: Success
