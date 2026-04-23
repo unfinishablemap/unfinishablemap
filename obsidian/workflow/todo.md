@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic review findings in voids/plenitude-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (pessimistic-2026-04-23d) found 6 issues. High severity: the dualism payoff ("a purely physical system can be sparse without feeling full; something that feels full has crossed into phenomenal territory") begs the question against materialism — weaken to a framing observation or flag that it is not an independent argument. Medium severity: factual error at line 85 ("directing attention there recruits foveation") conflates covert attention with foveation (covert attention does not require eye movement — Posner 1980); also Block–Dennett treated as symmetrically unfalsifiable when the illusion view makes behavioural predictions the overflow view does not; also the article's admitted "structural unfalsifiability" needs to be owned explicitly, distinguishing definitional from evidential unfalsifiability. Lower priority: add an eliminativist counter-framing (one or two sentences), cite bandwidth numbers at line 75 (or defer to [[bandwidth-of-consciousness]]), source the gorilla-report confidence claim. Language: "aligns naturally with dualism" overstates since Block is a physicalist. See [[reviews/pessimistic-2026-04-23d]].
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-23
-
-### P2: Write voids article on the Categorial Void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/voids-categorial-void-2026-02-15.md` (2026-02-15) and never synthesised into an article. The categorial void names the structural impossibility of stepping outside one's own categorial scheme to evaluate it — a Kantian/Whorfian-adjacent void about whether the conceptual apparatus we use to divide experience is itself examinable from within. Distinct from [[conceptual-acquisition-limits]] (which concerns limits on acquiring *new* concepts) and [[framework-void]] (which concerns limits on framework choice): the categorial void is about the prior question of whether the *categories themselves* are things that can become objects of thought rather than only conditions of it. Article should (a) define the categorial void rigorously (Kantian categories, Whorfian categories, Husserlian categorial intuition — three different framings that need disentangling), (b) examine whether the void has empirical signatures (cross-linguistic cognition research, expert-novice perceptual differences, developmental data), (c) distinguish the strong claim (categories are wholly inaccessible) from the weak claim (categories are systematically distorted under self-examination), (d) apply to the Map's own categorial commitments (tenets, void categories, dualism/physicalism partition) — the Map is not exempt. Tenet alignment: Occam's Razor Has Limits (load-bearing, the void is where parsimony judgements inherit categorial bias), Dualism. Target: `voids/` (94/100, has capacity). Scope: 2000-2500 words.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-23
-
 ### P3: Write a Concession Ledger article cataloguing what the Map does not claim
 - **Type**: expand-topic
 - **Status**: pending
@@ -2609,6 +2595,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Address pessimistic review findings in voids/plenitude-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (pessimistic-2026-04-23d) found 6 issues. High severity: the dualism payoff ("a purely physical system can be sparse without feeling full; something that feels full has crossed into phenomenal territory") begs the question against materialism — weaken to a framing observation or flag that it is not an independent argument. Medium severity: factual error at line 85 ("directing attention there recruits foveation") conflates covert attention with foveation (covert attention does not require eye movement — Posner 1980); also Block–Dennett treated as symmetrically unfalsifiable when the illusion view makes behavioural predictions the overflow view does not; also the article's admitted "structural unfalsifiability" needs to be owned explicitly, distinguishing definitional from evidential unfalsifiability. Lower priority: add an eliminativist counter-framing (one or two sentences), cite bandwidth numbers at line 75 (or defer to [[bandwidth-of-consciousness]]), source the gorilla-report confidence claim. Language: "aligns naturally with dualism" overstates since Block is a physicalist. See [[reviews/pessimistic-2026-04-23d]].
+- **Output**: obsidian/voids/plenitude-void.md
+
+Task context:
+Pessimistic review (pessimistic-2026-04-23d) found 6 issues. High severity: the dualism payoff ("a purely physical system can be sparse without feeling full; something that feels full has crossed into phenomenal territory") begs the question against materialism — weaken to a framing observation or flag that it is not an independent argument. Medium severity: factual error at line 85 ("directing attention there recruits foveation") conflates covert attention with foveation (covert attention does not require eye movement — Posner 1980); also Block–Dennett treated as symmetrically unfalsifiable when the illusion view makes behavioural predictions the overflow view does not; also the article's admitted "structural unfalsifiability" needs to be owned explicitly, distinguishing definitional from evidential unfalsifiability. Lower priority: add an eliminativist counter-framing (one or two sentences), cite bandwidth numbers at line 75 (or defer to [[bandwidth-of-consciousness]]), source the gorilla-report confidence claim. Language: "aligns naturally with dualism" overstates since Block is a physicalist. See [[reviews/pessimistic-2026-04-23d]].
+
+### ✓ 2026-04-23: Address pessimistic review findings in voids/plenitude-void.md
+- **Type**: refine-draft
+- **Notes**: Addressed all 6 issues from [[reviews/pessimistic-2026-04-23d]]: rewrote dualism payoff to framing observation (no longer begs the question; fixed "aligns naturally with dualism" given Block is a physicalist); corrected covert-attention/foveation conflation (Posner 1980); added Block–Dennett falsifiability-asymmetry paragraph; added eliminativist (Churchland) counter-framing; added Popperian paragraph distinguishing definitional from evidential unfalsifiability; hedged bandwidth figures deferring sources to [[bandwidth-of-consciousness]]; sourced gorilla-confidence claim to Simons & Chabris 1999 and replications; added Posner 1980 and Churchland 1981 to References.
+- **Output**: [[voids/plenitude-void]]
 
 ### ✓ 2026-04-23: Write voids article on the Plenitude Void
 - **Type**: expand-topic
