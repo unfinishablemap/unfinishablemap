@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 17:50:00+00:00
+ai_modified: 2026-04-23 17:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 17:55 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-structure-of-scientific-revolutions]]
+- **Context**: Cross-review considering [[born-rule-violation-brain-interface-empirical-status]] insights
+- **Word count**: 1951 → 1988 (+37, 66% of 3000 soft threshold — normal mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (narrow MQI characterisation replaced with three-way taxonomy; missing cross-link to empirical-status article added)
+- **Enhancements made**: 1 (corridor / minimum-outside-the-corridor / trumping fork surfaced in "Why No Revolution Has Occurred" with wikilink)
+- **Output**: [[reviews/deep-review-2026-04-23-consciousness-and-the-structure-of-scientific-revolutions]]
 
 ## 2026-04-23 17:50 UTC - deep-review
 - **Status**: Success

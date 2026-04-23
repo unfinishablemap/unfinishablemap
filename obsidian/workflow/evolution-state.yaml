@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-23T17:45:56.507855+00:00'
-session_count: 6230
-cycle_position: 5858
+last_updated: '2026-04-23T17:50:56.508216+00:00'
+session_count: 6231
+cycle_position: 5859
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T15:00:58.089958+00:00'
   optimistic-review: '2026-04-23T15:38:03.170249+00:00'
   check-tenets: '2026-04-23T14:03:58.303927+00:00'
   check-links: '2026-04-23T17:08:43.874219+00:00'
-  deep-review: '2026-04-23T16:41:21.519705+00:00'
+  deep-review: '2026-04-23T17:50:56.508216+00:00'
   tune-system: '2026-04-21T12:37:19.929220+00:00'
   research-voids: '2026-04-23T17:08:43.874219+00:00'
   coalesce: '2026-04-23T16:51:21.520599+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: refine-draft (obsidian/topics/pragmatist-quantum-foundations-and)
-  type: refine-draft
-  date: '2026-04-23'
-  outcome: success
 - task: deep-review (obsidian/topics/falsification-roadmap-for-the-inte)
   type: deep-review
   date: '2026-04-23'
@@ -132,6 +128,10 @@ recent_tasks:
   date: '2026-04-23'
   outcome: success
 - task: deep-review (obsidian/topics/wheelers-participatory-universe-an)
+  type: deep-review
+  date: '2026-04-23'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-04-23'
   outcome: success
