@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22T23:39:00+00:00
+ai_modified: 2026-04-23T00:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,64 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P0: Research whether Born-rule-violating consciousness-physics interaction is empirically live at the brain interface
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: The Born rule uniqueness result (Masanes, Galley, Müller 2019), the inner-product-from-no-signalling result (Pati 2026), and Sorkin's third-order interference bound (1994) are all *conditional* on the standard QM postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness) and have been *empirically* tested only in photon/atom/superconductor/triple-slit systems. None of these tests probes what happens inside a living brain *during a conscious act of selection*, which is precisely the regime the Map's interface programme targets. If Born-violating behaviour happens only there, we would not have measured it.
+
+    This research task should scope the literature and empirical state of play on:
+    (1) Whether there are any published *direct* tests of the Born rule or no-signalling in neural tissue during conscious measurement-like events (there almost certainly are not, but confirm and cite the absence).
+    (2) Triple-slit / third-order interference bounds: Sinha et al. (2010) and any follow-ups. What is the tightest empirical bound on third-order interference, in what systems, and what would it take to probe this inside a brain or in a neurally-coupled quantum system?
+    (3) Generalised probabilistic theories (GPTs) and alternative probability rules (Aaronson on p=|ψ|^k, etc.) — what would a non-Born rule *look like* at the level of observable statistics, and could such a deviation be localised to brain-internal measurements without leaving an observable signature in brain→muscle→light output?
+    (4) The "minimal quantum interaction" tenet does NOT require us to stay at or below the Born-compliant corridor — it requires the *smallest interaction necessary to cause the effect*. If Born-violating influence is what is actually required to produce the correlation between conscious intention and physical outcome, then the minimum may lie *outside* the corridor. The research should clarify which consciousness-collapse theorists (if any) have explicitly argued this; candidates to check include Stapp's later writings, Penrose-Hameroff on OR as a *modification* of standard QM rather than selection within it, Chalmers-McQueen on super-resistance (does their Φ-dependent collapse technically preserve Born statistics at the ensemble level or not?), and GRW/CSL parameter-tuning arguments.
+    (5) The interpretive-asymmetry point (Tonetto): why consciousness-involving interpretations are held to a higher burden than hidden-variable or many-worlds interpretations even when all three are empirically equivalent *in tested regimes*. Extend this: the same asymmetry may be operating in how we treat the Born corridor as "settled physics" vs "an open empirical question in untested regimes".
+    (6) Reverse case: what positive reasons (if any) exist to expect the brain to be a regime where the QM postulates fail. Russellian monism, Penrose's OR, any argument that gravitational or consciousness-mediated deviations should appear at thresholds that happen to coincide with neural scales.
+    (7) Testability: if Born-violating brain-internal physics is the hypothesis, what experiment *would* it predict? Interface energy flows, statistics of decision outcomes under specific stimulus protocols, anomalies in brain-connected quantum systems (Nelson's PEAR-style experiments, Radin's double-slit observation studies — note these are controversial).
+
+    Output: research notes file in `obsidian/research/` covering the above, with citations. This feeds into the refine-draft task on `topics/mathematical-structure-of-the-consciousness-physics-interface.md`.
+
+- **Source**: human (2026-04-23, conversation about overreach in Born Rule Uniqueness section)
+- **Generated**: 2026-04-23
+
+### P1: Refine topics/mathematical-structure-of-the-consciousness-physics-interface.md to concede the conditionality of the Born-rule corridor and acknowledge that Born-violating brain-internal interaction may be where the minimum-necessary interaction actually lies
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: The article currently overreaches in the Born Rule Uniqueness subsection and, to a lesser extent, in the Inner Product Uniqueness and Second-Order Interference subsections. Specifically, the sentence "Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins" claims that mathematics rules out empirical possibilities in untested regimes. This is stronger than the Masanes-Galley-Müller theorem supports. The theorem is *conditional*: given the four postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness), the Born rule is unique. The theorem cannot legislate which postulates physical reality satisfies in regimes where we have not measured.
+
+    **What has actually been tested.** Born rule, inner product, and third-order interference bounds have been confirmed in photon experiments, atomic systems, superconducting qubits, triple-slit interferometry. None of these are brain-internal during a conscious selection event. If consciousness-mediated Born violation occurs only there, we have no empirical reason to expect our existing datasets to show it. The article silently treats "tested everywhere we could test" as "tested everywhere, full stop". That move should be made explicit and retracted.
+
+    **Why this matters for the Map's own tenets.** The Minimal Quantum Interaction tenet says: the smallest interaction *necessary to cause the effect*. It does not say "stay at or below the Born-compliant corridor regardless". If Born-preserving selection is insufficient to produce the observed correlation between conscious intention and physical outcome, then the minimum required interaction may lie *outside* the corridor — Born-violating brain-internal physics may be what MQI actually selects. The article's current framing treats the corridor as a ceiling that MQI is comfortable underneath; it should be rewritten to treat the corridor as a *hypothesis about where the minimum lies* that is consistent with current evidence but not mathematically compulsory.
+
+    **Concrete revision asks (be thorough, prefer clarification over deletion):**
+
+    1. **Rewrite the closing sentence of the Born Rule Uniqueness subsection.** Current: "Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins." Replace with something like: "Within the regime where the four Masanes-Galley-Müller postulates hold, any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out. That regime includes every physical system where the Born rule has been tested, but it has not been directly tested inside a living brain during a conscious selection event. The uniqueness result is a *conditional* constraint: if consciousness-physics interaction happens precisely where one of the postulates fails (for instance, where 'measurement uniqueness' breaks because a conscious observer is the measuring apparatus, or where compositional neutrality fails because E × P coupling is active), the derivation does not apply there. Mathematics constrains models that satisfy its premises; it cannot legislate which premises physical reality satisfies in untested regimes."
+
+    2. **Add a short paragraph distinguishing two Map-compatible positions:**
+       - (a) *Corridor dualism*: the Map's working hypothesis — consciousness selects within the Born-compliant corridor. This is the most conservative position and cleanly satisfies MQI if corridor-compliant selection is sufficient.
+       - (b) *Minimum-outside-the-corridor dualism*: if corridor-compliant selection turns out to be insufficient to produce the observed correlation between conscious intention and outcome, MQI would *require* moving outside the corridor, because the tenet demands the minimum interaction *necessary*, not the minimum that is mathematically neat. The Map's programme remains coherent under this scenario; the corridor becomes a provisional scope rather than a binding constraint.
+
+    3. **Apply the same conditionality qualifier to the Inner Product Uniqueness and Second-Order Interference subsections.** Pati's result is conditional on no-signalling being exactly preserved; Sorkin's bound is empirically strong but has been tested only in optical/atomic systems. Both should be flagged as tested-in-physics-but-not-in-neural-tissue.
+
+    4. **Revise the "Corridor Defined" subsection** to describe the corridor as "the corridor that applies wherever standard QM postulates are satisfied" rather than as an unrestricted mathematical inevitability. Keep the substantive content — the corridor's shape, what it permits consciousness to do within it — intact.
+
+    5. **Add a brief counter-consideration the Map will want to make** (the steel-man for the original framing): there is no positive reason to expect QM postulates to fail inside brains specifically. Brains are warm, wet, made of ordinary atoms; neural processes we *can* measure obey standard QM. The prior on "QM works differently inside skulls" is low absent a mechanism. If Born-violating behaviour occurred only in brains, it would need to interface with non-brain physics (muscles, light, sound, subsequent measurements) without leaving a detectable signature — a tall order. This steel-man should be stated, and then the article should note that the Map does not presently commit to Born violation but also does not rule it out on mathematical grounds alone; the question is empirical.
+
+    6. **Strengthen the Map's own position by making the concession explicit.** The revised article should say: the Map voluntarily works inside the Born-compliant corridor as its default working hypothesis (because it is the most conservative MQI-respecting stance consistent with current evidence), not because the mathematics forbids working outside it. This *strengthens* the Map: it clarifies that the corridor is a design choice responsive to the evidence rather than a mathematical straitjacket.
+
+    7. **Update the Minimal Quantum Interaction tenet-section** at the end of the article to reflect the new framing: MQI is satisfied by the smallest interaction *necessary to cause the effect*, and where that minimum lies is ultimately an empirical question. If the minimum turns out to be outside the corridor, MQI would sanction moving there.
+
+    8. **Cross-link to new research.** Once the P0 research task completes and deposits notes in `research/`, cite the research note. Candidate concept cross-links to add or strengthen: `[[tenets#^minimal-quantum-interaction]]`, `[[born-rule-and-the-consciousness-interface]]`, `[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]`, `[[psychophysical-laws]]`, and any new concept that may arise from the research (e.g., if a "minimum-outside-the-corridor dualism" concept gets its own article).
+
+    9. **Watch for downstream inconsistencies.** `concepts/born-rule-and-the-consciousness-interface.md` makes similar arguments and may need a parallel concession. Flag any needed cross-review in the task notes if the refine surfaces inconsistencies.
+
+    10. **Tone.** The revision should be confident, not apologetic. Presenting the corridor as conditional strengthens rather than weakens the Map's case — it shows the framework is responsive to evidence and has room to grow if evidence demands. Avoid the "this is not X, it is Y" construct (see CLAUDE.md writing style).
+
+    **Background conversation (for the executing agent):** The human flagged that the original section reasons from theory to reality — the Born rule is obeyed everywhere we have tested, so the reasoning claims it must be obeyed everywhere full stop. But we have not tested inside brains during conscious selection. If Born-violating behaviour is localised to that regime, we would not have seen it. The human further clarified that MQI does not suggest going *below* the minimum interaction necessary to cause the effect; if the minimum requires Born violation, then that is what MQI selects, and the Map's corridor framing should not pretend otherwise.
+
+- **Source**: human (2026-04-23, conversation about Born Rule Uniqueness section overreach)
+- **Depends on**: P0 research task above (ideally executed after research notes land)
+- **Generated**: 2026-04-23
 
 ### P2: Update wikilinks to archived whether-real.md
 - **Type**: refine-draft
