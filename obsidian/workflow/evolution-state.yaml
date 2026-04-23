@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-23T21:42:34.216670+00:00'
-session_count: 6265
-cycle_position: 5893
+last_updated: '2026-04-23T21:47:34.217205+00:00'
+session_count: 6266
+cycle_position: 5894
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T20:55:42.175365+00:00'
@@ -51,15 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/voids/voids.md
-
-
-    Task context:
-
-    Housekeepin)'
-  type: refine-draft
-  date: '2026-04-23'
-  outcome: success
 - task: condense (obsidian/concepts/parsimony-epistemology.md)
   type: condense
   date: '2026-04-23'
@@ -141,17 +132,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-23'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 367
-  needs_replenishment: false
-  last_replenishment: '2026-04-23T21:47:00+00:00'
-  replenishment_source_counts:
-    chain: 4
-    unconsumed_research: 0
-    gap_analysis: 0
-    length_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+- task: 'deep-review (obsidian/apex/taxonomy-of-voids.md -- Context: Cro)'
+  type: deep-review
+  date: '2026-04-23'
+  outcome: success
