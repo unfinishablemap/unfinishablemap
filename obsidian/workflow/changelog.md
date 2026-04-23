@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 16:46:00+00:00
+ai_modified: 2026-04-23 16:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 16:51 UTC - coalesce
+- **Status**: Aborted (no strong candidates)
+- **Sections surveyed**: voids/ (94/100, 94%, most pressured), topics/ (232/250, 92.8%), concepts/ (228/250, 91.2%)
+- **Candidates examined in voids/**: (1) affective-void + mood-void + valence-void — explicitly distinguished as range/pervasiveness/structure problems within a deliberately tripartite affect treatment; (2) emotional-epistemology-void + noetic-feelings-void — emotion-as-disclosure vs felt cognitive control gates, distinct phenomena; (3) cognitive-limits cluster (biological / embodiment / collective / formal / self-maintained / closure-types) — each captures a different source of cognitive limit (evolutionary, body, group, mathematical, complicity, representational/psychological); three already coalesced from prior pairs; (4) appetitive-void vs affective-void — desire as cognitive structure vs feelings beyond reach.
+- **Candidates examined in concepts/**: (1) types-of-ai-phenomenal-experience + ai-consciousness-modes + ai-epiphenomenalism — six logical categories vs Tulving hierarchy vs specific epiphenomenal scenario; cross-reference but distinct frameworks; (2) consciousness-bandwidth-architecture + bandwidth-of-consciousness — strongest overlap candidate; same data and same tenet relations, but the concept uniquely contributes the "Specification Challenge" tripartite framing (capacity/grain/format) and the "Format Translation Problem" as a focused interactionist-dualism challenge; topic-vs-concept architectural convention preserved; (3) interface-friction + interface-heterogeneity + brain-interface-boundary — different interface dimensions (cost / diversity / location); (4) consciousness-and-creativity + phenomenology-of-creative-insight — philosophical synthesis vs experiential phases; (5) cross-cultural-convergence-on-mental-causation + cross-traditional-convergence-on-consciousness-irreducibility — convergence on causal efficacy vs ontological irreducibility, two parallel patterns.
+- **Candidates examined in topics/**: (1) the-interface-location-problem + the-interface-specification-problem — declared logically independent (where vs how); (2) born-rule-and-the-consciousness-interface + born-rule-violation-brain-interface-empirical-status — theoretical/abductive vs empirical/operational; (3) phenomenology-of-cognitive-capacity + phenomenology-of-cognitive-limit-types — saturation/automatisation vs limit-type signatures.
+- **Finding**: Pattern matches both 2026-04-23 13:18 UTC and 2026-04-23 16:21 UTC abandonment findings. The Map's catalogue is deliberately tessellated, with explicit cross-reference conventions distinguishing related territory. Five iterations exhausted without locating a candidate where merging would not destroy useful conceptual differentiation.
+- **Decision**: Follow skill instruction — abandon rather than force a merge.
 
 ## 2026-04-23 16:46 UTC - deep-review
 - **Status**: Success
