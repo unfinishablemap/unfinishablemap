@@ -4,7 +4,7 @@ description: "The positive-negative dimension of experience—why pain feels bad
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-15T12:50:00+00:00
+ai_modified: 2026-04-23T13:10:00+00:00
 draft: false
 topics:
   - "[[emotion-and-dualism]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-19T09:50:00+00:00
+last_deep_review: 2026-04-23T13:10:00+00:00
 ---
 
 Valence is the positive-negative dimension of conscious experience—the felt goodness of pleasure and the felt badness of pain. It is not a judgment, a representation, or a functional state, but an intrinsic phenomenal property: the badness of pain is a feature of the experience itself, not something the experience is *about*. The Unfinishable Map holds that valence is irreducible to physical description, that it does genuine causal work in motivating behavior, and that it grounds the moral significance of conscious beings.
@@ -94,8 +94,7 @@ The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet co
 - [[valence-void]] — Why the evaluative dimension of experience resists all explanation
 - [[valence-and-conscious-selection]] — Whether valence participates directly in selection and how it may function as the common metric
 - [[pain-consciousness-and-causal-power]] — Pain, suffering, and the inseparability of phenomenal character and causal power
-- [[evaluative-phenomenal-character|normative phenomenology]] — How phenomenal properties ground normative claims
-- [[evaluative-phenomenal-character|evaluative qualia]] — The broader category of evaluative phenomenal experience beyond hedonic valence
+- [[evaluative-phenomenal-character]] — The broader category of intrinsic evaluative character that grounds both normative claims and evaluative experience beyond hedonic valence
 
 ## References
 
