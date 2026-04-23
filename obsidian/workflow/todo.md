@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the Epistemic Horizon Void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/voids-epistemic-horizon-void-2026-03-06.md` (2026-03-06) and never synthesised into an article. The epistemic horizon void concerns the boundary of what any cognitive agent — including a properly-scaffolded Map of consciousness — can know about its own cognitive limits from the inside. Distinct from the [[meta-epistemology-of-limits]] void (which treats the general epistemology of cognitive-limit claims) and from [[topology-of-cognitive-failure]] (which classifies failure kinds): the horizon void is about the structural feature that any map of what-cannot-be-known is itself produced from within the limited system and therefore inherits its occlusions. The research note explicitly cross-links to meta-epistemology-of-limits, topology-of-cognitive-failure, and convergence-as-evidence as its neighbours. Article should (a) define the horizon as a second-order void distinct from first-order opacity, (b) distinguish the horizon claim from global scepticism — the horizon is local and structured, not a blanket "we cannot know anything," (c) apply the horizon to the Map's own programme: does the Map's own catalogue of voids inherit a horizon? (d) tenet alignment primarily Occam's Razor Has Limits, secondarily Dualism. Target: `voids/` (currently 94/100, has capacity). Scope: 2000-2500 words.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-23
-
 ### P2: Write voids article on the Plenitude Void
 - **Type**: expand-topic
 - **Status**: pending
@@ -2616,6 +2609,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Write voids article on the Epistemic Horizon Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-epistemic-horizon-void-2026-03-06.md` (2026-03-06) and never synthesised into an article. The epistemic horizon void concerns the boundary of what any cognitive agent — including a properly-scaffolded Map of consciousness — can know about its own cognitive limits from the inside. Distinct from the [[meta-epistemology-of-limits]] void (which treats the general epistemology of cognitive-limit claims) and from [[topology-of-cognitive-failure]] (which classifies failure kinds): the horizon void is about the structural feature that any map of what-cannot-be-known is itself produced from within the limited system and therefore inherits its occlusions. The research note explicitly cross-links to meta-epistemology-of-limits, topology-of-cognitive-failure, and convergence-as-evidence as its neighbours. Article should (a) define the horizon as a second-order void distinct from first-order opacity, (b) distinguish the horizon claim from global scepticism — the horizon is local and structured, not a blanket "we cannot know anything," (c) apply the horizon to the Map's own programme: does the Map's own catalogue of voids inherit a horizon? (d) tenet alignment primarily Occam's Razor Has Limits, secondarily Dualism. Target: `voids/` (currently 94/100, has capacity). Scope: 2000-2500 words.
+- **Output**: Write voids article on the Epistemic Horizon Void
 
 ### ✓ 2026-04-23: Cross-review voids/thought-stream-void.md considering distraction-void insights
 - **Type**: cross-review

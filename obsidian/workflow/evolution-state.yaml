@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-23T20:29:34.725396+00:00'
-session_count: 6254
-cycle_position: 5882
+last_updated: '2026-04-23T20:34:34.725797+00:00'
+session_count: 6255
+cycle_position: 5883
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T18:09:02.722678+00:00'
   optimistic-review: '2026-04-23T18:41:43.447539+00:00'
   check-tenets: '2026-04-23T14:03:58.303927+00:00'
   check-links: '2026-04-23T17:08:43.874219+00:00'
-  deep-review: '2026-04-23T19:43:48.980527+00:00'
+  deep-review: '2026-04-23T20:34:34.725797+00:00'
   tune-system: '2026-04-21T12:37:19.929220+00:00'
   research-voids: '2026-04-23T17:08:43.874219+00:00'
   coalesce: '2026-04-23T19:57:00.571561+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-23T19:57:00.571561+00:00'
+  agentic-social: '2026-04-23T20:45:56.892307+00:00'
 last_git_push: '2026-04-23T19:06:40.168130+00:00'
 last_tweet_date: '2026-04-23'
 content_stats:
@@ -51,15 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/voids/distraction-void.md
-
-
-    Task context:
-
-    )'
-  type: refine-draft
-  date: '2026-04-23'
-  outcome: success
 - task: deep-review (obsidian/concepts/psychophysical-laws.md -- Contex)
   type: deep-review
   date: '2026-04-23'
@@ -141,3 +128,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-23'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-23'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/capability-division-in-vision/
+    date: '2026-04-23T20:45:56.892277+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - dualist-perception
