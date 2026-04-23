@@ -2,10 +2,10 @@
 title: "The Transit Void"
 description: "Consciousness cannot witness its own crossings—neither the onset of a mental act nor the transition between states. Watching prevents crossing; crossing prevents watching."
 created: 2026-03-05
-modified: 2026-04-17
+modified: 2026-04-23
 human_modified: null
-ai_modified: 2026-04-17T21:33:00+00:00
-last_deep_review: 2026-04-17T21:33:00+00:00
+ai_modified: 2026-04-23T19:12:00+00:00
+last_deep_review: 2026-04-23T19:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,7 @@ related_articles:
   - "[[consciousness-and-skill-acquisition]]"
   - "[[agency-verification-void]]"
   - "[[spontaneous-thought-void]]"
+  - "[[distraction-void]]"
   - "[[necessary-opacity]]"
   - "[[self-opacity]]"
   - "[[imagination-and-creativity-void]]"
@@ -177,6 +178,7 @@ The transit void sits within a family of closely related voids. The [[agency-ver
 - [[inaccessible-past]] — Why past conscious states can only be reconstructed, not accessed
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[phenomenology-of-returning-attention]] — Micro-structure of attention shifts, where departure is never witnessed
+- [[distraction-void]] — The attentional analogue: ERP timing and probe-caught mind-wandering give third-person traction on a first-person dark transit
 - [[temporal-consciousness]] — Husserl's retention-protention structure
 - [[necessary-opacity]] — The broader principle that consciousness must hide aspects of itself from itself
 - [[agency-verification-void]] — Whether consciousness can confirm its own causal powers

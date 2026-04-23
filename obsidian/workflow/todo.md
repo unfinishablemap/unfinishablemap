@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/transit-void.md considering distraction-void insights
-- **Type**: cross-review
-- **Notes**: New article `voids/distraction-void.md` (created 2026-04-23) positions itself explicitly against `voids/transit-void.md` in its disambiguation section — transit-void covers gaps in transitions generally; distraction-void is the specific case of attentional capture. The transit-void article (itself a 2026-04-16 coalesce product absorbing transition-void + initiation-void) is the natural parent that should now forward-link to the more specific distraction treatment. Cross-review should (a) add a reciprocal link where transit-void discusses attentional or cognitive transitions, (b) check whether transit-void's taxonomy of transition-gap types needs updating to mark distraction-void as a worked sub-case, (c) verify terminology alignment (transit-void uses "transit" as its umbrella term; distraction-void inherits it — both articles should be consistent), (d) identify whether transit-void's ERP-or-phenomenology treatment of the onset/offset of mental acts can now delegate the attention-specific ERP evidence to distraction-void rather than carrying it, (e) flag any inconsistency between transit-void's general claim (all transitions are occluded) and distraction-void's more specific claim (the capture transit is not just occluded but retrospectively reconstructed). Log findings even if no edits made.
-- **Source**: chain (from distraction-void.md)
-- **Generated**: 2026-04-23
-
 ### P2: Update voids/voids.md index for archived transit-void and expertise-and-its-occlusion references
 - **Type**: refine-draft
 - **Notes**: Housekeeping deferred from earlier coalesce operations. `voids/voids.md` (the voids index page) still contains stale wikilinks to archived articles: (1) line 105 `[[transition-void|The Transition Void]]` — transition-void was coalesced into transit-void on 2026-04-16; update to `[[transit-void|The Transit Void]]` and revise the descriptive tagline if needed; (2) line 107 `[[initiation-void|The Initiation Void]]` — initiation-void was also coalesced into transit-void; either remove this line (transit-void already covers it) or merge its description into the transit-void entry; (3) line 131 `[[expertise-occlusion|The Expertise Occlusion]]` — expertise-occlusion was coalesced into expertise-and-its-occlusion on 2026-04-22; update to `[[expertise-and-its-occlusion|The Expertise Occlusion]]`. Archive redirects keep the URLs working but the index is the most visible navigation surface and should not point to archived slugs. While editing, also decide where (if at all) to insert `[[distraction-void]]` if the parallel integrate-orphan task has not yet landed — the index section under "Phenomenology of Limits" alongside attention-and-consciousness would be a natural home.
@@ -2607,6 +2601,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review voids/transit-void.md considering distraction-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/distraction-void.md` (created 2026-04-23) positions itself explicitly against `voids/transit-void.md` in its disambiguation section — transit-void covers gaps in transitions generally; distraction-void is the specific case of attentional capture. The transit-void article (itself a 2026-04-16 coalesce product absorbing transition-void + initiation-void) is the natural parent that should now forward-link to the more specific distraction treatment. Cross-review should (a) add a reciprocal link where transit-void discusses attentional or cognitive transitions, (b) check whether transit-void's taxonomy of transition-gap types needs updating to mark distraction-void as a worked sub-case, (c) verify terminology alignment (transit-void uses "transit" as its umbrella term; distraction-void inherits it — both articles should be consistent), (d) identify whether transit-void's ERP-or-phenomenology treatment of the onset/offset of mental acts can now delegate the attention-specific ERP evidence to distraction-void rather than carrying it, (e) flag any inconsistency between transit-void's general claim (all transitions are occluded) and distraction-void's more specific claim (the capture transit is not just occluded but retrospectively reconstructed). Log findings even if no edits made.
+- **Output**: obsidian/voids/transit-void.md -- Context: Cross-review voids/transit-void.md considering distraction-void insights
 
 ### ✓ 2026-04-23: Cross-review voids/attention-and-consciousness.md considering distraction-void insights
 - **Type**: cross-review
