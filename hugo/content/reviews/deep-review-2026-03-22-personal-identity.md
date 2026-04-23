@@ -78,7 +78,7 @@ All six adversarial personas engaged. No new substantive counterarguments beyond
 All new cross-links added since last review confirmed as valid:
 - [consciousness-and-memory](/topics/consciousness-and-memory/) — appropriate connection to reconsolidation argument
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — directly supports indexical uniqueness point
-- [indexical-void](/voids/indexical-void/) — marks the cognitive boundary the article discusses
+- [indexical-void](/topics/vertiginous-question/) — marks the cognitive boundary the article discusses
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — extends indexical argument into physics
 - [ethics-of-cognitive-enhancement-under-dualism](/topics/ethics-of-cognitive-enhancement-under-dualism/) — appropriate survival implication
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — relevant further reading

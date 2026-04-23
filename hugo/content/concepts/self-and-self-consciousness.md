@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -45,10 +45,9 @@ related_articles:
 - '[[ownership-void]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[eastern-philosophy-consciousness]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 - '[[cognitive-integration-and-the-self]]'
 - '[[consciousness-and-memory]]'
-- '[[phenomenology-of-recursive-self-awareness]]'
 title: Self and Self-Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-15
-**Article**: [The Indexical Void](/voids/indexical-void/)
+**Article**: [The Indexical Void](/topics/vertiginous-question/)
 **Previous review**: [2026-04-09](/reviews/deep-review-2026-04-09-indexical-void/)
 
 ## Pessimistic Analysis Summary
@@ -49,25 +49,25 @@ No new counterarguments beyond those already addressed in prior reviews. The bed
 
 ### Enhancements Made
 
-**Cross-links added FROM [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) TO [indexical-void](/voids/indexical-void/):**
+**Cross-links added FROM [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) TO [indexical-void](/topics/vertiginous-question/):**
 - Added body text sentence in "Integration and Indexical Identity" section connecting cognitive integration to the indexical void as a limit integration approaches but cannot cross
 - Added to related_articles
 - Added to Further Reading
 
-**Cross-links added FROM [measurement-problem](/concepts/measurement-problem/) TO [indexical-void](/voids/indexical-void/):**
+**Cross-links added FROM [measurement-problem](/concepts/measurement-problem/) TO [indexical-void](/topics/vertiginous-question/):**
 - Added body text sentence in "The Indexical Dimension" section naming the indexical void as the general form of the "why am I this one?" question
 - Added to related_articles
 - Added to Further Reading
 
-**Cross-links added FROM [qbism](/concepts/qbism/) TO [indexical-void](/voids/indexical-void/):**
+**Cross-links added FROM [qbism](/concepts/qbism/) TO [indexical-void](/topics/vertiginous-question/):**
 - Added inline reference alongside existing haecceity link in MWI comparison section
 - Added to related_articles
 - Added to Further Reading
 
 ### Cross-links Added
-- [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) → [indexical-void](/voids/indexical-void/) (body text, related_articles, Further Reading)
-- [measurement-problem](/concepts/measurement-problem/) → [indexical-void](/voids/indexical-void/) (body text, related_articles, Further Reading)
-- [qbism](/concepts/qbism/) → [indexical-void](/voids/indexical-void/) (body text, related_articles, Further Reading)
+- [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) → [indexical-void](/topics/vertiginous-question/) (body text, related_articles, Further Reading)
+- [measurement-problem](/concepts/measurement-problem/) → [indexical-void](/topics/vertiginous-question/) (body text, related_articles, Further Reading)
+- [qbism](/concepts/qbism/) → [indexical-void](/topics/vertiginous-question/) (body text, related_articles, Further Reading)
 
 ## Remaining Items
 

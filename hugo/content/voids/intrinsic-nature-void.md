@@ -138,6 +138,7 @@ The void would be undermined if: (1) physics reveals non-relational, non-structu
 - [self-reference paradox](/voids/self-opacity/) — Why consciousness cannot fully examine itself
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own contribution
 - [binding-void](/voids/binding-void/) — Why phenomenal unity resists explanation
+- [The Categorial Void](/voids/categorial-void/) — A complementary axis of ignorance: the intrinsic nature void concerns unknown *content* behind known structure, while the categorial void concerns a missing *shape* any concept of that content would have to take. The two voids compound if matter's intrinsic nature requires a categorial schema our apparatus cannot produce.
 
 ## References
 

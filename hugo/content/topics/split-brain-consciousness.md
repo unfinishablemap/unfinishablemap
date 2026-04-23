@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-17 13:11:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -142,7 +142,7 @@ The cases pose genuine puzzles for [personal identity](/topics/personal-identity
 
 Philosopher Elizabeth Schechter proposes both are correct: two minds in one sense, one person in another.
 
-If consciousness can exhibit this kind of partial division, what individuates subjects over time? The [individuation question](/topics/consciousness-and-the-metaphysics-of-individuation/) becomes especially acute, and the [indexical-void](/voids/indexical-void/) — the inability to explain why *this* consciousness is *this one* — intensifies when division creates ambiguity about which continuation is "me." Standard answers struggle:
+If consciousness can exhibit this kind of partial division, what individuates subjects over time? The [individuation question](/topics/consciousness-and-the-metaphysics-of-individuation/) becomes especially acute, and the [vertiginous-question](/topics/vertiginous-question/) — the inability to explain why *this* consciousness is *this one* — intensifies when division creates ambiguity about which continuation is "me." Standard answers struggle:
 
 - **Psychological continuity** assumes continuous streams — but which stream?
 - **Biological continuity** identifies the person with the body — but the brain is divided
@@ -235,7 +235,7 @@ The indeterminacy itself may be a clue to what consciousness is.
 - [binding-problem](/concepts/binding-problem/) — How distributed processes combine into unified experience
 - [personal-identity](/topics/personal-identity/) — What makes you *you* across time
 - [haecceity](/concepts/haecceity/) — The "thisness" that individuates subjects
-- [indexical-void](/voids/indexical-void/) — The cognitive boundary where first-person identity resists explanation
+- [vertiginous-question](/topics/vertiginous-question/) — The cognitive boundary where first-person identity resists explanation
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness selects among neural possibilities
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why physical explanation seems to leave consciousness unexplained
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — What neuroscience reveals about consciousness

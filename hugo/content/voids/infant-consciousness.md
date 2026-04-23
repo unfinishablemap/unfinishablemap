@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ related_articles:
 - '[[inaccessible-past]]'
 - '[[biological-cognitive-closure]]'
 - '[[voids-between-minds]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 - '[[transition-void]]'
 - '[[synesthetic-void]]'
 - '[[three-kinds-of-void]]'
@@ -109,7 +109,7 @@ The infant consciousness void connects to all five of the Map's [tenets](/tenets
 - [voids-between-minds](/voids/voids-between-minds/)
 - [synesthetic-void](/voids/synesthetic-void/)
 - [transition-void](/voids/transit-void/)
-- [indexical-void](/voids/indexical-void/)
+- [vertiginous-question](/topics/vertiginous-question/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [consciousness threshold in cognitive evolution](/topics/consciousness-and-cognitive-distinctiveness/) — The cross-species analogue: evolutionary phase transitions in how consciousness interfaces with neural architecture
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Infant consciousness as a paradigm case of superadditive cognitive closure

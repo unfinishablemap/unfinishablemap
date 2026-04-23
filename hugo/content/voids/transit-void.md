@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-17 21:33:00+00:00
+ai_modified: 2026-04-23 19:12:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -15,14 +15,14 @@ concepts:
 - '[[agent-causation]]'
 - '[[dualism]]'
 created: 2026-03-05
-date: &id001 2026-04-17
+date: &id001 2026-04-23
 description: Consciousness cannot witness its own crossings—neither the onset of a
   mental act nor the transition between states. Watching prevents crossing; crossing
   prevents watching.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 21:33:00+00:00
+last_deep_review: 2026-04-23 19:12:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -37,6 +37,7 @@ related_articles:
 - '[[consciousness-and-skill-acquisition]]'
 - '[[agency-verification-void]]'
 - '[[spontaneous-thought-void]]'
+- '[[distraction-void]]'
 - '[[necessary-opacity]]'
 - '[[self-opacity]]'
 - '[[imagination-and-creativity-void]]'
@@ -180,6 +181,7 @@ The transit void sits within a family of closely related voids. The [agency-veri
 - [inaccessible-past](/voids/inaccessible-past/) — Why past conscious states can only be reconstructed, not accessed
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — Micro-structure of attention shifts, where departure is never witnessed
+- [distraction-void](/voids/distraction-void/) — The attentional analogue: ERP timing and probe-caught mind-wandering give third-person traction on a first-person dark transit
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's retention-protention structure
 - [necessary-opacity](/voids/necessary-opacity/) — The broader principle that consciousness must hide aspects of itself from itself
 - [agency-verification-void](/voids/agency-verification-void/) — Whether consciousness can confirm its own causal powers

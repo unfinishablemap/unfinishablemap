@@ -93,7 +93,7 @@ The cognitive impenetrability boundary functions as a void in the Map's framewor
 
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the concept defining selective correction and the three conditions
 - [curated-mind](/topics/curated-mind/) — the curation argument extended across body schema, memory, and self-model
-- [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — the third mode: consciousness selecting among ambiguous percepts
+- [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) — the third mode: consciousness selecting among ambiguous percepts
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — bandwidth degradation and the interface
 - [dualist-perception](/topics/dualist-perception/)
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)

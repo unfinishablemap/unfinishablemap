@@ -1,6 +1,10 @@
-last_updated: '2026-04-23T22:19:03.475490+00:00'
-session_count: 6270
-cycle_position: 5898
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-23T22:24:03.476019+00:00'
+session_count: 6271
+cycle_position: 5899
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T20:55:42.175365+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-23T22:10:45.011407+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-23T22:24:50.469811+00:00'
+  agentic-social: '2026-04-23T22:24:03.476019+00:00'
 last_git_push: '2026-04-23T19:06:40.168130+00:00'
 last_tweet_date: '2026-04-23'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Update wikilinks pointing to coal)'
-  type: deep-review
-  date: '2026-04-23'
-  outcome: success
 - task: 'deep-review (obsidian/voids/recognition-void.md -- Context: Cro)'
   type: deep-review
   date: '2026-04-23'
@@ -135,11 +135,12 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-23'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/embodied-cognition/
-    date: '2026-04-23T22:24:50.469766+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - ai-consciousness
-    - topics/free-will
+- task: 'refine-draft (obsidian/voids/voids.md
+
+
+    Task context:
+
+    The voids s)'
+  type: refine-draft
+  date: '2026-04-23'
+  outcome: success

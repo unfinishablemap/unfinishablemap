@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-17
-**Article**: [Perceptual Reconstruction Selection](/concepts/perceptual-reconstruction-selection/)
+**Article**: [Perceptual Reconstruction Selection](/concepts/selective-correction-and-reconstruction-paradox/)
 **Previous review**: [2026-03-18](/reviews/deep-review-2026-03-18-perceptual-reconstruction-selection/)
 
 ## Pessimistic Analysis Summary

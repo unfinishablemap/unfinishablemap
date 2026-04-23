@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-16 13:43:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,7 +33,7 @@ related_articles:
 - '[[ownership-void]]'
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[embodied-consciousness]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 - '[[indexical-identity-quantum-measurement]]'
 title: Consciousness and the Ownership Problem
 topics:

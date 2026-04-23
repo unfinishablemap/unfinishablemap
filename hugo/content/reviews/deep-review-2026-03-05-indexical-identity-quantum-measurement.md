@@ -59,7 +59,7 @@ All six personas engaged. No new critical philosophical disagreements beyond tho
 ### Cross-links Added
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — epistemic/metaphysical distinction and indexical knowledge
 - [consciousness-and-probability-interpretation](/topics/consciousness-and-probability-interpretation/) — consciousness and probability framework selection
-- [indexical-void](/voids/indexical-void/) — the unchartable territory of indexical identity
+- [indexical-void](/topics/vertiginous-question/) — the unchartable territory of indexical identity
 
 ## Word Count
 

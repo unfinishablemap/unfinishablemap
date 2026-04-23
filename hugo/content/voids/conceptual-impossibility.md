@@ -165,6 +165,7 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Related but distinct slippage phenomena
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Cognitive Phenomenology](/concepts/cognitive-phenomenology/) — The experiential character of thinking
+- [The Categorial Void](/voids/categorial-void/) — A different cognitive gap: missing the categorial *shape* any concept would have to take, rather than a malformed combination of existing categories. Where impossibility produces a hard wall, the categorial void produces a soft absence where thought cannot determine what it is reaching for.
 - [Site Tenets](/tenets/) — The foundational commitments shaping this investigation
 
 ## References

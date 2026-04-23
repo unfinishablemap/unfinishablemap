@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,7 +29,7 @@ related_articles:
 - '[[binding-problem]]'
 - '[[identity-across-transformations]]'
 - '[[voids]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 - '[[consciousness-and-the-ownership-problem]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[indexical-identity-quantum-measurement]]'
@@ -64,7 +64,7 @@ Daniel Kolak identified three exhaustive positions on individuation, each with a
 
 **Open individualism** (traceable to the Upanishadic *tat tvam asi*—"you are that") holds that there is only one subject, appearing as many. The boundaries between individuals do not carry the metaphysical weight we assign them. Schrödinger entertained this view; so did certain Advaita Vedanta traditions. If correct, the individuation void inverts: the puzzle becomes not what separates subjects but what creates the *appearance* of separation.
 
-That these three positions remain live options after nearly three millennia of inquiry is itself significant. The question may not merely be difficult—it may be structurally resistant to resolution from within a single subject's perspective. The [indexical-void](/voids/indexical-void/) marks the void-form of this resistance: "why am I *this* consciousness and not another?" has no available method of answer.
+That these three positions remain live options after nearly three millennia of inquiry is itself significant. The question may not merely be difficult—it may be structurally resistant to resolution from within a single subject's perspective. The [vertiginous-question](/topics/vertiginous-question/) marks the void-form of this resistance: "why am I *this* consciousness and not another?" has no available method of answer.
 
 ## The Combination Problem and Its Reverse
 
@@ -144,7 +144,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [binding-problem](/concepts/binding-problem/) — The related problem of what binds experiences into a unified field
 - [self-and-self-consciousness](/concepts/self-and-self-consciousness/) — The minimal self and phenomenology of subjecthood
 - [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist perspectives on self-boundaries and *anattā*
-- [indexical-void](/voids/indexical-void/) — The void-form of the individuation question: why am I *this* consciousness?
+- [vertiginous-question](/topics/vertiginous-question/) — The void-form of the individuation question: why am I *this* consciousness?
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — What makes experience belong to a subject
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony bias may systematically favour simpler individuation accounts

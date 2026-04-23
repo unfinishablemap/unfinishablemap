@@ -24,7 +24,7 @@ description: Cognitive overload and automatisation reveal consciousness as a ban
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 06:48:00+00:00
+last_deep_review: 2026-04-23 21:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-04-22 09:38:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-30 23:04:00+00:00
 apex_sources:
@@ -54,7 +54,7 @@ related_articles:
 - '[[causal-interface]]'
 - '[[amplification-void]]'
 - '[[nomic-void]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[delegatory-dualism]]'
 title: What Consciousness Tells Us About Physics
@@ -152,7 +152,7 @@ If quantum mechanics describes one aspect of a two-aspect reality, what is the o
 
 **Not more mathematics.** The missing piece is not a mathematical extension of quantum mechanics. The wavefunction's mathematics is complete for what it describes. Adding equations does not produce actuality—it produces more structure. The gap is ontological, not mathematical.
 
-**Something with indexical character.** If the structural-actualizing distinction holds, whatever provides actuality must have the first-person character that third-person description lacks. This is precisely what consciousness is: the domain where things are *like something for someone*. The [indexical dimension](/topics/indexical-identity-quantum-measurement/) of the measurement problem—why does *this* consciousness experience *this* outcome?—is the same question as what makes one possibility actual rather than another, viewed from the inside. The [indexical-void](/voids/indexical-void/) formalises this resistance: the question "why am I *this* subject?" confronts its own inexplicability at every turn.
+**Something with indexical character.** If the structural-actualizing distinction holds, whatever provides actuality must have the first-person character that third-person description lacks. This is precisely what consciousness is: the domain where things are *like something for someone*. The [indexical dimension](/topics/indexical-identity-quantum-measurement/) of the measurement problem—why does *this* consciousness experience *this* outcome?—is the same question as what makes one possibility actual rather than another, viewed from the inside. The [vertiginous-question](/topics/vertiginous-question/) formalises this resistance: the question "why am I *this* subject?" confronts its own inexplicability at every turn.
 
 The refinement here is crucial: consciousness need not *cause* collapse universally (a view that leads to Wigner's solipsism trap). Rather, consciousness grounds the *indexical fact* of which outcome this subject experiences. Physical mechanisms determine the basis of possibilities; consciousness determines *for whom* each is actual. The [measurement problem](/concepts/measurement-problem/#the-indexical-dimension) and the [hard problem](/topics/hard-problem-of-consciousness/) then mark the same boundary—where third-person description encounters first-person fact—seen from different sides.
 

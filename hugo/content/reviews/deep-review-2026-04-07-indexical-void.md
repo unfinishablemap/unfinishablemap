@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-07
-**Article**: [The Indexical Void](/voids/indexical-void/)
+**Article**: [The Indexical Void](/topics/vertiginous-question/)
 **Previous review**: [2026-03-12](/reviews/deep-review-2026-03-12-indexical-void/)
 
 ## Pessimistic Analysis Summary
@@ -42,7 +42,7 @@ No new counterarguments beyond those already addressed. The bedrock disagreement
 - AI section offers an instructive asymmetry argument
 
 ### Enhancements Made
-Cross-links added FROM the following articles TO [indexical-void](/voids/indexical-void/):
+Cross-links added FROM the following articles TO [indexical-void](/topics/vertiginous-question/):
 
 1. **[identity-across-transformations](/apex/identity-across-transformations/)** (apex) — Added body text link where indexical identity is contrasted with qualitative identity ("The indexical void marks this as a genuine cognitive boundary"), added to related_articles
 2. **[split-brain-consciousness](/topics/split-brain-consciousness/)** — Added body text link at the individuation question ("the indexical void intensifies when division creates ambiguity"), added to Further Reading
@@ -50,15 +50,15 @@ Cross-links added FROM the following articles TO [indexical-void](/voids/indexic
 4. **[indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)** — Added body text link at No Many Worlds tenet connection where Samkhya asks the same question ("This is precisely the indexical void"), added to Further Reading
 5. **[consciousness-and-agency](/apex/consciousness-and-agency/)** (apex) — Added to related_articles (agent causation's "why did *you* choose" has indexical character)
 
-Cross-links added TO [indexical-void](/voids/indexical-void/) from the article itself:
+Cross-links added TO [indexical-void](/topics/vertiginous-question/) from the article itself:
 - Added [identity-across-transformations](/apex/identity-across-transformations/) and [split-brain-consciousness](/topics/split-brain-consciousness/) to related_articles and Further Reading
 
 ### Cross-links Added
-- [identity-across-transformations](/apex/identity-across-transformations/) → [indexical-void](/voids/indexical-void/)
-- [split-brain-consciousness](/topics/split-brain-consciousness/) → [indexical-void](/voids/indexical-void/)
-- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) → [indexical-void](/voids/indexical-void/)
-- [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) → [indexical-void](/voids/indexical-void/)
-- [consciousness-and-agency](/apex/consciousness-and-agency/) → [indexical-void](/voids/indexical-void/)
+- [identity-across-transformations](/apex/identity-across-transformations/) → [indexical-void](/topics/vertiginous-question/)
+- [split-brain-consciousness](/topics/split-brain-consciousness/) → [indexical-void](/topics/vertiginous-question/)
+- [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) → [indexical-void](/topics/vertiginous-question/)
+- [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) → [indexical-void](/topics/vertiginous-question/)
+- [consciousness-and-agency](/apex/consciousness-and-agency/) → [indexical-void](/topics/vertiginous-question/)
 
 ## Remaining Items
 

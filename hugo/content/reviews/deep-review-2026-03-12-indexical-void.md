@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-12
-**Article**: [The Indexical Void](/voids/indexical-void/)
+**Article**: [The Indexical Void](/topics/vertiginous-question/)
 **Previous review**: [2026-03-11](/reviews/deep-review-2026-03-11-indexical-void/)
 
 ## Pessimistic Analysis Summary
@@ -41,7 +41,7 @@ No new counterarguments beyond those already addressed in the previous review. T
 - "Generates tenets rather than follows from them" framing is distinctive
 
 ### Enhancements Made
-Cross-links added FROM the following articles TO [indexical-void](/voids/indexical-void/):
+Cross-links added FROM the following articles TO [indexical-void](/topics/vertiginous-question/):
 
 1. **[haecceity](/concepts/haecceity/)** — Added body text link at the concept convergence paragraph ("The indexical void marks the cognitive boundary..."), added to Further Reading, added to related_articles
 2. **[personal-identity](/topics/personal-identity/)** — Added body text link at indexical uniqueness point, added to Further Reading, added to related_articles
@@ -54,15 +54,15 @@ Cross-links added FROM the following articles TO [indexical-void](/voids/indexic
 9. **[taxonomy-of-voids](/apex/taxonomy-of-voids/)** (apex) — Added wikilink in body text where "indexical voids" was mentioned without link
 
 ### Cross-links Added
-- [haecceity](/concepts/haecceity/) → [indexical-void](/voids/indexical-void/)
-- [personal-identity](/topics/personal-identity/) → [indexical-void](/voids/indexical-void/)
-- [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) → [indexical-void](/voids/indexical-void/)
-- [other-minds-void](/voids/voids-between-minds/) → [indexical-void](/voids/indexical-void/)
-- [combination-problem](/concepts/combination-problem/) → [indexical-void](/voids/indexical-void/)
-- [self-and-consciousness](/concepts/self-and-self-consciousness/) → [indexical-void](/voids/indexical-void/)
-- [past-self-void](/voids/inaccessible-past/) → [indexical-void](/voids/indexical-void/)
-- [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) → [indexical-void](/voids/indexical-void/)
-- [taxonomy-of-voids](/apex/taxonomy-of-voids/) → [indexical-void](/voids/indexical-void/)
+- [haecceity](/concepts/haecceity/) → [indexical-void](/topics/vertiginous-question/)
+- [personal-identity](/topics/personal-identity/) → [indexical-void](/topics/vertiginous-question/)
+- [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) → [indexical-void](/topics/vertiginous-question/)
+- [other-minds-void](/voids/voids-between-minds/) → [indexical-void](/topics/vertiginous-question/)
+- [combination-problem](/concepts/combination-problem/) → [indexical-void](/topics/vertiginous-question/)
+- [self-and-consciousness](/concepts/self-and-self-consciousness/) → [indexical-void](/topics/vertiginous-question/)
+- [past-self-void](/voids/inaccessible-past/) → [indexical-void](/topics/vertiginous-question/)
+- [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) → [indexical-void](/topics/vertiginous-question/)
+- [taxonomy-of-voids](/apex/taxonomy-of-voids/) → [indexical-void](/topics/vertiginous-question/)
 
 ## Remaining Items
 

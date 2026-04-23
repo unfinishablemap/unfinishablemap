@@ -52,7 +52,7 @@ Nagel concluded that "there is no reason to suppose that [bat experience] is sub
 
 ## Location Without Coordinates
 
-The self-location problem makes the void concrete. We know we exist as conscious beings. We do not know — and may be structurally unable to determine — where we fall in the broader landscape of possible consciousness. This connects to the [indexical-void](/voids/indexical-void/): the question "why am I *this* consciousness?" becomes unanswerable when you cannot even locate "this" within the space of alternatives.
+The self-location problem makes the void concrete. We know we exist as conscious beings. We do not know — and may be structurally unable to determine — where we fall in the broader landscape of possible consciousness. This connects to the [indexical-void](/topics/vertiginous-question/): the question "why am I *this* consciousness?" becomes unanswerable when you cannot even locate "this" within the space of alternatives.
 
 Consider the analogy to pre-Copernican cosmology. Humans assumed Earth occupied the centre of the universe because we had no external vantage point from which to see otherwise. The Copernican revolution required instruments and observations that revealed our actual position. For mind-space, no analogous instruments exist. There is no telescope that shows us mind-space from outside.
 
@@ -105,7 +105,7 @@ The mind-space void connects to all five of the Map's [tenets](/tenets/).
 - [voids](/voids/) — The framework for investigating cognitive limits
 - [other-minds-void](/voids/voids-between-minds/) — The sealed privacy of individual consciousness
 - [alien-minds-void-explorers](/voids/non-human-minds-as-void-explorers/) — What radically different minds might reveal
-- [indexical-void](/voids/indexical-void/) — Why you cannot determine why you are *this* consciousness
+- [indexical-void](/topics/vertiginous-question/) — Why you cannot determine why you are *this* consciousness
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The characteristic experience of approaching cognitive limits
 - [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) — Whether AI cognition can probe territories closed to human minds
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level cognitive constraints and whether some concepts are permanently inaccessible

@@ -58,11 +58,11 @@ All six pessimistic personas engaged. The article already handles their core obj
 - Updated outdated link to archived article → live `[process-haecceitism](/concepts/haecceity/)` concept page
 - Corrected two citation errors (Hellie year, List year and volume)
 - Added `[process-haecceitism](/concepts/haecceity/)` to Further Reading and concepts frontmatter
-- Added `[indexical-void](/voids/indexical-void/)` to Further Reading (natural companion on limits of indexical knowledge)
+- Added `[indexical-void](/topics/vertiginous-question/)` to Further Reading (natural companion on limits of indexical knowledge)
 
 ### Cross-links Added
 - [process-haecceitism](/concepts/haecceity/) (replacing archived link, added to Further Reading and frontmatter)
-- [indexical-void](/voids/indexical-void/) (added to Further Reading)
+- [indexical-void](/topics/vertiginous-question/) (added to Further Reading)
 
 ## Remaining Items
 

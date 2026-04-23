@@ -59,7 +59,7 @@ This makes the reconstruction paradox a perceptual reformulation of the [hard pr
 
 The [predictive-processing](/concepts/predictive-processing/) framework provides the best mechanistic explanation of *when* each mode activates. The brain corrects when three conditions converge: a confident prior prediction exists, sensory evidence is ambiguous or absent, and correction serves adaptive function. It transmits faithfully when sensory signals carry high precision (sharp, reliable data) or when the relevant processing module is informationally encapsulated from higher cognition.
 
-Precision weighting—the brain's method of assigning reliability scores to competing signals—explains the switching logic. Low precision triggers prior-dominated editing. High precision lets the raw signal through. A third case emerges when precision is balanced and the brain generates multiple viable reconstructions without resolving the ambiguity: [perceptual reconstruction selection](/concepts/perceptual-reconstruction-selection/), where consciousness must settle on one interpretation among competitors. This three-mode taxonomy—autonomous correction, faithful transmission, and selection under ambiguity—maps the full range of relationships between brain processing and conscious experience.
+Precision weighting—the brain's method of assigning reliability scores to competing signals—explains the switching logic. Low precision triggers prior-dominated editing. High precision lets the raw signal through. A third case emerges when precision is balanced and the brain generates multiple viable reconstructions without resolving the ambiguity: [perceptual reconstruction selection](/concepts/selective-correction-and-reconstruction-paradox/), where consciousness must settle on one interpretation among competitors. This three-mode taxonomy—autonomous correction, faithful transmission, and selection under ambiguity—maps the full range of relationships between brain processing and conscious experience.
 
 The predictive processing account is mechanistically satisfying but leaves the phenomenological question entirely untouched: why does any of this produce experience at all, and why do the modes feel different?
 
@@ -85,7 +85,7 @@ The cognitive impenetrability boundary also functions as one of the Map's [consc
 
 - [selective-perceptual-correction](/concepts/selective-correction-and-reconstruction-paradox/) — the mechanism: how and when the brain corrects
 - [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the void: what the asymmetry reveals about unchartable territory
-- [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — the third mode: selection under ambiguity
+- [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) — the third mode: selection under ambiguity
 - [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — why the construction is invisible to consciousness
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — what degraded perception reveals about the interface
 - [filter-theory](/concepts/filter-theory/) — consciousness as filter rather than generator

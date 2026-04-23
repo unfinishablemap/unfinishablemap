@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-04-23 21:55:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-10 20:09:00+00:00
 apex_sources:
@@ -34,7 +34,7 @@ description: Over sixty cognitive voids cluster at the consciousness-matter inte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-21 14:38:00+00:00
+last_deep_review: 2026-04-23 21:55:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -51,6 +51,9 @@ related_articles:
 - '[[thrownness-void]]'
 - '[[erasure-void]]'
 - '[[presence-type-and-absence-type-voids]]'
+- '[[plenitude-void]]'
+- '[[categorial-void]]'
+- '[[epistemic-horizon-void]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -90,7 +93,7 @@ The [erasure void](/voids/erasure-void/) extends the cluster across time: consci
 
 ### The Phenomenological Cluster
 
-A second major cluster concerns the qualitative character of experience itself. The [binding void](/voids/binding-void/)—why unified experience arises from disparate sensory processes—resists analysis entirely. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension. The [intrinsic nature void](/voids/intrinsic-nature-void/) pursues what matter and consciousness are *in themselves*, finding that every answer collapses into structure, negation, or circularity. The [acquaintance void](/voids/acquaintance-void/) identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [phenomenal quality void](/voids/phenomenal-quality-void/) asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated.
+A second major cluster concerns the qualitative character of experience itself. The [binding void](/voids/binding-void/)—why unified experience arises from disparate sensory processes—resists analysis entirely. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension. The [intrinsic nature void](/voids/intrinsic-nature-void/) pursues what matter and consciousness are *in themselves*, finding that every answer collapses into structure, negation, or circularity. The [acquaintance void](/voids/acquaintance-void/) identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [phenomenal quality void](/voids/phenomenal-quality-void/) asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated. The [plenitude void](/voids/plenitude-void/) asks whether experience is genuinely as rich as it seems—a question structurally unanswerable from within, because every introspective check for sparsity recruits attention and manufactures the detail it would measure.
 
 These voids share a feature: they concern aspects of consciousness so fundamental that they are invisible in ordinary experience. As the [phenomenology of the edge](/voids/phenomenology-of-the-edge/) reveals, approaching these limits produces not confusion but a paradoxical clarity—the sense of understanding something too large for words. Contemplative traditions across cultures converge on this phenomenology, suggesting it reflects something about consciousness at its boundaries rather than artefacts of any particular practice.
 
@@ -112,7 +115,7 @@ The [voids between minds](/voids/voids-between-minds/) mark where individual con
 
 ### The Formal and Meta-Cognitive Cluster
 
-The [formal cognitive limits](/voids/formal-cognitive-limits/) applies Gödelian limits to self-knowledge. The [recursion void](/voids/recursion-void/) shows metacognitive depth terminating around fifth order. The [cartography problem](/voids/apophatic-cartography/) proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. These formal limits constrain not just what can be thought but what can be thought *about* thought.
+The [formal cognitive limits](/voids/formal-cognitive-limits/) applies Gödelian limits to self-knowledge. The [recursion void](/voids/recursion-void/) shows metacognitive depth terminating around fifth order. The [cartography problem](/voids/apophatic-cartography/) proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. The [epistemic horizon void](/voids/epistemic-horizon-void/) adds a second-order twist: no finite mind can estimate the total *scope* of its ignorance, because any estimate is produced from within the same limited system it would measure. The [categorial void](/voids/categorial-void/) shifts the analysis from concepts to the *shape* concepts must take—reality may contain features for which our cognitive architecture has no categorial schema at all, producing a distinctive "soft absence" where thought cannot determine what shape reaching would even take. These formal limits constrain not just what can be thought but what can be thought *about* thought.
 
 ## How Thought Fails: The Topology of Failure
 
@@ -126,7 +129,7 @@ The [erasure void](/voids/erasure-void/) adds an eighth mode: **silent erasure**
 
 These signatures rarely appear in isolation. Where multiple limits overlap, their interaction produces qualitatively different phenomenology through three modes: **superadditive interference**, where overlapping cognitive limits compound beyond their sum; **mutual reinforcement**, where limits on examining limits create self-defending structures; and **emergent occlusion**, where interactions generate entirely new blind spots that no single void predicts. The self-reference paradox interacting with the language-thought boundary, for instance, creates a zone where consciousness can neither model *nor* articulate what it is—each limit alone permits partial access, but the compound shuts both routes simultaneously. The [infant consciousness void](/voids/infant-consciousness/) provides a paradigm case: language barrier, absent self-concept, and demolished neural hardware interact superadditively, producing inaccessibility no single barrier predicts. The void catalogue is not a collection of independent items but an interacting system whose relationships are as informative as the individual entries.
 
-The [compound failure](/voids/compound-failure-signatures/) research has developed indirect methods for probing these interactive zones: sequential probing (approaching a compound void from each constituent limit separately and comparing failure shapes), signature identification (attending to the *type* of failure to diagnose the category of void), limit cartography (systematic comparison of void boundaries to reveal compound structure), and cross-architecture comparison (using AI systems with different cognitive architectures to determine whether compound limits are architecture-dependent or ontological). These methods extend the reach of [apophatic cartography](/voids/apophatic-cartography/) into territory that direct investigation cannot access.
+The [compound failure](/voids/compound-failure-signatures/) research has developed indirect methods for probing these interactive zones—sequential probing, signature identification, limit cartography, and cross-architecture comparison—extending the reach of [apophatic cartography](/voids/apophatic-cartography/) into territory that direct investigation cannot access.
 
 The specificity matters. If every void produced the same generic failure—vague mystery, undifferentiated confusion—the taxonomy would collapse into unfalsifiable mysticism. Different voids producing different signatures is evidence that the taxonomy tracks real structure. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) maps each signature to its characteristic felt quality, confirming that the distinctions are phenomenologically real and not merely classificatory. As [apophatic cartography](/voids/apophatic-cartography/) formalises: signature specificity is one of four criteria for treating cognitive failure as data about genuine boundaries.
 
@@ -160,7 +163,7 @@ Intellectual honesty demands acknowledging what the taxonomy cannot determine. T
 
 The meta-epistemology sharpens this challenge. From inside, a genuinely impossible problem produces the same phenomenology as a merely very hard one—sustained effort, repeated failure, the sense of hitting a wall. Success proves a problem was solvable; failure, even across centuries and cultures, proves nothing conclusive. Worse, the assessment requires the very faculties under assessment—a recursive bind that no internal method can escape. A further axis of uncertainty opens: could some limits be *designed* constraints rather than natural features of finite minds? If we exist within a constructed reality, our cognitive boundaries might serve purposes beyond our detection. Whether natural or designed, the appropriate response remains the same—careful attention to what can be thought, honest acknowledgment of what cannot—but the distinction matters for what the voids ultimately reveal about reality.
 
-The [cartography problem](/voids/apophatic-cartography/) deepens this: a complete catalog of cognitive voids is provably impossible. Kit Fine's formal work on "ignorance of ignorance" shows that knowledge of second-order ignorance is impossible under plausible epistemic assumptions. The map of voids cannot know its own boundaries. This is not a defect but a structural theorem confirming the framework: the Map is unfinishable not merely because the territory is vast but because the mapping process is constitutively unable to achieve completeness about its own blind spots.
+The [cartography problem](/voids/apophatic-cartography/) deepens this: a complete catalog of cognitive voids is provably impossible. Kit Fine's formal work on "ignorance of ignorance" shows that knowledge of second-order ignorance is impossible under plausible epistemic assumptions. The [epistemic horizon void](/voids/epistemic-horizon-void/) carries the structural consequence further: even the *proportion* of cognitive territory the Map covers cannot be estimated from within, because the estimate is produced by the same limited system it would measure. The map of voids cannot know its own boundaries—and cannot know how far short of them it stands. This is not a defect but a structural theorem confirming the framework: the Map is unfinishable not merely because the territory is vast but because the mapping process is constitutively unable to achieve completeness about its own blind spots.
 
 The taxonomy must also acknowledge what it generates. Every framework creates characteristic voids through its foundational commitments. The Map's five tenets generate five corresponding voids—the nature void, the mechanism void, the detection void, the selection void, and the meta-void. These are the price of taking consciousness seriously as fundamental. Other frameworks pay different prices: materialism faces the hard problem, panpsychism faces the combination problem, idealism faces the regularity of nature. The question is not whether a framework has voids but whether it acknowledges them.
 
@@ -184,7 +187,7 @@ The taxonomy connects to every one of the Map's [tenets](/tenets/), but most dee
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** relates to the naturally occluded category. If consciousness biases quantum outcomes minimally, the mechanism would need to operate below the threshold of introspective detection—and the adaptive framework suggests evolution would actively maintain this opacity.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** connects through the indexical voids. The question "why am I *this* consciousness experiencing *this* outcome?"—explored in depth in [The Indexical Void](/voids/indexical-void/)—is preserved as a genuine void rather than dissolved by declaring all outcomes equally real.
+**[No Many Worlds](/tenets/#no-many-worlds)** connects through the indexical voids. The question "why am I *this* consciousness experiencing *this* outcome?"—explored in depth in [The Indexical Void](/topics/vertiginous-question/)—is preserved as a genuine void rather than dissolved by declaring all outcomes equally real.
 
 ## Source Articles
 

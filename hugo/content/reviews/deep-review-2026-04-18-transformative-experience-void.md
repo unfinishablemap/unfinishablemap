@@ -60,7 +60,7 @@ None. The article is well-structured, attribution to Paul is generally careful, 
 
 ### Cross-links Preserved
 
-The article's existing cross-links to [acquaintance-void](/voids/acquaintance-void/), [phenomenal-quality-void](/voids/phenomenal-quality-void/), [indexical-void](/voids/indexical-void/), [counterfactual-void](/voids/counterfactual-void/), [framework-void](/voids/framework-void/), [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/), [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/), and [knowledge-argument](/concepts/knowledge-argument/) are extensive and accurate. No new cross-links added (article is at 111% of soft length threshold; length-neutral mode discourages additions).
+The article's existing cross-links to [acquaintance-void](/voids/acquaintance-void/), [phenomenal-quality-void](/voids/phenomenal-quality-void/), [indexical-void](/topics/vertiginous-question/), [counterfactual-void](/voids/counterfactual-void/), [framework-void](/voids/framework-void/), [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/), [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/), and [knowledge-argument](/concepts/knowledge-argument/) are extensive and accurate. No new cross-links added (article is at 111% of soft length threshold; length-neutral mode discourages additions).
 
 ## Length Note
 
@@ -78,6 +78,6 @@ The following represent **bedrock philosophical disagreements** rather than fixa
 
 - **Eliminative materialist rejection of phenomenal/propositional distinction**: The Map's dualist tenet commits it to this distinction. Eliminativists will always reject it.
 - **Dennettian functionalist reading of inaccessibility as empirical-only**: The article's choice to read inaccessibility as structural is the Map's interpretive stance, not a confusion to be corrected.
-- **MWI defenders dissatisfied with indexical-singularity arguments**: This is a known bedrock disagreement (per the [indexical-void](/voids/indexical-void/) article); applies here too.
+- **MWI defenders dissatisfied with indexical-singularity arguments**: This is a known bedrock disagreement (per the [indexical-void](/topics/vertiginous-question/) article); applies here too.
 
 The article has reached a stable form. Future reviews should focus on whether new content elsewhere in the Map creates cross-link opportunities, not on rewriting these stable arguments.

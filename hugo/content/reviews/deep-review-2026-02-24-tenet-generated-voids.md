@@ -35,9 +35,9 @@ Six adversarial personas engaged with the content. Context: reviewed in light of
 None. Article remains factually sound with no misattributions.
 
 ### Medium Issues Found
-- **Selection Void incomplete without indexical connection**: The section focused only on prebiotic mechanism questions, missing the deeper indexical dimension. *Resolution*: Added paragraph connecting to `[indexical-void](/voids/indexical-void/)`, noting that the indexical problem motivates the tenet rejection itself.
+- **Selection Void incomplete without indexical connection**: The section focused only on prebiotic mechanism questions, missing the deeper indexical dimension. *Resolution*: Added paragraph connecting to `[indexical-void](/topics/vertiginous-question/)`, noting that the indexical problem motivates the tenet rejection itself.
 - **No connection to plurality void**: Consciousness's constitutive singularity reinforces No Many Worlds from a different angle. *Resolution*: Added plurality void connection in Relation to Site Perspective — what cannot branch cannot split across worlds.
-- **Missing cross-links**: *Resolution*: Added `[indexical-void](/voids/indexical-void/)` and `[plurality-void](/voids/plurality-void/)` to Further Reading and related_articles.
+- **Missing cross-links**: *Resolution*: Added `[indexical-void](/topics/vertiginous-question/)` and `[plurality-void](/voids/plurality-void/)` to Further Reading and related_articles.
 
 ### Counterarguments Considered
 - All counterarguments from previous review remain bedrock disagreements (eliminative materialism, MWI defense, Buddhist non-self, divine hiddenness parallel)
@@ -64,11 +64,11 @@ Six sympathetic personas identified strengths:
 ### Enhancements Made
 - Connected Selection Void to indexical void — the deeper "why *this* consciousness?" question
 - Connected No Many Worlds in Relation to Site Perspective to plurality void — constitutive singularity reinforces the commitment
-- Added `[indexical-void](/voids/indexical-void/)` and `[plurality-void](/voids/plurality-void/)` to Further Reading
+- Added `[indexical-void](/topics/vertiginous-question/)` and `[plurality-void](/voids/plurality-void/)` to Further Reading
 - Tightened prose in Nature Void, Detection Void, divine hiddenness paragraph, and Comparative Context to maintain length neutrality
 
 ### Cross-links Added
-- [indexical-void](/voids/indexical-void/)
+- [indexical-void](/topics/vertiginous-question/)
 - [plurality-void](/voids/plurality-void/)
 
 ## Length Management

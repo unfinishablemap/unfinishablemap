@@ -79,7 +79,7 @@ The boundary void occupies a precise position relative to neighbouring voids.
 
 **Not the [plurality-void](/voids/plurality-void/).** The plurality void concerns the inability to conceive being multiple subjects simultaneously. The boundary void is prior: it asks what determines the perimeter of *one* subject. Plurality presupposes that subjects have boundaries; the boundary void asks where those boundaries come from.
 
-**Not the [indexical-void](/voids/indexical-void/).** The indexical void concerns why I am *this* particular consciousness. The boundary void concerns what makes *this* consciousness a determinate entity at all. Indexicality presupposes individuation; the boundary void questions the ground of that individuation.
+**Not the [indexical-void](/topics/vertiginous-question/).** The indexical void concerns why I am *this* particular consciousness. The boundary void concerns what makes *this* consciousness a determinate entity at all. Indexicality presupposes individuation; the boundary void questions the ground of that individuation.
 
 **Not the [projection-void](/voids/boundary-and-projection/).** The projection void concerns the *dynamic shifting* of consciousness's boundary during tool use, spatial extension, and empathy—and the invisibility of that shifting mechanism. The boundary void is prior: it asks why consciousness has any determinate perimeter at all, not how that perimeter moves.
 
@@ -126,7 +126,7 @@ The boundary void connects to the Map's [tenets](/tenets/) with unusual directne
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [binding-void](/voids/binding-void/) — The adjacent void concerning unity *within* experience
 - [plurality-void](/voids/plurality-void/) — Why we cannot conceive being multiple subjects
-- [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
+- [indexical-void](/topics/vertiginous-question/) — Why first-person identity resists explanation
 - [projection-void](/voids/boundary-and-projection/) — Why consciousness cannot observe its own boundary shifts
 - [self-opacity](/voids/self-opacity/) — Why consciousness cannot verify its own accuracy
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — The void at consciousness's lower intensity bound

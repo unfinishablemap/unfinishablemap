@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Indexical Void](/voids/indexical-void/)
+**Article**: [The Indexical Void](/topics/vertiginous-question/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

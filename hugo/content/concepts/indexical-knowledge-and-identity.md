@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-04-21 06:38:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,6 @@ related_articles:
 - '[[tenets]]'
 - '[[indexical-identity-quantum-measurement]]'
 - '[[consciousness-only-territories]]'
-- '[[indexical-void]]'
 title: Indexical Knowledge and Identity
 topics:
 - '[[vertiginous-question]]'
@@ -86,7 +85,7 @@ The Unfinishable Map's position requires the metaphysical thesis. Three argument
 
 **The phenomenological argument**: The immediacy of self-locating knowledge suggests it tracks something real. You don't infer "I exist" from impersonal premises—the knowledge is given directly. If indexical facts were merely modes of access to impersonal facts, the knowledge should feel derivative. Instead, it has a directness suggesting it is not derived from anything more basic.
 
-**The counterfactual argument**: If there were only impersonal facts, the question "why am I *this* subject?" would be meaningless or trivially answered. But the question feels meaningful and non-trivial—the [indexical-void](/voids/indexical-void/) marks the cognitive boundary where this question confronts its own inexplicability. If the question is coherent, what would make its answer true or false? Impersonal facts alone don't seem sufficient; something must ground the indexical.
+**The counterfactual argument**: If there were only impersonal facts, the question "why am I *this* subject?" would be meaningless or trivially answered. But the question feels meaningful and non-trivial—the [vertiginous-question](/topics/vertiginous-question/) marks the cognitive boundary where this question confronts its own inexplicability. If the question is coherent, what would make its answer true or false? Impersonal facts alone don't seem sufficient; something must ground the indexical.
 
 Christian List argues that irreducible indexical facts provide evidence against "third-personal metaphysics"—any picture treating reality as fully describable without indexicals. If physics describes the universe in context-free terms yet self-locating knowledge adds something physics doesn't contain, then physics is incomplete as an account of what exists.
 
@@ -158,7 +157,6 @@ Indexical knowledge and identity connect to The Unfinishable Map's [tenets](/ten
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [many-worlds](/concepts/many-worlds/) — Why indexical identity poses problems for branching interpretations
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap in quantum physics
-- [indexical-void](/voids/indexical-void/) — The cognitive boundary where first-person identity resists explanation
 
 ## References
 

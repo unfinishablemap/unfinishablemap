@@ -5559,7 +5559,7 @@ topics: []
 ## 2026-03-18T13:03:00+00:00 - expand-topic
 - **Status**: Success
 - **Topic**: Perceptual Reconstruction Selection
-- **Output**: [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/)
+- **Output**: [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/)
 - **Word count**: 1322
 - **Based on research**: yes, [reconstruction-paradox-brain-correction-2026-03-09](/research/reconstruction-paradox-brain-correction-2026-03-09/)
 

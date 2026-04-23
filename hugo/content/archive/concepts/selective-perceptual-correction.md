@@ -72,7 +72,7 @@ It transmits faithfully when sensory signals are precise and reliable, when no p
 
 This three-condition framework explains the pattern. Blind spot filling meets all three conditions: the brain has strong contextual priors, the sensory evidence is literally absent, and filling serves visual continuity. Optical blur fails condition two: the retinal signal is precise, so the brain has no basis for overriding it. The Müller-Lyer illusion fails by encapsulation: the perceptual module cannot receive the correction that higher cognition would supply.
 
-A third mode emerges when neither autonomous correction nor faithful transmission applies: the brain generates multiple viable reconstructions and consciousness must select among them. Bistable percepts—the Necker cube, binocular rivalry—exemplify this case. [Perceptual reconstruction selection](/concepts/perceptual-reconstruction-selection/) explores how this third mode completes the taxonomy: autonomous correction, faithful transmission, and selection under ambiguity each involve a different relationship between brain processing and conscious experience.
+A third mode emerges when neither autonomous correction nor faithful transmission applies: the brain generates multiple viable reconstructions and consciousness must select among them. Bistable percepts—the Necker cube, binocular rivalry—exemplify this case. [Perceptual reconstruction selection](/concepts/selective-correction-and-reconstruction-paradox/) explores how this third mode completes the taxonomy: autonomous correction, faithful transmission, and selection under ambiguity each involve a different relationship between brain processing and conscious experience.
 
 ## Why the Asymmetry Matters Philosophically
 
@@ -96,7 +96,7 @@ The Map speculates that the boundary between corrected and uncorrected signals m
 
 - [perceptual-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the philosophical paradox this mechanism creates
 - [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) — the deeper void exploration of the asymmetry's limits
-- [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — the third mode: selection under ambiguity
+- [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) — the third mode: selection under ambiguity
 - [dualist-perception](/topics/dualist-perception/)
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/)
 - [attention-as-interface](/concepts/attention-as-interface/)

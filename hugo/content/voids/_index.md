@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-04-23 22:24:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-04-21
+date: &id001 2026-04-23
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -69,6 +69,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Voids as Evidence](/voids/voids-as-evidence/) — How the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
 - [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — The method of knowing through negation, and why any such catalog is constitutively incomplete
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
+- [The Epistemic Horizon Void](/voids/epistemic-horizon-void/) — The second-order void that shadows every other: why consciousness cannot estimate the total scope of what it does not know from within the limited system doing the estimating (created 2026-04-23)
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — Why cognitive limits are preconditions for meaning, not merely obstacles
 
 ### Specific Voids
@@ -105,15 +106,14 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Infant Consciousness Void](/voids/infant-consciousness/) — Why our own infant experience is more alien than another adult's mind
 - [The Minimal Consciousness Void](/voids/minimal-consciousness-void/) — Why consciousness cannot investigate its own lower bound
 - [The Amplification Void](/voids/amplification-void/) — Why the chain from quantum influence to neural effect cannot be traced
-- [The Transition Void](/voids/transit-void/) — Why consciousness cannot witness its own state transitions
+- [The Transit Void](/voids/transit-void/) — Why consciousness cannot witness its own crossings: neither the onset of mental acts nor transitions between states
 - [The Distraction Void](/voids/distraction-void/) — Why the moment of attentional capture is systematically unavailable to the consciousness that is captured
 - [The Agency Verification Void](/voids/agency-verification-void/) — Why consciousness cannot verify its own causal powers
-- [The Initiation Void](/voids/transit-void/) — Why consciousness cannot witness the onset of its own mental acts
 - [The Thrownness Void](/voids/thrownness-void/) — Why consciousness cannot access the conditions under which it became conscious
 - [Smoothness and Continuity](/voids/smoothness-and-continuity/) — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [The Counterfactual Void](/voids/counterfactual-void/) — How counterfactual thinking is trapped near actuality
 - [The Understanding Void](/voids/understanding-void/) — Why the feeling of understanding cannot ground itself: explanation cannot explain itself, and self-evidence terminates inquiry before it begins
-- [The Indexical Void](/voids/indexical-void/) — Why first-person identity resists explanation
+- [The Indexical Void / Vertiginous Question](/topics/vertiginous-question/) — Why first-person identity resists explanation (coalesced 2026-04-23)
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot opt out of itself
 - [The Narrative Void](/voids/narrative-void/) — Why consciousness cannot observe its own storytelling
 - [The Ownership Void](/voids/ownership-void/) — Why we cannot introspect how experiences become ours
@@ -140,6 +140,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why experience's immediacy and felt realness hide their own mechanisms
 - [The Silence Void](/voids/the-silence-void/) — Whether cognitive silence accesses truths that reasoning cannot reach
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers richness far beyond survival requirements
+- [The Plenitude Void](/voids/plenitude-void/) — Why conscious experience seems richer than can be reported or checked, and why every introspective probe for sparsity generates the detail it was meant to measure (created 2026-04-23)
 - [The Ineffable Encounter Void](/voids/ineffable-encounter-void/) — Why consciousness encounters meaning and sacred significance it cannot articulate or evaluate from within
 - [The Conceptual Metabolism Void](/voids/conceptual-metabolism-void/) — How understanding consumes concepts irreversibly, destroying their pre-understood form
 
@@ -147,6 +148,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 - [The Architecture of Cognitive Closure](/voids/biological-cognitive-closure/) — What concepts can minds form, and voids we acquire through maturation
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
+- [The Categorial Void](/voids/categorial-void/) — Gaps not in specific concepts but in the categorial *shape* any concept of that kind would have to take—reality beyond the axes our apparatus can carve (created 2026-04-23)
 - [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Proved limits on computation (Gödel, Turing, Chaitin) and their bearing on consciousness
 - [The Mathematical Void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
@@ -192,3 +194,18 @@ The voids framework flows directly from the Map's [tenets](/tenets/):
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** validates investigating voids. Our preference for simple, tractable theories may systematically avoid the structured failures that mark void boundaries. Some truths may be irreducibly complex or cognitively inaccessible.
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [apophatic cartography](/voids/apophatic-cartography/)—using the structure of failure as data about what lies beyond.
+
+<!-- AI REFINEMENT LOG - 2026-04-23
+Changes made:
+- Added [epistemic-horizon-void](/voids/epistemic-horizon-void/) to Foundational Articles, placed after [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) because it asks the further meta-question that article sets up. Descriptor flags its second-order character explicitly so the entry reads correctly in the taxonomy rather than as just another specific void.
+- Added [plenitude-void](/voids/plenitude-void/) to Phenomenology of Limits, placed immediately after [the-surplus-void](/voids/the-surplus-void/) since the article explicitly distinguishes itself from surplus-void and [phenomenal-quality-void](/voids/phenomenal-quality-void/) (both already in this section).
+- Added [categorial-void](/voids/categorial-void/) to Types of Cognitive Limits, placed immediately after [conceptual-impossibility](/voids/conceptual-impossibility/) since the article positions itself "one level down" from conceptual-impossibility.
+- Updated ai_modified timestamp to 2026-04-23T22:24:00+00:00.
+
+Taxonomy fit notes:
+- All three placements were clean; no restructuring of the Foundational/Specific/Phenomenology/Types/Comparative/Methods taxonomy was required.
+- epistemic-horizon-void is second-order (a void about voids) and sits alongside voids-as-evidence and meta-epistemology-of-limits, both of which are also meta-level. The Foundational Articles section already accommodates meta/second-order voids, so no commentary or structural note was added; the descriptor carries the "second-order void that shadows every other" framing.
+- No explicit count indicator exists in the index (the "~105" figure lives in CLAUDE.md, not here), and no "recently added" section exists. The index uses only the occasional parenthetical date annotation (e.g. the "(coalesced 2026-04-23)" on vertiginous-question); the three new entries follow that convention with "(created 2026-04-23)".
+
+This log should be removed after human review.
+-->

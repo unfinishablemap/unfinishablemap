@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,7 +32,7 @@ related_articles:
 - '[[phenomenology-of-recursive-self-awareness]]'
 - '[[comparative-phenomenology-of-meditative-traditions]]'
 - '[[transition-void]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 title: The Ownership Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -79,7 +79,7 @@ This affective divergence matters. The same structural void—the absence of the
 
 Attempting to introspect ownership produces a distinctive recursion. Unlike the [unobservable self](/voids/self-opacity/), where the observer generates new layers of observation, the ownership void traps attention in a different way: the attending itself is "mine," which means ownership is present in the very act of looking for it. It cannot be isolated because isolation would require a vantage point outside ownership—an experience that is not "for anyone"—and such a vantage point would not be experience at all.
 
-The [indexical void](/voids/indexical-void/) asks the adjacent question: why am I *this* consciousness rather than another? Ownership presupposes an answer—experiences are "mine" only if there is a determinate "me" to own them. The indexical void questions the ground of that determinacy, while the ownership void questions the mechanism of appropriation. Together they mark two faces of the same deeper mystery: what makes a subject *this* subject, and how does experience become *its* experience.
+The [indexical void](/topics/vertiginous-question/) asks the adjacent question: why am I *this* consciousness rather than another? Ownership presupposes an answer—experiences are "mine" only if there is a determinate "me" to own them. The indexical void questions the ground of that determinacy, while the ownership void questions the mechanism of appropriation. Together they mark two faces of the same deeper mystery: what makes a subject *this* subject, and how does experience become *its* experience.
 
 This distinguishes the ownership void from neighbouring voids:
 
@@ -122,7 +122,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies. Predictive
 - [comparative-phenomenology-of-meditative-traditions](/topics/comparative-phenomenology-of-meditative-traditions/) — Cross-tradition approaches to dissolving selfhood
 - [transition-void](/voids/transit-void/) — Observation-transition incompatibility as a parallel structural limit
 - [mysterianism](/concepts/mysterianism/) — McGinn on structural cognitive limits
-- [indexical-void](/voids/indexical-void/) — Why am I *this* consciousness? The identity question underlying ownership
+- [vertiginous-question](/topics/vertiginous-question/) — Why am I *this* consciousness? The identity question underlying ownership
 
 ## References
 

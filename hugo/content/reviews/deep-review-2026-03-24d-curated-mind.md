@@ -25,7 +25,7 @@ topics: []
 This review examines curated-mind.md in the context of the reconstruction-paradox article cluster:
 - [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) (void) — the paradox's original exploration
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) (concept) — the three-condition framework
-- [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) (concept) — the third mode (conscious selection)
+- [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) (concept) — the third mode (conscious selection)
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) (topic) — bandwidth degradation evidence
 - [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) (topic) — channel architecture
 

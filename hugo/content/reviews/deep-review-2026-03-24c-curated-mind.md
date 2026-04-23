@@ -57,7 +57,7 @@ topics: []
 - Added inbound link from [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) (Further Reading)
 - Added inbound link from [dualist-perception](/topics/dualist-perception/) (Further Reading)
 - Added inbound link from [consciousness-and-memory](/topics/consciousness-and-memory/) (Further Reading)
-- Added inbound link from [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) (Further Reading)
+- Added inbound link from [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) (Further Reading)
 
 ### Cross-links Added (Inbound)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) → curated-mind (Further Reading)
@@ -66,7 +66,7 @@ topics: []
 - [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) → curated-mind (Further Reading)
 - [dualist-perception](/topics/dualist-perception/) → curated-mind (Further Reading)
 - [consciousness-and-memory](/topics/consciousness-and-memory/) → curated-mind (Further Reading)
-- [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) → curated-mind (Further Reading)
+- [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) → curated-mind (Further Reading)
 
 ## Remaining Items
 

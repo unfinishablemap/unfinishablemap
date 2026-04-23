@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-18 15:53:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[binding-void]]'
 - '[[plurality-void]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 - '[[voids-between-minds]]'
 - '[[minimal-consciousness-void]]'
 - '[[self-opacity]]'
@@ -94,7 +94,7 @@ Independent lines of evidence confirm that the perimeter is actively maintained,
 
 - **Not the [binding-void](/voids/binding-void/)**: binding concerns how contents unify *within* a single experience; this void asks why the experience has the extent it does, and how that extent shifts.
 - **Not the [plurality-void](/voids/plurality-void/)**: plurality concerns being multiple subjects simultaneously; the boundary question is prior—what determines the perimeter of *one* subject.
-- **Not the [indexical-void](/voids/indexical-void/)**: indexicality concerns why I am *this* particular consciousness; this void concerns what makes *this* consciousness a determinate entity at all.
+- **Not the [vertiginous-question](/topics/vertiginous-question/)**: indexicality concerns why I am *this* particular consciousness; this void concerns what makes *this* consciousness a determinate entity at all.
 - **Not the [minimal-consciousness-void](/voids/minimal-consciousness-void/)**: that asks about the lower bound of *intensity*; this asks about *spatial and functional extent*.
 - **Not the [observation-and-measurement-void](/voids/observation-and-measurement-void/)**: that concerns how studying consciousness transforms it; this concerns the specific mechanism by which consciousness decides what counts as "me" versus "world"—hidden from the consciousness making the decision.
 
@@ -164,7 +164,7 @@ Current evidence favours structural opacity. Convergence across phenomenology (H
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [binding-void](/voids/binding-void/) — The adjacent void concerning unity *within* experience
 - [plurality-void](/voids/plurality-void/) — Why we cannot conceive being multiple subjects
-- [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
+- [vertiginous-question](/topics/vertiginous-question/) — Why first-person identity resists explanation
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — The orthogonal void: intensity rather than extent
 - [voids-between-minds](/voids/voids-between-minds/) — What determines the extent of each sealed consciousness
 - [self-opacity](/voids/self-opacity/) — Why consciousness cannot verify its own accuracy

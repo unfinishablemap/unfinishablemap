@@ -60,7 +60,7 @@ topics: []
 - [predictive-processing](/concepts/predictive-processing/) — added contextual reference in "Perception as Controlled Hallucination" section
 - [phenomenal-transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — added substantive paragraph in optical illusions section
 - [reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) (void) — added to related_articles and Further Reading
-- [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — added to Further Reading
+- [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) — added to Further Reading
 
 ## Remaining Items
 

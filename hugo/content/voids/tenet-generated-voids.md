@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -21,7 +21,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 - '[[plurality-void]]'
 - '[[limits-reveal-structure]]'
 - '[[self-opacity]]'
@@ -83,7 +83,7 @@ If not all branches are realised, something selects which one becomes actual. If
 
 The tenets article addresses this via "objective reduction with consciousness modulation"—physical mechanisms (gravitational collapse, spontaneous localisation, unknown processes) provide baseline collapse throughout the universe, while consciousness modulates outcomes locally where brains provide the right interface. But this resolution generates new voids: What are these physical mechanisms? How does consciousness "modulate" them? Why do they produce determinate outcomes without observation? The selection void multiplies rather than resolves.
 
-Beneath the mechanism question lies a deeper void: even granting that outcomes are selected, why does *this* consciousness experience *this* outcome? The [indexical void](/voids/indexical-void/) names this question—and it is the indexical problem that motivates rejecting many-worlds in the first place. The tenet cannot answer the question it was designed to protect.
+Beneath the mechanism question lies a deeper void: even granting that outcomes are selected, why does *this* consciousness experience *this* outcome? The [indexical void](/topics/vertiginous-question/) names this question—and it is the indexical problem that motivates rejecting many-worlds in the first place. The tenet cannot answer the question it was designed to protect.
 
 ### Occam's Razor Has Limits: The Meta-Void
 
@@ -166,7 +166,7 @@ The framework-generated-voids analysis would be undermined if:
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [The Five Tenets](/tenets/) — The commitments that generate these voids
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate cognitive architecture
-- [The Indexical Void](/voids/indexical-void/) — Why am I *this* consciousness?
+- [The Indexical Void](/topics/vertiginous-question/) — Why am I *this* consciousness?
 - [The Plurality Void](/voids/plurality-void/) — Why consciousness cannot be plural
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — The question of genuine versus apparent limits
 - [Self-Opacity](/voids/self-opacity/) — Why consciousness cannot fully examine itself

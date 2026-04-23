@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-03-23 12:23:00+00:00
+ai_modified: 2026-04-23 20:18:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Human+AI exploration of why consciousness cannot observe its own re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 18:16:00+00:00
+last_deep_review: 2026-04-23 20:18:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[placebo-effect-and-mental-causation]]'
 - '[[voids-as-evidence]]'
+- '[[noetic-feelings-void]]'
 title: The Recognition Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -57,11 +58,13 @@ Neither patient can access what is missing. The prosopagnosia patient does not e
 
 This double dissociation reveals that what seems like a single act — recognising someone — is at minimum two distinct contributions bound together invisibly: perceptual identification and affective familiarity. The binding itself is the void.
 
+The affective component — the felt familiarity that Capgras strips away — is itself one member of the family of [noetic feelings](/voids/noetic-feelings-void/) that gate cognition from inside. Recognition's two-component structure is thus a special case of a more general pattern: a heuristic signal (the familiarity feel) is produced by machinery consciousness cannot inspect, and arrives already fused with its perceptual partner. When the signal fails selectively, as in Capgras, the fusion is exposed without becoming observable — you notice that *something* is missing but not what was doing the work.
+
 ### Jamais Vu and the Exhaustion of Meaning
 
 Semantic satiation offers a repeatable encounter with the Recognition Void in healthy subjects. Writing a common word thirty times reliably strips it of meaning (Moulin & Bell, 2021). The word becomes alien — perceived but emptied of significance. The 2024 computational modelling by Kwon et al. explains the *mechanism* (lower-level processing saturation) but not the phenomenology: why does the exhaustion of recognition feel *eerie* rather than merely blank?
 
-Jamais vu demonstrates that meaningfulness is actively constructed moment by moment. Recognition is not a stable property of stimuli but an ongoing generation. When the generation machinery exhausts, we glimpse the raw material that recognition normally transforms — perception without knowing-as.
+Jamais vu demonstrates that meaningfulness is actively constructed moment by moment. Recognition is not a stable property of stimuli but an ongoing generation. When the generation machinery exhausts, we glimpse the raw material that recognition normally transforms — perception without knowing-as. The [noetic feelings void](/voids/noetic-feelings-void/) catalogues the wider pattern: what exhausts in semantic satiation is a fluency-and-familiarity signal, and the signal's opacity is architectural, not accidental.
 
 ### The Agnosias
 
@@ -125,6 +128,7 @@ The Recognition Void engages multiple [tenets](/tenets/).
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/) — Empirical evidence that phenomenal content determines physical outcomes, paralleling the recognition void's insight
 - [voids-as-evidence](/voids/voids-as-evidence/) — How inventory blindness strengthens the abductive argument from void convergence
+- [noetic-feelings-void](/voids/noetic-feelings-void/) — The felt-signal family that recognition's affective component belongs to
 - [voids](/voids/)
 
 ## References

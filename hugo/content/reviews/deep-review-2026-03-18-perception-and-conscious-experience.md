@@ -29,7 +29,7 @@ None. The article was declared stable after three reviews (2026-03-01) and the 2
 
 ### Medium Issues Found
 
-1. **Missing perceptual reconstruction selection as third dissociation case**: The dissociations section covered processing-without-experience (blindsight) and experience-without-input (lucid dreaming) but lacked the third empirically tractable case: consciousness actively selecting among competing reconstructions in bistable perception. The new [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) concept (created 2026-03-18) directly extends this article's argument. **Resolution**: Added a paragraph after the capability division summary introducing bistable percepts as evidence of active conscious participation, bridging the dissociation evidence to the bidirectional interaction claim.
+1. **Missing perceptual reconstruction selection as third dissociation case**: The dissociations section covered processing-without-experience (blindsight) and experience-without-input (lucid dreaming) but lacked the third empirically tractable case: consciousness actively selecting among competing reconstructions in bistable perception. The new [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) concept (created 2026-03-18) directly extends this article's argument. **Resolution**: Added a paragraph after the capability division summary introducing bistable percepts as evidence of active conscious participation, bridging the dissociation evidence to the bidirectional interaction claim.
 
 2. **Missing cross-reference to perceptual-reconstruction-selection**: No links to the new concept despite it listing this article as a topic. **Resolution**: Added to related_articles frontmatter, Further Reading section, and inline in the Bidirectional Interaction tenet paragraph.
 
@@ -65,11 +65,11 @@ All 6 original references re-verified (4th confirmation). No new external attrib
 
 2. **Bidirectional Interaction evidence list**: Added perceptual reconstruction selection inline alongside binding, constancies, and attention.
 
-3. **Cross-references**: Added [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) to related_articles and Further Reading with descriptive annotation.
+3. **Cross-references**: Added [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) to related_articles and Further Reading with descriptive annotation.
 
 ### Cross-links Added
 
-- [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) — added to related_articles, Further Reading, dissociations section, and Bidirectional Interaction tenet paragraph
+- [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/) — added to related_articles, Further Reading, dissociations section, and Bidirectional Interaction tenet paragraph
 
 ## Word Count
 

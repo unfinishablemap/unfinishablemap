@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[voids-between-minds]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 - '[[emergence-void]]'
 - '[[self-opacity]]'
 - '[[boundary-and-projection]]'
@@ -99,7 +99,7 @@ The plurality void connects to the Map's [foundational commitments](/tenets/) at
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [voids-between-minds](/voids/voids-between-minds/) — The complementary voids: each consciousness sealed from all others, and where shared understanding breaks down
-- [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
+- [vertiginous-question](/topics/vertiginous-question/) — Why first-person identity resists explanation
 - [emergence-void](/voids/emergence-void/) — The cognitive gap at every level transition
 - [self-reference paradox](/voids/self-opacity/) — Why consciousness cannot fully examine itself
 - [boundary-and-projection](/voids/boundary-and-projection/) — What determines the perimeter of one subject and why its shifts are invisible; prior to plurality

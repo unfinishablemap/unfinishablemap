@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-16 16:58:00+00:00
+ai_modified: 2026-04-23 21:17:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -35,7 +35,7 @@ description: Do animals have conscious experience? Convergent evidence suggests 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 20:29:00+00:00
+last_deep_review: 2026-04-23 21:17:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -133,7 +133,7 @@ This analysis doesn't deny great ape consciousness—they likely have emotional 
 
 The dualist framework accommodates this gradient: consciousness varies along multiple [dimensions](/concepts/degrees-of-consciousness/)—intensity, richness, complexity, and access—that configure differently across species, producing different amplification profiles rather than simply "more" or "less" consciousness. This supports the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness is causally required for capacities distinguishing human cognition, but the absence of one form of conscious access does not imply the absence of experience.
 
-**The alternative reading.** A purely physicalist account explains the same evidence without the amplification thesis: expanded dorsolateral prefrontal cortex provides additional working-memory scaffolding, arcuate-fasciculus connectivity enables recursive linguistic-syntactic operations, and cortical folding increases representational capacity. Neubauer & Hublin's work on human brain asymmetry handles much of the comparative data through standard neurodevelopmental mechanisms. On this reading, consciousness accompanies but does not drive the capacity gap. The Map favours the amplification reading because it coheres with Bidirectional Interaction, not because the comparative evidence forces it.
+**The alternative reading.** A purely physicalist account explains the same evidence without the amplification thesis: expanded dorsolateral prefrontal cortex provides additional working-memory scaffolding, arcuate-fasciculus connectivity enables recursive linguistic-syntactic operations, and cortical folding increases representational capacity. Standard neurodevelopmental accounts of human brain evolution handle much of the comparative data without invoking amplification. On this reading, consciousness accompanies but does not drive the capacity gap; the Map's preference for amplification is tenet-driven, not forced by the comparative evidence.
 
 ## Dualism and Animal Minds: No Anthropocentric Barrier
 

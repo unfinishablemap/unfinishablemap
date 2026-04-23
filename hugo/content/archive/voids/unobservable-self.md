@@ -142,7 +142,7 @@ The unobservable self generates several related voids, each a facet of the same 
 - [Introspective Opacity](/voids/self-opacity/) examines why we access mental contents but never the mechanisms producing them—process versus product.
 - The [Observation Void](/voids/observation-and-measurement-void/) generalises the problem: every method of studying consciousness transforms what it studies. The unobservable self is the limiting case where the studier *is* the studied.
 - The [Ownership Void](/voids/ownership-void/) asks why experiences feel *mine*—a question that presupposes the very subject that cannot be observed.
-- The [Indexical Void](/voids/indexical-void/) asks why first-person identity resists explanation—why *this* subject rather than another.
+- The [Indexical Void](/topics/vertiginous-question/) asks why first-person identity resists explanation—why *this* subject rather than another.
 - The [Narrative Void](/voids/narrative-void/) warns that introspective reports pass through confabulation-prone narrative construction—though the structural argument does not depend on phenomenological testimony.
 - The [Constitutive Exclusion](/topics/constitutive-exclusion/) identifies the broader structural limit of which self-reference is a special case: consciousness cannot access any reality independent of its own constitutive contribution.
 
@@ -184,7 +184,7 @@ The unobservable self may be the prototype void: territory consciousness cannot 
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Can consciousness upgrade the architecture that constrains it?
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual cognitive limits interact superadditively
-- [The Indexical Void](/voids/indexical-void/) — Why first-person identity resists explanation
+- [The Indexical Void](/topics/vertiginous-question/) — Why first-person identity resists explanation
 - [The Ownership Void](/voids/ownership-void/) — Why experiences feel mine
 
 ## References

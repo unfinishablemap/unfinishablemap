@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-04-23 20:23:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -14,19 +14,20 @@ concepts:
 - '[[explanatory-gap]]'
 - '[[epistemic-emotions]]'
 created: 2026-02-27
-date: &id001 2026-04-18
+date: &id001 2026-04-23
 description: The feeling of understanding cannot ground itself—self-evidence, explanatory
   preference, and the regress of explanation form a recursive opacity at the heart
   of sense-making.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 10:47:00+00:00
+last_deep_review: 2026-04-23 20:23:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
+- '[[noetic-feelings-void]]'
 - '[[disappearance-voids]]'
 - '[[intentionality-void]]'
 - '[[self-opacity]]'
@@ -68,7 +69,7 @@ Ignorance can be remedied. The understanding void names something more fundament
 
 Cognitive science has identified the mechanism behind manufactured self-evidence. **Processing fluency**—the ease with which information is cognitively processed—is systematically misread as truth, familiarity, and understanding. Statements printed in clear fonts are rated as more true than identical statements in hard-to-read fonts. Repeated exposure increases fluency, which increases perceived truth, which deepens the feeling of obviousness. The fluency heuristic operates automatically and below conscious awareness.
 
-This creates a feedback loop. A claim encountered frequently processes fluently. Fluent processing generates a feeling of truth. The feeling of truth generates a feeling of obviousness. The feeling of obviousness terminates inquiry. The claim is never examined because it has already been accepted—not through evidence but through ease. Metacognitive research suggests that feelings of rightness function as regulatory signals that can discourage further analytical processing (Fernández Velasco & Loev, 2025).
+This creates a feedback loop: frequent exposure generates fluency; fluency generates a feeling of truth; the feeling of truth deepens into obviousness; obviousness terminates inquiry. The claim is never examined because it has already been accepted—not through evidence but through ease. Metacognitive research suggests that feelings of rightness function as regulatory signals that can discourage further analytical processing (Fernández Velasco & Loev, 2025).
 
 The understanding void differs from the [habituation void](/voids/disappearance-voids/) in mechanism and target. Habituation erases the *experience* of familiar stimuli from awareness. The understanding void preserves the experience but overlays it with a feeling of completeness that prevents deeper engagement. You can look directly at what feels obvious and still be occluded—not because the object has disappeared from awareness but because it arrives pre-packaged with the conviction that nothing more needs to be seen.
 
@@ -100,7 +101,7 @@ Multiple philosophical traditions identified the phenomenology of obviousness be
 
 **Schutz** analysed the "natural attitude"—the taken-for-granted everyday perspective where people accept the existence and character of things without question. The life-world (*Lebenswelt*) is the pre-theoretical realm of experience that feels self-evident. This taken-for-grantedness is structural, not lazy: it is how everyday consciousness constitutively operates. The natural attitude brackets critical reflection through default orientation rather than deliberate choice.
 
-The convergence across analytic philosophy, phenomenology, and social phenomenology—traditions with significantly different methodological premises—suggests a structural feature of consciousness rather than a philosophical fashion.
+Convergence across these three traditions—with different methodological premises—suggests a structural feature of consciousness rather than philosophical fashion.
 
 ## The Self-Concealing Structure
 
@@ -114,7 +115,7 @@ The trap has a temporal dimension. Even after successfully destabilising an obvi
 
 The understanding void compounds several limits explored elsewhere on the Map. The [introspective opacity](/voids/self-opacity/) of cognitive processes means we cannot observe the mechanism of understanding while it operates. The [language-thought-boundary](/voids/language-thought-boundary/) constrains how we can articulate what understanding consists in. The [compound-failure-signatures](/voids/compound-failure-signatures/) suggests these failures are not random but have characteristic shapes—the void always manifests as regress, as ungrounded feeling, or as inarticulate preference, never in some unforeseen fourth way.
 
-Research on [epistemic feelings](/concepts/epistemic-emotions/)—familiarity, confidence, doubt, curiosity—shows that feelings of confidence in perceptual judgments "overestimate evidence for the chosen interpretation by discounting evidence for alternatives" (Arango-Muñoz & Michaelian, 2020). If this bias extends to explanatory judgments, every satisfying explanation may discount the alternatives it excluded. The neural mechanisms generating these feelings are largely unknown. We are in the position of trusting an instrument whose calibration we cannot check.
+The feeling of understanding is one member of a broader family—the [noetic feelings](/voids/noetic-feelings-void/) that include feeling of knowing, rightness, familiarity, and coherence—each produced by heuristic machinery consciousness cannot inspect and each gating a distinct cognitive operation. Research on [epistemic feelings](/concepts/epistemic-emotions/) at the phenomenally rich end of this family—familiarity, confidence, doubt, curiosity—shows that feelings of confidence in perceptual judgments "overestimate evidence for the chosen interpretation by discounting evidence for alternatives" (Arango-Muñoz & Michaelian, 2020). If this bias extends to explanatory judgments, every satisfying explanation may discount the alternatives it excluded. The neural mechanisms generating these feelings are largely unknown. We are in the position of trusting an instrument whose calibration we cannot check.
 
 Within the [taxonomy of voids](/voids/three-kinds-of-void/), the understanding void spans all three categories. It is partly *unexplored*—the cognitive science of understanding remains young, and the neuroscience of the "aha" moment is incomplete. It is partly *unexplorable*—the recursive structure means explanation cannot fully explain explanation without circularity. And it is partly *occluded*—the fluency effects that make smooth explanations feel deep, regardless of their actual depth, actively hide the gap between comprehension and its semblance.
 
@@ -122,7 +123,7 @@ A functionalist might dissolve the void by identifying understanding with a func
 
 ## Approaches to the Edge
 
-Defamiliarisation techniques offer partial access. Shklovsky's *ostranenie*—making the familiar strange through artistic technique—and Brecht's *Verfremdungseffekt* deliberately disrupt processing fluency to expose what automatisation has hidden. Cross-cultural comparison reveals that what feels obvious in one framework may be unintelligible in another. Historical analysis catalogues previous instances where "obvious" truths collapsed: geocentrism, vitalism, absolute simultaneity, the continuous structure of matter.
+Defamiliarisation techniques offer partial access. Shklovsky's *ostranenie* and Brecht's *Verfremdungseffekt* deliberately disrupt processing fluency to expose what automatisation has hidden. Cross-cultural comparison reveals that what feels obvious in one framework may be unintelligible in another. Historical analysis catalogues previous instances where "obvious" truths collapsed: geocentrism, vitalism, absolute simultaneity, the continuous structure of matter.
 
 Socratic questioning works by forcing articulation, which confronts the illusion of explanatory depth directly. "What do you mean by that?" applied to claims that feel self-evident reliably exposes the gap between felt understanding and actual understanding.
 
@@ -146,6 +147,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of unexplored, unexplorable, and occluded
+- [The Noetic Feelings Void](/voids/noetic-feelings-void/) — The broader family of felt signals gating cognition; the feeling of understanding is one member
 - [The Habituation Void](/voids/disappearance-voids/) — How familiarity erases experience (distinct mechanism, related effect)
 - [The Predictive Construction Void](/voids/predictive-construction-void/) — How successful prediction manufactures the feeling of self-evidence
 - [self-opacity](/voids/self-opacity/) — Consciousness cannot fully know itself

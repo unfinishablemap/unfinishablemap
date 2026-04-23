@@ -61,7 +61,7 @@ topics: []
 
 ### Cross-links Added
 - [perceptual-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
-- [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/)
+- [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/)
 
 ## Remaining Items
 

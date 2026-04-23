@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-19 07:37:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -36,7 +36,7 @@ related_articles:
 - '[[historical-consciousness-void]]'
 - '[[inaccessible-past]]'
 - '[[observation-and-measurement-void]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 - '[[consciousness-interface-development]]'
 - '[[infant-consciousness]]'
 - '[[consciousness-and-testimony]]'
@@ -147,7 +147,7 @@ The voids between minds connect to all five of the Map's [foundational commitmen
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** offers a speculative account of existence specifically. If consciousness interfaces with physics through quantum processes local to each brain, the isolation of consciousnesses may reflect this locality. The [boundary-and-projection](/voids/boundary-and-projection/) void addresses a prior question: what determines the extent of each sealed consciousness? Quantum locality would explain why neural connection (as with the Hogan twins) might enable sharing otherwise impossible.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** intensifies the [indexical](/concepts/indexical-knowledge-and-identity/) dimension. "Why am I *this* consciousness rather than that one?" has no answer but feels profoundly meaningful—the [indexical-void](/voids/indexical-void/) marks this as a genuine cognitive boundary. The intersubjective void inherits the question: why does consciousness come pre-sorted into distinct subjects?
+**[No Many Worlds](/tenets/#no-many-worlds)** intensifies the [indexical](/concepts/indexical-knowledge-and-identity/) dimension. "Why am I *this* consciousness rather than that one?" has no answer but feels profoundly meaningful—the [vertiginous-question](/topics/vertiginous-question/) marks this as a genuine cognitive boundary. The intersubjective void inherits the question: why does consciousness come pre-sorted into distinct subjects?
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated at every layer. Solipsism's persistence shows the simpler hypothesis—I alone am conscious—cannot be definitively ruled out despite being practically absurd. Social knowledge systems prefer communicable, parsimonious explanations; if consciousness has irreducibly complex features, social epistemology is structurally biased against discovering them.
 
@@ -173,7 +173,7 @@ Empathy reaches across the voids but cannot eliminate them—it simulates rather
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively shaped by encounter
 - [commensurability-void](/voids/commensurability-void/) — Experiences across radically different architectures may resist comparison entirely
 - [boundary-and-projection](/voids/boundary-and-projection/) — What determines the extent of each sealed consciousness
-- [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
+- [vertiginous-question](/topics/vertiginous-question/) — Why first-person identity resists explanation
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — We-consciousness: genuine collective experience, individually implemented
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation
 

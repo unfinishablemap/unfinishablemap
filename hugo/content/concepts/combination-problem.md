@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-11 00:56:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -195,7 +195,7 @@ The combination problem is not an argument *for* the Map's framework, but it sho
 - [qualia](/concepts/qualia/) — What must combine (or not)
 - [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/) — Why consciousness resists composition categorically
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — The complementary problem: what draws boundaries around discrete subjects
-- [indexical-void](/voids/indexical-void/) — Why *this* unified subject exists rather than another
+- [vertiginous-question](/topics/vertiginous-question/) — Why *this* unified subject exists rather than another
 - [tenets](/tenets/) — the Map's foundational commitments
 
 ## References

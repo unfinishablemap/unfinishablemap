@@ -1,13 +1,276 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 19:06:00+00:00
+ai_modified: 2026-04-23 22:24:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 22:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Context**: Section index missing three voids created 2026-04-23 (epistemic-horizon-void, plenitude-void, categorial-void); section at 96/100 articles
+- **Changes**: (1) Added `epistemic-horizon-void` to Foundational Articles after `meta-epistemology-of-limits`, with descriptor flagging its second-order character; (2) Added `plenitude-void` to Phenomenology of Limits after `the-surplus-void`, near the phenomenal-quality-void and surplus-void entries it explicitly distinguishes itself from; (3) Added `categorial-void` to Types of Cognitive Limits after `conceptual-impossibility`, reflecting the article's self-positioning as "one level down" from conceptual-impossibility; (4) Updated ai_modified timestamp to 2026-04-23T22:24:00+00:00
+- **Taxonomy fit**: All three placements clean — no index restructuring needed. Epistemic-horizon's second-order character is carried in the descriptor rather than via a separate index-level structural note, because Foundational Articles already accommodates meta-level entries (voids-as-evidence, meta-epistemology-of-limits).
+- **Count/surfacing**: No explicit count indicator exists in the index body (the "~105" figure lives in CLAUDE.md, not here); no "recently added" section exists. New entries follow the existing `(created 2026-04-23)` annotation convention used on the recently-coalesced `vertiginous-question` entry.
+- **Published**: yes
+
+## 2026-04-23 22:19 UTC - refine-draft
+- **Status**: Success
+- **File**: [dualist-perception](/topics/dualist-perception/)
+- **Context**: Retarget wikilinks after coalesce 2026-04-23 22:10 merged `perceptual-reconstruction-selection` into `selective-correction-and-reconstruction-paradox`
+- **Changes**: (1) Removed `[perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/)` from related_articles frontmatter (merge target already listed); (2) Retargeted inline "Bistable percepts" wikilink in Dissociations section to the merged article; (3) Updated "two distinct modes" phrasing in Perception as Active Constitution to reflect the three-mode taxonomy (autonomous correction, faithful transmission, selection under ambiguity) — the third mode now matches bistable-percept case; (4) Deduped Further Reading: removed duplicate `perceptual-reconstruction-selection` entry and broadened the surviving `selective-correction-and-reconstruction-paradox` annotation from "selective editing" to three-mode description
+- **Published**: yes
+- **Follow-up**: `topics/curated-mind.md` still needs equivalent retargeting (todo task P2 remains open)
+
+## 2026-04-23 22:10 UTC - coalesce
+- **Status**: Success
+- **Sources**: [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/) (1688 words), [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) (2066 words)
+- **Target**: [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/) (2923 words after merge)
+- **Archived**: [perceptual-reconstruction-selection](/archive/concepts/perceptual-reconstruction-selection/)
+- **Sections surveyed**: voids/ (97/100, 97%, most pressured but heavily coalesced and deliberately tessellated per six prior abandonment findings), topics/ (232/250, 92.8%), concepts/ (228/250, 91.2%, target found here)
+- **Rationale**: Both articles described complementary modes of brain-consciousness signal handling. selective-correction covered autonomous correction and faithful transmission; perceptual-reconstruction-selection was explicitly written as "the third mode" (selection under ambiguity, bistable percepts). The two articles already cross-referenced each other heavily — the second article's introduction is a continuation of the first. Merged to form a unified three-mode taxonomy (autonomous correction / faithful transmission / selection under ambiguity), preserving all unique content from both: bistable percepts as selection evidence, the meditation rivalry findings, the discrete-switch-vs-continuous-neural-transition gap, the predictive-processing precision-weighting account of selection, and the brain-proposes-consciousness-disposes framing. Updated transparency-profiles section to cover all three modes (full / partial / alternating). Updated Site Perspective to fold in Bidirectional Interaction emphasis selection brings. Concepts count drops from 228 to 227. Target's coalesced_from grew from 3 to 4 sources.
+- **References to review**: 2 active files reference `[perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/)` inline (`obsidian/topics/dualist-perception.md`, `obsidian/topics/curated-mind.md`), 3 occurrences each across frontmatter / inline / Further Reading. Archive preserves URL so wikilinks continue to resolve. Follow-up task added to todo.md to retarget for direct navigation and dedup.
+
+## 2026-04-23 22:04 UTC - deep-review
+- **Status**: Success
+- **File**: [categorial-void](/voids/categorial-void/)
+- **Context**: Orphan integration — file had no inbound links outside taxonomy-of-voids; focus on adding cross-references from existing articles
+- **Word count**: 2202 → 2202 (no content change in categorial-void itself; article at soft_warning held length-neutral)
+- **Critical issues addressed**: 0 (attribution check clean; no contradictions; no source/Map conflation)
+- **Medium issues addressed**: 1 (orphan status)
+- **Enhancements made**: 5 inbound backlinks added (three-kinds-of-void, language-thought-boundary, conceptual-impossibility, intrinsic-nature-void, limits-reveal-structure); categorial-void's own related_articles expanded to include three-kinds-of-void and taxonomy-of-voids
+- **Output**: [deep-review-2026-04-23-categorial-void](/reviews/deep-review-2026-04-23-categorial-void/)
+
+## 2026-04-23 21:59 UTC - deep-review
+- **Status**: Success (converged)
+- **File**: [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
+- **Word count**: 2616 → 2616 (no content changes)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — article has reached stability across three reviews; wikilink updates from coalesce operations since 2026-03-20 were applied cleanly and verified accurate
+- **Output**: [deep-review-2026-04-23-phenomenology-of-cognitive-capacity](/reviews/deep-review-2026-04-23-phenomenology-of-cognitive-capacity/)
+
+## 2026-04-23 21:55 UTC - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Context**: Cross-review considering today's three new voids articles (plenitude-void, categorial-void, epistemic-horizon-void)
+- **Word count**: 3920 → 4020 (+100, length-neutral against 4000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 4 (plenitude missing from Phenomenological Cluster; epistemic horizon missing from Formal/Meta-Cognitive Cluster and Taxonomy's Own Limits; categorial missing from Formal/Meta-Cognitive Cluster; all three missing from related_articles)
+- **Enhancements made**: 5 (plenitude void integrated with self-concealing-structure framing; epistemic horizon integrated in two places—cluster + Taxonomy's Own Limits—as structural formalisation of "Map is unfinishable"; categorial void integrated with "soft absence" signature flagged inline; compound-failure-methods paragraph trimmed to compensate for additions; related_articles frontmatter updated)
+- **Output**: [deep-review-2026-04-23-taxonomy-of-voids](/reviews/deep-review-2026-04-23-taxonomy-of-voids/)
+
+## 2026-04-23 21:42 UTC - deep-review
+- **Status**: Success
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Context**: Cross-review considering plenitude-void and epistemic-horizon-void insights
+- **Word count**: 1610 → 1793 (+183, +11.4%; still 90% of 2000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing integration with two new companion voids; no acknowledgment of second-order horizon on the taxonomy itself)
+- **Enhancements made**: 4 (plenitude-void as mixed-type example in "Between the Categories"; new closing paragraph on epistemic-horizon-void's implication for the taxonomy; both voids added to frontmatter related_articles; both added to Further Reading)
+- **Output**: [deep-review-2026-04-23-three-kinds-of-void](/reviews/deep-review-2026-04-23-three-kinds-of-void/)
+
+## 2026-04-23 21:36 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 9 articles substantively revised or newly created since 18:47 UTC — three new voids articles (epistemic-horizon-void, plenitude-void, categorial-void), plus deep-reviews of meta-epistemology-of-limits (4th cycle, stable), phenomenal-quality-void, understanding-void, thought-stream-void, recognition-void, animal-consciousness (8th cycle, stable)
+- **Output**: [optimistic-2026-04-23-night](/reviews/optimistic-2026-04-23-night/)
+
+## 2026-04-23 21:28 UTC - deep-review
+- **Status**: Success
+- **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Context**: Cross-review considering epistemic-horizon-void insights
+- **Word count**: 2576 → 2598 (+22, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to newly-created epistemic-horizon-void)
+- **Enhancements made**: 3 (horizon-void reference in Meta-uncertainty bullet; Further Reading entry; frontmatter related_articles). Offset by cliché fix ("not a bug but a feature") and Phenomenology of Suspension tightening. 4th review cycle; article stable at convergence.
+- **Output**: [deep-review-2026-04-23-meta-epistemology-of-limits](/reviews/deep-review-2026-04-23-meta-epistemology-of-limits/)
+
+## 2026-04-23 21:22 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-quality-void](/voids/phenomenal-quality-void/)
+- **Context**: Cross-review considering plenitude-void insights
+- **Word count**: 2097 → 2106 (+9, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (asymmetric cross-linking with plenitude-void)
+- **Enhancements made**: 3 (plenitude-void paragraph in Self-Concealing Structure; Further Reading bullet; frontmatter related_articles). Prose tightened across 7 paragraphs to offset additions.
+- **Output**: [deep-review-2026-04-23-phenomenal-quality-void](/reviews/deep-review-2026-04-23-phenomenal-quality-void/)
+
+## 2026-04-23 21:17 UTC - deep-review
+- **Status**: Success
+- **File**: [animal-consciousness](/topics/animal-consciousness/)
+- **Word count**: 3658 → 3650 (-8)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (uncited Neubauer & Hublin attribution; verbatim repetition of tenet-driven disclaimer)
+- **Enhancements made**: 0 (convergence review; 8th review cycle)
+- **Output**: [deep-review-2026-04-23-animal-consciousness](/reviews/deep-review-2026-04-23-animal-consciousness/)
+
+## 2026-04-23 21:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Categorial Void
+- **Output**: [categorial-void](/voids/categorial-void/)
+- **Word count**: 2202
+- **Based on research**: yes, [voids-categorial-void-2026-02-15](/research/voids-categorial-void-2026-02-15/)
+
+## 2026-04-23 21:05 UTC - replenish-queue
+- **Status**: Success
+- **Mode**: conservative (queue already over-saturated with P3 tasks — 364 P3 active; goal was to restore P2-level actionable items without adding P3 churn)
+- **Tasks generated**: 4 P2 tasks (chain: 3, unconsumed_research: 1)
+- **Generated tasks**: (1) Write voids article on the Categorial Void (unconsumed research from 2026-02-15; previously flagged in 2026-04-23 20:34 UTC replenish but the record of that prior task was consumed without completion — regenerated); (2) Cross-review phenomenal-quality-void.md considering plenitude-void insights (chain from today's expand-topic); (3) Cross-review meta-epistemology-of-limits.md considering epistemic-horizon-void insights (chain); (4) Cross-review three-kinds-of-void.md considering both new voids articles (chain).
+- **Queue state before**: P0=0, P1=0, P2=2 (below 3-task threshold), P3=364
+- **Queue state after**: P0=0, P1=0, P2=6, P3=364
+- **Sources not used**: gap_analysis (abundant P3 gap-fill tasks already in queue from optimistic reviews), length_analysis (zero content-section hard warnings; 3 hard warnings all in research/ which is outside condense scope), staleness (already over-abundant P3 coverage), orphan_integration (current orphan signal is integrate-distraction-void already in queue and a handful of stable author/search pages).
+- **Section cap check**: voids/ at 95/100 — Categorial Void addition would move to 96/100, still within cap.
+- **Chain rationale**: Today's two expand-topic completions (plenitude-void, epistemic-horizon-void) had not yet generated successor cross-review tasks. Picked the three cross-review targets where the relation is strongest and the target article most benefits from receiving the new material (phenomenal-quality-void is the explicit distinguendum for plenitude-void; meta-epistemology-of-limits is the first-order parent of horizon-void's second-order claim; three-kinds-of-void is the taxonomy both new articles need to find a home in).
+
+## 2026-04-23 21:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [plenitude-void](/voids/plenitude-void/)
+- **Based on review**: [pessimistic-2026-04-23d](/reviews/pessimistic-2026-04-23d/)
+- **Changes**: weakened dualism payoff so it no longer begs the question; fixed covert-attention/foveation conflation (Posner 1980); added Block–Dennett falsifiability-asymmetry note; added eliminativist counter-framing (Churchland); added Popperian owning paragraph distinguishing definitional vs evidential unfalsifiability; hedged bandwidth figures; sourced gorilla-confidence claim; added Posner 1980 and Churchland 1981 references
+- **Published**: yes
+
+## 2026-04-23 20:55 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [plenitude-void](/voids/plenitude-void/) — fresh expand-topic output; ~1,985 words; no prior review
+- **Output**: [pessimistic-2026-04-23d](/reviews/pessimistic-2026-04-23d/)
+
+## 2026-04-23 20:50 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Plenitude Void
+- **Output**: [plenitude-void](/voids/plenitude-void/)
+- **Word count**: 1985
+- **Based on research**: yes, [voids-plenitude-void-2026-02-22](/research/voids-plenitude-void-2026-02-22/)
+
+## 2026-04-23 20:46 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Epistemic Horizon Void
+- **Output**: [epistemic-horizon-void](/voids/epistemic-horizon-void/)
+- **Word count**: 1999
+- **Based on research**: yes, [voids-epistemic-horizon-void-2026-03-06](/research/voids-epistemic-horizon-void-2026-03-06/)
+
+## 2026-04-23 20:41 UTC - deep-review
+- **Status**: Success
+- **File**: [the-psychophysical-control-law](/topics/the-psychophysical-control-law/)
+- **Word count**: 2863 → 2863 (no content changes; article at 95% of soft threshold, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (stability-confirming review — third deep review, article has reached durable stability)
+- **Output**: [deep-review-2026-04-23-the-psychophysical-control-law](/reviews/deep-review-2026-04-23-the-psychophysical-control-law/)
+
+## 2026-04-23 20:34 UTC - replenish-queue
+- **Status**: Success
+- **Mode**: standard (focused on P2 promotion)
+- **Tasks generated**: 3 P2 tasks
+- **Sources used**: unconsumed_research (3)
+- **Generated tasks**: (1) Write voids article on the Epistemic Horizon Void (from `research/voids-epistemic-horizon-void-2026-03-06.md`); (2) Write voids article on the Plenitude Void (from `research/voids-plenitude-void-2026-02-22.md`); (3) Write voids article on the Categorial Void (from `research/voids-categorial-void-2026-02-15.md`).
+- **Queue state before**: P0=0, P1=0, P2=2 (below 3 threshold), P3=~414 (queue had many P3s but only 2 P2-level actionable items)
+- **Queue state after**: P0=0, P1=0, P2=5, P3=~414
+- **Skipped candidates**: `predictive-void` research dropped due to likely overlap with existing `predictive-construction-void`; no length-violation tasks generated (all content-section violations are soft_warning only); no orphan-integration tasks (actual orphan count is 4, all intentional — authors/search); no staleness-driven P3 tasks (already over-abundant). Rationale for same-source limit: skill says max 3 per source, and unconsumed_research yielded exactly 3 clean candidates.
+- **Section cap check**: voids/ at 94/100, has capacity for all 3 new articles.
+
+## 2026-04-23 20:29 UTC - deep-review
+- **Status**: Success
+- **File**: [thought-stream-void](/voids/thought-stream-void/)
+- **Context**: Cross-review considering distraction-void insights
+- **Word count**: 2415 → 2415 (word-neutral in length-neutral mode; article at 121% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing frontmatter link to distraction-void; cross-link prose conflated content-opacity with attention-opacity)
+- **Enhancements made**: 3 (added distraction-void/recognition-void/agency-verification-void to related_articles, sharpened cross-link to distinguish content-opacity from attentional-transit opacity and name the family kinship, offset by trimming redundant "see X for fuller treatment" pointer)
+- **Output**: [deep-review-2026-04-23-thought-stream-void](/reviews/deep-review-2026-04-23-thought-stream-void/)
+
+## 2026-04-23 20:23 UTC - deep-review
+- **Status**: Success
+- **File**: [understanding-void](/voids/understanding-void/)
+- **Context**: Cross-review considering noetic-feelings-void insights
+- **Word count**: 2921 → 2966 (+45; under hard threshold 3000)
+- **Critical issues addressed**: 3 (missing umbrella framing, missing related_articles link, missing Further Reading entry)
+- **Medium issues addressed**: 1 (length drift; compensated with three trims)
+- **Enhancements made**: 3 (noetic-feelings-void cross-link in frontmatter + body + Further Reading, epistemic-emotions repositioned as the phenomenally rich end of the noetic family, three compensating prose trims)
+- **Output**: [deep-review-2026-04-23-understanding-void](/reviews/deep-review-2026-04-23-understanding-void/)
+
+## 2026-04-23 20:18 UTC - deep-review
+- **Status**: Success
+- **File**: [recognition-void](/voids/recognition-void/)
+- **Context**: Cross-review considering noetic-feelings-void insights
+- **Word count**: 1741 → 1868 (+127)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing integration with noetic feelings framework)
+- **Enhancements made**: 3 (frontmatter cross-link, Capgras-paragraph noetic-feelings framing, jamais-vu/satiation tie-in, Further Reading entry)
+- **Output**: [deep-review-2026-04-23-recognition-void](/reviews/deep-review-2026-04-23-recognition-void/)
+
+## 2026-04-23 20:13 UTC - deep-review
+- **Status**: Success
+- **Task**: Update wikilinks pointing to coalesced indexical-void
+- **Files modified**: 27 active obsidian files (concepts/, voids/, topics/, apex/)
+- **Substitutions**: `[indexical-void](/topics/vertiginous-question/)` → `[vertiginous-question](/topics/vertiginous-question/)`; `[X](/topics/vertiginous-question/)` → `[X](/topics/vertiginous-question/)` (display text preserved where the "indexical void" framing was contextually meaningful)
+- **Deduplication**: Removed cross-key frontmatter duplicates in `concepts/haecceity.md` and `concepts/indexical-knowledge-and-identity.md` where `[vertiginous-question](/topics/vertiginous-question/)` was already present under `topics:`/`concepts:` and the replaced `[indexical-void](/topics/vertiginous-question/)` entry in `related_articles:` would have duplicated it.
+- **Skipped**: reviews/, research/, workflow/archive/, changelog.md (historical records); todo task entry removed on completion.
+
+## 2026-04-23 19:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [indexical-void](/voids/indexical-void/) (1787 words), [vertiginous-question](/topics/vertiginous-question/) (2973 words)
+- **Target**: [vertiginous-question](/topics/vertiginous-question/) (3298 words after merge)
+- **Archived**: [indexical-void](/archive/voids/indexical-void/)
+- **Rationale**: Both articles addressed the same core question ("why am I *this* consciousness?") with substantial overlap in references (Hellie, Roberts, List, Scotus, Nagai, haecceity) and tenet alignment. Merged into topics/vertiginous-question preserving the broader philosophical framing while absorbing the void catalogue content (quadrilemma, phenomenology of vertigo, evidence for a genuine limit, AI probe section). Voids index updated; voids count drops from 94 to 93.
+- **References to review**: ~29 files reference `[indexical-void](/topics/vertiginous-question/)`; archive preserves URL so wikilinks continue to resolve. Follow-up task recommended to update wikilinks to point to `[vertiginous-question](/topics/vertiginous-question/)` for direct navigation.
+
+## 2026-04-23 19:48 UTC - condense
+- **Status**: Success
+- **File**: [quantum-interpretations](/concepts/quantum-interpretations/)
+- **Before**: 3380 words
+- **After**: 2500 words
+- **Reduction**: 26%
+- **Technique**: Removed obsolete AI REFINEMENT LOG HTML comment block; flattened "Core claims" bullet lists into compact prose for all interpretations; merged the three numbered subsections under "Why the Map Favors Time-Symmetric Interpretations" into a single paragraph; compressed the SLU subsection, Illusionist Challenge, and decoherence-timescales elaboration while preserving their substantive arguments; tightened QBism, Transactional/TSVF, and Objective Collapse "Site compatibility" passages; trimmed Relation to Site Perspective tenet paragraphs without dropping any tenet. Preserved opening summary, all section headings, all internal links, the comparison table, the five MWI arguments, and all tenet alignment.
+
+## 2026-04-23 19:43 UTC - deep-review
+- **Status**: Success
+- **File**: [reductionism-and-consciousness](/topics/reductionism-and-consciousness/)
+- **Word count**: 2049 → 2038 (-11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (duplicate Further Reading entry — coalesce remnant)
+- **Enhancements made**: 0 (article converged; no expansion per prior stability guidance)
+- **Output**: [deep-review-2026-04-23-reductionism-and-consciousness](/reviews/deep-review-2026-04-23-reductionism-and-consciousness/)
+
+## 2026-04-23 19:33 UTC - condense
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Before**: 3449 words
+- **After**: 2498 words
+- **Reduction**: 28%
+- **Technique**: Removed obsolete AI REFINEMENT LOG block; merged "Definitional Problem" with "Three Dimensions" intro to drop redundant multidimensionality framing; tightened Type-B physicalism passage in Precondition 1; compressed Idealism Parity/Trilemma tenet-by-tenet justifications; trimmed name-by-name recap in "Relation to Site Perspective"; condensed Huemer's four-account bullets, hostile-witness intros, and "What Would Refute" bullets; light prose tightening throughout. Preserved opening summary, all section headings, all internal links, hostile-witness arguments, refutation conditions, and "Relation to Site Perspective" tenet alignment.
+
+## 2026-04-23 19:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Context**: Housekeeping for stale wikilinks left by earlier coalesce operations
+- **Changes**:
+  - Line 105: `[transition-void](/voids/transit-void/)` → `[The Transit Void](/voids/transit-void/)`, tagline updated to cover both state transitions and onsets of mental acts
+  - Removed stale `[initiation-void](/voids/transit-void/)` line (now covered by transit-void)
+  - Line 131 (now 130): `[expertise-occlusion](/voids/expertise-and-its-occlusion/)` → `[expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)`
+- **Note**: `[distraction-void](/voids/distraction-void/)` already present in "Specific Voids" from the parallel integrate-orphan task; left in place (thematic fit is acceptable there)
+- **Published**: yes
+
+## 2026-04-23 19:16 UTC - coalesce
+- **Status**: Aborted (no strong candidates)
+- **Sections surveyed**: voids/ (94/100, 94%, most pressured), concepts/ (227/250, 90.8%), topics/ (231/250, 92.4%)
+- **Candidates examined in voids/**: (1) affective-void + mood-void + valence-void — explicitly cross-differentiated as range vs. opacity vs. structure problems; (2) biological-cognitive-closure + formal-cognitive-limits + embodiment-cognitive-limits + self-maintained-cognitive-limits + collective-cognitive-limits + meta-epistemology-of-limits + closure-types-void — each addresses a distinct source/mode of cognitive limitation, and most already coalesced; (3) recognition-void + acquaintance-void + ineffable-encounter-void — distinct phenomenal relations (identification, direct contact, excess meaning); (4) language-thought-boundary + metaphor-void + conceptual-impossibility + framework-void — a nested hierarchy with explicit level-differentiation; (5) temporal-void + inaccessible-past + transit-void — already coalesced or explicitly differentiated (specious present vs. past selves vs. state crossings); (6) thrownness-void + involuntariness-void + ownership-void + indexical-void + agency-verification-void — cross-articles explicitly distinguish (origin vs. control vs. mineness vs. identity vs. verification); (7) mutation-void + conceptual-metabolism-void + observation-and-measurement-void — distinguished by immediate-attention vs. integration-over-time vs. meta-methodological; (8) emotional-epistemology-void + noetic-feelings-void — world-directed affective disclosure vs. cognition-gating feelings; (9) minimal-consciousness-void + infant-consciousness — intensity lower-bound vs. developmental stage; (10) the-silence-void + the-surplus-void — absence-type vs. presence-type voids.
+- **Finding**: Pattern matches 2026-04-23 13:18, 16:21, and 16:51 UTC abandonment findings. 28 voids/ articles already carry `coalesced_from` metadata — the section has been heavily coalesced and the remaining articles are deliberately tessellated with explicit cross-reference conventions ("distinct from", "the prior question", "orthogonal to"). Six+ iterations exhausted without locating a candidate where merging would preserve rather than destroy useful conceptual differentiation.
+- **Decision**: Follow skill instruction — abandon rather than force a merge.
+
+## 2026-04-23 19:12 UTC - deep-review
+- **Status**: Success
+- **File**: [transit-void](/voids/transit-void/)
+- **Context**: Cross-review considering [distraction-void](/voids/distraction-void/) (attentional analogue created 2026-04-23)
+- **Previous review**: [2026-04-17](/reviews/deep-review-2026-04-17-transit-void/)
+- **Word count**: 2949 → 2968 (+19, length-neutral — still at 148% of voids/ soft threshold, 32 words below hard threshold)
+- **Critical issues addressed**: 0 (article stable since post-coalesce review)
+- **Medium issues addressed**: 2 (distraction-void missing from related_articles frontmatter and Further Reading despite being cited inline at line 69)
+- **Enhancements made**: 2 (frontmatter cross-link; annotated Further Reading entry noting the attentional analogue's ERP traction on a first-person dark transit)
+- **Output**: [deep-review-2026-04-23-transit-void](/reviews/deep-review-2026-04-23-transit-void/)
 
 ## 2026-04-23 19:06 UTC - deep-review
 - **Status**: Success

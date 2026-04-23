@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ related_articles:
 - '[[biological-cognitive-closure]]'
 - '[[scale-void]]'
 - '[[intrinsic-nature-void]]'
-- '[[indexical-void]]'
+- '[[vertiginous-question]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[synesthetic-void]]'
 - '[[framework-void]]'
@@ -51,7 +51,7 @@ The ambition is sound; the execution faces a fundamental obstacle. Any survey mu
 
 ## Location Without Coordinates
 
-We know we exist as conscious beings but may be structurally unable to determine where we fall in the broader landscape of possible consciousness. This connects to the [indexical-void](/voids/indexical-void/): "why am I *this* consciousness?" becomes unanswerable when you cannot locate "this" within the space of alternatives.
+We know we exist as conscious beings but may be structurally unable to determine where we fall in the broader landscape of possible consciousness. This connects to the [vertiginous-question](/topics/vertiginous-question/): "why am I *this* consciousness?" becomes unanswerable when you cannot locate "this" within the space of alternatives.
 
 Pre-Copernican cosmology is the instructive analogy. Humans assumed Earth's centrality because they had no external vantage point; the Copernican revolution required instruments revealing actual position. For mind-space, no telescope exists. Self-locating beliefs — Lewis's "attitudes *de se*" and Perry's "essential indexical" — cannot be characterised without terms like "I," "here," "now." You cannot triangulate from a single point.
 
@@ -125,7 +125,7 @@ Current evidence meets none of these. Every survey proceeds from within a partic
 
 - [voids](/voids/) — Framework for investigating cognitive limits
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — What AI and radically different alien minds might reveal about territories closed to human cognition
-- [indexical-void](/voids/indexical-void/) — Why you cannot determine why you are *this* consciousness
+- [vertiginous-question](/topics/vertiginous-question/) — Why you cannot determine why you are *this* consciousness
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our species
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The characteristic experience of approaching cognitive limits
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level cognitive constraints

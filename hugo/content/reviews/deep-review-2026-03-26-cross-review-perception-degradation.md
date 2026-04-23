@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-03-26
 **Type**: Cross-review
 **Trigger**: [Perceptual Degradation and the Interface](/concepts/perceptual-degradation-and-the-interface/)
-**Articles reviewed**: [perception](/concepts/perception/), [dualist-perception](/topics/dualist-perception/), [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/), [perceptual-reconstruction-selection](/concepts/perceptual-reconstruction-selection/)
+**Articles reviewed**: [perception](/concepts/perception/), [dualist-perception](/topics/dualist-perception/), [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/), [perceptual-reconstruction-selection](/concepts/selective-correction-and-reconstruction-paradox/)
 
 ## Cross-Review Purpose
 

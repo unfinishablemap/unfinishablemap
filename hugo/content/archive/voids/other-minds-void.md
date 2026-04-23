@@ -147,7 +147,7 @@ The other minds void connects directly to the Map's [foundational commitments](/
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** offers a speculative explanation. If consciousness interfaces with physics through quantum processes local to each brain, the isolation of consciousnesses may reflect this locality. The [boundary-and-projection](/voids/boundary-and-projection/) void addresses the prior question: what determines the extent of each sealed consciousness, and why is the empathic extension that partially bridges minds invisible to those extending? Highly speculative, but quantum locality would explain why neural connection (as with the Hogan twins) might enable sharing otherwise impossible.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** intensifies the [indexical](/concepts/indexical-knowledge-and-identity/) dimension. I know I exist because I experience existing; I cannot have the same certainty about you. "Why am I *this* consciousness rather than that one?" has no answer but feels profoundly meaningful—the [indexical-void](/voids/indexical-void/) marks this as a genuine cognitive boundary. These indexical questions are ones that many-worlds interpretations struggle to accommodate.
+**[No Many Worlds](/tenets/#no-many-worlds)** intensifies the [indexical](/concepts/indexical-knowledge-and-identity/) dimension. I know I exist because I experience existing; I cannot have the same certainty about you. "Why am I *this* consciousness rather than that one?" has no answer but feels profoundly meaningful—the [indexical-void](/topics/vertiginous-question/) marks this as a genuine cognitive boundary. These indexical questions are ones that many-worlds interpretations struggle to accommodate.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is illustrated by solipsism's persistence. The simpler hypothesis—that I alone am conscious—cannot be definitively ruled out despite being practically absurd. Evidence for other minds, however overwhelming, remains logically indirect. Parsimony doesn't guarantee truth when evidence is structurally limited.
 
@@ -180,7 +180,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [second-person-void](/voids/voids-between-minds/) — What the encounter itself delivers and structurally cannot: the irreducible gap in genuine I-You meeting
 - [commensurability-void](/voids/commensurability-void/) — Even with access to other minds, experiences across radically different architectures may resist comparison entirely
 - [boundary-and-projection](/voids/boundary-and-projection/) — What determines the extent of each sealed consciousness, and why its empathic extensions are invisible from within
-- [indexical-void](/voids/indexical-void/) — Why first-person identity resists explanation
+- [indexical-void](/topics/vertiginous-question/) — Why first-person identity resists explanation
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — We-consciousness navigates the void without closing it: genuine collective experience, individually implemented
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-15 15:05:00+00:00
+ai_modified: 2026-04-23 20:16:25+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -179,7 +179,7 @@ This topic intersects all five tenets:
 - [interactionist-dualism](/concepts/interactionist-dualism/) - Causal connection between mind and body
 - [free-will](/topics/free-will/) - If consciousness grounds indexical determination at quantum measurement, the self may be genuinely causal in a libertarian sense
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The measurement problem as a species of the hard problem
-- [indexical-void](/voids/indexical-void/) — The unchartable territory of why *this* consciousness exists
+- [vertiginous-question](/topics/vertiginous-question/) — The unchartable territory of why *this* consciousness exists
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the indexical dimension as part of the reverse inference from consciousness to physics
 
 ## References

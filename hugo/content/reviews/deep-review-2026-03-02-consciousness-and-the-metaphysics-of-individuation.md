@@ -64,9 +64,9 @@ All attributions verified:
 
 ### Enhancements Made
 - Added "What Would Challenge This View?" section with 4 concrete challenges
-- Added inline cross-reference to [indexical-void](/voids/indexical-void/) in the three positions section
+- Added inline cross-reference to [indexical-void](/topics/vertiginous-question/) in the three positions section
 - Added inline cross-reference to [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) in the opening section
-- Added [indexical-void](/voids/indexical-void/) and [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) to Further Reading
+- Added [indexical-void](/topics/vertiginous-question/) and [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) to Further Reading
 - Added both to frontmatter related_articles
 - Fixed James chapter reference: IX → VI ("The Mind-Stuff Theory")
 
@@ -78,7 +78,7 @@ All attributions verified:
 - [combination-problem](/concepts/combination-problem/) — Added to Further Reading
 - [self-and-consciousness](/concepts/self-and-self-consciousness/) — Added to Further Reading
 - [other-minds-void](/voids/voids-between-minds/) — Added to Further Reading
-- [indexical-void](/voids/indexical-void/) — Added to Further Reading
+- [indexical-void](/topics/vertiginous-question/) — Added to Further Reading
 - [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/) — Added to Further Reading
 - [process-haecceitism](/concepts/haecceity/) — Added to Further Reading
 
