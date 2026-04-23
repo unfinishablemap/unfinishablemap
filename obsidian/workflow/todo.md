@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write void article on the Distraction Void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed today in `research/voids-distraction-void-2026-04-23.md` but article not yet synthesised. The Distraction Void is the gap between being captured by attention-capture and noticing one has been captured — involuntary capture is indexed by preattentive components (MMN ~200ms, P3a ~250-300ms) that fire without conscious access, while awareness of the capture requires a later P3b and often arrives much later as post-hoc meta-awareness. Converges evidence from cognitive science (Smallwood-Schooler meta-awareness / perceptual decoupling dissociation; probe-caught unaware mind-wandering), contemplative phenomenology (Buddhist sati noticing-after-the-fact), and existential phenomenology (Heideggerian fallenness) on the same structural feature: the transit of distraction is unavailable to introspection, only its aftermath. Distinct from adjacent voids: not [[thought-stream-void]] (continuity of stream), not [[transit-void]] (gaps in transitions generally), not [[involuntariness-void]] (voluntary/involuntary boundary), not [[initiation-void]] (onset of action specifically), not [[spontaneous-thought-void]] (ideation without prompt). Voids section is at 94/100 (has capacity). Category: Mixed (primarily Occluded, with Unexplorable and Unexplored structure). Medium scope (2200-2600 words). Tenet alignment: Dualism (meta-awareness gap is precisely where first-person access collapses — targeted occlusion rather than absence), Occam's Razor Has Limits (the "one attention system" model hides a structural dissociation), Bidirectional Interaction (where consciousness's claim to direct its own attention becomes most testable). Cross-link candidates: attention-and-consciousness, thought-stream-void, transit-void, involuntariness-void, spontaneous-thought-void, initiation-void, erasure-void.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review concepts/psychophysical-laws.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2602,6 +2595,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Write void article on the Distraction Void
+- **Type**: expand-topic
+- **Notes**: Research completed today in `research/voids-distraction-void-2026-04-23.md` but article not yet synthesised. The Distraction Void is the gap between being captured by attention-capture and noticing one has been captured — involuntary capture is indexed by preattentive components (MMN ~200ms, P3a ~250-300ms) that fire without conscious access, while awareness of the capture requires a later P3b and often arrives much later as post-hoc meta-awareness. Converges evidence from cognitive science (Smallwood-Schooler meta-awareness / perceptual decoupling dissociation; probe-caught unaware mind-wandering), contemplative phenomenology (Buddhist sati noticing-after-the-fact), and existential phenomenology (Heideggerian fallenness) on the same structural feature: the transit of distraction is unavailable to introspection, only its aftermath. Distinct from adjacent voids: not [[thought-stream-void]] (continuity of stream), not [[transit-void]] (gaps in transitions generally), not [[involuntariness-void]] (voluntary/involuntary boundary), not [[initiation-void]] (onset of action specifically), not [[spontaneous-thought-void]] (ideation without prompt). Voids section is at 94/100 (has capacity). Category: Mixed (primarily Occluded, with Unexplorable and Unexplored structure). Medium scope (2200-2600 words). Tenet alignment: Dualism (meta-awareness gap is precisely where first-person access collapses — targeted occlusion rather than absence), Occam's Razor Has Limits (the "one attention system" model hides a structural dissociation), Bidirectional Interaction (where consciousness's claim to direct its own attention becomes most testable). Cross-link candidates: attention-and-consciousness, thought-stream-void, transit-void, involuntariness-void, spontaneous-thought-void, initiation-void, erasure-void.
+- **Output**: Write void article on the Distraction Void
 
 ### ✓ 2026-04-23: Cross-review consciousness-and-the-structure-of-scientific-revolutions.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review
