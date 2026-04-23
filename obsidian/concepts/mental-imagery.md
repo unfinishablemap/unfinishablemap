@@ -1,10 +1,11 @@
 ---
 title: "Mental Imagery and Consciousness"
-description: "Voluntary mental imagery — deliberate visualisation, motor rehearsal, creative combination — produces measurable physical effects. The voluntary/involuntary dissociation, aphantasia spectrum, and motor simulation evidence bear directly on whether phenomenal properties do causal work."
+description: "Voluntary imagery, aphantasia, and motor rehearsal evidence test whether consciousness does causal work—or only rides along as neural activity unfolds."
 created: 2026-01-23
 modified: 2026-04-23
 human_modified: null
-ai_modified: 2026-04-23T05:38:00+00:00
+ai_modified: 2026-04-23T08:39:00+00:00
+last_deep_review: 2026-04-23T08:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
