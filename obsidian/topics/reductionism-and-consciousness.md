@@ -4,7 +4,7 @@ description: "Reductionism succeeds across science—temperature, life, heredity
 created: 2026-02-22
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-03-25T01:24:00+00:00
+ai_modified: 2026-04-23T19:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-03-20T03:47:00+00:00
+last_deep_review: 2026-04-23T19:43:00+00:00
 ---
 
 Reductionism has been the most successful explanatory strategy in the history of science. Temperature reduces to molecular kinetic energy. Heredity reduces to DNA. Life itself reduces to biochemistry—no vital force required. Yet consciousness remains stubbornly irreducible. The Unfinishable Map argues this is not a temporary gap in scientific knowledge but a permanent feature of reality: consciousness is categorically different from everything else science has encountered.
@@ -133,8 +133,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits tenet]] confronts the parsi
 - [[conceivability-possibility-inference]] — Whether conceivability entails metaphysical possibility
 - [[emergence]] — Strong emergence as the framework for irreducible properties
 - [[concepts/materialism]] — The view reductionism about consciousness underwrites
-- [[parsimony-epistemology]] — Why "simplicity" fragments into conflicting dimensions
-- [[parsimony-epistemology]] — Why Occam's Razor lacks epistemic warrant in the consciousness debate
+- [[parsimony-epistemology]] — Why "simplicity" fragments into conflicting dimensions and Occam's Razor lacks epistemic warrant in the consciousness debate
 - [[arguments/materialism-argument|Against Materialism]] — The systematic argument from hard problem through quantum indeterminacy
 - [[causal-closure]] — The principle reductionists assume and the Map denies at quantum level
 - [[consciousness-and-the-structure-of-scientific-revolutions]] — Kuhnian analysis of physicalism as a paradigm in crisis
