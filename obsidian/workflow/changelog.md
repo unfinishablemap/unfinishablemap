@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 02:38:00+00:00
+ai_modified: 2026-04-23 03:44:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 03:44 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-integrated-information]]
+- **Previous review**: [[reviews/deep-review-2026-03-19-consciousness-and-integrated-information]]; article was substantively refined 2026-03-25 (Kim exclusion engagement, Tegmark decoherence, circularity acknowledgement)
+- **Word count**: 3534 → 3523 (-11; remains 118% → 117% of 3000 soft target; well below 4000 hard threshold). Operated in length-neutral mode.
+- **Critical issues addressed**: 0 (attribution re-verified; Kim, Tegmark, Fisher citations from 2026-03-25 refinement all accurate; no source/Map conflation)
+- **Medium issues addressed**: 2 (removed stale AI refinement log HTML comment explicitly marked for removal; consolidated duplicate `[[binding-problem]]` entry in Further Reading)
+- **Enhancements made**: 0 — article has reached convergence; 2026-03-25 refinement already applied enhancements identified by previous review
+- **Output**: [[reviews/deep-review-2026-04-23-consciousness-and-integrated-information]]
 
 ## 2026-04-23 02:38 UTC - deep-review
 - **Status**: Success
