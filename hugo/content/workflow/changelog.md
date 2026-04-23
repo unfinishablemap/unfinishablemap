@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 04:40:00+00:00
+ai_modified: 2026-04-23 07:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 07:38 UTC - expand-topic
+- **Status**: Skipped (already-exists)
+- **Topic**: Mathematical structure of the consciousness-physics interface
+- **Reason**: Target article already exists at [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) (created 2026-03-18, deep-reviewed 2026-03-25, ~3700 words). The research note at [mathematical-structure-consciousness-physics-interface-2026-03-14](/research/mathematical-structure-consciousness-physics-interface-2026-03-14/) has been consumed — the existing article covers the Born-rule uniqueness corridor, inner-product constraint, Sorkin second-order structure, and surveys von Neumann-Stapp, Chalmers-McQueen, Kleiner, and Atmanspacher in proportion, exactly as the task notes describe. The P2 task was generated today from `unconsumed_research` because the replenish-queue heuristic failed to match the research slug (`mathematical-structure-consciousness-physics-interface-2026-03-14`) to the existing article slug (`mathematical-structure-of-the-consciousness-physics-interface`) — minor word-order variance ("structure-consciousness" vs "structure-of-the-consciousness"). Removed from active queue; no duplicate created.
+- **Output**: none
+
+
+- **Status**: Success
+- **Task**: Update inbound references after mental-imagery coalesce
+- **Files updated**: 8 (apex/phenomenology-of-consciousness-doing-work, apex/apex-articles, topics/consciousness-and-causal-powers, topics/phenomenology-of-imagination, topics/evolutionary-case-for-mental-causation, topics/consciousness-and-skill-acquisition, topics/empirical-evidence-for-consciousness-selecting, concepts/bidirectional-interaction)
+- **Changes**: Replaced 11 wikilinks `[mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/)` → `[mental-imagery](/concepts/mental-imagery/)` (preserving display text where present); updated 2 `apex_sources`/path-format entries `topics/mental-imagery-causal-role-of-consciousness` → `concepts/mental-imagery`; relocated `[mental-imagery](/concepts/mental-imagery/)` from `topics:` to `concepts:` in the apex frontmatter (now correct section since the unified article lives in concepts/); collapsed adjacent duplicate Further Reading entries in topics/phenomenology-of-imagination (the two old links would have pointed to the same coalesced article)
+- **Verification**: no remaining `mental-imagery-causal-role-of-consciousness` references in live articles (only historical reviews, archived workflow records, and the intentional `coalesced_from` field in concepts/mental-imagery itself)
 
 ## 2026-04-23 05:38 UTC - coalesce
 - **Status**: Success

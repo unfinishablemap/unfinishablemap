@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-17 07:55:00+00:00
+ai_modified: 2026-04-23 06:38:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-20 10:44:00+00:00
 apex_sources:
 - topics/phenomenology-of-agency-vs-passivity
 - topics/consciousness-and-causal-powers
 - topics/evolutionary-case-for-mental-causation
-- topics/mental-imagery-causal-role-of-consciousness
+- concepts/mental-imagery
 - topics/cross-cultural-phenomenology-of-agency
 - concepts/mental-effort
 - concepts/phenomenology-of-choice
@@ -19,6 +19,7 @@ apex_thesis: The felt texture of consciousness in action — effort, selection, 
   evidence confirms and materialist accounts cannot adequately explain.
 author: null
 concepts:
+- '[[mental-imagery]]'
 - '[[mental-effort]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[self-opacity]]'
@@ -44,7 +45,6 @@ topics:
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[consciousness-and-causal-powers]]'
 - '[[evolutionary-case-for-mental-causation]]'
-- '[[mental-imagery-causal-role-of-consciousness]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
 ---
 
@@ -164,7 +164,7 @@ This apex article synthesises:
 - [Phenomenology of Agency vs Passivity](/topics/phenomenology-of-agency-vs-passivity/) — The foundational contrast between doing and undergoing, with analysis of flow, dreams, and clinical dissociations
 - [Consciousness and Causal Powers](/topics/consciousness-and-causal-powers/) — The scope and limits of consciousness's causal influence: selection, holding, biasing, and what consciousness cannot do
 - [The Evolutionary Case for Mental Causation](/topics/evolutionary-case-for-mental-causation/) — Why natural selection provides evidence that consciousness does real causal work
-- [Mental Imagery and the Causal Role of Consciousness](/concepts/mental-imagery/) — Voluntary imagery as a concrete test case where phenomenal content produces measurable physical effects
+- [Mental Imagery and Consciousness](/concepts/mental-imagery/) — Voluntary imagery as a concrete test case where phenomenal content produces measurable physical effects
 - [Cross-Cultural Phenomenology of Agency](/topics/cross-cultural-phenomenology-of-agency/) — How cultural frameworks shape agency experience while leaving a universal phenomenological core intact
 - [Mental Effort and the Quantum Zeno Effect](/concepts/mental-effort/) — The phenomenology of effortful attention as evidence for consciousness-matter interaction
 - [Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deliberation, decision, and authorship

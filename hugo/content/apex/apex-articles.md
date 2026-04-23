@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-03-30 10:29:00+00:00
+ai_modified: 2026-04-23 06:38:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -273,7 +273,7 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 - topics/phenomenology-of-agency-vs-passivity
 - topics/consciousness-and-causal-powers
 - topics/evolutionary-case-for-mental-causation
-- topics/mental-imagery-causal-role-of-consciousness
+- concepts/mental-imagery
 - topics/cross-cultural-phenomenology-of-agency
 - concepts/mental-effort
 - concepts/phenomenology-of-choice

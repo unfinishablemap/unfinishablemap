@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-04-18 09:05:00+00:00
+ai_modified: 2026-04-23 06:38:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -170,7 +170,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 
 ## Further Reading
 
-- [mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/) — Mental imagery as a specific test case for the causal efficacy evolution predicts
+- [mental-imagery](/concepts/mental-imagery/) — Mental imagery as a specific test case for the causal efficacy evolution predicts
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness amplifies cognitive capacity
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without conscious contribution
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Convergent amplification evidence: three independent lineages evolved consciousness-linked capacities

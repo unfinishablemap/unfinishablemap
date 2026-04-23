@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-04-04 03:41:00+00:00
+ai_modified: 2026-04-23 06:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -156,7 +156,7 @@ The empirical convergence supports all five of the Map's [tenets](/tenets/):
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument in depth
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — Where and when selection occurs
 - [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/) — Quantum biology, neural evidence convergence, and the consciousness debate
-- [mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/) — Voluntary imagery as a specific test case for consciousness selecting
+- [mental-imagery](/concepts/mental-imagery/) — Voluntary imagery as a specific test case for consciousness selecting
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — What kind of causation consciousness exercises
 - [baseline-cognition](/concepts/baseline-cognition/) — What neural systems achieve without consciousness
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person evidence from trained observation

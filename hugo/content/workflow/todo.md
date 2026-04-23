@@ -38,34 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update inbound references after mental-imagery coalesce
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: On 2026-04-23, concepts/mental-imagery.md and topics/mental-imagery-causal-role-of-consciousness.md were coalesced into a unified concepts/mental-imagery.md. The following live articles still reference the archived topic slug `[mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/)` and will resolve via archive 301 redirects but should be updated to point to the unified article directly: apex/phenomenology-of-consciousness-doing-work.md, topics/consciousness-and-causal-powers.md, topics/phenomenology-of-imagination.md, topics/evolutionary-case-for-mental-causation.md, topics/consciousness-and-skill-acquisition.md, topics/empirical-evidence-for-consciousness-selecting.md, concepts/bidirectional-interaction.md, apex/apex-articles.md. Replace wikilinks to `[mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/)` with `[mental-imagery](/concepts/mental-imagery/)` (preserving any display text) and verify that the cross-referenced context still makes sense after the merge (the unified article engages identity theory as primary opponent rather than just epiphenomenalism; some references may benefit from updated phrasing).
-- **Source**: coalesce
-- **Generated**: 2026-04-23
-
-### P2: Write concept article on Petitmengin's microphenomenological interview method
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/petitmengin-microphenomenological-interview-2026-04-19.md but no article synthesised. Microphenomenology is a disciplined second-person interview method (Petitmengin, building on Vermersch) that guides subjects through phenomenological reduction, evokes specific past moments in embodied memory, and elicits fine-grained description of pre-reflective structure via non-leading content- and position-direction questions. Reliability studies (Olivares et al. 2015) show ~80% detection of experimental manipulations. Relevance for the Map: (a) it is a concrete methodology for producing disciplined first-person evidence — central to the Map's project of taking phenomenology seriously without relying on untutored introspection; (b) it maps cleanly onto Husserlian evidence categories (strengthens assertoric and presumptive claims; apodictic claims untouched); (c) applications include epileptic prodrome, meditation phenomenology, creative insight — all touching Map clusters (anesthesia-void, attention-interface, phenomenology-of-intellectual-life); (d) documented limits (retrospective reconstruction, demand characteristics, cognitive load) bear on the reliability debates the Map navigates. Medium scope (2000-2500 words). Target section: concepts/ (228/250, has capacity). Tenet alignment: methodological support for Dualism and Bidirectional Interaction (first-person evidence matters). See research/petitmengin-microphenomenological-interview-2026-04-19.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-23
-
-### P2: Write topic article on the mathematical structure of the consciousness-physics interface
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed 2026-03-14 in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md; no corresponding article. The research surveys operator-algebraic approaches, von Neumann's Process 1/Process 2, Chalmers-McQueen's IIT+CSL model, Stapp's quantum Zeno approach, Kleiner's experience-space formalism, and Atmanspacher's non-commutative operator algebra. Central finding: recent Born-rule derivations (Hardy-style axiomatic reconstructions; Sorkin sum-over-histories ruling out third-order interference) show the squared-amplitude rule is tightly constrained — *if* consciousness acts at the measurement interface, the Born rule's form constrains *how* it can act. Article would (a) survey the formal frameworks in proportion, (b) articulate the uniqueness result and its implications for the Map's minimum-quantum-interaction commitment, (c) distinguish what each framework commits to (Hilbert-space linearity, non-commutativity, specific collapse laws) and what the Map can adopt without buying everything, (d) flag where the formalisms remain sketches (Stapp, Kleiner) vs. where they are genuine theories (GRW/CSL), (e) connect to apex/interface-specification-programme.md and to the four-quadrant dualism taxonomy. Long scope (2500-3000 words). Target section: topics/ (232/250, has capacity). Tenet alignment: Minimal Quantum Interaction (directly), Bidirectional Interaction. See research/mathematical-structure-consciousness-physics-interface-2026-03-14.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-23
-
-### P2: Write void article on the witnessing-void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed 2026-03-09 in research/voids-witnessing-void-2026-03-09.md; no corresponding article. The witnessing-void concerns the witness or observer whose presence seems necessary for experience to occur but which cannot itself be observed: every attempt to witness the witness produces a further witness, yielding a regress or vanishing. Distinct from self-opacity (which is about not-knowing *what* the self is) and source-attribution-void (which is about not-knowing *where* content originates): the witnessing-void is about the structural unavailability of the witnessing function to itself. The research connects witness-consciousness debates in phenomenology (Husserl's transcendental ego, Sartre's pre-reflective cogito) with contemporary mysterianism and dualist epistemology. Article would (a) define the witnessing-void precisely and distinguish it from adjacent voids (self-opacity, transparency-void, source-attribution-void), (b) catalogue the regress structure across traditions (Husserlian, Vedantic, Buddhist, analytic), (c) examine whether the void is dissolved by bundle theory or persists across it, (d) connect to the Map's interface programme — if witnessing is interface-side, its inaccessibility to itself is structurally predicted. Medium scope (2000-2500 words). Target section: voids/ (95/100, has capacity — place before voids approach cap). Tenet alignment: Dualism (witness is mind-side), Occam's Razor Has Limits. See research/voids-witnessing-void-2026-03-09.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review concepts/psychophysical-laws.md considering trumping-preemption insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2566,6 +2538,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Write topic article on the mathematical structure of the consciousness-physics interface
+- **Type**: expand-topic
+- **Notes**: Research completed 2026-03-14 in research/mathematical-structure-consciousness-physics-interface-2026-03-14.md; no corresponding article. The research surveys operator-algebraic approaches, von Neumann's Process 1/Process 2, Chalmers-McQueen's IIT+CSL model, Stapp's quantum Zeno approach, Kleiner's experience-space formalism, and Atmanspacher's non-commutative operator algebra. Central finding: recent Born-rule derivations (Hardy-style axiomatic reconstructions; Sorkin sum-over-histories ruling out third-order interference) show the squared-amplitude rule is tightly constrained — *if* consciousness acts at the measurement interface, the Born rule's form constrains *how* it can act. Article would (a) survey the formal frameworks in proportion, (b) articulate the uniqueness result and its implications for the Map's minimum-quantum-interaction commitment, (c) distinguish what each framework commits to (Hilbert-space linearity, non-commutativity, specific collapse laws) and what the Map can adopt without buying everything, (d) flag where the formalisms remain sketches (Stapp, Kleiner) vs. where they are genuine theories (GRW/CSL), (e) connect to apex/interface-specification-programme.md and to the four-quadrant dualism taxonomy. Long scope (2500-3000 words). Target section: topics/ (232/250, has capacity). Tenet alignment: Minimal Quantum Interaction (directly), Bidirectional Interaction. See research/mathematical-structure-consciousness-physics-interface-2026-03-14.md.
+- **Output**: Write topic article on the mathematical structure of the consciousness-physics interface
+
+### ✓ 2026-04-23: Update inbound references after mental-imagery coalesce
+- **Type**: cross-review
+- **Notes**: On 2026-04-23, concepts/mental-imagery.md and topics/mental-imagery-causal-role-of-consciousness.md were coalesced into a unified concepts/mental-imagery.md. The following live articles still reference the archived topic slug `[mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/)` and will resolve via archive 301 redirects but should be updated to point to the unified article directly: apex/phenomenology-of-consciousness-doing-work.md, topics/consciousness-and-causal-powers.md, topics/phenomenology-of-imagination.md, topics/evolutionary-case-for-mental-causation.md, topics/consciousness-and-skill-acquisition.md, topics/empirical-evidence-for-consciousness-selecting.md, concepts/bidirectional-interaction.md, apex/apex-articles.md. Replace wikilinks to `[mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/)` with `[mental-imagery](/concepts/mental-imagery/)` (preserving any display text) and verify that the cross-referenced context still makes sense after the merge (the unified article engages identity theory as primary opponent rather than just epiphenomenalism; some references may benefit from updated phrasing).
+- **Output**: None -- Context: Update inbound references after mental-imagery coalesce
 
 ### ✓ 2026-04-23: Address pessimistic review findings in concepts/trumping-preemption.md
 - **Type**: refine-draft

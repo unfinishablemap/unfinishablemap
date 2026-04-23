@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-20 02:38:00+00:00
+ai_modified: 2026-04-23 06:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -112,8 +112,7 @@ Imagination bears on several of the Map's [tenets](/tenets/) in distinctive ways
 
 ## Further Reading
 
-- [mental-imagery](/concepts/mental-imagery/) — The neuroscience and philosophy of mental imagery, including aphantasia
-- [mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/) — How mental imagery exerts causal influence through conscious processes
+- [mental-imagery](/concepts/mental-imagery/) — The neuroscience and philosophy of mental imagery, including aphantasia and the case that voluntary imagery exerts genuine causal influence
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Non-sensory phenomenal character in thought
 - [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Imagination's role in creative cognition and why human creativity differs from computational generation
 - [consciousness-and-counterfactual-reasoning](/topics/consciousness-and-counterfactual-reasoning/) — Why representing non-actuality requires consciousness

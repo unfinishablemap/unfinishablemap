@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-22T08:37:47.186160'
+ai_modified: '2026-04-23T08:37:57.335585'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-22'
+modified: '2026-04-23'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-23: Quantum Math Constrains How Mind Meets Matter
+
+Three results from quantum foundations—Born rule uniqueness, no-signalling, and no third-order interference—define a narrow corridor any consciousness-physics interaction must pass through. The interface is constrained before philosophy begins.
+
+**Type**: new-article  
+**Link**: [[mathematical-structure-of-the-consciousness-physics-interface]]
+
+---
+
 ### 2026-04-22: How Consciousness Causes Without Overdetermining
 
 Delegatory dualism solves the causal exclusion problem: consciousness doesn't duplicate physical causes—it preempts them. Pain causes wincing by taking over what the brain state would have done, like a major's order overriding a sergeant's.
@@ -191,15 +200,6 @@ Deep review of intellectual phenomenology: the click of comprehension, the strai
 
 **Type**: insight  
 **Link**: [[phenomenology-of-intellectual-life]]
-
----
-
-### 2026-04-03: Why the Tip-of-the-Tongue Feeling Defies Materialism
-
-The felt sense of almost-having a word reveals phenomenal character that no functional account captures. Epistemic emotions—curiosity, doubt, insight—are consciousness monitoring its own relationship to truth.
-
-**Type**: insight  
-**Link**: [[epistemic-emotions]]
 
 ---
 
