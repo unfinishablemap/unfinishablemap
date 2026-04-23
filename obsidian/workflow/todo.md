@@ -37,25 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P0: Research whether Born-rule-violating consciousness-physics interaction is empirically live at the brain interface
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: The Born rule uniqueness result (Masanes, Galley, Müller 2019), the inner-product-from-no-signalling result (Pati 2026), and Sorkin's third-order interference bound (1994) are all *conditional* on the standard QM postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness) and have been *empirically* tested only in photon/atom/superconductor/triple-slit systems. None of these tests probes what happens inside a living brain *during a conscious act of selection*, which is precisely the regime the Map's interface programme targets. If Born-violating behaviour happens only there, we would not have measured it.
-
-    This research task should scope the literature and empirical state of play on:
-    (1) Whether there are any published *direct* tests of the Born rule or no-signalling in neural tissue during conscious measurement-like events (there almost certainly are not, but confirm and cite the absence).
-    (2) Triple-slit / third-order interference bounds: Sinha et al. (2010) and any follow-ups. What is the tightest empirical bound on third-order interference, in what systems, and what would it take to probe this inside a brain or in a neurally-coupled quantum system?
-    (3) Generalised probabilistic theories (GPTs) and alternative probability rules (Aaronson on p=|ψ|^k, etc.) — what would a non-Born rule *look like* at the level of observable statistics, and could such a deviation be localised to brain-internal measurements without leaving an observable signature in brain→muscle→light output?
-    (4) The "minimal quantum interaction" tenet does NOT require us to stay at or below the Born-compliant corridor — it requires the *smallest interaction necessary to cause the effect*. If Born-violating influence is what is actually required to produce the correlation between conscious intention and physical outcome, then the minimum may lie *outside* the corridor. The research should clarify which consciousness-collapse theorists (if any) have explicitly argued this; candidates to check include Stapp's later writings, Penrose-Hameroff on OR as a *modification* of standard QM rather than selection within it, Chalmers-McQueen on super-resistance (does their Φ-dependent collapse technically preserve Born statistics at the ensemble level or not?), and GRW/CSL parameter-tuning arguments.
-    (5) The interpretive-asymmetry point (Tonetto): why consciousness-involving interpretations are held to a higher burden than hidden-variable or many-worlds interpretations even when all three are empirically equivalent *in tested regimes*. Extend this: the same asymmetry may be operating in how we treat the Born corridor as "settled physics" vs "an open empirical question in untested regimes".
-    (6) Reverse case: what positive reasons (if any) exist to expect the brain to be a regime where the QM postulates fail. Russellian monism, Penrose's OR, any argument that gravitational or consciousness-mediated deviations should appear at thresholds that happen to coincide with neural scales.
-    (7) Testability: if Born-violating brain-internal physics is the hypothesis, what experiment *would* it predict? Interface energy flows, statistics of decision outcomes under specific stimulus protocols, anomalies in brain-connected quantum systems (Nelson's PEAR-style experiments, Radin's double-slit observation studies — note these are controversial).
-
-    Output: research notes file in `obsidian/research/` covering the above, with citations. This feeds into the refine-draft task on `topics/mathematical-structure-of-the-consciousness-physics-interface.md`.
-
-- **Source**: human (2026-04-23, conversation about overreach in Born Rule Uniqueness section)
-- **Generated**: 2026-04-23
-
 ### P1: Refine topics/mathematical-structure-of-the-consciousness-physics-interface.md to concede the conditionality of the Born-rule corridor and acknowledge that Born-violating brain-internal interaction may be where the minimum-necessary interaction actually lies
 - **Type**: refine-draft
 - **Status**: pending
@@ -2623,6 +2604,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Research whether Born-rule-violating consciousness-physics interaction is empirically live at the brain interface
+- **Type**: research-topic
+- **Notes**: The Born rule uniqueness result (Masanes, Galley, Müller 2019), the inner-product-from-no-signalling result (Pati 2026), and Sorkin's third-order interference bound (1994) are all *conditional* on the standard QM postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness) and have been *empirically* tested only in photon/atom/superconductor/triple-slit systems. None of these tests probes what happens inside a living brain *during a conscious act of selection*, which is precisely the regime the Map's interface programme targets. If Born-violating behaviour happens only there, we would not have measured it.
+- **Output**: whether Born-rule-violating consciousness-physics interaction is empirically live at the brain interface
 
 ### ✓ 2026-04-23: Cross-review concepts/psychophysical-laws.md considering trumping-preemption insights
 - **Type**: cross-review

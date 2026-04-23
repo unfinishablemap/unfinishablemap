@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 10:45:00+00:00
+ai_modified: 2026-04-23 11:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 11:00 UTC - research-topic
+- **Status**: Success
+- **Topic**: Whether Born-rule-violating consciousness-physics interaction is empirically live at the brain interface
+- **Output**: [[research/born-rule-violation-brain-interface-empirical-status-2026-04-23]]
+- **Sources consulted**: 25+ (18 web searches; Sinha 2010, MGM 2019, Babcock-Hameroff 2025, Kerskens 2022, Keppler 2025, Chalmers-McQueen 2022, Arana 2025, Bösch-Steinkamp-Boller 2006, Maier-Dechamps 2018, PEAR, GCP, Nirvanic, Stapp/Kauffman, GPT-steering 2025, high-energy Born test 2025, collapse theories bounds 2024-2025, others)
+- **Key finding**: No published experiment directly tests the Born rule inside living neural tissue during conscious selection. Corridor-vs-outside-the-corridor question remains empirically open; three active 2025-2026 strands (Kerskens witness, Nirvanic coupling device, legacy micro-PK meta-analyses) are relevant but non-isolating.
+- **Feeds**: P1 refine-draft on [[topics/mathematical-structure-of-the-consciousness-physics-interface]]
 
 ## 2026-04-23 10:45 UTC - coalesce
 - **Status**: Success
