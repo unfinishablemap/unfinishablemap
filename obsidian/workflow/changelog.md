@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 16:02:00+00:00
+ai_modified: 2026-04-23 16:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 16:07 UTC - condense
+- **Status**: Success
+- **File**: [[topics/pragmatist-quantum-foundations-and-the-agent]]
+- **Before**: 4534 words
+- **After**: 3292 words
+- **Reduction**: 27%
+- **Technique**: Removed AI REFINEMENT LOG (per its own "remove after human review" instruction). Condensed § *QBism's Pragmatist Genealogy* by folding the three-part Jamesian-commitments list into one compact paragraph (the three moves are explored again in § *Participatory Realism*). Tightened § *QBism: The Primitive Agent as Dualist Placeholder* — the detailed urgleichung exposition now lives in the sibling [[born-rule-and-the-consciousness-interface]] article, so this article's version retains the summary and cross-link. Merged § *Convergences and Divergences* with § *What the Family Shares* (was nearly 700 words combined, now ~300) — the bullet structure was largely redundant with § *Relation to Site Perspective*. Light trims throughout to § *Participatory Realism*, § *Healey*, § *Stapp*, and prose-level tightening ("Importantly, this," "It should be noted that," etc.). Preserved: opening summary, all section headings, all cross-links, all five Relation-to-Site tenet entries, author voice (Jamesian register, "agent-shaped hole," "under-specified version of the Map"), all References. Status moved from `hard_warning` (>4000) to `soft_warning` (3000–4000 band).
+- **Published**: yes
 
 ## 2026-04-23 16:02 UTC - deep-review
 - **Status**: Success

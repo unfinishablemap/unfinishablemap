@@ -196,13 +196,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-22
 
-### P2: Condense pragmatist-quantum-foundations-and-the-agent.md (4315 words, 108% of hard threshold)
-- **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/ by 315 words (up from 79 when the task was first generated on 2026-04-19 at 4079 words). Additions from the 2026-04-23 refine-draft (agent-sense disambiguation, corridor ensemble-invisibility confession, James/Peirce/Dewey hedging, primitive-in-theory-to-non-physical inference hedge, Healey-counterexample softening) have pushed the article 236 words further into hard-warning. Promoting to P2 so condensation happens sooner rather than accumulating further. Preserve the unified agent-shaped-hole thesis, the four-tradition comparison (QBism/Healey/Brukner-Zeilinger/Stapp), the recent 2026-04-23 hedges, and tenet alignment. Compress any remaining redundancy between the two originally-merged sources and tighten the Jamesian genealogy section (flagged in pessimistic-2026-04-23b as "somewhat expansive"). Target: ≤4000 words. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-19
-- **Updated**: 2026-04-23
-
 ### P3: Write concept article on the Sifting Ratio (10⁸ brain-to-consciousness narrowing)
 - **Type**: expand-topic
 - **Notes**: Zheng and Meister's 10⁸ sifting ratio — called "the largest unexplained number in brain science" in the 2026-04-19 bandwidth/ten-bit-ceiling material — is used across multiple Map articles (bandwidth-of-consciousness, grain-mismatch-as-independent-evidence, the-interface-specification-problem) without a dedicated anchor page. A concept page would (a) define the ratio and its derivation from cortical throughput vs conscious throughput, (b) treat the ratio itself — rather than the ten-bit figure — as the explanandum, (c) survey candidate explanations (neural-oscillation constraints, metabolic cost, evolutionary legacy, interface capacity) on equal terms, (d) connect to the Map's interface argument without overclaiming. Short-to-medium scope (~1500-1800 words). Target section: concepts/ (~228/250, has capacity). Tenet alignment: Minimal Quantum Interaction (quantitative interface), methodological support for the convergence argument. Flagged as medium priority in optimistic-2026-04-19.
@@ -2581,6 +2574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Condense pragmatist-quantum-foundations-and-the-agent.md (4315 words, 108% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/ by 315 words (up from 79 when the task was first generated on 2026-04-19 at 4079 words). Additions from the 2026-04-23 refine-draft (agent-sense disambiguation, corridor ensemble-invisibility confession, James/Peirce/Dewey hedging, primitive-in-theory-to-non-physical inference hedge, Healey-counterexample softening) have pushed the article 236 words further into hard-warning. Promoting to P2 so condensation happens sooner rather than accumulating further. Preserve the unified agent-shaped-hole thesis, the four-tradition comparison (QBism/Healey/Brukner-Zeilinger/Stapp), the recent 2026-04-23 hedges, and tenet alignment. Compress any remaining redundancy between the two originally-merged sources and tighten the Jamesian genealogy section (flagged in pessimistic-2026-04-23b as "somewhat expansive"). Target: ≤4000 words. See /condense skill.
+- **Output**: obsidian/topics/pragmatist-quantum-foundations-and-the-agent.md
 
 ### ✓ 2026-04-23: Rephrase pragmatist-quantum MWI-convergence claim to acknowledge heterogeneity
 - **Type**: refine-draft
