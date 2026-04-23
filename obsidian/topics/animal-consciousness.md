@@ -4,7 +4,7 @@ description: "Do animals have conscious experience? Convergent evidence suggests
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-16T16:58:00+00:00
+ai_modified: 2026-04-23T21:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -47,7 +47,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-20T20:29:00+00:00
+last_deep_review: 2026-04-23T21:17:00+00:00
 ---
 
 Animal consciousness presents the [[problem-of-other-minds]] in its most acute form. We cannot directly access the subjective experience of a bat, octopus, or crow. Yet convergent behavioral and neurological evidence provides strong grounds for thinking many animals have phenomenal consciousness—there is *something it is like* to be them. Dualism faces different challenges than materialism here, but has a distinct advantage: if consciousness is irreducible to physical processes, the [[hard-problem-of-consciousness|hard problem]] applies equally to all conscious beings, and no anthropocentric barrier prevents non-human minds from possessing phenomenal experience. This does not mean all consciousness is identical—it may vary in kind and [[degrees-of-consciousness|degree]] across species, as [discussed in the ape cognition section](#consciousness-and-the-human-ape-intelligence-gap)—but the *capacity* for experience is not reserved for humans. Dualism's challenge lies in explaining how consciousness interfaces with radically different nervous systems, but it places no substrate-specific barrier on consciousness itself.
@@ -131,7 +131,7 @@ This analysis doesn't deny great ape consciousness—they likely have emotional 
 
 The dualist framework accommodates this gradient: consciousness varies along multiple [[degrees-of-consciousness|dimensions]]—intensity, richness, complexity, and access—that configure differently across species, producing different amplification profiles rather than simply "more" or "less" consciousness. This supports the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet: consciousness is causally required for capacities distinguishing human cognition, but the absence of one form of conscious access does not imply the absence of experience.
 
-**The alternative reading.** A purely physicalist account explains the same evidence without the amplification thesis: expanded dorsolateral prefrontal cortex provides additional working-memory scaffolding, arcuate-fasciculus connectivity enables recursive linguistic-syntactic operations, and cortical folding increases representational capacity. Neubauer & Hublin's work on human brain asymmetry handles much of the comparative data through standard neurodevelopmental mechanisms. On this reading, consciousness accompanies but does not drive the capacity gap. The Map favours the amplification reading because it coheres with Bidirectional Interaction, not because the comparative evidence forces it.
+**The alternative reading.** A purely physicalist account explains the same evidence without the amplification thesis: expanded dorsolateral prefrontal cortex provides additional working-memory scaffolding, arcuate-fasciculus connectivity enables recursive linguistic-syntactic operations, and cortical folding increases representational capacity. Standard neurodevelopmental accounts of human brain evolution handle much of the comparative data without invoking amplification. On this reading, consciousness accompanies but does not drive the capacity gap; the Map's preference for amplification is tenet-driven, not forced by the comparative evidence.
 
 ## Dualism and Animal Minds: No Anthropocentric Barrier
 
