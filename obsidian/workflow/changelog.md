@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 22:10:00+00:00
+ai_modified: 2026-04-23 22:19:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 22:19 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/dualist-perception]]
+- **Context**: Retarget wikilinks after coalesce 2026-04-23 22:10 merged `perceptual-reconstruction-selection` into `selective-correction-and-reconstruction-paradox`
+- **Changes**: (1) Removed `[[perceptual-reconstruction-selection]]` from related_articles frontmatter (merge target already listed); (2) Retargeted inline "Bistable percepts" wikilink in Dissociations section to the merged article; (3) Updated "two distinct modes" phrasing in Perception as Active Constitution to reflect the three-mode taxonomy (autonomous correction, faithful transmission, selection under ambiguity) — the third mode now matches bistable-percept case; (4) Deduped Further Reading: removed duplicate `perceptual-reconstruction-selection` entry and broadened the surviving `selective-correction-and-reconstruction-paradox` annotation from "selective editing" to three-mode description
+- **Published**: yes
+- **Follow-up**: `topics/curated-mind.md` still needs equivalent retargeting (todo task P2 remains open)
 
 ## 2026-04-23 22:10 UTC - coalesce
 - **Status**: Success

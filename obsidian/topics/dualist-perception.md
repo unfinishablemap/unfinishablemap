@@ -2,9 +2,9 @@
 title: "Dualist Perception"
 description: "Perception is where consciousness meets the world. Dissociations, phenomenal richness, and perspectival character reveal an irreducible experiential dimension—and dualism reshapes every major question in the philosophy of perception."
 created: 2026-02-16
-modified: 2026-03-19
+modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-18T07:04:00+00:00
+ai_modified: 2026-04-23T22:19:00+00:00
 last_deep_review: 2026-04-18T07:04:00+00:00
 draft: false
 topics:
@@ -36,7 +36,6 @@ related_articles:
   - "[[embodied-cognition]]"
   - "[[capability-division-problem]]"
   - "[[baseline-cognition]]"
-  - "[[perceptual-reconstruction-selection]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[perceptual-failure-and-the-interface]]"
   - "[[perceptual-degradation-and-the-interface]]"
@@ -78,7 +77,7 @@ The most revealing evidence comes from cases where perceptual processing occurs 
 
 The inverse dissociation is equally revealing: [[lucid-dreaming-and-dualist-rendering|lucid dreaming]] demonstrates phenomenally complete perception — vivid visual scenes, spatial navigation, emotional affect — without any sensory input at all. Together, blindsight (processing without experience) and lucid dreaming (experience without input) establish that phenomenal rendering and information processing are separable capabilities. The Map's [[capability-division-problem|capability division framework]] systematises this separation. Brain-side processing handles feature extraction, categorisation, and action guidance. Mind-side contribution includes phenomenal rendering, perceptual ownership, and the flexible deployment of visual information in novel contexts. [[baseline-cognition|Baseline cognition]] — the sophisticated but bounded processing available without consciousness — marks the brain-side boundary.
 
-A third case complements these dissociations. [[perceptual-reconstruction-selection|Bistable percepts]] — the Necker cube, binocular rivalry — present the brain with ambiguous input that generates multiple valid reconstructions. Consciousness alternates between interpretations in patterns that voluntary attention can bias but neural dynamics alone do not fully determine. Where blindsight shows consciousness absent from intact processing, and lucid dreaming shows consciousness present without sensory input, bistable perception shows consciousness *actively participating* in settling which reconstruction becomes experience.
+A third case complements these dissociations. [[selective-correction-and-reconstruction-paradox|Bistable percepts]] — the Necker cube, binocular rivalry — present the brain with ambiguous input that generates multiple valid reconstructions. Consciousness alternates between interpretations in patterns that voluntary attention can bias but neural dynamics alone do not fully determine. Where blindsight shows consciousness absent from intact processing, and lucid dreaming shows consciousness present without sensory input, bistable perception shows consciousness *actively participating* in settling which reconstruction becomes experience.
 
 For dualism, blindsight separates what it cleanly predicts should be separable: the physical processing of visual information and the conscious experience of seeing. The functional performance of blindsight patients is strikingly inferior to normal vision — they require forced-choice procedures, respond slowly, and lack confidence. If consciousness were merely epiphenomenal, this performance gap would be puzzling. Something about conscious vision makes perception *work better*.
 
@@ -132,7 +131,7 @@ If [[qualia]] are irreducible, then perceptual qualities — colours, sounds, ta
 
 Under physicalism, the conscious subject is typically treated as the endpoint of a causal chain: the world acts on the senses, which act on the brain, which produces experience. The Map's [[tenets#^bidirectional-interaction|bidirectional interaction]] tenet opens a different possibility. Consciousness may actively shape what is perceived — not in the sense of hallucinating or distorting, but in the sense of selecting, organising, and constituting the perceptual field.
 
-The evidence supports active constitution. [[consciousness-as-perceptual-architect|Perceptual constancy]] — a white wall looking white under candlelight and fluorescent light despite radically different wavelength compositions — goes beyond what adaptation and cortical normalisation predict. Eigengrau and phosphenes show the interface generating phenomenal content independently of sensory input. Charles Bonnet hallucinations in visual loss produce detailed imagery when the transmission channel narrows. The [[selective-correction-and-reconstruction-paradox|reconstruction paradox]] reveals that the brain operates in two distinct modes: editing some signals (filling the blind spot, suppressing saccadic blur) while faithfully transmitting others (optical blur, tinnitus) — implying a conscious recipient whose experience is being shaped.
+The evidence supports active constitution. [[consciousness-as-perceptual-architect|Perceptual constancy]] — a white wall looking white under candlelight and fluorescent light despite radically different wavelength compositions — goes beyond what adaptation and cortical normalisation predict. Eigengrau and phosphenes show the interface generating phenomenal content independently of sensory input. Charles Bonnet hallucinations in visual loss produce detailed imagery when the transmission channel narrows. The [[selective-correction-and-reconstruction-paradox|reconstruction paradox]] reveals that the brain operates in three distinct modes: autonomously editing some signals (filling the blind spot, suppressing saccadic blur), faithfully transmitting others (optical blur, tinnitus), and presenting ambiguous reconstructions for consciousness to resolve (bistable percepts) — all implying a conscious recipient whose experience is being shaped.
 
 The [[attention-and-the-consciousness-interface|attentional selection]] framework extends this further. Attention determines which sensory signals reach consciousness and in what form. If attention is the interface where consciousness selects among competing neural representations, then the content of perception is partly determined by consciousness itself. The perceiver is not a passive screen but an active participant in constituting what appears.
 
@@ -183,8 +182,7 @@ The Map's [[tenets]] find their sharpest expression in perception.
 - [[capability-division-in-vision]] — Vision-specific evidence constraining the brain/mind boundary
 - [[perceptual-failure-and-the-interface]] — What degraded perception reveals about the interface
 - [[perceptual-degradation-and-the-interface]] — The four failure signatures as evidence for a transmission channel
-- [[selective-correction-and-reconstruction-paradox]] — The reconstruction paradox: selective editing as evidence of a conscious recipient
-- [[perceptual-reconstruction-selection]] — Bistable percepts as evidence of conscious selection
+- [[selective-correction-and-reconstruction-paradox]] — Three modes of signal handling (autonomous correction, faithful transmission, selection under ambiguity) as evidence of a conscious recipient
 - [[knowledge-argument]] — Mary's Room and what physical knowledge misses
 - [[interactionist-dualism]] — The broader framework for mind-body interaction
 - [[curated-mind]] — The curation argument extended from vision to body schema, memory, and self-model
