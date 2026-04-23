@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-23T16:02:55.182926+00:00'
-session_count: 6219
-cycle_position: 5847
+last_updated: '2026-04-23T16:07:55.183195+00:00'
+session_count: 6220
+cycle_position: 5848
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T15:00:58.089958+00:00'
@@ -50,11 +50,17 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 361
+  needs_replenishment: false
+  last_replenishment: '2026-04-23T16:14:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    length_analysis: 1
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-23'
-  outcome: success
 - task: deep-review (obsidian/concepts/consciousness-and-scientific-exp)
   type: deep-review
   date: '2026-04-23'
@@ -135,5 +141,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-04-23'
+  outcome: success
+- task: condense (obsidian/topics/pragmatist-quantum-foundations-and)
+  type: condense
   date: '2026-04-23'
   outcome: success
