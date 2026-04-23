@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 14:22:00+00:00
+ai_modified: 2026-04-23 14:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 14:27 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The empirical status of Born-rule-violating consciousness-physics tests at the brain interface
+- **Output**: [[topics/born-rule-violation-brain-interface-empirical-status]]
+- **Word count**: 2932 (ok status, 98% of 3000 soft max for topics)
+- **Based on research**: yes — [[research/born-rule-violation-brain-interface-empirical-status-2026-04-23]]
+- **Notes**: Front-loads the empirical gap (no direct Born-rule test exists in brain-internal regime), then taxonomises consciousness-physics proposals into corridor (Born-preserving) / minimum-outside-corridor (Born-bending) / trumping (orthogonal to Born) positions. Catalogues three active experimental strands (brain quantum-coherence witnesses, Nirvanic-style coupling devices, legacy micro-PK) and specifies what each could and could not falsify. Relation to Site Perspective connects to Tenets 1, 2, 3, 5. Maintains corridor-vs-minimum-outside-corridor as a live fork per Map's current policy.
 
 ## 2026-04-23 14:22 UTC - condense
 - **Status**: Success
