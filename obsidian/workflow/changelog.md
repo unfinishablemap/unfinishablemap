@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 19:16:00+00:00
+ai_modified: 2026-04-23 19:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 19:23 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Context**: Housekeeping for stale wikilinks left by earlier coalesce operations
+- **Changes**:
+  - Line 105: `[[transition-void]]` → `[[transit-void|The Transit Void]]`, tagline updated to cover both state transitions and onsets of mental acts
+  - Removed stale `[[initiation-void]]` line (now covered by transit-void)
+  - Line 131 (now 130): `[[expertise-occlusion]]` → `[[expertise-and-its-occlusion]]`
+- **Note**: `[[distraction-void]]` already present in "Specific Voids" from the parallel integrate-orphan task; left in place (thematic fit is acceptable there)
+- **Published**: yes
 
 ## 2026-04-23 19:16 UTC - coalesce
 - **Status**: Aborted (no strong candidates)

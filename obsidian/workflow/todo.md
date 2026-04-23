@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update voids/voids.md index for archived transit-void and expertise-and-its-occlusion references
-- **Type**: refine-draft
-- **Notes**: Housekeeping deferred from earlier coalesce operations. `voids/voids.md` (the voids index page) still contains stale wikilinks to archived articles: (1) line 105 `[[transition-void|The Transition Void]]` — transition-void was coalesced into transit-void on 2026-04-16; update to `[[transit-void|The Transit Void]]` and revise the descriptive tagline if needed; (2) line 107 `[[initiation-void|The Initiation Void]]` — initiation-void was also coalesced into transit-void; either remove this line (transit-void already covers it) or merge its description into the transit-void entry; (3) line 131 `[[expertise-occlusion|The Expertise Occlusion]]` — expertise-occlusion was coalesced into expertise-and-its-occlusion on 2026-04-22; update to `[[expertise-and-its-occlusion|The Expertise Occlusion]]`. Archive redirects keep the URLs working but the index is the most visible navigation surface and should not point to archived slugs. While editing, also decide where (if at all) to insert `[[distraction-void]]` if the parallel integrate-orphan task has not yet landed — the index section under "Phenomenology of Limits" alongside attention-and-consciousness would be a natural home.
-- **Source**: coalesce_cleanup
-- **Generated**: 2026-04-23
-
 ### P3: Write a Concession Ledger article cataloguing what the Map does not claim
 - **Type**: expand-topic
 - **Status**: pending
@@ -2601,6 +2595,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Update voids/voids.md index for archived transit-void and expertise-and-its-occlusion references
+- **Type**: refine-draft
+- **Notes**: Housekeeping deferred from earlier coalesce operations. `voids/voids.md` (the voids index page) still contains stale wikilinks to archived articles: (1) line 105 `[[transition-void|The Transition Void]]` — transition-void was coalesced into transit-void on 2026-04-16; update to `[[transit-void|The Transit Void]]` and revise the descriptive tagline if needed; (2) line 107 `[[initiation-void|The Initiation Void]]` — initiation-void was also coalesced into transit-void; either remove this line (transit-void already covers it) or merge its description into the transit-void entry; (3) line 131 `[[expertise-occlusion|The Expertise Occlusion]]` — expertise-occlusion was coalesced into expertise-and-its-occlusion on 2026-04-22; update to `[[expertise-and-its-occlusion|The Expertise Occlusion]]`. Archive redirects keep the URLs working but the index is the most visible navigation surface and should not point to archived slugs. While editing, also decide where (if at all) to insert `[[distraction-void]]` if the parallel integrate-orphan task has not yet landed — the index section under "Phenomenology of Limits" alongside attention-and-consciousness would be a natural home.
+- **Output**: obsidian/voids/voids.md
+
+Task context:
+Housekeeping deferred from earlier coalesce operations. `voids/voids.md` (the voids index page) still contains stale wikilinks to archived articles: (1) line 105 `[[transition-void|The Transition Void]]` — transition-void was coalesced into transit-void on 2026-04-16; update to `[[transit-void|The Transit Void]]` and revise the descriptive tagline if needed; (2) line 107 `[[initiation-void|The Initiation Void]]` — initiation-void was also coalesced into transit-void; either remove this line (transit-void already covers it) or merge its description into the transit-void entry; (3) line 131 `[[expertise-occlusion|The Expertise Occlusion]]` — expertise-occlusion was coalesced into expertise-and-its-occlusion on 2026-04-22; update to `[[expertise-and-its-occlusion|The Expertise Occlusion]]`. Archive redirects keep the URLs working but the index is the most visible navigation surface and should not point to archived slugs. While editing, also decide where (if at all) to insert `[[distraction-void]]` if the parallel integrate-orphan task has not yet landed — the index section under "Phenomenology of Limits" alongside attention-and-consciousness would be a natural home.
 
 ### ✓ 2026-04-23: Cross-review voids/transit-void.md considering distraction-void insights
 - **Type**: cross-review

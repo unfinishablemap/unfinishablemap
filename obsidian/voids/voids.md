@@ -2,9 +2,9 @@
 title: "Voids in the Map"
 description: "Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable, and potentially occluded territories where thought cannot go or is blocked from going."
 created: 2026-01-08
-modified: 2026-04-21
+modified: 2026-04-23
 human_modified: 2026-01-08
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-04-23T19:23:00+00:00
 draft: false
 last_deep_review: 2026-04-21T01:38:00+00:00
 topics: []
@@ -102,10 +102,9 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[infant-consciousness|The Infant Consciousness Void]] — Why our own infant experience is more alien than another adult's mind
 - [[minimal-consciousness-void|The Minimal Consciousness Void]] — Why consciousness cannot investigate its own lower bound
 - [[amplification-void|The Amplification Void]] — Why the chain from quantum influence to neural effect cannot be traced
-- [[transition-void|The Transition Void]] — Why consciousness cannot witness its own state transitions
+- [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings: neither the onset of mental acts nor transitions between states
 - [[distraction-void|The Distraction Void]] — Why the moment of attentional capture is systematically unavailable to the consciousness that is captured
 - [[agency-verification-void|The Agency Verification Void]] — Why consciousness cannot verify its own causal powers
-- [[initiation-void|The Initiation Void]] — Why consciousness cannot witness the onset of its own mental acts
 - [[thrownness-void|The Thrownness Void]] — Why consciousness cannot access the conditions under which it became conscious
 - [[smoothness-and-continuity|Smoothness and Continuity]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [[counterfactual-void|The Counterfactual Void]] — How counterfactual thinking is trapped near actuality
@@ -129,7 +128,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Mechanisms of cognitive slippage
 - [[attention-and-consciousness|Attention and the Voids of Consciousness]] — How attending generates unattendable territory, and how disordered attention creates unmappable voids
 - [[disappearance-voids|The Disappearance Voids]] — How absorption, habituation, and fatigue each erase phenomenal content through distinct mechanisms
-- [[expertise-occlusion|The Expertise Occlusion]] — How mastery actively defends its own opacity
+- [[expertise-and-its-occlusion|The Expertise Occlusion]] — How mastery actively defends its own opacity
 - [[appetitive-void|The Appetitive Void]] — How desire constitutes cognition rather than merely distorting it
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Self-reference, error-blindness, and the bootstrap problem of self-correction
 - [[altered-states-as-void-probes|Altered States as Void Probes]] — Whether altered states reveal cognitive limits or simulate transcendence
