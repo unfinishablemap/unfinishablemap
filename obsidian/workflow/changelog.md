@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 12:52:00+00:00
+ai_modified: 2026-04-23 12:59:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 12:59 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Before**: 3518 words (hard_warning — concepts threshold 3500)
+- **After**: 2512 words (soft_warning — right at target 2500)
+- **Reduction**: 29%
+- **Technique**: Merged "Distinction: Agent vs Event Causation" into preceding substance-causation discussion (eliminating redundancy between the two). Condensed "Event Causation vs Substance Causation" and "Lowe's Framework" subsections — removed bold term-definition pattern, kept key quotes. Compressed "Why This Matters for Consciousness" + "Causal Closure" + "Challenges" into one tighter section. Condensed Major Defenders from 6 paragraphs to 6 one-liners. Turned Luck Objection's 4-bullet list into inline prose. Tightened Map's Framework (removed causal-closure objection paragraph — repeated elsewhere). Condensed Sourcehood, Skill Delegation, Voluntary Attention, Motor Selection, Creative Generation by trimming elaboration and redundant phenomenology. Tightened Relation to Site Perspective paragraphs (removed restatement of value-connection argument, kept tenet connections). Further Reading: compressed from 26 individual entries to 11 grouped entries. Preserved opening summary, all core arguments, all five tenet connections, falsifiability section, full References list.
 
 ## 2026-04-23 12:52 UTC - condense
 - **Status**: Success

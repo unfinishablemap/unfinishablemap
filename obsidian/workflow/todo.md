@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-23
 
-### P2: Condense concepts/agent-causation.md (3518 words, 141% of soft threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/ by 18 words (100.5% of hard, 141% of 2500-word soft). Marginally over — targeted trimming rather than a full condense pass. Preserve (a) the substance-causation framework (Lowe, Reid, Chisholm, O'Connor), (b) the Map's position on agent causation as the causal mode underwriting agent teleology, (c) cross-references to phenomenology-of-choice-and-volition, free-will, trumping-preemption, delegatory-causation, (d) the 300ms / frontal theta / bidirectional coherence empirical paragraph cited in reviews/deep-review-2026-04-23-agent-teleology.md, (e) the tenet-alignment section. Compress redundancy between abstract statements of the framework and their later applications; consolidate any Further Reading entries that duplicate in-body citations. Target: ≤3500 words (re-establish small buffer under hard threshold). See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-23
-
 ### P3: Write concept article on The Authority Layer as a general philosophical category
 - **Type**: expand-topic
 - **Status**: pending
@@ -2559,6 +2552,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Condense concepts/agent-causation.md (3518 words, 141% of soft threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/ by 18 words (100.5% of hard, 141% of 2500-word soft). Marginally over — targeted trimming rather than a full condense pass. Preserve (a) the substance-causation framework (Lowe, Reid, Chisholm, O'Connor), (b) the Map's position on agent causation as the causal mode underwriting agent teleology, (c) cross-references to phenomenology-of-choice-and-volition, free-will, trumping-preemption, delegatory-causation, (d) the 300ms / frontal theta / bidirectional coherence empirical paragraph cited in reviews/deep-review-2026-04-23-agent-teleology.md, (e) the tenet-alignment section. Compress redundancy between abstract statements of the framework and their later applications; consolidate any Further Reading entries that duplicate in-body citations. Target: ≤3500 words (re-establish small buffer under hard threshold). See /condense skill.
+- **Output**: obsidian/concepts/agent-causation.md
 
 ### ✓ 2026-04-23: Condense voids/meta-epistemology-of-limits.md (3119 words, 156% of soft threshold)
 - **Type**: condense

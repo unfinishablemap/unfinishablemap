@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-23T12:45:12.698915+00:00'
-session_count: 6192
-cycle_position: 5820
+last_updated: '2026-04-23T12:52:24.879434+00:00'
+session_count: 6193
+cycle_position: 5821
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T11:52:22.110978+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-23'
-  outcome: success
 - task: 'deep-review (None -- Context: Update inbound references after m)'
   type: deep-review
   date: '2026-04-23'
@@ -134,5 +130,9 @@ recent_tasks:
   outcome: success
 - task: optimistic-review
   type: optimistic-review
+  date: '2026-04-23'
+  outcome: success
+- task: condense (obsidian/voids/meta-epistemology-of-limits.md)
+  type: condense
   date: '2026-04-23'
   outcome: success
