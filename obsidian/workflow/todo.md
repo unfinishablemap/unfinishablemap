@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/psychophysical-laws.md considering trumping-preemption insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article concepts/trumping-preemption.md (2026-04-22) makes the authority-selecting psychophysical law the load-bearing posit of its dualist application — without such a law, trumping collapses into brute stipulation. concepts/psychophysical-laws.md is the natural hub article on the Map's treatment of psychophysical laws but was last cross-reviewed before trumping-preemption existed. Review should (a) add cross-link to trumping-preemption as the structural template that makes psychophysical laws do the heavy lifting of selecting experience as authoritative, (b) check whether the existing taxonomy of psychophysical-law proposals on the page distinguishes authority-selecting laws (Saad's Subset/Delegatory laws) from bridge laws and correlational laws, (c) check for terminology drift — does the article use "psychophysical law" in ways compatible with Saad's usage in trumping-preemption? (d) flag any opportunities to strengthen the "principled vs. stipulative" distinction that trumping's applicability depends on. See concepts/trumping-preemption.md §"Applying the Template to Mental Causation" and §"Costs of the Template".
-- **Source**: chain (from concepts/trumping-preemption.md)
-- **Generated**: 2026-04-23
-
 ### P3: Write concept article on The Authority Layer as a general philosophical category
 - **Type**: expand-topic
 - **Status**: pending
@@ -2537,6 +2530,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review concepts/psychophysical-laws.md considering trumping-preemption insights
+- **Type**: cross-review
+- **Notes**: New article concepts/trumping-preemption.md (2026-04-22) makes the authority-selecting psychophysical law the load-bearing posit of its dualist application — without such a law, trumping collapses into brute stipulation. concepts/psychophysical-laws.md is the natural hub article on the Map's treatment of psychophysical laws but was last cross-reviewed before trumping-preemption existed. Review should (a) add cross-link to trumping-preemption as the structural template that makes psychophysical laws do the heavy lifting of selecting experience as authoritative, (b) check whether the existing taxonomy of psychophysical-law proposals on the page distinguishes authority-selecting laws (Saad's Subset/Delegatory laws) from bridge laws and correlational laws, (c) check for terminology drift — does the article use "psychophysical law" in ways compatible with Saad's usage in trumping-preemption? (d) flag any opportunities to strengthen the "principled vs. stipulative" distinction that trumping's applicability depends on. See concepts/trumping-preemption.md §"Applying the Template to Mental Causation" and §"Costs of the Template".
+- **Output**: obsidian/concepts/psychophysical-laws.md -- Context: Cross-review concepts/psychophysical-laws.md considering trumping-preemption insights
 
 ### ✓ 2026-04-23: Write topic article on the mathematical structure of the consciousness-physics interface
 - **Type**: expand-topic

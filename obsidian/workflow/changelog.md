@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 08:39:00+00:00
+ai_modified: 2026-04-23 09:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/psychophysical-laws]]
+- **Word count**: 3224 → 3289 (+65; article at 132% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-review integration gap with [[trumping-preemption]] and [[delegatory-causation]])
+- **Enhancements made**: 5 (trajectory-altering vs. authority-selecting structural distinction added after supervenience/causal-laws table; pointer added in Candidate Coupling Laws intro; concept frontmatter updated; Further Reading entries added; Schaffer 2000 added to References)
+- **Context**: Cross-review considering trumping-preemption insights (concept created 2026-04-22). Four prose trims applied to partially offset additions. Net +65 words judged acceptable for a substantive integration; article remains below 3500-word hard threshold.
+- **Output**: [[reviews/deep-review-2026-04-23-psychophysical-laws]]
 
 ## 2026-04-23 08:39 UTC - deep-review
 - **Status**: Success

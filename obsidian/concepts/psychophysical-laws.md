@@ -4,7 +4,7 @@ description: "Fundamental principles connecting conscious experience to physical
 created: 2026-01-16
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-04-16T11:59:00+00:00
+ai_modified: 2026-04-23T09:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,8 @@ concepts:
   - "[[coupling-modes]]"
   - "[[bidirectional-interaction]]"
   - "[[neural-correlates-of-consciousness]]"
+  - "[[trumping-preemption]]"
+  - "[[delegatory-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
@@ -49,7 +51,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-03-27T20:17:00+00:00
+last_deep_review: 2026-04-23T09:38:00+00:00
 coalesced_from:
   - "/concepts/psychophysical-laws/"
   - "/concepts/psychophysical-coupling/"
@@ -76,7 +78,7 @@ A crucial distinction: psychophysical laws can be *[[supervenience]] laws* or *c
 
 **Causal laws** (or "selection laws" in the Map's terminology) specify how mental states influence which physical states become actual. The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet requires causal laws—consciousness selects among physically underdetermined alternatives. Chalmers' framework primarily develops the upward direction; the Map needs both, with emphasis on the downward direction (phenomenal → physical selection).
 
-Functionalists respond that mental reports can track mental states without downward causation—tracking is mediated by functional organization. But functional organization doesn't explain *why* there is something it is like to be in these states. If phenomenal properties are distinct from functional properties (as the Map holds) and our reports accurately reflect them, then phenomenal properties must causally influence reports. Denying the distinctness returns us to the hard problem.
+Functionalists respond that reports track mental states through functional organization alone. But if phenomenal properties are distinct from functional properties (as the Map holds) and our reports accurately reflect them, phenomenal properties must causally influence reports. Denying the distinctness returns us to the hard problem.
 
 | Feature | Supervenience Laws | Selection Laws |
 |---------|-------------------|----------------|
@@ -86,13 +88,15 @@ Functionalists respond that mental reports can track mental states without downw
 | Compatible with epiphenomenalism? | Yes | No |
 | Developed by | Chalmers (extensively) | Stapp, Eccles (partially) |
 
+Causal laws themselves admit two structural modes. *Trajectory-altering* laws specify which physically underdetermined outcome consciousness makes actual—the Stapp-style reading where selection biases a quantum branching. *Authority-selecting* laws, modelled on Schaffer's (2000) [[trumping-preemption|trumping preemption]] and developed in [[delegatory-causation]], assign causal authority to the experience while the physical correlate retains counterfactual sufficiency—the physical trajectory is unchanged. Both preserve observational closure; they differ in whether coupling reads at the quantum interface or as an attribution-level rule.
+
 ## Chalmers' Three Principles
 
 In "Facing Up to the Problem of Consciousness" (1995), Chalmers proposes three psychophysical principles:
 
 1. **Structural Coherence**: The structure of conscious experience corresponds to cognitive awareness structure. Limitation: inverted spectrum scenarios show structure alone doesn't determine phenomenal quality.
 
-2. **Organizational Invariance**: Systems with identical functional organization have identical experiences. The Map rejects this—[[concepts/functionalism]] fails because the zombie argument shows functional organization doesn't logically entail experience. The [[haecceity]] of the particular conscious subject may matter beyond abstract patterns.
+2. **Organizational Invariance**: Systems with identical functional organization have identical experiences. The Map rejects this on zombie-argument grounds ([[concepts/functionalism]] doesn't entail experience); the [[haecceity]] of the subject may matter beyond abstract patterns.
 
 3. **Double-Aspect Theory of Information**: Information has both physical and phenomenal aspects, anticipating [[integrated-information-theory|IIT]]. The Map is skeptical of IIT's specific measures but the general information-experience connection remains relevant.
 
@@ -153,7 +157,7 @@ An NCC programme is compatible with [[concepts/epiphenomenalism|epiphenomenalism
 
 ## Candidate Coupling Laws
 
-Four families of coupling laws emerge, operating through different [[coupling-modes]]—basis control, timing control, or probability control:
+Four families of coupling laws emerge, operating through different [[coupling-modes]]—basis control, timing control, or probability control. These are variable-focused trajectory-altering laws; the structurally orthogonal authority-selecting alternative is developed in [[delegatory-causation]] via [[trumping-preemption|trumping]].
 
 ### Law Family 1: Attention-Bounded Selection {#attention}
 
@@ -201,7 +205,7 @@ Selection operates through attention, which is neurally implemented. The brain s
 
 ## The Decoherence Challenge
 
-Any coupling law faces the [[decoherence]] objection: quantum superpositions in warm biological systems decay within femtoseconds—far too fast for neural processes on millisecond timescales. Three responses: (1) decoherence doesn't solve the measurement problem—even after decoherence, something must determine *which* outcome occurs, leaving a gap for consciousness to fill; (2) quantum biology shows some biological systems maintain coherence longer than thermal models predict, though most physicists accept Tegmark's calculations for neural-scale processes; (3) Stapp's Zeno mechanism operates through observation *frequency*, not coherence *duration*, so it doesn't require sustained coherence—though Georgiev's simulations challenge whether this works in biologically realistic conditions.
+Any coupling law faces the [[decoherence]] objection: quantum superpositions in warm biological systems decay within femtoseconds—far too fast for neural processes on millisecond timescales. Three responses: (1) decoherence doesn't solve the measurement problem—something must still determine *which* outcome occurs, leaving a gap for consciousness; (2) quantum biology shows some biological systems sustain coherence longer than thermal models predict, though Tegmark's calculations are widely accepted at neural scales; (3) Stapp's Zeno mechanism operates through observation *frequency*, not coherence *duration*—though Georgiev's simulations challenge whether this holds under biologically realistic conditions.
 
 ## The Illusionist Challenge
 
@@ -209,11 +213,11 @@ Any coupling law faces the [[decoherence]] objection: quantum superpositions in 
 
 ## Contemplative Evidence
 
-[[mental-effort|Mental effort]]—the phenomenology of trying, attending, and directing—provides first-person evidence for downward causation. Effort feels like *doing* something to neural patterns, not passively observing. Advanced meditators report conscious experience continuing even as cognitive processing dramatically reduces, suggesting the relationship is more bidirectional than Chalmers' supervenience-only framework implies. [[witness-consciousness|Witness consciousness]]—the capacity to observe mental contents without identifying with them—further suggests consciousness is categorically different from its contents.
+[[mental-effort|Mental effort]]—the phenomenology of trying, attending, and directing—provides first-person evidence for downward causation. Effort feels like *doing* something to neural patterns, not passively observing. Advanced meditators report experience continuing as cognitive processing dramatically reduces, suggesting bidirectional coupling beyond Chalmers' supervenience-only framework. [[witness-consciousness|Witness consciousness]]—observing mental contents without identifying with them—further suggests consciousness is categorically different from its contents.
 
 ## Testing the Coupling Law
 
-**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes, with mixed results attributed to publication bias. If coupling restricts selection to attention-controlled neural systems, RNG experiments should fail by design—the RNG is external.
+**Random number generator experiments** have attempted to detect consciousness influencing external quantum outcomes, with mixed results attributed to publication bias. If coupling restricts selection to attention-controlled neural systems, RNG experiments should fail by design.
 
 **A better test**: Measure whether conscious effort correlates with neural pattern stability in attention networks. If Stapp's Zeno mechanism is real, effort should map to pattern persistence.
 
@@ -221,7 +225,7 @@ Any coupling law faces the [[decoherence]] objection: quantum superpositions in 
 
 ## What Would Challenge This View?
 
-The framework would face serious difficulty if: (1) the hard problem dissolves—if neuroscience explains our *belief* in consciousness without invoking phenomenal properties; (2) quantum mechanisms prove unavailable at neural scales, removing the Map's proposed pathway for downward causation; (3) organizational invariance is demonstrated through successful consciousness uploading, undermining the Map's rejection of functionalism; (4) many-worlds interpretation is confirmed, reducing selection laws to indexical uncertainty; (5) the ~10 bits/second bandwidth constraint proves incompatible with any quantum selection mechanism; or (6) RNG experiments consistently succeed, requiring revision of the attention-bounded scope restriction.
+The framework would face serious difficulty if: (1) the hard problem dissolves—neuroscience explains our *belief* in consciousness without invoking phenomenal properties; (2) quantum mechanisms prove unavailable at neural scales, removing the proposed pathway for downward causation; (3) organizational invariance is demonstrated through successful consciousness uploading; (4) many-worlds is confirmed, reducing selection to indexical uncertainty; (5) the ~10 bits/second bandwidth proves incompatible with any quantum selection mechanism; or (6) RNG experiments consistently succeed, requiring revision of attention-bounded scope.
 
 ## Relation to Site Perspective
 
@@ -257,6 +261,8 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 - [[history-of-the-interaction-problem]] — The historical form of the coupling problem
 - [[amplification-mechanisms-consciousness-physics]] — Six proposed mechanisms bridging quantum selection to macroscopic neural effects
 - [[consciousness-bandwidth-architecture]] — The bandwidth constraint on conscious selection
+- [[trumping-preemption]] — Schaffer's fourth species of redundant causation, supplying the structural template for authority-selecting coupling
+- [[delegatory-causation]] — Saad's Subset Law* and Delegatory Law: the developed authority-selecting psychophysical law
 - [[delegation-meets-quantum-selection]] — The Born-rule distribution as the physical grounding of Saad's default causal profile, giving empirical content to psychophysical coupling
 - [[the-interface-specification-problem]] — The challenge of specifying the mind-matter mapping
 - [[concepts/functionalism]] — The view the Map rejects
@@ -272,9 +278,10 @@ The Map cannot resolve which coupling law is correct—this remains open. What t
 4. Eccles, J.C. (1994). *How the Self Controls Its Brain*. Springer.
 5. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies* 23(11-12), 11-39.
 6. Georgiev, D.D. (2015). "Monte Carlo simulation of quantum Zeno effect in the brain." *International Journal of Modern Physics B* 29(7), 1550039. arXiv:1412.4741.
-7. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
-8. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
-9. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-10. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
-11. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
-12. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
+7. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
+8. Schaffer, J. "Naturalistic Dualism and the Problem of the Physical Correlate." http://www.jonathanschaffer.org/dualismcorrelate.pdf
+9. Schwartz, J.M. et al. (1996). "Systematic changes in cerebral glucose metabolic rate after successful behavior modification treatment of obsessive-compulsive disorder." *Archives of General Psychiatry* 53(2), 109-113.
+10. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+11. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+12. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E* 61(4), 4194-4206.
+13. Zheng, J. & Meister, M. (2025). "The Unbearable Slowness of Being: Why do we live at 10 bits/s?" *Neuron* 113(2), 192-204.
