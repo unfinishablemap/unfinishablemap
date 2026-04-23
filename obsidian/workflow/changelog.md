@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 17:17:00+00:00
+ai_modified: 2026-04-23 17:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 17:24 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Distraction Void — why consciousness cannot observe the moment of attention-capture; distraction is visible only in retrospect
+- **Category**: Mixed (primarily Occluded, with Unexplorable and Unexplored structure)
+- **Output**: [[research/voids-distraction-void-2026-04-23]]
+- **Key finding**: Neural signatures (MMN ~200 ms, P3a ~250–300 ms) of involuntary attention capture precede the awareness-linked P3b (~300–500 ms), and phenomenological, contemplative, and microphenomenological traditions converge on the same structural feature — one finds oneself elsewhere, never in the act of leaving; the Map's Bidirectional-Interaction tenet makes this void a prime occlusion candidate, since it hides the exact interface consciousness is supposedly using to direct attention.
 
 ## 2026-04-23 17:17 UTC - refine-draft
 - **Status**: Success (verification-only pass)
