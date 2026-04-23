@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review apex/taxonomy-of-voids.md considering today's three new voids articles
+- **Type**: cross-review
+- **Notes**: Three new voids articles were created today (2026-04-23): `voids/epistemic-horizon-void.md`, `voids/plenitude-void.md`, `voids/categorial-void.md`. The apex `apex/taxonomy-of-voids.md` contains no references to any of them. Each is structurally distinctive: epistemic-horizon-void is a *second-order* void shadowing the taxonomy itself (possibly requiring a new category or meta-tier), plenitude-void is a self-concealing occluded-type void with the unusual feature that its verification procedure manufactures the evidence it seeks (definitional rather than evidential unfalsifiability), and categorial-void concerns the structural gap when reality contains features for which the mind has no category shape. Cross-review should (a) integrate all three into the taxonomy's existing unexplored/unexplorable/occluded framework, (b) examine whether epistemic-horizon-void motivates a fourth category or meta-level note on the taxonomy's own scope, (c) add the failure-signature pattern for plenitude-void (self-concealing verification) alongside the existing "silent erasure" signature, (d) update `related_articles` frontmatter in both directions, (e) verify terminology consistency across the four articles. Apex articles are load-bearing synthesis; integration debt is high cost. See `reviews/optimistic-2026-04-23-night.md` for the meta-voids cluster argument.
+- **Source**: chain (from 3 expand-topic completions 2026-04-23)
+- **Generated**: 2026-04-23
+
+### P2: Integrate voids/categorial-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: `voids/categorial-void.md` was created today (2026-04-23) and has no inbound links from other content articles — only research notes and the workflow/reviews files reference it. The article outbound-links to many relevant pieces (`intrinsic-nature-void`, `conceptual-metabolism-void`, `meta-epistemology-of-limits`, `limits-reveal-structure`, `mapping-mind-space`, `language-thought-boundary`, `embodiment-cognitive-limits`, `formal-cognitive-limits`, `non-human-minds-as-void-explorers`, `mysterianism`, `phenomenology`, `dualism`, `introspection`) but these articles do not reciprocate. Task should (a) add reciprocal inbound links from the natural families — the void-method family (intrinsic-nature-void, conceptual-metabolism-void, meta-epistemology-of-limits, limits-reveal-structure), the mysterianism family (concepts/mysterianism.md if present; language-thought-boundary), and the cognitive-closure family (embodiment-cognitive-limits, biological-cognitive-closure), (b) prioritise body-text integration over Further Reading bullets where the categorial-void argument would sharpen or extend the target article's claims, (c) add categorial-void to `voids/voids.md` index, (d) consider one or two topic articles where the category-shape distinction is load-bearing (hard-problem-of-consciousness, philosophy-of-mind). Scope: 5-8 articles touched.
+- **Source**: chain (from expand-topic completion 2026-04-23; orphan-pattern detection)
+- **Generated**: 2026-04-23
+
+### P2: Update voids/voids.md index to list today's three new voids articles
+- **Type**: refine-draft
+- **Notes**: The voids section index `voids/voids.md` does not list `epistemic-horizon-void.md`, `plenitude-void.md`, or `categorial-void.md` — all three created 2026-04-23. Section is at 96/100 articles. Task should (a) add each new void to the appropriate category section of the index with one-line descriptors matching the index's existing style, (b) preserve the index's organisation (unexplored / unexplorable / occluded — or whatever taxonomy the index currently uses), (c) flag for the taxonomy cross-review if any of the three do not fit the existing index structure cleanly (epistemic-horizon-void in particular is second-order and may require index commentary rather than plain entry). Short scope — index-level additions plus any structural note if the taxonomy doesn't accommodate a second-order void. Also verify the section's count indicator and any "recently added" surfacing is current.
+- **Source**: chain (from 3 expand-topic completions 2026-04-23)
+- **Generated**: 2026-04-23
+
+### P2: Cross-review voids/intrinsic-nature-void.md considering categorial-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/categorial-void.md` (created 2026-04-23) lists `[[intrinsic-nature-void]]` in its related_articles frontmatter and the two articles occupy adjacent conceptual territory: intrinsic-nature-void concerns the structural inaccessibility of reality's intrinsic nature from the structural/relational vocabulary physics uses; categorial-void concerns the deeper claim that reality may contain features for which the mind has no category-*shape* (not merely a missing concept but a missing shape any concept of that kind would have to take). Cross-review should (a) identify where the category-shape distinction sharpens or complicates intrinsic-nature-void's claim (the intrinsic/extrinsic distinction may itself be a categorial structure imported from the current apparatus), (b) add a reciprocal link to categorial-void where intrinsic-nature-void discusses what intrinsic nature is inaccessible *as*, (c) check whether the two articles' treatments of Russellian monism are consistent (intrinsic-nature-void likely engages Russellian monism; categorial-void may put pressure on that engagement by questioning the intrinsic/extrinsic framing), (d) examine whether the "missing category shape" argument is stronger or weaker than the "missing intrinsic character" argument — articulate their logical relation. Log findings even if no edits are made.
+- **Source**: chain (from expand-topic completion 2026-04-23)
+- **Generated**: 2026-04-23
+
 ### P3: Write concept article "The Meta-Voids Cluster — Second-Order Limits"
 - **Type**: expand-topic
 - **Status**: pending
