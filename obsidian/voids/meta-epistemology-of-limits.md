@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine? Can we predict which
 created: 2026-01-16
 modified: 2026-04-23
 human_modified: null
-ai_modified: 2026-04-23T14:05:00+00:00
+ai_modified: 2026-04-23T21:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,12 +36,13 @@ related_articles:
   - "[[apophatic-cartography]]"
   - "[[phenomenal-quality-void]]"
   - "[[noetic-feelings-void]]"
+  - "[[epistemic-horizon-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-19
 last_curated: null
-last_deep_review: 2026-04-21T20:38:00+00:00
+last_deep_review: 2026-04-23T21:28:00+00:00
 coalesced_from:
   - "/voids/epistemology-of-cognitive-limits/"
   - "/voids/natural-vs-designed-limits/"
@@ -127,11 +128,11 @@ The recursive challenge applies equally to the dualist position the Map defends.
 
 ## Phenomenology of Suspension
 
-Approaching this question has a distinctive feel: **suspension rather than confusion**, where arguments on both sides have genuine force but neither settles the matter; **recursive vertigo** from recognising the self-referential structure; **temptation to premature closure**, the psychological pressure to declare the voids real or illusory and be done with it; and paradoxically, **relief in acceptance** that the question may be permanently open. Each of these textures is itself a [[noetic-feelings-void|noetic feeling]] — a felt verdict whose underlying heuristic machinery is occluded — which means the suspended position must be held against the fluency-driven pull toward closure, not merely decided on intellectually. This phenomenology differs from approaching [[self-maintained-cognitive-limits|defended territory]], where thoughts slide away or evade articulation. Suspension feels like stable equilibrium; defended territory feels like active deflection.
+Approaching this question has a distinctive feel: **suspension rather than confusion**, where arguments on both sides have genuine force but neither settles the matter; **recursive vertigo** from recognising the self-referential structure; **temptation to premature closure**, the psychological pressure to declare the voids real or illusory and be done with it; and paradoxically, **relief in acceptance** that the question may be permanently open. Each of these textures is itself a [[noetic-feelings-void|noetic feeling]] — a felt verdict whose underlying heuristic machinery is occluded — which means the suspended position must be held against the fluency-driven pull toward closure, not merely decided on intellectually. This differs from approaching [[self-maintained-cognitive-limits|defended territory]], where thoughts slide away: suspension is stable equilibrium, defended territory is active deflection.
 
 ## Implications for the Voids Framework
 
-**Meta-uncertainty is built in.** The voids project cannot assume its central premise (that some voids are genuinely unexplorable), nor dismiss it. Appropriate stance: humility about the framework's own foundations.
+**Meta-uncertainty is built in.** The voids project cannot assume its central premise (that some voids are genuinely unexplorable), nor dismiss it, nor estimate what fraction of the territory its catalogue covers—the [[epistemic-horizon-void|epistemic horizon void]] is this second-order limit. Appropriate stance: humility about the framework's own foundations.
 
 **Indirect methods become primary.** Direct verification being impossible, the Map tracks the *shape* of failure. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] systematises this into four routes: failure analysis, convergence, structural inference, and apophatic reasoning.
 
@@ -153,7 +154,7 @@ Approaching this question has a distinctive feel: **suspension rather than confu
 
 A convincing solution to the hard problem would undermine cognitive closure, provided the solution addresses what *seemed* permanently inaccessible rather than a nearby problem. Discovery of a reliable internal method for distinguishing natural from designed constraints would dissolve the detection problem. Evidence that AI systems, trained independently of human concepts, converge on the same limits would strengthen the case for genuine closure; breakthroughs where humans stall would weaken it.
 
-None of these conditions has been met. The hard problem remains as puzzling after 30 years as when Chalmers formalised it—the situation the suspended position predicts. The voids framework does not require that the voids be real; only that we take seriously the possibility that they might be, and investigate accordingly. That the question itself is undecidable from within is informative: the kind of minds we are cannot determine whether our limits are permanent. This uncertainty is not a bug but a feature of the epistemic landscape.
+None of these conditions has been met. The hard problem remains as puzzling after 30 years as when Chalmers formalised it—the situation the suspended position predicts. The voids framework does not require that the voids be real; only that we take seriously the possibility that they might be, and investigate accordingly. That the question itself is undecidable from within is informative: the kind of minds we are cannot determine whether our limits are permanent. The undecidability is itself a datum about the epistemic landscape.
 
 ## Further Reading
 
@@ -170,6 +171,7 @@ None of these conditions has been met. The hard problem remains as puzzling afte
 - [[inspection-paradox|The Inspection Paradox]] — The general structural pattern
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why the stamp of realness hides itself
 - [[epistemology-of-limit-knowledge]] — The systematic account of limit-claim methods
+- [[epistemic-horizon-void|The Epistemic Horizon Void]] — The second-order limit: estimating total scope from within
 
 ## References
 

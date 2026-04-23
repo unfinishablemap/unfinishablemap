@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review meta-epistemology-of-limits.md considering epistemic-horizon-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/epistemic-horizon-void.md` (created 2026-04-23 via expand-topic) positions itself as a *second-order* void distinct from `voids/meta-epistemology-of-limits.md`: meta-epistemology-of-limits asks how we can recognise that a limit is real from within a limited mind (a first-order question about any given void); epistemic-horizon-void asks the further question — granting some limits are real, can we estimate how many? The horizon void "shadows every other void" in the Map's catalogue and makes meta-epistemology-of-limits's framework structurally incomplete. Meta-epistemology-of-limits (itself a 2026-04-23 coalesce product that absorbed whether-real.md) was reviewed before epistemic-horizon-void existed. Cross-review should (a) add a forward link where meta-epistemology-of-limits discusses the scope of its own argument — horizon-void is the natural boundary case, (b) check whether meta-epistemology's treatment of "how we recognise real limits" can now cite horizon-void as the open case its framework cannot close, (c) verify that the two articles do not duplicate the argument against global scepticism (horizon-void now carries the local-and-structured vs blanket-denial distinction — meta-epistemology can refer rather than restate), (d) flag any tension between meta-epistemology's coalesced Three Verdicts / Illusionist Challenge framing (from the merged whether-real material) and horizon-void's distinctive second-order claim, (e) update frontmatter cross-links in both directions. Log findings even if no edits are made.
-- **Source**: chain (from epistemic-horizon-void.md)
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review three-kinds-of-void.md considering plenitude-void and epistemic-horizon-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2609,6 +2602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review meta-epistemology-of-limits.md considering epistemic-horizon-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/epistemic-horizon-void.md` (created 2026-04-23 via expand-topic) positions itself as a *second-order* void distinct from `voids/meta-epistemology-of-limits.md`: meta-epistemology-of-limits asks how we can recognise that a limit is real from within a limited mind (a first-order question about any given void); epistemic-horizon-void asks the further question — granting some limits are real, can we estimate how many? The horizon void "shadows every other void" in the Map's catalogue and makes meta-epistemology-of-limits's framework structurally incomplete. Meta-epistemology-of-limits (itself a 2026-04-23 coalesce product that absorbed whether-real.md) was reviewed before epistemic-horizon-void existed. Cross-review should (a) add a forward link where meta-epistemology-of-limits discusses the scope of its own argument — horizon-void is the natural boundary case, (b) check whether meta-epistemology's treatment of "how we recognise real limits" can now cite horizon-void as the open case its framework cannot close, (c) verify that the two articles do not duplicate the argument against global scepticism (horizon-void now carries the local-and-structured vs blanket-denial distinction — meta-epistemology can refer rather than restate), (d) flag any tension between meta-epistemology's coalesced Three Verdicts / Illusionist Challenge framing (from the merged whether-real material) and horizon-void's distinctive second-order claim, (e) update frontmatter cross-links in both directions. Log findings even if no edits are made.
+- **Output**: obsidian/voids/meta-epistemology-of-limits.md -- Context: Cross-review meta-epistemology-of-limits.md considering epistemic-horizon-void insights
 
 ### ✓ 2026-04-23: Cross-review phenomenal-quality-void.md considering plenitude-void insights
 - **Type**: cross-review
