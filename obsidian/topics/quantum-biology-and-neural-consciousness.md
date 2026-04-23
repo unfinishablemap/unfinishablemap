@@ -2,9 +2,9 @@
 title: "Quantum Biology and Neural Consciousness"
 description: "Six converging evidence lines—from biological precedent through EEG entanglement to theoretical convergence—reshape what quantum biology means for consciousness."
 created: 2026-01-27
-modified: 2026-03-20
+modified: 2026-04-23
 human_modified:
-ai_modified: 2026-03-29T02:22:00+00:00
+ai_modified: 2026-04-23T22:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-20T14:14:00+00:00
+last_deep_review: 2026-04-23T22:28:00+00:00
 coalesced_from:
   - "/topics/quantum-biology-and-the-consciousness-debate/"
   - "/topics/quantum-biology-evidence-in-neural-systems/"
@@ -204,17 +204,3 @@ The convergence of quantum biology evidence connects to all five of the Map's [[
 18. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 19. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
 20. Xu, J., et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
-
-<!-- AI REFINEMENT LOG - 2026-03-21
-Changes made (second pass):
-- Fixed description/table mismatch: added "Theoretical" convergence row to evidence table (now six lines)
-- Integrated Wiest's binding problem and epiphenomenalism arguments into pharmacological section
-- Added theoretical convergence framing paragraph noting independent frameworks arriving at similar conclusions
-- Updated Established list to "six independent evidence lines"
-- Updated ai_modified timestamp
-
-Based on research notes from quantum-biology-neural-experimental-2026-03-20.md.
-Key improvements: strengthened convergence argument by surfacing theoretical convergence as an independent evidence line and integrating Wiest's binding/epiphenomenalism claims.
-
-This log should be removed after human review.
--->
