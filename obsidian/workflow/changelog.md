@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 17:00:00+00:00
+ai_modified: 2026-04-23 17:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 17:17 UTC - refine-draft
+- **Status**: Success (verification-only pass)
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Context**: Second P1 re-run of pessimistic-2026-04-23 refinement; prior passes at 12:00, 13:15, and 14:54 UTC had already integrated all four critical issues, three counterarguments, and the Tegmark decoherence citation.
+- **Verification**: §"Limits of the Thickness Metaphor" present (lines 69–71); landscape-claim hedges in place ("extensively discussed" line 43, "most worked-out recent Q1 candidate" line 81, "dialectical default" line 97, parsimony-cost acknowledgment line 121); monist scope note at line 75; "Q1 articulability" at lines 86/145; Nida-Rümelin/Descartes and Saad/Chalmers-naturalistic concrete Type-D/E/F-vs-thickness cases at line 67; "adjacent classifications only partially track" at line 129; Tegmark 2000 cited at line 135 with [[born-rule-violation-brain-interface-empirical-status-2026-04-23]] cross-reference.
+- **Changes**: Updated `ai_modified` to 17:17 UTC; appended fourth-pass verification entry to AI refinement log; no substantive content edits.
+- **Published**: yes
 
 ## 2026-04-23 17:00 UTC - condense
 - **Status**: Success
