@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-23 05:38:00+00:00
+ai_modified: 2026-04-23 08:39:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -21,13 +21,12 @@ concepts:
 - '[[conscious-vs-unconscious-processing]]'
 created: 2026-01-23
 date: &id001 2026-04-23
-description: Voluntary mental imagery — deliberate visualisation, motor rehearsal,
-  creative combination — produces measurable physical effects. The voluntary/involuntary
-  dissociation, aphantasia spectrum, and motor simulation evidence bear directly on
-  whether phenomenal properties do causal work.
+description: Voluntary imagery, aphantasia, and motor rehearsal evidence test whether
+  consciousness does causal work—or only rides along as neural activity unfolds.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-23 08:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

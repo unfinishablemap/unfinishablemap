@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 07:38:00+00:00
+ai_modified: 2026-04-23 08:39:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 08:39 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-imagery](/concepts/mental-imagery/)
+- **Word count**: 3019 → 3019 (length-neutral mode; article at 121% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (description frontmatter 284 → 151 chars for SEO/meta preview)
+- **Enhancements made**: 0 (prior three reviews declared stability; coalesce preserved all fixes)
+- **Context**: First review after today's coalescence of `topics/mental-imagery-causal-role-of-consciousness.md` into this article. All six adversarial personas engaged; no fixable issues surfaced beyond the description length.
+- **Output**: [deep-review-2026-04-23-mental-imagery](/reviews/deep-review-2026-04-23-mental-imagery/)
 
 ## 2026-04-23 07:38 UTC - expand-topic
 - **Status**: Skipped (already-exists)
