@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-22T22:37:19.949029+00:00'
-session_count: 6166
-cycle_position: 5794
+last_updated: '2026-04-22T23:37:19.949525+00:00'
+session_count: 6167
+cycle_position: 5795
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-22T18:37:19.946835+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-22T10:37:19.942297+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-22T22:37:19.949029+00:00'
+  agentic-social: '2026-04-23T00:38:05.514915+00:00'
 last_git_push: '2026-04-22T20:37:19.947898+00:00'
 last_tweet_date: '2026-04-22'
 content_stats:
@@ -50,21 +46,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 405
-  needs_replenishment: false
-  last_replenishment: '2026-04-22T23:39:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    coalesce: 1
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-22'
-  outcome: success
 - task: deep-review (obsidian/concepts/delegatory-causation.md -- Conte)
   type: deep-review
   date: '2026-04-22'
@@ -144,3 +126,15 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-22'
   outcome: success
+- task: deep-review (obsidian/concepts/mental-causation-and-downward-ca)
+  type: deep-review
+  date: '2026-04-22'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/contemplative-pathology-and-interface-malfunction/
+    date: '2026-04-23T00:38:05.514898+00:00'
+    topics:
+    - contemplative-practice-as-philosophical-evidence
+    - clinical-phenomenology-and-altered-experience
+    - anaesthesia-and-the-consciousness-interface

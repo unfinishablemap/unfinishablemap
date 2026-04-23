@@ -49,6 +49,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: coalesce (from commit 218d18741)
 - **Generated**: 2026-04-22
 
+### P3: Write concept article on The Authority Layer as a general philosophical category
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23 (High Priority). `concepts/trumping-preemption.md` lines 50-54 name the *authority layer* as the independently useful conceptual contribution of Schaffer's template, but the Map has no standalone treatment of authority as a general philosophical category. Article would (a) formalise the authority layer as a philosophical category with multiple instantiations (legal, structural, metaphysical), (b) distinguish socially-constructed and structural authority from the metaphysical authority the Map's programme needs, (c) examine whether the cross-domain applicability of the decoupling strengthens or weakens the Map's use of it — the risk cuts both ways and must be named, (d) apply the category back to the Map's own use in the Schaffer-Saad-Map chain. Medium scope (2000-2500 words). Target section: concepts/ (~228/250, has capacity). Tenet alignment: Dualism (the metaphysical authority claim is central), Minimal Quantum Interaction, Occam's Razor Has Limits. See optimistic-2026-04-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write concept article on Observational Closure as a standalone thesis
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23 (High Priority). Observational closure — the thesis that physical causal patterns are preserved observably even when universal closure fails — is currently treated as a *feature* of delegatory causation and as a *parallel* to MQI (see concepts/delegatory-causation.md lines 116-122, concepts/trumping-preemption.md line 70, concepts/mental-causation-and-downward-causation.md lines 103-105). But it is independently a load-bearing thesis. Article would (a) define observational closure precisely, (b) catalogue the arguments establishing it as a consequence of the Map's other commitments (Born-rule preservation, coarse-grained preemption, authority-sufficiency decoupling), (c) examine the epistemic consequences — observational closure places the Map's case on philosophical rather than empirical ground, (d) address the unfalsifiability objection by distinguishing observational closure (a consequence) from the Map's falsifiable commitments (MWI, neural quantum effects). Medium scope (2000-2500 words). Target section: concepts/ (~228/250). Tenet alignment: Minimal Quantum Interaction (directly), Dualism. See optimistic-2026-04-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write topic article on the Fiction-to-Nature Disanalogy as methodological constraint
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23 (High Priority). `concepts/trumping-preemption.md` line 58 installs the fiction-to-nature disanalogy as a one-paragraph philosophical-hygiene move, but the disanalogy applies to an entire class of structural templates philosophy imports from stipulation-based cases (laws of magic, legal conventions, military rank). Article would (a) generalise the disanalogy as a methodological constraint on template-importation, (b) catalogue other cases where philosophy has imported stipulative templates and where the disanalogy was/wasn't flagged, (c) examine whether this is one-off hygiene or a systematic constraint, (d) apply the constraint back to the Map's use of trumping. Medium scope (2000-2500 words). Target section: topics/ (~225/250, has capacity). Tenet alignment: Occam's Razor Has Limits (a post-parsimony constraint on template-importation), Dualism (the Map's use of trumping depends on this constraint). See optimistic-2026-04-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write concept article on Expertise-Induced Amnesia and Memory Architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23 (Medium Priority). `voids/expertise-and-its-occlusion.md` lines 68-72 cite Høffding and Montero (2020) on expertise-induced amnesia but treat this as secondary. The finding has broader implications for consciousness-and-memory architecture. Article would (a) specify the architectural relation between procedural knowledge, consciousness, and episodic memory, (b) examine what expertise-induced amnesia implies for introspective reliability, (c) connect to source-attribution-void's confabulatory layer (expert reports of peak performances are reconstructions not recollections), (d) examine whether flow and expertise research converge on a single claim about when consciousness produces accessible traces. Medium scope (2000-2500 words). Target section: concepts/ (~228/250). Tenet alignment: Dualism (dissociability of consciousness and episodic memory is more natural on dualism), Bidirectional Interaction. See optimistic-2026-04-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write concept article on Reinvestment as Interface Evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23 (Medium Priority). `voids/expertise-and-its-occlusion.md` lines 62-64 cite reinvestment theory as the mechanism of the lock, but reinvestment has specific relevance to the Map's interface programme as a case where conscious re-entry measurably degrades a physical process running without conscious oversight. Article would (a) articulate reinvestment as interface evidence, (b) specify what the experiments show that identity-theory would have trouble predicting, (c) connect to coarse-grained preemption (fine-grained neural processes should not be accessible to conscious control without disruption), (d) honest limitation: the literature is psychological and compatible with attentional accounts. Short-medium scope (1500-2000 words). Target section: concepts/ (~228/250). Tenet alignment: Bidirectional Interaction, Dualism. See optimistic-2026-04-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
 ### P3: Deep review voids/apophatic-cartography.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-06 (46 days ago). Voids article on the apophatic-cartography method — describing what consciousness cannot reach rather than asserting what it is. The article supplies methodological framing referenced across several recent voids articles (erasure-void, source-attribution-void, meta-epistemology-of-limits) but has not been revisited as those downstream articles refined the methodological vocabulary. Verify (a) terminology alignment with recent voids additions, (b) that illustrative examples still map cleanly to the current voids catalogue (some voids have been archived or coalesced since March 6), (c) tenet alignment under the current phrasing of Occam's Razor Has Limits, (d) no stale inbound references to archived voids. See /deep-review skill.
