@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 13:10:00+00:00
+ai_modified: 2026-04-23 13:15:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 13:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Context**: Second-pass refinement to finish addressing pessimistic-2026-04-23 Counterarguments 1 & 2 (the earlier 12:00 UTC pass addressed Issues 1–4 and the unsupported-claims / language-improvement tables but left the orthogonality-concrete-case and Q4-parsimony-cost items partially open).
+- **Changes**: (1) Strengthened the Type-D/E/F orthogonality claim at §"The Two Axes" with two concrete cases — Nida-Rümelin vs Descartes (both Type-D but mind-medium vs mind-thick) and Saad vs Chalmers-naturalistic (Saad Type-D-proximal and mind-thin where Chalmers is mind-medium) — to disarm the re-parameterisation suspicion by showing the axes pull apart on named positions. (2) Rewrote the Q4 closing paragraph to acknowledge explicitly that maximum commitments on both sides carry real explanatory costs independent of sociology, and that Q4 parsimony losses are case-by-case rather than a uniform verdict.
+- **Word count**: ~2950 → ~3050 (still within 3000-3500 band)
+- **Published**: yes
 
 ## 2026-04-23 13:10 UTC - deep-review
 - **Status**: Success

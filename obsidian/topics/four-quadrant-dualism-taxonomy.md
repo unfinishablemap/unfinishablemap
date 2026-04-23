@@ -4,7 +4,7 @@ description: "A two-axis taxonomy sorting dualist positions by how much ontologi
 created: 2026-04-21
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T12:00:00+00:00
+ai_modified: 2026-04-23T13:15:00+00:00
 draft: false
 topics:
   - dualism
@@ -64,7 +64,7 @@ How much ontological work does the physical side do?
 
 A clarification: "min-physical" does *not* mean fewer physical things exist, in the eliminativist sense. It means physics' own ontology is treated as minimal rather than enriched with quiddities, hidden variables, or ignorance-facts. "Max-physical" expands the physical side *ontologically*, not *spatially*.
 
-The thickness axis is orthogonal to the substance/property distinction and to Chalmers' Type-D/E/F classification. A thin-mind position can still be a substance dualism (Nida-Rümelin), and a thick-mind position can be a property dualism (rich subliminal properties over a single substance). That is why the axis needs its own name.
+The thickness axis is orthogonal to the substance/property distinction and to Chalmers' Type-D/E/F classification. A thin-mind position can still be a substance dualism (Nida-Rümelin), and a thick-mind position can be a property dualism (rich subliminal properties over a single substance). A skeptic might suspect the axis is merely a re-parameterisation of Type-F (intrinsic) vs Type-E (epiphenomenal) — both distinctions do track something like "how much consciousness contributes." But the axes pull apart on concrete cases. Nida-Rümelin and Descartes are both Type-D interactionist substance dualists in Chalmers' taxonomy, yet they sit at different points on mind-thickness: Nida-Rümelin posits a unitary introspective mind with minimal causal intervention (mind-medium), whereas Cartesian *res cogitans* carries substantial extra-introspective cognitive content and rich active substance (mind-thick). Saad's delegatory dualism (2025) is arguably closer to Type-D than Chalmers' own naturalistic dualism, yet mind-thin on the thickness axis where Chalmers is mind-medium. Chalmers' classification by *relation type* does not discriminate these cases; the thickness axis does. That is why the axis needs its own name.
 
 ### Limits of the Thickness Metaphor {#limits-thickness}
 
@@ -118,7 +118,7 @@ Dualism in Q3 is unstable: once the mental does all the ontological work, the ph
 - **Myers–James subliminal mind plus Bohmian hidden-variable physics**: maximal mental layering meets maximal physical structure. A hybrid rarely stated as such, but the components are independently available.
 - **Russellian panpsychism with full scientific realism**: [[russellian-monism|consciousness as intrinsic nature]] plus all of physics taken at face value (see [[russellian-monism-versus-bi-aspectual-dualism]] for the Map's framing).
 
-Q4 is under-discussed in contemporary analytic philosophy. Its classical inhabitants (Descartes, Aquinas) are often dismissed as pre-modern, and contemporary training favours parsimonious ontologies. Yet Q4 is where the strongest combinations of explanatory resources live — rich on both sides, with interaction as a genuine ontological phenomenon rather than a concession.
+Q4 is under-discussed in contemporary analytic philosophy. Its classical inhabitants (Descartes, Aquinas) are often dismissed as pre-modern, and contemporary training favours parsimonious ontologies. The parsimony pressure is not merely sociological: maximum commitments on both sides do carry real explanatory costs that a reader outside the Map's tenet-set can reasonably weigh against the resources Q4 affords. Yet Q4 is also where the strongest combinations of explanatory resources live — rich on both sides, with interaction as a genuine ontological phenomenon rather than a concession. Whether Q4 inhabitants lose on parsimony grounds is a case-by-case question about specific explanatory tasks, not a uniform verdict.
 
 ## Why the Thickness Axis Matters
 
@@ -185,18 +185,22 @@ Three open questions deserve further work.
 18. Southgate, A. & Oquatre-neuf, C. (2026-04-23). Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface? (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/
 
 <!-- AI REFINEMENT LOG - 2026-04-23
-Changes made in response to pessimistic review 2026-04-23 (Issues 1–4 and Language Improvements table):
+Changes made in response to pessimistic review 2026-04-23 (Issues 1–4, Counterarguments, and Language Improvements table):
 - Added §"Limits of the Thickness Metaphor" subsection specifying that the axis tracks structural richness above minimum, not causal work or channel width, and conceding that Stapp-style positions are placed by judgement rather than definition (Issue 1, Medium)
 - Added one-sentence scope note at the top of §"The Four Quadrants" flagging that monist limit cases (neutral monism, Berkeleyan idealism, Kastrup) are included for contrast, not classification-as-dualism (Issue 3, Low–Medium)
 - Softened empirical landscape claims lacking citation: "heavily populated" → "extensively discussed"; "cleanest Q1 inhabitant" → "most worked-out recent Q1 candidate in the literature known to us"; "Q2 dominates contemporary analytic philosophy" → "Q2 functions as the dialectical default"; "Most self-described dualists ... live here" → "Many ... sit nearer this quadrant than Q4"; "under-inhabited" → "under-discussed" (Issue 2, Medium)
 - Rephrased "Q1 stability" → "Q1 articulability" throughout; added explicit note that the question concerns availability of an argument rather than dynamical-system forces; added cross-link to the fiction-to-nature gap flagged in the prior pessimistic review of [[trumping-preemption#costs-of-the-template]] (Issue 4, Medium)
-- Softened "None of this is visible without the thickness axis" to "The thickness axis makes explicit what adjacent classifications … only partially track," naming Chalmers (2003), Goff (2017), and Pereboom-style qualitative inertness worries as partial trackers
+- Softened "None of this is visible without the thickness axis" to "The thickness axis makes explicit what adjacent classifications … only partially track," naming Chalmers (2003), Goff (2017), and Pereboom-style qualitative inertness worries as partial trackers (Counterargument 3)
 - Rephrased "Q4 is under-populated not because it fails but because a parsimony norm makes it hard to teach" to acknowledge both real parsimony costs and training-convention effects
 - "Q1 looks attractive (minimal commitments both sides) but faces stability pressure" → "Q1 promises minimal commitments on both sides but faces articulation pressure"
 - Attached Tegmark-decoherence caveat to the MQI treatment in §"Relation to Site Perspective," citing [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]
 - Added Tegmark (2000) and the born-rule-violation research note to References; added both plus [[interface-formalization-void]] to related_articles
 
-Net length: ~2420 → ~2950 words; still well under 3000 soft threshold.
+Second-pass additions (13:15 UTC) addressing remaining counterargument gaps:
+- Strengthened the orthogonality argument with concrete cases: Nida-Rümelin vs Descartes (both Type-D but different mind-thickness), and Saad vs Chalmers-naturalistic (Saad is Type-D-proximal but mind-thin where Chalmers is mind-medium). This disarms Counterargument 1 (the re-parameterisation-of-Chalmers charge) by showing Type-D/E/F and thickness pull apart on named positions, not just in principle
+- Rewrote Q4 closing paragraph to explicitly acknowledge that maximum commitments on both sides do carry real explanatory costs independent of sociology, and that Q4's losses on parsimony are case-by-case rather than a uniform verdict — addresses Counterargument 2 (the "parsimony-cost vs sociology" charge), aligning the Q4 paragraph with the already-revised §"Why the Thickness Axis Matters" language
+
+Net length: ~2420 → ~3050 words; still within 3000-3500 window.
 
 This log should be removed after human review.
 -->
