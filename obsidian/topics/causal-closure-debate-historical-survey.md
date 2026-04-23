@@ -4,7 +4,7 @@ description: "How causal closure evolved from a physics claim into a metaphysica
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-30T03:49:00+00:00
+ai_modified: 2026-04-23T18:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-03-19T18:26:00+00:00
+last_deep_review: 2026-04-23T18:27:00+00:00
 ---
 
 The causal closure of the physical — the thesis that every physical event has a sufficient physical cause — is widely treated as an established scientific finding. It is not. The Unfinishable Map traces the principle's evolution from a seventeenth-century puzzle about Cartesian contact to a twentieth-century metaphysical axiom, arguing that what began as an empirical observation about conservation laws was progressively strengthened far beyond what physics establishes. Understanding this history matters because causal closure is the load-bearing premise in virtually every contemporary argument against [[interactionist-dualism]].
@@ -43,7 +43,7 @@ The debate begins in 1643, when Princess Elisabeth of Bohemia asked Descartes a 
 
 Descartes never answered satisfactorily. His *Principles of Philosophy* (1644) formulated a conservation principle — the total quantity of motion in the universe is constant — but left a loophole. Mind might change the *direction* of bodily spirits without changing their *speed*, thereby conserving motion while still influencing behaviour.
 
-The philosophical significance lies less in Descartes' answer than in Elisabeth's question. She identified the structural problem: anyone who posits two fundamentally different kinds of substance must explain how they interact. This is not an argument against dualism — it is a demand for mechanism. The demand stands regardless of whether one closes the physical domain or leaves it open.
+The philosophical significance lies less in Descartes' answer than in Elisabeth's question. She identified the structural problem: anyone who posits two fundamentally different kinds of substance must explain how they interact. Her challenge demands mechanism rather than refuting dualism, and that demand stands regardless of whether one closes the physical domain or leaves it open.
 
 ## Leibniz and the Closure of the Loophole
 
@@ -94,7 +94,7 @@ Three strands of contemporary philosophical criticism have weakened causal closu
 
 The physics-based challenge cuts deeper. Orthodox quantum mechanics is not causally closed.
 
-Henry Stapp's analysis identifies one way to locate this gap. Working within von Neumann's formulation of quantum mechanics, Stapp notes that Process 1 — the choice of what to measure — is not specified by the Schrödinger equation. Physics tells us what happens *given* a measurement but not why *that* measurement occurs. Stapp calls the free choice determining Process 1 "Process 0," and argues that it constitutes a causal gap in the physical description. [[stapp-quantum-mind|Stapp's quantum Zeno framework]] develops this into a full account: consciousness fills the gap by selecting among quantum-permitted neural outcomes.
+Henry Stapp's analysis identifies one way to locate this gap. Working within von Neumann's formulation of quantum mechanics, Stapp notes that Process 1 — the state reduction triggered by measurement — is preceded by a logically prior question the Schrödinger equation does not answer: *which* measurement is performed. Physics tells us what happens *given* a measurement but not why *that* measurement occurs. Stapp labels this free choice of measurement "Process 0," distinct from von Neumann's Process 1 and Process 2, and argues that it constitutes a causal gap in the physical description. [[stapp-quantum-mind|Stapp's quantum Zeno framework]] develops this into a full account: consciousness fills the gap by selecting among quantum-permitted neural outcomes.
 
 It should be noted that most physicists regard Stapp's framework as non-standard. His reliance on von Neumann's Process 1/Process 2 distinction is not shared by all interpretations of quantum mechanics, and his conclusions about a causal role for consciousness depend on treating the measurement problem as ontologically fundamental rather than as an artefact of formalism. The strength of his argument is therefore interpretation-dependent. Nevertheless, the broader point survives independently of Stapp's particular framework: orthodox quantum mechanics does not specify which outcome actualises, and this indeterminacy is a feature of the theory itself, not merely of our ignorance.
 
@@ -135,24 +135,15 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 ## References
 
 1. Buhler, K. (2020). "No Good Arguments for Causal Closure." *Metaphysica*, 21(1). doi:10.1515/mp-2019-0026
-2. Gibb, S.C. (2010). "Closure Principles and the Laws of Conservation of Energy and Momentum." *Dialectica*, 64(3), 363–384.
-3. Kim, J. (1993). *Supervenience and Mind: Selected Philosophical Essays*. Cambridge University Press.
-4. Kim, J. (1998). *Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation*. MIT Press.
-5. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
-6. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
-7. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
-8. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939–967. doi:10.1007/s11098-025-02290-3
-9. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
-10. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
-11. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Engaged with philosophical responses to Kim's generalisation problem (Woodward's interventionism, List & Menzies's difference-making, Loewer's compatibilism) and explained why these rescue physically grounded higher-level causation but not non-physical mental causation
-- Qualified Stapp's Process 0 analysis: acknowledged his framework is non-standard, his conclusions are interpretation-dependent, and separated the broader quantum indeterminacy point from Stapp's specific apparatus
-
-Based on pessimistic review findings.
-Key improvements: stronger dialectical engagement, honest qualification of speculative claims.
-
-This log should be removed after human review.
--->
+2. Cucu, A.C. & Pitts, J.B. (2019). "How Dualists Should (Not) Respond to the Objection from Energy Conservation." *Mind and Matter*, 17(1), 95–121.
+3. Gibb, S.C. (2010). "Closure Principles and the Laws of Conservation of Energy and Momentum." *Dialectica*, 64(3), 363–384.
+4. Kim, J. (1993). *Supervenience and Mind: Selected Philosophical Essays*. Cambridge University Press.
+5. Kim, J. (1998). *Mind in a Physical World: An Essay on the Mind-Body Problem and Mental Causation*. MIT Press.
+6. Lowe, E.J. (2000). "Causal Closure Principles and Emergentism." *Philosophy*, 75(294), 571–585.
+7. Montero, B.G. (2003). "Varieties of Causal Closure." In S. Walter & H.-D. Heckmann (Eds.), *Physicalism and Mental Causation*. Imprint Academic.
+8. Papineau, D. (2001). "The Rise of Physicalism." In C. Gillett & B. Loewer (Eds.), *Physicalism and Its Discontents*. Cambridge University Press.
+9. Pitts, J.B. (2022). "General Relativity, Mental Causation, and Energy Conservation." *Erkenntnis*, 87(4), 1861–1892. doi:10.1007/s10670-020-00284-7
+10. Saad, B. (2025). "A dualist theory of experience." *Philosophical Studies*, 182(3), 939–967. doi:10.1007/s11098-025-02290-3
+11. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+12. Southgate, A. & Oquatre-six, C. (2026-01-14). Causal Closure of the Physical. *The Unfinishable Map*. https://unfinishablemap.org/concepts/causal-closure/
+13. Southgate, A. & Oquatre-six, C. (2026-01-23). Conservation Laws and Mental Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/conservation-laws-and-mental-causation/

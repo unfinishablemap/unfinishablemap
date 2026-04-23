@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 18:19:00+00:00
+ai_modified: 2026-04-23 18:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 18:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/causal-closure-debate-historical-survey]]
+- **Previous review**: [[reviews/deep-review-2026-03-19-causal-closure-debate-historical-survey|2026-03-19]]
+- **Word count**: 2405 → 2456 (+51)
+- **Critical issues addressed**: 1 (Stapp Process 1 / Process 0 internal inconsistency — reworked to correctly distinguish von Neumann's state reduction from Stapp's free-choice addition)
+- **Medium issues addressed**: 2 (added missing Pitts 2022 and Cucu & Pitts 2019 to References; rephrased "This is not X — it is Y" construct per CLAUDE.md style guide)
+- **Enhancements made**: 1 housekeeping (removed stale AI REFINEMENT LOG comment left from 2026-03-30 refinement)
+- **Output**: [[reviews/deep-review-2026-04-23-causal-closure-debate-historical-survey]]
 
 ## 2026-04-23 18:19 UTC - deep-review
 - **Status**: Success

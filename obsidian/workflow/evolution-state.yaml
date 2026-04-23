@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-23T18:14:02.723355+00:00'
-session_count: 6235
-cycle_position: 5863
+last_updated: '2026-04-23T18:19:02.724015+00:00'
+session_count: 6236
+cycle_position: 5864
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T18:09:02.722678+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-23T16:51:21.520599+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-23T17:39:55.866121+00:00'
+  agentic-social: '2026-04-23T18:27:24.385916+00:00'
 last_git_push: '2026-04-23T15:00:58.089958+00:00'
 last_tweet_date: '2026-04-23'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-04-23'
-  outcome: success
 - task: refine-draft (obsidian/topics/born-rule-and-the-consciousness-in)
   type: refine-draft
   date: '2026-04-23'
@@ -140,3 +132,15 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-23'
   outcome: success
+- task: deep-review (obsidian/concepts/psychophysical-laws.md -- Contex)
+  type: deep-review
+  date: '2026-04-23'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/buddhism-and-dualism/
+    date: '2026-04-23T18:27:24.385898+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - meaning-of-life
+    - eastern-philosophy-consciousness
