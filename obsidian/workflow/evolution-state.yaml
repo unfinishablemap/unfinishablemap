@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-23T17:50:56.508216+00:00'
-session_count: 6231
-cycle_position: 5859
+last_updated: '2026-04-23T17:55:56.508930+00:00'
+session_count: 6232
+cycle_position: 5860
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T15:00:58.089958+00:00'
@@ -49,12 +49,18 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 416
+  needs_replenishment: false
+  last_replenishment: '2026-04-23T18:01:00+00:00'
+  replenishment_source_counts:
+    unconsumed_research: 1
+    chain: 3
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/falsification-roadmap-for-the-inte)
-  type: deep-review
-  date: '2026-04-23'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-23'
@@ -132,6 +138,10 @@ recent_tasks:
   date: '2026-04-23'
   outcome: success
 - task: deep-review
+  type: deep-review
+  date: '2026-04-23'
+  outcome: success
+- task: deep-review (obsidian/topics/consciousness-and-the-structure-of)
   type: deep-review
   date: '2026-04-23'
   outcome: success

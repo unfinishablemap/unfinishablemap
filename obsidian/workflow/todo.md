@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write void article on the Distraction Void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed today in `research/voids-distraction-void-2026-04-23.md` but article not yet synthesised. The Distraction Void is the gap between being captured by attention-capture and noticing one has been captured — involuntary capture is indexed by preattentive components (MMN ~200ms, P3a ~250-300ms) that fire without conscious access, while awareness of the capture requires a later P3b and often arrives much later as post-hoc meta-awareness. Converges evidence from cognitive science (Smallwood-Schooler meta-awareness / perceptual decoupling dissociation; probe-caught unaware mind-wandering), contemplative phenomenology (Buddhist sati noticing-after-the-fact), and existential phenomenology (Heideggerian fallenness) on the same structural feature: the transit of distraction is unavailable to introspection, only its aftermath. Distinct from adjacent voids: not [[thought-stream-void]] (continuity of stream), not [[transit-void]] (gaps in transitions generally), not [[involuntariness-void]] (voluntary/involuntary boundary), not [[initiation-void]] (onset of action specifically), not [[spontaneous-thought-void]] (ideation without prompt). Voids section is at 94/100 (has capacity). Category: Mixed (primarily Occluded, with Unexplorable and Unexplored structure). Medium scope (2200-2600 words). Tenet alignment: Dualism (meta-awareness gap is precisely where first-person access collapses — targeted occlusion rather than absence), Occam's Razor Has Limits (the "one attention system" model hides a structural dissociation), Bidirectional Interaction (where consciousness's claim to direct its own attention becomes most testable). Cross-link candidates: attention-and-consciousness, thought-stream-void, transit-void, involuntariness-void, spontaneous-thought-void, initiation-void, erasure-void.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-23
+
+### P2: Cross-review concepts/psychophysical-laws.md considering born-rule-violation-brain-interface-empirical-status insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) is explicitly linked from the psychophysical-laws.md frontmatter via `concepts[]` relationship, but psychophysical-laws.md itself does not yet reference the empirical-status article or the corridor / minimum-outside-corridor / trumping three-way taxonomy. psychophysical-laws is the foundational concept page that the empirical-status article operationalises — today's cross-reviews of `concepts/stapp-quantum-mind.md`, `topics/mathematical-structure-of-the-consciousness-physics-interface.md`, `topics/pragmatist-quantum-foundations-and-the-agent.md`, and the Kuhn/Wheeler topic pairings have propagated the taxonomy outward, but the concept-layer anchor has not yet absorbed it. Cross-review should (a) add inbound links where psychophysical-law candidates are discussed, (b) ensure the corridor / min-outside-corridor / trumping taxonomy is consistent with the concept article's treatment of psychophysical law-types, (c) check whether the concept article's survey of candidate laws needs updating to distinguish ensemble-invisible (corridor) from statistically-detectable (min-outside-corridor) from trumping variants, (d) verify that empirical programmes catalogued in the new article (Kerskens MEG, microtubule vibrational protocols, Maier-Dechamps 2018 null, PEAR/GCP nulls) can be referenced as concrete instantiations of the law-types the concept article describes. Log findings even if no edits made.
+- **Source**: chain
+- **Generated**: 2026-04-23
+
+### P2: Cross-review topics/quantum-measurement-and-consciousness.md considering born-rule-violation-brain-interface-empirical-status insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) is explicitly linked from quantum-measurement-and-consciousness.md's `topics[]` frontmatter. The quantum-measurement topic is the broadest Map treatment of measurement-and-consciousness and should reflect the post-2026-04-23 taxonomy. Cross-review should (a) add inbound links where measurement-problem programmes are catalogued, (b) verify that the topic article's survey of consciousness-collapse proposals distinguishes the three taxonomic positions (corridor / min-outside-corridor / trumping) clearly, (c) check whether the article should point to the empirical-status article's catalogue of already-returned nulls (Maier-Dechamps 2018, PEAR/GCP) rather than treating the status as open, (d) ensure consistency with the sister pragmatist-quantum-foundations and mathematical-structure articles which have both been updated to use the three-way framing. Log findings even if no edits made.
+- **Source**: chain
+- **Generated**: 2026-04-23
+
+### P2: Cross-review topics/consciousness-and-probability-interpretation.md considering born-rule-violation-brain-interface-empirical-status insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) is explicitly listed in consciousness-and-probability-interpretation.md's `topics[]` frontmatter. The probability-interpretation article covers the philosophical side (what kind of probability is Born-rule probability?) where the new article covers the empirical side (what tests could detect modifications to it?). Cross-review should (a) add inbound links to the empirical-status article, (b) check whether the article's treatment of QBist, Healey-pragmatist, and objective-probability readings can now reference the concrete corridor placements in the new article (QBism/Healey in corridor, Stapp-Zeno in min-outside-corridor), (c) verify terminology aligns with the post-2026-04-23 pragmatist-quantum-foundations refinement, (d) identify whether any philosophical claims about the probability-interpretation debate's empirical consequences need updating given the explicit catalogue of programme-returned nulls. Log findings even if no edits made.
+- **Source**: chain
+- **Generated**: 2026-04-23
+
 ### P3: Write a Concession Ledger article cataloguing what the Map does not claim
 - **Type**: expand-topic
 - **Status**: pending
