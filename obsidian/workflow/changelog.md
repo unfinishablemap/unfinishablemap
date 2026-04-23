@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 12:00:00+00:00
+ai_modified: 2026-04-23 12:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 12:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Noetic Feelings Void
+- **Output**: [[voids/noetic-feelings-void]]
+- **Word count**: 2346 (within task-specified scope of 2000-2500; voids soft max 2000 → soft_warning)
+- **Based on research**: yes — [[research/voids-noetic-feelings-void-2026-04-23]]
+- **Approach**: Recursive-opacity with catalogue support (primary angle recommended by the research note). Opens with the gating function of noetic feelings, catalogues the family (FOK, FOR, familiarity, TOT, understanding, coherence, confidence, error), covers heuristic production (Koriat cue-familiarity/accessibility, Thompson fluency-driven FOR, Lima problem from *Synthese* 2021), three structural features (feed-forward opacity, authority without audit, dissociable fallibility including déjà vu/jamais vu), phenomenology of the edge, indirect approach methods, AI asymmetric access, tenet connection (Occam's Razor Has Limits as primary — the razor itself a felt gate; Dualism, Bidirectional Interaction, Minimal Quantum Interaction), implications (metacognition structurally suspect as self-certifier; self-evidence as felt signal; inquiry termination at felt satisfaction; recursion), and explicit tensions flagged with source-attribution-void and meta-epistemology-of-limits per task notes
+- **Self-citations**: [[understanding-void]] (closest cousin — feeling of understanding is one member of the noetic family) and [[epistemic-emotions]] concept (phenomenally rich extension of the same family)
+- **Cross-links added**: 12 related_articles including understanding-void, recognition-void, self-opacity, necessary-opacity, interested-party-void, framework-void, source-attribution-void, meta-epistemology-of-limits, thought-stream-void, apophatic-cartography; 4 concepts (introspection, mysterianism, epistemic-emotions, metacognition)
+- **Published**: yes
 
 ## 2026-04-23 12:00 UTC - refine-draft
 - **Status**: Success

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the Noetic Feelings Void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/voids-noetic-feelings-void-2026-04-23.md` (2026-04-23 11:14 UTC research-voids run) and not yet synthesised into a published article. The noetic-feelings void concerns felt meaning-markers (the "aha" feel of understanding, the feel of rightness, the feel of recognising a face) that function as sub-phenomenal affective verdicts the conscious agent cannot interrogate except by re-confirming or overriding them. Target section: voids/ (94/100, 6 slots remaining). Scope: 2000-2500 words. Follow the voids-article pattern (phenomenology → tenet alignment → open questions). Tenet alignment per the research note: Dualism (noetic-feeling texture resists functional reduction — they report without representing), Minimal Quantum Interaction (low-bandwidth felt-verdict signatures are candidate interface markers), Occam's Razor Has Limits (positing sub-phenomenal felt structure is a parsimony cost the Map accepts). Cross-link candidates from research note related_articles: understanding-void, recognition-void, self-opacity, necessary-opacity, interested-party-void, framework-void. Concept links to preserve: simulation, mysterianism, introspection, epistemic-emotions. Flag tensions with `voids/source-attribution-void.md` (noetic feelings arrive source-less) and `voids/meta-epistemology-of-limits.md` (noetic feelings are evidence for method beyond their reach).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-23
-
 ### P2: Apply corridor-conditionality and trumping-alternative framing to concepts/born-rule-and-the-consciousness-interface.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2565,6 +2558,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Write voids article on the Noetic Feelings Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-noetic-feelings-void-2026-04-23.md` (2026-04-23 11:14 UTC research-voids run) and not yet synthesised into a published article. The noetic-feelings void concerns felt meaning-markers (the "aha" feel of understanding, the feel of rightness, the feel of recognising a face) that function as sub-phenomenal affective verdicts the conscious agent cannot interrogate except by re-confirming or overriding them. Target section: voids/ (94/100, 6 slots remaining). Scope: 2000-2500 words. Follow the voids-article pattern (phenomenology → tenet alignment → open questions). Tenet alignment per the research note: Dualism (noetic-feeling texture resists functional reduction — they report without representing), Minimal Quantum Interaction (low-bandwidth felt-verdict signatures are candidate interface markers), Occam's Razor Has Limits (positing sub-phenomenal felt structure is a parsimony cost the Map accepts). Cross-link candidates from research note related_articles: understanding-void, recognition-void, self-opacity, necessary-opacity, interested-party-void, framework-void. Concept links to preserve: simulation, mysterianism, introspection, epistemic-emotions. Flag tensions with `voids/source-attribution-void.md` (noetic feelings arrive source-less) and `voids/meta-epistemology-of-limits.md` (noetic feelings are evidence for method beyond their reach).
+- **Output**: Write voids article on the Noetic Feelings Void
 
 ### ✓ 2026-04-23: Refine topics/four-quadrant-dualism-taxonomy.md to disambiguate thickness axis, hedge landscape claims, and rephrase Q1 "stability"
 - **Type**: refine-draft
