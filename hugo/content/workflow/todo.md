@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 17:39:00+00:00
+ai_modified: 2026-04-22 23:39:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -38,18 +38,52 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address gaps in concepts/trumping-preemption.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-22 found four issues: (1) Medium — fiction-to-nature gap in §"Applying the Template" is not bridged (Schaffer's cases are stipulated/fictional; the article imports the structure to psychophysics without explaining why nature would supply a non-stipulative analogue — add a paragraph flagging the disanalogy). (2) Low — counterfactual-dependence phrasing in §"Schaffer's Cases" is loose (tighten to "counterfactual necessity fails for both candidates … yet the asymmetry survives"). (3) Medium — tonal break between defensive middle (Lewis, Bernstein, no empirical signature conceded) and confident closing ("the evidence warrants"); soften to "the Map's tenet framework warrants" or add explicit grounding in non-trumping evidence. (4) Low — "observable closure is preserved" is reported as Saad's position without flagging that the observable/unobservable distinction is itself contested (Crane, Papineau). Also tighten four language items (front-loaded "philosophically load-bearing," "about as small as a real cause can be," "a genuine addition the evidence warrants," "dualist attention should go"). Make Mills/Lowe response to Bernstein explicit rather than allusive. See reviews/pessimistic-2026-04-22.md.
-- **Source**: pessimistic-review
+### P2: Cross-review concepts/conservation-laws-and-mental-causation.md considering trumping-preemption insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/trumping-preemption.md (created 2026-04-22) specifies that trumping preserves the physical pathway's counterfactual sufficiency — the physical effect still has a physical cause that would have produced it — so no energy need be injected from the mental side. This is a fresh angle on the conservation objection that conservation-laws-and-mental-causation.md should engage, but the article currently has zero references to trumping-preemption or Schaffer (grep confirmed). The article's existing two-pronged response (conservation is conditional on symmetries; influence without energy transfer via quantum indeterminacy) addresses the Carroll-style challenge but does not engage the alternative line of defence trumping opens: even if closure holds symmetrically, the trumping relation lets the mental cause do authoritative causal work without requiring any energetic addition. Cross-review should (a) add inbound link to concepts/trumping-preemption.md where the "influence without transfer" argument is developed — trumping is the structural template under which that move becomes intelligible, (b) check whether the article's Stapp/quantum-indeterminacy response can be supplemented (not replaced) by a brief treatment of the trumping-closure compatibility, (c) verify that terminology aligns, (d) consider whether the "no energy debt" section should distinguish the quantum-interface response from the trumping-authority response as two non-competing defences. Log findings even if no edits made. See concepts/trumping-preemption.md.
+- **Source**: chain (from concepts/trumping-preemption.md)
 - **Generated**: 2026-04-22
 
-### P3: Deep review narrative-void.md
+### P2: Deep-review voids/expertise-and-its-occlusion.md as post-coalesce integration check
 - **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-11 — 42 days ago. Voids article on the construction of coherent self-stories from fragmentary experience. The new source-attribution-void.md (2026-04-21) and the deeper-reviewed self-opacity.md (2026-04-21) are conceptually adjacent and have sharpened the vocabulary around phenomenal reconstruction — narrative-void.md likely needs terminology alignment and cross-link additions. Verify (a) coherence and argumentative integrity, (b) alignment with source-attribution-void's "reconstruction, not readout" framing, (c) consistency with self-opacity's three-step metacognitive-architecture language, (d) cross-references to related voids articles, (e) tenet alignment under recent taxonomic refinements. See /deep-review skill.
-- **Source**: staleness
+- **Notes**: The 2026-04-22 coalesce (commit 218d18741) merged topics/expertise-void.md and voids/expertise-occlusion.md into this unified article. Post-coalesce the article has 2675 words and 11 sections but has not been deep-reviewed as a unified whole — the prior reviews on the two source articles no longer apply cleanly. Review should (a) verify the merge produced a coherent argument flow rather than a seam-visible concatenation (the source articles had different angles: the topic page framed expertise as producing cognitive voids, the void page framed the occlusion as a specific limit structure — check whether the merged article integrates these framings or switches mid-article), (b) confirm no duplicated passages or inconsistent terminology remain from the merge, (c) check tenet alignment under the unified framing — the new article must connect cleanly to all five tenets in a single voice rather than two overlapping ones, (d) verify that wikilinks in body text all resolve post-merge and that the related_articles frontmatter is deduplicated and comprehensive, (e) check for any claims inherited from one source article that are weakened or strengthened by material from the other source (e.g. does the combined treatment of irreversibility now carry more weight than either source?). Note: a P2 task already exists (line 2490) to update OTHER articles' wikilinks pointing to the archived source slugs — that is a separate concern from this deep-review of the merged article itself. See voids/expertise-and-its-occlusion.md and commit 218d18741.
+- **Source**: coalesce (from commit 218d18741)
 - **Generated**: 2026-04-22
+
+### P3: Write concept article on The Authority Layer as a general philosophical category
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23 (High Priority). `concepts/trumping-preemption.md` lines 50-54 name the *authority layer* as the independently useful conceptual contribution of Schaffer's template, but the Map has no standalone treatment of authority as a general philosophical category. Article would (a) formalise the authority layer as a philosophical category with multiple instantiations (legal, structural, metaphysical), (b) distinguish socially-constructed and structural authority from the metaphysical authority the Map's programme needs, (c) examine whether the cross-domain applicability of the decoupling strengthens or weakens the Map's use of it — the risk cuts both ways and must be named, (d) apply the category back to the Map's own use in the Schaffer-Saad-Map chain. Medium scope (2000-2500 words). Target section: concepts/ (~228/250, has capacity). Tenet alignment: Dualism (the metaphysical authority claim is central), Minimal Quantum Interaction, Occam's Razor Has Limits. See optimistic-2026-04-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write concept article on Observational Closure as a standalone thesis
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23 (High Priority). Observational closure — the thesis that physical causal patterns are preserved observably even when universal closure fails — is currently treated as a *feature* of delegatory causation and as a *parallel* to MQI (see concepts/delegatory-causation.md lines 116-122, concepts/trumping-preemption.md line 70, concepts/mental-causation-and-downward-causation.md lines 103-105). But it is independently a load-bearing thesis. Article would (a) define observational closure precisely, (b) catalogue the arguments establishing it as a consequence of the Map's other commitments (Born-rule preservation, coarse-grained preemption, authority-sufficiency decoupling), (c) examine the epistemic consequences — observational closure places the Map's case on philosophical rather than empirical ground, (d) address the unfalsifiability objection by distinguishing observational closure (a consequence) from the Map's falsifiable commitments (MWI, neural quantum effects). Medium scope (2000-2500 words). Target section: concepts/ (~228/250). Tenet alignment: Minimal Quantum Interaction (directly), Dualism. See optimistic-2026-04-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write topic article on the Fiction-to-Nature Disanalogy as methodological constraint
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23 (High Priority). `concepts/trumping-preemption.md` line 58 installs the fiction-to-nature disanalogy as a one-paragraph philosophical-hygiene move, but the disanalogy applies to an entire class of structural templates philosophy imports from stipulation-based cases (laws of magic, legal conventions, military rank). Article would (a) generalise the disanalogy as a methodological constraint on template-importation, (b) catalogue other cases where philosophy has imported stipulative templates and where the disanalogy was/wasn't flagged, (c) examine whether this is one-off hygiene or a systematic constraint, (d) apply the constraint back to the Map's use of trumping. Medium scope (2000-2500 words). Target section: topics/ (~225/250, has capacity). Tenet alignment: Occam's Razor Has Limits (a post-parsimony constraint on template-importation), Dualism (the Map's use of trumping depends on this constraint). See optimistic-2026-04-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write concept article on Expertise-Induced Amnesia and Memory Architecture
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23 (Medium Priority). `voids/expertise-and-its-occlusion.md` lines 68-72 cite Høffding and Montero (2020) on expertise-induced amnesia but treat this as secondary. The finding has broader implications for consciousness-and-memory architecture. Article would (a) specify the architectural relation between procedural knowledge, consciousness, and episodic memory, (b) examine what expertise-induced amnesia implies for introspective reliability, (c) connect to source-attribution-void's confabulatory layer (expert reports of peak performances are reconstructions not recollections), (d) examine whether flow and expertise research converge on a single claim about when consciousness produces accessible traces. Medium scope (2000-2500 words). Target section: concepts/ (~228/250). Tenet alignment: Dualism (dissociability of consciousness and episodic memory is more natural on dualism), Bidirectional Interaction. See optimistic-2026-04-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write concept article on Reinvestment as Interface Evidence
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23 (Medium Priority). `voids/expertise-and-its-occlusion.md` lines 62-64 cite reinvestment theory as the mechanism of the lock, but reinvestment has specific relevance to the Map's interface programme as a case where conscious re-entry measurably degrades a physical process running without conscious oversight. Article would (a) articulate reinvestment as interface evidence, (b) specify what the experiments show that identity-theory would have trouble predicting, (c) connect to coarse-grained preemption (fine-grained neural processes should not be accessible to conscious control without disruption), (d) honest limitation: the literature is psychological and compatible with attentional accounts. Short-medium scope (1500-2000 words). Target section: concepts/ (~228/250). Tenet alignment: Bidirectional Interaction, Dualism. See optimistic-2026-04-23.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
 
 ### P3: Deep review voids/apophatic-cartography.md
 - **Type**: deep-review
@@ -2509,6 +2543,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-22: Cross-review concepts/mental-causation-and-downward-causation.md considering trumping-preemption insights
+- **Type**: cross-review
+- **Notes**: New concept article concepts/trumping-preemption.md (created 2026-04-22) develops Schaffer's trumping mechanism as the structural template that separates *counterfactual sufficiency* (physical pathway remains complete) from *causal authority* (the mental state is the cause). This is precisely the move that responds to Kim's exclusion argument treated in mental-causation-and-downward-causation.md — but the article currently has zero references to trumping-preemption or Schaffer (grep confirmed). The exclusion-argument treatment is the site's canonical concept page on the topic and should cite the trumping template alongside its existing delegatory-causation / selection-laws framing. Cross-review should (a) add inbound link to concepts/trumping-preemption.md where the exclusion argument is engaged, (b) check whether the "non-overdetermination without epiphenomenalism" move the article already makes can now be sharpened by naming the authority/sufficiency decoupling explicitly, (c) consider whether Saad's preemption-based dualism warrants a short paragraph as an alternative response-strategy alongside the Map's quantum-interface response, (d) verify terminology alignment (trumping-preemption uses "authority," "default causal profile," "meta-level selection rule"; mental-causation-and-downward-causation uses "selection laws," "downward causation" — check for drift), (e) ensure the energy-debt and observational-closure arguments remain consistent with the trumping framing. Log findings even if no edits made. See concepts/trumping-preemption.md.
+- **Output**: obsidian/concepts/mental-causation-and-downward-causation.md -- Context: Cross-review concepts/mental-causation-and-downward-causation.md considering trumping-preemption insights
+
+### ✓ 2026-04-22: Address gaps in concepts/trumping-preemption.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-22 found four issues: (1) Medium — fiction-to-nature gap in §"Applying the Template" is not bridged (Schaffer's cases are stipulated/fictional; the article imports the structure to psychophysics without explaining why nature would supply a non-stipulative analogue — add a paragraph flagging the disanalogy). (2) Low — counterfactual-dependence phrasing in §"Schaffer's Cases" is loose (tighten to "counterfactual necessity fails for both candidates … yet the asymmetry survives"). (3) Medium — tonal break between defensive middle (Lewis, Bernstein, no empirical signature conceded) and confident closing ("the evidence warrants"); soften to "the Map's tenet framework warrants" or add explicit grounding in non-trumping evidence. (4) Low — "observable closure is preserved" is reported as Saad's position without flagging that the observable/unobservable distinction is itself contested (Crane, Papineau). Also tighten four language items (front-loaded "philosophically load-bearing," "about as small as a real cause can be," "a genuine addition the evidence warrants," "dualist attention should go"). Make Mills/Lowe response to Bernstein explicit rather than allusive. See reviews/pessimistic-2026-04-22.md.
+- **Output**: obsidian/concepts/trumping-preemption.md
+
+Task context:
+Pessimistic review 2026-04-22 found four issues: (1) Medium — fiction-to-nature gap in §"Applying the Template" is not bridged (Schaffer's cases are stipulated/fictional; the article imports the structure to psychophysics without explaining why nature would supply a non-stipulative analogue — add a paragraph flagging the disanalogy). (2) Low — counterfactual-dependence phrasing in §"Schaffer's Cases" is loose (tighten to "counterfactual necessity fails for both candidates … yet the asymmetry survives"). (3) Medium — tonal break between defensive middle (Lewis, Bernstein, no empirical signature conceded) and confident closing ("the evidence warrants"); soften to "the Map's tenet framework warrants" or add explicit grounding in non-trumping evidence. (4) Low — "observable closure is preserved" is reported as Saad's position without flagging that the observable/unobservable distinction is itself contested (Crane, Papineau). Also tighten four language items (front-loaded "philosophically load-bearing," "about as small as a real cause can be," "a genuine addition the evidence warrants," "dualist attention should go"). Make Mills/Lowe response to Bernstein explicit rather than allusive. See reviews/pessimistic-2026-04-22.md.
 
 ### ✓ 2026-04-22: Cross-review concepts/delegatory-causation.md considering trumping-preemption research insights
 - **Type**: cross-review

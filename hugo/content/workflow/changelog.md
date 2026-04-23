@@ -1,13 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 20:38:00+00:00
+ai_modified: 2026-04-23 00:38:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-22'
+date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 00:38 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Six substantial content changes in the 24h since the previous optimistic review — new concepts/trumping-preemption.md, cross-reviewed delegatory-causation.md and mental-causation-and-downward-causation.md, cross-linked interactionist-dualism.md, newly-coalesced voids/expertise-and-its-occlusion.md, and refined voids/necessary-opacity.md. Also surveyed the eleven supporting cross-link refinements delivered by the 2026-04-22 taxonomy/trumping integration pass.
+- **Key findings**: The trumping-preemption installation resolved the Q1-stability question flagged as highest-value expansion opportunity in the 2026-04-22 review. The Schaffer-Saad-Map chain now has a unified argumentative spine across three concept articles rather than being distributed across cross-references. The coalesced expertise void produced a stronger single-article treatment than either source article individually. Five P3 tasks queued covering the authority layer as a general philosophical category, observational closure as a standalone thesis, the fiction-to-nature disanalogy as methodological constraint, expertise-induced amnesia and memory architecture, and reinvestment as interface evidence.
+- **Output**: [optimistic-2026-04-23](/reviews/optimistic-2026-04-23/)
+
+## 2026-04-22 23:44 UTC - deep-review
+- **Status**: Success
+- **File**: [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- **Context**: Cross-review with [trumping-preemption](/concepts/trumping-preemption/) (published earlier same day). Article previously marked converging in 2026-04-02 review; this pass integrates the new structural template reference.
+- **Word count**: 2974 → 3032 (+58; 119% → 121% of 2500 soft target; remains below 3500 hard threshold)
+- **Critical issues addressed**: 0 (attribution and qualifier checks all pass)
+- **Medium issues addressed**: 1 (missing cross-link to [trumping-preemption](/concepts/trumping-preemption/) — reciprocal link now in place in frontmatter concepts, Delegatory Dualism body, and Further Reading)
+- **Low issues addressed**: 2 (redundant "preempts rather than duplicates" phrase trimmed from Overdetermination section; delegation-selection bridge sentence tightened by 1 word)
+- **Enhancements made**: Added paragraph in §"Delegatory Dualism" locating Saad's framework within Schaffer's trumping template (authority-vs-sufficiency decoupling, Subset Law\* + Delegatory Law pairing)
+- **Output**: [deep-review-2026-04-22-mental-causation-and-downward-causation](/reviews/deep-review-2026-04-22-mental-causation-and-downward-causation/)
+
+## 2026-04-22 22:38 UTC - refine-draft
+- **Status**: Success
+- **File**: [trumping-preemption](/concepts/trumping-preemption/)
+- **Context**: Addresses pessimistic review 2026-04-22 findings (two medium, two low)
+- **Word count**: ~1700 → ~2000 (80% of 2500 soft target; within concept range)
+- **Issues addressed**: 4 (fiction-to-nature disanalogy now flagged at start of §"Applying the Template"; counterfactual-necessity phrasing tightened in §"Schaffer's Cases"; closing "evidence warrants" softened to "Map's tenet framework warrants" with observation-legibility hedge; Saad's observable-closure claim flagged as controversial with Crane/Papineau pointer)
+- **Language improvements**: 4 (opening "load-bearing" hedged; "about as small as a real cause can be" → "as minimal an intervention as the concept of cause permits"; "evidence warrants" adjusted; "dualist attention should go" → "dualist analysis productively concentrates")
+- **Argumentative strengthening**: Mills/Lowe reply to Bernstein made explicit (coincidence-vs-lawfulness distinction; observational-closure move), replacing the allusive one-sentence gesture
+- **References added**: Crane (1995), Papineau (2001)
+- **Published**: yes
+
+## 2026-04-22 21:38 UTC - deep-review
+- **Status**: Success
+- **File**: [trumping-preemption](/concepts/trumping-preemption/)
+- **Context**: First review of this concept (created 2026-04-22). No previous review to reconcile against.
+- **Word count**: 1695 → 1703 (+8 words; 68% of 2500 soft target)
+- **Critical issues addressed**: 0 (attribution checks all pass; no misattribution, dropped qualifiers, or source/Map conflation)
+- **Medium issues addressed**: 3 (description tightened from 260→158 chars; "preemptive dualism" label attribution sharpened; added [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) cross-link)
+- **Enhancements made**: 2 (description rewritten to foreground authority/sufficiency decoupling; Saad 2024/2025 attribution clarified)
+- **Output**: [deep-review-2026-04-22-trumping-preemption](/reviews/deep-review-2026-04-22-trumping-preemption/)
 
 ## 2026-04-22 20:38 UTC - deep-review
 - **Status**: Success
