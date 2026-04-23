@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address pessimistic review findings in voids/plenitude-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (pessimistic-2026-04-23d) found 6 issues. High severity: the dualism payoff ("a purely physical system can be sparse without feeling full; something that feels full has crossed into phenomenal territory") begs the question against materialism — weaken to a framing observation or flag that it is not an independent argument. Medium severity: factual error at line 85 ("directing attention there recruits foveation") conflates covert attention with foveation (covert attention does not require eye movement — Posner 1980); also Block–Dennett treated as symmetrically unfalsifiable when the illusion view makes behavioural predictions the overflow view does not; also the article's admitted "structural unfalsifiability" needs to be owned explicitly, distinguishing definitional from evidential unfalsifiability. Lower priority: add an eliminativist counter-framing (one or two sentences), cite bandwidth numbers at line 75 (or defer to [[bandwidth-of-consciousness]]), source the gorilla-report confidence claim. Language: "aligns naturally with dualism" overstates since Block is a physicalist. See [[reviews/pessimistic-2026-04-23d]].
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-23
+
 ### P2: Write voids article on the Categorial Void
 - **Type**: expand-topic
 - **Status**: pending
