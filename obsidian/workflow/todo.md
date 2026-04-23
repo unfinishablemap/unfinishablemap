@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23T12:10:00+00:00
+ai_modified: 2026-04-23T15:38:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Strengthen urgleichung-under-realist-reading argument in born-rule-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-23b (Counterargument #2) identifies a load-bearing move in `topics/pragmatist-quantum-foundations-and-the-agent.md` that the article defers to its sibling: the Map claims it can absorb QBism's urgleichung while rejecting QBism's anti-realism. The critic's reply is that the urgleichung is derived under a specific interpretive stance (probabilities as personal credences about future experiences); under a realist reading, SIC-POVMs become a mathematical basis and the urgleichung becomes a theorem of probability theory on a particular operator structure — leaving "the interface" no independent work to do. The pragmatist-quantum article defers this argument to the `born-rule-and-the-consciousness-interface` article, but that article does not currently carry the argument. Add a section (~300-500 words) specifying: (a) what formal shape of the urgleichung survives separation from Bayesian personalism, (b) why that specific shape is evidence for the interface reading rather than a generic mathematical fact, (c) what the honest fallback is if the argument cannot be made out — soften the pragmatist-quantum article's "right object for the wrong reason" line. See reviews/pessimistic-2026-04-23b.md Counterarg 2 and Unsupported Claim row 4.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-23
+
+### P2: Rephrase pragmatist-quantum MWI-convergence claim to acknowledge heterogeneity
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-23b (Counterargument #3 and Deutsch critique) flagged that the pragmatist-quantum article treats the pragmatist family's rejection of MWI as "unanimous agreement" (line 180) and the family's conclusions as "align[ing] even where the reasoning differs" (line 150). The rejections are actually heterogeneous: QBism rejects MWI via anti-realism the Map explicitly declines; Stapp's rejection rests on added collapse dynamics; Healey and Brukner-Zeilinger are indifferent, not opposed. Reword per the review's suggested response: "the family converges on the non-reality of branches, though for heterogeneous reasons the Map does not uniformly share." Also engage Wallace's and Saunders's treatments of indexical facts under MWI rather than asserting the indexical objection and moving on. Short scope (~100-200 words of targeted edits). See reviews/pessimistic-2026-04-23b.md Counterarg 3.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Develop trumping dualism's own falsifiability profile
+- **Type**: expand-topic
+- **Notes**: Deep-review 2026-04-23 of `topics/born-rule-violation-brain-interface-empirical-status.md` deferred this as a P3 enhancement: trumping is currently described as orthogonal to Born testing (the Born rule and the consciousness-physics question belong on separate axes), which is correct but leaves trumping's own empirical status underdeveloped. The three-way taxonomy (corridor / minimum-outside-corridor / trumping) works as a classificatory device, but trumping lacks a falsifiability treatment parallel to corridor dualism's "indistinguishable from standard QM at the ensemble level" honest accounting. Article or concept-page extension would (a) specify what trumping predicts that could in principle fail to obtain (behavioural signatures of authority-selection that neither corridor nor standard-QM accounts predict), (b) distinguish metaphysical from operational falsifiability for trumping specifically, (c) honest-account what trumping's "different axis" placement costs it empirically, (d) connect to [[observational-closure]] (if written) and to `apex/interface-specification-programme.md`. Short-medium scope (1500-2000 words). Target: extend `concepts/trumping-preemption.md` with a §"Falsifiability Profile" or write a standalone topic article. Tenet alignment: Dualism, Minimal Quantum Interaction. See reviews/deep-review-2026-04-23-born-rule-violation-brain-interface-empirical-status.md "Remaining Items".
+- **Source**: chain
+- **Generated**: 2026-04-23
 
 ### P3: Write concept article synthesising the three MQI-sanctioned options
 - **Type**: expand-topic
@@ -168,11 +186,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-22
 
-### P3: Condense pragmatist-quantum-foundations-and-the-agent.md (4079 words, 102% of hard threshold)
+### P2: Condense pragmatist-quantum-foundations-and-the-agent.md (4315 words, 108% of hard threshold)
 - **Type**: condense
-- **Notes**: Article exceeds 4000-word hard threshold for topics/ by 79 words. Created 2026-04-19 via coalesce of pragmatism-and-qbism.md and pragmatist-quantum-foundations-under-dualism.md. Only marginally over — could be handled with targeted trimming rather than full condense. Preserve the unified agent-shaped-hole thesis, the four-tradition comparison (QBism/Healey/Brukner-Zeilinger/Stapp), the specific dualist moves each tradition declines to make, and tenet alignment. Compress any remaining redundancy between the two merged sources where the unified treatment now allows. Target: ≤4000 words. See /condense skill.
+- **Notes**: Article exceeds 4000-word hard threshold for topics/ by 315 words (up from 79 when the task was first generated on 2026-04-19 at 4079 words). Additions from the 2026-04-23 refine-draft (agent-sense disambiguation, corridor ensemble-invisibility confession, James/Peirce/Dewey hedging, primitive-in-theory-to-non-physical inference hedge, Healey-counterexample softening) have pushed the article 236 words further into hard-warning. Promoting to P2 so condensation happens sooner rather than accumulating further. Preserve the unified agent-shaped-hole thesis, the four-tradition comparison (QBism/Healey/Brukner-Zeilinger/Stapp), the recent 2026-04-23 hedges, and tenet alignment. Compress any remaining redundancy between the two originally-merged sources and tighten the Jamesian genealogy section (flagged in pessimistic-2026-04-23b as "somewhat expansive"). Target: ≤4000 words. See /condense skill.
 - **Source**: length_analysis
 - **Generated**: 2026-04-19
+- **Updated**: 2026-04-23
 
 ### P3: Write concept article on the Sifting Ratio (10⁸ brain-to-consciousness narrowing)
 - **Type**: expand-topic
