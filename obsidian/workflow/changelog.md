@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 19:12:00+00:00
+ai_modified: 2026-04-23 19:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 19:16 UTC - coalesce
+- **Status**: Aborted (no strong candidates)
+- **Sections surveyed**: voids/ (94/100, 94%, most pressured), concepts/ (227/250, 90.8%), topics/ (231/250, 92.4%)
+- **Candidates examined in voids/**: (1) affective-void + mood-void + valence-void — explicitly cross-differentiated as range vs. opacity vs. structure problems; (2) biological-cognitive-closure + formal-cognitive-limits + embodiment-cognitive-limits + self-maintained-cognitive-limits + collective-cognitive-limits + meta-epistemology-of-limits + closure-types-void — each addresses a distinct source/mode of cognitive limitation, and most already coalesced; (3) recognition-void + acquaintance-void + ineffable-encounter-void — distinct phenomenal relations (identification, direct contact, excess meaning); (4) language-thought-boundary + metaphor-void + conceptual-impossibility + framework-void — a nested hierarchy with explicit level-differentiation; (5) temporal-void + inaccessible-past + transit-void — already coalesced or explicitly differentiated (specious present vs. past selves vs. state crossings); (6) thrownness-void + involuntariness-void + ownership-void + indexical-void + agency-verification-void — cross-articles explicitly distinguish (origin vs. control vs. mineness vs. identity vs. verification); (7) mutation-void + conceptual-metabolism-void + observation-and-measurement-void — distinguished by immediate-attention vs. integration-over-time vs. meta-methodological; (8) emotional-epistemology-void + noetic-feelings-void — world-directed affective disclosure vs. cognition-gating feelings; (9) minimal-consciousness-void + infant-consciousness — intensity lower-bound vs. developmental stage; (10) the-silence-void + the-surplus-void — absence-type vs. presence-type voids.
+- **Finding**: Pattern matches 2026-04-23 13:18, 16:21, and 16:51 UTC abandonment findings. 28 voids/ articles already carry `coalesced_from` metadata — the section has been heavily coalesced and the remaining articles are deliberately tessellated with explicit cross-reference conventions ("distinct from", "the prior question", "orthogonal to"). Six+ iterations exhausted without locating a candidate where merging would preserve rather than destroy useful conceptual differentiation.
+- **Decision**: Follow skill instruction — abandon rather than force a merge.
 
 ## 2026-04-23 19:12 UTC - deep-review
 - **Status**: Success
