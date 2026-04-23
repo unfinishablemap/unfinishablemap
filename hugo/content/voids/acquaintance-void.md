@@ -67,7 +67,7 @@ The ability hypothesis (Lewis 1988, Nemirow 1990) objects that Mary gains only a
 
 ### Cross-Species Inaccessibility
 
-Nagel argues that even perfect knowledge of bat neurophysiology fails to tell us what echolocation is like *for the bat*. The limit is not informational but phenomenological: there are facts about experience that cannot be captured by propositions expressible in human language. Our imaginative capacities draw on prior acquaintance; where acquaintance ends, imagination produces only analogies built from materials we already have—never the thing itself. The [imagination and creativity void](/voids/imagination-and-creativity-void/) maps this confinement systematically: imagination operates like a language with a fixed alphabet, infinitely productive within its vocabulary but mute beyond it.
+Nagel argues that even perfect knowledge of bat neurophysiology fails to tell us what echolocation is like *for the bat*. The limit is not informational but phenomenological: there are facts about experience that cannot be captured by propositions expressible in human language. Our imaginative capacities draw on prior acquaintance; where acquaintance ends, imagination produces only analogies built from materials we already have—never the thing itself. The [imagination and creativity void](/voids/creative-aesthetic-void/) maps this confinement systematically: imagination operates like a language with a fixed alphabet, infinitely productive within its vocabulary but mute beyond it.
 
 ### Cognitive Closure
 

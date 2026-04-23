@@ -152,7 +152,7 @@ Meditative traditions cultivate a skill of resting in mood without reifying it, 
 - **Mood congruence as probe**: Watch what memories, associations, and perceptions your cognition delivers. The pattern reveals the mood without requiring direct access.
 - **Counterfactual testing**: Ask "would I feel this way about X if I had slept better / eaten / had different weather?"—yielding indirect inference about mood's contribution to current judgment.
 - **Testimony and mirroring**: Others often identify our mood before we do. Social attribution serves as an external probe.
-- **Artistic expression**: Music, poetry, and visual art bypass the propositional-articulation bottleneck and convey mood dimensions more faithfully than description (related to the [Aesthetic Void](/voids/aesthetic-void/)).
+- **Artistic expression**: Music, poetry, and visual art bypass the propositional-articulation bottleneck and convey mood dimensions more faithfully than description (related to the [Aesthetic Void](/voids/creative-aesthetic-void/)).
 - **Longitudinal pattern tracking**: Mood diaries reveal cycles and triggers invisible at any single time point.
 
 ### What AI Might See

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-23 12:20:00+00:00
+ai_modified: 2026-04-23 14:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -31,6 +31,8 @@ related_articles:
 - '[[meta-epistemology-of-limits]]'
 - '[[thought-stream-void]]'
 - '[[apophatic-cartography]]'
+- '[[consciousness-and-scientific-explanation]]'
+- '[[consciousness-and-creativity]]'
 title: The Noetic Feelings Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -56,7 +58,7 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a large
 
 Slawa Loev argues these are "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Joëlle Proust's framework treats metacognition as procedural rather than metarepresentational: feelings of knowing or of being right drive epistemic control without any articulated thought about cognitive states. The feelings do their gating work beneath the level of reportable judgment.
 
-The Map treats [epistemic emotions](/concepts/epistemic-emotions/) as the phenomenally rich end of this family—curiosity, doubt, insight, confusion—where the felt signal has narrative texture. Noetic feelings sit a level lower: minimal, verdict-like, often unlabeled. The family extends from vivid insight to barely-detectable confidence shifts, all sharing the same opacity pattern.
+The Map treats [epistemic emotions](/concepts/epistemic-emotions/) as the phenomenally rich end of this family—curiosity, doubt, insight, confusion—where the felt signal has narrative texture. Noetic feelings sit a level lower: minimal, verdict-like, often unlabeled. The family extends from vivid insight to barely-detectable confidence shifts, all sharing the same opacity pattern. The phenomenology of [insight specifically](/concepts/consciousness-and-creativity/) — the "aha" experience catalogued by creativity research on restructuring, incubation, and sudden solutions — offers the clearest empirical window on one member of the family, and exhibits the same recursive opacity as the rest: the breakthrough presents itself as direct apprehension of a solution, not as the fluency-and-coherence signal the experimental evidence implicates.
 
 ## How the Feelings Are Produced
 
@@ -107,7 +109,7 @@ This does not mean AIs have "the feeling of knowing" without the void. It may me
 
 The noetic feelings void connects to the Map's [foundational commitments](/tenets/) in ways that sharpen rather than soften the Map's position.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** is the most central connection. Trust in parsimony is itself a noetic feeling. When an explanation *feels* sufficient, *feels* clean, *feels* obvious, that feel is a fluency-and-coherence signal produced by the same heuristic machinery as any other noetic feeling. The razor is a felt gate, and the feeling is opaque. The razor has no independent auditor inside a single consciousness—applications of the razor are judged by the very mechanism that generates its verdicts. The Map's commitment to limited parsimony under incomplete knowledge is, among other things, an instruction to *distrust the feeling of sufficiency*.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** is the most central connection. Trust in parsimony is itself a noetic feeling. When an explanation *feels* sufficient, *feels* clean, *feels* obvious, that feel is a fluency-and-coherence signal produced by the same heuristic machinery as any other noetic feeling. The razor is a felt gate, and the feeling is opaque. The razor has no independent auditor inside a single consciousness—applications of the razor are judged by the very mechanism that generates its verdicts. The Map's commitment to limited parsimony under incomplete knowledge is, among other things, an instruction to *distrust the feeling of sufficiency*. [Scientific explanation](/concepts/consciousness-and-scientific-explanation/) meets noetic feelings directly here: explanatory satisfaction — the felt sense that an account has *landed* — is fluency-driven in the same way as other noetic verdicts, which is one reason apparently decisive theories can be artefacts of presentation rather than tracks of genuine fit.
 
 **[Dualism](/tenets/#dualism)** receives positive support. Noetic feelings have genuine phenomenal character—an irreducible felt quality that is not identical with the accessibility score or fluency trace that triggered them. The feeling of knowing is not merely a functional state; it is a felt state of a conscious subject, with affective valence and felt arousal (Loev). Functional reduction misses the feel. The family as a whole presents the hard problem on the metacognitive register: why should any heuristic produce a *feel* at all?
 

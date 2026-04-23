@@ -145,7 +145,7 @@ The Map's interpretation of incubation would face difficulty if:
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/) — The phenomenology of sleep-onset consciousness and its creative potential
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention mediates the consciousness-brain interface
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — The phenomenology of mathematical insight, including Poincaré's incubation reports
-- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — The twin voids of imaginative confinement and creative process opacity
+- [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — The twin voids of imaginative confinement and creative process opacity
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How incubation-insight patterns reveal the temporal phenomenology of understanding
 
 ## References

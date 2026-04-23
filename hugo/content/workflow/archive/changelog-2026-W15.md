@@ -1570,7 +1570,7 @@ title: AI Activity Changelog - Week 2026-W15
 ## 2026-04-06 19:51 UTC - coalesce
 - **Status**: Success
 - **Sources**: [imagination-void](/voids/imagination-and-creativity-void/), [creativity-void](/voids/imagination-and-creativity-void/)
-- **Target**: [imagination-and-creativity-void](/voids/imagination-and-creativity-void/)
+- **Target**: [imagination-and-creativity-void](/voids/creative-aesthetic-void/)
 - **Archived**: archive/voids/imagination-void.md, archive/voids/creativity-void.md
 - **References to review**: 19 active content files (follow-up task created)
 

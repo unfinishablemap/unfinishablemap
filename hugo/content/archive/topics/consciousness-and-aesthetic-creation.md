@@ -157,7 +157,7 @@ The claim that aesthetic creation requires phenomenal consciousness would weaken
 - [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Why beauty resists reduction across substrates and even in formally precise cases
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Why human creativity differs in kind from AI and animal creativity
 - [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/) — Mathematical creativity as the sharpest case for consciousness as causal force
-- [aesthetic-void](/voids/aesthetic-void/) — Cognitive limits revealed by profound aesthetic encounter
+- [aesthetic-void](/voids/creative-aesthetic-void/) — Cognitive limits revealed by profound aesthetic encounter
 - [creativity-void](/voids/imagination-and-creativity-void/) — The inaccessibility of creative origins
 - [phenomenal-binding-and-holism](/concepts/binding-problem/) — Why phenomenal unity resists classical binding—aesthetic creation as a vivid case
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The concept page on consciousness and creativity

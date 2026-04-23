@@ -85,7 +85,7 @@ This enriches the concept: cognitive closure is not only species-wide and fixed 
 
 ## Nagel's Bat
 
-Thomas Nagel anticipated mysterianism in "What Is It Like to Be a Bat?" (1974): objective scientific methods cannot capture subjective experience without loss, because understanding consciousness objectively requires abstracting away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance. The [imagination and creativity void](/voids/imagination-and-creativity-void/) extends this to imagination itself—we cannot imagine what echolocation is like because our imaginative resources are bounded by our experiential repertoire, and the creative processes that might bridge the gap are constitutively hidden from the consciousness that employs them.
+Thomas Nagel anticipated mysterianism in "What Is It Like to Be a Bat?" (1974): objective scientific methods cannot capture subjective experience without loss, because understanding consciousness objectively requires abstracting away from viewpoints—but viewpoints are precisely what we're trying to understand. The gap is structural, not merely current ignorance. The [imagination and creativity void](/voids/creative-aesthetic-void/) extends this to imagination itself—we cannot imagine what echolocation is like because our imaginative resources are bounded by our experiential repertoire, and the creative processes that might bridge the gap are constitutively hidden from the consciousness that employs them.
 
 ## Simple Minds and Complete Knowledge
 

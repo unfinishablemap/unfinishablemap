@@ -144,7 +144,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 
 - [spontaneous-thought-void](/voids/thought-stream-void/) — The same generative opacity pervading ordinary mentation
 - [imagination-void](/voids/imagination-and-creativity-void/) — Where consciousness's instrument for exploring beyond the given fails
-- [aesthetic-void](/voids/aesthetic-void/) — The companion void: where aesthetic content resists articulation
+- [aesthetic-void](/voids/creative-aesthetic-void/) — The companion void: where aesthetic content resists articulation
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis: how consciousness generates and selects creative possibilities
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — How consciousness enables creative thought that escapes baseline cognition
 - [Voids in the Map](/voids/) — The framework for cognitive dark spaces

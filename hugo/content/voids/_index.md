@@ -92,8 +92,8 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — Where consciousness goes during deep sleep
 - [The Intentionality Void](/voids/intentionality-void/) — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
-- [The Creativity Void](/voids/imagination-and-creativity-void/) — Where creative insight originates, inaccessible to introspection
-- [The Aesthetic Void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
+- [The Creativity Void](/voids/creative-aesthetic-void/) — Where creative insight originates, inaccessible to introspection
+- [The Aesthetic Void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
 - [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies

@@ -59,7 +59,7 @@ No misattribution, dropped qualifiers, or source/Map conflation detected. Map-sp
 - Self-referential circularity acknowledgment
 - Tenet connections engaging four of five tenets substantively
 - Front-loaded opening that survives truncation
-- Recent integration of [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) paradigm case in Frustration section
+- Recent integration of [imagination-and-creativity-void](/voids/creative-aesthetic-void/) paradigm case in Frustration section
 - [understanding-void](/voids/understanding-void/) cross-link in diagnostic grid
 
 ### Enhancements Made

@@ -177,7 +177,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 - [global-workspace-theory](/concepts/global-workspace-theory/) — Broadcasting account of conscious access
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time as creative becoming
 - [agent-causation](/concepts/agent-causation/) — Conscious origination of action
-- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — Why the creative source remains hidden
+- [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — Why the creative source remains hidden
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Beauty as irreducible phenomenal property
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — Imagination and creative exploration
 - [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/) — Translation as a paradigm case of meaning-sensitive creative selection

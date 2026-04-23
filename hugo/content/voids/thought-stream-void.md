@@ -172,7 +172,7 @@ The evidence for content-specific opacity remains suggestive rather than conclus
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework
-- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — The related void concerning creative insight's hidden origins
+- [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — The related void concerning creative insight's hidden origins
 - [Introspective Opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive processes
 - [mutation-void](/voids/mutation-void/) — Where pre-attended content transforms rather than vanishes under observation
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries

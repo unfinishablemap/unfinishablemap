@@ -224,7 +224,7 @@ The aesthetic dimension of consciousness supports the Map's [foundational commit
 
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Making art as evidence for bidirectional interaction
 - [binding-and-beauty](/topics/aesthetics-and-consciousness/) — The aesthetic unity problem as a harder form of phenomenal binding
-- [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
+- [aesthetic-void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-experience](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
 - [dualism](/concepts/dualism/) — The standard philosophical case, which aesthetic evidence supplements

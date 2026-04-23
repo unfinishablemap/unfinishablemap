@@ -154,7 +154,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [recursion-void](/voids/recursion-void/) — The general form of self-referential failure
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Distinguishing evolved from engineered limits
 - [language-thought-boundary](/voids/language-thought-boundary/) — Articulation constraints on comprehension
-- [imagination-and-creativity-void](/voids/imagination-and-creativity-void/) — Where insight originates
+- [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — Where insight originates
 - [phenomenal-quality-void](/voids/phenomenal-quality-void/) — Why immediacy hides its own mechanisms
 - [framework-void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [Cognitive Aversion](/voids/self-maintained-cognitive-limits/) — Thoughts we systematically flee

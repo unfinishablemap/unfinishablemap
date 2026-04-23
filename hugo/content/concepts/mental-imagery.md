@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-23 08:39:00+00:00
+ai_modified: 2026-04-23 14:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -118,7 +118,9 @@ The argument above is not watertight. The identity theorist responds that consci
 
 This is a genuine explanatory standoff. Both the dualist and identity-theory accounts predict that voluntary imagery (with its distinctive neural signature) produces measurable performance gains. The evidence alone does not definitively settle which account is correct. The primary opponent here is not epiphenomenalism — a fringe position — but identity theory: the position that conscious states *are* brain states, fully causal *as* brain states, with phenomenal properties identical to (not merely correlated with) neural properties.
 
-Three considerations press against this identity account.
+Motor imagery may be one of the cleanest test cases for the [trumping](/concepts/trumping-preemption/) or *authority-selecting* reading of conscious causation, an option distinct from both the dualist-interventionist and identity-theorist positions. On that template, the neural rehearsal retains counterfactual sufficiency for producing the improvement, while causal authority belongs to the conscious imagining — the physical trajectory is unchanged but the causal attribution is relocated to the experiential layer. Motor imagery fits the template unusually well, because the phenomenology of deliberately holding and manipulating an image is richly present, the neural machinery is sufficient on its own to produce the downstream effect, and what needs explaining is *whose* causal authority the improvement tracks, not which trajectory it rides. This reading preserves the identity theorist's physical story while locating causal authority in consciousness, addressing the standoff from a structural direction that trajectory-altering dualism does not supply.
+
+Three considerations press against a pure identity account.
 
 ### Content Matching
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-26 05:16:00+00:00
+ai_modified: 2026-04-23 13:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Pain asymbolia dissociates nociceptive sensation from affective suf
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 10:22:00+00:00
+last_deep_review: 2026-04-23 13:34:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

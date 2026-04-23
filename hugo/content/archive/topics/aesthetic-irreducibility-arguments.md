@@ -164,7 +164,7 @@ The aesthetic irreducibility arguments would weaken if:
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Making art as evidence for bidirectional interaction
 - [mathematical-knowledge-and-insight](/topics/mathematical-truth-and-conscious-access/) — Mathematical beauty as cognitive phenomenology
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
-- [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
+- [aesthetic-void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [knowledge-argument](/concepts/knowledge-argument/) — Why phenomenal facts exceed physical facts
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience

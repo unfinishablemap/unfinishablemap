@@ -154,7 +154,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 
 ## Further Reading
 
-- [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
+- [aesthetic-void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — Value as intrinsic to experience
 - [phenomenology-of-moral-life](/topics/phenomenology-of-moral-life/) — Parallel analysis for moral value
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — The five standard varieties of phenomenal binding

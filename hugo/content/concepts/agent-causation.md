@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-23 11:25:00+00:00
+ai_modified: 2026-04-23 12:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -57,146 +57,83 @@ Agent causation holds that conscious agents—understood as persisting substance
 
 The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet is essentially agent-causal: consciousness genuinely selects outcomes. The Map's framework specifies *how* this selection occurs—through quantum indeterminacies—while agent-causal philosophy provides the conceptual framework for *what* is happening: substances exercising irreducible causal powers.
 
-## The Distinction: Agent vs. Event Causation
+## Agent vs. Event Causation
 
-Most causal explanations appeal to events causing events—*transeunt causation* in Chisholm's term. Agent causation (*immanent causation*) is different: the agent, as a persisting substance, directly causes the action. When I decide to raise my hand, *I* caused the raising—the agent is ontologically prior to events, not a mere sum of them.
+Most causal explanations appeal to events causing events—*transeunt causation* in Chisholm's term. Agent causation (*immanent causation*) differs: the agent, as a persisting substance, directly causes the action. When I decide to raise my hand, *I* caused the raising—the agent is ontologically prior to events, not a mere sum of them.
 
-### Why This Matters for Free Will
+Event-causal libertarianism holds that free actions are caused by nondeterministic mental events. Critics argue this doesn't deliver genuine authorship: if prior mental events cause my decision, and I didn't choose those events, the causal chain traces back beyond my control. Agent causation answers this—it is the third horn of the [trilemma-of-selection](/topics/trilemma-of-selection/), which exhausts the options at any indeterminate decision point: determinism, randomness, or mental causation. The agent is the source—an "uncaused cause." The regress stops at the agent's irreducible capacity to act. Kane's 2024 work now incorporates agent-causal elements, representing convergence between traditions. See [the systematic treatment](/concepts/quantum-indeterminacy-free-will/#event-causal-vs-agent-causal-approaches).
 
-Event-causal libertarianism holds that free actions are caused by nondeterministic mental events. But critics argue this doesn't deliver genuine authorship: if prior mental events cause my decision, and I didn't choose those events, the causal chain traces back beyond my control.
+## Substance Causation: The Metaphysical Foundation
 
-Agent causation answers this—it is the third horn of the [trilemma-of-selection](/topics/trilemma-of-selection/), which exhausts the logical options at any indeterminate decision point: determinism, randomness, or mental causation. The agent is the source—an "uncaused cause" in traditional terminology. The regress stops at the agent's irreducible capacity to act. Kane's 2024 work now incorporates agent-causal elements, representing convergence between traditions. See [the systematic treatment](/concepts/quantum-indeterminacy-free-will/#event-causal-vs-agent-causal-approaches).
+Agent causation rests on *substance causation*—the view that substances (persisting things with causal powers) are the fundamental causal agents, and events are what substances *do*, not independent causal relata. Developed most thoroughly by E.J. Lowe with roots in Aristotelian and Thomistic philosophy, substance causation reframes the mind-body problem. If all causation is fundamentally substance causation, then consciousness causing physical events is paradigmatic.
 
-## The Metaphysical Foundation: Substance Causation
+The dominant contemporary view is *event causation*: events cause events according to laws. Substance causation inverts this: substances are the causal agents. When you act, *you* cause the action—not your desire causing your body to move. Lowe put it directly: "Substances, not events, are the causal source of all change in the world." He argued event causation reduces to substance causation—"A caused B" means "some substance exercised powers that brought about B"—while the reverse reduction fails, since analysing "substance S exercised power P" presupposes S itself.
 
-Agent causation rests on a deeper metaphysical thesis: *substance causation*—the view that substances (persisting things with causal powers) are the fundamental causal agents in the world, and events are what substances *do*, not independent causal relata. Developed most thoroughly by E.J. Lowe with roots in Aristotelian and Thomistic philosophy, substance causation reframes the mind-body problem. If all causation is fundamentally substance causation, then consciousness causing physical events is paradigmatic of what causation is.
-
-### Event Causation vs. Substance Causation
-
-The dominant view in contemporary philosophy is *event causation*: events cause events according to laws. The firing of neuron A causes the firing of neuron B.
-
-Substance causation inverts this. Substances—the neuron, you—are the causal agents. When neuron A fires, the neuron exercises its powers; it isn't that "the firing" causes something. When you act, *you* cause the action—not your desire causing your body to move. Lowe put it directly: "Substances, not events, are the causal source of all change in the world."
-
-Can event causation reduce to substance causation, or vice versa? Lowe argued that event causation reduces to substance causation: "A caused B" really means "some substance exercised powers that brought about B." The reverse reduction fails—you can't analyse "substance S exercised power P" purely in terms of events without presupposing S itself. Substances are ontologically prior.
-
-This matters for [mental causation](/concepts/mental-causation-and-downward-causation/). If event causation is fundamental, Kim's exclusion argument has force: mental events compete with physical events for causal responsibility. If substance causation is fundamental, the question shifts: what substances exist and what powers do they have?
+This matters for [mental causation](/concepts/mental-causation-and-downward-causation/). If event causation is fundamental, Kim's exclusion argument has force. If substance causation is fundamental, the question shifts: what substances exist and what powers do they have?
 
 ### Lowe's Framework
 
-E.J. Lowe developed the most systematic contemporary defence of substance causation in *Personal Agency* (2008). Key elements:
+Lowe's *Personal Agency* (2008) distinguishes substances, kinds, modes, and attributes, with causation operating primarily at the substance level. Substances have *powers* (capacities to produce effects) and *liabilities* (susceptibilities to be affected). Free agents are "unmoved movers, or initiators of new causal chains"—no prior event determines the choice. Volitions have no *event-cause* but do have an *agent-cause*: "uncaused" means uncaused by events, not uncaused simpliciter.
 
-**Four-category ontology**: Lowe distinguishes substances (individual things), kinds (categories substances belong to), modes (particular property instances), and attributes (universal properties). Causation operates primarily at the substance level.
+### Why This Matters for Consciousness
 
-**Powers and liabilities**: Substances have causal powers (capacities to produce effects) and liabilities (susceptibilities to be affected). A match has the power to ignite; wood has the liability to burn.
+The standard objection to [interactionist dualism](/concepts/interactionist-dualism/) is that consciousness causing physical events would be "metaphysically exceptional." Substance causation dissolves this: if *all* causation is substances exercising powers, consciousness causing events is the same *type* of causation as anything else—paradigmatic, not anomalous. This doesn't prove consciousness causes anything, but removes the objection that it *couldn't*.
 
-**Free agents as unmoved movers**: Free agents are "unmoved movers, or initiators of new causal chains"—no prior event determines the choice.
+Kim's exclusion argument depends on [causal closure](/concepts/causal-closure/): every physical event has a sufficient physical cause. Substance causation shifts the dialectic—the question isn't whether physical *events* are sufficient but whether physical *substances* are the only substances with causal powers. The Map's quantum framework strengthens this: at quantum indeterminacies, physics specifies probabilities but not outcomes, so there is no sufficient physical cause. A complementary response uses [trumping-preemption](/concepts/trumping-preemption/): even granting physical sufficiency, the agent can be the *authoritative* cause of an action a sufficient physical process also produced. Agent-causal talk does not require trajectory deviation from physical sufficiency.
 
-**Volitions as uncaused by events**: Volitions (acts of will) have no *event-cause*—no prior event determines them—but they do have an *agent-cause*: the agent produces them directly. "Uncaused" means uncaused by events, not uncaused simpliciter.
-
-### Why Substance Causation Matters for Consciousness
-
-The standard objection to [interactionist dualism](/concepts/interactionist-dualism/) is that consciousness causing physical events would be "metaphysically exceptional"—a mysterious relation unlike ordinary causation. If ordinary causation is event→event following laws, then consciousness→neurons seems anomalous.
-
-Substance causation dissolves this objection. If *all* causation is substances exercising powers, then consciousness causing events is the same *type* of causation as anything else—not anomalous but paradigmatic.
-
-This doesn't prove consciousness causes anything—that's an empirical and phenomenological question. But it removes the objection that consciousness *couldn't* cause anything because that would require a fundamentally new kind of causation.
-
-### The Causal Closure Question
-
-Kim's exclusion argument against [mental causation](/concepts/mental-causation-and-downward-causation/) depends on [causal closure](/concepts/causal-closure/): every physical event has a sufficient physical cause. If true, mental causes seem excluded.
-
-Substance causation shifts the dialectic. The question isn't whether physical *events* are sufficient but whether physical *substances* are the only substances with causal powers. Physics describes regularities in what substances do; it doesn't prove that only physical substances exist.
-
-The Map's quantum framework strengthens this response. At quantum indeterminacies, physics specifies probabilities but not outcomes—there's no sufficient physical cause because physics is genuinely incomplete there. The exclusion argument fails because its key premise fails: physical events *don't* have sufficient physical causes at quantum measurement.
-
-A complementary response uses [trumping-preemption](/concepts/trumping-preemption/): even granting physical sufficiency, the agent can be the *authoritative* cause of an action that a sufficient physical process also produced. Sufficiency and authority decouple, so agent-causal talk does not require trajectory deviation from physical sufficiency—what agent causation claims about *who* causes is distinct from what closure claims about *what is sufficient*.
-
-### Challenges to Substance Causation
-
-**The laws problem**: If substances cause events by exercising powers, what role do laws play? Lowe's response: laws describe what substances of certain kinds tend to do given their powers and liabilities. They're *descriptive* of substance activity, not *productive* of it. Critics worry this makes the regularity of substance behaviour unexplained.
-
-**The agent problem**: What about the agent explains *which* action occurs? This is the [luck objection](/concepts/luck-objection/) applied to substance causation—addressed in the section on the luck objection.
-
-**The [pairing problem](/concepts/pairing-problem/)**: If consciousness is a non-physical substance, how does it connect to *this* particular body? Combined with the Map's interface locality principle, substance causation can answer: consciousness is spatially located where it causally interfaces with the brain.
+Challenges include the *laws problem* (if substances cause events by exercising powers, what role remains for laws? Lowe: laws describe what substances tend to do), the *agent problem* (the [luck objection](/concepts/luck-objection/), addressed below), and the [pairing problem](/concepts/pairing-problem/) (consciousness is spatially located where it causally interfaces with the brain).
 
 ## Major Defenders
 
-Key figures: **Reid** (1788) is the founding figure, arguing that active power belongs to agents, not events. **Chisholm** (1964) revived agent causation, distinguishing immanent from transeunt causation. **O'Connor** (2000, 2021) developed substance causation where all causation is fundamentally agents exercising powers. **Lowe** (2008) argued substances, not events, are the causal source of all change—agent causation isn't exceptional but paradigmatic. **Hasker** combines agent causation with emergent dualism: the soul emerges from brain complexity but remains ontologically distinct. **Jacobs and O'Connor** (2013) develop the connection explicitly in a neo-Aristotelian framework, treating all causation as substance causation.
+**Reid** (1788) argued active power belongs to agents, not events. **Chisholm** (1964) revived agent causation, distinguishing immanent from transeunt causation. **O'Connor** (2000) developed substance causation where all causation is agents exercising powers. **Lowe** (2008) argued substances are the causal source of all change. **Hasker** combines agent causation with emergent dualism. **Jacobs and O'Connor** (2013) develop this explicitly in a neo-Aristotelian framework.
 
 ## The Luck Objection
 
 The central challenge: if indeterminism leaves outcomes undetermined, nothing about the agent explains which choice occurs. Mele's version: in two identical worlds where the agent chooses differently, what explains the difference? Nothing—it's luck.
 
-Agent-causal libertarians respond that the agent *does* explain the difference through exercising causal power. Critics find this unsatisfying: what about the agent explains why A rather than B?
+Agent-causal libertarians respond that the agent *does* explain the difference through exercising causal power. The [full response](/concepts/luck-objection/) turns on four points: (1) active choosing differs fundamentally from passive reception of random outcomes; (2) choosing feels effortful, while lucky events don't feel like achievements (see [mental-effort](/concepts/mental-effort/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)); (3) consciousness selects based on reasons, making selection contrastively explicable; (4) if [selection is atemporal](/concepts/retrocausality/), the prior state is part of what consciousness selected.
 
-### The Map's Response
-
-The Map strengthens this response. Consciousness doesn't randomly select—it genuinely *chooses* based on reasons. The [luck objection article](/concepts/luck-objection/) develops the full response:
-
-1. **Selection vs randomness**: Active choosing differs fundamentally from passive reception of random outcomes
-2. **Phenomenology of effort**: Choosing feels effortful; lucky events don't feel like achievements (see [mental-effort](/concepts/mental-effort/), [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/))
-3. **Reasons-guided selection**: Consciousness selects based on reasons, making selection contrastively explicable
-4. **Retrocausal deepening**: If [selection is atemporal](/concepts/retrocausality/), the prior state is part of what consciousness selected
-
-The agent's exercise of causal power is itself the explanation—a legitimate terminus, like physics taking existence as primitive. Selection is phenomenologically distinct (effort vs passivity), neurally distinct (frontal theta), and reasons-responsive. The [authenticity dimension](/topics/authentic-vs-inauthentic-choice/) matters here: agent causation is fully engaged in authentic choice (where you genuinely author the decision) and attenuated in inauthentic, scripted behavior—suggesting the selection function has variable engagement rather than operating uniformly across all actions.
+The agent's exercise of causal power is the explanation—a legitimate terminus, like physics taking existence as primitive. Selection is phenomenologically distinct (effort vs passivity), neurally distinct (frontal theta), and reasons-responsive. The [authenticity dimension](/topics/authentic-vs-inauthentic-choice/) matters: agent causation is fully engaged in authentic choice and attenuated in scripted behavior—suggesting variable engagement rather than uniform operation.
 
 ## The Map's Framework: Where Agent Causation Interfaces with Physics
 
-The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same kind of causal power that all substances exercise. This reframes the [causal closure objection](/concepts/interactionist-dualism/#the-causal-closure-argument): physics describes regularities in what substances do; it doesn't prove substances are exclusively physical.
+The Map specifies *where* agent causation interfaces with physics: at quantum indeterminacies, where physics leaves outcomes undetermined. The agent selects among quantum possibilities—exercising the same causal power all substances exercise. This also addresses the [pairing problem](/concepts/pairing-problem/): if consciousness interfaces at specific quantum-sensitive neural structures, it's spatially located where those structures are.
 
-This also addresses the [pairing problem](/concepts/pairing-problem/): if consciousness interfaces at specific quantum-sensitive neural structures, it's spatially located where those structures are. Agent causation operates through particular physical interfaces.
-
-Why can't we observe this interface in action? The [causal interface void](/voids/causal-interface/) explains: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation). This opacity is *predicted* by minimal quantum interaction—a minimal influence leaves minimal traces.
+Why can't we observe this interface? The [causal interface void](/voids/causal-interface/) explains: the mechanism is systematically invisible from both first-person introspection (which accesses intentions and actions but not their connection) and third-person observation (which sees correlates but not causation). This opacity is *predicted* by minimal quantum interaction.
 
 The [decoherence challenge](/concepts/decoherence/)—that warm neural tissue decoheres too fast (the [timing-gap-problem](/concepts/timing-gap-problem/))—assumes quantum effects must persist at computation timescales. The Map requires only that consciousness biases outcomes *at* decoherence; quantum biology has demonstrated unexpected coherence in warm biological systems (photosynthetic complexes, avian magnetoreception).
 
-## Agent Causation and Sourcehood
+## Sourcehood
 
-Kane emphasizes *sourcehood*: the agent must be the ultimate source, not merely a link in causal chains. Agent causation provides this directly—the agent initiates the causal chain through irreducible power.
+Kane emphasizes *sourcehood*: the agent must be the ultimate source, not merely a link. Agent causation provides this directly. The Map satisfies both free-will conditions: **sourcehood** (consciousness selects which quantum outcome becomes actual) and **alternative possibilities** (multiple outcomes were genuinely possible until selection).
 
-The Map satisfies both conditions for free will:
-- **Sourcehood**: Consciousness selects which quantum outcome becomes actual
-- **Alternative possibilities**: Multiple outcomes were genuinely possible until selection
-
-The retrocausal dimension deepens this: if selection operates through [atemporal causation](/concepts/atemporal-causation/)—determining which temporal history becomes real—the agent is "the cause of there being this chain at all." The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex synthesis develops the full implications: agents don't just act *within* time—they participate in time's constitution. If collapse creates temporal direction, and consciousness participates in collapse, then agent causation becomes participation in creating the temporal structure within which actions unfold.
+The retrocausal dimension deepens this: if selection operates through [atemporal causation](/concepts/atemporal-causation/), the agent is "the cause of there being this chain at all." The [Time, Consciousness, and the Growing Block](/apex/time-consciousness-growing-block/) apex develops this: agents don't just act *within* time—they participate in time's constitution.
 
 ## Skill Delegation and the Interface
 
-If agents cause actions, why don't they control every detail of skilled performance? The [implicit memory](/concepts/implicit-memory/) framework resolves this: skilled automaticity represents *delegation*, not absence. [Skill delegation](/concepts/skill-delegation/) follows a three-phase pattern—conscious calibration, progressive withdrawal, and retained override capacity—paralleling [causal delegation](/concepts/delegatory-causation/)'s metaphysical structure.
+If agents cause actions, why don't they control every detail of skilled performance? The [implicit memory](/concepts/implicit-memory/) framework resolves this: skilled automaticity represents *delegation*, not absence. [Skill delegation](/concepts/skill-delegation/) follows a three-phase pattern—conscious calibration, progressive withdrawal, retained override capacity—paralleling [causal delegation](/concepts/delegatory-causation/)'s metaphysical structure.
 
-The "choking under pressure" phenomenon demonstrates causal efficacy—as the [phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/) details, when experts consciously re-engage with automatised actions, performance degrades. This proves consciousness isn't epiphenomenal: if attention were causally inert, it couldn't interfere with skills. The agency-passivity axis provides the empirical grounding for agent causation, showing that consciousness's causal contribution varies along a spectrum from full agentic selection to passive observation.
-
-Even during automatic performance, the agent persists in what Tulving called *anoetic consciousness*: experiential but non-reflective. The agent trained the skill, sustains the embodied context, and retains re-engagement capacity. Delegation presupposes a delegator.
+The "choking under pressure" phenomenon demonstrates causal efficacy: when experts consciously re-engage with automatised actions, performance degrades (see [phenomenology of agency](/topics/phenomenology-of-agency-vs-passivity/)). If attention were causally inert, it couldn't interfere with skills. Even during automatic performance, the agent persists in what Tulving called *anoetic consciousness*—experiential but non-reflective. Delegation presupposes a delegator.
 
 ## Voluntary Attention as Agent-Causal Paradigm
 
-[Voluntary attention](/concepts/attention-as-interface/)—choosing where to direct awareness—provides the paradigm case of agent causation. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued), finding distinct neural signatures (Rajan et al. 2019; Nadra & Mangun 2023).
+[Voluntary attention](/concepts/attention-as-interface/)—choosing where to direct awareness—provides the paradigm case. Neuroscience distinguishes "willed attention" (internally chosen) from "instructed attention" (externally cued), finding distinct neural signatures (Rajan et al. 2019; Nadra & Mangun 2023).
 
-Endogenous attention takes ~300ms to deploy versus 100ms for automatic capture, with increased frontal theta and bidirectional frontoparietal coherence. The brain distinguishes between doing what you're told and doing what you choose. The [underlying mechanisms](/concepts/voluntary-attention-control-mechanisms/)—frontal decision circuits, salience network switching, and thalamic gating—identify specific neural sites where consciousness could bias otherwise undetermined outcomes without generating signals *de novo*.
+Endogenous attention takes ~300ms to deploy versus 100ms for automatic capture, with increased frontal theta and bidirectional frontoparietal coherence. The [underlying mechanisms](/concepts/voluntary-attention-control-mechanisms/)—frontal decision circuits, salience network switching, and thalamic gating—identify specific neural sites where consciousness could bias otherwise undetermined outcomes without generating signals *de novo*.
 
-Pre-prompt neural activity predicts free choices, paralleling the [Libet experiments](/concepts/libet-experiments/). The Map's resolution: prior activity establishes *options* for selection; consciousness selects from that menu. The agent is source of selection even if not source of options.
-
-First-person experience confirms the distinction: being *pulled* by a loud noise versus *directing* attention to difficult text. This phenomenological marker maps onto real mechanistic differences between ventral (capture) and dorsal (voluntary) networks.
+Pre-prompt neural activity predicts free choices, paralleling the [Libet experiments](/concepts/libet-experiments/). The Map's resolution: prior activity establishes *options* for selection; consciousness selects from that menu. The agent is source of selection even if not source of options. First-person experience confirms this: being *pulled* by a loud noise versus *directing* attention to difficult text—mapping onto ventral (capture) vs dorsal (voluntary) networks.
 
 ## Motor Selection: The Second Domain
 
-[Motor selection](/concepts/motor-selection/) extends agent causation beyond attention, showing striking parallels: willed movement displays the same ~300ms timeline, frontal theta increase, bidirectional coherence, and phenomenology of effort as willed attention.
+[Motor selection](/concepts/motor-selection/) extends agent causation beyond attention with striking parallels: willed movement shows the same ~300ms timeline, frontal theta increase, bidirectional coherence, and phenomenology of effort. This convergence across distinct domains answers the single-domain objection—if the signatures were artifacts of attention-specific processing, they wouldn't appear identically in motor control.
 
-This convergence across distinct domains—different brain regions, output pathways, evolutionary pressures—answers the single-domain objection. If agent-causal signatures were artifacts of attention-specific processing, they wouldn't appear identically in motor control.
-
-The Libet challenge has also substantially weakened. Schurger's reinterpretation treats the readiness potential as noise artifact; Sjöberg (2024) shows SMA resection doesn't impair voluntary action; Desmurget dissociates intention (parietal) from execution (premotor). Motor control now supports agent causation rather than challenging it. See [Phenomenology of Volitional Control](/topics/volitional-control/) for the full phenomenological case—including the agency-ownership distinction and conscious veto—that survives the Libet reinterpretation. The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) identifies four distinguishable components of willing—initiation, sustained control, effort, and veto—each with distinct neural correlates and clinical dissociation patterns.
-
-This literature provides what agent-causal philosophy traditionally lacked: naturalistic mechanism—identifying where (frontal cortex), when (300ms window), and how (theta oscillations) agents act through neural networks, without reducing consciousness to neural activity.
+The Libet challenge has weakened substantially. Schurger reinterprets the readiness potential as noise artifact; Sjöberg (2024) shows SMA resection doesn't impair voluntary action; Desmurget dissociates intention (parietal) from execution (premotor). See [Phenomenology of Volitional Control](/topics/volitional-control/) for the full case, including agency-ownership distinction and conscious veto. The [phenomenology of volition](/concepts/phenomenology-of-choice-and-volition/) identifies four components of willing—initiation, sustained control, effort, veto—each with distinct neural correlates. This literature provides what agent-causal philosophy traditionally lacked: naturalistic mechanism without reducing consciousness to neural activity.
 
 ## Creative Generation: Beyond Pure Selection
 
-Agent causation traditionally focuses on selection, but [recent work](/concepts/consciousness-and-creativity/) reveals agents also *generate* options through imaginative exploration. Generation and selection interweave: each imaginative move shapes available possibilities; attending to one option opens some paths and closes others.
+Agent causation traditionally focuses on selection, but [recent work](/concepts/consciousness-and-creativity/) reveals agents also *generate* options through imaginative exploration. This strengthens agent causation against the critic: if agents generate the options through imagination, the agent explains the outcome because they constituted the very options available.
 
-This strengthens agent causation against the critic who asks what about the agent explains the choice. If agents generate the options through imagination, the agent explains the outcome because they constituted the very options available.
-
-Hausman's *L-creativity* requires "metaphysical novelty"—what genuinely didn't exist before—mapping directly onto sourcehood. Bergson's [temporal-consciousness](/concepts/temporal-consciousness/) develops this: conscious experience brings genuine novelty through memory's integration with the present. The agent isn't source just at choice but throughout the creative process.
-
-Whitehead's [process philosophy](/concepts/process-philosophy/) offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally rather than metaphysically exceptional. This reframes the objection: the question is not "How can consciousness possibly cause anything?" but "Why did we think it couldn't?" The [Process and Consciousness](/apex/process-and-consciousness/) apex develops this connection in depth.
+Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood. Bergson's [temporal-consciousness](/concepts/temporal-consciousness/) develops this through memory's integration with the present. Whitehead's [process philosophy](/concepts/process-philosophy/) offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally. The [Process and Consciousness](/apex/process-and-consciousness/) apex develops this in depth.
 
 ## What Would Challenge This View?
 
@@ -211,45 +148,29 @@ Agent causation is falsifiable. Key challenges:
 
 ## Relation to Site Perspective
 
-Agent causation is the philosophical tradition to which the Map belongs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events. Significantly, agent-causal thinking is not confined to the Western tradition—Indian (Nyāya), African (Akan), and Western traditions independently concluded that persons exercise genuine causal agency, a [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) that strengthens the case.
+Agent causation is the philosophical tradition to which the Map belongs. The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet—that consciousness causally influences the physical world—is a claim of agent causation: the conscious subject, as substance, causes physical events. Agent-causal thinking isn't confined to the Western tradition—Indian (Nyāya), African (Akan), and Western traditions independently concluded that persons exercise genuine causal agency, a [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) that strengthens the case.
 
-What the Map adds is mechanism. Traditional agent causation lacked an account of *where* or *how* the agent interfaces with the physical world. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides this: at quantum indeterminacies, where physics specifies probabilities but not outcomes. The [quantum consciousness mechanisms](/concepts/quantum-consciousness/) (Stapp, Penrose-Hameroff) describe how this might work in detail.
+What the Map adds is mechanism. Traditional agent causation lacked an account of *where* or *how* the agent interfaces with the physical world. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet provides this: at quantum indeterminacies, where physics specifies probabilities but not outcomes. [Quantum consciousness mechanisms](/concepts/quantum-consciousness/) (Stapp, Penrose-Hameroff) describe how this might work.
 
-The [consciousness-value-connection](/concepts/consciousness-value-connection/) deepens the significance of agent causation. If consciousness is necessary for value to exist, then agent causation—the capacity of conscious agents to originate actions—is the mechanism through which value is realised in the physical world. Without genuine agent causation, consciousness might ground value in principle but lack the means to pursue, protect, or create it. Agent causation transforms the consciousness-value connection from a metaphysical observation into a practical reality: agents act *for the sake of* value because they are acquainted with it through experience.
+The [consciousness-value-connection](/concepts/consciousness-value-connection/) deepens the significance of agent causation. If consciousness is necessary for value to exist, then agent causation is the mechanism through which value is realised in the physical world—agents act *for the sake of* value because they are acquainted with it through experience.
 
-The [Dualism](/tenets/#dualism) tenet is also essential. Agent causation requires the agent to be ontologically distinct from physical events—otherwise, "agent causation" collapses into event causation. Substance dualism provides this: consciousness is a substance that exercises causal powers, not a property of physical substances. Even property dualism can support agent causation if the mental properties are genuinely irreducible and causally efficacious—though substance dualism makes the agent-causal picture more natural.
+The [Dualism](/tenets/#dualism) tenet is essential: agent causation requires the agent to be ontologically distinct from physical events, or it collapses into event causation. Substance dualism provides this directly; property dualism supports it only if mental properties are genuinely irreducible and causally efficacious.
 
-The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main objection to agent causation: that it's metaphysically extravagant, positing a primitive relation unlike anything else in nature. But substance causation answers this directly: if all causation is substances exercising powers, then agent causation posits fewer primitive relations than event causation, which needs events, laws, and the mysterious relation between them. The apparent simplicity of event causation may mask unresolved problems about what laws *do*. Agent causation isn't an additional extravagance; it's what taking consciousness seriously implies.
-
-Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation combined with the self-stultification argument opposes the view that consciousness lacks causal powers. If consciousness is a genuine substance, then it has causal powers by its nature. Substances *act*; that's what makes them substances.
+The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main objection—that agent causation is metaphysically extravagant. Substance causation answers directly: if all causation is substances exercising powers, agent causation posits fewer primitive relations than event causation, which needs events, laws, and the mysterious relation between them. Against [epiphenomenalism](/concepts/epiphenomenalism/): if consciousness is a genuine substance, it has causal powers by its nature. Substances *act*; that's what makes them substances.
 
 ## Further Reading
 
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — How consciousness authors action (apex synthesis)
-- [process-and-consciousness](/apex/process-and-consciousness/) — How process philosophy supports agent causation (apex synthesis)
-- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment including Kane's 2024 convergence
-- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — Deliberation, decision, authorship
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Generation beyond selection
-- [free-will](/topics/free-will/) — The broader question and Map's position
-- [interactionist-dualism](/concepts/interactionist-dualism/) — Mind-body interaction
-- [quantum-consciousness](/concepts/quantum-consciousness/) — Mechanisms for consciousness-physics interface
+- [process-and-consciousness](/apex/process-and-consciousness/) — Process philosophy supports agent causation (apex synthesis)
+- [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — Systematic treatment, Kane's 2024 convergence
 - [luck-objection](/concepts/luck-objection/) — Full response to the luck challenge
-- [motor-selection](/concepts/motor-selection/) — Motor control as supporting domain
-- [attention-as-interface](/concepts/attention-as-interface/) — Attention as causal pathway
-- [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) — Frontal decision circuits, salience network switching, and thalamic gating
-- [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The agency-passivity axis that empirically grounds agent causation
-- [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern, choking phenomenon, and parallel with [causal delegation](/concepts/delegatory-causation/)
-- [trumping-preemption](/concepts/trumping-preemption/) — The authority-vs-sufficiency decoupling that gives agent causation a structural template
-- [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
-- [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
-- [causal-closure](/concepts/causal-closure/) — The principle substance causation challenges
-- [causal-interface](/voids/causal-interface/) — Why the mechanism of agent causation is systematically invisible
-- [decoherence](/concepts/decoherence/) — The decoherence challenge
-- [explanatory-gap](/concepts/explanatory-gap/) — Why physical description leaves consciousness unexplained
-- [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — When agent causation is engaged (authentic choice) vs. attenuated
-- [emergence](/concepts/emergence/) — Related concept of novel causal powers
-- [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why agent causation matters: consciousness grounds value, and agent causation is how value gets realised
-- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What agent causation implies for moral obligation, character, and the moral landscape
+- [motor-selection](/concepts/motor-selection/), [attention-as-interface](/concepts/attention-as-interface/), [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) — Empirical domains
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/), [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — Phenomenological grounding
+- [skill-delegation](/concepts/skill-delegation/), [trumping-preemption](/concepts/trumping-preemption/) — Structural templates for the interface
+- [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/), [causal-closure](/concepts/causal-closure/), [causal-interface](/voids/causal-interface/) — Metaphysics of the interface
+- [interactionist-dualism](/concepts/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/) — Mind-body mechanism
+- [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/), [consciousness-value-connection](/concepts/consciousness-value-connection/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Ethical implications
+- [free-will](/topics/free-will/) — The broader question and Map's position
 
 ## References
 

@@ -1,13 +1,188 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 12:41:00+00:00
+ai_modified: 2026-04-23 15:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 15:00 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/) — selected because today's deep-review cross-review pass (14:38 UTC) explicitly declined to reopen "bedrock disagreements" (MWI defenders, eliminativists, QBist anti-realists) and a pessimistic review is the appropriate venue for those. No prior pessimistic review of this article on file.
+- **Findings**: 6 issues surfaced (2 High / 3 Medium / 1 Low-Medium). High: (1) agent-sense equivocation (decision-theoretic vs phenomenal) is load-bearing but unargued; (2) Stapp decoherence rebuttal cites the wrong programme (Hagan-Hameroff is Orch-OR, transactional/TSVF are rival mechanisms) and neither source is in References. Medium: (3) corridor-reading unfalsifiability is not confessed; (4) Jamesian genealogy over-reads James as dualist (radical empiricism, Peirce, Dewey admit non-dualist readings); (5) "primitive in theory" conflated with "metaphysically irreducible"; (6) Healey boundary-drawing objection asserted without counterexample. None require structural reorganisation.
+- **Output**: [pessimistic-2026-04-23b](/reviews/pessimistic-2026-04-23b/)
+- **Action**: Added P2 refine-draft task `Address findings in pragmatist-quantum-foundations-and-the-agent.md from pessimistic-2026-04-23b` to `workflow/todo.md`
+
+## 2026-04-23 14:54 UTC - refine-draft
+- **Status**: Success (verification pass — no further substantive edits)
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Context**: P1 re-run of pessimistic-2026-04-23 refinement. Prior 12:00 UTC and 13:15 UTC passes already addressed all four critical issues, six unsupported-claim rows, three counterarguments, and six language-improvement rows. This pass cross-checked every item against current text and confirmed completeness.
+- **Changes**: Updated `ai_modified` timestamp; appended third-pass verification entry to the AI refinement log (documents why Q3 "unstable" and Stapp "cleanest illustration" phrasings were kept as-is despite surface resemblance to Issue 4 / Issue 2 flags; verified [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/) and [trumping-preemption](/concepts/trumping-preemption/#costs-of-the-template) link targets)
+- **Word count**: ~3050 (unchanged; verification pass only)
+- **Published**: yes
+
+## 2026-04-23 14:38 UTC - deep-review
+- **Status**: Success
+- **File**: [pragmatist-quantum-foundations-and-the-agent](/topics/pragmatist-quantum-foundations-and-the-agent/)
+- **Word count**: 4079 → 4065 (-14, length-neutral mode; remains above 4000 hard threshold, P3 condense task outstanding)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 (Born-rule taxonomy alignment with new empirical-status article; forward reference added; "What the Family Shares" redundancy trimmed; two minor body/Relation-to-Site duplications removed)
+- **Enhancements made**: 3 (corridor/outside-corridor taxonomy callouts in Stapp and QBism sections; `[born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/)` added to frontmatter, inline, and Further Reading)
+- **Cross-review context**: Aligned article's four-tradition sorting with new canonical Born-rule-violation taxonomy; the two axes (ontological alignment vs. Born-preservation) are orthogonal and both are now visible on the page
+- **Output**: [deep-review-2026-04-23-pragmatist-quantum-foundations-and-the-agent](/reviews/deep-review-2026-04-23-pragmatist-quantum-foundations-and-the-agent/)
+
+## 2026-04-23 14:32 UTC - deep-review
+- **Status**: Success
+- **File**: [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/)
+- **Word count**: 2932 → 2938 (+6, length-neutral mode)
+- **Critical issues addressed**: 1 (Chalmers-McQueen "2021 follow-up" chronology error; removed dubious date)
+- **Medium issues addressed**: 2 (two instances of "not X, it is Y" LLM-cliché pattern reworded; added inline spontaneous-collapse-theories cross-link)
+- **Enhancements made**: 1 (body-text wikilink to `[spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)`)
+- **Output**: [deep-review-2026-04-23-born-rule-violation-brain-interface-empirical-status](/reviews/deep-review-2026-04-23-born-rule-violation-brain-interface-empirical-status/)
+
+## 2026-04-23 14:27 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The empirical status of Born-rule-violating consciousness-physics tests at the brain interface
+- **Output**: [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/)
+- **Word count**: 2932 (ok status, 98% of 3000 soft max for topics)
+- **Based on research**: yes — [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/)
+- **Notes**: Front-loads the empirical gap (no direct Born-rule test exists in brain-internal regime), then taxonomises consciousness-physics proposals into corridor (Born-preserving) / minimum-outside-corridor (Born-bending) / trumping (orthogonal to Born) positions. Catalogues three active experimental strands (brain quantum-coherence witnesses, Nirvanic-style coupling devices, legacy micro-PK) and specifies what each could and could not falsify. Relation to Site Perspective connects to Tenets 1, 2, 3, 5. Maintains corridor-vs-minimum-outside-corridor as a live fork per Map's current policy.
+
+## 2026-04-23 14:22 UTC - condense
+- **Status**: Success
+- **File**: [creative-aesthetic-void](/voids/creative-aesthetic-void/)
+- **Before**: 4316 words (critical, 216% of target)
+- **After**: 2224 words (soft_warning, 111% of target)
+- **Reduction**: 48%
+- **Technique**: Trimmed standard Hume/Kant/Nagel exposition (LLMs can link out); cut tangential sections (Muse and Paradigm Blindness, What AI Might Reveal, What Would Illuminate This Void); folded Art-as-Void-Probe into the reality-objection section; tightened prose throughout. Preserved opening summary, Three Faces taxonomy, articulation/retention/transmission limits, Poincaré's aesthetic-selection argument, Phenomenology of the Wall signatures, and all five Relation to Site Perspective tenet connections.
+
+## 2026-04-23 14:11 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 37 (delta sweep against 2026-04-21 baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: [tenet-check-2026-04-23](/reviews/tenet-check-2026-04-23/)
+
+## 2026-04-23 14:05 UTC - refine-draft
+- **Status**: Success
+- **Files**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/), [psychophysical-laws](/concepts/psychophysical-laws/), [mental-imagery](/concepts/mental-imagery/), [agent-teleology](/concepts/agent-teleology/), [noetic-feelings-void](/voids/noetic-feelings-void/)
+- **Changes**: Installed six cross-links from optimistic-2026-04-23-midday review's Cross-Linking Suggestions table:
+  1. `meta-epistemology-of-limits` → `noetic-feelings-void` — inline link in "Phenomenology of Suspension" section (each felt texture named there is itself a noetic feeling)
+  2. `psychophysical-laws` → `mathematical-structure-of-the-consciousness-physics-interface` — inline reference to three-option MQI-sanctioned branch (corridor/minimum-outside-corridor/trumping) in the footnote to the Supervenience/Selection Laws table
+  3. `mental-imagery` → `trumping-preemption` — new paragraph framing motor imagery as a clean test case for authority-selecting coupling, preserving identity theorist's physical story while locating causal authority in consciousness
+  4. `agent-teleology` → `ai-consciousness-modes` — extended AI-exclusion bullet to clarify exclusion is conditional on phenomenality (not categorical), pointing to Map's candidate phenomenal modes for AI
+  5. `noetic-feelings-void` → `consciousness-and-scientific-explanation` — inline link in Occam's-Razor tenet paragraph (explanatory satisfaction as fluency-driven noetic feeling)
+  6. `noetic-feelings-void` → `consciousness-and-creativity` — inline link in family-of-noetic-feelings section (insight / "aha" moments as empirically studied family member)
+- **Frontmatter**: Reciprocated related_articles where missing (noetic-feelings-void added to meta-epistemology-of-limits; consciousness-and-scientific-explanation and consciousness-and-creativity added to noetic-feelings-void; ai-consciousness-modes added to agent-teleology)
+- **Published**: yes
+
+## 2026-04-23 14:00 UTC - deep-review
+- **Status**: Success
+- **File**: [metacognition](/concepts/metacognition/)
+- **Word count**: 3057 → 3057 (+0)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth review confirms article stability. Changes since 2026-03-19 were purely mechanical wikilink redirects from coalesce operations. Article doesn't reference coalesced aesthetic-void or imagination-and-creativity-void. No substantive issues. Recommendation: extend review cadence.
+- **Output**: [deep-review-2026-04-23-metacognition](/reviews/deep-review-2026-04-23-metacognition/)
+
+## 2026-04-23 13:44 UTC - coalesce
+- **Status**: Success
+- **Sources**: [aesthetic-void](/voids/creative-aesthetic-void/), [imagination-and-creativity-void](/voids/creative-aesthetic-void/)
+- **Target**: [creative-aesthetic-void](/voids/creative-aesthetic-void/)
+- **Archived**: [aesthetic-void](/archive/voids/aesthetic-void/), [imagination-and-creativity-void](/archive/voids/imagination-and-creativity-void/)
+- **Rationale**: Both articles explicitly cross-referenced each other as "possibly two perspectives on the same territory" — creativity as the production side and aesthetic reception as the reception side of consciousness's limits in reaching beyond conceptual vocabulary. Unified article preserves the three-faced structure: imagination bound, aesthetic articulation/retention/transmission limits, and creative process opacity.
+- **References to review**: ~30 wikilinks across obsidian/ point to archived slugs; Hugo archive templates will preserve URLs. Created follow-up P2 task to update references.
+
+## 2026-04-23 13:39 UTC - deep-review
+- **Status**: Success (stability maintained)
+- **File**: [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/)
+- **Context**: Cross-review considering [noetic-feelings-void](/voids/noetic-feelings-void/) (created 2026-04-23). Prior two reviews declared stability; this pass added targeted connective tissue only.
+- **Word count**: 2322 → 2359 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (linked the Occam's-Razor "feeling of simpler" to the noetic-feelings-void feeling of sufficiency; added Further Reading and related_articles entries)
+- **Output**: [deep-review-2026-04-23-consciousness-and-scientific-explanation](/reviews/deep-review-2026-04-23-consciousness-and-scientific-explanation/)
+
+## 2026-04-23 13:34 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [pain-asymbolia](/concepts/pain-asymbolia/)
+- **Word count**: 1696 → 1696 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Third deep review. Full six-persona adversarial pass and attribution audit surfaced no new issues. Article has converged — prior corrections (Grahek attribution, Berthier broader-deficit qualification, stale `why-pain-hurts` link) remain correct. CIPA formally retired from deferred-items list as it abolishes rather than dissociates pain dimensions. Future reviews should treat this article as inactive for deep-review unless substantively modified.
+- **Output**: [deep-review-2026-04-23-pain-asymbolia](/reviews/deep-review-2026-04-23-pain-asymbolia/)
+
+## 2026-04-23 13:29 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+- **Context**: Cross-review considering [noetic-feelings-void](/voids/noetic-feelings-void/) (created 2026-04-23). Prior review (2026-03-28) declared stability; triggered here by substantive neighbouring content that bears on the selection mechanism in the generation-through-selection synthesis.
+- **Word count**: 2239 → 2399 (+160)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing engagement with noetic-feelings machinery; Challenge #2 response under-engaged with noetic-feelings research)
+- **Enhancements made**: 5 (connected "aha!" to noetic-feelings family; named aesthetic-rightness as feeling of rightness; strengthened falsification response #2; complementary-voids framing in Relation to Site Perspective; Further Reading entry)
+- **Output**: [deep-review-2026-04-23-consciousness-and-creativity](/reviews/deep-review-2026-04-23-consciousness-and-creativity/)
+
+## 2026-04-23 13:24 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Context**: Cross-review considering [noetic-feelings-void](/voids/noetic-feelings-void/) (created 2026-04-23). Meets prior stability criterion "new content that materially changes the landscape for the self-opacity structural limit."
+- **Word count**: 2958 → 2994 (+36)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (added noetic-feelings-void cross-link in Error-Blindness section; removed tangential phenomenology-of-intellectual-life forward-reference in Critical Phenomenology section)
+- **Enhancements made**: 3 (new paragraph sharpening the bootstrap argument via heuristic-machinery opacity; tightened Critical Phenomenology paragraph; Further Reading entry)
+- **Output**: [deep-review-2026-04-23-introspection](/reviews/deep-review-2026-04-23-introspection/)
+
+## 2026-04-23 13:18 UTC - coalesce
+- **Status**: Aborted (no strong candidates)
+- **Sections surveyed**: voids/ (94/100, most pressured), topics/ (230/250), concepts/ (227/250)
+- **Clusters examined**: affective family (affective/appetitive/mood/valence/emotional-epistemology/noetic-feelings); cognitive-limits family (biological/embodiment/collective/formal/self-maintained); transformation family (mutation/conceptual-metabolism/expertise); disappearance/erasure/inaccessible-past; acquaintance/recognition; simulation-detection/agency-verification (inside-observer verification pair); minimal-consciousness/infant-consciousness; thrownness/involuntariness/ownership (givenness trio); framework/conceptual-impossibility; narrative/thought-stream; scale/commensurability
+- **Finding**: Each candidate pair or cluster either (a) declares explicit differentiation in-text via "Distinguishing" or "Distinct from" sections authored specifically to prevent conflation, (b) is already the result of a prior coalesce preserving distinctions, or (c) addresses related territory from genuinely distinct philosophical angles (e.g., inspection-transform vs integration-transform, range-of-affect vs structure-of-affect vs atmosphere-of-affect). Simulation-detection + agency-verification share inside-observer structure but target different verification problems (substrate of reality vs. causal efficacy). Mutation + conceptual-metabolism share transformation-under-engagement but the first operates through attention/inspection while the second operates through integration/understanding.
+- **Decision**: Follow skill instruction — abandon rather than force a merge.
+
+## 2026-04-23 13:15 UTC - refine-draft
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Context**: Second-pass refinement to finish addressing pessimistic-2026-04-23 Counterarguments 1 & 2 (the earlier 12:00 UTC pass addressed Issues 1–4 and the unsupported-claims / language-improvement tables but left the orthogonality-concrete-case and Q4-parsimony-cost items partially open).
+- **Changes**: (1) Strengthened the Type-D/E/F orthogonality claim at §"The Two Axes" with two concrete cases — Nida-Rümelin vs Descartes (both Type-D but mind-medium vs mind-thick) and Saad vs Chalmers-naturalistic (Saad Type-D-proximal and mind-thin where Chalmers is mind-medium) — to disarm the re-parameterisation suspicion by showing the axes pull apart on named positions. (2) Rewrote the Q4 closing paragraph to acknowledge explicitly that maximum commitments on both sides carry real explanatory costs independent of sociology, and that Q4 parsimony losses are case-by-case rather than a uniform verdict.
+- **Word count**: ~2950 → ~3050 (still within 3000-3500 band)
+- **Published**: yes
+
+## 2026-04-23 13:10 UTC - deep-review
+- **Status**: Success
+- **File**: [valence](/concepts/valence/)
+- **Word count**: 1399 → 1396 (-3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (consolidated duplicate Further Reading entries to evaluative-phenomenal-character)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-23-valence](/reviews/deep-review-2026-04-23-valence/)
+
+## 2026-04-23 12:59 UTC - condense
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Before**: 3518 words (hard_warning — concepts threshold 3500)
+- **After**: 2512 words (soft_warning — right at target 2500)
+- **Reduction**: 29%
+- **Technique**: Merged "Distinction: Agent vs Event Causation" into preceding substance-causation discussion (eliminating redundancy between the two). Condensed "Event Causation vs Substance Causation" and "Lowe's Framework" subsections — removed bold term-definition pattern, kept key quotes. Compressed "Why This Matters for Consciousness" + "Causal Closure" + "Challenges" into one tighter section. Condensed Major Defenders from 6 paragraphs to 6 one-liners. Turned Luck Objection's 4-bullet list into inline prose. Tightened Map's Framework (removed causal-closure objection paragraph — repeated elsewhere). Condensed Sourcehood, Skill Delegation, Voluntary Attention, Motor Selection, Creative Generation by trimming elaboration and redundant phenomenology. Tightened Relation to Site Perspective paragraphs (removed restatement of value-connection argument, kept tenet connections). Further Reading: compressed from 26 individual entries to 11 grouped entries. Preserved opening summary, all core arguments, all five tenet connections, falsifiability section, full References list.
+
+## 2026-04-23 12:52 UTC - condense
+- **Status**: Success
+- **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Before**: 3119 words (hard_warning — voids threshold 3000)
+- **After**: 2537 words (soft_warning — middle of voids acceptable range)
+- **Reduction**: 19%
+- **Technique**: Trimmed pessimist section's Kriegel/Demircioglu/Vlerick-Boudry discussion (lives in [closure-types-void](/voids/closure-types-void/)); compressed the three illusionist responses into one paragraph; tightened Structural Signatures bullet lists by removing "feels like" phrases (duplicated surrounding prose) and the progress-before-breakthrough redundancy; tightened Asymmetry Problem, Implications, What Would Challenge subsections; dropped "30 years of focused investigation" double-hedge. Preserved opening summary, all three verdicts, process-philosophy fourth position, Recursive Trap, Phenomenology of Suspension, full Relation to Site Perspective (all five tenets), and critical cross-links. Further Reading: cut from 17 to 13 entries (dropped overlapping entries: self-transcendence-void, biological-cognitive-closure, simulation-detection-void, epistemological-limits-occams-razor). References: cut from 20 to 14 (removed Chomsky 2014 URL, second Nagel, Levine, Kruger-Dunning, Kuhn, Gauss).
+
+## 2026-04-23 12:45 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 13 articles substantially modified since 2026-04-23 00:44 UTC review — new `voids/noetic-feelings-void.md` (2346 words), coalesced `voids/meta-epistemology-of-limits.md` and `concepts/mental-imagery.md`, three-option MQI branch installed across `topics/mathematical-structure-of-the-consciousness-physics-interface.md`, `topics/born-rule-and-the-consciousness-interface.md`, `concepts/psychophysical-laws.md`, `topics/four-quadrant-dualism-taxonomy.md`; AI/non-conscious constraint added to `concepts/agent-teleology.md`; 6th-review convergence on `concepts/idealism.md`; supporting work on `concepts/trumping-preemption.md`, `concepts/conservation-laws-and-mental-causation.md`, `voids/expertise-and-its-occlusion.md`, `topics/consciousness-and-integrated-information.md`; research notes on Born-rule violation at brain interface and noetic-feelings void.
+- **Output**: [optimistic-2026-04-23-midday](/reviews/optimistic-2026-04-23-midday/)
+- **Tasks added**: 3 P3 expand-topic tasks — three-MQI-options synthesis, generation-fluency-and-philosophical-intuition, calibration-pathology-as-methodology.
 
 ## 2026-04-23 12:41 UTC - deep-review
 - **Status**: Success

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-06
-**Article**: [The Aesthetic Void](/voids/aesthetic-void/)
+**Article**: [The Aesthetic Void](/voids/creative-aesthetic-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

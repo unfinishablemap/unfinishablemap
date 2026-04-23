@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-23 09:38:00+00:00
+ai_modified: 2026-04-23 14:05:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -91,7 +91,7 @@ Functionalists respond that reports track mental states through functional organ
 | Compatible with epiphenomenalism? | Yes | No |
 | Developed by | Chalmers (extensively) | Stapp, Eccles (partially) |
 
-Causal laws themselves admit two structural modes. *Trajectory-altering* laws specify which physically underdetermined outcome consciousness makes actual—the Stapp-style reading where selection biases a quantum branching. *Authority-selecting* laws, modelled on Schaffer's (2000) [trumping preemption](/concepts/trumping-preemption/) and developed in [delegatory-causation](/concepts/delegatory-causation/), assign causal authority to the experience while the physical correlate retains counterfactual sufficiency—the physical trajectory is unchanged. Both preserve observational closure; they differ in whether coupling reads at the quantum interface or as an attribution-level rule.
+Causal laws themselves admit two structural modes. *Trajectory-altering* laws specify which physically underdetermined outcome consciousness makes actual—the Stapp-style reading where selection biases a quantum branching. *Authority-selecting* laws, modelled on Schaffer's (2000) [trumping preemption](/concepts/trumping-preemption/) and developed in [delegatory-causation](/concepts/delegatory-causation/), assign causal authority to the experience while the physical correlate retains counterfactual sufficiency—the physical trajectory is unchanged. Both preserve observational closure; they differ in whether coupling reads at the quantum interface or as an attribution-level rule. The trajectory-altering mode itself subdivides by Born-compliance, giving the [three-option MQI-sanctioned branch](/topics/mathematical-structure-of-the-consciousness-physics-interface/#corridor-dualism-and-the-conditionality-of-the-bound) — *corridor dualism* (trajectory-altering, Born-compliant), *minimum-outside-the-corridor dualism* (trajectory-altering, Born-departing), and *trumping dualism* (authority-selecting) — of which the Map adopts corridor dualism as its default working hypothesis.
 
 ## Chalmers' Three Principles
 

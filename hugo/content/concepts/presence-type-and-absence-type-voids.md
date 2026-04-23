@@ -78,7 +78,7 @@ A presence-type void is a cognitive limit registered as the *overwhelming* of so
 Paradigm cases:
 
 - [The ineffable encounter void](/voids/ineffable-encounter-void/) — felt significance in music, ideas, persons, sacred moments that registers as genuine knowing yet cannot be unpacked
-- [The aesthetic void](/voids/aesthetic-void/) — profound encounters with beauty or sublimity whose content exceeds articulation
+- [The aesthetic void](/voids/creative-aesthetic-void/) — profound encounters with beauty or sublimity whose content exceeds articulation
 - [The surplus void](/voids/the-surplus-void/) — experience delivers richness far beyond what survival requires
 - [The silence void](/voids/the-silence-void/) — contemplative silence reports access to truths ordinary cognition cannot reach
 - [The affective void](/voids/affective-void/) — felt emotions whose phenomenal depth exceeds the concepts used to describe them

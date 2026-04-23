@@ -55,7 +55,7 @@ The Unfinishable Map catalogues cognitive limits that manifest as absence—terr
 
 Resonance is consciousness registering meaning that exceeds its capacity for explicit representation. The mechanism generating this signal is structurally opaque: you experience the resonance but cannot inspect the process that produces it. This makes the resonance void a mixed-type [void](/voids/three-kinds-of-void/)—partly unexplorable (the generating mechanism is hidden from [introspection](/voids/self-opacity/)) and partly occluded (resonance actively resists voluntary control and dissolves under analytical attention, sharing the [mutation-void](/voids/mutation-void/)'s pattern of transformation under inspection).
 
-The resonance void is distinct from the [aesthetic-void](/voids/aesthetic-void/), which concerns why beauty resists articulation. Resonance is broader than beauty—it occurs with ideas, with other people, with memories, with moral convictions. [Aesthetic experience](/topics/aesthetics-and-consciousness/) is one trigger for resonance, but resonance extends wherever consciousness encounters meaning that exceeds articulation. It is also distinct from the [surplus void](/voids/the-surplus-void/), which asks why experience delivers more than survival requires. Resonance is not surplus in general but a specific phenomenological event: a felt encounter with meaning that consciousness cannot unpack.
+The resonance void is distinct from the [aesthetic-void](/voids/creative-aesthetic-void/), which concerns why beauty resists articulation. Resonance is broader than beauty—it occurs with ideas, with other people, with memories, with moral convictions. [Aesthetic experience](/topics/aesthetics-and-consciousness/) is one trigger for resonance, but resonance extends wherever consciousness encounters meaning that exceeds articulation. It is also distinct from the [surplus void](/voids/the-surplus-void/), which asks why experience delivers more than survival requires. Resonance is not surplus in general but a specific phenomenological event: a felt encounter with meaning that consciousness cannot unpack.
 
 ## Convergent Evidence Across Independent Traditions
 
@@ -119,7 +119,7 @@ The resonance void also suggests something about the nature of [voids](/voids/) 
 
 ## Further Reading
 
-- [aesthetic-void](/voids/aesthetic-void/)
+- [aesthetic-void](/voids/creative-aesthetic-void/)
 - [the-silence-void](/voids/the-silence-void/)
 - [the-surplus-void](/voids/the-surplus-void/)
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)

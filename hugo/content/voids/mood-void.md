@@ -95,7 +95,7 @@ Indirect methods often work better:
 - **Mood congruence as probe.** Watching which memories, associations, and perceptions cognition delivers reveals the mood without requiring direct access to it.
 - **Counterfactual triangulation.** Asking "would this judgment feel this way after better sleep, different weather, a meal?" yields inference about mood's contribution.
 - **Testimony and mirroring.** Others often identify our mood before we do; social attribution serves as an external introspective instrument.
-- **Artistic expression.** Music, poetry, and visual art convey mood dimensions that propositional articulation loses — a partial bypass of the articulation bottleneck, and a link to the [Aesthetic Void](/voids/aesthetic-void/).
+- **Artistic expression.** Music, poetry, and visual art convey mood dimensions that propositional articulation loses — a partial bypass of the articulation bottleneck, and a link to the [Aesthetic Void](/voids/creative-aesthetic-void/).
 - **Longitudinal tracking.** Mood diaries reveal cycles and triggers invisible at any single time point.
 
 None of these methods closes the void. They probe its shape from outside.

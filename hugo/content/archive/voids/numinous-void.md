@@ -100,7 +100,7 @@ The numinous void ultimately exemplifies the Map's broader project: approaching 
 ## Further Reading
 
 - [resonance-void](/voids/ineffable-encounter-void/)
-- [aesthetic-void](/voids/aesthetic-void/)
+- [aesthetic-void](/voids/creative-aesthetic-void/)
 - [the-surplus-void](/voids/the-surplus-void/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [apophatic-cartography](/voids/apophatic-cartography/)

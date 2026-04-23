@@ -68,7 +68,7 @@ None identified. The presence-type redistribution claim (aesthetic/surplus/silen
 
 - [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) (new concept article, 3 cross-link sites + frontmatter)
 - [transit-void](/voids/transit-void/) (replaces broken [transition-void](/voids/transit-void/) and [initiation-void](/voids/transit-void/))
-- [aesthetic-void](/voids/aesthetic-void/), [the-surplus-void](/voids/the-surplus-void/), [the-silence-void](/voids/the-silence-void/), [affective-void](/voids/affective-void/) (new cross-links in the presence-type enumeration)
+- [aesthetic-void](/voids/creative-aesthetic-void/), [the-surplus-void](/voids/the-surplus-void/), [the-silence-void](/voids/the-silence-void/), [affective-void](/voids/affective-void/) (new cross-links in the presence-type enumeration)
 
 ## Remaining Items
 

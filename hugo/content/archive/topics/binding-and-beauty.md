@@ -131,7 +131,7 @@ The Unfinishable Map's tenets illuminate the aesthetic unity problem from severa
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/)
 - [quantum-binding-and-phenomenal-unity](/topics/quantum-holism-and-phenomenal-unity/)
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/)
-- [aesthetic-void](/voids/aesthetic-void/)
+- [aesthetic-void](/voids/creative-aesthetic-void/)
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity and why binding produces unified wholes
 - [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Substrate independence and formal precision as complementary irreducibility arguments
 

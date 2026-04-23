@@ -51,7 +51,7 @@ topics: []
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — inline mention in "Spontaneous experiences" paragraph + Further Reading entry
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/) — inline mention in "Noetic quality" paragraph + Further Reading entry
 - [apophatic-cartography](/voids/apophatic-cartography/) — inline paragraph after Nicholas of Cusa discussion + Further Reading entry
-- [aesthetic-void](/voids/aesthetic-void/) — inline mention in "Recognition without identification" paragraph + Further Reading entry
+- [aesthetic-void](/voids/creative-aesthetic-void/) — inline mention in "Recognition without identification" paragraph + Further Reading entry
 - [the-silence-void](/voids/the-silence-void/) — added to related_articles frontmatter
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Further Reading entry
 

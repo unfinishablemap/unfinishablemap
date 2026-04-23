@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-16
-**Article**: [The Imagination and Creativity Void](/voids/imagination-and-creativity-void/)
+**Article**: [The Imagination and Creativity Void](/voids/creative-aesthetic-void/)
 **Previous review**: [2026-04-09](/reviews/deep-review-2026-04-09-imagination-and-creativity-void/)
 
 ## Pessimistic Analysis Summary

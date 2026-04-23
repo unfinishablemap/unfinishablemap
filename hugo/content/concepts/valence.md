@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-15 12:50:00+00:00
+ai_modified: 2026-04-23 13:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: The positive-negative dimension of experience—why pain feels bad 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 09:50:00+00:00
+last_deep_review: 2026-04-23 13:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -97,8 +97,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet co
 - [valence-void](/voids/valence-void/) — Why the evaluative dimension of experience resists all explanation
 - [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — Whether valence participates directly in selection and how it may function as the common metric
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain, suffering, and the inseparability of phenomenal character and causal power
-- [normative phenomenology](/concepts/evaluative-phenomenal-character/) — How phenomenal properties ground normative claims
-- [evaluative qualia](/concepts/evaluative-phenomenal-character/) — The broader category of evaluative phenomenal experience beyond hedonic valence
+- [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — The broader category of intrinsic evaluative character that grounds both normative claims and evaluative experience beyond hedonic valence
 
 ## References
 

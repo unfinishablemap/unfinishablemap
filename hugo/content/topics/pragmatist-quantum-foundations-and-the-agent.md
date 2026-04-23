@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-19
-ai_modified: 2026-04-19 10:39:00+00:00
+ai_modified: 2026-04-23 14:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -18,18 +18,19 @@ concepts:
 - '[[quantum-interpretations]]'
 - '[[stapp-quantum-mind]]'
 created: 2026-04-04
-date: &id001 2026-04-19
+date: &id001 2026-04-23
 description: QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at the
   centre of quantum mechanics and decline to say what the agent is. Under dualism,
   that shared placeholder becomes the interface.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-19 10:39:00+00:00
+last_deep_review: 2026-04-23 14:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[born-rule-and-the-consciousness-interface]]'
+- '[[born-rule-violation-brain-interface-empirical-status]]'
 - '[[william-james-consciousness]]'
 - '[[wheelers-participatory-universe-and-it-from-bit]]'
 - '[[qm-interpretations-beyond-many-worlds]]'
@@ -103,7 +104,7 @@ Stapp's Copenhagen pragmatism grants everything the Map needs. The mathematical 
 
 The Map's reading: Stapp's framework is what pragmatism looks like when its central notion — the agent — is allowed to be a conscious subject with causal efficacy rather than a primitive placeholder. Dualism does not add machinery to Stapp; it provides the ontological backing his physics already presupposes.
 
-The cost of this alliance is that Stapp's view is also the most physically committed — and therefore the most empirically exposed. Decoherence objections to neural coherence bite on Stapp in ways they do not bite on QBism (which has nothing at the quantum level to decohere). The Map's answer, developed elsewhere, combines the revised Hagan-Hameroff estimates with the observation that the time-symmetric selection mechanisms in transactional and two-state-vector accounts do not require sustained in-brain coherence of the conventional kind.
+The cost of this alliance is that Stapp's view is also the most physically committed — and therefore the most empirically exposed. Two exposures matter. First, decoherence objections to neural coherence bite on Stapp in ways they do not bite on QBism (which has nothing at the quantum level to decohere). Second, the Zeno mechanism is explicitly Born-rule-bending — observation rate modulates selection away from what a non-conscious measurement would yield — placing Stapp in the minimum-outside-the-corridor category of the Map's [empirical taxonomy](/topics/born-rule-violation-brain-interface-empirical-status/), where QBism and Healey sit in the Born-preserving corridor. The Map's answer to the decoherence objection, developed elsewhere, combines the revised Hagan-Hameroff estimates with the observation that the time-symmetric selection mechanisms in transactional and two-state-vector accounts do not require sustained in-brain coherence of the conventional kind.
 
 ## QBism: The Primitive Agent as Dualist Placeholder
 
@@ -119,7 +120,7 @@ On this reading, SIC-POVMs and Dutch-book coherence are not tools for dissolving
 
 The "agent problem" that critics raise against QBism then looks different. Critics complain that QBism presupposes conscious agents without explaining them; Fuchs concedes this openly, treating agents as primitive and irreducible. Under dualism, "primitive and irreducible" is not a concession but a prediction. If consciousness is not reducible to physical processes, any physics that requires conscious agents at its foundations *should* find those agents irreducible within its own vocabulary. QBism's agent-shaped hole is exactly the shape dualism predicts.
 
-The claim here concerns structural compatibility rather than covert dualism among QBists: the Map's dualism can absorb QBism's technical results without distortion, and QBism's anti-realism about quantum states is a separable philosophical choice that the Map does not make and need not make in order to preserve the urgleichung's normative reading.
+The claim here concerns structural compatibility rather than covert dualism among QBists: the Map's dualism can absorb QBism's technical results without distortion, and QBism's anti-realism about quantum states is a separable philosophical choice that the Map does not make and need not make in order to preserve the urgleichung's normative reading. On the Map's [empirical taxonomy](/topics/born-rule-violation-brain-interface-empirical-status/), this reading places QBism (like Healey) in the corridor family: the posited mental channel is single-event and ensemble-invisible, preserving standard Born statistics and remaining compatible with every precision test of the Born rule to date.
 
 ## Healey: The Cost of De-Psychologising the Agent
 
@@ -151,7 +152,7 @@ Despite deep tensions at points, the pragmatist family and the Map share signifi
 
 **Physics is incomplete without agents.** Each family member holds that quantum mechanics cannot be formulated without reference to agents. The Map holds that physics is incomplete without consciousness. These are different claims — the pragmatist version is epistemological, the Map's is ontological — but they point in the same direction.
 
-**Occam's Razor is not decisive.** Fuchs's appeal to "false-started philosophies" — pragmatism, pluralism, nonreductionism — embodies the Map's Tenet 5. The entire pragmatist project is a recovery of insights that premature closure in favour of simpler-seeming interpretations had discarded. The history of quantum foundations is itself evidence that parsimony can mislead.
+**Occam's Razor is not decisive.** The entire pragmatist project is a recovery of insights that premature closure in favour of simpler-seeming interpretations had discarded. The history of quantum foundations is itself evidence that parsimony can mislead.
 
 The divergences from the Map concentrate at two points.
 
@@ -159,15 +160,13 @@ The divergences from the Map concentrate at two points.
 
 The Map's response: QBism's anti-realism about quantum states is a philosophical choice, not a consequence of the physics. As Glick (2021) observes, QBism's stance toward realism is more nuanced than flat denial — it need not reject objective structure in reality, only that quantum states *represent* that structure directly. The SIC-POVM reformulation reinforces this: quantum mechanics *can* be expressed in purely probabilistic terms, but "can be expressed as" is not "is nothing more than." The normative constraints on agents' beliefs may reflect real structure in how consciousness and physics interface — structure that QBism's pragmatist anti-realism deliberately refuses to theorise about.
 
-**Causal efficacy of consciousness.** Stapp grants consciousness a causal role; QBism grants only an epistemic role (experience is what makes quantum states meaningful, but the agent updates *beliefs*, not realities); Healey grants neither (agents merely follow prescriptions); Brukner-Zeilinger is silent. The Map (Tenet 3) holds that consciousness causally influences physical outcomes. QBism's universe creates itself through acts of participation, but the participants are along for the ride in a way the Map denies. The Map's reading of QBism's normative Born rule closes part of this gap: if the normative constraint reflects real coupling, the epistemic role is the surface of a causal one.
+**Causal efficacy of consciousness.** Stapp grants consciousness a causal role; QBism grants only an epistemic role (experience is what makes quantum states meaningful, but the agent updates *beliefs*, not realities); Healey grants neither (agents merely follow prescriptions); Brukner-Zeilinger is silent. The Map (Tenet 3) holds that consciousness causally influences physical outcomes. QBism's universe creates itself through acts of participation, but the participants are along for the ride in a way the Map denies.
 
 ## What the Family Shares — and What Dualism Adds
 
-Across the four positions, several commitments recur: the first person is ineliminable from quantum description; reality exceeds any third-person account; Many-Worlds is rejected; agents are treated as primitive to the point of being under-specified. Fuchs's label "participatory realism" was coined precisely to mark this common ground (Fuchs 2017).
+The four positions converge on a structural frame in which agents matter irreducibly, and decline — for reasons internal to pragmatist method, which resists metaphysical commitment — to say what those agents are. Fuchs's label "participatory realism" (Fuchs 2017) was coined to mark exactly this common ground. Dualism adds the missing account: the participants are the conscious subjects whose existence is the central datum of [phenomenal experience](/concepts/phenomenal-consciousness/), and their causal coupling to physics is what the tenets specify.
 
-Dualism adds exactly one thing: an account of the participant. The pragmatist family has assembled, through different routes, the structural frame of an interpretation in which conscious agents matter irreducibly. It has declined — for reasons internal to pragmatist method, which resists metaphysical commitment — to say what those agents are. The Map's contribution is to say: they are the conscious subjects whose existence is the central datum of [phenomenal experience](/concepts/phenomenal-consciousness/), and their causal coupling to physics is what the tenets specify.
-
-The convergence goes the other way too. Dualism without pragmatist quantum foundations would still be coherent but would owe an account of where consciousness meets physics. The pragmatist family has identified the junctures — measurement, the Born rule, the collapse event, the agent-world interface — with more precision than any other family of interpretations. Under dualism, those junctures are no longer where quantum mechanics becomes merely "useful to agents"; they are where conscious subjects participate in outcomes.
+The convergence runs both ways. The pragmatist family has identified the junctures — measurement, the Born rule, the collapse event, the agent-world interface — with more precision than any rival family. Under dualism, those junctures stop being where quantum mechanics becomes merely "useful to agents" and become where conscious subjects participate in outcomes.
 
 ## Relation to Site Perspective
 
@@ -188,6 +187,7 @@ The convergence goes the other way too. Dualism without pragmatist quantum found
 - [pragmatism](/concepts/pragmatism/) — The pragmatist tradition and its implications for consciousness
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — Stapp's quantum Zeno mechanism and its relation to Copenhagen pragmatism
 - [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/) — The Born rule as encoding the consciousness-physics interface
+- [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/) — Corridor vs. minimum-outside-corridor vs. trumping: which pragmatist positions require Born violation and which preserve it
 - [wheelers-participatory-universe-and-it-from-bit](/topics/wheelers-participatory-universe-and-it-from-bit/) — Participatory realism's common ancestor
 - [william-james-consciousness](/topics/william-james-consciousness/) — James's approach to consciousness in full detail
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — Why QBism's primitive-agent stance instantiates the indexical gap

@@ -137,7 +137,7 @@ The substrate-independence of aesthetic experience aligns with the Map's [founda
 - [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) — Making art as evidence for bidirectional interaction
 - [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/) — Mathematical beauty as the purest case of substrate-independent aesthetics
 - [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/) — Temporal depth in musical aesthetic experience
-- [aesthetic-void](/voids/aesthetic-void/) — Where articulation fails at beauty and sublimity
+- [aesthetic-void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [knowledge-argument](/concepts/knowledge-argument/) — Why phenomenal facts exceed physical facts
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction
 - [acquaintance-knowledge](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience
