@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address pessimistic-2026-04-23 findings in four-quadrant-dualism-taxonomy.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-23 (pessimistic-2026-04-23.md) surfaced four Medium-severity issues plus counterarguments, unsupported claims, and language improvements on `topics/four-quadrant-dualism-taxonomy.md`. (1) Issue 1 — Thickness axis conflates at least two distinct dimensions (structural richness, causal work, counterfactual role, channel width); the Stapp illustration shows min-channel, max-observer, max-physics as three values, not two. Add a short §"Limits of the Thickness Metaphor" subsection (~150 words) acknowledging the family of related measures and specifying which the taxonomy tracks. (2) Issue 2 — Empirical landscape claims ("heavily populated", "cleanest Q1 inhabitant", "Q2 dominates") are asserted without citation and in tension with the article's own hedging; soften superlatives, or cite Bourget & Chalmers 2020 PhilPapers Survey, or reframe as dialectical-default language. (3) Issue 3 — Monist positions (neutral monism, Berkeleyan idealism, Kastrup) appear in a dualist taxonomy without a principled inclusion rule; add one sentence explaining the taxonomy ranges over non-reductive positions on mind-matter with monist limit-cases marked as such. (4) Issue 4 — "Q1 stability" dynamical-systems metaphor misleads about a philosophical-availability question; rephrase as "Q1 articulability" / "Q1 specifiability" and tie to trumping-preemption's prior pessimistic-review caveats about the fiction-to-nature gap. Also address the three counterarguments (Chalmers Type-D/E/F re-parameterisation, Q4 under-population as parsimony-cost vs sociology, "None of this is visible without the thickness axis" overreach), the six unsupported-claim rows in the review's table, and the six language-improvement rows. Preserve the taxonomy's core contribution while disarming the metaphysical-aesthetic-posing-as-empirical critique. See reviews/pessimistic-2026-04-23.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-23
+
+### P2: Cross-review concepts/introspection.md considering noetic-feelings-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article `voids/noetic-feelings-void.md` (2026-04-23, 2346 words) develops the Lima problem (Synthese 2021) as a formally-stated recursion constraint on introspection: epistemic feelings inform us about content we cannot independently access, so we have no way to cross-check their accuracy except through more feelings. concepts/introspection.md should (a) engage the Lima problem directly as a constraint on how much argumentative weight introspective reports can bear, (b) add inbound links to noetic-feelings-void where feelings-of-knowing, transparency-of-noetic-feelings, and the fluency/FOR family are discussed, (c) distinguish introspection of content (what is the experience) from introspection of epistemic state (do I know this), (d) verify alignment with the noetic void's "treacherous transparency" framing — the mode of presentation hides the affective-heuristic character — and adjust introspection.md's scepticism to reflect this specific structural claim. Optimistic-2026-04-23-midday flagged this as Medium Priority expansion. Log findings even if no edits are made.
+- **Source**: chain (from noetic-feelings-void.md)
+- **Generated**: 2026-04-23
+
+### P2: Cross-review concepts/consciousness-and-creativity.md considering noetic-feelings-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article `voids/noetic-feelings-void.md` (2026-04-23) includes the feeling of insight in the noetic-feelings family and cites creativity research on "aha moments" as catalogues of one member's phenomenology. concepts/consciousness-and-creativity.md should (a) add cross-links to noetic-feelings-void where insight-feelings, intuition, and generative-fluency are discussed, (b) check whether claims about creative insight's phenomenology can now lean on noetic-void's architectural framing (feel vs content; the mechanism is hidden), (c) identify any places where the article treats "aha moments" as transparent signals when the noetic-void's architecture calls this transparency treacherous, (d) verify terminology alignment. Optimistic-2026-04-23-midday's cross-linking table lists this as a high-value suggestion. Log findings even if no edits are made.
+- **Source**: chain (from noetic-feelings-void.md)
+- **Generated**: 2026-04-23
+
+### P2: Cross-review topics/consciousness-and-scientific-explanation.md considering noetic-feelings-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article `voids/noetic-feelings-void.md` (2026-04-23) treats fluency-driven explanatory satisfaction as a noetic-feelings instance: the sense that an explanation is adequate is itself an epistemic feeling, potentially manipulable by generation-fluency without tracking the underlying explanatory structure. topics/consciousness-and-scientific-explanation.md should (a) engage this as a constraint on explanation-satisfaction as philosophical evidence, (b) add cross-links to noetic-feelings-void where explanatory adequacy, the hard-problem intuition, and satisfaction-tracking are discussed, (c) check whether the article's treatment of explanatory virtues can distinguish fluency-vulnerable virtues (simplicity-intuitions) from structurally grounded ones, (d) verify terminology alignment with the noetic void's Thompson-derived fluency vocabulary. Optimistic-2026-04-23-midday's cross-linking table lists this as a high-value suggestion. Log findings even if no edits are made.
+- **Source**: chain (from noetic-feelings-void.md)
+- **Generated**: 2026-04-23
+
+### P2: Apply cross-linking suggestions from optimistic-2026-04-23-midday (mental-imagery, agent-teleology, psychophysical-laws)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Optimistic-2026-04-23-midday's Cross-Linking Suggestions table identifies six high-value cross-links across the morning's revision cluster that are not yet installed: (1) `voids/meta-epistemology-of-limits.md` → `voids/noetic-feelings-void.md` — already reciprocated in frontmatter; add inline link at the phenomenology-of-suspension paragraph; (2) `concepts/psychophysical-laws.md` → `topics/mathematical-structure-of-the-consciousness-physics-interface.md` — the three-option branch at lines 71-79 of the sibling deserves an inline reference in the coupling-modes table's footnote; (3) `concepts/mental-imagery.md` → `concepts/trumping-preemption.md` — motor imagery is a cleaner instance of the authority-selecting reading than currently discussed (consciousness authoritatively causes improvement that could be trumping-structured); (4) `concepts/agent-teleology.md` → `concepts/ai-consciousness-modes.md` — the new AI-exclusion paragraph should cross-reference the Map's positive treatment of AI phenomenological possibilities rather than standing alone; (5) `voids/noetic-feelings-void.md` → `topics/consciousness-and-scientific-explanation.md` (may be covered by the cross-review task above but confirm); (6) `voids/noetic-feelings-void.md` → `concepts/consciousness-and-creativity.md` (may be covered by the cross-review task above but confirm). Short scope — link additions with brief integrative sentences where appropriate. See reviews/optimistic-2026-04-23-midday.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
 ### P3: Write concept article synthesising the three MQI-sanctioned options
 - **Type**: expand-topic
 - **Status**: pending
