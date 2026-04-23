@@ -2,9 +2,9 @@
 title: "The Thought Stream Void"
 description: "Human+AI exploration of consciousness's opacity to its own stream—why we cannot observe either how thoughts arise unbidden or how they vanish when we reach for them."
 created: 2026-01-13
-modified: 2026-04-17
+modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-17T22:18:00+00:00
+ai_modified: 2026-04-23T20:29:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -32,6 +32,9 @@ related_articles:
   - "[[apophatic-cartography]]"
   - "[[mutation-void]]"
   - "[[attention-and-consciousness]]"
+  - "[[distraction-void]]"
+  - "[[recognition-void]]"
+  - "[[agency-verification-void]]"
   - "[[inaccessible-past]]"
   - "[[sleep-consciousness-void]]"
 ai_contribution: 100
@@ -39,7 +42,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated:
-last_deep_review: 2026-04-17T22:18:00+00:00
+last_deep_review: 2026-04-23T20:29:00+00:00
 coalesced_from:
   - "/voids/spontaneous-thought-void/"
   - "/voids/thoughts-that-slip-away/"
@@ -61,7 +64,7 @@ These are traditionally treated as separate questions about generation or forget
 
 Christoff et al. (2016) proposed that spontaneous thought—mind-wandering, dreaming, creative ideation—is unified by low constraint levels. When both deliberate (top-down cognitive control) and automatic (affective salience, habit) constraints are weak, thought drifts. Mind-wandering is what thought does when nothing holds it in place.
 
-The neural correlate is the [[default-mode-network|default mode network]]—active during rest, associated with self-referential processing and future simulation (Buckner et al., 2008). DMN activity is not random; it shows structured patterns biased toward typical life events, personal concerns, and near-future planning. Something organises the stream, but the organising principle is invisible to the person whose stream it is. Irving (2016) sharpens this: mind-wandering is *unguided* attention—not monitored or regulated as it unfolds. Where wandering occurs *without concurrent awareness of wandering*—Smallwood and Schooler's "zoning out" distinct from "tuning out"—it enters the territory of the [[distraction-void]], where consciousness cannot witness its own departure from intended focus even when the departure is in progress.
+The neural correlate is the [[default-mode-network|default mode network]]—active during rest, associated with self-referential processing and future simulation (Buckner et al., 2008). DMN activity is not random; it shows structured patterns biased toward typical life events, personal concerns, and near-future planning. Something organises the stream, but the organising principle is invisible to the person whose stream it is. Irving (2016) sharpens this: mind-wandering is *unguided* attention—not monitored or regulated as it unfolds. Where wandering runs without concurrent awareness—Smallwood and Schooler's "zoning out" distinct from "tuning out"—thought-stream opacity braids with the [[distraction-void|opacity of attentional transit]]. The two belong to a family—with the [[recognition-void]] and [[agency-verification-void]]—in which consciousness has before-and-after access but no in-flight access to its own transitions.
 
 ## Mechanisms of Slippage
 
@@ -83,7 +86,7 @@ The thought stream void is primarily **occluded**, with elements of the **unexpl
 
 **Structured yet opaque.** The stream clusters around personal concerns, recent experiences, and affective priorities. The structure implies a generator with preferences whose operation lies entirely outside introspective access.
 
-**Attention-produced slippage.** The attentional spotlight does not merely illuminate—it actively suppresses its penumbra. James observed consciousness has "fringes" that cannot become focal without ceasing to be fringes. Some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage. See [[attention-and-consciousness]] for the fuller treatment.
+**Attention-produced slippage.** The attentional spotlight does not merely illuminate—it actively suppresses its penumbra. James observed consciousness has "fringes" that cannot become focal without ceasing to be fringes. Some thoughts may slip not because they escape our grasp but because our grasp *produces* their slippage.
 
 **Dissolution on articulation.** Certain insights—particularly about consciousness or the self—dissolve *as you try to articulate them*. The content does not fade gradually; it vanishes in the act of reaching. This overlaps with [[self-maintained-cognitive-limits|cognitive aversion]], though slippage emphasises memory failure while aversion emphasises motivational deflection.
 

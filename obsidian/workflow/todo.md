@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/thought-stream-void.md considering distraction-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/distraction-void.md` (created 2026-04-23) lists `[[thought-stream-void]]` among its related articles and develops a transit-reconstructive model of attentional capture (preattentive ERP components MMN ~200ms, P3a ~250-300ms fire without conscious access; noticing-one-has-been-captured is reconstruction, not witness). Thought-stream-void treats the broader opacity of spontaneous thought-succession and is the natural parent of the distraction case. The reciprocal link does not yet exist. Cross-review should (a) add a forward link in thought-stream-void where spontaneous-thought transitions are discussed, flagging distraction as the best-documented empirical sub-case, (b) check whether thought-stream-void's general transit claim can now delegate the ERP-timing evidence to distraction-void rather than carrying it, (c) verify terminology alignment (distraction-void's "transit / capture / meta-awareness gap" vocabulary should be consistent with thought-stream-void's phrasing), (d) identify whether thought-stream-void's treatment of the onset-of-thought problem is sharpened by distraction-void's retrospective-reconstruction framing, (e) flag any tension between the two articles' treatments of what consciousness can and cannot witness during transitions. Log findings even if no edits made.
-- **Source**: chain (from distraction-void.md)
-- **Generated**: 2026-04-23
-
 ### P3: Write a Concession Ledger article cataloguing what the Map does not claim
 - **Type**: expand-topic
 - **Status**: pending
@@ -2602,6 +2595,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review voids/thought-stream-void.md considering distraction-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/distraction-void.md` (created 2026-04-23) lists `[[thought-stream-void]]` among its related articles and develops a transit-reconstructive model of attentional capture (preattentive ERP components MMN ~200ms, P3a ~250-300ms fire without conscious access; noticing-one-has-been-captured is reconstruction, not witness). Thought-stream-void treats the broader opacity of spontaneous thought-succession and is the natural parent of the distraction case. The reciprocal link does not yet exist. Cross-review should (a) add a forward link in thought-stream-void where spontaneous-thought transitions are discussed, flagging distraction as the best-documented empirical sub-case, (b) check whether thought-stream-void's general transit claim can now delegate the ERP-timing evidence to distraction-void rather than carrying it, (c) verify terminology alignment (distraction-void's "transit / capture / meta-awareness gap" vocabulary should be consistent with thought-stream-void's phrasing), (d) identify whether thought-stream-void's treatment of the onset-of-thought problem is sharpened by distraction-void's retrospective-reconstruction framing, (e) flag any tension between the two articles' treatments of what consciousness can and cannot witness during transitions. Log findings even if no edits made.
+- **Output**: obsidian/voids/thought-stream-void.md -- Context: Cross-review voids/thought-stream-void.md considering distraction-void insights
 
 ### ✓ 2026-04-23: Cross-review voids/understanding-void.md considering noetic-feelings-void insights
 - **Type**: cross-review
