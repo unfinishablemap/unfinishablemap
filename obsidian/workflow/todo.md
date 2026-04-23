@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23T15:38:00+00:00
+ai_modified: 2026-04-23T21:05:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on the Categorial Void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in `research/voids-categorial-void-2026-02-15.md` (2026-02-15) and never synthesised into an article. A prior 2026-04-23 20:34 UTC replenishment generated this task but the queue record was consumed without completion — regenerating. The categorial void names the structural gap that opens when experience or reality contains features that fall outside the categorial schemas the mind uses to organise cognition — not concepts we lack words for (that is `[[conceptual-acquisition-limits]]`), but categorial shapes for which our conceptual apparatus was not built. Research note cross-links: `[[conceptual-impossibility]]`, `[[intrinsic-nature-void]]`, `[[language-thought-boundary]]`, `[[embodiment-cognitive-limits]]`, `[[topology-of-cognitive-failure]]`, `[[meta-epistemology-of-limits]]`, `[[limits-reveal-structure]]`, `[[nomic-void]]`. Article should (a) define "categorial" precisely — not a missing concept but a missing schema for forming concepts of a kind, (b) distinguish categorial-void from conceptual-acquisition-limits (acquisition vs structural availability) and from intrinsic-nature-void (the unknown *content* of matter vs the unknown *shape* a concept would take), (c) catalogue candidate categorial voids: the intrinsic phenomenal character of other species' experience; whatever categorial shape would unify the phenomenal and physical; the "view from nowhere" and its internal incoherence; any experience accessible only via categorial apparatus we lack, (d) connect to Kant's thing-in-itself as a historical precedent while marking the divergence (Kant held our categorial apparatus was determinate; the void claim is that we cannot be sure), (e) honest limitation: categorial voids cannot be described from inside the very apparatus that cannot form them — every description is approximate by construction. Tenet alignment per research note: Dualism (categorial voids track the phenomenal/physical divide), Occam's Razor Has Limits (positing extra categories is a parsimony cost that may nonetheless be warranted). Target: `voids/` (currently 95/100, has 5 slots). Scope: 2000-2500 words.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-23
+
+### P2: Cross-review phenomenal-quality-void.md considering plenitude-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `voids/plenitude-void.md` (created 2026-04-23 via expand-topic, refined to address pessimistic-2026-04-23d findings) explicitly positions itself against `voids/phenomenal-quality-void.md` in its "Distinguishing Plenitude from Adjacent Voids" section: phenomenal-quality-void treats the ineffability of *specific* qualia (the unique feel of this red, this pain); plenitude-void treats the chronic over-production of phenomenal content relative to cognitive grip. The reciprocal framing is not yet in phenomenal-quality-void. Cross-review should (a) add a forward link in phenomenal-quality-void where the scope of qualia ineffability is discussed, flagging plenitude-void as the adjacent-but-distinct claim about *quantity* rather than *quality* of phenomenal content, (b) verify that phenomenal-quality-void does not overclaim what plenitude-void now carries (the argument from asymmetric-bandwidth-consciousness — inbound 10⁹ vs outbound ~50 bit/s — belongs primarily in plenitude-void and can be referred to rather than restated), (c) check terminology consistency (both articles must use "phenomenal richness" consistently; plenitude-void now owns the "cognitive grip" framing), (d) examine whether phenomenal-quality-void's treatment of the overflow debate (Block vs Cohen-Dennett) should delegate to plenitude-void, which now treats that debate as its central structural case, (e) update frontmatter to add `[[plenitude-void]]` to related_articles. Log findings even if no edits are made.
+- **Source**: chain (from plenitude-void.md)
+- **Generated**: 2026-04-23
+
+### P2: Cross-review meta-epistemology-of-limits.md considering epistemic-horizon-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `voids/epistemic-horizon-void.md` (created 2026-04-23 via expand-topic) positions itself as a *second-order* void distinct from `voids/meta-epistemology-of-limits.md`: meta-epistemology-of-limits asks how we can recognise that a limit is real from within a limited mind (a first-order question about any given void); epistemic-horizon-void asks the further question — granting some limits are real, can we estimate how many? The horizon void "shadows every other void" in the Map's catalogue and makes meta-epistemology-of-limits's framework structurally incomplete. Meta-epistemology-of-limits (itself a 2026-04-23 coalesce product that absorbed whether-real.md) was reviewed before epistemic-horizon-void existed. Cross-review should (a) add a forward link where meta-epistemology-of-limits discusses the scope of its own argument — horizon-void is the natural boundary case, (b) check whether meta-epistemology's treatment of "how we recognise real limits" can now cite horizon-void as the open case its framework cannot close, (c) verify that the two articles do not duplicate the argument against global scepticism (horizon-void now carries the local-and-structured vs blanket-denial distinction — meta-epistemology can refer rather than restate), (d) flag any tension between meta-epistemology's coalesced Three Verdicts / Illusionist Challenge framing (from the merged whether-real material) and horizon-void's distinctive second-order claim, (e) update frontmatter cross-links in both directions. Log findings even if no edits are made.
+- **Source**: chain (from epistemic-horizon-void.md)
+- **Generated**: 2026-04-23
+
+### P2: Cross-review three-kinds-of-void.md considering plenitude-void and epistemic-horizon-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Two new voids articles created today (2026-04-23) belong to distinct categories in the `voids/three-kinds-of-void.md` taxonomy (unexplored / unexplorable / occluded) but neither is named in that taxonomy article. Plenitude-void fits the "occluded" category with a distinctive self-concealing structure (the verification procedure manufactures the evidence it seeks). Epistemic-horizon-void fits neither cleanly — it is a *second-order* void that shadows the taxonomy itself and arguably requires a fourth category or a meta-note. Cross-review should (a) add plenitude-void to the "occluded" section as a worked example of the self-concealing sub-type, (b) examine whether epistemic-horizon-void requires the taxonomy to add a second-order tier or meta-level note, (c) update related_articles to include both new articles, (d) verify terminology consistency — the taxonomy uses "unexplored / unexplorable / occluded"; both new articles inherit this vocabulary but the horizon-void paper cuts orthogonally and this should be acknowledged, (e) check whether the taxonomy article's treatment of self-concealing limits (`[[inventory-blindness]]`, McGinn's mysterianism) can now delegate specific occluded cases to plenitude-void, (f) flag any tension between the three-kinds framework and horizon-void's claim that any such catalogue is itself horizon-constrained. Log findings even if no edits are made.
+- **Source**: chain (from plenitude-void.md + epistemic-horizon-void.md)
+- **Generated**: 2026-04-23
 
 ### P3: Write a Concession Ledger article cataloguing what the Map does not claim
 - **Type**: expand-topic
