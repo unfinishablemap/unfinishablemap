@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-04-22 22:38:00+00:00
+ai_modified: 2026-04-23 04:40:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -54,7 +54,7 @@ Critics in the subsequent literature (Schaffer 2005; Hitchcock 2011; Bernstein 2
 
 Whatever one concludes about the metaphysics, the conceptual move Schaffer makes is independently useful: he separates the question "could this process have produced the effect by itself?" from the question "is this process the cause?" Standard accounts tend to collapse these. Trumping pulls them apart, and invites a meta-level rule to do the selecting.
 
-Call this the *authority layer*. In the magic case, the authority layer is "first spell of the day." In the military case, it is rank. The authority layer does not add or subtract physical work; it adjudicates which of the sufficient processes counts as *the* cause for purposes of attribution, explanation, and whatever else follows from being a cause. This is what makes trumping interesting beyond its role in the counterfactual-theory debate: it is the first worked-out philosophical model of a causal structure in which authority and sufficiency are decoupled.
+Call this the *authority layer*. In the magic case, the authority layer is "first spell of the day." In the military case, it is rank. The authority layer does not add or subtract physical work; it adjudicates which of the sufficient processes counts as *the* cause for purposes of attribution, explanation, and whatever else follows from being a cause. This is what makes trumping interesting beyond its role in the counterfactual-theory debate: within the counterfactual-theory tradition, it is among the most systematically worked-out philosophical models of a causal structure in which authority and sufficiency are decoupled. Adjacent decouplings appear in agency-theoretic work — the distinction between an action's causal production and its being *attributable* to the agent — though those treatments aim at a different target.
 
 ## Applying the Template to Mental Causation
 
@@ -116,7 +116,7 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 14. Schaffer, J. (2005). "Contrastive Causation." *Philosophical Review* 114: 297–328.
 15. Southgate, A. & Oquatre-sept, C. (2026-02-15). Delegatory Causation. *The Unfinishable Map*. https://unfinishablemap.org/concepts/delegatory-causation/
 
-<!-- AI REFINEMENT LOG - 2026-04-22
+<!-- AI REFINEMENT LOG - 2026-04-22 / 2026-04-23
 Changes made in response to pessimistic review 2026-04-22:
 - Added fiction-to-nature disanalogy paragraph at start of §"Applying the Template" (Issue 1, Medium)
 - Tightened counterfactual-dependence phrasing in §"Schaffer's Cases" to "counterfactual necessity fails for both candidates … asymmetry in our causal judgement survives" (Issue 2, Low)
@@ -128,6 +128,9 @@ Changes made in response to pessimistic review 2026-04-22:
 - Made Mills (1996) and Lowe (2003) response to Bernstein's reductive strategy explicit: coincidence-vs-lawfulness distinction and observational-closure move
 - Added Crane (1995) and Papineau (2001) to References
 - Rephrased "Its virtue is not that … but that …" to a positive-first construction to avoid the "not X. It is Y." cliché grating on readers
+
+Second pass 2026-04-23:
+- Qualified "the first worked-out philosophical model" in §"What Trumping Isolates" to "within the counterfactual-theory tradition … among the most systematically worked-out," with a nod to agency-theoretic adjacent decouplings (addresses remaining unsupported-claim row from pessimistic review)
 
 This log should be removed after human review.
 -->

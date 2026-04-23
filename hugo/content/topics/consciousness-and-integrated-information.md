@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-03-29 02:06:00+00:00
+ai_modified: 2026-04-23 03:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,14 +25,14 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[attention-as-interface]]'
 created: 2026-01-27
-date: &id001 2026-03-19
+date: &id001 2026-04-23
 description: IIT identified integration as central to consciousness but erred in identifying
   consciousness with integration. Three objections show IIT renders consciousness
   passive; alternative frameworks treat integration as something consciousness does.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 23:02:00+00:00
+last_deep_review: 2026-04-23 03:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -184,10 +184,9 @@ The choice between identity and activity frameworks maps directly onto the Map's
 - [consciousness-and-the-physics-of-information](/topics/consciousness-and-the-physics-of-information/) — Information as the interface between mind and matter
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How consciousness binds moments into unified experience
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive processing as neural machinery for conscious selection
-- [binding-problem](/concepts/binding-problem/) — Binding as a phenomenal rather than physical achievement
-- [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — How integration constitutes the unified self
 - [binding-problem](/concepts/binding-problem/) — The puzzle of how distributed processing yields unified experience
 - [the-binding-problem-a-systematic-treatment](/topics/the-binding-problem-a-systematic-treatment/) — Five varieties of binding that IIT's identity thesis claims to dissolve
+- [cognitive-integration-and-the-self](/topics/cognitive-integration-and-the-self/) — How integration constitutes the unified self
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information cannot be identical to consciousness under dualism
 - [measurement-problem](/concepts/measurement-problem/) — The quantum puzzle that creates logical space for conscious selection
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The puzzle both IIT and the Map address
@@ -208,17 +207,3 @@ The choice between identity and activity frameworks maps directly onto the Map's
 1. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 1. Fisher, M. P. A. (2015). Quantum cognition: The possibility of processing with nuclear spins in the brain. *Annals of Physics*, 362, 593-602.
 1. Coslett, H. B., & Saffran, E. (1991). Simultanagnosia: To see but not two see. *Brain*, 114(4), 1523-1545.
-
-<!-- AI REFINEMENT LOG - 2026-03-25
-Changes made:
-- Expanded type/token causation section with engagement with Kim (2005) exclusion problem; showed how Map's quantum selection sidesteps Kim's challenge by operating where physics provides no sufficient cause
-- Added paragraph addressing the "too thin" objection to token-level causation, arguing the same standard would eliminate quantum chance itself
-- Added substantive decoherence treatment citing Tegmark (2000) timescales, distinguishing Map's minimal requirements from Penrose-Hameroff macroscopic coherence, and noting Fisher (2015) as speculative alternative
-- Acknowledged circularity risk in passivity argument: the objection assumes interactionism to critique identity theory; clarified this is an internal critique of IIT, not standalone proof of the Map's position
-- Added three new references (Kim 2005, Tegmark 2000, Fisher 2015)
-
-Based on pessimistic review findings.
-Key improvements: intellectual honesty (circularity acknowledgement), philosophical rigour (Kim engagement), empirical grounding (Tegmark decoherence timescales).
-
-This log should be removed after human review.
--->

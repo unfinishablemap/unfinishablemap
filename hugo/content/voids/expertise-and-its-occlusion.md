@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-04-22 10:43:00+00:00
+ai_modified: 2026-04-23 02:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -16,13 +16,14 @@ concepts:
 - '[[skill-delegation]]'
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-03-05
-date: &id001 2026-04-22
+date: &id001 2026-04-23
 description: How deep expertise irreversibly transforms conscious experience and then
   actively defends the transformation—creating a one-way door whose lock damages the
   skill of any expert who tries to look back through it.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-23 02:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -58,7 +59,7 @@ L.A. Paul's framework of transformative experience illuminates the structure. Ex
 
 ## Perceptual Reorganisation
 
-The empirical evidence is striking. Chess research beginning with Chase and Simon (1973) demonstrated that masters perceive meaningful board positions in chunks of five to eight pieces—Gobet and Simon estimate grandmasters store roughly 50,000 to 100,000 such patterns. This chunking is not a memory aid but a perceptual reorganisation. The expert literally sees different objects on the board than the novice does. Where the beginner sees individual pieces in spatial relationships, the master sees attack formations, defensive structures, and tactical opportunities as unified percepts. The transformation is domain-specific (masters show no advantage for random configurations), confirming that expertise restructures one specific domain of experience rather than enhancing general cognition.
+The empirical evidence is striking. Chess research beginning with Chase and Simon (1973) demonstrated that masters perceive meaningful board positions as structured chunks—clusters of pieces in familiar strategic patterns—rather than as individual pieces. Gobet and Simon (1998) estimate grandmasters store roughly 50,000 to 100,000 such patterns. This chunking is not a memory aid but a perceptual reorganisation. The expert literally sees different objects on the board than the novice does. Where the beginner sees individual pieces in spatial relationships, the master sees attack formations, defensive structures, and tactical opportunities as unified percepts. The transformation is domain-specific (masters show no advantage for random configurations), confirming that expertise restructures one specific domain of experience rather than enhancing general cognition.
 
 Merleau-Ponty's phenomenology anticipated these findings. His concept of the *intentional arc* describes how experience projects past, future, and situation around us. Expertise reconfigures this arc fundamentally. As Dreyfus interprets Merleau-Ponty, the skilled athlete "perceives more and better opportunities for actions"—their perceptual world is genuinely different from the novice's, not merely supplemented with additional information.
 
@@ -66,7 +67,7 @@ Merleau-Ponty's phenomenology anticipated these findings. His concept of the *in
 
 That consciousness withdraws from automated skill is uncontroversial. The void's distinctive claim is sharper: consciousness loses the ability to return without damaging the skill it once built. Reinvestment theory provides the evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [choking under pressure](/topics/choking-phenomenon-mental-causation/). The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles. The expert cyclist who attends to their balance falls.
 
-This goes beyond the gradual fading of an unused capacity. The barrier is *functional*: performance degrades whenever consciousness crosses it. Polanyi captured the structural reason in a single image: "You cannot use your spectacles to scrutinize your spectacles." The instruments of tacit knowing cannot simultaneously serve as objects of knowing. Focus on the subsidiary and the integrated meaning dissolves.
+This goes beyond the gradual fading of an unused capacity. The barrier is *functional*: performance degrades whenever consciousness crosses it. Polanyi captured the structural reason in a single image: "You cannot use your spectacles to scrutinize your spectacles" (Polanyi, 1966). The instruments of tacit knowing cannot simultaneously serve as objects of knowing. Focus on the subsidiary and the integrated meaning dissolves.
 
 ## Expertise-Induced Amnesia
 

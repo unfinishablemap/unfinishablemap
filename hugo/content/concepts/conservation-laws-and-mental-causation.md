@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-03-25 14:28:00+00:00
+ai_modified: 2026-04-23 01:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -16,6 +16,7 @@ concepts:
 - '[[bidirectional-interaction]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[objections-to-interactionism]]'
+- '[[trumping-preemption]]'
 - '[[decoherence]]'
 - '[[explanatory-gap]]'
 - '[[measurement-problem]]'
@@ -27,7 +28,7 @@ description: Does mental causation violate energy conservation? No — conservat
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 14:28:00+00:00
+last_deep_review: 2026-04-23 01:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -190,6 +191,7 @@ The Map does not claim certainty about *which* mechanism operates. Whether consc
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The philosophical problem of how mind causes physical effects
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Other challenges to the interactionist position
 - [brain-specialness-boundary](/topics/brain-specialness-boundary/) — Why the selection mechanism operates only in brains
+- [trumping-preemption](/concepts/trumping-preemption/) — A complementary structural template: causal authority decoupled from sufficiency, preserving observational closure at the level of causation itself
 
 ## References
 

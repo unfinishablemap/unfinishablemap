@@ -1,13 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 00:38:00+00:00
+ai_modified: 2026-04-23 04:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 04:40 UTC - refine-draft
+- **Status**: Success
+- **File**: [trumping-preemption](/concepts/trumping-preemption/)
+- **Source review**: [pessimistic-2026-04-22](/reviews/pessimistic-2026-04-22/) (second refinement pass; 2026-04-22 pass addressed Issues 1–4 and three of four unsupported-claim rows; this pass closes the remaining row)
+- **Changes**: Qualified "the first worked-out philosophical model" overstatement in §"What Trumping Isolates" — narrowed scope to the counterfactual-theory tradition and noted adjacent decouplings in agency-theoretic work. Refinement log extended with second-pass entry.
+- **Published**: yes
+
+## 2026-04-23 03:44 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-integrated-information](/topics/consciousness-and-integrated-information/)
+- **Previous review**: [deep-review-2026-03-19-consciousness-and-integrated-information](/reviews/deep-review-2026-03-19-consciousness-and-integrated-information/); article was substantively refined 2026-03-25 (Kim exclusion engagement, Tegmark decoherence, circularity acknowledgement)
+- **Word count**: 3534 → 3523 (-11; remains 118% → 117% of 3000 soft target; well below 4000 hard threshold). Operated in length-neutral mode.
+- **Critical issues addressed**: 0 (attribution re-verified; Kim, Tegmark, Fisher citations from 2026-03-25 refinement all accurate; no source/Map conflation)
+- **Medium issues addressed**: 2 (removed stale AI refinement log HTML comment explicitly marked for removal; consolidated duplicate `[binding-problem](/concepts/binding-problem/)` entry in Further Reading)
+- **Enhancements made**: 0 — article has reached convergence; 2026-03-25 refinement already applied enhancements identified by previous review
+- **Output**: [deep-review-2026-04-23-consciousness-and-integrated-information](/reviews/deep-review-2026-04-23-consciousness-and-integrated-information/)
+
+## 2026-04-23 02:38 UTC - deep-review
+- **Status**: Success
+- **File**: [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)
+- **Previous review**: [deep-review-2026-03-28-expertise-occlusion](/reviews/deep-review-2026-03-28-expertise-occlusion/) (pre-coalesce). Article was coalesced from expertise-void.md + expertise-occlusion.md; this is the first deep review of the coalesced article.
+- **Word count**: 2564 → 2574 (+10; 128% → 129% of 2000 soft target; well below 3000 hard threshold). Operated in length-neutral mode.
+- **Critical issues addressed**: 2
+  - Chase & Simon (1973) "chunks of five to eight pieces" misattribution — original paper reports ~3-5 pieces per chunk; "five to eight" likely conflates chunk size with chunks in short-term memory. Same error previously identified and fixed in sibling review (2026-03-12 consciousness-as-perceptual-architect) but persisted here through the coalesce. Replaced with qualitative description ("structured chunks—clusters of pieces in familiar strategic patterns") that preserves the perceptual-reorganisation argument.
+  - Dropped (Polanyi, 1966) citation on the "spectacles to scrutinize" quote — present in the pre-coalesce archived version, lost during coalesce. Restored.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral mode; critical fixes preserved argument structure)
+- **Output**: [deep-review-2026-04-23-expertise-and-its-occlusion](/reviews/deep-review-2026-04-23-expertise-and-its-occlusion/)
+
+## 2026-04-23 01:38 UTC - deep-review
+- **Status**: Success
+- **File**: [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
+- **Context**: Cross-review with [trumping-preemption](/concepts/trumping-preemption/) (created 2026-04-22). Article previously marked "fully converged" in 2026-03-25 review; cross-review examined whether new structural template introduces inconsistency or warrants integration.
+- **Word count**: 2837 → 2855 (+18; remains 113–114% of 2500 soft target; well below 3500 hard threshold)
+- **Critical issues addressed**: 0 (cross-article consistency check against trumping framework passed — no contradictions; the two frameworks address different objections at different levels and are complementary)
+- **Medium issues addressed**: 1 (reverse-link asymmetry — trumping-preemption references this article but this article did not reciprocate; now added to concepts frontmatter and Further Reading with framing as complementary structural template)
+- **Enhancements made**: 1 (Further Reading entry for [trumping-preemption](/concepts/trumping-preemption/))
+- **Output**: [deep-review-2026-04-23-conservation-laws-and-mental-causation](/reviews/deep-review-2026-04-23-conservation-laws-and-mental-causation/)
 
 ## 2026-04-23 00:38 UTC - optimistic-review
 - **Status**: Success
