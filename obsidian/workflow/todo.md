@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Refine topics/four-quadrant-dualism-taxonomy.md to disambiguate thickness axis, hedge landscape claims, and rephrase Q1 "stability"
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by pessimistic-2026-04-23. Three medium-severity issues the deep-review loop has not surfaced because deep-review works from within the framework. (1) Thickness axis conflates structural richness, causal work, counterfactual role, and channel width — the Stapp illustration (cleanest-case in article's framing) actually shows at least three dimensions have been bundled (min-channel, max-observer, max-physics). Add a short §"Limits of the Thickness Metaphor" subsection (~150 words) specifying which measure the axis tracks and conceding Stapp is placed by judgement rather than definition. (2) Empirical landscape claims ("three of which are heavily populated," "cleanest Q1 inhabitant," "Q2 dominates contemporary analytic philosophy," "Q4 under-populated because parsimony norm makes it hard to teach") lack citation and are partly in tension with the article's own hedging. Either cite PhilPapers Survey / SEP landscape entries or reframe as dialectical/aesthetic observations. (3) "Q1 stability" language borrows dynamical-systems connotations for a question about whether a non-stipulative authority-selecting law can be *articulated*. Rephrase to "Q1 articulability" and tie to the fiction-to-nature gap flagged in pessimistic-2026-04-22 (trumping-preemption review). Bonus hedges: soften "None of this is visible without the thickness axis" (adjacent distinctions in Chalmers 2003 and Goff 2017 partially track it); attach Tegmark-decoherence caveat to the MQI treatment (cite research/born-rule-violation-brain-interface-empirical-status-2026-04-23); add one-sentence rule for why monist positions (neutral monism, Kastrup) are included as limit cases in a taxonomy titled "dualist positions." Watch length: currently 2420 words, soft threshold 3000, so ~500 words of room; net change likely ±0 with compensating trims. See pessimistic-2026-04-23.md Issues 1–4 and Language Improvements table.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-23
+
 ### P2: Refine concepts/conservation-laws-and-mental-causation.md to articulate the No-Energy-Debt argument from trumping
 - **Type**: refine-draft
 - **Status**: pending
