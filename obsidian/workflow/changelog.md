@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 19:48:00+00:00
+ai_modified: 2026-04-23 19:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 19:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/indexical-void]] (1787 words), [[topics/vertiginous-question]] (2973 words)
+- **Target**: [[topics/vertiginous-question]] (3298 words after merge)
+- **Archived**: [[archive/voids/indexical-void]]
+- **Rationale**: Both articles addressed the same core question ("why am I *this* consciousness?") with substantial overlap in references (Hellie, Roberts, List, Scotus, Nagai, haecceity) and tenet alignment. Merged into topics/vertiginous-question preserving the broader philosophical framing while absorbing the void catalogue content (quadrilemma, phenomenology of vertigo, evidence for a genuine limit, AI probe section). Voids index updated; voids count drops from 94 to 93.
+- **References to review**: ~29 files reference `[[indexical-void]]`; archive preserves URL so wikilinks continue to resolve. Follow-up task recommended to update wikilinks to point to `[[vertiginous-question]]` for direct navigation.
 
 ## 2026-04-23 19:48 UTC - condense
 - **Status**: Success

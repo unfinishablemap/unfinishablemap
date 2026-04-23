@@ -109,7 +109,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[smoothness-and-continuity|Smoothness and Continuity]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [[counterfactual-void|The Counterfactual Void]] — How counterfactual thinking is trapped near actuality
 - [[understanding-void|The Understanding Void]] — Why the feeling of understanding cannot ground itself: explanation cannot explain itself, and self-evidence terminates inquiry before it begins
-- [[indexical-void|The Indexical Void]] — Why first-person identity resists explanation
+- [[vertiginous-question|The Indexical Void / Vertiginous Question]] — Why first-person identity resists explanation (coalesced 2026-04-23)
 - [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot opt out of itself
 - [[narrative-void|The Narrative Void]] — Why consciousness cannot observe its own storytelling
 - [[ownership-void|The Ownership Void]] — Why we cannot introspect how experiences become ours
