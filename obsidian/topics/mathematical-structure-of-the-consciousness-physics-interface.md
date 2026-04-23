@@ -4,7 +4,7 @@ description: "Quantum mechanics' mathematical form—Hilbert space, the Born rul
 created: 2026-03-18
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-04-23T11:06:00+00:00
+ai_modified: 2026-04-23T11:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,8 @@ concepts:
   - "[[causal-closure]]"
   - "[[psychophysical-laws]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
+  - "[[trumping-preemption]]"
+  - "[[delegatory-causation]]"
 related_articles:
   - "[[tenets]]"
   - "[[born-rule-and-the-consciousness-interface]]"
@@ -33,10 +35,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-03-25T05:57:00+00:00
+last_deep_review: 2026-04-23T11:39:00+00:00
 ---
 
-If consciousness interacts with the physical world at quantum indeterminacies, the mathematics of quantum mechanics does not leave this interaction unconstrained. The Unfinishable Map argues that, wherever the standard quantum postulates hold, Hilbert space structure, the Born rule, and the no-signalling principle together define a narrow mathematical corridor through which any consciousness-physics interaction must pass. The interface is tightly bounded by the formalism itself within that regime—which includes every physical system where quantum mechanics has been directly tested. Whether the regime extends into brain-internal conscious selection, or fails there, is an empirical question the mathematics alone cannot settle. Several formal frameworks attempt to work within these bounds, each proposing distinct mathematical structures for the meeting point of mind and matter. Their successes and limitations reveal both what the mathematics permits and what it cannot yet express.
+If consciousness interacts with the physical world at quantum indeterminacies, the mathematics of quantum mechanics does not leave this interaction unconstrained. The Unfinishable Map argues that, wherever the standard quantum postulates hold, Hilbert space structure, the Born rule, and the no-signalling principle together define a narrow mathematical corridor through which any consciousness-physics interaction must pass. The corridor binds every tested regime; whether it extends into brain-internal conscious selection remains empirically open. Several formal frameworks attempt to work within these bounds, each proposing distinct mathematical structures for the meeting point of mind and matter. Their successes and limitations reveal both what the mathematics permits and what it cannot yet express.
 
 ## The Mathematical Corridor
 
@@ -68,18 +70,19 @@ Together, these three results define the mathematical corridor that applies wher
 
 ### Corridor Dualism and the Conditionality of the Bound
 
-The corridor's authority depends on the postulates holding in the regime where consciousness acts. Because no published experiment has probed the Born rule inside living neural tissue during a conscious act of selection, two Map-compatible positions remain open:
+The corridor's authority depends on the postulates holding in the regime where consciousness acts. Because no published experiment has probed the Born rule inside living neural tissue during a conscious act of selection, three Map-compatible positions remain open:
 
-- **Corridor dualism** — consciousness selects within the Born-compliant corridor. This is the Map's default working hypothesis: the most conservative stance consistent with every tested Born-rule regime, and the smallest footprint the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet could ask for.
+- **Corridor dualism** — consciousness selects within the Born-compliant corridor. This is the Map's default working hypothesis: the most conservative stance consistent with every tested Born-rule regime, and the smallest footprint the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet could ask for among trajectory-level proposals.
 - **Minimum-outside-the-corridor dualism** — if corridor-compliant selection is insufficient to produce the observed correlation between conscious intention and physical outcome, MQI would *require* moving outside the corridor, because the tenet demands the minimum interaction *necessary to cause the effect*, not the minimum that is mathematically neat. Stapp's quantum Zeno selection, Chalmers-McQueen's Φ-dependent collapse read at the ensemble level, Penrose-Hameroff orchestrated reduction, and Arana's (2025) time-extended weighting with exponentially suppressed λ all instantiate this option with different mathematical machinery.
+- **Trumping dualism** — a structurally distinct option in which the physical trajectory is fully sufficient and consciousness is the *authoritative* cause without altering the trajectory. On the [[trumping-preemption|trumping template]] (developed in [[delegatory-causation]] as a specific application), the mathematical corridor describes physics at the trajectory level; consciousness operates at the authority level, where the formalism has nothing to say. No postulate is violated in any regime, and no quantum indeterminacy need be exploited — arguably an even smaller footprint than corridor selection by MQI's own yardstick. The cost is that consciousness leaves no distinctive trajectory signature, so the position earns its place on theoretical rather than empirical grounds.
 
-There is no positive reason to expect the quantum postulates to fail inside brains specifically. Brains are warm, wet, and made of ordinary atoms; the neural processes we can measure obey standard QM, and a brain-internal Born violation that leaves no downstream signature—in muscles, light, sound, subsequent measurements—is a tall order. The Map therefore adopts corridor dualism as its default, but frames that choice as a response to current evidence rather than a mathematical straitjacket. The corridor is the scope the Map voluntarily accepts as its working hypothesis, and the corridor analysis in the previous subsections applies within that scope. If evidence shifted—preregistration-robust micro-PK signals, Nirvanic-style brain-coupled quantum-system anomalies, entanglement-witness departures from standard QM predictions—MQI would sanction moving the minimum outside the corridor without any tenet change.
+There is no positive reason to expect the quantum postulates to fail inside brains specifically. Brains are warm, wet, and made of ordinary atoms; neural processes we can measure obey standard QM, and a brain-internal Born violation that leaves no downstream signature—in muscles, light, sound, subsequent measurements—is a tall order. The Map therefore adopts corridor dualism as its default, a choice responsive to current evidence rather than a mathematical straitjacket. If evidence shifted—preregistration-robust micro-PK signals, Nirvanic-style brain-coupled quantum-system anomalies, entanglement-witness departures from standard QM predictions—MQI would sanction moving the minimum outside the corridor without any tenet change.
 
 ## Statistical Closure and Outcome-Level Openness
 
 Tonetto's analysis of causal closure provides the conceptual foundation for understanding where consciousness fits within this mathematical structure. Classical mechanics provides deterministic closure: given initial conditions, the equations uniquely determine all future states. Quantum mechanics replaces this with what Tonetto calls "statistical closure with outcome-level openness"—the Born rule fixes probability distributions, but which specific outcome actualises from the distribution is not determined by the formalism.
 
-This is a structural gap, not merely incomplete knowledge. Restoring deterministic closure requires additional metaphysical commitments—Bohmian hidden variables, many-worlds branching—that are "purchased through metaphysical commitment, not empirical discovery." The gap is precisely where the Map locates consciousness's causal role: selecting among outcomes whose probabilities are already fixed by physics. Consciousness does not compete with physics for explanatory territory; it operates in the space physics leaves structurally open. The alternative—that this gap is filled by brute randomness with no selecting agent—is logically available but explanatorily inert: it names the gap without illuminating it, and leaves the correlation between conscious intention and physical outcome as a cosmic coincidence.
+This is a structural gap, not merely incomplete knowledge. Restoring deterministic closure requires additional metaphysical commitments—Bohmian hidden variables, many-worlds branching—that are "purchased through metaphysical commitment, not empirical discovery." The gap is where the Map's corridor-dualism reading locates consciousness's causal role: selecting among outcomes whose probabilities are already fixed by physics, operating in the space physics leaves structurally open. (The [[trumping-preemption|trumping alternative]] does not need the gap at all — on that reading the physical trajectory is fully sufficient and consciousness is authoritative at the attribution level, leaving the mathematical corridor untouched.) The alternative—that this gap is filled by brute randomness with no selecting agent—is logically available but explanatorily inert: it names the gap without illuminating it, and leaves the correlation between conscious intention and physical outcome as a cosmic coincidence.
 
 Tonetto identifies an "interpretive asymmetry" in how this gap is treated: consciousness-involving interpretations face a burden of skepticism that hidden-variable and many-worlds interpretations avoid, despite all three being empirically equivalent responses to the same mathematical structure. The Map's [[tenets#^occams-limits|fifth tenet]] addresses this directly—simplicity-based preferences between empirically equivalent interpretations reflect methodological habit, not evidential superiority.
 
@@ -99,7 +102,7 @@ Chalmers and McQueen combine integrated information theory (IIT) with continuous
 
 The "super-resistance" model proposes that consciousness does not absolutely prevent superposition (which would freeze quantum evolution through the Zeno effect) but continuously biases toward localisation proportionally to Φ. This yields a specific mathematical prediction: CSL dynamics with a Φ-dependent collapse rate. The framework is in principle testable—quantum computer experiments could probe whether systems with different integration structures exhibit different collapse behaviour.
 
-The limitation is the mathematical relationship between IIT's information-theoretic structure and quantum Hilbert space structure. IIT computes Φ over cause-effect repertoires defined on discrete classical systems. Embedding this within quantum dynamics requires bridging two mathematical frameworks that were not designed to connect, and the bridge remains underspecified. The framework also inherits the open questions of [[spontaneous-collapse-theories]]—whether CSL dynamics can be made fully relativistic, and whether the collapse rate parameters are independently motivated or tuned to fit.
+The limitation is the mathematical relationship between IIT's information-theoretic structure and Hilbert space structure. IIT computes Φ over cause-effect repertoires defined on discrete classical systems; embedding this within quantum dynamics bridges two frameworks not designed to connect, and the bridge remains underspecified. The framework also inherits the open questions of [[spontaneous-collapse-theories]]—whether CSL dynamics can be made fully relativistic, and whether the collapse rate parameters are independently motivated.
 
 ### Kleiner: Experience Space Formalism
 
@@ -107,7 +110,7 @@ Kleiner (2020) proposes the most general mathematical framework. Rather than mod
 
 The framework models consciousness through the product space E × P (experience × physical state space), with dynamical variables as subsets of this product. Crucially, E can instantiate as different mathematical structures depending on which aspect of experience is modelled: a Riemannian manifold for colour qualia (capturing similarity relations), a partial order for inclusion relations, a Hilbert space for the algebraic structure of simultaneous qualia, or a pretopological space for similarity without metrics.
 
-For the Map's dualist framework, Kleiner's approach is significant because it gives the experiential domain its own mathematical autonomy—E is not derived from or reducible to P. The coupling between E and P must be specified by additional mathematical structure, which is exactly the [[psychophysical-laws|selection law]] the Map seeks. The framework does not itself commit to quantum-level interaction, but the Hilbert-space instantiation of E is naturally compatible with quantum formalism. The [[consciousness-physics-interface-formalism]] defines these three ingredients — physical state space P, experiential state space E, and coupling map C: E × P → P — as the minimal formal requirements any interface theory must satisfy.
+For the Map's dualist framework, Kleiner's approach is significant because E has its own mathematical autonomy—not derived from or reducible to P. The coupling between E and P must be specified by additional structure, which is exactly the [[psychophysical-laws|selection law]] the Map seeks. The framework does not itself commit to quantum-level interaction, though the Hilbert-space instantiation of E is naturally compatible with quantum formalism. The [[consciousness-physics-interface-formalism]] defines these three ingredients — state space P, experiential state space E, and coupling map C: E × P → P — as the minimal formal requirements any interface theory must satisfy.
 
 ### Atmanspacher: Non-Commutative Operator Algebra
 
@@ -115,7 +118,7 @@ Atmanspacher and Filk propose that mental processes exhibit non-commutative alge
 
 The mathematical apparatus is familiar from quantum mechanics—C*-algebras, Hilbert space models, non-Boolean logic—but applied to cognitive variables rather than physical observables. The provocative claim is "quantum mind without quantum brain": mental descriptions can exhibit quantum-like formal properties through epistemic partitioning of classical neural dynamics, without requiring literal quantum processes.
 
-This framework partially supports the Map's dualism tenet—the mental domain has its own irreducible algebraic structure that cannot be captured by classical descriptions. But it is in tension with the [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet, because it shows consciousness can have quantum-like formal properties *without* actual quantum-level coupling. The Map's response is that formal similarity between mental and quantum algebras is evidence *for* a deeper connection, not against it: if consciousness and quantum mechanics independently exhibit non-commutative structure, the most parsimonious explanation is a shared origin—namely, that the "quantum mind" connects to a "quantum brain" and the algebraic structure is not coincidental but inherited. The alternative—that two domains happen to share the same formal structure by accident—is the less economical hypothesis. (For a broader comparison of how these mechanisms relate, see [[comparing-quantum-consciousness-mechanisms]].)
+This framework partially supports the Map's dualism tenet—the mental domain has its own irreducible algebraic structure—but sits in tension with [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]], because it shows consciousness can have quantum-like formal properties *without* actual quantum-level coupling. The Map's response: formal similarity between mental and quantum algebras is evidence *for* a deeper connection. If both domains independently exhibit non-commutative structure, the parsimonious explanation is shared origin—the "quantum mind" connects to a "quantum brain" and the algebraic structure is inherited, not coincidental. (For a broader comparison of how these mechanisms relate, see [[comparing-quantum-consciousness-mechanisms]].)
 
 ## What the Mathematics Cannot Yet Express
 
@@ -154,6 +157,8 @@ The mathematical structure of the consciousness-physics interface connects direc
 - [[consciousness-and-mathematics]] — Mathematical knowledge, Penrose's argument, and the computational limits of formal systems
 - [[intrinsic-nature-void]] — Why relational description cannot capture intrinsic nature
 - [[born-rule-violation-brain-interface-empirical-status-2026-04-23]] — Research notes on what has and has not been tested, and which consciousness-collapse theorists require Born-violating physics
+- [[trumping-preemption]] — Schaffer's structural template for authority-without-trajectory-change, as a corridor-bypassing alternative
+- [[delegatory-causation]] — Saad's developed application: experiences authoritatively cause what their physical bases would independently suffice to produce
 
 ## References
 

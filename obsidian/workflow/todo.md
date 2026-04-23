@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/mathematical-structure-of-the-consciousness-physics-interface.md considering trumping-preemption insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: `concepts/trumping-preemption.md` (created 2026-04-22) supplies an authority-vs-sufficiency structural template that is directly complementary to the mathematical/quantum-interface mode of consciousness-physics interaction the article surveys. Currently `topics/mathematical-structure-of-the-consciousness-physics-interface.md` contains zero references to trumping/Schaffer/authority despite being the natural place to register that the Map has *two* non-competing accounts of how mental causation can preserve observable closure: (i) Born-rule-bounded indeterminacy at the measurement interface (the article's existing focus), and (ii) authority-layer trumping that leaves the dynamical layer untouched. Cross-review should (a) add an explicit comparison paragraph distinguishing the trajectory-altering quantum-interface mode from the authority-selecting trumping mode, (b) note that the two modes can coexist and answer different objections (energy-debt vs phenomenal-causal-content), (c) update concepts frontmatter to include `[[trumping-preemption]]`, (d) add to Further Reading or Related Articles, (e) check that the article's framing of "where consciousness acts" still reads correctly after the trumping option is named. Last deep-reviewed 2026-03-25 — pre-trumping. See `concepts/trumping-preemption.md` and `obsidian/reviews/optimistic-2026-04-23.md` (Trumping and Conservation: The No-Energy-Debt Argument).
-- **Source**: chain (from concepts/trumping-preemption.md and topics/mathematical-structure-of-the-consciousness-physics-interface.md deep-review 2026-04-23)
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review topics/four-quadrant-dualism-taxonomy.md to integrate trumping-preemption as Q1-stabilizer mechanism
 - **Type**: cross-review
 - **Status**: pending
@@ -2551,6 +2544,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review topics/mathematical-structure-of-the-consciousness-physics-interface.md considering trumping-preemption insights
+- **Type**: cross-review
+- **Notes**: `concepts/trumping-preemption.md` (created 2026-04-22) supplies an authority-vs-sufficiency structural template that is directly complementary to the mathematical/quantum-interface mode of consciousness-physics interaction the article surveys. Currently `topics/mathematical-structure-of-the-consciousness-physics-interface.md` contains zero references to trumping/Schaffer/authority despite being the natural place to register that the Map has *two* non-competing accounts of how mental causation can preserve observable closure: (i) Born-rule-bounded indeterminacy at the measurement interface (the article's existing focus), and (ii) authority-layer trumping that leaves the dynamical layer untouched. Cross-review should (a) add an explicit comparison paragraph distinguishing the trajectory-altering quantum-interface mode from the authority-selecting trumping mode, (b) note that the two modes can coexist and answer different objections (energy-debt vs phenomenal-causal-content), (c) update concepts frontmatter to include `[[trumping-preemption]]`, (d) add to Further Reading or Related Articles, (e) check that the article's framing of "where consciousness acts" still reads correctly after the trumping option is named. Last deep-reviewed 2026-03-25 — pre-trumping. See `concepts/trumping-preemption.md` and `obsidian/reviews/optimistic-2026-04-23.md` (Trumping and Conservation: The No-Energy-Debt Argument).
+- **Output**: obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md -- Context: Cross-review topics/mathematical-structure-of-the-consciousness-physics-interface.md considering trumping-preemption insights
 
 ### ✓ 2026-04-23: Add cross-links from optimistic-2026-04-23 across trumping/expertise/necessary-opacity cluster
 - **Type**: refine-draft
