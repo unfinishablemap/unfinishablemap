@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23T21:05:00+00:00
+ai_modified: 2026-04-23T21:36:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P3: Write concept article "The Meta-Voids Cluster — Second-Order Limits"
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23-night (High Priority). Three new voids articles created tonight (2026-04-23: `voids/epistemic-horizon-void.md`, `voids/plenitude-void.md`, `voids/categorial-void.md`) exhibit a shared structural feature — each concerns *not a specific cognitive gap* but *a feature of the architecture of self-reflective cognition*. The existing taxonomy (`voids/three-kinds-of-void.md`: unexplored / unexplorable / occluded) cuts orthogonally to this second-order stratum. Article would (a) name the meta-voids cluster, (b) argue it is a meta-level or fourth category rather than a subcategory of any existing one, (c) specify how second-order voids differ structurally from first-order ones (self-referential architecture, self-concealing verification structure, definitional rather than evidential unfalsifiability), (d) catalogue the cluster members (including closure-types-void, meta-epistemology-of-limits, compound-failure-signatures, and possibly inventory-blindness). Medium scope (2200-2800 words). Target: `voids/` section (at ~97/100, has capacity for 1-3 more). Tenet alignment: Occam's Razor Has Limits (load-bearing), Dualism (horizon varies with non-physical aspect of consciousness). See optimistic-2026-04-23-night.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write methodology article "Evidential vs Definitional Unfalsifiability in Consciousness Studies"
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23-night (High Priority). `voids/plenitude-void.md` lines 102-103 installed tonight the distinction between *evidential* unfalsifiability (nature happens not to supply discriminating observations) and *definitional* unfalsifiability (the terms of the question are set so that no observation could count as discriminating). Plenitude-void concedes its void is primarily definitional and refuses only the conclusion that the question is pseudo-empirical. The distinction is now load-bearing across four articles: plenitude-void, `voids/distraction-void.md` (occlusion reading unfalsifiable), `voids/phenomenal-quality-void.md` (challenge conditions specification), `topics/born-rule-violation-brain-interface-empirical-status.md` (corridor dualism ensemble-invisibility). Article would (a) articulate the distinction at principled level, (b) argue definitional unfalsifiability is not a pseudo-empirical signature but a feature of how the current conceptual vocabulary is load-bearing, (c) catalogue the four worked examples and their common structural pattern, (d) address the Popperian charge against dualism in its strongest form, (e) specify when definitional unfalsifiability does collapse into pseudo-science and when it does not. Medium scope (1800-2500 words). Target: `topics/` (~224/250) or `concepts/` (~228/250). Tenet alignment: Occam's Razor Has Limits directly; supports all other tenets by clarifying what unfalsifiability concessions commit the Map to. See optimistic-2026-04-23-night.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write voids article "The Inheritance Problem — When a Framework Cannot Exempt Itself"
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23-night (Medium Priority). The pattern where a framework cataloguing cognitive limits cannot exempt its own cataloguing from those limits appears in three new articles tonight: `voids/epistemic-horizon-void.md` lines 64-74 ("Does the Map Inherit Its Own Horizon?"), `voids/categorial-void.md` lines 108-112 (article uses categories drawn from the apparatus whose limits are at issue), and implicitly in `voids/plenitude-void.md` (the article's own investigation is compromised by the phenomenon it investigates). Short article would (a) articulate the inheritance pattern as a structural claim, (b) argue the appropriate response is to build the inheritance into the framework's epistemic self-presentation rather than hide it, (c) preempt the objection that the voids framework exempts itself, (d) connect to the broader Gödel-simulation-mysterianism cluster of self-referential limit arguments. Short scope (1500-2000 words). Target: `voids/` section. Tenet alignment: Occam's Razor Has Limits. See optimistic-2026-04-23-night.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
 
 ### P2: Cross-review three-kinds-of-void.md considering plenitude-void and epistemic-horizon-void insights
 - **Type**: cross-review
