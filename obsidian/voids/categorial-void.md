@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural gap that opens when reality
 created: 2026-04-23
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T21:20:00+00:00
+ai_modified: 2026-04-23T22:04:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,8 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[three-kinds-of-void]]"
+  - "[[taxonomy-of-voids]]"
   - "[[conceptual-impossibility]]"
   - "[[intrinsic-nature-void]]"
   - "[[language-thought-boundary]]"
@@ -33,6 +35,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-23
 last_curated:
+last_deep_review: 2026-04-23T22:04:00+00:00
 ---
 
 The **categorial void** is the structural gap that opens when reality contains features for which the mind has no *schema* — no template for forming a concept of that kind at all. It is not the familiar gap between a thing and a word we have not yet coined for it. That gap closes with language. The categorial void is the gap between a thing and the general *shape* any concept of that thing would have to take — a shape our cognitive architecture may not be built to produce. Where a missing concept leaves an empty slot in an existing scheme, a missing category leaves no slot to fill. The question is whether there are domains whose structure is not merely unknown but unparseable by minds like ours.

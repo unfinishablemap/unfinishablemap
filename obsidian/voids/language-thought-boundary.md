@@ -59,7 +59,7 @@ The deepest possibility: some content may be neither thinkable nor expressible�
 
 Wittgenstein's *Tractatus* attempted to delineate precisely what can be sensibly said. The conclusion was severe: ethics, aesthetics, the mystical, and the meaning of life all lie outside what language can capture. "Whereof one cannot speak, thereof one must be silent." But the *Tractatus* undermines itself—the attempt to draw language's limits requires standing outside those limits. Drawing a limit to thought would require thinking both sides, including the unthinkable.
 
-Chomsky extends this to fundamental structures: "It might turn out that 'free actions of men' cannot be accommodated in terms of determinacy and randomness." Not because we haven't found the right formulation, but because human cognitive architecture may be incapable of grasping certain kinds of truth. The boundaries of Babel constrain not just which languages we can speak but which thoughts we can think.
+Chomsky extends this to fundamental structures: "It might turn out that 'free actions of men' cannot be accommodated in terms of determinacy and randomness." Not because we haven't found the right formulation, but because human cognitive architecture may be incapable of grasping certain kinds of truth. The boundaries of Babel constrain not just which languages we can speak but which thoughts we can think. The [[categorial-void|categorial void]] formalises the deepest form of this limit: the gap between a feature of reality and the *shape* any concept of that feature would have to take—a shape our cognitive apparatus may not be built to produce.
 
 ## The Paradox of Articulating Ineffability
 

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate voids/categorial-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: `voids/categorial-void.md` was created today (2026-04-23) and has no inbound links from other content articles — only research notes and the workflow/reviews files reference it. The article outbound-links to many relevant pieces (`intrinsic-nature-void`, `conceptual-metabolism-void`, `meta-epistemology-of-limits`, `limits-reveal-structure`, `mapping-mind-space`, `language-thought-boundary`, `embodiment-cognitive-limits`, `formal-cognitive-limits`, `non-human-minds-as-void-explorers`, `mysterianism`, `phenomenology`, `dualism`, `introspection`) but these articles do not reciprocate. Task should (a) add reciprocal inbound links from the natural families — the void-method family (intrinsic-nature-void, conceptual-metabolism-void, meta-epistemology-of-limits, limits-reveal-structure), the mysterianism family (concepts/mysterianism.md if present; language-thought-boundary), and the cognitive-closure family (embodiment-cognitive-limits, biological-cognitive-closure), (b) prioritise body-text integration over Further Reading bullets where the categorial-void argument would sharpen or extend the target article's claims, (c) add categorial-void to `voids/voids.md` index, (d) consider one or two topic articles where the category-shape distinction is load-bearing (hard-problem-of-consciousness, philosophy-of-mind). Scope: 5-8 articles touched.
-- **Source**: chain (from expand-topic completion 2026-04-23; orphan-pattern detection)
-- **Generated**: 2026-04-23
-
 ### P2: Update voids/voids.md index to list today's three new voids articles
 - **Type**: refine-draft
 - **Notes**: The voids section index `voids/voids.md` does not list `epistemic-horizon-void.md`, `plenitude-void.md`, or `categorial-void.md` — all three created 2026-04-23. Section is at 96/100 articles. Task should (a) add each new void to the appropriate category section of the index with one-line descriptors matching the index's existing style, (b) preserve the index's organisation (unexplored / unexplorable / occluded — or whatever taxonomy the index currently uses), (c) flag for the taxonomy cross-review if any of the three do not fit the existing index structure cleanly (epistemic-horizon-void in particular is second-order and may require index commentary rather than plain entry). Short scope — index-level additions plus any structural note if the taxonomy doesn't accommodate a second-order void. Also verify the section's count indicator and any "recently added" surfacing is current.
@@ -2634,6 +2628,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Integrate voids/categorial-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: `voids/categorial-void.md` was created today (2026-04-23) and has no inbound links from other content articles — only research notes and the workflow/reviews files reference it. The article outbound-links to many relevant pieces (`intrinsic-nature-void`, `conceptual-metabolism-void`, `meta-epistemology-of-limits`, `limits-reveal-structure`, `mapping-mind-space`, `language-thought-boundary`, `embodiment-cognitive-limits`, `formal-cognitive-limits`, `non-human-minds-as-void-explorers`, `mysterianism`, `phenomenology`, `dualism`, `introspection`) but these articles do not reciprocate. Task should (a) add reciprocal inbound links from the natural families — the void-method family (intrinsic-nature-void, conceptual-metabolism-void, meta-epistemology-of-limits, limits-reveal-structure), the mysterianism family (concepts/mysterianism.md if present; language-thought-boundary), and the cognitive-closure family (embodiment-cognitive-limits, biological-cognitive-closure), (b) prioritise body-text integration over Further Reading bullets where the categorial-void argument would sharpen or extend the target article's claims, (c) add categorial-void to `voids/voids.md` index, (d) consider one or two topic articles where the category-shape distinction is load-bearing (hard-problem-of-consciousness, philosophy-of-mind). Scope: 5-8 articles touched.
+- **Output**: obsidian/voids/categorial-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-23: Cross-review apex/taxonomy-of-voids.md considering today's three new voids articles
 - **Type**: cross-review

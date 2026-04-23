@@ -57,7 +57,7 @@ Materialists counter that apparent cognitive closure often dissolves with scient
 
 Thomas Nagel's bat example illustrates this: there is something it is like to be a bat, navigating by echolocation in ways we cannot truly imagine. The bat has experiential territory we cannot enter. Our map has a void where the bat's map has detail.
 
-Extend this thought. If consciousness is fundamental, the space of possible minds may be vast. Some minds might think thoughts we cannot think—not because they're smarter, but because they have *concepts* we lack, *categories* our minds cannot form. The [[scale-void|scale void]]—our inability to genuinely grasp cosmic distances, deep time, or billion-scale numbers—illustrates this: our cognitive architecture was calibrated for ancestral environments, and magnitudes beyond that range collapse into categorical markers rather than distinct intuitions.
+Extend this thought. If consciousness is fundamental, the space of possible minds may be vast. Some minds might think thoughts we cannot think—not because they're smarter, but because they have *concepts* we lack, *categories* our minds cannot form. The [[categorial-void|categorial void]] names the structural gap this opens: not a missing concept within an existing scheme, but a missing *shape* any concept of that kind would have to take. The [[scale-void|scale void]]—our inability to genuinely grasp cosmic distances, deep time, or billion-scale numbers—illustrates the point: our cognitive architecture was calibrated for ancestral environments, and magnitudes beyond that range collapse into categorical markers rather than distinct intuitions.
 
 ## The Occluded
 
@@ -108,6 +108,7 @@ The taxonomy itself falls under the [[epistemic-horizon-void|epistemic horizon v
 - [[presence-type-and-absence-type-voids]] — A cross-cutting axis: voids of lack versus voids of overwhelming excess
 - [[plenitude-void]] — The self-concealing void where investigation manufactures the evidence it seeks
 - [[epistemic-horizon-void]] — The second-order void: we cannot estimate how much we do not know
+- [[categorial-void]] — The gap between a thing and the categorial shape any concept of it would have to take
 
 ## References
 
