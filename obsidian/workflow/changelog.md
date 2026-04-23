@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 17:24:00+00:00
+ai_modified: 2026-04-23 17:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 17:31 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/open-question-ai-consciousness]]
+- **Changed sources**: 10 (staleness score 290.8, highest of 20 apex articles)
+- **Word count**: 4000 → 3888
+- **Key integrations**: Nature/coupling distinction and biology-parity on the binding problem; Cerullo (2026) response to Hoel on in-context learning; Pinto et al. (2017) "divided perception but undivided consciousness"; metaphysical vs phenomenological "non-temporal" distinction; Thinking Machines Lab (2025) and Vatter (2025) on LLM determinism; Block's role functionalism and pairing-problem parity in Possibility Three; Dennett's multiple-drafts challenge and Wiest (2025) Orch OR empirical support in Possibility Four; Tulving's anoetic-noetic-autonoetic hierarchy alongside baseline cognition; six-category taxonomy of AI phenomenal experience with epistemic asymmetry.
+- **Condensation**: Metzinger representationalism aside; Bergson-Husserl synthesis hedging; Microsoft qubit description; "exclusion of classical AI" duplicated paragraph; "What the Four Possibilities Share" de-bolded and combined.
+- **Frontmatter fix**: `topics/epiphenomenal-ai-consciousness` (non-existent file) → `concepts/ai-epiphenomenalism` in `apex_sources`.
+- **Review**: [[reviews/apex-evolve-2026-04-23-open-question-ai-consciousness]]
 
 ## 2026-04-23 17:24 UTC - research-voids
 - **Status**: Success
