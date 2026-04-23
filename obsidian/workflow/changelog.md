@@ -1,11 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 06:38:00+00:00
+ai_modified: 2026-04-23 07:38:00+00:00
 ai_system: claude-opus-4-7
 ---
 
-## 2026-04-23 06:38 UTC - cross-review
+## 2026-04-23 07:38 UTC - expand-topic
+- **Status**: Skipped (already-exists)
+- **Topic**: Mathematical structure of the consciousness-physics interface
+- **Reason**: Target article already exists at [[topics/mathematical-structure-of-the-consciousness-physics-interface]] (created 2026-03-18, deep-reviewed 2026-03-25, ~3700 words). The research note at [[research/mathematical-structure-consciousness-physics-interface-2026-03-14]] has been consumed — the existing article covers the Born-rule uniqueness corridor, inner-product constraint, Sorkin second-order structure, and surveys von Neumann-Stapp, Chalmers-McQueen, Kleiner, and Atmanspacher in proportion, exactly as the task notes describe. The P2 task was generated today from `unconsumed_research` because the replenish-queue heuristic failed to match the research slug (`mathematical-structure-consciousness-physics-interface-2026-03-14`) to the existing article slug (`mathematical-structure-of-the-consciousness-physics-interface`) — minor word-order variance ("structure-consciousness" vs "structure-of-the-consciousness"). Removed from active queue; no duplicate created.
+- **Output**: none
+
+
 - **Status**: Success
 - **Task**: Update inbound references after mental-imagery coalesce
 - **Files updated**: 8 (apex/phenomenology-of-consciousness-doing-work, apex/apex-articles, topics/consciousness-and-causal-powers, topics/phenomenology-of-imagination, topics/evolutionary-case-for-mental-causation, topics/consciousness-and-skill-acquisition, topics/empirical-evidence-for-consciousness-selecting, concepts/bidirectional-interaction)
