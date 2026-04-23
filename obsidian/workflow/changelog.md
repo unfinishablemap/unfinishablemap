@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 16:21:00+00:00
+ai_modified: 2026-04-23 16:28:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 16:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/mathematical-structure-of-the-consciousness-physics-interface]]
+- **Context**: Cross-review against [[research/born-rule-violation-brain-interface-empirical-status-2026-04-23]]
+- **Word count**: 3345 → 3361 (+16, stays at 112% soft threshold)
+- **Critical issues addressed**: 0 (attribution accuracy stable across four reviews)
+- **Medium issues addressed**: 2 (steel-man overreach in corridor-dualism framing; Chalmers-McQueen Born-modifying status implicit in framework section)
+- **Enhancements made**: 2 (named Kerskens-style MRI and microtubule-coherence claims as contested positive-evidence candidates; flagged C-M Φ-dependent collapse as Born-modifying at the neural ensemble level)
+- **Trims**: intro-paragraph framework roadmap tightened from two sentences to one (~11 words)
+- **Output**: [[reviews/deep-review-2026-04-23b-mathematical-structure-of-the-consciousness-physics-interface]]
 
 ## 2026-04-23 16:21 UTC - coalesce
 - **Status**: Aborted (no strong candidates)
