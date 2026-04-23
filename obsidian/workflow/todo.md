@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write concept article synthesising the three MQI-sanctioned options
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23-midday (High Priority). The corridor/minimum-outside-corridor/trumping three-way branch now appears in four major articles (`topics/mathematical-structure-of-the-consciousness-physics-interface.md` lines 71-79, `topics/born-rule-and-the-consciousness-interface.md` lines 129-131, `concepts/psychophysical-laws.md` line 91, `topics/four-quadrant-dualism-taxonomy.md` line 135) without a canonical treatment. Article would (a) state the taxonomy once and derive each option from MQI explicitly, (b) catalogue the empirical and theoretical considerations that would move the Map between them, (c) distinguish the structural move (corridor/min-outside-corridor split the *magnitude* axis; trumping is on a different axis entirely), (d) identify what each option forbids. Medium scope (2000-2500 words). Target section: concepts/ (~228/250, has capacity). Tenet alignment: Minimal Quantum Interaction (core), Dualism, Bidirectional Interaction, Occam's Razor Has Limits. See optimistic-2026-04-23-midday.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write topic article on Generation Fluency and Philosophical Intuition
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23-midday (High Priority). `voids/noetic-feelings-void.md` line 62 cites Thompson's finding that feelings of rightness (FOR) are driven by generation fluency rather than underlying reasoning, and that manipulating fluency shifts FOR without changing the reasoning itself. Philosophical intuitions — primary data for analytic philosophy — are felt signals of the same family. Article would (a) apply Thompson's fluency work to philosophical intuition specifically, (b) flag which kinds of intuition are fluency-vulnerable (trolley-problem variants, conceivability arguments, simplicity intuitions) and which are more robust, (c) examine the methodological consequences for intuition-reliant programmes including the Map's, (d) honest limitation: the Map's programme depends on some intuitions, so the article must distinguish deflation of *all* intuitions from calibration of *which*. Medium scope (2000-2500 words). Target section: topics/ (~225/250, has capacity). Tenet alignment: Occam's Razor Has Limits (intuitions of simplicity are fluency-driven), Dualism (the conceivability argument and the hard-problem intuition are load-bearing philosophical intuitions whose fluency-vulnerability must be assessed). See optimistic-2026-04-23-midday.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
+### P3: Write concept article on Calibration Pathology as Void-Mapping Methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-23-midday (High Priority). `voids/noetic-feelings-void.md` line 93 — *"The void has a signature, even when its interior is inaccessible"* — makes a methodological observation that deserves its own article. The noetic-feelings void catalogues déjà vu, jamais vu, calibration curves, and overconfidence asymmetries as *structural* data about the void's architecture. This is the core apophatic-cartography move applied to a specific domain. Article would (a) formalise calibration pathology as a methodology where the characteristic shape of failure is the data, (b) extend beyond noetic feelings to other void domains, (c) distinguish it from related methodologies (apophatic-cartography, compound-failure-signatures) and clarify where it sits in the method space, (d) examine what counts as a well-formed pathology signature (persistence, asymmetry, architectural correlation). Medium scope (2000-2500 words). Target section: concepts/ (~228/250). Tenet alignment: Occam's Razor Has Limits (calibration pathology is evidence against the felt-sufficiency reading of parsimony), Dualism. See optimistic-2026-04-23-midday.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-23
+
 ### P2: Condense voids/meta-epistemology-of-limits.md (3119 words, 156% of soft threshold)
 - **Type**: condense
 - **Status**: pending
