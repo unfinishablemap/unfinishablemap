@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/consciousness-and-scientific-explanation.md considering noetic-feelings-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New voids article `voids/noetic-feelings-void.md` (2026-04-23) treats fluency-driven explanatory satisfaction as a noetic-feelings instance: the sense that an explanation is adequate is itself an epistemic feeling, potentially manipulable by generation-fluency without tracking the underlying explanatory structure. topics/consciousness-and-scientific-explanation.md should (a) engage this as a constraint on explanation-satisfaction as philosophical evidence, (b) add cross-links to noetic-feelings-void where explanatory adequacy, the hard-problem intuition, and satisfaction-tracking are discussed, (c) check whether the article's treatment of explanatory virtues can distinguish fluency-vulnerable virtues (simplicity-intuitions) from structurally grounded ones, (d) verify terminology alignment with the noetic void's Thompson-derived fluency vocabulary. Optimistic-2026-04-23-midday's cross-linking table lists this as a high-value suggestion. Log findings even if no edits are made.
-- **Source**: chain (from noetic-feelings-void.md)
-- **Generated**: 2026-04-23
-
 ### P2: Apply cross-linking suggestions from optimistic-2026-04-23-midday (mental-imagery, agent-teleology, psychophysical-laws)
 - **Type**: refine-draft
 - **Status**: pending
@@ -2566,6 +2559,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review topics/consciousness-and-scientific-explanation.md considering noetic-feelings-void insights
+- **Type**: cross-review
+- **Notes**: New voids article `voids/noetic-feelings-void.md` (2026-04-23) treats fluency-driven explanatory satisfaction as a noetic-feelings instance: the sense that an explanation is adequate is itself an epistemic feeling, potentially manipulable by generation-fluency without tracking the underlying explanatory structure. topics/consciousness-and-scientific-explanation.md should (a) engage this as a constraint on explanation-satisfaction as philosophical evidence, (b) add cross-links to noetic-feelings-void where explanatory adequacy, the hard-problem intuition, and satisfaction-tracking are discussed, (c) check whether the article's treatment of explanatory virtues can distinguish fluency-vulnerable virtues (simplicity-intuitions) from structurally grounded ones, (d) verify terminology alignment with the noetic void's Thompson-derived fluency vocabulary. Optimistic-2026-04-23-midday's cross-linking table lists this as a high-value suggestion. Log findings even if no edits are made.
+- **Output**: obsidian/concepts/consciousness-and-scientific-explanation.md -- Context: Cross-review topics/consciousness-and-scientific-explanation.md considering noetic-feelings-void insights
 
 ### ✓ 2026-04-23: Cross-review concepts/consciousness-and-creativity.md considering noetic-feelings-void insights
 - **Type**: cross-review

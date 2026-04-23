@@ -4,7 +4,7 @@ description: "Dualism does not stop science—it redirects it. Neural correlates
 created: 2026-02-23
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-03-22T13:57:00+00:00
+ai_modified: 2026-04-23T13:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,12 +29,13 @@ related_articles:
   - "[[dualism]]"
   - "[[philosophy-of-science-under-dualism]]"
   - "[[galilean-exclusion]]"
+  - "[[noetic-feelings-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-22T13:57:00+00:00
+last_deep_review: 2026-04-23T13:39:00+00:00
 ---
 
 The most common objection to dualism is not philosophical but practical: that it stops science. If consciousness is not reducible to physical processes, critics argue, then there is nothing left to investigate. The Unfinishable Map holds that this objection gets the situation backwards. Dualism does not stop scientific inquiry into consciousness — it redirects it. Reduction is one form of scientific explanation. It is not the only form. Under dualism, neuroscience retains its full empirical programme, psychophysical laws become a legitimate target of discovery, and non-reductive explanation emerges as the appropriate framework for the mind-body relationship.
@@ -119,7 +120,7 @@ The Unfinishable Map interprets scientific explanation under dualism as both tra
 
 The [[tenets#^dualism|Dualism]] tenet holds that consciousness is not reducible to physical processes. This article argues that irreducibility does not entail inexplicability. The relationship between consciousness and the physical world is lawful and investigable even if it is not a relationship of identity.
 
-The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly relevant. The charge that dualism is unscientific relies on treating reductive explanation as the simplest and therefore best framework. But if consciousness genuinely resists reduction — if the explanatory gap reflects ontology rather than ignorance — then the "simpler" physicalist account is simple only because it ignores what it cannot accommodate.
+The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet is directly relevant. The charge that dualism is unscientific relies on treating reductive explanation as the simplest and therefore best framework. But if consciousness genuinely resists reduction — if the explanatory gap reflects ontology rather than ignorance — then the "simpler" physicalist account is simple only because it ignores what it cannot accommodate. The judgement of "simpler" here is itself a felt verdict: the [[noetic-feelings-void|feeling of sufficiency]] that closes inquiry without disclosing how its verdict was reached.
 
 The [[tenets#^no-many-worlds|No Many Worlds]] tenet is a prerequisite for the framework presented here. If all quantum outcomes are realised in parallel branches, there are no indeterminate outcomes for consciousness to bias, and the "downward selection" category of psychophysical laws has no physical opening. The Map's rejection of MWI is what makes bidirectional interaction coherent.
 
@@ -137,6 +138,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet opens 
 - [[dualism]] — The converging arguments for irreducibility
 - [[philosophy-of-science-under-dualism]] — Broader implications for demarcation and theory choice
 - [[galilean-exclusion]] — The founding methodological decision that created the hard problem
+- [[noetic-feelings-void]] — Why the felt sense of "sufficient explanation" is itself opaque
 
 ## References
 
