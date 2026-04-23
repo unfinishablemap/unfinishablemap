@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-01-27
 modified: 2026-04-01
 human_modified: null
-ai_modified: 2026-04-22T16:38:00+00:00
+ai_modified: 2026-04-23T11:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,6 +35,7 @@ related_articles:
   - "[[narrative-void]]"
   - "[[transit-void]]"
   - "[[erasure-void]]"
+  - "[[expertise-and-its-occlusion]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -127,6 +128,7 @@ The necessary opacity occupies distinctive territory among the Map's [[voids]]:
 - The [[mutation-void]] concerns cases where attending to content *transforms* that content
 - The [[transit-void]] asks why consciousness cannot witness its own crossings—a specific instance where opacity is structurally required, since observing the crossing would require the observing stance to coexist with the crossing stance
 - The [[erasure-void]] concerns silent deletions rather than constitutive blind spots: lost capacities go unregistered because monitoring infrastructure shares fate with what it monitors, producing a completeness illusion that the inventory of self is intact
+- The [[expertise-and-its-occlusion|expertise void]] is a structural analogue in a different domain: consciousness cannot inspect automated skill without damaging it, just as consciousness cannot inspect its own representational structure without destabilising it. Both voids are self-protective and self-concealing—the attempt to look breaks what is looked at
 
 The necessary opacity asks something different: whether the *medium* of all mapping introduces systematic distortion, and whether exposing that distortion would break the system. [[Self-opacity|Introspective opacity]] means we cannot see the machinery; the necessary opacity means we cannot determine whether the machinery's output tracks reality, *and* that this ignorance may be required for the machinery to function at all.
 
@@ -200,6 +202,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[observation-and-measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards
 - [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings, including the onset of mental acts
 - [[erasure-void|The Erasure Void]] — Why cognitive losses go silent: the monitoring system shares fate with the monitored
+- [[expertise-and-its-occlusion|The Expertise Void]] — The structural analogue in the domain of skill: looking at automated competence breaks it
 - [[non-human-minds-as-void-explorers]] — AI and alien minds as potential void-explorers
 - [[voids-between-minds|The Intersubjective Void]] — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 

@@ -4,7 +4,7 @@ description: "How deep expertise irreversibly transforms conscious experience an
 created: 2026-03-05
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T02:38:00+00:00
+ai_modified: 2026-04-23T11:25:00+00:00
 last_deep_review: 2026-04-23T02:38:00+00:00
 draft: false
 topics:
@@ -17,6 +17,7 @@ concepts:
   - "[[embodied-cognition]]"
   - "[[implicit-memory]]"
   - "[[skill-delegation]]"
+  - "[[delegatory-causation]]"
   - "[[mental-causation-and-downward-causation]]"
 related_articles:
   - "[[voids]]"
@@ -34,6 +35,8 @@ related_articles:
   - "[[attention-and-consciousness]]"
   - "[[transition-void]]"
   - "[[conceptual-metabolism-void]]"
+  - "[[source-attribution-void]]"
+  - "[[necessary-opacity]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -62,7 +65,7 @@ Merleau-Ponty's phenomenology anticipated these findings. His concept of the *in
 
 ## The Lock: Reinvestment and Choking
 
-That consciousness withdraws from automated skill is uncontroversial. The void's distinctive claim is sharper: consciousness loses the ability to return without damaging the skill it once built. Reinvestment theory provides the evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [[choking-phenomenon-mental-causation|choking under pressure]]. The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles. The expert cyclist who attends to their balance falls.
+That consciousness withdraws from automated skill is uncontroversial—the procedural handoff mechanism is [[skill-delegation]], which [[delegatory-causation]] treats as the inverse direction of the Saad mechanism: experience delegating causal work to procedure rather than physical states delegating to experience. The void's distinctive claim is sharper: after this withdrawal, consciousness loses the ability to return without damaging the skill it once built. Preemption becomes structural, and the attempt at re-entry is the lock itself. Reinvestment theory provides the evidence. When anxious experts attempt to consciously control what has become automatic—"reinvesting" explicit knowledge into automated performance—the skill degrades (Masters, 1992). High reinvesters display greater susceptibility to [[choking-phenomenon-mental-causation|choking under pressure]]. The athlete who thinks about their swing misses the ball. The pianist who attends to their fingers stumbles. The expert cyclist who attends to their balance falls.
 
 This goes beyond the gradual fading of an unused capacity. The barrier is *functional*: performance degrades whenever consciousness crosses it. Polanyi captured the structural reason in a single image: "You cannot use your spectacles to scrutinize your spectacles" (Polanyi, 1966). The instruments of tacit knowing cannot simultaneously serve as objects of knowing. Focus on the subsidiary and the integrated meaning dissolves.
 
@@ -70,7 +73,7 @@ This goes beyond the gradual fading of an unused capacity. The barrier is *funct
 
 The defended boundary has a memory dimension. Høffding and Montero (2020) document *expertise-induced amnesia*: as skill increases, declaratively accessible episodic memories of performance systematically decrease. Elite athletes have poor memories for how they executed their skill. Expert musicians cannot recall what they did during peak performances. Procedural knowledge runs without generating the episodic traces that conscious recall requires.
 
-This creates a double occlusion. The expert cannot access their expertise in real time (the spectacles problem) and cannot access it retrospectively (expertise-induced amnesia). The void extends across both present and past.
+This creates a double occlusion. The expert cannot access their expertise in real time (the spectacles problem) and cannot access it retrospectively (expertise-induced amnesia). The void extends across both present and past. Expertise-induced amnesia is also structurally a case of the [[source-attribution-void]] where the "source" is the expert's own past performance: the procedural trace runs reliably, but no episodic trace specifies how or when the skill arrived. What could have been a native origin-tag—"I built this capacity through these training hours"—is the very thing skill consolidation strips out.
 
 The *expert blind spot* (Nathan & Petrosino, 2003) reveals the practical consequences. The longer experts work in their domain, the further they drift from the novice perspective. Content expertise can impair teaching—the scaffolding of learning is dismantled as skill consolidates, and the expert cannot reconstruct steps they no longer take. The best teachers are often not the deepest experts but those who retain partial access to the territory between novice and master. The *curse of knowledge* (Camerer, Loewenstein, & Weber, 1989) provides experimental confirmation: once you know something, you cannot accurately reconstruct what it was like not to know it. The bias is asymmetric and resists debiasing—telling people about it or providing financial incentives does not reduce it. In Newton's (1990) tapper experiment, people who tapped out a melody dramatically overestimated how recognisable it would be, because they could not hear the bare tapping as others heard it.
 
@@ -128,12 +131,15 @@ Three features of the void carry weight beyond the phenomenology itself.
 
 The expertise void also connects to the [[biological-cognitive-closure|developmental void]]—a close structural analogue where cognitive maturation rather than training produces irreversible closure. Both demonstrate that consciousness is not a passive accumulator of information but an active system that restructures itself through engagement with the world, losing access to its prior configurations in the process.
 
+It also parallels [[necessary-opacity]] at a structural level. Both voids treat self-examination as limited not merely by ignorance but by damage: necessary-opacity because consciousness cannot inspect its own representational structure without destabilising the system that depends on it; the expertise void because consciousness cannot inspect automated skill without disrupting the function that made the skill possible. Self-protection and self-concealment are the common structural signatures—two domains in which looking breaks what is looked at.
+
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[three-kinds-of-void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[consciousness-and-skill-acquisition]] — How the stages of skill acquisition challenge epiphenomenalism
 - [[skill-delegation]] — The three-phase process (calibration, withdrawal, retained override) that creates the void when withdrawal becomes irreversible
+- [[delegatory-causation]] — The inverse direction of the Saad mechanism: skill-delegation as experience preempting procedure
 - [[choking-phenomenon-mental-causation]] — Choking as evidence for mental causation and the lock in action
 - [[hoel-llm-consciousness-continual-learning]] — Why frozen-weight systems cannot replicate the void's irreversible transformation
 - [[disappearance-voids]] — The companion absorption, habituation, and fatigue mechanisms
@@ -142,6 +148,8 @@ The expertise void also connects to the [[biological-cognitive-closure|developme
 - [[imagination-and-creativity-void]] — Where creative insight originates beyond the expert's introspective reach
 - [[pre-conceptual-knowing]] — Knowledge that precedes conceptual articulation
 - [[self-opacity]] — The subject that cannot be its own object
+- [[source-attribution-void]] — Expertise-induced amnesia as a case where one's own past performance is the unattributable source
+- [[necessary-opacity]] — The parallel void: consciousness cannot inspect its own representational structure without destabilising it
 - [[attention-and-consciousness]] — How attention structurally creates voids
 
 ## References

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 11:20:00+00:00
+ai_modified: 2026-04-23 11:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 11:25 UTC - refine-draft
+- **Status**: Success
+- **Task**: Add cross-links from optimistic-2026-04-23 across trumping/expertise/necessary-opacity cluster
+- **Files modified**:
+  - [[concepts/trumping-preemption]] — Added `[[agent-causation]]` cross-link in §"What Trumping Isolates" with integrative sentence applying authority/sufficiency decoupling to agent-causal libertarianism. Added `[[interface-formalization-void]]` cross-reference in the fiction-to-nature paragraph, framing the absence of a non-stipulative authority-law as a specific case of that void. Frontmatter + Further Reading updated.
+  - [[concepts/agent-causation]] — Added `[[trumping-preemption]]` to concepts frontmatter and Further Reading. Added complementary-response paragraph in §"The Causal Closure Question" explaining that trumping offers a structural route by which agent-causal talk does not require trajectory deviation from physical sufficiency.
+  - [[voids/expertise-and-its-occlusion]] — Added prominent `[[skill-delegation]]` + `[[delegatory-causation]]` citations at the opening of §"The Lock: Reinvestment and Choking" (procedural handoff mechanism; inverse direction of Saad mechanism). Added `[[source-attribution-void]]` structural-cousin paragraph at the end of §"Expertise-Induced Amnesia". Added `[[necessary-opacity]]` parallel paragraph at the end of §"Relation to Site Perspective" (both voids treat self-examination as limited by damage rather than ignorance). Frontmatter + Further Reading updated.
+  - [[voids/necessary-opacity]] — Added `[[expertise-and-its-occlusion]]` entry in §"Distinguishing This Void" list (structural analogue in skill domain). Frontmatter + Further Reading updated.
+  - [[voids/source-attribution-void]] — Added `[[expertise-and-its-occlusion]]` structural-cousin sentence at the end of the source-amnesia paragraph in §"Evidence from the Seams". Frontmatter + Further Reading updated.
+- **Scope**: Six cross-links added per the optimistic-2026-04-23 Cross-Linking Suggestions table. Link additions plus brief integrative sentences; no structural rewrites.
+- **Published**: yes
 
 ## 2026-04-23 11:14 UTC - research-voids
 - **Status**: Success

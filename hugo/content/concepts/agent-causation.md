@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-20 20:38:00+00:00
+ai_modified: 2026-04-23 11:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,6 +22,7 @@ concepts:
 - '[[pairing-problem]]'
 - '[[causal-interface]]'
 - '[[mental-causation-and-downward-causation]]'
+- '[[trumping-preemption]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[explanatory-gap]]'
 - '[[authentic-vs-inauthentic-choice]]'
@@ -107,6 +108,8 @@ Kim's exclusion argument against [mental causation](/concepts/mental-causation-a
 Substance causation shifts the dialectic. The question isn't whether physical *events* are sufficient but whether physical *substances* are the only substances with causal powers. Physics describes regularities in what substances do; it doesn't prove that only physical substances exist.
 
 The Map's quantum framework strengthens this response. At quantum indeterminacies, physics specifies probabilities but not outcomes—there's no sufficient physical cause because physics is genuinely incomplete there. The exclusion argument fails because its key premise fails: physical events *don't* have sufficient physical causes at quantum measurement.
+
+A complementary response uses [trumping-preemption](/concepts/trumping-preemption/): even granting physical sufficiency, the agent can be the *authoritative* cause of an action that a sufficient physical process also produced. Sufficiency and authority decouple, so agent-causal talk does not require trajectory deviation from physical sufficiency—what agent causation claims about *who* causes is distinct from what closure claims about *what is sufficient*.
 
 ### Challenges to Substance Causation
 
@@ -236,6 +239,7 @@ Against [epiphenomenalism](/concepts/epiphenomenalism/): substance causation com
 - [voluntary-attention-control-mechanisms](/concepts/voluntary-attention-control-mechanisms/) — Frontal decision circuits, salience network switching, and thalamic gating
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The agency-passivity axis that empirically grounds agent causation
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase delegation pattern, choking phenomenon, and parallel with [causal delegation](/concepts/delegatory-causation/)
+- [trumping-preemption](/concepts/trumping-preemption/) — The authority-vs-sufficiency decoupling that gives agent causation a structural template
 - [Mental Causation and Downward Causation](/concepts/mental-causation-and-downward-causation/) — How mental states cause physical effects at quantum indeterminacies
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence
 - [causal-closure](/concepts/causal-closure/) — The principle substance causation challenges

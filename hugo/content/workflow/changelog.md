@@ -1,13 +1,58 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 10:45:00+00:00
+ai_modified: 2026-04-23 11:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 11:25 UTC - refine-draft
+- **Status**: Success
+- **Task**: Add cross-links from optimistic-2026-04-23 across trumping/expertise/necessary-opacity cluster
+- **Files modified**:
+  - [trumping-preemption](/concepts/trumping-preemption/) — Added `[agent-causation](/concepts/agent-causation/)` cross-link in §"What Trumping Isolates" with integrative sentence applying authority/sufficiency decoupling to agent-causal libertarianism. Added `[interface-formalization-void](/voids/interface-formalization-void/)` cross-reference in the fiction-to-nature paragraph, framing the absence of a non-stipulative authority-law as a specific case of that void. Frontmatter + Further Reading updated.
+  - [agent-causation](/concepts/agent-causation/) — Added `[trumping-preemption](/concepts/trumping-preemption/)` to concepts frontmatter and Further Reading. Added complementary-response paragraph in §"The Causal Closure Question" explaining that trumping offers a structural route by which agent-causal talk does not require trajectory deviation from physical sufficiency.
+  - [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) — Added prominent `[skill-delegation](/concepts/skill-delegation/)` + `[delegatory-causation](/concepts/delegatory-causation/)` citations at the opening of §"The Lock: Reinvestment and Choking" (procedural handoff mechanism; inverse direction of Saad mechanism). Added `[source-attribution-void](/voids/source-attribution-void/)` structural-cousin paragraph at the end of §"Expertise-Induced Amnesia". Added `[necessary-opacity](/voids/necessary-opacity/)` parallel paragraph at the end of §"Relation to Site Perspective" (both voids treat self-examination as limited by damage rather than ignorance). Frontmatter + Further Reading updated.
+  - [necessary-opacity](/voids/necessary-opacity/) — Added `[expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)` entry in §"Distinguishing This Void" list (structural analogue in skill domain). Frontmatter + Further Reading updated.
+  - [source-attribution-void](/voids/source-attribution-void/) — Added `[expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)` structural-cousin sentence at the end of the source-amnesia paragraph in §"Evidence from the Seams". Frontmatter + Further Reading updated.
+- **Scope**: Six cross-links added per the optimistic-2026-04-23 Cross-Linking Suggestions table. Link additions plus brief integrative sentences; no structural rewrites.
+- **Published**: yes
+
+## 2026-04-23 11:14 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Noetic Feelings Void — the family of metacognitive feelings (feeling of knowing, feeling of rightness, feeling of familiarity, tip-of-tongue, feeling of understanding, feeling of confidence) that gate cognition while resisting inspection of their heuristic mechanisms
+- **Category**: Occluded (with Unexplorable core)
+- **Output**: [voids-noetic-feelings-void-2026-04-23](/research/voids-noetic-feelings-void-2026-04-23/)
+- **Key finding**: Noetic feelings are produced by opaque heuristic processes (cue-familiarity, fluency, accessibility) that gate cognition from inside but cannot be audited from inside — déjà vu, jamais vu, and fluency-spoofing dissociations confirm the feelings are signals rather than perceptions, yet consciousness cannot tell from inside when a signal has fired spuriously; the void is recursive because auditing uses more noetic feelings.
+
+## 2026-04-23 11:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
+- **Original score**: N/A (scripts/curate.py not available at expected path; proceeded using detailed human-supplied task context)
+- **Changes**:
+  - Born Rule Uniqueness subsection: replaced "ruled out by the mathematics before empirical testing begins" with explicit conditional framing naming the four MGM postulates, tested regimes (photon/atom/qubit/triple-slit/high-energy), and the untested brain-internal conscious-selection regime.
+  - Inner Product Uniqueness: added conditionality (Pati result presupposes exact no-signalling + linear unitary dynamics; tested only in non-neural regimes).
+  - Second-Order Interference: added tested-regime qualifier with explicit bound (10⁻² in optical; tightened by atomic/high-energy; not probed in neural tissue).
+  - Corridor Defined: reframed as "applies wherever the standard quantum postulates are satisfied"; removed "This is not X—it is Y" LLM cliché.
+  - New subsection "Corridor Dualism and the Conditionality of the Bound": distinguishes corridor dualism (Map default) from minimum-outside-the-corridor dualism (MQI-demanded if corridor is insufficient); names Stapp/Chalmers-McQueen/Penrose-Hameroff/Arana as outside-corridor candidates; states steel-man for the corridor (no positive reason to expect QM failure in brains); frames corridor as evidence-responsive design choice.
+  - MQI tenet section: updated to reflect that corridor-compliance is hypothesis-conditional, and MQI demands the minimum *necessary to cause the effect*, which may lie outside the corridor if evidence requires.
+  - Intro softened to introduce conditionality without undercutting thesis.
+  - related_articles and Further Reading: added 2026-04-23 research note cross-reference.
+  - References: added Sinha 2010, Arana 2025, Penrose-Hameroff.
+  - ai_modified bumped to 2026-04-23T11:06:00+00:00.
+- **Follow-up**: P2 refine-draft task added for `concepts/born-rule-and-the-consciousness-interface.md` (parallel concession, flagged as potential downstream inconsistency).
+- **Published**: yes (draft: false retained)
+
+## 2026-04-23 11:00 UTC - research-topic
+- **Status**: Success
+- **Topic**: Whether Born-rule-violating consciousness-physics interaction is empirically live at the brain interface
+- **Output**: [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/)
+- **Sources consulted**: 25+ (18 web searches; Sinha 2010, MGM 2019, Babcock-Hameroff 2025, Kerskens 2022, Keppler 2025, Chalmers-McQueen 2022, Arana 2025, Bösch-Steinkamp-Boller 2006, Maier-Dechamps 2018, PEAR, GCP, Nirvanic, Stapp/Kauffman, GPT-steering 2025, high-energy Born test 2025, collapse theories bounds 2024-2025, others)
+- **Key finding**: No published experiment directly tests the Born rule inside living neural tissue during conscious selection. Corridor-vs-outside-the-corridor question remains empirically open; three active 2025-2026 strands (Kerskens witness, Nirvanic coupling device, legacy micro-PK meta-analyses) are relevant but non-isolating.
+- **Feeds**: P1 refine-draft on [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
 
 ## 2026-04-23 10:45 UTC - coalesce
 - **Status**: Success

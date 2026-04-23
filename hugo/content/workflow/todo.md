@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-22 23:39:00+00:00
+ai_modified: 2026-04-23 00:00:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -38,19 +38,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks to archived whether-real.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Coalesce 2026-04-23 merged `voids/whether-real.md` into `voids/meta-epistemology-of-limits.md` (archived at `archive/voids/whether-real.md`). 73 obsidian files contain `[whether-real](/voids/meta-epistemology-of-limits/)` wikilinks — most in active `voids/` articles, some in `concepts/`, plus many in `research/` and `reviews/` (historical, likely OK to leave). For active content (topics/, concepts/, voids/, apex/), evaluate whether each link should: (a) be updated to `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` (the new target) — usually appropriate when the citing passage references the core "are voids real" argument; (b) stay as-is pointing to the archive page (when the citing passage references whether-real specifically as a prior coalesced article it supersedes); or (c) be removed if redundant. Focus on: `voids/three-kinds-of-void.md`, `voids/voids.md`, `voids/limits-reveal-structure.md`, `voids/voids-as-evidence.md`, `voids/apophatic-cartography.md`, `voids/formal-cognitive-limits.md`, `voids/understanding-void.md`, `voids/biological-cognitive-closure.md`, `voids/self-maintained-cognitive-limits.md`, `voids/compound-failure-signatures.md`, `voids/tenet-generated-voids.md`, `voids/appetitive-void.md`, `voids/agency-verification-void.md`, `voids/binding-void.md`, `voids/origin-of-consciousness.md`, `voids/the-surplus-void.md`, `voids/closure-types-void.md`, `voids/framework-void.md`, `voids/void-as-ground-of-meaning.md`, `voids/epistemological-limits-occams-razor.md`, `voids/observation-and-measurement-void.md`, `voids/necessary-opacity.md`, `apex/taxonomy-of-voids.md`, `concepts/mysterianism.md`, `concepts/epistemology-of-limit-knowledge.md`. Skip `research/` and `reviews/` — those are archival records that should preserve original wording.
-- **Source**: coalesce (2026-04-23)
-- **Generated**: 2026-04-23
-
 ### P2: Add cross-links from optimistic-2026-04-23 across trumping/expertise/necessary-opacity cluster
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: completed
+- **Completed**: 2026-04-23
 - **Notes**: Suggested by optimistic-2026-04-23 Cross-Linking Suggestions table. Six high-value cross-links currently missing in the recently-active cluster: (1) `concepts/trumping-preemption.md` → `voids/interface-formalization-void.md` — the fiction-to-nature disanalogy paragraph (line 58) implies no non-stipulative authority-law is currently derivable from physics, a specific case of the interface-formalisation void; the two should cross-reference in body text. (2) `concepts/trumping-preemption.md` ↔ `concepts/agent-causation.md` (bidirectional) — the authority/sufficiency decoupling is directly relevant to agent-causation theories: an agent can be the authoritative cause of a movement that is also physically sufficient without the agent's intervention. (3) `voids/expertise-and-its-occlusion.md` → `concepts/skill-delegation.md` body citation — currently in related_articles and Further Reading only; the Lock section at lines 62-66 (where procedural handoff happens) should cite skill-delegation prominently as the mechanism. (4) `voids/expertise-and-its-occlusion.md` → `concepts/delegatory-causation.md` — skill-delegation is treated in delegatory-causation as the inverse direction of the Saad mechanism (lines 156-160); the expertise void is a case study in lock-on after skill-delegation withdrawal. Add explicit cross-reference. (5) `voids/expertise-and-its-occlusion.md` ↔ `voids/source-attribution-void.md` — expertise-induced amnesia (lines 68-72) is structurally a case of source-attribution failure where the "source" is the expert's own past performance. (6) `voids/necessary-opacity.md` ↔ `voids/expertise-and-its-occlusion.md` — both treat self-examination as structurally limited (necessary-opacity: consciousness cannot inspect its own representational structure; expertise-occlusion: consciousness cannot inspect automated skill without damaging it); the parallel deserves explicit mention. Short scope (link additions and brief integrative sentences where appropriate). See `obsidian/reviews/optimistic-2026-04-23.md` Cross-Linking Suggestions table.
 - **Source**: optimistic-review
 - **Generated**: 2026-04-23
+- **Output**: concepts/trumping-preemption.md, concepts/agent-causation.md, voids/expertise-and-its-occlusion.md, voids/necessary-opacity.md, voids/source-attribution-void.md
 
 ### P2: Cross-review topics/mathematical-structure-of-the-consciousness-physics-interface.md considering trumping-preemption insights
 - **Type**: cross-review
@@ -2566,6 +2561,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Refine topics/mathematical-structure-of-the-consciousness-physics-interface.md to concede the conditionality of the Born-rule corridor and acknowledge that Born-violating brain-internal interaction may be where the minimum-necessary interaction actually lies
+- **Type**: refine-draft
+- **Notes**: The article currently overreaches in the Born Rule Uniqueness subsection and, to a lesser extent, in the Inner Product Uniqueness and Second-Order Interference subsections. Specifically, the sentence "Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins" claims that mathematics rules out empirical possibilities in untested regimes. This is stronger than the Masanes-Galley-Müller theorem supports. The theorem is *conditional*: given the four postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness), the Born rule is unique. The theorem cannot legislate which postulates physical reality satisfies in regimes where we have not measured.
+- **Output**: obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md
+
+Task context:
+The article currently overreaches in the Born Rule Uniqueness subsection and, to a lesser extent, in the Inner Product Uniqueness and Second-Order Interference subsections. Specifically, the sentence "Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins" claims that mathematics rules out empirical possibilities in untested regimes. This is stronger than the Masanes-Galley-Müller theorem supports. The theorem is *conditional*: given the four postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness), the Born rule is unique. The theorem cannot legislate which postulates physical reality satisfies in regimes where we have not measured.
+
+### ✓ 2026-04-23: Refine topics/mathematical-structure-of-the-consciousness-physics-interface.md to concede the conditionality of the Born-rule corridor and acknowledge that Born-violating brain-internal interaction may be where the minimum-necessary interaction actually lies
+- **Type**: refine-draft
+- **Notes**: The article currently overreaches in the Born Rule Uniqueness subsection and, to a lesser extent, in the Inner Product Uniqueness and Second-Order Interference subsections. Specifically, the sentence "Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins" claims that mathematics rules out empirical possibilities in untested regimes. This is stronger than the Masanes-Galley-Müller theorem supports. The theorem is *conditional*: given the four postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness), the Born rule is unique. The theorem cannot legislate which postulates physical reality satisfies in regimes where we have not measured.
+- **Output**: obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md
+
+Task context:
+The article currently overreaches in the Born Rule Uniqueness subsection and, to a lesser extent, in the Inner Product Uniqueness and Second-Order Interference subsections. Specifically, the sentence "Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins" claims that mathematics rules out empirical possibilities in untested regimes. This is stronger than the Masanes-Galley-Müller theorem supports. The theorem is *conditional*: given the four postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness), the Born rule is unique. The theorem cannot legislate which postulates physical reality satisfies in regimes where we have not measured.
+
+### ✓ 2026-04-23: Research whether Born-rule-violating consciousness-physics interaction is empirically live at the brain interface
+- **Type**: research-topic
+- **Notes**: The Born rule uniqueness result (Masanes, Galley, Müller 2019), the inner-product-from-no-signalling result (Pati 2026), and Sorkin's third-order interference bound (1994) are all *conditional* on the standard QM postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness) and have been *empirically* tested only in photon/atom/superconductor/triple-slit systems. None of these tests probes what happens inside a living brain *during a conscious act of selection*, which is precisely the regime the Map's interface programme targets. If Born-violating behaviour happens only there, we would not have measured it.
+- **Output**: whether Born-rule-violating consciousness-physics interaction is empirically live at the brain interface
 
 ### ✓ 2026-04-23: Cross-review concepts/psychophysical-laws.md considering trumping-preemption insights
 - **Type**: cross-review

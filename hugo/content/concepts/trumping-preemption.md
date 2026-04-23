@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-04-23 04:40:00+00:00
+ai_modified: 2026-04-23 11:25:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[delegatory-causation]]'
 - '[[interactionist-dualism]]'
 - '[[mental-causation-and-downward-causation]]'
+- '[[agent-causation]]'
 - '[[galilean-exclusion]]'
 - '[[causal-closure]]'
 - '[[observational-closure]]'
@@ -27,6 +28,7 @@ modified: *id001
 related_articles:
 - '[[delegatory-causation]]'
 - '[[objections-to-interactionism]]'
+- '[[interface-formalization-void]]'
 - '[[tenets]]'
 title: Trumping Preemption
 topics:
@@ -54,11 +56,11 @@ Critics in the subsequent literature (Schaffer 2005; Hitchcock 2011; Bernstein 2
 
 Whatever one concludes about the metaphysics, the conceptual move Schaffer makes is independently useful: he separates the question "could this process have produced the effect by itself?" from the question "is this process the cause?" Standard accounts tend to collapse these. Trumping pulls them apart, and invites a meta-level rule to do the selecting.
 
-Call this the *authority layer*. In the magic case, the authority layer is "first spell of the day." In the military case, it is rank. The authority layer does not add or subtract physical work; it adjudicates which of the sufficient processes counts as *the* cause for purposes of attribution, explanation, and whatever else follows from being a cause. This is what makes trumping interesting beyond its role in the counterfactual-theory debate: within the counterfactual-theory tradition, it is among the most systematically worked-out philosophical models of a causal structure in which authority and sufficiency are decoupled. Adjacent decouplings appear in agency-theoretic work — the distinction between an action's causal production and its being *attributable* to the agent — though those treatments aim at a different target.
+Call this the *authority layer*. In the magic case, the authority layer is "first spell of the day." In the military case, it is rank. The authority layer does not add or subtract physical work; it adjudicates which of the sufficient processes counts as *the* cause for purposes of attribution, explanation, and whatever else follows from being a cause. This is what makes trumping interesting beyond its role in the counterfactual-theory debate: within the counterfactual-theory tradition, it is among the most systematically worked-out philosophical models of a causal structure in which authority and sufficiency are decoupled. Adjacent decouplings appear in [agency-theoretic work](/concepts/agent-causation/) — the distinction between an action's causal production and its being *attributable* to the agent — and the template applies there directly: an agent can be the authoritative cause of a bodily movement that is also physically sufficient without the agent's intervention, which is the structure agent-causal libertarianism needs but has historically struggled to articulate.
 
 ## Applying the Template to Mental Causation
 
-Before importing the structure into psychophysics, one disanalogy should be flagged. Schaffer's cases are fictional (laws of magic) or conventional (military rank): in both, the authority-selecting rule is stipulated by agents, and our confidence that Merlin rather than Morgana is *the* cause tracks the fictional stipulation. Nature is not in the business of stipulating such rules, and Schaffer's structure on its own gives no reason to expect a non-stipulative analogue to exist at the psychophysical level. The template shows *how* a dualism with sufficiency-without-authority could be articulated; it does not show that such a dualism is *warranted*. The case for a psychophysical authority law has to come from elsewhere — the explanatory gap, the hard problem, the Map's [tenets](/tenets/) — and the structural template earns its place only once that independent case is in hand.
+Before importing the structure into psychophysics, one disanalogy should be flagged. Schaffer's cases are fictional (laws of magic) or conventional (military rank): in both, the authority-selecting rule is stipulated by agents, and our confidence that Merlin rather than Morgana is *the* cause tracks the fictional stipulation. Nature is not in the business of stipulating such rules, and Schaffer's structure on its own gives no reason to expect a non-stipulative analogue to exist at the psychophysical level. This absence is a specific instance of the [interface-formalization-void](/voids/interface-formalization-void/): a candidate psychophysical authority-law would have to couple structural physics to the actuality of experience, which is exactly the region where formal language runs out. The template shows *how* a dualism with sufficiency-without-authority could be articulated; it does not show that such a dualism is *warranted*. The case for a psychophysical authority law has to come from elsewhere — the explanatory gap, the hard problem, the Map's [tenets](/tenets/) — and the structural template earns its place only once that independent case is in hand.
 
 The exclusion problem in its canonical Kimian form (Kim 1998) turns on physical sufficiency. If the physical base of an experience is causally sufficient for a physical effect, there seems to be no work left for the experience itself to do. Without a principled alternative, the dualist is pushed toward either epiphenomenalism (the experience does not cause anything) or systematic overdetermination (the experience and its base both cause the same effect).
 
@@ -88,6 +90,7 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 - [delegatory-causation](/concepts/delegatory-causation/)
 - [interactionist-dualism](/concepts/interactionist-dualism/)
 - [mental-causation-and-downward-causation](/concepts/mental-causation-and-downward-causation/)
+- [agent-causation](/concepts/agent-causation/)
 - [galilean-exclusion](/concepts/galilean-exclusion/)
 - [objections-to-interactionism](/concepts/objections-to-interactionism/)
 - [causal-closure](/concepts/causal-closure/)
@@ -95,6 +98,7 @@ The Map speculates — more cautiously than Saad does — that trumping is best 
 - [psychophysical-laws](/concepts/psychophysical-laws/)
 - [conservation-laws-and-mental-causation](/concepts/conservation-laws-and-mental-causation/)
 - [epiphenomenalism](/concepts/epiphenomenalism/)
+- [interface-formalization-void](/voids/interface-formalization-void/)
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
 - [tenets](/tenets/)
 
@@ -131,6 +135,11 @@ Changes made in response to pessimistic review 2026-04-22:
 
 Second pass 2026-04-23:
 - Qualified "the first worked-out philosophical model" in §"What Trumping Isolates" to "within the counterfactual-theory tradition … among the most systematically worked-out," with a nod to agency-theoretic adjacent decouplings (addresses remaining unsupported-claim row from pessimistic review)
+
+Third pass 2026-04-23 (cross-link additions from optimistic-2026-04-23 review):
+- Added explicit [agent-causation](/concepts/agent-causation/) cross-link in §"What Trumping Isolates" with an integrative sentence applying the template directly to agent-causal libertarianism
+- Added [interface-formalization-void](/voids/interface-formalization-void/) cross-reference in the fiction-to-nature paragraph, framing the absence of a non-stipulative authority-law as a specific case of that void
+- Added both links to frontmatter (concepts / related_articles) and Further Reading
 
 This log should be removed after human review.
 -->

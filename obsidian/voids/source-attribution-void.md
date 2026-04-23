@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-21T19:38:00+00:00
+ai_modified: 2026-04-23T11:25:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[erasure-void]]"
   - "[[interface-formalization-void]]"
   - "[[recognition-void]]"
+  - "[[expertise-and-its-occlusion]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -56,7 +57,7 @@ Three experimental programmes probe the void at its seams.
 
 **Cryptomnesia.** Brown and Murphy (1989) documented that in category-fluency tasks, subjects routinely "originate" ideas they had encountered before but forgotten encountering, at single-digit percentage rates that varied by task condition (recall-own versus recognise-own, generate-new versus recall-primed). Crucially, the subject is confident of originality. The mechanism appears to be what the reviewers call fluency-based attribution: the ease with which a thought arrives is misread as evidence that it is self-generated. High fluency and self-origination share surface features in memory, and the system collapses them.
 
-**Source amnesia.** The Schacter, Harbluk and McLachlan (1984) line of work, extended across decades, finds that for most of what we know, we cannot recover how we came to know it. Wikipedia's review of the literature observes that "everybody experiences source amnesia on a near daily basis, as for much of our knowledge it is important to remember the knowledge itself, rather than its source." Semantic memory (the fact) and episodic memory (the acquisition context) routinely decouple. Most beliefs operate as orphaned content—known to be true, with no recoverable provenance.
+**Source amnesia.** The Schacter, Harbluk and McLachlan (1984) line of work, extended across decades, finds that for most of what we know, we cannot recover how we came to know it. Wikipedia's review of the literature observes that "everybody experiences source amnesia on a near daily basis, as for much of our knowledge it is important to remember the knowledge itself, rather than its source." Semantic memory (the fact) and episodic memory (the acquisition context) routinely decouple. Most beliefs operate as orphaned content—known to be true, with no recoverable provenance. The [[expertise-and-its-occlusion|expertise void]] is a structural cousin: expertise-induced amnesia leaves the expert's own past performance as an unattributable source—the procedural trace runs reliably, but no episodic trace specifies how or when the skill arrived.
 
 Taken together, these programmes converge on a single structural finding: where source is not encoded, source cannot be read; where source is partially encoded, the features used for inference are weakly correlated with actual origin and collapse under predictable conditions.
 
@@ -132,6 +133,7 @@ Three implications follow for how the Map thinks about the first person:
 - [[erasure-void]] — The zero-signal structure of lost capacities
 - [[recognition-void]] — Failures that do not present as questions
 - [[interface-formalization-void]] — The interface does not present its own operations
+- [[expertise-and-its-occlusion]] — Expertise-induced amnesia as a special case: one's own past performance as unattributable source
 
 ## References
 
