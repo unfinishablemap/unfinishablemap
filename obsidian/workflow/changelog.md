@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 14:54:00+00:00
+ai_modified: 2026-04-23 15:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 15:00 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/pragmatist-quantum-foundations-and-the-agent]] — selected because today's deep-review cross-review pass (14:38 UTC) explicitly declined to reopen "bedrock disagreements" (MWI defenders, eliminativists, QBist anti-realists) and a pessimistic review is the appropriate venue for those. No prior pessimistic review of this article on file.
+- **Findings**: 6 issues surfaced (2 High / 3 Medium / 1 Low-Medium). High: (1) agent-sense equivocation (decision-theoretic vs phenomenal) is load-bearing but unargued; (2) Stapp decoherence rebuttal cites the wrong programme (Hagan-Hameroff is Orch-OR, transactional/TSVF are rival mechanisms) and neither source is in References. Medium: (3) corridor-reading unfalsifiability is not confessed; (4) Jamesian genealogy over-reads James as dualist (radical empiricism, Peirce, Dewey admit non-dualist readings); (5) "primitive in theory" conflated with "metaphysically irreducible"; (6) Healey boundary-drawing objection asserted without counterexample. None require structural reorganisation.
+- **Output**: [[reviews/pessimistic-2026-04-23b]]
+- **Action**: Added P2 refine-draft task `Address findings in pragmatist-quantum-foundations-and-the-agent.md from pessimistic-2026-04-23b` to `workflow/todo.md`
 
 ## 2026-04-23 14:54 UTC - refine-draft
 - **Status**: Success (verification pass — no further substantive edits)

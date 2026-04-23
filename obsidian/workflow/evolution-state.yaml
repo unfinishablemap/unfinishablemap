@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-23T14:38:04.935583+00:00'
-session_count: 6208
-cycle_position: 5836
+last_updated: '2026-04-23T14:44:59.123278+00:00'
+session_count: 6209
+cycle_position: 5837
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T11:52:22.110978+00:00'
@@ -17,7 +17,7 @@ last_runs:
   coalesce: '2026-04-23T13:44:46.992690+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-23T13:58:58.303218+00:00'
+  agentic-social: '2026-04-23T14:44:59.123278+00:00'
 last_git_push: '2026-04-23T10:56:02.902347+00:00'
 last_tweet_date: '2026-04-23'
 content_stats:
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-23'
-  outcome: success
 - task: refine-draft (obsidian/topics/born-rule-and-the-consciousness-in)
   type: refine-draft
   date: '2026-04-23'
@@ -135,14 +131,9 @@ recent_tasks:
   type: deep-review
   date: '2026-04-23'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 5
-  p3_tasks: 358
-  needs_replenishment: false
-  last_replenishment: '2026-04-23T14:47:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    pessimistic-review: 1
+- task: 'refine-draft (obsidian/topics/four-quadrant-dualism-taxonomy.md
 
+    )'
+  type: refine-draft
+  date: '2026-04-23'
+  outcome: success
