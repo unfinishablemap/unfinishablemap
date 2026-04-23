@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 12:20:00+00:00
+ai_modified: 2026-04-23 12:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 12:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]]
+- **Context**: P2 chain-generated refine-draft (todo.md line 40) flagged by 2026-04-23 11:39 UTC deep-review of [[topics/mathematical-structure-of-the-consciousness-physics-interface]] as a downstream inconsistency — the sibling article had corridor-conditionality installed at 11:06 UTC and a "Trumping dualism" third position added at 11:39 UTC; this article did not yet reflect either move
+- **Changes**: (a) Intro's second paragraph reframed — the Map's *primary* interface reading vs. a parallel [[trumping-preemption|trumping reading]] ([[delegatory-causation]]); (b) new "two qualifications" paragraph at end of §"The Causal Consistency Constraint" — tested regimes (photon/atom/qubit/triple-slit/high-energy) vs. brain-internal untested regime, cross-linked to [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]; corridor binds only trajectory-level interface theories; (c) §"Why Underivability Matters" — marked interface reading as primary, added closing sentence on trumping reading's alternative interpretation (formalism cannot generate consciousness's *authority* over trajectories rather than a selection mechanism), and hedged "non-negotiable constraints on any consciousness-physics coupling" → "corridor-compliant consciousness-physics coupling"; (d) §"Mathematical corridor" paragraph — trumping-based readings do not locate consciousness at the gap and corridor analysis does not bind them; (e) §"Relation to Site Perspective / MQI" — corridor-conditional framing with trumping-alternative closer; (f) §"Relation to Site Perspective / Bidirectional Interaction" — interface reading hedge + trumping route as authority-layer realisation; removed "not passive but active interface" LLM cliché and "— additivity is an axiom about experience, not physics" cliché addition to additivity bullet; (g) frontmatter additions: [[trumping-preemption]] and [[delegatory-causation]] in `concepts`; [[born-rule-violation-brain-interface-empirical-status-2026-04-23]] in `related_articles`; (h) three Further Reading entries added
+- **Offsets**: Compressed §"The pattern is uniform" framework-list (removed rhetorical asides, cut list from seven to five representative frameworks) and the delegation-meets-quantum-selection sentence
+- **Word count**: 3299 → 3586 (+287, +8.7%) — not fully length-neutral; three substantive insertions could not be further compressed without losing content
+- **Published**: yes
 
 ## 2026-04-23 12:20 UTC - deep-review
 - **Status**: Success

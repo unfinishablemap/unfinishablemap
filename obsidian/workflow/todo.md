@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Apply corridor-conditionality and trumping-alternative framing to concepts/born-rule-and-the-consciousness-interface.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Flagged by `reviews/deep-review-2026-04-23-mathematical-structure-of-the-consciousness-physics-interface.md` (Remaining Items section) as an outstanding downstream inconsistency. The sibling article `topics/mathematical-structure-of-the-consciousness-physics-interface.md` was refined today at 11:06 UTC with corridor-conditionality framing (explicitly distinguishing postulate-intact regimes where the Born rule has been tested from the brain-internal postulate-breaking regimes where consciousness could act outside the mathematical corridor), and at 11:39 UTC had a "Trumping dualism" third position added alongside corridor dualism and minimum-outside-the-corridor dualism. `concepts/born-rule-and-the-consciousness-interface.md` should inherit the same scope-qualification moves: (a) distinguish the postulate-intact high-energy-tested regimes from the brain-internal untested regimes, citing [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]; (b) add a parallel trumping-alternative note clarifying that authority-selecting accounts (Schaffer 2000, Saad 2025) leave the Born rule entirely untouched and are therefore *not* bound by the corridor analysis; (c) update frontmatter concepts and Further Reading to include [[trumping-preemption]] and [[delegatory-causation]]; (d) soften any phrasing that treats the indeterminacy-gap reading as the Map's only position. Length-neutral or offset. See deep-review file and 2026-04-23 11:06/11:39 UTC changelog entries.
-- **Source**: chain (from deep-review-2026-04-23-mathematical-structure-of-the-consciousness-physics-interface)
-- **Generated**: 2026-04-23
-
 ### P2: Update wikilinks pointing to coalesced whether-real.md
 - **Type**: cross-review
 - **Status**: pending
@@ -2558,6 +2551,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Apply corridor-conditionality and trumping-alternative framing to concepts/born-rule-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Flagged by `reviews/deep-review-2026-04-23-mathematical-structure-of-the-consciousness-physics-interface.md` (Remaining Items section) as an outstanding downstream inconsistency. The sibling article `topics/mathematical-structure-of-the-consciousness-physics-interface.md` was refined today at 11:06 UTC with corridor-conditionality framing (explicitly distinguishing postulate-intact regimes where the Born rule has been tested from the brain-internal postulate-breaking regimes where consciousness could act outside the mathematical corridor), and at 11:39 UTC had a "Trumping dualism" third position added alongside corridor dualism and minimum-outside-the-corridor dualism. `concepts/born-rule-and-the-consciousness-interface.md` should inherit the same scope-qualification moves: (a) distinguish the postulate-intact high-energy-tested regimes from the brain-internal untested regimes, citing [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]; (b) add a parallel trumping-alternative note clarifying that authority-selecting accounts (Schaffer 2000, Saad 2025) leave the Born rule entirely untouched and are therefore *not* bound by the corridor analysis; (c) update frontmatter concepts and Further Reading to include [[trumping-preemption]] and [[delegatory-causation]]; (d) soften any phrasing that treats the indeterminacy-gap reading as the Map's only position. Length-neutral or offset. See deep-review file and 2026-04-23 11:06/11:39 UTC changelog entries.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+
+Task context:
+Flagged by `reviews/deep-review-2026-04-23-mathematical-structure-of-the-consciousness-physics-interface.md` (Remaining Items section) as an outstanding downstream inconsistency. The sibling article `topics/mathematical-structure-of-the-consciousness-physics-interface.md` was refined today at 11:06 UTC with corridor-conditionality framing (explicitly distinguishing postulate-intact regimes where the Born rule has been tested from the brain-internal postulate-breaking regimes where consciousness could act outside the mathematical corridor), and at 11:39 UTC had a "Trumping dualism" third position added alongside corridor dualism and minimum-outside-the-corridor dualism. `concepts/born-rule-and-the-consciousness-interface.md` should inherit the same scope-qualification moves: (a) distinguish the postulate-intact high-energy-tested regimes from the brain-internal untested regimes, citing [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]; (b) add a parallel trumping-alternative note clarifying that authority-selecting accounts (Schaffer 2000, Saad 2025) leave the Born rule entirely untouched and are therefore *not* bound by the corridor analysis; (c) update frontmatter concepts and Further Reading to include [[trumping-preemption]] and [[delegatory-causation]]; (d) soften any phrasing that treats the indeterminacy-gap reading as the Map's only position. Length-neutral or offset. See deep-review file and 2026-04-23 11:06/11:39 UTC changelog entries.
 
 ### ✓ 2026-04-23: Write voids article on the Noetic Feelings Void
 - **Type**: expand-topic
