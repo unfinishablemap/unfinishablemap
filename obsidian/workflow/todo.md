@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/attention-and-consciousness.md considering distraction-void insights
-- **Type**: cross-review
-- **Notes**: New article `voids/distraction-void.md` (created 2026-04-23) develops the specific case of attentional capture as a transit consciousness cannot witness, indexed by preattentive ERP components (MMN ~200ms, P3a ~250-300ms) that fire without conscious access. `voids/attention-and-consciousness.md` is the umbrella article on attention-phenomenology voids and is one of the three most-linked voids in the Map, yet it currently has no reference to the new distraction-void treatment. Cross-review should (a) identify where the attention-umbrella article can forward-link to distraction-void as the specific-case treatment, (b) check whether attention-and-consciousness's treatment of attentional capture / involuntary attention should now reference the ERP-timing evidence distraction-void catalogues, (c) ensure the umbrella article does not duplicate the distraction-specific machinery — the new piece can now carry that weight, (d) verify terminology is consistent (distraction-void uses "transit," "capture," "meta-awareness gap"; the umbrella article should use the same vocabulary where it touches the same phenomenon), (e) check whether any existing attention-and-consciousness claims are sharpened or narrowed by the new material. Log findings even if no edits made.
-- **Source**: chain (from distraction-void.md)
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review voids/transit-void.md considering distraction-void insights
 - **Type**: cross-review
 - **Notes**: New article `voids/distraction-void.md` (created 2026-04-23) positions itself explicitly against `voids/transit-void.md` in its disambiguation section — transit-void covers gaps in transitions generally; distraction-void is the specific case of attentional capture. The transit-void article (itself a 2026-04-16 coalesce product absorbing transition-void + initiation-void) is the natural parent that should now forward-link to the more specific distraction treatment. Cross-review should (a) add a reciprocal link where transit-void discusses attentional or cognitive transitions, (b) check whether transit-void's taxonomy of transition-gap types needs updating to mark distraction-void as a worked sub-case, (c) verify terminology alignment (transit-void uses "transit" as its umbrella term; distraction-void inherits it — both articles should be consistent), (d) identify whether transit-void's ERP-or-phenomenology treatment of the onset/offset of mental acts can now delegate the attention-specific ERP evidence to distraction-void rather than carrying it, (e) flag any inconsistency between transit-void's general claim (all transitions are occluded) and distraction-void's more specific claim (the capture transit is not just occluded but retrospectively reconstructed). Log findings even if no edits made.
@@ -2613,6 +2607,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review voids/attention-and-consciousness.md considering distraction-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/distraction-void.md` (created 2026-04-23) develops the specific case of attentional capture as a transit consciousness cannot witness, indexed by preattentive ERP components (MMN ~200ms, P3a ~250-300ms) that fire without conscious access. `voids/attention-and-consciousness.md` is the umbrella article on attention-phenomenology voids and is one of the three most-linked voids in the Map, yet it currently has no reference to the new distraction-void treatment. Cross-review should (a) identify where the attention-umbrella article can forward-link to distraction-void as the specific-case treatment, (b) check whether attention-and-consciousness's treatment of attentional capture / involuntary attention should now reference the ERP-timing evidence distraction-void catalogues, (c) ensure the umbrella article does not duplicate the distraction-specific machinery — the new piece can now carry that weight, (d) verify terminology is consistent (distraction-void uses "transit," "capture," "meta-awareness gap"; the umbrella article should use the same vocabulary where it touches the same phenomenon), (e) check whether any existing attention-and-consciousness claims are sharpened or narrowed by the new material. Log findings even if no edits made.
+- **Output**: obsidian/voids/attention-and-consciousness.md -- Context: Cross-review voids/attention-and-consciousness.md considering distraction-void insights
 
 ### ✓ 2026-04-23: Integrate voids/distraction-void.md into site navigation
 - **Type**: integrate-orphan
