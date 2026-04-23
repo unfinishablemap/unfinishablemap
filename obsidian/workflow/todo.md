@@ -39,7 +39,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P1: Refine topics/mathematical-structure-of-the-consciousness-physics-interface.md to concede the conditionality of the Born-rule corridor and acknowledge that Born-violating brain-internal interaction may be where the minimum-necessary interaction actually lies
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: completed (2026-04-23T11:06:00+00:00 — all ten concrete revision asks addressed)
 - **Notes**: The article currently overreaches in the Born Rule Uniqueness subsection and, to a lesser extent, in the Inner Product Uniqueness and Second-Order Interference subsections. Specifically, the sentence "Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins" claims that mathematics rules out empirical possibilities in untested regimes. This is stronger than the Masanes-Galley-Müller theorem supports. The theorem is *conditional*: given the four postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness), the Born rule is unique. The theorem cannot legislate which postulates physical reality satisfies in regimes where we have not measured.
 
     **What has actually been tested.** Born rule, inner product, and third-order interference bounds have been confirmed in photon experiments, atomic systems, superconducting qubits, triple-slit interferometry. None of these are brain-internal during a conscious selection event. If consciousness-mediated Born violation occurs only there, we have no empirical reason to expect our existing datasets to show it. The article silently treats "tested everywhere we could test" as "tested everywhere, full stop". That move should be made explicit and retracted.
@@ -2604,6 +2604,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Refine topics/mathematical-structure-of-the-consciousness-physics-interface.md to concede the conditionality of the Born-rule corridor and acknowledge that Born-violating brain-internal interaction may be where the minimum-necessary interaction actually lies
+- **Type**: refine-draft
+- **Notes**: The article currently overreaches in the Born Rule Uniqueness subsection and, to a lesser extent, in the Inner Product Uniqueness and Second-Order Interference subsections. Specifically, the sentence "Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins" claims that mathematics rules out empirical possibilities in untested regimes. This is stronger than the Masanes-Galley-Müller theorem supports. The theorem is *conditional*: given the four postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness), the Born rule is unique. The theorem cannot legislate which postulates physical reality satisfies in regimes where we have not measured.
+- **Output**: obsidian/topics/mathematical-structure-of-the-consciousness-physics-interface.md
+
+Task context:
+The article currently overreaches in the Born Rule Uniqueness subsection and, to a lesser extent, in the Inner Product Uniqueness and Second-Order Interference subsections. Specifically, the sentence "Any theory proposing that consciousness reshapes quantum probabilities wholesale is ruled out by the mathematics before empirical testing begins" claims that mathematics rules out empirical possibilities in untested regimes. This is stronger than the Masanes-Galley-Müller theorem supports. The theorem is *conditional*: given the four postulates (Hilbert-space states, unitary evolution, compositional neutrality, measurement uniqueness), the Born rule is unique. The theorem cannot legislate which postulates physical reality satisfies in regimes where we have not measured.
 
 ### ✓ 2026-04-23: Research whether Born-rule-violating consciousness-physics interaction is empirically live at the brain interface
 - **Type**: research-topic

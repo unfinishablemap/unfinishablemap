@@ -1,9 +1,27 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 11:45:00+00:00
+ai_modified: 2026-04-23 11:06:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 11:06 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/mathematical-structure-of-the-consciousness-physics-interface]]
+- **Original score**: N/A (scripts/curate.py not available at expected path; proceeded using detailed human-supplied task context)
+- **Changes**:
+  - Born Rule Uniqueness subsection: replaced "ruled out by the mathematics before empirical testing begins" with explicit conditional framing naming the four MGM postulates, tested regimes (photon/atom/qubit/triple-slit/high-energy), and the untested brain-internal conscious-selection regime.
+  - Inner Product Uniqueness: added conditionality (Pati result presupposes exact no-signalling + linear unitary dynamics; tested only in non-neural regimes).
+  - Second-Order Interference: added tested-regime qualifier with explicit bound (10⁻² in optical; tightened by atomic/high-energy; not probed in neural tissue).
+  - Corridor Defined: reframed as "applies wherever the standard quantum postulates are satisfied"; removed "This is not X—it is Y" LLM cliché.
+  - New subsection "Corridor Dualism and the Conditionality of the Bound": distinguishes corridor dualism (Map default) from minimum-outside-the-corridor dualism (MQI-demanded if corridor is insufficient); names Stapp/Chalmers-McQueen/Penrose-Hameroff/Arana as outside-corridor candidates; states steel-man for the corridor (no positive reason to expect QM failure in brains); frames corridor as evidence-responsive design choice.
+  - MQI tenet section: updated to reflect that corridor-compliance is hypothesis-conditional, and MQI demands the minimum *necessary to cause the effect*, which may lie outside the corridor if evidence requires.
+  - Intro softened to introduce conditionality without undercutting thesis.
+  - related_articles and Further Reading: added 2026-04-23 research note cross-reference.
+  - References: added Sinha 2010, Arana 2025, Penrose-Hameroff.
+  - ai_modified bumped to 2026-04-23T11:06:00+00:00.
+- **Follow-up**: P2 refine-draft task added for `concepts/born-rule-and-the-consciousness-interface.md` (parallel concession, flagged as potential downstream inconsistency).
+- **Published**: yes (draft: false retained)
 
 ## 2026-04-23 11:00 UTC - research-topic
 - **Status**: Success
