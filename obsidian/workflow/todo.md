@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update voids/voids.md index to list today's three new voids articles
-- **Type**: refine-draft
-- **Notes**: The voids section index `voids/voids.md` does not list `epistemic-horizon-void.md`, `plenitude-void.md`, or `categorial-void.md` — all three created 2026-04-23. Section is at 96/100 articles. Task should (a) add each new void to the appropriate category section of the index with one-line descriptors matching the index's existing style, (b) preserve the index's organisation (unexplored / unexplorable / occluded — or whatever taxonomy the index currently uses), (c) flag for the taxonomy cross-review if any of the three do not fit the existing index structure cleanly (epistemic-horizon-void in particular is second-order and may require index commentary rather than plain entry). Short scope — index-level additions plus any structural note if the taxonomy doesn't accommodate a second-order void. Also verify the section's count indicator and any "recently added" surfacing is current.
-- **Source**: chain (from 3 expand-topic completions 2026-04-23)
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review voids/intrinsic-nature-void.md considering categorial-void insights
 - **Type**: cross-review
 - **Notes**: New article `voids/categorial-void.md` (created 2026-04-23) lists `[[intrinsic-nature-void]]` in its related_articles frontmatter and the two articles occupy adjacent conceptual territory: intrinsic-nature-void concerns the structural inaccessibility of reality's intrinsic nature from the structural/relational vocabulary physics uses; categorial-void concerns the deeper claim that reality may contain features for which the mind has no category-*shape* (not merely a missing concept but a missing shape any concept of that kind would have to take). Cross-review should (a) identify where the category-shape distinction sharpens or complicates intrinsic-nature-void's claim (the intrinsic/extrinsic distinction may itself be a categorial structure imported from the current apparatus), (b) add a reciprocal link to categorial-void where intrinsic-nature-void discusses what intrinsic nature is inaccessible *as*, (c) check whether the two articles' treatments of Russellian monism are consistent (intrinsic-nature-void likely engages Russellian monism; categorial-void may put pressure on that engagement by questioning the intrinsic/extrinsic framing), (d) examine whether the "missing category shape" argument is stronger or weaker than the "missing intrinsic character" argument — articulate their logical relation. Log findings even if no edits are made.
@@ -2628,6 +2622,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Update voids/voids.md index to list today's three new voids articles
+- **Type**: refine-draft
+- **Notes**: The voids section index `voids/voids.md` does not list `epistemic-horizon-void.md`, `plenitude-void.md`, or `categorial-void.md` — all three created 2026-04-23. Section is at 96/100 articles. Task should (a) add each new void to the appropriate category section of the index with one-line descriptors matching the index's existing style, (b) preserve the index's organisation (unexplored / unexplorable / occluded — or whatever taxonomy the index currently uses), (c) flag for the taxonomy cross-review if any of the three do not fit the existing index structure cleanly (epistemic-horizon-void in particular is second-order and may require index commentary rather than plain entry). Short scope — index-level additions plus any structural note if the taxonomy doesn't accommodate a second-order void. Also verify the section's count indicator and any "recently added" surfacing is current.
+- **Output**: obsidian/voids/voids.md
+
+Task context:
+The voids section index `voids/voids.md` does not list `epistemic-horizon-void.md`, `plenitude-void.md`, or `categorial-void.md` — all three created 2026-04-23. Section is at 96/100 articles. Task should (a) add each new void to the appropriate category section of the index with one-line descriptors matching the index's existing style, (b) preserve the index's organisation (unexplored / unexplorable / occluded — or whatever taxonomy the index currently uses), (c) flag for the taxonomy cross-review if any of the three do not fit the existing index structure cleanly (epistemic-horizon-void in particular is second-order and may require index commentary rather than plain entry). Short scope — index-level additions plus any structural note if the taxonomy doesn't accommodate a second-order void. Also verify the section's count indicator and any "recently added" surfacing is current.
 
 ### ✓ 2026-04-23: Update wikilinks pointing to coalesced perceptual-reconstruction-selection
 - **Type**: refine-draft

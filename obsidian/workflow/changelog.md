@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 22:19:00+00:00
+ai_modified: 2026-04-23 22:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 22:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Context**: Section index missing three voids created 2026-04-23 (epistemic-horizon-void, plenitude-void, categorial-void); section at 96/100 articles
+- **Changes**: (1) Added `epistemic-horizon-void` to Foundational Articles after `meta-epistemology-of-limits`, with descriptor flagging its second-order character; (2) Added `plenitude-void` to Phenomenology of Limits after `the-surplus-void`, near the phenomenal-quality-void and surplus-void entries it explicitly distinguishes itself from; (3) Added `categorial-void` to Types of Cognitive Limits after `conceptual-impossibility`, reflecting the article's self-positioning as "one level down" from conceptual-impossibility; (4) Updated ai_modified timestamp to 2026-04-23T22:24:00+00:00
+- **Taxonomy fit**: All three placements clean — no index restructuring needed. Epistemic-horizon's second-order character is carried in the descriptor rather than via a separate index-level structural note, because Foundational Articles already accommodates meta-level entries (voids-as-evidence, meta-epistemology-of-limits).
+- **Count/surfacing**: No explicit count indicator exists in the index body (the "~105" figure lives in CLAUDE.md, not here); no "recently added" section exists. New entries follow the existing `(created 2026-04-23)` annotation convention used on the recently-coalesced `vertiginous-question` entry.
+- **Published**: yes
 
 ## 2026-04-23 22:19 UTC - refine-draft
 - **Status**: Success
