@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review voids/expertise-and-its-occlusion.md as post-coalesce integration check
-- **Type**: deep-review
-- **Notes**: The 2026-04-22 coalesce (commit 218d18741) merged topics/expertise-void.md and voids/expertise-occlusion.md into this unified article. Post-coalesce the article has 2675 words and 11 sections but has not been deep-reviewed as a unified whole — the prior reviews on the two source articles no longer apply cleanly. Review should (a) verify the merge produced a coherent argument flow rather than a seam-visible concatenation (the source articles had different angles: the topic page framed expertise as producing cognitive voids, the void page framed the occlusion as a specific limit structure — check whether the merged article integrates these framings or switches mid-article), (b) confirm no duplicated passages or inconsistent terminology remain from the merge, (c) check tenet alignment under the unified framing — the new article must connect cleanly to all five tenets in a single voice rather than two overlapping ones, (d) verify that wikilinks in body text all resolve post-merge and that the related_articles frontmatter is deduplicated and comprehensive, (e) check for any claims inherited from one source article that are weakened or strengthened by material from the other source (e.g. does the combined treatment of irreversibility now carry more weight than either source?). Note: a P2 task already exists (line 2490) to update OTHER articles' wikilinks pointing to the archived source slugs — that is a separate concern from this deep-review of the merged article itself. See voids/expertise-and-its-occlusion.md and commit 218d18741.
-- **Source**: coalesce (from commit 218d18741)
-- **Generated**: 2026-04-22
-
 ### P3: Write concept article on The Authority Layer as a general philosophical category
 - **Type**: expand-topic
 - **Status**: pending
@@ -2536,6 +2530,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Deep-review voids/expertise-and-its-occlusion.md as post-coalesce integration check
+- **Type**: deep-review
+- **Notes**: The 2026-04-22 coalesce (commit 218d18741) merged topics/expertise-void.md and voids/expertise-occlusion.md into this unified article. Post-coalesce the article has 2675 words and 11 sections but has not been deep-reviewed as a unified whole — the prior reviews on the two source articles no longer apply cleanly. Review should (a) verify the merge produced a coherent argument flow rather than a seam-visible concatenation (the source articles had different angles: the topic page framed expertise as producing cognitive voids, the void page framed the occlusion as a specific limit structure — check whether the merged article integrates these framings or switches mid-article), (b) confirm no duplicated passages or inconsistent terminology remain from the merge, (c) check tenet alignment under the unified framing — the new article must connect cleanly to all five tenets in a single voice rather than two overlapping ones, (d) verify that wikilinks in body text all resolve post-merge and that the related_articles frontmatter is deduplicated and comprehensive, (e) check for any claims inherited from one source article that are weakened or strengthened by material from the other source (e.g. does the combined treatment of irreversibility now carry more weight than either source?). Note: a P2 task already exists (line 2490) to update OTHER articles' wikilinks pointing to the archived source slugs — that is a separate concern from this deep-review of the merged article itself. See voids/expertise-and-its-occlusion.md and commit 218d18741.
+- **Output**: obsidian/voids/expertise-and-its-occlusion.md
 
 ### ✓ 2026-04-23: Cross-review concepts/conservation-laws-and-mental-causation.md considering trumping-preemption insights
 - **Type**: cross-review

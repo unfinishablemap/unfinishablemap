@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 01:38:00+00:00
+ai_modified: 2026-04-23 02:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 02:38 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/expertise-and-its-occlusion]]
+- **Previous review**: [[reviews/deep-review-2026-03-28-expertise-occlusion]] (pre-coalesce). Article was coalesced from expertise-void.md + expertise-occlusion.md; this is the first deep review of the coalesced article.
+- **Word count**: 2564 → 2574 (+10; 128% → 129% of 2000 soft target; well below 3000 hard threshold). Operated in length-neutral mode.
+- **Critical issues addressed**: 2
+  - Chase & Simon (1973) "chunks of five to eight pieces" misattribution — original paper reports ~3-5 pieces per chunk; "five to eight" likely conflates chunk size with chunks in short-term memory. Same error previously identified and fixed in sibling review (2026-03-12 consciousness-as-perceptual-architect) but persisted here through the coalesce. Replaced with qualitative description ("structured chunks—clusters of pieces in familiar strategic patterns") that preserves the perceptual-reorganisation argument.
+  - Dropped (Polanyi, 1966) citation on the "spectacles to scrutinize" quote — present in the pre-coalesce archived version, lost during coalesce. Restored.
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-neutral mode; critical fixes preserved argument structure)
+- **Output**: [[reviews/deep-review-2026-04-23-expertise-and-its-occlusion]]
 
 ## 2026-04-23 01:38 UTC - deep-review
 - **Status**: Success
