@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks to archived whether-real.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Coalesce 2026-04-23 merged `voids/whether-real.md` into `voids/meta-epistemology-of-limits.md` (archived at `archive/voids/whether-real.md`). 73 obsidian files contain `[[whether-real]]` wikilinks — most in active `voids/` articles, some in `concepts/`, plus many in `research/` and `reviews/` (historical, likely OK to leave). For active content (topics/, concepts/, voids/, apex/), evaluate whether each link should: (a) be updated to `[[meta-epistemology-of-limits]]` (the new target) — usually appropriate when the citing passage references the core "are voids real" argument; (b) stay as-is pointing to the archive page (when the citing passage references whether-real specifically as a prior coalesced article it supersedes); or (c) be removed if redundant. Focus on: `voids/three-kinds-of-void.md`, `voids/voids.md`, `voids/limits-reveal-structure.md`, `voids/voids-as-evidence.md`, `voids/apophatic-cartography.md`, `voids/formal-cognitive-limits.md`, `voids/understanding-void.md`, `voids/biological-cognitive-closure.md`, `voids/self-maintained-cognitive-limits.md`, `voids/compound-failure-signatures.md`, `voids/tenet-generated-voids.md`, `voids/appetitive-void.md`, `voids/agency-verification-void.md`, `voids/binding-void.md`, `voids/origin-of-consciousness.md`, `voids/the-surplus-void.md`, `voids/closure-types-void.md`, `voids/framework-void.md`, `voids/void-as-ground-of-meaning.md`, `voids/epistemological-limits-occams-razor.md`, `voids/observation-and-measurement-void.md`, `voids/necessary-opacity.md`, `apex/taxonomy-of-voids.md`, `concepts/mysterianism.md`, `concepts/epistemology-of-limit-knowledge.md`. Skip `research/` and `reviews/` — those are archival records that should preserve original wording.
+- **Source**: coalesce (2026-04-23)
+- **Generated**: 2026-04-23
+
 ### P2: Add cross-links from optimistic-2026-04-23 across trumping/expertise/necessary-opacity cluster
 - **Type**: refine-draft
 - **Status**: pending

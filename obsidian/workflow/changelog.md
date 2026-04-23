@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 09:38:00+00:00
+ai_modified: 2026-04-23 10:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 10:45 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/whether-real]], [[voids/meta-epistemology-of-limits]] (prior-state)
+- **Target**: [[voids/meta-epistemology-of-limits]]
+- **Archived**: [[archive/voids/whether-real]]
+- **Rationale**: Both articles asked whether cognitive voids are real and how we could know, citing the same Chomsky/McGinn/Dennett/Kriegel/Vlerick-Boudry arguments. Whether-real's distinctive contributions (Three Verdicts framing, Illusionist Challenge, Process Philosophy, Phenomenology of Suspension) merged into meta-epistemology-of-limits as new sections. Target's coalesced_from grew from 3 to 4 sources.
+- **Section pressure**: voids at 95/100 (95%) before merge; 94/100 after. Most-pressured section.
+- **References to review**: 73 wikilinks to `[[whether-real]]` across obsidian/ — follow-up task generated.
 
 ## 2026-04-23 09:38 UTC - deep-review
 - **Status**: Success

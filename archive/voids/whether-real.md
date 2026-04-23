@@ -30,6 +30,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-16
 last_curated: null
 last_deep_review: 2026-02-25T19:40:00+00:00
+archived: true
+archived_date: 2026-04-23T10:45:00+00:00
+superseded_by: "/voids/meta-epistemology-of-limits/"
+archive_reason: "Coalesced into The Meta-Epistemology of Cognitive Limits"
+original_path: "/voids/whether-real/"
 ---
 
 Are the [[voids|voids]] real? Do permanent cognitive limits actually exist, or do they represent only current ignorance waiting to be overcome? This meta-level question may itself be a void—a question that resists conclusive answer from within any limited cognitive system. Determining whether limits are real requires using the very faculties whose reliability is in question, so neither verification nor falsification seems possible. Yet this formal undecidability is itself informative about cognitive architecture.

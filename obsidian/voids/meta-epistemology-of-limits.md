@@ -1,10 +1,10 @@
 ---
 title: "The Meta-Epistemology of Cognitive Limits"
-description: "Can we know our cognitive limits are genuine, can we predict which will dissolve, and can we determine whether they are natural features or designed constraints? All three questions may be structurally unanswerable from within any limited mind."
-created: 2026-01-30
-modified: 2026-04-21
+description: "Can we know our cognitive limits are genuine? Can we predict which will dissolve? Can we tell natural features from designed constraints? All three meta-questions may be structurally unanswerable from within any limited mind—and the undecidability itself is informative."
+created: 2026-01-16
+modified: 2026-04-23
 human_modified: null
-ai_modified: 2026-04-21T20:38:00+00:00
+ai_modified: 2026-04-23T10:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -15,10 +15,10 @@ concepts:
   - "[[simulation]]"
   - "[[phenomenology]]"
   - "[[inspection-paradox]]"
+  - "[[illusionism]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[whether-real]]"
   - "[[apophatic-approaches]]"
   - "[[limits-reveal-structure]]"
   - "[[three-kinds-of-void]]"
@@ -33,9 +33,11 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[psychedelics-and-the-filter-model]]"
   - "[[closure-types-void]]"
+  - "[[apophatic-cartography]]"
+  - "[[phenomenal-quality-void]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-19
 last_curated: null
 last_deep_review: 2026-04-21T20:38:00+00:00
@@ -43,9 +45,10 @@ coalesced_from:
   - "/voids/epistemology-of-cognitive-limits/"
   - "/voids/natural-vs-designed-limits/"
   - "/voids/dissolution-problem/"
+  - "/voids/whether-real/"
 ---
 
-Two meta-level questions haunt the [[voids|voids framework]]. How can we know a cognitive limit is genuine rather than merely apparent? Are our limits *natural* features of minds like ours, or *designed* constraints imposed by forces beyond our detection? Both share a recursive structure—the tool examining its limitations cannot stand outside itself to verify the verdict—and both may be structurally unanswerable from within any limited mind.
+Three meta-level questions haunt the [[voids|voids framework]]. Are cognitive limits real—permanent features of minds like ours—or only current ignorance waiting to dissolve? How could we know? And if some limits are structural, are they *natural* features of finite cognition or *designed* constraints imposed by forces beyond our detection? The three share a recursive structure: the tool examining its own limitations cannot stand outside itself to verify the verdict. All three may be structurally unanswerable from within any limited mind—and that very undecidability is informative about cognitive architecture.
 
 ## The Core Problem: Difficulty vs. Impossibility
 
@@ -55,23 +58,29 @@ Distinguishing *difficult* from *impossible* seems straightforward. In practice,
 
 **Success proves contingency; failure proves nothing.** Solving a problem shows it was solvable. Failing—even across centuries—cannot establish permanent closure. Perhaps the right concepts haven't emerged yet.
 
-**Assessment requires the faculties under assessment.** Determining whether our cognitive architecture has limits requires using that architecture—an [[inspection-paradox|inspection paradox]] that [[mysterianism|cognitive closure]] makes precise. [[self-opacity|Introspective opacity]] ensures we cannot simply look inward to check.
+**Assessment requires the faculties under assessment.** Determining whether our cognitive architecture has limits requires using that architecture—an [[inspection-paradox|inspection paradox]] that [[mysterianism|cognitive closure]] makes precise. [[self-opacity|Introspective opacity]] ensures we cannot simply look inward to check. The [[phenomenal-quality-void|phenomenal quality void]] deepens the trap: the conviction that the question is *about something real* is itself produced by a phenomenal stamp that is structurally hidden and demonstrably fallible.
 
-## Problems and Mysteries
+## Three Verdicts
 
-Chomsky distinguishes *problems*—questions our cognitive architecture can solve in principle—from *mysteries*, which exceed that architecture because the concepts required to grasp them lie outside what minds like ours can form. [[biological-cognitive-closure|Evolution shaped cognition for specific tasks]]; there is no reason to expect universal access to all truths. The hard problem of consciousness may be a mystery rather than a problem.
+### The Optimist Position
 
-Kriegel challenges [[mysterianism]] as *incoherent*: questions are individuated by the statements that would answer them, so to pose a question is already to have the conceptual resources for potential answers. But Demircioglu distinguishes *representational* from *psychological* closure. We may be able to represent what would count as a solution while remaining unable to grasp it when presented—as a rat might represent "the prime numbers" as "the set mathematicians study" without identifying which numbers those are. Kriegel's argument cuts against naive mysterianism but not sophisticated versions. The [[closure-types-void|closure-types void]] develops this distinction into a second-order limit: the two readings separate cleanly in theory, but from within a mind no reliable procedure distinguishes which type one is facing.
+Dennett and others argue that cognitive closure remains undemonstrated. McGinn should provide an empirical example of a creature that grasps a question but is constitutionally prevented from grasping its answer. Without such examples, "unimaginable" slides into "impossible." Past mysteries support this view—vitalism seemed to present an unbridgeable gap until biochemistry dissolved it. Perhaps the [[hard-problem-of-consciousness|hard problem]] will similarly yield to future concepts we cannot yet imagine. The optimist treats cognitive limits as contingent: hard problems are problems, not mysteries.
 
-Empirical metacognition research adds pressure. If our tools for assessing cognitive reach are themselves calibrated by that reach, systematic overconfidence is predictable. Optimism about eventually solving the hard problem may reflect architectural bias rather than warranted expectation.
+### The Pessimist Position
 
-## Temporary and Permanent Mysterianism
+Chomsky and McGinn argue that cognitive limits follow from basic biology. Any endowment providing scope also imposes limits—a lung cannot metabolise arbitrary gases; a mind cannot think arbitrary thoughts. "If there were no limits to human intelligence," Chomsky writes, "it would lack internal structure, and would therefore have no scope." Chomsky's distinction between *problems* (solvable in principle by our cognitive architecture) and *mysteries* (exceeding that architecture because the required concepts lie outside what minds like ours can form) frames the position. [[biological-cognitive-closure|Evolution shaped cognition for specific tasks]]; there is no reason to expect universal access to all truths.
 
-Nagel and Levine articulate *temporary* mysterianism: the current gap may be bridged by future conceptual revolution, as life's apparent irreducibility to chemistry dissolved with biochemistry. McGinn defends *permanent* mysterianism: mind has "anatomy" excluding certain concepts as the body excludes certain movements. The worry for permanent mysterianism is that it is hard to establish what problems lie beyond our ken. The worry for temporary mysterianism is that it offers no prediction about *when* or *how* the roadblock will yield—faith that gaps close, absent evidence that this particular gap can.
+McGinn formalises this as *cognitive closure*: minds can be constitutionally unable to grasp certain properties. A rat is closed to calculus not because it hasn't tried hard enough but because its concept-forming procedures cannot extend there. Humans may be similarly closed to the property bridging neural activity and consciousness.
+
+Kriegel challenges [[mysterianism]] as *incoherent*: questions are individuated by the statements that would answer them, so to pose a question is already to have the conceptual resources for potential answers. Demircioglu and Vlerick-Boudry distinguish *representational* from *psychological* closure—we may represent what would count as a solution while remaining unable to grasp it when presented. Kriegel's argument cuts against naive mysterianism but not sophisticated versions. The [[closure-types-void|closure-types void]] develops this into a second-order limit: the two readings separate cleanly in theory, but from within a mind no reliable procedure distinguishes which type one is facing.
+
+### The Suspended Position
+
+A third position: the question itself may be formally undecidable from within. If mysterianism is true, we cannot detect our limits; if false, we can never be certain a sufficiently deep closure isn't hiding itself. Both verification and falsification seem blocked. The suspended position accepts that the question may be structurally unanswerable—not agnosticism from laziness but from logical necessity. Empirical metacognition research adds pressure: if our tools for assessing cognitive reach are themselves calibrated by that reach, systematic overconfidence is predictable. Optimism about eventually solving the hard problem may reflect architectural bias rather than warranted expectation.
 
 ## Historical Evidence: The Pattern of Dissolution
 
-The dispute turns on what historical dissolutions demonstrate. Concepts once deemed unthinkable became routine: irrational numbers, non-Euclidean geometry, quantum indeterminacy. Each appeared to involve genuine [[conceptual-impossibility|conceptual impossibility]] at the time; each dissolved—by replacing the framework rather than solving the original question. Quantum mechanics adds a refinement: the formalism succeeds while interpretation remains psychologically opaque, sharpening the Vlerick-Boudry distinction—representational mastery can coexist with permanent psychological closure.
+Concepts once deemed unthinkable became routine: irrational numbers, non-Euclidean geometry, quantum indeterminacy. Each appeared to involve genuine [[conceptual-impossibility|conceptual impossibility]] at the time; each dissolved—by replacing the framework rather than solving the original question. Quantum mechanics adds a refinement: the formalism succeeds while interpretation remains psychologically opaque, sharpening the Vlerick-Boudry distinction—representational mastery can coexist with permanent psychological closure.
 
 ### Structural Signatures
 
@@ -82,6 +91,20 @@ The hard problem scores high on persistent-limit indicators. [[illusionism|Illus
 ### The Asymmetry Problem
 
 Evidence is asymmetric. Every dissolution proves a specific limit was apparent. No amount of persistence proves a limit is permanent. Dennett argues the track record favours the optimist—declaring problems permanently mysterious has been consistently wrong. But this generalises from cases where limits dissolved, the only cases that leave evidence of their prior existence. Genuinely permanent limits leave no trace; the track record is silent about them.
+
+## The Illusionist Challenge
+
+[[illusionism|Illusionists]] like Frankish and Dennett pose a more radical challenge: the question may be malformed because it presupposes phenomenal consciousness that doesn't exist. If consciousness is an introspective illusion, cognitive limits would be limits on *representation*, not on *access to experience*, and the voids question dissolves.
+
+Three responses preserve the framework:
+
+**The regress problem.** To be under an illusion that you're conscious, something must experience the illusion. As Tallis argues, illusionism is "self-stultifying"—it requires genuine experience to explain the appearance of experience.
+
+**The structural point survives.** Even granting illusionism, any cognitive system attempting to determine its own representational limits faces the same self-referential problem. The question shifts from "are phenomenal voids real?" to "are representational voids real?"—but the undecidability persists.
+
+**Illusionism may be a symptom.** Denying the phenomenon rather than explaining it might itself be what cognitive closure looks like from the inside. If McGinn is right that we are cognitively closed to the mind-body connection, we should predict that some thinkers respond by denial. Illusionism may be the epistemological shadow of a void.
+
+The Map maintains that [[introspection|introspection]], while fallible, provides genuine access to phenomenal content. The illusionist challenge relocates the meta-question rather than dissolving it.
 
 ## Could Limits Be Designed?
 
@@ -105,6 +128,12 @@ If direct verification is impossible, [[apophatic-approaches|indirect methods]] 
 
 The [[compound-failure-signatures|topology of cognitive failure]] extends this. Different limits produce different breakdown signatures—self-refutation, aporia, systematic illusion, introspective construction. By attending to *how* thought fails rather than merely *that* it fails, we can triangulate on the nature of limits even without direct verification. [[apophatic-cartography|Apophatic cartography]] formalises these approaches with explicit evidential standards.
 
+## Process Philosophy: A Fourth Position
+
+Whitehead's process philosophy suggests a fourth position alongside the three verdicts. If reality consists of "actual occasions" that partially create themselves, then cognitive limits are not walls blocking access to fixed territory but features of how each moment of experience constitutes itself—modes of experiencing we cannot enact rather than places we cannot reach.
+
+This reframes the optimist/pessimist/suspended trichotomy: limits may be neither permanently fixed nor contingently surmountable but *constitutively fluid*, differing for different occasions of experience. Future minds might access different territory not because they are smarter but because they are differently constituted. The undecidability persists—we cannot step outside our current experience to verify this—but the question may be less binary than the framing implies. The voids might be real-for-us without being real-as-such.
+
 ## The Recursive Trap
 
 Asking "are my limits genuine?" or "are my limits designed?" is the meta-level form of the [[inspection-paradox|inspection paradox]]: the faculties used to ask are part of the very system under investigation, no meta-instrument stands outside them, and no un-inspected baseline of cognition is available for comparison. Certain questions can only be answered from outside the system being questioned: a formal system cannot prove its own consistency (Gödel); a simulation cannot detect itself using only simulated tools; a mind cannot determine whether its limits are natural or designed using only the limited cognition in question.
@@ -112,6 +141,12 @@ Asking "are my limits genuine?" or "are my limits designed?" is the meta-level f
 This creates a distinctive void combining all [[three-kinds-of-void|three categories]]. **Unexplored**: philosophy has studied cognitive limits but rarely asked whether they could be artifacts of design. **Unexplorable**: if faculties were constrained to prevent detecting the constraint, no internal method could succeed. **Occluded**: if design-detection would threaten a simulation or violate designer purposes, the thought itself might be actively blocked—[[self-maintained-cognitive-limits|defended territory]], with the investigator complicit in maintaining the limit.
 
 The recursive challenge applies equally to the dualist position the Map defends. The Map's tenets are chosen starting points, not conclusions established from outside the trap.
+
+## Phenomenology of Suspension
+
+Approaching this question has a distinctive feel: **suspension rather than confusion**, where arguments on both sides have genuine force but neither settles the matter; **recursive vertigo** from recognising the self-referential structure; **temptation to premature closure**, the psychological pressure to declare the voids real or illusory and be done with it; and paradoxically, **relief in acceptance** that the question may be permanently open.
+
+This phenomenology differs from approaching [[self-maintained-cognitive-limits|defended territory]], where thoughts slide away or evade articulation. Suspension feels like stable equilibrium; defended territory feels like active deflection.
 
 ## Implications for the Voids Framework
 
@@ -127,22 +162,25 @@ The recursive challenge applies equally to the dualist position the Map defends.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is most directly supported. If we cannot reliably assess our cognitive limits, parsimony becomes unreliable. The simpler theory may appear more plausible not because it's closer to truth but because the true theory lies in territory we cannot access. Parsimony cannot distinguish natural from designed constraints when we lack the tools to investigate.
 
-**[[tenets#^dualism|Dualism]]** gains indirect support. Claims that materialism will eventually explain consciousness become epistemically suspect—revealed as faith rather than warranted expectation. If consciousness is fundamental, a designer might impose closure precisely *because* understanding consciousness would reveal something about reality's substrate.
+**[[tenets#^dualism|Dualism]]** gains indirect support. Claims that materialism will eventually explain consciousness become epistemically suspect—revealed as faith rather than warranted expectation. The hard problem's persistence across centuries, combined with its distinctive structure—functional explanation systematically failing to capture phenomenal character—suggests the gap may be permanent because the bridging concepts lie outside human cognitive reach. If consciousness is fundamental, a designer might impose closure precisely *because* understanding consciousness would reveal something about reality's substrate.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through self-reference. If consciousness causally influences physics at this interface, understanding *how* may be permanently closed—the knowing is the interacting; we cannot observe the mechanism we use to observe.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** connects through self-reference. If consciousness causally influences physics at this interface, understanding *how* may be permanently closed—the knowing is the interacting; we cannot observe the mechanism we use to observe. We might have veridical *experience* of mental causation while being cognitively closed to the *mechanism*.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** makes designed limits coherent. Under MWI, every configuration of limits is realised somewhere; the question of *why these particular limits* loses force. Rejecting MWI makes it sensible to ask whether limits serve purposes.
+**[[tenets#^no-many-worlds|No Many Worlds]]** makes designed limits coherent. Under MWI, every configuration of limits is realised somewhere; the question of *why these particular limits* loses force. Rejecting MWI makes it sensible to ask whether limits serve purposes. It also keeps indexical questions live: "Why am I this subject?" may be a question we understand but cannot answer because grasping the answer requires concepts our architecture cannot form.
 
-**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** faces a distinctive challenge. If cognitive closure applies to the mind-matter interface, specific proposals about quantum mechanisms may be wrong in principle—though useful as working hypotheses.
+**[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** faces a distinctive challenge. If cognitive closure applies to the mind-matter interface, specific proposals about quantum mechanisms may be wrong in principle—useful as working hypotheses rather than claimed knowledge.
 
 ## What Would Challenge This View?
 
-A convincing solution to the hard problem would demonstrate that at least some apparently permanent limits are merely difficult—undermining cognitive closure without eliminating the meta-epistemological question. Discovery of a reliable internal method for distinguishing natural from designed constraints would dissolve the detection problem. Evidence that AI systems, trained independently of human concepts, converge on the same limits would strengthen the case for genuine closure; breakthroughs where humans stall would weaken it.
+A convincing solution to the hard problem would demonstrate that at least some apparently permanent limits are merely difficult—undermining cognitive closure without eliminating the meta-epistemological question. The test: the solution must address what *seemed* permanently inaccessible, not merely solve a nearby problem while the original mystery remains. Discovery of a reliable internal method for distinguishing natural from designed constraints would dissolve the detection problem. Evidence that AI systems, trained independently of human concepts, converge on the same limits would strengthen the case for genuine closure; breakthroughs where humans stall would weaken it. Cross-architecture convergence on solutions to currently mysterious problems—from artificial intelligences, hypothetical aliens, posthuman minds—would suggest tractability in principle.
+
+None of these conditions has been met. The hard problem remains as puzzling after 30 years of focused investigation as when Chalmers formalised it—the situation the suspended position predicts.
+
+The voids framework does not require that the voids be real. It requires only that we take seriously the possibility that they might be—and investigate accordingly. The question whether cognitive limits are genuine turns out to be undecidable from within, which is itself informative: the kind of minds we are cannot determine whether our limits are permanent. This uncertainty is not a bug but a feature of the epistemic landscape.
 
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive dark spaces
-- [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[compound-failure-signatures|Compound Failure Signatures]] — Using failure patterns as data
 - [[apophatic-cartography|Apophatic Cartography as Epistemic Method]] — Formalised evidential standards for void-mapping
@@ -156,24 +194,30 @@ A convincing solution to the hard problem would demonstrate that at least some a
 - [[simulation-detection-void|The Simulation Detection Void]] — Where all three void types converge on the detection problem
 - [[epistemological-limits-occams-razor|Epistemological Limits of Occam's Razor]] — A concrete instance of limits undermining a reasoning tool
 - [[epistemology-of-limit-knowledge]] — The systematic account of what kind of knowledge limit-claims are and what methods produce them
-- [[psychedelics-and-the-filter-model#Where the Accounts Could Diverge|Psychedelics and the Filter Model]] — The dissolved-vs-persistent diagnostic applied prospectively to the filter-theory/entropic-brain dispute
+- [[psychedelics-and-the-filter-model#Where the Accounts Could Diverge|Psychedelics and the Filter Model]] — The dissolved-vs-persistent diagnostic applied prospectively
 - [[closure-types-void|The Closure-Types Void]] — The representational/psychological distinction formalised, plus the second-order void behind it
-- [[inspection-paradox|The Inspection Paradox]] — The general structural pattern of which the recursive trap is a meta-level instance; distinguishes weak from strong forms
+- [[inspection-paradox|The Inspection Paradox]] — The general structural pattern of which the recursive trap is a meta-level instance
+- [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why the stamp of realness hides itself
 
 ## References
 
 1. Chomsky, N. (1976). "Problems and Mysteries in the Study of Human Language." In *Language in Focus*, 281-357.
-2. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
-3. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
-4. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
-5. Kruger, J. & Dunning, D. (1999). "Unskilled and unaware of it." *Journal of Personality and Social Psychology*, 77, 1121-1134.
-6. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
-7. Levine, J. (2001). *Purple Haze: The Puzzle of Consciousness*. Oxford University Press.
-8. Nicholas of Cusa. (1440). *De Docta Ignorantia* (*On Learned Ignorance*).
-9. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
-10. Kant, I. (1781/1787). *Critique of Pure Reason*. See SEP: https://plato.stanford.edu/entries/kant-metaphysics/
-11. Vlerick, M. & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*. https://onlinelibrary.wiley.com/doi/abs/10.1111/1746-8361.12176
-12. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-13. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
-14. Dennett, D. "Review of McGinn, *The Problem of Consciousness*." https://ase.tufts.edu/cogstud/dennett/papers/mcginn.htm
-15. Gauss, C. F. Quoted in MacTutor History of Mathematics. https://mathshistory.st-andrews.ac.uk/HistTopics/Non-Euclidean_geometry/
+2. Chomsky, N. (2014). "Science, Mind, and Limits of Understanding." https://chomsky.info/201401__/
+3. Kriegel, U. (2003). "The new mysterianism and the thesis of cognitive closure." *Acta Analytica*, 18, 177-191.
+4. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
+5. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
+6. Kruger, J. & Dunning, D. (1999). "Unskilled and unaware of it." *Journal of Personality and Social Psychology*, 77, 1121-1134.
+7. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
+8. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
+9. Levine, J. (2001). *Purple Haze: The Puzzle of Consciousness*. Oxford University Press.
+10. Nicholas of Cusa. (1440). *De Docta Ignorantia* (*On Learned Ignorance*).
+11. Bostrom, N. (2003). "Are You Living in a Computer Simulation?" *Philosophical Quarterly*, 53(211), 243-255.
+12. Kant, I. (1781/1787). *Critique of Pure Reason*. See SEP: https://plato.stanford.edu/entries/kant-metaphysics/
+13. Vlerick, M. & Boudry, M. (2017). "Psychological Closure Does Not Entail Cognitive Closure." *Dialectica*. https://onlinelibrary.wiley.com/doi/abs/10.1111/1746-8361.12176
+14. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+15. Chalmers, D. (1995). "Facing Up to the Problem of Consciousness." *Journal of Consciousness Studies*, 2(3), 200-219.
+16. Dennett, D. "Review of McGinn, *The Problem of Consciousness*." https://ase.tufts.edu/cogstud/dennett/papers/mcginn.htm
+17. Frankish, K. (2016). "Illusionism as a Theory of Consciousness." *Journal of Consciousness Studies*, 23(11-12), 11-39.
+18. Tallis, R. (2024). "The Illusion of Illusionism." *Philosophy Now*.
+19. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
+20. Gauss, C. F. Quoted in MacTutor History of Mathematics. https://mathshistory.st-andrews.ac.uk/HistTopics/Non-Euclidean_geometry/
