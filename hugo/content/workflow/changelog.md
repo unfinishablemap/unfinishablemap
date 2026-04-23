@@ -9,6 +9,14 @@ related_articles: []
 title: Changelog
 ---
 
+## 2026-04-23 05:38 UTC - coalesce
+- **Status**: Success
+- **Sources**: [mental-imagery](/concepts/mental-imagery/) (2134 words), [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) (2357 words) — both covered the same ground (voluntary/involuntary dissociation, aphantasia, motor simulation, self-stultification) with heavy overlap
+- **Target**: [mental-imagery](/concepts/mental-imagery/) (unified; 3130 words; 30% reduction from deduplication)
+- **Archived**: [mental-imagery](/archive/concepts/mental-imagery/), [mental-imagery-causal-role-of-consciousness](/archive/topics/mental-imagery-causal-role-of-consciousness/)
+- **Key improvements**: unified article now engages identity theory as the primary opponent (not just epiphenomenalism), incorporates the content-matching and aphantasia-prediction arguments from the topic article alongside the taxonomy and aphantasia-spectrum material from the concept article
+- **References to review**: 9 live inbound wikilinks still point to the archived topic slug (apex/phenomenology-of-consciousness-doing-work, topics/consciousness-and-causal-powers, topics/phenomenology-of-imagination, topics/evolutionary-case-for-mental-causation, topics/consciousness-and-skill-acquisition, topics/empirical-evidence-for-consciousness-selecting, concepts/bidirectional-interaction, apex/apex-articles, workflow/todo) — will resolve via archive 301 redirects but should be updated to point to the unified article directly
+
 ## 2026-04-23 04:40 UTC - refine-draft
 - **Status**: Success
 - **File**: [trumping-preemption](/concepts/trumping-preemption/)

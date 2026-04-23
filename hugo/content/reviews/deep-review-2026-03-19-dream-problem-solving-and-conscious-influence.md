@@ -54,12 +54,12 @@ All six adversarial personas engaged with dream-consciousness.md content:
 ### Enhancements Made
 - Added cross-link from [baseline-cognition](/concepts/baseline-cognition/) → [dream-consciousness](/topics/dream-consciousness/) — dream problem-solving restricted to humans despite universal mammalian REM
 - Added cross-link from [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) → [dream-consciousness](/topics/dream-consciousness/) — dream states as contrast case for consciousness loss
-- Added cross-link from [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) → [dream-consciousness](/topics/dream-consciousness/) — dream imagery as involuntary test case
+- Added cross-link from [mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/) → [dream-consciousness](/topics/dream-consciousness/) — dream imagery as involuntary test case
 
 ### Cross-links Added
 - [baseline-cognition](/concepts/baseline-cognition/) → [dream-consciousness](/topics/dream-consciousness/)
 - [loss-of-consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) → [dream-consciousness](/topics/dream-consciousness/)
-- [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) → [dream-consciousness](/topics/dream-consciousness/)
+- [mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/) → [dream-consciousness](/topics/dream-consciousness/)
 
 ## Remaining Items
 

@@ -60,7 +60,7 @@ None. The previous review corrected the Husserl mischaracterisation, Hume misquo
 
 ### Cross-links Added
 
-- [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — in Further Reading
+- [mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/) — in Further Reading
 
 ## Remaining Items
 

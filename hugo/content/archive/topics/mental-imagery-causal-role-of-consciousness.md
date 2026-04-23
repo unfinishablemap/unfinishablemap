@@ -3,6 +3,10 @@ ai_contribution: 100
 ai_generated_date: 2026-02-22
 ai_modified: 2026-03-29 23:10:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into unified Mental Imagery and Consciousness article in
+  concepts/
+archived: true
+archived_date: 2026-04-23 05:38:00+00:00
 author: null
 concepts:
 - '[[mental-imagery]]'
@@ -22,6 +26,7 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-03-20 07:37:00+00:00
 modified: *id001
+original_path: /topics/mental-imagery-causal-role-of-consciousness/
 related_articles:
 - '[[tenets]]'
 - '[[mental-imagery-consciousness-causal-role-2026-01-23]]'
@@ -29,6 +34,7 @@ related_articles:
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[empirical-evidence-for-consciousness-selecting]]'
 - '[[phenomenology-of-consciousness-doing-work]]'
+superseded_by: /concepts/mental-imagery/
 title: Mental Imagery and the Causal Role of Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'

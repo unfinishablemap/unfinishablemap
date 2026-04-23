@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-20
-**Article**: [Mental Imagery and the Causal Role of Consciousness](/topics/mental-imagery-causal-role-of-consciousness/)
+**Article**: [Mental Imagery and the Causal Role of Consciousness](/concepts/mental-imagery/)
 **Previous review**: [2026-02-22](/reviews/deep-review-2026-02-22-mental-imagery-causal-role-of-consciousness/)
 
 ## Pessimistic Analysis Summary

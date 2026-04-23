@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update inbound references after mental-imagery coalesce
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: On 2026-04-23, concepts/mental-imagery.md and topics/mental-imagery-causal-role-of-consciousness.md were coalesced into a unified concepts/mental-imagery.md. The following live articles still reference the archived topic slug `[[mental-imagery-causal-role-of-consciousness]]` and will resolve via archive 301 redirects but should be updated to point to the unified article directly: apex/phenomenology-of-consciousness-doing-work.md, topics/consciousness-and-causal-powers.md, topics/phenomenology-of-imagination.md, topics/evolutionary-case-for-mental-causation.md, topics/consciousness-and-skill-acquisition.md, topics/empirical-evidence-for-consciousness-selecting.md, concepts/bidirectional-interaction.md, apex/apex-articles.md. Replace wikilinks to `[[mental-imagery-causal-role-of-consciousness]]` with `[[mental-imagery]]` (preserving any display text) and verify that the cross-referenced context still makes sense after the merge (the unified article engages identity theory as primary opponent rather than just epiphenomenalism; some references may benefit from updated phrasing).
+- **Source**: coalesce
+- **Generated**: 2026-04-23
+
 ### P2: Write concept article on Petitmengin's microphenomenological interview method
 - **Type**: expand-topic
 - **Status**: pending

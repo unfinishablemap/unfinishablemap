@@ -64,7 +64,7 @@ Inbound links added from 12 articles to resolve orphan status:
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/)
 - [phenomenology-of-choice](/concepts/phenomenology-of-choice-and-volition/)
 - [volitional-opacity](/voids/introspective-opacity/)
-- [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/)
+- [mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/)
 
 **Peer apex article:**
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — related_articles frontmatter

@@ -31,6 +31,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
 last_deep_review: 2026-03-20T07:37:00+00:00
+archived: true
+archived_date: 2026-04-23T05:38:00+00:00
+superseded_by: "/concepts/mental-imagery/"
+archive_reason: "Coalesced into unified Mental Imagery and Consciousness article in concepts/"
+original_path: "/topics/mental-imagery-causal-role-of-consciousness/"
 ---
 
 Does consciousness cause anything? Or does it merely accompany neural processes that would proceed identically without it? The Unfinishable Map's [[bidirectional-interaction]] tenet commits to the former: consciousness causally influences the physical world. Mental imagery offers one of the most revealing test cases for this claim. When you voluntarily visualize a movement and then execute it better as a result, the causal chain runs from conscious imagining to physical performance. The challenge is showing that phenomenal properties contribute causally beyond what neural properties alone explain.

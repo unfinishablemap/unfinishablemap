@@ -61,7 +61,7 @@ None. The article is factually accurate, internally consistent, and free of attr
 - [capability-division-problem](/voids/capability-division-problem/) — Added paragraph in "Beyond Vision" section + Further Reading link
 - [mental-imagery](/concepts/mental-imagery/) — Added body text reference in aphantasia section + Further Reading link
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — Added Further Reading link
-- [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Added Further Reading link
+- [mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/) — Added Further Reading link
 - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) — Added body text reference in spatial reasoning section + Further Reading link
 
 ## Remaining Items

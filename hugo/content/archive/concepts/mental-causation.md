@@ -219,7 +219,7 @@ Mental causation, as defended here, is falsifiable:
 ## Further Reading
 
 - [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Four converging clinical neuroplasticity evidence streams for genuine mental causation
-- [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — Mental imagery as a test case for consciousness's causal efficacy
+- [mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/) — Mental imagery as a test case for consciousness's causal efficacy
 - [evolutionary-case-for-mental-causation](/topics/evolutionary-case-for-mental-causation/) — The evolutionary argument for consciousness's causal effects
 - [psychophysical-laws-bridging-mind-and-matter](/topics/psychophysical-laws-bridging-mind-and-matter/) — Framework requiring selection laws for mental causation
 - [psychophysical-laws](/concepts/psychophysical-laws/) — How mental states select physical outcomes

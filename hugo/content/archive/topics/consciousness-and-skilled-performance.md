@@ -179,7 +179,7 @@ The strongest physicalist counterargument is that executive attention networks a
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — How perception itself transforms through learning and constancy
 - [consciousness-and-the-neuroscience-of-deliberate-practice](/topics/consciousness-and-skill-acquisition/) — The neural evidence for practice quality mattering
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/) — What it is like as processes become automatic and capacity frees up
-- [mental-imagery-causal-role-of-consciousness](/topics/mental-imagery-causal-role-of-consciousness/) — The causal argument from motor imagery to consciousness's efficacy
+- [mental-imagery-causal-role-of-consciousness](/concepts/mental-imagery/) — The causal argument from motor imagery to consciousness's efficacy
 - [skill-delegation](/concepts/skill-delegation/) — The three-phase structure of delegation: calibration, withdrawal, retained override
 - [motor-selection](/concepts/motor-selection/) — Conscious selection in motor systems
 - [interface-friction](/concepts/interface-friction/) — The resistance at the mind-brain interface that effort tracks
