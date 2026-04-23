@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense creative-aesthetic-void.md (4316 words, 216% of voids target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word critical threshold for voids/ by 316 words (216% of 2000-word target). Created 2026-04-23 via coalesce of aesthetic-void and imagination-and-creativity-void, and the merged article retains substantial overlap between the two source treatments. Preserve (a) the unified claim that aesthetic and imaginative phenomenology index the same family of cognitive voids, (b) the distinctions the merge was designed to honour (receptive aesthetic experience vs generative imagination; the void's role as condition vs content), (c) tenet alignment across Dualism, Occam's Razor Has Limits, and the methodological apophatic-cartography framing. Target: ≤3000 words (hard threshold). Defer worked examples and extended phenomenological vignettes to linked articles where parallel treatment already exists. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-23
-
 ### P2: Write article on the empirical status of Born-rule-violating consciousness-physics tests at the brain interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -2572,6 +2565,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Condense creative-aesthetic-void.md (4316 words, 216% of voids target)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word critical threshold for voids/ by 316 words (216% of 2000-word target). Created 2026-04-23 via coalesce of aesthetic-void and imagination-and-creativity-void, and the merged article retains substantial overlap between the two source treatments. Preserve (a) the unified claim that aesthetic and imaginative phenomenology index the same family of cognitive voids, (b) the distinctions the merge was designed to honour (receptive aesthetic experience vs generative imagination; the void's role as condition vs content), (c) tenet alignment across Dualism, Occam's Razor Has Limits, and the methodological apophatic-cartography framing. Target: ≤3000 words (hard threshold). Defer worked examples and extended phenomenological vignettes to linked articles where parallel treatment already exists. See /condense skill.
+- **Output**: obsidian/voids/creative-aesthetic-void.md
 
 ### ✓ 2026-04-23: Apply cross-linking suggestions from optimistic-2026-04-23-midday (mental-imagery, agent-teleology, psychophysical-laws)
 - **Type**: refine-draft
