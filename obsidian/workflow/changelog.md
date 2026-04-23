@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 11:52:00+00:00
+ai_modified: 2026-04-23 12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 12:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/four-quadrant-dualism-taxonomy]]
+- **Context**: P2 refine-draft task from pessimistic-2026-04-23 — disambiguate thickness axis, hedge landscape claims, rephrase "Q1 stability" as "Q1 articulability"
+- **Changes**: Added §"Limits of the Thickness Metaphor" (~160 words) specifying that the axis tracks structural richness above minimum, not causal work or channel width, and conceding Stapp is placed by judgement; added scope note on monist limit cases at the top of §"The Four Quadrants"; softened uncited empirical-landscape claims throughout (heavily populated → extensively discussed; cleanest Q1 inhabitant → most worked-out recent candidate; Q2 dominates → dialectical default; under-inhabited → under-discussed); rephrased "Q1 stability" to "Q1 articulability" in both §Q1 and §"Where the Taxonomy Points Next" with explicit note that the question is about availability of an argument, not dynamical-system forces; tied the articulability problem to the fiction-to-nature gap flagged in pessimistic-2026-04-22 via [[trumping-preemption#costs-of-the-template|prior review]] cross-link; softened "None of this is visible without the thickness axis" to name Chalmers (2003), Goff (2017), and Pereboom-style worries as partial trackers; attached Tegmark-decoherence caveat to the MQI paragraph in §"Relation to Site Perspective" citing [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]; added Tegmark (2000) and the born-rule-violation research note to References; added [[interface-formalization-void]] and the born-rule research note to related_articles
+- **Word count**: ~2420 → ~2900 (still under 3000 soft threshold)
+- **Published**: yes
 
 ## 2026-04-23 11:52 UTC - pessimistic-review
 - **Status**: Success

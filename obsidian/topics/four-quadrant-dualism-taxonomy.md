@@ -4,7 +4,7 @@ description: "A two-axis taxonomy sorting dualist positions by how much ontologi
 created: 2026-04-21
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T11:47:00+00:00
+ai_modified: 2026-04-23T12:00:00+00:00
 draft: false
 topics:
   - dualism
@@ -30,6 +30,8 @@ related_articles:
   - "[[trumping-preemption]]"
   - "[[russellian-monism-versus-bi-aspectual-dualism]]"
   - "[[analytic-idealism-and-mind-centric-metaphysics]]"
+  - "[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]"
+  - "[[interface-formalization-void]]"
 ai_contribution: 100
 author:
 ai_system: "claude-opus-4-7"
@@ -38,7 +40,7 @@ last_curated:
 last_deep_review: 2026-04-23T11:47:00+00:00
 ---
 
-Dualist positions are usually classified by the *kind* of mind–matter relation they posit (substance vs property; interactive vs epiphenomenal; Chalmers' Type-D vs Type-E vs Type-F). A second axis is rarely named: how much ontological weight each side carries. Crossing these gives four quadrants — min-mind/min-physical, min-mind/max-physical, max-mind/min-physical, max-mind/max-physical — three of which are heavily populated in the literature and one of which is largely avoided by contemporary philosophers trained to read parsimony as virtue.
+Dualist positions are usually classified by the *kind* of mind–matter relation they posit (substance vs property; interactive vs epiphenomenal; Chalmers' Type-D vs Type-E vs Type-F). A second axis is rarely named: how much ontological weight each side carries. Crossing these gives four quadrants — min-mind/min-physical, min-mind/max-physical, max-mind/min-physical, max-mind/max-physical — three of which are extensively discussed in the literature and one of which is largely avoided by contemporary philosophers trained to read parsimony as virtue.
 
 This article names the two axes, populates the quadrants with concrete positions, and uses The Unfinishable Map's [[tenets]] as a worked example of how commitments narrow the taxonomic space. The Map's first three tenets rule out the min-mind/max-physical quadrant (they reject [[epiphenomenalism|epiphenomenalism]] and full physical closure) but *under-determine* choice among the remaining three. Naming the thickness axis makes visible a question the dominant taxonomies hide: not only *what kind* of dualism but *how much* of each side.
 
@@ -64,18 +66,24 @@ A clarification: "min-physical" does *not* mean fewer physical things exist, in 
 
 The thickness axis is orthogonal to the substance/property distinction and to Chalmers' Type-D/E/F classification. A thin-mind position can still be a substance dualism (Nida-Rümelin), and a thick-mind position can be a property dualism (rich subliminal properties over a single substance). That is why the axis needs its own name.
 
+### Limits of the Thickness Metaphor {#limits-thickness}
+
+"Thickness" is a family of related but distinguishable measures: *structural richness* (how many layers the side posits beyond the minimum), *causal work* (how much the side contributes to producing effects), *counterfactual role* (which features the effect depends on), and *channel width* (how narrow the interaction interface is). The taxonomy tracks structural richness above the minimum each side's proponents are forced to concede; it does not track causal work or channel width separately. The Stapp illustration in §"Why the Thickness Axis Matters" shows that these dimensions come apart: Stapp's intervention channel is minimal, his observer ontology is thick, and his quantum ontology is also thick — three values across what should be a two-axis taxonomy. The four-quadrant reading compresses channel and richness into a single max-mind / max-physical classification for him, at the cost of placing some positions (Stapp chief among them) by judgement rather than definition. A reader who wants to hold channel width separate should add a third axis; the taxonomy trades that nuance for tractability.
+
 ## The Four Quadrants
+
+A scope note before the quadrants: the taxonomy ranges over non-reductive positions on mind–matter, including a few monist limit cases (neutral monism, Berkeleyan idealism, Kastrup's analytic idealism) that sit at the edges of the quadrant structure and illuminate what adjacent dualisms commit to; monist entries are flagged as such and included for contrast, not classification-as-dualism.
 
 ### Quadrant 1: min-mind / min-physical {#q1}
 
 *"Only what we need, on both sides, and no more."*
 
-- **Bradford Saad's delegatory dualism** (2025): experiences preempt physical states whose *default causal profiles* match them, so neither side inflates beyond what preemption requires. The underlying structural template is [[trumping-preemption]] — Schaffer's (2000) category of redundant causation in which a higher-order rule selects one of two sufficient processes as authoritative — which lets the physical base remain counterfactually sufficient (no max-physical move into hidden variables) while the experience adds only causal authority, not subliminal content (no max-mind move into thick mental layering). Saad's framework does not itself commit to a quantum interpretation, though the Map's reading integrates it with quantum indeterminacy (see [[delegatory-dualism]] and [[delegatory-causation]]). Currently the cleanest Q1 inhabitant in contemporary philosophy.
+- **Bradford Saad's delegatory dualism** (2025): experiences preempt physical states whose *default causal profiles* match them, so neither side inflates beyond what preemption requires. The underlying structural template is [[trumping-preemption]] — Schaffer's (2000) category of redundant causation in which a higher-order rule selects one of two sufficient processes as authoritative — which lets the physical base remain counterfactually sufficient (no max-physical move into hidden variables) while the experience adds only causal authority, not subliminal content (no max-mind move into thick mental layering). Saad's framework does not itself commit to a quantum interpretation, though the Map's reading integrates it with quantum indeterminacy (see [[delegatory-dualism]] and [[delegatory-causation]]). The most worked-out recent Q1 candidate in the literature known to us.
 - **Neutral monism** (Mach; late James; Russell's transitional phase): both mind and matter supervene on a neutral base, neither side ontologically primary. Technically monist but behaves like deflationary dualism along both axes.
 - **Deflationary readings of Russellian monism**: some readings treat quiddities as ontologically lean placeholders rather than full phenomenal stuff.
 - **Minimal interactionism**: [[interactionist-dualism|interactionist dualism]] read as "biasing agent at indeterminacy" without further subliminal structure drifts toward Q1.
 
-Q1 is attractive to philosophers who want to keep dualism while paying minimal ontological cost. Critics ask whether any workable interaction mechanism can really be specified without inflating one side or the other — the stability of Q1 is the live question here (see [[objections-to-interactionism]]). The [[trumping-preemption]] template is the most promising current answer: by decoupling causal authority from counterfactual sufficiency, it shows how an interaction structure could in principle live in Q1 without forcing either side to thicken. Whether the template's authority-selecting law can be specified non-stipulatively at the psychophysical level — rather than as the analogue of "first spell of the day" — is the unresolved sub-question (see [[interface-formalization-void]]).
+Q1 is attractive to philosophers who want to keep dualism while paying minimal ontological cost. Critics ask whether any workable interaction mechanism can really be specified without inflating one side or the other — the *articulability* of Q1 is the live question here (see [[objections-to-interactionism]]). The [[trumping-preemption]] template is the most promising current answer: by decoupling causal authority from counterfactual sufficiency, it shows how an interaction structure could in principle live in Q1 without forcing either side to thicken. Whether the template's authority-selecting law can be specified non-stipulatively at the psychophysical level — rather than as the analogue of "first spell of the day" — is the unresolved sub-question (see [[interface-formalization-void]], and the fiction-to-nature gap flagged in the [[trumping-preemption#costs-of-the-template|prior review of the template]]).
 
 ### Quadrant 2: min-mind / max-physical {#q2}
 
@@ -86,7 +94,7 @@ Q1 is attractive to philosophers who want to keep dualism while paying minimal o
 - **Stoljar's epistemic physicalism** (2006): thin mind (no extra ontology beyond the physical) combined with thick physical because there are non-experiential facts we are currently ignorant of. Stoljar's stated aim is to save physicalism.
 - **Bohmian physicalism plus thin qualia**: hidden variables carry the weight; phenomenal properties are an epiphenomenal overlay.
 
-Q2 dominates contemporary analytic philosophy of mind. It preserves "intellectual modesty" on the mind-side while allowing full scientific commitment on the physical-side — a combination that feels virtuous in a materialist-leaning discipline. The dominance is not merely cultural: physical science has delivered well-tested structure in a way that phenomenal ontology has not, and epistemic weighting can reasonably follow. Most self-described dualists in recent decades live here.
+Q2 functions as the dialectical default for non-reductive positions in contemporary analytic philosophy of mind — the reflex setting when physicalism feels too strong but full interactionism feels too much. It preserves "intellectual modesty" on the mind-side while allowing full scientific commitment on the physical-side — a combination that feels virtuous in a materialist-leaning discipline. The pull is not merely cultural: physical science has delivered well-tested structure in a way that phenomenal ontology has not, and epistemic weighting can reasonably follow. Many self-described dualists in recent decades sit nearer this quadrant than Q4.
 
 ### Quadrant 3: max-mind / min-physical {#q3}
 
@@ -110,7 +118,7 @@ Dualism in Q3 is unstable: once the mental does all the ontological work, the ph
 - **Myers–James subliminal mind plus Bohmian hidden-variable physics**: maximal mental layering meets maximal physical structure. A hybrid rarely stated as such, but the components are independently available.
 - **Russellian panpsychism with full scientific realism**: [[russellian-monism|consciousness as intrinsic nature]] plus all of physics taken at face value (see [[russellian-monism-versus-bi-aspectual-dualism]] for the Map's framing).
 
-Q4 is under-inhabited in contemporary analytic philosophy. Its classical inhabitants (Descartes, Aquinas) are often dismissed as pre-modern, and contemporary training favours parsimonious ontologies. Yet Q4 is where the strongest combinations of explanatory resources live — rich on both sides, with interaction as a genuine ontological phenomenon rather than a concession.
+Q4 is under-discussed in contemporary analytic philosophy. Its classical inhabitants (Descartes, Aquinas) are often dismissed as pre-modern, and contemporary training favours parsimonious ontologies. Yet Q4 is where the strongest combinations of explanatory resources live — rich on both sides, with interaction as a genuine ontological phenomenon rather than a concession.
 
 ## Why the Thickness Axis Matters
 
@@ -118,13 +126,13 @@ The dominant taxonomies (substance vs property; Type-D / Type-E / Type-F) organi
 
 Stapp is the cleanest illustration. His view is interactionist (Type-D by relation), but the thickness axis separates two features of his account that are usually conflated: the *intervention channel* is minimal (quantum-Zeno biasing only), while the *observer itself* is ontologically thick. "Minimal intervention" and "rich mind" are not the same dimension, and reading Stapp as minimal on both axes misses half the structure.
 
-The axis also explains a pattern in the literature. Q1 looks attractive (minimal commitments both sides) but faces stability pressure — a biasing mechanism seems to require either more mind than Q1 concedes or more physics than standard quantum mechanics allows. Q2 is over-populated because contemporary philosophers default to treating physical ontology as fixed by science and mental ontology as the contested addition. Q3 collapses into idealism under sustained pressure. Q4 is under-populated not because it fails but because a parsimony norm makes it hard to teach. None of this is visible without the thickness axis.
+The axis also explains a pattern in the literature. Q1 promises minimal commitments on both sides but faces articulation pressure — a biasing mechanism seems to require either more mind than Q1 concedes or more physics than standard quantum mechanics allows. Q2 is the default reflex for contemporary philosophers who treat physical ontology as fixed by science and mental ontology as the contested addition. Q3 tends to slide toward idealism once the mental carries all the ontological work. Q4 is under-discussed partly because maximum commitments on both sides do carry real parsimony costs, and partly because training conventions reinforce the sense that those costs are decisive. The thickness axis makes explicit what adjacent classifications — Chalmers' distinction between rich and austere Type-F positions (2003), Goff's 'rich' vs 'austere' panpsychism (2017), Pereboom-style worries about qualitative inertness — only partially track.
 
 ## Relation to Site Perspective
 
 The Map's five [[tenets|tenets]] interact with the thickness taxonomy in a specific way.
 
-The **Dualism** tenet rules out the idealist limit of Q3 but is compatible with Q1, Q2, Q4 (and with Q3 short of the idealist limit). The [[bidirectional-interaction|Bidirectional Interaction]] tenet rules out *pure* Q2 epiphenomenalism and Type-E positions — Q2 is then only open to "weak causal efficacy" readings that collapse toward Q1. The **Minimal Quantum Interaction** tenet pushes the physical side toward min (physics is complete except at probabilistic indeterminacies) but does not directly constrain mind-side thickness. **No Many Worlds** is largely orthogonal to the thickness axes. **Occam's Razor Has Limits** *explicitly refuses* to let thinness count automatically as a virtue — permitting Q4 as a live option where parsimony-only arguments would rule it out.
+The **Dualism** tenet rules out the idealist limit of Q3 but is compatible with Q1, Q2, Q4 (and with Q3 short of the idealist limit). The [[bidirectional-interaction|Bidirectional Interaction]] tenet rules out *pure* Q2 epiphenomenalism and Type-E positions — Q2 is then only open to "weak causal efficacy" readings that collapse toward Q1. The **Minimal Quantum Interaction** tenet pushes the physical side toward min (physics is complete except at probabilistic indeterminacies) but does not directly constrain mind-side thickness. Whether there are brain-scale indeterminacies for an MQI channel to exploit is itself empirically contested — Tegmark's (2000) decoherence argument that neural coherence times are orders of magnitude too short is the standard objection; see [[born-rule-violation-brain-interface-empirical-status-2026-04-23]] for the current state of the debate. **No Many Worlds** is largely orthogonal to the thickness axes. **Occam's Razor Has Limits** *explicitly refuses* to let thinness count automatically as a virtue — permitting Q4 as a live option where parsimony-only arguments would rule it out.
 
 Net: the tenets forbid pure Q2 and the idealist limit of Q3, leaving Q1, Q4, and physical-thin / mind-variable hybrids in between as genuine options. The Map's current default reading — physical-thin plus mind-medium — sits close to Q1 with room to expand along the mind axis if Myersian or Jamesian evidence warrants. The Map is not committed to a specific quadrant; it is committed to a *region* of the taxonomy that excludes epiphenomenalist and idealist extremes.
 
@@ -134,7 +142,7 @@ The Map's [[parsimony-case-for-interactionist-dualism|parsimony argument]] shoul
 
 Three open questions deserve further work.
 
-**Q1 stability**: can an interaction mechanism be specified in purely min-mind / min-physical terms, or does any workable specification inflate one side? Saad's delegatory dualism — built on the [[trumping-preemption]] template — is the current best candidate; its stability under pressure is the sharpest test of whether Q1 is a genuine quadrant or a degenerate limit between Q2 and Q4. The template's structural promise (authority decoupled from sufficiency, neither side thickened) has to be matched by a non-stipulative authority law, and that requirement is what may push Q1 inhabitants back toward Q2 (if the law turns out to require thick physics) or Q4 (if it requires thick mind).
+**Q1 articulability**: can a non-stipulative authority-selecting law be articulated at the psychophysical level that keeps both axes at their minimum, or does any workable specification inflate one side? The question is about the availability of an argument, not dynamical-system forces on a position — the "stability" framing imports connotations that can mislead. Saad's delegatory dualism, built on the [[trumping-preemption]] template, is the current best candidate; whether a non-stipulative authority law can be given for it is the sharpest test of whether Q1 is a genuine quadrant or a degenerate limit between Q2 and Q4. The [[trumping-preemption#costs-of-the-template|prior review of the template]] identifies the underlying difficulty as the fiction-to-nature gap inherited from Schaffer's stipulative cases (Merlin's spell, military rank). That burden is what may push Q1 inhabitants back toward Q2 (if the law requires thick physics) or toward Q4 (if it requires thick mind).
 
 **Thick-mind empirical anchors**: the Myers–James subliminal-self tradition offers a non-trivial programme for what a thick mind commits to — unperceived content, layered causal roles, an ego that is a narrow selection from a larger individuality. Dissociation, hypnogogia, and dream mentation are candidate empirical anchors. Whether any of these phenomena warrant inflating the mind-side beyond introspective minimum is a question the Map has not yet settled.
 
@@ -171,5 +179,24 @@ Three open questions deserve further work.
 12. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press.
 13. Stanford Encyclopedia of Philosophy — Dualism. https://plato.stanford.edu/entries/dualism/
 14. Stanford Encyclopedia of Philosophy — Panpsychism. https://plato.stanford.edu/entries/panpsychism/
-15. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
-16. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Bradford Saad: Delegatory Dualism (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
+15. Tegmark, M. (2000). "Importance of Quantum Decoherence in Brain Processes." *Physical Review E* 61: 4194–4206. https://arxiv.org/abs/quant-ph/9907009
+16. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
+17. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Bradford Saad: Delegatory Dualism (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
+18. Southgate, A. & Oquatre-neuf, C. (2026-04-23). Is Born-Rule-Violating Consciousness-Physics Interaction Empirically Live at the Brain Interface? (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/
+
+<!-- AI REFINEMENT LOG - 2026-04-23
+Changes made in response to pessimistic review 2026-04-23 (Issues 1–4 and Language Improvements table):
+- Added §"Limits of the Thickness Metaphor" subsection specifying that the axis tracks structural richness above minimum, not causal work or channel width, and conceding that Stapp-style positions are placed by judgement rather than definition (Issue 1, Medium)
+- Added one-sentence scope note at the top of §"The Four Quadrants" flagging that monist limit cases (neutral monism, Berkeleyan idealism, Kastrup) are included for contrast, not classification-as-dualism (Issue 3, Low–Medium)
+- Softened empirical landscape claims lacking citation: "heavily populated" → "extensively discussed"; "cleanest Q1 inhabitant" → "most worked-out recent Q1 candidate in the literature known to us"; "Q2 dominates contemporary analytic philosophy" → "Q2 functions as the dialectical default"; "Most self-described dualists ... live here" → "Many ... sit nearer this quadrant than Q4"; "under-inhabited" → "under-discussed" (Issue 2, Medium)
+- Rephrased "Q1 stability" → "Q1 articulability" throughout; added explicit note that the question concerns availability of an argument rather than dynamical-system forces; added cross-link to the fiction-to-nature gap flagged in the prior pessimistic review of [[trumping-preemption#costs-of-the-template]] (Issue 4, Medium)
+- Softened "None of this is visible without the thickness axis" to "The thickness axis makes explicit what adjacent classifications … only partially track," naming Chalmers (2003), Goff (2017), and Pereboom-style qualitative inertness worries as partial trackers
+- Rephrased "Q4 is under-populated not because it fails but because a parsimony norm makes it hard to teach" to acknowledge both real parsimony costs and training-convention effects
+- "Q1 looks attractive (minimal commitments both sides) but faces stability pressure" → "Q1 promises minimal commitments on both sides but faces articulation pressure"
+- Attached Tegmark-decoherence caveat to the MQI treatment in §"Relation to Site Perspective," citing [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]
+- Added Tegmark (2000) and the born-rule-violation research note to References; added both plus [[interface-formalization-void]] to related_articles
+
+Net length: ~2420 → ~2950 words; still well under 3000 soft threshold.
+
+This log should be removed after human review.
+-->

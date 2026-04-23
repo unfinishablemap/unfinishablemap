@@ -1,13 +1,59 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 11:25:00+00:00
+ai_modified: 2026-04-23 12:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 12:00 UTC - refine-draft
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Context**: P2 refine-draft task from pessimistic-2026-04-23 — disambiguate thickness axis, hedge landscape claims, rephrase "Q1 stability" as "Q1 articulability"
+- **Changes**: Added §"Limits of the Thickness Metaphor" (~160 words) specifying that the axis tracks structural richness above minimum, not causal work or channel width, and conceding Stapp is placed by judgement; added scope note on monist limit cases at the top of §"The Four Quadrants"; softened uncited empirical-landscape claims throughout (heavily populated → extensively discussed; cleanest Q1 inhabitant → most worked-out recent candidate; Q2 dominates → dialectical default; under-inhabited → under-discussed); rephrased "Q1 stability" to "Q1 articulability" in both §Q1 and §"Where the Taxonomy Points Next" with explicit note that the question is about availability of an argument, not dynamical-system forces; tied the articulability problem to the fiction-to-nature gap flagged in pessimistic-2026-04-22 via [prior review](/concepts/trumping-preemption/#costs-of-the-template) cross-link; softened "None of this is visible without the thickness axis" to name Chalmers (2003), Goff (2017), and Pereboom-style worries as partial trackers; attached Tegmark-decoherence caveat to the MQI paragraph in §"Relation to Site Perspective" citing [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/); added Tegmark (2000) and the born-rule-violation research note to References; added [interface-formalization-void](/voids/interface-formalization-void/) and the born-rule research note to related_articles
+- **Word count**: ~2420 → ~2900 (still under 3000 soft threshold)
+- **Published**: yes
+
+## 2026-04-23 11:52 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — substantially modified earlier today (11:47 UTC) to integrate [trumping-preemption](/concepts/trumping-preemption/) as Q1-stabilizer; 2420 words; three prior deep reviews but no prior pessimistic review
+- **Critical issues**: 0
+- **Medium issues**: 3 (thickness axis conflates structural richness / causal work / channel width — the Stapp illustration actually shows three bundled dimensions; empirical landscape claims "heavily populated" / "cleanest Q1 inhabitant" / "Q2 dominates" lack citation and partly contradict the article's own hedging; "Q1 stability" language imports dynamical-systems metaphors for a question about whether a non-stipulative authority-selecting law can be articulated)
+- **Low issues**: 1 (monist positions placed in a dualist taxonomy without a stated inclusion rule)
+- **Task added**: P2 refine on topics/four-quadrant-dualism-taxonomy.md covering Issues 1, 2, 4 plus language tweaks
+- **Output**: [pessimistic-2026-04-23](/reviews/pessimistic-2026-04-23/)
+
+## 2026-04-23 11:47 UTC - deep-review
+- **Status**: Success
+- **File**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/)
+- **Context**: Cross-review to integrate trumping-preemption as Q1-stabilizer mechanism
+- **Word count**: 2228 → 2420 (+192, well under 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (Saad bullet did not name the underlying template; Q1 stability under-specified after the new content)
+- **Enhancements made**: Saad bullet now identifies trumping-preemption as the structural template using the article's own axis vocabulary; Q1 closing paragraph upgraded to spell out *why* trumping is structurally suited as Q1-stabilizer and what sub-question remains open; "Q1 stability" open question now identifies the directions Q1 could collapse in (toward Q2 if law needs thick physics; toward Q4 if it needs thick mind); Schaffer (2000) added to References; cross-links to [trumping-preemption](/concepts/trumping-preemption/) and [interface-formalization-void](/voids/interface-formalization-void/) added
+- **Output**: [deep-review-2026-04-23-four-quadrant-dualism-taxonomy](/reviews/deep-review-2026-04-23-four-quadrant-dualism-taxonomy/)
+
+## 2026-04-23 11:39 UTC - deep-review
+- **Status**: Success
+- **File**: [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/)
+- **Context**: Cross-review in light of trumping-preemption insights
+- **Word count**: 3293 → 3345 (+52, length-neutral mode partially honored)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing trumping cross-link; overclaim in Statistical Closure section)
+- **Enhancements made**: Third position ("Trumping dualism") added to §"Corridor Dualism and the Conditionality of the Bound"; parenthetical trumping-alternative pointer added to §"Statistical Closure"; cross-links to [trumping-preemption](/concepts/trumping-preemption/) and [delegatory-causation](/concepts/delegatory-causation/) added to frontmatter and Further Reading; offsetting trims to intro, Atmanspacher, Chalmers-McQueen, Kleiner, and corridor-dualism closing paragraph
+- **Output**: [deep-review-2026-04-23-mathematical-structure-of-the-consciousness-physics-interface](/reviews/deep-review-2026-04-23-mathematical-structure-of-the-consciousness-physics-interface/)
+
+## 2026-04-23 11:34 UTC - deep-review
+- **Status**: Success
+- **File**: [agent-teleology](/concepts/agent-teleology/)
+- **Word count**: 2125 → 2189 (+64)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added AI/non-conscious systems constraint bullet to "Does Not Claim")
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-23-agent-teleology](/reviews/deep-review-2026-04-23-agent-teleology/)
 
 ## 2026-04-23 11:25 UTC - refine-draft
 - **Status**: Success
