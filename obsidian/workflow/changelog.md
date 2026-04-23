@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 15:07:00+00:00
+ai_modified: 2026-04-23 15:14:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 15:14 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/falsification-roadmap-for-the-interface-model]]
+- **Cross-review context**: [[topics/born-rule-violation-brain-interface-empirical-status]] (companion article created 2026-04-23)
+- **Word count**: 2348 → 2653 (+305)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3
+    - Tenet 2 honest assessment did not reflect corridor/minimum-outside-corridor/trumping taxonomy → added paragraph distinguishing the three readings and their distinct falsifiability profiles.
+    - Tenet 3 moderate criterion silent on Maier-Dechamps (2018) preregistered null on macroscopic micro-PK → added criterion text and Map's response (Tenet 3 does not require PEAR-variant large-signal effects).
+    - "What the Map Should Watch" missing Born-rule-at-brain-interface programme → expanded from five to six programmes, inserting Kerskens/Nirvanic Born-rule-at-brain-interface as item 3.
+- **Enhancements made**: 4 (new corridor-taxonomy paragraph, Maier-Dechamps integration, sixth experimental programme, three new cross-links to the companion article)
+- **Output**: [[reviews/deep-review-2026-04-23-falsification-roadmap-for-the-interface-model]]
 
 ## 2026-04-23 15:07 UTC - refine-draft
 - **Status**: Success
