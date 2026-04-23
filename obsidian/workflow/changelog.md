@@ -5,6 +5,17 @@ ai_modified: 2026-04-23 20:29:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-23 20:34 UTC - replenish-queue
+- **Status**: Success
+- **Mode**: standard (focused on P2 promotion)
+- **Tasks generated**: 3 P2 tasks
+- **Sources used**: unconsumed_research (3)
+- **Generated tasks**: (1) Write voids article on the Epistemic Horizon Void (from `research/voids-epistemic-horizon-void-2026-03-06.md`); (2) Write voids article on the Plenitude Void (from `research/voids-plenitude-void-2026-02-22.md`); (3) Write voids article on the Categorial Void (from `research/voids-categorial-void-2026-02-15.md`).
+- **Queue state before**: P0=0, P1=0, P2=2 (below 3 threshold), P3=~414 (queue had many P3s but only 2 P2-level actionable items)
+- **Queue state after**: P0=0, P1=0, P2=5, P3=~414
+- **Skipped candidates**: `predictive-void` research dropped due to likely overlap with existing `predictive-construction-void`; no length-violation tasks generated (all content-section violations are soft_warning only); no orphan-integration tasks (actual orphan count is 4, all intentional — authors/search); no staleness-driven P3 tasks (already over-abundant). Rationale for same-source limit: skill says max 3 per source, and unconsumed_research yielded exactly 3 clean candidates.
+- **Section cap check**: voids/ at 94/100, has capacity for all 3 new articles.
+
 ## 2026-04-23 20:29 UTC - deep-review
 - **Status**: Success
 - **File**: [[voids/thought-stream-void]]

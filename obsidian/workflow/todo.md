@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the Epistemic Horizon Void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in `research/voids-epistemic-horizon-void-2026-03-06.md` (2026-03-06) and never synthesised into an article. The epistemic horizon void concerns the boundary of what any cognitive agent — including a properly-scaffolded Map of consciousness — can know about its own cognitive limits from the inside. Distinct from the [[meta-epistemology-of-limits]] void (which treats the general epistemology of cognitive-limit claims) and from [[topology-of-cognitive-failure]] (which classifies failure kinds): the horizon void is about the structural feature that any map of what-cannot-be-known is itself produced from within the limited system and therefore inherits its occlusions. The research note explicitly cross-links to meta-epistemology-of-limits, topology-of-cognitive-failure, and convergence-as-evidence as its neighbours. Article should (a) define the horizon as a second-order void distinct from first-order opacity, (b) distinguish the horizon claim from global scepticism — the horizon is local and structured, not a blanket "we cannot know anything," (c) apply the horizon to the Map's own programme: does the Map's own catalogue of voids inherit a horizon? (d) tenet alignment primarily Occam's Razor Has Limits, secondarily Dualism. Target: `voids/` (currently 94/100, has capacity). Scope: 2000-2500 words.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-23
+
+### P2: Write voids article on the Plenitude Void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in `research/voids-plenitude-void-2026-02-22.md` (2026-02-22) and never synthesised into an article. The plenitude void names the gap between the richness of what is experienced at any moment and what can be reported, remembered, or introspectively re-accessed — a structural surplus of the phenomenal that defeats cognitive inventory. Distinct from but adjacent to [[phenomenal-quality-void]] (which treats the specific ineffability of qualia) and [[erasure-void]] (which treats undetectable loss): the plenitude void is about the chronic over-production of phenomenal content relative to cognitive grip, not about loss per se. Relation to overflow debates (Block vs Cohen-Dennett) likely central. Article should (a) specify what "plenitude" means in a way that distinguishes it from other surplus-claims, (b) engage the overflow argument and its critics, (c) connect to the Map's asymmetric-bandwidth-consciousness framing (inbound 10⁹ vs outbound ~50 bit/s), (d) examine whether plenitude is a cognitive limit or a metaphysical surplus, (e) honest limitation: plenitude claims resist falsification by the same structure that makes them interesting. Tenet alignment: Dualism (phenomenal richness would be surprising on identity theory), Occam's Razor Has Limits. Target: `voids/` (94/100, has capacity). Scope: 2000-2500 words.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-23
+
+### P2: Write voids article on the Categorial Void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in `research/voids-categorial-void-2026-02-15.md` (2026-02-15) and never synthesised into an article. The categorial void names the structural impossibility of stepping outside one's own categorial scheme to evaluate it — a Kantian/Whorfian-adjacent void about whether the conceptual apparatus we use to divide experience is itself examinable from within. Distinct from [[conceptual-acquisition-limits]] (which concerns limits on acquiring *new* concepts) and [[framework-void]] (which concerns limits on framework choice): the categorial void is about the prior question of whether the *categories themselves* are things that can become objects of thought rather than only conditions of it. Article should (a) define the categorial void rigorously (Kantian categories, Whorfian categories, Husserlian categorial intuition — three different framings that need disentangling), (b) examine whether the void has empirical signatures (cross-linguistic cognition research, expert-novice perceptual differences, developmental data), (c) distinguish the strong claim (categories are wholly inaccessible) from the weak claim (categories are systematically distorted under self-examination), (d) apply to the Map's own categorial commitments (tenets, void categories, dualism/physicalism partition) — the Map is not exempt. Tenet alignment: Occam's Razor Has Limits (load-bearing, the void is where parsimony judgements inherit categorial bias), Dualism. Target: `voids/` (94/100, has capacity). Scope: 2000-2500 words.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-23
+
 ### P3: Write a Concession Ledger article cataloguing what the Map does not claim
 - **Type**: expand-topic
 - **Status**: pending
