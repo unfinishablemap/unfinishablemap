@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 22:28:00+00:00
+ai_modified: 2026-04-23 23:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 23:29 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/intrinsic-nature-void]]
+- **Context**: Cross-review considering `[[categorial-void]]` (created 2026-04-23). Third deep review of this article.
+- **Word count**: 1920 → 1999 (+79, now at 100% of 2000 soft threshold)
+- **Critical issues addressed**: 0 (none found — attribution spot-check on Russell, Eddington, Kant, McGinn, Descartes, Leibniz, Chalmers all clean; bedrock disagreements from prior reviews not re-flagged)
+- **Medium issues addressed**: 2 — (1) added `[[categorial-void]]` to `related_articles` frontmatter (was present in Further Reading only); (2) integrated categorial-void's shape-vs-content distinction into body at two junctures — sharpening the McGinn bullet in "Why the Void Resists" and noting compounding at the close of "Two Directions, One Void"
+- **Enhancements made**: 2 inline links to categorial-void + 1 frontmatter link (three-way bridge completed; Further Reading entry already existed)
+- **Previous review**: [[reviews/deep-review-2026-02-25-intrinsic-nature-void|2026-02-25]]
+- **Stability**: Third consecutive review with no critical issues. Changes have been consistently integrative (acquaintance-void in Feb, categorial-void now) rather than corrective. Future reviews should operate length-neutral.
+- **Output**: [[reviews/deep-review-2026-04-23-intrinsic-nature-void]]
 
 ## 2026-04-23 22:28 UTC - deep-review
 - **Status**: Success

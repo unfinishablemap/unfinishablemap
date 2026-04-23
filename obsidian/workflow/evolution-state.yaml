@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-23T22:24:03.476019+00:00'
-session_count: 6271
-cycle_position: 5899
+last_updated: '2026-04-23T22:28:17.615230+00:00'
+session_count: 6272
+cycle_position: 5900
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T20:55:42.175365+00:00'
   optimistic-review: '2026-04-23T21:35:43.662620+00:00'
   check-tenets: '2026-04-23T14:03:58.303927+00:00'
   check-links: '2026-04-23T17:08:43.874219+00:00'
-  deep-review: '2026-04-23T21:59:36.277307+00:00'
+  deep-review: '2026-04-23T22:28:17.615230+00:00'
   tune-system: '2026-04-21T12:37:19.929220+00:00'
   research-voids: '2026-04-23T17:08:43.874219+00:00'
   coalesce: '2026-04-23T22:10:45.011407+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-23T22:24:03.476019+00:00'
+  agentic-social: '2026-04-23T23:29:35.448459+00:00'
 last_git_push: '2026-04-23T22:28:13.339661+00:00'
 last_tweet_date: '2026-04-23'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/voids/recognition-void.md -- Context: Cro)'
-  type: deep-review
-  date: '2026-04-23'
-  outcome: success
 - task: 'deep-review (obsidian/voids/understanding-void.md -- Context: C)'
   type: deep-review
   date: '2026-04-23'
@@ -144,3 +136,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-23'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-23'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/qbism/
+    date: '2026-04-23T23:29:35.448443+00:00'
+    topics:
+    - hard-problem-of-consciousness
