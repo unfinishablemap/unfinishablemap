@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 16:07:00+00:00
+ai_modified: 2026-04-23 16:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 16:21 UTC - coalesce
+- **Status**: Aborted (no strong candidates)
+- **Sections surveyed**: topics/ (231/250, 92.4%, most pressured), concepts/ (227/250, 90.8%), voids/ (91/100, 91%)
+- **Candidates examined in topics/**: (1) phenomenology-of-cognitive-capacity + phenomenology-of-cognitive-limit-types — distinct subjects (working-memory/automatisation vs phenomenological signatures of limit types); (2) consciousness-and-normative-force + consciousness-and-the-normativity-of-reason — broader + focused; narrower article has 11+ active inbound wikilinks providing standalone reference value; (3) the-interface-location-problem + the-interface-specification-problem — explicitly declared "logically independent" in-text; (4) consciousness-and-the-metaphysics-of-composition/individuation/laws — each addresses a distinct, well-defined metaphysical question (SCQ / subject boundaries / nature of laws); (5) phenomenology-of-intellectual-life + phenomenology-of-intellectual-courage — general vs. specifically heterodox-under-pressure; (6) phenomenology-of-returning-attention + phenomenology-of-attention-to-absence — unrelated (attention cycle vs perceiving absence); (7) phenomenal-normativity-environmental-ethics + phenomenology-of-resistance-across-domains — completely unrelated.
+- **Candidates examined in concepts/**: phenomenal-contrast-method + phenomenological-evidence — moderate case (contrast method is a specific tool within broader phenomenological methodology), but contrast method serves a distinct focused function and phenomenological-evidence is already a 3-source coalescence; merging would dilute specificity for a marginal one-slot saving; types-of-ai-phenomenal-experience + ai-consciousness-modes — genuinely different taxonomies (six coupling-categories vs Tulving hierarchy) that cross-reference each other.
+- **Finding**: Articles in these sections are deliberately differentiated, many by explicit cross-reference conventions ("develops in detail", "logically independent", "the prior/complementary question"). Each candidate pair addresses related territory from genuinely distinct philosophical angles. Pattern matches the 2026-04-23 13:18 UTC abandonment finding.
+- **Decision**: Follow skill instruction — abandon rather than force a merge.
 
 ## 2026-04-23 16:07 UTC - condense
 - **Status**: Success
