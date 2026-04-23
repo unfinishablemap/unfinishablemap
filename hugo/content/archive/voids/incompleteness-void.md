@@ -168,7 +168,7 @@ The incompleteness void differs from other voids in being *mathematically demons
 - [Computational and Cognitive Limits](/voids/formal-cognitive-limits/) — Turing, Gödel, and the boundaries of computation
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural cognitive limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
-- [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
 - [The Cartography Problem](/voids/apophatic-cartography/) — Why the map of cognitive voids cannot contain itself
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — The Münchhausen problem applied to cognitive self-improvement
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Different failure signatures for different limit types

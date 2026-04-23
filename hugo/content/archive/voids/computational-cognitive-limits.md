@@ -150,7 +150,7 @@ Neither has been achieved. The computational void is established; whether it is 
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [AI as Void Explorer](/voids/non-human-minds-as-void-explorers/) — Can artificial minds probe beyond human cognitive limits?
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What can minds access that machines cannot?
-- [Whether the Voids Are Real](/voids/whether-real/) — Are limits permanent or merely current?
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Are limits permanent or merely current?
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — The epistemology and phenomenology of mathematical understanding
 

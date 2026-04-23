@@ -134,7 +134,7 @@ The cartography problem connects to the Map's [tenets](/tenets/) at multiple poi
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [The Self-Reference Paradox](/voids/self-opacity/) — Consciousness trying to observe itself
 - [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Gödel's shadow on self-knowledge
-- [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our own limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — Boundaries as data about architecture
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Formalising the method of knowing through negation

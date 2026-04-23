@@ -61,7 +61,7 @@ topics: []
 ### Cross-links Added
 - [mysterianism](/concepts/mysterianism/) (in Cognitive Closure section)
 - [limits-reveal-structure](/voids/limits-reveal-structure/) (in Cognitive Closure section)
-- [whether-real](/voids/whether-real/) (in Cognitive Closure section)
+- [whether-real](/voids/meta-epistemology-of-limits/) (in Cognitive Closure section)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) (in Approaching the Edge section)
 - [illusionism](/concepts/illusionism/) (new section and Further Reading)
 - [introspection](/concepts/introspection/) (Further Reading and frontmatter)

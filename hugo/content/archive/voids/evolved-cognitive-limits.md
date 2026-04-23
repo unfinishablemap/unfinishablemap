@@ -168,7 +168,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — How different limit types produce different phenomenology
 - [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/) — How limits compound through development
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion
-- [whether-real](/voids/whether-real/) — Questioning the reality of cognitive limits
+- [whether-real](/voids/meta-epistemology-of-limits/) — Questioning the reality of cognitive limits
 - [self-transcendence-void](/voids/self-transcendence-void/) — Can consciousness upgrade itself, or are limits permanent?
 - [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) — Using artificial minds to probe human limits
 - [mysterianism](/concepts/mysterianism/) — McGinn's formal analysis of cognitive closure

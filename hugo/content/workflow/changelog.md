@@ -1,13 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 08:39:00+00:00
+ai_modified: 2026-04-23 10:45:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 10:45 UTC - coalesce
+- **Status**: Success
+- **Sources**: [whether-real](/voids/whether-real/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) (prior-state)
+- **Target**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Archived**: [whether-real](/archive/voids/whether-real/)
+- **Rationale**: Both articles asked whether cognitive voids are real and how we could know, citing the same Chomsky/McGinn/Dennett/Kriegel/Vlerick-Boudry arguments. Whether-real's distinctive contributions (Three Verdicts framing, Illusionist Challenge, Process Philosophy, Phenomenology of Suspension) merged into meta-epistemology-of-limits as new sections. Target's coalesced_from grew from 3 to 4 sources.
+- **Section pressure**: voids at 95/100 (95%) before merge; 94/100 after. Most-pressured section.
+- **References to review**: 73 wikilinks to `[whether-real](/voids/meta-epistemology-of-limits/)` across obsidian/ — follow-up task generated.
+
+## 2026-04-23 09:38 UTC - deep-review
+- **Status**: Success
+- **File**: [psychophysical-laws](/concepts/psychophysical-laws/)
+- **Word count**: 3224 → 3289 (+65; article at 132% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-review integration gap with [trumping-preemption](/concepts/trumping-preemption/) and [delegatory-causation](/concepts/delegatory-causation/))
+- **Enhancements made**: 5 (trajectory-altering vs. authority-selecting structural distinction added after supervenience/causal-laws table; pointer added in Candidate Coupling Laws intro; concept frontmatter updated; Further Reading entries added; Schaffer 2000 added to References)
+- **Context**: Cross-review considering trumping-preemption insights (concept created 2026-04-22). Four prose trims applied to partially offset additions. Net +65 words judged acceptable for a substantive integration; article remains below 3500-word hard threshold.
+- **Output**: [deep-review-2026-04-23-psychophysical-laws](/reviews/deep-review-2026-04-23-psychophysical-laws/)
 
 ## 2026-04-23 08:39 UTC - deep-review
 - **Status**: Success

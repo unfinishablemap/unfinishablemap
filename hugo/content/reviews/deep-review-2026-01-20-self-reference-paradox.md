@@ -80,7 +80,7 @@ To frontmatter concepts:
 
 To related_articles:
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
-- [whether-real](/voids/whether-real/)
+- [whether-real](/voids/meta-epistemology-of-limits/)
 
 To Further Reading:
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/)
@@ -88,7 +88,7 @@ To Further Reading:
 - [Introspection and First-Person Methods](/concepts/introspection/)
 - [Illusionism](/concepts/illusionism/)
 - [What the Limits Reveal](/voids/limits-reveal-structure/)
-- [Whether the Voids Are Real](/voids/whether-real/)
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/)
 - [Decoherence and Quantum Biology](/concepts/decoherence/)
 
 ### References Added

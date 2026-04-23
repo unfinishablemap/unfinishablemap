@@ -125,7 +125,7 @@ The constitutive thesis connects to each of the Map's [tenets](/tenets/):
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How the shape of limits reveals cognitive architecture
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are permanent?
+- [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are permanent?
 - [death-void](/voids/death-void/) — How mortality structures temporal meaning
 - [voids-between-minds](/voids/voids-between-minds/) — How the unknowability of others grounds ethics
 - [aesthetic-void](/voids/aesthetic-void/) — Where ineffability opens access to the sublime

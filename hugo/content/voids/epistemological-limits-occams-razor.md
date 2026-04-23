@@ -75,7 +75,7 @@ In the Map's [taxonomy](/voids/three-kinds-of-void/), this void has elements of 
 
 **Occluded.** There may be a selection effect: philosophies and scientific frameworks that survive cultural transmission are those that *feel simple enough to be plausible*. Correct-but-complex metaphysical theories might be systematically filtered out by the collective simplicity preferences of the intellectual community. If so, the filtering is invisible — we see only the theories that passed through.
 
-Whether this void is permanent or temporary remains, as with most voids, [undecidable from within](/voids/whether-real/).
+Whether this void is permanent or temporary remains, as with most voids, [undecidable from within](/voids/meta-epistemology-of-limits/).
 
 ## A Partial Access Point
 
@@ -106,7 +106,7 @@ The connection to [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quant
 - [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Evidence standards that do not reduce to compression preference
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The general problem of assessing cognitive limits from within
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
-- [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are permanent?
+- [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are permanent?
 - [mysterianism](/concepts/mysterianism/) — McGinn's analysis of cognitive closure
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why phenomenal consciousness resists physical explanation
 - [materialism](/concepts/materialism/) — The position parsimony is invoked to defend

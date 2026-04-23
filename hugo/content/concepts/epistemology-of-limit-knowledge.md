@@ -126,7 +126,7 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — The structural inference method in action
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The apophatic method's philosophical roots
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
-- [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are permanent?
+- [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are permanent?
 - [recognition-void](/voids/recognition-void/) — An example of limit-knowledge from neuroscience
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence bearing on limit-knowledge claims
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What encountering a cognitive limit feels like from the inside

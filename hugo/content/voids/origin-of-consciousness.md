@@ -166,7 +166,7 @@ The origin void exemplifies the Map's method: taking consciousness seriously lea
 - [self-reference paradox](/voids/self-opacity/) — Structural obstacles to self-examination
 - [The Thrownness Void](/voids/thrownness-void/) — The inaccessibility of consciousness's founding moment
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [whether-real](/voids/whether-real/) — The question of genuine versus apparent limits
+- [whether-real](/voids/meta-epistemology-of-limits/) — The question of genuine versus apparent limits
 
 ## References
 

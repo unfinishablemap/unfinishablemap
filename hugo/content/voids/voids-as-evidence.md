@@ -89,7 +89,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The catalogue'
 
 **The Cognitive Architecture Family.** [Evolved cognitive limits](/voids/biological-cognitive-closure/), [formal cognitive limits](/voids/formal-cognitive-limits/), [attention-created voids](/voids/attention-and-consciousness/), [habituation void](/voids/disappearance-voids/), [language-thought boundary](/voids/language-thought-boundary/), and [scale void](/voids/scale-void/) reveal constraints imposed by the specific architecture of human minds. The [Recognition Void's](/voids/recognition-void/) "inventory blindness" deepens this family. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Unlike the phenomenal core, the failure is specific to biological cognition, making [AI triangulation](/voids/non-human-minds-as-void-explorers/) directly applicable.
 
-**The Framework Reflexivity Family.** The [tenet-generated voids](/voids/tenet-generated-voids/), [cartography problem](/voids/apophatic-cartography/), formal cognitive limits, [recursion void](/voids/recursion-void/), and [question of whether voids are real](/voids/whether-real/) share a self-referential structure. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
+**The Framework Reflexivity Family.** The [tenet-generated voids](/voids/tenet-generated-voids/), [cartography problem](/voids/apophatic-cartography/), formal cognitive limits, [recursion void](/voids/recursion-void/), and [question of whether voids are real](/voids/meta-epistemology-of-limits/) share a self-referential structure. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
 
 ### Shared Boundaries and Directional Convergence
 
@@ -173,7 +173,7 @@ The two arguments connect to each of the Map's [tenets](/tenets/), often reinfor
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids the Map's own commitments generate
 - [apophatic-cartography](/voids/apophatic-cartography/) — The method validated by convergence
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
-- [whether-real](/voids/whether-real/) — Whether the pattern tracks something genuine
+- [whether-real](/voids/meta-epistemology-of-limits/) — Whether the pattern tracks something genuine
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether we can assess our own cognitive limits
 - [recognition-void](/voids/recognition-void/) — Inventory blindness strengthens the convergence argument
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — The prior question: why consciousness exists at all

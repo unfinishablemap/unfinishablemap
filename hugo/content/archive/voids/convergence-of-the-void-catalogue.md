@@ -70,7 +70,7 @@ The family's signature failure is **architectural mismatch**: the tool is wrong 
 
 ### The Framework Reflexivity Family
 
-The [tenet-generated voids](/voids/tenet-generated-voids/), the [cartography problem](/voids/apophatic-cartography/), the [incompleteness void](/voids/formal-cognitive-limits/), the [recursion void](/voids/recursion-void/), and the [question of whether voids are real](/voids/whether-real/) share a self-referential structure. Each asks whether the framework investigating voids can account for its own limitations. The tenets generate voids they cannot fill. The map cannot map its own incompleteness. The recursion depth needed to fully examine recursive limits exceeds available recursion depth. Whether voids are genuine is itself potentially a void.
+The [tenet-generated voids](/voids/tenet-generated-voids/), the [cartography problem](/voids/apophatic-cartography/), the [incompleteness void](/voids/formal-cognitive-limits/), the [recursion void](/voids/recursion-void/), and the [question of whether voids are real](/voids/meta-epistemology-of-limits/) share a self-referential structure. Each asks whether the framework investigating voids can account for its own limitations. The tenets generate voids they cannot fill. The map cannot map its own incompleteness. The recursion depth needed to fully examine recursive limits exceeds available recursion depth. Whether voids are genuine is itself potentially a void.
 
 The family's signature failure is **self-undermining inquiry**: the investigation destabilises its own foundations without resolving into either confirmation or refutation. The structure is not paradox (which would be crisp) but vertigo—a sustained instability that neither collapses nor resolves.
 
@@ -145,7 +145,7 @@ The convergence analysis connects to each of the Map's [tenets](/tenets/).
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids the Map's own commitments generate
 - [apophatic-cartography](/voids/apophatic-cartography/) — The method validated by convergence
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
-- [whether-real](/voids/whether-real/) — Whether the convergence pattern tracks something genuine
+- [whether-real](/voids/meta-epistemology-of-limits/) — Whether the convergence pattern tracks something genuine
 
 ## References
 

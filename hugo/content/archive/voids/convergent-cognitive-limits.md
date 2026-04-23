@@ -134,7 +134,7 @@ The convergent limits framework would be weakened if:
 - [Topology of Cognitive Failure](/voids/compound-failure-signatures/) — How different limit types produce different phenomenology
 - [Cognitive Aversion](/voids/defended-territory/) — Motivational deflection that steers thought from certain territories
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion for void-mapping
-- [Whether the Voids Are Real](/voids/whether-real/) — Questioning the reality of cognitive limits
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Questioning the reality of cognitive limits
 - [AI as Void-Explorer](/voids/non-human-minds-as-void-explorers/) — Using artificial minds to probe human limits
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis
 

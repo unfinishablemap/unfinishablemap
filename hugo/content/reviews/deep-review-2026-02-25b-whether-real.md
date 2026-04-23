@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [Whether the Voids Are Real](/voids/whether-real/)
+**Article**: [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/)
 **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-whether-real/)
 **Context**: Cross-review considering reality-feeling-void insights
 

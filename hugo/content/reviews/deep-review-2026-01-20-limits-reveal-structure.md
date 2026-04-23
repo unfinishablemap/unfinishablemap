@@ -54,7 +54,7 @@ topics: []
 
 ### Cross-links Added
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
-- [whether-real](/voids/whether-real/)
+- [whether-real](/voids/meta-epistemology-of-limits/)
 - [illusionism](/concepts/illusionism/)
 - [introspection](/concepts/introspection/)
 - [decoherence](/concepts/decoherence/)

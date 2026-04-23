@@ -145,7 +145,7 @@ Note that this recursive challenge applies equally to philosophical positions ab
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive limits
-- [Whether the Voids Are Real](/voids/whether-real/) — Questioning whether cognitive limits are genuine
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Questioning whether cognitive limits are genuine
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some thoughts be actively blocked?
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level constraints

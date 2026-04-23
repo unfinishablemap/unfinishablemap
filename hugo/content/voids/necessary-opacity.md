@@ -198,7 +198,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Active blocking of cognitive access
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — The phenomenology of slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Limit-experiences across traditions
-- [whether-real](/voids/whether-real/) — Whether cognitive limits are permanent or merely current
+- [whether-real](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are permanent or merely current
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [The Calibration Void](/voids/observation-and-measurement-void/) — Introspection lacks independent calibration standards
 - [The Transit Void](/voids/transit-void/) — Why consciousness cannot witness its own crossings, including the onset of mental acts

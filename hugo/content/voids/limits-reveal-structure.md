@@ -158,7 +158,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [The Erasure Void](/voids/erasure-void/) — Silent cognitive loss: monitoring infrastructure shares fate with monitored capacities
 - [The Habituation Void](/voids/disappearance-voids/) — How familiarity-limits reveal novelty-orientation in consciousness
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
-- [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic epistemology of how knowledge about cognitive limits is warranted
 - [Illusionism](/concepts/illusionism/) — The radical challenge that limits are misrepresentations (see Illusionist Challenge section)
 - [Introspection](/concepts/introspection/) — The reliability of first-person access to cognitive architecture

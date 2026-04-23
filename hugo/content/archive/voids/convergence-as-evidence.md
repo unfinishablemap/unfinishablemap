@@ -80,7 +80,7 @@ Signature failure: **architectural mismatch**—the tool is wrong for the job, a
 
 ### The Framework Reflexivity Family
 
-The [tenet-generated voids](/voids/tenet-generated-voids/), the [cartography problem](/voids/apophatic-cartography/), the [formal cognitive limits](/voids/formal-cognitive-limits/), the [recursion void](/voids/recursion-void/), and the [question of whether voids are real](/voids/whether-real/) share a self-referential structure: each asks whether the framework investigating voids can account for its own limitations.
+The [tenet-generated voids](/voids/tenet-generated-voids/), the [cartography problem](/voids/apophatic-cartography/), the [formal cognitive limits](/voids/formal-cognitive-limits/), the [recursion void](/voids/recursion-void/), and the [question of whether voids are real](/voids/meta-epistemology-of-limits/) share a self-referential structure: each asks whether the framework investigating voids can account for its own limitations.
 
 Signature failure: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation. Not paradox (which would be crisp) but vertigo.
 
@@ -132,7 +132,7 @@ The inference from epistemic gaps to ontological conclusions is contested. Levin
 
 Physicalism offers two main responses. The **phenomenal concept strategy** holds that phenomenal concepts have a special epistemic character explaining the gap without an ontological gap. Chalmers argues this strategy cannot explain *why* phenomenal concepts have this nature without presupposing phenomenal properties. **[Illusionism](/concepts/illusionism/)** (Frankish 2016) denies phenomenal properties exist at all, making the clustering an artifact of systematic misrepresentation—but must then explain how a purely physical system generates the persistent, structured sense of phenomenality without it tracking anything real.
 
-McGinn argues the problem may be permanently beyond human cognitive reach (McGinn 1989). The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) deepens this: if our capacity to assess our own limits is itself limited, the meta-question—signal or noise?—may be subject to the same constraints it investigates (see [whether the voids are real](/voids/whether-real/)).
+McGinn argues the problem may be permanently beyond human cognitive reach (McGinn 1989). The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) deepens this: if our capacity to assess our own limits is itself limited, the meta-question—signal or noise?—may be subject to the same constraints it investigates (see [whether the voids are real](/voids/meta-epistemology-of-limits/)).
 
 What convergence adds is cumulative weight. Any single gap might be explained away, but can the same strategy explain why consciousness, intentionality, meaning, value, intrinsic nature, ownership, and binding all fail at the same boundary?
 
@@ -174,7 +174,7 @@ The convergence analysis connects to each of the Map's [tenets](/tenets/).
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids the Map's own commitments generate
 - [apophatic-cartography](/voids/apophatic-cartography/) — The method validated by convergence
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
-- [whether-real](/voids/whether-real/) — Whether the convergence pattern tracks something genuine
+- [whether-real](/voids/meta-epistemology-of-limits/) — Whether the convergence pattern tracks something genuine
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether we can assess our own cognitive limits
 - [recognition-void](/voids/recognition-void/) — Inventory blindness strengthens the convergence argument: absent capabilities produce no signal
 - [questioning-as-evidence](/voids/voids-as-evidence/) — The capacity to conceive of limits is itself evidential

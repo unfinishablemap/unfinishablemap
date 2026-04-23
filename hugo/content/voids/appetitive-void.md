@@ -121,7 +121,7 @@ The appetitive void hypothesis would be weakened if:
 
 3. **Motivated reasoning proves individually variable without pattern.** If appetitive distortion is random rather than systematic, it is noise rather than structure.
 
-The evidence currently points toward the appetitive void as genuine. The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—suggests something real is being tracked. This convergence contributes to the [topology of cognitive failure](/voids/compound-failure-signatures/): desire-shaped cognition is not an isolated limit but part of a larger architecture of [boundaries that reveal structure](/voids/whether-real/). The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
+The evidence currently points toward the appetitive void as genuine. The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—suggests something real is being tracked. This convergence contributes to the [topology of cognitive failure](/voids/compound-failure-signatures/): desire-shaped cognition is not an isolated limit but part of a larger architecture of [boundaries that reveal structure](/voids/meta-epistemology-of-limits/). The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
 
 ## Further Reading
 

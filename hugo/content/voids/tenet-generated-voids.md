@@ -169,7 +169,7 @@ The framework-generated-voids analysis would be undermined if:
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate cognitive architecture
 - [The Indexical Void](/voids/indexical-void/) — Why am I *this* consciousness?
 - [The Plurality Void](/voids/plurality-void/) — Why consciousness cannot be plural
-- [Whether the Voids Are Real](/voids/whether-real/) — The question of genuine versus apparent limits
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — The question of genuine versus apparent limits
 - [Self-Opacity](/voids/self-opacity/) — Why consciousness cannot fully examine itself
 - [The Binding Void](/voids/binding-void/) — Why phenomenal unity resists explanation entirely
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter and consciousness are in themselves

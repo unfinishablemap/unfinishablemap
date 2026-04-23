@@ -195,7 +195,7 @@ The voids framework itself embodies this insight. We map not by entering void te
 - [Convergence of the Void Catalogue](/voids/convergence-as-evidence/) — How voids organise into five families with distinct failure signatures
 - [The Self-Reference Paradox](/concepts/self-reference-paradox/) — Where consciousness cannot map because it is the mapper
 - [Mysterianism](/concepts/mysterianism/) — McGinn's analysis of cognitive closure
-- [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
 
 ## References
 

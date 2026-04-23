@@ -66,7 +66,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
-- [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
 - [Voids as Evidence](/voids/voids-as-evidence/) — How the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
 - [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — The method of knowing through negation, and why any such catalog is constitutively incomplete
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent

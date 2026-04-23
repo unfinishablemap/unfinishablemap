@@ -143,7 +143,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — Consciousness at cognitive boundaries
 - [thoughts-that-slip-away](/voids/thought-stream-void/) — Other forms of cognitive slippage
 - [voids](/voids/) — The framework for investigating cognitive limits
-- [whether-real](/voids/whether-real/) — Can we determine if limits are permanent?
+- [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — What cognitive limits illuminate about cognitive architecture
 
 ## References

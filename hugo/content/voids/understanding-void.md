@@ -161,7 +161,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [Cognitive Aversion](/voids/self-maintained-cognitive-limits/) — Thoughts we systematically flee
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — The cognitive bias behind Occam's Razor
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — The topology of cognitive failure
-- [whether-real](/voids/whether-real/) — Whether cognitive limits reveal genuine limits on reality
+- [whether-real](/voids/meta-epistemology-of-limits/) — Whether cognitive limits reveal genuine limits on reality
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How limitation illuminates architecture
 - [explanatory-gap](/concepts/explanatory-gap/) — The phenomenal/physical gap for experience generally
 

@@ -122,7 +122,7 @@ Approaching this epistemological question has [distinctive phenomenology](/voids
 
 **Pragmatic frustration.** Unlike specific voids (the [death-void](/voids/death-void/), the [other-minds-void](/voids/voids-between-minds/)), this meta-void undermines the methodology itself. How do we proceed when we cannot determine whether our procedure is tracking reality?
 
-**Temptation to premature closure.** There is strong pressure to decide—to declare limits real (mysterianism) or illusory (optimism) and end the discomfort. The suspended position described in [whether-real](/voids/whether-real/) requires tolerating unresolved tension.
+**Temptation to premature closure.** There is strong pressure to decide—to declare limits real (mysterianism) or illusory (optimism) and end the discomfort. The suspended position described in [whether-real](/voids/meta-epistemology-of-limits/) requires tolerating unresolved tension.
 
 ## Implications for the Voids Framework
 
@@ -147,7 +147,7 @@ If the epistemology of limits is itself a limit, several methodological conseque
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive dark spaces
-- [Whether the Voids Are Real](/voids/whether-real/) — Can we determine if limits are permanent?
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using failure patterns as data
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping

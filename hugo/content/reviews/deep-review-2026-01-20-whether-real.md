@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [Whether the Voids Are Real](/voids/whether-real/)
+**Article**: [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

@@ -41,7 +41,7 @@ topics:
 
 Throughout intellectual history, concepts once deemed literally unthinkable have become routine. Irrational numbers shattered Pythagorean cosmology. Non-Euclidean geometry overturned Kant's claim that Euclidean space was knowable a priori. Quantum mechanics forced physicists to abandon the requirement that particles have definite position and momentum simultaneously. Each case appeared, at the time, to involve a genuine cognitive limit—not merely a difficult problem but a [conceptual impossibility](/voids/conceptual-impossibility/). Yet each dissolved. The dissolution problem asks what these cases tell us about current [voids](/voids/)—and the answer is troubling: we have no reliable method for predicting which cognitive limits will prove permanent and which will yield to new concepts.
 
-This inability to classify our own limits is itself a void. It operates at a meta-level, undermining confidence in any claim about what is or is not knowable. The [question of whether voids are real](/voids/whether-real/) depends on distinguishing permanent limits from temporary ones, and the dissolution problem reveals that this distinction cannot be reliably drawn from within.
+This inability to classify our own limits is itself a void. It operates at a meta-level, undermining confidence in any claim about what is or is not knowable. The [question of whether voids are real](/voids/meta-epistemology-of-limits/) depends on distinguishing permanent limits from temporary ones, and the dissolution problem reveals that this distinction cannot be reliably drawn from within.
 
 ## The Pattern of Dissolution
 
@@ -111,7 +111,7 @@ The dissolution problem also validates the [voids](/voids/) project's methodolog
 
 ## Further Reading
 
-- [Whether the Voids Are Real](/voids/whether-real/) — The broader meta-question about cognitive limits
+- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — The broader meta-question about cognitive limits
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like

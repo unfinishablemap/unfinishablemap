@@ -115,7 +115,7 @@ The void also connects to the Map's [Bidirectional Interaction](/tenets/#bidirec
 - [introspective opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive mechanisms
 - [self-reference paradox](/voids/self-opacity/) — The broader difficulties of consciousness examining itself
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The parallel question of what matter is in itself
-- [whether-real](/voids/whether-real/) — Whether cognitive limits are permanent or merely current
+- [whether-real](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are permanent or merely current
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) — What happens when transparency breaks down
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [The Intersubjective Void](/voids/voids-between-minds/) — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports

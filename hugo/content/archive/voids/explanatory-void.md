@@ -102,7 +102,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 - [intentionality-void](/voids/intentionality-void/)
 - [recursion-void](/voids/recursion-void/)
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
-- [whether-real](/voids/whether-real/)
+- [whether-real](/voids/meta-epistemology-of-limits/)
 - [limits-reveal-structure](/voids/limits-reveal-structure/)
 
 ## References

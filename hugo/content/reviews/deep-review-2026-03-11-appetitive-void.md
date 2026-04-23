@@ -54,7 +54,7 @@ topics: []
 
 ### Cross-links Added
 - [topology-of-cognitive-failure](/voids/compound-failure-signatures/)
-- [whether-real](/voids/whether-real/)
+- [whether-real](/voids/meta-epistemology-of-limits/)
 
 ## Remaining Items
 

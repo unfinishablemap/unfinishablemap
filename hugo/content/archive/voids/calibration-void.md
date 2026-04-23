@@ -107,7 +107,7 @@ The calibration void is adjacent to but distinct from the [observation-void](/vo
 - [the-unobservable-self](/voids/self-reference-paradox/) — The subject that cannot become its own object
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) — Knowledge that undermines its own conditions
-- [whether-real](/voids/whether-real/) — Can we determine if cognitive limits are permanent?
+- [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are permanent?
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 
 ## References
