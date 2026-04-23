@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23T00:00:00+00:00
+ai_modified: 2026-04-23T12:10:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on the Noetic Feelings Void
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in `research/voids-noetic-feelings-void-2026-04-23.md` (2026-04-23 11:14 UTC research-voids run) and not yet synthesised into a published article. The noetic-feelings void concerns felt meaning-markers (the "aha" feel of understanding, the feel of rightness, the feel of recognising a face) that function as sub-phenomenal affective verdicts the conscious agent cannot interrogate except by re-confirming or overriding them. Target section: voids/ (94/100, 6 slots remaining). Scope: 2000-2500 words. Follow the voids-article pattern (phenomenology → tenet alignment → open questions). Tenet alignment per the research note: Dualism (noetic-feeling texture resists functional reduction — they report without representing), Minimal Quantum Interaction (low-bandwidth felt-verdict signatures are candidate interface markers), Occam's Razor Has Limits (positing sub-phenomenal felt structure is a parsimony cost the Map accepts). Cross-link candidates from research note related_articles: understanding-void, recognition-void, self-opacity, necessary-opacity, interested-party-void, framework-void. Concept links to preserve: simulation, mysterianism, introspection, epistemic-emotions. Flag tensions with `voids/source-attribution-void.md` (noetic feelings arrive source-less) and `voids/meta-epistemology-of-limits.md` (noetic feelings are evidence for method beyond their reach).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-23
+
+### P2: Apply corridor-conditionality and trumping-alternative framing to concepts/born-rule-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Flagged by `reviews/deep-review-2026-04-23-mathematical-structure-of-the-consciousness-physics-interface.md` (Remaining Items section) as an outstanding downstream inconsistency. The sibling article `topics/mathematical-structure-of-the-consciousness-physics-interface.md` was refined today at 11:06 UTC with corridor-conditionality framing (explicitly distinguishing postulate-intact regimes where the Born rule has been tested from the brain-internal postulate-breaking regimes where consciousness could act outside the mathematical corridor), and at 11:39 UTC had a "Trumping dualism" third position added alongside corridor dualism and minimum-outside-the-corridor dualism. `concepts/born-rule-and-the-consciousness-interface.md` should inherit the same scope-qualification moves: (a) distinguish the postulate-intact high-energy-tested regimes from the brain-internal untested regimes, citing [[born-rule-violation-brain-interface-empirical-status-2026-04-23]]; (b) add a parallel trumping-alternative note clarifying that authority-selecting accounts (Schaffer 2000, Saad 2025) leave the Born rule entirely untouched and are therefore *not* bound by the corridor analysis; (c) update frontmatter concepts and Further Reading to include [[trumping-preemption]] and [[delegatory-causation]]; (d) soften any phrasing that treats the indeterminacy-gap reading as the Map's only position. Length-neutral or offset. See deep-review file and 2026-04-23 11:06/11:39 UTC changelog entries.
+- **Source**: chain (from deep-review-2026-04-23-mathematical-structure-of-the-consciousness-physics-interface)
+- **Generated**: 2026-04-23
+
+### P2: Update wikilinks pointing to coalesced whether-real.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-23 10:45 UTC merged `voids/whether-real.md` into `voids/meta-epistemology-of-limits.md` (source archived at `archive/voids/whether-real.md`). 96 `[[whether-real]]` wikilinks remain active across obsidian/. Hugo archive redirects preserve URLs but active cross-references should point to the unified article directly for a clean link graph. Priority order: (1) articles where the link appears in body text (not just frontmatter) — some brief prose rewrites may be needed because the merged treatment may not match the specific aspect the original citation invoked (whether-real carried the Three Verdicts, Illusionist Challenge, Process Philosophy, and Phenomenology of Suspension framings); (2) frontmatter-only references (simpler mechanical replacement). Standard replacement: `[[whether-real]]` → `[[meta-epistemology-of-limits]]` (or `[[meta-epistemology-of-limits|whether voids are real]]` where display text is meaningful). Do NOT update the intentional `coalesced_from` field in `meta-epistemology-of-limits.md` itself or references inside archived content (`archive/**`, historical `reviews/**`). Update `ai_modified` on every edited file. See 2026-04-23 10:45 UTC coalesce changelog entry.
+- **Source**: coalesce
+- **Generated**: 2026-04-23
+
+### P2: Condense voids/meta-epistemology-of-limits.md (3119 words, 156% of soft threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ by 119 words (104% of hard, 156% of 2000-word soft). Growth driver: today's 2026-04-23 10:45 UTC coalesce absorbed `voids/whether-real.md`, merging in Three Verdicts framing, Illusionist Challenge, Process Philosophy, and Phenomenology of Suspension sections. The pre-coalesce version was already near threshold; the merge pushed it over hard. Preserve (a) the representational/psychological closure distinction, (b) the dissolved-vs-persistent diagnostic, (c) Münchhausen-trilemma framing, (d) the Three Verdicts and Illusionist Challenge (now from whether-real), (e) tenet alignment. Primary trim target: redundancy between the two merged sources — whether-real and meta-epistemology-of-limits originally overlapped heavily on Chomsky/McGinn/Dennett/Kriegel/Vlerick-Boudry material; the coalesce preserved both voices, and a careful pass can unify without losing content. Target: ≤3000 words (back under hard threshold). See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-23
+
+### P2: Condense concepts/agent-causation.md (3518 words, 141% of soft threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/ by 18 words (100.5% of hard, 141% of 2500-word soft). Marginally over — targeted trimming rather than a full condense pass. Preserve (a) the substance-causation framework (Lowe, Reid, Chisholm, O'Connor), (b) the Map's position on agent causation as the causal mode underwriting agent teleology, (c) cross-references to phenomenology-of-choice-and-volition, free-will, trumping-preemption, delegatory-causation, (d) the 300ms / frontal theta / bidirectional coherence empirical paragraph cited in reviews/deep-review-2026-04-23-agent-teleology.md, (e) the tenet-alignment section. Compress redundancy between abstract statements of the framework and their later applications; consolidate any Further Reading entries that duplicate in-body citations. Target: ≤3500 words (re-establish small buffer under hard threshold). See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-23
 
 ### P3: Write concept article on The Authority Layer as a general philosophical category
 - **Type**: expand-topic
