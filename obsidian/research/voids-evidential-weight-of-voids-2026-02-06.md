@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Evidential Weight of Voids"
 created: 2026-02-06
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-02-06T11:51:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -16,7 +16,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[limits-reveal-structure]]"
   - "[[tenet-generated-voids]]"
@@ -139,7 +139,7 @@ Approaching this meta-question produces a distinctive experience:
 
 - **Pattern recognition vs. apophenia**: There is a constant tension between genuine pattern-detection and the human tendency to see patterns in noise. The clustering of voids around consciousness *feels* significant, but so do many illusory patterns.
 - **Abductive vertigo**: Abductive reasoning (inference to best explanation) requires comparing explanatory frameworks, but the frameworks themselves shape what counts as a good explanation. Dualists find the gap evidential; physicalists find it merely epistemic.
-- **The bootstrapping problem**: Using our own cognitive architecture to evaluate whether that architecture's limits tell us about reality creates the same self-referential difficulties explored in [[whether-real]].
+- **The bootstrapping problem**: Using our own cognitive architecture to evaluate whether that architecture's limits tell us about reality creates the same self-referential difficulties explored in [[meta-epistemology-of-limits]].
 
 ## Approaches to the Edge
 

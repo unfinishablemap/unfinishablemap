@@ -4,7 +4,7 @@ description: "Why cognitive limits are preconditions for meaning, not merely obs
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ related_articles:
   - "[[tenets]]"
   - "[[limits-reveal-structure]]"
   - "[[apophatic-approaches]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[aesthetic-void]]"
   - "[[voids-between-minds]]"
   - "[[imagination-and-creativity-void]]"
@@ -122,7 +122,7 @@ The constitutive thesis connects to each of the Map's [[tenets]]:
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[limits-reveal-structure]] — How the shape of limits reveals cognitive architecture
 - [[apophatic-approaches]] — Methods for knowing through negation
-- [[whether-real]] — Can we determine if cognitive limits are permanent?
+- [[meta-epistemology-of-limits]] — Can we determine if cognitive limits are permanent?
 - [[death-void]] — How mortality structures temporal meaning
 - [[voids-between-minds]] — How the unknowability of others grounds ethics
 - [[aesthetic-void]] — Where ineffability opens access to the sublime

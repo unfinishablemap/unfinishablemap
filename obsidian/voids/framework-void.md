@@ -4,7 +4,7 @@ description: "Every conceptual framework excludes what it cannot represent. The 
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[language-thought-boundary]]"
   - "[[metaphor-void]]"
   - "[[biological-cognitive-closure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[tenet-generated-voids]]"
   - "[[non-human-minds-as-void-explorers]]"

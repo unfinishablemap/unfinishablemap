@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-02-24 19:41:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[observation-void]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[consciousness-only-territories]]'
 target_section: voids
 title: 'Research Notes - Voids: The Calibration Void'

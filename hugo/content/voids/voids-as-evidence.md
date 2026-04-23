@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -30,7 +30,6 @@ related_articles:
 - '[[tenet-generated-voids]]'
 - '[[apophatic-cartography]]'
 - '[[three-kinds-of-void]]'
-- '[[whether-real]]'
 - '[[compound-failure-signatures]]'
 - '[[limits-reveal-structure]]'
 - '[[meta-epistemology-of-limits]]'
@@ -173,8 +172,7 @@ The two arguments connect to each of the Map's [tenets](/tenets/), often reinfor
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids the Map's own commitments generate
 - [apophatic-cartography](/voids/apophatic-cartography/) — The method validated by convergence
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
-- [whether-real](/voids/meta-epistemology-of-limits/) — Whether the pattern tracks something genuine
-- [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether we can assess our own cognitive limits
+- [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether the pattern tracks something genuine
 - [recognition-void](/voids/recognition-void/) — Inventory blindness strengthens the convergence argument
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — The prior question: why consciousness exists at all
 - [self-reference paradox](/voids/self-opacity/) — Structural obstacles to self-examination

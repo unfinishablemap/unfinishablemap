@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -23,7 +23,6 @@ related_articles:
 - '[[tenets]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[whether-real]]'
 - '[[three-kinds-of-void]]'
 - '[[apophatic-cartography]]'
 - '[[biological-cognitive-closure]]'
@@ -55,7 +54,7 @@ This argument is locally successful against one reading and not the other. If cl
 
 Maarten Vlerick and Maarten Boudry press from the other side (Vlerick & Boudry 2017). McGinn's case, they argue, only demonstrates psychological difficulty — we have not cracked the hard problem — and this does not establish principled representational closure. Historical examples look like the current situation: vitalism, action-at-a-distance, and quantum non-locality's early intelligibility crisis all appeared, at the time, to involve principled conceptual limits. Each later yielded to new conceptual resources. Inferring representational closure from psychological closure is, for them, a hasty generalisation.
 
-Two arguments, symmetric in structure: Kriegel tries to collapse representational into psychological via the posability of the question; Vlerick and Boudry warn against collapsing psychological into representational via the long horizon of conceptual development. Both collapses fail. The distinction survives both attacks, and existing Map articles that quietly relied on it — [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/), [whether-real](/voids/meta-epistemology-of-limits/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — can now use it under its own name.
+Two arguments, symmetric in structure: Kriegel tries to collapse representational into psychological via the posability of the question; Vlerick and Boudry warn against collapsing psychological into representational via the long horizon of conceptual development. Both collapses fail. The distinction survives both attacks, and existing Map articles that quietly relied on it — [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) and [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — can now use it under its own name.
 
 ## Classifying the Voids
 
@@ -102,7 +101,6 @@ For the voids catalogue as a whole, the consequence is a reframing. The catalogu
 - [mysterianism](/concepts/mysterianism/) — The McGinn-lineage concept page and its variants
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored / unexplorable / occluded taxonomy
 - [apophatic-cartography](/voids/apophatic-cartography/) — Methods for mapping what cannot be said directly
-- [whether-real](/voids/meta-epistemology-of-limits/) — Whether the voids are genuine limits or merely hard problems
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Evolutionary origins of concept-space bounds
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using structural failure patterns as diagnostic data
 

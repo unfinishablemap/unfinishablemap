@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-04-19 06:38:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,6 @@ related_articles:
 - '[[tenets]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[three-kinds-of-void]]'
-- '[[whether-real]]'
 - '[[parsimony-epistemology]]'
 - '[[phenomenological-method-and-evidence-standards]]'
 title: The Parsimony Void
@@ -106,7 +105,6 @@ The connection to [Tenet 2 (Minimal Quantum Interaction)](/tenets/#minimal-quant
 - [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Evidence standards that do not reduce to compression preference
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The general problem of assessing cognitive limits from within
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
-- [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are permanent?
 - [mysterianism](/concepts/mysterianism/) — McGinn's analysis of cognitive closure
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why phenomenal consciousness resists physical explanation
 - [materialism](/concepts/materialism/) — The position parsimony is invoked to defend

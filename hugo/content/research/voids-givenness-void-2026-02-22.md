@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-02-22 05:19:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[topology-of-cognitive-failure]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[limits-reveal-structure]]'
 - '[[pre-conceptual-knowing]]'
 - '[[intrinsic-nature-void]]'

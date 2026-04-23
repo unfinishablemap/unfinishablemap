@@ -4,7 +4,7 @@ description: "Consciousness cannot verify whether it accurately represents reali
 created: 2026-01-27
 modified: 2026-04-01
 human_modified: null
-ai_modified: 2026-04-23T11:25:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[self-opacity]]"
   - "[[intrinsic-nature-void]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[non-human-minds-as-void-explorers]]"
@@ -197,7 +197,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[self-maintained-cognitive-limits|Defended Territory]] — Active blocking of cognitive access
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — Limit-experiences across traditions
-- [[whether-real]] — Whether cognitive limits are permanent or merely current
+- [[meta-epistemology-of-limits]] — Whether cognitive limits are permanent or merely current
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
 - [[observation-and-measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards
 - [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings, including the onset of mental acts

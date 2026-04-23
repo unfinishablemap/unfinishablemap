@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Persistence Void"
 created: 2026-02-15
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-05T12:17:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -23,7 +23,7 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[temporal-void]]"
   - "[[topology-of-cognitive-failure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[causal-interface]]"
   - "[[intelligibility-void]]"
   - "[[categorial-void]]"

@@ -4,7 +4,7 @@ description: "The feeling of understanding cannot ground itself—self-evidence,
 created: 2026-02-27
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-18T10:47:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,6 @@ related_articles:
   - "[[framework-void]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[self-maintained-cognitive-limits]]"
-  - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[language-thought-boundary]]"
@@ -158,7 +157,6 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [[self-maintained-cognitive-limits|Cognitive Aversion]] — Thoughts we systematically flee
 - [[epistemological-limits-occams-razor|The Parsimony Void]] — The cognitive bias behind Occam's Razor
 - [[compound-failure-signatures]] — The topology of cognitive failure
-- [[whether-real]] — Whether cognitive limits reveal genuine limits on reality
 - [[limits-reveal-structure]] — How limitation illuminates architecture
 - [[explanatory-gap]] — The phenomenal/physical gap for experience generally
 

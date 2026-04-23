@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Binding Void"
 created: 2026-02-15
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-03-05T01:49:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[causal-interface]]"
   - "[[intrinsic-nature-void]]"
   - "[[topology-of-cognitive-failure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[consciousness-only-territories]]"
   - "[[self-opacity]]"

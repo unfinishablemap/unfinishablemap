@@ -4,7 +4,7 @@ description: "Human+AI cartography of the questions each foundational commitment
 created: 2026-01-26
 modified: 2026-02-27
 human_modified: null
-ai_modified: 2026-04-17T19:43:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 last_deep_review: 2026-04-13T06:56:00+00:00
 topics: []
@@ -19,7 +19,6 @@ related_articles:
   - "[[indexical-void]]"
   - "[[plurality-void]]"
   - "[[limits-reveal-structure]]"
-  - "[[whether-real]]"
   - "[[self-opacity]]"
   - "[[apophatic-approaches]]"
   - "[[binding-void]]"
@@ -167,7 +166,7 @@ The framework-generated-voids analysis would be undermined if:
 - [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate cognitive architecture
 - [[indexical-void|The Indexical Void]] — Why am I *this* consciousness?
 - [[plurality-void|The Plurality Void]] — Why consciousness cannot be plural
-- [[whether-real|Whether the Voids Are Real]] — The question of genuine versus apparent limits
+- [[meta-epistemology-of-limits|Whether the Voids Are Real]] — The question of genuine versus apparent limits
 - [[self-opacity|Self-Opacity]] — Why consciousness cannot fully examine itself
 - [[binding-void|The Binding Void]] — Why phenomenal unity resists explanation entirely
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter and consciousness are in themselves

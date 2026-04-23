@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-04-23 11:25:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ related_articles:
 - '[[tenets]]'
 - '[[self-opacity]]'
 - '[[intrinsic-nature-void]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[limits-reveal-structure]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[non-human-minds-as-void-explorers]]'
@@ -200,7 +200,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Active blocking of cognitive access
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — The phenomenology of slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Limit-experiences across traditions
-- [whether-real](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are permanent or merely current
+- [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are permanent or merely current
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [The Calibration Void](/voids/observation-and-measurement-void/) — Introspection lacks independent calibration standards
 - [The Transit Void](/voids/transit-void/) — Why consciousness cannot witness its own crossings, including the onset of mental acts

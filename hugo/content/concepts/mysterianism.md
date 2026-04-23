@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-18 12:47:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,6 @@ related_articles:
 - '[[tenets]]'
 - '[[mysterianism-cognitive-closure-2026-01-14]]'
 - '[[limits-reveal-structure]]'
-- '[[whether-real]]'
 - '[[intrinsic-nature-void]]'
 - '[[origin-of-consciousness]]'
 - '[[meta-epistemology-of-limits]]'
@@ -126,7 +125,7 @@ This transforms mysterianism from pessimism into method. By mapping *where* thou
 
 ## Can We Know If the Limits Are Real?
 
-The [question of whether cognitive limits are genuine](/voids/meta-epistemology-of-limits/) may be undecidable from within any limited system. The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) addresses Kriegel's challenge that formulating a problem requires conceptual resources to solve it—and Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp). The [closure-types void](/voids/closure-types-void/) develops this into a second-order result: not only do the two readings of closure come apart, but from within a mind there is no reliable procedure for telling which type one is facing. This rehabilitates sophisticated mysterianism while exposing the limits of self-diagnosis the position must operate under.
+The [question of whether cognitive limits are genuine](/voids/meta-epistemology-of-limits/) may be undecidable from within any limited system. The meta-epistemology of cognitive limits addresses Kriegel's challenge that formulating a problem requires conceptual resources to solve it—and Demircioglu's reply distinguishing *representational* closure (what we can frame) from *psychological* closure (what we can grasp). The [closure-types void](/voids/closure-types-void/) develops this into a second-order result: not only do the two readings of closure come apart, but from within a mind there is no reliable procedure for telling which type one is facing. This rehabilitates sophisticated mysterianism while exposing the limits of self-diagnosis the position must operate under.
 
 The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) provides formal warrant through four methods: failure analysis, convergence, structural inference, and [apophatic reasoning](/concepts/apophatic-approaches/). These dissolve the apparent paradox: limit-knowledge is propositional knowledge *about* a boundary, not acquaintance with territory beyond it.
 
@@ -193,7 +192,6 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [closure-types-void](/voids/closure-types-void/) — Representational vs psychological closure, and the void behind the distinction
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside
-- [whether-real](/voids/meta-epistemology-of-limits/) — Can we know if the voids are genuinely permanent?
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem mysterians think is unsolvable
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap that may reflect cognitive closure
 - [illusionism](/concepts/illusionism/) — The rival view that consciousness isn't real

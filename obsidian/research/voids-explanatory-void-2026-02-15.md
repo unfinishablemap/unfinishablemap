@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Explanatory Void"
 created: 2026-02-15
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-02-15T16:14:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -23,7 +23,6 @@ related_articles:
   - "[[intentionality-void]]"
   - "[[self-opacity]]"
   - "[[topology-of-cognitive-failure]]"
-  - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[mathematical-void]]"
   - "[[language-thought-boundary]]"

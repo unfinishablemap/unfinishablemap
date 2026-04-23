@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Calibration Void"
 created: 2026-02-24
 modified: 2026-02-24
 human_modified: null
-ai_modified: 2026-02-24T19:41:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -18,7 +18,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[observation-void]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[consciousness-only-territories]]"
 ai_contribution: 100
 author: null

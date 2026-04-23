@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-04-21T14:38:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
 last_deep_review: 2026-04-21T14:38:00+00:00
@@ -46,7 +46,6 @@ apex_sources:
   - voids/phenomenology-of-the-edge
   - voids/convergence-as-evidence
   - voids/tenet-generated-voids
-  - voids/whether-real
   - voids/cartography-problem
   - voids/meta-epistemology-of-limits
 apex_last_synthesis: 2026-04-10T20:09:00+00:00
@@ -153,9 +152,9 @@ The [[phenomenology-of-the-edge|phenomenology of the edge]] adds first-person da
 
 ## The Taxonomy's Own Limits
 
-Intellectual honesty demands acknowledging what the taxonomy cannot determine. The [[whether-real|question of whether the voids are genuine]]—permanent features of cognitive architecture or merely current ignorance—may itself be formally undecidable from within any limited cognitive system. The tool examining its own limitations cannot establish whether those limitations are genuine or merely apparent.
+Intellectual honesty demands acknowledging what the taxonomy cannot determine. The [[meta-epistemology-of-limits|question of whether the voids are genuine]]—permanent features of cognitive architecture or merely current ignorance—may itself be formally undecidable from within any limited cognitive system. The tool examining its own limitations cannot establish whether those limitations are genuine or merely apparent.
 
-The [[meta-epistemology-of-limits|meta-epistemology of cognitive limits]] sharpens this challenge. From inside, a genuinely impossible problem produces the same phenomenology as a merely very hard one—sustained effort, repeated failure, the sense of hitting a wall. Success proves a problem was solvable; failure, even across centuries and cultures, proves nothing conclusive. Worse, the assessment requires the very faculties under assessment—a recursive bind that no internal method can escape. A further axis of uncertainty opens: could some limits be *designed* constraints rather than natural features of finite minds? If we exist within a constructed reality, our cognitive boundaries might serve purposes beyond our detection. Whether natural or designed, the appropriate response remains the same—careful attention to what can be thought, honest acknowledgment of what cannot—but the distinction matters for what the voids ultimately reveal about reality.
+The meta-epistemology sharpens this challenge. From inside, a genuinely impossible problem produces the same phenomenology as a merely very hard one—sustained effort, repeated failure, the sense of hitting a wall. Success proves a problem was solvable; failure, even across centuries and cultures, proves nothing conclusive. Worse, the assessment requires the very faculties under assessment—a recursive bind that no internal method can escape. A further axis of uncertainty opens: could some limits be *designed* constraints rather than natural features of finite minds? If we exist within a constructed reality, our cognitive boundaries might serve purposes beyond our detection. Whether natural or designed, the appropriate response remains the same—careful attention to what can be thought, honest acknowledgment of what cannot—but the distinction matters for what the voids ultimately reveal about reality.
 
 The [[apophatic-cartography|cartography problem]] deepens this: a complete catalog of cognitive voids is provably impossible. Kit Fine's formal work on "ignorance of ignorance" shows that knowledge of second-order ignorance is impossible under plausible epistemic assumptions. The map of voids cannot know its own boundaries. This is not a defect but a structural theorem confirming the framework: the Map is unfinishable not merely because the territory is vast but because the mapping process is constitutively unable to achieve completeness about its own blind spots.
 
@@ -195,6 +194,4 @@ This synthesis draws from:
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[voids-as-evidence|Voids as Evidence]] — The clustering pattern and capacity to conceive voids as evidence for dualism
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Framework-generated limits as intellectual honesty
-- [[whether-real|Whether the Voids Are Real]] — The meta-question and its formal undecidability
-- [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — Method of knowing through negation; second-order incompleteness of the void catalog
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — The distinction between evolved and engineered constraints

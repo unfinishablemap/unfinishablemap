@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Natural vs. Designed Cognitive Limits"
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T18:14:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -16,7 +16,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[defended-territory]]"
   - "[[limits-reveal-structure]]"
   - "[[tenet-generated-voids]]"

@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Epistemic Horizon Void"
 created: 2026-03-06
 modified: 2026-03-06
 human_modified: null
-ai_modified: 2026-03-06T05:55:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -14,7 +14,6 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[whether-real]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[convergence-as-evidence]]"

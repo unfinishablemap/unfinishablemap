@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-04-21
 human_modified: 2026-01-08
-ai_modified: 2026-04-21T01:38:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 last_deep_review: 2026-04-21T01:38:00+00:00
 topics: []
@@ -63,7 +63,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[three-kinds-of-void|Three Kinds of Void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[origin-of-consciousness|The Origin Void]] — Why consciousness exists at all—the most logically prior void
 - [[compound-failure-signatures|Compound Failure Signatures]] — Using the structure of failure as data
-- [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[voids-as-evidence|Voids as Evidence]] — How the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
 - [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — The method of knowing through negation, and why any such catalog is constitutively incomplete
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
@@ -92,13 +91,11 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[intentionality-void|The Intentionality Void]] — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
 - [[imagination-and-creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[aesthetic-void|The Aesthetic Void]] — Where articulation fails at beauty and sublimity
-- [[sleep-consciousness-void|The Dream Consciousness Void]] — Bidirectional inaccessibility between waking and dreaming
 - [[temporal-void|The Temporal Void]] — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [[recursion-void|The Recursion Void]] — Why metacognitive depth is bounded around fifth order
 - [[observation-and-measurement-void|The Observation Void]] — Every method of studying consciousness transforms what it studies
 - [[binding-void|The Binding Void]] — Why unified experience from disparate sensations resists explanation
 - [[boundary-and-projection|The Boundary and Projection Void]] — Why consciousness cannot locate its own perimeter or observe the shifts by which it extends into tools, spaces, and other minds
-- [[observation-and-measurement-void|The Measurement Void]] — Why consciousness resists measurement at every level—no units, no instruments, no calibration standards
 - [[simulation-detection-void|The Simulation Detection Void]] — Why embedded observers cannot determine whether their reality is simulated
 - [[acquaintance-void|The Acquaintance Void]] — Modes of direct phenomenal contact structurally inaccessible to minds like ours
 - [[recognition-void|The Recognition Void]] — The gap between perceiving and knowing-as, where consciousness cannot observe its own recognition process
@@ -112,7 +109,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[smoothness-and-continuity|Smoothness and Continuity]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [[counterfactual-void|The Counterfactual Void]] — How counterfactual thinking is trapped near actuality
 - [[understanding-void|The Understanding Void]] — Why the feeling of understanding cannot ground itself: explanation cannot explain itself, and self-evidence terminates inquiry before it begins
-- [[imagination-and-creativity-void|The Imagination Void]] — Where imagination's structural failures reveal the architecture of mind
 - [[indexical-void|The Indexical Void]] — Why first-person identity resists explanation
 - [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot opt out of itself
 - [[narrative-void|The Narrative Void]] — Why consciousness cannot observe its own storytelling
@@ -136,7 +132,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[appetitive-void|The Appetitive Void]] — How desire constitutes cognition rather than merely distorting it
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Self-reference, error-blindness, and the bootstrap problem of self-correction
 - [[altered-states-as-void-probes|Altered States as Void Probes]] — Whether altered states reveal cognitive limits or simulate transcendence
-- [[self-opacity|Introspective Opacity]] — Why we access mental contents but never the mechanisms that produce them
 - [[mutation-void|The Mutation Void]] — Thoughts that transform upon inspection, where attending changes the content
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why experience's immediacy and felt realness hide their own mechanisms
 - [[the-silence-void|The Silence Void]] — Whether cognitive silence accesses truths that reasoning cannot reach

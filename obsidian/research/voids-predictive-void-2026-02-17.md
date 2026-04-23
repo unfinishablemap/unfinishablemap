@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Predictive Void"
 created: 2026-02-17
 modified: 2026-02-17
 human_modified: null
-ai_modified: 2026-03-05T01:49:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[past-self-void]]"
   - "[[death-void]]"
   - "[[topology-of-cognitive-failure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[consciousness-only-territories]]"
   - "[[limits-reveal-structure]]"
   - "[[phenomenology-of-the-edge]]"

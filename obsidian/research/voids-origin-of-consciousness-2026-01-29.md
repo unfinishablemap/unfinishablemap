@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Origin of Consciousness"
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T14:30:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -17,7 +17,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[tenet-generated-voids]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[intrinsic-nature-void]]"
   - "[[apophatic-approaches]]"
   - "[[limits-reveal-structure]]"

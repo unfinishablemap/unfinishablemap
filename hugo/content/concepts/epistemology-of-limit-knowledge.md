@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-04-18 08:04:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,6 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[apophatic-approaches]]'
 - '[[apophatic-cartography]]'
-- '[[whether-real]]'
 - '[[biological-cognitive-closure]]'
 - '[[recognition-void]]'
 - '[[phenomenology-of-the-edge]]'
@@ -126,7 +125,6 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — The structural inference method in action
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The apophatic method's philosophical roots
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
-- [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are permanent?
 - [recognition-void](/voids/recognition-void/) — An example of limit-knowledge from neuroscience
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence bearing on limit-knowledge claims
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What encountering a cognitive limit feels like from the inside

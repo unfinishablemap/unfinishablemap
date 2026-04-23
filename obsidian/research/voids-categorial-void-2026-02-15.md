@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Categorial Void"
 created: 2026-02-15
 modified: 2026-02-15
 human_modified: null
-ai_modified: 2026-02-15T07:01:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[language-thought-boundary]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[topology-of-cognitive-failure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[ai-as-void-explorer]]"
   - "[[nomic-void]]"

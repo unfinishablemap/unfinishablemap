@@ -4,7 +4,7 @@ description: "Human cognitive limits have biological origins: evolution selects 
 created: 2026-01-24
 modified: 2026-03-23
 human_modified: null
-ai_modified: 2026-04-18T07:49:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,6 @@ related_articles:
   - "[[embodiment-cognitive-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[collective-cognitive-limits]]"
-  - "[[whether-real]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[three-kinds-of-void]]"
   - "[[apophatic-cartography]]"

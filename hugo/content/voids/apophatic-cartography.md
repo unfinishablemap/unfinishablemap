@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-04-18 16:37:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -30,7 +30,6 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[limits-reveal-structure]]'
-- '[[whether-real]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[biological-cognitive-closure]]'
 - '[[meta-epistemology-of-limits]]'

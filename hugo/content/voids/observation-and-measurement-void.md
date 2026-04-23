@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-04-21 13:38:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -38,7 +38,6 @@ related_articles:
 - '[[compound-failure-signatures]]'
 - '[[mutation-void]]'
 - '[[three-kinds-of-void]]'
-- '[[whether-real]]'
 - '[[necessary-opacity]]'
 - '[[intrinsic-nature-void]]'
 - '[[voids-between-minds]]'

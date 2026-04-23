@@ -3,7 +3,7 @@ title: "Apophatic Cartography: Method and Its Limits"
 created: 2026-01-10
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T16:37:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,6 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[limits-reveal-structure]]"
-  - "[[whether-real]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[biological-cognitive-closure]]"
   - "[[meta-epistemology-of-limits]]"
@@ -55,7 +54,7 @@ The method appears across Christian *via negativa*, Maimonides's negative attrib
 
 Nicholas of Cusa's *docta ignorantia* gave the approach its sharpest formulation: some subjects—the infinite, consciousness itself—cannot be grasped through comparison because nothing else is of their kind. Cusanus distinguished simple ignorance (not knowing that you don't know) from learned ignorance (knowing the limits of your knowledge). The latter is an achievement, and it anchors both the method and its inherent incompleteness. Wittgenstein's "Whereof one cannot speak, thereof one must be silent" is protective rather than dismissive: silence preserves what speech would distort. The [[the-silence-void|silence void]] takes this further—contemplative traditions report that even negation must cease.
 
-Colin McGinn's [[mysterianism|new mysterianism]] applies apophatic reasoning to consciousness specifically: the mind-body problem may be *cognitively closed* to human minds, with the explanation existing but lying beyond our conceptual apparatus. [[limits-reveal-structure|Cognitive limits reveal cognitive architecture]], and we can ask [[whether-real|whether these limits are permanent]] even if the answer is undecidable from within.
+Colin McGinn's [[mysterianism|new mysterianism]] applies apophatic reasoning to consciousness specifically: the mind-body problem may be *cognitively closed* to human minds, with the explanation existing but lying beyond our conceptual apparatus. [[limits-reveal-structure|Cognitive limits reveal cognitive architecture]], and we can ask [[meta-epistemology-of-limits|whether these limits are permanent]] even if the answer is undecidable from within.
 
 ## Criteria for Boundary Evidence
 

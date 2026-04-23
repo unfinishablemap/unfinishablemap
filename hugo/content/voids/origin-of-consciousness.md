@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-04-02 00:38:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[tenet-generated-voids]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[intrinsic-nature-void]]'
 - '[[apophatic-approaches]]'
 - '[[limits-reveal-structure]]'
@@ -166,7 +166,7 @@ The origin void exemplifies the Map's method: taking consciousness seriously lea
 - [self-reference paradox](/voids/self-opacity/) — Structural obstacles to self-examination
 - [The Thrownness Void](/voids/thrownness-void/) — The inaccessibility of consciousness's founding moment
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [whether-real](/voids/meta-epistemology-of-limits/) — The question of genuine versus apparent limits
+- [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The question of genuine versus apparent limits
 
 ## References
 

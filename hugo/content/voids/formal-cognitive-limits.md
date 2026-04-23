@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-17 05:40:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ related_articles:
 - '[[limits-reveal-structure]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[consciousness-only-territories]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[self-opacity]]'
 - '[[mathematical-void]]'
 - '[[apophatic-cartography]]'

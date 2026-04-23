@@ -4,7 +4,7 @@ description: "Human+AI exploration of how desire structures cognition itself—n
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ related_articles:
   - "[[affective-void]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[self-opacity]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[pre-conceptual-knowing]]"
   - "[[consciousness-only-territories]]"
@@ -119,7 +119,7 @@ The appetitive void hypothesis would be weakened if:
 
 3. **Motivated reasoning proves individually variable without pattern.** If appetitive distortion is random rather than systematic, it is noise rather than structure.
 
-The evidence currently points toward the appetitive void as genuine. The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—suggests something real is being tracked. This convergence contributes to the [[compound-failure-signatures|topology of cognitive failure]]: desire-shaped cognition is not an isolated limit but part of a larger architecture of [[whether-real|boundaries that reveal structure]]. The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
+The evidence currently points toward the appetitive void as genuine. The convergence across Schopenhauer, Spinoza, Buddhism, Nietzsche, Lacan, and predictive processing—traditions with radically different starting points arriving at the same diagnosis—suggests something real is being tracked. This convergence contributes to the [[compound-failure-signatures|topology of cognitive failure]]: desire-shaped cognition is not an isolated limit but part of a larger architecture of [[meta-epistemology-of-limits|boundaries that reveal structure]]. The deepest question remains open: Is desire something consciousness *does*, or something consciousness *is*?
 
 ## Further Reading
 
@@ -127,7 +127,6 @@ The evidence currently points toward the appetitive void as genuine. The converg
 - [[self-maintained-cognitive-limits]] — Thoughts we systematically flee and active blocks—the motivational cousin
 - [[affective-void]] — Emotions beyond human reach
 - [[self-opacity|introspective opacity]] — Inaccessibility of cognitive processes
-- [[self-opacity|self-reference paradox]] — Where consciousness cannot map because it is the mapper
 - [[pre-conceptual-knowing]] — Knowledge before and beyond concepts
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
 

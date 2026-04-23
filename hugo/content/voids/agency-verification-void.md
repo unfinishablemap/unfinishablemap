@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[causal-interface]]'
 - '[[self-maintained-cognitive-limits]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[limits-reveal-structure]]'
 - '[[tenet-generated-voids]]'
 title: The Agency Verification Void
@@ -105,7 +105,6 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/). Because the M
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [Volitional Opacity](/voids/self-opacity/) — The opacity of *how* we decide
 - [The Causal Interface Void](/voids/causal-interface/) — The opacity of *how* consciousness connects to physics
-- [The Self-Reference Paradox](/voids/self-opacity/) — Why consciousness cannot fully model itself
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some limits be actively imposed?
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — How each tenet generates its characteristic void
 - [Free Will](/topics/free-will/) — The broader context for questions of agency

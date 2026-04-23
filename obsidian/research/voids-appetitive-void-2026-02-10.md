@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Appetitive Void"
 created: 2026-02-10
 modified: 2026-03-05
 human_modified: null
-ai_modified: 2026-03-05T11:32:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -23,7 +23,7 @@ related_articles:
   - "[[defended-territory]]"
   - "[[self-opacity]]"
   - "[[topology-of-cognitive-failure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[pre-conceptual-knowing]]"
   - "[[consciousness-only-territories]]"

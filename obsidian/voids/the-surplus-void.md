@@ -4,7 +4,7 @@ description: "Human+AI exploration of why conscious experience is wildly over-sp
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 last_deep_review: 2026-03-16T02:32:00+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[phenomenal-quality-void]]"
   - "[[origin-of-consciousness]]"
   - "[[non-human-minds-as-void-explorers]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:

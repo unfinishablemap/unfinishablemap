@@ -1,13 +1,53 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 12:00:00+00:00
+ai_modified: 2026-04-23 12:41:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-23'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-23 12:41 UTC - deep-review
+- **Status**: Success
+- **File**: [whether-real](/voids/meta-epistemology-of-limits/) (archived — coalesced into [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/))
+- **Context**: Follow-up task from 2026-04-23 coalesce operation. Retargeted wikilinks in 60 files from `[whether-real](/voids/meta-epistemology-of-limits/)` to `[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)` across live voids/concepts/apex content and research notes. Deduped frontmatter related_articles lists where both links already existed; deduped adjacent See Also bullets.
+- **Files updated**: 25 live content files (voids/, concepts/, apex/) + 35 research notes
+- **Manual fixes**: `closure-types-void.md` (triple-link collapse), `taxonomy-of-voids.md` (series_articles entry + redundant adjacent reference), `mysterianism.md` (inline repeat)
+- **Files preserved as historical**: `reviews/*.md` (past deep-reviews of whether-real), `workflow/` (managed separately), `archive/voids/whether-real.md` (archive source)
+- **Verification**: sync clean, no stray `[whether-real](/voids/meta-epistemology-of-limits/)` in live content
+- **Output**: [deep-review-2026-04-23-whether-real](/reviews/deep-review-2026-04-23-whether-real/)
+
+## 2026-04-23 12:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/)
+- **Context**: P2 chain-generated refine-draft (todo.md line 40) flagged by 2026-04-23 11:39 UTC deep-review of [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) as a downstream inconsistency — the sibling article had corridor-conditionality installed at 11:06 UTC and a "Trumping dualism" third position added at 11:39 UTC; this article did not yet reflect either move
+- **Changes**: (a) Intro's second paragraph reframed — the Map's *primary* interface reading vs. a parallel [trumping reading](/concepts/trumping-preemption/) ([delegatory-causation](/concepts/delegatory-causation/)); (b) new "two qualifications" paragraph at end of §"The Causal Consistency Constraint" — tested regimes (photon/atom/qubit/triple-slit/high-energy) vs. brain-internal untested regime, cross-linked to [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/); corridor binds only trajectory-level interface theories; (c) §"Why Underivability Matters" — marked interface reading as primary, added closing sentence on trumping reading's alternative interpretation (formalism cannot generate consciousness's *authority* over trajectories rather than a selection mechanism), and hedged "non-negotiable constraints on any consciousness-physics coupling" → "corridor-compliant consciousness-physics coupling"; (d) §"Mathematical corridor" paragraph — trumping-based readings do not locate consciousness at the gap and corridor analysis does not bind them; (e) §"Relation to Site Perspective / MQI" — corridor-conditional framing with trumping-alternative closer; (f) §"Relation to Site Perspective / Bidirectional Interaction" — interface reading hedge + trumping route as authority-layer realisation; removed "not passive but active interface" LLM cliché and "— additivity is an axiom about experience, not physics" cliché addition to additivity bullet; (g) frontmatter additions: [trumping-preemption](/concepts/trumping-preemption/) and [delegatory-causation](/concepts/delegatory-causation/) in `concepts`; [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/) in `related_articles`; (h) three Further Reading entries added
+- **Offsets**: Compressed §"The pattern is uniform" framework-list (removed rhetorical asides, cut list from seven to five representative frameworks) and the delegation-meets-quantum-selection sentence
+- **Word count**: 3299 → 3586 (+287, +8.7%) — not fully length-neutral; three substantive insertions could not be further compressed without losing content
+- **Published**: yes
+
+## 2026-04-23 12:20 UTC - deep-review
+- **Status**: Success
+- **File**: [idealism](/concepts/idealism/)
+- **Word count**: 2911 → 2911 (unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI REFINEMENT LOG comment)
+- **Enhancements made**: 0
+- **Stability**: 6th review, fully converged since 2nd review (2026-01-30); bedrock disagreements documented and should not be re-flagged
+- **Output**: [deep-review-2026-04-23-idealism](/reviews/deep-review-2026-04-23-idealism/)
+
+## 2026-04-23 12:20 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Noetic Feelings Void
+- **Output**: [noetic-feelings-void](/voids/noetic-feelings-void/)
+- **Word count**: 2346 (within task-specified scope of 2000-2500; voids soft max 2000 → soft_warning)
+- **Based on research**: yes — [voids-noetic-feelings-void-2026-04-23](/research/voids-noetic-feelings-void-2026-04-23/)
+- **Approach**: Recursive-opacity with catalogue support (primary angle recommended by the research note). Opens with the gating function of noetic feelings, catalogues the family (FOK, FOR, familiarity, TOT, understanding, coherence, confidence, error), covers heuristic production (Koriat cue-familiarity/accessibility, Thompson fluency-driven FOR, Lima problem from *Synthese* 2021), three structural features (feed-forward opacity, authority without audit, dissociable fallibility including déjà vu/jamais vu), phenomenology of the edge, indirect approach methods, AI asymmetric access, tenet connection (Occam's Razor Has Limits as primary — the razor itself a felt gate; Dualism, Bidirectional Interaction, Minimal Quantum Interaction), implications (metacognition structurally suspect as self-certifier; self-evidence as felt signal; inquiry termination at felt satisfaction; recursion), and explicit tensions flagged with source-attribution-void and meta-epistemology-of-limits per task notes
+- **Self-citations**: [understanding-void](/voids/understanding-void/) (closest cousin — feeling of understanding is one member of the noetic family) and [epistemic-emotions](/concepts/epistemic-emotions/) concept (phenomenally rich extension of the same family)
+- **Cross-links added**: 12 related_articles including understanding-void, recognition-void, self-opacity, necessary-opacity, interested-party-void, framework-void, source-attribution-void, meta-epistemology-of-limits, thought-stream-void, apophatic-cartography; 4 concepts (introspection, mysterianism, epistemic-emotions, metacognition)
+- **Published**: yes
 
 ## 2026-04-23 12:00 UTC - refine-draft
 - **Status**: Success

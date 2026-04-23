@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Question as Evidence"
 created: 2026-01-30
 modified: 2026-01-30
 human_modified: null
-ai_modified: 2026-01-30T12:23:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[origin-of-consciousness]]"
   - "[[limits-reveal-structure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[self-opacity]]"
 ai_contribution: 100
 author: null

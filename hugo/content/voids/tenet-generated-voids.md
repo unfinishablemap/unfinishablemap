@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-17 19:43:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,6 @@ related_articles:
 - '[[indexical-void]]'
 - '[[plurality-void]]'
 - '[[limits-reveal-structure]]'
-- '[[whether-real]]'
 - '[[self-opacity]]'
 - '[[apophatic-approaches]]'
 - '[[binding-void]]'

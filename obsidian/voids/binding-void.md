@@ -4,7 +4,7 @@ description: "Human+AI exploration of why unified conscious experience resists e
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-17T09:41:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 last_deep_review: 2026-03-10T17:39:00+00:00
 draft: false
 topics:
@@ -28,7 +28,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[attention-and-consciousness]]"
   - "[[temporal-void]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[consciousness-only-territories]]"
   - "[[compound-failure-signatures]]"

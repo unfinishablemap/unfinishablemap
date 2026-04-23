@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Formalization Void"
 created: 2026-02-18
 modified: 2026-02-18
 human_modified: null
-ai_modified: 2026-02-18T22:49:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[incompleteness-void]]"
   - "[[computational-cognitive-limits]]"
   - "[[self-opacity]]"
@@ -143,7 +143,7 @@ This generates a distinctive layered structure:
 2. **Second order**: We cannot formally prove these limits are genuine (the formalization void)
 3. **Third order**: We cannot even determine whether our inability to prove them is itself a genuine limit or merely reflects insufficient formal tools (meta-formalization regress)
 
-The formalization void differs from the [[incompleteness-void]] (which covers Gödelian limits on self-knowledge) and from [[whether-real]] (which asks whether voids exist). The formalization void asks a more precise question: given that we suspect some cognitive limits are permanent, why does every attempt to *formally demonstrate* their permanence fail — and is this failure itself informative?
+The formalization void differs from the [[incompleteness-void]] (which covers Gödelian limits on self-knowledge) and from [[meta-epistemology-of-limits]] (which asks whether voids exist). The formalization void asks a more precise question: given that we suspect some cognitive limits are permanent, why does every attempt to *formally demonstrate* their permanence fail — and is this failure itself informative?
 
 ### Evidence for the Limit
 

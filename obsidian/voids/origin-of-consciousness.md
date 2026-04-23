@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness exists at all—a questi
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-04-02T00:38:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 last_deep_review: 2026-04-02T00:38:00+00:00
 topics:
@@ -19,7 +19,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[tenet-generated-voids]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[intrinsic-nature-void]]"
   - "[[apophatic-approaches]]"
   - "[[limits-reveal-structure]]"
@@ -164,7 +164,7 @@ The origin void exemplifies the Map's method: taking consciousness seriously lea
 - [[self-opacity|self-reference paradox]] — Structural obstacles to self-examination
 - [[thrownness-void|The Thrownness Void]] — The inaccessibility of consciousness's founding moment
 - [[apophatic-approaches]] — Methods for knowing through negation
-- [[whether-real]] — The question of genuine versus apparent limits
+- [[meta-epistemology-of-limits]] — The question of genuine versus apparent limits
 
 ## References
 

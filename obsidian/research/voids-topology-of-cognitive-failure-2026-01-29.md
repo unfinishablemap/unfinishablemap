@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Topology of Cognitive Failure"
 created: 2026-01-29
 modified: 2026-01-29
 human_modified: null
-ai_modified: 2026-01-29T06:30:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -16,7 +16,7 @@ related_articles:
   - "[[tenets]]"
   - "[[limits-reveal-structure]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[thoughts-that-slip-away]]"
   - "[[self-opacity]]"
   - "[[apophatic-approaches]]"

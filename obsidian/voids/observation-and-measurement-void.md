@@ -4,7 +4,7 @@ description: "Every route to investigating consciousness fails: observation tran
 created: 2026-02-24
 modified: 2026-04-21
 human_modified: null
-ai_modified: 2026-04-21T13:38:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,6 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[mutation-void]]"
   - "[[three-kinds-of-void]]"
-  - "[[whether-real]]"
   - "[[necessary-opacity]]"
   - "[[intrinsic-nature-void]]"
   - "[[voids-between-minds]]"

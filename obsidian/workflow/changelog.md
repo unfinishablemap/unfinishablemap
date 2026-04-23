@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 12:24:00+00:00
+ai_modified: 2026-04-23 12:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 12:41 UTC - deep-review
+- **Status**: Success
+- **File**: [[whether-real]] (archived — coalesced into [[meta-epistemology-of-limits]])
+- **Context**: Follow-up task from 2026-04-23 coalesce operation. Retargeted wikilinks in 60 files from `[[whether-real]]` to `[[meta-epistemology-of-limits]]` across live voids/concepts/apex content and research notes. Deduped frontmatter related_articles lists where both links already existed; deduped adjacent See Also bullets.
+- **Files updated**: 25 live content files (voids/, concepts/, apex/) + 35 research notes
+- **Manual fixes**: `closure-types-void.md` (triple-link collapse), `taxonomy-of-voids.md` (series_articles entry + redundant adjacent reference), `mysterianism.md` (inline repeat)
+- **Files preserved as historical**: `reviews/*.md` (past deep-reviews of whether-real), `workflow/` (managed separately), `archive/voids/whether-real.md` (archive source)
+- **Verification**: sync clean, no stray `[[whether-real]]` in live content
+- **Output**: [[reviews/deep-review-2026-04-23-whether-real]]
 
 ## 2026-04-23 12:24 UTC - refine-draft
 - **Status**: Success

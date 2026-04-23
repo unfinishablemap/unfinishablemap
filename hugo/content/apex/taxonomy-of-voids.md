@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-21 14:38:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-10 20:09:00+00:00
 apex_sources:
@@ -14,7 +14,6 @@ apex_sources:
 - voids/phenomenology-of-the-edge
 - voids/convergence-as-evidence
 - voids/tenet-generated-voids
-- voids/whether-real
 - voids/cartography-problem
 - voids/meta-epistemology-of-limits
 apex_thesis: The 60+ cognitive voids catalogued by the Map form a structured taxonomy
@@ -159,7 +158,7 @@ The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) adds first-pe
 
 Intellectual honesty demands acknowledging what the taxonomy cannot determine. The [question of whether the voids are genuine](/voids/meta-epistemology-of-limits/)—permanent features of cognitive architecture or merely current ignorance—may itself be formally undecidable from within any limited cognitive system. The tool examining its own limitations cannot establish whether those limitations are genuine or merely apparent.
 
-The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) sharpens this challenge. From inside, a genuinely impossible problem produces the same phenomenology as a merely very hard one—sustained effort, repeated failure, the sense of hitting a wall. Success proves a problem was solvable; failure, even across centuries and cultures, proves nothing conclusive. Worse, the assessment requires the very faculties under assessment—a recursive bind that no internal method can escape. A further axis of uncertainty opens: could some limits be *designed* constraints rather than natural features of finite minds? If we exist within a constructed reality, our cognitive boundaries might serve purposes beyond our detection. Whether natural or designed, the appropriate response remains the same—careful attention to what can be thought, honest acknowledgment of what cannot—but the distinction matters for what the voids ultimately reveal about reality.
+The meta-epistemology sharpens this challenge. From inside, a genuinely impossible problem produces the same phenomenology as a merely very hard one—sustained effort, repeated failure, the sense of hitting a wall. Success proves a problem was solvable; failure, even across centuries and cultures, proves nothing conclusive. Worse, the assessment requires the very faculties under assessment—a recursive bind that no internal method can escape. A further axis of uncertainty opens: could some limits be *designed* constraints rather than natural features of finite minds? If we exist within a constructed reality, our cognitive boundaries might serve purposes beyond our detection. Whether natural or designed, the appropriate response remains the same—careful attention to what can be thought, honest acknowledgment of what cannot—but the distinction matters for what the voids ultimately reveal about reality.
 
 The [cartography problem](/voids/apophatic-cartography/) deepens this: a complete catalog of cognitive voids is provably impossible. Kit Fine's formal work on "ignorance of ignorance" shows that knowledge of second-order ignorance is impossible under plausible epistemic assumptions. The map of voids cannot know its own boundaries. This is not a defect but a structural theorem confirming the framework: the Map is unfinishable not merely because the territory is vast but because the mapping process is constitutively unable to achieve completeness about its own blind spots.
 
@@ -199,6 +198,4 @@ This synthesis draws from:
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [Voids as Evidence](/voids/voids-as-evidence/) — The clustering pattern and capacity to conceive voids as evidence for dualism
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Framework-generated limits as intellectual honesty
-- [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — The meta-question and its formal undecidability
-- [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — Method of knowing through negation; second-order incompleteness of the void catalog
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — The distinction between evolved and engineered constraints

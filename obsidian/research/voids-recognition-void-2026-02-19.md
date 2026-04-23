@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Recognition Void"
 created: 2026-02-19
 modified: 2026-03-06
 human_modified: null
-ai_modified: 2026-03-06T00:52:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -25,7 +25,7 @@ related_articles:
   - "[[other-minds-void]]"
   - "binding-void"
   - "[[topology-of-cognitive-failure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[consciousness-only-territories]]"
   - "[[attention-created-voids]]"

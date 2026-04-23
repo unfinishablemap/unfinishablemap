@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Cartography Problem"
 created: 2026-02-10
 modified: 2026-02-10
 human_modified: null
-ai_modified: 2026-02-10T01:11:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -17,7 +17,6 @@ related_articles:
   - "[[tenets]]"
   - "[[self-opacity]]"
   - "[[incompleteness-void]]"
-  - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[topology-of-cognitive-failure]]"

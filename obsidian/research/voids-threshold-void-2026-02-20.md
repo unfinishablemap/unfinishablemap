@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Threshold Void"
 created: 2026-02-20
 modified: 2026-02-20
 human_modified: null
-ai_modified: 2026-02-20T16:51:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[emergence-void]]"
   - "[[conceptual-impossibility]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[ai-as-void-explorer]]"
 ai_contribution: 100
 author: null

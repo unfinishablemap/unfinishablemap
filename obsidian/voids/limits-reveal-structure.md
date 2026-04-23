@@ -4,7 +4,7 @@ description: "Human+AI investigation of how cognitive boundaries illuminate cogn
 created: 2026-01-16
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-04-20T22:38:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -156,7 +156,7 @@ The limits-reveal-structure thesis would be undermined if:
 - [[erasure-void|The Erasure Void]] — Silent cognitive loss: monitoring infrastructure shares fate with monitored capacities
 - [[disappearance-voids|The Habituation Void]] — How familiarity-limits reveal novelty-orientation in consciousness
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching cognitive limits feels like
-- [[whether-real|Whether the Voids Are Real]] — Can we determine if limits are permanent?
+- [[meta-epistemology-of-limits|Whether the Voids Are Real]] — Can we determine if limits are permanent?
 - [[epistemology-of-limit-knowledge]] — The systematic epistemology of how knowledge about cognitive limits is warranted
 - [[illusionism|Illusionism]] — The radical challenge that limits are misrepresentations (see Illusionist Challenge section)
 - [[introspection|Introspection]] — The reliability of first-person access to cognitive architecture

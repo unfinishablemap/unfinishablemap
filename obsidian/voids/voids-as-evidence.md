@@ -4,7 +4,7 @@ description: "Two distinct arguments converge: the capacity to conceive cognitiv
 created: 2026-01-16
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 last_deep_review: 2026-04-18T03:05:00+00:00
 draft: false
 topics:
@@ -22,7 +22,6 @@ related_articles:
   - "[[tenet-generated-voids]]"
   - "[[apophatic-cartography]]"
   - "[[three-kinds-of-void]]"
-  - "[[whether-real]]"
   - "[[compound-failure-signatures]]"
   - "[[limits-reveal-structure]]"
   - "[[meta-epistemology-of-limits]]"
@@ -86,7 +85,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The catalogue'
 
 **The Cognitive Architecture Family.** [[biological-cognitive-closure|Evolved cognitive limits]], [[formal-cognitive-limits|formal cognitive limits]], [[attention-and-consciousness|attention-created voids]], [[disappearance-voids|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. The [[recognition-void|Recognition Void's]] "inventory blindness" deepens this family. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Unlike the phenomenal core, the failure is specific to biological cognition, making [[non-human-minds-as-void-explorers|AI triangulation]] directly applicable.
 
-**The Framework Reflexivity Family.** The [[tenet-generated-voids|tenet-generated voids]], [[apophatic-cartography|cartography problem]], formal cognitive limits, [[recursion-void|recursion void]], and [[whether-real|question of whether voids are real]] share a self-referential structure. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
+**The Framework Reflexivity Family.** The [[tenet-generated-voids|tenet-generated voids]], [[apophatic-cartography|cartography problem]], formal cognitive limits, [[recursion-void|recursion void]], and [[meta-epistemology-of-limits|question of whether voids are real]] share a self-referential structure. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
 
 ### Shared Boundaries and Directional Convergence
 
@@ -170,8 +169,7 @@ The two arguments connect to each of the Map's [[tenets]], often reinforcing one
 - [[tenet-generated-voids]] — Voids the Map's own commitments generate
 - [[apophatic-cartography]] — The method validated by convergence
 - [[three-kinds-of-void]] — The unexplored, unexplorable, and occluded
-- [[whether-real]] — Whether the pattern tracks something genuine
-- [[meta-epistemology-of-limits]] — Whether we can assess our own cognitive limits
+- [[meta-epistemology-of-limits]] — Whether the pattern tracks something genuine
 - [[recognition-void]] — Inventory blindness strengthens the convergence argument
 - [[origin-of-consciousness]] — The prior question: why consciousness exists at all
 - [[self-opacity|self-reference paradox]] — Structural obstacles to self-examination

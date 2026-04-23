@@ -4,7 +4,7 @@ description: "Human+AI exploration of why Occam's Razor may be a cognitive bias 
 created: 2026-02-22
 modified: 2026-04-19
 human_modified:
-ai_modified: 2026-04-19T06:38:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 last_deep_review: 2026-04-19T06:38:00+00:00
 draft: false
 topics:
@@ -17,7 +17,6 @@ related_articles:
   - "[[tenets]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[three-kinds-of-void]]"
-  - "[[whether-real]]"
   - "[[parsimony-epistemology]]"
   - "[[phenomenological-method-and-evidence-standards]]"
 ai_contribution: 100
@@ -73,7 +72,7 @@ In the Map's [[three-kinds-of-void|taxonomy]], this void has elements of all thr
 
 **Occluded.** There may be a selection effect: philosophies and scientific frameworks that survive cultural transmission are those that *feel simple enough to be plausible*. Correct-but-complex metaphysical theories might be systematically filtered out by the collective simplicity preferences of the intellectual community. If so, the filtering is invisible — we see only the theories that passed through.
 
-Whether this void is permanent or temporary remains, as with most voids, [[whether-real|undecidable from within]].
+Whether this void is permanent or temporary remains, as with most voids, [[meta-epistemology-of-limits|undecidable from within]].
 
 ## A Partial Access Point
 
@@ -104,7 +103,6 @@ The connection to [[tenets#^minimal-quantum-interaction|Tenet 2 (Minimal Quantum
 - [[phenomenological-method-and-evidence-standards]] — Evidence standards that do not reduce to compression preference
 - [[meta-epistemology-of-limits]] — The general problem of assessing cognitive limits from within
 - [[three-kinds-of-void]] — The unexplored, unexplorable, and occluded
-- [[whether-real]] — Can we determine if cognitive limits are permanent?
 - [[mysterianism]] — McGinn's analysis of cognitive closure
 - [[hard-problem-of-consciousness]] — Why phenomenal consciousness resists physical explanation
 - [[concepts/materialism]] — The position parsimony is invoked to defend

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-25
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[affective-void]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[self-opacity]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[limits-reveal-structure]]'
 - '[[pre-conceptual-knowing]]'
 - '[[consciousness-only-territories]]'
@@ -129,7 +129,6 @@ The evidence currently points toward the appetitive void as genuine. The converg
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Thoughts we systematically flee and active blocks—the motivational cousin
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [introspective opacity](/voids/self-opacity/) — Inaccessibility of cognitive processes
-- [self-reference paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 

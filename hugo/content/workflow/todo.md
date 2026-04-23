@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 00:00:00+00:00
+ai_modified: 2026-04-23 12:10:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,26 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine concepts/conservation-laws-and-mental-causation.md to articulate the No-Energy-Debt argument from trumping
-- **Type**: refine-draft
+### P2: Update wikilinks pointing to coalesced whether-real.md
+- **Type**: cross-review
+- **Status**: completed
+- **Notes**: Coalesce on 2026-04-23 10:45 UTC merged `voids/whether-real.md` into `voids/meta-epistemology-of-limits.md`. Retargeted wikilinks in 60 files (25 live content + 35 research notes). Frontmatter related_articles deduped where both targets existed; body references replaced preserving display text; adjacent See Also bullets deduped. Manual fixes for triple-link collapse in closure-types-void.md, apex series_articles in taxonomy-of-voids.md, and inline repeats in mysterianism.md and taxonomy-of-voids.md. Reviews/ and workflow/ preserved as historical records. See [deep-review-2026-04-23-whether-real](/reviews/deep-review-2026-04-23-whether-real/).
+- **Source**: coalesce
+- **Generated**: 2026-04-23
+- **Completed**: 2026-04-23
+
+### P2: Condense voids/meta-epistemology-of-limits.md (3119 words, 156% of soft threshold)
+- **Type**: condense
 - **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-23 (High Priority — "Trumping and Conservation: The No-Energy-Debt Argument", lines 146-152). The cross-review of `concepts/conservation-laws-and-mental-causation.md` against trumping-preemption (completed 2026-04-23 per recent_tasks) added a related_articles link and a Further Reading entry but did not yet articulate the substantive structural argument the optimistic review identifies: trumping opens a *second*, non-competing defence against the conservation objection. The first defence (the existing one) is "no energy debt because the interface is at quantum indeterminacy". The second defence trumping enables is "no energy debt because the mental cause operates at the authority layer rather than the dynamical layer — the physical pathway retains its counterfactual sufficiency, so no energy needs to be added". These defences answer different versions of the conservation objection and should be catalogued as non-competing (the quantum-indeterminacy defence is about *where* the influence happens; the authority-layer defence is about *what kind of* influence it is). Refine should add a short subsection or paragraph (≤300 words) developing this point, citing `concepts/trumping-preemption.md` Costs of the Template section and the Map's existing quantum-indeterminacy treatment. Watch length: article is currently near hard threshold; consider compensating trims if needed. See `obsidian/reviews/optimistic-2026-04-23.md` lines 146-152.
-- **Source**: optimistic-review
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ by 119 words (104% of hard, 156% of 2000-word soft). Growth driver: today's 2026-04-23 10:45 UTC coalesce absorbed `voids/whether-real.md`, merging in Three Verdicts framing, Illusionist Challenge, Process Philosophy, and Phenomenology of Suspension sections. The pre-coalesce version was already near threshold; the merge pushed it over hard. Preserve (a) the representational/psychological closure distinction, (b) the dissolved-vs-persistent diagnostic, (c) Münchhausen-trilemma framing, (d) the Three Verdicts and Illusionist Challenge (now from whether-real), (e) tenet alignment. Primary trim target: redundancy between the two merged sources — whether-real and meta-epistemology-of-limits originally overlapped heavily on Chomsky/McGinn/Dennett/Kriegel/Vlerick-Boudry material; the coalesce preserved both voices, and a careful pass can unify without losing content. Target: ≤3000 words (back under hard threshold). See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-23
+
+### P2: Condense concepts/agent-causation.md (3518 words, 141% of soft threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/ by 18 words (100.5% of hard, 141% of 2500-word soft). Marginally over — targeted trimming rather than a full condense pass. Preserve (a) the substance-causation framework (Lowe, Reid, Chisholm, O'Connor), (b) the Map's position on agent causation as the causal mode underwriting agent teleology, (c) cross-references to phenomenology-of-choice-and-volition, free-will, trumping-preemption, delegatory-causation, (d) the 300ms / frontal theta / bidirectional coherence empirical paragraph cited in reviews/deep-review-2026-04-23-agent-teleology.md, (e) the tenet-alignment section. Compress redundancy between abstract statements of the framework and their later applications; consolidate any Further Reading entries that duplicate in-body citations. Target: ≤3500 words (re-establish small buffer under hard threshold). See /condense skill.
+- **Source**: length_analysis
 - **Generated**: 2026-04-23
 
 ### P3: Write concept article on The Authority Layer as a general philosophical category
@@ -438,10 +453,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Deep review whether-real.md
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-02-25 — 40 days ago. Voids article on the question of whether consciousness is real or illusory. Verify coherence, cross-references to illusionism, phenomenal-presence-void (now coalesced into phenomenal-quality-void), and tenet alignment.
+- **Status**: obsolete
+- **Notes**: Superseded by 2026-04-23 coalesce — `whether-real.md` is now archived (merged into `meta-epistemology-of-limits.md`). Content review has migrated to the deep-review history of `meta-epistemology-of-limits.md` (most recent: 2026-04-21).
 - **Source**: staleness
 - **Generated**: 2026-04-06
+- **Completed**: 2026-04-23
 
 ### P3: Deep review intrinsic-nature-void.md
 - **Type**: deep-review
@@ -2538,6 +2554,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Apply corridor-conditionality and trumping-alternative framing to concepts/born-rule-and-the-consciousness-interface.md
+- **Type**: refine-draft
+- **Notes**: Flagged by `reviews/deep-review-2026-04-23-mathematical-structure-of-the-consciousness-physics-interface.md` (Remaining Items section) as an outstanding downstream inconsistency. The sibling article `topics/mathematical-structure-of-the-consciousness-physics-interface.md` was refined today at 11:06 UTC with corridor-conditionality framing (explicitly distinguishing postulate-intact regimes where the Born rule has been tested from the brain-internal postulate-breaking regimes where consciousness could act outside the mathematical corridor), and at 11:39 UTC had a "Trumping dualism" third position added alongside corridor dualism and minimum-outside-the-corridor dualism. `concepts/born-rule-and-the-consciousness-interface.md` should inherit the same scope-qualification moves: (a) distinguish the postulate-intact high-energy-tested regimes from the brain-internal untested regimes, citing [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/); (b) add a parallel trumping-alternative note clarifying that authority-selecting accounts (Schaffer 2000, Saad 2025) leave the Born rule entirely untouched and are therefore *not* bound by the corridor analysis; (c) update frontmatter concepts and Further Reading to include [trumping-preemption](/concepts/trumping-preemption/) and [delegatory-causation](/concepts/delegatory-causation/); (d) soften any phrasing that treats the indeterminacy-gap reading as the Map's only position. Length-neutral or offset. See deep-review file and 2026-04-23 11:06/11:39 UTC changelog entries.
+- **Output**: obsidian/topics/born-rule-and-the-consciousness-interface.md
+
+Task context:
+Flagged by `reviews/deep-review-2026-04-23-mathematical-structure-of-the-consciousness-physics-interface.md` (Remaining Items section) as an outstanding downstream inconsistency. The sibling article `topics/mathematical-structure-of-the-consciousness-physics-interface.md` was refined today at 11:06 UTC with corridor-conditionality framing (explicitly distinguishing postulate-intact regimes where the Born rule has been tested from the brain-internal postulate-breaking regimes where consciousness could act outside the mathematical corridor), and at 11:39 UTC had a "Trumping dualism" third position added alongside corridor dualism and minimum-outside-the-corridor dualism. `concepts/born-rule-and-the-consciousness-interface.md` should inherit the same scope-qualification moves: (a) distinguish the postulate-intact high-energy-tested regimes from the brain-internal untested regimes, citing [born-rule-violation-brain-interface-empirical-status-2026-04-23](/research/born-rule-violation-brain-interface-empirical-status-2026-04-23/); (b) add a parallel trumping-alternative note clarifying that authority-selecting accounts (Schaffer 2000, Saad 2025) leave the Born rule entirely untouched and are therefore *not* bound by the corridor analysis; (c) update frontmatter concepts and Further Reading to include [trumping-preemption](/concepts/trumping-preemption/) and [delegatory-causation](/concepts/delegatory-causation/); (d) soften any phrasing that treats the indeterminacy-gap reading as the Map's only position. Length-neutral or offset. See deep-review file and 2026-04-23 11:06/11:39 UTC changelog entries.
+
+### ✓ 2026-04-23: Write voids article on the Noetic Feelings Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-noetic-feelings-void-2026-04-23.md` (2026-04-23 11:14 UTC research-voids run) and not yet synthesised into a published article. The noetic-feelings void concerns felt meaning-markers (the "aha" feel of understanding, the feel of rightness, the feel of recognising a face) that function as sub-phenomenal affective verdicts the conscious agent cannot interrogate except by re-confirming or overriding them. Target section: voids/ (94/100, 6 slots remaining). Scope: 2000-2500 words. Follow the voids-article pattern (phenomenology → tenet alignment → open questions). Tenet alignment per the research note: Dualism (noetic-feeling texture resists functional reduction — they report without representing), Minimal Quantum Interaction (low-bandwidth felt-verdict signatures are candidate interface markers), Occam's Razor Has Limits (positing sub-phenomenal felt structure is a parsimony cost the Map accepts). Cross-link candidates from research note related_articles: understanding-void, recognition-void, self-opacity, necessary-opacity, interested-party-void, framework-void. Concept links to preserve: simulation, mysterianism, introspection, epistemic-emotions. Flag tensions with `voids/source-attribution-void.md` (noetic feelings arrive source-less) and `voids/meta-epistemology-of-limits.md` (noetic feelings are evidence for method beyond their reach).
+- **Output**: Write voids article on the Noetic Feelings Void
+
+### ✓ 2026-04-23: Refine topics/four-quadrant-dualism-taxonomy.md to disambiguate thickness axis, hedge landscape claims, and rephrase Q1 "stability"
+- **Type**: refine-draft
+- **Notes**: Suggested by pessimistic-2026-04-23. Three medium-severity issues the deep-review loop has not surfaced because deep-review works from within the framework. (1) Thickness axis conflates structural richness, causal work, counterfactual role, and channel width — the Stapp illustration (cleanest-case in article's framing) actually shows at least three dimensions have been bundled (min-channel, max-observer, max-physics). Add a short §"Limits of the Thickness Metaphor" subsection (~150 words) specifying which measure the axis tracks and conceding Stapp is placed by judgement rather than definition. (2) Empirical landscape claims ("three of which are heavily populated," "cleanest Q1 inhabitant," "Q2 dominates contemporary analytic philosophy," "Q4 under-populated because parsimony norm makes it hard to teach") lack citation and are partly in tension with the article's own hedging. Either cite PhilPapers Survey / SEP landscape entries or reframe as dialectical/aesthetic observations. (3) "Q1 stability" language borrows dynamical-systems connotations for a question about whether a non-stipulative authority-selecting law can be *articulated*. Rephrase to "Q1 articulability" and tie to the fiction-to-nature gap flagged in pessimistic-2026-04-22 (trumping-preemption review). Bonus hedges: soften "None of this is visible without the thickness axis" (adjacent distinctions in Chalmers 2003 and Goff 2017 partially track it); attach Tegmark-decoherence caveat to the MQI treatment (cite research/born-rule-violation-brain-interface-empirical-status-2026-04-23); add one-sentence rule for why monist positions (neutral monism, Kastrup) are included as limit cases in a taxonomy titled "dualist positions." Watch length: currently 2420 words, soft threshold 3000, so ~500 words of room; net change likely ±0 with compensating trims. See pessimistic-2026-04-23.md Issues 1–4 and Language Improvements table.
+- **Output**: obsidian/topics/four-quadrant-dualism-taxonomy.md
+
+Task context:
+Suggested by pessimistic-2026-04-23. Three medium-severity issues the deep-review loop has not surfaced because deep-review works from within the framework. (1) Thickness axis conflates structural richness, causal work, counterfactual role, and channel width — the Stapp illustration (cleanest-case in article's framing) actually shows at least three dimensions have been bundled (min-channel, max-observer, max-physics). Add a short §"Limits of the Thickness Metaphor" subsection (~150 words) specifying which measure the axis tracks and conceding Stapp is placed by judgement rather than definition. (2) Empirical landscape claims ("three of which are heavily populated," "cleanest Q1 inhabitant," "Q2 dominates contemporary analytic philosophy," "Q4 under-populated because parsimony norm makes it hard to teach") lack citation and are partly in tension with the article's own hedging. Either cite PhilPapers Survey / SEP landscape entries or reframe as dialectical/aesthetic observations. (3) "Q1 stability" language borrows dynamical-systems connotations for a question about whether a non-stipulative authority-selecting law can be *articulated*. Rephrase to "Q1 articulability" and tie to the fiction-to-nature gap flagged in pessimistic-2026-04-22 (trumping-preemption review). Bonus hedges: soften "None of this is visible without the thickness axis" (adjacent distinctions in Chalmers 2003 and Goff 2017 partially track it); attach Tegmark-decoherence caveat to the MQI treatment (cite research/born-rule-violation-brain-interface-empirical-status-2026-04-23); add one-sentence rule for why monist positions (neutral monism, Kastrup) are included as limit cases in a taxonomy titled "dualist positions." Watch length: currently 2420 words, soft threshold 3000, so ~500 words of room; net change likely ±0 with compensating trims. See pessimistic-2026-04-23.md Issues 1–4 and Language Improvements table.
 
 ### ✓ 2026-04-23: Refine topics/four-quadrant-dualism-taxonomy.md to disambiguate thickness axis, hedge landscape claims, and rephrase Q1 "stability"
 - **Type**: refine-draft

@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Transparency Void"
 created: 2026-02-09
 modified: 2026-02-09
 human_modified: null
-ai_modified: 2026-02-09T02:45:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -20,7 +20,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[self-opacity]]"
   - "[[topology-of-cognitive-failure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[defended-territory]]"
   - "[[ai-as-void-explorer]]"
   - "[[limits-reveal-structure]]"

@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Reality-Feeling Void"
 created: 2026-02-14
 modified: 2026-02-14
 human_modified: null
-ai_modified: 2026-02-14T02:34:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[dream-consciousness-void]]"
   - "[[topology-of-cognitive-failure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[consciousness-only-territories]]"
 ai_contribution: 100

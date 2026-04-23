@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-01-29 06:30:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ related_articles:
 - '[[tenets]]'
 - '[[limits-reveal-structure]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[thoughts-that-slip-away]]'
 - '[[self-opacity]]'
 - '[[apophatic-approaches]]'

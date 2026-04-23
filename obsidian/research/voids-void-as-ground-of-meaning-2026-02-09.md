@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Void as Ground of Meaning"
 created: 2026-02-09
 modified: 2026-02-09
 human_modified: null
-ai_modified: 2026-02-09T10:06:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[topology-of-cognitive-failure]]"
   - "[[limits-reveal-structure]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[aesthetic-void]]"
   - "[[other-minds-void]]"
   - "[[creativity-void]]"

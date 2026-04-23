@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-25
-ai_modified: 2026-01-25 16:34:57+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -18,7 +18,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[thoughts-that-slip-away]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[self-opacity]]'
 target_section: voids
 title: 'Research Notes - Voids: The Architecture of Defended Territory'

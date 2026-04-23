@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot verify its own ca
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-04-17T14:56:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[causal-interface]]"
   - "[[self-maintained-cognitive-limits]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
   - "[[tenet-generated-voids]]"
 ai_contribution: 100
@@ -102,7 +102,6 @@ The void is also [[tenet-generated-voids|tenet-generated]]. Because the Map hold
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
 - [[self-opacity|Volitional Opacity]] — The opacity of *how* we decide
 - [[causal-interface|The Causal Interface Void]] — The opacity of *how* consciousness connects to physics
-- [[self-opacity|The Self-Reference Paradox]] — Why consciousness cannot fully model itself
 - [[self-maintained-cognitive-limits|Defended Territory]] — Could some limits be actively imposed?
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each tenet generates its characteristic void
 - [[topics/free-will|Free Will]] — The broader context for questions of agency

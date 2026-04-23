@@ -4,7 +4,7 @@ description: "Human+AI analysis of how we can have genuine knowledge about cogni
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-04-18T08:04:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,6 @@ related_articles:
   - "[[limits-reveal-structure]]"
   - "[[apophatic-approaches]]"
   - "[[apophatic-cartography]]"
-  - "[[whether-real]]"
   - "[[biological-cognitive-closure]]"
   - "[[recognition-void]]"
   - "[[phenomenology-of-the-edge]]"
@@ -123,7 +122,6 @@ The Map's broader project of treating [[voids]] as informative rather than merel
 - [[limits-reveal-structure]] — The structural inference method in action
 - [[apophatic-approaches]] — The apophatic method's philosophical roots
 - [[apophatic-cartography]] — Formalised evidential standards for void-mapping
-- [[whether-real]] — Can we determine if cognitive limits are permanent?
 - [[recognition-void]] — An example of limit-knowledge from neuroscience
 - [[biological-cognitive-closure]] — Cross-cultural evidence bearing on limit-knowledge claims
 - [[phenomenology-of-the-edge]] — What encountering a cognitive limit feels like from the inside

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-23 12:20:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -30,7 +30,7 @@ description: Consciousness is fundamental; matter is derivative or appearance. T
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 09:27:00+00:00
+last_deep_review: 2026-04-23 12:20:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -232,16 +232,3 @@ If forced to choose between idealism and physicalism, idealism is closer to the 
 1. Sprigge, T. (1983). *The Vindication of Absolute Idealism*. Edinburgh University Press.
 1. Goff, P. (2017). *Consciousness and Fundamental Reality*. Oxford University Press.
 1. Nāgārjuna. *Mūlamadhyamakakārikā* (Fundamental Verses on the Middle Way). Trans. Jay L. Garfield (1995). Oxford University Press.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made (building on 2026-03-29 pass):
-- Restructured phenomenological argument section (Issue 6): renamed to "The Case for Genuine Otherness" and reorganised as a cumulative case with three considerations rather than one central argument
-- Led with the regularity challenge (strongest argument) rather than the phenomenological argument
-- Moved regularity challenge from standalone "Why Not Idealism?" subsection into the restructured case, replaced with bridge sentence to avoid duplication
-- Fixed language: "the Map would choose idealism" → "idealism is closer to the Map's position"
-
-Based on pessimistic-2026-03-29.md Issue 6 and Language Improvements.
-Key improvements: stronger argumentative structure; removed personification of the Map.
-
-This log should be removed after human review.
--->

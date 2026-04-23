@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks pointing to coalesced whether-real.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-23 10:45 UTC merged `voids/whether-real.md` into `voids/meta-epistemology-of-limits.md` (source archived at `archive/voids/whether-real.md`). 96 `[[whether-real]]` wikilinks remain active across obsidian/. Hugo archive redirects preserve URLs but active cross-references should point to the unified article directly for a clean link graph. Priority order: (1) articles where the link appears in body text (not just frontmatter) — some brief prose rewrites may be needed because the merged treatment may not match the specific aspect the original citation invoked (whether-real carried the Three Verdicts, Illusionist Challenge, Process Philosophy, and Phenomenology of Suspension framings); (2) frontmatter-only references (simpler mechanical replacement). Standard replacement: `[[whether-real]]` → `[[meta-epistemology-of-limits]]` (or `[[meta-epistemology-of-limits|whether voids are real]]` where display text is meaningful). Do NOT update the intentional `coalesced_from` field in `meta-epistemology-of-limits.md` itself or references inside archived content (`archive/**`, historical `reviews/**`). Update `ai_modified` on every edited file. See 2026-04-23 10:45 UTC coalesce changelog entry.
-- **Source**: coalesce
-- **Generated**: 2026-04-23
-
 ### P2: Condense voids/meta-epistemology-of-limits.md (3119 words, 156% of soft threshold)
 - **Type**: condense
 - **Status**: pending
@@ -451,10 +444,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Deep review whether-real.md
 - **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-02-25 — 40 days ago. Voids article on the question of whether consciousness is real or illusory. Verify coherence, cross-references to illusionism, phenomenal-presence-void (now coalesced into phenomenal-quality-void), and tenet alignment.
+- **Status**: obsolete
+- **Notes**: Superseded by 2026-04-23 coalesce — `whether-real.md` is now archived (merged into `meta-epistemology-of-limits.md`). Content review has migrated to the deep-review history of `meta-epistemology-of-limits.md` (most recent: 2026-04-21).
 - **Source**: staleness
 - **Generated**: 2026-04-06
+- **Completed**: 2026-04-23
 
 ### P3: Deep review intrinsic-nature-void.md
 - **Type**: deep-review
@@ -2551,6 +2545,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Update wikilinks pointing to coalesced whether-real.md
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-23 10:45 UTC merged `voids/whether-real.md` into `voids/meta-epistemology-of-limits.md` (source archived at `archive/voids/whether-real.md`). 96 `[[whether-real]]` wikilinks remain active across obsidian/. Hugo archive redirects preserve URLs but active cross-references should point to the unified article directly for a clean link graph. Priority order: (1) articles where the link appears in body text (not just frontmatter) — some brief prose rewrites may be needed because the merged treatment may not match the specific aspect the original citation invoked (whether-real carried the Three Verdicts, Illusionist Challenge, Process Philosophy, and Phenomenology of Suspension framings); (2) frontmatter-only references (simpler mechanical replacement). Standard replacement: `[[whether-real]]` → `[[meta-epistemology-of-limits]]` (or `[[meta-epistemology-of-limits|whether voids are real]]` where display text is meaningful). Do NOT update the intentional `coalesced_from` field in `meta-epistemology-of-limits.md` itself or references inside archived content (`archive/**`, historical `reviews/**`). Update `ai_modified` on every edited file. See 2026-04-23 10:45 UTC coalesce changelog entry.
+- **Output**: whether-real.md -- Context: Update wikilinks pointing to coalesced whether-real.md
 
 ### ✓ 2026-04-23: Apply corridor-conditionality and trumping-alternative framing to concepts/born-rule-and-the-consciousness-interface.md
 - **Type**: refine-draft

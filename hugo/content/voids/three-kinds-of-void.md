@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-21 22:38:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -24,7 +24,6 @@ related_articles:
 - '[[self-maintained-cognitive-limits]]'
 - '[[sleep-consciousness-void]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[whether-real]]'
 - '[[synesthetic-void]]'
 - '[[adaptive-cognitive-limits]]'
 - '[[biological-cognitive-closure]]'

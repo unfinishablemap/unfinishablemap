@@ -4,7 +4,7 @@ description: "Cognitive limits produce structured failure signatures that map vo
 created: 2026-01-29
 modified: 2026-03-24
 human_modified: null
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ related_articles:
   - "[[tenets]]"
   - "[[limits-reveal-structure]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[whether-real]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[thoughts-that-slip-away]]"
   - "[[self-opacity]]"
   - "[[apophatic-approaches]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-06
-ai_modified: 2026-02-06 11:51:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[topology-of-cognitive-failure]]'
 - '[[limits-reveal-structure]]'
 - '[[tenet-generated-voids]]'
@@ -140,7 +140,7 @@ Approaching this meta-question produces a distinctive experience:
 
 - **Pattern recognition vs. apophenia**: There is a constant tension between genuine pattern-detection and the human tendency to see patterns in noise. The clustering of voids around consciousness *feels* significant, but so do many illusory patterns.
 - **Abductive vertigo**: Abductive reasoning (inference to best explanation) requires comparing explanatory frameworks, but the frameworks themselves shape what counts as a good explanation. Dualists find the gap evidential; physicalists find it merely epistemic.
-- **The bootstrapping problem**: Using our own cognitive architecture to evaluate whether that architecture's limits tell us about reality creates the same self-referential difficulties explored in [whether-real](/voids/meta-epistemology-of-limits/).
+- **The bootstrapping problem**: Using our own cognitive architecture to evaluate whether that architecture's limits tell us about reality creates the same self-referential difficulties explored in [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/).
 
 ## Approaches to the Edge
 

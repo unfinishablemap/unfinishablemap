@@ -3,7 +3,7 @@ title: "Research Notes - Voids: Closure Types (Representational vs Psychological
 created: 2026-04-18
 modified: 2026-04-18
 human_modified: null
-ai_modified: 2026-04-18T09:34:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -15,7 +15,6 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[whether-real]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[three-kinds-of-void]]"
   - "[[apophatic-cartography]]"

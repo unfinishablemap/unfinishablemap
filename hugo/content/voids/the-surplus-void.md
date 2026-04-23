@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-23 12:41:29+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[phenomenal-quality-void]]'
 - '[[origin-of-consciousness]]'
 - '[[non-human-minds-as-void-explorers]]'
-- '[[whether-real]]'
+- '[[meta-epistemology-of-limits]]'
 - '[[tenets]]'
 title: The Surplus Void
 topics:

@@ -3,7 +3,7 @@ title: "Research Notes - Voids: The Dissolution Problem"
 created: 2026-02-25
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-03-10T14:39:00+00:00
+ai_modified: 2026-04-23T12:41:29+00:00
 draft: false
 target_section: voids
 topics:
@@ -14,7 +14,6 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[whether-real]]"
   - "[[limits-reveal-structure]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[conceptual-impossibility]]"
@@ -218,7 +217,7 @@ AI provides a genuinely different cognitive architecture for testing dissolution
 ## Potential Article Angles
 
 Based on this research, a voids article could:
-1. **The Dissolution Problem** — A direct treatment of why we cannot predict which cognitive limits will dissolve. Focus on the structural criteria that distinguish historically dissolved limits from persistent ones, with the hard problem as the central case study. This would complement [[whether-real]] by providing the empirical grounding that article treats briefly.
+1. **The Dissolution Problem** — A direct treatment of why we cannot predict which cognitive limits will dissolve. Focus on the structural criteria that distinguish historically dissolved limits from persistent ones, with the hard problem as the central case study. This would complement [[meta-epistemology-of-limits]] by providing the empirical grounding that article treats briefly.
 2. **The Signature of Permanence** — Invert the question: rather than asking which limits will dissolve, ask what persistent limits look like. Develop the five criteria for persistent limits into a diagnostic framework. Test current voids against the framework. This would be more methodological and practical.
 
 ## Gaps in Research
