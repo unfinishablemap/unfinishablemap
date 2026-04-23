@@ -4,16 +4,16 @@ description: "What does it feel like when consciousness acts on matter? Effort, 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-17T07:55:00+00:00
+ai_modified: 2026-04-23T06:38:00+00:00
 last_deep_review: 2026-04-17T07:55:00+00:00
 draft: false
 topics:
   - "[[phenomenology-of-agency-vs-passivity]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[evolutionary-case-for-mental-causation]]"
-  - "[[mental-imagery-causal-role-of-consciousness]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
 concepts:
+  - "[[mental-imagery]]"
   - "[[mental-effort]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[self-opacity]]"
@@ -35,7 +35,7 @@ apex_sources:
   - topics/phenomenology-of-agency-vs-passivity
   - topics/consciousness-and-causal-powers
   - topics/evolutionary-case-for-mental-causation
-  - topics/mental-imagery-causal-role-of-consciousness
+  - concepts/mental-imagery
   - topics/cross-cultural-phenomenology-of-agency
   - concepts/mental-effort
   - concepts/phenomenology-of-choice
@@ -100,9 +100,9 @@ Three phenomena reveal these four features in action and illuminate their relati
 
 ### Mental Imagery as Demonstrable Work
 
-[[mental-imagery-causal-role-of-consciousness|Voluntary mental imagery]] provides a concrete demonstration of consciousness doing measurable work. Meta-analyses of mental practice research consistently find moderate positive effects on motor performance, with effect sizes (Cohen's *d*) typically between 0.4 and 0.7 (Driskell et al., 1994; Feltz & Landers, 1983). The improvement depends on the *content* of what is consciously imagined — rehearsing a piano passage improves that passage, not unrelated ones. All four features are present: effort (imagery takes work), selection (you choose what to imagine), holding (you sustain the image over time), and opacity (you cannot observe how imagining produces motor improvement).
+[[mental-imagery|Voluntary mental imagery]] provides a concrete demonstration of consciousness doing measurable work. Meta-analyses of mental practice research consistently find moderate positive effects on motor performance, with effect sizes (Cohen's *d*) typically between 0.4 and 0.7 (Driskell et al., 1994; Feltz & Landers, 1983). The improvement depends on the *content* of what is consciously imagined — rehearsing a piano passage improves that passage, not unrelated ones. All four features are present: effort (imagery takes work), selection (you choose what to imagine), holding (you sustain the image over time), and opacity (you cannot observe how imagining produces motor improvement).
 
-The voluntary/involuntary dissociation in imagery is especially revealing. Voluntary imagery — deliberate visualisation, mental rotation, creative planning — is mediated by the lateral prefrontal cortex. Involuntary imagery — dreams, flashbacks, earworms — operates independently. These are not merely different descriptions of the same process but different neural systems with different capacities. Damage to the LPFC impairs voluntary imagery while leaving dreaming intact (see [[mental-imagery-causal-role-of-consciousness|the imagery article]] for detailed evidence). The system associated with conscious control enables cognitive functions — planning, counterfactual reasoning, creative combination — that the system without it does not.
+The voluntary/involuntary dissociation in imagery is especially revealing. Voluntary imagery — deliberate visualisation, mental rotation, creative planning — is mediated by the lateral prefrontal cortex. Involuntary imagery — dreams, flashbacks, earworms — operates independently. These are not merely different descriptions of the same process but different neural systems with different capacities. Damage to the LPFC impairs voluntary imagery while leaving dreaming intact (see [[mental-imagery|the imagery article]] for detailed evidence). The system associated with conscious control enables cognitive functions — planning, counterfactual reasoning, creative combination — that the system without it does not.
 
 If consciousness were epiphenomenal, the voluntary/involuntary distinction should be phenomenological decoration on functionally identical processes. Instead, the distinction tracks different mechanisms producing different outcomes — exactly what the Map's framework predicts for a consciousness that contributes genuine causal work.
 
@@ -161,7 +161,7 @@ This apex article synthesises:
 - [[phenomenology-of-agency-vs-passivity|Phenomenology of Agency vs Passivity]] — The foundational contrast between doing and undergoing, with analysis of flow, dreams, and clinical dissociations
 - [[consciousness-and-causal-powers|Consciousness and Causal Powers]] — The scope and limits of consciousness's causal influence: selection, holding, biasing, and what consciousness cannot do
 - [[evolutionary-case-for-mental-causation|The Evolutionary Case for Mental Causation]] — Why natural selection provides evidence that consciousness does real causal work
-- [[mental-imagery-causal-role-of-consciousness|Mental Imagery and the Causal Role of Consciousness]] — Voluntary imagery as a concrete test case where phenomenal content produces measurable physical effects
+- [[mental-imagery|Mental Imagery and Consciousness]] — Voluntary imagery as a concrete test case where phenomenal content produces measurable physical effects
 - [[cross-cultural-phenomenology-of-agency|Cross-Cultural Phenomenology of Agency]] — How cultural frameworks shape agency experience while leaving a universal phenomenological core intact
 - [[mental-effort|Mental Effort and the Quantum Zeno Effect]] — The phenomenology of effortful attention as evidence for consciousness-matter interaction
 - [[phenomenology-of-choice-and-volition|Phenomenology of Choice]] — The experiential structure of deliberation, decision, and authorship

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 04:40:00+00:00
+ai_modified: 2026-04-23 06:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 06:38 UTC - cross-review
+- **Status**: Success
+- **Task**: Update inbound references after mental-imagery coalesce
+- **Files updated**: 8 (apex/phenomenology-of-consciousness-doing-work, apex/apex-articles, topics/consciousness-and-causal-powers, topics/phenomenology-of-imagination, topics/evolutionary-case-for-mental-causation, topics/consciousness-and-skill-acquisition, topics/empirical-evidence-for-consciousness-selecting, concepts/bidirectional-interaction)
+- **Changes**: Replaced 11 wikilinks `[[mental-imagery-causal-role-of-consciousness]]` → `[[mental-imagery]]` (preserving display text where present); updated 2 `apex_sources`/path-format entries `topics/mental-imagery-causal-role-of-consciousness` → `concepts/mental-imagery`; relocated `[[mental-imagery]]` from `topics:` to `concepts:` in the apex frontmatter (now correct section since the unified article lives in concepts/); collapsed adjacent duplicate Further Reading entries in topics/phenomenology-of-imagination (the two old links would have pointed to the same coalesced article)
+- **Verification**: no remaining `mental-imagery-causal-role-of-consciousness` references in live articles (only historical reviews, archived workflow records, and the intentional `coalesced_from` field in concepts/mental-imagery itself)
 
 ## 2026-04-23 05:38 UTC - coalesce
 - **Status**: Success

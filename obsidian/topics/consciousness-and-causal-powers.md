@@ -4,7 +4,7 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-20T20:38:00+00:00
+ai_modified: 2026-04-23T06:38:00+00:00
 last_deep_review: 2026-03-28T03:42:00+00:00
 draft: false
 topics:
@@ -198,7 +198,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 ## Further Reading
 
 - [[mental-causation-and-downward-causation|Mental Causation and Downward Causation]] — How mental states cause physical effects at quantum indeterminacies
-- [[mental-imagery-causal-role-of-consciousness]] — Voluntary imagery as concrete evidence for consciousness's causal powers
+- [[mental-imagery]] — Voluntary imagery as concrete evidence for consciousness's causal powers
 - [[evolutionary-case-for-mental-causation]] — Evidence from natural selection for causal efficacy
 - [[psychophysical-laws-bridging-mind-and-matter]] — Formal frameworks for mind-matter interaction
 - [[psychophysical-laws]] — Laws specifying how mental states select physical outcomes

@@ -4,7 +4,7 @@ description: "Skill acquisition challenges epiphenomenalism—deliberate practic
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-04-16T13:43:00+00:00
+ai_modified: 2026-04-23T06:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,7 +54,7 @@ related_articles:
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[skill-delegation]]"
   - "[[motor-selection]]"
-  - "[[mental-imagery-causal-role-of-consciousness]]"
+  - "[[mental-imagery]]"
   - "[[pain-asymbolia]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[consciousness-and-collective-phenomena]]"

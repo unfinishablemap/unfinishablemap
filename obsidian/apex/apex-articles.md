@@ -4,7 +4,7 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: 2026-01-24
-ai_modified: 2026-03-30T10:29:00+00:00
+ai_modified: 2026-04-23T06:38:00+00:00
 last_deep_review: 2026-03-01T07:00:00+00:00
 draft: false
 topics: []
@@ -271,7 +271,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - topics/phenomenology-of-agency-vs-passivity
 - topics/consciousness-and-causal-powers
 - topics/evolutionary-case-for-mental-causation
-- topics/mental-imagery-causal-role-of-consciousness
+- concepts/mental-imagery
 - topics/cross-cultural-phenomenology-of-agency
 - concepts/mental-effort
 - concepts/phenomenology-of-choice

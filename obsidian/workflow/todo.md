@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update inbound references after mental-imagery coalesce
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: On 2026-04-23, concepts/mental-imagery.md and topics/mental-imagery-causal-role-of-consciousness.md were coalesced into a unified concepts/mental-imagery.md. The following live articles still reference the archived topic slug `[[mental-imagery-causal-role-of-consciousness]]` and will resolve via archive 301 redirects but should be updated to point to the unified article directly: apex/phenomenology-of-consciousness-doing-work.md, topics/consciousness-and-causal-powers.md, topics/phenomenology-of-imagination.md, topics/evolutionary-case-for-mental-causation.md, topics/consciousness-and-skill-acquisition.md, topics/empirical-evidence-for-consciousness-selecting.md, concepts/bidirectional-interaction.md, apex/apex-articles.md. Replace wikilinks to `[[mental-imagery-causal-role-of-consciousness]]` with `[[mental-imagery]]` (preserving any display text) and verify that the cross-referenced context still makes sense after the merge (the unified article engages identity theory as primary opponent rather than just epiphenomenalism; some references may benefit from updated phrasing).
-- **Source**: coalesce
-- **Generated**: 2026-04-23
-
-### P2: Write concept article on Petitmengin's microphenomenological interview method
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/petitmengin-microphenomenological-interview-2026-04-19.md but no article synthesised. Microphenomenology is a disciplined second-person interview method (Petitmengin, building on Vermersch) that guides subjects through phenomenological reduction, evokes specific past moments in embodied memory, and elicits fine-grained description of pre-reflective structure via non-leading content- and position-direction questions. Reliability studies (Olivares et al. 2015) show ~80% detection of experimental manipulations. Relevance for the Map: (a) it is a concrete methodology for producing disciplined first-person evidence — central to the Map's project of taking phenomenology seriously without relying on untutored introspection; (b) it maps cleanly onto Husserlian evidence categories (strengthens assertoric and presumptive claims; apodictic claims untouched); (c) applications include epileptic prodrome, meditation phenomenology, creative insight — all touching Map clusters (anesthesia-void, attention-interface, phenomenology-of-intellectual-life); (d) documented limits (retrospective reconstruction, demand characteristics, cognitive load) bear on the reliability debates the Map navigates. Medium scope (2000-2500 words). Target section: concepts/ (228/250, has capacity). Tenet alignment: methodological support for Dualism and Bidirectional Interaction (first-person evidence matters). See research/petitmengin-microphenomenological-interview-2026-04-19.md.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-23
-
 ### P2: Write topic article on the mathematical structure of the consciousness-physics interface
 - **Type**: expand-topic
 - **Status**: pending
@@ -2565,6 +2551,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Update inbound references after mental-imagery coalesce
+- **Type**: cross-review
+- **Notes**: On 2026-04-23, concepts/mental-imagery.md and topics/mental-imagery-causal-role-of-consciousness.md were coalesced into a unified concepts/mental-imagery.md. The following live articles still reference the archived topic slug `[[mental-imagery-causal-role-of-consciousness]]` and will resolve via archive 301 redirects but should be updated to point to the unified article directly: apex/phenomenology-of-consciousness-doing-work.md, topics/consciousness-and-causal-powers.md, topics/phenomenology-of-imagination.md, topics/evolutionary-case-for-mental-causation.md, topics/consciousness-and-skill-acquisition.md, topics/empirical-evidence-for-consciousness-selecting.md, concepts/bidirectional-interaction.md, apex/apex-articles.md. Replace wikilinks to `[[mental-imagery-causal-role-of-consciousness]]` with `[[mental-imagery]]` (preserving any display text) and verify that the cross-referenced context still makes sense after the merge (the unified article engages identity theory as primary opponent rather than just epiphenomenalism; some references may benefit from updated phrasing).
+- **Output**: None -- Context: Update inbound references after mental-imagery coalesce
 
 ### ✓ 2026-04-23: Address pessimistic review findings in concepts/trumping-preemption.md
 - **Type**: refine-draft

@@ -4,7 +4,7 @@ description: "Evolution provides significant evidence that consciousness causall
 created: 2026-02-05
 modified: 2026-02-05
 human_modified: null
-ai_modified: 2026-04-18T09:05:00+00:00
+ai_modified: 2026-04-23T06:38:00+00:00
 draft: false
 last_deep_review: 2026-04-02T01:45:00+00:00
 topics:
@@ -167,7 +167,7 @@ The evolutionary argument for mental causation supports multiple Map tenets.
 
 ## Further Reading
 
-- [[mental-imagery-causal-role-of-consciousness]] — Mental imagery as a specific test case for the causal efficacy evolution predicts
+- [[mental-imagery]] — Mental imagery as a specific test case for the causal efficacy evolution predicts
 - [[consciousness-as-amplifier]] — How consciousness amplifies cognitive capacity
 - [[baseline-cognition]] — What neural systems achieve without conscious contribution
 - [[cetacean-and-corvid-consciousness]] — Convergent amplification evidence: three independent lineages evolved consciousness-linked capacities

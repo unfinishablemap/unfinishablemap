@@ -4,7 +4,7 @@ description: "Multiple independent empirical lines—evolutionary, cognitive, ne
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-04-04T03:41:00+00:00
+ai_modified: 2026-04-23T06:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -153,7 +153,7 @@ The empirical convergence supports all five of the Map's [[tenets]]:
 - [[evolutionary-case-for-mental-causation]] — The evolutionary argument in depth
 - [[attention-and-the-consciousness-interface]] — Where and when selection occurs
 - [[quantum-biology-and-neural-consciousness]] — Quantum biology, neural evidence convergence, and the consciousness debate
-- [[mental-imagery-causal-role-of-consciousness]] — Voluntary imagery as a specific test case for consciousness selecting
+- [[mental-imagery]] — Voluntary imagery as a specific test case for consciousness selecting
 - [[consciousness-and-causal-powers]] — What kind of causation consciousness exercises
 - [[baseline-cognition]] — What neural systems achieve without consciousness
 - [[contemplative-practice-as-philosophical-evidence]] — First-person evidence from trained observation
