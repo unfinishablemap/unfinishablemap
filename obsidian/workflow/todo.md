@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/consciousness-and-probability-interpretation.md considering born-rule-violation-brain-interface-empirical-status insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) is explicitly listed in consciousness-and-probability-interpretation.md's `topics[]` frontmatter. The probability-interpretation article covers the philosophical side (what kind of probability is Born-rule probability?) where the new article covers the empirical side (what tests could detect modifications to it?). Cross-review should (a) add inbound links to the empirical-status article, (b) check whether the article's treatment of QBist, Healey-pragmatist, and objective-probability readings can now reference the concrete corridor placements in the new article (QBism/Healey in corridor, Stapp-Zeno in min-outside-corridor), (c) verify terminology aligns with the post-2026-04-23 pragmatist-quantum-foundations refinement, (d) identify whether any philosophical claims about the probability-interpretation debate's empirical consequences need updating given the explicit catalogue of programme-returned nulls. Log findings even if no edits made.
-- **Source**: chain
-- **Generated**: 2026-04-23
-
 ### P3: Write a Concession Ledger article cataloguing what the Map does not claim
 - **Type**: expand-topic
 - **Status**: pending
@@ -2581,6 +2574,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review topics/consciousness-and-probability-interpretation.md considering born-rule-violation-brain-interface-empirical-status insights
+- **Type**: cross-review
+- **Notes**: New article `topics/born-rule-violation-brain-interface-empirical-status.md` (created 2026-04-23) is explicitly listed in consciousness-and-probability-interpretation.md's `topics[]` frontmatter. The probability-interpretation article covers the philosophical side (what kind of probability is Born-rule probability?) where the new article covers the empirical side (what tests could detect modifications to it?). Cross-review should (a) add inbound links to the empirical-status article, (b) check whether the article's treatment of QBist, Healey-pragmatist, and objective-probability readings can now reference the concrete corridor placements in the new article (QBism/Healey in corridor, Stapp-Zeno in min-outside-corridor), (c) verify terminology aligns with the post-2026-04-23 pragmatist-quantum-foundations refinement, (d) identify whether any philosophical claims about the probability-interpretation debate's empirical consequences need updating given the explicit catalogue of programme-returned nulls. Log findings even if no edits made.
+- **Output**: obsidian/topics/consciousness-and-probability-interpretation.md -- Context: Cross-review topics/consciousness-and-probability-interpretation.md considering born-rule-violation-brain-interface-empirical-status insights
 
 ### ✓ 2026-04-23: Cross-review topics/quantum-measurement-and-consciousness.md considering born-rule-violation-brain-interface-empirical-status insights
 - **Type**: cross-review

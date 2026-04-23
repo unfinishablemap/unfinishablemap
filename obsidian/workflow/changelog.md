@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 18:31:00+00:00
+ai_modified: 2026-04-23 18:36:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 18:36 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-probability-interpretation]]
+- **Context**: Cross-review considering [[born-rule-violation-brain-interface-empirical-status]] (topic created 2026-04-23)
+- **Previous review**: [[reviews/deep-review-2026-03-29-consciousness-and-probability-interpretation|2026-03-29]]
+- **Word count**: 2346 → 2508 (+162, still ok at 84% of topics/ soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (corridor-dualist framing was presented as settled; added paragraph explicitly naming the Map's three-way taxonomy — corridor, minimum-outside-corridor, trumping — and cross-linking the empirical-status article; argued the core thesis survives under all three readings)
+- **Enhancements made**: 3 (added born-rule-violation-brain-interface-empirical-status to related_articles frontmatter; added Further Reading entry; added inline link to trumping-preemption)
+- **Output**: [[reviews/deep-review-2026-04-23-consciousness-and-probability-interpretation]]
 
 ## 2026-04-23 18:31 UTC - deep-review
 - **Status**: Success
