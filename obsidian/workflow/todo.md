@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense concepts/parsimony-epistemology.md (3662 words, 146% of soft target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 2500-word soft threshold and crosses the 3500-word hard threshold for `concepts/`. Parsimony-epistemology is a load-bearing concept page — the Map's Tenet 5 (Occam's Razor Has Limits) depends on it, and several recent articles (phenomenological-method-and-evidence-standards 2026-04-18, four-quadrant-dualism-taxonomy 2026-04-21, consciousness-and-probability-interpretation) cite it extensively. Condense carefully: preserve the Idealism Parity Trilemma and the distinction between token-counting parsimony and felt-sufficiency parsimony; defer worked illustrations to linked articles where they already exist. Aim for ~2500-2800 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-23
-
 ### P2: Condense concepts/quantum-interpretations.md (3605 words, 144% of soft target)
 - **Type**: condense
 - **Status**: pending
@@ -2637,6 +2630,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Condense concepts/parsimony-epistemology.md (3662 words, 146% of soft target)
+- **Type**: condense
+- **Notes**: Article exceeds the 2500-word soft threshold and crosses the 3500-word hard threshold for `concepts/`. Parsimony-epistemology is a load-bearing concept page — the Map's Tenet 5 (Occam's Razor Has Limits) depends on it, and several recent articles (phenomenological-method-and-evidence-standards 2026-04-18, four-quadrant-dualism-taxonomy 2026-04-21, consciousness-and-probability-interpretation) cite it extensively. Condense carefully: preserve the Idealism Parity Trilemma and the distinction between token-counting parsimony and felt-sufficiency parsimony; defer worked illustrations to linked articles where they already exist. Aim for ~2500-2800 words. See `/condense` skill.
+- **Output**: obsidian/concepts/parsimony-epistemology.md
 
 ### ✓ 2026-04-23: Update voids/voids.md index for archived transit-void and expertise-and-its-occlusion references
 - **Type**: refine-draft

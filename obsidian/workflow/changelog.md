@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 19:23:00+00:00
+ai_modified: 2026-04-23 19:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 19:33 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/parsimony-epistemology]]
+- **Before**: 3449 words
+- **After**: 2498 words
+- **Reduction**: 28%
+- **Technique**: Removed obsolete AI REFINEMENT LOG block; merged "Definitional Problem" with "Three Dimensions" intro to drop redundant multidimensionality framing; tightened Type-B physicalism passage in Precondition 1; compressed Idealism Parity/Trilemma tenet-by-tenet justifications; trimmed name-by-name recap in "Relation to Site Perspective"; condensed Huemer's four-account bullets, hostile-witness intros, and "What Would Refute" bullets; light prose tightening throughout. Preserved opening summary, all section headings, all internal links, hostile-witness arguments, refutation conditions, and "Relation to Site Perspective" tenet alignment.
 
 ## 2026-04-23 19:23 UTC - refine-draft
 - **Status**: Success
