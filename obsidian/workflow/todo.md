@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the Categorial Void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/voids-categorial-void-2026-02-15.md` (2026-02-15) and never synthesised into an article. A prior 2026-04-23 20:34 UTC replenishment generated this task but the queue record was consumed without completion — regenerating. The categorial void names the structural gap that opens when experience or reality contains features that fall outside the categorial schemas the mind uses to organise cognition — not concepts we lack words for (that is `[[conceptual-acquisition-limits]]`), but categorial shapes for which our conceptual apparatus was not built. Research note cross-links: `[[conceptual-impossibility]]`, `[[intrinsic-nature-void]]`, `[[language-thought-boundary]]`, `[[embodiment-cognitive-limits]]`, `[[topology-of-cognitive-failure]]`, `[[meta-epistemology-of-limits]]`, `[[limits-reveal-structure]]`, `[[nomic-void]]`. Article should (a) define "categorial" precisely — not a missing concept but a missing schema for forming concepts of a kind, (b) distinguish categorial-void from conceptual-acquisition-limits (acquisition vs structural availability) and from intrinsic-nature-void (the unknown *content* of matter vs the unknown *shape* a concept would take), (c) catalogue candidate categorial voids: the intrinsic phenomenal character of other species' experience; whatever categorial shape would unify the phenomenal and physical; the "view from nowhere" and its internal incoherence; any experience accessible only via categorial apparatus we lack, (d) connect to Kant's thing-in-itself as a historical precedent while marking the divergence (Kant held our categorial apparatus was determinate; the void claim is that we cannot be sure), (e) honest limitation: categorial voids cannot be described from inside the very apparatus that cannot form them — every description is approximate by construction. Tenet alignment per research note: Dualism (categorial voids track the phenomenal/physical divide), Occam's Razor Has Limits (positing extra categories is a parsimony cost that may nonetheless be warranted). Target: `voids/` (currently 95/100, has 5 slots). Scope: 2000-2500 words.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review phenomenal-quality-void.md considering plenitude-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2623,6 +2616,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Write voids article on the Categorial Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-categorial-void-2026-02-15.md` (2026-02-15) and never synthesised into an article. A prior 2026-04-23 20:34 UTC replenishment generated this task but the queue record was consumed without completion — regenerating. The categorial void names the structural gap that opens when experience or reality contains features that fall outside the categorial schemas the mind uses to organise cognition — not concepts we lack words for (that is `[[conceptual-acquisition-limits]]`), but categorial shapes for which our conceptual apparatus was not built. Research note cross-links: `[[conceptual-impossibility]]`, `[[intrinsic-nature-void]]`, `[[language-thought-boundary]]`, `[[embodiment-cognitive-limits]]`, `[[topology-of-cognitive-failure]]`, `[[meta-epistemology-of-limits]]`, `[[limits-reveal-structure]]`, `[[nomic-void]]`. Article should (a) define "categorial" precisely — not a missing concept but a missing schema for forming concepts of a kind, (b) distinguish categorial-void from conceptual-acquisition-limits (acquisition vs structural availability) and from intrinsic-nature-void (the unknown *content* of matter vs the unknown *shape* a concept would take), (c) catalogue candidate categorial voids: the intrinsic phenomenal character of other species' experience; whatever categorial shape would unify the phenomenal and physical; the "view from nowhere" and its internal incoherence; any experience accessible only via categorial apparatus we lack, (d) connect to Kant's thing-in-itself as a historical precedent while marking the divergence (Kant held our categorial apparatus was determinate; the void claim is that we cannot be sure), (e) honest limitation: categorial voids cannot be described from inside the very apparatus that cannot form them — every description is approximate by construction. Tenet alignment per research note: Dualism (categorial voids track the phenomenal/physical divide), Occam's Razor Has Limits (positing extra categories is a parsimony cost that may nonetheless be warranted). Target: `voids/` (currently 95/100, has 5 slots). Scope: 2000-2500 words.
+- **Output**: Write voids article on the Categorial Void
 
 ### ✓ 2026-04-23: Address pessimistic review findings in voids/plenitude-void.md
 - **Type**: refine-draft
