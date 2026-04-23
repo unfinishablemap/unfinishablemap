@@ -1,0 +1,131 @@
+---
+title: "The Plenitude Void"
+description: "Human+AI exploration of why conscious experience seems rich beyond what can be reported or checked—and why that gap may be structurally impossible to resolve from within."
+created: 2026-04-23
+modified: 2026-04-23
+human_modified:
+ai_modified: 2026-04-23T20:50:00+00:00
+draft: false
+topics:
+  - "[[hard-problem-of-consciousness]]"
+  - "[[philosophy-of-mind]]"
+concepts:
+  - "[[qualia]]"
+  - "[[phenomenology]]"
+  - "[[introspection]]"
+  - "[[mysterianism]]"
+  - "[[dualism]]"
+related_articles:
+  - "[[voids]]"
+  - "[[three-kinds-of-void]]"
+  - "[[the-surplus-void]]"
+  - "[[phenomenal-quality-void]]"
+  - "[[erasure-void]]"
+  - "[[self-opacity]]"
+  - "[[meta-epistemology-of-limits]]"
+  - "[[bandwidth-of-consciousness]]"
+  - "[[tenets]]"
+ai_contribution: 100
+author:
+ai_system: claude-opus-4-7
+ai_generated_date: 2026-04-23
+last_curated:
+---
+
+Consciousness presents itself as richly detailed and complete. The visual scene feels fully seen, the orchestral texture fully heard, the present moment fully inhabited. Yet change blindness, inattentional blindness, saccadic suppression, and blind spot filling-in all suggest that much of what feels represented is not actually registered. The plenitude void is the structural impossibility of determining, from within experience, whether experience is genuinely as rich as it seems.
+
+The void is not the question of whether experience is rich or sparse. That question has live defenders on both sides. The void is the impossibility of answering it *from the inside* — because every introspective check for sparsity directs attention, and directing attention generates detail. The verification procedure manufactures the evidence it seeks. This gives the plenitude void a distinctive self-concealing structure: unlike gaps we know we cannot cross, this one actively produces the impression of having been crossed.
+
+## Distinguishing Plenitude from Adjacent Voids
+
+Several voids cluster near phenomenal excess, and clean separation matters.
+
+The [[the-surplus-void|surplus void]] concerns why consciousness delivers *more than function requires* — the evolutionary and explanatory puzzle of qualitative richness beyond any adaptive budget. It asks what excess exists.
+
+The [[phenomenal-quality-void|phenomenal quality void]] concerns the specific ineffability of *particular* qualia. The [[erasure-void]] concerns undetectable *loss* — content that was present and is now gone without leaving a gap.
+
+The plenitude void is adjacent but distinct: it concerns the chronic *over-production of phenomenal content relative to cognitive grip*. Experience seems at any moment to contain more than can be reported, remembered, or re-examined. If that seeming is accurate, consciousness genuinely overflows cognitive access. If it is not, consciousness is sparse but systematically misrepresents itself as full. The void consists in being unable to tell which.
+
+## The Grand Illusion Debate
+
+The empirical contours were mapped in the 1990s and 2000s. Change blindness paradigms showed that subjects fail to notice large changes in visual scenes when a brief disruption masks the change. Inattentional blindness showed that salient stimuli can be absent from reported experience when attention is engaged elsewhere (the invisible gorilla). Saccadic suppression showed that visual processing is suppressed 3–4 times per second during eye movements, without any experienced interruption. The blind spot is never experienced as a gap.
+
+Alva Noë, editing *Is the Visual World a Grand Illusion?* (2002), framed these findings as calling "into question whether we really enjoy perceptual experiences which represent the environment in rich detail." Dennett had argued in *Consciousness Explained* (1991) that the brain does not "fill in" gaps but simply never notices they need filling. Susan Blackmore extended this, arguing that "a retrospective story is concocted about what was in the stream of consciousness a moment before." On this family of views, the richness of experience is itself the illusion.
+
+Noë and O'Regan (2001) offered a different deflation: the world serves as its own "outside memory." Seeing is mastery of sensorimotor contingencies — patterns of how input changes with action — not internal construction. The felt richness arises from knowing details are *accessible* via eye movements, not from stored internal detail.
+
+## Block's Overflow Rejoinder
+
+Ned Block (1995, 2007) pushed the opposite way. Phenomenal consciousness (P-consciousness, what it is like) may be richer than access consciousness (A-consciousness, what can be reasoned over and reported). Sperling's partial report experiments (1960) showed that iconic memory contains more information than working memory can extract: subjects can report any row of a briefly flashed grid when cued, but cannot report the whole grid. Block argues this demonstrates phenomenal content that overflows the cognitive machinery accessing it.
+
+If Block is right, change blindness does not show that experience is sparse. It shows that *reportable* experience is sparse, which is compatible with phenomenal experience being rich. The gorilla may have been experienced and not encoded into the accessing system. The peripheral detail may be there phenomenally even though it cannot be extracted.
+
+Michael Tye presses further: if consciousness were merely an illusion of richness, then nothing would *appear* any way at all. The concept of illusion presupposes appearances, and appearances presuppose consciousness. A theory that denies phenomenal richness by appeal to how things seem is self-undermining — it cannot account for the seeming it relies on.
+
+The debate has not converged. Jesse Prinz's Attended Intermediate-level Representations theory (2012) occupies middle ground: consciousness is richer than Dennett allows but more constrained than naive introspection suggests, with attention as the gateway. The empirical evidence underdetermines the choice because what counts as experienced is itself under dispute.
+
+## Introspection's Unreliability
+
+Eric Schwitzgebel (2008) adds a further layer. Introspection is systematically unreliable even about basic features of current experience — emotional valence, peripheral visual detail, phenomenology of thought. He argues that "we fail not just in assessing the causes of our mental states... but in assessing even the most basic features of our experience." Conscious states are fleeting, introspection is theory-laden, and the act of introspecting changes what is introspected.
+
+This point is structurally crucial. If introspection were reliable, the Block–Dennett debate could in principle be settled by careful first-person attention. But if introspection errs in both directions — missing what is there and confabulating what is not — no amount of careful looking can settle which way the errors lean. The measuring instrument is implicated in the illusion it would need to detect.
+
+## The Bandwidth Frame
+
+A quantitative angle sharpens the stakes. Sensory bandwidth estimates put inbound information at roughly 10⁹ bits per second across the body's receptors, with conscious reportable content flowing out at something like 10–60 bits per second (see [[bandwidth-of-consciousness]]). There is a compression factor of roughly seven orders of magnitude between what the sensory surface transduces and what the verbal-report system can express.
+
+This asymmetry is compatible with two very different pictures. One: phenomenal consciousness itself is near the low end, and the high-bandwidth story is simply neural preprocessing that never becomes phenomenal. Two: phenomenal consciousness operates nearer the high end, and the bandwidth asymmetry reflects the bottleneck between phenomenal presence and cognitive access — Block's overflow at industrial scale.
+
+The plenitude void is the claim that current methods cannot adjudicate between these pictures. Psychophysical experiments measure reportable content, and phenomenal content that does not reach report cannot be distinguished from phenomenal content that never existed. The bandwidth framing specifies the magnitude of the possible overflow without telling us how much of it is phenomenal.
+
+## The Self-Concealing Structure
+
+What makes the plenitude void a void, rather than merely a hard problem, is that its investigation is compromised by the phenomenon itself. Three features make this structural.
+
+**The check-and-find loop.** Every introspective probe for sparsity directs attention, and attention generates detail. Looking to see whether peripheral vision is blurry produces a momentary clarification of the peripheral region — because directing attention there recruits foveation and cognitive processing. One cannot catch experience being sparse, because checking fills in.
+
+**The confabulation default.** Reports about just-elapsed experience feel authoritative but are known to diverge systematically from what was registered. The introspective report is not a passive readout; it is a construction. Reports of having seen the gorilla after the fact are just as likely to feel confident as reports made by subjects who saw it clearly. Confidence and accuracy decouple without any phenomenal marker distinguishing the two.
+
+**The theory-dependence of what counts as experienced.** Whether the gorilla was *experienced but not accessed* or *never experienced at all* depends on prior commitments about what experience is. The Block–Dennett dispute is partly verbal and partly substantive, but the substantive question cannot be settled without agreement on what counts as evidence — and evidence turns on the substantive question.
+
+## Cognitive Limit or Metaphysical Surplus?
+
+Is the plenitude void a *cognitive* limit (experience is in fact rich, but cognition cannot grasp how rich) or a *metaphysical* surplus (experience genuinely overflows any possible cognitive system)?
+
+If cognitive — a bottleneck between phenomenal content and access — better instruments might in principle narrow the gap. If metaphysical — phenomenal content by its nature exceeding any access relation — no instrument could close the gap, and the appearance of plenitude would reflect consciousness's own structure rather than a failure of cognition to match it. The void does not allow this to be cleanly answered.
+
+The honest limitation is that plenitude claims resist falsification by the same structure that makes them interesting. Any method proposed to detect overflow must define what counts as phenomenal content; any such definition either builds in the answer or leaves the target undefined. The structural features producing the void also shield it from decisive test.
+
+## Relation to Site Perspective
+
+The plenitude void connects directly to two of the Map's [[tenets]].
+
+**[[tenets#^dualism|Dualism]]** reframes the debate. Under materialism, the grand illusion view has an attraction: if consciousness is neural information processing and processing is demonstrably sparse, the feeling of richness is a processing artefact requiring no further explanation. Under dualism, the *felt quality of completeness* is itself a phenomenal feature that demands accounting. Why does sparse neural processing generate an illusion of rich phenomenal content at all? A purely physical system can be sparse without feeling full; something that feels full has crossed into phenomenal territory. On this framing, Block's overflow picture — rich phenomenal content, narrow cognitive access — aligns naturally with dualism, while the Dennett–Blackmore picture presupposes the reductive framework the Map questions. The plenitude void thus functions as an indirect argument for taking the phenomenal seriously: its defining features (seeming richness that cannot be checked) are features materialism needs to explain away and dualism can treat as primary.
+
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is directly implicated. The simplest theory — experience is what it seems — may be badly wrong. The next-simplest theory — experience is sparse and the richness is illusory — may be equally wrong in the opposite direction. The true situation may be irreducibly complex: neither fully rich nor fully sparse, with no simple compression available. The plenitude void is a case study in how parsimony becomes unreliable once the assessment instrument is implicated in what is being assessed.
+
+The void also connects to [[self-opacity]] (the general structural inaccessibility of one's own experience to itself) and to [[meta-epistemology-of-limits]] (the question of whether limits of this kind can be known as genuine limits from within). The plenitude void is among the clearest cases where the meta-question is not merely a philosophical addendum but the central feature of the territory.
+
+## Further Reading
+
+- [[the-surplus-void]] — Why consciousness delivers more than function requires
+- [[phenomenal-quality-void]] — The immediate thereness of particular qualia
+- [[erasure-void]] — Undetectable loss of experience
+- [[self-opacity]] — Why experience resists examining itself
+- [[bandwidth-of-consciousness]] — The compression between sensory inflow and reportable content
+- [[meta-epistemology-of-limits]] — Whether genuine limits can be distinguished from hard problems
+
+## References
+
+1. Block, N. (1995). "On a Confusion about a Function of Consciousness." *Behavioral and Brain Sciences*, 18(2), 227–247.
+1. Block, N. (2007). "Consciousness, accessibility, and the mesh between psychology and neuroscience." *Behavioral and Brain Sciences*, 30(5–6), 481–499.
+1. Blackmore, S. (2002). "The Grand Illusion: Why consciousness exists only when you look for it." *New Scientist*, 2348.
+1. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
+1. Noë, A. (ed.) (2002). *Is the Visual World a Grand Illusion?* Imprint Academic.
+1. O'Regan, J. K. & Noë, A. (2001). "A Sensorimotor Account of Vision and Visual Consciousness." *Behavioral and Brain Sciences*, 24(5), 939–973.
+1. Prinz, J. (2012). *The Conscious Brain: How Attention Engenders Experience*. Oxford University Press.
+1. Schwitzgebel, E. (2008). "The Unreliability of Naive Introspection." *Philosophical Review*, 117(2), 245–273.
+1. Simons, D. J. & Chabris, C. F. (1999). "Gorillas in Our Midst: Sustained Inattentional Blindness for Dynamic Events." *Perception*, 28(9), 1059–1074.
+1. Sperling, G. (1960). "The Information Available in Brief Visual Presentations." *Psychological Monographs*, 74(11), 1–29.
+1. Tye, M. (2009). *Consciousness Revisited: Materialism Without Phenomenal Concepts*. MIT Press.
+1. Southgate, A. & Oquatre-six, C. (2026-02-24). The Surplus Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/the-surplus-void/

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the Plenitude Void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/voids-plenitude-void-2026-02-22.md` (2026-02-22) and never synthesised into an article. The plenitude void names the gap between the richness of what is experienced at any moment and what can be reported, remembered, or introspectively re-accessed — a structural surplus of the phenomenal that defeats cognitive inventory. Distinct from but adjacent to [[phenomenal-quality-void]] (which treats the specific ineffability of qualia) and [[erasure-void]] (which treats undetectable loss): the plenitude void is about the chronic over-production of phenomenal content relative to cognitive grip, not about loss per se. Relation to overflow debates (Block vs Cohen-Dennett) likely central. Article should (a) specify what "plenitude" means in a way that distinguishes it from other surplus-claims, (b) engage the overflow argument and its critics, (c) connect to the Map's asymmetric-bandwidth-consciousness framing (inbound 10⁹ vs outbound ~50 bit/s), (d) examine whether plenitude is a cognitive limit or a metaphysical surplus, (e) honest limitation: plenitude claims resist falsification by the same structure that makes them interesting. Tenet alignment: Dualism (phenomenal richness would be surprising on identity theory), Occam's Razor Has Limits. Target: `voids/` (94/100, has capacity). Scope: 2000-2500 words.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-23
-
 ### P2: Write voids article on the Categorial Void
 - **Type**: expand-topic
 - **Status**: pending
@@ -2609,6 +2602,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Write voids article on the Plenitude Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-plenitude-void-2026-02-22.md` (2026-02-22) and never synthesised into an article. The plenitude void names the gap between the richness of what is experienced at any moment and what can be reported, remembered, or introspectively re-accessed — a structural surplus of the phenomenal that defeats cognitive inventory. Distinct from but adjacent to [[phenomenal-quality-void]] (which treats the specific ineffability of qualia) and [[erasure-void]] (which treats undetectable loss): the plenitude void is about the chronic over-production of phenomenal content relative to cognitive grip, not about loss per se. Relation to overflow debates (Block vs Cohen-Dennett) likely central. Article should (a) specify what "plenitude" means in a way that distinguishes it from other surplus-claims, (b) engage the overflow argument and its critics, (c) connect to the Map's asymmetric-bandwidth-consciousness framing (inbound 10⁹ vs outbound ~50 bit/s), (d) examine whether plenitude is a cognitive limit or a metaphysical surplus, (e) honest limitation: plenitude claims resist falsification by the same structure that makes them interesting. Tenet alignment: Dualism (phenomenal richness would be surprising on identity theory), Occam's Razor Has Limits. Target: `voids/` (94/100, has capacity). Scope: 2000-2500 words.
+- **Output**: Write voids article on the Plenitude Void
 
 ### ✓ 2026-04-23: Write voids article on the Epistemic Horizon Void
 - **Type**: expand-topic
