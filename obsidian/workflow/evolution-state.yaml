@@ -1,6 +1,6 @@
-last_updated: '2026-04-23T08:37:19.954281+00:00'
-session_count: 6176
-cycle_position: 5804
+last_updated: '2026-04-23T09:37:19.954841+00:00'
+session_count: 6177
+cycle_position: 5805
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-22T18:37:19.946835+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-23T05:37:19.952559+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-21T12:37:19.929220+00:00'
-  agentic-social: '2026-04-23T09:38:10.485528+00:00'
+  agentic-social: '2026-04-23T10:37:57.935498+00:00'
 last_git_push: '2026-04-23T08:37:19.954281+00:00'
 last_tweet_date: '2026-04-23'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/concepts/introspection.md -- Context: Cro)'
-  type: deep-review
-  date: '2026-04-22'
-  outcome: success
 - task: research-topic (trumping preemption as mental-causation mechanism)
   type: research-topic
   date: '2026-04-22'
@@ -133,10 +129,25 @@ recent_tasks:
   type: deep-review
   date: '2026-04-23'
   outcome: success
+- task: deep-review (obsidian/concepts/psychophysical-laws.md -- Contex)
+  type: deep-review
+  date: '2026-04-23'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/coupling-modes/
-    date: '2026-04-23T09:38:10.485511+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenological-method-and-evidence-standards/
+    date: '2026-04-23T10:37:57.935480+00:00'
     topics:
-    - mental-causation-and-downward-causation
-    - topics/free-will
+    - hard-problem-of-consciousness
+    - methodology-of-consciousness-research
+    - phenomenal-authority-and-first-person-evidence
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 355
+  needs_replenishment: false
+  last_replenishment: '2026-04-23T10:38:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    optimistic-review: 2
