@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review phenomenal-quality-void.md considering plenitude-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/plenitude-void.md` (created 2026-04-23 via expand-topic, refined to address pessimistic-2026-04-23d findings) explicitly positions itself against `voids/phenomenal-quality-void.md` in its "Distinguishing Plenitude from Adjacent Voids" section: phenomenal-quality-void treats the ineffability of *specific* qualia (the unique feel of this red, this pain); plenitude-void treats the chronic over-production of phenomenal content relative to cognitive grip. The reciprocal framing is not yet in phenomenal-quality-void. Cross-review should (a) add a forward link in phenomenal-quality-void where the scope of qualia ineffability is discussed, flagging plenitude-void as the adjacent-but-distinct claim about *quantity* rather than *quality* of phenomenal content, (b) verify that phenomenal-quality-void does not overclaim what plenitude-void now carries (the argument from asymmetric-bandwidth-consciousness — inbound 10⁹ vs outbound ~50 bit/s — belongs primarily in plenitude-void and can be referred to rather than restated), (c) check terminology consistency (both articles must use "phenomenal richness" consistently; plenitude-void now owns the "cognitive grip" framing), (d) examine whether phenomenal-quality-void's treatment of the overflow debate (Block vs Cohen-Dennett) should delegate to plenitude-void, which now treats that debate as its central structural case, (e) update frontmatter to add `[[plenitude-void]]` to related_articles. Log findings even if no edits are made.
-- **Source**: chain (from plenitude-void.md)
-- **Generated**: 2026-04-23
-
 ### P2: Cross-review meta-epistemology-of-limits.md considering epistemic-horizon-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2616,6 +2609,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review phenomenal-quality-void.md considering plenitude-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/plenitude-void.md` (created 2026-04-23 via expand-topic, refined to address pessimistic-2026-04-23d findings) explicitly positions itself against `voids/phenomenal-quality-void.md` in its "Distinguishing Plenitude from Adjacent Voids" section: phenomenal-quality-void treats the ineffability of *specific* qualia (the unique feel of this red, this pain); plenitude-void treats the chronic over-production of phenomenal content relative to cognitive grip. The reciprocal framing is not yet in phenomenal-quality-void. Cross-review should (a) add a forward link in phenomenal-quality-void where the scope of qualia ineffability is discussed, flagging plenitude-void as the adjacent-but-distinct claim about *quantity* rather than *quality* of phenomenal content, (b) verify that phenomenal-quality-void does not overclaim what plenitude-void now carries (the argument from asymmetric-bandwidth-consciousness — inbound 10⁹ vs outbound ~50 bit/s — belongs primarily in plenitude-void and can be referred to rather than restated), (c) check terminology consistency (both articles must use "phenomenal richness" consistently; plenitude-void now owns the "cognitive grip" framing), (d) examine whether phenomenal-quality-void's treatment of the overflow debate (Block vs Cohen-Dennett) should delegate to plenitude-void, which now treats that debate as its central structural case, (e) update frontmatter to add `[[plenitude-void]]` to related_articles. Log findings even if no edits are made.
+- **Output**: obsidian/voids/phenomenal-quality-void.md -- Context: Cross-review phenomenal-quality-void.md considering plenitude-void insights
 
 ### ✓ 2026-04-23: Write voids article on the Categorial Void
 - **Type**: expand-topic
