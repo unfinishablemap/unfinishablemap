@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 15:45:00+00:00
+ai_modified: 2026-04-23 15:51:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 15:51 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/born-rule-and-the-consciousness-interface]] (primary); [[topics/pragmatist-quantum-foundations-and-the-agent]] (companion edit)
+- **Word count (primary)**: 3586 → ~4100 (+~500, new § "Absorbing the Urgleichung: What Survives Bayesian Personalism")
+- **Word count (sibling)**: ~4320 → ~4410 (+~90 from softened line + cross-link)
+- **Notes**: P2 task (todo.md line 68) addressing pessimistic-2026-04-23b Counterargument #2 and Unsupported Claim row 4. The pragmatist-quantum article deferred to this article the argument that the urgleichung's formal shape evidences the interface reading once separated from QBism's Bayesian personalism. New section provides the three-part response the task asked for: (a) what formal shape survives — the (d+1)/−1/d deformation of classical total probability, with magnitude set by d and form set by SIC geometry, preserved under credence/propensity/frequency readings; (b) why the shape evidences the interface reading — the deformation is irreducibly counterfactual (unperformed reference measurement as informational ground) and the (d+1) factor functions as coupling-like rather than unexplained geometric residue; (c) the honest fallback — Hilbert-space primitivism is a coherent refuser-move, so the Map's absorption of the urgleichung is heuristic rather than derivational, and the sibling article's "right mathematical object for the wrong metaphysical reason" line accordingly overreaches. Sibling line softened per reviewer's Language Improvement row 2 ("QBism has built a mathematical object whose formal shape the Map reads as tracking interface structure; the QBist's own reading of why that shape holds is different") with cross-link to new section.
+- **Published**: yes
 
 ## 2026-04-23 15:45 UTC - optimistic-review
 - **Status**: Success

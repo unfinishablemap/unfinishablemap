@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T12:24:00+00:00
+ai_modified: 2026-04-23T15:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -117,6 +117,20 @@ The Diósi-Penrose gravitational collapse model explains *when* collapse occurs 
 | Diósi-Penrose | Partial (timescales only) | Decay-rate interpretation of energy gaps |
 
 Every framework either postulates the Born rule, assumes it in disguised form, or relocates it to another assumption. None generates it from non-probabilistic, observer-independent premises.
+
+## Absorbing the Urgleichung: What Survives Bayesian Personalism
+
+DeBrota, Fuchs, and Schack (2021) reformulate the Born rule as the "urgleichung" — a relation among probabilities expressed on a basis of symmetric informationally complete positive operator-valued measures (SIC-POVMs):
+
+> Q(D_j) = (d+1) Σ_i P(H_i) P(D_j | H_i) − 1/d
+
+where d is the Hilbert-space dimension, {H_i} are SIC outcomes, and {D_j} outcomes of any target measurement. QBism reads P and Q as personal credences and the equation as a normative coherence constraint on a Bayesian agent. A realist critic replies that, stripped of Bayesian personalism, the urgleichung is a theorem of probability theory on a particular operator structure — leaving "the interface" no independent work to do. The [[pragmatist-quantum-foundations-and-the-agent|pragmatist-quantum article]] defers that objection to this one; it warrants a direct answer.
+
+**What formal shape survives separation.** The urgleichung says that probabilities for an actually-performed measurement cannot be recovered as the classical marginal of a joint distribution over a counterfactual SIC measurement: classical total probability requires coefficient 1 and offset 0, whereas the quantum rule requires (d+1) and −1/d. The deformation is the structural residue. Its magnitude is set by the dimension d; its form is set by the fact that a maximally informative reference measurement exists at all and has SIC geometry. These features hold whether probabilities are read as personal credences, as propensities, or as long-run frequencies.
+
+**Why this shape evidences the interface reading.** Two features resist a purely mathematical-realist redescription. First, the deformation is *irreducibly counterfactual*: it relates probabilities for a measurement that is not performed (the reference SIC) to probabilities for one that is, making the unperformed measurement function as the informational ground against which actual outcomes are specified — the structural signature of a gap being crossed rather than a distribution being updated. Second, the (d+1)/−1/d numerical form falls out of SIC geometry, but the realist explains this only by deferral: Hilbert space has this geometry because it has this geometry. The interface reading offers an independent motivation — the deformation measures the non-classicality of outcome actualisation at the point where consciousness encounters d-dimensional indeterminacy, with (d+1) playing a coupling-like role rather than sitting as an unexplained dimensional residue. Combined with Kochen-Specker contextuality — which shows that no classical joint distribution over measurement contexts exists — the urgleichung supplies the *positive* relation that replaces classical total probability, and the shape of that replacement is what the interface reading predicts.
+
+**The honest fallback.** The argument depends on reading the deformation as carrying a specific *meaning* rather than only a specific *form*. A determined Hilbert-space primitivist can accept the theorem, refuse the meaning, and rest on the geometry. If that stance is coherent — and it may be — the Map's absorption of the urgleichung is heuristic rather than derivational: QBism has built an object whose formal shape the Map reads as tracking interface structure, and that reading is not forced by the formalism alone. The pragmatist-quantum article's "right mathematical object for the wrong metaphysical reason" line accordingly overreaches; the more defensible claim is that the urgleichung's formal shape is consistent with and suggestive of the interface reading the Map defends on independent grounds (the interpretation-invariant pattern above), not that QBism has built the Map's object and misunderstood it.
 
 ## The Causal Consistency Constraint
 
@@ -263,6 +277,19 @@ Based on: P2 chain-generated refine-draft task (2026-04-23, todo.md line 40), fl
 Length: 3299 → 3586 words (+287, ~+8.7%). Offset via "Pattern is uniform" compression and delegation-selection-bridge compression; net addition reflects three substantive insertions that could not be fully offset without losing content. Length-neutral target partially honoured.
 
 Key improvements: The article no longer treats the indeterminacy-gap interface reading as the Map's only position. The corridor reading is now explicitly marked as the default, the trumping reading is available as a parallel, and the Born-rule tests are scoped to the regimes in which they have been performed. Consistency with the sibling article's three-position framing (corridor / minimum-outside-the-corridor / trumping) is now downstream-complete.
+
+---
+
+SECOND PASS — 2026-04-23 15:51 UTC
+
+Changes:
+- Added new section "Absorbing the Urgleichung: What Survives Bayesian Personalism" between "Beyond Standard Derivations" and "The Causal Consistency Constraint" — ~500 words, structured in three labelled subparts: (a) formal shape surviving separation from Bayesian personalism (the (d+1)/−1/d deformation of classical total probability, with magnitude set by dimension d), (b) why that shape evidences the interface reading rather than a generic mathematical fact (counterfactual reference measurement as informational ground; (d+1) as coupling-like quantity rather than unexplained geometric residue; combined with Kochen-Specker contextuality to supply the positive replacement for classical total probability), (c) the honest fallback if a determined Hilbert-space primitivist refuses the meaning — the Map's absorption of the urgleichung is heuristic rather than derivational and the sibling article's "right mathematical object for the wrong metaphysical reason" line overreaches.
+- Corresponding softening in the sibling [[pragmatist-quantum-foundations-and-the-agent]] at the paragraph containing the now-retracted "right mathematical object for the wrong metaphysical reason" line: replaced with "QBism has built a mathematical object whose formal shape the Map reads as tracking interface structure; the QBist's own reading of why that shape holds is different" plus a cross-link to the new section and an explicit note that absorption is heuristic rather than derivational.
+- Updated `ai_modified` frontmatter timestamp to 2026-04-23T15:51:00+00:00 on both files.
+
+Based on: P2 refine-draft task (todo.md line 68), addressing pessimistic-2026-04-23b Counterargument #2 and Unsupported Claim row 4. Both concrete asks addressed: (i) the born-rule article now carries the argument the sibling previously deferred to it; (ii) the sibling's overreaching line has been softened with an explicit pointer to the honest-fallback treatment here.
+
+Length impact on this file: 3586 → ~4100 words (+~500). Length impact on sibling: ~4320 → ~4410 (+~90). The sibling is already above the topics/ soft threshold and has a pending condense task (todo.md line 217) that can subsume this small addition.
 
 This log should be removed after human review.
 -->

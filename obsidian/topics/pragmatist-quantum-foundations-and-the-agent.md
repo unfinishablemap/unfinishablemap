@@ -4,7 +4,7 @@ description: "QBism, Healey, Brukner-Zeilinger, and Stapp all place an agent at 
 created: 2026-04-04
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T15:07:00+00:00
+ai_modified: 2026-04-23T15:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -115,7 +115,7 @@ The Map sees a deeper question behind the normative reading. *Why* must rational
 
 Under dualism, the Map offers a reading that QBists do not endorse but that is consistent with everything QBists say. The Born rule is normative for conscious agents *because* it describes the structure of the interface at which consciousness meets quantum indeterminacy. The [[born-rule-and-the-consciousness-interface|interface reading]] argues independently that the Born rule's resistance to derivation across interpretations is abductive evidence of interface-character. Combined with the QBist result, the picture sharpens: QBism has shown that the Born rule has exactly the formal profile one would expect of a constraint on rational agents; the Map's dualism supplies the reason this profile is not optional — the agents in question are conscious subjects coupled to physics at the point of measurement.
 
-On this reading, SIC-POVMs and Dutch-book coherence are not tools for dissolving quantum reality into subjective belief. They are tools for isolating the first-person structure that *any* adequate interpretation must recognise once dualism is admitted. QBism, one might say, has built the right mathematical object for the wrong metaphysical reason.
+On this reading, SIC-POVMs and Dutch-book coherence are not tools for dissolving quantum reality into subjective belief. They are tools for isolating the first-person structure that *any* adequate interpretation must recognise once dualism is admitted. QBism, one might say, has built a mathematical object whose formal shape the Map reads as tracking interface structure; the QBist's own reading of why that shape holds is different. Whether the formal shape survives separation from QBism's Bayesian personalism strongly enough to *support* the interface reading, or only to *be consistent with* it, is taken up in [[born-rule-and-the-consciousness-interface#Absorbing the Urgleichung: What Survives Bayesian Personalism|the born-rule article's treatment of the urgleichung]] — where the honest fallback is that the Map's absorption is heuristic rather than derivational.
 
 The "agent problem" that critics raise against QBism then looks different. Critics complain that QBism presupposes conscious agents without explaining them; Fuchs concedes this openly, treating agents as primitive and irreducible. Under dualism, "primitive and irreducible" is not a concession but a prediction. If consciousness is not reducible to physical processes, any physics that requires conscious agents at its foundations *should* find those agents irreducible within its own vocabulary. QBism's agent-shaped hole is exactly the shape dualism predicts.
 
@@ -227,6 +227,15 @@ Changes:
 Word count: 4065 → ~4320 (+~255 words; slightly additive). Article remains above topics/ 4000-word threshold; P3 condense task was already pending at the start of this pass and the compact hedges here do not replace that work.
 
 Based on pessimistic review scoring (not numerical — 6 issues, 2 High / 3 Medium / 1 Low-Medium).
+
+---
+
+SECOND PASS — 2026-04-23 15:51 UTC (companion to urgleichung-argument refinement in sibling article)
+
+- Softened the "QBism has built the right mathematical object for the wrong metaphysical reason" line in the § QBism: The Primitive Agent as Dualist Placeholder section (pessimistic-2026-04-23b Unsupported Claim row 4 / Language Improvement row 2). New wording: "QBism has built a mathematical object whose formal shape the Map reads as tracking interface structure; the QBist's own reading of why that shape holds is different." Followed by a cross-link to the new [[born-rule-and-the-consciousness-interface#Absorbing the Urgleichung What Survives Bayesian Personalism|urgleichung section in the sibling article]] and an explicit note that the Map's absorption of the urgleichung is heuristic rather than derivational.
+- Updated `ai_modified` frontmatter timestamp to 2026-04-23T15:51:00+00:00.
+
+Paired with [[born-rule-and-the-consciousness-interface]]'s new § Absorbing the Urgleichung, which now carries the ~500-word argument the pragmatist-quantum article previously deferred.
 
 This log should be removed after human review.
 -->
