@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-23
 
-### P2: Condense voids/meta-epistemology-of-limits.md (3119 words, 156% of soft threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word hard threshold for voids/ by 119 words (104% of hard, 156% of 2000-word soft). Growth driver: today's 2026-04-23 10:45 UTC coalesce absorbed `voids/whether-real.md`, merging in Three Verdicts framing, Illusionist Challenge, Process Philosophy, and Phenomenology of Suspension sections. The pre-coalesce version was already near threshold; the merge pushed it over hard. Preserve (a) the representational/psychological closure distinction, (b) the dissolved-vs-persistent diagnostic, (c) Münchhausen-trilemma framing, (d) the Three Verdicts and Illusionist Challenge (now from whether-real), (e) tenet alignment. Primary trim target: redundancy between the two merged sources — whether-real and meta-epistemology-of-limits originally overlapped heavily on Chomsky/McGinn/Dennett/Kriegel/Vlerick-Boudry material; the coalesce preserved both voices, and a careful pass can unify without losing content. Target: ≤3000 words (back under hard threshold). See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-23
-
 ### P2: Condense concepts/agent-causation.md (3518 words, 141% of soft threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2566,6 +2559,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Condense voids/meta-epistemology-of-limits.md (3119 words, 156% of soft threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ by 119 words (104% of hard, 156% of 2000-word soft). Growth driver: today's 2026-04-23 10:45 UTC coalesce absorbed `voids/whether-real.md`, merging in Three Verdicts framing, Illusionist Challenge, Process Philosophy, and Phenomenology of Suspension sections. The pre-coalesce version was already near threshold; the merge pushed it over hard. Preserve (a) the representational/psychological closure distinction, (b) the dissolved-vs-persistent diagnostic, (c) Münchhausen-trilemma framing, (d) the Three Verdicts and Illusionist Challenge (now from whether-real), (e) tenet alignment. Primary trim target: redundancy between the two merged sources — whether-real and meta-epistemology-of-limits originally overlapped heavily on Chomsky/McGinn/Dennett/Kriegel/Vlerick-Boudry material; the coalesce preserved both voices, and a careful pass can unify without losing content. Target: ≤3000 words (back under hard threshold). See /condense skill.
+- **Output**: obsidian/voids/meta-epistemology-of-limits.md
 
 ### ✓ 2026-04-23: Update wikilinks pointing to coalesced whether-real.md
 - **Type**: cross-review

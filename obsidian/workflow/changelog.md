@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 12:45:00+00:00
+ai_modified: 2026-04-23 12:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-23 12:52 UTC - condense
+- **Status**: Success
+- **File**: [[voids/meta-epistemology-of-limits]]
+- **Before**: 3119 words (hard_warning — voids threshold 3000)
+- **After**: 2537 words (soft_warning — middle of voids acceptable range)
+- **Reduction**: 19%
+- **Technique**: Trimmed pessimist section's Kriegel/Demircioglu/Vlerick-Boudry discussion (lives in [[closure-types-void]]); compressed the three illusionist responses into one paragraph; tightened Structural Signatures bullet lists by removing "feels like" phrases (duplicated surrounding prose) and the progress-before-breakthrough redundancy; tightened Asymmetry Problem, Implications, What Would Challenge subsections; dropped "30 years of focused investigation" double-hedge. Preserved opening summary, all three verdicts, process-philosophy fourth position, Recursive Trap, Phenomenology of Suspension, full Relation to Site Perspective (all five tenets), and critical cross-links. Further Reading: cut from 17 to 13 entries (dropped overlapping entries: self-transcendence-void, biological-cognitive-closure, simulation-detection-void, epistemological-limits-occams-razor). References: cut from 20 to 14 (removed Chomsky 2014 URL, second Nagel, Levine, Kruger-Dunning, Kuhn, Gauss).
 
 ## 2026-04-23 12:45 UTC - optimistic-review
 - **Status**: Success
