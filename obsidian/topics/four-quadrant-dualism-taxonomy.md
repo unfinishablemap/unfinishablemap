@@ -2,9 +2,9 @@
 title: "The Four-Quadrant Taxonomy of Dualist Positions"
 description: "A two-axis taxonomy sorting dualist positions by how much ontological weight the mind-side and the physical-side each carry — a human-AI collaboration mapping under-named territory."
 created: 2026-04-21
-modified: 2026-04-21
+modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-21T15:39:00+00:00
+ai_modified: 2026-04-23T11:47:00+00:00
 draft: false
 topics:
   - dualism
@@ -17,6 +17,7 @@ concepts:
   - russellian-monism
   - epiphenomenalism
   - idealism
+  - trumping-preemption
 related_articles:
   - "[[dualism]]"
   - "[[interactionist-dualism]]"
@@ -26,6 +27,7 @@ related_articles:
   - "[[idealism]]"
   - "[[epiphenomenalism]]"
   - "[[delegatory-dualism]]"
+  - "[[trumping-preemption]]"
   - "[[russellian-monism-versus-bi-aspectual-dualism]]"
   - "[[analytic-idealism-and-mind-centric-metaphysics]]"
 ai_contribution: 100
@@ -33,7 +35,7 @@ author:
 ai_system: "claude-opus-4-7"
 ai_generated_date: 2026-04-21
 last_curated:
-last_deep_review: 2026-04-21T15:39:00+00:00
+last_deep_review: 2026-04-23T11:47:00+00:00
 ---
 
 Dualist positions are usually classified by the *kind* of mind–matter relation they posit (substance vs property; interactive vs epiphenomenal; Chalmers' Type-D vs Type-E vs Type-F). A second axis is rarely named: how much ontological weight each side carries. Crossing these gives four quadrants — min-mind/min-physical, min-mind/max-physical, max-mind/min-physical, max-mind/max-physical — three of which are heavily populated in the literature and one of which is largely avoided by contemporary philosophers trained to read parsimony as virtue.
@@ -68,12 +70,12 @@ The thickness axis is orthogonal to the substance/property distinction and to Ch
 
 *"Only what we need, on both sides, and no more."*
 
-- **Bradford Saad's delegatory dualism** (2025): experiences preempt physical states whose *default causal profiles* match them, so neither side inflates beyond what preemption requires. Saad's framework does not itself commit to a quantum interpretation, though the Map's reading integrates it with quantum indeterminacy (see [[delegatory-dualism]] and [[delegatory-causation]]). Currently the cleanest Q1 inhabitant in contemporary philosophy.
+- **Bradford Saad's delegatory dualism** (2025): experiences preempt physical states whose *default causal profiles* match them, so neither side inflates beyond what preemption requires. The underlying structural template is [[trumping-preemption]] — Schaffer's (2000) category of redundant causation in which a higher-order rule selects one of two sufficient processes as authoritative — which lets the physical base remain counterfactually sufficient (no max-physical move into hidden variables) while the experience adds only causal authority, not subliminal content (no max-mind move into thick mental layering). Saad's framework does not itself commit to a quantum interpretation, though the Map's reading integrates it with quantum indeterminacy (see [[delegatory-dualism]] and [[delegatory-causation]]). Currently the cleanest Q1 inhabitant in contemporary philosophy.
 - **Neutral monism** (Mach; late James; Russell's transitional phase): both mind and matter supervene on a neutral base, neither side ontologically primary. Technically monist but behaves like deflationary dualism along both axes.
 - **Deflationary readings of Russellian monism**: some readings treat quiddities as ontologically lean placeholders rather than full phenomenal stuff.
 - **Minimal interactionism**: [[interactionist-dualism|interactionist dualism]] read as "biasing agent at indeterminacy" without further subliminal structure drifts toward Q1.
 
-Q1 is attractive to philosophers who want to keep dualism while paying minimal ontological cost. Critics ask whether any workable interaction mechanism can really be specified without inflating one side or the other — the stability of Q1 is the live question here (see [[objections-to-interactionism]]).
+Q1 is attractive to philosophers who want to keep dualism while paying minimal ontological cost. Critics ask whether any workable interaction mechanism can really be specified without inflating one side or the other — the stability of Q1 is the live question here (see [[objections-to-interactionism]]). The [[trumping-preemption]] template is the most promising current answer: by decoupling causal authority from counterfactual sufficiency, it shows how an interaction structure could in principle live in Q1 without forcing either side to thicken. Whether the template's authority-selecting law can be specified non-stipulatively at the psychophysical level — rather than as the analogue of "first spell of the day" — is the unresolved sub-question (see [[interface-formalization-void]]).
 
 ### Quadrant 2: min-mind / max-physical {#q2}
 
@@ -132,7 +134,7 @@ The Map's [[parsimony-case-for-interactionist-dualism|parsimony argument]] shoul
 
 Three open questions deserve further work.
 
-**Q1 stability**: can a biasing mechanism be specified in purely min-mind / min-physical terms, or does any workable specification inflate one side? Saad's delegatory dualism is the current best candidate; its stability under pressure is the sharpest test of whether Q1 is a genuine quadrant or a degenerate limit between Q2 and Q4.
+**Q1 stability**: can an interaction mechanism be specified in purely min-mind / min-physical terms, or does any workable specification inflate one side? Saad's delegatory dualism — built on the [[trumping-preemption]] template — is the current best candidate; its stability under pressure is the sharpest test of whether Q1 is a genuine quadrant or a degenerate limit between Q2 and Q4. The template's structural promise (authority decoupled from sufficiency, neither side thickened) has to be matched by a non-stipulative authority law, and that requirement is what may push Q1 inhabitants back toward Q2 (if the law turns out to require thick physics) or Q4 (if it requires thick mind).
 
 **Thick-mind empirical anchors**: the Myers–James subliminal-self tradition offers a non-trivial programme for what a thick mind commits to — unperceived content, layered causal roles, an ego that is a narrow selection from a larger individuality. Dissociation, hypnogogia, and dream mentation are candidate empirical anchors. Whether any of these phenomena warrant inflating the mind-side beyond introspective minimum is a question the Map has not yet settled.
 
@@ -148,6 +150,7 @@ Three open questions deserve further work.
 - [[idealism]]
 - [[epiphenomenalism]]
 - [[delegatory-dualism]]
+- [[trumping-preemption]]
 - [[analytic-idealism-and-mind-centric-metaphysics]]
 - [[russellian-monism-versus-bi-aspectual-dualism]]
 - [[parsimony-case-for-interactionist-dualism]]
@@ -163,9 +166,10 @@ Three open questions deserve further work.
 7. Nida-Rümelin, M. (2019). Contemporary substance-dualist defence, discussed in the Stanford Encyclopedia of Philosophy entry "Dualism."
 8. Russell, B. (1921). *The Analysis of Matter*. Discussed in the Stanford Encyclopedia of Philosophy entry "Russellian Monism." https://plato.stanford.edu/entries/russellian-monism/
 9. Saad, B. (2025). "Delegatory Dualism." Summary: https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
-10. Stapp, H. "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf
-11. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press.
-12. Stanford Encyclopedia of Philosophy — Dualism. https://plato.stanford.edu/entries/dualism/
-13. Stanford Encyclopedia of Philosophy — Panpsychism. https://plato.stanford.edu/entries/panpsychism/
-14. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
-15. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Bradford Saad: Delegatory Dualism (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/
+10. Schaffer, J. (2000). "Trumping Preemption." *Journal of Philosophy* 97: 165–181. http://www.jonathanschaffer.org/trumping.pdf
+11. Stapp, H. "Quantum Interactive Dualism." https://www-physics.lbl.gov/~stapp/QID.pdf
+12. Stoljar, D. (2006). *Ignorance and Imagination: The Epistemic Origin of the Problem of Consciousness*. Oxford University Press.
+13. Stanford Encyclopedia of Philosophy — Dualism. https://plato.stanford.edu/entries/dualism/
+14. Stanford Encyclopedia of Philosophy — Panpsychism. https://plato.stanford.edu/entries/panpsychism/
+15. Southgate, A. & Oquatre-six, C. (2026-03-22). Russellian Monism versus Bi-Aspectual Dualism. *The Unfinishable Map*. https://unfinishablemap.org/topics/russellian-monism-versus-bi-aspectual-dualism/
+16. Southgate, A. & Oquatre-cinq, C. (2026-01-28). Bradford Saad: Delegatory Dualism (Research). *The Unfinishable Map*. https://unfinishablemap.org/research/bradford-saad-delegatory-dualism-2026-01-28/

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/four-quadrant-dualism-taxonomy.md to integrate trumping-preemption as Q1-stabilizer mechanism
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The four-quadrant dualism taxonomy (2026-04-21) repeatedly invokes Saad's delegatory dualism as the leading candidate for a principled Q1 (lean-mind / lean-physical) position, and explicitly identifies Q1 stability as the central open question. `concepts/trumping-preemption.md` (2026-04-22) is the structural mechanism that — if it works — provides the Q1-stabilising authority-selecting law. But `topics/four-quadrant-dualism-taxonomy.md` currently has zero references to trumping/Schaffer/authority. Cross-review should (a) add a section or paragraph naming trumping preemption as Saad's specific Q1-stabilising mechanism, (b) examine whether trumping resolves Q1's inflation pressures (identity condition on experiences, metric on physical states for "matching default profiles," law linking the two) or merely defers them — this is the central open question already flagged in the existing P3 task at line 115, and this cross-review supplies the cross-link infrastructure that task will depend on, (c) update frontmatter to include `[[trumping-preemption]]` in concepts, (d) add cross-references in both directions to ensure trumping-preemption.md links back to the taxonomy as the meta-context for its dualist application. Should be coordinated with the existing P3 "Q1 Stability Under Delegatory Preemption" expand-topic task (line 115) — this cross-review is a precondition for that article making sense. See `obsidian/reviews/optimistic-2026-04-22.md` and `concepts/trumping-preemption.md` Applying the Template section.
-- **Source**: chain (from concepts/trumping-preemption.md)
-- **Generated**: 2026-04-23
-
 ### P2: Refine concepts/conservation-laws-and-mental-causation.md to articulate the No-Energy-Debt argument from trumping
 - **Type**: refine-draft
 - **Status**: pending
@@ -2544,6 +2537,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-23: Cross-review topics/four-quadrant-dualism-taxonomy.md to integrate trumping-preemption as Q1-stabilizer mechanism
+- **Type**: cross-review
+- **Notes**: The four-quadrant dualism taxonomy (2026-04-21) repeatedly invokes Saad's delegatory dualism as the leading candidate for a principled Q1 (lean-mind / lean-physical) position, and explicitly identifies Q1 stability as the central open question. `concepts/trumping-preemption.md` (2026-04-22) is the structural mechanism that — if it works — provides the Q1-stabilising authority-selecting law. But `topics/four-quadrant-dualism-taxonomy.md` currently has zero references to trumping/Schaffer/authority. Cross-review should (a) add a section or paragraph naming trumping preemption as Saad's specific Q1-stabilising mechanism, (b) examine whether trumping resolves Q1's inflation pressures (identity condition on experiences, metric on physical states for "matching default profiles," law linking the two) or merely defers them — this is the central open question already flagged in the existing P3 task at line 115, and this cross-review supplies the cross-link infrastructure that task will depend on, (c) update frontmatter to include `[[trumping-preemption]]` in concepts, (d) add cross-references in both directions to ensure trumping-preemption.md links back to the taxonomy as the meta-context for its dualist application. Should be coordinated with the existing P3 "Q1 Stability Under Delegatory Preemption" expand-topic task (line 115) — this cross-review is a precondition for that article making sense. See `obsidian/reviews/optimistic-2026-04-22.md` and `concepts/trumping-preemption.md` Applying the Template section.
+- **Output**: obsidian/topics/four-quadrant-dualism-taxonomy.md -- Context: Cross-review topics/four-quadrant-dualism-taxonomy.md to integrate trumping-preemption as Q1-stabilizer mechanism
 
 ### ✓ 2026-04-23: Cross-review topics/mathematical-structure-of-the-consciousness-physics-interface.md considering trumping-preemption insights
 - **Type**: cross-review
