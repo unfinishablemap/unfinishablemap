@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/epistemic-horizon-void.md
-- **Type**: deep-review
-- **Notes**: New voids article created today (2026-04-23) via expand-topic, not yet deep-reviewed (last_deep_review is absent). The article installs the Epistemic Horizon Void as one of three new second-order voids created today (alongside plenitude-void and categorial-void) whose shared structural feature — concerning not a specific cognitive gap but a feature of the architecture of self-reflective cognition — is now flagged as a cross-cutting cluster that may need its own taxonomic category (see also P3 meta-voids-cluster task). Deep-review should verify (a) tenet alignment with Occam's Razor Has Limits and Dualism as stated in the night optimistic review, (b) handling of the inheritance problem (whether the Map's cataloguing framework inherits the horizon it describes — lines 64-74 of the article flag this explicitly), (c) distinction from meta-epistemology-of-limits and plenitude-void which cover adjacent structural territory, (d) that the distinction between evidential and definitional unfalsifiability installed in plenitude-void during tonight's refine-draft is consistent with what epistemic-horizon-void claims about its own unfalsifiability, (e) cross-links to the broader voids catalogue are clean. See /deep-review skill.
-- **Source**: chain
-- **Generated**: 2026-04-24
-
 ### P2: Deep review voids/plenitude-void.md
 - **Type**: deep-review
 - **Notes**: New voids article created today (2026-04-23) via expand-topic and then refined via refine-draft (to install the evidential-vs-definitional unfalsifiability distinction and concede the void is primarily definitional), but not yet deep-reviewed (last_deep_review is absent). The article is now load-bearing across at least four other articles for the evidential/definitional unfalsifiability distinction. Deep-review should verify (a) the distinction is stated precisely and survives adversarial reading, (b) the concession that the void is primarily definitional does not collapse into the unfalsifiability-as-pseudo-science reading Tenet 5 is supposed to avoid, (c) tenet alignment with Occam's Razor Has Limits (load-bearing) and Dualism is explicit, (d) cross-links to distraction-void, phenomenal-quality-void, and born-rule-violation-brain-interface-empirical-status are present where the same distinction is deployed, (e) overlap with epistemic-horizon-void and categorial-void is managed with clear territorial distinctions. See /deep-review skill.
@@ -2640,6 +2634,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Deep review voids/epistemic-horizon-void.md
+- **Type**: deep-review
+- **Notes**: New voids article created today (2026-04-23) via expand-topic, not yet deep-reviewed (last_deep_review is absent). The article installs the Epistemic Horizon Void as one of three new second-order voids created today (alongside plenitude-void and categorial-void) whose shared structural feature — concerning not a specific cognitive gap but a feature of the architecture of self-reflective cognition — is now flagged as a cross-cutting cluster that may need its own taxonomic category (see also P3 meta-voids-cluster task). Deep-review should verify (a) tenet alignment with Occam's Razor Has Limits and Dualism as stated in the night optimistic review, (b) handling of the inheritance problem (whether the Map's cataloguing framework inherits the horizon it describes — lines 64-74 of the article flag this explicitly), (c) distinction from meta-epistemology-of-limits and plenitude-void which cover adjacent structural territory, (d) that the distinction between evidential and definitional unfalsifiability installed in plenitude-void during tonight's refine-draft is consistent with what epistemic-horizon-void claims about its own unfalsifiability, (e) cross-links to the broader voids catalogue are clean. See /deep-review skill.
+- **Output**: obsidian/voids/epistemic-horizon-void.md
 
 ### ✓ 2026-04-24: Update references to archived voids/understanding-void
 - **Type**: cross-review

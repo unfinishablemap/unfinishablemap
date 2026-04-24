@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 01:29:00+00:00
+ai_modified: 2026-04-24 02:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-24 02:29 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/epistemic-horizon-void]]
+- **Word count**: 1999 → 1994 (-5, length-neutral mode at soft threshold)
+- **Critical issues addressed**: 3 — (1) rewrote opening "It is not X. It is Y" cliché pattern flagged by writing-style guide; (2) fixed frontmatter classification — `[[epistemology]]` moved from `topics:` to `concepts:` (no topics/epistemology.md exists); (3) reframed direct-quote attribution to Church (paraphrase presented as quote) into a paraphrase that still credits the 1945 referee report
+- **Medium issues addressed**: 3 — tightened description from ~217 to ~158 chars, reworked two further mild instances of the contrastive-cliché pattern, trimmed redundancy in the catalogue-stabilisation paragraph
+- **Enhancements made**: 0 net additions (article at length cap; preserved cartographer analogy, convergence structure, "epistemic agoraphobia" coinage, and the load-bearing self-application section)
+- **Output**: [[reviews/deep-review-2026-04-24-epistemic-horizon-void]]
 
 ## 2026-04-24 01:29 UTC - cross-review
 - **Status**: Success
