@@ -4,7 +4,7 @@ description: "Musical understanding reveals consciousness as irreducibly tempora
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-17T23:18:00+00:00
+ai_modified: 2026-04-24T17:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,17 +19,22 @@ concepts:
   - "[[phenomenology-of-intellectual-life]]"
   - "[[temporal-structure-of-understanding]]"
   - "[[topics/phenomenal-value-realism]]"
+  - "[[predictive-processing]]"
+  - "[[explanatory-gap]]"
+  - "[[epiphenomenalism]]"
+  - "[[philosophical-zombies]]"
 related_articles:
   - "[[tenets]]"
   - "[[emotion-and-dualism]]"
   - "[[surprise-prediction-error-and-consciousness]]"
   - "[[ineffable-encounter-void]]"
+  - "[[predictive-processing-and-dualism]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-18
 last_curated:
-last_deep_review: 2026-03-20T00:21:00+00:00
+last_deep_review: 2026-04-24T17:29:00+00:00
 ---
 
 Music poses a distinctive challenge for theories of consciousness. When you hear a melody resolve from tension to resolution—when a minor key passage shifts to major, or a dissonant chord finds its tonic—you *understand* something. But what you understand cannot be stated propositionally. The understanding is irreducibly phenomenal: temporal, aesthetic, and emotional in ways that resist translation into any other medium. The Unfinishable Map argues that musical understanding provides a particularly revealing test case for dualism, because it combines temporal phenomenology, aesthetic qualia, and non-propositional meaning in a single experience that materialist accounts struggle to accommodate.
@@ -68,11 +73,11 @@ The inverted qualia argument applies here. Imagine a listener for whom what you 
 
 ## The Predictive-Coding Challenge
 
-Contemporary cognitive science offers functionalism's strongest case for music through predictive-coding accounts (Huron, 2006; Koelsch, 2014; Vuust et al., 2022). On these models, musical meaning emerges from a hierarchy of probabilistic predictions: the brain continuously anticipates the next tone, chord, or rhythmic event; tension is the felt signature of high predictive entropy; resolution is the release of a correctly-predicted outcome; surprise is prediction error propagated up the cortical hierarchy. Huron's ITPRA framework (Imagination, Tension, Prediction, Reaction, Appraisal) decomposes the affective response into distinct predictive stages tracked by neuroimaging. Vuust's work connects musical pleasure to the dopaminergic reward of reducing uncertainty.
+Contemporary cognitive science offers functionalism's strongest case for music through [[predictive-processing|predictive-coding]] accounts (Huron, 2006; Koelsch, 2014; Vuust et al., 2022). On these models, musical meaning emerges from a hierarchy of probabilistic predictions: the brain continuously anticipates the next tone, chord, or rhythmic event; tension is the felt signature of high predictive entropy; resolution is the release of a correctly-predicted outcome; surprise is prediction error propagated up the cortical hierarchy. Huron's ITPRA framework (Imagination, Tension, Prediction, Reaction, Appraisal) decomposes the affective response into distinct predictive stages, with subsequent neuroimaging work mapping these stages to specific cortical and subcortical responses. Vuust's work connects musical pleasure to the dopaminergic reward of reducing uncertainty.
 
-The framework explains much. It accounts for why unfamiliar tonal systems gradually become meaningful as listeners build statistical models, why expert listeners hear differently from novices, why deceptive cadences evoke their specific quality of thwarted expectation, and why rhythmic syncopation delivers its particular pleasure. The Map takes predictive coding seriously as the best extant non-dualist account of musical phenomenology.
+The framework explains much. It accounts for why unfamiliar tonal systems gradually become meaningful as listeners build statistical models, why expert listeners hear differently from novices, why deceptive cadences evoke their specific quality of thwarted expectation, and why rhythmic syncopation delivers its particular pleasure. The Map takes predictive coding seriously as the best extant non-dualist account of musical phenomenology (see [[predictive-processing-and-dualism]] for the general argument).
 
-The explanatory gap survives nonetheless. Predictive-coding models specify *what* the brain computes and *when*; they remain silent on *why* the prediction error at a deceptive cadence feels the way it does rather than some other way, or feeling like nothing at all. A silicon system could implement the same Bayesian hierarchy with no accompanying phenomenology—this is the standard hard-problem point, but it applies with particular force when predictive coding is offered as the full story. The literature sometimes slides between "explains the functional role of surprise" and "explains what surprise feels like," but these are distinct claims. The functional explanation is compatible with dualism. The phenomenal explanation is what remains at issue.
+The [[explanatory-gap]] survives nonetheless. Predictive-coding models specify *what* the brain computes and *when*; they remain silent on *why* the prediction error at a deceptive cadence feels the way it does rather than some other way, or feeling like nothing at all. A [[philosophical-zombies|silicon system could implement the same Bayesian hierarchy]] with no accompanying phenomenology—this is the standard hard-problem point, but it applies with particular force when predictive coding is offered as the full story. The literature sometimes slides between "explains the functional role of surprise" and "explains what surprise feels like," but these are distinct claims. The functional explanation is compatible with dualism. The phenomenal explanation is what remains at issue.
 
 This is not a dismissal of predictive coding as neuroscience. The mechanics of musical cognition are a legitimate computational target, and the Map expects most of the processing story to look like this. The divergence from strong functionalism is not about the mechanics but about whether those mechanics exhaust what requires explanation. On the Map's view, the predictive hierarchy is the physical substrate that consciousness exploits; it is not what consciousness *is*.
 
@@ -118,7 +123,7 @@ Musical understanding connects to the Map's framework through several tenets.
 
 **[[tenets#^dualism|Dualism]]**: Musical qualia resist physical reduction. A complete physical description of the acoustic signal and neural processing of a minor passage leaves unexplained why it *sounds sad*. The explanatory gap is particularly stark here because the quale—the felt quality of minor tonality, of harmonic tension, of rhythmic drive—is the entire substance of musical experience. Remove the qualia and nothing recognisably musical remains.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Musical understanding appears to guide action in ways suggestive of phenomenal causation. A jazz improviser's note choices track what the music *sounds like*—the felt quality of tension and resolution, the heard rightness or wrongness of each possibility. The epiphenomenalist has a standard reply: the neural correlate of the phenomenal quality does the guiding, while the phenomenal quality itself is causally idle. The Map concedes this correlate-plus-epiphenomenon picture is coherent but finds it explanatorily unstable—it leaves unexplained why the improviser's introspective reports of being guided by felt qualities reliably coincide with those qualities if the qualities themselves do nothing. The bidirectional-interaction tenet resolves the coordination by positing the minimal causal influence specified by the Map's quantum-interaction framework: phenomenal qualities contribute a small but non-zero difference to which physical outcome obtains, enough to make introspective tracking non-miraculous.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Musical understanding appears to guide action in ways suggestive of phenomenal causation. A jazz improviser's note choices track what the music *sounds like*—the felt quality of tension and resolution, the heard rightness or wrongness of each possibility. The [[epiphenomenalism|epiphenomenalist]] has a standard reply: the neural correlate of the phenomenal quality does the guiding, while the phenomenal quality itself is causally idle. The Map concedes this correlate-plus-epiphenomenon picture is coherent but finds it explanatorily unstable—it leaves unexplained why the improviser's introspective reports of being guided by felt qualities reliably coincide with those qualities if the qualities themselves do nothing. The bidirectional-interaction tenet resolves the coordination by positing the minimal causal influence specified by the Map's quantum-interaction framework: phenomenal qualities contribute a small but non-zero difference to which physical outcome obtains, enough to make introspective tracking non-miraculous.
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: The aesthetic weight of a particular listening rests on its being the one that happened. An MWI defender correctly observes that within any single branch, the listener's experience is unified and indexical—haecceity is preserved branch-internally. The Map's concern is not with unity-within-a-branch but with the distribution of significance across branches: if every possible continuation of a performance (every missed note, every alternative interpretation, every variation in the listener's attentional trajectory) is equally actual, the concentrated value of the singular aesthetic event dissipates into a proliferation of equally-real variants. Aesthetic practice—the attention performers pay to *this* performance, the reverence audiences give to *this* hearing—presupposes a metaphysics where the singular occurrence is where value lands. Single-world actualism honours what branching metaphysics dilutes, even if it does not formally contradict it.
 
