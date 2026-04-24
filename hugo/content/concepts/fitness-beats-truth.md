@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-15 10:15:00+00:00
+ai_modified: 2026-04-24 20:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[mysterianism]]'
 created: 2026-03-15
-date: &id001 2026-03-15
+date: &id001 2026-04-24
 description: Hoffman, Singh & Prakash's formal proof that natural selection favours
   fitness-tuned perception over veridical perception—and why this undermines parsimony
   arguments against dualism.
@@ -22,7 +22,7 @@ related_articles:
 - '[[perceptual-failure-and-the-interface]]'
 - '[[perceptual-degradation-and-the-interface]]'
 - '[[adaptive-cognitive-limits]]'
-- '[[probability-intuition-void]]'
+- '[[quantitative-intuition-void]]'
 - '[[tenets]]'
 title: Fitness-Beats-Truth Theorem
 topics:
@@ -96,7 +96,7 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why experience conceals its own representational character
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — What degraded perception reveals about the interface's architecture
-- [probability-intuition-void](/voids/probability-intuition-void/) — How fitness-tuned cognition distorts probabilistic reasoning
+- [quantitative-intuition-void](/voids/quantitative-intuition-void/) — How fitness-tuned cognition distorts both magnitude and probability reasoning: the probability face treats the randomness failures directly relevant to FBT's implications for Bayesian inference
 - [mysterianism](/concepts/mysterianism/) — McGinn's argument that the hard problem reflects cognitive closure
 - [tenets](/tenets/) — The Unfinishable Map's foundational commitments
 

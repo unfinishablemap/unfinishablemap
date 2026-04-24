@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-29 23:10:00+00:00
+ai_modified: 2026-04-24 20:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[phenomenology]]'
 - '[[qualia]]'
 created: 2026-01-28
-date: &id001 2026-03-15
+date: &id001 2026-04-24
 description: Human+AI exploration of how having a body shapes and constrains what
   we can think. Does meaning require embodiment? Can disembodied minds exist?
 draft: false
@@ -148,7 +148,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [scale-void](/voids/scale-void/) — Another embodiment-driven limit: why cosmic magnitudes resist comprehension
+- [quantitative-intuition-void](/voids/quantitative-intuition-void/) — Another embodiment-driven limit: why cosmic magnitudes and probability structure resist comprehension when they exceed ancestral calibration
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What consciousness can access that AI cannot
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe territories closed to human cognition
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The structural gap at the heart of physical knowledge

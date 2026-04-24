@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-03
-**Article**: [The Scale Void](/voids/scale-void/)
+**Article**: [The Scale Void](/voids/quantitative-intuition-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary
@@ -49,10 +49,10 @@ topics: []
 - Added [quantum-consciousness](/concepts/quantum-consciousness/) link in Minimal Quantum Interaction section
 
 ### Cross-links Added
-- [scale-void](/voids/scale-void/) added to [voids](/voids/) index under "Specific Voids"
-- [scale-void](/voids/scale-void/) added to [three-kinds-of-void](/voids/three-kinds-of-void/) as example of mixed void
-- [scale-void](/voids/scale-void/) added to [mysterianism](/concepts/mysterianism/) Further Reading
-- [scale-void](/voids/scale-void/) added to [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) Further Reading
+- [scale-void](/voids/quantitative-intuition-void/) added to [voids](/voids/) index under "Specific Voids"
+- [scale-void](/voids/quantitative-intuition-void/) added to [three-kinds-of-void](/voids/three-kinds-of-void/) as example of mixed void
+- [scale-void](/voids/quantitative-intuition-void/) added to [mysterianism](/concepts/mysterianism/) Further Reading
+- [scale-void](/voids/quantitative-intuition-void/) added to [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) Further Reading
 
 ## Remaining Items
 

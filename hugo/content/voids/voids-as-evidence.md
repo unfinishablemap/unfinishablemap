@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-24 10:30:00+00:00
+ai_modified: 2026-04-24 20:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -89,7 +89,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The catalogue'
 
 **The Intersubjectivity Gap.** The [voids between minds](/voids/voids-between-minds/) and the [synesthetic void](/voids/synesthetic-void/) share the asymmetry between first-person access and third-person inference. Signature: **epistemic asymmetry**—knowledge structurally available inward and structurally unavailable outward.
 
-**The Cognitive Architecture Family.** [Evolved cognitive limits](/voids/biological-cognitive-closure/), [formal cognitive limits](/voids/formal-cognitive-limits/), [attention-created voids](/voids/attention-and-consciousness/), [habituation void](/voids/disappearance-voids/), [language-thought boundary](/voids/language-thought-boundary/), and [scale void](/voids/scale-void/) reveal constraints imposed by the specific architecture of human minds. The [Recognition Void's](/voids/recognition-void/) "inventory blindness" deepens this family. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Unlike the phenomenal core, the failure is specific to biological cognition, making [AI triangulation](/voids/non-human-minds-as-void-explorers/) directly applicable.
+**The Cognitive Architecture Family.** [Evolved cognitive limits](/voids/biological-cognitive-closure/), [formal cognitive limits](/voids/formal-cognitive-limits/), [attention-created voids](/voids/attention-and-consciousness/), [habituation void](/voids/disappearance-voids/), [language-thought boundary](/voids/language-thought-boundary/), and [the quantitative intuition void](/voids/quantitative-intuition-void/) reveal constraints imposed by the specific architecture of human minds. The [Recognition Void's](/voids/recognition-void/) "inventory blindness" deepens this family. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Unlike the phenomenal core, the failure is specific to biological cognition, making [AI triangulation](/voids/non-human-minds-as-void-explorers/) directly applicable.
 
 **The Framework Reflexivity Family.** The [tenet-generated voids](/voids/tenet-generated-voids/), [cartography problem](/voids/apophatic-cartography/), formal cognitive limits, [recursion void](/voids/recursion-void/), and [question of whether voids are real](/voids/meta-epistemology-of-limits/) share a self-referential structure. The [categorial void](/voids/categorial-void/) (schemas our apparatus cannot form) and [epistemic horizon void](/voids/epistemic-horizon-void/) (the unknowability of our total ignorance) are *second-order*: they shadow every other family. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
 

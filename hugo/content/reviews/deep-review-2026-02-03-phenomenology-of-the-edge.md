@@ -52,9 +52,9 @@ None. Previous review addressed critical issues; article is stable.
 - Clarified Millière component listing
 
 ### Cross-links Added
-- [scale-void](/voids/scale-void/) added to related_articles
-- [scale-void](/voids/scale-void/) added to Further Reading
-- [scale-void](/voids/scale-void/) linked inline in "Multiple edges" section
+- [scale-void](/voids/quantitative-intuition-void/) added to related_articles
+- [scale-void](/voids/quantitative-intuition-void/) added to Further Reading
+- [scale-void](/voids/quantitative-intuition-void/) linked inline in "Multiple edges" section
 
 ## Remaining Items
 

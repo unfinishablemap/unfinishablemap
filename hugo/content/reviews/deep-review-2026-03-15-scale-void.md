@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [The Scale Void](/voids/scale-void/)
+**Article**: [The Scale Void](/voids/quantitative-intuition-void/)
 **Previous review**: [2026-02-03](/reviews/deep-review-2026-02-03-scale-void/)
 
 ## Pessimistic Analysis Summary

@@ -183,7 +183,7 @@ Neither void has yielded to centuries of investigation. Imagination's limits per
 - [conceptual-impossibility](/voids/conceptual-impossibility/) --- The experience of encountering formally unthinkable content
 - [synesthetic-void](/voids/synesthetic-void/) --- Phenomenal dimensions closed to most minds
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) --- Whether AI and radically different alien minds can probe our void
-- [scale-void](/voids/scale-void/) --- Where cognitive architecture fails at extreme magnitudes
+- [scale-void](/voids/quantitative-intuition-void/) --- Where cognitive architecture fails at extreme magnitudes
 - [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) --- Modes of knowing that conceptual thought cannot access
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) --- Whether some concepts are permanently inaccessible
 - [consciousness-only-territories](/voids/consciousness-only-territories/) --- Experiential terrain that resists third-person description

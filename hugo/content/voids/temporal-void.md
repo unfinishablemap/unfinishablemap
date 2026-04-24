@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-03-23 21:43:00+00:00
+ai_modified: 2026-04-24 20:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -22,7 +22,7 @@ concepts:
 - '[[qualia]]'
 - '[[illusionism]]'
 created: 2026-01-21
-date: &id001 2026-03-17
+date: &id001 2026-04-24
 description: Why consciousness is confined to a moving present, cannot simultaneously
   live and measure its own time, and can re-experience the past but only imagine the
   future.
@@ -39,7 +39,7 @@ related_articles:
 - '[[death-void]]'
 - '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[scale-void]]'
+- '[[quantitative-intuition-void]]'
 - '[[smoothness-and-continuity]]'
 - '[[resolution-void]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'

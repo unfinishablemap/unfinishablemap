@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-11 13:56:00+00:00
+ai_modified: 2026-04-24 20:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ concepts:
 - '[[subjective-aim]]'
 - '[[temporal-consciousness]]'
 created: 2026-02-09
-date: &id001 2026-02-14
+date: &id001 2026-04-24
 description: What it feels like to decide when outcomes are unknowable—the vertigo,
   estimation, and commitment that reveal consciousness at work.
 draft: false
@@ -26,7 +26,7 @@ last_deep_review: 2026-04-11 13:56:00+00:00
 modified: *id001
 related_articles:
 - '[[authentic-vs-inauthentic-choice]]'
-- '[[probability-intuition-void]]'
+- '[[quantitative-intuition-void]]'
 - '[[self-opacity|volitional opacity]]'
 - '[[phenomenology-of-anticipation]]'
 - '[[phenomenology-of-intellectual-life]]'
@@ -46,7 +46,7 @@ Deciding under uncertainty feels different from deciding with full information. 
 
 Uncertainty is not a single experience. It presents itself in phenomenally distinct varieties that shape how deliberation unfolds.
 
-**Quantifiable risk** feels bounded. When choosing between options with known probabilities—a medical procedure with published success rates, an investment with historical returns—uncertainty has a specific texture: the mind grasps at numbers, seeks anchors, tries to reduce the situation to a calculable bet. There is discomfort but also the comfort of a framework. The [probability-intuition-void](/voids/probability-intuition-void/) describes how poorly we reason about probabilities, but the phenomenology here is one of *attempting* to reason probabilistically, even when failing.
+**Quantifiable risk** feels bounded. When choosing between options with known probabilities—a medical procedure with published success rates, an investment with historical returns—uncertainty has a specific texture: the mind grasps at numbers, seeks anchors, tries to reduce the situation to a calculable bet. There is discomfort but also the comfort of a framework. The [probability face of the quantitative intuition void](/voids/quantitative-intuition-void/#the-probability-face) describes how poorly we reason about probabilities, but the phenomenology here is one of *attempting* to reason probabilistically, even when failing.
 
 **Ambiguity** feels different. When probabilities themselves are unknown—starting a business in an unfamiliar market, committing to a relationship—the mind encounters a more radical openness. There are no anchors. The experience is not of calculating badly but of having nothing to calculate with. Frank Knight's distinction between risk and uncertainty maps onto a phenomenological distinction: risk feels like difficult arithmetic; genuine uncertainty feels like standing at the edge of something unmapped.
 
@@ -150,7 +150,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The general structure of choosing
 - [phenomenology of epistemic cognition](/topics/phenomenology-of-intellectual-life/) — The felt sense of epistemic weight
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Why uncertainty demands authentic engagement
-- [probability-intuition-void](/voids/probability-intuition-void/) — Our architectural limits in reasoning about chance
+- [quantitative-intuition-void](/voids/quantitative-intuition-void/) — Our architectural limits in reasoning about chance (the probability face) and magnitude, sharing a single explanatory structure
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The affective dimension of uncertainty
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Imagining alternative outcomes
 - [volitional opacity](/voids/self-opacity/) — Why we cannot observe our own deciding

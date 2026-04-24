@@ -50,9 +50,9 @@ None. Article remains stable after two previous reviews.
 - Added probability-intuition-void to Further Reading with description
 
 ### Cross-links Added
-- [probability-intuition-void](/voids/probability-intuition-void/) added to related_articles
-- [probability-intuition-void](/voids/probability-intuition-void/) linked inline in "Multiple edges" section
-- [probability-intuition-void](/voids/probability-intuition-void/) added to Further Reading
+- [probability-intuition-void](/voids/quantitative-intuition-void/) added to related_articles
+- [probability-intuition-void](/voids/quantitative-intuition-void/) linked inline in "Multiple edges" section
+- [probability-intuition-void](/voids/quantitative-intuition-void/) added to Further Reading
 
 ## Remaining Items
 

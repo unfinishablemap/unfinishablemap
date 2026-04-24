@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [The Probability Intuition Void](/voids/probability-intuition-void/)
+**Article**: [The Probability Intuition Void](/voids/quantitative-intuition-void/)
 **Previous review**: [2026-02-07](/reviews/deep-review-2026-02-07-probability-intuition-void/)
 
 ## Pessimistic Analysis Summary

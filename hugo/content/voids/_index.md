@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-23 22:24:00+00:00
+ai_modified: 2026-04-24 20:29:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-04-23
+date: &id001 2026-04-24
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -74,7 +74,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 ### Specific Voids
 
-- [The Scale Void](/voids/scale-void/) — Why cosmic distances, deep time, and large numbers resist comprehension
+- [The Quantitative Intuition Void](/voids/quantitative-intuition-void/) — Why intuition fails systematically when consciousness encounters magnitudes and probabilities outside ancestral calibration (coalesced from scale-void + probability-intuition-void 2026-04-24)
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [The Interface Formalization Void](/voids/interface-formalization-void/) — Why the consciousness-physics interface resists mathematical formalization
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter and consciousness are in themselves, when every answer yields only structure or negation
@@ -159,7 +159,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual limits interact superadditively
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
 - [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
-- [The Probability Intuition Void](/voids/probability-intuition-void/) — Why genuine randomness resists intuitive comprehension
 - [The Reconstruction Paradox](/concepts/selective-correction-and-reconstruction-paradox/) — Why the brain silently corrects some errors but delivers others
 
 

@@ -38,10 +38,32 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate creative-aesthetic-void.md into site navigation
+### P2: Integrate voids/witnessing-void.md into site navigation
 - **Type**: integrate-orphan
-- **Notes**: File has zero inbound wikilinks across active content (grep `[changelog.md). Article concerns consciousness's inability to generate genuinely novel phenomenal content, articulate aesthetic experience, or observe its own generative process. Integration candidates to survey: [[aesthetics-and-consciousness](/creative-aesthetic-void-returns-only-workflow/changelogmd-article-concerns-consciousnesss-inability-to-generate-genuinely-novel-phenomenal-content-articulate-aesthetic-experience-or-observe-its-own-generative-process-integration-candidates-to-survey-aesthetics-and-consciousness/) (topics/, the coalesced aesthetics hub) likely should link to it; [phenomenology-of-imagination](/topics/phenomenology-of-imagination/), [spontaneous-thought-void](/voids/thought-stream-void/), [the-surplus-void](/voids/the-surplus-void/), and [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/) (now archived as aesthetics-and-consciousness) are strong candidates for reciprocal cross-links. The voids index (voids/voids.md) should list creative-aesthetic-void if it currently doesn't. Add inbound references from 3-5 most-related articles and update section index pages as appropriate.
+- **Status**: pending
+- **Notes**: Article created 2026-04-24 via expand-topic from research/voids-witnessing-void-2026-03-09.md. Currently has zero inbound wikilinks across the active content tree — it has cross-references *outward* (self-opacity, necessary-opacity, observation-void, witness-consciousness) but no article points *in*. Add reciprocal links from at least: concepts/witness-consciousness.md (the most direct concept-to-void pairing), voids/self-opacity.md (witnessing-void's closest sibling — the act vs. content of introspective access), voids/necessary-opacity.md (structural-limit framing), voids/voids.md (section index — cross-pollinated by the coalesce-and-expand cycle today), and apex/taxonomy-of-voids.md (the article is a candidate Category entry there). Favour integrative sentences that earn the link over decorative Further Reading additions.
 - **Source**: orphan_integration
+- **Generated**: 2026-04-24
+
+### P2: Integrate voids/semantic-void.md into site navigation
+- **Type**: integrate-orphan
+- **Status**: pending
+- **Notes**: Article created 2026-04-24 via expand-topic from research/voids-semantic-void-2026-02-17.md. Currently has zero inbound wikilinks across the active content tree. Add reciprocal links from at least: voids/intentionality-void.md (the article's nearest sibling — semantic-void is to *meaning* what intentionality-void is to *aboutness*), voids/language-thought-boundary.md (explicitly listed as a related_article by semantic-void; reciprocal missing), voids/the-silence-void.md (both treat ineffability; semantic-void narrows the ineffability to *semantic* gap specifically), concepts/cognitive-phenomenology.md (the semantic gap is a cognitive-phenomenology boundary), and apex/taxonomy-of-voids.md. Integrative sentences preferred over bare link additions.
+- **Source**: orphan_integration
+- **Generated**: 2026-04-24
+
+### P2: Cross-review concepts/witness-consciousness.md considering witnessing-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article voids/witnessing-void.md (created 2026-04-24) develops the claim that the *act* of witnessing cannot witness itself — a structural impossibility at the centre of consciousness that is distinct from opacity of content or medium. concepts/witness-consciousness.md is the canonical concept-level treatment and was cited in the new article's concepts list but does not yet cite back. Cross-review should (a) add a link from witness-consciousness.md to witnessing-void.md where the introspective-access limit is developed, (b) check whether witness-consciousness's phenomenology can be sharpened by the act/content/medium triad distinguishing the three related voids (witnessing/observation/transparency), (c) verify terminology consistency — witnessing-void uses "structural impossibility" and "non-objectifiable observer"; witness-consciousness should not overclaim what the void argues is systematically inaccessible, (d) identify any passages where witness-consciousness's treatment of the meditative and Advaita material would be strengthened by citing the void's more careful scoping of what those traditions *can* and *cannot* disclose. Log findings even if no edits are made.
+- **Source**: chain (from voids/witnessing-void.md)
+- **Generated**: 2026-04-24
+
+### P2: Cross-review voids/intentionality-void.md considering semantic-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article voids/semantic-void.md (created 2026-04-24) distinguishes the *semantic* gap (meaning-as-experienced exceeds meaning-as-represented) from the broader intentionality gap (aboutness exceeds any structural account). semantic-void lists intentionality-void as a related article, but intentionality-void does not yet cite semantic-void. Cross-review should (a) add reciprocal links, (b) check whether intentionality-void's arguments conflate semantic and aboutness gaps in places where semantic-void now allows a cleaner separation — the distinction is load-bearing for Dualism's case, (c) verify that intentionality-void does not overclaim what semantic-void shows is a narrower structural point, (d) ensure terminology is consistent (meaning-as-experienced vs meaning-as-represented language from semantic-void; aboutness language from intentionality-void should not be used interchangeably where the new article argues for partition), (e) check whether Searle/Brentano/Husserl citations align across the two articles. Log findings even if no edits are made.
+- **Source**: chain (from voids/semantic-void.md)
 - **Generated**: 2026-04-24
 
 ### P3: Write synthesis article on the Second-Order Voids Cluster
@@ -2658,6 +2680,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Condense voids/quantitative-intuition-void.md (3176 words, 159% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 2000-word hard threshold for voids/ (target 2000, current 3176 — 159% of target). Product of the 2026-04-24 coalesce of scale-void + probability-intuition-void. Preserve core arguments (quantitative-intuition as a family of void: scale discontinuity at threshold magnitudes; Born-rule probability as a particularly intense case; the introspective invariance that does not shrink to match parametric scale) while removing redundancy between the two merged strands. Target ~2200-2500 words. See /condense skill and reviews/deep-review-2026-04-24-quantitative-intuition-void.md if present.
+- **Output**: obsidian/voids/quantitative-intuition-void.md
+
+### ✓ 2026-04-24: Update wikilinks for coalesced quantitative-intuition-void
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-24 merged `voids/scale-void.md` + `voids/probability-intuition-void.md` into `voids/quantitative-intuition-void.md`. Archive redirects keep URLs working but 14 active-content files contain inbound `[scale-void](/voids/quantitative-intuition-void/)` or `[probability-intuition-void](/voids/quantitative-intuition-void/)` wikilinks that should be retargeted to the unified article (or in a few cases re-anchored to the specific magnitude-face / probability-face section). Files to review: `voids/voids-as-evidence.md`, `voids/emergence-void.md`, `voids/voids.md` (index), `voids/three-kinds-of-void.md`, `voids/recognition-void.md`, `voids/mapping-mind-space.md`, `topics/consciousness-and-probability-interpretation.md`, `voids/creative-aesthetic-void.md`, `voids/resolution-void.md`, `voids/embodiment-cognitive-limits.md`, `voids/phenomenology-of-the-edge.md`, `concepts/fitness-beats-truth.md`, `topics/phenomenology-of-deliberation-under-uncertainty.md`, `voids/temporal-void.md`. The `voids/voids.md` index in particular should not point at archived slugs. While editing, verify the unified article's framing (single architecture, two faces) reads coherently in each calling context.
+- **Output**: None -- Context: Update wikilinks for coalesced quantitative-intuition-void
 
 ### ✓ 2026-04-24: Write voids article on the Semantic Void
 - **Type**: expand-topic

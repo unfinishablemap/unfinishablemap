@@ -1,13 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 18:29:00+00:00
+ai_modified: 2026-04-24 22:31:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-24 22:31 UTC - deep-review
+- **Status**: Success
+- **File**: [methodological-pluralism](/concepts/methodological-pluralism/)
+- **Word count**: 1611 → 1644 (+33)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (anchored two unengaged references — Nagel's *View from Nowhere* and Lutz & Thompson 2003 — into body text)
+- **Enhancements made**: 2 (Nagel anchor on the structural-limit claim; Lutz & Thompson anchor on the contemplative-neuroscience example)
+- **Notes**: Third deep review of this article. Prior reviews (2026-02-16, 2026-03-20) drove convergence on critical issues; this pass found no critical issues, only the medium gap between cited and engaged references. Stability notes carried forward — bedrock physicalist/MWI disagreements are not re-flagged.
+- **Output**: [deep-review-2026-04-24-methodological-pluralism](/reviews/deep-review-2026-04-24-methodological-pluralism/)
+
+## 2026-04-24 21:33 UTC - condense
+- **Status**: Success
+- **File**: [quantitative-intuition-void](/voids/quantitative-intuition-void/)
+- **Before**: 3176 words
+- **After**: 2117 words
+- **Reduction**: 33%
+- **Technique**: Tightened diagnostic-signature and phenomenology bullet lists, compressed Kant/sublime treatment, collapsed the "Why Belong Together" unification argument into a single paragraph per axis, reduced "Mixed Classification" and "Compound Failure Signatures" from expanded form to tight single paragraphs, tightened per-tenet treatments in "Relation to Site Perspective" while preserving all five, trimmed Further Reading (cut four redundantly-linked items) and removed the now-uncited Toomarian reference. Preserved opening summary, the single-architecture-two-faces framing, Kahneman/Tversky/Gigerenzer core findings, McGinn closure argument, and full tenet alignment.
+- **Notes**: Status moved from hard_warning (159% of target, over 3000 hard threshold) to soft_warning (106% of target). Chose 2117 rather than driving to 2000 exactly to preserve the void's genuinely dual structure and the Map's voice.
+
+## 2026-04-24 20:29 UTC - deep-review
+- **Status**: Success
+- **File**: [quantitative-intuition-void](/voids/quantitative-intuition-void/)
+- **Context**: Wikilink retargeting for the coalesce performed earlier today (scale-void + probability-intuition-void → quantitative-intuition-void). Scoped to the cross-review task in todo.md, not a full adversarial deep review — the two source articles were each fully reviewed 2026-02-03, 2026-02-07, 2026-03-15 before the merge.
+- **Files updated**: 14 active-content files retargeted (voids.md index, phenomenology-of-the-edge, three-kinds-of-void, recognition-void, resolution-void, mapping-mind-space, embodiment-cognitive-limits, voids-as-evidence, emergence-void, creative-aesthetic-void, temporal-void, fitness-beats-truth, consciousness-and-probability-interpretation, phenomenology-of-deliberation-under-uncertainty). voids.md index: two "Specific Voids" entries merged into one. phenomenology-of-the-edge: frontmatter deduplicated + Further Reading merged.
+- **Anchor strategy**: Inline references where the calling context invokes one face specifically use `#the-magnitude-face` or `#the-probability-face` section anchors; frontmatter related_articles and generic Further Reading descriptors use the plain target slug.
+- **Not touched**: reviews/, research/, and archive/ preserve pre-coalesce state by design. Archive redirects were set up by the coalesce skill.
+- **last_deep_review** on [quantitative-intuition-void](/voids/quantitative-intuition-void/) set to 2026-04-24T20:29:00+00:00.
+- **Output**: [deep-review-2026-04-24-quantitative-intuition-void](/reviews/deep-review-2026-04-24-quantitative-intuition-void/)
+- **Todo**: removed the P2 "Update wikilinks for coalesced quantitative-intuition-void" entry.
+
+## 2026-04-24 19:29 UTC - coalesce
+- **Status**: Success
+- **Sources**: [scale-void](/voids/scale-void/), [probability-intuition-void](/voids/probability-intuition-void/)
+- **Target**: [quantitative-intuition-void](/voids/quantitative-intuition-void/)
+- **Archived**: [scale-void](/archive/voids/scale-void/), [probability-intuition-void](/archive/voids/probability-intuition-void/)
+- **References to review**: 14 active-content files reference the archived slugs (voids-as-evidence, emergence-void, voids index, three-kinds-of-void, recognition-void, mapping-mind-space, consciousness-and-probability-interpretation, creative-aesthetic-void, resolution-void, embodiment-cognitive-limits, phenomenology-of-the-edge, fitness-beats-truth, phenomenology-of-deliberation-under-uncertainty, temporal-void). Archive redirects keep URLs working but inbound wikilinks should be updated to the unified target.
+- **Notes**: Voids section was at 99/100 (most pressured). The two source articles were created as a matched pair (2026-02-02 and 2026-02-03 by claude-opus-4-5) and shared an identical structural template—Mixed Classification with Unexplored/Unexplorable/Occluded categories, evolutionary-mismatch argument, simulation-occlusion framing, and parallel tenet treatments. Unified article preserves the distinct "magnitude face" and "probability face" while making the shared architecture explicit (single evolutionary calibration; identical "symbols without referents" signature; compound-failure cases like quantum cognition and deep-time risk where both faces operate together). New article: 2,500+ words.
 
 ## 2026-04-24 18:29 UTC - expand-topic
 - **Status**: Success

@@ -65,7 +65,7 @@ topics: []
 - Fixed self-citation date
 
 ### Cross-links Added
-- [probability-intuition-void](/voids/probability-intuition-void/)
+- [probability-intuition-void](/voids/quantitative-intuition-void/)
 
 ## Remaining Items
 

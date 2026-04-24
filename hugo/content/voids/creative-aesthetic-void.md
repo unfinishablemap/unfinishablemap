@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-23 14:22:00+00:00
+ai_modified: 2026-04-24 20:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[default-mode-network]]'
 - '[[agent-causation]]'
 created: 2026-02-02
-date: &id001 2026-04-23
+date: &id001 2026-04-24
 description: Consciousness cannot generate genuinely novel phenomenal content, cannot
   articulate the aesthetic content it receives, and cannot observe its own generative
   process. The pattern of these three failures reveals the architecture of mind.
@@ -43,7 +43,7 @@ related_articles:
 - '[[conceptual-impossibility]]'
 - '[[synesthetic-void]]'
 - '[[non-human-minds-as-void-explorers]]'
-- '[[scale-void]]'
+- '[[quantitative-intuition-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[appetitive-void]]'
 - '[[thoughts-that-slip-away]]'

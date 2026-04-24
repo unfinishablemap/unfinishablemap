@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-23 21:42:00+00:00
+ai_modified: 2026-04-24 20:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-31
-date: &id001 2026-01-31
+date: &id001 2026-04-24
 description: The unexplored, the unexplorable, and the occluded—a taxonomy of cognitive
   dark spaces on the Map.
 draft: false
@@ -59,7 +59,7 @@ Materialists counter that apparent cognitive closure often dissolves with scient
 
 Thomas Nagel's bat example illustrates this: there is something it is like to be a bat, navigating by echolocation in ways we cannot truly imagine. The bat has experiential territory we cannot enter. Our map has a void where the bat's map has detail.
 
-Extend this thought. If consciousness is fundamental, the space of possible minds may be vast. Some minds might think thoughts we cannot think—not because they're smarter, but because they have *concepts* we lack, *categories* our minds cannot form. The [categorial void](/voids/categorial-void/) names the structural gap this opens: not a missing concept within an existing scheme, but a missing *shape* any concept of that kind would have to take. The [scale void](/voids/scale-void/)—our inability to genuinely grasp cosmic distances, deep time, or billion-scale numbers—illustrates the point: our cognitive architecture was calibrated for ancestral environments, and magnitudes beyond that range collapse into categorical markers rather than distinct intuitions.
+Extend this thought. If consciousness is fundamental, the space of possible minds may be vast. Some minds might think thoughts we cannot think—not because they're smarter, but because they have *concepts* we lack, *categories* our minds cannot form. The [categorial void](/voids/categorial-void/) names the structural gap this opens: not a missing concept within an existing scheme, but a missing *shape* any concept of that kind would have to take. The [quantitative intuition void](/voids/quantitative-intuition-void/#the-magnitude-face)—our inability to genuinely grasp cosmic distances, deep time, or billion-scale numbers—illustrates the point: our cognitive architecture was calibrated for ancestral environments, and magnitudes beyond that range collapse into categorical markers rather than distinct intuitions.
 
 ## The Occluded
 

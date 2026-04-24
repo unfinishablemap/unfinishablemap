@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-04-23 20:18:00+00:00
+ai_modified: 2026-04-24 20:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[qualia]]'
 - '[[introspection]]'
 created: 2026-03-22
-date: &id001 2026-03-22
+date: &id001 2026-04-24
 description: Human+AI exploration of why consciousness cannot observe its own recognition
   process—the gap between perceiving and knowing-as, revealed when recognition breaks
   down pathologically or exhausts itself.
@@ -30,7 +30,7 @@ related_articles:
 - '[[binding-void]]'
 - '[[mind-space-void]]'
 - '[[conceptual-impossibility]]'
-- '[[scale-void]]'
+- '[[quantitative-intuition-void]]'
 - '[[disappearance-voids]]'
 - '[[three-kinds-of-void]]'
 - '[[placebo-effect-and-mental-causation]]'
@@ -85,7 +85,7 @@ Each level is more thoroughly invisible than the last. Stanford's problem of unc
 
 ## The Phenomenology of Silence
 
-Most voids on the Map produce characteristic phenomenology at their edges. The [scale void](/voids/scale-void/) produces vertigo. The [self-reference paradox](/voids/self-opacity/) produces the strange-loop sensation. The [edge phenomenology](/voids/phenomenology-of-the-edge/) article catalogues these signatures.
+Most voids on the Map produce characteristic phenomenology at their edges. The [scale face of the quantitative intuition void](/voids/quantitative-intuition-void/#the-magnitude-face) produces vertigo. The [self-reference paradox](/voids/self-opacity/) produces the strange-loop sensation. The [edge phenomenology](/voids/phenomenology-of-the-edge/) article catalogues these signatures.
 
 The Recognition Void is distinctive: **it produces nothing**. Where mechanism opacity is concerned, successful recognition is phenomenologically invisible — you see a face and know who it is without noticing any intervening process. Where inventory blindness is concerned, absent capabilities generate no signal at all. You do not feel the gap where an absent cognitive capacity would be.
 

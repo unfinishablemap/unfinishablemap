@@ -74,7 +74,7 @@ What does it feel like to approach this limit?
 
 **The illusion of centrality.** We naturally assume our form of consciousness is the norm — the default setting. This is cognitive geocentrism, and it resists correction through argument alone. We can intellectually accept that human consciousness might be peripheral or exotic, but we cannot *feel* our way to that understanding. The void manifests as the inability to dislodge this assumption experientially.
 
-**The vertigo of scale.** William James observed that "normal waking consciousness is but one special type of consciousness, whilst all about it, parted from it by the filmiest of screens, there lie potential forms of consciousness entirely different." Contemplating this produces intellectual vertigo — a sense of the ground of assumed normality falling away. The experience echoes the [scale-void](/voids/scale-void/), where cosmic magnitudes overwhelm intuition, but here the scale is in a domain we cannot even visualise.
+**The vertigo of scale.** William James observed that "normal waking consciousness is but one special type of consciousness, whilst all about it, parted from it by the filmiest of screens, there lie potential forms of consciousness entirely different." Contemplating this produces intellectual vertigo — a sense of the ground of assumed normality falling away. The experience echoes the [scale-void](/voids/quantitative-intuition-void/), where cosmic magnitudes overwhelm intuition, but here the scale is in a domain we cannot even visualise.
 
 **The opacity of alternatives.** We can generate labels for hypothetical mind-types: hive minds, non-temporal consciousness, purely aesthetic minds, minds structured around senses we lack. The labels point toward something, but we cannot fill in the phenomenal content. Each label marks a void we cannot illuminate — a pointer without a referent.
 
@@ -109,7 +109,7 @@ The mind-space void connects to all five of the Map's [tenets](/tenets/).
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The characteristic experience of approaching cognitive limits
 - [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) — Whether AI cognition can probe territories closed to human minds
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level cognitive constraints and whether some concepts are permanently inaccessible
-- [scale-void](/voids/scale-void/) — How cosmic magnitudes overwhelm intuition
+- [scale-void](/voids/quantitative-intuition-void/) — How cosmic magnitudes overwhelm intuition
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure without intrinsic nature
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-12
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-04-24 22:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Consciousness research requires multiple methods—first-person, se
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 09:19:00+00:00
+last_deep_review: 2026-04-24 22:31:00+00:00
 modified: *id001
 related_articles:
 - '[[objectivity-and-consciousness]]'
@@ -80,7 +80,7 @@ Husserl's insight in the *Cartesian Meditations* that objectivity is grounded in
 
 Neuroscience, cognitive science, and behavioral experimentation provide public, replicable data about consciousness's physical substrate. Third-person methods excel at identifying neural correlates of consciousness, mapping functional relationships, and testing causal hypotheses about brain-mind interaction.
 
-Their limitation is structural, not temporary: third-person observation can never generate phenomenal knowledge. Knowing everything about pain's neuroscience does not produce knowledge of what pain feels like. This is the [explanatory-gap](/concepts/explanatory-gap/), and it marks the boundary where third-person methods must yield to first-person investigation.
+Their limitation is structural, not temporary: third-person observation can never generate phenomenal knowledge. Knowing everything about pain's neuroscience does not produce knowledge of what pain feels like. Nagel's *The View from Nowhere* (1986) develops this point: any sufficiently objective description leaves out the perspectival features that constitute experience from within. This is the [explanatory-gap](/concepts/explanatory-gap/), and it marks the boundary where third-person methods must yield to first-person investigation.
 
 ## Mutual Constraint: How Methods Interact
 
@@ -92,7 +92,7 @@ Francisco Varela's [neurophenomenology](/concepts/neurophenomenology-and-contemp
 
 This bidirectionality means neither method dominates. Phenomenology without neuroscience risks unfalsifiable speculation; neuroscience without phenomenology risks explaining the wrong thing—substituting functional accounts for phenomenal ones without noticing the substitution.
 
-[Contemplative neuroscience](/topics/contemplative-practice-as-philosophical-evidence/) demonstrates mutual constraint in action. Trained meditators report specific attentional states; neuroscientists find these states correlate with distinct neural patterns (gamma synchrony, default mode network deactivation). Neither finding is achievable by one method alone.
+[Contemplative neuroscience](/topics/contemplative-practice-as-philosophical-evidence/) demonstrates mutual constraint in action. Trained meditators report specific attentional states; neuroscientists find these states correlate with distinct neural patterns—gamma synchrony, default mode network deactivation—as Lutz and Thompson (2003) document in their programmatic articulation of neurophenomenology. Neither finding is achievable by one method alone.
 
 ## Why Monism Fails
 
