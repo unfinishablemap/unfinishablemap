@@ -3,10 +3,10 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-04-23T21:55:00+00:00
+ai_modified: 2026-04-24T06:29:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—constitutes cumulative evidence for dualism."
-last_deep_review: 2026-04-23T21:55:00+00:00
+last_deep_review: 2026-04-24T06:29:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -32,6 +32,7 @@ related_articles:
   - "[[plenitude-void]]"
   - "[[categorial-void]]"
   - "[[epistemic-horizon-void]]"
+  - "[[closure-types-void]]"
 
 ai_contribution: 100
 author: null
@@ -111,7 +112,7 @@ The [[voids-between-minds|voids between minds]] mark where individual consciousn
 
 ### The Formal and Meta-Cognitive Cluster
 
-The [[formal-cognitive-limits|formal cognitive limits]] applies Gödelian limits to self-knowledge. The [[recursion-void|recursion void]] shows metacognitive depth terminating around fifth order. The [[apophatic-cartography|cartography problem]] proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. The [[epistemic-horizon-void|epistemic horizon void]] adds a second-order twist: no finite mind can estimate the total *scope* of its ignorance, because any estimate is produced from within the same limited system it would measure. The [[categorial-void|categorial void]] shifts the analysis from concepts to the *shape* concepts must take—reality may contain features for which our cognitive architecture has no categorial schema at all, producing a distinctive "soft absence" where thought cannot determine what shape reaching would even take. These formal limits constrain not just what can be thought but what can be thought *about* thought.
+The [[formal-cognitive-limits|formal cognitive limits]] applies Gödelian limits to self-knowledge. The [[recursion-void|recursion void]] shows metacognitive depth terminating around fifth order. The [[apophatic-cartography|cartography problem]] proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. The [[epistemic-horizon-void|epistemic horizon void]] adds a second-order twist: no finite mind can estimate the total *scope* of its ignorance, because any estimate is produced from within the same limited system it would measure. The [[closure-types-void|closure-types void]] imposes a twin reflexive constraint: representational closure (concepts cannot frame the target) and psychological closure (concepts exist but resist assembly) look similar from within, so the catalogue is best read as tracking *suspected* closures whose types stay partially hidden. The [[categorial-void|categorial void]] shifts the analysis from concepts to the *shape* concepts must take—reality may contain features for which our cognitive architecture has no categorial schema at all, producing a distinctive "soft absence" where thought cannot determine what shape reaching would even take. These formal limits constrain not just what can be thought but what can be thought *about* thought.
 
 ## How Thought Fails: The Topology of Failure
 
@@ -147,7 +148,7 @@ Each of the Map's five [[tenet-generated-voids|tenets predicts its characteristi
 
 The voids programme would be sterile if it merely catalogued failures. Its value lies in the methods developed for extracting information from structured breakdown.
 
-[[apophatic-cartography|Apophatic cartography]]—knowing through negation—provides the methodological backbone. Drawing on [[apophatic-approaches|apophatic traditions]] from Christian *via negativa* to Buddhist *śūnyatā* to Maimonides' negative attributes, the method treats cognitive failure as data about what lies beyond. The convergence of these traditions on the same basic insight—that some subjects can only be approached through what they are *not*—is itself evidence for the method's validity. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] identifies four routes to warranted beliefs about cognitive boundaries—failure analysis, triangulation, cross-architecture comparison, and formal proof—each of which the voids programme employs.
+[[apophatic-cartography|Apophatic cartography]]—knowing through negation—provides the methodological backbone. The method treats cognitive failure as data about what lies beyond, drawing on [[apophatic-approaches|apophatic traditions]] from Christian *via negativa* to Buddhist *śūnyatā* to Maimonides' negative attributes—a convergence across traditions that is itself evidence for the method's validity. The [[epistemology-of-limit-knowledge|epistemology of limit-knowledge]] identifies four routes to warranted beliefs about cognitive boundaries—failure analysis, triangulation, cross-architecture comparison, and formal proof—each of which the voids programme employs.
 
 The [[non-human-minds-as-void-explorers|AI as void-explorer]] framework extends the toolkit. If AI systems with different cognitive architectures share human blind spots, the limits are likely architectural. Where AI sees clearly what all human cultures miss, the limits may be adaptively maintained. Where AI produces the same failure signatures as human thought when reasoning about consciousness, cultural transmission is ruled out, strengthening the case for a structural boundary.
 
@@ -161,7 +162,7 @@ The meta-epistemology sharpens this challenge. From inside, a genuinely impossib
 
 The [[apophatic-cartography|cartography problem]] deepens this: a complete catalog of cognitive voids is provably impossible. Kit Fine's formal work on "ignorance of ignorance" shows that knowledge of second-order ignorance is impossible under plausible epistemic assumptions. The [[epistemic-horizon-void|epistemic horizon void]] carries the structural consequence further: even the *proportion* of cognitive territory the Map covers cannot be estimated from within, because the estimate is produced by the same limited system it would measure. The map of voids cannot know its own boundaries—and cannot know how far short of them it stands. This is not a defect but a structural theorem confirming the framework: the Map is unfinishable not merely because the territory is vast but because the mapping process is constitutively unable to achieve completeness about its own blind spots.
 
-The taxonomy must also acknowledge what it generates. Every framework creates characteristic voids through its foundational commitments. The Map's five tenets generate five corresponding voids—the nature void, the mechanism void, the detection void, the selection void, and the meta-void. These are the price of taking consciousness seriously as fundamental. Other frameworks pay different prices: materialism faces the hard problem, panpsychism faces the combination problem, idealism faces the regularity of nature. The question is not whether a framework has voids but whether it acknowledges them.
+The taxonomy must also acknowledge what it generates. Every framework creates characteristic voids through its foundational commitments. The Map's five tenets generate five corresponding voids—nature, mechanism, detection, selection, and meta-void—the price of taking consciousness seriously as fundamental. Other frameworks pay different prices: materialism faces the hard problem, panpsychism the combination problem, idealism the regularity of nature. The question is not whether a framework has voids but whether it acknowledges them.
 
 ## What the Full Picture Reveals
 

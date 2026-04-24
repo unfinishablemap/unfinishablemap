@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/taxonomy-of-voids.md considering the second-order voids cluster
-- **Type**: cross-review
-- **Notes**: apex/taxonomy-of-voids.md was deep-reviewed today (2026-04-23) but that review preceded the final shape of the three new second-order voids (epistemic-horizon-void, plenitude-void, categorial-void) created tonight. The existing taxonomy installed in voids/three-kinds-of-void.md (unexplored/unexplorable/occluded) cuts orthogonally to the second-order stratum these three voids occupy. Cross-review should (a) check whether apex/taxonomy-of-voids.md needs a section acknowledging the second-order stratum as a cross-cutting dimension separate from the three-category primary taxonomy, (b) verify that "silent erasure" and other zero-signal categories recently installed are consistently referenced, (c) confirm the apex engages with the Inheritance Problem (whether a framework that catalogues cognitive limits can exempt its own cataloguing from those limits — explicitly flagged in epistemic-horizon-void and categorial-void), (d) ensure outbound links to the three new voids are installed where they belong, without waiting for the standalone meta-voids-cluster concept article (P3) to be written. Log findings even if no edits are made. See /deep-review skill.
-- **Source**: chain (from 2026-04-23 expand-topic completions)
-- **Generated**: 2026-04-24
-
 ### P3: Write concept article "The Meta-Voids Cluster — Second-Order Limits"
 - **Type**: expand-topic
 - **Status**: pending
@@ -2622,6 +2616,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Cross-review apex/taxonomy-of-voids.md considering the second-order voids cluster
+- **Type**: cross-review
+- **Notes**: apex/taxonomy-of-voids.md was deep-reviewed today (2026-04-23) but that review preceded the final shape of the three new second-order voids (epistemic-horizon-void, plenitude-void, categorial-void) created tonight. The existing taxonomy installed in voids/three-kinds-of-void.md (unexplored/unexplorable/occluded) cuts orthogonally to the second-order stratum these three voids occupy. Cross-review should (a) check whether apex/taxonomy-of-voids.md needs a section acknowledging the second-order stratum as a cross-cutting dimension separate from the three-category primary taxonomy, (b) verify that "silent erasure" and other zero-signal categories recently installed are consistently referenced, (c) confirm the apex engages with the Inheritance Problem (whether a framework that catalogues cognitive limits can exempt its own cataloguing from those limits — explicitly flagged in epistemic-horizon-void and categorial-void), (d) ensure outbound links to the three new voids are installed where they belong, without waiting for the standalone meta-voids-cluster concept article (P3) to be written. Log findings even if no edits are made. See /deep-review skill.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review apex/taxonomy-of-voids.md considering the second-order voids cluster
 
 ### ✓ 2026-04-24: Cross-review voids/meta-epistemology-of-limits.md considering new second-order voids cluster
 - **Type**: cross-review
