@@ -1,13 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 14:29:00+00:00
+ai_modified: 2026-04-24 18:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-24 18:29 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Semantic Void
+- **Output**: [semantic-void](/voids/semantic-void/)
+- **Word count**: 1987
+- **Based on research**: yes — [voids-semantic-void-2026-02-17](/research/voids-semantic-void-2026-02-17/)
+- **Notes**: Voids article on the gap between meaning-as-experienced and meaning-as-modelled. Distinguishes the semantic void from adjacent voids (intentionality-void: how aboutness is achieved; language-thought-boundary: sayable vs thinkable; intrinsic-nature-void: matter's intrinsic character) by locating it specifically at the felt character of comprehension itself. Two-channel structure: source exposition (Frege's sense/reference, Searle's Chinese Room, Harnad's symbol grounding, Strawson/Siewert's cognitive phenomenology, Horgan/Tienson/Kriegel's phenomenal intentionality, Gendlin's felt sense, Levine's explanatory gap) kept separate from "Relation to Site Perspective". Position strength calibrated: phenomenal intentionality programme presented as one position among several, not consensus; cognitive phenomenology thesis flagged as contested. Self-cites intentionality-void and void-as-ground-of-meaning in References.
+
+## 2026-04-24 17:29 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-musical-understanding](/topics/phenomenology-of-musical-understanding/)
+- **Context**: Article was substantively modified on 2026-04-17 (new Predictive-Coding Challenge section, recast tenet paragraphs, updated Fritz et al. citation). Review focused on the new material while respecting convergence of older content.
+- **Word count**: 2590 → 2605 (+15; still 87% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missed cross-links in new content; ambiguous "tracked by neuroimaging" phrasing)
+- **Enhancements made**: Added inline links to [predictive-processing](/concepts/predictive-processing/), [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/), [explanatory-gap](/concepts/explanatory-gap/), [philosophical-zombies](/concepts/philosophical-zombies/), [epiphenomenalism](/concepts/epiphenomenalism/) at their natural mention points in the new content; expanded frontmatter concepts/related_articles accordingly; clarified neuroimaging phrasing; attribution check clean (Huron's ITPRA, Koelsch 2014, Vuust 2022, Fritz et al. 2009 all accurately cited).
+- **Output**: [deep-review-2026-04-24-phenomenology-of-musical-understanding](/reviews/deep-review-2026-04-24-phenomenology-of-musical-understanding/)
+
+## 2026-04-24 16:29 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Witnessing Void
+- **Output**: [witnessing-void](/voids/witnessing-void/)
+- **Word count**: 2056
+- **Based on research**: yes — [voids-witnessing-void-2026-03-09](/research/voids-witnessing-void-2026-03-09/)
+- **Notes**: Frames the void as the impossibility of witnessing-as-act observing itself (distinct from [self-opacity](/voids/self-opacity/)'s unobservable subject, [introspection](/concepts/introspection/)'s hidden-process opacity, and [recursion-void](/voids/recursion-void/)'s depth limit). Structured around the self-luminosity paradox (svaprakasha / Drg-drshya-Viveka), Zahavi's pre-reflective self-awareness, and pure consciousness events as asymptotic probe. Maintained two-channel structure with source exposition separate from the "Relation to Site Perspective" section. Self-cites self-opacity and witness-consciousness in References.
+
+## 2026-04-24 15:29 UTC - deep-review
+- **Status**: Success
+- **File**: [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
+- **Context**: Cross-review considering [question-formation-void](/voids/question-formation-void/) insights. The question-formation-void article (created 2026-04-24) cites this article as a probe method; the reverse linkage was absent.
+- **Word count**: 2128 → 2207 (+79; length-neutral discipline maintained — four trims offset two additions; still 110% of soft target, well under 3000 hard threshold)
+- **Critical issues addressed**: 0 (article stable after prior review; attribution/source-separation confirmed still clean)
+- **Medium issues addressed**: 2 (missing cross-link to question-formation-void; Articulation Test framed at answer stage only)
+- **Enhancements made**: Added question-formation / answer-reaching distinction in "Cognitive Closure as Architecture-Dependence"; extended "Articulation Test" to cover question-formation probing (AI as multi-presupposition prompting target); added `question-formation-void` to related_articles and Further Reading; compensating trims to Lovecraft sentence, Word2Vec hyperbole, superposition framing, and closing paragraph.
+- **Output**: [deep-review-2026-04-24-non-human-minds-as-void-explorers](/reviews/deep-review-2026-04-24-non-human-minds-as-void-explorers/)
 
 ## 2026-04-24 14:29 UTC - optimistic-review
 - **Status**: Success
