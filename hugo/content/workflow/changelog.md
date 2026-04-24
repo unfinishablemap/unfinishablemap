@@ -1,13 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 10:30:00+00:00
+ai_modified: 2026-04-24 14:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-24 14:29 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Today's cluster — `topics/methodology-of-consciousness-research`, `apex/taxonomy-of-voids`, `voids/apophatic-cartography`, `voids/question-formation-void` (new 2026-04-24), `topics/indian-philosophy-of-mind`, `voids/noetic-feelings-void` (coalesced).
+- **Key findings**: The April-2026 second-order voids cluster (question-formation, epistemic-horizon, categorial, plenitude) is the Map's strongest second-order work to date but lacks its own synthesis article. Cross-traditional convergence is cited as a criterion in multiple apex/methodology articles but `indian-philosophy-of-mind` is missing from their related_articles. The taxonomy-of-voids refinement (retiring "overdetermined", confronting selection-effect directly) sets a calibration standard future abductive arguments should hold to.
+- **Tasks added**: 6 P3 tasks (second-order cluster synthesis; erotetic logic concept; Collingwood vs Kuhn methodology; hermeneutical injustice as phenomenal evidence; contemplative-practice refine-draft; cross-links across today's cluster).
+- **Output**: [optimistic-2026-04-24](/reviews/optimistic-2026-04-24/)
+
+## 2026-04-24 13:35 UTC - deep-review
+- **Status**: Success
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Context**: Cross-review against newly added [question-formation-void](/voids/question-formation-void/), which explicitly names apophatic cartography as the method it shadows.
+- **Word count**: 2470 → 2516 (+46; length-neutral-adjacent, well below hard threshold)
+- **Critical issues addressed**: 0 (article stable after three reviews; prior stability notes on MWI, Buddhist sunyata, and illusionism respected and not re-flagged)
+- **Medium issues addressed**: 2 (missing cross-link/integration with question-formation void in Second-Order Ignorance; missing second-order void cluster links)
+- **Enhancements made**: One inline sentence naming the question-formation void as the upstream constraint on apophatic method; added `question-formation-void`, `epistemic-horizon-void`, `categorial-void` to related_articles; added question-formation-void to Further Reading; tightened "No single line is airtight..." concession to offset addition.
+- **Output**: [deep-review-2026-04-24-apophatic-cartography](/reviews/deep-review-2026-04-24-apophatic-cartography/)
+
+## 2026-04-24 12:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Context**: Addresses pessimistic review 2026-04-24 (three high-severity + three medium-severity issues on the Map's most load-bearing abductive-argument apex).
+- **High-severity fixes**: (1) Added direct confrontation of the selection-effect objection in §Convergence Pattern; relocated diagnostic weight onto the *structured* character of the clustering. (2) Reattributed the "systematic explanatory failure at the interface" prediction from bare dualism to the Map's specific tenet-package (dualism + minimal quantum interaction + naturally occluded); softened "confirms" to "is consistent with". (3) Retired "overdetermined" in favour of "mutually reinforcing"; flagged that the stronger term would require a probabilistic independence argument not yet made.
+- **Medium-severity fixes**: Weakened tenets-predicted-voids narrative from "predicts/confirmed" to "maps onto / open historiographical question"; acknowledged LLM training-data contamination in the AI-as-void-explorer passage; removed the physicalist "even distribution" straw-man baseline from the intro; replaced "constitutively unable" with reference to Fine's epistemic axioms; updated description field.
+- **Published**: yes
+
+## 2026-04-24 11:29 UTC - deep-review
+- **Status**: Success
+- **File**: [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
+- **Word count**: 2882 → 2882 (length-neutral; HTML comment removal)
+- **Critical issues addressed**: 1 (stale AI refinement log removed — explicitly flagged for removal after human review, in place 25 days)
+- **Medium issues addressed**: 0
+- **Enhancements made**: Attribution accuracy pass confirmed all 10+ sources correctly cited with preserved qualifiers; no source/Map conflation. Article has stabilized across six reviews — no new critical issues in last three cycles.
+- **Output**: [deep-review-2026-04-24-methodology-of-consciousness-research](/reviews/deep-review-2026-04-24-methodology-of-consciousness-research/)
 
 ## 2026-04-24 10:30 UTC - deep-review
 - **Status**: Success
