@@ -32,7 +32,7 @@ related_articles:
 - '[[self-transcendence-void]]'
 - '[[framework-void]]'
 - '[[necessary-opacity]]'
-- '[[understanding-void]]'
+- '[[noetic-feelings-void]]'
 - '[[thoughts-that-slip-away]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
@@ -208,7 +208,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 - [Necessary Opacity](/voids/necessary-opacity/) — Whether the medium of representation introduces systematic distortion
 - [The Phenomenology of Self-Awareness](/voids/self-opacity/) — Self-reference and the bootstrap problem
 - [The Framework Void](/voids/framework-void/) — How frameworks exclude what they cannot represent
-- [The Understanding Void](/voids/noetic-feelings-void/) — Passive analogue: territory that feels already known (self-evidence face)
+- [The Noetic Feelings Void](/voids/noetic-feelings-void/) — Passive analogue: territory that feels already known (self-evidence face of understanding)
 - [The Agency Verification Void](/voids/agency-verification-void/) — The circularity of consciousness probing its own limits
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural limits (architectural occlusion)
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge

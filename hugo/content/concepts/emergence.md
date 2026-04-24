@@ -33,7 +33,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[quantum-measurement-and-consciousness]]'
-- '[[understanding-void]]'
+- '[[noetic-feelings-void]]'
 title: Emergence
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -189,7 +189,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [supervenience](/concepts/supervenience/) — Why phenomenal-physical covariance does not entail physicalism
 - [causal-closure](/concepts/causal-closure/) — The principle strong emergentism must deny
 - [explanatory-gap](/concepts/explanatory-gap/) — The chasm between physical descriptions and conscious experience
-- [understanding-void](/voids/noetic-feelings-void/) — Why explanation cannot explain itself—the recursive opacity the transparency test relies on
+- [noetic-feelings-void](/voids/noetic-feelings-void/) — Why explanation cannot explain itself—the recursive opacity the transparency test relies on
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists reduction
 - [free-will](/topics/free-will/) — The debate over whether genuine choice exists and what it requires
 - [binding-problem](/concepts/binding-problem/) — How distributed processes achieve phenomenal unity

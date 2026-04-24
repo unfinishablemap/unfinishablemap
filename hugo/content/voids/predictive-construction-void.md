@@ -23,7 +23,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[necessary-opacity]]'
-- '[[understanding-void]]'
+- '[[noetic-feelings-void]]'
 - '[[simulation-detection-void]]'
 - '[[self-opacity]]'
 - '[[framework-void]]'
@@ -124,7 +124,7 @@ This is a falsifiability risk, not only a feature. Treating first-person opacity
 ## Further Reading
 
 - [necessary-opacity](/voids/necessary-opacity/) — Why opacity may be a feature rather than a bug
-- [understanding-void](/voids/noetic-feelings-void/) — How self-evidence terminates inquiry and explanation cannot explain itself
+- [noetic-feelings-void](/voids/noetic-feelings-void/) — How self-evidence terminates inquiry and explanation cannot explain itself
 - [simulation-detection-void](/voids/simulation-detection-void/) — The related void of detecting simulated substrates
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive processing reinterpreted for dualist frameworks
 - [dualist-perception](/topics/dualist-perception/) — How dualism reshapes the philosophy of perception
