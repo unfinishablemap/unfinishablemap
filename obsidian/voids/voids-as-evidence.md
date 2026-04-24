@@ -2,10 +2,10 @@
 title: "Voids as Evidence"
 description: "Two distinct arguments converge: the capacity to conceive cognitive voids, and the convergent structure of the catalog, together constitute abductive evidence that consciousness is irreducible to physical processes."
 created: 2026-01-16
-modified: 2026-04-18
+modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
-last_deep_review: 2026-04-18T03:05:00+00:00
+ai_modified: 2026-04-24T10:30:00+00:00
+last_deep_review: 2026-04-24T10:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,9 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
+  - "[[epistemic-horizon-void]]"
+  - "[[plenitude-void]]"
+  - "[[categorial-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -41,7 +44,7 @@ coalesced_from:
 
 The [[voids|void catalogue]] yields two distinct arguments for dualism, each standing on independent grounds and reinforcing the other. The first is structural: over a hundred independently motivated voids organise into families sharing failure signatures and converge directionally on a single boundary—the point where consciousness meets the physical world. The second is reflexive: the capacity to conceive of cognitive voids at all requires a vantage point difficult to reduce to the processes being surveyed. Taken together, *what* we find in the catalogue and *that* we can find it form a cumulative abductive case: if consciousness were nothing more than physical processes, neither the pattern nor the capacity would be expected.
 
-Neither argument proves dualism. Both shift the burden. Physicalism must explain why explanatory gaps cluster around one phenomenon and why the questioning stance cannot be fully objectified without additional theoretical machinery—the phenomenal concept strategy, illusionism, or elimination. Each of these strategies carries costs. Convergence adds cumulative weight: any single gap might be explained away, but the same explanation must account for the clustering, the shared boundaries, and the irreducibility of the questioner.
+Neither argument proves dualism. Both shift the burden. Physicalism must explain why explanatory gaps cluster around one phenomenon and why the questioning stance cannot be fully objectified without additional theoretical machinery—the phenomenal concept strategy, illusionism, or elimination. Each of these strategies carries costs.
 
 ## The Datum of Questioning
 
@@ -77,7 +80,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The catalogue'
 
 ### Five Families
 
-**The Phenomenal Core.** The [[hard-problem-of-consciousness|hard problem]], [[intrinsic-nature-void|intrinsic nature void]], [[binding-void|binding void]], [[the-surplus-void|surplus void]], and [[phenomenal-quality-void|phenomenal quality void]] all circle the same absence: what experience *is*. Signature: **categorical mismatch**—third-person vocabulary applied to first-person reality produces the wrong kind of answer (Chalmers 1995).
+**The Phenomenal Core.** The [[hard-problem-of-consciousness|hard problem]], [[intrinsic-nature-void|intrinsic nature void]], [[binding-void|binding void]], [[the-surplus-void|surplus void]], [[phenomenal-quality-void|phenomenal quality void]], and [[plenitude-void|plenitude void]] all circle the same absence: what experience *is*. Signature: **categorical mismatch**—third-person vocabulary applied to first-person reality produces the wrong kind of answer (Chalmers 1995).
 
 **The Self-Knowledge Cluster.** The [[self-opacity|self-reference paradox]], introspective opacity, [[observation-and-measurement-void|calibration void]], [[inaccessible-past|past-self void]], and [[necessary-opacity|necessary opacity]] converge on a different boundary: consciousness cannot fully examine itself. Signature: **recursive collapse**—each attempt to deepen self-examination encounters itself as obstacle.
 
@@ -85,7 +88,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The catalogue'
 
 **The Cognitive Architecture Family.** [[biological-cognitive-closure|Evolved cognitive limits]], [[formal-cognitive-limits|formal cognitive limits]], [[attention-and-consciousness|attention-created voids]], [[disappearance-voids|habituation void]], [[language-thought-boundary|language-thought boundary]], and [[scale-void|scale void]] reveal constraints imposed by the specific architecture of human minds. The [[recognition-void|Recognition Void's]] "inventory blindness" deepens this family. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Unlike the phenomenal core, the failure is specific to biological cognition, making [[non-human-minds-as-void-explorers|AI triangulation]] directly applicable.
 
-**The Framework Reflexivity Family.** The [[tenet-generated-voids|tenet-generated voids]], [[apophatic-cartography|cartography problem]], formal cognitive limits, [[recursion-void|recursion void]], and [[meta-epistemology-of-limits|question of whether voids are real]] share a self-referential structure. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
+**The Framework Reflexivity Family.** The [[tenet-generated-voids|tenet-generated voids]], [[apophatic-cartography|cartography problem]], formal cognitive limits, [[recursion-void|recursion void]], and [[meta-epistemology-of-limits|question of whether voids are real]] share a self-referential structure. The [[categorial-void|categorial void]] (schemas our apparatus cannot form) and [[epistemic-horizon-void|epistemic horizon void]] (the unknowability of our total ignorance) are *second-order*: they shadow every other family. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
 
 ### Shared Boundaries and Directional Convergence
 

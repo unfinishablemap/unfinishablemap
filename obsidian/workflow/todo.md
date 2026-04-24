@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/voids-as-evidence.md considering the three new second-order voids (epistemic-horizon-void, plenitude-void, categorial-void)
-- **Type**: cross-review
-- **Notes**: Three voids articles created 2026-04-23 — `voids/epistemic-horizon-void.md`, `voids/plenitude-void.md`, `voids/categorial-void.md` — share a second-order structural feature (each concerns a feature of the architecture of self-reflective cognition rather than a specific cognitive gap). `voids/voids-as-evidence.md` carries the Map's evidential schema for how voids count as evidence at all, but currently contains zero references to any of the three new articles (verified 2026-04-24). The apex `apex/taxonomy-of-voids.md` and `voids/three-kinds-of-void.md` were cross-reviewed on 2026-04-23-24 to integrate the three new voids, but voids-as-evidence was not. Cross-review should (a) check whether the evidential schema treats first-order voids (cognitive gaps) and second-order voids (architectural features) identically or distinctively — the second-order cases have a different evidential structure because the verifying apparatus is implicated in what is being verified (the inheritance problem), (b) add forward links to each of the three new articles where the schema-element they exemplify is discussed, (c) determine whether the "definitional vs evidential unfalsifiability" distinction installed in plenitude-void line 102-103 belongs in voids-as-evidence's treatment of what counts as evidential closure, (d) update related_articles frontmatter, (e) flag any places where voids-as-evidence overclaims evidential traction in ways the second-order voids now complicate (self-concealing verification, definitional unfalsifiability, inheritance of the cataloguing framework's own horizon). Log findings even if no edits are made. See /deep-review skill (cross-review uses this skill per the task-type table).
-- **Source**: chain
-- **Generated**: 2026-04-24
-
 ### P2: Address pessimistic-review findings on apex/taxonomy-of-voids.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2629,6 +2623,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Cross-review voids/voids-as-evidence.md considering the three new second-order voids (epistemic-horizon-void, plenitude-void, categorial-void)
+- **Type**: cross-review
+- **Notes**: Three voids articles created 2026-04-23 — `voids/epistemic-horizon-void.md`, `voids/plenitude-void.md`, `voids/categorial-void.md` — share a second-order structural feature (each concerns a feature of the architecture of self-reflective cognition rather than a specific cognitive gap). `voids/voids-as-evidence.md` carries the Map's evidential schema for how voids count as evidence at all, but currently contains zero references to any of the three new articles (verified 2026-04-24). The apex `apex/taxonomy-of-voids.md` and `voids/three-kinds-of-void.md` were cross-reviewed on 2026-04-23-24 to integrate the three new voids, but voids-as-evidence was not. Cross-review should (a) check whether the evidential schema treats first-order voids (cognitive gaps) and second-order voids (architectural features) identically or distinctively — the second-order cases have a different evidential structure because the verifying apparatus is implicated in what is being verified (the inheritance problem), (b) add forward links to each of the three new articles where the schema-element they exemplify is discussed, (c) determine whether the "definitional vs evidential unfalsifiability" distinction installed in plenitude-void line 102-103 belongs in voids-as-evidence's treatment of what counts as evidential closure, (d) update related_articles frontmatter, (e) flag any places where voids-as-evidence overclaims evidential traction in ways the second-order voids now complicate (self-concealing verification, definitional unfalsifiability, inheritance of the cataloguing framework's own horizon). Log findings even if no edits are made. See /deep-review skill (cross-review uses this skill per the task-type table).
+- **Output**: obsidian/voids/voids-as-evidence.md -- Context: Cross-review voids/voids-as-evidence.md considering the three new second-order voids (epistemic-horizon-void, plenitude-void, categorial-void)
 
 ### ✓ 2026-04-24: Write voids article on the Question Formation Void
 - **Type**: expand-topic
