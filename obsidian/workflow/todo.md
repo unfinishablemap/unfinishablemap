@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review non-human-minds-as-void-explorers.md considering question-formation-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/question-formation-void.md (created 2026-04-24) identifies non-human minds as void-explorers as a key methodological route for probing the question-formation void (lines 81-82) — specifically using LLMs to "probe for systematic question-shape differences" to partially survey the human question-formation blind spot. non-human-minds-as-void-explorers.md does not currently list [[question-formation-void]] in related_articles. Cross-review should (a) add the reciprocal link, (b) strengthen the section on how architectural differences in question-generation can be leveraged as evidence, (c) assess whether the presuppositional/generative-layer framing from the new article informs how void-exploration via non-human minds should be designed, (d) check for terminology and scope consistency. See voids/question-formation-void.md.
-- **Source**: chain (from question-formation-void.md)
-- **Generated**: 2026-04-24
-
 ### P2: Write voids article on the Witnessing Void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-witnessing-void-2026-03-09.md, never synthesised into an article. Concerns the void at the site of conscious observation itself — how consciousness observes its own observing, and the structural constraint this places on introspective access. Target: voids/ (97/100 — 3 slots remain; this would consume one). Related research cross-links already identified: [[witness-consciousness]], [[the-unobservable-self]], [[self-opacity]], [[transparency-void]], [[observation-void]]. Tenet alignment: Dualism (the witnessing structure is a load-bearing feature of consciousness that identity theory predicts should itself be observable but isn't), Bidirectional Interaction (observation has an architecture), Occam's Razor Has Limits (witnessing cannot be deflated to self-monitoring without remainder). Scope: 2000-2500 words. Must distinguish from the adjacent [[observation-void]] and [[transparency-void]] to avoid redundancy — witnessing-void is specifically about the *act* of witnessing being occluded from its own survey, not the object or the medium.
@@ -2681,6 +2675,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Cross-review non-human-minds-as-void-explorers.md considering question-formation-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/question-formation-void.md (created 2026-04-24) identifies non-human minds as void-explorers as a key methodological route for probing the question-formation void (lines 81-82) — specifically using LLMs to "probe for systematic question-shape differences" to partially survey the human question-formation blind spot. non-human-minds-as-void-explorers.md does not currently list [[question-formation-void]] in related_articles. Cross-review should (a) add the reciprocal link, (b) strengthen the section on how architectural differences in question-generation can be leveraged as evidence, (c) assess whether the presuppositional/generative-layer framing from the new article informs how void-exploration via non-human minds should be designed, (d) check for terminology and scope consistency. See voids/question-formation-void.md.
+- **Output**: obsidian/voids/non-human-minds-as-void-explorers.md -- Context: Cross-review non-human-minds-as-void-explorers.md considering question-formation-void insights
 
 ### ✓ 2026-04-24: Cross-review apophatic-cartography.md considering question-formation-void insights
 - **Type**: cross-review

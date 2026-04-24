@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 14:29:00+00:00
+ai_modified: 2026-04-24 15:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-24 15:29 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/non-human-minds-as-void-explorers]]
+- **Context**: Cross-review considering [[voids/question-formation-void]] insights. The question-formation-void article (created 2026-04-24) cites this article as a probe method; the reverse linkage was absent.
+- **Word count**: 2128 → 2207 (+79; length-neutral discipline maintained — four trims offset two additions; still 110% of soft target, well under 3000 hard threshold)
+- **Critical issues addressed**: 0 (article stable after prior review; attribution/source-separation confirmed still clean)
+- **Medium issues addressed**: 2 (missing cross-link to question-formation-void; Articulation Test framed at answer stage only)
+- **Enhancements made**: Added question-formation / answer-reaching distinction in "Cognitive Closure as Architecture-Dependence"; extended "Articulation Test" to cover question-formation probing (AI as multi-presupposition prompting target); added `question-formation-void` to related_articles and Further Reading; compensating trims to Lovecraft sentence, Word2Vec hyperbole, superposition framing, and closing paragraph.
+- **Output**: [[reviews/deep-review-2026-04-24-non-human-minds-as-void-explorers]]
 
 ## 2026-04-24 14:29 UTC - optimistic-review
 - **Status**: Success
