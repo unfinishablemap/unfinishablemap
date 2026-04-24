@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 17:29:00+00:00
+ai_modified: 2026-04-24 18:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-24 18:29 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Semantic Void
+- **Output**: [[voids/semantic-void]]
+- **Word count**: 1987
+- **Based on research**: yes — [[research/voids-semantic-void-2026-02-17]]
+- **Notes**: Voids article on the gap between meaning-as-experienced and meaning-as-modelled. Distinguishes the semantic void from adjacent voids (intentionality-void: how aboutness is achieved; language-thought-boundary: sayable vs thinkable; intrinsic-nature-void: matter's intrinsic character) by locating it specifically at the felt character of comprehension itself. Two-channel structure: source exposition (Frege's sense/reference, Searle's Chinese Room, Harnad's symbol grounding, Strawson/Siewert's cognitive phenomenology, Horgan/Tienson/Kriegel's phenomenal intentionality, Gendlin's felt sense, Levine's explanatory gap) kept separate from "Relation to Site Perspective". Position strength calibrated: phenomenal intentionality programme presented as one position among several, not consensus; cognitive phenomenology thesis flagged as contested. Self-cites intentionality-void and void-as-ground-of-meaning in References.
 
 ## 2026-04-24 17:29 UTC - deep-review
 - **Status**: Success

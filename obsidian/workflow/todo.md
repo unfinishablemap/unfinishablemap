@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the Semantic Void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-semantic-void-2026-02-17.md, never synthesised into an article. Concerns the gap between phenomenal content and linguistic meaning — the structural ineffability of qualia under any natural-language representation system. Target: voids/ (97/100 — 3 slots remain; this would consume one). Related cross-links: [[intentionality-void]], [[language-thought-boundary]], [[intrinsic-nature-void]], [[pre-conceptual-knowing]], [[cognitive-phenomenology]]. Adjacent existing articles: [[the-silence-void]] (ineffability of phenomenal content) and [[language-thought-boundary]] — must distinguish semantic-void from these: semantic-void is specifically about the *semantic* gap (meaning vs content) rather than the broader ineffability (silence-void) or the representational architecture question (language-thought-boundary). Tenet alignment: Dualism (semantic gap is a structural consequence of non-reducibility), Occam's Razor Has Limits. Scope: 2000-2500 words.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-24
-
 ### P2: Integrate creative-aesthetic-void.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has zero inbound wikilinks across active content (grep `[[creative-aesthetic-void` returns only workflow/changelog.md). Article concerns consciousness's inability to generate genuinely novel phenomenal content, articulate aesthetic experience, or observe its own generative process. Integration candidates to survey: [[aesthetics-and-consciousness]] (topics/, the coalesced aesthetics hub) likely should link to it; [[phenomenology-of-imagination]], [[spontaneous-thought-void]], [[the-surplus-void]], and [[consciousness-and-aesthetic-creation]] (now archived as aesthetics-and-consciousness) are strong candidates for reciprocal cross-links. The voids index (voids/voids.md) should list creative-aesthetic-void if it currently doesn't. Add inbound references from 3-5 most-related articles and update section index pages as appropriate.
@@ -2663,6 +2657,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Write voids article on the Semantic Void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-semantic-void-2026-02-17.md, never synthesised into an article. Concerns the gap between phenomenal content and linguistic meaning — the structural ineffability of qualia under any natural-language representation system. Target: voids/ (97/100 — 3 slots remain; this would consume one). Related cross-links: [[intentionality-void]], [[language-thought-boundary]], [[intrinsic-nature-void]], [[pre-conceptual-knowing]], [[cognitive-phenomenology]]. Adjacent existing articles: [[the-silence-void]] (ineffability of phenomenal content) and [[language-thought-boundary]] — must distinguish semantic-void from these: semantic-void is specifically about the *semantic* gap (meaning vs content) rather than the broader ineffability (silence-void) or the representational architecture question (language-thought-boundary). Tenet alignment: Dualism (semantic gap is a structural consequence of non-reducibility), Occam's Razor Has Limits. Scope: 2000-2500 words.
+- **Output**: Write voids article on the Semantic Void
 
 ### ✓ 2026-04-24: Write voids article on the Witnessing Void
 - **Type**: expand-topic
