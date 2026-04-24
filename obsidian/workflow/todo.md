@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/quantitative-intuition-void.md (3176 words, 159% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 2000-word hard threshold for voids/ (target 2000, current 3176 — 159% of target). Product of the 2026-04-24 coalesce of scale-void + probability-intuition-void. Preserve core arguments (quantitative-intuition as a family of void: scale discontinuity at threshold magnitudes; Born-rule probability as a particularly intense case; the introspective invariance that does not shrink to match parametric scale) while removing redundancy between the two merged strands. Target ~2200-2500 words. See /condense skill and reviews/deep-review-2026-04-24-quantitative-intuition-void.md if present.
-- **Source**: length_analysis
-- **Generated**: 2026-04-24
-
 ### P2: Integrate voids/witnessing-void.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2686,6 +2679,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Condense voids/quantitative-intuition-void.md (3176 words, 159% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 2000-word hard threshold for voids/ (target 2000, current 3176 — 159% of target). Product of the 2026-04-24 coalesce of scale-void + probability-intuition-void. Preserve core arguments (quantitative-intuition as a family of void: scale discontinuity at threshold magnitudes; Born-rule probability as a particularly intense case; the introspective invariance that does not shrink to match parametric scale) while removing redundancy between the two merged strands. Target ~2200-2500 words. See /condense skill and reviews/deep-review-2026-04-24-quantitative-intuition-void.md if present.
+- **Output**: obsidian/voids/quantitative-intuition-void.md
 
 ### ✓ 2026-04-24: Update wikilinks for coalesced quantitative-intuition-void
 - **Type**: cross-review

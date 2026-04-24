@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 20:29:00+00:00
+ai_modified: 2026-04-24 21:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-24 21:33 UTC - condense
+- **Status**: Success
+- **File**: [[voids/quantitative-intuition-void]]
+- **Before**: 3176 words
+- **After**: 2117 words
+- **Reduction**: 33%
+- **Technique**: Tightened diagnostic-signature and phenomenology bullet lists, compressed Kant/sublime treatment, collapsed the "Why Belong Together" unification argument into a single paragraph per axis, reduced "Mixed Classification" and "Compound Failure Signatures" from expanded form to tight single paragraphs, tightened per-tenet treatments in "Relation to Site Perspective" while preserving all five, trimmed Further Reading (cut four redundantly-linked items) and removed the now-uncited Toomarian reference. Preserved opening summary, the single-architecture-two-faces framing, Kahneman/Tversky/Gigerenzer core findings, McGinn closure argument, and full tenet alignment.
+- **Notes**: Status moved from hard_warning (159% of target, over 3000 hard threshold) to soft_warning (106% of target). Chose 2117 rather than driving to 2000 exactly to preserve the void's genuinely dual structure and the Map's voice.
 
 ## 2026-04-24 20:29 UTC - deep-review
 - **Status**: Success
