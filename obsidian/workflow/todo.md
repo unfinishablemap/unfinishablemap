@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense voids/noetic-feelings-void.md (4533 words, 113% over critical threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word critical threshold for voids/ (currently 4533 words, 227% of 2000-word target). This is the only critical length violation site-wide. The 2026-04-24 coalesce merged understanding-void into noetic-feelings-void, driving the word count past the hard/critical thresholds. The article is load-bearing across four+ articles (heuristic-fluency mechanism referenced by necessary-opacity, self-opacity, apophatic-cartography, and the apex taxonomy) and across 23 active files that previously wikilinked `[[understanding-void]]` (the 2026-04-24 redirect task rewrote these to `[[noetic-feelings-void]]`), so condensation must preserve: (a) the heuristic-fluency mechanism as the core explanatory spine, (b) the explanatory-regress / illusion-of-explanatory-depth material inherited from understanding-void (do not let it vanish — readers arriving via rewritten understanding-void links need to find it), (c) the concession about definitional unfalsifiability introduced in the recent plenitude-void refinements, (d) cross-links to the recognition-void / self-opacity / source-attribution-void / apophatic-cartography family, and (e) the calibration-pathology evidence (déjà vu, jamais vu, overconfidence) which is cited by the existing P3 "Calibration Pathology as Void-Mapping Methodology" task. Defer detailed subtopic expansions to linked articles where possible. Target reduction: ~30–35% (to ~3000–3200 words, back under the hard_warning threshold but above the soft threshold — voids articles routinely run around 2500). See /condense skill and `obsidian/project/writing-style.md` for preserved-voice requirements.
-- **Source**: length_analysis
-- **Generated**: 2026-04-24
-
 ### P2: Write voids article on the Question Formation Void
 - **Type**: expand-topic
 - **Status**: pending
@@ -2636,6 +2629,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Condense voids/noetic-feelings-void.md (4533 words, 113% over critical threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word critical threshold for voids/ (currently 4533 words, 227% of 2000-word target). This is the only critical length violation site-wide. The 2026-04-24 coalesce merged understanding-void into noetic-feelings-void, driving the word count past the hard/critical thresholds. The article is load-bearing across four+ articles (heuristic-fluency mechanism referenced by necessary-opacity, self-opacity, apophatic-cartography, and the apex taxonomy) and across 23 active files that previously wikilinked `[[understanding-void]]` (the 2026-04-24 redirect task rewrote these to `[[noetic-feelings-void]]`), so condensation must preserve: (a) the heuristic-fluency mechanism as the core explanatory spine, (b) the explanatory-regress / illusion-of-explanatory-depth material inherited from understanding-void (do not let it vanish — readers arriving via rewritten understanding-void links need to find it), (c) the concession about definitional unfalsifiability introduced in the recent plenitude-void refinements, (d) cross-links to the recognition-void / self-opacity / source-attribution-void / apophatic-cartography family, and (e) the calibration-pathology evidence (déjà vu, jamais vu, overconfidence) which is cited by the existing P3 "Calibration Pathology as Void-Mapping Methodology" task. Defer detailed subtopic expansions to linked articles where possible. Target reduction: ~30–35% (to ~3000–3200 words, back under the hard_warning threshold but above the soft threshold — voids articles routinely run around 2500). See /condense skill and `obsidian/project/writing-style.md` for preserved-voice requirements.
+- **Output**: obsidian/voids/noetic-feelings-void.md
 
 ### ✓ 2026-04-24: Cross-review apex/taxonomy-of-voids.md considering the second-order voids cluster
 - **Type**: cross-review
