@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apophatic-cartography.md considering question-formation-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/question-formation-void.md (created 2026-04-24) is explicitly framed as shadowing apophatic cartography itself (lines 40-41): "mapping by negation can only negate what can already be formulated." Current apophatic-cartography.md discusses mapping by negation but does not yet address the upstream constraint on question formation as a structural blind spot of the method. Cross-review should (a) add reciprocal link to [[question-formation-void]] in related_articles, (b) note that the method's incompleteness is partly due to question-formation constraints, not only answer-stage limits, (c) check whether the new article's "Inheritance Problem" and "three layers" (presuppositional/generative/architectural) framing should be referenced when apophatic-cartography discusses its own self-reference challenges, (d) verify terminology consistency (presuppositions, evoked questions, horizons). See voids/question-formation-void.md.
-- **Source**: chain (from question-formation-void.md)
-- **Generated**: 2026-04-24
-
 ### P2: Cross-review non-human-minds-as-void-explorers.md considering question-formation-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/question-formation-void.md (created 2026-04-24) identifies non-human minds as void-explorers as a key methodological route for probing the question-formation void (lines 81-82) — specifically using LLMs to "probe for systematic question-shape differences" to partially survey the human question-formation blind spot. non-human-minds-as-void-explorers.md does not currently list [[question-formation-void]] in related_articles. Cross-review should (a) add the reciprocal link, (b) strengthen the section on how architectural differences in question-generation can be leveraged as evidence, (c) assess whether the presuppositional/generative-layer framing from the new article informs how void-exploration via non-human minds should be designed, (d) check for terminology and scope consistency. See voids/question-formation-void.md.
@@ -2645,6 +2639,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Cross-review apophatic-cartography.md considering question-formation-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/question-formation-void.md (created 2026-04-24) is explicitly framed as shadowing apophatic cartography itself (lines 40-41): "mapping by negation can only negate what can already be formulated." Current apophatic-cartography.md discusses mapping by negation but does not yet address the upstream constraint on question formation as a structural blind spot of the method. Cross-review should (a) add reciprocal link to [[question-formation-void]] in related_articles, (b) note that the method's incompleteness is partly due to question-formation constraints, not only answer-stage limits, (c) check whether the new article's "Inheritance Problem" and "three layers" (presuppositional/generative/architectural) framing should be referenced when apophatic-cartography discusses its own self-reference challenges, (d) verify terminology consistency (presuppositions, evoked questions, horizons). See voids/question-formation-void.md.
+- **Output**: obsidian/voids/apophatic-cartography.md -- Context: Cross-review apophatic-cartography.md considering question-formation-void insights
 
 ### ✓ 2026-04-24: Address pessimistic-review findings on apex/taxonomy-of-voids.md
 - **Type**: refine-draft

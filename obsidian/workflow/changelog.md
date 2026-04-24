@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 12:29:00+00:00
+ai_modified: 2026-04-24 13:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-24 13:35 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/apophatic-cartography]]
+- **Context**: Cross-review against newly added [[voids/question-formation-void]], which explicitly names apophatic cartography as the method it shadows.
+- **Word count**: 2470 → 2516 (+46; length-neutral-adjacent, well below hard threshold)
+- **Critical issues addressed**: 0 (article stable after three reviews; prior stability notes on MWI, Buddhist sunyata, and illusionism respected and not re-flagged)
+- **Medium issues addressed**: 2 (missing cross-link/integration with question-formation void in Second-Order Ignorance; missing second-order void cluster links)
+- **Enhancements made**: One inline sentence naming the question-formation void as the upstream constraint on apophatic method; added `question-formation-void`, `epistemic-horizon-void`, `categorial-void` to related_articles; added question-formation-void to Further Reading; tightened "No single line is airtight..." concession to offset addition.
+- **Output**: [[reviews/deep-review-2026-04-24-apophatic-cartography]]
 
 ## 2026-04-24 12:29 UTC - refine-draft
 - **Status**: Success
