@@ -24,6 +24,7 @@ related_articles:
   - "[[clinical-phenomenology-and-altered-experience]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[the-observer-witness-in-meditation]]"
+  - "[[witnessing-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7

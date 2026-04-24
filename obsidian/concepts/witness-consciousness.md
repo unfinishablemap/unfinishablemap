@@ -30,6 +30,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[hypnagogic-phenomenology-and-interface-modulation]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
+  - "[[witnessing-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -70,7 +71,7 @@ Advanced contemplatives in multiple traditions report something more radical: no
 
 [[self-opacity|The Unobservable Self]] addresses this directly: the observing self cannot observe itself observing. Direct attention inward—attempt to observe your own observing. You become aware of awareness, but now there are two layers: awareness observed and awareness observing it. Each attempt creates a new layer; the regression has no endpoint. The [[phenomenology-of-recursive-self-awareness|phenomenology of recursive self-awareness]] maps this layered structure in detail—Level 0 perception, Level 1 thought, Level 2 recursive awareness—and explores why the tower doesn't extend indefinitely with equal clarity at each level.
 
-David Hume: "I can never catch myself at any time without a perception." The catcher remains uncaught. This structural elusiveness holds regardless of theory—even granting [[illusionism|illusionism]], any system modeling its own modeling faces regress.
+David Hume: "I can never catch myself at any time without a perception." The catcher remains uncaught. This structural elusiveness holds regardless of theory—even granting [[illusionism|illusionism]], any system modeling its own modeling faces regress. The [[witnessing-void]] maps this structural impossibility as a void in its own right: witnessing *qua occurrent operation* cannot be objectified at the first order, not merely at high recursive depth.
 
 This connects to why the [[hard-problem-of-consciousness|hard problem]] is hard structurally, not contingently. The structure of consciousness precludes the observation that would generate a complete theory. The contemplative instruction to "look at the looker" (*rigpa* in Dzogchen) is not meant to find something but to *exhaust* the search—to rest in the looking without needing to locate what looks.
 
@@ -193,6 +194,7 @@ What contemplatives discovered through sustained practice, phenomenology articul
 ## Further Reading
 
 - [[self-opacity]] — Why the observing self cannot fully know itself
+- [[witnessing-void]] — The first-order impossibility of witnessing examining its own occurrent operation
 - [[self-reference-paradox]] — Gödelian structural limits on self-knowledge
 - [[buddhism-and-dualism]] — Irreducibility without permanence
 - [[phenomenology-of-the-edge]] — Minimal phenomenal experience

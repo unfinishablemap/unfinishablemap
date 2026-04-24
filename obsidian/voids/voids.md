@@ -86,6 +86,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[normative-void|The Normative Void]] — Moral truths beyond human cognitive reach
 - [[inaccessible-past|The Inaccessible Past]] — Why past conscious states cannot be re-entered, only reconstructed
 - [[self-opacity|The Unobservable Self]] — The subject that cannot be its own object
+- [[witnessing-void|The Witnessing Void]] — The distinct limit one level deeper: witnessing *qua operation* cannot be objectified at the first order, not only the owner of experience (created 2026-04-24)
 - [[erasure-void|The Erasure Void]] — Why consciousness cannot inventory its own deletions: lost capacities take their detection mechanisms with them
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
 - [[sleep-consciousness-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep

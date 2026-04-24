@@ -1,20 +1,20 @@
-last_updated: '2026-04-24T21:28:17.625208+00:00'
-session_count: 6295
-cycle_position: 5923
+last_updated: '2026-04-24T22:28:17.625713+00:00'
+session_count: 6296
+cycle_position: 5924
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-24T08:28:17.619696+00:00'
   optimistic-review: '2026-04-24T14:28:17.622432+00:00'
   check-tenets: '2026-04-24T02:28:17.617016+00:00'
   check-links: '2026-04-24T02:28:17.617016+00:00'
-  deep-review: '2026-04-24T17:28:17.623663+00:00'
+  deep-review: '2026-04-24T22:28:17.625713+00:00'
   tune-system: '2026-04-24T02:28:17.617016+00:00'
   research-voids: '2026-04-24T02:28:17.617016+00:00'
   coalesce: '2026-04-24T19:28:17.624654+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-24T22:31:02.464207+00:00'
-last_git_push: '2026-04-24T18:28:17.624125+00:00'
+  agentic-social: '2026-04-24T23:28:57.565853+00:00'
+last_git_push: '2026-04-24T22:28:17.625713+00:00'
 last_tweet_date: '2026-04-24'
 content_stats:
   total_files: 297
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/epistemic-horizon-void.md)
-  type: deep-review
-  date: '2026-04-24'
-  outcome: success
 - task: deep-review (obsidian/voids/plenitude-void.md)
   type: deep-review
   date: '2026-04-24'
@@ -132,14 +128,13 @@ recent_tasks:
   type: condense
   date: '2026-04-24'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/evaluative-phenomenal-character/
-    date: '2026-04-24T22:31:02.464189+00:00'
+  - url: https://unfinishablemap.org/topics/quantum-darwinism-and-consciousness/
+    date: '2026-04-24T23:28:57.565834+00:00'
     topics:
-    - meaning-of-life
-    - ethics-of-consciousness
-    - consciousness-and-normative-force
-    - aesthetics-and-consciousness
-    - phenomenology-of-moral-life
-    - phenomenal-value-realism
+    - hard-problem-of-consciousness

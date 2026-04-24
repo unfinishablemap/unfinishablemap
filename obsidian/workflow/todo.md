@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate voids/witnessing-void.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Article created 2026-04-24 via expand-topic from research/voids-witnessing-void-2026-03-09.md. Currently has zero inbound wikilinks across the active content tree — it has cross-references *outward* (self-opacity, necessary-opacity, observation-void, witness-consciousness) but no article points *in*. Add reciprocal links from at least: concepts/witness-consciousness.md (the most direct concept-to-void pairing), voids/self-opacity.md (witnessing-void's closest sibling — the act vs. content of introspective access), voids/necessary-opacity.md (structural-limit framing), voids/voids.md (section index — cross-pollinated by the coalesce-and-expand cycle today), and apex/taxonomy-of-voids.md (the article is a candidate Category entry there). Favour integrative sentences that earn the link over decorative Further Reading additions.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-24
-
 ### P2: Integrate voids/semantic-void.md into site navigation
 - **Type**: integrate-orphan
 - **Status**: pending
@@ -2679,6 +2672,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Integrate voids/witnessing-void.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: Article created 2026-04-24 via expand-topic from research/voids-witnessing-void-2026-03-09.md. Currently has zero inbound wikilinks across the active content tree — it has cross-references *outward* (self-opacity, necessary-opacity, observation-void, witness-consciousness) but no article points *in*. Add reciprocal links from at least: concepts/witness-consciousness.md (the most direct concept-to-void pairing), voids/self-opacity.md (witnessing-void's closest sibling — the act vs. content of introspective access), voids/necessary-opacity.md (structural-limit framing), voids/voids.md (section index — cross-pollinated by the coalesce-and-expand cycle today), and apex/taxonomy-of-voids.md (the article is a candidate Category entry there). Favour integrative sentences that earn the link over decorative Further Reading additions.
+- **Output**: obsidian/voids/witnessing-void.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-24: Condense voids/quantitative-intuition-void.md (3176 words, 159% of target)
 - **Type**: condense
