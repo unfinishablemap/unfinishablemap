@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks for coalesced quantitative-intuition-void
-- **Type**: cross-review
-- **Notes**: Coalesce on 2026-04-24 merged `voids/scale-void.md` + `voids/probability-intuition-void.md` into `voids/quantitative-intuition-void.md`. Archive redirects keep URLs working but 14 active-content files contain inbound `[[scale-void]]` or `[[probability-intuition-void]]` wikilinks that should be retargeted to the unified article (or in a few cases re-anchored to the specific magnitude-face / probability-face section). Files to review: `voids/voids-as-evidence.md`, `voids/emergence-void.md`, `voids/voids.md` (index), `voids/three-kinds-of-void.md`, `voids/recognition-void.md`, `voids/mapping-mind-space.md`, `topics/consciousness-and-probability-interpretation.md`, `voids/creative-aesthetic-void.md`, `voids/resolution-void.md`, `voids/embodiment-cognitive-limits.md`, `voids/phenomenology-of-the-edge.md`, `concepts/fitness-beats-truth.md`, `topics/phenomenology-of-deliberation-under-uncertainty.md`, `voids/temporal-void.md`. The `voids/voids.md` index in particular should not point at archived slugs. While editing, verify the unified article's framing (single architecture, two faces) reads coherently in each calling context.
-- **Source**: coalesce
-- **Generated**: 2026-04-24
-
-### P2: Integrate creative-aesthetic-void.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has zero inbound wikilinks across active content (grep `[[creative-aesthetic-void` returns only workflow/changelog.md). Article concerns consciousness's inability to generate genuinely novel phenomenal content, articulate aesthetic experience, or observe its own generative process. Integration candidates to survey: [[aesthetics-and-consciousness]] (topics/, the coalesced aesthetics hub) likely should link to it; [[phenomenology-of-imagination]], [[spontaneous-thought-void]], [[the-surplus-void]], and [[consciousness-and-aesthetic-creation]] (now archived as aesthetics-and-consciousness) are strong candidates for reciprocal cross-links. The voids index (voids/voids.md) should list creative-aesthetic-void if it currently doesn't. Add inbound references from 3-5 most-related articles and update section index pages as appropriate.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-24
-
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -2663,6 +2651,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Update wikilinks for coalesced quantitative-intuition-void
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-24 merged `voids/scale-void.md` + `voids/probability-intuition-void.md` into `voids/quantitative-intuition-void.md`. Archive redirects keep URLs working but 14 active-content files contain inbound `[[scale-void]]` or `[[probability-intuition-void]]` wikilinks that should be retargeted to the unified article (or in a few cases re-anchored to the specific magnitude-face / probability-face section). Files to review: `voids/voids-as-evidence.md`, `voids/emergence-void.md`, `voids/voids.md` (index), `voids/three-kinds-of-void.md`, `voids/recognition-void.md`, `voids/mapping-mind-space.md`, `topics/consciousness-and-probability-interpretation.md`, `voids/creative-aesthetic-void.md`, `voids/resolution-void.md`, `voids/embodiment-cognitive-limits.md`, `voids/phenomenology-of-the-edge.md`, `concepts/fitness-beats-truth.md`, `topics/phenomenology-of-deliberation-under-uncertainty.md`, `voids/temporal-void.md`. The `voids/voids.md` index in particular should not point at archived slugs. While editing, verify the unified article's framing (single architecture, two faces) reads coherently in each calling context.
+- **Output**: None -- Context: Update wikilinks for coalesced quantitative-intuition-void
 
 ### ✓ 2026-04-24: Write voids article on the Semantic Void
 - **Type**: expand-topic

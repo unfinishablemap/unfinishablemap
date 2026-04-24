@@ -2,9 +2,9 @@
 title: "The Resolution Void"
 description: "Consciousness processes ten bits per second from eleven million available — a six-order-of-magnitude compression defining the boundary between what we access and what we discard."
 created: 2026-02-28
-modified: 2026-02-28
+modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-04-24T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[mysterianism]]"
 related_articles:
   - "[[voids]]"
-  - "[[scale-void]]"
+  - "[[quantitative-intuition-void]]"
   - "[[temporal-void]]"
   - "[[smoothness-and-continuity]]"
   - "[[formal-cognitive-limits]]"
@@ -64,7 +64,7 @@ Below the JND, distinctions vanish from consciousness entirely. There is no expe
 
 ## Phenomenology at the Edge
 
-The resolution void has a distinctive phenomenology — or rather, a distinctive absence of one. Below the resolution threshold, experience does not occur. There is no "edge" feeling, no vertigo of approaching a limit. This distinguishes the resolution void from limits like the [[scale-void]], where contemplating vast magnitudes produces characteristic cognitive strain.
+The resolution void has a distinctive phenomenology — or rather, a distinctive absence of one. Below the resolution threshold, experience does not occur. There is no "edge" feeling, no vertigo of approaching a limit. This distinguishes the resolution void from limits like the [[quantitative-intuition-void#the-magnitude-face|magnitude face of the quantitative intuition void]], where contemplating vast magnitudes produces characteristic cognitive strain.
 
 Indirect markers reveal the void's presence. Peripheral vision presents a smooth visual field despite drastically lower resolution than foveal vision — consciousness fills in what it cannot discriminate, producing an illusion of completeness that the [[perceptual-failure-and-the-interface|blur paradox]] exposes when perception degrades. The tip-of-the-tongue phenomenon reveals sub-resolution information pressing against the threshold without crossing it. The specious present — the subjective sense that "now" has duration of roughly two to three seconds — reveals temporal resolution disguising itself as continuity.
 
@@ -87,7 +87,7 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 ## Further Reading
 
 - [[voids]] — The framework of cognitive limits and unchartable territories
-- [[scale-void]] — Parallel resolution limits in spatial cognition
+- [[quantitative-intuition-void]] — Parallel resolution limits at the other end: the magnitude face treats the vast-end failure where the resolution void treats the fine-end failure; the probability face extends the pattern to randomness
 - [[temporal-void]] — The temporal dimension of conscious confinement
 - [[smoothness-and-continuity]] — Whether experience is continuous or discrete at the finest grain
 - [[grain-mismatch]] — The structural incompatibility between smooth phenomenal properties and discrete neural substrates

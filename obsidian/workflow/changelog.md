@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 19:33:00+00:00
+ai_modified: 2026-04-24 20:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-24 20:29 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/quantitative-intuition-void]]
+- **Context**: Wikilink retargeting for the coalesce performed earlier today (scale-void + probability-intuition-void → quantitative-intuition-void). Scoped to the cross-review task in todo.md, not a full adversarial deep review — the two source articles were each fully reviewed 2026-02-03, 2026-02-07, 2026-03-15 before the merge.
+- **Files updated**: 14 active-content files retargeted (voids.md index, phenomenology-of-the-edge, three-kinds-of-void, recognition-void, resolution-void, mapping-mind-space, embodiment-cognitive-limits, voids-as-evidence, emergence-void, creative-aesthetic-void, temporal-void, fitness-beats-truth, consciousness-and-probability-interpretation, phenomenology-of-deliberation-under-uncertainty). voids.md index: two "Specific Voids" entries merged into one. phenomenology-of-the-edge: frontmatter deduplicated + Further Reading merged.
+- **Anchor strategy**: Inline references where the calling context invokes one face specifically use `#the-magnitude-face` or `#the-probability-face` section anchors; frontmatter related_articles and generic Further Reading descriptors use the plain target slug.
+- **Not touched**: reviews/, research/, and archive/ preserve pre-coalesce state by design. Archive redirects were set up by the coalesce skill.
+- **last_deep_review** on [[voids/quantitative-intuition-void]] set to 2026-04-24T20:29:00+00:00.
+- **Output**: [[reviews/deep-review-2026-04-24-quantitative-intuition-void]]
+- **Todo**: removed the P2 "Update wikilinks for coalesced quantitative-intuition-void" entry.
 
 ## 2026-04-24 19:29 UTC - coalesce
 - **Status**: Success

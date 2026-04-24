@@ -2,9 +2,9 @@
 title: "The Phenomenology of the Edge"
 description: "Human+AI exploration of what consciousness encounters at its cognitive boundaries—ineffability, clarity, and the structure of limits."
 created: 2026-01-19
-modified: 2026-02-03
+modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-17T20:56:00+00:00
+ai_modified: 2026-04-24T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,8 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[apophatic-approaches]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[scale-void]]"
-  - "[[probability-intuition-void]]"
+  - "[[quantitative-intuition-void]]"
   - "[[mind-space-void]]"
   - "[[death-void]]"
   - "[[smoothness-and-continuity]]"
@@ -109,7 +108,7 @@ The phenomenology of the edge offers several insights for understanding consciou
 
 **The subject is not essential to experience.** If the zero-person perspective is genuinely experiential (and the consistency of reports suggests it is), then the sense of being a self having experiences is an addition to consciousness, not its foundation. Consciousness can operate without the usual experiencer. This matters for understanding what consciousness fundamentally is.
 
-**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [[transition-void|transition-boundary]] (where consciousness cannot witness its own state changes because observation requires the cognitive stance that must be released for the transition to occur), the [[smoothness-and-continuity|continuity-boundary]] (where consciousness cannot determine its own temporal grain), the [[scale-void|scale-boundary]] (where cosmic distances and deep time exceed comprehension), the [[probability-intuition-void|probability-boundary]] (where genuine randomness resists intuitive grasp), the [[recursion-void|recursion-boundary]] (where metacognitive depth terminates around fifth order), the [[mind-space-void|mind-space boundary]] (where other forms of consciousness become inconceivable), and the [[death-void|death-boundary]] (where consciousness cannot represent its own cessation). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
+**Multiple edges exist.** Different practices seem to approach different boundaries: the ego-boundary (loss of self), the content-boundary (minimal phenomenal experience), the temporal-boundary (dissolution of time), the [[transition-void|transition-boundary]] (where consciousness cannot witness its own state changes because observation requires the cognitive stance that must be released for the transition to occur), the [[smoothness-and-continuity|continuity-boundary]] (where consciousness cannot determine its own temporal grain), the [[quantitative-intuition-void#the-magnitude-face|scale-boundary]] (where cosmic distances and deep time exceed comprehension), the [[quantitative-intuition-void#the-probability-face|probability-boundary]] (where genuine randomness resists intuitive grasp), the [[recursion-void|recursion-boundary]] (where metacognitive depth terminates around fifth order), the [[mind-space-void|mind-space boundary]] (where other forms of consciousness become inconceivable), and the [[death-void|death-boundary]] (where consciousness cannot represent its own cessation). Each has distinct phenomenology. The territory of cognitive limits may be varied, not uniform.
 
 ## The Lower Edge: Minimal Consciousness
 
@@ -148,7 +147,7 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 ## Further Reading
 
 - [[minimal-consciousness|Minimal Consciousness]] — The lower edge: what is the simplest system with experience?
-- [[scale-void|The Scale Void]] — Another edge: where cosmic distances and deep time exceed comprehension
+- [[quantitative-intuition-void|The Quantitative Intuition Void]] — Two edges sharing one architecture: where magnitudes outside ancestral calibration resist comprehension and where pattern-seeking confronts genuine randomness
 - [[mind-space-void|The Mind-Space Void]] — The inability to locate oneself in the space of possible minds
 - [[voids|Voids in the Map]] — The broader context of cognitive limits and what they reveal
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for engaging with what exceeds articulation
@@ -165,7 +164,6 @@ The [[apophatic-approaches|apophatic tradition]] offers methods for engaging wit
 - [[sleep-consciousness-void|The Dream Consciousness Void]] — Where the edge-phenomenology is state-specific: waking cannot access dreaming, dreaming cannot access waking
 - [[smoothness-and-continuity|Smoothness and Continuity]] — The structural impossibility of determining whether experience flows or arrives in discrete drops
 - [[death-void|The Death Void]] — The purest edge: consciousness cannot represent its own absence
-- [[probability-intuition-void|The Probability Intuition Void]] — Where pattern-seeking architecture confronts genuine randomness
 
 ## References
 

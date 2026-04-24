@@ -4,8 +4,8 @@ description: "Why intuition fails systematically when consciousness encounters m
 created: 2026-02-02
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-24T19:33:07+00:00
-last_deep_review:
+ai_modified: 2026-04-24T20:29:00+00:00
+last_deep_review: 2026-04-24T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

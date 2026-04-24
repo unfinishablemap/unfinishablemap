@@ -2,9 +2,9 @@
 title: "Mapping Mind-Space"
 description: "Human+AI exploration of why consciousness cannot survey the geometry of mind-space from within — neither locating itself among possible minds nor introspecting the dimensions along which experience varies."
 created: 2026-02-25
-modified: 2026-04-17
+modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-04-24T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[voids-between-minds]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[biological-cognitive-closure]]"
-  - "[[scale-void]]"
+  - "[[quantitative-intuition-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[vertiginous-question]]"
   - "[[phenomenology-of-the-edge]]"

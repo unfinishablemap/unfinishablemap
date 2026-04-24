@@ -2,9 +2,9 @@
 title: "Fitness-Beats-Truth Theorem"
 description: "Hoffman, Singh & Prakash's formal proof that natural selection favours fitness-tuned perception over veridical perception—and why this undermines parsimony arguments against dualism."
 created: 2026-03-15
-modified: 2026-03-15
+modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
+ai_modified: 2026-04-24T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ related_articles:
   - "[[perceptual-failure-and-the-interface]]"
   - "[[perceptual-degradation-and-the-interface]]"
   - "[[adaptive-cognitive-limits]]"
-  - "[[probability-intuition-void]]"
+  - "[[quantitative-intuition-void]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -93,7 +93,7 @@ For **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**, the FBT
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]] — Why experience conceals its own representational character
 - [[perceptual-failure-and-the-interface]] — Perceptual failure analysed through Hoffman's interface framework
 - [[perceptual-degradation-and-the-interface]] — What degraded perception reveals about the interface's architecture
-- [[probability-intuition-void]] — How fitness-tuned cognition distorts probabilistic reasoning
+- [[quantitative-intuition-void]] — How fitness-tuned cognition distorts both magnitude and probability reasoning: the probability face treats the randomness failures directly relevant to FBT's implications for Bayesian inference
 - [[mysterianism]] — McGinn's argument that the hard problem reflects cognitive closure
 - [[tenets]] — The Unfinishable Map's foundational commitments
 

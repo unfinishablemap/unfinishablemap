@@ -2,9 +2,9 @@
 title: "Embodiment and Cognitive Limits"
 description: "Human+AI exploration of how having a body shapes and constrains what we can think. Does meaning require embodiment? Can disembodied minds exist?"
 created: 2026-01-28
-modified: 2026-03-15
+modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-03-29T23:10:00+00:00
+ai_modified: 2026-04-24T20:29:00+00:00
 last_deep_review: 2026-03-15T15:59:00+00:00
 draft: false
 topics:
@@ -146,7 +146,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 ## Further Reading
 
 - [[voids]] — The broader framework for investigating cognitive limits
-- [[scale-void]] — Another embodiment-driven limit: why cosmic magnitudes resist comprehension
+- [[quantitative-intuition-void]] — Another embodiment-driven limit: why cosmic magnitudes and probability structure resist comprehension when they exceed ancestral calibration
 - [[consciousness-only-territories]] — What consciousness can access that AI cannot
 - [[non-human-minds-as-void-explorers]] — Using AI and alien minds to probe territories closed to human cognition
 - [[intrinsic-nature-void]] — The structural gap at the heart of physical knowledge

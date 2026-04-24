@@ -2,9 +2,9 @@
 title: "Voids in the Map"
 description: "Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable, and potentially occluded territories where thought cannot go or is blocked from going."
 created: 2026-01-08
-modified: 2026-04-23
+modified: 2026-04-24
 human_modified: 2026-01-08
-ai_modified: 2026-04-23T22:24:00+00:00
+ai_modified: 2026-04-24T20:29:00+00:00
 draft: false
 last_deep_review: 2026-04-21T01:38:00+00:00
 topics: []
@@ -71,7 +71,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 
 ### Specific Voids
 
-- [[scale-void|The Scale Void]] — Why cosmic distances, deep time, and large numbers resist comprehension
+- [[quantitative-intuition-void|The Quantitative Intuition Void]] — Why intuition fails systematically when consciousness encounters magnitudes and probabilities outside ancestral calibration (coalesced from scale-void + probability-intuition-void 2026-04-24)
 - [[causal-interface|The Causal Interface Void]] — How consciousness interfaces with the physical
 - [[interface-formalization-void|The Interface Formalization Void]] — Why the consciousness-physics interface resists mathematical formalization
 - [[intrinsic-nature-void|The Intrinsic Nature Void]] — What matter and consciousness are in themselves, when every answer yields only structure or negation
@@ -156,7 +156,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[compound-failure-signatures|Compound Failure Signatures]] — How individual limits interact superadditively
 - [[epistemological-limits-occams-razor|The Parsimony Void]] — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
 - [[framework-void|The Framework Void]] — How conceptual frameworks exclude what they cannot represent
-- [[probability-intuition-void|The Probability Intuition Void]] — Why genuine randomness resists intuitive comprehension
 - [[selective-correction-and-reconstruction-paradox|The Reconstruction Paradox]] — Why the brain silently corrects some errors but delivers others
 
 

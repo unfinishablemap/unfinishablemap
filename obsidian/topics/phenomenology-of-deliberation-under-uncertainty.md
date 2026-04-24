@@ -2,9 +2,9 @@
 title: "The Phenomenology of Deliberation Under Uncertainty"
 description: "What it feels like to decide when outcomes are unknowable—the vertigo, estimation, and commitment that reveal consciousness at work."
 created: 2026-02-09
-modified: 2026-02-14
+modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-11T13:56:00+00:00
+ai_modified: 2026-04-24T20:29:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[temporal-consciousness]]"
 related_articles:
   - "[[authentic-vs-inauthentic-choice]]"
-  - "[[probability-intuition-void]]"
+  - "[[quantitative-intuition-void]]"
   - "[[self-opacity|volitional opacity]]"
   - "[[phenomenology-of-anticipation]]"
   - "[[phenomenology-of-intellectual-life]]"
@@ -44,7 +44,7 @@ Deciding under uncertainty feels different from deciding with full information. 
 
 Uncertainty is not a single experience. It presents itself in phenomenally distinct varieties that shape how deliberation unfolds.
 
-**Quantifiable risk** feels bounded. When choosing between options with known probabilities—a medical procedure with published success rates, an investment with historical returns—uncertainty has a specific texture: the mind grasps at numbers, seeks anchors, tries to reduce the situation to a calculable bet. There is discomfort but also the comfort of a framework. The [[probability-intuition-void]] describes how poorly we reason about probabilities, but the phenomenology here is one of *attempting* to reason probabilistically, even when failing.
+**Quantifiable risk** feels bounded. When choosing between options with known probabilities—a medical procedure with published success rates, an investment with historical returns—uncertainty has a specific texture: the mind grasps at numbers, seeks anchors, tries to reduce the situation to a calculable bet. There is discomfort but also the comfort of a framework. The [[quantitative-intuition-void#the-probability-face|probability face of the quantitative intuition void]] describes how poorly we reason about probabilities, but the phenomenology here is one of *attempting* to reason probabilistically, even when failing.
 
 **Ambiguity** feels different. When probabilities themselves are unknown—starting a business in an unfamiliar market, committing to a relationship—the mind encounters a more radical openness. There are no anchors. The experience is not of calculating badly but of having nothing to calculate with. Frank Knight's distinction between risk and uncertainty maps onto a phenomenological distinction: risk feels like difficult arithmetic; genuine uncertainty feels like standing at the edge of something unmapped.
 
@@ -148,7 +148,7 @@ The Unfinishable Map's framework illuminates deliberation under uncertainty at s
 - [[phenomenology-of-choice-and-volition]] — The general structure of choosing
 - [[phenomenology-of-intellectual-life|phenomenology of epistemic cognition]] — The felt sense of epistemic weight
 - [[authentic-vs-inauthentic-choice]] — Why uncertainty demands authentic engagement
-- [[probability-intuition-void]] — Our architectural limits in reasoning about chance
+- [[quantitative-intuition-void]] — Our architectural limits in reasoning about chance (the probability face) and magnitude, sharing a single explanatory structure
 - [[epistemic-emotions]] — The affective dimension of uncertainty
 - [[counterfactual-reasoning]] — Imagining alternative outcomes
 - [[self-opacity|volitional opacity]] — Why we cannot observe our own deciding

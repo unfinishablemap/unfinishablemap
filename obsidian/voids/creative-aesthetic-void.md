@@ -2,9 +2,9 @@
 title: "The Creative-Aesthetic Void"
 description: "Consciousness cannot generate genuinely novel phenomenal content, cannot articulate the aesthetic content it receives, and cannot observe its own generative process. The pattern of these three failures reveals the architecture of mind."
 created: 2026-02-02
-modified: 2026-04-23
+modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-23T14:22:00+00:00
+ai_modified: 2026-04-24T20:29:00+00:00
 draft: false
 last_deep_review: 2026-04-23T13:44:00+00:00
 topics:
@@ -36,7 +36,7 @@ related_articles:
   - "[[conceptual-impossibility]]"
   - "[[synesthetic-void]]"
   - "[[non-human-minds-as-void-explorers]]"
-  - "[[scale-void]]"
+  - "[[quantitative-intuition-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[appetitive-void]]"
   - "[[thoughts-that-slip-away]]"

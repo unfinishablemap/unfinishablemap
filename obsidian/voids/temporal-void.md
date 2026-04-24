@@ -2,9 +2,9 @@
 title: "The Temporal Void"
 description: "Why consciousness is confined to a moving present, cannot simultaneously live and measure its own time, and can re-experience the past but only imagine the future."
 created: 2026-01-21
-modified: 2026-03-17
+modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-03-23T21:43:00+00:00
+ai_modified: 2026-04-24T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[death-void]]"
   - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[scale-void]]"
+  - "[[quantitative-intuition-void]]"
   - "[[smoothness-and-continuity]]"
   - "[[resolution-void]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
