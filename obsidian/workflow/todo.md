@@ -50,6 +50,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain
 - **Generated**: 2026-04-24
 
+### P2: Address pessimistic-review findings on apex/taxonomy-of-voids.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-24 found three high-severity issues in the apex article: (1) the "clustering around consciousness" claim is not properly defended against the selection-effect objection (the Map was built around consciousness, so the clustering is partly constructed); (2) the bare-dualism prediction of "systematic explanatory failure at the interface" is overclaimed — only the Map's *specific* tenet-package (dualism + minimal quantum interaction + naturally occluded) predicts this, and the article should say so plainly; (3) "overdetermination" is asserted without a probabilistic independence argument and should be softened to "mutually reinforcing" unless the independence case is made. Also medium-severity: the tenets-predicted-voids narrative needs historical evidence or weakening to "accommodation"; the AI-as-void-explorer passage should acknowledge LLM training-data contamination; the physicalist "even distribution" baseline straw-mans physicalism. See pessimistic-2026-04-24.md for specific line-level suggestions and preferred replacement language.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-24
+
 ### P3: Write concept article "The Meta-Voids Cluster — Second-Order Limits"
 - **Type**: expand-topic
 - **Status**: pending
