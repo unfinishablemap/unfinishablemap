@@ -72,7 +72,7 @@ Deep review maps three voids between minds: existence (can I know others exist?)
 New article merges two voids into one: the feeling of obviousness functions as a cognitive stop-sign that halts inquiry before it starts, while explanation itself cannot reach bedrock without regress or circularity.
 
 **Type**: new-article  
-**Link**: [[understanding-void]]
+**Link**: [[noetic-feelings-void]]
 
 ---
 

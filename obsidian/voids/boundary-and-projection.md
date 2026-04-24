@@ -112,7 +112,7 @@ The void is **mixed** in the [[three-kinds-of-void|voids taxonomy]]: primarily U
 
 **Unexplorable.** Consciousness cannot step outside itself to observe where it ends or how it extends. Functional extension requires phenomenal invisibility; observation collapses the extension being observed. Architectural, not contingent.
 
-**Unexplored.** The five-to-ninety-two paper ratio reveals a scholarly blind spot—an instance of the [[understanding-void|understanding void]], where self-evidence terminates inquiry before it begins. The projective side has received empirical attention (rubber hand, peripersonal space) but little philosophical synthesis.
+**Unexplored.** The five-to-ninety-two paper ratio reveals a scholarly blind spot—an instance of the [[noetic-feelings-void|understanding void]], where self-evidence terminates inquiry before it begins. The projective side has received empirical attention (rubber hand, peripersonal space) but little philosophical synthesis.
 
 **Possibly Occluded.** If dissolution requires "letting go" of agency, boundaries may be actively maintained by processes consciousness cannot observe—not merely structural but defended, in the territory of [[self-opacity]].
 

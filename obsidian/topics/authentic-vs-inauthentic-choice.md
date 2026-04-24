@@ -54,7 +54,7 @@ Inauthentic choice has its own phenomenology—often harder to notice because it
 
 **Following scripts.** Inauthentic choice follows pre-written scripts: social norms, role expectations, "what one does." The choosing feels more like selection from a menu than creation of possibilities. Heidegger calls this *das Man*—the anonymous "they" who determine how things are done.
 
-**Absence of felt alternatives.** Options may technically exist, but they don't feel genuinely open. One path seems obvious, inevitable, or required—an [[understanding-void|understanding void]] operating in the domain of action, where the feeling of self-evidence forecloses deliberation. The phenomenology of choice—felt openness, genuine deliberation—is attenuated or absent.
+**Absence of felt alternatives.** Options may technically exist, but they don't feel genuinely open. One path seems obvious, inevitable, or required—an [[noetic-feelings-void|understanding void]] operating in the domain of action, where the feeling of self-evidence forecloses deliberation. The phenomenology of choice—felt openness, genuine deliberation—is attenuated or absent.
 
 **Automaticity.** Inauthentic choice often runs automatically. You find yourself doing something without clear memory of deciding. The action happens through you rather than being initiated by you.
 

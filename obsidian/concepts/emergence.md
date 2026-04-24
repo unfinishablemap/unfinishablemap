@@ -29,7 +29,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[quantum-measurement-and-consciousness]]"
-  - "[[understanding-void]]"
+  - "[[noetic-feelings-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -89,7 +89,7 @@ Their view requires rejecting causal closure: if consciousness possesses genuine
 
 Every successful [[reductionism-and-consciousness|scientific reduction]] passes a transparency test: once the lower-level mechanism is known, the higher-level phenomenon becomes *intelligible*. Learning that temperature is molecular kinetic energy explains *why* heating gas increases pressure. Learning that genes are DNA explains *why* inheritance follows Mendelian ratios. Consciousness fails this test uniquely—complete knowledge of neural correlates leaves the existence of experience [[explanatory-gap|opaque]].
 
-The [[emergence-as-universal-hard-problem|universal hard problem thesis]] argues this opacity is present at every level transition—reduction relocates explanatory gaps rather than closing them. Consciousness is where the gap becomes undeniable because the qualitative character in question is experience itself. The [[understanding-void|understanding void]] deepens this: the phenomenal sense of understanding that makes other reductions *feel* transparent is itself a conscious process, so the transparency test relies on the very phenomenon it identifies as irreducible. Three features make this failure systematic:
+The [[emergence-as-universal-hard-problem|universal hard problem thesis]] argues this opacity is present at every level transition—reduction relocates explanatory gaps rather than closing them. Consciousness is where the gap becomes undeniable because the qualitative character in question is experience itself. The [[noetic-feelings-void|understanding void]] deepens this: the phenomenal sense of understanding that makes other reductions *feel* transparent is itself a conscious process, so the transparency test relies on the very phenomenon it identifies as irreducible. Three features make this failure systematic:
 
 **[[unity-of-consciousness|Unified awareness]].** Physically separated neural networks somehow constitute a single conscious state. The [[binding-problem|binding problem]]—how distributed neural processes combine into unified experience—has proposed neural solutions (synchrony, global workspace broadcasting), but these explain coordination without explaining unity itself. Correlation between distinct processes isn't identity. The [[consciousness-and-the-metaphysics-of-composition|convergence of composition theories]] on consciousness as the criterion for genuine wholes reinforces this: consciousness is what distinguishes genuine composites from mere aggregates, yet consciousness itself resists compositional analysis.
 
@@ -187,7 +187,7 @@ The Map's framework can be understood as *emergentist dualism*—consciousness s
 - [[supervenience]] — Why phenomenal-physical covariance does not entail physicalism
 - [[causal-closure]] — The principle strong emergentism must deny
 - [[explanatory-gap]] — The chasm between physical descriptions and conscious experience
-- [[understanding-void]] — Why explanation cannot explain itself—the recursive opacity the transparency test relies on
+- [[noetic-feelings-void]] — Why explanation cannot explain itself—the recursive opacity the transparency test relies on
 - [[hard-problem-of-consciousness]] — Why consciousness resists reduction
 - [[topics/free-will]] — The debate over whether genuine choice exists and what it requires
 - [[binding-problem]] — How distributed processes achieve phenomenal unity

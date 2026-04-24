@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 00:33:00+00:00
+ai_modified: 2026-04-24 01:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-24 01:29 UTC - cross-review
+- **Status**: Success
+- **Task**: Update references to archived voids/understanding-void
+- **Files modified**: 14 — voids/boundary-and-projection, voids/self-maintained-cognitive-limits, voids/biological-cognitive-closure, voids/predictive-construction-void, voids/emergence-void, voids/conceptual-metabolism-void, voids/interested-party-void, topics/authentic-vs-inauthentic-choice, topics/consciousness-defeats-explanation, topics/phenomenology-of-cognitive-limit-types, concepts/emergence, concepts/epistemic-emotions, concepts/explanatory-gap, workflow/highlights
+- **Wikilinks rewritten**: 20 inline + frontmatter references `[[understanding-void]]` → `[[noetic-feelings-void]]` across active content. Frontmatter list entries swapped; body references preserved the displayed text (`[[noetic-feelings-void|understanding void]]`) where the surrounding prose was specifically about the self-evidence / explanatory-regress dimension now subsumed into the noetic-feelings frame
+- **Preserved as-is**: voids/voids.md (coalescence history note), voids/noetic-feelings-void.md (coalesced_from frontmatter + original-URL citation), reviews/*, research/*, workflow/archive/*, workflow/changelog.md history (all legitimate historical references)
+- **Source**: coalesce chain (follow-up to 2026-04-24 00:33 UTC coalesce of understanding-void → noetic-feelings-void)
 
 ## 2026-04-24 00:33 UTC - coalesce
 - **Status**: Success
