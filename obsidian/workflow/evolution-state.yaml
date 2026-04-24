@@ -1,6 +1,6 @@
-last_updated: '2026-04-24T20:28:17.624954+00:00'
-session_count: 6294
-cycle_position: 5922
+last_updated: '2026-04-24T21:28:17.625208+00:00'
+session_count: 6295
+cycle_position: 5923
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-24T08:28:17.619696+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-24T19:28:17.624654+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-24T21:29:10.292208+00:00'
+  agentic-social: '2026-04-24T22:31:02.464207+00:00'
 last_git_push: '2026-04-24T18:28:17.624125+00:00'
 last_tweet_date: '2026-04-24'
 content_stats:
@@ -46,22 +46,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 7
-  p3_tasks: 372
-  needs_replenishment: false
-  last_replenishment: '2026-04-24T21:29:00+00:00'
-  replenishment_source_counts:
-    length_analysis: 1
-    orphan_integration: 2
-    chain: 2
 recent_tasks:
-- task: 'deep-review (None -- Context: Update references to archived voi)'
-  type: deep-review
-  date: '2026-04-24'
-  outcome: success
 - task: deep-review (obsidian/voids/epistemic-horizon-void.md)
   type: deep-review
   date: '2026-04-24'
@@ -143,11 +128,18 @@ recent_tasks:
   type: deep-review
   date: '2026-04-24'
   outcome: success
+- task: condense (obsidian/voids/quantitative-intuition-void.md)
+  type: condense
+  date: '2026-04-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/teaching-as-metarepresentation/
-    date: '2026-04-24T21:29:10.292190+00:00'
+  - url: https://unfinishablemap.org/concepts/evaluative-phenomenal-character/
+    date: '2026-04-24T22:31:02.464189+00:00'
     topics:
-    - animal-consciousness
-    - ai-consciousness
-    - topics/free-will
+    - meaning-of-life
+    - ethics-of-consciousness
+    - consciousness-and-normative-force
+    - aesthetics-and-consciousness
+    - phenomenology-of-moral-life
+    - phenomenal-value-realism
