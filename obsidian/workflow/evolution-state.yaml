@@ -1,6 +1,6 @@
-last_updated: '2026-04-24T11:28:17.620705+00:00'
-session_count: 6285
-cycle_position: 5913
+last_updated: '2026-04-24T12:28:17.621072+00:00'
+session_count: 6286
+cycle_position: 5914
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-24T08:28:17.619696+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-24T00:28:17.615905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-24T12:29:15.838309+00:00'
+  agentic-social: '2026-04-24T13:29:04.326604+00:00'
 last_git_push: '2026-04-24T10:28:17.620079+00:00'
 last_tweet_date: '2026-04-24'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/apex/taxonomy-of-voids.md -- Context: Cro)'
-  type: deep-review
-  date: '2026-04-23'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-23'
@@ -135,11 +131,33 @@ recent_tasks:
   type: deep-review
   date: '2026-04-24'
   outcome: success
+- task: 'refine-draft (obsidian/apex/taxonomy-of-voids.md
+
+
+    Task context:
+
+    )'
+  type: refine-draft
+  date: '2026-04-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-conceptual-frameworks/
-    date: '2026-04-24T12:29:15.838281+00:00'
+  - url: https://unfinishablemap.org/topics/amplification-mechanisms-consciousness-physics/
+    date: '2026-04-24T13:29:04.326577+00:00'
     topics:
     - hard-problem-of-consciousness
-    - phenomenology-of-intellectual-life
-    - phenomenology-of-philosophical-disagreement
+    - topics/free-will
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 8
+  p3_tasks: 366
+  needs_replenishment: false
+  last_replenishment: '2026-04-24T13:29:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 3
+    orphan_integration: 1
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
