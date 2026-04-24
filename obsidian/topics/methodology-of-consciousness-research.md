@@ -2,9 +2,9 @@
 title: "The Methodology of Consciousness Research"
 description: "Science achieved its power by excluding subjectivity. Consciousness demands rethinking the method—first-person, third-person, and second-person approaches each reveal different aspects, and their persistent gap may reflect ontological difference."
 created: 2026-01-23
-modified: 2026-03-20
+modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-10T23:56:00+00:00
+ai_modified: 2026-04-24T11:29:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -49,7 +49,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-20T07:07:00+00:00
+last_deep_review: 2026-04-24T11:29:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-scientific-methodology/"
   - "/topics/first-person-third-person-methodology/"
@@ -186,17 +186,3 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 1. Thomasson, A. L. (2003). First-person knowledge in phenomenology. In D. W. Smith & A. L. Thomasson (Eds.), *Phenomenology and Philosophy of Mind*. Oxford University Press.
 1. Thompson, E. (2007). *Mind in Life: Biology, Phenomenology, and the Sciences of Mind*. Harvard University Press.
 1. Varela, F. J. (1996). Neurophenomenology: A Methodological Remedy for the Hard Problem. *Journal of Consciousness Studies*, 3(4), 330-349.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-1. Expanded trained observation section with Husserl's adequacy/apodicticity separation and its methodological implications
-2. Added Berghofer's (2019) originary givenness framework as epistemic grounding for first-person evidence
-3. Added self-undermining argument against thoroughgoing introspective skepticism
-4. Added Thomasson's distinction between disciplined phenomenological knowledge and naive introspection
-5. Added references: Berghofer (2019), Thomasson (2003)
-
-Based on research/phenomenological-method-evidence-standards-2026-03-19.md integration.
-Key improvements: Stronger epistemological foundations for first-person methodology, sharper response to skeptical objections.
-
-This log should be removed after human review.
--->
