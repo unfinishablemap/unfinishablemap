@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 06:29:00+00:00
+ai_modified: 2026-04-24 07:36:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-24 07:36 UTC - condense
+- **Status**: Success
+- **File**: [noetic-feelings-void](/voids/noetic-feelings-void/)
+- **Before**: 4533 words (critical; 227% of 2000 target)
+- **After**: 2776 words (soft_warning; within acceptable band)
+- **Reduction**: 39%
+- **Technique**: Tightened post-coalesce redundancy across Processing Fluency, Explanatory Regress / Opacity of Explanatory Preference (merged), Philosophical Convergence, Self-Concealing Structure / Phenomenology of the Edge (merged), Approaches to the Edge (bullets compressed to prose), AI Minds section, Relation to Site Perspective (Dualism/Bidirectional/MQI paragraphs trimmed), What Would Challenge, Implications, Open Questions. Trimmed Further Reading (24→11 links) and References (21→15). Preserved opening summary, all tenet connections, dissociation/fluency/Lima-problem empirical grounding, and distinctive voice.
 
 ## 2026-04-24 06:29 UTC - deep-review
 - **Status**: Success

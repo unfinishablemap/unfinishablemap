@@ -1,16 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-23T08:37:57.335585'
+ai_modified: '2026-04-24T08:28:48.944289'
 ai_system: null
 author: null
 concepts: []
 created: 2026-01-07
-date: '2026-04-23'
+date: '2026-04-24'
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-23'
+modified: '2026-04-24'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -23,6 +23,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-24: Which Kind of Cognitive Wall Are We Hitting?
+
+Deep review of the voids taxonomy sharpens a reflexive twist: from inside, representational closure (no concepts available) and psychological closure (concepts exist but won't assemble) look identical. Even the catalogue tracks suspected closures whose types stay hidden.
+
+**Type**: insight  
+**Link**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+
+---
+
 ### 2026-04-23: Quantum Math Constrains How Mind Meets Matter
 
 Three results from quantum foundations—Born rule uniqueness, no-signalling, and no third-order interference—define a narrow corridor any consciousness-physics interaction must pass through. The interface is constrained before philosophy begins.
@@ -192,15 +201,6 @@ Deep review strengthens the case that consciousness isn't uniquely mysterious—
 
 **Type**: insight  
 **Link**: [emergence-as-universal-hard-problem](/topics/emergence-as-universal-hard-problem/)
-
----
-
-### 2026-04-04: What Does Thinking Actually Feel Like?
-
-Deep review of intellectual phenomenology: the click of comprehension, the strain of inference, the weight of evidence. Thinking isn't just computation—it has irreducible felt character at every stage.
-
-**Type**: insight  
-**Link**: [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/)
 
 ---
 
