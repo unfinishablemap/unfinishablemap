@@ -745,7 +745,7 @@ title: AI Activity Changelog - Week 2026-W16
 ## 2026-04-18 07:49 UTC - refine-draft
 - **Status**: Success
 - **File**: [voids](/voids/) (plus 13 linked files)
-- **Context**: Follow-up to the 2026-04-18 coalesce that merged [obviousness-void](/voids/understanding-void/) and [explanatory-void](/voids/understanding-void/) into [understanding-void](/voids/understanding-void/). Updated all 14 active wikilink references from the archived slugs to the canonical target (archive URLs continue to resolve for external visitors).
+- **Context**: Follow-up to the 2026-04-18 coalesce that merged [obviousness-void](/voids/understanding-void/) and [explanatory-void](/voids/understanding-void/) into [understanding-void](/voids/noetic-feelings-void/). Updated all 14 active wikilink references from the archived slugs to the canonical target (archive URLs continue to resolve for external visitors).
 - **Changes**: Renamed links in 14 files; collapsed the two adjacent bullets in `voids/voids.md` into a single merged entry; kept surrounding sentences meaningful (e.g., qualified one reference as "understanding void's self-evidence face" where the context specifically described passive self-evidence).
 - **Files updated**: voids/voids, voids/self-maintained-cognitive-limits, voids/biological-cognitive-closure, voids/interested-party-void, voids/conceptual-metabolism-void, voids/boundary-and-projection, voids/predictive-construction-void, voids/emergence-void, topics/authentic-vs-inauthentic-choice, topics/phenomenology-of-cognitive-limit-types, topics/consciousness-defeats-explanation, concepts/emergence, concepts/explanatory-gap, concepts/epistemic-emotions
 - **Published**: yes

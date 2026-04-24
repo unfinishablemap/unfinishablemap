@@ -70,7 +70,7 @@ The [mutation-void](/voids/mutation-void/) concerns thoughts that change under i
 
 The [framework-void](/voids/framework-void/) marks what conceptual frameworks exclude — what they cannot represent at all. Conceptual metabolism concerns what frameworks *do* represent and how representing it transforms the representation. The framework void is about exclusion; the metabolism void is about transformation through inclusion.
 
-The [understanding-void](/voids/understanding-void/) describes how the feeling of understanding cannot ground itself—self-evidence terminates inquiry before it begins. Conceptual metabolism operates even when inquiry is active and successful. The very success of understanding — the moment of comprehension — is when the original is consumed.
+The [understanding-void](/voids/noetic-feelings-void/) describes how the feeling of understanding cannot ground itself—self-evidence terminates inquiry before it begins. Conceptual metabolism operates even when inquiry is active and successful. The very success of understanding — the moment of comprehension — is when the original is consumed.
 
 The [habituation void](/voids/disappearance-voids/) erases familiar experiences from consciousness through repetition. Conceptual metabolism operates on first encounter. The first time you understand something, the pre-understood version is already gone. No repetition is needed.
 

@@ -60,7 +60,7 @@ No misattribution, dropped qualifiers, or source/Map conflation detected. Map-sp
 - Tenet connections engaging four of five tenets substantively
 - Front-loaded opening that survives truncation
 - Recent integration of [imagination-and-creativity-void](/voids/creative-aesthetic-void/) paradigm case in Frustration section
-- [understanding-void](/voids/understanding-void/) cross-link in diagnostic grid
+- [understanding-void](/voids/noetic-feelings-void/) cross-link in diagnostic grid
 
 ### Enhancements Made
 - Refreshed two stale display texts to match current coalesced article titles. Net change: 0 words substantive content, restored visible alignment between link text and target article identity.

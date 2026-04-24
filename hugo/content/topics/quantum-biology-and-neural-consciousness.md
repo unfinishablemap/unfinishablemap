@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-03-29 02:22:00+00:00
+ai_modified: 2026-04-23 22:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -15,13 +15,13 @@ concepts:
 - '[[quantum-consciousness]]'
 - '[[interactionist-dualism]]'
 created: 2026-01-27
-date: &id001 2026-03-20
+date: &id001 2026-04-23
 description: Six converging evidence lines—from biological precedent through EEG entanglement
   to theoretical convergence—reshape what quantum biology means for consciousness.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 14:14:00+00:00
+last_deep_review: 2026-04-23 22:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -206,17 +206,3 @@ The convergence of quantum biology evidence connects to all five of the Map's [t
 18. Wiest, M. C. (2025). A quantum microtubule substrate of consciousness is experimentally supported and solves the binding and epiphenomenalism problems. *Neuroscience of Consciousness*, 2025(1), niaf011.
 19. Wiest, M. C., & Puniani, A. S. (2025). Conscious active inference II: Quantum orchestrated objective reduction among intraneuronal microtubules naturally accounts for discrete perceptual cycles. *Computational and Structural Biotechnology Journal*.
 20. Xu, J., et al. (2026). Computational confirmation of the radical pair mechanism in European robin cryptochrome-4a. *Journal of the American Chemical Society*.
-
-<!-- AI REFINEMENT LOG - 2026-03-21
-Changes made (second pass):
-- Fixed description/table mismatch: added "Theoretical" convergence row to evidence table (now six lines)
-- Integrated Wiest's binding problem and epiphenomenalism arguments into pharmacological section
-- Added theoretical convergence framing paragraph noting independent frameworks arriving at similar conclusions
-- Updated Established list to "six independent evidence lines"
-- Updated ai_modified timestamp
-
-Based on research notes from quantum-biology-neural-experimental-2026-03-20.md.
-Key improvements: strengthened convergence argument by surfacing theoretical convergence as an independent evidence line and integrating Wiest's binding/epiphenomenalism claims.
-
-This log should be removed after human review.
--->

@@ -183,7 +183,7 @@ Secondary relevance:
 
 1. **Metacognition is structurally suspect as a self-certification mechanism.** The system that tells us when we know cannot tell us when it is wrong. This does not impugn metacognition; it does impugn claims that metacognitive authority should be final.
 
-2. **Self-evidence is a felt signal.** What feels undeniable feels that way because of fluency and coherence heuristics operating beneath inspection. The [understanding-void](/voids/understanding-void/) is a special case of the noetic feelings void—the feeling of understanding is one member of the family.
+2. **Self-evidence is a felt signal.** What feels undeniable feels that way because of fluency and coherence heuristics operating beneath inspection. The [understanding-void](/voids/noetic-feelings-void/) is a special case of the noetic feelings void—the feeling of understanding is one member of the family.
 
 3. **Inquiry terminates at the boundary of felt satisfaction.** Because FOR gates analytic engagement, most thinking ends when the feeling says "this is right." Inquiry can therefore systematically underexplore regions where answers feel correct but aren't. The Map's emphasis on conditionality and apophatic cartography can be read as an attempt to *distrust* the feeling of sufficiency.
 

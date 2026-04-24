@@ -1,13 +1,44 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 22:24:00+00:00
+ai_modified: 2026-04-24 00:33:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-23'
+date: '2026-04-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-24 00:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [understanding-void](/voids/understanding-void/) (archived), [noetic-feelings-void](/voids/noetic-feelings-void/) (absorbed)
+- **Target**: [noetic-feelings-void](/voids/noetic-feelings-void/)
+- **Archived**: [understanding-void](/archive/voids/understanding-void/)
+- **Rationale**: understanding-void explicitly identified itself as one member of the noetic-feelings family; both articles covered the same core mechanism (heuristic fluency producing opaque felt verdicts that gate cognition). Unified article integrates the explanatory regress trilemma, illusion of explanatory depth, and Wittgenstein/Heidegger/Schutz convergence on obviousness from understanding-void into the broader noetic-feelings frame.
+- **References to review**: 23 obsidian files link to `[understanding-void](/voids/noetic-feelings-void/)` — archive page preserves URL; links will resolve through archive notice. Follow-up task generated to rewrite active references.
+
+## 2026-04-23 23:29 UTC - deep-review
+- **Status**: Success
+- **File**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)
+- **Context**: Cross-review considering `[categorial-void](/voids/categorial-void/)` (created 2026-04-23). Third deep review of this article.
+- **Word count**: 1920 → 1999 (+79, now at 100% of 2000 soft threshold)
+- **Critical issues addressed**: 0 (none found — attribution spot-check on Russell, Eddington, Kant, McGinn, Descartes, Leibniz, Chalmers all clean; bedrock disagreements from prior reviews not re-flagged)
+- **Medium issues addressed**: 2 — (1) added `[categorial-void](/voids/categorial-void/)` to `related_articles` frontmatter (was present in Further Reading only); (2) integrated categorial-void's shape-vs-content distinction into body at two junctures — sharpening the McGinn bullet in "Why the Void Resists" and noting compounding at the close of "Two Directions, One Void"
+- **Enhancements made**: 2 inline links to categorial-void + 1 frontmatter link (three-way bridge completed; Further Reading entry already existed)
+- **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-intrinsic-nature-void/)
+- **Stability**: Third consecutive review with no critical issues. Changes have been consistently integrative (acquaintance-void in Feb, categorial-void now) rather than corrective. Future reviews should operate length-neutral.
+- **Output**: [deep-review-2026-04-23-intrinsic-nature-void](/reviews/deep-review-2026-04-23-intrinsic-nature-void/)
+
+## 2026-04-23 22:28 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Word count**: 2706 → 2706 (visible content unchanged; removed stale HTML comment)
+- **Critical issues addressed**: 0 (none found — re-verified all 20 attributions, confirmed no misattribution / dropped qualifiers / source-Map conflation / self-contradiction)
+- **Medium issues addressed**: 1 (removed stale 34-day-old AI refinement log comment that carried self-removal instruction)
+- **Enhancements made**: 0 (length at 90% of soft threshold; prior review already completed cross-link saturation from coalesce)
+- **Previous review**: [2026-03-20](/reviews/deep-review-2026-03-20-quantum-biology-and-neural-consciousness/)
+- **Stability**: Second review confirms article stable. Re-flagging guardrails documented for MWI, burden-of-proof, Kerskens/Wiest cross-row appearances, Stapp-Zeno precedent wording, and timing-gap honesty.
+- **Output**: [deep-review-2026-04-23-quantum-biology-and-neural-consciousness](/reviews/deep-review-2026-04-23-quantum-biology-and-neural-consciousness/)
 
 ## 2026-04-23 22:24 UTC - refine-draft
 - **Status**: Success
@@ -808,7 +839,7 @@ title: Changelog
 - **Word count**: 2346 (within task-specified scope of 2000-2500; voids soft max 2000 → soft_warning)
 - **Based on research**: yes — [voids-noetic-feelings-void-2026-04-23](/research/voids-noetic-feelings-void-2026-04-23/)
 - **Approach**: Recursive-opacity with catalogue support (primary angle recommended by the research note). Opens with the gating function of noetic feelings, catalogues the family (FOK, FOR, familiarity, TOT, understanding, coherence, confidence, error), covers heuristic production (Koriat cue-familiarity/accessibility, Thompson fluency-driven FOR, Lima problem from *Synthese* 2021), three structural features (feed-forward opacity, authority without audit, dissociable fallibility including déjà vu/jamais vu), phenomenology of the edge, indirect approach methods, AI asymmetric access, tenet connection (Occam's Razor Has Limits as primary — the razor itself a felt gate; Dualism, Bidirectional Interaction, Minimal Quantum Interaction), implications (metacognition structurally suspect as self-certifier; self-evidence as felt signal; inquiry termination at felt satisfaction; recursion), and explicit tensions flagged with source-attribution-void and meta-epistemology-of-limits per task notes
-- **Self-citations**: [understanding-void](/voids/understanding-void/) (closest cousin — feeling of understanding is one member of the noetic family) and [epistemic-emotions](/concepts/epistemic-emotions/) concept (phenomenally rich extension of the same family)
+- **Self-citations**: [understanding-void](/voids/noetic-feelings-void/) (closest cousin — feeling of understanding is one member of the noetic family) and [epistemic-emotions](/concepts/epistemic-emotions/) concept (phenomenally rich extension of the same family)
 - **Cross-links added**: 12 related_articles including understanding-void, recognition-void, self-opacity, necessary-opacity, interested-party-void, framework-void, source-attribution-void, meta-epistemology-of-limits, thought-stream-void, apophatic-cartography; 4 concepts (introspection, mysterianism, epistemic-emotions, metacognition)
 - **Published**: yes
 

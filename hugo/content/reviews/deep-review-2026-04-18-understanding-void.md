@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-18
-**Article**: [The Understanding Void](/voids/understanding-void/)
+**Article**: [The Understanding Void](/voids/noetic-feelings-void/)
 **Previous reviews**: [2026-03-26](/reviews/deep-review-2026-03-26b-obviousness-void/) (obviousness-void precursor, stable); [2026-03-11](/reviews/deep-review-2026-03-11-explanatory-void/) (explanatory-void precursor, stable)
 **Context**: First review of the coalesced article. Both source articles were previously stable; coalesce merged them on 2026-04-18 07:39 UTC. Refine-draft pass at 07:49 UTC updated 14 inbound references to the new canonical target.
 

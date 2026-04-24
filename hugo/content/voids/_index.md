@@ -112,7 +112,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Thrownness Void](/voids/thrownness-void/) — Why consciousness cannot access the conditions under which it became conscious
 - [Smoothness and Continuity](/voids/smoothness-and-continuity/) — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [The Counterfactual Void](/voids/counterfactual-void/) — How counterfactual thinking is trapped near actuality
-- [The Understanding Void](/voids/understanding-void/) — Why the feeling of understanding cannot ground itself: explanation cannot explain itself, and self-evidence terminates inquiry before it begins
+- [The Noetic Feelings Void](/voids/noetic-feelings-void/) — Why the felt signals that gate cognition from inside—knowing, rightness, understanding, obviousness—cannot be audited without deploying more signals of the same kind (coalesced with understanding-void 2026-04-24)
 - [The Indexical Void / Vertiginous Question](/topics/vertiginous-question/) — Why first-person identity resists explanation (coalesced 2026-04-23)
 - [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot opt out of itself
 - [The Narrative Void](/voids/narrative-void/) — Why consciousness cannot observe its own storytelling

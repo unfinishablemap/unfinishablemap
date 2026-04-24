@@ -57,7 +57,7 @@ The void arises from four interlocking features of [predictive processing](/conc
 
 Most voids in the Map are experienced as limits. The [framework void](/voids/framework-void/) manifests as the frustration of conceptual inadequacy. [Self-opacity](/voids/self-opacity/) manifests as the strangeness of not knowing one's own processes. The predictive construction void is distinctive because it does not feel like a limit at all. Successful prediction generates the phenomenology of direct access—the more thoroughly perception is constructed, the more it feels like unmediated contact with reality.
 
-This makes the void not merely self-concealing but self-erasing. The [understanding void](/voids/understanding-void/) identifies how self-evidence terminates inquiry. The predictive construction void goes further: it produces the very feeling of self-evidence. The sense that you are "just seeing" the world—that perception is transparent, immediate, obvious—is itself a prediction. The void manufactures the confidence that occludes it. The [mood void](/voids/mood-void/) exhibits the same self-erasing structure in the affective register: a pervasive mood frames experience precisely by not appearing within it, and the framing vanishes most thoroughly when it is working most thoroughly. Construction and coloration share an architecture—both are media that disappear into what they enable.
+This makes the void not merely self-concealing but self-erasing. The [understanding void](/voids/noetic-feelings-void/) identifies how self-evidence terminates inquiry. The predictive construction void goes further: it produces the very feeling of self-evidence. The sense that you are "just seeing" the world—that perception is transparent, immediate, obvious—is itself a prediction. The void manufactures the confidence that occludes it. The [mood void](/voids/mood-void/) exhibits the same self-erasing structure in the affective register: a pervasive mood frames experience precisely by not appearing within it, and the framing vanishes most thoroughly when it is working most thoroughly. Construction and coloration share an architecture—both are media that disappear into what they enable.
 
 The void becomes briefly visible when prediction fails:
 
@@ -124,7 +124,7 @@ This is a falsifiability risk, not only a feature. Treating first-person opacity
 ## Further Reading
 
 - [necessary-opacity](/voids/necessary-opacity/) — Why opacity may be a feature rather than a bug
-- [understanding-void](/voids/understanding-void/) — How self-evidence terminates inquiry and explanation cannot explain itself
+- [understanding-void](/voids/noetic-feelings-void/) — How self-evidence terminates inquiry and explanation cannot explain itself
 - [simulation-detection-void](/voids/simulation-detection-void/) — The related void of detecting simulated substrates
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive processing reinterpreted for dualist frameworks
 - [dualist-perception](/topics/dualist-perception/) — How dualism reshapes the philosophy of perception

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-23 23:29:00+00:00
+ai_modified: 2026-04-24 00:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-24 00:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/understanding-void]] (archived), [[voids/noetic-feelings-void]] (absorbed)
+- **Target**: [[voids/noetic-feelings-void]]
+- **Archived**: [[archive/voids/understanding-void]]
+- **Rationale**: understanding-void explicitly identified itself as one member of the noetic-feelings family; both articles covered the same core mechanism (heuristic fluency producing opaque felt verdicts that gate cognition). Unified article integrates the explanatory regress trilemma, illusion of explanatory depth, and Wittgenstein/Heidegger/Schutz convergence on obviousness from understanding-void into the broader noetic-feelings frame.
+- **References to review**: 23 obsidian files link to `[[understanding-void]]` — archive page preserves URL; links will resolve through archive notice. Follow-up task generated to rewrite active references.
 
 ## 2026-04-23 23:29 UTC - deep-review
 - **Status**: Success

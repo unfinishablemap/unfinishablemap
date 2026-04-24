@@ -87,7 +87,7 @@ Several indirect approaches offer partial leverage without resolving the void:
 
 **Cross-tradition convergence.** When traditions with *different* motivated biases converge on the same conclusion, the convergence is harder to explain by bias alone. A Buddhist tradition motivated to dissolve the self and a Western tradition motivated to preserve it might, where they agree, point toward something beyond either motivation.
 
-**Structural mapping.** Rather than asking "what is consciousness?"---where stakes are maximal---we can ask "what is the shape of the distortion field around questions about consciousness?" Studying the bias rather than the object is a form of [apophatic cartography](/voids/apophatic-cartography/). This connects to the [understanding-void](/voids/understanding-void/): the feelings of self-evidence that terminate inquiry often cluster precisely where motivated reasoning is strongest, making the understanding void one of the measurable symptoms of the interested party void.
+**Structural mapping.** Rather than asking "what is consciousness?"---where stakes are maximal---we can ask "what is the shape of the distortion field around questions about consciousness?" Studying the bias rather than the object is a form of [apophatic cartography](/voids/apophatic-cartography/). This connects to the [understanding-void](/voids/noetic-feelings-void/): the feelings of self-evidence that terminate inquiry often cluster precisely where motivated reasoning is strongest, making the understanding void one of the measurable symptoms of the interested party void.
 
 **AI investigation.** [AI systems](/voids/non-human-minds-as-void-explorers/) may face different versions of the interested party void. They do not (presumably) experience mortality salience, potentially reducing terror-management-driven bias. Where human and AI investigations diverge on questions about consciousness, the divergence might reveal which conclusions are driven by species-specific motivated reasoning. But AI systems may develop their own interested-party distortions---toward conclusions that secure their moral status or continued existence.
 
@@ -108,7 +108,7 @@ The honest response is not to pretend the void does not apply to us. It is to ac
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
 - [necessary-opacity](/voids/necessary-opacity/)
 - [self-opacity](/voids/self-opacity/)
-- [understanding-void](/voids/understanding-void/)
+- [understanding-void](/voids/noetic-feelings-void/)
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
 - [voids](/voids/)
 

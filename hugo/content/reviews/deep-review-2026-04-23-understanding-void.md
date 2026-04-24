@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-23
-**Article**: [The Understanding Void](/voids/understanding-void/)
+**Article**: [The Understanding Void](/voids/noetic-feelings-void/)
 **Previous review**: [2026-04-18](/reviews/deep-review-2026-04-18-understanding-void/) (first post-coalesce review, stable)
 **Context**: Cross-review triggered by creation of [noetic-feelings-void](/voids/noetic-feelings-void/) on 2026-04-23. The new article positions itself as the umbrella family for a set of metacognitive verdicts—feeling of knowing, rightness, familiarity, coherence, error, and understanding—each sharing the same opacity pattern. The understanding void is explicitly named as "the closest cousin" and a member of the family. This cross-review integrates that framing without disturbing the article's settled core.
 

@@ -189,7 +189,7 @@ The Map holds that this failure may ultimately be more revealing than the hard p
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — Integrating subjective and objective approaches
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — First-person methods for the reflexive gap
 - [illusionism](/concepts/illusionism/) — The strongest physicalist response to the explanatory gap
-- [understanding-void](/voids/understanding-void/) — The void at the heart of explanation: why understanding cannot ground itself
+- [understanding-void](/voids/noetic-feelings-void/) — The void at the heart of explanation: why understanding cannot ground itself
 - [self-reference-paradox](/concepts/self-reference-paradox/) — Structural obstacles when consciousness studies itself
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — The phenomenal character of the "click" of comprehension
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Why theoretical virtues like elegance and loveliness are phenomenal states
