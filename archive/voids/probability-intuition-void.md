@@ -31,6 +31,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-03
 last_curated: null
+archived: true
+archived_date: 2026-04-24T19:33:07+00:00
+superseded_by: "/voids/quantitative-intuition-void/"
+archive_reason: "Coalesced into The Quantitative Intuition Void"
+original_path: "/voids/probability-intuition-void/"
 ---
 
 Human minds systematically fail at probabilistic reasoning in ways that appear architecturally deep rather than merely educational. We neglect base rates, succumb to the conjunction fallacy, believe in the "law of small numbers," and compulsively see patterns in genuinely random data. These failures are not random errors but structured patterns that persist even among trained statisticians and resist educational intervention. More strikingly, we may lack phenomenological access to genuine randomness itself—we can think about chance but cannot experience it. This is the probability intuition void: a cognitive limit that reveals something fundamental about how consciousness relates to uncertainty.

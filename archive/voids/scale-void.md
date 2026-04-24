@@ -25,6 +25,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-02
 last_curated: null
+archived: true
+archived_date: 2026-04-24T19:33:07+00:00
+superseded_by: "/voids/quantitative-intuition-void/"
+archive_reason: "Coalesced into The Quantitative Intuition Void"
+original_path: "/voids/scale-void/"
 ---
 
 Human consciousness operates within a narrow perceptual bandwidth calibrated by evolution for survival in ancestral environments. When confronted with scales vastly beyond this bandwidth—cosmic distances, deep time, quantum phenomena, or even large numbers like billions and trillions—cognition does not merely fail quantitatively. It fails *qualitatively*. The brain stops treating these magnitudes as distinct values and starts treating them as categorical markers: "big" and "bigger." This is the scale void: a limit on comprehension that may be partly evolutionary accident and partly architectural necessity.

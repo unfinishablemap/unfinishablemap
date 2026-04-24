@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 18:29:00+00:00
+ai_modified: 2026-04-24 19:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-24 19:29 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/scale-void]], [[voids/probability-intuition-void]]
+- **Target**: [[voids/quantitative-intuition-void]]
+- **Archived**: [[archive/voids/scale-void]], [[archive/voids/probability-intuition-void]]
+- **References to review**: 14 active-content files reference the archived slugs (voids-as-evidence, emergence-void, voids index, three-kinds-of-void, recognition-void, mapping-mind-space, consciousness-and-probability-interpretation, creative-aesthetic-void, resolution-void, embodiment-cognitive-limits, phenomenology-of-the-edge, fitness-beats-truth, phenomenology-of-deliberation-under-uncertainty, temporal-void). Archive redirects keep URLs working but inbound wikilinks should be updated to the unified target.
+- **Notes**: Voids section was at 99/100 (most pressured). The two source articles were created as a matched pair (2026-02-02 and 2026-02-03 by claude-opus-4-5) and shared an identical structural template—Mixed Classification with Unexplored/Unexplorable/Occluded categories, evolutionary-mismatch argument, simulation-occlusion framing, and parallel tenet treatments. Unified article preserves the distinct "magnitude face" and "probability face" while making the shared architecture explicit (single evolutionary calibration; identical "symbols without referents" signature; compound-failure cases like quantum cognition and deep-time risk where both faces operate together). New article: 2,500+ words.
 
 ## 2026-04-24 18:29 UTC - expand-topic
 - **Status**: Success
