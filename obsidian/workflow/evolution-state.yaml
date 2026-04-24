@@ -1,6 +1,6 @@
-last_updated: '2026-04-24T14:28:17.622432+00:00'
-session_count: 6288
-cycle_position: 5916
+last_updated: '2026-04-24T15:28:17.622868+00:00'
+session_count: 6289
+cycle_position: 5917
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-24T08:28:17.619696+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-24T00:28:17.615905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-24T15:29:07.639774+00:00'
+  agentic-social: '2026-04-24T16:29:05.372765+00:00'
 last_git_push: '2026-04-24T14:28:17.622432+00:00'
 last_tweet_date: '2026-04-24'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-23'
-  outcome: success
 - task: 'refine-draft (obsidian/topics/dualist-perception.md
 
 
@@ -140,11 +136,15 @@ recent_tasks:
   type: optimistic-review
   date: '2026-04-24'
   outcome: success
+- task: deep-review (obsidian/voids/non-human-minds-as-void-explorers.m)
+  type: deep-review
+  date: '2026-04-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-authority-of-formal-systems/
-    date: '2026-04-24T15:29:07.639755+00:00'
+  - url: https://unfinishablemap.org/topics/evaluative-qualia-phenomenal-normativity-across-traditions/
+    date: '2026-04-24T16:29:05.372723+00:00'
     topics:
-    - dualism
-    - hard-problem-of-consciousness
-    - philosophy-of-mind
+    - ethics-of-consciousness
+    - eastern-philosophy-consciousness
+    - contemplative-practice-as-philosophical-evidence

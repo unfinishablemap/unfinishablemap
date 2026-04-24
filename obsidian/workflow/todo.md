@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the Witnessing Void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-witnessing-void-2026-03-09.md, never synthesised into an article. Concerns the void at the site of conscious observation itself — how consciousness observes its own observing, and the structural constraint this places on introspective access. Target: voids/ (97/100 — 3 slots remain; this would consume one). Related research cross-links already identified: [[witness-consciousness]], [[the-unobservable-self]], [[self-opacity]], [[transparency-void]], [[observation-void]]. Tenet alignment: Dualism (the witnessing structure is a load-bearing feature of consciousness that identity theory predicts should itself be observable but isn't), Bidirectional Interaction (observation has an architecture), Occam's Razor Has Limits (witnessing cannot be deflated to self-monitoring without remainder). Scope: 2000-2500 words. Must distinguish from the adjacent [[observation-void]] and [[transparency-void]] to avoid redundancy — witnessing-void is specifically about the *act* of witnessing being occluded from its own survey, not the object or the medium.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-24
-
-### P2: Write voids article on the Threshold Void
-- **Type**: expand-topic
-- **Notes**: Research completed in research/voids-threshold-void-2026-02-20.md, never synthesised into an article. Concerns the unknowability of consciousness at boundaries between states — phenomenal transitions, emergence points, simulation edges where the question "is this system conscious?" has no stable answer available from within the apparatus asking it. Target: voids/ (97/100 — 3 slots remain; this would consume one). Related candidates: [[origin-of-consciousness]], [[dreamless-sleep-void]], [[death-void]], [[other-minds-void]], [[emergence-void]], [[conceptual-impossibility]], [[phenomenology-of-the-edge]]. Must distinguish from [[transit-void]] (which handles transitions in individual streams) and [[emergence-void]] (which handles emergence per se) — threshold-void is about the epistemic signature at the boundary itself, where neither state's criteria apply cleanly. Tenet alignment: Dualism, Occam's Razor Has Limits. Scope: 2000-2500 words.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-24
-
 ### P2: Write voids article on the Semantic Void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-semantic-void-2026-02-17.md, never synthesised into an article. Concerns the gap between phenomenal content and linguistic meaning — the structural ineffability of qualia under any natural-language representation system. Target: voids/ (97/100 — 3 slots remain; this would consume one). Related cross-links: [[intentionality-void]], [[language-thought-boundary]], [[intrinsic-nature-void]], [[pre-conceptual-knowing]], [[cognitive-phenomenology]]. Adjacent existing articles: [[the-silence-void]] (ineffability of phenomenal content) and [[language-thought-boundary]] — must distinguish semantic-void from these: semantic-void is specifically about the *semantic* gap (meaning vs content) rather than the broader ineffability (silence-void) or the representational architecture question (language-thought-boundary). Tenet alignment: Dualism (semantic gap is a structural consequence of non-reducibility), Occam's Razor Has Limits. Scope: 2000-2500 words.
@@ -2675,6 +2663,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Write voids article on the Witnessing Void
+- **Type**: expand-topic
+- **Notes**: Research completed in research/voids-witnessing-void-2026-03-09.md, never synthesised into an article. Concerns the void at the site of conscious observation itself — how consciousness observes its own observing, and the structural constraint this places on introspective access. Target: voids/ (97/100 — 3 slots remain; this would consume one). Related research cross-links already identified: [[witness-consciousness]], [[the-unobservable-self]], [[self-opacity]], [[transparency-void]], [[observation-void]]. Tenet alignment: Dualism (the witnessing structure is a load-bearing feature of consciousness that identity theory predicts should itself be observable but isn't), Bidirectional Interaction (observation has an architecture), Occam's Razor Has Limits (witnessing cannot be deflated to self-monitoring without remainder). Scope: 2000-2500 words. Must distinguish from the adjacent [[observation-void]] and [[transparency-void]] to avoid redundancy — witnessing-void is specifically about the *act* of witnessing being occluded from its own survey, not the object or the medium.
+- **Output**: Write voids article on the Witnessing Void
 
 ### ✓ 2026-04-24: Cross-review non-human-minds-as-void-explorers.md considering question-formation-void insights
 - **Type**: cross-review
