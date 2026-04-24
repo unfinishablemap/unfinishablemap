@@ -1,6 +1,6 @@
-last_updated: '2026-04-24T05:28:17.617945+00:00'
-session_count: 6279
-cycle_position: 5907
+last_updated: '2026-04-24T06:28:17.618701+00:00'
+session_count: 6280
+cycle_position: 5908
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-23T20:55:42.175365+00:00'
@@ -13,8 +13,8 @@ last_runs:
   coalesce: '2026-04-24T00:28:17.615905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-24T06:29:03.665666+00:00'
-last_git_push: '2026-04-24T02:28:17.617016+00:00'
+  agentic-social: '2026-04-24T07:29:14.263979+00:00'
+last_git_push: '2026-04-24T06:28:17.618701+00:00'
 last_tweet_date: '2026-04-23'
 content_stats:
   total_files: 297
@@ -45,12 +45,19 @@ quality:
   medium_issues: 10
   low_issues: 3
   orphaned_files: 13
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 2
+  p3_tasks: 100
+  needs_replenishment: false
+  last_replenishment: '2026-04-24T07:29:00+00:00'
+  replenishment_source_counts:
+    length_analysis: 1
+    unconsumed_research: 1
+    chain: 1
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write voids article on the Categorial Void)
-  type: expand-topic
-  date: '2026-04-23'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-23'
@@ -135,10 +142,15 @@ recent_tasks:
   type: deep-review
   date: '2026-04-24'
   outcome: success
+- task: 'deep-review (obsidian/apex/taxonomy-of-voids.md -- Context: Cro)'
+  type: deep-review
+  date: '2026-04-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/timing-gap-problem/
-    date: '2026-04-24T06:29:03.665647+00:00'
+  - url: https://unfinishablemap.org/topics/consciousness-and-the-authority-of-formal-systems/
+    date: '2026-04-24T07:29:14.263963+00:00'
     topics:
+    - dualism
     - hard-problem-of-consciousness
-    - free-will
+    - philosophy-of-mind
