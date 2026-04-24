@@ -1,13 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 02:46:00+00:00
+ai_modified: 2026-04-24 06:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-24 06:29 UTC - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 4020 → 4032 (+12, length-neutral against 4000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (integrated closure-types-void into Formal and Meta-Cognitive Cluster as the missing member of the second-order voids cluster; added to frontmatter related_articles)
+- **Enhancements made**: 1 cross-link added + 2 length-neutral offset trims (Methods section compression; Taxonomy's Own Limits tightening)
+- **Output**: [deep-review-2026-04-24-taxonomy-of-voids](/reviews/deep-review-2026-04-24-taxonomy-of-voids/)
+
+## 2026-04-24 05:30 UTC - deep-review
+- **Status**: Success
+- **File**: [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)
+- **Word count**: 2465 → 2465 (unchanged)
+- **Critical issues addressed**: 0 (fourth review; article at convergence)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (no changes needed — recent link retargeting already integrated well; timestamps updated only)
+- **Output**: [deep-review-2026-04-24-indian-philosophy-of-mind](/reviews/deep-review-2026-04-24-indian-philosophy-of-mind/)
+
+## 2026-04-24 04:29 UTC - deep-review
+- **Status**: Success
+- **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Word count**: 2598 → 2700 (+102; length-neutral offset applied within soft_warning, still well below 3000 hard)
+- **Critical issues addressed**: 0 (fifth review; article at convergence)
+- **Medium issues addressed**: 1 (reciprocal cross-links to the rest of the second-order voids cluster — plenitude-void and categorial-void)
+- **Enhancements made**: 2 inline cross-references + 2 Further Reading entries + 2 length-neutral offset trims
+- **Output**: [deep-review-2026-04-24-meta-epistemology-of-limits](/reviews/deep-review-2026-04-24-meta-epistemology-of-limits/)
+
+## 2026-04-24 03:29 UTC - deep-review
+- **Status**: Success
+- **File**: [plenitude-void](/voids/plenitude-void/)
+- **Word count**: 2497 → 2522 (+25, length-neutral)
+- **Critical issues addressed**: 0 (none remaining after 2026-04-23 refinement)
+- **Medium issues addressed**: 3 (removed AI refinement log, added third-person methods rejoinder, tightened Popperian concession paragraph)
+- **Enhancements made**: 1 (new third-person methods paragraph addressing deferred pessimistic-review counterargument)
+- **Output**: [deep-review-2026-04-24-plenitude-void](/reviews/deep-review-2026-04-24-plenitude-void/)
 
 ## 2026-04-24 02:46 UTC - tune-system
 - **Status**: Success

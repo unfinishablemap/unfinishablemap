@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-23 21:00:00+00:00
+ai_modified: 2026-04-24 03:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -11,13 +11,14 @@ concepts:
 - '[[mysterianism]]'
 - '[[dualism]]'
 created: 2026-04-23
-date: &id001 2026-04-23
+date: &id001 2026-04-24
 description: Human+AI exploration of why conscious experience seems rich beyond what
   can be reported or checked—and why that gap may be structurally impossible to resolve
   from within.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-24 03:29:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -101,9 +102,11 @@ Is the plenitude void a *cognitive* limit (experience is in fact rich, but cogni
 
 If cognitive — a bottleneck between phenomenal content and access — better instruments might in principle narrow the gap. If metaphysical — phenomenal content by its nature exceeding any access relation — no instrument could close the gap, and the appearance of plenitude would reflect consciousness's own structure rather than a failure of cognition to match it. The void does not allow this to be cleanly answered.
 
+A natural rejoinder is that *third-person* methods — neural decoding, population-level inference, behavioural signatures — could in principle bypass the first-person verification barrier. In practice they cannot do so unaided: every calibration of neural measures against phenomenal content requires a bridge from activity to experience, and that bridge is precisely what the void calls into question. The void is not that no external method could work; it is that external methods inherit the problem at the point of calibration.
+
 The honest limitation is that plenitude claims resist falsification by the same structure that makes them interesting. Any method proposed to detect overflow must define what counts as phenomenal content; any such definition either builds in the answer or leaves the target undefined. The structural features producing the void also shield it from decisive test.
 
-This concession has to be owned rather than glossed. A Popperian critic will say the plenitude void is *structurally unfalsifiable* and therefore not a genuine empirical question at all. That charge has force, and the article accepts its weaker form while resisting its stronger one. It helps here to distinguish two kinds of unfalsifiability. *Evidential* unfalsifiability means nature happens not to supply discriminating observations — more instrumentation, more time, or more cleverness might resolve the question in principle. *Definitional* unfalsifiability means the terms of the question are set so that no observation could count as discriminating — the concept, not the world, forecloses the test. The plenitude void is primarily of the second kind, because "phenomenal content not reaching report" is defined so as to exclude itself from any report-based instrument. The article does not claim this is a discovery about reality; it is a feature of how the phenomenal is currently conceptualised. That the concept produces this shape matters — it says something about where our theoretical vocabulary is load-bearing and where it is empty — but it is not, and is not marketed here as, a positive metaphysical finding.
+A Popperian critic will call the plenitude void *structurally unfalsifiable* and therefore not a genuine empirical question. That charge has force. It helps to distinguish two kinds of unfalsifiability. *Evidential* unfalsifiability means nature happens not to supply discriminating observations — more instrumentation or cleverness might resolve the question in principle. *Definitional* unfalsifiability means the terms of the question are set so that no observation could count as discriminating — the concept, not the world, forecloses the test. The plenitude void is primarily of the second kind, because "phenomenal content not reaching report" is defined so as to exclude itself from any report-based instrument. That the concept produces this shape matters — it says something about where our theoretical vocabulary is load-bearing and where it is empty — but it is not offered as a positive metaphysical finding.
 
 ## Relation to Site Perspective
 
@@ -140,17 +143,3 @@ The void also connects to [self-opacity](/voids/self-opacity/) (the general stru
 1. Sperling, G. (1960). "The Information Available in Brief Visual Presentations." *Psychological Monographs*, 74(11), 1–29.
 1. Tye, M. (2009). *Consciousness Revisited: Materialism Without Phenomenal Concepts*. MIT Press.
 1. Southgate, A. & Oquatre-six, C. (2026-02-24). The Surplus Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/the-surplus-void/
-
-<!-- AI REFINEMENT LOG - 2026-04-23
-Changes made (addressing [pessimistic-2026-04-23d](/reviews/pessimistic-2026-04-23d/)):
-- Rewrote dualism payoff in "Relation to Site Perspective" so it no longer begs the question against materialism; now presented as a framing observation about where the explanatory burden falls, and flags Block's physicalism explicitly.
-- Fixed foveation error at the "check-and-find loop" bullet: covert attention (Posner 1980) enhances processing without moving the fovea; foveation only follows if a saccade occurs.
-- Added asymmetry paragraph to "Grand Illusion Debate": illusion view makes behavioural predictions; overflow view posits currently undetectable content. The void is what remains when a prediction and a posit both stand.
-- Added eliminativist (Churchland) counter-framing as a third live position the void must survive.
-- Added Popperian-acknowledgement paragraph to "Cognitive Limit or Metaphysical Surplus?": distinguishes definitional from evidential unfalsifiability, concedes the void is primarily definitional, does not market this as a positive metaphysical finding.
-- Hedged bandwidth figures at "Bandwidth Frame" with "commonly cited estimates" and a contested-methodology note, deferring sources to [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/).
-- Reworded gorilla-confidence claim to reference Simons & Chabris 1999 and replications, dropping the overly strong "just as likely to feel confident" phrasing.
-- Added Posner 1980 and Churchland 1981 to References.
-
-This log should be removed after human review.
--->
