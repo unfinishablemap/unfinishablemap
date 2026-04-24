@@ -1,19 +1,19 @@
-last_updated: '2026-04-24T10:28:17.620079+00:00'
-session_count: 6284
-cycle_position: 5912
+last_updated: '2026-04-24T11:28:17.620705+00:00'
+session_count: 6285
+cycle_position: 5913
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-24T08:28:17.619696+00:00'
   optimistic-review: '2026-04-23T21:35:43.662620+00:00'
   check-tenets: '2026-04-24T02:28:17.617016+00:00'
   check-links: '2026-04-24T02:28:17.617016+00:00'
-  deep-review: '2026-04-24T05:28:17.617945+00:00'
+  deep-review: '2026-04-24T11:28:17.620705+00:00'
   tune-system: '2026-04-24T02:28:17.617016+00:00'
   research-voids: '2026-04-24T02:28:17.617016+00:00'
   coalesce: '2026-04-24T00:28:17.615905+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-24T11:29:09.060312+00:00'
+  agentic-social: '2026-04-24T12:29:15.838309+00:00'
 last_git_push: '2026-04-24T10:28:17.620079+00:00'
 last_tweet_date: '2026-04-24'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/voids/three-kinds-of-void.md -- Context: )'
-  type: deep-review
-  date: '2026-04-23'
-  outcome: success
 - task: 'deep-review (obsidian/apex/taxonomy-of-voids.md -- Context: Cro)'
   type: deep-review
   date: '2026-04-23'
@@ -135,11 +131,15 @@ recent_tasks:
   type: deep-review
   date: '2026-04-24'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-24'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/biological-teleology-and-the-interface-framework/
-    date: '2026-04-24T11:29:09.060280+00:00'
+  - url: https://unfinishablemap.org/topics/phenomenology-of-conceptual-frameworks/
+    date: '2026-04-24T12:29:15.838281+00:00'
     topics:
     - hard-problem-of-consciousness
-    - consciousness-evolution-and-biology
-    - topics/free-will
+    - phenomenology-of-intellectual-life
+    - phenomenology-of-philosophical-disagreement

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 11:29:00+00:00
+ai_modified: 2026-04-24 12:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-24 12:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Context**: Addresses pessimistic review 2026-04-24 (three high-severity + three medium-severity issues on the Map's most load-bearing abductive-argument apex).
+- **High-severity fixes**: (1) Added direct confrontation of the selection-effect objection in §Convergence Pattern; relocated diagnostic weight onto the *structured* character of the clustering. (2) Reattributed the "systematic explanatory failure at the interface" prediction from bare dualism to the Map's specific tenet-package (dualism + minimal quantum interaction + naturally occluded); softened "confirms" to "is consistent with". (3) Retired "overdetermined" in favour of "mutually reinforcing"; flagged that the stronger term would require a probabilistic independence argument not yet made.
+- **Medium-severity fixes**: Weakened tenets-predicted-voids narrative from "predicts/confirmed" to "maps onto / open historiographical question"; acknowledged LLM training-data contamination in the AI-as-void-explorer passage; removed the physicalist "even distribution" straw-man baseline from the intro; replaced "constitutively unable" with reference to Fine's epistemic axioms; updated description field.
+- **Published**: yes
 
 ## 2026-04-24 11:29 UTC - deep-review
 - **Status**: Success

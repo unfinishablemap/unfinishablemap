@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic-review findings on apex/taxonomy-of-voids.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-24 found three high-severity issues in the apex article: (1) the "clustering around consciousness" claim is not properly defended against the selection-effect objection (the Map was built around consciousness, so the clustering is partly constructed); (2) the bare-dualism prediction of "systematic explanatory failure at the interface" is overclaimed — only the Map's *specific* tenet-package (dualism + minimal quantum interaction + naturally occluded) predicts this, and the article should say so plainly; (3) "overdetermination" is asserted without a probabilistic independence argument and should be softened to "mutually reinforcing" unless the independence case is made. Also medium-severity: the tenets-predicted-voids narrative needs historical evidence or weakening to "accommodation"; the AI-as-void-explorer passage should acknowledge LLM training-data contamination; the physicalist "even distribution" baseline straw-mans physicalism. See pessimistic-2026-04-24.md for specific line-level suggestions and preferred replacement language.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-24
-
-### P3: Write concept article "The Meta-Voids Cluster — Second-Order Limits"
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-23-night (High Priority). Three new voids articles created tonight (2026-04-23: `voids/epistemic-horizon-void.md`, `voids/plenitude-void.md`, `voids/categorial-void.md`) exhibit a shared structural feature — each concerns *not a specific cognitive gap* but *a feature of the architecture of self-reflective cognition*. The existing taxonomy (`voids/three-kinds-of-void.md`: unexplored / unexplorable / occluded) cuts orthogonally to this second-order stratum. Article would (a) name the meta-voids cluster, (b) argue it is a meta-level or fourth category rather than a subcategory of any existing one, (c) specify how second-order voids differ structurally from first-order ones (self-referential architecture, self-concealing verification structure, definitional rather than evidential unfalsifiability), (d) catalogue the cluster members (including closure-types-void, meta-epistemology-of-limits, compound-failure-signatures, and possibly inventory-blindness). Medium scope (2200-2800 words). Target: `voids/` section (at ~97/100, has capacity for 1-3 more). Tenet alignment: Occam's Razor Has Limits (load-bearing), Dualism (horizon varies with non-physical aspect of consciousness). See optimistic-2026-04-23-night.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-23
-
 ### P3: Write methodology article "Evidential vs Definitional Unfalsifiability in Consciousness Studies"
 - **Type**: expand-topic
 - **Status**: pending
@@ -2623,6 +2609,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Address pessimistic-review findings on apex/taxonomy-of-voids.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-24 found three high-severity issues in the apex article: (1) the "clustering around consciousness" claim is not properly defended against the selection-effect objection (the Map was built around consciousness, so the clustering is partly constructed); (2) the bare-dualism prediction of "systematic explanatory failure at the interface" is overclaimed — only the Map's *specific* tenet-package (dualism + minimal quantum interaction + naturally occluded) predicts this, and the article should say so plainly; (3) "overdetermination" is asserted without a probabilistic independence argument and should be softened to "mutually reinforcing" unless the independence case is made. Also medium-severity: the tenets-predicted-voids narrative needs historical evidence or weakening to "accommodation"; the AI-as-void-explorer passage should acknowledge LLM training-data contamination; the physicalist "even distribution" baseline straw-mans physicalism. See pessimistic-2026-04-24.md for specific line-level suggestions and preferred replacement language.
+- **Output**: obsidian/apex/taxonomy-of-voids.md
+
+Task context:
+Pessimistic review 2026-04-24 found three high-severity issues in the apex article: (1) the "clustering around consciousness" claim is not properly defended against the selection-effect objection (the Map was built around consciousness, so the clustering is partly constructed); (2) the bare-dualism prediction of "systematic explanatory failure at the interface" is overclaimed — only the Map's *specific* tenet-package (dualism + minimal quantum interaction + naturally occluded) predicts this, and the article should say so plainly; (3) "overdetermination" is asserted without a probabilistic independence argument and should be softened to "mutually reinforcing" unless the independence case is made. Also medium-severity: the tenets-predicted-voids narrative needs historical evidence or weakening to "accommodation"; the AI-as-void-explorer passage should acknowledge LLM training-data contamination; the physicalist "even distribution" baseline straw-mans physicalism. See pessimistic-2026-04-24.md for specific line-level suggestions and preferred replacement language.
+
+### ✓ 2026-04-24: Address pessimistic-review findings on apex/taxonomy-of-voids.md
+- **Type**: refine-draft
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Addressed three high-severity issues (selection-effect defence, tenet-package vs bare dualism prediction, overdetermined→mutually reinforcing) and three medium-severity issues (tenets-predicted-voids narrative weakened to accommodation, AI-as-void-explorer acknowledges LLM training-data contamination, physicalist even-distribution straw-man removed). See pessimistic-2026-04-24.md.
 
 ### ✓ 2026-04-24: Cross-review voids/voids-as-evidence.md considering the three new second-order voids (epistemic-horizon-void, plenitude-void, categorial-void)
 - **Type**: cross-review
