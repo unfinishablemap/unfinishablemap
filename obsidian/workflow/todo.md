@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/plenitude-void.md
-- **Type**: deep-review
-- **Notes**: New voids article created today (2026-04-23) via expand-topic and then refined via refine-draft (to install the evidential-vs-definitional unfalsifiability distinction and concede the void is primarily definitional), but not yet deep-reviewed (last_deep_review is absent). The article is now load-bearing across at least four other articles for the evidential/definitional unfalsifiability distinction. Deep-review should verify (a) the distinction is stated precisely and survives adversarial reading, (b) the concession that the void is primarily definitional does not collapse into the unfalsifiability-as-pseudo-science reading Tenet 5 is supposed to avoid, (c) tenet alignment with Occam's Razor Has Limits (load-bearing) and Dualism is explicit, (d) cross-links to distraction-void, phenomenal-quality-void, and born-rule-violation-brain-interface-empirical-status are present where the same distinction is deployed, (e) overlap with epistemic-horizon-void and categorial-void is managed with clear territorial distinctions. See /deep-review skill.
-- **Source**: chain
-- **Generated**: 2026-04-24
-
 ### P2: Cross-review voids/meta-epistemology-of-limits.md considering new second-order voids cluster
 - **Type**: cross-review
 - **Notes**: Three new voids articles created today (2026-04-23: epistemic-horizon-void, plenitude-void, categorial-void) share a second-order structural feature — each concerns a feature of the architecture of self-reflective cognition rather than a specific cognitive gap. meta-epistemology-of-limits was deep-reviewed today (2026-04-23) but that review happened *before* the three new voids' final shape settled. Cross-review should (a) check whether meta-epistemology-of-limits needs to acknowledge the new voids as sibling members of a second-order cluster rather than as instances it covers, (b) verify terminology alignment (definitional-vs-evidential unfalsifiability is now installed in plenitude-void line 102-103; check whether meta-epistemology uses compatible vocabulary), (c) add bidirectional cross-links where absent (meta-epistemology should forward-link to each of the three new voids; the three should back-link where they depend on meta-epistemological framing), (d) flag any places where meta-epistemology-of-limits overclaims coverage that actually belongs in one of the new sibling voids. Log findings even if no edits are made. See /deep-review skill.
@@ -2634,6 +2628,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-24: Deep review voids/plenitude-void.md
+- **Type**: deep-review
+- **Notes**: New voids article created today (2026-04-23) via expand-topic and then refined via refine-draft (to install the evidential-vs-definitional unfalsifiability distinction and concede the void is primarily definitional), but not yet deep-reviewed (last_deep_review is absent). The article is now load-bearing across at least four other articles for the evidential/definitional unfalsifiability distinction. Deep-review should verify (a) the distinction is stated precisely and survives adversarial reading, (b) the concession that the void is primarily definitional does not collapse into the unfalsifiability-as-pseudo-science reading Tenet 5 is supposed to avoid, (c) tenet alignment with Occam's Razor Has Limits (load-bearing) and Dualism is explicit, (d) cross-links to distraction-void, phenomenal-quality-void, and born-rule-violation-brain-interface-empirical-status are present where the same distinction is deployed, (e) overlap with epistemic-horizon-void and categorial-void is managed with clear territorial distinctions. See /deep-review skill.
+- **Output**: obsidian/voids/plenitude-void.md
 
 ### ✓ 2026-04-24: Deep review voids/epistemic-horizon-void.md
 - **Type**: deep-review
