@@ -2,9 +2,9 @@
 title: "The Meta-Epistemology of Cognitive Limits"
 description: "Can we know our cognitive limits are genuine? Can we predict which will dissolve? Can we tell natural features from designed constraints? All three meta-questions may be structurally unanswerable from within any limited mind—and the undecidability itself is informative."
 created: 2026-01-16
-modified: 2026-04-23
+modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-23T21:28:00+00:00
+ai_modified: 2026-04-24T04:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,12 +37,14 @@ related_articles:
   - "[[phenomenal-quality-void]]"
   - "[[noetic-feelings-void]]"
   - "[[epistemic-horizon-void]]"
+  - "[[plenitude-void]]"
+  - "[[categorial-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-19
 last_curated: null
-last_deep_review: 2026-04-23T21:28:00+00:00
+last_deep_review: 2026-04-24T04:29:00+00:00
 coalesced_from:
   - "/voids/epistemology-of-cognitive-limits/"
   - "/voids/natural-vs-designed-limits/"
@@ -60,7 +62,7 @@ Distinguishing *difficult* from *impossible* seems straightforward; in practice 
 
 **Success proves contingency; failure proves nothing.** Solving a problem shows it was solvable. Failing—even across centuries—cannot establish permanent closure.
 
-**Assessment requires the faculties under assessment.** Determining whether our cognitive architecture has limits requires using that architecture—an [[inspection-paradox|inspection paradox]] that [[mysterianism|cognitive closure]] makes precise. [[self-opacity|Introspective opacity]] ensures we cannot simply look inward to check. The [[phenomenal-quality-void|phenomenal quality void]] deepens the trap: the conviction that the question is *about something real* is itself produced by a phenomenal stamp that is structurally hidden and demonstrably fallible.
+**Assessment requires the faculties under assessment.** Determining whether our cognitive architecture has limits requires using that architecture—an [[inspection-paradox|inspection paradox]] that [[mysterianism|cognitive closure]] makes precise. [[self-opacity|Introspective opacity]] ensures we cannot simply look inward to check. The [[phenomenal-quality-void|phenomenal quality void]] deepens the trap: the conviction that the question is *about something real* is itself produced by a phenomenal stamp that is structurally hidden and demonstrably fallible. The [[plenitude-void|plenitude void]] is the same recursion at the level of phenomenal *content*: introspective probes for sparsity direct attention, and attention manufactures the detail sought, so the verification procedure produces its own evidence.
 
 ## Three Verdicts
 
@@ -70,7 +72,7 @@ Dennett and others argue that cognitive closure remains undemonstrated. McGinn s
 
 ### The Pessimist Position
 
-Chomsky and McGinn argue that cognitive limits follow from basic biology. Any endowment providing scope also imposes limits—a lung cannot metabolise arbitrary gases; a mind cannot think arbitrary thoughts. Chomsky's distinction between *problems* (solvable in principle by our architecture) and *mysteries* (exceeding it because the required concepts lie outside what minds like ours can form) frames the position. [[biological-cognitive-closure|Evolution shaped cognition for specific tasks]]; there is no reason to expect universal access to all truths. McGinn formalises this as *cognitive closure*: a rat is closed to calculus not for lack of effort but because its concept-forming procedures cannot extend there. Humans may be similarly closed to the property bridging neural activity and consciousness. Critiques by Kriegel, Demircioglu, and Vlerick-Boudry separate *representational* from *psychological* closure—we may represent what would count as a solution while remaining unable to grasp it when presented. The [[closure-types-void|closure-types void]] develops this into a second-order limit: from within a mind, no reliable procedure distinguishes which type one faces.
+Chomsky and McGinn argue that cognitive limits follow from basic biology. Any endowment providing scope also imposes limits—a lung cannot metabolise arbitrary gases; a mind cannot think arbitrary thoughts. Chomsky's distinction between *problems* (solvable in principle by our architecture) and *mysteries* (exceeding it because the required concepts lie outside what minds like ours can form) frames the position. [[biological-cognitive-closure|Evolution shaped cognition for specific tasks]]; there is no reason to expect universal access to all truths. McGinn formalises this as *cognitive closure*: a rat is closed to calculus not for lack of effort but because its concept-forming procedures cannot extend there. Humans may be similarly closed to the property bridging neural activity and consciousness. Critiques by Kriegel, Demircioglu, and Vlerick-Boudry separate *representational* from *psychological* closure—we may represent what would count as a solution while remaining unable to grasp it when presented. The [[closure-types-void|closure-types void]] develops this into a second-order limit: from within a mind, no reliable procedure distinguishes which type one faces. The [[categorial-void|categorial void]] drops a level further: what minds like ours may lack is not a specific concept but the categorial *shape* any concept of the required kind would need to take.
 
 ### The Suspended Position
 
@@ -82,7 +84,7 @@ Concepts once deemed unthinkable became routine: irrational numbers, non-Euclide
 
 ### Structural Signatures
 
-**Dissolved limits** depend on a specific false assumption ("all is ratio"), stay domain-specific, yield to new representational tools, and show accumulating progress before breakthrough. **Persistent limits** recur across cultures and centuries (Leibniz posed essentially the same [[hard-problem-of-consciousness|hard problem]] in 1714 that Chalmers formalised in 1995), involve self-reference, and resist interpretation even when formalism succeeds. The hard problem scores high on persistent-limit indicators. Yet every dissolved limit *also* looked permanent to those inside it. These diagnostics extend to live disputes—[[psychedelics-and-the-filter-model#Where the Accounts Could Diverge|filter theory vs. entropic-brain accounts]] deploy the pattern prospectively.
+**Dissolved limits** depend on a specific false assumption ("all is ratio"), stay domain-specific, yield to new representational tools, and show accumulating progress before breakthrough. **Persistent limits** recur across cultures and centuries (Leibniz posed essentially the same [[hard-problem-of-consciousness|hard problem]] in 1714 that Chalmers formalised in 1995), involve self-reference, and resist interpretation even when formalism succeeds. The hard problem scores high on persistent-limit indicators. Yet every dissolved limit *also* looked permanent to those inside it, and the diagnostics can be applied prospectively to live disputes such as [[psychedelics-and-the-filter-model#Where the Accounts Could Diverge|filter theory vs. entropic-brain accounts]].
 
 ### The Asymmetry Problem
 
@@ -120,7 +122,7 @@ Whitehead's process philosophy suggests a fourth position. If reality consists o
 
 ## The Recursive Trap
 
-Asking "are my limits genuine?" or "are my limits designed?" is the meta-level form of the [[inspection-paradox|inspection paradox]]: the faculties used to ask are part of the very system under investigation, no meta-instrument stands outside them, and no un-inspected baseline of cognition is available for comparison. Certain questions can only be answered from outside the system being questioned: a formal system cannot prove its own consistency (Gödel); a simulation cannot detect itself using only simulated tools; a mind cannot determine whether its limits are natural or designed using only the limited cognition in question.
+Asking "are my limits genuine?" or "are my limits designed?" is the meta-level form of the [[inspection-paradox|inspection paradox]]: the faculties used to ask are part of the very system under investigation, and no un-inspected baseline of cognition stands outside them for comparison. Certain questions can only be answered from outside the system being questioned: a formal system cannot prove its own consistency (Gödel); a simulation cannot detect itself using only simulated tools; a mind cannot determine whether its limits are natural or designed using only the limited cognition in question.
 
 This creates a distinctive void combining all [[three-kinds-of-void|three categories]]. **Unexplored**: philosophy has studied cognitive limits but rarely asked whether they could be artifacts of design. **Unexplorable**: if faculties were constrained to prevent detecting the constraint, no internal method could succeed. **Occluded**: if design-detection would threaten a simulation or violate designer purposes, the thought itself might be actively blocked—[[self-maintained-cognitive-limits|defended territory]], with the investigator complicit in maintaining the limit.
 
@@ -172,6 +174,8 @@ None of these conditions has been met. The hard problem remains as puzzling afte
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why the stamp of realness hides itself
 - [[epistemology-of-limit-knowledge]] — The systematic account of limit-claim methods
 - [[epistemic-horizon-void|The Epistemic Horizon Void]] — The second-order limit: estimating total scope from within
+- [[plenitude-void|The Plenitude Void]] — The self-concealing gap between felt phenomenal richness and what can be checked
+- [[categorial-void|The Categorial Void]] — The gap that opens when reality has features for which the mind has no categorial shape
 
 ## References
 
