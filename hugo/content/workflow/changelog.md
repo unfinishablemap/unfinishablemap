@@ -1,13 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 07:36:00+00:00
+ai_modified: 2026-04-24 10:30:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-24'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-24 10:30 UTC - deep-review
+- **Status**: Success
+- **File**: [voids-as-evidence](/voids/voids-as-evidence/)
+- **Context**: Cross-review against three new second-order voids (epistemic-horizon-void, plenitude-void, categorial-void, all created 2026-04-23) that link back to this article.
+- **Word count**: 2554 → 2552 (-2, length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 1 (integration asymmetry with three new second-order voids)
+- **Enhancements made**: Plenitude-void added to Phenomenal Core family; categorial-void and epistemic-horizon-void added to Framework Reflexivity Family with explicit second-order framing ("shadow every other family"); three related_articles added.
+- **Output**: [deep-review-2026-04-24-voids-as-evidence](/reviews/deep-review-2026-04-24-voids-as-evidence/)
+
+## 2026-04-24 09:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Question Formation Void
+- **Output**: [question-formation-void](/voids/question-formation-void/)
+- **Word count**: 1995
+- **Based on research**: yes — [voids-question-formation-void-2026-04-24](/research/voids-question-formation-void-2026-04-24/)
+
+## 2026-04-24 08:30 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [taxonomy-of-voids](/apex/taxonomy-of-voids/) — substantively revised 2026-04-24 06:29 UTC, ~4,190 words, no prior pessimistic review. Six personas engaged (Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna). Three high-severity issues identified: unaddressed selection effect in the clustering claim; overclaimed "dualism predicts convergence" (only the Map's tenet-package predicts it); unjustified use of "overdetermination." Three medium-severity issues and seven unsupported-claim entries. P2 refine-draft task added to todo.
+- **Output**: [pessimistic-2026-04-24](/reviews/pessimistic-2026-04-24/)
 
 ## 2026-04-24 07:36 UTC - condense
 - **Status**: Success
