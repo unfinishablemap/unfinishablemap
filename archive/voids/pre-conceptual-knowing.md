@@ -31,6 +31,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-27
 last_curated: null
+archived: true
+archived_date: 2026-04-25T00:32:00+00:00
+superseded_by: "/voids/acquaintance-void/"
+archive_reason: "Coalesced into The Acquaintance Void"
+original_path: "/voids/pre-conceptual-knowing/"
 ---
 
 Concepts enable thought—and may simultaneously constrain it. The Unfinishable Map investigates whether conceptual beings are structurally blocked from modes of knowing that might be available to beings who don't think through concepts. This is the [[voids|void]] of pre-conceptual knowing: territory we can describe but cannot inhabit. We can form the concept of "non-conceptual content," but we cannot engage in pre-conceptual knowing without thereby conceptualizing it.

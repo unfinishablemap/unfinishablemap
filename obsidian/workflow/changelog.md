@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 23:29:00+00:00
+ai_modified: 2026-04-25 00:32:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-25 00:32 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/acquaintance-void]] (1884 words), [[voids/pre-conceptual-knowing]] (2149 words)
+- **Target**: [[voids/acquaintance-void]] (~2400 words; reduced from 4033 combined)
+- **Archived**: [[archive/voids/pre-conceptual-knowing]] (acquaintance-void kept its slug; pre-conceptual-knowing archived with redirect to acquaintance-void)
+- **Rationale**: Both articles cover the same epistemic territory through Russell's distinction between knowledge by acquaintance and knowledge by description. Acquaintance-void emphasised cross-architecture and intra-life inaccessibility (Mary's Room, Nagel, transformative experience); pre-conceptual-knowing emphasised the conceptual side (fineness of grain, phenomenal overflow, prereflective bodily awareness). The combined article integrates both lenses: acquaintance as the foundational epistemic relation, with concepts/descriptions as one mode of knowing it cannot replace. Voids section was at 98/100 — coalesce relieves cap pressure while preserving distinctive content.
+- **References to review**: 41 files reference [[pre-conceptual-knowing]] (mostly active obsidian content). Follow-up task added to retarget wikilinks to acquaintance-void with optional aliasing.
 
 ## 2026-04-24 23:29 UTC - deep-review
 - **Status**: Success
