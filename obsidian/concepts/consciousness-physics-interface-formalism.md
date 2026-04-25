@@ -4,7 +4,7 @@ description: "The formal mathematical components and constraints any theory of c
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-04-16T11:59:00+00:00
+ai_modified: 2026-04-25T05:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-03-20T02:04:00+00:00
+last_deep_review: 2026-04-25T05:29:00+00:00
 ---
 
 Any theory claiming that consciousness interacts with physics must specify three formal components: a state space for consciousness, a state space for physics, and a mathematical coupling between them. The Unfinishable Map holds that this coupling is real and causal — not merely correlational — but that quantum foundations impose five non-negotiable constraints on its mathematical form. These constraints are not philosophical preferences; they follow from the structure of quantum mechanics itself. This article defines the formal components and bounds that any adequate interface formalism must satisfy.
@@ -68,7 +68,7 @@ Sorkin (1994) demonstrated that the Born rule implies the absence of third-order
 
 ### 5. Conservation Law Compatibility
 
-The coupling map must not inject energy, momentum, or any conserved quantity into the physical system (see [[conservation-laws-and-mental-causation]] for the full philosophical argument). Selection among equiprobable quantum outcomes — biasing which of several equally likely results becomes actual — requires no energy transfer. This is the formal basis for the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness acts only where physics is genuinely underdetermined, adding information without adding energy.
+The coupling map must not inject energy, momentum, or any conserved quantity into the physical system (see [[conservation-laws-and-mental-causation]] for the full philosophical argument). Selection among quantum-allowed outcomes — biasing which result actualises on each trial without altering ensemble Born statistics — requires no energy transfer. Conservation laws hold in expectation: as long as outcome frequencies match squared amplitudes (Constraint 1), expected energy and momentum are preserved across the ensemble even when individual outcomes differ in energy. The clearest case is selection among energy-degenerate outcomes, where no individual transition violates conservation; the more general case is selection within Born-compliant statistics, where conservation holds on average. This is the formal basis for the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet: consciousness acts only where physics is genuinely underdetermined, adding information without adding energy.
 
 Together, these five constraints define what the [[mathematical-structure-of-the-consciousness-physics-interface|mathematical corridor]] article calls the narrow space through which any consciousness-physics interaction must pass. Beyond these formal bounds, empirical evidence adds a sixth practical constraint: the [[consciousness-bandwidth-architecture|~10 bits/second bandwidth]] of conscious processing limits how much information C can inject per unit time, making the coupling not only mathematically minimal but informationally sparse.
 
