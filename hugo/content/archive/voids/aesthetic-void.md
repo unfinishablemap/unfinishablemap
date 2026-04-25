@@ -154,7 +154,7 @@ The aesthetic void suggests that consciousness has access to something ordinary 
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
+- [pre-conceptual-knowing](/voids/acquaintance-void/) — Knowledge before and beyond concepts
 - [language-thought-boundary](/voids/language-thought-boundary/) — The limits of articulation more broadly
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — The cognate void where awe dismantles the evaluator, not just articulatory capacity
 

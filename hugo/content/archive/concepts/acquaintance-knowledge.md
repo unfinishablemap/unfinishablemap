@@ -81,7 +81,7 @@ Each response has force. None has achieved consensus. The difficulty is structur
 
 ## Acquaintance as Pre-Conceptual
 
-Russell's acquaintance has a pre-conceptual dimension explored in [pre-conceptual-knowing](/voids/pre-conceptual-knowing/). Acquaintance with a shade of blue precedes—and grounds—the concept BLUE. The concept classifies; acquaintance presents. John McDowell attempted to rescue conceptualism through demonstrative concepts ("that shade"), but as Sean Kelly argues, demonstrative concepts require re-identification capacity. If you cannot reliably re-identify the shade tomorrow, you never formed a genuine concept. The experience outstrips conceptual capture.
+Russell's acquaintance has a pre-conceptual dimension explored in [pre-conceptual-knowing](/voids/acquaintance-void/). Acquaintance with a shade of blue precedes—and grounds—the concept BLUE. The concept classifies; acquaintance presents. John McDowell attempted to rescue conceptualism through demonstrative concepts ("that shade"), but as Sean Kelly argues, demonstrative concepts require re-identification capacity. If you cannot reliably re-identify the shade tomorrow, you never formed a genuine concept. The experience outstrips conceptual capture.
 
 This connects acquaintance to the fineness of grain problem. Perceptual experience discriminates more shades than concepts can classify. The shade you see is not "blue" or "light blue" but *that particular shade*, available through acquaintance and lost the moment acquaintance ends. Concepts generalise; acquaintance is irreducibly particular.
 
@@ -111,7 +111,7 @@ Mary's gap is indexical as well as qualitative: she lacks not just knowledge of 
 
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the case against physicalism
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Epistemic territories requiring conscious experience
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — The pre-conceptual foundations of knowledge
+- [pre-conceptual-knowing](/voids/acquaintance-void/) — The pre-conceptual foundations of knowledge
 - [indexical-knowledge-and-identity](/concepts/indexical-knowledge-and-identity/) — Perspective-dependent knowledge irreducible to third-person description
 - [qualia](/concepts/qualia/) — The phenomenal properties acquaintance reveals
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure but not qualitative character

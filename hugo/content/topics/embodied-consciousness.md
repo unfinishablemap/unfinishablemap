@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-16 15:13:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ related_articles:
 - '[[consciousness-as-perceptual-architect]]'
 - '[[dual-domain-capabilities-in-proprioception-and-spatial-imagination]]'
 - '[[dualist-perception]]'
-- '[[pre-conceptual-knowing]]'
+- '[[acquaintance-void]]'
 - '[[consciousness-and-the-phenomenology-of-place]]'
 - '[[pain-consciousness-and-causal-power]]'
 - '[[consciousness-and-social-understanding]]'
@@ -211,7 +211,7 @@ The interface reading would face serious difficulty if:
 - [consciousness-as-activity](/topics/consciousness-as-activity/) — Activity-first ontology: consciousness as something the organism does
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Why pain's felt awfulness is inseparable from its causal role
 - [dualist-perception](/topics/dualist-perception/) — How dualism reframes perceptual experience
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge that precedes conceptual articulation
+- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — The felt character of being somewhere
 - [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) — Whether the interface extends beyond the brain through technology
 - [sensorimotor-contingencies-and-the-interface](/topics/sensorimotor-contingencies-and-the-interface/) — How sensorimotor contingency theory maps the interface

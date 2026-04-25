@@ -67,7 +67,7 @@ topics: []
 - **Pre-conceptual-knowing cross-reference**: Linked to related voids article for extended treatment
 
 ### Cross-links Added
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — in frontmatter concepts and Further Reading
+- [pre-conceptual-knowing](/voids/acquaintance-void/) — in frontmatter concepts and Further Reading
 
 ### Sections Condensed (Length-Neutrality)
 - Metamemory phenomena section (reduced from 150 to 60 words)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-17
-ai_modified: 2026-04-17 20:56:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[apophatic-approaches]]'
 - '[[sleep-consciousness-void]]'
 - '[[consciousness-only-territories]]'
-- '[[pre-conceptual-knowing]]'
+- '[[acquaintance-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[disappearance-voids]]'
@@ -119,7 +119,7 @@ The void also raises a provocative implication for the Map itself. If consciousn
 - [apophatic-approaches](/concepts/apophatic-approaches/)
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/)
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
+- [acquaintance-void](/voids/acquaintance-void/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
 - [self-reference paradox](/voids/self-opacity/)

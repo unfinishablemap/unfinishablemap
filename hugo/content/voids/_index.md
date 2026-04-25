@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-24 20:29:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -89,6 +89,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Normative Void](/voids/normative-void/) — Moral truths beyond human cognitive reach
 - [The Inaccessible Past](/voids/inaccessible-past/) — Why past conscious states cannot be re-entered, only reconstructed
 - [The Unobservable Self](/voids/self-opacity/) — The subject that cannot be its own object
+- [The Witnessing Void](/voids/witnessing-void/) — The distinct limit one level deeper: witnessing *qua operation* cannot be objectified at the first order, not only the owner of experience (created 2026-04-24)
 - [The Erasure Void](/voids/erasure-void/) — Why consciousness cannot inventory its own deletions: lost capacities take their detection mechanisms with them
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — Where consciousness goes during deep sleep
@@ -154,7 +155,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [The Nomic Void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics themselves
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said
-- [Pre-Conceptual Knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
+- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge before and beyond concepts
 - [The Capability Division Problem](/voids/capability-division-problem/) — Where brain-side capabilities end and mind-side begins
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual limits interact superadditively
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle

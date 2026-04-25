@@ -27,6 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
 - '[[meditation-observer-witness-phenomenon-2026-01-18]]'
+- '[[witnessing-void]]'
 title: The Observer-Witness in Meditation
 topics:
 - '[[free-will]]'
@@ -139,7 +140,7 @@ If the witness observes mental contents, what observes the witness? Does awarene
 
 The traditional response: the witness is *self-luminous* (*svayam-prakasha*). It illuminates without requiring external illumination. Just as light reveals objects without needing a second light to reveal the light, awareness is aware without requiring awareness of that awareness.
 
-This is phenomenologically apt. When witnessing occurs, there is no sense of a further observer watching the witness. The witnessing simply *is* awareness in its observing mode. The regress doesn't arise experientially.
+This is phenomenologically apt. When witnessing occurs, there is no sense of a further observer watching the witness. The witnessing simply *is* awareness in its observing mode. The regress doesn't arise experientially. The [witnessing-void](/voids/witnessing-void/) treats the structural consequence directly: resolving the regress ontologically (self-luminosity) deepens the void epistemically—witnessing is simultaneously what makes awareness possible and what makes awareness opaque to itself.
 
 ### The Epiphenomenalism Worry
 

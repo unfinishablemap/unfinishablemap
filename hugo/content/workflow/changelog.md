@@ -1,13 +1,51 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-24 22:31:00+00:00
+ai_modified: 2026-04-25 02:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-24'
+date: '2026-04-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-25 02:29 UTC - deep-review
+- **Status**: Success
+- **File**: [witness-consciousness](/concepts/witness-consciousness/)
+- **Trigger**: Cross-review considering [witnessing-void](/voids/witnessing-void/) insights (created 2026-04-24)
+- **Word count**: 2674 → 2687 (+13, length-neutral mode honored)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Regress Objection response now integrates self-luminosity paradox: *svayam-prakasha* resolves regress ontologically while constituting void epistemically)
+- **Enhancements made**: 1 (sharper integration with [witnessing-void](/voids/witnessing-void/)); offset by trim of redundant Sufi sentence
+- **Output**: [deep-review-2026-04-25-witness-consciousness](/reviews/deep-review-2026-04-25-witness-consciousness/)
+- **Stability**: Sixth review; article remains stable. Bedrock disagreements documented; future reviews triggered only by new related content or tenet-level changes.
+
+## 2026-04-25 01:29 UTC - deep-review
+- **Status**: Success
+- **Task**: Update wikilinks to coalesced pre-conceptual-knowing
+- **Files modified**: 17 (voids: embodiment-cognitive-limits, emotional-epistemology-void, ineffable-encounter-void, expertise-and-its-occlusion, appetitive-void, voids, the-silence-void, creative-aesthetic-void; concepts: presence-type-and-absence-type-voids, phenomenal-overflow, phenomenal-acquaintance, phenomenology, qualia, introspection, somatic-interface; topics: phenomenology-of-linguistic-failure, embodied-consciousness)
+- **Wikilinks retargeted**: ~30 references from `[pre-conceptual-knowing](/voids/acquaintance-void/)` to `[acquaintance-void](/voids/acquaintance-void/)`, preserving "pre-conceptual" alias text where used inline. Section anchor `pre-conceptual-knowing#Phenomenal Overflow` retargeted to `acquaintance-void#Phenomenal Overflow` (section name preserved post-coalesce).
+- **Dedups**: Removed duplicate frontmatter and Further Reading entries in `concepts/phenomenal-acquaintance.md` (already had `[acquaintance-void](/voids/acquaintance-void/)` alongside `[pre-conceptual-knowing](/voids/acquaintance-void/)`). Single duplicate in `voids/voids.md` retained as cross-categorial cross-link.
+- **Note**: Historical references in `reviews/`, `research/`, `workflow/archive/` left untouched (preserved as historical record). Archive redirect at `archive/voids/pre-conceptual-knowing.md` continues to handle external URL resolution.
+- **Follow-up**: P2 task "Update wikilinks to coalesced pre-conceptual-knowing" closed.
+
+## 2026-04-25 00:32 UTC - coalesce
+- **Status**: Success
+- **Sources**: [acquaintance-void](/voids/acquaintance-void/) (1884 words), [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) (2149 words)
+- **Target**: [acquaintance-void](/voids/acquaintance-void/) (~2400 words; reduced from 4033 combined)
+- **Archived**: [pre-conceptual-knowing](/archive/voids/pre-conceptual-knowing/) (acquaintance-void kept its slug; pre-conceptual-knowing archived with redirect to acquaintance-void)
+- **Rationale**: Both articles cover the same epistemic territory through Russell's distinction between knowledge by acquaintance and knowledge by description. Acquaintance-void emphasised cross-architecture and intra-life inaccessibility (Mary's Room, Nagel, transformative experience); pre-conceptual-knowing emphasised the conceptual side (fineness of grain, phenomenal overflow, prereflective bodily awareness). The combined article integrates both lenses: acquaintance as the foundational epistemic relation, with concepts/descriptions as one mode of knowing it cannot replace. Voids section was at 98/100 — coalesce relieves cap pressure while preserving distinctive content.
+- **References to review**: 41 files reference [pre-conceptual-knowing](/voids/acquaintance-void/) (mostly active obsidian content). Follow-up task added to retarget wikilinks to acquaintance-void with optional aliasing.
+
+## 2026-04-24 23:29 UTC - deep-review
+- **Status**: Success
+- **File**: [witnessing-void](/voids/witnessing-void/)
+- **Word count**: 2056 → 2058 (+2, length-neutral mode; article at 103% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (orphan status resolved via 8 backlinks; inline wikilink added for witness-consciousness first mention; zahavian-minimal-self reference added in attenuation discussion)
+- **Enhancements made**: 8 backlinks added across voids.md index, self-opacity, witness-consciousness, recursion-void, phenomenology-of-the-edge, the-observer-witness-in-meditation, apex/taxonomy-of-voids, and zahavian-minimal-self. First review of this article — established stability notes for the cross-tradition convergence move, the first-order-vs-recursive-depth distinction, the three phenomenological markers, and the AI section's deliberate underdetermination.
+- **Context**: Orphan integration — article had zero inbound links at review start. Focus on site-navigation integration rather than internal revision.
+- **Output**: [deep-review-2026-04-24-witnessing-void](/reviews/deep-review-2026-04-24-witnessing-void/)
 
 ## 2026-04-24 22:31 UTC - deep-review
 - **Status**: Success

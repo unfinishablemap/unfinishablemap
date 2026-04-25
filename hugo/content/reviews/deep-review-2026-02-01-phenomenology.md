@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-02-01
 **Article**: [Phenomenology](/concepts/phenomenology/)
 **Previous review**: [2026-01-24](/reviews/deep-review-2026-01-24-phenomenology/)
-**Cross-review context**: [Pre-Conceptual Knowing](/voids/pre-conceptual-knowing/)
+**Cross-review context**: [Pre-Conceptual Knowing](/voids/acquaintance-void/)
 
 ## Pessimistic Analysis Summary
 
@@ -46,7 +46,7 @@ None. All previous critical issues were resolved.
 
 ### Low Issues Found
 - **Missing cross-link to pre-conceptual-knowing**: The cross-review context article engages deeply with prereflective bodily awareness but wasn't linked.
-  - **Resolution**: Added [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) to frontmatter concepts and Further Reading.
+  - **Resolution**: Added [pre-conceptual-knowing](/voids/acquaintance-void/) to frontmatter concepts and Further Reading.
 
 ### Counterarguments Considered
 All six adversarial personas engaged. Critical objections are either:
@@ -64,11 +64,11 @@ All six adversarial personas engaged. Critical objections are either:
 
 ### Enhancements Made
 - Refined contemplative evidence paragraph to accurately distinguish Buddhist "no substantiality" from illusionist "no phenomenal properties"
-- Added cross-link to [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) (cross-review integration)
+- Added cross-link to [pre-conceptual-knowing](/voids/acquaintance-void/) (cross-review integration)
 - Trimmed redundant transition sentence to maintain length neutrality
 
 ### Cross-links Added
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) (frontmatter and Further Reading)
+- [pre-conceptual-knowing](/voids/acquaintance-void/) (frontmatter and Further Reading)
 
 ## Word Count
 

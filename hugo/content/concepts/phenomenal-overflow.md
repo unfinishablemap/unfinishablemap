@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-25 08:23:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -169,7 +169,7 @@ Phenomenal overflow remains genuinely contested. The Unfinishable Map presents i
 
 **The methodological bind**: If phenomenology exceeds access, we cannot directly verify it through access-dependent methods (reports, reasoning about experience). The overflow hypothesis may be unfalsifiable from a strictly third-person perspective. This unfalsifiability is generally a mark against a hypothesis—yet it's also exactly what we'd expect if phenomenology genuinely transcends function. The situation is frustrating rather than decisive: unfalsifiability doesn't confirm overflow, but neither does it refute it.
 
-This connects to [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)—the void of experience that exceeds conceptualization. If phenomenal overflow is real, it exemplifies this broader limit: there may be aspects of experience that resist not just verbal report but cognitive access altogether.
+This connects to [the broader void of pre-conceptual knowing](/voids/acquaintance-void/)—experience that exceeds conceptualization. If phenomenal overflow is real, it exemplifies this broader limit: there may be aspects of experience that resist not just verbal report but cognitive access altogether.
 
 ## Further Reading
 
@@ -179,7 +179,7 @@ This connects to [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)—the 
 - [introspection](/concepts/introspection/)—the method by which we access (and possibly miss) experience
 - [attention-as-interface](/concepts/attention-as-interface/)—how attention mediates conscious selection from the phenomenal field
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)—a proposed mechanism for conscious selection from phenomenal overflow
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)—the broader void of experience beyond concepts
+- [Pre-Conceptual Knowing](/voids/acquaintance-void/)—the broader void of experience beyond concepts
 
 ## References
 

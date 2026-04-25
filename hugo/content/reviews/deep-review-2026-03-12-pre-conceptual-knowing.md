@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-12
-**Article**: [Pre-Conceptual Knowing](/voids/pre-conceptual-knowing/)
+**Article**: [Pre-Conceptual Knowing](/voids/acquaintance-void/)
 **Previous review**: [2026-01-30](/reviews/deep-review-2026-01-30-pre-conceptual-knowing/)
 
 ## Pessimistic Analysis Summary

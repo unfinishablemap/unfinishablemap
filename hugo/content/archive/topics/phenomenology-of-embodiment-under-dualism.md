@@ -112,7 +112,7 @@ The Map reads intercorporeality as suggestive of consciousness interfacing with 
 
 - [embodied-consciousness-and-the-interface](/topics/embodied-consciousness/) — The interface reading of embodied cognition
 - [somatic-interface](/concepts/somatic-interface/) — Anatomical channels of the body-consciousness interface
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge that precedes conceptual articulation
+- [pre-conceptual-knowing](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
 - [dualist-perception](/topics/dualist-perception/) — How dualism reframes perceptual experience
 - [consciousness-and-the-phenomenology-of-place](/topics/consciousness-and-the-phenomenology-of-place/) — The felt character of being somewhere
 - [embodied-cognition](/concepts/embodied-cognition/) — The 4E framework and its phenomenological roots

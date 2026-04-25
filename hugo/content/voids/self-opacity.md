@@ -51,6 +51,7 @@ related_articles:
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[recognition-void]]'
 - '[[recursion-void]]'
+- '[[witnessing-void]]'
 - '[[emotional-epistemology-void]]'
 - '[[self-reference-paradox]]'
 - '[[inspection-paradox]]'
@@ -82,7 +83,7 @@ These traditions share almost no premises, yet their conclusions converge: where
 
 Gödel proved that any sufficiently powerful formal system contains true statements it cannot prove—through self-reference. Hofstadter's *I Am a Strange Loop* extends the intuition: no complete self-model can exist because any such model would need to include the model, ad infinitum. The [self-reference-paradox](/concepts/self-reference-paradox/) develops the formal dimension. The analogy is imperfect, but self-referential systems face similar difficulties regardless of substrate.
 
-The regression of attention makes this concrete. Observe your own observing: you become aware of awareness—two layers. Observe *that* awareness—a third forms. Each layer is a fresh act attending to the previous. [Witness consciousness](/concepts/witness-consciousness/) traditions recognise this: awareness can take thoughts, sensations, even other acts of awareness as objects—but it cannot take its own *current act* as object. The [recursion-void](/voids/recursion-void/) quantifies the limit at approximately fifth-order intentionality.
+The regression of attention makes this concrete. Observe your own observing: you become aware of awareness—two layers. Observe *that* awareness—a third forms. Each layer is a fresh act attending to the previous. [Witness consciousness](/concepts/witness-consciousness/) traditions recognise this: awareness can take thoughts, sensations, even other acts of awareness as objects—but it cannot take its own *current act* as object. The [witnessing-void](/voids/witnessing-void/) treats this first-order limit directly—a container within the present article's broader self-opacity, focused on witnessing *qua operation* rather than on the unobservable owner. The [recursion-void](/voids/recursion-void/) quantifies the separate depth limit at approximately fifth-order intentionality.
 
 ## The Phenomenology of Turning Inward
 
@@ -163,6 +164,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [The Boundary and Projection Void](/voids/boundary-and-projection/) — Why consciousness cannot locate its own perimeter
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
+- [The Witnessing Void](/voids/witnessing-void/) — The first-order structural impossibility at the centre of witnessing, distinct from self-opacity's unobservable-owner framing
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit
 - [The Inspection Paradox](/concepts/inspection-paradox/) — The general pattern self-opacity instantiates
 - [The Recursion Void](/voids/recursion-void/) — Depth limit of metacognitive self-reference

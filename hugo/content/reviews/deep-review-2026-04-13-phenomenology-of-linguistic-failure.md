@@ -50,11 +50,11 @@ None.
 - Strengthened the recursive failure argument to engage the strongest physicalist position
 - Integrated Nagel and Levine citations into the article body
 - Added acknowledgment that the five modes bleed into each other
-- Added cross-link to [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) in the felt sense discussion
+- Added cross-link to [pre-conceptual-knowing](/voids/acquaintance-void/) in the felt sense discussion
 - Added cross-link to [explanatory-gap](/concepts/explanatory-gap/) in the domain-specificity section
 
 ### Cross-links Added
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
+- [pre-conceptual-knowing](/voids/acquaintance-void/)
 - [explanatory-gap](/concepts/explanatory-gap/)
 
 ## Remaining Items

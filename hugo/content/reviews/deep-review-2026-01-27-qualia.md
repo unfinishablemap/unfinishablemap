@@ -49,16 +49,16 @@ All counterarguments represent bedrock philosophical disagreements rather than f
 - "What Would Challenge This View" section provides falsifiability conditions
 
 ### Enhancements Made
-- Added `[pre-conceptual-knowing](/voids/pre-conceptual-knowing/)` to concepts list in frontmatter
+- Added `[pre-conceptual-knowing](/voids/acquaintance-void/)` to concepts list in frontmatter
 - Connected ineffability property to the structural features of conceptual thought (concepts classify by abstracting from particulars)
 - Integrated Block's phenomenal overflow research into cognitive qualia section
 - Added pre-conceptual-knowing to Further Reading under Background
 
 ### Cross-links Added
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) (frontmatter)
-- [conceptual thought itself](/voids/pre-conceptual-knowing/) (in Ineffable section)
-- [phenomenal overflow](/voids/pre-conceptual-knowing/#phenomenal-overflow) (in Cognitive Qualia section)
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) (in Further Reading)
+- [pre-conceptual-knowing](/voids/acquaintance-void/) (frontmatter)
+- [conceptual thought itself](/voids/acquaintance-void/) (in Ineffable section)
+- [phenomenal overflow](/voids/acquaintance-void/#phenomenal-overflow) (in Cognitive Qualia section)
+- [pre-conceptual-knowing](/voids/acquaintance-void/) (in Further Reading)
 
 ## Remaining Items
 

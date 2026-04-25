@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-04-24 20:29:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[intrinsic-nature-void]]'
-- '[[pre-conceptual-knowing]]'
+- '[[acquaintance-void]]'
 - '[[language-thought-boundary]]'
 - '[[biological-cognitive-closure]]'
 title: Embodiment and Cognitive Limits
@@ -87,7 +87,7 @@ The challenge is distinguishing which limits belong to cognition, which to consc
 
 **Interoception correlates with self-processing.** Theoretical models suggest interoception contributes to the cognitive construction of the first-person perspective (Craig 2009; Seth 2013). Whether this means interoception *constitutes* subjective experience or merely shapes the self-model that consciousness accesses remains contested.
 
-**Motor intentionality cannot be reduced to cognitive intentionality.** Phenomenological analysis, supported by double dissociations in neuropsychology (Milner & Goodale 1995), shows motor knowledge operates through distinct channels. This is a form of [pre-conceptual knowing](/voids/pre-conceptual-knowing/)—the body knows before the mind represents. Disembodied minds lack this layer of cognitive processing.
+**Motor intentionality cannot be reduced to cognitive intentionality.** Phenomenological analysis, supported by double dissociations in neuropsychology (Milner & Goodale 1995), shows motor knowledge operates through distinct channels. This is a form of [pre-conceptual knowing](/voids/acquaintance-void/)—the body knows before the mind represents. Disembodied minds lack this layer of cognitive processing.
 
 **AI approaches embodiment limits.** AI systems have made significant progress on tasks once thought to require embodiment, but continue to face challenges with real-time physical interaction and the kind of common-sense reasoning that bodily experience may ground. The boundary between what disembodied processing can and cannot achieve remains actively contested.
 
@@ -152,7 +152,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What consciousness can access that AI cannot
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe territories closed to human cognition
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The structural gap at the heart of physical knowledge
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Knowledge that precedes conceptual articulation
+- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge that precedes conceptual articulation
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where speakable and thinkable part ways
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Species-level limits shaped by natural selection rather than individual embodiment
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities with physical and phenomenal dimensions

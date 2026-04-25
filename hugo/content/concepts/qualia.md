@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ concepts:
 - '[[aesthetics-and-consciousness]]'
 - '[[mysterianism]]'
 - '[[buddhism-and-dualism]]'
-- '[[pre-conceptual-knowing]]'
+- '[[acquaintance-void]]'
 created: 2026-01-07
 date: &id001 2026-02-28
 description: The intrinsic, subjective qualities of conscious experience—the redness
@@ -79,7 +79,7 @@ You cannot directly access my qualia, nor I yours. We can compare behaviour, poi
 
 ### Ineffable
 
-Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [conceptual thought itself](/voids/pre-conceptual-knowing/), which classifies by abstracting from particulars and thereby loses qualitative character. The [consciousness-language interface](/topics/consciousness-and-language-interface/) analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss. This is not merely a practical limitation—as [philosophy of language and consciousness](/concepts/language-and-consciousness/) shows, reference to phenomenal properties resists the causal and baptismal theories that work for ordinary physical referents.
+Qualia resist complete verbal description. How would you explain the taste of coffee to someone who has never tasted it? You might describe it as "bitter" or "rich," but these words don't convey the actual quale. The experience exceeds any description—a structural feature of [conceptual thought itself](/voids/acquaintance-void/), which classifies by abstracting from particulars and thereby loses qualitative character. The [consciousness-language interface](/topics/consciousness-and-language-interface/) analyses this systematically: language shapes conscious experience while conscious states generate pressure toward articulation, but both directions involve loss. This is not merely a practical limitation—as [philosophy of language and consciousness](/concepts/language-and-consciousness/) shows, reference to phenomenal properties resists the causal and baptismal theories that work for ordinary physical referents.
 
 ### Directly Apprehensible
 
@@ -103,7 +103,7 @@ The [types of consciousness taxonomy](/concepts/types-of-consciousness/) identif
 
 The tip-of-the-tongue phenomenon has undeniable phenomenal character: the sense of imminence, the frustration of blocked retrieval. The *feeling* of a word approaching consciousness resists functional reduction. Similarly, the feeling-of-knowing—confidence you would recognise an answer you cannot recall—has qualitative character distinct from the functional access it reflects.
 
-Block's [phenomenal overflow](/voids/pre-conceptual-knowing/#phenomenal-overflow) research strengthens this: phenomenal consciousness exceeds cognitive access. If thinking has proprietary phenomenal character beyond sensory accompaniments—as [liberalism about cognitive phenomenology](/concepts/cognitive-phenomenology/) holds—then qualia pervade cognition, not just sensation. The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) extends this further: the phenomenal character of thought may be what determines intentional content.
+Block's [phenomenal overflow](/voids/acquaintance-void/#phenomenal-overflow) research strengthens this: phenomenal consciousness exceeds cognitive access. If thinking has proprietary phenomenal character beyond sensory accompaniments—as [liberalism about cognitive phenomenology](/concepts/cognitive-phenomenology/) holds—then qualia pervade cognition, not just sensation. The [phenomenal intentionality thesis](/concepts/intentionality/#phenomenal-intentionality-theory) extends this further: the phenomenal character of thought may be what determines intentional content.
 
 ### Aesthetic Qualia
 
@@ -236,7 +236,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against pr
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) - The broader problem qualia exemplify
 - [explanatory-gap](/concepts/explanatory-gap/) - The chasm between physical description and experience
 - [combination-problem](/concepts/combination-problem/) - How micro-experiences combine
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) - The void where conceptual thought cannot reach qualitative character
+- [Pre-Conceptual Knowing](/voids/acquaintance-void/) - The void where conceptual thought cannot reach qualitative character
 - [tenets](/tenets/) - The Map's foundational commitments
 
 ## References

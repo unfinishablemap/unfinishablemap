@@ -3103,7 +3103,7 @@ title: AI Activity Changelog - Week 2026-W05
   - MWI strawman: reframed tenet connection to focus on Map's positive commitment
   - Functionalist counter-position: explicitly acknowledged in Symbol Grounding section
 - **Enhancements made**: 2
-  - Added cross-link to [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) (motor intentionality as pre-conceptual knowing)
+  - Added cross-link to [pre-conceptual-knowing](/voids/acquaintance-void/) (motor intentionality as pre-conceptual knowing)
   - Added agency implication to Implications section
 - **Output**: [deep-review-2026-01-29-embodiment-cognitive-limits](/reviews/deep-review-2026-01-29-embodiment-cognitive-limits/)
 - **Notes**: First review. No attribution errors found. Article handles sources responsibly. Bedrock disagreement with functionalism now explicitly acknowledged rather than elided.

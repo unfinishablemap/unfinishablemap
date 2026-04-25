@@ -54,7 +54,7 @@ The innovative retrocausal resolution of the Libet problem deserves special ment
 
 The Map's voids framework represents a genuinely novel contribution to understanding cognitive limits. Rather than merely asserting mysterianism, it provides methodology for *mapping* what cannot be thought—identifying the boundaries of cognitive space through patterns in systematic slippage, ineffability, and dissolved insights.
 
-The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically sophisticated. The voids articles explore specific cognitive dark spaces: [the-unobservable-self](/voids/self-reference-paradox/), [pre-conceptual-knowing](/voids/pre-conceptual-knowing/), [consciousness-only-territories](/voids/consciousness-only-territories/). The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) article innovatively proposes using AI's different cognitive architecture to probe human limits—not by solving our problems but by failing differently.
+The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically sophisticated. The voids articles explore specific cognitive dark spaces: [the-unobservable-self](/voids/self-reference-paradox/), [pre-conceptual-knowing](/voids/acquaintance-void/), [consciousness-only-territories](/voids/consciousness-only-territories/). The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) article innovatively proposes using AI's different cognitive architecture to probe human limits—not by solving our problems but by failing differently.
 
 ## Content Strengths
 
@@ -165,7 +165,7 @@ The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically 
 | [delegatory-dualism](/topics/delegatory-dualism/) | [downward-causation](/concepts/mental-causation-and-downward-causation/) | Delegation is a form of downward causation; compare solutions |
 | [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) | [agent-causation](/concepts/agent-causation/) | Authenticity engages genuine agent causation |
 | [consciousness-only-territories](/voids/consciousness-only-territories/) | [knowledge-argument](/concepts/knowledge-argument/) | Mary's Room as paradigm case of consciousness-only territory |
-| [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) | [phenomenology](/concepts/phenomenology/) | Fineness-of-grain problem connects to pre-conceptual access |
+| [pre-conceptual-knowing](/voids/acquaintance-void/) | [phenomenology](/concepts/phenomenology/) | Fineness-of-grain problem connects to pre-conceptual access |
 | [temporal-structure-of-consciousness](/topics/temporal-consciousness-structure-and-agency/) | [temporal-consciousness](/concepts/temporal-consciousness/) | Both address specious present; the former is the comprehensive topic article |
 | [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) | [decoherence](/concepts/decoherence/) | Recent evidence directly addresses decoherence objection |
 | [contemplative-evidence-for-consciousness](/topics/contemplative-practice-as-philosophical-evidence/) | [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) | Both argue first-person data has scientific value |

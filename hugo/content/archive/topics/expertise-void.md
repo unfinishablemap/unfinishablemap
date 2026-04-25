@@ -120,7 +120,7 @@ The expertise void also connects to the [developmental void](/voids/biological-c
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/)
 - [imagination-and-creativity-void](/voids/creative-aesthetic-void/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
+- [pre-conceptual-knowing](/voids/acquaintance-void/)
 - [voids](/voids/)
 
 ## References

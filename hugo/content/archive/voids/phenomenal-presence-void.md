@@ -163,7 +163,7 @@ The unexplorable dimension is more speculative. If the phenomenal presence mecha
 - [necessary-opacity](/voids/necessary-opacity/) — Whether consciousness distorts what it represents, and why this opacity may be structural
 - [introspective opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive processes
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot reach what matter is in itself
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — What lies before conceptual articulation
+- [pre-conceptual-knowing](/voids/acquaintance-void/) — What lies before conceptual articulation
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only consciousness can access
 - [whether-real](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are permanent or current ignorance
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like

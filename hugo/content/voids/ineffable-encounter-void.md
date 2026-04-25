@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-21 16:38:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -32,7 +32,7 @@ related_articles:
 - '[[aesthetic-void]]'
 - '[[the-silence-void]]'
 - '[[the-surplus-void]]'
-- '[[pre-conceptual-knowing]]'
+- '[[acquaintance-void]]'
 - '[[self-opacity]]'
 - '[[phenomenal-quality-void]]'
 - '[[mutation-void]]'
@@ -172,7 +172,7 @@ Finally, this void is the paradigm instance of the [presence-type](/concepts/pre
 - [aesthetic-void](/voids/creative-aesthetic-void/)
 - [the-silence-void](/voids/the-silence-void/)
 - [the-surplus-void](/voids/the-surplus-void/)
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
+- [acquaintance-void](/voids/acquaintance-void/)
 - [introspective opacity](/voids/self-opacity/)
 - [phenomenal-quality-void](/voids/phenomenal-quality-void/)
 - [mutation-void](/voids/mutation-void/)

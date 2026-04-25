@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-02
-ai_modified: 2026-04-19 22:38:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[affective-void]]'
-- '[[pre-conceptual-knowing]]'
+- '[[acquaintance-void]]'
 - '[[consciousness-only-territories]]'
 - '[[apophatic-approaches]]'
 - '[[emotion-and-dualism]]'
@@ -77,7 +77,7 @@ Conversely, if emotions turn out not to constitute genuine knowledge, then the A
 
 Approaching this void has a distinctive phenomenological signature. It feels like encountering a certainty that resists justification. In the presence of great beauty, profound injustice, or the death of someone loved, the sense of *knowing*—not believing, not inferring, but directly perceiving something true—is overwhelming. Yet when asked to state what is known, propositions fall short. "It was beautiful" captures almost nothing of what was disclosed. "It was wrong" fails to convey the depth of moral perception.
 
-This gap between the vividness of affective contact and the poverty of its articulation is the experiential signature of the void. The [ineffable-encounter-void](/voids/ineffable-encounter-void/) identifies the sharpest version of this structure: numinous experience not only resists articulation but dismantles the reflexive self-awareness needed to evaluate it, creating a tighter epistemic closure than ordinary affective experience. Like [qualia](/concepts/qualia/) themselves—private, irreducible, resistant to third-person capture—the [pre-conceptual](/voids/pre-conceptual-knowing/) dimension of emotional knowledge places it outside the reach of the conceptual apparatus we use to evaluate knowledge claims. The feeling of insight is vivid; the ability to transmit it through language is poor. This is distinct from the ordinary difficulty of putting complex experiences into words. The claim is stronger: propositional language is not merely inadequate but categorically wrong-shaped for what emotions disclose, in the same way that auditory descriptions are wrong-shaped for visual experience.
+This gap between the vividness of affective contact and the poverty of its articulation is the experiential signature of the void. The [ineffable-encounter-void](/voids/ineffable-encounter-void/) identifies the sharpest version of this structure: numinous experience not only resists articulation but dismantles the reflexive self-awareness needed to evaluate it, creating a tighter epistemic closure than ordinary affective experience. Like [qualia](/concepts/qualia/) themselves—private, irreducible, resistant to third-person capture—the [pre-conceptual](/voids/acquaintance-void/) dimension of emotional knowledge places it outside the reach of the conceptual apparatus we use to evaluate knowledge claims. The feeling of insight is vivid; the ability to transmit it through language is poor. This is distinct from the ordinary difficulty of putting complex experiences into words. The claim is stronger: propositional language is not merely inadequate but categorically wrong-shaped for what emotions disclose, in the same way that auditory descriptions are wrong-shaped for visual experience.
 
 ## Relation to Site Perspective
 
@@ -91,7 +91,7 @@ The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet 
 
 - [The Affective Void](/voids/affective-void/) — Emotions beyond human reach
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
-- [Pre-Conceptual Knowing](/voids/pre-conceptual-knowing/) — Knowledge before and beyond concepts
+- [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge before and beyond concepts
 - [Epistemic Emotions](/concepts/epistemic-emotions/) — Feelings directed at knowledge itself
 - [Emotion and Dualism](/topics/emotion-and-dualism/) — Valence irreducibility, emotional intentionality, and the dualist case
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation

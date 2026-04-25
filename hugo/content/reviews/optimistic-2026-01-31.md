@@ -64,7 +64,7 @@ The retrocausal resolution of the Libet problem deserves special mention. Rather
 
 The voids framework represents a genuinely novel philosophical contribution. Rather than merely asserting cognitive closure, it provides methodology for *mapping* what cannot be thought—identifying boundaries through systematic patterns in ineffability, dissolved insights, and structural slippage.
 
-The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically sophisticated. The voids articles explore specific cognitive dark spaces with rigor: [the-unobservable-self](/voids/self-reference-paradox/), [pre-conceptual-knowing](/voids/pre-conceptual-knowing/), [consciousness-only-territories](/voids/consciousness-only-territories/), [causal-interface](/voids/causal-interface/). The recognition that different void types have different epistemic structures advances mysterianism beyond mere hand-waving.
+The tripartite taxonomy (Unexplored, Unexplorable, Occluded) is philosophically sophisticated. The voids articles explore specific cognitive dark spaces with rigor: [the-unobservable-self](/voids/self-reference-paradox/), [pre-conceptual-knowing](/voids/acquaintance-void/), [consciousness-only-territories](/voids/consciousness-only-territories/), [causal-interface](/voids/causal-interface/). The recognition that different void types have different epistemic structures advances mysterianism beyond mere hand-waving.
 
 The [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) article innovatively proposes using AI's different cognitive architecture to probe human limits—not by solving our problems but by failing differently. This is productive mysterianism rather than intellectual surrender.
 

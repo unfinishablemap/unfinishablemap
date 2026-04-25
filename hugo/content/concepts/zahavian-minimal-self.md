@@ -28,6 +28,7 @@ related_articles:
 - '[[clinical-phenomenology-and-altered-experience]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[the-observer-witness-in-meditation]]'
+- '[[witnessing-void]]'
 title: Zahavian Minimal Self (vs Metzinger)
 topics:
 - '[[hard-problem-of-consciousness]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-04-21 03:38:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -39,7 +39,7 @@ related_articles:
 - '[[death-void]]'
 - '[[apophatic-cartography]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[pre-conceptual-knowing]]'
+- '[[acquaintance-void]]'
 - '[[consciousness-only-territories]]'
 title: Presence-Type and Absence-Type Voids
 topics:

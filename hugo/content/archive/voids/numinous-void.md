@@ -106,7 +106,7 @@ The numinous void ultimately exemplifies the Map's broader project: approaching 
 - [apophatic-cartography](/voids/apophatic-cartography/)
 - [consciousness-only-territories](/voids/consciousness-only-territories/)
 - [altered-states-as-void-probes](/voids/altered-states-as-void-probes/)
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/)
+- [pre-conceptual-knowing](/voids/acquaintance-void/)
 - [mysterianism](/concepts/mysterianism/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/)

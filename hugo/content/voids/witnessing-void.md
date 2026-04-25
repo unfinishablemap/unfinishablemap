@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-04-24 16:29:00+00:00
+ai_modified: 2026-04-24 23:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,6 +20,7 @@ description: The act of witnessing cannot witness itself—a structural impossib
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-24 23:29:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -63,7 +64,7 @@ The doctrine resolves the regress ontologically but deepens the void epistemical
 
 The *Drg-drshya-Viveka* (Discrimination Between the Seer and the Seen) traces the implied regress and locates where it terminates: "When form is observed, the eye is the observer; when the eye is observed, the mind is the observer; when the mind is observed, *sakshi* is the observer—and it is always the observer, and, being self-luminous, can never be the object of observation." The void is where the regress stops, not where it goes wrong.
 
-Miri Albahari's contemporary analysis captures the same structure: witness-consciousness provides "a subjective sense of presence that is unmediated by any specific quality pertaining to objects, outer or inner" (Albahari 2009). What has no specific quality cannot be examined by picking out its quality. The witnessing void is not the failure of a particular investigative technique—it is the structural consequence of what witnessing is.
+Miri Albahari's contemporary analysis captures the same structure: [witness-consciousness](/concepts/witness-consciousness/) provides "a subjective sense of presence that is unmediated by any specific quality pertaining to objects, outer or inner" (Albahari 2009). What has no specific quality cannot be examined by picking out its quality. The witnessing void is not the failure of a particular investigative technique—it is the structural consequence of what witnessing is.
 
 ## Why the Structure Is Load-Bearing
 
@@ -109,7 +110,7 @@ If AI can perform every cognitive function associated with consciousness *withou
 
 The void's structural status would be undermined if: a contemplative tradition or training protocol produced stable, articulable knowledge of the witnessing operation itself—process-access with the specificity science demands, not contentless testimony; neuroscience isolated the subjective perspective as such, rather than neural correlates accompanying it; a formal proof showed self-modelling systems can achieve complete self-transparency without infinite regress; or functional explanations satisfied practitioners that no phenomenal remainder exists. After millennia of contemplative method and decades of cognitive science, none of these conditions has been met.
 
-A weaker challenge: the void might be attenuable without being eliminable. Advanced meditators report deepening intimacy with witnessing without acquiring the ability to make it an object. This matches the Map's general treatment of first-personal givenness as *constitutive in kind, not uniform in intensity* (see [self-opacity](/voids/self-opacity/)). What would undermine the constitutive reading is witnessing continuing fully *in the absence* of the subject-object asymmetry—not the asymmetry becoming intimate.
+A weaker challenge: the void might be attenuable without being eliminable. Advanced meditators report deepening intimacy with witnessing without acquiring the ability to make it an object. This matches the Map's general treatment of first-personal givenness as *constitutive in kind, not uniform in intensity* (see [self-opacity](/voids/self-opacity/) and [zahavian-minimal-self](/concepts/zahavian-minimal-self/)). What would undermine the constitutive reading is witnessing continuing fully *in the absence* of the subject-object asymmetry—not the asymmetry becoming intimate.
 
 ## Further Reading
 

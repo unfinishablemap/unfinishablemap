@@ -73,7 +73,7 @@ None identified.
 
 ### Cross-links Added
 
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Motor intentionality as a form of pre-conceptual knowing
+- [pre-conceptual-knowing](/voids/acquaintance-void/) — Motor intentionality as a form of pre-conceptual knowing
 
 ## Remaining Items
 

@@ -57,7 +57,7 @@ Inbound links added from 8 existing articles:
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Body text (Symbolic mediation subsection)
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Body text (ineffability pattern)
 - [language-thought-boundary](/voids/language-thought-boundary/) — Body text (dissolution on articulation)
-- [pre-conceptual-knowing](/voids/pre-conceptual-knowing/) — Body text (aesthetic absorption direct method)
+- [pre-conceptual-knowing](/voids/acquaintance-void/) — Body text (aesthetic absorption direct method)
 - [affective-void](/voids/affective-void/) — Body text (psychedelic/mystical experiences)
 - [qualia](/concepts/qualia/) — Body text (Aesthetic Qualia section)
 

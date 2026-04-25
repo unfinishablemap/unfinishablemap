@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-19 13:38:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -22,7 +22,7 @@ concepts:
 - '[[eastern-philosophy-consciousness]]'
 - '[[illusionism]]'
 - '[[nihilism-and-existentialism]]'
-- '[[pre-conceptual-knowing]]'
+- '[[acquaintance-void]]'
 - '[[attention-as-interface]]'
 - '[[intuitive-dualism]]'
 - '[[evaluative-phenomenal-character]]'

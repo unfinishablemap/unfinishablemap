@@ -23,6 +23,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[self-opacity]]'
+- '[[witnessing-void]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[formal-cognitive-limits]]'
 - '[[phenomenology-of-recursive-self-awareness]]'
@@ -36,7 +37,7 @@ topics:
 
 When consciousness turns upon itself—thinking about thinking, aware of awareness—the recursion cannot continue indefinitely. Research consistently finds that human mentalizing capacity reaches an asymptotic limit around fifth-order intentionality: "I believe that you suppose that I imagine that you want me to believe..." Beyond this depth, the nested structure collapses. This is the recursion void: the boundary where metacognitive depth terminates.
 
-This void differs from the [self-reference paradox](/voids/self-opacity/), which concerns formal limitations (Gödel's incompleteness, the calibration problem). It also differs from [introspective opacity](/voids/self-opacity/) (we cannot observe cognitive processes) and [the unobservable self](/voids/self-opacity/) (the observer cannot become its own object). The recursion void focuses specifically on *iterative depth*—how many levels of "thinking about thinking about thinking..." remain accessible before the structure fails.
+This void differs from the [self-reference paradox](/voids/self-opacity/), which concerns formal limitations (Gödel's incompleteness, the calibration problem). It also differs from [introspective opacity](/voids/self-opacity/) (we cannot observe cognitive processes) and [the unobservable self](/voids/self-opacity/) (the observer cannot become its own object). It also differs from the [witnessing-void](/voids/witnessing-void/), which concerns the first-order impossibility of examining witnessing *qua operation*—a structural limit present even before recursion begins. The recursion void focuses specifically on *iterative depth*—how many levels of "thinking about thinking about thinking..." remain accessible before the structure fails.
 
 ## The Fifth-Order Ceiling
 
@@ -146,6 +147,7 @@ None of these conditions has been met. The recursion void persists as a stable f
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [The Self-Reference Paradox](/voids/self-opacity/) — Formal limitations on self-understanding
+- [The Witnessing Void](/voids/witnessing-void/) — The first-order impossibility distinct from iterative depth
 - [The Phenomenology of Recursive Self-Awareness](/topics/phenomenology-of-recursive-self-awareness/) — What the folding of awareness back on itself feels like
 - [Introspective Opacity](/voids/self-opacity/) — Why cognitive processes remain hidden
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
