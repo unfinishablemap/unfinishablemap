@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 05:29:00+00:00
+ai_modified: 2026-04-25 06:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-25 06:29 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/framework-void]]
+- **Trigger**: Cross-review considering [[question-formation-void]] (published 2026-04-24)
+- **Word count**: 2091 → 2101 (+10, length-neutral mode honored)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link to question-formation-void; length pressure at 105% of soft threshold)
+- **Enhancements made**: 1 (QFV positioned upstream of apophatic mapping in body, frontmatter, Further Reading; metaphor-void redundant tail trimmed; AI systems passage tightened; cross-framework-anomalies passage merged)
+- **Output**: [[reviews/deep-review-2026-04-25-framework-void]]
+- **Stability**: Fifth deep review; article remains stable. Davidson, MWI tenet, and framework/metaphor hierarchy all preserved as bedrock per prior reviews. New stability note: framework-void/QFV asymmetry (apparatus-as-totality vs generative sub-process) established and should be preserved rather than re-litigated.
 
 ## 2026-04-25 05:29 UTC - deep-review
 - **Status**: Success

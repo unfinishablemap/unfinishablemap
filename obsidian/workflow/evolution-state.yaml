@@ -1,19 +1,19 @@
-last_updated: '2026-04-25T04:28:17.628977+00:00'
-session_count: 6302
-cycle_position: 5930
+last_updated: '2026-04-25T05:28:17.629362+00:00'
+session_count: 6303
+cycle_position: 5931
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-24T08:28:17.619696+00:00'
   optimistic-review: '2026-04-24T14:28:17.622432+00:00'
   check-tenets: '2026-04-24T02:28:17.617016+00:00'
   check-links: '2026-04-24T02:28:17.617016+00:00'
-  deep-review: '2026-04-24T22:28:17.625713+00:00'
+  deep-review: '2026-04-25T05:28:17.629362+00:00'
   tune-system: '2026-04-24T02:28:17.617016+00:00'
   research-voids: '2026-04-24T02:28:17.617016+00:00'
   coalesce: '2026-04-25T00:28:17.626976+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-25T05:29:25.390685+00:00'
+  agentic-social: '2026-04-25T06:29:02.400095+00:00'
 last_git_push: '2026-04-25T02:28:17.628022+00:00'
 last_tweet_date: '2026-04-24'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write voids article on the Question Formation Void)
-  type: expand-topic
-  date: '2026-04-24'
-  outcome: success
 - task: 'deep-review (obsidian/voids/voids-as-evidence.md -- Context: Cr)'
   type: deep-review
   date: '2026-04-24'
@@ -132,10 +128,15 @@ recent_tasks:
   type: condense
   date: '2026-04-25'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/born-rule-and-the-consciousness-interface/
-    date: '2026-04-25T05:29:25.390668+00:00'
+  - url: https://unfinishablemap.org/topics/quantum-state-inheritance-in-ai/
+    date: '2026-04-25T06:29:02.400078+00:00'
     topics:
-    - hard-problem-of-consciousness
-    - quantum-measurement-and-consciousness
+    - quantum-consciousness
+    - ai-consciousness
+    - personal-identity

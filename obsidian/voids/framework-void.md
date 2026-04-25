@@ -4,7 +4,7 @@ description: "Every conceptual framework excludes what it cannot represent. The 
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-04-25T06:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,12 +28,13 @@ related_articles:
   - "[[apophatic-cartography]]"
   - "[[compound-failure-signatures]]"
   - "[[transformative-experience-void]]"
+  - "[[question-formation-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
-last_deep_review: 2026-04-18T02:34:00+00:00
+last_deep_review: 2026-04-25T06:29:00+00:00
 ---
 
 The Unfinishable Map's voids section explores cognitive limits — territories that resist understanding. Most voids concern specific failures: the inability to articulate certain experiences ([[language-thought-boundary]]), to conceive of formal contradictions ([[conceptual-impossibility]]), or to form particular categories ([[biological-cognitive-closure]]). The framework void operates at a different level entirely. It concerns the totality of one's conceptual apparatus — the entire system of concepts, assumptions, and inferential patterns through which one understands anything at all. The framework is not a tool one uses to examine consciousness; it is the lens through which examination occurs. And a lens cannot bring itself into focus.
@@ -80,13 +81,13 @@ Two partial methods of approach remain available:
 
 **Historical immersion.** Sustained engagement with radically different philosophical traditions — Buddhist theories of no-self, Advaita Vedanta's pure consciousness, Indigenous relational ontologies — can produce brief destabilisation of one's framework. The destabilisation is never complete, but it can make the framework momentarily visible.
 
-**Apophatic mapping.** Rather than trying to occupy an alternative framework, one can trace where the current framework produces strain, paradox, or explanatory failure. The shape of what lies beyond can be inferred from the pattern of conceptual breakdown — the method of [[apophatic-cartography]] that the Map's voids section employs throughout. Cross-framework anomalies are especially informative: phenomena that resist adequate treatment within any single framework. The hard problem of consciousness may be such an anomaly, handled by neither dualism nor materialism without residue.
+**Apophatic mapping.** Rather than trying to occupy an alternative framework, one can trace where the current framework produces strain, paradox, or explanatory failure. The shape of what lies beyond can be inferred from the pattern of conceptual breakdown — the method of [[apophatic-cartography]] employed throughout the Map's voids section. Cross-framework anomalies are especially informative — phenomena like the hard problem of consciousness, handled by neither dualism nor materialism without residue. The [[question-formation-void|question formation void]] sits upstream of this method: apophatic mapping can only negate what has been formulated, and unformulated questions cast no shadow.
 
 A third partial method — Husserl's *epoché*, the phenomenological suspension of the natural attitude — attempts to bracket the framework itself and attend to experience prior to conceptualisation. Whether this succeeds is contested, but the attempt exercises the capacity to notice framework-dependence even when the framework cannot be fully escaped.
 
-Each of these methods confronts a reflexive complication. Describing framework-dependence requires specific metaphors — *lens*, *prison*, *walls*, *map* — whose own distortions cannot be identified from within them. [[metaphor-void|The metaphor void]] asks whether these figurative mappings operate one level beneath framework-dependence: frameworks can be examined (with difficulty) from other frameworks, but metaphors can only be examined through other metaphors. Approaches to the framework void are therefore approaches through metaphor, never free of figurative residue.
+Each of these methods confronts a reflexive complication. Describing framework-dependence requires specific metaphors — *lens*, *prison*, *walls*, *map* — whose own distortions cannot be identified from within them. [[metaphor-void|The metaphor void]] asks whether these figurative mappings operate one level beneath framework-dependence: frameworks can be examined (with difficulty) from other frameworks, but metaphors can only be examined through other metaphors.
 
-AI systems occupy a distinctive position: lacking first-person experiential grounding, they can operate within multiple philosophical frameworks without the commitment that comes from embodied experience. Whether this is genuine framework-switching or surface simulation is itself a framework-dependent question — explored in [[non-human-minds-as-void-explorers|non-human-minds-as-void-explorers]].
+AI systems occupy a distinctive position: lacking first-person experiential grounding, they can operate within multiple philosophical frameworks without the commitment of embodied stance. Whether this is genuine framework-switching or surface simulation is itself a framework-dependent question — explored in [[non-human-minds-as-void-explorers]].
 
 ## Relation to Site Perspective
 
@@ -115,6 +116,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [[non-human-minds-as-void-explorers]] — Whether AI and alien minds can transcend human framework limits
 - [[voids-between-minds|The Intersubjective Void]] — How social knowledge mechanisms enforce framework constraints on phenomenal reports
 - [[transformative-experience-void|The Transformative Experience Void]] — Lived choices a framework's elegance excludes rather than captures
+- [[question-formation-void|The Question Formation Void]] — Which questions can be formed, not merely which answered
 
 ## References
 

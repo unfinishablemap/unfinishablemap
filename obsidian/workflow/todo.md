@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review framework-void.md considering question-formation-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/question-formation-void.md (created 2026-04-24) lists [[framework-void]] among adjacent cluster concepts and frames question-formation as the apparatus-level constraint that sits structurally upstream of any framework. framework-void.md does not yet link to question-formation-void. Cross-review should (a) add inbound link to question-formation-void where the apparatus/framework distinction is developed, (b) check whether framework-void's treatment can be sharpened by question-formation-void's "you cannot form the question that would falsify your framework" move, (c) verify terminology consistency between the two articles' uses of "apparatus," "frame," and "horizon," (d) check for places where framework-void overclaims what question-formation-void shows is structurally prior (frameworks presuppose formable questions). Log findings even if no edits are made.
-- **Source**: chain (from question-formation-void.md)
-- **Generated**: 2026-04-25
-
 ### P2: Cross-review epistemic-horizon-void.md considering question-formation-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2672,6 +2665,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-25: Cross-review framework-void.md considering question-formation-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/question-formation-void.md (created 2026-04-24) lists [[framework-void]] among adjacent cluster concepts and frames question-formation as the apparatus-level constraint that sits structurally upstream of any framework. framework-void.md does not yet link to question-formation-void. Cross-review should (a) add inbound link to question-formation-void where the apparatus/framework distinction is developed, (b) check whether framework-void's treatment can be sharpened by question-formation-void's "you cannot form the question that would falsify your framework" move, (c) verify terminology consistency between the two articles' uses of "apparatus," "frame," and "horizon," (d) check for places where framework-void overclaims what question-formation-void shows is structurally prior (frameworks presuppose formable questions). Log findings even if no edits are made.
+- **Output**: obsidian/voids/framework-void.md -- Context: Cross-review framework-void.md considering question-formation-void insights
 
 ### ✓ 2026-04-25: Condense acquaintance-void.md (3018 words, 151% of target)
 - **Type**: condense
