@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-15 09:05:00+00:00
+ai_modified: 2026-04-25 15:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: The dualist position that consciousness couples with all physical s
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 09:05:00+00:00
+last_deep_review: 2026-04-25 15:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

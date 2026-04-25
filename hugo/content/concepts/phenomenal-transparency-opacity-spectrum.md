@@ -137,6 +137,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Why we think consciousness is hard to explain, and transparency's role in generating that intuition
 - [curated-mind](/topics/curated-mind/) — How the brain's pervasive curation depends on phenomenal transparency
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — How perceptual degradation reveals the interface that transparency hides
+- [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/) — Why opacity has no functional analogue in extended systems: notebooks have neither transparent nor opaque phenomenal status
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-20 05:45:00+00:00
+ai_modified: 2026-04-25 17:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -32,14 +32,14 @@ concepts:
 - '[[control-theoretic-will]]'
 - '[[spontaneous-intentional-action]]'
 created: 2026-01-08
-date: &id001 2026-04-20
+date: &id001 2026-04-25
 description: Can we genuinely author our choices? The Map defends agent-causal libertarian
   free will grounded in phenomenology—the felt difference between choosing and merely
   observing.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 02:05:00+00:00
+last_deep_review: 2026-04-25 17:29:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -195,7 +195,6 @@ Free will stands at the intersection of all five [tenets](/tenets/):
 - [quantum-indeterminacy-free-will](/concepts/quantum-indeterminacy-free-will/) — How quantum mechanics supports libertarian free will
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — How the framework addresses Kim's exclusion argument
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing: initiation, sustained control, effort, and veto
-- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The experiential structure of deciding
 - [counterfactual-reasoning](/concepts/counterfactual-reasoning/) — Consciousness-dependent capacity to imagine alternatives
 - [counterfactual-void](/voids/counterfactual-void/) — Architectural limits of modal cognition
 - [libet-experiments](/concepts/libet-experiments/) — Detailed analysis including retrocausal resolution

@@ -35,7 +35,7 @@ topics:
 
 Apes have culture but may not know they have culture. This is the Jourdain Hypothesis, named after Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who discovers to his astonishment that he has been speaking prose all his life. The hypothesis, articulated by Andrew Whiten (2015), captures a crucial distinction: having mental states versus representing oneself as having them. Great apes possess cultural traditions—tool-use techniques, grooming patterns, food preferences that vary between groups—but may not represent these as "our way of doing things" subject to deliberate evaluation and modification.
 
-The Unfinishable Map takes this distinction as evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If the difference between procedural and declarative metacognition marks the boundary between [baseline](/concepts/baseline-cognition/) and consciousness-amplified cognition, and if metarepresentation requires phenomenal consciousness, then consciousness causally enables capacities humans possess and apes lack—including [cumulative culture](/concepts/cumulative-culture/), explicit reasoning, and deliberate self-improvement.
+The Unfinishable Map takes this distinction as evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If the difference between procedural and declarative metacognition marks [the boundary](/concepts/metarepresentation-threshold/) between [baseline](/concepts/baseline-cognition/) and consciousness-amplified cognition, and if metarepresentation requires phenomenal consciousness, then consciousness causally enables capacities humans possess and apes lack—including [cumulative culture](/concepts/cumulative-culture/), explicit reasoning, and deliberate self-improvement.
 
 ## The Literary Reference
 
@@ -192,6 +192,7 @@ The simpler hypothesis—that all metacognition is really procedural, that the a
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without metarepresentation
 - [cumulative-culture](/concepts/cumulative-culture/) — Why cultural ratcheting requires the Jourdain transition
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — How consciousness enhances baseline cognitive capacity
+- [metarepresentation-threshold](/concepts/metarepresentation-threshold/) — The boundary the Jourdain transition identifies, and why it appears discrete rather than gradual
 - [theory-of-mind](/concepts/theory-of-mind/) — Levels of mindreading and the metarepresentation threshold
 - [working-memory](/concepts/working-memory/) — The workspace where metarepresentation operates
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The phenomenal character of thinking

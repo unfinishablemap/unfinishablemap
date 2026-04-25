@@ -180,6 +180,7 @@ This connects to [the broader void of pre-conceptual knowing](/voids/acquaintanc
 - [attention-as-interface](/concepts/attention-as-interface/)—how attention mediates conscious selection from the phenomenal field
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/)—a proposed mechanism for conscious selection from phenomenal overflow
 - [Pre-Conceptual Knowing](/voids/acquaintance-void/)—the broader void of experience beyond concepts
+- [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)—how the A-consciousness/P-consciousness asymmetry exposed by overflow plays out in the extended cognition debate, marking where functional parity arguments fail
 
 ## References
 

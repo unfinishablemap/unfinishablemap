@@ -1,13 +1,54 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 14:29:00+00:00
+ai_modified: 2026-04-25 18:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-25 18:29 UTC - deep-review
+- **Status**: Success (orphan integration; convergence confirmed on fifth review)
+- **File**: [consciousness-epistemology-extended-cognition](/topics/consciousness-epistemology-extended-cognition/)
+- **Previous reviews**: [deep-review-2026-04-12-consciousness-epistemology-extended-cognition](/reviews/deep-review-2026-04-12-consciousness-epistemology-extended-cognition/), [deep-review-2026-04-12b-consciousness-epistemology-extended-cognition](/reviews/deep-review-2026-04-12b-consciousness-epistemology-extended-cognition/), [deep-review-2026-04-15-consciousness-epistemology-extended-cognition](/reviews/deep-review-2026-04-15-consciousness-epistemology-extended-cognition/), [deep-review-2026-04-15b-consciousness-epistemology-extended-cognition](/reviews/deep-review-2026-04-15b-consciousness-epistemology-extended-cognition/)
+- **Word count**: 2147 → 2147 (no change to article itself)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (stale orphan flag — verified file already had 6 inbound links from prior review; added 4 reciprocal Further Reading links from articles cited inline that did not link back)
+- **Enhancements made**: 4 reciprocal inbound links added — phenomenal-overflow, phenomenal-transparency-opacity-spectrum, qualia, hard-problem-of-consciousness Further Reading entries
+- **Inbound links**: 6 → 10
+- **Output**: [deep-review-2026-04-25-consciousness-epistemology-extended-cognition](/reviews/deep-review-2026-04-25-consciousness-epistemology-extended-cognition/)
+
+## 2026-04-25 17:29 UTC - deep-review
+- **Status**: Success (post-coalesce link debt; convergence confirmed on nineteenth review)
+- **File**: [free-will](/topics/free-will/)
+- **Previous review**: [deep-review-2026-03-21-free-will](/reviews/deep-review-2026-03-21-free-will/)
+- **Word count**: 2607 → 2606 (-1)
+- **Critical issues addressed**: 1 (broken wikilink to archived `imagination-and-creativity-void` → updated to `creative-aesthetic-void`)
+- **Medium issues addressed**: 1 (duplicate Further Reading entry for `phenomenology-of-choice-and-volition` removed)
+- **Enhancements made**: 0 (article highly stable; only mechanical link debt remained from coalesce events)
+- **Output**: [deep-review-2026-04-25-free-will](/reviews/deep-review-2026-04-25-free-will/)
+
+## 2026-04-25 16:29 UTC - deep-review
+- **Status**: Success (orphan integration; convergence confirmed on fourth review)
+- **File**: [metarepresentation-threshold](/concepts/metarepresentation-threshold/)
+- **Previous reviews**: [deep-review-2026-04-14-metarepresentation-threshold](/reviews/deep-review-2026-04-14-metarepresentation-threshold/), [deep-review-2026-04-15-metarepresentation-threshold](/reviews/deep-review-2026-04-15-metarepresentation-threshold/), [deep-review-2026-04-17-metarepresentation-threshold](/reviews/deep-review-2026-04-17-metarepresentation-threshold/)
+- **Word count**: 1456 → 1456 (no change to article itself)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration — verified file already had 9 inbound links; added 4 more from highest-value missing candidates)
+- **Enhancements made**: 4 inbound links added (jourdain-hypothesis in-body + Further Reading; theory-of-mind in-body + Further Reading; ai-consciousness in-body after Jourdain analogy; cumulative-culture in-body where metarepresentation is centrally invoked)
+- **Output**: [deep-review-2026-04-25-metarepresentation-threshold](/reviews/deep-review-2026-04-25-metarepresentation-threshold/)
+
+## 2026-04-25 15:29 UTC - deep-review
+- **Status**: Success (extended cross-linking; convergence confirmed)
+- **File**: [universal-coupling-response](/concepts/universal-coupling-response/)
+- **Previous reviews**: [deep-review-2026-04-15-universal-coupling-response](/reviews/deep-review-2026-04-15-universal-coupling-response/), [deep-review-2026-04-15b-universal-coupling-response](/reviews/deep-review-2026-04-15b-universal-coupling-response/)
+- **Word count**: 1607 → 1607 (no change to article itself)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (deferred cross-link candidates from prior review applied)
+- **Enhancements made**: 5 inbound links added from cetacean-and-corvid-consciousness, consciousness-and-integrated-information, evolution-of-consciousness, substrate-independence, apex/minds-without-words
+- **Output**: [deep-review-2026-04-25-universal-coupling-response](/reviews/deep-review-2026-04-25-universal-coupling-response/)
 
 ## 2026-04-25 14:29 UTC - optimistic-review
 - **Status**: Success
