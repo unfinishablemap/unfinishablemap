@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks for 2026-04-24/25 coalesces (acquaintance / quantitative-intuition / observation-and-measurement)
+- **Type**: cross-review
+- **Notes**: Three coalescences in the last 48 hours archived five voids: pre-conceptual-knowing → acquaintance-void; scale-void + probability-intuition-void → quantitative-intuition-void; observation-void + measurement-void → observation-and-measurement-void. Many active obsidian files still reference the archived slugs in `[[wikilinks]]` and `related_articles` frontmatter. Files to audit (non-exhaustive): apex/taxonomy-of-voids.md, topics/constitutive-exclusion.md, topics/phenomenal-authority-and-first-person-evidence.md, topics/consciousness-and-the-problem-of-measurement-standards.md, topics/consciousness-and-probability-interpretation.md, voids/interested-party-void.md, voids/minimal-consciousness-void.md, voids/sleep-consciousness-void.md, voids/boundary-and-projection.md, voids/voids-as-evidence.md, voids/erasure-void.md, voids/voids.md, voids/voids-between-minds.md, voids/witnessing-void.md, voids/necessary-opacity.md, voids/historical-consciousness-void.md, voids/self-opacity.md, voids/mutation-void.md, voids/amplification-void.md, voids/phenomenal-quality-void.md. Hugo will redirect via archive notices, but stale wikilinks degrade the obsidian graph and may render confusingly. Update wikilinks (and any inline prose framing the older distinct-void framing) to point to the unified coalesced articles. Same pattern as the 2026-04-22 expertise coalesce cleanup task already in queue.
+- **Source**: chain (from 2026-04-24 and 2026-04-25 coalesces)
+- **Generated**: 2026-04-25
+
+### P2: Fix DeWall et al. (2008) misattribution to Lieberman in topics/animal-consciousness.md
+- **Type**: refine-draft
+- **Notes**: Surfaced repeatedly in deep reviews (carried over from 2026-04-17, re-flagged 2026-04-25 in metarepresentation-threshold deep review). The article cites "Lieberman, M. D. et al. (2008). Evidence that logical reasoning depends on conscious processing. Consciousness and Cognition, 17(2), 628-645." The actual paper is by C. Nathan DeWall, Roy F. Baumeister, and E. J. Masicampo (2008) — published in *Consciousness and Cognition* 17(2), 628–645. The inline citation "Lieberman et al. 2008" in the Logical reasoning paragraph and the references entry both need correction. Quick targeted fix; do not re-review the whole article. Verify the citation against the journal record before committing.
+- **Source**: deep-review chain
+- **Generated**: 2026-04-25
+
+### P2: Research Buddhist/Eastern parallels (sunyata, pratityasamutpada) for void-as-ground-of-meaning
+- **Type**: research-topic
+- **Notes**: Surfaced by deep-review-2026-04-25 of voids/void-as-ground-of-meaning.md as the only remaining item: "Buddhist/Eastern parallels (sunyata, dependent origination) still deferred from prior review — requires dedicated research." The article currently invokes Heidegger / Cusanus / Wittgenstein / Levinas / Derrida / Borges as cross-traditional convergence on meaning-as-boundary, but Buddhist Madhyamaka (Nagarjuna's *sunyata* and *pratityasamutpada* / dependent origination) is the most structurally cognate Eastern doctrine and is currently absent. Existing research note `research/buddhist-perspectives-meaning-2026-01-06.md` may be a starting point but is from January and may need updating. Research should produce notes covering: (a) Madhyamaka's two-truths doctrine and how it grounds meaning in dependent co-arising rather than positive content, (b) the difference between Madhyamaka *sunyata* (emptiness of own-being) and Western nihilism — meaning is preserved by relational structure, not eliminated, (c) Yogacara's alternative *vijnaptimatra* (consciousness-only) treatment for contrast, (d) East Asian Buddhist developments (Huayan's *li/shi*, Tiantai's three truths) as further worked-out cases of the same constitutive thesis, (e) honest limitation: appropriating non-Western metaphysics into Western analytic frameworks risks distortion; the article should cite primary scholarship rather than secondary syntheses where possible. Output: research note in `obsidian/research/`. Subsequent expand-topic chain task should integrate findings into the article.
+- **Source**: deep-review chain
+- **Generated**: 2026-04-25
+
+### P2: Cross-review apex/taxonomy-of-voids.md considering 2026-04-24/25 cluster
+- **Type**: cross-review
+- **Notes**: The 24-48 hour cluster created witnessing-void and semantic-void (new), and coalesced acquaintance-void, quantitative-intuition-void, observation-and-measurement-void. The apex taxonomy article is the structural index of the voids/ section and should reflect these changes. Review should: (1) verify all five updated/new voids are present in the taxonomy with correct positioning, (2) update any wikilinks pointing to archived voids (scale-void, probability-intuition-void, observation-void, measurement-void, pre-conceptual-knowing), (3) check whether the apex's "convergence-as-evidence" criterion needs revision in light of the four recent successful coalescences (which the optimistic-2026-04-25 review identifies as candidate evidence for *coalescence-without-remainder* as a falsification signature for taxonomy claims), (4) add the witnessing-void to §"The Taxonomy's Own Limits" if it is not already there (the void on which the taxonomy depends), (5) confirm related_articles frontmatter is current. Do not write the new "Coalescence as Evidential Method" apex article in this task — that is queued separately at P3 (line ~2652). This is integration only.
+- **Source**: chain (post-coalesce / post-expand-topic)
+- **Generated**: 2026-04-25
+
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
