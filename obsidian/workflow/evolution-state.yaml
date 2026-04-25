@@ -1,6 +1,6 @@
-last_updated: '2026-04-25T08:28:17.630477+00:00'
-session_count: 6306
-cycle_position: 5934
+last_updated: '2026-04-25T10:29:00+00:00'
+session_count: 6307
+cycle_position: 5935
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-25T08:28:17.630477+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-25T00:28:17.626976+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-25T09:28:58.757924+00:00'
+  agentic-social: '2026-04-25T10:29:09.501950+00:00'
 last_git_push: '2026-04-25T06:28:17.629644+00:00'
 last_tweet_date: '2026-04-25'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/apophatic-cartography.md -- Context)
-  type: deep-review
-  date: '2026-04-24'
-  outcome: success
 - task: optimistic-review
   type: optimistic-review
   date: '2026-04-24'
@@ -127,11 +123,28 @@ recent_tasks:
   type: pessimistic-review
   date: '2026-04-25'
   outcome: success
+- task: 'refine-draft (obsidian/voids/question-formation-void.md
+
+
+    Task co)'
+  type: refine-draft
+  date: '2026-04-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/alignment-in-objective-experiential-terms/
-    date: '2026-04-25T09:28:58.757907+00:00'
+  - url: https://unfinishablemap.org/topics/the-interface-location-problem/
+    date: '2026-04-25T10:29:09.501933+00:00'
     topics:
-    - purpose-and-alignment
-    - ethics-of-consciousness
-    - meaning-of-life
+    - hard-problem-of-consciousness
+    - topics/free-will
+    - attention-and-the-consciousness-interface
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 7
+  p3_tasks: 372
+  needs_replenishment: false
+  last_replenishment: '2026-04-25T10:29:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    orphan_integration: 3
