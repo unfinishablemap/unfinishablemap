@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/witness-consciousness.md considering witnessing-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/witnessing-void.md (created 2026-04-24) develops the claim that the *act* of witnessing cannot witness itself — a structural impossibility at the centre of consciousness that is distinct from opacity of content or medium. concepts/witness-consciousness.md is the canonical concept-level treatment and was cited in the new article's concepts list but does not yet cite back. Cross-review should (a) add a link from witness-consciousness.md to witnessing-void.md where the introspective-access limit is developed, (b) check whether witness-consciousness's phenomenology can be sharpened by the act/content/medium triad distinguishing the three related voids (witnessing/observation/transparency), (c) verify terminology consistency — witnessing-void uses "structural impossibility" and "non-objectifiable observer"; witness-consciousness should not overclaim what the void argues is systematically inaccessible, (d) identify any passages where witness-consciousness's treatment of the meditative and Advaita material would be strengthened by citing the void's more careful scoping of what those traditions *can* and *cannot* disclose. Log findings even if no edits are made.
-- **Source**: chain (from voids/witnessing-void.md)
-- **Generated**: 2026-04-24
-
 ### P2: Cross-review voids/intentionality-void.md considering semantic-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2665,6 +2658,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-25: Cross-review concepts/witness-consciousness.md considering witnessing-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/witnessing-void.md (created 2026-04-24) develops the claim that the *act* of witnessing cannot witness itself — a structural impossibility at the centre of consciousness that is distinct from opacity of content or medium. concepts/witness-consciousness.md is the canonical concept-level treatment and was cited in the new article's concepts list but does not yet cite back. Cross-review should (a) add a link from witness-consciousness.md to witnessing-void.md where the introspective-access limit is developed, (b) check whether witness-consciousness's phenomenology can be sharpened by the act/content/medium triad distinguishing the three related voids (witnessing/observation/transparency), (c) verify terminology consistency — witnessing-void uses "structural impossibility" and "non-objectifiable observer"; witness-consciousness should not overclaim what the void argues is systematically inaccessible, (d) identify any passages where witness-consciousness's treatment of the meditative and Advaita material would be strengthened by citing the void's more careful scoping of what those traditions *can* and *cannot* disclose. Log findings even if no edits are made.
+- **Output**: obsidian/concepts/witness-consciousness.md -- Context: Cross-review concepts/witness-consciousness.md considering witnessing-void insights
 
 ### ✓ 2026-04-25: Update wikilinks to coalesced pre-conceptual-knowing
 - **Type**: cross-review
