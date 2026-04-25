@@ -4,7 +4,7 @@ description: "The body shapes how consciousness engages matter without producing
 created: 2026-02-09
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-16T15:13:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ related_articles:
   - "[[consciousness-as-perceptual-architect]]"
   - "[[dual-domain-capabilities-in-proprioception-and-spatial-imagination]]"
   - "[[dualist-perception]]"
-  - "[[pre-conceptual-knowing]]"
+  - "[[acquaintance-void]]"
   - "[[consciousness-and-the-phenomenology-of-place]]"
   - "[[pain-consciousness-and-causal-power]]"
   - "[[consciousness-and-social-understanding]]"
@@ -208,7 +208,7 @@ The interface reading would face serious difficulty if:
 - [[consciousness-as-activity]] — Activity-first ontology: consciousness as something the organism does
 - [[pain-consciousness-and-causal-power]] — Why pain's felt awfulness is inseparable from its causal role
 - [[dualist-perception]] — How dualism reframes perceptual experience
-- [[pre-conceptual-knowing]] — Knowledge that precedes conceptual articulation
+- [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge that precedes conceptual articulation
 - [[consciousness-and-the-phenomenology-of-place]] — The felt character of being somewhere
 - [[brain-computer-interfaces-and-the-interface-boundary]] — Whether the interface extends beyond the brain through technology
 - [[sensorimotor-contingencies-and-the-interface]] — How sensorimotor contingency theory maps the interface

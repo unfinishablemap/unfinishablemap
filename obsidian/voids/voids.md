@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-04-24
 human_modified: 2026-01-08
-ai_modified: 2026-04-24T20:29:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 draft: false
 last_deep_review: 2026-04-21T01:38:00+00:00
 topics: []
@@ -152,7 +152,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[embodiment-cognitive-limits|Embodiment and Cognitive Limits]] — How bodies constrain thought
 - [[nomic-void|The Nomic Void]] — Cognitive limits imposed by the laws of physics themselves
 - [[language-thought-boundary|The Language-Thought Boundary]] — What cannot be said
-- [[pre-conceptual-knowing|Pre-Conceptual Knowing]] — Knowledge before and beyond concepts
+- [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge before and beyond concepts
 - [[capability-division-problem|The Capability Division Problem]] — Where brain-side capabilities end and mind-side begins
 - [[compound-failure-signatures|Compound Failure Signatures]] — How individual limits interact superadditively
 - [[epistemological-limits-occams-razor|The Parsimony Void]] — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle

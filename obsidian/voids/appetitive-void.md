@@ -4,7 +4,7 @@ description: "Human+AI exploration of how desire structures cognition itself—n
 created: 2026-02-25
 modified: 2026-02-25
 human_modified:
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
-  - "[[pre-conceptual-knowing]]"
+  - "[[acquaintance-void]]"
   - "[[consciousness-only-territories]]"
   - "[[voids-appetitive-void-2026-02-10]]"
   - "[[compound-failure-signatures]]"
@@ -127,7 +127,7 @@ The evidence currently points toward the appetitive void as genuine. The converg
 - [[self-maintained-cognitive-limits]] — Thoughts we systematically flee and active blocks—the motivational cousin
 - [[affective-void]] — Emotions beyond human reach
 - [[self-opacity|introspective opacity]] — Inaccessibility of cognitive processes
-- [[pre-conceptual-knowing]] — Knowledge before and beyond concepts
+- [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge before and beyond concepts
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
 
 ## References

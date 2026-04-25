@@ -4,7 +4,7 @@ description: "Phenomenal acquaintance—the direct, non-inferential relation bet
 created: 2026-02-09
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-21T05:38:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,6 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[consciousness-only-territories]]"
-  - "[[pre-conceptual-knowing]]"
   - "[[modal-structure-of-phenomenal-properties]]"
   - "[[intentionality]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
@@ -70,7 +69,7 @@ Acquaintance knowledge rests on the acquaintance relation itself, which has thre
 
 **Immediacy.** No inference, representation, or intermediary stands between the subject and the quality. When you feel pain, the hurtfulness is not reported to you by an internal messenger—it is constitutively present in your experience. This differs from perception of external objects, where causal chains and representational processes mediate between perceiver and world.
 
-**Non-conceptual character.** Phenomenal acquaintance does not require possessing or applying a concept. You can be acquainted with a shade of colour you have never seen before and lack any concept for. As explored in [[pre-conceptual-knowing]], acquaintance precedes and grounds conceptualisation rather than depending on it. The concept PAIN classifies; phenomenal acquaintance with pain *presents*.
+**Non-conceptual character.** Phenomenal acquaintance does not require possessing or applying a concept. You can be acquainted with a shade of colour you have never seen before and lack any concept for. As explored in [[acquaintance-void|the void of pre-conceptual knowing]], acquaintance precedes and grounds conceptualisation rather than depending on it. The concept PAIN classifies; phenomenal acquaintance with pain *presents*.
 
 **Subject-dependence.** Phenomenal acquaintance is essentially first-personal. No one else can stand in your acquaintance relation to your pain. Third parties can know *about* your pain—its causes, neural correlates, behavioural effects—but the relation of being directly presented with its qualitative character is yours alone.
 
@@ -102,7 +101,7 @@ Loar might reply that zombies are inconceivable—that the very directness of ph
 
 ## Acquaintance as Pre-Conceptual
 
-Russell's acquaintance has a pre-conceptual dimension explored in [[pre-conceptual-knowing]]. Acquaintance with a shade of blue precedes—and grounds—the concept BLUE. The concept classifies; acquaintance presents. John McDowell attempted to rescue conceptualism through demonstrative concepts ("that shade"), but as Sean Kelly argues, demonstrative concepts require re-identification capacity. If you cannot reliably re-identify the shade tomorrow, you never formed a genuine concept. The experience outstrips conceptual capture.
+Russell's acquaintance has a pre-conceptual dimension explored in [[acquaintance-void|the acquaintance void]]. Acquaintance with a shade of blue precedes—and grounds—the concept BLUE. The concept classifies; acquaintance presents. John McDowell attempted to rescue conceptualism through demonstrative concepts ("that shade"), but as Sean Kelly argues, demonstrative concepts require re-identification capacity. If you cannot reliably re-identify the shade tomorrow, you never formed a genuine concept. The experience outstrips conceptual capture.
 
 This connects acquaintance to the fineness of grain problem. Perceptual experience discriminates more shades than concepts can classify. The shade you see is not "blue" or "light blue" but *that particular shade*, available through acquaintance and lost the moment acquaintance ends. Concepts generalise; acquaintance is irreducibly particular.
 
@@ -164,7 +163,6 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 - [[phenomenal-authority-and-first-person-evidence]] — How acquaintance grounds introspective justification
 - [[phenomenological-method-and-evidence-standards]] — Husserl's apodictic/adequate/assertoric/presumptive taxonomy
 - [[consciousness-only-territories]] — Epistemic territories accessible only through phenomenal acquaintance
-- [[pre-conceptual-knowing]] — The pre-conceptual foundations of acquaintance
 - [[phenomenal-concepts-strategy]] — The physicalist response that locates the gap in concepts rather than acquaintance
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — The thesis that genuine aboutness derives from phenomenal consciousness via acquaintance
 - [[modal-structure-of-phenomenal-properties]] — The structural features of the qualities acquaintance reveals

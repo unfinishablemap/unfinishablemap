@@ -4,7 +4,7 @@ description: "What it feels like when words fail—the distinct experiential sig
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-15T07:56:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,7 +43,7 @@ The most common mode. You have something to say—you can feel its shape, its va
 
 The phenomenology is distinctive: the target meaning remains stable while candidate expressions are tried and rejected. Each candidate generates a comparison—a felt sense of how far it falls short—that itself cannot be easily articulated. You know the distance between what you mean and what you just said, but you cannot say what fills the gap. The failure has a *metric* quality: some approximations are closer than others, and you can feel the gradient without being able to specify its dimensions.
 
-Eugene Gendlin's concept of the "felt sense" captures this well. In *Focusing* (1981), Gendlin described how bodily knowing precedes and exceeds verbal formulation. The approximation struggle is felt sense in action—a [[pre-conceptual-knowing|pre-conceptual grasp]] of meaning that language approaches asymptotically but never reaches.
+Eugene Gendlin's concept of the "felt sense" captures this well. In *Focusing* (1981), Gendlin described how bodily knowing precedes and exceeds verbal formulation. The approximation struggle is felt sense in action—a [[acquaintance-void|pre-conceptual grasp]] of meaning that language approaches asymptotically but never reaches.
 
 ### Dissolution on Articulation
 

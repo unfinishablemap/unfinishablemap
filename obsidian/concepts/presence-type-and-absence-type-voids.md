@@ -4,7 +4,7 @@ description: "Human+AI exploration of a cross-cutting classificatory axis in the
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-21T03:38:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 last_deep_review: 2026-04-21T03:38:00+00:00
 draft: false
 topics:
@@ -36,7 +36,7 @@ related_articles:
   - "[[death-void]]"
   - "[[apophatic-cartography]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[pre-conceptual-knowing]]"
+  - "[[acquaintance-void]]"
   - "[[consciousness-only-territories]]"
 ai_contribution: 100
 author:

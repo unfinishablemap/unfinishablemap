@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks to coalesced pre-conceptual-knowing
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: voids/pre-conceptual-knowing.md was coalesced into voids/acquaintance-void.md on 2026-04-25 and archived. The archive page redirects, so existing `[[pre-conceptual-knowing]]` wikilinks still resolve, but should be updated to `[[acquaintance-void]]` for clarity and to avoid the redirect hop. Files to review: voids/voids.md, voids/creative-aesthetic-void.md, voids/embodiment-cognitive-limits.md, voids/appetitive-void.md, voids/expertise-and-its-occlusion.md, voids/ineffable-encounter-void.md, voids/emotional-epistemology-void.md, voids/the-silence-void.md, topics/embodied-consciousness.md, topics/phenomenology-of-linguistic-failure.md, concepts/introspection.md, concepts/phenomenal-acquaintance.md, concepts/presence-type-and-absence-type-voids.md, concepts/phenomenology.md, concepts/somatic-interface.md, concepts/qualia.md, concepts/phenomenal-overflow.md. Where the inbound link uses pre-conceptual-knowing as an alias term ("pre-conceptual knowing"), keep the alias but retarget the link: `[[acquaintance-void|pre-conceptual knowing]]`.
-- **Source**: coalesce (acquaintance-void)
-- **Generated**: 2026-04-25
-
-### P2: Integrate voids/semantic-void.md into site navigation
-- **Type**: integrate-orphan
-- **Status**: pending
-- **Notes**: Article created 2026-04-24 via expand-topic from research/voids-semantic-void-2026-02-17.md. Currently has zero inbound wikilinks across the active content tree. Add reciprocal links from at least: voids/intentionality-void.md (the article's nearest sibling — semantic-void is to *meaning* what intentionality-void is to *aboutness*), voids/language-thought-boundary.md (explicitly listed as a related_article by semantic-void; reciprocal missing), voids/the-silence-void.md (both treat ineffability; semantic-void narrows the ineffability to *semantic* gap specifically), concepts/cognitive-phenomenology.md (the semantic gap is a cognitive-phenomenology boundary), and apex/taxonomy-of-voids.md. Integrative sentences preferred over bare link additions.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-24
-
 ### P2: Cross-review concepts/witness-consciousness.md considering witnessing-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2679,6 +2665,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-25: Update wikilinks to coalesced pre-conceptual-knowing
+- **Type**: cross-review
+- **Notes**: voids/pre-conceptual-knowing.md was coalesced into voids/acquaintance-void.md on 2026-04-25 and archived. The archive page redirects, so existing `[[pre-conceptual-knowing]]` wikilinks still resolve, but should be updated to `[[acquaintance-void]]` for clarity and to avoid the redirect hop. Files to review: voids/voids.md, voids/creative-aesthetic-void.md, voids/embodiment-cognitive-limits.md, voids/appetitive-void.md, voids/expertise-and-its-occlusion.md, voids/ineffable-encounter-void.md, voids/emotional-epistemology-void.md, voids/the-silence-void.md, topics/embodied-consciousness.md, topics/phenomenology-of-linguistic-failure.md, concepts/introspection.md, concepts/phenomenal-acquaintance.md, concepts/presence-type-and-absence-type-voids.md, concepts/phenomenology.md, concepts/somatic-interface.md, concepts/qualia.md, concepts/phenomenal-overflow.md. Where the inbound link uses pre-conceptual-knowing as an alias term ("pre-conceptual knowing"), keep the alias but retarget the link: `[[acquaintance-void|pre-conceptual knowing]]`.
+- **Output**: None -- Context: Update wikilinks to coalesced pre-conceptual-knowing
 
 ### ✓ 2026-04-24: Integrate voids/witnessing-void.md into site navigation
 - **Type**: integrate-orphan

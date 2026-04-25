@@ -4,7 +4,7 @@ description: "Human+AI exploration of the body's internal sensing channels as th
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-16T13:43:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 last_deep_review: 2026-03-30T18:38:00+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ related_articles:
   - "[[tenets]]"
   - "[[embodied-consciousness]]"
   - "[[embodiment-cognitive-limits]]"
-  - "[[pre-conceptual-knowing]]"
+  - "[[acquaintance-void]]"
   - "[[consciousness-only-territories]]"
   - "[[voids-embodiment-cognitive-limits-2026-01-28]]"
 ai_contribution: 100
@@ -110,7 +110,7 @@ Several properties of the somatic interface matter for the Map's framework.
 - [[embodied-cognition]] — The 4E framework: embodied, embedded, enacted, extended
 - [[brain-interface-boundary]] — Why brains specifically serve as interfaces
 - [[filter-theory]] — The brain as transmitter rather than producer of consciousness
-- [[pre-conceptual-knowing]] — Knowledge that precedes conceptual articulation
+- [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge that precedes conceptual articulation
 - [[attention-as-interface]] — Attention as the control surface for consciousness
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Proprioception and spatial imagination as dual-domain capabilities extending the memory framework
 - [[pain-consciousness-and-causal-power]] — Pain's resistance to reduction and the inseparability of phenomenal character from causal power

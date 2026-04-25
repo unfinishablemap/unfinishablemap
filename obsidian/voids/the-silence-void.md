@@ -4,7 +4,7 @@ description: "Human+AI exploration of why cognitive silence—the cessation of t
 created: 2026-02-17
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-04-17T20:56:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ related_articles:
   - "[[apophatic-approaches]]"
   - "[[sleep-consciousness-void]]"
   - "[[consciousness-only-territories]]"
-  - "[[pre-conceptual-knowing]]"
+  - "[[acquaintance-void]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[disappearance-voids]]"
@@ -117,7 +117,7 @@ The void also raises a provocative implication for the Map itself. If consciousn
 - [[apophatic-approaches]]
 - [[sleep-consciousness-void]]
 - [[consciousness-only-territories]]
-- [[pre-conceptual-knowing]]
+- [[acquaintance-void]]
 - [[phenomenology-of-the-edge]]
 - [[non-human-minds-as-void-explorers]]
 - [[self-opacity|self-reference paradox]]

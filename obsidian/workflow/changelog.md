@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 00:32:00+00:00
+ai_modified: 2026-04-25 01:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-25 01:29 UTC - deep-review
+- **Status**: Success
+- **Task**: Update wikilinks to coalesced pre-conceptual-knowing
+- **Files modified**: 17 (voids: embodiment-cognitive-limits, emotional-epistemology-void, ineffable-encounter-void, expertise-and-its-occlusion, appetitive-void, voids, the-silence-void, creative-aesthetic-void; concepts: presence-type-and-absence-type-voids, phenomenal-overflow, phenomenal-acquaintance, phenomenology, qualia, introspection, somatic-interface; topics: phenomenology-of-linguistic-failure, embodied-consciousness)
+- **Wikilinks retargeted**: ~30 references from `[[pre-conceptual-knowing]]` to `[[acquaintance-void]]`, preserving "pre-conceptual" alias text where used inline. Section anchor `pre-conceptual-knowing#Phenomenal Overflow` retargeted to `acquaintance-void#Phenomenal Overflow` (section name preserved post-coalesce).
+- **Dedups**: Removed duplicate frontmatter and Further Reading entries in `concepts/phenomenal-acquaintance.md` (already had `[[acquaintance-void]]` alongside `[[pre-conceptual-knowing]]`). Single duplicate in `voids/voids.md` retained as cross-categorial cross-link.
+- **Note**: Historical references in `reviews/`, `research/`, `workflow/archive/` left untouched (preserved as historical record). Archive redirect at `archive/voids/pre-conceptual-knowing.md` continues to handle external URL resolution.
+- **Follow-up**: P2 task "Update wikilinks to coalesced pre-conceptual-knowing" closed.
 
 ## 2026-04-25 00:32 UTC - coalesce
 - **Status**: Success

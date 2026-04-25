@@ -4,7 +4,7 @@ description: "Our primary access to consciousness is contested. But critiques ta
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-23T13:24:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,7 +22,7 @@ concepts:
   - "[[self-opacity]]"
   - "[[consciousness-and-mathematics]]"
   - "[[cognitive-phenomenology]]"
-  - "[[pre-conceptual-knowing]]"
+  - "[[acquaintance-void]]"
   - "[[causal-interface]]"
   - "[[contemplative-epistemology]]"
   - "[[self-stultification]]"
@@ -73,7 +73,7 @@ Choice blindness concerns decision justification, not current phenomenal awarene
 
 ### Phenomenal Overflow: Evidence for the Distinction
 
-Ned Block's phenomenal overflow research supports the process/content distinction. Subjects shown a grid of twelve letters briefly report seeing all twelve clearly, but can only identify three or four. Phenomenal content exceeds cognitive access—precisely what the distinction predicts. The fineness of grain argument converges: you see *that* shade of blue, not just "blue." See [[pre-conceptual-knowing]] for how concepts may structurally limit access to phenomenal content.
+Ned Block's phenomenal overflow research supports the process/content distinction. Subjects shown a grid of twelve letters briefly report seeing all twelve clearly, but can only identify three or four. Phenomenal content exceeds cognitive access—precisely what the distinction predicts. The fineness of grain argument converges: you see *that* shade of blue, not just "blue." See [[acquaintance-void|the acquaintance void]] for how concepts may structurally limit access to phenomenal content.
 
 ## Training and Contemplative Science
 

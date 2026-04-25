@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness encounters meaning and s
 created: 2026-03-24
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-21T16:38:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 draft: false
 last_deep_review: 2026-04-21T16:38:00+00:00
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[aesthetic-void]]"
   - "[[the-silence-void]]"
   - "[[the-surplus-void]]"
-  - "[[pre-conceptual-knowing]]"
+  - "[[acquaintance-void]]"
   - "[[self-opacity]]"
   - "[[phenomenal-quality-void]]"
   - "[[mutation-void]]"
@@ -169,7 +169,7 @@ Finally, this void is the paradigm instance of the [[presence-type-and-absence-t
 - [[aesthetic-void]]
 - [[the-silence-void]]
 - [[the-surplus-void]]
-- [[pre-conceptual-knowing]]
+- [[acquaintance-void]]
 - [[self-opacity|introspective opacity]]
 - [[phenomenal-quality-void]]
 - [[mutation-void]]

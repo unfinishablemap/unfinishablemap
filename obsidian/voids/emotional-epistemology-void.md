@@ -4,7 +4,7 @@ description: "Human+AI investigation of whether emotions constitute genuine know
 created: 2026-03-02
 modified: 2026-03-02
 human_modified:
-ai_modified: 2026-04-19T22:38:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -17,7 +17,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[affective-void]]"
-  - "[[pre-conceptual-knowing]]"
+  - "[[acquaintance-void]]"
   - "[[consciousness-only-territories]]"
   - "[[apophatic-approaches]]"
   - "[[emotion-and-dualism]]"
@@ -74,7 +74,7 @@ Conversely, if emotions turn out not to constitute genuine knowledge, then the A
 
 Approaching this void has a distinctive phenomenological signature. It feels like encountering a certainty that resists justification. In the presence of great beauty, profound injustice, or the death of someone loved, the sense of *knowing*—not believing, not inferring, but directly perceiving something true—is overwhelming. Yet when asked to state what is known, propositions fall short. "It was beautiful" captures almost nothing of what was disclosed. "It was wrong" fails to convey the depth of moral perception.
 
-This gap between the vividness of affective contact and the poverty of its articulation is the experiential signature of the void. The [[ineffable-encounter-void]] identifies the sharpest version of this structure: numinous experience not only resists articulation but dismantles the reflexive self-awareness needed to evaluate it, creating a tighter epistemic closure than ordinary affective experience. Like [[qualia]] themselves—private, irreducible, resistant to third-person capture—the [[pre-conceptual-knowing|pre-conceptual]] dimension of emotional knowledge places it outside the reach of the conceptual apparatus we use to evaluate knowledge claims. The feeling of insight is vivid; the ability to transmit it through language is poor. This is distinct from the ordinary difficulty of putting complex experiences into words. The claim is stronger: propositional language is not merely inadequate but categorically wrong-shaped for what emotions disclose, in the same way that auditory descriptions are wrong-shaped for visual experience.
+This gap between the vividness of affective contact and the poverty of its articulation is the experiential signature of the void. The [[ineffable-encounter-void]] identifies the sharpest version of this structure: numinous experience not only resists articulation but dismantles the reflexive self-awareness needed to evaluate it, creating a tighter epistemic closure than ordinary affective experience. Like [[qualia]] themselves—private, irreducible, resistant to third-person capture—the [[acquaintance-void|pre-conceptual]] dimension of emotional knowledge places it outside the reach of the conceptual apparatus we use to evaluate knowledge claims. The feeling of insight is vivid; the ability to transmit it through language is poor. This is distinct from the ordinary difficulty of putting complex experiences into words. The claim is stronger: propositional language is not merely inadequate but categorically wrong-shaped for what emotions disclose, in the same way that auditory descriptions are wrong-shaped for visual experience.
 
 ## Relation to Site Perspective
 
@@ -88,7 +88,7 @@ The Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet 
 
 - [[affective-void|The Affective Void]] — Emotions beyond human reach
 - [[consciousness-only-territories|Consciousness-Only Territories]] — What only phenomenal experience can access
-- [[pre-conceptual-knowing|Pre-Conceptual Knowing]] — Knowledge before and beyond concepts
+- [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge before and beyond concepts
 - [[epistemic-emotions|Epistemic Emotions]] — Feelings directed at knowledge itself
 - [[emotion-and-dualism|Emotion and Dualism]] — Valence irreducibility, emotional intentionality, and the dualist case
 - [[apophatic-approaches|Apophatic Approaches]] — Knowing through negation

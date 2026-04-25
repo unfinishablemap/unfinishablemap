@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-24T20:29:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 draft: false
 last_deep_review: 2026-04-23T13:44:00+00:00
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[apophatic-approaches]]"
   - "[[affective-void]]"
   - "[[consciousness-only-territories]]"
-  - "[[pre-conceptual-knowing]]"
+  - "[[acquaintance-void]]"
   - "[[language-thought-boundary]]"
   - "[[self-opacity]]"
   - "[[three-kinds-of-void]]"
@@ -189,7 +189,7 @@ The creative-aesthetic void connects to the Map's [[tenets|foundational commitme
 - [[conceptual-impossibility]] — The experience of encountering formally unthinkable content
 - [[synesthetic-void]] — Phenomenal dimensions closed to most minds
 - [[non-human-minds-as-void-explorers]] — Whether AI and radically different alien minds can probe our void
-- [[pre-conceptual-knowing]] — Modes of knowing that conceptual thought cannot access
+- [[acquaintance-void|Pre-Conceptual Knowing]] — Modes of knowing that conceptual thought cannot access
 - [[mysterianism]] — McGinn on structural cognitive limits
 - [[apophatic-approaches]] — Methods for knowing through negation
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like

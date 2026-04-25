@@ -4,7 +4,7 @@ description: "How deep expertise irreversibly transforms conscious experience an
 created: 2026-03-05
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T11:25:00+00:00
+ai_modified: 2026-04-25T01:29:00+00:00
 last_deep_review: 2026-04-23T02:38:00+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[disappearance-voids]]"
   - "[[biological-cognitive-closure]]"
   - "[[imagination-and-creativity-void]]"
-  - "[[pre-conceptual-knowing]]"
+  - "[[acquaintance-void]]"
   - "[[embodiment-cognitive-limits]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[choking-phenomenon-mental-causation]]"
@@ -146,7 +146,7 @@ It also parallels [[necessary-opacity]] at a structural level. Both voids treat 
 - [[biological-cognitive-closure]] — The developmental analogue: maturation as irreversible closure
 - [[conceptual-metabolism-void]] — Understanding consumes its objects irreversibly: the conceptual analogue of expertise
 - [[imagination-and-creativity-void]] — Where creative insight originates beyond the expert's introspective reach
-- [[pre-conceptual-knowing]] — Knowledge that precedes conceptual articulation
+- [[acquaintance-void|Pre-Conceptual Knowing]] — Knowledge that precedes conceptual articulation
 - [[self-opacity]] — The subject that cannot be its own object
 - [[source-attribution-void]] — Expertise-induced amnesia as a case where one's own past performance is the unattributable source
 - [[necessary-opacity]] — The parallel void: consciousness cannot inspect its own representational structure without destabilising it
