@@ -37,6 +37,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address pessimistic review findings in voids/question-formation-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (2026-04-25) flagged: (1) "leaves no trace" claim contradicted by four-trace list immediately after — reframe as inner-wall markers; (2) Carmita Wood is a vocabulary-deficit case, not a strong question-formation void — distinguish coarse vs fine-grained voids and own the limit; (3) selection effect — every cited example is retrospectively closed; either supply a forward-looking case or own that the evidence is constitutively retrospective; (4) Tractatus citation conflates early/late Wittgenstein — soften; (5) Heidegger appropriation overreaches — reframe as model not analysis; (6) LLM "different generative architecture" claim is empirically loose — specify or weaken; (7) dualism connection ("candidate site for irreducibility") is hedged metaphysics — either argue or demote; (8) No-Many-Worlds paragraph is template-filler — make specific or remove. See [[reviews/pessimistic-2026-04-25]].
+
 ### P2: Cross-review language-thought-boundary.md considering semantic-void insights
 - **Type**: cross-review
 - **Status**: pending

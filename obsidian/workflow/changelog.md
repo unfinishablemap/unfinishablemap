@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 07:29:00+00:00
+ai_modified: 2026-04-25 08:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-25 08:29 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/question-formation-void]] (created 2026-04-24, ~1,750 words, recently-integrated cluster centre — six wikilinks added in last 24h, no prior pessimistic review on file)
+- **Output**: [[reviews/pessimistic-2026-04-25]]
+- **Critical issues raised**: 8 (3 high, 4 medium, 1 low) — chief: "leaves no trace" contradicted by next paragraph; Carmita Wood is vocabulary-deficit not strong question-formation void; selection-effect on cited examples (all retrospectively closed); Tractatus/late-Wittgenstein conflation; Heidegger appropriation overreach; LLM "different generative architecture" empirically loose; dualism candidate-site claim is hedged metaphysics; No-Many-Worlds paragraph is template-filler
+- **Follow-up**: P2 refine-draft task added to todo.md
 
 ## 2026-04-25 07:29 UTC - deep-review
 - **Status**: Success
