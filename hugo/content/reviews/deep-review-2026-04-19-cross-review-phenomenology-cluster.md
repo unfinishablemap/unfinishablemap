@@ -19,7 +19,7 @@ topics: []
 
 **Date**: 2026-04-19
 **Articles reviewed**: [Phenomenology](/concepts/phenomenology/), [Phenomenal Acquaintance](/concepts/phenomenal-acquaintance/), [Phenomenological Evidence](/concepts/phenomenological-evidence/)
-**Against new content**: [Phenomenological Method and Evidence Standards](/topics/phenomenological-method-and-evidence-standards/) (created 2026-04-18)
+**Against new content**: [Phenomenological Method and Evidence Standards](/topics/phenomenal-authority-and-first-person-evidence/) (created 2026-04-18)
 **Previous reviews**:
 - phenomenology: [2026-03-20](/reviews/deep-review-2026-03-20-phenomenology/)
 - phenomenal-acquaintance: [2026-03-19](/reviews/deep-review-2026-03-19-phenomenal-acquaintance/)
@@ -33,7 +33,7 @@ Cross-review task: the new topic article *Phenomenological Method and Evidence S
 
 ### Critical Issues Found
 
-- **Misleading link targets in two articles**: Both `phenomenology.md` and `phenomenological-evidence.md` contained `[...](/topics/phenomenal-authority-and-first-person-evidence/)` links with display text that exactly named the new article (e.g., "phenomenological method and evidence standards", "evidence taxonomy"). Display text of that shape suggests the link goes to an article of that name, but it went elsewhere. With the new article now existing as a dedicated treatment, these were genuine mislinks that would mislead readers. **Resolution**: Redirected both to `[phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)`. The `phenomenal-authority` article still hosts parallel taxonomy material and remains cross-linked elsewhere where the phenomenal-authority framing is the actual referent.
+- **Misleading link targets in two articles**: Both `phenomenology.md` and `phenomenological-evidence.md` contained `[...](/topics/phenomenal-authority-and-first-person-evidence/)` links with display text that exactly named the new article (e.g., "phenomenological method and evidence standards", "evidence taxonomy"). Display text of that shape suggests the link goes to an article of that name, but it went elsewhere. With the new article now existing as a dedicated treatment, these were genuine mislinks that would mislead readers. **Resolution**: Redirected both to `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)`. The `phenomenal-authority` article still hosts parallel taxonomy material and remains cross-linked elsewhere where the phenomenal-authority framing is the actual referent.
 
 ### Medium Issues Found
 
@@ -69,9 +69,9 @@ Cross-review task: the new topic article *Phenomenological Method and Evidence S
 
 ### Cross-links Added
 
-- From `phenomenology.md` to `[phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)` (inline + Further Reading + related_articles)
-- From `phenomenal-acquaintance.md` to `[phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)` (inline + Further Reading + related_articles)
-- From `phenomenological-evidence.md` to `[phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)` (inline retarget + Further Reading + related_articles)
+- From `phenomenology.md` to `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` (inline + Further Reading + related_articles)
+- From `phenomenal-acquaintance.md` to `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` (inline + Further Reading + related_articles)
+- From `phenomenological-evidence.md` to `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` (inline retarget + Further Reading + related_articles)
 
 ## Length Impact
 

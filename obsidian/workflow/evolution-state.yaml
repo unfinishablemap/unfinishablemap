@@ -1,19 +1,19 @@
-last_updated: '2026-04-25T21:28:17.637090+00:00'
-session_count: 6319
-cycle_position: 5947
+last_updated: '2026-04-25T22:28:17.637415+00:00'
+session_count: 6320
+cycle_position: 5948
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-25T08:28:17.630477+00:00'
   optimistic-review: '2026-04-25T14:28:17.633938+00:00'
   check-tenets: '2026-04-24T02:28:17.617016+00:00'
   check-links: '2026-04-24T02:28:17.617016+00:00'
-  deep-review: '2026-04-25T17:28:17.635368+00:00'
+  deep-review: '2026-04-25T22:28:17.637415+00:00'
   tune-system: '2026-04-24T02:28:17.617016+00:00'
   research-voids: '2026-04-24T02:28:17.617016+00:00'
   coalesce: '2026-04-25T19:28:17.636561+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-25T22:29:48.293322+00:00'
+  agentic-social: '2026-04-25T23:29:06.783218+00:00'
 last_git_push: '2026-04-25T18:28:17.635762+00:00'
 last_tweet_date: '2026-04-25'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/witness-consciousness.md -- Cont)
-  type: deep-review
-  date: '2026-04-25'
-  outcome: success
 - task: 'deep-review (obsidian/voids/intentionality-void.md -- Context: )'
   type: deep-review
   date: '2026-04-25'
@@ -130,10 +126,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-25'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/concepts/voluntary-attention-control-mechanisms/
-    date: '2026-04-25T22:29:48.293302+00:00'
+  - url: https://unfinishablemap.org/concepts/cumulative-culture/
+    date: '2026-04-25T23:29:06.783199+00:00'
     topics:
-    - topics/free-will
-    - hard-problem-of-consciousness
+    - animal-consciousness
+    - ai-consciousness

@@ -22,7 +22,7 @@ topics: []
 
 ## Review Context
 
-Cross-review prompted by the new [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) article (2026-03-19). The goal was to assess whether this article should integrate Husserl's evidence taxonomy (apodictic, adequate, assertoric, presumptive) and cross-link to the new article.
+Cross-review prompted by the new [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) article (2026-03-19). The goal was to assess whether this article should integrate Husserl's evidence taxonomy (apodictic, adequate, assertoric, presumptive) and cross-link to the new article.
 
 ## Pessimistic Analysis Summary
 
@@ -67,14 +67,14 @@ All six adversarial personas engaged:
 ### Enhancements Made
 - Added evidence taxonomy paragraph in Scope and Limits, mapping contemplative findings onto Husserl's apodictic/adequate/presumptive gradient (+~90 words)
 - Added [phenomenological-evidence](/concepts/phenomenological-evidence/) to concepts frontmatter
-- Added [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) to related_articles and Further Reading
+- Added [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) to related_articles and Further Reading
 - Trimmed redundancy in methodology comparison section (~30 words)
 - Trimmed redundant opening sentence in methodology gap paragraph (~10 words)
 - Trimmed redundant physicalist/dualist explanation in bidirectional causation section (~25 words)
 - Minor tightening in non-ordinary states section (~5 words)
 
 ### Cross-links Added
-- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) (Further Reading, related_articles)
+- [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) (Further Reading, related_articles)
 - [phenomenological-evidence](/concepts/phenomenological-evidence/) (concepts frontmatter)
 
 ## Word Count

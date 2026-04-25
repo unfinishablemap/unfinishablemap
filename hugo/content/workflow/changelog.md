@@ -1,13 +1,62 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 18:29:00+00:00
+ai_modified: 2026-04-25 22:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-25 22:29 UTC - deep-review
+- **Status**: Success (stability confirmation, no content changes)
+- **File**: [cross-cultural-phenomenology-of-agency](/topics/cross-cultural-phenomenology-of-agency/)
+- **Word count**: 2403 → 2403 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fifth review of a stabilized article. Candidate selector picked it because mechanical wikilink retargets had moved `ai_modified` past `last_deep_review`. Verified all wikilinks resolve, attribution accuracy intact, all five tenets-aligned arguments preserved. Updated `last_deep_review` and `ai_modified` to today; recommendation to exclude from rotation reaffirmed.
+- **Output**: [deep-review-2026-04-25-cross-cultural-phenomenology-of-agency](/reviews/deep-review-2026-04-25-cross-cultural-phenomenology-of-agency/)
+
+## 2026-04-25 21:29 UTC - cross-review (wikilink retarget verification)
+- **Status**: Success (no edits required)
+- **Trigger**: P2 task "Update wikilinks for 2026-04-24/25 coalesces (acquaintance / quantitative-intuition / observation-and-measurement)" generated 2026-04-25 from coalesce chain
+- **Coalesces in scope**:
+  - [acquaintance-void](/voids/acquaintance-void/) ← [pre-conceptual-knowing](/archive/voids/pre-conceptual-knowing/) (coalesce 2026-04-25 00:32 UTC; retarget 2026-04-25 03:21 UTC, 17 files)
+  - [quantitative-intuition-void](/voids/quantitative-intuition-void/) ← [scale-void](/archive/voids/scale-void/) + [probability-intuition-void](/archive/voids/probability-intuition-void/) (coalesce 2026-04-24 19:29 UTC; retarget 2026-04-24, 14 files)
+  - [observation-and-measurement-void](/voids/observation-and-measurement-void/) ← [observation-void](/archive/voids/observation-void/) + [measurement-void](/archive/voids/measurement-void/) (coalesce 2026-03-28 07:04 UTC; retarget at coalesce time, 22 files)
+- **Audit method**: `grep -rnE '\[\[([a-z\-]+/)?(pre-conceptual-knowing|scale-void|probability-intuition-void|observation-void|measurement-void)([\|#\]])'` over `obsidian/{topics,concepts,voids,apex,tenets}/**/*.md`, `obsidian/index.md`, and the synced `hugo/content/` tree. Also checked frontmatter list/string forms (`'slug'`, `"slug"`, `path/slug`, `slug.md`).
+- **Result**: Zero stale references in any active-content file. Each of the 20 audit-list files in the task notes was scanned individually and confirmed clean. The matches surfaced in the original task generator's scan (changelog.md:42 lists them) had already been retargeted by the per-coalesce cleanup runs that preceded this consolidation task.
+- **Intentionally preserved**:
+  - `aliases:` frontmatter entries on the three coalesced targets (`/voids/pre-conceptual-knowing/`, `/voids/scale-void/`, `/voids/probability-intuition-void/`, `/voids/observation-void/`, `/voids/measurement-void/`) — these are URL redirects, not stale links.
+  - References in `reviews/`, `research/`, `workflow/`, `workflow/archive/` — preserved as historical record per established policy.
+- **Output**: 0 files modified. todo.md entry moved to Completed.
+
+## 2026-04-25 20:29 UTC - cross-review (wikilink retarget)
+- **Status**: Success
+- **Trigger**: Follow-up to 2026-04-25 19:34 UTC coalesce (phenomenological-method-and-evidence-standards → phenomenal-authority-and-first-person-evidence, second occurrence)
+- **Files retargeted**: 8 active-content files
+  - [contemplative-epistemology](/concepts/contemplative-epistemology/) (frontmatter topics + Further Reading; deduped phenomenal-authority from related_articles)
+  - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) (frontmatter related_articles deduped; inline anchor + Further Reading retargeted/merged)
+  - [phenomenological-evidence](/concepts/phenomenological-evidence/) (frontmatter related_articles deduped; inline `evidence taxonomy` anchor; Further Reading merged)
+  - [phenomenology](/concepts/phenomenology/) (frontmatter related_articles; inline reliability-section anchor; Further Reading)
+  - [zahavian-minimal-self](/concepts/zahavian-minimal-self/) (inline parenthetical; Further Reading)
+  - [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) (frontmatter related_articles deduped; inline anchor + parenthetical; Further Reading merged)
+  - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) (frontmatter related_articles; inline phenomenological-method link; Further Reading)
+  - [petitmengin-microphenomenological-interview-2026-04-19](/research/petitmengin-microphenomenological-interview-2026-04-19/) (two inline references)
+- **Pattern**: Frontmatter slug swaps, inline section-anchor retargets to `#Husserl's Evidence Taxonomy` (which exists in the new article), and dedup where the new slug was already present alongside the old.
+- **Verification**: `grep phenomenological-method-and-evidence-standards` over `obsidian/{topics,concepts,voids,apex,tenets,research}/**/*.md` returns no matches.
+- **Output**: 8 files modified; todo.md entry marked complete.
+
+## 2026-04-25 19:34 UTC - coalesce
+- **Status**: Success
+- **Sources**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) (3734 words, created 2026-04-18) → re-merged into [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) (3814 words; coalesced 2026-04-05 already absorbed an earlier article at the same slug)
+- **Target**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Archived**: [phenomenological-method-and-evidence-standards-2026-04-18](/archive/topics/phenomenological-method-and-evidence-standards-2026-04-18/) (date-suffixed to avoid conflict with the existing 2026-04-05 archive at the same slug; the existing archive's redirect from `/topics/phenomenological-method-and-evidence-standards/` to phenomenal-authority remains in force)
+- **Rationale**: A new article at the slug `phenomenological-method-and-evidence-standards.md` was created 2026-04-18 covering Husserl's evidence taxonomy, Schwitzgebel/Dennett critiques, neurophenomenology, microphenomenological method, and intersubjective convergence — substantially the same territory the surviving phenomenal-authority article already covers (per its 2026-04-05 coalesce). The recreation duplicated existing content rather than carving out new ground. Coalesce relieves topics-section cap pressure (232/250 = 93%) while preserving the genuinely novel sharpenings: Berghofer's mentalist evidentialism programme as the contemporary epistemological complement to the acquaintance model, and the Stace/Forman vs Katz/Sharf perennialist/contextualist debate hedging the cross-tradition convergence claim. Both folded into the surviving article.
+- **Integration**: Added Berghofer paragraph to "Competing Models of Introspective Knowledge" section (originary presentive intuitions, evidentialist parity with perceptual evidence). Added perennialist/contextualist hedge to the "Convergence across independent traditions" reliability strategy in "The Reliability Challenge and Calibration" section, restricting the convergence claim to structural features that survive translation across frameworks. Added 5 references: Berghofer 2019/2023, Forman 1990, Katz 1978, Sharf 1995, Stace 1960. Updated `coalesced_from` frontmatter to include `/topics/phenomenological-method-and-evidence-standards-2026-04-18/`.
+- **References to review**: 9 active-content files reference the archived slug `phenomenological-method-and-evidence-standards` and may need wikilink retargeting (concepts: contemplative-epistemology, phenomenal-acquaintance, phenomenological-evidence, phenomenology, zahavian-minimal-self; topics: microphenomenological-interview-method; voids: epistemological-limits-occams-razor; research: petitmengin-microphenomenological-interview-2026-04-19). The Netlify redirect (already present from the 2026-04-05 archive) keeps URLs working; obsidian wikilinks should be updated for graph hygiene. Follow-up task added to todo.md.
 
 ## 2026-04-25 18:29 UTC - deep-review
 - **Status**: Success (orphan integration; convergence confirmed on fifth review)
@@ -1979,7 +2028,7 @@ title: Changelog
 - **Status**: Success
 - **File**: [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
 - **Word count**: 2391 → 2533 (+142, well within 3000 soft threshold; 84%)
-- **Critical issues addressed**: 1 (dangling cross-reference: sibling [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) cited "Bitbol & Petitmengin 2017 in [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)" but that reference was missing here — added to body and bibliography)
+- **Critical issues addressed**: 1 (dangling cross-reference: sibling [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) cited "Bitbol & Petitmengin 2017 in [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)" but that reference was missing here — added to body and bibliography)
 - **Medium issues addressed**: 2 (Microphenomenological-techniques bullet expanded with wikilink to new sibling, epilepsy-prodrome example, and Husserlian-taxonomy placement; sibling added to Further Reading)
 - **Enhancements made**: 2 (sibling-article cross-links in body and Further Reading; Petitmengin/Navarro/Le Van Quyen 2007 reference added)
 - **Output**: [deep-review-2026-04-20-phenomenological-method-and-evidence-standards](/reviews/deep-review-2026-04-20-phenomenological-method-and-evidence-standards/)

@@ -22,7 +22,7 @@ topics: []
 
 ## Review Context
 
-Cross-review considering the [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) article. This is the fifth review cycle for this article. The previous review (same day, 05:39 UTC) already performed this exact cross-review, adding the phenomenological-method cross-link and cleaning up metadata. This review verified that integration and performed a full re-analysis.
+Cross-review considering the [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) article. This is the fifth review cycle for this article. The previous review (same day, 05:39 UTC) already performed this exact cross-review, adding the phenomenological-method cross-link and cleaning up metadata. This review verified that integration and performed a full re-analysis.
 
 ## Pessimistic Analysis Summary
 
@@ -42,7 +42,7 @@ None.
 ### Counterarguments Considered
 All six adversarial personas engaged. No new issues. Bedrock disagreements unchanged from previous four reviews:
 1. **Eliminative materialist**: Convergent findings compatible with refined confabulation — addressed by training-convergence argument
-2. **Dennett**: Heterophenomenology reduces reports to verbal behaviour — addressed indirectly via theory-ladenness section; detailed treatment in [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)
+2. **Dennett**: Heterophenomenology reduces reports to verbal behaviour — addressed indirectly via theory-ladenness section; detailed treatment in [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)
 3. **Buddhist anattā**: Acknowledged in "Where Convergence Fails"
 
 ### Cross-Review with Phenomenological Method Article
@@ -67,7 +67,7 @@ No inconsistencies found between the two articles. Both cite Fox et al. (2012) a
 None — article is stable.
 
 ### Cross-links Verified
-- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — in methodology section, related_articles, and Further Reading
+- [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) — in methodology section, related_articles, and Further Reading
 - All other cross-links verified as functional
 
 ## Word Count
@@ -82,7 +82,7 @@ None.
 
 ## Stability Notes
 
-**This article is confirmed stable.** Five review cycles (2026-03-09, 2026-03-19 03:03, 2026-03-19 04:31, 2026-04-01 05:39, 2026-04-01 09:49) have found no critical issues. The cross-review integration with [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) was completed in the previous review and verified here. No content modifications made — only timestamp updates.
+**This article is confirmed stable.** Five review cycles (2026-03-09, 2026-03-19 03:03, 2026-03-19 04:31, 2026-04-01 05:39, 2026-04-01 09:49) have found no critical issues. The cross-review integration with [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) was completed in the previous review and verified here. No content modifications made — only timestamp updates.
 
 Bedrock disagreements remain appropriately documented:
 1. **Eliminative materialist objection**: Convergent findings compatible with physicalism — acknowledged in article

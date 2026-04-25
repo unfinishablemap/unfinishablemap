@@ -17,14 +17,14 @@ topics: []
 ---
 
 **Date**: 2026-04-20
-**Article**: [Phenomenological Method and Evidence Standards](/topics/phenomenological-method-and-evidence-standards/)
+**Article**: [Phenomenological Method and Evidence Standards](/topics/phenomenal-authority-and-first-person-evidence/)
 **Previous review**: [2026-04-19](/reviews/deep-review-2026-04-19-phenomenological-method-and-evidence-standards/)
 **Cross-review context**: [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) was created on 2026-04-19 (after the parent's last deep review). This review integrates the new sibling.
 
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Dangling cross-reference from sibling**: The new [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) article cites "Bitbol and Petitmengin 2017 in the [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) topic" — but Bitbol & Petitmengin (2017) was not in this article's reference list. Resolved by adding the citation in the Trained Observation bullet on microphenomenology and adding the full reference to the bibliography.
+- **Dangling cross-reference from sibling**: The new [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) article cites "Bitbol and Petitmengin 2017 in the [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) topic" — but Bitbol & Petitmengin (2017) was not in this article's reference list. Resolved by adding the citation in the Trained Observation bullet on microphenomenology and adding the full reference to the bibliography.
 
 ### Medium Issues Found
 - **Missing link to sibling article**: The "Microphenomenological interview techniques (Petitmengin)" bullet in the Trained Observation section did not link to the new dedicated article. Resolved by making the bullet header a wikilink and expanding the bullet to mention the epilepsy-prodrome work and the Husserlian taxonomic placement that the sibling develops.

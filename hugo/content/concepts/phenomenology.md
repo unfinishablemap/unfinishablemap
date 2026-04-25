@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-25 01:29:00+00:00
+ai_modified: 2026-04-25 20:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -39,7 +39,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[phenomenology-first-person-methods-2026-01-14]]'
-- '[[phenomenological-method-and-evidence-standards]]'
+- '[[phenomenal-authority-and-first-person-evidence]]'
 title: Phenomenology
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -93,7 +93,7 @@ Gallagher and Zahavi identify this as the [minimal self](/concepts/self-and-self
 
 Critics object that phenomenological reports cannot be trusted. Nisbett and Wilson showed people confabulate explanations for choices; Schwitzgebel catalogued domains where [introspection](/concepts/introspection/) fails.
 
-The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Fox et al. (2012) found meditation experience predicts introspective accuracy—trained observation is a skill like any other, and Petitmengin's microphenomenology provides techniques to minimize confabulation. The critique clarifies rather than defeats phenomenological method. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for criteria distinguishing reliable from unreliable first-person reports, and [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) for Husserl's apodictic/adequate/assertoric/presumptive taxonomy.
+The phenomenological response: Nisbett and Wilson targeted access to cognitive *processes*, not phenomenal *content*. The epoché asks "what is being experienced?" not "why?" Fox et al. (2012) found meditation experience predicts introspective accuracy—trained observation is a skill like any other, and Petitmengin's microphenomenology provides techniques to minimize confabulation. The critique clarifies rather than defeats phenomenological method. See [phenomenological-evidence](/concepts/phenomenological-evidence/) for criteria distinguishing reliable from unreliable first-person reports, and [the Husserlian evidence taxonomy](/topics/phenomenal-authority-and-first-person-evidence/#husserls-evidence-taxonomy) for the apodictic/adequate/assertoric/presumptive distinctions.
 
 ## Intersubjective Validation
 
@@ -162,7 +162,7 @@ Phenomenology doesn't definitively prove dualism. But it provides methodological
 ## Further Reading
 
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — The methodological divide and why it reflects ontological dualism
-- [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) — Husserl's evidence taxonomy and how phenomenological standards differ from natural-scientific ones
+- [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Husserl's evidence taxonomy and how phenomenological standards differ from natural-scientific ones
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person approach
 - [consciousness](/concepts/consciousness/) — The concept phenomenology investigates
 - [intersubjectivity](/concepts/intersubjectivity/) — How phenomenological findings can be shared across minds

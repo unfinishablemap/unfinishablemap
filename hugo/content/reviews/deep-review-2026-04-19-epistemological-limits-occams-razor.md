@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-19
 **Article**: [The Parsimony Void](/voids/epistemological-limits-occams-razor/)
 **Previous review**: [2026-03-10](/reviews/deep-review-2026-03-10-epistemological-limits-occams-razor/)
-**Context prompt**: Review considering [phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/) insights.
+**Context prompt**: Review considering [phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/) insights.
 
 ## Pessimistic Analysis Summary
 
@@ -50,7 +50,7 @@ topics: []
 - Frames phenomenology as providing a toehold (apodictic givenness of experience + intersubjective convergence among trained observers) while preserving the core void claim (ontological theory-choice remains within parsimony's scope).
 
 ### Cross-links Added
-- `[phenomenological-method-and-evidence-standards](/topics/phenomenological-method-and-evidence-standards/)` — added to related_articles frontmatter and Further Reading
+- `[phenomenological-method-and-evidence-standards](/topics/phenomenal-authority-and-first-person-evidence/)` — added to related_articles frontmatter and Further Reading
 - In-text wikilink to the phenomenological method article in the new section
 
 ## Remaining Items
