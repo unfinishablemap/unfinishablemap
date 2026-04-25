@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/intentionality-void.md considering semantic-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/semantic-void.md (created 2026-04-24) distinguishes the *semantic* gap (meaning-as-experienced exceeds meaning-as-represented) from the broader intentionality gap (aboutness exceeds any structural account). semantic-void lists intentionality-void as a related article, but intentionality-void does not yet cite semantic-void. Cross-review should (a) add reciprocal links, (b) check whether intentionality-void's arguments conflate semantic and aboutness gaps in places where semantic-void now allows a cleaner separation — the distinction is load-bearing for Dualism's case, (c) verify that intentionality-void does not overclaim what semantic-void shows is a narrower structural point, (d) ensure terminology is consistent (meaning-as-experienced vs meaning-as-represented language from semantic-void; aboutness language from intentionality-void should not be used interchangeably where the new article argues for partition), (e) check whether Searle/Brentano/Husserl citations align across the two articles. Log findings even if no edits are made.
-- **Source**: chain (from voids/semantic-void.md)
-- **Generated**: 2026-04-24
-
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -2658,6 +2651,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-25: Cross-review voids/intentionality-void.md considering semantic-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/semantic-void.md (created 2026-04-24) distinguishes the *semantic* gap (meaning-as-experienced exceeds meaning-as-represented) from the broader intentionality gap (aboutness exceeds any structural account). semantic-void lists intentionality-void as a related article, but intentionality-void does not yet cite semantic-void. Cross-review should (a) add reciprocal links, (b) check whether intentionality-void's arguments conflate semantic and aboutness gaps in places where semantic-void now allows a cleaner separation — the distinction is load-bearing for Dualism's case, (c) verify that intentionality-void does not overclaim what semantic-void shows is a narrower structural point, (d) ensure terminology is consistent (meaning-as-experienced vs meaning-as-represented language from semantic-void; aboutness language from intentionality-void should not be used interchangeably where the new article argues for partition), (e) check whether Searle/Brentano/Husserl citations align across the two articles. Log findings even if no edits are made.
+- **Output**: obsidian/voids/intentionality-void.md -- Context: Cross-review voids/intentionality-void.md considering semantic-void insights
 
 ### ✓ 2026-04-25: Cross-review concepts/witness-consciousness.md considering witnessing-void insights
 - **Type**: cross-review

@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 02:29:00+00:00
+ai_modified: 2026-04-25 03:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-25 03:29 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/intentionality-void]]
+- **Trigger**: Cross-review considering [[semantic-void]] insights (created 2026-04-24)
+- **Word count**: 2340 → 2334 (-6, length-neutral mode honored)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (asymmetric cross-link with [[semantic-void]] — added bidirectional reference at the Phenomenal Intentionality bridge point, articulating the mechanism vs felt-character division)
+- **Low issues addressed**: 1 (duplicate self-opacity entry in Further Reading replaced with [[semantic-void]])
+- **Enhancements made**: 3 cross-links to [[semantic-void]] (Phenomenal Intentionality paragraph, Further Reading, related_articles); offset by tightening of Self-reference collapse and Inference-awareness disconnect paragraphs
+- **Output**: [[reviews/deep-review-2026-04-25-intentionality-void]]
+- **Stability**: Third review; article stable across all three. Convergence confirmed. With [[semantic-void]] now linked, the two articles form a clean mechanism/felt-character pair.
 
 ## 2026-04-25 02:29 UTC - deep-review
 - **Status**: Success
