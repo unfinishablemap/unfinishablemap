@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 07:29:00+00:00
+ai_modified: 2026-04-25 10:33:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-25 10:33 UTC - deep-review
+- **Status**: Success
+- **File**: [necessary-opacity](/voids/necessary-opacity/)
+- **Cross-review context**: Reviewed in light of [witnessing-void](/voids/witnessing-void/) (created 2026-04-24), which references necessary-opacity in related_articles and Further Reading with no reciprocal link
+- **Word count**: 2895 → 2914 (+19, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to witnessing-void)
+- **Enhancements made**: 2 (substantive distinguishing bullet for witnessing-void; Further Reading entry); balanced by 5 prose trims (transition sentence after "functionally necessary," desktop icon paragraph, Schopenhauer paragraph, "did they encounter" passage, AI as Asymmetric Probe closing paragraph)
+- **Output**: [deep-review-2026-04-25-necessary-opacity](/reviews/deep-review-2026-04-25-necessary-opacity/)
+
+## 2026-04-25 09:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [question-formation-void](/voids/question-formation-void/)
+- **Trigger**: Pessimistic review [pessimistic-2026-04-25](/reviews/pessimistic-2026-04-25/) (8 critical issues)
+- **Issues addressed**: 8/8 — (1) reframed "leaves no trace" as inner-wall markers vs the void itself; (2) introduced coarse vs fine-grained distinction and owned that Wood is fine-grained; (3) added explicit selection-effect concession paragraph; (4) softened Tractatus citation with picture-theory caveat; (5) reframed Heidegger as model not analysis; (6) weakened/specified LLM "different architecture" claim with corpus-overlap caveat; (7) demoted dualism connection from candidate-site to one-cognitive-function-among-others; (8) replaced No-Many-Worlds template paragraph with specific MWI dilemma (branch-invariant vs branch-varying)
+- **Word count**: ~1,750 → ~2,150 (+400; concession passages add length but address load-bearing critiques)
+- **Published**: yes (was already draft: false; remains so)
+
+## 2026-04-25 08:29 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [question-formation-void](/voids/question-formation-void/) (created 2026-04-24, ~1,750 words, recently-integrated cluster centre — six wikilinks added in last 24h, no prior pessimistic review on file)
+- **Output**: [pessimistic-2026-04-25](/reviews/pessimistic-2026-04-25/)
+- **Critical issues raised**: 8 (3 high, 4 medium, 1 low) — chief: "leaves no trace" contradicted by next paragraph; Carmita Wood is vocabulary-deficit not strong question-formation void; selection-effect on cited examples (all retrospectively closed); Tractatus/late-Wittgenstein conflation; Heidegger appropriation overreach; LLM "different generative architecture" empirically loose; dualism candidate-site claim is hedged metaphysics; No-Many-Worlds paragraph is template-filler
+- **Follow-up**: P2 refine-draft task added to todo.md
 
 ## 2026-04-25 07:29 UTC - deep-review
 - **Status**: Success
