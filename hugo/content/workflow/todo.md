@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemic-horizon-void.md considering question-formation-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/question-formation-void.md (created 2026-04-24) names epistemic-horizon-void as a cluster member and develops the compositional interaction directly: "we cannot list what we cannot form *and* cannot estimate the scope of what we cannot form." epistemic-horizon-void.md predates this article and likely does not link forward. Cross-review should (a) add inbound link from epistemic-horizon-void to question-formation-void where the second-order limit on horizon-estimation appears, (b) check whether epistemic-horizon-void's claims about scope-uncertainty are strengthened or narrowed by question-formation-void's apparatus-level argument, (c) verify the two articles partition cleanly (horizon = what's beyond the boundary; question-formation = what apparatus permits formulation), (d) align terminology around "horizon," "boundary," "apparatus." Log findings even if no edits are made.
-- **Source**: chain (from question-formation-void.md)
-- **Generated**: 2026-04-25
-
 ### P2: Cross-review language-thought-boundary.md considering semantic-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2666,6 +2659,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-25: Cross-review epistemic-horizon-void.md considering question-formation-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/question-formation-void.md (created 2026-04-24) names epistemic-horizon-void as a cluster member and develops the compositional interaction directly: "we cannot list what we cannot form *and* cannot estimate the scope of what we cannot form." epistemic-horizon-void.md predates this article and likely does not link forward. Cross-review should (a) add inbound link from epistemic-horizon-void to question-formation-void where the second-order limit on horizon-estimation appears, (b) check whether epistemic-horizon-void's claims about scope-uncertainty are strengthened or narrowed by question-formation-void's apparatus-level argument, (c) verify the two articles partition cleanly (horizon = what's beyond the boundary; question-formation = what apparatus permits formulation), (d) align terminology around "horizon," "boundary," "apparatus." Log findings even if no edits are made.
+- **Output**: obsidian/voids/epistemic-horizon-void.md -- Context: Cross-review epistemic-horizon-void.md considering question-formation-void insights
 
 ### ✓ 2026-04-25: Cross-review framework-void.md considering question-formation-void insights
 - **Type**: cross-review

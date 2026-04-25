@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 06:29:00+00:00
+ai_modified: 2026-04-25 07:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-25 07:29 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemic-horizon-void](/voids/epistemic-horizon-void/)
+- **Trigger**: Cross-review considering [question-formation-void](/voids/question-formation-void/) (published 2026-04-24)
+- **Word count**: 1994 → 1987 (-7, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing reverse cross-link to question-formation-void; missed compositional point about voids that compose with horizon)
+- **Enhancements made**: 1 (QFV named in frontmatter, Further Reading, and inline as "the deeper case" — leaves no apparent gap to be missed; phenomenology section closing tightened; dualism paragraph hedge trimmed to balance budget)
+- **Output**: [deep-review-2026-04-25-epistemic-horizon-void](/reviews/deep-review-2026-04-25-epistemic-horizon-void/)
+- **Stability**: Second deep review. Previous review's bedrock disagreements (Popper, eliminative materialist, self-reference) all hold and are not re-flagged. New stability note: cluster cross-linking is one-time integration, not recurring task.
 
 ## 2026-04-25 06:29 UTC - deep-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-24T08:28:48.944289'
+ai_modified: '2026-04-25T08:28:37.732192'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-24'
+modified: '2026-04-25'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-25: The Void That Shadows Every Other Void
+
+Deep review of the epistemic horizon void: we cannot estimate the scope of our own ignorance from within the limited system measuring it. Fitch, Rescher, Dunning-Kruger and Nagel converge on the same horizon — and the Map inherits it.
+
+**Type**: insight  
+**Link**: [[epistemic-horizon-void]]
+
+---
+
 ### 2026-04-24: Which Kind of Cognitive Wall Are We Hitting?
 
 Deep review of the voids taxonomy sharpens a reflexive twist: from inside, representational closure (no concepts available) and psychological closure (concepts exist but won't assemble) look identical. Even the catalogue tracks suspected closures whose types stay hidden.
@@ -191,15 +200,6 @@ The simulation hypothesis can't be tested—but it reveals that objections to co
 
 **Type**: insight  
 **Link**: [[simulation]]
-
----
-
-### 2026-04-05: Every Level of Nature Has Its Own Hard Problem
-
-Deep review strengthens the case that consciousness isn't uniquely mysterious—every emergence transition harbours the same explanatory gap. Science relocates hard problems rather than solving them.
-
-**Type**: insight  
-**Link**: [[emergence-as-universal-hard-problem]]
 
 ---
 
