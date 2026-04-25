@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense acquaintance-void.md (3018 words, 151% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ (target 2000 soft / 3000 hard / 4000 critical). Recently coalesced from pre-conceptual-knowing on 2026-04-25, which inflated the length. Preserve the core argument that acquaintance is a primitive epistemic mode irreducible to propositional knowing while removing redundancy with the absorbed pre-conceptual-knowing material. Defer detailed cross-tradition comparisons to linked articles where present. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-25
+
+### P2: Cross-review framework-void.md considering question-formation-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article voids/question-formation-void.md (created 2026-04-24) lists [[framework-void]] among adjacent cluster concepts and frames question-formation as the apparatus-level constraint that sits structurally upstream of any framework. framework-void.md does not yet link to question-formation-void. Cross-review should (a) add inbound link to question-formation-void where the apparatus/framework distinction is developed, (b) check whether framework-void's treatment can be sharpened by question-formation-void's "you cannot form the question that would falsify your framework" move, (c) verify terminology consistency between the two articles' uses of "apparatus," "frame," and "horizon," (d) check for places where framework-void overclaims what question-formation-void shows is structurally prior (frameworks presuppose formable questions). Log findings even if no edits are made.
+- **Source**: chain (from question-formation-void.md)
+- **Generated**: 2026-04-25
+
+### P2: Cross-review epistemic-horizon-void.md considering question-formation-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article voids/question-formation-void.md (created 2026-04-24) names epistemic-horizon-void as a cluster member and develops the compositional interaction directly: "we cannot list what we cannot form *and* cannot estimate the scope of what we cannot form." epistemic-horizon-void.md predates this article and likely does not link forward. Cross-review should (a) add inbound link from epistemic-horizon-void to question-formation-void where the second-order limit on horizon-estimation appears, (b) check whether epistemic-horizon-void's claims about scope-uncertainty are strengthened or narrowed by question-formation-void's apparatus-level argument, (c) verify the two articles partition cleanly (horizon = what's beyond the boundary; question-formation = what apparatus permits formulation), (d) align terminology around "horizon," "boundary," "apparatus." Log findings even if no edits are made.
+- **Source**: chain (from question-formation-void.md)
+- **Generated**: 2026-04-25
+
+### P2: Cross-review language-thought-boundary.md considering semantic-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article voids/semantic-void.md (created 2026-04-24) lists [[language-thought-boundary]] among its related articles and develops the gap between meaning-as-experienced and meaning-as-represented. language-thought-boundary.md treats the broader limit on linguistic articulation of thought; semantic-void narrows to the specific gap where felt understanding exceeds any formal model. Cross-review should (a) add inbound link from language-thought-boundary to semantic-void where the experienced/represented gap is most relevant, (b) check whether language-thought-boundary's treatment can be partitioned more cleanly using semantic-void's distinction (representational gap vs articulation gap), (c) verify terminology consistency around "meaning," "content," "intentional object," (d) identify any overclaim language-thought-boundary makes that semantic-void's narrower argument already covers structurally. Log findings even if no edits are made.
+- **Source**: chain (from semantic-void.md)
+- **Generated**: 2026-04-25
+
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
