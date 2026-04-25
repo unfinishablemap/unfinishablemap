@@ -262,6 +262,7 @@ If consciousness is not reducible to physics, how might mind and matter interact
 - [[commensurability-void]] — Why phenomenal experiences across different architectures may resist even comparison, not just explanation
 - [[the-reverse-inference]] — Why consciousness—the hard problem's datum—should constrain physics rather than the reverse
 - [[what-consciousness-tells-us-about-physics]] — Apex synthesis: the reverse inference from consciousness to physics—arguing the hard problem and measurement problem are the same boundary seen from different sides
+- [[consciousness-epistemology-extended-cognition]] — Substrate independence applied to extended cognition: cognition extends into notebooks and tools while phenomenal experience does not, marking the hard problem from the 4E side
 
 ### External Resources
 - [Consciousness (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/consciousness/)

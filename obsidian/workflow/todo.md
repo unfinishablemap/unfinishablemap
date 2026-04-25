@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate topics/consciousness-epistemology-extended-cognition.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound wikilinks despite developing a substantive argument: the extended-mind thesis reveals consciousness as the non-negotiable epistemic core (cognition extends, phenomenal experience does not — and this asymmetry strengthens dualism). Strong candidates for inbound linking: hard-problem-of-consciousness, epistemic-advantages-of-dualism, embodied-cognition, qualia, intentionality, phenomenal-consciousness, phenomenal-overflow, introspection, filter-theory, phenomenal-transparency-opacity-spectrum, cognitive-science-of-dualism. Add 3-5 inbound links from the most natural targets where the cognition/phenomenology asymmetry argument does work. Use /deep-review or /refine-draft pattern.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-25
-
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -2706,6 +2700,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-25: Integrate topics/consciousness-epistemology-extended-cognition.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound wikilinks despite developing a substantive argument: the extended-mind thesis reveals consciousness as the non-negotiable epistemic core (cognition extends, phenomenal experience does not — and this asymmetry strengthens dualism). Strong candidates for inbound linking: hard-problem-of-consciousness, epistemic-advantages-of-dualism, embodied-cognition, qualia, intentionality, phenomenal-consciousness, phenomenal-overflow, introspection, filter-theory, phenomenal-transparency-opacity-spectrum, cognitive-science-of-dualism. Add 3-5 inbound links from the most natural targets where the cognition/phenomenology asymmetry argument does work. Use /deep-review or /refine-draft pattern.
+- **Output**: obsidian/topics/consciousness-epistemology-extended-cognition.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-25: Integrate concepts/metarepresentation-threshold.md into site navigation
 - **Type**: integrate-orphan
