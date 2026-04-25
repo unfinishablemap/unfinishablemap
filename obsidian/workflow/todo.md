@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review necessary-opacity.md considering witnessing-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/witnessing-void.md (created 2026-04-24) lists [[necessary-opacity]] among its `related_articles` but no reciprocal link exists from necessary-opacity.md to witnessing-void. The witnessing-void argues that the act of witnessing cannot itself be witnessed without becoming a new content — a structural necessity that should sharpen necessary-opacity's treatment of opacity-as-condition-of-experience rather than opacity-as-failure. Cross-review should (a) add inbound links from necessary-opacity.md where the witnessing argument applies, (b) check whether necessary-opacity's claims about opacity-as-condition can be tightened by witnessing-void's recursion-failure framing, (c) verify terminology alignment (witnessing/witness vs introspective opacity), (d) identify any tensions where one article's framing does work the other forecloses. Log findings even if no edits made. See voids/witnessing-void.md.
-- **Source**: chain (from witnessing-void.md)
-- **Generated**: 2026-04-25
-
 ### P2: Cross-review observation-and-measurement-void.md considering witnessing-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/witnessing-void.md (created 2026-04-24) lists [[observation-and-measurement-void]] among its `related_articles` but no reciprocal link exists from observation-and-measurement-void.md. The witnessing-void's recursion-failure argument is structurally adjacent to the measurement-void's claim that the act of observation cannot itself be observed without infinite regress — both are first-person analogues of the quantum-measurement problem. Cross-review should (a) add inbound links from observation-and-measurement-void.md where the witnessing argument is relevant, (b) check whether the measurement-void's treatment of observer-as-blind-spot is sharpened by witnessing-void's phenomenological framing, (c) verify that the void cluster (witnessing, observation-and-measurement, recursion-void) presents as a coherent family in cross-references, (d) flag any quantum-mechanical analogies that should be installed reciprocally. Log findings even if no edits made. See voids/witnessing-void.md.
@@ -2687,6 +2681,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-25: Cross-review necessary-opacity.md considering witnessing-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/witnessing-void.md (created 2026-04-24) lists [[necessary-opacity]] among its `related_articles` but no reciprocal link exists from necessary-opacity.md to witnessing-void. The witnessing-void argues that the act of witnessing cannot itself be witnessed without becoming a new content — a structural necessity that should sharpen necessary-opacity's treatment of opacity-as-condition-of-experience rather than opacity-as-failure. Cross-review should (a) add inbound links from necessary-opacity.md where the witnessing argument applies, (b) check whether necessary-opacity's claims about opacity-as-condition can be tightened by witnessing-void's recursion-failure framing, (c) verify terminology alignment (witnessing/witness vs introspective opacity), (d) identify any tensions where one article's framing does work the other forecloses. Log findings even if no edits made. See voids/witnessing-void.md.
+- **Output**: obsidian/voids/necessary-opacity.md -- Context: Cross-review necessary-opacity.md considering witnessing-void insights
 
 ### ✓ 2026-04-25: Address pessimistic review findings in voids/question-formation-void.md
 - **Type**: refine-draft

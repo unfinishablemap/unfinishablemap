@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 08:29:00+00:00
+ai_modified: 2026-04-25 10:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-25 10:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/necessary-opacity]]
+- **Cross-review context**: Reviewed in light of [[voids/witnessing-void]] (created 2026-04-24), which references necessary-opacity in related_articles and Further Reading with no reciprocal link
+- **Word count**: 2895 → 2914 (+19, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to witnessing-void)
+- **Enhancements made**: 2 (substantive distinguishing bullet for witnessing-void; Further Reading entry); balanced by 5 prose trims (transition sentence after "functionally necessary," desktop icon paragraph, Schopenhauer paragraph, "did they encounter" passage, AI as Asymmetric Probe closing paragraph)
+- **Output**: [[reviews/deep-review-2026-04-25-necessary-opacity]]
 
 ## 2026-04-25 09:29 UTC - refine-draft
 - **Status**: Success
