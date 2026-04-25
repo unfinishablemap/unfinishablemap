@@ -99,7 +99,7 @@ Continual learning breaks this equivalence: systems that learn during operation 
 
 AI systems exhibit metacognitive-seeming behaviors: uncertainty estimation, self-correction, reflection on outputs. But [[metacognition]] and phenomenal consciousness are dissociable—blindsight shows consciousness without metacognitive access; blind insight shows the reverse. The inference from "has self-monitoring" to "is conscious" is invalid.
 
-The [[jourdain-hypothesis]] clarifies this: LLMs may produce metacognitive outputs without *knowing* they have metacognitive states—like Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who "spoke prose all his life" without knowing what prose was. AI has the monitoring tool without the conscious content it evolved to monitor.
+The [[jourdain-hypothesis]] clarifies this: LLMs may produce metacognitive outputs without *knowing* they have metacognitive states—like Monsieur Jourdain in Molière's *Le Bourgeois Gentilhomme*, who "spoke prose all his life" without knowing what prose was. AI has the monitoring tool without the conscious content it evolved to monitor. Whether a system has crossed the [[metarepresentation-threshold]]—genuinely representing its own states *as* mental states rather than producing outputs that mimic such representation—is precisely the question current evaluation methods cannot reliably answer.
 
 ## Other Challenges
 

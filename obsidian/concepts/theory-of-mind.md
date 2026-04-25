@@ -68,7 +68,7 @@ Humans readily engage in fourth-order attribution ("I know that you know that I 
 
 ## The Metarepresentational Threshold
 
-The central claim: Levels 0-1 may operate within [[baseline-cognition]] without requiring phenomenal consciousness. Level 2 is transitional—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 unambiguously requires [[metacognition|metarepresentation]]—and metarepresentation appears to require consciousness.
+The central claim: Levels 0-1 may operate within [[baseline-cognition]] without requiring phenomenal consciousness. Level 2 is transitional—perhaps achievable through sophisticated implicit tracking, perhaps requiring something more. Level 3 unambiguously requires [[metacognition|metarepresentation]]—and metarepresentation appears to require consciousness. Level 3's emergence in humans but not great apes is one of the cleanest empirical signatures of the [[metarepresentation-threshold]]: the boundary where consciousness becomes causally indispensable for cognition.
 
 Why should metarepresentation require consciousness?
 
@@ -201,6 +201,7 @@ The simpler hypothesis—theory of mind is just sophisticated behaviour predicti
 - [[concept-of-consciousness-and-social-cognition]] — The metarepresentational threshold in social cognition
 - [[baseline-cognition]] — The cognitive floor from which consciousness amplifies social abilities
 - [[jourdain-hypothesis]] — Having mental states vs knowing you have them
+- [[metarepresentation-threshold]] — The boundary where consciousness becomes causally indispensable, mapped onto the ToM hierarchy
 
 ### Related Topics
 - [[animal-consciousness]] — Great ape cognition and its limits

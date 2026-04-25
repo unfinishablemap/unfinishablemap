@@ -67,7 +67,7 @@ Cumulative culture requires treating knowledge *as* knowledge. Consider what too
 
 Each step requires [[metacognition|metarepresentation]]—representing your representations as representations. You must know that you know how to make the tool, recognise this knowledge as potentially improvable, and communicate both the technique and its relationship to prior techniques.
 
-Great apes may lack this metarepresentational capacity. As Whiten (2015) argues, they have culture but may not *know* they have culture—the [[jourdain-hypothesis|Jourdain Hypothesis]], after Molière's character who discovered he'd been speaking prose all his life without knowing it. Apes express cultural traditions without representing these as "our way of doing things" subject to deliberate modification.
+Great apes may lack this metarepresentational capacity. As Whiten (2015) argues, they have culture but may not *know* they have culture—the [[jourdain-hypothesis|Jourdain Hypothesis]], after Molière's character who discovered he'd been speaking prose all his life without knowing it. Apes express cultural traditions without representing these as "our way of doing things" subject to deliberate modification. Cumulative culture is one of the diagnostic capacities that emerges above the [[metarepresentation-threshold]]: it requires representing practices *as* practices, not merely executing them.
 
 ## The Teaching Asymmetry
 

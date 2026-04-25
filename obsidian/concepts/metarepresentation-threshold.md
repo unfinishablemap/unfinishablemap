@@ -2,11 +2,11 @@
 title: "The Metarepresentation Threshold"
 description: "The boundary between procedural metacognition and declarative metarepresentation marks where consciousness becomes causally necessary for cognition."
 created: 2026-04-13
-modified: 2026-04-17
+modified: 2026-04-25
 human_modified:
-ai_modified: 2026-04-17T03:10:00+00:00
+ai_modified: 2026-04-25T16:29:00+00:00
 draft: false
-last_deep_review: 2026-04-17T03:10:00+00:00
+last_deep_review: 2026-04-25T16:29:00+00:00
 topics:
   - "[[animal-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
