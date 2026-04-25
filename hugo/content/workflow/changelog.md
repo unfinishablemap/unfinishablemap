@@ -1,13 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 10:33:00+00:00
+ai_modified: 2026-04-25 14:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-25 14:29 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 24-hour coalescence/expansion cluster — voids/witnessing-void (new), voids/semantic-void (new), voids/acquaintance-void (post-coalescence), voids/quantitative-intuition-void (post-coalescence), voids/observation-and-measurement-void (post-coalescence), voids/necessary-opacity (deep-reviewed), voids/void-as-ground-of-meaning (deep-reviewed)
+- **Output**: [optimistic-2026-04-25](/reviews/optimistic-2026-04-25/)
+- **Tasks generated**: 7 P3 tasks (coalescence-as-method apex, witness-and-Mary topic, double-face-pattern concept, AI-as-Mary apex, Shannon/Wittgenstein/Borges concept, self-luminosity concept, recent-cluster cross-link batch)
+
+## 2026-04-25 13:29 UTC - deep-review
+- **Status**: Success (cross-review with semantic-void)
+- **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Previous review**: [deep-review-2026-03-10-void-as-ground-of-meaning](/reviews/deep-review-2026-03-10-void-as-ground-of-meaning/)
+- **Word count**: 1830 → 1864 (+34, well within voids soft threshold of 2000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing semantic-void cross-link in three locations)
+- **Enhancements made**: 3 (frontmatter related_articles, "What This Reframes" bullet, Further Reading entry)
+- **Output**: [deep-review-2026-04-25-void-as-ground-of-meaning](/reviews/deep-review-2026-04-25-void-as-ground-of-meaning/)
+
+## 2026-04-25 12:29 UTC - deep-review
+- **Status**: Success (cross-review with witnessing-void)
+- **File**: [observation-and-measurement-void](/voids/observation-and-measurement-void/)
+- **Previous reviews**: [deep-review-2026-03-28-observation-and-measurement-void](/reviews/deep-review-2026-03-28-observation-and-measurement-void/), [deep-review-2026-04-21-observation-and-measurement-void](/reviews/deep-review-2026-04-21-observation-and-measurement-void/)
+- **Word count**: 2367 → 2383 (+16, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (witnessing-void integration; centre/perimeter distinction)
+- **Enhancements made**: 4 (frontmatter link, Contemplative Convergence cross-link with structural complement framing, Recursive vertigo cross-reference, Further Reading entry)
+- **Output**: [deep-review-2026-04-25-observation-and-measurement-void](/reviews/deep-review-2026-04-25-observation-and-measurement-void/)
+
+## 2026-04-25 11:29 UTC - deep-review
+- **Status**: Success (convergence confirmed)
+- **File**: [physical-completeness](/concepts/physical-completeness/)
+- **Previous reviews**: [deep-review-2026-03-19-physical-completeness](/reviews/deep-review-2026-03-19-physical-completeness/), [deep-review-2026-03-20-physical-completeness](/reviews/deep-review-2026-03-20-physical-completeness/)
+- **Word count**: 1815 → 1815 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article stable; all attribution checks pass; all cross-links verified live)
+- **Output**: [deep-review-2026-04-25-physical-completeness](/reviews/deep-review-2026-04-25-physical-completeness/)
 
 ## 2026-04-25 10:33 UTC - deep-review
 - **Status**: Success

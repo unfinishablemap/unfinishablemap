@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-23 12:41:29+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-25 13:29:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[mysterianism]]'
@@ -16,7 +16,7 @@ description: Why cognitive limits are preconditions for meaning, not merely obst
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-10 12:24:00+00:00
+last_deep_review: 2026-04-25 13:29:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -32,6 +32,7 @@ related_articles:
 - '[[origin-of-consciousness]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[contemplative-epistemology]]'
+- '[[semantic-void]]'
 title: The Void as Ground of Meaning
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -82,6 +83,7 @@ The constitutive thesis reframes the Map's voids project. Each void article docu
 - The [imagination-and-creativity-void](/voids/creative-aesthetic-void/) enables genuine novelty—if creative origins were transparent, nothing would be surprising
 - The [aesthetic-void](/voids/creative-aesthetic-void/) opens access to the ineffable—beauty matters partly because it exceeds articulation
 - The [language-thought-boundary](/voids/language-thought-boundary/) preserves territory that concepts would distort
+- The [semantic-void](/voids/semantic-void/) keeps felt meaning irreducible to formal description—a meaning fully transparent to representation might cease to be a meaning we live
 - The [origin-of-consciousness](/voids/origin-of-consciousness/) void holds open the question that motivates inquiry itself
 
 Each void is not merely a gap in understanding but a joint in the architecture of what makes understanding valuable.
@@ -131,6 +133,7 @@ The constitutive thesis connects to each of the Map's [tenets](/tenets/):
 - [aesthetic-void](/voids/creative-aesthetic-void/) — Where ineffability opens access to the sublime
 - [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — Why creative origins must remain hidden
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation ends and something else begins
+- [semantic-void](/voids/semantic-void/) — Where felt meaning exceeds any formal model of semantic content
 - [origin-of-consciousness](/voids/origin-of-consciousness/) — The void at the foundation of inquiry
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why simplicity fails as a guide at cognitive boundaries
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — Knowing through unknowing, related to Cusanus's learned ignorance
