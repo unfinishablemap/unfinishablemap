@@ -4,7 +4,7 @@ description: "How cultural frameworks shape the felt experience of authorship an
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-25T22:29:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -40,7 +40,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-21T11:47:00+00:00
+last_deep_review: 2026-04-25T22:29:00+00:00
 ---
 
 The Unfinishable Map holds that consciousness genuinely causes physical outcomes — that the felt sense of "I did that" tracks something real. If so, then cross-cultural variations in how agency is experienced become philosophically urgent. When a Daoist sage reports acting through *wu wei* (effortless non-action) and a Western existentialist reports acting through radical self-determination, are they describing the same causal phenomenon dressed in different cultural clothing? Or do different cultural frameworks produce genuinely different modes of conscious causation? The answer matters for any theory that takes [[phenomenology-of-agency-vs-passivity|the phenomenology of agency]] seriously as evidence about the structure of consciousness. Critically, the argument requires distinguishing **functional** invariants — cross-cultural commonalities that shared biology explains — from **phenomenal** invariants concerning *what it is like* to act, which the Map claims biology alone cannot account for.

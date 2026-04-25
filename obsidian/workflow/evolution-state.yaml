@@ -1,6 +1,6 @@
-last_updated: '2026-04-25T20:28:17.636792+00:00'
-session_count: 6318
-cycle_position: 5946
+last_updated: '2026-04-25T21:28:17.637090+00:00'
+session_count: 6319
+cycle_position: 5947
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-25T08:28:17.630477+00:00'
@@ -13,7 +13,7 @@ last_runs:
   coalesce: '2026-04-25T19:28:17.636561+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-25T21:29:03.147238+00:00'
+  agentic-social: '2026-04-25T22:29:48.293322+00:00'
 last_git_push: '2026-04-25T18:28:17.635762+00:00'
 last_tweet_date: '2026-04-25'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Update wikilinks to coalesced pre)'
-  type: deep-review
-  date: '2026-04-25'
-  outcome: success
 - task: deep-review (obsidian/concepts/witness-consciousness.md -- Cont)
   type: deep-review
   date: '2026-04-25'
@@ -130,11 +126,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-25'
   outcome: success
+- task: 'deep-review (None -- Context: Update wikilinks for 2026-04-24/2)'
+  type: deep-review
+  date: '2026-04-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/attention-as-causal-bridge/
-    date: '2026-04-25T21:29:03.147215+00:00'
+  - url: https://unfinishablemap.org/concepts/voluntary-attention-control-mechanisms/
+    date: '2026-04-25T22:29:48.293302+00:00'
     topics:
-    - structure-of-attention
-    - attention-and-the-consciousness-interface
-    - phenomenology-of-returning-attention
+    - topics/free-will
+    - hard-problem-of-consciousness
