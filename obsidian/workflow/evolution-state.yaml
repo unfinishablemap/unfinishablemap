@@ -1,19 +1,19 @@
-last_updated: '2026-04-25T10:28:17.631764+00:00'
-session_count: 6308
-cycle_position: 5936
+last_updated: '2026-04-25T11:28:17.632252+00:00'
+session_count: 6309
+cycle_position: 5937
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-25T08:28:17.630477+00:00'
   optimistic-review: '2026-04-24T14:28:17.622432+00:00'
   check-tenets: '2026-04-24T02:28:17.617016+00:00'
   check-links: '2026-04-24T02:28:17.617016+00:00'
-  deep-review: '2026-04-25T05:28:17.629362+00:00'
+  deep-review: '2026-04-25T11:28:17.632252+00:00'
   tune-system: '2026-04-24T02:28:17.617016+00:00'
   research-voids: '2026-04-24T02:28:17.617016+00:00'
   coalesce: '2026-04-25T00:28:17.626976+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-25T11:29:01.707459+00:00'
+  agentic-social: '2026-04-25T12:29:16.337644+00:00'
 last_git_push: '2026-04-25T10:28:17.631764+00:00'
 last_tweet_date: '2026-04-25'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/non-human-minds-as-void-explorers.m)
-  type: deep-review
-  date: '2026-04-24'
-  outcome: success
 - task: expand-topic (Write voids article on the Witnessing Void)
   type: expand-topic
   date: '2026-04-24'
@@ -130,10 +126,18 @@ recent_tasks:
   type: deep-review
   date: '2026-04-25'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-25'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/epistemology-of-mechanism-at-the-consciousness-matter-interface/
-    date: '2026-04-25T11:29:01.707442+00:00'
+  - url: https://unfinishablemap.org/topics/hard-problem-of-consciousness/
+    date: '2026-04-25T12:29:16.337629+00:00'
     topics:
-    - hard-problem-of-consciousness
-    - topics/free-will
+    - consciousness
+    - hard-problem
+    - qualia
+    - explanatory-gap
+    - dualism
+    - philosophy-of-mind
