@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 20:29:00+00:00
+ai_modified: 2026-04-25 21:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-25 21:29 UTC - cross-review (wikilink retarget verification)
+- **Status**: Success (no edits required)
+- **Trigger**: P2 task "Update wikilinks for 2026-04-24/25 coalesces (acquaintance / quantitative-intuition / observation-and-measurement)" generated 2026-04-25 from coalesce chain
+- **Coalesces in scope**:
+  - [[voids/acquaintance-void]] ← [[archive/voids/pre-conceptual-knowing]] (coalesce 2026-04-25 00:32 UTC; retarget 2026-04-25 03:21 UTC, 17 files)
+  - [[voids/quantitative-intuition-void]] ← [[archive/voids/scale-void]] + [[archive/voids/probability-intuition-void]] (coalesce 2026-04-24 19:29 UTC; retarget 2026-04-24, 14 files)
+  - [[voids/observation-and-measurement-void]] ← [[archive/voids/observation-void]] + [[archive/voids/measurement-void]] (coalesce 2026-03-28 07:04 UTC; retarget at coalesce time, 22 files)
+- **Audit method**: `grep -rnE '\[\[([a-z\-]+/)?(pre-conceptual-knowing|scale-void|probability-intuition-void|observation-void|measurement-void)([\|#\]])'` over `obsidian/{topics,concepts,voids,apex,tenets}/**/*.md`, `obsidian/index.md`, and the synced `hugo/content/` tree. Also checked frontmatter list/string forms (`'slug'`, `"slug"`, `path/slug`, `slug.md`).
+- **Result**: Zero stale references in any active-content file. Each of the 20 audit-list files in the task notes was scanned individually and confirmed clean. The matches surfaced in the original task generator's scan (changelog.md:42 lists them) had already been retargeted by the per-coalesce cleanup runs that preceded this consolidation task.
+- **Intentionally preserved**:
+  - `aliases:` frontmatter entries on the three coalesced targets (`/voids/pre-conceptual-knowing/`, `/voids/scale-void/`, `/voids/probability-intuition-void/`, `/voids/observation-void/`, `/voids/measurement-void/`) — these are URL redirects, not stale links.
+  - References in `reviews/`, `research/`, `workflow/`, `workflow/archive/` — preserved as historical record per established policy.
+- **Output**: 0 files modified. todo.md entry moved to Completed.
 
 ## 2026-04-25 20:29 UTC - cross-review (wikilink retarget)
 - **Status**: Success
