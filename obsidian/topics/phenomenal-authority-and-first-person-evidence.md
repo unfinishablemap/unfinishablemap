@@ -2,9 +2,9 @@
 title: "Phenomenal Authority and First-Person Evidence"
 description: "First-person reports carry layered epistemic authority — apodictic at the core, fallible at the periphery. This structure grounds the Map's case for dualism."
 created: 2026-02-09
-modified: 2026-04-01
+modified: 2026-04-25
 human_modified:
-ai_modified: 2026-04-21T06:38:00+00:00
+ai_modified: 2026-04-25T19:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -69,6 +69,7 @@ coalesced_from:
   - "/topics/phenomenal-authority-and-introspective-evidence/"
   - "/topics/epistemology-of-first-person-evidence/"
   - "/topics/phenomenological-method-and-evidence-standards-2/"
+  - "/topics/phenomenological-method-and-evidence-standards-2026-04-18/"
 ---
 
 When you report that you are in pain, that report carries a distinctive epistemic weight that no third-party observation can match. The Unfinishable Map holds that this *phenomenal authority* — the special epistemic standing of first-person reports about conscious experience — is a load-bearing pillar of the case for dualism. Michael Huemer's phenomenal conservatism provides the epistemological grounding: if it seems to you that something is the case, you have at least prima facie justification for believing it, unless you have specific reasons to doubt. Husserl's evidence taxonomy provides the structural framework: different layers of phenomenal evidence carry different degrees of warrant, and the Map's core arguments draw from where authority is strongest.
@@ -137,6 +138,8 @@ The main physicalist response is the [[phenomenal-concepts-as-materialist-respon
 
 No standard model fully captures introspective epistemology. The Map's position is that introspection constitutes a **sui generis** epistemic capacity — irreducible to perception, inference, or transparent self-monitoring. Its distinctive features: direct phenomenal presentation (no independent representational medium), fallible judgement about incorrigible presentation, domain-variable reliability (strongest for attended content, absent for causal processes), and trainability confirmed by neurophenomenological convergence.
 
+Berghofer (2019, 2023) reconstructs Husserl as a precursor to contemporary evidentialism: ultimate evidence consists of *originary presentive intuitions*, which include perceptual, introspective, eidetic, and evaluative experiences. The framework places phenomenological evidence on the same epistemic footing as perceptual evidence — both are originary presentive, neither requires further inferential support to be justifying. If perceptual evidence is admissible despite the contributions of cognitive processing, introspective evidence cannot be dismissed merely on the grounds that cognitive processing contributes to it. This is the contemporary epistemological complement to the acquaintance model: where acquaintance describes the relation, mentalist evidentialism specifies its justificatory role.
+
 ## The Reliability Challenge and Calibration
 
 Schwitzgebel's empirical case documents genuine problems: contradictory reports about basic phenomenal features (Schwitzgebel 2008, 2011), overconfidence exposed by choice blindness experiments (Johansson et al. 2005), systematic biases from retrospective reconstruction, and the historical collapse of Wundt and Titchener's introspectionist programme. The historical failure is instructive rather than decisive — those observers were asked to decompose experience into sensory atoms, and phenomenological methods that dropped this demand produced more consistent results.
@@ -147,7 +150,7 @@ Strict calibration against an independent standard is impossible — the [[obser
 
 **The process/content distinction.** Nisbett and Wilson's (1977) founding critique concerns *causal processes*, not *phenomenal content*. People cannot report why they chose one item, but reports about current phenomenal content occupy different epistemic terrain — we are *acquainted* with qualitative character while lacking knowledge of generating processes.
 
-**Convergence across independent traditions.** Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, and secular mindfulness practitioners converge on structural findings: the constructed character of the narrative self, the distinction between awareness and its contents, and the discrete temporal grain of experience (see [[epistemology-of-convergence-arguments]] and [[contemplative-practice-as-philosophical-evidence]]).
+**Convergence across independent traditions.** Buddhist vipassanā, Hindu dhyāna, Christian contemplative prayer, and secular mindfulness practitioners converge on structural findings: the constructed character of the narrative self, the distinction between awareness and its contents, and the discrete temporal grain of experience (see [[epistemology-of-convergence-arguments]] and [[contemplative-practice-as-philosophical-evidence]]). The stronger "perennialist" reading (Stace 1960; Forman 1990) — that contemplatives across traditions report the same underlying state — has been challenged by Katz (1978) and Sharf (1995), who argue that apparently-convergent reports are heavily shaped by tradition-specific theory and training. The defensible claim is restricted to the structural features that survive translation across frameworks; the stronger claim that all traditions report the same thing fails under contextualist critique. Foundational-level divergences remain real (Madhyamaka denies inherent structures; Vedānta posits eternal *sat-cit-ānanda*; theistic traditions report union with a personal God), and the convergence argument's evidential weight depends on the narrower formulation.
 
 **Cross-modal verification.** Experienced meditators' reports correspond to specific neural signatures (Brewer et al. 2011). If training merely produced more elaborate confabulations, reports should diverge from neural data; instead, convergence increases with training.
 
@@ -229,10 +232,13 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 
 1. Baird, B., Mrazek, M. D., Phillips, D. T., & Schooler, J. W. (2014). Domain-specific enhancement of metacognitive ability following meditation training. *Journal of Experimental Psychology: General*, 143(5), 1972-1979.
 1. Bar-On, D. (2009). First-Person Authority: Dualism, Constitutivism, and Neo-Expressivism. *Erkenntnis*, 71, 7-31.
+1. Berghofer, P. (2019). On the nature and systematic role of evidence: Husserl as a proponent of mentalist evidentialism? *European Journal of Philosophy*, 27(1).
+1. Berghofer, P. (2023). Demystifying originary givenness. *Bulletin d'analyse phénoménologique*.
 1. Brewer, J. A., et al. (2011). Meditation experience is associated with differences in default mode network activity and connectivity. *PNAS*, 108(50), 20254-20259.
 1. Byrne, A. (2005). Introspection. *Philosophical Topics*, 33(1), 79-104.
 1. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
 1. Chalmers, D. J. (2003). The Content and Epistemology of Phenomenal Belief. In Q. Smith & A. Jokic (Eds.), *Consciousness: New Philosophical Perspectives*. Oxford University Press.
+1. Forman, R. K. C. (Ed.). (1990). *The Problem of Pure Consciousness: Mysticism and Philosophy*. Oxford University Press.
 1. Fox, K. C. R., Zakarauskas, P., Dixon, M., Ellamil, M., Thompson, E., & Christoff, K. (2012). Meditation experience predicts introspective accuracy. *PLOS One*, 7(9), e45370.
 1. Gertler, B. (2012). Renewed acquaintance. In D. Smithies & D. Stoljar (Eds.), *Introspection and Consciousness*. Oxford University Press.
 1. Hasan, A. (2013). Phenomenal conservatism, classical foundationalism, and internalist justification. *Philosophical Studies*, 162(2), 119-141.
@@ -241,6 +247,7 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 1. Husserl, E. (1931/1960). *Cartesian Meditations*. Trans. D. Cairns. Nijhoff.
 1. Jackson, F. (1982). Epiphenomenal Qualia. *Philosophical Quarterly*, 32, 127-136.
 1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
+1. Katz, S. T. (Ed.). (1978). *Mysticism and Philosophical Analysis*. Oxford University Press.
 1. Lutz, A., Lachaux, J.-P., Martinerie, J., & Varela, F. J. (2002). Guiding the study of brain dynamics by using first-person data: Synchrony patterns correlate with ongoing conscious states during a simple visual task. *PNAS*, 99(3), 1586-1591.
 1. Lutz, A., Greischar, L. L., Rawlings, N. B., Ricard, M., & Davidson, R. J. (2004). Long-term meditators self-induce high-amplitude gamma synchrony during mental practice. *PNAS*, 101(46), 16369-16373.
 1. Markie, P. (2005). The mystery of direct perceptual justification. *Philosophical Studies*, 126(3), 347-373.
@@ -251,5 +258,7 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 1. Rorty, R. (1970). Incorrigibility as the Mark of the Mental. *Journal of Philosophy*, 67(12), 399-424.
 1. Schwitzgebel, E. (2008). The unreliability of naive introspection. *Philosophical Review*, 117(2), 245-273.
 1. Schwitzgebel, E. (2011). *Perplexities of Consciousness*. MIT Press.
+1. Sharf, R. H. (1995). Buddhist modernism and the rhetoric of meditative experience. *Numen*, 42(3), 228-283.
 1. Siegel, S. (2012). Cognitive penetrability and perceptual justification. *Noûs*, 46(2), 201-222.
+1. Stace, W. T. (1960). *Mysticism and Philosophy*. Macmillan.
 1. Varela, F. J. (1996). Neurophenomenology: A Methodological Remedy for the Hard Problem. *Journal of Consciousness Studies*, 3(4), 330-349.

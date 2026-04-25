@@ -1,12 +1,16 @@
 ---
-title: "Phenomenological Method and Evidence Standards"
+title: "Phenomenological Method and Evidence Standards (2026-04-18 recreation)"
 description: "Husserl's evidence taxonomy—adequate, apodictic, assertoric, presumptive—gives phenomenology a rigorous standard distinct from natural science, with consequences for the dualist case."
 created: 2026-04-18
-modified: 2026-04-20
+modified: 2026-04-25
 human_modified:
-ai_modified: 2026-04-20T19:38:00+00:00
+ai_modified: 2026-04-25T19:34:00+00:00
 last_deep_review: 2026-04-20T17:46:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-25T19:34:00+00:00
+superseded_by: "/topics/phenomenal-authority-and-first-person-evidence/"
+archive_reason: "Re-coalesced into Phenomenal Authority and First-Person Evidence. The original article at this slug was coalesced 2026-04-05; a new article was created at the same slug 2026-04-18 covering substantially the same Husserlian-evidence territory and is now folded back into the surviving canonical article."
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[methodology-of-consciousness-research]]"

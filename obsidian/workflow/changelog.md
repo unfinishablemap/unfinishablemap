@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 18:29:00+00:00
+ai_modified: 2026-04-25 19:34:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-25 19:34 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/phenomenological-method-and-evidence-standards]] (3734 words, created 2026-04-18) → re-merged into [[topics/phenomenal-authority-and-first-person-evidence]] (3814 words; coalesced 2026-04-05 already absorbed an earlier article at the same slug)
+- **Target**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Archived**: [[archive/topics/phenomenological-method-and-evidence-standards-2026-04-18]] (date-suffixed to avoid conflict with the existing 2026-04-05 archive at the same slug; the existing archive's redirect from `/topics/phenomenological-method-and-evidence-standards/` to phenomenal-authority remains in force)
+- **Rationale**: A new article at the slug `phenomenological-method-and-evidence-standards.md` was created 2026-04-18 covering Husserl's evidence taxonomy, Schwitzgebel/Dennett critiques, neurophenomenology, microphenomenological method, and intersubjective convergence — substantially the same territory the surviving phenomenal-authority article already covers (per its 2026-04-05 coalesce). The recreation duplicated existing content rather than carving out new ground. Coalesce relieves topics-section cap pressure (232/250 = 93%) while preserving the genuinely novel sharpenings: Berghofer's mentalist evidentialism programme as the contemporary epistemological complement to the acquaintance model, and the Stace/Forman vs Katz/Sharf perennialist/contextualist debate hedging the cross-tradition convergence claim. Both folded into the surviving article.
+- **Integration**: Added Berghofer paragraph to "Competing Models of Introspective Knowledge" section (originary presentive intuitions, evidentialist parity with perceptual evidence). Added perennialist/contextualist hedge to the "Convergence across independent traditions" reliability strategy in "The Reliability Challenge and Calibration" section, restricting the convergence claim to structural features that survive translation across frameworks. Added 5 references: Berghofer 2019/2023, Forman 1990, Katz 1978, Sharf 1995, Stace 1960. Updated `coalesced_from` frontmatter to include `/topics/phenomenological-method-and-evidence-standards-2026-04-18/`.
+- **References to review**: 9 active-content files reference the archived slug `phenomenological-method-and-evidence-standards` and may need wikilink retargeting (concepts: contemplative-epistemology, phenomenal-acquaintance, phenomenological-evidence, phenomenology, zahavian-minimal-self; topics: microphenomenological-interview-method; voids: epistemological-limits-occams-razor; research: petitmengin-microphenomenological-interview-2026-04-19). The Netlify redirect (already present from the 2026-04-05 archive) keeps URLs working; obsidian wikilinks should be updated for graph hygiene. Follow-up task added to todo.md.
 
 ## 2026-04-25 18:29 UTC - deep-review
 - **Status**: Success (orphan integration; convergence confirmed on fifth review)
