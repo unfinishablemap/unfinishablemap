@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 03:29:00+00:00
+ai_modified: 2026-04-25 04:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-25 04:35 UTC - condense
+- **Status**: Success
+- **File**: [[voids/acquaintance-void]]
+- **Before**: 3018 words (hard_warning, 151% of target)
+- **After**: 2133 words (soft_warning, 107% of target)
+- **Reduction**: 29%
+- **Technique**: Tightened roadmap paragraph; cut redundant Russell/closing summary in Beyond Missing Qualia; merged paragraphs in Acquaintance Within a Life; removed Conee block quote and compressed ability hypothesis treatment in Knowledge Argument; tightened all three subsections of Where Concepts Stop Reaching; condensed Cross-Species/Closure; trimmed Russellian Asymmetry friend example; dropped one bullet from Phenomenology of the Edge (structural residue, redundant with Russellian Asymmetry); compressed Approaches to the Edge bullets; tightened AI section; collapsed What Would Challenge bullets to single paragraph; tightened Relation to Site Perspective sections; trimmed Further Reading from 13 → 9 entries. Preserved opening summary, all three tenet connections, and core arguments throughout.
 
 ## 2026-04-25 03:29 UTC - deep-review
 - **Status**: Success

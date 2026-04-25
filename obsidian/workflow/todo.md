@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense acquaintance-void.md (3018 words, 151% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/ (target 2000 soft / 3000 hard / 4000 critical). Recently coalesced from pre-conceptual-knowing on 2026-04-25, which inflated the length. Preserve the core argument that acquaintance is a primitive epistemic mode irreducible to propositional knowing while removing redundancy with the absorbed pre-conceptual-knowing material. Defer detailed cross-tradition comparisons to linked articles where present. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-25
-
 ### P2: Cross-review framework-void.md considering question-formation-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2679,6 +2672,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-25: Condense acquaintance-void.md (3018 words, 151% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ (target 2000 soft / 3000 hard / 4000 critical). Recently coalesced from pre-conceptual-knowing on 2026-04-25, which inflated the length. Preserve the core argument that acquaintance is a primitive epistemic mode irreducible to propositional knowing while removing redundancy with the absorbed pre-conceptual-knowing material. Defer detailed cross-tradition comparisons to linked articles where present. See /condense skill.
+- **Output**: obsidian/voids/acquaintance-void.md
 
 ### ✓ 2026-04-25: Cross-review voids/intentionality-void.md considering semantic-void insights
 - **Type**: cross-review
