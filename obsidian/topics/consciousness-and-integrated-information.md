@@ -88,7 +88,7 @@ Tononi accepts this. If you built a large expander graph, it would be conscious.
 
 The axioms claim to derive physical requirements from phenomenological facts. But nothing in "experience is unified" entails that *any* unified structure has experience. The move from "my experience is integrated" to "integration constitutes experience" is a leap. Perhaps my experience is integrated because consciousness integrates it—not because integration *is* consciousness.
 
-An alternative view: integrated information might be a *necessary condition* for consciousness (at least in physical systems) but not identical to it. This would explain why brains with high integration are conscious without committing us to conscious expander graphs. But this alternative requires something IIT explicitly rejects—consciousness as something over and above the physical structure.
+An alternative view: integrated information might be a *necessary condition* for consciousness (at least in physical systems) but not identical to it. This would explain why brains with high integration are conscious without committing us to conscious expander graphs. But this alternative requires something IIT explicitly rejects—consciousness as something over and above the physical structure. The [[universal-coupling-response|universal coupling response]] develops this further: integration may identify the *physical correlates* of where consciousness couples without thereby explaining the coupling itself.
 
 ## The Temporal Gap
 

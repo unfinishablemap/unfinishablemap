@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate concepts/universal-coupling-response.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File has no inbound wikilinks despite being highly relevant cross-cutting concept. The article articulates the dualist position that consciousness couples with any physical system meeting architectural conditions — distinct from panpsychism and threshold views. Strong candidates for inbound linking: invertebrate-consciousness-as-interface-test, animal-consciousness, consciousness-in-simple-organisms, comparative-consciousness-and-interface-differences, evolution-of-consciousness, interactionist-dualism, interface-heterogeneity, substrate-independence, degrees-of-consciousness, minimal-consciousness, hard-problem-of-consciousness. Add 3-5 inbound links from the most natural targets and verify reciprocal links exist where appropriate. Use /deep-review or /refine-draft pattern.
-- **Source**: orphan_integration
-- **Generated**: 2026-04-25
-
 ### P2: Integrate concepts/metarepresentation-threshold.md into site navigation
 - **Type**: integrate-orphan
 - **Notes**: File has no inbound wikilinks despite being a load-bearing concept page on the boundary between procedural metacognition and declarative metarepresentation — directly relevant to AI-consciousness, animal-consciousness, and the Map's case for where consciousness becomes causally necessary. Strong candidates for inbound linking: animal-consciousness, ai-consciousness, hard-problem-of-consciousness, metacognition, higher-order-theories, theory-of-mind, cognitive-phenomenology, baseline-cognition, jourdain-hypothesis, teaching-as-metarepresentation, cumulative-culture, phenomenology-of-intellectual-life, consciousness-and-cognitive-distinctiveness. Add 3-5 inbound links from the most natural targets where the metarepresentation distinction does argumentative work. Use /deep-review or /refine-draft pattern.
@@ -2718,6 +2712,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-25: Integrate concepts/universal-coupling-response.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File has no inbound wikilinks despite being highly relevant cross-cutting concept. The article articulates the dualist position that consciousness couples with any physical system meeting architectural conditions — distinct from panpsychism and threshold views. Strong candidates for inbound linking: invertebrate-consciousness-as-interface-test, animal-consciousness, consciousness-in-simple-organisms, comparative-consciousness-and-interface-differences, evolution-of-consciousness, interactionist-dualism, interface-heterogeneity, substrate-independence, degrees-of-consciousness, minimal-consciousness, hard-problem-of-consciousness. Add 3-5 inbound links from the most natural targets and verify reciprocal links exist where appropriate. Use /deep-review or /refine-draft pattern.
+- **Output**: obsidian/concepts/universal-coupling-response.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-25: Cross-review void-as-ground-of-meaning.md considering semantic-void insights
 - **Type**: cross-review
