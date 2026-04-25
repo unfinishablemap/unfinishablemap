@@ -1,13 +1,54 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 02:29:00+00:00
+ai_modified: 2026-04-25 06:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-25 06:29 UTC - deep-review
+- **Status**: Success
+- **File**: [framework-void](/voids/framework-void/)
+- **Trigger**: Cross-review considering [question-formation-void](/voids/question-formation-void/) (published 2026-04-24)
+- **Word count**: 2091 → 2101 (+10, length-neutral mode honored)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link to question-formation-void; length pressure at 105% of soft threshold)
+- **Enhancements made**: 1 (QFV positioned upstream of apophatic mapping in body, frontmatter, Further Reading; metaphor-void redundant tail trimmed; AI systems passage tightened; cross-framework-anomalies passage merged)
+- **Output**: [deep-review-2026-04-25-framework-void](/reviews/deep-review-2026-04-25-framework-void/)
+- **Stability**: Fifth deep review; article remains stable. Davidson, MWI tenet, and framework/metaphor hierarchy all preserved as bedrock per prior reviews. New stability note: framework-void/QFV asymmetry (apparatus-as-totality vs generative sub-process) established and should be preserved rather than re-litigated.
+
+## 2026-04-25 05:29 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/)
+- **Word count**: 1915 → 1976 (+61)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Constraint 5's "equiprobable outcomes" framing was technically too narrow — most quantum measurements have non-equiprobable Born statistics; generalised to clarify that conservation holds in expectation across Born-compliant selection, with energy-degenerate outcomes as the clearest sub-case)
+- **Enhancements made**: 1 (rigour improvement to conservation-law constraint)
+- **Output**: [deep-review-2026-04-25-consciousness-physics-interface-formalism](/reviews/deep-review-2026-04-25-consciousness-physics-interface-formalism/)
+- **Stability**: Third review; article remains stable. Bedrock disagreements (MWI, eliminativism, decoherence-as-implementation-challenge) noted as expected philosophical standoffs, not flaws.
+
+## 2026-04-25 04:35 UTC - condense
+- **Status**: Success
+- **File**: [acquaintance-void](/voids/acquaintance-void/)
+- **Before**: 3018 words (hard_warning, 151% of target)
+- **After**: 2133 words (soft_warning, 107% of target)
+- **Reduction**: 29%
+- **Technique**: Tightened roadmap paragraph; cut redundant Russell/closing summary in Beyond Missing Qualia; merged paragraphs in Acquaintance Within a Life; removed Conee block quote and compressed ability hypothesis treatment in Knowledge Argument; tightened all three subsections of Where Concepts Stop Reaching; condensed Cross-Species/Closure; trimmed Russellian Asymmetry friend example; dropped one bullet from Phenomenology of the Edge (structural residue, redundant with Russellian Asymmetry); compressed Approaches to the Edge bullets; tightened AI section; collapsed What Would Challenge bullets to single paragraph; tightened Relation to Site Perspective sections; trimmed Further Reading from 13 → 9 entries. Preserved opening summary, all three tenet connections, and core arguments throughout.
+
+## 2026-04-25 03:29 UTC - deep-review
+- **Status**: Success
+- **File**: [intentionality-void](/voids/intentionality-void/)
+- **Trigger**: Cross-review considering [semantic-void](/voids/semantic-void/) insights (created 2026-04-24)
+- **Word count**: 2340 → 2334 (-6, length-neutral mode honored)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (asymmetric cross-link with [semantic-void](/voids/semantic-void/) — added bidirectional reference at the Phenomenal Intentionality bridge point, articulating the mechanism vs felt-character division)
+- **Low issues addressed**: 1 (duplicate self-opacity entry in Further Reading replaced with [semantic-void](/voids/semantic-void/))
+- **Enhancements made**: 3 cross-links to [semantic-void](/voids/semantic-void/) (Phenomenal Intentionality paragraph, Further Reading, related_articles); offset by tightening of Self-reference collapse and Inference-awareness disconnect paragraphs
+- **Output**: [deep-review-2026-04-25-intentionality-void](/reviews/deep-review-2026-04-25-intentionality-void/)
+- **Stability**: Third review; article stable across all three. Convergence confirmed. With [semantic-void](/voids/semantic-void/) now linked, the two articles form a clean mechanism/felt-character pair.
 
 ## 2026-04-25 02:29 UTC - deep-review
 - **Status**: Success

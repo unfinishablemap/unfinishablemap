@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-25 03:29:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,12 +17,13 @@ description: How do thoughts achieve their aboutness? Human+AI exploration of wh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 14:19:00+00:00
+last_deep_review: 2026-04-25 03:29:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[self-opacity]]'
+- '[[semantic-void]]'
 - '[[imagination-and-creativity-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[three-kinds-of-void]]'
@@ -78,9 +79,9 @@ Approaching the intentionality void produces characteristic experiences.
 
 **The discovery moment.** Occasionally we discover that two thoughts were about the same thing all along—the Hesperus-moment. This produces a distinctive phenomenology of surprise. "Oh, they're the same!" The surprise reveals the void: if we had access to reference mechanisms, such discoveries would be impossible. We would already know.
 
-**Inference-awareness disconnect.** We can sometimes infer that our thoughts must work certain ways. We conclude that thoughts about one's childhood home must involve some causal-historical connection to that house, some chain linking present thought to past experience. But we cannot *observe* this connection. The inference and the phenomenology do not meet. This gap marks the void's edge.
+**Inference-awareness disconnect.** We can infer that thoughts about one's childhood home must involve a causal-historical chain linking present thought to past experience. But we cannot *observe* this connection. The inference and the phenomenology do not meet—a gap marking the void's edge.
 
-**Self-reference collapse.** When attempting to think about how *this very thought* achieves its reference, something peculiar happens. The thought seems to slip away, generating new layers that escape observation. This connects to the [unobservable self](/voids/self-opacity/): the thinker cannot observe itself thinking about thinking about reference without producing further thoughts equally opaque in their mechanism.
+**Self-reference collapse.** When attempting to think about how *this very thought* achieves its reference, the thought slips away, generating new layers that escape observation. This connects to the [unobservable self](/voids/self-opacity/): the thinker cannot observe itself thinking about reference without producing further thoughts equally opaque in mechanism.
 
 ## Original versus Derived Intentionality
 
@@ -88,7 +89,7 @@ John Searle distinguished *original* intentionality—the kind minds have natura
 
 Computational symbols have only derived intentionality. They process syntax without grasping semantics. The Chinese Room argument presses this point: a person manipulating Chinese symbols according to rules can produce appropriate outputs without understanding Chinese. The symbols lack original intentionality; they don't mean anything to the manipulator.
 
-Original intentionality remains unexplained. We cannot derive it from syntax, from causal relations, from biological function. [Phenomenal intentionality theory](/concepts/intentionality/#phenomenal-intentionality-theory) argues it derives from consciousness itself—but this deepens rather than resolves the void. If aboutness is grounded in phenomenal character, then the mechanism of reference is hidden for the same reason qualia resist reduction. We cannot explain original intentionality because we cannot access whatever makes it original.
+Original intentionality remains unexplained. We cannot derive it from syntax, from causal relations, from biological function. [Phenomenal intentionality theory](/concepts/intentionality/#phenomenal-intentionality-theory) argues it derives from consciousness itself—but this deepens rather than resolves the void. If aboutness is grounded in phenomenal character, the mechanism of reference is hidden for the same reason qualia resist reduction. The complementary [semantic-void](/voids/semantic-void/) takes up what meaning is like *once reference has arrived*—the felt character of comprehension—where this article concerns the hidden mechanism of arrival itself.
 
 ## The Symbol Grounding Problem
 
@@ -148,7 +149,7 @@ The intentionality void connects directly to the Map's [foundational commitments
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and structural limits on knowledge
 - [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) — How consciousness grounds aboutness
-- [introspective opacity](/voids/self-opacity/) — Why mental processes are structurally hidden
+- [semantic-void](/voids/semantic-void/) — The felt character of meaning, complementary to this article's focus on reference mechanism
 
 ## References
 
