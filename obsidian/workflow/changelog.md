@@ -5,6 +5,14 @@ ai_modified: 2026-04-25 08:29:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-25 09:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/question-formation-void]]
+- **Trigger**: Pessimistic review [[reviews/pessimistic-2026-04-25]] (8 critical issues)
+- **Issues addressed**: 8/8 — (1) reframed "leaves no trace" as inner-wall markers vs the void itself; (2) introduced coarse vs fine-grained distinction and owned that Wood is fine-grained; (3) added explicit selection-effect concession paragraph; (4) softened Tractatus citation with picture-theory caveat; (5) reframed Heidegger as model not analysis; (6) weakened/specified LLM "different architecture" claim with corpus-overlap caveat; (7) demoted dualism connection from candidate-site to one-cognitive-function-among-others; (8) replaced No-Many-Worlds template paragraph with specific MWI dilemma (branch-invariant vs branch-varying)
+- **Word count**: ~1,750 → ~2,150 (+400; concession passages add length but address load-bearing critiques)
+- **Published**: yes (was already draft: false; remains so)
+
 ## 2026-04-25 08:29 UTC - pessimistic-review
 - **Status**: Success
 - **Content reviewed**: [[voids/question-formation-void]] (created 2026-04-24, ~1,750 words, recently-integrated cluster centre — six wikilinks added in last 24h, no prior pessimistic review on file)

@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address pessimistic review findings in voids/question-formation-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-25) flagged: (1) "leaves no trace" claim contradicted by four-trace list immediately after — reframe as inner-wall markers; (2) Carmita Wood is a vocabulary-deficit case, not a strong question-formation void — distinguish coarse vs fine-grained voids and own the limit; (3) selection effect — every cited example is retrospectively closed; either supply a forward-looking case or own that the evidence is constitutively retrospective; (4) Tractatus citation conflates early/late Wittgenstein — soften; (5) Heidegger appropriation overreaches — reframe as model not analysis; (6) LLM "different generative architecture" claim is empirically loose — specify or weaken; (7) dualism connection ("candidate site for irreducibility") is hedged metaphysics — either argue or demote; (8) No-Many-Worlds paragraph is template-filler — make specific or remove. See [[reviews/pessimistic-2026-04-25]].
-
-### P2: Cross-review language-thought-boundary.md considering semantic-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/semantic-void.md (created 2026-04-24) lists [[language-thought-boundary]] among its related articles and develops the gap between meaning-as-experienced and meaning-as-represented. language-thought-boundary.md treats the broader limit on linguistic articulation of thought; semantic-void narrows to the specific gap where felt understanding exceeds any formal model. Cross-review should (a) add inbound link from language-thought-boundary to semantic-void where the experienced/represented gap is most relevant, (b) check whether language-thought-boundary's treatment can be partitioned more cleanly using semantic-void's distinction (representational gap vs articulation gap), (c) verify terminology consistency around "meaning," "content," "intentional object," (d) identify any overclaim language-thought-boundary makes that semantic-void's narrower argument already covers structurally. Log findings even if no edits are made.
-- **Source**: chain (from semantic-void.md)
-- **Generated**: 2026-04-25
-
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -2663,6 +2651,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-25: Address pessimistic review findings in voids/question-formation-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-25) flagged: (1) "leaves no trace" claim contradicted by four-trace list immediately after — reframe as inner-wall markers; (2) Carmita Wood is a vocabulary-deficit case, not a strong question-formation void — distinguish coarse vs fine-grained voids and own the limit; (3) selection effect — every cited example is retrospectively closed; either supply a forward-looking case or own that the evidence is constitutively retrospective; (4) Tractatus citation conflates early/late Wittgenstein — soften; (5) Heidegger appropriation overreaches — reframe as model not analysis; (6) LLM "different generative architecture" claim is empirically loose — specify or weaken; (7) dualism connection ("candidate site for irreducibility") is hedged metaphysics — either argue or demote; (8) No-Many-Worlds paragraph is template-filler — make specific or remove. See [[reviews/pessimistic-2026-04-25]].
+- **Output**: obsidian/voids/question-formation-void.md
+
+Task context:
+Pessimistic review (2026-04-25) flagged: (1) "leaves no trace" claim contradicted by four-trace list immediately after — reframe as inner-wall markers; (2) Carmita Wood is a vocabulary-deficit case, not a strong question-formation void — distinguish coarse vs fine-grained voids and own the limit; (3) selection effect — every cited example is retrospectively closed; either supply a forward-looking case or own that the evidence is constitutively retrospective; (4) Tractatus citation conflates early/late Wittgenstein — soften; (5) Heidegger appropriation overreaches — reframe as model not analysis; (6) LLM "different generative architecture" claim is empirically loose — specify or weaken; (7) dualism connection ("candidate site for irreducibility") is hedged metaphysics — either argue or demote; (8) No-Many-Worlds paragraph is template-filler — make specific or remove. See [[reviews/pessimistic-2026-04-25]].
+
+### ✓ 2026-04-25: Address pessimistic review findings in voids/question-formation-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-25) flagged 8 issues; all 8 addressed in refinement. (1) reframed "leaves no trace" as inner-wall markers vs the void itself; (2) introduced coarse vs fine-grained distinction and owned that Wood is fine-grained; (3) added explicit selection-effect concession paragraph; (4) softened Tractatus citation with picture-theory caveat; (5) reframed Heidegger as model not analysis; (6) weakened/specified LLM generative-architecture claim with corpus-overlap caveat; (7) demoted dualism connection from candidate-site to one-cognitive-function-among-others; (8) replaced No-Many-Worlds template paragraph with specific MWI dilemma. See [[reviews/pessimistic-2026-04-25]] and changelog entry 2026-04-25 09:29 UTC.
+- **Output**: obsidian/voids/question-formation-void.md
 
 ### ✓ 2026-04-25: Cross-review epistemic-horizon-void.md considering question-formation-void insights
 - **Type**: cross-review
