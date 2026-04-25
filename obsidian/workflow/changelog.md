@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 19:34:00+00:00
+ai_modified: 2026-04-25 20:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-25 20:29 UTC - cross-review (wikilink retarget)
+- **Status**: Success
+- **Trigger**: Follow-up to 2026-04-25 19:34 UTC coalesce (phenomenological-method-and-evidence-standards → phenomenal-authority-and-first-person-evidence, second occurrence)
+- **Files retargeted**: 8 active-content files
+  - [[concepts/contemplative-epistemology]] (frontmatter topics + Further Reading; deduped phenomenal-authority from related_articles)
+  - [[concepts/phenomenal-acquaintance]] (frontmatter related_articles deduped; inline anchor + Further Reading retargeted/merged)
+  - [[concepts/phenomenological-evidence]] (frontmatter related_articles deduped; inline `evidence taxonomy` anchor; Further Reading merged)
+  - [[concepts/phenomenology]] (frontmatter related_articles; inline reliability-section anchor; Further Reading)
+  - [[concepts/zahavian-minimal-self]] (inline parenthetical; Further Reading)
+  - [[topics/microphenomenological-interview-method]] (frontmatter related_articles deduped; inline anchor + parenthetical; Further Reading merged)
+  - [[voids/epistemological-limits-occams-razor]] (frontmatter related_articles; inline phenomenological-method link; Further Reading)
+  - [[research/petitmengin-microphenomenological-interview-2026-04-19]] (two inline references)
+- **Pattern**: Frontmatter slug swaps, inline section-anchor retargets to `#Husserl's Evidence Taxonomy` (which exists in the new article), and dedup where the new slug was already present alongside the old.
+- **Verification**: `grep phenomenological-method-and-evidence-standards` over `obsidian/{topics,concepts,voids,apex,tenets,research}/**/*.md` returns no matches.
+- **Output**: 8 files modified; todo.md entry marked complete.
 
 ## 2026-04-25 19:34 UTC - coalesce
 - **Status**: Success

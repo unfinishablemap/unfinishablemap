@@ -217,7 +217,7 @@ Based on this research, an article could:
    - Its operational role in the Dualism case: it is the closest thing to a replicable first-person technique, distinct from meditative training in requiring no prior practice
    - Documented applications (epilepsy, meditation, pain, insight)
    - Limits: retrospective, relational-experience under-resolution, interviewer training requirement
-   - Cross-links: [[phenomenological-method-and-evidence-standards]], [[phenomenological-evidence]], [[neurophenomenology-and-contemplative-neuroscience]], [[introspection]], [[contemplative-epistemology]]
+   - Cross-links: [[phenomenal-authority-and-first-person-evidence]], [[phenomenological-evidence]], [[neurophenomenology-and-contemplative-neuroscience]], [[introspection]], [[contemplative-epistemology]]
 
 2. **Topic article: second-person methods and the epistemology of first-person evidence**.
    - Broader than microphenomenology — situates it among DES (Hurlburt), descriptive experience sampling, explicitation interview
@@ -226,7 +226,7 @@ Based on this research, an article could:
    - Connects to [[phenomenal-authority-and-first-person-evidence]]
 
 3. **Extension of an existing article** rather than new content:
-   - [[phenomenological-method-and-evidence-standards]] already has a paragraph on microphenomenology — could expand to a half-section with procedural detail
+   - [[phenomenal-authority-and-first-person-evidence]] already has a paragraph on microphenomenology — could expand to a half-section with procedural detail
    - [[neurophenomenology-and-contemplative-neuroscience]] already flags microphenomenology — could expand on the analysis procedure and reliability evidence
 
 4. **Narrower angle**: "What has microphenomenology revealed that was otherwise invisible?"

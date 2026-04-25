@@ -4,14 +4,14 @@ description: "Systematic contemplative practice as a legitimate knowledge source
 created: 2026-02-10
 modified: 2026-02-26
 human_modified:
-ai_modified: 2026-04-19T04:38:00+00:00
+ai_modified: 2026-04-25T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[methodology-of-consciousness-research]]"
-  - "[[phenomenological-method-and-evidence-standards]]"
+  - "[[phenomenal-authority-and-first-person-evidence]]"
 concepts:
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[introspection]]"
@@ -25,7 +25,6 @@ related_articles:
   - "[[tenets]]"
   - "[[contemplative-neuroscience-meditation-2026-01-23]]"
   - "[[the-self-minimal-narrative-and-substantial]]"
-  - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[introspection-reliability-first-person-2026-01-15]]"
 ai_contribution: 100
 author:
@@ -153,7 +152,7 @@ Contemplative epistemology is the *epistemological framework*. It should be dist
 - [[contemplative-practice-as-philosophical-evidence]] — Applying contemplative knowledge to test philosophical positions
 - [[methodology-of-consciousness-research]] — The methodological gap between subjective and objective approaches
 - [[phenomenology]] — The philosophical tradition grounding contemplative methods
-- [[phenomenological-method-and-evidence-standards]] — Husserl's evidence taxonomy (adequate, apodictic, assertoric, presumptive) and how it calibrates first-person claims
+- [[phenomenal-authority-and-first-person-evidence#Husserl's Evidence Taxonomy|Husserl's evidence taxonomy]] — adequate, apodictic, assertoric, presumptive — and how it calibrates first-person claims
 - [[phenomenological-evidence]] — When first-person reports constitute evidence
 - [[buddhism-and-dualism]] — How Buddhist no-self findings relate to dualist frameworks
 - [[the-self-minimal-narrative-and-substantial]] — The three-layered self framework distinguishing what contemplatives dissolve from what persists

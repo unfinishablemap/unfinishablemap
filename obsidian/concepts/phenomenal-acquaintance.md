@@ -4,7 +4,7 @@ description: "Phenomenal acquaintance—the direct, non-inferential relation bet
 created: 2026-02-09
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-25T01:29:00+00:00
+ai_modified: 2026-04-25T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,6 @@ related_articles:
   - "[[intentionality]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
   - "[[acquaintance-void]]"
-  - "[[phenomenological-method-and-evidence-standards]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[intrinsic-nature-void]]"
 ai_contribution: 100
@@ -137,7 +136,7 @@ The resolution lies in distinguishing the relation from judgements based on it. 
 
 This is not to claim that acquaintance is infallible in any metaphysically loaded sense. The point is structural: the immediacy of phenomenal acquaintance means that certain kinds of error—those involving misrepresentation across a causal chain—do not arise. Other kinds of error—misclassification, inattention, imprecise description—remain possible because they involve operations that go beyond the acquaintance relation itself.
 
-In Husserl's mature evidence taxonomy, this structural difference has a precise vocabulary. Phenomenal acquaintance supplies *apodictic* evidence for the existence of experience—the impossibility of being mistaken *that* one is experiencing—while supplying only *assertoric* and *presumptive* evidence for the detailed content of that experience. Certainty at the level of presence, fallibility at the level of content: the Husserlian taxonomy makes explicit what the acquaintance/judgement distinction articulates informally. See [[phenomenological-method-and-evidence-standards]] for the full framework and its epistemological consequences.
+In Husserl's mature evidence taxonomy, this structural difference has a precise vocabulary. Phenomenal acquaintance supplies *apodictic* evidence for the existence of experience—the impossibility of being mistaken *that* one is experiencing—while supplying only *assertoric* and *presumptive* evidence for the detailed content of that experience. Certainty at the level of presence, fallibility at the level of content: the Husserlian taxonomy makes explicit what the acquaintance/judgement distinction articulates informally. See [[phenomenal-authority-and-first-person-evidence#Husserl's Evidence Taxonomy|the Husserlian evidence taxonomy]] for the full framework and its epistemological consequences.
 
 ## Higher-Order and Representationalist Challenges
 
@@ -160,8 +159,7 @@ A stronger concern emerges from the distinction between phenomenal acquaintance 
 ## Further Reading
 
 - [[knowledge-argument]] — Mary's Room and the case that acquaintance reveals facts beyond physical knowledge
-- [[phenomenal-authority-and-first-person-evidence]] — How acquaintance grounds introspective justification
-- [[phenomenological-method-and-evidence-standards]] — Husserl's apodictic/adequate/assertoric/presumptive taxonomy
+- [[phenomenal-authority-and-first-person-evidence]] — How acquaintance grounds introspective justification, including Husserl's apodictic/adequate/assertoric/presumptive taxonomy
 - [[consciousness-only-territories]] — Epistemic territories accessible only through phenomenal acquaintance
 - [[phenomenal-concepts-strategy]] — The physicalist response that locates the gap in concepts rather than acquaintance
 - [[intentionality#Phenomenal Intentionality Theory|phenomenal intentionality]] — The thesis that genuine aboutness derives from phenomenal consciousness via acquaintance

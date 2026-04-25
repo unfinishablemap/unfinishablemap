@@ -4,7 +4,7 @@ description: "Dan Zahavi defends a pre-reflective minimal self as the constituti
 created: 2026-04-18
 modified: 2026-04-18
 human_modified:
-ai_modified: 2026-04-19T12:38:00+00:00
+ai_modified: 2026-04-25T20:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -91,7 +91,7 @@ Three of the Map's core commitments require the Zahavian minimal self specifical
 
 ## Choice Under Metaphysical Commitment
 
-Honesty requires acknowledging the structure of the choice just made. The Zahavi/Metzinger question cannot be decided by ego-dissolution reports alone. Husserl's evidence taxonomy (developed in [[phenomenological-method-and-evidence-standards]]) clarifies what the honest structure looks like: apodictic weight attaches to the *existence* of for-me-ness — this is the bedrock the Zahavian position shares with the phenomenological method — while the choice of interpretive framework for that for-me-ness sits at assertoric and presumptive weight, and is conditional on the Map's tenets being independently sound. Metzinger's reading — that those reports are post-hoc reconstructions produced by a reconstituted self-model after the state has ended — is internally consistent and not refutable by introspective data, since by hypothesis no introspective access to a putative zero-person phase is possible. The convergence of meditator and psychedelic reports is suggestive but not probative; expectation, language, and prior self-modelling shape what gets reported.
+Honesty requires acknowledging the structure of the choice just made. The Zahavi/Metzinger question cannot be decided by ego-dissolution reports alone. Husserl's evidence taxonomy (developed in [[phenomenal-authority-and-first-person-evidence#Husserl's Evidence Taxonomy|phenomenal-authority-and-first-person-evidence]]) clarifies what the honest structure looks like: apodictic weight attaches to the *existence* of for-me-ness — this is the bedrock the Zahavian position shares with the phenomenological method — while the choice of interpretive framework for that for-me-ness sits at assertoric and presumptive weight, and is conditional on the Map's tenets being independently sound. Metzinger's reading — that those reports are post-hoc reconstructions produced by a reconstituted self-model after the state has ended — is internally consistent and not refutable by introspective data, since by hypothesis no introspective access to a putative zero-person phase is possible. The convergence of meditator and psychedelic reports is suggestive but not probative; expectation, language, and prior self-modelling shape what gets reported.
 
 The Map's preference for Zahavi over Metzinger is therefore conditional rather than evidence-forced. It is conditional on three further commitments the Map already holds: (i) the indexical structure invoked by the [[tenets#^no-many-worlds|No Many Worlds]] tenet, which presupposes that there is *someone* whose experience is *this* one; (ii) the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, which requires a subject who does the influencing; and (iii) the [[tenets#^dualism|dualist]] commitment that consciousness is not exhausted by its representational structure. If these prior commitments are sound, the Zahavian framework coheres with them and the Metzingerian framework does not. If they are not sound, the parsimony advantage runs to Metzinger.
 
@@ -142,7 +142,7 @@ The Map does not treat Zahavi as the last word, only as the best current framing
 - [[self-opacity]] — Why the minimal self cannot observe itself and what this implies
 - [[buddhism-and-dualism]] — Buddhist critique of even the minimal self
 - [[phenomenology]] — The broader phenomenological tradition Zahavi inherits
-- [[phenomenological-method-and-evidence-standards]] — The Husserlian evidence taxonomy that licenses the "choice under metaphysical commitment" structure used here
+- [[phenomenal-authority-and-first-person-evidence]] — The Husserlian evidence taxonomy that licenses the "choice under metaphysical commitment" structure used here
 - [[haecceity]] — The diachronic thisness the Map adds to Zahavi's synchronic account
 
 ## References

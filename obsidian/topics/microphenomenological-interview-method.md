@@ -4,7 +4,7 @@ description: "Claire Petitmengin's disciplined second-person interview procedure
 created: 2026-04-19
 modified: 2026-04-19
 human_modified:
-ai_modified: 2026-04-19T21:38:00+00:00
+ai_modified: 2026-04-25T20:29:00+00:00
 draft: false
 topics: []
 concepts:
@@ -13,7 +13,6 @@ concepts:
   - "[[neurophenomenology-and-contemplative-neuroscience]]"
   - "[[heterophenomenology]]"
 related_articles:
-  - "[[phenomenological-method-and-evidence-standards]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
 ai_contribution: 100
@@ -26,7 +25,7 @@ last_deep_review: 2026-04-19T21:38:00+00:00
 
 The microphenomenological interview, developed by Claire Petitmengin from Pierre Vermersch's *entretien d'explicitation*, is a structured second-person procedure that guides a subject through a brief phenomenological reduction, evokes a singular past experiential moment in embodied memory, and elicits fine-grained description of its pre-reflective structure through non-leading prompts. The method's distinctive claim is that trained interviewing can raise to articulated report experiential content that casual introspection systematically overlooks. It is the closest thing consciousness science currently has to a replicable, protocolised first-person technique — which is why it deserves careful treatment on a map that takes phenomenological evidence seriously.
 
-This article describes the procedure, positions its outputs on the [[phenomenological-method-and-evidence-standards#Husserl's Evidence Taxonomy|Husserlian evidence taxonomy]] (explained in that article — briefly, Husserl distinguishes *apodictic* from *assertoric* evidence along one axis and *adequate* from *inadequate* along another), surveys the epilepsy-prodrome work that remains its strongest empirical demonstration, and catalogues documented limits. A closing section treats the Map's specific interest: why a method that strengthens reports about pre-reflective experience matters for the [[tenets#^dualism|Dualism tenet]] without proving it.
+This article describes the procedure, positions its outputs on the [[phenomenal-authority-and-first-person-evidence#Husserl's Evidence Taxonomy|Husserlian evidence taxonomy]] (explained in that article — briefly, Husserl distinguishes *apodictic* from *assertoric* evidence along one axis and *adequate* from *inadequate* along another), surveys the epilepsy-prodrome work that remains its strongest empirical demonstration, and catalogues documented limits. A closing section treats the Map's specific interest: why a method that strengthens reports about pre-reflective experience matters for the [[tenets#^dualism|Dualism tenet]] without proving it.
 
 ## The Interview Procedure
 
@@ -46,7 +45,7 @@ Diachronic analysis treats experience as unfolding; synchronic analysis takes a 
 
 ## Husserlian Evidence Profile
 
-Petitmengin's own writing frames microphenomenology as operationalising Husserlian phenomenological method (see Bitbol and Petitmengin 2017 in the [[phenomenological-method-and-evidence-standards]] topic). The method makes the reduction a replicable act rather than a philosopher's solitary exercise. But what kind of evidence does a microphenomenological description deliver?
+Petitmengin's own writing frames microphenomenology as operationalising Husserlian phenomenological method (see Bitbol and Petitmengin 2017 in the [[phenomenal-authority-and-first-person-evidence|phenomenal-authority]] topic). The method makes the reduction a replicable act rather than a philosopher's solitary exercise. But what kind of evidence does a microphenomenological description deliver?
 
 Mapping onto Husserl's four-mode taxonomy:
 
@@ -103,8 +102,7 @@ One further integration: the method is a live candidate for operationalising wha
 
 ## Further Reading
 
-- [[phenomenological-method-and-evidence-standards]] — the broader epistemological frame
-- [[phenomenal-authority-and-first-person-evidence]] — the claim the method operationalises
+- [[phenomenal-authority-and-first-person-evidence]] — the broader epistemological frame and the claim the method operationalises
 - [[neurophenomenology-and-contemplative-neuroscience]] — the programme microphenomenology serves
 - [[phenomenological-evidence]] — concept page for the evidence type
 - [[introspection]] — the baseline the method aims to improve on
