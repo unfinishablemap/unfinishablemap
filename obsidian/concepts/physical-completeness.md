@@ -4,7 +4,7 @@ description: "Physics is structurally complete—it captures every relation and 
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-03-25T16:30:00+00:00
+ai_modified: 2026-04-25T11:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-03-20T00:17:00+00:00
+last_deep_review: 2026-04-25T11:29:00+00:00
 ---
 
 Physics is structurally complete. It captures every regularity, every symmetry, every dynamical relation between measurable quantities. Nothing structural is missing. Yet physics is ontologically partial — it does not describe what *instantiates* those structures, what makes one quantum outcome actual rather than another, or why there is something it is like to be a physical system. The Unfinishable Map calls this the **structural-ontological gap**: the space between a complete catalogue of relations and a complete account of reality. This gap is not a deficiency in physics. It is a feature of what physical theory *is* — and it is precisely where consciousness operates.
