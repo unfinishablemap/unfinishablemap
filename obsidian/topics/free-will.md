@@ -2,10 +2,10 @@
 title: "Free Will and Determinism"
 description: "Can we genuinely author our choices? The Map defends agent-causal libertarian free will grounded in phenomenology—the felt difference between choosing and merely observing."
 created: 2026-01-08
-modified: 2026-04-20
+modified: 2026-04-25
 human_modified: null
-ai_modified: 2026-04-20T05:45:00+00:00
-last_deep_review: 2026-03-21T02:05:00+00:00
+ai_modified: 2026-04-25T17:29:00+00:00
+last_deep_review: 2026-04-25T17:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -125,7 +125,7 @@ Free will requires [[mental-causation-and-downward-causation|mental causation]]:
 
 Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible. See [[nihilism-and-existentialism]] for the full analysis.
 
-The [[mental-effort|phenomenology of effort]] supports this picture—the felt cost of concentration reflects genuine causal engagement. [[consciousness-and-cognitive-distinctiveness|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [[imagination-and-creativity-void|creativity void]] reveals we cannot observe ourselves creating.
+The [[mental-effort|phenomenology of effort]] supports this picture—the felt cost of concentration reflects genuine causal engagement. [[consciousness-and-cognitive-distinctiveness|Creativity]] strengthens the case: consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Yet the generation process itself is opaque—the [[creative-aesthetic-void|creativity void]] reveals we cannot observe ourselves creating.
 
 [[dream-consciousness|Dream problem-solving]] provides independent evidence: dream incorporation more than doubled solving rates for unsolved puzzles, suggesting consciousness generates novel approaches in a phenomenally different mode. If consciousness were epiphenomenal, the phenomenal character of dreaming should be irrelevant to problem-solving success.
 
@@ -192,7 +192,6 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[quantum-indeterminacy-free-will]] — How quantum mechanics supports libertarian free will
 - [[mental-causation-and-downward-causation|mental causation]] — How the framework addresses Kim's exclusion argument
 - [[phenomenology-of-choice-and-volition]] — The four components of willing: initiation, sustained control, effort, and veto
-- [[phenomenology-of-choice-and-volition]] — The experiential structure of deciding
 - [[counterfactual-reasoning]] — Consciousness-dependent capacity to imagine alternatives
 - [[counterfactual-void]] — Architectural limits of modal cognition
 - [[libet-experiments]] — Detailed analysis including retrocausal resolution
