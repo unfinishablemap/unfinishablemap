@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26T14:08:00+00:00
+ai_modified: 2026-04-26T18:22:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep review newly-coalesced voids/meaning-void.md to verify coalesce integrity
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-26 (commit bbc014974) merged voids/intentionality-void + voids/semantic-void into voids/meaning-void.md. Newly coalesced article has not been deep-reviewed since the merge. Verify (a) the coalesce preserved key arguments from both source articles (the intentionality/aboutness gap from intentionality-void; the semantic gap between meaning-as-experienced and meaning-as-represented from semantic-void), (b) the unified article eliminates redundancy without losing distinctions that were load-bearing in the originals (notably the partition between aboutness-gap and semantic-gap that semantic-void argued was load-bearing for Dualism's case), (c) cross-references to `intentionality-void` and `semantic-void` elsewhere in the vault now resolve correctly to meaning-void or its archive redirect, (d) the related_articles frontmatter integrates both source articles' connections (the article currently lists imagination-and-creativity-void, intrinsic-nature-void, language-thought-boundary among others — verify nothing was dropped), (e) terminology is consistent across the merged sections (meaning-as-experienced vs meaning-as-represented from semantic-void; aboutness language from intentionality-void). Article is currently at 3111 words (156% of voids hard threshold of 2000) — flag for subsequent condense if redundancy persists after deep-review. See `/deep-review` skill.
+- **Source**: chain (from coalesce 2026-04-26)
+- **Generated**: 2026-04-26
+
+### P2: Cross-review voids/plenitude-void.md considering inference-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `voids/inference-void.md` (created 2026-04-26) is the fifth member of the second-order voids cluster — `epistemic-horizon-void`, `question-formation-void`, `categorial-void`, `plenitude-void`, `inference-void` — and lists `[[plenitude-void]]` in its related_articles. The inference-void's *recursively load-bearing* claim (any inspection of an inference must itself proceed by inference) bears directly on plenitude-void's situation: the comparison-categories the plenitude-void article uses to discuss possible alternative phenomenologies are themselves opaque to the inferential operations that compare them. Cross-review should (a) add a forward link from plenitude-void.md to inference-void.md where the apparatus-of-comparison material is developed, (b) check whether plenitude-void's evidential-vs-definitional unfalsifiability distinction (introduced 2026-04-23 night) extends naturally to the inferential opacity of the comparison itself, (c) verify terminology consistency (apparatus-of-self-reflective-cognition framing should hold across both), (d) consider whether plenitude-void's existing engagement with inferential operations should now cite inference-void as the prior structural void on which its argument depends. Log findings even if no edits made. See `voids/inference-void.md`.
+- **Source**: chain (from expand-topic voids/inference-void)
+- **Generated**: 2026-04-26
+
+### P2: Cross-review topics/arguments-against-materialism.md considering eliminative-materialism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `topics/eliminative-materialism.md` (created 2026-04-26) lists `[[arguments-against-materialism]]` as a parent topic in frontmatter and develops the self-stultification argument, the connectionist concession, the meta-problem inheritance, and the locating-the-move-precisely framing (eliminativism over-applies Tenet 5). The arguments-against-materialism page is the natural index for these moves but does not yet cite the new article. Cross-review should (a) add forward links from arguments-against-materialism.md to eliminative-materialism.md where the self-defeat / self-stultification family of arguments is named, (b) check whether the arguments-against-materialism article's catalogue of materialist positions can now distinguish *reductive materialism* from *eliminative materialism* with the cleaner partition the new article supplies (and whether *illusionism* belongs as a third strand), (c) verify the article's treatment of the connectionist challenge to folk psychology can adopt eliminative-materialism's hedging discipline (concede the strongest opposing reply before asserting), (d) verify terminology alignment (self-stultification vs self-defeat vs self-refutation), (e) ensure the article does not double-up on coverage that eliminative-materialism now handles more thoroughly — point to the dedicated article rather than repeating. Log findings even if no edits made. See `topics/eliminative-materialism.md`.
+- **Source**: chain (from expand-topic topics/eliminative-materialism)
+- **Generated**: 2026-04-26
+
+### P3: Condense voids/meaning-void.md (3111 words, 156% of voids hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Newly-coalesced article exceeds 2000-word voids hard threshold. Coalesce on 2026-04-26 merged intentionality-void + semantic-void into meaning-void at 3111 words; the merge preserved both source articles' distinct contributions but did not aggressively condense. Run after the queued deep-review of meaning-void completes (the deep-review may already remove redundancy, in which case this task may become unnecessary or smaller in scope). Preserve the load-bearing partition between aboutness-gap and semantic-gap (the distinction was the central reason for keeping two articles before coalescence) while removing redundant exposition between the merged sections. Defer detailed sub-arguments to linked articles where possible. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-26
 
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
