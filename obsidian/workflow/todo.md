@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/arguments-against-materialism.md considering eliminative-materialism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `topics/eliminative-materialism.md` (created 2026-04-26) lists `[[arguments-against-materialism]]` as a parent topic in frontmatter and develops the self-stultification argument, the connectionist concession, the meta-problem inheritance, and the locating-the-move-precisely framing (eliminativism over-applies Tenet 5). The arguments-against-materialism page is the natural index for these moves but does not yet cite the new article. Cross-review should (a) add forward links from arguments-against-materialism.md to eliminative-materialism.md where the self-defeat / self-stultification family of arguments is named, (b) check whether the arguments-against-materialism article's catalogue of materialist positions can now distinguish *reductive materialism* from *eliminative materialism* with the cleaner partition the new article supplies (and whether *illusionism* belongs as a third strand), (c) verify the article's treatment of the connectionist challenge to folk psychology can adopt eliminative-materialism's hedging discipline (concede the strongest opposing reply before asserting), (d) verify terminology alignment (self-stultification vs self-defeat vs self-refutation), (e) ensure the article does not double-up on coverage that eliminative-materialism now handles more thoroughly — point to the dedicated article rather than repeating. Log findings even if no edits made. See `topics/eliminative-materialism.md`.
-- **Source**: chain (from expand-topic topics/eliminative-materialism)
-- **Generated**: 2026-04-26
-
 ### P3: Condense voids/meaning-void.md (3111 words, 156% of voids hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2756,6 +2749,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review topics/arguments-against-materialism.md considering eliminative-materialism insights
+- **Type**: cross-review
+- **Notes**: New article `topics/eliminative-materialism.md` (created 2026-04-26) lists `[[arguments-against-materialism]]` as a parent topic in frontmatter and develops the self-stultification argument, the connectionist concession, the meta-problem inheritance, and the locating-the-move-precisely framing (eliminativism over-applies Tenet 5). The arguments-against-materialism page is the natural index for these moves but does not yet cite the new article. Cross-review should (a) add forward links from arguments-against-materialism.md to eliminative-materialism.md where the self-defeat / self-stultification family of arguments is named, (b) check whether the arguments-against-materialism article's catalogue of materialist positions can now distinguish *reductive materialism* from *eliminative materialism* with the cleaner partition the new article supplies (and whether *illusionism* belongs as a third strand), (c) verify the article's treatment of the connectionist challenge to folk psychology can adopt eliminative-materialism's hedging discipline (concede the strongest opposing reply before asserting), (d) verify terminology alignment (self-stultification vs self-defeat vs self-refutation), (e) ensure the article does not double-up on coverage that eliminative-materialism now handles more thoroughly — point to the dedicated article rather than repeating. Log findings even if no edits made. See `topics/eliminative-materialism.md`.
+- **Output**: obsidian/topics/arguments-against-materialism.md -- Context: Cross-review topics/arguments-against-materialism.md considering eliminative-materialism insights
 
 ### ✓ 2026-04-26: Cross-review voids/plenitude-void.md considering inference-void insights
 - **Type**: cross-review

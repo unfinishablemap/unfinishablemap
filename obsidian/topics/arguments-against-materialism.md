@@ -4,8 +4,8 @@ description: "Multiple independent philosophical arguments converge on the same 
 created: 2026-02-27
 modified: 2026-02-27
 human_modified:
-ai_modified: 2026-04-05T14:26:00+00:00
-last_deep_review: 2026-03-23T07:38:00+00:00
+ai_modified: 2026-04-26T18:53:46+00:00
+last_deep_review: 2026-04-26T18:53:46+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[parsimony-epistemology]]"
   - "[[concepts/epiphenomenalism]]"
+  - "[[eliminative-materialism]]"
   - "[[arguments/materialism-argument]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[testing-consciousness-collapse]]"
@@ -85,7 +86,7 @@ Academic philosophy rewards research programs that produce results. Materialism 
 
 ### The Parsimony Illusion
 
-[[concepts/materialism|Materialism]] seems simpler: one kind of stuff instead of two. But as [[parsimony-epistemology]] shows, parsimony arbitrates between theories of equal explanatory power. A "simpler" theory that fails to explain the data has not earned the parsimony discount. Materialism does not explain phenomenal consciousness—it either denies it (eliminativism), redefines it functionally while setting aside qualitative character, appeals to the [[phenomenal-concepts-strategy]] to [[phenomenal-concepts-as-materialist-response|explain away the gap]] as a feature of our *concepts* rather than of reality, or defers it (future science). None of these is an explanation.
+[[concepts/materialism|Materialism]] seems simpler: one kind of stuff instead of two. But as [[parsimony-epistemology]] shows, parsimony arbitrates between theories of equal explanatory power. A "simpler" theory that fails to explain the data has not earned the parsimony discount. Materialism does not explain phenomenal consciousness—it either denies it ([[eliminative-materialism|eliminativism]]), redefines it functionally while setting aside qualitative character, appeals to the [[phenomenal-concepts-strategy]] to [[phenomenal-concepts-as-materialist-response|explain away the gap]] as a feature of our *concepts* rather than of reality, or defers it (future science). None of these is an explanation.
 
 The Map's [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet addresses this directly: simplicity is an unreliable guide when knowledge is incomplete. The apparent simplicity of materialism may reflect what we are *ignoring* rather than what we have *explained*. Strikingly, [[parsimony-epistemology|materialists' own leading defenders]] have acknowledged this weakness — Smart never successfully defended his parsimony argument, Lycan calls parsimony "a very posterior reason," and Churchland qualifies it as "not conclusive." See [[epistemological-limits-occams-razor]] for the full case. For the positive argument that parsimony actually *favours* interactionist dualism, see [[parsimony-case-for-interactionist-dualism]].
 
@@ -103,7 +104,7 @@ The most common defence of materialism may be the least philosophical: the convi
 
 ## What the Arguments Actually Show
 
-The arguments against materialism are sometimes characterised as proving dualism. They do not. What they show is that physicalism—in all its forms from reductive identity theory to eliminativism to illusionism—cannot account for consciousness.
+The arguments against materialism are sometimes characterised as proving dualism. They do not. What they show is that physicalism—in all its forms from reductive identity theory to [[eliminative-materialism|eliminativism]] to [[illusionism]]—cannot account for consciousness. [[eliminative-materialism|Eliminativism]] is the limit case: it shows what physicalism commits to if pursued consistently, since denying that there is anything for physicalism to explain is the cleanest exit from the explanatory gap. The cumulative case forces a choice between this elimination and the recognition that the failure to reduce is itself evidence for irreducibility.
 
 This leaves the question open. If consciousness is not reducible to the physical, what is it? Several options exist: substance dualism, property dualism, [[concepts/panpsychism|panpsychism]], [[idealism]], neutral monism. For a systematic comparison of these [[analytic-idealism-and-mind-centric-metaphysics|mind-centric frameworks]], see the comparative survey. The Map's [[tenets]] make a specific commitment: [[interactionist-dualism]], where consciousness is irreducible and causally efficacious, interacting with the physical world at quantum indeterminacies.
 
@@ -134,6 +135,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [[leibnizs-mill-argument]] — The 1714 origin of the anti-materialist tradition
 - [[dualism]] — Detailed treatment of each argument with the convergence case
 - [[concepts/materialism]] — Varieties of materialism and why each fails
+- [[eliminative-materialism]] — The limit-case physicalist response: dissolve the explanandum (classical and illusionist strands)
 - [[explanatory-gap]] — The gap between physical and phenomenal properties
 - [[knowledge-argument]] — Mary's Room and the incompleteness of physical knowledge
 - [[philosophical-zombies]] — The conceivability argument against physicalism

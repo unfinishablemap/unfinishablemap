@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 18:38:00+00:00
+ai_modified: 2026-04-26 18:53:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 18:53 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/arguments-against-materialism]]
+- **Word count**: 2624 → 2692 (+68, comfortably under soft threshold of 3000)
+- **Critical issues addressed**: 0 (article remains stable across 5 reviews)
+- **Medium issues addressed**: 2 (missing cross-links to newly published [[eliminative-materialism]]; cumulative case did not explicitly frame eliminativism as the limit-case dialectical move)
+- **Enhancements made**: Linked eliminativism in Parsimony Illusion section, in What the Arguments Actually Show section, and in Further Reading; added eliminative-materialism to related_articles; added one framing sentence making the limit-case dialectic explicit (failure to eliminate is itself evidence for irreducibility); also linked illusionism inline where it had been bare text
+- **Stability note**: Fifth review. Article continues to stabilise — interventions limited to integrating new sibling content. Argument from reason in self-undermining section correctly distinguished from naive self-refutation (which the eliminative-materialism article concedes begs the question). Future reviews should preserve this distinction.
+- **Output**: [[reviews/deep-review-2026-04-26-arguments-against-materialism]]
 
 ## 2026-04-26 18:38 UTC - deep-review
 - **Status**: Success
