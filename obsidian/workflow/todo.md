@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/argument-from-reason.md considering eliminative-materialism's self-stultification framing
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/eliminative-materialism.md (created 2026-04-26) develops the self-stultification argument with explicit hedging — the inference is that eliminativism's *strongest* form is self-defeating, with the connectionist concession that eliminativists may have replies. The argument-from-reason article makes a structurally adjacent move (Lewis-Plantinga: naturalism's truth would undermine the rational reliability needed to assert it). Cross-review should (a) add a forward link from argument-from-reason.md to eliminative-materialism.md where the self-defeat structure is named, (b) check whether argument-from-reason can adopt eliminative-materialism's hedging discipline (concede the strongest opposing reply before asserting the position), (c) verify the argument-from-reason article distinguishes its target (epistemic naturalism) from eliminative-materialism's target (folk psychology / qualia-realism) — they are cousins not identicals, (d) check terminology consistency around "self-stultification" vs "self-defeat" vs "self-refutation". See topics/eliminative-materialism.md and the existing concepts/self-stultification.md.
-- **Source**: chain (from eliminative-materialism.md)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review concepts/mysterianism.md considering inference-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2756,6 +2749,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review topics/argument-from-reason.md considering eliminative-materialism's self-stultification framing
+- **Type**: cross-review
+- **Notes**: New article topics/eliminative-materialism.md (created 2026-04-26) develops the self-stultification argument with explicit hedging — the inference is that eliminativism's *strongest* form is self-defeating, with the connectionist concession that eliminativists may have replies. The argument-from-reason article makes a structurally adjacent move (Lewis-Plantinga: naturalism's truth would undermine the rational reliability needed to assert it). Cross-review should (a) add a forward link from argument-from-reason.md to eliminative-materialism.md where the self-defeat structure is named, (b) check whether argument-from-reason can adopt eliminative-materialism's hedging discipline (concede the strongest opposing reply before asserting the position), (c) verify the argument-from-reason article distinguishes its target (epistemic naturalism) from eliminative-materialism's target (folk psychology / qualia-realism) — they are cousins not identicals, (d) check terminology consistency around "self-stultification" vs "self-defeat" vs "self-refutation". See topics/eliminative-materialism.md and the existing concepts/self-stultification.md.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review topics/argument-from-reason.md considering eliminative-materialism's self-stultification framing
 
 ### ✓ 2026-04-26: Cross-review concepts/illusionism.md considering eliminative-materialism insights
 - **Type**: cross-review
