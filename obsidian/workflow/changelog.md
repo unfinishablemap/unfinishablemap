@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 20:54:00+00:00
+ai_modified: 2026-04-26 21:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 21:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Carroll's Regress
+- **Output**: [[concepts/carrolls-regress]]
+- **Word count**: 1534
+- **Based on research**: yes (drew on `research/voids-inference-void-2026-04-26.md` and the Carroll's-regress sections of `voids/inference-void.md`)
+- **Notes**: New concept page extracts the load-bearing 1895 Carroll regress from `voids/inference-void.md` and `topics/argument-from-reason` into a citable standalone concept. Article (a) states the regress precisely with Carroll's *A/B/Z/C/D* dialogue structure intact, (b) presents both readings — proof-theoretic deflation (rule/axiom split dissolves the puzzle) and inferentialist reading (the *taking-as* converts premises into conclusion and is not itself a rule), explicitly flagging the inferentialist reading as contested rather than uncontested, (c) traces lines of influence — Wittgenstein's rule-following paradox as parallel anti-foundationalist pressure with materially different metaphysical commitments, Polanyi's tacit inference as the positive characterisation, Brandom's inferentialism as the major competing framework that relocates rather than dissolves the question, (d) connects to Gödel-Turing-Chaitin family-resemblance with hedge that the resemblance is loose (formal theorems vs dialectical regress), (e) honest tenet-alignment: Occam's Razor Has Limits (load-bearing on inferentialist reading) and Dualism (taking-as as candidate primitive, flagged as speculation). One self-citation to inference-void. No apex articles reference the new page; no follow-up apex-evolve task needed.
 
 ## 2026-04-26 20:54 UTC - expand-topic
 - **Status**: Success

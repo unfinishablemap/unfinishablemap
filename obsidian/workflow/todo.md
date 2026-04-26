@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for Carroll's 1895 Regress
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-26 (New Concept Pages Needed). Lewis Carroll's 1895 *Mind* paper "What the Tortoise Said to Achilles" is currently the load-bearing case in `voids/inference-void.md` and is referenced in `topics/formal-cognitive-limits.md` as a philosophical predecessor of the Gödel-Turing-Chaitin lineage. A short concepts/ entry would let philosophy-of-mind, formal-cognitive-limits, rule-following, and inference-void articles cite the regress without re-establishing it. Concept page would (a) state Carroll's regress precisely (the asymmetric treatment of premises and rules: any rule cited becomes another premise that requires another rule), (b) present the two principal readings — the proof-theoretic deflation (rules-vs-premises distinction handles the regress) and the inferentialist reading (the *taking-as* that converts premises into conclusion is not itself a rule), (c) trace the philosophical influence via Wittgenstein's rule-following paradox and Polanyi's tacit-inference work as convergent traditions with materially different metaphysical commitments, (d) examine its relation to Brandom's normative pragmatics and to formal-cognitive-limits' family-resemblance link, (e) honest limitation: the inferentialist reading is contested; the article should acknowledge the standard logician's reading and defend the inferentialist reading without claiming it as uncontested. Short scope (1200-1600 words). Target: `concepts/` (~226/250, has 24 slots). Tenet alignment: Occam's Razor Has Limits (the simplest "inference is rule-following" account is provably insufficient on the inferentialist reading), Dualism (the *taking-as* may be a non-formal operation of the conscious mind). See optimistic-2026-04-26.md "New Concept Pages Needed" and `voids/inference-void.md` Carroll's-regress sections.
-- **Source**: gap_analysis (concept load-bearing in voids/inference-void.md and topics/formal-cognitive-limits.md but lacks dedicated treatment)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review concepts/parsimony-epistemology.md considering eliminative-materialism's diagnosis
 - **Type**: cross-review
 - **Status**: pending
@@ -2770,6 +2763,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Create concept page for Carroll's 1895 Regress
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-26 (New Concept Pages Needed). Lewis Carroll's 1895 *Mind* paper "What the Tortoise Said to Achilles" is currently the load-bearing case in `voids/inference-void.md` and is referenced in `topics/formal-cognitive-limits.md` as a philosophical predecessor of the Gödel-Turing-Chaitin lineage. A short concepts/ entry would let philosophy-of-mind, formal-cognitive-limits, rule-following, and inference-void articles cite the regress without re-establishing it. Concept page would (a) state Carroll's regress precisely (the asymmetric treatment of premises and rules: any rule cited becomes another premise that requires another rule), (b) present the two principal readings — the proof-theoretic deflation (rules-vs-premises distinction handles the regress) and the inferentialist reading (the *taking-as* that converts premises into conclusion is not itself a rule), (c) trace the philosophical influence via Wittgenstein's rule-following paradox and Polanyi's tacit-inference work as convergent traditions with materially different metaphysical commitments, (d) examine its relation to Brandom's normative pragmatics and to formal-cognitive-limits' family-resemblance link, (e) honest limitation: the inferentialist reading is contested; the article should acknowledge the standard logician's reading and defend the inferentialist reading without claiming it as uncontested. Short scope (1200-1600 words). Target: `concepts/` (~226/250, has 24 slots). Tenet alignment: Occam's Razor Has Limits (the simplest "inference is rule-following" account is provably insufficient on the inferentialist reading), Dualism (the *taking-as* may be a non-formal operation of the conscious mind). See optimistic-2026-04-26.md "New Concept Pages Needed" and `voids/inference-void.md` Carroll's-regress sections.
+- **Output**: Create concept page for Carroll's 1895 Regress
 
 ### ✓ 2026-04-26: Create concept page for Constitutive Observation vs Referring Observation
 - **Type**: expand-topic
