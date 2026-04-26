@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/inference-void.md (3837 words, 192% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/ section (target ~2000 words, current 3837). Created 2026-04-26 with extensive Brandom engagement, mechanistic-vs-first-person opacity distinction, falsifiability paragraph, and Substrate Neutrality section. Preserve the core load-bearing claims (premises-and-conclusions visible / move opaque; mechanistic-vs-first-person distinction; recursive load-bearing through other voids) while compressing background-philosophy material that can be deferred to existing concepts pages (mysterianism, apophatic-cartography, formal-cognitive-limits). Defer detailed Brandom treatment to the planned `concepts/normative-pragmatics-and-inferentialism` article (already in queue from optimistic-2026-04-26). Target ~2200-2500 words.
-- **Source**: length_analysis
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review concepts/illusionism.md considering eliminative-materialism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2770,6 +2763,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Condense voids/inference-void.md (3837 words, 192% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ section (target ~2000 words, current 3837). Created 2026-04-26 with extensive Brandom engagement, mechanistic-vs-first-person opacity distinction, falsifiability paragraph, and Substrate Neutrality section. Preserve the core load-bearing claims (premises-and-conclusions visible / move opaque; mechanistic-vs-first-person distinction; recursive load-bearing through other voids) while compressing background-philosophy material that can be deferred to existing concepts pages (mysterianism, apophatic-cartography, formal-cognitive-limits). Defer detailed Brandom treatment to the planned `concepts/normative-pragmatics-and-inferentialism` article (already in queue from optimistic-2026-04-26). Target ~2200-2500 words.
+- **Output**: obsidian/voids/inference-void.md
 
 ### ✓ 2026-04-26: Cross-review voids/noetic-feelings-void.md considering inference-void insights
 - **Type**: cross-review

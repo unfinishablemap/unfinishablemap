@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 16:41:00+00:00
+ai_modified: 2026-04-26 16:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 16:52 UTC - condense
+- **Status**: Success
+- **File**: [[voids/inference-void]]
+- **Before**: 3837 words
+- **After**: 2749 words
+- **Reduction**: 28%
+- **Status change**: hard_warning → soft_warning (below 3000 hard threshold)
+- **Technique**: Removed AI refinement log HTML comment (~280 words); tightened verbose prose throughout — combined Carroll dialogue setup and condensed proof-theoretic reading; merged Wittgenstein PI-quotes paragraph; collapsed Polanyi from three paragraphs to two; tightened Brandom three-points list; cut redundant chess-and-mathematician parallel example in Phenomenology; trimmed Substrate Neutrality opacity-distinction paragraphs; condensed Inheritance Problem falsifiability paragraph; compressed Site Perspective Occam paragraph
+- **Preserved**: Front-loaded opening summary, two-readings structure for Carroll, three-lines reframing of Carroll/Wittgenstein/Polanyi, Brandom engagement, first-person vs mechanistic opacity distinction, falsifiability gesture, all tenet connections (Occam, conditional Dualism, speculative Bidirectional), Second-Order Cluster list, all cross-links to other voids
 
 ## 2026-04-26 16:41 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
