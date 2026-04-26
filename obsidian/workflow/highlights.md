@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-25T08:28:37.732192'
+ai_modified: '2026-04-26T13:21:58.398098'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-25'
+modified: '2026-04-26'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-26: Why 'Saudade' Can't Be Translated
+
+Words like saudade, mono no aware, and Weltanschauung resist translation not because we lack vocabulary but because meaning has a phenomenal dimension—evidence that consciousness exceeds computation.
+
+**Type**: insight  
+**Link**: [[consciousness-and-the-phenomenology-of-translation]]
+
+---
+
 ### 2026-04-25: The Void That Shadows Every Other Void
 
 Deep review of the epistemic horizon void: we cannot estimate the scope of our own ignorance from within the limited system measuring it. Fitch, Rescher, Dunning-Kruger and Nagel converge on the same horizon — and the Map inherits it.
@@ -191,15 +200,6 @@ Your experience of uniform pink is smooth and gapless. The neurons producing it 
 
 **Type**: insight  
 **Link**: [[grain-mismatch]]
-
----
-
-### 2026-04-06: What If Reality Were a Simulation? A Diagnostic Tool
-
-The simulation hypothesis can't be tested—but it reveals that objections to consciousness influencing physics rest on contingent assumptions, not necessary truths. A thought experiment with real philosophical bite.
-
-**Type**: insight  
-**Link**: [[simulation]]
 
 ---
 
