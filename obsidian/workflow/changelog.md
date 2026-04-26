@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 02:50:00+00:00
+ai_modified: 2026-04-26 02:48:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 02:48 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/phenomenology-of-consciousness-doing-work]]
+- **Changed sources**: 2 (concepts/mental-imagery, concepts/attention-as-interface)
+- **Word count**: 3549 → 3809
+- **Review**: [[reviews/apex-evolve-2026-04-26-phenomenology-of-consciousness-doing-work]]
 
 ## 2026-04-26 02:50 UTC - research-voids
 - **Status**: Success
