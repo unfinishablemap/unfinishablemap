@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 14:22:00+00:00
+ai_modified: 2026-04-26 14:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 14:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/eliminative-materialism]]
+- **Word count**: 2945 → 2976 (+31, length-neutral)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 4 — "not merely X. It proposes Y" cliché (line 67) rephrased; redundant restatement of Frankish quote (line 85) tightened; missing [[heterophenomenology]] cross-link added; missing Buddhist-anatta parallel addressed via [[buddhism-and-dualism]] cross-link
+- **Enhancements made**: 2 cross-links added to Further Reading; two prose tightenings
+- **Attribution check**: All quotes verified against research notes (Frankish, Searle, Ramsey/Stich/Garon, Dennett, Churchland, Boghossian) — no misattributions, no dropped qualifiers, no source/Map conflation
+- **Stability**: Article has converged. Future reviews should not re-flag bedrock disagreements (failure-to-reduce inference, phenomenal-evidence-as-constitutive, falsifiability tension) as critical
+- **Output**: [[reviews/deep-review-2026-04-26-eliminative-materialism]]
 
 ## 2026-04-26 14:22 UTC - expand-topic
 - **Status**: Success

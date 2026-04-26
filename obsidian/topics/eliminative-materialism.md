@@ -4,7 +4,7 @@ description: "Eliminative materialism holds beliefs and qualia are theoretical f
 created: 2026-04-26
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-26T14:22:00+00:00
+ai_modified: 2026-04-26T14:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-26
 last_curated:
-last_deep_review:
+last_deep_review: 2026-04-26T14:37:00+00:00
 ---
 
 Eliminative materialism is the radical thesis that the categories of common-sense psychology—beliefs, desires, qualia, the self—do not pick out anything real, and that a mature science of mind will displace them rather than reduce them. Where reductive physicalism says *mental states are brain states*, eliminativism says *there are no mental states; there are only brain states, and our talk about minds is a deeply false theory*. The position has two distinct strands: classical eliminativism about propositional attitudes (Paul Churchland, Patricia Churchland, Stephen Stich) and contemporary [[illusionism|illusionism]] about phenomenal consciousness (Keith Frankish, Daniel Dennett). The Unfinishable Map rejects eliminativism as a theory of consciousness while conceding that some objections—particularly the connectionist challenge to the propositional-attitude framework—carry genuine theoretical weight that any responsible defence must engage rather than dismiss.
@@ -64,7 +64,7 @@ Paul Churchland's 1981 case rests on four moves.
 
 Patricia Churchland's *Neurophilosophy* (1986) develops the constructive side: a programme of neurophilosophy in which philosophy is answerable to neuroscience. The book argues that "neuroscience portends a bleak future for commonsense mental states" and presses for vector-coding replacements of linguistic-format representation.
 
-The classical eliminativist position is therefore not merely sceptical. It proposes a positive successor science. Mental states do not vanish from explanation; they are *replaced* by descriptions in the language of neural population coding, dynamical-systems trajectories, and connectionist representation.
+Classical eliminativism therefore proposes a positive successor science alongside its destructive critique. Mental states do not vanish from explanation; they are *replaced* by descriptions in the language of neural population coding, dynamical-systems trajectories, and connectionist representation.
 
 ## Illusionism: Eliminativism About Phenomenal Consciousness {#illusionism}
 
@@ -82,7 +82,7 @@ The illusionist's positive claim is that mental states possess only *quasi-pheno
 
 Dennett's 2016 endorsement frames illusionism as "the obvious default theory" once one accepts that classic qualia are conceptually incoherent. His 1978 morphine argument is illustrative: subjects on morphine report excruciating pain that does not bother them. The folk concept of pain treats unpleasantness as essential to pain; the morphine case suggests pain and unpleasantness are dissociable. If the folk concept fragments under empirical pressure, the qualia it picks out may have been confused all along.
 
-Frankish himself acknowledges that illusionism is "entity eliminativism about phenomenal consciousness even if the label 'eliminativism' is avoided"—the position is structurally eliminativist whether or not its proponents wear that label.
+Frankish himself acknowledges that illusionism is "entity eliminativism about phenomenal consciousness even if the label 'eliminativism' is avoided." The structural commitment stands regardless of the label.
 
 ## The Connectionist Challenge
 
@@ -147,6 +147,8 @@ Eliminativism continues to attract serious philosophers despite the objections. 
 - [[phenomenal-authority-and-first-person-evidence]] — why introspection cannot be theory-laden in the way eliminativism requires
 - [[metaproblem-of-consciousness-under-dualism]] — the Map's response to the illusion-problem framing
 - [[the-epiphenomenalist-threat]] — adjacent challenge that, like eliminativism, denies real mental causation
+- [[heterophenomenology]] — Dennett's third-person method for studying consciousness, on which the illusionist case for introspective error rests
+- [[buddhism-and-dualism]] — Buddhist anatta and no-self arguments as parallel to (and instructive contrast with) classical eliminativism about the self
 - [[methodology-of-consciousness-research]] — broader methodological context
 
 ## References
