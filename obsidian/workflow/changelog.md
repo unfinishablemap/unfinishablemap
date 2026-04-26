@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 20:08:00+00:00
+ai_modified: 2026-04-26 20:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 20:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Source review**: [[reviews/optimistic-2026-04-26]] (Medium Priority — "Phenomenal Authority and First-Person Evidence: Sharpen via Eliminative-Materialism")
+- **Changes**: Added new "Constitutive vs Referring Observation" section (~660 words) between Three Layers of Phenomenal Authority and Phenomenal Conservatism. The section articulates the structural distinction (referring observations track observation-independent targets; constitutive observations constitute their own object) and explains why Layer 1 has apodictic status no other empirical observation has — the phenomenal observer cannot be wrong in the same way about the existence of phenomenality because the observation is constitutive of what is observed. Existing intuition-pump material (Mary, zombies) reframed as illustrations of the constitutive structure from the content side, without rewrite of the Acquaintance and Methodological Implications sections. Forward links to [[eliminative-materialism]] added in the new section's main statement, honest-limitation paragraph, related_articles frontmatter, and Further Reading. Reciprocal link from eliminative-materialism's side already in place. Honest limitation explicitly acknowledges the constitutive-observation framing is foundational and contested — illusionists deny the constitutive relation; the framing identifies the location of bedrock disagreement rather than resolving it from outside. Article remains length-balanced: existing arguments preserved, no rewrite-by-replacement.
+- **Published**: yes (article remains draft: false)
 
 ## 2026-04-26 20:08 UTC - refine-draft
 - **Status**: Success

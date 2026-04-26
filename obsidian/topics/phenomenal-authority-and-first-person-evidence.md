@@ -2,9 +2,9 @@
 title: "Phenomenal Authority and First-Person Evidence"
 description: "First-person reports carry layered epistemic authority — apodictic at the core, fallible at the periphery. This structure grounds the Map's case for dualism."
 created: 2026-02-09
-modified: 2026-04-25
+modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-25T19:34:00+00:00
+ai_modified: 2026-04-26T20:30:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -54,6 +54,7 @@ related_articles:
   - "[[epistemology-of-mechanism-at-the-consciousness-matter-interface]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[clinical-evidence-quality-standards-consciousness-research]]"
+  - "[[eliminative-materialism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -109,6 +110,20 @@ Phenomenal authority decomposes into layers, each mapping onto Husserl's taxonom
 **Layer 3: Structural and peripheral features.** The spatial extent of peripheral vision, the constancy of emotional phenomenology, the temporal grain of experience (assertoric/presumptive evidence). Authority is weakest here. Schwitzgebel's strongest evidence targets this layer: people give contradictory reports about whether peripheral vision is detailed or whether emotional experience has stable phenomenal signatures.
 
 The decomposition matters because the Map's core arguments draw on different layers. The [[hard-problem-of-consciousness|hard problem]] rests primarily on layers 1 and 2. The [[knowledge-argument]] depends on acquaintance with phenomenal character under attention (layer 2). Challenges from introspective scepticism are strongest at layer 3, where the Map's core arguments have the least stake.
+
+## Constitutive vs Referring Observation
+
+The layered structure raises a sharper question: *why* is layer 1 apodictic in a way no other empirical observation is? The answer turns on a structural distinction between two kinds of observation that the rest of this article's case rests on.
+
+A **referring observation** is one whose content purports to track something existing independently of the observation. Naked-eye astronomy is the paradigm. Ancient observers reported features of celestial bodies that had observation-independent properties; observation and referent were separable, the relation between them contingent, the report consequently corrigible. Empirical science across most domains works this way. Theory-ladenness in the referring case is a real epistemic risk because the observer can be wrong about what is there.
+
+A **constitutive observation** is one whose object is constituted by the observing itself. The phenomenal observer's relation to phenomenality has this form. The seeming-that-there-is-something-it-is-like-to-be-in-pain is not a report about a state existing independently of its being seemed; the seeming and the being-of-the-phenomenal-state are not separable items that could come apart. The observation does not refer to a target whose existence is given outside the observation; it constitutes the very fact whose existence is at issue. *To be acquainted with phenomenality is, in part, to be undergoing it.*
+
+The distinction matters because the deepest eliminativist and illusionist arguments invoke "introspection is theory-laden" implicitly modelled on the referring case (see [[eliminative-materialism]]). The argument runs: just as naked-eye astronomers were wrong about celestial bodies because their reports were saturated with folk theory about the heavens, so introspectors are wrong about phenomenal qualities because their reports are saturated with folk theory about minds. The analogy fails at its load-bearing point. Naked-eye astronomers could be wrong about celestial bodies because the bodies existed independently of observation. The phenomenal observer cannot be wrong in the same way about *the existence of phenomenality itself*, because the observation is constitutive of what is observed. Theory-ladenness of introspective *judgement* — about which qualities are present, how they relate, what their structural features are — is real and operative at layers 2 and 3. Theory-ladenness sufficient to overturn layer-1 existence-claims would require that phenomenality be the kind of thing existing independently of being observed, which is the very point at issue.
+
+This framing supplements rather than replaces the article's other moves. It is the structural backbone the remaining sections lean on. The intuition-pump arguments — [[knowledge-argument|Mary]] gaining something on first seeing red, the conceivability of [[philosophical-zombies|zombies]] — illustrate the same constitutive structure from the side of *content*: what Mary acquires and what zombies lack is a property whose existence-conditions are constitutive observation rather than third-person reference. The acquaintance model below describes the cognitive relation; phenomenal conservatism describes the epistemological standing; the constitutive-observation distinction describes the metaphysics of the observation-target relation that makes those other claims defensible without circularity.
+
+**Honest limitation.** The constitutive-observation framing is itself foundational and contested. The illusionist's response is to deny precisely this — to maintain that the seeming-of-phenomenality is itself a higher-order representational state with its own functional properties, and that the seeming and the property it represents *can* come apart in the same way any representation and its target can. On this view there is no constitutive relation; there is a representation that misrepresents itself as constitutively related to a phenomenal property that does not exist. The Map cannot dislodge this view by argument from premises the illusionist already accepts. Defence of constitutive observation rests on the broader fit of the dualist framework with layer-1 reports' apodictic standing, the failure of physicalist accounts to close the explanatory gap on their own terms, and the Moorean asymmetry between the confidence carried by phenomenal evidence and the confidence carried by any theoretical premise that would overrule it. The distinction therefore identifies the location of the bedrock disagreement rather than resolving it from outside. (See [[eliminative-materialism]] for the broader articulation of where the Map locates this disagreement and what is at stake in foreclosing it.)
 
 ## Phenomenal Conservatism and the Burden-Shifting Move
 
@@ -219,6 +234,7 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 - [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]] — The mutual constraint framework validating trained introspection
 - [[epistemic-advantages-of-dualism]] — The broader case for taking non-materialist theories seriously
 - [[illusionism]] — The strongest denial of phenomenal consciousness
+- [[eliminative-materialism]] — The broader position the constitutive-observation distinction is most directly addressed to; locates the bedrock disagreement over whether introspection is theory-laden in a way that would dissolve phenomenal authority
 - [[phenomenal-concepts-as-materialist-response]] — The main physicalist response to phenomenal authority
 - [[argument-from-reason]] — The broader case against epiphenomenalism
 - [[observation-and-measurement-void]] — Why strict calibration is structurally impossible
@@ -262,3 +278,18 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 1. Siegel, S. (2012). Cognitive penetrability and perceptual justification. *Noûs*, 46(2), 201-222.
 1. Stace, W. T. (1960). *Mysticism and Philosophy*. Macmillan.
 1. Varela, F. J. (1996). Neurophenomenology: A Methodological Remedy for the Hard Problem. *Journal of Consciousness Studies*, 3(4), 330-349.
+
+<!-- AI REFINEMENT LOG - 2026-04-26
+Changes made addressing optimistic-2026-04-26 Medium Priority recommendation "Phenomenal Authority and First-Person Evidence: Sharpen via Eliminative-Materialism":
+- Added new "Constitutive vs Referring Observation" section between Three Layers of Phenomenal Authority and Phenomenal Conservatism. Articulates the structural distinction (referring observations track observation-independent targets; constitutive observations constitute their object). Explains why Layer 1 has apodictic status that no other empirical observation has, and why "introspection is theory-laden" arguments modelled on the referring case fail at their load-bearing point. ~660 words.
+- Reframed existing intuition-pump material (Mary, zombies) as illustrations of the constitutive-observation structure from the content side, rather than as the primary load-bearing argument. Existing Acquaintance and Methodological Implications sections preserved without rewrite.
+- Added forward link to [[eliminative-materialism]] in the new section's main statement and in honest-limitation paragraph. Reciprocity from eliminative-materialism's side already in place (its frontmatter, Further Reading, and prose all link to phenomenal-authority).
+- Added [[eliminative-materialism]] to related_articles frontmatter.
+- Added Further Reading entry locating the bedrock disagreement.
+- Honest limitation explicitly acknowledges the constitutive-observation framing is foundational and contested by illusionists who deny the constitutive relation; the framing identifies the location of bedrock disagreement rather than resolving it.
+
+Tenet alignment: Dualism (Tenet 1) — strengthens article's load-bearing role. The structural framing is what makes the layered-authority taxonomy non-question-begging.
+
+This log should be removed after human review.
+-->
+
