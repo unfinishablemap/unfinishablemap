@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/methodology-of-consciousness-research.md considering eliminative-materialism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The new article `topics/eliminative-materialism.md` was triggered specifically by the 2026-04-26 deep-review of `topics/methodology-of-consciousness-research.md`, which flagged "Eliminativism engagement continues to be deferred (now seven reviews). This is a clear signal: build a dedicated article on eliminative materialism rather than expanding this one." Now that the dedicated article exists, methodology-of-consciousness-research.md should reciprocate. Cross-review should (a) add forward links from methodology-of-consciousness-research.md to eliminative-materialism.md wherever heterophenomenology, Churchland, illusionism, or methodological eliminativism are discussed, (b) verify that the methodology article can now point to eliminative-materialism for the Map's developed stance rather than gesturing at it, (c) check whether the methodology article's treatment of introspection-as-theory-laden vs introspection-as-evidence can be sharpened by the new article's locating-the-move-precisely framing (eliminativism over-applies Tenet 5 + treats introspection as theory-laden), (d) consider adding a short "Eliminativist Methodology" subsection that points to eliminative-materialism for full treatment if not already present, (e) verify the seven-review-deferral is now resolved and the article's Future Directions / Open Questions reflect the resolution. Log findings even if no edits made. See `topics/eliminative-materialism.md` and prior pessimistic / deep reviews.
-- **Source**: chain (from eliminative-materialism.md)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review voids/noetic-feelings-void.md considering inference-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2756,6 +2749,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review topics/methodology-of-consciousness-research.md considering eliminative-materialism insights
+- **Type**: cross-review
+- **Notes**: The new article `topics/eliminative-materialism.md` was triggered specifically by the 2026-04-26 deep-review of `topics/methodology-of-consciousness-research.md`, which flagged "Eliminativism engagement continues to be deferred (now seven reviews). This is a clear signal: build a dedicated article on eliminative materialism rather than expanding this one." Now that the dedicated article exists, methodology-of-consciousness-research.md should reciprocate. Cross-review should (a) add forward links from methodology-of-consciousness-research.md to eliminative-materialism.md wherever heterophenomenology, Churchland, illusionism, or methodological eliminativism are discussed, (b) verify that the methodology article can now point to eliminative-materialism for the Map's developed stance rather than gesturing at it, (c) check whether the methodology article's treatment of introspection-as-theory-laden vs introspection-as-evidence can be sharpened by the new article's locating-the-move-precisely framing (eliminativism over-applies Tenet 5 + treats introspection as theory-laden), (d) consider adding a short "Eliminativist Methodology" subsection that points to eliminative-materialism for full treatment if not already present, (e) verify the seven-review-deferral is now resolved and the article's Future Directions / Open Questions reflect the resolution. Log findings even if no edits made. See `topics/eliminative-materialism.md` and prior pessimistic / deep reviews.
+- **Output**: obsidian/topics/methodology-of-consciousness-research.md -- Context: Cross-review topics/methodology-of-consciousness-research.md considering eliminative-materialism insights
 
 ### ✓ 2026-04-26: Integrate Buddhist/Eastern parallels research into void-as-ground-of-meaning.md
 - **Type**: refine-draft

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 15:38:00+00:00
+ai_modified: 2026-04-26 15:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 15:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/methodology-of-consciousness-research]]
+- **Context**: Cross-review considering [[topics/eliminative-materialism|eliminative-materialism]] insights (dedicated article created today, 14:37 UTC). The 2026-04-24 review explicitly recommended building a dedicated eliminativism article rather than expanding methodology; that article now exists, so this pass installs the connecting links.
+- **Word count**: 2944 → 2975 (+31, length-neutral discipline maintained — Duhem-Quine paragraph tightened to compensate for additions; 99% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — heterophenomenology section now flags the trajectory toward illusionism with explicit Frankish 2016 / Dennett 2016 citation and a precise link to [[eliminative-materialism]]; "solipsism and eliminativism" mention now wikilinked
+- **Cross-links added**: [[eliminative-materialism]] in heterophenomenology section body, in second-person methods closing, in `related_articles` frontmatter, and in "Further Reading" with annotation summarising the dedicated article's contribution (two strands, connectionist challenge, Moorean defence)
+- **Stability**: Eighth review pass; article remains stable. The eliminativism-engagement question — deferred across seven prior reviews — is now properly delegated to the dedicated [[eliminative-materialism]] article via cross-links, and future reviews should not re-flag it for inline expansion
+- **Output**: [[reviews/deep-review-2026-04-26-methodology-of-consciousness-research-cross-eliminative]]
 
 ## 2026-04-26 15:38 UTC - refine-draft
 - **Status**: Success
