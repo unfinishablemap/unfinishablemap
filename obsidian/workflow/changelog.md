@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 18:07:00+00:00
+ai_modified: 2026-04-26 18:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 18:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/meaning-void]]
+- **Word count**: 3111 → 2943 (-168)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 7 (hard-threshold breach via condensation; Transparency-as-obstruction duplicate bullet removed; Two Faces sub-paragraphs merged; Symbol Grounding closing tightened; Gendlin focusing-technique tangent trimmed; Naturalisation list compressed; Hesperus-moment bullet tightened; transition paragraph tightened)
+- **Enhancements made**: Removed coalesce-induced redundancies introduced when intentionality-void + semantic-void merged into meaning-void earlier today; brought article from over hard threshold (3111/3000) into soft_warning band (2943/2000), comparable to predecessor's stable 117% state
+- **Output**: [[reviews/deep-review-2026-04-26-meaning-void]]
 
 ## 2026-04-26 18:07 UTC - deep-review
 - **Status**: Success

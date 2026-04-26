@@ -4,7 +4,8 @@ description: "How thoughts achieve aboutness, and what understanding feels like 
 created: 2026-02-05
 modified: 2026-04-26
 human_modified: null
-ai_modified: 2026-04-26T17:53:00+00:00
+ai_modified: 2026-04-26T18:27:00+00:00
+last_deep_review: 2026-04-26T18:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,13 +45,11 @@ coalesced_from:
 
 Meaning has two faces, and both resist physical reduction. Thoughts are *about* things—you think about Paris, about tomorrow's meeting, about the number seven—and there is something it is like to grasp a sentence, recognise a concept, get a joke. Reference and felt comprehension are the inside and outside of the same phenomenon, but each presents its own structural opacity. The mechanism by which a thought achieves its specific reference operates entirely below introspective awareness. The felt character of understanding, once reference has arrived, exceeds every formal model aimed at it. The meaning void marks this double inaccessibility at the heart of mental life: we cannot catch reference in formation, and we cannot capture felt comprehension in any third-person scheme.
 
-The Unfinishable Map's [[voids]] framework treats this as one void with two faces. Asking *how* thoughts attach to objects and asking *what* meaning is like once attached are different questions only to the extent that mechanism and result can be separated. The arguments, the canonical examples, and the philosophical stakes overlap heavily; the void operates at the intersection of the [[three-kinds-of-void|unexplorable and the occluded]].
+The Map's [[voids]] framework treats reference and felt comprehension as one void with two faces—different questions only to the extent that mechanism and result can be separated. The arguments, the canonical examples, and the philosophical stakes overlap heavily; the void operates at the intersection of the [[three-kinds-of-void|unexplorable and the occluded]].
 
 ## Two Faces of the Same Void
 
-**Reference without observable mechanism.** When you think about Paris, Paris appears—immediately, vividly. The thought presents its object without revealing how it achieved that object. Philosophers call this *[[phenomenal-transparency-opacity-spectrum|phenomenal transparency]]*: we "see through" the representation to its content, like looking through a window without noticing the glass. The construction process is structurally hidden.
-
-Try to observe how your thought about Paris achieves its Paris-directedness. You form a new thought—about the first thought—but this meta-thought arrives equally complete, equally opaque in its mechanism. You cannot find the pre-referential moment when the thought is being constructed but has not yet latched onto its object. Every thought you can observe has already achieved its aboutness.
+**Reference without observable mechanism.** When you think about Paris, Paris appears—immediately, vividly. The thought presents its object without revealing how it achieved it. Philosophers call this *[[phenomenal-transparency-opacity-spectrum|phenomenal transparency]]*: we "see through" the representation to its content, like looking through a window without noticing the glass. Try to observe the construction itself; the meta-thought arrives equally complete, equally opaque. Every thought you can observe has already achieved its aboutness—the pre-referential moment is not available.
 
 **Comprehension without representable felt character.** Once reference has arrived, something accompanies it. Hearing a sentence in a language you understand and one you do not can involve identical sensory phenomenology while differing in overall phenomenology—the felt presence or absence of meaning. Formal semantics specifies truth conditions; computational models track statistical regularities; neural correlates identify activations. None of these touch the felt character of understanding.
 
@@ -76,11 +75,9 @@ Critics dispute Searle's conclusion (the systems reply, the robot reply, the bra
 
 ## The Symbol Grounding Problem
 
-Stevan Harnad ("The Symbol Grounding Problem", 1990) posed a related challenge from cognitive science. Symbols defined only in terms of other symbols form a closed loop: definitional circularity without anchor. His analogy is the Chinese-Chinese dictionary—looking up a word in a language one does not know yields only further unknown words. Harnad proposes that symbols must be grounded in non-symbolic, sensorimotor representations to acquire meaning.
+Stevan Harnad ("The Symbol Grounding Problem", 1990) posed a related challenge from cognitive science. Symbols defined only in terms of other symbols form a closed loop—a Chinese-Chinese dictionary in which every lookup yields further unknown words. Harnad proposes that symbols must be grounded in non-symbolic, sensorimotor representations to acquire meaning.
 
-The proposal relocates the void rather than dissolving it. *Why* does grounding produce meaning, and what happens phenomenally when ungrounded symbols become grounded? The grounding process either *is* what the felt dimension of understanding consists in, or it is something else entirely. Harnad does not commit. We find our concepts already grounded, their connection to experience as opaque as any other aspect of reference.
-
-If grounding is required, intentionality requires embodiment—consciousness must be causally engaged with the physical world. The void does not mean disconnection; it means the mechanism of connection is hidden from the connected consciousness.
+The proposal relocates the void rather than dissolving it. *Why* does grounding produce meaning, and what happens phenomenally when ungrounded symbols become grounded? The grounding process either *is* what the felt dimension of understanding consists in, or it is something else entirely. Harnad does not commit. We find our concepts already grounded, their connection to experience as opaque as any other aspect of reference. If grounding is required, intentionality requires embodiment, and the void marks the mechanism of connection rather than its absence.
 
 ## Phenomenal Intentionality and Cognitive Phenomenology
 
@@ -88,13 +85,13 @@ A family of contemporary positions treats the felt character of meaning as load-
 
 Terence Horgan, John Tienson, and Uriah Kriegel develop a stronger thesis: that *some* intentionality—in their formulation, "phenomenal intentionality"—is constitutively determined by phenomenal character alone (Horgan & Tienson 2002). On this view, the felt character partly constitutes the meaning. The thesis is contested. Some philosophers deny that thought has phenomenal character independent of its sensory accompaniments. The dispute itself marks the void's edge: the felt character of understanding is elusive enough that careful introspectors disagree about whether it exists.
 
-Eugene Gendlin (*Experiencing and the Creation of Meaning*, 1962) approaches the same territory from a different angle. Conceptual meaning, he proposes, rests on a "felt sense"—a pre-conceptual, bodily-felt dimension implicit in but not exhausted by any explicit articulation: "Only as we have the felt meaning, do we have the meaning of a concept." His focusing technique trains attention to this felt dimension, but the articulating cannot exhaust the felt. The void is not removed by careful introspection; it is illuminated.
+Eugene Gendlin (*Experiencing and the Creation of Meaning*, 1962) approaches the same territory from a different angle. Conceptual meaning, he proposes, rests on a "felt sense"—a pre-conceptual, bodily-felt dimension implicit in but not exhausted by any explicit articulation: "Only as we have the felt meaning, do we have the meaning of a concept." Careful introspection does not remove the void; it illuminates it.
 
 If phenomenal intentionality theory is right, the meaning void is load-bearing. No third-person account can be complete in principle, because part of what meaning *is* is constitutively first-personal.
 
 ## Naturalisation Remains Incomplete
 
-Despite decades of effort, no naturalistic theory of intentionality achieves consensus. Causal theories explain some phenomena but face persistent counterexamples. Teleosemantic theories invoke biological function but cannot explain misrepresentation satisfactorily. Informational theories struggle with content indeterminacy. As the Stanford Encyclopedia notes, "A pressing question, especially for the naturalist, is how mental representations come to have their contents"—and there is "no widely accepted solution."
+Despite decades of effort, no naturalistic theory of intentionality achieves consensus. Causal theories face persistent counterexamples; teleosemantic theories cannot explain misrepresentation satisfactorily; informational theories struggle with content indeterminacy. As the Stanford Encyclopedia notes, "A pressing question, especially for the naturalist, is how mental representations come to have their contents"—and there is "no widely accepted solution."
 
 Joseph Levine's explanatory gap argument ("Materialism and Qualia", 1983) generalises the issue. A complete neural account of pain would not explain *why* the neural activity feels like pain. Applied to meaning: no complete computational account of semantic processing explains why processing has the felt character of understanding. Levine framed this as "a gap in our understanding of nature" rather than necessarily a gap in nature itself, leaving the metaphysical question open.
 
@@ -104,9 +101,7 @@ The lack of consensus does not by itself establish irreducibility. One reading: 
 
 Several ordinary experiences trace the void's perimeter:
 
-**Transparency as obstruction.** The very clarity of intentional content obscures the mechanism. When thinking about Paris, Paris appears so immediately that there is nothing else to notice. The connection between thought and object presents as direct, unmediated. You cannot find the "glue" connecting thought to object because the connection phenomenologically *is* the thought.
-
-**The Hesperus moment.** Occasionally we discover that two thoughts were about the same thing all along. This produces a distinctive phenomenology of surprise. "Oh, they're the same!" The surprise reveals the void: with introspective access to reference mechanisms, such discoveries would be impossible. We would already know.
+**The Hesperus moment.** Discovering that two thoughts were about the same thing all along produces a distinctive phenomenology of surprise. "Oh, they're the same!" With introspective access to reference mechanisms, such discoveries would be impossible—we would already know.
 
 **The tip-of-the-tongue state.** You have the meaning but not the word. You recognise the right term when offered, but the felt meaning and its expression are temporarily dissociated—you possessed the one without yet retrieving the other. This isolates the felt dimension by removing its usual articulation.
 

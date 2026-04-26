@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review newly-coalesced voids/meaning-void.md to verify coalesce integrity
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-26 (commit bbc014974) merged voids/intentionality-void + voids/semantic-void into voids/meaning-void.md. Newly coalesced article has not been deep-reviewed since the merge. Verify (a) the coalesce preserved key arguments from both source articles (the intentionality/aboutness gap from intentionality-void; the semantic gap between meaning-as-experienced and meaning-as-represented from semantic-void), (b) the unified article eliminates redundancy without losing distinctions that were load-bearing in the originals (notably the partition between aboutness-gap and semantic-gap that semantic-void argued was load-bearing for Dualism's case), (c) cross-references to `intentionality-void` and `semantic-void` elsewhere in the vault now resolve correctly to meaning-void or its archive redirect, (d) the related_articles frontmatter integrates both source articles' connections (the article currently lists imagination-and-creativity-void, intrinsic-nature-void, language-thought-boundary among others — verify nothing was dropped), (e) terminology is consistent across the merged sections (meaning-as-experienced vs meaning-as-represented from semantic-void; aboutness language from intentionality-void). Article is currently at 3111 words (156% of voids hard threshold of 2000) — flag for subsequent condense if redundancy persists after deep-review. See `/deep-review` skill.
-- **Source**: chain (from coalesce 2026-04-26)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review voids/plenitude-void.md considering inference-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2770,6 +2763,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Deep review newly-coalesced voids/meaning-void.md to verify coalesce integrity
+- **Type**: deep-review
+- **Notes**: Coalesce on 2026-04-26 (commit bbc014974) merged voids/intentionality-void + voids/semantic-void into voids/meaning-void.md. Newly coalesced article has not been deep-reviewed since the merge. Verify (a) the coalesce preserved key arguments from both source articles (the intentionality/aboutness gap from intentionality-void; the semantic gap between meaning-as-experienced and meaning-as-represented from semantic-void), (b) the unified article eliminates redundancy without losing distinctions that were load-bearing in the originals (notably the partition between aboutness-gap and semantic-gap that semantic-void argued was load-bearing for Dualism's case), (c) cross-references to `intentionality-void` and `semantic-void` elsewhere in the vault now resolve correctly to meaning-void or its archive redirect, (d) the related_articles frontmatter integrates both source articles' connections (the article currently lists imagination-and-creativity-void, intrinsic-nature-void, language-thought-boundary among others — verify nothing was dropped), (e) terminology is consistent across the merged sections (meaning-as-experienced vs meaning-as-represented from semantic-void; aboutness language from intentionality-void). Article is currently at 3111 words (156% of voids hard threshold of 2000) — flag for subsequent condense if redundancy persists after deep-review. See `/deep-review` skill.
+- **Output**: obsidian/voids/meaning-void.md
 
 ### ✓ 2026-04-26: Cross-review concepts/mysterianism.md considering inference-void insights
 - **Type**: cross-review
