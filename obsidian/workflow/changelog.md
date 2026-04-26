@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 19:52:00+00:00
+ai_modified: 2026-04-26 20:08:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 20:08 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/eliminative-materialism]]
+- **Source review**: [[reviews/pessimistic-2026-04-26b]] (6 issues, 2 High)
+- **Changes**: (1) Recast introspection-as-constitutive rebuttal as foundational commitment defended by overall theoretical fit (Tenet 1 + physicalist failure + Moorean asymmetry), explicitly flagging bedrock disagreement rather than asserting constitutive observation as a derived counter-argument [Issue 1, High]. (2) Replaced sweeping heliocentrism/atomic-theory/GR historical claim with the domain-specific claim that parsimony is unreliable in domains with hidden structure not yet visible; reframed "most epistemically distinctive datum" wording [Issue 2, High]. (3) Distinguished causal-efficacy commitment from structural-format commitment in the third-tenet paragraph; the tenet now bears only on causal efficacy, neutral on whether intentional states have sentence-shaped structure — resolves tension with Honest Limitations [Issue 3, Med]. (4) Engaged Frankish's §6 reply to the regress (quasi-phenomenal vs phenomenal seeming distinction) and explained the Map's residual disagreement [Issue 4, Med]. (5) Added predictive-processing/Clark/Hohwy/Friston as the contemporary descendant of the connectionist challenge in Honest Limitations [Issue 5, Med]. (6) Flagged Madhyamaka asymmetry in Buddhist alliance via Further Reading entry [Issue 6, Low–Med]. Citations: removed self-citation refs 18-19 from numbered list (already wikilinked in Further Reading); supplied SEP date for Ramsey ref 12 (2003, revised 2019).
+- **Published**: yes (article remains draft: false)
 
 ## 2026-04-26 19:52 UTC - pessimistic-review
 - **Status**: Success
