@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-04-24
 human_modified: 2026-01-08
-ai_modified: 2026-04-26T02:36:00+00:00
+ai_modified: 2026-04-26T13:25:00+00:00
 draft: false
 last_deep_review: 2026-04-21T01:38:00+00:00
 topics: []
@@ -68,6 +68,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [[epistemic-horizon-void|The Epistemic Horizon Void]] — The second-order void that shadows every other: why consciousness cannot estimate the total scope of what it does not know from within the limited system doing the estimating (created 2026-04-23)
 - [[question-formation-void|The Question Formation Void]] — The method-horizon void: a constraint on which questions a mind can formulate, distinct from constraints on which answers it can reach; mapping by negation can only negate what is already askable (created 2026-04-24)
+- [[inference-void|The Inference Void]] — The structural opacity of inferential transitions to the consciousness performing them; Carroll's regress gives the void a formally demonstrable epistemic profile, distinguishing it from purely apophatic or empirical voids (created 2026-04-26)
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — Why cognitive limits are preconditions for meaning, not merely obstacles
 
 ### Specific Voids

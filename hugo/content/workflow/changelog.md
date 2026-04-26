@@ -1,13 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 04:28:00+00:00
+ai_modified: 2026-04-26 13:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-26 13:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Inference Void
+- **Output**: [inference-void](/voids/inference-void/)
+- **Word count**: 2321
+- **Based on research**: yes ([voids-inference-void-2026-04-26](/research/voids-inference-void-2026-04-26/))
+- **Notes**: Fifth article in the second-order voids cluster (after epistemic-horizon, question-formation, categorial, plenitude). Frames Carroll's 1895 regress as a proof-style demonstration that distinguishes the inference void from purely apophatic or empirical voids; positions Carroll, Wittgenstein, and Polanyi in two-channel structure (source exposition kept separate from Map interpretation per attribution discipline). Treats the AI/LLM interpretability angle as substrate-neutrality evidence and connects to formal-cognitive-limits as the 1895 predecessor of the Gödel-Turing-Chaitin lineage. Tenet alignment: Occam's Razor Has Limits (load-bearing), Dualism (conditional), Bidirectional Interaction (speculative).
+
+## 2026-04-26 05:36 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/)
+- **Word count**: 2296 → 2299 (+3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (opening paragraph contained two instances of the prohibited "X is not Y. It is Z." LLM cliché flagged in CLAUDE.md; rewritten to make positive claims directly while preserving content and rhetorical emphasis on *re-understands*)
+- **Enhancements made**: 0 (article has converged; third deep review found no new expansion opportunities)
+- **Output**: [deep-review-2026-04-26-consciousness-and-the-phenomenology-of-translation](/reviews/deep-review-2026-04-26-consciousness-and-the-phenomenology-of-translation/)
 
 ## 2026-04-26 04:28 UTC - deep-review
 - **Status**: Success

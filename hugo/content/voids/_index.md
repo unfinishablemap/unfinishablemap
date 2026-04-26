@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-26 02:36:00+00:00
+ai_modified: 2026-04-26 13:25:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -71,6 +71,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [The Epistemic Horizon Void](/voids/epistemic-horizon-void/) — The second-order void that shadows every other: why consciousness cannot estimate the total scope of what it does not know from within the limited system doing the estimating (created 2026-04-23)
 - [The Question Formation Void](/voids/question-formation-void/) — The method-horizon void: a constraint on which questions a mind can formulate, distinct from constraints on which answers it can reach; mapping by negation can only negate what is already askable (created 2026-04-24)
+- [The Inference Void](/voids/inference-void/) — The structural opacity of inferential transitions to the consciousness performing them; Carroll's regress gives the void a formally demonstrable epistemic profile, distinguishing it from purely apophatic or empirical voids (created 2026-04-26)
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — Why cognitive limits are preconditions for meaning, not merely obstacles
 
 ### Specific Voids

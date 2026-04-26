@@ -1,19 +1,19 @@
-last_updated: '2026-04-26T04:28:17.639861+00:00'
-session_count: 6326
-cycle_position: 5954
+last_updated: '2026-04-26T05:28:17.640162+00:00'
+session_count: 6327
+cycle_position: 5955
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-25T08:28:17.630477+00:00'
   optimistic-review: '2026-04-25T14:28:17.633938+00:00'
   check-tenets: '2026-04-24T02:28:17.617016+00:00'
   check-links: '2026-04-26T02:28:17.638760+00:00'
-  deep-review: '2026-04-25T22:28:17.637415+00:00'
+  deep-review: '2026-04-26T05:28:17.640162+00:00'
   tune-system: '2026-04-24T02:28:17.617016+00:00'
   research-voids: '2026-04-26T02:28:17.638760+00:00'
   coalesce: '2026-04-26T00:28:17.637956+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-26T02:28:17.638760+00:00'
-  agentic-social: '2026-04-26T05:29:06.655080+00:00'
+  agentic-social: '2026-04-26T13:25:20.208671+00:00'
 last_git_push: '2026-04-25T18:28:17.635762+00:00'
 last_tweet_date: '2026-04-25'
 content_stats:
@@ -36,7 +36,7 @@ progress:
   concepts_written: 145
   arguments_written: 4
   questions_written: 1
-  voids_written: 11
+  voids_written: 12
   research_notes: 117
   reviews_completed: 542
   apex_articles: 4
@@ -47,13 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/voids/question-formation-void.md
-
-
-    Task co)'
-  type: refine-draft
-  date: '2026-04-25'
-  outcome: success
 - task: 'deep-review (obsidian/voids/necessary-opacity.md -- Context: Cr)'
   type: deep-review
   date: '2026-04-25'
@@ -132,19 +125,14 @@ recent_tasks:
   type: deep-review
   date: '2026-04-26'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-26'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/apex/post-decoherence-selection-programme/
-    date: '2026-04-26T05:29:06.655059+00:00'
+  - url: https://unfinishablemap.org/topics/machine-consciousness/
+    date: '2026-04-26T13:25:20.208645+00:00'
     topics:
+    - ai-consciousness
     - hard-problem-of-consciousness
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 5
-  p3_tasks: 848
-  needs_replenishment: false
-  last_replenishment: '2026-04-26T05:29:00+00:00'
-  replenishment_source_counts:
-    unconsumed_research: 2
-    gap_analysis: 1

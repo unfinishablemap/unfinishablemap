@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 05:36:00+00:00
+ai_modified: 2026-04-26 13:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 13:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Inference Void
+- **Output**: [[voids/inference-void]]
+- **Word count**: 2321
+- **Based on research**: yes ([[research/voids-inference-void-2026-04-26]])
+- **Notes**: Fifth article in the second-order voids cluster (after epistemic-horizon, question-formation, categorial, plenitude). Frames Carroll's 1895 regress as a proof-style demonstration that distinguishes the inference void from purely apophatic or empirical voids; positions Carroll, Wittgenstein, and Polanyi in two-channel structure (source exposition kept separate from Map interpretation per attribution discipline). Treats the AI/LLM interpretability angle as substrate-neutrality evidence and connects to formal-cognitive-limits as the 1895 predecessor of the Gödel-Turing-Chaitin lineage. Tenet alignment: Occam's Razor Has Limits (load-bearing), Dualism (conditional), Bidirectional Interaction (speculative).
 
 ## 2026-04-26 05:36 UTC - deep-review
 - **Status**: Success
