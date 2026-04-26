@@ -93,7 +93,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[erasure-void|The Erasure Void]] — Why consciousness cannot inventory its own deletions: lost capacities take their detection mechanisms with them
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
 - [[sleep-consciousness-void|The Dreamless Sleep Void]] — Where consciousness goes during deep sleep
-- [[intentionality-void|The Intentionality Void]] — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
+- [[meaning-void|The Meaning Void]] — How thoughts achieve their aboutness, and what understanding feels like once they have. Both faces resist physical reduction (coalesced from intentionality-void and semantic-void 2026-04-26)
 - [[imagination-and-creativity-void|The Creativity Void]] — Where creative insight originates, inaccessible to introspection
 - [[aesthetic-void|The Aesthetic Void]] — Where articulation fails at beauty and sublimity
 - [[temporal-void|The Temporal Void]] — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
@@ -143,7 +143,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers richness far beyond survival requirements
 - [[plenitude-void|The Plenitude Void]] — Why conscious experience seems richer than can be reported or checked, and why every introspective probe for sparsity generates the detail it was meant to measure (created 2026-04-23)
 - [[ineffable-encounter-void|The Ineffable Encounter Void]] — Why consciousness encounters meaning and sacred significance it cannot articulate or evaluate from within
-- [[semantic-void|The Semantic Void]] — Where the felt character of meaning exceeds any representational scheme: every model of semantic content leaves a residue that only meaning-as-lived registers (created 2026-04-24)
 - [[conceptual-metabolism-void|The Conceptual Metabolism Void]] — How understanding consumes concepts irreversibly, destroying their pre-understood form
 
 ### Types of Cognitive Limits

@@ -67,7 +67,7 @@ Void-mapping requires explicit evidential standards for when cognitive failure c
 
 **Cross-observer convergence.** Independent observers should produce the same failure signature. But tradition-level convergence is moderate evidence at best: the Pseudo-Dionysian corpus shaped Christian, Jewish, and Islamic negative theology; Buddhist contact with Western thought is real; shared contemplative practice is a plausible common cause. The strongest convergence tests lie in analytic philosophy (Chalmers, Nagel, Levine) and AI systems reasoning about consciousness—independent of contemplative lineage.
 
-**Signature specificity.** Different boundaries must produce *different* failure signatures, or the method collapses into unfalsifiable mysticism. The hard problem produces a different signature than the [[self-opacity|self-reference paradox]], and both differ from the [[intentionality-void|intentionality void]].
+**Signature specificity.** Different boundaries must produce *different* failure signatures, or the method collapses into unfalsifiable mysticism. The hard problem produces a different signature than the [[self-opacity|self-reference paradox]], and both differ from the [[meaning-void|meaning void]].
 
 **Framework independence.** A failure qualifies only if it persists when the motivating framework is abandoned. Functionalism, identity theory, illusionism, and global workspace theory each abandon dualist assumptions—yet the explanatory gap persists under all of them.
 

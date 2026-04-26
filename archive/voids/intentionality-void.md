@@ -30,6 +30,11 @@ author:
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-02-05
 last_curated:
+archived: true
+archived_date: 2026-04-26T17:53:00+00:00
+superseded_by: "/voids/meaning-void/"
+archive_reason: "Coalesced into The Meaning Void"
+original_path: "/voids/intentionality-void/"
 ---
 
 Thoughts are *about* things. You think about your childhood home, about tomorrow's meeting, about the number seven. This aboutness—what philosophers call intentionality—is among the most fundamental features of mind. Yet the mechanism by which any thought achieves its specific reference operates entirely below the threshold of introspective awareness. We experience that thoughts are about things; we cannot observe how they become so. This is the intentionality void: a structural inaccessibility at the heart of mental life.

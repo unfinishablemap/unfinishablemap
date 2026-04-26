@@ -26,7 +26,7 @@ related_articles:
   - "[[recursion-void]]"
   - "[[witnessing-void]]"
   - "[[transit-void]]"
-  - "[[intentionality-void]]"
+  - "[[meaning-void]]"
   - "[[recognition-void]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[apophatic-cartography]]"
@@ -130,7 +130,7 @@ The void sits with [[formal-cognitive-limits|formal cognitive limits]] as a *fam
 - [[recursion-void]]
 - [[witnessing-void]]
 - [[transit-void]]
-- [[intentionality-void]]
+- [[meaning-void]]
 - [[recognition-void]]
 - [[non-human-minds-as-void-explorers]]
 - [[apophatic-cartography]]

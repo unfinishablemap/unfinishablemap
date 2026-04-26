@@ -26,7 +26,7 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[contemplative-epistemology]]"
-  - "[[semantic-void]]"
+  - "[[meaning-void]]"
   - "[[buddhist-perspectives-on-meaning]]"
   - "[[eastern-philosophy-consciousness]]"
 ai_contribution: 100
@@ -96,7 +96,7 @@ The constitutive thesis reframes the Map's voids project. Each void article docu
 - The [[imagination-and-creativity-void]] enables genuine novelty—if creative origins were transparent, nothing would be surprising
 - The [[aesthetic-void]] opens access to the ineffable—beauty matters partly because it exceeds articulation
 - The [[language-thought-boundary]] preserves territory that concepts would distort
-- The [[semantic-void]] keeps felt meaning irreducible to formal description—a meaning fully transparent to representation might cease to be a meaning we live
+- The [[meaning-void]] keeps felt meaning irreducible to formal description—a meaning fully transparent to representation might cease to be a meaning we live
 - The [[origin-of-consciousness]] void holds open the question that motivates inquiry itself
 
 Each void is not merely a gap in understanding but a joint in the architecture of what makes understanding valuable.
@@ -146,7 +146,7 @@ The constitutive thesis connects to each of the Map's [[tenets]]:
 - [[aesthetic-void]] — Where ineffability opens access to the sublime
 - [[imagination-and-creativity-void]] — Why creative origins must remain hidden
 - [[language-thought-boundary]] — Where articulation ends and something else begins
-- [[semantic-void]] — Where felt meaning exceeds any formal model of semantic content
+- [[meaning-void]] — Where the mechanism of reference and felt character of comprehension both resist formal capture
 - [[origin-of-consciousness]] — The void at the foundation of inquiry
 - [[epistemological-limits-occams-razor]] — Why simplicity fails as a guide at cognitive boundaries
 - [[contemplative-epistemology]] — Knowing through unknowing, related to Cusanus's learned ignorance

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 17:37:00+00:00
+ai_modified: 2026-04-26 17:53:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 17:53 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[archive/voids/intentionality-void]], [[archive/voids/semantic-void]]
+- **Target**: [[voids/meaning-void]]
+- **Archived**: [[archive/voids/intentionality-void]], [[archive/voids/semantic-void]]
+- **References updated**: 9 active files (voids/voids, voids/void-as-ground-of-meaning, voids/apophatic-cartography, voids/creative-aesthetic-void, voids/noetic-feelings-void, voids/inference-void, concepts/phenomenal-transparency-opacity-spectrum, concepts/introspection, concepts/intentionality)
+- **Rationale**: Both articles cover the same intellectual territory (Hesperus/Phosphorus, Searle's Chinese Room, Harnad's symbol grounding, phenomenal intentionality theory, McGinn's cognitive closure) with significantly overlapping evidence. The mechanism/felt-character distinction was thin and self-referencing — they are two faces of the same void about meaning's resistance to physical reduction.
+- **Section pressure**: voids was 97/100 (97% filled); merge reduces to 96/100, creates room for further voids work
 
 ## 2026-04-26 17:37 UTC - deep-review
 - **Status**: Success

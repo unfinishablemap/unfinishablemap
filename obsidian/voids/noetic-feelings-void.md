@@ -30,7 +30,7 @@ related_articles:
   - "[[apophatic-cartography]]"
   - "[[three-kinds-of-void]]"
   - "[[disappearance-voids]]"
-  - "[[intentionality-void]]"
+  - "[[meaning-void]]"
   - "[[phenomenal-quality-void]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[self-maintained-cognitive-limits]]"

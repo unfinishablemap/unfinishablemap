@@ -32,6 +32,11 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-24
 last_curated:
+archived: true
+archived_date: 2026-04-26T17:53:00+00:00
+superseded_by: "/voids/meaning-void/"
+archive_reason: "Coalesced into The Meaning Void"
+original_path: "/voids/semantic-void/"
 ---
 
 The semantic void is the gap between meaning as it is phenomenally lived and meaning as it can be captured by any formal system. When you grasp a sentence, recognise a concept, or get a joke, there is something it is like to understand—a felt meaningfulness that accompanies comprehension. Yet this felt dimension resists every representational scheme aimed at it. Formal semantics specifies truth conditions; computational models track statistical regularities; neural correlates identify activations. None of these touch the felt character of understanding. The semantic void marks the territory where meaning-as-lived exceeds meaning-as-modelled.
