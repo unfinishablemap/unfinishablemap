@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 22:29:00+00:00
+ai_modified: 2026-04-25 23:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-25'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-25 23:29 UTC - research-topic
+- **Status**: Success
+- **Topic**: Buddhist/Eastern parallels (sunyata, pratityasamutpada) for void-as-ground-of-meaning
+- **Output**: [buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25](/research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25/)
+- **Sources consulted**: 13 (SEP entries on Nāgārjuna, Madhyamaka, Two Truths in India, Kyoto School, Daoism; IEP entries on Madhyamaka and Daoist Philosophy; Routledge REP on Buddhist concept of emptiness; peer-reviewed work by Nelson, Blomberg & Żywiczyński, Siderits & Garfield; Wikipedia overviews)
+- **Notes**: Existing [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) cites only Western thinkers (Heidegger, Cusanus, Wittgenstein, Levinas, Derrida, Borges) despite invoking "convergence across traditions." Notes identify Madhyamaka *śūnyatā*/*pratītyasamutpāda*, Kyoto School absolute nothingness (Nishitani's "overcoming nihilism through nihilism"), Daoist *wu*, and Zen *mu* as direct structural parallels. Highest-value follow-up: revise existing article to add Eastern convergences. Notable tenet tension: Buddhist *anātman* requires careful handling against Map's [zahavian-minimal-self](/concepts/zahavian-minimal-self/) commitments.
 
 ## 2026-04-25 22:29 UTC - deep-review
 - **Status**: Success (stability confirmation, no content changes)
