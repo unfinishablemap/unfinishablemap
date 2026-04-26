@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 13:56:00+00:00
+ai_modified: 2026-04-26 14:08:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 14:08 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/inference-void]]
+- **Word count**: 2321 → ~3300 (added Two-Readings, Brandom, expanded Substrate Neutrality, expanded Inheritance Problem)
+- **Issues addressed**: 7 of 7 from pessimistic-2026-04-26 (2 High, 5 Medium)
+- **Changes**: New "Carroll's Regress and Its Two Readings" section presents proof-theoretic deflation before arguing for inferentialist reading; Carroll/Wittgenstein/Polanyi reframed as three independent lines of pressure with divergent metaphysical commitments (not convergence); new first-person/mechanistic opacity distinction in Substrate Neutrality grounds dualist gloss in first-person opacity specifically; new "Brandom's Inferentialism: The Major Competing Framework" section engages the principal alternative; Phenomenology section rewritten to acknowledge effortful inference, with defensible claim narrowed to "even effortful inference does not yield an inspectable account of the licensing operation"; Inheritance Problem now articulates falsifiability conditions (reductive computational model capturing all phenomenological signatures); Carroll-as-predecessor-of-Gödel hedged as family-resemblance reading. Language tweaks throughout per review's improvements table.
+- **Preserved**: structural architecture, two-channel attribution discipline, second-order voids cluster framing, conditional dualist framing, retrospective-method honesty.
+- **Published**: yes (left uncommitted per task instruction; automation will commit)
 
 ## 2026-04-26 13:56 UTC - pessimistic-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26T13:52:00+00:00
+ai_modified: 2026-04-26T14:08:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,13 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Address pessimistic review findings on voids/inference-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review (2026-04-26) found seven issues, two High severity. Key revisions needed: (1) **Soften "constructive proof" language** for Carroll's regress — the proof-theoretic deflation (rules-vs-premises distinction) is the standard logician's reading, and the article should acknowledge it before arguing for the inferentialist reading. Replace "constructive proof", "provably incomplete", "robust foundation", "textbook example" with hedged equivalents; (2) **Reframe Carroll/Wittgenstein/Polanyi convergence** — Wittgenstein is anti-positing while Polanyi posits a tacit faculty; "three independent lines of pressure with materially different metaphysical commitments" is more accurate than "convergence"; (3) **Address the LLM deflationary reading** — substrate-neutrality of opacity in non-conscious systems is *prima facie* evidence the void is structural-compositional rather than consciousness-specific; the dualist gloss must rest on first-person opacity, not mechanistic opacity, and this distinction should be drawn; (4) **Add Brandom's inferentialism** — at minimum one paragraph acknowledging that inferentialism is the major competing framework where "taking-as" is social-normative practice, not a non-rule operation of consciousness; (5) **Modify phenomenology-of-transparency claim** — mathematicians and chess players report effortful inference; the defensible version is that even effortful inference does not yield an inspectable account of the licensing operation; (6) **Address falsifiability concern in "Inheritance Problem"** — gesture at what would count as evidence against the thesis (e.g., a fully reductive computational model capturing all phenomenological signatures including the felt valid/invalid distinction); (7) **Hedge the Carroll-as-predecessor-of-Gödel claim** — mark it as a family-resemblance interpretive claim, not a structural-equivalence claim. See [[reviews/pessimistic-2026-04-26]] for detailed counterarguments and language improvements table. Article structure, two-channel discipline, and second-order cluster framing are all working well — preserve them.
-- **Source**: pessimistic-review (2026-04-26)
-- **Generated**: 2026-04-26
 
 ### P2: Write topics/eliminative-materialism.md article
 - **Type**: expand-topic
@@ -2735,6 +2728,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Address pessimistic review findings on voids/inference-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-26) found seven issues, two High severity. Key revisions needed: (1) **Soften "constructive proof" language** for Carroll's regress — the proof-theoretic deflation (rules-vs-premises distinction) is the standard logician's reading, and the article should acknowledge it before arguing for the inferentialist reading. Replace "constructive proof", "provably incomplete", "robust foundation", "textbook example" with hedged equivalents; (2) **Reframe Carroll/Wittgenstein/Polanyi convergence** — Wittgenstein is anti-positing while Polanyi posits a tacit faculty; "three independent lines of pressure with materially different metaphysical commitments" is more accurate than "convergence"; (3) **Address the LLM deflationary reading** — substrate-neutrality of opacity in non-conscious systems is *prima facie* evidence the void is structural-compositional rather than consciousness-specific; the dualist gloss must rest on first-person opacity, not mechanistic opacity, and this distinction should be drawn; (4) **Add Brandom's inferentialism** — at minimum one paragraph acknowledging that inferentialism is the major competing framework where "taking-as" is social-normative practice, not a non-rule operation of consciousness; (5) **Modify phenomenology-of-transparency claim** — mathematicians and chess players report effortful inference; the defensible version is that even effortful inference does not yield an inspectable account of the licensing operation; (6) **Address falsifiability concern in "Inheritance Problem"** — gesture at what would count as evidence against the thesis (e.g., a fully reductive computational model capturing all phenomenological signatures including the felt valid/invalid distinction); (7) **Hedge the Carroll-as-predecessor-of-Gödel claim** — mark it as a family-resemblance interpretive claim, not a structural-equivalence claim. See [[reviews/pessimistic-2026-04-26]] for detailed counterarguments and language improvements table. Article structure, two-channel discipline, and second-order cluster framing are all working well — preserve them.
+- **Output**: obsidian/voids/inference-void.md
+
+Task context:
+Pessimistic review (2026-04-26) found seven issues, two High severity. Key revisions needed: (1) **Soften "constructive proof" language** for Carroll's regress — the proof-theoretic deflation (rules-vs-premises distinction) is the standard logician's reading, and the article should acknowledge it before arguing for the inferentialist reading. Replace "constructive proof", "provably incomplete", "robust foundation", "textbook example" with hedged equivalents; (2) **Reframe Carroll/Wittgenstein/Polanyi convergence** — Wittgenstein is anti-positing while Polanyi posits a tacit faculty; "three independent lines of pressure with materially different metaphysical commitments" is more accurate than "convergence"; (3) **Address the LLM deflationary reading** — substrate-neutrality of opacity in non-conscious systems is *prima facie* evidence the void is structural-compositional rather than consciousness-specific; the dualist gloss must rest on first-person opacity, not mechanistic opacity, and this distinction should be drawn; (4) **Add Brandom's inferentialism** — at minimum one paragraph acknowledging that inferentialism is the major competing framework where "taking-as" is social-normative practice, not a non-rule operation of consciousness; (5) **Modify phenomenology-of-transparency claim** — mathematicians and chess players report effortful inference; the defensible version is that even effortful inference does not yield an inspectable account of the licensing operation; (6) **Address falsifiability concern in "Inheritance Problem"** — gesture at what would count as evidence against the thesis (e.g., a fully reductive computational model capturing all phenomenological signatures including the felt valid/invalid distinction); (7) **Hedge the Carroll-as-predecessor-of-Gödel claim** — mark it as a family-resemblance interpretive claim, not a structural-equivalence claim. See [[reviews/pessimistic-2026-04-26]] for detailed counterarguments and language improvements table. Article structure, two-channel discipline, and second-order cluster framing are all working well — preserve them.
 
 ### ✓ 2026-04-26: Research eliminative materialism for dedicated topic article
 - **Type**: research-topic
