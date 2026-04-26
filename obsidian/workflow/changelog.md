@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 16:07:00+00:00
+ai_modified: 2026-04-26 16:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 16:23 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/noetic-feelings-void]]
+- **Context**: Cross-review considering [[voids/inference-void|inference-void]] insights (article created today, 14:08 UTC). Inference-void establishes a compositional claim — noetic feelings are *outputs* of inferential transitions whose own opacity is the inference void; the two voids compose. Reciprocal cross-reference was missing from noetic-feelings-void.
+- **Word count**: 2776 → 2822 (+46, length-neutral discipline approximated — compositional sentence added, [[consciousness-and-creativity|Insight]] sentence tightened to partially compensate; 178 words below hard threshold)
+- **Critical issues addressed**: 3 — missing `[[inference-void]]` in `related_articles` frontmatter; missing structural-relationship sentence in "Family of Noetic Feelings" body; missing entry in Further Reading list
+- **Medium issues addressed**: 1 — length pressure managed via tightening of "Insight" sentence (saved ~10 words against ~30-word addition; net within budget)
+- **Cross-links added**: `[[inference-void]]` in `related_articles` frontmatter, in "Family of Noetic Feelings" paragraph body with the compositional framing (feelings register when to stop, inferences do the moving), and in "Further Reading" with descriptor (transitions whose outputs noetic feelings register)
+- **Stability**: Article had been integrated as the umbrella for three predecessors (understanding/obviousness/explanatory) on 2026-04-23; this pass integrates it laterally with inference-void. Future cross-reviews should be triggered only by new neighbours, new empirical findings, or specific unengaged counterarguments (Mādhyamaka still deferred)
+- **Output**: [[reviews/deep-review-2026-04-26-noetic-feelings-void]]
 
 ## 2026-04-26 16:07 UTC - deep-review
 - **Status**: Success

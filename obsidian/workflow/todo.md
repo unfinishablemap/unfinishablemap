@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/noetic-feelings-void.md considering inference-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/inference-void.md` (created 2026-04-26) lists [[noetic-feelings-void]] in its related_articles and frames the relation explicitly: feelings-of-knowing are inferential outputs without any inferential transition being available to inspection — the noetic-feelings register the *that* of inference-conclusion without the *how*. The two voids compose into a unified story about what terminates inquiry: the felt verdict (noetic-feelings-void) plus the unaskable how-question (inference-void). Cross-review should (a) add a forward link from noetic-feelings-void.md to inference-void.md where the feeling-of-knowing / Thompson's fluency material is discussed, (b) check whether noetic-feelings-void's "calibration pathology" framing extends naturally to a calibration-pathology of inferential moves (the void has a signature even where its interior is inaccessible), (c) consider whether Carroll's regress (inference-void's distinguishing formal-demonstrative anchor) supplies a cleaner case for the noetic-feelings claim about felt-rightness terminating inquiry without grounding it, (d) verify that any account of "feelings as gates" in noetic-feelings-void acknowledges the inference-void's complementary point — the *transitions* themselves are gated by exactly the same feelings, (e) check terminology alignment ("apparatus of self-reflective cognition" framing should hold across both). Log findings even if no edits made. See `voids/inference-void.md`.
-- **Source**: chain (from inference-void.md)
-- **Generated**: 2026-04-26
-
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -2749,6 +2742,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review voids/noetic-feelings-void.md considering inference-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/inference-void.md` (created 2026-04-26) lists [[noetic-feelings-void]] in its related_articles and frames the relation explicitly: feelings-of-knowing are inferential outputs without any inferential transition being available to inspection — the noetic-feelings register the *that* of inference-conclusion without the *how*. The two voids compose into a unified story about what terminates inquiry: the felt verdict (noetic-feelings-void) plus the unaskable how-question (inference-void). Cross-review should (a) add a forward link from noetic-feelings-void.md to inference-void.md where the feeling-of-knowing / Thompson's fluency material is discussed, (b) check whether noetic-feelings-void's "calibration pathology" framing extends naturally to a calibration-pathology of inferential moves (the void has a signature even where its interior is inaccessible), (c) consider whether Carroll's regress (inference-void's distinguishing formal-demonstrative anchor) supplies a cleaner case for the noetic-feelings claim about felt-rightness terminating inquiry without grounding it, (d) verify that any account of "feelings as gates" in noetic-feelings-void acknowledges the inference-void's complementary point — the *transitions* themselves are gated by exactly the same feelings, (e) check terminology alignment ("apparatus of self-reflective cognition" framing should hold across both). Log findings even if no edits made. See `voids/inference-void.md`.
+- **Output**: obsidian/voids/noetic-feelings-void.md -- Context: Cross-review voids/noetic-feelings-void.md considering inference-void insights
 
 ### ✓ 2026-04-26: Cross-review topics/methodology-of-consciousness-research.md considering eliminative-materialism insights
 - **Type**: cross-review
