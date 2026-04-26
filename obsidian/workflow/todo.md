@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address pessimistic-review findings in topics/eliminative-materialism.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review (pessimistic-2026-04-26b) found six issues, two High severity. (1) The introspection-as-constitutive rebuttal is question-begging as written — recast as a foundational commitment defended by overall theoretical fit, not as a derived counter-argument. (2) The "parsimony has a bad track record in fundamental physics" historical argument uses three examples (heliocentrism, atomic theory, GR) that on closer inspection cut against the conclusion — replace with a more defensible domain-specific claim about hidden structure, or withdraw the universal historical claim. (3) Reconcile internal tension between "Honest Limitations" (concedes structural format of belief is revisable) and "Map's third tenet" paragraph (uses practical-indispensability of intentional psychology as if structure were not in play) — distinguish causal-efficacy commitment from structural-format commitment. (4) Engage Frankish's reply to the regress-against-illusionism (quasi-phenomenal vs phenomenal seeming distinction in §6 of 2016 paper) instead of presenting the regress as unanswered. (5) Add brief acknowledgement of predictive-processing/Clark/Hohwy as the contemporary descendant of the connectionist challenge. (6) Acknowledge the asymmetry in the Buddhist alliance (Madhyamaka extends dependent-origination to phenomenal events, not just self) — either flag or rework. Also: move self-citations (refs 18-19) from numbered references list to Further Reading; supply SEP date for ref 12. See pessimistic-2026-04-26b.md for detailed recommendations.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-26
+
 ### P2: Cross-review topics/reductionism-and-consciousness.md considering eliminative-materialism insights
 - **Type**: cross-review
 - **Status**: pending
