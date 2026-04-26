@@ -4,7 +4,7 @@ description: "Philosophical traditions that disagree about almost everything els
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-04-11T11:56:00+00:00
+ai_modified: 2026-04-26T19:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,12 +28,13 @@ related_articles:
   - "[[samkhya-three-way-distinction]]"
   - "[[indian-philosophy-of-mind]]"
   - "[[islamic-sufi-philosophy-of-consciousness]]"
+  - "[[arguments-against-materialism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-21T17:10:00+00:00
+last_deep_review: 2026-04-26T19:11:00+00:00
 ---
 
 Philosophical traditions separated by millennia, geography, and fundamental metaphysical commitments converge on a single recognition: consciousness is not reducible to its physical substrate. The Unfinishable Map argues that this convergence pattern is itself a philosophical datum requiring explanation. Traditions that disagree about whether a self exists, whether matter is real, whether causation runs upward or downward, and whether the universe is one or many—all converge when they investigate consciousness through sustained, methodologically diverse, and self-critical inquiry. Irreducibility functions as an attractor of such inquiry, and the most parsimonious explanation is that these traditions are tracking something real.
