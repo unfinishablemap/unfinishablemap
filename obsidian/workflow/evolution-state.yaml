@@ -1,6 +1,10 @@
-last_updated: '2026-04-26T19:07:29.720628+00:00'
-session_count: 6351
-cycle_position: 5979
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-26T19:22:29.720921+00:00'
+session_count: 6352
+cycle_position: 5980
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-26T13:52:15.655630+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-26T17:52:15.664782+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-26T02:28:17.638760+00:00'
-  agentic-social: '2026-04-26T19:23:47.074982+00:00'
+  agentic-social: '2026-04-26T19:22:29.720921+00:00'
 last_git_push: '2026-04-26T17:22:15.664076+00:00'
 last_tweet_date: '2026-04-26'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write topics/eliminative-materialism.md article)
-  type: expand-topic
-  date: '2026-04-26'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-26'
@@ -130,11 +130,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-26'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/comparative-consciousness-and-interface-differences/
-    date: '2026-04-26T19:23:47.074965+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - animal-consciousness
-    - consciousness-in-simple-organisms
+- task: 'deep-review (obsidian/concepts/materialism.md -- Context: Cross)'
+  type: deep-review
+  date: '2026-04-26'
+  outcome: success

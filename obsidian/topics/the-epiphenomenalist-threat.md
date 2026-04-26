@@ -2,9 +2,9 @@
 title: "The Epiphenomenalist Threat"
 description: "Epiphenomenalism isn't just one view among many—it's the default destination of most theories of consciousness. Understanding why this gravity well exists, why escape attempts fail, and what genuine escape requires."
 created: 2026-02-22
-modified: 2026-03-20
+modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-18T09:05:00+00:00
+ai_modified: 2026-04-26T19:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -33,7 +33,6 @@ related_articles:
   - "[[consciousness-and-causal-powers]]"
   - "[[evolutionary-case-for-mental-causation]]"
   - "[[ai-epiphenomenalism]]"
-  - "[[ai-epiphenomenalism]]"
   - "[[dualism]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[metaproblem-of-consciousness-under-dualism]]"
@@ -41,13 +40,14 @@ related_articles:
   - "[[placebo-effect-and-mental-causation]]"
   - "[[causal-closure-debate-historical-survey]]"
   - "[[illusionism]]"
+  - "[[eliminative-materialism]]"
   - "[[panpsychisms-combination-problem]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-03-22T10:57:00+00:00
+last_deep_review: 2026-04-26T19:37:00+00:00
 coalesced_from:
   - "/topics/epiphenomenalisms-gravity-well/"
 ---
@@ -136,7 +136,7 @@ Each strategy addresses a symptom—the *appearance* of causal inertness—rathe
 
 The pattern is consistent across positions:
 
-1. **Acknowledge that consciousness is real and distinct from physical description** (avoiding eliminativism).
+1. **Acknowledge that consciousness is real and distinct from physical description** (avoiding [[eliminative-materialism|eliminativism]]).
 2. **Accept that physical events have sufficient physical causes** (respecting science).
 3. **Discover that steps 1 and 2 leave no causal work for consciousness.**
 
@@ -220,8 +220,8 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[pain-consciousness-and-causal-power]] — Pain as the hardest case for epiphenomenalism: felt awfulness inseparable from motivation
 - [[content-specificity-of-mental-causation]] — The systematic mapping between meaning and physical effect that epiphenomenalism cannot explain
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dream intention-responsiveness and two-way communication studies as empirical evidence against epiphenomenalism
-- [[ai-epiphenomenalism]] — Why current AI architectures block the coupling channel consciousness needs
-- [[ai-epiphenomenalism]] — The nature-coupling distinction and its consequences for machine minds
+- [[ai-epiphenomenalism]] — The nature-coupling distinction and its consequences for machine minds: why current AI architectures block the coupling channel consciousness needs
+- [[eliminative-materialism]] — Adjacent stance denying step 1 of the gravity-well pattern; illusionism is its phenomenal-consciousness strand
 - [[self-reference-and-the-limits-of-physical-description]] — Formal mathematical case that physics is incomplete at the measurement interface
 - [[metaproblem-of-consciousness-under-dualism]] — Why positions in the gravity well fail the metaproblem diagnostic
 - [[dualism]] — The broader argument for taking consciousness as irreducible

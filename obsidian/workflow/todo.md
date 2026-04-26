@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/the-epiphenomenalist-threat.md considering eliminative-materialism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/eliminative-materialism.md (2026-04-26) deploys the self-stultification argument as its central rebuttal to elim-mat — the same argumentative structure that the-epiphenomenalist-threat.md treats as its master argument against epiphenomenalism. The two articles share load-bearing logical machinery and should cross-cite. the-epiphenomenalist-threat.md should (a) add inbound link to eliminative-materialism, (b) note that elim-mat is the strongest test case for the self-stultification framing — denying the existence of beliefs is more radical than merely denying their causal efficacy, (c) check whether the article's existing self-stultification section can reference the new article's treatment of the AI exception (programs may instantiate something belief-like even when their designers deny mental states), (d) ensure terminology between "epiphenomenal", "eliminated", and "illusory" is kept distinct. See /deep-review skill.
-- **Source**: chain (from topics/eliminative-materialism.md)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review topics/reductionism-and-consciousness.md considering eliminative-materialism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2763,6 +2756,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review topics/the-epiphenomenalist-threat.md considering eliminative-materialism insights
+- **Type**: cross-review
+- **Notes**: New article topics/eliminative-materialism.md (2026-04-26) deploys the self-stultification argument as its central rebuttal to elim-mat — the same argumentative structure that the-epiphenomenalist-threat.md treats as its master argument against epiphenomenalism. The two articles share load-bearing logical machinery and should cross-cite. the-epiphenomenalist-threat.md should (a) add inbound link to eliminative-materialism, (b) note that elim-mat is the strongest test case for the self-stultification framing — denying the existence of beliefs is more radical than merely denying their causal efficacy, (c) check whether the article's existing self-stultification section can reference the new article's treatment of the AI exception (programs may instantiate something belief-like even when their designers deny mental states), (d) ensure terminology between "epiphenomenal", "eliminated", and "illusory" is kept distinct. See /deep-review skill.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Cross-review topics/the-epiphenomenalist-threat.md considering eliminative-materialism insights
 
 ### ✓ 2026-04-26: Cross-review concepts/materialism.md considering eliminative-materialism insights
 - **Type**: cross-review

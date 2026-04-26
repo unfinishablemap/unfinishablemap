@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 19:23:00+00:00
+ai_modified: 2026-04-26 19:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 19:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-epiphenomenalist-threat]]
+- **Word count**: 3956 → 3970 (+14, soft_warning at 132% of 3000 target; length-neutral mode respected)
+- **Critical issues addressed**: 0 (article stable across eight prior reviews; no factual, attribution, or contradiction issues)
+- **Medium issues addressed**: 2 (missing cross-link to newly created [[eliminative-materialism]]; duplicate [[ai-epiphenomenalism]] entries in related_articles and Further Reading carried over from prior cross-reviews)
+- **Enhancements made**: Added wikilink at "avoiding eliminativism" in pattern section (zero-word change); added [[eliminative-materialism]] to related_articles and Further Reading with concise annotation framing it as adjacent to step 1 of the gravity-well pattern; removed duplicate [[ai-epiphenomenalism]] entries; merged two Further Reading annotations into one
+- **Stability note**: Eighth review confirms strong stability. Eliminativism is now properly housed in its own article; the threat article's scope (theories accepting consciousness) is the correct framing. Future reviews should not re-flag eliminativism engagement as missing — the cross-link is sufficient. Bedrock disagreements (decoherence timing, MWI dependency, Buddhist incompatibility, eliminativist scope) remain documented.
+- **Output**: [[reviews/deep-review-2026-04-26-the-epiphenomenalist-threat]]
 
 ## 2026-04-26 19:23 UTC - deep-review
 - **Status**: Success
