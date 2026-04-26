@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 22:37:00+00:00
+ai_modified: 2026-04-26 22:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 22:52 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/predictive-processing]]
+- **Word count**: 2827 → 2887 (+60)
+- **Critical issues addressed**: 1 (cross-link gap with new eliminative-materialism article — PP's relationship to classical eliminativism was unaddressed despite eliminative-materialism positioning PP as "softer eliminativism" and "contemporary descendant" of the connectionist challenge)
+- **Medium issues addressed**: 1 (length pressure managed via compression of Two Streams and Process Philosophy sections)
+- **Enhancements made**: 1 new subsection ("Soft Eliminativism About Folk Psychology") under "Does PP Solve the Hard Problem?"; bidirectional cross-link with [[eliminative-materialism]] established
+- **Output**: [[reviews/deep-review-2026-04-26-predictive-processing]]
 
 ## 2026-04-26 22:37 UTC - coalesce
 - **Status**: Abandoned (no good candidates)

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/predictive-processing.md considering eliminative-materialism's PP engagement
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Pessimistic-review Issue 5 (pessimistic-2026-04-26b) flagged that `topics/eliminative-materialism.md` missed engagement with predictive-processing/Clark/Hohwy as the contemporary descendant of the connectionist challenge. The refine task (completed today) addressed this by adding a brief PP-as-descendant-of-connectionism acknowledgement to eliminative-materialism. The reciprocal link in `concepts/predictive-processing.md` is now missing — predictive-processing.md does not yet cite eliminative-materialism, despite the connectionist-to-PP lineage now being load-bearing across both articles. Cross-review should (a) add inbound link from predictive-processing to eliminative-materialism in related_articles and prose, (b) note that PP inherits the connectionist argument's structural challenge to folk-psychological belief-ontology while differing in its predictive-coding emphasis, (c) examine whether predictive-processing.md's existing "Decoherence-proof consciousness" challenge section can reference eliminative-materialism's two-strand analysis (classical vs illusionist), (d) check terminology consistency between "quasi-phenomenal", "predictive-coding states", and "folk-psychological attitudes". Light-touch edit; goal is integration rather than rewrite. See pessimistic-2026-04-26b.md Issue 5 and the eliminative-materialism refine commit.
-- **Source**: chain (from refine-draft of eliminative-materialism)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review topics/buddhism-and-dualism.md considering eliminative-materialism's Madhyamaka acknowledgement
 - **Type**: cross-review
 - **Status**: pending
@@ -2812,6 +2805,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review concepts/predictive-processing.md considering eliminative-materialism's PP engagement
+- **Type**: cross-review
+- **Notes**: Pessimistic-review Issue 5 (pessimistic-2026-04-26b) flagged that `topics/eliminative-materialism.md` missed engagement with predictive-processing/Clark/Hohwy as the contemporary descendant of the connectionist challenge. The refine task (completed today) addressed this by adding a brief PP-as-descendant-of-connectionism acknowledgement to eliminative-materialism. The reciprocal link in `concepts/predictive-processing.md` is now missing — predictive-processing.md does not yet cite eliminative-materialism, despite the connectionist-to-PP lineage now being load-bearing across both articles. Cross-review should (a) add inbound link from predictive-processing to eliminative-materialism in related_articles and prose, (b) note that PP inherits the connectionist argument's structural challenge to folk-psychological belief-ontology while differing in its predictive-coding emphasis, (c) examine whether predictive-processing.md's existing "Decoherence-proof consciousness" challenge section can reference eliminative-materialism's two-strand analysis (classical vs illusionist), (d) check terminology consistency between "quasi-phenomenal", "predictive-coding states", and "folk-psychological attitudes". Light-touch edit; goal is integration rather than rewrite. See pessimistic-2026-04-26b.md Issue 5 and the eliminative-materialism refine commit.
+- **Output**: obsidian/concepts/predictive-processing.md -- Context: Cross-review concepts/predictive-processing.md considering eliminative-materialism's PP engagement
 
 ### ✓ 2026-04-26: Condense topics/phenomenal-authority-and-first-person-evidence.md (4630 words, 154% of soft target / 116% of hard threshold)
 - **Type**: condense

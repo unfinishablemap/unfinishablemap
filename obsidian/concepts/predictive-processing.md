@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-23T15:19:00+00:00
+ai_modified: 2026-04-26T22:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,6 +16,7 @@ concepts:
   - "[[filter-theory]]"
   - "[[metacognition]]"
   - "[[illusionism]]"
+  - "[[eliminative-materialism]]"
   - "[[introspection]]"
   - "[[witness-consciousness]]"
   - "[[attention-as-interface]]"
@@ -34,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-04-23T15:19:00+00:00
+last_deep_review: 2026-04-26T22:52:00+00:00
 ---
 
 Predictive processing (PP) proposes that the brain continuously generates predictions about incoming sensory information, comparing predictions against actual input. [[perception|Perception]] becomes active inference—the brain's "best guess" about reality—rather than passive reception. This framework has become one of the most influential in cognitive science.
@@ -62,13 +63,7 @@ But explaining that perception is constructive doesn't explain why the construct
 
 ## Two Streams: Hohwy and Clark
 
-Jakob Hohwy and Andy Clark represent two interpretations:
-
-**Hohwy** treats the brain as an inference engine behind a "veil" of sensory input. Perception provides only indirect access to the external world. Mind is located inside the skull.
-
-**Clark** emphasizes the whole organism and environment. Mind extends beyond the brain through bodily and environmental scaffolding. PP explains how organisms actively shape their sensory niches.
-
-Both agree on the computational core but differ on cognitive boundaries.
+Jakob Hohwy and Andy Clark differ on cognitive boundaries. Hohwy locates mind inside the skull, treating perception as inference behind a "veil" of sensory input. Clark extends mind through bodily and environmental scaffolding, emphasising how organisms actively shape their sensory niches. Both share the computational core.
 
 ## PP and Consciousness
 
@@ -95,6 +90,10 @@ Clark, Friston, and Wilkinson address why we *think* consciousness is hard to ex
 PP offers a sophisticated [[concepts/functionalism|functionalist]] account. But like other functionalist theories, it faces the standard objection: why should any computational process, however complex, be accompanied by phenomenal experience? (See [[cognitive-science-of-dualism]] for how this limitation extends across cognitive science generally: the field's formalisms describe what the brain *computes* while remaining silent on what it *experiences*.)
 
 Critics note that "we seem to experience moderate-sized specimens of dry goods, not probability density distributions." Mathematical prediction error minimization doesn't obviously generate [[qualia]].
+
+### Soft Eliminativism About Folk Psychology
+
+PP also bears on classical [[eliminative-materialism|eliminative materialism]] in a way distinct from its bearing on phenomenal consciousness. Where Paul Churchland eliminates beliefs and desires as fictions of a stagnant theory, PP preserves intentional vocabulary as inferential summary over hierarchical predictive processes—a softer eliminativism that denies propositional attitudes carve the computational architecture at any joint while granting they track real higher-level dynamics. This is the contemporary descendant of the Ramsey-Stich-Garon connectionist challenge: a positive cognitive-science model in which folk-psychological states are explained rather than eliminated. The structural-format question (do beliefs have sentence-shaped structure?) is separable from the phenomenal question (why does any of this feel like anything?), and PP's answer to the first does not settle the second.
 
 ### Precision and Salience
 
@@ -150,15 +149,13 @@ The 2025 Demirel findings establish lucid dreaming as a genuinely distinct consc
 
 ## Process Philosophy Perspective
 
-Alfred North Whitehead's process philosophy offers a framework for understanding PP's relationship to consciousness. For Whitehead, reality consists of "actual occasions"—momentary experiential events that prehend (grasp) their predecessors and synthesize them into novel unity through "concrescence."
+Alfred North Whitehead's process philosophy frames PP's relationship to consciousness through "actual occasions"—momentary experiential events that prehend (grasp) their predecessors and synthesise them into novel unity through "concrescence."
 
-**Prediction as prehension.** PP's hierarchical predictions resemble Whitehead's prehension—each level grasping what lower levels provide. But for Whitehead, prehension is inherently experiential; there is something it is like to grasp antecedent occasions. PP describes the *structure* of prehension without capturing its experiential *character*.
+**Prediction as prehension.** PP's hierarchical predictions resemble prehension—each level grasping what lower levels provide. But Whitehead's prehension is inherently experiential: there is something it is like to grasp antecedent occasions. PP describes the *structure* of prehension without capturing its experiential *character*.
 
-**Concrescence and prediction error.** The moment when prediction meets reality and is updated resembles concrescence—the synthesis of multiple inputs into a novel occasion. But Whitehead held that each concrescence involves a "subjective aim" directing the synthesis. PP replaces subjective aim with error minimization, which begs the question of why minimization would feel like anything.
+**Concrescence and prediction error.** Prediction-meeting-reality resembles concrescence—synthesis of multiple inputs into a novel occasion. But each concrescence involves a "subjective aim" directing the synthesis. PP replaces subjective aim with error minimisation, which begs the question of why minimisation would feel like anything.
 
-**Eternal objects and precision.** PP's precision weighting—determining which prediction errors matter—resonates with Whitehead's "eternal objects" (pure possibilities) that are selectively ingressed into actual occasions. But Whitehead thought the selection of eternal objects involved genuine creativity and value, not just statistical optimization.
-
-The process perspective suggests PP captures something real about experiential structure while missing what makes that structure experiential.
+**Eternal objects and precision.** PP's precision weighting resonates with Whitehead's "eternal objects" (pure possibilities) selectively ingressed into actual occasions—but Whitehead held the selection involved genuine creativity and value, not just statistical optimisation.
 
 ## Contemplative Evidence
 
@@ -214,6 +211,7 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 - [[dream-consciousness]] — Dreams as unconstrained prediction
 - [[filter-theory]] — Alternative interpretation of dream evidence
 - [[illusionism]] — The radical physicalist interpretation of PP
+- [[eliminative-materialism]] — Why PP figures as a softer alternative to Churchland's classical eliminativism
 - [[introspection]] — First-person access to predictive processes
 - [[witness-consciousness]] — The observer that watches predictions
 - [[decoherence]] — Challenge to quantum-consciousness interpretations
