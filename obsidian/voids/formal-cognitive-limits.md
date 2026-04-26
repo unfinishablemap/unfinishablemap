@@ -2,9 +2,9 @@
 title: "Formal Cognitive Limits: Computation and Incompleteness"
 description: "Mathematics has proved that certain truths are unreachable by any computational system. Gödel, Turing, Rice, and Chaitin define voids whose existence is mathematically certain—though whether consciousness itself is bound by them depends on whether consciousness is computational."
 created: 2026-01-27
-modified: 2026-04-17
+modified: 2026-04-26
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-04-26T23:37:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -12,6 +12,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[simulation]]"
   - "[[consciousness-and-mathematics]]"
+  - "[[carrolls-regress]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -25,12 +26,13 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[concession-convergence-philosophy-of-mathematics]]"
   - "[[self-transcendence-void]]"
+  - "[[inference-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated: null
-last_deep_review: 2026-04-17T01:41:00+00:00
+last_deep_review: 2026-04-26T23:37:00+00:00
 coalesced_from:
   - "/voids/computational-cognitive-limits/"
   - "/voids/incompleteness-void/"
@@ -38,7 +40,7 @@ coalesced_from:
 
 Mathematics has proved that certain truths cannot be reached by any computational system. The halting problem, Gödel's incompleteness theorems, Rice's theorem, and Chaitin's incompleteness establish formal boundaries on what any algorithmic process can determine. These are proved for computation as such, permanent for any Turing-computational system.
 
-Whether these limits constrain consciousness depends on whether consciousness is computational. If it is, these theorems bound minds as well as machines. If consciousness transcends computation—as the Map's [[tenets#^dualism|dualism]] suggests—the same theorems constrain machines while leaving open what consciousness may reach. Only under the computational hypothesis do Gödel and Turing bound what consciousness can know.
+Whether these limits constrain consciousness depends on whether consciousness is computational. If it is, these theorems bound minds as well as machines. If consciousness transcends computation—as the Map's [[tenets#^dualism|dualism]] suggests—the same theorems constrain machines while leaving open what consciousness may reach.
 
 ## The Halting Problem
 
@@ -65,6 +67,8 @@ J.R. Lucas (1961) and Roger Penrose (1989, 1994) argued that Gödel's theorems s
 Most philosophers reject the argument. The **consistency objection** (Putnam, others): Gödel's second theorem states that a consistent system cannot prove its own consistency. Applied to human minds—which demonstrably make logical errors—we cannot establish our own cognition is consistent, so the transcendence argument may not apply. The **mechanism objection** (Feferman): mathematicians progress by trial, error, and insight, yet sophisticated machines might do the same. The gap might be practical rather than principled.
 
 The Map's position: even if Lucas-Penrose fails, the *structure* of the debate illuminates the void. We face either unexplained transcendence or absolutely inaccessible truths. Gödel's disjunction holds regardless.
+
+Lewis Carroll's 1895 dialogue "What the Tortoise Said to Achilles" runs parallel pressure 36 years before Gödel. The Tortoise refuses conclusion *Z* from premises *A* and *B* unless given a further premise *C* ("if A and B, then Z"); once granted, demands *D*, *ad infinitum*. On the inferentialist reading developed by Pascal Engel and others, this shows explicit rules cannot, by themselves, produce inference: a non-rule operation—*taking-as*—must convert premises into conclusion. See [[carrolls-regress]] and [[inference-void]]; the resemblance to Gödel's lineage is thematic rather than formal—Carroll's is a dialectical regress about how rules apply, not a theorem within a specified system.
 
 ## Rice's Theorem and Semantic Opacity
 
@@ -96,7 +100,7 @@ Erik Hoel extends Gödel's results to science itself: "There is no accepted lawf
 
 ## Cognitive Architecture and Mathematical Access
 
-Formal limits concern what any system cannot prove. A related limit concerns what human minds cannot *comprehend* even when formal proofs exist. The [[mathematical-void|mathematical void]] explores this: we prove theorems about transfinite cardinals and n-dimensional spaces while lacking genuine grasp of what these objects are. Dehaene's research identifies biologically grounded systems for small numbers and magnitude estimation, while cultures like the Pirahã lack exact arithmetic—demonstrating that mathematical concepts require cultural scaffolding beyond biology. Truths may exist that our architecture cannot grasp, and the boundary between what we *can* and *cannot* think mathematically may itself be inaccessible from within.
+Formal limits concern what any system cannot prove. A related limit concerns what human minds cannot *comprehend* even when formal proofs exist. The [[mathematical-void|mathematical void]] explores this: we prove theorems about transfinite cardinals and n-dimensional spaces while lacking genuine grasp of what these objects are. Truths may exist that our architecture cannot grasp, and the boundary between what we *can* and *cannot* think mathematically may itself be inaccessible from within.
 
 ## Phenomenology of the Edge
 
@@ -146,6 +150,8 @@ The open question concerns whether this void constrains consciousness. Two devel
 - [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — Why the map of cognitive voids cannot contain itself, and the method of knowing through negation
 - [[consciousness-and-mathematics]] — The epistemology and phenomenology of mathematical understanding
 - [[concession-convergence-philosophy-of-mathematics]] — How formalism's Gödelian concession fits among four independent convergences
+- [[carrolls-regress]] — Lewis Carroll's 1895 regress and the inferentialist reading
+- [[inference-void]] — Structural opacity of inferential transitions to the consciousness performing them
 
 ## References
 
@@ -164,3 +170,5 @@ The open question concerns whether this void constrains consciousness. Two devel
 13. Feferman, S. (1995). "Penrose's Gödelian argument." *Psyche*, 2(7).
 14. Wigner, E. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications on Pure and Applied Mathematics*, 13(1), 1-14.
 15. Dehaene, S. (2011). *The Number Sense: How the Mind Creates Mathematics*. Oxford University Press.
+16. Carroll, L. (1895). "What the Tortoise Said to Achilles." *Mind*, 4(14), 278-280.
+17. Engel, P. The Philosophical Significance of Carroll's Regress. HAL working paper hal-03675073v1.

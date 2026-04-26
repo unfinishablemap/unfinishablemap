@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/formal-cognitive-limits.md considering carrolls-regress concept page
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-26.md Cross-Linking Suggestions row 4. `concepts/carrolls-regress.md` (created 2026-04-26) treats Carroll's 1895 regress as the philosophical ancestor of the Gödel-Turing-Chaitin lineage of formal results on cognitive limits. `topics/formal-cognitive-limits.md` already cites Carroll as a family-resemblance predecessor but does not yet cite the dedicated concept page. Cross-review should (a) add reciprocal link from formal-cognitive-limits to carrolls-regress in related_articles and prose, (b) replace any inline re-establishment of Carroll's regress with delegation to the concept page, (c) examine whether the formal-cognitive-limits article's treatment of the proof-theoretic / inferentialist split can now reference the concept page's two-readings structure rather than re-establish it, (d) check terminology consistency between "rule-following paradox" framings (Wittgenstein vs Brandom vs Polanyi) across the two articles. Light-touch edit. See optimistic-2026-04-26.md Cross-Linking Suggestions table row 4.
-- **Source**: chain (from expand-topic of carrolls-regress)
-- **Generated**: 2026-04-26
-
 ### P2: Research Hutto-Myin's Hard Problem of Content for radical-enactivism engagement
 - **Type**: research-topic
 - **Status**: pending
@@ -2798,6 +2791,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review topics/formal-cognitive-limits.md considering carrolls-regress concept page
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-26.md Cross-Linking Suggestions row 4. `concepts/carrolls-regress.md` (created 2026-04-26) treats Carroll's 1895 regress as the philosophical ancestor of the Gödel-Turing-Chaitin lineage of formal results on cognitive limits. `topics/formal-cognitive-limits.md` already cites Carroll as a family-resemblance predecessor but does not yet cite the dedicated concept page. Cross-review should (a) add reciprocal link from formal-cognitive-limits to carrolls-regress in related_articles and prose, (b) replace any inline re-establishment of Carroll's regress with delegation to the concept page, (c) examine whether the formal-cognitive-limits article's treatment of the proof-theoretic / inferentialist split can now reference the concept page's two-readings structure rather than re-establish it, (d) check terminology consistency between "rule-following paradox" framings (Wittgenstein vs Brandom vs Polanyi) across the two articles. Light-touch edit. See optimistic-2026-04-26.md Cross-Linking Suggestions table row 4.
+- **Output**: obsidian/voids/formal-cognitive-limits.md -- Context: Cross-review topics/formal-cognitive-limits.md considering carrolls-regress concept page
 
 ### ✓ 2026-04-26: Cross-review topics/buddhism-and-dualism.md considering eliminative-materialism's Madhyamaka acknowledgement
 - **Type**: cross-review

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 23:25:00+00:00
+ai_modified: 2026-04-26 23:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 23:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/formal-cognitive-limits]]
+- **Word count**: 2008 → 2116 (+108)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (cross-review pass — article was stable from 2026-04-17, no re-litigation of bedrock disagreements)
+- **Enhancements made**: Integrated [[carrolls-regress]] (newly created concept page) and [[inference-void]] as family-resemblance predecessors in the structural-incompleteness lineage; added Carroll/Engel paragraph at end of Lucas-Penrose section noting the regress runs parallel pressure 36 years before Gödel under the inferentialist reading; bidirectional cross-linking now established (inference-void already named formal-cognitive-limits as descendant); Carroll (1895) and Engel HAL paper added to References; length-neutral trims (intro redundancy + Dehaene/Pirahã example covered at mathematical-void) compensate for the addition
+- **Output**: [[reviews/deep-review-2026-04-26-formal-cognitive-limits]]
 
 ## 2026-04-26 23:25 UTC - deep-review
 - **Status**: Success
