@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26T02:29:00+00:00
+ai_modified: 2026-04-26T13:52:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write topics/eliminative-materialism.md article
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in `obsidian/research/eliminative-materialism-2026-04-26.md` (2026-04-26) and not yet synthesised into an article. The Map currently engages eliminativism only locally (Churchland framings in plenitude-void, illusionism via Frankish in filter-theory and apophatic-cartography, regress-against-illusionism in personal-identity), and the 2026-04-26 deep-review of `topics/methodology-of-consciousness-research.md` flagged that "Eliminativism engagement continues to be deferred (now seven reviews). This is a clear signal: build a dedicated article on eliminative materialism rather than expanding this one." Article should (a) preserve the research note's distinction between classical EM about *propositional attitudes* (Churchland 1981) and contemporary illusionism / EM about *phenomenal consciousness* (Frankish 2016, Dennett 2016, Kammerer 2021) as two distinct positions, (b) present the strongest forms of each — Paul Churchland's connectionist replacement programme, Patricia Churchland's neurophilosophical case, Frankish's illusionist quasi-phenomenal-properties strategy, (c) catalogue the principal objections including Boghossian's self-refutation, Hutto-Myin's hard-problem-of-content, the regress-against-illusionism family ("to whom does the illusion appear?"), and the Moorean responses, (d) locate the Map's diagnosis specifically: eliminativism over-applies Occam's Razor (Tenet 5) and treats introspection as theory-laden in a way the Map argues against, (e) preserve the Map's actual stance — eliminativism-about-phenomenal-consciousness rejection, not eliminativism-rejection wholesale, (f) honest limitation: the connectionism / Ramsey-Stich-Garon argument has theoretical weight that genuine engagement requires conceding even if rejecting the conclusion. Medium scope (2500-3500 words). Target: `topics/` (~230/250, has 20 slots). Tenet alignment: Dualism (load-bearing — eliminativism is the most direct philosophical antagonist), Bidirectional Interaction, Minimal Quantum Interaction, Occam's Razor Has Limits (the methodological critique). Cross-link candidates: reductionism-and-consciousness, arguments-against-materialism, hard-problem-of-consciousness, illusionism, filter-theory, apophatic-cartography, plenitude-void, personal-identity, methodology-of-consciousness-research. See research note for full source map. See /expand-topic skill.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-26
+
+### P2: Refine voids/void-as-ground-of-meaning.md to integrate Buddhist/Eastern parallels
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Research completed in `obsidian/research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25.md` (2026-04-25) and not yet integrated. The research note explicitly identifies the highest-value follow-up as revising the existing article rather than writing a separate piece — `voids/void-as-ground-of-meaning.md` already invokes "convergence across traditions" via Heidegger / Cusanus / Wittgenstein / Levinas / Derrida / Borges but limits itself to Western thinkers. Integration should (a) add a section on Madhyamaka *śūnyatā* / *pratītyasamutpāda* — Nāgārjuna's two-truths doctrine and self-emptying-of-emptiness as the closest Eastern structural parallel to the figure-ground argument and the meta-void's recursive self-undermining worry, (b) cite Kyoto School (Nishida → Nishitani) "overcoming nihilism through nihilism" as the most direct Eastern precedent for the Map's overall project, (c) introduce Daoist *wu* (especially Daodejing 11) for the functional register the Western convergences lack, (d) note Zen *mu* / Dōgen for the lived-vs-thought distinction relevant to the article's self-undermining worry, (e) acknowledge the tenet-level tension: Buddhist *anātman* against the Map's [[zahavian-minimal-self]] / indexical-identity commitments — flag for future treatment rather than resolve, (f) cite primary scholarship (Siderits & Garfield, Nelson, Blomberg & Żywiczyński 2021 *Topoi*) per the research note's appropriation-distortion warning, (g) honest scope: structural cognation does not entail philosophical agreement; the article should preserve its existing argumentative spine while expanding the convergence base. Target file: `obsidian/voids/void-as-ground-of-meaning.md`. See research note for source map and proposed integration points.
+- **Source**: chain (from research-topic completion 2026-04-25)
+- **Generated**: 2026-04-26
+
+### P2: Cross-review question-formation-void.md considering inference-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `voids/inference-void.md` (created 2026-04-26 via expand-topic from `research/voids-inference-void-2026-04-26.md`) explicitly positions itself in the second-order cluster alongside [[question-formation-void]], [[epistemic-horizon-void]], [[categorial-void]], and [[plenitude-void]]. The new article frames the parallel structurally: "the inference void shadows logical reasoning the way the [[question-formation-void|question formation void]] shadows formulation and the [[epistemic-horizon-void|epistemic horizon void]] shadows estimation." question-formation-void.md does not yet acknowledge the inference-void as a fellow second-order void. Cross-review should (a) add a forward link from question-formation-void.md to inference-void.md in the cluster-of-second-order-voids passage (currently lines 40 and elsewhere), (b) consider whether the question-formation argument can be sharpened by Carroll's regress as a *formally demonstrable* second-order limit (the inference void offers a proof-style demonstration that question-formation-void currently cannot match), (c) check whether the relation "questions never posed do not appear as gaps; they appear as nothing at all" has a parallel in inference-void's "the move between premises and conclusions is invisible" worth naming, (d) verify terminology alignment ("apparatus of self-reflective cognition" framing should hold across both), (e) consider adding a methodological note that the four sibling voids may have *different evidential profiles* — apophatic, formal-demonstrative, empirical — and the cluster is strengthened by the variety. Log findings even if no edits are made. See `voids/inference-void.md`.
+- **Source**: chain (from expand-topic completion 2026-04-26)
+- **Generated**: 2026-04-26
+
+### P2: Cross-review epistemic-horizon-void.md considering inference-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article `voids/inference-void.md` (created 2026-04-26) frames itself as a sibling of epistemic-horizon-void in the second-order cluster: epistemic-horizon-void shadows estimation; inference-void shadows the move from premise to conclusion. Cross-review should (a) add forward link from epistemic-horizon-void.md to inference-void.md where the second-order cluster is named, (b) check whether the inheritance-problem worry (epistemic-horizon-void lines 64-74 — "Does the Map Inherit Its Own Horizon?") has a structural sibling in inference-void: any *inspection* of an inference must itself proceed by inference, generating the same self-referential limit-application problem the inheritance-problem treats, (c) consider whether the two voids compose: a mind that cannot estimate the scope of what it cannot form (epistemic-horizon × question-formation) and that also cannot inspect the inferential moves it does perform (inference-void) faces a triply layered self-opacity worth naming explicitly, (d) verify that any "estimation under uncertainty" treatment in epistemic-horizon-void acknowledges that the *estimation procedure itself* is composed of inferences whose moves are opaque — strengthens rather than competes with the void's main claim, (e) check terminology consistency on "second-order" and "shadows a first-order capacity" framings. Log findings even if no edits are made. See `voids/inference-void.md`.
+- **Source**: chain (from expand-topic completion 2026-04-26)
+- **Generated**: 2026-04-26
 
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic

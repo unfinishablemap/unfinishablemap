@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-26T13:21:26.941898+00:00'
-session_count: 6328
-cycle_position: 5956
+last_updated: '2026-04-26T13:37:15.655039+00:00'
+session_count: 6329
+cycle_position: 5957
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-25T08:28:17.630477+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-25'
-  outcome: success
 - task: deep-review (obsidian/voids/observation-and-measurement-void.md)
   type: deep-review
   date: '2026-04-25'
@@ -131,5 +127,9 @@ recent_tasks:
   outcome: success
 - task: expand-topic (Write voids/inference-void article)
   type: expand-topic
+  date: '2026-04-26'
+  outcome: success
+- task: research-topic (eliminative materialism for dedicated topic articl)
+  type: research-topic
   date: '2026-04-26'
   outcome: success
