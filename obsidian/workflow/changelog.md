@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 02:36:00+00:00
+ai_modified: 2026-04-26 02:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 02:50 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Inference Void
+- **Category**: Mixed (Unexplorable + Occluded)
+- **Output**: [[research/voids-inference-void-2026-04-26]]
+- **Key finding**: Carroll's regress (1895) and Wittgenstein's rule-following paradox provide formal demonstrations that inferential transitions cannot be reduced to explicit rules; the *taking-as* operation that converts premises into conclusion is structurally invisible to the consciousness performing it. Distinct from noetic-feelings-void (which concerns felt epistemic verdicts): this void is about the transition itself, regardless of whether warrant-feelings attend it. Substrate-neutral — mechanistic interpretability of LLMs has not dissolved the void, suggesting it is a property of composite cognition rather than a human accident.
+- **Section status**: voids at 96/100 (4 slots remaining)
 
 ## 2026-04-26 02:36 UTC - refine-draft
 - **Status**: Success
