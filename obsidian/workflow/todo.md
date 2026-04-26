@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for Constitutive Observation vs Referring Observation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-26 (New Concept Pages Needed). The load-bearing epistemic distinction in `topics/eliminative-materialism.md`'s response to the introspection-as-theory-laden move: *constitutive* observation has a different epistemic status from *referring* observation because the observation is constitutive of what is observed (the observation is not of an observation-independent target). Currently the distinction is locked inside the eliminative-materialism article and used briefly in phenomenal-authority. A concept page would let future articles invoke the distinction across `topics/phenomenal-authority-and-first-person-evidence`, `topics/hard-problem-of-consciousness`, `concepts/dualism`, `topics/arguments-against-materialism`, and `concepts/illusionism` without re-establishing it. Concept page would (a) state the distinction precisely with worked examples (naked-eye astronomy as paradigm of referring observation; first-person phenomenal observation as paradigm of constitutive observation), (b) catalogue Map articles where the distinction sharpens existing claims, (c) examine what philosophical work the distinction does (it underwrites a non-question-begging response to the introspection-as-theory-laden move *as an asymmetry*, not a defeater), (d) connect to Russell's distinction between knowledge by acquaintance and knowledge by description as a partial precursor, (e) honest limitation: illusionists deny there is a constitutive relation; the distinction therefore identifies the location of bedrock disagreement rather than resolving it. Short scope (1200-1600 words). Target: `concepts/` (~226/250, has 24 slots). Tenet alignment: Dualism (load-bearing — supports the asymmetric-evidence move that does work for Tenet 1), Occam's Razor Has Limits (parsimony move via structural justification). See optimistic-2026-04-26.md "New Concept Pages Needed" section and `topics/eliminative-materialism.md` lines 89-90.
-- **Source**: gap_analysis (concept mentioned but not defined; load-bearing in published articles)
-- **Generated**: 2026-04-26
-
 ### P2: Create concept page for Carroll's 1895 Regress
 - **Type**: expand-topic
 - **Status**: pending
@@ -2777,6 +2770,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Create concept page for Constitutive Observation vs Referring Observation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-26 (New Concept Pages Needed). The load-bearing epistemic distinction in `topics/eliminative-materialism.md`'s response to the introspection-as-theory-laden move: *constitutive* observation has a different epistemic status from *referring* observation because the observation is constitutive of what is observed (the observation is not of an observation-independent target). Currently the distinction is locked inside the eliminative-materialism article and used briefly in phenomenal-authority. A concept page would let future articles invoke the distinction across `topics/phenomenal-authority-and-first-person-evidence`, `topics/hard-problem-of-consciousness`, `concepts/dualism`, `topics/arguments-against-materialism`, and `concepts/illusionism` without re-establishing it. Concept page would (a) state the distinction precisely with worked examples (naked-eye astronomy as paradigm of referring observation; first-person phenomenal observation as paradigm of constitutive observation), (b) catalogue Map articles where the distinction sharpens existing claims, (c) examine what philosophical work the distinction does (it underwrites a non-question-begging response to the introspection-as-theory-laden move *as an asymmetry*, not a defeater), (d) connect to Russell's distinction between knowledge by acquaintance and knowledge by description as a partial precursor, (e) honest limitation: illusionists deny there is a constitutive relation; the distinction therefore identifies the location of bedrock disagreement rather than resolving it. Short scope (1200-1600 words). Target: `concepts/` (~226/250, has 24 slots). Tenet alignment: Dualism (load-bearing — supports the asymmetric-evidence move that does work for Tenet 1), Occam's Razor Has Limits (parsimony move via structural justification). See optimistic-2026-04-26.md "New Concept Pages Needed" section and `topics/eliminative-materialism.md` lines 89-90.
+- **Output**: Create concept page for Constitutive Observation vs Referring Observation
 
 ### ✓ 2026-04-26: Refine-draft topics/phenomenal-authority-and-first-person-evidence.md to incorporate constitutive-observation framing
 - **Type**: refine-draft

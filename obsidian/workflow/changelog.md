@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 20:37:00+00:00
+ai_modified: 2026-04-26 20:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 20:54 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Constitutive vs Referring Observation
+- **Output**: [[concepts/constitutive-vs-referring-observation]]
+- **Word count**: 1838
+- **Based on research**: no (built from existing distinction articulated in `topics/phenomenal-authority-and-first-person-evidence.md` and `topics/eliminative-materialism.md`)
+- **Notes**: New concept page extracts the load-bearing epistemic distinction from the eliminative-materialism and phenomenal-authority articles into a citable standalone concept. Article (a) states the distinction precisely with naked-eye astronomy as referring-paradigm and first-person phenomenal observation as constitutive-paradigm, (b) connects to Russell's knowledge-by-acquaintance/description as partial precursor (overlap: phenomenal acquaintance is constitutive observation; divergence: Russell's is epistemological, this is metaphysical), (c) examines the philosophical work the distinction does — underwrites a non-question-begging response to introspection-as-theory-laden as an *asymmetry*, not a knockdown defeater, (d) catalogues five Map articles where the distinction sharpens existing claims, (e) honest limitation acknowledges illusionists deny the constitutive relation, so the framing locates bedrock disagreement rather than resolving it. Tenet alignment: Tenet 1 (Dualism — supports asymmetric-evidence move) and Tenet 5 (Occam's Razor Has Limits — parsimony reach across constitutive/referring divide). Two self-citations to source articles. No apex articles reference the new page; no follow-up apex-evolve task needed.
 
 ## 2026-04-26 20:37 UTC - deep-review
 - **Status**: Success
