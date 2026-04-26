@@ -4,7 +4,7 @@ description: "Indian, Islamic, African, and Japanese traditions independently re
 created: 2026-02-14
 modified: 2026-02-14
 human_modified:
-ai_modified: 2026-03-30T07:35:00+00:00
+ai_modified: 2026-04-26T17:22:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -37,7 +37,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-14
 last_curated:
-last_deep_review: 2026-03-21T05:09:00+00:00
+last_deep_review: 2026-04-26T17:22:00+00:00
 ---
 
 David Chalmers named the hard problem of consciousness in 1995, but the underlying puzzle—why subjective experience exists at all, and how it relates to the physical world—was recognized independently across multiple philosophical traditions spanning thousands of years. The Unfinishable Map argues that this cross-cultural convergence is significant: when Indian, Islamic, African, and Japanese traditions each identify something irreducible about consciousness through independent paths, they may be tracking a real feature of reality. But the convergence is not universal—Chinese philosophical traditions largely dissolve rather than generate the hard problem—and this article takes that challenge seriously.
@@ -50,7 +50,7 @@ Sāṃkhya philosophy, one of India's six orthodox schools, posits two irreducib
 
 Sāṃkhya's dualism is more radical than Descartes'. In Cartesian dualism, mind thinks and body extends. In Sāṃkhya, *all* mental activity—including mind (*manas*), ego (*ahaṃkāra*), and intellect (*buddhi*)—belongs to *Prakṛti*. Consciousness (*Puruṣa*) is pure witnessing, changeless and causally inert. This separates phenomenal awareness from cognitive processing more sharply than any Western formulation.
 
-The appearance of consciousness in living beings occurs when *sattva* (clarity) predominates among *Prakṛti*'s three qualities, allowing matter to "reflect" *Puruṣa*. This is not emergence—consciousness does not arise from material complexity. It is reflection: consciousness was always present; matter merely becomes transparent to it. This resonates with the [[filter-theory]]—the view that brains transmit or filter consciousness rather than producing it.
+The appearance of consciousness in living beings occurs when *sattva* (clarity) predominates among *Prakṛti*'s three qualities, allowing matter to "reflect" *Puruṣa*. The mechanism is reflection rather than emergence: consciousness was always present, and matter merely becomes transparent to it as material complexity organises around clarity. This resonates with the [[filter-theory]]—the view that brains transmit or filter consciousness rather than producing it.
 
 This framing speaks to the explanatory gap. Where Chalmers asks why physical processing is accompanied by experience, Sāṃkhya answers: it is not. Experience belongs to a fundamentally different order. No arrangement of *Prakṛti* produces *Puruṣa*; the most that matter achieves is ceasing to obstruct what was always there.
 
@@ -90,9 +90,9 @@ Buddhism sidesteps the hard problem by starting from experience rather than from
 
 Chinese philosophical traditions—Confucianism, Daoism, Neo-Confucianism—largely do not generate the hard problem because they never separated consciousness from the natural order. The base categories are *qi* (vital force), *li* (principle/pattern), and *Dao* (the Way)—none of which maps onto "mental" versus "physical." Their organicism—holistic correlation rather than reduction, comprehensive integration rather than dualism—means the explanatory gap never opens.
 
-Daoism rejects the subject-object distinction that makes the hard problem arise. The *Dao* precedes all distinctions, including that between consciousness and matter. This is not evasion—it reflects a fundamentally different ontological starting point in which the question "how does matter produce consciousness?" is malformed rather than unanswered.
+Daoism rejects the subject-object distinction that makes the hard problem arise. The *Dao* precedes all distinctions, including that between consciousness and matter. The Daoist position reflects a fundamentally different ontological starting point rather than evasion: the question "how does matter produce consciousness?" is malformed rather than unanswered.
 
-Wang Yangming (1472–1529), the Neo-Confucian, came closest to a consciousness-centred position with his claim that "mind is principle" (*xin ji li*). His concept of *liangzhi* (innate knowing) treats consciousness as inherently active and practical: not a passive spectator of an external world but the source of all reason and order.
+Wang Yangming (1472–1529), the Neo-Confucian, came closest to a consciousness-centred position with his claim that "mind is principle" (*xin ji li*). His concept of *liangzhi* (innate knowing) treats consciousness as inherently active and practical—the source of all reason and order, engaged with the world rather than spectating it.
 
 The Chinese challenge to the Map is genuine and deserves serious engagement. If the hard problem depends on a mind-matter split that some traditions never made, the problem may be framework-dependent—an artifact of particular ontological assumptions rather than a universal feature of reality. This possibility weakens the cross-cultural convergence argument: one cannot count traditions that share the framework as independent evidence while dismissing traditions that reject the framework as insufficiently attentive.
 
