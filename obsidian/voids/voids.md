@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-04-24
 human_modified: 2026-01-08
-ai_modified: 2026-04-25T01:29:00+00:00
+ai_modified: 2026-04-26T02:36:00+00:00
 draft: false
 last_deep_review: 2026-04-21T01:38:00+00:00
 topics: []
@@ -67,6 +67,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — The method of knowing through negation, and why any such catalog is constitutively incomplete
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [[epistemic-horizon-void|The Epistemic Horizon Void]] — The second-order void that shadows every other: why consciousness cannot estimate the total scope of what it does not know from within the limited system doing the estimating (created 2026-04-23)
+- [[question-formation-void|The Question Formation Void]] — The method-horizon void: a constraint on which questions a mind can formulate, distinct from constraints on which answers it can reach; mapping by negation can only negate what is already askable (created 2026-04-24)
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — Why cognitive limits are preconditions for meaning, not merely obstacles
 
 ### Specific Voids
@@ -86,6 +87,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[normative-void|The Normative Void]] — Moral truths beyond human cognitive reach
 - [[inaccessible-past|The Inaccessible Past]] — Why past conscious states cannot be re-entered, only reconstructed
 - [[self-opacity|The Unobservable Self]] — The subject that cannot be its own object
+- [[source-attribution-void|The Source-Attribution Void]] — Why mental content lacks native origin tags: choice blindness, cryptomnesia, and source amnesia reveal that introspection reconstructs origin from surface features rather than reading it out (created 2026-04-21)
 - [[witnessing-void|The Witnessing Void]] — The distinct limit one level deeper: witnessing *qua operation* cannot be objectified at the first order, not only the owner of experience (created 2026-04-24)
 - [[erasure-void|The Erasure Void]] — Why consciousness cannot inventory its own deletions: lost capacities take their detection mechanisms with them
 - [[death-void|The Death Void]] — Consciousness cannot represent its own absence
@@ -140,6 +142,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[the-surplus-void|The Surplus Void]] — Why experience delivers richness far beyond survival requirements
 - [[plenitude-void|The Plenitude Void]] — Why conscious experience seems richer than can be reported or checked, and why every introspective probe for sparsity generates the detail it was meant to measure (created 2026-04-23)
 - [[ineffable-encounter-void|The Ineffable Encounter Void]] — Why consciousness encounters meaning and sacred significance it cannot articulate or evaluate from within
+- [[semantic-void|The Semantic Void]] — Where the felt character of meaning exceeds any representational scheme: every model of semantic content leaves a residue that only meaning-as-lived registers (created 2026-04-24)
 - [[conceptual-metabolism-void|The Conceptual Metabolism Void]] — How understanding consumes concepts irreversibly, destroying their pre-understood form
 
 ### Types of Cognitive Limits
@@ -192,17 +195,16 @@ The voids framework flows directly from the Map's [[tenets]]:
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [[apophatic-cartography|apophatic cartography]]—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-04-23
+<!-- AI REFINEMENT LOG - 2026-04-26
 Changes made:
-- Added [[epistemic-horizon-void]] to Foundational Articles, placed after [[meta-epistemology-of-limits]] because it asks the further meta-question that article sets up. Descriptor flags its second-order character explicitly so the entry reads correctly in the taxonomy rather than as just another specific void.
-- Added [[plenitude-void]] to Phenomenology of Limits, placed immediately after [[the-surplus-void]] since the article explicitly distinguishes itself from surplus-void and [[phenomenal-quality-void]] (both already in this section).
-- Added [[categorial-void]] to Types of Cognitive Limits, placed immediately after [[conceptual-impossibility]] since the article positions itself "one level down" from conceptual-impossibility.
-- Updated ai_modified timestamp to 2026-04-23T22:24:00+00:00.
+- Added [[question-formation-void]] to Foundational Articles, placed immediately after [[epistemic-horizon-void]]. The article explicitly self-identifies with the April 2026 second-order cluster (epistemic-horizon-void, plenitude-void, categorial-void) and frames itself as the void that shadows apophatic cartography itself. Foundational Articles is where second-order voids already sit; the descriptor flags the "method-horizon" character so the entry reads correctly at this level of the taxonomy.
+- Added [[source-attribution-void]] to Specific Voids, placed immediately after [[self-opacity]] since the article positions itself as a sharper relative of self-opacity (granting mechanism-blindness in general but isolating the missing origin tag). Sits naturally alongside witnessing-void, narrative-void, and predictive-construction-void in the access/self-knowledge family.
+- Added [[semantic-void]] to Phenomenology of Limits, placed between [[ineffable-encounter-void]] and [[conceptual-metabolism-void]]. The article concerns the felt character of meaning vs. any representational scheme—closely adjacent to the ineffable-encounter-void's territory of unarticulable meaning, and complementary to conceptual-metabolism-void's account of what understanding does to concepts.
+- Updated ai_modified timestamp to 2026-04-26T02:36:00+00:00.
 
-Taxonomy fit notes:
-- All three placements were clean; no restructuring of the Foundational/Specific/Phenomenology/Types/Comparative/Methods taxonomy was required.
-- epistemic-horizon-void is second-order (a void about voids) and sits alongside voids-as-evidence and meta-epistemology-of-limits, both of which are also meta-level. The Foundational Articles section already accommodates meta/second-order voids, so no commentary or structural note was added; the descriptor carries the "second-order void that shadows every other" framing.
-- No explicit count indicator exists in the index (the "~105" figure lives in CLAUDE.md, not here), and no "recently added" section exists. The index uses only the occasional parenthetical date annotation (e.g. the "(coalesced 2026-04-23)" on vertiginous-question); the three new entries follow that convention with "(created 2026-04-23)".
+Sanity-check on other recent voids: witnessing-void (line 90), necessary-opacity (123), distraction-void (109), noetic-feelings-void (114), observation-and-measurement-void (99), quantitative-intuition-void (75), acquaintance-void (103, also 156), and void-as-ground-of-meaning (71) all appear at least once.
+
+No restructuring; only three entries added.
 
 This log should be removed after human review.
 -->

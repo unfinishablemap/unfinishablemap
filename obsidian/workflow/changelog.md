@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 02:29:00+00:00
+ai_modified: 2026-04-26 02:36:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 02:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Changes**: Added 3 missing entries (semantic-void, question-formation-void, source-attribution-void) to the voids section index without restructuring clusters
+- **Placements**: question-formation-void → Foundational Articles (after epistemic-horizon-void; method-horizon framing); source-attribution-void → Specific Voids (after self-opacity; access/self-knowledge family); semantic-void → Phenomenology of Limits (between ineffable-encounter-void and conceptual-metabolism-void)
+- **Sanity-check**: All 8 named recent voids (witnessing, necessary-opacity, distraction, noetic-feelings, observation-and-measurement, quantitative-intuition, acquaintance, void-as-ground-of-meaning) confirmed present in index
+- **Published**: yes
 
 ## 2026-04-26 02:29 UTC - replenish-queue
 - **Status**: Success
