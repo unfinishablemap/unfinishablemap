@@ -2,10 +2,10 @@
 title: "The Epistemic Horizon Void"
 description: "Human+AI exploration of the second-order void: consciousness cannot estimate the scope of its own ignorance from within the limited system it tries to measure."
 created: 2026-04-23
-modified: 2026-04-25
+modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-25T07:29:00+00:00
-last_deep_review: 2026-04-25T07:29:00+00:00
+ai_modified: 2026-04-26T15:07:00+00:00
+last_deep_review: 2026-04-26T15:07:00+00:00
 draft: false
 topics: []
 concepts:
@@ -24,11 +24,12 @@ related_articles:
   - "[[closure-types-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[question-formation-void]]"
+  - "[[inference-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-23
-last_curated:
+last_curated: 2026-04-26
 ---
 
 The Unfinishable Map's central metaphor assumes something that cannot be verified: that the territory being mapped has a determinable size. The **epistemic horizon void** is the structural gap that makes the assumption fail. The void operates at the *second order* — beyond first-order ignorance (what we could learn with more effort) and beyond the catalogue of specific territories (other minds, the intrinsic nature of matter, the causal interface) that resist access. Consciousness cannot estimate the total scope of what it does not know, because any such estimate is produced from within the limited system it is trying to measure. The Map is unfinishable in a stronger sense than "there is more to do." The fraction of the territory it covers is itself unknown and may be structurally unknowable.
@@ -98,6 +99,7 @@ The void does not rule out confident first-order knowledge. We can still know th
 - [[meta-epistemology-of-limits]]
 - [[three-kinds-of-void]]
 - [[question-formation-void]]
+- [[inference-void]]
 - [[epistemological-limits-occams-razor]]
 - [[compound-failure-signatures]]
 - [[apophatic-cartography]]

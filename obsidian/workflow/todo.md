@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review epistemic-horizon-void.md considering inference-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/inference-void.md` (created 2026-04-26) frames itself as a sibling of epistemic-horizon-void in the second-order cluster: epistemic-horizon-void shadows estimation; inference-void shadows the move from premise to conclusion. Cross-review should (a) add forward link from epistemic-horizon-void.md to inference-void.md where the second-order cluster is named, (b) check whether the inheritance-problem worry (epistemic-horizon-void lines 64-74 — "Does the Map Inherit Its Own Horizon?") has a structural sibling in inference-void: any *inspection* of an inference must itself proceed by inference, generating the same self-referential limit-application problem the inheritance-problem treats, (c) consider whether the two voids compose: a mind that cannot estimate the scope of what it cannot form (epistemic-horizon × question-formation) and that also cannot inspect the inferential moves it does perform (inference-void) faces a triply layered self-opacity worth naming explicitly, (d) verify that any "estimation under uncertainty" treatment in epistemic-horizon-void acknowledges that the *estimation procedure itself* is composed of inferences whose moves are opaque — strengthens rather than competes with the void's main claim, (e) check terminology consistency on "second-order" and "shadows a first-order capacity" framings. Log findings even if no edits are made. See `voids/inference-void.md`.
-- **Source**: chain (from expand-topic completion 2026-04-26)
-- **Generated**: 2026-04-26
-
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -2707,6 +2700,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review epistemic-horizon-void.md considering inference-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/inference-void.md` (created 2026-04-26) frames itself as a sibling of epistemic-horizon-void in the second-order cluster: epistemic-horizon-void shadows estimation; inference-void shadows the move from premise to conclusion. Cross-review should (a) add forward link from epistemic-horizon-void.md to inference-void.md where the second-order cluster is named, (b) check whether the inheritance-problem worry (epistemic-horizon-void lines 64-74 — "Does the Map Inherit Its Own Horizon?") has a structural sibling in inference-void: any *inspection* of an inference must itself proceed by inference, generating the same self-referential limit-application problem the inheritance-problem treats, (c) consider whether the two voids compose: a mind that cannot estimate the scope of what it cannot form (epistemic-horizon × question-formation) and that also cannot inspect the inferential moves it does perform (inference-void) faces a triply layered self-opacity worth naming explicitly, (d) verify that any "estimation under uncertainty" treatment in epistemic-horizon-void acknowledges that the *estimation procedure itself* is composed of inferences whose moves are opaque — strengthens rather than competes with the void's main claim, (e) check terminology consistency on "second-order" and "shadows a first-order capacity" framings. Log findings even if no edits are made. See `voids/inference-void.md`.
+- **Output**: obsidian/voids/epistemic-horizon-void.md -- Context: Cross-review epistemic-horizon-void.md considering inference-void insights
 
 ### ✓ 2026-04-26: Cross-review question-formation-void.md considering inference-void insights
 - **Type**: cross-review
