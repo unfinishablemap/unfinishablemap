@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 20:30:00+00:00
+ai_modified: 2026-04-26 20:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 20:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-phenomenology-of-constraint-satisfaction]]
+- **Word count**: 2082 → 2124 (+42)
+- **Critical issues addressed**: 1 (misattributed bandwidth figure ~10⁹ bits/sec — corrected attribution from Nørretranders 1998 to Zheng & Meister 2025; Nørretranders retained for ~10 bits/sec conscious bandwidth)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added Zheng & Meister 2025 reference, restored source/figure alignment with `bandwidth-of-consciousness.md`)
+- **Output**: [[reviews/deep-review-2026-04-26-consciousness-and-the-phenomenology-of-constraint-satisfaction]]
 
 ## 2026-04-26 20:30 UTC - refine-draft
 - **Status**: Success
