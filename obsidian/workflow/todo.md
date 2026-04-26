@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/buddhism-and-dualism.md considering eliminative-materialism's Madhyamaka acknowledgement
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Pessimistic-review Issue 6 (pessimistic-2026-04-26b) flagged the Buddhist alliance in eliminative-materialism as asymmetric: the article borrowed Madhyamaka anatta as parallel to classical eliminativism about the self while not acknowledging that Madhyamaka extends dependent-origination (*pratītyasamutpāda*) to *phenomenal events*, not only the self. Today's refine acknowledged this asymmetry. The reciprocal in `topics/buddhism-and-dualism.md` is missing — the buddhism-and-dualism article does not yet cite eliminative-materialism as the contemporary analytic parallel, and does not yet flag the asymmetry from its own side. Cross-review should (a) add inbound link from buddhism-and-dualism to eliminative-materialism in related_articles and prose, (b) acknowledge that contemporary analytic eliminativism about propositional attitudes has structural kin in Madhyamaka but the parallel is incomplete because Madhyamaka emptiness extends across the phenomenal stream while the Map's defence does not, (c) check whether the buddhism-and-dualism article's existing treatment of *svabhāva* and *atmagraha* can be sharpened by referencing the eliminative-materialism article's two-strand analysis, (d) preserve the article's voice and existing arguments without rewrite-by-replacement. See pessimistic-2026-04-26b.md Issue 6, optimistic-2026-04-26.md Cross-Linking Suggestions row 7, and the eliminative-materialism refine.
-- **Source**: chain (from expand-topic of eliminative-materialism)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review topics/formal-cognitive-limits.md considering carrolls-regress concept page
 - **Type**: cross-review
 - **Status**: pending
@@ -2805,6 +2798,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review topics/buddhism-and-dualism.md considering eliminative-materialism's Madhyamaka acknowledgement
+- **Type**: cross-review
+- **Notes**: Pessimistic-review Issue 6 (pessimistic-2026-04-26b) flagged the Buddhist alliance in eliminative-materialism as asymmetric: the article borrowed Madhyamaka anatta as parallel to classical eliminativism about the self while not acknowledging that Madhyamaka extends dependent-origination (*pratītyasamutpāda*) to *phenomenal events*, not only the self. Today's refine acknowledged this asymmetry. The reciprocal in `topics/buddhism-and-dualism.md` is missing — the buddhism-and-dualism article does not yet cite eliminative-materialism as the contemporary analytic parallel, and does not yet flag the asymmetry from its own side. Cross-review should (a) add inbound link from buddhism-and-dualism to eliminative-materialism in related_articles and prose, (b) acknowledge that contemporary analytic eliminativism about propositional attitudes has structural kin in Madhyamaka but the parallel is incomplete because Madhyamaka emptiness extends across the phenomenal stream while the Map's defence does not, (c) check whether the buddhism-and-dualism article's existing treatment of *svabhāva* and *atmagraha* can be sharpened by referencing the eliminative-materialism article's two-strand analysis, (d) preserve the article's voice and existing arguments without rewrite-by-replacement. See pessimistic-2026-04-26b.md Issue 6, optimistic-2026-04-26.md Cross-Linking Suggestions row 7, and the eliminative-materialism refine.
+- **Output**: obsidian/concepts/buddhism-and-dualism.md -- Context: Cross-review topics/buddhism-and-dualism.md considering eliminative-materialism's Madhyamaka acknowledgement
 
 ### ✓ 2026-04-26: Cross-review concepts/predictive-processing.md considering eliminative-materialism's PP engagement
 - **Type**: cross-review
