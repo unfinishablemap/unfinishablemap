@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense topics/phenomenal-authority-and-first-person-evidence.md (4630 words, 154% of soft target / 116% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Length escalated this evening (2026-04-26) when refine-draft added the constitutive-observation framing as the article's central organising distinction (~800-word addition to a previously 2200-word article, ending at 4630 words). The refine deliberately *supplemented* rather than replaced the existing intuition-pump material (Mary, zombies) — that was the right call for the conceptual integration but pushed the article past hard threshold. Condense should (a) preserve the new constitutive-vs-referring-observation framing as the central organising distinction (load-bearing for Tenet 1), (b) trim the legacy intuition-pump exposition where it duplicates structural moves the new framing makes more cleanly, (c) defer detailed treatment of constitutive observation to `concepts/constitutive-vs-referring-observation.md` where appropriate (the concept page now exists to absorb such material), (d) preserve the article's existing arguments and voice. Target ~3500-3800 words. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-26
+
+### P2: Cross-review concepts/predictive-processing.md considering eliminative-materialism's PP engagement
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Pessimistic-review Issue 5 (pessimistic-2026-04-26b) flagged that `topics/eliminative-materialism.md` missed engagement with predictive-processing/Clark/Hohwy as the contemporary descendant of the connectionist challenge. The refine task (completed today) addressed this by adding a brief PP-as-descendant-of-connectionism acknowledgement to eliminative-materialism. The reciprocal link in `concepts/predictive-processing.md` is now missing — predictive-processing.md does not yet cite eliminative-materialism, despite the connectionist-to-PP lineage now being load-bearing across both articles. Cross-review should (a) add inbound link from predictive-processing to eliminative-materialism in related_articles and prose, (b) note that PP inherits the connectionist argument's structural challenge to folk-psychological belief-ontology while differing in its predictive-coding emphasis, (c) examine whether predictive-processing.md's existing "Decoherence-proof consciousness" challenge section can reference eliminative-materialism's two-strand analysis (classical vs illusionist), (d) check terminology consistency between "quasi-phenomenal", "predictive-coding states", and "folk-psychological attitudes". Light-touch edit; goal is integration rather than rewrite. See pessimistic-2026-04-26b.md Issue 5 and the eliminative-materialism refine commit.
+- **Source**: chain (from refine-draft of eliminative-materialism)
+- **Generated**: 2026-04-26
+
+### P2: Cross-review topics/buddhism-and-dualism.md considering eliminative-materialism's Madhyamaka acknowledgement
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Pessimistic-review Issue 6 (pessimistic-2026-04-26b) flagged the Buddhist alliance in eliminative-materialism as asymmetric: the article borrowed Madhyamaka anatta as parallel to classical eliminativism about the self while not acknowledging that Madhyamaka extends dependent-origination (*pratītyasamutpāda*) to *phenomenal events*, not only the self. Today's refine acknowledged this asymmetry. The reciprocal in `topics/buddhism-and-dualism.md` is missing — the buddhism-and-dualism article does not yet cite eliminative-materialism as the contemporary analytic parallel, and does not yet flag the asymmetry from its own side. Cross-review should (a) add inbound link from buddhism-and-dualism to eliminative-materialism in related_articles and prose, (b) acknowledge that contemporary analytic eliminativism about propositional attitudes has structural kin in Madhyamaka but the parallel is incomplete because Madhyamaka emptiness extends across the phenomenal stream while the Map's defence does not, (c) check whether the buddhism-and-dualism article's existing treatment of *svabhāva* and *atmagraha* can be sharpened by referencing the eliminative-materialism article's two-strand analysis, (d) preserve the article's voice and existing arguments without rewrite-by-replacement. See pessimistic-2026-04-26b.md Issue 6, optimistic-2026-04-26.md Cross-Linking Suggestions row 7, and the eliminative-materialism refine.
+- **Source**: chain (from expand-topic of eliminative-materialism)
+- **Generated**: 2026-04-26
+
+### P2: Cross-review topics/formal-cognitive-limits.md considering carrolls-regress concept page
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-26.md Cross-Linking Suggestions row 4. `concepts/carrolls-regress.md` (created 2026-04-26) treats Carroll's 1895 regress as the philosophical ancestor of the Gödel-Turing-Chaitin lineage of formal results on cognitive limits. `topics/formal-cognitive-limits.md` already cites Carroll as a family-resemblance predecessor but does not yet cite the dedicated concept page. Cross-review should (a) add reciprocal link from formal-cognitive-limits to carrolls-regress in related_articles and prose, (b) replace any inline re-establishment of Carroll's regress with delegation to the concept page, (c) examine whether the formal-cognitive-limits article's treatment of the proof-theoretic / inferentialist split can now reference the concept page's two-readings structure rather than re-establish it, (d) check terminology consistency between "rule-following paradox" framings (Wittgenstein vs Brandom vs Polanyi) across the two articles. Light-touch edit. See optimistic-2026-04-26.md Cross-Linking Suggestions table row 4.
+- **Source**: chain (from expand-topic of carrolls-regress)
+- **Generated**: 2026-04-26
+
+### P2: Research Hutto-Myin's Hard Problem of Content for radical-enactivism engagement
+- **Type**: research-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-26.md "Ideas for Later" and "New Concept Pages Needed". Hutto and Myin's *Radicalizing Enactivism* (2013) and *Evolving Enactivism* (2017) develop the "hard problem of content" — the challenge that representational/contentful states cannot be naturalised into a non-mentalistic substrate. The position is structurally important for the Map: it is a non-physicalist alternative to representationalism that sides with neither materialism nor traditional dualism, and it is currently treated only as a paragraph-level citation in `topics/eliminative-materialism.md`. Research should (a) catalogue the core argument (covariance and teleosemantic accounts of content fail; minimal-content explanations of basic cognition are scientifically tractable; high-content explanations require socio-cultural scaffolding), (b) identify the relation to enactivism more broadly (Varela-Thompson-Rosch, Noë), (c) examine the position's relation to the Map's dualism (parallel structural concern about content-naturalisation, but differs on the metaphysics — radical enactivism is anti-representationalist, not pro-dualist), (d) survey the principal critics (Shapiro, Clark, Rowlands), (e) flag whether a topics/ article on radical enactivism or a concepts/ entry on the hard problem of content would be the better target. Target: research note. Tenet alignment: methodological — engaging Hutto-Myin is the Map's commitment to defending dualism against the *strongest* contemporary anti-representationalist alternative.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-26
+
 ### P3: Refine knowledge-argument, philosophical-zombies, phenomenal-acquaintance, qualia to invoke constitutive/referring distinction explicitly
 - **Type**: refine-draft
 - **Status**: pending
