@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 21:52:00+00:00
+ai_modified: 2026-04-26 22:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 22:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/carrolls-regress]]
+- **Word count**: 1534 → 1555 (+21)
+- **Critical issues addressed**: 3 (fabricated direct quote attributed to Engel converted to indirect speech; fabricated editor attribution for *Inference and Consciousness* corrected from Boghossian/Wright to Chan/Nes per web search; misleading framing implying Engel contributed to that volume reworded)
+- **Medium issues addressed**: 1 (added inline cross-link to [[self-stultification]] naming the deflationary reading's circularity)
+- **Enhancements made**: 1 (cross-link self-stultification in body, was previously only in Further Reading)
+- **Notes**: First review of this article (created today). The two attribution errors were verifiable — research notes paraphrased Engel without quotation marks but the article re-presented the paraphrase as a direct quote; web search of Routledge confirmed Chan & Nes as editors. Article posture (inferentialist reading "more compelling than deflation, but defensible, not uncontested") is the correct stable scope for a reference page; future reviews should not re-flag eliminative-materialist or Dennett-style objections as critical disagreements.
+- **Output**: [[reviews/deep-review-2026-04-26-carrolls-regress]]
 
 ## 2026-04-26 21:52 UTC - expand-topic
 - **Status**: Success
