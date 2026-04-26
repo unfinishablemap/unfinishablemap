@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 16:23:00+00:00
+ai_modified: 2026-04-26 16:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 16:41 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section surveyed**: `voids/` (98/100, most pressured at 98% capacity)
+- **Clusters examined**:
+  1. Affective family — `affective-void`, `mood-void`, `valence-void`, `appetitive-void`, `emotional-epistemology-void`, `noetic-feelings-void`: explicitly differentiated (range vs. pervasiveness vs. structure vs. desire vs. epistemic vs. felt-signal)
+  2. Cognitive-limits family — `biological-cognitive-closure`, `embodiment-cognitive-limits`, `formal-cognitive-limits`, `closure-types-void`, `self-maintained-cognitive-limits`: distinct sources of limit (evolutionary, embodiment, formal/Gödel, representational-vs-psychological, motivational); two already coalesced products
+  3. Edge-experience — `altered-states-as-void-probes`, `phenomenology-of-the-edge`: shared evidence base but distinct framings (epistemological vs. phenomenological)
+  4. Crossings — `transit-void`, `disappearance-voids`: both already coalesced products (3 + 2 sources)
+  5. Meta-conceptual — `framework-void`, `categorial-void`, `question-formation-void`: explicit "Distinguishing the Void" sections; intentional April 2026 second-order cluster
+  6. Self/agency — `source-attribution-void`, `ownership-void`, `intentionality-void`, `involuntariness-void`, `agency-verification-void`: each explicitly distinguishes itself from neighbours
+- **Reason for abandonment**: Voids section is actively curated with explicit distinguishing sections; recent automation has already coalesced multiple times (transit/disappearance/biological/formal); further forced merges would damage carefully maintained differentiation
+- **Recommendation**: Cap pressure on voids should be addressed by raising the cap or by pessimistic/deep-review tightening rather than further coalescence
 
 ## 2026-04-26 16:23 UTC - deep-review
 - **Status**: Success
