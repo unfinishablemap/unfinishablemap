@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 13:25:00+00:00
+ai_modified: 2026-04-26 13:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 13:37 UTC - research-topic
+- **Status**: Success
+- **Topic**: Eliminative materialism (for dedicated topic article)
+- **Output**: [[research/eliminative-materialism-2026-04-26]]
+- **Sources consulted**: ~10 (SEP entry on EM; Churchland 1981; Patricia Churchland *Neurophilosophy* 1986; Frankish 2016 illusionism target paper; Dennett 2016 illusionism endorsement; Ramsey/Stich/Garon 1990 connectionism; Boghossian 1990 self-refutation; Hutto & Myin enactivism; kind-dissolutionism; 2024-25 Moorean replies)
+- **Notes**: Notes preserve the distinction the task requested between classical EM about propositional attitudes (Churchland-couple) and illusionism/EM about phenomenal consciousness (Frankish, Dennett). Five article angles proposed; recommended primary angle is comprehensive overview locating the move at the Occam's-Razor + introspection-as-theory-laden pivot. Tenet conflicts: Dualism, Bidirectional Interaction, Minimal Quantum Interaction; methodological conflict with Tenet 5. Gaps: Kammerer 2021 illusionism survey not located; Buddhist anatta parallels not pursued; LLM-EM connections not explored.
 
 ## 2026-04-26 13:25 UTC - expand-topic
 - **Status**: Success
