@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Words like saudade, mono no aware, and Weltanschauung resist translation not because we lack vocabulary but because meaning has a phenomenal dimension—evidence that consciousness exceeds computation.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2048392684050538815  
 **Link**: [[consciousness-and-the-phenomenology-of-translation]]
 
 ---
