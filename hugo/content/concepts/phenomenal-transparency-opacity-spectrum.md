@@ -31,7 +31,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[necessary-opacity]]'
-- '[[intentionality-void]]'
+- '[[meaning-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[explanatory-gap]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
@@ -102,7 +102,7 @@ This is a second-order epistemic gain. Transparency produces the illusion of dir
 
 ## Transparency of Thought
 
-Phenomenal transparency extends beyond perception to thought itself. The [intentionality-void](/voids/intentionality-void/) explores this: when you think about Paris, Paris appears without revealing how the thought achieved its Paris-directedness. You "see through" the thought to its object, just as you see through visual experience to the visible world. The referential mechanism is transparent.
+Phenomenal transparency extends beyond perception to thought itself. The [meaning-void](/voids/meaning-void/) explores this: when you think about Paris, Paris appears without revealing how the thought achieved its Paris-directedness. You "see through" the thought to its object, just as you see through visual experience to the visible world. The referential mechanism is transparent.
 
 David Pitt argues we can distinguish what we are thinking — Paris, not London — but this reveals content, not the content-determination process (Pitt, 2004). The aboutness of thought is as transparent as the redness of red. In both cases, the representational medium vanishes, leaving only what is represented.
 
@@ -124,7 +124,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 
 - [self-opacity](/voids/self-opacity/) — The structural impossibility of consciousness fully knowing itself
 - [necessary-opacity](/voids/necessary-opacity/) — Why certain opacities are functionally required and self-protecting
-- [intentionality-void](/voids/intentionality-void/) — Transparency applied to the aboutness of thought
+- [meaning-void](/voids/meaning-void/) — Transparency applied to the aboutness of thought and the felt character of comprehension
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The question of what matter is in itself, hidden behind transparent perception
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Whether sustained practice can reduce transparency and cultivate controlled opacity
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies

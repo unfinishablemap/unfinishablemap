@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-04-26 18:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,13 +27,13 @@ concepts:
 - '[[inventory-blindness]]'
 - '[[epistemology-of-limit-knowledge]]'
 created: 2026-01-15
-date: &id001 2026-04-18
+date: &id001 2026-04-26
 description: 'McGinn''s cognitive closure thesis: human minds may be constitutionally
   unable to solve the mind-body problem, like rats unable to grasp calculus.'
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-18 12:47:00+00:00
+last_deep_review: 2026-04-26 18:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -52,6 +52,7 @@ related_articles:
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[self-reference-paradox]]'
 - '[[imagination-and-creativity-void]]'
+- '[[inference-void]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -95,7 +96,7 @@ If complete description doesn't reveal consciousness in a 302-neuron organism, w
 
 ## Problems Versus Mysteries
 
-Noam Chomsky distinguished "problems" (within our cognitive capacities) from "mysteries" (beyond cognitive reach). Consciousness might be such a mystery—the [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of effort, perhaps not because we haven't tried hard enough but because trying harder won't help. The [origin question](/voids/origin-of-consciousness/)—why consciousness exists at all—is a prior mystery that cognitive closure may explain. Research on [biological-cognitive-closure](/voids/biological-cognitive-closure/) shows that certain limits appear universally across isolated cultures, suggesting species-level constraints. These extend to collectives: [paradigm blindness](/voids/collective-cognitive-limits/) shows that scientific communities share blind spots no individual could transcend from within.
+Noam Chomsky distinguished "problems" (within our cognitive capacities) from "mysteries" (beyond cognitive reach). Consciousness might be such a mystery—the [explanatory-gap](/concepts/explanatory-gap/) persists despite centuries of effort, perhaps not because we haven't tried hard enough but because trying harder won't help. The [origin question](/voids/origin-of-consciousness/)—why consciousness exists at all—is a prior mystery that cognitive closure may explain. Research on [biological-cognitive-closure](/voids/biological-cognitive-closure/) shows certain limits appearing universally across isolated cultures, with [paradigm blindness](/voids/collective-cognitive-limits/) extending the pattern to scientific communities.
 
 ## Concept Nativism and Cognitive Closure
 
@@ -109,7 +110,7 @@ Property P may be the intrinsic categorical nature of matter. If so, cognitive c
 
 ## Mathematical Understanding and Cognitive Closure
 
-[Mathematical understanding](/topics/consciousness-and-mathematics/) provides evidence for cognitive limits. [Computational limits](/voids/formal-cognitive-limits/)—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [same self-referential obstruction](/topics/self-reference-and-the-limits-of-physical-description/), suggesting cognitive closure in mathematics and the measurement problem share a common formal root. The [self-reference-paradox](/concepts/self-reference-paradox/) develops this connection explicitly: Gödel's incompleteness, Lawvere's fixed-point theorem, and the transparency of self-modelling all constrain what a system can know about itself.
+[Mathematical understanding](/topics/consciousness-and-mathematics/) provides evidence for cognitive limits. [Computational limits](/voids/formal-cognitive-limits/)—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [same self-referential obstruction](/topics/self-reference-and-the-limits-of-physical-description/), suggesting cognitive closure in mathematics and the measurement problem share a common formal root. The [self-reference-paradox](/concepts/self-reference-paradox/) develops this: Gödel's incompleteness and Lawvere's fixed-point theorem constrain what a system can know about itself. The [inference void](/voids/inference-void/) sits in this lineage from another angle: Carroll's 1895 regress about how rules license inference predates Gödel by 36 years, and any analysis of cognitive limits must use the inferential operation it describes.
 
 ## The Phenomenology of Cognitive Closure
 
@@ -197,6 +198,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [illusionism](/concepts/illusionism/) — The rival view that consciousness isn't real
 - [voids](/voids/) — The Map's framework for approaching cognitive limits
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Cognitive closure applied to numinous experience: the evaluating mind and the numinous mind cannot coexist
+- [inference-void](/voids/inference-void/) — Carroll's regress and the structural opacity of inferential transitions: a second-order limit on the operation any limits-argument must use
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that mysterianism motivates
 
 ## References

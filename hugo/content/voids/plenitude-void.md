@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-24 03:29:00+00:00
+ai_modified: 2026-04-26 18:38:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -11,14 +11,14 @@ concepts:
 - '[[mysterianism]]'
 - '[[dualism]]'
 created: 2026-04-23
-date: &id001 2026-04-24
+date: &id001 2026-04-26
 description: Human+AI exploration of why conscious experience seems rich beyond what
   can be reported or checked—and why that gap may be structurally impossible to resolve
   from within.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-24 03:29:00+00:00
+last_deep_review: 2026-04-26 18:38:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -29,6 +29,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[bandwidth-of-consciousness]]'
+- '[[inference-void]]'
 - '[[tenets]]'
 title: The Plenitude Void
 topics:
@@ -68,9 +69,9 @@ Michael Tye presses further: if consciousness were merely an illusion of richnes
 
 The debate has not converged. Jesse Prinz's Attended Intermediate-level Representations theory (2012) occupies middle ground: consciousness is richer than Dennett allows but more constrained than naive introspection suggests, with attention as the gateway. The empirical evidence underdetermines the choice because what counts as experienced is itself under dispute.
 
-The two sides are not, however, symmetric in their relation to evidence. The grand-illusion view makes specific behavioural predictions — confabulation under change blindness, decoupling of confidence from accuracy, failure to find a stable phenomenal witness distinct from reported content. Block's overflow view, by contrast, posits phenomenal content that by stipulation does not reach report, and therefore cannot be positively identified by any report-based method. The void is a void partly because this asymmetry in falsifiability does not translate into a resolution of the substantive question: a prediction compatible with the evidence and a posit compatible with the evidence can both stand without either being forced out.
+The two sides are not, however, symmetric in their relation to evidence. The grand-illusion view makes specific behavioural predictions — confabulation under change blindness, decoupling of confidence from accuracy, failure to find a stable phenomenal witness distinct from reported content. Block's overflow view, by contrast, posits phenomenal content that by stipulation does not reach report, and therefore cannot be positively identified by any report-based method. The void is a void partly because this asymmetry in falsifiability does not translate into a resolution of the substantive question: prediction and posit can each remain compatible with the evidence without either being forced out.
 
-A third position deserves mention. Eliminativists such as Paul Churchland reject the Block–Dennett framing altogether: "phenomenal content" is not a natural kind, and the void dissolves if one drops the category. On this view, iconic memory and change blindness are findings about neural signal retention and attentional selection awaiting redescription in a mature cognitive vocabulary, and the plenitude question is an artefact of folk-psychological commitments. The present article treats eliminativism as a live alternative that the void has to survive rather than as already refuted.
+A third position. Eliminativists such as Paul Churchland reject the Block–Dennett framing altogether: "phenomenal content" is not a natural kind, and the void dissolves if one drops the category. On this view, iconic memory and change blindness await redescription in a mature cognitive vocabulary, and the plenitude question is an artefact of folk-psychological commitments. The article treats eliminativism as a live alternative the void has to survive rather than as already refuted.
 
 ## Introspection's Unreliability
 
@@ -90,7 +91,7 @@ The plenitude void is the claim that current methods cannot adjudicate between t
 
 What makes the plenitude void a void, rather than merely a hard problem, is that its investigation is compromised by the phenomenon itself. Three features make this structural.
 
-**The check-and-find loop.** Every introspective probe for sparsity directs attention, and attention generates detail. Looking to see whether peripheral vision is blurry produces a momentary clarification of the peripheral region — because directing attention there recruits covert attention (which enhances processing without moving the fovea — Posner 1980), and may also trigger foveation if a saccade follows. One cannot catch experience being sparse, because checking fills in.
+**The check-and-find loop.** Every introspective probe for sparsity directs attention, and attention generates detail. Looking to see whether peripheral vision is blurry produces a momentary clarification of the peripheral region — because directing attention there recruits covert attention (which enhances processing without moving the fovea — Posner 1980), and may also trigger foveation if a saccade follows. One cannot catch experience being sparse, because checking fills in. The inferential move from probe-result to phenomenal verdict is itself opaque (the [inference-void](/voids/inference-void/)), compounding the loop's grip-failure: the probe alters its target, and the step from registration to judgement cannot be inspected as such.
 
 **The confabulation default.** Reports about just-elapsed experience feel authoritative but are known to diverge systematically from what was registered. The introspective report is not a passive readout; it is a construction. Follow-up work on the inattentional-blindness paradigm (Simons & Chabris 1999, and subsequent replications) finds that subjects who miss the gorilla can nonetheless offer confident post-hoc descriptions of the scene. Confidence and accuracy decouple without any phenomenal marker distinguishing the two.
 
@@ -112,7 +113,7 @@ A Popperian critic will call the plenitude void *structurally unfalsifiable* and
 
 The plenitude void connects directly to two of the Map's [tenets](/tenets/).
 
-**[Dualism](/tenets/#dualism)** reframes the debate rather than settling it. Under materialism, the grand illusion view is attractive on economy grounds: if consciousness is neural information processing and processing is demonstrably sparse, the felt richness is a processing artefact to be reduced or explained away. Under dualism, the *felt quality of completeness* is taken at face value as a phenomenal feature in its own right, which then has to be accounted for. The move "something that feels full must have crossed into phenomenal territory" is not an independent argument for dualism — it presupposes the very distinction between physical sparsity and phenomenal fullness that materialism denies — and it should not be read as one. What it does show is that the void has a different *shape* inside each framework: for the materialist it is a cognitive-scientific puzzle about how an information-processing system produces the illusion of its own richness; for the dualist it is a primary phenomenal datum needing an account. Block's overflow picture — rich phenomenal content, narrow cognitive access — fits more comfortably within dualism's framing, though Block himself is a physicalist and draws the P/A distinction without metaphysical commitment. The plenitude void does not by itself adjudicate between these frameworks; it illustrates that the choice of framework determines where the explanatory burden falls.
+**[Dualism](/tenets/#dualism)** reframes the debate rather than settling it. Under materialism, the grand illusion view is attractive on economy grounds: if consciousness is neural information processing and processing is demonstrably sparse, the felt richness is a processing artefact to be reduced or explained away. Under dualism, the *felt quality of completeness* is taken at face value as a phenomenal feature in its own right, which then has to be accounted for. The move "something that feels full must have crossed into phenomenal territory" is not an independent argument for dualism — it presupposes the very distinction between physical sparsity and phenomenal fullness that materialism denies. What it does show is that the void has a different *shape* inside each framework: for the materialist it is a cognitive-scientific puzzle about how an information-processing system produces the illusion of its own richness; for the dualist it is a primary phenomenal datum needing an account. Block's overflow picture — rich phenomenal content, narrow cognitive access — fits more comfortably within dualism's framing, though Block himself is a physicalist and draws the P/A distinction without metaphysical commitment. The plenitude void does not by itself adjudicate between these frameworks; it illustrates that the choice of framework determines where the explanatory burden falls.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly implicated. The simplest theory — experience is what it seems — may be badly wrong. The next-simplest theory — experience is sparse and the richness is illusory — may be equally wrong in the opposite direction. The true situation may be irreducibly complex: neither fully rich nor fully sparse, with no simple compression available. The plenitude void is a case study in how parsimony becomes unreliable once the assessment instrument is implicated in what is being assessed.
 
@@ -125,6 +126,7 @@ The void also connects to [self-opacity](/voids/self-opacity/) (the general stru
 - [erasure-void](/voids/erasure-void/) — Undetectable loss of experience
 - [self-opacity](/voids/self-opacity/) — Why experience resists examining itself
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The compression between sensory inflow and reportable content
+- [inference-void](/voids/inference-void/) — Why the move between premises and conclusions is itself opaque to the consciousness performing it
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether genuine limits can be distinguished from hard problems
 
 ## References

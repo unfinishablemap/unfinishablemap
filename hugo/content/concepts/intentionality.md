@@ -81,7 +81,7 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 The [symbol grounding problem](/concepts/symbol-grounding-problem/) sharpens this challenge for computational systems: how can symbols acquire meaning *intrinsic* to the system rather than borrowed from human interpreters? Harnad's dictionary regress—imagine learning Chinese using only a Chinese-to-Chinese dictionary—shows that without some foothold in genuine understanding, symbols remain semantically empty.
 
-No naturalistic theory has achieved consensus after over a century of attempts. The [intentionality void](/voids/intentionality-void/) explores why this failure may be structural: the mechanism of reference operates below the threshold of introspective access. This supports the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet: the apparently simpler physical explanations don't work.
+No naturalistic theory has achieved consensus after over a century of attempts. The [meaning void](/voids/meaning-void/) explores why this failure may be structural: the mechanism of reference operates below the threshold of introspective access, and the felt character of comprehension exceeds every formal model aimed at it. This supports the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet: the apparently simpler physical explanations don't work.
 
 ## Phenomenal Intentionality Theory
 
@@ -252,7 +252,7 @@ Intentionality connects to all five foundational tenets:
 - [binding-problem](/concepts/binding-problem/) — The binding dimension of understanding
 - [illusionism](/concepts/illusionism/) — The radical denial that intentionality and consciousness are real
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — How symbols acquire intrinsic meaning (the computational framing)
-- [intentionality-void](/voids/intentionality-void/) — Why the mechanism of reference is structurally hidden from consciousness
+- [meaning-void](/voids/meaning-void/) — Why the mechanism of reference and the felt character of comprehension are both structurally hidden
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How shared goals and institutional facts require phenomenal consciousness
 - [direction-of-fit](/concepts/direction-of-fit/) — Classifying intentional states by whether mind adapts to world or world adapts to mind
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — The direct epistemic relation to phenomenal qualities that may ground intentional content

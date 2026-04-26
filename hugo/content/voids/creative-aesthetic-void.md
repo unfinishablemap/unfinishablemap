@@ -53,7 +53,7 @@ related_articles:
 - '[[topics/free-will]]'
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[thought-stream-void]]'
-- '[[intentionality-void]]'
+- '[[meaning-void]]'
 - '[[narrative-void]]'
 - '[[ineffable-encounter-void]]'
 title: The Creative-Aesthetic Void

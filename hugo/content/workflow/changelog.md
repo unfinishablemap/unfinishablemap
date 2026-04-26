@@ -1,13 +1,161 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 17:22:00+00:00
+ai_modified: 2026-04-26 21:22:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-26 21:22 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: post-16:00 UTC consolidation cluster — `concepts/carrolls-regress.md` (new), `concepts/constitutive-vs-referring-observation.md` (new), `topics/phenomenal-authority-and-first-person-evidence.md` (refined with new constitutive/referring section), `topics/consciousness-and-the-phenomenology-of-constraint-satisfaction.md` (deep-reviewed, bandwidth citation precision), `topics/eliminative-materialism.md` (cross-review-style refinements), plus 10 same-day adjacent integration-pass touches
+- **Output**: [optimistic-2026-04-26b](/reviews/optimistic-2026-04-26b/)
+
+## 2026-04-26 21:07 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Carroll's Regress
+- **Output**: [carrolls-regress](/concepts/carrolls-regress/)
+- **Word count**: 1534
+- **Based on research**: yes (drew on `research/voids-inference-void-2026-04-26.md` and the Carroll's-regress sections of `voids/inference-void.md`)
+- **Notes**: New concept page extracts the load-bearing 1895 Carroll regress from `voids/inference-void.md` and `topics/argument-from-reason` into a citable standalone concept. Article (a) states the regress precisely with Carroll's *A/B/Z/C/D* dialogue structure intact, (b) presents both readings — proof-theoretic deflation (rule/axiom split dissolves the puzzle) and inferentialist reading (the *taking-as* converts premises into conclusion and is not itself a rule), explicitly flagging the inferentialist reading as contested rather than uncontested, (c) traces lines of influence — Wittgenstein's rule-following paradox as parallel anti-foundationalist pressure with materially different metaphysical commitments, Polanyi's tacit inference as the positive characterisation, Brandom's inferentialism as the major competing framework that relocates rather than dissolves the question, (d) connects to Gödel-Turing-Chaitin family-resemblance with hedge that the resemblance is loose (formal theorems vs dialectical regress), (e) honest tenet-alignment: Occam's Razor Has Limits (load-bearing on inferentialist reading) and Dualism (taking-as as candidate primitive, flagged as speculation). One self-citation to inference-void. No apex articles reference the new page; no follow-up apex-evolve task needed.
+
+## 2026-04-26 20:54 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Constitutive vs Referring Observation
+- **Output**: [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/)
+- **Word count**: 1838
+- **Based on research**: no (built from existing distinction articulated in `topics/phenomenal-authority-and-first-person-evidence.md` and `topics/eliminative-materialism.md`)
+- **Notes**: New concept page extracts the load-bearing epistemic distinction from the eliminative-materialism and phenomenal-authority articles into a citable standalone concept. Article (a) states the distinction precisely with naked-eye astronomy as referring-paradigm and first-person phenomenal observation as constitutive-paradigm, (b) connects to Russell's knowledge-by-acquaintance/description as partial precursor (overlap: phenomenal acquaintance is constitutive observation; divergence: Russell's is epistemological, this is metaphysical), (c) examines the philosophical work the distinction does — underwrites a non-question-begging response to introspection-as-theory-laden as an *asymmetry*, not a knockdown defeater, (d) catalogues five Map articles where the distinction sharpens existing claims, (e) honest limitation acknowledges illusionists deny the constitutive relation, so the framing locates bedrock disagreement rather than resolving it. Tenet alignment: Tenet 1 (Dualism — supports asymmetric-evidence move) and Tenet 5 (Occam's Razor Has Limits — parsimony reach across constitutive/referring divide). Two self-citations to source articles. No apex articles reference the new page; no follow-up apex-evolve task needed.
+
+## 2026-04-26 20:37 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-phenomenology-of-constraint-satisfaction](/topics/consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+- **Word count**: 2082 → 2124 (+42)
+- **Critical issues addressed**: 1 (misattributed bandwidth figure ~10⁹ bits/sec — corrected attribution from Nørretranders 1998 to Zheng & Meister 2025; Nørretranders retained for ~10 bits/sec conscious bandwidth)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added Zheng & Meister 2025 reference, restored source/figure alignment with `bandwidth-of-consciousness.md`)
+- **Output**: [deep-review-2026-04-26-consciousness-and-the-phenomenology-of-constraint-satisfaction](/reviews/deep-review-2026-04-26-consciousness-and-the-phenomenology-of-constraint-satisfaction/)
+
+## 2026-04-26 20:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/)
+- **Source review**: [optimistic-2026-04-26](/reviews/optimistic-2026-04-26/) (Medium Priority — "Phenomenal Authority and First-Person Evidence: Sharpen via Eliminative-Materialism")
+- **Changes**: Added new "Constitutive vs Referring Observation" section (~660 words) between Three Layers of Phenomenal Authority and Phenomenal Conservatism. The section articulates the structural distinction (referring observations track observation-independent targets; constitutive observations constitute their own object) and explains why Layer 1 has apodictic status no other empirical observation has — the phenomenal observer cannot be wrong in the same way about the existence of phenomenality because the observation is constitutive of what is observed. Existing intuition-pump material (Mary, zombies) reframed as illustrations of the constitutive structure from the content side, without rewrite of the Acquaintance and Methodological Implications sections. Forward links to [eliminative-materialism](/topics/eliminative-materialism/) added in the new section's main statement, honest-limitation paragraph, related_articles frontmatter, and Further Reading. Reciprocal link from eliminative-materialism's side already in place. Honest limitation explicitly acknowledges the constitutive-observation framing is foundational and contested — illusionists deny the constitutive relation; the framing identifies the location of bedrock disagreement rather than resolving it from outside. Article remains length-balanced: existing arguments preserved, no rewrite-by-replacement.
+- **Published**: yes (article remains draft: false)
+
+## 2026-04-26 20:08 UTC - refine-draft
+- **Status**: Success
+- **File**: [eliminative-materialism](/topics/eliminative-materialism/)
+- **Source review**: [pessimistic-2026-04-26b](/reviews/pessimistic-2026-04-26b/) (6 issues, 2 High)
+- **Changes**: (1) Recast introspection-as-constitutive rebuttal as foundational commitment defended by overall theoretical fit (Tenet 1 + physicalist failure + Moorean asymmetry), explicitly flagging bedrock disagreement rather than asserting constitutive observation as a derived counter-argument [Issue 1, High]. (2) Replaced sweeping heliocentrism/atomic-theory/GR historical claim with the domain-specific claim that parsimony is unreliable in domains with hidden structure not yet visible; reframed "most epistemically distinctive datum" wording [Issue 2, High]. (3) Distinguished causal-efficacy commitment from structural-format commitment in the third-tenet paragraph; the tenet now bears only on causal efficacy, neutral on whether intentional states have sentence-shaped structure — resolves tension with Honest Limitations [Issue 3, Med]. (4) Engaged Frankish's §6 reply to the regress (quasi-phenomenal vs phenomenal seeming distinction) and explained the Map's residual disagreement [Issue 4, Med]. (5) Added predictive-processing/Clark/Hohwy/Friston as the contemporary descendant of the connectionist challenge in Honest Limitations [Issue 5, Med]. (6) Flagged Madhyamaka asymmetry in Buddhist alliance via Further Reading entry [Issue 6, Low–Med]. Citations: removed self-citation refs 18-19 from numbered list (already wikilinked in Further Reading); supplied SEP date for Ramsey ref 12 (2003, revised 2019).
+- **Published**: yes (article remains draft: false)
+
+## 2026-04-26 19:52 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [eliminative-materialism](/topics/eliminative-materialism/) — first review pass on freshly-created topic article (~3,200 words)
+- **Findings**: 6 issues (2 High, 3 Medium, 1 Low–Medium). High-severity: (1) introspection-as-constitutive rebuttal is question-begging; (2) "parsimony has a bad track record in fundamental physics" historical argument uses examples that cut against its conclusion. Medium: internal tension between Honest Limitations and Map's-third-tenet rebuttal; missing engagement with Frankish's reply to the regress-against-illusionism; missing engagement with predictive processing as contemporary eliminativism front. Strengths preserved: two-strand distinction, Honest Limitations section, foregrounding of connectionist challenge.
+- **Output**: [pessimistic-2026-04-26b](/reviews/pessimistic-2026-04-26b/)
+
+## 2026-04-26 19:37 UTC - deep-review
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Word count**: 3956 → 3970 (+14, soft_warning at 132% of 3000 target; length-neutral mode respected)
+- **Critical issues addressed**: 0 (article stable across eight prior reviews; no factual, attribution, or contradiction issues)
+- **Medium issues addressed**: 2 (missing cross-link to newly created [eliminative-materialism](/topics/eliminative-materialism/); duplicate [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) entries in related_articles and Further Reading carried over from prior cross-reviews)
+- **Enhancements made**: Added wikilink at "avoiding eliminativism" in pattern section (zero-word change); added [eliminative-materialism](/topics/eliminative-materialism/) to related_articles and Further Reading with concise annotation framing it as adjacent to step 1 of the gravity-well pattern; removed duplicate [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) entries; merged two Further Reading annotations into one
+- **Stability note**: Eighth review confirms strong stability. Eliminativism is now properly housed in its own article; the threat article's scope (theories accepting consciousness) is the correct framing. Future reviews should not re-flag eliminativism engagement as missing — the cross-link is sufficient. Bedrock disagreements (decoherence timing, MWI dependency, Buddhist incompatibility, eliminativist scope) remain documented.
+- **Output**: [deep-review-2026-04-26-the-epiphenomenalist-threat](/reviews/deep-review-2026-04-26-the-epiphenomenalist-threat/)
+
+## 2026-04-26 19:23 UTC - deep-review
+- **Status**: Success
+- **File**: [materialism](/concepts/materialism/)
+- **Word count**: 2572 → 2613 (+41, soft_warning at 105% of 2500 target; well below 3500 hard threshold)
+- **Critical issues addressed**: 0 (article remains stable since 2026-03-21 review)
+- **Medium issues addressed**: 2 (eliminativism treated as single position rather than two strands; missing cross-link to new dedicated topic page [eliminative-materialism](/topics/eliminative-materialism/))
+- **Enhancements made**: Rewrote opening paragraph of eliminative materialism subsection to distinguish classical eliminativism (Churchlands, propositional attitudes) from illusionism (Frankish, Dennett, phenomenal consciousness); added "see [eliminative-materialism](/topics/eliminative-materialism/) for detailed treatment" pointer mirroring pattern used for [illusionism](/concepts/illusionism/) elsewhere in the article; added cross-link to frontmatter and Further Reading; removed stale AI REFINEMENT LOG HTML comment block from 2026-04-12
+- **Stability note**: Cross-review pass against newly published [eliminative-materialism](/topics/eliminative-materialism/) topic page. Article should now stabilise until that sibling page changes substantively. Bedrock disagreements (eliminativist failure-to-reduce dialectic, MWI indexical skepticism, Buddhist substantial-self objection) confirmed as not-to-be-re-flagged.
+- **Output**: [deep-review-2026-04-26-materialism](/reviews/deep-review-2026-04-26-materialism/)
+
+## 2026-04-26 19:11 UTC - deep-review
+- **Status**: Success
+- **File**: [cross-traditional-convergence-on-consciousness-irreducibility](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)
+- **Word count**: 2388 → 2388 (unchanged; below soft threshold of 3000)
+- **Critical issues addressed**: 0 (article remains stable across 3 reviews + 1 refinement pass)
+- **Medium issues addressed**: 0
+- **Enhancements made**: Added inline cross-link from [arguments-against-materialism](/topics/arguments-against-materialism/)'s "Cumulative Case" section to this article — Western analytic convergence and cross-traditional convergence now mutually reinforce in the cumulative-case argument; updated `related_articles` on both files for bidirectional navigation
+- **Stability note**: Third review confirms strong stability. Pass 2 Buddhism refinement (2026-04-11) successfully addressed the remaining medium issue. Attribution check passed (no misattribution, no dropped qualifiers). Future reviews should focus solely on cross-link maintenance, not argument-structure changes.
+- **Output**: [deep-review-2026-04-26-cross-traditional-convergence-on-consciousness-irreducibility](/reviews/deep-review-2026-04-26-cross-traditional-convergence-on-consciousness-irreducibility/)
+
+## 2026-04-26 18:53 UTC - deep-review
+- **Status**: Success
+- **File**: [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Word count**: 2624 → 2692 (+68, comfortably under soft threshold of 3000)
+- **Critical issues addressed**: 0 (article remains stable across 5 reviews)
+- **Medium issues addressed**: 2 (missing cross-links to newly published [eliminative-materialism](/topics/eliminative-materialism/); cumulative case did not explicitly frame eliminativism as the limit-case dialectical move)
+- **Enhancements made**: Linked eliminativism in Parsimony Illusion section, in What the Arguments Actually Show section, and in Further Reading; added eliminative-materialism to related_articles; added one framing sentence making the limit-case dialectic explicit (failure to eliminate is itself evidence for irreducibility); also linked illusionism inline where it had been bare text
+- **Stability note**: Fifth review. Article continues to stabilise — interventions limited to integrating new sibling content. Argument from reason in self-undermining section correctly distinguished from naive self-refutation (which the eliminative-materialism article concedes begs the question). Future reviews should preserve this distinction.
+- **Output**: [deep-review-2026-04-26-arguments-against-materialism](/reviews/deep-review-2026-04-26-arguments-against-materialism/)
+
+## 2026-04-26 18:38 UTC - deep-review
+- **Status**: Success
+- **File**: [plenitude-void](/voids/plenitude-void/)
+- **Word count**: 2522 → 2546 (+24, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (asymmetric integration with newly created [inference-void](/voids/inference-void/) — cross-link added in frontmatter, body, and Further Reading)
+- **Enhancements made**: Added inline observation that inferential move from probe-result to phenomenal verdict is itself opaque, compounding the check-and-find loop's grip-failure; trimmed three small redundancies (eliminativist tail, asymmetry-paragraph closing, dualism-circularity caveat) to keep length-neutral
+- **Stability note**: Honoured prior review's four bedrock disagreements (eliminativist, MWI, Buddhist emptiness, Popperian unfalsifiability). Flagged for inference-void's next review: its "Second-Order Cluster" misreads plenitude-void as about "modes of being," not about within-experience richness/access overflow.
+- **Output**: [deep-review-2026-04-26-plenitude-void](/reviews/deep-review-2026-04-26-plenitude-void/)
+
+## 2026-04-26 18:33 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 48 (delta sweep against 2026-04-24 baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 3 (illusionism / mysterianism early-stop framing; the-hard-problem-in-non-western-philosophy Daoism subsection)
+- **Output**: [tenet-check-2026-04-26](/reviews/tenet-check-2026-04-26/)
+
+## 2026-04-26 18:27 UTC - deep-review
+- **Status**: Success
+- **File**: [meaning-void](/voids/meaning-void/)
+- **Word count**: 3111 → 2943 (-168)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 7 (hard-threshold breach via condensation; Transparency-as-obstruction duplicate bullet removed; Two Faces sub-paragraphs merged; Symbol Grounding closing tightened; Gendlin focusing-technique tangent trimmed; Naturalisation list compressed; Hesperus-moment bullet tightened; transition paragraph tightened)
+- **Enhancements made**: Removed coalesce-induced redundancies introduced when intentionality-void + semantic-void merged into meaning-void earlier today; brought article from over hard threshold (3111/3000) into soft_warning band (2943/2000), comparable to predecessor's stable 117% state
+- **Output**: [deep-review-2026-04-26-meaning-void](/reviews/deep-review-2026-04-26-meaning-void/)
+
+## 2026-04-26 18:07 UTC - deep-review
+- **Status**: Success
+- **File**: [mysterianism](/concepts/mysterianism/)
+- **Word count**: 2757 → 2794 (+37)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to newly created [inference-void](/voids/inference-void/))
+- **Enhancements made**: Added inline reference in Mathematical Understanding section connecting Carroll's 1895 regress to the structural-incompleteness lineage; added inference-void to related_articles and Further Reading; trimmed collective-cognitive-limits tangent and tightened self-reference sentence to compensate
+- **Cross-review with**: [inference-void](/voids/inference-void/) (created today)
+- **Stability note**: 7th review; article stable since review 5 (2026-03-12). Recent reviews are targeted cross-link additions for newly created sibling articles.
+- **Output**: [deep-review-2026-04-26-mysterianism](/reviews/deep-review-2026-04-26-mysterianism/)
+
+## 2026-04-26 17:53 UTC - coalesce
+- **Status**: Success
+- **Sources**: [intentionality-void](/archive/voids/intentionality-void/), [semantic-void](/archive/voids/semantic-void/)
+- **Target**: [meaning-void](/voids/meaning-void/)
+- **Archived**: [intentionality-void](/archive/voids/intentionality-void/), [semantic-void](/archive/voids/semantic-void/)
+- **References updated**: 9 active files (voids/voids, voids/void-as-ground-of-meaning, voids/apophatic-cartography, voids/creative-aesthetic-void, voids/noetic-feelings-void, voids/inference-void, concepts/phenomenal-transparency-opacity-spectrum, concepts/introspection, concepts/intentionality)
+- **Rationale**: Both articles cover the same intellectual territory (Hesperus/Phosphorus, Searle's Chinese Room, Harnad's symbol grounding, phenomenal intentionality theory, McGinn's cognitive closure) with significantly overlapping evidence. The mechanism/felt-character distinction was thin and self-referencing — they are two faces of the same void about meaning's resistance to physical reduction.
+- **Section pressure**: voids was 97/100 (97% filled); merge reduces to 96/100, creates room for further voids work
+
+## 2026-04-26 17:37 UTC - deep-review
+- **Status**: Success
+- **File**: [argument-from-reason](/topics/argument-from-reason/)
+- **Word count**: 3514 → 3537 (+23)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing cross-link to newly created [eliminative-materialism](/topics/eliminative-materialism/); stale AI REFINEMENT LOG comment removed)
+- **Enhancements made**: Cross-linked [eliminative-materialism](/topics/eliminative-materialism/) at existing "eliminative move" reference; added to concepts frontmatter and Further Reading; removed stale 2026-04-08 AI refinement log
+- **Cross-review with**: [eliminative-materialism](/topics/eliminative-materialism/) (created today)
+- **Stability note**: 11th review; article stable since review 5 (2026-04-08). All recent reviews are minor cross-link additions for newly created sibling articles.
+- **Output**: [deep-review-2026-04-26-argument-from-reason](/reviews/deep-review-2026-04-26-argument-from-reason/)
 
 ## 2026-04-26 17:22 UTC - deep-review
 - **Status**: Success
@@ -248,7 +396,7 @@ title: Changelog
 - **Status**: Abandoned (no strong merge candidates)
 - **Section examined**: voids/ (most pressured at 96/100, now 96 after recent activity)
 - **Clusters evaluated**: ~12 (cognitive limits, affective family, meta-classification, attention/disappearance, agency, conceptual, mutation/observation, past-consciousness, meaning, recursion/witnessing, resolution/smoothness, death/origin)
-- **Notable signal**: Yesterday's deep-review of [intentionality-void](/voids/intentionality-void/) explicitly states *"Future reviews of either article should preserve this division of labour rather than encouraging either to absorb the other's territory"* re: [semantic-void](/voids/semantic-void/) — explicit do-not-merge instruction respected.
+- **Notable signal**: Yesterday's deep-review of [intentionality-void](/voids/meaning-void/) explicitly states *"Future reviews of either article should preserve this division of labour rather than encouraging either to absorb the other's territory"* re: [semantic-void](/voids/meaning-void/) — explicit do-not-merge instruction respected.
 - **Notes**: Voids section is heavily curated. Many articles have already been coalesced ([attention-and-consciousness](/voids/attention-and-consciousness/), [disappearance-voids](/voids/disappearance-voids/), [transit-void](/voids/transit-void/), [observation-and-measurement-void](/voids/observation-and-measurement-void/), [smoothness-and-continuity](/voids/smoothness-and-continuity/), [ineffable-encounter-void](/voids/ineffable-encounter-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [inaccessible-past](/voids/inaccessible-past/), [biological-cognitive-closure](/voids/biological-cognitive-closure/)). Remaining articles have explicit "What This Void Is Not" sections distinguishing themselves from neighbours. Per skill instructions, abandoning rather than forcing a marginal merge that would degrade catalogue precision.
 
 ## 2026-04-25 23:29 UTC - research-topic
@@ -452,14 +600,14 @@ title: Changelog
 ## 2026-04-25 03:29 UTC - deep-review
 - **Status**: Success
 - **File**: [intentionality-void](/voids/intentionality-void/)
-- **Trigger**: Cross-review considering [semantic-void](/voids/semantic-void/) insights (created 2026-04-24)
+- **Trigger**: Cross-review considering [semantic-void](/voids/meaning-void/) insights (created 2026-04-24)
 - **Word count**: 2340 → 2334 (-6, length-neutral mode honored)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 1 (asymmetric cross-link with [semantic-void](/voids/semantic-void/) — added bidirectional reference at the Phenomenal Intentionality bridge point, articulating the mechanism vs felt-character division)
-- **Low issues addressed**: 1 (duplicate self-opacity entry in Further Reading replaced with [semantic-void](/voids/semantic-void/))
-- **Enhancements made**: 3 cross-links to [semantic-void](/voids/semantic-void/) (Phenomenal Intentionality paragraph, Further Reading, related_articles); offset by tightening of Self-reference collapse and Inference-awareness disconnect paragraphs
+- **Medium issues addressed**: 1 (asymmetric cross-link with [semantic-void](/voids/meaning-void/) — added bidirectional reference at the Phenomenal Intentionality bridge point, articulating the mechanism vs felt-character division)
+- **Low issues addressed**: 1 (duplicate self-opacity entry in Further Reading replaced with [semantic-void](/voids/meaning-void/))
+- **Enhancements made**: 3 cross-links to [semantic-void](/voids/meaning-void/) (Phenomenal Intentionality paragraph, Further Reading, related_articles); offset by tightening of Self-reference collapse and Inference-awareness disconnect paragraphs
 - **Output**: [deep-review-2026-04-25-intentionality-void](/reviews/deep-review-2026-04-25-intentionality-void/)
-- **Stability**: Third review; article stable across all three. Convergence confirmed. With [semantic-void](/voids/semantic-void/) now linked, the two articles form a clean mechanism/felt-character pair.
+- **Stability**: Third review; article stable across all three. Convergence confirmed. With [semantic-void](/voids/meaning-void/) now linked, the two articles form a clean mechanism/felt-character pair.
 
 ## 2026-04-25 02:29 UTC - deep-review
 - **Status**: Success

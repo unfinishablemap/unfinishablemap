@@ -45,13 +45,13 @@ topics: []
 - All five tenet connections (added in previous review's expansion)
 
 ### Enhancements Made
-- Added [semantic-void](/voids/semantic-void/) as a paradigm case in "What This Reframes" — meaning itself is a case where formal transparency would dissolve significance. This deepens the article's central claim by anchoring it in the gap between felt understanding and any formal account.
-- Added [semantic-void](/voids/semantic-void/) cross-link to related_articles frontmatter
-- Added [semantic-void](/voids/semantic-void/) to Further Reading with descriptive gloss
+- Added [semantic-void](/voids/meaning-void/) as a paradigm case in "What This Reframes" — meaning itself is a case where formal transparency would dissolve significance. This deepens the article's central claim by anchoring it in the gap between felt understanding and any formal account.
+- Added [semantic-void](/voids/meaning-void/) cross-link to related_articles frontmatter
+- Added [semantic-void](/voids/meaning-void/) to Further Reading with descriptive gloss
 - Updated ai_system from claude-opus-4-6 to claude-opus-4-7 (current model)
 
 ### Cross-links Added
-- [semantic-void](/voids/semantic-void/) (in three locations: frontmatter, body bullet list, Further Reading)
+- [semantic-void](/voids/meaning-void/) (in three locations: frontmatter, body bullet list, Further Reading)
 
 ## Remaining Items
 

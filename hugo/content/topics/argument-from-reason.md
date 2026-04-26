@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-16 13:13:00+00:00
+ai_modified: 2026-04-26 17:37:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -20,6 +20,7 @@ concepts:
 - '[[intentionality]]'
 - '[[pragmatism]]'
 - '[[evaluative-phenomenal-character]]'
+- '[[eliminative-materialism]]'
 created: 2026-01-23
 date: &id001 2026-01-24
 description: If thoughts are fully explained by physical causes, no belief is rationally
@@ -27,7 +28,7 @@ description: If thoughts are fully explained by physical causes, no belief is ra
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 13:13:00+00:00
+last_deep_review: 2026-04-26 17:37:00+00:00
 modified: *id001
 related_articles:
 - '[[topics/free-will]]'
@@ -147,7 +148,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 
 **"Sellars showed normative and causal vocabularies can coexist."** Sellars showed conceptual irreducibility—that we cannot describe reasoning without normative vocabulary. But the Map's dualism claims *ontological* irreducibility—that normative properties cannot be reduced to or supervene on physical properties. Sellars's reconciliation assumes what's in question: that conceptual irreducibility doesn't require ontological dualism.
 
-**"We simply don't understand how consciousness tracks normative relationships."** This objection has force—and the Map acknowledges it. [Colin McGinn](/concepts/mysterianism/) argues that certain aspects of the mind-body relationship may exceed human cognitive capacities. The *mechanism* by which phenomenal consciousness grasps logical necessity may be naturally mysterious—not because it doesn't exist, but because understanding it requires concepts we cannot acquire. The argument establishes *that* consciousness must track normative relationships (on pain of self-defeat), even if *how* remains beyond our comprehension—distinguishing mysterianism's epistemic modesty from the eliminative move of denying that normative tracking occurs.
+**"We simply don't understand how consciousness tracks normative relationships."** This objection has force—and the Map acknowledges it. [Colin McGinn](/concepts/mysterianism/) argues that certain aspects of the mind-body relationship may exceed human cognitive capacities. The *mechanism* by which phenomenal consciousness grasps logical necessity may be naturally mysterious—not because it doesn't exist, but because understanding it requires concepts we cannot acquire. The argument establishes *that* consciousness must track normative relationships (on pain of self-defeat), even if *how* remains beyond our comprehension—distinguishing mysterianism's epistemic modesty from the [eliminative move](/topics/eliminative-materialism/) of denying that normative tracking occurs.
 
 **"The unified self that 'grasps' reasons may itself be constructed."** Buddhist philosophy and certain cognitive science approaches deny the substantial self that the argument seems to presuppose. If there is no unified rational agent persisting through an inference, what does the "tracking"? This objection has force against naive homuncular pictures, but the argument requires only phenomenal unity—the experienced integration of premises into a conclusion—not a metaphysically substantial self. Hasker's point about the unity required for grasping arguments targets this experiential integration, which remains even if the "self" is understood as process rather than substance. The question becomes whether phenomenal unity can be explained physically—and this leads back to the [binding-problem](/concepts/binding-problem/) and [phenomenal unity](/concepts/unity-of-consciousness/), where the same explanatory challenges arise.
 
@@ -181,6 +182,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) - Why the prescriptive force, universality, and content-sensitivity of logical norms require consciousness
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) - The gap between recognizing a fact and being bound by it requires phenomenal awareness
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) - Why positions that cannot be rationally held are epistemically self-defeating
+- [eliminative-materialism](/topics/eliminative-materialism/) - The limit case of physicalism, where the same self-stultification structure recurs against the eliminativist's denial of belief and intentional content
 
 ## References
 
@@ -197,16 +199,3 @@ Plantinga, Alvin. *Warrant and Proper Function*. Oxford University Press, 1993. 
 Reppert, Victor. *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. InterVarsity Press, 2003.
 
 Sellars, Wilfrid. "Empiricism and the Philosophy of Mind." *Minnesota Studies in the Philosophy of Science*, vol. 1, 1956.
-
-<!-- AI REFINEMENT LOG - 2026-04-08
-Changes made:
-- Added argumentation for the phenomenal intentionality thesis (PIT) where first introduced, acknowledging it is contested and providing three considerations favouring it
-- Introduced "Granting PIT" transition to make the dependency explicit
-- Updated Reppert section to back-reference PIT argumentation rather than treating it as given
-- Updated AI objection section to cross-reference PIT argumentation
-
-Based on pessimistic review finding that PIT was doing heavy argumentative lifting without being argued for.
-Key improvements: Article now explicitly flags PIT as contested and provides reasons to accept it, rather than treating it as established.
-
-This log should be removed after human review.
--->

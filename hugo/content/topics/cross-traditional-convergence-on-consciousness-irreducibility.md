@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-11 11:56:00+00:00
+ai_modified: 2026-04-26 19:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Philosophical traditions that disagree about almost everything else
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 17:10:00+00:00
+last_deep_review: 2026-04-26 19:11:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[samkhya-three-way-distinction]]'
 - '[[indian-philosophy-of-mind]]'
 - '[[islamic-sufi-philosophy-of-consciousness]]'
+- '[[arguments-against-materialism]]'
 title: Cross-Traditional Convergence on Consciousness Irreducibility
 topics:
 - '[[hard-problem-of-consciousness]]'

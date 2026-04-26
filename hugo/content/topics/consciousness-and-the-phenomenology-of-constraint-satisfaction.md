@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-04-26 20:37:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Constraint satisfaction has distinctive phenomenal character — th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 23:42:00+00:00
+last_deep_review: 2026-04-26 20:37:00+00:00
 modified: *id001
 related_articles:
 - '[[bandwidth-of-consciousness]]'
@@ -50,7 +50,7 @@ The [phenomenology of cognitive capacity](/topics/phenomenology-of-cognitive-cap
 
 The Unfinishable Map's framework — particularly the [control-theoretic model of will](/concepts/control-theoretic-will/) — reframes constraint satisfaction as a domain where consciousness performs its core function: selection among options the brain prepares.
 
-In this view, the brain's unconscious processing generates candidate solutions at enormous bandwidth — aggregate sensory and neural processing reaches ~10⁹ bits/second (Nørretranders, 1998). Consciousness operates at roughly 10 bits/second, selecting among these candidates. Constraint satisfaction is where this architecture becomes most phenomenally vivid, because the constraints themselves shape which candidates the brain generates and which consciousness can accept.
+In this view, the brain's unconscious processing generates candidate solutions at enormous bandwidth — aggregate neural processing reaches ~10⁹ bits/second (Zheng & Meister, 2025), while consciousness operates at roughly 10 bits/second (Nørretranders, 1998), selecting among these candidates. Constraint satisfaction is where this architecture becomes most phenomenally vivid, because the constraints themselves shape which candidates the brain generates and which consciousness can accept.
 
 This selection architecture parallels what the [phenomenology of volitional control](/topics/volitional-control/) describes for motor action: the brain prepares multiple candidates, and consciousness selects among them. Constraint satisfaction is where this architecture manifests in cognition more broadly. Three features of the selection process have distinctive phenomenal character:
 
@@ -123,7 +123,8 @@ The disconnect between computational complexity and phenomenal intensity poses a
 
 ## References
 
-1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking. [Source for the ~10 bits/second conscious bandwidth estimate and ~10⁹ bits/second sensory input bandwidth.]
+1. Zheng, J. & Meister, M. (2025). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*, 113(2), 192–204. [Source for the ~10⁹ bits/second aggregate neural processing estimate and the conscious throughput of ~10 bits/second.]
+1. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking. [Popularises the user-illusion framing of the bandwidth disparity and reports conscious bandwidth at ~10–40 bits/second.]
 1. Simon, H. A. (1956). Rational choice and the structure of the environment. *Psychological Review*, 63(2), 129–138. [Foundational work on satisficing and bounded rationality under constraints.]
 1. Beilock, S. L., & Carr, T. H. (2001). On the fragility of skilled performance: What governs choking under pressure? *Journal of Experimental Psychology: General*, 130(4), 701–725. [Empirical evidence for attentional interference with automatised constraint processing.]
 1. Dreyfus, H. L. (2002). Intelligence without representation. *Phenomenological Research*, 67, 367–383. [Phenomenological analysis of skill acquisition and the withdrawal of conscious engagement.]

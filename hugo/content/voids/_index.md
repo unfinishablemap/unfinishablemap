@@ -96,7 +96,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Erasure Void](/voids/erasure-void/) — Why consciousness cannot inventory its own deletions: lost capacities take their detection mechanisms with them
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — Where consciousness goes during deep sleep
-- [The Intentionality Void](/voids/intentionality-void/) — How thoughts achieve their aboutness, hidden from the consciousness it constitutes
+- [The Meaning Void](/voids/meaning-void/) — How thoughts achieve their aboutness, and what understanding feels like once they have. Both faces resist physical reduction (coalesced from intentionality-void and semantic-void 2026-04-26)
 - [The Creativity Void](/voids/creative-aesthetic-void/) — Where creative insight originates, inaccessible to introspection
 - [The Aesthetic Void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
 - [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
@@ -146,7 +146,6 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Surplus Void](/voids/the-surplus-void/) — Why experience delivers richness far beyond survival requirements
 - [The Plenitude Void](/voids/plenitude-void/) — Why conscious experience seems richer than can be reported or checked, and why every introspective probe for sparsity generates the detail it was meant to measure (created 2026-04-23)
 - [The Ineffable Encounter Void](/voids/ineffable-encounter-void/) — Why consciousness encounters meaning and sacred significance it cannot articulate or evaluate from within
-- [The Semantic Void](/voids/semantic-void/) — Where the felt character of meaning exceeds any representational scheme: every model of semantic content leaves a residue that only meaning-as-lived registers (created 2026-04-24)
 - [The Conceptual Metabolism Void](/voids/conceptual-metabolism-void/) — How understanding consumes concepts irreversibly, destroying their pre-understood form
 
 ### Types of Cognitive Limits
@@ -203,7 +202,7 @@ The voids project embodies the Map's distinctive methodology: mapping what we ca
 Changes made:
 - Added [question-formation-void](/voids/question-formation-void/) to Foundational Articles, placed immediately after [epistemic-horizon-void](/voids/epistemic-horizon-void/). The article explicitly self-identifies with the April 2026 second-order cluster (epistemic-horizon-void, plenitude-void, categorial-void) and frames itself as the void that shadows apophatic cartography itself. Foundational Articles is where second-order voids already sit; the descriptor flags the "method-horizon" character so the entry reads correctly at this level of the taxonomy.
 - Added [source-attribution-void](/voids/source-attribution-void/) to Specific Voids, placed immediately after [self-opacity](/voids/self-opacity/) since the article positions itself as a sharper relative of self-opacity (granting mechanism-blindness in general but isolating the missing origin tag). Sits naturally alongside witnessing-void, narrative-void, and predictive-construction-void in the access/self-knowledge family.
-- Added [semantic-void](/voids/semantic-void/) to Phenomenology of Limits, placed between [ineffable-encounter-void](/voids/ineffable-encounter-void/) and [conceptual-metabolism-void](/voids/conceptual-metabolism-void/). The article concerns the felt character of meaning vs. any representational scheme—closely adjacent to the ineffable-encounter-void's territory of unarticulable meaning, and complementary to conceptual-metabolism-void's account of what understanding does to concepts.
+- Added [semantic-void](/voids/meaning-void/) to Phenomenology of Limits, placed between [ineffable-encounter-void](/voids/ineffable-encounter-void/) and [conceptual-metabolism-void](/voids/conceptual-metabolism-void/). The article concerns the felt character of meaning vs. any representational scheme—closely adjacent to the ineffable-encounter-void's territory of unarticulable meaning, and complementary to conceptual-metabolism-void's account of what understanding does to concepts.
 - Updated ai_modified timestamp to 2026-04-26T02:36:00+00:00.
 
 Sanity-check on other recent voids: witnessing-void (line 90), necessary-opacity (123), distraction-void (109), noetic-feelings-void (114), observation-and-measurement-void (99), quantitative-intuition-void (75), acquaintance-void (103, also 156), and void-as-ground-of-meaning (71) all appear at least once.

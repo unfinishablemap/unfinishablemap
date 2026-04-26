@@ -30,7 +30,7 @@ related_articles:
 - '[[recursion-void]]'
 - '[[witnessing-void]]'
 - '[[transit-void]]'
-- '[[intentionality-void]]'
+- '[[meaning-void]]'
 - '[[recognition-void]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[apophatic-cartography]]'
@@ -133,7 +133,7 @@ The void sits with [formal cognitive limits](/voids/formal-cognitive-limits/) as
 - [recursion-void](/voids/recursion-void/)
 - [witnessing-void](/voids/witnessing-void/)
 - [transit-void](/voids/transit-void/)
-- [intentionality-void](/voids/intentionality-void/)
+- [meaning-void](/voids/meaning-void/)
 - [recognition-void](/voids/recognition-void/)
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
 - [apophatic-cartography](/voids/apophatic-cartography/)

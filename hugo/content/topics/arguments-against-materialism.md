@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-04-05 14:26:00+00:00
+ai_modified: 2026-04-26 18:53:46+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: 'Multiple independent philosophical arguments converge on the same 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 07:38:00+00:00
+last_deep_review: 2026-04-26 18:53:46+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,12 +33,14 @@ related_articles:
 - '[[epistemological-limits-occams-razor]]'
 - '[[parsimony-epistemology]]'
 - '[[concepts/epiphenomenalism]]'
+- '[[eliminative-materialism]]'
 - '[[arguments/materialism-argument]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[testing-consciousness-collapse]]'
 - '[[parsimony-case-for-interactionist-dualism]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[concession-convergence-philosophy-of-mathematics]]'
+- '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
 title: Arguments Against Materialism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -58,7 +60,7 @@ The arguments exploit genuinely different features of consciousness. The explana
 
 A materialist might object that these arguments share a hidden flaw—perhaps a common reliance on unreliable intuitions about consciousness, or a shared philosophical methodology that systematically generates anti-physicalist conclusions. This is the strongest version of the objection: not that each argument fails individually, but that the convergence is an artefact of the method rather than evidence about reality.
 
-The objection has force against some subsets of the arguments. The conceivability argument and the knowledge argument both rely on epistemic access to phenomenal states, so their convergence is partly expected. But the full set of arguments draws on genuinely independent methodological traditions. The argument from reason concerns the normativity of inference—a problem in epistemology, not phenomenology. The unity of consciousness concerns mereological composition—a problem in metaphysics. Kripke's modal argument turns on the semantics of identity statements. These are not intuition-pump variations of the same reasoning; they arise from different philosophical subdisciplines using different tools. A methodological explanation of the convergence would need to identify a single bias operative across epistemology, metaphysics, modal logic, and philosophy of mind simultaneously—a much harder claim to sustain than the alternative that the convergence tracks something real.
+The objection has force against some subsets of the arguments. The conceivability argument and the knowledge argument both rely on epistemic access to phenomenal states, so their convergence is partly expected. But the full set of arguments draws on genuinely independent methodological traditions. The argument from reason concerns the normativity of inference—a problem in epistemology, not phenomenology. The unity of consciousness concerns mereological composition—a problem in metaphysics. Kripke's modal argument turns on the semantics of identity statements. These are not intuition-pump variations of the same reasoning; they arise from different philosophical subdisciplines using different tools. A methodological explanation of the convergence would need to identify a single bias operative across epistemology, metaphysics, modal logic, and philosophy of mind simultaneously—a much harder claim to sustain than the alternative that the convergence tracks something real. The pattern is reinforced by [cross-traditional convergence](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)—Indian, Islamic, African, and Buddhist philosophical traditions reaching structurally similar conclusions through methods independent of Western philosophy of mind.
 
 These philosophical arguments gain tentative empirical support from phenomena that production models struggle to accommodate. [Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—cognitive clarity returning in patients with severe neurodegeneration—challenges the monotonic relationship between neural substrate and cognitive capacity that production models predict. The evidence for terminal lucidity remains largely based on case reports and retrospective surveys rather than controlled studies, and conventional explanations (transient metabolic changes, incomplete neurodegeneration) have not been ruled out. It is suggestive rather than conclusive. Alongside [psychedelic states](/topics/psychedelics-and-the-filter-model/), [near-death-experiences](/concepts/near-death-experiences/), and [covert consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/), it forms a pattern worth taking seriously, though its evidential weight is modest compared to the philosophical arguments above.
 
@@ -88,7 +90,7 @@ Academic philosophy rewards research programs that produce results. Materialism 
 
 ### The Parsimony Illusion
 
-[Materialism](/concepts/materialism/) seems simpler: one kind of stuff instead of two. But as [parsimony-epistemology](/concepts/parsimony-epistemology/) shows, parsimony arbitrates between theories of equal explanatory power. A "simpler" theory that fails to explain the data has not earned the parsimony discount. Materialism does not explain phenomenal consciousness—it either denies it (eliminativism), redefines it functionally while setting aside qualitative character, appeals to the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) to [explain away the gap](/topics/phenomenal-concepts-as-materialist-response/) as a feature of our *concepts* rather than of reality, or defers it (future science). None of these is an explanation.
+[Materialism](/concepts/materialism/) seems simpler: one kind of stuff instead of two. But as [parsimony-epistemology](/concepts/parsimony-epistemology/) shows, parsimony arbitrates between theories of equal explanatory power. A "simpler" theory that fails to explain the data has not earned the parsimony discount. Materialism does not explain phenomenal consciousness—it either denies it ([eliminativism](/topics/eliminative-materialism/)), redefines it functionally while setting aside qualitative character, appeals to the [phenomenal-concepts-strategy](/concepts/phenomenal-concepts-strategy/) to [explain away the gap](/topics/phenomenal-concepts-as-materialist-response/) as a feature of our *concepts* rather than of reality, or defers it (future science). None of these is an explanation.
 
 The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses this directly: simplicity is an unreliable guide when knowledge is incomplete. The apparent simplicity of materialism may reflect what we are *ignoring* rather than what we have *explained*. Strikingly, [materialists' own leading defenders](/concepts/parsimony-epistemology/) have acknowledged this weakness — Smart never successfully defended his parsimony argument, Lycan calls parsimony "a very posterior reason," and Churchland qualifies it as "not conclusive." See [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) for the full case. For the positive argument that parsimony actually *favours* interactionist dualism, see [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/).
 
@@ -106,7 +108,7 @@ The most common defence of materialism may be the least philosophical: the convi
 
 ## What the Arguments Actually Show
 
-The arguments against materialism are sometimes characterised as proving dualism. They do not. What they show is that physicalism—in all its forms from reductive identity theory to eliminativism to illusionism—cannot account for consciousness.
+The arguments against materialism are sometimes characterised as proving dualism. They do not. What they show is that physicalism—in all its forms from reductive identity theory to [eliminativism](/topics/eliminative-materialism/) to [illusionism](/concepts/illusionism/)—cannot account for consciousness. [Eliminativism](/topics/eliminative-materialism/) is the limit case: it shows what physicalism commits to if pursued consistently, since denying that there is anything for physicalism to explain is the cleanest exit from the explanatory gap. The cumulative case forces a choice between this elimination and the recognition that the failure to reduce is itself evidence for irreducibility.
 
 This leaves the question open. If consciousness is not reducible to the physical, what is it? Several options exist: substance dualism, property dualism, [panpsychism](/concepts/panpsychism/), [idealism](/concepts/idealism/), neutral monism. For a systematic comparison of these [mind-centric frameworks](/topics/analytic-idealism-and-mind-centric-metaphysics/), see the comparative survey. The Map's [tenets](/tenets/) make a specific commitment: [interactionist-dualism](/concepts/interactionist-dualism/), where consciousness is irreducible and causally efficacious, interacting with the physical world at quantum indeterminacies.
 
@@ -137,6 +139,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [leibnizs-mill-argument](/topics/leibnizs-mill-argument/) — The 1714 origin of the anti-materialist tradition
 - [dualism](/concepts/dualism/) — Detailed treatment of each argument with the convergence case
 - [materialism](/concepts/materialism/) — Varieties of materialism and why each fails
+- [eliminative-materialism](/topics/eliminative-materialism/) — The limit-case physicalist response: dissolve the explanandum (classical and illusionist strands)
 - [explanatory-gap](/concepts/explanatory-gap/) — The gap between physical and phenomenal properties
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and the incompleteness of physical knowledge
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument against physicalism

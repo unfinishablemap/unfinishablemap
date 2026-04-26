@@ -93,7 +93,7 @@ Evidence for transparency comes partly from cases where it breaks down. These di
 
 ## Transparency and Intentionality
 
-Phenomenal transparency extends beyond perception to thought itself. The [intentionality-void](/voids/intentionality-void/) explores this: when you think about Paris, Paris appears without revealing how the thought achieved its Paris-directedness. You "see through" the thought to its object, just as you see through visual experience to the visible world. The referential mechanism is transparent.
+Phenomenal transparency extends beyond perception to thought itself. The [intentionality-void](/voids/meaning-void/) explores this: when you think about Paris, Paris appears without revealing how the thought achieved its Paris-directedness. You "see through" the thought to its object, just as you see through visual experience to the visible world. The referential mechanism is transparent.
 
 David Pitt argues we can distinguish what we are thinking—Paris, not London—but this reveals content, not the content-determination process (Pitt, 2004). The aboutness of thought is as transparent as the redness of red. In both cases, the representational medium vanishes, leaving only what is represented.
 
@@ -115,7 +115,7 @@ For the [simulation hypothesis](/concepts/simulation/), phenomenal transparency 
 
 - [phenomenal-opacity](/concepts/phenomenal-transparency-opacity-spectrum/) — The inverse property: when representations become visible as representations, revealing the cognitive architecture transparency hides
 - [necessary-opacity](/voids/necessary-opacity/) — Why consciousness cannot verify its own accuracy, and why piercing this opacity destabilises the system
-- [intentionality-void](/voids/intentionality-void/) — Transparency applied to the aboutness of thought
+- [intentionality-void](/voids/meaning-void/) — Transparency applied to the aboutness of thought
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The question of what matter is in itself, hidden behind transparent perception
 - [self-reference paradox](/voids/self-opacity/) — The structural impossibility of observing the observer
 - [introspection](/concepts/introspection/) — The reliability and limits of first-person access

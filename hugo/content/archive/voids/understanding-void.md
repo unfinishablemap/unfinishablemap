@@ -157,7 +157,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [The Predictive Construction Void](/voids/predictive-construction-void/) — How successful prediction manufactures the feeling of self-evidence
 - [self-opacity](/voids/self-opacity/) — Consciousness cannot fully know itself
 - [Necessary Opacity](/voids/necessary-opacity/) — Consciousness cannot verify its own accuracy, and this opacity is structural
-- [intentionality-void](/voids/intentionality-void/) — How thoughts achieve reference at all
+- [intentionality-void](/voids/meaning-void/) — How thoughts achieve reference at all
 - [recursion-void](/voids/recursion-void/) — The general form of self-referential failure
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Distinguishing evolved from engineered limits
 - [language-thought-boundary](/voids/language-thought-boundary/) — Articulation constraints on comprehension

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-15
-**Article**: [The Intentionality Void](/voids/intentionality-void/)
+**Article**: [The Intentionality Void](/voids/meaning-void/)
 **Previous review**: [2026-02-05](/reviews/deep-review-2026-02-05-intentionality-void/)
 **Word count**: 2334 → 2338 (+4)
 
