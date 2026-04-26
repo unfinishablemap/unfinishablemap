@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 21:39:00+00:00
+ai_modified: 2026-04-26 21:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 21:52 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Boghossian's "The Status of Content" (sophisticated self-refutation against eliminative materialism)
+- **Output**: [[concepts/status-of-content]]
+- **Word count**: 1387
+- **Based on research**: yes (drew on `research/eliminative-materialism-2026-04-26.md` Boghossian section and `topics/eliminative-materialism.md` Principal Objections paragraph)
+- **Notes**: New concept page makes the inline citation in `topics/eliminative-materialism.md` (lines 101, 133) and the catalogue entry in `concepts/self-stultification.md` into a standalone citable concept. Article (a) states Boghossian's argument precisely (content-irrealism-about-attitudes generalises to content-irrealism-tout-court via the eliminativist's own arguments), (b) presents the Devitt-Rey reply (the argument presupposes truth-conditional semantics the eliminativist can decline) and notes the literature has not converged, (c) distinguishes Boghossian's argument from the simpler self-refutation versions that beg the question (targets content not belief; uses opponent's own arguments; locates incoherence at level of theoretical statement), (d) integrates with the broader self-stultification framework while flagging it as one move among many rather than a knockdown, (e) connects to Hutto-Myin's hard-problem-of-content as a parallel structural challenge — pincer framing, (f) honest limitation explicitly carried into the Map's stance: the Map declines to lean on the argument as decisive. Attribution discipline: no verbatim Boghossian quote (research note flagged the full text as inaccessible); argument-summary uses hedged language ("according to the secondary literature", "argues roughly as follows"). Two-channel structure preserved: source exposition cleanly separated from "Relation to Site Perspective" Map integration. No self-citations in references list (per pessimistic-2026-04-26b feedback that self-citations belong in Further Reading, not the numbered references list).
 
 ## 2026-04-26 21:39 UTC - deep-review
 - **Status**: Success

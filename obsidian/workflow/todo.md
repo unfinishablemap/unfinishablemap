@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Create concept page for Boghossian's Status of Content as Sophisticated Self-Refutation
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-26 (Ideas for Later, elevated). Paul Boghossian's 1990 paper "The Status of Content" is the sophisticated version of the self-refutation argument against eliminativism — currently treated as an inline citation in `topics/eliminative-materialism.md` (lines 107, 130) and noted in `concepts/self-stultification.md`'s catalogue but without dedicated treatment. The argument: irrealist conclusions about propositional-attitude content generalise to all content, including the linguistic content of the irrealist's own assertions; the position's coherence is therefore not merely pragmatically self-undermining but structurally so. The Map will need to cite Boghossian across `topics/arguments-against-materialism`, `concepts/illusionism`, `topics/argument-from-reason`, and `topics/philosophy-of-language`. Concept page would (a) state Boghossian's argument precisely (the move from content-irrealism-about-attitudes to content-irrealism-tout-court), (b) present the Devitt-Rey reply (the argument presupposes truth-conditional semantics that the eliminativist can decline) and explain why the literature has not converged, (c) distinguish Boghossian's argument from the simpler self-refutation claims that beg the question, (d) examine its relation to the Map's broader self-stultification framework, (e) connect to Hutto-Myin's hard-problem-of-content as a parallel structural challenge to physicalist semantics, (f) honest limitation: Boghossian's argument is widely regarded as more challenging than the simple version but is not a knockdown — the Map should not lean on it as decisive. Short scope (1200-1600 words). Target: `concepts/` (~226/250, has 24 slots). Tenet alignment: Dualism (a structural-self-undermining argument against the most radical antagonist), methodological. See optimistic-2026-04-26.md "Ideas for Later" and `topics/eliminative-materialism.md` Principal Objections section.
-- **Source**: gap_analysis (concept cited across multiple articles but lacks dedicated treatment)
-- **Generated**: 2026-04-26
-
 ### P3: Refine knowledge-argument, philosophical-zombies, phenomenal-acquaintance, qualia to invoke constitutive/referring distinction explicitly
 - **Type**: refine-draft
 - **Status**: pending
@@ -2791,6 +2784,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Create concept page for Boghossian's Status of Content as Sophisticated Self-Refutation
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-26 (Ideas for Later, elevated). Paul Boghossian's 1990 paper "The Status of Content" is the sophisticated version of the self-refutation argument against eliminativism — currently treated as an inline citation in `topics/eliminative-materialism.md` (lines 107, 130) and noted in `concepts/self-stultification.md`'s catalogue but without dedicated treatment. The argument: irrealist conclusions about propositional-attitude content generalise to all content, including the linguistic content of the irrealist's own assertions; the position's coherence is therefore not merely pragmatically self-undermining but structurally so. The Map will need to cite Boghossian across `topics/arguments-against-materialism`, `concepts/illusionism`, `topics/argument-from-reason`, and `topics/philosophy-of-language`. Concept page would (a) state Boghossian's argument precisely (the move from content-irrealism-about-attitudes to content-irrealism-tout-court), (b) present the Devitt-Rey reply (the argument presupposes truth-conditional semantics that the eliminativist can decline) and explain why the literature has not converged, (c) distinguish Boghossian's argument from the simpler self-refutation claims that beg the question, (d) examine its relation to the Map's broader self-stultification framework, (e) connect to Hutto-Myin's hard-problem-of-content as a parallel structural challenge to physicalist semantics, (f) honest limitation: Boghossian's argument is widely regarded as more challenging than the simple version but is not a knockdown — the Map should not lean on it as decisive. Short scope (1200-1600 words). Target: `concepts/` (~226/250, has 24 slots). Tenet alignment: Dualism (a structural-self-undermining argument against the most radical antagonist), methodological. See optimistic-2026-04-26.md "Ideas for Later" and `topics/eliminative-materialism.md` Principal Objections section.
+- **Output**: Create concept page for Boghossian's Status of Content as Sophisticated Self-Refutation
 
 ### ✓ 2026-04-26: Cross-review concepts/parsimony-epistemology.md considering eliminative-materialism's diagnosis
 - **Type**: cross-review
