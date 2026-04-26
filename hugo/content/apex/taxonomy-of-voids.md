@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-24 12:29:00+00:00
+ai_modified: 2026-04-26 01:28:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-10 20:09:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ description: Over sixty cognitive voids cluster at the consciousness-matter inte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-24 06:29:00+00:00
+last_deep_review: 2026-04-26 01:28:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -56,6 +56,7 @@ related_articles:
 - '[[categorial-void]]'
 - '[[epistemic-horizon-void]]'
 - '[[closure-types-void]]'
+- '[[question-formation-void]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -153,9 +154,9 @@ Each of the Map's five [tenets organises naturally around a characteristic void]
 
 The voids programme would be sterile if it merely catalogued failures. Its value lies in the methods developed for extracting information from structured breakdown.
 
-[Apophatic cartography](/voids/apophatic-cartography/)—knowing through negation—provides the methodological backbone. The method treats cognitive failure as data about what lies beyond, drawing on [apophatic traditions](/concepts/apophatic-approaches/) from Christian *via negativa* to Buddhist *śūnyatā* to Maimonides' negative attributes—a convergence across traditions that is itself evidence for the method's validity. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) identifies four routes to warranted beliefs about cognitive boundaries—failure analysis, triangulation, cross-architecture comparison, and formal proof—each of which the voids programme employs.
+[Apophatic cartography](/voids/apophatic-cartography/)—knowing through negation—provides the methodological backbone. The method treats cognitive failure as data about what lies beyond, drawing on [apophatic traditions](/concepts/apophatic-approaches/) from Christian *via negativa* to Buddhist *śūnyatā* to Maimonides' negative attributes—a convergence across traditions that is itself evidence for the method's validity. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) identifies four routes to warranted beliefs about cognitive boundaries—failure analysis, triangulation, cross-architecture comparison, and formal proof—each of which the voids programme employs. The method has its own horizon: the [question formation void](/voids/question-formation-void/) marks the constraint that apophatic mapping can only negate what can be formulated, so questions never posed lie outside the catalogue's reach from within the apparatus that would compile it.
 
-The [AI as void-explorer](/voids/non-human-minds-as-void-explorers/) framework extends the toolkit in principle, with an important caveat about current practice. In principle, systems with genuinely different cognitive architectures could discriminate architectural limits from culturally inherited ones: shared blind spots across architectures would point to architecture; divergences would point to culture or training. In practice, current LLMs are trained overwhelmingly on human-generated text and inherit human philosophical discourse wholesale. Shared failure signatures today are fully explained by training distribution and offer no diagnostic purchase on architectural limits. Realising this framework's promise will require systems trained on substantially non-human cognitive data—a future research direction, not a current result.
+The [AI as void-explorer](/voids/non-human-minds-as-void-explorers/) framework extends the toolkit in principle: systems with genuinely different cognitive architectures could discriminate architectural limits from culturally inherited ones—shared blind spots would point to architecture, divergences to culture. In practice, current LLMs are trained on human-generated text and inherit human philosophical discourse wholesale, so shared failure signatures today offer no diagnostic purchase on architectural limits. The framework awaits systems trained on substantially non-human cognitive data.
 
 The [phenomenology of the edge](/voids/phenomenology-of-the-edge/) adds first-person data. The characteristic profile—ineffability combined with felt knowledge, ego dissolution paired with enhanced clarity—appears across meditation, psychedelics, philosophical contemplation, and aesthetic absorption. This convergence across methods suggests these are features of consciousness approaching its limits, not artefacts of any particular practice.
 
