@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 22:13:00+00:00
+ai_modified: 2026-04-26 22:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 22:23 UTC - condense
+- **Status**: Success
+- **File**: [[topics/phenomenal-authority-and-first-person-evidence]]
+- **Before**: 4630 words (hard_warning, 154% of target)
+- **After**: 3499 words (soft_warning, mid acceptable range)
+- **Reduction**: 24%
+- **Technique**: Removed AI refinement log block (marked for removal). Compressed Constitutive vs Referring Observation by ~50% (removed Mary/zombies illustrative paragraph, tightened core argument). Cut redundant second opening paragraph. Tightened Phenomenological Method, Husserl Taxonomy, Phenomenal Conservatism, Acquaintance, Competing Models, Reliability Challenge, Rorty, Methodological Implications, and Objections sections. Trimmed Further Reading list from 25 to 15 entries (kept primary cross-links). Dropped 6 uncited references (Bar-On, Gertler, Hasan, Huemer 2007, Moran, Nagel). Preserved core arguments (layered authority, constitutive-observation distinction, gradient table, tenet alignment) and all "Relation to Site Perspective" content.
 
 ## 2026-04-26 22:13 UTC - deep-review
 - **Status**: Success

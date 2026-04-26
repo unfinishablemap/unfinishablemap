@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/phenomenal-authority-and-first-person-evidence.md (4630 words, 154% of soft target / 116% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 4000-word hard threshold for topics/. Length escalated this evening (2026-04-26) when refine-draft added the constitutive-observation framing as the article's central organising distinction (~800-word addition to a previously 2200-word article, ending at 4630 words). The refine deliberately *supplemented* rather than replaced the existing intuition-pump material (Mary, zombies) — that was the right call for the conceptual integration but pushed the article past hard threshold. Condense should (a) preserve the new constitutive-vs-referring-observation framing as the central organising distinction (load-bearing for Tenet 1), (b) trim the legacy intuition-pump exposition where it duplicates structural moves the new framing makes more cleanly, (c) defer detailed treatment of constitutive observation to `concepts/constitutive-vs-referring-observation.md` where appropriate (the concept page now exists to absorb such material), (d) preserve the article's existing arguments and voice. Target ~3500-3800 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review concepts/predictive-processing.md considering eliminative-materialism's PP engagement
 - **Type**: cross-review
 - **Status**: pending
@@ -2819,6 +2812,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Condense topics/phenomenal-authority-and-first-person-evidence.md (4630 words, 154% of soft target / 116% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 4000-word hard threshold for topics/. Length escalated this evening (2026-04-26) when refine-draft added the constitutive-observation framing as the article's central organising distinction (~800-word addition to a previously 2200-word article, ending at 4630 words). The refine deliberately *supplemented* rather than replaced the existing intuition-pump material (Mary, zombies) — that was the right call for the conceptual integration but pushed the article past hard threshold. Condense should (a) preserve the new constitutive-vs-referring-observation framing as the central organising distinction (load-bearing for Tenet 1), (b) trim the legacy intuition-pump exposition where it duplicates structural moves the new framing makes more cleanly, (c) defer detailed treatment of constitutive observation to `concepts/constitutive-vs-referring-observation.md` where appropriate (the concept page now exists to absorb such material), (d) preserve the article's existing arguments and voice. Target ~3500-3800 words. See `/condense` skill.
+- **Output**: obsidian/topics/phenomenal-authority-and-first-person-evidence.md
 
 ### ✓ 2026-04-26: Create concept page for Boghossian's Status of Content as Sophisticated Self-Refutation
 - **Type**: expand-topic
