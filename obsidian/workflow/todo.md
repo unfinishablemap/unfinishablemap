@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/mysterianism.md considering inference-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article voids/inference-void.md (created 2026-04-26) lists [[mysterianism]] in concepts frontmatter and treats inference-void as a candidate paradigm case of the mysterianist thesis under a load-bearing recursion: any inspection of an inference must itself proceed by inference. The mysterianism page does not yet cite inference-void or the recursive-load-bearing argument. Cross-review should (a) add the link back from mysterianism.md to inference-void.md where structural-cognitive-limit cases are named, (b) check whether mysterianism's treatment of McGinn's cognitive closure can be sharpened by inference-void's mechanistic-vs-first-person opacity distinction (cognitive closure is mechanistic; inference-void is first-person), (c) verify terminology consistency, (d) consider whether the existing P3 task to write a `concepts/mechanistic-vs-first-person-opacity` article should be promoted given how many places this distinction is now load-bearing. See voids/inference-void.md.
-- **Source**: chain (from inference-void.md)
-- **Generated**: 2026-04-26
-
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -2749,6 +2742,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review concepts/mysterianism.md considering inference-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/inference-void.md (created 2026-04-26) lists [[mysterianism]] in concepts frontmatter and treats inference-void as a candidate paradigm case of the mysterianist thesis under a load-bearing recursion: any inspection of an inference must itself proceed by inference. The mysterianism page does not yet cite inference-void or the recursive-load-bearing argument. Cross-review should (a) add the link back from mysterianism.md to inference-void.md where structural-cognitive-limit cases are named, (b) check whether mysterianism's treatment of McGinn's cognitive closure can be sharpened by inference-void's mechanistic-vs-first-person opacity distinction (cognitive closure is mechanistic; inference-void is first-person), (c) verify terminology consistency, (d) consider whether the existing P3 task to write a `concepts/mechanistic-vs-first-person-opacity` article should be promoted given how many places this distinction is now load-bearing. See voids/inference-void.md.
+- **Output**: obsidian/concepts/mysterianism.md -- Context: Cross-review concepts/mysterianism.md considering inference-void insights
 
 ### ✓ 2026-04-26: Cross-review topics/argument-from-reason.md considering eliminative-materialism's self-stultification framing
 - **Type**: cross-review
