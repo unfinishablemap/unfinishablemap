@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/materialism.md considering eliminative-materialism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/eliminative-materialism.md (2026-04-26) names the parent concept materialism throughout and treats elim-mat as the most radical strand of materialist theories of mind. concepts/materialism.md should (a) add an inbound link to eliminative-materialism in related concepts and prose, (b) note where elim-mat differs from reductive physicalism in its denial of mental-state ontology, (c) check whether the materialism article's existing section on responses to the hard problem can be tightened by referencing the new article's two-strand analysis (classical vs illusionist), (d) identify any contradictions or terminology drift between the two articles. Light-touch edit; the goal is integration rather than rewrite. See /deep-review skill.
-- **Source**: chain (from topics/eliminative-materialism.md)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review topics/the-epiphenomenalist-threat.md considering eliminative-materialism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2770,6 +2763,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review concepts/materialism.md considering eliminative-materialism insights
+- **Type**: cross-review
+- **Notes**: New article topics/eliminative-materialism.md (2026-04-26) names the parent concept materialism throughout and treats elim-mat as the most radical strand of materialist theories of mind. concepts/materialism.md should (a) add an inbound link to eliminative-materialism in related concepts and prose, (b) note where elim-mat differs from reductive physicalism in its denial of mental-state ontology, (c) check whether the materialism article's existing section on responses to the hard problem can be tightened by referencing the new article's two-strand analysis (classical vs illusionist), (d) identify any contradictions or terminology drift between the two articles. Light-touch edit; the goal is integration rather than rewrite. See /deep-review skill.
+- **Output**: obsidian/concepts/materialism.md -- Context: Cross-review concepts/materialism.md considering eliminative-materialism insights
 
 ### ✓ 2026-04-26: Cross-review topics/arguments-against-materialism.md considering eliminative-materialism insights
 - **Type**: cross-review

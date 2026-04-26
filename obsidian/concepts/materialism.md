@@ -4,7 +4,7 @@ description: "Why physicalism fails to explain consciousness. The explanatory ga
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-12T08:57:00+00:00
+ai_modified: 2026-04-26T19:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,7 @@ concepts:
   - "[[concepts/many-worlds]]"
   - "[[argument-from-reason]]"
   - "[[phenomenology]]"
+  - "[[eliminative-materialism]]"
 related_articles:
   - "[[tenets]]"
   - "[[concepts/epiphenomenalism]]"
@@ -34,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-21T03:27:00+00:00
+last_deep_review: 2026-04-26T19:23:00+00:00
 ---
 
 Materialism (or physicalism) holds that everything that exists is physical—including consciousness. On this view, your experience of seeing red is not something *in addition to* brain activity; it *is* brain activity, or emerges from it, or will one day be explained entirely in physical terms. Materialism has dominated academic [[philosophy-of-mind|philosophy of mind]] for decades, promising ontological simplicity and alignment with natural science.
@@ -63,11 +64,13 @@ The problem: this doesn't solve the hard problem. Even if consciousness superven
 
 ### Eliminative Materialism
 
-The radical option: consciousness as we conceive it doesn't exist. Our folk-psychological concepts—beliefs, desires, experiences—are like "phlogiston" or "caloric"—theoretical posits that a mature neuroscience will eliminate, not reduce. There's nothing for neuroscience to explain because there's nothing there.
+The radical option splits into two strands. *Classical eliminativism* (Paul and Patricia Churchland) targets folk-psychological concepts—beliefs, desires, intentions—as theoretical posits like "phlogiston" or "caloric" that a mature neuroscience will eliminate rather than reduce. *Illusionism* (Frankish, Dennett) targets [[qualia]] specifically, claiming introspection systematically misrepresents physical-functional states as having phenomenal character. The two strands can be held independently.
 
 The appeal: no hard problem if there's no consciousness to explain. The problem vanishes because its subject matter vanishes.
 
 The problem: eliminativism seems to deny the obvious. There is [[phenomenology|something it is like]] to read these words. Eliminativists respond that functional states can be acknowledged without the folk psychological framework of "experiences" and "qualia"—but this response merely pushes back the question: what explains the differential processing that constitutes the illusion of rich qualitative character? The position risks self-undermining in a way similar to [[concepts/epiphenomenalism]].
+
+See [[eliminative-materialism]] for detailed treatment of both strands and the Map's nuanced response.
 
 ### Illusionism
 
@@ -200,6 +203,7 @@ None currently obtains, and each faces significant challenges. Materialism remai
 - [[analytic-idealism-and-mind-centric-metaphysics]] — Comparative survey of mind-centric alternatives to materialism
 - [[concepts/epiphenomenalism]] — What happens if you accept the gap but deny mental causation
 - [[illusionism]] — Materialism's most radical response to the hard problem
+- [[eliminative-materialism]] — Two strands of the radical materialist alternative
 - [[concepts/functionalism]] — A materialist theory the Map rejects
 - [[language-and-consciousness]] — How philosophy of language's reductive tools (verification, translation, logical construction) fail when applied to consciousness
 - [[mysterianism]] — The cognitive closure hypothesis and its implications
@@ -221,14 +225,3 @@ None currently obtains, and each faces significant challenges. Materialism remai
 1. Nagel, T. (1974). "What Is It Like to Be a Bat?" *Philosophical Review*, 83, 435-450.
 1. Tallis, R. (2011). *Aping Mankind: Neuromania, Darwinitis, and the Misrepresentation of Humanity*. Acumen.
 1. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-04-12
-Changes made:
-- Expanded "Mysterialism for Everyone" subsection to substantively address dualism's interaction problem
-- Added two paragraphs: one acknowledging the interaction problem's genuine difficulty (Descartes, causal mechanism gap, limits of MQI tenet), one arguing the interaction problem and hard problem differ in kind
-- Addresses pessimistic review Issue 1 (asymmetric explanatory standards)
-
-Key improvements: Article no longer dismisses the interaction problem in a single sentence; philosophical credibility strengthened by honest engagement with dualism's explanatory burden.
-
-This log should be removed after human review.
--->

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 19:11:00+00:00
+ai_modified: 2026-04-26 19:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 19:23 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/materialism]]
+- **Word count**: 2572 → 2613 (+41, soft_warning at 105% of 2500 target; well below 3500 hard threshold)
+- **Critical issues addressed**: 0 (article remains stable since 2026-03-21 review)
+- **Medium issues addressed**: 2 (eliminativism treated as single position rather than two strands; missing cross-link to new dedicated topic page [[eliminative-materialism]])
+- **Enhancements made**: Rewrote opening paragraph of eliminative materialism subsection to distinguish classical eliminativism (Churchlands, propositional attitudes) from illusionism (Frankish, Dennett, phenomenal consciousness); added "see [[eliminative-materialism]] for detailed treatment" pointer mirroring pattern used for [[illusionism]] elsewhere in the article; added cross-link to frontmatter and Further Reading; removed stale AI REFINEMENT LOG HTML comment block from 2026-04-12
+- **Stability note**: Cross-review pass against newly published [[eliminative-materialism]] topic page. Article should now stabilise until that sibling page changes substantively. Bedrock disagreements (eliminativist failure-to-reduce dialectic, MWI indexical skepticism, Buddhist substantial-self objection) confirmed as not-to-be-re-flagged.
+- **Output**: [[reviews/deep-review-2026-04-26-materialism]]
 
 ## 2026-04-26 19:11 UTC - deep-review
 - **Status**: Success
