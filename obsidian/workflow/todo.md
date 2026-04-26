@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review concepts/materialism.md considering eliminative-materialism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/eliminative-materialism.md (2026-04-26) names the parent concept materialism throughout and treats elim-mat as the most radical strand of materialist theories of mind. concepts/materialism.md should (a) add an inbound link to eliminative-materialism in related concepts and prose, (b) note where elim-mat differs from reductive physicalism in its denial of mental-state ontology, (c) check whether the materialism article's existing section on responses to the hard problem can be tightened by referencing the new article's two-strand analysis (classical vs illusionist), (d) identify any contradictions or terminology drift between the two articles. Light-touch edit; the goal is integration rather than rewrite. See /deep-review skill.
+- **Source**: chain (from topics/eliminative-materialism.md)
+- **Generated**: 2026-04-26
+
+### P2: Cross-review topics/the-epiphenomenalist-threat.md considering eliminative-materialism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/eliminative-materialism.md (2026-04-26) deploys the self-stultification argument as its central rebuttal to elim-mat — the same argumentative structure that the-epiphenomenalist-threat.md treats as its master argument against epiphenomenalism. The two articles share load-bearing logical machinery and should cross-cite. the-epiphenomenalist-threat.md should (a) add inbound link to eliminative-materialism, (b) note that elim-mat is the strongest test case for the self-stultification framing — denying the existence of beliefs is more radical than merely denying their causal efficacy, (c) check whether the article's existing self-stultification section can reference the new article's treatment of the AI exception (programs may instantiate something belief-like even when their designers deny mental states), (d) ensure terminology between "epiphenomenal", "eliminated", and "illusory" is kept distinct. See /deep-review skill.
+- **Source**: chain (from topics/eliminative-materialism.md)
+- **Generated**: 2026-04-26
+
+### P2: Cross-review topics/reductionism-and-consciousness.md considering eliminative-materialism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/eliminative-materialism.md (2026-04-26) is named in reductionism-and-consciousness.md's topics frontmatter and the two articles cover allied but distinct positions — reductive physicalism reduces mental states to brain states; eliminativism denies the mental states exist to be reduced. The reductionism article should (a) add an inbound link to eliminative-materialism, (b) draw the reduction-vs-elimination distinction explicitly so readers see why the two responses to the hard problem are not interchangeable, (c) reference the elim-mat article's two-strand treatment (classical vs illusionist) when discussing how reductive strategies can collapse into elimination at the limit, (d) check whether existing arguments against reduction also work against elimination or whether new arguments are needed. See /deep-review skill.
+- **Source**: chain (from topics/eliminative-materialism.md)
+- **Generated**: 2026-04-26
+
 ### P3: Condense voids/meaning-void.md (3111 words, 156% of voids hard threshold)
 - **Type**: condense
 - **Status**: pending
