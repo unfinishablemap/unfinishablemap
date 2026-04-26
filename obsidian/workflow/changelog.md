@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 23:37:00+00:00
+ai_modified: 2026-04-26 23:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 23:54 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections surveyed**: voids (97/100, 97% — most pressured), topics (232/250, 93%), concepts (230/250, 92%)
+- **Candidate clusters re-examined this session**:
+  - Affective family (affective / valence / mood / noetic-feelings): explicit cross-distinguishing sections — range vs structure vs pervasiveness vs felt-signal; mood-void has dedicated "Distinct from Affective and Mood Voids" passage
+  - Born-rule pair (born-rule-and-the-consciousness-interface / born-rule-violation-brain-interface-empirical-status): interpretation-invariance vs empirical-test-landscape; cross-link but cover distinct angles
+  - Metaphysics topics (composition / individuation / laws / ontology-of-dispositions / ontology-of-temporal-becoming): SCQ vs subject-individuation; per-question splits; not redundant
+  - AI cluster (types-of-ai-phenomenal-experience / ai-consciousness-modes / ai-epiphenomenalism / llm-consciousness): types-article opens with explicit division of labour ("structural varieties asks about dimensions; consciousness-modes applies Tulving; this article asks the prior question"); ai-epiphenomenalism is itself coalesced and tightly scoped to the architectural-not-philosophical claim
+  - Memory cluster (episodic / implicit / prospective / semantic / working-memory): each well-developed standalone; working-memory already coalesced
+  - Phenomenology pair (phenomenology-of-cognitive-capacity / phenomenology-of-cognitive-limit-types): saturation/automatisation vs frustration/satisfaction/illusory-comprehension — capacity-article already coalesced from load + automatisation
+  - Creativity pair (consciousness-and-creativity / phenomenology-of-creative-insight): closest to a real candidate — both ~170 lines, share generation/selection synthesis, both reference Bergson/durée and quantum-Zeno mechanism, mutual cross-links. **However**: phenomenology article is itself already coalesced from problem-solving + scientific-discovery, and the two articles serve deliberately distinct functions — framework (what consciousness contributes) vs phase-by-phase phenomenology (search → impasse → restructuring → aha). Their cross-references position them as complementary rather than redundant.
+- **Reason for abandonment**: Per skill guidance ("If after five iterations there are still no strong candidates, abandon the attempt"). The Map is in a mature coalescence state — the closest match (creativity pair) preserves precision through deliberate division of labour; merging would collapse two distinct lenses into one less-focused article. Three of the last four coalesce attempts have abandoned for the same structural reason: remaining articles have explicit "distinguished from related" sections, and the pairs that *could* be merged would lose more precision than they would gain in cap relief.
+- **Recommendation**: Continue addressing cap pressure through condense / deep-review tightening rather than further coalescence; consider raising voids cap if pressure persists.
 
 ## 2026-04-26 23:37 UTC - deep-review
 - **Status**: Success
