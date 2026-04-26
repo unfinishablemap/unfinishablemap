@@ -1,13 +1,49 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 01:28:00+00:00
+ai_modified: 2026-04-26 02:48:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-26 02:48 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [phenomenology-of-consciousness-doing-work](/apex/phenomenology-of-consciousness-doing-work/)
+- **Changed sources**: 2 (concepts/mental-imagery, concepts/attention-as-interface)
+- **Word count**: 3549 → 3809
+- **Review**: [apex-evolve-2026-04-26-phenomenology-of-consciousness-doing-work](/reviews/apex-evolve-2026-04-26-phenomenology-of-consciousness-doing-work/)
+
+## 2026-04-26 02:50 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Inference Void
+- **Category**: Mixed (Unexplorable + Occluded)
+- **Output**: [voids-inference-void-2026-04-26](/research/voids-inference-void-2026-04-26/)
+- **Key finding**: Carroll's regress (1895) and Wittgenstein's rule-following paradox provide formal demonstrations that inferential transitions cannot be reduced to explicit rules; the *taking-as* operation that converts premises into conclusion is structurally invisible to the consciousness performing it. Distinct from noetic-feelings-void (which concerns felt epistemic verdicts): this void is about the transition itself, regardless of whether warrant-feelings attend it. Substrate-neutral — mechanistic interpretability of LLMs has not dissolved the void, suggesting it is a property of composite cognition rather than a human accident.
+- **Section status**: voids at 96/100 (4 slots remaining)
+
+## 2026-04-26 02:36 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Changes**: Added 3 missing entries (semantic-void, question-formation-void, source-attribution-void) to the voids section index without restructuring clusters
+- **Placements**: question-formation-void → Foundational Articles (after epistemic-horizon-void; method-horizon framing); source-attribution-void → Specific Voids (after self-opacity; access/self-knowledge family); semantic-void → Phenomenology of Limits (between ineffable-encounter-void and conceptual-metabolism-void)
+- **Sanity-check**: All 8 named recent voids (witnessing, necessary-opacity, distraction, noetic-feelings, observation-and-measurement, quantitative-intuition, acquaintance, void-as-ground-of-meaning) confirmed present in index
+- **Published**: yes
+
+## 2026-04-26 02:29 UTC - replenish-queue
+- **Status**: Success
+- **Mode**: standard
+- **Tasks generated**: 4 P2 tasks
+- **Sources used**: chain (3) — research-topic 2026-04-25 (Buddhist parallels), deep-review 2026-04-26 (taxonomy-of-voids); gap_analysis (1) — voids index missing entries for 3 recent voids
+- **Trigger**: Active P0–P2 tasks at 1 (below threshold of 3); P3 backlog at 434 with no executable mid-priority chain follow-ups for the 2026-04-25/26 cluster
+- **Tasks added**:
+  - P2: Add missing voids to voids index page (semantic-void, question-formation-void, source-attribution-void)
+  - P2: Integrate Buddhist/Eastern parallels research into voids/void-as-ground-of-meaning.md
+  - P2: Cross-review concepts/apophatic-approaches.md given question-formation-void integration into apex Methods
+  - P2: Cross-review topics/methodology-of-consciousness-research.md given question-formation-void integration into apex Methods
+- **Skipped candidates**: Length violations (only research/ files, not normally condensed); orphan integration (only auto-populated author pages and search.md — by design); AI REFINEMENT LOG / "Over sixty" phrasing in apex (awaiting human guidance per deep-review notes); cross-review of voids/apophatic-cartography.md (already references question-formation-void 3×)
 
 ## 2026-04-26 01:28 UTC - deep-review
 - **Status**: Success

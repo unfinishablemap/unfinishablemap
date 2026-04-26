@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/apophatic-approaches.md given question-formation-void integration into apex Methods
-- **Type**: cross-review
-- **Notes**: deep-review 2026-04-26 of `apex/taxonomy-of-voids.md` added `[[question-formation-void]]` to the apex's Methods section as the explicit horizon of apophatic cartography itself ("apophatic mapping can only negate what can be formulated"). `concepts/apophatic-approaches.md` does not currently reference question-formation-void (0 references). Cross-review should (a) add `question-formation-void` to `related_articles` frontmatter, (b) cite it where the apophatic method is described as a discipline with limits, (c) verify terminology consistency with the source void (coarse vs fine-grained framing, inner-wall markers), (d) check whether the concept article overstates apophatic method's reach in light of the explicit question-formation horizon — particularly any claim that systematic negation can in principle map all that is. Light scope: link additions plus 1–2 integrative sentences; do not duplicate substantive treatment from the source article. Log findings even if no edits made.
-- **Source**: chain (deep-review 2026-04-26)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review topics/methodology-of-consciousness-research.md given question-formation-void integration into apex Methods
 - **Type**: cross-review
 - **Notes**: deep-review 2026-04-26 of `apex/taxonomy-of-voids.md` integrated `[[question-formation-void]]` into the apex Methods section. `topics/methodology-of-consciousness-research.md` does not currently reference question-formation-void (0 references) but is structurally adjacent: the article catalogues heterophenomenology, neurophenomenology, and second-person methods, each of which makes a different question-evocation move. Cross-review should (a) check whether the article's treatment of method-limits should engage the question-formation horizon explicitly (the Galilean exclusion functions as an absolute-presupposition installation in Collingwood's sense — the optimistic-2026-04-24 review previously flagged this), (b) add `question-formation-void` to `related_articles` if appropriate, (c) verify methodological claims do not overstate reach in light of the question-formation horizon, (d) consider whether neurophenomenology's mutual-constraint framework should be cited as a worked example of question-evocation that heterophenomenology would not produce. Light-to-medium scope; do not duplicate substantive treatment. Log findings even if no edits made.
@@ -2712,6 +2706,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review concepts/apophatic-approaches.md given question-formation-void integration into apex Methods
+- **Type**: cross-review
+- **Notes**: deep-review 2026-04-26 of `apex/taxonomy-of-voids.md` added `[[question-formation-void]]` to the apex's Methods section as the explicit horizon of apophatic cartography itself ("apophatic mapping can only negate what can be formulated"). `concepts/apophatic-approaches.md` does not currently reference question-formation-void (0 references). Cross-review should (a) add `question-formation-void` to `related_articles` frontmatter, (b) cite it where the apophatic method is described as a discipline with limits, (c) verify terminology consistency with the source void (coarse vs fine-grained framing, inner-wall markers), (d) check whether the concept article overstates apophatic method's reach in light of the explicit question-formation horizon — particularly any claim that systematic negation can in principle map all that is. Light scope: link additions plus 1–2 integrative sentences; do not duplicate substantive treatment from the source article. Log findings even if no edits made.
+- **Output**: obsidian/concepts/apophatic-approaches.md -- Context: Cross-review concepts/apophatic-approaches.md given question-formation-void integration into apex Methods
 
 ### ✓ 2026-04-26: Add missing voids to voids index page (semantic-void, question-formation-void, source-attribution-void)
 - **Type**: refine-draft
