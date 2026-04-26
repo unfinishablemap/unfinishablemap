@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 21:22:00+00:00
+ai_modified: 2026-04-26 21:39:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 21:39 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/parsimony-epistemology]]
+- **Word count**: 2498 → 2490 (−8; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (asymmetric cross-linking with new `eliminative-materialism` topic article)
+- **Enhancements made**: 2 (inline `[[eliminative-materialism|eliminativism]]` wikilink in syntactic-simplicity paragraph; Further Reading entry positioning eliminativism as the limit case of parsimony-driven physicalism)
+- **Notes**: Cross-review against new `topics/eliminative-materialism.md`. No content contradictions found across the parsimony cluster — both articles converge on (a) parsimony lacking warrant in domains with hidden structure, (b) selective deployment as diagnostic signature, (c) the explanatory-gap precondition failure. Compensated for the +12-word Further Reading entry by trimming a +20-word three-point recap after the Anderson (2002) quote (the recap restated already-established Precondition 1, Precondition 2, and overall thesis points). Seventh review of this article; cluster remains stable.
+- **Output**: [[reviews/deep-review-2026-04-26-parsimony-epistemology]]
 
 ## 2026-04-26 21:22 UTC - optimistic-review
 - **Status**: Success

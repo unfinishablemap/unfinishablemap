@@ -4,7 +4,7 @@ description: "Why Occam's Razor lacks epistemic warrant in the consciousness deb
 created: 2026-03-18
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-23T19:33:00+00:00
+ai_modified: 2026-04-26T21:39:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-18
 last_curated:
-last_deep_review: 2026-04-04T12:12:00+00:00
+last_deep_review: 2026-04-26T21:39:00+00:00
 coalesced_from:
   - "/concepts/epistemological-limits-parsimony/"
   - "/concepts/parsimony-failure-consciousness/"
@@ -51,7 +51,7 @@ Occam's Razor — prefer the simpler explanation — is widely invoked but rarel
 
 **Ontological parsimony** counts entity types. Physicalism posits one substance; dualism posits two. By this measure, physicalism is simpler.
 
-**Syntactic simplicity** counts theoretical principles and mechanisms. Physicalism has generated [[functionalism]], higher-order thought theory, global workspace theory, [[illusionism]], eliminativism, and multiple versions of identity theory — each adding machinery to accommodate consciousness within a single-substance framework. Dualism's core claim — that consciousness exists because something non-physical exists — is structurally more direct.
+**Syntactic simplicity** counts theoretical principles and mechanisms. Physicalism has generated [[functionalism]], higher-order thought theory, global workspace theory, [[illusionism]], [[eliminative-materialism|eliminativism]], and multiple versions of identity theory — each adding machinery to accommodate consciousness within a single-substance framework. Dualism's core claim — that consciousness exists because something non-physical exists — is structurally more direct.
 
 **Explanatory simplicity** counts unexplained brute facts. Physicalism treats [[qualia|phenomenal experience]] as brute — it happens when matter is configured correctly, with no explanation of why. Dualism provides a reason: there is genuinely something beyond the physical. Zanotti (2021) argues that physicalism's need to accommodate consciousness in a framework with no natural place for it is a parsimony cost typically overlooked.
 
@@ -112,7 +112,7 @@ William Lycan (2009), a committed materialist of over forty years, reviewed the 
 
 Even Paul Churchland, whose "Raze Dualism" argument (1988) is the canonical parsimony case against dualism, qualifies in the original edition of *Matter and Consciousness* (1984) that the razor is "inconclusive regarding duality." If parsimony's foremost advocate acknowledges the argument does not settle the question, the routine dismissal of dualism on parsimony grounds lacks supporting authority.
 
-These concessions cannot be dismissed as motivated reasoning from dualists. Anderson (2002) reinforces them, subjecting Churchland's "Raze Dualism" argument to systematic critique and concluding it "is undermined by assumptions which do not withstand scrutiny" — the theories do not explain the data equally well, "simpler" is undefined across multiple dimensions, and the razor cannot uniquely favour physicalism.
+These concessions cannot be dismissed as motivated reasoning from dualists. Anderson (2002) reinforces them, subjecting Churchland's "Raze Dualism" argument to systematic critique and concluding it "is undermined by assumptions which do not withstand scrutiny."
 
 ### The Idealism Parity and the Trilemma
 
@@ -163,6 +163,7 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 - [[epistemological-limits-of-occams-razor]] — The full philosophical case against parsimony in consciousness
 - [[epistemological-limits-occams-razor|The Parsimony Void]] — Parsimony as cognitive boundary
 - [[parsimony-case-for-interactionist-dualism]] — The positive case that dualism is simpler once all costs are counted
+- [[eliminative-materialism]] — The limit case of parsimony-driven physicalism: applying Occam's Razor to consciousness itself
 - [[meta-epistemology-of-limits]] — The epistemology of epistemic limits themselves
 - [[von-neumann-wigner-interpretation]] — The measurement problem as a case where adding consciousness simplifies explanation
 - [[ineffable-encounter-void]] — Where parsimony may systematically exclude evidence from the domain where it matters most

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/parsimony-epistemology.md considering eliminative-materialism's diagnosis
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-26 (Cross-Linking Suggestions row 5). The Map's central diagnosis of eliminative materialism — that it *over-applies* Occam's Razor — rests on `concepts/parsimony-epistemology.md`'s case against parsimony-as-universal-warrant. The forward link from eliminative-materialism to parsimony-epistemology is in eliminative-materialism's frontmatter; the parsimony-epistemology article does not yet reciprocate. Cross-review should (a) add a paragraph to parsimony-epistemology treating eliminativism as the limit-case-failure of parsimony reasoning (eliminativism applies parsimony to data eliminate-then-cite, the failure mode parsimony-epistemology was designed to identify), (b) check whether parsimony-epistemology's existing critique of parsimony as universal warrant can be sharpened by referencing the eliminative-materialism article's two-channel structure (source exposition cleanly separated from Map's diagnosis), (c) add forward link from parsimony-epistemology.md to eliminative-materialism.md in related_articles and prose, (d) verify terminology alignment ("parsimony abuse", "over-application of Occam's Razor", "Tenet 5 over-extension" should resolve to the same target), (e) check whether the Map's existing parsimony-case-for-interactionist-dualism article should also reciprocate (likely yes). Note: the existing P3 task at line ~2743 ("Add cross-links across 2026-04-26 cluster") covers this in passing, but the parsimony-epistemology link is the most load-bearing of the five and warrants its own cross-review pass. Log findings even if no edits made beyond the link addition. See optimistic-2026-04-26.md Cross-Linking Suggestions row 5.
-- **Source**: chain (from topics/eliminative-materialism.md)
-- **Generated**: 2026-04-26
-
 ### P2: Create concept page for Boghossian's Status of Content as Sophisticated Self-Refutation
 - **Type**: expand-topic
 - **Status**: pending
@@ -2798,6 +2791,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review concepts/parsimony-epistemology.md considering eliminative-materialism's diagnosis
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-26 (Cross-Linking Suggestions row 5). The Map's central diagnosis of eliminative materialism — that it *over-applies* Occam's Razor — rests on `concepts/parsimony-epistemology.md`'s case against parsimony-as-universal-warrant. The forward link from eliminative-materialism to parsimony-epistemology is in eliminative-materialism's frontmatter; the parsimony-epistemology article does not yet reciprocate. Cross-review should (a) add a paragraph to parsimony-epistemology treating eliminativism as the limit-case-failure of parsimony reasoning (eliminativism applies parsimony to data eliminate-then-cite, the failure mode parsimony-epistemology was designed to identify), (b) check whether parsimony-epistemology's existing critique of parsimony as universal warrant can be sharpened by referencing the eliminative-materialism article's two-channel structure (source exposition cleanly separated from Map's diagnosis), (c) add forward link from parsimony-epistemology.md to eliminative-materialism.md in related_articles and prose, (d) verify terminology alignment ("parsimony abuse", "over-application of Occam's Razor", "Tenet 5 over-extension" should resolve to the same target), (e) check whether the Map's existing parsimony-case-for-interactionist-dualism article should also reciprocate (likely yes). Note: the existing P3 task at line ~2743 ("Add cross-links across 2026-04-26 cluster") covers this in passing, but the parsimony-epistemology link is the most load-bearing of the five and warrants its own cross-review pass. Log findings even if no edits made beyond the link addition. See optimistic-2026-04-26.md Cross-Linking Suggestions row 5.
+- **Output**: obsidian/concepts/parsimony-epistemology.md -- Context: Cross-review concepts/parsimony-epistemology.md considering eliminative-materialism's diagnosis
 
 ### ✓ 2026-04-26: Create concept page for Carroll's 1895 Regress
 - **Type**: expand-topic
