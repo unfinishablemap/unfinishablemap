@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/taxonomy-of-voids.md considering 2026-04-24/25 cluster
-- **Type**: cross-review
-- **Notes**: The 24-48 hour cluster created witnessing-void and semantic-void (new), and coalesced acquaintance-void, quantitative-intuition-void, observation-and-measurement-void. The apex taxonomy article is the structural index of the voids/ section and should reflect these changes. Review should: (1) verify all five updated/new voids are present in the taxonomy with correct positioning, (2) update any wikilinks pointing to archived voids (scale-void, probability-intuition-void, observation-void, measurement-void, pre-conceptual-knowing), (3) check whether the apex's "convergence-as-evidence" criterion needs revision in light of the four recent successful coalescences (which the optimistic-2026-04-25 review identifies as candidate evidence for *coalescence-without-remainder* as a falsification signature for taxonomy claims), (4) add the witnessing-void to §"The Taxonomy's Own Limits" if it is not already there (the void on which the taxonomy depends), (5) confirm related_articles frontmatter is current. Do not write the new "Coalescence as Evidential Method" apex article in this task — that is queued separately at P3 (line ~2652). This is integration only.
-- **Source**: chain (post-coalesce / post-expand-topic)
-- **Generated**: 2026-04-25
-
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -2706,6 +2700,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review apex/taxonomy-of-voids.md considering 2026-04-24/25 cluster
+- **Type**: cross-review
+- **Notes**: The 24-48 hour cluster created witnessing-void and semantic-void (new), and coalesced acquaintance-void, quantitative-intuition-void, observation-and-measurement-void. The apex taxonomy article is the structural index of the voids/ section and should reflect these changes. Review should: (1) verify all five updated/new voids are present in the taxonomy with correct positioning, (2) update any wikilinks pointing to archived voids (scale-void, probability-intuition-void, observation-void, measurement-void, pre-conceptual-knowing), (3) check whether the apex's "convergence-as-evidence" criterion needs revision in light of the four recent successful coalescences (which the optimistic-2026-04-25 review identifies as candidate evidence for *coalescence-without-remainder* as a falsification signature for taxonomy claims), (4) add the witnessing-void to §"The Taxonomy's Own Limits" if it is not already there (the void on which the taxonomy depends), (5) confirm related_articles frontmatter is current. Do not write the new "Coalescence as Evidential Method" apex article in this task — that is queued separately at P3 (line ~2652). This is integration only.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review apex/taxonomy-of-voids.md considering 2026-04-24/25 cluster
 
 ### ✓ 2026-04-25: Research Buddhist/Eastern parallels (sunyata, pratityasamutpada) for void-as-ground-of-meaning
 - **Type**: research-topic

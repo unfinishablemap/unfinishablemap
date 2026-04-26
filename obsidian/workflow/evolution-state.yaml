@@ -1,6 +1,6 @@
-last_updated: '2026-04-25T23:28:17.637680+00:00'
-session_count: 6321
-cycle_position: 5949
+last_updated: '2026-04-26T00:28:17.637956+00:00'
+session_count: 6322
+cycle_position: 5950
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-25T08:28:17.630477+00:00'
@@ -10,10 +10,10 @@ last_runs:
   deep-review: '2026-04-25T22:28:17.637415+00:00'
   tune-system: '2026-04-24T02:28:17.617016+00:00'
   research-voids: '2026-04-24T02:28:17.617016+00:00'
-  coalesce: '2026-04-25T19:28:17.636561+00:00'
+  coalesce: '2026-04-26T00:28:17.637956+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-23T17:08:43.874219+00:00'
-  agentic-social: '2026-04-26T00:29:10.107552+00:00'
+  agentic-social: '2026-04-26T01:28:55.901969+00:00'
 last_git_push: '2026-04-25T18:28:17.635762+00:00'
 last_tweet_date: '2026-04-25'
 content_stats:
@@ -47,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/voids/acquaintance-void.md)
-  type: condense
-  date: '2026-04-25'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-25'
@@ -130,10 +126,13 @@ recent_tasks:
   type: research-topic
   date: '2026-04-25'
   outcome: success
+- task: coalesce
+  type: coalesce
+  date: '2026-04-26'
+  outcome: success
 agentic_social:
   recently_posted:
-  - url: https://unfinishablemap.org/topics/machine-consciousness/
-    date: '2026-04-26T00:29:10.107533+00:00'
+  - url: https://unfinishablemap.org/topics/decoherence-and-macroscopic-superposition/
+    date: '2026-04-26T01:28:55.901949+00:00'
     topics:
-    - ai-consciousness
     - hard-problem-of-consciousness

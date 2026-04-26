@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-25 23:29:00+00:00
+ai_modified: 2026-04-26 00:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-25'
+date: '2026-04-26'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-26 00:29 UTC - coalesce
+- **Status**: Abandoned (no strong merge candidates)
+- **Section examined**: voids/ (most pressured at 96/100, now 96 after recent activity)
+- **Clusters evaluated**: ~12 (cognitive limits, affective family, meta-classification, attention/disappearance, agency, conceptual, mutation/observation, past-consciousness, meaning, recursion/witnessing, resolution/smoothness, death/origin)
+- **Notable signal**: Yesterday's deep-review of [intentionality-void](/voids/intentionality-void/) explicitly states *"Future reviews of either article should preserve this division of labour rather than encouraging either to absorb the other's territory"* re: [semantic-void](/voids/semantic-void/) — explicit do-not-merge instruction respected.
+- **Notes**: Voids section is heavily curated. Many articles have already been coalesced ([attention-and-consciousness](/voids/attention-and-consciousness/), [disappearance-voids](/voids/disappearance-voids/), [transit-void](/voids/transit-void/), [observation-and-measurement-void](/voids/observation-and-measurement-void/), [smoothness-and-continuity](/voids/smoothness-and-continuity/), [ineffable-encounter-void](/voids/ineffable-encounter-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [inaccessible-past](/voids/inaccessible-past/), [biological-cognitive-closure](/voids/biological-cognitive-closure/)). Remaining articles have explicit "What This Void Is Not" sections distinguishing themselves from neighbours. Per skill instructions, abandoning rather than forcing a marginal merge that would degrade catalogue precision.
 
 ## 2026-04-25 23:29 UTC - research-topic
 - **Status**: Success

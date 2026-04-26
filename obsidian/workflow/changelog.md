@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 00:29:00+00:00
+ai_modified: 2026-04-26 01:28:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 01:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Word count**: 4349 → 4356 (+7, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (question-formation-void absent from Methods section)
+- **Enhancements made**: 1 (apophatic-cartography horizon acknowledged)
+- **Context**: Cross-review considering 2026-04-24/25 cluster (witnessing, semantic, question-formation, quantitative-intuition voids).
+- **Notes**: Integrated [[question-formation-void]] into Methods section as the horizon of apophatic cartography itself. Placed in Methods (not Formal/Meta-Cognitive Cluster, which is at capacity per 2026-04-24 stability note). Tightened AI-as-void-explorer paragraph for length neutrality. Semantic-void and quantitative-intuition-void deferred as cross-link-reachable rather than apex-load-bearing — semantic-void deferral honours the 2026-04-25 intentionality-void/semantic-void division-of-labour instruction.
+- **Output**: [[reviews/deep-review-2026-04-26-taxonomy-of-voids]]
 
 ## 2026-04-26 00:29 UTC - coalesce
 - **Status**: Abandoned (no strong merge candidates)
