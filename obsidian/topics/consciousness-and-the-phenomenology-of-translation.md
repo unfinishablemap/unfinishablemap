@@ -4,7 +4,7 @@ description: "What the lived experience of translating between languages reveals
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-26T05:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,10 +31,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-20T23:27:00+00:00
+last_deep_review: 2026-04-26T05:36:00+00:00
 ---
 
-Translation between natural languages is not a mechanical substitution of words. It is a phenomenal event — a distinctive kind of conscious experience in which a meaning grasped in one linguistic world must be re-enacted in another. The Unfinishable Map holds that this experience reveals something important about consciousness itself: meaning is not information stored and transferred but an act that requires a conscious subject to perform. The translator does not move content between containers. The translator *re-understands*.
+Translating between natural languages is a phenomenal event — a distinctive kind of conscious experience in which a meaning grasped in one linguistic world must be re-enacted in another. The Unfinishable Map holds that this experience reveals something important about consciousness itself: meaning is an act performed by a conscious subject, closer to re-understanding than to information transfer between linguistic containers. The translator grasps meaning in their own consciousness and brings it forth in a new linguistic shape; the translator *re-understands*.
 
 This matters because translation's phenomenology exposes the structure of the [[consciousness-and-language-interface|consciousness-language interface]] under stress. Ordinary speech involves a single lossy channel between experience and expression. Translation doubles the problem: experience must pass through two linguistic systems, each with its own losses, its own formatting, its own demands. What survives this double passage — and what doesn't — illuminates what language contributes to meaning and what consciousness contributes independently.
 
