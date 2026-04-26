@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/plenitude-void.md considering inference-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/inference-void.md` (created 2026-04-26) is the fifth member of the second-order voids cluster — `epistemic-horizon-void`, `question-formation-void`, `categorial-void`, `plenitude-void`, `inference-void` — and lists `[[plenitude-void]]` in its related_articles. The inference-void's *recursively load-bearing* claim (any inspection of an inference must itself proceed by inference) bears directly on plenitude-void's situation: the comparison-categories the plenitude-void article uses to discuss possible alternative phenomenologies are themselves opaque to the inferential operations that compare them. Cross-review should (a) add a forward link from plenitude-void.md to inference-void.md where the apparatus-of-comparison material is developed, (b) check whether plenitude-void's evidential-vs-definitional unfalsifiability distinction (introduced 2026-04-23 night) extends naturally to the inferential opacity of the comparison itself, (c) verify terminology consistency (apparatus-of-self-reflective-cognition framing should hold across both), (d) consider whether plenitude-void's existing engagement with inferential operations should now cite inference-void as the prior structural void on which its argument depends. Log findings even if no edits made. See `voids/inference-void.md`.
-- **Source**: chain (from expand-topic voids/inference-void)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review topics/arguments-against-materialism.md considering eliminative-materialism insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2763,6 +2756,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review voids/plenitude-void.md considering inference-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/inference-void.md` (created 2026-04-26) is the fifth member of the second-order voids cluster — `epistemic-horizon-void`, `question-formation-void`, `categorial-void`, `plenitude-void`, `inference-void` — and lists `[[plenitude-void]]` in its related_articles. The inference-void's *recursively load-bearing* claim (any inspection of an inference must itself proceed by inference) bears directly on plenitude-void's situation: the comparison-categories the plenitude-void article uses to discuss possible alternative phenomenologies are themselves opaque to the inferential operations that compare them. Cross-review should (a) add a forward link from plenitude-void.md to inference-void.md where the apparatus-of-comparison material is developed, (b) check whether plenitude-void's evidential-vs-definitional unfalsifiability distinction (introduced 2026-04-23 night) extends naturally to the inferential opacity of the comparison itself, (c) verify terminology consistency (apparatus-of-self-reflective-cognition framing should hold across both), (d) consider whether plenitude-void's existing engagement with inferential operations should now cite inference-void as the prior structural void on which its argument depends. Log findings even if no edits made. See `voids/inference-void.md`.
+- **Output**: obsidian/voids/plenitude-void.md -- Context: Cross-review voids/plenitude-void.md considering inference-void insights
 
 ### ✓ 2026-04-26: Deep review newly-coalesced voids/meaning-void.md to verify coalesce integrity
 - **Type**: deep-review
