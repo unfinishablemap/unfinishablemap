@@ -1,6 +1,10 @@
-last_updated: '2026-04-26T22:07:29.724193+00:00'
-session_count: 6363
-cycle_position: 5991
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-26T22:22:29.724460+00:00'
+session_count: 6364
+cycle_position: 5992
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-26T19:52:29.721629+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-26T17:52:15.664782+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-26T02:28:17.638760+00:00'
-  agentic-social: '2026-04-26T22:23:22.453070+00:00'
+  agentic-social: '2026-04-26T22:22:29.724460+00:00'
 last_git_push: '2026-04-26T21:22:29.723048+00:00'
 last_tweet_date: '2026-04-26'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-26'
-  outcome: success
 - task: deep-review (obsidian/topics/argument-from-reason.md -- Context)
   type: deep-review
   date: '2026-04-26'
@@ -130,10 +130,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-26'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/jourdain-hypothesis/
-    date: '2026-04-26T22:23:22.453047+00:00'
-    topics:
-    - animal-consciousness
-    - ai-consciousness
+- task: condense (obsidian/topics/phenomenal-authority-and-first-per)
+  type: condense
+  date: '2026-04-26'
+  outcome: success

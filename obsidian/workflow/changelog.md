@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 22:23:00+00:00
+ai_modified: 2026-04-26 22:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 22:37 UTC - coalesce
+- **Status**: Abandoned (no good candidates)
+- **Sections searched**: voids (97/100, most pressured), topics (232/250)
+- **Candidate clusters evaluated**:
+  - Affective family (affective-void / mood-void / valence-void / appetitive-void / noetic-feelings-void) — explicitly cross-distinguished as range/structure/pervasiveness/desire-shaped/feel-of-knowing variants
+  - Cognitive-limits family (formal / biological / embodiment / self-maintained / collective) — taxonomically distinct; formal, biological, and self-maintained were already coalesced from earlier articles
+  - Conceptual family (conceptual-impossibility / categorial-void / framework-void / language-thought-boundary) — categorial-void explicitly positions itself one level below conceptual-impossibility
+  - Taxonomy articles (closure-types-void / three-kinds-of-void / disappearance-voids / tenet-generated-voids) — different taxonomies (representational/psychological vs unexplored/unexplorable/occluded vs absorption/habituation/fatigue vs per-tenet)
+  - Meaning pair (meaning-void / void-as-ground-of-meaning) — specific cognitive limit vs meta-thesis
+  - Transit cluster (transit-void / distraction-void / disappearance-voids) — transit-void already coalesced from transition + initiation; distraction has unique ERP-timing content
+  - Interface pair (interface-location-problem / interface-specification-problem) — WHERE vs HOW
+  - Attention pair (attention-and-the-consciousness-interface / structure-of-attention) — interface article already coalesced from 4 prior articles; structure-of-attention has tight 3-mode taxonomy
+  - Phenomenology pair (phenomenology-of-cognitive-capacity / phenomenology-of-cognitive-limit-types) — capacity (saturation/automatisation) vs limit-types (frustration/satisfaction/illusory-comprehension)
+  - Agency cluster (involuntariness-void / source-attribution-void / agency-verification-void / ownership-void) — different facets
+- **Outcome**: Per skill instructions ("If after five iterations there are still no strong candidates, abandon the attempt"), no merge performed. The Map is in a mature state where most reasonable coalesces have already happened — many recently-edited articles include explicit "distinguished from related" sections. No content was modified.
 
 ## 2026-04-26 22:23 UTC - condense
 - **Status**: Success
