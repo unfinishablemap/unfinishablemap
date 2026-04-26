@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 14:08:00+00:00
+ai_modified: 2026-04-26 14:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 14:22 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Eliminative materialism (dedicated topic article)
+- **Output**: [[topics/eliminative-materialism]]
+- **Word count**: 2945
+- **Based on research**: yes ([[research/eliminative-materialism-2026-04-26]])
+- **Notes**: Two-channel structure preserves source exposition (Churchlands' replacement programme; Frankish-Dennett illusionism; Ramsey-Stich-Garon connectionism; Boghossian self-refutation; Hutto-Myin hard-problem-of-content; Moorean responses) cleanly separated from Map's diagnosis (over-application of Occam's Razor, introspection-as-theory-laden pivot). Preserves the research note's distinction between classical EM about propositional attitudes and illusionism / EM about phenomenal consciousness. Honest-limitations section concedes (a) connectionist argument has theoretical weight, (b) meta-problem is a genuine burden the dualist also inherits, (c) self-refutation is not a knockdown argument. Map's stance preserved as eliminativism-about-phenomenal-consciousness rejection (load-bearing for Tenet 1) plus conciliatory engagement with kind-dissolutionism (Griffiths, Machery) and openness on folk-psychological structure (independent of dualism). Tenet engagement: Dualism (load-bearing), Bidirectional Interaction (mental fictionalism rejected), Occam's Razor Has Limits (the methodological diagnosis). Self-citations to [[arguments-against-materialism]] and [[illusionism]]. Length self-edit applied (3050 → 2945) by tightening the closing section. Left uncommitted per task instruction.
 
 ## 2026-04-26 14:08 UTC - refine-draft
 - **Status**: Success
