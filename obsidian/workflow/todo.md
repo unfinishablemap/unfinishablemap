@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/illusionism.md considering eliminative-materialism insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article topics/eliminative-materialism.md (created 2026-04-26) treats illusionism as the contemporary heir to eliminativism's qualia-strand and develops the connectionist-concession, meta-problem-inheritance, and self-stultification arguments in ways that bear directly on the illusionism page. Cross-review should (a) add inbound links from concepts/illusionism.md to the new article where the eliminativist genealogy is named, (b) check whether illusionism.md's treatment of Frankish's functional-seeming response can be sharpened by referencing eliminative-materialism's connectionist concession, (c) verify terminology alignment (illusionism's "quasi-phenomenal property" vs eliminativism's "theoretical fictions"), (d) ensure illusionism.md acknowledges the meta-problem inheritance argument as a Map-specific dialectical move. See topics/eliminative-materialism.md.
-- **Source**: chain (from eliminative-materialism.md)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review topics/argument-from-reason.md considering eliminative-materialism's self-stultification framing
 - **Type**: cross-review
 - **Status**: pending
@@ -2763,6 +2756,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review concepts/illusionism.md considering eliminative-materialism insights
+- **Type**: cross-review
+- **Notes**: New article topics/eliminative-materialism.md (created 2026-04-26) treats illusionism as the contemporary heir to eliminativism's qualia-strand and develops the connectionist-concession, meta-problem-inheritance, and self-stultification arguments in ways that bear directly on the illusionism page. Cross-review should (a) add inbound links from concepts/illusionism.md to the new article where the eliminativist genealogy is named, (b) check whether illusionism.md's treatment of Frankish's functional-seeming response can be sharpened by referencing eliminative-materialism's connectionist concession, (c) verify terminology alignment (illusionism's "quasi-phenomenal property" vs eliminativism's "theoretical fictions"), (d) ensure illusionism.md acknowledges the meta-problem inheritance argument as a Map-specific dialectical move. See topics/eliminative-materialism.md.
+- **Output**: obsidian/concepts/illusionism.md -- Context: Cross-review concepts/illusionism.md considering eliminative-materialism insights
 
 ### ✓ 2026-04-26: Condense voids/inference-void.md (3837 words, 192% of target)
 - **Type**: condense

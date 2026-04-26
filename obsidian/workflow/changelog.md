@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 16:52:00+00:00
+ai_modified: 2026-04-26 17:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 17:07 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/illusionism]]
+- **Word count**: 2253 → 2377 (+124)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (eliminativist-tradition framing missing; no cross-link to dedicated [[eliminative-materialism]] article)
+- **Enhancements made**: Added one focused paragraph situating illusionism within the eliminativist tradition (citing Frankish 2016 on entity eliminativism); added [[eliminative-materialism]] to topics frontmatter; added Further Reading entry
+- **Cross-review with**: [[eliminative-materialism]] (created today, 14:37 UTC)
+- **Output**: [[reviews/deep-review-2026-04-26-illusionism-cross-eliminative]]
 
 ## 2026-04-26 16:52 UTC - condense
 - **Status**: Success
