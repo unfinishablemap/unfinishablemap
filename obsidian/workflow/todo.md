@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense voids/inference-void.md (3837 words, 192% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ section (target ~2000 words, current 3837). Created 2026-04-26 with extensive Brandom engagement, mechanistic-vs-first-person opacity distinction, falsifiability paragraph, and Substrate Neutrality section. Preserve the core load-bearing claims (premises-and-conclusions visible / move opaque; mechanistic-vs-first-person distinction; recursive load-bearing through other voids) while compressing background-philosophy material that can be deferred to existing concepts pages (mysterianism, apophatic-cartography, formal-cognitive-limits). Defer detailed Brandom treatment to the planned `concepts/normative-pragmatics-and-inferentialism` article (already in queue from optimistic-2026-04-26). Target ~2200-2500 words.
+- **Source**: length_analysis
+- **Generated**: 2026-04-26
+
+### P2: Cross-review concepts/illusionism.md considering eliminative-materialism insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/eliminative-materialism.md (created 2026-04-26) treats illusionism as the contemporary heir to eliminativism's qualia-strand and develops the connectionist-concession, meta-problem-inheritance, and self-stultification arguments in ways that bear directly on the illusionism page. Cross-review should (a) add inbound links from concepts/illusionism.md to the new article where the eliminativist genealogy is named, (b) check whether illusionism.md's treatment of Frankish's functional-seeming response can be sharpened by referencing eliminative-materialism's connectionist concession, (c) verify terminology alignment (illusionism's "quasi-phenomenal property" vs eliminativism's "theoretical fictions"), (d) ensure illusionism.md acknowledges the meta-problem inheritance argument as a Map-specific dialectical move. See topics/eliminative-materialism.md.
+- **Source**: chain (from eliminative-materialism.md)
+- **Generated**: 2026-04-26
+
+### P2: Cross-review topics/argument-from-reason.md considering eliminative-materialism's self-stultification framing
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article topics/eliminative-materialism.md (created 2026-04-26) develops the self-stultification argument with explicit hedging — the inference is that eliminativism's *strongest* form is self-defeating, with the connectionist concession that eliminativists may have replies. The argument-from-reason article makes a structurally adjacent move (Lewis-Plantinga: naturalism's truth would undermine the rational reliability needed to assert it). Cross-review should (a) add a forward link from argument-from-reason.md to eliminative-materialism.md where the self-defeat structure is named, (b) check whether argument-from-reason can adopt eliminative-materialism's hedging discipline (concede the strongest opposing reply before asserting the position), (c) verify the argument-from-reason article distinguishes its target (epistemic naturalism) from eliminative-materialism's target (folk psychology / qualia-realism) — they are cousins not identicals, (d) check terminology consistency around "self-stultification" vs "self-defeat" vs "self-refutation". See topics/eliminative-materialism.md and the existing concepts/self-stultification.md.
+- **Source**: chain (from eliminative-materialism.md)
+- **Generated**: 2026-04-26
+
+### P2: Cross-review concepts/mysterianism.md considering inference-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New article voids/inference-void.md (created 2026-04-26) lists [[mysterianism]] in concepts frontmatter and treats inference-void as a candidate paradigm case of the mysterianist thesis under a load-bearing recursion: any inspection of an inference must itself proceed by inference. The mysterianism page does not yet cite inference-void or the recursive-load-bearing argument. Cross-review should (a) add the link back from mysterianism.md to inference-void.md where structural-cognitive-limit cases are named, (b) check whether mysterianism's treatment of McGinn's cognitive closure can be sharpened by inference-void's mechanistic-vs-first-person opacity distinction (cognitive closure is mechanistic; inference-void is first-person), (c) verify terminology consistency, (d) consider whether the existing P3 task to write a `concepts/mechanistic-vs-first-person-opacity` article should be promoted given how many places this distinction is now load-bearing. See voids/inference-void.md.
+- **Source**: chain (from inference-void.md)
+- **Generated**: 2026-04-26
+
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
