@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 14:37:00+00:00
+ai_modified: 2026-04-26 14:53:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 14:53 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/question-formation-void]]
+- **Context**: Cross-review considering [[voids/inference-void|inference-void]] insights (inference-void published 2026-04-26)
+- **Word count**: 2655 → 2719 (+64, well under 3000 hard threshold)
+- **Critical issues addressed**: 1 — missing cross-link to inference-void (now in cluster enumeration, related_articles, Further Reading, and a new Distinguishing-the-Void compositional paragraph)
+- **Medium issues addressed**: 1 — meta-defensive opening of Phenomenology section ("a careful reader can find the section's first version self-contradictory") removed as draft-process artifact
+- **Cross-links added**: [[inference-void]] in four locations
+- **Stability**: Article was already in good shape; review's primary purpose was integrating the newly-published inference-void. Existing handling of falsifiability concerns via the Evidence section's selection-problem treatment is appropriate; should not be made to mirror inference-void's separate-paragraph structure
+- **Output**: [[reviews/deep-review-2026-04-26-question-formation-void]]
 
 ## 2026-04-26 14:37 UTC - deep-review
 - **Status**: Success

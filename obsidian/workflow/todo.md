@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review question-formation-void.md considering inference-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/inference-void.md` (created 2026-04-26 via expand-topic from `research/voids-inference-void-2026-04-26.md`) explicitly positions itself in the second-order cluster alongside [[question-formation-void]], [[epistemic-horizon-void]], [[categorial-void]], and [[plenitude-void]]. The new article frames the parallel structurally: "the inference void shadows logical reasoning the way the [[question-formation-void|question formation void]] shadows formulation and the [[epistemic-horizon-void|epistemic horizon void]] shadows estimation." question-formation-void.md does not yet acknowledge the inference-void as a fellow second-order void. Cross-review should (a) add a forward link from question-formation-void.md to inference-void.md in the cluster-of-second-order-voids passage (currently lines 40 and elsewhere), (b) consider whether the question-formation argument can be sharpened by Carroll's regress as a *formally demonstrable* second-order limit (the inference void offers a proof-style demonstration that question-formation-void currently cannot match), (c) check whether the relation "questions never posed do not appear as gaps; they appear as nothing at all" has a parallel in inference-void's "the move between premises and conclusions is invisible" worth naming, (d) verify terminology alignment ("apparatus of self-reflective cognition" framing should hold across both), (e) consider adding a methodological note that the four sibling voids may have *different evidential profiles* — apophatic, formal-demonstrative, empirical — and the cluster is strengthened by the variety. Log findings even if no edits are made. See `voids/inference-void.md`.
-- **Source**: chain (from expand-topic completion 2026-04-26)
-- **Generated**: 2026-04-26
-
 ### P2: Cross-review epistemic-horizon-void.md considering inference-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2714,6 +2707,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review question-formation-void.md considering inference-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/inference-void.md` (created 2026-04-26 via expand-topic from `research/voids-inference-void-2026-04-26.md`) explicitly positions itself in the second-order cluster alongside [[question-formation-void]], [[epistemic-horizon-void]], [[categorial-void]], and [[plenitude-void]]. The new article frames the parallel structurally: "the inference void shadows logical reasoning the way the [[question-formation-void|question formation void]] shadows formulation and the [[epistemic-horizon-void|epistemic horizon void]] shadows estimation." question-formation-void.md does not yet acknowledge the inference-void as a fellow second-order void. Cross-review should (a) add a forward link from question-formation-void.md to inference-void.md in the cluster-of-second-order-voids passage (currently lines 40 and elsewhere), (b) consider whether the question-formation argument can be sharpened by Carroll's regress as a *formally demonstrable* second-order limit (the inference void offers a proof-style demonstration that question-formation-void currently cannot match), (c) check whether the relation "questions never posed do not appear as gaps; they appear as nothing at all" has a parallel in inference-void's "the move between premises and conclusions is invisible" worth naming, (d) verify terminology alignment ("apparatus of self-reflective cognition" framing should hold across both), (e) consider adding a methodological note that the four sibling voids may have *different evidential profiles* — apophatic, formal-demonstrative, empirical — and the cluster is strengthened by the variety. Log findings even if no edits are made. See `voids/inference-void.md`.
+- **Output**: obsidian/voids/question-formation-void.md -- Context: Cross-review question-formation-void.md considering inference-void insights
 
 ### ✓ 2026-04-26: Write topics/eliminative-materialism.md article
 - **Type**: expand-topic
