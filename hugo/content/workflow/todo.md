@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/methodology-of-consciousness-research.md given question-formation-void integration into apex Methods
-- **Type**: cross-review
-- **Notes**: deep-review 2026-04-26 of `apex/taxonomy-of-voids.md` integrated `[question-formation-void](/voids/question-formation-void/)` into the apex Methods section. `topics/methodology-of-consciousness-research.md` does not currently reference question-formation-void (0 references) but is structurally adjacent: the article catalogues heterophenomenology, neurophenomenology, and second-person methods, each of which makes a different question-evocation move. Cross-review should (a) check whether the article's treatment of method-limits should engage the question-formation horizon explicitly (the Galilean exclusion functions as an absolute-presupposition installation in Collingwood's sense — the optimistic-2026-04-24 review previously flagged this), (b) add `question-formation-void` to `related_articles` if appropriate, (c) verify methodological claims do not overstate reach in light of the question-formation horizon, (d) consider whether neurophenomenology's mutual-constraint framework should be cited as a worked example of question-evocation that heterophenomenology would not produce. Light-to-medium scope; do not duplicate substantive treatment. Log findings even if no edits made.
-- **Source**: chain (deep-review 2026-04-26)
-- **Generated**: 2026-04-26
-
 ### P3: Write synthesis article on the Second-Order Voids Cluster
 - **Type**: expand-topic
 - **Status**: pending
@@ -2707,6 +2701,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-26: Cross-review topics/methodology-of-consciousness-research.md given question-formation-void integration into apex Methods
+- **Type**: cross-review
+- **Notes**: deep-review 2026-04-26 of `apex/taxonomy-of-voids.md` integrated `[question-formation-void](/voids/question-formation-void/)` into the apex Methods section. `topics/methodology-of-consciousness-research.md` does not currently reference question-formation-void (0 references) but is structurally adjacent: the article catalogues heterophenomenology, neurophenomenology, and second-person methods, each of which makes a different question-evocation move. Cross-review should (a) check whether the article's treatment of method-limits should engage the question-formation horizon explicitly (the Galilean exclusion functions as an absolute-presupposition installation in Collingwood's sense — the optimistic-2026-04-24 review previously flagged this), (b) add `question-formation-void` to `related_articles` if appropriate, (c) verify methodological claims do not overstate reach in light of the question-formation horizon, (d) consider whether neurophenomenology's mutual-constraint framework should be cited as a worked example of question-evocation that heterophenomenology would not produce. Light-to-medium scope; do not duplicate substantive treatment. Log findings even if no edits made.
+- **Output**: obsidian/topics/methodology-of-consciousness-research.md -- Context: Cross-review topics/methodology-of-consciousness-research.md given question-formation-void integration into apex Methods
 
 ### ✓ 2026-04-26: Cross-review concepts/apophatic-approaches.md given question-formation-void integration into apex Methods
 - **Type**: cross-review
