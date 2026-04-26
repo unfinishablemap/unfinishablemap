@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-26 04:28:00+00:00
+ai_modified: 2026-04-26 15:52:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: Science achieved its power by excluding subjectivity. Consciousness
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-26 04:28:00+00:00
+last_deep_review: 2026-04-26 15:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -53,6 +53,7 @@ related_articles:
 - '[[falsification-roadmap-for-the-interface-model]]'
 - '[[the-subject-object-distinction-as-philosophical-discovery]]'
 - '[[question-formation-void]]'
+- '[[eliminative-materialism]]'
 title: The Methodology of Consciousness Research
 topics:
 - '[[consciousness]]'
@@ -75,7 +76,7 @@ The core commitment of scientific methodology is objectivity: knowledge independ
 
 Scientific repeatability creates a further problem. When a neuroscientist stimulates C-fibres and the subject reports pain, the third-person data (neural activation, verbal report) are fully repeatable. But the *experience* of pain is not replicated in the experimenter's experience. In every other domain of science, repeatability means different observers encounter the same phenomenon. In consciousness research, different observers encounter different *kinds* of access to the phenomenon. The subject has phenomenal access; the experimenter has behavioural and neural access. They are not studying the same thing in the same way.
 
-The problem deepens through [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/). In ordinary science, all parties share the same kind of evidential access — they disagree about theory, not about what the data are. In consciousness science, the evidential base itself splits into two incommensurable kinds, and the relationship between them is precisely what competing theories dispute. This layered underdetermination means the methodological asymmetry is structurally resistant to resolution by further experiment.
+The problem deepens through [Duhem-Quine underdetermination](/topics/duhem-quine-underdetermination-consciousness/). In ordinary science, parties share evidential access and disagree only about theory. In consciousness science, the evidential base itself splits into two incommensurable kinds, and the relationship between them is precisely what competing theories dispute. This layered underdetermination is structurally resistant to resolution by further experiment.
 
 ## The Self-Referential Measurement Problem
 
@@ -95,7 +96,7 @@ Several proposals address this structural mismatch. Each acknowledges the proble
 
 Daniel Dennett's [heterophenomenology](/concepts/heterophenomenology/) proposes treating consciousness as a purely third-person scientific question. First-person reports about experience are data — what subjects say they experience — but carry no special epistemic authority about whether those experiences are real. Dennett analogises introspective reports to fiction: just as it can be an objective fact that Sherlock Holmes resided at 221B Baker St., we can treat the subject's introspective report as establishing objective facts about a "heterophenomenological world."
 
-This approach is officially neutral about phenomenology's ontological status. However, the neutrality is unstable. By reframing every phenomenological question as a question about verbal reports, heterophenomenology treats first-person authority as authority about *what subjects claim*, not about *what exists*. If phenomenology is real and irreducible (as The Unfinishable Map's [Dualism](/tenets/#dualism) tenet holds), then systematically bracketing its reality distorts the subject matter. If phenomenology is illusory, the method has no subject matter to be neutral about. Either way, the neutrality cannot be maintained indefinitely. Methodological naturalism does not entail ontological naturalism, but it constrains which questions get asked.
+This approach is officially neutral about phenomenology's ontological status. However, the neutrality is unstable. By reframing every phenomenological question as a question about verbal reports, heterophenomenology treats first-person authority as authority about *what subjects claim*, not about *what exists*. If phenomenology is real and irreducible (as The Unfinishable Map's [Dualism](/tenets/#dualism) tenet holds), then systematically bracketing its reality distorts the subject matter. If phenomenology is illusory — as [eliminativists about phenomenal consciousness](/topics/eliminative-materialism/) (Frankish 2016, Dennett 2016) explicitly hold, converting the hard problem into the *illusion problem* — the method has no subject matter to be neutral about. Either way, the neutrality cannot be maintained indefinitely. Methodological naturalism does not entail ontological naturalism, but it constrains which questions get asked.
 
 ### Neurophenomenology: Mutual Constraint
 
@@ -113,7 +114,7 @@ Second-person approaches use empathic [intersubjectivity](/concepts/intersubject
 
 The distinction between intersubjectivity and objectivity matters here. Objectivity aspires to the "view from nowhere" — perspective-free description that eliminates the observer. Intersubjectivity retains viewpoint while discovering that different perspectives converge. When you describe your experience of red and I recognise the description as matching mine, we achieve intersubjective agreement without either of us abandoning first-person perspective.
 
-Second-person methods may access phenomenal consciousness where purely third-person methods cannot. Objective methods succeed by eliminating perspective, but phenomenal consciousness *is* perspective. Intersubjective methods acknowledge this while showing that something can be shared despite it — a middle path between solipsism and eliminativism. See [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) for how genuine understanding of another person requires phenomenal consciousness.
+Second-person methods may access phenomenal consciousness where purely third-person methods cannot. Objective methods succeed by eliminating perspective, but phenomenal consciousness *is* perspective. Intersubjective methods acknowledge this while showing that something can be shared despite it — a middle path between solipsism and [eliminativism](/topics/eliminative-materialism/). See [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) for how genuine understanding of another person requires phenomenal consciousness.
 
 ## The Explanatory Gap and Epistemic Asymmetry
 
@@ -162,6 +163,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 - [objectivity-and-consciousness](/concepts/objectivity-and-consciousness/) — Nagel's argument that objectivity has structural limits
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical explanation leaves phenomenal character unexplained
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person methodology and why the Map finds it insufficient
+- [eliminative-materialism](/topics/eliminative-materialism/) — Two distinct strands (classical / illusionism) and the Map's response to each, with extended treatment of the connectionist challenge and Moorean defence
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The quantum measurement problem as a philosophical issue
 - [mysterianism](/concepts/mysterianism/) — McGinn's thesis that some problems may exceed human cognitive reach
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability argument for the gap between function and phenomenology

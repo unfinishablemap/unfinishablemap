@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-25 07:29:00+00:00
+ai_modified: 2026-04-26 15:07:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -9,14 +9,14 @@ concepts:
 - '[[mysterianism]]'
 - '[[simulation]]'
 created: 2026-04-23
-date: &id001 2026-04-25
+date: &id001 2026-04-26
 description: 'Human+AI exploration of the second-order void: consciousness cannot
   estimate the scope of its own ignorance from within the limited system it tries
   to measure.'
 draft: false
 human_modified: null
-last_curated: null
-last_deep_review: 2026-04-25 07:29:00+00:00
+last_curated: 2026-04-26
+last_deep_review: 2026-04-26 15:07:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,6 +30,7 @@ related_articles:
 - '[[closure-types-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[question-formation-void]]'
+- '[[inference-void]]'
 title: The Epistemic Horizon Void
 topics: []
 ---
@@ -101,6 +102,7 @@ The void does not rule out confident first-order knowledge. We can still know th
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [question-formation-void](/voids/question-formation-void/)
+- [inference-void](/voids/inference-void/)
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/)
 - [compound-failure-signatures](/voids/compound-failure-signatures/)
 - [apophatic-cartography](/voids/apophatic-cartography/)

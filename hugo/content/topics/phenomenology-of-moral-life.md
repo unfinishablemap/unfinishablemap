@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-08
-ai_modified: 2026-04-06 14:06:00+00:00
+ai_modified: 2026-04-26 16:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -18,15 +18,13 @@ concepts:
 - '[[illusionism]]'
 - '[[aesthetics-and-consciousness]]'
 - '[[evaluative-phenomenal-character]]'
-- '[[evaluative-phenomenal-character]]'
-- '[[evaluative-phenomenal-character]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[agent-causation]]'
 - '[[attentional-economics]]'
 - '[[reasons-responsiveness]]'
 - '[[authentic-vs-inauthentic-choice]]'
 created: 2026-02-08
-date: &id001 2026-03-20
+date: &id001 2026-04-26
 description: The full arc of moral consciousness—from the pre-reflective strike of
   perceived wrongness through deliberative weighing of competing claims to the felt
   ownership of having chosen—and why this phenomenology matters for dualist accounts
@@ -34,7 +32,7 @@ description: The full arc of moral consciousness—from the pre-reflective strik
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-20 22:42:00+00:00
+last_deep_review: 2026-04-26 16:07:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -146,10 +144,8 @@ The phenomenology of moral life connects to the Map's [foundational commitments]
 - [phenomenal-value-realism](/topics/phenomenal-value-realism/) — The metaethical framework: phenomenal properties constitute value
 - [consciousness-value-connection](/concepts/consciousness-value-connection/) — Why consciousness is necessary for value to exist
 - [ethics-of-consciousness](/topics/ethics-of-consciousness/) — Ethical implications of consciousness-grounded value
-- [moral phenomenology and perception](/concepts/evaluative-phenomenal-character/) — What moral experience feels like and whether ethical properties can be directly perceived
-- [phenomenal normativity](/concepts/evaluative-phenomenal-character/) — The thesis that phenomenal states carry intrinsic normative force
+- [evaluative-phenomenal-character](/concepts/evaluative-phenomenal-character/) — Unified treatment of moral perception, phenomenal normativity, and the first-person investigation of evaluative experience
 - [consciousness-and-normative-force](/topics/consciousness-and-normative-force/) — The shared phenomenal architecture of normative demands
-- [normative phenomenology](/concepts/evaluative-phenomenal-character/) — First-person investigation of normative experience broadly
 - [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — What follows for moral life when agency is real
 - [free-will](/topics/free-will/) — The broader case for libertarian agency
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The general phenomenology of choosing

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-04-24 07:36:00+00:00
+ai_modified: 2026-04-26 16:23:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -16,7 +16,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[explanatory-gap]]'
 created: 2026-02-27
-date: &id001 2026-04-24
+date: &id001 2026-04-26
 description: The felt signals that gate cognition from inside—knowing, rightness,
   familiarity, understanding, obviousness, coherence—are produced by heuristic machinery
   consciousness cannot inspect, and terminate inquiry before investigation can check
@@ -24,7 +24,7 @@ description: The felt signals that gate cognition from inside—knowing, rightne
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 20:23:00+00:00
+last_deep_review: 2026-04-26 16:23:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -49,6 +49,7 @@ related_articles:
 - '[[recursion-void]]'
 - '[[compound-failure-signatures]]'
 - '[[predictive-construction-void]]'
+- '[[inference-void]]'
 - '[[consciousness-and-scientific-explanation]]'
 - '[[consciousness-and-creativity]]'
 title: The Noetic Feelings Void
@@ -75,7 +76,7 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a funct
 - **Feeling of confidence** — sense that a judgment is reliable. Gates commitment to action.
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
-Loev argues these are "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath the level of reportable judgment. The Map treats [epistemic emotions](/concepts/epistemic-emotions/)—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. [Insight](/concepts/consciousness-and-creativity/) exhibits the same recursive opacity: the breakthrough presents itself as direct apprehension of a solution, not as the fluency-and-coherence signal the evidence implicates.
+Loev argues these are "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath the level of reportable judgment. The Map treats [epistemic emotions](/concepts/epistemic-emotions/)—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. [Insight](/concepts/consciousness-and-creativity/) is a paradigm case: the breakthrough presents as direct apprehension, not as the fluency-and-coherence signal it actually is. The noetic feel typically arrives as the *output* of an upstream inferential transition whose own opacity is the [inference void](/voids/inference-void/)—the two voids compose, with feelings registering when to stop and inferences doing the moving that produces the verdict.
 
 ## How the Feelings Are Produced
 
@@ -175,6 +176,7 @@ A functionalist might dissolve the void by identifying understanding with a func
 - [necessary-opacity](/voids/necessary-opacity/) — Structural reasons certain opacities cannot be lifted
 - [source-attribution-void](/voids/source-attribution-void/) — Why mental contents arrive without origin tags
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Methods that outrun their own limits
+- [inference-void](/voids/inference-void/) — The opacity of the transitions whose outputs noetic feelings register
 - [predictive-construction-void](/voids/predictive-construction-void/) — How successful prediction manufactures self-evidence
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The phenomenally rich extension of the noetic family
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — The cognitive bias behind Occam's Razor

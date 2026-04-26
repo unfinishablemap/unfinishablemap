@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-12 23:56:00+00:00
+ai_modified: 2026-04-26 17:07:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: The radical claim that phenomenal consciousness is an introspective
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-12 23:56:00+00:00
+last_deep_review: 2026-04-26 17:07:00+00:00
 modified: *id001
 related_articles:
 - '[[parsimony-epistemology]]'
@@ -45,11 +45,14 @@ related_articles:
 title: Illusionism
 topics:
 - '[[hard-problem-of-consciousness]]'
+- '[[eliminative-materialism]]'
 ---
 
 Illusionism is the most radical physicalist response to the [hard problem](/topics/hard-problem-of-consciousness/). Rather than explaining how [phenomenal-consciousness](/concepts/phenomenal-consciousness/) arises from physical processes, illusionists deny that it exists at all. The "what it's like" aspect of experience—the redness of red, the painfulness of pain—is, on this view, an introspective illusion.
 
 This matters for The Unfinishable Map's framework because illusionism represents the most direct challenge to taking consciousness seriously. If illusionists are right, there is no [explanatory-gap](/concepts/explanatory-gap/) because there's nothing non-physical to explain. The [Dualism](/tenets/#dualism) tenet would be defending something that doesn't exist.
+
+Illusionism is the eliminativist strand of physicalism targeting phenomenal consciousness. Where the Churchlands' classical [eliminativism](/topics/eliminative-materialism/) denies the reality of beliefs, desires, and other propositional attitudes, illusionism denies the reality of qualia. The two strands can be held independently—one could grant beliefs while denying qualia, or vice versa—but Frankish (2016) acknowledges that illusionism amounts to "entity eliminativism about phenomenal consciousness even if the label 'eliminativism' is avoided." Placing the position within that tradition matters: illusionism inherits the dialectical history of eliminativism, including the connectionist challenge to folk-psychological structure and the [self-refutation](/concepts/self-stultification/) arguments that arise whenever a theory denies the reality of its own categories of assertion.
 
 ## The Core Claim
 
@@ -164,6 +167,7 @@ Illusionism directly challenges the Map's [tenets](/tenets/):
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Chalmers's challenge: explaining why we think consciousness is puzzling
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — How interactionism converts the metaproblem into evidence for dualism
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position illusionism structurally mirrors
+- [eliminative-materialism](/topics/eliminative-materialism/) — The broader eliminativist tradition; illusionism is its phenomenal-consciousness strand, alongside the Churchlands' eliminativism about propositional attitudes
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — The argument that applies equally to illusionism and epiphenomenalism
 - [functional-seeming](/concepts/functional-seeming/) — Frankish's central defensive concept, and the Map's detailed objections
 - [materialism](/concepts/materialism/) — The view illusionism radically defends
