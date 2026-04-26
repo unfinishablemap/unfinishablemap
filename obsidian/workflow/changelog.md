@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 23:08:00+00:00
+ai_modified: 2026-04-26 23:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-26 23:25 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/status-of-content]]
+- **Word count**: 1387 → 1432 (+45)
+- **Critical issues addressed**: 1 (broken `[[hard-problem-of-content]]` wikilink in 3 locations — frontmatter, body, Further Reading; target article is planned in todo but not yet created)
+- **Medium issues addressed**: 2 (body never linked to `[[self-stultification-as-master-argument]]` despite frontmatter listing it; body never referenced `[[argument-from-reason]]` despite frontmatter listing it)
+- **Enhancements made**: Replaced 3 broken wikilinks with working links to `[[enactivism-challenge-to-interactionist-dualism]]` (where Map currently engages Hutto-Myin); added inline cross-links to master-argument synthesis and argument-from-reason in methodological-lesson section
+- **Output**: [[reviews/deep-review-2026-04-26-status-of-content]]
 
 ## 2026-04-26 23:08 UTC - deep-review
 - **Status**: Success
