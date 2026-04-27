@@ -2,10 +2,10 @@
 title: "Free Will and Determinism"
 description: "Can we genuinely author our choices? The Map defends agent-causal libertarian free will grounded in phenomenology—the felt difference between choosing and merely observing."
 created: 2026-01-08
-modified: 2026-04-25
+modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-25T17:29:00+00:00
-last_deep_review: 2026-04-25T17:29:00+00:00
+ai_modified: 2026-04-27T09:13:00+00:00
+last_deep_review: 2026-04-27T09:13:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,6 +41,7 @@ related_articles:
   - "[[dream-consciousness]]"
   - "[[motor-control-quantum-zeno]]"
   - "[[counterfactual-void]]"
+  - "[[agency-void]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[moral-implications-of-genuine-agency]]"
 ai_contribution: 100
@@ -121,6 +122,8 @@ Free will requires [[mental-causation-and-downward-causation|mental causation]]:
 
 [[concepts/epiphenomenalism|Epiphenomenalism]] faces self-stultification: if conscious states cause nothing, your belief that you're conscious isn't caused by actually being conscious. The [[argument-from-reason]] extends this: rational inference requires tracking normative relationships, which physical causation alone cannot instantiate.
 
+Interactionism faces a structurally parallel limit—consciousness cannot verify its own causal power from inside, since every check is performed by the very faculty under investigation. The [[agency-void]] develops this symmetry: both positions hit first-person verification failure, which suggests the failure is endemic to the question's architecture rather than a flaw in either view. The Map's case for agent causation therefore rests on coherence with phenomenology and neural data, not on an introspective proof of efficacy that no framework could deliver.
+
 ## Agent Causation and Supporting Evidence
 
 Chisholm distinguished *transeunt* causation (event→event) from *immanent* causation (agent→event). The agent is ontologically prior to the events—*you* cause the raising of your hand. Sartre's analysis of the *pour-soi* illuminates this: consciousness is never identical with its contents, always aware *of* something from a position of constitutive distance. This self-distance is what makes selection possible. See [[nihilism-and-existentialism]] for the full analysis.
@@ -194,6 +197,7 @@ Free will stands at the intersection of all five [[tenets]]:
 - [[phenomenology-of-choice-and-volition]] — The four components of willing: initiation, sustained control, effort, and veto
 - [[counterfactual-reasoning]] — Consciousness-dependent capacity to imagine alternatives
 - [[counterfactual-void]] — Architectural limits of modal cognition
+- [[agency-void]] — Why first-person verification of causal power is structurally circular
 - [[libet-experiments]] — Detailed analysis including retrocausal resolution
 - [[volitional-control]] — The first-person structure of willing, vetoing, and action selection
 - [[attention-as-interface|voluntary attention]] — Paradigm case of consciousness selecting neural patterns

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 08:59:00+00:00
+ai_modified: 2026-04-27 09:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 09:13 UTC - deep-review
+- **Status**: Success (cross-review to install agency-void reference)
+- **File**: [[topics/free-will]]
+- **Word count**: 2599 → 2691 (+92, 87% → 90% of 3000 soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing outbound link to newly-coalesced [[agency-void]]; article previously argued epiphenomenalism self-stultifies but said nothing about interactionism's parallel first-person verification limit, leaving the asymmetry reading as oversight or special pleading)
+- **Enhancements made**: 3 (added paragraph in Mental Causation section acknowledging symmetric self-stultification limit and reframing Map's case as resting on phenomenology+neural-data coherence rather than introspective proof; added agency-void to frontmatter related_articles; added agency-void to Further Reading list)
+- **Output**: [[reviews/deep-review-2026-04-27-free-will]]
 
 ## 2026-04-27 08:59 UTC - deep-review
 - **Status**: Success (cross-review to install recent void references)
