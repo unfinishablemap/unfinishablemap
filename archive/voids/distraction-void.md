@@ -34,6 +34,11 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-23
 last_curated:
+archived: true
+archived_date: 2026-04-27T16:57:00+00:00
+superseded_by: "/voids/transit-void/"
+archive_reason: "Coalesced into The Transit Void as the attentional sub-case"
+original_path: "/voids/distraction-void/"
 ---
 
 The Distraction Void is the gap between being captured and noticing one has been captured. Attention can be taken from its object without consciousness observing the taking—one only ever finds oneself elsewhere, never in the act of leaving. The transit itself is unavailable to introspection; only its aftermath is. The Unfinishable Map treats this gap as one of the sharpest cases of a broader pattern in which consciousness cannot witness its own transitions, and as a probe of where the Map's dualist commitments meet their most testable—and most occluded—ground.

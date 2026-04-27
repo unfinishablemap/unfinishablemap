@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 16:44:00+00:00
+ai_modified: 2026-04-27 16:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 16:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/distraction-void]], [[voids/transit-void]]
+- **Target**: [[voids/transit-void]] (merged into existing; transit-void was already coalesced from transition-void + initiation-void)
+- **Archived**: [[archive/voids/distraction-void]]
+- **Rationale**: distraction-void explicitly named itself "the attentional analogue of the transit-void"; both articles share the same core structural claim (consciousness has reliable before-and-after access but no in-flight access to its own transitions). Distraction's empirical anchors (MMN/P3a/P3b ERP timing, Smallwood–Schooler probe-caught paradigm, Anderson's retrospective-label thesis) now sit inside the broader transit-void as a dedicated "Attentional Capture: The Empirical Anchor" section. Transit-void URL preserved.
+- **References to review**: 11 files reference [[distraction-void]] (will need a follow-up cross-review task to update wikilinks where the attentional case is the actual target rather than the broader transit phenomenon)
 
 ## 2026-04-27 16:44 UTC - refine-draft
 - **Status**: Success

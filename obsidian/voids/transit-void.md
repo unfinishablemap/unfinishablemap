@@ -1,10 +1,10 @@
 ---
 title: "The Transit Void"
-description: "Consciousness cannot witness its own crossings—neither the onset of a mental act nor the transition between states. Watching prevents crossing; crossing prevents watching."
+description: "Consciousness cannot witness its own crossings—neither the onset of a mental act, nor the transition between states, nor the moment attention is captured. Watching prevents crossing; crossing prevents watching."
 created: 2026-03-05
-modified: 2026-04-23
+modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-27T07:29:00+00:00
+ai_modified: 2026-04-27T16:57:00+00:00
 last_deep_review: 2026-04-23T19:12:00+00:00
 draft: false
 topics:
@@ -12,6 +12,8 @@ topics:
   - "[[philosophy-of-mind]]"
   - "[[free-will]]"
   - "[[phenomenology-of-choice-and-volition]]"
+  - "[[attention-and-the-consciousness-interface]]"
+  - "[[structure-of-attention]]"
 concepts:
   - "[[phenomenology]]"
   - "[[introspection]]"
@@ -19,6 +21,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[agent-causation]]"
   - "[[dualism]]"
+  - "[[attention-as-interface]]"
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
@@ -32,7 +35,10 @@ related_articles:
   - "[[consciousness-and-skill-acquisition]]"
   - "[[agency-void]]"
   - "[[spontaneous-thought-void]]"
-  - "[[distraction-void]]"
+  - "[[attention-and-consciousness]]"
+  - "[[recognition-void]]"
+  - "[[thought-stream-void]]"
+  - "[[acquaintance-void]]"
   - "[[necessary-opacity]]"
   - "[[self-opacity]]"
   - "[[imagination-and-creativity-void]]"
@@ -45,6 +51,7 @@ last_curated: null
 coalesced_from:
   - "/voids/transition-void/"
   - "/voids/initiation-void/"
+  - "/voids/distraction-void/"
 ---
 
 Consciousness cannot witness its own crossings. We never catch ourselves falling asleep, shifting moods, losing focus, deciding, or entering flow. Every mental act is already underway when awareness arrives; every state transition has already completed by the time we notice it. The transit void names the structural impossibility common to both cases: the cognitive stance required for observation is incompatible with the cognitive stance in which the crossing occurs. Watching prevents crossing, and crossing prevents watching.
@@ -67,13 +74,43 @@ The structure repeats across mental life:
 
 **Mood shifts.** You notice you are angry, sad, or elated. The shift itself was invisible. The new mood presents as having "always been there" even when you know it hasn't. Monitoring emotional state with sufficient attention to catch the transition would alter the emotional dynamics producing it.
 
-**Attention shifts.** You realise you have been daydreaming. Departure from focused attention is unwitnessed; only return is noticed — the asymmetry documented in detail by the [[phenomenology-of-returning-attention|phenomenology of returning attention]]. The [[distraction-void]] treats this case in depth, pairing probe-caught mind-wandering with ERP timing to show the capture itself running its course before conscious access can engage.
+**Attention shifts.** You realise you have been daydreaming. Departure from focused attention is unwitnessed; only return is noticed — the asymmetry documented in detail by the [[phenomenology-of-returning-attention|phenomenology of returning attention]]. This case carries the void's sharpest empirical traction and is treated in its own subsection [below](#attentional-capture-the-empirical-anchor).
 
 **Flow states.** Entering and exiting flow is never observed from within flow. The [[disappearance-voids|absorption void]] documents this: peak conscious engagement is peak self-opacity. You surface and realise time has passed.
 
 **Insight.** The "aha" moment arrives fully formed. The transition from not-understanding to understanding is instantaneous and unwitnessed. Petitmengin's micro-phenomenological research reveals such transitions involve rapid pre-reflective processes — "micro-acts" — that escape ordinary introspection entirely.
 
 **Deliberate action.** Even when you clearly decide to move, the decision is already under way when you notice it. Libet's W time — the reported moment of conscious intention — is itself a reconstruction, not a direct observation of initiation.
+
+## Attentional Capture: The Empirical Anchor
+
+Distraction is the case where the void has third-person traction. Attention can be taken from its object without consciousness observing the taking — one only ever finds oneself elsewhere, never in the act of leaving. ERP timing, contemplative reports, classical introspection, and existential phenomenology converge on the same structural feature: the moment at which the object of awareness changes against the subject's pre-existing intent is never itself an object of awareness.
+
+### Three Moments and the Conscious-Access Lag
+
+Attention capture has three moments, and cognitive neuroscience has teased them apart. The Mismatch Negativity (MMN), an event-related potential at roughly 100–250 ms after a deviant stimulus, is commonly read as a preattentive change-detection signal generated primarily in auditory cortex — one that does not require conscious access. The P3a, at roughly 250–300 ms, is standardly read as an index of involuntary capture. The P3b, at roughly 300–500 ms and often later, is widely treated as the correlate of reportable conscious access. This mapping is the leading reading, not a settled one: no-report paradigms (Pitts et al., 2014) suggest the P3b may index post-perceptual processing rather than access itself, and Aru et al. (2012) caution that many purported neural correlates of consciousness are contaminated by confounds of task, report, and prerequisite conditions. The ERP picture is the dominant interpretation in an active dispute.
+
+Escera and Corral (2007) summarise one prominent framing: "MMN is a pre-attentive index of novel detection and P3a is the involuntary capture of attention... the focal anterior P3a can occur nonconsciously." On this reading, the interrupt runs its course in the brain before any conscious veto or redirect could engage. By the time one could be aware of being captured, capture has already completed.
+
+### Probe-Caught Mind-Wandering
+
+The phenomenology matches the physiology. Smallwood and Schooler's probe-caught paradigm finds long stretches of mind-wandering without in-flight awareness — "zoning out" — distinct from wandering with awareness ("tuning out"). Subjects confirm only when asked that they had been elsewhere. Schooler writes that "mind wandering reflects the cyclic activity of two core processes: the capacity to disengage attention from perception (perceptual decoupling) and the ability to take explicit note of the current contents of consciousness (meta-awareness)." The two are dissociable. The first can run while the second does not.
+
+Anderson (2024) sharpens the picture. Distraction, he argues, is a retrospective label — attention is called distraction "only when consequences seem detrimental, either in retrospect or from the vantagepoint of a third-party observer." People have "robust awareness of what they intended to pay attention to, but an impoverished understanding of what they actually directed their attention to." The category itself is constructed after the fact. Introspection cannot distinguish distraction from any other attentional shift at the time it occurs, because the distinction is not phenomenological but evaluative.
+
+### Three Phenomenal Features
+
+Three features recur across reports. First, *retrospective discovery*: the transition has no felt span, only a before and an after. Second, *chronological fog*: even immediately after noticing, one cannot specify when the distraction began. The interval of absence is of unknown duration. Third, a small shock of reclaiming — "I lost track" — whose force depends on the fact that the track-loss was not itself tracked.
+
+Negative evidence is equally telling. There is no phenomenology of *being in the act of being captured*. A subject who could report it would already be attending to the captor, which means capture has already succeeded.
+
+### Resonances Without Confirmation
+
+Probe-caught mind-wandering and ERP timing are the direct evidence for a real-time gap. Several traditions resonate with the finding without confirming it in the same register, and reading them as independent confirmations overstates what each actually claims. William James, in the *Principles of Psychology* (1890), located the root of will in *return* rather than prevention: "the faculty of voluntarily bringing back a wandering attention, over and over again, is the very root of judgment, character, and will." This is an ethical-normative claim about will, compatible with the void thesis without entailing it. Buddhist *sati* practice frames the asymmetry at the level of prescription — by the time one catches the not-noticing, one is already noticing again (Gunaratana 1991). Heidegger's *Verfallen* names Dasein's structural absorption-into-the-world as an ontological mode rather than a phenomenological gap. Petitmengin's microphenomenology offers scaffolded retrieval rather than real-time access. The strongest converging pair remains Smallwood–Schooler with Anderson; the others point in compatible directions.
+
+### Why This Case Sits at the Tenet Pressure Point
+
+The attentional sub-case is the location where the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet becomes most experientially testable from within — and most occluded. If consciousness causally influences physical outcomes, the natural reading in the attentional domain is that *consciousness directs attention*. The capture event is exactly where one would expect to catch the directing hand at work, or to catch its failure. Instead the directing hand is systematically unavailable in real time. Under an *occlusion* reading rather than a merely *architectural* one, this absence is not incidental: the consciousness-physics coupling, on the Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] account, is where it would be most exposed to introspection — and where introspection systematically goes dark. The reading is admittedly asymmetric against the evidence: it is compatible both with introspective access to the transit and with its absence. Specific observations would, however, disfavour it — a trained-contemplative cohort reliably reporting the transit at durations shorter than the P3a window, an ERP-phenomenology paradigm in which subject reports track the transit itself rather than its aftermath at frequencies post-hoc confabulation cannot explain, an AI system with externalised attentional logs producing first-person-analogous transit reports under conditions parallel to capture. None has yet been demonstrated. The occlusion reading is offered as an interpretive stance rather than an empirically-supported claim, invoked under [[tenets#^occams-razor-has-limits|Occam's Razor Has Limits]].
 
 ## The Stochastic Threshold
 
@@ -178,7 +215,9 @@ The transit void sits within a family of closely related voids. The [[agency-voi
 - [[inaccessible-past]] — Why past conscious states can only be reconstructed, not accessed
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[phenomenology-of-returning-attention]] — Micro-structure of attention shifts, where departure is never witnessed
-- [[distraction-void]] — The attentional analogue: ERP timing and probe-caught mind-wandering give third-person traction on a first-person dark transit
+- [[attention-and-consciousness]] — How attending generates unattendable territory as a structural necessity
+- [[recognition-void]] — The act of identifying-as as a kindred case of unwitnessed becoming
+- [[thought-stream-void]] — Spontaneous thought arrival without traceable origin
 - [[temporal-consciousness]] — Husserl's retention-protention structure
 - [[necessary-opacity]] — The broader principle that consciousness must hide aspects of itself from itself
 - [[agency-void]] — Whether consciousness can confirm its own causal powers, and why it cannot fully control its own states
@@ -203,3 +242,11 @@ The transit void sits within a family of closely related voids. The [[agency-voi
 10. Dennett, D. C. (1991). *Consciousness Explained*. Little, Brown.
 11. Maeda, C. "Falling Asleep." *Phenomenology Online*.
 12. Analayo, B. (2003). *Satipatthana: The Direct Path to Realization*. Windhorse Publications.
+13. Schooler, J. W., Smallwood, J., Christoff, K., Handy, T. C., Reichle, E. D., & Sayette, M. A. (2011). Meta-awareness, perceptual decoupling and the wandering mind. *Trends in Cognitive Sciences*, 15(7), 319–326.
+14. Anderson, B. A. (2024). Rethinking distraction. PubMed Central record PMC12270342. https://pmc.ncbi.nlm.nih.gov/articles/PMC12270342/
+15. Escera, C., & Corral, M. J. (2007). Role of mismatch negativity and novelty-P3 in involuntary auditory attention. *Journal of Psychophysiology*, 21(3–4), 251–264.
+16. Pitts, M. A., Padwal, J., Fennelly, D., Martínez, A., & Hillyard, S. A. (2014). Gamma band activity and the P3 reflect post-perceptual processes, not visual awareness. *NeuroImage*, 101, 337–350.
+17. Aru, J., Bachmann, T., Singer, W., & Melloni, L. (2012). Distilling the neural correlates of consciousness. *Neuroscience & Biobehavioral Reviews*, 36(2), 737–746.
+18. James, W. (1890). *The Principles of Psychology*, Ch. 11 ("Attention").
+19. Heidegger, M. (1927/1962). *Being and Time* (trans. Macquarrie & Robinson).
+20. Gunaratana, B. (1991). *Mindfulness in Plain English*. Wisdom Publications.
