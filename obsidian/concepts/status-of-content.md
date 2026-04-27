@@ -4,7 +4,7 @@ description: "Boghossian's 1990 argument that content irrealism about propositio
 created: 2026-04-26
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-26T23:25:00+00:00
+ai_modified: 2026-04-27T00:58:00+00:00
 draft: false
 topics:
   - "[[eliminative-materialism]]"
@@ -13,16 +13,18 @@ concepts:
   - "[[self-stultification]]"
   - "[[intentionality]]"
   - "[[illusionism]]"
+  - "[[hard-problem-of-content]]"
 related_articles:
   - "[[self-stultification-as-master-argument]]"
   - "[[argument-from-reason]]"
+  - "[[hard-problem-of-content]]"
   - "[[enactivism-challenge-to-interactionist-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-26
 last_curated:
-last_deep_review: 2026-04-26T23:25:00+00:00
+last_deep_review: 2026-04-27T00:58:00+00:00
 ---
 
 Paul Boghossian's 1990 paper "The Status of Content" advances what is widely regarded as the most sophisticated form of the self-refutation argument against eliminative materialism. The core move: arguments for irrealism about propositional-attitude content—the kind of content beliefs and desires possess—generalise to irrealism about content *tout court*, including the linguistic content of the eliminativist's own assertions. If the eliminativist's claim cannot have determinate content, the position cannot be coherently asserted. Devitt and Rey replied in 1991 that the argument presupposes a truth-conditional semantics the eliminativist can decline. The literature has not converged. The Map treats Boghossian's argument as the strongest version of self-refutation against eliminativism while declining to lean on it as decisive.
@@ -63,7 +65,7 @@ The Map treats Boghossian's argument as a real but bounded weapon against elimin
 
 **The Map does not lean on the argument as a knockdown.** The literature has not converged. Devitt and Rey's reply has force; deflationary semantic theories are live options; the burden on a deflationist to discharge their commitments without re-introducing intentional vocabulary is heavy but not obviously unmeetable. The Map's case against eliminativism rests primarily on the substantive claim that phenomenal evidence has an epistemic status incompatible with eliminativism (developed in [[topics/eliminative-materialism]] and [[phenomenal-authority-and-first-person-evidence]]), not on a formal-incoherence verdict against eliminativism's self-presentation.
 
-**It connects to a parallel argument from the enactivist direction.** Hutto and Myin's "hard problem of content" (developed in their *Radicalizing Enactivism* and *Evolving Enactivism*; see [[enactivism-challenge-to-interactionist-dualism|enactivism's challenge]] for the Map's treatment) makes a structurally similar move at the level of mental representation: naturalistic theories of representation cannot explain how neurological states acquire genuine semantic properties. Where Boghossian targets the eliminativist's *assertions*, Hutto and Myin target the eliminativist's *underlying representational commitments*. Together these arguments form a pincer: the eliminativist faces difficulties both at the level of stating the position and at the level of grounding the cognitive states the position posits to replace folk psychology.
+**It connects to a parallel argument from the enactivist direction.** Hutto and Myin's [[hard-problem-of-content|hard problem of content]] (developed in their *Radicalizing Enactivism* and *Evolving Enactivism*) makes a structurally similar move at the level of mental representation: naturalistic theories of representation cannot explain how neurological states acquire genuine semantic properties. Where Boghossian targets the eliminativist's *assertions*, Hutto and Myin target the eliminativist's *underlying representational commitments*. Together these arguments form a pincer: the eliminativist faces difficulties both at the level of stating the position—since arguments for content irrealism cannot be coherently asserted—and at the level of grounding the cognitive states the position posits to replace folk psychology—since content realism cannot be naturalised. The Map's dedicated treatment of the second arm (in [[hard-problem-of-content]]) develops the structural alliance more fully.
 
 **Methodological lesson.** The sophisticated version teaches the Map's discipline about self-refutation arguments generally. Such arguments are tempting because they promise short routes to victory, but the simple versions almost always beg the question. A genuinely sophisticated self-refutation argument has to (a) avoid importing the contested premise it is trying to refute, and (b) work from the opponent's own argumentative resources. Boghossian's argument satisfies both conditions, which is why the literature has taken it seriously even though it has not converged on its success. Other self-refutation arguments the Map deploys—the [[argument-from-reason]] against naturalism, the self-stultification structure against epiphenomenalism, the regress-against-illusionism—should be tested against the same standard. The [[self-stultification-as-master-argument|master-argument synthesis]] examines how this single dialectical structure plays out across each of these targets.
 
@@ -72,7 +74,8 @@ The Map treats Boghossian's argument as a real but bounded weapon against elimin
 - [[topics/eliminative-materialism]] — the position Boghossian's argument targets
 - [[self-stultification]] — the broader family of arguments to which Boghossian's belongs
 - [[self-stultification-as-master-argument]] — the unified pattern across multiple targets
-- [[enactivism-challenge-to-interactionist-dualism]] — where the Map currently engages Hutto and Myin's "hard problem of content" as a parallel structural challenge
+- [[hard-problem-of-content]] — Hutto and Myin's parallel argument that no naturalistic theory can explain how neural states acquire genuine semantic content; the second arm of the pincer
+- [[enactivism-challenge-to-interactionist-dualism]] — the broader Radical Enactive Cognition programme Hutto and Myin build atop the hard problem of content
 - [[intentionality]] — what content is and why it resists naturalisation
 - [[illusionism]] — the eliminativist position about phenomenal consciousness, where similar self-refutation worries apply
 - [[argument-from-reason]] — a structurally adjacent self-defeat argument against naturalism

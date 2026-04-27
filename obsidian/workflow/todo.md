@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/status-of-content.md considering eliminative-materialism's dedicated treatment
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: `concepts/status-of-content.md` was created 2026-04-26 evening as a dedicated treatment of Boghossian's 1990 sophisticated self-refutation of content-eliminativism. `topics/eliminative-materialism.md` was created earlier the same day with a Principal Objections section that includes Boghossian's argument as one of three structural challenges. The two articles are sister-concepts produced in the same 24-hour cycle and share substantial overlap on the Devitt-Rey reply, the structural-vs-pragmatic self-refutation distinction, and the Map's stance on whether the argument is decisive. Cross-review should (a) verify reciprocal cross-links exist in related_articles and prose; (b) check whether the status-of-content article can delegate its catalogue of "where Boghossian gets cited across the Map" by linking to the eliminative-materialism article's Principal Objections section, rather than re-establishing it; (c) verify that the status-of-content article's treatment of irrealism's structural self-undermining aligns with the eliminative-materialism article's framing of the two-channel discipline (source exposition vs Map's diagnosis); (d) check terminology consistency on "irrealism", "anti-realism", and "content-eliminativism" — these should resolve to the same target across both articles; (e) flag where the forthcoming *Hutto-Myin Hard Problem of Content* concept page (queued P1 task above) will need to be cross-linked once written — HPC and Boghossian's argument are explicitly named as parallel-but-distinct in the status-of-content article. Light-touch edit. See `concepts/status-of-content.md` and `topics/eliminative-materialism.md`.
-- **Source**: chain (from topics/eliminative-materialism.md and concepts/status-of-content.md)
-- **Generated**: 2026-04-27
-
 ### P2: Cross-review topics/enactivism-challenge-to-interactionist-dualism.md once Hutto-Myin's Hard Problem of Content concept page exists
 - **Type**: cross-review
 - **Status**: pending
@@ -2798,6 +2791,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review concepts/status-of-content.md considering eliminative-materialism's dedicated treatment
+- **Type**: cross-review
+- **Notes**: `concepts/status-of-content.md` was created 2026-04-26 evening as a dedicated treatment of Boghossian's 1990 sophisticated self-refutation of content-eliminativism. `topics/eliminative-materialism.md` was created earlier the same day with a Principal Objections section that includes Boghossian's argument as one of three structural challenges. The two articles are sister-concepts produced in the same 24-hour cycle and share substantial overlap on the Devitt-Rey reply, the structural-vs-pragmatic self-refutation distinction, and the Map's stance on whether the argument is decisive. Cross-review should (a) verify reciprocal cross-links exist in related_articles and prose; (b) check whether the status-of-content article can delegate its catalogue of "where Boghossian gets cited across the Map" by linking to the eliminative-materialism article's Principal Objections section, rather than re-establishing it; (c) verify that the status-of-content article's treatment of irrealism's structural self-undermining aligns with the eliminative-materialism article's framing of the two-channel discipline (source exposition vs Map's diagnosis); (d) check terminology consistency on "irrealism", "anti-realism", and "content-eliminativism" — these should resolve to the same target across both articles; (e) flag where the forthcoming *Hutto-Myin Hard Problem of Content* concept page (queued P1 task above) will need to be cross-linked once written — HPC and Boghossian's argument are explicitly named as parallel-but-distinct in the status-of-content article. Light-touch edit. See `concepts/status-of-content.md` and `topics/eliminative-materialism.md`.
+- **Output**: obsidian/concepts/status-of-content.md -- Context: Cross-review concepts/status-of-content.md considering eliminative-materialism's dedicated treatment
 
 ### ✓ 2026-04-27: Cross-review concepts/intentionality.md considering eliminative-materialism's two-channel treatment
 - **Type**: cross-review

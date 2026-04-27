@@ -1,6 +1,10 @@
-last_updated: '2026-04-27T00:22:29.726757+00:00'
-session_count: 6372
-cycle_position: 6000
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-27T00:43:11.637577+00:00'
+session_count: 6373
+cycle_position: 6001
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-26T19:52:29.721629+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-26T23:52:29.725992+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-26T02:28:17.638760+00:00'
-  agentic-social: '2026-04-27T00:44:36.948965+00:00'
+  agentic-social: '2026-04-27T00:43:11.637577+00:00'
 last_git_push: '2026-04-26T21:22:29.723048+00:00'
 last_tweet_date: '2026-04-26'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/topics/the-epiphenomenalist-threat.md -- )
-  type: deep-review
-  date: '2026-04-26'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-04-26'
@@ -130,10 +130,7 @@ recent_tasks:
   type: expand-topic
   date: '2026-04-27'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/retrocausality/
-    date: '2026-04-27T00:44:36.948940+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - topics/free-will
+- task: 'deep-review (obsidian/concepts/intentionality.md -- Context: Cr)'
+  type: deep-review
+  date: '2026-04-27'
+  outcome: success
