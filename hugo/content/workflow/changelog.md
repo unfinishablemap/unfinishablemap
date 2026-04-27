@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 23:12:00+00:00
+ai_modified: 2026-04-27 23:28:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-27 23:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Trigger**: Pessimistic-2026-04-27e Issue 2 ("Seam test is unfalsifiable as written") — 21:14 UTC rewrite addressed Issues 1, 3, 4 but only partially addressed Issue 2 via the "not yet" deferral in §"A Cluster Awaiting the Move"
+- **Changes**: Installed new §"A Coalesce the Test Rejected" between §"Two Coalesces and One Cognate" and §"A Cluster Awaiting the Move". Walks the affective trio (`affective-void` / `valence-void` / `mood-void`) candidate from the 22:57 UTC abandoned coalesce as a worked failure: states the candidate joint claim explicitly, applies the seam test, names the structural feature that failed (*thematic-without-structural-conjunction* — first refinement of the test), describes what the editor did instead (declined merger, modified no files), and lists the six other clusters rejected in the same session by analogous reading.
+- **Word count delta**: ~545 words added (within medium-scope target of 400–600)
+- **Voice**: preserved; existing §"When the Discipline Fails" framing left intact (post-merger drift) — new section addresses pre-merger rejection (distinct, no duplication)
+- **Tenet alignment**: Methodological / Occam's Razor Has Limits (the test now has a falsifiable instance in its own discipline)
+- **Published**: yes (`draft: false` retained)
 
 ## 2026-04-27 23:12 UTC - deep-review
 - **Status**: Success
