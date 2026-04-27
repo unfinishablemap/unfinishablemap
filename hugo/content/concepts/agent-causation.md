@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-23 12:59:00+00:00
+ai_modified: 2026-04-27 15:30:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -42,11 +42,15 @@ related_articles:
 - '[[phenomenology-mechanism-bridge]]'
 - '[[process-and-consciousness]]'
 - '[[consciousness-and-agency]]'
+- '[[agency-void]]'
 - '[[agent-causation-libertarian-free-will-2026-01-14]]'
 - '[[voluntary-attention-control-mechanisms-2026-01-17]]'
 - '[[motor-control-quantum-zeno-2026-01-18]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
 - '[[consciousness-value-connection]]'
+- '[[argument-from-reason]]'
+- '[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]'
+- '[[cross-cultural-convergence-on-mental-causation]]'
 title: Agent Causation
 topics:
 - '[[topics/free-will]]'
@@ -135,6 +139,22 @@ Agent causation traditionally focuses on selection, but [recent work](/concepts/
 
 Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood. Bergson's [temporal-consciousness](/concepts/temporal-consciousness/) develops this through memory's integration with the present. Whitehead's [process philosophy](/concepts/process-philosophy/) offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally. The [Process and Consciousness](/apex/process-and-consciousness/) apex develops this in depth.
 
+## The Verification Limit and the Convergent Case
+
+Agent causation faces a structural limit any account of mental causation inherits: consciousness cannot verify its own causal efficacy from inside. Every check is performed by the faculty under investigation. If consciousness is causally inert, the evidence-gathering is done *for* it by physical processes it merely observes; if it *is* causal, the evidence is produced by the very faculty whose causal status is in question. There is no external reference point against which to certify the result. The [agency-void](/voids/agency-void/) develops the symmetry: [epiphenomenalism](/concepts/epiphenomenalism/) cannot verify itself either, since on that view the belief "consciousness is causally inert" was not caused by consciousness. Both positions hit first-person verification failure for structural reasons, which suggests the failure inheres in the question's architecture rather than in particular arguments. [free-will](/topics/free-will/) flags the same limit—interactionism faces a structurally parallel circularity—and the [consciousness-and-agency apex](/apex/consciousness-and-agency/) frames it as the discipline the framework must keep: its strength lies not in first-person certainty but in its capacity to unify independently grounded claims into a coherent account of authorship.
+
+The framework therefore cannot rest on introspective proof of efficacy; its case is structural and convergent. Five anchors carry the weight, none of them privileged first-person testimony of the kind verification circularity disqualifies:
+
+- **Phenomenology of effort and willing.** Felt difficulty correlates with measured cognitive load and tracks reasons-responsive engagement; if phenomenology were epiphenomenal the correlation would be coincidental ([phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/), [mental-effort](/concepts/mental-effort/)).
+- **Neural data on willed versus instructed action.** Willed attention and motor selection share a ~300ms timeline, frontal theta increase, and bidirectional frontoparietal coherence absent in automatic behaviour. The signatures appear identically across distinct domains, ruling out single-domain artefacts (Rajan et al. 2019; Nadra & Mangun 2023; Sjöberg 2024).
+- **The [argument-from-reason](/topics/argument-from-reason/).** Rational inference requires tracking normative relationships, which physical causation alone cannot instantiate. The self-defeat of physicalism delivers mental causation without phenomenological premises and without any specific physics—a route that survives even if the quantum mechanism is wrong.
+- **Clinical neuroplasticity.** Meta-analyses show CBT and pharmacological interventions achieve comparable outcomes through *different neural pathways*—top-down cortical-to-limbic versus bottom-up neurochemical. Pathway divergence is what mental causation predicts and what pure redescription cannot easily explain ([clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)).
+- **Cross-cultural convergence.** Indian (Nyāya), African (Akan), and Western traditions independently arrived at substance-causal accounts of persons, providing evidential weight that agent-causal thinking is not a parochial Western ontology ([cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)).
+
+Each anchor stands or falls on its own merits; the convergence is what carries the case. If the selector model is wrong about the quantum interface, the philosophical case for agent causation survives on the remaining anchors; if the phenomenological evidence is contested, the argument from reason still demands mental causation; if a particular neural finding fails to replicate, cross-cultural convergence and clinical pathway divergence are unaffected. The framework is robust precisely because it does not concentrate the weight at any single load-bearing point—least of all at first-person introspection, where verification fails by structure.
+
+The agency void is therefore acknowledged as a feature of the territory rather than something the framework dissolves. Genuine authorship is consistent with the impossibility of certifying it from inside. What looks like a weakness when one expects introspective proof is the structurally appropriate epistemic situation for any account of mental causation: the faculty under investigation is the same faculty doing the investigating, and the case must be made elsewhere.
+
 ## What Would Challenge This View?
 
 Agent causation is falsifiable. Key challenges:
@@ -171,6 +191,9 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses the main 
 - [interactionist-dualism](/concepts/interactionist-dualism/), [quantum-consciousness](/concepts/quantum-consciousness/) — Mind-body mechanism
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/), [consciousness-value-connection](/concepts/consciousness-value-connection/), [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — Ethical implications
 - [free-will](/topics/free-will/) — The broader question and Map's position
+- [agency-void](/voids/agency-void/) — The first-person verification-circularity limit any account of mental causation faces
+- [argument-from-reason](/topics/argument-from-reason/) — Non-phenomenological route to mental causation
+- [clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/) — Pathway divergence as evidence for mental causation
 
 ## References
 

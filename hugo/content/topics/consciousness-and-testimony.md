@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-27 14:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ description: Testimony requires consciousness to function yet cannot fully conve
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 14:16:00+00:00
+last_deep_review: 2026-04-27 14:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -164,7 +164,6 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet is
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Why dualism provides better epistemic resources
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — How minds understand each other
-- [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — Meaning and conscious comprehension
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Shared consciousness and joint action
 - [consciousness-and-language-interface](/topics/consciousness-and-language-interface/) — How consciousness converts experience into language
 - [voids-between-minds](/voids/voids-between-minds/) — The constitutive gap between consciousnesses

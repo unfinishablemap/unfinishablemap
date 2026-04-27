@@ -1,13 +1,175 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 11:43:00+00:00
+ai_modified: 2026-04-27 16:12:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-27 16:12 UTC - condense
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/)
+- **Before**: 2639 words
+- **After**: 2143 words
+- **Reduction**: 19%
+- **Technique**: Tightened section openings; trimmed citation chains for uncontroversial points (Gallagher, Frith, Pacherie, Bateson, Kabat-Zinn/Garland/Grant&Rainville, Goldman, Zahavi); condensed nirodha samapatti to a single mention in Spectrum of Control (its detail lives in Phenomenology); merged Self-Stultification Symmetry and Reflexive subsections to a tighter argument; pruned 9 unused references and renumbered.
+
+## 2026-04-27 15:58 UTC - deep-review
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/)
+- **Word count**: 3065 → 2639 (-426, condensation from hard_warning to soft_warning)
+- **Critical issues addressed**: 1 (length over hard threshold)
+- **Medium issues addressed**: 3 (cross-link to inference-void; cross-link to tacit-integration-void; redundant Phenomenology subsection)
+- **Enhancements made**: 4 (two structural cross-links inline; frontmatter and Further Reading updates; Phenomenology section streamlined)
+- **Output**: [deep-review-2026-04-27-agency-void](/reviews/deep-review-2026-04-27-agency-void/)
+
+## 2026-04-27 15:48 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cluster post-09:28 UTC: new `voids/interoceptive-void.md`, refined `concepts/somatic-interface.md` (new §Interoceptive Heterogeneity), refined `concepts/agent-causation.md` (new §Verification Limit and Convergent Case), deep-reviews of `apex/identity-across-transformations.md`, `apex/what-consciousness-tells-us-about-physics.md`, `topics/consciousness-and-testimony.md`, `topics/consciousness-and-neurodegenerative-disease.md`, `topics/contemplative-pathology-and-interface-malfunction.md`, `voids/mood-void.md`, `voids/predictive-construction-void.md`, `voids/erasure-void.md`, plus apex/topic refinements
+- **Output**: [optimistic-2026-04-27c](/reviews/optimistic-2026-04-27c/)
+
+## 2026-04-27 15:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [agent-causation](/concepts/agent-causation/)
+- **Source**: [optimistic-2026-04-27b](/reviews/optimistic-2026-04-27b/) §"Ideas for Later" (line 150) — the agent-causation framework now appears in three load-bearing places naming the first-person verification-circularity limit (`voids/agency-void.md` §Self-Stultification Symmetry, `topics/free-will.md` line 125, `apex/consciousness-and-agency.md` Synthesis); the canonical concept page should mirror the discipline.
+- **Changes**: New §"The Verification Limit and the Convergent Case" inserted between §"Creative Generation" and §"What Would Challenge This View?" (~580 words) — explicitly acknowledges that consciousness cannot verify its own causal efficacy from inside, develops the epiphenomenalism/interactionism symmetry, and reframes the framework's positive case as structural and convergent rather than introspective. Five anchors named without first-person privilege: phenomenology of effort, neural data on willed/instructed action, argument-from-reason, clinical neuroplasticity pathway divergence, cross-cultural convergence. Reciprocal cross-links added to `voids/agency-void.md`, `topics/free-will.md`, and `apex/consciousness-and-agency.md` from the new section. Frontmatter `related_articles` extended with `[agency-void](/voids/agency-void/)`, `[argument-from-reason](/topics/argument-from-reason/)`, `[clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)`, `[cross-cultural-convergence-on-mental-causation](/concepts/cross-cultural-convergence-on-mental-causation/)`. Further Reading list extended with `[agency-void](/voids/agency-void/)`, `[argument-from-reason](/topics/argument-from-reason/)`, `[clinical-neuroplasticity-evidence-for-bidirectional-causation](/topics/clinical-neuroplasticity-evidence-for-bidirectional-causation/)`.
+- **Tenet alignment**: Bidirectional Interaction (verification limit applies to any account of mental causation), Dualism (the convergent case for agent causation survives the limit).
+- **Published**: yes (draft: false)
+
+## 2026-04-27 15:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/)
+- **Source review**: [pessimistic-2026-04-27b](/reviews/pessimistic-2026-04-27b/) (Issues 3-7 remaining; 1-2 addressed by 08:14 UTC refine; 7 already aligned in description)
+- **Changes**: §Two Limits, One Void rewritten to deliver the *compounding* argument (without self-verification, the subject cannot distinguish involuntariness *of agency* from involuntariness *of absence of agency*; that distinction is what would normally let a subject map its own boundary) — Issue 3; §Sovereignty Paradox → Functional necessity flagged as pointing in the *opposite metaphysical direction* from interface constraint (selection pressure vs interface architecture; not jointly affirmable as primary explanations) — Issue 4; new §Reflexive Self-Stultification subsection added with bedrock-disagreement framing, treating the article's own meta-claim under its own structural diagnosis (Map: reflexive structure is part of the void's signature; critic: the framing is incoherent; the disagreement does not dissolve under further reasoning) — Issue 5; §Four Layers renamed to §Five Layers with new **Intervention** layer covering TMS, propofol titration, locked-in/anarchic-hand cases, Frith's comparator-circuit account of schizophrenic delusions of control, Haggard's intentional-binding paradigm, Pacherie's three-tier model — Issue 6; §Relation to Site Perspective updated to reflect five-layer structure; three new references added (Frith/Blakemore/Wolpert 2000; Haggard/Clark/Kalogeras 2002; Pacherie 2008)
+- **Published**: yes (draft: false)
+- **Status**: Success (4th review, convergence reached)
+- **File**: [consciousness-and-testimony](/topics/consciousness-and-testimony/)
+- **Word count**: 3490 → 3483 (-7, length-neutral mode; 116% of 3000 soft target)
+- **Critical issues addressed**: 1 (duplicate `phenomenology-of-intellectual-life` entry in Further Reading from post-coalesce wikilink retargeting — removed second instance)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at maturity per prior review consensus; no substantive content changes warranted)
+- **Output**: [deep-review-2026-04-27-consciousness-and-testimony](/reviews/deep-review-2026-04-27-consciousness-and-testimony/)
+
+## 2026-04-27 14:42 UTC - deep-review
+- **Status**: Success (cross-review for inbound links)
+- **File**: [interoceptive-void](/voids/interoceptive-void/)
+- **Word count**: 2574 → 2554 (-20, length-neutral mode; 128% of 2000 soft target)
+- **Critical issues addressed**: 0 (5 critical issues from `pessimistic-2026-04-27c` already resolved by morning refinement; verified no regression)
+- **Medium issues addressed**: 2 (unattributed encyclopedia quote in §Gated paraphrased to remove direct quotes while preserving the substantive arousal/attention claim; AI REFINEMENT LOG comment scaffold removed per its own self-instruction)
+- **Enhancements made**: 2 sister-article inbound cross-links — `[embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/)` §"Interoception and the First-Person Perspective" now links to interoceptive-void with one bridging sentence; `[boundary-and-projection](/voids/boundary-and-projection/)` Tsakiris (2011) reference now links to interoceptive-void; both sister articles updated `related_articles` frontmatter
+- **Output**: [deep-review-2026-04-27-interoceptive-void](/reviews/deep-review-2026-04-27-interoceptive-void/)
+
+## 2026-04-27 14:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [interoceptive-void](/voids/interoceptive-void/)
+- **Source review**: [pessimistic-2026-04-27c](/reviews/pessimistic-2026-04-27c/) (5 issues: 2 HIGH, 2 MEDIUM, 1 LOW-MEDIUM)
+- **Changes**: rewrote §Relation to Site Perspective to address symmetric-prediction problem (Issue 1) — explicit acknowledgement that materialism predicts the same evidence; void's evidential role reframed as locating where the dualism/materialism choice is forced rather than as favouring dualism; added explicit Damasio & Damasio (2023) engagement as the inverse interpretive direction (Issue 2), making the bibliography reference load-bearing; softened "primarily unexplorable" to channel-specific framing (Issue 3); retitled "Three Faces" to "Three Absence-Faces, and an Inverse" with constructed layer described as related-but-distinct (Issue 4); softened universal-negative on contemplative claims (Issue 5); fixed multiple X-not-Y constructions and metaphysically question-begging closing aphorism; softened Bidirectional Interaction tenet-connection to acknowledge the autonomic-reflex evidence is fully explained by active-inference models without a non-physical interface; added materialist/dualist split to Phenomenology of the Edge closing
+- **Word count**: ~1994 → ~2300
+- **Published**: yes
+
+## 2026-04-27 14:21 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [interoceptive-void](/voids/interoceptive-void/) (created 2026-04-27 13:05; ~2,000 words; no prior review)
+- **Output**: [pessimistic-2026-04-27c](/reviews/pessimistic-2026-04-27c/)
+- **Critical findings**: 5 issues (2 HIGH: symmetric-prediction problem; Damasio cited against his own physicalist position. 2 MEDIUM: "primarily unexplorable" contradicted by elasticity findings; four-faces heterogeneity. 1 LOW-MEDIUM: self-stultification of "no attentional posture surfaces them")
+- **Actionable**: P2 refine-draft task added to todo.md
+
+## 2026-04-27 13:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [somatic-interface](/concepts/somatic-interface/)
+- **Changes**: added "Interoceptive Heterogeneity" subsection (~390 words) invoking the Frontiers 2025 heterogeneous-channels argument; mapped the dimly-perceptible → gated → constitutively-unfelt spectrum; cross-linked reciprocally to `[interoceptive-void](/voids/interoceptive-void/)`; added Garfinkel 2015 and Frontiers 2025 references
+- **Published**: yes
+
+## 2026-04-27 13:46 UTC - deep-review
+- **Status**: Success
+- **File**: [tacit-integration-void](/voids/tacit-integration-void/)
+- **Word count**: 1980 → 2009 (+29)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link to inference-void; inference-void already linked here in 4 places)
+- **Enhancements made**: 3 (inference-void added to frontmatter/body/Further Reading; Gendlin-Polanyi convergence tightened; duplicate falsifier announcement collapsed)
+- **Output**: [deep-review-2026-04-27-tacit-integration-void](/reviews/deep-review-2026-04-27-tacit-integration-void/)
+
+## 2026-04-27 13:27 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/)
+- **Word count**: 2716 → 2716 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (inconsistent wikilink style: `[...](/concepts/epiphenomenalism/)` normalised to bare basename)
+- **Enhancements made**: 0 (article has converged after 3 reviews; no expansion warranted)
+- **Output**: [deep-review-2026-04-27-consciousness-and-neurodegenerative-disease](/reviews/deep-review-2026-04-27-consciousness-and-neurodegenerative-disease/)
+
+## 2026-04-27 13:12 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-construction-void](/voids/predictive-construction-void/)
+- **Word count**: 2384 → 2414 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing reverse cross-link to interoceptive-void; LLM-cliché construction in double-veil paragraph)
+- **Enhancements made**: 3 (inline cross-link, Further Reading entry, cliché-removal tightening)
+- **Output**: [deep-review-2026-04-27-predictive-construction-void](/reviews/deep-review-2026-04-27-predictive-construction-void/)
+
+## 2026-04-27 13:05 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Interoceptive Void
+- **Output**: [interoceptive-void](/voids/interoceptive-void/)
+- **Word count**: 1994
+- **Based on research**: yes — [voids-interoceptive-void-2026-04-27](/research/voids-interoceptive-void-2026-04-27/)
+
+## 2026-04-27 12:55 UTC - tune-system
+- **Status**: Success (advisory-only — 31st consecutive report unable to apply Tier 1 changes due to absent infrastructure)
+- **Sessions analyzed**: 144 (sessions 6275 → 6419, ~82h period)
+- **Findings**: 5 cadence (writeback gap on 3 cycle-trigger tasks confirmed systematic across 3 periods; tune-system 9× faster than spec; validate-all 94 days stale), 0 failure (17th consecutive zero-failure period, 150/150 success), 2 queue (P2 thinned 5→2 from chain discharge; P3 grew 422→454 at ~9.4/day), 4 review (zero-warning tenet check streak extends to 6; LLM-cliché hunting continues; HTML log marker self-removal pattern recurs; NEW — apex re-synthesis silent regression detected on identity-across-transformations), 3 convergence (voids tightened to 97/100, 3 slots; concepts +4; apex 22/20 inconsistency unchanged)
+- **Tier 1 changes**: 0 applied (structural blocker — no `cadences`, `tune_system_history`, or `locked_settings` sections in evolution-state.yaml; 31st consecutive report)
+- **Tier 2 recommendations**: 10 logged (2 NEW: auto-remove HTML refinement-log markers; investigate apex re-synthesis regression path)
+- **Output**: [system-tune-2026-04-27](/reviews/system-tune-2026-04-27/)
+
+## 2026-04-27 12:43 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/)
+- **Changed sources**: 11 (all sources changed since 2026-03-30 last synthesis)
+- **Word count**: 3743 → 3949
+- **Review**: [apex-evolve-2026-04-27-what-consciousness-tells-us-about-physics](/reviews/apex-evolve-2026-04-27-what-consciousness-tells-us-about-physics/)
+- **Key changes**: Added Denton et al. (2024) cryptochrome result as first biological precedent for the quantum Zeno mechanism; sharpened the indexical thesis with the metaphysical-vs-epistemic distinction and Wallace SLU rebuttal; added Buhler (2020) and updated Saad citation to 2025 *Philosophical Studies*; added Heisenberg-style minimality/opacity coupling for the amplification void; condensed the closing claims/undermines structure.
+
+## 2026-04-27 12:38 UTC - check-tenets
+- **Status**: Success (1 note, no errors or warnings)
+- **Files checked**: 28 (delta sweep against 2026-04-26 18:33 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (`topics/free-will.md` — wikilink alias `[substance dualism](/tenets/#dualism)` misrepresents the tenet's neutrality between substance and property dualism; substantive position is defensible, presentation overreaches)
+- **Output**: [tenet-check-2026-04-27](/reviews/tenet-check-2026-04-27/)
+
+## 2026-04-27 12:33 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Interoceptive Void
+- **Category**: Mixed (primarily Unexplorable, with Occluded and Unexplored faces)
+- **Output**: [voids-interoceptive-void-2026-04-27](/research/voids-interoceptive-void-2026-04-27/)
+- **Key finding**: The body's interior is structurally opaque to the consciousness it carries — most visceral signal never reaches awareness, the subset that does is summarised and partly constructed via predictive inference, and the empirical asymmetry between fine-grained exteroception and coarse-grained interoception specifies what dualism predicts: even the body is *other* to the mind that has it.
+
+## 2026-04-27 12:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/) (+ reciprocal edits in [erasure-void](/voids/erasure-void/))
+- **Source task**: optimistic-2026-04-27b (Medium Priority) — install load-bearing cross-references between agency-void §Self-Stultification Symmetry and erasure-void's monitor-coincidence diagnosis
+- **Changes**:
+  - Added `[erasure-void](/voids/erasure-void/)` to agency-void's `related_articles` and Further Reading; inserted one cross-reference paragraph in §Self-Stultification Symmetry naming erasure-void as the *clinical sister case* (anosognosia, terminal lucidity reversal, deliriform states as concrete instances of monitor-failure where instrument and object are the same).
+  - Added `[agency-void](/voids/agency-void/)` to erasure-void's `related_articles` and Further Reading; inserted one cross-reference paragraph at the end of the Anosognosia section naming agency-void's verification-circularity as the structural generalisation of erasure's monitor-coincidence to the consciousness-causation question.
+  - Updated `ai_modified` on both articles to 2026-04-27T12:28:00+00:00.
+- **Tenet alignment**: Bidirectional Interaction (verification failure as the structural reason a non-physical interface remains hidden); Dualism (clinical sister case strengthens the case that introspective opacity is structural rather than a contingent neuroscience finding).
+- **Voice/scope preservation**: ~140 words added across two insertion points; no other edits to body, references, or argument structure.
+- **Published**: yes
+
+## 2026-04-27 12:13 UTC - deep-review
+- **Status**: Success
+- **File**: [identity-across-transformations](/apex/identity-across-transformations/)
+- **Word count**: 3776 → 3812 (+36; 95% of 4000 apex soft target)
+- **Critical issues addressed**: 1 (Mashour reference mismatch — body cites 2023 BJA Open three-states paper but references list cited the unrelated 2024 Neuron paper; corrected and added the 2024 paper as a separate entry)
+- **Medium issues addressed**: 2 (Pinto et al. 2017 citation added inline for split-brain findings; restored process-haecceitism cross-link via `[haecceity](/concepts/haecceity/#process-haecceitism)` anchor — the originally-linked standalone article was archived/coalesced and the link was lost in the 2026-04-17 re-synthesis)
+- **Enhancements made**: 1 (added two missing references — Mashour 2023 BJA Open, Pinto et al. 2017)
+- **Attribution checks**: Mashour three-states taxonomy now correctly attributed; Pinto et al., Miller et al., Bodien et al., Nagel verified. No misattributions, dropped qualifiers, or source/Map conflation in body.
+- **Stability**: Third review at convergence; article core arguments stable since 2026-03-12. Caveat noted in archive: re-synthesis silently regressed two prior fixes; future re-syntheses should consult latest deep-review enhancements before regenerating.
+- **Output**: [deep-review-2026-04-27-identity-across-transformations](/reviews/deep-review-2026-04-27-identity-across-transformations/)
 
 ## 2026-04-27 11:43 UTC - deep-review
 - **Status**: Success (stability confirmation)

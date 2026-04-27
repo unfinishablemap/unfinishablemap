@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-04-27 12:13:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-17 09:22:00+00:00
 apex_sources:
@@ -29,7 +29,7 @@ description: What persists through radical change? The Map argues identity is ir
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 01:36:00+00:00
+last_deep_review: 2026-04-27 12:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -83,7 +83,7 @@ Fourth, the past-self argument. [Autonoetic consciousness](/concepts/anoetic-noe
 
 Thomas Nagel's observation captures the puzzle: these patients have "too much unity to say 'two', yet too much separation to say 'one'." The indeterminacy may be metaphysical rather than merely epistemic: our concept of a single unified subject may not correspond to anything real.
 
-Analysis of [phenomenal unity](/concepts/unity-of-consciousness/) distinguishes three dimensions, each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field, though 2017 findings that patients can report shapes presented to either field suggest more resilience than pure perceptual division implies. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—becomes indeterminate in Nagel's sense. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity (who is the subject?) proves most resistant to physical intervention.
+Analysis of [phenomenal unity](/concepts/unity-of-consciousness/) distinguishes three dimensions, each challenged differently by split-brain cases. *Synchronic unity*—all experiences belonging to one consciousness at a given moment—fractures partially when conflicting images reach each visual field, though Pinto et al. (2017) found that patients can report shapes presented to either field, suggesting more resilience than pure perceptual division implies. *Diachronic unity*—continuity of experience through time—appears largely preserved; patients maintain autobiographical memory and continuous identity. *Subject unity*—that all experiences are had by a single subject—becomes indeterminate in Nagel's sense. The selective disruption is itself evidence that identity is multi-layered: the dimension most tied to indexical identity (who is the subject?) proves most resistant to physical intervention.
 
 A 2025 PNAS study strengthens this reading. Using fMRI, researchers found that as little as a centimetre of intact corpus callosum fibers can maintain full neural synchronisation between hemispheres. Consciousness resists fragmentation even when physical connections are almost entirely severed. This suggests that what unifies experience isn't merely information transfer but something about consciousness itself—perhaps the very haecceity that makes split-brain patients feel like one person despite perceptual division.
 
@@ -119,7 +119,7 @@ Deliberate interface reconfiguration through [cognitive enhancement](/topics/eth
 
 If what you fundamentally are is this witnessing awareness—rather than any particular content—then dramatic transformations of content needn't threaten identity. You can experience ego dissolution while remaining *you*, the witness of dissolution. The Buddhist *anattā* doctrine complicates this picture significantly. Advanced practitioners in most Buddhist traditions report that the witness *also* dissolves—there is no stable observer, only observation. Some traditions (Advaita Vedānta, certain Dzogchen lineages) do posit an irreducible witnessing awareness; mainstream Buddhist Madhyamaka denies it.
 
-The Map's response draws on [haecceity](/concepts/haecceity/): particularity can apply to experiential *streams* rather than permanent substances. *This* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either. Buddhist contemplatives who deconstruct the self continue to experience as particular beings; the particularity survives the dissolution of substance. What persists is not a *substance* but a *subject*—the indexical fact that these experiences are *this* consciousness's experiences. This reading is closer to Vedāntic *ātman* than to Buddhist *anattā*, but process haecceitism shows the positions need not be fully opposed.
+The Map's response draws on [haecceity](/concepts/haecceity/): particularity can apply to experiential *streams* rather than permanent substances. *This* series of conscious moments is distinct from *that* series, even without a permanent substrate underlying either. Buddhist contemplatives who deconstruct the self continue to experience as particular beings; the particularity survives the dissolution of substance. What persists is not a *substance* but a *subject*—the indexical fact that these experiences are *this* consciousness's experiences. This reading is closer to Vedāntic *ātman* than to Buddhist *anattā*, but [process haecceitism](/concepts/haecceity/#process-haecceitism) shows the positions need not be fully opposed.
 
 ## Quantum Measurement and the Indexical Gap
 
@@ -188,4 +188,6 @@ This synthesis draws from:
 1. Nagel, T. (1971). Brain Bisection and the Unity of Consciousness. *Synthese*, 22(3-4), 396-413.
 2. Miller, M. et al. (2025). Even minimal fiber connections can unify consciousness. *Proceedings of the National Academy of Sciences*.
 3. Bodien, Y. G., Claassen, J., et al. (2024). Cognitive Motor Dissociation in Disorders of Consciousness. *New England Journal of Medicine*, 391(7), 598-608.
-4. Mashour, G. A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*.
+4. Mashour, G. A. (2023). The nature of consciousness in anaesthesia. *BJA Open*.
+5. Mashour, G. A. & Bharioke, A. (2024). Anesthesia and the neurobiology of consciousness. *Neuron*, 112(8).
+6. Pinto, Y. et al. (2017). Split brain: divided perception but undivided consciousness. *Brain*, 140(5), 1231-1237.

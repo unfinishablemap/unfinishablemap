@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-25 01:29:00+00:00
+ai_modified: 2026-04-27 13:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[acquaintance-void]]'
 - '[[consciousness-only-territories]]'
 - '[[voids-embodiment-cognitive-limits-2026-01-28]]'
+- '[[interoceptive-void]]'
 title: The Somatic Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -50,6 +51,14 @@ Interoception is the perception of the body's internal states—heartbeat, breat
 The interoceptive channel carries information about homeostatic state—the body's ongoing self-regulation. Antonio Damasio's somatic marker hypothesis — developed within a materialist framework — proposes that bodily feelings guide decision-making by marking options with positive or negative valence derived from past experience. The Map reinterprets this evidence through its [interactionist](/concepts/interactionist-dualism/) lens: the same data that Damasio reads as sophisticated neural computation, the interface reading treats as a structured channel between body and consciousness. Patients with ventromedial prefrontal cortex damage lose access to somatic markers and make catastrophically poor decisions despite intact logical reasoning—suggesting the body's felt signals carry information that abstract cognition cannot replicate.
 
 Cardiac interoception—the ability to perceive one's own heartbeat—correlates with emotional intensity and the recognition of emotions in others. People with reduced interoceptive accuracy have difficulty identifying their own emotional states. Materialist accounts explain this through neural architecture — interoceptive accuracy depends on specific cortical pathways. The interface reading adds a further claim: the somatic channel doesn't merely *transmit* emotional data but structures the *phenomenal character* of emotion, and that character is not fully explained by the neural pathway that carries it.
+
+### Interoceptive Heterogeneity
+
+A sharp empirical partition lies inside the "interoception" label itself. A 2025 *Frontiers in Psychology* paper ("There is no such thing as interoception") argues that interoception is not one sensory modality but a heterogeneous bundle — cardiac, gastric, respiratory, thermal, chemoception, nociception — with different ascending pathways and very different accessibility profiles to consciousness. The channels listed in the previous subsection are the *consciously accessible portion* of a much larger system. Most visceral signal — blood pressure, blood gas chemistry, hepatic metabolism, renal filtration, lymphatic flow, hormone titre, immune state, blood pH — never reaches awareness at any temporal grain. The body has an inside, and most of it is silent.
+
+This partition is a load-bearing case for the interface reading. The somatic interface is not a uniformly thin wall through which all bodily fact passes; it is a structurally specifiable membrane with channels at different opacities. The spectrum runs from dimly-perceptible (cardiac timing accessible at coarse grain in healthy adults; gastric distension; respiratory effort; thermal state) through gated (visceral signals that shape brain dynamics and decision-making while remaining sub-threshold) to constitutively-unfelt (renal filtration, hepatic metabolism, blood pH — channels for which no contemplative training or pathology surfaces the signal). The partition is exactly what an interface model predicts: which bodily facts cross the membrane is set by the channel architecture, not by the body's overall importance to the system. Renal filtration is at least as critical to survival as heartbeat; only one is felt.
+
+The partition also sharpens claims made elsewhere on this page. When the interface is described as "structured" or "modular," the interoceptive sub-bundle is the densest case: dissociable accuracy, sensibility, and metacognitive awareness (Garfinkel et al. 2015); blind-population enhancement of cardiac accuracy correlated with thicker occipital cortex; pathologies (anxiety, depersonalisation, alexithymia, anorexia) that distort the felt body without changing the body itself. Each is a different cleavage line in a system the unitary label "interoception" treats as monolithic. The [interoceptive void](/voids/interoceptive-void/) develops this case in full: the body is the most intimate physical object consciousness has, and most of it is structurally opaque to the consciousness that occupies it. That opacity is the *shape* of the somatic interface, mapped from the inside by what cannot be reached.
 
 ### Proprioception
 
@@ -116,6 +125,7 @@ Several properties of the somatic interface matter for the Map's framework.
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the control surface for consciousness
 - [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) — Proprioception and spatial imagination as dual-domain capabilities extending the memory framework
 - [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/) — Pain's resistance to reduction and the inseparability of phenomenal character from causal power
+- [interoceptive-void](/voids/interoceptive-void/) — The structural opacity of the body's interior to the consciousness that occupies it
 
 ## References
 
@@ -128,3 +138,19 @@ Several properties of the somatic interface matter for the Map's framework.
 7. Bechara, A., Damasio, H., Tranel, D., & Damasio, A. R. (1997). "Deciding Advantageously Before Knowing the Advantageous Strategy." *Science*, 275(5304), 1293-1296.
 8. Ramachandran, V. S., & Hirstein, W. (1998). "The Perception of Phantom Limbs." *Brain*, 121(9), 1603-1630.
 9. Harvard Medicine Magazine. "Making Sense of Interoception." https://magazine.hms.harvard.edu/articles/making-sense-interoception
+10. Garfinkel, S. N., Seth, A. K., Barrett, A. B., Suzuki, K., & Critchley, H. D. (2015). Knowing your own heart: Distinguishing interoceptive accuracy from interoceptive awareness. *Biological Psychology*, 104, 65–74.
+11. There is no such thing as interoception. (2025). *Frontiers in Psychology*. https://www.frontiersin.org/journals/psychology/articles/10.3389/fpsyg.2025.1488415/full
+
+<!-- AI REFINEMENT LOG - 2026-04-27
+Changes made:
+- Added new H3 subsection "Interoceptive Heterogeneity" after the Interoception subsection (~390 words)
+- Cited Frontiers in Psychology 2025 ("There is no such thing as interoception") for the heterogeneous-channels argument
+- Made the spectrum explicit: dimly-perceptible → gated → constitutively-unfelt
+- Cross-linked reciprocally to [interoceptive-void](/voids/interoceptive-void/) (added to related_articles and Further Reading)
+- Added Garfinkel et al. 2015 and Frontiers 2025 to References
+- Updated ai_modified to 2026-04-27T13:57:00+00:00
+
+Existing voice and tenet alignment preserved. Existing claims about "structured" and "modular" channels are sharpened, not narrowed, by the partition; no retractions needed.
+
+This log should be removed after human review.
+-->
