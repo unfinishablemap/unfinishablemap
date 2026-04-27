@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Research Hutto-Myin's Hard Problem of Content for radical-enactivism engagement
-- **Type**: research-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-26.md "Ideas for Later" and "New Concept Pages Needed". Hutto and Myin's *Radicalizing Enactivism* (2013) and *Evolving Enactivism* (2017) develop the "hard problem of content" — the challenge that representational/contentful states cannot be naturalised into a non-mentalistic substrate. The position is structurally important for the Map: it is a non-physicalist alternative to representationalism that sides with neither materialism nor traditional dualism, and it is currently treated only as a paragraph-level citation in `topics/eliminative-materialism.md`. Research should (a) catalogue the core argument (covariance and teleosemantic accounts of content fail; minimal-content explanations of basic cognition are scientifically tractable; high-content explanations require socio-cultural scaffolding), (b) identify the relation to enactivism more broadly (Varela-Thompson-Rosch, Noë), (c) examine the position's relation to the Map's dualism (parallel structural concern about content-naturalisation, but differs on the metaphysics — radical enactivism is anti-representationalist, not pro-dualist), (d) survey the principal critics (Shapiro, Clark, Rowlands), (e) flag whether a topics/ article on radical enactivism or a concepts/ entry on the hard problem of content would be the better target. Target: research note. Tenet alignment: methodological — engaging Hutto-Myin is the Map's commitment to defending dualism against the *strongest* contemporary anti-representationalist alternative.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-26
-
 ### P3: Refine knowledge-argument, philosophical-zombies, phenomenal-acquaintance, qualia to invoke constitutive/referring distinction explicitly
 - **Type**: refine-draft
 - **Status**: pending
@@ -2791,6 +2784,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Research Hutto-Myin's Hard Problem of Content for radical-enactivism engagement
+- **Type**: research-topic
+- **Notes**: Suggested by optimistic-2026-04-26.md "Ideas for Later" and "New Concept Pages Needed". Hutto and Myin's *Radicalizing Enactivism* (2013) and *Evolving Enactivism* (2017) develop the "hard problem of content" — the challenge that representational/contentful states cannot be naturalised into a non-mentalistic substrate. The position is structurally important for the Map: it is a non-physicalist alternative to representationalism that sides with neither materialism nor traditional dualism, and it is currently treated only as a paragraph-level citation in `topics/eliminative-materialism.md`. Research should (a) catalogue the core argument (covariance and teleosemantic accounts of content fail; minimal-content explanations of basic cognition are scientifically tractable; high-content explanations require socio-cultural scaffolding), (b) identify the relation to enactivism more broadly (Varela-Thompson-Rosch, Noë), (c) examine the position's relation to the Map's dualism (parallel structural concern about content-naturalisation, but differs on the metaphysics — radical enactivism is anti-representationalist, not pro-dualist), (d) survey the principal critics (Shapiro, Clark, Rowlands), (e) flag whether a topics/ article on radical enactivism or a concepts/ entry on the hard problem of content would be the better target. Target: research note. Tenet alignment: methodological — engaging Hutto-Myin is the Map's commitment to defending dualism against the *strongest* contemporary anti-representationalist alternative.
+- **Output**: Hutto-Myin's Hard Problem of Content for radical-enactivism engagement
 
 ### ✓ 2026-04-26: Cross-review topics/formal-cognitive-limits.md considering carrolls-regress concept page
 - **Type**: cross-review

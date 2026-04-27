@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 23:54:00+00:00
+ai_modified: 2026-04-27 00:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 00:07 UTC - research-topic
+- **Status**: Success
+- **Topic**: Hutto-Myin's Hard Problem of Content for radical-enactivism engagement
+- **Output**: [[hutto-myin-hard-problem-of-content-2026-04-27]]
+- **Sources consulted**: 15 (NDPR reviews of *Radicalizing Enactivism* and *Evolving Enactivism*; Mann & Pain 2021 teleosemantic reply; Shani 2020 "Befuddling the Mind"; Kirchhoff & Hutto "Never Mind the Gap"; Kiverstein & Rietveld on skilled intentionality; Ash & Welshon and Pantsar on subitization/numerical cognition; SEP on eliminative materialism; IEP on enactivism; primary Hutto-Myin texts 2013, 2017)
+- **Recommendation**: target `concepts/hard-problem-of-content.md` (negative-argument structural-ally angle); HPC is currently scattered across three existing files without dedicated treatment
 
 ## 2026-04-26 23:54 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
