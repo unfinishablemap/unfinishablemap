@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-27 19:57:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-22 13:36:00+00:00
 apex_sources:
@@ -36,7 +36,7 @@ description: 'What consciousness-first philosophy means for daily life. The Map 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-12 01:30:00+00:00
+last_deep_review: 2026-04-27 19:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -72,7 +72,7 @@ The Map's framework is not merely about what you are but about what you do. The 
 
 [Free will](/topics/free-will/), on this picture, operates through [agent causation](/concepts/agent-causation/). You—as a conscious being, not as a collection of prior causes—originate actions. Genuine choice requires [counterfactual reasoning](/concepts/counterfactual-reasoning/)—the capacity to imagine alternatives and evaluate what would follow from each. And consciousness doesn't merely select among brain-generated options but *generates* possibilities through imagination, constituting the very space of alternatives. Each exploratory movement of attention opens further possibilities that didn't exist before the exploration. You are an author, not a spectator—contributing both which options become actual and which options exist to begin with.
 
-This transforms how choices feel. The [phenomenology of willing](/concepts/phenomenology-of-choice-and-volition/) reveals a structured process—initiation, sustained control, effort, and veto—each with distinct neural signatures that dissociate in clinical populations. The hesitation before a difficult decision, the felt strain of holding attention on a difficult option, the resolution when you commit: these track genuine causal engagement, not decorative afterthoughts. [Existentialist philosophy](/concepts/nihilism-and-existentialism/) captures the deeper structure: Sartre's "condemned to be free" describes the fact that consciousness is always able to take a stance toward its situation. The pour-soi's constitutive self-distance means you can never simply *be* your circumstances—you are always already beyond them, able to choose.
+This transforms how choices feel. The [phenomenology of willing](/concepts/phenomenology-of-choice-and-volition/) reveals a structured process—initiation, sustained control, effort, and veto—each with its own experiential character, and clinical dissociations between agency and ownership confirm the structure tracks real causal differences rather than being blanket confabulation. The hesitation before a difficult decision, the felt strain of holding attention on a difficult option, the resolution when you commit: these track genuine causal engagement, not decorative afterthoughts. [Existentialist philosophy](/concepts/nihilism-and-existentialism/) captures the deeper structure: Sartre's "condemned to be free" describes the fact that consciousness is always able to take a stance toward its situation. The pour-soi's constitutive self-distance means you can never simply *be* your circumstances—you are always already beyond them, able to choose.
 
 Our capacity for imagining alternatives has [architectural limits](/voids/counterfactual-void/)—we mutate nearby features of actuality rather than freely surveying the full space of possibility. This constrains but does not undermine freedom. Agent causation requires evaluating *nearby* alternatives sufficient for practical deliberation, not scanning an unlimited modal horizon. The constraint is what the Map predicts: consciousness accesses alternatives relevant to action through a narrow causal interface.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-27 18:27:00+00:00
+ai_modified: 2026-04-27 19:45:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -47,6 +47,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[imagination-and-creativity-void]]'
 - '[[three-kinds-of-void]]'
+- '[[conjunction-coalesce]]'
 title: The Transit Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -65,7 +66,7 @@ This void is primarily **occluded** within the Map's [voids](/voids/) framework,
 
 The void manifests as **state transitions** — waking to sleep, anger to calm, focus to distraction — and as **act onsets** — the moment a decision begins, an intention forms, attention reorients. The paradigm transition is falling asleep: to observe sleep onset you must maintain the reflective attention characteristic of waking, but maintaining that attention *is* what it means to remain awake. Maeda's phenomenology identifies the paradox: the "tension of consciousness" must loosen from higher to lower degrees, yet this loosening cannot itself be conscious. The paradigm onset is Libet's (1983) finding that neural readiness potentials begin ~550ms before action while conscious awareness of intention appears only ~200ms before movement. The void runs deeper than any timing discrepancy: consciousness cannot precede itself to observe itself beginning.
 
-An onset is a transition from not-acting to acting; a transition is the onset of a new state. Both require the witnessing consciousness to occupy a position — before, outside, above — it cannot occupy relative to its own activity.
+An onset is a transition from not-acting to acting; a transition is the onset of a new state. Both require the witnessing consciousness to occupy a position — before, outside, above — it cannot occupy relative to its own activity. This two-face structure—state transitions and act onsets sharing a single architectural impossibility—is the in-flight-access instance of the discipline articulated in [the conjunction-coalesce](/apex/conjunction-coalesce/): the joint claim (consciousness cannot witness any of its own crossings) is stronger than either face alone, and dissolving the seam into a single mechanism would lose the analytical purchase the conjunction provides.
 
 ## The Incompatibility Generalises
 

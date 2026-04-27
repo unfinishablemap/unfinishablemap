@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 20:18:00+00:00
+ai_modified: 2026-04-27 20:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 20:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/von-neumann-wigner-interpretation]]
+- **Trigger**: Pessimistic review 2026-04-27d (2 high + 4 medium + 1 low)
+- **Changes**:
+  - Added "Decoherence pressure" subsection under Standard Objections engaging Tegmark (2000) timescale calculation (HIGH issue 1)
+  - Added two paragraphs to "Relation to Site Perspective" flagging Map's actual position as objective-collapse-plus-modulation, weaker than V-N-W's headline (HIGH issue 2)
+  - Rewrote Frauchiger–Renner citation to acknowledge F–R pressures rather than supports V-N-W (MED issue 3)
+  - Softened self-stultification claim from "avoids" to "engages" with pointer to standard physicalist rebuttal (MED issue 4)
+  - Replaced "first rigorous proposal" opening with London-Bauer-1939-aware "most influential lineage" phrasing (LOW issue 5); added London-Bauer to references
+  - Expanded Wigner's retreat from one sentence to substantive paragraph naming both pressures (solipsism, multi-observer specification); recast lineage as "Wigner identified the right problem space" not "Wigner was right" (MED issue 6)
+  - Replaced rhetorical "within vs outside physics" claim with argued treatment of location-vs-amount in Minimal Quantum Interaction (MED issue 7)
+  - References extended with Tegmark (2000) and London-Bauer (1939)
+- **Output**: [[reviews/pessimistic-2026-04-27d]] addressed; voice and argument structure preserved
+- **Published**: yes (draft: false unchanged)
 
 ## 2026-04-27 20:18 UTC - pessimistic-review
 - **Status**: Success

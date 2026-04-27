@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-04-27 19:45:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -51,6 +51,7 @@ related_articles:
 - '[[necessary-opacity]]'
 - '[[consciousness-defeats-explanation]]'
 - '[[commensurability-void]]'
+- '[[conjunction-coalesce]]'
 title: The Voids Between Minds
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -69,7 +70,7 @@ These voids may reflect structural features of consciousness itself. The [voids 
 | Epistemological—about access | Relational—about what happens *in* the meeting | Phenomenological—about the structure of experience |
 | Addressed by inference (analogy, abduction) | Accessed only through participation | Not addressed by inference—the question is ontological |
 
-The three are siblings, not synonyms. Even granting that other minds exist, the encounter still delivers what no inference can; even granting that encounter delivers something irreducible, the question of whether two streams of experience can co-exist as one remains open.
+The three are siblings, not synonyms. Even granting that other minds exist, the encounter still delivers what no inference can; even granting that encounter delivers something irreducible, the question of whether two streams of experience can co-exist as one remains open. The merger of the three originally separate articles into this one is itself a methodological move synthesised in [the conjunction-coalesce](/apex/conjunction-coalesce/): a three-way conjunction whose joint claim—that each gap is irreducible to the others—could not be made by any single face alone.
 
 ## The Asymmetry That Founds the Voids
 

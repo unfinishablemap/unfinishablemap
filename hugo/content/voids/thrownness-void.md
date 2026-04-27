@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-04-27 07:29:00+00:00
+ai_modified: 2026-04-27 19:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[biological-cognitive-closure]]'
 - '[[framework-void]]'
+- '[[conjunction-coalesce]]'
 title: The Thrownness Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -108,6 +109,7 @@ The thrownness void gains its sharpest edge under the Map's [dualist framework](
 - [The Initiation Void](/voids/transit-void/) — Why consciousness cannot witness the onset of mental acts
 - [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of cognitive limits
+- [The Conjunction-Coalesce](/apex/conjunction-coalesce/) — Where this article appears as a candidate within a temporal-mode cluster of self-witnessing failures
 
 ## References
 

@@ -1,13 +1,46 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 19:27:00+00:00
+ai_modified: 2026-04-27 20:18:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-27 20:18 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) (last pessimistic review 2026-04-17, then deep-reviewed 2026-04-27 17:42 UTC)
+- **Critical issues found**: 2 high (decoherence-timescale objection unaddressed; hybrid-theory dilution of headline thesis unflagged), 4 medium (Frauchiger–Renner citation reversed; self-stultification rebuttal unaddressed; Wigner's retreat treated as footnote; "within physics vs outside physics" distinction rhetorical), 1 low (London–Bauer 1939 historical overclaim)
+- **Output**: [pessimistic-2026-04-27d](/reviews/pessimistic-2026-04-27d/)
+
+## 2026-04-27 19:57 UTC - deep-review
+- **Status**: Success
+- **File**: [living-with-the-map](/apex/living-with-the-map/)
+- **Word count**: 3040 → 3046 (+6)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (phenomenology-of-willing claim tightened to match source attribution)
+- **Enhancements made**: 1 (accuracy clarification on neural signature/clinical dissociation claim)
+- **Output**: [deep-review-2026-04-27-living-with-the-map](/reviews/deep-review-2026-04-27-living-with-the-map/)
+- **Convergence note**: Third review with no critical issues found. Quantum hedging preserved through the 2026-03-22 resynthesis. Article is in stable, mature state.
+
+## 2026-04-27 19:45 UTC - refine-draft
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/) (apex-network refinement; targets were the seven source voids)
+- **Trigger**: New apex article 2026-04-27 lacked inbound links from its source voids
+- **Files modified**:
+  - [agency-void](/voids/agency-void/) — frontmatter `[conjunction-coalesce](/apex/conjunction-coalesce/)` + integrative paragraph in "Two Limits, One Void" framing the article as the cleanest case
+  - [voids-between-minds](/voids/voids-between-minds/) — frontmatter entry + integrative sentence at end of "Three Voids, Three Questions" framing the merger as a three-way conjunction
+  - [erasure-void](/voids/erasure-void/) — frontmatter entry + integrative sentence at end of "Clinical Anchor" framing the article as the article-creation-time case
+  - [transit-void](/voids/transit-void/) — frontmatter entry + integrative paragraph in "Two Faces of the Same Void" framing the article as the in-flight-access exemplar
+  - [thrownness-void](/voids/thrownness-void/) — frontmatter entry + Further Reading pointer (cluster candidate)
+  - [temporal-void](/voids/temporal-void/) — frontmatter entry + Further Reading pointer (cluster candidate)
+  - [apophatic-cartography](/voids/apophatic-cartography/) — frontmatter entry + integrative paragraph in "Integration, Illusionism, and Example" framing the article as the methodological precursor; Further Reading pointer
+- **Reverse-reference verification**: Spot-checked apex's quoted excerpts and structural claims against current source-article state — all still resolve. Pre-existing minor inaccuracy in apex (Husserl retention-protention claim for thrownness-void) noted but out of scope
+- **Voice preserved**: All seven source articles retain their existing voice and tenet alignment; additions are localised, brief, and methodologically framed
+- **Word count**: ~250 words added across seven articles (within scope target)
+- **Published**: yes (drafts remain draft: false where they were)
 
 ## 2026-04-27 19:27 UTC - deep-review
 - **Status**: Success (stability)

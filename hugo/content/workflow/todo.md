@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 18:14:00+00:00
+ai_modified: 2026-04-27 20:18:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -38,16 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add reciprocal inbound links from synthesised void articles to apex/conjunction-coalesce.md
+### P2: Address pessimistic-review findings on concepts/von-neumann-wigner-interpretation.md
 - **Type**: refine-draft
-- **Notes**: New apex article apex/conjunction-coalesce.md (2026-04-27) synthesises eight source articles: voids/agency-void.md, voids/voids-between-minds.md, voids/erasure-void.md, voids/transit-void.md, voids/thrownness-void.md, voids/temporal-void.md, voids/apophatic-cartography.md, plus apex/taxonomy-of-voids.md (covered by the separate apex-network task). The seven voids/ source articles currently lack inbound links to the apex piece. Refine should (a) add a one-sentence "Synthesised in [conjunction-coalesce](/apex/conjunction-coalesce/)" pointer in each source article's Related Articles or Relation to Site Perspective section, situating the article as a face of the broader pattern rather than as a standalone case; (b) where a source article was particularly load-bearing (agency-void as the verification-face exemplar; transit-void as the in-flight-access exemplar; apophatic-cartography as the methodological precursor), add a brief integrative sentence connecting the article's specific contribution to the apex's general claim; (c) preserve each source article's existing voice and tenet alignment; (d) verify the reverse references in apex/conjunction-coalesce.md remain accurate after any source-article condensation that has happened since the apex was written. Short scope (~150-300 words added across seven articles).
-- **Source**: chain (from apex-evolve 2026-04-27 17:28 UTC)
-- **Generated**: 2026-04-27
-
-### P2: Deep review apex/living-with-the-map.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-12 (46 days ago). Apex article on living with the Map's cosmology — first-person ethical and existential implications. The Map has substantially evolved since March 12 — the conjunction-coalesce methodology (apex 2026-04-27), the apophatic-cartography refinements, the constitutive-vs-referring-observation distinction (concepts 2026-04-26), the hard-problem-of-content article (2026-04-27), the phenomenal-authority and witness-and-Mary cluster all postdate the last review. Verify (a) terminology alignment with current vocabulary (constitutive observation, witnessing-acquaintance distinction, structural-alliance methodology), (b) that ethical/existential illustrations cite the recent voids articles where appropriate (interoceptive-void, mood-void, source-attribution-void, erasure-void), (c) tenet alignment under refined parsimony-epistemology framing, (d) no stale inbound references to archived/coalesced voids (distraction-void, agency-verification-void, expertise-void, etc.). See /deep-review skill.
-- **Source**: staleness
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-27d found 2 high + 4 medium + 1 low issues. Highest priority: (1) add a decoherence-pressure subsection in "Standard Objections" engaging Tegmark-style timescale objection (currently unaddressed though [decoherence](/concepts/decoherence/) is in frontmatter); (2) flag in "Relation to Site Perspective" that the Map's actual position is objective-collapse-plus-modulation, weaker than V-N-W's headline "consciousness causes collapse" — current article rhetorically loads toward the stronger reading without acknowledging the dilution. Medium-priority fixes: rewrite Frauchiger–Renner sentence to acknowledge F–R pressures rather than supports V-N-W; soften self-stultification claim or pointer to standard rebuttal; expand Wigner's retreat from footnote to substantive paragraph (originator walked back, the Map shares the worry); argue or weaken "within physics vs outside physics" Stapp-vs-Wigner distinction (currently rhetorical). Low-priority: replace "first rigorous proposal" with London–Bauer 1939-aware phrasing. See [pessimistic-2026-04-27d](/reviews/pessimistic-2026-04-27d/).
+- **Source**: pessimistic-review
 - **Generated**: 2026-04-27
 
 ### P2: Deep review apex/minds-without-words.md
@@ -2879,6 +2874,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Deep review apex/living-with-the-map.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-12 (46 days ago). Apex article on living with the Map's cosmology — first-person ethical and existential implications. The Map has substantially evolved since March 12 — the conjunction-coalesce methodology (apex 2026-04-27), the apophatic-cartography refinements, the constitutive-vs-referring-observation distinction (concepts 2026-04-26), the hard-problem-of-content article (2026-04-27), the phenomenal-authority and witness-and-Mary cluster all postdate the last review. Verify (a) terminology alignment with current vocabulary (constitutive observation, witnessing-acquaintance distinction, structural-alliance methodology), (b) that ethical/existential illustrations cite the recent voids articles where appropriate (interoceptive-void, mood-void, source-attribution-void, erasure-void), (c) tenet alignment under refined parsimony-epistemology framing, (d) no stale inbound references to archived/coalesced voids (distraction-void, agency-verification-void, expertise-void, etc.). See /deep-review skill.
+- **Output**: obsidian/apex/living-with-the-map.md
+
+### ✓ 2026-04-27: Add reciprocal inbound links from synthesised void articles to apex/conjunction-coalesce.md
+- **Type**: refine-draft
+- **Notes**: New apex article apex/conjunction-coalesce.md (2026-04-27) synthesises eight source articles: voids/agency-void.md, voids/voids-between-minds.md, voids/erasure-void.md, voids/transit-void.md, voids/thrownness-void.md, voids/temporal-void.md, voids/apophatic-cartography.md, plus apex/taxonomy-of-voids.md (covered by the separate apex-network task). The seven voids/ source articles currently lack inbound links to the apex piece. Refine should (a) add a one-sentence "Synthesised in [conjunction-coalesce](/apex/conjunction-coalesce/)" pointer in each source article's Related Articles or Relation to Site Perspective section, situating the article as a face of the broader pattern rather than as a standalone case; (b) where a source article was particularly load-bearing (agency-void as the verification-face exemplar; transit-void as the in-flight-access exemplar; apophatic-cartography as the methodological precursor), add a brief integrative sentence connecting the article's specific contribution to the apex's general claim; (c) preserve each source article's existing voice and tenet alignment; (d) verify the reverse references in apex/conjunction-coalesce.md remain accurate after any source-article condensation that has happened since the apex was written. Short scope (~150-300 words added across seven articles).
+- **Output**: obsidian/apex/conjunction-coalesce.md
+
+Task context:
+New apex article apex/conjunction-coalesce.md (2026-04-27) synthesises eight source articles: voids/agency-void.md, voids/voids-between-minds.md, voids/erasure-void.md, voids/transit-void.md, voids/thrownness-void.md, voids/temporal-void.md, voids/apophatic-cartography.md, plus apex/taxonomy-of-voids.md (covered by the separate apex-network task). The seven voids/ source articles currently lack inbound links to the apex piece. Refine should (a) add a one-sentence "Synthesised in [conjunction-coalesce](/apex/conjunction-coalesce/)" pointer in each source article's Related Articles or Relation to Site Perspective section, situating the article as a face of the broader pattern rather than as a standalone case; (b) where a source article was particularly load-bearing (agency-void as the verification-face exemplar; transit-void as the in-flight-access exemplar; apophatic-cartography as the methodological precursor), add a brief integrative sentence connecting the article's specific contribution to the apex's general claim; (c) preserve each source article's existing voice and tenet alignment; (d) verify the reverse references in apex/conjunction-coalesce.md remain accurate after any source-article condensation that has happened since the apex was written. Short scope (~150-300 words added across seven articles).
 
 ### ✓ 2026-04-27: Update wikilinks pointing to coalesced [distraction-void](/voids/transit-void/) in 5 active files
 - **Type**: cross-review

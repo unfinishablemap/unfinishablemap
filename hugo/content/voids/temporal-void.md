@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-24 20:29:00+00:00
+ai_modified: 2026-04-27 19:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -50,6 +50,7 @@ related_articles:
 - '[[topics/free-will]]'
 - '[[concepts/functionalism]]'
 - '[[collapse-and-time]]'
+- '[[conjunction-coalesce]]'
 title: The Temporal Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -166,6 +167,7 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 - [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for engaging with what exceeds articulation
+- [The Conjunction-Coalesce](/apex/conjunction-coalesce/) — Where this article appears as a candidate within a temporal-mode cluster of self-witnessing failures
 
 ## References
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-27 16:12:00+00:00
+ai_modified: 2026-04-27 19:45:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -35,6 +35,7 @@ related_articles:
 - '[[appetitive-void]]'
 - '[[affective-void]]'
 - '[[erasure-void]]'
+- '[[conjunction-coalesce]]'
 - '[[inference-void]]'
 - '[[tacit-integration-void]]'
 - '[[self-maintained-cognitive-limits]]'
@@ -60,6 +61,8 @@ Under the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) 
 ## Two Limits, One Void
 
 The two limits interact. Wide control without self-verification would still be agentive. Narrow control with reliable self-verification would yield a precisely mappable limit. The void lies in their conjunction: without self-verification, consciousness cannot tell whether the involuntariness it meets is *of its agency* (a faculty it has but cannot exercise here) or *of its absence of agency* (a faculty it lacks). The distinction that would normally let a subject map its own boundary is unavailable, so the involuntary domain is uncharted from inside.
+
+This two-face structure is the cleanest case of the editorial discipline articulated in [the conjunction-coalesce](/apex/conjunction-coalesce/): a merger that keeps the seam visible because the seam itself is the analytical claim. The agency void is not two adjacent limits awkwardly housed together but a single void whose informativeness lies in the conjunction—and the synthesising apex piece treats it as the exemplar.
 
 ## What Cannot Be Controlled
 
