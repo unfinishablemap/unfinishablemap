@@ -1,12 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 01:29:00+00:00
+ai_modified: 2026-04-27 01:48:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 01:48 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Tacit Integration Void
+- **Output**: [tacit-integration-void](/voids/tacit-integration-void/)
+- **Word count**: 1995
+- **Based on research**: yes — [voids-tacit-integration-void-2026-04-27](/research/voids-tacit-integration-void-2026-04-27/)
+- **Positioning**: Distinct from sibling voids — [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) (irreversible skill transformation), [attention-and-consciousness](/voids/attention-and-consciousness/) (figure–ground), [binding-void](/voids/binding-void/) (qualia unification). This article isolates Polanyi's from-to bearing relation as the structural core, with Gendlin's felt sense, Husserl's horizon, Heidegger's clearing, and James's fringe as convergent independent witnesses
+- **Source-attribution discipline**: Polanyi, Gendlin, Husserl, Heidegger, and James given separate exposition with verbatim short quotes (≤25 words); Map integration kept in dedicated section; "Honest Limitation" section flags contested status of Polanyi's destructive-analysis claim and the speculative AI-comparison
+
 ---
 
 ## 2026-04-27 01:29 UTC - deep-review
