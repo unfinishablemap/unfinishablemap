@@ -65,13 +65,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
-### P2: Condense voids/tacit-integration-void.md (3031 words, 152% of voids hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word voids hard threshold (3031 words, 152% of 2000-word voids target). The article was created 2026-04-27 at 2150 words, then refined the same day to 2789 words to address pessimistic-review findings (falsifier specification, Gestalt empirical check, dual-task counterargument, Gurwitsch development). Subsequent additions have brought it slightly over the hard threshold. Preserve the article's load-bearing structure: the from-to thesis, the Honest Limitation falsifier paragraph, the sibling-distinction paragraph (L41), the four convergent-voice section, the empirical cross-tradition checks, and the trained-meditator and transformer-attention counterargument subsections. Removable redundancy is most likely in (a) repeated re-establishment of Polanyi's central claim across multiple sub-sections, (b) overlapping treatments of Husserl/Heidegger/James/Gendlin/Gurwitsch where one or two could be tightened to a citation, (c) the "Honest Limitation" section's hedging language which can be tightened without losing the falsifier. Target: 2400-2700 words (back within the soft-warning band). Defer detailed sub-arguments to linked articles where possible (e.g., expertise-and-its-occlusion for skill cases, carrolls-regress for inference cases). See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-27
-
 ### P3: Refine knowledge-argument, philosophical-zombies, phenomenal-acquaintance, qualia to invoke constitutive/referring distinction explicitly
 - **Type**: refine-draft
 - **Status**: pending
@@ -2819,6 +2812,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Condense voids/tacit-integration-void.md (3031 words, 152% of voids hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word voids hard threshold (3031 words, 152% of 2000-word voids target). The article was created 2026-04-27 at 2150 words, then refined the same day to 2789 words to address pessimistic-review findings (falsifier specification, Gestalt empirical check, dual-task counterargument, Gurwitsch development). Subsequent additions have brought it slightly over the hard threshold. Preserve the article's load-bearing structure: the from-to thesis, the Honest Limitation falsifier paragraph, the sibling-distinction paragraph (L41), the four convergent-voice section, the empirical cross-tradition checks, and the trained-meditator and transformer-attention counterargument subsections. Removable redundancy is most likely in (a) repeated re-establishment of Polanyi's central claim across multiple sub-sections, (b) overlapping treatments of Husserl/Heidegger/James/Gendlin/Gurwitsch where one or two could be tightened to a citation, (c) the "Honest Limitation" section's hedging language which can be tightened without losing the falsifier. Target: 2400-2700 words (back within the soft-warning band). Defer detailed sub-arguments to linked articles where possible (e.g., expertise-and-its-occlusion for skill cases, carrolls-regress for inference cases). See `/condense` skill.
+- **Output**: obsidian/voids/tacit-integration-void.md
 
 ### ✓ 2026-04-27: Cross-review concepts/carrolls-regress.md considering tacit-integration-void insights
 - **Type**: cross-review

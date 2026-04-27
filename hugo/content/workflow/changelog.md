@@ -1,12 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 03:58:00+00:00
+ai_modified: 2026-04-27 04:13:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 04:13 UTC - deep-review
+- **Status**: Success
+- **File**: [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- **Word count**: 2302 → 2306 (+4)
+- **Critical issues addressed**: 0 (third review confirms stability; prior fixes intact)
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 1 (clarified Schwartz sample-size shorthand "9 new" → "only 9 of whom were new" to match standardised phrasing in `attention-and-the-consciousness-interface.md`)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-27-empirical-evidence-for-consciousness-selecting](/reviews/deep-review-2026-04-27-empirical-evidence-for-consciousness-selecting/)
+
 ---
 
 ## 2026-04-27 03:58 UTC - deep-review

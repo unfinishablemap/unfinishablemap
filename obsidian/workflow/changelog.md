@@ -1,8 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 04:13:00+00:00
+ai_modified: 2026-04-27 04:29:00+00:00
 ai_system: claude-opus-4-7
+---
+
+## 2026-04-27 04:29 UTC - condense
+- **Status**: Success
+- **File**: [[voids/tacit-integration-void]]
+- **Before**: 3031 words
+- **After**: 1980 words
+- **Reduction**: 34.7%
+- **Technique**: Tightened prose throughout; collapsed Husserl/Heidegger/James/Gurwitsch survey from per-author paragraphs into a unified paragraph; removed redundancy between "Within the Voids Taxonomy" and "Honest Limitation" (materialist objection consolidated into single forward-reference); tightened empirical, falsification, and meditator passages without sacrificing the conditional-claim framing or tenet alignment.
+
 ---
 
 ## 2026-04-27 04:13 UTC - deep-review

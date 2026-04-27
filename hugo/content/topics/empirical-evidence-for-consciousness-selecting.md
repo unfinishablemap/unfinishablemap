@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-04-23 06:38:00+00:00
+ai_modified: 2026-04-27 04:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Multiple independent empirical lines—evolutionary, cognitive, neu
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 00:43:00+00:00
+last_deep_review: 2026-04-27 04:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -75,7 +75,7 @@ Clinical and neurosurgical evidence separates conscious selection from automatic
 
 **Supplementary motor area evidence.** Sjöberg (2024) reports that patients with the supplementary motor area (SMA) resected retain the subjective sense of willing—reporting maximal effort to move—while losing voluntary movement execution. Automatic movements (walking, reading aloud) remain intact. If consciousness were identical to the neural machinery of movement initiation, removing that machinery should eliminate the experience of willing. It does not. The experience and the mechanism come apart.
 
-**OCD and directed attention.** Schwartz et al. (1996) found that patients who learn to cognitively reframe intrusive thoughts showed decreased caudate nucleus activity on PET imaging. The study was small (18 participants, 9 new) and has not been independently replicated, but the finding is suggestive: whatever performs the reframing has physical consequences. The directed attention that produces these changes has the phenomenology of effort—patients report that the cognitive reframing is difficult, requiring sustained concentration against compelling urges. Mainstream neuroscience explains the findings via Hebbian learning without requiring non-physical causation.
+**OCD and directed attention.** Schwartz et al. (1996) found that patients who learn to cognitively reframe intrusive thoughts showed decreased caudate nucleus activity on PET imaging. The study was small (18 participants, only 9 of whom were new) and has not been independently replicated, but the finding is suggestive: whatever performs the reframing has physical consequences. The directed attention that produces these changes has the phenomenology of effort—patients report that the cognitive reframing is difficult, requiring sustained concentration against compelling urges. Mainstream neuroscience explains the findings via Hebbian learning without requiring non-physical causation.
 
 **Willed versus automatic attention.** Rajan et al. (2019) identified distinct neural signatures—frontal theta oscillations and bidirectional fronto-parietal coherence—present during willed attention but absent during instructed or automatic attention. These signatures appear approximately 300ms into the attentional process, matching the motor commitment timescale (Thura & Cisek, 2014). Willed processing leaves a neural footprint that automatic processing does not.
 
