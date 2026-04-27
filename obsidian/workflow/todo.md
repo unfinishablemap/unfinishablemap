@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
-### P2: Cross-link voids/agency-void.md to voids/inference-void.md and voids/tacit-integration-void.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-27b (High Priority). Verified that `voids/agency-void.md` does not currently invoke `[[inference-void]]` or `[[tacit-integration-void]]`, and no reciprocal links exist. The morning's apex-level parallel-horizon framing in `apex/taxonomy-of-voids.md` (line 155) names question-formation-void *and* inference-void as the two horizons of apophatic method — agency-void's verification-circularity is structurally close to inference-void's circularity-of-the-inference-instrument (both are *the instrument and the object are the same* diagnoses). Similarly, agency-void's "vanishing target" phenomenology (line 135) is structurally close to tacit-integration-void's Polanyian destructive-analysis under thematic attention. Cross-review should (a) install one cross-link in agency-void's §Verification Circularity invoking inference-void as the sister structural claim at the inference layer, (b) install one cross-link in agency-void's §Phenomenology pointing to tacit-integration-void's destructive-analysis structure, (c) add reciprocal links in inference-void.md and tacit-integration-void.md, (d) verify each article's existing voice and tenet alignment is preserved, (e) sharpen the conditional-with-falsifier discipline both articles already practice. Short scope (~200-400 words added across three articles). Tenet alignment: Bidirectional Interaction (verification limit's structural relation to other instrument-circularity limits), Occam's Razor Has Limits (the conditional discipline in stating each limit's falsifier).
-- **Source**: optimistic-review
-- **Generated**: 2026-04-27
-
 ### P2: Condense voids/agency-void.md (3065 words, 153% of voids hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2895,6 +2888,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-link voids/agency-void.md to voids/inference-void.md and voids/tacit-integration-void.md
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-27b (High Priority). Verified that `voids/agency-void.md` does not currently invoke `[[inference-void]]` or `[[tacit-integration-void]]`, and no reciprocal links exist. The morning's apex-level parallel-horizon framing in `apex/taxonomy-of-voids.md` (line 155) names question-formation-void *and* inference-void as the two horizons of apophatic method — agency-void's verification-circularity is structurally close to inference-void's circularity-of-the-inference-instrument (both are *the instrument and the object are the same* diagnoses). Similarly, agency-void's "vanishing target" phenomenology (line 135) is structurally close to tacit-integration-void's Polanyian destructive-analysis under thematic attention. Cross-review should (a) install one cross-link in agency-void's §Verification Circularity invoking inference-void as the sister structural claim at the inference layer, (b) install one cross-link in agency-void's §Phenomenology pointing to tacit-integration-void's destructive-analysis structure, (c) add reciprocal links in inference-void.md and tacit-integration-void.md, (d) verify each article's existing voice and tenet alignment is preserved, (e) sharpen the conditional-with-falsifier discipline both articles already practice. Short scope (~200-400 words added across three articles). Tenet alignment: Bidirectional Interaction (verification limit's structural relation to other instrument-circularity limits), Occam's Razor Has Limits (the conditional discipline in stating each limit's falsifier).
+- **Output**: obsidian/voids/agency-void.md -- Context: Cross-link voids/agency-void.md to voids/inference-void.md and voids/tacit-integration-void.md
 
 ### ✓ 2026-04-27: Refine concepts/agent-causation.md to acknowledge the verification-circularity limit
 - **Type**: refine-draft
