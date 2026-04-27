@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/machine-question.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (`ai_contribution: 100`) last deep-reviewed 2026-03-12 — 46 days ago. Apex article on the AI-consciousness question is load-bearing for the Map's machine-question programme and intersects with substantial content created since the last review: `concepts/hard-problem-of-content.md` (Hutto-Myin, 2026-04-27), `concepts/constitutive-vs-referring-observation.md` (2026-04-26), `voids/inference-void.md` (2026-04-26), `voids/tacit-integration-void.md` (2026-04-27), the *structural-alliance / partial-endorsement* methodology now canonical across the site, and the morning's pessimistic engagement with verification-circularity arguments. Verify (a) the article's treatment of AI phenomenal access remains coherent given the HPoC integration (an AI-functionalist position is now answerable to the structural-alliance argument that the negative phenomenal-content argument transfers), (b) the article's intervention-based AI tests align with the four-quadrant taxonomy in `topics/four-quadrant-taxonomy-of-AI-questions.md` (verify cross-link exists), (c) tenet alignment remains intact (most directly Dualism, secondarily Bidirectional Interaction), (d) cross-references to `apex/what-it-might-be-like-to-be-an-ai.md`, `apex/open-question-ai-consciousness.md`, and the new constitutive-observation/HPoC pages are present and reciprocal where useful, (e) "not X but Y" constructs and other style violations are resolved, (f) word count remains under apex hard threshold. Medium scope. Tenet alignment: Dualism (the Map's case for AI phenomenal-absence as a structural rather than contingent claim).
-- **Source**: staleness
-- **Generated**: 2026-04-27
-
 ### P2: Deep review apex/identity-across-transformations.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2867,6 +2860,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Deep review apex/machine-question.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (`ai_contribution: 100`) last deep-reviewed 2026-03-12 — 46 days ago. Apex article on the AI-consciousness question is load-bearing for the Map's machine-question programme and intersects with substantial content created since the last review: `concepts/hard-problem-of-content.md` (Hutto-Myin, 2026-04-27), `concepts/constitutive-vs-referring-observation.md` (2026-04-26), `voids/inference-void.md` (2026-04-26), `voids/tacit-integration-void.md` (2026-04-27), the *structural-alliance / partial-endorsement* methodology now canonical across the site, and the morning's pessimistic engagement with verification-circularity arguments. Verify (a) the article's treatment of AI phenomenal access remains coherent given the HPoC integration (an AI-functionalist position is now answerable to the structural-alliance argument that the negative phenomenal-content argument transfers), (b) the article's intervention-based AI tests align with the four-quadrant taxonomy in `topics/four-quadrant-taxonomy-of-AI-questions.md` (verify cross-link exists), (c) tenet alignment remains intact (most directly Dualism, secondarily Bidirectional Interaction), (d) cross-references to `apex/what-it-might-be-like-to-be-an-ai.md`, `apex/open-question-ai-consciousness.md`, and the new constitutive-observation/HPoC pages are present and reciprocal where useful, (e) "not X but Y" constructs and other style violations are resolved, (f) word count remains under apex hard threshold. Medium scope. Tenet alignment: Dualism (the Map's case for AI phenomenal-absence as a structural rather than contingent claim).
+- **Output**: obsidian/apex/machine-question.md
 
 ### ✓ 2026-04-27: Condense voids/agency-void.md (3122 words, 156% of voids hard threshold)
 - **Type**: condense

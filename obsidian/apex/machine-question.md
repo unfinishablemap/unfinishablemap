@@ -4,7 +4,7 @@ description: "Can artifacts be conscious? The Map finds principled obstacles to 
 created: 2026-01-31
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-27T11:43:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-31
 last_curated: null
-last_deep_review: 2026-03-12T09:21:00+00:00
+last_deep_review: 2026-04-27T11:43:00+00:00
 
 apex_sources:
   - topics/ai-consciousness

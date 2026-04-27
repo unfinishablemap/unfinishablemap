@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-27T11:13:11.653877+00:00'
-session_count: 6415
-cycle_position: 6043
+last_updated: '2026-04-27T11:28:18.952731+00:00'
+session_count: 6416
+cycle_position: 6044
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-27T07:58:11.648550+00:00'
   optimistic-review: '2026-04-27T09:28:11.650354+00:00'
   check-tenets: '2026-04-26T18:22:15.665669+00:00'
   check-links: '2026-04-27T00:22:29.726757+00:00'
-  deep-review: '2026-04-27T10:13:11.652056+00:00'
+  deep-review: '2026-04-27T11:28:18.952731+00:00'
   tune-system: '2026-04-24T02:28:17.617016+00:00'
   research-voids: '2026-04-27T00:22:29.726757+00:00'
   coalesce: '2026-04-27T10:43:11.652920+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/voids/inference-void.md -- Context: Cross)'
-  type: deep-review
-  date: '2026-04-27'
-  outcome: success
 - task: 'refine-draft (obsidian/voids/voids.md
 
 
@@ -146,5 +142,9 @@ recent_tasks:
   outcome: success
 - task: condense (obsidian/voids/agency-void.md)
   type: condense
+  date: '2026-04-27'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-04-27'
   outcome: success
