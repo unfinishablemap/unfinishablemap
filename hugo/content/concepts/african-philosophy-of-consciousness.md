@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-26 04:31:00+00:00
+ai_modified: 2026-04-27 22:35:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: African philosophical traditions treat consciousness as relational 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 12:27:00+00:00
+last_deep_review: 2026-04-27 22:35:00+00:00
 modified: *id001
 related_articles:
 - '[[eastern-philosophy-consciousness]]'
@@ -74,7 +74,7 @@ Placide Tempels' *Bantu Philosophy* (1945), despite its colonial-era limitations
 
 Later African philosophers — particularly Paulin Hountondji and Kwasi Wiredu — criticised Tempels for presenting a monolithic "Bantu philosophy" that flattened genuine intellectual diversity. This criticism is well-founded. There is no single African philosophy of consciousness any more than there is a single European one.
 
-What remains philosophically productive, however, is the widespread pattern across multiple traditions (Bantu, Akan, Yoruba, Igbo, Zulu, and others) of treating consciousness or vital force as ontologically fundamental rather than derivative. This [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) echoes [panpsychist](/concepts/panpsychism/) intuitions in Western philosophy — the sense that mind or proto-mind pervades reality rather than emerging from wholly mindless matter. The difference is that many African traditions maintain clearer boundaries between human consciousness and the vital force present in other entities. Where Western panpsychism struggles with the combination problem — how micro-level proto-experiences combine into unified consciousness — African frameworks typically posit a hierarchy of vital force with qualitative distinctions between levels, rather than treating all consciousness as homogeneous and requiring combination.
+What remains philosophically productive, however, is the widespread pattern across multiple traditions (Bantu, Akan, Yoruba, Igbo, Zulu, and others) of treating consciousness or vital force as ontologically fundamental rather than derivative. This [cross-cultural convergence](/concepts/cross-cultural-convergence-on-mental-causation/) echoes [panpsychist](/concepts/panpsychism/) intuitions in Western philosophy — the sense that mind or proto-mind pervades reality rather than emerging from wholly mindless matter. The difference is that many African traditions maintain clearer boundaries between human consciousness and the vital force present in other entities. Where Western panpsychism struggles with the [combination problem](/concepts/combination-problem/) — how micro-level proto-experiences combine into unified consciousness — African frameworks typically posit a hierarchy of vital force with qualitative distinctions between levels, rather than treating all consciousness as homogeneous and requiring combination.
 
 ## Ancestral Consciousness and Temporal Community
 

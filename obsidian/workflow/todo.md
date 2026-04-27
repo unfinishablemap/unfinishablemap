@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/measurement-problem.md considering V-N-W refinement insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Today's refine-draft of `concepts/von-neumann-wigner-interpretation.md` (2026-04-27 20:29 UTC, against pessimistic-2026-04-27d) reversed the Frauchiger–Renner citation direction from "supports V-N-W" to "F-R puts pressure on V-N-W rather than supporting it" and installed a §Relation to Site Perspective opening explicitly stating "The Map's actual thesis is weaker than V-N-W's headline." `concepts/measurement-problem.md` line 141 cites Frauchiger–Renner correctly but does not yet absorb the *weaker-than-headline disclosure* framing that the V-N-W refine installed. Cross-review should (a) verify that measurement-problem.md's treatment of V-N-W (if any) reflects the dilution from "consciousness causes collapse" to "objective-collapse-plus-modulation"; (b) check that the F-R citation in measurement-problem.md is consistent with V-N-W's reversed reading (pressures V-N-W via Many-Worlds / QBism / RQM trilemma); (c) install a brief §"Wigner-class interpretations" note or refine the existing treatment to point to the V-N-W article's new framing rather than duplicating it; (d) add reciprocal `[[von-neumann-wigner-interpretation]]` if absent in either direction; (e) preserve the article's existing voice and tenet alignment. Short scope (~200-400 words touched). Tenet alignment: Minimal Quantum Interaction primarily; Bidirectional Interaction secondarily.
-- **Source**: chain
-- **Generated**: 2026-04-27
-
 ### P2: Cross-review concepts/decoherence.md and concepts/stapp-quantum-mind.md considering V-N-W decoherence-pressure subsection
 - **Type**: cross-review
 - **Status**: pending
@@ -2909,6 +2902,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review concepts/measurement-problem.md considering V-N-W refinement insights
+- **Type**: cross-review
+- **Notes**: Today's refine-draft of `concepts/von-neumann-wigner-interpretation.md` (2026-04-27 20:29 UTC, against pessimistic-2026-04-27d) reversed the Frauchiger–Renner citation direction from "supports V-N-W" to "F-R puts pressure on V-N-W rather than supporting it" and installed a §Relation to Site Perspective opening explicitly stating "The Map's actual thesis is weaker than V-N-W's headline." `concepts/measurement-problem.md` line 141 cites Frauchiger–Renner correctly but does not yet absorb the *weaker-than-headline disclosure* framing that the V-N-W refine installed. Cross-review should (a) verify that measurement-problem.md's treatment of V-N-W (if any) reflects the dilution from "consciousness causes collapse" to "objective-collapse-plus-modulation"; (b) check that the F-R citation in measurement-problem.md is consistent with V-N-W's reversed reading (pressures V-N-W via Many-Worlds / QBism / RQM trilemma); (c) install a brief §"Wigner-class interpretations" note or refine the existing treatment to point to the V-N-W article's new framing rather than duplicating it; (d) add reciprocal `[[von-neumann-wigner-interpretation]]` if absent in either direction; (e) preserve the article's existing voice and tenet alignment. Short scope (~200-400 words touched). Tenet alignment: Minimal Quantum Interaction primarily; Bidirectional Interaction secondarily.
+- **Output**: obsidian/concepts/measurement-problem.md -- Context: Cross-review concepts/measurement-problem.md considering V-N-W refinement insights
 
 ### ✓ 2026-04-27: Update voids/voids.md and voids/erasure-void.md to reflect 'cognate' framing from conjunction-coalesce.md revision
 - **Type**: refine-draft

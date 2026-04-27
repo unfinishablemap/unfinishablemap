@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 22:12:00+00:00
+ai_modified: 2026-04-27 22:27:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review concepts/measurement-problem.md considering V-N-W refinement insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Today's refine-draft of `concepts/von-neumann-wigner-interpretation.md` (2026-04-27 20:29 UTC, against pessimistic-2026-04-27d) reversed the Frauchiger–Renner citation direction from "supports V-N-W" to "F-R puts pressure on V-N-W rather than supporting it" and installed a §Relation to Site Perspective opening explicitly stating "The Map's actual thesis is weaker than V-N-W's headline." `concepts/measurement-problem.md` line 141 cites Frauchiger–Renner correctly but does not yet absorb the *weaker-than-headline disclosure* framing that the V-N-W refine installed. Cross-review should (a) verify that measurement-problem.md's treatment of V-N-W (if any) reflects the dilution from "consciousness causes collapse" to "objective-collapse-plus-modulation"; (b) check that the F-R citation in measurement-problem.md is consistent with V-N-W's reversed reading (pressures V-N-W via Many-Worlds / QBism / RQM trilemma); (c) install a brief §"Wigner-class interpretations" note or refine the existing treatment to point to the V-N-W article's new framing rather than duplicating it; (d) add reciprocal `[von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)` if absent in either direction; (e) preserve the article's existing voice and tenet alignment. Short scope (~200-400 words touched). Tenet alignment: Minimal Quantum Interaction primarily; Bidirectional Interaction secondarily.
+- **Source**: chain
+- **Generated**: 2026-04-27
+
+### P2: Cross-review concepts/decoherence.md and concepts/stapp-quantum-mind.md considering V-N-W decoherence-pressure subsection
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Today's V-N-W refine installed a major new §Decoherence Pressure subsection (lines 84–85) engaging Tegmark's (2000) timescale calculations (~10⁻¹³ s for microtubules, ~10⁻²⁰ s for ion channels, against ~10⁻³ s cognitive operations and ~10⁻¹ s conscious access) and naming two partial Map responses: (a) interface locality and (b) motor-control quantum zeno. Two articles bear directly on this content: `concepts/decoherence.md` (the canonical decoherence treatment) should now reciprocally cite V-N-W's decoherence-pressure engagement and the falsifier-naming move ("until a candidate substrate, an estimated decoherence time, and a proposed mechanism within that window are specified, the interpretation does not yet engage physics"); `concepts/stapp-quantum-mind.md` is the primary Map reference for motor-control quantum zeno and should now cite V-N-W's framing of Stapp's apparatus as a *partial response that does not settle the timescale question; it constrains where to look*. Cross-review should (a) install reciprocal `[von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)` links in both articles' related_articles and at least one body-prose location each; (b) verify that decoherence.md's treatment of Tegmark's calculation is consistent with the V-N-W article's framing (timescales as falsifier-not-rebuttal); (c) check that stapp-quantum-mind.md does not overstate Stapp's response — the V-N-W treatment is explicit that Stapp's apparatus *constrains* the search space rather than dissolving the timescale problem; (d) preserve each article's existing voice and tenet alignment. Short scope (~300-500 words across both). Tenet alignment: Minimal Quantum Interaction.
+- **Source**: chain
+- **Generated**: 2026-04-27
+
+### P2: Install worked seam-test failure case in apex/conjunction-coalesce.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic-2026-04-27e Issue 2 ("Seam test is unfalsifiable as written") recommended adding at least one of: (a) a worked example where the seam test was applied and *failed cleanly*, demonstrating the test rejects something the editor wanted to merge; (b) an inter-rater check; (c) a quantitative claim. The 21:14 UTC rewrite of `apex/conjunction-coalesce.md` addressed Issues 1, 3, and 4 but only partially addressed Issue 2 — the §"A Cluster Awaiting the Move" section installs tipping conditions for the transit/thrownness/temporal cluster but is a "not yet" deferral rather than a clean *failure-of-the-test* case. Refine should (a) install a §"A Worked Failure" or similar subsection in which a candidate merger that an editor *wanted to perform* was assessed against the seam test and rejected — preferably an actual case from the Map's coalesce history (e.g., a pair the system considered combining but the seam test argued against, or a case where the editor began merging two articles and discovered the conjunction did not pass the test); (b) state the candidate joint claim explicitly, show how the test rejected it, name the structural feature that failed (was it not weight-bearing? thematic-only? reducible to a single mechanism?), and what the editor did instead; (c) if no historical case is available, mark explicitly that the discipline lacks a worked counterexample and treat this as an honest limitation rather than concealing it; (d) preserve the article's voice and the existing §"When the Discipline Fails" framing without duplication. Medium scope (~400-600 words added). Tenet alignment: methodological/Occam's Razor Has Limits.
+- **Source**: chain
+- **Generated**: 2026-04-27
 
 ### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
 - **Type**: apex-evolve
