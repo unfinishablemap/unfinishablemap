@@ -1,10 +1,10 @@
 ---
 title: "The Agency Void"
-description: "Consciousness cannot control most of its own states, and cannot verify whether it causes anything at all—two complementary limits at the heart of conscious agency that compound into a single structural void."
+description: "Consciousness cannot control most of its own states, and cannot verify whether it causes anything at all—two conjoined limits at the heart of conscious agency."
 created: 2026-02-25
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-27T07:04:00+00:00
+ai_modified: 2026-04-27T08:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -46,7 +46,7 @@ coalesced_from:
   - "/voids/agency-verification-void/"
 ---
 
-Conscious agency hits two structural limits at once. The first is *passive*: consciousness cannot control most of what it experiences. You cannot will pain away by direct fiat, prevent perceptions from arriving, choose your moods, or stop being conscious while awake. The second is *skeptical*: consciousness cannot verify whether it causes anything at all. Every tool for checking "did I do that?" is internal to the system whose causal status is in question. The agency void names the territory where these two limits compound—a void that is both lived (you cannot opt out of involuntary experience) and structurally undecidable (you cannot confirm that opting out is even a coherent description of what consciousness might do).
+Conscious agency hits two structural limits at once. The first is *passive*: consciousness cannot control most of what it experiences. You cannot will pain away by direct fiat, prevent perceptions from arriving, choose your moods, or stop being conscious while awake. The second is *skeptical*: consciousness cannot verify whether it causes anything at all. Every tool for checking "did I do that?" is internal to the system whose causal status is in question. The agency void names the territory where these two limits conjoin—a void that is both lived (you cannot opt out of involuntary experience) and structurally undecidable (you cannot confirm that opting out is even a coherent description of what consciousness might do).
 
 Under the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet, this creates a sharp puzzle. If consciousness is non-physical and causally efficacious—capable of biasing quantum outcomes in the brain—why does it lack authority over its own states, and why is the very fact of its causal power unverifiable from inside? The two limits jointly suggest that the consciousness-physics interface is asymmetric and self-concealing: it acts outward in ways consciousness cannot witness, while imposing constraints consciousness cannot escape.
 
@@ -56,7 +56,7 @@ Under the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] 
 
 **Verification failure.** Even granting that some agency exists, there is no procedure internal to consciousness for confirming that the agency is real rather than a compelling attribution. Every check is performed by the very faculty under investigation.
 
-The two limits compound. Wide control without self-verification would still be agentive. Narrow control with reliable self-verification would yield a precisely mappable limit. The void lies in the conjunction: control is narrow *and* its boundaries cannot be cleanly traced from within.
+The two limits conjoin. Wide control without self-verification would still be agentive. Narrow control with reliable self-verification would yield a precisely mappable limit. The void lies in the conjunction: control is narrow *and* its boundaries cannot be cleanly traced from within.
 
 ## What Cannot Be Controlled
 
@@ -84,7 +84,9 @@ The spectrum is structured rather than uniform. Some domains admit influence; ot
 
 ## The Verification Circularity
 
-Set aside *how much* consciousness controls and ask the prior question: does it control *anything*? To verify that consciousness causes something, consciousness must gather evidence. But if consciousness is not causal, the evidence-gathering is itself not something consciousness is doing—it is being done *for* consciousness by physical processes consciousness merely observes. If consciousness *is* causal, the evidence is produced by the very faculty under investigation—tautological rather than informative.
+Set aside *how much* consciousness controls and ask the prior question: does it control *anything*? Two senses of *verify* must be separated. *First-person verification*—consciousness checking its own causal powers from inside—is structurally circular: every check is performed by the very faculty under investigation. *Third-person verification* is a different matter; neuroscience routinely correlates neural states with motor outputs via TMS, anaesthesia titration, anarchic-hand cases, and optogenetic dissociation, and these methods are not circular in the same sense. They face a distinct barrier—the *inverse access problem*: third-person methods correlate brain activity with reported experience and behaviour without isolating the contribution of phenomenal consciousness as such. The void claim is therefore sharper than "verification fails." First-person verification is impossible by structure; third-person verification cannot reach the variable that matters.
+
+The remainder of this section concerns the first-person case. To verify *from within* that consciousness causes something, consciousness must gather evidence. But if consciousness is not causal, the evidence-gathering is itself not something consciousness is doing—it is being done *for* consciousness by physical processes consciousness merely observes. If consciousness *is* causal, the evidence is produced by the very faculty under investigation—tautological rather than informative.
 
 A thermometer can be checked against another thermometer. Consciousness checking its own causal powers has no external reference point.
 
@@ -104,7 +106,7 @@ This symmetry is itself evidence of a genuine void. When opposing positions both
 
 **Exclusion.** Kim's causal exclusion argument holds that if [[causal-closure|causal closure]] obtains, mental causation is either redundant or illusory. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet seeks room at quantum indeterminacies—but how would consciousness verify that its interventions are genuine rather than post-hoc attributions? Verification would require consciousness observing itself biasing quantum outcomes, returning to the circularity problem.
 
-**Attribution.** Wegner (2002) identifies three conditions that produce the sense of agency: priority (thought precedes action), consistency (thought matches action), and exclusivity (no other apparent cause is salient). When met, we *feel* we caused our actions regardless of whether we did. When disrupted—alien hand syndrome, automatisms—we deny authorship. The sense of agency tracks attribution criteria, not causation itself.
+**Attribution.** Wegner (2002) identifies three conditions that produce the sense of agency: priority (thought precedes action), consistency (thought matches action), and exclusivity (no other apparent cause is salient). When met, we *feel* we caused our actions regardless of whether we did. When disrupted—alien hand syndrome, automatisms—we deny authorship. The sense of agency tracks attribution criteria, not causation itself. The Map borrows Wegner's diagnosis of the agency-attribution mechanism while declining his conclusion that the diagnosis dissolves agency itself: under [[tenets#^bidirectional-interaction|Bidirectional Interaction]], a faulty or post-hoc attribution system can coexist with genuine causal influence, so showing that the *feeling* of agency is constructed does not show that agency is fictional.
 
 **Perspective.** Velmans (2020) observes that consciousness appears causally efficacious from the first-person perspective and irrelevant from the third-person perspective. Unlike observer-dependent facts in physics—where perspectives reconcile within a single framework—first-person and third-person verdicts on agency have no shared formalism to adjudicate between them. The question may have no perspective-independent answer.
 

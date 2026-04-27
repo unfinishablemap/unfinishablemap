@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 07:58:00+00:00
+ai_modified: 2026-04-27 08:14:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 08:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Source**: pessimistic-2026-04-27b — addressed two High-severity issues plus the description-frontmatter overclaim; deferred Issue 6 (intervention-based methodologies fifth layer) per task scope.
+- **Changes**:
+  - **Wegner partial-endorsement** (§Four Layers → Attribution): added one-sentence acknowledgement that the Map borrows Wegner's diagnosis of the attribution mechanism while declining his eliminativist conclusion that the diagnosis dissolves agency itself; ties to Bidirectional Interaction.
+  - **Verification equivocation** (§The Verification Circularity, opening): inserted explicit distinction between *first-person verification* (structurally circular) and *third-person verification* (faces the inverse access problem — TMS, anaesthesia titration, anarchic-hand cases, optogenetic dissociation correlate neural states with motor outputs but cannot isolate phenomenal contribution). Sharpens the void claim from "verification fails" to a two-register diagnosis. Original first-person argument retained as second paragraph with "from within" framing.
+  - **Description overclaim** (frontmatter): "compound into a single structural void" → "two conjoined limits at the heart of conscious agency."
+  - **Body language**: two in-body uses of "compound" → "conjoin" (lines 49, 59) per Issue 3 Recommendation (a).
+- **Preserved verbatim**: §Self-Stultification Symmetry, §Spectrum of Control, §Relation to Site Perspective (pessimistic review identified these as the article's strongest passages).
+- **Word count**: 2443 → ~2540 (insertions only; no deletions of substance).
+- **Published**: yes
 
 ## 2026-04-27 07:58 UTC - pessimistic-review
 - **Status**: Success

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 07:58:00+00:00
+ai_modified: 2026-04-27 08:14:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -38,11 +38,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine voids/agency-void.md — fix Wegner citation framing, verification equivocation, and frontmatter overclaim
+### P3: Extend voids/agency-void.md §Four Layers with intervention-based methodologies (deferred Issue 6)
 - **Type**: refine-draft
 - **Status**: pending
-- **Notes**: Suggested by pessimistic-2026-04-27b (two High-severity issues, plus the description-frontmatter overclaim). The coalesced article (2026-04-27) reads cleanly but has three dialectical weaknesses worth fixing in a single short pass. (1) **Wegner framing** (High): the article cites Wegner (2002) for the three agency-attribution conditions in §Four Layers → "Attribution" but does not acknowledge that Wegner's overall conclusion is that conscious will is an *illusion* — the position the Map's Bidirectional Interaction tenet rejects. Add one sentence applying the *structural-alliance / partial-endorsement* methodology already canonical elsewhere on the site (cf. HPoC borrowing Hutto-Myin's negative argument): "The Map borrows Wegner's diagnosis of the agency-attribution mechanism while declining his conclusion that the diagnosis dissolves agency itself." (2) **Verification equivocation** (High): §The Verification Circularity opens with "consciousness checking its own causal powers has no external reference point," which slides between (a) first-person introspective verification (genuinely circular) and (b) verification *tout court* (false — third-person methodologies routinely correlate neural states with motor outputs via TMS, anaesthesia titration, anarchic-hand cases, optogenetic dissociation). Distinguish the two senses explicitly in the opening paragraph; the void claim should be that *first-person verification* is structurally circular while *third-person verification* faces a different problem (the inverse access problem). (3) **Description overclaim** (Medium): the frontmatter `description` reads "compound into a single structural void." Body argument establishes a *conjunction* not a *compound*; the §Sovereignty Paradox section's functional-necessity explanation is a *contingent* hypothesis in tension with the *structural* framing. Revise description to "Consciousness cannot control most of its own states, and cannot verify whether it causes anything at all — two conjoined limits at the heart of conscious agency." Also revise the three in-body uses of "compound" to "conjoin." Short scope (~250-450 words touched, mostly insertions). Do NOT restructure or rewrite the §Self-Stultification Symmetry, §Spectrum of Control, or §Relation to Site Perspective sections — pessimistic review identified these as the article's strongest passages and they should be preserved verbatim. Optional fourth fix (Medium, can defer to follow-up): add a fifth verification-void layer or extend the Timing layer to include intervention-based methodologies (TMS, optogenetic dissociation, Frith on schizophrenic delusions of control, Haggard on intentional binding, Pacherie's three-tier model). Tenet alignment: Bidirectional Interaction, Dualism. See pessimistic-2026-04-27b.md.
-- **Source**: pessimistic-review
+- **Notes**: Deferred from refine-draft 2026-04-27 08:14 UTC (which addressed the two High-severity issues plus the description overclaim from pessimistic-2026-04-27b). Issue 6 (Medium): the §Four Layers of the Verification Void taxonomy (Timing, Exclusion, Attribution, Perspective) omits intervention-based methodologies that are widely discussed in current empirical literature — TMS, optogenetic dissociation in animal models, propofol titration studies, locked-in/anarchic-hand patient work. Add a fifth layer ("Intervention") or extend Timing to incorporate this work. Canonical absent references: Frith on schizophrenic delusions of control, Haggard on intentional binding, Pacherie's three-tier model. The 08:14 UTC refine already added the third-person/first-person distinction in §The Verification Circularity opening — this task supplies the empirical follow-through promised by that distinction. Short scope (~300-500 words added). Tenet alignment: Bidirectional Interaction. See pessimistic-2026-04-27b.md Issue 6.
+- **Source**: pessimistic-review (deferred)
 - **Generated**: 2026-04-27
 
 ### P2: Cross-review apex/consciousness-and-agency.md to install agency-void reference
