@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 14:21:00+00:00
+ai_modified: 2026-04-27 14:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 14:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/interoceptive-void]]
+- **Source review**: [[reviews/pessimistic-2026-04-27c]] (5 issues: 2 HIGH, 2 MEDIUM, 1 LOW-MEDIUM)
+- **Changes**: rewrote §Relation to Site Perspective to address symmetric-prediction problem (Issue 1) — explicit acknowledgement that materialism predicts the same evidence; void's evidential role reframed as locating where the dualism/materialism choice is forced rather than as favouring dualism; added explicit Damasio & Damasio (2023) engagement as the inverse interpretive direction (Issue 2), making the bibliography reference load-bearing; softened "primarily unexplorable" to channel-specific framing (Issue 3); retitled "Three Faces" to "Three Absence-Faces, and an Inverse" with constructed layer described as related-but-distinct (Issue 4); softened universal-negative on contemplative claims (Issue 5); fixed multiple X-not-Y constructions and metaphysically question-begging closing aphorism; softened Bidirectional Interaction tenet-connection to acknowledge the autonomic-reflex evidence is fully explained by active-inference models without a non-physical interface; added materialist/dualist split to Phenomenology of the Edge closing
+- **Word count**: ~1994 → ~2300
+- **Published**: yes
 
 ## 2026-04-27 14:21 UTC - pessimistic-review
 - **Status**: Success

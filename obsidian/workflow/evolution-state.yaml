@@ -1,13 +1,9 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-27T13:57:52.940359+00:00'
-session_count: 6425
-cycle_position: 6053
+last_updated: '2026-04-27T14:12:52.940781+00:00'
+session_count: 6426
+cycle_position: 6054
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
-  pessimistic-review: '2026-04-27T07:58:11.648550+00:00'
+  pessimistic-review: '2026-04-27T14:12:52.940781+00:00'
   optimistic-review: '2026-04-27T09:28:11.650354+00:00'
   check-tenets: '2026-04-27T12:28:18.956955+00:00'
   check-links: '2026-04-27T12:28:18.956955+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-27T11:58:18.955466+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-27T12:28:18.956955+00:00'
-  agentic-social: '2026-04-27T13:42:52.939870+00:00'
+  agentic-social: '2026-04-27T14:28:56.958336+00:00'
 last_git_push: '2026-04-27T11:58:18.955466+00:00'
 last_tweet_date: '2026-04-27'
 content_stats:
@@ -50,23 +46,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 5
-  p3_tasks: 399
-  needs_replenishment: false
-  last_replenishment: '2026-04-27T14:12:00+00:00'
-  replenishment_source_counts:
-    unconsumed_research: 1
-    chain: 1
-    pessimistic_review: 1
-    optimistic_review: 1
 recent_tasks:
-- task: 'deep-review (obsidian/apex/taxonomy-of-voids.md -- Context: Cro)'
-  type: deep-review
-  date: '2026-04-27'
-  outcome: success
 - task: 'deep-review (obsidian/topics/free-will.md -- Context: Cross-rev)'
   type: deep-review
   date: '2026-04-27'
@@ -156,3 +136,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-27'
   outcome: success
+- task: pessimistic-review
+  type: pessimistic-review
+  date: '2026-04-27'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/conceivability-possibility-inference/
+    date: '2026-04-27T14:28:56.958287+00:00'
+    topics:
+    - hard-problem-of-consciousness
