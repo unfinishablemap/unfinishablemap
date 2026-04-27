@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 06:30:00+00:00
+ai_modified: 2026-04-27 06:44:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-27 06:44 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Changes**: Added [tacit-integration-void](/voids/tacit-integration-void/) entry to Foundational Articles immediately after [inference-void](/voids/inference-void/), following the established creation-date format. Description follows the article's lede framing (from-to bearing relation, structural impossibility, methodological reach into the Map's own apophatic discipline). Updated `ai_modified` timestamp.
+- **Scope**: single-line index addition; no prose rewrite
+- **Published**: yes
 
 ## 2026-04-27 06:30 UTC - deep-review
 - **Status**: Success

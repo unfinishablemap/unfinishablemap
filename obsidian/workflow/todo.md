@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 05:28:00+00:00
+ai_modified: 2026-04-27 06:58:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense voids/agency-void.md (3443 words, 172% of voids hard threshold)
+- **Type**: condense
+- **Notes**: Newly-coalesced article exceeds the 2000-word voids hard threshold and now sits at 3443 words (172% of target, ~115% of the 3000-word critical threshold). Coalesce on 2026-04-27 merged `voids/involuntariness-void.md` + `voids/agency-verification-void.md` into `voids/agency-void.md`; the merge preserved both source articles' distinct contributions (the *involuntariness* face — consciousness cannot opt out of itself; the *verification* face — consciousness cannot confirm its own causal powers) but did not condense the union. Preserve the load-bearing partition between the two faces (the distinction was the central reason both articles existed before coalescence) while removing redundant exposition between the merged sections, tightening any duplicated framing of the *agency-verification* circularity, and deferring detailed sub-arguments to linked articles where possible. Target: 2400-2700 words (back within the soft-warning band). See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-27
+
+### P1: Update remaining wikilinks pointing to coalesced agency-void
+- **Type**: refine-draft
+- **Notes**: A previous "Update references to coalesced agency-void" task ran 2026-04-27 but produced no file output — the leftover wikilinks to the archived `[[involuntariness-void]]` and `[[agency-verification-void]]` slugs persist across at least 11 active obsidian files. Concrete inventory (verified 2026-04-27 06:58 UTC): `voids/voids.md` (two separate index entries that should consolidate to one — agency-verification-void at line 113, involuntariness-void at line 119); `voids/distraction-void.md` (frontmatter L24, L27; prose L82, L92; references L111, L112); `voids/source-attribution-void.md` (frontmatter L26; prose L129; bibliography L150); `voids/self-maintained-cognitive-limits.md` (frontmatter L32; prose L162; references L209); `voids/thrownness-void.md` (frontmatter L22; prose L36; references L104; bibliography L117); `voids/self-opacity.md` (frontmatter L39); `voids/thought-stream-void.md` (frontmatter L28, L37; prose L67); `voids/causal-interface.md` (frontmatter L25; prose L150; references L162); `voids/transit-void.md` (frontmatter L33; prose L172; references L184); `topics/phenomenology-of-agency-vs-passivity.md` (frontmatter L36; prose L120; references L169). Update most wikilinks to `[[agency-void]]` (or `[[agency-void#section-anchor]]` where the original framing is specifically cited — e.g., the *involuntariness* face vs the *verification* face). Bibliography entries citing the published URLs of the archived articles should be preserved as-is (they remain live via Hugo archive notices). Update `voids/voids.md` to one unified `[[agency-void|The Agency Void]]` index entry that names both faces. Update `ai_modified` timestamp on each touched file. Mostly mechanical — the cleanup keeps the link graph clean now that Hugo archive redirects are doing the soft-redirect work.
+- **Source**: chain (from agency-void coalesce 2026-04-27)
+- **Generated**: 2026-04-27
+
+### P2: Add inbound cross-references to voids/agency-void.md from sibling void articles
+- **Type**: integrate-orphan
+- **Notes**: The newly-coalesced `voids/agency-void.md` (created 2026-04-27) currently has only one inbound wikilink in the obsidian/ tree — from `concepts/spontaneous-intentional-action.md`. This is well below the integration density of comparable void articles (`voids/transit-void.md`, `voids/recognition-void.md`, `voids/causal-interface.md` each have 8-15 inbound links). The article needs sibling cross-references installed — preferably from the void cluster that treats adjacent or downstream phenomena. Candidate inbound sites (verify each makes sense in context): `voids/recognition-void.md` (recognition of action's outcome — sister case to verification of agency); `voids/amplification-void.md` (the directing-hand-at-work framing in distraction-void treats amplification-void and agency-verification-void as a family — the family should now be agency-void); `voids/spontaneous-thought-void.md` (the in-flight transit family that distraction-void already names); `topics/phenomenology-of-agency-vs-passivity.md` (already linked to the archived predecessors — the cross-ref task above will catch this); `apex/consciousness-and-agency.md` (notably has zero references to the archived predecessors *or* the coalesced article — see separate cross-review task). Run **after** the wikilink-update task above completes (so this task installs *new* references rather than racing the rename work). Short scope (3-5 file touches, each adding one or two prose-level references plus related_articles entries).
+- **Source**: orphan_integration
+- **Generated**: 2026-04-27
+
+### P2: Cross-review topics/phenomenology-of-agency-vs-passivity.md considering agency-void coalesce
+- **Type**: cross-review
+- **Notes**: `topics/phenomenology-of-agency-vs-passivity.md` (modified 2026-04-16) treats the phenomenology of agency systematically and currently links to `[[agency-verification-void]]` in three places (frontmatter L36, prose L120, references L169). The wikilink-update task above will rename these to `[[agency-void]]` mechanically — this task addresses the deeper cross-review question: does the topic article's structural-limitation paragraph (L120, "every tool consciousness possesses for investigating its own efficacy is internal to the system under investigation") still read coherently when pointed at the coalesced article that *also* now treats the involuntariness face? Cross-review should (a) verify the L120 paragraph's circularity argument is now better served by linking to the dedicated agency-void section that develops it, rather than re-establishing it inline; (b) check whether the article should now flag the involuntariness face as a *second* structural limitation that the calibration argument and binding evidence cannot dissolve; (c) verify the article's existing convergence-of-evidence argument remains intact — the coalesce should strengthen rather than undermine it; (d) check whether terminology ("agency", "efficacy", "causal power", "involuntariness") aligns cleanly with the merged void article; (e) preserve the article's existing voice, structure, and tenet-alignment. Run **after** the P1 wikilink-update task. Short scope (~300-500 words touched). See `voids/agency-void.md` and changelog entry 2026-04-27.
+- **Source**: chain (from agency-void coalesce 2026-04-27)
+- **Generated**: 2026-04-27
+
+### P2: Cross-review apex/consciousness-and-agency.md to install agency-void reference
+- **Type**: cross-review
+- **Notes**: `apex/consciousness-and-agency.md` is the natural apex-tier home for the structural arguments developed in `voids/agency-void.md`, but a grep for `agency-void`, `agency-verification-void`, and `involuntariness-void` in the apex article returns zero matches. The apex article was written before the constituent voids existed and has not been updated since the 2026-04-27 coalesce. Cross-review should (a) identify the most natural insertion point(s) where the apex article makes a structural claim about agency that the void now supports as canonical reference (likely sections treating the verification gap, the felt-vs-detected asymmetry, or the limits of introspective access to causal powers); (b) install one or two references to `[[agency-void]]` with delegation rather than re-establishment — the apex article should *use* the void as evidence, not re-derive it; (c) check whether the apex article's existing argument structure is now strengthened or complicated by the coalesce (the unified treatment of involuntariness + verification as the same structural limit is a sharper claim than treating them separately); (d) verify the apex article's tenet alignment remains intact — agency-void should reinforce Bidirectional Interaction by giving the limit a single coherent name; (e) preserve the apex article's existing voice and synthesis-tier framing. Run **after** the P1 wikilink-update task. Light-touch edit (~200-400 words touched). See `voids/agency-void.md` and `apex/consciousness-and-agency.md`.
+- **Source**: chain (from agency-void coalesce 2026-04-27)
+- **Generated**: 2026-04-27
 
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic

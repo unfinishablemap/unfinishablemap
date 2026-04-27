@@ -1,6 +1,10 @@
-last_updated: '2026-04-27T06:28:11.646604+00:00'
-session_count: 6396
-cycle_position: 6024
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-27T06:43:11.647083+00:00'
+session_count: 6397
+cycle_position: 6025
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-27T01:58:11.639270+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-27T05:58:11.645765+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-26T02:28:17.638760+00:00'
-  agentic-social: '2026-04-27T06:44:10.984781+00:00'
+  agentic-social: '2026-04-27T06:43:11.647083+00:00'
 last_git_push: '2026-04-26T21:22:29.723048+00:00'
 last_tweet_date: '2026-04-26'
 content_stats:
@@ -46,11 +50,18 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 2
+  p2_tasks: 4
+  p3_tasks: 451
+  needs_replenishment: false
+  last_replenishment: '2026-04-27T06:58:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    length_analysis: 1
+    orphan_integration: 1
 recent_tasks:
-- task: expand-topic (Write voids article on the Tacit Integration Void)
-  type: expand-topic
-  date: '2026-04-27'
-  outcome: success
 - task: pessimistic-review
   type: pessimistic-review
   date: '2026-04-27'
@@ -138,11 +149,12 @@ recent_tasks:
   type: deep-review
   date: '2026-04-27'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/indexical-knowledge-and-identity/
-    date: '2026-04-27T06:44:10.984763+00:00'
-    topics:
-    - vertiginous-question
-    - personal-identity
-    - hard-problem-of-consciousness
+- task: 'refine-draft (obsidian/voids/voids.md
+
+
+    Task context:
+
+    New void ar)'
+  type: refine-draft
+  date: '2026-04-27'
+  outcome: success
