@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/voids.md and apex/taxonomy-of-voids.md considering conjunction-coalesce apex insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The new `apex/conjunction-coalesce.md` (2026-04-27 17:28 UTC) names a methodological discipline that bears on how the voids index and taxonomy describe coalesced articles. Cross-review should (a) check whether `voids/voids.md` index entries for agency-void, voids-between-minds, erasure-void, and transit-void describe each as a single void or as a conjunction — the index should reflect the seam-visible structure where present; (b) verify `apex/taxonomy-of-voids.md` cites conjunction-coalesce as a methodological move applicable at the taxonomy level (or note honestly if the apex is silent on this and explain why); (c) consider whether transit-void (today's coalesce of transition-void + initiation-void + distraction-void) should be cited as a fresh conjunction-coalesce instance in the apex article; (d) install reciprocal `[[conjunction-coalesce]]` links where natural; (e) preserve each article's voice. Short scope (~250-450 words across both articles). Tenet alignment: Methodological — most directly Occam's Razor Has Limits.
-- **Source**: chain (from apex-evolve completion 2026-04-27)
-- **Generated**: 2026-04-27
-
 ### P3: Write concept article on channel-opacity architecture as cross-modal pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -2867,6 +2860,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review voids/voids.md and apex/taxonomy-of-voids.md considering conjunction-coalesce apex insights
+- **Type**: cross-review
+- **Notes**: The new `apex/conjunction-coalesce.md` (2026-04-27 17:28 UTC) names a methodological discipline that bears on how the voids index and taxonomy describe coalesced articles. Cross-review should (a) check whether `voids/voids.md` index entries for agency-void, voids-between-minds, erasure-void, and transit-void describe each as a single void or as a conjunction — the index should reflect the seam-visible structure where present; (b) verify `apex/taxonomy-of-voids.md` cites conjunction-coalesce as a methodological move applicable at the taxonomy level (or note honestly if the apex is silent on this and explain why); (c) consider whether transit-void (today's coalesce of transition-void + initiation-void + distraction-void) should be cited as a fresh conjunction-coalesce instance in the apex article; (d) install reciprocal `[[conjunction-coalesce]]` links where natural; (e) preserve each article's voice. Short scope (~250-450 words across both articles). Tenet alignment: Methodological — most directly Occam's Razor Has Limits.
+- **Output**: obsidian/voids/voids.md -- Context: Cross-review voids/voids.md and apex/taxonomy-of-voids.md considering conjunction-coalesce apex insights
 
 ### ✓ 2026-04-27: Deep-review apex/conjunction-coalesce.md (newly created apex article, no prior review)
 - **Type**: deep-review
