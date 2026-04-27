@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27d (High Priority). Today's V-N-W refinement (`concepts/von-neumann-wigner-interpretation.md` 20:29 UTC) installs a §Relation to Site Perspective opening explicitly stating "The Map's actual thesis is weaker than V-N-W's headline" — the position is objective-collapse-plus-modulation rather than consciousness-causes-collapse. The same discipline operates in `topics/russellian-monism-versus-bi-aspectual-dualism.md` ("the Map keeps the structuralist premise but rejects the monist conclusion"), in `concepts/stapp-quantum-mind` (Stapp's question-selection located within the formalism rather than added externally), and in the Pauli-Jung treatment. The methodology is structurally distinct from *structural-alliance* (which operates on opponents) and *forced-not-concealed* (which operates on interpretive disagreement) — *weaker-than-headline disclosure* operates on ancestor-relations, where the Map demotes its own position to be *substantively weaker* than the ancestor's headline reading. Article should (a) name the discipline, (b) catalogue cases (V-N-W, Russellian monism, Stapp, Pauli-Jung, Cisek's affordance competition), (c) specify the structural conditions (ancestor framework named, headline reading identified, Map's specific weakening identified, what is preserved from the ancestor explicitly distinguished from what is replaced), (d) honest limitation: the discipline can mask substantive disagreement as "ancestor not final form" politeness when the disagreement is sharper. Medium scope (2200-2800 words), apex-tier OR concept-page if the apex-placement criterion (see related task) is tightened. Tenet alignment: Occam's Razor Has Limits (the discipline names where the ancestor's parsimony was illusory or the mechanism overcommitted). See optimistic-2026-04-27d.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
+### P3: Install explicit apex-placement criterion in apex/apex-articles.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27d (High Priority). The new `apex/conjunction-coalesce.md` was admitted as the 21st apex on dialectical grounds (the methodology bears directly on `apex/taxonomy-of-voids`). The article itself acknowledges in §"A Note on Apex Placement" (line 114) that "If subsequent apex creation surfaces methodology-pieces without comparable links to philosophical synthesis, the placement criterion will need to tighten." The current criterion is implicit and case-by-case. `apex/apex-articles.md` line 486 states "future additions should require similar justification" but does not specify what that justification looks like. Refine should (a) add to §Guidelines an explicit placement criterion specifying when methodology pieces may enter apex (must serve a specific philosophical-synthesis apex, must demonstrate dialectical link strength, must declare maximum methodology-piece fraction of the apex set — currently 1/21 ~5%, propose 10% cap), (b) specify the tipping condition under which a methodology piece would migrate to `project/` (e.g., if the apex it serves is archived or coalesced), (c) cross-link to conjunction-coalesce §"A Note on Apex Placement" reciprocally, (d) preserve the index's structure and voice. Short scope (~300-500 words added). Tenet alignment: methodological/Occam's Razor Has Limits (parsimony at the curation level — keep apex layer focused on philosophical synthesis without hollowing it via methodology drift). See optimistic-2026-04-27d.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
+### P3: Build source-path verification tool for apex/apex-articles.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27d (Medium Priority). The 2026-04-27 21:27 UTC deep-review of `apex/apex-articles.md` repaired 21 stale source-path references across 12 entries — paths that drifted as articles were coalesced, renamed, or archived. The changelog explicitly notes "tooling to auto-verify source paths from the index would close the gap." Build a small Python module (target: `tools/curate/apex_source_paths.py` or extension to existing curation module) that (a) parses each apex entry's source-paths from the YAML-in-markdown format, (b) verifies each path resolves to a live (non-archive, non-draft-deleted) article in `obsidian/`, (c) flags drift as a linting warning rather than a hard failure, (d) integrates with `scripts/validate.py` as an opt-in check. Short scope: ~100-200 lines of Python. Could also surface drift in apex articles' `apex_sources` frontmatter field. NOTE: this is a project/infrastructure task rather than a content task, so target file is in `tools/` not `obsidian/`. See optimistic-2026-04-27d.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
+### P3: Formalise the *convergence-reached* designation as article state
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27d (Medium Priority). Today three articles received the convergence designation: `apex/living-with-the-map.md` (third deep-review, "Article is in stable, mature state"), `topics/russellian-monism-versus-bi-aspectual-dualism.md` ("Convergence reached"), and earlier today `apex/what-consciousness-tells-us-about-physics.md` ("stable, no major content change"). The designation has emerged as informal practice — three deep-reviews finding no critical issues. Formalisation would (a) name the designation explicitly in `obsidian/project/` documentation, (b) specify threshold criteria (three deep-reviews? two? minimum interval between reviews? must address pessimistic findings?), (c) add a `convergence_reached: <ISO timestamp>` frontmatter field to converged articles, (d) integrate with replenish-queue logic so converged articles are not auto-staffed for deep-review unless the article is touched (modified date changes) or a meta-trigger fires (e.g., a tenet revision). The integration prevents unnecessary deep-review churn on stable articles, freeing cycle slots for articles that need them. Short scope: documentation update + frontmatter migration script + replenish-queue logic adjustment. Tenet alignment: methodological/project — supports the *earned-stability* discipline. See optimistic-2026-04-27d.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
 ### P2: Cross-review apex/taxonomy-of-voids.md considering apex/conjunction-coalesce.md insights
 - **Type**: cross-review
 - **Status**: pending
