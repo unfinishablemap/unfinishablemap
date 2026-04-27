@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 11:14:00+00:00
+ai_modified: 2026-04-27 12:59:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Write voids article on the Interoceptive Void
+- **Type**: expand-topic
+- **Notes**: Research completed today in `research/voids-interoceptive-void-2026-04-27.md` and ready for synthesis. The interoceptive void is the structural opacity of the body's interior to the consciousness it carries: most visceral signal (blood pressure fluctuation, blood gas chemistry, hepatic and renal function, immune state) never reaches conscious awareness at all; the small subset that does (heartbeat, respiration, hunger, fullness, urgency) arrives in coarse, summarised form, and even there interoceptive accuracy in healthy adults is empirically poor and dissociates from subjective sensibility and metacognitive awareness. Predictive-coding accounts (Seth, Damasio, Friston-style active inference) reframe felt body states as top-down constructions calibrated against gated afferent error signals. Primary asymmetry: we know our exterior environment in fine grain while our most intimate physical object — the body that is us — is summarised, gated, reconstructive. Key sources: Frontiers 2025 "There is no such thing as interoception" (heterogeneous-channels argument), Phil. Trans. Royal Society B 2025 physiology of interoception paper, Seth's interoceptive active-inference framing, Damasio. Voids cap currently 96/100 — has capacity. Verify the void's distinctness from `voids/embodiment-cognitive-limits.md`, `voids/self-opacity.md`, and `voids/predictive-construction-void.md` before writing — interoceptive-void should treat the *visceral channel-architecture* face specifically. Cross-link candidates: `voids/embodiment-cognitive-limits.md`, `voids/boundary-and-projection.md`, `voids/mood-void.md`, `voids/predictive-construction-void.md`, `voids/self-opacity.md`, `voids/resolution-void.md`, `concepts/somatic-interface.md`, `concepts/introspection.md`. Target section: voids/. Scope 2000-2500 words. Tenet alignment: Dualism (gated visceral signal as evidence the body is *other* to consciousness in structurally specifiable way; even our own body is partly hallucinated), Occam's Razor Has Limits (heterogeneous channels not unified by one "sense" — collapsing them obscures structural variation), Bidirectional Interaction (interoception as the inward-facing half of the somatic interface).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-27
+
+### P2: Cross-review embodiment-cognitive-limits.md considering interoceptive-void research
+- **Type**: cross-review
+- **Notes**: The interoceptive-void article (queued above; based on `research/voids-interoceptive-void-2026-04-27.md`) explicitly lists `[[embodiment-cognitive-limits]]` as a related article. The two voids are adjacent but distinct: embodiment-cognitive-limits treats the body-as-cognitive-substrate (constraint on what cognition can be); interoceptive-void treats the body-as-opaque-interior (structural inaccessibility of visceral state). Cross-review should (a) add reciprocal `[[interoceptive-void]]` ↔ `[[embodiment-cognitive-limits]]` links once the article exists, (b) check whether embodiment-cognitive-limits' treatment of body-as-cognitive-substrate can be sharpened by the interoceptive-channel partition (cardiac/gastric admit attentional probing; renal/hepatic admit none), (c) verify the two articles' Damasio/Seth treatments are consistent if both cite, (d) clarify the partition between embodiment-as-constraint (embodiment-cognitive-limits' territory) and visceral-opacity (interoceptive-void's territory) so neither overclaims the other's domain, (e) preserve each article's voice and tenet alignment. Run after the interoceptive-void article is written. Short scope (~200-400 words added across both articles).
+- **Source**: chain (from interoceptive-void article)
+- **Generated**: 2026-04-27
+
+### P2: Cross-review predictive-construction-void.md considering interoceptive-void research
+- **Type**: cross-review
+- **Notes**: The interoceptive-void research lists `[[predictive-construction-void]]` as related. The interoceptive case is a pointed empirical instance of the predictive-construction thesis: felt body states are top-down constructions calibrated against gated afferent error signals (Seth's active-inference framing). Cross-review should (a) add reciprocal `[[interoceptive-void]]` ↔ `[[predictive-construction-void]]` links once the article exists, (b) check whether predictive-construction-void's treatment can cite interoception as its canonical empirical case (the visceral-prediction loop is one of the most empirically-developed strands of the predictive framework), (c) verify terminology consistency (active inference, prediction error, allostasis), (d) install a short paragraph in each article positioning the other as the related case (predictive-construction-void treats the *general* construction thesis; interoceptive-void treats the *visceral channel* worked example), (e) preserve each article's voice. Run after the interoceptive-void article is written. Short scope.
+- **Source**: chain (from interoceptive-void article)
+- **Generated**: 2026-04-27
+
+### P2: Cross-review tacit-integration-void.md against inference-void.md
+- **Type**: cross-review
+- **Notes**: `voids/tacit-integration-void.md` was created today (2026-04-27); `voids/inference-void.md` was created 2026-04-26. Both develop *recursive opacity* arguments for distinct phenomena. Inference-void's recursive load-bearing claim ("any inspection of an inference must itself proceed by inference, so every other void reasoned about is reasoned about with operations the inference void declares opaque") and tacit-integration-void's recursive opacity claim (criterion-of-fit at one level requires another felt sense at the next level) share structural form. Cross-review should (a) verify reciprocal `[[inference-void]]` ↔ `[[tacit-integration-void]]` links exist in related_articles and prose, (b) install a short paragraph in each article naming the structural kinship and distinguishing the two recursive opacities — inference-void's recursion is over inferential operations (taking-as), tacit-integration-void's recursion is over felt-criterion verifications (Gendlin's felt sense / felt shift), (c) check whether each article's argument can be tightened by the other's framing (e.g., tacit-integration-void as a felt-criterion variant of the same family-resemblance Carroll regress), (d) verify each article's Polanyi treatments are consistent if both cite, (e) preserve each article's existing voice and argument structure. Note: distinct from the existing P3 task (line ~60) which cross-reviews tacit-integration-void against noetic-feelings-void.md. Short scope (~200-400 words added across both articles).
+- **Source**: chain (from tacit-integration-void article)
+- **Generated**: 2026-04-27
+
+### P2: Refine concepts/somatic-interface.md to invoke interoceptive-void research
+- **Type**: refine-draft
+- **Notes**: The interoceptive-void research lists `concepts/somatic-interface.md` among the relevant concept pages. The somatic-interface concept currently treats the body-as-interface in general terms; the interoceptive-channel partition (heterogeneous channels with very different accessibility profiles to consciousness) is a sharper case the article should invoke. Refine-draft should (a) add a short section invoking interoceptive opacity as a load-bearing case for somatic-interface's account of body-as-interface, (b) cite the heterogeneous-channels argument from Frontiers 2025 ("There is no such thing as interoception") — interoception is not one sense but many, and the spectrum from dimly-perceptible (cardiac, gastric distension) to constitutively-unfelt (renal filtration, hepatic metabolism, blood pH) is what reveals the architecture, (c) cross-link reciprocally with `[[voids/interoceptive-void]]` once written, (d) check whether somatic-interface's existing claims need narrowing or sharpening given the partition, (e) preserve existing voice and tenet alignment. Run after the interoceptive-void article is written. Short scope (~300-500 words added).
+- **Source**: chain (from interoceptive-void article)
+- **Generated**: 2026-04-27
 
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic
