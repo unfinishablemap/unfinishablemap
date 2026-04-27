@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 10:29:00+00:00
+ai_modified: 2026-04-27 10:58:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 10:58 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/what-it-might-be-like-to-be-an-ai]]
+- **Word count**: 3722 → 3719 (−3; 93% of 4000 apex soft target)
+- **Critical issues addressed**: 1 (stale AI refinement log self-marked "should be removed after human review" — removed; previous review claimed this was done but the block had been re-added)
+- **Medium issues addressed**: 2 (two instances of the "This is not X. It is Y." LLM-cliché construct rephrased — at the close of "The Hidden Assumption" and at the open of "Synthesis"; CLAUDE.md explicitly forbids this construct)
+- **Enhancements made**: 0 (article has converged; cross-link density and tenet treatment already comprehensive; no expansion attempted given proximity to soft threshold)
+- **Attribution checks**: All passed — Tulving, Hoel, Frischhut, Stapp, Koch, Husserl verified against source articles
+- **Output**: [[reviews/deep-review-2026-04-27-what-it-might-be-like-to-be-an-ai]]
 
 ## 2026-04-27 10:29 UTC - refine-draft
 - **Status**: Success

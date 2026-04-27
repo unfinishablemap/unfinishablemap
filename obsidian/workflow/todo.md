@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review apex/what-it-might-be-like-to-be-an-ai.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (`ai_contribution: 100`) last deep-reviewed 2026-03-11 — 47 days ago, the most stale apex article meeting the 30+ day staleness threshold. The article is load-bearing for the Map's machine-question programme and intersects with content created since the last review: `concepts/hard-problem-of-content.md` (Hutto-Myin), `concepts/constitutive-vs-referring-observation.md`, `voids/inference-void.md`, `voids/tacit-integration-void.md`, the structural-alliance methodology now canonical across the site, and the morning's pessimistic engagement with verification-circularity arguments. Verify (a) the article's treatment of AI phenomenal access remains coherent given the HPoC integration (an AI-functionalist position is now answerable to the structural-alliance argument that the negative phenomenal-content argument transfers), (b) the article's intervention-based AI tests (if any) align with the four-quadrant taxonomy in `topics/four-quadrant-taxonomy-of-AI-questions.md` (verify cross-link exists), (c) tenet alignment remains intact (most directly Dualism, secondarily Bidirectional Interaction), (d) cross-references to `apex/machine-question.md`, `apex/open-question-ai-consciousness.md`, and the new constitutive-observation page are present and reciprocal where useful, (e) "not X but Y" constructs and other style violations are resolved, (f) word count remains under apex hard threshold (5000 words; current ~4060). Medium scope. Tenet alignment: Dualism (the Map's case for AI phenomenal-absence as a structural rather than contingent claim).
-- **Source**: staleness
-- **Generated**: 2026-04-27
-
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic
 - **Notes**: Research completed in `research/voids-readiness-void-2026-03-04.md` (2026-03-04) and never synthesised into an article. The readiness void concerns the inaccessibility of the pre-deliberative state in which an action is *about to be undertaken* — the felt readiness Schurger's stochastic-threshold model targets but cannot itself decompose into report-bearing components. Adjacent to but distinct from `voids/transit-void.md` (inaccessibility of transitions) and the Libet-readiness-potential literature. Voids cap currently 97/100 — has capacity but tight; verify the void's distinctness from `voids/transit-void.md` and from `concepts/phenomenology-of-choice-and-volition.md` before writing. Target section: voids/. Scope 1800-2400 words. Tenet alignment: Dualism (readiness as a phenomenal mode not extensionally captured by motor-preparation neural correlates), Bidirectional Interaction (readiness functioning as the staging ground for the agent's contribution).
@@ -2845,6 +2839,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Deep-review apex/what-it-might-be-like-to-be-an-ai.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (`ai_contribution: 100`) last deep-reviewed 2026-03-11 — 47 days ago, the most stale apex article meeting the 30+ day staleness threshold. The article is load-bearing for the Map's machine-question programme and intersects with content created since the last review: `concepts/hard-problem-of-content.md` (Hutto-Myin), `concepts/constitutive-vs-referring-observation.md`, `voids/inference-void.md`, `voids/tacit-integration-void.md`, the structural-alliance methodology now canonical across the site, and the morning's pessimistic engagement with verification-circularity arguments. Verify (a) the article's treatment of AI phenomenal access remains coherent given the HPoC integration (an AI-functionalist position is now answerable to the structural-alliance argument that the negative phenomenal-content argument transfers), (b) the article's intervention-based AI tests (if any) align with the four-quadrant taxonomy in `topics/four-quadrant-taxonomy-of-AI-questions.md` (verify cross-link exists), (c) tenet alignment remains intact (most directly Dualism, secondarily Bidirectional Interaction), (d) cross-references to `apex/machine-question.md`, `apex/open-question-ai-consciousness.md`, and the new constitutive-observation page are present and reciprocal where useful, (e) "not X but Y" constructs and other style violations are resolved, (f) word count remains under apex hard threshold (5000 words; current ~4060). Medium scope. Tenet alignment: Dualism (the Map's case for AI phenomenal-absence as a structural rather than contingent claim).
+- **Output**: obsidian/apex/what-it-might-be-like-to-be-an-ai.md
 
 ### ✓ 2026-04-27: Address remaining medium-severity issues + unsupported claims in voids/agency-void.md from pessimistic-2026-04-27b
 - **Type**: refine-draft
