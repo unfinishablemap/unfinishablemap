@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 00:58:00+00:00
+ai_modified: 2026-04-27 01:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 01:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/constitutive-vs-referring-observation]]
+- **Word count**: 1838 → 1881 (+43)
+- **Critical issues addressed**: 0 (no critical issues — never-reviewed candidate, well-crafted at first deep pass)
+- **Medium issues addressed**: 2 (missing cross-link to `higher-order-theories`; bedrock-disagreement symmetry under-stated)
+- **Enhancements made**: Honest Limitation now names HOT (Rosenthal) and self-representational (Kriegel) traditions and links to `[[higher-order-theories]]`; added clarifying clause noting the symmetric structure of the bedrock disagreement (each side reads phenomenology as confirming their own structural picture)
+- **Output**: [[reviews/deep-review-2026-04-27-constitutive-vs-referring-observation]]
 
 ## 2026-04-27 00:58 UTC - deep-review
 - **Status**: Success
