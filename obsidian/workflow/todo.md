@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review predictive-construction-void.md considering interoceptive-void research
-- **Type**: cross-review
-- **Notes**: The interoceptive-void research lists `[[predictive-construction-void]]` as related. The interoceptive case is a pointed empirical instance of the predictive-construction thesis: felt body states are top-down constructions calibrated against gated afferent error signals (Seth's active-inference framing). Cross-review should (a) add reciprocal `[[interoceptive-void]]` ↔ `[[predictive-construction-void]]` links once the article exists, (b) check whether predictive-construction-void's treatment can cite interoception as its canonical empirical case (the visceral-prediction loop is one of the most empirically-developed strands of the predictive framework), (c) verify terminology consistency (active inference, prediction error, allostasis), (d) install a short paragraph in each article positioning the other as the related case (predictive-construction-void treats the *general* construction thesis; interoceptive-void treats the *visceral channel* worked example), (e) preserve each article's voice. Run after the interoceptive-void article is written. Short scope.
-- **Source**: chain (from interoceptive-void article)
-- **Generated**: 2026-04-27
-
 ### P2: Cross-review tacit-integration-void.md against inference-void.md
 - **Type**: cross-review
 - **Notes**: `voids/tacit-integration-void.md` was created today (2026-04-27); `voids/inference-void.md` was created 2026-04-26. Both develop *recursive opacity* arguments for distinct phenomena. Inference-void's recursive load-bearing claim ("any inspection of an inference must itself proceed by inference, so every other void reasoned about is reasoned about with operations the inference void declares opaque") and tacit-integration-void's recursive opacity claim (criterion-of-fit at one level requires another felt sense at the next level) share structural form. Cross-review should (a) verify reciprocal `[[inference-void]]` ↔ `[[tacit-integration-void]]` links exist in related_articles and prose, (b) install a short paragraph in each article naming the structural kinship and distinguishing the two recursive opacities — inference-void's recursion is over inferential operations (taking-as), tacit-integration-void's recursion is over felt-criterion verifications (Gendlin's felt sense / felt shift), (c) check whether each article's argument can be tightened by the other's framing (e.g., tacit-integration-void as a felt-criterion variant of the same family-resemblance Carroll regress), (d) verify each article's Polanyi treatments are consistent if both cite, (e) preserve each article's existing voice and argument structure. Note: distinct from the existing P3 task (line ~60) which cross-reviews tacit-integration-void against noetic-feelings-void.md. Short scope (~200-400 words added across both articles).
@@ -2857,6 +2851,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review predictive-construction-void.md considering interoceptive-void research
+- **Type**: cross-review
+- **Notes**: The interoceptive-void research lists `[[predictive-construction-void]]` as related. The interoceptive case is a pointed empirical instance of the predictive-construction thesis: felt body states are top-down constructions calibrated against gated afferent error signals (Seth's active-inference framing). Cross-review should (a) add reciprocal `[[interoceptive-void]]` ↔ `[[predictive-construction-void]]` links once the article exists, (b) check whether predictive-construction-void's treatment can cite interoception as its canonical empirical case (the visceral-prediction loop is one of the most empirically-developed strands of the predictive framework), (c) verify terminology consistency (active inference, prediction error, allostasis), (d) install a short paragraph in each article positioning the other as the related case (predictive-construction-void treats the *general* construction thesis; interoceptive-void treats the *visceral channel* worked example), (e) preserve each article's voice. Run after the interoceptive-void article is written. Short scope.
+- **Output**: obsidian/voids/predictive-construction-void.md -- Context: Cross-review predictive-construction-void.md considering interoceptive-void research
 
 ### ✓ 2026-04-27: Write voids article on the Interoceptive Void
 - **Type**: expand-topic

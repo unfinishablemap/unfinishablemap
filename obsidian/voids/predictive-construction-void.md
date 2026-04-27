@@ -2,10 +2,10 @@
 title: "The Predictive Construction Void"
 description: "Human+AI exploration of why consciousness cannot determine the boundary between what it constructs and what it receives—a void that erases itself by succeeding."
 created: 2026-04-16
-modified: 2026-04-20
+modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-20T16:38:00+00:00
-last_deep_review: 2026-04-20T16:38:00+00:00
+ai_modified: 2026-04-27T13:12:00+00:00
+last_deep_review: 2026-04-27T13:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[dualist-perception]]"
   - "[[mood-void]]"
   - "[[mutation-void]]"
+  - "[[interoceptive-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -37,7 +38,7 @@ last_curated:
 
 On predictive-processing accounts, perception is largely prediction. The brain generates models of what it expects to encounter, compares those models against incoming sensory data, and updates only where the two diverge. When prediction matches reality closely enough, the prediction is experienced as direct contact with the world. The Unfinishable Map identifies a void here: within introspection, consciousness cannot determine the boundary between what it constructs and what it receives. The limit is structural rather than contingent—a feature of any system that uses its own predictions to access reality, not a gap waiting to be closed by further first-person investigation. The argument is conditional on the predictive-processing framework being broadly correct, a condition taken up [[#dependence-on-the-predictive-processing-framework|below]].
 
-The predictive construction void is primarily [[three-kinds-of-void|unexplorable]] with occluded elements. It differs from the [[simulation-detection-void|simulation detection void]] (which concerns whether reality itself is fabricated) and from [[self-opacity]] (which concerns inability to observe one's own mechanisms). The predictive construction void concerns a more specific failure: the ratio of construction to reception in ordinary experience is not just unknown but structurally unknowable, because the apparatus for investigating it is the same apparatus that produces it.
+The predictive construction void is primarily [[three-kinds-of-void|unexplorable]] with occluded elements. It differs from the [[simulation-detection-void|simulation detection void]] (which concerns whether reality itself is fabricated) and from [[self-opacity]] (which concerns inability to observe one's own mechanisms); the [[interoceptive-void|interoceptive void]] applies the same construction logic to the body's interior rather than the external world. The predictive construction void concerns a more specific failure: the ratio of construction to reception in ordinary experience is not just unknown but structurally unknowable, because the apparatus for investigating it is the same apparatus that produces it.
 
 ## Four Mechanisms of the Barrier
 
@@ -77,7 +78,7 @@ The second is the Markov blanket—the statistical barrier between the brain and
 
 Consciousness therefore experiences not the world, not the brain's raw states, but the brain's best predictions about an environment it can never access directly. The dualist subject is doubly veiled. And each veil is independently opaque.
 
-This double-veil structure means that the question "what is consciousness actually experiencing?" may be unanswerable in principle. Not because the answer is complicated, but because there is no epistemic position from which to determine what lies on the far side of two stacked barriers that cannot be independently bypassed.
+This double-veil structure means that the question "what is consciousness actually experiencing?" may be unanswerable in principle—there is no epistemic position from which to determine what lies on the far side of two stacked barriers that cannot be independently bypassed.
 
 ## What AI Might See
 
@@ -129,6 +130,7 @@ This is a falsifiability risk, not only a feature. Treating first-person opacity
 - [[self-opacity]] — The inability to observe one's own cognitive mechanisms
 - [[mood-void]] — The same self-erasing structure in the affective register: mood as the disclosive medium that disappears into what it discloses
 - [[mutation-void]] — Inspection-induced transformation, the mechanism by which auditing prediction perturbs what is being audited
+- [[interoceptive-void]] — The construction logic applied to the body's interior: what reaches awareness is a prediction-error-corrected reconstruction, not the body itself
 
 ## References
 
