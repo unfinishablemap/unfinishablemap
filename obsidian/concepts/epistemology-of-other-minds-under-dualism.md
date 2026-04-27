@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-21T19:25:00+00:00
+last_deep_review: 2026-04-27T16:27:00+00:00
 ---
 
 Dualism transforms the epistemology of other minds. If consciousness is non-physical, then all physical evidence—behaviour, brain scans, verbal reports—is one ontological step removed from the experience it purports to reveal. The [[explanatory-gap|explanatory gap]] applies not just within one person (how do neurons yield experience?) but across persons (how does your behaviour reveal your non-physical experience?). The challenge is structural: [[objectivity-and-consciousness|objective methods]] cannot exhaust subjective reality. Standard epistemological approaches built for a physicalist world require rethinking.
