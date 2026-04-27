@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 22:43:00+00:00
+ai_modified: 2026-04-27 22:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 22:57 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section pressure surveyed**: voids 96/100 (highest, 96%), topics 231/250 (92.4%), concepts 230/250 (92%); searched voids first per the most-pressured-section heuristic, then concepts and topics
+- **Candidate clusters examined and rejected**:
+  - Affective trio (`affective-void` / `valence-void` / `mood-void`): each article explicitly distinguishes itself from the other two — affective concerns the *range* of emotions inaccessible, valence concerns the *structure* of any affect having good/bad character, mood concerns the *atmosphere within which witnessing happens*. The valence-void article opens with an explicit "Distinct from Affective and Mood Voids" section. Mood-void was deep-reviewed earlier today (09:44 UTC).
+  - Consciousness-physics interface trio (`causal-interface` / `amplification-void` / `interface-formalization-void`): each explicitly differentiates itself — causal-interface is the observational face (Libet, Wegner, Nisbett-Wilson), amplification-void is the multi-scale physical chain (quantum biology), interface-formalization-void is the mathematical-language limit (Born rule, Russell). Distinct evidence bases would not survive merger.
+  - Cognitive-process opacity cluster (`recognition-void` / `source-attribution-void` / `inference-void` / `predictive-construction-void`): superficially similar but each anchored to a different empirical literature (agnosias, choice blindness, Carroll/Wittgenstein/Polanyi, predictive processing). `inference-void` was created 2026-04-26 with explicit differentiation from neighbours.
+  - Self-witnessing cluster (`self-opacity` / `witnessing-void` / `transit-void` / `recursion-void`): `witnessing-void` (created 2026-04-24) opens with three "Not the X" subsections distinguishing itself from each neighbour. `transit-void` already coalesced from three predecessors (transition + initiation + distraction).
+  - Concepts pair (`phenomenal-depth` / `phenomenal-non-compositionality`): depth concerns layered richness *within* an experience; non-compositionality concerns the impossibility of *building* an experience from parts. Genuinely orthogonal.
+  - Topics pair (`the-interface-location-problem` / `the-interface-specification-problem`): location-problem itself states (line 172) "The location problem and the specification problem are logically independent." The first asks WHERE in the brain; the second asks WHICH mental variables map to WHICH physical parameters via WHAT transfer function.
+  - AI phenomenology pair (`types-of-ai-phenomenal-experience` / `structural-varieties-of-consciousness-and-ai-phenomenology`): explicitly complementary — types-of asks what kind of thing AI experience would be (six categories: null/simulated/functional/borrowed/epiphenomenal/alien); structural-varieties asks along which dimensions it would vary (five dimensions × five models). Each cross-references the other as prior/downstream questions.
+- **Why abandon**: Today's apex `conjunction-coalesce` (created and refined four times today) formalises the seam-test discipline: merge only when two articles state a *joint* claim stronger than either alone, with a load-bearing seam. Each cluster examined fails this test — the seams are weight-bearing, the joint claim is not stronger, and the existing articles each cite differentiation from neighbours. Forcing a merger today would unwind ongoing curation work (see today's earlier refine-drafts at 22:12 UTC, 21:50 UTC, etc., explicitly aligning content with the conjunction-coalesce discipline).
+- **No content modified**: skill instructions specify abandoning rather than merging when no strong candidates exist after iterated search
 
 ## 2026-04-27 22:43 UTC - deep-review
 - **Status**: Success
