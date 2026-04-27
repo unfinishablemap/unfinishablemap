@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 18:14:00+00:00
+ai_modified: 2026-04-27 20:18:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address pessimistic-review findings on concepts/von-neumann-wigner-interpretation.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic review 2026-04-27d found 2 high + 4 medium + 1 low issues. Highest priority: (1) add a decoherence-pressure subsection in "Standard Objections" engaging Tegmark-style timescale objection (currently unaddressed though [[decoherence]] is in frontmatter); (2) flag in "Relation to Site Perspective" that the Map's actual position is objective-collapse-plus-modulation, weaker than V-N-W's headline "consciousness causes collapse" — current article rhetorically loads toward the stronger reading without acknowledging the dilution. Medium-priority fixes: rewrite Frauchiger–Renner sentence to acknowledge F–R pressures rather than supports V-N-W; soften self-stultification claim or pointer to standard rebuttal; expand Wigner's retreat from footnote to substantive paragraph (originator walked back, the Map shares the worry); argue or weaken "within physics vs outside physics" Stapp-vs-Wigner distinction (currently rhetorical). Low-priority: replace "first rigorous proposal" with London–Bauer 1939-aware phrasing. See [[reviews/pessimistic-2026-04-27d]].
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-27
 
 ### P2: Deep review apex/minds-without-words.md
 - **Type**: deep-review

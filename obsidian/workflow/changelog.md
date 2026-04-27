@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 19:57:00+00:00
+ai_modified: 2026-04-27 20:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 20:18 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/von-neumann-wigner-interpretation]] (last pessimistic review 2026-04-17, then deep-reviewed 2026-04-27 17:42 UTC)
+- **Critical issues found**: 2 high (decoherence-timescale objection unaddressed; hybrid-theory dilution of headline thesis unflagged), 4 medium (Frauchiger–Renner citation reversed; self-stultification rebuttal unaddressed; Wigner's retreat treated as footnote; "within physics vs outside physics" distinction rhetorical), 1 low (London–Bauer 1939 historical overclaim)
+- **Output**: [[reviews/pessimistic-2026-04-27d]]
 
 ## 2026-04-27 19:57 UTC - deep-review
 - **Status**: Success
