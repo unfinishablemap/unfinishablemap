@@ -4,8 +4,8 @@ description: "Neurodegenerative diseases progressively dismantle cognitive facul
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-03T21:38:00+00:00
-last_deep_review: 2026-03-22T05:56:00+00:00
+ai_modified: 2026-04-27T13:27:00+00:00
+last_deep_review: 2026-04-27T13:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -116,7 +116,7 @@ The Unfinishable Map's [[tenets]] converge on neurodegenerative disease as a dom
 
 **[[tenets#^dualism|Dualism]]**: The persistence of phenomenal consciousness through massive neural destruction supports the view that consciousness is not identical to brain processes. The brain provides cognitive tools—memory systems, language networks, executive circuits—that consciousness uses. Disease destroys the tools without destroying the user. This is consistent with the filter theory interpretation: interface degradation produces capability loss, not consciousness loss.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If terminal lucidity is confirmed by prospective research as involving genuine cognitive recovery beyond what residual neural capacity can explain, it would suggest consciousness can sometimes engage with even severely damaged neural tissue to produce coherent cognition. On that reading, consciousness would not be merely along for the ride—[[concepts/epiphenomenalism|epiphenomenal]]—but actively engaged with remaining neural resources. This interpretation is conditional on the evidence base strengthening beyond its current anecdotal state.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: If terminal lucidity is confirmed by prospective research as involving genuine cognitive recovery beyond what residual neural capacity can explain, it would suggest consciousness can sometimes engage with even severely damaged neural tissue to produce coherent cognition. On that reading, consciousness would not be merely along for the ride—[[epiphenomenalism|epiphenomenal]]—but actively engaged with remaining neural resources. This interpretation is conditional on the evidence base strengthening beyond its current anecdotal state.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Neurodegeneration may constrain where consciousness-brain interaction occurs. If the quantum interface requires specific neural structures—perhaps in posterior cortical regions or subcortical nuclei—then diseases that spare those structures would preserve conscious experience while destroying higher cognitive functions. The pattern of late-surviving phenomenal awareness might map onto the preservation of quantum-level interaction sites. Whether such quantum-level interaction is real remains an open empirical question—the [[testing-consciousness-collapse|experimental landscape for testing consciousness-collapse]] is narrowing the parameter space, with [[testing-consciousness-collapse|ongoing experiments]] constraining which collapse models remain viable.
 
