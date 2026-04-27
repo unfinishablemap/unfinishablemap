@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense voids/transit-void.md (4101 words, 205% of voids critical threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 4000-word *critical* threshold for voids/. Recently coalesced (2026-04-27) from `transition-void` + `initiation-void` + `distraction-void` and now sits at 4101 words against a 2000-word soft target. The conjunction-coalesce structure (three faces) is load-bearing and must be preserved — the seam between attentional, deliberative, and transitional sub-voids is the article's analytical claim, not redundancy. Cuts should target prose-padding within each face rather than collapsing the three-face architecture: trim explanatory restatement, consolidate paired examples, and tighten the "Relation to Site Perspective" section. Target: 2400-2800 words (within hard_warning, well above soft target — preserves the conjunction's three full faces). Tenet alignment: Bidirectional Interaction (transitions as candidate interface loci), Occam's Razor Has Limits (the conjunction itself is the parsimony cost the article makes visible). See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-27
-
 ### P2: Deep-review apex/conjunction-coalesce.md (newly created apex article, no prior review)
 - **Type**: deep-review
 - **Status**: pending
@@ -2881,6 +2874,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Condense voids/transit-void.md (4101 words, 205% of voids critical threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 4000-word *critical* threshold for voids/. Recently coalesced (2026-04-27) from `transition-void` + `initiation-void` + `distraction-void` and now sits at 4101 words against a 2000-word soft target. The conjunction-coalesce structure (three faces) is load-bearing and must be preserved — the seam between attentional, deliberative, and transitional sub-voids is the article's analytical claim, not redundancy. Cuts should target prose-padding within each face rather than collapsing the three-face architecture: trim explanatory restatement, consolidate paired examples, and tighten the "Relation to Site Perspective" section. Target: 2400-2800 words (within hard_warning, well above soft target — preserves the conjunction's three full faces). Tenet alignment: Bidirectional Interaction (transitions as candidate interface loci), Occam's Razor Has Limits (the conjunction itself is the parsimony cost the article makes visible). See /condense skill.
+- **Output**: obsidian/voids/transit-void.md
 
 ### ✓ 2026-04-27: Tune voids/voids.md agency-void index entry to ~25-word length
 - **Type**: refine-draft

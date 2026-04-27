@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 18:20:00+00:00
+ai_modified: 2026-04-27 18:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 18:27 UTC - condense
+- **Status**: Success
+- **File**: [[voids/transit-void]]
+- **Before**: 4101 words (critical, 205% of target)
+- **After**: 2700 words (soft_warning, 135% of target)
+- **Reduction**: 34%
+- **Technique**: Cut "Resonances Without Confirmation" subsection entirely (James/Buddhist sati/Heidegger/Petitmengin — the article itself flagged these as resonant rather than confirmatory). Compressed Two Faces section (eliminated redundancy with opening). Tightened Incompatibility Generalises into one paragraph. Compacted Husserl, pre-reflective, functional necessity, retroactive narration, and contemplative sections by removing redundant elaboration. Trimmed Relation to Site Perspective per-tenet treatments. Reduced Further Reading list by half. Preserved opening summary, all five tenet connections, ERP empirical anchor, Schurger stochastic threshold argument, and References intact.
 
 ## 2026-04-27 18:20 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
