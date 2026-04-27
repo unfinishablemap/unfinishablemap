@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 05:59:00+00:00
+ai_modified: 2026-04-27 06:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 06:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/spontaneous-intentional-action]]
+- **Word count**: 2419 → 2432 (+13; 97% of soft threshold)
+- **Critical issues addressed**: 1 (duplicate Further Reading entry from prior phenomenology-of-volition coalesce)
+- **Medium issues addressed**: 1 (added cross-link to coalesced [[agency-void]])
+- **Enhancements made**: added [[agency-void]] to related_articles and Further Reading; consolidated duplicate [[phenomenology-of-choice-and-volition]] entry; fourth review confirms article remains stable
+- **Output**: [[reviews/deep-review-2026-04-27-spontaneous-intentional-action]]
 
 ## 2026-04-27 05:59 UTC - coalesce
 - **Status**: Success

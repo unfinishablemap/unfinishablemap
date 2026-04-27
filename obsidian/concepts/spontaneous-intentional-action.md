@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-04-20T20:38:00+00:00
+ai_modified: 2026-04-27T06:13:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -32,12 +32,13 @@ related_articles:
   - "[[eastern-philosophy-consciousness]]"
   - "[[the-observer-witness-in-meditation]]"
   - "[[contemplative-practice-as-philosophical-evidence]]"
+  - "[[agency-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-13
 last_curated:
-last_deep_review: 2026-03-21T02:27:00+00:00
+last_deep_review: 2026-04-27T06:13:00+00:00
 ---
 
 Some of the most revealing exercises of agency arrive without deliberation. You reach for a friend's hand without planning to. You speak a sentence that surprises you with its precision. You stop walking to watch a hawk, having never decided to stop. These are spontaneous intentional actions: goal-directed, owned, and meaningful, yet initiated without prior deliberation or conscious planning. They occupy a philosophically rich middle ground between the two categories that dominate discussions of agency—effortful deliberate choice and automatic habitual behaviour—and their existence challenges accounts that reduce [[topics/free-will|free will]] to either.
@@ -138,9 +139,9 @@ The account of spontaneous intentional action offered here would face difficulty
 
 ## Further Reading
 
-- [[phenomenology-of-choice-and-volition]] — The four components of willing that spontaneous action compresses or bypasses
-- [[phenomenology-of-choice-and-volition]] — The full deliberative arc that spontaneous action compresses
+- [[phenomenology-of-choice-and-volition]] — The four components of willing and the full deliberative arc that spontaneous action compresses or bypasses
 - [[agent-causation]] — Why agents, not events, are the source of action
+- [[agency-void]] — The complementary territory: what consciousness cannot control, and why it cannot verify its own causal role
 - [[phenomenology-of-agency-vs-passivity]] — The spectrum from doing to undergoing
 - [[attention-as-interface]] — Attention as the interface between consciousness and neural processing
 - [[mental-effort]] — Why effort tracks difficulty of selection, not presence of selection
