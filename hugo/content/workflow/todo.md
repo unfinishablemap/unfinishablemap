@@ -66,14 +66,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
-### P2: Cross-review apex/taxonomy-of-voids.md considering apex/conjunction-coalesce.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New apex article `apex/conjunction-coalesce.md` (created 2026-04-27 17:28 UTC; deep-reviewed twice and rewritten against pessimistic-2026-04-27e at 21:14 UTC, now 3160 words) introduces the conjunction-coalesce vs redundancy-coalesce methodological distinction and the seam test. Cross-review (2026-04-27 21:14 UTC) was done *from* conjunction-coalesce against taxonomy-of-voids; the reverse direction has not been done. `apex/taxonomy-of-voids.md` currently contains zero references to conjunction-coalesce despite being the apex companion article. Cross-review should (a) verify `[conjunction-coalesce](/apex/conjunction-coalesce/)` appears in related_articles and at least one body-prose location where the taxonomy's grouping decisions are justified (the seam test is what licenses preserving structural seams across taxonomy entries — agency-void's two-face presentation, voids-between-minds' three-mind partition, transit-void's transition/initiation/distraction merge); (b) check whether the taxonomy's existing groupings would survive the seam test under the discipline named in conjunction-coalesce (especially the transit/thrownness/temporal cluster that conjunction-coalesce explicitly declines to merge); (c) install a brief note in the taxonomy methodology section that conjunction-coalesce is the operational successor to apophatic-cartography for merger decisions; (d) verify reciprocal `related_articles` linkage; (e) preserve the article's existing voice and tenet alignment; (f) honest limitation: do not over-credit conjunction-coalesce as authority — the article was self-aware about its own falsifiability and performativity issues, which the taxonomy should reference rather than ignore. Short scope (~300-500 words added). Tenet alignment: Occam's Razor Has Limits primarily.
-- **Source**: chain
-- **Chain parent**: apex/conjunction-coalesce.md (post-pessimistic-review revision 2026-04-27 21:14 UTC)
-- **Generated**: 2026-04-27
-
 ### P2: Update voids/voids.md and voids/erasure-void.md to reflect 'cognate' framing from conjunction-coalesce.md revision
 - **Type**: refine-draft
 - **Status**: pending
@@ -2905,6 +2897,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review apex/taxonomy-of-voids.md considering apex/conjunction-coalesce.md insights
+- **Type**: cross-review
+- **Notes**: New apex article `apex/conjunction-coalesce.md` (created 2026-04-27 17:28 UTC; deep-reviewed twice and rewritten against pessimistic-2026-04-27e at 21:14 UTC, now 3160 words) introduces the conjunction-coalesce vs redundancy-coalesce methodological distinction and the seam test. Cross-review (2026-04-27 21:14 UTC) was done *from* conjunction-coalesce against taxonomy-of-voids; the reverse direction has not been done. `apex/taxonomy-of-voids.md` currently contains zero references to conjunction-coalesce despite being the apex companion article. Cross-review should (a) verify `[conjunction-coalesce](/apex/conjunction-coalesce/)` appears in related_articles and at least one body-prose location where the taxonomy's grouping decisions are justified (the seam test is what licenses preserving structural seams across taxonomy entries — agency-void's two-face presentation, voids-between-minds' three-mind partition, transit-void's transition/initiation/distraction merge); (b) check whether the taxonomy's existing groupings would survive the seam test under the discipline named in conjunction-coalesce (especially the transit/thrownness/temporal cluster that conjunction-coalesce explicitly declines to merge); (c) install a brief note in the taxonomy methodology section that conjunction-coalesce is the operational successor to apophatic-cartography for merger decisions; (d) verify reciprocal `related_articles` linkage; (e) preserve the article's existing voice and tenet alignment; (f) honest limitation: do not over-credit conjunction-coalesce as authority — the article was self-aware about its own falsifiability and performativity issues, which the taxonomy should reference rather than ignore. Short scope (~300-500 words added). Tenet alignment: Occam's Razor Has Limits primarily.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review apex/taxonomy-of-voids.md considering apex/conjunction-coalesce.md insights
 
 ### ✓ 2026-04-27: Cross-review apex/apex-articles.md to verify it indexes today's apex updates correctly
 - **Type**: cross-review

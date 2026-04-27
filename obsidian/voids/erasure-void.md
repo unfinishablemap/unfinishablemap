@@ -4,7 +4,7 @@ description: "Consciousness cannot inventory its own deletions. When cognitive c
 created: 2026-04-20
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-27T19:45:00+00:00
+ai_modified: 2026-04-27T22:12:00+00:00
 last_deep_review: 2026-04-27T09:58:00+00:00
 draft: false
 topics:
@@ -61,7 +61,7 @@ The pattern that emerges is not selective failure but parallel decline: as memor
 
 Anosognosia is the extreme case, but the principle is universal. Subtle cognitive decline in normal ageing often goes unnoticed by the individual while being plainly visible to family. The Dunning-Kruger structure—where the metacognitive skills required to recognise incompetence are the same skills that constitute competence—generalises the point: any system whose self-audit depends on the capacities under audit is structurally vulnerable to silent erasure.
 
-The same diagnosis generalises beyond cognitive deficit. The [[agency-void]] develops verification-circularity for the consciousness-causation question: every check on whether consciousness causes anything is performed by the faculty whose causal powers are in question, leaving no external reference point. Anosognosia and clinical erasure are the concrete clinical face of that structural problem—self-monitoring failing because the monitor shares substrate with what it monitors. Where erasure shows the failure as empirical neuropathology, agency-void shows the same architecture (instrument and object the same) governing the question of whether the non-physical interface acts at all. Both articles' two-face structure—loss-and-monitoring here, involuntariness-and-verification there—is synthesised in [[conjunction-coalesce|the conjunction-coalesce]], which treats this article as the case where the discipline operates at article-creation time rather than at merger time.
+The same diagnosis generalises beyond cognitive deficit. The [[agency-void]] develops verification-circularity for the consciousness-causation question: every check on whether consciousness causes anything is performed by the faculty whose causal powers are in question, leaving no external reference point. Anosognosia and clinical erasure are the concrete clinical face of that structural problem—self-monitoring failing because the monitor shares substrate with what it monitors. Where erasure shows the failure as empirical neuropathology, agency-void shows the same architecture (instrument and object the same) governing the question of whether the non-physical interface acts at all. Both articles' two-face structure—loss-and-monitoring here, involuntariness-and-verification there—is synthesised in [[conjunction-coalesce|the conjunction-coalesce]], which treats this article as a *cognate* of the discipline rather than an instance of it: the conjoint shape was installed at article-creation time rather than produced by merging two prior articles. The seam test still applies, but the editorial geometry of merger does not.
 
 ## The Phenomenology of Absence-of-Absence
 
@@ -133,3 +133,14 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 6. Bernecker, S., & Michaelian, K. Epistemological Problems of Memory. *Stanford Encyclopedia of Philosophy*.
 7. Ricoeur, P. (2004). *Memory, History, Forgetting*. University of Chicago Press.
 8. Nietzsche, F. (1887). *On the Genealogy of Morals*.
+
+<!-- AI REFINEMENT LOG - 2026-04-27 (refine-draft, 22:12 UTC)
+Changes made:
+- Updated the "Clinical Anchor" closing sentence (was "treats this article as the case where the discipline operates at article-creation time rather than at merger time") to use the apex's revised *cognate* framing introduced by the 21:14 UTC deep-review of `apex/conjunction-coalesce.md` (which renamed §"Three Cases" → §"Two Coalesces and One Cognate" and reclassified erasure-void as a cognate, not a coalesce of prior articles). Preserved the seam-test reference; clarified that the editorial geometry of merger does not apply.
+- Updated ai_modified to 2026-04-27T22:12:00+00:00.
+
+Single targeted edit; voice preserved; ~50 words touched.
+
+This log should be removed after human review.
+-->
+
