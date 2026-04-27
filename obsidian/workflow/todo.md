@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/explanatory-gap.md considering hard-problem-of-content insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: `concepts/hard-problem-of-content.md` (created 2026-04-27) opens by positioning the Hutto-Myin Hard Problem of Content (HPC) as a structural parallel to the explanatory gap — physicalism encountering the same boundary from a different direction (aboutness rather than experience). `concepts/explanatory-gap.md` is the natural primary citer of this parallel and should now reciprocate. Cross-review should (a) verify a `[[hard-problem-of-content]]` link is added in `concepts:` frontmatter and `related_articles`; (b) install a short paragraph or sub-section that names the HPC as a sister explanatory-gap argument operating on the *aboutness* axis rather than the *experience* axis — with delegation to the HPC article rather than re-establishment; (c) verify the article's existing taxonomy of explanatory-gap arguments (Levine, conceivability, knowledge-argument) is extended cleanly with the HPC as a structurally distinct fourth strand drawn from philosophy of mental content; (d) check that the Map's specific use is precise — the HPC dissolves rather than vindicates non-physicalism, but the Map borrows the *negative* gap-identifying half of the argument; (e) preserve the article's existing voice, structure, and tenet-alignment. Light-touch edit (concept page is a natural hub; this task installs a single now-feasible reference). See `concepts/hard-problem-of-content.md` and `concepts/explanatory-gap.md`.
-- **Source**: chain (from concepts/hard-problem-of-content.md)
-- **Generated**: 2026-04-27
-
 ### P2: Cross-review voids/expertise-and-its-occlusion.md considering tacit-integration-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2812,6 +2805,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review concepts/explanatory-gap.md considering hard-problem-of-content insights
+- **Type**: cross-review
+- **Notes**: `concepts/hard-problem-of-content.md` (created 2026-04-27) opens by positioning the Hutto-Myin Hard Problem of Content (HPC) as a structural parallel to the explanatory gap — physicalism encountering the same boundary from a different direction (aboutness rather than experience). `concepts/explanatory-gap.md` is the natural primary citer of this parallel and should now reciprocate. Cross-review should (a) verify a `[[hard-problem-of-content]]` link is added in `concepts:` frontmatter and `related_articles`; (b) install a short paragraph or sub-section that names the HPC as a sister explanatory-gap argument operating on the *aboutness* axis rather than the *experience* axis — with delegation to the HPC article rather than re-establishment; (c) verify the article's existing taxonomy of explanatory-gap arguments (Levine, conceivability, knowledge-argument) is extended cleanly with the HPC as a structurally distinct fourth strand drawn from philosophy of mental content; (d) check that the Map's specific use is precise — the HPC dissolves rather than vindicates non-physicalism, but the Map borrows the *negative* gap-identifying half of the argument; (e) preserve the article's existing voice, structure, and tenet-alignment. Light-touch edit (concept page is a natural hub; this task installs a single now-feasible reference). See `concepts/hard-problem-of-content.md` and `concepts/explanatory-gap.md`.
+- **Output**: obsidian/concepts/explanatory-gap.md -- Context: Cross-review concepts/explanatory-gap.md considering hard-problem-of-content insights
 
 ### ✓ 2026-04-27: Cross-review concepts/intentionality.md installing Hutto-Myin's Hard Problem of Content link
 - **Type**: cross-review
