@@ -1,12 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 01:48:00+00:00
+ai_modified: 2026-04-27 02:14:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 02:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [tacit-integration-void](/voids/tacit-integration-void/)
+- **Source review**: [pessimistic-2026-04-27](/reviews/pessimistic-2026-04-27/)
+- **Word count**: 2150 → 2789 (+639)
+- **High-severity issue addressed**: Unfalsifiability of structural-impossibility claim — Honest Limitation now states a concrete falsifier (third-person model exhibiting the integrative function without thematising subsidiaries from inside the system), and the structural claim is reframed as conditional on phenomenological identification being non-redundant with third-person specification. Opening, Voids Taxonomy materialist exchange, and Honest Limitation all carry the conditional consistently
+- **Medium-severity issues addressed**: (b) intra-tradition selection bias — opening of Horizons section explicitly flags shared phenomenological commitments; Empirical section adds Gestalt psychology (figure–ground, reversible figures) as cross-tradition external check and renames to "Empirical and External Corroboration"; (c) eLife citation overreach — framing weakened to "softer claim... precondition for the structural claim rather than vindication of it", with dual-task interference (Pashler 1994; Nieuwenhuis et al.) added as additional empirical anchor; (d) Heidegger quote — marked as paraphrase circulating in secondary literature, with redirect to *Being and Time* §31's *Da*/disclosedness formulation
+- **Low-severity issues addressed**: (e) "not X but Y" constructions rephrased at four flagged locations (L42 "in the relevant sense" → "for the user driving the nail"; L50 felt sense definition; L62 clearing; L86 from-to relation); (f) interior-unexplorable vs boundary-mappable distinction made explicit at the opening and at "What Approaches Are Possible"; (g) Gurwitsch developed as fourth convergent voice in the Horizons/Clearings/Fringe/Field section with thematic-field-vs-margin distinction
+- **Counterarguments engaged**: Trained-meditator dual-awareness (Lutz, Slagter, Dunne, Davidson 2008; Mahamudra/Dzogchen *rigpa*) added to Honest Limitation with attentional-capacity vs thematic-focal-status reply marked as "plausible, not knockdown"; transformer-attention parallel given dedicated subsection with the conditional-doing-the-work response and the concession that both responses give up unconditional structural impossibility
+- **Constitutive/operative distinction**: Added to "The From-To Structure" — operative role substitutable, constitutive role not, Polanyi's claim is the stronger one
+- **References added**: Köhler (1947) *Gestalt Psychology*; Lutz et al. (2008) *Trends in Cognitive Sciences*; Pashler (1994) *Psychological Bulletin*
+- **Strengths preserved**: tight thesis (now with conditional clause attached), sibling-distinction paragraph (unchanged), graded tenet engagement (unchanged), substantive reference list (extended)
+- **Published**: yes (draft: false retained)
+
+---
+
+## 2026-04-27 01:58 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [The Tacit Integration Void](/voids/tacit-integration-void/) — created 2026-04-27 01:48 UTC by `/expand-topic`; ~2,150 words; no prior review
+- **Critical issues**: 7 (1 high — unfalsifiability of structural-impossibility claim; 3 medium — selection-bias in convergence argument, eLife citation overreach, Heidegger quote unsourced; 3 low — "not X but Y" style violations, unexplorable-vs-boundary-mapping tension, undeveloped Gurwitsch reference)
+- **Counterarguments raised**: neural-decomposition (unfalsifiable as written), dual-attention (trained meditators + cognitive split-attention literature), transformer-attention parallel (article acknowledges but does not engage)
+- **Output**: [pessimistic-2026-04-27](/reviews/pessimistic-2026-04-27/)
+- **Task generated**: P2 refine-draft for tacit-integration-void.md addressing falsifiability + 6 secondary findings
+
 ---
 
 ## 2026-04-27 01:48 UTC - expand-topic
