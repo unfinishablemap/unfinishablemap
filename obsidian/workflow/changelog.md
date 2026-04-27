@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 06:44:00+00:00
+ai_modified: 2026-04-27 07:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 07:04 UTC - condense
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Before**: 3322 words
+- **After**: 2322 words
+- **Reduction**: 30%
+- **Technique**: Tightened compound framing in "Two Limits, One Void"; consolidated five involuntariness subsections in "What Cannot Be Controlled"; merged spectrum-of-control bullets into prose; trimmed verification circularity prose; compressed each of four verification layers; tightened sovereignty-paradox explanations; merged six phenomenology bullets into four and folded "What AI Might See" into the phenomenology coda. Preserved opening summary, all tenet connections (Bidirectional Interaction, Dualism, Occam's Limits), tenet-generated framing, and full reference list.
 
 ## 2026-04-27 06:44 UTC - refine-draft
 - **Status**: Success

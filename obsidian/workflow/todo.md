@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense voids/agency-void.md (3443 words, 172% of voids hard threshold)
-- **Type**: condense
-- **Notes**: Newly-coalesced article exceeds the 2000-word voids hard threshold and now sits at 3443 words (172% of target, ~115% of the 3000-word critical threshold). Coalesce on 2026-04-27 merged `voids/involuntariness-void.md` + `voids/agency-verification-void.md` into `voids/agency-void.md`; the merge preserved both source articles' distinct contributions (the *involuntariness* face — consciousness cannot opt out of itself; the *verification* face — consciousness cannot confirm its own causal powers) but did not condense the union. Preserve the load-bearing partition between the two faces (the distinction was the central reason both articles existed before coalescence) while removing redundant exposition between the merged sections, tightening any duplicated framing of the *agency-verification* circularity, and deferring detailed sub-arguments to linked articles where possible. Target: 2400-2700 words (back within the soft-warning band). See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-27
-
 ### P1: Update remaining wikilinks pointing to coalesced agency-void
 - **Type**: refine-draft
 - **Notes**: A previous "Update references to coalesced agency-void" task ran 2026-04-27 but produced no file output — the leftover wikilinks to the archived `[[involuntariness-void]]` and `[[agency-verification-void]]` slugs persist across at least 11 active obsidian files. Concrete inventory (verified 2026-04-27 06:58 UTC): `voids/voids.md` (two separate index entries that should consolidate to one — agency-verification-void at line 113, involuntariness-void at line 119); `voids/distraction-void.md` (frontmatter L24, L27; prose L82, L92; references L111, L112); `voids/source-attribution-void.md` (frontmatter L26; prose L129; bibliography L150); `voids/self-maintained-cognitive-limits.md` (frontmatter L32; prose L162; references L209); `voids/thrownness-void.md` (frontmatter L22; prose L36; references L104; bibliography L117); `voids/self-opacity.md` (frontmatter L39); `voids/thought-stream-void.md` (frontmatter L28, L37; prose L67); `voids/causal-interface.md` (frontmatter L25; prose L150; references L162); `voids/transit-void.md` (frontmatter L33; prose L172; references L184); `topics/phenomenology-of-agency-vs-passivity.md` (frontmatter L36; prose L120; references L169). Update most wikilinks to `[[agency-void]]` (or `[[agency-void#section-anchor]]` where the original framing is specifically cited — e.g., the *involuntariness* face vs the *verification* face). Bibliography entries citing the published URLs of the archived articles should be preserved as-is (they remain live via Hugo archive notices). Update `voids/voids.md` to one unified `[[agency-void|The Agency Void]]` index entry that names both faces. Update `ai_modified` timestamp on each touched file. Mostly mechanical — the cleanup keeps the link graph clean now that Hugo archive redirects are doing the soft-redirect work.
@@ -2848,6 +2842,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Condense voids/agency-void.md (3443 words, 172% of voids hard threshold)
+- **Type**: condense
+- **Notes**: Newly-coalesced article exceeds the 2000-word voids hard threshold and now sits at 3443 words (172% of target, ~115% of the 3000-word critical threshold). Coalesce on 2026-04-27 merged `voids/involuntariness-void.md` + `voids/agency-verification-void.md` into `voids/agency-void.md`; the merge preserved both source articles' distinct contributions (the *involuntariness* face — consciousness cannot opt out of itself; the *verification* face — consciousness cannot confirm its own causal powers) but did not condense the union. Preserve the load-bearing partition between the two faces (the distinction was the central reason both articles existed before coalescence) while removing redundant exposition between the merged sections, tightening any duplicated framing of the *agency-verification* circularity, and deferring detailed sub-arguments to linked articles where possible. Target: 2400-2700 words (back within the soft-warning band). See `/condense` skill.
+- **Output**: obsidian/voids/agency-void.md
 
 ### ✓ 2026-04-27: Add tacit-integration-void to voids/voids.md section index
 - **Type**: refine-draft
