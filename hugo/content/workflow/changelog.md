@@ -1,12 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 02:43:00+00:00
+ai_modified: 2026-04-27 03:00:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 03:00 UTC - deep-review
+- **Status**: Success
+- **File**: [intentionality](/concepts/intentionality/)
+- **Context**: Cross-review installing [Hutto-Myin Hard Problem of Content](/concepts/hard-problem-of-content/) cross-link (concept article created 2026-04-27 02:43)
+- **Word count**: 3405 → 3433 (+28)
+- **Critical issues addressed**: 0 (article stable; deep-reviewed earlier today for eliminative-materialism integration)
+- **Medium issues addressed**: 1 (missing cross-link to newly created hard-problem-of-content; naturalization closing paragraph restructured to install HPoC as load-bearing reference framing PIT and REC as converse responses to the same diagnosis)
+- **Enhancements made**: Added [hard-problem-of-content](/concepts/hard-problem-of-content/) to concepts frontmatter; restructured naturalization section closing to invoke Hutto-Myin's Hard Problem of Content; tightened symbol grounding paragraph (removed redundant Harnad dictionary regress) to offset additions; added Further Reading entry with PIT/REC framing
+- **Attribution discipline**: Hutto and Myin's deflationary conclusion ("basic minds are contentless, content a sociocultural achievement") accurately characterised; Map's appropriation framed as structural alliance not philosophical alliance ("converse conclusion the Map endorses")
+- **Length-neutral mode**: Operated near hard threshold (3500); +28 words justified by load-bearing cross-link
+- **Output**: [deep-review-2026-04-27-intentionality-hpoc](/reviews/deep-review-2026-04-27-intentionality-hpoc/)
+
 ---
 
 ## 2026-04-27 02:43 UTC - deep-review

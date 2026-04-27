@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-27 00:44:00+00:00
+ai_modified: 2026-04-27 03:00:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -16,6 +16,7 @@ concepts:
 - '[[illusionism]]'
 - '[[introspection]]'
 - '[[explanatory-gap]]'
+- '[[hard-problem-of-content]]'
 - '[[decoherence]]'
 - '[[semantic-memory]]'
 - '[[binding-problem]]'
@@ -28,7 +29,7 @@ description: 'The aboutness of mental states: why thoughts are directed at objec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 00:44:00+00:00
+last_deep_review: 2026-04-27 03:00:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -79,9 +80,9 @@ Since Brentano, many philosophers have tried to naturalize intentionality—to e
 
 **Functional role theories** define content by inferential relations, but these relations are open to multiple content-interpretations. The network of functional roles underdetermines which specific contents populate it.
 
-The [symbol grounding problem](/concepts/symbol-grounding-problem/) sharpens this challenge for computational systems: how can symbols acquire meaning *intrinsic* to the system rather than borrowed from human interpreters? Harnad's dictionary regress—imagine learning Chinese using only a Chinese-to-Chinese dictionary—shows that without some foothold in genuine understanding, symbols remain semantically empty.
+The [symbol grounding problem](/concepts/symbol-grounding-problem/) sharpens this challenge for computational systems: symbols cannot acquire meaning intrinsic to the system without some foothold in genuine understanding.
 
-No naturalistic theory has achieved consensus after over a century of attempts. The [meaning void](/voids/meaning-void/) explores why this failure may be structural: the mechanism of reference operates below the threshold of introspective access, and the felt character of comprehension exceeds every formal model aimed at it. This supports the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet: the apparently simpler physical explanations don't work.
+No naturalistic theory has achieved consensus after over a century of attempts. Hutto and Myin's [Hard Problem of Content](/concepts/hard-problem-of-content/) gives the failure its sharpest formulation: covariational and teleosemantic resources deliver causal and statistical facts but never the normative dimension semantic content requires. Their conclusion is deflationary—basic minds are contentless, content a sociocultural achievement. PIT draws the converse conclusion the Map endorses: content is real, its grounding non-physical. The [meaning void](/voids/meaning-void/) explores why the mechanism of reference may lie below the threshold of formal modelling, supporting the Map's [Occam's Razor Has Limits](/tenets/#occam) tenet.
 
 ## Phenomenal Intentionality Theory
 
@@ -243,6 +244,7 @@ Intentionality connects to all five foundational tenets:
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — Does thinking itself have phenomenal character that grounds content?
 - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) — The phenomenal intentionality case applied to thought
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The explanatory gap that intentionality parallels
+- [hard-problem-of-content](/concepts/hard-problem-of-content/) — Hutto and Myin's structural argument that naturalism cannot deliver semantic content; PIT and REC are converse responses
 - [ai-consciousness](/topics/ai-consciousness/) — Why original intentionality matters for AI
 - [functionalism](/concepts/functionalism/) — A view that PIT challenges
 - [qualia](/concepts/qualia/) — The phenomenal properties that may ground intentionality
