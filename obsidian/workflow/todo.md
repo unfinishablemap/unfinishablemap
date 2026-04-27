@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks pointing to coalesced [[distraction-void]] in 5 active files
-- **Type**: cross-review
-- **Notes**: Coalesce on 2026-04-27 16:57 UTC merged voids/distraction-void.md into voids/transit-void.md (now contains a dedicated "Attentional Capture: The Empirical Anchor" section with the MMN/P3a/P3b ERP timing, Smallwood–Schooler probe-caught paradigm, and Anderson's retrospective-label material). The following five active content files still link to the archived `[[distraction-void]]` and should be updated to `[[transit-void]]` (with section anchor where appropriate, e.g. `[[transit-void#attentional-capture-the-empirical-anchor]]`): (1) topics/structure-of-attention.md, (2) topics/attention-and-the-consciousness-interface.md, (3) topics/phenomenology-of-returning-attention.md, (4) voids/attention-and-consciousness.md, (5) voids/thought-stream-void.md. Hugo redirects via the archive notice keep the URL working, but updating the active wikilinks keeps the graph clean and ensures readers land on the unified treatment. Preserve each article's existing voice and tenet alignment; this is a targeted reference-update task, not a content rewrite.
-- **Source**: chain (from coalesce 2026-04-27 16:57 UTC)
-- **Generated**: 2026-04-27
-
-### P2: Integrate apex/conjunction-coalesce.md into the apex network (taxonomy-of-voids, apex-articles index)
-- **Type**: cross-review
-- **Notes**: New apex article apex/conjunction-coalesce.md (created 2026-04-27 17:28 UTC, deep-reviewed at 18:42, 2508 words) names the *coalesce-as-conjunction* methodology — successful merger-without-remainder is operational evidence that two voids were faces of one underlying limit. Currently the only inbound link is from apex/apex-articles.md (the index). Two integration gaps: (a) apex/taxonomy-of-voids.md is the natural sister article — taxonomy-of-voids catalogues the void inventory; conjunction-coalesce names the falsification check on the taxonomy itself. Cross-reference should land in both directions, with conjunction-coalesce mentioned in taxonomy-of-voids §"The Taxonomy's Own Limits" or equivalent section. (b) apex/apex-articles.md should carry a one-paragraph description of conjunction-coalesce.md alongside the other apex entries, not just the bare link. Cross-review should (1) verify the taxonomy-of-voids cross-reference is reciprocal and bidirectional, (2) update the apex index entry to give conjunction-coalesce.md a paragraph-level description matching the convention used for sister apex articles, (3) check whether apex/post-decoherence-selection-programme.md or apex/interface-specification-programme.md has methodology-level affinity that would benefit from a forward link. Short scope (~300-500 words across 2-3 articles). Tenet alignment: methodological — Occam's Razor Has Limits primarily.
-- **Source**: chain (from apex-evolve 2026-04-27 17:28 UTC)
-- **Generated**: 2026-04-27
-
 ### P2: Add reciprocal inbound links from synthesised void articles to apex/conjunction-coalesce.md
 - **Type**: refine-draft
 - **Notes**: New apex article apex/conjunction-coalesce.md (2026-04-27) synthesises eight source articles: voids/agency-void.md, voids/voids-between-minds.md, voids/erasure-void.md, voids/transit-void.md, voids/thrownness-void.md, voids/temporal-void.md, voids/apophatic-cartography.md, plus apex/taxonomy-of-voids.md (covered by the separate apex-network task). The seven voids/ source articles currently lack inbound links to the apex piece. Refine should (a) add a one-sentence "Synthesised in [[apex/conjunction-coalesce]]" pointer in each source article's Related Articles or Relation to Site Perspective section, situating the article as a face of the broader pattern rather than as a standalone case; (b) where a source article was particularly load-bearing (agency-void as the verification-face exemplar; transit-void as the in-flight-access exemplar; apophatic-cartography as the methodological precursor), add a brief integrative sentence connecting the article's specific contribution to the apex's general claim; (c) preserve each source article's existing voice and tenet alignment; (d) verify the reverse references in apex/conjunction-coalesce.md remain accurate after any source-article condensation that has happened since the apex was written. Short scope (~150-300 words added across seven articles).
@@ -2890,6 +2878,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Update wikilinks pointing to coalesced [[distraction-void]] in 5 active files
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-27 16:57 UTC merged voids/distraction-void.md into voids/transit-void.md (now contains a dedicated "Attentional Capture: The Empirical Anchor" section with the MMN/P3a/P3b ERP timing, Smallwood–Schooler probe-caught paradigm, and Anderson's retrospective-label material). The following five active content files still link to the archived `[[distraction-void]]` and should be updated to `[[transit-void]]` (with section anchor where appropriate, e.g. `[[transit-void#attentional-capture-the-empirical-anchor]]`): (1) topics/structure-of-attention.md, (2) topics/attention-and-the-consciousness-interface.md, (3) topics/phenomenology-of-returning-attention.md, (4) voids/attention-and-consciousness.md, (5) voids/thought-stream-void.md. Hugo redirects via the archive notice keep the URL working, but updating the active wikilinks keeps the graph clean and ensures readers land on the unified treatment. Preserve each article's existing voice and tenet alignment; this is a targeted reference-update task, not a content rewrite.
+- **Output**: None -- Context: Update wikilinks pointing to coalesced [[distraction-void]] in 5 active files
+
+### ✓ 2026-04-27: Update wikilinks pointing to coalesced [[distraction-void]] in 5 active files
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-27 16:57 UTC merged voids/distraction-void.md into voids/transit-void.md. Updated `[[distraction-void]]` → `[[transit-void]]` in five active content files: topics/structure-of-attention.md (1 body link), topics/attention-and-the-consciousness-interface.md (1 body link), topics/phenomenology-of-returning-attention.md (1 body link), voids/attention-and-consciousness.md (1 frontmatter + 2 body), voids/thought-stream-void.md (1 frontmatter + 1 aliased body). Historical references in obsidian/reviews/ and obsidian/workflow/ left intact as point-in-time records. Hugo archive redirect remains functional for external URL preservation.
+- **Output**: 5 files modified; ai_modified bumped to 2026-04-27T19:19:00+00:00 on each
 
 ### ✓ 2026-04-27: Cross-review voids/voids.md and apex/taxonomy-of-voids.md considering conjunction-coalesce apex insights
 - **Type**: cross-review

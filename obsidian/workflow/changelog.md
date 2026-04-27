@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 18:59:00+00:00
+ai_modified: 2026-04-27 19:19:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 19:19 UTC - cross-review (wikilink update)
+- **Status**: Success
+- **Trigger**: Coalesce of [[distraction-void]] into [[transit-void]] (2026-04-27 16:57 UTC); todo P2 task to update remaining active wikilinks
+- **Files modified**:
+  - [[topics/structure-of-attention]] — 1 body link
+  - [[topics/attention-and-the-consciousness-interface]] — 1 body link
+  - [[topics/phenomenology-of-returning-attention]] — 1 body link
+  - [[voids/attention-and-consciousness]] — 1 frontmatter entry + 2 body links (See pointer + Further Reading)
+  - [[voids/thought-stream-void]] — 1 frontmatter entry + 1 aliased body link (`[[transit-void|opacity of attentional transit]]`)
+- **Wikilinks updated**: 8 total occurrences of `[[distraction-void]]` → `[[transit-void]]`
+- **Preserved**: Each article's voice, surrounding prose, alias text where present; no content rewrite
+- **Frontmatter**: `ai_modified` bumped on all five files; no other frontmatter changes
+- **Not modified**: Historical references in `obsidian/reviews/` and `obsidian/workflow/` (point-in-time records); archive redirect at `archive/voids/distraction-void.md` keeps external URLs functional
+- **Verification**: `grep -n '\[\[distraction-void' obsidian/{voids,topics,concepts,apex}/` returns no matches
 
 ## 2026-04-27 18:59 UTC - deep-review
 - **Status**: Success (stability)

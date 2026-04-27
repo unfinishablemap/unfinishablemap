@@ -4,7 +4,7 @@ description: "Attending generates unattendable territory as a structural necessi
 created: 2026-01-29
 modified: 2026-04-23
 human_modified: null
-ai_modified: 2026-04-23T19:00:00+00:00
+ai_modified: 2026-04-27T19:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[distraction-void]]"
+  - "[[transit-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
@@ -78,7 +78,7 @@ These phenomena reveal multiple levels of attention-created void: the marginalis
 
 **The alternation frustration.** In bistable perception, the sense that something is there that attention cannot stabilise. Both interpretations exist; you see each in turn; you cannot see both at once.
 
-**Retrospective discovery.** Finding oneself elsewhere without having witnessed the transit. Attention moved, and the moving is introspectively absent; there is a before and an after but no felt span between. The void is temporal rather than spatial — the gap between capture and noticing-capture. See [[distraction-void]].
+**Retrospective discovery.** Finding oneself elsewhere without having witnessed the transit. Attention moved, and the moving is introspectively absent; there is a before and an after but no felt span between. The void is temporal rather than spatial — the gap between capture and noticing-capture. See [[transit-void]].
 
 ## When the Instrument Breaks
 
@@ -134,7 +134,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[attention-and-the-consciousness-interface]] — The interface model applied to ADHD, fatigue, and clinical evidence
-- [[distraction-void]] — The temporal gap between being captured and noticing one has been captured
+- [[transit-void]] — The temporal gap between being captured and noticing one has been captured
 - [[attention-as-interface]] — The core hypothesis: attention as consciousness's bridge to matter
 - [[structure-of-attention]] — Three modes of attention and their neural signatures
 - [[disappearance-voids|The Habituation Void]] — A related void where familiarity, not attention, erases experience
