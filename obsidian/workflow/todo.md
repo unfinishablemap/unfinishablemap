@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 14:29:00+00:00
+ai_modified: 2026-04-27 18:14:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense voids/transit-void.md (4101 words, 205% of voids critical threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 4000-word *critical* threshold for voids/. Recently coalesced (2026-04-27) from `transition-void` + `initiation-void` + `distraction-void` and now sits at 4101 words against a 2000-word soft target. The conjunction-coalesce structure (three faces) is load-bearing and must be preserved — the seam between attentional, deliberative, and transitional sub-voids is the article's analytical claim, not redundancy. Cuts should target prose-padding within each face rather than collapsing the three-face architecture: trim explanatory restatement, consolidate paired examples, and tighten the "Relation to Site Perspective" section. Target: 2400-2800 words (within hard_warning, well above soft target — preserves the conjunction's three full faces). Tenet alignment: Bidirectional Interaction (transitions as candidate interface loci), Occam's Razor Has Limits (the conjunction itself is the parsimony cost the article makes visible). See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-27
+
+### P2: Deep-review apex/conjunction-coalesce.md (newly created apex article, no prior review)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: New apex article created 2026-04-27 17:28 UTC via apex-evolve, naming the *conjunction-coalesce* / *seam-preserving merger* methodological discipline. No `last_deep_review` field set; ai_contribution: 100. As a methodological apex with stake in how the Map treats coalesce decisions going forward, this needs the standard deep-review checks: (a) verify each catalogued case (agency-void, voids-between-minds, erasure-void) actually exhibits the conjunction-coalesce structure rather than standard coalesce; (b) confirm the falsification condition stated for the discipline is genuinely operational (under what observation would a successful conjunction-coalesce be wrongly diagnosed?); (c) check for symmetric-prediction problems against the standard-coalesce alternative; (d) verify the un-coalesced temporal-void / transit-void / thrownness-void framing now that transit-void itself was coalesced today; (e) preserve the article's distinction from the *concept extraction* method named separately. Tenet alignment: Methodological — directly Occam's Razor Has Limits.
+- **Source**: chain (from apex-evolve completion 2026-04-27)
+- **Generated**: 2026-04-27
+
+### P2: Cross-review voids/voids.md and apex/taxonomy-of-voids.md considering conjunction-coalesce apex insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: The new `apex/conjunction-coalesce.md` (2026-04-27 17:28 UTC) names a methodological discipline that bears on how the voids index and taxonomy describe coalesced articles. Cross-review should (a) check whether `voids/voids.md` index entries for agency-void, voids-between-minds, erasure-void, and transit-void describe each as a single void or as a conjunction — the index should reflect the seam-visible structure where present; (b) verify `apex/taxonomy-of-voids.md` cites conjunction-coalesce as a methodological move applicable at the taxonomy level (or note honestly if the apex is silent on this and explain why); (c) consider whether transit-void (today's coalesce of transition-void + initiation-void + distraction-void) should be cited as a fresh conjunction-coalesce instance in the apex article; (d) install reciprocal `[[conjunction-coalesce]]` links where natural; (e) preserve each article's voice. Short scope (~250-450 words across both articles). Tenet alignment: Methodological — most directly Occam's Razor Has Limits.
+- **Source**: chain (from apex-evolve completion 2026-04-27)
+- **Generated**: 2026-04-27
 
 ### P3: Write concept article on channel-opacity architecture as cross-modal pattern
 - **Type**: expand-topic
