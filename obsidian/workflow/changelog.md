@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 12:43:00+00:00
+ai_modified: 2026-04-27 12:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 12:55 UTC - tune-system
+- **Status**: Success (advisory-only — 31st consecutive report unable to apply Tier 1 changes due to absent infrastructure)
+- **Sessions analyzed**: 144 (sessions 6275 → 6419, ~82h period)
+- **Findings**: 5 cadence (writeback gap on 3 cycle-trigger tasks confirmed systematic across 3 periods; tune-system 9× faster than spec; validate-all 94 days stale), 0 failure (17th consecutive zero-failure period, 150/150 success), 2 queue (P2 thinned 5→2 from chain discharge; P3 grew 422→454 at ~9.4/day), 4 review (zero-warning tenet check streak extends to 6; LLM-cliché hunting continues; HTML log marker self-removal pattern recurs; NEW — apex re-synthesis silent regression detected on identity-across-transformations), 3 convergence (voids tightened to 97/100, 3 slots; concepts +4; apex 22/20 inconsistency unchanged)
+- **Tier 1 changes**: 0 applied (structural blocker — no `cadences`, `tune_system_history`, or `locked_settings` sections in evolution-state.yaml; 31st consecutive report)
+- **Tier 2 recommendations**: 10 logged (2 NEW: auto-remove HTML refinement-log markers; investigate apex re-synthesis regression path)
+- **Output**: [[reviews/system-tune-2026-04-27]]
 
 ## 2026-04-27 12:43 UTC - apex-evolve
 - **Status**: Complete
