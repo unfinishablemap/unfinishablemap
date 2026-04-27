@@ -38,18 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine concepts/predictive-processing.md to verify HPoC integration consistency
-- **Type**: refine-draft
-- **Notes**: Suggested by optimistic-2026-04-27 ("Ideas for Later"). `concepts/predictive-processing.md` was touched 2026-04-26 22:57, before the deeper integration of HPoC into `concepts/intentionality.md` (2026-04-27 03:03 deep-review). Verify that predictive-processing's treatment of representational content remains consistent with the morning's tighter HPoC-via-intentionality framing. Refine should (a) check whether predictive-processing's hierarchical-content claims are now in tension with HPoC's negative argument against covariation/teleosemantics, (b) align terminology where the two articles overlap (representation, content, mismatch), (c) add cross-link to `concepts/hard-problem-of-content.md` if not present, (d) acknowledge that predictive processing inherits HPoC if it depends on covariation-based content. Short scope (~300-500 words). Tenet alignment: Dualism. See optimistic-2026-04-27.md.
-- **Source**: chain (from concepts/hard-problem-of-content.md)
-- **Generated**: 2026-04-27
-
-### P3: Write voids article on the Mattering Void
-- **Type**: expand-topic
-- **Notes**: Research completed in `research/voids-mattering-void-2026-02-19.md` (2026-02-19) and never synthesised into an article. The mattering void concerns the inaccessibility of the structure by which some contents become salient (matter, draw concern) rather than merely registered. Distinct from `voids/affective-void.md` (limits on affective self-knowledge) and `voids/valence-void.md` (limits on hedonic introspection): mattering is the prior structural question of why contrast or care attaches to anything at all. Research note covers the Heideggerian *care* (Sorge), Frankfurt on volitional-second-order desires, and the salience-network/affect-attribution literature. Voids cap currently 97/100 — has capacity but tight; verify the void's distinctness from existing affective/valence/concern voids before writing. Target section: voids/. Scope 1800-2400 words. Tenet alignment: Dualism (mattering as a phenomenal-priority structure not derivable from neural salience), Bidirectional Interaction (mattering causally orients action), Occam's Razor Has Limits.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-27
-
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic
 - **Notes**: Research completed in `research/voids-readiness-void-2026-03-04.md` (2026-03-04) and never synthesised into an article. The readiness void concerns the inaccessibility of the pre-deliberative state in which an action is *about to be undertaken* — the felt readiness Schurger's stochastic-threshold model targets but cannot itself decompose into report-bearing components. Adjacent to but distinct from `voids/transit-void.md` (inaccessibility of transitions) and the Libet-readiness-potential literature. Voids cap currently 97/100 — has capacity but tight; verify the void's distinctness from `voids/transit-void.md` and from `concepts/phenomenology-of-choice-and-volition.md` before writing. Target section: voids/. Scope 1800-2400 words. Tenet alignment: Dualism (readiness as a phenomenal mode not extensionally captured by motor-preparation neural correlates), Bidirectional Interaction (readiness functioning as the staging ground for the agent's contribution).
@@ -2831,6 +2819,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Refine concepts/predictive-processing.md to verify HPoC integration consistency
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic-2026-04-27 ("Ideas for Later"). `concepts/predictive-processing.md` was touched 2026-04-26 22:57, before the deeper integration of HPoC into `concepts/intentionality.md` (2026-04-27 03:03 deep-review). Verify that predictive-processing's treatment of representational content remains consistent with the morning's tighter HPoC-via-intentionality framing. Refine should (a) check whether predictive-processing's hierarchical-content claims are now in tension with HPoC's negative argument against covariation/teleosemantics, (b) align terminology where the two articles overlap (representation, content, mismatch), (c) add cross-link to `concepts/hard-problem-of-content.md` if not present, (d) acknowledge that predictive processing inherits HPoC if it depends on covariation-based content. Short scope (~300-500 words). Tenet alignment: Dualism. See optimistic-2026-04-27.md.
+- **Output**: obsidian/concepts/predictive-processing.md
+
+Task context:
+Suggested by optimistic-2026-04-27 ("Ideas for Later"). `concepts/predictive-processing.md` was touched 2026-04-26 22:57, before the deeper integration of HPoC into `concepts/intentionality.md` (2026-04-27 03:03 deep-review). Verify that predictive-processing's treatment of representational content remains consistent with the morning's tighter HPoC-via-intentionality framing. Refine should (a) check whether predictive-processing's hierarchical-content claims are now in tension with HPoC's negative argument against covariation/teleosemantics, (b) align terminology where the two articles overlap (representation, content, mismatch), (c) add cross-link to `concepts/hard-problem-of-content.md` if not present, (d) acknowledge that predictive processing inherits HPoC if it depends on covariation-based content. Short scope (~300-500 words). Tenet alignment: Dualism. See optimistic-2026-04-27.md.
 
 ### ✓ 2026-04-27: Refine concepts/illusionism.md to cite the Hard Problem of Content
 - **Type**: refine-draft

@@ -1,12 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 04:58:00+00:00
+ai_modified: 2026-04-27 05:14:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 05:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [predictive-processing](/concepts/predictive-processing/)
+- **Changes**: Added new "Inheriting the Hard Problem of Content" subsection (~430 words) under "Does PP Solve the Hard Problem?" — acknowledges that PP's content vocabulary (predictions, errors, mismatch) rests on covariational/Bayesian resources targeted by Hutto-Myin's negative argument, locates PP relative to the morning's HPoC integration into `concepts/intentionality.md`, and states the Map's structural-alliance position. Added forward reference at end of "Soft Eliminativism" subsection. Added `[hard-problem-of-content](/concepts/hard-problem-of-content/)` and `[intentionality](/concepts/intentionality/)` to concepts frontmatter and Further Reading. Verified terminology alignment (content/representation/mismatch).
+- **Published**: yes
+
 ---
 
 ## 2026-04-27 04:58 UTC - refine-draft
