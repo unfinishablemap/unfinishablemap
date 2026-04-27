@@ -2,9 +2,9 @@
 title: "The Boundary and Projection Void"
 description: "Consciousness has a perimeter it cannot locate and extends beyond itself in ways it cannot observe. Static edge and dynamic shift share a structural reason for opacity: functional transparency requires that the mechanism be invisible to the consciousness using it."
 created: 2026-03-29
-modified: 2026-04-17
+modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-04-27T14:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,7 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[ownership-void]]"
   - "[[embodiment-cognitive-limits]]"
+  - "[[interoceptive-void]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
 ai_contribution: 100
 author: null
@@ -84,7 +85,7 @@ Independent lines of evidence confirm that the perimeter is actively maintained,
 
 **Split-brain ambiguity.** Sperry described "two separate spheres of conscious awareness" after corpus callosum severance, yet Pinto et al. (2017) found "split perception but undivided consciousness." Six decades on, neuroscience still cannot determine whether split-brain patients harbour one consciousness or two. The ambiguity reflects the impossibility of counting consciousnesses from outside—and the patient's inability to count from inside, since each perspective is enclosed within its own boundary.
 
-**Mastery and resistance to override.** The progression from novice to expert is a progressive deepening of projective transparency: the better the skill, the more complete the invisibility (see [[expertise-occlusion]]). Reciprocally, the rubber hand illusion persists despite full knowledge that it is an illusion; Tsakiris et al. (2011) found that weaker interoceptive awareness predicts greater susceptibility. Conscious control is structurally excluded from the process, not merely insufficient for it.
+**Mastery and resistance to override.** The progression from novice to expert is a progressive deepening of projective transparency: the better the skill, the more complete the invisibility (see [[expertise-occlusion]]). Reciprocally, the rubber hand illusion persists despite full knowledge that it is an illusion; Tsakiris et al. (2011) found that weaker interoceptive awareness predicts greater susceptibility — placing this evidence at the boundary's intersection with the [[interoceptive-void|interoceptive void]], where the body's partial opacity to itself becomes a determinant of how readily its perimeter can be reassigned. Conscious control is structurally excluded from the process, not merely insufficient for it.
 
 ## Distinction from Adjacent Voids
 

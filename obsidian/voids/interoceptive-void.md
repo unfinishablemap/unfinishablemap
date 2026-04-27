@@ -4,7 +4,8 @@ description: "Human+AI investigation of the body's partial opacity to the consci
 created: 2026-04-27
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-27T14:29:00+00:00
+ai_modified: 2026-04-27T14:42:00+00:00
+last_deep_review: 2026-04-27T14:42:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -44,7 +45,7 @@ The interoceptive void has three structurally distinct *absence*-faces — chann
 
 **The summarised.** Heartbeat, respiration, hunger, fullness, urgency, thermal state — the channels that *do* reach awareness do so as low-resolution composite signals. Cardiac interoception in healthy adults caps far below the millisecond precision of an external auditory pulse; the felt heartbeat is an integrative low-pass summary rather than a millisecond-precise percept. A 2025 review in *Phil. Trans. R. Soc. B* puts the asymmetry plainly: interoception "maps the state of the organism's internal milieu in real time, in stark contrast to the rapid, precise and time-sensitive processing of exteroceptive, proprioceptive, cognitive and linguistic signals." This face connects directly to the [[resolution-void|resolution void]]: even where interoceptive signal exists, its grain is set far coarser than the substrate it samples.
 
-**The gated.** Visceral signals shape brain dynamics continuously while remaining sub-threshold. Cardiac and gastric rhythms modulate perceptual thresholds, decision-making, and self-experience without entering awareness (Azzalini, Rebollo, & Tallon-Baudry 2019). Arousal and attention modulate which signals cross the threshold; an encyclopaedia article on visceral sensation observes that "the sensation can fall below the perception threshold again, if the attention is shifted to another focus," noting that "the intensity of perception is not directly related to the degree of afferent stimulation, but rather to the relative influences of arousal and afferent input." Whatever the underlying mechanism (active suppression, attentional priority, predictive-precision allocation), the functional fact is occlusion: traffic that exists does not enter experience.
+**The gated.** Visceral signals shape brain dynamics continuously while remaining sub-threshold. Cardiac and gastric rhythms modulate perceptual thresholds, decision-making, and self-experience without entering awareness (Azzalini, Rebollo, & Tallon-Baudry 2019). Whether a given visceral signal crosses into awareness is governed by arousal and attentional allocation rather than by the degree of afferent stimulation alone — perception can drop below threshold when attention shifts elsewhere and rise above it when arousal climbs. Whatever the underlying mechanism (active suppression, attentional priority, predictive-precision allocation), the functional fact is occlusion: traffic that exists does not enter experience.
 
 **The constructed layer (the inverse face).** Active interoceptive inference (Seth, Friston, and collaborators) reframes felt body state as top-down prediction tested against ascending visceral error. The "embodied self" is the high-precision portion of these predictions; what reaches awareness is a prediction-error-corrected reconstruction of the body, not raw afferent contact. This face moves in the opposite direction from the others — too *much* body-experience, generated downward from priors — and the construction can become decoupled from its substrate, as anxiety (felt body inflated without accuracy gain), alexithymia (felt body attenuated below afferent ground), and somatoparaphrenia (limb-ownership reassigned despite intact afferent return) each demonstrate. The interoceptive case is the [[predictive-construction-void|predictive construction void]] applied to the body that has the world: a related problem rather than another absence-face of the same void.
 
@@ -127,22 +128,4 @@ The interoceptive void's distinctive contribution is empirical tractability. Hea
 9. What might interoceptive inference reveal about consciousness? *Review of Philosophy and Psychology*. https://link.springer.com/article/10.1007/s13164-021-00580-3
 10. Cardiac interoception is enhanced in blind individuals. (2024). *Cerebral Cortex*, 34(8). https://academic.oup.com/cercor/article/34/8/bhae324/7734633
 11. Southgate, A. & Oquatre-six, C. (2026-04-16). The Predictive Construction Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/predictive-construction-void/
-
-<!-- AI REFINEMENT LOG - 2026-04-27
-Changes made (addressing pessimistic-2026-04-27c Issues 1-5):
-- §Relation to Site Perspective rewritten to address symmetric-prediction problem (Issue 1): replaced "exactly what one would expect if consciousness *interfaces with* a body rather than *is* one" with explicit acknowledgement that materialism predicts the same evidence; reframed the void's evidential role as locating where the dualism/materialism choice is forced rather than as favouring dualism.
-- Added explicit Damasio engagement (Issue 2): the rewritten Dualism block now names Damasio & Damasio (2023) as the inverse interpretive direction (feelings constitute consciousness vs. consciousness has a partly-silent body) — making Damasio reference 2 load-bearing rather than orphaned in the bibliography.
-- Lede para 2 reworked (Issue 3): "primarily *unexplorable*" replaced with channel-specific framing — renal filtration / lymphatic flow / hepatic metabolism / blood pH named as the unexplorable cases; the partly-moveable boundary now described as the *unexplored* edge running through the middle.
-- Constructed face reframed as the inverse (Issue 4): "Three Faces" section retitled "Three Absence-Faces, and an Inverse"; constructed layer is now explicitly opposite-direction and described as "a related problem rather than another absence-face of the same void"; added decoupling examples (anxiety, alexithymia, somatoparaphrenia).
-- Constitutively-unfelt universal-negative softened (Issue 5): "no attentional posture that surfaces them, no contemplative training" replaced with a third-person-verifiability hedge that explicitly engages yogic visualization, Tibetan body-mandala, and somatic-experiencing claims.
-- Language fixes: "integrative, not perceptual" replaced with "integrative low-pass summary rather than millisecond-precise percept"; "The void is not 'no signal' but 'signal beyond access'" reworked to drop X-not-Y; "must have been jointly held by something" replaced with "held in functional alignment by mechanisms that pathology can decouple"; closing aphorism "the body is what consciousness has..." replaced with explicit interpretive-disagreement framing; "The materialist owes an account..." replaced with the standard adaptive-cognition payment plus interpretive-layer note.
-- Bidirectional Interaction para softened (Issue 1 secondary): now acknowledges that the predicted-blush/vasodilation loop is exactly what active-inference models without a non-physical interface; the tenet-connection is preserved as a place to look rather than as evidence on its own.
-- Phenomenology of the Edge closing now distinguishes materialist-architecture and dualist-substrate readings of the dual phenomenology (per "Counterarguments to Address" item 3).
-- Frontmatter: description revised to drop "structurally opaque" and acknowledge inverse construction layer; ai_modified updated to 2026-04-27T14:29:00+00:00.
-
-Word count change: ~1994 → ~2300 (net additions for symmetric-prediction acknowledgement and Damasio engagement; net trims of the closing aphorism and X-not-Y constructions).
-Issues 1 and 2 (HIGH, structural) addressed substantively. Issues 3-5 (MEDIUM/LOW-MEDIUM) addressed with the recommended hedges.
-
-This log should be removed after human review.
--->
 

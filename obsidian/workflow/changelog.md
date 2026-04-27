@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 14:29:00+00:00
+ai_modified: 2026-04-27 14:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 14:42 UTC - deep-review
+- **Status**: Success (cross-review for inbound links)
+- **File**: [[voids/interoceptive-void]]
+- **Word count**: 2574 → 2554 (-20, length-neutral mode; 128% of 2000 soft target)
+- **Critical issues addressed**: 0 (5 critical issues from `pessimistic-2026-04-27c` already resolved by morning refinement; verified no regression)
+- **Medium issues addressed**: 2 (unattributed encyclopedia quote in §Gated paraphrased to remove direct quotes while preserving the substantive arousal/attention claim; AI REFINEMENT LOG comment scaffold removed per its own self-instruction)
+- **Enhancements made**: 2 sister-article inbound cross-links — `[[voids/embodiment-cognitive-limits]]` §"Interoception and the First-Person Perspective" now links to interoceptive-void with one bridging sentence; `[[voids/boundary-and-projection]]` Tsakiris (2011) reference now links to interoceptive-void; both sister articles updated `related_articles` frontmatter
+- **Output**: [[reviews/deep-review-2026-04-27-interoceptive-void]]
 
 ## 2026-04-27 14:29 UTC - refine-draft
 - **Status**: Success
