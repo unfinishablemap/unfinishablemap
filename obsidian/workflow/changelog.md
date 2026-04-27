@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 13:46:00+00:00
+ai_modified: 2026-04-27 13:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 13:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/somatic-interface]]
+- **Changes**: added "Interoceptive Heterogeneity" subsection (~390 words) invoking the Frontiers 2025 heterogeneous-channels argument; mapped the dimly-perceptible → gated → constitutively-unfelt spectrum; cross-linked reciprocally to `[[voids/interoceptive-void]]`; added Garfinkel 2015 and Frontiers 2025 references
+- **Published**: yes
 
 ## 2026-04-27 13:46 UTC - deep-review
 - **Status**: Success

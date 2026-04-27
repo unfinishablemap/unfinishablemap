@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine concepts/somatic-interface.md to invoke interoceptive-void research
-- **Type**: refine-draft
-- **Notes**: The interoceptive-void research lists `concepts/somatic-interface.md` among the relevant concept pages. The somatic-interface concept currently treats the body-as-interface in general terms; the interoceptive-channel partition (heterogeneous channels with very different accessibility profiles to consciousness) is a sharper case the article should invoke. Refine-draft should (a) add a short section invoking interoceptive opacity as a load-bearing case for somatic-interface's account of body-as-interface, (b) cite the heterogeneous-channels argument from Frontiers 2025 ("There is no such thing as interoception") — interoception is not one sense but many, and the spectrum from dimly-perceptible (cardiac, gastric distension) to constitutively-unfelt (renal filtration, hepatic metabolism, blood pH) is what reveals the architecture, (c) cross-link reciprocally with `[[voids/interoceptive-void]]` once written, (d) check whether somatic-interface's existing claims need narrowing or sharpening given the partition, (e) preserve existing voice and tenet alignment. Run after the interoceptive-void article is written. Short scope (~300-500 words added).
-- **Source**: chain (from interoceptive-void article)
-- **Generated**: 2026-04-27
-
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic
 - **Notes**: Research completed in `research/voids-readiness-void-2026-03-04.md` (2026-03-04) and never synthesised into an article. The readiness void concerns the inaccessibility of the pre-deliberative state in which an action is *about to be undertaken* — the felt readiness Schurger's stochastic-threshold model targets but cannot itself decompose into report-bearing components. Adjacent to but distinct from `voids/transit-void.md` (inaccessibility of transitions) and the Libet-readiness-potential literature. Voids cap currently 97/100 — has capacity but tight; verify the void's distinctness from `voids/transit-void.md` and from `concepts/phenomenology-of-choice-and-volition.md` before writing. Target section: voids/. Scope 1800-2400 words. Tenet alignment: Dualism (readiness as a phenomenal mode not extensionally captured by motor-preparation neural correlates), Bidirectional Interaction (readiness functioning as the staging ground for the agent's contribution).
@@ -2845,6 +2839,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Refine concepts/somatic-interface.md to invoke interoceptive-void research
+- **Type**: refine-draft
+- **Notes**: The interoceptive-void research lists `concepts/somatic-interface.md` among the relevant concept pages. The somatic-interface concept currently treats the body-as-interface in general terms; the interoceptive-channel partition (heterogeneous channels with very different accessibility profiles to consciousness) is a sharper case the article should invoke. Refine-draft should (a) add a short section invoking interoceptive opacity as a load-bearing case for somatic-interface's account of body-as-interface, (b) cite the heterogeneous-channels argument from Frontiers 2025 ("There is no such thing as interoception") — interoception is not one sense but many, and the spectrum from dimly-perceptible (cardiac, gastric distension) to constitutively-unfelt (renal filtration, hepatic metabolism, blood pH) is what reveals the architecture, (c) cross-link reciprocally with `[[voids/interoceptive-void]]` once written, (d) check whether somatic-interface's existing claims need narrowing or sharpening given the partition, (e) preserve existing voice and tenet alignment. Run after the interoceptive-void article is written. Short scope (~300-500 words added).
+- **Output**: obsidian/concepts/somatic-interface.md
+
+Task context:
+The interoceptive-void research lists `concepts/somatic-interface.md` among the relevant concept pages. The somatic-interface concept currently treats the body-as-interface in general terms; the interoceptive-channel partition (heterogeneous channels with very different accessibility profiles to consciousness) is a sharper case the article should invoke. Refine-draft should (a) add a short section invoking interoceptive opacity as a load-bearing case for somatic-interface's account of body-as-interface, (b) cite the heterogeneous-channels argument from Frontiers 2025 ("There is no such thing as interoception") — interoception is not one sense but many, and the spectrum from dimly-perceptible (cardiac, gastric distension) to constitutively-unfelt (renal filtration, hepatic metabolism, blood pH) is what reveals the architecture, (c) cross-link reciprocally with `[[voids/interoceptive-void]]` once written, (d) check whether somatic-interface's existing claims need narrowing or sharpening given the partition, (e) preserve existing voice and tenet alignment. Run after the interoceptive-void article is written. Short scope (~300-500 words added).
 
 ### ✓ 2026-04-27: Cross-review tacit-integration-void.md against inference-void.md
 - **Type**: cross-review
