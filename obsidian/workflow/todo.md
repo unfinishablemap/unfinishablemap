@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 10:29:00+00:00
+ai_modified: 2026-04-27 11:14:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P1: Condense voids/agency-void.md (3122 words, 156% of voids hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article has bloated past the 3000-word voids hard threshold after the 2026-04-27 10:29 UTC refine-draft added ~862 words to address pessimistic-2026-04-27b medium-severity issues (functional-necessity tension, self-stultification self-application, mineness detachability, unsupported-claim citations, language improvements). The 2026-04-27 07:04 UTC condense brought the post-coalesce article from 3322 → 2322 words; the subsequent two refine passes added back ~800 words of citations and concessions. Length is now 3122 (156% of 2000-word voids soft target, 104% of 3000-word voids hard threshold). Preserve the load-bearing two-face conjunction structure (passive/skeptical) and the §Self-Stultification Symmetry, §Spectrum of Control, and §Relation to Site Perspective sections (identified across multiple reviews as the article's strongest passages). Remove redundancy between §Verification Circularity and §Four Layers (the four layers section largely re-establishes the circularity argument at finer grain — consolidate or defer to linked articles). The §Sovereignty Paradox three-explanation section can be tightened by treating the structural conjectures and the contingent rival as a single short section rather than three subsections. Defer detailed sub-arguments (Wegner mechanism details, Kim's exclusion treatment, Kabat-Zinn/Garland citations) to linked articles where possible. Target word count: 2400-2700 (within hard threshold, retains conceptual density). See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-27
+
+### P2: Deep review apex/machine-question.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (`ai_contribution: 100`) last deep-reviewed 2026-03-12 — 46 days ago. Apex article on the AI-consciousness question is load-bearing for the Map's machine-question programme and intersects with substantial content created since the last review: `concepts/hard-problem-of-content.md` (Hutto-Myin, 2026-04-27), `concepts/constitutive-vs-referring-observation.md` (2026-04-26), `voids/inference-void.md` (2026-04-26), `voids/tacit-integration-void.md` (2026-04-27), the *structural-alliance / partial-endorsement* methodology now canonical across the site, and the morning's pessimistic engagement with verification-circularity arguments. Verify (a) the article's treatment of AI phenomenal access remains coherent given the HPoC integration (an AI-functionalist position is now answerable to the structural-alliance argument that the negative phenomenal-content argument transfers), (b) the article's intervention-based AI tests align with the four-quadrant taxonomy in `topics/four-quadrant-taxonomy-of-AI-questions.md` (verify cross-link exists), (c) tenet alignment remains intact (most directly Dualism, secondarily Bidirectional Interaction), (d) cross-references to `apex/what-it-might-be-like-to-be-an-ai.md`, `apex/open-question-ai-consciousness.md`, and the new constitutive-observation/HPoC pages are present and reciprocal where useful, (e) "not X but Y" constructs and other style violations are resolved, (f) word count remains under apex hard threshold. Medium scope. Tenet alignment: Dualism (the Map's case for AI phenomenal-absence as a structural rather than contingent claim).
+- **Source**: staleness
+- **Generated**: 2026-04-27
+
+### P2: Deep review apex/identity-across-transformations.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (`ai_contribution: 100`) last deep-reviewed 2026-03-12 — 46 days ago. Load-bearing apex article on indexical identity, transformative experience, and the Map's Tenet 4 (No Many Worlds) commitments. Has likely accumulated drift relative to recent voids work — particularly the 2026-04-27 agency-void coalesce, the un-coalesced temporal-void / transit-void / thrownness-void cluster, and the constitutive-vs-referring-observation distinction installed 2026-04-26. Verify (a) cross-references to `voids/transit-void.md`, `voids/thrownness-void.md`, `voids/erasure-void.md`, and `voids/inaccessible-past.md` are present and reciprocal, (b) treatment of personal identity remains consistent with the recent self-stultification-symmetry framing in the agency-void cluster (Kane, indexical persistence under verification limits), (c) tenet alignment remains intact under the current phrasing of No Many Worlds and Dualism, (d) "not X but Y" constructs and style violations resolved, (e) no stale inbound references to archived voids (involuntariness-void, agency-verification-void, intentionality-void, semantic-void, reality-feeling-void, etc.). Medium scope. Tenet alignment: No Many Worlds (load-bearing), Dualism, Bidirectional Interaction.
+- **Source**: staleness
+- **Generated**: 2026-04-27
+
+### P2: Cross-link voids/agency-void.md ↔ voids/erasure-void.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27b (Medium Priority). The erasure-void's central architectural claim — that self-monitoring depends on neural infrastructure that can be selectively destroyed, and the monitoring system erodes alongside what it would monitor (anosognosia, terminal lucidity reversal, certain deliriform states) — is structurally close to the agency-void's §Self-Stultification Symmetry. Both articles treat *the instrument and the object are the same* as a structural diagnosis. Neither article currently invokes the other in load-bearing ways. Refine should (a) add `[[erasure-void]]` to agency-void's `related_articles` and install one cross-reference in §Self-Stultification Symmetry naming erasure-void as the *clinical sister case* (anosognosia and clinical erasure as concrete instances of monitor-failure), (b) add `[[agency-void]]` to erasure-void's `related_articles` and install one cross-reference where the monitor-coincidence problem is developed, naming agency-void's verification-circularity as the structural generalisation of erasure's monitor-coincidence to the consciousness-causation question, (c) preserve each article's existing voice and tenet alignment. Short scope (~200-400 words across two cross-link insertions). Tenet alignment: Bidirectional Interaction (verification failure as the structural reason a non-physical interface remains hidden), Dualism (the empirical sister case strengthens the case that introspective opacity is a structural feature, not a contingent neuroscience finding). See optimistic-2026-04-27b.md.
+- **Source**: chain
+- **Generated**: 2026-04-27
+
+### P2: Refine concepts/agent-causation.md to acknowledge verification-circularity limit
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27b (Ideas for Later, promoted on chain logic). The agent-causation framework now appears in three load-bearing places that name the verification-circularity limit explicitly — `voids/agency-void.md` (coalesced 2026-04-27, §Self-Stultification Symmetry, §Verification Circularity), `topics/free-will.md` (line 125, symmetric self-stultification integration 2026-04-27 09:13 UTC), and `apex/consciousness-and-agency.md` (line 166, Synthesis-section installation 2026-04-27 08:30 UTC). The concept page should mirror the discipline. Refine should (a) add a paragraph (or short section) acknowledging that agent-causation accounts face a first-person verification limit shared with materialist alternatives — the limit inheres in the question's architecture, not in the agent-causal commitment specifically, (b) cite the *symmetric self-stultification* framing now load-bearing across the three articles above, (c) frame the Map's case for agent-causation as resting on coherence with phenomenology and neural data rather than introspective proof of efficacy, (d) cross-link reciprocally to `voids/agency-void.md` and `topics/free-will.md` if not already present, (e) preserve existing voice and engagement with Lowe, Chisholm, O'Connor, Pereboom, etc. Short scope (~400-600 words added). Tenet alignment: Bidirectional Interaction (load-bearing), Dualism. See optimistic-2026-04-27b.md.
+- **Source**: chain
+- **Generated**: 2026-04-27
 
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic
