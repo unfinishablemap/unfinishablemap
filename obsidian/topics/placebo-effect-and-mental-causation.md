@@ -4,7 +4,7 @@ description: "Placebo and nocebo effects demonstrate that beliefs and expectatio
 created: 2026-02-15
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-02T21:38:00+00:00
+ai_modified: 2026-04-27T11:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-22T10:41:00+00:00
+last_deep_review: 2026-04-27T11:28:00+00:00
 ---
 
 The placebo effect — measurable physiological improvement from inert treatments — provides some of the strongest empirical evidence for [[mental-causation-and-downward-causation|mental causation]]. When a sugar pill reduces pain, releases dopamine, or modulates immune function, beliefs and expectations are producing physical changes in the body. The Unfinishable Map argues that this evidence is particularly challenging for [[concepts/epiphenomenalism]] because the *content* of the belief matters: believing a pill is a painkiller produces analgesia, while believing it is a stimulant produces arousal. Propositional attitudes — not just neural patterns — appear to be doing causal work.
