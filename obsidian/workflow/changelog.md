@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 17:57:00+00:00
+ai_modified: 2026-04-27 18:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 18:20 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections surveyed**: voids (97/100, most pressured), concepts (231/250), topics (232/250)
+- **Candidate clusters examined**: affective triplet (affective/mood/valence — explicitly differentiated as range/opacity/structure problems); cognitive-limits family (formal/biological/embodiment/collective/self-maintained — distinct sources); conceptual-gap pair (categorial-void/conceptual-impossibility — newly authored to draw the distinction); recognition-cluster (recognition-void/source-attribution-void — knowing-as vs origin-of); plenitude/plurality/surplus (orthogonal phenomenal questions); attention/amplification (different-scale opacities); sleep/death/transit (already coalesced or distinct); self-and-self-consciousness vs zahavian-minimal-self (one is a Zahavi-vs-Metzinger comparison)
+- **Rationale**: Substantial prior coalesce activity has already merged the obvious overlaps (32 voids, 56 concepts, 70 topics carry `coalesced_from`). Remaining articles in pressured sections show deliberate differentiation in their own framing—often citing each other to mark the distinction. Forcing a merger would undo recent careful work.
+- **No files changed**
 
 ## 2026-04-27 17:57 UTC - refine-draft
 - **Status**: Success
