@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 20:57:00+00:00
+ai_modified: 2026-04-27 21:14:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-27 21:14 UTC - deep-review
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Mode**: Cross-review (against [taxonomy-of-voids](/apex/taxonomy-of-voids/), [apex-articles](/apex/apex-articles/), other methodological apex articles); engaged [pessimistic-2026-04-27e](/reviews/pessimistic-2026-04-27e/)
+- **Word count**: 2508 → 3160 (+652)
+- **Critical issues addressed**: 2 (HIGH from pessimistic-2026-04-27e: empirical base/erasure-void cognate; seam test falsifiability via cluster-tipping conditions)
+- **Medium issues addressed**: 6 (fragility-as-symptom framing; defeasibility of third refinement; cluster verdict tipping conditions; tenet alignment tightened — Bidirectional Interaction cut, Dualism made conditional; apex-placement justification added; self-praise softened)
+- **Enhancements made**: New §"A Note on Apex Placement" connecting article to taxonomy-of-voids and apex-articles index policy; renamed §"Three Cases" → §"Two Coalesces and One Cognate"
+- **Stability**: Second formal deep-review; engages pessimistic findings the first deep-review predated. Article now self-aware about its own limits (falsifiability, performativity, category placement)
+- **Output**: [deep-review-2026-04-27b-conjunction-coalesce](/reviews/deep-review-2026-04-27b-conjunction-coalesce/)
 
 ## 2026-04-27 20:57 UTC - deep-review
 - **Status**: Success

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 21:14:00+00:00
+ai_modified: 2026-04-27 21:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 21:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/apex-articles]]
+- **Mode**: Cross-review against today's [[apex/conjunction-coalesce]] update; entry 21 verified correct, but cross-check exposed pervasive source-slug drift in earlier entries
+- **Word count**: 2336 → 2318 (-18)
+- **Critical issues addressed**: 21 source-article references across 12 entries corrected to point at live successor articles after coalesce/rename/archive churn (e.g., `concepts/mental-causation` → `concepts/mental-causation-and-downward-causation`; four archived attention articles consolidated to `topics/attention-and-the-consciousness-interface`; `voids/whether-real`, `voids/cartography-problem`, `concepts/duration`, `concepts/specious-present`, `topics/time-perception-consciousness-theories` removed as duplicates of their already-listed successors)
+- **Medium issues addressed**: 0 (prose and structure remained sound from 2026-03-01 review)
+- **Enhancements made**: 0 net additions; replaced `concepts/chinese-room` (never existed) with `concepts/symbol-grounding-problem` to match what `apex/machine-question.md` actually cites
+- **Stability**: Second deep review. The 2026-03-01 stability note predicted source-path drift — confirmed at scale; tooling to auto-verify source paths from the index would close the gap
+- **Output**: [[reviews/deep-review-2026-04-27-apex-articles]]
 
 ## 2026-04-27 21:14 UTC - deep-review
 - **Status**: Success

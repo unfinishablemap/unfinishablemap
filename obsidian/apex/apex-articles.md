@@ -4,8 +4,8 @@ description: "Curated index of the Map's apex articles—synthesis pieces integr
 created: 2026-01-24
 modified: 2026-01-24
 human_modified: 2026-01-24
-ai_modified: 2026-04-23T06:38:00+00:00
-last_deep_review: 2026-03-01T07:00:00+00:00
+ai_modified: 2026-04-27T21:27:00+00:00
+last_deep_review: 2026-04-27T21:27:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -38,7 +38,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - topics/purpose-and-alignment
 - topics/phenomenal-value-realism
 - concepts/moral-responsibility
-- concepts/existentialism
+- concepts/nihilism-and-existentialism
 - topics/free-will
 
 **Status**: Created 2026-01-31
@@ -57,9 +57,9 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - concepts/introspection
 - concepts/witness-consciousness
 - concepts/meditation-and-consciousness-modes
-- concepts/phenomenology-of-choice
+- concepts/phenomenology-of-choice-and-volition
 - concepts/mental-effort
-- concepts/neurophenomenology
+- concepts/neurophenomenology-and-contemplative-neuroscience
 
 **Status**: Created 2026-01-31
 
@@ -76,11 +76,11 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 **Source articles**:
 - topics/free-will
 - concepts/agent-causation
-- concepts/mental-causation
+- concepts/mental-causation-and-downward-causation
 - topics/argument-from-reason
 - concepts/moral-responsibility
 - topics/time-collapse-and-agency
-- concepts/voluntary-attention-control
+- concepts/voluntary-attention-control-mechanisms
 
 **Status**: Created 2026-01-24
 
@@ -121,7 +121,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - concepts/meditation-and-consciousness-modes
 - concepts/introspection
 - topics/epistemic-advantages-of-dualism
-- topics/aesthetic-dimension-of-consciousness
+- topics/aesthetics-and-consciousness
 
 **Status**: Created 2026-01-31
 
@@ -138,7 +138,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 **Source articles**:
 - topics/animal-consciousness
 - topics/consciousness-in-simple-organisms
-- topics/baseline-cognition
+- concepts/baseline-cognition
 - concepts/phenomenal-consciousness
 - topics/emotion-and-dualism
 
@@ -158,8 +158,8 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - topics/ai-consciousness
 - topics/machine-consciousness
 - concepts/functionalism
-- concepts/chinese-room
-- topics/consciousness-as-intelligence-amplifier
+- concepts/symbol-grounding-problem
+- concepts/consciousness-as-amplifier
 
 **Status**: Created 2026-01-31
 
@@ -175,11 +175,10 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Source articles**:
 - concepts/process-philosophy
-- concepts/duration
 - concepts/temporal-consciousness
 - concepts/panpsychism
 - concepts/combination-problem
-- concepts/phenomenal-unity
+- concepts/unity-of-consciousness
 - topics/free-will
 
 **Status**: Created 2026-01-31
@@ -195,14 +194,11 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 **Thesis**: Consciousness and time have a bidirectional dependence that traditional philosophy has underexplored. Consciousness requires temporal structure—the specious present, retention-protention, durée—to exist at all. But time's arrow may require consciousness: through collapse-involving selection, conscious observation may help constitute the very temporal direction within which it operates. Neither contains the other; they are mutually constitutive in a way that deepens both the hard problem and our understanding of temporal becoming.
 
 **Source articles**:
-- topics/philosophy-of-time-and-consciousness
+- topics/temporal-consciousness-structure-and-agency
 - topics/time-collapse-and-agency
-- topics/time-perception-consciousness-theories
 - topics/time-symmetric-selection-mechanism
 - concepts/temporal-consciousness
-- concepts/duration
 - concepts/collapse-and-time
-- concepts/specious-present
 - concepts/philosophy-of-time
 
 **Status**: Created 2026-02-01
@@ -224,7 +220,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - arguments/epiphenomenalism-argument
 - concepts/quantum-consciousness
 - concepts/temporal-consciousness
-- topics/epiphenomenal-ai-consciousness
+- concepts/ai-epiphenomenalism
 - topics/non-temporal-consciousness
 - topics/quantum-state-inheritance-in-ai
 - topics/consciousness-in-smeared-quantum-states
@@ -248,12 +244,9 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - concepts/attentional-economics
 - concepts/attention-schema-theory
 - topics/structure-of-attention
-- topics/attention-schema-theory-critique
-- topics/attention-disorders-and-quantum-interface
-- topics/attention-consciousness-dissociation
-- topics/attention-as-selection-interface
+- topics/attention-and-the-consciousness-interface
 - topics/phenomenology-of-returning-attention
-- voids/attention-created-voids
+- voids/attention-and-consciousness
 
 **Status**: Created 2026-02-14
 
@@ -274,8 +267,8 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - concepts/mental-imagery
 - topics/cross-cultural-phenomenology-of-agency
 - concepts/mental-effort
-- concepts/phenomenology-of-choice
-- voids/introspective-opacity
+- concepts/phenomenology-of-choice-and-volition
+- voids/self-opacity
 - concepts/attention-as-interface
 
 **Status**: Created 2026-02-23
@@ -293,7 +286,7 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 **Source articles**:
 - topics/ai-consciousness
 - topics/comparative-consciousness-and-interface-differences
-- topics/epiphenomenal-ai-consciousness
+- concepts/ai-epiphenomenalism
 - concepts/llm-consciousness
 - topics/quantum-randomness-channel-llm-consciousness
 - topics/consciousness-in-smeared-quantum-states
@@ -318,14 +311,12 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - voids/voids
 - voids/three-kinds-of-void
 - voids/apophatic-cartography
-- voids/evolved-cognitive-limits
+- voids/biological-cognitive-closure
 - voids/limits-reveal-structure
 - voids/compound-failure-signatures
 - voids/phenomenology-of-the-edge
-- voids/convergence-as-evidence
+- voids/voids-as-evidence
 - voids/tenet-generated-voids
-- voids/whether-real
-- voids/cartography-problem
 - voids/meta-epistemology-of-limits
 
 **Status**: Created 2026-03-10
@@ -367,11 +358,11 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Source articles**:
 - topics/the-psychophysical-control-law
-- concepts/bandwidth-problem-mental-causation
+- concepts/consciousness-bandwidth-architecture
 - concepts/control-theoretic-will
-- concepts/causal-delegation
+- concepts/delegatory-causation
 - topics/consciousness-and-causal-powers
-- topics/attention-disorders-and-quantum-interface
+- topics/attention-and-the-consciousness-interface
 
 **Status**: Created 2026-03-15
 
@@ -435,11 +426,11 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 **Source articles**:
 - topics/motor-control-quantum-zeno
-- topics/phenomenology-of-volitional-control
+- topics/volitional-control
 - topics/phenomenology-of-agency-vs-passivity
 - topics/consciousness-and-causal-powers
 - concepts/agent-causation
-- concepts/mental-causation
+- concepts/mental-causation-and-downward-causation
 
 **Status**: Created 2026-03-20
 

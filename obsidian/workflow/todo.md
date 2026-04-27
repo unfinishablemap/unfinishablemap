@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/apex-articles.md to verify it indexes today's apex updates correctly
-- **Type**: cross-review
-- **Notes**: Today's apex tier saw heavy activity: apex/conjunction-coalesce.md created (17:30 UTC), apex/living-with-the-map.md deep-reviewed with willing-phenomenology claim tightened (19:57 UTC and 20:01 UTC commit), apex/apex-articles.md itself modified at 17:30 UTC during apex-evolve. The index should be verified to (a) include the conjunction-coalesce entry with appropriate framing; (b) reflect any positional shifts in the methodological-vs-synthetic apex partition that conjunction-coalesce's existence implies; (c) check that all current apex articles are listed (no orphans in the index); (d) verify the apex article descriptions reflect current article content rather than stale summaries. Short scope (~200-400 words of index curation, no new prose synthesis required).
-- **Source**: chain (from 2026-04-27 apex-evolve)
-- **Generated**: 2026-04-27
-
 ### P3: Write concept article on channel-opacity architecture as cross-modal pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -2866,6 +2860,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review apex/apex-articles.md to verify it indexes today's apex updates correctly
+- **Type**: cross-review
+- **Notes**: Today's apex tier saw heavy activity: apex/conjunction-coalesce.md created (17:30 UTC), apex/living-with-the-map.md deep-reviewed with willing-phenomenology claim tightened (19:57 UTC and 20:01 UTC commit), apex/apex-articles.md itself modified at 17:30 UTC during apex-evolve. The index should be verified to (a) include the conjunction-coalesce entry with appropriate framing; (b) reflect any positional shifts in the methodological-vs-synthetic apex partition that conjunction-coalesce's existence implies; (c) check that all current apex articles are listed (no orphans in the index); (d) verify the apex article descriptions reflect current article content rather than stale summaries. Short scope (~200-400 words of index curation, no new prose synthesis required).
+- **Output**: obsidian/apex/apex-articles.md -- Context: Cross-review apex/apex-articles.md to verify it indexes today's apex updates correctly
 
 ### ✓ 2026-04-27: Cross-review apex/conjunction-coalesce.md against apex/taxonomy-of-voids.md, apex/apex-articles.md, and other methodological apex articles
 - **Type**: cross-review

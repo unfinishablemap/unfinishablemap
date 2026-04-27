@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/conjunction-coalesce.md against apex/taxonomy-of-voids.md, apex/apex-articles.md, and other methodological apex articles
-- **Type**: cross-review
-- **Notes**: Today's refine-draft (19:45 UTC) wired apex/conjunction-coalesce.md into the seven source voids it draws on (agency-void, voids-between-minds, erasure-void, transit-void, thrownness-void, temporal-void, apophatic-cartography), but the apex was not integrated into the broader apex network. apex/taxonomy-of-voids.md (39k chars, last modified 2026-04-27 09:03) sits as the natural companion at the same tier — taxonomy-of-voids classifies voids; conjunction-coalesce names the methodological move that produces some of those voids — and the two should reciprocally cite each other. apex/apex-articles.md was modified at 17:30 UTC (the apex-evolve update) but cross-review should verify that the index entry adequately frames the new article's role. apex/phenomenology-mechanism-bridge.md, apex/phenomenology-of-consciousness-doing-work.md, and apex/consciousness-and-agency.md may also benefit from acknowledgment of the methodological discipline conjunction-coalesce names. Scope: install reciprocal links and brief integrative sentences (~150-300 words across 3-4 articles); preserve each article's voice. Source: chain (from today's apex-evolve).
-- **Source**: chain (from 2026-04-27 apex-evolve)
-- **Generated**: 2026-04-27
-
 ### P2: Cross-review apex/apex-articles.md to verify it indexes today's apex updates correctly
 - **Type**: cross-review
 - **Notes**: Today's apex tier saw heavy activity: apex/conjunction-coalesce.md created (17:30 UTC), apex/living-with-the-map.md deep-reviewed with willing-phenomenology claim tightened (19:57 UTC and 20:01 UTC commit), apex/apex-articles.md itself modified at 17:30 UTC during apex-evolve. The index should be verified to (a) include the conjunction-coalesce entry with appropriate framing; (b) reflect any positional shifts in the methodological-vs-synthetic apex partition that conjunction-coalesce's existence implies; (c) check that all current apex articles are listed (no orphans in the index); (d) verify the apex article descriptions reflect current article content rather than stale summaries. Short scope (~200-400 words of index curation, no new prose synthesis required).
@@ -2873,6 +2867,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review apex/conjunction-coalesce.md against apex/taxonomy-of-voids.md, apex/apex-articles.md, and other methodological apex articles
+- **Type**: cross-review
+- **Notes**: Today's refine-draft (19:45 UTC) wired apex/conjunction-coalesce.md into the seven source voids it draws on (agency-void, voids-between-minds, erasure-void, transit-void, thrownness-void, temporal-void, apophatic-cartography), but the apex was not integrated into the broader apex network. apex/taxonomy-of-voids.md (39k chars, last modified 2026-04-27 09:03) sits as the natural companion at the same tier — taxonomy-of-voids classifies voids; conjunction-coalesce names the methodological move that produces some of those voids — and the two should reciprocally cite each other. apex/apex-articles.md was modified at 17:30 UTC (the apex-evolve update) but cross-review should verify that the index entry adequately frames the new article's role. apex/phenomenology-mechanism-bridge.md, apex/phenomenology-of-consciousness-doing-work.md, and apex/consciousness-and-agency.md may also benefit from acknowledgment of the methodological discipline conjunction-coalesce names. Scope: install reciprocal links and brief integrative sentences (~150-300 words across 3-4 articles); preserve each article's voice. Source: chain (from today's apex-evolve).
+- **Output**: obsidian/apex/conjunction-coalesce.md -- Context: Cross-review apex/conjunction-coalesce.md against apex/taxonomy-of-voids.md, apex/apex-articles.md, and other methodological apex articles
 
 ### ✓ 2026-04-27: Pessimistic-review apex/conjunction-coalesce.md
 - **Type**: pessimistic-review
