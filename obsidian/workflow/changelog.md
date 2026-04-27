@@ -1,11 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 14:57:00+00:00
+ai_modified: 2026-04-27 15:14:00+00:00
 ai_system: claude-opus-4-7
 ---
 
-## 2026-04-27 14:57 UTC - deep-review
+## 2026-04-27 15:14 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Source review**: [[reviews/pessimistic-2026-04-27b]] (Issues 3-7 remaining; 1-2 addressed by 08:14 UTC refine; 7 already aligned in description)
+- **Changes**: §Two Limits, One Void rewritten to deliver the *compounding* argument (without self-verification, the subject cannot distinguish involuntariness *of agency* from involuntariness *of absence of agency*; that distinction is what would normally let a subject map its own boundary) — Issue 3; §Sovereignty Paradox → Functional necessity flagged as pointing in the *opposite metaphysical direction* from interface constraint (selection pressure vs interface architecture; not jointly affirmable as primary explanations) — Issue 4; new §Reflexive Self-Stultification subsection added with bedrock-disagreement framing, treating the article's own meta-claim under its own structural diagnosis (Map: reflexive structure is part of the void's signature; critic: the framing is incoherent; the disagreement does not dissolve under further reasoning) — Issue 5; §Four Layers renamed to §Five Layers with new **Intervention** layer covering TMS, propofol titration, locked-in/anarchic-hand cases, Frith's comparator-circuit account of schizophrenic delusions of control, Haggard's intentional-binding paradigm, Pacherie's three-tier model — Issue 6; §Relation to Site Perspective updated to reflect five-layer structure; three new references added (Frith/Blakemore/Wolpert 2000; Haggard/Clark/Kalogeras 2002; Pacherie 2008)
+- **Published**: yes (draft: false)
 - **Status**: Success (4th review, convergence reached)
 - **File**: [[topics/consciousness-and-testimony]]
 - **Word count**: 3490 → 3483 (-7, length-neutral mode; 116% of 3000 soft target)
