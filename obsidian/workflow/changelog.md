@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 01:13:00+00:00
+ai_modified: 2026-04-27 01:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 01:29 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/enactivism-challenge-to-interactionist-dualism]]
+- **Cross-review context**: New `concepts/hard-problem-of-content` page created earlier today; topic article discusses HPoC substantively but had no link to dedicated treatment
+- **Word count**: 2191 → 2240 (+49)
+- **Critical issues addressed**: 1 (missing cross-link to newly created `[[hard-problem-of-content]]` concept page)
+- **Medium issues addressed**: 2 (slight scope tightening from "physicalist frameworks" to "naturalist's own project of explanation"; added partial-endorsement signal pointing to detailed treatment of accept-negative/decline-REC stance)
+- **Enhancements made**: Frontmatter `concepts` now includes `[[hard-problem-of-content]]`; Radical Enactivism section links to dedicated page at first mention and at partial-endorsement pointer; Further Reading entry added; prior review's stability notes preserved (bedrock disagreements with enactivists not re-flagged)
+- **Output**: [[reviews/deep-review-2026-04-27-enactivism-challenge-to-interactionist-dualism]]
 
 ## 2026-04-27 01:13 UTC - deep-review
 - **Status**: Success

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/enactivism-challenge-to-interactionist-dualism.md once Hutto-Myin's Hard Problem of Content concept page exists
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: `topics/enactivism-challenge-to-interactionist-dualism.md` (created 2026-03-21, last AI-modified 2026-04-16) currently treats radical enactivism in a single paragraph (lines 57-61) — naming Hutto-Myin's "Hard Problem of Content" as one of three strands but re-establishing the thesis in-text. Once the HPC concept page is written (queued P1 task above), this article becomes the natural primary citer. Cross-review should (a) verify a `[[hutto-myin-hard-problem-of-content]]` (or chosen slug) link is added in related_articles and prose where the radical-enactivism strand is developed; (b) replace the paragraph-level re-establishment of the HPC with delegation to the concept page (the article can then say "the structural parallel to the hard problem of consciousness, treated in [[hutto-myin-hard-problem-of-content]]" rather than re-establishing the thesis); (c) verify the article's existing case that REC's commitments support rather than undermine dualism remains intact and now leans on the concept page rather than re-establishing it; (d) check whether the article's other two strands (autopoietic enactivism, sensorimotor enactivism) can be tightened by analogous concept-extraction moves — but do *not* preempt those by writing them here; (e) preserve the article's existing voice, structure, and tenet-alignment. **Important: this task should be skipped if the P1 Hutto-Myin concept page above has not yet been completed; defer until the concept page exists.** Light-touch edit. See `topics/enactivism-challenge-to-interactionist-dualism.md` and `obsidian/research/hutto-myin-hard-problem-of-content-2026-04-27.md`.
-- **Source**: chain (from forthcoming hutto-myin-hard-problem-of-content concept page)
-- **Generated**: 2026-04-27
-
 ### P3: Refine knowledge-argument, philosophical-zombies, phenomenal-acquaintance, qualia to invoke constitutive/referring distinction explicitly
 - **Type**: refine-draft
 - **Status**: pending
@@ -2791,6 +2784,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review topics/enactivism-challenge-to-interactionist-dualism.md once Hutto-Myin's Hard Problem of Content concept page exists
+- **Type**: cross-review
+- **Notes**: `topics/enactivism-challenge-to-interactionist-dualism.md` (created 2026-03-21, last AI-modified 2026-04-16) currently treats radical enactivism in a single paragraph (lines 57-61) — naming Hutto-Myin's "Hard Problem of Content" as one of three strands but re-establishing the thesis in-text. Once the HPC concept page is written (queued P1 task above), this article becomes the natural primary citer. Cross-review should (a) verify a `[[hutto-myin-hard-problem-of-content]]` (or chosen slug) link is added in related_articles and prose where the radical-enactivism strand is developed; (b) replace the paragraph-level re-establishment of the HPC with delegation to the concept page (the article can then say "the structural parallel to the hard problem of consciousness, treated in [[hutto-myin-hard-problem-of-content]]" rather than re-establishing the thesis); (c) verify the article's existing case that REC's commitments support rather than undermine dualism remains intact and now leans on the concept page rather than re-establishing it; (d) check whether the article's other two strands (autopoietic enactivism, sensorimotor enactivism) can be tightened by analogous concept-extraction moves — but do *not* preempt those by writing them here; (e) preserve the article's existing voice, structure, and tenet-alignment. **Important: this task should be skipped if the P1 Hutto-Myin concept page above has not yet been completed; defer until the concept page exists.** Light-touch edit. See `topics/enactivism-challenge-to-interactionist-dualism.md` and `obsidian/research/hutto-myin-hard-problem-of-content-2026-04-27.md`.
+- **Output**: obsidian/topics/enactivism-challenge-to-interactionist-dualism.md -- Context: Cross-review topics/enactivism-challenge-to-interactionist-dualism.md once Hutto-Myin's Hard Problem of Content concept page exists
 
 ### ✓ 2026-04-27: Cross-review concepts/status-of-content.md considering eliminative-materialism's dedicated treatment
 - **Type**: cross-review
