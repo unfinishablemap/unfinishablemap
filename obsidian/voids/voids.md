@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-04-24
 human_modified: 2026-01-08
-ai_modified: 2026-04-26T13:25:00+00:00
+ai_modified: 2026-04-27T06:44:00+00:00
 draft: false
 last_deep_review: 2026-04-21T01:38:00+00:00
 topics: []
@@ -69,6 +69,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[epistemic-horizon-void|The Epistemic Horizon Void]] — The second-order void that shadows every other: why consciousness cannot estimate the total scope of what it does not know from within the limited system doing the estimating (created 2026-04-23)
 - [[question-formation-void|The Question Formation Void]] — The method-horizon void: a constraint on which questions a mind can formulate, distinct from constraints on which answers it can reach; mapping by negation can only negate what is already askable (created 2026-04-24)
 - [[inference-void|The Inference Void]] — The structural opacity of inferential transitions to the consciousness performing them; Carroll's regress gives the void a formally demonstrable epistemic profile, distinguishing it from purely apophatic or empirical voids (created 2026-04-26)
+- [[tacit-integration-void|The Tacit Integration Void]] — Why subsidiary cues bear on focal meaning only by not being focal themselves; thematising the from-to integration collapses what it carries, opening a candidate structural impossibility that also constrains the Map's own apophatic method (created 2026-04-27)
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — Why cognitive limits are preconditions for meaning, not merely obstacles
 
 ### Specific Voids
@@ -195,17 +196,15 @@ The voids framework flows directly from the Map's [[tenets]]:
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [[apophatic-cartography|apophatic cartography]]—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-04-26
+<!-- AI REFINEMENT LOG - 2026-04-27
 Changes made:
-- Added [[question-formation-void]] to Foundational Articles, placed immediately after [[epistemic-horizon-void]]. The article explicitly self-identifies with the April 2026 second-order cluster (epistemic-horizon-void, plenitude-void, categorial-void) and frames itself as the void that shadows apophatic cartography itself. Foundational Articles is where second-order voids already sit; the descriptor flags the "method-horizon" character so the entry reads correctly at this level of the taxonomy.
-- Added [[source-attribution-void]] to Specific Voids, placed immediately after [[self-opacity]] since the article positions itself as a sharper relative of self-opacity (granting mechanism-blindness in general but isolating the missing origin tag). Sits naturally alongside witnessing-void, narrative-void, and predictive-construction-void in the access/self-knowledge family.
-- Added [[semantic-void]] to Phenomenology of Limits, placed between [[ineffable-encounter-void]] and [[conceptual-metabolism-void]]. The article concerns the felt character of meaning vs. any representational scheme—closely adjacent to the ineffable-encounter-void's territory of unarticulable meaning, and complementary to conceptual-metabolism-void's account of what understanding does to concepts.
-- Updated ai_modified timestamp to 2026-04-26T02:36:00+00:00.
+- Added [[tacit-integration-void]] to Foundational Articles, placed immediately after [[inference-void]]. The article is structural and self-identifies as constraining the Map's own apophatic method (it notes that "the catalogue of voids is itself an exercise in tacit integration"), which puts it alongside the second-order/methodological cluster (epistemic-horizon-void, question-formation-void, inference-void) rather than with the phenomenon-specific Specific Voids. Description follows the lede framing—from-to bearing relation, candidate structural impossibility—and includes the methodological reach so the entry reads correctly at the foundational level.
+- Updated ai_modified timestamp to 2026-04-27T06:44:00+00:00.
 
-Sanity-check on other recent voids: witnessing-void (line 90), necessary-opacity (123), distraction-void (109), noetic-feelings-void (114), observation-and-measurement-void (99), quantitative-intuition-void (75), acquaintance-void (103, also 156), and void-as-ground-of-meaning (71) all appear at least once.
-
-No restructuring; only three entries added.
+Single-line addition; no restructuring.
 
 This log should be removed after human review.
+
+Prior log (2026-04-26: question-formation-void, source-attribution-void, semantic-void additions) removed; those entries are still in place above.
 -->
 

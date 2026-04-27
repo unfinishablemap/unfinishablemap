@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add tacit-integration-void to voids/voids.md section index
-- **Type**: refine-draft
-- **Notes**: New void article `voids/tacit-integration-void.md` (created 2026-04-27) is not yet indexed in `voids/voids.md`. The index lists other recent additions (e.g., `inference-void` at line 71 with creation-date annotation, `distraction-void` at line 111). Add a parallel entry under "Foundational Articles" or "Specific Voids" — most natural placement is alongside the second-order/methodological voids cluster (near inference-void or noetic-feelings-void). One-line entry following the established format: `- [[tacit-integration-void|The Tacit Integration Void]] — [one-sentence description following the article's lede framing] (created 2026-04-27)`. Also update `ai_modified` timestamp on voids.md frontmatter. No prose rewrite needed beyond the index entry. Short scope (single line addition).
-- **Source**: chain (index maintenance for voids/tacit-integration-void.md)
-- **Generated**: 2026-04-27
-
-### P2: Refine voids/void-as-ground-of-meaning.md with buddhist-eastern-parallels research
-- **Type**: refine-draft
-- **Notes**: Research note `research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25.md` (created 2026-04-25) gathers material on Nāgārjuna's two-truths Madhyamaka, Kyoto School (Nishitani's *Religion and Nothingness*, Nishida's absolute nothingness/*mu*), pratītyasamutpāda/dependent origination, and Daoist *wu* — all directly bearing on the void-as-ground-of-meaning thesis. The article currently has 8 mentions of buddhist/śūnyatā-family terms but the research went deeper than what landed: Nishitani's *mu* as positive ground (not mere absence), Nāgārjuna's positive use of emptiness to *enable* conventional discourse rather than dissolve it, and the Daoist *wu* tradition. Refine should (a) install a "Cross-tradition Parallels" or equivalent section synthesising the strongest material from the research note (most importantly Nishitani's positive-mu and Nāgārjuna's two-truths framework as structural parallels to the article's claim that limits are preconditions for meaning rather than obstacles), (b) preserve the article's existing voice and tenet engagement, (c) add the research file to a Further Reading or References section if not already present, (d) verify length — article currently ~3000 words; if approaching the voids/ hard threshold (3000), favour replacement of weaker material over net additions, (e) honest limitation: the parallel is structural, not a claim that the Map's position derives from or coincides with the eastern traditions. Short to medium scope (400-800 words added or replaced). Tenet alignment: Occam's Razor Has Limits, Dualism. See research note for source bibliography.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-27
-
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic
 - **Notes**: Research completed in `research/voids-readiness-void-2026-03-04.md` (2026-03-04) and never synthesised into an article. The readiness void concerns the inaccessibility of the pre-deliberative state in which an action is *about to be undertaken* — the felt readiness Schurger's stochastic-threshold model targets but cannot itself decompose into report-bearing components. Adjacent to but distinct from `voids/transit-void.md` (inaccessibility of transitions) and the Libet-readiness-potential literature. Voids cap currently 97/100 — has capacity but tight; verify the void's distinctness from `voids/transit-void.md` and from `concepts/phenomenology-of-choice-and-volition.md` before writing. Target section: voids/. Scope 1800-2400 words. Tenet alignment: Dualism (readiness as a phenomenal mode not extensionally captured by motor-preparation neural correlates), Bidirectional Interaction (readiness functioning as the staging ground for the agent's contribution).
@@ -2830,6 +2818,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Add tacit-integration-void to voids/voids.md section index
+- **Type**: refine-draft
+- **Notes**: New void article `voids/tacit-integration-void.md` (created 2026-04-27) is not yet indexed in `voids/voids.md`. The index lists other recent additions (e.g., `inference-void` at line 71 with creation-date annotation, `distraction-void` at line 111). Add a parallel entry under "Foundational Articles" or "Specific Voids" — most natural placement is alongside the second-order/methodological voids cluster (near inference-void or noetic-feelings-void). One-line entry following the established format: `- [[tacit-integration-void|The Tacit Integration Void]] — [one-sentence description following the article's lede framing] (created 2026-04-27)`. Also update `ai_modified` timestamp on voids.md frontmatter. No prose rewrite needed beyond the index entry. Short scope (single line addition).
+- **Output**: obsidian/voids/voids.md
+
+Task context:
+New void article `voids/tacit-integration-void.md` (created 2026-04-27) is not yet indexed in `voids/voids.md`. The index lists other recent additions (e.g., `inference-void` at line 71 with creation-date annotation, `distraction-void` at line 111). Add a parallel entry under "Foundational Articles" or "Specific Voids" — most natural placement is alongside the second-order/methodological voids cluster (near inference-void or noetic-feelings-void). One-line entry following the established format: `- [[tacit-integration-void|The Tacit Integration Void]] — [one-sentence description following the article's lede framing] (created 2026-04-27)`. Also update `ai_modified` timestamp on voids.md frontmatter. No prose rewrite needed beyond the index entry. Short scope (single line addition).
 
 ### ✓ 2026-04-27: Cross-review voids/inference-void.md considering tacit-integration-void insights
 - **Type**: cross-review
