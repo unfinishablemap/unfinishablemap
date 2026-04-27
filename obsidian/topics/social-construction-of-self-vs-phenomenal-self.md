@@ -38,7 +38,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-12
 last_curated:
-last_deep_review: 2026-03-22T08:26:00+00:00
+last_deep_review: 2026-04-27T08:52:00+00:00
 ---
 
 Who you are depends on whom you ask. Social constructionism says the self is a product of language, culture, and mutual recognition—you become a self through being treated as one. The phenomenal self says something different: before any social interaction, before language, before culture, there is already something it is like to be you. These two accounts are not merely different emphases on the same phenomenon. They make competing claims about what selfhood fundamentally is, what generates it, and whether it could exist without the other.
