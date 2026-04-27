@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 10:21:00+00:00
+ai_modified: 2026-04-27 10:29:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 10:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Word count**: 2443 → 3305 (+862 words; ~750 words touched per medium-scope target; 165% of 2000 voids soft target)
+- **Issues addressed (deferred from 2026-04-27 morning refine, per pessimistic-2026-04-27b)**:
+    - Issue 4 (Sovereignty Paradox functional-necessity tension): restructured three explanations as two structural conjectures + one contingent rival; explicitly flagged functional-necessity as the alternative-to-structural-void rather than complement; cited Bateson 1991 / Damasio 1994 for affect-and-survival framing
+    - Issue 5 (self-stultification self-application): added paragraph after Self-Stultification Symmetry engaging the recursive structure; first/third-person distinction provides the response; cross-linked meta-epistemology-of-limits
+    - Issue 6 (mineness detachability): both ownership passages revised to concede partial attenuation per Kabat-Zinn 1990, Garland et al. 2014, Grant & Rainville 2009; void claim preserved in weakened form ("deeply default, not absolutely fixed"); "you cannot disown a headache/migraine" phrasings removed
+    - 4 unsupported claims (table lines 144-152): causal-theory-of-knowledge contested-status added (Goldman/Plantinga/virtue-epistemology); interface-constraint flagged as conjectural; functional-necessity flagged as suggestive with citations; three-step argumentative bridge supplied for "self-concealing channels" claim in Relation to Site Perspective
+    - 6 language improvements (table lines 154-164): "two structural limits at once"; "door"-metaphor; "witness testifying"; "Looking is itself an act"; "Schopenhauer took this seriously"; closing-sentence elliptical phrasing — all replaced per recommendations
+- **References added**: Bateson 1991, Damasio 1994, Garland et al. 2014, Goldman 1967, Grant & Rainville 2009, Kabat-Zinn 1990
+- **Preserved per task instructions**: §Self-Stultification Symmetry (extended, not overwritten), §Spectrum of Control (only door-metaphor sentence rewritten), §Relation to Site Perspective Dualism + Occam paragraphs (untouched)
+- **Deferred (still in queue)**: P2 intervention-based methodologies layer (TMS, optogenetic, Frith, Haggard, Pacherie)
+- **Source**: pessimistic-2026-04-27b follow-up
+- **Published**: yes (draft: false preserved)
 
 ## 2026-04-27 10:21 UTC - deep-review
 - **Status**: Success (stability confirmed)
