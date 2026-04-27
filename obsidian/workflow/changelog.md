@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 12:33:00+00:00
+ai_modified: 2026-04-27 12:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 12:38 UTC - check-tenets
+- **Status**: Success (1 note, no errors or warnings)
+- **Files checked**: 28 (delta sweep against 2026-04-26 18:33 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (`topics/free-will.md` — wikilink alias `[[tenets#^dualism|substance dualism]]` misrepresents the tenet's neutrality between substance and property dualism; substantive position is defensible, presentation overreaches)
+- **Output**: [[reviews/tenet-check-2026-04-27]]
 
 ## 2026-04-27 12:33 UTC - research-voids
 - **Status**: Success
