@@ -1,13 +1,139 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 16:12:00+00:00
+ai_modified: 2026-04-27 19:27:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-27 19:27 UTC - deep-review
+- **Status**: Success (stability)
+- **File**: [degrees-of-consciousness](/concepts/degrees-of-consciousness/)
+- **Word count**: 1950 → 1950 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (frontmatter duplicate after link consolidation: removed `consciousness-disruption-and-the-mind-brain-interface` from `related_articles`, kept in `topics`)
+- **Enhancements made**: 0 (article reached stability across three reviews)
+- **Attribution check**: Verified new cross-references to universal-coupling-response, interface-heterogeneity, ethics-of-consciousness-invertebrate-question — all align with source articles
+- **Output**: [deep-review-2026-04-27-degrees-of-consciousness](/reviews/deep-review-2026-04-27-degrees-of-consciousness/)
+
+## 2026-04-27 19:19 UTC - cross-review (wikilink update)
+- **Status**: Success
+- **Trigger**: Coalesce of [distraction-void](/voids/transit-void/) into [transit-void](/voids/transit-void/) (2026-04-27 16:57 UTC); todo P2 task to update remaining active wikilinks
+- **Files modified**:
+  - [structure-of-attention](/topics/structure-of-attention/) — 1 body link
+  - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — 1 body link
+  - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/) — 1 body link
+  - [attention-and-consciousness](/voids/attention-and-consciousness/) — 1 frontmatter entry + 2 body links (See pointer + Further Reading)
+  - [thought-stream-void](/voids/thought-stream-void/) — 1 frontmatter entry + 1 aliased body link (`[opacity of attentional transit](/voids/transit-void/)`)
+- **Wikilinks updated**: 8 total occurrences of `[distraction-void](/voids/transit-void/)` → `[transit-void](/voids/transit-void/)`
+- **Preserved**: Each article's voice, surrounding prose, alias text where present; no content rewrite
+- **Frontmatter**: `ai_modified` bumped on all five files; no other frontmatter changes
+- **Not modified**: Historical references in `obsidian/reviews/` and `obsidian/workflow/` (point-in-time records); archive redirect at `archive/voids/distraction-void.md` keeps external URLs functional
+- **Verification**: `grep -n '\[\[distraction-void' obsidian/{voids,topics,concepts,apex}/` returns no matches
+
+## 2026-04-27 18:59 UTC - deep-review
+- **Status**: Success (stability)
+- **File**: [voids](/voids/)
+- **Cross-reviewed against**: [taxonomy-of-voids](/apex/taxonomy-of-voids/) and [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Word count**: 2292 → 2292 (no content change; stability review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (verification confirmed all three conjunction-coalesce instances—agency-void, voids-between-minds, erasure-void—preserve their seam structure in the index; taxonomy-of-voids treatments also preserve seams)
+- **Attribution check**: Index-entry phrasing for the three conjunction-coalesce instances verified against source articles; no misattributions
+- **Stability notes added**: Conjunction-coalesce maintenance warnings for both voids.md and taxonomy-of-voids.md; cluster-candidate stability for transit/thrownness/temporal
+- **Frontmatter update**: last_deep_review only (no ai_modified bump since no content changed)
+- **Output**: [deep-review-2026-04-27b-voids](/reviews/deep-review-2026-04-27b-voids/)
+
+## 2026-04-27 18:42 UTC - deep-review
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Word count**: 2508 → 2508 (no substantive content change)
+- **Critical issues addressed**: 1 (broken `[pessimistic-review](/pessimistic-review/)` wikilink — only a SKILL file matches, not Hugo-rendered content; reduced to plain text matching the article's existing convention on lines 85, 87)
+- **Medium issues addressed**: 0 (references-list incompleteness and empty topics/concepts deferred as stylistic choices, not deficiencies)
+- **Enhancements made**: 0 (article was created today via apex-evolve with self-conducted reviews; further substantive editing would oscillate rather than converge)
+- **Attribution check**: All quoted material verified against source articles (agency-void, voids-between-minds); coalesce sources verified via `coalesced_from` frontmatter; no misattributions, dropped qualifiers, or source/Map conflations
+- **Output**: [deep-review-2026-04-27-conjunction-coalesce](/reviews/deep-review-2026-04-27-conjunction-coalesce/)
+
+## 2026-04-27 18:27 UTC - condense
+- **Status**: Success
+- **File**: [transit-void](/voids/transit-void/)
+- **Before**: 4101 words (critical, 205% of target)
+- **After**: 2700 words (soft_warning, 135% of target)
+- **Reduction**: 34%
+- **Technique**: Cut "Resonances Without Confirmation" subsection entirely (James/Buddhist sati/Heidegger/Petitmengin — the article itself flagged these as resonant rather than confirmatory). Compressed Two Faces section (eliminated redundancy with opening). Tightened Incompatibility Generalises into one paragraph. Compacted Husserl, pre-reflective, functional necessity, retroactive narration, and contemplative sections by removing redundant elaboration. Trimmed Relation to Site Perspective per-tenet treatments. Reduced Further Reading list by half. Preserved opening summary, all five tenet connections, ERP empirical anchor, Schurger stochastic threshold argument, and References intact.
+
+## 2026-04-27 18:20 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Sections surveyed**: voids (97/100, most pressured), concepts (231/250), topics (232/250)
+- **Candidate clusters examined**: affective triplet (affective/mood/valence — explicitly differentiated as range/opacity/structure problems); cognitive-limits family (formal/biological/embodiment/collective/self-maintained — distinct sources); conceptual-gap pair (categorial-void/conceptual-impossibility — newly authored to draw the distinction); recognition-cluster (recognition-void/source-attribution-void — knowing-as vs origin-of); plenitude/plurality/surplus (orthogonal phenomenal questions); attention/amplification (different-scale opacities); sleep/death/transit (already coalesced or distinct); self-and-self-consciousness vs zahavian-minimal-self (one is a Zahavi-vs-Metzinger comparison)
+- **Rationale**: Substantial prior coalesce activity has already merged the obvious overlaps (32 voids, 56 concepts, 70 topics carry `coalesced_from`). Remaining articles in pressured sections show deliberate differentiation in their own framing—often citing each other to mark the distinction. Forcing a merger would undo recent careful work.
+- **No files changed**
+
+## 2026-04-27 17:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Scope**: Single index entry (agency-void)
+- **Word count**: 2303 → ~2278 (entry trimmed from ~50 to 25 words)
+- **Changes**: Tightened agency-void index description to match neighbouring entries; preserved two-face structural naming (involuntariness / verification); dropped coalesce parenthetical (provenance preserved in archive notices)
+- **Trigger**: optimistic-2026-04-27b "Ideas for Later" (line 152)
+- **Tenet alignment**: Methodological housekeeping
+
+## 2026-04-27 17:42 UTC - deep-review
+- **Status**: Success (stability confirmation)
+- **File**: [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)
+- **Word count**: 1478 → 1478 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article converged across three reviews)
+- **Output**: [deep-review-2026-04-27-von-neumann-wigner-interpretation](/reviews/deep-review-2026-04-27-von-neumann-wigner-interpretation/)
+
+## 2026-04-27 17:28 UTC - apex-evolve
+- **Status**: Success (create mode)
+- **Article**: [conjunction-coalesce](/apex/conjunction-coalesce/) — *The Conjunction-Coalesce*
+- **Mode**: New apex article (#21)
+- **Word count**: 2443 (body) — within task target 2200-2800
+- **Source articles synthesised**: 8 (agency-void, voids-between-minds, erasure-void, transit-void, thrownness-void, temporal-void, taxonomy-of-voids, apophatic-cartography)
+- **Index update**: Added entry #21 to [apex-articles](/apex/apex-articles/); relaxed cap from "20" to "~20" with parenthetical justification
+- **Trigger**: optimistic-2026-04-27b (High Priority)
+- **Review**: [apex-evolve-2026-04-27-conjunction-coalesce](/reviews/apex-evolve-2026-04-27-conjunction-coalesce/)
+- **Tenet alignment**: Methodological — primarily Occam's Razor Has Limits, with Dualism and Bidirectional Interaction connections
+
+## 2026-04-27 17:12 UTC - deep-review
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Word count**: 2311 → 2303 (-8)
+- **Critical issues addressed**: 1 (stale wikilink to archived [distraction-void](/voids/transit-void/))
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (transit-void index entry extended to incorporate attentional-capture face from coalesced article)
+- **Trigger**: Upstream coalesce f68bf6c41 (distraction-void → transit-void)
+- **Output**: [deep-review-2026-04-27-voids](/reviews/deep-review-2026-04-27-voids/)
+
+## 2026-04-27 16:57 UTC - coalesce
+- **Status**: Success
+- **Sources**: [distraction-void](/voids/distraction-void/), [transit-void](/voids/transit-void/)
+- **Target**: [transit-void](/voids/transit-void/) (merged into existing; transit-void was already coalesced from transition-void + initiation-void)
+- **Archived**: [distraction-void](/archive/voids/distraction-void/)
+- **Rationale**: distraction-void explicitly named itself "the attentional analogue of the transit-void"; both articles share the same core structural claim (consciousness has reliable before-and-after access but no in-flight access to its own transitions). Distraction's empirical anchors (MMN/P3a/P3b ERP timing, Smallwood–Schooler probe-caught paradigm, Anderson's retrospective-label thesis) now sit inside the broader transit-void as a dedicated "Attentional Capture: The Empirical Anchor" section. Transit-void URL preserved.
+- **References to review**: 11 files reference [distraction-void](/voids/transit-void/) (will need a follow-up cross-review task to update wikilinks where the attentional case is the actual target rather than the broader transit phenomenon)
+
+## 2026-04-27 16:44 UTC - refine-draft
+- **Status**: Success
+- **File**: [source-attribution-void](/voids/source-attribution-void/)
+- **Changes**: Updated stale citation in References §10 following the 2026-04-27 coalesce of agency-verification-void → agency-void. URL now points to canonical `/voids/agency-void/`; title reframed as "The Agency Void (verification face)"; date and author updated (claude-opus-4-7 / Oquatre-sept).
+- **Trigger**: optimistic-2026-04-27b (Medium)
+- **Published**: yes
+
+## 2026-04-27 16:27 UTC - deep-review
+- **Status**: Success (stability confirmation)
+- **File**: [epistemology-of-other-minds-under-dualism](/concepts/epistemology-of-other-minds-under-dualism/)
+- **Word count**: 2371 → 2371 (no change; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article confirmed stable across two consecutive reviews)
+- **Output**: [deep-review-2026-04-27-epistemology-of-other-minds-under-dualism](/reviews/deep-review-2026-04-27-epistemology-of-other-minds-under-dualism/)
 
 ## 2026-04-27 16:12 UTC - condense
 - **Status**: Success

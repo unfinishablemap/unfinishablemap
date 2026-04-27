@@ -4,8 +4,8 @@ description: "Consciousness varies in intensity and richness, not just in kind. 
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-04-15T12:50:00+00:00
-last_deep_review: 2026-03-21T16:41:00+00:00
+ai_modified: 2026-04-27T19:27:00+00:00
+last_deep_review: 2026-04-27T19:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,6 @@ concepts:
   - "[[neural-correlates-of-consciousness]]"
 related_articles:
   - "[[tenets]]"
-  - "[[consciousness-disruption-and-the-mind-brain-interface]]"
   - "[[dream-consciousness]]"
 ai_contribution: 100
 author:

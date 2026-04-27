@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-15 12:50:00+00:00
+ai_modified: 2026-04-27 19:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,11 +21,10 @@ description: Consciousness varies in intensity and richness, not just in kind. G
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 16:41:00+00:00
+last_deep_review: 2026-04-27 19:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-disruption-and-the-mind-brain-interface]]'
 - '[[dream-consciousness]]'
 title: Degrees of Consciousness
 topics:
