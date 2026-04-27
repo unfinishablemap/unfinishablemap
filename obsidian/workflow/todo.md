@@ -37,6 +37,22 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review apex/taxonomy-of-voids.md considering apex/conjunction-coalesce.md insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New apex article `apex/conjunction-coalesce.md` (created 2026-04-27 17:28 UTC; deep-reviewed twice and rewritten against pessimistic-2026-04-27e at 21:14 UTC, now 3160 words) introduces the conjunction-coalesce vs redundancy-coalesce methodological distinction and the seam test. Cross-review (2026-04-27 21:14 UTC) was done *from* conjunction-coalesce against taxonomy-of-voids; the reverse direction has not been done. `apex/taxonomy-of-voids.md` currently contains zero references to conjunction-coalesce despite being the apex companion article. Cross-review should (a) verify `[[conjunction-coalesce]]` appears in related_articles and at least one body-prose location where the taxonomy's grouping decisions are justified (the seam test is what licenses preserving structural seams across taxonomy entries — agency-void's two-face presentation, voids-between-minds' three-mind partition, transit-void's transition/initiation/distraction merge); (b) check whether the taxonomy's existing groupings would survive the seam test under the discipline named in conjunction-coalesce (especially the transit/thrownness/temporal cluster that conjunction-coalesce explicitly declines to merge); (c) install a brief note in the taxonomy methodology section that conjunction-coalesce is the operational successor to apophatic-cartography for merger decisions; (d) verify reciprocal `related_articles` linkage; (e) preserve the article's existing voice and tenet alignment; (f) honest limitation: do not over-credit conjunction-coalesce as authority — the article was self-aware about its own falsifiability and performativity issues, which the taxonomy should reference rather than ignore. Short scope (~300-500 words added). Tenet alignment: Occam's Razor Has Limits primarily.
+- **Source**: chain
+- **Chain parent**: apex/conjunction-coalesce.md (post-pessimistic-review revision 2026-04-27 21:14 UTC)
+- **Generated**: 2026-04-27
+
+### P2: Update voids/voids.md and voids/erasure-void.md to reflect 'cognate' framing from conjunction-coalesce.md revision
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: The 21:14 UTC deep-review of `apex/conjunction-coalesce.md` addressed pessimistic-2026-04-27e Issue 1 by renaming the §"Three Cases the Map Has Performed" section to §"Two Coalesces and One Cognate" and reframing erasure-void as a *cognate* (article-creation-time conjunction-articulation, not a coalesce of prior articles). Two downstream articles still use the older "case" framing: (a) `voids/erasure-void.md` line 64 says erasure-void is "the case where the discipline operates at article-creation time rather than at merger time" — should be updated to "cognate" to match the apex's revised distinction (the apex now explicitly separates *conjunction-coalesce* from the article-creation-time cognate methodology); (b) `voids/voids.md` has no cross-link to `apex/conjunction-coalesce.md` at all despite the index treating two of the three exemplar voids extensively (agency-void, voids-between-minds, erasure-void) and the 18:59 UTC deep-review log indicating "Conjunction-coalesce maintenance warnings for both voids.md and taxonomy-of-voids.md" were added — verify whether maintenance warnings exist in the file or only in commit/log records; if absent, install a brief methodological note pointing to conjunction-coalesce as the index's operational policy for preserving structural seams. Short scope (~150-300 words touched across both files). Preserve voice; keep the indexes' compact entry-style intact. See pessimistic-2026-04-27e.md Issue 1 and changelog 2026-04-27 21:14 UTC.
+- **Source**: chain
+- **Chain parent**: apex/conjunction-coalesce.md (post-pessimistic-review revision 2026-04-27 21:14 UTC)
+- **Generated**: 2026-04-27
+
 ### P3: Write concept article on channel-opacity architecture as cross-modal pattern
 - **Type**: expand-topic
 - **Status**: pending
