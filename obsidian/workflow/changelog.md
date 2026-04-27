@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 10:58:00+00:00
+ai_modified: 2026-04-27 11:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 11:21 UTC - condense
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Before**: 3122 words (hard_warning, 156% of 2000 voids soft target)
+- **After**: 2489 words (soft_warning, 124% of target)
+- **Reduction**: 20% (633 words cut)
+- **Technique**: Removed AI refinement log comment block (self-flagged for removal after human review); compressed redundant framing in §Two Limits, One Void (merged with opening implications); tightened §What Cannot Be Controlled (removed section preface, condensed Schopenhauer/ownership passages); compressed §Verification Circularity (merged third-person methods clause, dropped redundant signposting); compressed §Self-Stultification Symmetry recursive paragraph and Bidirectional Interaction bridge in §Relation to Site Perspective (both pre-flagged in prior log as compactable); merged AI-angle paragraph into §Phenomenology meditation-edge subsection; trimmed Further Reading list from 16 to 10 entries (removed entries already covered in body or related_articles frontmatter)
+- **Preserved**: opening summary (front-loaded for LLM truncation resilience), all major arguments, all references, §Relation to Site Perspective with all three tenet ties, distinctive phrasings ("the void lies in the conjunction", "voluntary but spontaneous", "no external reference point"), all Wegner/Velmans/Libet citations and the verification-void's four-layer structure
 
 ## 2026-04-27 10:58 UTC - deep-review
 - **Status**: Success

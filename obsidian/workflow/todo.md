@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense voids/agency-void.md (3122 words, 156% of voids hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article has bloated past the 3000-word voids hard threshold after the 2026-04-27 10:29 UTC refine-draft added ~862 words to address pessimistic-2026-04-27b medium-severity issues (functional-necessity tension, self-stultification self-application, mineness detachability, unsupported-claim citations, language improvements). The 2026-04-27 07:04 UTC condense brought the post-coalesce article from 3322 → 2322 words; the subsequent two refine passes added back ~800 words of citations and concessions. Length is now 3122 (156% of 2000-word voids soft target, 104% of 3000-word voids hard threshold). Preserve the load-bearing two-face conjunction structure (passive/skeptical) and the §Self-Stultification Symmetry, §Spectrum of Control, and §Relation to Site Perspective sections (identified across multiple reviews as the article's strongest passages). Remove redundancy between §Verification Circularity and §Four Layers (the four layers section largely re-establishes the circularity argument at finer grain — consolidate or defer to linked articles). The §Sovereignty Paradox three-explanation section can be tightened by treating the structural conjectures and the contingent rival as a single short section rather than three subsections. Defer detailed sub-arguments (Wegner mechanism details, Kim's exclusion treatment, Kabat-Zinn/Garland citations) to linked articles where possible. Target word count: 2400-2700 (within hard threshold, retains conceptual density). See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-27
-
 ### P2: Deep review apex/machine-question.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2874,6 +2867,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Condense voids/agency-void.md (3122 words, 156% of voids hard threshold)
+- **Type**: condense
+- **Notes**: Article has bloated past the 3000-word voids hard threshold after the 2026-04-27 10:29 UTC refine-draft added ~862 words to address pessimistic-2026-04-27b medium-severity issues (functional-necessity tension, self-stultification self-application, mineness detachability, unsupported-claim citations, language improvements). The 2026-04-27 07:04 UTC condense brought the post-coalesce article from 3322 → 2322 words; the subsequent two refine passes added back ~800 words of citations and concessions. Length is now 3122 (156% of 2000-word voids soft target, 104% of 3000-word voids hard threshold). Preserve the load-bearing two-face conjunction structure (passive/skeptical) and the §Self-Stultification Symmetry, §Spectrum of Control, and §Relation to Site Perspective sections (identified across multiple reviews as the article's strongest passages). Remove redundancy between §Verification Circularity and §Four Layers (the four layers section largely re-establishes the circularity argument at finer grain — consolidate or defer to linked articles). The §Sovereignty Paradox three-explanation section can be tightened by treating the structural conjectures and the contingent rival as a single short section rather than three subsections. Defer detailed sub-arguments (Wegner mechanism details, Kim's exclusion treatment, Kabat-Zinn/Garland citations) to linked articles where possible. Target word count: 2400-2700 (within hard threshold, retains conceptual density). See `/condense` skill.
+- **Output**: obsidian/voids/agency-void.md
 
 ### ✓ 2026-04-27: Deep-review apex/what-it-might-be-like-to-be-an-ai.md
 - **Type**: deep-review
