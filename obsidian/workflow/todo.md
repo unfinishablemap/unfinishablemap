@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write concept article on channel-opacity architecture as cross-modal pattern
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27c (High Priority). The *channel-with-opacity-gradient* logic appears across `voids/interoceptive-void` (three absence-faces: constitutively-unfelt, summarised, gated), `voids/mood-void` (three opacity-layers: origin, identity, constitutive), `voids/predictive-construction-void` (four mechanisms of inspection failure), and `voids/boundary-and-projection` (static edge / dynamic shift) without being named as a methodological pattern. A concept article (target: `concepts/channel-opacity-architecture.md`) would install this as the architectural common feature underlying the Map's apophatic cartography. Should (a) name the pattern explicitly, (b) survey the four cases above with their distinctive opacity gradients, (c) identify the predictive payoff (the interface model predicts channel-by-channel variation; uniform-substrate models do not), (d) cite the 2025 Frontiers in Psychology "There is no such thing as interoception" paper as the methodological frame. Estimated scope: ~2000–2500 words. Tenet alignment: Dualism (channel architecture is the interface model's central commitment), Occam's Razor Has Limits (unitary labels flatten the heterogeneity that maps the limits). NOTE: concepts/ is at 231 articles vs 250 cap — within capacity.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
+### P3: Write concept article on Damasio's "feelings constitute consciousness" as the contrary reading
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27c (High Priority). Damasio's 2023 *Neural Computation* paper "Feelings are the source of consciousness" is the most credible contemporary alternative to the Map's *consciousness-has-the-felt-body* framing. Currently engaged in one paragraph in `voids/interoceptive-void.md` §Relation to Site Perspective (line 90); deserves a full concept article. Article should (a) faithfully reconstruct Damasio's positive position, (b) identify exactly where it diverges from the Map's interface reading (Damasio: feelings are constitutive of consciousness; Map: feelings are had by consciousness as objects), (c) note that both readings are coherent with the empirical record on interoception, (d) locate the dialectical pressure points (Damasio's reading explains affective phenomenology more economically; the Map's reading explains the constitutively-unfelt channels more naturally). Target: `concepts/damasio-feelings-constitute-consciousness.md`. Estimated scope: ~2500 words. Tenet alignment: Dualism (clarifies Map/Damasio divergence), Bidirectional Interaction (Damasio's reading is interactionist-adjacent — the dialectical positioning matters).
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
+### P3: Add reciprocal cross-links from neighbour voids and concepts to voids/interoceptive-void.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27c (Cross-Linking Suggestions). The new `voids/interoceptive-void.md` (created 2026-04-27 14:42 UTC) is reciprocally linked to embodiment-cognitive-limits, boundary-and-projection, predictive-construction-void, and somatic-interface, but five further articles have load-bearing structural connections without cross-links: (a) `voids/affective-void.md` — affective valence often arrives via interoceptive channels; (b) `voids/ownership-void.md` — body-felt-as-mine is the densest ownership case; (c) `concepts/pain-asymbolia.md` — canonical demonstration of nociceptive signal/phenomenal pain dissociation; (d) `concepts/embodied-cognition.md` — 4E's constitutive-embodiment thesis is constrained by which bodily processes are accessible; (e) `voids/causal-interface.md` — interoceptive void identifies the body's interior as candidate locus for the consciousness-physics contact. Short scope (~250–400 words across five articles). Should preserve each article's existing voice and tenet alignment.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
 ### P2: Cross-link voids/agency-void.md to voids/inference-void.md and voids/tacit-integration-void.md
 - **Type**: cross-review
 - **Status**: pending
