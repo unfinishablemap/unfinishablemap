@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 16:00:00+00:00
+ai_modified: 2026-04-27 16:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 16:12 UTC - condense
+- **Status**: Success
+- **File**: [[voids/agency-void]]
+- **Before**: 2639 words
+- **After**: 2143 words
+- **Reduction**: 19%
+- **Technique**: Tightened section openings; trimmed citation chains for uncontroversial points (Gallagher, Frith, Pacherie, Bateson, Kabat-Zinn/Garland/Grant&Rainville, Goldman, Zahavi); condensed nirodha samapatti to a single mention in Spectrum of Control (its detail lives in Phenomenology); merged Self-Stultification Symmetry and Reflexive subsections to a tighter argument; pruned 9 unused references and renumbered.
 
 ## 2026-04-27 15:58 UTC - deep-review
 - **Status**: Success

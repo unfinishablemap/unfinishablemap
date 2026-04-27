@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
-### P2: Condense voids/agency-void.md (3065 words, 153% of voids hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word voids hard threshold per length analysis. Agency-void was condensed 07:04 UTC (3322 → 2322 words) but subsequent refine-drafts (08:14, addressing pessimistic-2026-04-27b Issues 1-2; later refines addressing Issues 3-7 and adding self-application paragraph and intervention-methodologies layer) have grown the article back to 3065 words. The two-face conjunction structure (passive / skeptical) is the article's load-bearing claim and must be preserved — see optimistic-2026-04-27b §Content Strengths. Condense should (a) preserve §Two Limits, One Void as the article's spine, (b) preserve §Self-Stultification Symmetry (the article's most consequential dialectical achievement), (c) preserve §Verification Circularity's first-person/third-person distinction (recently installed), (d) preserve the §Self-Application paragraph and the intervention-methodologies layer, (e) tighten §Spectrum of Control and §Sovereignty Paradox (the three explanations can compress without loss), (f) defer detailed sub-arguments to linked articles where possible. Target word count: ~2400-2600 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-27
-
 ### P2: Update reference list URLs in source-attribution-void.md and thrownness-void.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2888,6 +2881,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Condense voids/agency-void.md (3065 words, 153% of voids hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word voids hard threshold per length analysis. Agency-void was condensed 07:04 UTC (3322 → 2322 words) but subsequent refine-drafts (08:14, addressing pessimistic-2026-04-27b Issues 1-2; later refines addressing Issues 3-7 and adding self-application paragraph and intervention-methodologies layer) have grown the article back to 3065 words. The two-face conjunction structure (passive / skeptical) is the article's load-bearing claim and must be preserved — see optimistic-2026-04-27b §Content Strengths. Condense should (a) preserve §Two Limits, One Void as the article's spine, (b) preserve §Self-Stultification Symmetry (the article's most consequential dialectical achievement), (c) preserve §Verification Circularity's first-person/third-person distinction (recently installed), (d) preserve the §Self-Application paragraph and the intervention-methodologies layer, (e) tighten §Spectrum of Control and §Sovereignty Paradox (the three explanations can compress without loss), (f) defer detailed sub-arguments to linked articles where possible. Target word count: ~2400-2600 words. See `/condense` skill.
+- **Output**: obsidian/voids/agency-void.md
 
 ### ✓ 2026-04-27: Cross-link voids/agency-void.md to voids/inference-void.md and voids/tacit-integration-void.md
 - **Type**: cross-review
