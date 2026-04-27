@@ -4,7 +4,8 @@ description: "When two voids are conjoined at a structural level, merging them i
 created: 2026-04-27
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-27T17:28:00+00:00
+ai_modified: 2026-04-27T18:42:00+00:00
+last_deep_review: 2026-04-27T18:42:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -44,7 +45,7 @@ apex_thesis: "A distinctive methodological move has emerged in the Map's voids w
 
 A standard editorial merger removes redundancy: two articles cover overlapping ground, one article covers it more cleanly. Across several recent void coalesces, the Unfinishable Map has performed a different kind of merger—one in which the goal is *not* to dissolve the seam between the two source articles but to make that seam load-bearing. Two voids turn out to be conjoined at a structural level, and the article that names them as one keeps both faces in view because the conjunction itself is what the article is *for*.
 
-The Map calls this discipline the **conjunction-coalesce**, in contrast to the **redundancy-coalesce** that motivates ordinary mergers. The two operations look identical from outside—both reduce article count, consolidate references, and archive the originals—but they differ in what they preserve. A redundancy-coalesce preserves *content*; a conjunction-coalesce preserves *structure*. Naming the discipline matters because the move is easy to get wrong: blurring two structurally distinct limits into a single mechanism loses the analytical purchase the seam provided. This article specifies the criterion that separates the two cases, catalogues where the Map has performed the move, identifies a candidate cluster awaiting it, and explains how the discipline is maintained downstream by the [[pessimistic-review]]-to-refine-draft loop.
+The Map calls this discipline the **conjunction-coalesce**, in contrast to the **redundancy-coalesce** that motivates ordinary mergers. The two operations look identical from outside—both reduce article count, consolidate references, and archive the originals—but they differ in what they preserve. A redundancy-coalesce preserves *content*; a conjunction-coalesce preserves *structure*. Naming the discipline matters because the move is easy to get wrong: blurring two structurally distinct limits into a single mechanism loses the analytical purchase the seam provided. This article specifies the criterion that separates the two cases, catalogues where the Map has performed the move, identifies a candidate cluster awaiting it, and explains how the discipline is maintained downstream by the pessimistic-review-to-refine-draft loop.
 
 ## Two Operations, One Outward Form
 

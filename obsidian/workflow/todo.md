@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review apex/conjunction-coalesce.md (newly created apex article, no prior review)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: New apex article created 2026-04-27 17:28 UTC via apex-evolve, naming the *conjunction-coalesce* / *seam-preserving merger* methodological discipline. No `last_deep_review` field set; ai_contribution: 100. As a methodological apex with stake in how the Map treats coalesce decisions going forward, this needs the standard deep-review checks: (a) verify each catalogued case (agency-void, voids-between-minds, erasure-void) actually exhibits the conjunction-coalesce structure rather than standard coalesce; (b) confirm the falsification condition stated for the discipline is genuinely operational (under what observation would a successful conjunction-coalesce be wrongly diagnosed?); (c) check for symmetric-prediction problems against the standard-coalesce alternative; (d) verify the un-coalesced temporal-void / transit-void / thrownness-void framing now that transit-void itself was coalesced today; (e) preserve the article's distinction from the *concept extraction* method named separately. Tenet alignment: Methodological — directly Occam's Razor Has Limits.
-- **Source**: chain (from apex-evolve completion 2026-04-27)
-- **Generated**: 2026-04-27
-
 ### P2: Cross-review voids/voids.md and apex/taxonomy-of-voids.md considering conjunction-coalesce apex insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2874,6 +2867,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Deep-review apex/conjunction-coalesce.md (newly created apex article, no prior review)
+- **Type**: deep-review
+- **Notes**: New apex article created 2026-04-27 17:28 UTC via apex-evolve, naming the *conjunction-coalesce* / *seam-preserving merger* methodological discipline. No `last_deep_review` field set; ai_contribution: 100. As a methodological apex with stake in how the Map treats coalesce decisions going forward, this needs the standard deep-review checks: (a) verify each catalogued case (agency-void, voids-between-minds, erasure-void) actually exhibits the conjunction-coalesce structure rather than standard coalesce; (b) confirm the falsification condition stated for the discipline is genuinely operational (under what observation would a successful conjunction-coalesce be wrongly diagnosed?); (c) check for symmetric-prediction problems against the standard-coalesce alternative; (d) verify the un-coalesced temporal-void / transit-void / thrownness-void framing now that transit-void itself was coalesced today; (e) preserve the article's distinction from the *concept extraction* method named separately. Tenet alignment: Methodological — directly Occam's Razor Has Limits.
+- **Output**: obsidian/apex/conjunction-coalesce.md
 
 ### ✓ 2026-04-27: Condense voids/transit-void.md (4101 words, 205% of voids critical threshold)
 - **Type**: condense
