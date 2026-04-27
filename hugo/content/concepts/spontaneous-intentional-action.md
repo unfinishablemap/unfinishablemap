@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-04-20 20:38:00+00:00
+ai_modified: 2026-04-27 06:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Actions that are genuinely intentional yet arise without prior deli
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 02:27:00+00:00
+last_deep_review: 2026-04-27 06:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -37,6 +37,7 @@ related_articles:
 - '[[eastern-philosophy-consciousness]]'
 - '[[the-observer-witness-in-meditation]]'
 - '[[contemplative-practice-as-philosophical-evidence]]'
+- '[[agency-void]]'
 title: Spontaneous Intentional Action
 topics:
 - '[[topics/free-will]]'
@@ -140,9 +141,9 @@ The account of spontaneous intentional action offered here would face difficulty
 
 ## Further Reading
 
-- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing that spontaneous action compresses or bypasses
-- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The full deliberative arc that spontaneous action compresses
+- [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The four components of willing and the full deliberative arc that spontaneous action compresses or bypasses
 - [agent-causation](/concepts/agent-causation/) — Why agents, not events, are the source of action
+- [agency-void](/voids/agency-void/) — The complementary territory: what consciousness cannot control, and why it cannot verify its own causal role
 - [phenomenology-of-agency-vs-passivity](/topics/phenomenology-of-agency-vs-passivity/) — The spectrum from doing to undergoing
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface between consciousness and neural processing
 - [mental-effort](/concepts/mental-effort/) — Why effort tracks difficulty of selection, not presence of selection

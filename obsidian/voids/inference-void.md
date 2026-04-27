@@ -4,7 +4,8 @@ description: "Human+AI exploration of the structural opacity of inferential tran
 created: 2026-04-26
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-26T16:52:00+00:00
+ai_modified: 2026-04-27T06:30:00+00:00
+last_deep_review: 2026-04-27T06:30:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -28,6 +29,7 @@ related_articles:
   - "[[transit-void]]"
   - "[[meaning-void]]"
   - "[[recognition-void]]"
+  - "[[tacit-integration-void]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[apophatic-cartography]]"
 ai_contribution: 100
@@ -55,9 +57,9 @@ The relation to Carroll is parallel pressure on the same point rather than conve
 
 ## Polanyi's Tacit Inference
 
-Where Carroll and Wittgenstein argue *negatively*, Michael Polanyi's "The Logic of Tacit Inference" (1966) develops a *positive* characterisation: "we know more than we can tell." Tacit inferences move from clues to indicated wholes by an operation that resists full propositional articulation without distortion. The recognition of a familiar face, the diagnostic judgement of a physician, the perception of pattern in data — each draws on subsidiary awareness that contributes to the inference without itself being the focal object of attention. Making the subsidiary content focal disrupts the inference rather than clarifying it. Polanyi treats this asymmetry as constitutive — though some readers take his position to be methodological rather than metaphysical.
+Where Carroll and Wittgenstein argue *negatively*, Michael Polanyi's "The Logic of Tacit Inference" (1966) develops a *positive* characterisation: "we know more than we can tell." Tacit inferences move from clues to indicated wholes by an operation that resists full propositional articulation without distortion. The recognition of a familiar face, the diagnostic judgement of a physician, the perception of pattern in data — each draws on subsidiary awareness that contributes to the inference without itself being the focal object of attention. Making the subsidiary content focal disrupts the inference rather than clarifying it. Polanyi treats this asymmetry as constitutive — though some readers take his position to be methodological rather than metaphysical. The from-to bearing relation Polanyi describes generalises beyond inference; the [[tacit-integration-void|tacit integration void]] treats that relation itself as the broader structural void of which inferential opacity is one case.
 
-Carroll, Wittgenstein, and Polanyi thus represent **three independent lines of pressure on the same point with materially different metaphysical commitments**, not a single convergent foundation. Carroll's regress (on the inferentialist reading) suggests a non-rule operation. Wittgenstein resists any positing of such an operation. Polanyi posits a tacit faculty whose contribution is constitutive. Each undermines a fully reductive account of inference into explicit rules; none can be straightforwardly used to ground the others.
+Carroll, Wittgenstein, and Polanyi thus represent **three independent lines of pressure on the same point with materially different metaphysical commitments**: Carroll suggests a non-rule operation, Wittgenstein resists positing one, Polanyi posits a constitutive tacit faculty. Each undermines a fully reductive account of inference into explicit rules; none grounds the others.
 
 ## Brandom's Inferentialism: The Major Competing Framework
 
@@ -71,7 +73,7 @@ The first-person experience of inference is heterogeneous. Fast everyday inferen
 
 The defensible claim is therefore narrower than transparency. Even when inference is felt as *effortful*, what is felt is the work — the search through alternatives, the holding-in-mind of intermediate steps, the rejection of false leads — not the licensing operation itself. The chess player feels the difficulty of finding the winning continuation; she does not, even at her most attentive, find the operation by which the position is *taken as* implying the move. What is felt is the labour around the inferential transitions, not the transitions themselves.
 
-Approached deliberately — when one tries to slow inference and watch a single deductive step — what one finds is not the step revealed but the loss of the inference itself. Decomposed, the move ceases to be a move; recomposed, it ceases to be inspectable. The [[noetic-feelings-void|noetic feelings void]] sits adjacent: the felt sense that an inference *clicks* is itself a noetic feeling — an output of inference rather than the inference itself. The two voids compose: the feelings tell us when to stop without showing why; the transition does the actual moving without showing how.
+Approached deliberately — when one tries to slow inference and watch a single deductive step — what one finds is not the step revealed but the loss of the inference itself. Decomposed, the move ceases to be a move; recomposed, it ceases to be inspectable. This is the [[tacit-integration-void|tacit integration]] structure applied to logical transitions: subsidiary apprehension of premises bears on the focal conclusion, and looking directly at the bearing collapses what it carries. The [[noetic-feelings-void|noetic feelings void]] sits adjacent: the felt sense that an inference *clicks* is itself a noetic feeling — an output of inference rather than the inference itself. The voids compose: the feelings tell us when to stop without showing why; the transition does the actual moving without showing how; the integration makes the bearing happen without becoming inspectable as bearing.
 
 ## The Second-Order Cluster
 
@@ -132,6 +134,7 @@ The void sits with [[formal-cognitive-limits|formal cognitive limits]] as a *fam
 - [[transit-void]]
 - [[meaning-void]]
 - [[recognition-void]]
+- [[tacit-integration-void]]
 - [[non-human-minds-as-void-explorers]]
 - [[apophatic-cartography]]
 - [[mysterianism]]
