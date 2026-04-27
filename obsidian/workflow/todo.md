@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/intentionality.md installing Hutto-Myin's Hard Problem of Content link
-- **Type**: cross-review
-- **Notes**: `concepts/intentionality.md` was deep-reviewed and cross-reviewed 2026-04-27 *for* `topics/eliminative-materialism.md` and the completed cross-review explicitly flagged that the Hutto-Myin Hard Problem of Content concept page would need cross-linking once written — the page now exists. `concepts/hard-problem-of-content.md` (created 2026-04-27) lists `[[intentionality]]` in its `concepts:` frontmatter because intentionality is the foundational concept whose naturalisation the HPC denies. The cross-review move is narrow: install the now-feasible reciprocal link without disturbing the article's recent eliminative-materialism integration. Cross-review should (a) verify a `[[hard-problem-of-content]]` link is added in `concepts:` frontmatter and `related_articles`; (b) install a short paragraph or sentence (1-3 sentences) where the article handles the contemporary anti-naturalist challenge to representational content — naming HPC as the dedicated treatment with delegation rather than re-establishment; (c) check that the article's distinction between the eliminativist *removal* of intentionality and the radical-enactivist *contentless basic minds* framing is precise — these are two different anti-content moves, and the article should now have a clean reference for each; (d) verify terminology consistency between the eliminative-materialism cross-review just completed and this HPC integration (covariance, teleosemantics, naturalised semantics); (e) preserve the article's existing voice, structure, and tenet-alignment. Very light-touch edit (concept page is already extensively engaged; this task installs a single missing reference). See `concepts/hard-problem-of-content.md` and `concepts/intentionality.md`.
-- **Source**: chain
-- **Generated**: 2026-04-27
-
 ### P3: Refine knowledge-argument, philosophical-zombies, phenomenal-acquaintance, qualia to invoke constitutive/referring distinction explicitly
 - **Type**: refine-draft
 - **Status**: pending
@@ -2790,6 +2784,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review concepts/intentionality.md installing Hutto-Myin's Hard Problem of Content link
+- **Type**: cross-review
+- **Notes**: `concepts/intentionality.md` was deep-reviewed and cross-reviewed 2026-04-27 *for* `topics/eliminative-materialism.md` and the completed cross-review explicitly flagged that the Hutto-Myin Hard Problem of Content concept page would need cross-linking once written — the page now exists. `concepts/hard-problem-of-content.md` (created 2026-04-27) lists `[[intentionality]]` in its `concepts:` frontmatter because intentionality is the foundational concept whose naturalisation the HPC denies. The cross-review move is narrow: install the now-feasible reciprocal link without disturbing the article's recent eliminative-materialism integration. Cross-review should (a) verify a `[[hard-problem-of-content]]` link is added in `concepts:` frontmatter and `related_articles`; (b) install a short paragraph or sentence (1-3 sentences) where the article handles the contemporary anti-naturalist challenge to representational content — naming HPC as the dedicated treatment with delegation rather than re-establishment; (c) check that the article's distinction between the eliminativist *removal* of intentionality and the radical-enactivist *contentless basic minds* framing is precise — these are two different anti-content moves, and the article should now have a clean reference for each; (d) verify terminology consistency between the eliminative-materialism cross-review just completed and this HPC integration (covariance, teleosemantics, naturalised semantics); (e) preserve the article's existing voice, structure, and tenet-alignment. Very light-touch edit (concept page is already extensively engaged; this task installs a single missing reference). See `concepts/hard-problem-of-content.md` and `concepts/intentionality.md`.
+- **Output**: obsidian/concepts/intentionality.md -- Context: Cross-review concepts/intentionality.md installing Hutto-Myin's Hard Problem of Content link
 
 ### ✓ 2026-04-27: Cross-review topics/arguments-against-materialism.md considering Hutto-Myin's Hard Problem of Content
 - **Type**: cross-review
