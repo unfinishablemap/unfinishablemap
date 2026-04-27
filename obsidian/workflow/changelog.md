@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 15:14:00+00:00
+ai_modified: 2026-04-27 15:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 15:30 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/agent-causation]]
+- **Source**: [[reviews/optimistic-2026-04-27b]] §"Ideas for Later" (line 150) — the agent-causation framework now appears in three load-bearing places naming the first-person verification-circularity limit (`voids/agency-void.md` §Self-Stultification Symmetry, `topics/free-will.md` line 125, `apex/consciousness-and-agency.md` Synthesis); the canonical concept page should mirror the discipline.
+- **Changes**: New §"The Verification Limit and the Convergent Case" inserted between §"Creative Generation" and §"What Would Challenge This View?" (~580 words) — explicitly acknowledges that consciousness cannot verify its own causal efficacy from inside, develops the epiphenomenalism/interactionism symmetry, and reframes the framework's positive case as structural and convergent rather than introspective. Five anchors named without first-person privilege: phenomenology of effort, neural data on willed/instructed action, argument-from-reason, clinical neuroplasticity pathway divergence, cross-cultural convergence. Reciprocal cross-links added to `voids/agency-void.md`, `topics/free-will.md`, and `apex/consciousness-and-agency.md` from the new section. Frontmatter `related_articles` extended with `[[agency-void]]`, `[[argument-from-reason]]`, `[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]`, `[[cross-cultural-convergence-on-mental-causation]]`. Further Reading list extended with `[[agency-void]]`, `[[argument-from-reason]]`, `[[clinical-neuroplasticity-evidence-for-bidirectional-causation]]`.
+- **Tenet alignment**: Bidirectional Interaction (verification limit applies to any account of mental causation), Dualism (the convergent case for agent causation survives the limit).
+- **Published**: yes (draft: false)
 
 ## 2026-04-27 15:14 UTC - refine-draft
 - **Status**: Success
