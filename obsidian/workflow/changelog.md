@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 08:14:00+00:00
+ai_modified: 2026-04-27 08:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 08:30 UTC - deep-review
+- **Status**: Success (cross-review to install agency-void reference)
+- **File**: [[apex/consciousness-and-agency]]
+- **Word count**: 3949 → 3983 (+34, still at 100% of 4000 soft cap)
+- **Critical issues addressed**: 1 (missing reference to newly coalesced [[agency-void]], which engages directly with this apex's central machinery — Wegner attribution, Libet/Schurger timing, Kim's exclusion, verification asymmetry)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added `[[agency-void]]` to `related_articles`; added one Synthesis sentence naming verification circularity as a structural limit *shared* across theories of mental causation, deferring detailed treatment to the void article)
+- **Output**: [[reviews/deep-review-2026-04-27-consciousness-and-agency]]
 
 ## 2026-04-27 08:14 UTC - refine-draft
 - **Status**: Success

@@ -4,8 +4,8 @@ description: "How does consciousness author action in a physical world? Through 
 created: 2026-01-24
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-04-23T20:16:25+00:00
-last_deep_review: 2026-04-20T06:38:00+00:00
+ai_modified: 2026-04-27T08:30:00+00:00
+last_deep_review: 2026-04-27T08:30:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -23,6 +23,7 @@ related_articles:
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[testing-the-map-from-inside]]"
   - "[[counterfactual-void]]"
+  - "[[agency-void]]"
   - "[[moral-architecture-of-consciousness]]"
   - "[[vertiginous-question]]"
 
@@ -162,7 +163,7 @@ The framework avoids this because several elements have independent grounding ou
 
 These anchor points ground the framework in independently verifiable evidence. Counterfactual reasoning provides the mechanism that makes selection reasons-responsive rather than arbitrary. Creative generation ensures the agent isn't choosing from a fixed menu but constituting the option space through imaginative exploration. The convergence extends across philosophical traditions: empirical psychology reveals the willed/automatic distinction; Sartre's phenomenology illuminates why consciousness can stand apart from its states to choose; process philosophy shows why experiential causation is continuous with causation generally; [[cross-cultural-convergence-on-mental-causation|cross-cultural convergence]]—Indian, African, and Western traditions independently concluding that consciousness is causally efficacious—provides further evidential weight.
 
-Significant uncertainties remain. The amplification mechanism—how minimal quantum bias produces macroscopic neural selection—is empirically unresolved. The temporal constitution thesis is speculative. Compatibilism offers a sophisticated alternative that many philosophers find adequate. The framework's strength lies not in certainty but in its capacity to unify independently grounded claims into a coherent account of what authorship requires.
+Significant uncertainties remain. The amplification mechanism—how minimal quantum bias produces macroscopic neural selection—is empirically unresolved. The temporal constitution thesis is speculative. Compatibilism offers a sophisticated alternative that many philosophers find adequate. The [[agency-void]] adds a structural limit shared by any account of mental causation: consciousness cannot verify its own causal role from within, since every check is performed by the very faculty under investigation. The framework's strength lies not in first-person certainty but in its capacity to unify independently grounded claims into a coherent account of what authorship requires.
 
 If the framework is correct, you are not a passive spectator of determined events nor a victim of random fluctuations but an agent—a conscious being who selects among genuinely open possibilities for reasons that matter to you. Your selections constitute your life, shape your character, ground your responsibility. The everyday sense of authorship—so easily dismissed as folk psychology—tracks the structure of mind and world.
 

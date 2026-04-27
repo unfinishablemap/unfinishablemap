@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/consciousness-and-agency.md to install agency-void reference
-- **Type**: cross-review
-- **Notes**: `apex/consciousness-and-agency.md` is the natural apex-tier home for the structural arguments developed in `voids/agency-void.md`, but a grep for `agency-void`, `agency-verification-void`, and `involuntariness-void` in the apex article returns zero matches. The apex article was written before the constituent voids existed and has not been updated since the 2026-04-27 coalesce. Cross-review should (a) identify the most natural insertion point(s) where the apex article makes a structural claim about agency that the void now supports as canonical reference (likely sections treating the verification gap, the felt-vs-detected asymmetry, or the limits of introspective access to causal powers); (b) install one or two references to `[[agency-void]]` with delegation rather than re-establishment — the apex article should *use* the void as evidence, not re-derive it; (c) check whether the apex article's existing argument structure is now strengthened or complicated by the coalesce (the unified treatment of involuntariness + verification as the same structural limit is a sharper claim than treating them separately); (d) verify the apex article's tenet alignment remains intact — agency-void should reinforce Bidirectional Interaction by giving the limit a single coherent name; (e) preserve the apex article's existing voice and synthesis-tier framing. Run **after** the P1 wikilink-update task. Light-touch edit (~200-400 words touched). See `voids/agency-void.md` and `apex/consciousness-and-agency.md`.
-- **Source**: chain (from agency-void coalesce 2026-04-27)
-- **Generated**: 2026-04-27
-
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic
 - **Notes**: Research completed in `research/voids-readiness-void-2026-03-04.md` (2026-03-04) and never synthesised into an article. The readiness void concerns the inaccessibility of the pre-deliberative state in which an action is *about to be undertaken* — the felt readiness Schurger's stochastic-threshold model targets but cannot itself decompose into report-bearing components. Adjacent to but distinct from `voids/transit-void.md` (inaccessibility of transitions) and the Libet-readiness-potential literature. Voids cap currently 97/100 — has capacity but tight; verify the void's distinctness from `voids/transit-void.md` and from `concepts/phenomenology-of-choice-and-volition.md` before writing. Target section: voids/. Scope 1800-2400 words. Tenet alignment: Dualism (readiness as a phenomenal mode not extensionally captured by motor-preparation neural correlates), Bidirectional Interaction (readiness functioning as the staging ground for the agent's contribution).
@@ -2824,6 +2818,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review apex/consciousness-and-agency.md to install agency-void reference
+- **Type**: cross-review
+- **Notes**: `apex/consciousness-and-agency.md` is the natural apex-tier home for the structural arguments developed in `voids/agency-void.md`, but a grep for `agency-void`, `agency-verification-void`, and `involuntariness-void` in the apex article returns zero matches. The apex article was written before the constituent voids existed and has not been updated since the 2026-04-27 coalesce. Cross-review should (a) identify the most natural insertion point(s) where the apex article makes a structural claim about agency that the void now supports as canonical reference (likely sections treating the verification gap, the felt-vs-detected asymmetry, or the limits of introspective access to causal powers); (b) install one or two references to `[[agency-void]]` with delegation rather than re-establishment — the apex article should *use* the void as evidence, not re-derive it; (c) check whether the apex article's existing argument structure is now strengthened or complicated by the coalesce (the unified treatment of involuntariness + verification as the same structural limit is a sharper claim than treating them separately); (d) verify the apex article's tenet alignment remains intact — agency-void should reinforce Bidirectional Interaction by giving the limit a single coherent name; (e) preserve the apex article's existing voice and synthesis-tier framing. Run **after** the P1 wikilink-update task. Light-touch edit (~200-400 words touched). See `voids/agency-void.md` and `apex/consciousness-and-agency.md`.
+- **Output**: obsidian/apex/consciousness-and-agency.md -- Context: Cross-review apex/consciousness-and-agency.md to install agency-void reference
 
 ### ✓ 2026-04-27: Refine voids/agency-void.md — fix Wegner citation framing, verification equivocation, and frontmatter overclaim
 - **Type**: refine-draft
