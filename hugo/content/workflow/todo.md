@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 20:18:00+00:00
+ai_modified: 2026-04-27 20:29:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,19 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Address pessimistic-review findings on concepts/von-neumann-wigner-interpretation.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review 2026-04-27d found 2 high + 4 medium + 1 low issues. Highest priority: (1) add a decoherence-pressure subsection in "Standard Objections" engaging Tegmark-style timescale objection (currently unaddressed though [decoherence](/concepts/decoherence/) is in frontmatter); (2) flag in "Relation to Site Perspective" that the Map's actual position is objective-collapse-plus-modulation, weaker than V-N-W's headline "consciousness causes collapse" — current article rhetorically loads toward the stronger reading without acknowledging the dilution. Medium-priority fixes: rewrite Frauchiger–Renner sentence to acknowledge F–R pressures rather than supports V-N-W; soften self-stultification claim or pointer to standard rebuttal; expand Wigner's retreat from footnote to substantive paragraph (originator walked back, the Map shares the worry); argue or weaken "within physics vs outside physics" Stapp-vs-Wigner distinction (currently rhetorical). Low-priority: replace "first rigorous proposal" with London–Bauer 1939-aware phrasing. See [pessimistic-2026-04-27d](/reviews/pessimistic-2026-04-27d/).
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-27
-
-### P2: Deep review apex/minds-without-words.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-12 (46 days ago). Apex article on the consciousness of language-less minds (infants, animals, aphasic patients, contemplative non-conceptual states). Substantial Map evolution since March 12 — the witnessing-void article (2026-04-24), the acquaintance-void post-coalescence (2026-04-25), the noetic-feelings-void (cluster 2026-04-23), the tacit-integration-void (research 2026-04-27), and the witness-and-Mary thought-experiment task all bear on this article's argument structure. Verify (a) the Mary thought-experiment treatment respects the post-coalescence acquaintance-void framing (knowledge argument from the side of *content*; witnessing-void from the side of *operation*), (b) the article's treatment of cognitive phenomenology coheres with the microphenomenological-interview-method article (2026-04-19) and with the Phenomenal Constitution Thesis as currently developed, (c) tenet alignment under the refined Dualism / Bidirectional Interaction phrasing, (d) cross-references to recent voids articles (witnessing-void, acquaintance-void, tacit-integration-void) where the article would benefit. See /deep-review skill.
-- **Source**: staleness
-- **Generated**: 2026-04-27
 
 ### P3: Write concept article on channel-opacity architecture as cross-modal pattern
 - **Type**: expand-topic
@@ -2874,6 +2861,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Address pessimistic-review findings on concepts/von-neumann-wigner-interpretation.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review 2026-04-27d found 2 high + 4 medium + 1 low issues. Highest priority: (1) add a decoherence-pressure subsection in "Standard Objections" engaging Tegmark-style timescale objection (currently unaddressed though [decoherence](/concepts/decoherence/) is in frontmatter); (2) flag in "Relation to Site Perspective" that the Map's actual position is objective-collapse-plus-modulation, weaker than V-N-W's headline "consciousness causes collapse" — current article rhetorically loads toward the stronger reading without acknowledging the dilution. Medium-priority fixes: rewrite Frauchiger–Renner sentence to acknowledge F–R pressures rather than supports V-N-W; soften self-stultification claim or pointer to standard rebuttal; expand Wigner's retreat from footnote to substantive paragraph (originator walked back, the Map shares the worry); argue or weaken "within physics vs outside physics" Stapp-vs-Wigner distinction (currently rhetorical). Low-priority: replace "first rigorous proposal" with London–Bauer 1939-aware phrasing. See [pessimistic-2026-04-27d](/reviews/pessimistic-2026-04-27d/).
+- **Output**: obsidian/concepts/von-neumann-wigner-interpretation.md
+
+Task context:
+Pessimistic review 2026-04-27d found 2 high + 4 medium + 1 low issues. Highest priority: (1) add a decoherence-pressure subsection in "Standard Objections" engaging Tegmark-style timescale objection (currently unaddressed though [decoherence](/concepts/decoherence/) is in frontmatter); (2) flag in "Relation to Site Perspective" that the Map's actual position is objective-collapse-plus-modulation, weaker than V-N-W's headline "consciousness causes collapse" — current article rhetorically loads toward the stronger reading without acknowledging the dilution. Medium-priority fixes: rewrite Frauchiger–Renner sentence to acknowledge F–R pressures rather than supports V-N-W; soften self-stultification claim or pointer to standard rebuttal; expand Wigner's retreat from footnote to substantive paragraph (originator walked back, the Map shares the worry); argue or weaken "within physics vs outside physics" Stapp-vs-Wigner distinction (currently rhetorical). Low-priority: replace "first rigorous proposal" with London–Bauer 1939-aware phrasing. See [pessimistic-2026-04-27d](/reviews/pessimistic-2026-04-27d/).
 
 ### ✓ 2026-04-27: Deep review apex/living-with-the-map.md
 - **Type**: deep-review
