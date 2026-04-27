@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 09:44:00+00:00
+ai_modified: 2026-04-27 09:58:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 09:58 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/erasure-void]]
+- **Word count**: 2015 → 2012 (-3, length-neutral mode at 101% of 2000 voids soft target)
+- **Critical issues addressed**: 2 (banned "This is not X; it is Y" cliché rewritten on self-monitoring claim at line 49 and AI-comparison claim at line 94)
+- **Medium issues addressed**: 0 (Popper-style empiricist probe already answered structurally in Approaches to the Edge; eliminative materialist concern already mitigated by neural-infrastructure framing in clinical anchor)
+- **Enhancements made**: 1 (added [[taxonomy-of-voids]] to Further Reading, closing the back-link from the apex synthesis that already references this void)
+- **Attribution check**: Pass — Mazzi 2024, Gertler 2003, Mograbi & Morris 2018, Kruger & Dunning 1999 all accurately attributed; no source/Map conflation
+- **Deferred**: Buddhist non-self engagement (would require length-compensating cuts; logged as enhancement opportunity)
+- **Output**: [[reviews/deep-review-2026-04-27-erasure-void]]
 
 ## 2026-04-27 09:44 UTC - deep-review
 - **Status**: Success
