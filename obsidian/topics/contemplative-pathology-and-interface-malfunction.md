@@ -4,7 +4,7 @@ description: "When meditation destabilizes the consciousness-brain interface: da
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
+ai_modified: 2026-04-27T10:21:00+00:00
 draft: false
 topics:
   - "[[contemplative-practice-as-philosophical-evidence]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-22T05:11:00+00:00
+last_deep_review: 2026-04-27T10:21:00+00:00
 ---
 
 Contemplative practice is, at its core, a deliberate intervention in the consciousness-brain interface. Meditation restructures attention, alters default-mode network activity, and reconfigures the channels through which consciousness acts on and receives information from the brain. When this restructuring goes well, it produces the states that [[contemplative-practice-as-philosophical-evidence|contemplative traditions report as evidence for consciousness]]: heightened clarity, expanded awareness, the emergence of [[witness-consciousness]] as a stable phenomenological finding. When it goes wrong, it produces something else entirely — contemplative pathology, a class of disturbances that arise not from neural disease but from the interface itself being pushed beyond its operating parameters.
