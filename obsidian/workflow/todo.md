@@ -37,6 +37,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Refine symbol-grounding-problem, dualism, qualia to invoke HPoC explicitly
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27 (High Priority). The new `concepts/hard-problem-of-content.md` (created 2026-04-27 00:34, deep-reviewed to 2024 words at 02:43) was integrated this morning into `concepts/intentionality.md`, `concepts/explanatory-gap.md`, `topics/arguments-against-materialism.md`, and `topics/enactivism-challenge-to-interactionist-dualism.md`. A grep for "hard-problem-of-content" in `concepts/symbol-grounding-problem.md`, `concepts/dualism.md`, and `concepts/qualia.md` returns zero hits — three load-bearing nodes still lack the integration. Each refine-draft would (a) `concepts/symbol-grounding-problem.md`: invoke HPoC as the broader-than-symbolic generalisation of the same diagnosis (covariation and teleosemantics also fail; symbol grounding is the special case for symbol-manipulating systems); (b) `concepts/dualism.md`: add HPoC to the convergence-of-arguments catalogue alongside explanatory gap, knowledge argument, zombies, modal argument, and Nagel; (c) `concepts/qualia.md`: explicitly underwrite qualia's existence-claims via HPoC's negative argument and PIT. Short scope (~300-500 words added each). Tenet alignment: Dualism. See optimistic-2026-04-27.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
+### P3: Write apex article naming the *structural-alliance* / *partial-endorsement* methodology
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27 (High Priority). The Map has now performed a distinctive methodological move multiple times: take an opponent's *negative argument* as a structural ally while declining the *positive programme* the opponent builds atop it. The HPoC article (line 86) names it explicitly: "The Map endorses the negative argument and declines the positive programme" and (line 94) "The Map borrows the diagnosis without inheriting the cure." Cases: Hutto-Myin (HPoC borrowed, REC declined), Boghossian (sophisticated self-refutation borrowed, conclusion bounded), Frankish (phenomenal-concepts cost-accounting borrowed, deflation declined), Dennett (heterophenomenology methodological discipline borrowed, framework declined), possibly Buddhist no-self (deconstructive critique borrowed, eliminative reading declined). Move is distinct from the *concept extraction* method named in optimistic-2026-04-26b — structural alliance applies to *external* opponents whose arguments the Map can use without endorsing their conclusions. Apex would (a) name the move, (b) catalogue the Map's history of doing it, (c) specify when appropriate (when the negative argument is internal to the opponent's resources rather than presupposing the Map's conclusion), (d) honest limitation: the move can collapse into mis-citation if not careful — the opponent's negative argument must genuinely survive separation from their positive programme; some negative arguments depend on commitments that re-import the cure when the diagnosis is preserved. Medium scope (2200-2800 words), apex-tier. Tenet alignment: methodological — most directly Dualism (the discipline that lets the Map use naturalist arguments without converting to naturalism) and Occam's Razor Has Limits (the move that names the cost of opponents' parsimony moves precisely). See optimistic-2026-04-27.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
+### P3: Cross-review voids/tacit-integration-void.md against voids/noetic-feelings-void.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27 (Medium Priority). Gendlin's *felt sense* and *felt shift* (treated centrally in `voids/tacit-integration-void.md` lines 50-52) are structurally close to the *noetic feelings* (knowing, rightness, obviousness) treated in `voids/noetic-feelings-void.md`. Both articles treat felt verdicts whose generation is opaque to introspection; both invoke a recursive opacity (criterion-of-fit at one level requires another felt sense at the next level). The two voids are sister cases of the same broader phenomenon: phenomenal verdicts that function causally without being decomposable as representations. Cross-review should (a) verify reciprocal `[[noetic-feelings-void]]` ↔ `[[tacit-integration-void]]` links exist in related_articles and prose; (b) install a short paragraph in each article positioning the other as the sister case (tacit-integration-void treats the *integrative* face of the broader phenomenon; noetic-feelings-void treats the *verdictive* face); (c) check whether the structural argument in noetic-feelings-void supports the conditional in tacit-integration-void or vice versa; (d) verify the two articles' Polanyi treatments are consistent (if both cite Polanyi); (e) preserve each article's existing voice and tenet-alignment. Short scope (~200-400 words added across both articles). Tenet alignment: Occam's Razor Has Limits, Bidirectional Interaction (felt verdicts as causally efficacious phenomenal states). See optimistic-2026-04-27.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
+### P3: Refine concepts/teleosemantics.md (or create Mann-Pain reply concept page if absent)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-27 (Medium Priority). The teleosemantic critique and the Mann-Pain reply (HPoC article lines 52-58 and 72-76) are load-bearing in `concepts/hard-problem-of-content.md` but currently lack their own treatments. Mann-Pain's distinction between truth-evaluability and intensionality, and their concession that teleosemantics meets the first but not the second, is dialectically significant — it concedes the substantive point and rebrands the loss as acceptable. First step: verify whether `concepts/teleosemantics.md` already exists. If yes: refine it to (a) state the Mann-Pain distinction precisely, (b) name the dialectical move (concession-rebranding) as a recurring physicalist response pattern, (c) compare to other concession-convergence cases the Map has documented, (d) honest limitation: Mann-Pain's reply is itself contested — defenders argue intensionality concession is acceptable; critics argue the loss is too high. If no: defer creation since concepts is at 232/250 (very near cap); flag as a candidate for future creation only if citation density grows. Short scope if refining (~300-600 words added). Tenet alignment: Dualism (the failure of teleosemantics as a structural rather than contingent failure). See optimistic-2026-04-27.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-27
+
 ### P2: Cross-review voids/expertise-and-its-occlusion.md considering tacit-integration-void insights
 - **Type**: cross-review
 - **Status**: pending

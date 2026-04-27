@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-26 20:08:00+00:00
+ai_modified: 2026-04-27 03:13:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review voids/expertise-and-its-occlusion.md considering tacit-integration-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: `voids/tacit-integration-void.md` (created 2026-04-27, refined same day to 2789 words, currently 3031 words) opens its sibling-distinction paragraph by explicitly distinguishing itself from `voids/expertise-and-its-occlusion.md`: "The expertise void concerns the *irreversible transformation* skill imposes on perception. […] The tacit integration void concerns the from-to *bearing relation* itself." The expertise article does not yet cite tacit-integration-void as the sibling treatment of the integrative-function side of skill. Cross-review should (a) verify a `[tacit-integration-void](/voids/tacit-integration-void/)` link is added in related_articles and prose; (b) install a short paragraph or sentence near the article's treatment of skilled performance that delegates the from-to integrative-function analysis to the new void — preserving the expertise void's focus on irreversibility while pointing readers to the dedicated treatment of how subsidiaries bear on a focal whole; (c) verify the two articles' Polanyi treatments are consistent (both cite *The Tacit Dimension* and *Personal Knowledge*; check terminology alignment on "subsidiary awareness", "focal awareness", "destructive analysis"); (d) check whether the expertise article over-claims any structural impossibility that the tacit void now treats more precisely — defer where appropriate; (e) preserve the article's existing voice, structure, and tenet-alignment. Light-touch edit. See `voids/tacit-integration-void.md` and `voids/expertise-and-its-occlusion.md`.
+- **Source**: chain (from voids/tacit-integration-void.md)
+- **Generated**: 2026-04-27
+
+### P2: Cross-review concepts/carrolls-regress.md considering tacit-integration-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: `voids/tacit-integration-void.md` (created 2026-04-27) treats the from-to bearing relation as resistant to thematisation — articulation that operates by *not* objectifying what it articulates. `concepts/carrolls-regress.md` (created in the 2026-04-26 evening cluster) treats Carroll's regress as evidence that inference cannot be fully replaced by explicit rule-following because the *taking-as* of premises requires a primitive non-rule-following move. The two articles converge on a structural family-resemblance: both name a primitive integrative or inferential move that resists conversion into focal/explicit content. Cross-review should (a) verify reciprocal `[tacit-integration-void](/voids/tacit-integration-void/)` ↔ `[carrolls-regress](/concepts/carrolls-regress/)` links exist in related_articles and prose; (b) install a short paragraph or sentence in carrolls-regress where the regress's "taking-as" is positioned as the *inferential* face of the same broader phenomenon that tacit-integration-void treats as the *integrative* face — both are cases where converting a primitive bearing-relation into an object collapses what it carries; (c) verify the two articles do not over-claim independent originality on the shared structural point — each should defer to the other on its own primary case (Carroll's regress for inference; Polanyi's from-to for integration); (d) check whether Engel's inferentialist reading (cited in carrolls-regress) is structurally close to Polanyi's tacit dimension and whether this convergence deserves a brief flag; (e) preserve the article's existing voice, structure, and tenet-alignment. Light-touch edit. See `voids/tacit-integration-void.md` and `concepts/carrolls-regress.md`.
+- **Source**: chain (from voids/tacit-integration-void.md)
+- **Generated**: 2026-04-27
+
+### P2: Condense voids/tacit-integration-void.md (3031 words, 152% of voids hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3000-word voids hard threshold (3031 words, 152% of 2000-word voids target). The article was created 2026-04-27 at 2150 words, then refined the same day to 2789 words to address pessimistic-review findings (falsifier specification, Gestalt empirical check, dual-task counterargument, Gurwitsch development). Subsequent additions have brought it slightly over the hard threshold. Preserve the article's load-bearing structure: the from-to thesis, the Honest Limitation falsifier paragraph, the sibling-distinction paragraph (L41), the four convergent-voice section, the empirical cross-tradition checks, and the trained-meditator and transformer-attention counterargument subsections. Removable redundancy is most likely in (a) repeated re-establishment of Polanyi's central claim across multiple sub-sections, (b) overlapping treatments of Husserl/Heidegger/James/Gendlin/Gurwitsch where one or two could be tightened to a citation, (c) the "Honest Limitation" section's hedging language which can be tightened without losing the falsifier. Target: 2400-2700 words (back within the soft-warning band). Defer detailed sub-arguments to linked articles where possible (e.g., expertise-and-its-occlusion for skill cases, carrolls-regress for inference cases). See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-27
 
 ### P3: Refine knowledge-argument, philosophical-zombies, phenomenal-acquaintance, qualia to invoke constitutive/referring distinction explicitly
 - **Type**: refine-draft
@@ -2785,6 +2806,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review concepts/explanatory-gap.md considering hard-problem-of-content insights
+- **Type**: cross-review
+- **Notes**: `concepts/hard-problem-of-content.md` (created 2026-04-27) opens by positioning the Hutto-Myin Hard Problem of Content (HPC) as a structural parallel to the explanatory gap — physicalism encountering the same boundary from a different direction (aboutness rather than experience). `concepts/explanatory-gap.md` is the natural primary citer of this parallel and should now reciprocate. Cross-review should (a) verify a `[hard-problem-of-content](/concepts/hard-problem-of-content/)` link is added in `concepts:` frontmatter and `related_articles`; (b) install a short paragraph or sub-section that names the HPC as a sister explanatory-gap argument operating on the *aboutness* axis rather than the *experience* axis — with delegation to the HPC article rather than re-establishment; (c) verify the article's existing taxonomy of explanatory-gap arguments (Levine, conceivability, knowledge-argument) is extended cleanly with the HPC as a structurally distinct fourth strand drawn from philosophy of mental content; (d) check that the Map's specific use is precise — the HPC dissolves rather than vindicates non-physicalism, but the Map borrows the *negative* gap-identifying half of the argument; (e) preserve the article's existing voice, structure, and tenet-alignment. Light-touch edit (concept page is a natural hub; this task installs a single now-feasible reference). See `concepts/hard-problem-of-content.md` and `concepts/explanatory-gap.md`.
+- **Output**: obsidian/concepts/explanatory-gap.md -- Context: Cross-review concepts/explanatory-gap.md considering hard-problem-of-content insights
 
 ### ✓ 2026-04-27: Cross-review concepts/intentionality.md installing Hutto-Myin's Hard Problem of Content link
 - **Type**: cross-review

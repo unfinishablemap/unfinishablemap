@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-18 07:49:00+00:00
+ai_modified: 2026-04-27 03:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,6 +14,7 @@ concepts:
 - '[[introspection]]'
 - '[[integrated-information-theory]]'
 - '[[concepts/materialism]]'
+- '[[hard-problem-of-content]]'
 created: 2026-01-14
 date: &id001 2026-01-20
 description: Physical descriptions leave unexplained why neural activity feels like
@@ -21,7 +22,7 @@ description: Physical descriptions leave unexplained why neural activity feels l
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 08:36:00+00:00
+last_deep_review: 2026-04-27 03:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -64,7 +65,7 @@ His key insight: even if consciousness *is* (identical to) brain activity, physi
 
 Levine initially claimed this gap might be purely epistemic—a limitation of human understanding rather than a fact about reality. Perhaps consciousness is physical, but we lack the conceptual resources to understand how. The gap would be in us, not in nature.
 
-But this modest reading has problems. If the gap is merely epistemic, why can't we close it? We've closed explanatory gaps before. Once we understood molecular structure, we could see why water has its properties. The consciousness gap shows no sign of yielding to similar understanding. No amount of neural detail brings us closer to seeing why there's something it's like. This persistence suggests the gap may be more than epistemic.
+But this modest reading has problems. If the gap is merely epistemic, why does it resist closure? Other explanatory gaps yielded when we found connecting facts; with consciousness, no amount of neural detail brings us closer to seeing why there's something it's like. The persistence suggests the gap may be more than epistemic.
 
 ## Relation to the Hard Problem
 
@@ -123,9 +124,9 @@ Problem: this doesn't explain why phenomenal concepts work this way. If consciou
 
 ### Future Science
 
-Perhaps neuroscience will eventually close the gap. We don't understand consciousness now, but science advances. Past explanatory gaps have closed.
+Perhaps neuroscience will eventually close the gap. Past explanatory gaps have closed.
 
-Problem: other gaps closed because we found connections that made the phenomena intelligible. We saw *why* water behaves as it does given H2O's structure. With consciousness, no amount of neural detail brings this intelligibility closer. It's not that we're missing facts; we can't even imagine what facts would close the gap.
+Problem: other gaps closed because we found connections that made the phenomena intelligible. With consciousness, no amount of neural detail brings this intelligibility closer—we can't even imagine what facts would close the gap.
 
 ## From Epistemic to Ontological
 
@@ -147,7 +148,7 @@ How do we know about the gap in the first place? Through [introspection](/concep
 
 This critique targets the wrong level. Studies like Nisbett and Wilson's concern process access—why we make decisions. The gap argument depends on content access—recognizing that experience has qualitative character at all. Even systematic errors about *why* we prefer one face don't undermine that we *have* visual experience. The gap argument requires only that something is like something to us—and this seems undeniable regardless of introspection's reliability about causes.
 
-The explanatory gap is one of several independent [arguments against materialism](/concepts/dualism/). What makes the cumulative case powerful is convergence: the gap argument, the [knowledge argument](/concepts/knowledge-argument/), the [zombie argument](/concepts/philosophical-zombies/), Kripke's modal argument, and Nagel's subjectivity argument all proceed through different routes to the same conclusion. When independent lines of reasoning converge, the probability that they're all mistaken decreases. The convergence extends across cultures: traditions from Sāṃkhya to Buddhism to Islamic philosophy independently identify the same [structural gap between third-person description and first-person acquaintance](/topics/cross-traditional-convergence-on-consciousness-irreducibility/), despite disagreeing about substance, self, and causation.
+The explanatory gap is one of several independent [arguments against materialism](/concepts/dualism/). What makes the cumulative case powerful is convergence: the gap argument, the [knowledge argument](/concepts/knowledge-argument/), the [zombie argument](/concepts/philosophical-zombies/), Kripke's modal argument, and Nagel's subjectivity argument all proceed through different routes to the same conclusion. When independent lines of reasoning converge, the probability that they're all mistaken decreases. The convergence extends across cultures: traditions from Sāṃkhya to Buddhism to Islamic philosophy independently identify the same [structural gap between third-person description and first-person acquaintance](/topics/cross-traditional-convergence-on-consciousness-irreducibility/), despite disagreeing about substance, self, and causation. The same structural failure recurs in semantic theory: Hutto and Myin's [Hard Problem of Content](/concepts/hard-problem-of-content/) argues that physical resources—covariance and biological function—cannot deliver aboutness any more than they deliver experience. Both gaps emerge inside the naturalist's own project, though Hutto and Myin themselves draw deflationary rather than dualist conclusions.
 
 ## Process Philosophy Perspective
 
@@ -198,6 +199,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 ## Further Reading
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The metaphysical problem the gap points to
+- [hard-problem-of-content](/concepts/hard-problem-of-content/) — The structural parallel: physical resources cannot yield aboutness any more than they yield experience
 - [dualism](/concepts/dualism/) — The explanatory gap as one of seven converging arguments
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: the gap dramatized through a thought experiment
 - [qualia](/concepts/qualia/) — The experiential properties the gap concerns

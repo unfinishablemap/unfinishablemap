@@ -1,12 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 03:00:00+00:00
+ai_modified: 2026-04-27 03:19:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 03:19 UTC - deep-review
+- **Status**: Success
+- **File**: [explanatory-gap](/concepts/explanatory-gap/)
+- **Context**: Cross-review installing [Hutto-Myin Hard Problem of Content](/concepts/hard-problem-of-content/) cross-link (concept article created 2026-04-27 02:43)
+- **Word count**: 3405 → 3427 (+22)
+- **Critical issues addressed**: 0 (article stable after four prior deep reviews)
+- **Medium issues addressed**: 1 (missing cross-link to newly created hard-problem-of-content; integrated at the convergence-of-arguments passage with explicit qualification that Hutto and Myin themselves draw deflationary conclusions)
+- **Enhancements made**: Added single substantive sentence at the cross-cultural convergence passage extending convergence to semantic theory; added [hard-problem-of-content](/concepts/hard-problem-of-content/) to Further Reading; added to concepts frontmatter array; length-neutral trims to two redundant water/H₂O passages (Levine "modest reading has problems" 66→48 words; Future Science physicalist response 71→47 words)
+- **Attribution discipline**: HPoC correctly attributed to Hutto and Myin; explicit qualification that they are naturalists who draw deflationary conclusions, not dualist conclusions; Map's appropriation framed as structural alliance
+- **Length-neutral mode**: Operated above soft threshold (137%); +22 net words for a load-bearing cross-link to a brand-new related article
+- **Output**: [deep-review-2026-04-27-explanatory-gap](/reviews/deep-review-2026-04-27-explanatory-gap/)
+
 ---
 
 ## 2026-04-27 03:00 UTC - deep-review
