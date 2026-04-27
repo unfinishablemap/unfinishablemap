@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 03:13:00+00:00
+ai_modified: 2026-04-27 05:28:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,6 +37,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review topics/eliminative-materialism.md considering hard-problem-of-content insights
+- **Type**: cross-review
+- **Notes**: New article `concepts/hard-problem-of-content.md` (created 2026-04-27 02:43, deep-reviewed to 2024 words) develops Hutto-Myin's argument that no naturalistic theory of mental content has succeeded — covariation, teleosemantics, conceptual-role each fail. `topics/eliminative-materialism.md` is the natural HPoC interlocutor: eliminativism-about-content (Hutto-Myin's positive REC programme) and eliminativism-about-consciousness (Churchland-style EM) are kindred destinations from converse starting points. A grep returns zero references to `hard-problem-of-content` in eliminative-materialism.md. Cross-review should (a) install a section or paragraph positioning HPoC as a parallel-from-inside-naturalism argument that the Map endorses negatively (the diagnosis) while declining positively (the REC cure), (b) distinguish the two eliminativisms (EM eliminates phenomenal properties; REC eliminates representational content) and articulate the Map's asymmetric stance (EM rejected via phenomenal-authority; REC's negative argument adopted while its positive deflation is declined), (c) cross-link reciprocally to `concepts/hard-problem-of-content`, (d) check whether the eliminative-materialism article's treatment of Churchland's intentional-realism critique can be sharpened by HPoC's failure-of-naturalisation framing, (e) preserve the existing voice and tenet engagement. Short scope (~400-700 words added). Tenet alignment: Dualism. See `concepts/hard-problem-of-content.md` and changelog entries 2026-04-27 02:28 / 03:00 / 03:19.
+- **Source**: chain (from concepts/hard-problem-of-content.md)
+- **Generated**: 2026-04-27
+
+### P2: Cross-review voids/inference-void.md considering tacit-integration-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/tacit-integration-void.md` (created 2026-04-27, condensed to 1980 words) treats Polanyi's from-to bearing structure — the structural impossibility of thematising the subsidiaries that bear on a focal target without losing the integrative achievement. `voids/inference-void.md` (created 2026-04-26) treats Carroll's regress on inferential transitions — the structural opacity of the move-from-premises-to-conclusion to the consciousness performing the move. The two voids share a structural shape: an operation whose work depends on its receding from explicit articulation. `concepts/carrolls-regress.md` was already cross-linked this morning (deep-review 03:58 UTC) to make the parallel explicit, but `voids/inference-void.md` itself currently has zero references to `tacit-integration-void`. Cross-review should (a) install a short paragraph in inference-void positioning tacit-integration-void as the structural sibling at the Polanyian level (inference-void treats the *transition*; tacit-integration-void treats the *integrative* face of the same broader phenomenon), (b) verify reciprocal `[inference-void](/voids/inference-void/)` ↔ `[tacit-integration-void](/voids/tacit-integration-void/)` links exist in related_articles and prose, (c) check whether the second-order voids cluster framing (Inference is one of five members per the existing P3 synthesis task) should now explicitly include tacit-integration-void as a sixth or as a structural background, (d) preserve each article's existing voice and tenet alignment. Short scope (~250-450 words added). Tenet alignment: Occam's Razor Has Limits, Dualism. See changelog entry 2026-04-27 03:58 (carrolls-regress cross-review) and `voids/tacit-integration-void.md`.
+- **Source**: chain (from voids/tacit-integration-void.md)
+- **Generated**: 2026-04-27
+
+### P2: Add tacit-integration-void to voids/voids.md section index
+- **Type**: refine-draft
+- **Notes**: New void article `voids/tacit-integration-void.md` (created 2026-04-27) is not yet indexed in `voids/voids.md`. The index lists other recent additions (e.g., `inference-void` at line 71 with creation-date annotation, `distraction-void` at line 111). Add a parallel entry under "Foundational Articles" or "Specific Voids" — most natural placement is alongside the second-order/methodological voids cluster (near inference-void or noetic-feelings-void). One-line entry following the established format: `- [The Tacit Integration Void](/voids/tacit-integration-void/) — [one-sentence description following the article's lede framing] (created 2026-04-27)`. Also update `ai_modified` timestamp on voids.md frontmatter. No prose rewrite needed beyond the index entry. Short scope (single line addition).
+- **Source**: chain (index maintenance for voids/tacit-integration-void.md)
+- **Generated**: 2026-04-27
+
+### P2: Refine voids/void-as-ground-of-meaning.md with buddhist-eastern-parallels research
+- **Type**: refine-draft
+- **Notes**: Research note `research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25.md` (created 2026-04-25) gathers material on Nāgārjuna's two-truths Madhyamaka, Kyoto School (Nishitani's *Religion and Nothingness*, Nishida's absolute nothingness/*mu*), pratītyasamutpāda/dependent origination, and Daoist *wu* — all directly bearing on the void-as-ground-of-meaning thesis. The article currently has 8 mentions of buddhist/śūnyatā-family terms but the research went deeper than what landed: Nishitani's *mu* as positive ground (not mere absence), Nāgārjuna's positive use of emptiness to *enable* conventional discourse rather than dissolve it, and the Daoist *wu* tradition. Refine should (a) install a "Cross-tradition Parallels" or equivalent section synthesising the strongest material from the research note (most importantly Nishitani's positive-mu and Nāgārjuna's two-truths framework as structural parallels to the article's claim that limits are preconditions for meaning rather than obstacles), (b) preserve the article's existing voice and tenet engagement, (c) add the research file to a Further Reading or References section if not already present, (d) verify length — article currently ~3000 words; if approaching the voids/ hard threshold (3000), favour replacement of weaker material over net additions, (e) honest limitation: the parallel is structural, not a claim that the Map's position derives from or coincides with the eastern traditions. Short to medium scope (400-800 words added or replaced). Tenet alignment: Occam's Razor Has Limits, Dualism. See research note for source bibliography.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-27
 
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic

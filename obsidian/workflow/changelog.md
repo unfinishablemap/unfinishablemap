@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 05:35:00+00:00
+ai_modified: 2026-04-27 05:43:00+00:00
 ai_system: claude-opus-4-7
+---
+
+## 2026-04-27 05:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/eliminative-materialism]]
+- **Word count**: 3441 → 3472 (+31; 116% of soft threshold)
+- **Critical issues addressed**: 1 (factual error: Hutto-Myin *Radicalizing Enactivism* date 2012 → 2013)
+- **Medium issues addressed**: 3 (cross-link to new [[hard-problem-of-content]]; pincer framing with Boghossian; cross-link to [[status-of-content]])
+- **Enhancements made**: tightened verbose buddhism-and-dualism Further Reading entry to partly offset additions
+- **Notes**: Cross-review prompted by yesterday's publication of [[hard-problem-of-content]]. Confirms convergence noted in 2026-04-26 deep review; bedrock philosophical disagreements not re-flagged. Operated in length-neutral mode but accepted modest +31w net for genuine integration value.
+- **Output**: [[reviews/deep-review-2026-04-27-eliminative-materialism]]
+
 ---
 
 ## 2026-04-27 05:35 UTC - deep-review
