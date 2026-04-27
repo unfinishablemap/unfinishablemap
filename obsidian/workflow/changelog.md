@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 22:57:00+00:00
+ai_modified: 2026-04-27 23:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 23:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/decoherence]]
+- **Trigger**: Cross-review of `concepts/decoherence.md` and `concepts/stapp-quantum-mind.md` against the V-N-W article's new "Decoherence pressure" subsection (added today in [[deep-review-2026-04-27-von-neumann-wigner-interpretation|the V-N-W deep review]]).
+- **Word count**: 2646 → 2646 (0); length-neutral mode (106% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link gap to V-N-W)
+- **Enhancements made**: 1 (Further Reading link to von-neumann-wigner-interpretation; offset by tightening physics-as-disclosure paragraph)
+- **Cross-review finding**: Articles complement rather than contradict V-N-W — V-N-W frames decoherence pressure as "open problem," this article catalogues five responses that transform the objection. Stapp article unchanged (already cross-linked to V-N-W; deep-reviewed 2026-04-23).
+- **Output**: [[reviews/deep-review-2026-04-27-decoherence]]
 
 ## 2026-04-27 22:57 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
