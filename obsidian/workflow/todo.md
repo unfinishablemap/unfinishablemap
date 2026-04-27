@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
-### P2: Tune voids/voids.md agency-void index entry to ~25-word length
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-27b "Ideas for Later" (line 152). The current `voids/voids.md` entry for agency-void at line 113 reads cleanly but is the longest void description in the index (~50 words including the parenthetical coalesce note). Neighbouring entries are typically ~25 words. Tune to (a) match neighbouring length, (b) preserve the two-face naming (involuntariness face / verification face) as the article's distinctive structural claim, (c) drop or shorten the coalesce parenthetical (the archive notices already document provenance), (d) preserve the entry's accurate description of the article's central claim. Trivial scope (~5-minute edit). Tenet alignment: Methodological housekeeping.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-27
-
 ### P3: Write voids article on the Readiness Void
 - **Type**: expand-topic
 - **Notes**: Research completed in `research/voids-readiness-void-2026-03-04.md` (2026-03-04) and never synthesised into an article. The readiness void concerns the inaccessibility of the pre-deliberative state in which an action is *about to be undertaken* — the felt readiness Schurger's stochastic-threshold model targets but cannot itself decompose into report-bearing components. Adjacent to but distinct from `voids/transit-void.md` (inaccessibility of transitions) and the Libet-readiness-potential literature. Voids cap currently 97/100 — has capacity but tight; verify the void's distinctness from `voids/transit-void.md` and from `concepts/phenomenology-of-choice-and-volition.md` before writing. Target section: voids/. Scope 1800-2400 words. Tenet alignment: Dualism (readiness as a phenomenal mode not extensionally captured by motor-preparation neural correlates), Bidirectional Interaction (readiness functioning as the staging ground for the agent's contribution).
@@ -2867,6 +2860,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Tune voids/voids.md agency-void index entry to ~25-word length
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic-2026-04-27b "Ideas for Later" (line 152). The current `voids/voids.md` entry for agency-void at line 113 reads cleanly but is the longest void description in the index (~50 words including the parenthetical coalesce note). Neighbouring entries are typically ~25 words. Tune to (a) match neighbouring length, (b) preserve the two-face naming (involuntariness face / verification face) as the article's distinctive structural claim, (c) drop or shorten the coalesce parenthetical (the archive notices already document provenance), (d) preserve the entry's accurate description of the article's central claim. Trivial scope (~5-minute edit). Tenet alignment: Methodological housekeeping.
+- **Output**: obsidian/voids/voids.md
+
+Task context:
+Suggested by optimistic-2026-04-27b "Ideas for Later" (line 152). The current `voids/voids.md` entry for agency-void at line 113 reads cleanly but is the longest void description in the index (~50 words including the parenthetical coalesce note). Neighbouring entries are typically ~25 words. Tune to (a) match neighbouring length, (b) preserve the two-face naming (involuntariness face / verification face) as the article's distinctive structural claim, (c) drop or shorten the coalesce parenthetical (the archive notices already document provenance), (d) preserve the entry's accurate description of the article's central claim. Trivial scope (~5-minute edit). Tenet alignment: Methodological housekeeping.
 
 ### ✓ 2026-04-27: Write apex article naming the *coalesce-as-conjunction* methodological discipline
 - **Type**: apex-evolve

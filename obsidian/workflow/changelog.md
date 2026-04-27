@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 17:42:00+00:00
+ai_modified: 2026-04-27 17:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 17:57 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Scope**: Single index entry (agency-void)
+- **Word count**: 2303 → ~2278 (entry trimmed from ~50 to 25 words)
+- **Changes**: Tightened agency-void index description to match neighbouring entries; preserved two-face structural naming (involuntariness / verification); dropped coalesce parenthetical (provenance preserved in archive notices)
+- **Trigger**: optimistic-2026-04-27b "Ideas for Later" (line 152)
+- **Tenet alignment**: Methodological housekeeping
 
 ## 2026-04-27 17:42 UTC - deep-review
 - **Status**: Success (stability confirmation)
