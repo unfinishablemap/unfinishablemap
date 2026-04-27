@@ -464,13 +464,35 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 
 ---
 
+### 21. The Conjunction-Coalesce
+
+**Slug**: `conjunction-coalesce`
+
+**Subtitle**: When two voids are one, and the seam between them is the claim
+
+**Thesis**: A distinctive methodological move has emerged in the Map's voids work: merging two articles whose subjects are conjoined at a structural level into a single article that *keeps the seam visible* because the seam itself is what makes the conjunction informative. This conjunction-coalesce differs from standard coalesce, which merges to remove redundancy. Where the standard move dissolves duplication, the conjunction-coalesce preserves a two-face structure as load-bearing analytical discipline. The discipline is both teachable and testable—it admits a sharp criterion (does the conjunction make a claim its parts cannot?) and is vulnerable to a specific failure mode (rhetorical seams that collapse into prose redundancy)—and naming it explicitly stabilises the practice across future merger decisions.
+
+**Source articles**:
+- voids/agency-void
+- voids/voids-between-minds
+- voids/erasure-void
+- voids/transit-void
+- voids/thrownness-void
+- voids/temporal-void
+- apex/taxonomy-of-voids
+- voids/apophatic-cartography
+
+**Status**: Created 2026-04-27
+
+---
+
 ## Relation to Site Perspective
 
 Curation is a deliberate choice. The Map's [[tenets]] constrain a vast philosophical space, and apex articles make that space navigable by distilling the strongest threads into coherent narratives. The 20-article cap prevents dilution: each apex piece must earn its place by genuinely synthesising multiple lines of argument into something greater than its parts. This reflects the Map's commitment to depth over breadth and to integrated understanding over encyclopaedic coverage.
 
 ## Guidelines
 
-- **Maximum 20 apex articles** — Keep the set curated and coherent
+- **Maximum ~20 apex articles** — Keep the set curated and coherent. The 21st entry (conjunction-coalesce) was admitted as a methodological piece reflecting on the Map's own coalesce practice; future additions should require similar justification.
 - **Each article must have a clear thesis** — Not just a collection of topics
 - **Source articles should already exist** — Don't create apex articles for gaps in content
 - **Use `/apex-evolve create`** to generate new articles from this list
