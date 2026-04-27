@@ -4,7 +4,7 @@ description: "The brain as prediction engine: hierarchical Bayesian inference, p
 created: 2026-01-14
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-26T22:52:00+00:00
+ai_modified: 2026-04-27T05:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,6 +24,8 @@ concepts:
   - "[[haecceity]]"
   - "[[concepts/many-worlds]]"
   - "[[meditation-and-consciousness-modes]]"
+  - "[[hard-problem-of-content]]"
+  - "[[concepts/intentionality]]"
 related_articles:
   - "[[tenets]]"
   - "[[predictive-processing-and-dualism]]"
@@ -93,7 +95,15 @@ Critics note that "we seem to experience moderate-sized specimens of dry goods, 
 
 ### Soft Eliminativism About Folk Psychology
 
-PP also bears on classical [[eliminative-materialism|eliminative materialism]] in a way distinct from its bearing on phenomenal consciousness. Where Paul Churchland eliminates beliefs and desires as fictions of a stagnant theory, PP preserves intentional vocabulary as inferential summary over hierarchical predictive processes—a softer eliminativism that denies propositional attitudes carve the computational architecture at any joint while granting they track real higher-level dynamics. This is the contemporary descendant of the Ramsey-Stich-Garon connectionist challenge: a positive cognitive-science model in which folk-psychological states are explained rather than eliminated. The structural-format question (do beliefs have sentence-shaped structure?) is separable from the phenomenal question (why does any of this feel like anything?), and PP's answer to the first does not settle the second.
+PP also bears on classical [[eliminative-materialism|eliminative materialism]] in a way distinct from its bearing on phenomenal consciousness. Where Paul Churchland eliminates beliefs and desires as fictions of a stagnant theory, PP preserves intentional vocabulary as inferential summary over hierarchical predictive processes—a softer eliminativism that denies propositional attitudes carve the computational architecture at any joint while granting they track real higher-level dynamics. This is the contemporary descendant of the Ramsey-Stich-Garon connectionist challenge: a positive cognitive-science model in which folk-psychological states are explained rather than eliminated. The structural-format question (do beliefs have sentence-shaped structure?) is separable from the phenomenal question (why does any of this feel like anything?), and PP's answer to the first does not settle the second. A third question—how *any* of these inferentially-summarised states acquire genuine semantic content—is taken up below.
+
+### Inheriting the Hard Problem of Content
+
+PP's framework traffics throughout in content: predictions are *about* states of affairs; prediction errors signal a *mismatch* between model and world; precision weights *correctness* of one signal against another. The natural account of where this content comes from is informational and covariational—a state's content is determined by what it would track under optimal conditions, refined by Bayesian update against incoming evidence. This is precisely the resource Hutto and Myin's [[hard-problem-of-content|Hard Problem of Content]] argues cannot deliver genuine semantic content. Covariation yields causal-statistical facts; aboutness, correctness conditions, and intensional differences in content are normative facts the underlying machinery does not supply.
+
+If Hutto and Myin's negative argument is sound, PP's "predictions" and "errors" are causal-statistical patterns that the theorist *describes* in content-involving language rather than states with intrinsic aboutness. Active inference and free-energy minimisation can be specified entirely in terms of statistical mechanics; the leap to "the brain models the world" smuggles in normativity (accuracy, mismatch, representation) the underlying physics does not deliver. PP inherits the same gap [[concepts/intentionality|intentionality]] inherits—and the morning's deeper integration of HPoC into the intentionality article makes the inheritance explicit. Phenomenal intentionality theory holds that genuine content requires phenomenal character; PP without consciousness is content-free in the strict Hutto-Myin sense, a system whose states covary with environmental conditions and update through Bayesian inference but mean nothing.
+
+This does not refute PP. It locates the framework precisely. PP describes neural dynamics in content-involving vocabulary that is predictively useful but metaphysically derivative; the genuine content of conscious thought—what the prediction is *about*—comes from elsewhere. The Map's reading: PP captures the computational substrate while phenomenal consciousness supplies the aboutness that converts mathematical prediction error into semantic mismatch. Without that addition, PP's softer eliminativism slides into REC-style content-elimination at the basic-cognition level, a cost the Map declines to pay (see [[hard-problem-of-content|HPoC]] for the structural-alliance/partial-endorsement reasoning).
 
 ### Precision and Salience
 
@@ -208,6 +218,8 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 - [[concepts/functionalism]] — The philosophical tradition PP inherits
 - [[attention-as-interface]] — How attention mediates consciousness-matter interaction (central to precision weighting)
 - [[hard-problem-of-consciousness]] — What PP doesn't directly address
+- [[hard-problem-of-content]] — The structural challenge PP inherits if its predictions and errors rest on covariational content
+- [[concepts/intentionality]] — Where PP's content-vocabulary gets its aboutness from (or fails to)
 - [[dream-consciousness]] — Dreams as unconstrained prediction
 - [[filter-theory]] — Alternative interpretation of dream evidence
 - [[illusionism]] — The radical physicalist interpretation of PP
@@ -229,3 +241,17 @@ PP relates to The Unfinishable Map's [[tenets]] substantively:
 - Solms, M. (2021). *The Hidden Spring: A Journey to the Source of Consciousness*. W. W. Norton.
 - Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 - Fox, K. C. R. et al. (2012). "Meditation experience predicts introspective accuracy." *PLoS ONE*, 7(9).
+
+<!-- AI REFINEMENT LOG - 2026-04-27
+Changes made:
+- Added `[[hard-problem-of-content]]` and `[[concepts/intentionality]]` to concepts frontmatter (previously absent — flagged by optimistic-2026-04-27).
+- Inserted new subsection "Inheriting the Hard Problem of Content" between "Soft Eliminativism" and "Precision and Salience" within the "Does PP Solve the Hard Problem?" section. Acknowledges that PP's content vocabulary (predictions, errors, mismatch) rests on covariational/Bayesian resources that Hutto-Myin's negative argument targets, locates PP relative to the morning's deeper HPoC integration into `concepts/intentionality.md`, and notes the Map's structural-alliance position rather than defaulting to REC.
+- Added a one-sentence forward reference at the end of "Soft Eliminativism" pointing to the new HPoC subsection.
+- Added `[[hard-problem-of-content]]` and `[[concepts/intentionality]]` to Further Reading site-content list.
+- Updated `ai_modified` timestamp to 2026-04-27T05:14:00+00:00.
+
+Scope: ~430 words added.
+Key improvements: Verifies HPoC integration consistency; aligns terminology (content/representation/mismatch) with the intentionality and HPoC articles; adds the missing cross-link; explicitly acknowledges that PP inherits HPoC's burden when its content claims rest on covariation. Does not alter the article's core argument or voice.
+
+This log should be removed after human review.
+-->

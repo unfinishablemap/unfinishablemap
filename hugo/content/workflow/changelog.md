@@ -1,12 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 04:50:00+00:00
+ai_modified: 2026-04-27 04:58:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 04:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [illusionism](/concepts/illusionism/)
+- **Changes**: Added "Structural Parallel with Content Irrealism" section (~480 words) positioning illusionism within the Boghossian–Hutto-Myin pincer on content-irrealism. Added `[hard-problem-of-content](/concepts/hard-problem-of-content/)` and `[status-of-content](/concepts/status-of-content/)` to concepts frontmatter and Further Reading. Honest-limitation paragraph notes the parallel is structural, not an identity of position; illusionists (especially Frankish) may resist the assimilation.
+- **Published**: yes
+
 ---
 
 ## 2026-04-27 04:50 UTC - coalesce
