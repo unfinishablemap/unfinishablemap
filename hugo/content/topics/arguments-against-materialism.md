@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-04-26 18:53:46+00:00
+ai_modified: 2026-04-27 02:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[argument-from-reason]]'
 - '[[intentionality]]'
 - '[[phenomenal-concepts-strategy]]'
+- '[[hard-problem-of-content]]'
 created: 2026-02-27
 date: &id001 2026-02-27
 description: 'Multiple independent philosophical arguments converge on the same conclusion:
@@ -25,7 +26,7 @@ description: 'Multiple independent philosophical arguments converge on the same 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-26 18:53:46+00:00
+last_deep_review: 2026-04-27 02:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -41,6 +42,7 @@ related_articles:
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[concession-convergence-philosophy-of-mathematics]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
+- '[[enactivism-challenge-to-interactionist-dualism]]'
 title: Arguments Against Materialism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -61,6 +63,8 @@ The arguments exploit genuinely different features of consciousness. The explana
 A materialist might object that these arguments share a hidden flaw—perhaps a common reliance on unreliable intuitions about consciousness, or a shared philosophical methodology that systematically generates anti-physicalist conclusions. This is the strongest version of the objection: not that each argument fails individually, but that the convergence is an artefact of the method rather than evidence about reality.
 
 The objection has force against some subsets of the arguments. The conceivability argument and the knowledge argument both rely on epistemic access to phenomenal states, so their convergence is partly expected. But the full set of arguments draws on genuinely independent methodological traditions. The argument from reason concerns the normativity of inference—a problem in epistemology, not phenomenology. The unity of consciousness concerns mereological composition—a problem in metaphysics. Kripke's modal argument turns on the semantics of identity statements. These are not intuition-pump variations of the same reasoning; they arise from different philosophical subdisciplines using different tools. A methodological explanation of the convergence would need to identify a single bias operative across epistemology, metaphysics, modal logic, and philosophy of mind simultaneously—a much harder claim to sustain than the alternative that the convergence tracks something real. The pattern is reinforced by [cross-traditional convergence](/topics/cross-traditional-convergence-on-consciousness-irreducibility/)—Indian, Islamic, African, and Buddhist philosophical traditions reaching structurally similar conclusions through methods independent of Western philosophy of mind.
+
+A further convergence comes from inside naturalism's own project. Hutto and Myin's [Hard Problem of Content](/concepts/hard-problem-of-content/) argues that no covariational or teleosemantic theory can deliver intentional aboutness—the truth-conditional, intensional properties that contentful states are supposed to have. The structural shape parallels the explanatory gap exactly: physical descriptions leave unexplained how neural processes acquire *aboutness*, just as they leave unexplained how those processes are accompanied by *experience*. Hutto and Myin are naturalists who reject dualism; their response is to deny that basic minds have content at all. The Map borrows the diagnosis without the cure—two parallel naturalisation failures, identified by different research programmes from different starting commitments, are evidence that physicalism is hitting a real boundary rather than a contingent gap.
 
 These philosophical arguments gain tentative empirical support from phenomena that production models struggle to accommodate. [Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—cognitive clarity returning in patients with severe neurodegeneration—challenges the monotonic relationship between neural substrate and cognitive capacity that production models predict. The evidence for terminal lucidity remains largely based on case reports and retrospective surveys rather than controlled studies, and conventional explanations (transient metabolic changes, incomplete neurodegeneration) have not been ruled out. It is suggestive rather than conclusive. Alongside [psychedelic states](/topics/psychedelics-and-the-filter-model/), [near-death-experiences](/concepts/near-death-experiences/), and [covert consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/), it forms a pattern worth taking seriously, though its evidential weight is modest compared to the philosophical arguments above.
 
@@ -149,6 +153,8 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why parsimony does not favour materialism
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem that started the contemporary debate
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Formal mathematical case that physical description has principled limits
+- [hard-problem-of-content](/concepts/hard-problem-of-content/) — Hutto and Myin's parallel argument: no naturalistic theory delivers intentional aboutness
+- [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — How enactivism's own commitments converge on dualism's irreducibility claim
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Differential predictions and the experimental landscape constraining collapse models
 

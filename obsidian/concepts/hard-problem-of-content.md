@@ -4,7 +4,8 @@ description: "The argument by Hutto and Myin that no naturalistic theory can exp
 created: 2026-04-27
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-27T00:30:00+00:00
+ai_modified: 2026-04-27T02:43:00+00:00
+last_deep_review: 2026-04-27T02:43:00+00:00
 draft: false
 topics:
   - "[[enactivism-challenge-to-interactionist-dualism]]"
@@ -46,7 +47,7 @@ Dretske's informational semantics is the most developed attempt to derive conten
 
 Hutto and Myin grant the existence of such covariational relations. What they deny is that covariational facts add up to semantic facts. A state that reliably correlates with the presence of food in the environment can be characterised as carrying food-information, but it cannot, on Hutto and Myin's reading, be characterised as *saying* that food is present. Saying-that requires a normative dimension—correctness conditions, the possibility of misrepresentation, intensionality—that the bare covariational story does not deliver. The state will be tokened or not depending on whether the relevant conditions obtain, but there is no fact about what the state is *committing* the organism to.
 
-This is not a complaint that Dretske has missed some particular detail. It is a structural objection: the resources that information-theoretic semantics has available are exhausted by causal and statistical facts, and those facts do not constitute the normative facts that semantic content requires.
+The objection is structural rather than detail-targeted: the resources that information-theoretic semantics has available are exhausted by causal and statistical facts, and those facts do not constitute the normative facts that semantic content requires.
 
 ## The Teleosemantic Variant
 
@@ -64,6 +65,10 @@ In *Evolving Enactivism* (2017), they extend the account to explain how content-
 
 REC remains within naturalism. Hutto and Myin reject [[dualism]] and treat the explanatory gap deflationarily. Their move is to *contain* content—not eliminate it everywhere, but restrict its reach to the level of cognition where sociocultural scaffolding has done its work.
 
+## The Functionalist Reply
+
+A different naturalist response, owed broadly to Dennett's heterophenomenology and to functionalist semantics generally, accepts the bare causal-informational picture but adds that "saying-that" is itself a functional posit—a useful pattern of interpretation rather than a deep metaphysical fact. On this view, normativity is not something a physical state needs to *contain* but something the interpreter ascribes when it predicts behaviour better than non-content-involving descriptions do. Hutto and Myin's reply is that this slides from explaining content to explaining it away: if correctness conditions are projected by the interpreter rather than possessed by the state, then the state has no content of its own, and the question of how *interpreters* acquire correctness conditions reproduces the original problem one level up. The Map agrees with this diagnosis: the functionalist move buys naturalism nothing that the eliminativist's move does not already buy, and it incurs the same self-referential pressure that [[status-of-content|Boghossian]] presses against eliminativism.
+
 ## The Teleosemantic Reply
 
 Stephen Mann and Ross Pain (2021) argue that the Hard Problem of Content objection narrows what teleosemantics is required to deliver in a way the naturalist need not accept. They distinguish two criteria for genuine content: truth-evaluability (the state can be true or false) and intensionality (content can differ while reference holds fixed). They argue that teleosemantics meets the first criterion through its consumer-function machinery and concede that it does not meet the second—but contend that intensionality is a personal-level desideratum, not a requirement on sub-personal cognitive states.
@@ -72,7 +77,7 @@ This reply is dialectically significant. It does not refute the Hard Problem of 
 
 ## Empirical Pressure Points
 
-The negative argument and the positive REC programme are independently assessable. Critics including Lawrence Shapiro, Markus Pantsar, and Mike Ash with Rebecca Welshon have pressed the positive programme on empirical grounds. The case of subitization—rapid numerosity perception of small sets of items—appears to involve representational structure in basic cognition, including in pre-linguistic infants and non-human animals. If so, REC's claim that *all* representational processes require sociocultural scaffolding is empirically false.
+The negative argument and the positive REC programme are independently assessable. Critics including Lawrence Shapiro, Markus Pantsar, and Ash and Welshon have pressed the positive programme on empirical grounds. The case of subitization—rapid numerosity perception of small sets of items—appears to involve representational structure in basic cognition, including in pre-linguistic infants and non-human animals. If so, REC's claim that *all* representational processes require sociocultural scaffolding is empirically false.
 
 Hutto and Myin reply that these capacities admit non-representational descriptions in terms of skilled coupling. The dispute often turns on what counts as "representation," and reviewers including Evan Thompson (NDPR review of *Evolving Enactivism*, 2018) judge the bridge from contentless basic cognition to content-involving sophisticated cognition underspecified. The empirical disputes target REC's positive thesis; they leave the negative argument against naturalising content largely untouched.
 

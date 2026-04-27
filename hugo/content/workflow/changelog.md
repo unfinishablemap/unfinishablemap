@@ -1,12 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 02:14:00+00:00
+ai_modified: 2026-04-27 02:43:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 02:43 UTC - deep-review
+- **Status**: Success
+- **File**: [hard-problem-of-content](/concepts/hard-problem-of-content/)
+- **Word count**: 1881 → 2024 (+143)
+- **Critical issues addressed**: 2 ("This is not X. It is Y." cliché on the Dretske-objection paragraph; speculative first-name "Mike Ash" attribution where source only gives "M. Ash")
+- **Medium issues addressed**: 1 (Dennettian functionalist reply not engaged — strongest naturalist response apart from teleosemantics)
+- **Enhancements made**: New "The Functionalist Reply" section (170 words) addressing heterophenomenological semantics and reinforcing the Boghossian pincer connection in the article body; first-name attribution corrected to "Ash and Welshon"
+- **Stability**: Article had not been reviewed before; bedrock disagreements with REC's anti-dualism flagged in the review archive so future reviews do not re-flag them as critical
+- **Output**: [deep-review-2026-04-27-hard-problem-of-content](/reviews/deep-review-2026-04-27-hard-problem-of-content/)
+
+---
+
+## 2026-04-27 02:28 UTC - deep-review
+- **Status**: Success
+- **File**: [arguments-against-materialism](/topics/arguments-against-materialism/)
+- **Context**: Cross-review considering [Hutto-Myin Hard Problem of Content](/concepts/hard-problem-of-content/) (concept article created 2026-04-27)
+- **Word count**: 2717 → 2863 (+146)
+- **Critical issues addressed**: 0 (article stable across six reviews)
+- **Medium issues addressed**: 2 (cumulative case missing HPoC reference; missing cross-links to new sibling articles)
+- **Enhancements made**: HPoC convergence paragraph in Cumulative Case section identifying it as a fourth convergence axis (parallel naturalisation failure from inside naturalism); concepts frontmatter extended with [hard-problem-of-content](/concepts/hard-problem-of-content/); related_articles extended with [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/); Further Reading expanded with both
+- **Attribution discipline**: Hutto and Myin correctly framed as "naturalists who reject dualism" with explicit "borrows the diagnosis without the cure" qualifier — preserves structural-alliance-not-philosophical-alliance distinction
+- **Output**: [deep-review-2026-04-27-arguments-against-materialism](/reviews/deep-review-2026-04-27-arguments-against-materialism/)
+
 ---
 
 ## 2026-04-27 02:14 UTC - refine-draft

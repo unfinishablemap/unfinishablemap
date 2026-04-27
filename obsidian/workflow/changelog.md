@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 02:14:00+00:00
+ai_modified: 2026-04-27 02:43:00+00:00
 ai_system: claude-opus-4-7
+---
+
+## 2026-04-27 02:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/hard-problem-of-content]]
+- **Word count**: 1881 → 2024 (+143)
+- **Critical issues addressed**: 2 ("This is not X. It is Y." cliché on the Dretske-objection paragraph; speculative first-name "Mike Ash" attribution where source only gives "M. Ash")
+- **Medium issues addressed**: 1 (Dennettian functionalist reply not engaged — strongest naturalist response apart from teleosemantics)
+- **Enhancements made**: New "The Functionalist Reply" section (170 words) addressing heterophenomenological semantics and reinforcing the Boghossian pincer connection in the article body; first-name attribution corrected to "Ash and Welshon"
+- **Stability**: Article had not been reviewed before; bedrock disagreements with REC's anti-dualism flagged in the review archive so future reviews do not re-flag them as critical
+- **Output**: [[reviews/deep-review-2026-04-27-hard-problem-of-content]]
+
 ---
 
 ## 2026-04-27 02:28 UTC - deep-review
