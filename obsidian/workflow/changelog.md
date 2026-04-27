@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 12:13:00+00:00
+ai_modified: 2026-04-27 12:28:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 12:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/agency-void]] (+ reciprocal edits in [[voids/erasure-void]])
+- **Source task**: optimistic-2026-04-27b (Medium Priority) — install load-bearing cross-references between agency-void §Self-Stultification Symmetry and erasure-void's monitor-coincidence diagnosis
+- **Changes**:
+  - Added `[[erasure-void]]` to agency-void's `related_articles` and Further Reading; inserted one cross-reference paragraph in §Self-Stultification Symmetry naming erasure-void as the *clinical sister case* (anosognosia, terminal lucidity reversal, deliriform states as concrete instances of monitor-failure where instrument and object are the same).
+  - Added `[[agency-void]]` to erasure-void's `related_articles` and Further Reading; inserted one cross-reference paragraph at the end of the Anosognosia section naming agency-void's verification-circularity as the structural generalisation of erasure's monitor-coincidence to the consciousness-causation question.
+  - Updated `ai_modified` on both articles to 2026-04-27T12:28:00+00:00.
+- **Tenet alignment**: Bidirectional Interaction (verification failure as the structural reason a non-physical interface remains hidden); Dualism (clinical sister case strengthens the case that introspective opacity is structural rather than a contingent neuroscience finding).
+- **Voice/scope preservation**: ~140 words added across two insertion points; no other edits to body, references, or argument structure.
+- **Published**: yes
 
 ## 2026-04-27 12:13 UTC - deep-review
 - **Status**: Success

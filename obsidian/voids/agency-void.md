@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-27T11:21:00+00:00
+ai_modified: 2026-04-27T12:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -28,6 +28,7 @@ related_articles:
   - "[[ownership-void]]"
   - "[[appetitive-void]]"
   - "[[affective-void]]"
+  - "[[erasure-void]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[limits-reveal-structure]]"
@@ -88,6 +89,8 @@ Both sides of the agency debate face the same barrier.
 
 **Interactionism cannot verify itself either.** If consciousness does cause things, the evidence is gathered *through* consciousness—the system whose causal power is the question. The faculty whose causal status is being adjudicated is the same faculty performing the adjudication.
 
+The clinical sister case is the [[erasure-void]]: in anosognosia, terminal lucidity reversal, and certain deliriform states, the neural infrastructure for self-monitoring shares fate with the capacities it would monitor, so the monitor fails coincident with the loss. The same architectural diagnosis (the instrument and the object are the same) appears there as empirical neuropathology rather than philosophical inference—evidence that introspective opacity is a structural feature, not a contingent neuroscience finding.
+
 When opposing positions both face verification failure for structural reasons, the failure inheres in the question's architecture, not in particular arguments. The structure applies one level up: the claim "consciousness cannot verify its own causation" is itself made *by* consciousness. The meta-claim is third-person-supportable—its evidence is the structural argument and cross-study circularity pattern, not introspection—even when the first-order claim about a particular causal episode is not (cf. [[meta-epistemology-of-limits]]).
 
 ## Four Layers of the Verification Void
@@ -140,6 +143,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[ownership-void]] — Why experiences arrive owned
 - [[affective-void]] — The emotions we cannot feel
 - [[appetitive-void]] — The desires we cannot choose
+- [[erasure-void]] — Clinical sister case: self-monitoring eroding alongside what it would monitor
 - [[meta-epistemology-of-limits]] — Whether cognitive limits can be known from within
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each tenet generates its characteristic void
 - [[topics/free-will|Free Will]] — The broader context for questions of agency

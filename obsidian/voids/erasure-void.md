@@ -4,7 +4,7 @@ description: "Consciousness cannot inventory its own deletions. When cognitive c
 created: 2026-04-20
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-27T09:58:00+00:00
+ai_modified: 2026-04-27T12:28:00+00:00
 last_deep_review: 2026-04-27T09:58:00+00:00
 draft: false
 topics:
@@ -24,6 +24,7 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[necessary-opacity]]"
   - "[[limits-reveal-structure]]"
+  - "[[agency-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -58,6 +59,8 @@ Research on Alzheimer's disease distinguishes three forms of metacognitive failu
 The pattern that emerges is not selective failure but parallel decline: as memory degrades, awareness of memory degradation degrades with it. Patients in later Alzheimer's stages typically report fewer memory complaints than those in earlier stages. The dual burden compounds—losing capacity and losing the ability to notice the loss—until the subject reports a coherent self that bears decreasing relationship to actual cognitive function.
 
 Anosognosia is the extreme case, but the principle is universal. Subtle cognitive decline in normal ageing often goes unnoticed by the individual while being plainly visible to family. The Dunning-Kruger structure—where the metacognitive skills required to recognise incompetence are the same skills that constitute competence—generalises the point: any system whose self-audit depends on the capacities under audit is structurally vulnerable to silent erasure.
+
+The same diagnosis generalises beyond cognitive deficit. The [[agency-void]] develops verification-circularity for the consciousness-causation question: every check on whether consciousness causes anything is performed by the faculty whose causal powers are in question, leaving no external reference point. Anosognosia and clinical erasure are the concrete clinical face of that structural problem—self-monitoring failing because the monitor shares substrate with what it monitors. Where erasure shows the failure as empirical neuropathology, agency-void shows the same architecture (instrument and object the same) governing the question of whether the non-physical interface acts at all.
 
 ## The Phenomenology of Absence-of-Absence
 
@@ -114,6 +117,7 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 - [[observation-and-measurement-void]]
 - [[necessary-opacity]]
 - [[limits-reveal-structure]]
+- [[agency-void]]
 - [[metacognition]]
 - [[consciousness-and-memory]]
 - [[personal-identity]]
