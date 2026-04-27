@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 08:52:00+00:00
+ai_modified: 2026-04-27 08:59:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 08:59 UTC - deep-review
+- **Status**: Success (cross-review to install recent void references)
+- **File**: [[apex/taxonomy-of-voids]]
+- **Word count**: 4356 → 4363 (+7, length-neutral mode; 109% of 4000 soft cap unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (inference-void absent from Methods despite shadowing apophatic cartography's inferential machinery; Polanyi reference in ineffable-encounter discussion not linked to its dedicated tacit-integration-void; agency-void absent from Bidirectional Interaction tenet section despite being the void most directly engaged with the verification-failure half of Tenet 3)
+- **Enhancements made**: 4 (parallel two-horizon Methods framing covering both formulation and inferential limits; Polanyi cross-link upgrade to tacit-integration-void; Bidirectional Interaction tenet sentence sharpened with agency-void's verification-failure framing; recognition-void paragraph tightened from 53→25 words to compensate)
+- **Output**: [[reviews/deep-review-2026-04-27-taxonomy-of-voids]]
 
 ## 2026-04-27 08:52 UTC - deep-review
 - **Status**: Success (stability confirmation — no content change)
