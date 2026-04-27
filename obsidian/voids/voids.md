@@ -4,9 +4,9 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-04-24
 human_modified: 2026-01-08
-ai_modified: 2026-04-27T07:29:00+00:00
+ai_modified: 2026-04-27T17:12:00+00:00
 draft: false
-last_deep_review: 2026-04-21T01:38:00+00:00
+last_deep_review: 2026-04-27T17:12:00+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -108,8 +108,7 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[infant-consciousness|The Infant Consciousness Void]] — Why our own infant experience is more alien than another adult's mind
 - [[minimal-consciousness-void|The Minimal Consciousness Void]] — Why consciousness cannot investigate its own lower bound
 - [[amplification-void|The Amplification Void]] — Why the chain from quantum influence to neural effect cannot be traced
-- [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings: neither the onset of mental acts nor transitions between states
-- [[distraction-void|The Distraction Void]] — Why the moment of attentional capture is systematically unavailable to the consciousness that is captured
+- [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings: neither the onset of a mental act, nor the transition between states, nor the moment attention is captured (coalesced with distraction-void 2026-04-27)
 - [[agency-void|The Agency Void]] — Two complementary limits at the heart of conscious agency: consciousness cannot control most of its own states (involuntariness face) and cannot verify whether it causes anything at all (verification face) (coalesced from involuntariness-void and agency-verification-void 2026-04-27)
 - [[thrownness-void|The Thrownness Void]] — Why consciousness cannot access the conditions under which it became conscious
 - [[smoothness-and-continuity|Smoothness and Continuity]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
@@ -195,15 +194,17 @@ The voids framework flows directly from the Map's [[tenets]]:
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [[apophatic-cartography|apophatic cartography]]—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-04-27
+<!-- AI REFINEMENT LOG - 2026-04-27 (deep-review)
 Changes made:
-- Added [[tacit-integration-void]] to Foundational Articles, placed immediately after [[inference-void]]. The article is structural and self-identifies as constraining the Map's own apophatic method (it notes that "the catalogue of voids is itself an exercise in tacit integration"), which puts it alongside the second-order/methodological cluster (epistemic-horizon-void, question-formation-void, inference-void) rather than with the phenomenon-specific Specific Voids. Description follows the lede framing—from-to bearing relation, candidate structural impossibility—and includes the methodological reach so the entry reads correctly at the foundational level.
-- Updated ai_modified timestamp to 2026-04-27T06:44:00+00:00.
+- Removed stale [[distraction-void]] index entry (line 112). The article was archived 2026-04-27 via /coalesce, merged into [[transit-void]]. Section index pointing to an archived sibling is a navigation flaw.
+- Extended [[transit-void]] index description to incorporate the attentional-capture face previously carried by distraction-void: "neither the onset of a mental act, nor the transition between states, nor the moment attention is captured." Wording matches transit-void's own current description, so the index entry stays faithful to the source article.
+- Net: -1 line, length headroom recovered (2311 → ~2298 words).
+- Updated ai_modified and last_deep_review timestamps to 2026-04-27T17:12:00+00:00.
 
-Single-line addition; no restructuring.
+Single targeted change; no restructuring.
 
 This log should be removed after human review.
 
-Prior log (2026-04-26: question-formation-void, source-attribution-void, semantic-void additions) removed; those entries are still in place above.
+Prior log (2026-04-27 morning: tacit-integration-void addition) removed; that entry is still in place above.
 -->
 

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 16:57:00+00:00
+ai_modified: 2026-04-27 17:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 17:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Word count**: 2311 → 2303 (-8)
+- **Critical issues addressed**: 1 (stale wikilink to archived [[distraction-void]])
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (transit-void index entry extended to incorporate attentional-capture face from coalesced article)
+- **Trigger**: Upstream coalesce f68bf6c41 (distraction-void → transit-void)
+- **Output**: [[reviews/deep-review-2026-04-27-voids]]
 
 ## 2026-04-27 16:57 UTC - coalesce
 - **Status**: Success

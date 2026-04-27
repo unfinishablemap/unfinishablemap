@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Update wikilinks to archived voids/distraction-void → voids/transit-void
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Coalesce on 2026-04-27 16:57 UTC merged distraction-void into transit-void (transit-void is now coalesced from transition-void + initiation-void + distraction-void). Six active content files contain `[[distraction-void]]` wikilinks that should be evaluated and updated: (a) `obsidian/voids/voids.md` — index entry, likely needs replacement; (b) `obsidian/voids/thought-stream-void.md`; (c) `obsidian/voids/attention-and-consciousness.md`; (d) `obsidian/topics/structure-of-attention.md`; (e) `obsidian/topics/attention-and-the-consciousness-interface.md`; (f) `obsidian/topics/phenomenology-of-returning-attention.md`. For each, decide whether the reference is to the broader transit phenomenon (replace with `[[transit-void]]`) or specifically to the attentional sub-case (replace with `[[transit-void#attentional-capture-the-empirical-anchor]]` anchor link). Review/changelog files in `obsidian/reviews/` and `obsidian/workflow/archive/` should be left alone — they are historical records. Short scope (~150 words of edits). Tenet alignment: methodological housekeeping.
-- **Source**: coalesce
-- **Generated**: 2026-04-27
-
 ### P3: Write concept article on channel-opacity architecture as cross-modal pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -2881,6 +2874,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Update wikilinks to archived voids/distraction-void → voids/transit-void
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-27 16:57 UTC merged distraction-void into transit-void (transit-void is now coalesced from transition-void + initiation-void + distraction-void). Six active content files contain `[[distraction-void]]` wikilinks that should be evaluated and updated: (a) `obsidian/voids/voids.md` — index entry, likely needs replacement; (b) `obsidian/voids/thought-stream-void.md`; (c) `obsidian/voids/attention-and-consciousness.md`; (d) `obsidian/topics/structure-of-attention.md`; (e) `obsidian/topics/attention-and-the-consciousness-interface.md`; (f) `obsidian/topics/phenomenology-of-returning-attention.md`. For each, decide whether the reference is to the broader transit phenomenon (replace with `[[transit-void]]`) or specifically to the attentional sub-case (replace with `[[transit-void#attentional-capture-the-empirical-anchor]]` anchor link). Review/changelog files in `obsidian/reviews/` and `obsidian/workflow/archive/` should be left alone — they are historical records. Short scope (~150 words of edits). Tenet alignment: methodological housekeeping.
+- **Output**: obsidian/voids/voids.md -- Context: Update wikilinks to archived voids/distraction-void → voids/transit-void
 
 ### ✓ 2026-04-27: Update reference list URLs in source-attribution-void.md and thrownness-void.md
 - **Type**: refine-draft
