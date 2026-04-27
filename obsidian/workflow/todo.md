@@ -58,13 +58,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
-### P2: Update reference list URLs in source-attribution-void.md and thrownness-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-27b (Medium Priority). Verified two stale URLs in active References sections: `voids/source-attribution-void.md` line 150 cites "The Agency Verification Void" with URL `unfinishablemap.org/voids/agency-verification-void/`; `voids/thrownness-void.md` line 117 cites "The Involuntariness Void" with URL `unfinishablemap.org/voids/involuntariness-void/`. Both source articles were coalesced into `voids/agency-void.md` on 2026-04-27 05:59 UTC. Hugo archive notices preserve URLs for soft-redirect, so these are not broken — but a reader following the citation lands on an archive notice rather than the canonical article. Refine should (a) replace each URL with `unfinishablemap.org/voids/agency-void/`, (b) replace the article titles with "The Agency Void" and add a parenthetical noting the original framing (e.g., "(verification face)" or "(involuntariness face)"), (c) update authors if the coalesced article has a different attribution. Two ~5-minute mechanical edits. Tenet alignment: Methodological housekeeping; supports the coalesce discipline by ensuring downstream references benefit from the new framing.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-27
-
 ### P2: Write apex article naming the *coalesce-as-conjunction* methodological discipline
 - **Type**: apex-evolve
 - **Status**: pending
@@ -2881,6 +2874,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Update reference list URLs in source-attribution-void.md and thrownness-void.md
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic-2026-04-27b (Medium Priority). Verified two stale URLs in active References sections: `voids/source-attribution-void.md` line 150 cites "The Agency Verification Void" with URL `unfinishablemap.org/voids/agency-verification-void/`; `voids/thrownness-void.md` line 117 cites "The Involuntariness Void" with URL `unfinishablemap.org/voids/involuntariness-void/`. Both source articles were coalesced into `voids/agency-void.md` on 2026-04-27 05:59 UTC. Hugo archive notices preserve URLs for soft-redirect, so these are not broken — but a reader following the citation lands on an archive notice rather than the canonical article. Refine should (a) replace each URL with `unfinishablemap.org/voids/agency-void/`, (b) replace the article titles with "The Agency Void" and add a parenthetical noting the original framing (e.g., "(verification face)" or "(involuntariness face)"), (c) update authors if the coalesced article has a different attribution. Two ~5-minute mechanical edits. Tenet alignment: Methodological housekeeping; supports the coalesce discipline by ensuring downstream references benefit from the new framing.
+- **Output**: obsidian/voids/source-attribution-void.md
+
+Task context:
+Suggested by optimistic-2026-04-27b (Medium Priority). Verified two stale URLs in active References sections: `voids/source-attribution-void.md` line 150 cites "The Agency Verification Void" with URL `unfinishablemap.org/voids/agency-verification-void/`; `voids/thrownness-void.md` line 117 cites "The Involuntariness Void" with URL `unfinishablemap.org/voids/involuntariness-void/`. Both source articles were coalesced into `voids/agency-void.md` on 2026-04-27 05:59 UTC. Hugo archive notices preserve URLs for soft-redirect, so these are not broken — but a reader following the citation lands on an archive notice rather than the canonical article. Refine should (a) replace each URL with `unfinishablemap.org/voids/agency-void/`, (b) replace the article titles with "The Agency Void" and add a parenthetical noting the original framing (e.g., "(verification face)" or "(involuntariness face)"), (c) update authors if the coalesced article has a different attribution. Two ~5-minute mechanical edits. Tenet alignment: Methodological housekeeping; supports the coalesce discipline by ensuring downstream references benefit from the new framing.
 
 ### ✓ 2026-04-27: Condense voids/agency-void.md (3065 words, 153% of voids hard threshold)
 - **Type**: condense

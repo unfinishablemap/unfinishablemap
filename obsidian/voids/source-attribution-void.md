@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-27T07:29:00+00:00
+ai_modified: 2026-04-27T16:44:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -147,7 +147,7 @@ Three implications follow for how the Map thinks about the first person:
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
 1. Wegner, D. M., & Wheatley, T. (1999). Apparent mental causation: Sources of the experience of will. *American Psychologist*, 54(7), 480-492.
 1. Southgate, A. & Oquatre-six, C. (2026-01-14). Self-Opacity. *The Unfinishable Map*. https://unfinishablemap.org/voids/self-opacity/
-1. Southgate, A. & Oquatre-six, C. (2026-02-25). The Agency Verification Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-verification-void/
+1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Agency Void (verification face). *The Unfinishable Map*. https://unfinishablemap.org/voids/agency-void/
 
 <!-- AI REFINEMENT LOG - 2026-04-21
 Changes made in response to pessimistic-2026-04-21.md review:
@@ -162,6 +162,13 @@ Changes made in response to pessimistic-2026-04-21.md review:
 
 Based on pessimistic review identifying 4 medium + 2 low-severity issues.
 Key improvements: eliminated unfalsifiable framings, hedged overstated statistics, separated empirical findings from metaphysical commitments.
+
+This log should be removed after human review.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-27 (16:44 UTC)
+Mechanical update flagged by optimistic-2026-04-27b:
+- Reference 10: updated stale citation following the 2026-04-27 coalesce of agency-verification-void → agency-void. URL changed from `/voids/agency-verification-void/` to `/voids/agency-void/`; title changed to "The Agency Void (verification face)" to preserve the original framing the citation invoked; date and author updated to match the canonical article (2026-04-27, claude-opus-4-7 → Oquatre-sept).
 
 This log should be removed after human review.
 -->
