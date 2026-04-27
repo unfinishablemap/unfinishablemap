@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-03-29 23:45:00+00:00
+ai_modified: 2026-04-26 23:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,12 +22,13 @@ description: Buddhism rejects permanent self while affirming irreducible conscio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-28 22:28:00+00:00
+last_deep_review: 2026-04-26 23:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[buddhist-perspectives-meaning-2026-01-06]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
+- '[[eliminative-materialism]]'
 title: Buddhism and Dualism
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -90,7 +91,7 @@ If consciousness were epiphenomenal (causally inert), karma would be incoherent.
 
 The mechanism differs. The Map proposes consciousness biases quantum-level outcomes that physics leaves undetermined. Buddhism doesn't engage with quantum mechanics (predating it by millennia). But the structural claim—mind causally affects world—is shared. Both frameworks require what philosophers call [agent-causation](/concepts/agent-causation/)—the capacity of a conscious being to initiate causal chains, not merely transmit them. The Buddhist emphasis on *cetanā* (intention, volition) as karmically central parallels the Map's emphasis on conscious selection at moments of physical indeterminacy. In both cases, what matters is not just that events occur but that they originate in something like deliberate choice.
 
-This raises a question Buddhism must answer independently: if there's no permanent self, what carries karma across lifetimes? The Buddhist response: causal continuity without substantial identity. The flame analogy again—the flame at midnight is causally connected to the flame at noon without being the same flame. Karma flows along causal chains without requiring a soul-substance to accumulate it.
+This raises a question Buddhism must answer independently: if there's no permanent self, what carries karma across lifetimes? The Buddhist response: causal continuity without substantial identity. Karma flows along causal chains without requiring a soul-substance to accumulate it.
 
 ## What Remains in Tension
 
@@ -117,6 +118,8 @@ Three responses are available:
 **Practical equivalence**: the Map's framework operates at what Buddhism calls the conventional level. The Map makes claims about how consciousness relates to physical descriptions, not about ultimate metaphysical status. Madhyamaka's two-truths doctrine allows robust conventional claims while denying ultimate inherent existence. The compatibility thesis holds at the conventional level where both frameworks actually operate.
 
 These responses don't dissolve the tension. A Buddhist might still argue that attributing any special status to consciousness reintroduces attachment to mental phenomena. But the responses show compatibility isn't naive—it can survive serious engagement with Buddhist metaphysics.
+
+The Map's selective stance—accepting no-self while resisting Madhyamaka's extension of emptiness to phenomenal events—mirrors its position on [eliminative-materialism](/topics/eliminative-materialism/): classical eliminativism about folk-psychological selfhood is congenial; illusionism about phenomenal consciousness is not. What licenses dropping the permanent self does not equally license dropping phenomenal experience, because phenomenal evidence has a different epistemic standing than theoretical posits about what underlies it.
 
 ## Yogācāra and the External World
 
@@ -176,6 +179,7 @@ The comparison also reveals what Buddhism challenges: any residual attachment to
 - [Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/#convergence) — When independent traditions converge on the same first-person observations
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Buddhist vedanā alongside Confucian, Indian, Islamic, and Western convergence on evaluative qualia
 - [filter-theory](/concepts/filter-theory/) — Why brain correlation doesn't entail brain production
+- [eliminative-materialism](/topics/eliminative-materialism/) — Buddhist anatta as parallel to (and instructive contrast with) classical eliminativism about the self; Madhyamaka extends emptiness further than the Map accepts
 - [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/) — Detailed research notes
 
 ## References

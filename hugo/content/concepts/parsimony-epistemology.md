@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-23 19:33:00+00:00
+ai_modified: 2026-04-26 21:39:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -25,7 +25,7 @@ description: Why Occam's Razor lacks epistemic warrant in the consciousness deba
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-04 12:12:00+00:00
+last_deep_review: 2026-04-26 21:39:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -55,7 +55,7 @@ Occam's Razor — prefer the simpler explanation — is widely invoked but rarel
 
 **Ontological parsimony** counts entity types. Physicalism posits one substance; dualism posits two. By this measure, physicalism is simpler.
 
-**Syntactic simplicity** counts theoretical principles and mechanisms. Physicalism has generated [functionalism](/concepts/functionalism/), higher-order thought theory, global workspace theory, [illusionism](/concepts/illusionism/), eliminativism, and multiple versions of identity theory — each adding machinery to accommodate consciousness within a single-substance framework. Dualism's core claim — that consciousness exists because something non-physical exists — is structurally more direct.
+**Syntactic simplicity** counts theoretical principles and mechanisms. Physicalism has generated [functionalism](/concepts/functionalism/), higher-order thought theory, global workspace theory, [illusionism](/concepts/illusionism/), [eliminativism](/topics/eliminative-materialism/), and multiple versions of identity theory — each adding machinery to accommodate consciousness within a single-substance framework. Dualism's core claim — that consciousness exists because something non-physical exists — is structurally more direct.
 
 **Explanatory simplicity** counts unexplained brute facts. Physicalism treats [phenomenal experience](/concepts/qualia/) as brute — it happens when matter is configured correctly, with no explanation of why. Dualism provides a reason: there is genuinely something beyond the physical. Zanotti (2021) argues that physicalism's need to accommodate consciousness in a framework with no natural place for it is a parsimony cost typically overlooked.
 
@@ -116,7 +116,7 @@ William Lycan (2009), a committed materialist of over forty years, reviewed the 
 
 Even Paul Churchland, whose "Raze Dualism" argument (1988) is the canonical parsimony case against dualism, qualifies in the original edition of *Matter and Consciousness* (1984) that the razor is "inconclusive regarding duality." If parsimony's foremost advocate acknowledges the argument does not settle the question, the routine dismissal of dualism on parsimony grounds lacks supporting authority.
 
-These concessions cannot be dismissed as motivated reasoning from dualists. Anderson (2002) reinforces them, subjecting Churchland's "Raze Dualism" argument to systematic critique and concluding it "is undermined by assumptions which do not withstand scrutiny" — the theories do not explain the data equally well, "simpler" is undefined across multiple dimensions, and the razor cannot uniquely favour physicalism.
+These concessions cannot be dismissed as motivated reasoning from dualists. Anderson (2002) reinforces them, subjecting Churchland's "Raze Dualism" argument to systematic critique and concluding it "is undermined by assumptions which do not withstand scrutiny."
 
 ### The Idealism Parity and the Trilemma
 
@@ -167,6 +167,7 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 - [epistemological-limits-of-occams-razor](/arguments/epistemological-limits-of-occams-razor/) — The full philosophical case against parsimony in consciousness
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Parsimony as cognitive boundary
 - [parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/) — The positive case that dualism is simpler once all costs are counted
+- [eliminative-materialism](/topics/eliminative-materialism/) — The limit case of parsimony-driven physicalism: applying Occam's Razor to consciousness itself
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The epistemology of epistemic limits themselves
 - [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — The measurement problem as a case where adding consciousness simplifies explanation
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Where parsimony may systematically exclude evidence from the domain where it matters most

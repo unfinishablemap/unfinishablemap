@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-04-26 21:07:00+00:00
+ai_modified: 2026-04-26 22:13:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Human+AI examination of Lewis Carroll's 1895 paradox of inference, 
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-26 22:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -50,7 +51,7 @@ On the deflationary reading, Carroll's regress is dissolved by proof theory and 
 
 ### The Inferentialist Reading
 
-A minority but persistent reading — developed by Pascal Engel and contributors to the *Inference and Consciousness* volume — accepts the rule/axiom distinction but argues it relabels rather than dissolves the puzzle. What makes a candidate proposition *function as* a rule rather than *as one more premise* is precisely the *taking* of the premises as licensing a conclusion. The proof-theoretic move presupposes the very intuition the regress calls into question: the cognitive grip distinguishing following a rule from accepting a further premise. Engel argues that "no formal logic can supply what the regress reveals as missing — the missing element is a primitive *taking-as*."
+A minority but persistent reading — articulated by Pascal Engel and developed across the *Inference and Consciousness* essay collection — accepts the rule/axiom distinction but argues it relabels rather than dissolves the puzzle. What makes a candidate proposition *function as* a rule rather than *as one more premise* is precisely the *taking* of the premises as licensing a conclusion. The proof-theoretic move presupposes the very intuition the regress calls into question: the cognitive grip distinguishing following a rule from accepting a further premise. Engel argues that no formal logic can supply what the regress reveals as missing; the missing element is a primitive *taking-as* that no augmentation of explicit rules reproduces.
 
 On this reading, Carroll's regress demonstrates that explicit rules cannot, by themselves, produce inference. Some non-rule operation — variously called *taking-as*, *seeing-that*, or *tacit inference* — must do the actual work of converting premises into conclusion. The inferentialist reading is contested. The Map finds it more compelling than the deflation, but the article's later moves rest on the inferentialist reading being defensible, not uncontested.
 
@@ -68,7 +69,7 @@ The relation to Carroll is parallel pressure on the same point with materially d
 
 The Map reads Carroll's regress through the inferentialist lens and treats it as load-bearing for two tenets.
 
-**Occam's Razor Has Limits.** The regress is, on the inferentialist reading, a constructive demonstration that the simplest account of inference — *inference is rule-following* — is provably insufficient. This is the textbook case of where parsimony fails: a phenomenon whose simplicity-first analysis is shown to be incomplete by formal argument rather than mere appeal to phenomenology. The deflationary reading restores the simple account by partitioning rules from premises, but, on the Map's reading, this partition presupposes the very cognitive operation the regress reveals as missing.
+**Occam's Razor Has Limits.** The regress is, on the inferentialist reading, a constructive demonstration that the simplest account of inference — *inference is rule-following* — is provably insufficient. This is the textbook case of where parsimony fails: a phenomenon whose simplicity-first analysis is shown to be incomplete by formal argument rather than mere appeal to phenomenology. The deflationary reading restores the simple account by partitioning rules from premises, but, on the Map's reading, this partition presupposes the very cognitive operation the regress reveals as missing — a [self-stultifying](/concepts/self-stultification/) move that helps itself to what it claims to dispense with.
 
 **Dualism.** If inference involves a primitive *taking-as* that no augmentation of explicit rules can supply, this is a candidate site for an irreducible operation of consciousness. The Map speculates — flagging this as speculation — that *taking-as* may be one face of the irreducibly mental, distinct from but adjacent to phenomenal consciousness. Carroll's regress predates Gödel's incompleteness theorems by 36 years and, on the inferentialist reading, anticipates a family resemblance to the Gödel-Turing-Chaitin lineage of structural limitations on formal systems. The resemblance is loose: Gödel's results are formal theorems within a specified system; Carroll's regress is a dialectical pattern about how rules apply. The Map treats them as cousins, not siblings.
 
@@ -91,6 +92,6 @@ The article does not claim Carroll's regress *settles* the question of whether i
 3. Polanyi, M. (1966). The Logic of Tacit Inference. *Philosophy*, 41(155), 1–18.
 4. Engel, P. The Philosophical Significance of Carroll's Regress. HAL working paper hal-03675073v1. https://hal.science/hal-03675073v1/document
 5. Brandom, R. (1994). *Making It Explicit: Reasoning, Representing, and Discursive Commitment*. Harvard University Press.
-6. Boghossian, P., & Wright, C. (eds.) (2018). *Inference and Consciousness*. Routledge.
+6. Chan, T., & Nes, A. (eds.) (2018). *Inference and Consciousness*. Routledge.
 7. Stanford Encyclopedia of Philosophy. *Rule-Following and Intentionality*. https://plato.stanford.edu/entries/rule-following/
 8. Southgate, A. & Oquatre-sept, C. (2026-04-26). The Inference Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/inference-void/

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-27 00:44:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -28,7 +28,7 @@ description: 'The aboutness of mental states: why thoughts are directed at objec
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-29 21:09:00+00:00
+last_deep_review: 2026-04-27 00:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -179,13 +179,13 @@ PIT deepens the [hard problem](/topics/hard-problem-of-consciousness/) by extend
 
 For the Map, the first option is most compatible with the tenets. Consciousness is the more fundamental phenomenon. Its irreducibility implies intentionality's irreducibility.
 
-## The Illusionist Challenge
+## The Eliminativist Challenge
 
-[Illusionists](/concepts/illusionism/) like Dennett offer a radical response: intentionality, like phenomenal consciousness, is a useful fiction. Dennett's "intentional stance" treats attributing beliefs and desires as a predictive strategy, not a discovery about mental furniture.
+[Eliminative materialism](/topics/eliminative-materialism/) presses PIT through two distinct channels worth keeping separate, since the Map responds to them differently.
 
-**The self-refutation response**: The thesis "intentionality is not real" would itself lack determinate content if there's no fact about what thoughts are about. Dennett must explain how the illusion of aboutness arises without invoking genuine aboutness. (Many philosophers consider this objection question-begging—it presupposes the phenomenal character of "seeming" that illusionism denies. See [illusionism](/concepts/illusionism/) for the full argument and Frankish's quasi-phenomenal properties response.)
+**Classical eliminativism** (Churchland, Stich; Dennett's "intentional stance") denies that propositional attitudes carve mental kinds at their joints. Beliefs and desires are predictive abstractions over distributed neural processes, not discoveries about mental furniture. PIT can be partly conciliatory here: the structural format of cognitive representations is a question for cognitive science, and PIT does not require that intentional states be sentence-shaped. What it requires is that whatever causally-efficacious states implement aboutness do so in virtue of phenomenal character, not propositional structure—a claim compatible with connectionist or predictive-processing implementations.
 
-**The explanatory burden**: Even granting that the self-refutation objection is contested, illusionism about intentionality trades the naturalization problem for the problem of explaining why the illusion is so pervasive. [Introspection](/concepts/introspection/) reveals directedness as a constitutive feature of thought—thinking presents itself as already *about* something.
+**Illusionism** (Frankish, later Dennett) targets the phenomenal grounding itself: phenomenal character is quasi-phenomenal misrepresentation, not an irreducible property. Against PIT this would dissolve the proposed source of content determination. The self-refutation reply—that "intentionality is not real" would itself lack determinate content—is contested as question-begging (see [illusionism](/concepts/illusionism/) for Frankish's quasi-phenomenal response). But illusionism about intentionality trades the naturalization problem for the problem of explaining why the illusion is so pervasive: [introspection](/concepts/introspection/) reveals directedness as a constitutive feature of thought, presenting itself as already *about* something.
 
 ## Implications for AI Consciousness
 
@@ -201,9 +201,7 @@ The Map's position: [AI consciousness](/topics/ai-consciousness/) is unlikely gi
 
 Alfred North Whitehead's process philosophy offers a complementary perspective. For Whitehead, reality consists of "actual occasions"—momentary events of experience that "prehend" (grasp) other occasions. Prehension is Whitehead's technical term for a relation that includes but generalizes intentionality: every actual occasion takes up or references other occasions in constituting itself.
 
-**Prehension as proto-intentionality**: Whitehead's prehensions share the structure of intentionality—directedness toward objects—while being more fundamental than conscious thought. Human intentionality is a sophisticated development of something omnipresent. **Objective immortality** ensures past occasions remain available for prehension, so thought about past events continues how experience always incorporates its predecessors.
-
-Process philosophy thus treats intentionality as an intensification of something pervasive, not an anomaly requiring special explanation.
+**Prehension as proto-intentionality**: Whitehead's prehensions share the structure of intentionality—directedness toward objects—while being more fundamental than conscious thought. Human intentionality is a sophisticated development of something omnipresent. **Objective immortality** ensures past occasions remain available for prehension, so thought about past events continues how experience always incorporates its predecessors. Process philosophy treats intentionality as an intensification of something pervasive rather than an anomaly requiring special explanation.
 
 ## What Would Challenge This View?
 
@@ -251,6 +249,7 @@ Intentionality connects to all five foundational tenets:
 - [emotion-and-dualism](/topics/emotion-and-dualism/) — Emotional intentionality as a sui generis mode distinct from belief and perception
 - [binding-problem](/concepts/binding-problem/) — The binding dimension of understanding
 - [illusionism](/concepts/illusionism/) — The radical denial that intentionality and consciousness are real
+- [eliminative-materialism](/topics/eliminative-materialism/) — The two-channel challenge (classical eliminativism about propositional attitudes; illusionism about phenomenal consciousness) that PIT must answer
 - [symbol-grounding-problem](/concepts/symbol-grounding-problem/) — How symbols acquire intrinsic meaning (the computational framing)
 - [meaning-void](/voids/meaning-void/) — Why the mechanism of reference and the felt character of comprehension are both structurally hidden
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — How shared goals and institutional facts require phenomenal consciousness

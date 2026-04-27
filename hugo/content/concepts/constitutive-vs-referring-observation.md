@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-04-26 20:54:00+00:00
+ai_modified: 2026-04-27 01:13:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,6 +21,7 @@ description: Some observations track independent targets; others constitute thei
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-27 01:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -84,7 +85,7 @@ The distinction also bears on [Tenet 5 (Occam's Razor Has Limits)](/tenets/#occa
 
 ## Honest Limitation
 
-The constitutive-observation framing is itself foundational and contested. The illusionist's response is to deny precisely this — to maintain that the seeming-of-phenomenality is itself a higher-order representational state with its own functional properties, and that the seeming and the property it represents *can* come apart in the same way any representation and its target can. On this view there is no constitutive relation; there is a representation that misrepresents itself as constitutively related to a phenomenal property that does not exist. The Map cannot dislodge this view by argument from premises the illusionist already accepts.
+The constitutive-observation framing is itself foundational and contested. The illusionist's response is to deny precisely this — to maintain, in the lineage of [higher-order theories](/concepts/higher-order-theories/) (Rosenthal) and self-representational theories (Kriegel), that the seeming-of-phenomenality is itself a representational state with its own functional properties, and that the seeming and the property it represents *can* come apart in the same way any representation and its target can. On this view there is no constitutive relation; there is a representation that misrepresents itself as constitutively related to a phenomenal property that does not exist. The Map cannot dislodge this view by argument from premises the illusionist already accepts — the dispute is whether introspection is referring (representational) or constitutive (acquaintance-like) at its bedrock, and each side will read the phenomenology of one's own case as confirming their structural picture.
 
 Defence of the constitutive-observation framing rests on the broader fit of the dualist framework with the apodictic standing of layer-1 reports, the failure of physicalist accounts to close the explanatory gap on their own terms, and the Moorean asymmetry between the confidence carried by phenomenal evidence and the confidence carried by any theoretical premise that would overrule it (see [self-stultification](/concepts/self-stultification/) for the family of arguments this connects to).
 
