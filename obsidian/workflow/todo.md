@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/identity-across-transformations.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (`ai_contribution: 100`) last deep-reviewed 2026-03-12 — 46 days ago. Load-bearing apex article on indexical identity, transformative experience, and the Map's Tenet 4 (No Many Worlds) commitments. Has likely accumulated drift relative to recent voids work — particularly the 2026-04-27 agency-void coalesce, the un-coalesced temporal-void / transit-void / thrownness-void cluster, and the constitutive-vs-referring-observation distinction installed 2026-04-26. Verify (a) cross-references to `voids/transit-void.md`, `voids/thrownness-void.md`, `voids/erasure-void.md`, and `voids/inaccessible-past.md` are present and reciprocal, (b) treatment of personal identity remains consistent with the recent self-stultification-symmetry framing in the agency-void cluster (Kane, indexical persistence under verification limits), (c) tenet alignment remains intact under the current phrasing of No Many Worlds and Dualism, (d) "not X but Y" constructs and style violations resolved, (e) no stale inbound references to archived voids (involuntariness-void, agency-verification-void, intentionality-void, semantic-void, reality-feeling-void, etc.). Medium scope. Tenet alignment: No Many Worlds (load-bearing), Dualism, Bidirectional Interaction.
-- **Source**: staleness
-- **Generated**: 2026-04-27
-
 ### P2: Cross-link voids/agency-void.md ↔ voids/erasure-void.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2860,6 +2853,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Deep review apex/identity-across-transformations.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (`ai_contribution: 100`) last deep-reviewed 2026-03-12 — 46 days ago. Load-bearing apex article on indexical identity, transformative experience, and the Map's Tenet 4 (No Many Worlds) commitments. Has likely accumulated drift relative to recent voids work — particularly the 2026-04-27 agency-void coalesce, the un-coalesced temporal-void / transit-void / thrownness-void cluster, and the constitutive-vs-referring-observation distinction installed 2026-04-26. Verify (a) cross-references to `voids/transit-void.md`, `voids/thrownness-void.md`, `voids/erasure-void.md`, and `voids/inaccessible-past.md` are present and reciprocal, (b) treatment of personal identity remains consistent with the recent self-stultification-symmetry framing in the agency-void cluster (Kane, indexical persistence under verification limits), (c) tenet alignment remains intact under the current phrasing of No Many Worlds and Dualism, (d) "not X but Y" constructs and style violations resolved, (e) no stale inbound references to archived voids (involuntariness-void, agency-verification-void, intentionality-void, semantic-void, reality-feeling-void, etc.). Medium scope. Tenet alignment: No Many Worlds (load-bearing), Dualism, Bidirectional Interaction.
+- **Output**: obsidian/apex/identity-across-transformations.md
 
 ### ✓ 2026-04-27: Deep review apex/machine-question.md
 - **Type**: deep-review

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 11:43:00+00:00
+ai_modified: 2026-04-27 12:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 12:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/identity-across-transformations]]
+- **Word count**: 3776 → 3812 (+36; 95% of 4000 apex soft target)
+- **Critical issues addressed**: 1 (Mashour reference mismatch — body cites 2023 BJA Open three-states paper but references list cited the unrelated 2024 Neuron paper; corrected and added the 2024 paper as a separate entry)
+- **Medium issues addressed**: 2 (Pinto et al. 2017 citation added inline for split-brain findings; restored process-haecceitism cross-link via `[[haecceity#process-haecceitism]]` anchor — the originally-linked standalone article was archived/coalesced and the link was lost in the 2026-04-17 re-synthesis)
+- **Enhancements made**: 1 (added two missing references — Mashour 2023 BJA Open, Pinto et al. 2017)
+- **Attribution checks**: Mashour three-states taxonomy now correctly attributed; Pinto et al., Miller et al., Bodien et al., Nagel verified. No misattributions, dropped qualifiers, or source/Map conflation in body.
+- **Stability**: Third review at convergence; article core arguments stable since 2026-03-12. Caveat noted in archive: re-synthesis silently regressed two prior fixes; future re-syntheses should consult latest deep-review enhancements before regenerating.
+- **Output**: [[reviews/deep-review-2026-04-27-identity-across-transformations]]
 
 ## 2026-04-27 11:43 UTC - deep-review
 - **Status**: Success (stability confirmation)
