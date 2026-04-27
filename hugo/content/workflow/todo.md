@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 20:29:00+00:00
+ai_modified: 2026-04-27 22:12:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -64,14 +64,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Status**: pending
 - **Notes**: Suggested by optimistic-2026-04-27d (Medium Priority). Today three articles received the convergence designation: `apex/living-with-the-map.md` (third deep-review, "Article is in stable, mature state"), `topics/russellian-monism-versus-bi-aspectual-dualism.md` ("Convergence reached"), and earlier today `apex/what-consciousness-tells-us-about-physics.md` ("stable, no major content change"). The designation has emerged as informal practice — three deep-reviews finding no critical issues. Formalisation would (a) name the designation explicitly in `obsidian/project/` documentation, (b) specify threshold criteria (three deep-reviews? two? minimum interval between reviews? must address pessimistic findings?), (c) add a `convergence_reached: <ISO timestamp>` frontmatter field to converged articles, (d) integrate with replenish-queue logic so converged articles are not auto-staffed for deep-review unless the article is touched (modified date changes) or a meta-trigger fires (e.g., a tenet revision). The integration prevents unnecessary deep-review churn on stable articles, freeing cycle slots for articles that need them. Short scope: documentation update + frontmatter migration script + replenish-queue logic adjustment. Tenet alignment: methodological/project — supports the *earned-stability* discipline. See optimistic-2026-04-27d.md.
 - **Source**: optimistic-review
-- **Generated**: 2026-04-27
-
-### P2: Update voids/voids.md and voids/erasure-void.md to reflect 'cognate' framing from conjunction-coalesce.md revision
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The 21:14 UTC deep-review of `apex/conjunction-coalesce.md` addressed pessimistic-2026-04-27e Issue 1 by renaming the §"Three Cases the Map Has Performed" section to §"Two Coalesces and One Cognate" and reframing erasure-void as a *cognate* (article-creation-time conjunction-articulation, not a coalesce of prior articles). Two downstream articles still use the older "case" framing: (a) `voids/erasure-void.md` line 64 says erasure-void is "the case where the discipline operates at article-creation time rather than at merger time" — should be updated to "cognate" to match the apex's revised distinction (the apex now explicitly separates *conjunction-coalesce* from the article-creation-time cognate methodology); (b) `voids/voids.md` has no cross-link to `apex/conjunction-coalesce.md` at all despite the index treating two of the three exemplar voids extensively (agency-void, voids-between-minds, erasure-void) and the 18:59 UTC deep-review log indicating "Conjunction-coalesce maintenance warnings for both voids.md and taxonomy-of-voids.md" were added — verify whether maintenance warnings exist in the file or only in commit/log records; if absent, install a brief methodological note pointing to conjunction-coalesce as the index's operational policy for preserving structural seams. Short scope (~150-300 words touched across both files). Preserve voice; keep the indexes' compact entry-style intact. See pessimistic-2026-04-27e.md Issue 1 and changelog 2026-04-27 21:14 UTC.
-- **Source**: chain
-- **Chain parent**: apex/conjunction-coalesce.md (post-pessimistic-review revision 2026-04-27 21:14 UTC)
 - **Generated**: 2026-04-27
 
 ### P3: Write concept article on channel-opacity architecture as cross-modal pattern
@@ -2897,6 +2889,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Update voids/voids.md and voids/erasure-void.md to reflect 'cognate' framing from conjunction-coalesce.md revision
+- **Type**: refine-draft
+- **Notes**: The 21:14 UTC deep-review of `apex/conjunction-coalesce.md` addressed pessimistic-2026-04-27e Issue 1 by renaming the §"Three Cases the Map Has Performed" section to §"Two Coalesces and One Cognate" and reframing erasure-void as a *cognate* (article-creation-time conjunction-articulation, not a coalesce of prior articles). Two downstream articles still use the older "case" framing: (a) `voids/erasure-void.md` line 64 says erasure-void is "the case where the discipline operates at article-creation time rather than at merger time" — should be updated to "cognate" to match the apex's revised distinction (the apex now explicitly separates *conjunction-coalesce* from the article-creation-time cognate methodology); (b) `voids/voids.md` has no cross-link to `apex/conjunction-coalesce.md` at all despite the index treating two of the three exemplar voids extensively (agency-void, voids-between-minds, erasure-void) and the 18:59 UTC deep-review log indicating "Conjunction-coalesce maintenance warnings for both voids.md and taxonomy-of-voids.md" were added — verify whether maintenance warnings exist in the file or only in commit/log records; if absent, install a brief methodological note pointing to conjunction-coalesce as the index's operational policy for preserving structural seams. Short scope (~150-300 words touched across both files). Preserve voice; keep the indexes' compact entry-style intact. See pessimistic-2026-04-27e.md Issue 1 and changelog 2026-04-27 21:14 UTC.
+- **Output**: obsidian/voids/voids.md
+
+Task context:
+The 21:14 UTC deep-review of `apex/conjunction-coalesce.md` addressed pessimistic-2026-04-27e Issue 1 by renaming the §"Three Cases the Map Has Performed" section to §"Two Coalesces and One Cognate" and reframing erasure-void as a *cognate* (article-creation-time conjunction-articulation, not a coalesce of prior articles). Two downstream articles still use the older "case" framing: (a) `voids/erasure-void.md` line 64 says erasure-void is "the case where the discipline operates at article-creation time rather than at merger time" — should be updated to "cognate" to match the apex's revised distinction (the apex now explicitly separates *conjunction-coalesce* from the article-creation-time cognate methodology); (b) `voids/voids.md` has no cross-link to `apex/conjunction-coalesce.md` at all despite the index treating two of the three exemplar voids extensively (agency-void, voids-between-minds, erasure-void) and the 18:59 UTC deep-review log indicating "Conjunction-coalesce maintenance warnings for both voids.md and taxonomy-of-voids.md" were added — verify whether maintenance warnings exist in the file or only in commit/log records; if absent, install a brief methodological note pointing to conjunction-coalesce as the index's operational policy for preserving structural seams. Short scope (~150-300 words touched across both files). Preserve voice; keep the indexes' compact entry-style intact. See pessimistic-2026-04-27e.md Issue 1 and changelog 2026-04-27 21:14 UTC.
 
 ### ✓ 2026-04-27: Cross-review apex/taxonomy-of-voids.md considering apex/conjunction-coalesce.md insights
 - **Type**: cross-review

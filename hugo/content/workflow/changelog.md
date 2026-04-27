@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 21:58:00+00:00
+ai_modified: 2026-04-27 22:12:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-27 22:12 UTC - refine-draft
+- **Status**: Success
+- **Files**: [voids](/voids/), [erasure-void](/voids/erasure-void/)
+- **Trigger**: P2 chain task (post-21:14 UTC deep-review of [conjunction-coalesce](/apex/conjunction-coalesce/) which renamed §"Three Cases" → §"Two Coalesces and One Cognate")
+- **Changes**:
+  - [erasure-void](/voids/erasure-void/): Updated §"Clinical Anchor" closing sentence (line 64) from "the case where the discipline operates at article-creation time rather than at merger time" to *cognate* framing matching the apex's revised distinction. Cognate inherits the seam test; editorial geometry of merger does not apply.
+  - [voids](/voids/): Added `[conjunction-coalesce](/apex/conjunction-coalesce/)` to frontmatter `related_articles`. Installed a maintenance paragraph at end of §"The Discipline of Not Knowing" naming the three conjunction-coalesce instances (agency-void, voids-between-minds, erasure-void), distinguishing the two coalesces from the erasure-void cognate, and warning future reviewers not to collapse seams in pursuit of compactness. The 2026-04-27 18:59 UTC deep-review log indicated this maintenance warning had been "added"; verification today confirmed it existed only in the review document (`reviews/deep-review-2026-04-27b-voids.md` lines 140–144), not in the file itself. Now installed.
+- **Word count delta**: ~160 words added across both files (within scope target)
+- **Voice**: preserved; index entries unchanged
+- **Published**: yes (drafts remain draft: false where they were)
 
 ## 2026-04-27 21:58 UTC - deep-review
 - **Status**: Success

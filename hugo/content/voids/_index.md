@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-27 17:57:00+00:00
+ai_modified: 2026-04-27 22:12:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[attention-and-consciousness]]'
 - '[[voids-between-minds]]'
 - '[[erasure-void]]'
+- '[[conjunction-coalesce]]'
 title: Voids in the Map
 topics: []
 ---
@@ -58,6 +59,8 @@ It would be easy to fill the voids with comfortable speculation—"we cannot kno
 The voids are not license for fantasy but invitations to precision. The goal is to map void *boundaries* as carefully as charted territory—to know where knowledge ends and why. Because this territory carries real risks—memetic hazards, psychological destabilization, and the blurring of speculation with endorsed claims—the Map maintains a [Voids Safety Protocol](/project/voids-safety-protocol/) governing how voids content is generated, labeled, and reviewed.
 
 The Map is unfinishable, but that doesn't mean we stop mapping. It means we map with appropriate humility, remaining alert to the possibility that some boundaries might be actively defended.
+
+A maintenance note on this index. Three of the entries below—[the agency void](/voids/agency-void/), [the voids between minds](/voids/voids-between-minds/), and [the erasure void](/voids/erasure-void/)—are governed by the [conjunction-coalesce](/apex/conjunction-coalesce/) discipline. Their phrasings name two or three structural faces (involuntariness/verification; existence/encounter/sharing; loss/monitoring) because the seam between faces is itself the claim. Future tightening of this index should not collapse those seams in pursuit of compactness. Agency-void and voids-between-minds are coalesces of prior articles; erasure-void is a *cognate*—a single article that took its conjoint shape at creation time. Both inherit the seam test.
 
 ## Navigating This Section
 
@@ -197,14 +200,15 @@ The voids framework flows directly from the Map's [tenets](/tenets/):
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [apophatic cartography](/voids/apophatic-cartography/)—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-04-27 (refine-draft)
+<!-- AI REFINEMENT LOG - 2026-04-27 (refine-draft, 22:12 UTC)
 Changes made:
-- Tightened agency-void index entry from ~50 words to 25 words to match neighbouring void descriptions. Preserved the two-face structural claim (involuntariness face / verification face) and the central agency-limit description. Dropped the coalesce parenthetical "(coalesced from involuntariness-void and agency-verification-void 2026-04-27)" — provenance is already documented in the archive notices for the merged source articles.
-- Updated ai_modified to 2026-04-27T17:57:00+00:00.
+- Added a maintenance note at the end of §"The Discipline of Not Knowing" naming the three conjunction-coalesce instances (agency-void, voids-between-minds, erasure-void), distinguishing the two coalesces from the erasure-void cognate, and instructing future reviewers not to collapse the seams. This installs into the file the maintenance warning that the 2026-04-27 18:59 UTC deep-review log indicated had been added but which existed only in the review document itself (lines 140–144 of `reviews/deep-review-2026-04-27b-voids.md`).
+- Added `[conjunction-coalesce](/apex/conjunction-coalesce/)` to frontmatter `related_articles`.
+- Updated ai_modified to 2026-04-27T22:12:00+00:00.
 
-Single targeted edit; no restructuring.
+~110 words added; index entries unchanged; voice preserved.
 
 This log should be removed after human review.
 
-Prior log (2026-04-27 deep-review: distraction-void removal, transit-void extension) removed; that entry is still in place above.
+Prior log (2026-04-27 17:57 UTC refine-draft: agency-void index entry tightened; coalesce parenthetical dropped) superseded by this entry.
 -->
