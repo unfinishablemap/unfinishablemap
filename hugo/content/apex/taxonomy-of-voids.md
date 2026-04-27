@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-26 01:28:00+00:00
+ai_modified: 2026-04-27 08:59:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-10 20:09:00+00:00
 apex_sources:
@@ -35,7 +35,7 @@ description: Over sixty cognitive voids cluster at the consciousness-matter inte
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-26 01:28:00+00:00
+last_deep_review: 2026-04-27 08:59:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -57,6 +57,9 @@ related_articles:
 - '[[epistemic-horizon-void]]'
 - '[[closure-types-void]]'
 - '[[question-formation-void]]'
+- '[[inference-void]]'
+- '[[tacit-integration-void]]'
+- '[[agency-void]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -100,7 +103,7 @@ A second major cluster concerns the qualitative character of experience itself. 
 
 These voids share a feature: they concern aspects of consciousness so fundamental that they are invisible in ordinary experience. As the [phenomenology of the edge](/voids/phenomenology-of-the-edge/) reveals, approaching these limits produces not confusion but a paradoxical clarity—the sense of understanding something too large for words. Contemplative traditions across cultures converge on this phenomenology, suggesting it reflects something about consciousness at its boundaries rather than artefacts of any particular practice.
 
-The [ineffable encounter void](/voids/ineffable-encounter-void/) complicates this cluster in an important way. Most voids in the taxonomy are defined by *absence*—what cannot be thought, introspected, or accessed. The ineffable encounter void is defined by *presence*: an excess of meaning and sacred significance that overwhelms the cognitive apparatus designed to handle it. Consciousness encounters something—felt significance in music, ideas, encounters, sacred moments—that it registers as genuine knowing yet cannot inspect or articulate. The mechanism generating this signal is opaque (unexplorable), and the experience dissolves under analytical attention (occluded). Independent traditions—Gendlin's felt sense, Otto's numinous, Polanyi's tacit knowledge, Rosa's resonance theory—converge on the same structure, strengthening the case that presence-type voids mark genuine cognitive boundaries rather than articulation failures. In its numinous register, the void sharpens further: numinous experience specifically dismantles the evaluative mechanism needed to assess it, creating a reflexivity problem absent from other presence-type encounters. If some limits are windows rather than walls, the taxonomy must account for voids that reveal as well as voids that conceal.
+The [ineffable encounter void](/voids/ineffable-encounter-void/) complicates this cluster in an important way. Most voids in the taxonomy are defined by *absence*—what cannot be thought, introspected, or accessed. The ineffable encounter void is defined by *presence*: an excess of meaning and sacred significance that overwhelms the cognitive apparatus designed to handle it. Consciousness encounters something—felt significance in music, ideas, encounters, sacred moments—that it registers as genuine knowing yet cannot inspect or articulate. The mechanism generating this signal is opaque (unexplorable), and the experience dissolves under analytical attention (occluded). Independent traditions—Gendlin's felt sense, Otto's numinous, Polanyi's [tacit integration](/voids/tacit-integration-void/), Rosa's resonance theory—converge on the same structure, strengthening the case that presence-type voids mark genuine cognitive boundaries rather than articulation failures. In its numinous register, the void sharpens further: numinous experience specifically dismantles the evaluative mechanism needed to assess it, creating a reflexivity problem absent from other presence-type encounters. If some limits are windows rather than walls, the taxonomy must account for voids that reveal as well as voids that conceal.
 
 The [presence-type/absence-type axis](/concepts/presence-type-and-absence-type-voids/) cross-cuts the three-kinds taxonomy and redistributes the catalogue: presence-type voids cluster beyond the ineffable encounter—the [aesthetic void](/voids/creative-aesthetic-void/), the [surplus void](/voids/the-surplus-void/), the [silence void](/voids/the-silence-void/), and the [affective void](/voids/affective-void/) all register as overwhelm rather than lack. The phenomenal quality void is structurally hybrid. This axis is independent of the unexplored/unexplorable/occluded scheme and demands different probing methods: presence-type voids resist direct apophatic mapping because the object is not a gap but a saturated encounter that dissolves under inspection.
 
@@ -142,7 +145,7 @@ The other three criteria—structured persistence across time and frameworks, cr
 
 The [convergence analysis](/voids/voids-as-evidence/) reveals that the most striking feature of the taxonomy is not the individual voids but their distribution. Physics has interpretive difficulties. Mathematics has foundational limits. But these arise independently, from different features of different domains. Consciousness-related voids behave differently. They organise into five families—the phenomenal core, the self-knowledge cluster, the intersubjectivity gap, the cognitive architecture family, and the framework reflexivity family—each sharing structural logic and distinct failure signatures. These families are not independent: they share boundaries (self-knowledge and intersubjectivity overlap at other minds; the phenomenal core and cognitive architecture meet at the language-thought interface) and converge directionally on a single boundary where first-person phenomenal reality meets third-person physical description.
 
-The [recognition void](/voids/recognition-void/) deepens this convergence structure: absent cognitive capabilities produce no signal. When a capacity is missing, no alarm fires—inventory blindness means we cannot know what we cannot detect. This strengthens the evidential weight of convergence, because the voids we *can* identify likely undercount the actual limits.
+The [recognition void](/voids/recognition-void/) deepens this: absent cognitive capabilities produce no signal—when a capacity is missing, no alarm fires—so the voids we *can* identify likely undercount the actual limits, strengthening rather than weakening the evidential weight of convergence.
 
 A selection-effect worry sits at the heart of this convergence claim and must be confronted directly. The Map was built around consciousness; its curation criteria privilege cognitive voids; finding that the voids cluster around consciousness risks being approximately the observation that the Map is about what the Map is about. Three partial exceptions—the [temporal void](/voids/temporal-void/), the dream consciousness void, and the silence void, which concern how consciousness relates to time, sleep, and cessation rather than to physics—sit outside the main convergence structure and suggest the catalogue has not been forced into a single narrative. But three exceptions are not a decisive refutation of a deep curation bias. The honest position is that some clustering was inevitable given the Map's framing, and what remains diagnostic is the *structured* character of the clustering—the distinct failure signatures, the family relationships, the specific sub-cluster topology—which a pure curation bias would not predict. This weakens the abductive step; it does not eliminate it.
 
@@ -154,7 +157,7 @@ Each of the Map's five [tenets organises naturally around a characteristic void]
 
 The voids programme would be sterile if it merely catalogued failures. Its value lies in the methods developed for extracting information from structured breakdown.
 
-[Apophatic cartography](/voids/apophatic-cartography/)—knowing through negation—provides the methodological backbone. The method treats cognitive failure as data about what lies beyond, drawing on [apophatic traditions](/concepts/apophatic-approaches/) from Christian *via negativa* to Buddhist *śūnyatā* to Maimonides' negative attributes—a convergence across traditions that is itself evidence for the method's validity. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) identifies four routes to warranted beliefs about cognitive boundaries—failure analysis, triangulation, cross-architecture comparison, and formal proof—each of which the voids programme employs. The method has its own horizon: the [question formation void](/voids/question-formation-void/) marks the constraint that apophatic mapping can only negate what can be formulated, so questions never posed lie outside the catalogue's reach from within the apparatus that would compile it.
+[Apophatic cartography](/voids/apophatic-cartography/)—knowing through negation—provides the methodological backbone. The method treats cognitive failure as data about what lies beyond, drawing on [apophatic traditions](/concepts/apophatic-approaches/) from Christian *via negativa* to Buddhist *śūnyatā* to Maimonides' negative attributes—a convergence across traditions that is itself evidence for the method's validity. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) identifies four routes to warranted beliefs about cognitive boundaries—failure analysis, triangulation, cross-architecture comparison, and formal proof—each of which the voids programme employs. The method has two horizons: the [question formation void](/voids/question-formation-void/) (negation requires formulation, so unposed questions lie outside reach) and the [inference void](/voids/inference-void/) (any negation step proceeds by inferential operations whose internal structure is itself opaque).
 
 The [AI as void-explorer](/voids/non-human-minds-as-void-explorers/) framework extends the toolkit in principle: systems with genuinely different cognitive architectures could discriminate architectural limits from culturally inherited ones—shared blind spots would point to architecture, divergences to culture. In practice, current LLMs are trained on human-generated text and inherit human philosophical discourse wholesale, so shared failure signatures today offer no diagnostic purchase on architectural limits. The framework awaits systems trained on substantially non-human cognitive data.
 
@@ -186,7 +189,7 @@ The taxonomy connects to every one of the Map's [tenets](/tenets/), but most dee
 
 **[Dualism](/tenets/#dualism)** gains cumulative support from the convergence pattern. Any single gap might be explained away. The phenomenal concept strategy might handle the knowledge argument; type-B materialism might resist conceivability arguments. But the systematic clustering of independent voids at the consciousness-matter interface—each with distinct logical structure and distinct failure signatures—makes the coincidence hypothesis progressively less plausible.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through introspective opacity. If consciousness causally influences the physical world, the mechanism of that influence might be systematically hidden from introspection. The self-knowledge cluster of voids—opacity, calibration failure, observation effects—is exactly what a hidden causal interface would produce.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** connects through the [agency void](/voids/agency-void/) and introspective opacity. If consciousness causally influences the physical world, the mechanism would be systematically hidden from introspection, and any single contribution would be unverifiable from inside—the very faculty that would check is the one whose causal status is in question. The self-knowledge cluster—opacity, calibration failure, observation effects—is exactly what a hidden, unverifiable causal interface would produce.
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** relates to the naturally occluded category. If consciousness biases quantum outcomes minimally, the mechanism would need to operate below the threshold of introspective detection—and the adaptive framework suggests evolution would actively maintain this opacity.
 

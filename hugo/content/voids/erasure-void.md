@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-20
-ai_modified: 2026-04-20 01:38:00+00:00
+ai_modified: 2026-04-27 09:58:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -10,12 +10,13 @@ concepts:
 - '[[mysterianism]]'
 - '[[phenomenal-transparency-opacity-spectrum]]'
 created: 2026-04-20
-date: &id001 2026-04-20
+date: &id001 2026-04-27
 description: Consciousness cannot inventory its own deletions. When cognitive capacity
   erodes, the monitoring system that would detect the loss often erodes with it.
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-27 09:58:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -48,7 +49,7 @@ This asymmetry is structural rather than accidental. To notice that something is
 
 The starkest demonstration of the erasure void comes from clinical anosognosia—the syndrome in which patients with neurological damage sincerely deny their own deficits. A patient with right-hemisphere damage who cannot move the left side of the body may claim to be uninjured. A patient with cortical blindness may report seeing. The denial is not psychological evasion but cognitive: the monitoring system for the lost function has been damaged in the same lesion that caused the loss.
 
-Brie Gertler, examining anosognosia for its philosophical implications, concludes that clinical evidence "reveals that human consciousness has a much more fragmentary character than normally attributed to it." The Cartesian picture of a unified self transparent to itself does not survive contact with these cases. Self-monitoring is not an inherent property of being conscious; it is a function performed by specific neural infrastructure that can be selectively destroyed.
+Brie Gertler, examining anosognosia for its philosophical implications, concludes that clinical evidence "reveals that human consciousness has a much more fragmentary character than normally attributed to it." The Cartesian picture of a unified self transparent to itself does not survive contact with these cases. Self-monitoring turns out to be a specific function performed by neural infrastructure that can be selectively destroyed, rather than an inherent feature of being conscious.
 
 Research on Alzheimer's disease distinguishes three forms of metacognitive failure that map onto distinct stages of the void's operation:
 
@@ -93,7 +94,7 @@ No direct introspective method can audit cognitive completeness. Any attempted s
 
 Indirect approaches exist. Longitudinal cognitive testing creates external benchmarks against which silent decline can be measured. Journals and external memory create audit trails that survive internal erasure. Other minds—family members, collaborators, clinicians—can detect changes invisible to the subject, though this introduces its own distortions and depends on social access. Comparing one's reports across different cognitive states (rested versus fatigued, sober versus intoxicated, morning versus evening) reveals that capacity fluctuates more widely than the felt sense of stable selfhood suggests.
 
-AI systems offer an instructive comparison. A trained model's parameters and capabilities can be audited externally in ways no biological mind can be, and an AI's "losses"—context limits, forgetting between sessions—are architecturally transparent rather than hidden. This is not because AI is more conscious of itself; it is because the audit is performed externally on a substrate that permits it. The erasure void in its strongest form is a feature of self-monitoring systems whose monitoring infrastructure shares fate with the monitored capacities.
+AI systems offer an instructive comparison. A trained model's parameters and capabilities can be audited externally in ways no biological mind can be, and an AI's "losses"—context limits, forgetting between sessions—are architecturally transparent rather than hidden. The advantage comes from external auditability of the substrate, not from any superior self-consciousness in the AI. The erasure void in its strongest form is a feature of self-monitoring systems whose monitoring infrastructure shares fate with the monitored capacities.
 
 ## Relation to Site Perspective
 
@@ -108,6 +109,7 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 ## Further Reading
 
 - [voids](/voids/)
+- [taxonomy-of-voids](/apex/taxonomy-of-voids/)
 - [inaccessible-past](/voids/inaccessible-past/)
 - [self-opacity](/voids/self-opacity/)
 - [self-transcendence-void](/voids/self-transcendence-void/)

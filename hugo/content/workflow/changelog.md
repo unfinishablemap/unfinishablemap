@@ -1,13 +1,140 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 08:14:00+00:00
+ai_modified: 2026-04-27 11:43:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-27 11:43 UTC - deep-review
+- **Status**: Success (stability confirmation)
+- **File**: [machine-question](/apex/machine-question/)
+- **Word count**: 3988 → 3988 (no change; 100% of 4000 apex soft target)
+- **Critical issues addressed**: 0 (none found; third review at convergence)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article unchanged; new content from 2026-03-19 apex-evolve commit and 2026-04-16 wikilink migration verified accurate)
+- **Attribution checks**: All passed — new macroscopic superposition selection paragraph verified against quantum-randomness-channel-llm-consciousness source; Penrose-Hameroff/Stapp/Chalmers-McQueen attributions accurate (with "variously propose" properly accommodating Chalmers-McQueen's more exploratory framing); "may briefly persist" hedge preserved from source
+- **Output**: [deep-review-2026-04-27-machine-question](/reviews/deep-review-2026-04-27-machine-question/)
+
+## 2026-04-27 11:28 UTC - deep-review
+- **Status**: Success (stability confirmation)
+- **File**: [placebo-effect-and-mental-causation](/topics/placebo-effect-and-mental-causation/)
+- **Word count**: 2721 → 2721 (no change; 91% of 3000 topics soft target)
+- **Critical issues addressed**: 0 (none found; seventh review at full stability)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article unchanged; recognition-void cross-link, mental-causation wikilink migration, and Marueckova "Three converging" update already executed in prior commits since 6th review)
+- **Attribution checks**: All passed — eight references verified, Capgras delusion claim accurate against recognition-void article, Marueckova citation now consistent with linked clinical-neuroplasticity article
+- **Output**: [deep-review-2026-04-27-placebo-effect-and-mental-causation](/reviews/deep-review-2026-04-27-placebo-effect-and-mental-causation/)
+
+## 2026-04-27 11:21 UTC - condense
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/)
+- **Before**: 3122 words (hard_warning, 156% of 2000 voids soft target)
+- **After**: 2489 words (soft_warning, 124% of target)
+- **Reduction**: 20% (633 words cut)
+- **Technique**: Removed AI refinement log comment block (self-flagged for removal after human review); compressed redundant framing in §Two Limits, One Void (merged with opening implications); tightened §What Cannot Be Controlled (removed section preface, condensed Schopenhauer/ownership passages); compressed §Verification Circularity (merged third-person methods clause, dropped redundant signposting); compressed §Self-Stultification Symmetry recursive paragraph and Bidirectional Interaction bridge in §Relation to Site Perspective (both pre-flagged in prior log as compactable); merged AI-angle paragraph into §Phenomenology meditation-edge subsection; trimmed Further Reading list from 16 to 10 entries (removed entries already covered in body or related_articles frontmatter)
+- **Preserved**: opening summary (front-loaded for LLM truncation resilience), all major arguments, all references, §Relation to Site Perspective with all three tenet ties, distinctive phrasings ("the void lies in the conjunction", "voluntary but spontaneous", "no external reference point"), all Wegner/Velmans/Libet citations and the verification-void's four-layer structure
+
+## 2026-04-27 10:58 UTC - deep-review
+- **Status**: Success
+- **File**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Word count**: 3722 → 3719 (−3; 93% of 4000 apex soft target)
+- **Critical issues addressed**: 1 (stale AI refinement log self-marked "should be removed after human review" — removed; previous review claimed this was done but the block had been re-added)
+- **Medium issues addressed**: 2 (two instances of the "This is not X. It is Y." LLM-cliché construct rephrased — at the close of "The Hidden Assumption" and at the open of "Synthesis"; CLAUDE.md explicitly forbids this construct)
+- **Enhancements made**: 0 (article has converged; cross-link density and tenet treatment already comprehensive; no expansion attempted given proximity to soft threshold)
+- **Attribution checks**: All passed — Tulving, Hoel, Frischhut, Stapp, Koch, Husserl verified against source articles
+- **Output**: [deep-review-2026-04-27-what-it-might-be-like-to-be-an-ai](/reviews/deep-review-2026-04-27-what-it-might-be-like-to-be-an-ai/)
+
+## 2026-04-27 10:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [agency-void](/voids/agency-void/)
+- **Word count**: 2443 → 3305 (+862 words; ~750 words touched per medium-scope target; 165% of 2000 voids soft target)
+- **Issues addressed (deferred from 2026-04-27 morning refine, per pessimistic-2026-04-27b)**:
+    - Issue 4 (Sovereignty Paradox functional-necessity tension): restructured three explanations as two structural conjectures + one contingent rival; explicitly flagged functional-necessity as the alternative-to-structural-void rather than complement; cited Bateson 1991 / Damasio 1994 for affect-and-survival framing
+    - Issue 5 (self-stultification self-application): added paragraph after Self-Stultification Symmetry engaging the recursive structure; first/third-person distinction provides the response; cross-linked meta-epistemology-of-limits
+    - Issue 6 (mineness detachability): both ownership passages revised to concede partial attenuation per Kabat-Zinn 1990, Garland et al. 2014, Grant & Rainville 2009; void claim preserved in weakened form ("deeply default, not absolutely fixed"); "you cannot disown a headache/migraine" phrasings removed
+    - 4 unsupported claims (table lines 144-152): causal-theory-of-knowledge contested-status added (Goldman/Plantinga/virtue-epistemology); interface-constraint flagged as conjectural; functional-necessity flagged as suggestive with citations; three-step argumentative bridge supplied for "self-concealing channels" claim in Relation to Site Perspective
+    - 6 language improvements (table lines 154-164): "two structural limits at once"; "door"-metaphor; "witness testifying"; "Looking is itself an act"; "Schopenhauer took this seriously"; closing-sentence elliptical phrasing — all replaced per recommendations
+- **References added**: Bateson 1991, Damasio 1994, Garland et al. 2014, Goldman 1967, Grant & Rainville 2009, Kabat-Zinn 1990
+- **Preserved per task instructions**: §Self-Stultification Symmetry (extended, not overwritten), §Spectrum of Control (only door-metaphor sentence rewritten), §Relation to Site Perspective Dualism + Occam paragraphs (untouched)
+- **Deferred (still in queue)**: P2 intervention-based methodologies layer (TMS, optogenetic, Frith, Haggard, Pacherie)
+- **Source**: pessimistic-2026-04-27b follow-up
+- **Published**: yes (draft: false preserved)
+
+## 2026-04-27 10:21 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [contemplative-pathology-and-interface-malfunction](/topics/contemplative-pathology-and-interface-malfunction/)
+- **Word count**: 1679 → 1679 (no change; 56% of 3000 topics soft target)
+- **Critical issues addressed**: 0 (none found — third review confirms convergence)
+- **Medium issues addressed**: 0 (changes since 2026-03-22 review are wikilink target renames only; renamed `clinical-phenomenology-and-altered-experience` resolves correctly)
+- **Enhancements made**: 0 (article already comprehensive; expansion would dilute focus)
+- **Attribution check**: Pass — Lindahl et al. 2017, Britton 2019, Huxley 1954/Bergson, Sass & Parnas 2003, St John of the Cross 1585/1959 all correctly attributed; no source/Map conflation; no dropped qualifiers; no overstated positions
+- **Stability**: Article has reached stability across three reviews. Future reviews deferred until substantive content modifications occur.
+- **Output**: [deep-review-2026-04-27-contemplative-pathology-and-interface-malfunction](/reviews/deep-review-2026-04-27-contemplative-pathology-and-interface-malfunction/)
+
+## 2026-04-27 09:58 UTC - deep-review
+- **Status**: Success
+- **File**: [erasure-void](/voids/erasure-void/)
+- **Word count**: 2015 → 2012 (-3, length-neutral mode at 101% of 2000 voids soft target)
+- **Critical issues addressed**: 2 (banned "This is not X; it is Y" cliché rewritten on self-monitoring claim at line 49 and AI-comparison claim at line 94)
+- **Medium issues addressed**: 0 (Popper-style empiricist probe already answered structurally in Approaches to the Edge; eliminative materialist concern already mitigated by neural-infrastructure framing in clinical anchor)
+- **Enhancements made**: 1 (added [taxonomy-of-voids](/apex/taxonomy-of-voids/) to Further Reading, closing the back-link from the apex synthesis that already references this void)
+- **Attribution check**: Pass — Mazzi 2024, Gertler 2003, Mograbi & Morris 2018, Kruger & Dunning 1999 all accurately attributed; no source/Map conflation
+- **Deferred**: Buddhist non-self engagement (would require length-compensating cuts; logged as enhancement opportunity)
+- **Output**: [deep-review-2026-04-27-erasure-void](/reviews/deep-review-2026-04-27-erasure-void/)
+
+## 2026-04-27 09:44 UTC - deep-review
+- **Status**: Success
+- **File**: [mood-void](/voids/mood-void/)
+- **Word count**: 2381 → 2437 (+56, length-neutral mode after removing embedded 80-word HTML refinement log; 119% → 122% of 2000 voids soft target)
+- **Critical issues addressed**: 3 (broken `[aesthetic-void](/voids/creative-aesthetic-void/)` wikilink fixed to `[creative-aesthetic-void](/voids/creative-aesthetic-void/)`; banned "X is not Y. It is Z." construct on origin-opacity paragraph rewritten as positive claim; banned "X, not Y" variant on phenomenal-presence/introspective-representation rewritten as positive claim)
+- **Medium issues addressed**: 2 (falsifiability section strengthened from binary collapse-conditions to graded floor-convergence claim; cross-link added to [predictive-construction-void](/voids/predictive-construction-void/) from the predictive-processing reference in the Razor section)
+- **Enhancements made**: 1 (removed AI refinement log HTML comment per its own removal instruction)
+- **Output**: [deep-review-2026-04-27-mood-void](/reviews/deep-review-2026-04-27-mood-void/)
+
+## 2026-04-27 09:28 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: agency-void coalesce cluster (post-03:28 UTC) — `voids/agency-void.md` (coalesced 05:59 UTC, condensed 07:04 UTC, pessimistic-reviewed 07:58 UTC, refined 08:14 UTC), 11-file link-graph cleanup, `voids/voids.md` index consolidation, deep-reviews of `voids/inference-void.md`, `concepts/spontaneous-intentional-action.md`, `topics/eliminative-materialism.md`, `concepts/control-theoretic-will.md`, `topics/phenomenology-of-agency-vs-passivity.md`, `topics/responsibility-gradient-from-attentional-capacity.md`, `topics/social-construction-of-self-vs-phenomenal-self.md`, and apex-tier integration into `apex/consciousness-and-agency.md`, `apex/taxonomy-of-voids.md`, `topics/free-will.md`. Central pattern: *coalesce-as-conjunction* — the agency-void merger keeps the two faces (passive/skeptical) visible as load-bearing analytical structure, and the conjunction propagates upward through the apex layer as the *symmetric self-stultification* dialectical move that makes the Map's case publishable without rhetorical asymmetry. Three opportunities: cross-link agency-void to inference-void/tacit-integration-void; apex on coalesce-as-conjunction methodology; reference-URL housekeeping on two void articles.
+- **Output**: [optimistic-2026-04-27b](/reviews/optimistic-2026-04-27b/)
+
+## 2026-04-27 09:13 UTC - deep-review
+- **Status**: Success (cross-review to install agency-void reference)
+- **File**: [free-will](/topics/free-will/)
+- **Word count**: 2599 → 2691 (+92, 87% → 90% of 3000 soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing outbound link to newly-coalesced [agency-void](/voids/agency-void/); article previously argued epiphenomenalism self-stultifies but said nothing about interactionism's parallel first-person verification limit, leaving the asymmetry reading as oversight or special pleading)
+- **Enhancements made**: 3 (added paragraph in Mental Causation section acknowledging symmetric self-stultification limit and reframing Map's case as resting on phenomenology+neural-data coherence rather than introspective proof; added agency-void to frontmatter related_articles; added agency-void to Further Reading list)
+- **Output**: [deep-review-2026-04-27-free-will](/reviews/deep-review-2026-04-27-free-will/)
+
+## 2026-04-27 08:59 UTC - deep-review
+- **Status**: Success (cross-review to install recent void references)
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 4356 → 4363 (+7, length-neutral mode; 109% of 4000 soft cap unchanged)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (inference-void absent from Methods despite shadowing apophatic cartography's inferential machinery; Polanyi reference in ineffable-encounter discussion not linked to its dedicated tacit-integration-void; agency-void absent from Bidirectional Interaction tenet section despite being the void most directly engaged with the verification-failure half of Tenet 3)
+- **Enhancements made**: 4 (parallel two-horizon Methods framing covering both formulation and inferential limits; Polanyi cross-link upgrade to tacit-integration-void; Bidirectional Interaction tenet sentence sharpened with agency-void's verification-failure framing; recognition-void paragraph tightened from 53→25 words to compensate)
+- **Output**: [deep-review-2026-04-27-taxonomy-of-voids](/reviews/deep-review-2026-04-27-taxonomy-of-voids/)
+
+## 2026-04-27 08:52 UTC - deep-review
+- **Status**: Success (stability confirmation — no content change)
+- **File**: [social-construction-of-self-vs-phenomenal-self](/topics/social-construction-of-self-vs-phenomenal-self/)
+- **Word count**: 2358 → 2358 (unchanged, 79% of 3000 soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (fifth review of a converged article; only change since 2026-03-22 was site-wide wikilink retargeting `other-minds-void` → `voids-between-minds`, not substantive content; all twelve cited sources re-verified, all wikilinks resolve, no new critical or medium issues; `last_deep_review` timestamp bumped so the candidate selector deselects this file)
+- **Output**: [deep-review-2026-04-27-social-construction-of-self-vs-phenomenal-self](/reviews/deep-review-2026-04-27-social-construction-of-self-vs-phenomenal-self/)
+
+## 2026-04-27 08:30 UTC - deep-review
+- **Status**: Success (cross-review to install agency-void reference)
+- **File**: [consciousness-and-agency](/apex/consciousness-and-agency/)
+- **Word count**: 3949 → 3983 (+34, still at 100% of 4000 soft cap)
+- **Critical issues addressed**: 1 (missing reference to newly coalesced [agency-void](/voids/agency-void/), which engages directly with this apex's central machinery — Wegner attribution, Libet/Schurger timing, Kim's exclusion, verification asymmetry)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (added `[agency-void](/voids/agency-void/)` to `related_articles`; added one Synthesis sentence naming verification circularity as a structural limit *shared* across theories of mental causation, deferring detailed treatment to the void article)
+- **Output**: [deep-review-2026-04-27-consciousness-and-agency](/reviews/deep-review-2026-04-27-consciousness-and-agency/)
 
 ## 2026-04-27 08:14 UTC - refine-draft
 - **Status**: Success

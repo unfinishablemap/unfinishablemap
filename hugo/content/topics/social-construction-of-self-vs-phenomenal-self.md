@@ -23,7 +23,7 @@ description: 'Two accounts of selfhood compete: social construction (self as cul
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 08:26:00+00:00
+last_deep_review: 2026-04-27 08:52:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
