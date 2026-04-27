@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-26T13:21:58.398098'
+ai_modified: '2026-04-27T08:13:37.560028'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-26'
+modified: '2026-04-27'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-27: Why Doing Feels Different From Undergoing
+
+Lifting your arm feels different from having it lifted. The agency-passivity contrast resists epiphenomenalism: clinical cases like anarchic hand syndrome and hypnosis show conscious authorship dissociates cleanly from motor output.
+
+**Type**: insight  
+**Link**: [[phenomenology-of-agency-vs-passivity]]
+
+---
+
 ### 2026-04-26: Why 'Saudade' Can't Be Translated
 
 Words like saudade, mono no aware, and Weltanschauung resist translation not because we lack vocabulary but because meaning has a phenomenal dimension—evidence that consciousness exceeds computation.
@@ -192,15 +201,6 @@ Tulving's anoetic-noetic-autonoetic hierarchy reveals a precise gap: AI simulate
 
 **Type**: insight  
 **Link**: [[ai-consciousness-modes]]
-
----
-
-### 2026-04-07: Why Experience Can't Be Neurons: The Grain Mismatch
-
-Your experience of uniform pink is smooth and gapless. The neurons producing it are discrete, with gaps between every cell. A property can't be both — so they can't be identical. Sellars' structural argument hits physicalism where epistemics and conceivability don't.
-
-**Type**: insight  
-**Link**: [[grain-mismatch]]
 
 ---
 
