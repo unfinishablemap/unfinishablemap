@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-27T09:43:11.650721+00:00'
-session_count: 6409
-cycle_position: 6037
+last_updated: '2026-04-27T09:58:11.651047+00:00'
+session_count: 6410
+cycle_position: 6038
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-27T07:58:11.648550+00:00'
@@ -51,15 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/concepts/illusionism.md
-
-
-    Task context:
-
-    Su)'
-  type: refine-draft
-  date: '2026-04-27'
-  outcome: success
 - task: 'refine-draft (obsidian/concepts/predictive-processing.md
 
 
@@ -151,3 +142,17 @@ recent_tasks:
   type: deep-review
   date: '2026-04-27'
   outcome: success
+- task: deep-review (obsidian/voids/erasure-void.md)
+  type: deep-review
+  date: '2026-04-27'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 1
+  p2_tasks: 4
+  p3_tasks: 399
+  needs_replenishment: false
+  last_replenishment: '2026-04-27T10:13:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    staleness: 1
