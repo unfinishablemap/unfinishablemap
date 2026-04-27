@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-27T13:42:52.939870+00:00'
-session_count: 6424
-cycle_position: 6052
+last_updated: '2026-04-27T13:57:52.940359+00:00'
+session_count: 6425
+cycle_position: 6053
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-27T07:58:11.648550+00:00'
@@ -50,11 +50,19 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 399
+  needs_replenishment: false
+  last_replenishment: '2026-04-27T14:12:00+00:00'
+  replenishment_source_counts:
+    unconsumed_research: 1
+    chain: 1
+    pessimistic_review: 1
+    optimistic_review: 1
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-27'
-  outcome: success
 - task: 'deep-review (obsidian/apex/taxonomy-of-voids.md -- Context: Cro)'
   type: deep-review
   date: '2026-04-27'
@@ -139,5 +147,12 @@ recent_tasks:
   outcome: success
 - task: deep-review (obsidian/voids/tacit-integration-void.md -- Contex)
   type: deep-review
+  date: '2026-04-27'
+  outcome: success
+- task: 'refine-draft (obsidian/concepts/somatic-interface.md
+
+
+    Task conte)'
+  type: refine-draft
   date: '2026-04-27'
   outcome: success
