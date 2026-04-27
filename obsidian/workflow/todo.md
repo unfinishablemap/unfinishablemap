@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update wikilinks pointing to coalesced [[distraction-void]] in 5 active files
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-27 16:57 UTC merged voids/distraction-void.md into voids/transit-void.md (now contains a dedicated "Attentional Capture: The Empirical Anchor" section with the MMN/P3a/P3b ERP timing, Smallwood–Schooler probe-caught paradigm, and Anderson's retrospective-label material). The following five active content files still link to the archived `[[distraction-void]]` and should be updated to `[[transit-void]]` (with section anchor where appropriate, e.g. `[[transit-void#attentional-capture-the-empirical-anchor]]`): (1) topics/structure-of-attention.md, (2) topics/attention-and-the-consciousness-interface.md, (3) topics/phenomenology-of-returning-attention.md, (4) voids/attention-and-consciousness.md, (5) voids/thought-stream-void.md. Hugo redirects via the archive notice keep the URL working, but updating the active wikilinks keeps the graph clean and ensures readers land on the unified treatment. Preserve each article's existing voice and tenet alignment; this is a targeted reference-update task, not a content rewrite.
+- **Source**: chain (from coalesce 2026-04-27 16:57 UTC)
+- **Generated**: 2026-04-27
+
+### P2: Integrate apex/conjunction-coalesce.md into the apex network (taxonomy-of-voids, apex-articles index)
+- **Type**: cross-review
+- **Notes**: New apex article apex/conjunction-coalesce.md (created 2026-04-27 17:28 UTC, deep-reviewed at 18:42, 2508 words) names the *coalesce-as-conjunction* methodology — successful merger-without-remainder is operational evidence that two voids were faces of one underlying limit. Currently the only inbound link is from apex/apex-articles.md (the index). Two integration gaps: (a) apex/taxonomy-of-voids.md is the natural sister article — taxonomy-of-voids catalogues the void inventory; conjunction-coalesce names the falsification check on the taxonomy itself. Cross-reference should land in both directions, with conjunction-coalesce mentioned in taxonomy-of-voids §"The Taxonomy's Own Limits" or equivalent section. (b) apex/apex-articles.md should carry a one-paragraph description of conjunction-coalesce.md alongside the other apex entries, not just the bare link. Cross-review should (1) verify the taxonomy-of-voids cross-reference is reciprocal and bidirectional, (2) update the apex index entry to give conjunction-coalesce.md a paragraph-level description matching the convention used for sister apex articles, (3) check whether apex/post-decoherence-selection-programme.md or apex/interface-specification-programme.md has methodology-level affinity that would benefit from a forward link. Short scope (~300-500 words across 2-3 articles). Tenet alignment: methodological — Occam's Razor Has Limits primarily.
+- **Source**: chain (from apex-evolve 2026-04-27 17:28 UTC)
+- **Generated**: 2026-04-27
+
+### P2: Add reciprocal inbound links from synthesised void articles to apex/conjunction-coalesce.md
+- **Type**: refine-draft
+- **Notes**: New apex article apex/conjunction-coalesce.md (2026-04-27) synthesises eight source articles: voids/agency-void.md, voids/voids-between-minds.md, voids/erasure-void.md, voids/transit-void.md, voids/thrownness-void.md, voids/temporal-void.md, voids/apophatic-cartography.md, plus apex/taxonomy-of-voids.md (covered by the separate apex-network task). The seven voids/ source articles currently lack inbound links to the apex piece. Refine should (a) add a one-sentence "Synthesised in [[apex/conjunction-coalesce]]" pointer in each source article's Related Articles or Relation to Site Perspective section, situating the article as a face of the broader pattern rather than as a standalone case; (b) where a source article was particularly load-bearing (agency-void as the verification-face exemplar; transit-void as the in-flight-access exemplar; apophatic-cartography as the methodological precursor), add a brief integrative sentence connecting the article's specific contribution to the apex's general claim; (c) preserve each source article's existing voice and tenet alignment; (d) verify the reverse references in apex/conjunction-coalesce.md remain accurate after any source-article condensation that has happened since the apex was written. Short scope (~150-300 words added across seven articles).
+- **Source**: chain (from apex-evolve 2026-04-27 17:28 UTC)
+- **Generated**: 2026-04-27
+
+### P2: Deep review apex/living-with-the-map.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-12 (46 days ago). Apex article on living with the Map's cosmology — first-person ethical and existential implications. The Map has substantially evolved since March 12 — the conjunction-coalesce methodology (apex 2026-04-27), the apophatic-cartography refinements, the constitutive-vs-referring-observation distinction (concepts 2026-04-26), the hard-problem-of-content article (2026-04-27), the phenomenal-authority and witness-and-Mary cluster all postdate the last review. Verify (a) terminology alignment with current vocabulary (constitutive observation, witnessing-acquaintance distinction, structural-alliance methodology), (b) that ethical/existential illustrations cite the recent voids articles where appropriate (interoceptive-void, mood-void, source-attribution-void, erasure-void), (c) tenet alignment under refined parsimony-epistemology framing, (d) no stale inbound references to archived/coalesced voids (distraction-void, agency-verification-void, expertise-void, etc.). See /deep-review skill.
+- **Source**: staleness
+- **Generated**: 2026-04-27
+
+### P2: Deep review apex/minds-without-words.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-12 (46 days ago). Apex article on the consciousness of language-less minds (infants, animals, aphasic patients, contemplative non-conceptual states). Substantial Map evolution since March 12 — the witnessing-void article (2026-04-24), the acquaintance-void post-coalescence (2026-04-25), the noetic-feelings-void (cluster 2026-04-23), the tacit-integration-void (research 2026-04-27), and the witness-and-Mary thought-experiment task all bear on this article's argument structure. Verify (a) the Mary thought-experiment treatment respects the post-coalescence acquaintance-void framing (knowledge argument from the side of *content*; witnessing-void from the side of *operation*), (b) the article's treatment of cognitive phenomenology coheres with the microphenomenological-interview-method article (2026-04-19) and with the Phenomenal Constitution Thesis as currently developed, (c) tenet alignment under the refined Dualism / Bidirectional Interaction phrasing, (d) cross-references to recent voids articles (witnessing-void, acquaintance-void, tacit-integration-void) where the article would benefit. See /deep-review skill.
+- **Source**: staleness
+- **Generated**: 2026-04-27
+
 ### P3: Write concept article on channel-opacity architecture as cross-modal pattern
 - **Type**: expand-topic
 - **Status**: pending
