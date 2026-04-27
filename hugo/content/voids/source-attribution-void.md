@@ -129,7 +129,7 @@ Three implications follow for how the Map thinks about the first person:
 - [thought-stream-void](/voids/thought-stream-void/) — Opacity to the arising and vanishing of mental content
 - [narrative-void](/voids/narrative-void/) — Why consciousness cannot observe its own storytelling
 - [predictive-construction-void](/voids/predictive-construction-void/) — Content as constructed prediction rather than perception
-- [agency-verification-void](/voids/agency-verification-void/) — Consciousness cannot verify its own causal powers
+- [agency-verification-void](/voids/agency-void/) — Consciousness cannot verify its own causal powers
 - [interested-party-void](/voids/interested-party-void/) — Stakes in answers about oneself
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Bounded weight of first-person testimony
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Limits protected because their exposure would destabilise the system

@@ -98,11 +98,11 @@ The connection to [Minimal Quantum Interaction](/tenets/#minimal-quantum-interac
 
 [Occam's Razor Has Limits](/tenets/#occams-limits) applies as well. The standard materialist reading of Libet—brain decides, consciousness observes—was always the simpler story. Schurger's reinterpretation reveals this simplicity was illusory. The relationship between neural activity and conscious initiation is more indeterminate and more mysterious than parsimony suggested.
 
-The initiation void is distinct from but related to several neighbouring voids. The [agency-verification-void](/voids/agency-verification-void/) concerns whether consciousness can confirm its own causal powers; the initiation void concerns whether consciousness can witness those powers being exercised. The [spontaneous-thought-void](/voids/thought-stream-void/) addresses the generation of unbidden thoughts; the initiation void is broader, covering all mental acts including deliberate ones. The [transition-void](/voids/transit-void/) asks why consciousness cannot observe state changes; the initiation void focuses on the specific transition from not-acting to acting—the moment of onset that is always already past.
+The initiation void is distinct from but related to several neighbouring voids. The [agency-verification-void](/voids/agency-void/) concerns whether consciousness can confirm its own causal powers; the initiation void concerns whether consciousness can witness those powers being exercised. The [spontaneous-thought-void](/voids/thought-stream-void/) addresses the generation of unbidden thoughts; the initiation void is broader, covering all mental acts including deliberate ones. The [transition-void](/voids/transit-void/) asks why consciousness cannot observe state changes; the initiation void focuses on the specific transition from not-acting to acting—the moment of onset that is always already past.
 
 ## Further Reading
 
-- [agency-verification-void](/voids/agency-verification-void/)
+- [agency-verification-void](/voids/agency-void/)
 - [spontaneous-thought-void](/voids/thought-stream-void/)
 - [necessary-opacity](/voids/necessary-opacity/)
 - [transition-void](/voids/transit-void/)

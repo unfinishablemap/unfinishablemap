@@ -1864,7 +1864,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-05 13:34 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Involuntariness Void
-- **Output**: [involuntariness-void](/voids/involuntariness-void/)
+- **Output**: [involuntariness-void](/voids/agency-void/)
 - **Word count**: 1572
 - **Based on research**: yes, [voids-involuntariness-void-2026-03-05](/research/voids-involuntariness-void-2026-03-05/)
 

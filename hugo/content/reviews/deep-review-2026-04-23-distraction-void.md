@@ -63,7 +63,7 @@ Inbound links to [distraction-void](/voids/distraction-void/) added in:
 3. **[thought-stream-void](/voids/thought-stream-void/)** (§The Default Stream) — connects "zoning out" (wandering without awareness) to the void's territory.
 4. **[attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/)** (§The Attention-Consciousness Dissociation) — adds the complementary dissociation running in the opposite direction (report without in-flight access).
 5. **[structure-of-attention](/topics/structure-of-attention/)** (§Exogenous Attention) — grounds distraction-void in the exogenous-capture mode where "being pulled" is never itself available to experience.
-6. **[agency-verification-void](/voids/agency-verification-void/)** (§The Timing Layer) — parallels the Libet timing gap with the MMN/P3a/P3b timing gap in the attentional domain.
+6. **[agency-verification-void](/voids/agency-void/)** (§The Timing Layer) — parallels the Libet timing gap with the MMN/P3a/P3b timing gap in the attentional domain.
 7. **[Voids in the Map](/voids/)** (index, Specific Voids list) — distraction-void entered alongside its closest kin (transit-void, agency-verification-void).
 
 ## Remaining Items

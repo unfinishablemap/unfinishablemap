@@ -145,7 +145,7 @@ The article is well-written, well-referenced, and internally coherent, but rests
 ## Strengths (Brief)
 
 - The ERP-vs-report distinction is correctly drawn and genuinely illuminating; the P3a-vs-P3b contrast is the right hook.
-- The structural analogy to [transit-void](/voids/transit-void/), [recognition-void](/voids/recognition-void/), and [agency-verification-void](/voids/agency-verification-void/) is well-drawn and productively organises the voids family.
+- The structural analogy to [transit-void](/voids/transit-void/), [recognition-void](/voids/recognition-void/), and [agency-verification-void](/voids/agency-void/) is well-drawn and productively organises the voids family.
 - The article honestly offers both architectural and occlusion readings rather than collapsing to dualism without admitting the alternative.
 - The "three phenomenal features" paragraph (retrospective discovery, chronological fog, small shock of reclaiming) is sharp original phenomenology.
 - The "approaches to the edge" section appropriately separates methods that *map* the void from claims to *enter* it.

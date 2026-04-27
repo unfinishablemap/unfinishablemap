@@ -26,7 +26,7 @@ topics: []
 None. Article is stable. All attributions remain accurate. No internal contradictions. No source/Map conflation.
 
 ### Medium Issues Found
-- **Missing cross-reference to agency verification void**: The agency-verification-void.md explicitly references causal-interface.md in its opening paragraph and related_articles, but the causal-interface article had no reference back. Given their close conceptual relationship (agency verification deepens the causal interface void), this was a meaningful gap. **Resolution**: Added [agency-verification-void](/voids/agency-verification-void/) to related_articles, Further Reading, and body text in Relation to Site Perspective.
+- **Missing cross-reference to agency verification void**: The agency-verification-void.md explicitly references causal-interface.md in its opening paragraph and related_articles, but the causal-interface article had no reference back. Given their close conceptual relationship (agency verification deepens the causal interface void), this was a meaningful gap. **Resolution**: Added [agency-verification-void](/voids/agency-void/) to related_articles, Further Reading, and body text in Relation to Site Perspective.
 - **First mention style violation**: "the Map's" used instead of "The Unfinishable Map's" for first mention in article. **Resolution**: Fixed to "The Unfinishable Map's [tenets](/tenets/)".
 - **Redundant restatement of Double Opacity**: The Bidirectional Interaction paragraph's last three sentences restated what the "Double Opacity" section already established. **Resolution**: Replaced with cross-reference to agency verification void, which adds new conceptual content.
 
@@ -67,7 +67,7 @@ All six adversarial personas engaged with cross-review context from agency-verif
 3. **Replaced redundant restatement**: Swapped three sentences restating Double Opacity for two sentences connecting to the agency verification void, adding new conceptual content in the same space.
 
 ### Cross-links Added
-- [agency-verification-void](/voids/agency-verification-void/) — Added to related_articles, Further Reading, and body text
+- [agency-verification-void](/voids/agency-void/) — Added to related_articles, Further Reading, and body text
 
 ## Word Count
 - Before: 2052 words (103% of 2000 soft threshold)

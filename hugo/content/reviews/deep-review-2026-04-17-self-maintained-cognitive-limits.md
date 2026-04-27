@@ -105,7 +105,7 @@ This is the first review under the merged slug, but the article inherits substan
 - **Dennett's homunculus worry**: Who is the "jailer"? Inherited bedrock; the article handles this by making the same mind both investigator and suspect. Do not re-flag.
 - **Buddhist anti-dualism vs. Map's dualist reading**: Explicitly acknowledged in the *avidya* subsection. Do not re-flag.
 - **External occlusion speculation**: Now explicitly labelled as Map-internal inference. Future reviews should not re-flag the speculation as a Map/source conflation issue.
-- **Verification circularity**: Acknowledged via [agency-verification-void](/voids/agency-verification-void/) cross-link.
+- **Verification circularity**: Acknowledged via [agency-verification-void](/voids/agency-void/) cross-link.
 
 The triad — complicity (mechanism) / necessary-opacity (verification) / interested-party-void (motivation) — remains the right scaffold from the 2026-04-16 cross-review. Future reviews should maintain these distinctions.
 

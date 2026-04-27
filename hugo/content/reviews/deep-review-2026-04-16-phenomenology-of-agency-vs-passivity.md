@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-16
 **Article**: [Phenomenology of Agency vs Passivity](/topics/phenomenology-of-agency-vs-passivity/)
 **Previous review**: [2026-03-24](/reviews/deep-review-2026-03-24-phenomenology-of-agency-vs-passivity/)
-**Cross-review context**: Reviewed in light of [The Agency Verification Void](/voids/agency-verification-void/) and [The Interested Party Void](/voids/interested-party-void/)
+**Cross-review context**: Reviewed in light of [The Agency Verification Void](/voids/agency-void/) and [The Interested Party Void](/voids/interested-party-void/)
 
 ## Pessimistic Analysis Summary
 
@@ -67,7 +67,7 @@ topics: []
 - Tightened passive pole descriptions (removed redundant sentences)
 
 ### Cross-links Added
-- [The Agency Verification Void](/voids/agency-verification-void/) — in-text reference and Further Reading
+- [The Agency Verification Void](/voids/agency-void/) — in-text reference and Further Reading
 - [The Interested Party Void](/voids/interested-party-void/) — Further Reading
 
 ## Remaining Items

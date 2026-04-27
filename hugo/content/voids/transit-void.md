@@ -172,7 +172,7 @@ The transit void connects directly to the Map's [tenets](/tenets/).
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The simplest model of consciousness — that we have continuous, reliable self-monitoring — is wrong. The standard materialist reading of Libet was always the simpler story. Schurger's reinterpretation reveals the simplicity was illusory. Crossings involve hidden complexity in the simplest-seeming mental events: falling asleep, shifting attention, changing mood, beginning to act.
 
-The transit void sits within a family of closely related voids. The [agency-verification-void](/voids/agency-verification-void/) concerns whether consciousness can confirm its own causal powers; the transit void concerns whether it can witness those powers being exercised. The [spontaneous-thought-void](/voids/thought-stream-void/) addresses generation of unbidden thoughts; the transit void addresses the moment any mental act — bidden or unbidden — begins. The [observation-and-measurement-void](/voids/observation-and-measurement-void/) explains why every method of studying these crossings transforms what it studies. Taken together, these voids define a consistent topology: consciousness operates through an interface it cannot observe while operating through it.
+The transit void sits within a family of closely related voids. The [agency-verification-void](/voids/agency-void/) concerns whether consciousness can confirm its own causal powers; the transit void concerns whether it can witness those powers being exercised. The [spontaneous-thought-void](/voids/thought-stream-void/) addresses generation of unbidden thoughts; the transit void addresses the moment any mental act — bidden or unbidden — begins. The [observation-and-measurement-void](/voids/observation-and-measurement-void/) explains why every method of studying these crossings transforms what it studies. Taken together, these voids define a consistent topology: consciousness operates through an interface it cannot observe while operating through it.
 
 ## Further Reading
 
@@ -184,7 +184,7 @@ The transit void sits within a family of closely related voids. The [agency-veri
 - [distraction-void](/voids/distraction-void/) — The attentional analogue: ERP timing and probe-caught mind-wandering give third-person traction on a first-person dark transit
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's retention-protention structure
 - [necessary-opacity](/voids/necessary-opacity/) — The broader principle that consciousness must hide aspects of itself from itself
-- [agency-verification-void](/voids/agency-verification-void/) — Whether consciousness can confirm its own causal powers
+- [agency-verification-void](/voids/agency-void/) — Whether consciousness can confirm its own causal powers
 - [spontaneous-thought-void](/voids/thought-stream-void/) — The generation of unbidden thoughts
 - [self-opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive processes
 - [consciousness-disruption-and-the-mind-brain-interface](/topics/consciousness-disruption-and-the-mind-brain-interface/) — Sleep onset and anaesthesia from a different angle

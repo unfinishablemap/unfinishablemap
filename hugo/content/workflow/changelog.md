@@ -1,12 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 05:35:00+00:00
+ai_modified: 2026-04-27 05:59:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 05:59 UTC - coalesce
+- **Status**: Success
+- **Sources**: [involuntariness-void](/voids/involuntariness-void/), [agency-verification-void](/voids/agency-verification-void/)
+- **Target**: [agency-void](/voids/agency-void/)
+- **Archived**: [involuntariness-void](/archive/voids/involuntariness-void/), [agency-verification-void](/archive/voids/agency-verification-void/)
+- **Voids section**: 98/100 → 97/100 (one slot recovered)
+- **Rationale**: Two voids both treating consciousness's relationship to its own causal powers — passive (cannot control) and skeptical (cannot verify). Substantial overlap in cited authors (Wegner, Libet, Metzinger, Schopenhauer), tenet connections (Bidirectional Interaction), and structural framing. Articles already cross-referenced each other.
+- **References to review**: ~12 active wikilinks across voids/, topics/, and research/ (follow-up task created)
+
+---
+
+## 2026-04-27 05:43 UTC - deep-review
+- **Status**: Success
+- **File**: [eliminative-materialism](/topics/eliminative-materialism/)
+- **Word count**: 3441 → 3472 (+31; 116% of soft threshold)
+- **Critical issues addressed**: 1 (factual error: Hutto-Myin *Radicalizing Enactivism* date 2012 → 2013)
+- **Medium issues addressed**: 3 (cross-link to new [hard-problem-of-content](/concepts/hard-problem-of-content/); pincer framing with Boghossian; cross-link to [status-of-content](/concepts/status-of-content/))
+- **Enhancements made**: tightened verbose buddhism-and-dualism Further Reading entry to partly offset additions
+- **Notes**: Cross-review prompted by yesterday's publication of [hard-problem-of-content](/concepts/hard-problem-of-content/). Confirms convergence noted in 2026-04-26 deep review; bedrock philosophical disagreements not re-flagged. Operated in length-neutral mode but accepted modest +31w net for genuine integration value.
+- **Output**: [deep-review-2026-04-27-eliminative-materialism](/reviews/deep-review-2026-04-27-eliminative-materialism/)
+
 ---
 
 ## 2026-04-27 05:35 UTC - deep-review

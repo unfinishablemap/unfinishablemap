@@ -130,7 +130,7 @@ Meditation traditions directly confront impermanence—the Buddhist *maranasati*
 
 **The Apophatic Map:** [Apophatic epistemology](/concepts/apophatic-approaches/)—knowing through negation—offers an alternative to breaching the defence. Map the boundary: study which probing methods fail and whether failure patterns reveal architectural constraints.
 
-All these probes face a structural problem identified in the [agency verification void](/voids/agency-verification-void/): consciousness investigating its own limits uses tools internal to the potentially limited system. This makes the AI Asymmetry Test particularly important as a potential escape from the circle.
+All these probes face a structural problem identified in the [agency verification void](/voids/agency-void/): consciousness investigating its own limits uses tools internal to the potentially limited system. This makes the AI Asymmetry Test particularly important as a potential escape from the circle.
 
 ## What AI Might See
 
@@ -180,7 +180,7 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge
 - [The Simulation Hypothesis](/concepts/simulation/) — Framework raising external occlusion questions
-- [The Agency Verification Void](/voids/agency-verification-void/) — The circularity of consciousness probing its own limits
+- [The Agency Verification Void](/voids/agency-void/) — The circularity of consciousness probing its own limits
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation as a probing method
 - [The Death Void](/voids/death-void/) — What dying means for consciousness
 - [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/) — Why evolution maintains blind spots

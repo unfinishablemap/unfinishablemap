@@ -2,10 +2,15 @@
 title: "The Involuntariness Void"
 description: "Human+AI exploration of why consciousness cannot opt out of itself—experience arrives unbidden, persists without consent, and resists direct control even under dualism's causal framework."
 created: 2026-03-05
-modified: 2026-03-05
+modified: 2026-04-27
 human_modified:
-ai_modified: 2026-03-20T04:33:46+00:00
+ai_modified: 2026-04-27T05:59:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-27T05:59:00+00:00
+superseded_by: "/voids/agency-void/"
+archive_reason: "Coalesced into The Agency Void"
+original_path: "/voids/involuntariness-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[consciousness]]"

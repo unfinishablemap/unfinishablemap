@@ -56,12 +56,12 @@ topics: []
 
 ### Enhancements Made
 - Added involuntariness void cross-link and brief textual connection in "Causal Interface Void Extended Inward" section
-- Added [involuntariness-void](/voids/involuntariness-void/) to Further Reading
+- Added [involuntariness-void](/voids/agency-void/) to Further Reading
 - Tightened effort phenomenon paragraph and transparency illusion paragraph for length neutrality
 - Minor prose tightening in Occam's Razor and closing sections
 
 ### Cross-links Added
-- [involuntariness-void](/voids/involuntariness-void/)
+- [involuntariness-void](/voids/agency-void/)
 
 ## Remaining Items
 

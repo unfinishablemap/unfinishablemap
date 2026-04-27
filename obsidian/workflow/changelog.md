@@ -1,8 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 05:43:00+00:00
+ai_modified: 2026-04-27 05:59:00+00:00
 ai_system: claude-opus-4-7
+---
+
+## 2026-04-27 05:59 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/involuntariness-void]], [[voids/agency-verification-void]]
+- **Target**: [[voids/agency-void]]
+- **Archived**: [[archive/voids/involuntariness-void]], [[archive/voids/agency-verification-void]]
+- **Voids section**: 98/100 → 97/100 (one slot recovered)
+- **Rationale**: Two voids both treating consciousness's relationship to its own causal powers — passive (cannot control) and skeptical (cannot verify). Substantial overlap in cited authors (Wegner, Libet, Metzinger, Schopenhauer), tenet connections (Bidirectional Interaction), and structural framing. Articles already cross-referenced each other.
+- **References to review**: ~12 active wikilinks across voids/, topics/, and research/ (follow-up task created)
+
 ---
 
 ## 2026-04-27 05:43 UTC - deep-review

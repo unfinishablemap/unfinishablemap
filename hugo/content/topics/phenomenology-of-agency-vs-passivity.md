@@ -120,7 +120,7 @@ The epiphenomenalist can respond that the *appearance* of agency is itself a neu
 
 The implicit evidence is equally difficult to dismiss. [Intentional binding](/topics/volitional-control/#intentional-binding-an-implicit-measure) — the temporal compression between a voluntary action and its outcome discovered by Haggard, Clark, and Kalogeras (2002) — provides a non-introspective measure of agency. Voluntary actions perceptually draw their effects closer in time; involuntary movements do not. This binding effect is reduced when outcomes are unpredictable and altered in schizophrenic patients, tracking the same comparator architecture that the clinical dissociations reveal. An epiphenomenal consciousness would have no reason to distort temporal perception selectively for voluntary actions.
 
-A structural limitation must be acknowledged: the [agency verification void](/voids/agency-verification-void/) shows that every tool consciousness possesses for investigating its own efficacy is internal to the system under investigation. The calibration argument and the binding evidence are powerful but cannot escape this circularity—they are gathered *by* the faculty whose causal status is in question. The convergence of multiple independent lines of evidence (introspective, implicit, neuroplastic) makes coincidence progressively less plausible, but the verification gap cannot be closed from within.
+A structural limitation must be acknowledged: the [agency verification void](/voids/agency-void/) shows that every tool consciousness possesses for investigating its own efficacy is internal to the system under investigation. The calibration argument and the binding evidence are powerful but cannot escape this circularity—they are gathered *by* the faculty whose causal status is in question. The convergence of multiple independent lines of evidence (introspective, implicit, neuroplastic) makes coincidence progressively less plausible, but the verification gap cannot be closed from within.
 
 ### Against Illusionism
 
@@ -169,7 +169,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Phenomenological layers of ownership in choice
 - [volitional opacity](/voids/self-opacity/) — Why the mechanism connecting will to action is invisible
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from introspection
-- [The Agency Verification Void](/voids/agency-verification-void/) — Why consciousness cannot verify its own causal powers
+- [The Agency Verification Void](/voids/agency-void/) — Why consciousness cannot verify its own causal powers
 - [The Interested Party Void](/voids/interested-party-void/) — Motivational corruption in consciousness's self-investigation
 - [free-will](/topics/free-will/) — The broader philosophical context
 - [consciousness-and-agency](/apex/consciousness-and-agency/) — Apex synthesis of agency across the Map

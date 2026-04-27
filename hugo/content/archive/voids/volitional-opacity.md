@@ -133,7 +133,7 @@ The experience of transparency to ourselves as agents is compelling, universal, 
 
 The [causal interface void](/voids/causal-interface/) concerns how consciousness affects the external world. Volitional opacity shows that the same void extends inward—we also cannot observe how consciousness affects our own actions. The interface is opaque from every direction: first-person introspection finds no mechanism, third-person neuroscience finds correlates but not causation, philosophy finds no satisfying account.
 
-The [involuntariness void](/voids/involuntariness-void/) reveals a complementary limit: we cannot observe the mechanisms of willing, and we also cannot control what we experience. Volitional opacity concerns our inability to see *how* decisions cause actions; involuntariness concerns our inability to govern *what* consciousness presents to us. Both point to the same architectural feature—the mechanisms generating experience are hidden from the experience they generate.
+The [involuntariness void](/voids/agency-void/) reveals a complementary limit: we cannot observe the mechanisms of willing, and we also cannot control what we experience. Volitional opacity concerns our inability to see *how* decisions cause actions; involuntariness concerns our inability to govern *what* consciousness presents to us. Both point to the same architectural feature—the mechanisms generating experience are hidden from the experience they generate.
 
 The persistence across methods suggests the limit is structural rather than contingent.
 
@@ -162,7 +162,7 @@ None of these conditions has been met. The persistence across four centuries of 
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/) — What choosing feels like
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
-- [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
+- [The Involuntariness Void](/voids/agency-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/imagination-and-creativity-void/) — Parallel opacity: creative process hidden, product accessible
 
 ## References

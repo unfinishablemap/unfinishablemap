@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-11
-**Article**: [The Involuntariness Void](/voids/involuntariness-void/)
+**Article**: [The Involuntariness Void](/voids/agency-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

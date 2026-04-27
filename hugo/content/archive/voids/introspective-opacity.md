@@ -136,7 +136,7 @@ The [limits-reveal-structure](/voids/limits-reveal-structure/) principle applies
 
 **The explanatory gap has an introspective dimension.** The gap is not merely third-person but first-person. Even the system that has the experiences cannot observe their generation.
 
-**The causal interface extends inward.** The [causal interface void](/voids/causal-interface/) concerns how consciousness affects the external world; volitional opacity shows the same void extends inward. The [involuntariness void](/voids/involuntariness-void/) reveals the complement: we cannot control what we experience. Both point to the same architecture—the mechanisms generating experience are hidden from the experience they generate.
+**The causal interface extends inward.** The [causal interface void](/voids/causal-interface/) concerns how consciousness affects the external world; volitional opacity shows the same void extends inward. The [involuntariness void](/voids/agency-void/) reveals the complement: we cannot control what we experience. Both point to the same architecture—the mechanisms generating experience are hidden from the experience they generate.
 
 ## Relation to Site Perspective
 
@@ -187,7 +187,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [Free Will](/topics/free-will/) — The broader context for questions of agency
 - [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
-- [The Involuntariness Void](/voids/involuntariness-void/) — Why consciousness cannot control its own states
+- [The Involuntariness Void](/voids/agency-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/imagination-and-creativity-void/) — Parallel opacity: creative process hidden, product accessible
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/) — What choosing feels like from the inside
 - [The Intersubjective Void](/voids/voids-between-minds/) — How opacity compounds at the social level through testimony failure, calibration pressure, and hermeneutical gaps

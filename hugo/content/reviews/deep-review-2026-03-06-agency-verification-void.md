@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-06
-**Article**: [The Agency Verification Void](/voids/agency-verification-void/)
+**Article**: [The Agency Verification Void](/voids/agency-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

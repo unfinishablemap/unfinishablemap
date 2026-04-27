@@ -42,7 +42,7 @@ The apex article [consciousness-and-agency](/apex/consciousness-and-agency/) tac
 
 ### The Mysterian (McGinn)
 
-The voids section is the Map's most distinctive contribution to intellectual humility. The [transparency-void](/voids/necessary-opacity/) captures how consciousness cannot verify its own accuracy because every verification tool is internal to the system being verified—a genuine cognitive closure rather than mere ignorance. The [agency-verification-void](/voids/agency-verification-void/) shows that both epiphenomenalism and interactionism face verification failure (the self-stultification symmetry), and this symmetry itself becomes evidence of genuine void. The [mathematical-void](/voids/mathematical-void/) maps where formal competence diverges from phenomenal understanding. These articles don't treat cognitive limitations as failures but as structural features of finite minds worth charting precisely.
+The voids section is the Map's most distinctive contribution to intellectual humility. The [transparency-void](/voids/necessary-opacity/) captures how consciousness cannot verify its own accuracy because every verification tool is internal to the system being verified—a genuine cognitive closure rather than mere ignorance. The [agency-verification-void](/voids/agency-void/) shows that both epiphenomenalism and interactionism face verification failure (the self-stultification symmetry), and this symmetry itself becomes evidence of genuine void. The [mathematical-void](/voids/mathematical-void/) maps where formal competence diverges from phenomenal understanding. These articles don't treat cognitive limitations as failures but as structural features of finite minds worth charting precisely.
 
 ## Content Strengths
 

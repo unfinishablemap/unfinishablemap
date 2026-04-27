@@ -2,10 +2,15 @@
 title: "The Agency Verification Void"
 description: "Human+AI exploration of why consciousness cannot verify its own causal powers—every tool for checking whether 'I did that' is internal to the system in question."
 created: 2026-02-25
-modified: 2026-02-25
+modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-04-27T05:59:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-27T05:59:00+00:00
+superseded_by: "/voids/agency-void/"
+archive_reason: "Coalesced into The Agency Void"
+original_path: "/voids/agency-verification-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-04-26 20:08:00+00:00
+ai_modified: 2026-04-27 05:43:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Eliminative materialism holds beliefs and qualia are theoretical fi
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-26 14:37:00+00:00
+last_deep_review: 2026-04-27 05:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -103,7 +103,7 @@ Three families of objection have shaped the literature.
 
 **The self-refutation objection.** The classical version: to assert eliminativism, the eliminativist must believe it; if there are no beliefs, the assertion is incoherent. The Churchland-Devitt-Rey reply is that this begs the question—the bare thesis "there are no beliefs" is not contradictory; the objection presupposes folk-psychological semantics in framing the contradiction. Boghossian's 1990 paper "The Status of Content" offers a more sophisticated version: arguments for irrealism about propositional-attitude content generalise to all content, including the linguistic content of the eliminativist's assertions. Devitt and Rey reply that this still presupposes truth-conditional semantics that the eliminativist can decline. The state of play is unsettled; most philosophers regard the simple version as question-begging and Boghossian-style versions as more challenging. (See [self-stultification](/concepts/self-stultification/) for the Map's broader treatment of self-undermining-position arguments.)
 
-**The hard problem of content.** Hutto and Myin (2012, 2017) argue that naturalistic theories of mental representation cannot explain how neurological states acquire genuine semantic properties—how a pattern of neural activity comes to be *about* anything. This is distinct from Churchland's eliminativism: Hutto and Myin reject inner mental representations entirely (radical enactivism) rather than reducing them to neural ones. The argument tells against the *replacement programme* by undercutting the assumption that something representational survives the replacement.
+**The [hard problem of content](/concepts/hard-problem-of-content/).** Hutto and Myin (2013, 2017) argue that naturalistic theories of mental representation cannot explain how neurological states acquire genuine semantic properties—how a pattern of neural activity comes to be *about* anything. This is distinct from Churchland's eliminativism: Hutto and Myin reject inner mental representations entirely (radical enactivism) rather than reducing them to neural ones. The argument tells against the *replacement programme* by undercutting the assumption that something representational survives the replacement. Together with Boghossian's [status-of-content](/concepts/status-of-content/) argument, the two form a pincer: Boghossian shows that content irrealism cannot be coherently asserted; Hutto and Myin show that content realism cannot be naturalised.
 
 **The Moorean response to illusionism.** Realists from Searle onwards have argued that phenomenal consciousness is the one domain where appearance and reality cannot come apart. "Where consciousness is concerned," Searle writes, "the existence of the appearance is the reality." If it seems to me that I am in pain, I am in pain; the seeming and the being are not separable. A 2024 *Frontiers in Psychology* paper, "In Defence of the Moorean Argument Against Illusionism," develops this line: I am more certain that phenomenal consciousness exists than I am of any premise an illusionist could deploy against it. Modus tollens beats modus ponens.
 
@@ -151,7 +151,9 @@ Eliminativism continues to attract serious philosophers despite the objections. 
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — the Map's response to the illusion-problem framing
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — adjacent challenge that, like eliminativism, denies real mental causation
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person method for studying consciousness, on which the illusionist case for introspective error rests
-- [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist anatta and no-self arguments as parallel to (and instructive contrast with) classical eliminativism about the self. The alliance is asymmetric: Madhyamaka extends dependent-origination (*pratītyasamutpāda*) to phenomenal events as well, holding every dharma empty of own-being. The Map borrows the no-self analysis but resists its extension to phenomenal events—a divergence that bears further treatment
+- [buddhism-and-dualism](/concepts/buddhism-and-dualism/) — Buddhist anatta as instructive parallel to classical eliminativism about the self; the Map borrows the no-self analysis but resists Madhyamaka's extension of *pratītyasamutpāda* to phenomenal events
+- [hard-problem-of-content](/concepts/hard-problem-of-content/) — Hutto and Myin's structural ally to the explanatory gap; pincer with Boghossian against naturalised content
+- [status-of-content](/concepts/status-of-content/) — Boghossian's sophisticated self-refutation argument against eliminativism about propositional-attitude content
 - [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/) — broader methodological context
 
 ## References
@@ -164,7 +166,7 @@ Eliminativism continues to attract serious philosophers despite the objections. 
 6. Dennett, D. (2016). Illusionism as the Obvious Default Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 65-72.
 7. Devitt, M. & Rey, G. (1991). Transcending Transcendentalism: A Response to Boghossian. *Pacific Philosophical Quarterly*, 72, 87-100.
 8. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*, 23(11-12), 11-39.
-9. Hutto, D. D. & Myin, E. (2012). *Radicalizing Enactivism: Basic Minds Without Content*. MIT Press.
+9. Hutto, D. D. & Myin, E. (2013). *Radicalizing Enactivism: Basic Minds Without Content*. MIT Press.
 10. Hutto, D. D. & Myin, E. (2017). *Evolving Enactivism: Basic Minds Meet Content*. MIT Press.
 11. Lycan, W. G. & Pappas, G. (1972). What Is Eliminative Materialism? *Australasian Journal of Philosophy*, 50, 149-159.
 12. Ramsey, W. (2003, substantively revised 2019). Eliminative Materialism. *Stanford Encyclopedia of Philosophy*.

@@ -53,7 +53,7 @@ topics: []
 - Added cross-links to involuntariness-void and the-givenness-void
 
 ### Cross-links Added
-- [involuntariness-void](/voids/involuntariness-void/)
+- [involuntariness-void](/voids/agency-void/)
 - [the-givenness-void](/voids/phenomenal-presence-void/)
 
 ## Remaining Items
