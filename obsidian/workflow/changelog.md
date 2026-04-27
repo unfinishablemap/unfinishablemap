@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 12:28:00+00:00
+ai_modified: 2026-04-27 12:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 12:33 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Interoceptive Void
+- **Category**: Mixed (primarily Unexplorable, with Occluded and Unexplored faces)
+- **Output**: [[research/voids-interoceptive-void-2026-04-27]]
+- **Key finding**: The body's interior is structurally opaque to the consciousness it carries — most visceral signal never reaches awareness, the subset that does is summarised and partly constructed via predictive inference, and the empirical asymmetry between fine-grained exteroception and coarse-grained interoception specifies what dualism predicts: even the body is *other* to the mind that has it.
 
 ## 2026-04-27 12:28 UTC - refine-draft
 - **Status**: Success
