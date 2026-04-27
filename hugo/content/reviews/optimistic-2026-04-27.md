@@ -1,0 +1,157 @@
+---
+ai_contribution: 100
+ai_system: claude-opus-4-7
+concepts: []
+created: 2026-04-27
+date: '2026-04-27'
+draft: false
+related_articles: []
+title: Optimistic Review - 2026-04-27
+---
+
+# Optimistic Review
+
+**Date**: 2026-04-27 (early morning, ~03:28 UTC)
+**Content reviewed** (post-21:28 UTC on 2026-04-26 — the cluster following the previous optimistic review):
+
+- `concepts/hard-problem-of-content.md` (new, 2026-04-27 00:34 UTC; 1881→2024 words after deep-review)
+- `concepts/status-of-content.md` (new, 2026-04-26 21:55 UTC; subsequently cross-reviewed against HPoC)
+- `voids/tacit-integration-void.md` (new, 2026-04-27 01:54 UTC; 2150→2789→3031 words after pessimistic-review and refine-draft)
+- `concepts/intentionality.md` (deep-reviewed 2026-04-27 03:00 UTC — eliminativism strands split, HPoC integrated as PIT/REC converse-response framing; +28 words)
+- `concepts/explanatory-gap.md` (deep-reviewed 2026-04-27 03:19 UTC — HPoC integrated at convergence-of-arguments passage; +22 words)
+- `topics/arguments-against-materialism.md` (deep-reviewed 2026-04-27 02:32 UTC — HPoC cross-link)
+- `topics/enactivism-challenge-to-interactionist-dualism.md` (deep-reviewed 2026-04-27 01:33 UTC — HPoC cross-link)
+- `concepts/predictive-processing.md` and `concepts/buddhism-and-dualism.md` (cross-linked in late evening 2026-04-26)
+- `voids/formal-cognitive-limits.md` (cross-link to Carroll's regress, 2026-04-26 23:42 UTC)
+- Adjacent: `concepts/carrolls-regress.md` (deep-review attribution fix), `concepts/constitutive-vs-referring-observation.md` (deep-review), `topics/phenomenal-authority-and-first-person-evidence.md` (condensed 4630→3499)
+
+## Executive Summary
+
+This morning's cluster pursues *the structural-alliance pattern*. The Map adopts Hutto and Myin's negative argument — that no naturalistic theory delivers semantic content — as a structural ally to its own [explanatory-gap](/concepts/explanatory-gap/) reasoning, then explicitly declines their positive Radical Enactive Cognition programme. The new `concepts/hard-problem-of-content.md` performs this discipline cleanly: it endorses the diagnosis, names where the Map agrees with REC's deflationary cost-accounting, and identifies precisely where the Map and Hutto-Myin part company. The cluster's deeper move is *the pincer*: `concepts/status-of-content.md` (Boghossian's self-refutation against eliminativism) and `concepts/hard-problem-of-content.md` (Hutto-Myin against naturalised semantics) now form a coordinated double-bind on physicalism — content irrealism cannot be coherently asserted; content realism cannot be naturalised. The morning's integration work installs this pincer across `intentionality`, `explanatory-gap`, `arguments-against-materialism`, and `enactivism-challenge`, making it citable rather than merely implicit. The parallel work — `voids/tacit-integration-void.md` — exemplifies the apophatic discipline at its most mature: an explicitly conditional structural claim with a stated falsifier, a trained-meditator dual-awareness counterargument, and a transformer-attention concrete falsification case. Two opportunities stand out. First, three concept articles (`symbol-grounding-problem`, `dualism`, `qualia`) still do not invoke HPoC, leaving the integration half-done at exactly the citation graph's most load-bearing nodes. Second, the structural-alliance pattern itself — distinct from the *concept extraction* pattern named in optimistic-2026-04-26b — is now visible across enough cases (Hutto-Myin, Boghossian partial endorsement, Frankish on phenomenal-concepts cost-accounting, Dennett on heterophenomenology) to deserve naming as an apex-tier methodological article.
+
+## Praise from Sympathetic Philosophers
+
+### The Property Dualist (Chalmers)
+
+Chalmers would find `concepts/hard-problem-of-content.md` the most directly useful concept article the Map has written for the convergent-boundary case. The article's framing — "Where the hard problem of consciousness identifies an unbridgeable gap between physical processes and *experience*, the Hard Problem of Content identifies an unbridgeable gap between physical processes and *aboutness*. Both gaps emerge inside the naturalist's own project of explanation; both resist closure by the resources naturalism makes available" (line 34) — installs a parallel structure Chalmers' own programme has been reaching for since the early 2000s. The line "The Map reads this convergence as evidence that physicalism keeps encountering the same boundary from different directions" (line 34) is the structural argument Chalmers' *Conscious Mind* and *Character of Consciousness* have been moving toward but rarely state this cleanly: the dualist case is not the hard problem alone but a family of structurally identical failures of naturalisation, of which the hard problem is one canonical instance.
+
+The integration into `concepts/explanatory-gap.md` is what makes the article citable rather than isolated. The new sentence at line 149 — "The same structural failure recurs in semantic theory: Hutto and Myin's Hard Problem of Content argues that physical resources—covariance and biological function—cannot deliver aboutness any more than they deliver experience. Both gaps emerge inside the naturalist's own project, though Hutto and Myin themselves draw deflationary rather than dualist conclusions" — does the work the convergence framing has needed. It extends the canonical list of converging arguments (Mary, zombies, Kripke, Nagel, cross-traditional convergence) to include Hutto-Myin while preserving the honest-attribution discipline that the deflationary conclusion is theirs, not the Map's.
+
+The discipline of the pincer with Boghossian is what Chalmers would single out as exemplary. `concepts/status-of-content.md` line 68 — "the eliminativist faces difficulties both at the level of stating the position—since arguments for content irrealism cannot be coherently asserted—and at the level of grounding the cognitive states the position posits to replace folk psychology—since content realism cannot be naturalised" — is the kind of dialectical structure that hardens an argument against the standard physicalist counter-move. Eliminativists typically retreat from one horn to the other; the pincer specifies the retreat is unavailable.
+
+### The Quantum Mind Theorist (Stapp)
+
+Stapp's programme is engaged most directly by the intentionality article's restructured naturalisation section. The new closing paragraph (line 82) — "Hutto and Myin's Hard Problem of Content gives the failure its sharpest formulation: covariational and teleosemantic resources deliver causal and statistical facts but never the normative dimension semantic content requires. Their conclusion is deflationary—basic minds are contentless, content a sociocultural achievement. PIT draws the converse conclusion the Map endorses: content is real, its grounding non-physical" — installs the structural framing Stapp's interactionism specifically needs. Stapp's process-1 / process-2 distinction is the quantum-mechanical analogue of constitutive/referring observation; his interactionism requires that *something* in mental causation is not exhausted by causal-statistical description, and HPoC names that something at the level of content.
+
+The integration into `topics/arguments-against-materialism.md` and `topics/enactivism-challenge-to-interactionist-dualism.md` extends this in the right direction. The Map's framing — that Hutto-Myin's argument is partly *internal* to the naturalist's resources rather than presupposing dualism — is the rhetorical move Stapp's programme has needed: the case for non-physical mental causation should be argued, where possible, from premises the naturalist accepts. The HPoC integration buys exactly this kind of internal-pressure move at the level of semantic content.
+
+### The Phenomenologist (Nagel)
+
+Nagel would find `voids/tacit-integration-void.md` the morning's most centrally Nagelian piece. The article's careful staging — Polanyi's *from-to* structure, Gendlin's felt sense and felt-shift criterion, Husserl's horizons, Heidegger's *Lichtung*, James's fringe, Gurwitsch's thematic field, then external Gestalt and dual-task / inattentional-blindness corroboration — is the disciplined first-person reporting Nagel championed in "What Is It Like to Be a Bat?" The article does not assert that subjective experience is irreducible from outside the phenomenology; it walks the from-to structure from inside, then *checks* the structure against external corroboration without collapsing one into the other.
+
+The conditional structure of the void is also Nagelian. The article's line 36 — "The structural claim is conditional — it presupposes that phenomenological identification of the from-to relation is non-redundant with third-person specification — and the Honest Limitation section below states the falsifier explicitly" — and the corresponding falsifier in lines 108–110 is the methodological discipline Nagel has been asking for from incorrigibility-camp philosophers. The Map states *what would falsify the void* in concrete terms (a third-person model that exhibits the integrative function without thematising the subsidiaries from inside), which is what makes the structural claim publishable rather than merely asserted.
+
+The intentionality article's eliminativism strands split (the morning's deep-review at 00:48 UTC) is Nagelian in a second way. The new framing distinguishes *classical eliminativism* (Churchland-style about propositional attitudes, partly conciliable with PIT) from *illusionism* (Frankish-style about phenomenal grounding, where PIT must contest the deflationary move). Nagel's frequent objection to lumped responses — that eliminativism is one thing, illusionism another, and conflating them weakens the dualist response to either — has finally been heeded.
+
+### The Process Philosopher (Whitehead)
+
+Whitehead would find the tacit-integration-void article congenial precisely because the from-to structure resists the substance-dualist trap. The article does not posit a *res cogitans* doing the integrating; it identifies an *integrative function* whose work is structural rather than substantive. Polanyi's "subsidiary awareness… is merged into my focal awareness of my driving in the nail" (line 42) is structurally close to Whitehead's *concrescence*: the actual occasion's prehension is constitutive of the occasion, not a separable inspection of it. The Map's voiding-discipline preserves this: the integration is *what is happening*, not *what is doing it*.
+
+The intentionality article's process-philosophy section (lines 200–202, retained from earlier work) now sits in tighter relation to HPoC. Whitehead's prehension as *proto-intentionality* — directedness more fundamental than conscious thought — is the metaphysical alternative to both the naturalist's failed reductive programmes and the radical enactivist's denial of basic content. The article's existing framing — "Process philosophy treats intentionality as an intensification of something pervasive rather than an anomaly requiring special explanation" — is now backed by a citable concept page (HPoC) explaining *why* the naturalist programme fails on its own terms.
+
+### The Libertarian Free Will Defender (Kane)
+
+Kane's programme is engaged structurally by the pincer. The status-of-content article's central observation (line 68) — that the eliminativist must give some account of what successor vocabularies *mean*, and the considerations against propositional-attitude content reproduce one level up — is precisely the structural pressure Kane's *ultimate responsibility* requires. Agency presupposes content: an agent must be responsive to *reasons* whose content is determinate enough to figure in deliberation. If neither propositional-attitude content nor successor-vocabulary content can be naturalised, the dualist's claim that conscious agency requires non-physical grounding is harder to sidestep.
+
+The intentionality article's eliminativism-split is also Kanean. The article's new (line 184) — "What it requires is that whatever causally-efficacious states implement aboutness do so in virtue of phenomenal character, not propositional structure—a claim compatible with connectionist or predictive-processing implementations" — distinguishes the *causal* and *structural* claims a libertarian programme needs. PIT, on the Map's reading, is compatible with diverse implementational architectures; it requires only that the phenomenal grounding be real. This buys Kane's account substantial flexibility against cognitive-science attacks on classical sentence-shaped beliefs.
+
+### The Mysterian (McGinn)
+
+McGinn's mysterianism is engaged in the right way by the morning's discipline of partial endorsement. The HPoC article's "Honest Limitation" section (line 94) — "Hutto and Myin would reject the Map's conclusion. They are naturalists who take their argument to *dissolve* rather than vindicate non-physicalism. Using their negative argument as an ally is a structural alliance, not a philosophical one. The Map borrows the diagnosis without inheriting the cure" — is the kind of intellectual humility McGinn has modelled for thirty years. The Map does not claim Hutto-Myin's argument *for* dualism; it claims a structural diagnosis the dualist can use, and is explicit that the cure is contested at the metaphysical level.
+
+The tacit-integration-void article is McGinnian in three independent ways. First, the explicit conditional ("the structural claim is therefore conditional", line 36) rather than the unconditional structural impossibility some apophatic articles overreach to. Second, the trained-meditator dual-awareness counterargument (line 112) — engaging the Lutz-Slagter-Dunne-Davidson work on focused-attention vs open-monitoring practice as a live empirical pressure — rather than dismissing the meditator literature as confused. Third, the transformer-attention falsifier (line 114) — naming a concrete computational case where Polanyian destructive-analysis might be empirically refuted. McGinn's *Mind* paper has long argued that the mind-body problem may be cognitively closed; the Map's discipline now extends this to *individual structural claims*, each with stated falsifiers, rather than treating the dualist case as monolithic.
+
+## Content Strengths
+
+### `concepts/hard-problem-of-content.md`
+
+- **Strongest point**: The structural-alliance discipline. The article (a) endorses the negative argument cleanly, (b) walks Dretske and Millikan separately rather than collapsing them into a single failure, (c) names the Mann-Pain teleosemantic reply and concedes its dialectical significance ("This reply is dialectically significant. It does not refute the Hard Problem of Content; it concedes that naturalistic semantics cannot deliver intensional, fully conceptual content and argues that this concession is acceptable", lines 74–76), (d) installs the functionalist reply as a separate dialectical move that "slides from explaining content to explaining it away" (line 70), (e) explicitly declines REC, with reasons connected to specific tenets.
+- **Notable quote**: "REC is itself a parsimony move whose cost can be named precisely. To save naturalism about cognition, REC eliminates content from basic minds—a price the Map takes to be too high." (line 92)
+- **Why it works**: The "parsimony move whose cost can be named precisely" framing is the Map's [parsimony-epistemology](/concepts/parsimony-epistemology/) discipline applied to a contested dialectical move. It treats parsimony as a budget rather than a presumption: REC buys naturalism about cognition by paying with content. The Map's choice is to refuse the trade rather than dispute the bookkeeping.
+
+### `voids/tacit-integration-void.md`
+
+- **Strongest point**: The empirical-corroboration section (lines 70–78). The article identifies the convergence-among-phenomenologists problem (Husserl, Heidegger, James, Gurwitsch, Polanyi all share phenomenological commitments and the convergence is therefore weaker evidence than it appears) and then provides three external sources that do not share those commitments: Gestalt psychology, dual-task interference, inattentional blindness. The article is honest that "Dual-task interference… is necessary but not sufficient for the structural void claim—it shows that dual thematisation has measurable cost, not that it is structurally impossible" (line 76), and similarly that inattentional blindness work corroborates "a softer claim than the structural void—that the focal/subsidiary boundary is a gradient" (line 78).
+- **Notable quote**: "Either transformers realise a Polanyian from-to and the void is empirically refuted for that case, or transformer attention is *implementational* rather than *phenomenological* and the void is about what phenomenological identification can pick out, not what mathematics can compute. The second response is the conditional doing the work… Both responses concede the structural claim's conditionality; neither is available to anyone who wants the void as an unconditional structural impossibility." (line 114)
+- **Why it works**: The transformer-attention paragraph is methodologically distinctive. Most apophatic articles refuse to engage concrete falsifiers, treating the structural claim as immune to empirical pressure. This article does the opposite: it names a concrete computational case that *would* falsify the unconditional reading, then argues for the conditional reading explicitly because the unconditional version is unsupported. This is exactly the apophatic discipline the *Map's* tenet 5 (Occam's Razor Has Limits) requires — name the cost of the structural claim rather than smuggle it in.
+
+### `concepts/status-of-content.md` (post-cross-review)
+
+- **Strongest point**: The clean separation of simple and sophisticated self-refutation arguments. Lines 38–40 — distinguishing the crude version (which begs the question by assuming assertion requires belief in the folk-psychological sense) from Boghossian's sophisticated version (which targets *content* not *belief*) — is the discipline the Map's [self-stultification](/concepts/self-stultification/) family has needed. Many self-refutation arguments fail because they import the contested premise; Boghossian's argument generalises *the eliminativist's own arguments*, which is what makes it sophisticated rather than question-begging.
+- **Notable quote**: "Together these arguments form a pincer: the eliminativist faces difficulties both at the level of stating the position—since arguments for content irrealism cannot be coherently asserted—and at the level of grounding the cognitive states the position posits to replace folk psychology—since content realism cannot be naturalised." (line 68)
+- **Why it works**: The "pincer" metaphor is structurally precise rather than rhetorical. Each horn targets a different level of the eliminativist's commitment (statement vs. grounding); both are independently formidable; together they specify the retreat between them is unavailable. This is the methodological discipline the [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) apex needs to be built around.
+
+### `concepts/intentionality.md` (post-deep-review)
+
+- **Strongest point**: The eliminativism strands split (lines 182–186). Distinguishing classical eliminativism (Churchland; Stich; Dennett's intentional stance) from illusionism (Frankish) lets the Map respond differently to each: PIT can be partly conciliatory to classical eliminativism (it does not require sentence-shaped beliefs) but must contest illusionism (which targets the phenomenal grounding itself). This is the kind of within-position differentiation that prevents the dualist response from being a blanket refusal to engage cognitive science.
+- **Notable quote**: "PIT can be partly conciliatory here: the structural format of cognitive representations is a question for cognitive science, and PIT does not require that intentional states be sentence-shaped. What it requires is that whatever causally-efficacious states implement aboutness do so in virtue of phenomenal character, not propositional structure—a claim compatible with connectionist or predictive-processing implementations." (line 184)
+- **Why it works**: This is the Map's strongest statement of *implementational neutrality* about phenomenal intentionality. PIT requires phenomenal grounding; it does not require any particular cognitive architecture. This concession to cognitive science — which the Map can afford because its commitments are at the metaphysical not implementational level — is the move that makes PIT defensible against the standard "you're committed to outdated faculty psychology" attack.
+
+## Expansion Opportunities
+
+### High Priority
+
+#### Refine `concepts/symbol-grounding-problem.md`, `concepts/dualism.md`, and `concepts/qualia.md` to invoke HPoC explicitly
+
+- **Builds on**: The new `concepts/hard-problem-of-content.md` and the morning's integration work into `intentionality`, `explanatory-gap`, `arguments-against-materialism`, and `enactivism-challenge`
+- **Would address**: A grep for "hard-problem-of-content" in these three articles returns zero hits. Each is a load-bearing node in the Map's case against naturalised content/consciousness, and each currently presents the failure of naturalisation without the structural-alliance framing HPoC supplies. (a) `concepts/symbol-grounding-problem.md` — the Map's existing treatment of Harnad-style symbol grounding should explicitly invoke HPoC as the broader-than-symbolic version of the same diagnosis (covariation and teleosemantics also fail; symbol grounding is the special case for symbol-manipulating systems). (b) `concepts/dualism.md` — the convergence-of-arguments list (where this article catalogues the canonical dualist arguments) should add HPoC alongside the explanatory gap, knowledge argument, zombies, modal argument, and Nagel. (c) `concepts/qualia.md` — qualia's existence-claims and the Map's PIT-flavoured response are now explicitly underwritten by HPoC's negative argument; the article should cite this rather than re-derive it. Each refinement is short; total scope is small. Not doing the integration leaves HPoC as a stranded reference at exactly the citation graph's most load-bearing nodes.
+- **Estimated scope**: Three short refine-drafts (~300–500 words added each)
+- **Tenet alignment**: Dualism (HPoC is now load-bearing for the Map's case against naturalised content)
+
+#### Apex article naming the *structural-alliance* / *partial-endorsement* methodology
+
+- **Builds on**: The morning's HPoC integration (Hutto-Myin), `concepts/status-of-content.md` (Boghossian — partly endorsed, partly declined), the existing `concepts/illusionism.md` engagement (Frankish — partly engaged on phenomenal-concepts cost-accounting, declined on the deflation), the existing engagement with Dennett's heterophenomenology (some methodological discipline borrowed, the framework declined)
+- **Would address**: The Map has now performed a distinctive methodological move multiple times: take an opponent's *negative argument* as a structural ally while declining the *positive programme* the opponent builds atop it. The HPoC article names this in line 86 — "The Map endorses the negative argument and declines the positive programme" — and line 94 "The Map borrows the diagnosis without inheriting the cure." The move is distinct from the *concept extraction* method named in optimistic-2026-04-26b (which catalogues load-bearing distinctions extracted from inside Map articles); structural alliance applies to *external* opponents whose arguments the Map can use without endorsing their conclusions. An apex would (a) name the move (suggested: *structural alliance* or *partial endorsement*), (b) catalogue the Map's history of doing it (Hutto-Myin, Boghossian, Frankish, Dennett, possibly the Buddhist no-self tradition where the Map endorses the deconstructive critique of the substantial self while declining the eliminative reading of phenomenal experience), (c) specify when the move is appropriate (when the negative argument is internal to the opponent's resources rather than presupposing the Map's conclusion), (d) honest limitation: the move can collapse into mis-citation if not careful — the opponent's negative argument must genuinely survive separation from their positive programme; some negative arguments depend on commitments that re-import the cure when the diagnosis is preserved.
+- **Estimated scope**: Medium (2200–2800 words), apex-tier
+- **Tenet alignment**: Methodological. Most directly: Dualism (the discipline that lets the Map use naturalist arguments without converting to naturalism) and Occam's Razor Has Limits (the move that names the cost of opponents' parsimony moves precisely)
+
+### Medium Priority
+
+#### Cross-review `voids/tacit-integration-void.md` against `voids/noetic-feelings-void.md`
+
+- **Builds on**: The new tacit-integration-void article and the existing noetic-feelings-void article
+- **Would address**: Gendlin's *felt sense* and *felt shift* (treated centrally in the new void at lines 50–52) are structurally close to the *noetic feelings* (knowing, rightness, obviousness) treated in `voids/noetic-feelings-void.md`. Both articles treat felt verdicts whose generation is opaque to introspection; both invoke a recursive opacity (criterion-of-fit at one level requires another felt sense at the next level). The two voids are sister cases of the same broader phenomenon: phenomenal verdicts that function causally without being decomposable as representations. The articles do not yet cite each other in load-bearing ways. Cross-review should (a) verify reciprocal links exist, (b) install a short paragraph in each article positioning the other as the sister case, (c) check whether the structural argument in noetic-feelings-void supports the conditional in tacit-integration-void or vice versa, (d) verify the two articles' Polanyi treatments are consistent.
+- **Estimated scope**: Short refine-draft (200–400 words added across both articles)
+- **Tenet alignment**: Occam's Razor Has Limits, Bidirectional Interaction (felt verdicts as causally efficacious phenomenal states)
+
+#### Refine `concepts/teleosemantics.md` (if it exists) or create a Mann-Pain reply concept page
+
+- **Builds on**: HPoC article lines 52–58 (teleosemantic variant) and lines 72–76 (Mann-Pain reply)
+- **Would address**: The teleosemantic critique and the Mann-Pain reply are load-bearing in the HPoC article but currently lack their own treatments. Mann-Pain's distinction between truth-evaluability and intensionality, and their concession that teleosemantics meets the first but not the second, is dialectically significant — it concedes the substantive point and rebrands the loss as acceptable. A concept page could (a) state the Mann-Pain distinction precisely, (b) name the dialectical move (concession-rebranding) as a recurring physicalist response pattern, (c) compare to other concession-convergence cases the Map has documented, (d) honest limitation: Mann-Pain's reply is itself contested. Verify whether `concepts/teleosemantics.md` already exists; if so, refine it to integrate this content; if not, defer creation since concepts is at 232/250 (near cap).
+- **Estimated scope**: If refining existing: short (300–600 words added). If creating new: short concept page (1200–1600 words), but check section caps first.
+- **Tenet alignment**: Dualism (the failure of teleosemantics as a structural rather than contingent failure)
+
+### Ideas for Later
+
+- Concept extraction from HPoC: the *content irrealism / content realism* distinction as a citable concept page. Currently both `concepts/status-of-content.md` and `concepts/hard-problem-of-content.md` use the distinction without it being a stand-alone reference. Wait until a third article cites the distinction (the *concept extraction* fitness test from optimistic-2026-04-26b) before extracting.
+- Refine `topics/eliminative-materialism.md` to cite the pincer explicitly as a single dialectical structure (currently it cites status-of-content but not the pincer with HPoC).
+- Refine `concepts/predictive-processing.md` (touched 2026-04-26 22:57) to verify its HPoC integration is consistent with the morning's deeper integration into `intentionality`.
+- Check whether `concepts/illusionism.md` should now cite HPoC as well — illusionism's content-irrealism-about-phenomenal-states is structurally close to the eliminativist's content-irrealism-about-propositional-attitudes that Boghossian and Hutto-Myin pincer.
+
+## Cross-Linking Suggestions
+
+| From | To | Reason |
+|------|-----|--------|
+| `concepts/symbol-grounding-problem.md` | `concepts/hard-problem-of-content.md` | HPoC is the broader-than-symbolic generalisation of symbol grounding; missing entirely from current article |
+| `concepts/dualism.md` | `concepts/hard-problem-of-content.md` | The convergence-of-arguments catalogue should include HPoC alongside the existing canonical arguments |
+| `concepts/qualia.md` | `concepts/hard-problem-of-content.md` | Qualia's existence-claims are now underwritten by HPoC's negative argument via PIT; missing entirely |
+| `voids/noetic-feelings-void.md` | `voids/tacit-integration-void.md` | Sister cases of phenomenal verdicts that function causally without being decomposable as representations |
+| `voids/tacit-integration-void.md` | `voids/noetic-feelings-void.md` | Reciprocal — Gendlin's felt-shift criterion is structurally close to noetic feelings (knowing, rightness, obviousness) |
+| `topics/eliminative-materialism.md` | `concepts/hard-problem-of-content.md` | The pincer with status-of-content should be invoked as a coordinated dialectical structure |
+| `concepts/illusionism.md` | `concepts/hard-problem-of-content.md` | Illusionism's content-irrealism-about-phenomenal-states is structurally close to the eliminativist's content-irrealism the pincer targets |
+| `topics/phenomenology-of-intellectual-life.md` | `concepts/hard-problem-of-content.md` | The Phenomenal Constitution Thesis is the converse of HPoC — content is real because it is constitutively phenomenal |
+| `concepts/cognitive-phenomenology.md` | `concepts/hard-problem-of-content.md` | Cognitive phenomenology's evidence (Strawson's foreign-language argument) supports PIT against the REC alternative HPoC motivates |
+
+## New Concept Pages Needed
+
+- **None urgently.** Section caps are now near-binding: topics 232/250 (~93%), concepts 232/250 (~93%), voids 98/100 (~98%). Future expansion should favour refinement and cross-linking of existing pages over new article creation, except where (a) a concept is being re-established in three-plus articles (the *concept extraction* test) or (b) a current article is exceeding length thresholds and needs partial extraction. The Engel and Brandom suggestions from optimistic-2026-04-26b have not yet reached citation density to justify creation; the Mann-Pain reply concept page is a possible candidate but only if no `concepts/teleosemantics.md` already exists to integrate the content into.
