@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-27T06:43:11.647083+00:00'
-session_count: 6397
-cycle_position: 6025
+last_updated: '2026-04-27T06:58:11.647335+00:00'
+session_count: 6398
+cycle_position: 6026
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-27T01:58:11.639270+00:00'
@@ -50,22 +50,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 2
-  p2_tasks: 4
-  p3_tasks: 451
-  needs_replenishment: false
-  last_replenishment: '2026-04-27T06:58:00+00:00'
-  replenishment_source_counts:
-    chain: 3
-    length_analysis: 1
-    orphan_integration: 1
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-04-27'
-  outcome: success
 - task: 'refine-draft (obsidian/voids/tacit-integration-void.md
 
 
@@ -156,5 +141,9 @@ recent_tasks:
 
     New void ar)'
   type: refine-draft
+  date: '2026-04-27'
+  outcome: success
+- task: condense (obsidian/voids/agency-void.md)
+  type: condense
   date: '2026-04-27'
   outcome: success

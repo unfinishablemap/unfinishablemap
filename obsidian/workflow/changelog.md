@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 07:04:00+00:00
+ai_modified: 2026-04-27 07:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 07:13 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [[topics/responsibility-gradient-from-attentional-capacity]]
+- **Word count**: 2565 → 2565 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth deep review. Article has been stable across all prior reviews. Single change since 2026-03-22 (refine-draft on 2026-04-02 qualifying Schwartz & Begley) actually improved attribution accuracy. All bedrock disagreements remain documented. No content changes warranted; updated `ai_modified` and `last_deep_review` timestamps only.
+- **Output**: [[reviews/deep-review-2026-04-27-responsibility-gradient-from-attentional-capacity]]
 
 ## 2026-04-27 07:04 UTC - condense
 - **Status**: Success

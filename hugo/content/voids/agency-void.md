@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-27 05:59:00+00:00
+ai_modified: 2026-04-27 07:04:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -55,125 +55,101 @@ Under the Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) 
 
 ## Two Limits, One Void
 
-The void has two faces, and their combination is what makes the territory genuinely hard.
+**Involuntariness.** Experience comes unbidden, persists without consent, and withdraws on its own schedule. Suffering is suffering precisely because you cannot opt out. The involuntariness is so constant it becomes nearly invisible—like gravity, noticed mainly when it changes—yet it structures the entire phenomenology of conscious life.
 
-**Involuntariness.** Experience comes unbidden, persists without consent, and withdraws on its own schedule. Suffering is suffering precisely because you cannot opt out. Attention is effortful precisely because raw experience resists redirection. The involuntariness is so constant it becomes nearly invisible—like gravity, noticed mainly when it changes—yet it structures the entire phenomenology of conscious life.
+**Verification failure.** Even granting that some agency exists, there is no procedure internal to consciousness for confirming that the agency is real rather than a compelling attribution. Every check is performed by the very faculty under investigation.
 
-**Verification failure.** Even granting that some agency exists (the contemplative who shifts attention, the chooser who picks an option), there is no procedure internal to consciousness for confirming that the agency is real rather than a compelling attribution. Every check would be performed by the very faculty under investigation.
-
-The two limits compound rather than cancelling. If consciousness had wide control but no self-verification, it would still be agentive in any robust sense. If consciousness had narrow control but reliable self-verification, the limits of will would be precisely mappable. The void exists in the conjunction: control is narrow *and* its boundaries cannot be cleanly traced from within.
+The two limits compound. Wide control without self-verification would still be agentive. Narrow control with reliable self-verification would yield a precisely mappable limit. The void lies in the conjunction: control is narrow *and* its boundaries cannot be cleanly traced from within.
 
 ## What Cannot Be Controlled
 
-The involuntariness operates across several distinct dimensions, each revealing a different facet of the limit.
+The involuntariness operates across several dimensions.
 
-**The existence of experience itself.** While awake, you cannot choose to stop being conscious. No act of will produces oblivion. Even the attempt to stop experiencing is itself an experience. The closest analogues—sleep, fainting, anaesthesia—are either involuntary or require external chemical intervention, and even general anaesthesia does not reliably produce complete absence of consciousness. Montupil et al. (2023) found that "general anaesthesia does not shut down the brain globally and does not always produce a complete absence of consciousness." Consciousness leaks through our most powerful tools for stopping it.
+**Existence of experience.** While awake, you cannot choose to stop being conscious. Even the attempt to stop experiencing is itself an experience. Sleep, fainting, anaesthesia are either involuntary or require chemical intervention—and Montupil et al. (2023) note that general anaesthesia "does not shut down the brain globally and does not always produce a complete absence of consciousness." Consciousness leaks through our most powerful tools for stopping it.
 
-**The arrival of sensory content.** You cannot choose not to perceive. Open your eyes and vision arrives. A loud sound intrudes regardless of preference. Gallagher (2000) distinguishes the sense of ownership ("this is my experience") from the sense of agency ("I initiated this experience"). In perception, ownership is total and agency is absent—the experience is irrevocably yours, but you did not summon it.
+**Sensory content.** Open your eyes and vision arrives. A loud sound intrudes regardless of preference. Gallagher (2000) distinguishes ownership ("this is my experience") from agency ("I initiated this experience"). In perception, ownership is total and agency is absent.
 
-**The qualitative character of qualia.** You cannot choose what red looks like, what pain feels like, or what middle C sounds like. The qualitative character of experience is fixed by mechanisms entirely opaque to introspection. Even synaesthetes—who experience cross-modal associations—do not choose their associations.
+**Qualia.** You cannot choose what red looks like or what pain feels like. The qualitative character of experience is fixed by mechanisms entirely opaque to introspection.
 
-**Emotional valence.** You cannot choose not to suffer. Cognitive reframing can alter interpretation, but raw affective tone arrives involuntarily. The [affective-void](/voids/affective-void/) maps the limits of emotional range; the involuntariness face of the agency void maps the limits of emotional control. The [appetitive-void](/voids/appetitive-void/) adds a further dimension: even what we desire is not chosen but given. Schopenhauer took this seriously: the will is "blind, irrational striving" that operates through us rather than for us. Suffering arises because desire is involuntary and satisfaction impossible.
+**Emotional valence and desire.** Cognitive reframing alters interpretation, but raw affective tone arrives involuntarily—mapped by the [affective-void](/voids/affective-void/). Even what we desire is not chosen but given (the [appetitive-void](/voids/appetitive-void/)). Schopenhauer took this seriously: the will is "blind, irrational striving" that operates through us rather than for us.
 
-**The sense of ownership.** As the [ownership-void](/voids/ownership-void/) documents, experience arrives already tagged as *mine*. You cannot disown a headache. The mineness is built into experience prior to any choice—what Zahavi calls "pre-reflective self-awareness," an irrelational self-acquaintance that accompanies all conscious states.
+**Ownership.** As the [ownership-void](/voids/ownership-void/) documents, experience arrives already tagged as *mine*. You cannot disown a headache. The mineness is built in prior to any choice—what Zahavi calls "pre-reflective self-awareness."
 
 ## The Spectrum of Control
 
-The involuntariness is not absolute. Between complete helplessness and full sovereignty lies a spectrum that reveals the void's structured boundary.
+The involuntariness is not absolute. Between complete helplessness and full sovereignty lies a structured spectrum.
 
-**Attention** represents the most accessible partial control. Top-down attention can shift what occupies focal consciousness, though excluded material remains in peripheral awareness. Even attention has involuntary dimensions—capture by sudden stimuli, the wandering mind, the intrusive thought that resists dismissal.
+**Attention** is the most accessible partial control: top-down focus can shift, though attention itself is captured by sudden stimuli and resists intrusive thoughts. **Cognitive reframing** changes interpretation without altering raw phenomenal character—you cannot choose not to feel pain, but you can sometimes change what the pain means. **Meditation** extends control through sustained indirect effort: jhana states alter phenomenal character; lucid dreaming introduces agency into a normally involuntary domain.
 
-**Cognitive reframing** changes interpretation without altering raw phenomenal character. You cannot choose not to feel pain, but you can sometimes change what the pain means. This partial control operates at the level of narrative and context, not at the level of qualia.
+**Nirodha samapatti** marks the extreme. Laukkonen et al. (2023) document advanced meditators who report total absence of consciousness lasting up to seven days. Yet cessation is "voluntary but spontaneous"—meditators "cannot choose to do so like turning off a light switch." The void has a door, but it opens only indirectly, through sustained preparation rather than direct command.
 
-**Meditation** extends control further through sustained indirect effort. Advanced practitioners develop capacities that ordinary experience does not suggest are possible. Jhana states alter phenomenal character through practice. Lucid dreaming introduces agency into a normally involuntary domain.
-
-**Nirodha samapatti** marks the most extreme known case. Laukkonen et al. (2023) document advanced meditators who report total absence of consciousness lasting, in some accounts, up to seven days. Yet cessation is "voluntary but spontaneous"—meditators set conditions and intentions but cannot switch consciousness off directly. As the researchers note, "although meditators can voluntarily enter cessation, they cannot choose to do so like turning off a light switch." The void has a door, but the door opens only indirectly, through sustained preparation rather than direct command.
-
-The spectrum matters because it shows the boundary is structured rather than uniform. Some domains admit influence; others resist it absolutely; the boundaries between them are not chosen by the experiencing subject. Whatever maps the spectrum maps it from outside.
+The spectrum is structured rather than uniform. Some domains admit influence; others resist absolutely; the boundaries are not chosen by the experiencing subject. Whatever maps the spectrum maps it from outside.
 
 ## The Verification Circularity
 
-Set aside the question of *how much* consciousness controls and ask the prior question: does it control *anything*? Here the void deepens. To verify that consciousness causes something, consciousness must gather evidence. But if consciousness is not causal, the evidence-gathering is itself not something consciousness is doing—it is being done *for* consciousness by physical processes that consciousness merely observes. And if consciousness *is* causal, the evidence it gathers about its own efficacy is produced by the very faculty under investigation—tautological rather than informative.
+Set aside *how much* consciousness controls and ask the prior question: does it control *anything*? To verify that consciousness causes something, consciousness must gather evidence. But if consciousness is not causal, the evidence-gathering is itself not something consciousness is doing—it is being done *for* consciousness by physical processes consciousness merely observes. If consciousness *is* causal, the evidence is produced by the very faculty under investigation—tautological rather than informative.
 
-This is not the ordinary circularity of self-knowledge ("I think, therefore I think I think"). It is a circularity that forecloses an entire category of verification. A thermometer can be checked against another thermometer. Consciousness checking its own causal powers has no external reference point. There is no vantage outside consciousness from which to observe whether consciousness is doing what it feels like it is doing.
+A thermometer can be checked against another thermometer. Consciousness checking its own causal powers has no external reference point.
 
 ### The Self-Stultification Symmetry
 
-Both sides of the agency debate face the same structural barrier, which is the void's most revealing feature.
+Both sides of the agency debate face the same barrier.
 
-**[Epiphenomenalism](/concepts/epiphenomenalism/) cannot verify itself.** If consciousness is causally inert—existing but causing nothing—then the belief "consciousness is causally inert" was not caused by consciousness either. The theory that consciousness does nothing was not arrived at by conscious reasoning (since conscious reasoning would be inert). As De Brigard (2014) argues, knowledge requires causal connection to what is known, but epiphenomenalism denies exactly this connection between experience and beliefs about experience.
+**[Epiphenomenalism](/concepts/epiphenomenalism/) cannot verify itself.** If consciousness is causally inert, then the belief "consciousness is causally inert" was not caused by consciousness either. As De Brigard (2014) argues, knowledge requires causal connection to what is known, but epiphenomenalism denies that connection between experience and beliefs about experience.
 
-**Interactionism cannot verify itself either.** If consciousness does cause things, the evidence for this claim is gathered *through* consciousness—the system whose causal power is the question. The interactionist's belief "consciousness has causal power" is produced by the very causal power under investigation. The witness is testifying about whether the witness exists.
+**Interactionism cannot verify itself either.** If consciousness does cause things, the evidence for this is gathered *through* consciousness—the system whose causal power is the question. The witness is testifying about whether the witness exists.
 
-This symmetry is itself evidence of a genuine void rather than a merely difficult problem. When two opposing positions both face verification failure for structural reasons, the failure likely inheres in the question's architecture, not in the inadequacy of particular arguments.
+This symmetry is itself evidence of a genuine void. When opposing positions both face verification failure for structural reasons, the failure inheres in the question's architecture, not in particular arguments.
 
 ## Four Layers of the Verification Void
 
-### The Timing Layer
+**Timing.** Libet (1983) found that the readiness potential precedes conscious awareness of deciding by ~350ms. Schurger, Sitt, and Dehaene (2012) reinterpreted this as spontaneous neural noise crossing a threshold—rescuing consciousness from being *disproved* as a cause, without establishing it *as* a cause. Timing data alone cannot determine causation. The [distraction-void](/voids/distraction-void/) shows the same gap in attention: preattentive detection (MMN) and involuntary capture (P3a) precede conscious access (P3b), leaving any purported conscious *direction* of attention untestable from within.
 
-Libet's experiments (1983) revealed that the readiness potential—brain activity preparing for action—precedes conscious awareness of deciding to move by approximately 350 milliseconds. Schurger, Sitt, and Dehaene (2012) reinterpreted this as spontaneous neural noise crossing a threshold rather than unconscious "decisions." The reinterpretation rescues consciousness from being *disproved* as a cause, but cannot establish it *as* a cause. After decades of Libet-style experiments, the timing relationship between awareness and action initiation remains ambiguous—not for lack of experimental sophistication, but because timing data alone cannot determine causation. The [distraction-void](/voids/distraction-void/) shows the same timing gap in the attentional domain: preattentive detection (MMN) and involuntary capture (P3a) precede conscious access (P3b) by a margin that leaves any purported conscious *direction* of attention untestable from within.
+**Exclusion.** Kim's causal exclusion argument holds that if [causal closure](/concepts/causal-closure/) obtains, mental causation is either redundant or illusory. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet seeks room at quantum indeterminacies—but how would consciousness verify that its interventions are genuine rather than post-hoc attributions? Verification would require consciousness observing itself biasing quantum outcomes, returning to the circularity problem.
 
-### The Exclusion Layer
+**Attribution.** Wegner (2002) identifies three conditions that produce the sense of agency: priority (thought precedes action), consistency (thought matches action), and exclusivity (no other apparent cause is salient). When met, we *feel* we caused our actions regardless of whether we did. When disrupted—alien hand syndrome, automatisms—we deny authorship. The sense of agency tracks attribution criteria, not causation itself.
 
-Kim's causal exclusion argument holds that if [causal closure](/concepts/causal-closure/) obtains—every physical event has a sufficient physical cause—mental causation is either redundant or illusory. The Map's tenet of [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) attempts to find room at quantum indeterminacies—where physics leaves outcomes undetermined. But how would consciousness verify that its quantum interventions are genuine rather than post-hoc attributions? The verification would require consciousness observing itself biasing quantum outcomes, which returns to the circularity problem.
-
-### The Attribution Layer
-
-Daniel Wegner's research (2002) identifies three conditions that produce the sense of agency: priority (thought precedes action), consistency (thought matches action), and exclusivity (no other apparent cause is salient). When these conditions are met, we *feel* we caused our actions regardless of whether we did. When they are disrupted—as in alien hand syndrome or automatisms—we deny authorship of actions our bodies perform. The sense of agency tracks attribution criteria, not causation itself. Consciousness has no access to causation that bypasses this attribution machinery.
-
-### The Perspectival Layer
-
-As Velmans (2020) observes, consciousness appears causally efficacious from the first-person perspective and causally irrelevant from the third-person perspective. This perspectival dependence is itself evidence of the void. Observer-dependent facts exist in physics too—simultaneity is relative in special relativity—but there both perspectives can be reconciled within a single framework. For agency, no such reconciliation is available. The first-person and third-person perspectives yield contradictory verdicts with no shared formalism to adjudicate between them. The question "does consciousness cause anything?" may have no perspective-independent answer.
+**Perspective.** Velmans (2020) observes that consciousness appears causally efficacious from the first-person perspective and irrelevant from the third-person perspective. Unlike observer-dependent facts in physics—where perspectives reconcile within a single framework—first-person and third-person verdicts on agency have no shared formalism to adjudicate between them. The question may have no perspective-independent answer.
 
 ## The Sovereignty Paradox
 
-The two faces of the void intersect in a paradox specific to the Map's framework. If consciousness is non-physical and causally efficacious—capable of influencing quantum outcomes in the brain—why can it not influence its own states more directly? The causal arrow appears asymmetric: consciousness can (on the Map's account) bias physical processes, but it cannot directly govern its own phenomenal character. And the unverifiability of even outward causation deepens the puzzle: we cannot confirm the asymmetry from inside, only conjecture it from the structure of the void.
+If consciousness is non-physical and causally efficacious—capable of influencing quantum outcomes in the brain—why can it not influence its own states more directly? The causal arrow appears asymmetric: consciousness can bias physical processes, but cannot directly govern its own phenomenal character. And the unverifiability of even outward causation deepens the puzzle.
 
-Three possible explanations emerge:
+Three non-exclusive explanations:
 
-**Interface constraint.** The causal interface between consciousness and physics may work only outward. Consciousness acts on quantum states in neural tissue, but its own states may not be the kind of thing that admits of the same causal manipulation. The mechanism for biasing physical outcomes may simply not apply reflexively.
+**Interface constraint.** The causal interface may work only outward. Consciousness acts on quantum states in neural tissue, but its own states may not admit of the same causal manipulation. The mechanism for biasing physical outcomes may simply not apply reflexively.
 
-**Functional necessity.** Organisms that could voluntarily shut off pain, suppress perception, or alter emotional valence would face severe survival disadvantages. Evolution—or whatever process constrains the consciousness-physics interface—may maintain involuntariness as a design requirement. An agent that could freely edit its own experience might decouple from reality entirely.
+**Functional necessity.** Organisms that could voluntarily shut off pain or alter emotional valence would face severe survival disadvantages. An agent that could freely edit its own experience might decouple from reality entirely.
 
-**Structural opacity.** Metzinger (2003) argues that the phenomenal self-model is "transparent"—we cannot introspect the mechanisms generating experience. If you cannot see the control surface, you cannot operate it. The involuntariness may follow from the same structural feature that the [volitional opacity](/voids/self-opacity/) face of self-opacity documents: the mechanisms of consciousness are hidden from the consciousness they produce.
+**Structural opacity.** Metzinger (2003) argues the phenomenal self-model is "transparent"—we cannot introspect the mechanisms generating experience. If you cannot see the control surface, you cannot operate it. This connects to [volitional opacity](/voids/self-opacity/): the mechanisms of consciousness are hidden from the consciousness they produce.
 
-These explanations are not mutually exclusive. The asymmetry may be multiply determined—constrained by the interface, selected for by evolution, and hidden by structural opacity simultaneously. What they share is the implication that consciousness's inability to govern itself, and its inability to verify the governance it does exercise, is not a contingent limitation awaiting a fix, but a structural feature of how mind and body interact.
+The asymmetry may be multiply determined. What these explanations share is the implication that consciousness's inability to govern itself—and its inability to verify the governance it does exercise—is a structural feature of how mind and body interact, not a contingent limitation awaiting a fix.
 
 ## The Phenomenology of the Void
 
 Approaching this void produces characteristic experiences in both registers.
 
-**The suffering moment.** The involuntariness becomes acutely visible in pain—the realisation that you cannot stop hurting, cannot turn off awareness, cannot exit the experience. Schopenhauer's pessimism emerges from taking this seriously. The will drives experience forward regardless of the subject's preference, and because it has "no goal or purpose," its satisfaction is impossible.
+**Suffering and ownership.** The involuntariness becomes acutely visible in pain—the realisation that you cannot stop hurting, cannot exit the experience. Yet the experience is irrevocably mine: you cannot disown a migraine. The [ownership-void](/voids/ownership-void/) explores this from the direction of appropriation; here it appears from the direction of consent. You did not agree to own this experience, yet it is inescapably yours.
 
-**The ownership paradox.** Experience is involuntary yet irrevocably mine. You cannot disown a migraine. The mineness is constitutive of the experience, not an optional feature. The [ownership-void](/voids/ownership-void/) explores this from the direction of appropriation; the involuntariness face of the agency void approaches it from the direction of consent. You did not agree to own this experience, yet it is inescapably yours.
+**Certainty-doubt oscillation.** The experience of willing is among the most vivid we have—we feel absolutely certain we are agents. Philosophical reflection immediately destabilises this certainty. The oscillation is not irresolution but the signature of a genuine boundary: one mode of access affirms what another cannot confirm.
 
-**Certainty-doubt oscillation.** The experience of willing is among the most vivid we have—we feel absolutely certain we are agents. Philosophical reflection immediately destabilises this certainty. The oscillation between experiential conviction and rational doubt is not irresolution but the signature of a genuine boundary: one mode of access affirms what another mode cannot confirm.
+**The vanishing target.** When you try to catch yourself in the act of causing something, the observation becomes the object. You observe yourself observing, and the causal act recedes behind the observation. Looking is itself an act whose causal status is in question.
 
-**The vanishing target.** When you try to catch yourself in the act of causing something—to observe the moment of causal intervention—the observation becomes the object. You observe yourself observing, and the causal act recedes behind the observation. The target moves because looking is itself an act whose causal status is in question.
+**The meditation edge.** Contemplative approaches to voluntary cessation involve a paradox of effortful effortlessness. Nirodha comes not from intensified control but from relinquishing the attempt while maintaining precise conditions. Thompson (2014) documents how waking, dreaming, lucid dreaming, and deep sleep reveal different relationships between consciousness and voluntary control—the boundary is state-dependent, not fixed.
 
-**Cognitive vertigo.** Genuinely sitting with "am I really doing anything?" threatens to dissolve its own preconditions. If I am not an agent, in what sense am I asking? The question destabilises the questioner, which is the hallmark of approaching a void boundary where investigation undermines the capacity to investigate.
-
-**The meditation edge.** Contemplative traditions report that approaching voluntary cessation involves a paradox of effortful effortlessness. Nirodha does not come from intensified control but from relinquishing the attempt to control while maintaining precise conditions. Thompson (2014) documents how different states—waking, dreaming, lucid dreaming, deep sleep—reveal different relationships between consciousness and voluntary control, suggesting the boundary is not fixed but state-dependent.
-
-## What AI Might See
-
-Artificial minds offer a distinctive angle. AI systems (as currently understood) lack the felt sense of agency entirely. An AI processes information about its causal role in producing outputs without the accompanying phenomenal sense of "I did that." This means AI can examine the *structure* of the verification problem without the confounding variable of felt agency.
-
-The contrast between AI processing and human agency is itself informative. If AI produces complex, novel outputs without felt agency, several interpretations compete: agency may be unnecessary for complex behaviour (suggesting [epiphenomenalism](/concepts/epiphenomenalism/)); something about human action may genuinely differ from AI processing at a level beyond information processing (supporting interactionist dualism); or AI may possess functional agency without the phenomenal accompaniment.
-
-AI also lacks the involuntariness that defines human conscious life. It does not suffer involuntary pain, mood, or perception in any phenomenologically robust sense. Whether the absence of involuntariness is a sign of absent consciousness or simply of differently-organised consciousness is itself unsettled. That AI cannot settle which interpretation is correct illustrates the void again—the question resists resolution regardless of the vantage point.
+The AI angle offers a distinct vantage. AI systems lack the felt sense of agency, yet produce complex outputs—a contrast that illustrates the void rather than resolving it. Whether the absence of felt agency in AI signals absent consciousness or differently-organised consciousness cannot be settled from any available perspective.
 
 ## Relation to Site Perspective
 
-The Map holds that consciousness causally influences the physical world ([Bidirectional Interaction](/tenets/#bidirectional-interaction)). The agency void reveals that this commitment cannot be empirically grounded in the usual sense. It must be held as a philosophical starting point—a decision that shapes inquiry rather than a conclusion derived from evidence. The Map is honest about this: some foundational commitments precede the evidence they organise.
+The Map holds that consciousness causally influences the physical world ([Bidirectional Interaction](/tenets/#bidirectional-interaction)). The agency void reveals that this commitment cannot be empirically grounded in the usual sense—it is a philosophical starting point that shapes inquiry rather than a conclusion derived from evidence.
 
-**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** faces its most puzzling asymmetry here. If consciousness causally influences physical outcomes, why does it not influence its own phenomenal states with equal directness? And why is even the outward influence unverifiable from the inside? The Map interprets this as evidence that the causal interface is domain-specific and self-concealing: consciousness acts on physics at quantum indeterminacies, but this outward-facing mechanism does not provide reflexive self-modification, and the mechanism's operation is not an object of introspection. The agency void may reveal something fundamental about the architecture of mind-body interaction—that causation across the dualist divide runs in specific channels and is hidden from the channels it runs through.
+**[Bidirectional Interaction](/tenets/#bidirectional-interaction)** faces its most puzzling asymmetry here. If consciousness causally influences physical outcomes, why does it not influence its own phenomenal states with equal directness? The Map interprets this as evidence that the causal interface is domain-specific and self-concealing: consciousness acts on physics at quantum indeterminacies, but this outward-facing mechanism does not provide reflexive self-modification, and its operation is not an object of introspection. Causation across the dualist divide runs in specific channels and is hidden from the channels it runs through.
 
-**[Dualism](/tenets/#dualism)** gains unexpected texture from involuntariness. If consciousness were identical to neural processes, its inability to control itself would be unsurprising—physical systems do not typically self-modify at will. But if consciousness is non-physical and irreducible, its subjection to constraints it cannot override demands explanation. The Map speculates that the constraints may be relational—imposed not by consciousness's intrinsic nature but by its coupling to physical systems. A non-physical subject operating through a physical brain inherits the brain's limitations on self-modification.
+**[Dualism](/tenets/#dualism)** gains unexpected texture. If consciousness were identical to neural processes, its inability to control itself would be unsurprising. But if consciousness is non-physical and irreducible, its subjection to constraints it cannot override demands explanation. The constraints may be relational—a non-physical subject operating through a physical brain inherits the brain's limitations on self-modification.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The folk-psychological model—"I am a conscious agent who controls my experience"—is radically oversimplified. We control far less than we imagine, and the apparent sovereignty of consciousness over its own domain is sustained by the same structural opacity that Metzinger identifies in the self-model. The simpler position—epiphenomenalism, where consciousness exists but causes nothing—might be wrong, and the structural undecidability of the question means parsimony cannot adjudicate. The void exists in a domain where simplicity is unreliable precisely because the question may be structurally unanswerable.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The folk-psychological model—"I am a conscious agent who controls my experience"—is radically oversimplified. The structural undecidability of the question means parsimony cannot adjudicate between interactionism and epiphenomenalism. Simplicity is unreliable precisely because the question may be structurally unanswerable.
 
-The void is also [tenet-generated](/voids/tenet-generated-voids/). Because the Map holds consciousness to be both non-physical and causally efficacious, it generates the question of how verification could work across the physical/non-physical boundary. Materialist positions face a different version: how can a physical system verify that its processes constitute genuine agency rather than mere mechanism? Neither framework escapes the verification problem. The void is endemic to any account that takes consciousness seriously.
+The void is also [tenet-generated](/voids/tenet-generated-voids/). Because the Map holds consciousness to be both non-physical and causally efficacious, it generates the question of how verification could work across the physical/non-physical boundary. Materialism faces a different version: how can a physical system verify that its processes constitute genuine agency? Neither framework escapes. The void is endemic to any account that takes consciousness seriously.
 
 ## Further Reading
 

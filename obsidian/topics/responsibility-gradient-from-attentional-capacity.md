@@ -4,7 +4,7 @@ description: "Moral responsibility is not binary but graded by attentional capac
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-04-06T14:06:00+00:00
+ai_modified: 2026-04-27T07:13:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,7 +31,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-22T03:41:00+00:00
+last_deep_review: 2026-04-27T07:13:00+00:00
 ---
 
 Moral responsibility is not binary. The Unfinishable Map's [[attentional-economics|attentional economics]] framework implies that if agency scales with attentional capacity, then so does moral desert. An agent with full attentional resources—rested, undistracted, emotionally regulated, trained in deliberation—bears more responsibility for a harmful choice than one whose attentional capacity is depleted, impaired, or overwhelmed. The framework is a structural consequence of taking seriously the claim that consciousness influences the physical world through a bandwidth-limited channel.
