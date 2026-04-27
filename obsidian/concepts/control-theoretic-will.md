@@ -4,7 +4,7 @@ description: "Will as a low-bandwidth control signal—gating, stabilizing, and 
 created: 2026-02-19
 modified: 2026-02-19
 human_modified:
-ai_modified: 2026-04-20T20:38:00+00:00
+ai_modified: 2026-04-27T05:35:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -26,7 +26,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-21T05:25:00+00:00
+last_deep_review: 2026-04-27T05:35:00+00:00
 ---
 
 The Unfinishable Map's framework implies that consciousness operates not as a computational planner but as a **low-bandwidth control signal**. The brain generates options, runs simulations, and prepares competing action plans (Cisek, 2007); consciousness selects among them through a channel limited to roughly 10 bits per second (Meister, 2024). This architecture finds a natural analogue in control theory (Wiener, 1948)—the engineering discipline concerned with how a system steers itself toward desired states given feedback, constraints, and limited authority over the plant it governs. Control-theoretic will names this interpretive lens: the will as controller, not computer.

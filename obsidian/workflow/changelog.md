@@ -1,8 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 05:14:00+00:00
+ai_modified: 2026-04-27 05:35:00+00:00
 ai_system: claude-opus-4-7
+---
+
+## 2026-04-27 05:35 UTC - deep-review
+- **Status**: Success (stable, no content changes)
+- **File**: [[concepts/control-theoretic-will]]
+- **Word count**: 2362 → 2362 (no change; 94% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth deep review. Article stable since 2026-03-21; only changes since were mechanical wikilink updates from upstream coalescences. All attribution checks pass, all wikilinks resolve. Operating in cautious-length mode (94% soft threshold) — no expansion warranted. Bedrock philosophical disagreements (MWI, physicalism) remain bedrock per stability notes.
+- **Output**: [[reviews/deep-review-2026-04-27-control-theoretic-will]]
+
 ---
 
 ## 2026-04-27 05:14 UTC - refine-draft
