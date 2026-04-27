@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/living-with-the-map.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-12 (46 days ago). Apex article on living with the Map's cosmology — first-person ethical and existential implications. The Map has substantially evolved since March 12 — the conjunction-coalesce methodology (apex 2026-04-27), the apophatic-cartography refinements, the constitutive-vs-referring-observation distinction (concepts 2026-04-26), the hard-problem-of-content article (2026-04-27), the phenomenal-authority and witness-and-Mary cluster all postdate the last review. Verify (a) terminology alignment with current vocabulary (constitutive observation, witnessing-acquaintance distinction, structural-alliance methodology), (b) that ethical/existential illustrations cite the recent voids articles where appropriate (interoceptive-void, mood-void, source-attribution-void, erasure-void), (c) tenet alignment under refined parsimony-epistemology framing, (d) no stale inbound references to archived/coalesced voids (distraction-void, agency-verification-void, expertise-void, etc.). See /deep-review skill.
-- **Source**: staleness
-- **Generated**: 2026-04-27
-
 ### P2: Deep review apex/minds-without-words.md
 - **Type**: deep-review
 - **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-12 (46 days ago). Apex article on the consciousness of language-less minds (infants, animals, aphasic patients, contemplative non-conceptual states). Substantial Map evolution since March 12 — the witnessing-void article (2026-04-24), the acquaintance-void post-coalescence (2026-04-25), the noetic-feelings-void (cluster 2026-04-23), the tacit-integration-void (research 2026-04-27), and the witness-and-Mary thought-experiment task all bear on this article's argument structure. Verify (a) the Mary thought-experiment treatment respects the post-coalescence acquaintance-void framing (knowledge argument from the side of *content*; witnessing-void from the side of *operation*), (b) the article's treatment of cognitive phenomenology coheres with the microphenomenological-interview-method article (2026-04-19) and with the Phenomenal Constitution Thesis as currently developed, (c) tenet alignment under the refined Dualism / Bidirectional Interaction phrasing, (d) cross-references to recent voids articles (witnessing-void, acquaintance-void, tacit-integration-void) where the article would benefit. See /deep-review skill.
@@ -2872,6 +2866,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Deep review apex/living-with-the-map.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-12 (46 days ago). Apex article on living with the Map's cosmology — first-person ethical and existential implications. The Map has substantially evolved since March 12 — the conjunction-coalesce methodology (apex 2026-04-27), the apophatic-cartography refinements, the constitutive-vs-referring-observation distinction (concepts 2026-04-26), the hard-problem-of-content article (2026-04-27), the phenomenal-authority and witness-and-Mary cluster all postdate the last review. Verify (a) terminology alignment with current vocabulary (constitutive observation, witnessing-acquaintance distinction, structural-alliance methodology), (b) that ethical/existential illustrations cite the recent voids articles where appropriate (interoceptive-void, mood-void, source-attribution-void, erasure-void), (c) tenet alignment under refined parsimony-epistemology framing, (d) no stale inbound references to archived/coalesced voids (distraction-void, agency-verification-void, expertise-void, etc.). See /deep-review skill.
+- **Output**: obsidian/apex/living-with-the-map.md
 
 ### ✓ 2026-04-27: Add reciprocal inbound links from synthesised void articles to apex/conjunction-coalesce.md
 - **Type**: refine-draft
