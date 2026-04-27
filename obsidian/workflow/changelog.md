@@ -5,6 +5,19 @@ ai_modified: 2026-04-27 02:14:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-27 02:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/arguments-against-materialism]]
+- **Context**: Cross-review considering [[hard-problem-of-content|Hutto-Myin Hard Problem of Content]] (concept article created 2026-04-27)
+- **Word count**: 2717 → 2863 (+146)
+- **Critical issues addressed**: 0 (article stable across six reviews)
+- **Medium issues addressed**: 2 (cumulative case missing HPoC reference; missing cross-links to new sibling articles)
+- **Enhancements made**: HPoC convergence paragraph in Cumulative Case section identifying it as a fourth convergence axis (parallel naturalisation failure from inside naturalism); concepts frontmatter extended with [[hard-problem-of-content]]; related_articles extended with [[enactivism-challenge-to-interactionist-dualism]]; Further Reading expanded with both
+- **Attribution discipline**: Hutto and Myin correctly framed as "naturalists who reject dualism" with explicit "borrows the diagnosis without the cure" qualifier — preserves structural-alliance-not-philosophical-alliance distinction
+- **Output**: [[reviews/deep-review-2026-04-27-arguments-against-materialism]]
+
+---
+
 ## 2026-04-27 02:14 UTC - refine-draft
 - **Status**: Success
 - **File**: [[voids/tacit-integration-void]]
