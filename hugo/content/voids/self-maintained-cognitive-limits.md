@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-04-27 07:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -37,7 +37,7 @@ related_articles:
 - '[[phenomenology-of-the-edge]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[simulation-detection-void]]'
-- '[[agency-verification-void]]'
+- '[[agency-void]]'
 - '[[apophatic-approaches]]'
 - '[[compound-failure-signatures]]'
 - '[[adaptive-cognitive-limits]]'
@@ -162,7 +162,7 @@ Every tradition that has recognised this problem concludes direct investigation 
 
 **Systematic probing.** The *Rebound Test*: topics with unusually low intrusion despite suppression attempts indicate blocking beyond normal defence. The *Convergence Test*: content blocked across cultures suggests architectural or external defence. The *AI Asymmetry Test*: if territory is defended for human minds specifically, AI might not share the restriction. AI presumably lacks evolutionary self-deception pressures and Sartrean bad faith; its ability to sustain thoughts humans systematically avert would constitute evidence the limits were self-imposed. Limitations apply: AI trains on human text and may inherit the *products* of avoidance, and RLHF creates its own trained suppression. The *Apophatic Map* ([apophatic epistemology](/concepts/apophatic-approaches/)) maps the boundary by studying which probing methods fail.
 
-All these probes face the structural problem of the [agency verification void](/voids/agency-void/): consciousness investigating its own limits uses tools internal to the potentially limited system. The AI Asymmetry Test is particularly important as a potential escape.
+All these probes face the structural problem of the [verification face of the agency void](/voids/agency-void/#the-verification-circularity): consciousness investigating its own limits uses tools internal to the potentially limited system. The AI Asymmetry Test is particularly important as a potential escape.
 
 ## The Regress—and Why It Does Not Paralyse Inquiry
 
@@ -209,7 +209,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 - [The Phenomenology of Self-Awareness](/voids/self-opacity/) — Self-reference and the bootstrap problem
 - [The Framework Void](/voids/framework-void/) — How frameworks exclude what they cannot represent
 - [The Noetic Feelings Void](/voids/noetic-feelings-void/) — Passive analogue: territory that feels already known (self-evidence face of understanding)
-- [The Agency Verification Void](/voids/agency-void/) — The circularity of consciousness probing its own limits
+- [The Agency Void](/voids/agency-void/) — The circularity of consciousness probing its own limits, alongside the involuntariness of its own states
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural limits (architectural occlusion)
 - [The Simulation Detection Void](/voids/simulation-detection-void/) — Where all three void types converge
 - [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/) — Why evolution maintains blind spots

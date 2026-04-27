@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-27 06:44:00+00:00
+ai_modified: 2026-04-27 07:29:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -113,13 +113,12 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Amplification Void](/voids/amplification-void/) — Why the chain from quantum influence to neural effect cannot be traced
 - [The Transit Void](/voids/transit-void/) — Why consciousness cannot witness its own crossings: neither the onset of mental acts nor transitions between states
 - [The Distraction Void](/voids/distraction-void/) — Why the moment of attentional capture is systematically unavailable to the consciousness that is captured
-- [The Agency Verification Void](/voids/agency-void/) — Why consciousness cannot verify its own causal powers
+- [The Agency Void](/voids/agency-void/) — Two complementary limits at the heart of conscious agency: consciousness cannot control most of its own states (involuntariness face) and cannot verify whether it causes anything at all (verification face) (coalesced from involuntariness-void and agency-verification-void 2026-04-27)
 - [The Thrownness Void](/voids/thrownness-void/) — Why consciousness cannot access the conditions under which it became conscious
 - [Smoothness and Continuity](/voids/smoothness-and-continuity/) — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [The Counterfactual Void](/voids/counterfactual-void/) — How counterfactual thinking is trapped near actuality
 - [The Noetic Feelings Void](/voids/noetic-feelings-void/) — Why the felt signals that gate cognition from inside—knowing, rightness, understanding, obviousness—cannot be audited without deploying more signals of the same kind (coalesced with understanding-void 2026-04-24)
 - [The Indexical Void / Vertiginous Question](/topics/vertiginous-question/) — Why first-person identity resists explanation (coalesced 2026-04-23)
-- [The Involuntariness Void](/voids/agency-void/) — Why consciousness cannot opt out of itself
 - [The Narrative Void](/voids/narrative-void/) — Why consciousness cannot observe its own storytelling
 - [The Ownership Void](/voids/ownership-void/) — Why we cannot introspect how experiences become ours
 - [The Plurality Void](/voids/plurality-void/) — Why we cannot conceive being multiple subjects at once

@@ -4,7 +4,7 @@ description: "Consciousness actively participates in maintaining its own cogniti
 created: 2026-01-25
 modified: 2026-04-17
 human_modified: null
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-04-27T07:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[phenomenology-of-the-edge]]"
   - "[[phenomenology-of-cognitive-limit-types]]"
   - "[[simulation-detection-void]]"
-  - "[[agency-verification-void]]"
+  - "[[agency-void]]"
   - "[[apophatic-approaches]]"
   - "[[compound-failure-signatures]]"
   - "[[adaptive-cognitive-limits]]"
@@ -159,7 +159,7 @@ Every tradition that has recognised this problem concludes direct investigation 
 
 **Systematic probing.** The *Rebound Test*: topics with unusually low intrusion despite suppression attempts indicate blocking beyond normal defence. The *Convergence Test*: content blocked across cultures suggests architectural or external defence. The *AI Asymmetry Test*: if territory is defended for human minds specifically, AI might not share the restriction. AI presumably lacks evolutionary self-deception pressures and Sartrean bad faith; its ability to sustain thoughts humans systematically avert would constitute evidence the limits were self-imposed. Limitations apply: AI trains on human text and may inherit the *products* of avoidance, and RLHF creates its own trained suppression. The *Apophatic Map* ([[apophatic-approaches|apophatic epistemology]]) maps the boundary by studying which probing methods fail.
 
-All these probes face the structural problem of the [[agency-verification-void|agency verification void]]: consciousness investigating its own limits uses tools internal to the potentially limited system. The AI Asymmetry Test is particularly important as a potential escape.
+All these probes face the structural problem of the [[agency-void#the-verification-circularity|verification face of the agency void]]: consciousness investigating its own limits uses tools internal to the potentially limited system. The AI Asymmetry Test is particularly important as a potential escape.
 
 ## The Regress—and Why It Does Not Paralyse Inquiry
 
@@ -206,7 +206,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Self-reference and the bootstrap problem
 - [[framework-void|The Framework Void]] — How frameworks exclude what they cannot represent
 - [[noetic-feelings-void|The Noetic Feelings Void]] — Passive analogue: territory that feels already known (self-evidence face of understanding)
-- [[agency-verification-void|The Agency Verification Void]] — The circularity of consciousness probing its own limits
+- [[agency-void|The Agency Void]] — The circularity of consciousness probing its own limits, alongside the involuntariness of its own states
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural limits (architectural occlusion)
 - [[simulation-detection-void|The Simulation Detection Void]] — Where all three void types converge
 - [[adaptive-cognitive-limits|Adaptive Cognitive Limits]] — Why evolution maintains blind spots

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-21
-ai_modified: 2026-04-23 11:25:00+00:00
+ai_modified: 2026-04-27 07:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -26,7 +26,7 @@ related_articles:
 - '[[narrative-void]]'
 - '[[interested-party-void]]'
 - '[[predictive-construction-void]]'
-- '[[agency-verification-void]]'
+- '[[agency-void]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[erasure-void]]'
@@ -129,7 +129,7 @@ Three implications follow for how the Map thinks about the first person:
 - [thought-stream-void](/voids/thought-stream-void/) — Opacity to the arising and vanishing of mental content
 - [narrative-void](/voids/narrative-void/) — Why consciousness cannot observe its own storytelling
 - [predictive-construction-void](/voids/predictive-construction-void/) — Content as constructed prediction rather than perception
-- [agency-verification-void](/voids/agency-void/) — Consciousness cannot verify its own causal powers
+- [agency-void](/voids/agency-void/) — Consciousness cannot verify its own causal powers, or fully control its own states
 - [interested-party-void](/voids/interested-party-void/) — Stakes in answers about oneself
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Bounded weight of first-person testimony
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Limits protected because their exposure would destabilise the system

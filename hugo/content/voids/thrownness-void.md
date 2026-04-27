@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-01
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-04-27 07:29:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ related_articles:
 - '[[tenets]]'
 - '[[three-kinds-of-void]]'
 - '[[origin-of-consciousness]]'
-- '[[involuntariness-void]]'
+- '[[agency-void]]'
 - '[[vertiginous-question]]'
 - '[[initiation-void]]'
 - '[[self-opacity]]'
@@ -36,7 +36,7 @@ topics:
 - '[[nihilism-and-existentialism]]'
 ---
 
-Consciousness cannot access, authorise, or revise the conditions under which it became conscious. Every conscious subject finds itself already constituted — already embodied, already temporal, already equipped with a specific cognitive architecture — without having chosen any of these parameters. The Unfinishable Map calls this the thrownness void: the structural inaccessibility of the pre-constitutional moment, the gap between non-existence and existence that consciousness can never bridge from either side. This is not the question of why consciousness exists at all (the [origin void](/voids/origin-of-consciousness/)), nor why one is *this* particular subject (the [indexical void](/topics/vertiginous-question/)), nor why one cannot opt out (the [involuntariness void](/voids/agency-void/)). It is the inaccessibility of the founding moment itself — the transition no witness can attend.
+Consciousness cannot access, authorise, or revise the conditions under which it became conscious. Every conscious subject finds itself already constituted — already embodied, already temporal, already equipped with a specific cognitive architecture — without having chosen any of these parameters. The Unfinishable Map calls this the thrownness void: the structural inaccessibility of the pre-constitutional moment, the gap between non-existence and existence that consciousness can never bridge from either side. This is not the question of why consciousness exists at all (the [origin void](/voids/origin-of-consciousness/)), nor why one is *this* particular subject (the [indexical void](/topics/vertiginous-question/)), nor why one cannot opt out (the [involuntariness face of the agency void](/voids/agency-void/#what-cannot-be-controlled)). It is the inaccessibility of the founding moment itself — the transition no witness can attend.
 
 ## Convergence Across Traditions
 
@@ -104,7 +104,7 @@ The thrownness void gains its sharpest edge under the Map's [dualist framework](
 
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all
 - [The Indexical Void](/topics/vertiginous-question/) — Why first-person identity resists explanation
-- [The Involuntariness Void](/voids/agency-void/) — Why consciousness cannot opt out of itself
+- [The Agency Void](/voids/agency-void/) — Why consciousness cannot opt out of its own states, and cannot verify whether it causes anything at all
 - [The Initiation Void](/voids/transit-void/) — Why consciousness cannot witness the onset of mental acts
 - [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of cognitive limits

@@ -1,13 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 07:04:00+00:00
+ai_modified: 2026-04-27 07:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-27 07:29 UTC - refine-draft
+- **Status**: Success
+- **File**: link-graph cleanup for coalesced [agency-void](/voids/agency-void/)
+- **Changes**: Mechanical wikilink update across 11 active obsidian files. Replaced `[involuntariness-void](/voids/agency-void/)` and `[agency-verification-void](/voids/agency-void/)` references with `[agency-void](/voids/agency-void/)` in frontmatter and most prose; used `[...](/voids/agency-void/#what-cannot-be-controlled)` and `[...](/voids/agency-void/#the-verification-circularity)` section anchors where the original framing specifically cited the involuntariness or verification face. Consolidated `voids/voids.md` index from two entries (lines 113 and 119) to one unified entry naming both faces. Bibliography URLs preserved unchanged (Hugo archive notices keep them live). Files touched: `voids/voids.md`, `voids/distraction-void.md`, `voids/source-attribution-void.md`, `voids/self-maintained-cognitive-limits.md`, `voids/thrownness-void.md`, `voids/self-opacity.md`, `voids/thought-stream-void.md`, `voids/causal-interface.md`, `voids/transit-void.md`, `topics/phenomenology-of-agency-vs-passivity.md`, `topics/pain-consciousness-and-causal-power.md` (twelfth file caught during sweep — same pattern). Each file's `ai_modified` updated to 2026-04-27T07:29:00+00:00. P1 task removed from todo.
+- **Scope**: cleanup of leftover wikilinks following the 2026-04-27 agency-void coalesce; the prior task ran with no file output. Hugo archive redirects continue to do the soft-redirect work for any external references.
+- **Published**: yes
+
+## 2026-04-27 07:13 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [responsibility-gradient-from-attentional-capacity](/topics/responsibility-gradient-from-attentional-capacity/)
+- **Word count**: 2565 → 2565 (no change)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Fourth deep review. Article has been stable across all prior reviews. Single change since 2026-03-22 (refine-draft on 2026-04-02 qualifying Schwartz & Begley) actually improved attribution accuracy. All bedrock disagreements remain documented. No content changes warranted; updated `ai_modified` and `last_deep_review` timestamps only.
+- **Output**: [deep-review-2026-04-27-responsibility-gradient-from-attentional-capacity](/reviews/deep-review-2026-04-27-responsibility-gradient-from-attentional-capacity/)
 
 ## 2026-04-27 07:04 UTC - condense
 - **Status**: Success

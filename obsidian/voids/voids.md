@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-04-24
 human_modified: 2026-01-08
-ai_modified: 2026-04-27T06:44:00+00:00
+ai_modified: 2026-04-27T07:29:00+00:00
 draft: false
 last_deep_review: 2026-04-21T01:38:00+00:00
 topics: []
@@ -110,13 +110,12 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [[amplification-void|The Amplification Void]] — Why the chain from quantum influence to neural effect cannot be traced
 - [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings: neither the onset of mental acts nor transitions between states
 - [[distraction-void|The Distraction Void]] — Why the moment of attentional capture is systematically unavailable to the consciousness that is captured
-- [[agency-verification-void|The Agency Verification Void]] — Why consciousness cannot verify its own causal powers
+- [[agency-void|The Agency Void]] — Two complementary limits at the heart of conscious agency: consciousness cannot control most of its own states (involuntariness face) and cannot verify whether it causes anything at all (verification face) (coalesced from involuntariness-void and agency-verification-void 2026-04-27)
 - [[thrownness-void|The Thrownness Void]] — Why consciousness cannot access the conditions under which it became conscious
 - [[smoothness-and-continuity|Smoothness and Continuity]] — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [[counterfactual-void|The Counterfactual Void]] — How counterfactual thinking is trapped near actuality
 - [[noetic-feelings-void|The Noetic Feelings Void]] — Why the felt signals that gate cognition from inside—knowing, rightness, understanding, obviousness—cannot be audited without deploying more signals of the same kind (coalesced with understanding-void 2026-04-24)
 - [[vertiginous-question|The Indexical Void / Vertiginous Question]] — Why first-person identity resists explanation (coalesced 2026-04-23)
-- [[involuntariness-void|The Involuntariness Void]] — Why consciousness cannot opt out of itself
 - [[narrative-void|The Narrative Void]] — Why consciousness cannot observe its own storytelling
 - [[ownership-void|The Ownership Void]] — Why we cannot introspect how experiences become ours
 - [[plurality-void|The Plurality Void]] — Why we cannot conceive being multiple subjects at once

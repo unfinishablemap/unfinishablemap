@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-23 18:53:00+00:00
+ai_modified: 2026-04-27 07:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -24,10 +24,9 @@ related_articles:
 - '[[tenets]]'
 - '[[attention-and-consciousness]]'
 - '[[transit-void]]'
-- '[[involuntariness-void]]'
+- '[[agency-void]]'
 - '[[thought-stream-void]]'
 - '[[recognition-void]]'
-- '[[agency-verification-void]]'
 - '[[amplification-void]]'
 - '[[acquaintance-void]]'
 - '[[self-opacity]]'
@@ -82,7 +81,7 @@ The strongest converging pair, then, is Smallwood and Schooler's probe-caught pa
 
 The Distraction Void is primarily *occluded*: something is clearly happening, it produces observable neural and behavioural signatures, and it has introspective anchors on either side of the transit—only the transit itself is closed. It also has unexplorable structure, since any attempt to witness the capture either begins before capture (and cannot trigger it) or occurs after (in which case the witnessing is reconstruction). And it has unexplored aspects—the fine phenomenology of near-catches, the cross-modal variation of capture-and-return, the pathological variants in attention disorders are all sparsely mapped. See [three-kinds-of-void](/voids/three-kinds-of-void/) for the full taxonomy.
 
-The void is also a probe. The Distraction Void is the attentional analogue of the [transit-void](/voids/transit-void/) and close kin to the [recognition-void](/voids/recognition-void/) and the [agency-verification-void](/voids/agency-void/). All four share a structure in which consciousness has reliable before-and-after access and no in-flight access to its own transitions. The Distraction Void is the version with the best empirical traction, because ERP methods and probe-caught paradigms give third-person timing for events that remain first-person dark.
+The void is also a probe. The Distraction Void is the attentional analogue of the [transit-void](/voids/transit-void/) and close kin to the [recognition-void](/voids/recognition-void/) and the [verification face of the agency void](/voids/agency-void/#the-verification-circularity). All four share a structure in which consciousness has reliable before-and-after access and no in-flight access to its own transitions. The Distraction Void is the version with the best empirical traction, because ERP methods and probe-caught paradigms give third-person timing for events that remain first-person dark.
 
 ## Relation to Site Perspective
 
@@ -92,7 +91,7 @@ The Map reads this two ways, without forcing a choice.
 
 The *architectural* reading is that self-observation has a temporal grain larger than the events it would need to observe. Consciousness cannot be both the attending-now and the witness-of-becoming-attending; these are compressed into a single act that leaves only before-and-after traces. Under this reading, the void is a structural feature of any system whose monitoring and acting share a substrate.
 
-The *occlusion* reading is stronger and more distinctive to the Map. If consciousness interfaces with the physical at points of quantum indeterminacy (see [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)), the Distraction Void is precisely where that interface should be most exposed to introspection. It is where one would expect to catch the directing hand at work. Instead the directing hand is systematically unavailable. Under this reading, the void joins the [agency-verification-void](/voids/agency-void/) and [amplification-void](/voids/amplification-void/) as a family: wherever the Map's dualist mechanism would be most detectable in real time, introspection goes dark. The Map entertains the possibility that this is a property of the interface itself—the consciousness-physics coupling being unavailable to the consciousness using it.
+The *occlusion* reading is stronger and more distinctive to the Map. If consciousness interfaces with the physical at points of quantum indeterminacy (see [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)), the Distraction Void is precisely where that interface should be most exposed to introspection. It is where one would expect to catch the directing hand at work. Instead the directing hand is systematically unavailable. Under this reading, the void joins the [agency void](/voids/agency-void/#the-verification-circularity) and [amplification-void](/voids/amplification-void/) as a family: wherever the Map's dualist mechanism would be most detectable in real time, introspection goes dark. The Map entertains the possibility that this is a property of the interface itself—the consciousness-physics coupling being unavailable to the consciousness using it.
 
 The occlusion reading is admittedly asymmetric against the evidence: it is compatible both with introspective access to the transit and with its absence. If trained contemplatives reliably reported pre-P3a access, the Map would read that as a hard-won widening of the interface; the actual absence it reads as the interface being normally closed. That shape is unfalsifiable from within the Map's own framework, and the Map names this rather than concealing it. Specific observations would, however, disfavour the reading: a trained-contemplative cohort reliably reporting the transit at durations shorter than the P3a window; an ERP-phenomenology paradigm in which subject reports track the transit itself rather than its aftermath, at a frequency that cannot be explained by post-hoc confabulation; an AI system with externalised attentional logs producing first-person-analogous transit reports under conditions parallel to capture. None has yet been demonstrated; any of them would weaken the case that the interface systematically hides its operation. The occlusion reading is therefore offered as an interpretive stance rather than an empirically-supported claim—invoked under [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits), which licenses entertaining non-parsimonious accounts when parsimony cannot be checked against the ground truth.
 
@@ -111,8 +110,7 @@ For now, the Distraction Void remains a place where one direct empirical finding
 - [attention-and-consciousness](/voids/attention-and-consciousness/)
 - [transit-void](/voids/transit-void/)
 - [recognition-void](/voids/recognition-void/)
-- [agency-verification-void](/voids/agency-void/)
-- [involuntariness-void](/voids/agency-void/)
+- [agency-void](/voids/agency-void/)
 - [thought-stream-void](/voids/thought-stream-void/)
 - [self-opacity](/voids/self-opacity/)
 - [phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)

@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-04-21T07:45:00+00:00
+ai_modified: 2026-04-27T07:29:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -36,7 +36,7 @@ related_articles:
   - "[[constitutive-exclusion]]"
   - "[[causal-interface]]"
   - "[[imagination-and-creativity-void]]"
-  - "[[involuntariness-void]]"
+  - "[[agency-void]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[recognition-void]]"
   - "[[recursion-void]]"

@@ -4,7 +4,7 @@ description: "Human+AI inquiry into why consciousness cannot trace the origin of
 created: 2026-04-21
 modified: 2026-04-21
 human_modified:
-ai_modified: 2026-04-23T11:25:00+00:00
+ai_modified: 2026-04-27T07:29:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[narrative-void]]"
   - "[[interested-party-void]]"
   - "[[predictive-construction-void]]"
-  - "[[agency-verification-void]]"
+  - "[[agency-void]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[erasure-void]]"
@@ -126,7 +126,7 @@ Three implications follow for how the Map thinks about the first person:
 - [[thought-stream-void]] — Opacity to the arising and vanishing of mental content
 - [[narrative-void]] — Why consciousness cannot observe its own storytelling
 - [[predictive-construction-void]] — Content as constructed prediction rather than perception
-- [[agency-verification-void]] — Consciousness cannot verify its own causal powers
+- [[agency-void]] — Consciousness cannot verify its own causal powers, or fully control its own states
 - [[interested-party-void]] — Stakes in answers about oneself
 - [[phenomenal-authority-and-first-person-evidence]] — Bounded weight of first-person testimony
 - [[self-maintained-cognitive-limits]] — Limits protected because their exposure would destabilise the system

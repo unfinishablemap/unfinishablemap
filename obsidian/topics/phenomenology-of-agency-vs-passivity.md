@@ -4,7 +4,7 @@ description: "The felt contrast between doing and undergoing reveals a fundament
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-04-16T10:58:00+00:00
+ai_modified: 2026-04-27T07:29:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -33,7 +33,7 @@ related_articles:
   - "[[choking-phenomenon-mental-causation]]"
   - "[[phenomenology-of-consciousness-doing-work]]"
   - "[[ownership-void]]"
-  - "[[agency-verification-void]]"
+  - "[[agency-void]]"
   - "[[interested-party-void]]"
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[clinical-phenomenology-and-altered-experience]]"
@@ -117,7 +117,7 @@ The epiphenomenalist can respond that the *appearance* of agency is itself a neu
 
 The implicit evidence is equally difficult to dismiss. [[volitional-control#Intentional Binding: An Implicit Measure|Intentional binding]] — the temporal compression between a voluntary action and its outcome discovered by Haggard, Clark, and Kalogeras (2002) — provides a non-introspective measure of agency. Voluntary actions perceptually draw their effects closer in time; involuntary movements do not. This binding effect is reduced when outcomes are unpredictable and altered in schizophrenic patients, tracking the same comparator architecture that the clinical dissociations reveal. An epiphenomenal consciousness would have no reason to distort temporal perception selectively for voluntary actions.
 
-A structural limitation must be acknowledged: the [[agency-verification-void|agency verification void]] shows that every tool consciousness possesses for investigating its own efficacy is internal to the system under investigation. The calibration argument and the binding evidence are powerful but cannot escape this circularity—they are gathered *by* the faculty whose causal status is in question. The convergence of multiple independent lines of evidence (introspective, implicit, neuroplastic) makes coincidence progressively less plausible, but the verification gap cannot be closed from within.
+A structural limitation must be acknowledged: the [[agency-void#the-verification-circularity|verification face of the agency void]] shows that every tool consciousness possesses for investigating its own efficacy is internal to the system under investigation. The calibration argument and the binding evidence are powerful but cannot escape this circularity—they are gathered *by* the faculty whose causal status is in question. The convergence of multiple independent lines of evidence (introspective, implicit, neuroplastic) makes coincidence progressively less plausible, but the verification gap cannot be closed from within.
 
 ### Against Illusionism
 
@@ -166,7 +166,7 @@ Each disorder strips away a component normally bundled with agency, suggesting t
 - [[authentic-vs-inauthentic-choice]] — Phenomenological layers of ownership in choice
 - [[self-opacity|volitional opacity]] — Why the mechanism connecting will to action is invisible
 - [[ownership-void|The Ownership Void]] — Why the ownership relation hides from introspection
-- [[agency-verification-void|The Agency Verification Void]] — Why consciousness cannot verify its own causal powers
+- [[agency-void|The Agency Void]] — Why consciousness cannot verify its own causal powers, and cannot fully control its own states
 - [[interested-party-void|The Interested Party Void]] — Motivational corruption in consciousness's self-investigation
 - [[topics/free-will]] — The broader philosophical context
 - [[consciousness-and-agency]] — Apex synthesis of agency across the Map
