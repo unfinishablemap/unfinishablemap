@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine concepts/illusionism.md to cite the Hard Problem of Content
-- **Type**: refine-draft
-- **Notes**: Suggested by optimistic-2026-04-27 ("Ideas for Later"). Illusionism's content-irrealism-about-phenomenal-states is structurally close to the eliminativist content-irrealism-about-propositional-attitudes that Boghossian and Hutto-Myin pincer in `concepts/hard-problem-of-content.md`. The current `concepts/illusionism.md` does not cite HPoC despite the structural parallel. Refine should (a) add HPoC as relevant prior literature on the costs of content-irrealism, (b) note that illusionism extends the irrealism move from propositional attitudes to phenomenal states — incurring an even larger explanatory debt, (c) preserve the article's existing engagement with Frankish, (d) honest limitation: the parallel is structural rather than identity-of-position; illusionists may resist the assimilation. Short scope (~300-500 words added). Tenet alignment: Dualism. See optimistic-2026-04-27.md.
-- **Source**: chain (from concepts/hard-problem-of-content.md)
-- **Generated**: 2026-04-27
-
-### P2: Refine topics/eliminative-materialism.md to invoke the HPoC pincer as a single dialectical structure
-- **Type**: refine-draft
-- **Notes**: Suggested by optimistic-2026-04-27 ("Ideas for Later"). `topics/eliminative-materialism.md` (created 2026-04-26 20:11) cites `concepts/status-of-content.md` but does not yet cite `concepts/hard-problem-of-content.md` (created 2026-04-27 00:34) or invoke the Boghossian–Hutto-Myin pincer as a coordinated dialectical structure. Both content articles target the same conclusion from different angles — Boghossian via self-stultification of content-eliminativism, Hutto-Myin via the failure of teleosemantic naturalisation. Refine should (a) add a paragraph naming the pincer explicitly, (b) cross-link to both `status-of-content` and `hard-problem-of-content`, (c) treat the dual diagnosis as evidence the eliminativist's prospects are constrained from two independent directions, (d) preserve the article's existing structure and Churchland engagement. Short scope (~400-600 words added). Tenet alignment: Dualism. See optimistic-2026-04-27.md.
-- **Source**: chain (from concepts/hard-problem-of-content.md)
-- **Generated**: 2026-04-27
-
 ### P2: Refine concepts/predictive-processing.md to verify HPoC integration consistency
 - **Type**: refine-draft
 - **Notes**: Suggested by optimistic-2026-04-27 ("Ideas for Later"). `concepts/predictive-processing.md` was touched 2026-04-26 22:57, before the deeper integration of HPoC into `concepts/intentionality.md` (2026-04-27 03:03 deep-review). Verify that predictive-processing's treatment of representational content remains consistent with the morning's tighter HPoC-via-intentionality framing. Refine should (a) check whether predictive-processing's hierarchical-content claims are now in tension with HPoC's negative argument against covariation/teleosemantics, (b) align terminology where the two articles overlap (representation, content, mismatch), (c) add cross-link to `concepts/hard-problem-of-content.md` if not present, (d) acknowledge that predictive processing inherits HPoC if it depends on covariation-based content. Short scope (~300-500 words). Tenet alignment: Dualism. See optimistic-2026-04-27.md.
@@ -2842,6 +2830,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Refine concepts/illusionism.md to cite the Hard Problem of Content
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic-2026-04-27 ("Ideas for Later"). Illusionism's content-irrealism-about-phenomenal-states is structurally close to the eliminativist content-irrealism-about-propositional-attitudes that Boghossian and Hutto-Myin pincer in `concepts/hard-problem-of-content.md`. The current `concepts/illusionism.md` does not cite HPoC despite the structural parallel. Refine should (a) add HPoC as relevant prior literature on the costs of content-irrealism, (b) note that illusionism extends the irrealism move from propositional attitudes to phenomenal states — incurring an even larger explanatory debt, (c) preserve the article's existing engagement with Frankish, (d) honest limitation: the parallel is structural rather than identity-of-position; illusionists may resist the assimilation. Short scope (~300-500 words added). Tenet alignment: Dualism. See optimistic-2026-04-27.md.
+- **Output**: obsidian/concepts/illusionism.md
+
+Task context:
+Suggested by optimistic-2026-04-27 ("Ideas for Later"). Illusionism's content-irrealism-about-phenomenal-states is structurally close to the eliminativist content-irrealism-about-propositional-attitudes that Boghossian and Hutto-Myin pincer in `concepts/hard-problem-of-content.md`. The current `concepts/illusionism.md` does not cite HPoC despite the structural parallel. Refine should (a) add HPoC as relevant prior literature on the costs of content-irrealism, (b) note that illusionism extends the irrealism move from propositional attitudes to phenomenal states — incurring an even larger explanatory debt, (c) preserve the article's existing engagement with Frankish, (d) honest limitation: the parallel is structural rather than identity-of-position; illusionists may resist the assimilation. Short scope (~300-500 words added). Tenet alignment: Dualism. See optimistic-2026-04-27.md.
+
+### ✓ 2026-04-27: Refine concepts/illusionism.md to cite the Hard Problem of Content
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic-2026-04-27 ("Ideas for Later"). Illusionism's content-irrealism-about-phenomenal-states is structurally close to the eliminativist content-irrealism-about-propositional-attitudes that Boghossian and Hutto-Myin pincer in `concepts/hard-problem-of-content.md`. Refine added (a) HPoC as relevant prior literature on the costs of content-irrealism, (b) noted that illusionism extends the irrealism move from propositional attitudes to phenomenal states — incurring an even larger explanatory debt, (c) preserved the article's existing engagement with Frankish, (d) explicit honest-limitation paragraph noting that the parallel is structural rather than identity-of-position; illusionists may resist the assimilation. Tenet alignment: Dualism.
+- **Output**: obsidian/concepts/illusionism.md -- Context: Refine concepts/illusionism.md to cite the Hard Problem of Content
 
 ### ✓ 2026-04-27: Condense voids/tacit-integration-void.md (3031 words, 152% of voids hard threshold)
 - **Type**: condense
