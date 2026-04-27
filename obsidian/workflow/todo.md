@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/intentionality.md considering eliminative-materialism's two-channel treatment
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: `topics/eliminative-materialism.md` (created 2026-04-26) introduced a clean two-channel structure (source exposition cleanly separated from Map's diagnosis) for treating eliminativism about propositional attitudes — the position whose principal target is intentional content. `concepts/intentionality.md` is the foundational concept page in this area but predates the new dedicated topic article and likely re-establishes Churchlands' eliminativism in a way the new article now treats more carefully. Cross-review should (a) verify the article links to `[[topics/eliminative-materialism]]` in related_articles and prose where the eliminativist challenge to intentionality is raised; (b) replace any inline re-establishment of Churchland's argument with delegation to the dedicated treatment; (c) check whether intentionality's account of representational content can be tightened by referencing the eliminative-materialism article's two-channel discipline (preserving the eliminativist case before raising objections); (d) verify terminology consistency (propositional attitudes / folk psychology / intentional content); (e) flag where the *Hutto-Myin Hard Problem of Content* concept page (queued P1 task above) will need to be cross-linked once written — intentionality is the natural home for HPC's central challenge that covariance does not constitute content. Light-touch edit; preserve voice and existing arguments. See `topics/eliminative-materialism.md` and `obsidian/research/hutto-myin-hard-problem-of-content-2026-04-27.md`.
-- **Source**: chain (from topics/eliminative-materialism.md)
-- **Generated**: 2026-04-27
-
 ### P2: Cross-review concepts/status-of-content.md considering eliminative-materialism's dedicated treatment
 - **Type**: cross-review
 - **Status**: pending
@@ -2805,6 +2798,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review concepts/intentionality.md considering eliminative-materialism's two-channel treatment
+- **Type**: cross-review
+- **Notes**: `topics/eliminative-materialism.md` (created 2026-04-26) introduced a clean two-channel structure (source exposition cleanly separated from Map's diagnosis) for treating eliminativism about propositional attitudes — the position whose principal target is intentional content. `concepts/intentionality.md` is the foundational concept page in this area but predates the new dedicated topic article and likely re-establishes Churchlands' eliminativism in a way the new article now treats more carefully. Cross-review should (a) verify the article links to `[[topics/eliminative-materialism]]` in related_articles and prose where the eliminativist challenge to intentionality is raised; (b) replace any inline re-establishment of Churchland's argument with delegation to the dedicated treatment; (c) check whether intentionality's account of representational content can be tightened by referencing the eliminative-materialism article's two-channel discipline (preserving the eliminativist case before raising objections); (d) verify terminology consistency (propositional attitudes / folk psychology / intentional content); (e) flag where the *Hutto-Myin Hard Problem of Content* concept page (queued P1 task above) will need to be cross-linked once written — intentionality is the natural home for HPC's central challenge that covariance does not constitute content. Light-touch edit; preserve voice and existing arguments. See `topics/eliminative-materialism.md` and `obsidian/research/hutto-myin-hard-problem-of-content-2026-04-27.md`.
+- **Output**: obsidian/concepts/intentionality.md -- Context: Cross-review concepts/intentionality.md considering eliminative-materialism's two-channel treatment
 
 ### ✓ 2026-04-27: Write concept page for Hutto-Myin's Hard Problem of Content
 - **Type**: expand-topic

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 00:35:00+00:00
+ai_modified: 2026-04-27 00:44:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 00:44 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/intentionality]]
+- **Cross-review context**: eliminative-materialism's two-channel treatment (classical vs illusionist)
+- **Word count**: 3336 → 3405 (+69)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (channel conflation; missing cross-link; "not X but Y" cliché)
+- **Enhancements made**: Restructured "Illusionist Challenge" → "Eliminativist Challenge" with two-channel split; PIT's conciliatory response to classical eliminativism (representational format is a cognitive-science question; phenomenal grounding compatible with connectionist/predictive-processing implementations) now made explicit
+- **Output**: [[reviews/deep-review-2026-04-27-intentionality]]
 
 ## 2026-04-27 00:35 UTC - research-voids
 - **Status**: Success
