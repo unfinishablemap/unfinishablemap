@@ -2,9 +2,9 @@
 title: "Russellian Monism Versus Bi-Aspectual Dualism"
 description: "Russellian monism and the dual-aspect tradition approach the Map's position but stop short. Bi-aspectual dualism is the stable endpoint monism cannot reach."
 created: 2026-03-22
-modified: 2026-04-17
+modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-17T04:25:00+00:00
+ai_modified: 2026-04-27T20:57:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,16 +23,17 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-ontology-of-dispositions]]"
   - "[[intrinsic-nature-void]]"
+  - "[[four-quadrant-dualism-taxonomy]]"
   - "[[russellian-monism-vs-bi-aspectual-dualism-2026-03-14]]"
   - "[[russellian-monism-bi-aspectual-dualism-supplement-2026-03-17]]"
   - "[[bi-aspectual-ontology-dual-aspect-traditions-2026-03-14]]"
   - "[[bi-aspectual-ontology-dual-aspect-traditions-2026-03-16]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-03-22
 last_curated:
-last_deep_review: 2026-03-22T20:34:00+00:00
+last_deep_review: 2026-04-27T20:57:00+00:00
 ---
 
 The Unfinishable Map and [[russellian-monism|Russellian monism]] start from the same insight: physics describes only the relational structure of matter — what things *do* — not what they *are*. Both conclude that consciousness cannot be reduced to structural description. Then they diverge. Russellian monism says consciousness *is* the intrinsic nature of physical entities, making mind and body two faces of one stuff. The Map's [[bi-aspectual-ontology|bi-aspectual dualism]] says consciousness is ontologically distinct from physical structure and causally interacts with it at quantum indeterminacies. This divergence — identity versus interaction — determines everything downstream: whether the [[combination-problem|combination problem]] arises, whether consciousness does genuine causal work, and whether many-worlds interpretation remains viable. Recent work by Pautz (2017), Cutter (2019), and Kind (2015) argues that Russellian monism's middle path between physicalism and dualism is unstable. The broader dual-aspect tradition — Spinoza, Fechner, Pauli-Jung, Bohm — repeatedly approaches the Map's position but stops short of genuine interaction between aspects. The Map's explicit interactionist dualism is the stable endpoint that the entire tradition approaches but cannot occupy while remaining monist.
@@ -77,7 +78,7 @@ Pautz (2017, 2019) demonstrates that Russellian monism requires exactly the same
 
 ### Fragmentation
 
-The Russellian research programme has splintered into incompatible variants: Strawson's panpsychism, Chalmers's panprotopsychism, Goff's cosmopsychism, Brown's (2025) "Russellian physicalism," and Hashemi's (2024) dual-aspect monism reading. These proposals share only the structuralist premise (physics describes structure, not intrinsic nature) while disagreeing on everything the premise was meant to settle. A framework compatible with physicalism, dualism, panpsychism, cosmopsychism, and many-worlds makes no distinctive predictions. This flexibility is a weakness, not a strength.
+The Russellian research programme has splintered into incompatible variants: Strawson's panpsychism, Chalmers's panprotopsychism, Goff's cosmopsychism, Brown's (2025) "Russellian physicalism," and Hashemi's (2024) dual-aspect monism reading. These proposals share only the structuralist premise (physics describes structure, not intrinsic nature) while disagreeing on everything the premise was meant to settle. A framework compatible with physicalism, dualism, panpsychism, cosmopsychism, and many-worlds makes no distinctive predictions. The Map's [[four-quadrant-dualism-taxonomy|four-quadrant taxonomy]] makes this incoherence explicit: deflationary readings sit in the min-mind/min-physical quadrant while panpsychist variants with full scientific realism occupy the opposite max-mind/max-physical quadrant — the same label spans positions on opposing axes. This flexibility is a weakness, not a strength.
 
 ## Where Russellian Monism Presses the Map
 
@@ -105,7 +106,7 @@ Russellian monism is not the only framework that shares the Map's bi-aspectual v
 
 ### Spinoza's Categorical Ban
 
-Spinoza held that Thought and Extension are "explanatorily self-contained" attributes of a single substance, with a conceptual barrier between them: "The body cannot determine the mind to thinking, and the mind cannot determine the body to motion" (Ethics 3P2). Cross-attribute causation is not merely absent but *categorically forbidden*. The Map agrees that thought and extension are genuinely distinct but rejects the conceptual barrier at quantum indeterminacies. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] requires what Spinoza's framework categorically forbids.
+Spinoza held Thought and Extension to be explanatorily self-contained attributes of a single substance, with a conceptual barrier between them: "The body cannot determine the mind to thinking, and the mind cannot determine the body to motion" (Ethics 3P2). Cross-attribute causation is not merely absent but *categorically forbidden*. The Map agrees that thought and extension are genuinely distinct but rejects the conceptual barrier at quantum indeterminacies. The [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]] requires what Spinoza's framework categorically forbids.
 
 ### Fechner's Inner and Outer
 
@@ -129,7 +130,7 @@ Causal interaction. The Map's bi-aspectual *dualism* holds that structure and ac
 
 ### The Pattern
 
-The trajectory is consistent: Spinoza forbids interaction categorically; Fechner forbids it on energy-conservation grounds; Pauli-Jung allows indirect correlations through a neutral substrate; Bohm-Pylkkänen allows active information to bridge the aspects. Each step moves closer to genuine causal interaction between mind and matter. The Map takes the final step that the monist tradition cannot — full bidirectional causation at quantum indeterminacies — because taking it requires abandoning monism. The dual-aspect insight (physics describes only structure) is correct. The monist conclusion (therefore mind and matter are one stuff) does not follow.
+The trajectory is consistent: Spinoza forbids interaction categorically; Fechner forbids it on energy-conservation grounds; Pauli-Jung allows indirect correlations through a neutral substrate; Bohm-Pylkkänen allows active information to bridge the aspects. Each step moves closer to genuine causal interaction. The Map takes the final step that the monist tradition cannot — full bidirectional causation at quantum indeterminacies — because taking it requires abandoning monism. The dual-aspect insight (physics describes only structure) is correct. The monist conclusion (therefore mind and matter are one stuff) does not follow.
 
 ## Relation to Site Perspective
 
@@ -149,6 +150,7 @@ This comparison engages all five of the Map's [[tenets]]:
 
 - [[russellian-monism]] — The concept article covering variants, objections, and what Russellian monism gets right
 - [[bi-aspectual-ontology]] — The Map's foundational ontology and how it differs from every dual-aspect tradition
+- [[four-quadrant-dualism-taxonomy]] — Two-axis classification placing Russellian variants in opposing quadrants
 - [[combination-problem]] — The central challenge for Russellian panpsychism
 - [[interactionist-dualism]] — The Map's preferred framework, with quantum interaction mechanism
 - [[consciousness-and-the-ontology-of-dispositions]] — How the powerful qualities framework offers an alternative to quiddities

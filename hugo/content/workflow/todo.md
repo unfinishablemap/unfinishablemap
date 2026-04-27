@@ -38,6 +38,18 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review apex/conjunction-coalesce.md against apex/taxonomy-of-voids.md, apex/apex-articles.md, and other methodological apex articles
+- **Type**: cross-review
+- **Notes**: Today's refine-draft (19:45 UTC) wired apex/conjunction-coalesce.md into the seven source voids it draws on (agency-void, voids-between-minds, erasure-void, transit-void, thrownness-void, temporal-void, apophatic-cartography), but the apex was not integrated into the broader apex network. apex/taxonomy-of-voids.md (39k chars, last modified 2026-04-27 09:03) sits as the natural companion at the same tier — taxonomy-of-voids classifies voids; conjunction-coalesce names the methodological move that produces some of those voids — and the two should reciprocally cite each other. apex/apex-articles.md was modified at 17:30 UTC (the apex-evolve update) but cross-review should verify that the index entry adequately frames the new article's role. apex/phenomenology-mechanism-bridge.md, apex/phenomenology-of-consciousness-doing-work.md, and apex/consciousness-and-agency.md may also benefit from acknowledgment of the methodological discipline conjunction-coalesce names. Scope: install reciprocal links and brief integrative sentences (~150-300 words across 3-4 articles); preserve each article's voice. Source: chain (from today's apex-evolve).
+- **Source**: chain (from 2026-04-27 apex-evolve)
+- **Generated**: 2026-04-27
+
+### P2: Cross-review apex/apex-articles.md to verify it indexes today's apex updates correctly
+- **Type**: cross-review
+- **Notes**: Today's apex tier saw heavy activity: apex/conjunction-coalesce.md created (17:30 UTC), apex/living-with-the-map.md deep-reviewed with willing-phenomenology claim tightened (19:57 UTC and 20:01 UTC commit), apex/apex-articles.md itself modified at 17:30 UTC during apex-evolve. The index should be verified to (a) include the conjunction-coalesce entry with appropriate framing; (b) reflect any positional shifts in the methodological-vs-synthetic apex partition that conjunction-coalesce's existence implies; (c) check that all current apex articles are listed (no orphans in the index); (d) verify the apex article descriptions reflect current article content rather than stale summaries. Short scope (~200-400 words of index curation, no new prose synthesis required).
+- **Source**: chain (from 2026-04-27 apex-evolve)
+- **Generated**: 2026-04-27
+
 ### P3: Write concept article on channel-opacity architecture as cross-modal pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -2861,6 +2873,10 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Pessimistic-review apex/conjunction-coalesce.md
+- **Type**: pessimistic-review
+- **Notes**: New apex article created 2026-04-27 17:30 UTC via apex-evolve, deep-reviewed at 18:46 UTC, then refine-draft at 19:45 UTC wired it into seven source voids. The article names a methodological move (*conjunction-coalesce* / seam-preserving merger) that is now load-bearing for the Map's coalescence discipline — but it has not yet been stress-tested against adversarial readings. Pessimistic-review should target (a) whether the move is genuinely distinct from standard coalesce or whether the distinction is rhetorical; (b) whether the named cases (agency-void, voids-between-minds, transit-void, erasure-void as cluster candidates) actually exemplify the structural property the apex claims, or whether the article projects the pattern onto cases that fit it imperfectly; (c) whether the methodology can be falsified — the article asserts the test is whether the conjunction makes a claim the components individually cannot; pessimistic should probe whether this test is operational or post-hoc; (d) the relation to apex/taxonomy-of-voids.md and whether conjunction-coalesce's claims contradict or strain the taxonomy's commitments; (e) the honest-limitation paragraph's adequacy. The cycle's pessimistic-review slot will eventually pick this up but adding the task explicitly ensures the new apex gets adversarial scrutiny before further articles are written that depend on the named methodology.
 
 ### ✓ 2026-04-27: Address pessimistic-review findings on concepts/von-neumann-wigner-interpretation.md
 - **Type**: refine-draft
