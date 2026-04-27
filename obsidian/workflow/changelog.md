@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 00:30:00+00:00
+ai_modified: 2026-04-27 00:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-27 00:35 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Tacit Integration Void
+- **Category**: Unexplorable (structural — Polanyi's from-to relation cannot be made focal in principle)
+- **Output**: [[research/voids-tacit-integration-void-2026-04-27]]
+- **Key finding**: Convergence of Polanyi's from-to structure ("destructive analysis"), Gendlin's felt sense, Husserl's horizon, and graded inattentional-blindness sensitivity supports a structural void: subsidiary cues bear meaning by *not* being focal, so any attempt to thematise the integration collapses the integrated whole. Distinct from [[attention-and-consciousness]] (Gurwitsch field organisation) and [[expertise-and-its-occlusion]] (mastery defends opacity); recommended article angle: from-to-centric framing with Gendlin/empirical material as supporting evidence.
 
 ## 2026-04-27 00:30 UTC - expand-topic
 - **Status**: Success
