@@ -1,12 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 03:43:00+00:00
+ai_modified: 2026-04-27 03:58:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 03:58 UTC - deep-review
+- **Status**: Success
+- **File**: [carrolls-regress](/concepts/carrolls-regress/)
+- **Context**: Cross-review against [tacit-integration-void](/voids/tacit-integration-void/) (created 2026-04-27)
+- **Word count**: 1555 → 1636 (+81)
+- **Critical issues addressed**: 0 (prior 2026-04-26 review's attribution fixes verified intact)
+- **Medium issues addressed**: 1 (missing cross-link to tacit-integration-void in Polanyi paragraph; structural parallel between inferentialist reading and from-to bearing relation made explicit)
+- **Enhancements made**: 1 (one-sentence statement of the shared structural shape: an operation whose work depends on its receding from explicit articulation)
+- **Output**: [deep-review-2026-04-27-carrolls-regress](/reviews/deep-review-2026-04-27-carrolls-regress/)
+
 ---
 
 ## 2026-04-27 03:43 UTC - deep-review
