@@ -4,7 +4,7 @@ description: "The consciousness-causes-collapse interpretation of quantum mechan
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-04-09T06:56:00+00:00
+ai_modified: 2026-04-27T17:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-03-21T17:40:00+00:00
+last_deep_review: 2026-04-27T17:42:00+00:00
 ---
 
 The von Neumann–Wigner interpretation holds that conscious observation causes quantum wave function collapse. Originating in John von Neumann's 1932 mathematical analysis and developed by Eugene Wigner in the 1960s, it is the first rigorous proposal placing consciousness at the centre of quantum mechanics. The Unfinishable Map draws on this interpretation's core insight—that the [[measurement-problem|measurement problem]] creates logical space for consciousness—while preferring more specific accounts of *how* consciousness participates.
