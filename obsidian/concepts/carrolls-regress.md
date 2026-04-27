@@ -2,10 +2,10 @@
 title: "Carroll's Regress"
 description: "Human+AI examination of Lewis Carroll's 1895 paradox of inference, its proof-theoretic deflation and inferentialist readings, and what each implies for the conscious mind."
 created: 2026-04-26
-modified: 2026-04-26
+modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-26T22:13:00+00:00
-last_deep_review: 2026-04-26T22:13:00+00:00
+ai_modified: 2026-04-27T03:58:00+00:00
+last_deep_review: 2026-04-27T03:58:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -58,7 +58,7 @@ On this reading, Carroll's regress demonstrates that explicit rules cannot, by t
 
 The relation to Carroll is parallel pressure on the same point with materially different metaphysical commitments rather than convergence. Carroll, on the inferentialist reading, points toward a positive operation; Wittgenstein points away from any further posit.
 
-**Polanyi's tacit inference** (1966) is a positive characterisation of what Carroll and Wittgenstein argue against. "We know more than we can tell." Tacit inferences move from clues to indicated wholes by an operation that resists full propositional articulation without distortion. Some readers take Polanyi's position to be methodological; others, including the Map, read it as metaphysical. Either way, Polanyi treats the asymmetry between what cognition does and what cognition can articulate as constitutive.
+**Polanyi's tacit inference** (1966) is a positive characterisation of what Carroll and Wittgenstein argue against. "We know more than we can tell." Tacit inferences move from clues to indicated wholes by an operation that resists full propositional articulation without distortion. Some readers take Polanyi's position to be methodological; others, including the Map, read it as metaphysical. Either way, Polanyi treats the asymmetry between what cognition does and what cognition can articulate as constitutive. The Map develops Polanyi's structural claim — subsidiaries bear focal meaning by *not* being focal themselves; thematising the integration collapses what it carries — under the heading [[tacit-integration-void|tacit integration void]]. The point of contact with Carroll's regress is direct: stating the rule cannot do what following the rule does, for the same structural reason that thematising the subsidiaries cannot do what attending *from* them does. Both readings identify an operation whose work depends on its receding from explicit articulation.
 
 **Brandom's inferentialism** (*Making It Explicit*, 1994) is the major competing framework that takes inference as primitive without locating an opacity. Brandom's normative pragmatics treats inferential commitments as *constitutive of conceptual content*: to grasp a concept just is to participate in the practice of giving and asking for reasons. On this account, "taking-as" is not a non-rule operation of consciousness but a social-normative practice in which licences to infer are conferred and contested. The Map treats Brandom as relocating rather than dissolving the question — social practice is itself a tissue of individual takings whose own opacity is not addressed at the social level — but the Brandomian alternative is the strongest in the contemporary literature.
 
@@ -75,6 +75,7 @@ The article does not claim Carroll's regress *settles* the question of whether i
 ## Further Reading
 
 - [[inference-void]]
+- [[tacit-integration-void]]
 - [[argument-from-reason]]
 - [[self-stultification]]
 - [[introspection]]

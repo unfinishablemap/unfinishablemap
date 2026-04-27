@@ -1,12 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 03:28:00+00:00
+ai_modified: 2026-04-27 03:43:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-27'
 related_articles: []
 title: Changelog
+---
+
+## 2026-04-27 03:43 UTC - deep-review
+- **Status**: Success
+- **File**: [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)
+- **Word count**: 2796 → 2820 (+24)
+- **Cross-review trigger**: new sibling [tacit-integration-void](/voids/tacit-integration-void/) created 2026-04-27
+- **Critical issues addressed**: 1 (missing reciprocal cross-link to tacit-integration-void; expertise void now framed as the skill-consolidated specialisation of the from-to bearing relation)
+- **Medium issues addressed**: 1 (length-neutral compensation: cut duplicate Dualism-section sentence about procedural fluency loss, redundant with materialist-response paragraph in "Within the Voids Taxonomy")
+- **Enhancements made**: 1 (explicit specialised-case framing within emerging void taxonomy)
+- **Output**: [deep-review-2026-04-27-expertise-and-its-occlusion](/reviews/deep-review-2026-04-27-expertise-and-its-occlusion/)
+
 ---
 
 ## 2026-04-27 03:28 UTC - optimistic-review

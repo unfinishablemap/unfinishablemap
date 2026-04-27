@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-22
-ai_modified: 2026-04-25 01:29:00+00:00
+ai_modified: 2026-04-27 03:43:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -17,14 +17,14 @@ concepts:
 - '[[delegatory-causation]]'
 - '[[mental-causation-and-downward-causation]]'
 created: 2026-03-05
-date: &id001 2026-04-23
+date: &id001 2026-04-27
 description: How deep expertise irreversibly transforms conscious experience and then
   actively defends the transformation—creating a one-way door whose lock damages the
   skill of any expert who tries to look back through it.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 02:38:00+00:00
+last_deep_review: 2026-04-27 03:43:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -44,6 +44,7 @@ related_articles:
 - '[[conceptual-metabolism-void]]'
 - '[[source-attribution-void]]'
 - '[[necessary-opacity]]'
+- '[[tacit-integration-void]]'
 title: The Expertise Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -94,7 +95,7 @@ The expertise void is primarily *occluded* with an unexplorable core, in the [Ma
 
 The occlusion is demonstrated by the reinvestment evidence. The void is not a region consciousness has never visited—it is territory consciousness inhabited, transformed, and is now barred from re-entering. The choking phenomenon maps the boundary precisely: consciousness can approach the automated skill, but crossing the threshold disrupts what lies beyond.
 
-The unexplorable core lies in Polanyi's paradox. Any system that integrates subsidiary elements into a meaningful whole through focused attention must attend *through* those elements, not *to* them. Making the tacit explicit would destroy its character as tacit. A mind with perfect memory or novel introspective faculties might relocate the boundary, but could not eliminate it—so long as it achieves integration through attending from parts to wholes.
+The unexplorable core lies in Polanyi's paradox. Any system that integrates subsidiary elements into a meaningful whole through focused attention must attend *through* those elements, not *to* them. Making the tacit explicit would destroy its character as tacit. A mind with perfect memory or novel introspective faculties might relocate the boundary, but could not eliminate it—so long as it achieves integration through attending from parts to wholes. The [tacit-integration-void](/voids/tacit-integration-void/) isolates this from-to bearing relation in its general form; the expertise void specialises it to the case where skill consolidation makes the integration irreversibly transformed and actively defended.
 
 A materialist might object that there is no "void" here—just neural plasticity doing what it does. Synaptic pruning and consolidation explain why old patterns become inaccessible; no special phenomenological category is needed. The Map's response is that the neural account, however accurate about mechanism, fails to capture the asymmetry. Synaptic changes are in principle reversible—neural pathways can be retrained—yet the phenomenal transformation is not. The expert who loses procedural fluency through disuse does not recover novice perception. The gap between what the brain can do and what consciousness can recover is precisely where the void lives.
 
@@ -122,7 +123,7 @@ Three features of the void carry weight beyond the phenomenology itself.
 
 ## Relation to Site Perspective
 
-**[Dualism](/tenets/#dualism)** gains indirect support from the systematic decoupling of consciousness and cognitive performance. On identity theories, consciousness *is* the relevant computational process, so improved computation should entail richer conscious access, not less. The expertise void shows the opposite: the most effective cognitive processing is the least conscious. A physicalist can reply that consciousness is identical to a *monitoring* process, separate from the skilled computation it monitors—but this concedes the core point that consciousness and cognitive processing are dissociable, which sits more naturally with dualism than with identity theory. The depth of the transformation deepens the case: skills can degrade through disuse, but experts who lose procedural fluency do not report recovering their novice phenomenology.
+**[Dualism](/tenets/#dualism)** gains indirect support from the systematic decoupling of consciousness and cognitive performance. On identity theories, consciousness *is* the relevant computational process, so improved computation should entail richer conscious access, not less. The expertise void shows the opposite: the most effective cognitive processing is the least conscious. A physicalist can reply that consciousness is identical to a *monitoring* process, separate from the skilled computation it monitors—but this concedes the core point that consciousness and cognitive processing are dissociable, which sits more naturally with dualism than with identity theory.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds a concrete case study. Consciousness causally shapes skills during the learning phase through attention, error correction, and deliberate practice via [skill-delegation](/concepts/skill-delegation/). The skills then run without conscious supervision. This temporal pattern—intense causal engagement during acquisition, structural exclusion during performance—maps the interface between consciousness and the physical brain with unusual clarity. The void reveals the interface by showing where it disconnects, and the choking evidence shows the interface still exists: consciousness can re-enter, but at a cost.
 
@@ -153,6 +154,7 @@ It also parallels [necessary-opacity](/voids/necessary-opacity/) at a structural
 - [self-opacity](/voids/self-opacity/) — The subject that cannot be its own object
 - [source-attribution-void](/voids/source-attribution-void/) — Expertise-induced amnesia as a case where one's own past performance is the unattributable source
 - [necessary-opacity](/voids/necessary-opacity/) — The parallel void: consciousness cannot inspect its own representational structure without destabilising it
+- [tacit-integration-void](/voids/tacit-integration-void/) — The from-to bearing relation in its general form; the expertise void is its skill-consolidated, irreversibly transformed specialisation
 - [attention-and-consciousness](/voids/attention-and-consciousness/) — How attention structurally creates voids
 
 ## References

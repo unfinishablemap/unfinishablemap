@@ -66,13 +66,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
-### P2: Cross-review voids/expertise-and-its-occlusion.md considering tacit-integration-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: `voids/tacit-integration-void.md` (created 2026-04-27, refined same day to 2789 words, currently 3031 words) opens its sibling-distinction paragraph by explicitly distinguishing itself from `voids/expertise-and-its-occlusion.md`: "The expertise void concerns the *irreversible transformation* skill imposes on perception. […] The tacit integration void concerns the from-to *bearing relation* itself." The expertise article does not yet cite tacit-integration-void as the sibling treatment of the integrative-function side of skill. Cross-review should (a) verify a `[tacit-integration-void](/voids/tacit-integration-void/)` link is added in related_articles and prose; (b) install a short paragraph or sentence near the article's treatment of skilled performance that delegates the from-to integrative-function analysis to the new void — preserving the expertise void's focus on irreversibility while pointing readers to the dedicated treatment of how subsidiaries bear on a focal whole; (c) verify the two articles' Polanyi treatments are consistent (both cite *The Tacit Dimension* and *Personal Knowledge*; check terminology alignment on "subsidiary awareness", "focal awareness", "destructive analysis"); (d) check whether the expertise article over-claims any structural impossibility that the tacit void now treats more precisely — defer where appropriate; (e) preserve the article's existing voice, structure, and tenet-alignment. Light-touch edit. See `voids/tacit-integration-void.md` and `voids/expertise-and-its-occlusion.md`.
-- **Source**: chain (from voids/tacit-integration-void.md)
-- **Generated**: 2026-04-27
-
 ### P2: Cross-review concepts/carrolls-regress.md considering tacit-integration-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2834,6 +2827,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review voids/expertise-and-its-occlusion.md considering tacit-integration-void insights
+- **Type**: cross-review
+- **Notes**: `voids/tacit-integration-void.md` (created 2026-04-27, refined same day to 2789 words, currently 3031 words) opens its sibling-distinction paragraph by explicitly distinguishing itself from `voids/expertise-and-its-occlusion.md`: "The expertise void concerns the *irreversible transformation* skill imposes on perception. […] The tacit integration void concerns the from-to *bearing relation* itself." The expertise article does not yet cite tacit-integration-void as the sibling treatment of the integrative-function side of skill. Cross-review should (a) verify a `[tacit-integration-void](/voids/tacit-integration-void/)` link is added in related_articles and prose; (b) install a short paragraph or sentence near the article's treatment of skilled performance that delegates the from-to integrative-function analysis to the new void — preserving the expertise void's focus on irreversibility while pointing readers to the dedicated treatment of how subsidiaries bear on a focal whole; (c) verify the two articles' Polanyi treatments are consistent (both cite *The Tacit Dimension* and *Personal Knowledge*; check terminology alignment on "subsidiary awareness", "focal awareness", "destructive analysis"); (d) check whether the expertise article over-claims any structural impossibility that the tacit void now treats more precisely — defer where appropriate; (e) preserve the article's existing voice, structure, and tenet-alignment. Light-touch edit. See `voids/tacit-integration-void.md` and `voids/expertise-and-its-occlusion.md`.
+- **Output**: obsidian/voids/expertise-and-its-occlusion.md -- Context: Cross-review voids/expertise-and-its-occlusion.md considering tacit-integration-void insights
 
 ### ✓ 2026-04-27: Cross-review concepts/explanatory-gap.md considering hard-problem-of-content insights
 - **Type**: cross-review

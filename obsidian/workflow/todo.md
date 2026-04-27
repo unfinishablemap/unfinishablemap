@@ -65,13 +65,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
-### P2: Cross-review concepts/carrolls-regress.md considering tacit-integration-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: `voids/tacit-integration-void.md` (created 2026-04-27) treats the from-to bearing relation as resistant to thematisation — articulation that operates by *not* objectifying what it articulates. `concepts/carrolls-regress.md` (created in the 2026-04-26 evening cluster) treats Carroll's regress as evidence that inference cannot be fully replaced by explicit rule-following because the *taking-as* of premises requires a primitive non-rule-following move. The two articles converge on a structural family-resemblance: both name a primitive integrative or inferential move that resists conversion into focal/explicit content. Cross-review should (a) verify reciprocal `[[tacit-integration-void]]` ↔ `[[carrolls-regress]]` links exist in related_articles and prose; (b) install a short paragraph or sentence in carrolls-regress where the regress's "taking-as" is positioned as the *inferential* face of the same broader phenomenon that tacit-integration-void treats as the *integrative* face — both are cases where converting a primitive bearing-relation into an object collapses what it carries; (c) verify the two articles do not over-claim independent originality on the shared structural point — each should defer to the other on its own primary case (Carroll's regress for inference; Polanyi's from-to for integration); (d) check whether Engel's inferentialist reading (cited in carrolls-regress) is structurally close to Polanyi's tacit dimension and whether this convergence deserves a brief flag; (e) preserve the article's existing voice, structure, and tenet-alignment. Light-touch edit. See `voids/tacit-integration-void.md` and `concepts/carrolls-regress.md`.
-- **Source**: chain (from voids/tacit-integration-void.md)
-- **Generated**: 2026-04-27
-
 ### P2: Condense voids/tacit-integration-void.md (3031 words, 152% of voids hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2826,6 +2819,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review concepts/carrolls-regress.md considering tacit-integration-void insights
+- **Type**: cross-review
+- **Notes**: `voids/tacit-integration-void.md` (created 2026-04-27) treats the from-to bearing relation as resistant to thematisation — articulation that operates by *not* objectifying what it articulates. `concepts/carrolls-regress.md` (created in the 2026-04-26 evening cluster) treats Carroll's regress as evidence that inference cannot be fully replaced by explicit rule-following because the *taking-as* of premises requires a primitive non-rule-following move. The two articles converge on a structural family-resemblance: both name a primitive integrative or inferential move that resists conversion into focal/explicit content. Cross-review should (a) verify reciprocal `[[tacit-integration-void]]` ↔ `[[carrolls-regress]]` links exist in related_articles and prose; (b) install a short paragraph or sentence in carrolls-regress where the regress's "taking-as" is positioned as the *inferential* face of the same broader phenomenon that tacit-integration-void treats as the *integrative* face — both are cases where converting a primitive bearing-relation into an object collapses what it carries; (c) verify the two articles do not over-claim independent originality on the shared structural point — each should defer to the other on its own primary case (Carroll's regress for inference; Polanyi's from-to for integration); (d) check whether Engel's inferentialist reading (cited in carrolls-regress) is structurally close to Polanyi's tacit dimension and whether this convergence deserves a brief flag; (e) preserve the article's existing voice, structure, and tenet-alignment. Light-touch edit. See `voids/tacit-integration-void.md` and `concepts/carrolls-regress.md`.
+- **Output**: obsidian/concepts/carrolls-regress.md -- Context: Cross-review concepts/carrolls-regress.md considering tacit-integration-void insights
 
 ### ✓ 2026-04-27: Cross-review voids/expertise-and-its-occlusion.md considering tacit-integration-void insights
 - **Type**: cross-review
