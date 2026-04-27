@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/decoherence.md and concepts/stapp-quantum-mind.md considering V-N-W decoherence-pressure subsection
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Today's V-N-W refine installed a major new §Decoherence Pressure subsection (lines 84–85) engaging Tegmark's (2000) timescale calculations (~10⁻¹³ s for microtubules, ~10⁻²⁰ s for ion channels, against ~10⁻³ s cognitive operations and ~10⁻¹ s conscious access) and naming two partial Map responses: (a) interface locality and (b) motor-control quantum zeno. Two articles bear directly on this content: `concepts/decoherence.md` (the canonical decoherence treatment) should now reciprocally cite V-N-W's decoherence-pressure engagement and the falsifier-naming move ("until a candidate substrate, an estimated decoherence time, and a proposed mechanism within that window are specified, the interpretation does not yet engage physics"); `concepts/stapp-quantum-mind.md` is the primary Map reference for motor-control quantum zeno and should now cite V-N-W's framing of Stapp's apparatus as a *partial response that does not settle the timescale question; it constrains where to look*. Cross-review should (a) install reciprocal `[von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)` links in both articles' related_articles and at least one body-prose location each; (b) verify that decoherence.md's treatment of Tegmark's calculation is consistent with the V-N-W article's framing (timescales as falsifier-not-rebuttal); (c) check that stapp-quantum-mind.md does not overstate Stapp's response — the V-N-W treatment is explicit that Stapp's apparatus *constrains* the search space rather than dissolving the timescale problem; (d) preserve each article's existing voice and tenet alignment. Short scope (~300-500 words across both). Tenet alignment: Minimal Quantum Interaction.
-- **Source**: chain
-- **Generated**: 2026-04-27
-
 ### P2: Install worked seam-test failure case in apex/conjunction-coalesce.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2903,6 +2896,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-27: Cross-review concepts/decoherence.md and concepts/stapp-quantum-mind.md considering V-N-W decoherence-pressure subsection
+- **Type**: cross-review
+- **Notes**: Today's V-N-W refine installed a major new §Decoherence Pressure subsection (lines 84–85) engaging Tegmark's (2000) timescale calculations (~10⁻¹³ s for microtubules, ~10⁻²⁰ s for ion channels, against ~10⁻³ s cognitive operations and ~10⁻¹ s conscious access) and naming two partial Map responses: (a) interface locality and (b) motor-control quantum zeno. Two articles bear directly on this content: `concepts/decoherence.md` (the canonical decoherence treatment) should now reciprocally cite V-N-W's decoherence-pressure engagement and the falsifier-naming move ("until a candidate substrate, an estimated decoherence time, and a proposed mechanism within that window are specified, the interpretation does not yet engage physics"); `concepts/stapp-quantum-mind.md` is the primary Map reference for motor-control quantum zeno and should now cite V-N-W's framing of Stapp's apparatus as a *partial response that does not settle the timescale question; it constrains where to look*. Cross-review should (a) install reciprocal `[von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/)` links in both articles' related_articles and at least one body-prose location each; (b) verify that decoherence.md's treatment of Tegmark's calculation is consistent with the V-N-W article's framing (timescales as falsifier-not-rebuttal); (c) check that stapp-quantum-mind.md does not overstate Stapp's response — the V-N-W treatment is explicit that Stapp's apparatus *constrains* the search space rather than dissolving the timescale problem; (d) preserve each article's existing voice and tenet alignment. Short scope (~300-500 words across both). Tenet alignment: Minimal Quantum Interaction.
+- **Output**: obsidian/concepts/decoherence.md -- Context: Cross-review concepts/decoherence.md and concepts/stapp-quantum-mind.md considering V-N-W decoherence-pressure subsection
 
 ### ✓ 2026-04-27: Cross-review concepts/measurement-problem.md considering V-N-W refinement insights
 - **Type**: cross-review

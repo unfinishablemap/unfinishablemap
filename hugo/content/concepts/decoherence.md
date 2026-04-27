@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-15 09:35:00+00:00
+ai_modified: 2026-04-27 23:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -35,7 +35,7 @@ description: The decoherence objection bundles three independent claims. Five re
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 09:35:00+00:00
+last_deep_review: 2026-04-27 23:12:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -82,7 +82,7 @@ The standard decoherence objection needs all three claims to succeed. Defeating 
 
 The distinction between **basis selection** (which basis becomes preferred) and **outcome selection** (which particular outcome actualizes) is crucial. Decoherence explains why we observe position eigenstates rather than momentum eigenstates, but not why we observe *this particular position*. See [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) for extended analysis.
 
-The [physics-as-disclosure](/concepts/physics-as-disclosure/) framework strengthens this: decoherence's clean partition—handling all structural work while leaving actuality untouched—is evidence that physics reaches the boundary where structural description ends and conscious actuality begins. Decoherence does everything a [bi-aspectual](/concepts/bi-aspectual-ontology/) reality predicts physics *can* do, then stops exactly where the actuality question requires something beyond structure.
+The [physics-as-disclosure](/concepts/physics-as-disclosure/) framework strengthens this: decoherence's clean partition—handling all structural work while leaving actuality untouched—matches what a [bi-aspectual](/concepts/bi-aspectual-ontology/) reality predicts physics *can* do, stopping exactly where the actuality question requires something beyond structure.
 
 Since decoherence merely establishes preferred bases without collapsing them, something must select which outcome occurs. [Quantum Darwinism](/topics/quantum-darwinism-and-consciousness/) formalises this: Zurek's framework explains how environmental redundancy makes pointer states objectively accessible to multiple observers, yet the problem of outcomes—why *this* pointer state becomes actual—survives intact. The [No Many Worlds](/tenets/#no-many-worlds) tenet holds that outcomes are genuinely selected, not merely experienced in branching universes. Consciousness remains a candidate for what does the selecting. Calling outcomes "random" describes the statistics without explaining why *this* particular outcome occurs—the measurement problem concerns individual actualisation, not probabilities.
 
@@ -202,6 +202,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-razor-has-limits) tenet is direct
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — The receding quantum-classical boundary
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention relates to the quantum Zeno mechanism
 - [stapp-quantum-mind](/concepts/stapp-quantum-mind/) — The quantum Zeno mechanism for mental effort
+- [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — The lineage interpreting consciousness as collapse selector; engages decoherence pressure as an open problem
 - [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six mechanisms for scaling quantum influence to neural effects
 - [many-worlds](/concepts/many-worlds/) — The interpretation that dissolves the measurement problem differently
 - [tenets](/tenets/) — the Map's foundational commitments
