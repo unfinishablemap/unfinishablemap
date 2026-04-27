@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [The Thought Stream Void](/voids/thought-stream-void/)
 **Previous review**: [2026-04-17](/reviews/deep-review-2026-04-17-thought-stream-void/)
-**Trigger**: Cross-review against the newly-created [distraction-void](/voids/distraction-void/) article (created 2026-04-23)
+**Trigger**: Cross-review against the newly-created [distraction-void](/voids/transit-void/) article (created 2026-04-23)
 
 ## Pessimistic Analysis Summary
 
@@ -29,10 +29,10 @@ None. The article remains factually sound, correctly attributed, internally cons
 
 ### Medium Issues Found
 
-1. **Missing frontmatter cross-reference**: The article mentions `[distraction-void](/voids/distraction-void/)` in prose (the "Default Stream" section) but did not list it in `related_articles`. The newly-published distraction-void itself back-links to thought-stream-void, so the link should be bidirectional.
-   - **Resolution**: Added `[distraction-void](/voids/distraction-void/)`, `[recognition-void](/voids/recognition-void/)`, and `[agency-verification-void](/voids/agency-void/)` to `related_articles`. These three plus thought-stream-void form the family of voids marked by "before-and-after access without in-flight access."
+1. **Missing frontmatter cross-reference**: The article mentions `[distraction-void](/voids/transit-void/)` in prose (the "Default Stream" section) but did not list it in `related_articles`. The newly-published distraction-void itself back-links to thought-stream-void, so the link should be bidirectional.
+   - **Resolution**: Added `[distraction-void](/voids/transit-void/)`, `[recognition-void](/voids/recognition-void/)`, and `[agency-verification-void](/voids/agency-void/)` to `related_articles`. These three plus thought-stream-void form the family of voids marked by "before-and-after access without in-flight access."
 
-2. **Cross-link prose slightly conflated territories**: The existing mention of distraction-void said wandering "enters the territory of the [distraction-void](/voids/distraction-void/), where consciousness cannot witness its own departure from intended focus." This described the distraction-void's phenomenon in language that overlapped with thought-stream-void's own arrival/departure framing, blurring what is actually a distinction between *content opacity* (thought-stream) and *attentional-transit opacity* (distraction).
+2. **Cross-link prose slightly conflated territories**: The existing mention of distraction-void said wandering "enters the territory of the [distraction-void](/voids/transit-void/), where consciousness cannot witness its own departure from intended focus." This described the distraction-void's phenomenon in language that overlapped with thought-stream-void's own arrival/departure framing, blurring what is actually a distinction between *content opacity* (thought-stream) and *attentional-transit opacity* (distraction).
    - **Resolution**: Rewrote the sentence to mark the distinction and position both voids as members of a family (with recognition-void and agency-verification-void) sharing the before-and-after-but-not-in-flight structure. Word-cost offset by trimming the trailing "See [attention-and-consciousness](/voids/attention-and-consciousness/) for the fuller treatment" in the Radical Opacity section (attention-and-consciousness remains in related_articles).
 
 ### Counterarguments Considered
@@ -80,7 +80,7 @@ Minimal — operating in length-neutral mode.
 
 ### Cross-links Added
 
-- `[distraction-void](/voids/distraction-void/)` added to related_articles (previously only inline)
+- `[distraction-void](/voids/transit-void/)` added to related_articles (previously only inline)
 - `[recognition-void](/voids/recognition-void/)` added to related_articles (family member)
 - `[agency-verification-void](/voids/agency-void/)` added to related_articles (family member)
 - Inline links to recognition-void and agency-verification-void added in the Default Stream section as part of the family-kinship clarification

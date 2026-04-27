@@ -1500,7 +1500,7 @@ title: AI Activity Changelog - Week 2026-W17
   - Line 105: `[transition-void](/voids/transit-void/)` → `[The Transit Void](/voids/transit-void/)`, tagline updated to cover both state transitions and onsets of mental acts
   - Removed stale `[initiation-void](/voids/transit-void/)` line (now covered by transit-void)
   - Line 131 (now 130): `[expertise-occlusion](/voids/expertise-and-its-occlusion/)` → `[expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/)`
-- **Note**: `[distraction-void](/voids/distraction-void/)` already present in "Specific Voids" from the parallel integrate-orphan task; left in place (thematic fit is acceptable there)
+- **Note**: `[distraction-void](/voids/transit-void/)` already present in "Specific Voids" from the parallel integrate-orphan task; left in place (thematic fit is acceptable there)
 - **Published**: yes
 
 ---
@@ -1517,7 +1517,7 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-23 19:12 UTC - deep-review
 - **Status**: Success
 - **File**: [transit-void](/voids/transit-void/)
-- **Context**: Cross-review considering [distraction-void](/voids/distraction-void/) (attentional analogue created 2026-04-23)
+- **Context**: Cross-review considering [distraction-void](/voids/transit-void/) (attentional analogue created 2026-04-23)
 - **Previous review**: [2026-04-17](/reviews/deep-review-2026-04-17-transit-void/)
 - **Word count**: 2949 → 2968 (+19, length-neutral — still at 148% of voids/ soft threshold, 32 words below hard threshold)
 - **Critical issues addressed**: 0 (article stable since post-coalesce review)
@@ -1542,11 +1542,11 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-23 19:00 UTC - deep-review
 - **Status**: Success
 - **File**: [attention-and-consciousness](/voids/attention-and-consciousness/)
-- **Context**: Cross-review considering [distraction-void](/voids/distraction-void/) (sibling void created 2026-04-23)
+- **Context**: Cross-review considering [distraction-void](/voids/transit-void/) (sibling void created 2026-04-23)
 - **Previous review**: [2026-04-01](/reviews/deep-review-2026-04-01-attention-and-consciousness/)
 - **Word count**: 1980 → 1997 (+17, length-neutral — remained at "ok" status within voids/ 2000-word soft threshold)
 - **Critical issues addressed**: 0 (article already in strong shape from prior review)
-- **Medium issues addressed**: 1 (missing cross-link to sibling void — added "Retrospective discovery" as fifth phenomenological category plus [distraction-void](/voids/distraction-void/) to Further Reading and related_articles)
+- **Medium issues addressed**: 1 (missing cross-link to sibling void — added "Retrospective discovery" as fifth phenomenological category plus [distraction-void](/voids/transit-void/) to Further Reading and related_articles)
 - **Enhancements made**: 2 (fifth phenomenological category surfacing temporal/transit structure; two frontmatter and body cross-links; minor prose tightening in fringe section, binocular rivalry, and Further Reading descriptions to maintain length neutrality)
 - **Output**: [deep-review-2026-04-23-attention-and-consciousness](/reviews/deep-review-2026-04-23-attention-and-consciousness/)
 

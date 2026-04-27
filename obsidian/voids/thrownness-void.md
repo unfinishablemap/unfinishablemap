@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot access the condit
 created: 2026-04-01
 modified: 2026-04-01
 human_modified:
-ai_modified: 2026-04-27T07:29:00+00:00
+ai_modified: 2026-04-27T19:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[biological-cognitive-closure]]"
   - "[[framework-void]]"
+  - "[[conjunction-coalesce]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -105,6 +106,7 @@ The thrownness void gains its sharpest edge under the Map's [[tenets|dualist fra
 - [[initiation-void|The Initiation Void]] — Why consciousness cannot witness the onset of mental acts
 - [[framework-void|The Framework Void]] — How conceptual frameworks exclude what they cannot represent
 - [[three-kinds-of-void]] — The core taxonomy of cognitive limits
+- [[conjunction-coalesce|The Conjunction-Coalesce]] — Where this article appears as a candidate within a temporal-mode cluster of self-witnessing failures
 
 ## References
 

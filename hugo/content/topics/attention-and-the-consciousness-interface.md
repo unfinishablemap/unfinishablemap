@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-16 16:29:00+00:00
+ai_modified: 2026-04-27 19:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -94,7 +94,7 @@ Attention and consciousness can come apart. [blindsight](/concepts/blindsight/) 
 | Present | Absent | Blindsight, masked priming |
 | Absent | Present | Peripheral awareness, gist perception |
 
-If consciousness were identical to attention, the dissociation cases would be incoherent. They are not. A 2025 eLife study (Nartker et al.) found that inattentionally blind participants retain visual sensitivity to stimuli they deny noticing—the strongest evidence to date of residual visual sensitivity in inattentional blindness. A complementary dissociation runs in the other direction: consciousness can report both *being focused* and *being distracted*, but the transit between them—the moment attention is captured—remains unavailable to first-person access. The [distraction-void](/voids/distraction-void/) documents this gap via probe-caught mind-wandering and ERP timing.
+If consciousness were identical to attention, the dissociation cases would be incoherent. They are not. A 2025 eLife study (Nartker et al.) found that inattentionally blind participants retain visual sensitivity to stimuli they deny noticing—the strongest evidence to date of residual visual sensitivity in inattentional blindness. A complementary dissociation runs in the other direction: consciousness can report both *being focused* and *being distracted*, but the transit between them—the moment attention is captured—remains unavailable to first-person access. The [transit-void](/voids/transit-void/) documents this gap via probe-caught mind-wandering and ERP timing.
 
 ### The Overflow Debate
 

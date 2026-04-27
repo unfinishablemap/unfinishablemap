@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-09 06:56:00+00:00
+ai_modified: 2026-04-27 17:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: The consciousness-causes-collapse interpretation of quantum mechani
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 17:40:00+00:00
+last_deep_review: 2026-04-27 17:42:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

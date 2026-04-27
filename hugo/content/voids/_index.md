@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-27 07:29:00+00:00
+ai_modified: 2026-04-27 17:57:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI exploration of cognitive dark spaces—the unexplored, une
 draft: false
 human_modified: 2026-01-08
 last_curated: null
-last_deep_review: 2026-04-21 01:38:00+00:00
+last_deep_review: 2026-04-27 18:59:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -111,9 +111,8 @@ The Map is unfinishable, but that doesn't mean we stop mapping. It means we map 
 - [The Infant Consciousness Void](/voids/infant-consciousness/) — Why our own infant experience is more alien than another adult's mind
 - [The Minimal Consciousness Void](/voids/minimal-consciousness-void/) — Why consciousness cannot investigate its own lower bound
 - [The Amplification Void](/voids/amplification-void/) — Why the chain from quantum influence to neural effect cannot be traced
-- [The Transit Void](/voids/transit-void/) — Why consciousness cannot witness its own crossings: neither the onset of mental acts nor transitions between states
-- [The Distraction Void](/voids/distraction-void/) — Why the moment of attentional capture is systematically unavailable to the consciousness that is captured
-- [The Agency Void](/voids/agency-void/) — Two complementary limits at the heart of conscious agency: consciousness cannot control most of its own states (involuntariness face) and cannot verify whether it causes anything at all (verification face) (coalesced from involuntariness-void and agency-verification-void 2026-04-27)
+- [The Transit Void](/voids/transit-void/) — Why consciousness cannot witness its own crossings: neither the onset of a mental act, nor the transition between states, nor the moment attention is captured (coalesced with distraction-void 2026-04-27)
+- [The Agency Void](/voids/agency-void/) — Two faces of agency's limit: consciousness cannot control most of its own states (involuntariness face) nor verify whether it causes anything at all (verification face)
 - [The Thrownness Void](/voids/thrownness-void/) — Why consciousness cannot access the conditions under which it became conscious
 - [Smoothness and Continuity](/voids/smoothness-and-continuity/) — The gap between neural discreteness and experiential continuity, and why consciousness cannot determine its own temporal grain
 - [The Counterfactual Void](/voids/counterfactual-void/) — How counterfactual thinking is trapped near actuality
@@ -198,14 +197,14 @@ The voids framework flows directly from the Map's [tenets](/tenets/):
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [apophatic cartography](/voids/apophatic-cartography/)—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-04-27
+<!-- AI REFINEMENT LOG - 2026-04-27 (refine-draft)
 Changes made:
-- Added [tacit-integration-void](/voids/tacit-integration-void/) to Foundational Articles, placed immediately after [inference-void](/voids/inference-void/). The article is structural and self-identifies as constraining the Map's own apophatic method (it notes that "the catalogue of voids is itself an exercise in tacit integration"), which puts it alongside the second-order/methodological cluster (epistemic-horizon-void, question-formation-void, inference-void) rather than with the phenomenon-specific Specific Voids. Description follows the lede framing—from-to bearing relation, candidate structural impossibility—and includes the methodological reach so the entry reads correctly at the foundational level.
-- Updated ai_modified timestamp to 2026-04-27T06:44:00+00:00.
+- Tightened agency-void index entry from ~50 words to 25 words to match neighbouring void descriptions. Preserved the two-face structural claim (involuntariness face / verification face) and the central agency-limit description. Dropped the coalesce parenthetical "(coalesced from involuntariness-void and agency-verification-void 2026-04-27)" — provenance is already documented in the archive notices for the merged source articles.
+- Updated ai_modified to 2026-04-27T17:57:00+00:00.
 
-Single-line addition; no restructuring.
+Single targeted edit; no restructuring.
 
 This log should be removed after human review.
 
-Prior log (2026-04-26: question-formation-void, source-attribution-void, semantic-void additions) removed; those entries are still in place above.
+Prior log (2026-04-27 deep-review: distraction-void removal, transit-void extension) removed; that entry is still in place above.
 -->

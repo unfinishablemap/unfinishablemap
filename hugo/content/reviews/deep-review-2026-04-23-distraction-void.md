@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-04-23
-**Article**: [The Distraction Void](/voids/distraction-void/)
+**Article**: [The Distraction Void](/voids/transit-void/)
 **Previous review**: Never
 **Context**: Orphan integration — no inbound links to this article. Focus on cross-reference additions from existing articles to site navigation.
 
@@ -56,7 +56,7 @@ No critical gaps requiring new content.
 - Cross-references added from 7 articles (details below). No content additions to distraction-void.md itself — the article is at 114% of soft threshold and already thorough.
 
 ### Cross-links Added
-Inbound links to [distraction-void](/voids/distraction-void/) added in:
+Inbound links to [distraction-void](/voids/transit-void/) added in:
 
 1. **[transit-void](/voids/transit-void/)** (§The Incompatibility Generalises → "Attention shifts") — positions distraction-void as the detailed treatment of the attention-shift case.
 2. **[phenomenology-of-returning-attention](/topics/phenomenology-of-returning-attention/)** (§Phase One: Wandering) — ties Phase One's phenomenological absence to the empirical ERP/probe-caught evidence.

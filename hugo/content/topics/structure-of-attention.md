@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-04-04 03:41:00+00:00
+ai_modified: 2026-04-27 19:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -50,7 +50,7 @@ A loud noise snaps your head around. A flash in peripheral vision seizes your fo
 | **Effort** | None |
 | **Control** | Involuntary |
 
-Exogenous attention operates through the ventral attention network (temporoparietal junction, ventral frontal cortex). It generates "inhibition of return"—after ~300ms, the captured location is actively suppressed, preventing repeated capture by the same stimulus. The capture event itself is phenomenologically dark: one finds oneself reoriented without ever experiencing the reorientation. The [distraction-void](/voids/distraction-void/) examines this structural feature, pairing ERP timing with probe-caught mind-wandering to show that the moment of being pulled is never itself available to experience.
+Exogenous attention operates through the ventral attention network (temporoparietal junction, ventral frontal cortex). It generates "inhibition of return"—after ~300ms, the captured location is actively suppressed, preventing repeated capture by the same stimulus. The capture event itself is phenomenologically dark: one finds oneself reoriented without ever experiencing the reorientation. The [transit-void](/voids/transit-void/) examines this structural feature, pairing ERP timing with probe-caught mind-wandering to show that the moment of being pulled is never itself available to experience.
 
 ### Instructed Attention: Cued
 

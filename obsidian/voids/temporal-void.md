@@ -4,7 +4,7 @@ description: "Why consciousness is confined to a moving present, cannot simultan
 created: 2026-01-21
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-24T20:29:00+00:00
+ai_modified: 2026-04-27T19:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,6 +40,7 @@ related_articles:
   - "[[topics/free-will]]"
   - "[[concepts/functionalism]]"
   - "[[collapse-and-time]]"
+  - "[[conjunction-coalesce]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -163,6 +164,7 @@ The temporal void engages the Map's [[tenets]] at several points.
 - [[limits-reveal-structure]] — How boundaries illuminate architecture
 - [[mysterianism]] — Cognitive closure and the limits of understanding
 - [[apophatic-approaches]] — Methods for engaging with what exceeds articulation
+- [[conjunction-coalesce|The Conjunction-Coalesce]] — Where this article appears as a candidate within a temporal-mode cluster of self-witnessing failures
 
 ## References
 

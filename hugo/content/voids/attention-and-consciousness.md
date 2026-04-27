@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-30
-ai_modified: 2026-04-23 19:00:00+00:00
+ai_modified: 2026-04-27 19:19:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -26,7 +26,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[distraction-void]]'
+- '[[transit-void]]'
 - '[[thoughts-that-slip-away]]'
 - '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
@@ -80,7 +80,7 @@ These phenomena reveal multiple levels of attention-created void: the marginalis
 
 **The alternation frustration.** In bistable perception, the sense that something is there that attention cannot stabilise. Both interpretations exist; you see each in turn; you cannot see both at once.
 
-**Retrospective discovery.** Finding oneself elsewhere without having witnessed the transit. Attention moved, and the moving is introspectively absent; there is a before and an after but no felt span between. The void is temporal rather than spatial — the gap between capture and noticing-capture. See [distraction-void](/voids/distraction-void/).
+**Retrospective discovery.** Finding oneself elsewhere without having witnessed the transit. Attention moved, and the moving is introspectively absent; there is a before and an after but no felt span between. The void is temporal rather than spatial — the gap between capture and noticing-capture. See [transit-void](/voids/transit-void/).
 
 ## When the Instrument Breaks
 
@@ -136,7 +136,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — The interface model applied to ADHD, fatigue, and clinical evidence
-- [distraction-void](/voids/distraction-void/) — The temporal gap between being captured and noticing one has been captured
+- [transit-void](/voids/transit-void/) — The temporal gap between being captured and noticing one has been captured
 - [attention-as-interface](/concepts/attention-as-interface/) — The core hypothesis: attention as consciousness's bridge to matter
 - [structure-of-attention](/topics/structure-of-attention/) — Three modes of attention and their neural signatures
 - [The Habituation Void](/voids/disappearance-voids/) — A related void where familiarity, not attention, erases experience

@@ -24,7 +24,7 @@ description: Dualism both intensifies and enriches the problem of knowing other 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-21 19:25:00+00:00
+last_deep_review: 2026-04-27 16:27:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

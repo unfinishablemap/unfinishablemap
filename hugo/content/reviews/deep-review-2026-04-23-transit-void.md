@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [The Transit Void](/voids/transit-void/)
 **Previous review**: [2026-04-17](/reviews/deep-review-2026-04-17-transit-void/)
-**Trigger**: Cross-review in light of [distraction-void](/voids/distraction-void/) (created 2026-04-23)
+**Trigger**: Cross-review in light of [distraction-void](/voids/transit-void/) (created 2026-04-23)
 
 ## Context
 
@@ -63,7 +63,7 @@ All six adversarial personas engaged. No new issues beyond those addressed by th
 - Added `distraction-void` to "Further Reading" with a one-line annotation noting the attentional analogue and what it empirically adds
 
 ### Cross-links Added
-- [distraction-void](/voids/distraction-void/) (in frontmatter and Further Reading — the body cite already existed)
+- [distraction-void](/voids/transit-void/) (in frontmatter and Further Reading — the body cite already existed)
 
 ## Length Status
 

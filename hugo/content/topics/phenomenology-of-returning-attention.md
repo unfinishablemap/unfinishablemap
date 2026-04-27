@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-04-16 11:28:00+00:00
+ai_modified: 2026-04-27 19:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -43,7 +43,7 @@ Careful introspective observation, particularly as trained in focused-attention 
 
 ### Phase One: Wandering
 
-Attention drifts from its intended object. In meditation, you set out to watch the breath, and at some point you are instead rehearsing a conversation or planning dinner. The crucial feature of this phase is *absence of awareness of the drift itself*. You do not experience the transition from focused to wandering — it simply happens without being noticed, a case of [attention-consciousness dissociation](/topics/attention-and-the-consciousness-interface/) in miniature and a micro-instance of the [transition-void](/voids/transit-void/): the cognitive stance required to observe the departure is the focused attention whose loss constitutes the departure. The [distraction-void](/voids/distraction-void/) examines this unwitnessed capture in detail, showing how ERP timing (MMN, P3a, P3b) and probe-caught paradigms give third-person grain to a first-person dark event.
+Attention drifts from its intended object. In meditation, you set out to watch the breath, and at some point you are instead rehearsing a conversation or planning dinner. The crucial feature of this phase is *absence of awareness of the drift itself*. You do not experience the transition from focused to wandering — it simply happens without being noticed, a case of [attention-consciousness dissociation](/topics/attention-and-the-consciousness-interface/) in miniature and a micro-instance of the [transition-void](/voids/transit-void/): the cognitive stance required to observe the departure is the focused attention whose loss constitutes the departure. The [transit-void](/voids/transit-void/) examines this unwitnessed capture in detail, showing how ERP timing (MMN, P3a, P3b) and probe-caught paradigms give third-person grain to a first-person dark event.
 
 This is phenomenologically significant. During wandering, there is still experience — you are thinking, imagining, worrying — but [meta-awareness](/concepts/witness-consciousness/) is absent. (The broader relationship between [metacognition](/concepts/metacognition/), metarepresentation, and consciousness clarifies why this dissociation is possible: meta-awareness is a capacity consciousness enables, not consciousness itself.) You are absorbed in the content without monitoring whether the content is what you intended to attend to — a micro-instance of the [absorption void](/voids/disappearance-voids/), where the immersive character of experience blocks the very stance needed to observe it. The [default-mode-network](/concepts/default-mode-network/) is active, generating self-referential narratives, but the oversight function has disengaged. Schooler (2002) calls this the dissociation between experience and *meta-consciousness*: you are conscious, but not conscious *of* being conscious in the relevant monitoring sense.
 
