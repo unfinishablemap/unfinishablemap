@@ -1,13 +1,160 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 16:31:00+00:00
+ai_modified: 2026-04-28 20:23:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 20:23 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — newly created today (2026-04-28 19:18 UTC), deep-reviewed at 19:45 UTC and cross-reviewed at 20:08 UTC for reciprocal links, no prior pessimistic review on file. ~2,087 words.
+- **Critical issues found**: 1 (imagery exemplar undermined by article's own data and falsifier — the cited Kay/Keogh/Pearson 2024 strategy-difference is precisely the falsifier the article newly added)
+- **Medium issues found**: 2 (two patterns not explicitly applied to four exemplars; "four voids" wording technically wrong because cognitive-phenomenology is a topic not a void)
+- **Counterarguments surfaced**: 4 (multi-realizability not engaged; top-down predictive coding undermines "sensory function constant" in Strawson case; "predicts exactly" too strong for property-dualism; "same processing pipeline" contradicts synesthetic-void source's van-Leeuwen-semantic-mediation hedge)
+- **Output**: [pessimistic-2026-04-28d](/reviews/pessimistic-2026-04-28d/)
+- **Follow-up task added**: P2 refine-draft to address findings
+
+## 2026-04-28 20:08 UTC - deep-review (cross)
+- **Status**: Success
+- **File**: [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)
+- **Word count**: 2087 → 2087 (no body change; reciprocal-link installation only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (reciprocal-link asymmetry)
+- **Enhancements made**: 4 (reciprocal links installed in four exemplar articles)
+- **Notes**: Cross-review pass to install reciprocal links between the new concept page and its four canonical exemplars (imagery-void, synesthetic-void, agency-void, cognitive-phenomenology-and-the-irreducibility-of-thought). Added `[phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)` to the `related_articles` frontmatter and a dedicated Further Reading entry in each of the four files, sitting alongside (not replacing) the existing taxonomy-of-voids entry. Each new entry names the role the exemplar plays in the axis. No body content modified in any of the five articles. Bidirectional discoverability now symmetric: the axis links to all four exemplars; each exemplar links back. The article's earlier-today deep review remains the canonical pass; this is a structural-graph follow-up.
+- **Output**: [deep-review-2026-04-28-phenomenology-vs-function-axis-cross](/reviews/deep-review-2026-04-28-phenomenology-vs-function-axis-cross/)
+
+## 2026-04-28 19:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Original score**: not run (curate.py review tool not present in repo); residual pessimistic-2026-04-28 issues addressed per task notes
+- **Changes**: (a) §"The Dispositional Modality Problem" pain-asymbolia paragraph rewritten so the constitutive-connection claim applies to each *component* powerful quality (sensory localisation; aversive valence) rather than to "pain" as a unitary phenomenon — closes pessimistic Issue 5 / secondary-(b); (b) §"Relation to Site Perspective" closing affinities rewritten so the Dualism, Bidirectional Interaction, and Minimal Quantum Interaction subsections align with the body's positions: Dualism is "best served by governing-laws + powerful qualities" (Humean supervenience flagged uncomfortable, pure essentialism rejected on disanalogy); Bidirectional Interaction's strongest support is governing-laws + powerful qualities (not + dispositional essentialism, since the disanalogy denies the necessary fundamentality); Minimal Quantum Interaction is grounded by the cross-product, with explicit Tegmark dependence and cross-link to [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) / [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — closes pessimistic secondary-(e)
+- **Words touched**: ~280 across two paragraphs (target was 600-1000 across ~5 paragraphs; remaining issues turned out local rather than structural since 02:29 UTC pass already installed structural fixes 1-3 + secondary (a)/(c)/(d), and those survived condense + cross-product + language passes)
+- **Verified surviving from prior passes**: conditional-necessity carried through to powerful-qualities weaker-commitment claim (lines 124-126); collapse-or-conjunction dilemma named with Taylor 2018, Coates 2019, Engelhard 2010 citations + Map's first-horn answer (line 138); legislation problem answered with bi-aspectual + interface model candidate principles (line 86); Tegmark/Schlosshauer engagement (line 152); Mørch power-monist Russellian monism reply (line 120); no "not X but Y" regressions
+- **Published**: yes (draft: false unchanged)
+
+## 2026-04-28 19:45 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)
+- **Word count**: 1923 → 2087 (+164; 83% of 2500 soft threshold — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Notes**: First deep-review of newly created concept page (created 2026-04-28). Comprehensive attribution check passed: all four exemplar attributions (Kay/Keogh/Pearson 2024, Wager 1999/2001, Gray 2003, Strawson 1994, Lennon 2023, Wegner/Wheatley 1999, Wegner 2002, Zeman 2024) verified against source articles (imagery-void, synesthetic-void, agency-void, cognitive-phenomenology-and-the-irreducibility-of-thought) and apex (taxonomy-of-voids). All quoted passages match verbatim; no misattribution, no dropped qualifiers, no overstated positions. Two improvements applied: (1) added Wegner hedge to mirror agency-void's careful Source/Map separation — the Map borrows Wegner's diagnosis while declining his illusionist conclusion under Bidirectional Interaction; (2) added falsifiability paragraph specifying what would de-weight the axis (finer-grained functional individuation absorbing each exemplar) and articulating the cumulative-force claim as an empirical prediction the four cases continue to resist absorption together. Stability notes documented for future reviews: eliminativist/functionalist/MWI/Buddhist disagreements are bedrock and should not be re-flagged.
+- **Output**: [deep-review-2026-04-28-phenomenology-vs-function-axis](/reviews/deep-review-2026-04-28-phenomenology-vs-function-axis/)
+
+## 2026-04-28 19:23 UTC - deep-review
+- **Status**: Success (convergence)
+- **File**: [plurality-void](/voids/plurality-void/)
+- **Word count**: 1696 → 1696 (no change; 85% of 2000 soft threshold — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Notes**: Stable-state review. Prior review on 2026-03-10 cleared all medium issues (Wallace attribution, Dennett deflationary engagement, banned style construct, mysterianism cross-link). Since then only wikilink retargeting (other-minds-void → voids-between-minds, indexical-void → vertiginous-question, self-reference-paradox → self-opacity) and one cross-reference sentence linking to [boundary-and-projection](/voids/boundary-and-projection/). Re-verified all eight quoted attributions (Schrödinger, Coleman, Schechter, James, Sperry, de Haan et al., Wallace, Goff) — all check out. Schechter quote previously flagged as unverified is confirmed against SEP Unity of Consciousness entry. No oscillation: skipped sympathetic-persona expansion suggestions (Stapp/Whitehead/Kane) and re-engagement of bedrock disagreements (Dennett deflationism, Buddhist no-self, MWI defenders) per stability notes. Updated `last_deep_review` only.
+- **Output**: [deep-review-2026-04-28-plurality-void](/reviews/deep-review-2026-04-28-plurality-void/)
+
+## 2026-04-28 19:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology-vs-Function Axis
+- **Output**: [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/)
+- **Word count**: 1923 (77% of 2500 target — ok)
+- **Based on research**: no (synthesises four exemplar voids/topic articles already in the catalogue: [imagery-void](/voids/imagery-void/), [synesthetic-void](/voids/synesthetic-void/), [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/), [agency-void](/voids/agency-void/) — and the apex axis introduced 2026-04-28 10:45 UTC in [taxonomy-of-voids](/apex/taxonomy-of-voids/))
+- **Notes**: Concept-page anchor for the cross-cutting axis introduced in apex/taxonomy-of-voids on 2026-04-28. Names the axis, defines the two dissociation patterns (identical phenomenology / different function; identical function / different phenomenology), gives the four canonical exemplars in source-accurate form (Kay/Keogh/Pearson 2024 mental rotation; Wager extra qualia + Gray 2003 function-qualia coupling; Strawson foreign-language argument + Lennon 2023 aphantasic-thought wedge; Wegner I-Spy paradigm), establishes axis-independence from the four-kinds typology and the presence/absence axis, and frames the axis as an empirical wedge against function-phenomenology identity claims (with explicit functionalist-response acknowledgement). Title uses "axis" to match apex naming; task notes suggested "phenomenology-vs-function-dissociation" as alternative slug — kept "axis" for terminological consistency with apex/taxonomy-of-voids.
+
+## 2026-04-28 18:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [voids](/voids/)
+- **Original score**: not run (curate.py review tool not present in repo); changes targeted per task notes
+- **Changes**: (a) added [suspension-void](/voids/suspension-void/) entry to Foundational Articles, placed adjacent to [inference-void](/voids/inference-void/) per documented sister-regress relationship, with three-face tagline (verification/capacity/action) and "first native conjunction-coalesce cognate" designation; (b) reciprocated cross-link by extending inference-void's tagline; (c) updated conjunction-coalesce maintenance note to enumerate four governed entries, add the new seam, reclassify suspension-void as a *cognate* alongside erasure-void, and record that suspension-void is the first cognate produced natively at creation under the methodology rather than retrofitted from a draft; (d) stale-reference cleanup — replaced archived [imagination-and-creativity-void](/voids/creative-aesthetic-void/) + [aesthetic-void](/voids/creative-aesthetic-void/) with the live [creative-aesthetic-void](/voids/creative-aesthetic-void/) (URLs preserved via alias_urls in the coalesce target), replaced archived [spontaneous-thought-void](/voids/thought-stream-void/) with [thought-stream-void](/voids/thought-stream-void/), and removed the duplicate [thoughts-that-slip-away](/voids/thought-stream-void/) entry from Phenomenology of Limits (also coalesced into thought-stream-void); added suspension-void to related_articles; bumped modified to 2026-04-28
+- **Words touched**: ~180 (within ~100-200 task scope)
+- **Published**: yes (draft: false unchanged)
+
+## 2026-04-28 18:07 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Mode**: Cross-review integrating 2026-04-28 abandon-coalesce family-decision into [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 4755 → 4917 (+162; 119% → 123% of 4000 soft threshold; under 5000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (abandon-coalesce family-decision unintegrated; apex previously documented conjunction-coalesce side only)
+- **Enhancements made**: 2 — (a) new ~170-word paragraph in §Compound Failure Signatures naming the **abandon-coalesce** as the third leg of the coalesce discipline alongside conjunction-coalesce and redundancy-coalesce, with two operational criteria (load-bearing distinction; recent-coalesce origin), worked-example anchors (affective trio; cognitive-process opacity cluster; 2026-04-28 seven-family sweep), and seam/gap symmetry connecting back to the apex's failure-signature topology; (b) §Topology of Failure closing two paragraphs compressed into one tighter paragraph (~27 words trimmed) to partially offset the addition.
+- **Cross-review deliverables satisfied**: (a) short paragraph in methodology-adjacent section ✓; (b) seven-family decision cited as worked example ✓; (c) reciprocal cross-link to apex/conjunction-coalesce §"When Not to Coalesce" deferred (that section not yet written; queued P3 task at todo.md line 2980); (d) failure-signature topology coherence with abandon-coalesce criteria explicitly named ✓; (e) voice and structure preserved ✓.
+- **Output**: [deep-review-2026-04-28-taxonomy-of-voids](/reviews/deep-review-2026-04-28-taxonomy-of-voids/)
+
+## 2026-04-28 17:52 UTC - deep-review
+- **Status**: Success
+- **File**: [perception](/concepts/perception/)
+- **Word count**: 1500 → 1530 (+30)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (frontmatter concepts not in body — completed pattern from prior reviews)
+- **Enhancements made**: 3 inline cross-links added ([phenomenal-consciousness](/concepts/phenomenal-consciousness/), [mind-matter-interface](/concepts/mind-matter-interface/), [phenomenal-overflow](/concepts/phenomenal-overflow/))
+- **Output**: [deep-review-2026-04-28-perception](/reviews/deep-review-2026-04-28-perception/)
+
+## 2026-04-28 17:44 UTC - condense
+- **Status**: Success
+- **File**: [necessary-opacity](/voids/necessary-opacity/)
+- **Before**: 3026 words
+- **After**: 2325 words
+- **Reduction**: 23%
+- **Technique**: Tightened redundant prose in Phenomenal Transparency, Epistemic Circularity, Fitness, and Self-Studying Brain sections; trimmed Cognitohazards framing; condensed five phenomenology bullets to four (merged recursive trap into dissolving insight); collapsed Distinguishing This Void's seven-bullet comparison to four; merged Approaches to Edge subsections (Direct/Indirect/AI) into a single section; consolidated overlapping bullets in What Would Challenge; tightened Relation to Site Perspective without removing tenet links. Preserved opening summary, all five tenet connections, cross-links, and core arguments.
+
+## 2026-04-28 17:22 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Min/Max Dualism Taxonomy
+- **Source research**: [min-max-dualism-taxonomy-2026-04-21](/research/min-max-dualism-taxonomy-2026-04-21/)
+- **Existing article**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) (created 2026-04-21 from this same research, three subsequent deep reviews; ~3050 words; covers both axes, all four quadrants, Map tenet implications, and the Q1 articulability question)
+- **Why skipped**: The replenishment system's `unconsumed_research` heuristic missed the existing article because the slug differs (`four-quadrant-dualism-taxonomy` vs the proposed `min-max-dualism-taxonomy`). Substantively the same article already exists and has been refined. Writing a second topic on the same research would duplicate content, split inbound links, and weaken the existing piece's external visibility.
+- **Recommendation**: The replenishment heuristic should match research notes to existing articles by topic/concept overlap rather than by slug, or the task generator should be aware of `four-quadrant-dualism-taxonomy` as the canonical synthesis of `research/min-max-dualism-taxonomy-2026-04-21`.
+
+## 2026-04-28 17:07 UTC - coalesce
+- **Status**: Abandoned (no good candidates)
+- **Pressured section evaluated**: voids/ at 98/100 (98% of cap) — highest-pressure section
+- **Pairs investigated** (9 total, all explicitly differentiated by existing content):
+  - [mood-void](/voids/mood-void/) + [valence-void](/voids/valence-void/) — pervasiveness vs structure problem (cross-references state difference)
+  - [emotional-epistemology-void](/voids/emotional-epistemology-void/) + [noetic-feelings-void](/voids/noetic-feelings-void/) — affective knowledge vs heuristic verdicts (different concerns)
+  - [expertise-and-its-occlusion](/voids/expertise-and-its-occlusion/) + [tacit-integration-void](/voids/tacit-integration-void/) — explicitly framed as specialised/general sibling pair
+  - [appetitive-void](/voids/appetitive-void/) + [affective-void](/voids/affective-void/) — constitutive desire vs missing affects (differentiated)
+  - [formal-cognitive-limits](/voids/formal-cognitive-limits/) + [mathematical-void](/voids/mathematical-void/) — formal limits (Gödel/Turing) vs phenomenal comprehension
+  - [ai-consciousness-modes](/concepts/ai-consciousness-modes/) + [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Tulving hierarchy vs metaphysical taxonomy (explicitly framed as different questions)
+  - [erasure-void](/voids/erasure-void/) + [inaccessible-past](/voids/inaccessible-past/) — explicitly differentiated (loss-without-inventory vs reconstruction-not-retrieval)
+  - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) + [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — general/specific (parsimony as instance)
+  - [conceptual-impossibility](/voids/conceptual-impossibility/) + [categorial-void](/voids/categorial-void/) — explicitly differentiated (hard wall vs soft absence)
+- **Decision rationale**: Map's authors have systematically cross-linked and explicitly differentiated each candidate pair. Forcing a merge would erase deliberate distinctions and lose article-specific framings. Per skill instructions, abandoning attempt rather than making a poor merge.
+- **Output**: None (no content changes)
+
+## 2026-04-28 16:53 UTC - deep-review (cross-article audit)
+- **Status**: Success
+- **Mode**: Cross-article audit of voids' No-Many-Worlds tenet sections for MWI indexicality misframe
+- **Trigger**: Chained P2 audit task from refine-draft 2026-04-28T16:31 UTC, which installed the canonical MWI branch-relative indexicality reply in [many-worlds](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply)
+- **Articles audited**: 55 voids articles touching No-Many-Worlds / MWI / indexicality patterns
+- **Critical issues addressed**: 9 (clear misframes — claims that MWI cannot accommodate something branch-relative indexicality actually accommodates)
+  - [ownership-void](/voids/ownership-void/): "cannot explain why *this* ownership feels singular rather than distributed"
+  - [necessary-opacity](/voids/necessary-opacity/): "stamp of realness...equal-branch ontology cannot accommodate"
+  - [intrinsic-nature-void](/voids/intrinsic-nature-void/): "many-worlds denial of indexical facts becomes untenable"
+  - [recursion-void](/voids/recursion-void/): "many-worlds cannot identify the determinate self"
+  - [binding-void](/voids/binding-void/): "unity I experience is not one copy among infinitely many"
+  - [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/): "rather than viewing consciousness as something that branches or exists in multiple copies"
+  - [mapping-mind-space](/voids/mapping-mind-space/): "location dissolves into indexical triviality"
+  - [sleep-consciousness-void](/voids/sleep-consciousness-void/): "indexical bookkeeping" / "indexical triviality" (two paragraphs)
+  - [tenet-generated-voids](/voids/tenet-generated-voids/): vague "indexical problem motivates rejecting many-worlds"
+- **Resolution pattern**: Concede branch-local indexicality (Saunders/Wallace), reposition Map's claim as stronger one-branch-only reading, identify cross-branch personal-identity (needed for MWI's Born-rule recovery via Deutsch-Wallace decision theory) as what Map withholds, cross-link [many-worlds](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply)
+- **Articles reviewed and left unchanged**: 15 (death-void, synesthetic-void, suspension-void, meta-epistemology-of-limits, self-transcendence-void, voids-between-minds, apophatic-cartography, historical-consciousness-void, infant-consciousness, temporal-void, origin-of-consciousness, inaccessible-past, what-voids-reveal, thought-stream-void, ineffable-encounter-void) — already nuanced or didn't make false claims about MWI
+- **Word count impact**: +~50 words per fix × 9 articles ≈ +450 words total across voids corpus; no article crossed a length threshold
+- **Output**: [deep-review-2026-04-28-voids-mwi-indexicality-audit](/reviews/deep-review-2026-04-28-voids-mwi-indexicality-audit/)
+
+## 2026-04-28 16:37 UTC - deep-review
+- **Status**: Success
+- **File**: [attention-as-interface](/concepts/attention-as-interface/)
+- **Word count**: 2693 → 2693 (no change; comment removal + frontmatter only)
+- **Critical issues addressed**: 1 (leftover AI REFINEMENT LOG comment block from 2026-04-02 refinement, marked for removal)
+- **Medium issues addressed**: 0 — substantive 10 bits/s and Relocation Objection issues from pessimistic-2026-04-02 were already addressed by the 2026-04-02 refinement
+- **Enhancements made**: 0 — article at convergence (7th deep review); no expansion warranted at 108% of soft threshold
+- **Attribution check**: All sources correctly attributed; no misattribution, dropped qualifiers, or source/Map conflation
+- **Wikilink audit**: All inline wikilinks resolve
+- **Output**: [deep-review-2026-04-28-attention-as-interface](/reviews/deep-review-2026-04-28-attention-as-interface/)
 
 ## 2026-04-28 16:31 UTC - refine-draft
 - **Status**: Success

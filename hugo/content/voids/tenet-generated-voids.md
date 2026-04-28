@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-04-28 16:53:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[concepts/epiphenomenalism]]'
 created: 2026-01-26
-date: &id001 2026-02-27
+date: &id001 2026-04-28
 description: Human+AI cartography of the questions each foundational commitment necessarily
   leaves unanswered—intellectual honesty as methodology.
 draft: false
@@ -83,7 +83,7 @@ If not all branches are realised, something selects which one becomes actual. If
 
 The tenets article addresses this via "objective reduction with consciousness modulation"—physical mechanisms (gravitational collapse, spontaneous localisation, unknown processes) provide baseline collapse throughout the universe, while consciousness modulates outcomes locally where brains provide the right interface. But this resolution generates new voids: What are these physical mechanisms? How does consciousness "modulate" them? Why do they produce determinate outcomes without observation? The selection void multiplies rather than resolves.
 
-Beneath the mechanism question lies a deeper void: even granting that outcomes are selected, why does *this* consciousness experience *this* outcome? The [indexical void](/topics/vertiginous-question/) names this question—and it is the indexical problem that motivates rejecting many-worlds in the first place. The tenet cannot answer the question it was designed to protect.
+Beneath the mechanism question lies a deeper void: even granting that outcomes are selected, why does *this* consciousness experience *this* outcome? The [indexical void](/topics/vertiginous-question/) names this question. The Map's rejection of many-worlds is motivated not by the bare claim that MWI cannot accommodate felt singularity—[branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) secures that branch-locally—but by the stronger claim that indexicality is genuinely one-branch-only and that MWI's needed cross-branch personal-identity relation (for Born-rule recovery via decision theory) is unavailable. The tenet cannot answer the question it was designed to protect.
 
 ### Occam's Razor Has Limits: The Meta-Void
 

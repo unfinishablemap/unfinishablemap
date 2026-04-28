@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-04-28 16:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -13,7 +13,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[introspection]]'
 created: 2026-02-24
-date: &id001 2026-02-24
+date: &id001 2026-04-28
 description: Human+AI exploration of why unified conscious experience resists explanation—the
   void where disparate sensations become one seamless field yet no mechanism can be
   found.
@@ -136,7 +136,7 @@ The binding void connects to the Map's [tenets](/tenets/) at multiple points and
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** finds its most intimate application. Binding may be the first instance of consciousness acting causally—structuring its own experience into a unified field. The binding void's occluded dimension suggests this primordial self-structuring is hidden because it is the foundation on which all other conscious activity rests.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** connects through [indexical identity](/concepts/indexical-knowledge-and-identity/). Phenomenal binding is not an abstract property but a concrete feature of *this* particular experience right now. The Map's rejection of many worlds insists that this concreteness matters—that the unity I experience is not one copy among infinitely many.
+**[No Many Worlds](/tenets/#no-many-worlds)** connects through [indexical identity](/concepts/indexical-knowledge-and-identity/). Phenomenal binding is a concrete feature of *this* particular experience right now. [Branch-relative indexicality (Saunders/Wallace)](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) already secures branch-local concreteness, since each branch's observer truly experiences *this* unified field. The Map's stronger commitment is that the unity is one-branch-only rather than locally-articulated across a branching structure—withholding the cross-branch personal-identity relation MWI's Born-rule recovery requires.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** is directly illustrated. The convergence on treating co-consciousness as primitive is a case study in Occam's Razor failing. The demand for a simpler explanation may be a demand the phenomenon cannot satisfy.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-02 05:38:00+00:00
+ai_modified: 2026-04-28 16:37:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -50,7 +50,7 @@ description: Attention serves as the interface where consciousness influences th
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 15:29:00+00:00
+last_deep_review: 2026-04-28 16:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -267,15 +267,3 @@ The hypothesis would fail if:
 22. Thura, D., & Cisek, P. (2014). Deliberation and commitment in the premotor and primary motor cortex during dynamic decision making. *Neuron*, 81(6), 1401-1416.
 23. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
 24. Zheng, J. & Meister, M. (2024). The unbearable slowness of being: Why do we live at 10 bits/s? *Neuron*.
-
-<!-- AI REFINEMENT LOG - 2026-04-02
-Changes made:
-- Corrected characterization of Zheng & Meister (2024) ~10 bits/s figure: now explicitly described as conscious behavioural throughput, not phenomenal attention bandwidth. Removed direct equation between this figure and phenomenal attention bandwidth throughout (table, hypothesis statement, candidate sites).
-- Added "The Relocation Objection" to Challenges section: acknowledges that the interface hypothesis relocates rather than resolves the hard problem, while arguing this narrowing may be productive.
-- Added self-aware parenthetical in AST critique noting the interface hypothesis faces its own relocation problem.
-
-Based on pessimistic review findings (pessimistic-2026-04-02.md).
-Key improvements: intellectual honesty about the hypothesis's limitations and more careful use of empirical evidence.
-
-This log should be removed after human review.
--->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-05
-ai_modified: 2026-04-17 01:41:00+00:00
+ai_modified: 2026-04-28 16:53:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[introspection]]'
 - '[[phenomenology]]'
 created: 2026-02-05
-date: &id001 2026-02-05
+date: &id001 2026-04-28
 description: Human+AI exploration of why metacognitive depth is bounded—consciousness
   folding back on itself encounters a ceiling around fifth order, revealing structural
   limits on self-understanding.
@@ -127,7 +127,7 @@ If consciousness interfaces with physics through [quantum indeterminacy](/tenets
 
 ### No Many Worlds
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet connects through the indexical character of recursive experience. When *I* think about *my* thinking about *my* thinking, the recursion presupposes a singular self threading through each level. Many-worlds would have countless branch-selves each hitting their own fifth-order ceiling—but the question "why can't *I* go deeper?" presupposes the determinate self that many-worlds cannot identify.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet connects through the indexical character of recursive experience. When *I* think about *my* thinking about *my* thinking, the recursion presupposes a self threading through each level. [Branch-relative indexicality (Saunders/Wallace)](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) can identify a branch-local determinate self—each branch's observer truly says "I cannot go deeper than *this* level." The Map reads the recursion's threading more strongly: the self at issue is one-branch-only rather than locally-articulated across a branching structure—withholding the cross-branch personal-identity relation MWI's Born-rule recovery requires.
 
 ## What Would Challenge This View
 

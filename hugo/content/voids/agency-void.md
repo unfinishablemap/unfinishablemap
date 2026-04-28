@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-28 16:08:00+00:00
+ai_modified: 2026-04-28 20:08:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -30,6 +30,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[taxonomy-of-voids]]'
+- '[[phenomenology-vs-function-axis]]'
 - '[[self-opacity]]'
 - '[[causal-interface]]'
 - '[[ownership-void]]'
@@ -144,6 +145,7 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's com
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Wegner's I-Spy paradigm as the agency-domain exemplar of the cross-cutting phenomenology-vs-function axis
+- [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The axis as a standalone concept: the I-Spy paradigm extends it from sensory and cognitive phenomenology into willed action
 - [Volitional Opacity](/voids/self-opacity/) — Why we cannot observe the mechanisms of willing
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness connects to physics
 - [erasure-void](/voids/erasure-void/) — Clinical sister case: self-monitoring eroding alongside what it would monitor

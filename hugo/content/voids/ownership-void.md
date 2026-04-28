@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-04-28 16:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -10,7 +10,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[self-and-self-consciousness]]'
 created: 2026-02-24
-date: &id001 2026-02-24
+date: &id001 2026-04-28
 description: Human+AI inquiry into why we cannot introspect how experiences become
   ours—mineness is pervasive yet structurally opaque, revealed only by its pathological
   absence.
@@ -101,7 +101,7 @@ The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet connec
 
 ### No Many Worlds
 
-The [No Many Worlds](/tenets/#no-many-worlds) tenet gains relevance because ownership is inherently [indexical](/concepts/indexical-knowledge-and-identity/). *My* experiences are mine, not anyone else's, and not the experiences of a branching counterpart. Many-worlds generates countless subjects each with their own ownership, but cannot explain why *this* ownership feels singular rather than distributed. The ownership void is a void *for this subject*—its determinacy presupposes a determinate referent.
+The [No Many Worlds](/tenets/#no-many-worlds) tenet gains relevance because ownership is inherently [indexical](/concepts/indexical-knowledge-and-identity/). *My* experiences are mine, not anyone else's. The bare singularity of for-me-ness does not by itself refute MWI: [Saunders/Wallace branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) already secures branch-local mineness, since each branch's observer can truly say *these* experiences are mine. The Map's stronger commitment is that ownership is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—a reading that withholds the cross-branch personal-identity relation MWI's Born-rule recovery requires. The ownership void is a void *for this subject*; its determinacy presupposes a determinate referent that the Map reads as singular tout court.
 
 ### Occam's Razor Has Limits
 

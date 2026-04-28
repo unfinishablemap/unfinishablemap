@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-28 16:08:00+00:00
+ai_modified: 2026-04-28 20:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -32,6 +32,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[taxonomy-of-voids]]'
+- '[[phenomenology-vs-function-axis]]'
 - '[[cognitive-phenomenology-thinking-experience-2026-01-17]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[pragmatisms-path-to-dualism]]'
@@ -126,6 +127,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that reasoning requires conscious processing
 - [imagery-void](/voids/imagery-void/) — Why the aphantasia evidence is a wedge between phenomenology and cognitive function rather than a proof either is reducible to the other
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Cognitive phenomenology as the comprehension-domain exemplar of the cross-cutting phenomenology-vs-function axis
+- [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The axis as a standalone concept: Strawson's foreign-language argument is the comprehension-domain exemplar
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Which quantum mechanisms must account for cognitive, not just sensory, consciousness
 
 ## References

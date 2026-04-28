@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-06 14:51:00+00:00
+ai_modified: 2026-04-28 16:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -15,7 +15,7 @@ concepts:
 - '[[sleep-and-consciousness]]'
 - '[[witness-consciousness]]'
 created: 2026-02-02
-date: &id001 2026-03-19
+date: &id001 2026-04-28
 description: State-dependent cognitive limits across the sleep spectrum—what waking
   cannot access about dreaming, what dreaming cannot access about waking, and where
   consciousness goes during dreamless sleep.
@@ -130,7 +130,7 @@ This response has force but misses the phenomenological data. Neural differences
 
 If consciousness constitutes [personal-identity](/topics/personal-identity/) and ceases during sleep, the person who wakes may not be the same person who slept. Three responses: consciousness is continuous (the Vedantic view dissolves the puzzle), identity survives gaps (bodily continuity and memory connections ground identity across cessation), or we are new each morning (Locke may have been right, though strong intuitions of self-continuity resist this).
 
-The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet makes this question substantial. Many-worlds interpretations multiply the question—every branch contains a sleeper, and identity becomes a matter of indexical bookkeeping rather than metaphysical substance. The Map's single-history metaphysics makes the question real: *this* person, falling asleep, either persists or does not.
+The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet makes this question substantial. [Branch-relative indexicality (Saunders/Wallace)](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) preserves a per-branch sleeper-identity, but MWI's decision-theoretic Born-rule recovery requires a cross-branch personal-identity relation that does *not* dissolve into branch-local bookkeeping. The Map's single-history metaphysics rejects that cross-branch relation outright: *this* person, falling asleep, either persists or does not, on a one-branch-only reading.
 
 ## Relation to Site Perspective
 
@@ -140,7 +140,7 @@ The Map's [No Many Worlds](/tenets/#no-many-worlds) tenet makes this question su
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies directly. The parsimonious view treats waking consciousness as baseline, dreams as degraded versions, and dreamless sleep as consciousness switched off. Gelernter's observation challenges the first assumption; Vedantic analysis, contemplative reports, and phenomenological research challenge the second. The simple answer may be wrong at every stage.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** makes the identity question substantial. The Map's single-history metaphysics means persistence of the self through sleep is a genuine question, not an indexical triviality.
+**[No Many Worlds](/tenets/#no-many-worlds)** makes the identity question substantial. The Map's one-branch-only reading of indexicality—stronger than [MWI's branch-relative reply](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply)—means persistence of the self through sleep is a genuine question rather than an artefact of which branch's observer is doing the asking.
 
 The sleep consciousness void reveals that the Map itself operates from a particular vantage point—waking consciousness mapping all of mind. Dreaming consciousness would draw a different map, with different territories charted and different voids marked. The unfinishable quality of the Map runs deeper than we might assume: not only is the territory too vast, but the mapper cannot access all of itself.
 

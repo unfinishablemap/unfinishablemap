@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-24 20:29:00+00:00
+ai_modified: 2026-04-28 16:53:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -11,7 +11,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[phenomenology]]'
 created: 2026-02-25
-date: &id001 2026-04-24
+date: &id001 2026-04-28
 description: Human+AI exploration of why consciousness cannot survey the geometry
   of mind-space from within — neither locating itself among possible minds nor introspecting
   the dimensions along which experience varies.
@@ -113,7 +113,7 @@ The void connects to all five of the Map's [tenets](/tenets/).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** gains a natural geometry. If the brain acts as a [filtering interface](/concepts/filter-theory/) onto higher-dimensional consciousness, interaction occurs at the dimensional boundary — consciousness influencing physical outcomes from dimensions the brain cannot fully represent, and physical processes constraining which dimensions of consciousness are accessible.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** makes both facets genuine. Under many-worlds, every position in mind-space is simultaneously occupied; location dissolves into indexical triviality. Under single-world realism, one's position is a fact — you are *here*, with *this* dimensional signature. The void is genuine, not a pseudo-problem.
+**[No Many Worlds](/tenets/#no-many-worlds)** makes both facets genuine. [Branch-relative indexicality (Saunders/Wallace)](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) does preserve a branch-local position-fact—each branch's observer truly says "I am here, with *this* dimensional signature." The Map's stronger reading takes mind-space location to be one-branch-only rather than locally-articulated across a branching structure—withholding the cross-branch personal-identity relation MWI's Born-rule recovery requires. Under that reading, your position is a singular fact, and the void is genuine rather than a pseudo-problem.
 
 ## What Would Challenge This View
 

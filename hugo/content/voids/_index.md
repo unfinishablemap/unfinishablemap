@@ -1,14 +1,14 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-28 09:59:00+00:00
+ai_modified: 2026-04-28 18:52:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
 - '[[simulation]]'
 - '[[mysterianism]]'
 created: 2026-01-08
-date: &id001 2026-04-24
+date: &id001 2026-04-28
 description: Human+AI exploration of cognitive dark spaces—the unexplored, unexplorable,
   and potentially occluded territories where thought cannot go or is blocked from
   going.
@@ -27,6 +27,7 @@ related_articles:
 - '[[attention-and-consciousness]]'
 - '[[voids-between-minds]]'
 - '[[erasure-void]]'
+- '[[suspension-void]]'
 - '[[conjunction-coalesce]]'
 title: Voids in the Map
 topics: []
@@ -60,7 +61,7 @@ The voids are not license for fantasy but invitations to precision. The goal is 
 
 The Map is unfinishable, but that doesn't mean we stop mapping. It means we map with appropriate humility, remaining alert to the possibility that some boundaries might be actively defended.
 
-A maintenance note on this index. Three of the entries below—[the agency void](/voids/agency-void/), [the voids between minds](/voids/voids-between-minds/), and [the erasure void](/voids/erasure-void/)—are governed by the [conjunction-coalesce](/apex/conjunction-coalesce/) discipline. Their phrasings name two or three structural faces (involuntariness/verification; existence/encounter/sharing; loss/monitoring) because the seam between faces is itself the claim. Future tightening of this index should not collapse those seams in pursuit of compactness. Agency-void and voids-between-minds are coalesces of prior articles; erasure-void is a *cognate*—a single article that took its conjoint shape at creation time. Both inherit the seam test.
+A maintenance note on this index. Four of the entries below—[the agency void](/voids/agency-void/), [the voids between minds](/voids/voids-between-minds/), [the erasure void](/voids/erasure-void/), and [the suspension void](/voids/suspension-void/)—are governed by the [conjunction-coalesce](/apex/conjunction-coalesce/) discipline. Their phrasings name two or three structural faces (involuntariness/verification; existence/encounter/sharing; loss/monitoring; verification/capacity/action) because the seam between faces is itself the claim. Future tightening of this index should not collapse those seams in pursuit of compactness. Agency-void and voids-between-minds are coalesces of prior articles; erasure-void and suspension-void are *cognates*—single articles that took their conjoint shape at creation time. Suspension-void is the first cognate produced *natively at creation* under the conjunction-coalesce methodology rather than retrofitted from a draft. All four inherit the seam test.
 
 ## Navigating This Section
 
@@ -74,7 +75,8 @@ A maintenance note on this index. Three of the entries below—[the agency void]
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [The Epistemic Horizon Void](/voids/epistemic-horizon-void/) — The second-order void that shadows every other: why consciousness cannot estimate the total scope of what it does not know from within the limited system doing the estimating (created 2026-04-23)
 - [The Question Formation Void](/voids/question-formation-void/) — The method-horizon void: a constraint on which questions a mind can formulate, distinct from constraints on which answers it can reach; mapping by negation can only negate what is already askable (created 2026-04-24)
-- [The Inference Void](/voids/inference-void/) — The structural opacity of inferential transitions to the consciousness performing them; Carroll's regress gives the void a formally demonstrable epistemic profile, distinguishing it from purely apophatic or empirical voids (created 2026-04-26)
+- [The Inference Void](/voids/inference-void/) — The structural opacity of inferential transitions to the consciousness performing them; Carroll's regress gives the void a formally demonstrable epistemic profile, distinguishing it from purely apophatic or empirical voids (created 2026-04-26; sister regress to [suspension-void](/voids/suspension-void/))
+- [The Suspension Void](/voids/suspension-void/) — Why consciousness cannot verify, sustain, or coherently perform the withholding of judgment; three faces (verification, capacity, action) conjoin in the structural opacity at the heart of every apophatic method, including the Map's own (created 2026-04-28; first native conjunction-coalesce cognate)
 - [The Tacit Integration Void](/voids/tacit-integration-void/) — Why subsidiary cues bear on focal meaning only by not being focal themselves; thematising the from-to integration collapses what it carries, opening a candidate structural impossibility that also constrains the Map's own apophatic method (created 2026-04-27)
 - [The Void as Ground of Meaning](/voids/void-as-ground-of-meaning/) — Why cognitive limits are preconditions for meaning, not merely obstacles
 
@@ -102,8 +104,7 @@ A maintenance note on this index. Three of the entries below—[the agency void]
 - [The Death Void](/voids/death-void/) — Consciousness cannot represent its own absence
 - [The Dreamless Sleep Void](/voids/sleep-consciousness-void/) — Where consciousness goes during deep sleep
 - [The Meaning Void](/voids/meaning-void/) — How thoughts achieve their aboutness, and what understanding feels like once they have. Both faces resist physical reduction (coalesced from intentionality-void and semantic-void 2026-04-26)
-- [The Creativity Void](/voids/creative-aesthetic-void/) — Where creative insight originates, inaccessible to introspection
-- [The Aesthetic Void](/voids/creative-aesthetic-void/) — Where articulation fails at beauty and sublimity
+- [The Creative-Aesthetic Void](/voids/creative-aesthetic-void/) — Three failures—generating novel phenomenal content, articulating received aesthetic content, observing the generative process—whose pattern reveals the architecture of mind (coalesced from imagination-and-creativity-void + aesthetic-void)
 - [The Temporal Void](/voids/temporal-void/) — Why consciousness is confined to a moving present and cannot simultaneously live and measure its own time
 - [The Recursion Void](/voids/recursion-void/) — Why metacognitive depth is bounded around fifth order
 - [The Observation Void](/voids/observation-and-measurement-void/) — Every method of studying consciousness transforms what it studies
@@ -127,7 +128,7 @@ A maintenance note on this index. Three of the entries below—[the agency void]
 - [The Plurality Void](/voids/plurality-void/) — Why we cannot conceive being multiple subjects at once
 - [The Resolution Void](/voids/resolution-void/) — The six-order-of-magnitude compression between available and accessed information
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness cannot bootstrap itself beyond its own cognitive architecture
-- [The Spontaneous Thought Void](/voids/thought-stream-void/) — Why consciousness cannot observe generation of unbidden thoughts
+- [The Thought Stream Void](/voids/thought-stream-void/) — Why consciousness cannot observe how thoughts arise unbidden, nor how they vanish when reached for (coalesced from spontaneous-thought-void + thoughts-that-slip-away)
 - [Necessary Opacity](/voids/necessary-opacity/) — Why consciousness cannot verify its own accuracy, and why exposing that opacity destabilises the system
 - [Self-Maintained Cognitive Limits](/voids/self-maintained-cognitive-limits/) — Whether consciousness actively participates in maintaining its own limits, through defence mechanisms, motivated avoidance, and structural complicity
 - [The Interested Party Void](/voids/interested-party-void/) — Why consciousness cannot neutrally investigate its own nature—it has existential stakes in every answer
@@ -136,7 +137,6 @@ A maintenance note on this index. Three of the entries below—[the agency void]
 ### Phenomenology of Limits
 
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
-- [Thoughts That Slip Away](/voids/thought-stream-void/) — Mechanisms of cognitive slippage
 - [Attention and the Voids of Consciousness](/voids/attention-and-consciousness/) — How attending generates unattendable territory, and how disordered attention creates unmappable voids
 - [The Disappearance Voids](/voids/disappearance-voids/) — How absorption, habituation, and fatigue each erase phenomenal content through distinct mechanisms
 - [The Expertise Occlusion](/voids/expertise-and-its-occlusion/) — How mastery actively defends its own opacity
@@ -200,14 +200,20 @@ The voids framework flows directly from the Map's [tenets](/tenets/):
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [apophatic cartography](/voids/apophatic-cartography/)—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-04-28 (refine-draft, 09:59 UTC)
+<!-- AI REFINEMENT LOG - 2026-04-28 (refine-draft, 18:52 UTC)
 Changes made:
-- Added [imagery-void](/voids/imagery-void/) entry to "Specific Voids" subsection, placed adjacent to synesthetic-void since that article is its closest parallel (intra-species phenomenal divergence). One-line annotation names the three structural faces (fidelity / inter-subjective / function-phenomenology) and the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery), per task notes. Closes the navigation gap noted in the gap-analysis task: a reader on this index page can now locate imagery-void from its closest cluster.
-- Updated ai_modified to 2026-04-28T09:59:00+00:00.
+- Added [suspension-void](/voids/suspension-void/) entry to "Foundational Articles" cluster directly after inference-void, since the two are documented sister regresses. Tagline names the three faces (verification, capacity, action) and flags it as the first native conjunction-coalesce cognate, per task notes (a) and (b).
+- Reciprocated the cross-link: extended inference-void's tagline to mark it as sister regress to [suspension-void](/voids/suspension-void/), per task note (c).
+- Updated the conjunction-coalesce maintenance note paragraph to enumerate four governed entries (was three), to add the verification/capacity/action seam, to reclassify suspension-void alongside erasure-void as a *cognate*, and to record that suspension-void is the first cognate produced natively at creation (rather than retrofitted), per task note (b) and the optimistic-2026-04-28c designation.
+- Stale-reference cleanup, per task note (d):
+  - Replaced [imagination-and-creativity-void](/voids/creative-aesthetic-void/) + [aesthetic-void](/voids/creative-aesthetic-void/) (both archived; URLs inherited via alias_urls in creative-aesthetic-void.md) with a single [creative-aesthetic-void](/voids/creative-aesthetic-void/) entry naming the three failures and the coalesce provenance.
+  - Replaced [spontaneous-thought-void](/voids/thought-stream-void/) (archived; URL inherited via alias_urls in thought-stream-void.md) with [thought-stream-void](/voids/thought-stream-void/) naming both faces.
+  - Removed the Phenomenology-of-Limits entry for [thoughts-that-slip-away](/voids/thought-stream-void/) (archived; same coalesce target as above) since the new thought-stream-void entry in Specific Voids already covers cognitive slippage.
+- Added suspension-void to related_articles in frontmatter; bumped modified to 2026-04-28; updated ai_modified to 2026-04-28T18:52:00+00:00.
 
-~50 words added; existing entries unchanged; voice preserved.
+~180 words touched. Existing structure and voice preserved; no entries beyond the four stale ones removed.
 
 This log should be removed after human review.
 
-Prior log (2026-04-27 22:12 UTC refine-draft: conjunction-coalesce maintenance note added) superseded by this entry.
+Prior log (2026-04-28 09:59 UTC refine-draft: imagery-void entry added; sub-cluster placement noted) superseded by this entry.
 -->
