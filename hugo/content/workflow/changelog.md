@@ -1,13 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 05:12:00+00:00
+ai_modified: 2026-04-28 05:42:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 05:42 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/)
+- **Context**: Third review pass (36 days since last). Confirms full convergence — both 2026-03-23 reviews found article stable.
+- **Word count**: 2655 → 2659 (+4; well below soft threshold of 3000 for topics/)
+- **Critical issues addressed**: 0 (none found; bedrock disagreements from prior reviews not re-flagged)
+- **Medium issues addressed**: 1 (added year to inline Dietrich citation for consistency with all other inline cites)
+- **Enhancements made**: 1 (citation consistency fix only)
+- **Output**: [deep-review-2026-04-28-consciousness-and-skill-acquisition](/reviews/deep-review-2026-04-28-consciousness-and-skill-acquisition/)
+- **Stability**: Article fully converged after three reviews. Stability notes in review archive document MQI hedging, Macnamara figures, "no MWI engagement" decision, and bedrock philosophical disagreements (eliminativist, physicalist, Buddhist) to prevent re-oscillation.
+
+## 2026-04-28 05:29 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Context**: Cross-review considering [imagery-void](/voids/imagery-void/) (created 2026-04-28) — sixth review pass; integrated function-phenomenology dissociation as additional empirical anchor for liberalism
+- **Word count**: 3364 → 3371 (+7; length-neutral; remains soft_warning at 135% of 2500 target)
+- **Critical issues addressed**: 0 (no critical issues found — fifth-pass convergence held)
+- **Medium issues addressed**: 2 (added imagery-void cross-link in §Evidence from Unusual Cases with Kay et al. 2024 + Lennon 2023 attributions; trimmed redundant Map-position paragraph in §AI Implications that duplicated immediately-following subsection)
+- **Enhancements made**: 1 substantive cross-link with new attributions; 1 length-neutral trim
+- **Output**: [deep-review-2026-04-28-cognitive-phenomenology](/reviews/deep-review-2026-04-28-cognitive-phenomenology/)
+- **Stability**: Sixth review pass; convergence pattern continues. The imagery-void integration strengthens response to Sensory Accompaniment (Tye/Dretske) counterargument — within-species function-phenomenology wedge documented in review archive to prevent future re-oscillation
 
 ## 2026-04-28 05:12 UTC - deep-review
 - **Status**: Success

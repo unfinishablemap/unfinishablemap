@@ -4,7 +4,7 @@ description: "Skill acquisition challenges epiphenomenalism—deliberate practic
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-04-23T06:38:00+00:00
+ai_modified: 2026-04-28T05:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -63,7 +63,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-19
 last_curated:
-last_deep_review: 2026-03-23T04:51:00+00:00
+last_deep_review: 2026-04-28T05:42:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-skilled-performance/"
   - "/topics/consciousness-and-the-neuroscience-of-deliberate-practice/"
@@ -145,7 +145,7 @@ The strongest physicalist counterargument is that executive attention networks e
 
 ## Relation to Site Perspective
 
-**[[tenets#^dualism|Dualism]]**: Skill acquisition reveals a gap between physical description and lived experience that property dualism predicts. Two bodies can be physically identical yet phenomenologically different—one a pianist's body, the other a non-pianist's—because the body schema carries a history of conscious engagement that physical description does not capture. Flow deepens this gap: the most vivid form of consciousness coincides with reduced top-down neural control (Dietrich's transient hypofrontality), a pattern dualism predicts but materialism must explain away.
+**[[tenets#^dualism|Dualism]]**: Skill acquisition reveals a gap between physical description and lived experience that property dualism predicts. Two bodies can be physically identical yet phenomenologically different—one a pianist's body, the other a non-pianist's—because the body schema carries a history of conscious engagement that physical description does not capture. Flow deepens this gap: the most vivid form of consciousness coincides with reduced top-down neural control (Dietrich, 2004—transient hypofrontality), a pattern dualism predicts but materialism must explain away.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: This article's central finding. The neuroscience of deliberate practice provides the Map's strongest empirical case against epiphenomenalism: conscious engagement activates different neural circuits, produces different plasticity, triggers different sleep-dependent consolidation, and drives different structural changes compared to passive exposure. The body constrains consciousness through its existing habitual repertoire. Each direction of influence is separately demonstrable. The identity theorist can accommodate these findings by identifying conscious engagement with the relevant neural patterns; the epiphenomenalist cannot explain the systematic covariation between engagement quality and outcome specificity. The Map reads this as genuine bidirectional causation—consciousness sculpting the body schema through skilled practice and re-engaging when skills must change.
 
