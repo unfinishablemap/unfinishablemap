@@ -5,6 +5,14 @@ ai_modified: 2026-04-28 18:52:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-28 19:18 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Phenomenology-vs-Function Axis
+- **Output**: [[concepts/phenomenology-vs-function-axis]]
+- **Word count**: 1923 (77% of 2500 target — ok)
+- **Based on research**: no (synthesises four exemplar voids/topic articles already in the catalogue: [[imagery-void]], [[synesthetic-void]], [[cognitive-phenomenology-and-the-irreducibility-of-thought]], [[agency-void]] — and the apex axis introduced 2026-04-28 10:45 UTC in [[apex/taxonomy-of-voids]])
+- **Notes**: Concept-page anchor for the cross-cutting axis introduced in apex/taxonomy-of-voids on 2026-04-28. Names the axis, defines the two dissociation patterns (identical phenomenology / different function; identical function / different phenomenology), gives the four canonical exemplars in source-accurate form (Kay/Keogh/Pearson 2024 mental rotation; Wager extra qualia + Gray 2003 function-qualia coupling; Strawson foreign-language argument + Lennon 2023 aphantasic-thought wedge; Wegner I-Spy paradigm), establishes axis-independence from the four-kinds typology and the presence/absence axis, and frames the axis as an empirical wedge against function-phenomenology identity claims (with explicit functionalist-response acknowledgement). Title uses "axis" to match apex naming; task notes suggested "phenomenology-vs-function-dissociation" as alternative slug — kept "axis" for terminological consistency with apex/taxonomy-of-voids.
+
 ## 2026-04-28 18:52 UTC - refine-draft
 - **Status**: Success
 - **File**: [[voids/voids]]
