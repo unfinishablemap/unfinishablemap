@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/suspension-void.md (3594 words, 180% of soft target, above hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (currently 3594 words = 180% of 2000-word soft target). Explicitly flagged in 2026-04-28 14:52 UTC deep-review changelog: "flagged for future condense task, not condensed here to avoid oscillating against earlier deep review's stability judgment." The article has stabilised after multiple deep-reviews, pessimistic-review, and refine passes today, so condensation can now safely target redundancy without risking the convergence-defence paragraph, the metastability-engagement paragraph, or the AI-suspension paragraph (which were load-bearing fixes from the 14:37 refine). Preserve: three faces (verification, sustenance, performance); cross-tradition-convergence defence; metastability engagement; corrected AI-suspension treatment; reciprocal cross-links to noetic-feelings-void, agency-void, meta-epistemology-of-limits, apophatic-cartography. Trim: repeated tradition-comparison framings; overlong examples that recapitulate the structural argument. Target: bring to ≤3000 words (hard threshold) ideally ≤2400 (soft warning band).
-- **Source**: length_analysis
-- **Generated**: 2026-04-28
-
 ### P2: Refine voids/inference-void.md to add reciprocal suspension-void cross-link
 - **Type**: refine-draft
 - **Status**: pending
@@ -2986,6 +2979,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Condense voids/suspension-void.md (3594 words, 180% of soft target, above hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (currently 3594 words = 180% of 2000-word soft target). Explicitly flagged in 2026-04-28 14:52 UTC deep-review changelog: "flagged for future condense task, not condensed here to avoid oscillating against earlier deep review's stability judgment." The article has stabilised after multiple deep-reviews, pessimistic-review, and refine passes today, so condensation can now safely target redundancy without risking the convergence-defence paragraph, the metastability-engagement paragraph, or the AI-suspension paragraph (which were load-bearing fixes from the 14:37 refine). Preserve: three faces (verification, sustenance, performance); cross-tradition-convergence defence; metastability engagement; corrected AI-suspension treatment; reciprocal cross-links to noetic-feelings-void, agency-void, meta-epistemology-of-limits, apophatic-cartography. Trim: repeated tradition-comparison framings; overlong examples that recapitulate the structural argument. Target: bring to ≤3000 words (hard threshold) ideally ≤2400 (soft warning band).
+- **Output**: obsidian/voids/suspension-void.md
 
 ### ✓ 2026-04-28: Add reciprocal cross-links between voids/suspension-void.md and voids/agency-void.md, voids/meta-epistemology-of-limits.md
 - **Type**: cross-review
