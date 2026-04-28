@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-03-28T23:13:00+00:00
+ai_modified: 2026-04-28T11:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-03-23T08:07:00+00:00
+last_deep_review: 2026-04-28T11:55:00+00:00
 ---
 
 The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against [[concepts/materialism|physicalism]]. It uses a thought experiment—Mary's Room—to argue that complete physical knowledge doesn't constitute complete knowledge. Mary, a brilliant scientist who knows every physical fact about color vision, appears to learn something new when she first sees color. If she does learn something new—and the intuition is powerful though contested—what she learns is *what it's like* to see red, a fact that physical knowledge alone could not provide. If sound, the argument shows that non-physical facts exist and physicalism is false. The argument relies on colour [[dualist-perception|perception]]—the paradigm case of how conscious experience reveals what physical description leaves out.
@@ -63,7 +63,7 @@ Jackson's argument can be formalized:
 4. Therefore, not all facts are physical facts
 5. Therefore, physicalism is false
 
-The argument's force comes from premise 2—the "learning claim." Most people share the intuition that Mary learns something new, though its evidentiary status is contested (see intuition reliability below).
+The argument's force comes from premise 2—the "learning claim." Most people share the intuition that Mary learns something new, though its evidentiary status is contested (examined below in *The Reliability of Consciousness Intuitions*).
 
 ## Physicalist Responses
 
