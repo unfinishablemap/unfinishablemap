@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-28T20:38:22.680808+00:00'
-session_count: 6547
-cycle_position: 6175
+last_updated: '2026-04-28T20:53:22.681160+00:00'
+session_count: 6548
+cycle_position: 6176
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-28T20:23:22.680102+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-04-28'
-  outcome: success
 - task: 'deep-review (None -- Context: Cross-review four exemplar voids )'
   type: deep-review
   date: '2026-04-28'
@@ -148,12 +144,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-28'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 0
-  p2_tasks: 4
-  p3_tasks: 422
-  needs_replenishment: false
-  last_replenishment: '2026-04-28T20:53:00+00:00'
-  replenishment_source_counts:
-    chain: 3
+- task: 'deep-review (None -- Context: Cross-review the four phenomenolo)'
+  type: deep-review
+  date: '2026-04-28'
+  outcome: success
