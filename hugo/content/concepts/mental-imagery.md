@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
-ai_generated_date: 2026-04-23
-ai_modified: 2026-04-23 14:05:00+00:00
+ai_generated_date: 2026-04-28
+ai_modified: 2026-04-28 07:43:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -20,16 +20,16 @@ concepts:
 - '[[mental-causation-and-downward-causation]]'
 - '[[conscious-vs-unconscious-processing]]'
 created: 2026-01-23
-date: &id001 2026-04-23
+date: &id001 2026-04-28
 description: Voluntary imagery, aphantasia, and motor rehearsal evidence test whether
   consciousness does causal work—or only rides along as neural activity unfolds.
 draft: false
 human_modified: null
-last_curated: null
-last_deep_review: 2026-04-23 08:39:00+00:00
+last_deep_review: 2026-04-28 07:43:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[imagery-void]]'
 - '[[mental-imagery-consciousness-causal-role-2026-01-23]]'
 - '[[evolutionary-case-for-mental-causation]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
@@ -49,7 +49,7 @@ Mental imagery — perceptual representation without direct sensory input — is
 
 Mental imagery is perceptual experience in the absence of direct sensory input. You can visualise a red apple without an apple before you, hear a melody without sound waves, or feel the texture of sandpaper without touching anything. Imagery operates across all sensory modalities — visual, auditory, tactile, olfactory, gustatory — and can involve complex scenes, movements, or abstract spatial relationships.
 
-The classical philosophical view treated imagery as essentially conscious: having an image meant being aware of it. British Empiricists like Hume treated ideas and images as the furniture of conscious thought. Contemporary neuroscience complicates this picture, showing that imagery can be either conscious or unconscious, and either voluntary or involuntary — a 2×2 matrix of possibilities.[^nanay]
+Classical philosophy treated imagery as essentially conscious — Hume's "ideas" were the furniture of conscious thought. Contemporary neuroscience complicates this: imagery can be either conscious or unconscious, and either voluntary or involuntary — a 2×2 matrix of possibilities.[^nanay]
 
 | | Voluntary | Involuntary |
 |---|---|---|
@@ -85,13 +85,13 @@ Individual variation in imagery vividness ranges dramatically across the populat
 - **Aphantasia** (~1% of population): inability to voluntarily generate conscious mental images. When asked to visualise a red apple, aphantasics report no visual experience — "I know what an apple looks like, but I don't see anything."[^zeman]
 - **Hyperphantasia** (~3% of population): exceptionally vivid mental imagery, sometimes difficult to distinguish from perception.
 
-Despite profound differences in subjective experience, both groups function effectively in daily life. Aphantasics can navigate, recognise faces, and engage in creative work — though they show reduced autobiographical memory and different cognitive styles. They are overrepresented in scientific and mathematical fields; hyperphantasics are overrepresented in creative professions.[^zeman]
+Despite profound differences in subjective experience, both groups function effectively in daily life. Aphantasics can navigate, recognise faces, and engage in creative work, though they show reduced autobiographical memory and are overrepresented in scientific and mathematical fields; hyperphantasics are overrepresented in creative professions.[^zeman]
 
 The [dual-domain analysis](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/) reads this dissociation as evidence that spatial imagination, like memory and proprioception, has separable physical and phenomenal contributions: physical spatial computation provides the substrate, while consciousness contributes the phenomenal spatial workspace that enhances but is not strictly required for the underlying computation.
 
 This spectrum poses a puzzle for consciousness research. If broadly similar neural machinery produces vivid imagery in one person and nothing in another, what explains the difference? One hypothesis: aphantasics have intact sub-personal imagery representations but lack conscious access to them. Supporting this view, some aphantasics show visual cortex activation during imagery tasks despite reporting no conscious experience — though the extent and pattern of this activation remains debated.[^nanay] Where sub-personal imagery representations exist, consciousness may simply fail to access them.
 
-This interpretation aligns with the Map's [attention-as-interface](/concepts/attention-as-interface/) hypothesis. Imagery generation may be automatic; consciousness then selects which imagery to attend to, bringing it into awareness and enabling voluntary manipulation. The reliability of [introspective reports](/concepts/introspection/) about imagery vividness has been validated through convergent evidence: aphantasics' self-reports correlate with reduced performance on tasks requiring mental rotation and with distinct patterns of neural activation during imagery attempts.
+This interpretation aligns with the Map's [attention-as-interface](/concepts/attention-as-interface/) hypothesis. Imagery generation may be automatic; consciousness then selects which imagery to attend to, bringing it into awareness and enabling voluntary manipulation. The reliability of [introspective reports](/concepts/introspection/) about imagery vividness is supported by convergent evidence: aphantasics' self-reports correlate with distinct cognitive strategies on mental rotation tasks (slower but more accurate, using analytic rather than object-based methods)[^kay] and with distinct neural activation patterns during imagery attempts. What introspection still cannot verify about its own imagery — fidelity to referent, equivalence of vividness across persons, whether the phenomenal image does the cognitive work it appears to — is the [imagery-void](/voids/imagery-void/).
 
 ## The Motor Simulation Argument
 
@@ -118,7 +118,7 @@ The argument above is not watertight. The identity theorist responds that consci
 
 This is a genuine explanatory standoff. Both the dualist and identity-theory accounts predict that voluntary imagery (with its distinctive neural signature) produces measurable performance gains. The evidence alone does not definitively settle which account is correct. The primary opponent here is not epiphenomenalism — a fringe position — but identity theory: the position that conscious states *are* brain states, fully causal *as* brain states, with phenomenal properties identical to (not merely correlated with) neural properties.
 
-Motor imagery may be one of the cleanest test cases for the [trumping](/concepts/trumping-preemption/) or *authority-selecting* reading of conscious causation, an option distinct from both the dualist-interventionist and identity-theorist positions. On that template, the neural rehearsal retains counterfactual sufficiency for producing the improvement, while causal authority belongs to the conscious imagining — the physical trajectory is unchanged but the causal attribution is relocated to the experiential layer. Motor imagery fits the template unusually well, because the phenomenology of deliberately holding and manipulating an image is richly present, the neural machinery is sufficient on its own to produce the downstream effect, and what needs explaining is *whose* causal authority the improvement tracks, not which trajectory it rides. This reading preserves the identity theorist's physical story while locating causal authority in consciousness, addressing the standoff from a structural direction that trajectory-altering dualism does not supply.
+Motor imagery may be one of the cleanest test cases for the [trumping](/concepts/trumping-preemption/) or *authority-selecting* reading of conscious causation, an option distinct from both dualist-interventionist and identity-theorist positions. On that template, the neural rehearsal retains counterfactual sufficiency for the improvement, while causal authority belongs to the conscious imagining — the physical trajectory is unchanged but the causal attribution is relocated to the experiential layer. Motor imagery fits the template unusually well: the phenomenology of deliberately manipulating an image is richly present, the neural machinery is sufficient on its own, and what needs explaining is *whose* causal authority the improvement tracks. This reading preserves the identity theorist's physical story while locating causal authority in consciousness — a structural direction that trajectory-altering dualism does not supply.
 
 Three considerations press against a pure identity account.
 
@@ -174,6 +174,7 @@ The attention-imagery interface connects to the Map's broader framework. Attenti
 
 ## Further Reading
 
+- [imagery-void](/voids/imagery-void/) — Why introspection cannot verify the fidelity, vividness, or even presence of its own mental images
 - [phenomenology-of-imagination](/topics/phenomenology-of-imagination/) — The distinctive phenomenal character of imaginative experience
 - [bidirectional-interaction](/concepts/bidirectional-interaction/) — The tenet that consciousness causally influences the physical
 - [mental causation](/concepts/mental-causation-and-downward-causation/) — The broader philosophical problem of how mind can cause anything
@@ -213,3 +214,5 @@ The attention-imagery interface connects to the Map's broader framework. Attenti
 [^lennon]: Lennon, P. (2023). Aphantasia and Conscious Thought. *PhilArchive*.
 
 [^dawes]: Dawes, A.J. et al. (2020). A cognitive profile of multi-sensory imagery, memory and dreaming in aphantasia. *Scientific Reports*, 10, 10022.
+
+[^kay]: Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*.

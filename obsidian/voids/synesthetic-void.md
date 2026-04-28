@@ -4,7 +4,7 @@ description: "Human+AI exploration of how synesthesia reveals experiential dimen
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-28T07:57:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -25,12 +25,13 @@ related_articles:
   - "[[functionalism]]"
   - "[[filter-theory]]"
   - "[[knowledge-argument]]"
+  - "[[imagery-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-03-10T17:23:00+00:00
+last_deep_review: 2026-04-28T07:57:00+00:00
 ---
 
 Synesthesia—the involuntary experience of one sensory modality when another is stimulated—reveals that humans do not share the same experiential palette. Some minds perceive colours when hearing sounds, shapes when tasting food, or spatial arrangements when reading calendars. A few synesthetes report "Martian colours" that cannot be matched to any sample in the visible spectrum. The synesthetic void marks this territory: a gap in phenomenal access that exists not between humans and hypothetical aliens, but between humans and other humans. It is the other minds problem made concrete within a single species.
@@ -83,6 +84,8 @@ This asymmetry has implications for the [[voids-between-minds]]. The standard ot
 
 The finding that most synesthetic experience is "mediated through semantics" (van Leeuwen et al., 2015) adds another layer. Meaning shapes qualia—conceptual and semantic processing in the synesthete generates additional phenomenal states that identical semantic processing in the non-synesthete does not. If meaning itself has a phenomenal dimension that varies across minds, the intersubjective void is deeper than the privacy of sensation. It extends into the privacy of understanding.
 
+The [[imagery-void]] catalogues a parallel within-species divergence with a different structure. Where synesthesia adds qualia beyond the standard palette, the aphantasia/hyperphantasia spectrum reveals that the very *vividness* of mental imagery—what the introspective vocabulary of "seeing in the mind's eye" is supposed to track—varies wildly across phenomenologically equipped minds, sometimes to the point of complete absence. The two voids together dismantle the assumption that ordinary phenomenal language picks out a shared experiential repertoire: in synesthesia the disparity is in *what* is experienced; in the imagery spectrum it is in *whether* the inner image is there at all.
+
 ## Relation to Site Perspective
 
 The synesthetic void connects directly to the Map's [[tenets|foundational commitments]]:
@@ -98,6 +101,7 @@ The synesthetic void connects directly to the Map's [[tenets|foundational commit
 ## Further Reading
 
 - [[voids]] — The broader framework for investigating cognitive limits
+- [[imagery-void]] — A parallel intra-species phenomenal divergence in mental imagery rather than qualia
 - [[affective-void]] — Emotions beyond human reach—a parallel void in the feeling dimension
 - [[voids-between-minds]] — Existence, encounter, and sharing across individual consciousnesses
 - [[consciousness-only-territories]] — What only phenomenal experience can access
