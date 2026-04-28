@@ -37,6 +37,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Update wikilinks pointing to coalesced laws/dispositions articles
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-04-28 00:13 UTC merged `topics/consciousness-and-the-metaphysics-of-laws.md` and `topics/consciousness-and-the-ontology-of-dispositions.md` into the new `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md`. Sources are now archived. 35 active obsidian files contain wikilinks to the old slugs that should be updated to point to the new unified article. Confirmed inbound references in: `topics/the-epiphenomenalist-threat.md`, `topics/russellian-monism-versus-bi-aspectual-dualism.md`, `topics/consciousness-and-the-authority-of-formal-systems.md`, `topics/consciousness-and-causal-powers.md`, `concepts/knowledge-argument.md`, `concepts/explanatory-gap.md`, `concepts/causal-powers.md` and others. Run `grep -rl "consciousness-and-the-metaphysics-of-laws\b\|consciousness-and-the-ontology-of-dispositions" obsidian/ | grep -v archive` to enumerate. Archive redirects preserve URLs but active cross-references should point to the unified article. Reviews and workflow archives can be left as-is.
+- **Source**: chain (from coalesce 2026-04-28)
+- **Generated**: 2026-04-28
+
+### P1: Condense consciousness-and-the-metaphysics-of-laws-and-dispositions.md (4937 words, 165% of target)
+- **Type**: condense
+- **Notes**: Newly-coalesced article (2026-04-28 00:13 UTC) inherits combined length of two source articles and exceeds the 4000-word hard threshold for `topics/` (165% of the 3000-word target). Condense should preserve both core arguments — the laws strand (Humean regularity vs governing-laws debate, where consciousness fits) and the dispositions strand (categorical vs powers ontology, mental causation under each) — while removing redundancy that surfaced during the merge: overlapping framing of nomological vs powers metaphysics, repeated examples between sections, and any duplicated tenet-alignment passages. Cross-link to `concepts/causal-powers.md`, `concepts/mental-causation.md`, and `topics/consciousness-and-causal-powers.md` to defer detail. Target post-condense length: 3000-3500 words. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-28
+
+### P2: Write voids article on the Imagery Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-imagery-void-2026-04-28.md` (created 2026-04-28 00:55 UTC). Imagery void concerns the structural inaccessibility of the act of imagining itself — what cannot be imagined, how aphantasia/hyperphantasia delimit the space, and why imagery is constitutively unable to grasp its own constitution. Research note specifies `target_section: voids` and lists cross-link candidates: `[[synesthetic-void]]`, `[[commensurability-void]]`, `[[acquaintance-void]]`, `[[plenitude-void]]`, `[[necessary-opacity]]`, plus concepts `[[simulation]]` and `[[mysterianism]]`. Voids cap currently 97/100 — has capacity for one more article before pause. Verify distinctness from `voids/synesthetic-void.md` (which concerns cross-modal phenomenology) and `voids/acquaintance-void.md` (which concerns the limit of report) before writing. Scope: 2000-2500 words. Tenet alignment: Dualism (imagery's resistance to neural-correlate inventory), Occam's Razor Has Limits (aphantasia heterogeneity defeats unitary mechanism stories).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-28
+
+### P2: Integrate constitutive-vs-referring-observation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-04-26 has zero inbound wikilinks across active obsidian content (excluding workflow/reviews). The article distinguishes constitutive observation (where the observation itself partly constitutes what is observed) from referring observation (where observation reports an independent fact) — a distinction load-bearing for measurement-problem analysis and for first-person reports. Candidate integration sites: `concepts/measurement-problem.md`, `concepts/observer-effect.md`, `concepts/quantum-measurement.md`, `concepts/von-neumann-wigner-interpretation.md`, `concepts/introspection.md`, `topics/phenomenology-of-observation.md` (if exists), `topics/methodology-of-consciousness-research.md`, and any apex piece on observation/measurement. Add reciprocal cross-links and check whether the section index pages list the article. Short scope (~200-400 words across 4-6 articles).
+- **Source**: orphan_integration
+- **Generated**: 2026-04-28
+
+### P2: Add reciprocal cross-links from neighbour concepts to carrolls-regress.md
+- **Type**: cross-review
+- **Notes**: File created 2026-04-26 has only 1 inbound wikilink across active obsidian content — borderline orphan. Carroll's regress concerns the inferential gap between premises and acceptance of a conclusion (the Tortoise's challenge) and bears structurally on hard-problem-of-content, on inference-void (created 2026-04-26 with 11 inbound links — likely a strong candidate for reciprocal linking), on `concepts/intentionality.md`, `concepts/normativity-of-content.md` (if exists), `concepts/tacit-knowledge.md` (or analogue), and on `voids/tacit-integration-void.md` (created 2026-04-27 — same cohort, structurally adjacent). Also check `topics/eliminative-materialism.md` (2026-04-26) for whether the regress argument should appear there. Add cross-links and inbound references to integrate the article into the conceptual neighbourhood. Short scope (~200-400 words across 4-6 articles).
+- **Source**: orphan_integration (near-orphan, 1 inbound link)
+- **Generated**: 2026-04-28
+
 ### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
 - **Type**: apex-evolve
 - **Status**: pending
