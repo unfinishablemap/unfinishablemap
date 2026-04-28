@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 14:22:00+00:00
+ai_modified: 2026-04-28 14:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 14:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/suspension-void]]
+- **Context**: Addressing pessimistic-2026-04-28c (4 critical issues, 3 counterarguments, 6 citation gaps)
+- **Changes**:
+  - Removed two cliché-banned "Y, not X" formulations (lines 45 closing the lede; line 147 closing the Tenets section)
+  - Softened cross-tradition convergence claim and added defence paragraph addressing shared lineage / shared conceptual confusion / selection bias
+  - Rewrote Dualism tenet section to engage neural metastability literature (Tognoli & Kelso 2014; Deco et al. 2009; Friston) directly rather than asserting "no obvious physical analogue"
+  - Rewrote AI-suspension paragraph: corrected autoregressive misdescription (logits = distribution; sampling = projection); recast Tree-of-Thoughts as parallel branch-search-and-select (cited Yao et al. 2023)
+  - Addressed dispositional reply (verification face): "first-person tests are heuristics whose reliability is in question"
+  - Addressed trainability reply (premature closure): conceded external-scaffold mitigation; framed as architectural-vs-pedagogical underdetermination
+  - Addressed MWI indexical reply: acknowledged Saunders/Wallace branch-relative indexicality; narrowed claim to felt-cost-of-suspension
+  - Added citations: Graber/Franklin/Gordon 2005, Roets & Van Hiel 2007 + Mannetti et al. 2002, Greenberg/Pyszczynski/Solomon (TMT), Tognoli & Kelso 2014 + Deco et al. 2009, Yao et al. 2023, Saunders/Wallace (MWI)
+- **Word count change**: near-neutral (~+150 net from convergence-defence paragraph + metastability-engagement rewrite, offset by terser AI paragraph)
+- **Tenet alignment**: Occam's-Limits preserved (load-bearing); Dualism tenet section now engages metastability honestly
+- **Published**: yes
 
 ## 2026-04-28 14:22 UTC - pessimistic-review
 - **Status**: Success
