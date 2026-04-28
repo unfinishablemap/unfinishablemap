@@ -4,7 +4,7 @@ description: "Subsidiary cues bear on a focal meaning only by not being focal th
 created: 2026-04-27
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-27T13:46:00+00:00
+ai_modified: 2026-04-28T03:13:00+00:00
 last_deep_review: 2026-04-27T13:46:00+00:00
 draft: false
 topics:
@@ -25,6 +25,7 @@ related_articles:
   - "[[noetic-feelings-void]]"
   - "[[binding-void]]"
   - "[[inference-void]]"
+  - "[[carrolls-regress]]"
   - "[[apophatic-cartography]]"
   - "[[limits-reveal-structure]]"
   - "[[disappearance-voids]]"
@@ -115,6 +116,7 @@ A third limitation: described from inside human integration. Minds with differen
 - [[attention-and-consciousness]] — Gurwitsch-style figure–ground organisation, distinct from the bearing relation
 - [[binding-void]] — Integration of qualia across modalities; a different level
 - [[inference-void]] — A narrower case: the from-to structure applied to logical transitions
+- [[carrolls-regress]] — Carroll's 1895 dialogue: stating the rule cannot do what following the rule does, the same shape applied to inference
 - [[acquaintance-void]] — The gap between having an experience and describing it
 - [[noetic-feelings-void]] — Felt verdicts whose generation is opaque
 - [[meaning-void]] — Whether meaning can be analysed at all

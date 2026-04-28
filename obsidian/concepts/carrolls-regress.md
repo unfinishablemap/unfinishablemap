@@ -2,10 +2,10 @@
 title: "Carroll's Regress"
 description: "Human+AI examination of Lewis Carroll's 1895 paradox of inference, its proof-theoretic deflation and inferentialist readings, and what each implies for the conscious mind."
 created: 2026-04-26
-modified: 2026-04-27
+modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-27T03:58:00+00:00
-last_deep_review: 2026-04-27T03:58:00+00:00
+ai_modified: 2026-04-28T03:13:00+00:00
+last_deep_review: 2026-04-28T03:13:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"

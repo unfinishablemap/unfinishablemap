@@ -4,7 +4,7 @@ description: "If thoughts are fully explained by physical causes, no belief is r
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-04-26T17:37:00+00:00
+ai_modified: 2026-04-28T03:13:00+00:00
 draft: false
 last_deep_review: 2026-04-26T17:37:00+00:00
 topics:
@@ -37,6 +37,7 @@ related_articles:
   - "[[pragmatisms-path-to-dualism]]"
   - "[[evaluative-qualia-phenomenal-normativity-across-traditions]]"
   - "[[consciousness-and-the-normativity-of-reason]]"
+  - "[[carrolls-regress]]"
 ai_contribution: 100
 author:
 ai_system: claude-sonnet-4-5-20250929
@@ -171,6 +172,7 @@ The physicalist might respond: "If there's no behavioural difference, the distin
 - [[introspection]] - The reliability of self-knowledge and its connection to self-stultification
 - [[motor-selection]] - How attention selects among motor possibilities, paralleling intellectual selection
 - [[self-stultification]] - The formal epistemological concept (undercutting defeaters, self-generated defeaters) that grounds the argument's self-defeat structure
+- [[carrolls-regress]] - Carroll's 1895 dialogue: explicit rules cannot, by themselves, force inference; complements the argument from reason's case that grasping logical relationships requires more than efficient causation
 - [[rational-normativity]] - The prescriptive dimension of reasoning—prescriptive force, universality, content-sensitivity—that physical description cannot capture
 - [[self-stultification-as-master-argument]] - How self-defeat arguments converge into a unified case for dualism
 - [[pragmatisms-path-to-dualism]] — Pragmatism's evaluative criterion requires irreducible phenomenal experience; combining the reflexive argument with phenomenal normativity forecloses functionalism's escape

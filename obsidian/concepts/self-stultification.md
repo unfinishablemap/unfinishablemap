@@ -4,7 +4,7 @@ description: "A position is self-stultifying—epistemically self-defeating—wh
 created: 2026-02-02
 modified: 2026-04-16
 human_modified:
-ai_modified: 2026-04-16T07:19:00+00:00
+ai_modified: 2026-04-28T03:13:00+00:00
 last_deep_review: 2026-04-16T06:48:00+00:00
 draft: false
 topics:
@@ -30,6 +30,7 @@ related_articles:
   - "[[tenets]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
   - "[[consciousness-and-the-normativity-of-reason]]"
+  - "[[carrolls-regress]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -206,6 +207,7 @@ Epistemic self-defeat also constrains what counts as an adequate theory of consc
 - [[concepts/epiphenomenalism]] — The position most directly challenged by self-stultification
 - [[consciousness-and-the-normativity-of-reason]] — The normative gap that makes physicalism self-stultifying for reason
 - [[argument-from-reason]] — The broader self-defeat challenge to physicalism
+- [[carrolls-regress]] — The 1895 dialogue: explicit rule-citation cannot, by itself, license inference; the deflationary reading helps itself to the very cognitive operation the regress reveals as missing
 - [[the-epiphenomenalist-threat]] — Why most theories drift toward the position self-stultification defeats
 - [[consciousness-and-causal-powers]] — The positive account: what kind of causal influence consciousness exercises
 - [[phenomenal-authority-and-first-person-evidence]] — Whether introspective justification survives self-defeat challenges

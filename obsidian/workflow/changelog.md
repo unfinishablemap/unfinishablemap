@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 02:57:00+00:00
+ai_modified: 2026-04-28 03:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 03:13 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/carrolls-regress]]
+- **Word count**: 1636 → 1636 (no change to article body)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (reciprocal cross-link gap)
+- **Enhancements made**: Added inbound `[[carrolls-regress]]` links from 5 neighbour articles — `voids/inference-void` (body wikilink + frontmatter), `concepts/mysterianism` (body wikilink + frontmatter + Further Reading), `voids/tacit-integration-void` (frontmatter + Further Reading), `concepts/self-stultification` (frontmatter + Further Reading), `topics/argument-from-reason` (frontmatter + Further Reading). Skipped (deliberate, documented in review): `introspection`, `noetic-feelings-void`, `apophatic-cartography`, `philosophy-of-mind`.
+- **Output**: [[reviews/deep-review-2026-04-28-carrolls-regress]]
 
 ## 2026-04-28 02:57 UTC - deep-review
 - **Status**: Success
