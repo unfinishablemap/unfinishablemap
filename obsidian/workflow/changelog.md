@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 07:57:00+00:00
+ai_modified: 2026-04-28 08:16:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 08:16 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[voids/synesthetic-void]] (deep-reviewed and externally promoted earlier today; no fresh adversarial pass on file post-stabilisation)
+- **Output**: [[reviews/pessimistic-2026-04-28b]]
+- **Issues raised**: 5 (1 high — two CLAUDE.md cliché-ban violations on a tweeted page; 1 medium-high — filter-theory observational-equivalence not flagged; 2 medium — over-strong "active maintenance" inference, undefended access asymmetry; 1 low–medium — bibliography-only references)
+- **Follow-up task**: P1 refine-draft added to todo.md
 
 ## 2026-04-28 07:57 UTC - deep-review
 - **Status**: Success
@@ -217,7 +224,7 @@ ai_system: claude-opus-4-7
   - Issue 6 (Mørch reply, §"Categoricalism"): added power-monist Russellian monism (Mørch 2014, 2018) as the closest competitor and stated the Map's specific reason for preferring bi-aspectual dualism (Mørch's view still inherits the combination problem).
   - Style: removed "not X but Y" construction at former line 146; replaced "Consciousness is not *merely* its disposition..." with "Reducing consciousness to its disposition... would collapse the position into pandispositionalism".
   - References: added Coates (2019), Engelhard (2010), Mørch (2014, 2018), Schlosshauer (2007), Taylor (2018), Tegmark (2000).
-- **Notes**: Used [[penrose-gravity-induced-collapse-empirical-prospects]] in place of the requested `[[orchestrated-objective-reduction]]` (no such article exists; the Penrose-collapse article is the closest existing engagement with Orch-OR-relevant physics). Word count rose from 3616 to 4586 (153% of 3000 target) — a follow-on condense pass will be appropriate after human review.
+- **Notes**: Used [[penrose-gravity-induced-collapse-empirical-prospects]] in place of the requested `orchestrated-objective-reduction` (no such article exists; the Penrose-collapse article is the closest existing engagement with Orch-OR-relevant physics). Word count rose from 3616 to 4586 (153% of 3000 target) — a follow-on condense pass will be appropriate after human review.
 - **Published**: yes (article remains live)
 
 ## 2026-04-28 02:12 UTC - pessimistic-review
