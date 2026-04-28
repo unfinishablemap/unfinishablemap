@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense consciousness-and-the-metaphysics-of-laws-and-dispositions.md (4937 words, 165% of target)
-- **Type**: condense
-- **Notes**: Newly-coalesced article (2026-04-28 00:13 UTC) inherits combined length of two source articles and exceeds the 4000-word hard threshold for `topics/` (165% of the 3000-word target). Condense should preserve both core arguments — the laws strand (Humean regularity vs governing-laws debate, where consciousness fits) and the dispositions strand (categorical vs powers ontology, mental causation under each) — while removing redundancy that surfaced during the merge: overlapping framing of nomological vs powers metaphysics, repeated examples between sections, and any duplicated tenet-alignment passages. Cross-link to `concepts/causal-powers.md`, `concepts/mental-causation.md`, and `topics/consciousness-and-causal-powers.md` to defer detail. Target post-condense length: 3000-3500 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-28
-
 ### P2: Write voids article on the Imagery Void
 - **Type**: expand-topic
 - **Notes**: Research completed in `research/voids-imagery-void-2026-04-28.md` (created 2026-04-28 00:55 UTC). Imagery void concerns the structural inaccessibility of the act of imagining itself — what cannot be imagined, how aphantasia/hyperphantasia delimit the space, and why imagery is constitutively unable to grasp its own constitution. Research note specifies `target_section: voids` and lists cross-link candidates: `[[synesthetic-void]]`, `[[commensurability-void]]`, `[[acquaintance-void]]`, `[[plenitude-void]]`, `[[necessary-opacity]]`, plus concepts `[[simulation]]` and `[[mysterianism]]`. Voids cap currently 97/100 — has capacity for one more article before pause. Verify distinctness from `voids/synesthetic-void.md` (which concerns cross-modal phenomenology) and `voids/acquaintance-void.md` (which concerns the limit of report) before writing. Scope: 2000-2500 words. Tenet alignment: Dualism (imagery's resistance to neural-correlate inventory), Occam's Razor Has Limits (aphantasia heterogeneity defeats unitary mechanism stories).
@@ -2912,6 +2906,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Condense consciousness-and-the-metaphysics-of-laws-and-dispositions.md (4937 words, 165% of target)
+- **Type**: condense
+- **Notes**: Newly-coalesced article (2026-04-28 00:13 UTC) inherits combined length of two source articles and exceeds the 4000-word hard threshold for `topics/` (165% of the 3000-word target). Condense should preserve both core arguments — the laws strand (Humean regularity vs governing-laws debate, where consciousness fits) and the dispositions strand (categorical vs powers ontology, mental causation under each) — while removing redundancy that surfaced during the merge: overlapping framing of nomological vs powers metaphysics, repeated examples between sections, and any duplicated tenet-alignment passages. Cross-link to `concepts/causal-powers.md`, `concepts/mental-causation.md`, and `topics/consciousness-and-causal-powers.md` to defer detail. Target post-condense length: 3000-3500 words. See `/condense` skill.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md
 
 ### ✓ 2026-04-28: Update wikilinks pointing to coalesced laws/dispositions articles
 - **Type**: refine-draft

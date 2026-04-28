@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 01:43:00+00:00
+ai_modified: 2026-04-28 01:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 01:57 UTC - condense
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Before**: 4937 words (status: hard_warning, 165% of 3000-word target)
+- **After**: 3616 words (status: soft_warning, 121% of target)
+- **Reduction**: 27% (-1321 words)
+- **Technique**: Tightened background sections (three accounts of laws, three accounts of properties) by removing standard expository padding LLMs already know; cut the bridging "Why Laws and Dispositions Belong Together" section heavily, which was largely restating the opening summary; trimmed redundancies inside the Humean/governing/essentialist consequence subsections; tightened "Powerful Qualities" advantages list (kept three bold leads, cut explanatory tails); compressed "Dispositions and the Interface" and "Dispositional Modality Problem"; significantly compressed "Why This Matters for the Mind-Body Problem" since it overlapped with "Relation to Site Perspective"; reduced Further Reading from 16 → 8 most essential links; trimmed References from 16 → 11 (kept all citations that are explicitly invoked in the body: Cutter, Pautz, Howell, Bird, Ellis, Lewis, Martin, Heil, Armstrong, Shoemaker, Chalmers; dropped Dretske, Tooley, Lewis-1973, Molnar, Mumford which were not load-bearing).
+- **Preserved**: Opening summary intact (front-loaded LLM access); all five tenet subsections in "Relation to Site Perspective" preserved with full content; the unique zombie-world disanalogy argument against dispositional essentialism kept in full; the genuine trade-off framing between governing and essentialist views preserved; all wikilinks to other Map articles retained; coalesced_from frontmatter retained.
+- **Published**: yes (article remains live)
 
 ## 2026-04-28 01:43 UTC - refine-draft
 - **Status**: Success (no-op verification)
