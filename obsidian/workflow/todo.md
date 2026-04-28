@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/introspection.md considering voids/imagery-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/imagery-void.md` (created 2026-04-28 03:33 UTC, refined to 2031 words) is structurally close to `concepts/introspection.md`: imagery is the paradigmatic domain where introspective unreliability has been demonstrated repeatedly (Galton 1880, Würzburg "imageless thought" controversy, post-2015 aphantasia studies). Imagery-void cites Schwitzgebel's *Unreliability of Naive Introspection* as load-bearing methodological framing. `concepts/introspection.md` likely re-establishes Schwitzgebel's case in-text without leveraging imagery-void as the canonical worked example. Cross-review should (a) verify `[[imagery-void]]` is in `related_articles` and reciprocally cited in prose where introspection's failure modes are exemplified; (b) replace any in-text re-establishment of the imagery-as-introspection-failure case with delegation to imagery-void; (c) check whether introspection's three-fold treatment of *what introspection accesses* / *how reliably* / *what it misses* can be sharpened by imagery-void's three-faces partition (fidelity / inter-subjective / function-phenomenology); (d) verify Schwitzgebel terminology is consistent across both articles; (e) preserve introspection's existing voice and scope. Distinguish this task from the existing P3 cross-link task (which is narrow link-addition) — this is full cross-review including in-text engagement and possible argument refinement. Light-medium scope (~400-700 words added/revised). Tenet alignment: Dualism (introspection's failure modes are evidence about the consciousness-physics interface), Occam's Razor Has Limits (the unified "introspection" label flattens distinct failure mechanisms imagery-void's faces help disentangle).
-- **Source**: chain (from voids/imagery-void.md)
-- **Generated**: 2026-04-28
-
 ### P2: Cross-review voids/source-attribution-void.md considering imagery-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2951,6 +2944,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review concepts/introspection.md considering voids/imagery-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/imagery-void.md` (created 2026-04-28 03:33 UTC, refined to 2031 words) is structurally close to `concepts/introspection.md`: imagery is the paradigmatic domain where introspective unreliability has been demonstrated repeatedly (Galton 1880, Würzburg "imageless thought" controversy, post-2015 aphantasia studies). Imagery-void cites Schwitzgebel's *Unreliability of Naive Introspection* as load-bearing methodological framing. `concepts/introspection.md` likely re-establishes Schwitzgebel's case in-text without leveraging imagery-void as the canonical worked example. Cross-review should (a) verify `[[imagery-void]]` is in `related_articles` and reciprocally cited in prose where introspection's failure modes are exemplified; (b) replace any in-text re-establishment of the imagery-as-introspection-failure case with delegation to imagery-void; (c) check whether introspection's three-fold treatment of *what introspection accesses* / *how reliably* / *what it misses* can be sharpened by imagery-void's three-faces partition (fidelity / inter-subjective / function-phenomenology); (d) verify Schwitzgebel terminology is consistent across both articles; (e) preserve introspection's existing voice and scope. Distinguish this task from the existing P3 cross-link task (which is narrow link-addition) — this is full cross-review including in-text engagement and possible argument refinement. Light-medium scope (~400-700 words added/revised). Tenet alignment: Dualism (introspection's failure modes are evidence about the consciousness-physics interface), Occam's Razor Has Limits (the unified "introspection" label flattens distinct failure mechanisms imagery-void's faces help disentangle).
+- **Output**: obsidian/concepts/introspection.md -- Context: Cross-review concepts/introspection.md considering voids/imagery-void insights
 
 ### ✓ 2026-04-28: Refine voids/void-as-ground-of-meaning.md to integrate Buddhist/Eastern parallels research
 - **Type**: refine-draft
