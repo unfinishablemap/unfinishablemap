@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 22:54:00+00:00
+ai_modified: 2026-04-28 23:08:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 23:08 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/epistemic-horizon-void]] (2077 words) merged into existing [[voids/meta-epistemology-of-limits]] (2899 words)
+- **Target**: [[voids/meta-epistemology-of-limits]] (now 4073 words)
+- **Archived**: [[archive/voids/epistemic-horizon-void]]
+- **Rationale**: Both articles addressed the recursive trap of evaluating cognitive limits from within. The horizon void was explicitly framed as a "second-order" version of the meta-epistemology — they shared the Fitch/Dunning-Kruger/Nagel arguments, both centered on the Occam's Razor tenet, and the meta-epistemology article already pointed to horizon as its scope sub-question. Merging recasts the meta-epistemology framing around four meta-questions instead of three (adding the scope question), with new sections "The Scope Question," "Convergence on the Scope Limit," "Phenomenology of the Horizon," "The Map's Own Horizon," and "What the Scope Void Rules Out."
+- **Section pressure**: voids was at 97/100; reduces to 96/100
+- **References to review**: 8 active files contain `[[epistemic-horizon-void]]` wikilinks (resolve to archive page; follow-up task created)
 
 ## 2026-04-28 22:54 UTC - condense
 - **Status**: Success

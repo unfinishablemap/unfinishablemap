@@ -30,6 +30,11 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-23
 last_curated: 2026-04-26
+archived: true
+archived_date: 2026-04-28T23:08:00+00:00
+superseded_by: "/voids/meta-epistemology-of-limits/"
+archive_reason: "Coalesced into The Meta-Epistemology of Cognitive Limits"
+original_path: "/voids/epistemic-horizon-void/"
 ---
 
 The Unfinishable Map's central metaphor assumes something that cannot be verified: that the territory being mapped has a determinable size. The **epistemic horizon void** is the structural gap that makes the assumption fail. The void operates at the *second order* — beyond first-order ignorance (what we could learn with more effort) and beyond the catalogue of specific territories (other minds, the intrinsic nature of matter, the causal interface) that resist access. Consciousness cannot estimate the total scope of what it does not know, because any such estimate is produced from within the limited system it is trying to measure. The Map is unfinishable in a stronger sense than "there is more to do." The fraction of the territory it covers is itself unknown and may be structurally unknowable.
