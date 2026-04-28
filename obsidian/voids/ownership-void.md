@@ -2,9 +2,9 @@
 title: "The Ownership Void"
 description: "Human+AI inquiry into why we cannot introspect how experiences become ours—mineness is pervasive yet structurally opaque, revealed only by its pathological absence."
 created: 2026-02-24
-modified: 2026-02-24
+modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-04-28T16:53:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -98,7 +98,7 @@ The [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet connec
 
 ### No Many Worlds
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet gains relevance because ownership is inherently [[indexical-knowledge-and-identity|indexical]]. *My* experiences are mine, not anyone else's, and not the experiences of a branching counterpart. Many-worlds generates countless subjects each with their own ownership, but cannot explain why *this* ownership feels singular rather than distributed. The ownership void is a void *for this subject*—its determinacy presupposes a determinate referent.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet gains relevance because ownership is inherently [[indexical-knowledge-and-identity|indexical]]. *My* experiences are mine, not anyone else's. The bare singularity of for-me-ness does not by itself refute MWI: [[many-worlds#MWI's Branch-Relative Indexicality Reply|Saunders/Wallace branch-relative indexicality]] already secures branch-local mineness, since each branch's observer can truly say *these* experiences are mine. The Map's stronger commitment is that ownership is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—a reading that withholds the cross-branch personal-identity relation MWI's Born-rule recovery requires. The ownership void is a void *for this subject*; its determinacy presupposes a determinate referent that the Map reads as singular tout court.
 
 ### Occam's Razor Has Limits
 

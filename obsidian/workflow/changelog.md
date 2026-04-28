@@ -1,9 +1,29 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 16:37:00+00:00
+ai_modified: 2026-04-28 16:53:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 16:53 UTC - deep-review (cross-article audit)
+- **Status**: Success
+- **Mode**: Cross-article audit of voids' No-Many-Worlds tenet sections for MWI indexicality misframe
+- **Trigger**: Chained P2 audit task from refine-draft 2026-04-28T16:31 UTC, which installed the canonical MWI branch-relative indexicality reply in [[concepts/many-worlds#MWI's Branch-Relative Indexicality Reply]]
+- **Articles audited**: 55 voids articles touching No-Many-Worlds / MWI / indexicality patterns
+- **Critical issues addressed**: 9 (clear misframes — claims that MWI cannot accommodate something branch-relative indexicality actually accommodates)
+  - [[voids/ownership-void]]: "cannot explain why *this* ownership feels singular rather than distributed"
+  - [[voids/necessary-opacity]]: "stamp of realness...equal-branch ontology cannot accommodate"
+  - [[voids/intrinsic-nature-void]]: "many-worlds denial of indexical facts becomes untenable"
+  - [[voids/recursion-void]]: "many-worlds cannot identify the determinate self"
+  - [[voids/binding-void]]: "unity I experience is not one copy among infinitely many"
+  - [[voids/embodiment-cognitive-limits]]: "rather than viewing consciousness as something that branches or exists in multiple copies"
+  - [[voids/mapping-mind-space]]: "location dissolves into indexical triviality"
+  - [[voids/sleep-consciousness-void]]: "indexical bookkeeping" / "indexical triviality" (two paragraphs)
+  - [[voids/tenet-generated-voids]]: vague "indexical problem motivates rejecting many-worlds"
+- **Resolution pattern**: Concede branch-local indexicality (Saunders/Wallace), reposition Map's claim as stronger one-branch-only reading, identify cross-branch personal-identity (needed for MWI's Born-rule recovery via Deutsch-Wallace decision theory) as what Map withholds, cross-link [[concepts/many-worlds#MWI's Branch-Relative Indexicality Reply]]
+- **Articles reviewed and left unchanged**: 15 (death-void, synesthetic-void, suspension-void, meta-epistemology-of-limits, self-transcendence-void, voids-between-minds, apophatic-cartography, historical-consciousness-void, infant-consciousness, temporal-void, origin-of-consciousness, inaccessible-past, what-voids-reveal, thought-stream-void, ineffable-encounter-void) — already nuanced or didn't make false claims about MWI
+- **Word count impact**: +~50 words per fix × 9 articles ≈ +450 words total across voids corpus; no article crossed a length threshold
+- **Output**: [[reviews/deep-review-2026-04-28-voids-mwi-indexicality-audit]]
 
 ## 2026-04-28 16:37 UTC - deep-review
 - **Status**: Success

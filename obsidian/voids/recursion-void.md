@@ -2,9 +2,9 @@
 title: "The Recursion Void"
 description: "Human+AI exploration of why metacognitive depth is bounded—consciousness folding back on itself encounters a ceiling around fifth order, revealing structural limits on self-understanding."
 created: 2026-02-05
-modified: 2026-02-05
+modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-04-28T16:53:00+00:00
 last_deep_review: 2026-03-15T13:40:00+00:00
 draft: false
 topics:
@@ -124,7 +124,7 @@ If consciousness interfaces with physics through [[tenets#^minimal-quantum-inter
 
 ### No Many Worlds
 
-The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects through the indexical character of recursive experience. When *I* think about *my* thinking about *my* thinking, the recursion presupposes a singular self threading through each level. Many-worlds would have countless branch-selves each hitting their own fifth-order ceiling—but the question "why can't *I* go deeper?" presupposes the determinate self that many-worlds cannot identify.
+The [[tenets#^no-many-worlds|No Many Worlds]] tenet connects through the indexical character of recursive experience. When *I* think about *my* thinking about *my* thinking, the recursion presupposes a self threading through each level. [[many-worlds#MWI's Branch-Relative Indexicality Reply|Branch-relative indexicality (Saunders/Wallace)]] can identify a branch-local determinate self—each branch's observer truly says "I cannot go deeper than *this* level." The Map reads the recursion's threading more strongly: the self at issue is one-branch-only rather than locally-articulated across a branching structure—withholding the cross-branch personal-identity relation MWI's Born-rule recovery requires.
 
 ## What Would Challenge This View
 

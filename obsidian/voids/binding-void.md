@@ -2,9 +2,9 @@
 title: "The Binding Void"
 description: "Human+AI exploration of why unified conscious experience resists explanation—the void where disparate sensations become one seamless field yet no mechanism can be found."
 created: 2026-02-24
-modified: 2026-02-24
+modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-04-28T16:53:00+00:00
 last_deep_review: 2026-03-10T17:39:00+00:00
 draft: false
 topics:
@@ -133,7 +133,7 @@ The binding void connects to the Map's [[tenets]] at multiple points and provide
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** finds its most intimate application. Binding may be the first instance of consciousness acting causally—structuring its own experience into a unified field. The binding void's occluded dimension suggests this primordial self-structuring is hidden because it is the foundation on which all other conscious activity rests.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** connects through [[indexical-knowledge-and-identity|indexical identity]]. Phenomenal binding is not an abstract property but a concrete feature of *this* particular experience right now. The Map's rejection of many worlds insists that this concreteness matters—that the unity I experience is not one copy among infinitely many.
+**[[tenets#^no-many-worlds|No Many Worlds]]** connects through [[indexical-knowledge-and-identity|indexical identity]]. Phenomenal binding is a concrete feature of *this* particular experience right now. [[many-worlds#MWI's Branch-Relative Indexicality Reply|Branch-relative indexicality (Saunders/Wallace)]] already secures branch-local concreteness, since each branch's observer truly experiences *this* unified field. The Map's stronger commitment is that the unity is one-branch-only rather than locally-articulated across a branching structure—withholding the cross-branch personal-identity relation MWI's Born-rule recovery requires.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** is directly illustrated. The convergence on treating co-consciousness as primitive is a case study in Occam's Razor failing. The demand for a simpler explanation may be a demand the phenomenon cannot satisfy.
 

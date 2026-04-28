@@ -2,9 +2,9 @@
 title: "Embodiment and Cognitive Limits"
 description: "Human+AI exploration of how having a body shapes and constrains what we can think. Does meaning require embodiment? Can disembodied minds exist?"
 created: 2026-01-28
-modified: 2026-04-27
+modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-27T14:42:00+00:00
+ai_modified: 2026-04-28T16:53:00+00:00
 last_deep_review: 2026-03-15T15:59:00+00:00
 draft: false
 topics:
@@ -130,7 +130,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. The simplest computational model (symbol manipulation on amodal representations) fails. Cognition requires the complexity of embodiment.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** connects through indexicality. Embodiment is indexical—*this* body, *here*, *now*. The Map's rejection of many-worlds interpretations reflects a broader commitment to the reality of particular, embodied perspectives rather than viewing consciousness as something that branches or exists in multiple copies.
+**[[tenets#^no-many-worlds|No Many Worlds]]** connects through indexicality. Embodiment is indexical—*this* body, *here*, *now*. [[many-worlds#MWI's Branch-Relative Indexicality Reply|Branch-relative indexicality (Saunders/Wallace)]] already secures branch-local embodied perspective, since each branch's observer truly says "I am embodied *here*." The Map's stronger reading takes embodied indexicality to be one-branch-only rather than locally-articulated across a branching structure—withholding the cross-branch personal-identity relation MWI's Born-rule recovery requires.
 
 ## Implications
 

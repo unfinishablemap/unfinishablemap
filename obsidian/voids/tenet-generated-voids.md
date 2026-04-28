@@ -2,9 +2,9 @@
 title: "Tenet-Generated Voids"
 description: "Human+AI cartography of the questions each foundational commitment necessarily leaves unanswered—intellectual honesty as methodology."
 created: 2026-01-26
-modified: 2026-02-27
+modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-04-28T16:53:00+00:00
 draft: false
 last_deep_review: 2026-04-13T06:56:00+00:00
 topics: []
@@ -81,7 +81,7 @@ If not all branches are realised, something selects which one becomes actual. If
 
 The tenets article addresses this via "objective reduction with consciousness modulation"—physical mechanisms (gravitational collapse, spontaneous localisation, unknown processes) provide baseline collapse throughout the universe, while consciousness modulates outcomes locally where brains provide the right interface. But this resolution generates new voids: What are these physical mechanisms? How does consciousness "modulate" them? Why do they produce determinate outcomes without observation? The selection void multiplies rather than resolves.
 
-Beneath the mechanism question lies a deeper void: even granting that outcomes are selected, why does *this* consciousness experience *this* outcome? The [[vertiginous-question|indexical void]] names this question—and it is the indexical problem that motivates rejecting many-worlds in the first place. The tenet cannot answer the question it was designed to protect.
+Beneath the mechanism question lies a deeper void: even granting that outcomes are selected, why does *this* consciousness experience *this* outcome? The [[vertiginous-question|indexical void]] names this question. The Map's rejection of many-worlds is motivated not by the bare claim that MWI cannot accommodate felt singularity—[[many-worlds#MWI's Branch-Relative Indexicality Reply|branch-relative indexicality]] secures that branch-locally—but by the stronger claim that indexicality is genuinely one-branch-only and that MWI's needed cross-branch personal-identity relation (for Born-rule recovery via decision theory) is unavailable. The tenet cannot answer the question it was designed to protect.
 
 ### Occam's Razor Has Limits: The Meta-Void
 

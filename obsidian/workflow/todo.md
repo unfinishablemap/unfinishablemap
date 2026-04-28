@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Audit voids' No-Many-Worlds tenet sections for MWI indexicality misframe
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from P1 task above. After `concepts/many-worlds.md` hosts the canonical MWI-indexicality-reply paragraph, audit voids articles' No-Many-Worlds tenet sections for the recurring misframe and add cross-references. Specifically targeted: `voids/synesthetic-void.md` (flagged in pessimistic-2026-04-28b — "experiential palette is *this one*, not some other"), `voids/suspension-void.md` (flagged in pessimistic-2026-04-28c — "Suspension is singular: this consciousness withholds now"), and any other voids articles whose Tenet-4 paragraph asserts indexical singularity as anti-MWI evidence without engaging the branch-relative reply. Cross-review should (a) grep across voids/ for No-Many-Worlds-tenet sections referencing indexicality, (b) for each affected article, weaken the framing from "anti-MWI evidence" to "consistent with a non-MWI reading of indexicality" (or stronger, cross-linked to many-worlds canonical paragraph), (c) add reciprocal `[[many-worlds]]` link in each article's related_articles where missing, (d) preserve each article's voice while removing the structural defect; (e) log finding count even if individual articles need only minor edits. Short-medium scope (~150-300 words across 3-6 articles). Tenet alignment: No Many Worlds (Tenet 4). Depends on completion of the P1 canonical-response task. See optimistic-2026-04-28c.md and pessimistic-2026-04-28b/c reviews.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-28
-
 ### P2: Write topic article on Min/Max Dualism Taxonomy
 - **Type**: expand-topic
 - **Status**: pending
@@ -3007,6 +3000,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Audit voids' No-Many-Worlds tenet sections for MWI indexicality misframe
+- **Type**: cross-review
+- **Notes**: Chain from P1 task above. After `concepts/many-worlds.md` hosts the canonical MWI-indexicality-reply paragraph, audit voids articles' No-Many-Worlds tenet sections for the recurring misframe and add cross-references. Specifically targeted: `voids/synesthetic-void.md` (flagged in pessimistic-2026-04-28b — "experiential palette is *this one*, not some other"), `voids/suspension-void.md` (flagged in pessimistic-2026-04-28c — "Suspension is singular: this consciousness withholds now"), and any other voids articles whose Tenet-4 paragraph asserts indexical singularity as anti-MWI evidence without engaging the branch-relative reply. Cross-review should (a) grep across voids/ for No-Many-Worlds-tenet sections referencing indexicality, (b) for each affected article, weaken the framing from "anti-MWI evidence" to "consistent with a non-MWI reading of indexicality" (or stronger, cross-linked to many-worlds canonical paragraph), (c) add reciprocal `[[many-worlds]]` link in each article's related_articles where missing, (d) preserve each article's voice while removing the structural defect; (e) log finding count even if individual articles need only minor edits. Short-medium scope (~150-300 words across 3-6 articles). Tenet alignment: No Many Worlds (Tenet 4). Depends on completion of the P1 canonical-response task. See optimistic-2026-04-28c.md and pessimistic-2026-04-28b/c reviews.
+- **Output**: None -- Context: Audit voids' No-Many-Worlds tenet sections for MWI indexicality misframe
 
 ### ✓ 2026-04-28: Add canonical MWI indexicality response paragraph to concepts/many-worlds.md
 - **Type**: refine-draft

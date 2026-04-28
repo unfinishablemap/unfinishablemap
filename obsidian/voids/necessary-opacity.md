@@ -3,8 +3,9 @@ title: "Necessary Opacity"
 description: "Consciousness cannot verify whether it accurately represents reality, and piercing this opacity destabilises the system that depends on it. The void is self-concealing and self-protecting."
 created: 2026-01-27
 modified: 2026-04-28
-human_modified: null
-ai_modified: 2026-04-28T09:14:00+00:00
+human_modified:
+ null
+ai_modified: 2026-04-28T16:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -189,7 +190,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** suggests a speculative possibility. If consciousness's influence affects quantum probabilities at femtosecond timescales and molecular scales, representing the interaction might interfere with it—though this remains highly conjectural. The mechanism would be necessarily hidden from the mechanism.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** finds indirect relevance. Transparent representations insist that *this* is real—not some abstract ensemble of branches but this desk, this moment, this world. The reality-feeling's stubborn indexicality, explored in the [[phenomenal-quality-void|phenomenal quality void]], reinforces the point: the stamp of realness is singular in a way that equal-branch ontology cannot accommodate.
+**[[tenets#^no-many-worlds|No Many Worlds]]** finds indirect relevance. Transparent representations insist that *this* is real—this desk, this moment, this world. [[many-worlds#MWI's Branch-Relative Indexicality Reply|Branch-relative indexicality (Saunders/Wallace)]] already accommodates the bare singularity of "*this* is real"—each branch's transparent representation can truly insist on its own actuality. The Map's commitment is the stronger one: the stamp of realness, explored in the [[phenomenal-quality-void|phenomenal quality void]], is genuinely one-branch-only rather than locally-articulated across a branching structure—withholding the cross-branch personal-identity relation MWI's decision-theoretic Born-rule recovery requires.
 
 ## Further Reading
 

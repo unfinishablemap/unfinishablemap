@@ -2,9 +2,9 @@
 title: "The Intrinsic Nature Void"
 description: "Physics describes what matter does but not what it is. Consciousness cannot specify what it is made of. These are the same void viewed from two directions—and Russellian monism shows why."
 created: 2026-01-27
-modified: 2026-04-23
+modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-23T23:29:00+00:00
+ai_modified: 2026-04-28T16:53:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -119,7 +119,7 @@ The parallel may not be coincidental. Anything truly fundamental might resist po
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** constrains the void without filling it. If consciousness causally influences the physical world, then whatever the intrinsic nature is, it must be the kind of thing that supports causal power. **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** adds further constraint: the intrinsic nature must be compatible with influencing quantum outcomes. These are negative-silhouette constraints—they narrow the space of possible answers without positively identifying one.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** connects through indexical identity. If intrinsic nature is what makes *this* consciousness this one rather than another, the many-worlds denial of indexical facts becomes untenable—there must be intrinsic facts about which branch "I" inhabit.
+**[[tenets#^no-many-worlds|No Many Worlds]]** connects through indexical identity. [[many-worlds#MWI's Branch-Relative Indexicality Reply|Branch-relative indexicality (Saunders/Wallace)]] does not deny indexical facts—it relativises them to branches, so each branch's observer can truly say "I am here, with *this* intrinsic nature." The Map's stronger reading takes intrinsic nature to be one-branch-only: what makes *this* consciousness this one is not locally-articulated within a globally-branching structure but genuinely singular, withholding the cross-branch personal-identity relation MWI's Born-rule recovery requires.
 
 ## What Would Challenge This View?
 
