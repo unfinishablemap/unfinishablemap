@@ -207,7 +207,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 - [[apophatic-approaches]] — How the gap's persistence becomes methodological data through systematic negation
 - [[introspection]] — How we know about the gap in the first place
 - [[integrated-information-theory]] — A theory attempting to bridge the gap
-- [[consciousness-and-the-ontology-of-dispositions]] — The dispositional version of the gap: no catalogue of causal roles entails qualitative character
+- [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — The dispositional version of the gap: no catalogue of causal roles entails qualitative character
 - [[tenets]] — How the Map's framework responds to the gap
 - [[topics/phenomenal-value-realism]] — The evaluative dimension of the gap: if phenomenal properties constitute value, physics cannot reach normativity either
 - [[evaluative-phenomenal-character|moral phenomenology and perception]] — The explanatory gap extended into the moral domain: why neural descriptions cannot capture felt wrongness

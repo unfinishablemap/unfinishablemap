@@ -36,6 +36,11 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-18
 last_curated:
+archived: true
+archived_date: 2026-04-28T00:13:00+00:00
+superseded_by: "/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/"
+archive_reason: "Coalesced into Consciousness and the Metaphysics of Laws and Dispositions"
+original_path: "/topics/consciousness-and-the-ontology-of-dispositions/"
 ---
 
 If every fundamental property is a disposition—a power directed toward some manifestation—then what is consciousness? The Unfinishable Map's commitment to [[interactionist-dualism]] requires that phenomenal states possess genuine [[causal-powers]]. But the deeper metaphysical question is whether consciousness *is* a disposition, whether it *has* dispositions, or whether it reveals a category that dispositional ontology cannot accommodate. This question cuts to the heart of what properties are and whether the mind-body problem is fundamentally a problem about the nature of dispositions themselves.

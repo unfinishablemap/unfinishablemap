@@ -26,6 +26,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-16
 last_curated:
 last_deep_review: 2026-03-25T00:55:00+00:00
+archived: true
+archived_date: 2026-04-28T00:13:00+00:00
+superseded_by: "/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/"
+archive_reason: "Coalesced into Consciousness and the Metaphysics of Laws and Dispositions"
+original_path: "/topics/consciousness-and-the-metaphysics-of-laws/"
 ---
 
 The question of whether consciousness can interact with the physical world depends not only on physics but on what laws of nature *are*. The Unfinishable Map holds that [[psychophysical-laws|psychophysical laws]]—fundamental principles connecting phenomenal experience to physical processes—must exist if [[tenets#^dualism|dualism]] is true. But whether such laws are coherent, and what form they could take, turns on a prior metaphysical question: what is a law of nature in the first place? Three rival accounts—Humean regularity theory, the governing laws view, and dispositional essentialism—yield sharply different consequences for the mind-body problem. Each opens certain doors for dualist interaction and closes others.

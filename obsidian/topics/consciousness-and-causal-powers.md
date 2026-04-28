@@ -155,7 +155,7 @@ If consciousness has specific, limited causal powers operating through quantum s
 
 ### For Metaphysics
 
-If consciousness has causal powers that cannot be reduced to physical forces, this supports [[interactionist-dualism|dualism]]. The physical world is not [[causal-closure|causally closed]]; mental properties genuinely add to the causal story. This has implications for reductionism, emergence, and the structure of natural law. The deeper metaphysical question is whether consciousness *is* a disposition, *has* dispositions, or reveals a category that [[consciousness-and-the-ontology-of-dispositions|dispositional ontology]] cannot accommodate. See [[psychophysical-laws-bridging-mind-and-matter]] for attempts to formalize this causal structure.
+If consciousness has causal powers that cannot be reduced to physical forces, this supports [[interactionist-dualism|dualism]]. The physical world is not [[causal-closure|causally closed]]; mental properties genuinely add to the causal story. This has implications for reductionism, emergence, and the structure of natural law. The deeper metaphysical question is whether consciousness *is* a disposition, *has* dispositions, or reveals a category that [[consciousness-and-the-metaphysics-of-laws-and-dispositions|dispositional ontology]] cannot accommodate. See [[psychophysical-laws-bridging-mind-and-matter]] for attempts to formalize this causal structure.
 
 ## The Evidential Question
 
@@ -208,7 +208,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[conservation-laws-and-mental-causation]] — Why mental causation need not violate physical conservation
 - [[the-interface-location-problem]] — Where and why consciousness interfaces with the physical
 - [[quantum-measurement-and-consciousness]] — The measurement problem as window for mental causation
-- [[consciousness-and-the-ontology-of-dispositions]] — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology
+- [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology, and what kind of law could bridge mind and matter
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: how the phenomenology of effort, selection, and holding constitutes evidence for causal powers
 - [[the-epiphenomenalist-threat]] — Why most frameworks converge on causal impotence without a specific mechanism
 - [[volitional-control]] — First-person evidence for the causal powers framework: veto, agency, and the Libet dissolution

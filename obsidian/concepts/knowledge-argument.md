@@ -179,7 +179,7 @@ The interaction between Mary's learning and Jackson's epiphenomenalism worry ill
 - [[introspection]] — How Mary recognizes she learned something new
 - [[russellian-monism]] — The structure/intrinsic nature distinction underlying the argument
 - [[indexical-knowledge-and-identity]] — Three grades of indexical knowledge, from perspectival to phenomenal
-- [[consciousness-and-the-ontology-of-dispositions]] — Why Mary's learning shows phenomenal character exceeds dispositional description
+- [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — Why Mary's learning shows phenomenal character exceeds dispositional description
 - [[concepts/materialism]] — The view the argument challenges
 - [[language-and-consciousness]] — How reference to consciousness resists standard theories of meaning, reinforcing the knowledge argument's gap
 - [[aesthetics-and-consciousness]] — The aesthetic version of Mary's Room, where integrated aesthetic facts exceed both physical and simpler phenomenal facts

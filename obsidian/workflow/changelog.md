@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 00:02:00+00:00
+ai_modified: 2026-04-28 00:13:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 00:13 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/consciousness-and-the-metaphysics-of-laws]], [[topics/consciousness-and-the-ontology-of-dispositions]]
+- **Target**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Archived**: [[archive/topics/consciousness-and-the-metaphysics-of-laws]], [[archive/topics/consciousness-and-the-ontology-of-dispositions]]
+- **Rationale**: Two companion articles working through the same Humean / governing / dispositional-essentialist trichotomy with substantial overlap in structure (zombie disanalogy, conditional necessity, Russellian-monism critique, powerful-qualities framework). Each cited the other prominently; the metaphysics of laws and the metaphysics of dispositions are entangled rather than separable, since dispositional essentialism *grounds* laws in property natures.
+- **References updated**: 8 inbound wikilinks updated across 8 files (consciousness-and-causal-powers, consciousness-and-the-authority-of-formal-systems, russellian-monism-versus-bi-aspectual-dualism, the-epiphenomenalist-threat, causal-powers, explanatory-gap, knowledge-argument, russellian-monism)
 
 ## 2026-04-28 00:02 UTC - deep-review
 - **Status**: Success

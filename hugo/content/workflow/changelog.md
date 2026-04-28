@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 23:49:00+00:00
+ai_modified: 2026-04-28 00:02:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-27'
+date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 00:02 UTC - deep-review
+- **Status**: Success
+- **File**: [methodology-of-consciousness-research](/topics/methodology-of-consciousness-research/)
+- **Trigger**: Cross-review against newly-created [conjunction-coalesce](/apex/conjunction-coalesce/) (apex piece, 2026-04-27). Both articles share Occam's-Razor-Has-Limits as primary tenet and instantiate the same logical structure (refusal to dissolve a seam when its persistence is itself informative).
+- **Word count**: 2975 → 2998 (+23); length-neutral mode (100% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link gap to conjunction-coalesce)
+- **Enhancements made**: 1 (one-sentence parallel in Occam's Razor Has Limits subsection + related_articles entry + Further Reading entry; offset by tightening Galilean exclusion P2 and Three Methodological Approaches preview)
+- **Cross-review finding**: The methodology article's "methodological dualism provides evidence for ontological dualism" claim is the consciousness-research instance of the structural-conjunction logic the conjunction-coalesce names at editorial level. Connection is now explicit without expanding either article's scope.
+- **Output**: [deep-review-2026-04-27-methodology-of-consciousness-research-cross-conjunction](/reviews/deep-review-2026-04-27-methodology-of-consciousness-research-cross-conjunction/)
 
 ## 2026-04-27 23:49 UTC - deep-review
 - **Status**: Success (convergence — no content edits)
