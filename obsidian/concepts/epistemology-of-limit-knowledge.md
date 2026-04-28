@@ -4,7 +4,7 @@ description: "Human+AI analysis of how we can have genuine knowledge about cogni
 created: 2026-03-22
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-04-23T12:41:29+00:00
+ai_modified: 2026-04-28T04:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-22
 last_curated:
-last_deep_review: 2026-03-23T02:09:00+00:00
+last_deep_review: 2026-04-28T04:31:00+00:00
 ---
 
 Knowledge about cognitive limits occupies a peculiar epistemic position. If a limit is genuine—if certain properties lie permanently beyond a mind's conceptual reach, as [[mysterianism|cognitive closure]] claims—then direct verification is impossible by definition. Yet The Unfinishable Map's [[voids|voids framework]] treats limits as objects of serious inquiry, cataloguing over a hundred entries and drawing substantive conclusions from their structure. This requires an epistemology that explains how knowledge about unreachable territory can be warranted without accessing that territory directly.
@@ -99,11 +99,13 @@ Limit-knowledge differs from ordinary empirical knowledge in several respects.
 
 One serious challenge to limit-knowledge deserves attention. If cognitive architecture constrains what we can conceive, it may also constrain our ability to correctly identify our own limits. [[inventory-blindness|Inventory blindness]] deepens this challenge: absent cognitive capabilities produce no signal, so the limits most needing identification are those least likely to be detected. [[meta-epistemology-of-limits|The meta-epistemological question]]—can we trust our assessments of our own boundaries?—threatens to undermine limit-knowledge from within.
 
-The bootstrap problem does not invalidate limit-knowledge, but it does constrain the confidence we can place in it. Two considerations prevent full sceptical collapse:
+The bootstrap problem does not invalidate limit-knowledge, but it does constrain the confidence we can place in it. Three considerations prevent full sceptical collapse:
 
 **Partial self-transparency.** Cognitive systems need not be either fully transparent or fully opaque to themselves. [[metacognition|Metacognitive]] abilities, while imperfect, provide genuine information about cognitive processes. The Dunning-Kruger effect shows miscalibration exists, but miscalibration is not total blindness—it is a systematic bias that can itself be studied and partially corrected.
 
 **External triangulation.** Comparing human cognitive performance against AI systems with different architectures provides a partial escape from the self-referential bind. Where different architectures encounter the same limits, the evidence for genuine closure strengthens. Where they diverge, architecture-specific constraints are revealed.
+
+**Phenomenal evidence runs in parallel.** If the [[topics/phenomenology-of-intellectual-life|Phenomenal Constitution Thesis]] extends to limit-knowledge, the felt encounter with closure provides a second evidential register rather than a derivative of metacognitive self-modelling. Architecturally constituted phenomenology can itself misrepresent, but convergence between propositional self-assessment and phenomenal closure-experience—and across subjects with different metacognitive styles—offers further triangulation. The question shifts from whether self-modelling is reliable to whether the two registers agree, which is at least empirically tractable.
 
 ## Relation to Site Perspective
 
