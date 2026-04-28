@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 09:59:00+00:00
+ai_modified: 2026-04-28 10:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 10:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination]]
+- **Context**: Final propagation step from the 2026-04-28 07:43 UTC `concepts/mental-imagery.md` deep-review correction. This article was the remaining outlier carrying the outdated "aphantasics score normally on mental rotation, using verbal or proprioceptive strategies" framing. Six earlier articles (mental-imagery, cognitive-phenomenology, cognitive-phenomenology-and-the-irreducibility-of-thought, phenomenal-contrast-method, phenomenology-of-imagination, introspection) had already received the correction.
+- **Changes**:
+  - §"Aphantasia as Natural Experiment" (line 67): replaced outdated empirical claim with Kay, Keogh & Pearson (2024) finding — aphantasics complete classical mental rotation slower but more accurately, using analytic rather than object-based strategies; both groups preserve the linear angular-disparity/RT relationship, indicating phenomenally distinct architectures performing isomorphic computational work.
+  - §"Aphantasia as Natural Experiment" (line 71): added cross-link to [[voids/imagery-void]] naming the function-phenomenology face explicitly, so the introspective side of the dissociation is reachable from the dual-domain reading.
+  - Added [[imagery-void]] to frontmatter `related_articles` and to Further Reading.
+  - References: added Kay, Keogh & Pearson (2024).
+- **Scope**: ~210 words modified. Dual-domain reading, three-capability table, and tenet alignment preserved.
+- **Tenet alignment**: Dualism — the corrected finding sharpens the function-phenomenology dissociation argument load-bearing for the dual-domain reading.
+- **Published**: yes (article was already public; refinement applied directly)
 
 ## 2026-04-28 09:59 UTC - refine-draft
 - **Status**: Success
