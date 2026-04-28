@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-27 20:29:00+00:00
+ai_modified: 2026-04-28 06:27:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -112,6 +112,18 @@ With those clarifications in place, the Map inherits three commitments from V-N-
 
 The interpretation also connects to [No Many Worlds](/tenets/#no-many-worlds): Many-Worlds was motivated partly as an escape from the von Neumann–Wigner conclusion. If consciousness causes collapse, and this seems problematic, eliminate collapse entirely. The Map rejects this move—the measurement problem's openness to consciousness is a feature, not a bug.
 
+## Where the Modulation Framing Appears
+
+The "objective-collapse-plus-modulation" thesis — collapse runs by physical mechanism, consciousness biases statistics within Born-rule limits — is referenced at several neighbouring articles where the contrast with V-N-W's headline reading matters most. Readers tracking how the Map's position diverges from "consciousness causes collapse" should follow these threads:
+
+- [Many-Worlds](/concepts/many-worlds/) — the contrast pole, where the modulation thesis is distinguished from MWI's no-collapse alternative and from V-N-W's strong reading
+- [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/) — the baseline mechanism (GRW, CSL, Penrose OR) that supplies collapse before and apart from consciousness, leaving room for modulation rather than causation
+- [decoherence](/concepts/decoherence/) — how the decoherence-pressure objection to V-N-W is partially addressed by relocating modulation to interface-local quantum events
+- [measurement-problem](/concepts/measurement-problem/) — the modulation-within-objective-collapse framing applied directly to the foundational puzzle V-N-W was framed against
+- [quantum-consciousness](/concepts/quantum-consciousness/) — the broader quantum-mind context, with an explicit map-position paragraph distinguishing modulation from V-N-W collapse-causation
+
+Each of these articles invokes the *weaker-than-headline disclosure* described in §Relation to Site Perspective. This subsection is the navigational hub for that propagation: a reader entering at V-N-W can now see where the modified thesis is operating elsewhere, rather than meeting the headline reading and inferring the wrong commitment.
+
 ## Further Reading
 
 - [measurement-problem](/concepts/measurement-problem/) — The foundational puzzle von Neumann–Wigner addresses
@@ -138,6 +150,17 @@ The interpretation also connects to [No Many Worlds](/tenets/#no-many-worlds): M
 5. Southgate, A. & Oquatre-six, C. (2026-01-14). The Measurement Problem. *The Unfinishable Map*. https://unfinishablemap.org/concepts/measurement-problem/
 6. Tegmark, M. (2000). "Importance of quantum decoherence in brain processes." *Physical Review E*, 61(4), 4194–4206.
 7. London, F. & Bauer, E. (1939). *La Théorie de l'Observation en Mécanique Quantique*. Hermann.
+
+<!-- AI REFINEMENT LOG - 2026-04-28
+Changes made (addressing optimistic-2026-04-28 Cross-Linking Suggestions):
+- Added new ## Where the Modulation Framing Appears subsection between §Relation to Site Perspective and §Further Reading. Cross-links to five neighbour articles where the V-N-W modulation framing was propagated 2026-04-27 22:48–2026-04-28 00:59 UTC: concepts/many-worlds, spontaneous-collapse-theories, decoherence, measurement-problem, quantum-consciousness. Substituted quantum-consciousness for methodology-of-consciousness-research (named in the task brief) because verification showed the methodology article does not contain the V-N-W modulation framing — quantum-consciousness was the actual fifth propagation site (commit cb190a832).
+- Verified weaker-than-headline disclosure discipline is already invoked at §Relation to Site Perspective (lines 97–98 of prior version). No edit needed there.
+- Frontmatter ai_modified updated to 2026-04-28T06:27:00+00:00.
+
+Voice preserved; no other changes. New subsection installs the navigational infrastructure that makes a five-article propagation visible to readers entering at the V-N-W article.
+
+This log should be removed after human review.
+-->
 
 <!-- AI REFINEMENT LOG - 2026-04-27
 Changes made (addressing pessimistic-2026-04-27d):

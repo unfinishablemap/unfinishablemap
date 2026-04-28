@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/pain-consciousness-and-causal-power.md considering compound-property dissociation reading
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` 02:29 UTC refine. The article's compound-property reading of pain asymbolia (line 150) explicitly references `[[pain-consciousness-and-causal-power]]` as where the pattern is developed. Cross-review should (a) verify whether `concepts/pain-consciousness-and-causal-power.md` already explicitly articulates the compound-property decomposition (sensory localisation + aversive valence) and the *finer-grained property individuation* response to alleged quality-power dissociations; (b) if not, install the reading — naming the compound and the dissociation pattern as a general response to powerful-qualities-identity-theory counterexamples; (c) verify the laws-and-dispositions citation is reciprocal and accurate; (d) check whether the compound-property pattern catalogue from `concepts/compound-property-dissociation.md` (queued P3 task — may not yet exist) deserves citation here when written; (e) preserve the article's existing voice and Kane-Tye-Brentano-Audi argumentative structure if present. Short scope (~300–500 words modified or added). Tenet alignment: Dualism (preserves quality-power identity through finer property individuation rather than abandoning it). See `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` line 150 and optimistic-2026-04-28.md.
-- **Source**: chain (from consciousness-and-the-metaphysics-of-laws-and-dispositions.md refine)
-- **Generated**: 2026-04-28
-
 ### P2: Address pessimistic-2026-04-28 cross-product counterargument in laws-and-dispositions
 - **Type**: refine-draft
 - **Status**: pending
@@ -2944,6 +2937,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review concepts/pain-consciousness-and-causal-power.md considering compound-property dissociation reading
+- **Type**: cross-review
+- **Notes**: Chain from `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` 02:29 UTC refine. The article's compound-property reading of pain asymbolia (line 150) explicitly references `[[pain-consciousness-and-causal-power]]` as where the pattern is developed. Cross-review should (a) verify whether `concepts/pain-consciousness-and-causal-power.md` already explicitly articulates the compound-property decomposition (sensory localisation + aversive valence) and the *finer-grained property individuation* response to alleged quality-power dissociations; (b) if not, install the reading — naming the compound and the dissociation pattern as a general response to powerful-qualities-identity-theory counterexamples; (c) verify the laws-and-dispositions citation is reciprocal and accurate; (d) check whether the compound-property pattern catalogue from `concepts/compound-property-dissociation.md` (queued P3 task — may not yet exist) deserves citation here when written; (e) preserve the article's existing voice and Kane-Tye-Brentano-Audi argumentative structure if present. Short scope (~300–500 words modified or added). Tenet alignment: Dualism (preserves quality-power identity through finer property individuation rather than abandoning it). See `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` line 150 and optimistic-2026-04-28.md.
+- **Output**: obsidian/topics/pain-consciousness-and-causal-power.md -- Context: Cross-review concepts/pain-consciousness-and-causal-power.md considering compound-property dissociation reading
 
 ### ✓ 2026-04-28: Install V-N-W modulation cross-reference hub in concepts/von-neumann-wigner-interpretation.md
 - **Type**: refine-draft
