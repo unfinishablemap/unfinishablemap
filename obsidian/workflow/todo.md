@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Update inbound references to coalesced limits-reveal-structure / voids-as-evidence
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Coalesce on 2026-04-28 merged `voids/limits-reveal-structure.md` and `voids/voids-as-evidence.md` into the new `voids/what-voids-reveal.md`. Hugo archive redirects preserve URLs, so wikilinks like `[[limits-reveal-structure]]` still resolve to readers via the archive notice. However, ~50 active files in obsidian/ still link to the old slugs and may benefit from being updated to point directly at the unified article. Highest-traffic neighbours to update first: `voids/voids.md`, `apex/taxonomy-of-voids.md`, `concepts/epistemology-of-limit-knowledge.md`, `concepts/mysterianism.md`, `voids/apophatic-cartography.md`, `voids/meta-epistemology-of-limits.md`, `voids/compound-failure-signatures.md`, `voids/tenet-generated-voids.md`. For each: replace `[[limits-reveal-structure]]` and `[[voids-as-evidence]]` with `[[what-voids-reveal]]` (or a phrase-and-link form), and refresh the surrounding sentence if the new article's framing changes the local context (the unified article merges methodological and evidential arguments under a single roof, so some passages that distinguished the two may now read awkwardly). Scope: medium — across 50 files but most edits are single-token wikilink updates. Tenet alignment: house-keeping rather than tenet-specific.
+- **Source**: coalesce
+- **Generated**: 2026-04-28
+
 ### P2: Add reciprocal cross-link between voids/imagery-void.md and concepts/ai-consciousness-modes.md
 - **Type**: cross-review
 - **Status**: pending

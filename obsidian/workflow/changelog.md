@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 10:45:00+00:00
+ai_modified: 2026-04-28 10:58:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 10:58 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/limits-reveal-structure]], [[voids/voids-as-evidence]]
+- **Target**: [[voids/what-voids-reveal]]
+- **Archived**: [[archive/voids/limits-reveal-structure]], [[archive/voids/voids-as-evidence]]
+- **Rationale**: Both articles made meta-arguments about cognitive voids — `limits-reveal-structure` as a methodological claim (the shape of limits illuminates cognitive architecture) and `voids-as-evidence` as an evidential claim (the catalogue's convergence and the questioning capacity together form an abductive case for dualism). They shared the same core citations (Chomsky, McGinn, Nagel, Kant, Wittgenstein), addressed the same illusionist challenge, and converged on the same five-tenets relation structure. The merge produces a single article that pairs the methodological frame (limits illuminate architecture for any view of mind) with the evidential frame (the architecture-revealing pattern points beyond physical exhaustion), keeping both arguments distinct but mutually reinforcing.
+- **References to review**: ~50 active inbound links across `obsidian/voids/`, `obsidian/concepts/`, `obsidian/apex/`, and `obsidian/topics/`. Hugo archive redirects keep URLs working; a P2 cross-review task has been queued to update wikilinks at the highest-traffic neighbours.
 
 ## 2026-04-28 10:45 UTC - apex-evolve
 - **Status**: Success

@@ -37,6 +37,11 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
+archived: true
+archived_date: 2026-04-28T10:58:00+00:00
+superseded_by: "/voids/what-voids-reveal/"
+archive_reason: "Coalesced into What Cognitive Voids Reveal"
+original_path: "/voids/limits-reveal-structure/"
 ---
 
 Instead of treating cognitive limits as obstacles to overcome, multiple philosophical traditions converge on an inverted insight: the *shape* of our limitations reveals the *structure* of our minds. What we cannot think is as informative about cognitive architecture as what we can. For the [[voids|voids project]], this transforms the mapping of unthinkable territory into a method of self-knowledge.

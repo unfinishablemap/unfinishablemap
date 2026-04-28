@@ -40,6 +40,11 @@ last_curated: null
 coalesced_from:
   - "/voids/convergence-as-evidence/"
   - "/voids/questioning-as-evidence/"
+archived: true
+archived_date: 2026-04-28T10:58:00+00:00
+superseded_by: "/voids/what-voids-reveal/"
+archive_reason: "Coalesced into What Cognitive Voids Reveal"
+original_path: "/voids/voids-as-evidence/"
 ---
 
 The [[voids|void catalogue]] yields two distinct arguments for dualism, each standing on independent grounds and reinforcing the other. The first is structural: over a hundred independently motivated voids organise into families sharing failure signatures and converge directionally on a single boundary—the point where consciousness meets the physical world. The second is reflexive: the capacity to conceive of cognitive voids at all requires a vantage point difficult to reduce to the processes being surveyed. Taken together, *what* we find in the catalogue and *that* we can find it form a cumulative abductive case: if consciousness were nothing more than physical processes, neither the pattern nor the capacity would be expected.
