@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-25 01:40:00+00:00
+ai_modified: 2026-04-28 15:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Narrative coherence is the felt quality of a life making sense as a
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 14:34:00+00:00
+last_deep_review: 2026-04-28 15:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,7 +33,7 @@ topics:
 - '[[diachronic-agency-and-personal-narrative]]'
 ---
 
-Narrative coherence is the felt quality of a life making sense as a unified story. It is not a literary judgment—not whether your autobiography would read well—but a phenomenological property: the experience of choices, events, and commitments fitting together into an intelligible whole. When narrative coherence obtains, your past decisions explain your present situation and your present efforts point toward a recognisable future. When it breaks down, as in severe depression or traumatic dissociation, life becomes a sequence of disconnected episodes that happen to the same body but compose no meaningful pattern.
+Narrative coherence is the felt quality of a life making sense as a unified story—the phenomenological experience of choices, events, and commitments fitting together into an intelligible whole. What matters is how your life feels from the inside, irrespective of whether your autobiography would read well. When narrative coherence obtains, your past decisions explain your present situation and your present efforts point toward a recognisable future. When it breaks down, as in severe depression or traumatic dissociation, life becomes a sequence of disconnected episodes that happen to the same body but compose no meaningful pattern.
 
 The Unfinishable Map treats narrative coherence as a building block for several larger claims. It grounds [diachronic agency](/topics/diachronic-agency-and-personal-narrative/), makes [moral-responsibility](/concepts/moral-responsibility/) over time intelligible, and provides evidence that the [substantial self](/topics/the-self-minimal-narrative-and-substantial/) is more than a philosophical postulate.
 

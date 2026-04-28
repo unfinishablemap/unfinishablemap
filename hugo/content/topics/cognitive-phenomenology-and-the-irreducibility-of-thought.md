@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-28 09:28:00+00:00
+ai_modified: 2026-04-28 16:08:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,10 +27,11 @@ description: If thinking itself has phenomenal character beyond sensory accompan
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 09:28:00+00:00
+last_deep_review: 2026-04-28 16:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[taxonomy-of-voids]]'
 - '[[cognitive-phenomenology-thinking-experience-2026-01-17]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[pragmatisms-path-to-dualism]]'
@@ -101,7 +102,7 @@ People with aphantasia (no visual imagery) still understand, reason, and have in
 
 Tip-of-the-tongue states reveal meaning without sensory form. You know the word — you can identify its first letter, semantic neighbours, syllable count — but the phonological form is absent. The meaning is phenomenally present without its sensory vehicle. If cognitive phenomenology is sensory, what is the subject experiencing?
 
-The phenomenal contrast in understanding — hearing French when you understand it versus when you do not — is the most direct evidence. The same auditory input produces different phenomenal states. The conservative must locate this difference in subtle sensory variations, but the most natural explanation is that understanding contributes its own phenomenal character.
+The phenomenal contrast in understanding — hearing French when you understand it versus when you do not — is the most direct evidence, and is Strawson's (1994) *foreign-language argument* in *Mental Reality*. The same auditory input produces different phenomenal states. The conservative must locate this difference in subtle sensory variations, but the most natural explanation is that understanding contributes its own phenomenal character.
 
 ## Relation to Site Perspective
 
@@ -124,6 +125,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — How cognitive phenomenology in evaluation forces pragmatism toward dualism
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that reasoning requires conscious processing
 - [imagery-void](/voids/imagery-void/) — Why the aphantasia evidence is a wedge between phenomenology and cognitive function rather than a proof either is reducible to the other
+- [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Cognitive phenomenology as the comprehension-domain exemplar of the cross-cutting phenomenology-vs-function axis
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Which quantum mechanisms must account for cognitive, not just sensory, consciousness
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-27 19:45:00+00:00
+ai_modified: 2026-04-28 16:08:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -24,17 +24,19 @@ description: Consciousness cannot control most of its own states, and cannot ver
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 16:00:00+00:00
+last_deep_review: 2026-04-28 16:08:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
+- '[[taxonomy-of-voids]]'
 - '[[self-opacity]]'
 - '[[causal-interface]]'
 - '[[ownership-void]]'
 - '[[appetitive-void]]'
 - '[[affective-void]]'
 - '[[erasure-void]]'
+- '[[suspension-void]]'
 - '[[conjunction-coalesce]]'
 - '[[inference-void]]'
 - '[[tacit-integration-void]]'
@@ -90,7 +92,7 @@ Both sides of the agency debate face the same barrier.
 
 **Interactionism cannot verify itself either.** If consciousness does cause things, the evidence is gathered *through* consciousness—the system whose causal power is the question.
 
-The clinical sister case is the [erasure-void](/voids/erasure-void/): in anosognosia and certain deliriform states, the neural infrastructure for self-monitoring shares fate with the capacities it would monitor. When opposing positions both face verification failure for structural reasons, the failure inheres in the question's architecture.
+The clinical sister case is the [erasure-void](/voids/erasure-void/): in anosognosia and certain deliriform states, the neural infrastructure for self-monitoring shares fate with the capacities it would monitor. The structural sister case is the [suspension-void](/voids/suspension-void/): withholding judgment, like causing action, is a faculty whose only investigator is itself, and the same circularity catalogued here recurs there in a different register. When opposing positions both face verification failure for structural reasons, the failure inheres in the question's architecture.
 
 ### Reflexive Self-Stultification
 
@@ -102,7 +104,7 @@ The same structure catches this article's own argument: the claim "consciousness
 
 **Exclusion.** Kim's causal exclusion argument holds that if [causal closure](/concepts/causal-closure/) obtains, mental causation is either redundant or illusory. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet seeks room at quantum indeterminacies—but verifying genuine intervention would require consciousness observing itself biasing quantum outcomes, returning to the circularity problem.
 
-**Attribution.** Wegner (2002) identifies three conditions producing the sense of agency: priority, consistency, exclusivity. When met, we *feel* we caused our actions regardless of whether we did; when disrupted—alien hand syndrome, automatisms—we deny authorship. The Map borrows Wegner's diagnosis while declining his conclusion: under [Bidirectional Interaction](/tenets/#bidirectional-interaction), a faulty attribution system can coexist with genuine causal influence, so showing the *feeling* of agency is constructed does not show agency is fictional.
+**Attribution.** Wegner's *I-Spy paradigm* (Wegner & Wheatley 1999; Wegner 2002) operationalises a function-phenomenology dissociation in the agency domain: under arranged conditions of priority, consistency, and exclusivity, the *experience* of willing diverges from the underlying causation, so we *feel* authorship regardless of whether we caused the act, and lose the feeling under disruption—alien hand syndrome, automatisms—even when our motor system continues to act. The Map borrows Wegner's diagnosis while declining his conclusion: under [Bidirectional Interaction](/tenets/#bidirectional-interaction), a faulty attribution system can coexist with genuine causal influence, so showing the *feeling* of agency is constructed does not show agency is fictional.
 
 **Perspective.** Velmans (2020) observes that consciousness appears causally efficacious from the first-person perspective and irrelevant from the third. Unlike observer-dependent facts in physics, first- and third-person verdicts on agency have no shared formalism to adjudicate between them.
 
@@ -141,9 +143,11 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's com
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
+- [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Wegner's I-Spy paradigm as the agency-domain exemplar of the cross-cutting phenomenology-vs-function axis
 - [Volitional Opacity](/voids/self-opacity/) — Why we cannot observe the mechanisms of willing
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness connects to physics
 - [erasure-void](/voids/erasure-void/) — Clinical sister case: self-monitoring eroding alongside what it would monitor
+- [suspension-void](/voids/suspension-void/) — Structural sister case: withholding judgment shares the same self-investigator circularity
 - [inference-void](/voids/inference-void/) — Why every act of self-checking is itself an inference whose grounding is opaque
 - [tacit-integration-void](/voids/tacit-integration-void/) — The from-to structure the vanishing-target phenomenology instantiates
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — How each tenet generates its characteristic void
@@ -165,3 +169,4 @@ The void is also [tenet-generated](/voids/tenet-generated-voids/): the Map's com
 11. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 12. Velmans, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
 13. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
+14. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.

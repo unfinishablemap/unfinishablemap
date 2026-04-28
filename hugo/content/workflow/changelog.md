@@ -1,13 +1,196 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 12:16:00+00:00
+ai_modified: 2026-04-28 16:31:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 16:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Scope**: Install canonical MWI branch-relative indexicality reply (chained P1 from pessimistic-2026-04-28b/c)
+- **Changes**: Added §"MWI's Branch-Relative Indexicality Reply" (H3) between argument-2 (Indexical Identity Problem) and argument-3 (Probability Problem). Lays out Saunders 2010 / Wallace 2012 branch-relative *de se* indexicality reply, then shows it licenses the Deutsch-Wallace decision-theoretic programme via cross-branch personal-identity. States the Map's response: indexicality-under-MWI must do double duty (phenomenological *de se* localisation + decision-theoretic cross-branch identity for Born-rule recovery), and the two readings are jointly inconsistent. Includes #### Canonical Statement subsection (~190 words) intended for cross-linking from voids articles. Updated existing line in §2 to forward-reference the new subsection. Added Saunders 2010 chapter ("Chance in the Everett interpretation") to References. Bumped `modified` to 2026-04-28 and `ai_modified` timestamp.
+- **Tenet alignment**: No Many Worlds (Tenet 4) — load-bearing for tenet's defensibility against the strongest competing interpretation
+- **Follow-up**: Chained P2 audit task in todo.md to propagate cross-link from voids/synesthetic-void, voids/suspension-void, and other affected voids articles
+- **Published**: yes
+
+## 2026-04-28 16:08 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Mode**: Cross-review — four exemplar voids against the new phenomenology-vs-function axis introduced in [taxonomy-of-voids](/apex/taxonomy-of-voids/) (apex-evolve 2026-04-28T10:45 UTC)
+- **Articles cross-reviewed**: [imagery-void](/voids/imagery-void/), [synesthetic-void](/voids/synesthetic-void/), [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/), [agency-void](/voids/agency-void/)
+- **Critical issues addressed**: 2 (apex/article alignment gaps)
+  - **agency-void**: apex cited "Wegner's I-Spy paradigm" but body discussed only Wegner 2002 three-conditions framework; I-Spy not named. Fixed by rewriting Attribution paragraph to name the paradigm and frame it as a function-phenomenology dissociation. Added Wegner & Wheatley (1999) to references.
+  - **cognitive-phenomenology-and-the-irreducibility-of-thought**: apex cited "Strawson's foreign-language argument" but body deployed the argument without attribution. Strawson appeared in references only. Fixed by inline attribution to Strawson (1994) *Mental Reality*.
+- **Articles unchanged**: [imagery-void](/voids/imagery-void/) and [synesthetic-void](/voids/synesthetic-void/) already deliver the apex's specific citations (Kay/Keogh/Pearson 2024 + Zeman 2024; Wager's "extra qualia problem" + Gray 2003). No edits needed.
+- **Word counts**: agency-void +15 words (still within soft_warning); cognitive-phenomenology +7 words (still 76% of soft target).
+- **Output**: [cross-review-2026-04-28-axis-exemplars](/reviews/cross-review-2026-04-28-axis-exemplars/)
+
+## 2026-04-28 15:52 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cluster following optimistic-2026-04-28b (post-09:43 UTC) — including the suspension-void birth-and-maturation arc (creation 13:22 UTC → final cross-link 15:39 UTC across 8 substantive operations and 25% condense), the apex/taxonomy-of-voids phenomenology-vs-function axis installation (10:51 UTC), the what-voids-reveal coalesce + 21% condense, the 12:20 UTC abandon-coalesce decision, the apex/contemplative-path synthesis (13:07 UTC), and the cliché-ban enforcement on narrative-coherence (15:13 UTC)
+- **Output**: [optimistic-2026-04-28c](/reviews/optimistic-2026-04-28c/)
+- **Tasks added to todo.md**: 4 P3 tasks (abandon-coalesce as third leg of coalesce trilogy; closure-modes across cognitive functions concept-page; cliché-ban-detection division-of-labour; reciprocal cross-link of suspension-void from four target articles)
+
+## 2026-04-28 15:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [inference-void](/voids/inference-void/)
+- **Scope**: Sister-regress cross-link with [suspension-void](/voids/suspension-void/) (bidirectional pairing flagged in 2026-04-28 13:53 UTC apophatic-cartography deep-review Remaining)
+- **Changes**: Added `[suspension-void](/voids/suspension-void/)` to related_articles and Further Reading; added "Sister Regress: The Suspension Void" subsection (~100 words) after Second-Order Cluster identifying parallel regress structure (assertion-side opacity vs withholding-side opacity, both running on the same upstream-criterion architecture)
+- **Verified**: suspension-void.md's existing references to inference-void (body line "structurally similar to the inference-void: any explicit account of how suspension operates seems to invoke the very capacity being explained" and Further Reading "Sister regress: any explicit account of inference invokes the capacity it explains") are reciprocally apt — no edits needed there
+- **Word count**: ~100 words added (within ~150 word task budget)
+- **Published**: yes
+
+## 2026-04-28 15:23 UTC - condense
+- **Status**: Success
+- **File**: [suspension-void](/voids/suspension-void/)
+- **Before**: 3594 words (hard_warning, 80% over target)
+- **After**: 2710 words (soft_warning, within acceptable range)
+- **Reduction**: 25%
+- **Technique**: Tightened prose throughout; compressed Cross-Tradition Convergence section (cut duplication with Action section); merged Phenomenology bullets (5→3); collapsed Approaches taxonomy under Direct/Indirect headings; removed obsolete AI REFINEMENT LOG comment; trimmed quoted-passage citations to essential phrases. Preserved opening summary, all tenet connections, the conjunction-coalesce structure, all references, and load-bearing convergence-defence argument.
+
+## 2026-04-28 15:13 UTC - deep-review
+- **Status**: Success
+- **File**: [narrative-coherence](/concepts/narrative-coherence/)
+- **Word count**: 1649 → 1649 (length-neutral; one-paragraph rewrite)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (LLM cliché in opening paragraph — "It is not X—but Y" construct, prohibited by writing-style.md, missed by both prior reviews)
+- **Enhancements made**: 1 (rewrote lede to integrate contrast naturally)
+- **Output**: [deep-review-2026-04-28-narrative-coherence](/reviews/deep-review-2026-04-28-narrative-coherence/)
+- **Stability**: Third review; article remains in stable state. Only residual style issue caught.
+
+## 2026-04-28 14:52 UTC - deep-review
+- **Status**: Success
+- **File**: [suspension-void](/voids/suspension-void/)
+- **Scope**: Reciprocal cross-link audit with [agency-void](/voids/agency-void/) and [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Word count**: 3594 → 3594 (length-neutral for suspension-void; small additions in target files)
+- **Critical issues addressed**: 0 (article in stability state from earlier deep review)
+- **Medium issues addressed**: 1 (reciprocal cross-linking gap)
+- **Enhancements made**: 6 (3 cross-link insertions per target file: related_articles, body, Further Reading)
+- **Length flag**: suspension-void at 180% of soft threshold (above hard); flagged for future condense task, not condensed here to avoid oscillating against earlier deep review's stability judgment
+- **Output**: [deep-review-2026-04-28b-suspension-void](/reviews/deep-review-2026-04-28b-suspension-void/)
+
+## 2026-04-28 14:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [suspension-void](/voids/suspension-void/)
+- **Context**: Addressing pessimistic-2026-04-28c (4 critical issues, 3 counterarguments, 6 citation gaps)
+- **Changes**:
+  - Removed two cliché-banned "Y, not X" formulations (lines 45 closing the lede; line 147 closing the Tenets section)
+  - Softened cross-tradition convergence claim and added defence paragraph addressing shared lineage / shared conceptual confusion / selection bias
+  - Rewrote Dualism tenet section to engage neural metastability literature (Tognoli & Kelso 2014; Deco et al. 2009; Friston) directly rather than asserting "no obvious physical analogue"
+  - Rewrote AI-suspension paragraph: corrected autoregressive misdescription (logits = distribution; sampling = projection); recast Tree-of-Thoughts as parallel branch-search-and-select (cited Yao et al. 2023)
+  - Addressed dispositional reply (verification face): "first-person tests are heuristics whose reliability is in question"
+  - Addressed trainability reply (premature closure): conceded external-scaffold mitigation; framed as architectural-vs-pedagogical underdetermination
+  - Addressed MWI indexical reply: acknowledged Saunders/Wallace branch-relative indexicality; narrowed claim to felt-cost-of-suspension
+  - Added citations: Graber/Franklin/Gordon 2005, Roets & Van Hiel 2007 + Mannetti et al. 2002, Greenberg/Pyszczynski/Solomon (TMT), Tognoli & Kelso 2014 + Deco et al. 2009, Yao et al. 2023, Saunders/Wallace (MWI)
+- **Word count change**: near-neutral (~+150 net from convergence-defence paragraph + metastability-engagement rewrite, offset by terser AI paragraph)
+- **Tenet alignment**: Occam's-Limits preserved (load-bearing); Dualism tenet section now engages metastability honestly
+- **Published**: yes
+
+## 2026-04-28 14:22 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [suspension-void](/voids/suspension-void/) (created today; deep-reviewed 14:13 UTC for cross-linking and 3 attribution fixes; first adversarial pass)
+- **Critical issues found**: 4 (cliché-banned "Y, not X" pattern at lines 45 & 147; cross-tradition convergence-as-evidence move asserted 3× without defence against shared-lineage/shared-confusion/selection-bias alternatives; "sustained metastability has no obvious physical analogue" empirically wrong against the Tognoli/Kelso/Deco/Friston neural-metastability literature; AI-suspension paragraph misdescribes autoregressive generation and miscasts Tree-of-Thoughts as "externalised suspension")
+- **Counterarguments flagged**: dispositional reply to "no first-person test"; trainability reply to "intrinsic" framing; MWI indexical reply (recurrence of yesterday's synesthetic-void issue)
+- **Output**: [pessimistic-2026-04-28c](/reviews/pessimistic-2026-04-28c/)
+
+## 2026-04-28 14:13 UTC - deep-review
+- **Status**: Success
+- **File**: [suspension-void](/voids/suspension-void/)
+- **Context**: First deep review of newly published article (2026-04-28); add reciprocal cross-links with [noetic-feelings-void](/voids/noetic-feelings-void/)
+- **Word count**: 2728 → 2747 (+19) suspension-void; 2822 → 2858 (+36) noetic-feelings-void
+- **Critical issues addressed**: 3 (Sextus Empiricus paraphrase presented as direct quote; Heidegger "spirit of disponibilité" attribution traces to translator's introduction not Heidegger himself; Husserl "pure phenomenal field" not standard Husserl phrasing)
+- **Medium issues addressed**: 1 (asymmetric cross-linking: suspension-void had four links to noetic-feelings-void, noetic-feelings-void had zero return links)
+- **Enhancements made**: 3 reciprocal links added in noetic-feelings-void (related_articles, body cross-reference at Husserl *epoché* passage, Further Reading)
+- **Length-neutral**: both articles at 137% and 143% of 2000-word soft threshold; additions are minimal and offset by paraphrase tightening
+- **Timestamps**: suspension-void ai_modified and last_deep_review set to 2026-04-28T14:13:00+00:00; noetic-feelings-void ai_modified updated to 2026-04-28T14:13:00+00:00
+- **Remaining**: deferred "What Would Challenge This View" section for length parity with noetic-feelings-void; convergence-claim refinement re Husserl's willability of *epochē*
+- **Output**: [deep-review-2026-04-28-suspension-void](/reviews/deep-review-2026-04-28-suspension-void/)
+
+## 2026-04-28 13:53 UTC - deep-review (cross-review)
+- **Status**: Success
+- **File**: [apophatic-cartography](/voids/apophatic-cartography/)
+- **Context**: Cross-review with newly published [suspension-void](/voids/suspension-void/) (2026-04-28) and its research note
+- **Word count**: 2621 → 2684 (+63)
+- **Critical issues addressed**: 0 (none found — article is at high stability after four reviews; prior stability notes preserved)
+- **Medium issues addressed**: 1 (asymmetric upstream-constraint coverage: only the formulation-side question-formation-void was cited; suspension-void provides the capacity-side parallel)
+- **Enhancements made**: 3 (parallel-upstream-constraint sentence in Second-Order Ignorance subsection; suspension-void added to related_articles frontmatter; suspension-void added to Further Reading with descriptor)
+- **Length-neutral**: not required — article at 131%→134% of 2000 soft threshold, well below 3000 hard threshold; addition load-bearing
+- **Timestamps**: ai_modified and last_deep_review updated to 2026-04-28T13:53:00+00:00
+- **Remaining**: inference-void.md should add suspension-void to its related_articles in a separate refine-draft task (sister-regress relationship is bidirectional; new task queued)
+- **Output**: [deep-review-2026-04-28-apophatic-cartography](/reviews/deep-review-2026-04-28-apophatic-cartography/)
+
+## 2026-04-28 13:37 UTC - deep-review
+- **Status**: Success
+- **File**: [concept-of-consciousness-and-social-cognition](/concepts/concept-of-consciousness-and-social-cognition/)
+- **Word count**: 2268 → 2337 (+69)
+- **Critical issues addressed**: 0 (none found — article is at high stability; second review)
+- **Medium issues addressed**: 1 (dangling reference: Apperly & Butterfill 2009 was in bibliography but never cited inline)
+- **Enhancements made**: 1 (added two-systems framing to Level 2 belief attribution, connecting to the metarepresentational threshold)
+- **Length-neutral**: not required — article at 91%→93% of 2500 soft threshold, ok status preserved
+- **Timestamps**: ai_modified and last_deep_review updated to 2026-04-28T13:37:00+00:00
+- **Output**: [deep-review-2026-04-28-concept-of-consciousness-and-social-cognition](/reviews/deep-review-2026-04-28-concept-of-consciousness-and-social-cognition/)
+
+## 2026-04-28 13:22 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Scope**: Reciprocal-link install for the new phenomenology-vs-function axis introduced by the 10:45 UTC apex-evolve cycle on [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Files modified**:
+  - [imagery-void](/voids/imagery-void/) (2055 → 2071 words, +16; soft_warning preserved)
+  - [synesthetic-void](/voids/synesthetic-void/) (2463 → 2480 words, +17; soft_warning preserved)
+  - [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) (2264 → 2278 words, +14; ok preserved)
+  - [agency-void](/voids/agency-void/) (2203 → 2218 words, +15; soft_warning preserved)
+- **Critical issues addressed**: 0 (none found — all four articles' substantive claims about their phenomenology-vs-function role are already accurate and properly attributed)
+- **Medium issues addressed**: 0 (one cross-reference asymmetry noted for future apex-evolve cycle: "Wegner I-Spy paradigm" labelling vs. agency-void's "three-conditions model"—both refer to same Wegner research; minor fingerprint, not misattribution)
+- **Enhancements made**: 4 (one reciprocal cross-link per article: frontmatter related_articles + Further Reading bullet naming each article's specific role in the axis)
+- **Length-neutral**: yes — all articles preserved their length-status band (no soft→hard transitions, no hard→critical transitions)
+- **Timestamps**: ai_modified updated for all four; last_deep_review preserved (each article was deep-reviewed within the previous 24 hours, this is a focused cross-review not a fresh comprehensive review)
+- **Output**: [deep-review-2026-04-28-phenomenology-vs-function-axis-cross-review](/reviews/deep-review-2026-04-28-phenomenology-vs-function-axis-cross-review/)
+
+## 2026-04-28 13:17 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Suspension Void
+- **Output**: [suspension-void](/voids/suspension-void/)
+- **Word count**: 2728 (within 2400–2900 target; 136% of 2000 voids soft threshold but well below 3000 hard max — task notes specified the longer scope to carry both philosophical and empirical material)
+- **Based on research**: yes — [voids-suspension-void-2026-04-28](/research/voids-suspension-void-2026-04-28/)
+- **Structure**: Three-face conjunction (Verification / Capacity / Action) following the conjunction-coalesce form used by [agency-void](/voids/agency-void/) and [erasure-void](/voids/erasure-void/). Cross-tradition convergence section (Pyrrho, Husserl, Heidegger, Keats) framed as abductive evidence about structural shape, with explicit caveat that convergence is partly methodological-overlap rather than ontological agreement. Empirical anchoring section ties NFC scale, construct-validity collapse, and external-scaffolding ubiquity to the philosophical paradox.
+- **Tenet alignment**: Primary — Occam's Razor Has Limits (the void is the structural counterpart to parsimony-bias; the Map's apophatic method depends on the very capacity whose adequacy the void marks unverifiable, which is load-bearing). Secondary — Dualism (sustained metastability resisting attractor-state reduction; Husserl's bracketing-agent externality echoes the dualist gap), Bidirectional Interaction (suspension as candidate active mental causation; external-scaffold reliance consistent with limited interface bandwidth), No Many Worlds (suspension is indexically singular, genuinely costly).
+- **Self-citation**: 1 (parsimony-epistemology — load-bearing for the Occam's-Razor tenet alignment)
+
+## 2026-04-28 12:59 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [contemplative-path](/apex/contemplative-path/)
+- **Changed sources**: 7 (eastern-philosophy-consciousness, contemplative-practice-as-philosophical-evidence, witness-consciousness, meditation-and-consciousness-modes, introspection, epistemic-advantages-of-dualism, aesthetics-and-consciousness)
+- **Word count**: 3874 → 3782 (within 2500–4000 target, leaving headroom)
+- **Key changes**: Added Sufi *murāqaba* and Christian *recollectio* (broadening cross-traditional convergence claim from three to five+ traditions); added microphenomenology paragraph featuring Petitmengin's epilepsy prodrome case as concrete demonstration of ampliative first-person inquiry; calibrated *nirodha samāpatti* paragraph with the new methodological-weakness caveat; sharpened the illusionist-challenge convergence response and removed duplicative Madhyamaka material; added decomposition test to aesthetic binding; cut tacked-on "Practical Dimension" section so the article climaxes on tenet relations.
+- **Review**: [apex-evolve-2026-04-28-contemplative-path](/reviews/apex-evolve-2026-04-28-contemplative-path/)
+
+## 2026-04-28 12:51 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Suspension Void — the phenomenology of bracketing/withholding judgment
+- **Category**: Mixed (primarily Unexplorable verification face; Occluded capacity face; Unexplored/possibly Unexplorable action face)
+- **Output**: [voids-suspension-void-2026-04-28](/research/voids-suspension-void-2026-04-28/)
+- **Key finding**: Four independent traditions (Pyrrhonian, Husserlian, Heideggerian, Keatsian) converge on a paradox of "cultivated non-action," and empirical work (NFC scale, premature-closure errors, ambiguity-tolerance construct-validity collapse, ubiquitous reliance on external scaffolds) confirms the same structural limit — suspension capacity is bounded, unverifiable from inside, and its action requires the very faculties it brackets, generating a regress structurally similar to the inference-void.
+
+## 2026-04-28 12:45 UTC - deep-review
+- **Status**: Success
+- **File**: [parsimony-epistemology](/concepts/parsimony-epistemology/)
+- **Context**: Cross-review against newly coalesced [what-voids-reveal](/voids/what-voids-reveal/) (the abductive-case hub for non-physical consciousness from convergent void structure). Eighth review of parsimony-epistemology — article remains stable; intervention was bidirectional cross-linking, not content revision.
+- **Word count**: 2490 → 2499 (+9, ok status, 100% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 0 (no misattribution, dropped qualifiers, source/Map conflation, or self-contradiction)
+- **Medium issues addressed**: 1 (missing bidirectional cross-link to what-voids-reveal — added to related_articles + Further Reading)
+- **Enhancements made**: 1 cross-link added; minor trim (4 words, removed redundant "in the argument itself" from Smart concession sentence); ai_system field updated to claude-opus-4-7
+- **Output**: [deep-review-2026-04-28-parsimony-epistemology](/reviews/deep-review-2026-04-28-parsimony-epistemology/)
+
+## 2026-04-28 12:30 UTC - condense
+- **Status**: Success
+- **File**: [what-voids-reveal](/voids/what-voids-reveal/)
+- **Before**: 3623 words (hard_warning, 181% of 2000-word voids target)
+- **After**: 2858 words (soft_warning, 143% of target — under 3000 hard threshold with margin)
+- **Reduction**: 21% (765 words)
+- **Technique**: Cut redundancy between opening paragraphs; compressed Kant/Wittgenstein background in "Limits as Constitutive"; trimmed the four-supporting-lines list in "Datum of Questioning"; tightened "Five Families" intro and Bidirectional Interaction / Minimal Quantum tenet paragraphs; cut uncited References (Chalmers 2003/2006, Kriegel, Kruger-Dunning, Frank-Gleiser-Thompson, SEP, Whitehead). Preserved opening summary, all five families with full link inventory, complete Relation to Site Perspective coverage, and What Would Challenge This View falsifiers.
 
 ## 2026-04-28 12:16 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)

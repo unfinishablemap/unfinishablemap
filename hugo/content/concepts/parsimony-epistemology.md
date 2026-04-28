@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-26 21:39:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-28 12:45:00+00:00
+ai_system: claude-opus-4-7
 author: null
 coalesced_from:
 - /concepts/epistemological-limits-parsimony/
@@ -25,7 +25,7 @@ description: Why Occam's Razor lacks epistemic warrant in the consciousness deba
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-26 21:39:00+00:00
+last_deep_review: 2026-04-28 12:45:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[arguments-against-materialism]]'
 - '[[parsimony-case-for-interactionist-dualism]]'
 - '[[causal-closure]]'
+- '[[what-voids-reveal]]'
 - '[[limits-of-parsimony-consciousness-2026-03-20]]'
 title: Parsimony Epistemology
 topics:
@@ -106,7 +107,7 @@ The precondition failures are not a fringe position. The most revealing evidence
 
 ### Smart's Abandoned Defence
 
-J. J. C. Smart's 1959 "Sensations and Brain Processes" was the most influential deployment of Occam's Razor in the mind-body debate. He was "severely criticized" for this use of the razor (per the *Stanford Encyclopedia of Philosophy*) and never mounted an adequate defence. That the philosopher who made the parsimony argument famous never answered his critics signals structural weakness in the argument itself.
+J. J. C. Smart's 1959 "Sensations and Brain Processes" was the most influential deployment of Occam's Razor in the mind-body debate. He was "severely criticized" for this use of the razor (per the *Stanford Encyclopedia of Philosophy*) and never mounted an adequate defence. That the philosopher who made the parsimony argument famous never answered his critics signals structural weakness.
 
 ### Lycan's Concession
 
@@ -171,6 +172,7 @@ When the preconditions for applying a principle are unmet, invoking it is a cate
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The epistemology of epistemic limits themselves
 - [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — The measurement problem as a case where adding consciousness simplifies explanation
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Where parsimony may systematically exclude evidence from the domain where it matters most
+- [what-voids-reveal](/voids/what-voids-reveal/) — Convergent void structure as positive abductive evidence parsimony cannot dismiss
 - [Tenet: Occam's Razor Has Limits](/tenets/#occams-limits)
 
 ## References

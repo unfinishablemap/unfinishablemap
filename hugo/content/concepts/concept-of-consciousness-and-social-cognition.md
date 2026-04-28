@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-28 02:27:00+00:00
+ai_modified: 2026-04-28 13:37:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Does recursive mindreading require phenomenal consciousness or just
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 10:06:00+00:00
+last_deep_review: 2026-04-28 13:37:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -62,6 +62,8 @@ Understanding what others perceive—representing another's perceptual access as
 ### Level 2: Belief Attribution
 
 Understanding that others have beliefs that may differ from reality. Recent evidence has strengthened the case for some ape false belief understanding: Krupenye et al. (2016) showed chimpanzees, bonobos, and orangutans anticipated agents acting on false beliefs, and Buttelmann et al. (2017) found chimpanzees interpreting behaviour through an agent's false belief. Whether these results reflect genuine belief attribution or sophisticated behaviour-reading remains debated (Heyes 2014, Povinelli & Vonk 2003), but the evidence is substantially stronger than earlier negative results suggested.
+
+Apperly and Butterfill (2009) offer a productive reframing: two systems may operate here—an implicit, efficient system tracking belief-like states (potentially shared with apes) and an explicit, flexible system for full belief reasoning (perhaps distinctively human). This framework yields a unified reading of the contested data: apes possess the first system; humans uniquely possess the second. The metarepresentational threshold described below corresponds roughly to the boundary between these two systems.
 
 ### Level 3: Recursive Mindreading
 
