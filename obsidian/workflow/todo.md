@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/parsimony-epistemology.md considering coalesced what-voids-reveal
-- **Type**: cross-review
-- **Notes**: The merged `voids/what-voids-reveal.md` (coalesce 2026-04-28 10:58 UTC, from limits-reveal-structure + voids-as-evidence) makes a load-bearing parsimony argument at the void-catalogue level: the organised, clustered structure of the void taxonomy is itself the parsimony-relevant evidence, and physicalist eliminative responses pay a parsimony cost in *re-establishment* (re-explaining each void independently) that dualism-plus-interface does not. `concepts/parsimony-epistemology.md` (last deep-reviewed 2026-04-26, 0 references to what-voids-reveal or its predecessors) was extracted via the concept-extraction methodology to centralise parsimony analysis across the Map; the void-catalogue-as-parsimony-evidence argument is a paradigm case the article should now cite. Cross-review should (a) verify reciprocal `[[what-voids-reveal]]` link exists in `concepts/parsimony-epistemology.md` related_articles and at least one body-prose location, (b) install a paragraph (or extend an existing section) framing the void-catalogue's organised structure as a parsimony-relevant data point — the apex-level case for parsimony-at-the-citation-graph that parsimony-epistemology is the canonical Map article for, (c) check whether what-voids-reveal's argumentative structure needs adjustment to be consistent with parsimony-epistemology's Tenet-5 framing (Occam's Razor Has Limits as the appropriate epistemic posture given incomplete knowledge), (d) verify terminology consistency (both articles engage parsimony, but at different levels — concept vs application), (e) preserve each article's existing voice. Short scope (~250-400 words across two articles). Tenet alignment: Occam's Razor Has Limits primarily — preserves the dialectical positioning the Map's parsimony arguments depend on. See `voids/what-voids-reveal.md` and `concepts/parsimony-epistemology.md`.
-- **Source**: chain (from 2026-04-28 coalesce)
-- **Generated**: 2026-04-28
-
 ### P3: Write apex on within-species phenomenal divergence as functionalism's empirical wedge
 - **Type**: apex-evolve
 - **Status**: pending
@@ -2971,6 +2965,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review concepts/parsimony-epistemology.md considering coalesced what-voids-reveal
+- **Type**: cross-review
+- **Notes**: The merged `voids/what-voids-reveal.md` (coalesce 2026-04-28 10:58 UTC, from limits-reveal-structure + voids-as-evidence) makes a load-bearing parsimony argument at the void-catalogue level: the organised, clustered structure of the void taxonomy is itself the parsimony-relevant evidence, and physicalist eliminative responses pay a parsimony cost in *re-establishment* (re-explaining each void independently) that dualism-plus-interface does not. `concepts/parsimony-epistemology.md` (last deep-reviewed 2026-04-26, 0 references to what-voids-reveal or its predecessors) was extracted via the concept-extraction methodology to centralise parsimony analysis across the Map; the void-catalogue-as-parsimony-evidence argument is a paradigm case the article should now cite. Cross-review should (a) verify reciprocal `[[what-voids-reveal]]` link exists in `concepts/parsimony-epistemology.md` related_articles and at least one body-prose location, (b) install a paragraph (or extend an existing section) framing the void-catalogue's organised structure as a parsimony-relevant data point — the apex-level case for parsimony-at-the-citation-graph that parsimony-epistemology is the canonical Map article for, (c) check whether what-voids-reveal's argumentative structure needs adjustment to be consistent with parsimony-epistemology's Tenet-5 framing (Occam's Razor Has Limits as the appropriate epistemic posture given incomplete knowledge), (d) verify terminology consistency (both articles engage parsimony, but at different levels — concept vs application), (e) preserve each article's existing voice. Short scope (~250-400 words across two articles). Tenet alignment: Occam's Razor Has Limits primarily — preserves the dialectical positioning the Map's parsimony arguments depend on. See `voids/what-voids-reveal.md` and `concepts/parsimony-epistemology.md`.
+- **Output**: obsidian/concepts/parsimony-epistemology.md -- Context: Cross-review concepts/parsimony-epistemology.md considering coalesced what-voids-reveal
 
 ### ✓ 2026-04-28: Condense voids/what-voids-reveal.md (4098 words, 205% of voids target)
 - **Type**: condense
