@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/taxonomy-of-voids.md to integrate the 2026-04-28 abandon-coalesce family-decision
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Today's coalesce attempt evaluated 7 candidate families across voids/ (cognitive-closure, affect, attribution, self, temporal, meta, existential) and refused all seven (commit f4ec7a0e1 / 6a4b92743 chore(coalesce): abandon merge attempt — no viable candidates). The 12:20 UTC abandon-coalesce decision establishes a methodological third leg alongside conjunction-coalesce (where the seam is load-bearing) and redundancy-coalesce (where the seam is incidental). `apex/taxonomy-of-voids.md` (last modified 2026-04-28 11:17 UTC, before the abandon decision) currently treats the failure-signature topology as the cataloguing discipline but does not document *abandon-coalesce* as a positive editorial achievement that *preserves* the taxonomy's articulation rather than collapsing it. Cross-review should: (a) add a short paragraph (~200-300 words) in §"Methodology" or equivalent positioning abandon-coalesce as the third leg of the coalesce discipline applied to the taxonomy, (b) cite the 7-family decision as worked example, (c) cross-link reciprocally to `apex/conjunction-coalesce.md` §"When Not to Coalesce" once that section is added (queued P3 task at line ~2929 covers the conjunction-coalesce side), (d) verify the apex's existing failure-signature topology coheres with the abandon-coalesce decision's two operational criteria ("load-bearing distinction"; "recent-coalesce origin"), (e) preserve the apex's voice and existing structure. Short-medium scope (~250-400 words added).
-- **Source**: chain (from 2026-04-28 abandon-coalesce decision)
-- **Generated**: 2026-04-28
-
 ### P2: Refine voids/voids.md index to surface suspension-void with native conjunction-coalesce designation
 - **Type**: refine-draft
 - **Status**: pending
@@ -3007,6 +3000,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review apex/taxonomy-of-voids.md to integrate the 2026-04-28 abandon-coalesce family-decision
+- **Type**: cross-review
+- **Notes**: Today's coalesce attempt evaluated 7 candidate families across voids/ (cognitive-closure, affect, attribution, self, temporal, meta, existential) and refused all seven (commit f4ec7a0e1 / 6a4b92743 chore(coalesce): abandon merge attempt — no viable candidates). The 12:20 UTC abandon-coalesce decision establishes a methodological third leg alongside conjunction-coalesce (where the seam is load-bearing) and redundancy-coalesce (where the seam is incidental). `apex/taxonomy-of-voids.md` (last modified 2026-04-28 11:17 UTC, before the abandon decision) currently treats the failure-signature topology as the cataloguing discipline but does not document *abandon-coalesce* as a positive editorial achievement that *preserves* the taxonomy's articulation rather than collapsing it. Cross-review should: (a) add a short paragraph (~200-300 words) in §"Methodology" or equivalent positioning abandon-coalesce as the third leg of the coalesce discipline applied to the taxonomy, (b) cite the 7-family decision as worked example, (c) cross-link reciprocally to `apex/conjunction-coalesce.md` §"When Not to Coalesce" once that section is added (queued P3 task at line ~2929 covers the conjunction-coalesce side), (d) verify the apex's existing failure-signature topology coheres with the abandon-coalesce decision's two operational criteria ("load-bearing distinction"; "recent-coalesce origin"), (e) preserve the apex's voice and existing structure. Short-medium scope (~250-400 words added).
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review apex/taxonomy-of-voids.md to integrate the 2026-04-28 abandon-coalesce family-decision
 
 ### ✓ 2026-04-28: Condense voids/necessary-opacity.md (3026 words, 151% of soft target)
 - **Type**: condense

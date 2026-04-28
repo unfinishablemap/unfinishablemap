@@ -3,10 +3,10 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-04-28T10:45:00+00:00
+ai_modified: 2026-04-28T18:07:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—offers cumulative abductive support for the Map's tenet-package."
-last_deep_review: 2026-04-27T21:58:00+00:00
+last_deep_review: 2026-04-28T18:07:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
@@ -139,11 +139,11 @@ These signatures rarely appear in isolation. Where multiple limits overlap, thei
 
 Some pairs prove *conjoint* rather than merely interacting: the [[agency-void|agency void]] (passive + skeptical), [[voids-between-minds|voids between minds]] (existence + encounter + sharing), and [[erasure-void|erasure void]] (loss + monitoring) are two- and three-face voids whose joint structure does work no single face could. The [[conjunction-coalesce|conjunction-coalesce]] discipline preserves these as single entries with the seam between faces visible, because the seam itself encodes the claim.
 
+The complementary discipline is the **abandon-coalesce**: candidate pairs that *fail* the seam test on inspection. The 2026-04-28 coalesce passes evaluated dozens of candidates—the affective trio (affective / valence / mood), the cognitive-process opacity cluster (recognition / source-attribution / inference), and a seven-family sweep across cognitive-closure, affect, attribution, self, temporal, meta, and existential clusters—and *abandoned* every merger after finding the adjacent voids deliberately differentiated rather than redundant. Two operational criteria carry the verdicts: a **load-bearing distinction** (each candidate article opens by naming what its siblings are *not*, and the differentiation encodes a joint claim a merger would erase) and a **recent-coalesce origin** (the candidate is itself the product of a prior coalesce, and re-merging would over-flatten). Where conjunction-coalesce keeps the *seam* visible because the seam encodes a joint claim, abandon-coalesce keeps the *gap* visible because the gap encodes distinct claims. The apex's failure-signature topology supplies the running evidence that this differentiation is load-bearing across the catalogue rather than only in showcase cases—distinct signatures across nearby voids are exactly what a pure curation bias would not predict but what the abandon-coalesce verdict requires.
+
 The [[compound-failure-signatures|compound failure]] research has developed indirect methods for probing these interactive zones—sequential probing, signature identification, limit cartography, and cross-architecture comparison—extending the reach of [[apophatic-cartography|apophatic cartography]] into territory that direct investigation cannot access.
 
-The specificity matters. If every void produced the same generic failure—vague mystery, undifferentiated confusion—the taxonomy would collapse into unfalsifiable mysticism. Different voids producing different signatures is evidence that the taxonomy tracks real structure. The [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] maps each signature to its characteristic felt quality, confirming that the distinctions are phenomenologically real and not merely classificatory. As [[apophatic-cartography|apophatic cartography]] formalises: signature specificity is one of four criteria for treating cognitive failure as data about genuine boundaries.
-
-The other three criteria—structured persistence across time and frameworks, cross-observer convergence across independent traditions, and framework independence (the failure persists even when the motivating assumptions are abandoned)—strengthen the case that at least some voids mark genuine limits rather than current ignorance.
+The specificity matters. If every void produced the same generic failure—vague mystery, undifferentiated confusion—the taxonomy would collapse into unfalsifiable mysticism. Different voids producing different signatures is evidence that the taxonomy tracks real structure: the [[phenomenology-of-cognitive-limit-types|phenomenology of cognitive limit types]] maps each signature to its characteristic felt quality, confirming the distinctions are phenomenologically real. As [[apophatic-cartography|apophatic cartography]] formalises, signature specificity is one of four criteria—alongside structured persistence across time and frameworks, cross-observer convergence across independent traditions, and framework independence (the failure persists even when its motivating assumptions are abandoned)—for treating cognitive failure as data about genuine limits rather than current ignorance.
 
 ## The Convergence Pattern
 

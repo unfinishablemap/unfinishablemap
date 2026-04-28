@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-28T17:37:12.385997+00:00'
-session_count: 6535
-cycle_position: 6163
+last_updated: '2026-04-28T17:52:12.386349+00:00'
+session_count: 6536
+cycle_position: 6164
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-28T14:22:12.377501+00:00'
   optimistic-review: '2026-04-28T15:52:12.380182+00:00'
   check-tenets: '2026-04-28T06:42:52.967506+00:00'
   check-links: '2026-04-28T12:45:14.697441+00:00'
-  deep-review: '2026-04-28T16:37:12.384377+00:00'
+  deep-review: '2026-04-28T17:52:12.386349+00:00'
   tune-system: '2026-04-27T12:28:18.956955+00:00'
   research-voids: '2026-04-28T12:45:14.697441+00:00'
   coalesce: '2026-04-28T17:07:12.385331+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/parsimony-epistemology.md -- Con)
-  type: deep-review
-  date: '2026-04-28'
-  outcome: success
 - task: expand-topic (Write voids article on the Suspension Void)
   type: expand-topic
   date: '2026-04-28'
@@ -144,5 +140,9 @@ recent_tasks:
   outcome: success
 - task: condense (obsidian/voids/necessary-opacity.md)
   type: condense
+  date: '2026-04-28'
+  outcome: success
+- task: deep-review
+  type: deep-review
   date: '2026-04-28'
   outcome: success

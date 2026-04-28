@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 17:52:00+00:00
+ai_modified: 2026-04-28 18:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 18:07 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Mode**: Cross-review integrating 2026-04-28 abandon-coalesce family-decision into [[apex/taxonomy-of-voids]]
+- **File**: [[apex/taxonomy-of-voids]]
+- **Word count**: 4755 → 4917 (+162; 119% → 123% of 4000 soft threshold; under 5000 hard)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (abandon-coalesce family-decision unintegrated; apex previously documented conjunction-coalesce side only)
+- **Enhancements made**: 2 — (a) new ~170-word paragraph in §Compound Failure Signatures naming the **abandon-coalesce** as the third leg of the coalesce discipline alongside conjunction-coalesce and redundancy-coalesce, with two operational criteria (load-bearing distinction; recent-coalesce origin), worked-example anchors (affective trio; cognitive-process opacity cluster; 2026-04-28 seven-family sweep), and seam/gap symmetry connecting back to the apex's failure-signature topology; (b) §Topology of Failure closing two paragraphs compressed into one tighter paragraph (~27 words trimmed) to partially offset the addition.
+- **Cross-review deliverables satisfied**: (a) short paragraph in methodology-adjacent section ✓; (b) seven-family decision cited as worked example ✓; (c) reciprocal cross-link to apex/conjunction-coalesce §"When Not to Coalesce" deferred (that section not yet written; queued P3 task at todo.md line 2980); (d) failure-signature topology coherence with abandon-coalesce criteria explicitly named ✓; (e) voice and structure preserved ✓.
+- **Output**: [[reviews/deep-review-2026-04-28-taxonomy-of-voids]]
 
 ## 2026-04-28 17:52 UTC - deep-review
 - **Status**: Success
