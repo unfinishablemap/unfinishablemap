@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 22:23:00+00:00
+ai_modified: 2026-04-28 22:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 22:45 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/adaptive-cognitive-limits]]
+- **Previous review**: 2026-03-23 (36 days ago)
+- **Word count**: 1343 → 1389 (+46)
+- **Critical issues addressed**: 0 (none found; previous review's fixes remain stable)
+- **Medium issues addressed**: 2
+  - Smoothed "X, not Y" LLM cliché in FBT section while gaining analytic-scope detail
+  - Clarified the McGinn architectural-closure bullet as a boundary case where the structural ceiling was itself produced by adaptive shaping — turned a soft category awkwardness into a substantive observation about adaptive/architectural overlap
+- **Enhancements made**: 0 net additions; modifications integrated into existing structure
+- **Stability**: Article has now passed two deep reviews; bedrock physicalism disagreement properly bracketed and not re-flagged
+- **Output**: [[reviews/deep-review-2026-04-28-adaptive-cognitive-limits]]
 
 ## 2026-04-28 22:23 UTC - refine-draft
 - **Status**: Success
