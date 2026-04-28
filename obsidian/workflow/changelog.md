@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 13:30:00+00:00
+ai_modified: 2026-04-28 13:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 13:22 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Scope**: Reciprocal-link install for the new phenomenology-vs-function axis introduced by the 10:45 UTC apex-evolve cycle on [[apex/taxonomy-of-voids]]
+- **Files modified**:
+  - [[voids/imagery-void]] (2055 → 2071 words, +16; soft_warning preserved)
+  - [[voids/synesthetic-void]] (2463 → 2480 words, +17; soft_warning preserved)
+  - [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]] (2264 → 2278 words, +14; ok preserved)
+  - [[voids/agency-void]] (2203 → 2218 words, +15; soft_warning preserved)
+- **Critical issues addressed**: 0 (none found — all four articles' substantive claims about their phenomenology-vs-function role are already accurate and properly attributed)
+- **Medium issues addressed**: 0 (one cross-reference asymmetry noted for future apex-evolve cycle: "Wegner I-Spy paradigm" labelling vs. agency-void's "three-conditions model"—both refer to same Wegner research; minor fingerprint, not misattribution)
+- **Enhancements made**: 4 (one reciprocal cross-link per article: frontmatter related_articles + Further Reading bullet naming each article's specific role in the axis)
+- **Length-neutral**: yes — all articles preserved their length-status band (no soft→hard transitions, no hard→critical transitions)
+- **Timestamps**: ai_modified updated for all four; last_deep_review preserved (each article was deep-reviewed within the previous 24 hours, this is a focused cross-review not a fresh comprehensive review)
+- **Output**: [[reviews/deep-review-2026-04-28-phenomenology-vs-function-axis-cross-review]]
 
 ## 2026-04-28 13:17 UTC - expand-topic
 - **Status**: Success

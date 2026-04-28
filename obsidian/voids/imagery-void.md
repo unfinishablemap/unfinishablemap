@@ -4,7 +4,7 @@ description: "Human+AI exploration of why no conscious mind can verify the fidel
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T11:29:00+00:00
+ai_modified: 2026-04-28T13:22:00+00:00
 last_deep_review: 2026-04-28T11:29:00+00:00
 draft: false
 topics:
@@ -17,6 +17,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[taxonomy-of-voids]]"
   - "[[synesthetic-void]]"
   - "[[commensurability-void]]"
   - "[[acquaintance-void]]"
@@ -113,6 +114,7 @@ The Imagery Void also exemplifies the [[apophatic-cartography]] method on which 
 
 ## Further Reading
 
+- [[taxonomy-of-voids]] — Names the third face as the cleanest case of the cross-cutting phenomenology-vs-function axis
 - [[mental-imagery]] — The concept this void surrounds
 - [[phenomenology-of-imagination]] — First-person structure of imaginative acts
 - [[synesthetic-void]] — A parallel intra-species phenomenal divergence

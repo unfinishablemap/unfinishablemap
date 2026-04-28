@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-27T19:45:00+00:00
+ai_modified: 2026-04-28T13:22:00+00:00
 last_deep_review: 2026-04-27T16:00:00+00:00
 draft: false
 topics:
@@ -24,6 +24,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[taxonomy-of-voids]]"
   - "[[self-opacity]]"
   - "[[causal-interface]]"
   - "[[ownership-void]]"
@@ -138,6 +139,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
+- [[taxonomy-of-voids]] — Wegner's I-Spy paradigm as the agency-domain exemplar of the cross-cutting phenomenology-vs-function axis
 - [[self-opacity|Volitional Opacity]] — Why we cannot observe the mechanisms of willing
 - [[causal-interface|The Causal Interface Void]] — How consciousness connects to physics
 - [[erasure-void]] — Clinical sister case: self-monitoring eroding alongside what it would monitor
