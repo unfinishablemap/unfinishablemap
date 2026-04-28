@@ -2970,6 +2970,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
+### P3: Add §"When Not to Coalesce" to apex/conjunction-coalesce.md (abandon-coalesce as third leg)
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28c (High Priority). The 2026-04-28 12:20 UTC abandon-coalesce decision evaluated 7 candidate families in voids/ (cognitive-closure, affect, attribution, self, temporal, meta, existential) and refused all seven on grounds of load-bearing distinction or recent-coalesce origin — the inverse of yesterday's apex/conjunction-coalesce discipline. The methodology has named *conjunction-coalesce* (where the seam is load-bearing) and *redundancy-coalesce* (where the seam is incidental); the third case — *abandon-coalesce*, where evaluation finds neither pattern present and merging would damage rather than improve — is implicit in the apex but not articulated. Refine should (a) add §"When Not to Coalesce" within `apex/conjunction-coalesce.md`, (b) name the abandon-coalesce decision as a positive editorial achievement rather than failure-to-act, (c) specify operational criteria for the two grounds named in the changelog ("load-bearing distinction": each candidate's structural difference encodes a separate joint claim; "recent-coalesce origin": the candidate is itself the product of a recent coalesce and merging again would risk over-flattening), (d) cross-reference the 12:20 UTC decision as the worked example. Short scope (~600 words added). Tenet alignment: Occam's Razor Has Limits — operationalising the discipline of *not collapsing distinctions when the distinctions are doing structural work*. See optimistic-2026-04-28c.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Write concept on closure-modes across cognitive functions
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28c (High Priority). The new `voids/suspension-void.md` identifies a structural conjugate between premature closure (suspension failure) and parsimony preference (Occam's Razor) under one architectural feature: "suspension and parsimony-bias share a structural form: *cut deliberation short by collapsing onto a salient option*." The same form connects four void/concept articles — `voids/suspension-void.md` (premature closure), `concepts/parsimony-epistemology.md` (parsimony preference), `voids/inference-void.md` (inference closure), `voids/question-formation-void.md` (question-formation closure). None of the four currently cross-link to this structural commonality. Article should (a) name and articulate the closure-modes-across-cognitive-functions diagnosis, (b) survey the four cases above with their distinctive closure mechanisms, (c) identify the architectural commonality (heuristic-driven collapse onto salient option in absence of internal completion criterion) and what it predicts (failure modes share signature even though target functions differ), (d) honest limitation — the unification could mask genuine functional differences if "collapsing onto salient option" is too coarse-grained. Target: `concepts/closure-modes.md` or similar. Scope: 1500–2000 words. Tenet alignment: Occam's Razor Has Limits directly; Dualism via the architectural reading of the closure mechanism. See optimistic-2026-04-28c.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Document cliché-ban-detection division of labour between deep-review and pessimistic-review
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28c (Medium Priority). The 2026-04-28 14:28 UTC pessimistic-review of `voids/suspension-void.md` caught two inverted "Y, not X" cliché-formulations the prior two deep-reviews had missed; the 2026-04-28 15:13 UTC deep-review of `concepts/narrative-coherence.md` ran specifically to catch a third such cliché. The deep-review pass is currently missing the inverted form of the writing-style.md banned cliché. Three options: (a) codify the cliché check explicitly in the `.claude/skills/deep-review/SKILL.md` instructions; (b) acknowledge the pessimistic-review carries the cliché-detection load and document the division of labour in `obsidian/project/` documentation; (c) add a dedicated cliché-pass skill that runs faster than full deep-review. Refine should produce one of these three outcomes — likely (a) is simplest. Short scope (skill update). Tenet alignment: indirect — the cliché ban is a writing-style commitment; the system's discipline of catching writing-style violations is itself part of the Map's editorial honesty. See optimistic-2026-04-28c.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Cross-link suspension-void from apex/conjunction-coalesce, parsimony-epistemology, contemplative-path, apophatic-approaches
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28c (Cross-Linking Suggestions). The new `voids/suspension-void.md` is the first article to instantiate the conjunction-coalesce methodology *natively at creation* (rather than retrofitting), and it links one-way to four target articles that should reciprocally cite it: (a) `apex/conjunction-coalesce.md` should add suspension-void as a native-application example to surface conjunction-coalesce's productive use to readers entering at the apex; (b) `concepts/parsimony-epistemology.md` should specifically cite suspension-void as the structural conjugate of parsimony-preference rather than just citing voids generally (the 12:50 UTC deep-review installed general voids-cluster cross-links but not the conjugate-claim); (c) `apex/contemplative-path.md` should cross-link to suspension-void in its witness-consciousness section as the structural counterpart of Husserlian *epochē* and Buddhist *vipassanā* practice; (d) `concepts/apophatic-approaches.md` should reciprocally cite suspension-void as the diagnostic structure underlying the apophatic move. Short scope (~250 words across four articles). Tenet alignment: methodological. See optimistic-2026-04-28c.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
 ## Completed Tasks
 
 
