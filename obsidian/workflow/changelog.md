@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 18:52:00+00:00
+ai_modified: 2026-04-28 19:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 19:54 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Original score**: not run (curate.py review tool not present in repo); residual pessimistic-2026-04-28 issues addressed per task notes
+- **Changes**: (a) §"The Dispositional Modality Problem" pain-asymbolia paragraph rewritten so the constitutive-connection claim applies to each *component* powerful quality (sensory localisation; aversive valence) rather than to "pain" as a unitary phenomenon — closes pessimistic Issue 5 / secondary-(b); (b) §"Relation to Site Perspective" closing affinities rewritten so the Dualism, Bidirectional Interaction, and Minimal Quantum Interaction subsections align with the body's positions: Dualism is "best served by governing-laws + powerful qualities" (Humean supervenience flagged uncomfortable, pure essentialism rejected on disanalogy); Bidirectional Interaction's strongest support is governing-laws + powerful qualities (not + dispositional essentialism, since the disanalogy denies the necessary fundamentality); Minimal Quantum Interaction is grounded by the cross-product, with explicit Tegmark dependence and cross-link to [[quantum-biology-and-neural-mechanisms]] / [[penrose-gravity-induced-collapse-empirical-prospects]] — closes pessimistic secondary-(e)
+- **Words touched**: ~280 across two paragraphs (target was 600-1000 across ~5 paragraphs; remaining issues turned out local rather than structural since 02:29 UTC pass already installed structural fixes 1-3 + secondary (a)/(c)/(d), and those survived condense + cross-product + language passes)
+- **Verified surviving from prior passes**: conditional-necessity carried through to powerful-qualities weaker-commitment claim (lines 124-126); collapse-or-conjunction dilemma named with Taylor 2018, Coates 2019, Engelhard 2010 citations + Map's first-horn answer (line 138); legislation problem answered with bi-aspectual + interface model candidate principles (line 86); Tegmark/Schlosshauer engagement (line 152); Mørch power-monist Russellian monism reply (line 120); no "not X but Y" regressions
+- **Published**: yes (draft: false unchanged)
 
 ## 2026-04-28 19:45 UTC - deep-review
 - **Status**: Success
