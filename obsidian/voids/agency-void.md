@@ -4,8 +4,8 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-28T14:52:00+00:00
-last_deep_review: 2026-04-27T16:00:00+00:00
+ai_modified: 2026-04-28T16:08:00+00:00
+last_deep_review: 2026-04-28T16:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -101,7 +101,7 @@ The same structure catches this article's own argument: the claim "consciousness
 
 **Exclusion.** Kim's causal exclusion argument holds that if [[causal-closure|causal closure]] obtains, mental causation is either redundant or illusory. The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet seeks room at quantum indeterminacies—but verifying genuine intervention would require consciousness observing itself biasing quantum outcomes, returning to the circularity problem.
 
-**Attribution.** Wegner (2002) identifies three conditions producing the sense of agency: priority, consistency, exclusivity. When met, we *feel* we caused our actions regardless of whether we did; when disrupted—alien hand syndrome, automatisms—we deny authorship. The Map borrows Wegner's diagnosis while declining his conclusion: under [[tenets#^bidirectional-interaction|Bidirectional Interaction]], a faulty attribution system can coexist with genuine causal influence, so showing the *feeling* of agency is constructed does not show agency is fictional.
+**Attribution.** Wegner's *I-Spy paradigm* (Wegner & Wheatley 1999; Wegner 2002) operationalises a function-phenomenology dissociation in the agency domain: under arranged conditions of priority, consistency, and exclusivity, the *experience* of willing diverges from the underlying causation, so we *feel* authorship regardless of whether we caused the act, and lose the feeling under disruption—alien hand syndrome, automatisms—even when our motor system continues to act. The Map borrows Wegner's diagnosis while declining his conclusion: under [[tenets#^bidirectional-interaction|Bidirectional Interaction]], a faulty attribution system can coexist with genuine causal influence, so showing the *feeling* of agency is constructed does not show agency is fictional.
 
 **Perspective.** Velmans (2020) observes that consciousness appears causally efficacious from the first-person perspective and irrelevant from the third. Unlike observer-dependent facts in physics, first- and third-person verdicts on agency have no shared formalism to adjudicate between them.
 
@@ -166,3 +166,4 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 11. Thompson, E. (2014). *Waking, Dreaming, Being: Self and Consciousness in Neuroscience, Meditation, and Philosophy*. Columbia University Press.
 12. Velmans, M. (2020). "The Causal Efficacy of Consciousness." *Entropy*, 22(8), 823.
 13. Wegner, D.M. (2002). *The Illusion of Conscious Will*. MIT Press.
+14. Wegner, D.M., & Wheatley, T. (1999). "Apparent Mental Causation: Sources of the Experience of Will." *American Psychologist*, 54(7), 480–492.

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 15:52:00+00:00
+ai_modified: 2026-04-28 16:08:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 16:08 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Mode**: Cross-review — four exemplar voids against the new phenomenology-vs-function axis introduced in [[apex/taxonomy-of-voids]] (apex-evolve 2026-04-28T10:45 UTC)
+- **Articles cross-reviewed**: [[voids/imagery-void]], [[voids/synesthetic-void]], [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]], [[voids/agency-void]]
+- **Critical issues addressed**: 2 (apex/article alignment gaps)
+  - **agency-void**: apex cited "Wegner's I-Spy paradigm" but body discussed only Wegner 2002 three-conditions framework; I-Spy not named. Fixed by rewriting Attribution paragraph to name the paradigm and frame it as a function-phenomenology dissociation. Added Wegner & Wheatley (1999) to references.
+  - **cognitive-phenomenology-and-the-irreducibility-of-thought**: apex cited "Strawson's foreign-language argument" but body deployed the argument without attribution. Strawson appeared in references only. Fixed by inline attribution to Strawson (1994) *Mental Reality*.
+- **Articles unchanged**: [[voids/imagery-void]] and [[voids/synesthetic-void]] already deliver the apex's specific citations (Kay/Keogh/Pearson 2024 + Zeman 2024; Wager's "extra qualia problem" + Gray 2003). No edits needed.
+- **Word counts**: agency-void +15 words (still within soft_warning); cognitive-phenomenology +7 words (still 76% of soft target).
+- **Output**: [[reviews/cross-review-2026-04-28-axis-exemplars]]
 
 ## 2026-04-28 15:52 UTC - optimistic-review
 - **Status**: Success

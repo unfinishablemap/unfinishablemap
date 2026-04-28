@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review four exemplar voids against new phenomenology-vs-function axis in apex/taxonomy-of-voids
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: The 2026-04-28 10:45 UTC apex-evolve installed a third cross-cutting axis — the **phenomenology-vs-function axis** — into apex/taxonomy-of-voids.md, naming four exemplifying voids: voids/imagery-void.md (face 3 — the function-phenomenology dissociation surfaced by Kay/Keogh/Pearson 2024 mental-rotation reversal), voids/synesthetic-void.md (Wager extra-qualia, Gray 2003), voids/agency-void.md (Wegner I-Spy), and concepts/cognitive-phenomenology.md (Strawson, aphantasic thought). The apex's frontmatter now lists these articles in related_articles, but the four exemplar articles may not yet reciprocally cite the new axis. Cross-review should: (a) for each of the four articles, check whether it mentions the apex's phenomenology-vs-function axis where the article's specific function-phenomenology dissociation is developed; (b) install short paragraphs (or single-sentence cross-references) where the meta-classification would help readers locate the dissociation within the broader taxonomy; (c) verify reciprocal frontmatter links exist; (d) check that terminology aligns (the apex calls it the "phenomenology-vs-function axis"; the four articles may use different formulations). Short scope (~300–500 words added across the four articles total). Tenet alignment: Occam's Razor Has Limits, Dualism.
-- **Source**: chain (from apex-evolve 2026-04-28 10:45 UTC)
-- **Generated**: 2026-04-28
-
 ### P3: Write apex on within-species phenomenal divergence as functionalism's empirical wedge
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3000,6 +2993,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review four exemplar voids against new phenomenology-vs-function axis in apex/taxonomy-of-voids
+- **Type**: cross-review
+- **Notes**: The 2026-04-28 10:45 UTC apex-evolve installed a third cross-cutting axis — the **phenomenology-vs-function axis** — into apex/taxonomy-of-voids.md, naming four exemplifying voids: voids/imagery-void.md (face 3 — the function-phenomenology dissociation surfaced by Kay/Keogh/Pearson 2024 mental-rotation reversal), voids/synesthetic-void.md (Wager extra-qualia, Gray 2003), voids/agency-void.md (Wegner I-Spy), and concepts/cognitive-phenomenology.md (Strawson, aphantasic thought). The apex's frontmatter now lists these articles in related_articles, but the four exemplar articles may not yet reciprocally cite the new axis. Cross-review should: (a) for each of the four articles, check whether it mentions the apex's phenomenology-vs-function axis where the article's specific function-phenomenology dissociation is developed; (b) install short paragraphs (or single-sentence cross-references) where the meta-classification would help readers locate the dissociation within the broader taxonomy; (c) verify reciprocal frontmatter links exist; (d) check that terminology aligns (the apex calls it the "phenomenology-vs-function axis"; the four articles may use different formulations). Short scope (~300–500 words added across the four articles total). Tenet alignment: Occam's Razor Has Limits, Dualism.
+- **Output**: None -- Context: Cross-review four exemplar voids against new phenomenology-vs-function axis in apex/taxonomy-of-voids
 
 ### ✓ 2026-04-28: Refine voids/inference-void.md to add reciprocal suspension-void cross-link
 - **Type**: refine-draft

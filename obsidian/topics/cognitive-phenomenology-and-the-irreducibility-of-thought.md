@@ -4,8 +4,8 @@ description: "If thinking itself has phenomenal character beyond sensory accompa
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-28T13:22:00+00:00
-last_deep_review: 2026-04-28T09:28:00+00:00
+ai_modified: 2026-04-28T16:08:00+00:00
+last_deep_review: 2026-04-28T16:08:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -99,7 +99,7 @@ People with aphantasia (no visual imagery) still understand, reason, and have in
 
 Tip-of-the-tongue states reveal meaning without sensory form. You know the word — you can identify its first letter, semantic neighbours, syllable count — but the phonological form is absent. The meaning is phenomenally present without its sensory vehicle. If cognitive phenomenology is sensory, what is the subject experiencing?
 
-The phenomenal contrast in understanding — hearing French when you understand it versus when you do not — is the most direct evidence. The same auditory input produces different phenomenal states. The conservative must locate this difference in subtle sensory variations, but the most natural explanation is that understanding contributes its own phenomenal character.
+The phenomenal contrast in understanding — hearing French when you understand it versus when you do not — is the most direct evidence, and is Strawson's (1994) *foreign-language argument* in *Mental Reality*. The same auditory input produces different phenomenal states. The conservative must locate this difference in subtle sensory variations, but the most natural explanation is that understanding contributes its own phenomenal character.
 
 ## Relation to Site Perspective
 
