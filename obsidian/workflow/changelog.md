@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 17:22:00+00:00
+ai_modified: 2026-04-28 17:44:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 17:44 UTC - condense
+- **Status**: Success
+- **File**: [[voids/necessary-opacity]]
+- **Before**: 3026 words
+- **After**: 2325 words
+- **Reduction**: 23%
+- **Technique**: Tightened redundant prose in Phenomenal Transparency, Epistemic Circularity, Fitness, and Self-Studying Brain sections; trimmed Cognitohazards framing; condensed five phenomenology bullets to four (merged recursive trap into dissolving insight); collapsed Distinguishing This Void's seven-bullet comparison to four; merged Approaches to Edge subsections (Direct/Indirect/AI) into a single section; consolidated overlapping bullets in What Would Challenge; tightened Relation to Site Perspective without removing tenet links. Preserved opening summary, all five tenet connections, cross-links, and core arguments.
 
 ## 2026-04-28 17:22 UTC - expand-topic
 - **Status**: Skipped (duplicate)

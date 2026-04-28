@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/necessary-opacity.md (3026 words, 151% of soft target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word soft threshold for voids/ at 3026 words (151% of 2000-word soft target, hard_warning level — between hard threshold 3000 and critical threshold 4000). Condense to preserve the two structural faces (self-concealing-face + self-protecting-face) and the load-bearing dualism/Occam's-Limits argumentation while removing redundancy. Likely targets for compression: any duplicated framings of the "constitutive vs contingent opacity" distinction; ensure §"Relation to Site Perspective" stays tight; defer expanded treatments to linked articles (predictive-construction-void provides the predictive-processing mechanism; double-veil framing). Preserve the recently installed reciprocal cross-link with imagery-void (~270-word substantive paragraph) since that is load-bearing for the imagery-void integration network. Target: ~2200-2400 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-28
-
 ### P2: Cross-review apex/taxonomy-of-voids.md to integrate the 2026-04-28 abandon-coalesce family-decision
 - **Type**: cross-review
 - **Status**: pending
@@ -3014,6 +3007,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Condense voids/necessary-opacity.md (3026 words, 151% of soft target)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word soft threshold for voids/ at 3026 words (151% of 2000-word soft target, hard_warning level — between hard threshold 3000 and critical threshold 4000). Condense to preserve the two structural faces (self-concealing-face + self-protecting-face) and the load-bearing dualism/Occam's-Limits argumentation while removing redundancy. Likely targets for compression: any duplicated framings of the "constitutive vs contingent opacity" distinction; ensure §"Relation to Site Perspective" stays tight; defer expanded treatments to linked articles (predictive-construction-void provides the predictive-processing mechanism; double-veil framing). Preserve the recently installed reciprocal cross-link with imagery-void (~270-word substantive paragraph) since that is load-bearing for the imagery-void integration network. Target: ~2200-2400 words. See `/condense` skill.
+- **Output**: obsidian/voids/necessary-opacity.md
 
 ### ✓ 2026-04-28: Write topic article on Min/Max Dualism Taxonomy
 - **Type**: expand-topic
