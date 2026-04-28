@@ -4,7 +4,7 @@ description: "Past conscious states are structurally inaccessible — both becau
 created: 2026-01-29
 modified: 2026-03-19
 human_modified: null
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-04-28T22:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -169,7 +169,7 @@ None of these conditions has been met. Memory is construction, not retrieval, an
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is demonstrated by the active role consciousness plays in memory. The present self does not passively receive stored information — it actively constructs, selects, and distorts. If consciousness were causally inert, this shaping would not occur; the "present self's needs" would not influence neural reconstruction. The void reveals bidirectional interaction across time: past experience constrains present reconstruction, while present consciousness determines which patterns to activate and how to interpret them.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** focuses the question. Memory presupposes a single actual past: when you remember, you remember something as having actually occurred. The void concerns whether that unique actual past — the one sequence of experiences that constitutes your history — can be phenomenally re-entered. The inaccessible past is intensely indexical. "Why am I this person now rather than that person then?" parallels "why this branch?" The question has no answer but feels meaningful.
+**[[tenets#^no-many-worlds|No Many Worlds]]** focuses the question. Memory presupposes a single actual past: when you remember, you remember something as having actually occurred. [[many-worlds#MWI's Branch-Relative Indexicality Reply|Branch-relative indexicality]] can already secure branch-local pastness; the Map's stronger reading is that the past is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable to thread the past self across branch-alternatives. The void concerns whether that unique actual past — the one sequence of experiences that constitutes your history — can be phenomenally re-entered. The inaccessible past is intensely indexical. "Why am I this person now rather than that person then?" parallels "why this branch?" The question has no answer but feels meaningful.
 
 **[[tenets#^occams-limits|Occam's Razor Has Limits]]** applies directly. The simple assumption — that memory is a window to the past, that vivid remembering means genuine access — is almost certainly wrong. The reconstructive picture is less elegant but better supported. Our intuitive model of memory as storage-and-retrieval, like a video recording, systematically misleads us about what we can access.
 

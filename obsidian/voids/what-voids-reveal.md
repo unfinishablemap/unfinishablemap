@@ -4,7 +4,7 @@ description: "Cognitive limits are doubly informative: their shape reveals archi
 created: 2026-01-16
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T12:30:00+00:00
+ai_modified: 2026-04-28T22:23:00+00:00
 last_deep_review: 2026-04-28T12:00:00+00:00
 draft: false
 topics:
@@ -159,7 +159,7 @@ The two arguments connect to each of the Map's [[tenets]], often reinforcing one
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** sits at the intersection of phenomenal core and framework reflexivity. This compound position helps explain why the interaction mechanism resists articulation—understanding it requires crossing two family boundaries simultaneously.
 
-**[[tenets#^no-many-worlds|No Many Worlds]]** connects through indexicality. "Why am I this branch?" may be a mystery rather than a problem. The evidential weight of "questioning beings exist" depends on there being a fact of the matter about *which* questioning is occurring.
+**[[tenets#^no-many-worlds|No Many Worlds]]** connects through indexicality. [[many-worlds#MWI's Branch-Relative Indexicality Reply|Branch-relative indexicality]] can already secure the branch-local fact that *this* questioning is occurring; the Map's stronger reading is that questioning is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable. "Why am I this branch?" may be a mystery rather than a problem. The evidential weight of "questioning beings exist" depends on there being a fact of the matter about *which* questioning is occurring.
 
 If the voids reveal cognitive architecture and the catalogue's organised structure points beyond physical exhaustion, three implications follow:
 

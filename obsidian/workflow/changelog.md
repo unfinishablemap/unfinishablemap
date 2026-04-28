@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 22:09:00+00:00
+ai_modified: 2026-04-28 22:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 22:23 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[voids/thought-stream-void]], [[voids/ineffable-encounter-void]], [[voids/temporal-void]], [[voids/origin-of-consciousness]], [[voids/what-voids-reveal]], [[voids/inaccessible-past]]
+- **Trigger**: Chained P2 audit follow-up from 2026-04-28 16:53 UTC MWI indexicality audit (`reviews/deep-review-2026-04-28-voids-mwi-indexicality-audit.md`). The audit fixed 9 high-priority misframes and explicitly deferred these 6 medium-priority articles.
+- **Changes**: For each article's No-Many-Worlds passage, applied the audit's uniform fix pattern: conceded that [[many-worlds#MWI's Branch-Relative Indexicality Reply|Saunders/Wallace branch-relative indexicality]] secures branch-local felt singularity; sharpened the Map's commitment to the stronger one-branch-only reading; identified the cross-branch personal-identity relation MWI's Born-rule recovery requires as the load-bearing point of unavailability. Installed the canonical cross-link at the load-bearing point in each article rather than re-explaining the reply.
+- **Word count impact**: ~+50–60 words per article (~+325 total). No article approached length thresholds.
+- **Voice preservation**: Edits confined to the No-Many-Worlds bullet within each "Relation to Site Perspective" section. All other content untouched. Existing voice and length-neutral mode preserved per voids soft threshold (2000 words).
+- **Tenet alignment**: No Many Worlds — staging the rejection at the load-bearing point (cross-branch personal-identity for Born-rule recovery) rather than at the easily-rebutted point (branch-local felt singularity), per the audit's stability note.
+- **Published**: yes
 
 ## 2026-04-28 22:09 UTC - condense
 - **Status**: Success
