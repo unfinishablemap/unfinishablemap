@@ -4,7 +4,7 @@ description: "Imagination's distinctive phenomenal character—voluntary, quasi-
 created: 2026-02-15
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-23T06:38:00+00:00
+ai_modified: 2026-04-28T08:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -39,12 +39,13 @@ related_articles:
   - "[[dream-consciousness]]"
   - "[[phenomenology-of-moral-life]]"
   - "[[imagination-and-creativity-void]]"
+  - "[[imagery-void]]"
 ai_contribution: 100
 author:
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-04-20T02:38:00+00:00
+last_deep_review: 2026-04-28T08:42:00+00:00
 ---
 
 Imagination occupies a unique phenomenal territory—borrowing from perception, memory, and thought while remaining distinct from each. When you imagine a purple elephant standing in your kitchen, the experience has a specific character: quasi-perceptual vividness without sensory conviction, voluntary directedness without guaranteed compliance, and a felt awareness that the content is self-generated rather than world-given. The Unfinishable Map holds that this distinctive phenomenal profile resists materialist reduction. Imagination reveals consciousness as an active structuring force—assembling novel experiential wholes from components that need never have co-occurred in perception—rather than a passive replay mechanism running on neural hardware.
@@ -65,7 +66,7 @@ The phenomenology of imagination creates problems for [[concepts/functionalism]]
 
 Consider the difference between imagining a sunset and imagining a mathematical proof. Both involve generating novel content. Both can serve planning functions. Yet the phenomenal character differs radically—one is saturated with quasi-visual [[qualia]], the other is an instance of [[cognitive-phenomenology]] that may involve no imagery at all. Aphantasics who cannot voluntarily generate visual imagery can still imagine scenarios, plan, and create—but their imagination has a fundamentally different phenomenal texture. If two states serve identical functional roles yet feel completely different, phenomenal character is not captured by functional role.
 
-The variation across individuals sharpens this point. The heterogeneity of imagination (Kind, 2013) ranges from hyperphantasics who report imagined scenes almost as vivid as perception to aphantasics who report little or no voluntary imagery, relying instead on abstract knowledge of what they are "imagining"—though some retain imagery in other sensory modalities (Zeman et al., 2024). Both groups can perform core imaginative tasks—planning, creative problem-solving, hypothetical reasoning—despite subtle differences in cognitive style. The broad functional overlap persists across enormous phenomenal variation. A sophisticated functionalist might respond that these are not truly identical functional roles, since aphantasics show different cognitive profiles (reduced autobiographical memory, different problem-solving strategies). But this response concedes the point in another way: it acknowledges that phenomenal character and cognitive function co-vary, which is precisely what pure functionalism denies by defining mental states solely through abstract causal roles.
+The variation across individuals sharpens this point. The heterogeneity of imagination (Kind, 2013) ranges from hyperphantasics who report imagined scenes almost as vivid as perception to aphantasics who report little or no voluntary imagery, relying instead on abstract knowledge of what they are "imagining"—though some retain imagery in other sensory modalities (Zeman et al., 2024). Both groups can perform core imaginative tasks—planning, creative problem-solving, hypothetical reasoning—but with phenomenally distinct strategies: aphantasics complete classical mental rotation via analytic methods rather than object-based rotation, slower but more accurately (Kay, Keogh & Pearson, 2024). This intra-species divergence is one face of the [[imagery-void]]—the structural impossibility of comparing imagery phenomenology across minds even when linguistic reports converge. The broad functional overlap persists across enormous phenomenal variation. A sophisticated functionalist might respond that these are not truly identical functional roles, since aphantasics show different cognitive profiles (reduced autobiographical memory, different problem-solving strategies). But this response concedes the point in another way: it acknowledges that phenomenal character and cognitive function co-vary, which is precisely what pure functionalism denies by defining mental states solely through abstract causal roles.
 
 ## Imagination as Counterfactual Inhabitation
 
@@ -121,6 +122,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 - [[lucid-dreaming-and-dualist-rendering]] — Lucid dreaming as voluntary imagination operating with full phenomenal richness during sleep
 - [[phenomenology-of-moral-life]] — Moral imagination and the felt quality of ethical perception
 - [[imagination-and-creativity-void]] — The opacity of consciousness's generative processes
+- [[imagery-void]] — The structural impossibility of verifying imagery's fidelity, comparing it across minds, or pinning down whether the phenomenal image does the cognitive work it appears to
 - [[thought-stream-void]] — The parallel opacity of spontaneous thought's arrival and departure
 - [[mood-void]] — The affective medium within which imagination unfolds, itself opaque to introspection
 - [[dual-domain-capabilities-in-proprioception-and-spatial-imagination]] — Spatial imagination as a dual-domain capability: the aphantasia dissociation as evidence for separable physical and phenomenal contributions
@@ -131,6 +133,7 @@ Imagination bears on several of the Map's [[tenets]] in distinctive ways.
 1. Hume, D. (1739). *A Treatise of Human Nature*. Book I, Part I, Section I.
 1. Husserl, E. (1913/1983). *Ideas Pertaining to a Pure Phenomenology and to a Phenomenological Philosophy, First Book*. Trans. F. Kersten. Martinus Nijhoff.
 1. Husserl, E. (2005). *Phantasy, Image Consciousness, and Memory (1898–1925)*. Collected Works, Vol. XI. Springer.
+1. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*.
 1. Kind, A. (2013). The Heterogeneity of the Imagination. *Erkenntnis*, 78(1), 141–159.
 1. Kosslyn, S.M. (1994). *Image and Brain: The Resolution of the Imagery Debate*. MIT Press.
 1. Radford, C. & Weston, M. (1975). How Can We Be Moved by the Fate of Anna Karenina? *Proceedings of the Aristotelian Society*, Supplementary Volumes, 49, 67–93.

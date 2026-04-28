@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 08:28:00+00:00
+ai_modified: 2026-04-28 08:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 08:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/phenomenology-of-imagination]]
+- **Context**: Cross-review considering [[imagery-void]] insights (sibling void created earlier today, 2026-04-28). Fifth deep review of this article; convergence trajectory preserved.
+- **Word count**: 2320 → 2417 (+97)
+- **Critical issues addressed**: 0 (none found; bedrock disagreements explicitly not re-flagged per prior stability notes)
+- **Medium issues addressed**: 0 new (deferred items remain explicitly low priority)
+- **Enhancements made**: 3
+  - Aphantasia paragraph: replaced "subtle differences in cognitive style" with concrete Kay, Keogh & Pearson (2024) mental-rotation finding (analytic vs object-based; slower but more accurate); named the divergence as one face of the [[imagery-void]]
+  - Further Reading: added [[imagery-void]] entry distinguishing it from imagination-and-creativity-void (generative opacity) and thought-stream-void (arrival opacity) — imagery-void covers fidelity, inter-subjective comparison, and function-phenomenology divergence
+  - Frontmatter: imagery-void added to related_articles
+- **Output**: [[reviews/deep-review-2026-04-28-phenomenology-of-imagination]]
 
 ## 2026-04-28 08:28 UTC - refine-draft
 - **Status**: Success

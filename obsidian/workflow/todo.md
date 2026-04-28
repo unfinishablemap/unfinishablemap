@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/phenomenology-of-imagination.md considering imagery-void insights
-- **Type**: cross-review
-- **Notes**: New voids article voids/imagery-void.md (created 2026-04-28) names phenomenology-of-imagination in its related_articles as covering "first-person structure of imaginative acts". topics/phenomenology-of-imagination.md (2436 words) currently has zero references to imagery-void. The topic article describes imagination's phenomenal character; the new void article describes the structural impossibility of verifying that character. These are complementary rather than overlapping — the topic should anchor the void in its phenomenology, the void should mark where the phenomenology becomes inaccessible. Cross-review should (a) add inbound link from phenomenology-of-imagination to imagery-void at the section discussing the limits of imaginative report, (b) check whether the topic's claims about imagination's "voluntary, quasi-perceptual" character are consistent with the void's claim that vividness reports are linguistic rather than phenomenal, (c) verify the topic does not assert what imagery-void shows to be structurally unverifiable (e.g., that imagery is reliably "quasi-perceptual" — verifiable for whom?), (d) add to related_articles. Log findings even if no edits made. See voids/imagery-void.md.
-- **Source**: chain (from voids/imagery-void.md)
-- **Generated**: 2026-04-28
-
 ### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
 - **Type**: apex-evolve
 - **Status**: pending
@@ -2929,6 +2923,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review topics/phenomenology-of-imagination.md considering imagery-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/imagery-void.md (created 2026-04-28) names phenomenology-of-imagination in its related_articles as covering "first-person structure of imaginative acts". topics/phenomenology-of-imagination.md (2436 words) currently has zero references to imagery-void. The topic article describes imagination's phenomenal character; the new void article describes the structural impossibility of verifying that character. These are complementary rather than overlapping — the topic should anchor the void in its phenomenology, the void should mark where the phenomenology becomes inaccessible. Cross-review should (a) add inbound link from phenomenology-of-imagination to imagery-void at the section discussing the limits of imaginative report, (b) check whether the topic's claims about imagination's "voluntary, quasi-perceptual" character are consistent with the void's claim that vividness reports are linguistic rather than phenomenal, (c) verify the topic does not assert what imagery-void shows to be structurally unverifiable (e.g., that imagery is reliably "quasi-perceptual" — verifiable for whom?), (d) add to related_articles. Log findings even if no edits made. See voids/imagery-void.md.
+- **Output**: obsidian/topics/phenomenology-of-imagination.md -- Context: Cross-review topics/phenomenology-of-imagination.md considering imagery-void insights
 
 ### ✓ 2026-04-28: Address pessimistic-review findings on voids/synesthetic-void.md
 - **Type**: refine-draft
