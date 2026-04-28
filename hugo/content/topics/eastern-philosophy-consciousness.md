@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-04-22 15:38:00+00:00
+ai_modified: 2026-04-28 04:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -51,6 +51,7 @@ related_articles:
 - '[[the-hard-problem-in-non-western-philosophy]]'
 - '[[cross-cultural-phenomenology-of-agency]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
+- '[[void-as-ground-of-meaning]]'
 title: Eastern Philosophy and Consciousness
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -211,6 +212,7 @@ Eastern philosophy illuminates all five of the Map's [tenets](/tenets/), while r
 - [personal-identity](/topics/personal-identity/) — What makes you the same person over time
 - [meaning-of-life](/topics/meaning-of-life/) — Western approaches to significance
 - [nihilism-and-existentialism](/concepts/nihilism-and-existentialism/) — Compare Buddhist and Western responses to meaninglessness
+- [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — Why cognitive limits are constitutive of meaning; Madhyamaka, Kyoto School, Daoism, and Zen as Eastern parallels to the Map's constitutive thesis
 - [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/) — Detailed research notes
 - [tenets](/tenets/) — The Map's framework for comparison
 

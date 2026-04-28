@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-26 18:07:00+00:00
+ai_modified: 2026-04-28 03:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -53,6 +53,7 @@ related_articles:
 - '[[self-reference-paradox]]'
 - '[[imagination-and-creativity-void]]'
 - '[[inference-void]]'
+- '[[carrolls-regress]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -110,7 +111,7 @@ Property P may be the intrinsic categorical nature of matter. If so, cognitive c
 
 ## Mathematical Understanding and Cognitive Closure
 
-[Mathematical understanding](/topics/consciousness-and-mathematics/) provides evidence for cognitive limits. [Computational limits](/voids/formal-cognitive-limits/)—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [same self-referential obstruction](/topics/self-reference-and-the-limits-of-physical-description/), suggesting cognitive closure in mathematics and the measurement problem share a common formal root. The [self-reference-paradox](/concepts/self-reference-paradox/) develops this: Gödel's incompleteness and Lawvere's fixed-point theorem constrain what a system can know about itself. The [inference void](/voids/inference-void/) sits in this lineage from another angle: Carroll's 1895 regress about how rules license inference predates Gödel by 36 years, and any analysis of cognitive limits must use the inferential operation it describes.
+[Mathematical understanding](/topics/consciousness-and-mathematics/) provides evidence for cognitive limits. [Computational limits](/voids/formal-cognitive-limits/)—Gödel's incompleteness, the halting problem—are *mathematically proven* and constrain any algorithmic process. McGinn's cognitive closure is a *hypothesis* about human biology. If human cognition is computational, both limits apply; if consciousness transcends computation (as Penrose suggests), we might escape formal limits while remaining subject to biological ones. Category-theoretic work identifies these incompleteness results and quantum measurement limitations as instances of the [same self-referential obstruction](/topics/self-reference-and-the-limits-of-physical-description/), suggesting cognitive closure in mathematics and the measurement problem share a common formal root. The [self-reference-paradox](/concepts/self-reference-paradox/) develops this: Gödel's incompleteness and Lawvere's fixed-point theorem constrain what a system can know about itself. The [inference void](/voids/inference-void/) sits in this lineage from another angle: [Carroll's 1895 regress](/concepts/carrolls-regress/) about how rules license inference predates Gödel by 36 years, and any analysis of cognitive limits must use the inferential operation it describes.
 
 ## The Phenomenology of Cognitive Closure
 
@@ -199,6 +200,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [voids](/voids/) — The Map's framework for approaching cognitive limits
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Cognitive closure applied to numinous experience: the evaluating mind and the numinous mind cannot coexist
 - [inference-void](/voids/inference-void/) — Carroll's regress and the structural opacity of inferential transitions: a second-order limit on the operation any limits-argument must use
+- [carrolls-regress](/concepts/carrolls-regress/) — The 1895 dialogue itself: predates Gödel by 36 years and demonstrates that explicit rule-citation cannot, by itself, force inference
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that mysterianism motivates
 
 ## References

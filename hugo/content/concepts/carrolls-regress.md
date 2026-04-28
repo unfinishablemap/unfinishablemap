@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-04-27 03:58:00+00:00
+ai_modified: 2026-04-28 03:13:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -9,14 +9,14 @@ concepts:
 - '[[mysterianism]]'
 - '[[self-stultification]]'
 created: 2026-04-26
-date: &id001 2026-04-27
+date: &id001 2026-04-28
 description: Human+AI examination of Lewis Carroll's 1895 paradox of inference, its
   proof-theoretic deflation and inferentialist readings, and what each implies for
   the conscious mind.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 03:58:00+00:00
+last_deep_review: 2026-04-28 03:13:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

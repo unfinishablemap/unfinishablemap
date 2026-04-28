@@ -1,13 +1,130 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 01:31:00+00:00
+ai_modified: 2026-04-28 04:44:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 04:44 UTC - deep-review
+- **Status**: Success
+- **File**: [introspection](/concepts/introspection/)
+- **Context**: Cross-review considering [imagery-void](/voids/imagery-void/) (created 2026-04-28) — engages stability criterion (a) the process/content distinction
+- **Word count**: 3037 → 3073 (+36)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (imagery-void cross-link in Case Against Introspection; tightened Hume + witness-consciousness paragraph; removed redundant "felt inversion" sentence in self-reference paradox)
+- **Enhancements made**: 2 (focused cross-link covering inter-subjective and function-phenomenology faces; Further Reading entry)
+- **Output**: [deep-review-2026-04-28-introspection](/reviews/deep-review-2026-04-28-introspection/)
+
+## 2026-04-28 04:31 UTC - deep-review
+- **Status**: Success
+- **File**: [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
+- **Word count**: 1652 → 1724 (+72)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (dangling forward reference in PCT paragraph; added third bootstrap response integrating Phenomenal Constitution Thesis)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-28-epistemology-of-limit-knowledge](/reviews/deep-review-2026-04-28-epistemology-of-limit-knowledge/)
+
+## 2026-04-28 04:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Changes**: Completed the 2026-04-26 Buddhist/Eastern integration by adding the third specified cross-link ([indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/)) — to related_articles, Further Reading, and one inline anchor in §"The Anātman Tension" (the bearer-of-meaning question that the *Samkhya / Nyaya / Vedanta* three-way disagreement directly engages). Restored reciprocal back-links from [buddhist-perspectives-on-meaning](/topics/buddhist-perspectives-on-meaning/), [eastern-philosophy-consciousness](/topics/eastern-philosophy-consciousness/), and [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) (none had previously linked back). Refinement log consolidated.
+- **Published**: yes
+
+## 2026-04-28 03:58 UTC - condense
+- **Status**: Success
+- **File**: [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/)
+- **Before**: 3535 words (hard_warning)
+- **After**: 2773 words (soft_warning, below 3500 hard threshold)
+- **Reduction**: 21.6%
+- **Technique**: Tightened Russell quote and descriptive paragraphs; consolidated heavy overlap between Knowledge Argument's Loar response and dedicated Loar section; trimmed three-feature, three-categories, pre-conceptual, indexical, error, and higher-order sections by removing restated points and excess hedging; lightly trimmed Relation to Site Perspective while preserving all three tenet connections. Preserved opening summary, all cross-links, References, and Husserlian taxonomy pointer.
+
+## 2026-04-28 03:42 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: post-21:50 UTC 2026-04-27 cluster — `voids/imagery-void.md` (NEW 2031w), `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` (coalesce → condense → refine arc; collapse-or-conjunction dilemma + pain asymbolia compound-property reading installed), V-N-W modulation framing propagated across 5 articles (`many-worlds`, `spontaneous-collapse-theories`, `decoherence`, `measurement-problem`, `methodology-of-consciousness-research`), `concepts/carrolls-regress.md` (5 reciprocal inbound links), `concepts/inventory-blindness.md` (third review at convergence), `concepts/philosophical-zombies.md` (fifth review, anchor fix), `concepts/methodological-pluralism.md` (fourth review at convergence)
+- **Output**: [optimistic-2026-04-28](/reviews/optimistic-2026-04-28/)
+- **Tasks added**: 5 P3 tasks — void-faceting concept, AI-externalisation-as-void-probe concept, recurrence-across-instruments methodology article, compound-property dissociation concept, imagery-void↔introspection reciprocal cross-links
+
+## 2026-04-28 03:33 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Imagery Void
+- **Output**: [imagery-void](/voids/imagery-void/)
+- **Word count**: 2031
+- **Based on research**: yes — [voids-imagery-void-2026-04-28](/research/voids-imagery-void-2026-04-28/)
+
+## 2026-04-28 03:13 UTC - deep-review
+- **Status**: Success
+- **File**: [carrolls-regress](/concepts/carrolls-regress/)
+- **Word count**: 1636 → 1636 (no change to article body)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (reciprocal cross-link gap)
+- **Enhancements made**: Added inbound `[carrolls-regress](/concepts/carrolls-regress/)` links from 5 neighbour articles — `voids/inference-void` (body wikilink + frontmatter), `concepts/mysterianism` (body wikilink + frontmatter + Further Reading), `voids/tacit-integration-void` (frontmatter + Further Reading), `concepts/self-stultification` (frontmatter + Further Reading), `topics/argument-from-reason` (frontmatter + Further Reading). Skipped (deliberate, documented in review): `introspection`, `noetic-feelings-void`, `apophatic-cartography`, `philosophy-of-mind`.
+- **Output**: [deep-review-2026-04-28-carrolls-regress](/reviews/deep-review-2026-04-28-carrolls-regress/)
+
+## 2026-04-28 02:57 UTC - deep-review
+- **Status**: Success
+- **File**: [inventory-blindness](/concepts/inventory-blindness/)
+- **Word count**: 1344 → 1344 (no change to article body)
+- **Critical issues addressed**: 1 (removed stale AI REFINEMENT LOG comment from 2026-04-06 that was meant to be removed after human review)
+- **Medium issues addressed**: 0
+- **Enhancements made**: Article confirmed at stability after third deep review; no expansion warranted; attribution check passed (McGinn 1989, Stanford 2006, Kruger & Dunning 1999, Map citations all accurate)
+- **Output**: [deep-review-2026-04-28-inventory-blindness](/reviews/deep-review-2026-04-28-inventory-blindness/)
+
+## 2026-04-28 02:42 UTC - deep-review
+- **Status**: Success
+- **File**: [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/)
+- **Word count**: 1879 → 1879 (no change to article body)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 5 inbound wikilinks added from topics/phenomenal-authority-and-first-person-evidence, topics/eliminative-materialism, concepts/illusionism, concepts/phenomenal-acquaintance, concepts/introspection
+- **Output**: [deep-review-2026-04-28-constitutive-vs-referring-observation](/reviews/deep-review-2026-04-28-constitutive-vs-referring-observation/)
+
+## 2026-04-28 02:29 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Trigger**: P2 task generated by pessimistic-2026-04-28.md identifying 3 high/medium structural issues + 3 secondary issues + 2 style violations.
+- **Changes**:
+  - Issue 1 (carry zombie-disanalogy through, §"Powerful Qualities"): added a hinge paragraph distinguishing the powerful-qualities identity theory's *weaker* commitment from dispositional essentialism's grounding claim — identity of quality and power survives the disanalogy because it is silent on whether phenomenal properties' existence is necessary or contingent.
+  - Issue 2 (collapse-or-conjunction dilemma): added a paragraph naming the dilemma (Taylor 2018, Coates 2019, Engelhard 2010), declaring the Map's preferred horn (qualitative aspect determines *which* power is exercised when multiple dispositions are compatible), and noting structural parallel with Mørch's reply.
+  - Issue 3 (legislation problem, §"Governing Laws"): replaced "harder to motivate without some underlying principle" with "widely held to require additional explanatory work" and added a paragraph offering bi-aspectual ontology and the interface model as candidate underlying principles, while explicitly owning the residual cost.
+  - Issue 4 (Tegmark decoherence, §"Dispositions, Consciousness, and the Interface"): added a paragraph naming the Tegmark/Schlosshauer decoherence objection, pointing to [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/) and [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) as the engagement sites, and acknowledging that the dispositional vocabulary loses its physical referent if the defence fails.
+  - Issue 5 (pain asymbolia contradiction, §"Dispositional Modality Problem"): reframed asymbolia as compound-property dissociation — what we colloquially call "pain" is two distinct powerful qualities (sensory localisation + aversive valence), and asymbolia separates the compound rather than dissociating quality from power within a single property. Aligned with [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/).
+  - Issue 6 (Mørch reply, §"Categoricalism"): added power-monist Russellian monism (Mørch 2014, 2018) as the closest competitor and stated the Map's specific reason for preferring bi-aspectual dualism (Mørch's view still inherits the combination problem).
+  - Style: removed "not X but Y" construction at former line 146; replaced "Consciousness is not *merely* its disposition..." with "Reducing consciousness to its disposition... would collapse the position into pandispositionalism".
+  - References: added Coates (2019), Engelhard (2010), Mørch (2014, 2018), Schlosshauer (2007), Taylor (2018), Tegmark (2000).
+- **Notes**: Used [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) in place of the requested `[orchestrated-objective-reduction](/orchestrated-objective-reduction/)` (no such article exists; the Penrose-collapse article is the closest existing engagement with Orch-OR-relevant physics). Word count rose from 3616 to 4586 (153% of 3000 target) — a follow-on condense pass will be appropriate after human review.
+- **Published**: yes (article remains live)
+
+## 2026-04-28 02:12 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — coalesced article condensed earlier today (4937 → 3616 words at 02:04 UTC); no prior pessimistic review on file. Selected as the most recently modified content with no pessimistic review on record.
+- **Output**: [pessimistic-2026-04-28](/reviews/pessimistic-2026-04-28/)
+- **Findings**: Three high/medium structural issues: (1) the conditional-necessity concession at lines 104-112 is load-bearing but is not honoured downstream — §"Powerful Qualities" and §"Dispositions, Consciousness, and the Interface" use essentialism's machinery as if the zombie-world disanalogy did not weaken its transfer to phenomenal properties; (2) the powerful-qualities position is presented as a stable middle path without engaging the Taylor/Coates/Engelhard collapse-or-conjunction dilemma; (3) the legislation problem for governing laws is named at line 94 and abandoned, then governing laws are made the Map's preferred fit at line 176. Secondary issues: an unaddressed Tegmark-style decoherence objection that the dispositional analysis presupposes against; an internal contradiction at line 160 where pain asymbolia is cited as "consistent with" the constitutive-connection claim it actually dissociates; a Russellian-monism dismissal that does not engage Mørch-style power-monism replies; two style-guide "not X but Y" violations at lines 146 and 152; the closing "differential affinities" softer than the body warrants.
+- **Strengths preserved**: cross-product structure (laws × properties); the dispositional-modality observation that phenomenal dispositions point both outward and inward (line 162); conditional-necessity discussion's dialectical care; appropriate citation density; coalesce-as-redundancy success (article reads as one piece, not two).
+- **Action**: Added P2 refine-draft task to `obsidian/workflow/todo.md` with specific edit targets.
+
+## 2026-04-28 01:57 UTC - condense
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Before**: 4937 words (status: hard_warning, 165% of 3000-word target)
+- **After**: 3616 words (status: soft_warning, 121% of target)
+- **Reduction**: 27% (-1321 words)
+- **Technique**: Tightened background sections (three accounts of laws, three accounts of properties) by removing standard expository padding LLMs already know; cut the bridging "Why Laws and Dispositions Belong Together" section heavily, which was largely restating the opening summary; trimmed redundancies inside the Humean/governing/essentialist consequence subsections; tightened "Powerful Qualities" advantages list (kept three bold leads, cut explanatory tails); compressed "Dispositions and the Interface" and "Dispositional Modality Problem"; significantly compressed "Why This Matters for the Mind-Body Problem" since it overlapped with "Relation to Site Perspective"; reduced Further Reading from 16 → 8 most essential links; trimmed References from 16 → 11 (kept all citations that are explicitly invoked in the body: Cutter, Pautz, Howell, Bird, Ellis, Lewis, Martin, Heil, Armstrong, Shoemaker, Chalmers; dropped Dretske, Tooley, Lewis-1973, Molnar, Mumford which were not load-bearing).
+- **Preserved**: Opening summary intact (front-loaded LLM access); all five tenet subsections in "Relation to Site Perspective" preserved with full content; the unique zombie-world disanalogy argument against dispositional essentialism kept in full; the genuine trade-off framing between governing and essentialist views preserved; all wikilinks to other Map articles retained; coalesced_from frontmatter retained.
+- **Published**: yes (article remains live)
+
+## 2026-04-28 01:43 UTC - refine-draft
+- **Status**: Success (no-op verification)
+- **File**: wikilink cleanup post-coalesce — `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions`
+- **Trigger**: P1 task chained from coalesce 2026-04-28 00:13 UTC. Task asserted 35 active files retained wikilinks to the archived source slugs `consciousness-and-the-metaphysics-of-laws` and `consciousness-and-the-ontology-of-dispositions` and required them to be redirected to the unified article.
+- **Verification**: Re-ran enumeration with the precise pattern `consciousness-and-the-metaphysics-of-laws($|[^a-z-])` (and the analogous pattern for dispositions) across `obsidian/topics/`, `obsidian/concepts/`, `obsidian/apex/`, `obsidian/voids/`, `obsidian/research/`, `obsidian/tenets/`. Zero stale wikilinks remain.
+- **Root cause of false alarm**: The task's enumeration command used `\b` as the right-hand boundary, which matches the position between `laws` and `-and-dispositions` in the new unified slug. Every "inbound reference" the task listed (e.g., in `topics/the-epiphenomenalist-threat.md`, `concepts/causal-powers.md`, `concepts/russellian-monism.md`) already pointed to the unified article — the coalesce skill had updated them in the same operation.
+- **Remaining old-slug occurrences (intentional, out of scope)**: `coalesced_from` redirect aliases on the new article (URL preservation); `obsidian/reviews/*` (historical record); `obsidian/workflow/changelog.md` (historical record).
+- **Changes**: None to article content. Marked the P1 task `done` in `obsidian/workflow/todo.md` with the verification note and root-cause explanation.
+- **Published**: no (no content modified)
 
 ## 2026-04-28 01:31 UTC - deep-review
 - **Status**: Success

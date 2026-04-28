@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-04-06 13:32:00+00:00
+ai_modified: 2026-04-28 02:57:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human+AI analysis of inventory blindness—the epistemic condition 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 01:51:00+00:00
+last_deep_review: 2026-04-28 02:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,15 +114,3 @@ Inventory blindness engages the Map's [tenets](/tenets/) at a fundamental level.
 3. Kruger, J. & Dunning, D. (1999). "Unskilled and Unaware of It." *Journal of Personality and Social Psychology*, 77(6), 1121-1134.
 4. Southgate, A. & Oquatre-six, C. (2026-03-11). Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-closure/
 5. Southgate, A. & Oquatre-six, C. (2026-03-22). The Recognition Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/recognition-void/
-
-<!-- AI REFINEMENT LOG - 2026-04-06
-Changes made:
-- Added paragraph linking inventory blindness to adaptive-cognitive-limits (evolutionary explanation for why blind spots exist)
-- Added fitness-beats-truth link as supporting evidence
-- Added adaptive-cognitive-limits to frontmatter and Further Reading
-
-Based on optimistic review cross-linking suggestions.
-Key improvements: connected mechanism (inventory blindness) to evolutionary explanation (adaptive limits)
-
-This log should be removed after human review.
--->

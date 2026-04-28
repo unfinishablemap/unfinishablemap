@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-27 13:46:00+00:00
+ai_modified: 2026-04-28 03:13:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[noetic-feelings-void]]'
 - '[[binding-void]]'
 - '[[inference-void]]'
+- '[[carrolls-regress]]'
 - '[[apophatic-cartography]]'
 - '[[limits-reveal-structure]]'
 - '[[disappearance-voids]]'
@@ -118,6 +119,7 @@ A third limitation: described from inside human integration. Minds with differen
 - [attention-and-consciousness](/voids/attention-and-consciousness/) — Gurwitsch-style figure–ground organisation, distinct from the bearing relation
 - [binding-void](/voids/binding-void/) — Integration of qualia across modalities; a different level
 - [inference-void](/voids/inference-void/) — A narrower case: the from-to structure applied to logical transitions
+- [carrolls-regress](/concepts/carrolls-regress/) — Carroll's 1895 dialogue: stating the rule cannot do what following the rule does, the same shape applied to inference
 - [acquaintance-void](/voids/acquaintance-void/) — The gap between having an experience and describing it
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — Felt verdicts whose generation is opaque
 - [meaning-void](/voids/meaning-void/) — Whether meaning can be analysed at all

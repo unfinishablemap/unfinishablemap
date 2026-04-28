@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-22
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-04-28 04:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -16,7 +16,7 @@ description: Human+AI analysis of how we can have genuine knowledge about cognit
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 02:09:00+00:00
+last_deep_review: 2026-04-28 04:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -102,11 +102,13 @@ Limit-knowledge differs from ordinary empirical knowledge in several respects.
 
 One serious challenge to limit-knowledge deserves attention. If cognitive architecture constrains what we can conceive, it may also constrain our ability to correctly identify our own limits. [Inventory blindness](/concepts/inventory-blindness/) deepens this challenge: absent cognitive capabilities produce no signal, so the limits most needing identification are those least likely to be detected. [The meta-epistemological question](/voids/meta-epistemology-of-limits/)—can we trust our assessments of our own boundaries?—threatens to undermine limit-knowledge from within.
 
-The bootstrap problem does not invalidate limit-knowledge, but it does constrain the confidence we can place in it. Two considerations prevent full sceptical collapse:
+The bootstrap problem does not invalidate limit-knowledge, but it does constrain the confidence we can place in it. Three considerations prevent full sceptical collapse:
 
 **Partial self-transparency.** Cognitive systems need not be either fully transparent or fully opaque to themselves. [Metacognitive](/concepts/metacognition/) abilities, while imperfect, provide genuine information about cognitive processes. The Dunning-Kruger effect shows miscalibration exists, but miscalibration is not total blindness—it is a systematic bias that can itself be studied and partially corrected.
 
 **External triangulation.** Comparing human cognitive performance against AI systems with different architectures provides a partial escape from the self-referential bind. Where different architectures encounter the same limits, the evidence for genuine closure strengthens. Where they diverge, architecture-specific constraints are revealed.
+
+**Phenomenal evidence runs in parallel.** If the [Phenomenal Constitution Thesis](/topics/phenomenology-of-intellectual-life/) extends to limit-knowledge, the felt encounter with closure provides a second evidential register rather than a derivative of metacognitive self-modelling. Architecturally constituted phenomenology can itself misrepresent, but convergence between propositional self-assessment and phenomenal closure-experience—and across subjects with different metacognitive styles—offers further triangulation. The question shifts from whether self-modelling is reliable to whether the two registers agree, which is at least empirically tractable.
 
 ## Relation to Site Perspective
 

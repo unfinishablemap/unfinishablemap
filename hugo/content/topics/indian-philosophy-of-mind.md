@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-21
-ai_modified: 2026-04-24 05:30:00+00:00
+ai_modified: 2026-04-28 04:12:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -33,6 +33,7 @@ related_articles:
 - '[[self-and-self-consciousness]]'
 - '[[mental-causation-and-downward-causation]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
+- '[[void-as-ground-of-meaning]]'
 title: Indian Philosophy of Mind
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -171,6 +172,7 @@ The Map's engagement with Indian philosophy of mind connects to each tenet.
 - [causal-closure](/concepts/causal-closure/) — How Samkhya's framework preserves causal closure
 - [dualist-perception](/topics/dualist-perception/) — Dualist theories of perception, with parallels to Nyaya
 - [objections-to-interactionism](/concepts/objections-to-interactionism/) — Standard challenges that Samkhya's framework sidesteps
+- [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — How the *anātman* tension and the bearer-of-meaning question interact with the Map's constitutive thesis (limits as preconditions for meaning)
 
 ## References
 

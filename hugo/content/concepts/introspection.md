@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-25 01:29:00+00:00
+ai_modified: 2026-04-28 04:44:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -25,6 +25,7 @@ concepts:
 - '[[phenomenal-transparency-opacity-spectrum]]'
 - '[[source-attribution-void]]'
 - '[[noetic-feelings-void]]'
+- '[[imagery-void]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: Our primary access to consciousness is contested. But critiques target
@@ -32,7 +33,7 @@ description: Our primary access to consciousness is contested. But critiques tar
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 13:24:00+00:00
+last_deep_review: 2026-04-28 04:44:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -57,7 +58,7 @@ Nisbett and Wilson's 1977 study "Telling More Than We Can Know" demonstrated tha
 
 Choice blindness experiments extended this dramatically. When researchers covertly switched participants' chosen photos, roughly three-quarters of manipulated trials went undetected—and subjects confabulated detailed justifications for choices they never made. The [source-attribution-void](/voids/source-attribution-void/) traces these failures to an architectural limit: mental content lacks native origin tags, so source must be inferred from surface features—vividness, fluency, narrative fit—that correlate weakly with actual origin and collapse under predictable conditions.
 
-Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience inner speech, or the character of peripheral vision. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [voids-between-minds](/voids/voids-between-minds/) compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
+Eric Schwitzgebel catalogued further failures: people cannot reliably report whether they dream in color, how often they experience inner speech, or the character of peripheral vision. Mental imagery is the most dramatic case: the [imagery-void](/voids/imagery-void/) documents aphantasic and hyperphantasic minds (roughly 1% and 3% extremes) using identical vividness vocabulary while underlying phenomenology diverges radically or vanishes — and aphantasics complete classical mental rotation without imagery, suggesting phenomenal reports may not always track the cognitive work being done. The calibration problem looms: how can we evaluate introspection's accuracy when we have no external standard? The [voids-between-minds](/voids/voids-between-minds/) compounds this: social calibration pressures individuals to adjust phenomenal reports to match consensus, masking whatever underlying diversity exists.
 
 ## The Crucial Distinction: Process vs. Content
 
@@ -139,9 +140,9 @@ The mathematical case sharpens the illusionist regress: when illusionists grasp 
 
 This differs from the process/content distinction. That distinction says we cannot introspect *why* we think but can introspect *what* we experience. The unobservable self reveals a limit even on content: the content that *is* current observing cannot be observed without transforming into past content.
 
-David Hume put it empirically: "I can never catch myself at any time without a perception." When we look for the looker, we find only more looking. [Witness consciousness](/concepts/witness-consciousness/) traditions recognise this: the instruction to "look at the looker" exhausts the search rather than finding something.
+David Hume put it empirically: "I can never catch myself at any time without a perception." [Witness consciousness](/concepts/witness-consciousness/) traditions reach the same end—the instruction to "look at the looker" exhausts the search rather than finding something.
 
-The [self-reference paradox](/voids/self-opacity/) distinguishes three converging types: *structural* limits analogous to Gödel's incompleteness (some truths about the system lie permanently beyond its reach), *transparency* limits where the self-model must hide its machinery to function, and *recursive* limits where nested self-observation collapses. All three constrain introspection — a form of [self-stultification](/concepts/self-stultification/) where self-knowing undermines self-knowledge. The implications: understanding subjectivity requires making it into an object; meditators report the limit more clearly rather than overcoming it; and the calibrator *is* the thing to be calibrated. The [phenomenology of self-awareness](/voids/self-opacity/) captures how this feels from inside — felt inversion, semantic vertigo, oscillation when consciousness takes itself as referent. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) places these signatures in a broader grid where construction-mistaken-for-observation is the characteristic failure mode of introspective limits.
+The [self-reference paradox](/voids/self-opacity/) distinguishes three converging types: *structural* limits analogous to Gödel's incompleteness (some truths about the system lie permanently beyond its reach), *transparency* limits where the self-model must hide its machinery to function, and *recursive* limits where nested self-observation collapses. All three constrain introspection — a form of [self-stultification](/concepts/self-stultification/) where self-knowing undermines self-knowledge. The implications: understanding subjectivity requires making it into an object; meditators report the limit more clearly rather than overcoming it; and the calibrator *is* the thing to be calibrated. The [phenomenology of cognitive limit types](/topics/phenomenology-of-cognitive-limit-types/) places these signatures in a broader grid where construction-mistaken-for-observation is the characteristic failure mode of introspective limits.
 
 ## Error-Blindness: A Structural Limit
 
@@ -179,12 +180,14 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 - [microphenomenological-interview-method](/topics/microphenomenological-interview-method/) — Petitmengin's disciplined interview procedure, its Husserlian evidence profile, and the epilepsy prodrome case
 - [qualia](/concepts/qualia/) — The phenomenal properties introspection accesses
 - [metacognition](/concepts/metacognition/) — The cognitive capacity enabling introspective access
+- [constitutive-vs-referring-observation](/concepts/constitutive-vs-referring-observation/) — Structural distinction extending the process/content asymmetry: why theory-ladenness sufficient against folk theories cannot dispose of bare phenomenal existence
 - [illusionism](/concepts/illusionism/) — The most radical challenge to phenomenal consciousness
 - [contemplative-epistemology](/concepts/contemplative-epistemology/) — First-person observation through contemplative practice as legitimate knowledge
 - [witness-consciousness](/concepts/witness-consciousness/) — The observer phenomenon in contemplative traditions
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: phenomenological experiments you can run using your own experience
 - [source-attribution-void](/voids/source-attribution-void/) — The architectural absence of origin tags on mental content: why choice blindness and confabulation are structural features rather than noisy exceptions
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — The felt signals that gate cognition from inside (feelings of knowing, rightness, familiarity) and why the heuristic machinery producing them is recursively opaque
+- [imagery-void](/voids/imagery-void/) — Aphantasia/hyperphantasia divergence as paradigm intra-species phenomenal incommensurability; the function-phenomenology wedge from mental rotation studies
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — The spectrum of phenomenal authority positions and phenomenal conservatism
 - [attention-disorders-and-consciousness](/topics/attention-disorders-and-consciousness/) — When the attentional basis of introspection is itself disordered
 - [The Intersubjective Void](/voids/voids-between-minds/) — How social calibration compounds introspective unreliability

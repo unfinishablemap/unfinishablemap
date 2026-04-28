@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-28 04:12:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,6 +22,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[buddhist-perspectives-meaning-2026-01-06]]'
+- '[[void-as-ground-of-meaning]]'
 title: Buddhist Perspectives on Meaning
 topics:
 - '[[meaning-of-life]]'
@@ -176,6 +177,7 @@ The tension remains: is grounding meaning in consciousness itself another form o
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — The case for meditation as philosophical methodology
 - [personal-identity](/topics/personal-identity/) — Western debates on selfhood that Buddhist no-self challenges
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — How consciousness generates meaning through five phenomenal modes
+- [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/) — Madhyamaka *śūnyatā* and the two-truths doctrine treated as the closest structural cognate of the Map's constitutive thesis (limits as preconditions for meaning)
 - [buddhist-perspectives-meaning-2026-01-06](/research/buddhist-perspectives-meaning-2026-01-06/) — Research notes
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-02
-ai_modified: 2026-04-16 07:19:00+00:00
+ai_modified: 2026-04-28 03:13:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -38,6 +38,7 @@ related_articles:
 - '[[tenets]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
+- '[[carrolls-regress]]'
 title: The Self-Stultification Argument
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -209,6 +210,7 @@ Epistemic self-defeat also constrains what counts as an adequate theory of consc
 - [epiphenomenalism](/concepts/epiphenomenalism/) — The position most directly challenged by self-stultification
 - [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — The normative gap that makes physicalism self-stultifying for reason
 - [argument-from-reason](/topics/argument-from-reason/) — The broader self-defeat challenge to physicalism
+- [carrolls-regress](/concepts/carrolls-regress/) — The 1895 dialogue: explicit rule-citation cannot, by itself, license inference; the deflationary reading helps itself to the very cognitive operation the regress reveals as missing
 - [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Why most theories drift toward the position self-stultification defeats
 - [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — The positive account: what kind of causal influence consciousness exercises
 - [phenomenal-authority-and-first-person-evidence](/topics/phenomenal-authority-and-first-person-evidence/) — Whether introspective justification survives self-defeat challenges

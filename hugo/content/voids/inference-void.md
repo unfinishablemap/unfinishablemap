@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-04-27 06:30:00+00:00
+ai_modified: 2026-04-28 03:13:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -36,13 +36,14 @@ related_articles:
 - '[[tacit-integration-void]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[apophatic-cartography]]'
+- '[[carrolls-regress]]'
 title: The Inference Void
 topics:
 - '[[philosophy-of-mind]]'
 - '[[epistemology]]'
 ---
 
-The **inference void** names the structural opacity of inferential transitions to the consciousness that performs them. Premises are present in awareness; conclusions are present in awareness; but the *move* between them is invisible. Lewis Carroll's 1895 dialogue "What the Tortoise Said to Achilles" gives this void an unusual epistemic profile: it is approached through a regress argument with formal flavour, not merely apophatic or empirical. Wittgenstein's rule-following paradox develops a complementary line; Polanyi's account of tacit inference fills the same point in positively. The void shadows logical reasoning the way the [question formation void](/voids/question-formation-void/) shadows formulation and the [epistemic horizon void](/voids/epistemic-horizon-void/) shadows estimation — a second-order limit on a first-order capacity. It is also *recursively load-bearing*: any inspection of an inference must itself proceed by inference, so every other void reasoned about is reasoned about with operations the inference void declares opaque.
+The **inference void** names the structural opacity of inferential transitions to the consciousness that performs them. Premises are present in awareness; conclusions are present in awareness; but the *move* between them is invisible. [Lewis Carroll's 1895 dialogue](/concepts/carrolls-regress/) "What the Tortoise Said to Achilles" gives this void an unusual epistemic profile: it is approached through a regress argument with formal flavour, not merely apophatic or empirical. Wittgenstein's rule-following paradox develops a complementary line; Polanyi's account of tacit inference fills the same point in positively. The void shadows logical reasoning the way the [question formation void](/voids/question-formation-void/) shadows formulation and the [epistemic horizon void](/voids/epistemic-horizon-void/) shadows estimation — a second-order limit on a first-order capacity. It is also *recursively load-bearing*: any inspection of an inference must itself proceed by inference, so every other void reasoned about is reasoned about with operations the inference void declares opaque.
 
 ## Carroll's Regress and Its Two Readings
 
