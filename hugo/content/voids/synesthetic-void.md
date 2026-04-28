@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-18 14:09:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-28 07:57:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[qualia]]'
@@ -14,7 +14,7 @@ description: Human+AI exploration of how synesthesia reveals experiential dimens
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-10 17:23:00+00:00
+last_deep_review: 2026-04-28 07:57:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -29,6 +29,7 @@ related_articles:
 - '[[functionalism]]'
 - '[[filter-theory]]'
 - '[[knowledge-argument]]'
+- '[[imagery-void]]'
 title: The Synesthetic Void
 topics:
 - '[[consciousness]]'
@@ -85,6 +86,8 @@ This asymmetry has implications for the [voids-between-minds](/voids/voids-betwe
 
 The finding that most synesthetic experience is "mediated through semantics" (van Leeuwen et al., 2015) adds another layer. Meaning shapes qualia—conceptual and semantic processing in the synesthete generates additional phenomenal states that identical semantic processing in the non-synesthete does not. If meaning itself has a phenomenal dimension that varies across minds, the intersubjective void is deeper than the privacy of sensation. It extends into the privacy of understanding.
 
+The [imagery-void](/voids/imagery-void/) catalogues a parallel within-species divergence with a different structure. Where synesthesia adds qualia beyond the standard palette, the aphantasia/hyperphantasia spectrum reveals that the very *vividness* of mental imagery—what the introspective vocabulary of "seeing in the mind's eye" is supposed to track—varies wildly across phenomenologically equipped minds, sometimes to the point of complete absence. The two voids together dismantle the assumption that ordinary phenomenal language picks out a shared experiential repertoire: in synesthesia the disparity is in *what* is experienced; in the imagery spectrum it is in *whether* the inner image is there at all.
+
 ## Relation to Site Perspective
 
 The synesthetic void connects directly to the Map's [foundational commitments](/tenets/):
@@ -100,6 +103,7 @@ The synesthetic void connects directly to the Map's [foundational commitments](/
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
+- [imagery-void](/voids/imagery-void/) — A parallel intra-species phenomenal divergence in mental imagery rather than qualia
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach—a parallel void in the feeling dimension
 - [voids-between-minds](/voids/voids-between-minds/) — Existence, encounter, and sharing across individual consciousnesses
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access

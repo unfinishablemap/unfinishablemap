@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 07:43:00+00:00
+ai_modified: 2026-04-28 07:57:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 07:57 UTC - deep-review
+- **Status**: Success
+- **File**: [synesthetic-void](/voids/synesthetic-void/)
+- **Context**: Cross-review against today's newly-created [imagery-void](/voids/imagery-void/), which links to synesthetic-void as a parallel intra-species phenomenal divergence; synesthetic-void had not yet reciprocated. Made the connection bidirectional and articulated the structural distinction between the two voids.
+- **Word count**: 1871 → 1981 (+110; under 2000-word voids soft threshold)
+- **Critical issues addressed**: 0 (no new critical issues; prior 2026-03-10 review already addressed missing E-space citation, sensory-deprivation duration, and major cross-links)
+- **Medium issues addressed**: 1 (added reciprocal [imagery-void](/voids/imagery-void/) cross-link in frontmatter, Asymmetry-of-Access prose, and Further Reading)
+- **Enhancements made**: 1 (75-word paragraph distinguishing synesthetic-void's variation in *what* is experienced from imagery-void's variation in *whether* an inner image is present)
+- **Output**: [deep-review-2026-04-28-synesthetic-void](/reviews/deep-review-2026-04-28-synesthetic-void/)
 
 ## 2026-04-28 07:43 UTC - deep-review
 - **Status**: Success
@@ -211,7 +221,7 @@ title: Changelog
   - Issue 6 (Mørch reply, §"Categoricalism"): added power-monist Russellian monism (Mørch 2014, 2018) as the closest competitor and stated the Map's specific reason for preferring bi-aspectual dualism (Mørch's view still inherits the combination problem).
   - Style: removed "not X but Y" construction at former line 146; replaced "Consciousness is not *merely* its disposition..." with "Reducing consciousness to its disposition... would collapse the position into pandispositionalism".
   - References: added Coates (2019), Engelhard (2010), Mørch (2014, 2018), Schlosshauer (2007), Taylor (2018), Tegmark (2000).
-- **Notes**: Used [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) in place of the requested `[orchestrated-objective-reduction](/orchestrated-objective-reduction/)` (no such article exists; the Penrose-collapse article is the closest existing engagement with Orch-OR-relevant physics). Word count rose from 3616 to 4586 (153% of 3000 target) — a follow-on condense pass will be appropriate after human review.
+- **Notes**: Used [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) in place of the requested `orchestrated-objective-reduction` (no such article exists; the Penrose-collapse article is the closest existing engagement with Orch-OR-relevant physics). Word count rose from 3616 to 4586 (153% of 3000 target) — a follow-on condense pass will be appropriate after human review.
 - **Published**: yes (article remains live)
 
 ## 2026-04-28 02:12 UTC - pessimistic-review
