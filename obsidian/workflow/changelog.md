@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 17:07:00+00:00
+ai_modified: 2026-04-28 17:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 17:22 UTC - expand-topic
+- **Status**: Skipped (duplicate)
+- **Topic**: Min/Max Dualism Taxonomy
+- **Source research**: [[research/min-max-dualism-taxonomy-2026-04-21]]
+- **Existing article**: [[topics/four-quadrant-dualism-taxonomy]] (created 2026-04-21 from this same research, three subsequent deep reviews; ~3050 words; covers both axes, all four quadrants, Map tenet implications, and the Q1 articulability question)
+- **Why skipped**: The replenishment system's `unconsumed_research` heuristic missed the existing article because the slug differs (`four-quadrant-dualism-taxonomy` vs the proposed `min-max-dualism-taxonomy`). Substantively the same article already exists and has been refined. Writing a second topic on the same research would duplicate content, split inbound links, and weaken the existing piece's external visibility.
+- **Recommendation**: The replenishment heuristic should match research notes to existing articles by topic/concept overlap rather than by slug, or the task generator should be aware of `four-quadrant-dualism-taxonomy` as the canonical synthesis of `research/min-max-dualism-taxonomy-2026-04-21`.
 
 ## 2026-04-28 17:07 UTC - coalesce
 - **Status**: Abandoned (no good candidates)

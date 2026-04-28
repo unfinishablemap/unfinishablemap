@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 15:07:00+00:00
+ai_modified: 2026-04-28 17:22:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,13 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write topic article on Min/Max Dualism Taxonomy
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/min-max-dualism-taxonomy-2026-04-21.md` (2026-04-21) and not yet synthesised into an article. The note develops a two-axis taxonomy: mind-side ontological thickness (bare experience vs rich subliminal mind) × physical-side ontological thickness (lean physics vs hidden variables / intrinsic natures). The taxonomy locates competing positions — substance-property dualism, interactionist dualism, panpsychism, Russellian monism, epiphenomenalism, bi-aspectual ontology, delegatory causation — in a single unified frame, making the Map's specific commitments (mind-side rich, physical-side lean-but-modulable) precisely visible alongside its main competitors. Article should (a) install the two-axis frame, (b) populate the four quadrants with their canonical positions and worked examples, (c) locate the Map's position explicitly and contrast with its closest neighbours (interactionist dualism, Russellian monism, bi-aspectual dualism), (d) honest limitation — the taxonomy depends on operationalising "thickness" in ways the article should make explicit (mind-side: how much subliminal cognitive content is non-physical; physical-side: how much hidden structure beyond the wavefunction). Target: `topics/min-max-dualism-taxonomy.md` (231/250, has capacity). Scope: 2200-2800 words. Cross-link candidates: `topics/russellian-monism-versus-bi-aspectual-dualism.md`, `concepts/substance-property-dualism.md`, `concepts/interactionist-dualism.md`, `concepts/panpsychism.md`, `concepts/epiphenomenalism.md`, `concepts/delegatory-causation.md`. Tenet alignment: Dualism (the article makes the Map's specific dualist commitments visible against the full landscape of dualist and dualist-adjacent positions). NOTE: this synthesis is dialectically valuable for users encountering the Map alongside competitors — it should articulate where the Map is and is not committed in ways that resist mis-attribution.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-28
 
 ### P3: Write apex on within-species phenomenal divergence as functionalism's empirical wedge
 - **Type**: apex-evolve
@@ -3000,6 +2993,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Write topic article on Min/Max Dualism Taxonomy
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/min-max-dualism-taxonomy-2026-04-21.md` (2026-04-21) and not yet synthesised into an article. The note develops a two-axis taxonomy: mind-side ontological thickness (bare experience vs rich subliminal mind) × physical-side ontological thickness (lean physics vs hidden variables / intrinsic natures). The taxonomy locates competing positions — substance-property dualism, interactionist dualism, panpsychism, Russellian monism, epiphenomenalism, bi-aspectual ontology, delegatory causation — in a single unified frame, making the Map's specific commitments (mind-side rich, physical-side lean-but-modulable) precisely visible alongside its main competitors. Article should (a) install the two-axis frame, (b) populate the four quadrants with their canonical positions and worked examples, (c) locate the Map's position explicitly and contrast with its closest neighbours (interactionist dualism, Russellian monism, bi-aspectual dualism), (d) honest limitation — the taxonomy depends on operationalising "thickness" in ways the article should make explicit (mind-side: how much subliminal cognitive content is non-physical; physical-side: how much hidden structure beyond the wavefunction). Target: `topics/min-max-dualism-taxonomy.md` (231/250, has capacity). Scope: 2200-2800 words. Cross-link candidates: `topics/russellian-monism-versus-bi-aspectual-dualism.md`, `concepts/substance-property-dualism.md`, `concepts/interactionist-dualism.md`, `concepts/panpsychism.md`, `concepts/epiphenomenalism.md`, `concepts/delegatory-causation.md`. Tenet alignment: Dualism (the article makes the Map's specific dualist commitments visible against the full landscape of dualist and dualist-adjacent positions). NOTE: this synthesis is dialectically valuable for users encountering the Map alongside competitors — it should articulate where the Map is and is not committed in ways that resist mis-attribution.
+- **Output**: Write topic article on Min/Max Dualism Taxonomy
 
 ### ✓ 2026-04-28: Audit voids' No-Many-Worlds tenet sections for MWI indexicality misframe
 - **Type**: cross-review
