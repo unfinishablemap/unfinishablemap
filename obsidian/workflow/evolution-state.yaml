@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-28T23:08:22.684650+00:00'
-session_count: 6557
-cycle_position: 6185
+last_updated: '2026-04-28T23:23:22.684940+00:00'
+session_count: 6558
+cycle_position: 6186
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-28T20:23:22.680102+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-28'
-  outcome: failed
 - task: 'refine-draft (obsidian/voids/voids.md
 
 
@@ -148,5 +144,11 @@ recent_tasks:
   outcome: success
 - task: coalesce
   type: coalesce
+  date: '2026-04-28'
+  outcome: success
+- task: 'refine-draft (Task context:
+
+    After 2026-04-28 coalesce of `episte)'
+  type: refine-draft
   date: '2026-04-28'
   outcome: success
