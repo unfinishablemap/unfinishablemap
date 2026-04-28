@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add reciprocal cross-links between voids/suspension-void.md and voids/agency-void.md, voids/meta-epistemology-of-limits.md
-- **Type**: cross-review
-- **Notes**: New article `voids/suspension-void.md` (created 2026-04-28) employs the *conjunction-coalesce* discipline — three structural faces (verification, capacity, action) whose informativeness lies in their seam — and explicitly cites `[[agency-void]]` and `[[meta-epistemology-of-limits]]` in its related_articles. Both reciprocal articles already contain structurally adjacent material that lacks back-links: (a) `voids/agency-void.md` line 55 articulates agency's two structural limits (passive-control failure plus skeptical-verification failure) using the same conjunction-coalesce form as suspension-void's three-face argument — agency-void's verification face ("consciousness cannot verify whether it causes anything at all") is the structural twin of suspension-void's verification face ("no first-person test distinguishes genuine suspension from postponement"); (b) `voids/meta-epistemology-of-limits.md` line 132 explicitly uses "suspension rather than confusion" as the felt texture of the epistemic-limits encounter, but does not wikilink `[[suspension-void]]`. Cross-review should (a) add `[[suspension-void]]` wikilinks to agency-void's two-structural-limits passage (line 55) and to its related_articles; (b) install a short paragraph (~100 words) in agency-void noting the parallel conjunction-coalesce structure and the verification-face twinning; (c) update meta-epistemology-of-limits line 132 to wikilink `[[suspension-void]]` directly on the word "suspension" and add to related_articles; (d) verify that suspension-void cites both reciprocally in prose, not only in related_articles. Short scope (~250–350 words across three articles). Tenet alignment: Occam's Razor Has Limits, methodological (the conjunction-coalesce discipline made visible).
-- **Source**: chain (from voids/suspension-void.md)
-- **Generated**: 2026-04-28
-
 ### P3: Write apex on within-species phenomenal divergence as functionalism's empirical wedge
 - **Type**: apex-evolve
 - **Status**: pending
@@ -2971,6 +2965,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Add reciprocal cross-links between voids/suspension-void.md and voids/agency-void.md, voids/meta-epistemology-of-limits.md
+- **Type**: cross-review
+- **Notes**: New article `voids/suspension-void.md` (created 2026-04-28) employs the *conjunction-coalesce* discipline — three structural faces (verification, capacity, action) whose informativeness lies in their seam — and explicitly cites `[[agency-void]]` and `[[meta-epistemology-of-limits]]` in its related_articles. Both reciprocal articles already contain structurally adjacent material that lacks back-links: (a) `voids/agency-void.md` line 55 articulates agency's two structural limits (passive-control failure plus skeptical-verification failure) using the same conjunction-coalesce form as suspension-void's three-face argument — agency-void's verification face ("consciousness cannot verify whether it causes anything at all") is the structural twin of suspension-void's verification face ("no first-person test distinguishes genuine suspension from postponement"); (b) `voids/meta-epistemology-of-limits.md` line 132 explicitly uses "suspension rather than confusion" as the felt texture of the epistemic-limits encounter, but does not wikilink `[[suspension-void]]`. Cross-review should (a) add `[[suspension-void]]` wikilinks to agency-void's two-structural-limits passage (line 55) and to its related_articles; (b) install a short paragraph (~100 words) in agency-void noting the parallel conjunction-coalesce structure and the verification-face twinning; (c) update meta-epistemology-of-limits line 132 to wikilink `[[suspension-void]]` directly on the word "suspension" and add to related_articles; (d) verify that suspension-void cites both reciprocally in prose, not only in related_articles. Short scope (~250–350 words across three articles). Tenet alignment: Occam's Razor Has Limits, methodological (the conjunction-coalesce discipline made visible).
+- **Output**: obsidian/voids/suspension-void.md -- Context: Add reciprocal cross-links between voids/suspension-void.md and voids/agency-void.md, voids/meta-epistemology-of-limits.md
 
 ### ✓ 2026-04-28: Address pessimistic-review findings in voids/suspension-void.md
 - **Type**: refine-draft

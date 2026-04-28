@@ -4,7 +4,7 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-28T13:22:00+00:00
+ai_modified: 2026-04-28T14:52:00+00:00
 last_deep_review: 2026-04-27T16:00:00+00:00
 draft: false
 topics:
@@ -31,6 +31,7 @@ related_articles:
   - "[[appetitive-void]]"
   - "[[affective-void]]"
   - "[[erasure-void]]"
+  - "[[suspension-void]]"
   - "[[conjunction-coalesce]]"
   - "[[inference-void]]"
   - "[[tacit-integration-void]]"
@@ -88,7 +89,7 @@ Both sides of the agency debate face the same barrier.
 
 **Interactionism cannot verify itself either.** If consciousness does cause things, the evidence is gathered *through* consciousness—the system whose causal power is the question.
 
-The clinical sister case is the [[erasure-void]]: in anosognosia and certain deliriform states, the neural infrastructure for self-monitoring shares fate with the capacities it would monitor. When opposing positions both face verification failure for structural reasons, the failure inheres in the question's architecture.
+The clinical sister case is the [[erasure-void]]: in anosognosia and certain deliriform states, the neural infrastructure for self-monitoring shares fate with the capacities it would monitor. The structural sister case is the [[suspension-void]]: withholding judgment, like causing action, is a faculty whose only investigator is itself, and the same circularity catalogued here recurs there in a different register. When opposing positions both face verification failure for structural reasons, the failure inheres in the question's architecture.
 
 ### Reflexive Self-Stultification
 
@@ -143,6 +144,7 @@ The void is also [[tenet-generated-voids|tenet-generated]]: the Map's commitment
 - [[self-opacity|Volitional Opacity]] — Why we cannot observe the mechanisms of willing
 - [[causal-interface|The Causal Interface Void]] — How consciousness connects to physics
 - [[erasure-void]] — Clinical sister case: self-monitoring eroding alongside what it would monitor
+- [[suspension-void]] — Structural sister case: withholding judgment shares the same self-investigator circularity
 - [[inference-void]] — Why every act of self-checking is itself an inference whose grounding is opaque
 - [[tacit-integration-void]] — The from-to structure the vanishing-target phenomenology instantiates
 - [[tenet-generated-voids|Tenet-Generated Voids]] — How each tenet generates its characteristic void
