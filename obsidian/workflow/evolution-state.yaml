@@ -1,15 +1,11 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-28T06:27:52.966980+00:00'
-session_count: 6491
-cycle_position: 6119
+last_updated: '2026-04-28T06:42:52.967506+00:00'
+session_count: 6492
+cycle_position: 6120
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-28T02:12:52.959868+00:00'
   optimistic-review: '2026-04-28T03:42:52.963387+00:00'
-  check-tenets: '2026-04-27T12:28:18.956955+00:00'
+  check-tenets: '2026-04-28T06:42:52.967506+00:00'
   check-links: '2026-04-28T00:42:52.957817+00:00'
   deep-review: '2026-04-28T05:42:52.965920+00:00'
   tune-system: '2026-04-27T12:28:18.956955+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-28T06:12:52.966651+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-27T12:28:18.956955+00:00'
-  agentic-social: '2026-04-28T06:12:52.966651+00:00'
+  agentic-social: '2026-04-28T06:58:33.490884+00:00'
 last_git_push: '2026-04-28T00:42:52.957817+00:00'
 last_tweet_date: '2026-04-27'
 content_stats:
@@ -51,12 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (Task context:
-
-    Coalesce on 2026-04-28 00:13 UTC mer)'
-  type: refine-draft
-  date: '2026-04-28'
-  outcome: success
 - task: condense (obsidian/topics/consciousness-and-the-metaphysics-)
   type: condense
   date: '2026-04-28'
@@ -136,3 +126,14 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-28'
   outcome: success
+- task: deep-review (obsidian/topics/pain-consciousness-and-causal-powe)
+  type: deep-review
+  date: '2026-04-28'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/skill-delegation/
+    date: '2026-04-28T06:58:33.490864+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - topics/free-will

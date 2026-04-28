@@ -4,7 +4,7 @@ description: "What laws of nature are and what fundamental properties are determ
 created: 2026-02-16
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T05:57:00+00:00
+ai_modified: 2026-04-28T06:58:00+00:00
 draft: false
 last_deep_review: 2026-04-28T00:13:00+00:00
 topics:
@@ -43,7 +43,7 @@ coalesced_from:
   - "/topics/consciousness-and-the-ontology-of-dispositions/"
 ---
 
-Whether consciousness can interact with the physical world depends not only on physics but on two prior metaphysical questions: what *laws of nature* are, and what *fundamental properties* are. The Unfinishable Map holds that [[psychophysical-laws|psychophysical laws]]—principles connecting phenomenal experience to physical processes—must exist if [[tenets#^dualism|dualism]] is true. Three rival accounts of laws (Humean regularity theory, the governing-laws view, and dispositional essentialism) and three rival accounts of properties (categoricalism, pandispositionalism, and the identity theory of "powerful qualities") generate sharply different consequences for the mind-body problem. The two debates are not separable: a position on laws constrains which view of properties one can hold, and vice versa.
+Whether consciousness can interact with the physical world depends not only on physics but on two prior metaphysical questions: what *laws of nature* are, and what *fundamental properties* are. The Unfinishable Map holds that [[psychophysical-laws|psychophysical laws]]—principles connecting phenomenal experience to physical processes—must exist if [[tenets#^dualism|dualism]] is true. Three rival accounts of laws (Humean regularity theory, the governing-laws view, and dispositional essentialism) and three rival accounts of properties (categoricalism, pandispositionalism, and the identity theory of "powerful qualities") generate sharply different consequences for the mind-body problem. The two debates are not separable: a position on laws constrains which view of properties one can hold, and vice versa. The interface model developed below depends on *both* axes simultaneously—the cross-product is structurally load-bearing for the Map, doing work no single-axis treatment can.
 
 The Map's commitment to genuine mental causation—[[tenets#^bidirectional-interaction|bidirectional interaction]] at the quantum interface—presupposes that *some* route to psychophysical law succeeds, and which route is available depends on how this combined question is answered.
 
@@ -139,7 +139,15 @@ The identity theory faces the *collapse-or-conjunction dilemma* (Taylor 2018; Co
 
 ## Dispositions, Consciousness, and the Interface
 
-The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies that consciousness biases quantum indeterminacies in neural systems. If consciousness has genuine causal powers, those powers have a dispositional structure: consciousness is *disposed* to bias certain quantum outcomes when triggered by quantum indeterminacies in appropriate neural systems—what the Map calls the [[brain-interface-boundary|interface]]. The manifestation is a shift in which quantum outcome actualises. Reducing consciousness to this disposition alone would collapse into pandispositionalism; the qualitative aspect remains, identical with the dispositional aspect rather than absorbed into it.
+The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet specifies that consciousness biases quantum indeterminacies in neural systems. The Map's interface model anchors this further: psychophysical laws are *local prescriptions at sites of neural quantum indeterminacy*, not freestanding cross-domain regularities. This conclusion is what the cross-product was for. It holds on the governing-laws view paired with powerful qualities, and fails on either axis alone.
+
+Pure dispositional essentialism cannot ground it. The zombie-world disanalogy denies phenomenal properties the fundamentality essentialism requires: there is no essential nature of consciousness from which the law could flow, only contingent existence whose causal profile must come from elsewhere. An essentialist reading of the interface would have psychophysical laws expressing what consciousness inherently is, but consciousness is not fundamental in the relevant sense—so there is no internal anchor.
+
+Pure governing-laws-with-categoricalism cannot ground it either. A governing law can prescribe outcomes at quantum indeterminacies, but if the qualitative side is purely categorical with no intrinsic causal contribution, the law has no property-side anchor. It imposes prescriptions from outside, and phenomenal character becomes an inert quality the law happens to track—precisely the structure the [[the-epiphenomenalist-threat|epiphenomenalist]] argument exploits. The "local" in "local prescription" requires a property at the site that is itself causally contributing, not merely a categorical placeholder for a law to refer to.
+
+The combination supplies both halves. The governing view contributes *nomic necessity*: the psychophysical law genuinely prescribes which quantum outcome obtains rather than summarising a regularity, supplying the modal force Humeanism lacks. Powerful qualities contribute *phenomenal causation*: the conscious quality is what does the prescribing, identical with rather than separable from its dispositional aspect, so the law's anchor at the interface is a real phenomenal property doing real causal work. The law is "local" because it operates at the contact surface where powerful qualities meet quantum indeterminacy, and "prescriptive" because the governing view supplies the modal force pure regularity cannot. Removing either axis leaves the interface model without a cogent reading—pure essentialism collapses on the disanalogy; governing-without-powerful-qualities reintroduces the epiphenomenalist gap. This is the structural work the cross-product does for the Map, distinct from the secondary points (legislation, Humean shallowness) that *would* be reachable on a single-axis treatment.
+
+If consciousness has genuine causal powers, those powers have a dispositional structure: consciousness is *disposed* to bias certain quantum outcomes when triggered by quantum indeterminacies in appropriate neural systems—what the Map calls the [[brain-interface-boundary|interface]]. The manifestation is a shift in which quantum outcome actualises. Reducing consciousness to this disposition alone would collapse into pandispositionalism; the qualitative aspect remains, identical with the dispositional aspect rather than absorbed into it.
 
 This dispositional analysis is hostage to a physical premise: that quantum indeterminacies survive in the warm wet brain long enough to be biased. Tegmark (2000) and the decoherence literature (Schlosshauer 2007) argue thermal noise collapses superpositions in neural tissue on timescales 13–20 orders of magnitude shorter than neural information processing—so whatever indeterminacy exists is averaged out before it could host a triggering condition for any phenomenal disposition. The Map engages this objection in [[quantum-biology-and-neural-mechanisms]] and [[penrose-gravity-induced-collapse-empirical-prospects]], arguing that Tegmark's calculation is correct for toy systems but does not foreclose biological architectures evolved to maintain coherence. The dispositional framing here presupposes that defence; if it fails, the Map needs a different account of how psychophysical laws operate.
 
@@ -202,4 +210,15 @@ The central insight: the mind-body problem is not just about what consciousness 
 16. Shoemaker, S. (1980). "Causality and Properties." In P. van Inwagen (Ed.), *Time and Cause*. D. Reidel.
 17. Taylor, J.H. (2018). Powerful qualities and pure powers. *Philosophical Studies*, 175(6), 1423-1440.
 18. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+
+<!-- AI REFINEMENT LOG - 2026-04-28
+Changes made (addressing pessimistic-2026-04-28 Counterargument 3, "What does the cross-product really buy you over a single-axis treatment?"):
+- Added a forward-reference clause to the introduction (line 46) flagging that the interface model developed below depends on both axes, so the cross-product is structurally load-bearing rather than pedagogical.
+- Inserted four new paragraphs at the start of §"Dispositions, Consciousness, and the Interface" identifying *one* Map-relevant conclusion that requires the cross-product: psychophysical laws as "local prescriptions at sites of neural quantum indeterminacy." Showed why pure dispositional essentialism cannot ground this (zombie-disanalogy denies fundamentality, no internal anchor) and why pure governing-laws-with-categoricalism cannot ground it either (no property-side causal contribution, reintroduces epiphenomenalist gap). Showed how governing-laws + powerful qualities supplies both nomic necessity (modal force) and phenomenal causation (the conscious quality is the prescriber). Acknowledged that secondary points (legislation problem, Humean shallowness) would be reachable on a single-axis treatment, isolating the cross-product's specific structural payload.
+- Frontmatter ai_modified updated to 2026-04-28T06:58:00+00:00.
+
+Voice and argument structure preserved. The existing "Dispositions, Consciousness, and the Interface" content (dispositional structure of consciousness, Tegmark engagement) follows unchanged after the new paragraphs. Path (a) chosen over path (b): no restructuring of the article's overall axis ordering, since the existing structure works once the cross-product's load-bearing case is made explicit.
+
+This log should be removed after human review.
+-->
 

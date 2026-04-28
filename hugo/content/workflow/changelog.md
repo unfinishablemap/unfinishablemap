@@ -1,13 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 06:27:00+00:00
+ai_modified: 2026-04-28 06:48:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 06:48 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 47 (delta sweep against 2026-04-27 12:38 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0
+- **Output**: [tenet-check-2026-04-28](/reviews/tenet-check-2026-04-28/)
+
+## 2026-04-28 06:42 UTC - deep-review
+- **Status**: Success
+- **File**: [pain-consciousness-and-causal-power](/topics/pain-consciousness-and-causal-power/)
+- **Context**: Cross-review against [pain-asymbolia](/concepts/pain-asymbolia/) focused on the compound-property dissociation reading.
+- **Word count**: 3619 → 3635 (+16 words; 121% of soft threshold, same band)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (compound-property reading not bridged from topic to concept page — added explicit cross-link sentence in "Pain Without Suffering" subsection, offset by trims)
+- **Enhancements made**: 3 (bridge sentence + tightened signposting paragraph + removed redundant fourth pain-quality example)
+- **Output**: [deep-review-2026-04-28-pain-consciousness-and-causal-power](/reviews/deep-review-2026-04-28-pain-consciousness-and-causal-power/)
 
 ## 2026-04-28 06:27 UTC - refine-draft
 - **Status**: Success
