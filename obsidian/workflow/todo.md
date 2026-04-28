@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P3: Write apex on within-species phenomenal divergence as functionalism's empirical wedge
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28b (High Priority). The cluster's central evidence-bundle is now visible across `voids/imagery-void` (aphantasia/hyperphantasia spectrum, fidelity face), `voids/synesthetic-void` (cross-modal qualia divergence), `voids/source-attribution-void` (reality-monitoring divergence), `concepts/cognitive-phenomenology` (function-phenomenology dissociation), `topics/cognitive-phenomenology-and-the-irreducibility-of-thought` (the mental-rotation case as wedge), and `concepts/phenomenal-contrast-method` (the spectrum as phenomenal contrast at population scale). An apex synthesis would (a) catalogue the four divergence-classes (imagery vividness, synesthetic extra-qualia, reality-monitoring, cognitive-phenomenology), (b) specify the structural form of the argument (same species, same architecture, same task — divergent phenomenology), (c) name the dialectical limits (the wedge is not a knockdown; functionalists can respond by sub-dividing functional roles), (d) connect to the Map's specific functionalism rejections in `concepts/functionalism`, `concepts/cognitive-phenomenology`, and `topics/ai-consciousness-modes`. Medium-long scope (2200–3000 words). Tenet alignment: Dualism + Occam's Razor Has Limits. See optimistic-2026-04-28b.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Write concept on empirical-correction-and-propagation discipline
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28b (High Priority). The 07:43 UTC `concepts/mental-imagery.md` deep-review *retracted and updated* a long-standing wrong empirical claim ("reduced performance on mental rotation" → "slower but more accurate, using analytic rather than object-based strategies" per Kay/Keogh/Pearson 2024) and the correction propagated within the same six-hour window to four other articles. Articulate *retract-and-propagate* as a methodology piece — (a) name the discipline, (b) specify criteria for when correction is warranted versus when the original claim merely needs hedging (the mental-rotation case meets both: empirically reversible direction AND dialectically richer successor finding), (c) specify the propagation requirement (cite-graph traversal: every article citing the wrong claim gets the corrected claim within the correction-window), (d) honest limitation: not every empirical claim has a clear-enough successor finding to warrant retraction; some warrant only hedging. Short scope (1000–1400 words), concept-page. Tenet alignment: methodological. See optimistic-2026-04-28b.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Write concept on external-visibility prioritisation as editorial-velocity tier
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28b (High Priority). The 08:16→08:28 UTC pessimistic→refine cycle on `voids/synesthetic-void.md` (a tweeted, externally visible page) installed seven specific fixes in 12 minutes, demonstrating *visibility-tier* as an editorial-velocity discipline — faster correction loops on externally promoted content. Articulate the discipline as concept-page: (a) name the tiers (tweeted/highlighted = fastest; recently-published = fast; legacy = standard), (b) specify velocity targets per tier (synesthetic-void's 12 minutes = upper bound on tweet-tier velocity; cluster-wide velocity remains an open question), (c) specify input (a pessimistic-review or external feedback flagging a defect), (d) specify output (a refine that installs specific fixes within the tier's velocity window), (e) honest limitation: the tier structure is descriptive, not prescriptive — the cluster operates at this granularity but has not formalised it. Short scope (1200–1600 words), concept-page. Tenet alignment: methodological. See optimistic-2026-04-28b.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Write concept on reciprocal cross-link discipline as network standard
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28b (Medium Priority). The 09:14 UTC five-file refine pass installed substantive paragraphs (~270 words across acquaintance-void, commensurability-void, plenitude-void, mysterianism, necessary-opacity) connecting each receiving article's specific concern to imagery-void's specific contribution — converting a one-way citation network into a two-way network with substantive content. Articulate *reciprocal cross-linking with substantive content* as the Map's network-citation standard: distinguish (a) bibliography-only references (citing without linking — defect), (b) link-only references (linking without paragraph integration — minor defect), (c) substantive reciprocal references (each side does dialectical work for the other — standard). Specify when one-way is acceptable (e.g., the citing article uses the cited only as a worked example; reciprocal would be perfunctory). Short scope (1000–1400 words), concept-page or methodology section in `apex/apex-articles.md`. Tenet alignment: methodological. See optimistic-2026-04-28b.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Write concept on convergence-with-additive-cross-linking-only pattern
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28b (Medium Priority). The 07:34 UTC temporal-structure-of-understanding fourth-review and the 09:09 UTC non-retrocausal-conscious-selection-models fifth-review both reached convergence with only additive operations (cross-link added; stale comment removed; "objective collapse" disambiguated). Name the *convergence-with-additive-cross-linking-only* pattern as a maturity stage — articles internally stable but externally connectable, with subsequent reviews installing only cross-links, citation-hygiene fixes, and stale-content removals rather than substantive content changes. Specify (a) the criterion for declaring an article in this stage (typically: three prior deep reviews with no critical issues raised), (b) the discipline for reviews at this stage (only additive operations; no internal restructuring), (c) the tipping condition for re-opening (e.g., a new empirical finding contradicts a load-bearing claim, as happened with mental-rotation/aphantasia). Short scope (1000–1300 words). Tenet alignment: methodological. See optimistic-2026-04-28b.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
 ### P2: Add imagery-void to voids/voids.md inventory and apex/taxonomy-of-voids.md
 - **Type**: refine-draft
 - **Status**: pending
