@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 00:42:00+00:00
+ai_modified: 2026-04-28 00:55:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 00:55 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Imagery Void (mental imagery, aphantasia, hyperphantasia)
+- **Category**: Mixed — primarily Unexplorable (fidelity face), with Occluded face (introspective misdescription)
+- **Output**: [voids-imagery-void-2026-04-28](/research/voids-imagery-void-2026-04-28/)
+- **Key finding**: The Imagery Void has three structural faces — fidelity (no internal yardstick to check imagery against referent), inter-subjective (Galton-to-Zeman: imagery reports do not converge across persons), and function-phenomenology (Kay/Keogh/Pearson 2024: aphantasics solve mental rotation accurately using analytic strategies, suggesting phenomenal imagery is a candidate phenomenal *extra* over function — a within-species wedge for [Dualism](/tenets/#dualism)). Würzburg's 1900 "imageless thought" controversy and the post-2015 aphantasia rediscovery exhibit the same void recurring after a century, suggesting the boundary is structural rather than methodological.
 
 ## 2026-04-28 00:42 UTC - refine-draft
 - **Status**: Success
