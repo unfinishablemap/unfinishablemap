@@ -3,7 +3,7 @@ title: "Apophatic Cartography: Method and Its Limits"
 created: 2026-01-10
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T13:53:00+00:00
+ai_modified: 2026-04-28T23:23:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,6 @@ related_articles:
   - "[[formal-cognitive-limits]]"
   - "[[three-kinds-of-void]]"
   - "[[question-formation-void]]"
-  - "[[epistemic-horizon-void]]"
   - "[[categorial-void]]"
   - "[[suspension-void]]"
   - "[[conjunction-coalesce]]"

@@ -4,7 +4,7 @@ description: "Cognitive limits are doubly informative: their shape reveals archi
 created: 2026-01-16
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T22:23:00+00:00
+ai_modified: 2026-04-28T23:23:00+00:00
 last_deep_review: 2026-04-28T12:00:00+00:00
 draft: false
 topics:
@@ -37,7 +37,6 @@ related_articles:
   - "[[void-as-ground-of-meaning]]"
   - "[[boundary-and-projection]]"
   - "[[erasure-void]]"
-  - "[[epistemic-horizon-void]]"
   - "[[plenitude-void]]"
   - "[[categorial-void]]"
   - "[[disappearance-voids]]"
@@ -99,7 +98,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The [[voids|ca
 
 **The Cognitive Architecture Family.** [[biological-cognitive-closure|Evolved cognitive limits]], [[formal-cognitive-limits|formal cognitive limits]], [[attention-and-consciousness|attention-created voids]], [[disappearance-voids|habituation void]], [[language-thought-boundary]], [[quantitative-intuition-void|quantitative intuition void]], and the [[recognition-void|recognition void]]'s "inventory blindness" reveal constraints imposed by specific cognitive architectures. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Failure is specific to biological cognition, making [[non-human-minds-as-void-explorers|AI triangulation]] directly applicable.
 
-**The Framework Reflexivity Family.** The [[tenet-generated-voids]], [[apophatic-cartography|cartography problem]], formal cognitive limits, [[recursion-void]], and [[meta-epistemology-of-limits|whether voids are real]] share self-referential structure. The [[categorial-void]] (schemas our apparatus cannot form) and [[epistemic-horizon-void]] (the unknowability of total ignorance) are *second-order*: they shadow every other family. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
+**The Framework Reflexivity Family.** The [[tenet-generated-voids]], [[apophatic-cartography|cartography problem]], formal cognitive limits, [[recursion-void]], and [[meta-epistemology-of-limits|whether voids are real]] share self-referential structure. The [[categorial-void]] (schemas our apparatus cannot form) and [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|epistemic horizon void]] (the unknowability of total ignorance) are *second-order*: they shadow every other family. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
 
 ### Shared Boundaries and Directional Convergence
 

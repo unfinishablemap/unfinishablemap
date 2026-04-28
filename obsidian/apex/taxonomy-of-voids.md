@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-04-28T22:09:00+00:00
+ai_modified: 2026-04-28T23:23:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—offers cumulative abductive support for the Map's tenet-package."
 last_deep_review: 2026-04-28T18:07:00+00:00
@@ -31,7 +31,7 @@ related_articles:
   - "[[presence-type-and-absence-type-voids]]"
   - "[[plenitude-void]]"
   - "[[categorial-void]]"
-  - "[[epistemic-horizon-void]]"
+  - "[[meta-epistemology-of-limits]]"
   - "[[closure-types-void]]"
   - "[[question-formation-void]]"
   - "[[inference-void]]"
@@ -124,7 +124,7 @@ The [[voids-between-minds|voids between minds]] mark where individual consciousn
 
 ### The Formal and Meta-Cognitive Cluster
 
-The [[formal-cognitive-limits|formal cognitive limits]] applies Gödelian limits to self-knowledge. The [[recursion-void|recursion void]] shows metacognitive depth terminating around fifth order. The [[apophatic-cartography|cartography problem]] proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. The [[epistemic-horizon-void|epistemic horizon void]] adds a second-order twist: no finite mind can estimate the total *scope* of its ignorance, because any estimate is produced from within the same limited system it would measure. The [[closure-types-void|closure-types void]] imposes a twin reflexive constraint: representational closure (concepts cannot frame the target) and psychological closure (concepts exist but resist assembly) look similar from within, so the catalogue is best read as tracking *suspected* closures whose types stay partially hidden. The [[categorial-void|categorial void]] shifts the analysis from concepts to the *shape* concepts must take—reality may contain features for which our cognitive architecture has no categorial schema at all, producing a distinctive "soft absence" where thought cannot determine what shape reaching would even take. These formal limits constrain not just what can be thought but what can be thought *about* thought.
+The [[formal-cognitive-limits|formal cognitive limits]] applies Gödelian limits to self-knowledge. The [[recursion-void|recursion void]] shows metacognitive depth terminating around fifth order. The [[apophatic-cartography|cartography problem]] proves that a complete catalog of cognitive voids is impossible in principle—the map of voids cannot contain itself. The [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|epistemic horizon void]] adds a second-order twist: no finite mind can estimate the total *scope* of its ignorance, because any estimate is produced from within the same limited system it would measure. The [[closure-types-void|closure-types void]] imposes a twin reflexive constraint: representational closure (concepts cannot frame the target) and psychological closure (concepts exist but resist assembly) look similar from within, so the catalogue is best read as tracking *suspected* closures whose types stay partially hidden. The [[categorial-void|categorial void]] shifts the analysis from concepts to the *shape* concepts must take—reality may contain features for which our cognitive architecture has no categorial schema at all, producing a distinctive "soft absence" where thought cannot determine what shape reaching would even take. These formal limits constrain not just what can be thought but what can be thought *about* thought.
 
 ## How Thought Fails: The Topology of Failure
 
@@ -174,7 +174,7 @@ Intellectual honesty demands acknowledging what the taxonomy cannot determine. T
 
 The meta-epistemology sharpens this challenge. From inside, a genuinely impossible problem produces the same phenomenology as a merely very hard one—sustained effort, repeated failure, the sense of hitting a wall. Success proves a problem was solvable; failure, even across centuries, proves nothing conclusive. The assessment requires the faculties under assessment—a recursive bind no internal method escapes. A further axis: could some limits be *designed* constraints rather than natural features of finite minds? Whether natural or designed, the appropriate response is the same—careful attention to what can be thought, honest acknowledgment of what cannot—but the distinction matters for what the voids ultimately reveal.
 
-The [[apophatic-cartography|cartography problem]] deepens this: a complete catalog of cognitive voids is provably impossible. Kit Fine's formal work on "ignorance of ignorance" shows knowledge of second-order ignorance is impossible under plausible epistemic assumptions. The [[epistemic-horizon-void|epistemic horizon void]] carries this further: even the *proportion* of cognitive territory the Map covers cannot be estimated from within, because the estimate is produced by the same limited system it would measure. The map of voids cannot know its own boundaries—or how far short of them it stands. The Map is unfinishable not merely because the territory is vast but because, under Fine's axioms, the mapping process is formally proven incomplete about its own blind spots.
+The [[apophatic-cartography|cartography problem]] deepens this: a complete catalog of cognitive voids is provably impossible. Kit Fine's formal work on "ignorance of ignorance" shows knowledge of second-order ignorance is impossible under plausible epistemic assumptions. The [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|epistemic horizon void]] carries this further: even the *proportion* of cognitive territory the Map covers cannot be estimated from within, because the estimate is produced by the same limited system it would measure. The map of voids cannot know its own boundaries—or how far short of them it stands. The Map is unfinishable not merely because the territory is vast but because, under Fine's axioms, the mapping process is formally proven incomplete about its own blind spots.
 
 The taxonomy must also acknowledge what it generates. Every framework creates characteristic voids through its foundational commitments. The Map's five tenets generate five corresponding voids—nature, mechanism, detection, selection, and meta-void—the price of taking consciousness seriously as fundamental. Other frameworks pay different prices: materialism faces the hard problem, panpsychism the combination problem, idealism the regularity of nature. The question is not whether a framework has voids but whether it acknowledges them.
 

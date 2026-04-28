@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 23:08:00+00:00
+ai_modified: 2026-04-28 23:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 23:23 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[voids/what-voids-reveal]], [[apex/taxonomy-of-voids]], [[voids/voids]], [[voids/inference-void]], [[voids/apophatic-cartography]], [[voids/categorial-void]], [[voids/question-formation-void]], [[voids/three-kinds-of-void]]
+- **Changes**: Updated all `[[epistemic-horizon-void]]` wikilinks to point at the unified `[[meta-epistemology-of-limits]]` (post-coalesce of 2026-04-28 23:08 UTC). Used the `#the-scope-question-estimating-total-ignorance-from-within` anchor on inline references whose role was specifically about scope/horizon (estimating total ignorance from within). Removed eight duplicate `related_articles` and Further Reading entries where `[[meta-epistemology-of-limits]]` was already listed. Bibliographic citation URLs left alone — they resolve to the archive page via redirect, preserving citation integrity.
+- **Published**: yes
+- **Note**: Resolves the follow-up task left after the coalesce. Two citation URLs remain pointing at the archived URL by design.
 
 ## 2026-04-28 23:08 UTC - coalesce
 - **Status**: Success

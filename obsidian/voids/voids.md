@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-04-28
 human_modified: 2026-01-08
-ai_modified: 2026-04-28T18:52:00+00:00
+ai_modified: 2026-04-28T23:23:00+00:00
 draft: false
 last_deep_review: 2026-04-27T18:59:00+00:00
 topics: []
@@ -69,8 +69,7 @@ A maintenance note on this index. Four of the entries below—[[agency-void|the 
 - [[compound-failure-signatures|Compound Failure Signatures]] — Using the structure of failure as data
 - [[what-voids-reveal|What Cognitive Voids Reveal]] — How limits illuminate cognitive architecture, and how the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
 - [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — The method of knowing through negation, and why any such catalog is constitutively incomplete
-- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
-- [[epistemic-horizon-void|The Epistemic Horizon Void]] — The second-order void that shadows every other: why consciousness cannot estimate the total scope of what it does not know from within the limited system doing the estimating (created 2026-04-23)
+- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind, why we cannot predict which will prove permanent, and [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|why consciousness cannot estimate the total scope of what it does not know]] from within the limited system doing the estimating
 - [[question-formation-void|The Question Formation Void]] — The method-horizon void: a constraint on which questions a mind can formulate, distinct from constraints on which answers it can reach; mapping by negation can only negate what is already askable (created 2026-04-24)
 - [[inference-void|The Inference Void]] — The structural opacity of inferential transitions to the consciousness performing them; Carroll's regress gives the void a formally demonstrable epistemic profile, distinguishing it from purely apophatic or empirical voids (created 2026-04-26; sister regress to [[suspension-void]])
 - [[suspension-void|The Suspension Void]] — Why consciousness cannot verify, sustain, or coherently perform the withholding of judgment; three faces (verification, capacity, action) conjoin in the structural opacity at the heart of every apophatic method, including the Map's own (created 2026-04-28; first native conjunction-coalesce cognate)
