@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 02:29:00+00:00
+ai_modified: 2026-04-28 02:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 02:42 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/constitutive-vs-referring-observation]]
+- **Word count**: 1879 → 1879 (no change to article body)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (orphan integration)
+- **Enhancements made**: 5 inbound wikilinks added from topics/phenomenal-authority-and-first-person-evidence, topics/eliminative-materialism, concepts/illusionism, concepts/phenomenal-acquaintance, concepts/introspection
+- **Output**: [[reviews/deep-review-2026-04-28-constitutive-vs-referring-observation]]
 
 ## 2026-04-28 02:29 UTC - refine-draft
 - **Status**: Success

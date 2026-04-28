@@ -101,7 +101,7 @@ The decomposition matters because the Map's core arguments draw on different lay
 
 ## Constitutive vs Referring Observation
 
-The layered structure raises a sharper question: *why* is layer 1 apodictic in a way no other empirical observation is? The answer turns on a structural distinction between two kinds of observation.
+The layered structure raises a sharper question: *why* is layer 1 apodictic in a way no other empirical observation is? The answer turns on a structural distinction between two kinds of observation, developed in detail in [[constitutive-vs-referring-observation]].
 
 A **referring observation** tracks something existing independently of the observation. Naked-eye astronomy is the paradigm: observation and referent are separable, the relation between them contingent, the report consequently corrigible. A **constitutive observation** is one whose object is constituted by the observing itself. The seeming-that-there-is-something-it-is-like-to-be-in-pain is not a report about a state existing independently of its being seemed; the seeming and the being-of-the-phenomenal-state are not separable items that could come apart. *To be acquainted with phenomenality is, in part, to be undergoing it.*
 
@@ -209,6 +209,7 @@ Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophenomenology]
 - [[epistemic-advantages-of-dualism]] — The broader case for non-materialist theories
 - [[illusionism]] — The strongest denial of phenomenal consciousness
 - [[eliminative-materialism]] — Where the bedrock disagreement over theory-ladenness lives
+- [[constitutive-vs-referring-observation]] — Structural distinction underwriting layer-1's apodictic standing
 - [[phenomenal-concepts-as-materialist-response]] — The main physicalist response
 - [[argument-from-reason]] — The broader case against epiphenomenalism
 - [[observation-and-measurement-void]] — Why strict calibration is structurally impossible

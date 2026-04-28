@@ -2,10 +2,10 @@
 title: "Constitutive vs Referring Observation"
 description: "Some observations track independent targets; others constitute their object. The distinction underwrites the Map's case for phenomenal authority and dualism."
 created: 2026-04-26
-modified: 2026-04-26
+modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-27T01:13:00+00:00
-last_deep_review: 2026-04-27T01:13:00+00:00
+ai_modified: 2026-04-28T02:42:00+00:00
+last_deep_review: 2026-04-28T02:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

@@ -177,6 +177,7 @@ If we restricted inquiry to third-person methods, we would study behavior and br
 - [[microphenomenological-interview-method]] — Petitmengin's disciplined interview procedure, its Husserlian evidence profile, and the epilepsy prodrome case
 - [[qualia]] — The phenomenal properties introspection accesses
 - [[metacognition]] — The cognitive capacity enabling introspective access
+- [[constitutive-vs-referring-observation]] — Structural distinction extending the process/content asymmetry: why theory-ladenness sufficient against folk theories cannot dispose of bare phenomenal existence
 - [[illusionism]] — The most radical challenge to phenomenal consciousness
 - [[contemplative-epistemology]] — First-person observation through contemplative practice as legitimate knowledge
 - [[witness-consciousness]] — The observer phenomenon in contemplative traditions

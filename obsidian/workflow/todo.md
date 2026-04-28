@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Integrate constitutive-vs-referring-observation.md into site navigation
-- **Type**: integrate-orphan
-- **Notes**: File created 2026-04-26 has zero inbound wikilinks across active obsidian content (excluding workflow/reviews). The article distinguishes constitutive observation (where the observation itself partly constitutes what is observed) from referring observation (where observation reports an independent fact) — a distinction load-bearing for measurement-problem analysis and for first-person reports. Candidate integration sites: `concepts/measurement-problem.md`, `concepts/observer-effect.md`, `concepts/quantum-measurement.md`, `concepts/von-neumann-wigner-interpretation.md`, `concepts/introspection.md`, `topics/phenomenology-of-observation.md` (if exists), `topics/methodology-of-consciousness-research.md`, and any apex piece on observation/measurement. Add reciprocal cross-links and check whether the section index pages list the article. Short scope (~200-400 words across 4-6 articles).
-- **Source**: orphan_integration
-- **Generated**: 2026-04-28
-
 ### P2: Add reciprocal cross-links from neighbour concepts to carrolls-regress.md
 - **Type**: cross-review
 - **Notes**: File created 2026-04-26 has only 1 inbound wikilink across active obsidian content — borderline orphan. Carroll's regress concerns the inferential gap between premises and acceptance of a conclusion (the Tortoise's challenge) and bears structurally on hard-problem-of-content, on inference-void (created 2026-04-26 with 11 inbound links — likely a strong candidate for reciprocal linking), on `concepts/intentionality.md`, `concepts/normativity-of-content.md` (if exists), `concepts/tacit-knowledge.md` (or analogue), and on `voids/tacit-integration-void.md` (created 2026-04-27 — same cohort, structurally adjacent). Also check `topics/eliminative-materialism.md` (2026-04-26) for whether the regress argument should appear there. Add cross-links and inbound references to integrate the article into the conceptual neighbourhood. Short scope (~200-400 words across 4-6 articles).
@@ -2900,6 +2894,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Integrate constitutive-vs-referring-observation.md into site navigation
+- **Type**: integrate-orphan
+- **Notes**: File created 2026-04-26 has zero inbound wikilinks across active obsidian content (excluding workflow/reviews). The article distinguishes constitutive observation (where the observation itself partly constitutes what is observed) from referring observation (where observation reports an independent fact) — a distinction load-bearing for measurement-problem analysis and for first-person reports. Candidate integration sites: `concepts/measurement-problem.md`, `concepts/observer-effect.md`, `concepts/quantum-measurement.md`, `concepts/von-neumann-wigner-interpretation.md`, `concepts/introspection.md`, `topics/phenomenology-of-observation.md` (if exists), `topics/methodology-of-consciousness-research.md`, and any apex piece on observation/measurement. Add reciprocal cross-links and check whether the section index pages list the article. Short scope (~200-400 words across 4-6 articles).
+- **Output**: obsidian/concepts/constitutive-vs-referring-observation.md -- Context: This file has no inbound links and is orphaned. Focus on finding related articles that should link to this content. Add cross-references from existing articles to integrate this into the site navigation.
 
 ### ✓ 2026-04-28: Address gaps in topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md
 - **Type**: refine-draft
