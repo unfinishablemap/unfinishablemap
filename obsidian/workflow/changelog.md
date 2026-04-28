@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 05:57:00+00:00
+ai_modified: 2026-04-28 06:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 06:21 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section searched**: voids/ (95/100, most pressured), then topics/ (230/250)
+- **Clusters examined**: voids — affective (affective/emotional-epistemology/mood/valence/noetic-feelings/appetitive), cognitive-limits (biological-closure/collective/embodiment/formal/self-maintained), meta-voids (limits-reveal-structure/voids-as-evidence/compound-failure-signatures/three-kinds-of-void/closure-types), conceptual (framework/categorial/conceptual-impossibility/conceptual-metabolism), cessation (death/erasure/inaccessible-past/witnessing/transit/sleep), stream (thought-stream/recursion/recognition/source-attribution/predictive-construction/tacit-integration), meaning (meaning-void/void-as-ground-of-meaning/the-surplus/plenitude/ineffable-encounter); topics — interface (location vs specification), cognitive-phenomenology pair (capacity vs limit-types), born-rule pair (theoretical vs empirical), clinical (quality-standards/dissociation/neuroplasticity/phenomenology)
+- **Finding**: Each cluster's articles explicitly distinguish themselves from siblings (typically in the second paragraph, listing what the article is *not*). The Map is actively curated to maintain distinct scopes; merging would erase intentional differentiation. Per skill rule "If after five iterations there are still no strong candidates, abandon the attempt."
 
 ## 2026-04-28 05:57 UTC - condense
 - **Status**: Success
