@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review four phenomenology-vs-function exemplars to install reciprocal links to new concepts/phenomenology-vs-function-axis.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's expand-topic completion (2026-04-28 19:18 UTC). The new `concepts/phenomenology-vs-function-axis.md` lists four exemplars in its `related_articles` frontmatter — `voids/imagery-void.md`, `voids/synesthetic-void.md`, `voids/agency-void.md`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md` — but each of these four articles currently links the axis only via `[[taxonomy-of-voids]]` (the apex), not the dedicated concept-page anchor. Verified: zero of the four articles contain a wikilink to `[[phenomenology-vs-function-axis]]`. Cross-review should (a) for each of the four articles, add a wikilink to `[[phenomenology-vs-function-axis]]` adjacent to or replacing the existing apex-only reference, with a short paragraph (~80-120 words) acknowledging the concept-page as the canonical anchor for the dissociation pattern this article exemplifies; (b) add `[[phenomenology-vs-function-axis]]` to each article's `related_articles` frontmatter; (c) verify terminology aligns (the new concept page treats "phenomenology-vs-function axis" and "function-phenomenology dissociation" as referring to the same structure; the four exemplars should follow this convention); (d) preserve each article's existing voice and dialectical posture. Short-medium scope (~400-600 words across four articles). Tenet alignment: Dualism (the dissociation cases are empirically-anchored arguments against functionalist reduction), Occam's Razor Has Limits.
-- **Source**: chain
-- **Generated**: 2026-04-28
-
 ### P2: Cross-review concepts/functionalism, concepts/cognitive-phenomenology, concepts/phenomenal-contrast-method against new concepts/phenomenology-vs-function-axis.md
 - **Type**: cross-review
 - **Status**: pending
@@ -3014,6 +3007,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review four phenomenology-vs-function exemplars to install reciprocal links to new concepts/phenomenology-vs-function-axis.md
+- **Type**: cross-review
+- **Notes**: Chain from today's expand-topic completion (2026-04-28 19:18 UTC). The new `concepts/phenomenology-vs-function-axis.md` lists four exemplars in its `related_articles` frontmatter — `voids/imagery-void.md`, `voids/synesthetic-void.md`, `voids/agency-void.md`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md` — but each of these four articles currently links the axis only via `[[taxonomy-of-voids]]` (the apex), not the dedicated concept-page anchor. Verified: zero of the four articles contain a wikilink to `[[phenomenology-vs-function-axis]]`. Cross-review should (a) for each of the four articles, add a wikilink to `[[phenomenology-vs-function-axis]]` adjacent to or replacing the existing apex-only reference, with a short paragraph (~80-120 words) acknowledging the concept-page as the canonical anchor for the dissociation pattern this article exemplifies; (b) add `[[phenomenology-vs-function-axis]]` to each article's `related_articles` frontmatter; (c) verify terminology aligns (the new concept page treats "phenomenology-vs-function axis" and "function-phenomenology dissociation" as referring to the same structure; the four exemplars should follow this convention); (d) preserve each article's existing voice and dialectical posture. Short-medium scope (~400-600 words across four articles). Tenet alignment: Dualism (the dissociation cases are empirically-anchored arguments against functionalist reduction), Occam's Razor Has Limits.
+- **Output**: obsidian/concepts/phenomenology-vs-function-axis.md -- Context: Cross-review four phenomenology-vs-function exemplars to install reciprocal links to new concepts/phenomenology-vs-function-axis.md
 
 ### ✓ 2026-04-28: Address pessimistic-2026-04-28 critical findings in topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md
 - **Type**: refine-draft

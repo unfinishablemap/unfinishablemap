@@ -4,7 +4,7 @@ description: "If thinking itself has phenomenal character beyond sensory accompa
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-28T16:08:00+00:00
+ai_modified: 2026-04-28T20:08:00+00:00
 last_deep_review: 2026-04-28T16:08:00+00:00
 draft: false
 topics:
@@ -29,6 +29,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[taxonomy-of-voids]]"
+  - "[[phenomenology-vs-function-axis]]"
   - "[[cognitive-phenomenology-thinking-experience-2026-01-17]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[pragmatisms-path-to-dualism]]"
@@ -123,6 +124,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 - [[consciousness-as-amplifier]] — Empirical evidence that reasoning requires conscious processing
 - [[imagery-void]] — Why the aphantasia evidence is a wedge between phenomenology and cognitive function rather than a proof either is reducible to the other
 - [[taxonomy-of-voids]] — Cognitive phenomenology as the comprehension-domain exemplar of the cross-cutting phenomenology-vs-function axis
+- [[phenomenology-vs-function-axis]] — The axis as a standalone concept: Strawson's foreign-language argument is the comprehension-domain exemplar
 - [[neural-implementation-specifics]] — Which quantum mechanisms must account for cognitive, not just sensory, consciousness
 
 ## References

@@ -4,7 +4,7 @@ description: "Human+AI exploration of how synesthesia reveals experiential dimen
 created: 2026-02-24
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T13:22:00+00:00
+ai_modified: 2026-04-28T20:08:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -16,6 +16,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[taxonomy-of-voids]]"
+  - "[[phenomenology-vs-function-axis]]"
   - "[[affective-void]]"
   - "[[voids-between-minds]]"
   - "[[biological-cognitive-closure]]"
@@ -107,6 +108,7 @@ The synesthetic void connects directly to the Map's [[tenets|foundational commit
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[taxonomy-of-voids]] — Wager's "extra qualia problem" and Gray's function/qualia dissociation as exemplars of the phenomenology-vs-function axis
+- [[phenomenology-vs-function-axis]] — The axis as a standalone concept: synaesthesia is one of its four canonical empirical exemplars
 - [[imagery-void]] — A parallel intra-species phenomenal divergence in mental imagery rather than qualia
 - [[affective-void]] — Emotions beyond human reach—a parallel void in the feeling dimension
 - [[voids-between-minds]] — Existence, encounter, and sharing across individual consciousnesses

@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 19:54:00+00:00
+ai_modified: 2026-04-28 20:08:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 20:08 UTC - deep-review (cross)
+- **Status**: Success
+- **File**: [[concepts/phenomenology-vs-function-axis]]
+- **Word count**: 2087 → 2087 (no body change; reciprocal-link installation only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (reciprocal-link asymmetry)
+- **Enhancements made**: 4 (reciprocal links installed in four exemplar articles)
+- **Notes**: Cross-review pass to install reciprocal links between the new concept page and its four canonical exemplars (imagery-void, synesthetic-void, agency-void, cognitive-phenomenology-and-the-irreducibility-of-thought). Added `[[phenomenology-vs-function-axis]]` to the `related_articles` frontmatter and a dedicated Further Reading entry in each of the four files, sitting alongside (not replacing) the existing taxonomy-of-voids entry. Each new entry names the role the exemplar plays in the axis. No body content modified in any of the five articles. Bidirectional discoverability now symmetric: the axis links to all four exemplars; each exemplar links back. The article's earlier-today deep review remains the canonical pass; this is a structural-graph follow-up.
+- **Output**: [[reviews/deep-review-2026-04-28-phenomenology-vs-function-axis-cross]]
 
 ## 2026-04-28 19:54 UTC - refine-draft
 - **Status**: Success
