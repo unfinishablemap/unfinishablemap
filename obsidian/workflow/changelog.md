@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 20:23:00+00:00
+ai_modified: 2026-04-28 20:39:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 20:39 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/phenomenology-vs-function-axis]]
+- **Original score**: not run (curate.py review tool not present); pessimistic-2026-04-28d findings addressed per task notes
+- **Changes**:
+  - Reframed "Imagery: The Cleanest Case" → "Imagery: The Grain-of-Function Wedge"; added explicit task-level vs strategy-level grain argument resolving Critical Issue 1 (imagery section now declares task-level function as the relevant grain and acknowledges the strategy-level multi-realizability pressure)
+  - Added new "Mapping the Exemplars to the Two Patterns" subsection assigning each of the four exemplars to pattern (a)/(b) and naming the grain commitments each requires (Medium Issue 2)
+  - Replaced "four voids" with "four articles—three voids and the cognitive-phenomenology topic page" in lead-in and elsewhere; reworked the cluster-recurrence argument to acknowledge cognitive-phenomenology as a topic, not a void cluster (Medium Issue 3)
+  - Added explicit multi-realizability engagement (Putnam 1967, Block & Fodor 1972) to "What the Axis Is Not" (Counterargument i)
+  - Hedged "sensory function held constant" in Strawson section to "acoustic input held constant," with predictive-coding caveat (Counterargument ii)
+  - Softened "predicts exactly this kind of dissociation" → "is consistent with and naturally accommodates," noting strict-covariance compatibility with property dualism (Counterargument iii)
+  - Hedged "same processing pipeline" → "same surface-level processing pipeline" with van Leeuwen semantic-mediation caveat (Counterargument iv)
+  - Updated falsifier paragraph to be coherent with new task-level grain commitment (no longer cites a falsifier the article's own data already meets)
+  - Updated Further Reading entry for imagery-void; added van Leeuwen, Putnam, Block & Fodor references
+  - Fixed paragraph 2's "appeared independently" overstatement (apex compiler was looking for cross-cutting axes) and named the four articles inline
+- **Published**: yes
 
 ## 2026-04-28 20:23 UTC - pessimistic-review
 - **Status**: Success
