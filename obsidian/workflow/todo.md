@@ -37,6 +37,38 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense voids/inaccessible-past.md (3023 words, 101% of hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ (current: 3023 words, 151% of 2000-word soft target). Within voids/ section the article has been the receiving end of multiple cross-review additions (most recently the 2026-04-20 erasure-void cross-review and earlier integrations from temporal-asymmetry, transit-void, narrative-void families). Condense should preserve the core thesis (the past is structurally inaccessible to direct phenomenal contact; remembering reconstructs from present-time traces rather than retrieves), the load-bearing empirical anchors (Loftus reconstructive memory, Schacter's seven sins, Tulving's autonoetic-noetic distinction), and tenet alignments. Trim by (a) collapsing redundant exemplification across the temporal-asymmetry and reconstructive-memory paragraphs, (b) deferring detailed treatment of adjacent voids (transit-void, erasure-void, narrative-void) to their own articles via wikilink rather than re-establishment, (c) compressing the historiographical asides on Bergson/Husserl that re-establish points already made in `concepts/temporal-phenomenology.md` and `concepts/phenomenology-of-time-consciousness.md`. Target ~2400-2600 words (within soft band). See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-28
+
+### P2: Cross-review concepts/qualia.md considering phenomenology-vs-function-axis insights
+- **Type**: cross-review
+- **Notes**: Chain from today's `expand-topic` completion (2026-04-28 19:18 UTC) creating `concepts/phenomenology-vs-function-axis.md`. The axis is a third taxonomic dimension (orthogonal to the four-kinds typology and presence/absence axis) sorting voids by the dissociation of phenomenal character from cognitive function. `concepts/qualia.md` is the foundational concept for phenomenal character itself but does not currently link to the new axis (grep returns 0 hits). The axis provides a structural argument for qualia's irreducibility — every dissociation between phenomenology and function is evidence that the axis is real and that phenomenal character cannot be exhausted by functional description. Cross-review should (a) add `[[phenomenology-vs-function-axis]]` to qualia's `related_articles` frontmatter and to a paragraph in the section on the absent-qualia / inverted-qualia debate; (b) install a short pointer paragraph framing the axis as the empirical complement to the conceivability arguments — the axis catalogues actual dissociations rather than merely conceivable ones; (c) verify that qualia's existing framing remains consistent with the axis's structural commitments (the axis fixes function at the task level; qualia should match this grain commitment or explicitly diverge); (d) preserve qualia's voice and tenet alignment (Dualism). Light-touch edit (~150-300 words touched).
+- **Source**: chain
+- **Generated**: 2026-04-28
+
+### P2: Cross-review topics/arguments-against-materialism.md considering phenomenology-vs-function-axis as empirical wedge
+- **Type**: cross-review
+- **Notes**: Chain from today's expand-topic creating `concepts/phenomenology-vs-function-axis.md`. The article casts the axis as the *empirical complement* to the conceivability-based arguments (zombies, inverted qualia, knowledge argument) that anchor the Map's anti-materialism — making it a structural addition to the umbrella anti-materialism topic. Currently `topics/arguments-against-materialism.md` does not cite the axis (grep returns 0 hits). Cross-review should (a) add `[[phenomenology-vs-function-axis]]` to related_articles and to the article's taxonomy of anti-materialist arguments as a distinct empirical strand alongside the explanatory gap, knowledge argument, conceivability arguments, and the argument from reason; (b) install a paragraph naming the *paired-wedge dialectical strategy* — the axis catalogues actual dissociations in the empirical record (imagery, synaesthesia, comprehension, agency) while the conceivability arguments operate at the modal layer; convergence on a single absorption strategy that works in both registers is harder than independent absorption of each; (c) honest limitation — the axis is not a knockdown; functionalists can respond by sub-dividing functional roles, so the article must distinguish "axis supports the explanatory gap" from "axis refutes functionalism"; (d) preserve the article's existing voice, structure, and tenet alignment (Dualism). Light-touch edit (~250-400 words touched).
+- **Source**: chain
+- **Generated**: 2026-04-28
+
+### P2: Cross-review concepts/cognitive-phenomenology.md considering phenomenology-vs-function-axis insights
+- **Type**: cross-review
+- **Notes**: Chain from today's expand-topic creating `concepts/phenomenology-vs-function-axis.md`. The new article explicitly cites cognitive-phenomenology as one of its four canonical exemplars (alongside imagery, synaesthesia, agency) and uses the function-phenomenology dissociation to ground the axis. The cite is unidirectional — `concepts/cognitive-phenomenology.md` does not currently cite the axis (grep returns 0 hits). Cross-review should (a) add `[[phenomenology-vs-function-axis]]` to related_articles and at the first mention of dissociation in the body; (b) install a paragraph framing cognitive-phenomenology's empirical case (mental rotation strategy-divergence per Kay/Keogh/Pearson 2024; aphantasia performance reframe) as a *worked example* of the axis at the task-level grain — the axis is the general pattern, cognitive-phenomenology is the case where it lands hardest because the divergence appears within the same architecture and same task; (c) verify the grain commitment is consistent (the axis fixes function at the task level; cognitive-phenomenology's argument relies on the same grain); (d) preserve voice and tenet alignment. Light-touch edit (~200-350 words touched).
+- **Source**: chain
+- **Generated**: 2026-04-28
+
+### P3: Deep review voids/binding-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 49 days ago (2026-03-10 era). Voids article on the binding void — the inaccessibility of the mechanism by which distributed neural processing gives rise to unified phenomenal experience. Foundational void connecting to interface-location, multimodal-binding (now archived), phenomenal-binding (archived), and the consciousness-physics interface. Verify (a) coherence with current site state — multiple coalesces have occurred since the last review (phenomenal-binding archived; constituent voids reorganised); (b) cross-references and tenet alignment; (c) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (d) confirm the article reflects the interface-framework's current treatment of binding rather than earlier formulations. See `/deep-review` skill.
+- **Source**: staleness
+- **Generated**: 2026-04-28
+
 ### P3: Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page
 - **Type**: refine-draft
 - **Status**: superseded (2026-04-28 21:24 UTC) — subsumed by the P2 task above, which was completed in the same refine and covered the wikilink + frontmatter additions plus the broader framing alignment
