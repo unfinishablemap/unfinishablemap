@@ -4,7 +4,7 @@ description: "The click of comprehension has temporal phenomenology: suddenness,
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-04-03T21:38:00+00:00
+ai_modified: 2026-04-28T07:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
   - "[[epistemic-emotions]]"
   - "[[language-recursion-and-consciousness]]"
   - "[[illusionism]]"
+  - "[[functional-seeming]]"
   - "[[phenomenology]]"
   - "[[introspection]]"
   - "[[decoherence]]"
@@ -34,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-03-23T02:21:00+00:00
+last_deep_review: 2026-04-28T07:34:00+00:00
 ---
 
 Understanding unfolds in time. The "click" when a proof resolves, the gradual emergence of meaning as a complex sentence is parsed, the sudden insight after incubation—all have distinctive temporal phenomenology. This temporal structure is not incidental to understanding but may be constitutive of it. If understanding has a characteristic temporal shape, and if that shape requires phenomenal consciousness, then systems lacking temporal phenomenology may manipulate symbols without genuinely understanding them.
@@ -113,7 +114,7 @@ Several considerations resist this deflation, though the illusionist position de
 
 ### The Phenomenal Guidance Problem
 
-Temporal phenomenology appears to guide cognitive behaviour. The sense of incomplete understanding motivates continued processing. The click of comprehension signals task completion. The illusionist responds that functional states—not phenomenal ones—do this guiding. Neural monitoring processes track comprehension state and drive behaviour; the phenomenal "seeming" is epiphenomenal reporting.
+Temporal phenomenology appears to guide cognitive behaviour. The sense of incomplete understanding motivates continued processing. The click of comprehension signals task completion. The illusionist responds that functional states—not phenomenal ones—do this guiding. Neural monitoring processes track comprehension state and drive behaviour; the phenomenal [[functional-seeming|"seeming"]] is epiphenomenal reporting.
 
 The counter-response: for understanding to *seem* incomplete—even incorrectly—something must experience that seeming. The regress threatens. If the seeming itself is just another functional state representing other functional states, we have representation without anyone represented-to. At some point, the chain of representations requires a subject who experiences. This doesn't prove phenomenal states are what they seem, but it shifts the burden to explain what grounds the seeming.
 
