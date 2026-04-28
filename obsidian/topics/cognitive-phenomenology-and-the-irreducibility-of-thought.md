@@ -4,8 +4,8 @@ description: "If thinking itself has phenomenal character beyond sensory accompa
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-28T20:08:00+00:00
-last_deep_review: 2026-04-28T16:08:00+00:00
+ai_modified: 2026-04-28T21:00:00+00:00
+last_deep_review: 2026-04-28T21:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

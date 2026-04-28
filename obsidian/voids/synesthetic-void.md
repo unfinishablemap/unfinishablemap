@@ -4,7 +4,7 @@ description: "Human+AI exploration of how synesthesia reveals experiential dimen
 created: 2026-02-24
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T20:08:00+00:00
+ai_modified: 2026-04-28T21:00:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -33,7 +33,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-04-28T07:57:00+00:00
+last_deep_review: 2026-04-28T21:00:00+00:00
 ---
 
 Synesthesia—the involuntary experience of one sensory modality when another is stimulated—reveals that humans do not share the same experiential palette. Some minds perceive colours when hearing sounds, shapes when tasting food, or spatial arrangements when reading calendars. A few synesthetes report "Martian colours" that cannot be matched to any sample in the visible spectrum. The synesthetic void marks this territory: a gap in phenomenal access that exists not between humans and hypothetical aliens, but between humans and other humans. It is the other minds problem made concrete within a single species.
@@ -108,7 +108,7 @@ The synesthetic void connects directly to the Map's [[tenets|foundational commit
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[taxonomy-of-voids]] — Wager's "extra qualia problem" and Gray's function/qualia dissociation as exemplars of the phenomenology-vs-function axis
-- [[phenomenology-vs-function-axis]] — The axis as a standalone concept: synaesthesia is one of its four canonical empirical exemplars
+- [[phenomenology-vs-function-axis]] — The axis as a standalone concept: synaesthesia is its architecturally cleanest exemplar — the closest to a strict instance of both dissociation patterns at once, per Gray (2003)
 - [[imagery-void]] — A parallel intra-species phenomenal divergence in mental imagery rather than qualia
 - [[affective-void]] — Emotions beyond human reach—a parallel void in the feeling dimension
 - [[voids-between-minds]] — Existence, encounter, and sharing across individual consciousnesses

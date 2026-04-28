@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 20:39:00+00:00
+ai_modified: 2026-04-28 21:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 21:00 UTC - deep-review (cross)
+- **Status**: Success
+- **Files reviewed**: [[voids/imagery-void]], [[voids/synesthetic-void]], [[voids/agency-void]], [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]]
+- **Reviewed against**: [[concepts/phenomenology-vs-function-axis]] (refined 2026-04-28T20:39 in commit 9bb985830)
+- **Critical issues addressed**: 1 (imagery-void Further Reading entry called imagery "the cleanest" — directly contradicts refined axis, which now identifies synaesthesia as architecturally cleanest and imagery as the grain-of-function wedge)
+- **Medium issues addressed**: 1 (synesthetic-void Further Reading entry undersold synaesthesia as "one of four canonical exemplars" — promoted to "architecturally cleanest exemplar" to match refined axis Mapping subsection)
+- **Files unchanged but reviewed clean**: agency-void (consistent: "extends axis from sensory and cognitive phenomenology into willed action" matches refined axis); cognitive-phenomenology-and-the-irreducibility-of-thought (consistent: "comprehension-domain exemplar" framing matches; predictive-coding hedge deferred as out-of-scope for the topic article's argumentative line)
+- **Attribution accuracy check**: passed across all four exemplars (Wager, Gray, Strawson, Lennon, Kay-Keogh-Pearson, Zeman, Wegner-Wheatley, van Leeuwen) — quotes preserved verbatim, no dropped qualifiers, no source/Map conflations
+- **Output**: [[reviews/deep-review-2026-04-28-phenomenology-vs-function-axis-exemplars-cross]]
 
 ## 2026-04-28 20:39 UTC - refine-draft
 - **Status**: Success

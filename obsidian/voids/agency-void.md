@@ -4,8 +4,8 @@ description: "Consciousness cannot control most of its own states, and cannot ve
 created: 2026-02-25
 modified: 2026-04-27
 human_modified: null
-ai_modified: 2026-04-28T20:08:00+00:00
-last_deep_review: 2026-04-28T16:08:00+00:00
+ai_modified: 2026-04-28T21:00:00+00:00
+last_deep_review: 2026-04-28T21:00:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
