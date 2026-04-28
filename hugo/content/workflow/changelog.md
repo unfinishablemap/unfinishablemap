@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 12:00:00+00:00
+ai_modified: 2026-04-28 12:16:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 12:16 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section searched**: `voids/` (97/100, most pressured by cap)
+- **Families evaluated**: cognitive-closure family (biological/embodiment/formal/collective/self-maintained); affect family (affective/mood/valence/emotional-epistemology/noetic-feelings); attribution family (recognition/source-attribution/ownership); self-related (self-opacity/self-transcendence/witnessing); temporal (mutation/erasure/inaccessible-past/historical-consciousness); meta-conceptual (framework/categorial/conceptual-impossibility/conceptual-metabolism); existential (thrownness/transit)
+- **Finding**: Each pair examined was carefully differentiated, often with explicit "not the same as X" sections and load-bearing cross-references. The voids section already contains many successful coalesces ([biological-cognitive-closure](/voids/biological-cognitive-closure/), [formal-cognitive-limits](/voids/formal-cognitive-limits/), [disappearance-voids](/voids/disappearance-voids/), [ineffable-encounter-void](/voids/ineffable-encounter-void/), [inaccessible-past](/voids/inaccessible-past/), [transit-void](/voids/transit-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [source-attribution-void](/voids/source-attribution-void/)) and appears well-pruned. Forcing a merge would lose analytical precision the article-creators built deliberately.
+- **References to review**: none
 
 ## 2026-04-28 12:00 UTC - deep-review
 - **Status**: Success
