@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 Synesthesia reveals humans don't share the same experiential palette. Some perceive 'Martian colours' beyond the visible spectrum—an intra-species void where phenomenal language fails between minds of closely related neural architecture.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2049039818357661741  
 **Link**: [[synesthetic-void]]
 
 ---
