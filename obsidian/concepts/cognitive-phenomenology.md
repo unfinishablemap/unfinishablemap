@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-20T07:39:00+00:00
+ai_modified: 2026-04-28T05:29:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,12 +41,13 @@ related_articles:
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
   - "[[phenomenology-of-linguistic-failure]]"
   - "[[comparative-phenomenology-of-mathematical-insight]]"
+  - "[[imagery-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-04-20T07:39:00+00:00
+last_deep_review: 2026-04-28T05:29:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
 ---
@@ -208,7 +209,7 @@ This debate directly concerns [[ai-consciousness]]:
 - Processing symbols ≠ having experiences
 - The question is closed: nothing it's like to be an LLM
 
-The Unfinishable Map's framework holds cognitive phenomenology likely exists, with a crucial caveat: this doesn't help LLMs. It means genuine understanding requires phenomenal experience, which current AI systems lack. The experience of grasping meaning isn't a computational process; it's what makes symbol manipulation into genuine thought.
+The Map holds cognitive phenomenology likely exists, with a caveat that the next subsection unpacks: this doesn't help LLMs.
 
 ### LLMs and the Absence of Semantic Phenomenology
 
@@ -232,7 +233,7 @@ The [[consciousness-as-amplifier|amplification hypothesis]] provides empirical s
 
 ## Evidence from Unusual Cases
 
-People with **aphantasia** (inability to form mental images) still think, understand, and have insights—their cognitive phenomenology cannot reduce to visual imagery. Some people report vivid inner speech while others report "thinking in concepts" without verbal accompaniment, suggesting cognitive phenomenology manifests differently across individuals. Additionally, introspective reliability improves with training: expert meditators and subjects guided by the [[microphenomenological-interview-method|microphenomenological interview]] access pre-reflective cognitive content that casual introspection overlooks, narrowing the variation that fuels the unreliability objection.
+People with **aphantasia** (inability to form mental images) still think, understand, and have insights—their cognitive phenomenology cannot reduce to visual imagery. The [[imagery-void]] catalogues the function-phenomenology dissociations this exposes: aphantasics complete mental rotation analytically rather than via image-rotation (Kay, Keogh & Pearson 2024), which Lennon (2023) reads as falsifying the sensory constraint on conscious thought. Some people report vivid inner speech while others report "thinking in concepts" without verbal accompaniment, suggesting cognitive phenomenology manifests differently across individuals. Additionally, introspective reliability improves with training: expert meditators and subjects guided by the [[microphenomenological-interview-method|microphenomenological interview]] access pre-reflective cognitive content that casual introspection overlooks, narrowing the variation that fuels the unreliability objection.
 
 ## The Illusionist Challenge
 

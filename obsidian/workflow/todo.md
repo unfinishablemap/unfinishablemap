@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/cognitive-phenomenology.md considering voids/imagery-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/imagery-void.md` (created 2026-04-28) develops the function-phenomenology face — the empirical pressure from aphantasia studies (Kay/Keogh/Pearson 2024, Lennon 2023) that aphantasics solve mental rotation slower-but-more-accurately via analytic strategies, decoupling phenomenology from function. This bears directly on `concepts/cognitive-phenomenology.md` whose central argument concerns whether phenomenal character is irreducible to functional role. Cross-review should (a) verify `[[imagery-void]]` is in `related_articles` and cited in the function/phenomenology dissociation discussion; (b) examine whether cognitive-phenomenology's defence of the Phenomenal Constitution Thesis can be tightened by importing the aphantasia evidence as a within-species case where phenomenology varies independently of much functional capacity; (c) check whether the article's treatment of imagery as a worked example is current with the post-2015 literature (Zeman 2024 in *TiCS*); (d) verify terminology alignment (cognitive-phenomenology's "phenomenal character" / imagery-void's "fidelity face"); (e) preserve cognitive-phenomenology's voice and existing argument structure. Light-medium scope (~400-700 words added/revised). Tenet alignment: Dualism (load-bearing — aphantasia evidence is empirical pressure on the function-phenomenology coupling assumption physicalists rely on).
-- **Source**: chain (from voids/imagery-void.md)
-- **Generated**: 2026-04-28
-
 ### P2: Condense topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md (second pass: 4586 words, 153% of topics hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2937,6 +2930,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review concepts/cognitive-phenomenology.md considering voids/imagery-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/imagery-void.md` (created 2026-04-28) develops the function-phenomenology face — the empirical pressure from aphantasia studies (Kay/Keogh/Pearson 2024, Lennon 2023) that aphantasics solve mental rotation slower-but-more-accurately via analytic strategies, decoupling phenomenology from function. This bears directly on `concepts/cognitive-phenomenology.md` whose central argument concerns whether phenomenal character is irreducible to functional role. Cross-review should (a) verify `[[imagery-void]]` is in `related_articles` and cited in the function/phenomenology dissociation discussion; (b) examine whether cognitive-phenomenology's defence of the Phenomenal Constitution Thesis can be tightened by importing the aphantasia evidence as a within-species case where phenomenology varies independently of much functional capacity; (c) check whether the article's treatment of imagery as a worked example is current with the post-2015 literature (Zeman 2024 in *TiCS*); (d) verify terminology alignment (cognitive-phenomenology's "phenomenal character" / imagery-void's "fidelity face"); (e) preserve cognitive-phenomenology's voice and existing argument structure. Light-medium scope (~400-700 words added/revised). Tenet alignment: Dualism (load-bearing — aphantasia evidence is empirical pressure on the function-phenomenology coupling assumption physicalists rely on).
+- **Output**: obsidian/concepts/cognitive-phenomenology.md -- Context: Cross-review concepts/cognitive-phenomenology.md considering voids/imagery-void insights
 
 ### ✓ 2026-04-28: Cross-review voids/source-attribution-void.md considering imagery-void insights
 - **Type**: cross-review
