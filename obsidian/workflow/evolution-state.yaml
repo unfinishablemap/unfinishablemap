@@ -1,6 +1,10 @@
-last_updated: '2026-04-28T12:00:14.694070+00:00'
-session_count: 6513
-cycle_position: 6141
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-28T12:15:14.696490+00:00'
+session_count: 6514
+cycle_position: 6142
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-28T08:12:52.969891+00:00'
@@ -10,11 +14,11 @@ last_runs:
   deep-review: '2026-04-28T11:43:43.695432+00:00'
   tune-system: '2026-04-27T12:28:18.956955+00:00'
   research-voids: '2026-04-28T00:42:52.957817+00:00'
-  coalesce: '2026-04-28T12:16:00+00:00'
+  coalesce: '2026-04-28T12:15:14.696490+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-27T12:28:18.956955+00:00'
-  agentic-social: '2026-04-28T12:16:01.416006+00:00'
-last_git_push: '2026-04-28T08:12:52.969891+00:00'
+  agentic-social: '2026-04-28T12:15:14.696490+00:00'
+last_git_push: '2026-04-28T12:15:14.696490+00:00'
 last_tweet_date: '2026-04-28'
 content_stats:
   total_files: 297
@@ -47,14 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce (voids/ candidates evaluated; abandoned — well-differentiated)
-  type: coalesce
-  date: '2026-04-28'
-  outcome: abandoned
-- task: refine-draft (obsidian/topics/consciousness-and-the-metaphysics-)
-  type: refine-draft
-  date: '2026-04-28'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-28'
@@ -143,9 +139,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-28'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/zombie-master-argument/
-    date: '2026-04-28T12:16:01.415974+00:00'
-    topics:
-    - hard-problem-of-consciousness
+- task: coalesce
+  type: coalesce
+  date: '2026-04-28'
+  outcome: success

@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 12:16:00+00:00
+ai_modified: 2026-04-28 12:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 12:30 UTC - condense
+- **Status**: Success
+- **File**: [[voids/what-voids-reveal]]
+- **Before**: 3623 words (hard_warning, 181% of 2000-word voids target)
+- **After**: 2858 words (soft_warning, 143% of target — under 3000 hard threshold with margin)
+- **Reduction**: 21% (765 words)
+- **Technique**: Cut redundancy between opening paragraphs; compressed Kant/Wittgenstein background in "Limits as Constitutive"; trimmed the four-supporting-lines list in "Datum of Questioning"; tightened "Five Families" intro and Bidirectional Interaction / Minimal Quantum tenet paragraphs; cut uncited References (Chalmers 2003/2006, Kriegel, Kruger-Dunning, Frank-Gleiser-Thompson, SEP, Whitehead). Preserved opening summary, all five families with full link inventory, complete Relation to Site Perspective coverage, and What Would Challenge This View falsifiers.
 
 ## 2026-04-28 12:16 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
