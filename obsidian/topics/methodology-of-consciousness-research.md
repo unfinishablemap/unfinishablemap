@@ -2,9 +2,9 @@
 title: "The Methodology of Consciousness Research"
 description: "Science achieved its power by excluding subjectivity. Consciousness demands rethinking the method—first-person, third-person, and second-person approaches each reveal different aspects, and their persistent gap may reflect ontological difference."
 created: 2026-01-23
-modified: 2026-04-26
+modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-26T15:52:00+00:00
+ai_modified: 2026-04-28T00:02:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -46,12 +46,13 @@ related_articles:
   - "[[the-subject-object-distinction-as-philosophical-discovery]]"
   - "[[question-formation-void]]"
   - "[[eliminative-materialism]]"
+  - "[[conjunction-coalesce]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-20
 last_curated:
-last_deep_review: 2026-04-26T15:52:00+00:00
+last_deep_review: 2026-04-28T00:02:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-scientific-methodology/"
   - "/topics/first-person-third-person-methodology/"
@@ -63,7 +64,7 @@ Modern science has a structural problem with consciousness — not a temporary g
 
 Galileo's distinction between primary and secondary qualities set the template. Primary qualities — shape, size, motion, number — belong to objects themselves and can be mathematically described. Secondary qualities — colour, taste, smell, warmth — exist only in the experiencing subject and were deliberately set aside as scientifically irrelevant.
 
-By restricting its domain to what could be quantified independently of any particular observer, physics became spectacularly successful. Chemistry, biology, and eventually neuroscience followed the same template: describe the world in third-person, observer-independent terms.
+By restricting its domain to observer-independent quantities, physics became spectacularly successful. Chemistry, biology, and neuroscience followed the same template: describe the world in third-person terms.
 
 But the exclusion created an asymmetry. The subjective qualities Galileo set aside — the redness of red, the painfulness of pain — are precisely what consciousness researchers now need to explain. These [[qualia]] are the hard case. As Evan Thompson argues in *Mind in Life* (2007), modern science inherited from Galileo the assumption that mathematical-physical description exhausts what is objectively real. The [[hard-problem-of-consciousness|hard problem of consciousness]] is, in this light, partly an artefact of a methodological choice made in the seventeenth century.
 
@@ -87,7 +88,7 @@ The constraint also runs upstream of measurement. Which *questions* the apparatu
 
 ## Three Methodological Approaches
 
-Several proposals address this structural mismatch. Each acknowledges the problem at different depths — and one denies it entirely.
+Several proposals address this structural mismatch at different depths; one denies it entirely.
 
 ### Heterophenomenology: The Third-Person-Only Approach
 
@@ -149,7 +150,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: Neurophenomenology's mutual constraint framework exemplifies bidirectional interaction. Phenomenology constrains which neuroscientific theories are adequate; neuroscience guides phenomenological investigation. If consciousness is causally efficacious, then studying the brain without accounting for consciousness as a causal factor studies an incomplete system. An adequate methodology must treat consciousness not merely as output to be explained but as input that shapes outcomes.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The apparent simplicity of materialist accounts — everything is physical, no new categories needed — is achieved by ignoring the methodological evidence that consciousness resists physical description. Simplicity purchased by excluding the phenomenon you are trying to explain is not genuine parsimony. When [[duhem-quine-underdetermination-consciousness|underdetermination]] is genuine, parsimony alone cannot adjudicate. Introspection's difficulties might reflect cognitive closure rather than phenomenology's non-existence. Epistemic limits do not determine ontological facts.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]**: The apparent simplicity of materialist accounts — everything is physical, no new categories needed — is achieved by ignoring the methodological evidence that consciousness resists physical description. Simplicity purchased by excluding the phenomenon you are trying to explain is not genuine parsimony. When [[duhem-quine-underdetermination-consciousness|underdetermination]] is genuine, parsimony alone cannot adjudicate. The Map's [[conjunction-coalesce]] discipline expresses this caution at editorial level: when two treatments resist reduction, the seam between them may itself carry information that premature unification would discard. Introspection's difficulties might reflect cognitive closure rather than phenomenology's non-existence. Epistemic limits do not determine ontological facts.
 
 ## Further Reading
 
@@ -174,6 +175,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 - [[phenomenology-of-creative-insight]] — The irreducibly phenomenal character of scientific practice itself
 - [[the-subject-object-distinction-as-philosophical-discovery]] — The philosophical grounding of the methodological divide
 - [[question-formation-void]] — The upstream constraint on which methodological questions the apparatus can pose at all
+- [[conjunction-coalesce]] — Editorial expression of the same Occam's-limits caution
 
 ## References
 

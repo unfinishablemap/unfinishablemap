@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/methodology-of-consciousness-research.md against apex/conjunction-coalesce.md
-- **Type**: cross-review
-- **Notes**: New apex article `apex/conjunction-coalesce.md` (created 2026-04-27 17:28 UTC; refined twice; final ~3160 words) names the Map's editorial methodology of preserving conjunction-coalesce articles where the seam between two source articles encodes a structural claim. `topics/methodology-of-consciousness-research.md` (last deep-reviewed 2026-04-26 15:52 UTC) is the Map's home for explicit treatment of methodological discipline but contains zero references to conjunction-coalesce or the seam test. Cross-review should (a) install reciprocal cross-links between the two articles, (b) integrate conjunction-coalesce as the editorial-methodology counterpart to the article's existing treatment of inquiry-methodology, (c) preserve voice and tenet alignment, (d) check whether the article's Galilean-exclusion treatment (mentioned in the queued P3 cross-link task at line 200) can be sharpened against conjunction-coalesce's seam test — both name what should *not* be merged into a single mechanism. Short scope (~300-500 words added). Tenet alignment: Occam's Razor Has Limits (parsimony at the curation level).
-- **Source**: chain (from apex/conjunction-coalesce.md)
-- **Generated**: 2026-04-27
-
 ### P2: Cross-review concepts/spontaneous-collapse-theories.md against V-N-W refine
 - **Type**: cross-review
 - **Notes**: Today's V-N-W refine (`concepts/von-neumann-wigner-interpretation.md`, 2026-04-27 20:29 UTC) explicitly installed at the front of §Relation to Site Perspective: "The Map's position is that objective-collapse mechanisms (e.g., GRW-style spontaneous reduction) produce baseline collapse throughout the universe whether or not anyone is conscious, and consciousness modulates statistics within those collapse events under Minimal Quantum Interaction limits." This makes `concepts/spontaneous-collapse-theories.md` (last deep-reviewed 2026-04-15 — pre V-N-W refine) the substrate article for the Map's now-explicit "objective-collapse-plus-modulation" framing. Cross-review should (a) install reciprocal cross-link to V-N-W's new §Relation to Site Perspective opening, (b) verify the article's GRW/CSL/Penrose-OR treatment is consistent with the modulation-not-causation framing, (c) flag and reword any passages that previously implied consciousness *causes* collapse rather than *modulates* an already-collapsing system, (d) preserve the article's existing structure. Short scope (~200-400 words updated). Tenet alignment: Minimal Quantum Interaction.
@@ -2918,6 +2912,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review topics/methodology-of-consciousness-research.md against apex/conjunction-coalesce.md
+- **Type**: cross-review
+- **Notes**: New apex article `apex/conjunction-coalesce.md` (created 2026-04-27 17:28 UTC; refined twice; final ~3160 words) names the Map's editorial methodology of preserving conjunction-coalesce articles where the seam between two source articles encodes a structural claim. `topics/methodology-of-consciousness-research.md` (last deep-reviewed 2026-04-26 15:52 UTC) is the Map's home for explicit treatment of methodological discipline but contains zero references to conjunction-coalesce or the seam test. Cross-review should (a) install reciprocal cross-links between the two articles, (b) integrate conjunction-coalesce as the editorial-methodology counterpart to the article's existing treatment of inquiry-methodology, (c) preserve voice and tenet alignment, (d) check whether the article's Galilean-exclusion treatment (mentioned in the queued P3 cross-link task at line 200) can be sharpened against conjunction-coalesce's seam test — both name what should *not* be merged into a single mechanism. Short scope (~300-500 words added). Tenet alignment: Occam's Razor Has Limits (parsimony at the curation level).
+- **Output**: obsidian/topics/methodology-of-consciousness-research.md -- Context: Cross-review topics/methodology-of-consciousness-research.md against apex/conjunction-coalesce.md
 
 ### ✓ 2026-04-27: Install worked seam-test failure case in apex/conjunction-coalesce.md
 - **Type**: refine-draft
