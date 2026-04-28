@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 06:48:00+00:00
+ai_modified: 2026-04-28 06:58:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 06:58 UTC - refine-draft
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
+- **Context**: pessimistic-2026-04-28 Counterargument 3 ("What does the cross-product really buy you over a single-axis treatment?"). Earlier 02:29 UTC refine and 05:42 UTC condense addressed Issues 1–6 but left this counterargument unanswered. Path (a) chosen: identify one Map-relevant conclusion that requires the cross-product, rather than restructure the article.
+- **Changes**: Added forward-reference clause to introduction flagging the cross-product as load-bearing for the interface model. Inserted four new paragraphs at start of §"Dispositions, Consciousness, and the Interface" arguing that psychophysical laws as "local prescriptions at sites of neural quantum indeterminacy" require both axes simultaneously: pure dispositional essentialism fails on the zombie-disanalogy fundamentality denial; pure governing-laws-with-categoricalism reintroduces the epiphenomenalist gap by leaving the law without a property-side anchor; the combination supplies nomic necessity (governing) and phenomenal causation (powerful qualities). Acknowledged that secondary points (legislation problem, Humean shallowness) would be reachable single-axis, isolating the cross-product's specific structural payload.
+- **Word count**: ~3616 → ~3960 (+344 words; small targeted addition, well under condense threshold)
+- **Output**: Updated article + AI refinement log appended
 
 ## 2026-04-28 06:48 UTC - check-tenets
 - **Status**: Success

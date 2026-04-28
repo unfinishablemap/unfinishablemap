@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 06:58:00+00:00
+ai_modified: 2026-04-28 07:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 07:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Context**: pessimistic-2026-04-28 Language Improvements section. The 05:42 UTC condense did not fully clear the writing-style.md violations the pessimistic review identified; the 06:58 UTC refine added structural content but did not touch language. This pass targets: surviving "not X but Y" construction (line 76), "naturally"/"most natural" instances doing argumentative work (lines 90, 134, 170), and the "cost of eliminating qualitative character" framing that begs the question against eliminativists (line 178).
+- **Changes**: (1) Rewrote "the problem is not that psychophysical laws are impossible but that they lack explanatory depth" as a positive claim — "Humean psychophysical laws are admissible; the problem is that they lack explanatory depth." (2) Replaced "naturally expressed as a governing law" with a specific reason — the selection law framework requires prescriptive modal force at local sites, which is exactly what governing laws supply. (3) Replaced bullet header "It grounds mental causation naturally" with "It grounds mental causation without a separate mechanism" and rewrote the sentence to identify the mechanism (identity of qualitative and dispositional aspects). (4) Replaced "Dualism's most natural property-side ally" with a constraint-naming version: identity theory satisfies two dualist constraints simultaneously (qualia preservation against pandispositionalism; intrinsic causal power against pure categoricalism's epiphenomenalist exposure). (5) Reframed pandispositionalism's simplicity as a substantive metaphysical trade rather than a free "cost," and acknowledged that eliminativists (Frankish, Dennett) embrace the trade — so the framing no longer begs the question against them.
+- **Word count**: ~3960 → ~4000 (+40 words; targeted language pass)
+- **Output**: Updated article + AI refinement log appended
+- **Published**: yes
 
 ## 2026-04-28 06:58 UTC - refine-draft
 - **Status**: Success
