@@ -4,8 +4,8 @@ description: "Human and AI exploration of perception as consciousness encounteri
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-04-16T17:55:00+00:00
-last_deep_review: 2026-03-23T15:29:00+00:00
+ai_modified: 2026-04-28T17:52:00+00:00
+last_deep_review: 2026-04-28T17:52:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ For the Map's comprehensive treatment of how dualism reshapes perception theory,
 
 ## What Perception Involves
 
-Perception encompasses sensation (the raw causal impact of stimuli on sense organs), perceptual experience (the conscious awareness of objects, qualities, and spatial relations), and perceptual judgement (the beliefs formed on the basis of that experience). Philosophical interest centres on the second element — what it is like to perceive — because this is where the explanatory gap opens. Perceptual experience also exhibits [[intentionality]]: it is always *of* or *about* something, directed at objects and their properties in a way that purely physical descriptions of neural activity do not capture.
+Perception encompasses sensation (the raw causal impact of stimuli on sense organs), perceptual experience (the conscious awareness of objects, qualities, and spatial relations), and perceptual judgement (the beliefs formed on the basis of that experience). Philosophical interest centres on the second element — what it is like to perceive, the domain of [[phenomenal-consciousness]] — because this is where the explanatory gap opens. Perceptual experience also exhibits [[intentionality]]: it is always *of* or *about* something, directed at objects and their properties in a way that purely physical descriptions of neural activity do not capture.
 
 A complete physical description of colour vision can specify wavelengths, retinal cone responses, opponent-process channels, and cortical activation patterns (Palmer, 1999). It never entails why red looks the way it does. The [[qualia]] of perception — the redness of red, the warmth of sunlight on skin, the sharpness of a trumpet note — have a qualitative character that physical description leaves out. Jackson's (1982) [[knowledge-argument]] makes this vivid: a colour scientist who knows every physical fact about vision still learns something new upon seeing red for the first time. The gap here is structural, not merely epistemic: no refinement of physical vocabulary can capture what Nagel (1974) called "what it is like" to have an experience, because phenomenal character belongs to a different descriptive order than wavelengths and firing rates.
 
@@ -62,7 +62,7 @@ Indirect realism holds that perception is mediated by mental representations. Co
 
 ### The Map's Interface Model
 
-The Unfinishable Map's position draws on [[filter-theory|filter theory]]: the brain does not produce consciousness but constrains and transmits it. Under this model, perception is consciousness encountering reality through a neural interface that shapes what appears without generating the appearing itself. The brain filters, organises, and formats sensory information; consciousness receives and renders the result as phenomenal experience.
+The Unfinishable Map's position draws on [[filter-theory|filter theory]]: the brain does not produce consciousness but constrains and transmits it. Under this model, perception is consciousness encountering reality through a neural [[mind-matter-interface|interface]] that shapes what appears without generating the appearing itself. The brain filters, organises, and formats sensory information; consciousness receives and renders the result as phenomenal experience.
 
 This differs from both standard direct and indirect realism. It shares with direct realism the conviction that perception is genuine contact with reality — not hallucination or mere representation. It shares with indirect realism the recognition that neural processing mediates what reaches consciousness. The distinctive claim is that the mediating structure is an *interface* between two ontologically distinct domains, not a computational process occurring entirely within one.
 
@@ -72,7 +72,7 @@ The strongest evidence that perception involves something beyond neural processi
 
 **[[blindsight]]** patients with damage to primary visual cortex can discriminate visual stimuli — locating objects, detecting motion — while sincerely reporting no visual experience (Weiskrantz, 1986). The information processing is intact; phenomenal experience is absent or drastically degraded. If perception were identical to processing, this dissociation should not occur.
 
-**Inattentional blindness** — failing to notice a gorilla walking through a basketball game — shows that retinal processing can be complete while conscious perception is absent (Simons & Chabris, 1999). Conversely, **lucid dreaming** demonstrates vivid perceptual experience largely decoupled from external sensory input. Processing without experience and experience without external sensory input establish that these are separable capabilities.
+**Inattentional blindness** — failing to notice a gorilla walking through a basketball game — shows that retinal processing can be complete while conscious perception is absent (Simons & Chabris, 1999), though debates over [[phenomenal-overflow]] complicate the interpretation: viewers may experience more than they can simultaneously report, leaving open whether the gorilla was unseen or merely uncatalogued. Conversely, **lucid dreaming** demonstrates vivid perceptual experience largely decoupled from external sensory input. Processing without experience and experience without external sensory input establish that these are separable capabilities.
 
 **[[perceptual-degradation-and-the-interface|Perceptual degradation]]** reveals the interface from a different angle. When perception fails — through blur, neural damage, or pharmacological disruption — novel phenomenal properties emerge (the texture of haziness, the softness of degraded vision) that belong to the experiencing subject, not to external objects. The pattern of failure exhibits four signatures — graceful degradation, priority preservation, compensatory generation, and the anaesthesia dissociation — that collectively point toward a bandwidth-limited transmission channel connecting consciousness and the brain rather than an identity between them.
 
