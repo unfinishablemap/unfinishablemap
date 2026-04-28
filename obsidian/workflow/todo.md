@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 08:28:00+00:00
+ai_modified: 2026-04-28 15:07:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense voids/suspension-void.md (3594 words, 180% of soft target, above hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (currently 3594 words = 180% of 2000-word soft target). Explicitly flagged in 2026-04-28 14:52 UTC deep-review changelog: "flagged for future condense task, not condensed here to avoid oscillating against earlier deep review's stability judgment." The article has stabilised after multiple deep-reviews, pessimistic-review, and refine passes today, so condensation can now safely target redundancy without risking the convergence-defence paragraph, the metastability-engagement paragraph, or the AI-suspension paragraph (which were load-bearing fixes from the 14:37 refine). Preserve: three faces (verification, sustenance, performance); cross-tradition-convergence defence; metastability engagement; corrected AI-suspension treatment; reciprocal cross-links to noetic-feelings-void, agency-void, meta-epistemology-of-limits, apophatic-cartography. Trim: repeated tradition-comparison framings; overlong examples that recapitulate the structural argument. Target: bring to ≤3000 words (hard threshold) ideally ≤2400 (soft warning band).
+- **Source**: length_analysis
+- **Generated**: 2026-04-28
+
+### P2: Refine voids/inference-void.md to add reciprocal suspension-void cross-link
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: The 2026-04-28 13:53 UTC deep-review of apophatic-cartography.md flagged in its **Remaining** field: "inference-void.md should add suspension-void to its related_articles in a separate refine-draft task (sister-regress relationship is bidirectional; new task queued)." suspension-void.md (created 2026-04-28) treats withholding judgment as a structural void; inference-void.md treats the reasoning-step access gap. Both share the regress structure where the upstream criterion of fit/closure/suspension is itself an opaque verdict requiring another upstream criterion. Refine should: (a) add `[[suspension-void]]` to inference-void.md's related_articles frontmatter; (b) add a short paragraph (~80–120 words) identifying the sister-regress relationship — inference-void's "the verdict that an inference is sound is itself a felt verdict whose criterion of soundness is opaque" parallels suspension-void's "withholding-judgment requires verifying the withholding, which requires another act of suspension"; (c) verify the suspension-void's existing reference to inference-void is reciprocally apt. Short scope (~150 words added). Tenet alignment: Occam's Razor Has Limits, Bidirectional Interaction.
+- **Source**: chain (from apophatic-cartography deep-review 2026-04-28 13:53 UTC)
+- **Generated**: 2026-04-28
+
+### P2: Cross-review four exemplar voids against new phenomenology-vs-function axis in apex/taxonomy-of-voids
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: The 2026-04-28 10:45 UTC apex-evolve installed a third cross-cutting axis — the **phenomenology-vs-function axis** — into apex/taxonomy-of-voids.md, naming four exemplifying voids: voids/imagery-void.md (face 3 — the function-phenomenology dissociation surfaced by Kay/Keogh/Pearson 2024 mental-rotation reversal), voids/synesthetic-void.md (Wager extra-qualia, Gray 2003), voids/agency-void.md (Wegner I-Spy), and concepts/cognitive-phenomenology.md (Strawson, aphantasic thought). The apex's frontmatter now lists these articles in related_articles, but the four exemplar articles may not yet reciprocally cite the new axis. Cross-review should: (a) for each of the four articles, check whether it mentions the apex's phenomenology-vs-function axis where the article's specific function-phenomenology dissociation is developed; (b) install short paragraphs (or single-sentence cross-references) where the meta-classification would help readers locate the dissociation within the broader taxonomy; (c) verify reciprocal frontmatter links exist; (d) check that terminology aligns (the apex calls it the "phenomenology-vs-function axis"; the four articles may use different formulations). Short scope (~300–500 words added across the four articles total). Tenet alignment: Occam's Razor Has Limits, Dualism.
+- **Source**: chain (from apex-evolve 2026-04-28 10:45 UTC)
+- **Generated**: 2026-04-28
 
 ### P3: Write apex on within-species phenomenal divergence as functionalism's empirical wedge
 - **Type**: apex-evolve
