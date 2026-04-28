@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 01:31:00+00:00
+ai_modified: 2026-04-28 01:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 01:43 UTC - refine-draft
+- **Status**: Success (no-op verification)
+- **File**: wikilink cleanup post-coalesce — `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions`
+- **Trigger**: P1 task chained from coalesce 2026-04-28 00:13 UTC. Task asserted 35 active files retained wikilinks to the archived source slugs `consciousness-and-the-metaphysics-of-laws` and `consciousness-and-the-ontology-of-dispositions` and required them to be redirected to the unified article.
+- **Verification**: Re-ran enumeration with the precise pattern `consciousness-and-the-metaphysics-of-laws($|[^a-z-])` (and the analogous pattern for dispositions) across `obsidian/topics/`, `obsidian/concepts/`, `obsidian/apex/`, `obsidian/voids/`, `obsidian/research/`, `obsidian/tenets/`. Zero stale wikilinks remain.
+- **Root cause of false alarm**: The task's enumeration command used `\b` as the right-hand boundary, which matches the position between `laws` and `-and-dispositions` in the new unified slug. Every "inbound reference" the task listed (e.g., in `topics/the-epiphenomenalist-threat.md`, `concepts/causal-powers.md`, `concepts/russellian-monism.md`) already pointed to the unified article — the coalesce skill had updated them in the same operation.
+- **Remaining old-slug occurrences (intentional, out of scope)**: `coalesced_from` redirect aliases on the new article (URL preservation); `obsidian/reviews/*` (historical record); `obsidian/workflow/changelog.md` (historical record).
+- **Changes**: None to article content. Marked the P1 task `done` in `obsidian/workflow/todo.md` with the verification note and root-cause explanation.
+- **Published**: no (no content modified)
 
 ## 2026-04-28 01:31 UTC - deep-review
 - **Status**: Success

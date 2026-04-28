@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Update wikilinks pointing to coalesced laws/dispositions articles
-- **Type**: refine-draft
-- **Notes**: Coalesce on 2026-04-28 00:13 UTC merged `topics/consciousness-and-the-metaphysics-of-laws.md` and `topics/consciousness-and-the-ontology-of-dispositions.md` into the new `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md`. Sources are now archived. 35 active obsidian files contain wikilinks to the old slugs that should be updated to point to the new unified article. Confirmed inbound references in: `topics/the-epiphenomenalist-threat.md`, `topics/russellian-monism-versus-bi-aspectual-dualism.md`, `topics/consciousness-and-the-authority-of-formal-systems.md`, `topics/consciousness-and-causal-powers.md`, `concepts/knowledge-argument.md`, `concepts/explanatory-gap.md`, `concepts/causal-powers.md` and others. Run `grep -rl "consciousness-and-the-metaphysics-of-laws\b\|consciousness-and-the-ontology-of-dispositions" obsidian/ | grep -v archive` to enumerate. Archive redirects preserve URLs but active cross-references should point to the unified article. Reviews and workflow archives can be left as-is.
-- **Source**: chain (from coalesce 2026-04-28)
-- **Generated**: 2026-04-28
-
 ### P1: Condense consciousness-and-the-metaphysics-of-laws-and-dispositions.md (4937 words, 165% of target)
 - **Type**: condense
 - **Notes**: Newly-coalesced article (2026-04-28 00:13 UTC) inherits combined length of two source articles and exceeds the 4000-word hard threshold for `topics/` (165% of the 3000-word target). Condense should preserve both core arguments — the laws strand (Humean regularity vs governing-laws debate, where consciousness fits) and the dispositions strand (categorical vs powers ontology, mental causation under each) — while removing redundancy that surfaced during the merge: overlapping framing of nomological vs powers metaphysics, repeated examples between sections, and any duplicated tenet-alignment passages. Cross-link to `concepts/causal-powers.md`, `concepts/mental-causation.md`, and `topics/consciousness-and-causal-powers.md` to defer detail. Target post-condense length: 3000-3500 words. See `/condense` skill.
@@ -2918,6 +2912,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Update wikilinks pointing to coalesced laws/dispositions articles
+- **Type**: refine-draft
+- **Notes**: Coalesce on 2026-04-28 00:13 UTC merged `topics/consciousness-and-the-metaphysics-of-laws.md` and `topics/consciousness-and-the-ontology-of-dispositions.md` into the new `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md`. Sources are now archived. 35 active obsidian files contain wikilinks to the old slugs that should be updated to point to the new unified article. Confirmed inbound references in: `topics/the-epiphenomenalist-threat.md`, `topics/russellian-monism-versus-bi-aspectual-dualism.md`, `topics/consciousness-and-the-authority-of-formal-systems.md`, `topics/consciousness-and-causal-powers.md`, `concepts/knowledge-argument.md`, `concepts/explanatory-gap.md`, `concepts/causal-powers.md` and others. Run `grep -rl "consciousness-and-the-metaphysics-of-laws\b\|consciousness-and-the-ontology-of-dispositions" obsidian/ | grep -v archive` to enumerate. Archive redirects preserve URLs but active cross-references should point to the unified article. Reviews and workflow archives can be left as-is.
+- **Output**: Task context:
+Coalesce on 2026-04-28 00:13 UTC merged `topics/consciousness-and-the-metaphysics-of-laws.md` and `topics/consciousness-and-the-ontology-of-dispositions.md` into the new `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md`. Sources are now archived. 35 active obsidian files contain wikilinks to the old slugs that should be updated to point to the new unified article. Confirmed inbound references in: `topics/the-epiphenomenalist-threat.md`, `topics/russellian-monism-versus-bi-aspectual-dualism.md`, `topics/consciousness-and-the-authority-of-formal-systems.md`, `topics/consciousness-and-causal-powers.md`, `concepts/knowledge-argument.md`, `concepts/explanatory-gap.md`, `concepts/causal-powers.md` and others. Run `grep -rl "consciousness-and-the-metaphysics-of-laws\b\|consciousness-and-the-ontology-of-dispositions" obsidian/ | grep -v archive` to enumerate. Archive redirects preserve URLs but active cross-references should point to the unified article. Reviews and workflow archives can be left as-is.
 
 ### ✓ 2026-04-28: Cross-review concepts/methodological-pluralism.md against apex/conjunction-coalesce.md
 - **Type**: cross-review
