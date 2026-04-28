@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/inaccessible-past.md (3023 words, 101% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3000-word hard threshold for voids/ (current: 3023 words, 151% of 2000-word soft target). Within voids/ section the article has been the receiving end of multiple cross-review additions (most recently the 2026-04-20 erasure-void cross-review and earlier integrations from temporal-asymmetry, transit-void, narrative-void families). Condense should preserve the core thesis (the past is structurally inaccessible to direct phenomenal contact; remembering reconstructs from present-time traces rather than retrieves), the load-bearing empirical anchors (Loftus reconstructive memory, Schacter's seven sins, Tulving's autonoetic-noetic distinction), and tenet alignments. Trim by (a) collapsing redundant exemplification across the temporal-asymmetry and reconstructive-memory paragraphs, (b) deferring detailed treatment of adjacent voids (transit-void, erasure-void, narrative-void) to their own articles via wikilink rather than re-establishment, (c) compressing the historiographical asides on Bergson/Husserl that re-establish points already made in `concepts/temporal-phenomenology.md` and `concepts/phenomenology-of-time-consciousness.md`. Target ~2400-2600 words (within soft band). See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-28
-
 ### P2: Cross-review concepts/qualia.md considering phenomenology-vs-function-axis insights
 - **Type**: cross-review
 - **Notes**: Chain from today's `expand-topic` completion (2026-04-28 19:18 UTC) creating `concepts/phenomenology-vs-function-axis.md`. The axis is a third taxonomic dimension (orthogonal to the four-kinds typology and presence/absence axis) sorting voids by the dissociation of phenomenal character from cognitive function. `concepts/qualia.md` is the foundational concept for phenomenal character itself but does not currently link to the new axis (grep returns 0 hits). The axis provides a structural argument for qualia's irreducibility — every dissociation between phenomenology and function is evidence that the axis is real and that phenomenal character cannot be exhausted by functional description. Cross-review should (a) add `[[phenomenology-vs-function-axis]]` to qualia's `related_articles` frontmatter and to a paragraph in the section on the absent-qualia / inverted-qualia debate; (b) install a short pointer paragraph framing the axis as the empirical complement to the conceivability arguments — the axis catalogues actual dissociations rather than merely conceivable ones; (c) verify that qualia's existing framing remains consistent with the axis's structural commitments (the axis fixes function at the task level; qualia should match this grain commitment or explicitly diverge); (d) preserve qualia's voice and tenet alignment (Dualism). Light-touch edit (~150-300 words touched).
@@ -3046,6 +3039,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Condense voids/inaccessible-past.md (3023 words, 101% of hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word hard threshold for voids/ (current: 3023 words, 151% of 2000-word soft target). Within voids/ section the article has been the receiving end of multiple cross-review additions (most recently the 2026-04-20 erasure-void cross-review and earlier integrations from temporal-asymmetry, transit-void, narrative-void families). Condense should preserve the core thesis (the past is structurally inaccessible to direct phenomenal contact; remembering reconstructs from present-time traces rather than retrieves), the load-bearing empirical anchors (Loftus reconstructive memory, Schacter's seven sins, Tulving's autonoetic-noetic distinction), and tenet alignments. Trim by (a) collapsing redundant exemplification across the temporal-asymmetry and reconstructive-memory paragraphs, (b) deferring detailed treatment of adjacent voids (transit-void, erasure-void, narrative-void) to their own articles via wikilink rather than re-establishment, (c) compressing the historiographical asides on Bergson/Husserl that re-establish points already made in `concepts/temporal-phenomenology.md` and `concepts/phenomenology-of-time-consciousness.md`. Target ~2400-2600 words (within soft band). See `/condense` skill.
+- **Output**: obsidian/voids/inaccessible-past.md
 
 ### ✓ 2026-04-28: Refine six medium-priority voids articles to cross-link the MWI branch-relative indexicality reply
 - **Type**: refine-draft

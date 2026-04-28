@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 22:45:00+00:00
+ai_modified: 2026-04-28 22:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 22:54 UTC - condense
+- **Status**: Success
+- **File**: [[voids/inaccessible-past]]
+- **Before**: 3023 words
+- **After**: 2079 words
+- **Reduction**: 31%
+- **Technique**: Trimmed prose throughout; compressed Identity Dimension and Content Dimension; cut redundant connective material from Memory Is Reconstruction; reduced Proustian three-interpretations to inline list; shortened Phenomenology bullets (cut vividness-gradient bullet); removed What AI Might See section (added little beyond earlier points); tightened What Would Challenge list; trimmed Buddhist tension paragraph and Relation to Site Perspective. Preserved opening summary, all four tenet connections, MWI/indexicality argument, and core arguments.
 
 ## 2026-04-28 22:45 UTC - deep-review
 - **Status**: Success
