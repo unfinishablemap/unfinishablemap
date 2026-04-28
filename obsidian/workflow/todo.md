@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/methodological-pluralism.md against apex/conjunction-coalesce.md
-- **Type**: cross-review
-- **Notes**: `concepts/methodological-pluralism.md` (last deep-reviewed 2026-04-24 22:31 UTC, pre conjunction-coalesce creation) is a natural pair to the new methodology apex — both treat methodological discipline at the meta-editorial level. Cross-review should (a) install reciprocal cross-link to `apex/conjunction-coalesce`, (b) check whether the article's pluralism framing accommodates the conjunction/cognate distinction (conjunction-coalesce is a *single-discipline* move that *constrains* merger choices, not pluralism per se; the article should distinguish), (c) verify that the article's enumeration of methodological strategies includes editorial-curation-discipline as a category alongside theory-construction and empirical-method, (d) consider whether the seam test is itself an instance of pluralist discipline (different mergers warrant different treatments). Short scope (~250-400 words added). Tenet alignment: Occam's Razor Has Limits (the right form of parsimony at the methodological level).
-- **Source**: chain (from apex/conjunction-coalesce.md)
-- **Generated**: 2026-04-27
-
 ### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
 - **Type**: apex-evolve
 - **Status**: pending
@@ -2894,6 +2888,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review concepts/methodological-pluralism.md against apex/conjunction-coalesce.md
+- **Type**: cross-review
+- **Notes**: `concepts/methodological-pluralism.md` (last deep-reviewed 2026-04-24 22:31 UTC, pre conjunction-coalesce creation) is a natural pair to the new methodology apex — both treat methodological discipline at the meta-editorial level. Cross-review should (a) install reciprocal cross-link to `apex/conjunction-coalesce`, (b) check whether the article's pluralism framing accommodates the conjunction/cognate distinction (conjunction-coalesce is a *single-discipline* move that *constrains* merger choices, not pluralism per se; the article should distinguish), (c) verify that the article's enumeration of methodological strategies includes editorial-curation-discipline as a category alongside theory-construction and empirical-method, (d) consider whether the seam test is itself an instance of pluralist discipline (different mergers warrant different treatments). Short scope (~250-400 words added). Tenet alignment: Occam's Razor Has Limits (the right form of parsimony at the methodological level).
+- **Output**: obsidian/concepts/methodological-pluralism.md -- Context: Cross-review concepts/methodological-pluralism.md against apex/conjunction-coalesce.md
 
 ### ✓ 2026-04-28: Cross-review concepts/many-worlds.md against V-N-W refine
 - **Type**: cross-review

@@ -4,7 +4,7 @@ description: "Consciousness research requires multiple methods—first-person, s
 created: 2026-02-12
 modified: 2026-02-12
 human_modified:
-ai_modified: 2026-04-24T22:31:00+00:00
+ai_modified: 2026-04-28T01:12:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -24,12 +24,13 @@ related_articles:
   - "[[contemplative-practice-as-philosophical-evidence]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[intersubjectivity]]"
+  - "[[conjunction-coalesce]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-12
 last_curated:
-last_deep_review: 2026-04-24T22:31:00+00:00
+last_deep_review: 2026-04-28T01:12:00+00:00
 ---
 
 Methodological pluralism is the view that consciousness research requires multiple investigative methods working together, because no single methodology can capture the full reality of conscious experience. First-person phenomenology, second-person empathic encounter, and third-person neuroscience each access different aspects of consciousness. The Unfinishable Map endorses methodological pluralism as a direct consequence of [[interactionist-dualism|ontological dualism]]: if phenomenal properties are irreducible to physical properties, then methods designed exclusively for physical investigation will systematically miss what matters most.
@@ -88,7 +89,7 @@ Francisco Varela's [[neurophenomenology-and-contemplative-neuroscience|neurophen
 
 - **Neuroscience constrains phenomenology**: Third-person findings about neural mechanisms guide phenomenological investigation toward relevant experiential distinctions. If two experiences correlate with different neural signatures, phenomenology should investigate whether they differ experientially.
 
-This bidirectionality means neither method dominates. Phenomenology without neuroscience risks unfalsifiable speculation; neuroscience without phenomenology risks explaining the wrong thing—substituting functional accounts for phenomenal ones without noticing the substitution.
+This bidirectionality means neither method dominates. Phenomenology without neuroscience risks unfalsifiable speculation; neuroscience without phenomenology risks explaining the wrong thing—substituting functional accounts for phenomenal ones without noticing the substitution. The structural shape—two methods whose joint operation makes claims neither alone can support—mirrors the [[conjunction-coalesce]] discipline the Map applies elsewhere: where the seam between two analytical faces is load-bearing, dissolving it discards information the conjunction itself provides. Mutual constraint is methodological pluralism's analogue of that move at the level of consciousness research rather than editorial practice.
 
 [[contemplative-practice-as-philosophical-evidence|Contemplative neuroscience]] demonstrates mutual constraint in action. Trained meditators report specific attentional states; neuroscientists find these states correlate with distinct neural patterns—gamma synchrony, default mode network deactivation—as Lutz and Thompson (2003) document in their programmatic articulation of neurophenomenology. Neither finding is achievable by one method alone.
 
