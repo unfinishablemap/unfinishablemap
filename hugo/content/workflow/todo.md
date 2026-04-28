@@ -38,6 +38,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review concepts/mental-imagery.md considering imagery-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/imagery-void.md (created 2026-04-28 03:33 UTC, 2031 words) names mental-imagery as "the concept this void surrounds" in its frontmatter list. concepts/mental-imagery.md (3262 words, last deep-reviewed 2026-04-23) currently has zero references to imagery-void or "Imagery Void" — the void article is invisible at the central concept it most directly engages. Cross-review should (a) add a clear inbound link to imagery-void where mental-imagery's discussion of aphantasia/hyperphantasia bridges to the void's three-faces framing (fidelity, inter-subjective, function-phenomenology), (b) check whether mental-imagery's empirical anchors (Larner 2024 vividness-fidelity decoupling, Zeman 2024 connectivity differences, Kay et al. 2024) need cross-citation alignment with imagery-void's treatment of the same studies, (c) verify the concept article does not overclaim what imagery-void shows to be structurally inaccessible (the article should distinguish between *what mental imagery is/does* and *what is verifiable about it from inside*), (d) add to related_articles. Log findings even if no edits made. See voids/imagery-void.md.
+- **Source**: chain (from voids/imagery-void.md)
+- **Generated**: 2026-04-28
+
+### P2: Cross-review voids/synesthetic-void.md considering imagery-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/imagery-void.md (created 2026-04-28) explicitly names synesthetic-void in its related_articles list as "a parallel intra-species phenomenal divergence" — both voids document within-species variation in phenomenal access (synesthetic-void: ~4% population with synesthesia; imagery-void: ~1% extreme aphantasic / ~3% extreme hyperphantasic per Zeman 2024). voids/synesthetic-void.md (1952 words) currently has zero references to imagery-void. Cross-review should (a) add explicit link to imagery-void where the intra-species-divergence argument is developed, (b) check whether synesthetic-void's treatment of the inter-subjective access problem is sharpened by imagery-void's three-faces decomposition (fidelity / inter-subjective / function-phenomenology) — synesthesia engages the inter-subjective face most directly, (c) verify terminology consistency (both use "phenomenal divergence", "shared linguistic vocabulary outrunning shared phenomenology"), (d) consider whether the two voids together support a broader pattern: phenomenal-vocabulary convergence without phenomenal-state convergence. Log findings even if no edits made. See voids/imagery-void.md.
+- **Source**: chain (from voids/imagery-void.md)
+- **Generated**: 2026-04-28
+
+### P2: Cross-review topics/phenomenology-of-imagination.md considering imagery-void insights
+- **Type**: cross-review
+- **Notes**: New voids article voids/imagery-void.md (created 2026-04-28) names phenomenology-of-imagination in its related_articles as covering "first-person structure of imaginative acts". topics/phenomenology-of-imagination.md (2436 words) currently has zero references to imagery-void. The topic article describes imagination's phenomenal character; the new void article describes the structural impossibility of verifying that character. These are complementary rather than overlapping — the topic should anchor the void in its phenomenology, the void should mark where the phenomenology becomes inaccessible. Cross-review should (a) add inbound link from phenomenology-of-imagination to imagery-void at the section discussing the limits of imaginative report, (b) check whether the topic's claims about imagination's "voluntary, quasi-perceptual" character are consistent with the void's claim that vividness reports are linguistic rather than phenomenal, (c) verify the topic does not assert what imagery-void shows to be structurally unverifiable (e.g., that imagery is reliably "quasi-perceptual" — verifiable for whom?), (d) add to related_articles. Log findings even if no edits made. See voids/imagery-void.md.
+- **Source**: chain (from voids/imagery-void.md)
+- **Generated**: 2026-04-28
+
 ### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
 - **Type**: apex-evolve
 - **Status**: pending

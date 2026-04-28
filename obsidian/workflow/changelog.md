@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 07:34:00+00:00
+ai_modified: 2026-04-28 07:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 07:43 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/mental-imagery]]
+- **Context**: Cross-review prompted by today's creation of [[imagery-void]]. Surfaced Kay/Keogh/Pearson 2024 finding that contradicted a passing claim about aphantasic mental-rotation performance.
+- **Word count**: 3162 → 3207 (+45; near length-neutral with offsetting trims to classical-philosophy intro and trumping-preemption paragraph)
+- **Critical issues addressed**: 1 (corrected "reduced performance on mental rotation" to the empirically-accurate "slower but more accurate, using analytic rather than object-based strategies" — Kay, Keogh & Pearson 2024)
+- **Medium issues addressed**: 1 (added [[imagery-void]] cross-link in body, Further Reading, and related_articles frontmatter)
+- **Enhancements made**: 2 (Kay/Keogh/Pearson 2024 reference added; imagery-void integration as sister article)
+- **Output**: [[reviews/deep-review-2026-04-28-mental-imagery]]
 
 ## 2026-04-28 07:34 UTC - deep-review
 - **Status**: Success
