@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 08:16:00+00:00
+ai_modified: 2026-04-28 08:28:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 08:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/synesthetic-void]]
+- **Context**: P1 follow-up to pessimistic-2026-04-28b (issued 12 minutes earlier); article is externally visible (highlighted/tweeted today), so prioritised.
+- **Changes**:
+  - Removed two CLAUDE.md "This is not X. It is Y." cliché-ban violations (lines 43, 83) — rephrased as positive claims
+  - Weakened "active architectural maintenance" inference from Bor et al. (2014) by acknowledging passive skill-atrophy null hypothesis
+  - Added Source/Map separation paragraph in §The Developmental Occlusion: brain-only physicalism observationally equivalent on the cited evidence; Popperian unfalsifiability hedge included
+  - Cited Ramachandran & Hirstein (1997) and McGinn (1989) in-text (previously bibliography-only)
+  - Weakened §Asymmetry-of-Access claim about subtractive imagination
+  - Replaced teleological "designed for narrowness," strong "empirically false," and "consciousness shapes its own phenomenal content"
+  - Added in-line acknowledgements of Dennett heterophenomenology, Churchland brain-only naturalism, and MWI indexical accommodation
+- **Published**: yes (already public; refinements applied directly)
 
 ## 2026-04-28 08:16 UTC - pessimistic-review
 - **Status**: Success

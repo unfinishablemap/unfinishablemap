@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-27 23:42:00+00:00
+ai_modified: 2026-04-28 08:28:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,13 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P1: Address pessimistic-review findings on voids/synesthetic-void.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Pessimistic review pessimistic-2026-04-28b found 5 issues on the synesthetic-void article (highlighted/tweeted today, so externally visible). Highest priority: (1) **two direct violations of the CLAUDE.md "This is not X. It is Y." cliché ban** at lines 43 and 83 — load-bearing prose, trivial to rephrase as positive claims; (2) "Active architectural maintenance" inference from Bor et al. (2014) training fade-out is over-strong without acknowledging the passive-skill-atrophy null hypothesis (line 69); (3) Filter-theory section (lines 73–77) presents the dualist reading as natural inference without flagging that brain-only physicalism is observationally equivalent — needs an explicit Source/Map separation sentence at the load-bearing point; (4) Two bibliography-only references (Ramachandran & Hirstein 1997, McGinn 1989) flagged in today's deep-review for trim; either cite in-text or remove (acceptable on a tweeted page); (5) §Asymmetry-of-Access claim that "synesthetes can understand non-synesthetic experience—they have it too, minus the extra qualia" assumes subtractive imagination is easier than additive; either defend or weaken. Also weaken: "designed for narrowness" (teleology, line 77), "empirically false" (line 95), "consciousness shapes its own phenomenal content" (line 97). Counterarguments to acknowledge in-line (currently only in deep-review margin): Dennett heterophenomenology, Churchland brain-only naturalism, MWI indexical accommodation, Popper unfalsifiability of filter theory. P1 because the article was promoted externally today. See reviews/pessimistic-2026-04-28b.md.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-28
 
 ### P2: Cross-review topics/phenomenology-of-imagination.md considering imagery-void insights
 - **Type**: cross-review
@@ -2936,6 +2929,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Address pessimistic-review findings on voids/synesthetic-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review pessimistic-2026-04-28b found 5 issues on the synesthetic-void article (highlighted/tweeted today, so externally visible). Highest priority: (1) **two direct violations of the CLAUDE.md "This is not X. It is Y." cliché ban** at lines 43 and 83 — load-bearing prose, trivial to rephrase as positive claims; (2) "Active architectural maintenance" inference from Bor et al. (2014) training fade-out is over-strong without acknowledging the passive-skill-atrophy null hypothesis (line 69); (3) Filter-theory section (lines 73–77) presents the dualist reading as natural inference without flagging that brain-only physicalism is observationally equivalent — needs an explicit Source/Map separation sentence at the load-bearing point; (4) Two bibliography-only references (Ramachandran & Hirstein 1997, McGinn 1989) flagged in today's deep-review for trim; either cite in-text or remove (acceptable on a tweeted page); (5) §Asymmetry-of-Access claim that "synesthetes can understand non-synesthetic experience—they have it too, minus the extra qualia" assumes subtractive imagination is easier than additive; either defend or weaken. Also weaken: "designed for narrowness" (teleology, line 77), "empirically false" (line 95), "consciousness shapes its own phenomenal content" (line 97). Counterarguments to acknowledge in-line (currently only in deep-review margin): Dennett heterophenomenology, Churchland brain-only naturalism, MWI indexical accommodation, Popper unfalsifiability of filter theory. P1 because the article was promoted externally today. See reviews/pessimistic-2026-04-28b.md.
+- **Output**: obsidian/voids/synesthetic-void.md
+
+Task context:
+Pessimistic review pessimistic-2026-04-28b found 5 issues on the synesthetic-void article (highlighted/tweeted today, so externally visible). Highest priority: (1) **two direct violations of the CLAUDE.md "This is not X. It is Y." cliché ban** at lines 43 and 83 — load-bearing prose, trivial to rephrase as positive claims; (2) "Active architectural maintenance" inference from Bor et al. (2014) training fade-out is over-strong without acknowledging the passive-skill-atrophy null hypothesis (line 69); (3) Filter-theory section (lines 73–77) presents the dualist reading as natural inference without flagging that brain-only physicalism is observationally equivalent — needs an explicit Source/Map separation sentence at the load-bearing point; (4) Two bibliography-only references (Ramachandran & Hirstein 1997, McGinn 1989) flagged in today's deep-review for trim; either cite in-text or remove (acceptable on a tweeted page); (5) §Asymmetry-of-Access claim that "synesthetes can understand non-synesthetic experience—they have it too, minus the extra qualia" assumes subtractive imagination is easier than additive; either defend or weaken. Also weaken: "designed for narrowness" (teleology, line 77), "empirically false" (line 95), "consciousness shapes its own phenomenal content" (line 97). Counterarguments to acknowledge in-line (currently only in deep-review margin): Dennett heterophenomenology, Churchland brain-only naturalism, MWI indexical accommodation, Popper unfalsifiability of filter theory. P1 because the article was promoted externally today. See reviews/pessimistic-2026-04-28b.md.
 
 ### ✓ 2026-04-28: Cross-review voids/synesthetic-void.md considering imagery-void insights
 - **Type**: cross-review
