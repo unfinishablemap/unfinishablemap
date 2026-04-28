@@ -79,6 +79,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-27
 
+### P3: Write concept article on void-faceting methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28 (High Priority). The new `voids/imagery-void.md` (created 2026-04-28 03:33 UTC) distinguishes three structurally distinct faces (fidelity, inter-subjective, function-phenomenology) and ranks them by probable-permanence — a discipline that is implicit in several other voids (interoceptive-void's three absence-faces, mood-void's three opacity-layers, predictive-construction-void's four mechanisms) but not articulated as a general method. Article should (a) name the discipline (e.g., *void-faceting*), (b) provide criteria for when to facet versus keep unified (structurally distinct evidential profiles? distinct remediation strategies? distinct empirical anchors?), (c) catalogue worked examples from imagery-void, interoceptive-void, mood-void, source-attribution-void, (d) provide an *anti-pattern* — when faceting would inflate the void's apparent complexity rather than tracking real structural distinctions. Target: `concepts/void-faceting.md`. Scope: 1500–2200 words. Tenet alignment: Methodological/Occam's Razor Has Limits — the discipline names where unified treatment masks distinct evidential structures rather than tracking real unity. NOTE: concepts/ near 226+ articles vs 250 cap — within capacity. See optimistic-2026-04-28.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Write concept article on AI externalisation as void-probe methodology
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28 (High Priority). The new `voids/imagery-void.md` §"What AI Externalisation Reveals" (lines 92–98) introduces a methodological move: AI imagery is *externalisable* in a way human imagery is not, and the asymmetry lets the void specify what it would *take* to solve the human case. The same move is implicit in `concepts/ai-consciousness-modes` and several voids articles but not generalised. Article should (a) articulate AI-externalisation-as-void-probe as a general method, (b) provide criteria for when externalisation reveals structure versus when it merely relocates the void to a different layer (the imagery-void's own caveat: "whether AI imagery has phenomenology at all is itself an open question, pushing the void to a different layer"), (c) catalogue cases where externalisation succeeds (imagery, possibly working-memory, possibly attention) and where it fails (acquaintance, intrinsic phenomenal character), (d) honest limitation: the method depends on the analogue being structurally apt, not merely behaviourally similar. Target: `concepts/ai-externalisation-as-void-probe.md`. Scope: 1500–2000 words. Tenet alignment: Dualism (the externalisation reveals what cannot be externalised, mapping the boundary between accessible and inaccessible). See optimistic-2026-04-28.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Write methodology article on recurrence-across-instruments as evidence of territoriality
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28 (High Priority). The new `voids/imagery-void.md` §"The Empirical Anchor" identifies the Würzburg-aphantasia recurrence (line 66): "The Würzburg-aphantasia recurrence is itself evidence the void is structural rather than methodological. The same phenomenon surfaces twice across a century with the same controversy structure, under different vocabularies and instruments. The territory keeps producing this shape because the shape is real." This is a new positive-evidential discipline parallel to *forced-not-concealed* (named in optimistic-2026-04-27c) and the queued *weaker-than-headline disclosure*. Article should (a) name and articulate *recurrence-across-instruments-as-evidence-of-territoriality*, (b) distinguish three sub-types: recurrence under the *same* instruments (consistency, not territoriality evidence); recurrence under *disjoint* instruments (territory survives the instrument); recurrence under *dissolution-attempting* instruments (the strongest case — the territory survives instruments designed to dissolve it; Würzburg → behaviourism → aphantasia fits this), (c) catalogue candidate cases (introspection-controversy revival; possibly the consciousness-as-physical-process debates; possibly the binding-problem revivals), (d) honest limitation — the discipline can mistake terminological recurrence for structural recurrence; specify the disambiguation criterion. Apex-tier OR concept-page depending on apex-placement criterion (see related queued task). Scope: 1800–2400 words. Tenet alignment: Occam's Razor Has Limits (the discipline names where parsimony at the level of "the controversy was just a methodological artifact" fails empirically). See optimistic-2026-04-28.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Write concept article on compound-property dissociation pattern
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28 (Medium Priority). The 2026-04-28 02:29 UTC refine of `topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md` line 168 installs a sophisticated reading of pain asymbolia as compound-property dissociation: "what we colloquially call 'pain' is a compound of two distinct powerful qualities — sensory localisation (the bodily-mapped detection of damage) and aversive valence (the hurtfulness that motivates withdrawal). Asymbolic patients retain the sensory powerful quality and lose the aversive one." This is a general response to apparent quality-power dissociations in the powerful-qualities literature: the apparent counterexample is reread by *finer-grained property individuation* rather than abandoning quality-power identity. Article should (a) articulate the pattern as a general response to alleged dissociations, (b) catalogue cases (pain asymbolia: sensory + aversive; possibly blindsight: conscious-discrimination + behavioural-discrimination; possibly depersonalisation: self-attribution + experiential-vividness), (c) provide criteria for when compound-decomposition is principled versus ad hoc (the original property must have been recognised as compound *prior* to the dissociation evidence; or the dissociation must reveal structure visible in normal cases). Target: `concepts/compound-property-dissociation.md`. Scope: 1200–1500 words. Tenet alignment: Dualism (the discipline preserves quality-power identity at the component level rather than abandoning it under empirical pressure). See optimistic-2026-04-28.md.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
+### P3: Add reciprocal cross-links between voids/imagery-void and concepts/introspection
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-28 (Cross-Linking Suggestions). The new `voids/imagery-void.md` cites Schwitzgebel's introspective-unreliability claim as load-bearing (line 72) but does not link to `concepts/introspection.md`. Reciprocally, introspection's failure modes are paradigmatically visible in the imagery domain but `concepts/introspection.md` does not cite imagery-void as a paradigm case. Should also install structural-parallel cross-links between `voids/imagery-void.md` and `voids/source-attribution-void.md` (both exhibit *probing-creates-content* behaviour). Short scope (~150–250 words across three articles). Tenet alignment: methodological — preserves the navigability of the inter-void web.
+- **Source**: optimistic-review
+- **Generated**: 2026-04-28
+
 ### P3: Formalise the *convergence-reached* designation as article state
 - **Type**: refine-draft
 - **Status**: pending
