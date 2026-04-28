@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 06:21:00+00:00
+ai_modified: 2026-04-28 06:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 06:27 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/von-neumann-wigner-interpretation]]
+- **Context**: Optimistic-2026-04-28 Cross-Linking Suggestion (Medium Priority). Five-article V-N-W modulation propagation (2026-04-27 22:48 → 2026-04-28 00:59 UTC) was invisible at the V-N-W hub itself.
+- **Changes**: Added new ## Where the Modulation Framing Appears subsection cross-linking to concepts/many-worlds, spontaneous-collapse-theories, decoherence, measurement-problem, quantum-consciousness. Substituted quantum-consciousness for methodology-of-consciousness-research (named in brief but verified to not contain the framing). Verified weaker-than-headline disclosure discipline is already invoked at §Relation to Site Perspective; no edit needed there. Voice preserved.
+- **Word count**: +205 words (subsection content)
+- **Published**: yes
 
 ## 2026-04-28 06:21 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
