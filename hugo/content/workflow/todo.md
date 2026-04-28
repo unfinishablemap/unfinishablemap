@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md (second pass: 4586 words, 153% of topics hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: First condense pass completed 2026-04-28 02:29 UTC reduced article from 4937 → 4586 words (348-word reduction, target was 4000 hard threshold). Article remains over hard threshold by 586 words (15%). The same-day refine that followed (also 2026-04-28) added the compound-property dissociation reading of pain asymbolia (line 168), which expanded the article slightly while improving its philosophical content. Second-pass condensation should (a) audit which sections expanded under the day's refine cycles versus the original first-pass condense intent, (b) prioritise removing redundancy in the powerful-qualities exposition (which may now be overlapping with newer concept pages or other topic articles), (c) preserve the compound-property dissociation reading (recently installed and load-bearing for the queued P3 *compound-property dissociation pattern* concept article), (d) consider deferring the most-recently-refined sub-arguments to linked articles where natural, (e) target reduction to ≤4000 words (preferably ~3800 to give margin against future refinement re-expansion). The same-day churn pattern suggests the article wants to be longer than the threshold permits — second-pass condense should explicitly identify whether the article belongs at apex-tier (5000-word threshold) instead of topics-tier; if so, escalate as a separate task rather than over-condensing. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-28
-
 ### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
 - **Type**: apex-evolve
 - **Status**: pending
@@ -2931,6 +2924,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Condense topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md (second pass: 4586 words, 153% of topics hard threshold)
+- **Type**: condense
+- **Notes**: First condense pass completed 2026-04-28 02:29 UTC reduced article from 4937 → 4586 words (348-word reduction, target was 4000 hard threshold). Article remains over hard threshold by 586 words (15%). The same-day refine that followed (also 2026-04-28) added the compound-property dissociation reading of pain asymbolia (line 168), which expanded the article slightly while improving its philosophical content. Second-pass condensation should (a) audit which sections expanded under the day's refine cycles versus the original first-pass condense intent, (b) prioritise removing redundancy in the powerful-qualities exposition (which may now be overlapping with newer concept pages or other topic articles), (c) preserve the compound-property dissociation reading (recently installed and load-bearing for the queued P3 *compound-property dissociation pattern* concept article), (d) consider deferring the most-recently-refined sub-arguments to linked articles where natural, (e) target reduction to ≤4000 words (preferably ~3800 to give margin against future refinement re-expansion). The same-day churn pattern suggests the article wants to be longer than the threshold permits — second-pass condense should explicitly identify whether the article belongs at apex-tier (5000-word threshold) instead of topics-tier; if so, escalate as a separate task rather than over-condensing. See `/condense` skill.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md
 
 ### ✓ 2026-04-28: Cross-review concepts/cognitive-phenomenology.md considering voids/imagery-void insights
 - **Type**: cross-review
