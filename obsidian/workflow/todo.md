@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine voids/inference-void.md to add reciprocal suspension-void cross-link
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The 2026-04-28 13:53 UTC deep-review of apophatic-cartography.md flagged in its **Remaining** field: "inference-void.md should add suspension-void to its related_articles in a separate refine-draft task (sister-regress relationship is bidirectional; new task queued)." suspension-void.md (created 2026-04-28) treats withholding judgment as a structural void; inference-void.md treats the reasoning-step access gap. Both share the regress structure where the upstream criterion of fit/closure/suspension is itself an opaque verdict requiring another upstream criterion. Refine should: (a) add `[[suspension-void]]` to inference-void.md's related_articles frontmatter; (b) add a short paragraph (~80–120 words) identifying the sister-regress relationship — inference-void's "the verdict that an inference is sound is itself a felt verdict whose criterion of soundness is opaque" parallels suspension-void's "withholding-judgment requires verifying the withholding, which requires another act of suspension"; (c) verify the suspension-void's existing reference to inference-void is reciprocally apt. Short scope (~150 words added). Tenet alignment: Occam's Razor Has Limits, Bidirectional Interaction.
-- **Source**: chain (from apophatic-cartography deep-review 2026-04-28 13:53 UTC)
-- **Generated**: 2026-04-28
-
 ### P2: Cross-review four exemplar voids against new phenomenology-vs-function axis in apex/taxonomy-of-voids
 - **Type**: cross-review
 - **Status**: pending
@@ -2979,6 +2972,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Refine voids/inference-void.md to add reciprocal suspension-void cross-link
+- **Type**: refine-draft
+- **Notes**: The 2026-04-28 13:53 UTC deep-review of apophatic-cartography.md flagged in its **Remaining** field: "inference-void.md should add suspension-void to its related_articles in a separate refine-draft task (sister-regress relationship is bidirectional; new task queued)." suspension-void.md (created 2026-04-28) treats withholding judgment as a structural void; inference-void.md treats the reasoning-step access gap. Both share the regress structure where the upstream criterion of fit/closure/suspension is itself an opaque verdict requiring another upstream criterion. Refine should: (a) add `[[suspension-void]]` to inference-void.md's related_articles frontmatter; (b) add a short paragraph (~80–120 words) identifying the sister-regress relationship — inference-void's "the verdict that an inference is sound is itself a felt verdict whose criterion of soundness is opaque" parallels suspension-void's "withholding-judgment requires verifying the withholding, which requires another act of suspension"; (c) verify the suspension-void's existing reference to inference-void is reciprocally apt. Short scope (~150 words added). Tenet alignment: Occam's Razor Has Limits, Bidirectional Interaction.
+- **Output**: obsidian/voids/inference-void.md
+
+Task context:
+The 2026-04-28 13:53 UTC deep-review of apophatic-cartography.md flagged in its **Remaining** field: "inference-void.md should add suspension-void to its related_articles in a separate refine-draft task (sister-regress relationship is bidirectional; new task queued)." suspension-void.md (created 2026-04-28) treats withholding judgment as a structural void; inference-void.md treats the reasoning-step access gap. Both share the regress structure where the upstream criterion of fit/closure/suspension is itself an opaque verdict requiring another upstream criterion. Refine should: (a) add `[[suspension-void]]` to inference-void.md's related_articles frontmatter; (b) add a short paragraph (~80–120 words) identifying the sister-regress relationship — inference-void's "the verdict that an inference is sound is itself a felt verdict whose criterion of soundness is opaque" parallels suspension-void's "withholding-judgment requires verifying the withholding, which requires another act of suspension"; (c) verify the suspension-void's existing reference to inference-void is reciprocally apt. Short scope (~150 words added). Tenet alignment: Occam's Razor Has Limits, Bidirectional Interaction.
 
 ### ✓ 2026-04-28: Condense voids/suspension-void.md (3594 words, 180% of soft target, above hard threshold)
 - **Type**: condense

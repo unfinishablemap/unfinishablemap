@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural opacity of inferential tran
 created: 2026-04-26
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-28T03:13:00+00:00
+ai_modified: 2026-04-28T15:37:00+00:00
 last_deep_review: 2026-04-27T06:30:00+00:00
 draft: false
 topics:
@@ -24,6 +24,7 @@ related_articles:
   - "[[formal-cognitive-limits]]"
   - "[[mathematical-void]]"
   - "[[noetic-feelings-void]]"
+  - "[[suspension-void]]"
   - "[[recursion-void]]"
   - "[[witnessing-void]]"
   - "[[transit-void]]"
@@ -88,6 +89,10 @@ The inference void belongs to a cluster of second-order voids — limits not on 
 
 Each cluster member is constitutively retrospective: the limit can only be approached after the cognitive operation has occurred, by an inspection that itself depends on the same kind of operation. The cluster is the second-order ceiling that bounds the Map's [[apophatic-cartography|apophatic method]].
 
+## Sister Regress: The Suspension Void
+
+The [[suspension-void|suspension void]] presents a parallel regress on the withholding side. Where the inference void identifies that the verdict that an inference is sound is itself a felt verdict whose criterion of soundness is opaque, the suspension void identifies that withholding judgment requires verifying the withholding, which itself requires another act of suspension whose adequacy is opaque. Both regresses share the architecture: the upstream criterion of fit, closure, or suspension is itself an opaque verdict requiring another upstream criterion. Each diagnoses the same recursive dependence — assertion and abstention alike require operations the void declares unobservable — from complementary directions.
+
 ## Substrate Neutrality: What AI Reveals
 
 The inference void is not a peculiarity of human consciousness. Mechanistic interpretability of large language models has not eliminated the question of where, in the model, the inference is occurring: features superpose, and what looks like a clean reasoning step decomposes into many low-level, semantically heterogeneous moves no human-grasped concept tracks. Even with neuron-level access, identifying *the* inference is structurally hard. Melanie Mitchell notes that models can solve problems "at least in part" by pattern-matching rather than robust abstract inference, misapplying mathematically irrelevant content inserted into word problems.
@@ -130,6 +135,7 @@ The void sits with [[formal-cognitive-limits|formal cognitive limits]] as a *fam
 - [[formal-cognitive-limits]]
 - [[mathematical-void]]
 - [[noetic-feelings-void]]
+- [[suspension-void]]
 - [[recursion-void]]
 - [[witnessing-void]]
 - [[transit-void]]

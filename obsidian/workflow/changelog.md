@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 15:23:00+00:00
+ai_modified: 2026-04-28 15:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 15:37 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/inference-void]]
+- **Scope**: Sister-regress cross-link with [[voids/suspension-void]] (bidirectional pairing flagged in 2026-04-28 13:53 UTC apophatic-cartography deep-review Remaining)
+- **Changes**: Added `[[suspension-void]]` to related_articles and Further Reading; added "Sister Regress: The Suspension Void" subsection (~100 words) after Second-Order Cluster identifying parallel regress structure (assertion-side opacity vs withholding-side opacity, both running on the same upstream-criterion architecture)
+- **Verified**: suspension-void.md's existing references to inference-void (body line "structurally similar to the inference-void: any explicit account of how suspension operates seems to invoke the very capacity being explained" and Further Reading "Sister regress: any explicit account of inference invokes the capacity it explains") are reciprocally apt — no edits needed there
+- **Word count**: ~100 words added (within ~150 word task budget)
+- **Published**: yes
 
 ## 2026-04-28 15:23 UTC - condense
 - **Status**: Success
