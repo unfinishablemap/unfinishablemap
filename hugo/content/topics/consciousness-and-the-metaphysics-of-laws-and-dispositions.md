@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-04-28 06:58:00+00:00
+ai_modified: 2026-04-28 07:12:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -77,7 +77,7 @@ Each landscape generates a different account of how mind relates to matter.
 
 Humeanism is surprisingly hospitable to psychophysical laws. If laws are the most efficient summaries of actual patterns, psychophysical laws are simply regularities linking phenomenal states to physical states—genuine patterns in the total mosaic, not bridge mechanisms.
 
-The problem is not that psychophysical laws are impossible but that they lack *explanatory depth*. Saying "it is a law that brain state B produces experience E" provides no more than "it regularly happens that B is followed by E." The Humean dualist gets correlation without illumination—the [hard problem](/topics/hard-problem-of-consciousness/) transplanted into the metaphysics of laws. A Humean can reply that physical Humean laws are equally shallow; the dualist's answer is that psychophysical regularities bridge [ontologically distinct domains](/concepts/emergence/), making the absence of deeper explanation more troubling.
+Humean psychophysical laws are admissible; the problem is that they lack *explanatory depth*. Saying "it is a law that brain state B produces experience E" provides no more than "it regularly happens that B is followed by E." The Humean dualist gets correlation without illumination—the [hard problem](/topics/hard-problem-of-consciousness/) transplanted into the metaphysics of laws. A Humean can reply that physical Humean laws are equally shallow; the dualist's answer is that psychophysical regularities bridge [ontologically distinct domains](/concepts/emergence/), making the absence of deeper explanation more troubling.
 
 A deeper concern: [Humean supervenience](/concepts/supervenience/) holds that everything supervenes on the mosaic of local particular matters of fact. If consciousness adds something beyond the physical mosaic—as dualism claims—Humean supervenience fails. A committed Humean might accept psychophysical correlations into the best system while denying that phenomenal properties are ontologically additional, which collapses back into physicalism.
 
@@ -91,7 +91,7 @@ The Map offers candidate underlying principles rather than leaving the legislati
 
 The governing view supports the Map's bidirectional framework. If laws are genuinely prescriptive, downward psychophysical laws could prescribe that certain conscious states produce certain physical outcomes. This gives [psychophysical causation](/concepts/mental-causation-and-downward-causation/) the same metaphysical status as physical causation: both are law-governed.
 
-There is further consequence for the quantum measurement problem. Physics leaves quantum measurement unexplained; a psychophysical governing law could fill that gap as completion of the lawful structure physics itself requires. The Map's selection law framework—consciousness biasing otherwise indeterminate quantum outcomes, developed in [the psychophysical laws article](/topics/psychophysical-laws-bridging-mind-and-matter/)—is naturally expressed as a governing law prescribing minimal interventions at sites of neural quantum indeterminacy.
+There is further consequence for the quantum measurement problem. Physics leaves quantum measurement unexplained; a psychophysical governing law could fill that gap as completion of the lawful structure physics itself requires. The Map's selection law framework—consciousness biasing otherwise indeterminate quantum outcomes, developed in [the psychophysical laws article](/topics/psychophysical-laws-bridging-mind-and-matter/)—takes the governing-law form because it requires what governing laws specifically supply: prescriptive modal force determining *which* quantum outcome obtains, applied locally at sites of neural indeterminacy rather than summarised across the mosaic after the fact.
 
 ### Dispositional Essentialism and Phenomenal Powers
 
@@ -135,7 +135,7 @@ Applied to consciousness: a phenomenal state's qualitative character and its cau
 
 **It preserves the reality of qualia.** Unlike pandispositionalism, the identity theory doesn't reduce phenomenal character to causal role. The qualitative aspect is real and irreducible—identical with the dispositional aspect, not absorbed into it.
 
-**It grounds mental causation naturally.** Consciousness doesn't need a separate mechanism to influence the physical world; its causal efficacy follows from its nature as a powerful quality.
+**It grounds mental causation without a separate mechanism.** Because qualitative and dispositional aspects are identical rather than separately specifiable, the qualitative side does not require an additional bridging principle to connect it to causal power; the same property that *is* the felt quality *is* the disposition to produce its manifestation.
 
 **It avoids the combination problem.** The Map's [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) posits unified phenomenal subjects from the start: structure (what physics describes) and actuality (what consciousness provides) are irreducible aspects that interact causally; consciousness *does things to* physics at quantum indeterminacies, rather than acting as a hidden ingredient inside physical properties.
 
@@ -171,7 +171,7 @@ Each framework leaves a residual mystery that mirrors what it leaves unexplained
 
 The Map's [tenets](/tenets/) have differential affinities with each combination of laws and properties.
 
-**[Dualism](/tenets/#dualism)** is compatible with all three accounts of laws. Dispositional essentialism grounds irreducibility in essential natures, though the zombie-world disanalogy limits how fully phenomenal dispositions can be assimilated to physical ones. The governing laws view may provide a cleaner framework for cross-domain legislation. Dualism's most natural property-side ally is the identity theory of "powerful qualities," which preserves both the qualitative reality of qualia and their causal power.
+**[Dualism](/tenets/#dualism)** is compatible with all three accounts of laws. Dispositional essentialism grounds irreducibility in essential natures, though the zombie-world disanalogy limits how fully phenomenal dispositions can be assimilated to physical ones. The governing laws view may provide a cleaner framework for cross-domain legislation. Dualism's property-side ally is the identity theory of "powerful qualities" because it satisfies two dualist constraints simultaneously: preserving the qualitative reality of qualia (which pandispositionalism eliminates) and supplying intrinsic causal power at the property itself (which pure categoricalism leaves to external laws and thereby exposes to the epiphenomenalist threat).
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** receives strongest support from the governing laws view and dispositional essentialism. Humeanism can accommodate bidirectional regularities but struggles to ground genuine causation as opposed to constant conjunction. The identity theory grounds mental causation directly: quality and power are one.
 
@@ -179,7 +179,7 @@ The Map's [tenets](/tenets/) have differential affinities with each combination 
 
 **[No Many Worlds](/tenets/#no-many-worlds)** is implicitly assumed throughout. Under Many-Worlds, the legislation problem dissolves—all branches are realised, so no law needs to explain why a particular psychophysical correlation holds rather than another. The Map's rejection of Many-Worlds is what makes the metaphysics of laws and properties urgent: if only one outcome obtains, something must account for *which*.
 
-**[Occam's Razor Has Limits](/tenets/#occams-limits)** gains force from these debates. The simplest account on each side—Humeanism for laws, pandispositionalism for properties—is precisely the account that risks eliminating the phenomenon under investigation. Pandispositionalism's apparent simplicity costs qualitative character, the one feature of reality we know most directly; Humeanism's apparent simplicity costs explanatory depth. Apparent parsimony masks genuine explanatory loss.
+**[Occam's Razor Has Limits](/tenets/#occams-limits)** gains force from these debates. The simplest account on each side—Humeanism for laws, pandispositionalism for properties—is precisely the account that risks eliminating the phenomenon under investigation. Pandispositionalism's simplicity is purchased by treating qualitative character as either reducible to dispositional profile or non-existent—a substantive metaphysical trade the Map rejects rather than a free gain, and one eliminativists (Frankish, Dennett) embrace as the right verdict. Humeanism's simplicity is purchased by accepting explanatory shallowness about why patterns hold. Each apparent parsimony masks a real ontological commitment.
 
 The central insight: the mind-body problem is not just about what consciousness *is*—it is about what *properties* and *laws* are. If properties have intrinsic qualitative natures that ground their causal powers, and laws express those natures or prescribe their relations, then consciousness becomes the paradigmatic case of what a property really is: a powerful quality known from the inside, related to other properties by laws that bridge the categorial gap between physical and phenomenal.
 
@@ -215,13 +215,15 @@ The central insight: the mind-body problem is not just about what consciousness 
 17. Taylor, J.H. (2018). Powerful qualities and pure powers. *Philosophical Studies*, 175(6), 1423-1440.
 18. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
 
-<!-- AI REFINEMENT LOG - 2026-04-28
-Changes made (addressing pessimistic-2026-04-28 Counterargument 3, "What does the cross-product really buy you over a single-axis treatment?"):
-- Added a forward-reference clause to the introduction (line 46) flagging that the interface model developed below depends on both axes, so the cross-product is structurally load-bearing rather than pedagogical.
-- Inserted four new paragraphs at the start of §"Dispositions, Consciousness, and the Interface" identifying *one* Map-relevant conclusion that requires the cross-product: psychophysical laws as "local prescriptions at sites of neural quantum indeterminacy." Showed why pure dispositional essentialism cannot ground this (zombie-disanalogy denies fundamentality, no internal anchor) and why pure governing-laws-with-categoricalism cannot ground it either (no property-side causal contribution, reintroduces epiphenomenalist gap). Showed how governing-laws + powerful qualities supplies both nomic necessity (modal force) and phenomenal causation (the conscious quality is the prescriber). Acknowledged that secondary points (legislation problem, Humean shallowness) would be reachable on a single-axis treatment, isolating the cross-product's specific structural payload.
-- Frontmatter ai_modified updated to 2026-04-28T06:58:00+00:00.
+<!-- AI REFINEMENT LOG - 2026-04-28T07:12 UTC
+Language pass addressing pessimistic-2026-04-28 Language Improvements (writing-style.md compliance):
+- Line 76: rewrote the surviving "not X but Y" construction ("not that psychophysical laws are impossible but that they lack explanatory depth") as a positive claim ("Humean psychophysical laws are admissible; the problem is that they lack explanatory depth").
+- Line 90: replaced "naturally expressed as a governing law" with a specific reason — the selection law framework requires prescriptive modal force determining *which* outcome obtains, applied locally rather than summarised across the mosaic. Names what makes the fit work.
+- Line 134: replaced "It grounds mental causation naturally" bullet header with "It grounds mental causation without a separate mechanism," and rewrote the sentence to identify the specific mechanism (identity of qualitative and dispositional aspects making bridging principle redundant) rather than evaluating the fit.
+- Line 170: replaced "Dualism's most natural property-side ally" with "Dualism's property-side ally is the identity theory of 'powerful qualities' because it satisfies two dualist constraints simultaneously," naming the constraints (qualia preservation against pandispositionalism; intrinsic causal power against pure categoricalism's epiphenomenalist exposure).
+- Line 178: reframed pandispositionalism's "cost of qualitative character" as a substantive metaphysical trade rather than a free gain (per pessimistic-2026-04-28 line 132). Acknowledges that eliminativists (Frankish, Dennett) embrace the trade as the right verdict, so the framing no longer begs the question against them.
 
-Voice and argument structure preserved. The existing "Dispositions, Consciousness, and the Interface" content (dispositional structure of consciousness, Tegmark engagement) follows unchanged after the new paragraphs. Path (a) chosen over path (b): no restructuring of the article's overall axis ordering, since the existing structure works once the cross-product's load-bearing case is made explicit.
+Argument structure and dialectical material installed by 02:29 UTC refine preserved unchanged. Approximately 220 words modified. Frontmatter ai_modified updated to 2026-04-28T07:12:00+00:00.
 
 This log should be removed after human review.
 -->

@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Address remaining style violations and weasel-words in consciousness-and-the-metaphysics-of-laws-and-dispositions.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by pessimistic-2026-04-28 (Language Improvements section). The 05:42 UTC condense reduced the article 4586 → 3386 words but did not fully address the language pass identified by the pessimistic review. Current state retains: (a) one "not X but Y" style-guide violation ("the question is not that psychophysical laws are impossible but..."); (b) "naturally"/"most natural" doing argumentative work in two locations — `naturally` (×2), `most natural` (×1) — where specific reasons should replace the evaluative shorthand; (c) potential remnants of "appears simpler than the identity theory, but this simplicity comes at the cost of eliminating qualitative character" (line 132 in pessimistic review), which begs the question against eliminativists. Refine should (a) rewrite the surviving "not X but Y" construction as a positive claim (per writing-style.md and CLAUDE.md guidance); (b) replace at least two "naturally"/"most natural" instances with specific reasons that name *what* makes the fit natural; (c) reframe pandispositionalism's "cost" framing as a substantive trade rather than a free gain (per pessimistic-2026-04-28 line 132 suggestion); (d) preserve the article's argumentative structure and the substantive dialectical material installed by the 02:29 UTC refine. Short scope (~150–300 words modified). Tenet alignment: methodological — the writing-style commitments are about the Map's voice, not its content. See pessimistic-2026-04-28.md Language Improvements section and Unsupported Claims table.
-- **Source**: pessimistic-review
-- **Generated**: 2026-04-28
-
 ### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
 - **Type**: apex-evolve
 - **Status**: pending
@@ -2931,6 +2924,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Address remaining style violations and weasel-words in consciousness-and-the-metaphysics-of-laws-and-dispositions.md
+- **Type**: refine-draft
+- **Notes**: Suggested by pessimistic-2026-04-28 (Language Improvements section). The 05:42 UTC condense reduced the article 4586 → 3386 words but did not fully address the language pass identified by the pessimistic review. Current state retains: (a) one "not X but Y" style-guide violation ("the question is not that psychophysical laws are impossible but..."); (b) "naturally"/"most natural" doing argumentative work in two locations — `naturally` (×2), `most natural` (×1) — where specific reasons should replace the evaluative shorthand; (c) potential remnants of "appears simpler than the identity theory, but this simplicity comes at the cost of eliminating qualitative character" (line 132 in pessimistic review), which begs the question against eliminativists. Refine should (a) rewrite the surviving "not X but Y" construction as a positive claim (per writing-style.md and CLAUDE.md guidance); (b) replace at least two "naturally"/"most natural" instances with specific reasons that name *what* makes the fit natural; (c) reframe pandispositionalism's "cost" framing as a substantive trade rather than a free gain (per pessimistic-2026-04-28 line 132 suggestion); (d) preserve the article's argumentative structure and the substantive dialectical material installed by the 02:29 UTC refine. Short scope (~150–300 words modified). Tenet alignment: methodological — the writing-style commitments are about the Map's voice, not its content. See pessimistic-2026-04-28.md Language Improvements section and Unsupported Claims table.
+- **Output**: obsidian/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions.md
+
+Task context:
+Suggested by pessimistic-2026-04-28 (Language Improvements section). The 05:42 UTC condense reduced the article 4586 → 3386 words but did not fully address the language pass identified by the pessimistic review. Current state retains: (a) one "not X but Y" style-guide violation ("the question is not that psychophysical laws are impossible but..."); (b) "naturally"/"most natural" doing argumentative work in two locations — `naturally` (×2), `most natural` (×1) — where specific reasons should replace the evaluative shorthand; (c) potential remnants of "appears simpler than the identity theory, but this simplicity comes at the cost of eliminating qualitative character" (line 132 in pessimistic review), which begs the question against eliminativists. Refine should (a) rewrite the surviving "not X but Y" construction as a positive claim (per writing-style.md and CLAUDE.md guidance); (b) replace at least two "naturally"/"most natural" instances with specific reasons that name *what* makes the fit natural; (c) reframe pandispositionalism's "cost" framing as a substantive trade rather than a free gain (per pessimistic-2026-04-28 line 132 suggestion); (d) preserve the article's argumentative structure and the substantive dialectical material installed by the 02:29 UTC refine. Short scope (~150–300 words modified). Tenet alignment: methodological — the writing-style commitments are about the Map's voice, not its content. See pessimistic-2026-04-28.md Language Improvements section and Unsupported Claims table.
 
 ### ✓ 2026-04-28: Address pessimistic-2026-04-28 cross-product counterargument in laws-and-dispositions
 - **Type**: refine-draft
