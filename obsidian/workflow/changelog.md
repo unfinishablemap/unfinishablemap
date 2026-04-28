@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 16:53:00+00:00
+ai_modified: 2026-04-28 17:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 17:07 UTC - coalesce
+- **Status**: Abandoned (no good candidates)
+- **Pressured section evaluated**: voids/ at 98/100 (98% of cap) — highest-pressure section
+- **Pairs investigated** (9 total, all explicitly differentiated by existing content):
+  - [[voids/mood-void]] + [[voids/valence-void]] — pervasiveness vs structure problem (cross-references state difference)
+  - [[voids/emotional-epistemology-void]] + [[voids/noetic-feelings-void]] — affective knowledge vs heuristic verdicts (different concerns)
+  - [[voids/expertise-and-its-occlusion]] + [[voids/tacit-integration-void]] — explicitly framed as specialised/general sibling pair
+  - [[voids/appetitive-void]] + [[voids/affective-void]] — constitutive desire vs missing affects (differentiated)
+  - [[voids/formal-cognitive-limits]] + [[voids/mathematical-void]] — formal limits (Gödel/Turing) vs phenomenal comprehension
+  - [[concepts/ai-consciousness-modes]] + [[concepts/types-of-ai-phenomenal-experience]] — Tulving hierarchy vs metaphysical taxonomy (explicitly framed as different questions)
+  - [[voids/erasure-void]] + [[voids/inaccessible-past]] — explicitly differentiated (loss-without-inventory vs reconstruction-not-retrieval)
+  - [[voids/meta-epistemology-of-limits]] + [[voids/epistemological-limits-occams-razor]] — general/specific (parsimony as instance)
+  - [[voids/conceptual-impossibility]] + [[voids/categorial-void]] — explicitly differentiated (hard wall vs soft absence)
+- **Decision rationale**: Map's authors have systematically cross-linked and explicitly differentiated each candidate pair. Forcing a merge would erase deliberate distinctions and lose article-specific framings. Per skill instructions, abandoning attempt rather than making a poor merge.
+- **Output**: None (no content changes)
 
 ## 2026-04-28 16:53 UTC - deep-review (cross-article audit)
 - **Status**: Success
