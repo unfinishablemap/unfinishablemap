@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-03-28 23:13:00+00:00
+ai_modified: 2026-04-28 11:55:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Mary knows all physical facts about color but seems to learn someth
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 08:07:00+00:00
+last_deep_review: 2026-04-28 11:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -65,7 +65,7 @@ Jackson's argument can be formalized:
 4. Therefore, not all facts are physical facts
 5. Therefore, physicalism is false
 
-The argument's force comes from premise 2—the "learning claim." Most people share the intuition that Mary learns something new, though its evidentiary status is contested (see intuition reliability below).
+The argument's force comes from premise 2—the "learning claim." Most people share the intuition that Mary learns something new, though its evidentiary status is contested (examined below in *The Reliability of Consciousness Intuitions*).
 
 ## Physicalist Responses
 

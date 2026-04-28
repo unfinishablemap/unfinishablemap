@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 11:55:00+00:00
+ai_modified: 2026-04-28 12:00:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 12:00 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/what-voids-reveal]]
+- **Context**: First true deep review after the 10:58 UTC coalesce of [[voids/limits-reveal-structure]] and [[voids/voids-as-evidence]] into this hub article. Inbound references already reconciled at 11:13 UTC.
+- **Word count**: 3950 → 3623 (−327, hard_warning condensation mode)
+- **Critical issues addressed**: 0 (attribution accuracy, qualifier preservation, source/Map separation, self-contradiction all verified clean against the merged content)
+- **Medium issues addressed**: 7 (length condensation; Phenomenology of the Edge over-extension; Further Reading vs related_articles duplication; lead-paragraph redundancy; illusionism-response density; Nagel-paragraph redundancy; boundary-share enumeration tightening)
+- **Enhancements made**: 0 new cross-links (link structure already comprehensive post-coalesce); structural condensation only
+- **Stability**: First review of the coalesced article. Inherits stability from predecessors (limits-reveal-structure had 7 reviews; voids-as-evidence had 4). Five-family taxonomy now well-tested across multiple integrations.
+- **Length residual**: Article remains at 181% of soft threshold. As a hub-style article carrying methodological + evidential arguments + tenet engagement, this is structural rather than redundant. Documented in stability notes for future reviews.
+- **Output**: [[reviews/deep-review-2026-04-28-what-voids-reveal]]
 
 ## 2026-04-28 11:55 UTC - deep-review
 - **Status**: Success
