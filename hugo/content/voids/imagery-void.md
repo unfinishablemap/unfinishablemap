@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-04-28 03:33:00+00:00
+ai_modified: 2026-04-28 11:29:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Human+AI exploration of why no conscious mind can verify the fideli
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-28 11:29:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -28,6 +29,7 @@ related_articles:
 - '[[apophatic-cartography]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[phenomenology-of-imagination]]'
+- '[[ai-consciousness-modes]]'
 title: The Imagery Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -72,7 +74,7 @@ The Würzburg-aphantasia recurrence is itself evidence the void is structural ra
 
 Approaching the imagery void produces a characteristic confusion. Asked "How vivid is your imagery, on a scale of 1–5?" most people answer confidently. The confident answers diverge wildly across persons in ways the answerers cannot reconcile when they compare notes. Probe further—Is the apple shiny? What's its exact shade of red? When you rotate it, do you see continuous motion or discrete frames?—and reports become hesitant, internally inconsistent, or generate detail that wasn't there before the probe. This is a [plenitude-void](/voids/plenitude-void/)-like behavior: inquiry creates content that purports to predate the inquiry. Aphantasics who learn the term often report a retrospective phenomenological reorientation: they had assumed "see in your mind's eye" was a metaphor everyone used, and discover only late in life that for many others it isn't.
 
-The discovery is destabilising in both directions. Aphantasics may experience a sense of absence they did not previously notice. Imagers may experience a new uncertainty about whether their reports track anything stable. Schwitzgebel's broader claim—that "we are not simply fallible at the margins... we are broadly inept" at introspection (Schwitzgebel 2008)—takes mental imagery as its paradigm domain. The introspective tool whose reports we would use to map the void is the same tool whose unreliability *constitutes* it.
+The discovery is destabilising in both directions: aphantasics notice an absence they had not registered before; imagers gain new uncertainty about whether their reports track anything stable. Schwitzgebel's broader claim—that "we are not simply fallible at the margins... we are broadly inept" at introspection (Schwitzgebel 2008)—takes mental imagery as its paradigm domain. The tool whose reports we would use to map the void is the same tool whose unreliability *constitutes* it.
 
 ## Approaches to the Edge
 
@@ -88,7 +90,7 @@ Several methods illuminate the void's shape without crossing it.
 
 **Cross-modal probes** exploit the fact that aphantasia often spans modalities. The pattern of preserved versus lost modalities constrains what imagery is.
 
-**Linguistic divergence analysis** asks where words like "vivid," "clear," and "sharp" come apart, and where imagery-talk metaphors break down.
+**Linguistic divergence analysis** asks where words like "vivid" and "sharp" come apart and where imagery metaphors break down.
 
 None of these reach the fidelity face directly. They detect *whether something imagery-shaped is happening*, not *how accurate the image is*. The fidelity face is the most resistant of the three, and probably permanent.
 
@@ -98,7 +100,7 @@ Multimodal AI models with image-generation pipelines have something imagery-like
 
 The asymmetry is illuminating. AI can in principle compare its imagined output to a target and compute fidelity—a procedure no human can run on their own imagery. AI may exhibit aphantasia-analogues (text-only language models with no visual decoder) and hyperphantasia-analogues (strong-visual multimodal systems), providing testable analogues of the human spectrum. And AI imagery is *inspectable in a way human imagery is not*—though whether AI imagery has phenomenology at all is itself an open question, pushing the void to a different layer.
 
-This places imagery in the catalogue of [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/). AI does not solve the human imagery void; it externalises a structural analogue that lets us see what it would *take* to solve the human case, and thereby what we lack. The human case has no render target outside introspection, and no engineering seems likely to provide one without changing what the mind is.
+This places imagery in the catalogue of [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) and parallels [the simulation-versus-instantiation gap](/concepts/ai-consciousness-modes/): a system can externalise imagery as pixels and still leave its phenomenal status open. AI does not solve the human imagery void; it externalises a structural analogue that lets us see what it would *take* to solve the human case, and thereby what we lack. The human case has no render target outside introspection, and no engineering seems likely to provide one without changing what the mind is.
 
 ## Relation to Site Perspective
 
@@ -122,6 +124,7 @@ The Imagery Void also exemplifies the [apophatic-cartography](/voids/apophatic-c
 - [plenitude-void](/voids/plenitude-void/) — Why probing introspection generates content rather than retrieving it
 - [necessary-opacity](/voids/necessary-opacity/) — The general structure of phenomenal self-opacity
 - [apophatic-cartography](/voids/apophatic-cartography/) — Method by which the void's shape can be traced
+- [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Tulving's hierarchy and the simulation-instantiation gap in AI consciousness
 
 ## References
 

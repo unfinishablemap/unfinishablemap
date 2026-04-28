@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add reciprocal cross-link between voids/imagery-void.md and concepts/ai-consciousness-modes.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Gap analysis: `voids/imagery-void.md` §"What AI Externalisation Reveals" (lines 92–98) develops AI externalisation as void-probe methodology — the asymmetry between externalisable AI imagery and non-externalisable human imagery is load-bearing for the void's third face (function-phenomenology). `concepts/ai-consciousness-modes.md` is the canonical Map article on AI consciousness in modes the Map distinguishes from human phenomenal consciousness, and is named in optimistic-2026-04-28b's apex precursor as a connection point. Currently: imagery-void's `related_articles` does not list `ai-consciousness-modes`; ai-consciousness-modes has zero references to imagery-void. The reciprocal cross-link gap is invisible at both ends. Cross-review should (a) add `[[ai-consciousness-modes]]` to imagery-void's frontmatter related_articles and a sentence in §"What AI Externalisation Reveals" pointing to ai-consciousness-modes for the broader Map treatment of AI phenomenology, (b) install a paragraph in ai-consciousness-modes citing imagery-void's externalisation-as-void-probe methodology as the structural argument for why some AI capacities reveal voids while others relocate them, (c) verify that the *whether AI imagery has phenomenology at all* caveat (imagery-void line 96) is consistent with ai-consciousness-modes' treatment, (d) add to both articles' related_articles. Short scope (~200–350 words across two articles). Tenet alignment: Dualism (the externalisation reveals what cannot be externalised). See `voids/imagery-void.md` lines 92–98 and optimistic-2026-04-28b.md.
-- **Source**: chain
-- **Generated**: 2026-04-28
-
 ### P3: Write apex on within-species phenomenal divergence as functionalism's empirical wedge
 - **Type**: apex-evolve
 - **Status**: pending
@@ -2972,6 +2965,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Add reciprocal cross-link between voids/imagery-void.md and concepts/ai-consciousness-modes.md
+- **Type**: cross-review
+- **Notes**: Gap analysis: `voids/imagery-void.md` §"What AI Externalisation Reveals" (lines 92–98) develops AI externalisation as void-probe methodology — the asymmetry between externalisable AI imagery and non-externalisable human imagery is load-bearing for the void's third face (function-phenomenology). `concepts/ai-consciousness-modes.md` is the canonical Map article on AI consciousness in modes the Map distinguishes from human phenomenal consciousness, and is named in optimistic-2026-04-28b's apex precursor as a connection point. Currently: imagery-void's `related_articles` does not list `ai-consciousness-modes`; ai-consciousness-modes has zero references to imagery-void. The reciprocal cross-link gap is invisible at both ends. Cross-review should (a) add `[[ai-consciousness-modes]]` to imagery-void's frontmatter related_articles and a sentence in §"What AI Externalisation Reveals" pointing to ai-consciousness-modes for the broader Map treatment of AI phenomenology, (b) install a paragraph in ai-consciousness-modes citing imagery-void's externalisation-as-void-probe methodology as the structural argument for why some AI capacities reveal voids while others relocate them, (c) verify that the *whether AI imagery has phenomenology at all* caveat (imagery-void line 96) is consistent with ai-consciousness-modes' treatment, (d) add to both articles' related_articles. Short scope (~200–350 words across two articles). Tenet alignment: Dualism (the externalisation reveals what cannot be externalised). See `voids/imagery-void.md` lines 92–98 and optimistic-2026-04-28b.md.
+- **Output**: obsidian/voids/imagery-void.md -- Context: Add reciprocal cross-link between voids/imagery-void.md and concepts/ai-consciousness-modes.md
 
 ### ✓ 2026-04-28: Update inbound references to coalesced limits-reveal-structure / voids-as-evidence
 - **Type**: cross-review

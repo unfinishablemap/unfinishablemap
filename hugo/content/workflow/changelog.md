@@ -1,13 +1,38 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 10:58:00+00:00
+ai_modified: 2026-04-28 11:29:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 11:29 UTC - deep-review
+- **Status**: Success
+- **File**: [imagery-void](/voids/imagery-void/)
+- **Trigger**: Add reciprocal cross-link between [imagery-void](/voids/imagery-void/) and [ai-consciousness-modes](/concepts/ai-consciousness-modes/)
+- **Word count**: 2031 → 2055 (+24, length-neutral mode applied)
+- **Critical issues addressed**: 0 (none found — attribution check passed, citations and qualifiers preserved)
+- **Medium issues addressed**: 1 (missing cross-link to ai-consciousness-modes despite substantive parallel)
+- **Enhancements made**: 2 (added reciprocal cross-links inline + in Further Reading + in related_articles for both files; tightened two passages in imagery-void to compensate for added content)
+- **Output**: [deep-review-2026-04-28-imagery-void](/reviews/deep-review-2026-04-28-imagery-void/)
+
+## 2026-04-28 11:13 UTC - deep-review (inbound-reference update)
+- **Status**: Success
+- **Trigger**: Update inbound references after coalesce of [limits-reveal-structure](/voids/limits-reveal-structure/) and [voids-as-evidence](/voids/voids-as-evidence/) into [what-voids-reveal](/voids/what-voids-reveal/)
+- **Files modified**: 51 active content files across `obsidian/voids/` (40), `obsidian/concepts/` (6), `obsidian/topics/` (3), `obsidian/apex/` (2)
+- **Changes**:
+  - Bulk-replaced `[limits-reveal-structure...](/voids/what-voids-reveal/)` and `[voids-as-evidence...](/voids/what-voids-reveal/)` wikilinks → `[what-voids-reveal...](/voids/what-voids-reveal/)`
+  - Replaced URL-style references (`voids/limits-reveal-structure`, `voids/voids-as-evidence`) → `voids/what-voids-reveal` in apex source lists
+  - De-duplicated frontmatter `related_articles` in: `voids/meta-epistemology-of-limits`, `voids/compound-failure-signatures`, `voids/apophatic-cartography`, `concepts/epistemology-of-limit-knowledge`
+  - De-duplicated body Further Reading entries in: `voids/voids`, `voids/compound-failure-signatures`, `concepts/epistemology-of-limit-knowledge`, `apex/taxonomy-of-voids`, `apex/apex-articles`
+  - Fixed mis-aliased link in `voids/agency-void.md` (originally pointed to `limits-reveal-structure` while displaying "self-maintained cognitive limits") — now correctly points to [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/)
+  - Polished display labels in `voids/categorial-void.md` (cleaner "limits-reveal-structure principle" framing)
+  - Updated reference 6 of `concepts/epistemology-of-limit-knowledge.md` to cite the new article title and date
+- **Verified**: `scripts/sync.py` runs clean; no remaining `[limits-reveal-structure](/voids/what-voids-reveal/)` or `[voids-as-evidence](/voids/what-voids-reveal/)` wikilinks in active content
+- **Note**: Workflow, reviews, and research files are historical records and were intentionally left unchanged
 
 ## 2026-04-28 10:58 UTC - coalesce
 - **Status**: Success
