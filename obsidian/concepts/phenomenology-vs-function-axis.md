@@ -4,7 +4,8 @@ description: "A cross-cutting taxonomic axis identifying voids where phenomenal 
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T19:18:00+00:00
+ai_modified: 2026-04-28T19:45:00+00:00
+last_deep_review: 2026-04-28T19:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -75,7 +76,7 @@ Lennon (2023) adds the aphantasic-thought wedge: aphantasic individuals have phe
 
 The [[agency-void|agency void]] supplies the agency-domain exemplar. Daniel Wegner's **I-Spy paradigm** (Wegner & Wheatley 1999; Wegner 2002) operationalises a function-phenomenology dissociation in the volitional domain: under arranged conditions of priority, consistency, and exclusivity, the *experience* of willing dissociates from the underlying causation. Subjects feel authorship regardless of whether they caused the act and lose the feeling under disruption (alien hand syndrome, automatisms) even when their motor system continues to act.
 
-The agency case extends the axis from sensory and cognitive phenomenology into willed action: the phenomenal report of agency is decoupled from the functional/causal facts about the act it claims to authorise.
+The agency case extends the axis from sensory and cognitive phenomenology into willed action: the phenomenal report of agency is decoupled from the functional/causal facts about the act it claims to authorise. Wegner himself reads this dissociation as evidence that conscious will is an illusion. The Map borrows the diagnosis while declining the conclusion: under [[tenets#^bidirectional-interaction|Bidirectional Interaction]], a faulty attribution system can coexist with genuine causal influence, so showing the *feeling* of agency is constructed does not show agency is fictional. The wedge against function-phenomenology identity survives independently of which conclusion one draws downstream.
 
 ## Independence from the Other Axes
 
@@ -101,7 +102,7 @@ The Map's [[tenets#^occams-limits|fifth tenet—Occam's Razor Has Limits]]—gov
 
 The axis is not a knockdown argument against functionalism. The functionalist has principled responses available to each exemplar: the function may differ at a finer grain than the experiments resolve; the synaesthetic difference might be cashed out as a higher-order representational difference; aphantasic and visualising minds might in fact perform subtly different functional operations on the same task. These responses move the dispute to the level of *which* function is the relevant one, not to whether function-phenomenology identity holds.
 
-What the axis does is identify the **empirical pressure point** where this dispute concentrates, and connect four otherwise scattered findings to a shared theoretical claim. The dissociations are not conclusive; they are loci where theories of consciousness make differential predictions and where empirical work can tighten the screws.
+What the axis does is identify the **empirical pressure point** where this dispute concentrates, and connect four otherwise scattered findings to a shared theoretical claim. The dissociations are not conclusive; they are loci where theories of consciousness make differential predictions and where empirical work can tighten the screws. The axis would be falsified—or at least heavily de-weighted—if subsequent work showed that the four exemplars dissolve under finer-grained functional individuation: if aphantasic mental rotation turns out to deploy a functionally distinct subroutine, if synaesthetic extra qualia map onto a higher-order representational difference, if Strawson's understanding-difference reduces to a difference in tacit motor or auditory simulation, if the I-Spy attribution failure is pure noise in a normally veridical reporting channel. The four cases are evidentially independent but theoretically aligned, which is why a single rejoinder cannot dispatch them; the axis predicts that they will continue to resist absorption together rather than individually.
 
 The axis is also not coextensive with the [[phenomenal-contrast-method|phenomenal contrast method]]. The contrast method generates evidence at the *individual* level—two experiences with same input, different phenomenology, within a single subject. The phenomenology-vs-function axis identifies a **structural feature of the void taxonomy**: a sorting dimension along which whole voids cluster. The contrast method is a tool for producing exemplars; the axis is the architectural slot that holds them.
 

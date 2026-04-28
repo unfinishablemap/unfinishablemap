@@ -5,6 +5,16 @@ ai_modified: 2026-04-28 18:52:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-28 19:45 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenology-vs-function-axis]]
+- **Word count**: 1923 → 2087 (+164; 83% of 2500 soft threshold — ok)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2
+- **Enhancements made**: 2
+- **Notes**: First deep-review of newly created concept page (created 2026-04-28). Comprehensive attribution check passed: all four exemplar attributions (Kay/Keogh/Pearson 2024, Wager 1999/2001, Gray 2003, Strawson 1994, Lennon 2023, Wegner/Wheatley 1999, Wegner 2002, Zeman 2024) verified against source articles (imagery-void, synesthetic-void, agency-void, cognitive-phenomenology-and-the-irreducibility-of-thought) and apex (taxonomy-of-voids). All quoted passages match verbatim; no misattribution, no dropped qualifiers, no overstated positions. Two improvements applied: (1) added Wegner hedge to mirror agency-void's careful Source/Map separation — the Map borrows Wegner's diagnosis while declining his illusionist conclusion under Bidirectional Interaction; (2) added falsifiability paragraph specifying what would de-weight the axis (finer-grained functional individuation absorbing each exemplar) and articulating the cumulative-force claim as an empirical prediction the four cases continue to resist absorption together. Stability notes documented for future reviews: eliminativist/functionalist/MWI/Buddhist disagreements are bedrock and should not be re-flagged.
+- **Output**: [[reviews/deep-review-2026-04-28-phenomenology-vs-function-axis]]
+
 ## 2026-04-28 19:23 UTC - deep-review
 - **Status**: Success (convergence)
 - **File**: [[voids/plurality-void]]
