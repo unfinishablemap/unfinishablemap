@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/functionalism.md considering the refined phenomenology-vs-function-axis
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-04-28 20:39 UTC refine of `concepts/phenomenology-vs-function-axis.md`. The refined axis article now explicitly engages multi-realizability (Putnam 1967, Block & Fodor 1972) as functionalism's canonical resource — the axis's empirical wedge survives only if the relevant grain of function is the multiply-realisable task level rather than the strategy level. `concepts/functionalism.md` has zero references to `phenomenology-vs-function-axis` despite being functionalism's canonical concept page on the Map and being the natural home for the multi-realizability engagement reciprocally. Cross-review should (a) verify reciprocal `[[phenomenology-vs-function-axis]]` link exists in `concepts/functionalism.md` related_articles and at least one body-prose location; (b) install a paragraph (or extend an existing section) on multi-realizability that frames the axis as the empirical wedge that probes functionalism's grain-of-function commitments — distinguishing task-level multi-realizability (which functionalism endorses) from strategy-level multi-realizability (which the axis treats as phenomenological accompaniment rather than functional difference); (c) verify the article's existing rejections of functionalism (the Map's mainstream position) are framed at a grain consistent with the axis's wedge — neither stronger nor weaker than the axis sustains; (d) preserve the article's existing voice and tenet alignment (Dualism). Short scope (~250-400 words across two articles, with most additions in `concepts/functionalism.md`). Tenet alignment: Dualism (the wedge against functionalism is a load-bearing dualism-supporting move). See `concepts/phenomenology-vs-function-axis.md` and the 2026-04-28 20:39 UTC changelog entry.
-- **Source**: chain
-- **Generated**: 2026-04-28
-
 ### P3: Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page
 - **Type**: refine-draft
 - **Status**: superseded (2026-04-28 21:24 UTC) — subsumed by the P2 task above, which was completed in the same refine and covered the wikilink + frontmatter additions plus the broader framing alignment
@@ -3007,6 +3000,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review concepts/functionalism.md considering the refined phenomenology-vs-function-axis
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-04-28 20:39 UTC refine of `concepts/phenomenology-vs-function-axis.md`. The refined axis article now explicitly engages multi-realizability (Putnam 1967, Block & Fodor 1972) as functionalism's canonical resource — the axis's empirical wedge survives only if the relevant grain of function is the multiply-realisable task level rather than the strategy level. `concepts/functionalism.md` has zero references to `phenomenology-vs-function-axis` despite being functionalism's canonical concept page on the Map and being the natural home for the multi-realizability engagement reciprocally. Cross-review should (a) verify reciprocal `[[phenomenology-vs-function-axis]]` link exists in `concepts/functionalism.md` related_articles and at least one body-prose location; (b) install a paragraph (or extend an existing section) on multi-realizability that frames the axis as the empirical wedge that probes functionalism's grain-of-function commitments — distinguishing task-level multi-realizability (which functionalism endorses) from strategy-level multi-realizability (which the axis treats as phenomenological accompaniment rather than functional difference); (c) verify the article's existing rejections of functionalism (the Map's mainstream position) are framed at a grain consistent with the axis's wedge — neither stronger nor weaker than the axis sustains; (d) preserve the article's existing voice and tenet alignment (Dualism). Short scope (~250-400 words across two articles, with most additions in `concepts/functionalism.md`). Tenet alignment: Dualism (the wedge against functionalism is a load-bearing dualism-supporting move). See `concepts/phenomenology-vs-function-axis.md` and the 2026-04-28 20:39 UTC changelog entry.
+- **Output**: obsidian/concepts/functionalism.md -- Context: Cross-review concepts/functionalism.md considering the refined phenomenology-vs-function-axis
 
 ### ✓ 2026-04-28: Refine apex/taxonomy-of-voids.md to integrate the refined phenomenology-vs-function-axis framing
 - **Type**: refine-draft

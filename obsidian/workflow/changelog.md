@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 21:24:00+00:00
+ai_modified: 2026-04-28 21:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 21:38 UTC - deep-review (cross)
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Word count**: 3434 → 3492 (+58)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (1: missing cross-link to the newly refined [[phenomenology-vs-function-axis]] concept page — added paragraph in Absent Qualia Objection section framing the axis as empirical complement to conceivability arguments; 2: stale AI REFINEMENT LOG comment block from 2026-04-07 removed per its own instructions; 3: Predictive Processing intro tightened to maintain length-neutrality)
+- **Cross-link consistency**: now bidirectional with phenomenology-vs-function-axis; no contradictions with cognitive-phenomenology, illusionism, IIT, biological-computationalism, or concession-convergence
+- **Length status**: 140% of soft threshold (8 words under hard); future additions remain length-neutral
+- **Notes**: Fifth deep review. Article remains stable across all five — no critical issues in any review. Triggered by the 2026-04-28 creation and refinement of the phenomenology-vs-function-axis concept page.
+- **Output**: [[reviews/deep-review-2026-04-28-functionalism]]
 
 ## 2026-04-28 21:24 UTC - refine-draft
 - **Status**: Success

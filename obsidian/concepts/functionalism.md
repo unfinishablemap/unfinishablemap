@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-04-07T06:36:00+00:00
+ai_modified: 2026-04-28T21:38:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ concepts:
   - "[[phenomenal-concepts-strategy]]"
   - "[[causal-closure]]"
   - "[[concession-convergence]]"
+  - "[[phenomenology-vs-function-axis]]"
 related_articles:
   - "[[tenets]]"
   - "[[arguments/functionalism-argument]]"
@@ -43,7 +44,7 @@ author: null
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-04-06T20:21:00+00:00
+last_deep_review: 2026-04-28T21:38:00+00:00
 ---
 
 Functionalism is the dominant position in contemporary [[philosophy-of-mind|philosophy of mind]]: the view that mental states are defined by their functional roles—what they do rather than what they're made of. A pain isn't a particular kind of brain state; it's whatever state plays the pain role: being caused by tissue damage, causing distress, prompting avoidance behavior, and so on. If something plays that role, it's pain—regardless of whether it's implemented in neurons, silicon, or alien biochemistry.
@@ -76,7 +77,7 @@ Putnam's own trajectory continued past rejecting functionalism. Under William Ja
 
 ### Predictive Processing
 
-[[predictive-processing|Predictive processing (PP)]] describes the brain as continuously generating predictions about incoming sensory information. Anil Seth calls perception "controlled hallucination"—the brain's best hypothesis constrained by sensory feedback.
+[[predictive-processing|Predictive processing (PP)]] describes the brain as continuously generating predictions about incoming sensory information—Anil Seth's "controlled hallucination," constrained by sensory feedback.
 
 But PP inherits functionalism's core limitation: explaining *that* perception is constructive doesn't explain *why* the construction is conscious. A weather-prediction system constructs models without experiencing anything. PP proponents acknowledge this: the free energy principle, as typically formulated, makes no claims about subjective experience.
 
@@ -113,6 +114,8 @@ The deepest objection to functionalism concerns [[qualia]]—the qualitative cha
 **Absent qualia**: A [[philosophical-zombies|philosophical zombie]] functionally identical to you but with no experience at all—acts like it's in pain, believes it's in pain, feels nothing.
 
 If either is possible, functionalism is false: mental states have qualitative character not captured by functional role. See [[arguments/functionalism-argument|Against Functionalism]] for the full argument.
+
+The [[phenomenology-vs-function-axis|phenomenology-vs-function axis]] supplies empirical complements—aphantasic mental rotation, Wager's synaesthetic "extra qualia," Strawson's foreign-language case, and Wegner's I-Spy paradigm—where phenomenology and function come apart in documented rather than merely conceivable conditions. Functionalists can absorb individual cases via multi-realizability; the cross-domain pattern is harder to dispatch as a joint package.
 
 ### The Illusionist Response
 
@@ -228,6 +231,7 @@ None of these would logically refute dualism (the conceivability arguments would
 - [[pragmatisms-path-to-dualism]] — How pragmatism's own logic undermines the functionalist framework
 - [[tenets]] — Why the Map rejects the functionalist view
 - [[types-of-ai-phenomenal-experience]] — Six categories for AI phenomenal experience, including functional phenomenality and why the Map rejects it
+- [[phenomenology-vs-function-axis]] — Empirical wedges (imagery, synaesthesia, comprehension, agency) where phenomenology and function come apart
 
 ## References
 
@@ -248,15 +252,3 @@ None of these would logically refute dualism (the conceivability arguments would
 1. Putnam, H. (1988). *Representation and Reality*. MIT Press.
 1. Searle, J. (1980). "Minds, Brains, and Programs." *Behavioral and Brain Sciences*, 3, 417-457.
 1. Tero, A., et al. (2010). "Rules for Biologically Inspired Adaptive Network Design." *Science*, 327(5964), 439-442.
-
-<!-- AI REFINEMENT LOG - 2026-04-07
-Changes made:
-1. Renamed "The Architect's Defection" to "Semantic Externalism Against Functionalism" — shifted from argument-from-authority framing to emphasis on the actual arguments in Representation and Reality
-2. Added Twin Earth case to concretely illustrate how semantic externalism undermines internalist functionalism (functional role underdetermines mental content)
-3. Replaced authority-based conclusion ("when the philosopher who provided...") with argument-independent framing ("the argument's force is independent of its author")
-4. Removed stale refinement log from 2026-03-29
-
-Based on pessimistic-2026-04-06-night.md Issue #3 and Counterargument #3.
-
-This log should be removed after human review.
--->
