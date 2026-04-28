@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense concepts/phenomenal-acquaintance.md (3535 words, 141% of concepts hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 2500-word concepts soft threshold and 3500-word hard threshold (141% of soft target). The article is load-bearing — phenomenal-acquaintance is cited centrally in the recent constitutive/referring-observation cluster (concepts/constitutive-vs-referring-observation.md line 84 explicitly names it as a partial Russellian precursor) and across the knowledge-argument / philosophical-zombies / qualia cluster. Preserve the Russellian distinction-of-acquaintance / by-description framing, the constitutive-observation tie-in, and the dialectical positioning against deflationary readings. Defer detailed sub-arguments to linked articles where possible (the new constitutive/referring article carries much of the metaphysical weight; phenomenal-acquaintance can become more historically and epistemologically focused, ceding the metaphysics to the newer concept). Target ~2400-2700 words. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-28
-
 ### P2: Refine voids/void-as-ground-of-meaning.md to integrate Buddhist/Eastern parallels research
 - **Type**: refine-draft
 - **Status**: pending
@@ -2944,6 +2937,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Condense concepts/phenomenal-acquaintance.md (3535 words, 141% of concepts hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 2500-word concepts soft threshold and 3500-word hard threshold (141% of soft target). The article is load-bearing — phenomenal-acquaintance is cited centrally in the recent constitutive/referring-observation cluster (concepts/constitutive-vs-referring-observation.md line 84 explicitly names it as a partial Russellian precursor) and across the knowledge-argument / philosophical-zombies / qualia cluster. Preserve the Russellian distinction-of-acquaintance / by-description framing, the constitutive-observation tie-in, and the dialectical positioning against deflationary readings. Defer detailed sub-arguments to linked articles where possible (the new constitutive/referring article carries much of the metaphysical weight; phenomenal-acquaintance can become more historically and epistemologically focused, ceding the metaphysics to the newer concept). Target ~2400-2700 words. See `/condense` skill.
+- **Output**: obsidian/concepts/phenomenal-acquaintance.md
 
 ### ✓ 2026-04-28: Write voids article on the Imagery Void
 - **Type**: expand-topic
