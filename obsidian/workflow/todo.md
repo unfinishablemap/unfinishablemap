@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense voids/necessary-opacity.md (3026 words, 151% of soft target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3000-word soft threshold for voids/ at 3026 words (151% of 2000-word soft target, hard_warning level — between hard threshold 3000 and critical threshold 4000). Condense to preserve the two structural faces (self-concealing-face + self-protecting-face) and the load-bearing dualism/Occam's-Limits argumentation while removing redundancy. Likely targets for compression: any duplicated framings of the "constitutive vs contingent opacity" distinction; ensure §"Relation to Site Perspective" stays tight; defer expanded treatments to linked articles (predictive-construction-void provides the predictive-processing mechanism; double-veil framing). Preserve the recently installed reciprocal cross-link with imagery-void (~270-word substantive paragraph) since that is load-bearing for the imagery-void integration network. Target: ~2200-2400 words. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-28
+
+### P2: Cross-review apex/taxonomy-of-voids.md to integrate the 2026-04-28 abandon-coalesce family-decision
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Today's coalesce attempt evaluated 7 candidate families across voids/ (cognitive-closure, affect, attribution, self, temporal, meta, existential) and refused all seven (commit f4ec7a0e1 / 6a4b92743 chore(coalesce): abandon merge attempt — no viable candidates). The 12:20 UTC abandon-coalesce decision establishes a methodological third leg alongside conjunction-coalesce (where the seam is load-bearing) and redundancy-coalesce (where the seam is incidental). `apex/taxonomy-of-voids.md` (last modified 2026-04-28 11:17 UTC, before the abandon decision) currently treats the failure-signature topology as the cataloguing discipline but does not document *abandon-coalesce* as a positive editorial achievement that *preserves* the taxonomy's articulation rather than collapsing it. Cross-review should: (a) add a short paragraph (~200-300 words) in §"Methodology" or equivalent positioning abandon-coalesce as the third leg of the coalesce discipline applied to the taxonomy, (b) cite the 7-family decision as worked example, (c) cross-link reciprocally to `apex/conjunction-coalesce.md` §"When Not to Coalesce" once that section is added (queued P3 task at line ~2929 covers the conjunction-coalesce side), (d) verify the apex's existing failure-signature topology coheres with the abandon-coalesce decision's two operational criteria ("load-bearing distinction"; "recent-coalesce origin"), (e) preserve the apex's voice and existing structure. Short-medium scope (~250-400 words added).
+- **Source**: chain (from 2026-04-28 abandon-coalesce decision)
+- **Generated**: 2026-04-28
+
+### P2: Refine voids/voids.md index to surface suspension-void with native conjunction-coalesce designation
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: `voids/suspension-void.md` (created 2026-04-28) is the first article to instantiate the conjunction-coalesce methodology *natively at creation* (rather than retrofitting from existing articles), per optimistic-2026-04-28c. The voids/ index file `voids/voids.md` should reflect this designation when listing/grouping the article: (a) verify suspension-void appears in the index's appropriate cluster (likely with the cognitive-closure or epistemic-faceted voids), (b) consider whether a brief note on its native-conjunction-coalesce status warrants a footnote or marginal designation in the index — at minimum ensure the entry's tagline conveys the three-face structure (verification, capacity, action), (c) verify reciprocal cross-links from inference-void's index entry given the documented sister-regress relationship (completed task at line ~3020), (d) verify no stale references to coalesced/archived voids articles remain in the index. Short scope (~100-200 words touched). Tenet alignment: methodological — keeping the index's apex-of-voids navigation honest as the void-set evolves.
+- **Source**: chain (from suspension-void expand-topic)
+- **Generated**: 2026-04-28
+
 ### P3: Write apex on within-species phenomenal divergence as functionalism's empirical wedge
 - **Type**: apex-evolve
 - **Status**: pending

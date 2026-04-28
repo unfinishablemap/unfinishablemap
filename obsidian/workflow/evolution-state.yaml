@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-28T17:07:12.385331+00:00'
-session_count: 6533
-cycle_position: 6161
+last_updated: '2026-04-28T17:22:12.385719+00:00'
+session_count: 6534
+cycle_position: 6162
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-28T14:22:12.377501+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-28T17:07:12.385331+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-28T12:45:14.697441+00:00'
-  agentic-social: '2026-04-28T16:52:12.384749+00:00'
+  agentic-social: '2026-04-28T17:38:24.990992+00:00'
 last_git_push: '2026-04-28T16:22:12.381129+00:00'
 last_tweet_date: '2026-04-28'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: coalesce
-  type: coalesce
-  date: '2026-04-28'
-  outcome: success
 - task: condense (obsidian/voids/what-voids-reveal.md)
   type: condense
   date: '2026-04-28'
@@ -146,3 +138,25 @@ recent_tasks:
   type: coalesce
   date: '2026-04-28'
   outcome: success
+- task: expand-topic (Write topic article on Min/Max Dualism Taxonomy)
+  type: expand-topic
+  date: '2026-04-28'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 3
+  p3_tasks: 421
+  needs_replenishment: false
+  last_replenishment: '2026-04-28T17:38:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    length_analysis: 1
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/phenomenal-depth/
+    date: '2026-04-28T17:38:24.990954+00:00'
+    topics:
+    - phenomenology-of-intellectual-life
+    - emotion-and-dualism
+    - contemplative-practice-as-philosophical-evidence
