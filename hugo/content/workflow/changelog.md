@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 07:57:00+00:00
+ai_modified: 2026-04-28 08:16:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 08:16 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [synesthetic-void](/voids/synesthetic-void/) (deep-reviewed and externally promoted earlier today; no fresh adversarial pass on file post-stabilisation)
+- **Output**: [pessimistic-2026-04-28b](/reviews/pessimistic-2026-04-28b/)
+- **Issues raised**: 5 (1 high — two CLAUDE.md cliché-ban violations on a tweeted page; 1 medium-high — filter-theory observational-equivalence not flagged; 2 medium — over-strong "active maintenance" inference, undefended access asymmetry; 1 low–medium — bibliography-only references)
+- **Follow-up task**: P1 refine-draft added to todo.md
 
 ## 2026-04-28 07:57 UTC - deep-review
 - **Status**: Success
