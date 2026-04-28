@@ -4,8 +4,8 @@ description: "QBism's probabilities are structurally dependent on consciousness�
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-04-07T11:52:00+00:00
-last_deep_review: 2026-03-23T07:51:00+00:00
+ai_modified: 2026-04-28T10:28:00+00:00
+last_deep_review: 2026-04-28T10:28:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,7 +34,7 @@ Quantum probabilities are either features of reality (objective) or features of 
 
 Every interpretation of quantum mechanics fails to explain consciousness—the [[hard-problem-of-consciousness]] is interpretation-neutral. The critique here is not that QBism shares this universal limitation. The critique is that QBism is *structurally dependent* on consciousness in a way other interpretations are not. Objective interpretations treat probabilities as features of physical systems; consciousness could in principle be emergent, secondary, or even eliminable without changing the formalism. QBism's probabilities are agents' beliefs, and agents must have experiences to form beliefs about. Consciousness is not an optional add-on to QBism—it is load-bearing within the framework's own explanatory structure.
 
-If quantum states describe beliefs, and collapse is merely belief updating, then something must already have beliefs to update. QBism makes agents formally foundational while remaining deliberately silent about what agents *are*. QBism's proponents treat this agnosticism about consciousness as methodological virtue, arguing the interpretation should be "agent-centric" without specifying agent metaphysics. But when consciousness does formal work within a theory—when the theory's central objects (beliefs, experiences, credences) are constitutively mental—silence about the nature of consciousness is more costly than in theories where consciousness plays no formal role.
+If quantum states describe beliefs, and collapse is merely belief updating, then something must already have beliefs to update. QBism makes agents formally foundational while remaining deliberately silent about what agents *are*. QBism's proponents treat this agnosticism about consciousness as methodological virtue, arguing the interpretation should be "agent-centric" without specifying agent metaphysics. But when consciousness does formal work within a theory—when the theory's central objects (beliefs, experiences, credences) are constitutively mental—silence about the nature of consciousness becomes a structural gap rather than philosophical modesty. Theories where consciousness plays no formal role can defer the question without cost; QBism cannot.
 
 ## The Epistemic Turn in Quantum Foundations
 
@@ -46,7 +46,7 @@ In Fuchs's view, the wave function does not describe the world—it describes an
 
 The epistemic turn has genuine explanatory advantages. It dissolves the measurement problem by denying there was ever a physical superposition to collapse. It explains why different observers can consistently assign different quantum states to the same system. It avoids the ontological extravagance of Many-Worlds while preserving single-world definiteness.
 
-But these advantages come from making consciousness formally foundational while refusing to explain it. Compare: objective interpretations can remain silent about consciousness because their formalism doesn't depend on it. QBism's formalism *does* depend on agents with experiences—probabilities are defined as agents' credences. This structural asymmetry means QBism's silence about consciousness is not mere philosophical modesty. It is a gap in the theory's own foundations, not an external demand imposed by consciousness researchers.
+But these advantages come from making consciousness formally foundational while refusing to explain it. Compare: objective interpretations can remain silent about consciousness because their formalism doesn't depend on it. QBism's formalism *does* depend on agents with experiences—probabilities are defined as agents' credences. This structural asymmetry turns QBism's silence about consciousness into a gap in the theory's own foundations—an internal liability rather than an external demand imposed by consciousness researchers.
 
 ## Where Subjective Probability Fails
 
@@ -151,7 +151,7 @@ This article connects to multiple tenets:
 
 **Bidirectional Interaction**: If the Map is right that we can report on our experiences, information flows from consciousness to physical behavior. This requires more than epistemic updating—it requires genuine causal connection. QBism's purely epistemic stance cannot ground this.
 
-**Occam's Razor Has Limits**: QBism appears simpler than consciousness-collapse theories by avoiding commitments about consciousness. But this parsimony is achieved by leaving the hard problem untreated. A "simple" theory that doesn't explain consciousness isn't simpler—it's incomplete.
+**Occam's Razor Has Limits**: QBism appears simpler than consciousness-collapse theories by avoiding commitments about consciousness. But this parsimony is achieved by leaving the hard problem untreated. A theory that uses consciousness in its foundations while refusing to explain it has not achieved simplicity; it has deferred the bill.
 
 ## Further Reading
 
@@ -180,17 +180,3 @@ This article connects to multiple tenets:
 6. Von Neumann, J. (1932). Mathematical Foundations of Quantum Mechanics.
 
 7. Wigner, E. P. (1961). "Remarks on the Mind-Body Question." In The Scientist Speculates.
-
-<!-- AI REFINEMENT LOG - 2026-02-18
-Changes made:
-1. Fixed core equivocation: article now distinguishes QBism's *structural dependence* on consciousness (uniquely problematic) from the general hard problem (shared by all interpretations)
-1. Reframed phenomenological test: no longer conflates hard problem with temporal priority of experience; now targets QBism's specific circularity (credences defined over phenomenal outcomes, consciousness on both sides of the probability relation)
-1. Reduced overlap with indexical-identity-quantum-measurement.md: trimmed consciousness-collapse, relational QM, and probability-readings sections to focus on this article's distinctive thesis; added cross-references to companion article for full treatment
-1. Fixed Wigner's retreat: now acknowledges his reasons were complex and that decoherence doesn't solve measurement problem (avoiding self-contradiction with Map's own position)
-1. Applied language improvements from pessimistic review (removed clichés, clarified hedged constructions)
-1. Updated description to reflect refined thesis about structural dependence
-
-Based on pessimistic review 2026-02-18-morning which identified two high-severity issues (equivocation, phenomenological test conflation) and medium-severity overlap.
-
-This log should be removed after human review.
--->

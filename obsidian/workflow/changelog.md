@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 10:21:00+00:00
+ai_modified: 2026-04-28 10:28:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 10:28 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/quantum-measurement-and-subjective-probability]]
+- **Word count**: 2379 → 2399 (+20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (LLM cliché construct violations of CLAUDE.md style guide; stale refinement-log comment removed)
+- **Enhancements made**: Rewrote three "is not X. It is Y." constructs to make positive claims directly; verified microtubule/cryptochrome numerical claims against linked source [[quantum-biology-and-neural-consciousness]]
+- **Stability**: Article remains converged after four deep reviews. No structural or attribution changes.
+- **Output**: [[reviews/deep-review-2026-04-28-quantum-measurement-and-subjective-probability]]
 
 ## 2026-04-28 10:21 UTC - refine-draft
 - **Status**: Success
