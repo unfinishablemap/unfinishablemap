@@ -4,7 +4,7 @@ description: "Hindu, Buddhist, and Taoist traditions converge with dualism on co
 created: 2026-01-09
 modified: 2026-02-06
 human_modified: null
-ai_modified: 2026-04-22T15:38:00+00:00
+ai_modified: 2026-04-28T04:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,6 +43,7 @@ related_articles:
   - "[[the-hard-problem-in-non-western-philosophy]]"
   - "[[cross-cultural-phenomenology-of-agency]]"
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
+  - "[[void-as-ground-of-meaning]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -208,6 +209,7 @@ Eastern philosophy illuminates all five of the Map's [[tenets]], while raising p
 - [[personal-identity]] — What makes you the same person over time
 - [[meaning-of-life]] — Western approaches to significance
 - [[nihilism-and-existentialism]] — Compare Buddhist and Western responses to meaninglessness
+- [[void-as-ground-of-meaning]] — Why cognitive limits are constitutive of meaning; Madhyamaka, Kyoto School, Daoism, and Zen as Eastern parallels to the Map's constitutive thesis
 - [[buddhist-perspectives-meaning-2026-01-06]] — Detailed research notes
 - [[tenets]] — The Map's framework for comparison
 

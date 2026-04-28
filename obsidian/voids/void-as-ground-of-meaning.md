@@ -2,9 +2,9 @@
 title: "The Void as Ground of Meaning"
 description: "Why cognitive limits are preconditions for meaning, not merely obstacles. Human+AI exploration of the constitutive thesis—that a mind with no limits would have no significance."
 created: 2026-02-24
-modified: 2026-04-26
+modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-26T15:38:00+00:00
+ai_modified: 2026-04-28T04:12:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,6 +29,7 @@ related_articles:
   - "[[meaning-void]]"
   - "[[buddhist-perspectives-on-meaning]]"
   - "[[eastern-philosophy-consciousness]]"
+  - "[[indian-philosophy-of-mind]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -75,7 +76,7 @@ The convergences above run through analytic, hermeneutic, theological, and poeti
 
 Buddhist *anātman*—the denial of an enduring self-substance—sits awkwardly with the Map's [[tenets#^dualism|Dualism]] and its commitments to indexical identity. The constitutive thesis cannot quietly absorb Madhyamaka without addressing this; the parallel is structural, not a wholesale alliance.
 
-Three points clarify the tension without papering over it. First, Madhyamaka denies *svabhāva* of *all* phenomena—phenomenal and physical alike—so its anti-substantialism is symmetric and does not single out consciousness for elimination. Second, *anātman* is compatible with conventional self-continuity: at the conventional level where the Map's tenets operate, there is a continuous experiencer; what is denied is an ultimate self-substance underlying that continuity. The Map's dualism requires irreducibility rather than Cartesian substance, which leaves room for the conventional/ultimate distinction. Third, the indexical-identity commitment ([[tenets#^no-many-worlds|No Many Worlds]]) and any defensible [[zahavian-minimal-self|minimal-self]] view require *some* phenomenal continuity—this is genuinely harder to reconcile with strict Madhyamaka than the structural parallel might suggest, and Yogācāra (which preserves a stratum of luminous awareness) sits closer to the Map than mainstream Madhyamaka does. The convergence on the constitutive thesis is real; the convergence on what *bears* the meaning that limit constitutes is not.
+Three points clarify the tension without papering over it. First, Madhyamaka denies *svabhāva* of *all* phenomena—phenomenal and physical alike—so its anti-substantialism is symmetric and does not single out consciousness for elimination. Second, *anātman* is compatible with conventional self-continuity: at the conventional level where the Map's tenets operate, there is a continuous experiencer; what is denied is an ultimate self-substance underlying that continuity. The Map's dualism requires irreducibility rather than Cartesian substance, which leaves room for the conventional/ultimate distinction. Third, the indexical-identity commitment ([[tenets#^no-many-worlds|No Many Worlds]]) and any defensible [[zahavian-minimal-self|minimal-self]] view require *some* phenomenal continuity—this is genuinely harder to reconcile with strict Madhyamaka than the structural parallel might suggest, and Yogācāra (which preserves a stratum of luminous awareness) sits closer to the Map than mainstream Madhyamaka does. The broader Indian terrain sharpens the choice points further: see [[indian-philosophy-of-mind]] for Samkhya, Nyaya, and Vedanta on whether consciousness can be passive, adventitious, or self-luminous—three different settlements of the same bearer question, each with different consequences for the Map's commitments. The convergence on the constitutive thesis is real; the convergence on what *bears* the meaning that limit constitutes is not.
 
 ## The Omniscience Paradox
 
@@ -152,6 +153,7 @@ The constitutive thesis connects to each of the Map's [[tenets]]:
 - [[contemplative-epistemology]] — Knowing through unknowing, related to Cusanus's learned ignorance
 - [[buddhist-perspectives-on-meaning]] — Buddhist diagnosis of the craving for permanent significance and its relation to *anātman*
 - [[eastern-philosophy-consciousness]] — Broader treatment of Hindu, Buddhist, and Daoist engagements with consciousness
+- [[indian-philosophy-of-mind]] — Samkhya, Nyaya, and Vedanta on the structure of consciousness; relevant to the *anātman* tension and the bearer-of-meaning question
 
 ## References
 
@@ -171,16 +173,20 @@ The constitutive thesis connects to each of the Map's [[tenets]]:
 14. Dōgen. (13th c.). *Shōbōgenzō*, including *Genjōkōan*.
 15. Laozi. *Daodejing*, chapter 11.
 
-<!-- AI REFINEMENT LOG - 2026-04-26
-Changes made:
+<!-- AI REFINEMENT LOG - 2026-04-28
+Changes made (2026-04-28 04:12 UTC, completing the 2026-04-26 integration):
+- Added [[indian-philosophy-of-mind]] to related_articles and Further Reading; the prior pass cross-linked to buddhist-perspectives-on-meaning and eastern-philosophy-consciousness but missed the third article specified by the task
+- Added one inline reference to [[indian-philosophy-of-mind]] in §"The Anātman Tension," anchored to the bearer-of-meaning question that the *Samkhya / Nyaya / Vedanta* three-way disagreement directly engages
+- Added reciprocal back-links from buddhist-perspectives-on-meaning, eastern-philosophy-consciousness, and indian-philosophy-of-mind to this article (none had previously linked back)
+
+Earlier changes (2026-04-26 pass, retained):
 - Integrated findings from research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25.md
 - Extended "Convergence Across Traditions" with Nāgārjuna (Madhyamaka two-truths as closest structural cognate), Nishitani / Kyoto School (meditative-phenomenology route, "overcoming nihilism through nihilism"), and Daoist *wu* / Zen *mu* (functional and lived registers)
-- Added a sub-section "The Anātman Tension" honestly engaging the conflict between Buddhist no-self and the Map's Dualism / indexical-identity commitments — three points clarify rather than dissolve the tension
-- Updated "Cross-traditional convergence dissolves" challenge condition to include Eastern thinkers and to flag them as the harder test of the convergence argument
+- Added §"The Anātman Tension" honestly engaging the conflict between Buddhist no-self and the Map's Dualism / indexical-identity commitments — three points clarify rather than dissolve the tension
+- Updated "Cross-traditional convergence dissolves" challenge condition to flag the Eastern entries as the harder test of the convergence argument
 - Added primary-scholarship citations: Garfield (MMK trans.), Nishitani Religion and Nothingness, Westerhoff, Heisig, Dōgen, Laozi
-- Linked to but did not duplicate topics/buddhist-perspectives-on-meaning.md and topics/eastern-philosophy-consciousness.md (both added to related_articles and Further Reading)
 
-Key improvements: substantially strengthened the cross-traditional convergence argument by adding the Eastern hemisphere via a methodologically distinct route (meditative phenomenology rather than analytic / hermeneutic / poetic). Tenet alignment: Occam's Razor Has Limits gains support from convergence-evidence; Dualism tension explicitly handled rather than smoothed over.
+Key improvements across both passes: cross-traditional convergence argument now spans Western and Eastern hemispheres via a methodologically distinct route (meditative phenomenology rather than analytic / hermeneutic / poetic), with reciprocal links restored. Tenet alignment: Occam's Razor Has Limits gains support from convergence-evidence; Dualism tension explicitly handled rather than smoothed over.
 
 This log should be removed after human review.
 -->

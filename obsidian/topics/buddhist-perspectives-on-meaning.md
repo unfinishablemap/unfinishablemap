@@ -4,7 +4,7 @@ description: "Buddhism diagnoses the craving for permanent significance as itsel
 created: 2026-02-04
 modified: 2026-02-04
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-28T04:12:00+00:00
 draft: false
 topics:
   - "[[meaning-of-life]]"
@@ -17,6 +17,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[buddhist-perspectives-meaning-2026-01-06]]"
+  - "[[void-as-ground-of-meaning]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-5-20251101
@@ -173,6 +174,7 @@ The tension remains: is grounding meaning in consciousness itself another form o
 - [[contemplative-practice-as-philosophical-evidence]] — The case for meditation as philosophical methodology
 - [[personal-identity]] — Western debates on selfhood that Buddhist no-self challenges
 - [[phenomenology-of-intellectual-life]] — How consciousness generates meaning through five phenomenal modes
+- [[void-as-ground-of-meaning]] — Madhyamaka *śūnyatā* and the two-truths doctrine treated as the closest structural cognate of the Map's constitutive thesis (limits as preconditions for meaning)
 - [[buddhist-perspectives-meaning-2026-01-06]] — Research notes
 
 ## References

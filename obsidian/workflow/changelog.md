@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 03:58:00+00:00
+ai_modified: 2026-04-28 04:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 04:12 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/void-as-ground-of-meaning]]
+- **Changes**: Completed the 2026-04-26 Buddhist/Eastern integration by adding the third specified cross-link ([[indian-philosophy-of-mind]]) — to related_articles, Further Reading, and one inline anchor in §"The Anātman Tension" (the bearer-of-meaning question that the *Samkhya / Nyaya / Vedanta* three-way disagreement directly engages). Restored reciprocal back-links from [[topics/buddhist-perspectives-on-meaning]], [[topics/eastern-philosophy-consciousness]], and [[topics/indian-philosophy-of-mind]] (none had previously linked back). Refinement log consolidated.
+- **Published**: yes
 
 ## 2026-04-28 03:58 UTC - condense
 - **Status**: Success
