@@ -23,7 +23,7 @@ related_articles:
   - "[[thoughts-that-slip-away]]"
   - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[attention-and-the-consciousness-interface]]"
   - "[[structure-of-attention]]"
@@ -143,7 +143,7 @@ The disorder-based claim would be challenged if neuroscience found markers of co
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[contemplative-pathology-and-interface-malfunction]] — What happens when meditation pushes the interface beyond its limits
 - [[three-kinds-of-void]] — The taxonomy of unknowable territories
-- [[limits-reveal-structure|What the Limits Reveal]] — How cognitive limits illuminate architecture
+- [[what-voids-reveal|What the Limits Reveal]] — How cognitive limits illuminate architecture
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Whether AI and alien minds can probe human-specific voids
 - [[clinical-phenomenology-and-altered-experience]] — How mental illness reveals the structure of experience
 - [[consciousness-and-neurodegenerative-disease]] — Progressive interface erosion

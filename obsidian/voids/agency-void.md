@@ -35,7 +35,7 @@ related_articles:
   - "[[tacit-integration-void]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[tenet-generated-voids]]"
   - "[[sleep-consciousness-void]]"
   - "[[disappearance-voids]]"
@@ -91,7 +91,7 @@ The clinical sister case is the [[erasure-void]]: in anosognosia and certain del
 
 ### Reflexive Self-Stultification
 
-The same structure catches this article's own argument: the claim "consciousness cannot verify its own causation" is itself a verification claim made by consciousness. The Map accepts this as part of the void's signature—a structural limit on self-verification *should* apply reflexively, and the meta-claim is third-person-supportable: its evidence is the cross-study circularity pattern and the structural argument, not introspection (cf. [[meta-epistemology-of-limits]]). A critic will say the reflexive application shows the framing incoherent; the disagreement is bedrock, of the kind catalogued by [[limits-reveal-structure|self-maintained cognitive limits]]. The reflexive structure is a feature of the territory, not a flaw in the map of it.
+The same structure catches this article's own argument: the claim "consciousness cannot verify its own causation" is itself a verification claim made by consciousness. The Map accepts this as part of the void's signature—a structural limit on self-verification *should* apply reflexively, and the meta-claim is third-person-supportable: its evidence is the cross-study circularity pattern and the structural argument, not introspection (cf. [[meta-epistemology-of-limits]]). A critic will say the reflexive application shows the framing incoherent; the disagreement is bedrock, of the kind catalogued by [[self-maintained-cognitive-limits|self-maintained cognitive limits]]. The reflexive structure is a feature of the territory, not a flaw in the map of it.
 
 ## Five Layers of the Verification Void
 

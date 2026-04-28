@@ -19,7 +19,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[formal-cognitive-limits]]"
   - "[[biological-cognitive-closure]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[ethics-of-cognitive-enhancement-under-dualism]]"
@@ -115,7 +115,7 @@ The contrast between human and artificial self-modification illuminates whether 
 - [[formal-cognitive-limits|Formal Cognitive Limits]] — Gödel's shadow on self-knowledge
 - [[biological-cognitive-closure|The Architecture of Cognitive Closure]] — Bounded concept spaces, developmental pruning, and cross-cultural evidence for species-level constraints
 - [[self-opacity|The Phenomenology of Self-Awareness]] — What self-reference feels like from inside
-- [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
+- [[what-voids-reveal|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Can we know our own limits from within?
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Different architectures, different blind spots
 - [[ethics-of-cognitive-enhancement-under-dualism|Cognitive Enhancement Under Dualism]] — Enhancement modifies the interface, not consciousness

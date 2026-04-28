@@ -29,7 +29,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[mysterianism-cognitive-closure-2026-01-14]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[intrinsic-nature-void]]"
   - "[[origin-of-consciousness]]"
   - "[[meta-epistemology-of-limits]]"
@@ -122,7 +122,7 @@ McGinn argues theoretically that certain properties lie beyond our conceptual re
 
 ## What the Limits Reveal
 
-The *shape* of our limitations reveals the *structure* of our minds—what we cannot think is as informative about cognitive architecture as what we can. That evolution produced beings who can ask "what can't I think?" is a datum requiring explanation. See [[limits-reveal-structure]] for extended treatment.
+The *shape* of our limitations reveals the *structure* of our minds—what we cannot think is as informative about cognitive architecture as what we can. That evolution produced beings who can ask "what can't I think?" is a datum requiring explanation. See [[what-voids-reveal]] for extended treatment.
 
 This transforms mysterianism from pessimism into method. By mapping *where* thought systematically fails, we trace the shape of human cognition itself. For the Map's [[voids]] framework, mapping void territory (the unthinkable) becomes a way of mapping mind territory (the thinker).
 
@@ -193,7 +193,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [[epistemology-of-limit-knowledge]] — How knowledge about unreachable territory can be warranted
 - [[meta-epistemology-of-limits]] — The meta-level question: how can we know our limits?
 - [[closure-types-void]] — Representational vs psychological closure, and the void behind the distinction
-- [[limits-reveal-structure]] — How cognitive limits reveal cognitive architecture
+- [[what-voids-reveal]] — How cognitive limits reveal cognitive architecture
 - [[phenomenology-of-the-edge]] — What cognitive closure feels like from the inside
 - [[hard-problem-of-consciousness]] — The problem mysterians think is unsolvable
 - [[explanatory-gap]] — The conceptual gap that may reflect cognitive closure

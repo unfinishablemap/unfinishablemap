@@ -51,11 +51,11 @@ None.
 - Added contemplative traditions to convergence evidence
 - Added "What Would Challenge This View?" section
 - Expanded Further Reading with descriptive annotations
-- Added cross-links: [consciousness-and-testimony](/topics/consciousness-and-testimony/), [limits-reveal-structure](/voids/limits-reveal-structure/), [necessary-opacity](/voids/necessary-opacity/), [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
+- Added cross-links: [consciousness-and-testimony](/topics/consciousness-and-testimony/), [limits-reveal-structure](/voids/what-voids-reveal/), [necessary-opacity](/voids/necessary-opacity/), [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/)
 
 ### Cross-links Added
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — testimony and the translation gap
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — self-concealment as cognitive limit illuminating structure
+- [limits-reveal-structure](/voids/what-voids-reveal/) — self-concealment as cognitive limit illuminating structure
 - [necessary-opacity](/voids/necessary-opacity/) — observation destroying the phenomenon
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — collective experience and genuine sharing
 

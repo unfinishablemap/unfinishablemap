@@ -164,7 +164,7 @@ After all five responses, the decoherence objection retains force only in this n
 
 [Whitehead's process philosophy](/concepts/process-philosophy/) offers a complementary framework where experience pervades reality at every level. On this view, the question shifts from "can quantum effects survive long enough?" to "how do micro-experiences combine into unified consciousness?"—the [combination-problem](/concepts/combination-problem/) replaces the decoherence problem. This provides metaphysical resilience against the decoherence objection independent of specific timescales.
 
-[McGinn's cognitive closure](/concepts/mysterianism/) thesis adds a caveat: we may lack the conceptual resources to fully grasp how consciousness relates to quantum processes. This doesn't undermine the logical structure of the decoherence debate, but limits claims to complete understanding of *why* consciousness would interact with quantum processes. See [limits-reveal-structure](/voids/limits-reveal-structure/) for why encountering cognitive limits is itself informative.
+[McGinn's cognitive closure](/concepts/mysterianism/) thesis adds a caveat: we may lack the conceptual resources to fully grasp how consciousness relates to quantum processes. This doesn't undermine the logical structure of the decoherence debate, but limits claims to complete understanding of *why* consciousness would interact with quantum processes. See [what-voids-reveal](/voids/what-voids-reveal/) for why encountering cognitive limits is itself informative.
 
 ## What Would Challenge This View?
 

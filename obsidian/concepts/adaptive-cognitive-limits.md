@@ -19,7 +19,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[compound-failure-signatures]]"
   - "[[perceptual-degradation-and-the-interface]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6

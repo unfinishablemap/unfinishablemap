@@ -55,7 +55,7 @@ No new counterarguments beyond those noted in the first review. The article's fo
 - [topology-of-cognitive-failure](/voids/compound-failure-signatures/) — Added to Further Reading + related_articles
 - [compound-cognitive-limits](/voids/compound-failure-signatures/) — Added to Further Reading + related_articles
 - [apophatic-cartography](/voids/apophatic-cartography/) — Added to Further Reading + related_articles
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — Added to Further Reading + related_articles
+- [limits-reveal-structure](/voids/what-voids-reveal/) — Added to Further Reading + related_articles
 
 ## Remaining Items
 None. The article is now well-integrated into the voids network.

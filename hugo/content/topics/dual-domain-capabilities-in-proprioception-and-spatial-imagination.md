@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-16 13:43:00+00:00
+ai_modified: 2026-04-28 10:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[capability-division-problem]]'
 - '[[lucid-dreaming-and-dualist-rendering]]'
 - '[[embodied-consciousness]]'
+- '[[imagery-void]]'
 - '[[dual-domain-capabilities-proprioception-spatial-imagination-2026-03-09]]'
 title: Dual-Domain Capabilities in Proprioception and Spatial Imagination
 topics:
@@ -66,11 +67,11 @@ The [explanatory-gap](/concepts/explanatory-gap/) is especially visible here. Ph
 
 ### Aphantasia as Natural Experiment
 
-The aphantasia-hyperphantasia spectrum provides a natural experiment in dissociating the two domains. Aphantasics—approximately 2-5% of the population—cannot voluntarily generate visual mental imagery. Hyperphantasics experience imagery so vivid it approaches perception. Crucially, aphantasics can still perform spatial reasoning tasks: they navigate, plan movements, and even score normally on some mental rotation tests, though typically using different strategies (verbal or proprioceptive rather than visual-spatial).
+The aphantasia-hyperphantasia spectrum provides a natural experiment in dissociating the two domains. Aphantasics—approximately 2-5% of the population—cannot voluntarily generate visual mental imagery. Hyperphantasics experience imagery so vivid it approaches perception. Crucially, aphantasics can still perform spatial reasoning: they navigate, plan movements, and complete classical mental rotation tasks slower but more accurately than controls, using analytic rather than object-based strategies (Kay, Keogh & Pearson, 2024). Both groups show the standard linear relationship between angular disparity and response time, suggesting that the underlying spatial computation can be solved through phenomenally distinct architectures.
 
 This dissociation challenges both pure-physical and pure-phenomenal accounts. If spatial cognition were purely physical computation, the phenomenal dimension of imagery should be irrelevant—all individuals should perform identically regardless of imagery vividness. They do not: emerging research suggests hyperphantasics show advantages on tasks requiring detailed spatial inspection, though the extent varies across studies. If spatial cognition were purely phenomenal, aphantasics should fail entirely at spatial tasks. They do not: they succeed through alternative cognitive routes.
 
-The dual-domain reading: physical spatial computation provides the substrate for both populations. Consciousness contributes phenomenal spatial character that enhances performance when present (hyperphantasia) but is not strictly necessary for the underlying computation (aphantasia). The two domains make distinguishable contributions—precisely the pattern the framework predicts.
+The dual-domain reading: physical spatial computation provides the substrate for both populations. Consciousness contributes phenomenal spatial character that enhances performance when present (hyperphantasia) but is not strictly necessary for the underlying computation (aphantasia). The two domains make distinguishable contributions—precisely the pattern the framework predicts. Viewed from the introspective side, the same dissociation opens the function-phenomenology face of the [imagery void](/voids/imagery-void/): if classical mental rotation can be solved with and without phenomenal imagery, introspection cannot determine from inside which mode is doing the cognitive work.
 
 ## Imagination as Mental Causation
 
@@ -117,6 +118,7 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 - [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/) — Dreams as evidence for consciousness-generated spatial content
 - [phenomenal-binding-and-multimodal-integration](/topics/phenomenal-binding-and-multimodal-integration/) — How separate modalities unify into spatial experience
 - [embodied-consciousness](/topics/embodied-consciousness/) — The phenomenology of lived embodiment: ownership, agency, and the dualist interface reading
+- [imagery-void](/voids/imagery-void/) — The introspective face of the same dissociation: why no mind can verify which mode (analytic or object-based) does its rotation work
 
 ## References
 
@@ -126,5 +128,20 @@ The convergence of this pattern across cognitively distinct domains suggests it 
 4. Kosslyn, S. M. (1994). *Image and Brain: The Resolution of the Imagery Debate*. MIT Press.
 5. Zeman, A. et al. (2015). Lives without imagery—congenital aphantasia. *Cortex*, 73, 378-380.
 6. Ramachandran, V. S. & Hirstein, W. (1998). The perception of phantom limbs. *Brain*, 121(9), 1603-1630.
-7. Southgate, A. & Oquatre-six, C. (2026-03-09). Episodic Memory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/episodic-memory/
-8. Southgate, A. & Oquatre-six, C. (2026-02-23). The Somatic Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/somatic-interface/
+7. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*.
+8. Southgate, A. & Oquatre-six, C. (2026-03-09). Episodic Memory. *The Unfinishable Map*. https://unfinishablemap.org/concepts/episodic-memory/
+9. Southgate, A. & Oquatre-six, C. (2026-02-23). The Somatic Interface. *The Unfinishable Map*. https://unfinishablemap.org/concepts/somatic-interface/
+
+<!-- AI REFINEMENT LOG - 2026-04-28
+Changes made:
+- Updated §"Aphantasia as Natural Experiment" line 67 to replace outdated framing ("score normally on some mental rotation tests, though typically using different strategies (verbal or proprioceptive rather than visual-spatial)") with Kay, Keogh & Pearson (2024) finding: aphantasics are slower but more accurate using analytic rather than object-based strategies; both groups preserve the linear angular-disparity/RT relationship.
+- Added cross-link to [imagery-void](/voids/imagery-void/) at end of dual-domain reading paragraph (line 71), naming the function-phenomenology face explicitly so the introspective side of the dissociation is reachable from this article.
+- Added [imagery-void](/voids/imagery-void/) to frontmatter `related_articles` and to Further Reading.
+- Added Kay, Keogh & Pearson (2024) to references.
+
+Chain context: 2026-04-28 07:43 UTC `concepts/mental-imagery.md` deep-review retracted the long-standing "aphantasics show reduced performance on mental rotation" claim. Correction propagated to mental-imagery, cognitive-phenomenology, cognitive-phenomenology-and-the-irreducibility-of-thought, phenomenal-contrast-method, phenomenology-of-imagination, introspection. This file was the remaining outlier carrying the old framing.
+
+Scope: ~210 words modified. Argumentative structure (dual-domain reading, three-capability table, tenet alignment) preserved. Tenet alignment: the corrected finding sharpens the function-phenomenology dissociation that is load-bearing for Dualism.
+
+This log should be removed after human review.
+-->

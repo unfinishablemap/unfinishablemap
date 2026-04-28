@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-28T10:43:43.693605+00:00'
-session_count: 6508
-cycle_position: 6136
+last_updated: '2026-04-28T10:58:43.694026+00:00'
+session_count: 6509
+cycle_position: 6137
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-28T08:12:52.969891+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-04-28T10:28:43.693308+00:00'
   tune-system: '2026-04-27T12:28:18.956955+00:00'
   research-voids: '2026-04-28T00:42:52.957817+00:00'
-  coalesce: '2026-04-28T06:12:52.966651+00:00'
+  coalesce: '2026-04-28T10:58:43.694026+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-27T12:28:18.956955+00:00'
   agentic-social: '2026-04-28T10:43:43.693605+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/topics/consciousness-and-the-metaphysics-)
-  type: condense
-  date: '2026-04-28'
-  outcome: success
 - task: coalesce
   type: coalesce
   date: '2026-04-28'
@@ -143,5 +139,9 @@ recent_tasks:
   outcome: success
 - task: apex-evolve (Resolve function-phenomenology taxonomic placement)
   type: apex-evolve
+  date: '2026-04-28'
+  outcome: success
+- task: coalesce
+  type: coalesce
   date: '2026-04-28'
   outcome: success

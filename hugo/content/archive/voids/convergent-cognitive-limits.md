@@ -130,7 +130,7 @@ The convergent limits framework would be weakened if:
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Adaptive Cognitive Limits](/concepts/adaptive-cognitive-limits/) — Why some limits are evolutionary features, not defects
 - [Collective Cognitive Limits](/voids/collective-cognitive-limits/) — How groups have limits beyond individuals
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How limitation illuminates architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How limitation illuminates architecture
 - [Topology of Cognitive Failure](/voids/compound-failure-signatures/) — How different limit types produce different phenomenology
 - [Cognitive Aversion](/voids/defended-territory/) — Motivational deflection that steers thought from certain territories
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion for void-mapping

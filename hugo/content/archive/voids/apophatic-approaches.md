@@ -70,7 +70,7 @@ This is not supernatural mysticism. McGinn's position is that consciousness is a
 
 McGinn extends cognitive closure beyond consciousness: personal identity, meaning, knowledge itself may all be "perimeter of our conceptual anatomy making itself felt." This aligns with Chomsky's distinction between "problems" (questions our minds are equipped to solve) and "mysteries" (questions that exceed our cognitive architecture).
 
-For the voids project, McGinn's work suggests that some voids are not merely unexplored but unexplorable—at least for minds structured like ours. The [unexplorable voids](/voids/#the-unexplorable) hypothesis gains support from evolutionary considerations: there is no reason to expect that minds evolved for survival on the African savanna would have access to all truths about the nature of reality. The voids framework develops this insight further: [cognitive limits reveal cognitive architecture](/voids/limits-reveal-structure/), and we can ask [whether these limits are permanent](/voids/meta-epistemology-of-limits/) even if the answer may be undecidable from within.
+For the voids project, McGinn's work suggests that some voids are not merely unexplored but unexplorable—at least for minds structured like ours. The [unexplorable voids](/voids/#the-unexplorable) hypothesis gains support from evolutionary considerations: there is no reason to expect that minds evolved for survival on the African savanna would have access to all truths about the nature of reality. The voids framework develops this insight further: [cognitive limits reveal cognitive architecture](/voids/what-voids-reveal/), and we can ask [whether these limits are permanent](/voids/meta-epistemology-of-limits/) even if the answer may be undecidable from within.
 
 ## Approaching the Edge
 
@@ -164,7 +164,7 @@ The goal is not to fill the voids with speculation but to know more precisely wh
 - [Voids in the Map](/voids/) — The broader context for this investigation
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — A concrete instance of the explanatory gap
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate cognitive architecture
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
 - [The Silence Void](/voids/the-silence-void/) — Where even negation must cease: the territory beyond apophatic method

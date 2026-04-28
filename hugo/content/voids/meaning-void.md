@@ -32,7 +32,7 @@ related_articles:
 - '[[imagination-and-creativity-void]]'
 - '[[intrinsic-nature-void]]'
 - '[[three-kinds-of-void]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[compound-failure-signatures]]'
 - '[[language-thought-boundary]]'
 - '[[consciousness-only-territories]]'
@@ -165,7 +165,7 @@ The meaning void also exemplifies the [constitutive thesis](/voids/void-as-groun
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where the sayable diverges from the thinkable
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [what-voids-reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and structural limits on knowledge
 - [intentionality](/concepts/intentionality/) — The concept and competing philosophical accounts
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The felt character of thinking and understanding

@@ -20,7 +20,7 @@ related_articles:
   - "[[epistemological-limits-occams-razor]]"
   - "[[compound-failure-signatures]]"
   - "[[apophatic-cartography]]"
-  - "[[voids-as-evidence]]"
+  - "[[what-voids-reveal]]"
   - "[[closure-types-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[question-formation-void]]"
@@ -46,7 +46,7 @@ This is the shape of the epistemic horizon void: not a denial that we know anyth
 
 ## Formal and Empirical Convergence
 
-Several independent lines of argument converge on the horizon claim, which matters because convergence across different methods is [[voids-as-evidence|evidence]] that the void reflects a real feature of cognition rather than an artefact of any one framework.
+Several independent lines of argument converge on the horizon claim, which matters because convergence across different methods is [[what-voids-reveal|evidence]] that the void reflects a real feature of cognition rather than an artefact of any one framework.
 
 **Fitch's paradox of knowability** (Fitch 1963; Church's earlier 1945 referee report contained the proof) shows formally that if any truth is unknown, then the proposition "this truth is unknown" cannot itself be known. Knowing the conjunction "p and p is unknown" would make p known, falsifying the conjunction. The load-bearing qualifier matters: unless a knower knows everything, there will always be truths by their very nature unknowable to that knower. The result implies not that we know nothing but that any finite knower has unknowable unknowns whose *extent* cannot be mapped without contradiction.
 
@@ -103,7 +103,7 @@ The void does not rule out confident first-order knowledge. We can still know th
 - [[epistemological-limits-occams-razor]]
 - [[compound-failure-signatures]]
 - [[apophatic-cartography]]
-- [[voids-as-evidence]]
+- [[what-voids-reveal]]
 - [[closure-types-void]]
 - [[biological-cognitive-closure]]
 

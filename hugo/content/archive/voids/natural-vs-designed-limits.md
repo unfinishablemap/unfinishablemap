@@ -108,7 +108,7 @@ Despite the detection problem, we can articulate what we would look for—condit
 
 *If* we could reliably distinguish natural from designed limits, the implications would be profound.
 
-If cognitive limits are natural, they reveal structure. The Map's approach—using [limits to illuminate architecture](/voids/limits-reveal-structure/)—would make sense. Mapping what we cannot think would teach us about what we are.
+If cognitive limits are natural, they reveal structure. The Map's approach—using [limits to illuminate architecture](/voids/what-voids-reveal/)—would make sense. Mapping what we cannot think would teach us about what we are.
 
 If cognitive limits are designed, they reveal purpose. The question becomes: whose purpose? To what end? The limits wouldn't just mark what minds like ours cannot grasp; they would mark what someone didn't want minds like ours to grasp. The voids would be intentional silences rather than architectural absences.
 
@@ -147,7 +147,7 @@ Note that this recursive challenge applies equally to philosophical positions ab
 - [Voids in the Map](/voids/) — The framework for investigating cognitive limits
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Questioning whether cognitive limits are genuine
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some thoughts be actively blocked?
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level constraints
 - [Simulation Hypothesis](/concepts/simulation/) — The scenario that sharpens the design question
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's framework for structural limits

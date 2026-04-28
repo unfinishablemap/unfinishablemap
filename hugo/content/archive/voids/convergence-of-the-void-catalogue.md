@@ -141,7 +141,7 @@ The convergence analysis connects to each of the Map's [tenets](/tenets/).
 - [voids](/voids/) — The catalogue being analysed
 - [evidential-weight-of-voids](/voids/convergence-as-evidence/) — Whether void clustering constitutes evidence for dualism
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — The failure signature taxonomy underlying family identification
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How cognitive limits illuminate cognitive architecture
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids the Map's own commitments generate
 - [apophatic-cartography](/voids/apophatic-cartography/) — The method validated by convergence
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded

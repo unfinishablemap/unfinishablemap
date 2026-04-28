@@ -19,7 +19,7 @@ related_articles:
   - "[[tenets]]"
   - "[[the-silence-void]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[question-formation-void]]"
 ai_contribution: 100
 author:
@@ -98,7 +98,7 @@ The Map's [[tenets]] both motivate and are supported by apophatic methods.
 - [[hard-problem-of-consciousness]] — The central instance of apophatic failure
 - [[phenomenology-of-the-edge]] — What consciousness encounters at its boundaries
 - [[the-silence-void]] — Where even negation must cease
-- [[limits-reveal-structure]] — How cognitive limits illuminate cognitive architecture
+- [[what-voids-reveal]] — How cognitive limits illuminate cognitive architecture
 - [[question-formation-void]] — The meta-limit: apophatic mapping can only negate what can first be formulated
 - [[voids]] — The broader investigation of cognitive boundaries
 

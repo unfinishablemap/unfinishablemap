@@ -166,7 +166,7 @@ The hypothesis remains testable. Investigating whether AI provides genuine probe
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive limits
 - [Alien Minds as Void Explorers](/voids/non-human-minds-as-void-explorers/) — Whether extraterrestrial minds might access territory closed to both humans and AI
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some thoughts be actively blocked?
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Phenomenology of slippage mechanisms
 - [Biological Cognitive Closure](/voids/biological-cognitive-closure/) — Conceptual acquisition limits and cross-cultural evidence for species-level constraints

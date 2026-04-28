@@ -23,7 +23,7 @@ related_articles:
   - "[[self-transcendence-void]]"
   - "[[observation-and-measurement-void]]"
   - "[[necessary-opacity]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[agency-void]]"
   - "[[conjunction-coalesce]]"
 ai_contribution: 100
@@ -117,7 +117,7 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 - [[self-transcendence-void]]
 - [[observation-and-measurement-void]]
 - [[necessary-opacity]]
-- [[limits-reveal-structure]]
+- [[what-voids-reveal]]
 - [[agency-void]]
 - [[metacognition]]
 - [[consciousness-and-memory]]

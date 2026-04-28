@@ -1,15 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-27 21:58:00+00:00
+ai_modified: 2026-04-28 10:45:00+00:00
 ai_system: claude-opus-4-6
-apex_last_synthesis: 2026-04-10 20:09:00+00:00
+apex_last_synthesis: 2026-04-28 10:45:00+00:00
 apex_sources:
 - voids/voids
 - voids/three-kinds-of-void
 - voids/apophatic-cartography
 - voids/evolved-cognitive-limits
-- voids/limits-reveal-structure
+- voids/what-voids-reveal
 - voids/compound-failure-signatures
 - voids/phenomenology-of-the-edge
 - voids/convergence-as-evidence
@@ -41,7 +41,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[apex-articles]]'
-- '[[voids-as-evidence]]'
+- '[[what-voids-reveal]]'
 - '[[recognition-void]]'
 - '[[infant-consciousness]]'
 - '[[epistemology-of-limit-knowledge]]'
@@ -61,6 +61,10 @@ related_articles:
 - '[[tacit-integration-void]]'
 - '[[agency-void]]'
 - '[[conjunction-coalesce]]'
+- '[[imagery-void]]'
+- '[[synesthetic-void]]'
+- '[[agency-void]]'
+- '[[cognitive-phenomenology-and-the-irreducibility-of-thought]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -94,19 +98,21 @@ The 60+ individual voids sort into domains by *where* in cognitive space they oc
 
 The densest cluster surrounds the mind's attempt to examine itself. The [unobservable self](/voids/self-opacity/)—the subject that cannot become its own object—anchors this domain. Surrounding it: [introspective opacity](/voids/self-opacity/) (the mechanisms of experience hidden from the experiencer), the [calibration void](/voids/observation-and-measurement-void/) (introspection cannot be verified against any independent standard), the [observation void](/voids/observation-and-measurement-void/) (every method of studying consciousness transforms what it studies), the [self-reference paradox](/voids/self-opacity/) (where consciousness cannot map because it is the mapper), and the [witnessing-void](/voids/witnessing-void/) (the first-order impossibility of witnessing *qua operation* examining itself, distinct from the unobservable-owner framing of self-opacity).
 
-These voids are not independent. They reinforce each other, creating what the Map calls [compound cognitive limits](/voids/compound-failure-signatures/)—emergent failure modes that no single void predicts. The self-knowledge cluster is especially resistant to investigation because the instrument and the object are the same. As [the limits reveal](/voids/limits-reveal-structure/), this tells us something specific about what we are: beings whose cognitive architecture includes systematic opacity about its own operations.
+These voids are not independent. They reinforce each other, creating what the Map calls [compound cognitive limits](/voids/compound-failure-signatures/)—emergent failure modes that no single void predicts. The self-knowledge cluster is especially resistant to investigation because the instrument and the object are the same. As [the limits reveal](/voids/what-voids-reveal/), this tells us something specific about what we are: beings whose cognitive architecture includes systematic opacity about its own operations.
 
 The [erasure void](/voids/erasure-void/) extends the cluster across time: consciousness cannot inventory its own deletions, because the monitoring system that would detect cognitive loss typically erodes alongside the capacity itself. Clinical anosognosia—patients with damage to both a function and its monitoring system sincerely deny their deficits—is the stark case, but the structure is universal, visible in ordinary ageing and in the Dunning-Kruger dynamic where the metacognitive skills required to recognise incompetence coincide with the skills themselves. This void introduces a failure mode the others lack: where introspective opacity is noticed as opacity, the erasure void is not noticed at all. The world simply appears complete.
 
 ### The Phenomenological Cluster
 
-A second major cluster concerns the qualitative character of experience itself. The [binding void](/voids/binding-void/)—why unified experience arises from disparate sensory processes—resists analysis entirely. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension. The [intrinsic nature void](/voids/intrinsic-nature-void/) pursues what matter and consciousness are *in themselves*, finding that every answer collapses into structure, negation, or circularity. The [acquaintance void](/voids/acquaintance-void/) identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [phenomenal quality void](/voids/phenomenal-quality-void/) asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated. The [plenitude void](/voids/plenitude-void/) asks whether experience is genuinely as rich as it seems—a question structurally unanswerable from within, because every introspective check for sparsity recruits attention and manufactures the detail it would measure.
+A second major cluster concerns the qualitative character of experience itself. The [binding void](/voids/binding-void/)—why unified experience arises from disparate sensory processes—resists analysis entirely. The [valence void](/voids/valence-void/) asks why experience has a built-in good/bad dimension. The [intrinsic nature void](/voids/intrinsic-nature-void/) pursues what matter and consciousness are *in themselves*, finding that every answer collapses into structure, negation, or circularity. The [acquaintance void](/voids/acquaintance-void/) identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [imagery void](/voids/imagery-void/) specialises this cluster onto a particularly well-evidenced sub-region: no conscious mind can verify the fidelity of its own mental images, two minds saying "vivid" cannot share the phenomenology that word picks out, and the post-2015 aphantasia research suggests phenomenal imagery may not be doing the cognitive work it appears to do. The first two faces sit within the Phenomenological Cluster as extensions of acquaintance and intersubjective limits; the third face—phenomenal presence detached from its apparent function—exemplifies a separate cross-cutting structure addressed below alongside the presence/absence axis. The empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery) makes it unusually well-evidenced for a structural limit. The [phenomenal quality void](/voids/phenomenal-quality-void/) asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated. The [plenitude void](/voids/plenitude-void/) asks whether experience is genuinely as rich as it seems—a question structurally unanswerable from within, because every introspective check for sparsity recruits attention and manufactures the detail it would measure.
 
 These voids share a feature: they concern aspects of consciousness so fundamental that they are invisible in ordinary experience. As the [phenomenology of the edge](/voids/phenomenology-of-the-edge/) reveals, approaching these limits produces not confusion but a paradoxical clarity—the sense of understanding something too large for words. Contemplative traditions across cultures converge on this phenomenology, suggesting it reflects something about consciousness at its boundaries rather than artefacts of any particular practice.
 
 The [ineffable encounter void](/voids/ineffable-encounter-void/) complicates this cluster in an important way. Most voids in the taxonomy are defined by *absence*—what cannot be thought, introspected, or accessed. The ineffable encounter void is defined by *presence*: an excess of meaning and sacred significance that overwhelms the cognitive apparatus designed to handle it. Consciousness encounters something—felt significance in music, ideas, encounters, sacred moments—that it registers as genuine knowing yet cannot inspect or articulate. The mechanism generating this signal is opaque (unexplorable), and the experience dissolves under analytical attention (occluded). Independent traditions—Gendlin's felt sense, Otto's numinous, Polanyi's [tacit integration](/voids/tacit-integration-void/), Rosa's resonance theory—converge on the same structure, strengthening the case that presence-type voids mark genuine cognitive boundaries rather than articulation failures. In its numinous register, the void sharpens further: numinous experience specifically dismantles the evaluative mechanism needed to assess it, creating a reflexivity problem absent from other presence-type encounters. If some limits are windows rather than walls, the taxonomy must account for voids that reveal as well as voids that conceal.
 
 The [presence-type/absence-type axis](/concepts/presence-type-and-absence-type-voids/) cross-cuts the three-kinds taxonomy and redistributes the catalogue: presence-type voids cluster beyond the ineffable encounter—the [aesthetic void](/voids/creative-aesthetic-void/), the [surplus void](/voids/the-surplus-void/), the [silence void](/voids/the-silence-void/), and the [affective void](/voids/affective-void/) all register as overwhelm rather than lack. The phenomenal quality void is structurally hybrid. This axis is independent of the unexplored/unexplorable/occluded scheme and demands different probing methods: presence-type voids resist direct apophatic mapping because the object is not a gap but a saturated encounter that dissolves under inspection.
+
+A second cross-cutting structure emerges where phenomenal content and the cognitive work it appears to perform come apart. Call this the **phenomenology-vs-function axis**. The cleanest case is the imagery void's third face: aphantasic and visualising minds reach the same answer to a mental rotation problem via demonstrably different strategies (Kay, Keogh & Pearson 2024), and identical introspective vocabulary masks radically different underlying connectivity (Zeman 2024). The [synesthetic void](/voids/synesthetic-void/) formalises a parallel dissociation under different vocabulary: Wager's "extra qualia problem" identifies phenomenal differences without representational differences, and Gray (2003) argues that "function and qualia come apart in two ways" in synesthesia—identical qualia from distinct functional roles, single functional roles producing divergent qualia. Strawson's foreign-language argument for [cognitive phenomenology](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) runs the same wedge in the comprehension domain: identical sensory function, different phenomenal character. Wegner's I-Spy paradigm, discussed in the [agency void](/voids/agency-void/), dissociates the *experience* of willing from the underlying causation under arranged conditions. The axis is independent of the four-kinds typology and the presence/absence axis: a function-phenomenology dissociation can be unexplorable (architectural, as in aphantasia) or naturally occluded (selectively pruned, as in the neonatal-synesthesia hypothesis), and can register as either presence (extra qualia, vivid imagery without correspondingly enhanced fidelity) or absence (the missing image whose absence the rest of cognition runs without). Where the presence/absence axis sorts voids by the phenomenology of approach, this third axis sorts them by what comes apart at the boundary—an empirical wedge against any framework that identifies phenomenal character with functional role.
 
 ### The Access Cluster
 
@@ -146,13 +152,13 @@ The other three criteria—structured persistence across time and frameworks, cr
 
 ## The Convergence Pattern
 
-The [convergence analysis](/voids/voids-as-evidence/) reveals that the most striking feature of the taxonomy is not the individual voids but their distribution. Physics has interpretive difficulties. Mathematics has foundational limits. But these arise independently, from different features of different domains. Consciousness-related voids behave differently. They organise into five families—the phenomenal core, the self-knowledge cluster, the intersubjectivity gap, the cognitive architecture family, and the framework reflexivity family—each sharing structural logic and distinct failure signatures. These families are not independent: they share boundaries (self-knowledge and intersubjectivity overlap at other minds; the phenomenal core and cognitive architecture meet at the language-thought interface) and converge directionally on a single boundary where first-person phenomenal reality meets third-person physical description.
+The [convergence analysis](/voids/what-voids-reveal/) reveals that the most striking feature of the taxonomy is not the individual voids but their distribution. Physics has interpretive difficulties. Mathematics has foundational limits. But these arise independently, from different features of different domains. Consciousness-related voids behave differently. They organise into five families—the phenomenal core, the self-knowledge cluster, the intersubjectivity gap, the cognitive architecture family, and the framework reflexivity family—each sharing structural logic and distinct failure signatures. These families are not independent: they share boundaries (self-knowledge and intersubjectivity overlap at other minds; the phenomenal core and cognitive architecture meet at the language-thought interface) and converge directionally on a single boundary where first-person phenomenal reality meets third-person physical description.
 
 The [recognition void](/voids/recognition-void/) deepens this: absent cognitive capabilities produce no signal—when a capacity is missing, no alarm fires—so the voids we *can* identify likely undercount the actual limits, strengthening rather than weakening the evidential weight of convergence.
 
 A selection-effect worry sits at the heart of this convergence claim and must be confronted directly. The Map was built around consciousness; its curation criteria privilege cognitive voids; finding that the voids cluster around consciousness risks being approximately the observation that the Map is about what the Map is about. Three partial exceptions—the [temporal void](/voids/temporal-void/), the dream consciousness void, and the silence void, which concern how consciousness relates to time, sleep, and cessation rather than to physics—sit outside the main convergence structure and suggest the catalogue has not been forced into a single narrative. But three exceptions are not a decisive refutation of a deep curation bias. The honest position is that some clustering was inevitable given the Map's framing, and what remains diagnostic is the *structured* character of the clustering—the distinct failure signatures, the family relationships, the specific sub-cluster topology—which a pure curation bias would not predict. This weakens the abductive step; it does not eliminate it.
 
-As the [evidential weight argument](/voids/voids-as-evidence/) develops, this clustering supports an abductive inference with the caveat above. Multiple independent philosophical arguments converge on the conclusion that physical facts do not entail phenomenal facts. The pattern has persisted across centuries. The Map's specific tenet-package—dualism *plus* minimal quantum interaction *plus* a naturally occluded interface—generates a prediction that bare dualism does not: that explanatory failure at the consciousness-matter interface should be systematic rather than incidental. The convergence is *mutually reinforcing* rather than strictly overdetermined: calling the pattern "overdetermined" would require a probabilistic independence argument the Map has not yet made, and the clusters may share underlying causes rather than being wholly independent. Even on the weaker reading, closing one void in a family would not dissolve the family: the clusters share structural logic without sharing identical content, so individual voids might yield while the taxonomy's architectural features persist.
+As the [evidential weight argument](/voids/what-voids-reveal/) develops, this clustering supports an abductive inference with the caveat above. Multiple independent philosophical arguments converge on the conclusion that physical facts do not entail phenomenal facts. The pattern has persisted across centuries. The Map's specific tenet-package—dualism *plus* minimal quantum interaction *plus* a naturally occluded interface—generates a prediction that bare dualism does not: that explanatory failure at the consciousness-matter interface should be systematic rather than incidental. The convergence is *mutually reinforcing* rather than strictly overdetermined: calling the pattern "overdetermined" would require a probabilistic independence argument the Map has not yet made, and the clusters may share underlying causes rather than being wholly independent. Even on the weaker reading, closing one void in a family would not dissolve the family: the clusters share structural logic without sharing identical content, so individual voids might yield while the taxonomy's architectural features persist.
 
 Each of the Map's five [tenets organises naturally around a characteristic void](/voids/tenet-generated-voids/). Dualism maps onto a nature void (the [intrinsic nature void](/voids/intrinsic-nature-void/)). Minimal quantum interaction maps onto a mechanism void (the [amplification void](/voids/amplification-void/)). Bidirectional interaction maps onto a detection void (introspective opacity). Rejecting many worlds maps onto indexical mysteries (the [self-reference paradox](/voids/self-opacity/)). Whether this reflects genuine prediction or post-hoc accommodation is an open historiographical question. The Map does not carry the dated records that would settle whether tenet-commitment preceded void-cataloguing, and at least two of the matchings are not uniquely predictive: any theory positing an undetectable mechanism predicts a mechanism void, and indexical puzzles exist regardless of one's stance on MWI. The defensible claim is that the tenets and the voids fit each other without strain, not that an independent cataloguing exercise confirmed antecedent predictions.
 
@@ -205,12 +211,50 @@ This synthesis draws from:
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Methodology for mapping through negation
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence and the naturally occluded category
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [What Cognitive Voids Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture and how the catalogue's organised structure becomes evidence for dualism
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Distinct failure signatures as data
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at its boundaries
-- [Voids as Evidence](/voids/voids-as-evidence/) — The clustering pattern and capacity to conceive voids as evidence for dualism
 - [Tenet-Generated Voids](/voids/tenet-generated-voids/) — Framework-generated limits as intellectual honesty
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — The distinction between evolved and engineered constraints
+
+<!-- AI REFINEMENT LOG - 2026-04-28 (apex-evolve, 10:45 UTC)
+Resolves the function-phenomenology taxonomic placement deferred by the 09:59 UTC refine-draft.
+
+Survey: function-phenomenology dissociation appears across multiple voids, not just the imagery-void's third face. Confirmed instances: synesthetic-void (Wager's "extra qualia problem"; Gray 2003 "function and qualia come apart in two ways"), cognitive-phenomenology-and-the-irreducibility-of-thought (Strawson's foreign-language argument, aphantasic thought as evidence), agency-void (Wegner I-Spy paradigm dissociating willing-experience from causation), imagery-void face 3 (Kay, Keogh & Pearson 2024 mental rotation strategies). The phenomenon cross-cuts the existing clusters, so a cluster-internal patch (e.g., extending the Phenomenological Cluster) would lose the cross-cluster signal.
+
+Decision: introduce a third cross-cutting axis — the **phenomenology-vs-function axis** — parallel to the presence/absence axis. Rejected alternatives: (a) absorbing into the Phenomenological Cluster (loses cross-cluster scope; cognitive-phenomenology and agency-void cases sit outside the cluster), (b) adding a fifth kind to the typology (kind-categories sort by *why* thought fails; this axis sorts by *what comes apart*, a different dimension), (c) leaving the third face as "different in kind" without structural home (the original problem; deferred work was to give it a home).
+
+Rationale aligned with Tenet 5 (Occam's Razor Has Limits): the parsimony judgment here is that the dissociation pattern is sufficiently recurrent and structurally distinctive across the catalogue to warrant a structural slot rather than being absorbed silently into existing categories. The taxonomy's own structure is itself a parsimony judgment about how to carve the void-space; under-carving here would obscure a regularity the data shows.
+
+Changes made:
+- §Phenomenological Cluster: revised the imagery-void mention to point forward to the new axis instead of leaving the third face orphaned ("different in kind"). Net ~10 words modified.
+- §Phenomenological Cluster: added a new paragraph (~280 words) introducing the phenomenology-vs-function axis after the presence/absence axis paragraph. Names the four exemplifying voids (imagery face 3, synesthetic, cognitive-phenomenology, agency Wegner findings), establishes axis-independence from the four-kinds typology and the presence/absence axis, and frames the axis as "an empirical wedge against any framework that identifies phenomenal character with functional role."
+- frontmatter: added [synesthetic-void](/voids/synesthetic-void/), [agency-void](/voids/agency-void/), [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) to related_articles to reflect the foregrounded voids.
+- frontmatter: ai_modified → 2026-04-28T10:45:00+00:00; apex_last_synthesis → 2026-04-28T10:45:00+00:00.
+
+Net length change: +290 words modified/added; voice and the cross-tradition convergence framework preserved (the new axis paragraph follows the same convergence-pattern structure used elsewhere in the article — multiple independent voids exhibiting the same structural feature).
+
+This log should be removed after human review.
+
+Prior log (2026-04-28 09:59 UTC refine-draft adding imagery-void) preserved below.
+-->
+
+<!-- AI REFINEMENT LOG - 2026-04-28 (refine-draft, 09:59 UTC)
+Changes made:
+- Added the [imagery-void](/voids/imagery-void/) to the Phenomenological Cluster paragraph, between acquaintance-void and phenomenal-quality-void. Three sentences naming the three structural faces (fidelity / inter-subjective / function-phenomenology), the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery), and a contrast distinguishing the imagery-void's *function-phenomenology* face from the acquaintance-void's *structural-acquaintance* face.
+- Added [imagery-void](/voids/imagery-void/) to frontmatter related_articles.
+- Updated ai_modified to 2026-04-28T09:59:00+00:00.
+
+~140 words added; voice and existing taxonomy preserved.
+
+Placement rationale: Phenomenological Cluster is the strongest fit because the imagery void's closest related-articles (acquaintance-void, plenitude-void, necessary-opacity) all live there, the article's framing is qualia-centric, and the post-2015 aphantasia evidence is fundamentally about phenomenal character. The inter-subjective face does cross into the Interpersonal/Social Cluster (intersecting commensurability-void), but the article itself flags the inter-subjective face as a *specialisation* of commensurability within a species, not a primary location.
+
+Three-face structure flag for follow-up: the existing taxonomic categorisation accommodates the fidelity face (self-knowledge / phenomenological cluster boundary) and the inter-subjective face (Interpersonal/Social) without strain, but the *function-phenomenology* face — the wedge between phenomenal presence and the cognitive work it appears to do — does not map cleanly onto any current cluster, the four-kinds typology, or the presence/absence axis. It is closest in spirit to a "phenomenology-vs-function" axis the taxonomy does not yet maintain. This is a substantive taxonomic question rather than an index-page fix; recording here so a future apex-evolve cycle can decide whether to introduce the axis or absorb the function-phenomenology face into an existing structure.
+
+This log should be removed after human review.
+
+Prior log (2026-04-24 refine-draft: pessimistic-review address) preserved below.
+-->
 
 <!-- AI REFINEMENT LOG - 2026-04-24
 Addresses pessimistic review 2026-04-24. Changes:

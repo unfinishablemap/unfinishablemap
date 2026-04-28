@@ -66,7 +66,7 @@ None. The article has all required sections, no factual errors, no internal cont
 ### Cross-links Present (no additions needed)
 - [voids](/voids/)
 - [tenets](/tenets/)
-- [limits-reveal-structure](/voids/limits-reveal-structure/)
+- [limits-reveal-structure](/voids/what-voids-reveal/)
 - [conceptual-impossibility](/voids/conceptual-impossibility/)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
 - [mysterianism](/concepts/mysterianism/)

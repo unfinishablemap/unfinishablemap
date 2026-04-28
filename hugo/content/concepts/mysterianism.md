@@ -38,7 +38,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[mysterianism-cognitive-closure-2026-01-14]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[intrinsic-nature-void]]'
 - '[[origin-of-consciousness]]'
 - '[[meta-epistemology-of-limits]]'
@@ -96,7 +96,7 @@ Research on [minimal consciousness](/concepts/minimal-consciousness/) provides s
 
 If complete description doesn't reveal consciousness in a 302-neuron organism, why expect it to reveal consciousness in an 86-billion-neuron brain? We have markers for consciousness (like Unlimited Associative Learning), not detectors. We identify correlates without grasping what consciousness *is*—exactly what McGinn predicts if we're cognitively closed to the relevant property.
 
-Schwitzgebel's claim that "we are not simply fallible at the margins... we are broadly inept" at introspection (Schwitzgebel 2008) finds an empirical case study in the [imagery-void](/voids/imagery-void/). Mental imagery is a paradigm domain for systematic introspective failure: confident reports of vividness diverge wildly across persons (the aphantasia/hyperphantasia spectrum), the same task is solved with and without phenomenal imagery (Kay, Keogh & Pearson 2024), and the same controversy structure has surfaced twice across a century—Würzburg, then aphantasia—under different vocabularies and instruments. The recurrence-across-instruments is itself evidence that the introspective failure is structural, not methodological. If a closed mind cannot trust its own access to its own imagery, the architecture-grounded version of cognitive closure has direct phenomenal traction.
+Schwitzgebel's claim that "we are not simply fallible at the margins... we are broadly inept" at introspection (Schwitzgebel 2008) finds an empirical case study in the [imagery-void](/voids/imagery-void/). Mental imagery is a paradigm domain for systematic introspective failure: confident vividness reports diverge wildly across persons (aphantasia/hyperphantasia), and the same controversy structure has surfaced twice—Würzburg, then aphantasia—under different vocabularies. The recurrence is itself evidence that the failure is structural, not methodological.
 
 ## Problems Versus Mysteries
 
@@ -124,7 +124,7 @@ McGinn argues theoretically that certain properties lie beyond our conceptual re
 
 ## What the Limits Reveal
 
-The *shape* of our limitations reveals the *structure* of our minds—what we cannot think is as informative about cognitive architecture as what we can. That evolution produced beings who can ask "what can't I think?" is a datum requiring explanation. See [limits-reveal-structure](/voids/limits-reveal-structure/) for extended treatment.
+The *shape* of our limitations reveals the *structure* of our minds—what we cannot think is as informative about cognitive architecture as what we can. That evolution produced beings who can ask "what can't I think?" is a datum requiring explanation. See [what-voids-reveal](/voids/what-voids-reveal/) for extended treatment.
 
 This transforms mysterianism from pessimism into method. By mapping *where* thought systematically fails, we trace the shape of human cognition itself. For the Map's [voids](/voids/) framework, mapping void territory (the unthinkable) becomes a way of mapping mind territory (the thinker).
 
@@ -195,7 +195,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — How knowledge about unreachable territory can be warranted
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The meta-level question: how can we know our limits?
 - [closure-types-void](/voids/closure-types-void/) — Representational vs psychological closure, and the void behind the distinction
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits reveal cognitive architecture
+- [what-voids-reveal](/voids/what-voids-reveal/) — How cognitive limits reveal cognitive architecture
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What cognitive closure feels like from the inside
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem mysterians think is unsolvable
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual gap that may reflect cognitive closure

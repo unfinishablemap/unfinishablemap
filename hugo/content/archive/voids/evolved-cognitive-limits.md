@@ -164,7 +164,7 @@ The bootstrapping problem remains: if our philosophical intuitions are fitness-s
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Distinguishing evolved from engineered limits
 - [cognitive-aversion](/voids/defended-territory/) — Motivational deflection that steers thought from certain territories
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — How groups have limits beyond individuals
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How limitation illuminates architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How limitation illuminates architecture
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — How different limit types produce different phenomenology
 - [architecture-of-cognitive-closure](/voids/biological-cognitive-closure/) — How limits compound through development
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion

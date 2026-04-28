@@ -26,7 +26,7 @@ related_articles:
 - '[[self-transcendence-void]]'
 - '[[observation-and-measurement-void]]'
 - '[[necessary-opacity]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[agency-void]]'
 - '[[conjunction-coalesce]]'
 title: The Erasure Void
@@ -119,7 +119,7 @@ The deeper consequence is for personal identity. If significant cognitive capaci
 - [self-transcendence-void](/voids/self-transcendence-void/)
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/)
 - [necessary-opacity](/voids/necessary-opacity/)
-- [limits-reveal-structure](/voids/limits-reveal-structure/)
+- [what-voids-reveal](/voids/what-voids-reveal/)
 - [agency-void](/voids/agency-void/)
 - [metacognition](/concepts/metacognition/)
 - [consciousness-and-memory](/topics/consciousness-and-memory/)

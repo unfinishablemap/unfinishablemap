@@ -24,7 +24,7 @@ related_articles:
 - '[[self-maintained-cognitive-limits]]'
 - '[[self-opacity]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[acquaintance-void]]'
 - '[[consciousness-only-territories]]'
 - '[[voids-appetitive-void-2026-02-10]]'
@@ -130,7 +130,7 @@ The evidence currently points toward the appetitive void as genuine. The converg
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [introspective opacity](/voids/self-opacity/) — Inaccessibility of cognitive processes
 - [Pre-Conceptual Knowing](/voids/acquaintance-void/) — Knowledge before and beyond concepts
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [what-voids-reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 
 ## References
 

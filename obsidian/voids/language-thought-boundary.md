@@ -20,7 +20,7 @@ related_articles:
   - "[[three-kinds-of-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[biological-cognitive-closure]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[phenomenology-of-linguistic-failure]]"
 ai_contribution: 100
@@ -170,7 +170,7 @@ The claim that language and thought have genuinely different limits would be cha
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — Related phenomena of cognitive slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What approaching limits feels like
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn's formal analysis
-- [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
+- [[what-voids-reveal|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — What linguistic failure feels like from the inside: five distinct experiential modes
 - [[tenets|Site Tenets]] — The foundational commitments shaping this investigation
 

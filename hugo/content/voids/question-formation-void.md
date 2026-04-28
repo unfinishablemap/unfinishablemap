@@ -31,7 +31,7 @@ related_articles:
 - '[[plenitude-void]]'
 - '[[inference-void]]'
 - '[[apophatic-cartography]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[mapping-mind-space]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[language-thought-boundary]]'
@@ -129,7 +129,7 @@ Apophatic cartography can only negate what can be formulated; the question forma
 - [apophatic-cartography](/voids/apophatic-cartography/)
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)
 - [mapping-mind-space](/voids/mapping-mind-space/)
-- [limits-reveal-structure](/voids/limits-reveal-structure/)
+- [what-voids-reveal](/voids/what-voids-reveal/)
 
 ## References
 

@@ -31,7 +31,7 @@ related_articles:
 - '[[inference-void]]'
 - '[[carrolls-regress]]'
 - '[[apophatic-cartography]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[disappearance-voids]]'
 title: The Tacit Integration Void
 topics:
@@ -124,7 +124,7 @@ A third limitation: described from inside human integration. Minds with differen
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — Felt verdicts whose generation is opaque
 - [meaning-void](/voids/meaning-void/) — Whether meaning can be analysed at all
 - [apophatic-cartography](/voids/apophatic-cartography/) — The boundary-marking discipline this article practises
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — Why structural failures disclose features of consciousness
+- [what-voids-reveal](/voids/what-voids-reveal/) — Why structural failures disclose features of consciousness
 
 ## References
 

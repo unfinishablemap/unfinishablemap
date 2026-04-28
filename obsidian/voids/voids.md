@@ -66,7 +66,7 @@ A maintenance note on this index. Three of the entries below—[[agency-void|the
 - [[three-kinds-of-void|Three Kinds of Void]] — The core taxonomy: unexplored, unexplorable, occluded
 - [[origin-of-consciousness|The Origin Void]] — Why consciousness exists at all—the most logically prior void
 - [[compound-failure-signatures|Compound Failure Signatures]] — Using the structure of failure as data
-- [[voids-as-evidence|Voids as Evidence]] — How the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
+- [[what-voids-reveal|What Cognitive Voids Reveal]] — How limits illuminate cognitive architecture, and how the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
 - [[apophatic-cartography|Apophatic Cartography: Method and Its Limits]] — The method of knowing through negation, and why any such catalog is constitutively incomplete
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [[epistemic-horizon-void|The Epistemic Horizon Void]] — The second-order void that shadows every other: why consciousness cannot estimate the total scope of what it does not know from within the limited system doing the estimating (created 2026-04-23)
@@ -179,7 +179,6 @@ A maintenance note on this index. Three of the entries below—[[agency-void|the
 
 - [[apophatic-approaches|Apophatic Approaches]] — Knowing through negation
 - [[apophatic-cartography|Apophatic Cartography]] — Formalising the method with evidential standards
-- [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Using AI and hypothetical alien minds to probe territories closed to human cognition
 - [[consciousness-only-territories|Consciousness-Only Territories]] — What only phenomenal experience can access
 - [[temporal-void|The Asymmetry Between Remembering and Anticipating]] — Why past and future access differs

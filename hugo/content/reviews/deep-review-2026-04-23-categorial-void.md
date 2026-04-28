@@ -72,7 +72,7 @@ No self-contradictions detected. No source/Map conflation—the article clearly 
 - [language-thought-boundary](/voids/language-thought-boundary/) — inline reference in the "Conceptual Limits" section where Chomsky is discussed.
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — added to Further Reading with a one-line contrast summary (hard-wall vs. soft-absence signature).
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — added to Further Reading with a one-line summary of how the two voids can compound.
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — inline reference in the "View from Nowhere" section where the article discusses minds that have concepts we lack.
+- [limits-reveal-structure](/voids/what-voids-reveal/) — inline reference in the "View from Nowhere" section where the article discusses minds that have concepts we lack.
 
 ## Remaining Items
 

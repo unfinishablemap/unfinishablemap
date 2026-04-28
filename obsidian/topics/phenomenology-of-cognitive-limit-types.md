@@ -20,7 +20,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[three-kinds-of-void]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[self-opacity]]"
   - "[[compound-failure-signatures]]"
   - "[[phenomenology-of-linguistic-failure]]"
@@ -133,7 +133,7 @@ The systematic mapping of limit phenomenologies connects to the Map's [[tenets]]
 - [[biological-cognitive-closure|Evolved Cognitive Limits]] — Architectural versus adaptive limits and their origins
 - [[self-maintained-cognitive-limits|Cognitive Aversion]] — The motivational deflection that hides limits
 - [[three-kinds-of-void|Three Kinds of Void]] — The fundamental void taxonomy
-- [[limits-reveal-structure|What the Limits Reveal]] — How boundaries illuminate architecture
+- [[what-voids-reveal|What the Limits Reveal]] — How boundaries illuminate architecture
 - [[self-opacity|Self-Opacity]] — Why consciousness cannot fully know itself, and the felt signatures of self-referential thought
 - [[phenomenology-of-linguistic-failure|The Phenomenology of Linguistic Failure]] — Linguistic failure as a specific limit type with five distinct signatures
 - [[voids|Voids in the Map]] — The broader framework for cognitive dark spaces

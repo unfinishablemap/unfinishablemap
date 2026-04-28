@@ -27,7 +27,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[tenet-generated-voids]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[consciousness-only-territories]]'
 - '[[acquaintance-void]]'
 - '[[self-opacity]]'

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-03 21:38:00+00:00
+ai_modified: 2026-04-28 09:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ description: If thinking itself has phenomenal character beyond sensory accompan
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 15:59:00+00:00
+last_deep_review: 2026-04-28 09:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[phenomenology-of-intellectual-life]]'
 - '[[pragmatisms-path-to-dualism]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
+- '[[imagery-void]]'
 title: Cognitive Phenomenology and the Irreducibility of Thought
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -96,7 +97,7 @@ If consciousness pervades cognition in this way, then the materialist cannot tre
 
 The conservative position — that all apparent cognitive phenomenology reduces to sensory accompaniments — faces several burdens.
 
-People with aphantasia (no visual imagery) still understand, reason, and have insights. Their cognitive phenomenology cannot reduce to visual imagery. Some report "thinking in concepts" with no accompanying inner speech. If cognitive phenomenology is entirely sensory, these cases should involve no phenomenology of understanding at all. Yet people with aphantasia report rich intellectual lives.
+People with aphantasia (no visual imagery) still understand, reason, and have insights. Lennon (2023) develops this point formally: aphantasics have phenomenally conscious thoughts with "no sensory reduction base," which "falsifies the sensory constraint on conscious thought" and supports a non-sensory cognitive phenomenology. The post-2015 aphantasia literature has added empirical depth — Zeman (2024) traces the spectrum from extreme aphantasia (~1% of the population) to extreme hyperphantasia (~3%), correlated with frontoparietal-to-visual network connectivity rather than with reasoning capacity. Some aphantasics report "thinking in concepts" with no accompanying inner speech. If cognitive phenomenology is entirely sensory, these cases should involve no phenomenology of understanding at all. Yet aphantasics report rich intellectual lives, and the [imagery-void](/voids/imagery-void/) documents how the function/phenomenology dissociation goes deeper still: Kay, Keogh, and Pearson (2024) found aphantasics complete classical mental rotation tasks "slower but more accurately" than controls, using analytic strategies rather than imagery — phenomenology and cognitive function come apart on a task previously taken to be paradigmatically imagistic.
 
 Tip-of-the-tongue states reveal meaning without sensory form. You know the word — you can identify its first letter, semantic neighbours, syllable count — but the phonological form is absent. The meaning is phenomenally present without its sensory vehicle. If cognitive phenomenology is sensory, what is the subject experiencing?
 
@@ -122,6 +123,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 - [self-stultification-as-master-argument](/topics/self-stultification-as-master-argument/) — Materialism undermines its own rational credentials
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — How cognitive phenomenology in evaluation forces pragmatism toward dualism
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Empirical evidence that reasoning requires conscious processing
+- [imagery-void](/voids/imagery-void/) — Why the aphantasia evidence is a wedge between phenomenology and cognitive function rather than a proof either is reducible to the other
 - [neural-implementation-specifics](/topics/neural-implementation-specifics/) — Which quantum mechanisms must account for cognitive, not just sensory, consciousness
 
 ## References
@@ -133,4 +135,7 @@ The phenomenal contrast in understanding — hearing French when you understand 
 5. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
 6. Reppert, V. (2003). *C.S. Lewis's Dangerous Idea: In Defense of the Argument from Reason*. InterVarsity Press.
 7. Horgan, T. & Tienson, J. (2002). The intentionality of phenomenology and the phenomenology of intentionality. In D. Chalmers (ed.), *Philosophy of Mind: Classical and Contemporary Readings*. Oxford University Press.
-8. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/
+8. Lennon, P. (2023). Aphantasia and Conscious Thought. *Erkenntnis*. https://philarchive.org/archive/LENAAC-3
+9. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
+10. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618
+11. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/

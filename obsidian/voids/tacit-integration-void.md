@@ -27,7 +27,7 @@ related_articles:
   - "[[inference-void]]"
   - "[[carrolls-regress]]"
   - "[[apophatic-cartography]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[disappearance-voids]]"
 ai_contribution: 100
 author:
@@ -121,7 +121,7 @@ A third limitation: described from inside human integration. Minds with differen
 - [[noetic-feelings-void]] — Felt verdicts whose generation is opaque
 - [[meaning-void]] — Whether meaning can be analysed at all
 - [[apophatic-cartography]] — The boundary-marking discipline this article practises
-- [[limits-reveal-structure]] — Why structural failures disclose features of consciousness
+- [[what-voids-reveal]] — Why structural failures disclose features of consciousness
 
 ## References
 

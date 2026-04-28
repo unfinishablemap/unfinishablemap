@@ -128,7 +128,7 @@ Neurologically: metacognition recruits the rostrolateral prefrontal cortex, sugg
 
 ## What Opacity Reveals
 
-The [limits-reveal-structure](/voids/limits-reveal-structure/) principle applies:
+The [limits-reveal-structure](/voids/what-voids-reveal/) principle applies:
 
 **Consciousness is product-oriented.** Evolution optimised for outputs—decisions, actions, plans—not for monitoring the mechanisms that produce them.
 
@@ -186,7 +186,7 @@ None of these conditions has been met. Introspective opacity persists across cul
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [Free Will](/topics/free-will/) — The broader context for questions of agency
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture
 - [The Involuntariness Void](/voids/agency-void/) — Why consciousness cannot control its own states
 - [The Creativity Void](/voids/imagination-and-creativity-void/) — Parallel opacity: creative process hidden, product accessible
 - [The Phenomenology of Choice](/concepts/phenomenology-of-choice-and-volition/) — What choosing feels like from the inside

@@ -96,7 +96,7 @@ Nagel argues that even perfect knowledge of bat neurophysiology fails to tell us
 
 Colin McGinn's [cognitive closure](/concepts/mysterianism/) thesis adds the architectural reading: a mind is closed to a property if its concept-forming procedures cannot extend to a grasp of it. We cannot form acquaintance-concepts for experiences we are constitutionally unable to have, and may lack the architecture even to *specify* what we are missing.
 
-The cross-architecture limit has a within-species analogue. The [imagery-void](/voids/imagery-void/) decomposes into three faces—fidelity, inter-subjective, and function-phenomenology—and the inter-subjective face is the paradigm intra-species case for what this section traces across species. Two humans saying "vivid red apple" use a shared word but cannot share the phenomenology behind it; the aphantasia/hyperphantasia spectrum makes the divergence empirically inescapable. Acquaintance does not transfer between minds even where architecture is conserved, because the linguistic vocabulary of imagery outruns its phenomenal evidence base.
+The cross-architecture limit has a within-species analogue. The [imagery-void](/voids/imagery-void/) decomposes into three faces—fidelity, inter-subjective, and function-phenomenology—and the inter-subjective face is the paradigm intra-species case: two humans saying "vivid red apple" share the word but cannot share the phenomenology, with the aphantasia/hyperphantasia spectrum making the divergence empirically inescapable. Acquaintance does not transfer between minds even where architecture is conserved.
 
 ## The Russellian Asymmetry
 

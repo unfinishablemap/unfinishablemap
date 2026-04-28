@@ -106,7 +106,7 @@ If paradigm blindness generalizes, cultural and personal assumptions may occlude
 
 ## What the Void Reveals
 
-The [limits-reveal-structure](/voids/limits-reveal-structure/) principle suggests that the creativity void tells us something important about consciousness:
+The [limits-reveal-structure](/voids/what-voids-reveal/) principle suggests that the creativity void tells us something important about consciousness:
 
 **Creative processing is constitutively hidden.** Like the observer who cannot observe itself observing, the creator cannot create itself creating. The act vanishes into the product. The [intentionality void](/voids/meaning-void/) exhibits the same pattern: we cannot catch reference in formation, only thoughts already latched onto their objects.
 
@@ -155,7 +155,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 - [The Limits of Conceptual Acquisition](/voids/biological-cognitive-closure/) — What concepts minds can form
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Thoughts blocked by commitment rather than impossibility
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn on structural cognitive limits
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [Free Will and Determinism](/topics/free-will/) — How creative selection connects to agent causation
 - [agent-causation](/concepts/agent-causation/) — The framework for consciousness as cause
 

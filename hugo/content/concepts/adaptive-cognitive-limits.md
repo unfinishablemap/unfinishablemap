@@ -25,7 +25,7 @@ related_articles:
 - '[[three-kinds-of-void]]'
 - '[[compound-failure-signatures]]'
 - '[[perceptual-degradation-and-the-interface]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 title: Adaptive Cognitive Limits
 topics:
 - '[[hard-problem-of-consciousness]]'

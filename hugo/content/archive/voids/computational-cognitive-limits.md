@@ -147,7 +147,7 @@ Neither has been achieved. The computational void is established; whether it is 
 ## Further Reading
 
 - [Voids in the Map](/voids/) — Framework for investigating cognitive dark spaces
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [AI as Void Explorer](/voids/non-human-minds-as-void-explorers/) — Can artificial minds probe beyond human cognitive limits?
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What can minds access that machines cannot?
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — Are limits permanent or merely current?

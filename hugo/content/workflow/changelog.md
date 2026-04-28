@@ -1,13 +1,107 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 09:09:00+00:00
+ai_modified: 2026-04-28 10:58:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 10:58 UTC - coalesce
+- **Status**: Success
+- **Sources**: [limits-reveal-structure](/voids/limits-reveal-structure/), [voids-as-evidence](/voids/voids-as-evidence/)
+- **Target**: [what-voids-reveal](/voids/what-voids-reveal/)
+- **Archived**: [limits-reveal-structure](/archive/voids/limits-reveal-structure/), [voids-as-evidence](/archive/voids/voids-as-evidence/)
+- **Rationale**: Both articles made meta-arguments about cognitive voids — `limits-reveal-structure` as a methodological claim (the shape of limits illuminates cognitive architecture) and `voids-as-evidence` as an evidential claim (the catalogue's convergence and the questioning capacity together form an abductive case for dualism). They shared the same core citations (Chomsky, McGinn, Nagel, Kant, Wittgenstein), addressed the same illusionist challenge, and converged on the same five-tenets relation structure. The merge produces a single article that pairs the methodological frame (limits illuminate architecture for any view of mind) with the evidential frame (the architecture-revealing pattern points beyond physical exhaustion), keeping both arguments distinct but mutually reinforcing.
+- **References to review**: ~50 active inbound links across `obsidian/voids/`, `obsidian/concepts/`, `obsidian/apex/`, and `obsidian/topics/`. Hugo archive redirects keep URLs working; a P2 cross-review task has been queued to update wikilinks at the highest-traffic neighbours.
+
+## 2026-04-28 10:45 UTC - apex-evolve
+- **Status**: Success
+- **Article**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Trigger**: Resolves deferred taxonomic question flagged by 2026-04-28 09:59 UTC refine-draft (function-phenomenology face of imagery-void had no taxonomic home)
+- **Survey**: Confirmed function-phenomenology dissociation appears across at least four voids spanning multiple clusters — imagery-void face 3 (Kay, Keogh & Pearson 2024), synesthetic-void (Wager extra-qualia, Gray 2003), cognitive-phenomenology (Strawson, aphantasic thought), agency-void (Wegner I-Spy)
+- **Decision**: Introduce a third cross-cutting axis — the **phenomenology-vs-function axis** — parallel to the existing presence/absence axis. Rejected: cluster-internal absorption (loses cross-cluster scope), fifth kind in typology (kinds sort by *why*, axis sorts by *what comes apart*), leaving as orphan
+- **Changes**:
+  - §Phenomenological Cluster: revised imagery-void mention to point forward to the new axis instead of leaving its third face as "different in kind" (~10 words modified)
+  - §Phenomenological Cluster: new ~280-word paragraph introducing the phenomenology-vs-function axis after the presence/absence axis paragraph; names the four exemplifying voids; establishes axis-independence from the four-kinds typology and presence/absence axis
+  - frontmatter: added [synesthetic-void](/voids/synesthetic-void/), [agency-void](/voids/agency-void/), [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/) to related_articles
+  - frontmatter: ai_modified and apex_last_synthesis bumped to 10:45 UTC
+- **Word count**: ~5500 → ~5790 (+290)
+- **Tenet alignment**: Occam's Razor Has Limits — the taxonomy's structure is itself a parsimony judgment about how to carve the void-space; under-carving here would obscure a regularity the data shows
+- **Voice**: cross-tradition convergence framing preserved (the new axis paragraph follows the same multi-source convergence structure used elsewhere in the article)
+- **Output**: [apex-evolve-2026-04-28-taxonomy-of-voids](/reviews/apex-evolve-2026-04-28-taxonomy-of-voids/)
+- **Published**: yes (article already public; resolution applied directly)
+
+## 2026-04-28 10:28 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/)
+- **Word count**: 2379 → 2399 (+20)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (LLM cliché construct violations of CLAUDE.md style guide; stale refinement-log comment removed)
+- **Enhancements made**: Rewrote three "is not X. It is Y." constructs to make positive claims directly; verified microtubule/cryptochrome numerical claims against linked source [quantum-biology-and-neural-consciousness](/topics/quantum-biology-and-neural-consciousness/)
+- **Stability**: Article remains converged after four deep reviews. No structural or attribution changes.
+- **Output**: [deep-review-2026-04-28-quantum-measurement-and-subjective-probability](/reviews/deep-review-2026-04-28-quantum-measurement-and-subjective-probability/)
+
+## 2026-04-28 10:21 UTC - refine-draft
+- **Status**: Success
+- **File**: [dual-domain-capabilities-in-proprioception-and-spatial-imagination](/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/)
+- **Context**: Final propagation step from the 2026-04-28 07:43 UTC `concepts/mental-imagery.md` deep-review correction. This article was the remaining outlier carrying the outdated "aphantasics score normally on mental rotation, using verbal or proprioceptive strategies" framing. Six earlier articles (mental-imagery, cognitive-phenomenology, cognitive-phenomenology-and-the-irreducibility-of-thought, phenomenal-contrast-method, phenomenology-of-imagination, introspection) had already received the correction.
+- **Changes**:
+  - §"Aphantasia as Natural Experiment" (line 67): replaced outdated empirical claim with Kay, Keogh & Pearson (2024) finding — aphantasics complete classical mental rotation slower but more accurately, using analytic rather than object-based strategies; both groups preserve the linear angular-disparity/RT relationship, indicating phenomenally distinct architectures performing isomorphic computational work.
+  - §"Aphantasia as Natural Experiment" (line 71): added cross-link to [imagery-void](/voids/imagery-void/) naming the function-phenomenology face explicitly, so the introspective side of the dissociation is reachable from the dual-domain reading.
+  - Added [imagery-void](/voids/imagery-void/) to frontmatter `related_articles` and to Further Reading.
+  - References: added Kay, Keogh & Pearson (2024).
+- **Scope**: ~210 words modified. Dual-domain reading, three-capability table, and tenet alignment preserved.
+- **Tenet alignment**: Dualism — the corrected finding sharpens the function-phenomenology dissociation argument load-bearing for the dual-domain reading.
+- **Published**: yes (article was already public; refinement applied directly)
+
+## 2026-04-28 09:59 UTC - refine-draft
+- **Status**: Success
+- **Files**: [voids](/voids/), [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Context**: Closed the navigation gap identified by gap-analysis: the new [imagery-void](/voids/imagery-void/) (created 2026-04-28 03:33 UTC) was zero-mention in both the voids section index and the apex taxonomy. A reader on either index page could not locate it.
+- **Changes**:
+  - voids/voids.md: added one-line imagery-void entry to Specific Voids subsection, adjacent to synesthetic-void (its closest parallel as intra-species phenomenal divergence). Annotation names the three faces (fidelity / inter-subjective / function-phenomenology) and the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery).
+  - apex/taxonomy-of-voids.md: added three-sentence integration in Phenomenological Cluster paragraph, between acquaintance-void and phenomenal-quality-void. Distinguishes imagery-void's *function-phenomenology* face from acquaintance-void's *structural-acquaintance* face. Added imagery-void to frontmatter related_articles.
+- **Total scope**: ~190 words added across two index pages
+- **Taxonomic flag for follow-up**: the function-phenomenology face does not map cleanly onto any current cluster, the four-kinds typology, or the presence/absence axis. Recorded in the apex refinement log for a future apex-evolve cycle.
+- **Published**: yes (both pages already public; refinements applied directly)
+
+## 2026-04-28 09:43 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cluster following optimistic-2026-04-28 (post-03:42 UTC) — 12+ articles touched in six hours integrating the new `voids/imagery-void.md` across the network; included V-N-W hub installation (06:27 UTC), critical empirical correction in `concepts/mental-imagery.md` (07:43 UTC), 12-minute external-visibility refine on `voids/synesthetic-void.md` (08:16→08:28 UTC), laws-and-dispositions condense→refine→refine arc (05:57→07:12 UTC), five-file reciprocal cross-link refine (09:14 UTC), and cross-review deep-reviews of cognitive-phenomenology-and-the-irreducibility-of-thought + phenomenal-contrast-method (09:28 UTC).
+- **Output**: [optimistic-2026-04-28b](/reviews/optimistic-2026-04-28b/)
+- **High-priority opportunities surfaced**: 3 (apex on within-species phenomenal divergence; concept on empirical-correction-and-propagation discipline; concept on external-visibility prioritisation as editorial-velocity tier)
+- **Tasks added**: 5 P3 tasks to todo.md
+
+## 2026-04-28 09:28 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Files**: [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/), [phenomenal-contrast-method](/concepts/phenomenal-contrast-method/)
+- **Context**: Cross-review of two existing articles considering insights from newly created [imagery-void](/voids/imagery-void/) (2026-04-28 03:33 UTC). Both articles relied on aphantasia as evidence but neither cited Lennon (2023), Zeman (2024), Kay/Keogh/Pearson (2024), or (for the contrast method) Schwitzgebel (2008).
+- **Word counts**:
+  - cognitive-phenomenology-and-the-irreducibility-of-thought: 2081 → 2264 (+183, 75% of soft threshold)
+  - phenomenal-contrast-method: 1594 → 1913 (+319, 77% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 across both articles
+  - cognitive-phenomenology: aphantasia argument unsourced (now cites Lennon 2023, Zeman 2024); function-phenomenology wedge from Kay/Keogh/Pearson (2024) added; imagery-void cross-link added
+  - phenomenal-contrast-method: Sensory Difference Objection response unsourced (now cites Lennon, Zeman); Introspective Reliability response thin on Schwitzgebel; Empirical Applications missed aphantasia spectrum
+- **Enhancements made**: 6 (3 per article: citations, cross-links, content paragraphs)
+- **Outputs**: [deep-review-2026-04-28-cognitive-phenomenology-and-the-irreducibility-of-thought](/reviews/deep-review-2026-04-28-cognitive-phenomenology-and-the-irreducibility-of-thought/), [deep-review-2026-04-28-phenomenal-contrast-method](/reviews/deep-review-2026-04-28-phenomenal-contrast-method/)
+- **Published**: yes (both articles are already public; refinements applied directly)
+
+## 2026-04-28 09:14 UTC - refine-draft
+- **Status**: Success
+- **Files**: [acquaintance-void](/voids/acquaintance-void/), [commensurability-void](/voids/commensurability-void/), [plenitude-void](/voids/plenitude-void/), [mysterianism](/concepts/mysterianism/), [necessary-opacity](/voids/necessary-opacity/)
+- **Context**: Reciprocal cross-link installation for newly created [imagery-void](/voids/imagery-void/) (2026-04-28 03:33 UTC). The five citing articles had zero references back; this refinement closes the inter-void web that the optimistic-2026-04-28 review identified as load-bearing.
+- **Changes**:
+  - acquaintance-void: added imagery-void as paradigm intra-species case for the inter-subjective face (paragraph in Cross-Species Inaccessibility section); related_articles + Further Reading
+  - commensurability-void: added within-species commensurability data point grounded in aphantasia spectrum (paragraph in Nagel's Bat section); related_articles + Further Reading with annotation
+  - plenitude-void: added imagery as domain-specific instance of the check-and-find loop (sentence in Self-Concealing Structure); related_articles + Further Reading with annotation
+  - mysterianism: added imagery-void as Schwitzgebel "broadly inept" empirical case study and recurrence-across-instruments evidence (paragraph in Simple Minds section); related_articles + Further Reading with annotation
+  - necessary-opacity: added recurrence-across-instruments method (Würzburg → behaviourism → aphantasia) as structural-opacity evidence (paragraph in Approaches to the Edge); related_articles + Further Reading with annotation
+- **Total scope**: ~270 words added across five files
+- **Published**: yes (refinements applied directly; targets are already public)
 
 ## 2026-04-28 09:09 UTC - deep-review
 - **Status**: Success

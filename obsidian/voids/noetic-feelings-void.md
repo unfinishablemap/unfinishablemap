@@ -34,7 +34,7 @@ related_articles:
   - "[[phenomenal-quality-void]]"
   - "[[epistemological-limits-occams-razor]]"
   - "[[self-maintained-cognitive-limits]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[imagination-and-creativity-void]]"
   - "[[recursion-void]]"
   - "[[compound-failure-signatures]]"

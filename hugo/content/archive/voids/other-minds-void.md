@@ -167,7 +167,7 @@ This is not uncomfortable compromise but honest assessment. Certainty about exte
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics describes structure without intrinsic nature
 - [self-reference paradox](/voids/self-opacity/) — Why consciousness cannot fully examine itself
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and hypothetical alien minds to probe human cognitive limits
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How cognitive limits illuminate cognitive architecture
 - [inaccessible-past](/voids/inaccessible-past/) — The parallel void within a single lifetime: your own past consciousness is inaccessible
 - [historical-consciousness-void](/voids/historical-consciousness-void/) — Whether consciousness itself has changed across historical time
 - [observation-and-measurement-void](/voids/observation-and-measurement-void/) — Why even direct self-access cannot verify its own accuracy

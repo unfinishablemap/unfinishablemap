@@ -151,7 +151,7 @@ If the epistemology of limits is itself a limit, several methodological conseque
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using failure patterns as data
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — The Münchhausen problem applied to cognitive self-improvement
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits

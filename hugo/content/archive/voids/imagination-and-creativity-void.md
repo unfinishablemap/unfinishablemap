@@ -192,7 +192,7 @@ Neither void has yielded to centuries of investigation. Imagination's limits per
 - [three-kinds-of-void](/voids/three-kinds-of-void/) --- Unexplored, unexplorable, occluded
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) --- Thoughts blocked by commitment rather than impossibility
 - [mysterianism](/concepts/mysterianism/) --- McGinn on structural cognitive limits
-- [limits-reveal-structure](/voids/limits-reveal-structure/) --- How boundaries illuminate architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) --- How boundaries illuminate architecture
 - [free-will](/topics/free-will/) --- How creative selection connects to agent causation
 
 ## References

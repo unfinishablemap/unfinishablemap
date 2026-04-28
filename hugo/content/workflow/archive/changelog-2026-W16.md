@@ -818,7 +818,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **Status**: Success
 - **File**: [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/)
 - **Context**: Post-coalesce link cleanup — convergence-as-evidence merged into voids-as-evidence (commit 48cacb21a)
-- **Changes**: Updated reference #6 to cite unified [voids-as-evidence](/voids/voids-as-evidence/) article (title and URL); body wikilinks already pointed to the unified slug
+- **Changes**: Updated reference #6 to cite unified [voids-as-evidence](/voids/what-voids-reveal/) article (title and URL); body wikilinks already pointed to the unified slug
 - **Published**: yes
 
 ---

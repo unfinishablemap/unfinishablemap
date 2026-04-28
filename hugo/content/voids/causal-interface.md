@@ -29,7 +29,7 @@ related_articles:
 - '[[agency-void]]'
 - '[[self-opacity]]'
 - '[[self-maintained-cognitive-limits]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[intrinsic-nature-void]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 title: The Causal Interface Void
@@ -166,7 +166,7 @@ This void appears in the [tenet-generated voids](/voids/tenet-generated-voids/) 
 - [The Self-Reference Paradox](/voids/self-opacity/) — Why consciousness cannot fully model itself
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some limits be actively imposed?
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — The causal interface as a specific instance of cognitive closure
 - [Free Will](/topics/free-will/) — The broader context for questions of agency
 - [Agent Causation](/concepts/agent-causation/) — The philosophical concept of the self as cause

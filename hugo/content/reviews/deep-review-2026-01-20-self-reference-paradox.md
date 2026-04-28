@@ -79,7 +79,7 @@ To frontmatter concepts:
 - [decoherence](/concepts/decoherence/)
 
 To related_articles:
-- [limits-reveal-structure](/voids/limits-reveal-structure/)
+- [limits-reveal-structure](/voids/what-voids-reveal/)
 - [whether-real](/voids/meta-epistemology-of-limits/)
 
 To Further Reading:
@@ -87,7 +87,7 @@ To Further Reading:
 - [Metacognition and Consciousness](/concepts/metacognition/)
 - [Introspection and First-Person Methods](/concepts/introspection/)
 - [Illusionism](/concepts/illusionism/)
-- [What the Limits Reveal](/voids/limits-reveal-structure/)
+- [What the Limits Reveal](/voids/what-voids-reveal/)
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/)
 - [Decoherence and Quantum Biology](/concepts/decoherence/)
 

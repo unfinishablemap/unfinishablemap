@@ -63,7 +63,7 @@ All major counterarguments were addressed in the 2026-01-20 review. Remaining di
 ### Cross-links Added
 
 - [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) (in Further Reading and frontmatter)
-- [limits-reveal-structure](/voids/limits-reveal-structure/) (in Further Reading)
+- [limits-reveal-structure](/voids/what-voids-reveal/) (in Further Reading)
 - [voids](/voids/) (in frontmatter)
 
 ### Condensation Applied

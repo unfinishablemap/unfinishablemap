@@ -154,7 +154,7 @@ The claim that pre-conceptual knowing constitutes a genuine void would be challe
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — Related territory where speakable and thinkable diverge
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — Knowledge accessible only through phenomenal experience
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate cognitive architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate cognitive architecture
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — Russell's quiddities and what cannot be captured
 - [The Silence Void](/voids/the-silence-void/) — Cessation of thought as access to pre-conceptual territory
 - [Site Tenets](/tenets/) — The foundational commitments shaping this investigation

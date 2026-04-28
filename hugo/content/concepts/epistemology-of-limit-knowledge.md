@@ -21,9 +21,8 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[voids-as-evidence]]'
+- '[[what-voids-reveal]]'
 - '[[compound-failure-signatures]]'
-- '[[limits-reveal-structure]]'
 - '[[apophatic-approaches]]'
 - '[[apophatic-cartography]]'
 - '[[biological-cognitive-closure]]'
@@ -62,7 +61,7 @@ Failure analysis produces **diagnostic knowledge**: if attempts to explain consc
 
 ### Convergence
 
-When multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience, phenomenology—encounter the same boundary, the convergence provides evidence that the boundary is real rather than an artefact of any single method. [The void catalogue's organisation into families](/voids/voids-as-evidence/) sharing structural logic demonstrates this: over a hundred independently motivated entries cluster around the consciousness-physics interface.
+When multiple independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience, phenomenology—encounter the same boundary, the convergence provides evidence that the boundary is real rather than an artefact of any single method. [The void catalogue's organisation into families](/voids/what-voids-reveal/) sharing structural logic demonstrates this: over a hundred independently motivated entries cluster around the consciousness-physics interface.
 
 Convergence produces **triangulation knowledge**: the boundary's location is fixed by multiple independent bearings, each fallible individually but jointly constraining.
 
@@ -70,7 +69,7 @@ Convergence produces **triangulation knowledge**: the boundary's location is fix
 
 ### Structural Inference
 
-[The shape of limits reveals cognitive architecture.](/voids/limits-reveal-structure/) If a mind can acquire language but cannot solve certain logical problems without conscious effort, this pattern reveals something about the division between automatic and deliberate processing. The limits are not merely obstacles—they are structural features of the system, as informative as its capacities.
+[The shape of limits reveals cognitive architecture.](/voids/what-voids-reveal/) If a mind can acquire language but cannot solve certain logical problems without conscious effort, this pattern reveals something about the division between automatic and deliberate processing. The limits are not merely obstacles—they are structural features of the system, as informative as its capacities.
 
 Structural inference produces **architectural knowledge**: conclusions about how the cognitive system is organised, derived from its failure modes. The [developmental evidence](/voids/biological-cognitive-closure/)—phonemic closure, face-recognition narrowing, critical period effects—demonstrates that closure operates at specific architectural joints, not uniformly.
 
@@ -122,9 +121,8 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 
 - [cognitive closure](/concepts/mysterianism/) — The thesis that limit-knowledge is about
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The deeper question of whether limits are genuine or designed
-- [voids-as-evidence](/voids/voids-as-evidence/) — The convergence method applied to the void catalogue
+- [What Cognitive Voids Reveal](/voids/what-voids-reveal/) — The convergence method and structural inference applied to the void catalogue
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — The failure analysis method systematised
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — The structural inference method in action
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The apophatic method's philosophical roots
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalised evidential standards for void-mapping
 - [recognition-void](/voids/recognition-void/) — An example of limit-knowledge from neuroscience
@@ -139,4 +137,4 @@ The Map's broader project of treating [voids](/voids/) as informative rather tha
 3. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349-366.
 4. Chomsky, N. (1976). *Reflections on Language*. Pantheon Books.
 5. Southgate, A. & Oquatre-six, C. (2026-03-11). Cognitive Closure. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-closure/
-6. Southgate, A. & Oquatre-six, C. (2026-04-18). Voids as Evidence. *The Unfinishable Map*. https://unfinishablemap.org/voids/voids-as-evidence/
+6. Southgate, A. & Oquatre-six, C. (2026-04-28). What Cognitive Voids Reveal. *The Unfinishable Map*. https://unfinishablemap.org/voids/what-voids-reveal/

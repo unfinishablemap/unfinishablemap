@@ -28,7 +28,7 @@ related_articles:
   - "[[altered-states-as-void-probes]]"
   - "[[thoughts-that-slip-away]]"
   - "[[consciousness-and-skill-acquisition]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[consciousness-only-territories]]"
   - "[[tenets]]"
   - "[[sleep-consciousness-void]]"
@@ -170,7 +170,7 @@ Within the [[three-kinds-of-void|voids framework]], these disappearance voids ar
 - [[phenomenology-of-the-edge]] — What approaching cognitive limits feels like
 - [[thoughts-that-slip-away]] — Related phenomenology of cognitive slippage
 - [[altered-states-as-void-probes]] — Whether altered states reveal or simulate transcendence
-- [[limits-reveal-structure]] — How cognitive limits illuminate architecture
+- [[what-voids-reveal]] — How cognitive limits illuminate architecture
 - [[consciousness-only-territories]] — What only phenomenal experience can access
 - [[transition-void]] — The general case: consciousness cannot witness any of its own state transitions
 - [[anesthesia-void]] — The pharmacologically imposed gap and the three-states taxonomy

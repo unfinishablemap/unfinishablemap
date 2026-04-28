@@ -60,7 +60,7 @@ None. The article remains well-structured with appropriate claims and empirical 
 ### Cross-links Added
 - [appetitive-void](/voids/appetitive-void/) (related_articles, body text ×2, Further Reading)
 - [topology-of-cognitive-failure](/voids/compound-failure-signatures/) (related_articles, Further Reading)
-- [limits-reveal-structure](/voids/limits-reveal-structure/) (related_articles, Further Reading)
+- [limits-reveal-structure](/voids/what-voids-reveal/) (related_articles, Further Reading)
 
 ## Remaining Items
 

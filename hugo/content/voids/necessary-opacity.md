@@ -31,7 +31,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[intrinsic-nature-void]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[phenomenal-transparency-opacity-spectrum]]'
@@ -154,7 +154,7 @@ Attempting to grasp what lies behind phenomenal transparency uses the very appar
 
 **Comparative phenomenology.** Different minds may have different transparencies. What one mind cannot see, another might. Triangulating across human perspectives—and potentially across human and artificial minds—may reveal contours of the void.
 
-**Recurrence across instruments.** The [imagery-void](/voids/imagery-void/) supplies independent evidence that opacity here is structural rather than methodological. The same phenomenon—introspective reports of mental imagery diverging from underlying phenomenology—surfaces three times across more than a century: Galton's 1880 survey, the Würzburg School's "imageless thought" controversy that helped end introspection as scientific method, and the post-2015 aphantasia rediscovery. Three distinct vocabularies and instruments produce the same shape of failure. If the failure were methodological, different methods would resolve it; their convergence is a signature of the structural opacity this article tracks.
+**Recurrence across instruments.** The [imagery-void](/voids/imagery-void/) supplies independent evidence that opacity here is structural rather than methodological. The same phenomenon—introspective reports of mental imagery diverging from underlying phenomenology—surfaces three times across more than a century: Galton's 1880 survey, the Würzburg School's "imageless thought" controversy, and the post-2015 aphantasia rediscovery. Three distinct vocabularies produce the same shape of failure; if the failure were methodological, different methods would resolve it.
 
 **Inference from function.** If certain opacities are functionally necessary, we can infer what would happen without them. What truths, if grasped, would prevent the grasping system from functioning? The answer characterises the void's content.
 
@@ -206,7 +206,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — The phenomenology of slippage
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — Limit-experiences across traditions
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are permanent or merely current
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [what-voids-reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [The Calibration Void](/voids/observation-and-measurement-void/) — Introspection lacks independent calibration standards
 - [The Transit Void](/voids/transit-void/) — Why consciousness cannot witness its own crossings, including the onset of mental acts
 - [The Erasure Void](/voids/erasure-void/) — Why cognitive losses go silent: the monitoring system shares fate with the monitored

@@ -98,7 +98,7 @@ The Map's commitment to [dualism](/tenets/#dualism) gains support from compound 
 
 For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compound voids offer a possible explanation for why the consciousness-physics interface remains hidden. It is not merely hard to observe (empirical difficulty). It sits behind the intersection of the [self-reference-paradox](/concepts/self-reference-paradox/) (the observer cannot observe itself observing), the [intrinsic-nature-void](/voids/intrinsic-nature-void/) (we cannot know what matter is in itself), and the [causal interface void](/voids/causal-interface/) (the mechanism connecting mind and brain is opaque). Three locks, each requiring a different key—and the compound closure ensures that possessing any two keys is insufficient.
 
-[Tenet-generated voids](/voids/tenet-generated-voids/) already recognises that some voids emerge from the *interaction* between tenets rather than from individual commitments. Compound cognitive limits extend this principle beyond tenet-generated voids to the full ecology of cognitive limitation. The Map should treat its voids not as a catalogue of independent items but as an interacting system—where relationships between voids are as informative as the voids themselves, and where [what the limits reveal](/voids/limits-reveal-structure/) includes what their interactions reveal.
+[Tenet-generated voids](/voids/tenet-generated-voids/) already recognises that some voids emerge from the *interaction* between tenets rather than from individual commitments. Compound cognitive limits extend this principle beyond tenet-generated voids to the full ecology of cognitive limitation. The Map should treat its voids not as a catalogue of independent items but as an interacting system—where relationships between voids are as informative as the voids themselves, and where [what the limits reveal](/voids/what-voids-reveal/) includes what their interactions reveal.
 
 ## Further Reading
 
@@ -110,7 +110,7 @@ For [minimal quantum interaction](/tenets/#minimal-quantum-interaction), compoun
 - [incompleteness-void](/voids/formal-cognitive-limits/)
 - [causal-interface](/voids/causal-interface/)
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/)
-- [limits-reveal-structure](/voids/limits-reveal-structure/)
+- [limits-reveal-structure](/voids/what-voids-reveal/)
 - [Convergence of the Void Catalogue](/voids/convergence-as-evidence/) — How void families share boundaries and converge directionally
 
 ## References

@@ -40,7 +40,7 @@ related_articles:
   - "[[biological-cognitive-closure]]"
   - "[[appetitive-void]]"
   - "[[thoughts-that-slip-away]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[consciousness-and-cognitive-distinctiveness]]"
   - "[[topics/free-will]]"

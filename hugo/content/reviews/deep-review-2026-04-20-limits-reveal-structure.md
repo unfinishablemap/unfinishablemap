@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-20
-**Article**: [What the Limits Reveal](/voids/limits-reveal-structure/)
+**Article**: [What the Limits Reveal](/voids/what-voids-reveal/)
 **Previous review**: [2026-03-30](/reviews/deep-review-2026-03-30-limits-reveal-structure/)
 **Context**: Cross-review considering erasure-void insights (erasure-void.md created 2026-04-20)
 

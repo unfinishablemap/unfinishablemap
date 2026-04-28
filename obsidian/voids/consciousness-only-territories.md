@@ -20,7 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[acquaintance-void]]"
   - "[[voids-between-minds]]"
@@ -154,7 +154,7 @@ If genuine consciousness-only territories exist, several implications follow.
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — The inverse asymmetry: what AI and alien minds might probe that humans cannot
 - [[voids|Voids in the Map]] — The framework for investigating cognitive limits
 - [[phenomenology-of-the-edge|Phenomenology of the Edge]] — What it feels like to approach cognitive limits
-- [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
+- [[what-voids-reveal|What the Limits Reveal]] — How cognitive boundaries illuminate architecture
 - [[acquaintance-void|The Acquaintance Void]] — Modes of phenomenal contact structurally inaccessible to different cognitive architectures
 - [[voids-between-minds|The Second-Person Void]] — The encounter between consciousnesses as a territory accessible only through participation
 - [[hard-problem-of-consciousness|The Hard Problem]] — Why explaining consciousness resists physical reduction

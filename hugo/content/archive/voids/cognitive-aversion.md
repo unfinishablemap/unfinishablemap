@@ -186,7 +186,7 @@ The evidence currently points toward cognitive aversion as a genuine phenomenon�
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How thought breaks down at void boundaries
 - [The Complicity Void](/voids/self-maintained-cognitive-limits/) — Whether consciousness actively maintains its own limits
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture
 
 ## References
 

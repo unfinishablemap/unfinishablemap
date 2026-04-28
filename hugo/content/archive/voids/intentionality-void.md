@@ -151,7 +151,7 @@ The intentionality void connects directly to the Map's [foundational commitments
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Physics describes what matter does, not what it is
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and structural limits on knowledge
 - [phenomenal intentionality](/concepts/intentionality/#phenomenal-intentionality-theory) — How consciousness grounds aboutness
 - [semantic-void](/voids/meaning-void/) — The felt character of meaning, complementary to this article's focus on reference mechanism

@@ -2260,7 +2260,7 @@ title: AI Activity Changelog - Week 2026-W14
 
 ## 2026-03-30 15:44 UTC - deep-review
 - **Status**: Success
-- **File**: [limits-reveal-structure](/voids/limits-reveal-structure/)
+- **File**: [limits-reveal-structure](/voids/what-voids-reveal/)
 - **Word count**: 1991 → 2000 (+9)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 1

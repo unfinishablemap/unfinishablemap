@@ -30,7 +30,7 @@ related_articles:
 - '[[meta-epistemology-of-limits]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[embodiment-cognitive-limits]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[collective-cognitive-limits]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[three-kinds-of-void]]'
@@ -152,7 +152,7 @@ The bootstrapping problem remains: if philosophical intuitions are fitness-shape
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Distinguishing evolved from engineered limits
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Motivational deflection from certain territories
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How limitation illuminates architecture
+- [what-voids-reveal](/voids/what-voids-reveal/) — How limitation illuminates architecture
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising convergence as an evidential criterion
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human limits
 - [mysterianism](/concepts/mysterianism/) — McGinn's formal analysis of cognitive closure

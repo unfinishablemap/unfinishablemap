@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-20
-**Article**: [What the Limits Reveal](/voids/limits-reveal-structure/)
+**Article**: [What the Limits Reveal](/voids/what-voids-reveal/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

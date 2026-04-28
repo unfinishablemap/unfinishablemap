@@ -108,7 +108,7 @@ The rejection of [Many Worlds](/tenets/#no-many-worlds) finds support here as we
 - [introspective-opacity](/voids/self-opacity/) — Why we cannot observe our own cognitive mechanisms
 - [pre-conceptual-knowing](/voids/acquaintance-void/) — What lies before conceptual articulation
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What only consciousness can access
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — The experience of approaching cognitive limits
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own contribution
 - [reality-feeling-void](/voids/phenomenal-presence-void/) — Why the stamp of realness hides its own mechanism

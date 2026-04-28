@@ -131,7 +131,7 @@ The boundary void connects to the Map's [tenets](/tenets/) with unusual directne
 - [self-opacity](/voids/self-opacity/) — Why consciousness cannot verify its own accuracy
 - [minimal-consciousness-void](/voids/minimal-consciousness-void/) — The void at consciousness's lower intensity bound
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 
 ## References

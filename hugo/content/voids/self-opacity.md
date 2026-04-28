@@ -41,7 +41,7 @@ related_articles:
 - '[[ownership-void]]'
 - '[[void-as-ground-of-meaning]]'
 - '[[narrative-void]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[boundary-and-projection]]'
 - '[[necessary-opacity]]'
 - '[[constitutive-exclusion]]'

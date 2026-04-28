@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [What the Limits Reveal](/voids/limits-reveal-structure/)
+**Article**: [What the Limits Reveal](/voids/what-voids-reveal/)
 **Previous review**: [2026-02-01](/reviews/deep-review-2026-02-01-limits-reveal-structure/)
 **Context**: Cross-review considering void-as-ground-of-meaning insights
 

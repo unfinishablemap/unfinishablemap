@@ -131,7 +131,7 @@ Cognitive closure connects to the Map's framework primarily through the [Occam's
 
 The Map goes further than McGinn. Where McGinn remains officially neutral on ontology—the solution might be physicalist, dualist, or something inconceivable—the Map commits to [dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction). Cognitive closure explains why conclusive proof for these commitments may never arrive, even if they are correct. The Map treats them as working commitments held with epistemic humility, and cognitive closure is part of why that humility is warranted. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) provides the systematic account of what kind of knowledge these commitments represent and what warrant structures support them.
 
-The [voids](/voids/) framework operationalises cognitive closure. Rather than treating it as a reason for despair, the Map uses it as a method: by mapping *where* thought systematically fails, we trace the architecture of the thinker. [Apophatic approaches](/concepts/apophatic-approaches/) — methods of inquiry through systematic negation — provide the disciplined toolkit for this work, treating each failed positive explanation as data that constrains what remains. As [limits-reveal-structure](/voids/limits-reveal-structure/) argues, the shape of our limitations is as informative about cognitive architecture as the shape of our successes.
+The [voids](/voids/) framework operationalises cognitive closure. Rather than treating it as a reason for despair, the Map uses it as a method: by mapping *where* thought systematically fails, we trace the architecture of the thinker. [Apophatic approaches](/concepts/apophatic-approaches/) — methods of inquiry through systematic negation — provide the disciplined toolkit for this work, treating each failed positive explanation as data that constrains what remains. As [limits-reveal-structure](/voids/what-voids-reveal/) argues, the shape of our limitations is as informative about cognitive architecture as the shape of our successes.
 
 ## Further Reading
 
@@ -144,7 +144,7 @@ The [voids](/voids/) framework operationalises cognitive closure. Rather than tr
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — The meta-question: can we know our own limits?
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — A candidate for McGinn's property P
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How the shape of our limits reveals cognitive architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How the shape of our limits reveals cognitive architecture
 - [inventory-blindness](/concepts/inventory-blindness/) — Why cognitive closure is invisible from the inside: absent capabilities produce no signal
 - [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are genuine or apparent?
 - [self-transcendence-void](/voids/self-transcendence-void/) — Why consciousness cannot bootstrap beyond its own architecture

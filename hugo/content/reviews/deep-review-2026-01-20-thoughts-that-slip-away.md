@@ -72,7 +72,7 @@ topics: []
 ### Cross-links Added
 
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/)
-- [limits-reveal-structure](/voids/limits-reveal-structure/)
+- [limits-reveal-structure](/voids/what-voids-reveal/)
 - [mysterianism](/concepts/mysterianism/)
 - [introspection](/concepts/introspection/)
 - [illusionism](/concepts/illusionism/)

@@ -18,7 +18,7 @@ related_articles:
   - "[[tenets]]"
   - "[[vertiginous-question]]"
   - "[[plurality-void]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[self-opacity]]"
   - "[[apophatic-approaches]]"
   - "[[binding-void]]"
@@ -163,7 +163,7 @@ The framework-generated-voids analysis would be undermined if:
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[tenets|The Five Tenets]] — The commitments that generate these voids
-- [[limits-reveal-structure|What the Limits Reveal]] — How cognitive boundaries illuminate cognitive architecture
+- [[what-voids-reveal|What the Limits Reveal]] — How cognitive boundaries illuminate cognitive architecture
 - [[vertiginous-question|The Indexical Void]] — Why am I *this* consciousness?
 - [[plurality-void|The Plurality Void]] — Why consciousness cannot be plural
 - [[meta-epistemology-of-limits|Whether the Voids Are Real]] — The question of genuine versus apparent limits

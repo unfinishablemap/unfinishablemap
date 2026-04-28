@@ -185,7 +185,7 @@ The voids framework itself embodies this insight. We map not by entering void te
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate cognitive architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate cognitive architecture
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared boundaries
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation

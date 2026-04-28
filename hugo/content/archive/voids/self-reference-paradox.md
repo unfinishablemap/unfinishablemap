@@ -107,7 +107,7 @@ The Map responds on two levels. First, any sufficiently complex system modelling
 
 ## What This Void Reveals
 
-The [limits-reveal-structure](/voids/limits-reveal-structure/) principle applies directly:
+The [limits-reveal-structure](/voids/what-voids-reveal/) principle applies directly:
 
 **Consciousness is subject-structured.** The [subject-object distinction](/topics/the-subject-object-distinction-as-philosophical-discovery/) appears constitutive, not optional. The direction always runs from subject to object, never the reverse simultaneously.
 
@@ -145,7 +145,7 @@ The self-reference paradox may be the prototype void: territory consciousness st
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — The phenomenology of cognitive slippage
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — The puzzle that may be permanently in the void
 - [Witness Consciousness](/concepts/witness-consciousness/) — The observer mode in contemplative traditions
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate cognitive architecture
 - [The Calibration Void](/voids/observation-and-measurement-void/) — Why introspection cannot verify its own reliability
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Can consciousness upgrade the architecture that constrains it?
 - [The Constitutive Exclusion](/topics/constitutive-exclusion/) — The broader structural limit of which self-reference is a special case

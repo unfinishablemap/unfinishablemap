@@ -199,7 +199,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [intentionality](/concepts/intentionality/) — The aboutness of consciousness and its limits
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — What cognitive limits illuminate about cognitive architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — What cognitive limits illuminate about cognitive architecture
 
 ## References
 

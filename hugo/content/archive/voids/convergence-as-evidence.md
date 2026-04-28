@@ -169,7 +169,7 @@ The convergence analysis connects to each of the Map's [tenets](/tenets/).
 ## Further Reading
 
 - [voids](/voids/) — The catalogue being analysed
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How cognitive limits illuminate cognitive architecture
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — The failure signature taxonomy underlying family identification
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids the Map's own commitments generate
 - [apophatic-cartography](/voids/apophatic-cartography/) — The method validated by convergence

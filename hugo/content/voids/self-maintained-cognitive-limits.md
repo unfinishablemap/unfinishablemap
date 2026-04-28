@@ -46,7 +46,7 @@ related_articles:
 - '[[death-void]]'
 - '[[death-and-consciousness]]'
 - '[[appetitive-void]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[narrative-void]]'
 - '[[disappearance-voids]]'
 - '[[biological-cognitive-closure]]'

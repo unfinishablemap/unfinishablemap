@@ -29,7 +29,7 @@ related_articles:
 - '[[language-thought-boundary]]'
 - '[[embodiment-cognitive-limits]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[epistemic-horizon-void]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[formal-cognitive-limits]]'
@@ -115,7 +115,7 @@ Three experiential signatures recur in introspective and philosophical reports o
 
 The categorial void cannot be described from inside the very apparatus that cannot form it. Every description in this article — including the term "categorial void" itself — uses categories drawn from the apparatus whose limits are at issue. The article therefore approximates by construction.
 
-This is a structural consequence of the claim, not a failure of the article. The [limits-reveal-structure](/voids/limits-reveal-structure/) principle applies: where the categories fail systematically, the pattern of failure is itself data about the boundary.
+This is a structural consequence of the claim, not a failure of the article. The [limits-reveal-structure principle](/voids/what-voids-reveal/) applies: where the categories fail systematically, the pattern of failure is itself data about the boundary.
 
 ## Relation to Site Perspective
 
@@ -135,7 +135,7 @@ Two further tenets are touched more lightly. Bidirectional Interaction may persi
 - [The meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/)
 - [The epistemic horizon void](/voids/epistemic-horizon-void/)
 - [Non-human minds as void-explorers](/voids/non-human-minds-as-void-explorers/)
-- [Limits reveal structure](/voids/limits-reveal-structure/)
+- [What cognitive voids reveal](/voids/what-voids-reveal/)
 - [Embodiment and cognitive limits](/voids/embodiment-cognitive-limits/)
 
 ## References

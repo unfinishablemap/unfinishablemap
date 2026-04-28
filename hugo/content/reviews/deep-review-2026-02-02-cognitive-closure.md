@@ -65,7 +65,7 @@ None. The article is well-constructed with accurate McGinn attribution and appro
 ### Cross-links Added (FROM other articles)
 
 - [mysterianism](/concepts/mysterianism/) — Added link in "Cognitive Closure" section
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — Added link in "Species-Specific Closure" section
+- [limits-reveal-structure](/voids/what-voids-reveal/) — Added link in "Species-Specific Closure" section
 - [explanatory-gap](/concepts/explanatory-gap/) — Added link in "The Mysterian Alternative" section
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Added link in "Mysterianism" section
 - [conceptual-acquisition-limits](/voids/architecture-of-cognitive-closure/) — Added link in opening paragraph

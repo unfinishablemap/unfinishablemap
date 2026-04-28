@@ -60,7 +60,7 @@ None.
 - [reductionism](/concepts/reductionism/) — inline in opening summary
 - [mysterianism](/concepts/mysterianism/) — inline in "Self-referential structure" paragraph + frontmatter + further reading
 - [nomic-void](/voids/nomic-void/) — related articles + further reading
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — related articles
+- [limits-reveal-structure](/voids/what-voids-reveal/) — related articles
 
 ## Remaining Items
 

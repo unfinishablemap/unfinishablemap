@@ -181,7 +181,7 @@ The Map's analysis also resonates with [mysterianism](/concepts/mysterianism/). 
 - [framework-void](/voids/framework-void/) — The structural analysis of frameworks as cognitive prisons
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation fails within a framework
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level framework constraints
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — What cognitive limits reveal about the architecture of mind
+- [limits-reveal-structure](/voids/what-voids-reveal/) — What cognitive limits reveal about the architecture of mind
 - [consciousness-and-the-phenomenology-of-translation](/topics/consciousness-and-the-phenomenology-of-translation/) — The experience of moving between conceptual systems
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How the Map's own commitments create framework-specific blind spots
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) — What happens when inhabited frameworks collide

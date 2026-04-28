@@ -24,7 +24,7 @@ related_articles:
   - "[[imagination-and-creativity-void]]"
   - "[[disappearance-voids]]"
   - "[[three-kinds-of-void]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[agency-void]]"
   - "[[phenomenal-quality-void]]"
   - "[[phenomenology-of-the-edge]]"

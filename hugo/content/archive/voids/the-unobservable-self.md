@@ -110,7 +110,7 @@ A critical point: Buddhist philosophy draws the opposite metaphysical conclusion
 
 ## What This Void Reveals
 
-The [limits-reveal-structure](/voids/limits-reveal-structure/) principle applies directly. The unobservability of the self tells us something about what consciousness *is*:
+The [limits-reveal-structure](/voids/what-voids-reveal/) principle applies directly. The unobservability of the self tells us something about what consciousness *is*:
 
 **Consciousness is subject-structured.** The [subject-object distinction](/topics/the-subject-object-distinction-as-philosophical-discovery/) was not always obvious—it had to be discovered through systematic philosophical inquiry. The Map interprets this void as showing the division between observer and observed is constitutive, not optional. We cannot collapse it because doing so would destroy what we are investigating. Consciousness inherently involves being *toward* something—intentionality—and the direction always runs from subject to object, never the reverse simultaneously. A physicalist reading is available: the subject-object structure may be a feature of self-models rather than of consciousness itself—brains that model themselves as agents naturally produce the sense of an observing subject.
 
@@ -162,7 +162,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. I
 - [The Absorption Void](/voids/disappearance-voids/) — Peak engagement as peak self-opacity
 - [The Narrative Void](/voids/narrative-void/) — When the narrator cannot observe its own narrating
 - [The Silence Void](/voids/the-silence-void/) — When the observer ceases observing: the territory beyond the regression
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive limits illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive limits illuminate architecture
 - [The Hard Problem of Consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists explanation
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership relation hides from the subject who bears it
 - [Haecceity](/concepts/haecceity/) — The irreducible particularity of this observer

@@ -53,7 +53,7 @@ Each link was added both in the article body (at a contextually natural point) a
 1. **[cognitive-closure](/concepts/mysterianism/)** — In Relation to Site Perspective section, referencing epistemology-of-limit-knowledge as the systematic account of what kind of knowledge cognitive closure claims represent
 2. **[convergence-as-evidence](/voids/voids-as-evidence/)** — In Directional Convergence section, identifying convergence as one of four epistemic routes producing triangulation knowledge
 3. **[compound-failure-signatures](/voids/compound-failure-signatures/)** — In Failure Signatures as Data section, identifying failure analysis as one of four methods producing diagnostic knowledge
-4. **[limits-reveal-structure](/voids/limits-reveal-structure/)** — In Species-Specific Closure section, identifying structural inference as one of four methods producing architectural knowledge
+4. **[limits-reveal-structure](/voids/what-voids-reveal/)** — In Species-Specific Closure section, identifying structural inference as one of four methods producing architectural knowledge
 5. **[meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)** — In Implications section, referencing the four-method systematisation
 6. **[whether-real](/voids/meta-epistemology-of-limits/)** — In Implications section, referencing the formalised indirect methods and warrant structures
 7. **[apophatic-cartography](/voids/apophatic-cartography/)** — In Four Criteria section, identifying apophatic reasoning as one of four methods producing contour knowledge

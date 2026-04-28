@@ -34,7 +34,7 @@ related_articles:
   - "[[resolution-void]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"
   - "[[binding-void]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[thoughts-that-slip-away]]"
   - "[[apophatic-approaches]]"
   - "[[topics/free-will]]"
@@ -161,7 +161,7 @@ The temporal void engages the Map's [[tenets]] at several points.
 - [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory
 - [[philosophy-of-time]] — McTaggart's A/B series, presentism, and eternalism
 - [[collapse-and-time]] — How consciousness might participate in collapse that generates time's arrow
-- [[limits-reveal-structure]] — How boundaries illuminate architecture
+- [[what-voids-reveal]] — How boundaries illuminate architecture
 - [[mysterianism]] — Cognitive closure and the limits of understanding
 - [[apophatic-approaches]] — Methods for engaging with what exceeds articulation
 - [[conjunction-coalesce|The Conjunction-Coalesce]] — Where this article appears as a candidate within a temporal-mode cluster of self-witnessing failures

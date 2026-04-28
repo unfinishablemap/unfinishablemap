@@ -21,7 +21,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[apophatic-approaches]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[aesthetic-void]]'
@@ -142,7 +142,7 @@ The constitutive thesis connects to each of the Map's [tenets](/tenets/):
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How the shape of limits reveals cognitive architecture
+- [what-voids-reveal](/voids/what-voids-reveal/) — How the shape of limits reveals cognitive architecture
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — Can we determine if cognitive limits are permanent?
 - [death-void](/voids/death-void/) — How mortality structures temporal meaning

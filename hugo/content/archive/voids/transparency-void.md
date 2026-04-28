@@ -92,7 +92,7 @@ This void is also deeper than the simulation hypothesis. The question of whether
 
 ## What the Void Reveals
 
-Following the principle that [cognitive limits illuminate cognitive architecture](/voids/limits-reveal-structure/), the transparency void tells us something about what kind of minds we are.
+Following the principle that [cognitive limits illuminate cognitive architecture](/voids/what-voids-reveal/), the transparency void tells us something about what kind of minds we are.
 
 A mind for which the transparency void did not exist would need to operate outside its own representational framework—to compare its representations against reality without using representations to do so. No representational system can achieve this. The void appears to be a necessary feature of any mind that models reality through representations, not a contingent limitation of human biology.
 
@@ -117,7 +117,7 @@ The void also connects to the Map's [Bidirectional Interaction](/tenets/#bidirec
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The parallel question of what matter is in itself
 - [whether-real](/voids/meta-epistemology-of-limits/) — Whether cognitive limits are permanent or merely current
 - [destabilizing-self-knowledge](/voids/necessary-opacity/) — What happens when transparency breaks down
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [The Intersubjective Void](/voids/voids-between-minds/) — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 
 ## References

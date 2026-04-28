@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-24
-**Article**: [Voids as Evidence](/voids/voids-as-evidence/)
+**Article**: [Voids as Evidence](/voids/what-voids-reveal/)
 **Previous review**: [2026-04-18 (post-coalesce stability review)](/reviews/deep-review-2026-04-18-voids-as-evidence/)
 
 ## Context

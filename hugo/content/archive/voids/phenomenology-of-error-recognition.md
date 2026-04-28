@@ -144,7 +144,7 @@ None currently obtains. Error-blindness persists despite millennia of attention.
 - [thoughts-that-slip-away](/voids/thought-stream-void/) — Other forms of cognitive slippage
 - [voids](/voids/) — The framework for investigating cognitive limits
 - [whether-real](/voids/meta-epistemology-of-limits/) — Can we determine if limits are permanent?
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — What cognitive limits illuminate about cognitive architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — What cognitive limits illuminate about cognitive architecture
 
 ## References
 

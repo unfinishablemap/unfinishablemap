@@ -24,7 +24,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[thoughts-that-slip-away]]'
 - '[[biological-cognitive-closure]]'

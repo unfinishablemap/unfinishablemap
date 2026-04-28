@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-27 22:12:00+00:00
+ai_modified: 2026-04-28 09:59:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -69,7 +69,7 @@ A maintenance note on this index. Three of the entries below—[the agency void]
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The core taxonomy: unexplored, unexplorable, occluded
 - [The Origin Void](/voids/origin-of-consciousness/) — Why consciousness exists at all—the most logically prior void
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data
-- [Voids as Evidence](/voids/voids-as-evidence/) — How the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
+- [What Cognitive Voids Reveal](/voids/what-voids-reveal/) — How limits illuminate cognitive architecture, and how the convergence of the catalogue and the capacity to conceive of voids both constitute abductive evidence for dualism
 - [Apophatic Cartography: Method and Its Limits](/voids/apophatic-cartography/) — The method of knowing through negation, and why any such catalog is constitutively incomplete
 - [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/) — How we can know our cognitive limits from within a limited mind, and why we cannot predict which will prove permanent
 - [The Epistemic Horizon Void](/voids/epistemic-horizon-void/) — The second-order void that shadows every other: why consciousness cannot estimate the total scope of what it does not know from within the limited system doing the estimating (created 2026-04-23)
@@ -89,6 +89,7 @@ A maintenance note on this index. Three of the entries below—[the agency void]
 - [The Commensurability Void](/voids/commensurability-void/) — Why phenomenal experiences across different architectures cannot always be compared
 - [Mapping Mind-Space](/voids/mapping-mind-space/) — Why consciousness cannot survey the geometry of mind-space from within: neither locating itself among possible minds nor introspecting the dimensions along which experience varies
 - [The Synesthetic Void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our own species
+- [The Imagery Void](/voids/imagery-void/) — Why no conscious mind can verify the fidelity, vividness, or even presence of its own mental images: three structural faces (fidelity / inter-subjective / function-phenomenology), anchored empirically in the Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery (created 2026-04-28)
 - [The Affective Void](/voids/affective-void/) — Emotions we cannot feel—affects beyond human reach
 - [The Emotional Epistemology Void](/voids/emotional-epistemology-void/) — Whether emotions constitute genuine knowledge about reality
 - [The Valence Void](/voids/valence-void/) — Why experience has a built-in good/bad dimension
@@ -181,7 +182,6 @@ A maintenance note on this index. Three of the entries below—[the agency void]
 
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Knowing through negation
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Formalising the method with evidential standards
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and hypothetical alien minds to probe territories closed to human cognition
 - [Consciousness-Only Territories](/voids/consciousness-only-territories/) — What only phenomenal experience can access
 - [The Asymmetry Between Remembering and Anticipating](/voids/temporal-void/) — Why past and future access differs
@@ -200,15 +200,14 @@ The voids framework flows directly from the Map's [tenets](/tenets/):
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [apophatic cartography](/voids/apophatic-cartography/)—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-04-27 (refine-draft, 22:12 UTC)
+<!-- AI REFINEMENT LOG - 2026-04-28 (refine-draft, 09:59 UTC)
 Changes made:
-- Added a maintenance note at the end of §"The Discipline of Not Knowing" naming the three conjunction-coalesce instances (agency-void, voids-between-minds, erasure-void), distinguishing the two coalesces from the erasure-void cognate, and instructing future reviewers not to collapse the seams. This installs into the file the maintenance warning that the 2026-04-27 18:59 UTC deep-review log indicated had been added but which existed only in the review document itself (lines 140–144 of `reviews/deep-review-2026-04-27b-voids.md`).
-- Added `[conjunction-coalesce](/apex/conjunction-coalesce/)` to frontmatter `related_articles`.
-- Updated ai_modified to 2026-04-27T22:12:00+00:00.
+- Added [imagery-void](/voids/imagery-void/) entry to "Specific Voids" subsection, placed adjacent to synesthetic-void since that article is its closest parallel (intra-species phenomenal divergence). One-line annotation names the three structural faces (fidelity / inter-subjective / function-phenomenology) and the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery), per task notes. Closes the navigation gap noted in the gap-analysis task: a reader on this index page can now locate imagery-void from its closest cluster.
+- Updated ai_modified to 2026-04-28T09:59:00+00:00.
 
-~110 words added; index entries unchanged; voice preserved.
+~50 words added; existing entries unchanged; voice preserved.
 
 This log should be removed after human review.
 
-Prior log (2026-04-27 17:57 UTC refine-draft: agency-void index entry tightened; coalesce parenthetical dropped) superseded by this entry.
+Prior log (2026-04-27 22:12 UTC refine-draft: conjunction-coalesce maintenance note added) superseded by this entry.
 -->

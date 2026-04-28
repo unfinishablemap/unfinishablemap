@@ -133,7 +133,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects through the indexic
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Thoughts arrive with immediate thereness that resists examination
 - [Voids in the Map](/voids/) — The broader framework for cognitive limits
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 
 ## References
 

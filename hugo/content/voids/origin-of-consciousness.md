@@ -26,7 +26,7 @@ related_articles:
 - '[[meta-epistemology-of-limits]]'
 - '[[intrinsic-nature-void]]'
 - '[[apophatic-approaches]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[self-opacity]]'
 - '[[thrownness-void]]'
 title: The Origin Void
@@ -156,7 +156,7 @@ The origin void connects directly to the Map's [foundational commitments](/tenet
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** makes consciousness causally efficacious—it does something. This gives consciousness a functional role, making its existence less arbitrary than pure [epiphenomenalism](/concepts/epiphenomenalism/) would allow. But causal efficacy deepens rather than resolves the origin question: why does causally efficacious consciousness exist rather than none?
 
-The origin void exemplifies the Map's method: taking consciousness seriously leads to voids that resist current conceptual resources. This is not failure but [revelation](/voids/limits-reveal-structure/)—the shape of the difficulty tells us something about what consciousness must be to so persistently resist origin-explanation.
+The origin void exemplifies the Map's method: taking consciousness seriously leads to voids that resist current conceptual resources. This is not failure but [revelation](/voids/what-voids-reveal/)—the shape of the difficulty tells us something about what consciousness must be to so persistently resist origin-explanation.
 
 ## Further Reading
 

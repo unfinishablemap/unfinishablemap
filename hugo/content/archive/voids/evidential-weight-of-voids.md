@@ -41,7 +41,7 @@ The Unfinishable Map catalogues dozens of cognitive voids—places where underst
 
 ## The Pattern
 
-The Map's voids section reveals a striking distribution. The [limits that reveal structure](/voids/limits-reveal-structure/) are not uniformly distributed across human inquiry. Physics has interpretive difficulties (quantum measurement, fine-tuning), mathematics has foundational limits (Gödel), and cosmology faces observational horizons. But these limits do not cluster. They arise independently, from different features of different domains.
+The Map's voids section reveals a striking distribution. The [limits that reveal structure](/voids/what-voids-reveal/) are not uniformly distributed across human inquiry. Physics has interpretive difficulties (quantum measurement, fine-tuning), mathematics has foundational limits (Gödel), and cosmology faces observational horizons. But these limits do not cluster. They arise independently, from different features of different domains.
 
 Consciousness-related voids behave differently. The hard problem, the [causal interface](/voids/causal-interface/), intrinsic nature, [other minds](/voids/voids-between-minds/), [introspective opacity](/voids/self-opacity/), the [binding problem](/voids/binding-void/), qualitative novelty, the [ownership of experience](/voids/ownership-void/)—these voids share a common boundary. They all fail at the same juncture: the point where first-person phenomenal reality meets third-person physical description. As Chalmers argues, structural and dynamical explanation—however detailed—yields only more structure and dynamics, never phenomenal experience. What physical explanation provides is categorically different from what consciousness is.
 
@@ -107,7 +107,7 @@ The argument also connects to the Map's intellectual honesty about its own limit
 
 - [whether-real](/voids/meta-epistemology-of-limits/)
 - [compound-failure-signatures](/voids/compound-failure-signatures/)
-- [limits-reveal-structure](/voids/limits-reveal-structure/)
+- [limits-reveal-structure](/voids/what-voids-reveal/)
 - [tenet-generated-voids](/voids/tenet-generated-voids/)
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
 - [questioning-as-evidence](/voids/voids-as-evidence/)

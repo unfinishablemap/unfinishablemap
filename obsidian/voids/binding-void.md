@@ -29,7 +29,7 @@ related_articles:
   - "[[attention-and-consciousness]]"
   - "[[temporal-void]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[consciousness-only-territories]]"
   - "[[compound-failure-signatures]]"
   - "[[recognition-void]]"

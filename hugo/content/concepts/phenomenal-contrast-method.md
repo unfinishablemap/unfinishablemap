@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-17 15:57:00+00:00
+ai_modified: 2026-04-28 09:28:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: The phenomenal contrast method isolates non-sensory phenomenal prop
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-17 15:57:00+00:00
+last_deep_review: 2026-04-28 09:28:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -28,6 +28,7 @@ related_articles:
 - '[[methodological-pluralism]]'
 - '[[phenomenological-evidence]]'
 - '[[heterophenomenology]]'
+- '[[imagery-void]]'
 title: Phenomenal Contrast Method
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -84,6 +85,8 @@ The phenomenal contrast method shares logical structure with the [knowledge argu
 
 The method's logical structure lends itself to empirical research through [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/). By comparing neural activity during phenomenally contrastive conditions — understanding versus non-understanding, agency versus passivity — researchers can identify neural correlates of non-sensory phenomenal properties. The method provides the experimental design: hold sensory input constant and vary cognitive engagement, then observe what changes in both phenomenal report and neural activity. This makes phenomenal contrasts one of the few tools that can bridge first-person phenomenology and third-person neuroscience without collapsing one into the other.
 
+The aphantasia spectrum extends this empirical reach. Aphantasics and imagers can be presented with the same task — mental rotation, autobiographical recall, response to scary narrative — and their phenomenal reports diverge along an axis the method then tries to characterise. Kay, Keogh, and Pearson (2024) found aphantasics complete classical mental rotation tasks "slower but more accurately" using analytic rather than imagery-based strategies; this is a phenomenal contrast at population scale, with measurable behavioural and neural correlates. The method here functions in two directions at once: the contrast supports cognitive phenomenology's reality (different phenomenology, same task) while the dissociation between phenomenal report and task performance constrains what cognitive phenomenology *does*. The [imagery-void](/voids/imagery-void/) develops this function/phenomenology wedge in detail.
+
 ### Bearing on AI Consciousness
 
 The method also constrains the debate over [ai-consciousness](/topics/ai-consciousness/). A language model and a competent human reader process the same French sentence. If phenomenal character attaches to understanding rather than to sensory input or functional transformation, then behavioural parity on comprehension tasks settles nothing about whether the system has the phenomenal contrast. The question becomes whether the system instantiates whatever cognitive phenomenology is, not whether it produces the right outputs. This is why the Map treats phenomenal contrasts as evidence against functionalist shortcuts to machine consciousness — the very datum functionalism must explain is the datum a functional duplicate might lack.
@@ -94,13 +97,13 @@ The method also constrains the debate over [ai-consciousness](/topics/ai-conscio
 
 Skeptics argue that apparent cognitive contrasts actually involve subtle sensory differences. Perhaps understanding French triggers different subvocalisation patterns, slight emotional responses, or altered auditory processing. The phenomenal difference might be sensory after all, just at a level too fine-grained to notice.
 
-**Response:** This objection faces the problem of aphantasia and dissociation cases. People who lack mental imagery still report phenomenal differences between understanding and not understanding. If the contrast persisted when known sensory accompaniments are absent, the sensory reduction is implausible. Furthermore, even if subtle sensory differences correlate with understanding, this does not establish that they *constitute* the phenomenal difference rather than merely accompanying it.
+**Response:** This objection faces the problem of aphantasia and dissociation cases. People who lack mental imagery still report phenomenal differences between understanding and not understanding. Lennon (2023) develops this into a formal argument: aphantasics have phenomenally conscious thoughts with "no sensory reduction base," falsifying the sensory constraint on conscious thought. The post-2015 aphantasia literature (Zeman 2024) provides the empirical anchor — a documented spectrum from extreme aphantasia to extreme hyperphantasia, with the cognitive contrasts of understanding, recognising, and grasping persisting across that spectrum. Even if subtle sensory differences correlate with understanding, this does not establish that they *constitute* the phenomenal difference rather than merely accompanying it.
 
 ### Introspective Reliability
 
-Philosophers disagree about what phenomenal contrasts reveal. Some report vivid cognitive phenomenology; others find nothing beyond sensory accompaniments. This disagreement raises questions about whether introspection reliably identifies the source of phenomenal differences.
+Philosophers disagree about what phenomenal contrasts reveal. Some report vivid cognitive phenomenology; others find nothing beyond sensory accompaniments. Eric Schwitzgebel (2008) presses this further: "we are not simply fallible at the margins... we are broadly inept" at introspection, with mental imagery as a paradigm domain where reports of "vividness" diverge wildly across persons in ways the reporters cannot reconcile. The [imagery-void](/voids/imagery-void/) traces how this divergence is structural rather than methodological.
 
-**Response:** Disagreement about the *interpretation* of phenomenal contrasts does not undermine the contrasts themselves. Nearly everyone agrees that understanding French feels different from not understanding it. The dispute concerns whether this difference is cognitive or sensory in nature — a theoretical question, not an introspective one. The method identifies the data; the debate concerns the best explanation.
+**Response:** Disagreement about the *interpretation* of phenomenal contrasts does not undermine the contrasts themselves. Nearly everyone agrees that understanding French feels different from not understanding it. The dispute concerns whether this difference is cognitive or sensory in nature — a theoretical question, not an introspective one. The method identifies the data; the debate concerns the best explanation. The Schwitzgebel-style worry bites hardest on graded vividness reports (how vivid is your image?) and least on dramatic contrasts (do you understand this sentence?). The method should be applied where contrasts are stark and treated cautiously where they require fine-grained introspective comparison.
 
 ### The Scope Problem
 
@@ -130,6 +133,7 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 - [heterophenomenology](/concepts/heterophenomenology/) — Dennett's third-person alternative and why phenomenal contrasts resist it
 - [methodological-pluralism](/concepts/methodological-pluralism/) — Where phenomenal contrasts fit among consciousness research methods
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Bridging first-person contrasts with third-person neuroscience
+- [imagery-void](/voids/imagery-void/) — Where phenomenal contrasts in imagery vividness expose structural limits of introspective comparability
 
 ## References
 
@@ -137,4 +141,8 @@ The phenomenal contrast method serves the Map as both evidence and tool — evid
 2. Strawson, G. (1994). *Mental Reality*. MIT Press.
 3. Pitt, D. (2004). The phenomenology of cognition, or, what is it like to think that P? *Philosophy and Phenomenological Research*, 69(1), 1-36.
 4. Bayne, T. & Montague, M. (eds.) (2011). *Cognitive Phenomenology*. Oxford University Press.
-5. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/
+5. Schwitzgebel, E. (2008). The Unreliability of Naive Introspection. *The Philosophical Review*, 117(2). https://faculty.ucr.edu/~eschwitz/SchwitzPapers/Naive070907.htm
+6. Lennon, P. (2023). Aphantasia and Conscious Thought. *Erkenntnis*. https://philarchive.org/archive/LENAAC-3
+7. Zeman, A. (2024). Aphantasia and Hyperphantasia: Exploring Imagery Vividness Extremes. *Trends in Cognitive Sciences*. https://www.cell.com/trends/cognitive-sciences/fulltext/S1364-6613(24)00034-2
+8. Kay, L., Keogh, R., & Pearson, J. (2024). Slower but more accurate mental rotation performance in aphantasia linked to differences in cognitive strategies. *Consciousness and Cognition*. https://www.sciencedirect.com/science/article/pii/S1053810024000618
+9. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Cognitive Phenomenology. *The Unfinishable Map*. https://unfinishablemap.org/concepts/cognitive-phenomenology/

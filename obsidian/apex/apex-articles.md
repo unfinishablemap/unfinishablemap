@@ -312,10 +312,9 @@ Each apex article synthesises existing [[topics|topics]] and [[concepts|concepts
 - voids/three-kinds-of-void
 - voids/apophatic-cartography
 - voids/biological-cognitive-closure
-- voids/limits-reveal-structure
+- voids/what-voids-reveal
 - voids/compound-failure-signatures
 - voids/phenomenology-of-the-edge
-- voids/voids-as-evidence
 - voids/tenet-generated-voids
 - voids/meta-epistemology-of-limits
 

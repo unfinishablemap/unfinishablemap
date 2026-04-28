@@ -16,7 +16,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[consciousness-only-territories]]"
   - "[[meta-epistemology-of-limits]]"

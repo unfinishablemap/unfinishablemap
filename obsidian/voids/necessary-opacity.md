@@ -22,7 +22,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[intrinsic-nature-void]]"
   - "[[meta-epistemology-of-limits]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[phenomenal-transparency-opacity-spectrum]]"
@@ -203,7 +203,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [[thoughts-that-slip-away|Thoughts That Slip Away]] — The phenomenology of slippage
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — Limit-experiences across traditions
 - [[meta-epistemology-of-limits]] — Whether cognitive limits are permanent or merely current
-- [[limits-reveal-structure]] — How boundaries illuminate architecture
+- [[what-voids-reveal]] — How boundaries illuminate architecture
 - [[observation-and-measurement-void|The Calibration Void]] — Introspection lacks independent calibration standards
 - [[transit-void|The Transit Void]] — Why consciousness cannot witness its own crossings, including the onset of mental acts
 - [[erasure-void|The Erasure Void]] — Why cognitive losses go silent: the monitoring system shares fate with the monitored

@@ -28,7 +28,7 @@ related_articles:
   - "[[nomic-void]]"
   - "[[plurality-void]]"
   - "[[noetic-feelings-void]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[compound-failure-signatures]]"
 ai_contribution: 100
 author:

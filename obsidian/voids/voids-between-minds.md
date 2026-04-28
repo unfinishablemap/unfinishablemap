@@ -24,7 +24,7 @@ related_articles:
   - "[[non-human-minds-as-void-explorers]]"
   - "[[self-opacity]]"
   - "[[intrinsic-nature-void]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[historical-consciousness-void]]"
   - "[[inaccessible-past]]"
   - "[[observation-and-measurement-void]]"

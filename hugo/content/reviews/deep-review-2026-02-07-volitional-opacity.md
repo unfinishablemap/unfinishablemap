@@ -59,7 +59,7 @@ topics: []
 - Fixed Soon et al. citation with accuracy qualifier
 
 ### Cross-links Added
-- [limits-reveal-structure](/voids/limits-reveal-structure/) (related_articles + Further Reading)
+- [limits-reveal-structure](/voids/what-voids-reveal/) (related_articles + Further Reading)
 - [creativity-void](/voids/imagination-and-creativity-void/) (related_articles + Further Reading)
 - [volitional-opacity](/voids/introspective-opacity/) added to introspective-opacity.md (bidirectional link)
 

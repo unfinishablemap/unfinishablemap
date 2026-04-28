@@ -37,7 +37,7 @@ topics: []
 ### Attribution Accuracy
 - Kriegel (2003), Demircioglu (2017), McGinn (1989), Chomsky (1976): All accurately summarised, unchanged from previous review.
 - Self-citations to archived `cognitive-closure` page (Reference 5): URL is preserved by archive system; the article body now uses [cognitive closure](/concepts/mysterianism/) for the wikilink.
-- "Over a hundred entries" claim: Currently 98 active voids files (cap is 100), with 90 in archive. The phrasing matches the parallel claim in [voids-as-evidence](/voids/voids-as-evidence/). Not changed—the framing is consistent across the Map and the count fluctuates with coalesce/expand cycles.
+- "Over a hundred entries" claim: Currently 98 active voids files (cap is 100), with 90 in archive. The phrasing matches the parallel claim in [voids-as-evidence](/voids/what-voids-reveal/). Not changed—the framing is consistent across the Map and the count fluctuates with coalesce/expand cycles.
 
 ## Optimistic Analysis Summary
 
@@ -64,5 +64,5 @@ None. The article is at convergence.
 - The eliminativist objection ("structured failure could reflect bad framework, not architecture") is a bedrock dualism/physicalism disagreement and should NOT be re-flagged in future reviews.
 - The Dennett-style denial of phenomenal qualities is a meta-disagreement about the explanandum that this article need not relitigate.
 - The Buddhist concern about the constructed cognizer was deferred in the previous review and remains deferred.
-- The "over a hundred" framing matches the parallel claim in [voids-as-evidence](/voids/voids-as-evidence/) and should not be flagged for adjustment unless that parallel article also changes.
+- The "over a hundred" framing matches the parallel claim in [voids-as-evidence](/voids/what-voids-reveal/) and should not be flagged for adjustment unless that parallel article also changes.
 - Word count: 1652 → 1724 (+72). Well under the 2500-word soft threshold for concepts.

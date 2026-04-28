@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-30
-**Article**: [What the Limits Reveal](/voids/limits-reveal-structure/)
+**Article**: [What the Limits Reveal](/voids/what-voids-reveal/)
 **Previous review**: [2026-01-27](/reviews/deep-review-2026-01-27-limits-reveal-structure/)
 **Context**: Cross-review considering questioning-as-evidence.md insights
 

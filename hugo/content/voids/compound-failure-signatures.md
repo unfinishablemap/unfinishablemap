@@ -24,14 +24,13 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[thoughts-that-slip-away]]'
 - '[[self-opacity]]'
 - '[[apophatic-approaches]]'
 - '[[biological-cognitive-closure]]'
-- '[[voids-as-evidence]]'
 - '[[phenomenology-of-cognitive-limit-types]]'
 - '[[tenet-generated-voids]]'
 - '[[formal-cognitive-limits]]'
@@ -139,16 +138,15 @@ Current evidence supports structured, persistent failure patterns. [Cross-cultur
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** relates to compound closure around the consciousness-physics interface. It is not merely hard to observe. It sits behind the intersection of the [self-reference paradox](/voids/self-opacity/) (the observer cannot observe itself observing), the [intrinsic-nature-void](/voids/intrinsic-nature-void/) (we cannot know what matter is in itself), and the [causal interface void](/voids/causal-interface/) (the mechanism connecting mind and brain is opaque). Three locks, each requiring a different key—and compound closure ensures that possessing any two keys is insufficient.
 
-[Tenet-generated voids](/voids/tenet-generated-voids/) already recognises that some voids emerge from the *interaction* between tenets rather than from individual commitments. Compound failure signatures extend this principle to the full ecology of cognitive limitation. The Map should treat its voids not as a catalogue of independent items but as an interacting system—where relationships between voids are as informative as the voids themselves, and where [what the limits reveal](/voids/limits-reveal-structure/) includes what their interactions reveal.
+[Tenet-generated voids](/voids/tenet-generated-voids/) already recognises that some voids emerge from the *interaction* between tenets rather than from individual commitments. Compound failure signatures extend this principle to the full ecology of cognitive limitation. The Map should treat its voids not as a catalogue of independent items but as an interacting system—where relationships between voids are as informative as the voids themselves, and where [what the limits reveal](/voids/what-voids-reveal/) includes what their interactions reveal.
 
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate cognitive architecture
+- [What Cognitive Voids Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture and how the catalogue's organised structure becomes evidence
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared boundaries
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching cognitive limits feels like
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalising the method with evidential standards
-- [Voids as Evidence](/voids/voids-as-evidence/) — How voids organise into five families, and how conceiving of voids is itself evidential
 - [The Self-Reference Paradox](/voids/self-opacity/) — Where consciousness cannot map because it is the mapper
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — Voids that emerge from interactions between tenets
 - [infant-consciousness](/voids/infant-consciousness/) — Paradigm case of compound failure

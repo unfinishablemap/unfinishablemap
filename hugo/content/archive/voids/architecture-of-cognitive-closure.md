@@ -179,7 +179,7 @@ The claim that some concepts are permanently inaccessible would be challenged if
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive dark spaces
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's formal analysis of structural limits
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — When logic excludes conception
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What approaching limits feels like
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded

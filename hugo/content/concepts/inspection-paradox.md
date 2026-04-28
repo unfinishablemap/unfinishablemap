@@ -31,7 +31,7 @@ related_articles:
 - '[[predictive-construction-void]]'
 - '[[necessary-opacity]]'
 - '[[constitutive-exclusion]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[boundary-and-projection]]'
 - '[[apophatic-approaches]]'
 title: The Inspection Paradox
@@ -136,7 +136,7 @@ The paradox does not, by itself, prove any tenet. It does less ambitious work: i
 - [self-reference-paradox](/concepts/self-reference-paradox/) — The formal-logical sibling; Lawvere's fixed-point theorem as the abstract unification
 - [necessary-opacity](/voids/necessary-opacity/) — Consciousness cannot verify its own accuracy
 - [constitutive-exclusion](/topics/constitutive-exclusion/) — Why consciousness cannot access reality independent of its own constitutive contribution
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — The framing thesis: cognitive limits carve out architecture
+- [what-voids-reveal](/voids/what-voids-reveal/) — The framing thesis: cognitive limits carve out architecture
 - [boundary-and-projection](/voids/boundary-and-projection/) — The outward analogue: projective mechanisms hidden from the consciousness using them
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Knowing through negation, the methodological response to the inspection paradox
 - [mysterianism](/concepts/mysterianism/) — McGinn's cognitive-closure thesis; the inspection paradox supplies a specific structural reason that consciousness may be closed to the minds investigating it

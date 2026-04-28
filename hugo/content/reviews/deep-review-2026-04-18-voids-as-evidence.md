@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-18
-**Article**: [Voids as Evidence](/voids/voids-as-evidence/)
+**Article**: [Voids as Evidence](/voids/what-voids-reveal/)
 **Previous reviews**: [2026-03-22 (convergence antecedent)](/reviews/deep-review-2026-03-22-convergence-as-evidence/), [2026-03-14 (questioning antecedent)](/reviews/deep-review-2026-03-14-questioning-as-evidence/)
 
 ## Context

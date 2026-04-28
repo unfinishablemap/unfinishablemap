@@ -26,7 +26,7 @@ related_articles:
   - "[[language-thought-boundary]]"
   - "[[conceptual-impossibility]]"
   - "[[biological-cognitive-closure]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[tenet-generated-voids]]"
   - "[[consciousness-and-the-phenomenology-of-translation]]"
   - "[[duhem-quine-underdetermination-consciousness]]"
@@ -183,7 +183,7 @@ The claim that framework inhabitation and change have irreducible phenomenal cha
 - [[framework-void]] — The structural analysis of frameworks as cognitive prisons
 - [[language-thought-boundary]] — Where articulation fails within a framework
 - [[biological-cognitive-closure]] — Cross-cultural evidence for species-level framework constraints
-- [[limits-reveal-structure]] — What cognitive limits reveal about the architecture of mind
+- [[what-voids-reveal]] — What cognitive limits reveal about the architecture of mind
 - [[consciousness-and-the-phenomenology-of-translation]] — The experience of moving between conceptual systems
 - [[tenet-generated-voids]] — How the Map's own commitments create framework-specific blind spots
 - [[phenomenology-of-philosophical-disagreement]] — What happens when inhabited frameworks collide

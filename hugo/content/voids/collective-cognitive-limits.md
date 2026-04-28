@@ -21,7 +21,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[self-maintained-cognitive-limits]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[thoughts-that-slip-away]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[biological-cognitive-closure]]'
@@ -143,7 +143,7 @@ The mapping project therefore requires triangulation: individual minds probing w
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Occlusion mechanisms in detail
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How limitation illuminates architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How limitation illuminates architecture
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human limits
 - [Thoughts That Slip Away](/voids/thought-stream-void/) — Phenomenology of slippage mechanisms
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — Individual cognitive closure analysis

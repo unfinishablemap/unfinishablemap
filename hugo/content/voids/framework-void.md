@@ -27,7 +27,7 @@ related_articles:
 - '[[metaphor-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[tenet-generated-voids]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[apophatic-cartography]]'
@@ -114,7 +114,7 @@ The framework void ultimately suggests that the Map is unfinishable not merely b
 - [metaphor-void](/voids/metaphor-void/) — The figurative mappings beneath framework categories, one level further down
 - [tenet-generated-voids](/voids/tenet-generated-voids/) — How the Map's own commitments generate framework-specific blind spots
 - [The Predictive Construction Void](/voids/predictive-construction-void/) — A related limit operating below the conceptual level: perception itself is a framework whose construction/reception ratio is structurally hidden
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — The principle that what we cannot think reveals what kind of minds we are
+- [what-voids-reveal](/voids/what-voids-reveal/) — The principle that what we cannot think reveals what kind of minds we are
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level framework constraints
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Whether AI and alien minds can transcend human framework limits
 - [The Intersubjective Void](/voids/voids-between-minds/) — How social knowledge mechanisms enforce framework constraints on phenomenal reports

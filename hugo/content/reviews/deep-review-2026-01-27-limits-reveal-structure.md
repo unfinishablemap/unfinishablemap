@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-27
-**Article**: [What the Limits Reveal](/voids/limits-reveal-structure/)
+**Article**: [What the Limits Reveal](/voids/what-voids-reveal/)
 **Previous review**: [2026-01-20](/reviews/deep-review-2026-01-20-limits-reveal-structure/)
 **Context**: Cross-review considering intrinsic-nature-void.md
 

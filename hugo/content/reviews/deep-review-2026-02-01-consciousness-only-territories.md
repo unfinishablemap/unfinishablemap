@@ -64,7 +64,7 @@ topics: []
 - [ai-as-void-explorer](/voids/non-human-minds-as-void-explorers/) (inverse asymmetry)
 - [voids](/voids/) (framework)
 - [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) (related void exploration)
-- [limits-reveal-structure](/voids/limits-reveal-structure/) (structural implications)
+- [limits-reveal-structure](/voids/what-voids-reveal/) (structural implications)
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) (philosophical foundation)
 - Tenet links all functional
 

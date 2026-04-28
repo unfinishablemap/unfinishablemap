@@ -32,11 +32,10 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[apophatic-approaches]]'
-- '[[limits-reveal-structure]]'
+- '[[what-voids-reveal]]'
 - '[[three-kinds-of-void]]'
 - '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[voids-as-evidence]]'
 - '[[biological-cognitive-closure]]'
 - '[[compound-failure-signatures]]'
 - '[[self-maintained-cognitive-limits]]'
@@ -112,7 +111,7 @@ How would we distinguish natural from designed, or genuine from merely apparent?
 
 **Cross-architecture comparison**: Where human cognition fails but AI succeeds (or vice versa), asymmetry might reveal architecture-specific constraints—the [AI as void-explorer](/voids/non-human-minds-as-void-explorers/) approach. Yet current AI, trained on human text, largely inherits human categories.
 
-**Convergence as weak evidence**: If independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure ([the evidential weight of voids](/voids/voids-as-evidence/)). But all human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality.
+**Convergence as weak evidence**: If independent approaches—evolutionary psychology, contemplative traditions, formal logic, neuroscience—converge on the same limits, this provides weak evidence for genuine closure ([the evidential weight of voids](/voids/what-voids-reveal/)). But all human traditions are produced by human minds; their agreement may reveal common cognitive constraints rather than external reality.
 
 The recursion is inescapable: every detection method operates within cognitive architecture that might be constrained. [Consciousness may actively participate in maintaining its own limits](/voids/self-maintained-cognitive-limits/), making detection fail selectively—succeeding where truth is safe, faltering where discovery would disturb.
 
@@ -142,7 +141,7 @@ Approaching this question has a distinctive feel: **suspension rather than confu
 
 **Indirect methods become primary.** Direct verification being impossible, the Map tracks the *shape* of failure. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) systematises this into four routes: failure analysis, convergence, structural inference, and apophatic reasoning.
 
-**The method doesn't depend on the verdict.** Whether voids are real or illusory, natural or designed, exploring where cognition stalls illuminates architecture regardless. If limits are natural, they reveal structure—[the Map's approach](/voids/limits-reveal-structure/) applies. If designed, they reveal purpose—voids as intentional silences. Either way, the response—careful attention to what can be thought, honest acknowledgment of what cannot—remains the same.
+**The method doesn't depend on the verdict.** Whether voids are real or illusory, natural or designed, exploring where cognition stalls illuminates architecture regardless. If limits are natural, they reveal structure—[the Map's approach](/voids/what-voids-reveal/) applies. If designed, they reveal purpose—voids as intentional silences. Either way, the response—careful attention to what can be thought, honest acknowledgment of what cannot—remains the same.
 
 ## Relation to Site Perspective
 
@@ -168,7 +167,7 @@ None of these conditions has been met. The hard problem remains as puzzling afte
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — Using failure patterns as data
 - [Apophatic Cartography as Epistemic Method](/voids/apophatic-cartography/) — Formalised evidential standards
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — The unexplored, unexplorable, and occluded
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Could some thoughts be actively blocked?

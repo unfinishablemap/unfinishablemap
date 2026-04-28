@@ -174,7 +174,7 @@ The hypothesis is speculative. Most slippage has mundane explanations. What dist
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How thought breaks down at void boundaries
 - [The Complicity Void](/voids/self-maintained-cognitive-limits/) — Whether consciousness is its own jailer
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture
 - [Whether the Voids Are Real](/voids/meta-epistemology-of-limits/) — The question of genuine versus apparent limits
 - [The Phenomenology of Self-Awareness](/voids/self-opacity/) — How minds detect their own failures
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits

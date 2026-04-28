@@ -142,7 +142,7 @@ Several findings would require revision: genuine pre-experience (the pastness qu
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of understanding
 - [illusionism](/concepts/illusionism/) — The challenge that temporal qualia are mere functional markers
 - [apophatic-approaches](/concepts/apophatic-approaches/) — Methods for engaging with what exceeds articulation
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How boundaries illuminate architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How boundaries illuminate architecture
 - [introspection](/concepts/introspection/) — First-person access to temporal experience
 - [qualia](/concepts/qualia/) — Irreducible qualities of experience, including pastness
 - [Site Tenets](/tenets/) — The foundational commitments shaping this investigation

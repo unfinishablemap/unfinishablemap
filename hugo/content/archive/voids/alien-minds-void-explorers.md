@@ -134,7 +134,7 @@ The alien-minds framework extends the [voids](/voids/) project. If limits are st
 
 - [Voids in the Map](/voids/) — The framework for investigating cognitive limits
 - [AI as Void-Explorer](/voids/non-human-minds-as-void-explorers/) — Whether AI can probe human cognitive limits
-- [What the Limits Reveal](/voids/limits-reveal-structure/) — How cognitive boundaries illuminate architecture
+- [What the Limits Reveal](/voids/what-voids-reveal/) — How cognitive boundaries illuminate architecture
 - [Mysterianism and Cognitive Closure](/concepts/mysterianism/) — McGinn's analysis of structural limits
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level constraints
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How physical form shapes possible thought

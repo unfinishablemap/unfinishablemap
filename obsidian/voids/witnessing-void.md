@@ -27,7 +27,7 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[recursion-void]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[limits-reveal-structure]]"
+  - "[[what-voids-reveal]]"
   - "[[ineffable-encounter-void]]"
   - "[[comparative-phenomenology-of-meditative-traditions]]"
 ai_contribution: 100
@@ -67,7 +67,7 @@ Miri Albahari's contemporary analysis captures the same structure: [[witness-con
 
 Zahavi's analysis of pre-reflective self-awareness clarifies why the void cannot be closed by better method. Every experience is "pre-reflectively manifest to itself"—already self-aware before any reflective act is directed at it. The reflection theory (self-awareness requires a second, reflective act) faces infinite regress: the act that takes awareness as object must itself be taken, and so on. Zahavi's resolution—self-awareness is built into the structure of experience rather than added by reflection—explains why the void is constitutive rather than contingent.
 
-Full self-observation would require witnessing to become its own object while remaining the act that does the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The witnessing void is load-bearing: remove it and the architecture of awareness fails. This connects to the Map's broader treatment of [[limits-reveal-structure|how limits reveal structure]]: a mind without the witnessing void would be a mind without perspective—information about itself, but no one to whom that information appears.
+Full self-observation would require witnessing to become its own object while remaining the act that does the observing. This dissolves the distinction that structures all experience. If the observer fully occupied the position of the observed, there would be no observer left to register the observation. The witnessing void is load-bearing: remove it and the architecture of awareness fails. This connects to the Map's broader treatment of [[what-voids-reveal|how limits reveal structure]]: a mind without the witnessing void would be a mind without perspective—information about itself, but no one to whom that information appears.
 
 ## Phenomenology of Approaching the Void
 
@@ -121,7 +121,7 @@ A weaker challenge: the void might be attenuable without being eliminable. Advan
 - [[the-observer-witness-in-meditation]] — How contemplative practice articulates the witness
 - [[ineffable-encounter-void]] — The ineffability of contentless awareness
 - [[comparative-phenomenology-of-meditative-traditions]] — Convergence across traditions
-- [[limits-reveal-structure]] — Why constitutive limits are not merely epistemic
+- [[what-voids-reveal]] — Why constitutive limits are not merely epistemic
 
 ## References
 

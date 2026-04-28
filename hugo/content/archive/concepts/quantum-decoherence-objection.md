@@ -129,7 +129,7 @@ Even if the arguments in this article are sound, they may not illuminate the dee
 
 This doesn't undermine the logical structure of the decoherence debate. We can still evaluate whether specific decoherence calculations are correct, whether discrete observation mechanisms face different constraints than sustained coherence mechanisms, and whether biological precedents support quantum-consciousness hypotheses. What we cannot do is claim complete understanding of *why* consciousness would interact with quantum processes if it does. The mechanism might be forever partially opaque to creatures with our cognitive architecture.
 
-The Map acknowledges this limit while maintaining that mapping the territory remains valuable—even if some regions cannot be fully charted. See [limits-reveal-structure](/voids/limits-reveal-structure/) for why encountering cognitive limits is itself philosophically informative.
+The Map acknowledges this limit while maintaining that mapping the territory remains valuable—even if some regions cannot be fully charted. See [limits-reveal-structure](/voids/what-voids-reveal/) for why encountering cognitive limits is itself philosophically informative.
 
 ## The No Many Worlds Connection
 

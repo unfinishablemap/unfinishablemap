@@ -125,7 +125,7 @@ The Map speculates that the second-person void may constitute evidence for duali
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe human cognitive limits
 - [consciousness-and-intersubjectivity](/topics/consciousness-and-intersubjectivity/) — Whether consciousness is constitutively shaped by encounter
 - [consciousness-and-testimony](/topics/consciousness-and-testimony/) — Testimony as the primary bridge across the translation gap
-- [limits-reveal-structure](/voids/limits-reveal-structure/) — How cognitive limits illuminate cognitive architecture
+- [limits-reveal-structure](/voids/what-voids-reveal/) — How cognitive limits illuminate cognitive architecture
 - [necessary-opacity](/voids/necessary-opacity/) — Why observation destroys the phenomenon under investigation
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Whether collective experience constitutes genuine sharing
 
