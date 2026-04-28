@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 09:43:00+00:00
+ai_modified: 2026-04-28 09:59:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 09:59 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[voids/voids]], [[apex/taxonomy-of-voids]]
+- **Context**: Closed the navigation gap identified by gap-analysis: the new [[voids/imagery-void]] (created 2026-04-28 03:33 UTC) was zero-mention in both the voids section index and the apex taxonomy. A reader on either index page could not locate it.
+- **Changes**:
+  - voids/voids.md: added one-line imagery-void entry to Specific Voids subsection, adjacent to synesthetic-void (its closest parallel as intra-species phenomenal divergence). Annotation names the three faces (fidelity / inter-subjective / function-phenomenology) and the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery).
+  - apex/taxonomy-of-voids.md: added three-sentence integration in Phenomenological Cluster paragraph, between acquaintance-void and phenomenal-quality-void. Distinguishes imagery-void's *function-phenomenology* face from acquaintance-void's *structural-acquaintance* face. Added imagery-void to frontmatter related_articles.
+- **Total scope**: ~190 words added across two index pages
+- **Taxonomic flag for follow-up**: the function-phenomenology face does not map cleanly onto any current cluster, the four-kinds typology, or the presence/absence axis. Recorded in the apex refinement log for a future apex-evolve cycle.
+- **Published**: yes (both pages already public; refinements applied directly)
 
 ## 2026-04-28 09:43 UTC - optimistic-review
 - **Status**: Success

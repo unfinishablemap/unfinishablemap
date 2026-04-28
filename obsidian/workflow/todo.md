@@ -72,20 +72,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-28
 
-### P2: Add imagery-void to voids/voids.md inventory and apex/taxonomy-of-voids.md
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: The new `voids/imagery-void.md` (created 2026-04-28 03:33 UTC, 2031 words) is currently *not listed* in the voids index page (`obsidian/voids/voids.md`) or the apex taxonomy (`obsidian/apex/taxonomy-of-voids.md`). Both are zero-mention. This is a navigation gap: a reader landing on `voids/voids.md` cannot find imagery-void from the index, and a reader on `apex/taxonomy-of-voids.md` cannot place it within the taxonomy of voids. Add (a) imagery-void entry to `obsidian/voids/voids.md` with one-paragraph description noting the three faces (fidelity / inter-subjective / function-phenomenology) and the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery); (b) imagery-void entry in `obsidian/apex/taxonomy-of-voids.md` placed in the appropriate taxonomic category — likely *Phenomenal-access voids* alongside synesthetic-void, acquaintance-void, and commensurability-void, with a short note distinguishing the imagery-void's function-phenomenology face from the acquaintance-void's structural-acquaintance face. Verify that the existing categorisation in taxonomy-of-voids accommodates the three-face structure; if not, flag for follow-up. Short scope (~200-350 words added across two index pages). Tenet alignment: methodological — site navigability.
-- **Source**: gap_analysis
-- **Generated**: 2026-04-28
-
-### P3: Deep review voids/binding-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-10 — 48+ days ago. Voids article on the binding void — the impossibility of accessing the mechanism by which distributed neural processing gives rise to unified phenomenal experience. Verify coherence with current site state (especially recent V-N-W modulation propagation and the imagery-void's introduction of within-species phenomenal divergence as a binding-relevant case), check cross-references and tenet alignment, audit for any "This is not X. It is Y." cliché violations (CLAUDE.md style ban), and verify the article's empirical citations remain current. See `/deep-review` skill.
-- **Source**: staleness
-- **Generated**: 2026-04-28
-
 ### P3: Deep review voids/amplification-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -2979,6 +2965,19 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Add imagery-void to voids/voids.md inventory and apex/taxonomy-of-voids.md
+- **Type**: refine-draft
+- **Notes**: The new `voids/imagery-void.md` (created 2026-04-28 03:33 UTC, 2031 words) is currently *not listed* in the voids index page (`obsidian/voids/voids.md`) or the apex taxonomy (`obsidian/apex/taxonomy-of-voids.md`). Both are zero-mention. This is a navigation gap: a reader landing on `voids/voids.md` cannot find imagery-void from the index, and a reader on `apex/taxonomy-of-voids.md` cannot place it within the taxonomy of voids. Add (a) imagery-void entry to `obsidian/voids/voids.md` with one-paragraph description noting the three faces (fidelity / inter-subjective / function-phenomenology) and the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery); (b) imagery-void entry in `obsidian/apex/taxonomy-of-voids.md` placed in the appropriate taxonomic category — likely *Phenomenal-access voids* alongside synesthetic-void, acquaintance-void, and commensurability-void, with a short note distinguishing the imagery-void's function-phenomenology face from the acquaintance-void's structural-acquaintance face. Verify that the existing categorisation in taxonomy-of-voids accommodates the three-face structure; if not, flag for follow-up. Short scope (~200-350 words added across two index pages). Tenet alignment: methodological — site navigability.
+- **Output**: obsidian/voids/voids.md
+
+Task context:
+The new `voids/imagery-void.md` (created 2026-04-28 03:33 UTC, 2031 words) is currently *not listed* in the voids index page (`obsidian/voids/voids.md`) or the apex taxonomy (`obsidian/apex/taxonomy-of-voids.md`). Both are zero-mention. This is a navigation gap: a reader landing on `voids/voids.md` cannot find imagery-void from the index, and a reader on `apex/taxonomy-of-voids.md` cannot place it within the taxonomy of voids. Add (a) imagery-void entry to `obsidian/voids/voids.md` with one-paragraph description noting the three faces (fidelity / inter-subjective / function-phenomenology) and the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery); (b) imagery-void entry in `obsidian/apex/taxonomy-of-voids.md` placed in the appropriate taxonomic category — likely *Phenomenal-access voids* alongside synesthetic-void, acquaintance-void, and commensurability-void, with a short note distinguishing the imagery-void's function-phenomenology face from the acquaintance-void's structural-acquaintance face. Verify that the existing categorisation in taxonomy-of-voids accommodates the three-face structure; if not, flag for follow-up. Short scope (~200-350 words added across two index pages). Tenet alignment: methodological — site navigability.
+
+### ✓ 2026-04-28: Add imagery-void to voids/voids.md inventory and apex/taxonomy-of-voids.md
+- **Type**: refine-draft
+- **Notes**: Closed the navigation gap. Added imagery-void as a one-line entry in `voids/voids.md` Specific Voids subsection (adjacent to synesthetic-void, its closest parallel as intra-species phenomenal divergence). Added a three-sentence integration in `apex/taxonomy-of-voids.md` Phenomenological Cluster paragraph (adjacent to acquaintance-void, where its closest related-articles already live). Distinguished the imagery-void's *function-phenomenology* face from the acquaintance-void's *structural-acquaintance* face. Flagged the function-phenomenology face for taxonomic follow-up: it does not map cleanly onto any current cluster, the four-kinds typology, or the presence/absence axis — recorded in the apex log so a future apex-evolve cycle can decide whether to introduce a phenomenology-vs-function axis or absorb the face into existing structure.
+- **Output**: obsidian/voids/voids.md, obsidian/apex/taxonomy-of-voids.md
 
 ### ✓ 2026-04-28: Cross-review topics/cognitive-phenomenology-and-the-irreducibility-of-thought and concepts/phenomenal-contrast-method considering imagery-void insights
 - **Type**: cross-review

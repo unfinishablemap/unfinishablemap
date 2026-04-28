@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-04-24
 human_modified: 2026-01-08
-ai_modified: 2026-04-27T22:12:00+00:00
+ai_modified: 2026-04-28T09:59:00+00:00
 draft: false
 last_deep_review: 2026-04-27T18:59:00+00:00
 topics: []
@@ -86,6 +86,7 @@ A maintenance note on this index. Three of the entries below—[[agency-void|the
 - [[commensurability-void|The Commensurability Void]] — Why phenomenal experiences across different architectures cannot always be compared
 - [[mapping-mind-space|Mapping Mind-Space]] — Why consciousness cannot survey the geometry of mind-space from within: neither locating itself among possible minds nor introspecting the dimensions along which experience varies
 - [[synesthetic-void|The Synesthetic Void]] — Phenomenal dimensions closed to most minds within our own species
+- [[imagery-void|The Imagery Void]] — Why no conscious mind can verify the fidelity, vividness, or even presence of its own mental images: three structural faces (fidelity / inter-subjective / function-phenomenology), anchored empirically in the Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery (created 2026-04-28)
 - [[affective-void|The Affective Void]] — Emotions we cannot feel—affects beyond human reach
 - [[emotional-epistemology-void|The Emotional Epistemology Void]] — Whether emotions constitute genuine knowledge about reality
 - [[valence-void|The Valence Void]] — Why experience has a built-in good/bad dimension
@@ -197,16 +198,15 @@ The voids framework flows directly from the Map's [[tenets]]:
 
 The voids project embodies the Map's distinctive methodology: mapping what we cannot think by carefully tracing the shape of thinking's collapse. This is [[apophatic-cartography|apophatic cartography]]—using the structure of failure as data about what lies beyond.
 
-<!-- AI REFINEMENT LOG - 2026-04-27 (refine-draft, 22:12 UTC)
+<!-- AI REFINEMENT LOG - 2026-04-28 (refine-draft, 09:59 UTC)
 Changes made:
-- Added a maintenance note at the end of §"The Discipline of Not Knowing" naming the three conjunction-coalesce instances (agency-void, voids-between-minds, erasure-void), distinguishing the two coalesces from the erasure-void cognate, and instructing future reviewers not to collapse the seams. This installs into the file the maintenance warning that the 2026-04-27 18:59 UTC deep-review log indicated had been added but which existed only in the review document itself (lines 140–144 of `reviews/deep-review-2026-04-27b-voids.md`).
-- Added `[[conjunction-coalesce]]` to frontmatter `related_articles`.
-- Updated ai_modified to 2026-04-27T22:12:00+00:00.
+- Added [[imagery-void]] entry to "Specific Voids" subsection, placed adjacent to synesthetic-void since that article is its closest parallel (intra-species phenomenal divergence). One-line annotation names the three structural faces (fidelity / inter-subjective / function-phenomenology) and the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery), per task notes. Closes the navigation gap noted in the gap-analysis task: a reader on this index page can now locate imagery-void from its closest cluster.
+- Updated ai_modified to 2026-04-28T09:59:00+00:00.
 
-~110 words added; index entries unchanged; voice preserved.
+~50 words added; existing entries unchanged; voice preserved.
 
 This log should be removed after human review.
 
-Prior log (2026-04-27 17:57 UTC refine-draft: agency-void index entry tightened; coalesce parenthetical dropped) superseded by this entry.
+Prior log (2026-04-27 22:12 UTC refine-draft: conjunction-coalesce maintenance note added) superseded by this entry.
 -->
 

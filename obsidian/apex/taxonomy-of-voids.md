@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-04-27T21:58:00+00:00
+ai_modified: 2026-04-28T09:59:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—offers cumulative abductive support for the Map's tenet-package."
 last_deep_review: 2026-04-27T21:58:00+00:00
@@ -38,6 +38,7 @@ related_articles:
   - "[[tacit-integration-void]]"
   - "[[agency-void]]"
   - "[[conjunction-coalesce]]"
+  - "[[imagery-void]]"
 
 ai_contribution: 100
 author: null
@@ -95,7 +96,7 @@ The [[erasure-void|erasure void]] extends the cluster across time: consciousness
 
 ### The Phenomenological Cluster
 
-A second major cluster concerns the qualitative character of experience itself. The [[binding-void|binding void]]—why unified experience arises from disparate sensory processes—resists analysis entirely. The [[valence-void|valence void]] asks why experience has a built-in good/bad dimension. The [[intrinsic-nature-void|intrinsic nature void]] pursues what matter and consciousness are *in themselves*, finding that every answer collapses into structure, negation, or circularity. The [[acquaintance-void|acquaintance void]] identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [[phenomenal-quality-void|phenomenal quality void]] asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated. The [[plenitude-void|plenitude void]] asks whether experience is genuinely as rich as it seems—a question structurally unanswerable from within, because every introspective check for sparsity recruits attention and manufactures the detail it would measure.
+A second major cluster concerns the qualitative character of experience itself. The [[binding-void|binding void]]—why unified experience arises from disparate sensory processes—resists analysis entirely. The [[valence-void|valence void]] asks why experience has a built-in good/bad dimension. The [[intrinsic-nature-void|intrinsic nature void]] pursues what matter and consciousness are *in themselves*, finding that every answer collapses into structure, negation, or circularity. The [[acquaintance-void|acquaintance void]] identifies modes of direct phenomenal contact structurally inaccessible to minds like ours. The [[imagery-void|imagery void]] specialises this cluster onto a particularly well-evidenced sub-region: no conscious mind can verify the fidelity of its own mental images, two minds saying "vivid" cannot share the phenomenology that word picks out, and the post-2015 aphantasia research suggests phenomenal imagery may not be doing the cognitive work it appears to do. Where the acquaintance void marks a *structural-acquaintance* limit (modes of contact altogether absent), the imagery void's third *function-phenomenology* face is different in kind: phenomenology may be present yet detached from the function it appears to perform. The empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery) makes it unusually well-evidenced for a structural limit. The [[phenomenal-quality-void|phenomenal quality void]] asks why experience arrives stamped with immediacy and realness—a quality so pervasive it normally escapes notice yet proves structurally invisible when investigated. The [[plenitude-void|plenitude void]] asks whether experience is genuinely as rich as it seems—a question structurally unanswerable from within, because every introspective check for sparsity recruits attention and manufactures the detail it would measure.
 
 These voids share a feature: they concern aspects of consciousness so fundamental that they are invisible in ordinary experience. As the [[phenomenology-of-the-edge|phenomenology of the edge]] reveals, approaching these limits produces not confusion but a paradoxical clarity—the sense of understanding something too large for words. Contemplative traditions across cultures converge on this phenomenology, suggesting it reflects something about consciousness at its boundaries rather than artefacts of any particular practice.
 
@@ -206,6 +207,23 @@ This synthesis draws from:
 - [[voids-as-evidence|Voids as Evidence]] — The clustering pattern and capacity to conceive voids as evidence for dualism
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Framework-generated limits as intellectual honesty
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — The distinction between evolved and engineered constraints
+
+<!-- AI REFINEMENT LOG - 2026-04-28 (refine-draft, 09:59 UTC)
+Changes made:
+- Added the [[imagery-void]] to the Phenomenological Cluster paragraph, between acquaintance-void and phenomenal-quality-void. Three sentences naming the three structural faces (fidelity / inter-subjective / function-phenomenology), the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery), and a contrast distinguishing the imagery-void's *function-phenomenology* face from the acquaintance-void's *structural-acquaintance* face.
+- Added [[imagery-void]] to frontmatter related_articles.
+- Updated ai_modified to 2026-04-28T09:59:00+00:00.
+
+~140 words added; voice and existing taxonomy preserved.
+
+Placement rationale: Phenomenological Cluster is the strongest fit because the imagery void's closest related-articles (acquaintance-void, plenitude-void, necessary-opacity) all live there, the article's framing is qualia-centric, and the post-2015 aphantasia evidence is fundamentally about phenomenal character. The inter-subjective face does cross into the Interpersonal/Social Cluster (intersecting commensurability-void), but the article itself flags the inter-subjective face as a *specialisation* of commensurability within a species, not a primary location.
+
+Three-face structure flag for follow-up: the existing taxonomic categorisation accommodates the fidelity face (self-knowledge / phenomenological cluster boundary) and the inter-subjective face (Interpersonal/Social) without strain, but the *function-phenomenology* face — the wedge between phenomenal presence and the cognitive work it appears to do — does not map cleanly onto any current cluster, the four-kinds typology, or the presence/absence axis. It is closest in spirit to a "phenomenology-vs-function" axis the taxonomy does not yet maintain. This is a substantive taxonomic question rather than an index-page fix; recording here so a future apex-evolve cycle can decide whether to introduce the axis or absorb the function-phenomenology face into an existing structure.
+
+This log should be removed after human review.
+
+Prior log (2026-04-24 refine-draft: pessimistic-review address) preserved below.
+-->
 
 <!-- AI REFINEMENT LOG - 2026-04-24
 Addresses pessimistic review 2026-04-24. Changes:
