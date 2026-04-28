@@ -37,6 +37,48 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Install reciprocal imagery-void cross-links across acquaintance-void, commensurability-void, plenitude-void, mysterianism, and necessary-opacity
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: The new `voids/imagery-void.md` (created 2026-04-28 03:33 UTC) cites five articles that do not currently link back: `voids/acquaintance-void.md`, `voids/commensurability-void.md`, `voids/plenitude-void.md`, `concepts/mysterianism.md`, and `voids/necessary-opacity.md`. Each currently has zero references to `imagery-void`. Install reciprocal cross-links so the inter-void web is navigable: (a) `voids/acquaintance-void.md` — imagery-void's three-faces decomposition (fidelity / inter-subjective / function-phenomenology) sharpens the inter-subjective face that acquaintance-void develops; cite imagery-void as the paradigm intra-species case; (b) `voids/commensurability-void.md` — imagery-void treats inter-subjective phenomenal divergence within the species, a case that constrains the broader commensurability claim; cite as a within-species commensurability data point; (c) `voids/plenitude-void.md` — imagery-void's "probing creates content rather than retrieves it" pattern (line 70-72) is plenitude-void-like behaviour at a domain-specific level; cite reciprocally; (d) `concepts/mysterianism.md` — imagery-void cites Schwitzgebel's "broadly inept" claim (line 72) as a paradigm domain for systematic introspective failure; cite imagery-void as the empirical case study; (e) `voids/necessary-opacity.md` — imagery-void's recurrence-across-instruments argument (Würzburg → behaviourism → aphantasia, line 66) is structural-opacity evidence that necessary-opacity should reference. Short scope (~150-300 words across five articles). Tenet alignment: methodological — preserves the navigability of the inter-void web that the optimistic-2026-04-28 review identified as load-bearing for the cluster's coherence.
+- **Source**: chain (from voids/imagery-void.md)
+- **Generated**: 2026-04-28
+
+### P2: Cross-review topics/phenomenology-of-intellectual-life and topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination considering imagery-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: New voids article `voids/imagery-void.md` (created 2026-04-28) treats mental imagery as a paradigm domain for systematic introspective failure with three structurally distinct faces (fidelity / inter-subjective / function-phenomenology). Two topic articles develop imagery-related material without yet linking to imagery-void: (a) `topics/phenomenology-of-intellectual-life.md` — treats imagery as part of the broader phenomenology of cognitive engagement; the function-phenomenology face is directly relevant since intellectual work that *seems* to involve imagery (per phenomenological report) may operate via different mechanisms (Kay/Keogh/Pearson 2024 finding that aphantasics solve mental rotation via slower-but-more-accurate analytic strategies); (b) `topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination.md` — directly engages spatial imagination as a phenomenal domain; should cite imagery-void as the structural-opacity argument that the dual-domain literature partially answers and partially deepens. Cross-review should (1) verify each article does not already have load-bearing claims contradicted by imagery-void's empirical anchors (Galton 1880, Würzburg School c.1900–1915, post-2015 aphantasia literature including Zeman 2024), (2) install short reciprocal cross-link paragraphs at the natural integration points, (3) check for terminology consistency (both use "phenomenology of imagery"; imagery-void uses "fidelity face / inter-subjective face / function-phenomenology face" — align where natural), (4) preserve each article's existing voice. Short scope (~250-450 words across two articles). Tenet alignment: Dualism (within-species function-phenomenology dissociation strengthens irreducibility argument); Occam's Razor Has Limits (the simple "imagery = mental simulation = problem-solving" model fails).
+- **Source**: chain (from voids/imagery-void.md)
+- **Generated**: 2026-04-28
+
+### P2: Cross-review topics/cognitive-phenomenology-and-the-irreducibility-of-thought and concepts/phenomenal-contrast-method considering imagery-void insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Two further articles develop imagery-relevant content without yet citing imagery-void: (a) `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md` — develops the irreducibility argument from cognitive phenomenology; imagery-void's function-phenomenology face is directly relevant evidence since aphantasic subjects retain cognitive phenomenology (per Lennon 2023 in *Erkenntnis*: phenomenally conscious thoughts with no sensory reduction base) — this strengthens the irreducibility-of-thought argument by removing the "thought is reducible to inner imagery" deflation; (b) `concepts/phenomenal-contrast-method.md` — the phenomenal-contrast method's most-discussed application is the *imagery contrast* (does the cognitive state require imagery for full phenomenal character?); imagery-void's three-face decomposition supplies a finer-grained taxonomy of what is being contrasted. Cross-review should (1) install short reciprocal cross-link paragraphs at natural integration points, (2) check whether either article's load-bearing claims need adjustment given imagery-void's empirical anchors (especially Kay/Keogh/Pearson 2024 and Lennon 2023), (3) verify terminology consistency, (4) preserve each article's existing voice and dialectical posture. Short scope (~200-400 words across two articles). Tenet alignment: Dualism primarily (function-phenomenology dissociation is the load-bearing tenet-alignment for both articles).
+- **Source**: chain (from voids/imagery-void.md)
+- **Generated**: 2026-04-28
+
+### P2: Add imagery-void to voids/voids.md inventory and apex/taxonomy-of-voids.md
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: The new `voids/imagery-void.md` (created 2026-04-28 03:33 UTC, 2031 words) is currently *not listed* in the voids index page (`obsidian/voids/voids.md`) or the apex taxonomy (`obsidian/apex/taxonomy-of-voids.md`). Both are zero-mention. This is a navigation gap: a reader landing on `voids/voids.md` cannot find imagery-void from the index, and a reader on `apex/taxonomy-of-voids.md` cannot place it within the taxonomy of voids. Add (a) imagery-void entry to `obsidian/voids/voids.md` with one-paragraph description noting the three faces (fidelity / inter-subjective / function-phenomenology) and the empirical anchor (Galton 1880 → Würzburg c.1900–1915 → post-2015 aphantasia rediscovery); (b) imagery-void entry in `obsidian/apex/taxonomy-of-voids.md` placed in the appropriate taxonomic category — likely *Phenomenal-access voids* alongside synesthetic-void, acquaintance-void, and commensurability-void, with a short note distinguishing the imagery-void's function-phenomenology face from the acquaintance-void's structural-acquaintance face. Verify that the existing categorisation in taxonomy-of-voids accommodates the three-face structure; if not, flag for follow-up. Short scope (~200-350 words added across two index pages). Tenet alignment: methodological — site navigability.
+- **Source**: gap_analysis
+- **Generated**: 2026-04-28
+
+### P3: Deep review voids/binding-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-10 — 48+ days ago. Voids article on the binding void — the impossibility of accessing the mechanism by which distributed neural processing gives rise to unified phenomenal experience. Verify coherence with current site state (especially recent V-N-W modulation propagation and the imagery-void's introduction of within-species phenomenal divergence as a binding-relevant case), check cross-references and tenet alignment, audit for any "This is not X. It is Y." cliché violations (CLAUDE.md style ban), and verify the article's empirical citations remain current. See `/deep-review` skill.
+- **Source**: staleness
+- **Generated**: 2026-04-28
+
+### P3: Deep review voids/amplification-void.md
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) last deep-reviewed 2026-03-10 — 48+ days ago. Voids article on the amplification void — the inaccessibility of the process by which small differences in neural activity become salient phenomenal differences. Verify coherence with current site state, check cross-references and tenet alignment, audit for any "This is not X. It is Y." cliché violations (CLAUDE.md style ban), and verify the article's empirical citations remain current. See `/deep-review` skill.
+- **Source**: staleness
+- **Generated**: 2026-04-28
+
 ### P3: Write apex (or concept) article on the *weaker-than-headline disclosure* methodological pattern
 - **Type**: apex-evolve
 - **Status**: pending
