@@ -1,13 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 00:55:00+00:00
+ai_modified: 2026-04-28 01:31:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 01:31 UTC - deep-review
+- **Status**: Success
+- **File**: [philosophical-zombies](/concepts/philosophical-zombies/)
+- **Trigger**: Fifth deep review (last 2026-03-22). Article grew from 2805 → 3242 words via cross-review additions (Interactionist Escape subsection, cognitive-phenomenology paragraph) and an anchor-repair commit that introduced a subtly broken link.
+- **Word count**: 3242 → 3214 (-28); above soft threshold (2500) but below hard (3500); length-neutral mode applied
+- **Critical issues addressed**: 1
+  - Broken anchor link `[illusionism](/concepts/illusionism/#the-illusionist-response)` — actual heading is `## The Illusionist Response: Functional Seeming`; slugify produces different fragments. Introduced 2026-03-26 by anchor-repair commit (48b7bbe13) which used the heading prefix rather than the full heading. Fixed to full heading.
+- **Medium issues addressed**: 1
+  - Length 130% of soft threshold; trimmed redundant final paragraph of Interactionist Escape (restated metaproblem material already in Self-Stultification section). Preserved the substantively valuable Interactionist Escape subsection itself, which addresses a real coherence concern between zombie-argument premise and Bidirectional Interaction tenet.
+- **Enhancements made**: 0 (no new content added; article continues to grow well via prior cross-reviews)
+- **Stability**: Fifth deep review. Core argument structure stable; recent additions (interactionist escape, cognitive phenomenology) substantively justified. All four bedrock disagreements (MWI, eliminativism, empiricist, hard-nosed physicalist) acknowledged in prior reviews and not re-flagged.
+- **Output**: [deep-review-2026-04-28-philosophical-zombies](/reviews/deep-review-2026-04-28-philosophical-zombies/)
+
+## 2026-04-28 01:12 UTC - deep-review
+- **Status**: Success
+- **File**: [methodological-pluralism](/concepts/methodological-pluralism/)
+- **Trigger**: Cross-review against [conjunction-coalesce](/apex/conjunction-coalesce/) (2026-04-27 apex creation, deep-reviewed 2026-04-27 21:14 and 2026-04-27 23:28 UTC). Fourth deep review of methodological-pluralism; article is at convergence.
+- **Word count**: 1644 → 1700 (+56); below 2500 soft threshold for `concepts/`
+- **Critical issues addressed**: 0 (article remains at convergence per 2026-04-24 stability notes)
+- **Medium issues addressed**: 1
+  - Missing cross-link to conjunction-coalesce: the article's Mutual Constraint framework is structurally parallel to the conjunction-coalesce discipline (both refuse to dissolve a load-bearing distinction; both treat the joint operation as analytical object). Added a single linking sentence in the Mutual Constraint section and added [conjunction-coalesce](/apex/conjunction-coalesce/) to related_articles. Connection is at the structural-parallel level, not constitutive — object-level method pluralism vs editorial-meta seam preservation.
+- **Enhancements made**: 1 (the Mutual Constraint linking sentence)
+- **Stability**: Four deep reviews now passed without critical issues. Article is converged.
+- **Output**: [deep-review-2026-04-28-methodological-pluralism](/reviews/deep-review-2026-04-28-methodological-pluralism/)
+
+## 2026-04-28 00:59 UTC - deep-review
+- **Status**: Success
+- **File**: [many-worlds](/concepts/many-worlds/)
+- **Trigger**: Cross-review against [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) refine (2026-04-27 20:29 UTC), continuing the propagation of the explicit "objective-collapse-plus-modulation" framing already applied to spontaneous-collapse-theories, the apex synthesis, quantum-consciousness, and measurement-problem in the past 36 hours.
+- **Word count**: 2467 → 2510 (+43); length-neutral mode applied (article hovering at soft threshold)
+- **Critical issues addressed**: 0 (article remains at thirteen-review stability)
+- **Medium issues addressed**: 3
+  - Line 134 "consciousness participates in collapse" risked V-N-W headline conflation; rewrote to make the Map's modulation hybrid explicit and added contrastive cross-link to V-N-W
+  - Line 160 "not conscious selection" overstated Map position; rewrote Bidirectional Interaction subsection to lead with modulation framing and use Born-rule-aware "no quantum indeterminacies for consciousness to bias" closer
+  - Missing cross-link to [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) despite direct contrastive relationship; added to related_articles and Further Reading
+- **Enhancements made**: 4 (V-N-W cross-link in two locations, sharpened modulation framing in two subsections, prose tightening in Ontological Extravagance / What MWI Claims / Indexical Identity / MWI's Appeal / Occam's Razor subsections to preserve length neutrality)
+- **Tenet alignment**: Bidirectional Interaction and Minimal Quantum Interaction (modulation framing is the textual realisation of the Map's actual position vs. the V-N-W headline)
+- **Output**: [deep-review-2026-04-28-many-worlds](/reviews/deep-review-2026-04-28-many-worlds/)
 
 ## 2026-04-28 00:55 UTC - research-voids
 - **Status**: Success

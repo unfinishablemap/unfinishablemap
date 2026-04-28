@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-10 23:56:00+00:00
+ai_modified: 2026-04-28 00:59:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: 'Why the Map rejects MWI: it raises unanswerable questions about in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-10 20:56:00+00:00
+last_deep_review: 2026-04-28 00:59:00+00:00
 modified: *id001
 related_articles:
 - '[[qm-interpretations-beyond-many-worlds]]'
@@ -35,6 +35,7 @@ related_articles:
 - '[[probability-objections-many-worlds]]'
 - '[[many-worlds-argument]]'
 - '[[falsification-roadmap-for-the-interface-model]]'
+- '[[von-neumann-wigner-interpretation]]'
 - '[[tenets]]'
 title: The Many-Worlds Interpretation
 topics:
@@ -49,15 +50,15 @@ The Many-Worlds Interpretation (MWI) holds that quantum measurement never collap
 
 Hugh Everett proposed MWI in 1957 to solve the [measurement problem](/concepts/measurement-problem/) without postulating collapse. Rather than defining when collapse occurs, Everett eliminated it: the wave function evolves unitarily forever. When a quantum system interacts with an observer, both become entangled—one branch where the observer sees outcome A, another where they see B. Both branches are equally real; every quantum possibility is realized somewhere.
 
-The apparent elegance is real: MWI takes the mathematics literally, requiring no collapse postulate. But this elegance comes at extraordinary cost.
+MWI takes the mathematics literally, requiring no collapse postulate. The elegance is real—but its costs are extraordinary.
 
 ## Five Arguments Against MWI
 
 ### 1. Ontological Extravagance
 
-MWI posits that for every quantum event—trillions occurring each second throughout the universe—reality branches into multiple copies, each containing a complete universe. The number of branches grows exponentially, bounded only by the universe's history.
+MWI posits that every quantum event—trillions per second throughout the universe—branches reality into multiple copies, each a complete universe. The branch count grows exponentially, bounded only by the universe's history.
 
-This isn't merely "lots of universes." It's continuous ontological explosion. Each photon absorbed by each atom in each star creates new branches. The total number of branches already exceeds any number we can meaningfully write.
+This isn't merely "lots of universes" but continuous ontological explosion. Each photon absorbed by each atom in each star creates new branches; the total already exceeds any number we can meaningfully write.
 
 MWI defenders argue this is *simpler* because it has fewer laws—just the Schrödinger equation. But the [Occam's Razor Has Limits](/tenets/#occams-limits) tenet reminds us that simplicity is unreliable when knowledge is incomplete. A theory positing infinite unobservable universes is not parsimonious in any intuitive sense.
 
@@ -69,7 +70,7 @@ The question "Why am I in *this* branch rather than that one?" seems meaningful.
 
 MWI says this question is malformed. Both post-measurement persons are equally continuous with the pre-measurement you. There's no further fact about which branch you "really" end up in—both branches contain persons with equal claim to being you.
 
-This doesn't match the phenomenology. Right now, you anticipate having one definite future experience, not multiple incompatible ones. The felt reality of being *this* observer expecting *one* outcome suggests a [haecceitistic](/concepts/haecceity/) truth about which branch is yours—something MWI cannot accommodate.
+This doesn't match the phenomenology. You anticipate one definite future experience, not multiple incompatible ones—a felt reality of being *this* observer expecting *one* outcome that suggests a [haecceitistic](/concepts/haecceity/) truth about which branch is yours, something MWI cannot accommodate.
 
 MWI defenders invoke self-locating uncertainty: you should be uncertain which branch you'll find yourself in. But as [indexical knowledge](/concepts/indexical-knowledge-and-identity/) analysis shows, self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both.
 
@@ -121,9 +122,9 @@ Despite these objections, MWI attracts substantial support among physicists and 
 
 **Mathematical elegance**: No collapse postulate, just unitary evolution. The simplest interpretation of the equations.
 
-**No measurement problem**: What "triggers" collapse? On MWI, nothing—the question dissolves.
+**No measurement problem**: On MWI, nothing triggers collapse—the question dissolves.
 
-**No superluminal signaling**: Collapse interpretations face questions about faster-than-light influence. MWI has purely local evolution.
+**No superluminal signaling**: Collapse interpretations face faster-than-light influence questions; MWI has purely local evolution.
 
 **Determinism**: The wave function evolves deterministically. Apparent randomness is perspectival.
 
@@ -133,7 +134,7 @@ These are genuine virtues. The Map rejects MWI not because it's obviously wrong 
 
 MWI also claims to dissolve the [prebiotic collapse problem](/concepts/prebiotic-collapse/)—what selected quantum outcomes during 13.8 billion years before consciousness. If all outcomes occur, nothing needed selecting. But the Map's alternative is more conservative: objective reduction handled prebiotic collapse; consciousness modulates collapse only in neural systems.
 
-The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [comprehensive survey of quantum interpretations](/topics/qm-interpretations-beyond-many-worlds/) establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories. The interpretive landscape is genuinely open—surveys consistently show deep disagreement (Schlosshauer et al., 2013). The Map favors interpretations where consciousness participates in collapse, as these explain both quantum measurement outcomes and phenomenal facts.
+The case against MWI only succeeds if scientifically respectable alternatives exist. They do. The [comprehensive survey of quantum interpretations](/topics/qm-interpretations-beyond-many-worlds/) establishes five major alternatives: Copenhagen, Bohmian mechanics, QBism, transactional/time-symmetric approaches, and objective collapse theories. The interpretive landscape is genuinely open—surveys consistently show deep disagreement (Schlosshauer et al., 2013). The Map's favored hybrid—objective collapse as baseline mechanism plus consciousness modulating statistics within Born-rule limits in neural systems—differs from [von Neumann–Wigner's](/concepts/von-neumann-wigner-interpretation/) "consciousness causes collapse" headline: collapse no longer waits on consciousness, and consciousness biases what would have happened anyway.
 
 ## What Would Challenge This View?
 
@@ -159,17 +160,18 @@ MWI conflicts with multiple site commitments:
 
 **Minimal Quantum Interaction**: The [Minimal Quantum Interaction](/tenets/#minimal-quantum) tenet posits that consciousness influences physical outcomes through the smallest possible intervention—biasing quantum indeterminacies rather than violating conservation laws. MWI eliminates quantum indeterminacy entirely: nothing is undetermined because all outcomes occur. The tenet becomes inapplicable; there's nothing for consciousness to bias.
 
-**Bidirectional Interaction**: The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes. MWI denies this—outcomes are determined by unitary evolution, not conscious selection. If MWI is true, [mental causation](/concepts/mental-causation-and-downward-causation/) needs a different story. Consciousness becomes either epiphenomenal (accompanying but not affecting the physics) or eliminable (not a genuine category at all).
+**Bidirectional Interaction**: The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences physical outcomes—on the Map, by modulating statistics within objective-collapse events rather than triggering collapse itself. MWI denies any such influence: outcomes are determined entirely by unitary evolution, leaving no quantum indeterminacies for consciousness to bias. If MWI is true, [mental causation](/concepts/mental-causation-and-downward-causation/) needs a different story. Consciousness becomes either epiphenomenal (accompanying but not affecting the physics) or eliminable (not a genuine category at all).
 
 **No Many Worlds**: This tenet directly encodes the rejection. The arguments above constitute its rationale. The indexical identity problem, the probability problem, and the failure to explain consciousness motivate rejecting MWI despite its mathematical elegance.
 
-**Occam's Razor Has Limits**: The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet cautions against privileging simplicity when knowledge is incomplete. MWI defenders appeal to Occam's Razor: fewer laws (no collapse postulate) means simpler theory. But this simplicity is superficial. MWI trades ontological simplicity (one world) for law simplicity (one equation). Given our deep uncertainty about consciousness and its role in physics, preferring MWI on simplicity grounds is premature.
+**Occam's Razor Has Limits**: The [tenet](/tenets/#occams-limits) cautions against privileging simplicity when knowledge is incomplete. MWI defenders appeal to Occam: fewer laws (no collapse postulate) means simpler theory. But this is superficial—MWI trades ontological simplicity (one world) for law simplicity (one equation). Given our uncertainty about consciousness and its role in physics, preferring MWI on simplicity grounds is premature.
 
 Alternative interpretations—particularly [time-symmetric](/concepts/collapse-and-time/) approaches—preserve these site commitments while solving the measurement problem. The interpretive landscape remains genuinely open; MWI is not forced upon us by the physics.
 
 ## Further Reading
 
 - [qm-interpretations-beyond-many-worlds](/topics/qm-interpretations-beyond-many-worlds/) — Comprehensive survey of five major alternatives to MWI (Copenhagen, Bohmian, QBism, Transactional, Objective Collapse) with implications for consciousness
+- [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — The contrastive consciousness-and-collapse lineage; shows what the Map's modulation thesis inherits from V-N-W and how it diverges from the headline reading
 - [quantum-interpretations](/concepts/quantum-interpretations/) — Overview of interpretation families
 - [haecceity](/concepts/haecceity/) — Why indexical identity matters
 - [measurement-problem](/concepts/measurement-problem/) — What all interpretations must solve

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-16 23:10:00+00:00
+ai_modified: 2026-04-28 01:31:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -26,7 +26,7 @@ description: 'The conceivability argument against physicalism: beings functional
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 08:12:00+00:00
+last_deep_review: 2026-04-28 01:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -118,7 +118,7 @@ Daniel Dennett proposes treating first-person reports as data about "how things 
 
 ### The Regress Objection
 
-Raymond Tallis argues that illusionism compounds rather than solves the problem: "Misrepresentation presupposes presentation"—to be under an illusion, something must experience the illusion. Keith Frankish responds with "quasi-phenomenal properties"—non-phenomenal physical properties that introspection *misrepresents* as phenomenal, where the misrepresentation itself is purely functional. Many philosophers consider this exchange a standoff (see [the full regress argument](/concepts/illusionism/#the-infinite-regress-problem) and [Frankish's response](/concepts/illusionism/#the-illusionist-response)). The Map maintains Frankish's response doesn't fully escape the regress: if quasi-phenomenal properties are purely functional, we can still conceive of a being with all the same functional representations who lacks whatever makes those representations *seem* some way. The conceivability argument regenerates at the level of the seeming itself.
+Raymond Tallis argues that illusionism compounds rather than solves the problem: "Misrepresentation presupposes presentation"—to be under an illusion, something must experience the illusion. Keith Frankish responds with "quasi-phenomenal properties"—non-phenomenal physical properties that introspection *misrepresents* as phenomenal, where the misrepresentation itself is purely functional. Many philosophers consider this exchange a standoff (see [the full regress argument](/concepts/illusionism/#the-infinite-regress-problem) and [Frankish's response](/concepts/illusionism/#the-illusionist-response-functional-seeming)). The Map maintains Frankish's response doesn't fully escape the regress: if quasi-phenomenal properties are purely functional, we can still conceive of a being with all the same functional representations who lacks whatever makes those representations *seem* some way. The conceivability argument regenerates at the level of the seeming itself.
 
 ### Why Illusionism Strengthens the Zombie Argument
 
@@ -156,7 +156,7 @@ The interactionist's honest reply is to reject the stipulation. If consciousness
 
 This has a cost: it weakens the zombie argument as a *standalone* attack on physicalism. The argument becomes conditional. Zombies remain *conceivable*—we can imagine beings physically like us without consciousness—but their full specification (physical duplication *plus* identical behaviour) is coherent only if we bracket the question of causal closure. Against a physicalist who accepts causal closure, the interactionist's move is question-begging; against one who doesn't, it isn't needed. The argument's remaining force is narrower but consistent with the Map's commitments: it shows that phenomenal facts don't reduce to physical facts, not that both could coexist while consciousness does nothing.
 
-The [metaproblem argument](/topics/metaproblem-of-consciousness-under-dualism/) makes the same structural move. Under interactionism, zombies and conscious beings should diverge in their reports, precisely because consciousness contributes to the causal chain that produces them. The zombie thought experiment retains its diagnostic power—it isolates *what* the physicalist has to explain—while the positive metaphysics is carried by interactionism rather than by conceivability alone.
+The zombie thought experiment thus retains diagnostic power—it isolates *what* the physicalist has to explain—while the positive metaphysics is carried by interactionism rather than by conceivability alone.
 
 ### What Are Zombies Evidence Of?
 

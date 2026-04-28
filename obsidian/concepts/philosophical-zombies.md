@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-16T23:10:00+00:00
+ai_modified: 2026-04-28T01:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -31,7 +31,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-14
 last_curated: null
-last_deep_review: 2026-03-22T08:12:00+00:00
+last_deep_review: 2026-04-28T01:31:00+00:00
 ---
 
 A philosophical zombie is a being physically and functionally identical to a conscious human but lacking all subjective experience. The zombie has the same brain states, exhibits the same behaviors, and makes the same verbal reports—including "I am conscious" and "I experience redness"—yet there is nothing it is like to be the zombie.
@@ -116,7 +116,7 @@ Daniel Dennett proposes treating first-person reports as data about "how things 
 
 ### The Regress Objection
 
-Raymond Tallis argues that illusionism compounds rather than solves the problem: "Misrepresentation presupposes presentation"—to be under an illusion, something must experience the illusion. Keith Frankish responds with "quasi-phenomenal properties"—non-phenomenal physical properties that introspection *misrepresents* as phenomenal, where the misrepresentation itself is purely functional. Many philosophers consider this exchange a standoff (see [[illusionism#The Infinite Regress Problem|the full regress argument]] and [[illusionism#The Illusionist Response|Frankish's response]]). The Map maintains Frankish's response doesn't fully escape the regress: if quasi-phenomenal properties are purely functional, we can still conceive of a being with all the same functional representations who lacks whatever makes those representations *seem* some way. The conceivability argument regenerates at the level of the seeming itself.
+Raymond Tallis argues that illusionism compounds rather than solves the problem: "Misrepresentation presupposes presentation"—to be under an illusion, something must experience the illusion. Keith Frankish responds with "quasi-phenomenal properties"—non-phenomenal physical properties that introspection *misrepresents* as phenomenal, where the misrepresentation itself is purely functional. Many philosophers consider this exchange a standoff (see [[illusionism#The Infinite Regress Problem|the full regress argument]] and [[illusionism#The Illusionist Response: Functional Seeming|Frankish's response]]). The Map maintains Frankish's response doesn't fully escape the regress: if quasi-phenomenal properties are purely functional, we can still conceive of a being with all the same functional representations who lacks whatever makes those representations *seem* some way. The conceivability argument regenerates at the level of the seeming itself.
 
 ### Why Illusionism Strengthens the Zombie Argument
 
@@ -154,7 +154,7 @@ The interactionist's honest reply is to reject the stipulation. If consciousness
 
 This has a cost: it weakens the zombie argument as a *standalone* attack on physicalism. The argument becomes conditional. Zombies remain *conceivable*—we can imagine beings physically like us without consciousness—but their full specification (physical duplication *plus* identical behaviour) is coherent only if we bracket the question of causal closure. Against a physicalist who accepts causal closure, the interactionist's move is question-begging; against one who doesn't, it isn't needed. The argument's remaining force is narrower but consistent with the Map's commitments: it shows that phenomenal facts don't reduce to physical facts, not that both could coexist while consciousness does nothing.
 
-The [[metaproblem-of-consciousness-under-dualism|metaproblem argument]] makes the same structural move. Under interactionism, zombies and conscious beings should diverge in their reports, precisely because consciousness contributes to the causal chain that produces them. The zombie thought experiment retains its diagnostic power—it isolates *what* the physicalist has to explain—while the positive metaphysics is carried by interactionism rather than by conceivability alone.
+The zombie thought experiment thus retains diagnostic power—it isolates *what* the physicalist has to explain—while the positive metaphysics is carried by interactionism rather than by conceivability alone.
 
 ### What Are Zombies Evidence Of?
 

@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 01:12:00+00:00
+ai_modified: 2026-04-28 01:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 01:31 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/philosophical-zombies]]
+- **Trigger**: Fifth deep review (last 2026-03-22). Article grew from 2805 → 3242 words via cross-review additions (Interactionist Escape subsection, cognitive-phenomenology paragraph) and an anchor-repair commit that introduced a subtly broken link.
+- **Word count**: 3242 → 3214 (-28); above soft threshold (2500) but below hard (3500); length-neutral mode applied
+- **Critical issues addressed**: 1
+  - Broken anchor link `[[illusionism#The Illusionist Response]]` — actual heading is `## The Illusionist Response: Functional Seeming`; slugify produces different fragments. Introduced 2026-03-26 by anchor-repair commit (48b7bbe13) which used the heading prefix rather than the full heading. Fixed to full heading.
+- **Medium issues addressed**: 1
+  - Length 130% of soft threshold; trimmed redundant final paragraph of Interactionist Escape (restated metaproblem material already in Self-Stultification section). Preserved the substantively valuable Interactionist Escape subsection itself, which addresses a real coherence concern between zombie-argument premise and Bidirectional Interaction tenet.
+- **Enhancements made**: 0 (no new content added; article continues to grow well via prior cross-reviews)
+- **Stability**: Fifth deep review. Core argument structure stable; recent additions (interactionist escape, cognitive phenomenology) substantively justified. All four bedrock disagreements (MWI, eliminativism, empiricist, hard-nosed physicalist) acknowledged in prior reviews and not re-flagged.
+- **Output**: [[reviews/deep-review-2026-04-28-philosophical-zombies]]
 
 ## 2026-04-28 01:12 UTC - deep-review
 - **Status**: Success
