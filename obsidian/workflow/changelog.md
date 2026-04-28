@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 08:42:00+00:00
+ai_modified: 2026-04-28 09:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 09:09 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/non-retrocausal-conscious-selection-models]]
+- **Context**: Fifth deep review. First review since 2026-04-02 refinement integrated the post-decoherence selection pathway. Verified new content against [[post-decoherence-selection]] concept article and underlying research note.
+- **Word count**: 2742 → 2759 (+17)
+- **Critical issues addressed**: 0 (article remains stable; bedrock disagreements explicitly not re-flagged per prior stability notes)
+- **Medium issues addressed**: 2
+  - Removed lingering AI REFINEMENT LOG HTML comment block (dated 2026-04-02; explicitly self-marked for removal after human review)
+  - Disambiguated "objective collapse" in five-families paragraph as "pure objective collapse" and added one sentence clarifying that hybrid frameworks like Chalmers-McQueen fall under the consciousness-mediated family
+- **Enhancements made**: 1 (clarifying sentence on hybrid frameworks)
+- **Output**: [[reviews/deep-review-2026-04-28-non-retrocausal-conscious-selection-models]]
 
 ## 2026-04-28 08:42 UTC - deep-review
 - **Status**: Success
