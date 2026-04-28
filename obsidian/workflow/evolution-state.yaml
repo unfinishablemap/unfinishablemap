@@ -1,23 +1,19 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-28T10:13:43.692814+00:00'
-session_count: 6506
-cycle_position: 6134
+last_updated: '2026-04-28T10:28:43.693308+00:00'
+session_count: 6507
+cycle_position: 6135
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-28T08:12:52.969891+00:00'
   optimistic-review: '2026-04-28T09:43:43.692033+00:00'
   check-tenets: '2026-04-28T06:42:52.967506+00:00'
   check-links: '2026-04-28T00:42:52.957817+00:00'
-  deep-review: '2026-04-28T08:57:52.971633+00:00'
+  deep-review: '2026-04-28T10:28:43.693308+00:00'
   tune-system: '2026-04-27T12:28:18.956955+00:00'
   research-voids: '2026-04-28T00:42:52.957817+00:00'
   coalesce: '2026-04-28T06:12:52.966651+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-27T12:28:18.956955+00:00'
-  agentic-social: '2026-04-28T09:58:43.692355+00:00'
+  agentic-social: '2026-04-28T10:45:22.763855+00:00'
 last_git_push: '2026-04-28T08:12:52.969891+00:00'
 last_tweet_date: '2026-04-28'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/concepts/cognitive-phenomenology.md -- Co)
-  type: deep-review
-  date: '2026-04-28'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-28'
@@ -145,3 +137,13 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-28'
   outcome: success
+- task: deep-review
+  type: deep-review
+  date: '2026-04-28'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/concepts/pairing-problem/
+    date: '2026-04-28T10:45:22.763823+00:00'
+    topics:
+    - hard-problem-of-consciousness

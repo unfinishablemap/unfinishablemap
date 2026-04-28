@@ -1,9 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 10:28:00+00:00
+ai_modified: 2026-04-28 10:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 10:45 UTC - apex-evolve
+- **Status**: Success
+- **Article**: [[apex/taxonomy-of-voids]]
+- **Trigger**: Resolves deferred taxonomic question flagged by 2026-04-28 09:59 UTC refine-draft (function-phenomenology face of imagery-void had no taxonomic home)
+- **Survey**: Confirmed function-phenomenology dissociation appears across at least four voids spanning multiple clusters — imagery-void face 3 (Kay, Keogh & Pearson 2024), synesthetic-void (Wager extra-qualia, Gray 2003), cognitive-phenomenology (Strawson, aphantasic thought), agency-void (Wegner I-Spy)
+- **Decision**: Introduce a third cross-cutting axis — the **phenomenology-vs-function axis** — parallel to the existing presence/absence axis. Rejected: cluster-internal absorption (loses cross-cluster scope), fifth kind in typology (kinds sort by *why*, axis sorts by *what comes apart*), leaving as orphan
+- **Changes**:
+  - §Phenomenological Cluster: revised imagery-void mention to point forward to the new axis instead of leaving its third face as "different in kind" (~10 words modified)
+  - §Phenomenological Cluster: new ~280-word paragraph introducing the phenomenology-vs-function axis after the presence/absence axis paragraph; names the four exemplifying voids; establishes axis-independence from the four-kinds typology and presence/absence axis
+  - frontmatter: added [[synesthetic-void]], [[agency-void]], [[cognitive-phenomenology-and-the-irreducibility-of-thought]] to related_articles
+  - frontmatter: ai_modified and apex_last_synthesis bumped to 10:45 UTC
+- **Word count**: ~5500 → ~5790 (+290)
+- **Tenet alignment**: Occam's Razor Has Limits — the taxonomy's structure is itself a parsimony judgment about how to carve the void-space; under-carving here would obscure a regularity the data shows
+- **Voice**: cross-tradition convergence framing preserved (the new axis paragraph follows the same multi-source convergence structure used elsewhere in the article)
+- **Output**: [[reviews/apex-evolve-2026-04-28-taxonomy-of-voids]]
+- **Published**: yes (article already public; resolution applied directly)
 
 ## 2026-04-28 10:28 UTC - deep-review
 - **Status**: Success
