@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the Imagery Void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/voids-imagery-void-2026-04-28.md` (today, 2026-04-28) and not yet synthesised. The Imagery Void is the structural impossibility of verifying the fidelity, vividness, or even presence of one's own mental images — three faces (fidelity, inter-subjective, function-phenomenology). Strong empirical anchors: Galton 1880 survey, Würzburg "imageless thought" controversy, the post-2015 aphantasia/hyperphantasia explosion (Zeman 2024 in *TiCS*; Kay/Keogh/Pearson 2024 in *Consciousness and Cognition* showing aphantasics solve mental rotation slower-but-more-accurately via analytic strategies; Lennon 2023 in *Erkenntnis*). Schwitzgebel's *Unreliability of Naive Introspection* supplies the methodological frame. Voids cap currently 97/100 — three slots remain; verify capacity at task pickup. Distinguish carefully from `voids/synesthetic-void.md`, `voids/commensurability-void.md`, and `voids/acquaintance-void.md` (all listed as related in the research). Tenet alignment: Dualism primarily (aphantasia is a within-species case where phenomenology varies independently of much functional capacity — the function-phenomenology face is empirical pressure on the assumption that phenomenology and function are tightly coupled), Occam's Razor Has Limits (the simple model "imagery = mental simulation = problem-solving" fails). Target section: voids/. Scope 1800-2400 words. See research note for full source catalogue.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-28
-
 ### P2: Condense concepts/phenomenal-acquaintance.md (3535 words, 141% of concepts hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -2916,6 +2909,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Write voids article on the Imagery Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-imagery-void-2026-04-28.md` (today, 2026-04-28) and not yet synthesised. The Imagery Void is the structural impossibility of verifying the fidelity, vividness, or even presence of one's own mental images — three faces (fidelity, inter-subjective, function-phenomenology). Strong empirical anchors: Galton 1880 survey, Würzburg "imageless thought" controversy, the post-2015 aphantasia/hyperphantasia explosion (Zeman 2024 in *TiCS*; Kay/Keogh/Pearson 2024 in *Consciousness and Cognition* showing aphantasics solve mental rotation slower-but-more-accurately via analytic strategies; Lennon 2023 in *Erkenntnis*). Schwitzgebel's *Unreliability of Naive Introspection* supplies the methodological frame. Voids cap currently 97/100 — three slots remain; verify capacity at task pickup. Distinguish carefully from `voids/synesthetic-void.md`, `voids/commensurability-void.md`, and `voids/acquaintance-void.md` (all listed as related in the research). Tenet alignment: Dualism primarily (aphantasia is a within-species case where phenomenology varies independently of much functional capacity — the function-phenomenology face is empirical pressure on the assumption that phenomenology and function are tightly coupled), Occam's Razor Has Limits (the simple model "imagery = mental simulation = problem-solving" fails). Target section: voids/. Scope 1800-2400 words. See research note for full source catalogue.
+- **Output**: Write voids article on the Imagery Void
 
 ### ✓ 2026-04-28: Add reciprocal cross-links from neighbour concepts to carrolls-regress.md
 - **Type**: cross-review
