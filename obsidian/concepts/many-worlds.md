@@ -2,9 +2,9 @@
 title: "The Many-Worlds Interpretation"
 description: "Why the Map rejects MWI: it raises unanswerable questions about indexical identity, dissolves probability's meaning, and fails to explain consciousness."
 created: 2026-01-19
-modified: 2026-01-23
+modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T00:59:00+00:00
+ai_modified: 2026-04-28T16:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -70,7 +70,28 @@ MWI says this question is malformed. Both post-measurement persons are equally c
 
 This doesn't match the phenomenology. You anticipate one definite future experience, not multiple incompatible ones—a felt reality of being *this* observer expecting *one* outcome that suggests a [[haecceity|haecceitistic]] truth about which branch is yours, something MWI cannot accommodate.
 
-MWI defenders invoke self-locating uncertainty: you should be uncertain which branch you'll find yourself in. But as [[indexical-knowledge-and-identity|indexical knowledge]] analysis shows, self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both.
+MWI defenders invoke self-locating uncertainty: you should be uncertain which branch you'll find yourself in. But as [[indexical-knowledge-and-identity|indexical knowledge]] analysis shows, self-locating uncertainty normally involves a single world with indexically uncertain facts. On MWI, there's no fact to be uncertain about—both outcomes are equally real, and "you" end up in both. The strongest reply, due to Saunders and Wallace, sharpens this further by relativising indexicality to branches; the next subsection treats it directly.
+
+### MWI's Branch-Relative Indexicality Reply
+
+The most developed MWI response to the indexical objection comes from Saunders (2010) and Wallace (2012, *The Emergent Multiverse*): branch-relative indexicality. On this view, "I" indexes the speaker's *current branch*. *De se* attribution localises across branches just as it localises across times or places. After measurement, each branch contains an observer who can truly say "I am here, having *this* outcome." Singularity is preserved branch-locally—*that* branch's observer is doing *that* branch's experiencing. The pre-measurement question "Which branch will I find myself in?" reduces to ordinary self-locating uncertainty about which branch's observer is doing the asking, exactly the kind of indexical uncertainty MWI is comfortable with.
+
+This reply is what licenses the Deutsch-Wallace decision-theoretic programme (Deutsch 1999; Wallace 2003, 2012). To derive Born-rule-conforming preferences from rationality axioms, the rational agent's preferences must range over post-branching successors: the agent assigns weighted preferences to "what happens to me in this branch" and "what happens to me in that branch," treating both as continuations of the pre-branching self. The decision-theoretic apparatus *requires* a personal-identity-across-branches relation strong enough that the agent can rationally bet on outcomes their post-branching successors will encounter.
+
+**The Map's response.** Indexicality-under-MWI is not equivalent to indexicality-under-No-Many-Worlds, because MWI's indexicality must do double duty:
+
+1. **Phenomenologically**, as ordinary *de se* localisation. Each branch-observer truly says "I am here." This is what the Saunders/Wallace reply correctly secures.
+2. **Decision-theoretically**, as cross-branch personal-identity. The pre-branching agent's preferences range over what happens to "me" in each branch. This is what the Deutsch-Wallace derivation requires to recover the Born rule.
+
+These two readings are in tension. *De se* attribution is naturally one-branch-at-a-time—there is no single perspective from which "I" simultaneously indexes both branch-observers. But the decision-theoretic derivation needs precisely such a unified perspective to assign weighted preferences across branches. MWI's Born-rule recovery thus depends on a personal-identity claim—that the pre-branching agent stands in *the same kind of relation* to all post-branching successors—that the indexical reply itself cannot supply, since branch-relative indexicality is local while the cross-branch relation must be global.
+
+The Map reads the felt singularity of "this is me, here, having *this* experience" as evidence for the *one*-branch reading: indexicality is genuinely local rather than locally-articulated within a globally-branching structure. This is a stronger commitment than MWI can absorb without giving up the decision-theoretic apparatus that licenses its probabilistic predictions. The objection is therefore not "MWI cannot accommodate indexical singularity"—it can, branch-locally—but "MWI cannot simultaneously accommodate branch-local indexical singularity and the cross-branch personal-identity relation its Born-rule derivation requires." The two readings of indexicality MWI needs are jointly inconsistent in a way that the Map's No-Many-Worlds tenet sidesteps by reading indexicality as one-branch-only from the start.
+
+#### Canonical Statement
+
+The following compact paragraph is intended as the structural defence that other Map articles—particularly voids articles whose No-Many-Worlds tenet sections invoke felt singularity—can cross-link to as `[[many-worlds#MWI's Branch-Relative Indexicality Reply]]` (or aliased "MWI's indexical reply"):
+
+> Saunders/Wallace branch-relative indexicality (Saunders 2010; Wallace 2012) lets MWI accommodate the felt singularity of experience: in each branch, *that* branch's observer truly says "I am here, having *this* outcome." Claims of the form "experience is *this one*, not scattered across branches" or "consciousness withholds *here*, not across branches" therefore do not by themselves refute MWI—branch-local *de se* attribution already secures them. The Map's reading is stronger: indexicality is genuinely one-branch-at-a-time rather than locally-articulated within a globally-branching structure. This commits the Map to reading the cross-branch personal-identity relation that the Deutsch-Wallace decision-theoretic derivation requires (Deutsch 1999; Wallace 2003, 2012) as unavailable, since *de se* indexicality cannot do the double duty—local-within-branch *and* unified-across-branches—that MWI's Born-rule recovery needs. Felt singularity is evidence consistent with a non-MWI reading of indexicality rather than a knockdown of MWI's branch-relative reply, and the Map's stronger claim earns its tenet status by absorbing the decision-theoretic cost MWI cannot.
 
 ### 3. The Probability Problem
 
@@ -206,6 +227,7 @@ Alternative interpretations—particularly [[collapse-and-time|time-symmetric]] 
 1. Frankish, K. (2016). Illusionism as a Theory of Consciousness. *Journal of Consciousness Studies*.
 1. Lewis, P.J. (2007). Uncertainty and probability for branching selves. *Studies in History and Philosophy of Modern Physics*, 38, 1-14.
 1. Saunders, S. et al. eds. (2010). *Many Worlds? Everett, Quantum Theory, and Reality*. Oxford University Press.
+1. Saunders, S. (2010). Chance in the Everett interpretation. In Saunders et al. (eds.), *Many Worlds?*, Oxford University Press, 181-205.
 1. Schlosshauer, M. et al. (2013). A Snapshot of Foundational Attitudes Toward Quantum Mechanics. *Studies in History and Philosophy of Science Part B*, 44(3), 222-230.
 1. Short, A.J. (2023). Probability in many-worlds theories. *Quantum*, 7, 971.
 1. Zhang, J. (2026). Summing to Uncertainty: On the Necessity of Additivity in Deriving the Born Rule. arXiv:2603.06211.

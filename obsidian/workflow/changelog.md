@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 16:08:00+00:00
+ai_modified: 2026-04-28 16:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 16:31 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/many-worlds]]
+- **Scope**: Install canonical MWI branch-relative indexicality reply (chained P1 from pessimistic-2026-04-28b/c)
+- **Changes**: Added §"MWI's Branch-Relative Indexicality Reply" (H3) between argument-2 (Indexical Identity Problem) and argument-3 (Probability Problem). Lays out Saunders 2010 / Wallace 2012 branch-relative *de se* indexicality reply, then shows it licenses the Deutsch-Wallace decision-theoretic programme via cross-branch personal-identity. States the Map's response: indexicality-under-MWI must do double duty (phenomenological *de se* localisation + decision-theoretic cross-branch identity for Born-rule recovery), and the two readings are jointly inconsistent. Includes #### Canonical Statement subsection (~190 words) intended for cross-linking from voids articles. Updated existing line in §2 to forward-reference the new subsection. Added Saunders 2010 chapter ("Chance in the Everett interpretation") to References. Bumped `modified` to 2026-04-28 and `ai_modified` timestamp.
+- **Tenet alignment**: No Many Worlds (Tenet 4) — load-bearing for tenet's defensibility against the strongest competing interpretation
+- **Follow-up**: Chained P2 audit task in todo.md to propagate cross-link from voids/synesthetic-void, voids/suspension-void, and other affected voids articles
+- **Published**: yes
 
 ## 2026-04-28 16:08 UTC - deep-review (cross-review)
 - **Status**: Success
