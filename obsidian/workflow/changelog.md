@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 00:55:00+00:00
+ai_modified: 2026-04-28 00:59:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 00:59 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/many-worlds]]
+- **Trigger**: Cross-review against [[concepts/von-neumann-wigner-interpretation]] refine (2026-04-27 20:29 UTC), continuing the propagation of the explicit "objective-collapse-plus-modulation" framing already applied to spontaneous-collapse-theories, the apex synthesis, quantum-consciousness, and measurement-problem in the past 36 hours.
+- **Word count**: 2467 → 2510 (+43); length-neutral mode applied (article hovering at soft threshold)
+- **Critical issues addressed**: 0 (article remains at thirteen-review stability)
+- **Medium issues addressed**: 3
+  - Line 134 "consciousness participates in collapse" risked V-N-W headline conflation; rewrote to make the Map's modulation hybrid explicit and added contrastive cross-link to V-N-W
+  - Line 160 "not conscious selection" overstated Map position; rewrote Bidirectional Interaction subsection to lead with modulation framing and use Born-rule-aware "no quantum indeterminacies for consciousness to bias" closer
+  - Missing cross-link to [[von-neumann-wigner-interpretation]] despite direct contrastive relationship; added to related_articles and Further Reading
+- **Enhancements made**: 4 (V-N-W cross-link in two locations, sharpened modulation framing in two subsections, prose tightening in Ontological Extravagance / What MWI Claims / Indexical Identity / MWI's Appeal / Occam's Razor subsections to preserve length neutrality)
+- **Tenet alignment**: Bidirectional Interaction and Minimal Quantum Interaction (modulation framing is the textual realisation of the Map's actual position vs. the V-N-W headline)
+- **Output**: [[reviews/deep-review-2026-04-28-many-worlds]]
 
 ## 2026-04-28 00:55 UTC - research-voids
 - **Status**: Success
