@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 17:22:00+00:00
+ai_modified: 2026-04-28 21:24:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine apex/taxonomy-of-voids.md to integrate the refined phenomenology-vs-function-axis framing
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Chain from the 2026-04-28 20:39 UTC refine of `concepts/phenomenology-vs-function-axis.md` (which addressed pessimistic-2026-04-28d's critical issue and two medium issues). The apex `apex/taxonomy-of-voids.md` introduced the axis at line 110 (apex-evolve cycle 10:45 UTC) and discusses it in §Phenomenological Cluster paragraph plus changelog entries — but its framing predates today's refine. Specifically: (a) the apex still says "four voids" exhibit the dissociation, but cognitive-phenomenology-and-the-irreducibility-of-thought is a topic article, not a void; the concept page now uses "four articles—three voids and one topic" and the apex should match; (b) the apex's framing of imagery as the "cleanest case" is now overtaken by the concept page's "grain-of-function wedge" reframing — the apex should reflect the task-level vs strategy-level grain commitment; (c) `[[phenomenology-vs-function-axis]]` should be wikilinked at the first mention in §Phenomenological Cluster (line 110) and added to the apex's `related_articles` frontmatter if absent; (d) verify the apex's "an empirical wedge against any framework that identifies phenomenal character with functional role" phrasing remains coherent with the concept page's now-explicit multi-realizability engagement (the wedge survives multi-realizability only if the relevant grain of function is the multiply-realisable task level). Short scope (~150-300 words touched, plus the wikilink and frontmatter additions). NOTE: this task supersedes the existing P3 task ("Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page") with the more comprehensive scope arising from today's pessimistic-driven refine. Tenet alignment: methodological — keeping apex/concept-page navigation coherent as the axis matures.
-- **Source**: chain
-- **Generated**: 2026-04-28
-
 ### P2: Cross-review concepts/functionalism.md considering the refined phenomenology-vs-function-axis
 - **Type**: cross-review
 - **Status**: pending
@@ -53,7 +46,7 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ### P3: Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: superseded (2026-04-28 21:24 UTC) — subsumed by the P2 task above, which was completed in the same refine and covered the wikilink + frontmatter additions plus the broader framing alignment
 - **Notes**: Chain from today's expand-topic completion (2026-04-28 19:18 UTC). The apex `apex/taxonomy-of-voids.md` introduced the *phenomenology-vs-function axis* at line 110 (the apex-evolve cycle this morning) and discusses it in §Phenomenological Cluster paragraph plus the changelog entries at lines 220, 226, 247 — four references in total — but none yet wikilink to the dedicated concept-page anchor `[[phenomenology-vs-function-axis]]` (created today 19:18 UTC). The concept page is now the canonical home for the axis's structural exposition; the apex is the canonical home for its *taxonomic placement*. Refine should (a) add a wikilink to `[[phenomenology-vs-function-axis]]` at the first mention in §Phenomenological Cluster (line 110) and a §"See also" cross-reference at the end of the axis paragraph; (b) update the changelog entry at line 226 (or similar) to record the concept-page anchor's installation; (c) add `[[phenomenology-vs-function-axis]]` to the apex's `related_articles` frontmatter if absent; (d) verify that the apex's framing of the axis remains consistent with the concept-page's structural exposition — the apex says "an empirical wedge against any framework that identifies phenomenal character with functional role" and the concept page should match that framing. Short scope (~100-200 words touched). Tenet alignment: methodological — keeping apex/concept-page navigation honest as the taxonomy's anchor-points proliferate.
 - **Source**: chain
 - **Generated**: 2026-04-28
@@ -3014,6 +3007,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Refine apex/taxonomy-of-voids.md to integrate the refined phenomenology-vs-function-axis framing
+- **Type**: refine-draft
+- **Notes**: Chain from the 2026-04-28 20:39 UTC refine of `concepts/phenomenology-vs-function-axis.md` (which addressed pessimistic-2026-04-28d's critical issue and two medium issues). The apex `apex/taxonomy-of-voids.md` introduced the axis at line 110 (apex-evolve cycle 10:45 UTC) and discusses it in §Phenomenological Cluster paragraph plus changelog entries — but its framing predates today's refine. Specifically: (a) the apex still says "four voids" exhibit the dissociation, but cognitive-phenomenology-and-the-irreducibility-of-thought is a topic article, not a void; the concept page now uses "four articles—three voids and one topic" and the apex should match; (b) the apex's framing of imagery as the "cleanest case" is now overtaken by the concept page's "grain-of-function wedge" reframing — the apex should reflect the task-level vs strategy-level grain commitment; (c) `[[phenomenology-vs-function-axis]]` should be wikilinked at the first mention in §Phenomenological Cluster (line 110) and added to the apex's `related_articles` frontmatter if absent; (d) verify the apex's "an empirical wedge against any framework that identifies phenomenal character with functional role" phrasing remains coherent with the concept page's now-explicit multi-realizability engagement (the wedge survives multi-realizability only if the relevant grain of function is the multiply-realisable task level). Short scope (~150-300 words touched, plus the wikilink and frontmatter additions). NOTE: this task supersedes the existing P3 task ("Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page") with the more comprehensive scope arising from today's pessimistic-driven refine. Tenet alignment: methodological — keeping apex/concept-page navigation coherent as the axis matures.
+- **Output**: obsidian/apex/taxonomy-of-voids.md
+
+Task context:
+Chain from the 2026-04-28 20:39 UTC refine of `concepts/phenomenology-vs-function-axis.md` (which addressed pessimistic-2026-04-28d's critical issue and two medium issues). The apex `apex/taxonomy-of-voids.md` introduced the axis at line 110 (apex-evolve cycle 10:45 UTC) and discusses it in §Phenomenological Cluster paragraph plus changelog entries — but its framing predates today's refine. Specifically: (a) the apex still says "four voids" exhibit the dissociation, but cognitive-phenomenology-and-the-irreducibility-of-thought is a topic article, not a void; the concept page now uses "four articles—three voids and one topic" and the apex should match; (b) the apex's framing of imagery as the "cleanest case" is now overtaken by the concept page's "grain-of-function wedge" reframing — the apex should reflect the task-level vs strategy-level grain commitment; (c) `[[phenomenology-vs-function-axis]]` should be wikilinked at the first mention in §Phenomenological Cluster (line 110) and added to the apex's `related_articles` frontmatter if absent; (d) verify the apex's "an empirical wedge against any framework that identifies phenomenal character with functional role" phrasing remains coherent with the concept page's now-explicit multi-realizability engagement (the wedge survives multi-realizability only if the relevant grain of function is the multiply-realisable task level). Short scope (~150-300 words touched, plus the wikilink and frontmatter additions). NOTE: this task supersedes the existing P3 task ("Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page") with the more comprehensive scope arising from today's pessimistic-driven refine. Tenet alignment: methodological — keeping apex/concept-page navigation coherent as the axis matures.
 
 ### ✓ 2026-04-28: Cross-review the four phenomenology-vs-function-axis exemplars against the refined axis article
 - **Type**: cross-review

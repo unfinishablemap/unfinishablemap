@@ -3,7 +3,7 @@ title: "A Taxonomy of Voids"
 created: 2026-03-10
 modified: 2026-03-10
 human_modified: null
-ai_modified: 2026-04-28T18:07:00+00:00
+ai_modified: 2026-04-28T21:24:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—offers cumulative abductive support for the Map's tenet-package."
 last_deep_review: 2026-04-28T18:07:00+00:00
@@ -42,6 +42,7 @@ related_articles:
   - "[[synesthetic-void]]"
   - "[[agency-void]]"
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
+  - "[[phenomenology-vs-function-axis]]"
 
 ai_contribution: 100
 author: null
@@ -107,7 +108,7 @@ The [[ineffable-encounter-void|ineffable encounter void]] complicates this clust
 
 The [[presence-type-and-absence-type-voids|presence-type/absence-type axis]] cross-cuts the three-kinds taxonomy and redistributes the catalogue: presence-type voids cluster beyond the ineffable encounter—the [[aesthetic-void|aesthetic void]], the [[the-surplus-void|surplus void]], the [[the-silence-void|silence void]], and the [[affective-void|affective void]] all register as overwhelm rather than lack. The phenomenal quality void is structurally hybrid. This axis is independent of the unexplored/unexplorable/occluded scheme and demands different probing methods: presence-type voids resist direct apophatic mapping because the object is not a gap but a saturated encounter that dissolves under inspection.
 
-A second cross-cutting structure emerges where phenomenal content and the cognitive work it appears to perform come apart. Call this the **phenomenology-vs-function axis**. The cleanest case is the imagery void's third face: aphantasic and visualising minds reach the same answer to a mental rotation problem via demonstrably different strategies (Kay, Keogh & Pearson 2024), and identical introspective vocabulary masks radically different underlying connectivity (Zeman 2024). The [[synesthetic-void|synesthetic void]] formalises a parallel dissociation under different vocabulary: Wager's "extra qualia problem" identifies phenomenal differences without representational differences, and Gray (2003) argues that "function and qualia come apart in two ways" in synesthesia—identical qualia from distinct functional roles, single functional roles producing divergent qualia. Strawson's foreign-language argument for [[cognitive-phenomenology-and-the-irreducibility-of-thought|cognitive phenomenology]] runs the same wedge in the comprehension domain: identical sensory function, different phenomenal character. Wegner's I-Spy paradigm, discussed in the [[agency-void|agency void]], dissociates the *experience* of willing from the underlying causation under arranged conditions. The axis is independent of the four-kinds typology and the presence/absence axis: a function-phenomenology dissociation can be unexplorable (architectural, as in aphantasia) or naturally occluded (selectively pruned, as in the neonatal-synesthesia hypothesis), and can register as either presence (extra qualia, vivid imagery without correspondingly enhanced fidelity) or absence (the missing image whose absence the rest of cognition runs without). Where the presence/absence axis sorts voids by the phenomenology of approach, this third axis sorts them by what comes apart at the boundary—an empirical wedge against any framework that identifies phenomenal character with functional role.
+A second cross-cutting structure emerges where phenomenal content and the cognitive work it appears to perform come apart. Call this the [[phenomenology-vs-function-axis|phenomenology-vs-function axis]]. Four articles—three voids and one topic—articulate the dissociation under different vocabularies. The [[synesthetic-void|synesthetic void]] is, on Gray's (2003) reading, the architecturally cleanest exemplar: identical qualia arise from distinct functional roles (colour from visual *and* auditory pipelines), and single functional roles produce divergent qualia (the same grapheme-recognition process generating colour for synaesthetes but not non-synaesthetes), with Wager's "extra qualia problem" naming the same gap—phenomenal differences without representational differences. The imagery void's third face is the **grain-of-function wedge**: aphantasic and visualising minds reach the same answer to a mental rotation problem via demonstrably different strategies (Kay, Keogh & Pearson 2024), and identical introspective vocabulary masks radically different underlying connectivity (Zeman 2024). At *task-level* grain (mental rotation as such), function is held constant while phenomenology diverges; at *strategy-level* grain, the functions themselves differ. The axis fixes function at the task level, on the grounds that this is where the standard behavioural and computational characterisation of the task lives—a commitment that makes the strategy-level differences absorbable as multiple realisations rather than as function-differences. Strawson's foreign-language argument for [[cognitive-phenomenology-and-the-irreducibility-of-thought|cognitive phenomenology]] runs the same wedge in the comprehension domain: identical acoustic input, different phenomenal character. Wegner's I-Spy paradigm, discussed in the [[agency-void|agency void]], dissociates the *experience* of willing from the underlying causation under arranged conditions. The axis is independent of the four-kinds typology and the presence/absence axis: a function-phenomenology dissociation can be unexplorable (architectural, as in aphantasia) or naturally occluded (selectively pruned, as in the neonatal-synesthesia hypothesis), and can register as either presence (extra qualia, vivid imagery without correspondingly enhanced fidelity) or absence (the missing image whose absence the rest of cognition runs without). Where the presence/absence axis sorts voids by the phenomenology of approach, this third axis sorts them by what comes apart at the boundary—an empirical wedge against any framework that identifies phenomenal character with functional role at the task-level grain at which the wedge survives multi-realizability.
 
 ### The Access Cluster
 
@@ -211,6 +212,25 @@ This synthesis draws from:
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at its boundaries
 - [[tenet-generated-voids|Tenet-Generated Voids]] — Framework-generated limits as intellectual honesty
 - [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — The distinction between evolved and engineered constraints
+
+<!-- AI REFINEMENT LOG - 2026-04-28 (refine-draft, 21:24 UTC)
+Chain from the 2026-04-28 20:39 UTC refine of `concepts/phenomenology-vs-function-axis.md` (which addressed pessimistic-2026-04-28d's critical issue and two medium issues, including the architecturally-cleanest reframing of synaesthesia and the task/strategy grain commitment for imagery). The apex-evolve cycle that introduced the axis here (10:45 UTC) predated those moves; this refine brings the apex's framing into coherence with the concept page.
+
+Changes made:
+- §Phenomenological Cluster, axis paragraph (line 110): wikilinked the axis name `[[phenomenology-vs-function-axis|phenomenology-vs-function axis]]` at first mention.
+- Same paragraph: added the explicit "Four articles—three voids and one topic" framing to match the concept page's exemplar count and correctly classify cognitive-phenomenology as a topic (not void).
+- Same paragraph: reframed the lead exemplar from "the cleanest case is the imagery void's third face" to "the synesthetic void is, on Gray's (2003) reading, the architecturally cleanest exemplar" — matching the concept page's Mapping subsection which identifies synaesthesia as the closest to a strict instance of both dissociation patterns. Imagery is repositioned as "the grain-of-function wedge" with explicit task-level vs strategy-level commitment, consistent with the concept page's §"Imagery: The Grain-of-Function Wedge" header. ~120 words modified/added in this paragraph.
+- Same paragraph: changed "identical sensory function, different phenomenal character" to "identical acoustic input, different phenomenal character" for Strawson's argument — matching the concept page's predictive-coding hedge that the wedge is sharper at the level of acoustic *delivery* than processing.
+- Same paragraph: extended the closing wedge claim from "an empirical wedge against any framework that identifies phenomenal character with functional role" to "...with functional role at the task-level grain at which the wedge survives multi-realizability" — making the apex's claim coherent with the concept page's now-explicit multi-realizability engagement (Putnam 1967, Block & Fodor 1972).
+- frontmatter: added `[[phenomenology-vs-function-axis]]` to related_articles (the canonical home for the axis's structural exposition was missing despite four references in the body).
+- frontmatter: ai_modified → 2026-04-28T21:24:00+00:00.
+
+Net: ~150 words modified/added; voice and the cross-tradition convergence framework preserved. Supersedes the earlier P3 task ("anchor the axis to its new concept-page") which only specified the wikilink and frontmatter additions; this refine is the more comprehensive version triggered by the 20:39 UTC refine-driven framing changes.
+
+This log should be removed after human review.
+
+Prior log (2026-04-28 10:45 UTC apex-evolve introducing the axis) preserved below.
+-->
 
 <!-- AI REFINEMENT LOG - 2026-04-28 (apex-evolve, 10:45 UTC)
 Resolves the function-phenomenology taxonomic placement deferred by the 09:59 UTC refine-draft.

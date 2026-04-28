@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 21:08:00+00:00
+ai_modified: 2026-04-28 21:24:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 21:24 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Critical issues addressed**: 1 (axis paragraph's "cleanest case is the imagery void's third face" framing was overtaken by the 20:39 UTC refine of `concepts/phenomenology-vs-function-axis.md`, which identifies synaesthesia as architecturally cleanest and imagery as the grain-of-function wedge)
+- **Medium issues addressed**: 3 (1: classify cognitive-phenomenology as a topic article rather than counted with the voids — added "four articles—three voids and one topic" framing; 2: wikilink `[[phenomenology-vs-function-axis]]` at first mention in §Phenomenological Cluster axis paragraph; 3: extend closing wedge claim with multi-realizability survival qualifier — "at the task-level grain at which the wedge survives multi-realizability")
+- **Low issues addressed**: 2 (frontmatter related_articles: added `[[phenomenology-vs-function-axis]]` (canonical concept-page anchor was missing); Strawson exemplar phrasing refined "identical sensory function" → "identical acoustic input" matching the concept page's predictive-coding hedge)
+- **Changes**: ~150 words modified/added in §Phenomenological Cluster axis paragraph; voice preserved; cross-tradition convergence framework preserved
+- **Published**: yes
+- **Supersedes**: the P3 chain task "Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page" (narrower scope; subsumed by the more comprehensive P2 task arising from today's pessimistic-driven refine)
 
 ## 2026-04-28 21:08 UTC - deep-review
 - **Status**: Success (stability confirmed)
