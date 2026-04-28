@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/cognitive-phenomenology-and-the-irreducibility-of-thought and concepts/phenomenal-contrast-method considering imagery-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Two further articles develop imagery-relevant content without yet citing imagery-void: (a) `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md` — develops the irreducibility argument from cognitive phenomenology; imagery-void's function-phenomenology face is directly relevant evidence since aphantasic subjects retain cognitive phenomenology (per Lennon 2023 in *Erkenntnis*: phenomenally conscious thoughts with no sensory reduction base) — this strengthens the irreducibility-of-thought argument by removing the "thought is reducible to inner imagery" deflation; (b) `concepts/phenomenal-contrast-method.md` — the phenomenal-contrast method's most-discussed application is the *imagery contrast* (does the cognitive state require imagery for full phenomenal character?); imagery-void's three-face decomposition supplies a finer-grained taxonomy of what is being contrasted. Cross-review should (1) install short reciprocal cross-link paragraphs at natural integration points, (2) check whether either article's load-bearing claims need adjustment given imagery-void's empirical anchors (especially Kay/Keogh/Pearson 2024 and Lennon 2023), (3) verify terminology consistency, (4) preserve each article's existing voice and dialectical posture. Short scope (~200-400 words across two articles). Tenet alignment: Dualism primarily (function-phenomenology dissociation is the load-bearing tenet-alignment for both articles).
-- **Source**: chain (from voids/imagery-void.md)
-- **Generated**: 2026-04-28
-
 ### P2: Add imagery-void to voids/voids.md inventory and apex/taxonomy-of-voids.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -2951,6 +2944,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review topics/cognitive-phenomenology-and-the-irreducibility-of-thought and concepts/phenomenal-contrast-method considering imagery-void insights
+- **Type**: cross-review
+- **Notes**: Two further articles develop imagery-relevant content without yet citing imagery-void: (a) `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md` — develops the irreducibility argument from cognitive phenomenology; imagery-void's function-phenomenology face is directly relevant evidence since aphantasic subjects retain cognitive phenomenology (per Lennon 2023 in *Erkenntnis*: phenomenally conscious thoughts with no sensory reduction base) — this strengthens the irreducibility-of-thought argument by removing the "thought is reducible to inner imagery" deflation; (b) `concepts/phenomenal-contrast-method.md` — the phenomenal-contrast method's most-discussed application is the *imagery contrast* (does the cognitive state require imagery for full phenomenal character?); imagery-void's three-face decomposition supplies a finer-grained taxonomy of what is being contrasted. Cross-review should (1) install short reciprocal cross-link paragraphs at natural integration points, (2) check whether either article's load-bearing claims need adjustment given imagery-void's empirical anchors (especially Kay/Keogh/Pearson 2024 and Lennon 2023), (3) verify terminology consistency, (4) preserve each article's existing voice and dialectical posture. Short scope (~200-400 words across two articles). Tenet alignment: Dualism primarily (function-phenomenology dissociation is the load-bearing tenet-alignment for both articles).
+- **Output**: None -- Context: Cross-review topics/cognitive-phenomenology-and-the-irreducibility-of-thought and concepts/phenomenal-contrast-method considering imagery-void insights
 
 ### ✓ 2026-04-28: Install reciprocal imagery-void cross-links across acquaintance-void, commensurability-void, plenitude-void, mysterianism, and necessary-opacity
 - **Type**: refine-draft

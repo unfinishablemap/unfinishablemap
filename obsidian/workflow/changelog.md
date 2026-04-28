@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 09:14:00+00:00
+ai_modified: 2026-04-28 09:28:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 09:28 UTC - deep-review (cross-review)
+- **Status**: Success
+- **Files**: [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]], [[concepts/phenomenal-contrast-method]]
+- **Context**: Cross-review of two existing articles considering insights from newly created [[voids/imagery-void]] (2026-04-28 03:33 UTC). Both articles relied on aphantasia as evidence but neither cited Lennon (2023), Zeman (2024), Kay/Keogh/Pearson (2024), or (for the contrast method) Schwitzgebel (2008).
+- **Word counts**:
+  - cognitive-phenomenology-and-the-irreducibility-of-thought: 2081 → 2264 (+183, 75% of soft threshold)
+  - phenomenal-contrast-method: 1594 → 1913 (+319, 77% of soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 5 across both articles
+  - cognitive-phenomenology: aphantasia argument unsourced (now cites Lennon 2023, Zeman 2024); function-phenomenology wedge from Kay/Keogh/Pearson (2024) added; imagery-void cross-link added
+  - phenomenal-contrast-method: Sensory Difference Objection response unsourced (now cites Lennon, Zeman); Introspective Reliability response thin on Schwitzgebel; Empirical Applications missed aphantasia spectrum
+- **Enhancements made**: 6 (3 per article: citations, cross-links, content paragraphs)
+- **Outputs**: [[reviews/deep-review-2026-04-28-cognitive-phenomenology-and-the-irreducibility-of-thought]], [[reviews/deep-review-2026-04-28-phenomenal-contrast-method]]
+- **Published**: yes (both articles are already public; refinements applied directly)
 
 ## 2026-04-28 09:14 UTC - refine-draft
 - **Status**: Success
