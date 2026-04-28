@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 04:57:00+00:00
+ai_modified: 2026-04-28 05:12:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 05:12 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/source-attribution-void]]
+- **Context**: Cross-review considering [[imagery-void]] (created 2026-04-28) — imagery-void's fidelity face sharpens source-monitoring's reality-monitoring face
+- **Word count**: 2688 → 2736 (+48; remains soft_warning at 137% of 2000 target)
+- **Critical issues addressed**: 0 (no critical issues found — article had thorough 2026-04-21 pessimistic refinement)
+- **Medium issues addressed**: 1 (removed dangling Newell & Shanks 2014 reference, never cited in body)
+- **Enhancements made**: 3 (imagery-void integrated at Reality monitoring paragraph, §Phenomenology of Unmarkedness sibling list, and Further Reading; substantive not perfunctory)
+- **Output**: [[reviews/deep-review-2026-04-28-source-attribution-void]]
+- **Stability**: Article in maintenance mode — bedrock philosophical disagreements (Churchland on dualism, Dennett on phenomenal/origin asymmetry, Tegmark on markerless interface, self-maintenance hedged) flagged in review archive to prevent re-oscillation
 
 ## 2026-04-28 04:57 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)

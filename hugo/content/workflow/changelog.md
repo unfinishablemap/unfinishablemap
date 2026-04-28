@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 04:44:00+00:00
+ai_modified: 2026-04-28 04:57:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 04:57 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section searched**: voids/ (most pressured at 97/100)
+- **Candidates examined**: ~10 pairs across affective family (mood/valence/affective), cognitive-limits family (biological/collective/embodiment/formal/self-maintained/closure-types), phenomenal core (plenitude/surplus/phenomenal-quality), conceptual family (categorial/conceptual-impossibility/framework/conceptual-metabolism), thought/transit/temporal/narrative cluster, limits-reveal-structure vs voids-as-evidence, meaning-void vs void-as-ground-of-meaning, noetic-feelings vs emotional-epistemology, inference vs tacit-integration, plurality vs voids-between-minds
+- **Outcome**: All examined pairs are well-differentiated with explicit cross-references distinguishing their theses. The conjunction-coalesce apex methodology — recently installed (2026-04-27) — argues against premature merging when distinct evidential profiles exist; many pairs explicitly state their differentiation in prose (e.g., affective/mood/valence each name what the others are not; tacit-integration explicitly positions inference as a *narrower case, not a sibling*). Per skill instruction ("after five iterations with no strong candidates, abandon"), no merge performed.
+- **Notes**: Voids section remains at 97/100. The well-differentiated state is itself a sign of the catalogue's maturity — articles that once might have been merged have been separated by recent deep-review work that named distinct evidential signatures. Future coalesce passes may need to look in concepts/ or topics/ instead.
 
 ## 2026-04-28 04:44 UTC - deep-review
 - **Status**: Success

@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/source-attribution-void.md considering imagery-void insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: New article `voids/imagery-void.md` (created 2026-04-28) and `voids/source-attribution-void.md` share a structural feature flagged in optimistic-2026-04-28: both exhibit *probing-creates-content* behaviour — the act of inspecting the void modifies what is inspected. In imagery, asking "how vivid is this image?" can constitute the answering as much as report it; in source-attribution, asking "where did this thought come from?" can install an attribution rather than read one off. The two voids are a sister-pair within the broader inference-void family. Cross-review should (a) verify `[[imagery-void]]` is in `related_articles` and reciprocally cited in prose where the probing-creates-content pattern is named; (b) examine whether source-attribution-void's argument can be sharpened by importing imagery-void's three-faces structure (the equivalent partition for source-attribution might be: fidelity-of-attribution / inter-subjective-reliability / function-attribution-phenomenology); (c) check whether the empirical anchors transfer (the Würzburg recurrence in imagery-void and source-monitoring failures in clinical literature are parallel cases of the same structural phenomenon being rediscovered under different vocabularies); (d) install one paragraph in each article positioning the other as the sister case; (e) preserve each article's voice and tenet alignment. Light-medium scope (~300-600 words across both articles). Tenet alignment: Dualism (the probing-creates-content pattern is evidence the inspection apparatus is internal to the system inspected — a structural argument for interface architecture), Occam's Razor Has Limits.
-- **Source**: chain (from voids/imagery-void.md)
-- **Generated**: 2026-04-28
-
 ### P2: Cross-review concepts/cognitive-phenomenology.md considering voids/imagery-void insights
 - **Type**: cross-review
 - **Status**: pending
@@ -2944,6 +2937,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review voids/source-attribution-void.md considering imagery-void insights
+- **Type**: cross-review
+- **Notes**: New article `voids/imagery-void.md` (created 2026-04-28) and `voids/source-attribution-void.md` share a structural feature flagged in optimistic-2026-04-28: both exhibit *probing-creates-content* behaviour — the act of inspecting the void modifies what is inspected. In imagery, asking "how vivid is this image?" can constitute the answering as much as report it; in source-attribution, asking "where did this thought come from?" can install an attribution rather than read one off. The two voids are a sister-pair within the broader inference-void family. Cross-review should (a) verify `[[imagery-void]]` is in `related_articles` and reciprocally cited in prose where the probing-creates-content pattern is named; (b) examine whether source-attribution-void's argument can be sharpened by importing imagery-void's three-faces structure (the equivalent partition for source-attribution might be: fidelity-of-attribution / inter-subjective-reliability / function-attribution-phenomenology); (c) check whether the empirical anchors transfer (the Würzburg recurrence in imagery-void and source-monitoring failures in clinical literature are parallel cases of the same structural phenomenon being rediscovered under different vocabularies); (d) install one paragraph in each article positioning the other as the sister case; (e) preserve each article's voice and tenet alignment. Light-medium scope (~300-600 words across both articles). Tenet alignment: Dualism (the probing-creates-content pattern is evidence the inspection apparatus is internal to the system inspected — a structural argument for interface architecture), Occam's Razor Has Limits.
+- **Output**: obsidian/voids/source-attribution-void.md -- Context: Cross-review voids/source-attribution-void.md considering imagery-void insights
 
 ### ✓ 2026-04-28: Cross-review concepts/introspection.md considering voids/imagery-void insights
 - **Type**: cross-review

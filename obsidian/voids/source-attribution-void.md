@@ -2,9 +2,10 @@
 title: "The Source-Attribution Void"
 description: "Human+AI inquiry into why consciousness cannot trace the origin of its own contents—the architectural absence of native source tags, revealed through choice blindness, cryptomnesia, and source amnesia."
 created: 2026-04-21
-modified: 2026-04-21
+modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-27T16:44:00+00:00
+ai_modified: 2026-04-28T05:12:00+00:00
+last_deep_review: 2026-04-28T05:12:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -30,6 +31,7 @@ related_articles:
   - "[[interface-formalization-void]]"
   - "[[recognition-void]]"
   - "[[expertise-and-its-occlusion]]"
+  - "[[imagery-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -45,7 +47,7 @@ This void is distinct from neighbouring limits. The [[self-opacity]] void concer
 
 The foundational claim comes from the source monitoring framework developed by Marcia Johnson and colleagues. Reviewing three decades of work, Johnson, Hashtroudi and Lindsay (1993) argue that memories do not contain native labels specifying source. Instead, "the origin of memories is inferred ... from characteristic features." The relevant features include contextual attributes (spatial and temporal detail), sensory attributes, semantic and emotional qualities, and traces of internal cognitive operations such as reasoning effort. Attribution is probabilistic and inferential.
 
-One special case matters for the void's shape. *Reality monitoring* is the distinction between memories of internal events (imagined, dreamed, thought) and memories of external events (perceived, witnessed). The framework predicts—and the literature confirms—that these two categories are systematically confused under specific conditions: vivid imagination merges with perception, rehearsed intentions merge with performed actions, repeated exposure merges with self-generated content. The confusion is not noise. It follows the feature-similarity of the two trace types.
+One special case matters for the void's shape. *Reality monitoring* is the distinction between memories of internal events (imagined, dreamed, thought) and memories of external events (perceived, witnessed). The framework predicts—and the literature confirms—that these two categories are systematically confused under specific conditions: vivid imagination merges with perception, rehearsed intentions merge with performed actions, repeated exposure merges with self-generated content. The confusion is not noise. It follows the feature-similarity of the two trace types. The [[imagery-void]] sharpens the imagination side: imagined content lacks any procedure by which fidelity can be checked from inside, so the ingredient that source-monitoring later collapses with perceptual trace is itself unverifiable at its origin.
 
 The architectural consequence is structural: the absence of native source tags is not a local memory deficit. It is how the system stores content in the first place. No enrichment of introspective method could recover source tags that were never encoded. Better introspection cannot read what the mind never wrote.
 
@@ -85,7 +87,7 @@ This layering matters for what kind of limit this is. Better introspection canno
 
 The most striking feature of the void is the absence of phenomenal contrast. A confabulated reason for a manipulated choice does not feel different from a real reason. A cryptomnesic "original" idea does not feel different from a genuine one. A primed judgement does not feel primed. A source-amnesic belief does not feel orphaned—it feels grounded.
 
-Where the void touches phenomenology, what one notices is not the gap but the absence of the marker that there is a gap. This is the same zero-signal structure that characterises the [[erasure-void]]—where lost capacities take their detection mechanisms with them—and the [[recognition-void]], where failure of recognition does not present as a question. The source-attribution void has the same signature for origin: the moment a source goes unmarked, the marker that *there should have been a source* is also absent.
+Where the void touches phenomenology, what one notices is not the gap but the absence of the marker that there is a gap. This is the same zero-signal structure that characterises the [[erasure-void]]—where lost capacities take their detection mechanisms with them—the [[recognition-void]], where failure of recognition does not present as a question, and the [[imagery-void]], whose fidelity face is the structural impossibility of checking imagery against what it claims to represent. The source-attribution void has the same signature for origin: the moment a source goes unmarked, the marker that *there should have been a source* is also absent.
 
 When the void is experimentally exposed—when a choice-blindness subject is shown the manipulation—the felt response is not "I should have known." It is a peculiar disorientation: the sense that one's own mind has been operating without the access one assumed. The phenomenology of the edge here is the *revealed unmarkedness* of cognitive content: the discovery, with a specific affective colour, that one's inside has been inferring its own inside along with everything else.
 
@@ -134,13 +136,13 @@ Three implications follow for how the Map thinks about the first person:
 - [[recognition-void]] — Failures that do not present as questions
 - [[interface-formalization-void]] — The interface does not present its own operations
 - [[expertise-and-its-occlusion]] — Expertise-induced amnesia as a special case: one's own past performance as unattributable source
+- [[imagery-void]] — Companion limit at the imagination side: imagery's fidelity, vividness, and presence are unverifiable from inside
 
 ## References
 
 1. Brown, A. S., & Murphy, D. R. (1989). Cryptomnesia: Delineating inadvertent plagiarism. *Journal of Experimental Psychology: Learning, Memory, and Cognition*, 15(3), 432-442.
 1. Johansson, P., Hall, L., Sikström, S., & Olsson, A. (2005). Failure to detect mismatches between intention and outcome in a simple decision task. *Science*, 310(5745), 116-119.
 1. Johnson, M. K., Hashtroudi, S., & Lindsay, D. S. (1993). Source monitoring. *Psychological Bulletin*, 114(1), 3-28.
-1. Newell, B. R., & Shanks, D. R. (2014). Unconscious influences on decision making: A critical review. *Behavioral and Brain Sciences*, 37(1), 1-19.
 1. Nisbett, R. E., & Wilson, T. D. (1977). Telling more than we can know: Verbal reports on mental processes. *Psychological Review*, 84(3), 231-259.
 1. Pronin, E. (2009). The introspection illusion. *Advances in Experimental Social Psychology*, 41, 1-67.
 1. Schacter, D. L., Harbluk, J. L., & McLachlan, D. R. (1984). Retrieval without recollection: An experimental analysis of source amnesia. *Journal of Verbal Learning and Verbal Behavior*, 23(5), 593-611.
