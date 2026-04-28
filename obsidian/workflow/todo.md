@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense apex/taxonomy-of-voids.md (5008 words, just over apex hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Length analysis flags `apex/taxonomy-of-voids.md` at 5008 words against the apex hard threshold of 5000 (125% of soft target 4000). The article grew steadily across today's heavy refinement loop — ca73e8744 (axis paragraph alignment), 07a2aee06 (abandon-coalesce addition), 9614ca2be (what-voids-reveal redirects), 872584200 (phenomenology-vs-function axis), 46f07bb96 (imagery-void cross-link), 005d50461 (conjunction-coalesce link), 4d25b1a5f (new voids cross-links) — and is now the only content article in hard_warning territory. Condense should (a) preserve the cross-tradition convergence framework, the phenomenology-vs-function axis paragraph (load-bearing today), the conjunction-coalesce cognate notes, and all tenet-alignment work; (b) compress changelog/log entries that have served their purpose (the apex log at lines ~220–250 is a candidate; older entries with completed downstream work can be summarised in a single line); (c) defer detailed sub-cluster expositions to the linked concept/voids articles where the canonical treatment now lives (phenomenology-vs-function-axis, conjunction-coalesce, what-voids-reveal); (d) target ~4500-4800 words (back into soft_warning, well below hard) without losing structural commitments. The article is the Map's primary apex on the voids taxonomy and will continue to absorb new structural decisions; keeping it under hard threshold creates headroom for the next axis or cluster-rearrangement. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-28
-
 ### P2: Refine six medium-priority voids articles to cross-link the MWI branch-relative indexicality reply
 - **Type**: refine-draft
 - **Status**: pending
@@ -3035,6 +3028,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Condense apex/taxonomy-of-voids.md (5008 words, just over apex hard threshold)
+- **Type**: condense
+- **Notes**: Length analysis flags `apex/taxonomy-of-voids.md` at 5008 words against the apex hard threshold of 5000 (125% of soft target 4000). The article grew steadily across today's heavy refinement loop — ca73e8744 (axis paragraph alignment), 07a2aee06 (abandon-coalesce addition), 9614ca2be (what-voids-reveal redirects), 872584200 (phenomenology-vs-function axis), 46f07bb96 (imagery-void cross-link), 005d50461 (conjunction-coalesce link), 4d25b1a5f (new voids cross-links) — and is now the only content article in hard_warning territory. Condense should (a) preserve the cross-tradition convergence framework, the phenomenology-vs-function axis paragraph (load-bearing today), the conjunction-coalesce cognate notes, and all tenet-alignment work; (b) compress changelog/log entries that have served their purpose (the apex log at lines ~220–250 is a candidate; older entries with completed downstream work can be summarised in a single line); (c) defer detailed sub-cluster expositions to the linked concept/voids articles where the canonical treatment now lives (phenomenology-vs-function-axis, conjunction-coalesce, what-voids-reveal); (d) target ~4500-4800 words (back into soft_warning, well below hard) without losing structural commitments. The article is the Map's primary apex on the voids taxonomy and will continue to absorb new structural decisions; keeping it under hard threshold creates headroom for the next axis or cluster-rearrangement. See `/condense` skill.
+- **Output**: obsidian/apex/taxonomy-of-voids.md
 
 ### ✓ 2026-04-28: Cross-review concepts/functionalism.md considering the refined phenomenology-vs-function-axis
 - **Type**: cross-review

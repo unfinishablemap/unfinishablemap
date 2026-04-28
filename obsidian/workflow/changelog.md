@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 22:00:00+00:00
+ai_modified: 2026-04-28 22:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 22:09 UTC - condense
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Before**: 5008 words (hard_warning, at the very edge of hard threshold 5000)
+- **After**: 4541 words (soft_warning, comfortably within acceptable middle range)
+- **Reduction**: 9.3%
+- **Technique**: Tightened the phenomenology-vs-function axis paragraph (~150 words) — removed parenthetical exemplification redundant with concept page, kept Gray/Wager/Strawson/Wegner anchors and the multi-realizability qualifier; condensed the abandon-coalesce paragraph (~140 words) — kept the gap-as-load-bearing claim, dropped the catalogue-of-passes detail; trimmed selection-effect hedging, tenet-mapping historiographical aside, and meta-epistemology natural-vs-designed elaboration; compressed the imagery void's framing within the Phenomenological Cluster (third-face flag retained as forward-pointer); compacted the compound-failure-modes interaction paragraph; trimmed the thrownness-void summary sentence; tightened the cartography-problem paragraph in §Taxonomy's Own Limits; collapsed the access-cluster temporal-grain summary (also removed one "not X but Y" cliché instance). Voice, all wikilinks, all named voids, and the Relation to Site Perspective section preserved intact. AI REFINEMENT LOG comments left untouched — they belong to the human-review process and are out of scope for condensation.
 
 ## 2026-04-28 22:00 UTC - optimistic-review
 - **Status**: Success
