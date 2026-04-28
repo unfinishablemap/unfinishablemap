@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/plurality-void.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) last touched 2026-03-10 — 49 days ago. Voids article on the plurality void — the inaccessibility of whether other minds exist as numerically distinct phenomenal centres or as facets of a deeper unity. The article is a load-bearing piece for the Map's stance on consciousness-individuation and engages directly with several recently-evolved sister articles (`voids/voids-between-minds`, `voids/witnessing-void`, `voids/non-human-minds-as-void-explorers`) that have moved since the last review. Verify (a) coherence with the post-2026-04-28 voids/ taxonomy including the new phenomenology-vs-function axis, (b) cross-references to recently-coalesced or refined sister voids articles, (c) tenet alignment (especially Dualism — the article's identity-of-indiscernibles argument is load-bearing for one-mind-per-substrate), (d) audit for "X, not Y" and inverted "Y, not X" cliché violations (the recent pessimistic-2026-04-28c flagged this as a recurring deep-review miss), (e) verify any empirical citations remain current. See `/deep-review` skill.
-- **Source**: staleness
-- **Generated**: 2026-04-28
-
 ### P3: Write apex on within-species phenomenal divergence as functionalism's empirical wedge
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3000,6 +2993,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Deep review voids/plurality-void.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) last touched 2026-03-10 — 49 days ago. Voids article on the plurality void — the inaccessibility of whether other minds exist as numerically distinct phenomenal centres or as facets of a deeper unity. The article is a load-bearing piece for the Map's stance on consciousness-individuation and engages directly with several recently-evolved sister articles (`voids/voids-between-minds`, `voids/witnessing-void`, `voids/non-human-minds-as-void-explorers`) that have moved since the last review. Verify (a) coherence with the post-2026-04-28 voids/ taxonomy including the new phenomenology-vs-function axis, (b) cross-references to recently-coalesced or refined sister voids articles, (c) tenet alignment (especially Dualism — the article's identity-of-indiscernibles argument is load-bearing for one-mind-per-substrate), (d) audit for "X, not Y" and inverted "Y, not X" cliché violations (the recent pessimistic-2026-04-28c flagged this as a recurring deep-review miss), (e) verify any empirical citations remain current. See `/deep-review` skill.
+- **Output**: obsidian/voids/plurality-void.md
 
 ### ✓ 2026-04-28: Write concept page on the phenomenology-vs-function dissociation axis
 - **Type**: expand-topic

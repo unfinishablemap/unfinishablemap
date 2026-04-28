@@ -4,7 +4,7 @@ description: "Consciousness appears constitutively singular—we cannot conceive
 created: 2026-02-24
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-04-28T19:23:00+00:00
 draft: false
 topics:
   - "[[personal-identity]]"
@@ -25,7 +25,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-24
 last_curated:
-last_deep_review: 2026-03-10T21:23:00+00:00
+last_deep_review: 2026-04-28T19:23:00+00:00
 ---
 
 Erwin Schrödinger put it directly: "Consciousness is a singular of which the plural is unknown." The Unfinishable Map calls this the plurality void—the systematic inability to conceive what it would be like to be multiple conscious subjects at once. The limit is structural, not a failure of imagination about exotic scenarios. Every attempt to think plural consciousness collapses back into a single viewpoint trying to imagine another single viewpoint. The plurality itself never arrives.
