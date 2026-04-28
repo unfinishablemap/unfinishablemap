@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-28 09:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[qualia]]'
 - '[[mysterianism]]'
 created: 2026-03-19
-date: &id001 2026-03-19
+date: &id001 2026-04-28
 description: Human+AI exploration of why phenomenal experiences across radically different
   conscious architectures cannot always be compared—a structural limit, not merely
   a practical one.
@@ -22,6 +22,7 @@ related_articles:
 - '[[tenets]]'
 - '[[voids-between-minds]]'
 - '[[synesthetic-void]]'
+- '[[imagery-void]]'
 - '[[mapping-mind-space]]'
 - '[[framework-void]]'
 - '[[non-human-minds-as-void-explorers]]'
@@ -49,6 +50,8 @@ Integrated Information Theory (IIT) challenges this conclusion by proposing Φ (
 Thomas Nagel's 1974 question—what is it like to be a bat?—is usually read as an argument about access. We cannot know what echolocation feels like from the inside. But Nagel's deeper point concerns commensurability. The bat's sonar-based phenomenal world may be "organized along dimensions we cannot even conceive." The problem is not just that we lack access to the bat's experience; it is that our experiential framework may share no common dimensions with the bat's.
 
 Nagel acknowledged that "the distance between oneself and other persons and other species can fall anywhere on a continuum." Close neighbours on this continuum—humans comparing notes on the taste of coffee—share enough phenomenal ground for meaningful comparison. But as architectures diverge, shared ground erodes. At some point, the continuum does not merely become difficult to traverse. It fractures.
+
+The fracture begins earlier on the continuum than the bat case suggests. The [imagery-void](/voids/imagery-void/) is a within-species commensurability data point: the aphantasia/hyperphantasia spectrum shows that humans using identical linguistic descriptions of mental imagery have radically different underlying phenomenology, with roughly 1% extreme-aphantasic and 3% extreme-hyperphantasic. People agree on the word "vivid" without converging on what it picks out. If commensurability fails between conspecifics sharing language and neural architecture, the broader claim that comparison fractures across architectures is not extrapolation from a marginal case—it is the same structure operating where shared ground was assumed dense.
 
 Consider trying to compare your experience of colour with a hypothetical mind that perceives electromagnetic frequency as a continuous dimension rather than through discrete colour categories. Both experiences can be *described*, but descriptions are always in one's own phenomenal vocabulary. The moment you try to establish whether the two experiences are "similar" or "different," the comparison slides back into one framework or the other. There is no neutral standpoint from which to conduct the comparison—and that absence is the void.
 
@@ -102,6 +105,7 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 
 - [voids-between-minds](/voids/voids-between-minds/)
 - [synesthetic-void](/voids/synesthetic-void/)
+- [imagery-void](/voids/imagery-void/) — A within-species commensurability data point grounded in aphantasia research
 - [Mapping Mind Space](/voids/mapping-mind-space/)
 - [framework-void](/voids/framework-void/)
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-28 03:13:00+00:00
+ai_modified: 2026-04-28 09:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -27,7 +27,7 @@ concepts:
 - '[[inventory-blindness]]'
 - '[[epistemology-of-limit-knowledge]]'
 created: 2026-01-15
-date: &id001 2026-04-26
+date: &id001 2026-04-28
 description: 'McGinn''s cognitive closure thesis: human minds may be constitutionally
   unable to solve the mind-body problem, like rats unable to grasp calculus.'
 draft: false
@@ -54,6 +54,7 @@ related_articles:
 - '[[imagination-and-creativity-void]]'
 - '[[inference-void]]'
 - '[[carrolls-regress]]'
+- '[[imagery-void]]'
 title: Mysterianism and Cognitive Closure
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -94,6 +95,8 @@ Thomas Nagel anticipated mysterianism in "What Is It Like to Be a Bat?" (1974): 
 Research on [minimal consciousness](/concepts/minimal-consciousness/) provides striking empirical evidence for cognitive closure. Consider *C. elegans*, whose entire nervous system has been mapped: 302 neurons, every synapse documented. Yet we cannot determine whether the worm experiences anything at all. Complete structural knowledge doesn't bridge the gap to phenomenal facts.
 
 If complete description doesn't reveal consciousness in a 302-neuron organism, why expect it to reveal consciousness in an 86-billion-neuron brain? We have markers for consciousness (like Unlimited Associative Learning), not detectors. We identify correlates without grasping what consciousness *is*—exactly what McGinn predicts if we're cognitively closed to the relevant property.
+
+Schwitzgebel's claim that "we are not simply fallible at the margins... we are broadly inept" at introspection (Schwitzgebel 2008) finds an empirical case study in the [imagery-void](/voids/imagery-void/). Mental imagery is a paradigm domain for systematic introspective failure: confident reports of vividness diverge wildly across persons (the aphantasia/hyperphantasia spectrum), the same task is solved with and without phenomenal imagery (Kay, Keogh & Pearson 2024), and the same controversy structure has surfaced twice across a century—Würzburg, then aphantasia—under different vocabularies and instruments. The recurrence-across-instruments is itself evidence that the introspective failure is structural, not methodological. If a closed mind cannot trust its own access to its own imagery, the architecture-grounded version of cognitive closure has direct phenomenal traction.
 
 ## Problems Versus Mysteries
 
@@ -201,6 +204,7 @@ The Map goes further than mysterianism in making specific commitments—but pres
 - [ineffable-encounter-void](/voids/ineffable-encounter-void/) — Cognitive closure applied to numinous experience: the evaluating mind and the numinous mind cannot coexist
 - [inference-void](/voids/inference-void/) — Carroll's regress and the structural opacity of inferential transitions: a second-order limit on the operation any limits-argument must use
 - [carrolls-regress](/concepts/carrolls-regress/) — The 1895 dialogue itself: predates Gödel by 36 years and demonstrates that explicit rule-citation cannot, by itself, force inference
+- [imagery-void](/voids/imagery-void/) — Empirical case study of Schwitzgebel's "broadly inept" introspection in a single phenomenal modality
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that mysterianism motivates
 
 ## References

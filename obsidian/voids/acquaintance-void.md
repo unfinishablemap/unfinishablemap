@@ -2,9 +2,9 @@
 title: "The Acquaintance Void"
 description: "Human+AI exploration of the territory that descriptions and concepts cannot capture—from Russell's direct epistemic relation to phenomenal overflow, bodily knowing, and modes of contact closed to minds like ours."
 created: 2026-01-27
-modified: 2026-04-25
+modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-25T04:35:00+00:00
+ai_modified: 2026-04-28T09:14:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[voids-between-minds]]"
   - "[[consciousness-only-territories]]"
   - "[[synesthetic-void]]"
+  - "[[imagery-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[imagination-and-creativity-void]]"
   - "[[transformative-experience-void]]"
@@ -92,6 +93,8 @@ Nagel argues that even perfect knowledge of bat neurophysiology fails to tell us
 
 Colin McGinn's [[mysterianism|cognitive closure]] thesis adds the architectural reading: a mind is closed to a property if its concept-forming procedures cannot extend to a grasp of it. We cannot form acquaintance-concepts for experiences we are constitutionally unable to have, and may lack the architecture even to *specify* what we are missing.
 
+The cross-architecture limit has a within-species analogue. The [[imagery-void]] decomposes into three faces—fidelity, inter-subjective, and function-phenomenology—and the inter-subjective face is the paradigm intra-species case: two humans saying "vivid red apple" share the word but cannot share the phenomenology, with the aphantasia/hyperphantasia spectrum making the divergence empirically inescapable. Acquaintance does not transfer between minds even where architecture is conserved.
+
 ## The Russellian Asymmetry
 
 If physics describes only the structural and dispositional properties of matter — never its intrinsic, categorical nature — then acquaintance with our own experience may be our sole window onto what anything *is* in itself. The [[intrinsic-nature-void]] charts this from the side of what physics misses; the acquaintance void charts it from the other side. Our window is narrow: a handful of phenomenal qualities through a handful of sensory and introspective modes. Everything beyond is known only by its structural shadow.
@@ -147,6 +150,7 @@ The claim that the acquaintance void marks a genuine epistemic limit would be un
 - [[transformative-experience-void]] — Acquaintance gaps between temporal stages of a life
 - [[intrinsic-nature-void]] — What matter is in itself, beyond structural description
 - [[voids-between-minds]] — Access to consciousness beyond our own
+- [[imagery-void]] — Inter-subjective phenomenal divergence within a single species
 - [[biological-cognitive-closure]] — What concepts minds can and cannot form
 - [[the-silence-void]] — Cessation of thought as access to pre-conceptual territory
 - [[apophatic-approaches]] — Knowing through negation

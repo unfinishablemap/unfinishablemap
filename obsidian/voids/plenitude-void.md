@@ -2,9 +2,9 @@
 title: "The Plenitude Void"
 description: "Human+AI exploration of why conscious experience seems rich beyond what can be reported or checked—and why that gap may be structurally impossible to resolve from within."
 created: 2026-04-23
-modified: 2026-04-26
+modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-26T18:38:00+00:00
+ai_modified: 2026-04-28T09:14:00+00:00
 last_deep_review: 2026-04-26T18:38:00+00:00
 draft: false
 topics:
@@ -26,6 +26,7 @@ related_articles:
   - "[[meta-epistemology-of-limits]]"
   - "[[bandwidth-of-consciousness]]"
   - "[[inference-void]]"
+  - "[[imagery-void]]"
   - "[[tenets]]"
 ai_contribution: 100
 author:
@@ -88,7 +89,7 @@ The plenitude void is the claim that current methods cannot adjudicate between t
 
 What makes the plenitude void a void, rather than merely a hard problem, is that its investigation is compromised by the phenomenon itself. Three features make this structural.
 
-**The check-and-find loop.** Every introspective probe for sparsity directs attention, and attention generates detail. Looking to see whether peripheral vision is blurry produces a momentary clarification of the peripheral region — because directing attention there recruits covert attention (which enhances processing without moving the fovea — Posner 1980), and may also trigger foveation if a saccade follows. One cannot catch experience being sparse, because checking fills in. The inferential move from probe-result to phenomenal verdict is itself opaque (the [[inference-void]]), compounding the loop's grip-failure: the probe alters its target, and the step from registration to judgement cannot be inspected as such.
+**The check-and-find loop.** Every introspective probe for sparsity directs attention, and attention generates detail. Looking to see whether peripheral vision is blurry produces a momentary clarification of the peripheral region — because directing attention there recruits covert attention (which enhances processing without moving the fovea — Posner 1980), and may also trigger foveation if a saccade follows. One cannot catch experience being sparse, because checking fills in. The inferential move from probe-result to phenomenal verdict is itself opaque (the [[inference-void]]), compounding the loop's grip-failure: the probe alters its target, and the step from registration to judgement cannot be inspected as such. The same self-concealing structure surfaces at domain-specific scale in the [[imagery-void]]: probing for the exact shade or sharpness of an imagined apple generates detail that was not there before the probe, with confident reports diverging wildly across persons and across the same person under different probes. Mental imagery is the plenitude pattern in miniature, isolated to a single phenomenal modality where the probing-creates-content effect is empirically anchored by the aphantasia literature.
 
 **The confabulation default.** Reports about just-elapsed experience feel authoritative but are known to diverge systematically from what was registered. The introspective report is not a passive readout; it is a construction. Follow-up work on the inattentional-blindness paradigm (Simons & Chabris 1999, and subsequent replications) finds that subjects who miss the gorilla can nonetheless offer confident post-hoc descriptions of the scene. Confidence and accuracy decouple without any phenomenal marker distinguishing the two.
 
@@ -124,6 +125,7 @@ The void also connects to [[self-opacity]] (the general structural inaccessibili
 - [[self-opacity]] — Why experience resists examining itself
 - [[bandwidth-of-consciousness]] — The compression between sensory inflow and reportable content
 - [[inference-void]] — Why the move between premises and conclusions is itself opaque to the consciousness performing it
+- [[imagery-void]] — The plenitude pattern instantiated in a single phenomenal modality, anchored by the aphantasia literature
 - [[meta-epistemology-of-limits]] — Whether genuine limits can be distinguished from hard problems
 
 ## References

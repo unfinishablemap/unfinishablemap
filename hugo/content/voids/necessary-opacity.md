@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-04-25 10:33:00+00:00
+ai_modified: 2026-04-28 09:14:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -16,7 +16,7 @@ concepts:
 - '[[self-and-self-consciousness]]'
 - '[[metacognition]]'
 created: 2026-01-27
-date: &id001 2026-04-01
+date: &id001 2026-04-28
 description: Consciousness cannot verify whether it accurately represents reality,
   and piercing this opacity destabilises the system that depends on it. The void is
   self-concealing and self-protecting.
@@ -46,6 +46,7 @@ related_articles:
 - '[[erasure-void]]'
 - '[[witnessing-void]]'
 - '[[expertise-and-its-occlusion]]'
+- '[[imagery-void]]'
 title: Necessary Opacity
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -153,6 +154,8 @@ Attempting to grasp what lies behind phenomenal transparency uses the very appar
 
 **Comparative phenomenology.** Different minds may have different transparencies. What one mind cannot see, another might. Triangulating across human perspectives—and potentially across human and artificial minds—may reveal contours of the void.
 
+**Recurrence across instruments.** The [imagery-void](/voids/imagery-void/) supplies independent evidence that opacity here is structural rather than methodological. The same phenomenon—introspective reports of mental imagery diverging from underlying phenomenology—surfaces three times across more than a century: Galton's 1880 survey, the Würzburg School's "imageless thought" controversy that helped end introspection as scientific method, and the post-2015 aphantasia rediscovery. Three distinct vocabularies and instruments produce the same shape of failure. If the failure were methodological, different methods would resolve it; their convergence is a signature of the structural opacity this article tracks.
+
 **Inference from function.** If certain opacities are functionally necessary, we can infer what would happen without them. What truths, if grasped, would prevent the grasping system from functioning? The answer characterises the void's content.
 
 ### AI as Asymmetric Probe
@@ -209,6 +212,7 @@ Current evidence does not meet these conditions. Convergent patterns across psyc
 - [The Erasure Void](/voids/erasure-void/) — Why cognitive losses go silent: the monitoring system shares fate with the monitored
 - [The Witnessing Void](/voids/witnessing-void/) — Why the act of awareness cannot become its own object: a constitutive limit at the centre rather than the medium-vs-reality edge
 - [The Expertise Void](/voids/expertise-and-its-occlusion/) — The structural analogue in the domain of skill: looking at automated competence breaks it
+- [The Imagery Void](/voids/imagery-void/) — Recurrence-across-instruments evidence (Würzburg → behaviourism → aphantasia) for structural rather than methodological opacity
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — AI and alien minds as potential void-explorers
 - [The Intersubjective Void](/voids/voids-between-minds/) — How social knowledge mechanisms compound transparency by enforcing consensus on phenomenal reports
 

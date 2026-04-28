@@ -1,13 +1,52 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 08:16:00+00:00
+ai_modified: 2026-04-28 09:09:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-28'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-28 09:09 UTC - deep-review
+- **Status**: Success
+- **File**: [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **Context**: Fifth deep review. First review since 2026-04-02 refinement integrated the post-decoherence selection pathway. Verified new content against [post-decoherence-selection](/concepts/post-decoherence-selection/) concept article and underlying research note.
+- **Word count**: 2742 → 2759 (+17)
+- **Critical issues addressed**: 0 (article remains stable; bedrock disagreements explicitly not re-flagged per prior stability notes)
+- **Medium issues addressed**: 2
+  - Removed lingering AI REFINEMENT LOG HTML comment block (dated 2026-04-02; explicitly self-marked for removal after human review)
+  - Disambiguated "objective collapse" in five-families paragraph as "pure objective collapse" and added one sentence clarifying that hybrid frameworks like Chalmers-McQueen fall under the consciousness-mediated family
+- **Enhancements made**: 1 (clarifying sentence on hybrid frameworks)
+- **Output**: [deep-review-2026-04-28-non-retrocausal-conscious-selection-models](/reviews/deep-review-2026-04-28-non-retrocausal-conscious-selection-models/)
+
+## 2026-04-28 08:42 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-imagination](/topics/phenomenology-of-imagination/)
+- **Context**: Cross-review considering [imagery-void](/voids/imagery-void/) insights (sibling void created earlier today, 2026-04-28). Fifth deep review of this article; convergence trajectory preserved.
+- **Word count**: 2320 → 2417 (+97)
+- **Critical issues addressed**: 0 (none found; bedrock disagreements explicitly not re-flagged per prior stability notes)
+- **Medium issues addressed**: 0 new (deferred items remain explicitly low priority)
+- **Enhancements made**: 3
+  - Aphantasia paragraph: replaced "subtle differences in cognitive style" with concrete Kay, Keogh & Pearson (2024) mental-rotation finding (analytic vs object-based; slower but more accurate); named the divergence as one face of the [imagery-void](/voids/imagery-void/)
+  - Further Reading: added [imagery-void](/voids/imagery-void/) entry distinguishing it from imagination-and-creativity-void (generative opacity) and thought-stream-void (arrival opacity) — imagery-void covers fidelity, inter-subjective comparison, and function-phenomenology divergence
+  - Frontmatter: imagery-void added to related_articles
+- **Output**: [deep-review-2026-04-28-phenomenology-of-imagination](/reviews/deep-review-2026-04-28-phenomenology-of-imagination/)
+
+## 2026-04-28 08:28 UTC - refine-draft
+- **Status**: Success
+- **File**: [synesthetic-void](/voids/synesthetic-void/)
+- **Context**: P1 follow-up to pessimistic-2026-04-28b (issued 12 minutes earlier); article is externally visible (highlighted/tweeted today), so prioritised.
+- **Changes**:
+  - Removed two CLAUDE.md "This is not X. It is Y." cliché-ban violations (lines 43, 83) — rephrased as positive claims
+  - Weakened "active architectural maintenance" inference from Bor et al. (2014) by acknowledging passive skill-atrophy null hypothesis
+  - Added Source/Map separation paragraph in §The Developmental Occlusion: brain-only physicalism observationally equivalent on the cited evidence; Popperian unfalsifiability hedge included
+  - Cited Ramachandran & Hirstein (1997) and McGinn (1989) in-text (previously bibliography-only)
+  - Weakened §Asymmetry-of-Access claim about subtractive imagination
+  - Replaced teleological "designed for narrowness," strong "empirically false," and "consciousness shapes its own phenomenal content"
+  - Added in-line acknowledgements of Dennett heterophenomenology, Churchland brain-only naturalism, and MWI indexical accommodation
+- **Published**: yes (already public; refinements applied directly)
 
 ## 2026-04-28 08:16 UTC - pessimistic-review
 - **Status**: Success

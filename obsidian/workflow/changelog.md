@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 09:09:00+00:00
+ai_modified: 2026-04-28 09:14:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 09:14 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[voids/acquaintance-void]], [[voids/commensurability-void]], [[voids/plenitude-void]], [[concepts/mysterianism]], [[voids/necessary-opacity]]
+- **Context**: Reciprocal cross-link installation for newly created [[voids/imagery-void]] (2026-04-28 03:33 UTC). The five citing articles had zero references back; this refinement closes the inter-void web that the optimistic-2026-04-28 review identified as load-bearing.
+- **Changes**:
+  - acquaintance-void: added imagery-void as paradigm intra-species case for the inter-subjective face (paragraph in Cross-Species Inaccessibility section); related_articles + Further Reading
+  - commensurability-void: added within-species commensurability data point grounded in aphantasia spectrum (paragraph in Nagel's Bat section); related_articles + Further Reading with annotation
+  - plenitude-void: added imagery as domain-specific instance of the check-and-find loop (sentence in Self-Concealing Structure); related_articles + Further Reading with annotation
+  - mysterianism: added imagery-void as Schwitzgebel "broadly inept" empirical case study and recurrence-across-instruments evidence (paragraph in Simple Minds section); related_articles + Further Reading with annotation
+  - necessary-opacity: added recurrence-across-instruments method (Würzburg → behaviourism → aphantasia) as structural-opacity evidence (paragraph in Approaches to the Edge); related_articles + Further Reading with annotation
+- **Total scope**: ~270 words added across five files
+- **Published**: yes (refinements applied directly; targets are already public)
 
 ## 2026-04-28 09:09 UTC - deep-review
 - **Status**: Success

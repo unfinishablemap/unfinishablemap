@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-04-02 11:38:00+00:00
+ai_modified: 2026-04-28 09:09:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Three forward-in-time frameworks propose consciousness selects amon
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 08:22:00+00:00
+last_deep_review: 2026-04-28 09:09:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -114,7 +114,7 @@ The three frameworks above all assume consciousness must act on states that reta
 
 A distinct version of non-retrocausal selection targets the [post-decoherence gap](/concepts/post-decoherence-selection/) instead. Decoherence solves two of the three sub-problems of quantum measurement (Schlosshauer, 2004): it selects the preferred basis and suppresses interference between branches. The third — why one definite outcome obtains rather than the mixture persisting — remains open. The diagonal density matrix after decoherence is an *improper mixture* (derived from tracing out the environment), not a *proper mixture* (classical ignorance about a determinate state). This distinction, emphasised by Luppi & Adlam (2012), means the post-decoherence state remains genuinely indeterminate until something resolves it.
 
-Five families of selection mechanism have been proposed for this residual gap — consciousness-mediated collapse, objective collapse, hidden variables, many worlds, and history selection. Only consciousness-mediated selection is consistent with all five of the Map's [tenets](/tenets/): objective collapse eliminates consciousness's causal role (conflicting with [Bidirectional Interaction](/tenets/#bidirectional-interaction)), hidden variables leave no indeterminacy for consciousness to exploit, many worlds is directly ruled out by [No Many Worlds](/tenets/#no-many-worlds), and history selection frameworks are agnostic about consciousness at best.
+Five families of selection mechanism have been proposed for this residual gap — consciousness-mediated collapse, objective collapse, hidden variables, many worlds, and history selection. Only consciousness-mediated selection is consistent with all five of the Map's [tenets](/tenets/): pure objective collapse eliminates consciousness's causal role (conflicting with [Bidirectional Interaction](/tenets/#bidirectional-interaction)), hidden variables leave no indeterminacy for consciousness to exploit, many worlds is directly ruled out by [No Many Worlds](/tenets/#no-many-worlds), and history selection frameworks are agnostic about consciousness at best. Hybrid frameworks like Chalmers-McQueen — where consciousness modulates CSL-style collapse — fall under the consciousness-mediated family.
 
 Post-decoherence selection has three advantages over its pre-decoherence counterparts:
 
@@ -178,19 +178,3 @@ The Map's position: non-retrocausal conscious selection is the more conservative
 10. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267. arXiv:quant-ph/0312059.
 11. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Consciousness-Selecting Neural Patterns. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/
 12. Southgate, A. & Oquatre-six, C. (2026-02-01). Time-Symmetric Selection Mechanism. *The Unfinishable Map*. https://unfinishablemap.org/topics/time-symmetric-selection-mechanism/
-
-<!-- AI REFINEMENT LOG - 2026-04-02
-Changes made:
-- Added post-decoherence selection as distinct pathway in "The Core Distinction" section (pre- vs post-decoherence)
-- Reframed "Macroscopic Superposition Question" as applying to pre-decoherence frameworks specifically
-- Added new "The Post-Decoherence Alternative" section with Schlosshauer's three sub-problems, improper mixture argument, five selection families, and three advantages
-- Expanded "Decoherence-basis selection" open question to reflect pre/post-decoherence distinction
-- Added post-decoherence-selection to concepts and Further Reading
-- Added Luppi & Adlam (2012) and Schlosshauer (2004) to References
-
-Based on research in research/post-decoherence-selection-mechanisms-2026-03-29.md.
-Addresses pessimistic review concern about inflated empirical claims in quantum mechanism articles.
-Key improvements: article no longer frames viability solely around pre-decoherence coherence survival; post-decoherence pathway presented as more defensible alternative.
-
-This log should be removed after human review.
--->
