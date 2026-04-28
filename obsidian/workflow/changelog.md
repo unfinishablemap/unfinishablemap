@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 18:07:00+00:00
+ai_modified: 2026-04-28 18:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 18:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/voids]]
+- **Original score**: not run (curate.py review tool not present in repo); changes targeted per task notes
+- **Changes**: (a) added [[suspension-void]] entry to Foundational Articles, placed adjacent to [[inference-void]] per documented sister-regress relationship, with three-face tagline (verification/capacity/action) and "first native conjunction-coalesce cognate" designation; (b) reciprocated cross-link by extending inference-void's tagline; (c) updated conjunction-coalesce maintenance note to enumerate four governed entries, add the new seam, reclassify suspension-void as a *cognate* alongside erasure-void, and record that suspension-void is the first cognate produced natively at creation under the methodology rather than retrofitted from a draft; (d) stale-reference cleanup — replaced archived [[imagination-and-creativity-void]] + [[aesthetic-void]] with the live [[creative-aesthetic-void]] (URLs preserved via alias_urls in the coalesce target), replaced archived [[spontaneous-thought-void]] with [[thought-stream-void]], and removed the duplicate [[thoughts-that-slip-away]] entry from Phenomenology of Limits (also coalesced into thought-stream-void); added suspension-void to related_articles; bumped modified to 2026-04-28
+- **Words touched**: ~180 (within ~100-200 task scope)
+- **Published**: yes (draft: false unchanged)
 
 ## 2026-04-28 18:07 UTC - deep-review (cross-review)
 - **Status**: Success

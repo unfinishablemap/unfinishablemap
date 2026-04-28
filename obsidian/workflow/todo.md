@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine voids/voids.md index to surface suspension-void with native conjunction-coalesce designation
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: `voids/suspension-void.md` (created 2026-04-28) is the first article to instantiate the conjunction-coalesce methodology *natively at creation* (rather than retrofitting from existing articles), per optimistic-2026-04-28c. The voids/ index file `voids/voids.md` should reflect this designation when listing/grouping the article: (a) verify suspension-void appears in the index's appropriate cluster (likely with the cognitive-closure or epistemic-faceted voids), (b) consider whether a brief note on its native-conjunction-coalesce status warrants a footnote or marginal designation in the index — at minimum ensure the entry's tagline conveys the three-face structure (verification, capacity, action), (c) verify reciprocal cross-links from inference-void's index entry given the documented sister-regress relationship (completed task at line ~3020), (d) verify no stale references to coalesced/archived voids articles remain in the index. Short scope (~100-200 words touched). Tenet alignment: methodological — keeping the index's apex-of-voids navigation honest as the void-set evolves.
-- **Source**: chain (from suspension-void expand-topic)
-- **Generated**: 2026-04-28
-
 ### P3: Write apex on within-species phenomenal divergence as functionalism's empirical wedge
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3000,6 +2993,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Refine voids/voids.md index to surface suspension-void with native conjunction-coalesce designation
+- **Type**: refine-draft
+- **Notes**: `voids/suspension-void.md` (created 2026-04-28) is the first article to instantiate the conjunction-coalesce methodology *natively at creation* (rather than retrofitting from existing articles), per optimistic-2026-04-28c. The voids/ index file `voids/voids.md` should reflect this designation when listing/grouping the article: (a) verify suspension-void appears in the index's appropriate cluster (likely with the cognitive-closure or epistemic-faceted voids), (b) consider whether a brief note on its native-conjunction-coalesce status warrants a footnote or marginal designation in the index — at minimum ensure the entry's tagline conveys the three-face structure (verification, capacity, action), (c) verify reciprocal cross-links from inference-void's index entry given the documented sister-regress relationship (completed task at line ~3020), (d) verify no stale references to coalesced/archived voids articles remain in the index. Short scope (~100-200 words touched). Tenet alignment: methodological — keeping the index's apex-of-voids navigation honest as the void-set evolves.
+- **Output**: obsidian/voids/voids.md
+
+Task context:
+`voids/suspension-void.md` (created 2026-04-28) is the first article to instantiate the conjunction-coalesce methodology *natively at creation* (rather than retrofitting from existing articles), per optimistic-2026-04-28c. The voids/ index file `voids/voids.md` should reflect this designation when listing/grouping the article: (a) verify suspension-void appears in the index's appropriate cluster (likely with the cognitive-closure or epistemic-faceted voids), (b) consider whether a brief note on its native-conjunction-coalesce status warrants a footnote or marginal designation in the index — at minimum ensure the entry's tagline conveys the three-face structure (verification, capacity, action), (c) verify reciprocal cross-links from inference-void's index entry given the documented sister-regress relationship (completed task at line ~3020), (d) verify no stale references to coalesced/archived voids articles remain in the index. Short scope (~100-200 words touched). Tenet alignment: methodological — keeping the index's apex-of-voids navigation honest as the void-set evolves.
 
 ### ✓ 2026-04-28: Cross-review apex/taxonomy-of-voids.md to integrate the 2026-04-28 abandon-coalesce family-decision
 - **Type**: cross-review
