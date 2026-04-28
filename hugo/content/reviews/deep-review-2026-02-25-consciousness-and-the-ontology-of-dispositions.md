@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-25
-**Article**: [Consciousness and the Ontology of Dispositions](/topics/consciousness-and-the-ontology-of-dispositions/)
+**Article**: [Consciousness and the Ontology of Dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
 **Previous review**: [2026-02-21](/reviews/deep-review-2026-02-21-consciousness-and-the-ontology-of-dispositions/)
 
 ## Pessimistic Analysis Summary
@@ -64,9 +64,9 @@ No new counterarguments required addressing.
 
 ### Enhancements Made
 
-- Added cross-reference to [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) in the psychophysical laws discussion
+- Added cross-reference to [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) in the psychophysical laws discussion
 - Added cross-reference to [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) in the pain-asymbolia discussion
-- Added [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/), and [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) to Further Reading
+- Added [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/), [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/), and [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) to Further Reading
 - Added [knowledge-argument](/concepts/knowledge-argument/) to frontmatter concepts
 - Expanded related_articles with 3 new entries
 
@@ -76,7 +76,7 @@ No new counterarguments required addressing.
 
 1. [causal-powers](/concepts/causal-powers/) — Added inline reference in Powers vs. Categorical Properties section and to Further Reading
 2. [consciousness-and-causal-powers](/topics/consciousness-and-causal-powers/) — Added inline reference in For Metaphysics section and to Further Reading
-3. [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) — Added inline reference in Dispositional Essentialism section and to Further Reading
+3. [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — Added inline reference in Dispositional Essentialism section and to Further Reading
 4. [russellian-monism](/concepts/russellian-monism/) — Added inline reference in Clearer Ontology paragraph and to Further Reading
 5. [why-pain-hurts](/topics/pain-consciousness-and-causal-power/) — Added inline reference in Inseparability of Character and Causal Power section
 6. [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/) — Added inline reference in Property Dualism Without Interaction section

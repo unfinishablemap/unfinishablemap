@@ -47,7 +47,7 @@ related_articles:
 - '[[arguments/materialism-argument]]'
 - '[[intrinsic-nature-void]]'
 - '[[formal-cognitive-limits]]'
-- '[[consciousness-and-the-metaphysics-of-laws]]'
+- '[[consciousness-and-the-metaphysics-of-laws-and-dispositions]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[consciousness-and-the-normativity-of-reason]]'
@@ -158,7 +158,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — The structural and formal connections between Gödel's incompleteness and quantum measurement
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödelian limits as a parallel to formal systems' limits at consciousness
 - [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Why we judge that consciousness resists formal explanation
-- [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/) — What kind of law could bridge mind and matter
+- [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — What kind of law could bridge mind and matter, and where consciousness fits in the property landscape
 - [explanatory-gap](/concepts/explanatory-gap/) — The central challenge formal systems face with consciousness
 - [delegatory-causation](/concepts/delegatory-causation/) — The preemption structure that mirrors the authority/sovereignty distinction
 

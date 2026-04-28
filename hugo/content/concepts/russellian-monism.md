@@ -96,7 +96,7 @@ Russellian monism was motivated partly by avoiding [epiphenomenalism](/concepts/
 
 If Russellian monism inherits dualism's costs under a different name, the Map's explicit [interactionist-dualism](/concepts/interactionist-dualism/) is preferable:
 
-**Clearer ontology**: The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) distinguishes structure (what physics describes) from actuality (what consciousness provides)—two irreducible aspects that interact at quantum indeterminacies. Though Hashemi (2024) reframes Russellian panpsychism as dual-aspect monism, the Map's bi-aspectual *dualism* differs categorically: the Map insists these aspects are irreducible and causally interact—consciousness *does things* to physics. Hashemi's dual-aspect monism treats them as facets of one substance, providing no mechanism for causal influence. The [ontology of dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) further clarifies: "powerful qualities" (simultaneously qualitative and dispositional) could ground consciousness without requiring micro-level quiddities that must combine.
+**Clearer ontology**: The Map's [bi-aspectual ontology](/concepts/bi-aspectual-ontology/) distinguishes structure (what physics describes) from actuality (what consciousness provides)—two irreducible aspects that interact at quantum indeterminacies. Though Hashemi (2024) reframes Russellian panpsychism as dual-aspect monism, the Map's bi-aspectual *dualism* differs categorically: the Map insists these aspects are irreducible and causally interact—consciousness *does things* to physics. Hashemi's dual-aspect monism treats them as facets of one substance, providing no mechanism for causal influence. The [metaphysics of laws and dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) further clarifies: "powerful qualities" (simultaneously qualitative and dispositional) could ground consciousness without requiring micro-level quiddities that must combine.
 
 **Avoids combination**: By positing unified mental subjects rather than combinations of micro-subjects, [substance dualism](/concepts/substance-property-dualism/) sidesteps the combination problem entirely. There's no question of how many experiences become one—the unified subject is fundamental.
 
@@ -149,7 +149,7 @@ The Map's preference for interactionist dualism over Russellian monism would be 
 ## Further Reading
 
 - [bi-aspectual-ontology](/concepts/bi-aspectual-ontology/) — The Map's foundational ontology: structure and actuality as irreducible interacting aspects
-- [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — How the powerful qualities framework offers an alternative to quiddities
+- [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — How the powerful qualities framework offers an alternative to quiddities
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot capture intrinsic nature
 - [interactionist-dualism](/concepts/interactionist-dualism/) — the Map's preferred alternative
 - [russellian-monism-versus-bi-aspectual-dualism](/topics/russellian-monism-versus-bi-aspectual-dualism/) — Direct comparison with the Map's bi-aspectual dualism

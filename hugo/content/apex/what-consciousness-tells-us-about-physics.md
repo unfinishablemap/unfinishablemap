@@ -1,7 +1,7 @@
 ---
 ai_contribution: 85
 ai_generated_date: 2026-03-14
-ai_modified: 2026-04-27 12:43:00+00:00
+ai_modified: 2026-04-28 00:42:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-27 12:43:00+00:00
 apex_sources:
@@ -36,7 +36,7 @@ concepts:
 - '[[haecceity]]'
 - '[[explanatory-gap]]'
 created: 2026-03-14
-date: &id001 2026-04-27
+date: &id001 2026-04-28
 description: If consciousness participates in quantum outcomes, quantum mechanics
   is structurally partial—complete about possibilities, silent about actuality. The
   reverse inference from mind to matter constrains what physics can be.
@@ -64,11 +64,13 @@ topics:
 - '[[indexical-identity-quantum-measurement]]'
 ---
 
-Philosophy of mind usually asks whether physics *permits* consciousness to play a role. The Unfinishable Map's [tenets](/tenets/) answer yes and go further: consciousness is irreducible, causally efficacious, and interacts with physics at quantum indeterminacies. But this article reverses the question. If the tenets are correct—if consciousness genuinely selects among quantum possibilities—what does that tell us about the structure of physics itself? What does consciousness, taken as a datum, reveal about what lies behind the wavefunction?
+Philosophy of mind usually asks whether physics *permits* consciousness to play a role. The Unfinishable Map's [tenets](/tenets/) answer yes and go further: consciousness is irreducible, causally efficacious, and interacts with physics at quantum indeterminacies. But this article reverses the question. If the tenets are correct—if consciousness modulates which quantum possibilities actualise within an otherwise lawful collapse process—what does that tell us about the structure of physics itself? What does consciousness, taken as a datum, reveal about what lies behind the wavefunction?
 
-The answer developed here: quantum mechanics is not incomplete in the way Einstein thought (missing hidden variables) but *partial*—it describes one aspect of a two-aspect reality. The wavefunction captures the constraint space exhaustively: every possibility, every probability, every interference pattern. What it omits is the *selection principle*—what makes one possibility actual rather than another. If the tenets are correct, that selection principle is consciousness. The measurement problem is then not a deficiency in the theory but a *disclosure*: physics, viewed from within, cannot see its own boundary with the non-physical.
+The answer developed here: quantum mechanics is not incomplete in the way Einstein thought (missing hidden variables) but *partial*—it describes one aspect of a two-aspect reality. The wavefunction captures the constraint space exhaustively: every possibility, every probability, every interference pattern. What it omits is the *selection principle*—what makes one possibility actual rather than another. If the tenets are correct, consciousness contributes to that selection by *modulating* the statistics of an objective-collapse process, not by causing collapse from outside physics. The measurement problem is then not a deficiency in the theory but a *disclosure*: physics, viewed from within, cannot see its own boundary with the non-physical.
 
 This is the reverse inference. Instead of asking "does physics leave room for consciousness?" we ask "what does consciousness tell us about physics?"—and the answer is surprisingly specific.
+
+**Headline guard.** The argument below sometimes uses "consciousness selects" as shorthand. The Map's actual thesis is weaker than that headline: collapse occurs whether or not anyone is conscious—objective-collapse mechanisms (e.g. GRW-style spontaneous reduction) supply the baseline—and consciousness biases statistics within those collapse events under [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) limits. This is structurally different from the von Neumann–Wigner reading on which "consciousness causes collapse"; see [the V-N-W article](/concepts/von-neumann-wigner-interpretation/#relation-to-site-perspective) for the full disclosure of where the Map departs from that lineage.
 
 ## The Usual Direction: Physics First
 
@@ -96,11 +98,11 @@ This rules out: Bohmian mechanics, superdeterminism, and any interpretation wher
 
 Bradford Saad's [distinction between universal and observational closure](/concepts/causal-closure/) sharpens the point: empirical evidence supports only *observational* closure—that no observable violation of physical law has been detected—not the metaphysical claim that every event has a sufficient physical cause. The gap between what has been observed and what must be true is precisely where consciousness could operate. Buhler's (2020) systematic survey reinforces this: every extant argument for universal closure either begs the question against dualism or commits sampling errors by generalising from observed regularities to metaphysical exhaustiveness. Saad's own [delegatory account](/topics/delegatory-dualism/) (2025) exploits this gap without inflating either side ontologically—a lean worked example of how the opening can be occupied.
 
-### 3. Something Non-Physical Participates in Outcome Selection
+### 3. Something Non-Physical Modulates Outcome Selection
 
-From [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction): the selection is not brute randomness. Consciousness influences which outcome is actualized—but in a way that remains statistically consistent with the Born distribution over ensembles (preserving [conservation laws](/concepts/conservation-laws-and-mental-causation/)).
+From [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction): the selection is not brute randomness. Consciousness modulates which outcome is actualised—biasing statistics within a collapse process that physics already supplies, in a way that remains statistically consistent with the Born distribution over ensembles (preserving [conservation laws](/concepts/conservation-laws-and-mental-causation/)). The collapse itself does not wait on consciousness; what consciousness contributes is a within-Born nudge to *which* outcome is realised in cases where its interface is engaged.
 
-This means: quantum probabilities describe the *constraint space* within which consciousness operates, not the full causal story. Physics specifies what can happen and with what weight. Something else—consciousness—contributes to what *does* happen.
+This means: quantum probabilities describe the *constraint space* within which consciousness operates, not the full causal story. Physics specifies what can happen, with what weight, and—via [objective collapse](/concepts/spontaneous-collapse-theories/)—the baseline rate at which possibilities resolve. Consciousness contributes a modulation on top of that baseline rather than replacing it.
 
 ### 4. The Interaction Is Minimal
 

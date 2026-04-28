@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-27 22:43:00+00:00
+ai_modified: 2026-04-28 00:42:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -60,7 +60,7 @@ topics:
 
 The measurement problem is the central foundational puzzle in quantum mechanics—and it creates the logical opening for consciousness to play a role in physics. Quantum systems evolve deterministically according to the Schrödinger equation, forming superpositions of all possible states. Yet measurement yields a single, definite outcome. What causes this transition? The mathematics doesn't say. As J.S. Bell framed it: "Either the wavefunction...is not everything, or it is not right."
 
-If collapse is real and its cause unspecified, consciousness remains a candidate selector. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes exactly this: consciousness biases otherwise indeterminate quantum outcomes.
+If collapse is real and its outcome-selection unspecified, consciousness remains a candidate biasing factor. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes exactly this: an [objective-collapse](/concepts/spontaneous-collapse-theories/) process supplies the baseline at which possibilities resolve, and consciousness *modulates* statistics within those collapse events at its neural interface. This is structurally weaker than the [von Neumann–Wigner](/concepts/von-neumann-wigner-interpretation/) thesis that "consciousness causes collapse"—collapse no longer waits on consciousness; consciousness biases what would have happened anyway.
 
 **Honest limitation**: This framework predicts exactly what standard quantum mechanics predicts—consciousness-selection within Born probabilities is empirically indistinguishable from random collapse. This unfalsifiability is a genuine cost. The Map treats it as a philosophical framework compatible with physics rather than a competing physical hypothesis. The [consciousness-physics-interface-formalism](/concepts/consciousness-physics-interface-formalism/) specifies the formal components and five mathematical constraints any such framework must satisfy.
 
@@ -186,7 +186,7 @@ If the loophole only establishes *where* consciousness could act, what supports 
 
 - **[Self-stultification of epiphenomenalism](/concepts/self-stultification/)**: If consciousness has no causal role, beliefs about consciousness aren't caused by consciousness—undermining the epistemic basis for any claim about it, including denying mental causation. Quantum measurement provides the least disruptive locus for the causation consciousness requires.
 
-Neither argument is decisive alone. Together they provide cumulative motivation for taking consciousness-selection seriously. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness exploits this loophole—the loophole is the necessary condition; these arguments provide positive motivation.
+Neither argument is decisive alone. Together they provide cumulative motivation for taking consciousness-modulation of collapse statistics seriously. The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness exploits this loophole—biasing within the Born distribution rather than initiating collapse from outside physics. The loophole is the necessary condition; these arguments provide positive motivation.
 
 ## What Are Born Probabilities?
 

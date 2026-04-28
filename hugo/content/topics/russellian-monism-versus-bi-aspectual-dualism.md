@@ -26,7 +26,7 @@ last_deep_review: 2026-04-27 20:57:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
-- '[[consciousness-and-the-ontology-of-dispositions]]'
+- '[[consciousness-and-the-metaphysics-of-laws-and-dispositions]]'
 - '[[intrinsic-nature-void]]'
 - '[[four-quadrant-dualism-taxonomy]]'
 - '[[russellian-monism-vs-bi-aspectual-dualism-2026-03-14]]'
@@ -155,7 +155,7 @@ This comparison engages all five of the Map's [tenets](/tenets/):
 - [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — Two-axis classification placing Russellian variants in opposing quadrants
 - [combination-problem](/concepts/combination-problem/) — The central challenge for Russellian panpsychism
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's preferred framework, with quantum interaction mechanism
-- [consciousness-and-the-ontology-of-dispositions](/topics/consciousness-and-the-ontology-of-dispositions/) — How the powerful qualities framework offers an alternative to quiddities
+- [consciousness-and-the-metaphysics-of-laws-and-dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/) — How the powerful qualities framework offers an alternative to quiddities
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Why physics cannot capture intrinsic nature
 
 ## References

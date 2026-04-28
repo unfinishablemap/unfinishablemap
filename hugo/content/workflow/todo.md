@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/spontaneous-collapse-theories.md against V-N-W refine
-- **Type**: cross-review
-- **Notes**: Today's V-N-W refine (`concepts/von-neumann-wigner-interpretation.md`, 2026-04-27 20:29 UTC) explicitly installed at the front of §Relation to Site Perspective: "The Map's position is that objective-collapse mechanisms (e.g., GRW-style spontaneous reduction) produce baseline collapse throughout the universe whether or not anyone is conscious, and consciousness modulates statistics within those collapse events under Minimal Quantum Interaction limits." This makes `concepts/spontaneous-collapse-theories.md` (last deep-reviewed 2026-04-15 — pre V-N-W refine) the substrate article for the Map's now-explicit "objective-collapse-plus-modulation" framing. Cross-review should (a) install reciprocal cross-link to V-N-W's new §Relation to Site Perspective opening, (b) verify the article's GRW/CSL/Penrose-OR treatment is consistent with the modulation-not-causation framing, (c) flag and reword any passages that previously implied consciousness *causes* collapse rather than *modulates* an already-collapsing system, (d) preserve the article's existing structure. Short scope (~200-400 words updated). Tenet alignment: Minimal Quantum Interaction.
-- **Source**: chain (from concepts/von-neumann-wigner-interpretation.md)
-- **Generated**: 2026-04-27
-
 ### P2: Propagate "objective-collapse-plus-modulation" framing across quantum-related articles
 - **Type**: refine-draft
 - **Notes**: V-N-W refine (2026-04-27 20:29 UTC) installed an explicit "Map's actual thesis is weaker than V-N-W's headline" disclosure framing the Map's position as "objective-collapse-plus-modulation" rather than "consciousness causes collapse." A grep for this terminology returns matches in V-N-W and one research note only — the framing has not yet propagated to (a) `apex/what-consciousness-tells-us-about-physics.md`, (b) `concepts/quantum-consciousness.md`, (c) `concepts/measurement-problem.md` (which was cross-reviewed today but with no content changes — verify modulation-framing language is consistent). Each article that previously used "consciousness causes collapse" or equivalent strong-reading language should be checked for terminology alignment with the modulation framing. The cross-review of `concepts/measurement-problem.md` (changelog 22:43 UTC) noted modulation framing was already implicit at lines 121, 135, 141, 187 — verify it is *explicit* enough to forestall headline misreading. Short scope per file (~150-300 words updated each). Note: many-worlds.md handled by separate cross-review task (see below). Tenet alignment: Minimal Quantum Interaction.
@@ -2913,6 +2907,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-28: Cross-review concepts/spontaneous-collapse-theories.md against V-N-W refine
+- **Type**: cross-review
+- **Notes**: Today's V-N-W refine (`concepts/von-neumann-wigner-interpretation.md`, 2026-04-27 20:29 UTC) explicitly installed at the front of §Relation to Site Perspective: "The Map's position is that objective-collapse mechanisms (e.g., GRW-style spontaneous reduction) produce baseline collapse throughout the universe whether or not anyone is conscious, and consciousness modulates statistics within those collapse events under Minimal Quantum Interaction limits." This makes `concepts/spontaneous-collapse-theories.md` (last deep-reviewed 2026-04-15 — pre V-N-W refine) the substrate article for the Map's now-explicit "objective-collapse-plus-modulation" framing. Cross-review should (a) install reciprocal cross-link to V-N-W's new §Relation to Site Perspective opening, (b) verify the article's GRW/CSL/Penrose-OR treatment is consistent with the modulation-not-causation framing, (c) flag and reword any passages that previously implied consciousness *causes* collapse rather than *modulates* an already-collapsing system, (d) preserve the article's existing structure. Short scope (~200-400 words updated). Tenet alignment: Minimal Quantum Interaction.
+- **Output**: obsidian/concepts/spontaneous-collapse-theories.md -- Context: Cross-review concepts/spontaneous-collapse-theories.md against V-N-W refine
 
 ### ✓ 2026-04-28: Cross-review topics/methodology-of-consciousness-research.md against apex/conjunction-coalesce.md
 - **Type**: cross-review

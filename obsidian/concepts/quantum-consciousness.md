@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-03-29T02:06:00+00:00
+ai_modified: 2026-04-28T00:42:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,9 +43,11 @@ last_curated: null
 last_deep_review: 2026-03-24T16:03:00+00:00
 ---
 
-Several scientific proposals explain how consciousness might interact with physics at the quantum level—not "quantum mysticism" but scientifically engaged theories, still contested, proposing mechanisms by which consciousness could influence brain activity without violating physical law.
+Several scientific proposals explain how consciousness might interact with physics at the quantum level—scientifically engaged theories, still contested, proposing mechanisms by which consciousness could influence brain activity without violating physical law.
 
 The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. The Map favours [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] — forward-in-time frameworks that avoid the metaphysical costs of backward causation. For how these mechanisms fit into the Map's broader research programme, see [[comparing-quantum-consciousness-mechanisms|Comparing Quantum Consciousness Mechanisms]].
+
+**Map position vs. headline reading.** Several of the mechanisms below were originally formulated under a "consciousness causes collapse" headline (most directly the [[von-neumann-wigner-interpretation|von Neumann–Wigner lineage]]). The Map's own thesis is weaker: collapse occurs throughout the universe whether or not anyone is conscious—[[spontaneous-collapse-theories|objective-collapse mechanisms]] supply the baseline—and consciousness *modulates* statistics within those collapse events at its own neural interface. The mechanisms in this article are therefore evaluated as candidate *modulation* mechanisms, not as candidate causes of collapse-as-such. This distinction matters: it is what dissolves the [[prebiotic-collapse|prebiotic collapse problem]] and the [[multi-mind-collapse-problem|multi-observer problem]] without surrendering causal efficacy.
 
 ## The Quantum Opening
 
@@ -127,10 +129,11 @@ This is a separate challenge. Even granting that the measurement problem leaves 
 
 Despite differences, these theories share several commitments (though none is empirically established):
 
-1. **Consciousness plays a physical role**—it is proposed to affect which outcomes occur
+1. **Consciousness plays a physical role**—it is proposed to bias which outcomes occur within the Born distribution, not to cause collapse from outside physics
 2. **The interface is at quantum indeterminacies**—where physics is genuinely undetermined
 3. **No energy violation**—consciousness would shape outcomes without adding energy (see [[conservation-laws-and-mental-causation]])
 4. **Many Worlds is rejected**—collapse is real, outcomes genuinely selected
+5. **Modulation, not collapse-causation**—on the Map's reading, an objective-collapse process supplies the baseline; these mechanisms describe how consciousness *modulates* that process at its neural interface
 
 All are compatible with [[adaptive-computational-depth|adaptive computational depth]]—the principle that reality need not maintain maximum detail everywhere, concentrating determination where consciousness attends. The allocator's non-computability resolves the regress any computational allocation mechanism would face.
 

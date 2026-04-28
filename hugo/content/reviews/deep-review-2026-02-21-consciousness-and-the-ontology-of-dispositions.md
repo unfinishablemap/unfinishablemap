@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-21
-**Article**: [Consciousness and the Ontology of Dispositions](/topics/consciousness-and-the-ontology-of-dispositions/)
+**Article**: [Consciousness and the Ontology of Dispositions](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

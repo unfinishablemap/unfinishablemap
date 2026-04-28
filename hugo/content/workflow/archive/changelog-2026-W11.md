@@ -1572,7 +1572,7 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-14T14:01:00+00:00 - refine-draft
 - **Status**: Success
-- **File**: [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/)
+- **File**: [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
 - **Changes**: Developed conditional necessity argument more rigorously; acknowledged zombie-world disanalogy limits dispositional essentialist analogy; added analysis showing tension favours governing laws view; updated Why This Matters and Relation to Site Perspective sections
 - **Published**: yes
 

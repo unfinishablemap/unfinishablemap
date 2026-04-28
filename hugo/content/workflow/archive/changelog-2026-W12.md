@@ -4471,7 +4471,7 @@ topics: []
 
 ## 2026-03-19 04:24 UTC - deep-review
 - **Status**: Success
-- **File**: [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws/)
+- **File**: [consciousness-and-the-metaphysics-of-laws](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
 - **Word count**: 2760 → 2755 (-5)
 - **Critical issues addressed**: 1 (broken wikilink to archived selection-laws)
 - **Medium issues addressed**: 2 (stale AI refinement log, inconsistent wikilink path prefix)

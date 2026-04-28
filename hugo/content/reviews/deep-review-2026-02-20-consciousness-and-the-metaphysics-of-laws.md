@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-20
-**Article**: [Consciousness and the Metaphysics of Laws](/topics/consciousness-and-the-metaphysics-of-laws/)
+**Article**: [Consciousness and the Metaphysics of Laws](/topics/consciousness-and-the-metaphysics-of-laws-and-dispositions/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

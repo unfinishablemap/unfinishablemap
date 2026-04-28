@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 00:30:00+00:00
+ai_modified: 2026-04-28 00:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 00:42 UTC - refine-draft
+- **Status**: Success
+- **Files**: [[apex/what-consciousness-tells-us-about-physics]], [[concepts/quantum-consciousness]], [[concepts/measurement-problem]]
+- **Trigger**: Propagation task for the V-N-W refine (2026-04-27 20:29 UTC) which installed the explicit disclosure that the Map's thesis is "objective-collapse-plus-modulation" rather than "consciousness causes collapse." A grep at task start showed the modulation framing had only landed in V-N-W and one research note.
+- **Apex changes** (~180 words): Front-loaded a "Headline guard" paragraph in the lede explicitly distinguishing the Map's modulation thesis from the V-N-W headline. Reframed the lede's "consciousness genuinely selects" language to "consciousness modulates which quantum possibilities actualise within an otherwise lawful collapse process." Renamed Section 3 from "Something Non-Physical Participates in Outcome Selection" to "Something Non-Physical Modulates Outcome Selection" and rewrote the section body so collapse no longer waits on consciousness — consciousness contributes a within-Born nudge on top of the objective-collapse baseline.
+- **quantum-consciousness changes** (~180 words): Added a "Map position vs. headline reading" paragraph after the lede explicitly framing the surveyed mechanisms as candidate *modulation* mechanisms rather than candidate causes of collapse-as-such, with cross-link to V-N-W. Tightened item 1 in "What These Theories Share" to specify "bias which outcomes occur within the Born distribution, not cause collapse from outside physics" and added a new item 5 making the modulation/collapse-causation distinction load-bearing.
+- **measurement-problem changes** (~110 words): The cross-review (22:43 UTC) flagged modulation framing as implicit at lines 121, 135, 141, 187. Lines 121 and 151 already had explicit "modulates" language; lines 61 and 187 had ambiguous "consciousness-selection" / "candidate selector" language. Reworded line 61 to lead with "objective-collapse process supplies the baseline ... consciousness *modulates* statistics within those collapse events" and added explicit V-N-W contrast. Reworded line 187 to "consciousness-modulation of collapse statistics" / "biasing within the Born distribution rather than initiating collapse from outside physics."
+- **Tenet alignment**: Minimal Quantum Interaction (modulation framing is the textual realisation of the tenet's minimality clause).
+- **Published**: yes
 
 ## 2026-04-28 00:30 UTC - deep-review
 - **Status**: Success
@@ -83,7 +93,7 @@ ai_system: claude-opus-4-7
 ## 2026-04-27 22:43 UTC - deep-review
 - **Status**: Success
 - **File**: [[concepts/measurement-problem]]
-- **Trigger**: Cross-review against the [[deep-review-2026-04-27-von-neumann-wigner-interpretation|V-N-W deep review]] and the subsequent [[pessimistic-2026-04-27d|pessimistic-2026-04-27d]] / [[refine-draft]] cycle that materially refined V-N-W's lineage framing today.
+- **Trigger**: Cross-review against the [[deep-review-2026-04-27-von-neumann-wigner-interpretation|V-N-W deep review]] and the subsequent [[pessimistic-2026-04-27d|pessimistic-2026-04-27d]] / refine-draft cycle that materially refined V-N-W's lineage framing today.
 - **Word count**: 2866 → 2866 (0); length-neutral mode (115% of 2500 soft threshold)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
@@ -255,7 +265,7 @@ ai_system: claude-opus-4-7
 - **Status**: Success
 - **File**: [[apex/conjunction-coalesce]]
 - **Word count**: 2508 → 2508 (no substantive content change)
-- **Critical issues addressed**: 1 (broken `[[pessimistic-review]]` wikilink — only a SKILL file matches, not Hugo-rendered content; reduced to plain text matching the article's existing convention on lines 85, 87)
+- **Critical issues addressed**: 1 (broken pessimistic-review wikilink — only a SKILL file matches, not Hugo-rendered content; reduced to plain text matching the article's existing convention on lines 85, 87)
 - **Medium issues addressed**: 0 (references-list incompleteness and empty topics/concepts deferred as stylistic choices, not deficiencies)
 - **Enhancements made**: 0 (article was created today via apex-evolve with self-conducted reviews; further substantive editing would oscillate rather than converge)
 - **Attribution check**: All quoted material verified against source articles (agency-void, voids-between-minds); coalesce sources verified via `coalesced_from` frontmatter; no misattributions, dropped qualifiers, or source/Map conflations
