@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 05:42:00+00:00
+ai_modified: 2026-04-28 05:57:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 05:57 UTC - condense
+- **Status**: Success
+- **File**: [[topics/consciousness-and-the-metaphysics-of-laws-and-dispositions]]
+- **Before**: 4586 words (153% of target, hard_warning)
+- **After**: 3386 words (113% of target, soft_warning)
+- **Reduction**: 26%
+- **Technique**: Removed AI REFINEMENT LOG comment block (marked for removal); compressed "Three Accounts of Laws" and "Three Accounts of Properties" subsections into bold-led tight paragraphs (standard background); tightened Humean Opening, Governing Laws, Dispositional Essentialism prose; condensed Categoricalism's author catalogue (Cutter/Pautz/Howell paragraph); compressed Powerful Qualities disambiguation and bullets; trimmed Tegmark paragraph; cut redundant recap paragraph at end of Interface section; condensed "Why This Matters" two-paragraph recap into one paragraph; shortened pain-asymbolia and Modality Problem prose; removed "Why Laws and Dispositions Belong Together" header and folded essential commitment into opening flow; tightened tenet bullets in Relation to Site Perspective. Preserved opening summary, Relation to Site Perspective, all cross-links, references, and the article's distinctive arguments (legislation problem with bi-aspectual+interface response, zombie-disanalogy carry-through, collapse-or-conjunction dilemma response, Mørch-as-closest-competitor framing).
 
 ## 2026-04-28 05:42 UTC - deep-review
 - **Status**: Success
