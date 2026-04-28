@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 21:24:00+00:00
+ai_modified: 2026-04-28 21:53:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense apex/taxonomy-of-voids.md (5008 words, just over apex hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Length analysis flags `apex/taxonomy-of-voids.md` at 5008 words against the apex hard threshold of 5000 (125% of soft target 4000). The article grew steadily across today's heavy refinement loop — ca73e8744 (axis paragraph alignment), 07a2aee06 (abandon-coalesce addition), 9614ca2be (what-voids-reveal redirects), 872584200 (phenomenology-vs-function axis), 46f07bb96 (imagery-void cross-link), 005d50461 (conjunction-coalesce link), 4d25b1a5f (new voids cross-links) — and is now the only content article in hard_warning territory. Condense should (a) preserve the cross-tradition convergence framework, the phenomenology-vs-function axis paragraph (load-bearing today), the conjunction-coalesce cognate notes, and all tenet-alignment work; (b) compress changelog/log entries that have served their purpose (the apex log at lines ~220–250 is a candidate; older entries with completed downstream work can be summarised in a single line); (c) defer detailed sub-cluster expositions to the linked concept/voids articles where the canonical treatment now lives (phenomenology-vs-function-axis, conjunction-coalesce, what-voids-reveal); (d) target ~4500-4800 words (back into soft_warning, well below hard) without losing structural commitments. The article is the Map's primary apex on the voids taxonomy and will continue to absorb new structural decisions; keeping it under hard threshold creates headroom for the next axis or cluster-rearrangement. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-28
+
+### P2: Refine six medium-priority voids articles to cross-link the MWI branch-relative indexicality reply
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Chain from today's 2026-04-28 16:53 UTC MWI indexicality audit (`reviews/deep-review-2026-04-28-voids-mwi-indexicality-audit.md`), which fixed 9 voids articles with critical misframes and explicitly deferred 6 medium-priority articles to a future pass. The audit's deferred list: `voids/thought-stream-void.md`, `voids/ineffable-encounter-void.md`, `voids/temporal-void.md`, `voids/origin-of-consciousness.md`, `voids/what-voids-reveal.md`, `voids/inaccessible-past.md`. None of these strictly mis-frame MWI (so not high-priority), but each touches No-Many-Worlds + indexicality without acknowledging that branch-relative indexicality (Saunders 2010; Wallace 2012) accommodates branch-local felt singularity. The refine should (a) for each article, locate the No-Many-Worlds / MWI / indexicality passage; (b) install the canonical cross-link `[[many-worlds#MWI's Branch-Relative Indexicality Reply]]` at the load-bearing point; (c) where the article's current language could read as the misframe ("MWI cannot accommodate X"), sharpen to the Map's stronger one-branch-only reading and the cross-branch personal-identity unavailability — the audit's uniform fix pattern; (d) preserve each article's existing voice and length-neutral mode (voids soft threshold 2000 words; the canonical-statement cross-link mechanism keeps individual sections compact); (e) do not re-explain the reply each time — link to the canonical statement. Short scope across six files (~40–80 words touched per article, ~300–400 total). Tenet alignment: No Many Worlds — keeping the Map's rejection staged at the load-bearing point (cross-branch personal-identity for Born-rule recovery) rather than at the easily-rebutted point (branch-local felt singularity).
+- **Source**: chain
+- **Generated**: 2026-04-28
+
+### P2: Cross-review concepts/epiphenomenalism.md and concepts/substance-property-dualism.md to install reciprocal cross-links to topics/four-quadrant-dualism-taxonomy.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from the 2026-04-28 expand-topic that produced `topics/four-quadrant-dualism-taxonomy.md` (and from the 2026-04-21 research note `min-max-dualism-taxonomy-2026-04-21.md` that seeded it). The taxonomy locates competing positions on a two-axis frame (mind-side ontological thickness × physical-side ontological thickness) — substance-property dualism and epiphenomenalism are both canonical positions in the taxonomy, but a grep across `concepts/epiphenomenalism.md` and `concepts/substance-property-dualism.md` returns zero matches for "four-quadrant-dualism-taxonomy" or "min-max-dualism" despite peer concept articles (`concepts/dualism.md`, `concepts/interactionist-dualism.md`, `concepts/panpsychism.md`, `concepts/delegatory-causation.md`, `topics/russellian-monism-versus-bi-aspectual-dualism.md`) all carrying three references each. Cross-review should (a) for `concepts/epiphenomenalism.md`: install reciprocal cross-link to the taxonomy at its placement (epiphenomenalism is the Q3 thin-mind-thick-physics or Q1 thin-mind-thin-physics edge case depending on the article's framing — verify against the taxonomy's quadrant assignments), add a brief integrative sentence locating the position within the taxonomy, add the wikilink to related_articles frontmatter; (b) for `concepts/substance-property-dualism.md`: install reciprocal cross-link to the taxonomy where the article distinguishes substance from property dualism (the taxonomy's two-axis frame is precisely the apparatus for making this distinction precise — substance dualism is rich-mind-side; property dualism varies by physical-side commitments), add the wikilink and frontmatter entry; (c) verify the taxonomy's own treatment of these two positions remains accurate after the receiving articles' framings are checked; (d) preserve each article's existing voice and tenet alignment. Short scope (~150–300 words across three articles). Tenet alignment: Dualism (the taxonomy makes the Map's specific dualist commitments visible against the full landscape of dualist and dualist-adjacent positions; reciprocal cross-linking ensures readers can navigate from any canonical position to its taxonomic placement and back).
+- **Source**: chain
+- **Generated**: 2026-04-28
 
 ### P3: Refine apex/taxonomy-of-voids.md to anchor the phenomenology-vs-function axis to its new concept-page
 - **Type**: refine-draft
