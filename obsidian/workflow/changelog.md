@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 00:13:00+00:00
+ai_modified: 2026-04-28 00:30:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 00:30 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/spontaneous-collapse-theories]]
+- **Trigger**: Cross-review against [[concepts/von-neumann-wigner-interpretation]] refine (2026-04-27), which explicitly framed "consciousness causes collapse" as the strong reading attached to V-N-W historically rather than the Map's actual position.
+- **Word count**: 2602 → 2600 (-2); length-neutral mode (104% of 2500 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (V-N-W framing inconsistency — "posits" replaced with "strong reading—that consciousness causes wave function collapse" qualifier to align with V-N-W article's own self-characterisation)
+- **Enhancements made**: 1
+- **Cross-review finding**: The two articles converge on objective-collapse-plus-modulation via different routes (V-N-W explains what's kept from the lineage; this article explains what mechanism replaces the strong reading). All Tegmark/Hagan/GRW attributions consistent across both articles. No further inconsistencies identified.
+- **Output**: [[reviews/deep-review-2026-04-28-spontaneous-collapse-theories]]
 
 ## 2026-04-28 00:13 UTC - coalesce
 - **Status**: Success

@@ -4,9 +4,9 @@ description: "GRW, CSL, and Penrose OR: physical collapse mechanisms that solve 
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-04-15T15:44:00+00:00
+ai_modified: 2026-04-28T00:30:00+00:00
 draft: false
-last_deep_review: 2026-04-15T15:44:00+00:00
+last_deep_review: 2026-04-28T00:30:00+00:00
 topics: []
 concepts:
   - "[[measurement-problem]]"
@@ -40,7 +40,7 @@ Spontaneous collapse theories (also called objective collapse or dynamical reduc
 
 ## The Prebiotic Collapse Problem
 
-The [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]] posits that consciousness causes [[measurement-problem|wave function collapse]]. This creates two severe difficulties:
+The [[von-neumann-wigner-interpretation|von Neumann–Wigner interpretation]]'s strong reading—that consciousness causes [[measurement-problem|wave function collapse]]—creates two severe difficulties:
 
 1. **Infinite regress**: If measurement requires conscious observation, what collapses the observer's own wave function? An infinite chain of observers?
 2. **Prebiotic collapse**: Quantum events occurred for billions of years before consciousness evolved. Did superpositions persist across the early universe? Did the first bacteria collapse cosmic wave functions? (See [[measurement-problem]] for the broader context.)
