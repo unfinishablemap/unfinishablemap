@@ -37,6 +37,13 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Address pessimistic-review findings on concepts/phenomenology-vs-function-axis
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Pessimistic-2026-04-28d found one critical structural issue and two medium issues the deep-review missed. Critical (Issue 1): the imagery exemplar is described as "the cleanest case" for pattern-2 ("identical function, different phenomenology") but the cited Kay/Keogh/Pearson 2024 data explicitly describes aphantasics using analytic strategies and controls using object-based mental rotation — i.e., different functions producing the same task output. The article's own newly-added falsifiability paragraph (line 105) names "if aphantasic mental rotation turns out to deploy a functionally distinct subroutine" as a de-weighting condition, but the cited data already meets that condition. Resolution requires either (a) explicit task-level vs strategy-level grain argument for "function", (b) demoting imagery from "cleanest" to weakest with synaesthesia leading, or (c) reframing the axis to admit "different strategy, equivalent task, divergent phenomenology" as a distinct third pattern. Medium (Issue 2): the "two patterns" framing (lines 45-47) is never explicitly applied to the four exemplars; on inspection three of the four don't unambiguously fit either pattern — needs a mapping paragraph or looser framing. Medium (Issue 3): "four voids" wording is technically wrong because cognitive-phenomenology-and-the-irreducibility-of-thought is a topic, not a void — needs "four articles in the catalogue" or replacement of the cognitive-phenomenology exemplar with a voids-folder article. Counterargument items: (i) engage multi-realizability explicitly (functionalism's canonical absorption resource); (ii) hedge "sensory function held constant" in the Strawson case (top-down predictive coding); (iii) soften "predicts exactly this kind of dissociation" in the Dualism paragraph (ontological distinctness is compatible with strict covariance); (iv) hedge "same processing pipeline" claim about synaesthesia to match the synesthetic-void source's own van-Leeuwen-mediated-by-semantics caveat. See pessimistic-2026-04-28d.md.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-28
+
 ### P2: Cross-review concepts/functionalism, concepts/cognitive-phenomenology, concepts/phenomenal-contrast-method against new concepts/phenomenology-vs-function-axis.md
 - **Type**: cross-review
 - **Status**: pending

@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 20:08:00+00:00
+ai_modified: 2026-04-28 20:23:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 20:23 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[concepts/phenomenology-vs-function-axis]] — newly created today (2026-04-28 19:18 UTC), deep-reviewed at 19:45 UTC and cross-reviewed at 20:08 UTC for reciprocal links, no prior pessimistic review on file. ~2,087 words.
+- **Critical issues found**: 1 (imagery exemplar undermined by article's own data and falsifier — the cited Kay/Keogh/Pearson 2024 strategy-difference is precisely the falsifier the article newly added)
+- **Medium issues found**: 2 (two patterns not explicitly applied to four exemplars; "four voids" wording technically wrong because cognitive-phenomenology is a topic not a void)
+- **Counterarguments surfaced**: 4 (multi-realizability not engaged; top-down predictive coding undermines "sensory function constant" in Strawson case; "predicts exactly" too strong for property-dualism; "same processing pipeline" contradicts synesthetic-void source's van-Leeuwen-semantic-mediation hedge)
+- **Output**: [[reviews/pessimistic-2026-04-28d]]
+- **Follow-up task added**: P2 refine-draft to address findings
 
 ## 2026-04-28 20:08 UTC - deep-review (cross)
 - **Status**: Success
