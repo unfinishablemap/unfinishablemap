@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 13:22:00+00:00
+ai_modified: 2026-04-28 13:37:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-28 13:37 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/concept-of-consciousness-and-social-cognition]]
+- **Word count**: 2268 → 2337 (+69)
+- **Critical issues addressed**: 0 (none found — article is at high stability; second review)
+- **Medium issues addressed**: 1 (dangling reference: Apperly & Butterfill 2009 was in bibliography but never cited inline)
+- **Enhancements made**: 1 (added two-systems framing to Level 2 belief attribution, connecting to the metarepresentational threshold)
+- **Length-neutral**: not required — article at 91%→93% of 2500 soft threshold, ok status preserved
+- **Timestamps**: ai_modified and last_deep_review updated to 2026-04-28T13:37:00+00:00
+- **Output**: [[reviews/deep-review-2026-04-28-concept-of-consciousness-and-social-cognition]]
 
 ## 2026-04-28 13:22 UTC - deep-review (cross-review)
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "Does recursive mindreading require phenomenal consciousness or jus
 created: 2026-01-22
 modified: 2026-01-22
 human_modified: null
-ai_modified: 2026-03-28T02:27:00+00:00
+ai_modified: 2026-04-28T13:37:00+00:00
 draft: false
 topics:
   - "[[animal-consciousness]]"
@@ -30,7 +30,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-22
 last_curated: null
-last_deep_review: 2026-03-23T10:06:00+00:00
+last_deep_review: 2026-04-28T13:37:00+00:00
 ---
 
 Does advanced social cognition require phenomenal consciousness? Great apes possess impressive social abilities—tracking relationships, forming coalitions, anticipating others' behaviour based on goals and perceptions—yet lack the full suite of capacities that distinguish human social intelligence: shared intentionality, recursive mindreading, and the cultural transmission of social knowledge. The gap is real, but its explanation is contested: it could reflect differences in working memory capacity, executive function, or phenomenal consciousness—or some combination. The Unfinishable Map argues that phenomenal experience plays an essential role, enabling the metarepresentational operations that transform basic social cognition into the distinctively human capacity to represent minds *as* minds. But this claim requires careful distinction between phenomenal consciousness (subjective experience) and cognitive access (global information availability), since the two are often conflated in the literature.
@@ -60,6 +60,8 @@ Understanding what others perceive—representing another's perceptual access as
 ### Level 2: Belief Attribution
 
 Understanding that others have beliefs that may differ from reality. Recent evidence has strengthened the case for some ape false belief understanding: Krupenye et al. (2016) showed chimpanzees, bonobos, and orangutans anticipated agents acting on false beliefs, and Buttelmann et al. (2017) found chimpanzees interpreting behaviour through an agent's false belief. Whether these results reflect genuine belief attribution or sophisticated behaviour-reading remains debated (Heyes 2014, Povinelli & Vonk 2003), but the evidence is substantially stronger than earlier negative results suggested.
+
+Apperly and Butterfill (2009) offer a productive reframing: two systems may operate here—an implicit, efficient system tracking belief-like states (potentially shared with apes) and an explicit, flexible system for full belief reasoning (perhaps distinctively human). This framework yields a unified reading of the contested data: apes possess the first system; humans uniquely possess the second. The metarepresentational threshold described below corresponds roughly to the boundary between these two systems.
 
 ### Level 3: Recursive Mindreading
 
