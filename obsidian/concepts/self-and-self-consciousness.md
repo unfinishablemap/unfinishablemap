@@ -4,7 +4,7 @@ description: "The minimal self is not added to consciousness but is its very for
 created: 2026-01-14
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-04-29T03:19:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,7 +44,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-23
 last_curated:
-last_deep_review: 2026-03-23T22:30:00+00:00
+last_deep_review: 2026-04-29T03:19:00+00:00
 coalesced_from:
   - "/concepts/self-and-consciousness/"
   - "/concepts/self-consciousness/"
@@ -96,7 +96,7 @@ The theory faces several objections: the **regress problem** (what makes the hig
 
 Between the minimal self and narrative self lies [[anoetic-noetic-autonoetic-consciousness|autonoetic consciousness]] — the ability to mentally travel through time, re-inhabiting past experience from a first-person perspective rather than merely accessing facts.
 
-This capacity may be constitutive of the temporally extended self. The minimal self provides "for-me-ness" in each moment, but what connects these moments into a person? The [[consciousness-and-memory|consciousness and memory]] article examines this: Tulving's hierarchy maps three forms of consciousness onto three memory systems, with autonoetic consciousness constituting the temporally extended self. Children don't develop it fully until age 4-5, explaining childhood amnesia; Buddhist meditation traditions observe that when mental time travel ceases, only the bare minimal self remains.
+This capacity may be constitutive of the temporally extended self. The minimal self provides "for-me-ness" in each moment, but what connects these moments into a person? The [[consciousness-and-memory|consciousness and memory]] article examines this: Tulving's hierarchy maps three forms of consciousness onto three memory systems, with autonoetic consciousness constituting the temporally extended self. Children don't develop it fully until age 4-5, a leading explanation for childhood amnesia; Buddhist meditation traditions observe that when mental time travel ceases, only the bare minimal self remains.
 
 ## Metacognition and the Self
 
