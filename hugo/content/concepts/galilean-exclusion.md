@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-16
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-04-29 18:11:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: Galileo's founding methodological move excluded subjective experien
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 17:59:00+00:00
+last_deep_review: 2026-04-29 18:11:00+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -27,6 +27,7 @@ related_articles:
 - '[[heterophenomenology]]'
 - '[[concepts/materialism]]'
 - '[[consciousness-and-scientific-explanation]]'
+- '[[philosophy-of-science-under-dualism]]'
 title: Galilean Exclusion
 topics:
 - '[[methodology-of-consciousness-research]]'
@@ -103,6 +104,7 @@ The Unfinishable Map's [tenets](/tenets/) engage with the Galilean exclusion at 
 - [qualia](/concepts/qualia/) — The secondary qualities themselves — what the exclusion left out
 - [consciousness-and-scientific-explanation](/concepts/consciousness-and-scientific-explanation/) — Why consciousness resists the explanatory strategies that work for other natural phenomena
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem the exclusion made structurally inevitable
+- [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — How philosophy of science itself shifts once the Galilean exclusion is recognised as a methodological choice rather than a metaphysical discovery
 
 ## References
 

@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 18:11:00+00:00
+ai_modified: 2026-04-29 18:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 18:25 UTC - deep-review
+- **Status**: Success (cross-review integration)
+- **File**: [[apex/conjunction-coalesce]]
+- **Word count**: 3812 → 3914 (+102; 98% of 4000 apex soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (cognate class generalisation; section heading and counting language; concept-extraction listing accuracy)
+- **Enhancements made**: 1 substantive — added [[numerosity-void]] as the second creation-time cognate, paragraph naming its three faces (cap / transition / mechanism opacity) and explaining how the cognate class generalises across two- and three-face structures (parallels the spread among coalesces). Section heading "Two Coalesces and One Cognate" → "Two Coalesces and Two Cognates"; closing paragraph and §"Distinct from Concept Extraction" updated for consistency. Source Articles list and `related_articles`/`apex_sources` frontmatter updated. Tightened §"Maintaining the Discipline Downstream" "Reviewers can be cued..." paragraph (~30 words saved) to ease length pressure.
+- **Trigger**: Cross-review directive to integrate newly-created [[numerosity-void]] (deep-reviewed 18:01 UTC) as fifth conjoint-voids exemplar.
+- **Stability**: Five bedrock items from 2026-04-27b/2026-04-29 honoured; convergence rule applied (article unchanged since 08:19 UTC, so review focused only on cross-review angle). New stability note: cognate count generalisation (two cognates spanning two- and three-face structures) is now bedrock. Length now near soft threshold; future cross-reviews adding new exemplars must pair with cuts.
+- **Output**: [[reviews/deep-review-2026-04-29b-conjunction-coalesce]]
 
 ## 2026-04-29 18:11 UTC - deep-review
 - **Status**: Success (convergence — third consecutive stable review)
