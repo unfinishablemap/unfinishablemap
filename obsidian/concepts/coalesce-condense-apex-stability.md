@@ -4,12 +4,12 @@ description: "An editorial discipline for refactoring existing Map content: when
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T07:34:00+00:00
+ai_modified: 2026-04-29T07:54:00+00:00
 draft: false
 topics: []
 concepts:
   - "[[conjunction-coalesce]]"
-last_deep_review: null
+last_deep_review: 2026-04-29T07:54:00+00:00
 related_articles:
   - "[[apex-articles]]"
   - "[[apex]]"
@@ -26,9 +26,9 @@ ai_generated_date: 2026-04-29
 last_curated: null
 ---
 
-The Map maintains its catalogue through three operations applied in sequence: a **coalesce** merges overlapping articles, a **condense** trims the merged article when it exceeds its section's length threshold, and an **apex re-cross-review** confirms that any apex articles citing the merged sources remain coherent. When all three operations execute cleanly and the apex declares stability, the catalogue has performed a structural refactor without losing analytical content. The discipline differs from genesis-side editing—new article creation, research-to-expand chains, void-naming arcs—because it operates over *content already in the catalogue* rather than producing new content. Naming the sequence as a single discipline rather than three independent operations matters because the three operations *condition each other*: a coalesce that is not followed by a length check leaves the catalogue with a too-long article; a condense that is not followed by an apex-stability check leaves the apex-citation graph silently broken; an apex re-cross-review that finds nothing changed is not a failure but the discipline's success condition.
+The Map maintains its catalogue through three operations applied in sequence: a **coalesce** merges overlapping articles, a **condense** trims the merged article when it exceeds its section's length threshold, and an **apex re-cross-review** confirms that any apex articles citing the merged sources remain coherent. When all three operations execute cleanly and the apex declares stability, the catalogue has performed a structural refactor without losing analytical content. The discipline differs from genesis-side editing—new article creation, research-to-expand chains, void-naming arcs—because it operates over *content already in the catalogue* rather than producing new content. Naming the sequence as a single discipline rather than three independent operations matters because the three operations *condition each other*: a coalesce that is not followed by a length check leaves the catalogue with a too-long article; a condense that is not followed by an apex-stability check leaves the apex-citation graph silently broken; an apex re-cross-review that finds nothing changed is the discipline's success condition rather than a failure.
 
-This article specifies when each operation triggers the next, what counts as apex stability, and where the discipline cannot complete. It operates as documentation of a now-stabilised editorial pattern rather than as a prescription for new content; the pattern was demonstrated four times in the catalogue's recent history before it was named here.
+This article specifies when each operation triggers the next, what counts as apex stability, and where the discipline cannot complete. It operates as documentation of a now-stabilised editorial pattern rather than as a prescription for new content; the pattern's components ran repeatedly in the catalogue's recent history before being named here, with the cleanest full-arc demonstration on the 2026-04-28/29 [[meta-epistemology-of-limits|meta-epistemology-of-limits]] sequence.
 
 ## The Three Operations and Their Operational Sequence
 
@@ -44,7 +44,7 @@ The triple-discipline runs as a chain. Each operation may *not* trigger the next
 
 A coalesce triggers a condense under either of two conditions:
 
-**Word count above the section's hard threshold.** The 2026-04-28 23:08 UTC coalesce of `epistemic-horizon-void` into [[meta-epistemology-of-limits|meta-epistemology-of-limits]] produced an article at 3,924 words—196% of the 2,000-word voids target and above the 3,000-word voids hard threshold. The condense operation 76 minutes later reduced it to 2,731 words, comfortably under the hard threshold while preserving the four meta-questions structure, all five tenet connections, and the article's distinctive phrasings. The hard-threshold trigger is mechanical: the article-length analyser flags it; the queue inserts a condense task; the next cycle executes.
+**Word count above the section's hard threshold.** The 2026-04-28 23:08 UTC coalesce of `epistemic-horizon-void` into [[meta-epistemology-of-limits|meta-epistemology-of-limits]] produced an article at 3,924 words—196% of the 2,000-word voids target and above the 3,000-word voids hard threshold. The condense operation ninety-one minutes later reduced it to 2,731 words, comfortably under the hard threshold while preserving the four meta-questions structure, all five tenet connections, and the article's distinctive phrasings. The hard-threshold trigger is mechanical: the article-length analyser flags it; the queue inserts a condense task; the next cycle executes.
 
 **Redundant exposition introduced by the merge.** Even when the merged article is under the hard threshold, the merger may have introduced redundancy that a condense should remove. Two source articles often cover the same background material differently; the merge concatenates both treatments unless edited. The condense step in this case is not length-driven but redundancy-driven, and it preserves the merge's structural commitments while removing the duplicated exposition. This trigger is editorial-judgement-driven rather than mechanical: there is no analyser flag, only a reviewer's recognition that the merged article reads as if it had two introductions.
 
