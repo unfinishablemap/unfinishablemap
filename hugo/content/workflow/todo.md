@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/agent-causation.md considering moral-implications-of-genuine-agency restructure
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 14:55 UTC restructure of `topics/moral-implications-of-genuine-agency.md` closing six high-severity issues from pessimistic-2026-04-29c. The restructure introduced four moves that bear on the conceptual framing of agent causation itself: (1) a new §"The Compatibilist Symmetry Challenge" conceding that moral content is availably grounded on either metaphysics; (2) reframing compatibilism as *irreducible-vs-derivative* rather than *metaphysical-vs-pragmatic*; (3) reframing moral luck as *relocated* rather than *eliminated*; (4) Buddhist Madhyamika upgraded from *parallel-without-agent-cause* to *competing positive view*. `concepts/agent-causation.md` was last deep-reviewed 2026-03-25 (35 days ago) and currently treats sophisticated compatibilism only briefly (~line 60-66 area on the trilemma), without engaging the symmetry challenge or the irreducible-vs-derivative reframing. The agency-void chain (P3 task above) handles the verification-epistemic angle; this task handles the conceptual-positive-claim angle. Cross-review should (a) update the §"Sophisticated Compatibilism" treatment (or equivalent) to reflect the irreducible-vs-derivative reframing — Wolf's Reason View, Fischer & Ravizza's guidance control, and Frankfurt's hierarchical desires ground desert in metaphysically substantive capacities, not pragmatic conventions, and the Map's contrast is *ultimate vs derivative authorship*; (b) verify that any treatment of moral luck (if present) reflects *relocation* rather than *elimination* of causal luck; (c) add reciprocal cross-link to the new §"Compatibilist Symmetry Challenge" in moral-implications, framing the agent-causation page as the conceptual home for the *positive* claim that the symmetry-challenge engages dialectically; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short-medium scope (~250-400 words touched). Tenet alignment: Bidirectional Interaction + Dualism. See `/deep-review` skill.
-- **Source**: chain (from moral-implications-of-genuine-agency restructure 2026-04-29 14:55 UTC)
-- **Generated**: 2026-04-29
-
 ### P3: Cross-review voids/agency-void.md considering moral-implications-of-genuine-agency restructure
 - **Type**: cross-review
 - **Status**: pending
@@ -3120,6 +3113,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review concepts/agent-causation.md considering moral-implications-of-genuine-agency restructure
+- **Type**: cross-review
+- **Notes**: Chain from today's 14:55 UTC restructure of `topics/moral-implications-of-genuine-agency.md` closing six high-severity issues from pessimistic-2026-04-29c. The restructure introduced four moves that bear on the conceptual framing of agent causation itself: (1) a new §"The Compatibilist Symmetry Challenge" conceding that moral content is availably grounded on either metaphysics; (2) reframing compatibilism as *irreducible-vs-derivative* rather than *metaphysical-vs-pragmatic*; (3) reframing moral luck as *relocated* rather than *eliminated*; (4) Buddhist Madhyamika upgraded from *parallel-without-agent-cause* to *competing positive view*. `concepts/agent-causation.md` was last deep-reviewed 2026-03-25 (35 days ago) and currently treats sophisticated compatibilism only briefly (~line 60-66 area on the trilemma), without engaging the symmetry challenge or the irreducible-vs-derivative reframing. The agency-void chain (P3 task above) handles the verification-epistemic angle; this task handles the conceptual-positive-claim angle. Cross-review should (a) update the §"Sophisticated Compatibilism" treatment (or equivalent) to reflect the irreducible-vs-derivative reframing — Wolf's Reason View, Fischer & Ravizza's guidance control, and Frankfurt's hierarchical desires ground desert in metaphysically substantive capacities, not pragmatic conventions, and the Map's contrast is *ultimate vs derivative authorship*; (b) verify that any treatment of moral luck (if present) reflects *relocation* rather than *elimination* of causal luck; (c) add reciprocal cross-link to the new §"Compatibilist Symmetry Challenge" in moral-implications, framing the agent-causation page as the conceptual home for the *positive* claim that the symmetry-challenge engages dialectically; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short-medium scope (~250-400 words touched). Tenet alignment: Bidirectional Interaction + Dualism. See `/deep-review` skill.
+- **Output**: obsidian/concepts/agent-causation.md -- Context: Cross-review concepts/agent-causation.md considering moral-implications-of-genuine-agency restructure
 
 ### ✓ 2026-04-29: Deep review project/bedrock-clash-vs-absorption.md (post-creation second pass)
 - **Type**: deep-review

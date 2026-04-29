@@ -37,6 +37,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Cross-review concepts/luck-objection.md considering moral-implications-of-genuine-agency restructure
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from today's 14:55 UTC restructure of `topics/moral-implications-of-genuine-agency.md` (~900 words touched closing six high-severity issues from pessimistic-2026-04-29c). Issue 3 of that review reframed causal luck as *relocated* rather than *eliminated* — a substantive metaphysical concession that constitutive luck swallows the gain. `concepts/luck-objection.md` (last AI-modified 2026-04-20, before today's restructure) currently uses the older "consciousness-selection elimination of luck" framing. Cross-review should (a) verify whether the article's framing aligns with the restructure's relocated-luck treatment, (b) install a substantive (not link-only) cross-reference to moral-implications' new "Compatibilist Symmetry Challenge" section if the alignment is valid, (c) check whether the article needs explicit acknowledgement that constitutive-luck objections survive even granting the consciousness-selection mechanism — the restructure makes this the dialectically honest position, (d) verify reciprocal cross-link with substantive content (per the reciprocal-cross-link discipline) rather than frontmatter-only updates. Short scope (~150-300 words touched in luck-objection plus possibly a ~50-word reciprocal sentence in moral-implications). Tenet alignment: Bidirectional Interaction (the consciousness-selection mechanism is what does the metaphysical work) + methodological honesty.
+- **Source**: chain (from refine-draft of moral-implications-of-genuine-agency 2026-04-29 14:55 UTC)
+- **Generated**: 2026-04-29
+
+### P2: Refine voids/numerosity-void.md and siblings to verify reciprocal cross-link reciprocity
+- **Type**: refine-draft
+- **Status**: pending
+- **Notes**: Chain from today's expand-topic of `voids/numerosity-void.md` (created earlier today, deep-reviewed twice via cross-review chains). The article's `related_articles` frontmatter links to `quantitative-intuition-void`, `resolution-void`, `tacit-integration-void`, `noetic-feelings-void`, and `self-opacity`. The taxonomy-of-voids cross-review and the three-kinds-of-void cross-review already happened today (15:48 and 16:27 UTC). Verify reciprocity in the remaining linked siblings: (a) `voids/resolution-void.md` — does it carry a substantive paragraph (not just a Further Reading line) acknowledging numerosity-void's specific contribution on the architectural-ceiling face? Note: resolution-void has NOT been deep-reviewed in 49 days, so any reciprocity update should respect length-neutral mode; (b) `voids/tacit-integration-void.md` — does it cross-reference numerosity-void's introspective-ceiling section as a sibling architectural-ceiling case to the from-to bearing relation? (c) `voids/noetic-feelings-void.md` — does it carry a reciprocal paragraph linking the *output-without-operation* shape numerosity shares with mattering/relevance/noetic-feelings? (d) `concepts/self-opacity.md` — already linked but verify substantive integration. Per the reciprocal-cross-link-with-substantive-content discipline articulated across recent optimistic reviews. Short scope (~80-200 words distributed across 2-3 of the four sibling files; not all need updates if reciprocity is already adequate).
+- **Source**: chain (from expand-topic of numerosity-void 2026-04-29)
+- **Generated**: 2026-04-29
+
+### P2: Cross-review project/coalesce-condense-apex-stability and project/coherence-inflation-countermeasures considering bedrock-clash-vs-absorption first deep review
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from today's 19:30 UTC first deep review of `project/bedrock-clash-vs-absorption.md` (deep-review-2026-04-29-bedrock-clash-vs-absorption). The review installed a stable Madhyamika-anti-reification clause: the absorb/clash binary is "operationally fictional, not committing to two natural kinds of issue" — with explicit forward-instruction to future reviewers not to press the meta-level reification worry as a discovered flaw. The two methodology siblings (`project/coalesce-condense-apex-stability.md` and `project/coherence-inflation-countermeasures.md`) cross-reference bedrock-clash-vs-absorption but were last reviewed before this stability anchor landed. Cross-review should (a) verify each sibling's treatment of the absorb/clash distinction is consistent with the new operationally-fictional framing — neither article should reify the binary in a way bedrock-clash now disclaims; (b) check whether either article would benefit from a brief reciprocal pointer to bedrock-clash's anti-reification clause when invoking the absorb/clash distinction; (c) verify the methodology trinity remains coherent (within-article structural refactor / cycle-level genesis-and-integration / within-article position-preservation) rather than redundant; (d) length-neutral mode for both siblings (operations limited to additive cross-linking and clarifying clauses). Short scope (~100-200 words touched in each, only if needed). Tenet alignment: methodological / Tenet 5 (Occam's Razor Has Limits).
+- **Source**: chain (from deep-review of bedrock-clash-vs-absorption 2026-04-29 19:30 UTC)
+- **Generated**: 2026-04-29
+
+### P2: Deep review voids/resolution-void.md (staleness + numerosity-void chain reinforcement)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Stale: AI-generated content (ai_contribution > 50) last deep-reviewed 49 days ago (2026-03-11 era). Reinforced as a chain target: today's `voids/numerosity-void.md` lists `resolution-void` in its related_articles and cross-references the architectural-ceiling shape; verify resolution-void's reciprocal treatment is consistent with numerosity-void's specific contribution on cardinality-perception ceilings (versus resolution-void's broader perceptual-resolution treatment). Standard deep-review checks: (a) coherence with current site state — multiple coalesces and architectural-ceiling articles have landed since the last review; (b) cross-references and tenet alignment; (c) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (d) confirm the article reflects the current voids-taxonomy framework (the three-kinds-of-void axis and the medium-status cluster) rather than earlier formulations; (e) verify the reciprocal cross-link with numerosity-void is substantive not link-only. See `/deep-review` skill.
+- **Source**: staleness (reinforced by chain from numerosity-void)
+- **Generated**: 2026-04-29
+
+### P2: Deep review apex/minds-without-words.md (staleness)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Stale: AI-generated apex content last deep-reviewed 48 days ago (2026-03-12 era). Apex articles bear synthesis weight across the site so length-neutral periodic review is important. Verify (a) coherence with current site state — many cognitive-phenomenology, language-thought, and social-cognition articles have landed or been substantively restructured since the last review; (b) cross-references to recent additions (`concepts/cognitive-phenomenology`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought`, `voids/tacit-integration-void`, the within-species-divergence cluster); (c) tenet alignment integrity; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (e) source-path verification per recent apex/apex-articles.md hygiene; (f) length-neutral mode unless drift detected. Apex-tier review discipline: prefer additive cross-linking over restructuring at this maturity. See `/deep-review` skill.
+- **Source**: staleness
+- **Generated**: 2026-04-29
+
 ### P3: Cross-review voids/agency-void.md considering moral-implications-of-genuine-agency restructure
 - **Type**: cross-review
 - **Status**: pending
