@@ -4,7 +4,7 @@ description: "The type of emergence you accept constrains what consciousness can
 created: 2026-02-08
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-04-06T12:47:00+00:00
+ai_modified: 2026-04-29T21:32:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,12 +38,15 @@ related_articles:
   - "[[cross-traditional-convergence-on-consciousness-irreducibility]]"
   - "[[the-convergence-argument-for-dualism]]"
   - "[[epistemology-of-convergence-arguments]]"
+  - "[[the-epiphenomenalist-threat]]"
+  - "[[causal-closure-debate-historical-survey]]"
+  - "[[parsimony-case-for-interactionist-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-03-24T21:10:00+00:00
+last_deep_review: 2026-04-29T21:32:00+00:00
 coalesced_from:
   - "/topics/consciousness-and-strong-emergence/"
   - "/topics/consciousness-and-the-emergence-debate/"
@@ -65,7 +68,7 @@ If consciousness is strongly emergent, it possesses properties not deducible eve
 
 This is the Map's position. Strong emergence says the universe contains real novelty: properties not implicit in the fundamental physical inventory but arising when matter organises in certain ways. C.D. Broad stated the criterion in 1925: emergent properties are those whose "characteristic properties of the whole...cannot, even in theory, be deduced from the most complete knowledge" of component properties. David Chalmers sharpened the point: "I think there is exactly one clear case of a strongly emergent phenomenon, and that is the phenomenon of consciousness" (2006).
 
-Strong emergence demands a mechanism for [[mental-causation-and-downward-causation|downward causation]] — how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [[concepts/epiphenomenalism|epiphenomenal]]. The Map provides a mechanism: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies.
+Strong emergence demands a mechanism for [[mental-causation-and-downward-causation|downward causation]] — how the emergent property influences the lower level. Without one, the strongly emergent property risks becoming [[concepts/epiphenomenalism|epiphenomenal]]. The pull toward epiphenomenalism is so strong that [[the-epiphenomenalist-threat|most theories of consciousness collapse into it by default]] — genuine escape requires a positive causal mechanism. The Map provides one: consciousness selects among outcomes physics leaves undetermined at quantum indeterminacies.
 
 ### Emergence Denied: Panpsychism
 
@@ -107,7 +110,7 @@ If weak and strong emergence formed a clean binary, the physicalist could plausi
 
 The most formidable objection to strong emergence comes from Jaegwon Kim's exclusion argument. Kim presents four premises that cannot all be true simultaneously: mental causation, [[causal-closure|causal closure]], irreducibility of mental properties, and no systematic overdetermination. Since these are jointly inconsistent, Kim concludes that irreducibility must go — mental properties either reduce to physical properties or are causally inert.
 
-The Map denies causal closure — but not wholesale. Causal closure holds through most of physics. The denial is targeted: at quantum indeterminacies, physics is genuinely incomplete. Quantum mechanics specifies probabilities for measurement outcomes but does not determine which outcome occurs. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet locates consciousness's causal influence here — biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws.
+The Map denies causal closure — but not wholesale. Causal closure holds through most of physics. The denial is targeted: at quantum indeterminacies, physics is genuinely incomplete. The [[causal-closure-debate-historical-survey|historical case for causal closure]] is weaker than commonly assumed — it evolved from a physics observation into a metaphysical axiom through philosophical inheritance rather than direct empirical confirmation. Quantum mechanics specifies probabilities for measurement outcomes but does not determine which outcome occurs. The [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet locates consciousness's causal influence here — biasing otherwise indeterminate outcomes without injecting energy or violating conservation laws.
 
 Classical British emergentists accepted strong emergence without a mechanism. Alexander accepted it with "natural piety" — as a brute fact. A century later, quantum mechanics provides what they lacked: a specific location in physics where the causal structure is incomplete. Whether quantum indeterminacies in neural tissue survive [[decoherence]] long enough remains contested — Tegmark (2000) estimated decoherence times far too short for neural relevance, though Hagan et al. (2002) challenged his assumptions. And more fundamentally, decoherence does not solve the [[measurement-problem|measurement problem]] — even after decoherence, something must select which outcome becomes actual.
 
@@ -145,7 +148,7 @@ The Map's framework is best understood as *emergentist interactionism*: consciou
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** matters because the quantum mechanism requires genuine indeterminacy. Under many-worlds, all outcomes are realised through unitary evolution — consciousness selects nothing but merely indexes a branch.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** explains why weak emergence remains attractive despite the hard problem. The reductive track record creates a powerful simplicity intuition — but that intuition was calibrated on functional properties, not consciousness. The stronger the reductive track record for functional properties, the more conspicuous consciousness's resistance becomes.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** explains why weak emergence remains attractive despite the hard problem. The reductive track record creates a powerful simplicity intuition — but that intuition was calibrated on functional properties, not consciousness. The stronger the reductive track record for functional properties, the more conspicuous consciousness's resistance becomes. Once the [[parsimony-case-for-interactionist-dualism|hidden costs]] of physicalism are counted — postulated unobserved derivations, brute psychophysical bridges, denial of the most directly accessible datum — the parsimony advantage tilts back toward strong emergence with mechanism.
 
 Affirming strong emergence is not the same as explaining it. The deeper question — why certain physical organisations give rise to experience at all — may represent a genuine [[emergence-void|cognitive void]], a limit on what any mind can comprehend about its own conditions of possibility.
 
@@ -169,6 +172,9 @@ Affirming strong emergence is not the same as explaining it. The deeper question
 - [[topics/free-will]] — How strong emergence with causal powers grounds genuine agency
 - [[cross-traditional-convergence-on-consciousness-irreducibility]] — Why diverse philosophical traditions independently converge on consciousness's irreducibility
 - [[the-convergence-argument-for-dualism]] — Multiple independent arguments converging on the same conclusion
+- [[the-epiphenomenalist-threat]] — Why most theories of consciousness collapse into epiphenomenalism by default, and what genuine escape requires
+- [[causal-closure-debate-historical-survey]] — How causal closure evolved from a physics claim into a metaphysical axiom
+- [[parsimony-case-for-interactionist-dualism]] — Why the parsimony advantage may favour strong emergence with mechanism over physicalism
 
 ## References
 
