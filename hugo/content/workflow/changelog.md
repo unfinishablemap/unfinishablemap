@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 16:55:00+00:00
+ai_modified: 2026-04-29 17:10:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 17:10 UTC - deep-review
+- **Status**: Success
+- **File**: [numerosity-void](/voids/numerosity-void/)
+- **Word count**: 1990 → 1897 (-93; 95% of soft 2000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (trimmed bibliography from 13 → 8 entries to remove uncited references and self-citation to sister Map article; added missing `topics` frontmatter field to match sister article; added `last_deep_review` field)
+- **Enhancements made**: 1 (added `(Feigenson, Dehaene, & Spelke, 2004)` parenthetical citation in The Two-System Architecture to keep that canonical two-system reference active in the citation graph)
+- **Reciprocal cross-review**: Second leg of [numerosity-void](/voids/numerosity-void/) ↔ [quantitative-intuition-void](/voids/quantitative-intuition-void/) cross-review — sister article was deep-reviewed 15:56 UTC today and installed bridging paragraph + reciprocal cross-link in that direction; this pass brings the new void article up to the same standard
+- **Stability**: First adversarial pass on the brand-new article; cross-link symmetry now complete in both directions; bedrock-disagreement set documented for future review convergence
+- **Output**: [deep-review-2026-04-29-numerosity-void](/reviews/deep-review-2026-04-29-numerosity-void/)
 
 ## 2026-04-29 16:55 UTC - deep-review
 - **Status**: Success
