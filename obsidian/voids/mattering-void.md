@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the felt weight of significance — th
 created: 2026-04-29
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-29T03:08:00+00:00
+ai_modified: 2026-04-29T09:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -85,7 +85,7 @@ The phenomenon shows up in at least three distinct faces, which can come apart.
 
 **The brute-mattering face.** Why does anything show up as significant rather than as bare information? This is the face most analogous to the hard problem itself: the gap between neural utility-coding (reward prediction error, value computation, precision-weighting in predictive processing) and the felt weight of significance.
 
-**The hierarchical-mattering face.** Why does significance arrange itself into nested orderings — this matters more than that, this concerns me here-and-now while that concerns me at the level of life-projects? Frankfurt's hierarchical-volitions framework lives at this face. Even given that things matter, the *ordering* among them is opaque to introspection in ways the ordering itself drives.
+**The hierarchical-mattering face.** Why does significance arrange itself into nested orderings — this matters more than that, this concerns me here-and-now while that concerns me at the level of life-projects? Frankfurt's hierarchical-volitions framework lives at this face. Even given that things matter, the *ordering* among them is opaque to introspection in ways the ordering itself drives. The [[relevance-void|relevance void]]'s filtering operates on this hierarchical field rather than constituting it: relevance selects among orderings, but the orderings themselves are what the hierarchical face names. [[cognitive-phenomenology|Cognitive phenomenology]] is the natural extension on the meaning side: if there is a what-it-is-like to grasping any concept, the felt weight of caring — second-order volitions over first-order desires — is its mattering register, individuating one valuation from another in the way distinct thoughts have distinct phenomenal signatures.
 
 **The meta-mattering face.** Why does *whether anything matters* itself matter? The question of meaning's reality is, for most people, urgent in a way that questions about, say, the reality of mathematical objects are not. The meta-mattering face is what makes the [[meaning-void|meaning-void]] phenomenologically distinctive: not just that meaning may be inaccessible, but that its inaccessibility itself shows up as significant.
 

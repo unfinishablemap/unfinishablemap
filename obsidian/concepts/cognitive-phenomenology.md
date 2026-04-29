@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-29T00:08:00+00:00
+ai_modified: 2026-04-29T09:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -227,6 +227,8 @@ The TOT and FOK phenomena [discussed above](#the-tip-of-the-tongue-phenomenon) g
 [[epistemic-emotions|Epistemic emotions]]—curiosity, doubt, certainty, confusion—are emotions specifically *about* cognitive states, and they resist reduction to sensory accompaniments. Curiosity involves a phenomenal pull toward unknown information that cannot reduce to anticipatory pleasure. Confusion has phenomenal character specifically about understanding failing.
 
 These emotions have [[metacognition|metacognitive]] structure—affective responses to monitoring of beliefs—that first-order sensory reduction cannot capture. See [[epistemic-emotions]] for detailed analysis.
+
+Mattering and caring extend the same case beyond epistemic emotions. The [[mattering-void]] catalogues a four-tradition convergence — Heidegger's *Sorge*, Frankfurt's caring-as-identity-constitutive, Ratcliffe's existential feelings, Vervaeke's relevance realization — on significance as constitutive, pre-reflective, and irreducible to sensory accompaniment. Frankfurt's hierarchical-volitions framework is the cognitive-phenomenology tradition's natural extension into the felt weight of *what we care about*: second-order volitions over first-order desires individuate one caring from another in the same way distinct thoughts have distinct phenomenal signatures.
 
 ## Evidence from the Amplification Thesis
 

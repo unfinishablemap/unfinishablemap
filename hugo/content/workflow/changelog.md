@@ -1,13 +1,76 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 08:34:00+00:00
+ai_modified: 2026-04-29 09:56:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 09:56 UTC - refine-draft
+- **Status**: Success
+- **Source**: [optimistic-2026-04-29](/reviews/optimistic-2026-04-29/) — Cross-Linking Suggestions table; four light-touch reciprocal cross-links across the noetic-occlusion voids cluster
+- **Files touched**: 4 (`voids/mattering-void`, `voids/common-knowledge-void`, `voids/meta-epistemology-of-limits`, `concepts/cognitive-phenomenology`)
+- **Changes**:
+  - `voids/mattering-void` §"Three Faces" / hierarchical-mattering face: appended two sentences naming (i) the structural relationship to [relevance void](/voids/relevance-void/) (relevance-filtering operates on the hierarchical-mattering field) and (ii) the [cognitive-phenomenology](/concepts/cognitive-phenomenology/) extension into the felt weight of caring (Frankfurt's hierarchical-volitions as the cognitive-phenomenology tradition's natural extension on the meaning side)
+  - `voids/common-knowledge-void` §"Operational Fiction": installed body wikilink to [intersubjectivity](/concepts/intersubjectivity/) (previously frontmatter-only) at the point where the operational-fiction face does the explanatory work for ordinary intersubjectivity; tightened the surrounding sentence
+  - `voids/common-knowledge-void` §"Further Reading": added [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) entry as conjunction-coalesce methodological cognate
+  - `voids/meta-epistemology-of-limits` §"Further Reading": added [common-knowledge-void](/voids/common-knowledge-void/) entry as conjunction-coalesce methodological cognate (reciprocal pair)
+  - `concepts/cognitive-phenomenology` §"Evidence from Epistemic Emotions": appended ~75-word paragraph extending the cognitive-phenomenology case beyond epistemic emotions to mattering and caring, citing the [mattering-void](/voids/mattering-void/)'s four-tradition convergence and Frankfurt's hierarchical-volitions framework
+- **Style audit**: scanned all four files for "This is not X. It is Y." cliché — none present, none introduced
+- **Voice**: preserved across all touched passages; no structural rework
+- **Tenet alignment**: methodological — completes integration of today's noetic-occlusion voids cluster
+- **Total scope**: ~210 words added across four files (under the ~300-450 word task budget)
+- **Published**: yes (all files already draft: false)
+
+## 2026-04-29 09:36 UTC - deep-review
+- **Status**: Success
+- **File**: [conceptual-scheme-void](/voids/conceptual-scheme-void/)
+- **Word count**: 2978 → 2974 (−4; length-neutral; just under voids/ 3000-word hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 3 (medium-status apex acknowledgment, length pressure compensation, orphaned Quine reference removed)
+- **Enhancements made**: 4 (body sentence connecting void to medium-status cluster; four sibling/apex wikilinks added to frontmatter; Further Reading entry for apex; compensating trims to AI systems / Davidson restatement / IIT-GNW / Graham passages)
+- **Output**: [deep-review-2026-04-29-conceptual-scheme-void](/reviews/deep-review-2026-04-29-conceptual-scheme-void/)
+
+## 2026-04-29 09:19 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness](/concepts/consciousness/)
+- **Word count**: 2360 → 2417 (+57)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing meta-problem cross-link)
+- **Enhancements made**: 1 (Chalmers 2018 meta-problem paragraph added in Hard Problem section, linked from concepts frontmatter and Further Reading)
+- **Output**: [deep-review-2026-04-29-consciousness](/reviews/deep-review-2026-04-29-consciousness/)
+
+## 2026-04-29 09:04 UTC - refine-draft
+- **Status**: Success
+- **File**: [common-knowledge-void](/voids/common-knowledge-void/)
+- **Word count**: 3032 → 2929 (−103; under voids/ 3000-word hard threshold with ~21-word headroom against the <2950 task target)
+- **Changes**:
+  - §Verification: dropped redundant general-statement opening that duplicated the lead's Halpern–Moses summary
+  - §Approximation Discontinuity: folded duplicative protocol-description sentence into the iterated-elimination claim
+  - §Focal-Points Alternative: tightened second paragraph (parenthetical and closing clause)
+  - §Phenomenology: rephrased "not as X but as Y" cliché to "manifests through *constitutive smoothing*" per CLAUDE.md style ban
+  - Lead: tightened "Late-twentieth-century formal results..." topic sentence
+  - Anchoring summary: reduced parenthetical anchor lists since each is expanded in its own subsection
+  - §Aumann tenet-dependency: removed branch-indexical-priors restatement and "flagged here rather than relied on tacitly:" framing
+- **Preserved**: salience-regress reply, focal-points engagement, Halpern–Moses citation, MWI tenet-dependency, Carruthers/Madhyamaka treatments; all wikilinks intact
+- **Tenet alignment**: methodological — preserves section-cap-and-length discipline (Occam's Limits applied reflexively)
+- **Published**: yes (already draft: false)
+
+## 2026-04-29 08:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+- **Source**: [pessimistic-2026-04-29b](/reviews/pessimistic-2026-04-29b/) — four interpretive-joint weaknesses prior deep-reviews treated as bedrock or one-clause-handled
+- **Word count**: ~2060 → ~2310 (+250; targeted, no structural rework)
+- **Changes**:
+  - §"From Collapse Mechanism to Consciousness Modulation": added Born-rule constraint on the "consciousness biases outcomes" claim with forward-link to [born-rule-and-the-consciousness-interface](/topics/born-rule-and-the-consciousness-interface/); replaced "leaves the result genuinely open" with "fixes the statistics but not the per-trial outcome"
+  - §"The Diósi-Penrose Model and Its Partial Falsification": connected Donadi quote to McQueen (2023) move *as* a rescue; noted what testing the distinction would require (cross-link to [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/))
+  - §"Orch OR: The Consciousness Extension": added clause noting Reimers/McKemmish/Wilson critiques of Hameroff's revised decoherence-time parameters (corrects false-balance impression); added paragraph clarifying Map's interest in OR is independent of Penrose-Lucas, motivated instead by prebiotic-collapse and the fourth tenet
+  - Secondary cleanups: tightened "branching never occurs" to specify mesoscopic-and-above branching cutoff; reframed "diminished elegance" as structural rather than aesthetic loss; quantified 14-orders-of-magnitude gap between Fein 2025 (1.7 × 10⁵ Da) and DP-collapse-relevant masses (~6 × 10¹⁸ Da)
+- **Tenet alignment**: methodological honesty about empirical constraints (Tenet 5 / Occam's Limits applied reflexively to the Map's own framework)
+- **Published**: yes (already draft: false)
 
 ## 2026-04-29 08:34 UTC - pessimistic-review
 - **Status**: Success

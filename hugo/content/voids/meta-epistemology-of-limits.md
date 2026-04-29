@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-29 00:39:00+00:00
+ai_modified: 2026-04-29 09:56:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -192,6 +192,7 @@ None of these has been met. The hard problem remains as puzzling after 30 years 
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — Systematic account of limit-claim methods
 - [The Conceptual Scheme Void](/voids/conceptual-scheme-void/) — When the mind lacks the categorial shape
 - [The Suspension Void](/voids/suspension-void/) — Why the suspended position inherits structural limits
+- [The Common-Knowledge Void](/voids/common-knowledge-void/) — Methodological cognate: another conjunction-coalesce structure where independently recognised limits conjoin into a single structural impossibility
 
 ## References
 

@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 09:36:00+00:00
+ai_modified: 2026-04-29 09:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 09:56 UTC - refine-draft
+- **Status**: Success
+- **Source**: [[reviews/optimistic-2026-04-29]] — Cross-Linking Suggestions table; four light-touch reciprocal cross-links across the noetic-occlusion voids cluster
+- **Files touched**: 4 (`voids/mattering-void`, `voids/common-knowledge-void`, `voids/meta-epistemology-of-limits`, `concepts/cognitive-phenomenology`)
+- **Changes**:
+  - `voids/mattering-void` §"Three Faces" / hierarchical-mattering face: appended two sentences naming (i) the structural relationship to [[relevance-void|relevance void]] (relevance-filtering operates on the hierarchical-mattering field) and (ii) the [[cognitive-phenomenology]] extension into the felt weight of caring (Frankfurt's hierarchical-volitions as the cognitive-phenomenology tradition's natural extension on the meaning side)
+  - `voids/common-knowledge-void` §"Operational Fiction": installed body wikilink to [[intersubjectivity]] (previously frontmatter-only) at the point where the operational-fiction face does the explanatory work for ordinary intersubjectivity; tightened the surrounding sentence
+  - `voids/common-knowledge-void` §"Further Reading": added [[meta-epistemology-of-limits]] entry as conjunction-coalesce methodological cognate
+  - `voids/meta-epistemology-of-limits` §"Further Reading": added [[common-knowledge-void]] entry as conjunction-coalesce methodological cognate (reciprocal pair)
+  - `concepts/cognitive-phenomenology` §"Evidence from Epistemic Emotions": appended ~75-word paragraph extending the cognitive-phenomenology case beyond epistemic emotions to mattering and caring, citing the [[mattering-void]]'s four-tradition convergence and Frankfurt's hierarchical-volitions framework
+- **Style audit**: scanned all four files for "This is not X. It is Y." cliché — none present, none introduced
+- **Voice**: preserved across all touched passages; no structural rework
+- **Tenet alignment**: methodological — completes integration of today's noetic-occlusion voids cluster
+- **Total scope**: ~210 words added across four files (under the ~300-450 word task budget)
+- **Published**: yes (all files already draft: false)
 
 ## 2026-04-29 09:36 UTC - deep-review
 - **Status**: Success

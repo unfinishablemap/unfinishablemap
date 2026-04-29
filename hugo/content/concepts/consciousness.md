@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-24
-ai_modified: 2026-03-23 21:43:00+00:00
+ai_modified: 2026-04-29 09:19:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -10,6 +10,7 @@ concepts:
 - '[[qualia]]'
 - '[[neural-correlates-of-consciousness]]'
 - '[[explanatory-gap]]'
+- '[[meta-problem-of-consciousness]]'
 - '[[unity-of-consciousness]]'
 - '[[interactionist-dualism]]'
 - '[[concepts/materialism]]'
@@ -33,7 +34,7 @@ description: Consciousness is what it is like to be something—the subjective f
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 06:41:00+00:00
+last_deep_review: 2026-04-29 09:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -67,6 +68,8 @@ Three aspects characterise consciousness:
 David Chalmers distinguished the "easy problems" of consciousness (explaining cognitive functions like discrimination, integration, and report) from the "hard problem": why is there something it is like to perform these functions at all?
 
 The [hard problem](/topics/hard-problem-of-consciousness/) concerns the [explanatory-gap](/concepts/explanatory-gap/) between physical description and phenomenal reality. We can map which brain regions correlate with which experiences (see [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/)). We cannot explain *why* activity in V4 feels like colour rather than nothing at all.
+
+Chalmers later introduced the [meta-problem](/concepts/meta-problem-of-consciousness/) (2018): why do we *think* consciousness is hard? Even physicalists who deny phenomenal consciousness must explain why the problem seems compelling. The Map treats the persistence of these intuitions as evidence of something real rather than a quirk of cognitive mechanism.
 
 The Map holds that the hard problem is not merely unsolved but unsolvable by physicalist methods. The gap reflects a genuine ontological distinction: consciousness is not identical to or fully explained by physical processes.
 
@@ -212,6 +215,7 @@ The Map's extensive coverage of consciousness includes:
 - [access-consciousness](/concepts/access-consciousness/) — Information availability for reasoning and report
 - [qualia](/concepts/qualia/) — The specific qualitative properties of experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why physical processes are accompanied by experience
+- [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/) — Why we think consciousness is hard to explain
 - [neural-correlates-of-consciousness](/concepts/neural-correlates-of-consciousness/) — Brain activity that correlates with consciousness
 - [explanatory-gap](/concepts/explanatory-gap/) — The conceptual chasm between physical and phenomenal
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — How diverse contents form unified experience

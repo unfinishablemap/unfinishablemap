@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine? Estimate their total
 created: 2026-01-16
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T00:39:00+00:00
+ai_modified: 2026-04-29T09:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -188,6 +188,7 @@ None of these has been met. The hard problem remains as puzzling after 30 years 
 - [[epistemology-of-limit-knowledge]] — Systematic account of limit-claim methods
 - [[conceptual-scheme-void|The Conceptual Scheme Void]] — When the mind lacks the categorial shape
 - [[suspension-void|The Suspension Void]] — Why the suspended position inherits structural limits
+- [[common-knowledge-void|The Common-Knowledge Void]] — Methodological cognate: another conjunction-coalesce structure where independently recognised limits conjoin into a single structural impossibility
 
 ## References
 

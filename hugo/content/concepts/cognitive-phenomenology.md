@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-29 00:08:00+00:00
+ai_modified: 2026-04-29 09:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -230,6 +230,8 @@ The TOT and FOK phenomena [discussed above](#the-tip-of-the-tongue-phenomenon) g
 [Epistemic emotions](/concepts/epistemic-emotions/)—curiosity, doubt, certainty, confusion—are emotions specifically *about* cognitive states, and they resist reduction to sensory accompaniments. Curiosity involves a phenomenal pull toward unknown information that cannot reduce to anticipatory pleasure. Confusion has phenomenal character specifically about understanding failing.
 
 These emotions have [metacognitive](/concepts/metacognition/) structure—affective responses to monitoring of beliefs—that first-order sensory reduction cannot capture. See [epistemic-emotions](/concepts/epistemic-emotions/) for detailed analysis.
+
+Mattering and caring extend the same case beyond epistemic emotions. The [mattering-void](/voids/mattering-void/) catalogues a four-tradition convergence — Heidegger's *Sorge*, Frankfurt's caring-as-identity-constitutive, Ratcliffe's existential feelings, Vervaeke's relevance realization — on significance as constitutive, pre-reflective, and irreducible to sensory accompaniment. Frankfurt's hierarchical-volitions framework is the cognitive-phenomenology tradition's natural extension into the felt weight of *what we care about*: second-order volitions over first-order desires individuate one caring from another in the same way distinct thoughts have distinct phenomenal signatures.
 
 ## Evidence from the Amplification Thesis
 

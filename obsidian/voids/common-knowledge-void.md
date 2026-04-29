@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural impossibility at the heart 
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T09:04:00+00:00
+ai_modified: 2026-04-29T09:56:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -58,7 +58,7 @@ A natural defensive move would treat common knowledge as the limit of higher-ord
 
 ### Operational Fiction (Occluded, possibly Self-Occluded)
 
-Conventions, language, and coordination presuppose common knowledge yet *function*. Consciousness operates as if it had access to a state it cannot verify and that no finite exchange can produce. The mechanism — cognitive shortcut, fictive imputation, or constitutive presupposition — is itself opaque to introspection. We do not catch ourselves *assuming* common knowledge; we simply communicate. The face is *Occluded*: the gap is real, traces show in repair and miscommunication, but the operational smoothing does not announce itself in awareness. Representing the gap during coordination would disable the coordination it makes possible — the void is hidden by the success of the operation it would expose, in structural kinship with [[necessary-opacity]].
+Conventions, language, and coordination presuppose common knowledge yet *function*. The face is what makes ordinary [[intersubjectivity|intersubjectivity]] practically work: consciousness operates as if it had access to a state it cannot verify and that no finite exchange can produce. The mechanism — cognitive shortcut, fictive imputation, or constitutive presupposition — is itself opaque to introspection. We do not catch ourselves *assuming* common knowledge; we simply communicate, treat each other as fellow minds, share meaning. The face is *Occluded*: the gap is real, traces show in repair and miscommunication, but the operational smoothing does not announce itself in awareness. Representing the gap during coordination would disable the coordination it makes possible — the void is hidden by the success of the operation it would expose, in structural kinship with [[necessary-opacity]].
 
 ## Formal Anchoring
 
@@ -157,6 +157,7 @@ The void connects the [[voids-between-minds|sharing face of voids-between-minds]
 - [[conceptual-scheme-void]] — How conceptual schemes exclude what they cannot represent
 - [[inference-void]] — A sister regress: the structural opacity of inferential transitions
 - [[suspension-void]] — Another conjunction-coalesce cognate with three structural faces
+- [[meta-epistemology-of-limits|The Meta-Epistemology of Cognitive Limits]] — Methodological cognate: a four-meta-questions framing built on the same conjunction-coalesce discipline
 - [[noetic-feelings-void]] — The felt sense of agreement as itself a noetic feeling
 - [[non-human-minds-as-void-explorers]] — Using AI–human asymmetry to probe shared limits
 - [[conjunction-coalesce]] — The methodological discipline this article instantiates
