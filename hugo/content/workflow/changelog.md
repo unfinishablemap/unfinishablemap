@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 22:55:00+00:00
+ai_modified: 2026-04-29 23:10:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 23:10 UTC - condense
+- **Status**: Success
+- **File**: [noetic-feelings-void](/voids/noetic-feelings-void/)
+- **Before**: 3009 words
+- **After**: 2333 words
+- **Reduction**: 22%
+- **Technique**: Cut tangential numerosity-sibling paragraph; trimmed Explanatory Regress (dropped Lipton/Kvanvig digression); compressed Philosophical Convergence into single paragraph; tightened the three-feature opacity section and Self-Concealing Structure (removed redundancy with opening); halved Further Reading list (overlapping links); dropped non-load-bearing references (Lipton, Kvanvig, Loev 2025, Schutz); tightened prose throughout (Relation to Site Perspective, Implications, Open Questions). Preserved opening summary, full noetic-feelings family list, all tenet connections, and falsifiability conditions.
+- **Status moved from**: hard_warning → soft_warning
 
 ## 2026-04-29 22:55 UTC - deep-review
 - **Status**: Success (fourth review — article has reached stability)

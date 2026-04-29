@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/noetic-feelings-void.md (3009 words, 150% of soft target, 9 words over hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word hard threshold for voids/ by 9 words (currently 3009 words = 150% of 2000-word soft target). Marginally over but the threshold is structural and the article has accumulated substantive cross-link material across recent sweeps (the 20:27 UTC reciprocal sweep with numerosity-void added ~75 words). Condense should target redundancy without removing load-bearing content. Preserve: the family-of-noetic-feelings catalogue (knowing, rightness, familiarity, understanding, obviousness, coherence); the heuristic-machinery framing; the cognition-gating function; the reciprocal cross-links to numerosity-void (output-without-felt-operation pattern), recognition-void, self-opacity, necessary-opacity, medium-status-voids-in-cognition; tenet alignment paragraphs. Trim: any repeated framing across catalogue entries; any examples that recapitulate rather than extend the structural argument; redundant tradition-comparison framings. Target: bring to ≤2900 words to give margin against future cross-link additions. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-29
-
 ### P3: Write project doc on forward-only-cross-link-defect as named editorial pattern
 - **Type**: expand-topic
 - **Status**: pending
@@ -3141,6 +3134,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Condense voids/noetic-feelings-void.md (3009 words, 150% of soft target, 9 words over hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ by 9 words (currently 3009 words = 150% of 2000-word soft target). Marginally over but the threshold is structural and the article has accumulated substantive cross-link material across recent sweeps (the 20:27 UTC reciprocal sweep with numerosity-void added ~75 words). Condense should target redundancy without removing load-bearing content. Preserve: the family-of-noetic-feelings catalogue (knowing, rightness, familiarity, understanding, obviousness, coherence); the heuristic-machinery framing; the cognition-gating function; the reciprocal cross-links to numerosity-void (output-without-felt-operation pattern), recognition-void, self-opacity, necessary-opacity, medium-status-voids-in-cognition; tenet alignment paragraphs. Trim: any repeated framing across catalogue entries; any examples that recapitulate rather than extend the structural argument; redundant tradition-comparison framings. Target: bring to ≤2900 words to give margin against future cross-link additions. See `/condense` skill.
+- **Output**: obsidian/voids/noetic-feelings-void.md
 
 ### ✓ 2026-04-29: Cross-review topics/parsimony-case-for-interactionist-dualism.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
 - **Type**: cross-review
