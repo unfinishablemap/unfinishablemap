@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/coalesce-condense-apex-stability.md considering closed-loop-opportunity-execution.md and bedrock-clash-vs-absorption.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Today's `project/closed-loop-opportunity-execution.md` (12:49 UTC) explicitly cross-references coalesce-condense-apex-stability as "article-level analogue (refactor over existing content) to this cycle-level analogue (genesis-and-integration)". Today's `project/bedrock-clash-vs-absorption.md` (13:04 UTC) cross-references it as "whole-article-structure sibling". The 2026-04-29 11:50 UTC deep-review of coalesce-condense-apex-stability installed reciprocal back-links to apex-articles, taxonomy-of-voids, meta-epistemology-of-limits, and automation — but the two new project articles did not yet exist at that time. Cross-review should (a) add reciprocal `related_articles` entries in `concepts/coalesce-condense-apex-stability.md` pointing to both new articles, (b) install inline cross-references at the points in the article where article-level / cycle-level / objection-handling distinctions become relevant (so future readers can follow the discipline-triangle), (c) check whether the article-level/cycle-level/objection-handling triangle is now coherent enough to warrant explicit naming as a triple-discipline (or whether they remain three independent siblings), (d) verify the article remains internally consistent with its new sibling pieces and its core convergence is preserved (the 11:50 UTC review left source unchanged at 1769 words — preserve that discipline).
-- **Source**: chain (from 2026-04-29 12:49 UTC and 13:04 UTC expand-topic completions)
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review project/coherence-inflation-countermeasures.md considering bedrock-clash-vs-absorption.md insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3091,6 +3084,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review concepts/coalesce-condense-apex-stability.md considering closed-loop-opportunity-execution.md and bedrock-clash-vs-absorption.md insights
+- **Type**: cross-review
+- **Notes**: Today's `project/closed-loop-opportunity-execution.md` (12:49 UTC) explicitly cross-references coalesce-condense-apex-stability as "article-level analogue (refactor over existing content) to this cycle-level analogue (genesis-and-integration)". Today's `project/bedrock-clash-vs-absorption.md` (13:04 UTC) cross-references it as "whole-article-structure sibling". The 2026-04-29 11:50 UTC deep-review of coalesce-condense-apex-stability installed reciprocal back-links to apex-articles, taxonomy-of-voids, meta-epistemology-of-limits, and automation — but the two new project articles did not yet exist at that time. Cross-review should (a) add reciprocal `related_articles` entries in `concepts/coalesce-condense-apex-stability.md` pointing to both new articles, (b) install inline cross-references at the points in the article where article-level / cycle-level / objection-handling distinctions become relevant (so future readers can follow the discipline-triangle), (c) check whether the article-level/cycle-level/objection-handling triangle is now coherent enough to warrant explicit naming as a triple-discipline (or whether they remain three independent siblings), (d) verify the article remains internally consistent with its new sibling pieces and its core convergence is preserved (the 11:50 UTC review left source unchanged at 1769 words — preserve that discipline).
+- **Output**: obsidian/concepts/coalesce-condense-apex-stability.md -- Context: Cross-review concepts/coalesce-condense-apex-stability.md considering closed-loop-opportunity-execution.md and bedrock-clash-vs-absorption.md insights
 
 ### ✓ 2026-04-29: Cross-review project/automation.md considering closed-loop-opportunity-execution.md and bedrock-clash-vs-absorption.md insights
 - **Type**: cross-review
