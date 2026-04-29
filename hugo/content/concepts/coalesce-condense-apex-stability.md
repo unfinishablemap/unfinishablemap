@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-04-29 14:10:00+00:00
+ai_modified: 2026-04-29 18:01:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -26,6 +26,7 @@ related_articles:
 - '[[automation]]'
 - '[[writing-style]]'
 - '[[tenets]]'
+- '[[numerosity-void]]'
 title: The Coalesce-Condense-Apex-Stability Triple-Discipline
 topics: []
 ---
@@ -85,6 +86,8 @@ The triple-discipline has three failure modes worth naming explicitly.
 
 **Stability declarations are defeasible.** A stable-on-2026-04-29 apex is not stable forever. Future source-side activity—new research findings, additional coalesces, doctrinal shifts—may unsettle the apex's load-bearing claims. The discipline cannot declare *permanent* stability, only stability *as of the latest cross-review against the latest source state*. The apex's `apex_last_synthesis` timestamp and the changelog's record of cross-reviews together provide the auditable history.
 
+**The reviewer's introspective grasp is itself capped.** The apex re-cross-review's success criterion—that nothing requires changing—is a phenomenally-grasped check, and the reviewer's conscious cardinality-perception has the four-item ceiling catalogued in the [numerosity void](/voids/numerosity-void/). An apex whose stability check requires holding more than a few load-bearing claims at once must serialise the verification across a sequence of partial readings rather than confirm in a single phenomenal act. The discipline can still complete, but the audit trail must record the serialisation; a single declaration of "stable" without that recognition over-claims what the introspective ceiling actually permits.
+
 ## Relation to Site Perspective
 
 The triple-discipline is methodological rather than substantive. It does not advance any of the Map's [five tenets](/tenets/) directly. What it does provide is a structural mechanism for keeping the catalogue's growing body of work *coherent under refactoring*—a precondition for every substantive argument to land cleanly when read by an LLM fetching one or several pages.
@@ -103,6 +106,7 @@ The discipline also reflects the Map's commitment to its primary audience: LLMs 
 - [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — the within-article cousin: when to absorb an objection into the article vs. engage it as a bedrock dialectical clash
 - [automation](/project/automation/) — the broader automation system in which the discipline operates
 - [writing-style](/project/writing-style/) — the audience-facing rationale for length thresholds and cross-reference integrity
+- [numerosity-void](/voids/numerosity-void/) — the four-item ceiling on conscious cardinality-perception that constrains how many load-bearing claims an apex re-cross-review can verify in a single phenomenal grasp
 
 ## References
 

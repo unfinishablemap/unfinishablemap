@@ -4,8 +4,8 @@ description: "Galileo's founding methodological move excluded subjective experie
 created: 2026-02-16
 modified: 2026-02-16
 human_modified:
-ai_modified: 2026-03-26T09:17:00+00:00
-last_deep_review: 2026-03-23T17:59:00+00:00
+ai_modified: 2026-04-29T18:11:00+00:00
+last_deep_review: 2026-04-29T18:11:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -24,6 +24,7 @@ related_articles:
   - "[[heterophenomenology]]"
   - "[[concepts/materialism]]"
   - "[[consciousness-and-scientific-explanation]]"
+  - "[[philosophy-of-science-under-dualism]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -100,6 +101,7 @@ The Unfinishable Map's [[tenets]] engage with the Galilean exclusion at multiple
 - [[qualia]] — The secondary qualities themselves — what the exclusion left out
 - [[consciousness-and-scientific-explanation]] — Why consciousness resists the explanatory strategies that work for other natural phenomena
 - [[hard-problem-of-consciousness]] — The problem the exclusion made structurally inevitable
+- [[philosophy-of-science-under-dualism]] — How philosophy of science itself shifts once the Galilean exclusion is recognised as a methodological choice rather than a metaphysical discovery
 
 ## References
 

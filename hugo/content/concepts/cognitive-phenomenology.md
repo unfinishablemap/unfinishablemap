@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-29 09:56:00+00:00
+ai_modified: 2026-04-29 18:01:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -50,6 +50,7 @@ related_articles:
 - '[[phenomenology-of-linguistic-failure]]'
 - '[[comparative-phenomenology-of-mathematical-insight]]'
 - '[[imagery-void]]'
+- '[[numerosity-void]]'
 title: Cognitive Phenomenology
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -150,8 +151,6 @@ PCT explains several puzzles:
 
 Mathematical understanding shows tight coupling between phenomenology and performance: those who report genuine understanding can apply insights to new problems, while mere verifiers cannot. If the phenomenal difference were confabulation, it wouldn't predict cognitive success so reliably.
 
-The Chinese Room extends to mathematics: a computer verifies proofs without understanding what makes them work. Verification without understanding is possible precisely because understanding requires cognitive phenomenology that makes necessity *visible*.
-
 ## Arguments Against Cognitive Phenomenology
 
 ### Sensory Accompaniment
@@ -239,7 +238,7 @@ The [amplification hypothesis](/concepts/consciousness-as-amplifier/) provides e
 
 ## Evidence from Unusual Cases
 
-People with **aphantasia** (inability to form mental images) still think, understand, and have insights—their cognitive phenomenology cannot reduce to visual imagery. The [imagery-void](/voids/imagery-void/) catalogues the function-phenomenology dissociations this exposes: aphantasics complete mental rotation analytically rather than via image-rotation (Kay, Keogh & Pearson 2024), which Lennon (2023) reads as falsifying the sensory constraint on conscious thought. The [function-phenomenology axis](/concepts/phenomenology-vs-function-axis/) situates this within a cross-domain pattern: parallel dissociations recur in synaesthesia (extra qualia) and agency (Wegner's I-Spy), constraining functionalist absorption in aggregate. Some people report vivid inner speech while others report "thinking in concepts" without verbal accompaniment, suggesting cognitive phenomenology manifests differently across individuals. Additionally, introspective reliability improves with training: expert meditators and subjects guided by the [microphenomenological interview](/topics/microphenomenological-interview-method/) access pre-reflective cognitive content that casual introspection overlooks, narrowing the variation that fuels the unreliability objection.
+People with **aphantasia** (inability to form mental images) still think, understand, and have insights—their cognitive phenomenology cannot reduce to visual imagery. The [imagery-void](/voids/imagery-void/) catalogues the function-phenomenology dissociations this exposes: aphantasics complete mental rotation analytically rather than via image-rotation (Kay, Keogh & Pearson 2024), which Lennon (2023) reads as falsifying the sensory constraint on conscious thought. The [numerosity void](/voids/numerosity-void/) adds a parallel architectural case: cardinal perception ≤4 is phenomenally given without felt operation, displaying individuative phenomenology with the proprietary phenomenology of the producing act structurally absent. The [function-phenomenology axis](/concepts/phenomenology-vs-function-axis/) situates this within a cross-domain pattern: parallel dissociations recur in synaesthesia (extra qualia) and agency (Wegner's I-Spy), constraining functionalist absorption in aggregate. Some people report vivid inner speech while others report "thinking in concepts" without verbal accompaniment, suggesting cognitive phenomenology manifests differently across individuals. Additionally, introspective reliability improves with training: expert meditators and subjects guided by the [microphenomenological interview](/topics/microphenomenological-interview-method/) access pre-reflective cognitive content that casual introspection overlooks, narrowing the variation that fuels the unreliability objection.
 
 ## The Illusionist Challenge
 

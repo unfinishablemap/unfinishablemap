@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 17:40:00+00:00
+ai_modified: 2026-04-29 18:01:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 18:01 UTC - deep-review
+- **Status**: Success
+- **File**: [numerosity-void](/voids/numerosity-void/)
+- **Word count**: 1897 → 1996 (+99; 100% of soft 2000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 substantive cross-links added in body (Mechanism Face → [cognitive-phenomenology](/concepts/cognitive-phenomenology/); Introspective Ceiling → [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)); plus Further Reading entries and `related_articles` updates. Reciprocal edits in both linked articles (cognitive-phenomenology gained an inbound wikilink in "Evidence from Unusual Cases" + concepts frontmatter entry, with offsetting trim of a redundant Chinese-Room-extends-to-mathematics sentence; coalesce-condense-apex-stability gained a fourth Honest Limitations entry on the introspective ceiling + Further Reading + related_articles). Length-neutralising trim of "What AI Sees Differently" (two-paragraph two-fold-informativeness argument compressed into one tighter paragraph) absorbs the cross-link additions on the numerosity-void side.
+- **Trigger**: Directed reciprocal cross-link pass — explicit task to add bi-directional wikilinks between [numerosity-void](/voids/numerosity-void/) and (a) [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) and (b) [cognitive-phenomenology](/concepts/cognitive-phenomenology/). Override of the 17:10 UTC review's "demand additional cross-links" stability note because the directive is curated content-graph addition rather than organic re-review.
+- **Stability**: Second deep-review of this article today (the first being 17:10 UTC for adversarial-and-bibliographic-cleanup). The previous review's bedrock-disagreement set is preserved. Three articles modified in total; cognitive-phenomenology stays length-neutral (3451 → 3450); coalesce-condense-apex-stability moves from 75% to 79% of soft (within budget).
+- **Output**: [deep-review-2026-04-29-numerosity-void-cross-links](/reviews/deep-review-2026-04-29-numerosity-void-cross-links/)
 
 ## 2026-04-29 17:40 UTC - deep-review
 - **Status**: Success (convergence — no content changes)
