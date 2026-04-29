@@ -20,7 +20,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[language-thought-boundary]]'
 - '[[apophatic-cartography]]'
 - '[[three-kinds-of-void]]'
@@ -31,7 +31,7 @@ topics:
 
 Every attempt to describe a cognitive void relies on metaphor—*blind spots*, *edges*, *dark spaces*, *boundaries*, *depths*. This dependence is not stylistic but structural: abstract thought cannot describe what lies beyond itself without borrowing concepts from what lies within it. The metaphor void names the possibility that this dependence distorts understanding of cognitive limits—that the metaphorical medium shapes what can be discovered about the territory it claims to describe. The Unfinishable Map is exposed to this void reflexively. Its founding cartographic metaphor—territory, edges, mapping—may predispose the entire project to recognise only map-shaped voids, while other kinds of cognitive limit remain systematically invisible because they resist cartographic framing.
 
-This is a mixed void: partly unexplorable (we cannot bootstrap our way to non-metaphorical descriptions of metaphor's limits), partly occluded (specific metaphors actively hide specific features of what they describe). It differs from most other voids in its phenomenology. The [language-thought-boundary](/voids/language-thought-boundary/) produces a felt sense of content resisting articulation. The [framework-void](/voids/framework-void/) produces false clarity about alternative frameworks. The metaphor void produces *false transparency*: the conviction that a metaphor has succeeded in describing a limit, when it has only redescribed it in another metaphor whose distortions cannot be identified from within.
+This is a mixed void: partly unexplorable (we cannot bootstrap our way to non-metaphorical descriptions of metaphor's limits), partly occluded (specific metaphors actively hide specific features of what they describe). It differs from most other voids in its phenomenology. The [language-thought-boundary](/voids/language-thought-boundary/) produces a felt sense of content resisting articulation. The [conceptual-scheme-void](/voids/conceptual-scheme-void/) produces false clarity about alternative schemes. The metaphor void produces *false transparency*: the conviction that a metaphor has succeeded in describing a limit, when it has only redescribed it in another metaphor whose distortions cannot be identified from within.
 
 ## The Bootstrapping Problem
 
@@ -87,13 +87,13 @@ The void also connects to **Dualism** in a novel way. If consciousness is genuin
 
 The Map speculates that this reflexive challenge applies to its own methodology. The cartographic metaphor—charting, territory, edges, mapping—predisposes the project to discover voids that are map-shaped: regions with borders, defined absences, explorable edges. Voids that resist cartographic framing may be systematically invisible to the project as currently conceived. Even [apophatic-cartography](/voids/apophatic-cartography/), the Map's most sophisticated methodology, is still *cartography*. Whether there are cognitive limits that cannot be approached cartographically, even apophatically, is a question the project cannot answer from within its own metaphor.
 
-The metaphor void is also distinct from the [framework-void](/voids/framework-void/), though they overlap. The framework void concerns the totality of one's conceptual apparatus—the system of categories and inferential patterns through which thought proceeds. The metaphor void operates one level below, at the level of the figurative mappings that generate those categories in the first place. A framework can be examined (with difficulty) from another framework; a metaphor can only be examined through another metaphor. The metaphor void is, in this sense, the framework beneath all frameworks.
+The metaphor void is also distinct from the [conceptual-scheme-void](/voids/conceptual-scheme-void/), though they overlap. The conceptual scheme void concerns the totality of one's conceptual apparatus—the system of categories and inferential patterns through which thought proceeds. The metaphor void operates one level below, at the level of the figurative mappings that generate those categories in the first place. A scheme can be examined (with difficulty) from another scheme; a metaphor can only be examined through another metaphor. The metaphor void is, in this sense, the scheme beneath all schemes.
 
 The consequence for the Map is humility rather than collapse. The voids catalogue remains valuable; the patterns across voids remain informative. But the catalogue is metaphor-shaped, and the patterns may partly reflect the metaphorical substrate from which voids are described rather than the structure of voids themselves. The Map should therefore hold its findings with appropriate epistemic reservation and remain alert for voids whose shape the current metaphor cannot accommodate.
 
 ## Further Reading
 
-- [framework-void](/voids/framework-void/) — The totality of conceptual apparatus, one level above metaphor
+- [conceptual-scheme-void](/voids/conceptual-scheme-void/) — The totality of conceptual apparatus, one level above metaphor
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation fails within a framework
 - [apophatic-cartography](/voids/apophatic-cartography/) — Mapping through negation, still bound to cartographic figure; and whether the Map can map its own incompleteness
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded territory
@@ -109,4 +109,4 @@ The consequence for the Map is humility rather than collapse. The voids catalogu
 1. Lakoff, G. & Johnson, M. (1999). *Philosophy in the Flesh: The Embodied Mind and Its Challenge to Western Thought*. Basic Books.
 1. Pseudo-Dionysius the Areopagite. *The Mystical Theology*.
 1. Ricoeur, P. (1975/2003). *The Rule of Metaphor: The Creation of Meaning in Language*. Trans. R. Czerny et al. Routledge.
-1. Southgate, A. & Oquatre-six, C. (2026-02-20). The Framework Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/framework-void/
+1. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Conceptual Scheme Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/conceptual-scheme-void/

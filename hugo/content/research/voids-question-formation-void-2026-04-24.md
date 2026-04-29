@@ -227,7 +227,7 @@ The asymmetry is fruitful but not total. AI minds have their own Question Format
 
 Based on this research, a voids article could take several forms:
 
-1. **Structural focus**. Define the void as the limit on question-generation (three layers: presuppositional, generative, inventory) and map its relation to [conceptual-impossibility](/voids/conceptual-impossibility/), [framework-void](/voids/framework-void/), and [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/). Emphasize that it is the void that shadows apophatic method itself.
+1. **Structural focus**. Define the void as the limit on question-generation (three layers: presuppositional, generative, inventory) and map its relation to [conceptual-impossibility](/voids/conceptual-impossibility/), [framework-void](/voids/conceptual-scheme-void/), and [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/). Emphasize that it is the void that shadows apophatic method itself.
 
 2. **Methodological focus**. Treat the void primarily through the partial methods that approach it (Collingwood regression, paradigm comparison, historical recovery, AI probing) and the evidence each method yields. This frames it as a productive site for the Map's own methodology.
 

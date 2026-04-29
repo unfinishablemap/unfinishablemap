@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [The Intrinsic Nature Void](/voids/intrinsic-nature-void/)
 **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-intrinsic-nature-void/)
-**Cross-review context**: [The Categorial Void](/voids/categorial-void/) (created 2026-04-23)
+**Cross-review context**: [The Categorial Void](/voids/conceptual-scheme-void/) (created 2026-04-23)
 
 ## Pessimistic Analysis Summary
 
@@ -27,7 +27,7 @@ topics: []
 None. All six adversarial personas engaged. No factual errors, attribution errors, dropped qualifiers, source/Map conflations, or internal contradictions detected. Attribution accuracy spot-check on Russell (1927), Eddington (1928), Kant, McGinn (1989), Descartes, Leibniz, and Chalmers (2013) all passed.
 
 ### Medium Issues Found
-1. **`[categorial-void](/voids/categorial-void/)` missing from `related_articles` frontmatter**: The newly-created sibling void was linked only in Further Reading. **Resolution**: Added to frontmatter.
+1. **`[categorial-void](/voids/conceptual-scheme-void/)` missing from `related_articles` frontmatter**: The newly-created sibling void was linked only in Further Reading. **Resolution**: Added to frontmatter.
 
 2. **Categorial-void's content/shape distinction not integrated into body**: The Further Reading entry carried the insight but the body did not use it. Two natural junctures existed — the "category-error possibility" bullet (where McGinn's cognitive closure thesis sits) and the close of "Two Directions, One Void" (where the Russellian convergence is stated). **Resolution**: Added one sentence at each juncture — the first sharpens McGinn by recasting the gap as a missing *shape* rather than a missing concept; the second notes how the two voids compound (a Russellian reduction may deliver an answer whose shape our minds cannot hold).
 
@@ -50,12 +50,12 @@ No new counterarguments requiring response identified by this cross-review.
 - Apophatic parallel section (śūnyatā, *neti neti*, *res cogitans*)
 
 ### Enhancements Made
-1. Added `[categorial-void](/voids/categorial-void/)` to `related_articles` frontmatter
+1. Added `[categorial-void](/voids/conceptual-scheme-void/)` to `related_articles` frontmatter
 2. Added ~35 words to "The category-error possibility" bullet sharpening McGinn's closure thesis via the categorial-void's shape-vs-content distinction
 3. Added ~45 words at the end of "Two Directions, One Void" acknowledging how the Russellian convergence compounds with the categorial-void
 
 ### Cross-links Added
-- `[categorial-void](/voids/categorial-void/)` (frontmatter + two inline references in body; Further Reading entry already present)
+- `[categorial-void](/voids/conceptual-scheme-void/)` (frontmatter + two inline references in body; Further Reading entry already present)
 
 ## Word Count
 - Before: 1920 words (96% of 2000 soft threshold)

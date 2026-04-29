@@ -1180,10 +1180,10 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-23 23:29 UTC - deep-review
 - **Status**: Success
 - **File**: [intrinsic-nature-void](/voids/intrinsic-nature-void/)
-- **Context**: Cross-review considering `[categorial-void](/voids/categorial-void/)` (created 2026-04-23). Third deep review of this article.
+- **Context**: Cross-review considering `[categorial-void](/voids/conceptual-scheme-void/)` (created 2026-04-23). Third deep review of this article.
 - **Word count**: 1920 → 1999 (+79, now at 100% of 2000 soft threshold)
 - **Critical issues addressed**: 0 (none found — attribution spot-check on Russell, Eddington, Kant, McGinn, Descartes, Leibniz, Chalmers all clean; bedrock disagreements from prior reviews not re-flagged)
-- **Medium issues addressed**: 2 — (1) added `[categorial-void](/voids/categorial-void/)` to `related_articles` frontmatter (was present in Further Reading only); (2) integrated categorial-void's shape-vs-content distinction into body at two junctures — sharpening the McGinn bullet in "Why the Void Resists" and noting compounding at the close of "Two Directions, One Void"
+- **Medium issues addressed**: 2 — (1) added `[categorial-void](/voids/conceptual-scheme-void/)` to `related_articles` frontmatter (was present in Further Reading only); (2) integrated categorial-void's shape-vs-content distinction into body at two junctures — sharpening the McGinn bullet in "Why the Void Resists" and noting compounding at the close of "Two Directions, One Void"
 - **Enhancements made**: 2 inline links to categorial-void + 1 frontmatter link (three-way bridge completed; Further Reading entry already existed)
 - **Previous review**: [2026-02-25](/reviews/deep-review-2026-02-25-intrinsic-nature-void/)
 - **Stability**: Third consecutive review with no critical issues. Changes have been consistently integrative (acquaintance-void in Feb, categorial-void now) rather than corrective. Future reviews should operate length-neutral.

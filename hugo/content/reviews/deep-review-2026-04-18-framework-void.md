@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-18
-**Article**: [The Framework Void](/voids/framework-void/)
+**Article**: [The Framework Void](/voids/conceptual-scheme-void/)
 **Previous review**: [2026-04-17](/reviews/deep-review-2026-04-17-framework-void/)
 **Cross-review context**: framework-void ↔ transformative-experience-void (published 2026-04-17)
 
@@ -27,7 +27,7 @@ topics: []
 - None. Attribution checks pass: Kuhn, Feyerabend, Gadamer, Heidegger, Davidson, McGinn citations remain accurate and qualifier-preserving. No source/Map conflation introduced.
 
 ### Medium Issues Found
-- **Missing cross-link to transformative-experience-void** (published 2026-04-17): The new void article explicitly cites framework-void as the lens through which it reads decision theory's exclusion of transformative choice ("The Map's framework-void perspective (see [framework-void](/voids/framework-void/)) reads the situation differently: the elegance and simplicity of orthodox decision theory is precisely what excludes these cases"). Framework-void had no reciprocal acknowledgment. Resolution: Added to frontmatter related_articles, added brief clause in the Occam's Razor tenet section, added Further Reading entry.
+- **Missing cross-link to transformative-experience-void** (published 2026-04-17): The new void article explicitly cites framework-void as the lens through which it reads decision theory's exclusion of transformative choice ("The Map's framework-void perspective (see [framework-void](/voids/conceptual-scheme-void/)) reads the situation differently: the elegance and simplicity of orthodox decision theory is precisely what excludes these cases"). Framework-void had no reciprocal acknowledgment. Resolution: Added to frontmatter related_articles, added brief clause in the Occam's Razor tenet section, added Further Reading entry.
 - **Davidson passage mildly redundant**: The two-clause gloss on the principle of charity repeated itself. Resolution: Kept the affirmative clause, trimmed the symmetrical "if we cannot…" clause, which the surrounding text already implies.
 - **Mind-body persistence paragraph slightly verbose**: Resolution: Tightened without losing the convergence-failure argument.
 

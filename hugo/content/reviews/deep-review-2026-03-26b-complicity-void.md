@@ -49,13 +49,13 @@ topics: []
   5. [biological-cognitive-closure](/voids/biological-cognitive-closure/) — in "Why Limits Are Adaptive" section
   6. [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/) — in "Strategic Self-Opacity" section
   7. [self-transcendence-void](/voids/self-transcendence-void/) — in "Buddhist Self-Effort Paradox" section
-  8. [framework-void](/voids/framework-void/) — in phenomenology section
+  8. [framework-void](/voids/conceptual-scheme-void/) — in phenomenology section
   9. [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — in "Structure of Bad Faith" section
 
 ### Cross-links Added
 - Added to complicity-void's related_articles: [existentialism](/concepts/nihilism-and-existentialism/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/), [narrative-void](/voids/narrative-void/)
 - Added complicity-void to Further Reading in: [cognitive-aversion](/voids/defended-territory/), [defended-territory](/voids/self-maintained-cognitive-limits/)
-- Added complicity-void body links in: [self-opacity](/voids/self-opacity/), [existentialism](/concepts/nihilism-and-existentialism/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/), [self-transcendence-void](/voids/self-transcendence-void/), [framework-void](/voids/framework-void/), [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
+- Added complicity-void body links in: [self-opacity](/voids/self-opacity/), [existentialism](/concepts/nihilism-and-existentialism/), [biological-cognitive-closure](/voids/biological-cognitive-closure/), [adaptive-cognitive-limits](/concepts/adaptive-cognitive-limits/), [self-transcendence-void](/voids/self-transcendence-void/), [framework-void](/voids/conceptual-scheme-void/), [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/)
 
 ## Remaining Items
 

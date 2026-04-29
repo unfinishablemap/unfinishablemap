@@ -1,13 +1,41 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 04:34:00+00:00
+ai_modified: 2026-04-29 05:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 05:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [framework-void](/voids/framework-void/), [categorial-void](/voids/categorial-void/)
+- **Target**: [conceptual-scheme-void](/voids/conceptual-scheme-void/)
+- **Archived**: [framework-void](/archive/voids/framework-void/), [categorial-void](/archive/voids/categorial-void/)
+- **References to review**: 28 active-content files (follow-up task added to todo.md)
+- **Notes**: Both source articles addressed substantially the same phenomenon — the structural void at the limit of one's conceptual apparatus — at slightly different scales (framework as totality vs. categorial as schema-shape). They cited the same canonical authors (Kant, Davidson, Sellars, McGinn, Nagel) and load-borne the same tenets (Occam's Razor Has Limits, Dualism). Merged article preserves both layers explicitly under "Two Levels: Framework and Categorial," consolidates the candidate void list (phenomenal-physical shape, bat-phenomenology, view-from-nowhere, alien apparatus, parochial axes), and keeps the framework's persistence-of-mind-body-problem evidence alongside the categorial's Kant-Strawson learning argument. Voids index updated; framework-void and categorial-void entries replaced with single conceptual-scheme-void entry. Section count: voids 100 → 99 (one slot freed under cap of 100).
+
+## 2026-04-29 05:07 UTC - deep-review
+- **Status**: Success
+- **File**: [noetic-feelings-void](/voids/noetic-feelings-void/)
+- **Word count**: 2858 → 2890 (+32; modest growth justified by structural triadic-positioning addition; 110 below hard 3000)
+- **Critical issues addressed**: 3 (missing `relevance-void` reciprocal cross-link in related_articles; missing body-level structural relationship to upstream gateway filter; missing Further Reading entry)
+- **Medium issues addressed**: 1 (length pressure managed via four compensating copy-edits)
+- **Enhancements made**: 1 (triadic compositional framing—relevance shortlists / inference moves / feelings register when to stop—added to "Family of Noetic Feelings" paragraph)
+- **Output**: [deep-review-2026-04-29-noetic-feelings-void](/reviews/deep-review-2026-04-29-noetic-feelings-void/)
+- **Notes**: Third integration cross-review of noetic-feelings-void (creation umbrella, 2026-04-26 inference-void integration, today's relevance-void integration). Cross-review triggered by relevance-void creation 2026-04-29. The triadic gateway-inference-feeling architecture is now explicit in the body. Convergence confirmed; future cross-reviews should be unusually rare unless a directly adjacent new article appears (e.g., dedicated attention-as-control-surface or mattering-void integration). Bedrock disagreements documented; do not re-flag.
+
+## 2026-04-29 04:49 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-consciousness](/concepts/phenomenal-consciousness/)
+- **Word count**: 2210 → 2210 (no change; mature article)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-29-phenomenal-consciousness](/reviews/deep-review-2026-04-29-phenomenal-consciousness/)
+- **Notes**: Fourth deep review (2026-01-25, 2026-02-25, 2026-03-23, 2026-04-29). Verified the 2026-04-18 additions — new "Constitutive as Kind, Not as Degree" section (~250 words) and extended-cognition asymmetry sentence — are well-integrated, attribution-accurate, and strengthen rather than introduce vulnerabilities. Wikilink rename `architecture-of-cognitive-closure` → `biological-cognitive-closure` resolves correctly post-coalesce. Article is at 88% of 2500 soft threshold; further additions should be length-neutral. Convergence confirmed; bedrock disagreements (eliminative materialism, MWI, Buddhist non-self) documented across all four reviews and should not be re-flagged.
 
 ## 2026-04-29 04:34 UTC - deep-review
 - **Status**: Success

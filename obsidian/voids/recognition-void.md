@@ -20,7 +20,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[self-opacity]]"
-  - "[[framework-void]]"
+  - "[[conceptual-scheme-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[causal-interface]]"
   - "[[binding-void]]"
@@ -118,7 +118,7 @@ The Recognition Void engages multiple [[tenets]].
 
 - [[self-opacity|introspective opacity]]
 - [[biological-cognitive-closure]]
-- [[framework-void]]
+- [[conceptual-scheme-void]]
 - [[causal-interface]]
 - [[binding-void]]
 - [[non-human-minds-as-void-explorers]]

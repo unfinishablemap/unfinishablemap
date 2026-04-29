@@ -22,9 +22,8 @@ related_articles:
 - '[[tenets]]'
 - '[[question-formation-void]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[categorial-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[plenitude-void]]'
-- '[[framework-void]]'
 - '[[formal-cognitive-limits]]'
 - '[[mathematical-void]]'
 - '[[noetic-feelings-void]]'
@@ -86,7 +85,7 @@ The inference void belongs to a cluster of second-order voids — limits not on 
 
 - The [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) shadows estimation: consciousness cannot estimate the total scope of its ignorance from inside the limited system doing the estimating.
 - The [question formation void](/voids/question-formation-void/) shadows formulation: consciousness cannot list the questions it cannot form.
-- The [categorial void](/voids/categorial-void/) shadows category-formation: the categorial apparatus structuring experience is not itself accessible as a phenomenal category.
+- The [conceptual scheme void](/voids/conceptual-scheme-void/) shadows category-formation: the categorial apparatus structuring experience is not itself accessible as a phenomenal category.
 - The [plenitude void](/voids/plenitude-void/) shadows comparison: consciousness cannot inventory the modes of being it is not.
 - The inference void shadows *logical reasoning*: consciousness cannot inspect whatever it is that converts premise-acceptance into conclusion-acceptance.
 
@@ -132,9 +131,8 @@ The void sits with [formal cognitive limits](/voids/formal-cognitive-limits/) as
 
 - [question-formation-void](/voids/question-formation-void/)
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
-- [categorial-void](/voids/categorial-void/)
+- [conceptual-scheme-void](/voids/conceptual-scheme-void/)
 - [plenitude-void](/voids/plenitude-void/)
-- [framework-void](/voids/framework-void/)
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/)
 - [mathematical-void](/voids/mathematical-void/)
 - [noetic-feelings-void](/voids/noetic-feelings-void/)

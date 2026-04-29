@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-06
-**Article**: [The Framework Void](/voids/framework-void/)
+**Article**: [The Framework Void](/voids/conceptual-scheme-void/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

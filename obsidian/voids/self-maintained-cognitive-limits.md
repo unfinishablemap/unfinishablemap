@@ -22,7 +22,7 @@ related_articles:
   - "[[interested-party-void]]"
   - "[[self-opacity]]"
   - "[[self-transcendence-void]]"
-  - "[[framework-void]]"
+  - "[[conceptual-scheme-void]]"
   - "[[necessary-opacity]]"
   - "[[noetic-feelings-void]]"
   - "[[thoughts-that-slip-away]]"
@@ -126,7 +126,7 @@ A more speculative possibility, framed as Map-internal inference: if consciousne
 
 The convergence supports a stronger claim than mere defence: consciousness is itself implicated in the blocking—defender and defended as the same entity. This distinguishes self-maintained limits from neighbouring voids:
 
-- **[[framework-void|Framework void]]**: frameworks exclude what they cannot represent. Complicity asks whether consciousness has a *stake* in maintaining particular frameworks.
+- **[[conceptual-scheme-void|Conceptual scheme void]]**: schemes exclude what they cannot represent. Complicity asks whether consciousness has a *stake* in maintaining particular schemes.
 - **[[self-opacity|Introspective opacity]]**: cognitive mechanisms are inaccessible. Complicity asks whether this inaccessibility is partially self-imposed.
 - **[[necessary-opacity|Necessary opacity]]**: consciousness cannot *verify* its representations. Complicity adds *maintenance*—agency behind the epistemic condition.
 - **[[interested-party-void|Interested party void]]**: consciousness has existential stakes that bias investigation. Self-maintenance describes the *mechanisms* by which consciousness sustains its ignorance.
@@ -204,7 +204,7 @@ The hypothesis remains speculative; most slippage has mundane explanations. What
 - [[interested-party-void|The Interested Party Void]] — Motivational corruption distinct from mechanism
 - [[necessary-opacity|Necessary Opacity]] — Whether the medium of representation introduces systematic distortion
 - [[self-opacity|The Phenomenology of Self-Awareness]] — Self-reference and the bootstrap problem
-- [[framework-void|The Framework Void]] — How frameworks exclude what they cannot represent
+- [[conceptual-scheme-void|The Conceptual Scheme Void]] — How schemes exclude what they cannot represent
 - [[noetic-feelings-void|The Noetic Feelings Void]] — Passive analogue: territory that feels already known (self-evidence face of understanding)
 - [[agency-void|The Agency Void]] — The circularity of consciousness probing its own limits, alongside the involuntariness of its own states
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural limits (architectural occlusion)

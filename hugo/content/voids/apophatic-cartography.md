@@ -40,7 +40,7 @@ related_articles:
 - '[[formal-cognitive-limits]]'
 - '[[three-kinds-of-void]]'
 - '[[question-formation-void]]'
-- '[[categorial-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[suspension-void]]'
 - '[[conjunction-coalesce]]'
 title: 'Apophatic Cartography: Method and Its Limits'

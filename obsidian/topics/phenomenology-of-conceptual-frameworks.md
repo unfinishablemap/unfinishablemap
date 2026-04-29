@@ -22,7 +22,7 @@ concepts:
   - "[[temporal-structure-of-understanding]]"
 related_articles:
   - "[[tenets]]"
-  - "[[framework-void]]"
+  - "[[conceptual-scheme-void]]"
   - "[[language-thought-boundary]]"
   - "[[conceptual-impossibility]]"
   - "[[biological-cognitive-closure]]"
@@ -167,7 +167,7 @@ The Unfinishable Map's own theoretical commitments — its five [[tenets]] — a
 
 **[[tenets#^no-many-worlds|No Many Worlds]]**: Framework change is singular and irreversible. After a genuine shift, you inhabit *this* framework, not multiple frameworks simultaneously. The experienced irreversibility presupposes that framework change is a real transition, not a branching into parallel versions of oneself. The determinacy of "which framework do *I* now inhabit?" reflects real collapse, not the illusion of collapse within one branch.
 
-The analysis also resonates with McGinn's (1989) [[mysterianism]]. If frameworks constrain not just what we think but what we can experience, cognitive closure acquires a phenomenological dimension — some aspects of consciousness may be structurally inaccessible not because they are inherently mysterious, but because every framework filters out precisely what would need to be noticed. The [[framework-void]] explores this structural impossibility from outside; this article has explored what it feels like from within.
+The analysis also resonates with McGinn's (1989) [[mysterianism]]. If frameworks constrain not just what we think but what we can experience, cognitive closure acquires a phenomenological dimension — some aspects of consciousness may be structurally inaccessible not because they are inherently mysterious, but because every framework filters out precisely what would need to be noticed. The [[conceptual-scheme-void]] explores this structural impossibility from outside; this article has explored what it feels like from within.
 
 ## What Would Challenge This View?
 
@@ -180,7 +180,7 @@ The claim that framework inhabitation and change have irreducible phenomenal cha
 
 ## Further Reading
 
-- [[framework-void]] — The structural analysis of frameworks as cognitive prisons
+- [[conceptual-scheme-void]] — The structural analysis of conceptual schemes as cognitive prisons
 - [[language-thought-boundary]] — Where articulation fails within a framework
 - [[biological-cognitive-closure]] — Cross-cultural evidence for species-level framework constraints
 - [[what-voids-reveal]] — What cognitive limits reveal about the architecture of mind

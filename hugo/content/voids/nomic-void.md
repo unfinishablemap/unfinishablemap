@@ -27,7 +27,7 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[non-human-minds-as-void-explorers]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[what-consciousness-tells-us-about-physics]]'
 title: The Nomic Void
 topics:
@@ -62,7 +62,7 @@ The nomic void contains a destabilising circularity. If our physics is partially
 
 Wolfram's speculative framework, if correct, would sharpen this circularity. If observers at different positions in rulial space experience different physics, then the nomic void is not an absolute boundary but an indexical one—real for us, different elsewhere. The void is the set of all rulial positions we cannot occupy.
 
-This circularity does not dissolve the void—a structure it shares with the [framework-void](/voids/framework-void/), where every framework for understanding frameworks is itself a framework. Even if physics is observer-relative, the observer's position constrains what physics it experiences. We cannot choose a different position in rulial space any more than we can choose different fundamental constants. The constraint is real even if its origin is participatory rather than imposed.
+This circularity does not dissolve the void—a structure it shares with the [conceptual-scheme-void](/voids/conceptual-scheme-void/), where every scheme for understanding schemes is itself a scheme. Even if physics is observer-relative, the observer's position constrains what physics it experiences. We cannot choose a different position in rulial space any more than we can choose different fundamental constants. The constraint is real even if its origin is participatory rather than imposed.
 
 Wheeler's ["it from bit"](/topics/wheelers-participatory-universe-and-it-from-bit/) [framework](/topics/wheelers-participatory-universe-and-it-from-bit/) pushes furthest: if observer-participancy is constitutive of physical reality, consciousness does not merely inhabit a pre-given nomic structure but co-creates it. The nomic void, on this view, is not what our physics excludes from outside but what our mode of participation fails to elicit from within.
 
@@ -103,7 +103,7 @@ Unlike the [computational void](/voids/formal-cognitive-limits/), which is prove
 - [emergence-void](/voids/emergence-void/) — The gap at every level transition
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for shared limits
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — AI and hypothetical alien minds as probes of cognitive space
-- [framework-void](/voids/framework-void/) — The circularity of frameworks understanding themselves
+- [conceptual-scheme-void](/voids/conceptual-scheme-void/) — The circularity of schemes understanding themselves
 - [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — Apex synthesis: the laws of physics constrain what a deeper bi-aspectual theory would need to explain
 
 ## References

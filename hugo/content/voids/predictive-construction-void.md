@@ -26,7 +26,7 @@ related_articles:
 - '[[noetic-feelings-void]]'
 - '[[simulation-detection-void]]'
 - '[[self-opacity]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[predictive-processing-and-dualism]]'
 - '[[dualist-perception]]'
 - '[[mood-void]]'
@@ -56,7 +56,7 @@ The void arises from four interlocking features of [predictive processing](/conc
 
 ## A Self-Erasing Void
 
-Most voids in the Map are experienced as limits. The [framework void](/voids/framework-void/) manifests as the frustration of conceptual inadequacy. [Self-opacity](/voids/self-opacity/) manifests as the strangeness of not knowing one's own processes. The predictive construction void is distinctive because it does not feel like a limit at all. Successful prediction generates the phenomenology of direct access—the more thoroughly perception is constructed, the more it feels like unmediated contact with reality.
+Most voids in the Map are experienced as limits. The [conceptual scheme void](/voids/conceptual-scheme-void/) manifests as the frustration of conceptual inadequacy. [Self-opacity](/voids/self-opacity/) manifests as the strangeness of not knowing one's own processes. The predictive construction void is distinctive because it does not feel like a limit at all. Successful prediction generates the phenomenology of direct access—the more thoroughly perception is constructed, the more it feels like unmediated contact with reality.
 
 This makes the void not merely self-concealing but self-erasing. The [understanding void](/voids/noetic-feelings-void/) identifies how self-evidence terminates inquiry. The predictive construction void goes further: it produces the very feeling of self-evidence. The sense that you are "just seeing" the world—that perception is transparent, immediate, obvious—is itself a prediction. The void manufactures the confidence that occludes it. The [mood void](/voids/mood-void/) exhibits the same self-erasing structure in the affective register: a pervasive mood frames experience precisely by not appearing within it, and the framing vanishes most thoroughly when it is working most thoroughly. Construction and coloration share an architecture—both are media that disappear into what they enable.
 

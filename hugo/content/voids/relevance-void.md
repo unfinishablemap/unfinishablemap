@@ -25,7 +25,7 @@ related_articles:
 - '[[mattering-void]]'
 - '[[attention-and-consciousness]]'
 - '[[noetic-feelings-void]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[predictive-construction-void]]'
 - '[[resolution-void]]'
 - '[[self-opacity]]'
@@ -49,7 +49,7 @@ The [mattering void](/voids/mattering-void/) concerns *that* anything shows up a
 
 The [attention void](/voids/attention-and-consciousness/) concerns the *control surface* — how attention is deployed, captured, redirected. The relevance void is logically prior: attention picks among already-relevant items; the relevance filter shortlists.
 
-The [framework void](/voids/framework-void/) concerns conceptual frameworks that exclude what they cannot represent. The relevance void operates inside a framework: even when a concept is fully available, the filter still has to decide whether *it bears on this case*. Framework limits are about what can be thought; relevance limits are about what is currently being thought *with*.
+The [conceptual scheme void](/voids/conceptual-scheme-void/) concerns conceptual schemes that exclude what they cannot represent. The relevance void operates inside a scheme: even when a concept is fully available, the filter still has to decide whether *it bears on this case*. Scheme limits are about what can be thought; relevance limits are about what is currently being thought *with*.
 
 The [predictive construction void](/voids/predictive-construction-void/) concerns the boundary between received and constructed content. The relevance void targets a narrower step: which built-or-received elements get marked as in-play. The voids interact — predictive priors *are* a major source of relevance weighting — but they decouple in principle.
 
@@ -104,7 +104,7 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 - [mattering-void](/voids/mattering-void/)
 - [attention-and-consciousness](/voids/attention-and-consciousness/)
 - [noetic-feelings-void](/voids/noetic-feelings-void/)
-- [framework-void](/voids/framework-void/)
+- [conceptual-scheme-void](/voids/conceptual-scheme-void/)
 - [predictive-construction-void](/voids/predictive-construction-void/)
 - [resolution-void](/voids/resolution-void/)
 - [question-formation-void](/voids/question-formation-void/)

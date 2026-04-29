@@ -23,12 +23,12 @@ topics: []
 ## Pessimistic Analysis Summary
 
 ### Critical Issues Found
-- **Broken wikilink `consciousness-measurement-problem`**: No article with this slug exists (only a research note with a different name). Appeared in body text and in `related_articles` frontmatter. Resolution: replaced with `[measurement problem](/concepts/measurement-problem/)` linking to the existing concept, and added a sentence connecting to `[framework-void](/voids/framework-void/)` which captures the broader point about empirical incommensurability.
+- **Broken wikilink `consciousness-measurement-problem`**: No article with this slug exists (only a research note with a different name). Appeared in body text and in `related_articles` frontmatter. Resolution: replaced with `[measurement problem](/concepts/measurement-problem/)` linking to the existing concept, and added a sentence connecting to `[framework-void](/voids/conceptual-scheme-void/)` which captures the broader point about empirical incommensurability.
 
 ### Medium Issues Found
 - **Split-brain computational claim overstated**: "A computational system losing 99% of its cross-module bandwidth should show proportional degradation, not binary preservation" was stated as universal truth. Resolution: qualified with "On standard computational models" and "would typically produce."
 - **Keppler energy gap claim insufficiently hedged**: The conditional about energy gaps protecting coherence domains was presented without noting that this protection is undemonstrated in cortical tissue. Resolution: added explicit caveat "though whether such protection actually occurs in cortical tissue remains to be demonstrated."
-- **Missing cross-links**: No links to `[framework-void](/voids/framework-void/)`, `[psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)`, or `[quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)` despite clear topical relevance. Resolution: added all three as cross-links in body text and Further Reading.
+- **Missing cross-links**: No links to `[framework-void](/voids/conceptual-scheme-void/)`, `[psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)`, or `[quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)` despite clear topical relevance. Resolution: added all three as cross-links in body text and Further Reading.
 
 ### Attribution Accuracy Check
 - COGITATE claims: Consistent with reference 1 and other Map articles (NCC concept, framework-void). Quotes properly attributed to "the consortium."
@@ -64,7 +64,7 @@ No misattribution, dropped qualifiers, or source/Map conflation detected.
 - Updated related_articles frontmatter (removed broken link, added three valid links)
 
 ### Cross-links Added
-- [framework-void](/voids/framework-void/)
+- [framework-void](/voids/conceptual-scheme-void/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [measurement-problem](/concepts/measurement-problem/) (replaced broken link)

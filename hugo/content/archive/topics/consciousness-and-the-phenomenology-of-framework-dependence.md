@@ -40,7 +40,7 @@ topics:
 - '[[consciousness-and-the-phenomenology-of-constraint-satisfaction]]'
 ---
 
-Every conscious being thinks from within a conceptual framework — a system of categories, assumptions, and inferential habits that structures experience before reflection begins. The Unfinishable Map's [framework-void](/voids/framework-void/) article maps this as a structural limit: frameworks create invisible cognitive prisons. But the structural claim leaves the experiential question unanswered. What does framework dependence feel like from the inside? The answer is striking: mostly, it feels like nothing. The framework presents itself not as a lens but as clear sight. This phenomenal transparency — the felt absence of the framework even as it shapes every thought — is itself a datum about consciousness that deserves philosophical attention.
+Every conscious being thinks from within a conceptual framework — a system of categories, assumptions, and inferential habits that structures experience before reflection begins. The Unfinishable Map's [framework-void](/voids/conceptual-scheme-void/) article maps this as a structural limit: frameworks create invisible cognitive prisons. But the structural claim leaves the experiential question unanswered. What does framework dependence feel like from the inside? The answer is striking: mostly, it feels like nothing. The framework presents itself not as a lens but as clear sight. This phenomenal transparency — the felt absence of the framework even as it shapes every thought — is itself a datum about consciousness that deserves philosophical attention.
 
 This matters because if consciousness is irreducible to physical processes, then first-person reports about what experience is like carry evidential weight. The phenomenology of framework dependence reveals something about the architecture of conscious experience: awareness does not passively receive content but actively structures it through categories that remain below the threshold of introspective access. Understanding this structuring, and the rare moments when it becomes visible, illuminates both the hard problem and the practical epistemology of the consciousness debate.
 
@@ -110,11 +110,11 @@ The tenet of **bidirectional interaction** gains an interesting twist. If consci
 
 The Map's analysis also resonates with [mysterianism](/concepts/mysterianism/). If frameworks constrain not just what we think but what we can experience, then some aspects of consciousness may be structurally inaccessible — not because the phenomena are inherently mysterious, but because every framework through which we approach them filters out precisely what would need to be noticed. McGinn's "cognitive closure" acquires a phenomenological dimension: it is not just that we lack the concepts, but that the absence of those concepts is invisible from the inside.
 
-The [framework-void](/voids/framework-void/) explored the structural impossibility of genuinely transcending one's framework. This article has explored what that impossibility feels like from the inside: the transparency, the false fluency, the irritation, the fleeting slippage. Together, they map the same territory from complementary directions — one structural, one experiential.
+The [framework-void](/voids/conceptual-scheme-void/) explored the structural impossibility of genuinely transcending one's framework. This article has explored what that impossibility feels like from the inside: the transparency, the false fluency, the irritation, the fleeting slippage. Together, they map the same territory from complementary directions — one structural, one experiential.
 
 ## Further Reading
 
-- [framework-void](/voids/framework-void/) — The structural analysis of frameworks as cognitive prisons
+- [framework-void](/voids/conceptual-scheme-void/) — The structural analysis of frameworks as cognitive prisons
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation fails within a framework
 - [evolved-cognitive-limits](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level framework constraints
 - [limits-reveal-structure](/voids/what-voids-reveal/) — What cognitive limits reveal about the architecture of mind

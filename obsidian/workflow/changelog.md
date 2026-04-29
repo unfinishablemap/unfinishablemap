@@ -5,6 +5,11 @@ ai_modified: 2026-04-29 05:25:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-29 05:34 UTC - refine-draft
+- **Status**: Success
+- **Files**: 28 active-content files (25 voids/, 1 apex/, 2 topics/)
+- **Notes**: Migrated all `[[framework-void]]` and `[[categorial-void]]` wikilinks to `[[conceptual-scheme-void]]` after the 05:25 UTC coalesce. Frontmatter `related_articles` updated with deduplication where both source slugs appeared. Inline references rephrased to use "conceptual scheme" terminology while preserving the framework/categorial distinction in the few articles that contrasted them as separate concepts (commensurability-void, conceptual-metabolism-void, metaphor-void, question-formation-void, relevance-void). Citation references and URLs updated. Historical files (reviews/, research/, workflow/archive/) intentionally not modified — they preserve the state at the time of writing.
+
 ## 2026-04-29 05:25 UTC - coalesce
 - **Status**: Success
 - **Sources**: [[voids/framework-void]], [[voids/categorial-void]]

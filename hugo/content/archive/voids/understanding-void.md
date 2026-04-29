@@ -163,7 +163,7 @@ Current evidence: the illusion persists across domains and expertise levels, cro
 - [language-thought-boundary](/voids/language-thought-boundary/) — Articulation constraints on comprehension
 - [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — Where insight originates
 - [phenomenal-quality-void](/voids/phenomenal-quality-void/) — Why immediacy hides its own mechanisms
-- [framework-void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
+- [framework-void](/voids/conceptual-scheme-void/) — How conceptual frameworks exclude what they cannot represent
 - [Cognitive Aversion](/voids/self-maintained-cognitive-limits/) — Thoughts we systematically flee
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — The cognitive bias behind Occam's Razor
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — The topology of cognitive failure

@@ -28,7 +28,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[noetic-feelings-void]]'
 - '[[observation-and-measurement-void]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[voids-interested-party-void-2026-04-15]]'
 title: The Interested Party Void

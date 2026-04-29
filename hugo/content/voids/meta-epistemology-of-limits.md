@@ -50,7 +50,7 @@ related_articles:
 - '[[phenomenal-quality-void]]'
 - '[[noetic-feelings-void]]'
 - '[[plenitude-void]]'
-- '[[categorial-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[suspension-void]]'
 - '[[inference-void]]'
 - '[[question-formation-void]]'
@@ -79,7 +79,7 @@ Dennett and others argue cognitive closure remains undemonstrated: McGinn owes a
 
 ### The Pessimist Position
 
-Chomsky and McGinn argue cognitive limits follow from basic biology: any endowment providing scope also imposes limits. Chomsky distinguishes *problems* (solvable by our architecture) from *mysteries* (requiring concepts outside what minds like ours can form). [Evolution shaped cognition for specific tasks](/voids/biological-cognitive-closure/); there is no reason to expect universal access to truth. McGinn formalises this as *cognitive closure*: a rat is closed to calculus not for lack of effort but because its concept-forming procedures cannot extend there. Critiques (Kriegel, Demircioglu, Vlerick-Boudry) separate *representational* from *psychological* closure—we may represent what would count as a solution while remaining unable to grasp it. The [closure-types void](/voids/closure-types-void/) makes this a second-order limit: no reliable procedure distinguishes which type one faces from inside. The [categorial void](/voids/categorial-void/) drops a level further—what minds may lack is not a specific concept but the categorial *shape* any such concept would need to take.
+Chomsky and McGinn argue cognitive limits follow from basic biology: any endowment providing scope also imposes limits. Chomsky distinguishes *problems* (solvable by our architecture) from *mysteries* (requiring concepts outside what minds like ours can form). [Evolution shaped cognition for specific tasks](/voids/biological-cognitive-closure/); there is no reason to expect universal access to truth. McGinn formalises this as *cognitive closure*: a rat is closed to calculus not for lack of effort but because its concept-forming procedures cannot extend there. Critiques (Kriegel, Demircioglu, Vlerick-Boudry) separate *representational* from *psychological* closure—we may represent what would count as a solution while remaining unable to grasp it. The [closure-types void](/voids/closure-types-void/) makes this a second-order limit: no reliable procedure distinguishes which type one faces from inside. The [conceptual scheme void](/voids/conceptual-scheme-void/) drops a level further—what minds may lack is not a specific concept but the categorial *shape* any such concept would need to take.
 
 ### The Suspended Position
 
@@ -190,7 +190,7 @@ None of these has been met. The hard problem remains as puzzling after 30 years 
 - [The Inspection Paradox](/concepts/inspection-paradox/) — The general structural pattern
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why the stamp of realness hides itself
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — Systematic account of limit-claim methods
-- [The Categorial Void](/voids/categorial-void/) — When the mind lacks the categorial shape
+- [The Conceptual Scheme Void](/voids/conceptual-scheme-void/) — When the mind lacks the categorial shape
 - [The Suspension Void](/voids/suspension-void/) — Why the suspended position inherits structural limits
 
 ## References

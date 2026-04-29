@@ -50,13 +50,13 @@ topics: []
 ### Enhancements Made
 - Corrected Chalmers characterization (metaphysical vs. nomological necessity)
 - Added Bérut et al. (2012) experimental citation for Landauer's principle
-- Added [framework-void](/voids/framework-void/) cross-link in circularity section (shared structure)
+- Added [framework-void](/voids/conceptual-scheme-void/) cross-link in circularity section (shared structure)
 - Added "No Many Worlds" tenet connection in Relation to Site Perspective
 - Added framework-void to Further Reading and related_articles
 - Removed stale AI refinement log comment
 
 ### Cross-links Added
-- [framework-void](/voids/framework-void/) (circularity section + Further Reading)
+- [framework-void](/voids/conceptual-scheme-void/) (circularity section + Further Reading)
 
 ## Remaining Items
 

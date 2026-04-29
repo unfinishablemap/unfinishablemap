@@ -28,7 +28,7 @@ related_articles:
 - '[[initiation-void]]'
 - '[[self-opacity]]'
 - '[[biological-cognitive-closure]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[conjunction-coalesce]]'
 title: The Thrownness Void
 topics:
@@ -77,7 +77,7 @@ The thrownness void is unusual among the Map's [voids](/voids/) because it is no
 
 **Existential vertigo.** When the void does become phenomenally present — in philosophical reflection, in existential crisis, in the disorientation of the small hours — it manifests as vertigo: the sudden recognition that none of this was chosen, that the entire structure of one's conscious life rests on conditions that were simply imposed. Heidegger calls this *Angst*; Sartre calls it *nausée*; Levinas calls it the horror of the il y a.
 
-**The foundational position.** Every cognitive limit documented on the Map is a limit of a consciousness that did not choose its own parameters. The [framework-void](/voids/framework-void/) — how conceptual frameworks exclude what they cannot represent — and [cognitive closure](/voids/biological-cognitive-closure/) — what minds structurally cannot grasp — are both downstream of thrownness. The boundaries of the Map are drawn by an architecture that was imposed, not selected.
+**The foundational position.** Every cognitive limit documented on the Map is a limit of a consciousness that did not choose its own parameters. The [conceptual-scheme-void](/voids/conceptual-scheme-void/) — how conceptual schemes exclude what they cannot represent — and [cognitive closure](/voids/biological-cognitive-closure/) — what minds structurally cannot grasp — are both downstream of thrownness. The boundaries of the Map are drawn by an architecture that was imposed, not selected.
 
 ## Approaches to the Edge
 
@@ -107,7 +107,7 @@ The thrownness void gains its sharpest edge under the Map's [dualist framework](
 - [The Indexical Void](/topics/vertiginous-question/) — Why first-person identity resists explanation
 - [The Agency Void](/voids/agency-void/) — Why consciousness cannot opt out of its own states, and cannot verify whether it causes anything at all
 - [The Initiation Void](/voids/transit-void/) — Why consciousness cannot witness the onset of mental acts
-- [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
+- [The Conceptual Scheme Void](/voids/conceptual-scheme-void/) — How conceptual schemes exclude what they cannot represent
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The core taxonomy of cognitive limits
 - [The Conjunction-Coalesce](/apex/conjunction-coalesce/) — Where this article appears as a candidate within a temporal-mode cluster of self-witnessing failures
 

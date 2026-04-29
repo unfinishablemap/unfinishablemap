@@ -17,7 +17,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[mutation-void]]"
-  - "[[framework-void]]"
+  - "[[conceptual-scheme-void]]"
   - "[[noetic-feelings-void]]"
   - "[[disappearance-voids]]"
   - "[[non-human-minds-as-void-explorers]]"
@@ -65,7 +65,7 @@ The conceptual metabolism void neighbours several related [[voids]] but differs 
 
 The [[mutation-void]] concerns thoughts that change under inspection — attention itself transforms the content. Conceptual metabolism operates through *integration*, not inspection. The concept changes because it is being fitted into a larger structure of understanding, not because consciousness directs attention at it.
 
-The [[framework-void]] marks what conceptual frameworks exclude — what they cannot represent at all. Conceptual metabolism concerns what frameworks *do* represent and how representing it transforms the representation. The framework void is about exclusion; the metabolism void is about transformation through inclusion.
+The [[conceptual-scheme-void]] marks what conceptual schemes exclude — what they cannot represent at all. Conceptual metabolism concerns what schemes *do* represent and how representing it transforms the representation. The scheme void is about exclusion; the metabolism void is about transformation through inclusion.
 
 The [[noetic-feelings-void|understanding void]] describes how the feeling of understanding cannot ground itself—self-evidence terminates inquiry before it begins. Conceptual metabolism operates even when inquiry is active and successful. The very success of understanding — the moment of comprehension — is when the original is consumed.
 
@@ -104,7 +104,7 @@ The conceptual metabolism void also illuminates the Map's own unfinishability. T
 ## Further Reading
 
 - [[mutation-void|The Mutation Void]]
-- [[framework-void|The Framework Void]]
+- [[conceptual-scheme-void|The Conceptual Scheme Void]]
 - [[expertise-occlusion|The Expertise Occlusion]]
 - [[inaccessible-past|The Inaccessible Past]]
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]]

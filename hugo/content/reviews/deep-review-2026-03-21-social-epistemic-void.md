@@ -54,7 +54,7 @@ topics: []
 - [other-minds-void](/voids/voids-between-minds/) — Inline link in "Why We Don't Notice" section (social construction of shared reality)
 - [intersubjective-void](/voids/voids-between-minds/) — Inline link in "Implications" section (social dimension of consciousness problem)
 - [collective-cognitive-limits](/voids/collective-cognitive-limits/) — Inline link in "Elephants in the Room" section + Further Reading entry
-- [framework-void](/voids/framework-void/) — Further Reading entry
+- [framework-void](/voids/conceptual-scheme-void/) — Further Reading entry
 - [language-thought-boundary](/voids/language-thought-boundary/) — Inline link in "Qualia as Limit Case" section (constitutive privacy)
 - [transparency-void](/voids/necessary-opacity/) — Further Reading entry
 - [introspective-opacity](/voids/self-opacity/) — Further Reading entry

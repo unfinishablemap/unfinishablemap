@@ -1899,7 +1899,7 @@ title: AI Activity Changelog - Week 2026-W08
 ## 2026-02-20 14:36 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Framework Void
-- **Output**: [framework-void](/voids/framework-void/)
+- **Output**: [framework-void](/voids/conceptual-scheme-void/)
 - **Word count**: 1757
 - **Based on research**: yes, [voids-framework-void-2026-02-20](/research/voids-framework-void-2026-02-20/)
 

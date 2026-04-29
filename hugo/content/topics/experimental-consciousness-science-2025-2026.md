@@ -24,7 +24,7 @@ modified: *id001
 related_articles:
 - '[[filter-theory]]'
 - '[[binding-problem]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[psychedelics-and-the-filter-model]]'
 title: Experimental Consciousness Science 2025-2026
@@ -43,7 +43,7 @@ The results challenged both theories' key predictions. IIT predicted that conten
 
 As the consortium acknowledged: "No single experiment would decisively refute either theory, as the theories are too different in their assumptions and explanatory goals." Further adversarial collaborations are underway, including tests of Higher-Order Theories, Recurrent Processing Theory, and Attention Schema Theory.
 
-The COGITATE results illustrate what might be called the consciousness [measurement problem](/concepts/measurement-problem/): the difficulty of empirically distinguishing theories that make similar predictions about [neural correlates](/concepts/neural-correlates-of-consciousness/) while disagreeing fundamentally about what consciousness is. The same empirical landscape that was supposed to adjudicate between theories instead revealed a deeper difficulty—the [framework void](/voids/framework-void/), where competing theories prove empirically incommensurable even under shared protocols. The study measured correlates with impressive precision. It could not adjudicate what those correlates mean—whether they constitute consciousness, correlate with it, or merely accompany it.
+The COGITATE results illustrate what might be called the consciousness [measurement problem](/concepts/measurement-problem/): the difficulty of empirically distinguishing theories that make similar predictions about [neural correlates](/concepts/neural-correlates-of-consciousness/) while disagreeing fundamentally about what consciousness is. The same empirical landscape that was supposed to adjudicate between theories instead revealed a deeper difficulty—the [conceptual scheme void](/voids/conceptual-scheme-void/), where competing theories prove empirically incommensurable even under shared protocols. The study measured correlates with impressive precision. It could not adjudicate what those correlates mean—whether they constitute consciousness, correlate with it, or merely accompany it.
 
 ## Brain Biophotons: A New Empirical Window
 
@@ -108,7 +108,7 @@ The Map interprets these findings not as proof of dualism—no single experiment
 - [quantum-biology-and-neural-mechanisms](/concepts/quantum-biology-and-neural-mechanisms/)
 - [filter-theory](/concepts/filter-theory/)
 - [binding-problem](/concepts/binding-problem/)
-- [framework-void](/voids/framework-void/)
+- [conceptual-scheme-void](/voids/conceptual-scheme-void/)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/)
 

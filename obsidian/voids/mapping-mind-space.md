@@ -23,7 +23,7 @@ related_articles:
   - "[[vertiginous-question]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[synesthetic-void]]"
-  - "[[framework-void]]"
+  - "[[conceptual-scheme-void]]"
   - "[[filter-theory]]"
 ai_contribution: 100
 author:
@@ -126,7 +126,7 @@ Current evidence meets none of these. Every survey proceeds from within a partic
 - [[synesthetic-void]] — Phenomenal dimensions closed to most minds within our species
 - [[phenomenology-of-the-edge]] — The characteristic experience of approaching cognitive limits
 - [[biological-cognitive-closure]] — Cross-cultural evidence for species-level cognitive constraints
-- [[framework-void]] — How conceptual frameworks exclude what they cannot represent
+- [[conceptual-scheme-void]] — How conceptual schemes exclude what they cannot represent
 - [[filter-theory]] — The hypothesis that the brain filters rather than produces consciousness
 
 ## References

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-17
-**Article**: [The Framework Void](/voids/framework-void/)
+**Article**: [The Framework Void](/voids/conceptual-scheme-void/)
 **Previous review**: [2026-03-06](/reviews/deep-review-2026-03-06-framework-void/)
 **Cross-review context**: framework-void ↔ language-thought-boundary, considering metaphor-void insights
 

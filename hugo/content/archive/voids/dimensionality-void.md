@@ -105,7 +105,7 @@ The dimensionality void connects directly to the Map's [tenets](/tenets/).
 - [synesthetic-void](/voids/synesthetic-void/) — Phenomenal dimensions closed to most minds within our species
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Whether some concepts are permanently inaccessible
 - [scale-void](/voids/quantitative-intuition-void/) — How cosmic magnitudes overwhelm intuition
-- [framework-void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
+- [framework-void](/voids/conceptual-scheme-void/) — How conceptual frameworks exclude what they cannot represent
 
 ## References
 

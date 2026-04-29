@@ -29,7 +29,7 @@ related_articles:
   - "[[origin-of-consciousness]]"
   - "[[causal-interface]]"
   - "[[binding-void]]"
-  - "[[categorial-void]]"
+  - "[[conceptual-scheme-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-6
@@ -95,13 +95,13 @@ The void operates from both directions simultaneously.
 
 **Introspective opacity.** Consciousness cannot observe its own substrate. When you introspect, you find experiences but never the medium of experiencing. This parallels the [[self-opacity|self-reference paradox]]: consciousness cannot fully map itself because it is the mapper.
 
-**The category-error possibility.** If consciousness is ontologically fundamental, asking what it is "made of" may be malformed—fundamental entities are where composition explanations stop. McGinn's [[mysterianism|cognitive closure]] thesis pushes further: our minds may be constitutively unable to form the concepts needed, just as a rat is closed to calculus not from insufficient effort but from lacking the requisite conceptual apparatus. The [[categorial-void|categorial void]] sharpens this axis: the gap here may be not a missing concept but a missing *shape* any such concept would have to take—no slot in our apparatus to fill, rather than an empty slot awaiting content. Yet calling consciousness "fundamental" does not explain why it has the specific character it does—why there is redness rather than some other qualitative palette, or why experience exhibits [[binding-void|phenomenal unity]].
+**The category-error possibility.** If consciousness is ontologically fundamental, asking what it is "made of" may be malformed—fundamental entities are where composition explanations stop. McGinn's [[mysterianism|cognitive closure]] thesis pushes further: our minds may be constitutively unable to form the concepts needed, just as a rat is closed to calculus not from insufficient effort but from lacking the requisite conceptual apparatus. The [[conceptual-scheme-void|conceptual scheme void]] sharpens this axis: the gap here may be not a missing concept but a missing *shape* any such concept would have to take—no slot in our apparatus to fill, rather than an empty slot awaiting content. Yet calling consciousness "fundamental" does not explain why it has the specific character it does—why there is redness rather than some other qualitative palette, or why experience exhibits [[binding-void|phenomenal unity]].
 
 ## Two Directions, One Void
 
 Russellian monism offers the most sophisticated approach to the convergence of these two questions. Physics describes only the structural and relational properties of matter; the *intrinsic* nature—the quiddities—remains unknown. Consciousness might *be* that intrinsic nature. This move dissolves both questions rather than answering either: the unknown intrinsic nature of matter and the unknown substrate of consciousness point toward the same territory.
 
-The void viewed from the physical direction: what is matter in itself, beneath its relational properties? The void viewed from the mental direction: what is consciousness in itself, beneath its experiential manifestations? If Russellian monism has the right shape (even if not the right details), these questions converge—and the answer lies in territory that neither physics nor introspection can reach, because physics is constitutively structural and introspection is constitutively experiential. The convergence may itself compound with the [[categorial-void|categorial void]]: if the shared intrinsic nature falls along a categorial axis our apparatus does not carve, then even a successful Russellian reduction would deliver an answer whose *shape* our minds cannot hold.
+The void viewed from the physical direction: what is matter in itself, beneath its relational properties? The void viewed from the mental direction: what is consciousness in itself, beneath its experiential manifestations? If Russellian monism has the right shape (even if not the right details), these questions converge—and the answer lies in territory that neither physics nor introspection can reach, because physics is constitutively structural and introspection is constitutively experiential. The convergence may itself compound with the [[conceptual-scheme-void|conceptual scheme void]]: if the shared intrinsic nature falls along a categorial axis our apparatus does not carve, then even a successful Russellian reduction would deliver an answer whose *shape* our minds cannot hold.
 
 This has implications for the Map's central metaphor. Some territory may be unmappable not because the map is unfinished but because the territory includes the mapmaker and therefore resists representation in any medium available to the one doing the mapping.
 
@@ -136,7 +136,7 @@ The void would be undermined if: (1) physics reveals non-relational, non-structu
 - [[self-opacity|self-reference paradox]] — Why consciousness cannot fully examine itself
 - [[constitutive-exclusion]] — Why consciousness cannot access reality independent of its own contribution
 - [[binding-void]] — Why phenomenal unity resists explanation
-- [[categorial-void|The Categorial Void]] — A complementary axis of ignorance: the intrinsic nature void concerns unknown *content* behind known structure, while the categorial void concerns a missing *shape* any concept of that content would have to take. The two voids compound if matter's intrinsic nature requires a categorial schema our apparatus cannot produce.
+- [[conceptual-scheme-void|The Conceptual Scheme Void]] — A complementary axis of ignorance: the intrinsic nature void concerns unknown *content* behind known structure, while the conceptual scheme void concerns a missing *shape* any concept of that content would have to take. The two voids compound if matter's intrinsic nature requires a categorial schema our apparatus cannot produce.
 
 ## References
 

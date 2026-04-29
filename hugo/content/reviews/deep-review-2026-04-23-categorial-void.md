@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-04-23
-**Article**: [The Categorial Void](/voids/categorial-void/)
+**Article**: [The Categorial Void](/voids/conceptual-scheme-void/)
 **Previous review**: Never
 **Focus**: Orphan integration—add inbound cross-references
 

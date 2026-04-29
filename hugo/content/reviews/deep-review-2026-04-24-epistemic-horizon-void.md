@@ -60,7 +60,7 @@ topics: []
 ## Remaining Items
 
 None requiring immediate follow-up. Candidates for a future refine-draft pass if scope permits:
-- Could cite [mapping-mind-space](/voids/mapping-mind-space/) or [framework-void](/voids/framework-void/) inline if length budget opens up
+- Could cite [mapping-mind-space](/voids/mapping-mind-space/) or [framework-void](/voids/conceptual-scheme-void/) inline if length budget opens up
 - The "roughly 95 entries" figure should be revisited periodically (actual count at review time: 96 voids articles)
 
 ## Stability Notes

@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [A Taxonomy of Voids](/apex/taxonomy-of-voids/)
 **Previous review**: [2026-04-21](/reviews/deep-review-2026-04-21-taxonomy-of-voids/)
-**Context**: Cross-review considering today's three new voids articles: [plenitude void](/voids/plenitude-void/), [categorial void](/voids/categorial-void/), and [epistemic horizon void](/voids/meta-epistemology-of-limits/).
+**Context**: Cross-review considering today's three new voids articles: [plenitude void](/voids/plenitude-void/), [categorial void](/voids/conceptual-scheme-void/), and [epistemic horizon void](/voids/meta-epistemology-of-limits/).
 
 ## Pessimistic Analysis Summary
 
@@ -86,7 +86,7 @@ None identified. The three added claims each reference a source article that dev
 
 - [plenitude-void](/voids/plenitude-void/) (Phenomenological Cluster + frontmatter)
 - [epistemic-horizon-void](/voids/meta-epistemology-of-limits/) (Formal and Meta-Cognitive Cluster + Taxonomy's Own Limits + frontmatter)
-- [categorial-void](/voids/categorial-void/) (Formal and Meta-Cognitive Cluster + frontmatter)
+- [categorial-void](/voids/conceptual-scheme-void/) (Formal and Meta-Cognitive Cluster + frontmatter)
 
 ## Remaining Items
 

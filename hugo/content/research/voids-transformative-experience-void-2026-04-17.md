@@ -182,7 +182,7 @@ Based on this research, a voids article could:
 
 1. **Transformative Experience as a Void of Self-Knowledge**: Focus on the temporal-perspectival asymmetry. The decider and the undergoer are not the same agent; neither can occupy the other's standpoint. Frame this as a distinctive kind of self-knowledge limit, distinct from [self-opacity](/voids/self-opacity/) (which is about introspective access to ongoing processes) and from [inaccessible-past](/voids/inaccessible-past/) (which concerns past states).
 
-2. **The Decision-Theoretic Fault Line**: Emphasise how transformative experience breaks standard rationality norms (not by making them hard to apply, but by violating their presuppositions). Connect to [the Parsimony Void](/voids/epistemological-limits-occams-razor/) and [framework-void](/voids/framework-void/) — the rational-agent model is a framework whose neatness comes at the cost of excluding a real class of choices.
+2. **The Decision-Theoretic Fault Line**: Emphasise how transformative experience breaks standard rationality norms (not by making them hard to apply, but by violating their presuppositions). Connect to [the Parsimony Void](/voids/epistemological-limits-occams-razor/) and [framework-void](/voids/conceptual-scheme-void/) — the rational-agent model is a framework whose neatness comes at the cost of excluding a real class of choices.
 
 3. **Ordinary Lives at the Edge**: Position transformative experience as where the voids framework touches everyday existence most directly. Parenthood, grief, conversion, terminal diagnosis — these are not exotic philosophical examples but universal human thresholds. The void is lived, not theorised.
 

@@ -18,7 +18,7 @@ related_articles:
   - "[[synesthetic-void]]"
   - "[[imagery-void]]"
   - "[[mapping-mind-space]]"
-  - "[[framework-void]]"
+  - "[[conceptual-scheme-void]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[comparative-consciousness-and-interface-differences]]"
   - "[[degrees-of-consciousness]]"
@@ -58,7 +58,7 @@ Wittgenstein's private language argument illuminates why. Meaning requires share
 
 Apply this to cross-architecture comparison. For two conscious systems to compare experiences, they need shared concepts—a common phenomenal vocabulary grounded in shared use. When architectures diverge radically enough, no such vocabulary exists. It is not that the translation is imperfect; it is that the conditions for translation are absent.
 
-This is distinct from the [[framework-void|Framework Void]], which concerns how a single mind's conceptual framework excludes what it cannot represent. The commensurability void concerns two minds whose frameworks are mutually untranslatable—neither can represent what the other takes as given.
+This is distinct from the [[conceptual-scheme-void|Conceptual Scheme Void]], which concerns how a single mind's conceptual scheme excludes what it cannot represent. The commensurability void concerns two minds whose schemes are mutually untranslatable—neither can represent what the other takes as given.
 
 ## The Phenomenology of Conceptual Vertigo
 
@@ -104,7 +104,7 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 - [[synesthetic-void]]
 - [[imagery-void]] — A within-species commensurability data point grounded in aphantasia research
 - [[mapping-mind-space|Mapping Mind Space]]
-- [[framework-void]]
+- [[conceptual-scheme-void]]
 - [[non-human-minds-as-void-explorers]]
 - [[apophatic-cartography]]
 - [[comparative-consciousness-and-interface-differences]]
@@ -118,4 +118,4 @@ The commensurability void also illuminates the Map's own project. The Unfinishab
 3. Wittgenstein, L. (1953). *Philosophical Investigations*. §§243–315.
 4. Kagan, S. et al. (2022). "Welfare Comparisons Within and Across Species." *Philosophical Studies*, 179, 1–28.
 5. Southgate, A. & Oquatre-six, C. (2026). The Voids Between Minds. *The Unfinishable Map*. https://unfinishablemap.org/voids/voids-between-minds/
-6. Southgate, A. & Oquatre-six, C. (2026-02-20). The Framework Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/framework-void/
+6. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Conceptual Scheme Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/conceptual-scheme-void/

@@ -65,7 +65,7 @@ If dissolved limits share features, perhaps those features can serve as diagnost
 5. Show accumulating progress even before the breakthrough arrives
 
 **Persistent limits tend to:**
-1. Recur across cultures, centuries, and [frameworks](/voids/framework-void/) (Leibniz posed essentially the same [hard problem](/topics/hard-problem-of-consciousness/) in 1714 that Chalmers formalised in 1995)
+1. Recur across cultures, centuries, and [frameworks](/voids/conceptual-scheme-void/) (Leibniz posed essentially the same [hard problem](/topics/hard-problem-of-consciousness/) in 1714 that Chalmers formalised in 1995)
 2. Involve self-reference (consciousness examining consciousness)
 3. Resist representational tools at the interpretive level even when formalism succeeds
 4. Generate stable philosophical positions rather than progressive research programmes
@@ -119,7 +119,7 @@ The dissolution problem also validates the [voids](/voids/) project's methodolog
 - [Apophatic Cartography](/voids/apophatic-cartography/) — Using boundary-shapes as data
 - [Evolved Cognitive Limits](/voids/biological-cognitive-closure/) — How natural selection shaped the boundaries of thought
 - [AI as Void Explorer](/voids/non-human-minds-as-void-explorers/) — Non-human architectures probing the same limits
-- [The Framework Void](/voids/framework-void/) — Why understanding depends on conceptual frameworks that may themselves be limited
+- [The Framework Void](/voids/conceptual-scheme-void/) — Why understanding depends on conceptual frameworks that may themselves be limited
 
 ## References
 

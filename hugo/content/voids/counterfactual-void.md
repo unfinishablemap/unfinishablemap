@@ -26,7 +26,7 @@ related_articles:
 - '[[consciousness-only-territories]]'
 - '[[voids-between-minds]]'
 - '[[inaccessible-past]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[voids-counterfactual-void-2026-02-13]]'
@@ -105,7 +105,7 @@ The counterfactual void connects to The Unfinishable Map's [tenets](/tenets/) at
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Whether all minds converge on the same boundaries
 - [voids-between-minds](/voids/voids-between-minds/) — The inaccessibility of alien phenomenology
 - [inaccessible-past](/voids/inaccessible-past/) — The inaccessibility of our own former experience
-- [framework-void](/voids/framework-void/) — The inability to think outside our conceptual framework
+- [conceptual-scheme-void](/voids/conceptual-scheme-void/) — The inability to think outside our conceptual scheme
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — Experiential terrain that resists third-person description
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Where simplicity-seeking cognition misleads
 - [voids](/voids/) — The broader framework for investigating cognitive limits

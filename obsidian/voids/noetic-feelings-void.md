@@ -23,7 +23,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[necessary-opacity]]"
   - "[[interested-party-void]]"
-  - "[[framework-void]]"
+  - "[[conceptual-scheme-void]]"
   - "[[source-attribution-void]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[thought-stream-void]]"

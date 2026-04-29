@@ -24,7 +24,7 @@ related_articles:
 - '[[counterfactual-void]]'
 - '[[vertiginous-question]]'
 - '[[non-human-minds-as-void-explorers]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[self-opacity]]'
 - '[[inaccessible-past]]'
@@ -54,7 +54,7 @@ Standard decision theory requires comparing expected values across options. Crit
 
 **Elizabeth Harman** proposes that relevant knowledge can be obtained through testimony and analogical reasoning from similar prior experiences. Paul's (2015) response is that an agent who reaches a transformative decision via testimony-based credences is **alienated** from the decision: the choice is not authentically hers in the sense the authenticity constraint requires. This does not deny that testimony contains information; it denies that testimony-grounded credences can substitute for the first-personal standpoint the transformative case demands.
 
-Both critiques accept the underlying decision-theoretic framework and try to extend it. The Map's framework-void perspective (see [framework-void](/voids/framework-void/)) reads the situation differently: the elegance and simplicity of orthodox decision theory is precisely what excludes these cases. Extensions that try to absorb transformative choices into the standard framework mishandle what makes them distinctive. The parsimony of expected-utility theory is not free — it pays for itself by excluding choices where preferences are unstable under the choice itself.
+Both critiques accept the underlying decision-theoretic framework and try to extend it. The Map's [conceptual scheme void](/voids/conceptual-scheme-void/) perspective reads the situation differently: the elegance and simplicity of orthodox decision theory is precisely what excludes these cases. Extensions that try to absorb transformative choices into the standard framework mishandle what makes them distinctive. The parsimony of expected-utility theory is not free — it pays for itself by excluding choices where preferences are unstable under the choice itself.
 
 ## Evidence for the Limit {#evidence}
 
@@ -114,7 +114,7 @@ Three implications follow. First, the Map's apophatic methodology is vindicated 
 - [phenomenal-quality-void](/voids/phenomenal-quality-void/) — general inaccessibility of qualia to third-person description
 - [vertiginous-question](/topics/vertiginous-question/) — why "which self" cannot be resolved by averaging
 - [counterfactual-void](/voids/counterfactual-void/) — limits on knowing what would have happened otherwise
-- [framework-void](/voids/framework-void/) — when a framework's elegance excludes rather than captures the phenomenon
+- [conceptual-scheme-void](/voids/conceptual-scheme-void/) — when a scheme's elegance excludes rather than captures the phenomenon
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — parsimony's failures under incomplete knowledge
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — how AI and alien minds can help map voids without inhabiting them
 

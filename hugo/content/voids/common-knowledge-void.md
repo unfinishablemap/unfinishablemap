@@ -24,7 +24,7 @@ related_articles:
 - '[[recursion-void]]'
 - '[[voids-between-minds]]'
 - '[[meaning-void]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[inference-void]]'
 - '[[suspension-void]]'
 - '[[noetic-feelings-void]]'
@@ -143,7 +143,7 @@ The void connects the [sharing face of voids-between-minds](/voids/voids-between
 - [voids-between-minds](/voids/voids-between-minds/) — The sharing face this void formally sharpens
 - [recursion-void](/voids/recursion-void/) — The depth ceiling that bounds finite mutual knowledge
 - [meaning-void](/voids/meaning-void/) — How thoughts achieve aboutness; meaning as the operational target
-- [framework-void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
+- [conceptual-scheme-void](/voids/conceptual-scheme-void/) — How conceptual schemes exclude what they cannot represent
 - [inference-void](/voids/inference-void/) — A sister regress: the structural opacity of inferential transitions
 - [suspension-void](/voids/suspension-void/) — Another conjunction-coalesce cognate with three structural faces
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — The felt sense of agreement as itself a noetic feeling

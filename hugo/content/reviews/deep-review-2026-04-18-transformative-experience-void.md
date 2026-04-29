@@ -60,7 +60,7 @@ None. The article is well-structured, attribution to Paul is generally careful, 
 
 ### Cross-links Preserved
 
-The article's existing cross-links to [acquaintance-void](/voids/acquaintance-void/), [phenomenal-quality-void](/voids/phenomenal-quality-void/), [indexical-void](/topics/vertiginous-question/), [counterfactual-void](/voids/counterfactual-void/), [framework-void](/voids/framework-void/), [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/), [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/), and [knowledge-argument](/concepts/knowledge-argument/) are extensive and accurate. No new cross-links added (article is at 111% of soft length threshold; length-neutral mode discourages additions).
+The article's existing cross-links to [acquaintance-void](/voids/acquaintance-void/), [phenomenal-quality-void](/voids/phenomenal-quality-void/), [indexical-void](/topics/vertiginous-question/), [counterfactual-void](/voids/counterfactual-void/), [framework-void](/voids/conceptual-scheme-void/), [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/), [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/), and [knowledge-argument](/concepts/knowledge-argument/) are extensive and accurate. No new cross-links added (article is at 111% of soft length threshold; length-neutral mode discourages additions).
 
 ## Length Note
 

@@ -38,7 +38,7 @@ related_articles:
   - "[[boundary-and-projection]]"
   - "[[erasure-void]]"
   - "[[plenitude-void]]"
-  - "[[categorial-void]]"
+  - "[[conceptual-scheme-void]]"
   - "[[disappearance-voids]]"
   - "[[self-transcendence-void]]"
   - "[[non-human-minds-as-void-explorers]]"
@@ -70,7 +70,7 @@ Kant and Wittgenstein take this deepest. Transcendental arguments infer the nece
 
 Limits may be not merely informative but *preconditions for meaning itself* (see [[void-as-ground-of-meaning]]). They operate collectively as well as individually: paradigms and cultures develop emergent blind spots no individual mind would face alone (see [[collective-cognitive-limits]]).
 
-Nagel sharpens this through the subjective/objective tension. The bat's echolocation creates experiences we cannot imagine because imagining requires the perspective we lack—the bat reveals *our* limitations. The space of possible minds may be vast, some having concepts we lack or, more radically, *categorial schemas* our apparatus cannot instantiate ([[categorial-void|categorial void]]). The [[mind-space-void]] names the situation: we cannot determine our coordinates in mind-space, let alone survey its extent.
+Nagel sharpens this through the subjective/objective tension. The bat's echolocation creates experiences we cannot imagine because imagining requires the perspective we lack—the bat reveals *our* limitations. The space of possible minds may be vast, some having concepts we lack or, more radically, *categorial schemas* our apparatus cannot instantiate ([[conceptual-scheme-void|conceptual scheme void]]). The [[mind-space-void]] names the situation: we cannot determine our coordinates in mind-space, let alone survey its extent.
 
 ## The Datum of Questioning
 
@@ -98,7 +98,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The [[voids|ca
 
 **The Cognitive Architecture Family.** [[biological-cognitive-closure|Evolved cognitive limits]], [[formal-cognitive-limits|formal cognitive limits]], [[attention-and-consciousness|attention-created voids]], [[disappearance-voids|habituation void]], [[language-thought-boundary]], [[quantitative-intuition-void|quantitative intuition void]], and the [[recognition-void|recognition void]]'s "inventory blindness" reveal constraints imposed by specific cognitive architectures. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Failure is specific to biological cognition, making [[non-human-minds-as-void-explorers|AI triangulation]] directly applicable.
 
-**The Framework Reflexivity Family.** The [[tenet-generated-voids]], [[apophatic-cartography|cartography problem]], formal cognitive limits, [[recursion-void]], and [[meta-epistemology-of-limits|whether voids are real]] share self-referential structure. The [[categorial-void]] (schemas our apparatus cannot form) and [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|epistemic horizon void]] (the unknowability of total ignorance) are *second-order*: they shadow every other family. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
+**The Framework Reflexivity Family.** The [[tenet-generated-voids]], [[apophatic-cartography|cartography problem]], formal cognitive limits, [[recursion-void]], and [[meta-epistemology-of-limits|whether voids are real]] share self-referential structure. The [[conceptual-scheme-void]] (schemes our apparatus cannot form) and [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|epistemic horizon void]] (the unknowability of total ignorance) are *second-order*: they shadow every other family. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
 
 ### Shared Boundaries and Directional Convergence
 

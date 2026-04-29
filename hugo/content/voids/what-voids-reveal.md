@@ -47,7 +47,7 @@ related_articles:
 - '[[boundary-and-projection]]'
 - '[[erasure-void]]'
 - '[[plenitude-void]]'
-- '[[categorial-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[disappearance-voids]]'
 - '[[self-transcendence-void]]'
 - '[[non-human-minds-as-void-explorers]]'
@@ -74,7 +74,7 @@ Kant and Wittgenstein take this deepest. Transcendental arguments infer the nece
 
 Limits may be not merely informative but *preconditions for meaning itself* (see [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)). They operate collectively as well as individually: paradigms and cultures develop emergent blind spots no individual mind would face alone (see [collective-cognitive-limits](/voids/collective-cognitive-limits/)).
 
-Nagel sharpens this through the subjective/objective tension. The bat's echolocation creates experiences we cannot imagine because imagining requires the perspective we lack—the bat reveals *our* limitations. The space of possible minds may be vast, some having concepts we lack or, more radically, *categorial schemas* our apparatus cannot instantiate ([categorial void](/voids/categorial-void/)). The [mind-space-void](/voids/mapping-mind-space/) names the situation: we cannot determine our coordinates in mind-space, let alone survey its extent.
+Nagel sharpens this through the subjective/objective tension. The bat's echolocation creates experiences we cannot imagine because imagining requires the perspective we lack—the bat reveals *our* limitations. The space of possible minds may be vast, some having concepts we lack or, more radically, *categorial schemas* our apparatus cannot instantiate ([conceptual scheme void](/voids/conceptual-scheme-void/)). The [mind-space-void](/voids/mapping-mind-space/) names the situation: we cannot determine our coordinates in mind-space, let alone survey its extent.
 
 ## The Datum of Questioning
 
@@ -102,7 +102,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The [catalogue
 
 **The Cognitive Architecture Family.** [Evolved cognitive limits](/voids/biological-cognitive-closure/), [formal cognitive limits](/voids/formal-cognitive-limits/), [attention-created voids](/voids/attention-and-consciousness/), [habituation void](/voids/disappearance-voids/), [language-thought-boundary](/voids/language-thought-boundary/), [quantitative intuition void](/voids/quantitative-intuition-void/), and the [recognition void](/voids/recognition-void/)'s "inventory blindness" reveal constraints imposed by specific cognitive architectures. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Failure is specific to biological cognition, making [AI triangulation](/voids/non-human-minds-as-void-explorers/) directly applicable.
 
-**The Framework Reflexivity Family.** The [tenet-generated-voids](/voids/tenet-generated-voids/), [cartography problem](/voids/apophatic-cartography/), formal cognitive limits, [recursion-void](/voids/recursion-void/), and [whether voids are real](/voids/meta-epistemology-of-limits/) share self-referential structure. The [categorial-void](/voids/categorial-void/) (schemas our apparatus cannot form) and [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) (the unknowability of total ignorance) are *second-order*: they shadow every other family. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
+**The Framework Reflexivity Family.** The [tenet-generated-voids](/voids/tenet-generated-voids/), [cartography problem](/voids/apophatic-cartography/), formal cognitive limits, [recursion-void](/voids/recursion-void/), and [whether voids are real](/voids/meta-epistemology-of-limits/) share self-referential structure. The [conceptual-scheme-void](/voids/conceptual-scheme-void/) (schemes our apparatus cannot form) and [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) (the unknowability of total ignorance) are *second-order*: they shadow every other family. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
 
 ### Shared Boundaries and Directional Convergence
 

@@ -157,7 +157,7 @@ Empathy has structural limits even at its best—it simulates rather than shares
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — The taxonomy of unexplored, unexplorable, and occluded
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Whether "we-mode" experience is genuine sharing
 - [consciousness-and-social-understanding](/topics/consciousness-and-social-understanding/) — The gap between knowing-about and understanding-of
-- [framework-void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
+- [framework-void](/voids/conceptual-scheme-void/) — How conceptual frameworks exclude what they cannot represent
 - [introspective opacity](/voids/self-opacity/) — Why we access contents but never mechanisms
 - [language-thought-boundary](/voids/language-thought-boundary/) — What cannot be said
 - [necessary-opacity](/voids/necessary-opacity/) — Why consciousness cannot verify its own accuracy

@@ -92,7 +92,7 @@ The complicity void is distinct from several neighbouring voids it superficially
 
 **Versus [the self-transcendence void](/voids/self-transcendence-void/)**: Self-transcendence asks whether consciousness can upgrade itself. Complicity asks whether it actively resists upgrading.
 
-**Versus [the framework void](/voids/framework-void/)**: The framework void describes how conceptual frameworks exclude what they cannot represent. Complicity asks whether consciousness has a *stake* in maintaining particular frameworks—motivated exclusion rather than structural.
+**Versus [the framework void](/voids/conceptual-scheme-void/)**: The framework void describes how conceptual frameworks exclude what they cannot represent. Complicity asks whether consciousness has a *stake* in maintaining particular frameworks—motivated exclusion rather than structural.
 
 **Versus [introspective opacity](/voids/self-opacity/)**: Self-opacity describes the inaccessibility of cognitive mechanisms. Complicity asks whether this inaccessibility is partially self-imposed.
 
@@ -163,7 +163,7 @@ The complicity thesis would be weakened or refuted by several possible findings:
 - [Defended Territory](/voids/self-maintained-cognitive-limits/) — Whether thoughts can be externally blocked
 - [The Phenomenology of Self-Awareness](/voids/self-opacity/) — Self-reference and the bootstrap problem
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Whether consciousness can exceed its own architecture
-- [The Framework Void](/voids/framework-void/) — How frameworks exclude what they cannot represent
+- [The Framework Void](/voids/conceptual-scheme-void/) — How frameworks exclude what they cannot represent
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual limits interact superadditively
 - [Altered States as Void Probes](/voids/altered-states-as-void-probes/) — Whether altered states weaken complicity mechanisms
 - [Necessary Opacity](/voids/necessary-opacity/) — Whether the medium of representation introduces systematic distortion

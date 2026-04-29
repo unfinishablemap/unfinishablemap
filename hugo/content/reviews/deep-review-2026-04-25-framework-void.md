@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-25
-**Article**: [The Framework Void](/voids/framework-void/)
+**Article**: [The Framework Void](/voids/conceptual-scheme-void/)
 **Previous review**: [2026-04-18](/reviews/deep-review-2026-04-18-framework-void/)
 **Cross-review context**: framework-void considering question-formation-void (published 2026-04-24)
 

@@ -154,7 +154,7 @@ A maintenance note on this index. Four of the entries below—[the agency void](
 
 - [The Architecture of Cognitive Closure](/voids/biological-cognitive-closure/) — What concepts can minds form, and voids we acquire through maturation
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
-- [The Categorial Void](/voids/categorial-void/) — Gaps not in specific concepts but in the categorial *shape* any concept of that kind would have to take—reality beyond the axes our apparatus can carve (created 2026-04-23)
+- [The Conceptual Scheme Void](/voids/conceptual-scheme-void/) — How the totality of one's conceptual apparatus, and the categorial shapes within it, excludes what it cannot represent—at both the framework level and the level of specific category-shapes
 - [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Proved limits on computation (Gödel, Turing, Chaitin) and their bearing on consciousness
 - [The Mathematical Void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
@@ -164,7 +164,6 @@ A maintenance note on this index. Four of the entries below—[the agency void](
 - [The Capability Division Problem](/voids/capability-division-problem/) — Where brain-side capabilities end and mind-side begins
 - [Compound Failure Signatures](/voids/compound-failure-signatures/) — How individual limits interact superadditively
 - [The Parsimony Void](/voids/epistemological-limits-occams-razor/) — Why Occam's Razor may be a cognitive bias masquerading as epistemic principle
-- [The Framework Void](/voids/framework-void/) — How conceptual frameworks exclude what they cannot represent
 - [The Reconstruction Paradox](/concepts/selective-correction-and-reconstruction-paradox/) — Why the brain silently corrects some errors but delivers others
 
 

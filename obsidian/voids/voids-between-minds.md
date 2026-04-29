@@ -38,7 +38,7 @@ related_articles:
   - "[[collective-cognitive-limits]]"
   - "[[consciousness-and-social-understanding]]"
   - "[[brain-computer-interfaces-and-the-interface-boundary]]"
-  - "[[framework-void]]"
+  - "[[conceptual-scheme-void]]"
   - "[[language-thought-boundary]]"
   - "[[necessary-opacity]]"
   - "[[consciousness-defeats-explanation]]"

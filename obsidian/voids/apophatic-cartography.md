@@ -29,7 +29,7 @@ related_articles:
   - "[[formal-cognitive-limits]]"
   - "[[three-kinds-of-void]]"
   - "[[question-formation-void]]"
-  - "[[categorial-void]]"
+  - "[[conceptual-scheme-void]]"
   - "[[suspension-void]]"
   - "[[conjunction-coalesce]]"
 description: "How apophatic methods map the boundaries of consciousness through negation—and why any such cartography is constitutively incomplete, unable to catalog its own blind spots."

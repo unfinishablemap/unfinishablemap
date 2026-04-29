@@ -174,11 +174,11 @@ The Unfinishable Map's own theoretical commitments — its five [tenets](/tenets
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: If framework dependence shapes what counts as "simple," then the materialist's claim to greater parsimony may be an artefact of the materialist framework rather than a framework-neutral observation. Within a framework that takes consciousness as fundamental, positing irreducible experience is not an additional ontological commitment but a recognition of what is directly given. Parsimony looks different from within different committed frameworks.
 
-The Map's analysis also resonates with [mysterianism](/concepts/mysterianism/). If frameworks constrain not just what we think but what we can experience, then some aspects of consciousness may be structurally inaccessible — not because the phenomena are inherently mysterious, but because every framework through which we approach them filters out precisely what would need to be noticed. McGinn's "cognitive closure" acquires a phenomenological dimension: it is not just that we lack the concepts, but that the absence of those concepts is invisible from the inside. The [framework-void](/voids/framework-void/) explores this structural impossibility from the outside; this article has explored what it feels like from within.
+The Map's analysis also resonates with [mysterianism](/concepts/mysterianism/). If frameworks constrain not just what we think but what we can experience, then some aspects of consciousness may be structurally inaccessible — not because the phenomena are inherently mysterious, but because every framework through which we approach them filters out precisely what would need to be noticed. McGinn's "cognitive closure" acquires a phenomenological dimension: it is not just that we lack the concepts, but that the absence of those concepts is invisible from the inside. The [framework-void](/voids/conceptual-scheme-void/) explores this structural impossibility from the outside; this article has explored what it feels like from within.
 
 ## Further Reading
 
-- [framework-void](/voids/framework-void/) — The structural analysis of frameworks as cognitive prisons
+- [framework-void](/voids/conceptual-scheme-void/) — The structural analysis of frameworks as cognitive prisons
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where articulation fails within a framework
 - [biological-cognitive-closure](/voids/biological-cognitive-closure/) — Cross-cultural evidence for species-level framework constraints
 - [limits-reveal-structure](/voids/what-voids-reveal/) — What cognitive limits reveal about the architecture of mind

@@ -22,7 +22,7 @@ related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[mutation-void]]'
-- '[[framework-void]]'
+- '[[conceptual-scheme-void]]'
 - '[[noetic-feelings-void]]'
 - '[[disappearance-voids]]'
 - '[[non-human-minds-as-void-explorers]]'
@@ -68,7 +68,7 @@ The conceptual metabolism void neighbours several related [voids](/voids/) but d
 
 The [mutation-void](/voids/mutation-void/) concerns thoughts that change under inspection — attention itself transforms the content. Conceptual metabolism operates through *integration*, not inspection. The concept changes because it is being fitted into a larger structure of understanding, not because consciousness directs attention at it.
 
-The [framework-void](/voids/framework-void/) marks what conceptual frameworks exclude — what they cannot represent at all. Conceptual metabolism concerns what frameworks *do* represent and how representing it transforms the representation. The framework void is about exclusion; the metabolism void is about transformation through inclusion.
+The [conceptual-scheme-void](/voids/conceptual-scheme-void/) marks what conceptual schemes exclude — what they cannot represent at all. Conceptual metabolism concerns what schemes *do* represent and how representing it transforms the representation. The scheme void is about exclusion; the metabolism void is about transformation through inclusion.
 
 The [understanding void](/voids/noetic-feelings-void/) describes how the feeling of understanding cannot ground itself—self-evidence terminates inquiry before it begins. Conceptual metabolism operates even when inquiry is active and successful. The very success of understanding — the moment of comprehension — is when the original is consumed.
 
@@ -107,7 +107,7 @@ The conceptual metabolism void also illuminates the Map's own unfinishability. T
 ## Further Reading
 
 - [The Mutation Void](/voids/mutation-void/)
-- [The Framework Void](/voids/framework-void/)
+- [The Conceptual Scheme Void](/voids/conceptual-scheme-void/)
 - [The Expertise Occlusion](/voids/expertise-and-its-occlusion/)
 - [The Inaccessible Past](/voids/inaccessible-past/)
 - [Non-Human Minds as Void-Explorers](/voids/non-human-minds-as-void-explorers/)
