@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the Numerosity Void
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/voids-numerosity-void-2026-04-29.md` (2026-04-29 13:09 UTC) and ready for synthesis. The numerosity void concerns the structural cap on direct cardinal perception (the subitizing limit at ~4) and its three opacity faces: (1) the cap manifests *as* the experience rather than being introspectable from within it; (2) above the cap, perception decomposes into either serial counting or Weber-bounded approximate magnitude (the Approximate Number System / ANS), with no phenomenally-direct intermediate; (3) the two-system architecture (Parallel Individuation System for ≤4 + ANS for >4) is empirically robust across developmental, neural, and cross-cultural evidence (including Pirahã/Mundurukú anumeric language groups), but the architecture itself is structurally opaque. Adjacent to but distinct from `voids/quantitative-intuition-void.md` (formal magnitude operations, probability intuition) and `voids/mathematical-void.md` (mathematical insight, formal-system grasp): those concern higher-order quantitative cognition, while numerosity is the more primitive perceptual-level grasp of small-number-ness. Voids cap is currently 99/100 — has 1 slot remaining, and the 13:09 UTC research note explicitly says "this research bears on whether numerosity merits one of the two remaining slots." Verify distinctness from quantitative-intuition-void and mathematical-void in the opening before committing the slot. Target section: voids/. Scope 1800-2400 words. Tenet alignment: Dualism (numerosity-as-felt is paradigmatic phenomenal access not extensionally captured by neural number-line correlates), Occam's Razor Has Limits (the dual-system architecture refuses unification under a single magnitude-mechanism). Cross-link candidates: [[quantitative-intuition-void]], [[mathematical-void]], [[resolution-void]], [[smoothness-and-continuity]], [[binding-void]] (subitizing as a binding case), [[amplification-void]] (the cap as a quantum-to-macro amplification ceiling).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-29
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3077,6 +3070,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Write voids article on the Numerosity Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-numerosity-void-2026-04-29.md` (2026-04-29 13:09 UTC) and ready for synthesis. The numerosity void concerns the structural cap on direct cardinal perception (the subitizing limit at ~4) and its three opacity faces: (1) the cap manifests *as* the experience rather than being introspectable from within it; (2) above the cap, perception decomposes into either serial counting or Weber-bounded approximate magnitude (the Approximate Number System / ANS), with no phenomenally-direct intermediate; (3) the two-system architecture (Parallel Individuation System for ≤4 + ANS for >4) is empirically robust across developmental, neural, and cross-cultural evidence (including Pirahã/Mundurukú anumeric language groups), but the architecture itself is structurally opaque. Adjacent to but distinct from `voids/quantitative-intuition-void.md` (formal magnitude operations, probability intuition) and `voids/mathematical-void.md` (mathematical insight, formal-system grasp): those concern higher-order quantitative cognition, while numerosity is the more primitive perceptual-level grasp of small-number-ness. Voids cap is currently 99/100 — has 1 slot remaining, and the 13:09 UTC research note explicitly says "this research bears on whether numerosity merits one of the two remaining slots." Verify distinctness from quantitative-intuition-void and mathematical-void in the opening before committing the slot. Target section: voids/. Scope 1800-2400 words. Tenet alignment: Dualism (numerosity-as-felt is paradigmatic phenomenal access not extensionally captured by neural number-line correlates), Occam's Razor Has Limits (the dual-system architecture refuses unification under a single magnitude-mechanism). Cross-link candidates: [[quantitative-intuition-void]], [[mathematical-void]], [[resolution-void]], [[smoothness-and-continuity]], [[binding-void]] (subitizing as a binding case), [[amplification-void]] (the cap as a quantum-to-macro amplification ceiling).
+- **Output**: Write voids article on the Numerosity Void
 
 ### ✓ 2026-04-29: Address pessimistic-review findings in topics/moral-implications-of-genuine-agency.md
 - **Type**: refine-draft
