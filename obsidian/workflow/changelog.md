@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 14:40:00+00:00
+ai_modified: 2026-04-29 14:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 14:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/moral-implications-of-genuine-agency]]
+- **Trigger**: [[reviews/pessimistic-2026-04-29c]] (six high-severity issues the five-deep-review chain missed because the article had been declared bedrock-stable)
+- **Changes**: Restructured error-theory paragraph as explicit two-step (agency + phenomenal-value-realism); rewrote compatibilism paragraph as irreducible-vs-derivative rather than metaphysical-vs-pragmatic (Frankfurt/Wolf/Fischer-Ravizza grounded in metaphysically substantive capacities, not pragmatic conventions); replaced moral-luck "elimination" with "relocation" framing (constitutive and circumstantial luck partially absorb causal luck); reframed falsifiability section as conceptual rather than empirical constraints; added new §"The Compatibilist Symmetry Challenge" conceding moral implications are availably grounded on either metaphysics with the Map distinguished by tenet-coherence not unique moral explanatory power; reframed MWI rebuttal on indexical-identity grounds (no between-branch dilution argument); added Buddhist Madhyamika competing-positive-view paragraph (*upādāna* / *duḥkha* / symmetric disagreement); recast Occam paragraph as conditional; flagged quantum-mechanism load-bearing role; tightened ~10 language items including "entire moral landscape shifts" → "moral landscape changes character," "richer/more demanding/more consonant" → conditional, reduced "genuine"/"genuinely" usage from ~17 to ~10
+- **Published**: yes (draft: false retained)
 
 ## 2026-04-29 14:40 UTC - pessimistic-review
 - **Status**: Success
