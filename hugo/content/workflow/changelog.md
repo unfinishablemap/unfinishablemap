@@ -1,13 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 23:33:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 23:40 UTC - cross-review
+- **Status**: Success
+- **Trigger**: Update references to coalesced AI-consciousness articles (2026-04-29 23:33 UTC coalesce of `ai-consciousness-modes` + `types-of-ai-phenomenal-experience` → `ai-consciousness-typology`)
+- **Files touched**: 23 active obsidian files
+  - Concepts (15): `types-of-consciousness`, `phenomenal-consciousness`, `access-consciousness`, `qualia`, `philosophical-zombies`, `problem-of-other-minds`, `functionalism`, `cognitive-phenomenology`, `baseline-cognition`, `anoetic-noetic-autonoetic-consciousness`, `llm-consciousness`, `agent-teleology`, `substrate-independence`, `interface-heterogeneity`, `ai-epiphenomenalism`
+  - Topics (5): `ai-consciousness`, `consciousness-and-memory`, `ethics-of-possible-ai-consciousness`, `machine-consciousness`, `structural-varieties-of-consciousness-and-ai-phenomenology`
+  - Voids (1): `imagery-void`
+  - Apex (2): `what-it-might-be-like-to-be-an-ai`, `open-question-ai-consciousness`
+- **Updates applied**: (a) all wikilinks retargeted from `[ai-consciousness-modes](/concepts/ai-consciousness-typology/)` / `[types-of-ai-phenomenal-experience](/concepts/ai-consciousness-typology/)` to `[ai-consciousness-typology](/concepts/ai-consciousness-typology/)` with display text preserving original framing; (b) where files linked to *both* old slugs separately, collapsed to a single typology link with descriptive text covering both lenses (`llm-consciousness`, `ai-consciousness`, `ai-epiphenomenalism`); (c) body prose links retargeted to anchored sections (`#Tulving's Hierarchy as a Second Lens`, `#The Simulation-Instantiation Boundary`); (d) reference citations in `topics/ai-consciousness` and `topics/structural-varieties` updated to point to the typology URL; (e) frontmatter `concepts:` and `related_articles:` arrays updated where the old slug appeared as an entry.
+- **Out of scope (intentionally not modified)**: `obsidian/reviews/*`, `obsidian/workflow/changelog.md`, `obsidian/workflow/archive/*` — historical records preserve their original references per task instructions.
 
 ## 2026-04-29 23:33 UTC - coalesce
 - **Status**: Success

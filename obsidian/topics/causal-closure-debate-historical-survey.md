@@ -4,7 +4,7 @@ description: "How causal closure evolved from a physics claim into a metaphysica
 created: 2026-03-19
 modified: 2026-03-19
 human_modified:
-ai_modified: 2026-04-23T18:27:00+00:00
+ai_modified: 2026-04-29T23:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,12 +27,13 @@ related_articles:
   - "[[the-epiphenomenalist-threat]]"
   - "[[stapp-quantum-mind]]"
   - "[[what-consciousness-tells-us-about-physics]]"
+  - "[[the-strong-emergence-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-19
 last_curated:
-last_deep_review: 2026-04-23T18:27:00+00:00
+last_deep_review: 2026-04-29T23:55:00+00:00
 ---
 
 The causal closure of the physical — the thesis that every physical event has a sufficient physical cause — is widely treated as an established scientific finding. It is not. The Unfinishable Map traces the principle's evolution from a seventeenth-century puzzle about Cartesian contact to a twentieth-century metaphysical axiom, arguing that what began as an empirical observation about conservation laws was progressively strengthened far beyond what physics establishes. Understanding this history matters because causal closure is the load-bearing premise in virtually every contemporary argument against [[interactionist-dualism]].
@@ -110,7 +111,7 @@ The historical pattern is clear. What began as an observation — conservation o
 
 Science *assumes* that every physical event has a physical explanation in order to search for physical explanations. This methodological commitment is productive and indispensable. But it does not *discover* that the assumption is true. The success of physics within the domains it investigates shows that many physical events have physical causes — not that all do. As [[reductionism]] details, methodological success does not entail ontological completeness.
 
-This matters because causal closure is the load-bearing premise in contemporary arguments against mental causation, against libertarian free will, and against interactionist dualism. If the premise is weaker than commonly assumed — if it is a methodological assumption rather than an empirical finding — then the arguments it supports lose their apparent force.
+This matters because causal closure is the load-bearing premise in contemporary arguments against mental causation, against libertarian free will, against interactionist dualism, and against [[the-strong-emergence-of-consciousness|the strong emergence of consciousness]]. If the premise is weaker than commonly assumed — if it is a methodological assumption rather than an empirical finding — then the arguments it supports lose their apparent force.
 
 ## Relation to Site Perspective
 
@@ -131,6 +132,7 @@ The Map does not claim that rejecting causal closure is simple. It claims that t
 - [[arguments-against-materialism]] — The convergent case that materialism fails
 - [[stapp-quantum-mind]] — Quantum Zeno mechanism for consciousness-physics interaction
 - [[reductionism]] — Why methodological success does not entail ontological reduction
+- [[the-strong-emergence-of-consciousness]] — How rejecting universal closure makes strongly emergent mental causation coherent
 
 ## References
 
