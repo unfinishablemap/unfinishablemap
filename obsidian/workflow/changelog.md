@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 11:50:00+00:00
+ai_modified: 2026-04-29 12:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 12:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/curated-mind]]
+- **Word count**: 2609 → 2610 (length-neutral; only link repairs)
+- **Critical issues addressed**: 1 (broken wikilink to archived `perceptual-reconstruction-selection`, coalesced 2026-04-23 into `selective-correction-and-reconstruction-paradox` as third mode)
+- **Medium issues addressed**: 0
+- **Enhancements made**: redirected three references to the surviving coalesced concept (frontmatter, opening summary anchor-link, Further Reading), confirmed all remaining wikilinks resolve, all empirical citations verified accurate
+- **Output**: [[reviews/deep-review-2026-04-29-curated-mind]]
+- **Note**: Fifth review of this article. Content is definitively stable on core arguments after four prior 2026-03-24 passes. Sole driver of this pass: stale link rot from upstream coalesce.
 
 ## 2026-04-29 11:50 UTC - deep-review
 - **Status**: Success

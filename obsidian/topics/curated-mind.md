@@ -2,17 +2,16 @@
 title: "The Curated Mind"
 description: "The brain curates what consciousness receives across vision, body, and memory—but curation presupposes a recipient, and that presupposition is a novel argument for dualism."
 created: 2026-03-24
-modified: 2026-03-24
+modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-15T10:15:00+00:00
-last_deep_review: 2026-03-24T08:35:00+00:00
+ai_modified: 2026-04-29T12:04:00+00:00
+last_deep_review: 2026-04-29T12:04:00+00:00
 draft: false
 topics:
   - "[[dualist-perception]]"
   - "[[predictive-processing-and-dualism]]"
 concepts:
   - "[[selective-correction-and-reconstruction-paradox]]"
-  - "[[perceptual-reconstruction-selection]]"
   - "[[predictive-processing]]"
   - "[[interactionist-dualism]]"
   - "[[qualia]]"
@@ -39,7 +38,7 @@ ai_generated_date: 2026-03-24
 last_curated:
 ---
 
-The brain never delivers raw reality to consciousness. It fills the blind spot with fabricated content, suppresses visual smear during eye movements, stabilises colour across changing illumination, and interpolates motion across temporal gaps. But the same brain faithfully transmits optical blur, tinnitus, persistent illusions, and phantom limb pain without correction. The Unfinishable Map calls this asymmetry the [[selective-correction-and-reconstruction-paradox|reconstruction paradox]]. The existing treatment focuses on the perceptual cases — what gets corrected, what passes through, and the [[selective-correction-and-reconstruction-paradox|three-mode taxonomy]] of selective correction, faithful transmission, and [[perceptual-reconstruction-selection|conscious selection]]. This article develops a different implication: the brain's pervasive curation of conscious experience constitutes a novel argument for the irreducibility of consciousness, because curation presupposes a recipient distinct from the curating process. The argument strengthens when extended beyond vision to body schema, memory, and self-model — domains where the brain's editorial control over consciousness is equally pervasive and equally asymmetric.
+The brain never delivers raw reality to consciousness. It fills the blind spot with fabricated content, suppresses visual smear during eye movements, stabilises colour across changing illumination, and interpolates motion across temporal gaps. But the same brain faithfully transmits optical blur, tinnitus, persistent illusions, and phantom limb pain without correction. The Unfinishable Map calls this asymmetry the [[selective-correction-and-reconstruction-paradox|reconstruction paradox]]. The existing treatment focuses on the perceptual cases — what gets corrected, what passes through, and the [[selective-correction-and-reconstruction-paradox|three-mode taxonomy]] of selective correction, faithful transmission, and [[selective-correction-and-reconstruction-paradox#Selection Under Ambiguity|conscious selection]]. This article develops a different implication: the brain's pervasive curation of conscious experience constitutes a novel argument for the irreducibility of consciousness, because curation presupposes a recipient distinct from the curating process. The argument strengthens when extended beyond vision to body schema, memory, and self-model — domains where the brain's editorial control over consciousness is equally pervasive and equally asymmetric.
 
 ## The Presupposition Argument
 
@@ -106,8 +105,7 @@ The Minimal Quantum Interaction tenet explains the bandwidth asymmetry. If consc
 
 ## Further Reading
 
-- [[selective-correction-and-reconstruction-paradox]] — the reconstruction paradox: selective correction and the three conditions
-- [[perceptual-reconstruction-selection]] — the third mode: consciousness selecting among ambiguous percepts
+- [[selective-correction-and-reconstruction-paradox]] — the reconstruction paradox: selective correction, faithful transmission, and selection under ambiguity (the three-mode taxonomy this article extends across modalities)
 - [[neurological-dissociations-as-interface-architecture]] — dissociation evidence converging on the same multi-channel interface
 - [[clinical-dissociation-as-systematic-evidence]] — functional disconnection without structural damage
 - [[perceptual-failure-and-the-interface]] — bandwidth degradation and the interface
