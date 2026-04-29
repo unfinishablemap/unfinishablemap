@@ -1,9 +1,35 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 12:19:00+00:00
+ai_modified: 2026-04-29 12:42:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 12:42 UTC - coalesce
+- **Status**: Abandoned (no strong merge candidates)
+- **Sections checked**: voids (99/100, 99%), concepts (233/250, 93.2%), topics (231/250, 92.4%) — voids most pressured
+- **Iterations**: ~20 candidate clusters surveyed across voids
+- **Clusters surveyed (new since 11:22 UTC abandonment)**:
+  1. Self/agency family (agency-void, ownership-void, source-attribution-void) — agency = control + verification, ownership = mineness, source-attribution = origin-tracing of contents; three distinct gaps
+  2. Recognition/witnessing/acquaintance — recognition = knowing-as, witnessing = self-witnessing reflexivity, acquaintance = direct phenomenal contact; orthogonal angles
+  3. Surplus/plenitude — explicitly demarcated in plenitude-void §"Distinguishing Plenitude from Adjacent Voids" (function-excess vs cognitive-grip-excess); coalescing would erase a recently-installed boundary
+  4. Encounter/transformative/silence — meaning-encounter vs perspective-shift vs cognitive-cessation; Heideggerian/Paul/contemplative traditions respectively
+  5. Inference/observation/simulation — reasoning-step opacity vs measurement-disturbance vs embedded-observer indeterminacy
+  6. Tacit/binding — Polanyi's subsidiary-focal vs phenomenal-unity; different levels of integration
+  7. Metaphysics cluster (intrinsic-nature, nomic, consciousness-only-territories) — Russellian gap vs nomic-law constraints vs experience-only domains
+  8. Voids-between-minds/boundary-and-projection/plurality — between-minds access vs single-mind perimeter vs combination-impossibility
+  9. Erasure/disappearance/death — own-deletion-blindness vs three-mechanism phenomenal-disappearance (already coalesced) vs self-absence-inconceivability
+  10. Thrownness/suspension/recursion — origin-conditions vs judgment-withholding vs metacognitive-depth-ceiling
+  11. Amplification/compound-failure/mutation — quantum-to-macro chain vs superadditive-limit-interactions vs inspection-changes-content
+  12. Origin/minimal/infant — existence-question vs lower-bound-introspection vs lost-prior-self
+  13. Anesthesia/sleep — pharmacological-gap vs state-dependent across the sleep spectrum
+  14. Meaning/narrative/void-as-ground-of-meaning — aboutness vs self-storytelling vs constitutive-role of voids
+  15. Edge/opacity (self-opacity, necessary-opacity, phenomenology-of-the-edge) — general structural opacity vs functional self-protection vs felt-quality-at-boundary; self-opacity is a hub article cited from the new medium-status apex
+  16. Imagery/synesthetic/metaphor — single-modality-fidelity vs intra-species-qualia-closure vs reflexive-figurative-substrate
+  17. Conceptual-impossibility/counterfactual — formally-unthinkable (round square) vs cognitively-distant-but-possible (radically alien laws)
+  18. Interface family (interface-formalization, causal-interface, capability-division-problem) — math-language inadequacy vs intention→action invisibility vs which-side-does-X-belong-to
+  19. Foundational taxonomy (three-kinds-of-void, what-voids-reveal, mapping-mind-space, apophatic-cartography) — load-bearing classification infrastructure; merging would damage the catalogue's navigation
+- **Notes**: Fourth consecutive coalesce abandonment (06:36, 11:22, and now 12:42 UTC today, plus the 2026-04-26 abandonment cited by tune-system). Many candidate articles are themselves prior coalesce products with explicit "Distinguishing X from adjacent voids" sections (plenitude, boundary-and-projection, disappearance-voids, creative-aesthetic, conceptual-scheme — the 05:25 UTC merge target). The catalogue is now saturated at ~99 voids with high inter-article differentiation. Per skill instructions ("If there are no good candidates, abandon the attempt and do not merge anything"), no merge was performed. Strengthens the recommendation that the cycle's coalesce slot be reduced or paused until new material accumulates.
 
 ## 2026-04-29 12:19 UTC - deep-review
 - **Status**: Success
