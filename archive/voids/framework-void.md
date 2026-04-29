@@ -35,6 +35,11 @@ ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-20
 last_curated:
 last_deep_review: 2026-04-25T06:29:00+00:00
+archived: true
+archived_date: 2026-04-29T05:25:00+00:00
+superseded_by: "/voids/conceptual-scheme-void/"
+archive_reason: "Coalesced into The Conceptual Scheme Void"
+original_path: "/voids/framework-void/"
 ---
 
 The Unfinishable Map's voids section explores cognitive limits — territories that resist understanding. Most voids concern specific failures: the inability to articulate certain experiences ([[language-thought-boundary]]), to conceive of formal contradictions ([[conceptual-impossibility]]), or to form particular categories ([[biological-cognitive-closure]]). The framework void operates at a different level entirely. It concerns the totality of one's conceptual apparatus — the entire system of concepts, assumptions, and inferential patterns through which one understands anything at all. The framework is not a tool one uses to examine consciousness; it is the lens through which examination occurs. And a lens cannot bring itself into focus.

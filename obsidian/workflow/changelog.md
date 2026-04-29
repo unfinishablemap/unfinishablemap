@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 05:07:00+00:00
+ai_modified: 2026-04-29 05:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 05:25 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/framework-void]], [[voids/categorial-void]]
+- **Target**: [[voids/conceptual-scheme-void]]
+- **Archived**: [[archive/voids/framework-void]], [[archive/voids/categorial-void]]
+- **References to review**: 28 active-content files (follow-up task added to todo.md)
+- **Notes**: Both source articles addressed substantially the same phenomenon — the structural void at the limit of one's conceptual apparatus — at slightly different scales (framework as totality vs. categorial as schema-shape). They cited the same canonical authors (Kant, Davidson, Sellars, McGinn, Nagel) and load-borne the same tenets (Occam's Razor Has Limits, Dualism). Merged article preserves both layers explicitly under "Two Levels: Framework and Categorial," consolidates the candidate void list (phenomenal-physical shape, bat-phenomenology, view-from-nowhere, alien apparatus, parochial axes), and keeps the framework's persistence-of-mind-body-problem evidence alongside the categorial's Kant-Strawson learning argument. Voids index updated; framework-void and categorial-void entries replaced with single conceptual-scheme-void entry. Section count: voids 100 → 99 (one slot freed under cap of 100).
 
 ## 2026-04-29 05:07 UTC - deep-review
 - **Status**: Success

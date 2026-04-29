@@ -35,6 +35,11 @@ ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-23
 last_curated:
 last_deep_review: 2026-04-23T22:04:00+00:00
+archived: true
+archived_date: 2026-04-29T05:25:00+00:00
+superseded_by: "/voids/conceptual-scheme-void/"
+archive_reason: "Coalesced into The Conceptual Scheme Void"
+original_path: "/voids/categorial-void/"
 ---
 
 The **categorial void** is the structural gap that opens when reality contains features for which the mind has no *schema* — no template for forming a concept of that kind at all. It is not the familiar gap between a thing and a word we have not yet coined for it. That gap closes with language. The categorial void is the gap between a thing and the general *shape* any concept of that thing would have to take — a shape our cognitive architecture may not be built to produce. Where a missing concept leaves an empty slot in an existing scheme, a missing category leaves no slot to fill. The question is whether there are domains whose structure is not merely unknown but unparseable by minds like ours.
