@@ -31,7 +31,7 @@ TASK_CYCLE: list[str] = [
     "queue",              # 18
     "deep-review",        # 19
     "queue",              # 20
-    "coalesce",           # 21 - Second coalesce slot (was research-voids; voids at capacity)
+    "queue",              # 21 - Was second coalesce slot; reduced 2/24 → 1/24 per tune-system 2026-04-29b (voids/ post-saturation; six consecutive coalesce abandonments + null archive audit)
     "queue",              # 22
     "queue",              # 23
 ]
