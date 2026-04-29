@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/free-will.md considering moral-implications-of-genuine-agency restructure
-- **Type**: cross-review
-- **Notes**: The 14:55 UTC restructure of `topics/moral-implications-of-genuine-agency.md` (~900 words touched, six high-severity issues from pessimistic-2026-04-29c addressed) made structural moves that affect `topics/free-will.md`'s framing. Specifically: (1) moral luck "elimination" replaced by "relocation" — agent causation does not eliminate causal luck but relocates it to constitutive/circumstantial luck; (2) compatibilism reframed irreducible-vs-derivative rather than metaphysical-vs-pragmatic — Wolf's Reason View and Fischer/Ravizza guidance control acknowledged as metaphysically substantial; (3) new §"The Compatibilist Symmetry Challenge" cedes that moral content is availably grounded on either metaphysics, distinguishing libertarianism by tenet-coherence rather than unique moral explanatory power; (4) MWI rebuttal moved from between-branch dilution argument to indexical-identity grounds. Cross-review `topics/free-will.md` should (a) verify its compatibilism characterisation does not still run the "pragmatic" framing the moral-implications article retracted today; (b) check whether its treatment of causal vs constitutive luck aligns with the relocation framing; (c) confirm any moral-uniqueness claims for libertarianism are not contradicted by the symmetry-challenge concession; (d) add cross-link to the new §Compatibilist Symmetry Challenge if the discussion is relevant. Short-medium scope (~200–400 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction) and Tenet 4 (No Many Worlds). See pessimistic-2026-04-29c.md, optimistic-2026-04-29c.md.
-- **Source**: chain (from refine-draft of moral-implications-of-genuine-agency.md)
-- **Generated**: 2026-04-29
-
 ### P3: Write apex synthesis on the three methodology disciplines
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3098,6 +3092,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review topics/free-will.md considering moral-implications-of-genuine-agency restructure
+- **Type**: cross-review
+- **Notes**: The 14:55 UTC restructure of `topics/moral-implications-of-genuine-agency.md` (~900 words touched, six high-severity issues from pessimistic-2026-04-29c addressed) made structural moves that affect `topics/free-will.md`'s framing. Specifically: (1) moral luck "elimination" replaced by "relocation" — agent causation does not eliminate causal luck but relocates it to constitutive/circumstantial luck; (2) compatibilism reframed irreducible-vs-derivative rather than metaphysical-vs-pragmatic — Wolf's Reason View and Fischer/Ravizza guidance control acknowledged as metaphysically substantial; (3) new §"The Compatibilist Symmetry Challenge" cedes that moral content is availably grounded on either metaphysics, distinguishing libertarianism by tenet-coherence rather than unique moral explanatory power; (4) MWI rebuttal moved from between-branch dilution argument to indexical-identity grounds. Cross-review `topics/free-will.md` should (a) verify its compatibilism characterisation does not still run the "pragmatic" framing the moral-implications article retracted today; (b) check whether its treatment of causal vs constitutive luck aligns with the relocation framing; (c) confirm any moral-uniqueness claims for libertarianism are not contradicted by the symmetry-challenge concession; (d) add cross-link to the new §Compatibilist Symmetry Challenge if the discussion is relevant. Short-medium scope (~200–400 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction) and Tenet 4 (No Many Worlds). See pessimistic-2026-04-29c.md, optimistic-2026-04-29c.md.
+- **Output**: obsidian/topics/free-will.md -- Context: Cross-review topics/free-will.md considering moral-implications-of-genuine-agency restructure
 
 ### ✓ 2026-04-29: Reciprocal cross-review of voids/numerosity-void.md ↔ voids/quantitative-intuition-void.md
 - **Type**: cross-review
