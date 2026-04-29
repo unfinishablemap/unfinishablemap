@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the cognitive filter that selects what
 created: 2026-04-29
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-29T10:21:00+00:00
+ai_modified: 2026-04-29T11:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[medium-status-voids-in-cognition]]"
   - "[[three-kinds-of-void]]"
   - "[[mattering-void]]"
   - "[[attention-and-consciousness]]"
@@ -72,7 +73,7 @@ These traditions — analytic philosophy, phenomenology, cognitive science, comp
 
 ## Why the Void Is Occluded — and Partly Unexplorable
 
-The relevance void is primarily *occluded*, with medium-status opacity analogous to (but distinct from) mattering's. We do not experience relevance *as* a filter; we experience a world in which some things bear on the situation and others do not, as if bearing-on-the-situation were a property of the things themselves. The filter is invisible because it is the medium through which any seeing happens.
+The relevance void is primarily *occluded*, with medium-status opacity analogous to (but distinct from) mattering's. We do not experience relevance *as* a filter; we experience a world in which some things bear on the situation and others do not, as if bearing-on-the-situation were a property of the things themselves. The filter is invisible because it is the medium through which any seeing happens. The relevance void joins the mattering, noetic-feelings, and conceptual-scheme voids in the cluster of [[medium-status-voids-in-cognition|medium-status voids in cognition]] — operations that structure other contents while remaining invisible from inside.
 
 The void also has a *structurally unexplorable* dimension built from three converging arguments. *Self-reference*: any investigation of relevance must itself select what is relevant to the investigation, generating a regress in which each meta-level introduces its own equally opaque filter. *Constitutivity*: if relevance is constitutive of cognition, separating the filter from cognition for inspection is impossible in principle — every reflective surface is itself produced by the relevance mechanism. *Frame-problem shadow*: artificial systems have not solved general relevance determination after fifty years of attempts; the Map weights this toward the structural reading without taking it as proof.
 
@@ -96,6 +97,7 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 
 ## Further Reading
 
+- [[medium-status-voids-in-cognition]] — The apex synthesis placing this void in a four-void cluster of operations that structure cognition while remaining invisible from inside
 - [[voids]]
 - [[three-kinds-of-void]]
 - [[mattering-void]]

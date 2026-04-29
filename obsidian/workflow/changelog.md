@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 11:22:00+00:00
+ai_modified: 2026-04-29 11:34:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 11:34 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/medium-status-voids-in-cognition]]
+- **Mode**: Reciprocal cross-link installation from apex sources
+- **Word count**: 3219 → 3219 (apex unchanged; six sources received minimal back-link additions)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (six of seven apex sources lacked reciprocal back-links)
+- **Enhancements made**: 6 reciprocal back-links installed (mattering-void, relevance-void, noetic-feelings-void, three-kinds-of-void, self-opacity, apophatic-cartography) — each in frontmatter `related_articles` and Further Reading; mattering-void and relevance-void also received inline cluster-membership sentences at points where body already discussed medium-status
+- **Output**: [[reviews/deep-review-2026-04-29-medium-status-voids-in-cognition-cross-links]]
 
 ## 2026-04-29 11:22 UTC - coalesce
 - **Status**: Abandoned (no strong merge candidates)

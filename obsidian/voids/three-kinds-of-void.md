@@ -4,7 +4,7 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-28T23:23:00+00:00
+ai_modified: 2026-04-29T11:34:00+00:00
 draft: false
 last_deep_review: 2026-04-23T21:42:00+00:00
 topics: []
@@ -14,6 +14,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[medium-status-voids-in-cognition]]"
   - "[[hard-problem-of-consciousness]]"
   - "[[thoughts-that-slip-away]]"
   - "[[self-maintained-cognitive-limits]]"
@@ -94,6 +95,7 @@ The taxonomy itself falls under the [[meta-epistemology-of-limits#the-scope-ques
 
 ## Further Reading
 
+- [[medium-status-voids-in-cognition]] — Apex synthesis introducing a content/capacity/medium-status taxonomy orthogonal to the three-kinds taxonomy developed here
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[sleep-consciousness-void]] — A void combining features of all three types
 - [[synesthetic-void]] — An intra-species void spanning all three categories

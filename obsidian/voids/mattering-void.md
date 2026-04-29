@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the felt weight of significance — th
 created: 2026-04-29
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-29T09:56:00+00:00
+ai_modified: 2026-04-29T11:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,6 +17,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[medium-status-voids-in-cognition]]"
   - "[[three-kinds-of-void]]"
   - "[[valence-void]]"
   - "[[normative-void]]"
@@ -49,7 +50,7 @@ The [[affective-void|affective void]] concerns emotions we cannot feel — affec
 
 The [[mood-void|mood void]] concerns the opacity of the affective atmosphere we are always inside of — the pervasive colouring of experience by a tone we cannot cleanly witness. Mattering is sharper: not the *colour* of the field but the *charge* — the sense that something here calls for response.
 
-These voids reciprocally illuminate one another; the mattering void names the medium-status of significance itself.
+These voids reciprocally illuminate one another; the mattering void names the medium-status of significance itself, and joins the relevance, noetic-feelings, and conceptual-scheme voids in the cluster of [[medium-status-voids-in-cognition|medium-status voids in cognition]] — operations that structure other contents while remaining invisible from inside.
 
 ## Four Traditions Converge on the Same Structure
 
@@ -105,6 +106,7 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 
 ## Further Reading
 
+- [[medium-status-voids-in-cognition]] — The apex synthesis placing this void in a four-void cluster of operations that structure cognition while remaining invisible from inside
 - [[voids]]
 - [[three-kinds-of-void]]
 - [[valence-void]]

@@ -3,7 +3,7 @@ title: "Apophatic Cartography: Method and Its Limits"
 created: 2026-01-10
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T23:23:00+00:00
+ai_modified: 2026-04-29T11:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[medium-status-voids-in-cognition]]"
   - "[[what-voids-reveal]]"
   - "[[phenomenology-of-the-edge]]"
   - "[[biological-cognitive-closure]]"
@@ -159,6 +160,7 @@ Apophatic cartography provides the methodological backbone for the Map's most di
 
 ## Further Reading
 
+- [[medium-status-voids-in-cognition|Medium-Status Voids in Cognition]] — Apex synthesis on operations that structure cognition while remaining invisible from inside; apophatic method is the natural cartographic discipline for medium-status voids whose interior cannot be entered directly
 - [[voids|Voids in the Map]] — Broader context
 - [[taxonomy-of-voids|A Taxonomy of Voids]] — Synthesis placing cartographic limits within the full voids architecture
 - [[compound-failure-signatures|Compound Failure Signatures]] — The failure signature taxonomy

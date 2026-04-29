@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-03-26
 human_modified: null
-ai_modified: 2026-04-27T07:29:00+00:00
+ai_modified: 2026-04-29T11:34:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -26,6 +26,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[medium-status-voids-in-cognition]]"
   - "[[observation-and-measurement-void]]"
   - "[[ownership-void]]"
   - "[[void-as-ground-of-meaning]]"
@@ -154,6 +155,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 
 ## Further Reading
 
+- [[medium-status-voids-in-cognition|Medium-Status Voids in Cognition]] — Apex synthesis on operations that structure cognition while remaining invisible from inside; self-opacity supplies the broader self-knowledge context for the four-void cluster
 - [[voids|Voids in the Map]] — The broader framework for cognitive limits
 - [[void-as-ground-of-meaning|The Void as Ground of Meaning]] — How cognitive limits are preconditions for meaning
 - [[necessary-opacity|Necessary Opacity]] — Consciousness cannot verify its own accuracy

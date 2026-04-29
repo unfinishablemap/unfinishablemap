@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-29T05:07:00+00:00
+ai_modified: 2026-04-29T11:34:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -19,6 +19,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[medium-status-voids-in-cognition]]"
   - "[[recognition-void]]"
   - "[[self-opacity]]"
   - "[[necessary-opacity]]"
@@ -168,6 +169,7 @@ A functionalist might dissolve the void by identifying understanding with a func
 
 ## Further Reading
 
+- [[medium-status-voids-in-cognition]] — The apex synthesis placing this void in a four-void cluster of operations that structure cognition while remaining invisible from inside
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[recognition-void]] — Recognition as a noetic feeling that can fail
 - [[self-opacity]] — The broader phenomenon of being a system that cannot fully see itself

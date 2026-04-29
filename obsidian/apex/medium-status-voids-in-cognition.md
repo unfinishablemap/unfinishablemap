@@ -3,8 +3,8 @@ title: "Medium-Status Voids in Cognition"
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T08:06:00+00:00
-last_deep_review: 2026-04-29T08:06:00+00:00
+ai_modified: 2026-04-29T11:34:00+00:00
+last_deep_review: 2026-04-29T11:34:00+00:00
 draft: false
 description: "Four cognitive voids name operations that structure other contents — significance, filtering, gating, framing — while remaining invisible from inside."
 topics:
