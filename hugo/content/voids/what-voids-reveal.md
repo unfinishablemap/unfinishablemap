@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-04-28 12:30:00+00:00
+ai_modified: 2026-04-28 23:23:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -46,7 +46,6 @@ related_articles:
 - '[[void-as-ground-of-meaning]]'
 - '[[boundary-and-projection]]'
 - '[[erasure-void]]'
-- '[[epistemic-horizon-void]]'
 - '[[plenitude-void]]'
 - '[[categorial-void]]'
 - '[[disappearance-voids]]'
@@ -103,7 +102,7 @@ Individual voids might be dismissed as puzzles awaiting solution. The [catalogue
 
 **The Cognitive Architecture Family.** [Evolved cognitive limits](/voids/biological-cognitive-closure/), [formal cognitive limits](/voids/formal-cognitive-limits/), [attention-created voids](/voids/attention-and-consciousness/), [habituation void](/voids/disappearance-voids/), [language-thought-boundary](/voids/language-thought-boundary/), [quantitative intuition void](/voids/quantitative-intuition-void/), and the [recognition void](/voids/recognition-void/)'s "inventory blindness" reveal constraints imposed by specific cognitive architectures. Signature: **architectural mismatch**—the tool is wrong for the job, and we have no other tool. Failure is specific to biological cognition, making [AI triangulation](/voids/non-human-minds-as-void-explorers/) directly applicable.
 
-**The Framework Reflexivity Family.** The [tenet-generated-voids](/voids/tenet-generated-voids/), [cartography problem](/voids/apophatic-cartography/), formal cognitive limits, [recursion-void](/voids/recursion-void/), and [whether voids are real](/voids/meta-epistemology-of-limits/) share self-referential structure. The [categorial-void](/voids/categorial-void/) (schemas our apparatus cannot form) and [epistemic-horizon-void](/voids/epistemic-horizon-void/) (the unknowability of total ignorance) are *second-order*: they shadow every other family. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
+**The Framework Reflexivity Family.** The [tenet-generated-voids](/voids/tenet-generated-voids/), [cartography problem](/voids/apophatic-cartography/), formal cognitive limits, [recursion-void](/voids/recursion-void/), and [whether voids are real](/voids/meta-epistemology-of-limits/) share self-referential structure. The [categorial-void](/voids/categorial-void/) (schemas our apparatus cannot form) and [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) (the unknowability of total ignorance) are *second-order*: they shadow every other family. Signature: **self-undermining inquiry**—the investigation destabilises its own foundations without resolving into either confirmation or refutation.
 
 ### Shared Boundaries and Directional Convergence
 
@@ -163,7 +162,7 @@ The two arguments connect to each of the Map's [tenets](/tenets/), often reinfor
 
 **[Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction)** sits at the intersection of phenomenal core and framework reflexivity. This compound position helps explain why the interaction mechanism resists articulation—understanding it requires crossing two family boundaries simultaneously.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** connects through indexicality. "Why am I this branch?" may be a mystery rather than a problem. The evidential weight of "questioning beings exist" depends on there being a fact of the matter about *which* questioning is occurring.
+**[No Many Worlds](/tenets/#no-many-worlds)** connects through indexicality. [Branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) can already secure the branch-local fact that *this* questioning is occurring; the Map's stronger reading is that questioning is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable. "Why am I this branch?" may be a mystery rather than a problem. The evidential weight of "questioning beings exist" depends on there being a fact of the matter about *which* questioning is occurring.
 
 If the voids reveal cognitive architecture and the catalogue's organised structure points beyond physical exhaustion, three implications follow:
 

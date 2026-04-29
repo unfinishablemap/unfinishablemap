@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-28 20:08:00+00:00
+ai_modified: 2026-04-28 21:00:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,7 +14,7 @@ description: Human+AI exploration of how synesthesia reveals experiential dimens
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 07:57:00+00:00
+last_deep_review: 2026-04-28 21:00:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -110,7 +110,7 @@ The synesthetic void connects directly to the Map's [foundational commitments](/
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — Wager's "extra qualia problem" and Gray's function/qualia dissociation as exemplars of the phenomenology-vs-function axis
-- [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The axis as a standalone concept: synaesthesia is one of its four canonical empirical exemplars
+- [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — The axis as a standalone concept: synaesthesia is its architecturally cleanest exemplar — the closest to a strict instance of both dissociation patterns at once, per Gray (2003)
 - [imagery-void](/voids/imagery-void/) — A parallel intra-species phenomenal divergence in mental imagery rather than qualia
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach—a parallel void in the feeling dimension
 - [voids-between-minds](/voids/voids-between-minds/) — Existence, encounter, and sharing across individual consciousnesses

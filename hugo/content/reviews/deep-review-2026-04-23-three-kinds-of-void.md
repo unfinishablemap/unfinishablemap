@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-23
 **Article**: [Three Kinds of Void](/voids/three-kinds-of-void/)
 **Previous review**: [2026-04-21](/reviews/deep-review-2026-04-21-three-kinds-of-void/)
-**Context**: Cross-review considering [plenitude-void](/voids/plenitude-void/) and [epistemic-horizon-void](/voids/epistemic-horizon-void/) insights (both articles created 2026-04-23).
+**Context**: Cross-review considering [plenitude-void](/voids/plenitude-void/) and [epistemic-horizon-void](/voids/meta-epistemology-of-limits/) insights (both articles created 2026-04-23).
 
 ## Pessimistic Analysis Summary
 
@@ -29,7 +29,7 @@ None. Attribution checks pass — McGinn's property P, Nagel's bat, James's inef
 
 ### Medium Issues Found
 
-1. **Missing integration with two new companion voids articles**. Both [plenitude-void](/voids/plenitude-void/) (2026-04-23) and [epistemic-horizon-void](/voids/epistemic-horizon-void/) (2026-04-23) were created today and both link back to `three-kinds-of-void` from their `related_articles`, but the taxonomy article did not yet link or acknowledge them. This left a significant cross-linking gap. *Resolution*: Added both to frontmatter `related_articles`, added plenitude-void as a mixed-type example in the "Between the Categories" section, added a new closing paragraph acknowledging the epistemic horizon void's implication for the taxonomy itself, and added both to Further Reading.
+1. **Missing integration with two new companion voids articles**. Both [plenitude-void](/voids/plenitude-void/) (2026-04-23) and [epistemic-horizon-void](/voids/meta-epistemology-of-limits/) (2026-04-23) were created today and both link back to `three-kinds-of-void` from their `related_articles`, but the taxonomy article did not yet link or acknowledge them. This left a significant cross-linking gap. *Resolution*: Added both to frontmatter `related_articles`, added plenitude-void as a mixed-type example in the "Between the Categories" section, added a new closing paragraph acknowledging the epistemic horizon void's implication for the taxonomy itself, and added both to Further Reading.
 
 2. **Structural question raised by epistemic-horizon-void**: the three-kinds taxonomy is itself produced from within the limited cognitive system whose limits it describes. The epistemic-horizon-void article explicitly asks "does the catalogue inherit its own horizon?" The taxonomy article previously had no acknowledgment of this second-order limit. *Resolution*: Added a closing paragraph in "Between the Categories" naming the issue and stating the Map's position that the framework should be treated as permanently provisional.
 
@@ -64,7 +64,7 @@ None. Attribution checks pass — McGinn's property P, Nagel's bat, James's inef
 ### Cross-links Added
 
 - [plenitude-void](/voids/plenitude-void/) (body, frontmatter, Further Reading)
-- [epistemic-horizon-void](/voids/epistemic-horizon-void/) (body, frontmatter, Further Reading)
+- [epistemic-horizon-void](/voids/meta-epistemology-of-limits/) (body, frontmatter, Further Reading)
 
 ## Word Count
 

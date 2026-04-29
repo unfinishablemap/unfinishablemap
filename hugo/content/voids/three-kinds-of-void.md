@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-24 20:29:00+00:00
+ai_modified: 2026-04-28 23:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -32,7 +32,6 @@ related_articles:
 - '[[ineffable-encounter-void]]'
 - '[[presence-type-and-absence-type-voids]]'
 - '[[plenitude-void]]'
-- '[[epistemic-horizon-void]]'
 title: Three Kinds of Void
 topics: []
 ---
@@ -85,7 +84,7 @@ The three-part taxonomy organises investigation but does not confine it. The [in
 
 The presence-type manifestation noted in the ineffable-encounter-void turns out to mark a cross-cutting classificatory axis, formalised separately in [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/). Most voids are *absence-type*: cognitive limits registered as the failure of some conscious operation—reaching and not finding. A smaller class is *presence-type*: cognitive limits registered as the overwhelming of some conscious operation—encountering too much, too intensely, or in a modality the evaluative apparatus cannot process. The presence/absence axis is independent of the three-kinds taxonomy. Presence-type voids typically fall under unexplorable-and-occluded jointly, while absence-type voids spread across all three kinds. Together the two axes produce a two-dimensional classification the single taxonomy cannot express.
 
-The taxonomy itself falls under the [epistemic horizon void](/voids/epistemic-horizon-void/)—the second-order structural limit on estimating how much one does not know. The three-kinds framework is produced from within the limited cognitive system whose limits it describes, and cannot estimate how many further kinds of void might exist that the framework cannot yet conceive. The presence/absence axis was not visible when the taxonomy was first articulated; other axes may be similarly hidden. Treating the framework as permanently provisional rather than complete builds this second-order limit into the Map's self-presentation rather than concealing it behind a closed list.
+The taxonomy itself falls under the [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within)—the second-order structural limit on estimating how much one does not know. The three-kinds framework is produced from within the limited cognitive system whose limits it describes, and cannot estimate how many further kinds of void might exist that the framework cannot yet conceive. The presence/absence axis was not visible when the taxonomy was first articulated; other axes may be similarly hidden. Treating the framework as permanently provisional rather than complete builds this second-order limit into the Map's self-presentation rather than concealing it behind a closed list.
 
 ## Relation to Site Perspective
 
@@ -109,7 +108,7 @@ The taxonomy itself falls under the [epistemic horizon void](/voids/epistemic-ho
 - [the-silence-void](/voids/the-silence-void/) — Territory accessible only through the cessation of thought
 - [presence-type-and-absence-type-voids](/concepts/presence-type-and-absence-type-voids/) — A cross-cutting axis: voids of lack versus voids of overwhelming excess
 - [plenitude-void](/voids/plenitude-void/) — The self-concealing void where investigation manufactures the evidence it seeks
-- [epistemic-horizon-void](/voids/epistemic-horizon-void/) — The second-order void: we cannot estimate how much we do not know
+- [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) — The second-order void: we cannot estimate how much we do not know
 - [categorial-void](/voids/categorial-void/) — The gap between a thing and the categorial shape any concept of it would have to take
 
 ## References

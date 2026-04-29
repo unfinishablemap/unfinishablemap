@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-27 19:45:00+00:00
+ai_modified: 2026-04-28 22:23:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -148,7 +148,7 @@ The temporal void engages the Map's [tenets](/tenets/) at several points.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**: If consciousness influences quantum outcomes, it does so from within a temporal present. The mechanism would be introspectively inaccessible precisely because introspection requires time. Consciousness can act toward futures but can only know pasts. We remember what has caused us; we act toward what we will cause. This connects to [free-will](/topics/free-will/): we deliberate about futures precisely because our causal influence runs futureward, while we have only epistemic access to the past.
 
-**[No Many Worlds](/tenets/#no-many-worlds)**: The felt quality of temporal passage presupposes that alternatives are foreclosed, not merely branched into parallel existence. Memory presupposes a single actual past — the *feeling of actuality* built into the pastness quale points to genuine metaphysical uniqueness, not mere indexical location within a branching structure.
+**[No Many Worlds](/tenets/#no-many-worlds)**: The felt quality of temporal passage presupposes that alternatives are foreclosed, not merely branched into parallel existence. [Branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) can already secure the pastness-feel branch-locally—each branch's observer truly has *this* past. The Map's stronger reading is that temporal passage is genuinely one-branch-only rather than locally-articulated within a globally-branching structure: memory presupposes a single actual past, and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable to thread an experiencer through alternative branch-pasts.
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)**: Time seems simple — before/after, past/present/future. But reducing time to measurement systematically misrepresents temporal experience. A simpler universe might have time-symmetric cognition; that our minds are asymmetric suggests reality has structure that simple physical description misses.
 

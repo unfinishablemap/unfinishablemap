@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-23 22:04:00+00:00
+ai_modified: 2026-04-28 23:23:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -30,7 +30,6 @@ related_articles:
 - '[[embodiment-cognitive-limits]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[what-voids-reveal]]'
-- '[[epistemic-horizon-void]]'
 - '[[non-human-minds-as-void-explorers]]'
 - '[[formal-cognitive-limits]]'
 - '[[mapping-mind-space]]'
@@ -99,7 +98,7 @@ Sellars (1956) argued that all perception is already theory-laden: there is no n
 
 Davidson (1974) argued in the opposite direction: the very idea of a radically alternative conceptual scheme is incoherent, because identifying one as alternative would already require translating it into our own. The Map treats Davidson's challenge as an *epistemic* constraint — we may never confirm a categorial void from inside — without dissolving the metaphysical question of whether such voids are real. The [meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/) develops this split: the unverifiability is itself informative, not a refutation.
 
-Work on non-human minds shifts what counts as evidence. If artificial systems, animal minds, or other architectures can perform cognitive work our categorial apparatus cannot frame — without translation back — that is close to empirical pressure on the categorial claim. The [epistemic horizon void](/voids/epistemic-horizon-void/) bounds how much such evidence could ever settle.
+Work on non-human minds shifts what counts as evidence. If artificial systems, animal minds, or other architectures can perform cognitive work our categorial apparatus cannot frame — without translation back — that is close to empirical pressure on the categorial claim. The [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) bounds how much such evidence could ever settle.
 
 ## Phenomenology of Approach
 
@@ -133,7 +132,6 @@ Two further tenets are touched more lightly. Bidirectional Interaction may persi
 - [The intrinsic nature void](/voids/intrinsic-nature-void/)
 - [Conceptual impossibility](/voids/conceptual-impossibility/)
 - [The meta-epistemology of cognitive limits](/voids/meta-epistemology-of-limits/)
-- [The epistemic horizon void](/voids/epistemic-horizon-void/)
 - [Non-human minds as void-explorers](/voids/non-human-minds-as-void-explorers/)
 - [What cognitive voids reveal](/voids/what-voids-reveal/)
 - [Embodiment and cognitive limits](/voids/embodiment-cognitive-limits/)

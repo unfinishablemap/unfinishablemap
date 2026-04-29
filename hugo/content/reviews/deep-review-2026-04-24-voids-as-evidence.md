@@ -24,7 +24,7 @@ topics: []
 
 Cross-review triggered by the creation of three new second-order voids on 2026-04-23:
 
-- [Epistemic Horizon Void](/voids/epistemic-horizon-void/) — the structural impossibility of estimating the scope of one's own ignorance
+- [Epistemic Horizon Void](/voids/meta-epistemology-of-limits/) — the structural impossibility of estimating the scope of one's own ignorance
 - [Plenitude Void](/voids/plenitude-void/) — the structural impossibility of determining whether experience is as rich as it seems
 - [Categorial Void](/voids/categorial-void/) — the gap opened when reality contains features no schema our mind can form would represent
 
@@ -65,11 +65,11 @@ None. Second-order-void additions use consistent terminology.
 
 ### Enhancements Made
 - **Phenomenal Core family** now includes `[plenitude-void](/voids/plenitude-void/)` alongside the existing hard problem, intrinsic nature, binding, surplus, and phenomenal quality voids. Plenitude joins naturally because it concerns what phenomenal content *is* (rich vs. sparse) when inspection itself alters the target.
-- **Framework Reflexivity Family** now includes the `[categorial-void](/voids/categorial-void/)` and `[epistemic-horizon-void](/voids/epistemic-horizon-void/)` with explicit second-order framing: "they shadow every other family." This makes the family's self-referential structure more visible and strengthens the convergence argument — the catalogue contains voids that are *about* the catalogue's own completeness and categorial adequacy.
+- **Framework Reflexivity Family** now includes the `[categorial-void](/voids/categorial-void/)` and `[epistemic-horizon-void](/voids/meta-epistemology-of-limits/)` with explicit second-order framing: "they shadow every other family." This makes the family's self-referential structure more visible and strengthens the convergence argument — the catalogue contains voids that are *about* the catalogue's own completeness and categorial adequacy.
 - Three `related_articles` frontmatter entries added.
 
 ### Cross-links Added
-- `[epistemic-horizon-void](/voids/epistemic-horizon-void/)`
+- `[epistemic-horizon-void](/voids/meta-epistemology-of-limits/)`
 - `[plenitude-void](/voids/plenitude-void/)`
 - `[categorial-void](/voids/categorial-void/)`
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-29
-ai_modified: 2026-04-23 12:41:29+00:00
+ai_modified: 2026-04-28 22:23:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -152,7 +152,7 @@ The origin void connects directly to the Map's [foundational commitments](/tenet
 
 **[Occam's Razor Has Limits](/tenets/#occams-limits)** applies forcefully. The simplest assumption—that consciousness is explicable in terms of something more basic—confronts the containment problem. The origin question's persistence is *consistent with* reality's complexity exceeding our explanatory frameworks, though it does not independently prove this—we should expect the tenets to predict such difficulties.
 
-**[No Many Worlds](/tenets/#no-many-worlds)** matters for indexical reasons. The origin question is asked by *this* consciousness, here, now. Many-worlds doesn't dissolve the question—it remains puzzling why consciousness exists in any branch—but it does proliferate instances without explaining their existence. The rejection of many-worlds keeps focus on singular existence rather than endless multiplication.
+**[No Many Worlds](/tenets/#no-many-worlds)** matters for indexical reasons. The origin question is asked by *this* consciousness, here, now. [Branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) could grant each branch-observer a branch-local origin question; the Map's stronger reading is that origin-questioning is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable. Many-worlds doesn't dissolve the question—it remains puzzling why consciousness exists in any branch—but it does proliferate instances without explaining their existence. The rejection of many-worlds keeps focus on singular existence rather than endless multiplication.
 
 **[Bidirectional Interaction](/tenets/#bidirectional-interaction)** makes consciousness causally efficacious—it does something. This gives consciousness a functional role, making its existence less arbitrary than pure [epiphenomenalism](/concepts/epiphenomenalism/) would allow. But causal efficacy deepens rather than resolves the origin question: why does causally efficacious consciousness exist rather than none?
 

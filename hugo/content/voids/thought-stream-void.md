@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-27 19:19:00+00:00
+ai_modified: 2026-04-28 22:23:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -169,7 +169,7 @@ The evidence for content-specific opacity remains suggestive rather than conclus
 
 **Occam's Razor Has Limits.** The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet applies directly. "Random neural firing produces random thoughts" fails empirically—the stream is structured, meaningful, personally relevant. "Unconscious goal-pursuit" explains structure but not opacity: why should a system hide its own goal-pursuit from itself? And if thoughts systematically slip, our sense of what we can think is biased by survivorship.
 
-**No Many Worlds.** The [No Many Worlds](/tenets/#no-many-worlds) tenet connects through the indexical character of the stream. When a memory surfaces unbidden, it surfaces *for me*, *now*, with *this* particular felt quality. When a thought slips, it is gone *for me*, not merely inaccessible from my branch. The phenomenology is irreducibly particular.
+**No Many Worlds.** The [No Many Worlds](/tenets/#no-many-worlds) tenet connects through the indexical character of the stream. When a memory surfaces unbidden, it surfaces *for me*, *now*, with *this* particular felt quality. [Branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) can already secure that felt singularity branch-locally—each branch's observer truly has *that* stream. The Map's stronger reading is that the stream is genuinely one-branch-only rather than locally-articulated within a globally-branching structure: when a thought slips, it is gone, and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable to thread the experiencer across branch-alternatives.
 
 ## Further Reading
 

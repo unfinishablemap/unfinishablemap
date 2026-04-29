@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-04-24
-**Article**: [The Epistemic Horizon Void](/voids/epistemic-horizon-void/)
+**Article**: [The Epistemic Horizon Void](/voids/meta-epistemology-of-limits/)
 **Previous review**: Never (article created 2026-04-23)
 **Word count**: 1999 → 1994
 

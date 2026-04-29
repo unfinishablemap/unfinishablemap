@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-10
-ai_modified: 2026-04-28 13:53:00+00:00
+ai_modified: 2026-04-28 23:23:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -40,7 +40,6 @@ related_articles:
 - '[[formal-cognitive-limits]]'
 - '[[three-kinds-of-void]]'
 - '[[question-formation-void]]'
-- '[[epistemic-horizon-void]]'
 - '[[categorial-void]]'
 - '[[suspension-void]]'
 - '[[conjunction-coalesce]]'

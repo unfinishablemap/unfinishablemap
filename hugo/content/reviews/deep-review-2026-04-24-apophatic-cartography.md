@@ -60,7 +60,7 @@ The [question-formation-void](/voids/question-formation-void/) (2026-04-24) expl
 
 ### Cross-links Added
 - [question-formation-void](/voids/question-formation-void/) (frontmatter + inline + Further Reading)
-- [epistemic-horizon-void](/voids/epistemic-horizon-void/) (frontmatter)
+- [epistemic-horizon-void](/voids/meta-epistemology-of-limits/) (frontmatter)
 - [categorial-void](/voids/categorial-void/) (frontmatter)
 
 ## Length Analysis

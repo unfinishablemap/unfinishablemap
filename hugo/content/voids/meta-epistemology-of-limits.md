@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-28 14:52:00+00:00
+ai_modified: 2026-04-28 23:08:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -9,6 +9,7 @@ coalesced_from:
 - /voids/natural-vs-designed-limits/
 - /voids/dissolution-problem/
 - /voids/whether-real/
+- /voids/epistemic-horizon-void/
 concepts:
 - '[[mysterianism]]'
 - '[[metacognition]]'
@@ -17,12 +18,13 @@ concepts:
 - '[[phenomenology]]'
 - '[[inspection-paradox]]'
 - '[[illusionism]]'
+- '[[epistemology]]'
 created: 2026-01-16
-date: &id001 2026-04-24
-description: Can we know our cognitive limits are genuine? Can we predict which will
-  dissolve? Can we tell natural features from designed constraints? All three meta-questions
-  may be structurally unanswerable from within any limited mind—and the undecidability
-  itself is informative.
+date: &id001 2026-04-28
+description: Can we know our cognitive limits are genuine? Estimate their total scope?
+  Predict which will dissolve? Tell natural features from designed constraints? All
+  four meta-questions may be structurally unanswerable from within any limited mind—and
+  the undecidability itself is informative.
 draft: false
 human_modified: null
 last_curated: null
@@ -47,16 +49,17 @@ related_articles:
 - '[[apophatic-cartography]]'
 - '[[phenomenal-quality-void]]'
 - '[[noetic-feelings-void]]'
-- '[[epistemic-horizon-void]]'
 - '[[plenitude-void]]'
 - '[[categorial-void]]'
 - '[[suspension-void]]'
+- '[[inference-void]]'
+- '[[question-formation-void]]'
 title: The Meta-Epistemology of Cognitive Limits
 topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-Three meta-level questions haunt the [voids framework](/voids/). Are cognitive limits real—permanent features of minds like ours—or only current ignorance waiting to dissolve? How could we know? And if some limits are structural, are they *natural* features of finite cognition or *designed* constraints imposed by forces beyond our detection? The three share a recursive structure: the tool examining its own limitations cannot stand outside itself to verify the verdict. All three may be structurally unanswerable from within any limited mind—and that very undecidability is informative about cognitive architecture.
+Four meta-level questions haunt the [voids framework](/voids/). Are cognitive limits real—permanent features of minds like ours—or only current ignorance waiting to dissolve? How could we know? Can we estimate how many such limits there are, or what proportion of reality our catalogue actually covers? And if some limits are structural, are they *natural* features of finite cognition or *designed* constraints imposed by forces beyond our detection? The four share a recursive structure: the tool examining its own limitations cannot stand outside itself to verify the verdict. All four may be structurally unanswerable from within any limited mind—and that very undecidability is informative about cognitive architecture.
 
 ## The Core Problem: Difficulty vs. Impossibility
 
@@ -136,9 +139,41 @@ The recursive challenge applies equally to the dualist position the Map defends.
 
 Approaching this question has a distinctive feel: **suspension rather than confusion**, where arguments on both sides have genuine force but neither settles the matter; **recursive vertigo** from recognising the self-referential structure; **temptation to premature closure**, the psychological pressure to declare the voids real or illusory and be done with it; and paradoxically, **relief in acceptance** that the question may be permanently open. Each of these textures is itself a [noetic feeling](/voids/noetic-feelings-void/) — a felt verdict whose underlying heuristic machinery is occluded — which means the suspended position must be held against the fluency-driven pull toward closure, not merely decided on intellectually. The capacity that holds it open is itself void-shaped: the [suspension-void](/voids/suspension-void/) catalogues why withholding judgment cannot be verified, sustained, or coherently performed from inside, which means the suspended position the meta-question demands inherits limits the meta-question is partly about. This differs from approaching [defended territory](/voids/self-maintained-cognitive-limits/), where thoughts slide away: suspension is stable equilibrium, defended territory is active deflection.
 
+## The Scope Question: Estimating Total Ignorance from Within
+
+Beyond first-order limits ([the hard problem](/topics/hard-problem-of-consciousness/), the [intrinsic nature of matter](/voids/intrinsic-nature-void/), the [causal interface](/voids/causal-interface/)) and the recursive trap above, a further question shadows everything: **can a mind estimate the total scope of what it does not know?** The honest answer is that it probably cannot, and the impossibility is what makes the [voids](/voids/) catalogue permanently provisional. The Map is unfinishable in a stronger sense than "there is more to do." The fraction of the territory it covers is itself unknown and may be structurally unknowable.
+
+### Not Global Scepticism
+
+The scope claim is narrower and stranger than scepticism. We can know many things with reasonable warrant; we can identify specific limits with reasonable precision; what we cannot do is estimate the *proportion* of reality that our specific-limit catalogue covers. The cartographic analogue: a surveyor mapping a continent can identify unmapped regions and recognise the edge of the surveyed territory, but cannot estimate how much *more* continent extends beyond the edge. Every estimate presupposes a framework derived from the surveyed region, and the framework itself may be blind to structural features of the unsurveyed region — different coastline topologies, different categories never encountered. The horizon is local and structured, not a blanket denial of knowledge.
+
+### Convergence on the Scope Limit
+
+Several independent arguments converge on the scope claim, and convergence across different methods is [evidence](/voids/what-voids-reveal/) of a real cognitive feature rather than an artefact of any one framework. **Fitch's paradox of knowability** (Fitch 1963; Church's earlier 1945 referee report contained the proof) shows formally that if any truth is unknown, the proposition "this truth is unknown" cannot itself be known — knowing the conjunction "p and p is unknown" would falsify it. Any finite knower has unknowable unknowns whose extent cannot be mapped without contradiction. **Rescher's structural barriers** (Rescher 2009) identify developmental unpredictability, verificational surdity, ontological detail, and predicative vagrancy as features preventing finite cognition from achieving complete coverage; the class of unknowable truths is a necessary feature of finite cognitive ability rather than a failure of effort. **The Dunning-Kruger effect** (Dunning 2011) supplies the empirical shadow already noted: the skills needed to assess performance are the skills constituting performance, so meta-ignorance is measurable and pervasive at the cognitive level we can actually study. **Nagel's view from nowhere** (Nagel 1986) supplies the perspectival argument: any vantage from which one might survey all perspectives is itself a perspective; the most objective understanding we can reach is still someone's understanding, and its blind spots are inherited rather than escaped. Each argument is attackable in isolation — Fitch resists with intuitionistic logic; Dunning-Kruger admits statistical re-readings; Nagel can be accused of category error. What matters is that the arguments do not share assumptions; their convergence is stronger evidence than any one alone.
+
+### Phenomenology of the Horizon
+
+Approaching the scope question produces a distinctive signature the Map calls **epistemic agoraphobia** — the feeling of unbounded openness in which the unknown extends in every direction without limit. This differs from the [signatures](/voids/compound-failure-signatures/) of specific voids. Hitting the [intrinsic-nature void](/voids/intrinsic-nature-void/) feels like a conceptual wall; the [closure-types void](/voids/closure-types-void/) feels like uncertainty about which wall. The scope void is the *absence* of a wall: every estimate of how much one does not know moves with the gaze, because each frame of reference presupposes a framework whose blind spots are unknown. The agoraphobia tracks the structural fact that estimating total scope is an operation that cannot complete.
+
+### The Map's Own Horizon
+
+The Map catalogues voids. The catalogue is itself a cognitive product. Does it inherit the scope limit? The honest answer is yes, and the Map should say so explicitly. The current voids section contains roughly 100 entries; there is no principled argument that this number approximates the total a mind like ours could in principle identify, much less the total a mind unlike ours might identify. The catalogue is produced from within the limited system whose limits it tries to describe. It will miss voids whose detection requires conceptual resources the Map does not possess — the [question-formation void](/voids/question-formation-void/) is the deeper case: voids whose detection requires question-shapes the apparatus cannot generate leave no apparent gap to be missed. It will misclassify voids whose shape is distorted by the framework. It may even generate phantom voids — apparent limits that are artefacts of method rather than features of cognition.
+
+The inheritance has a testable consequence: as the Map's coverage expands, new voids should appear that previous iterations could not have named. Catalogue stability would itself be suspicious — convergence to a fixed point is more likely evidence of cognitive fatigue than completeness. The Map can reduce but not eliminate the inheritance: cross-referencing with [minds of different architecture](/voids/non-human-minds-as-void-explorers/) illuminates blind spots specific to human cognition; [apophatic cartography](/voids/apophatic-cartography/) traces the topology of known failures as evidence for the shape of failures not yet noticed; treating the catalogue as permanently provisional builds the horizon into the Map's epistemic self-presentation rather than hiding it. None of these moves escape the horizon. They make it visible.
+
+### What the Scope Void Rules Out
+
+- **Closed catalogues of cognitive limits.** Any framework — mysterianist, materialist, or idealist — that claims to have enumerated cognition's limits is making a claim the scope void forbids. Such enumerations may be approximately useful; they cannot be complete.
+- **Strong parsimony arguments presupposing a surveyable explanatory space.** If we cannot estimate the size of the space, preferences within it concern cognitive ergonomics rather than truth-tracking — the [parsimony void](/voids/epistemological-limits-occams-razor/) makes this concrete.
+- **Fixed-point theories of science.** Views imagining science converging on a completed theory of everything treat the horizon as a practical obstacle rather than a structural feature; sufficiently advanced theories produce new horizons they could not previously have framed.
+
+The scope void does not rule out confident first-order knowledge. Consciousness exists, the hard problem is real, materialism has specific failures — these claims survive. The horizon constrains second-order estimates of completeness; it does not dissolve first-order claims.
+
+If the world we experience is a [simulation](/concepts/simulation/), the horizon could be engineered rather than discovered — architects could control not only what we can know but our ability to estimate what we cannot. This possibility is interesting precisely because it cannot be distinguished from a non-simulated horizon from within. The horizon is the void that makes simulation detection structurally difficult, not because the simulation is especially clever but because the horizon exists either way.
+
 ## Implications for the Voids Framework
 
-**Meta-uncertainty is built in.** The voids project cannot assume its central premise (that some voids are genuinely unexplorable), nor dismiss it, nor estimate what fraction of the territory its catalogue covers—the [epistemic horizon void](/voids/epistemic-horizon-void/) is this second-order limit. Appropriate stance: humility about the framework's own foundations.
+**Meta-uncertainty is built in.** The voids project cannot assume its central premise (that some voids are genuinely unexplorable), nor dismiss it, nor estimate what fraction of the territory its catalogue covers—[the scope question above](#the-scope-question-estimating-total-ignorance-from-within) makes this second-order limit explicit. Appropriate stance: humility about the framework's own foundations.
 
 **Indirect methods become primary.** Direct verification being impossible, the Map tracks the *shape* of failure. The [epistemology of limit-knowledge](/concepts/epistemology-of-limit-knowledge/) systematises this into four routes: failure analysis, convergence, structural inference, and apophatic reasoning.
 
@@ -177,7 +212,6 @@ None of these conditions has been met. The hard problem remains as puzzling afte
 - [The Inspection Paradox](/concepts/inspection-paradox/) — The general structural pattern
 - [The Phenomenal Quality Void](/voids/phenomenal-quality-void/) — Why the stamp of realness hides itself
 - [epistemology-of-limit-knowledge](/concepts/epistemology-of-limit-knowledge/) — The systematic account of limit-claim methods
-- [The Epistemic Horizon Void](/voids/epistemic-horizon-void/) — The second-order limit: estimating total scope from within
 - [The Plenitude Void](/voids/plenitude-void/) — The self-concealing gap between felt phenomenal richness and what can be checked
 - [The Categorial Void](/voids/categorial-void/) — The gap that opens when reality has features for which the mind has no categorial shape
 - [The Suspension Void](/voids/suspension-void/) — Why the suspended position the meta-question demands inherits its own structural limits
@@ -198,3 +232,8 @@ None of these conditions has been met. The hard problem remains as puzzling afte
 12. Whitehead, A. N. (1929). *Process and Reality*. Macmillan.
 13. Kant, I. (1781/1787). *Critique of Pure Reason*.
 14. Demircioglu, E. (2017). "Human Cognitive Closure and Mysterianism: Reply to Kriegel." *Acta Analytica*, 32, 147-158.
+15. Fitch, F. B. (1963). "A Logical Analysis of Some Value Concepts." *Journal of Symbolic Logic*, 28(2), 135-142.
+16. Rescher, N. (2009). *Unknowability: An Inquiry Into the Limits of Knowledge*. Lanham: Lexington Books.
+17. Nagel, T. (1986). *The View from Nowhere*. New York: Oxford University Press.
+18. Dunning, D. (2011). "The Dunning-Kruger Effect: On Being Ignorant of One's Own Ignorance." *Advances in Experimental Social Psychology*, 44, 247-296.
+19. Proctor, R. N. & Schiebinger, L. (Eds.) (2008). *Agnotology: The Making and Unmaking of Ignorance*. Stanford University Press.

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-28 21:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: 'When did consciousness arise? Dualism avoids the strong emergence 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 19:31:00+00:00
+last_deep_review: 2026-04-28 21:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

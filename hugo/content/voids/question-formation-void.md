@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-04-26 14:53:00+00:00
+ai_modified: 2026-04-28 23:23:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -26,7 +26,6 @@ related_articles:
 - '[[framework-void]]'
 - '[[conceptual-impossibility]]'
 - '[[meta-epistemology-of-limits]]'
-- '[[epistemic-horizon-void]]'
 - '[[categorial-void]]'
 - '[[plenitude-void]]'
 - '[[inference-void]]'
@@ -42,7 +41,7 @@ topics: []
 
 The **question formation void** names the structural constraint on *which questions a mind can formulate* — distinct from the constraint on which answers a mind can reach. Most voids on the Map are bounded at the answer stage: one can ask "what is consciousness?" without resolving the [hard problem](/topics/hard-problem-of-consciousness/). The question formation void operates earlier. Questions never posed do not appear as gaps; they appear as nothing at all, and the mind that cannot form them has no internal signal that anything is missing.
 
-This void joins the April 2026 cluster of second-order voids — the [epistemic horizon void](/voids/epistemic-horizon-void/), the [plenitude void](/voids/plenitude-void/), the [categorial void](/voids/categorial-void/), and the [inference void](/voids/inference-void/) — each concerning an architectural feature of self-reflective cognition rather than a specific content gap. It is the void that shadows [apophatic cartography](/voids/apophatic-cartography/) itself: mapping by negation can only negate what can already be formulated. The Map's own method has a horizon it cannot see past from within.
+This void joins the April 2026 cluster of second-order voids — the [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within), the [plenitude void](/voids/plenitude-void/), the [categorial void](/voids/categorial-void/), and the [inference void](/voids/inference-void/) — each concerning an architectural feature of self-reflective cognition rather than a specific content gap. It is the void that shadows [apophatic cartography](/voids/apophatic-cartography/) itself: mapping by negation can only negate what can already be formulated. The Map's own method has a horizon it cannot see past from within.
 
 ## Three Layers of the Limit
 
@@ -91,7 +90,7 @@ Indirect methods are more tractable. Reading traditions with different backgroun
 
 ## The Inheritance Problem
 
-This article uses question-formation apparatus to describe question-formation limits. The questions it poses about the void are a proper subset of the questions its cognitive apparatus can form; any questions outside that subset are unreachable by the investigation that would name them. The same pattern appears in the [epistemic horizon](/voids/epistemic-horizon-void/) and [categorial](/voids/categorial-void/) discussions: the verifying apparatus is implicated in what is being verified.
+This article uses question-formation apparatus to describe question-formation limits. The questions it poses about the void are a proper subset of the questions its cognitive apparatus can form; any questions outside that subset are unreachable by the investigation that would name them. The same pattern appears in the [epistemic horizon](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) and [categorial](/voids/categorial-void/) discussions: the verifying apparatus is implicated in what is being verified.
 
 Three honest concessions follow. The void description will carry blind spots specific to its generative architecture — Western philosophical training, Indo-European question syntax, and whatever the Map's own framework excludes. Convergence of voids catalogues across different minds is weak evidence of completeness and may instead reflect shared architectural limits. The cleanest empirical probe is precisely the method the apparatus cannot self-administer: exposing the question-set to minds whose generativity differs, and looking for systematic divergence. None of these moves escape the void. They make it visible.
 
@@ -101,7 +100,7 @@ The [framework void](/voids/framework-void/) concerns the totality of one's conc
 
 [Conceptual impossibility](/voids/conceptual-impossibility/) concerns the space of thinkable contents. The question formation void concerns the space of formulable interrogatives over whatever contents are thinkable — what can be *asked about what is conceived*.
 
-The [epistemic horizon void](/voids/epistemic-horizon-void/) concerns the impossibility of estimating the total scope of one's ignorance. The question formation void concerns the impossibility of formulating specific questions at all. They compose: we cannot list the questions we cannot form *and* we cannot estimate how many such questions exist.
+The [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) concerns the impossibility of estimating the total scope of one's ignorance. The question formation void concerns the impossibility of formulating specific questions at all. They compose: we cannot list the questions we cannot form *and* we cannot estimate how many such questions exist.
 
 The [inference void](/voids/inference-void/) concerns the opacity of inferential transitions — the *move* from premise to conclusion — to the consciousness performing them. The question formation void operates upstream: it concerns whether the interrogative shape arises at all. The two compose. Question-formation is realized by inferential operations on most accounts, so the inference void underlies the generative apparatus this article describes; conversely, every inference about what cannot be formulated is performed by operations the inference void declares opaque.
 
@@ -121,7 +120,6 @@ Apophatic cartography can only negate what can be formulated; the question forma
 
 - [framework-void](/voids/framework-void/)
 - [conceptual-impossibility](/voids/conceptual-impossibility/)
-- [epistemic-horizon-void](/voids/epistemic-horizon-void/)
 - [categorial-void](/voids/categorial-void/)
 - [plenitude-void](/voids/plenitude-void/)
 - [inference-void](/voids/inference-void/)

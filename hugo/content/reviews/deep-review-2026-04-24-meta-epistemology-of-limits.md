@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-04-24
 **Article**: [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/)
 **Previous review**: [2026-04-23](/reviews/deep-review-2026-04-23-meta-epistemology-of-limits/)
-**Trigger**: Cross-review after the second-order voids cluster was filled out with [plenitude-void](/voids/plenitude-void/) and [categorial-void](/voids/categorial-void/) (both created 2026-04-23 alongside the already-integrated [epistemic-horizon-void](/voids/epistemic-horizon-void/)).
+**Trigger**: Cross-review after the second-order voids cluster was filled out with [plenitude-void](/voids/plenitude-void/) and [categorial-void](/voids/categorial-void/) (both created 2026-04-23 alongside the already-integrated [epistemic-horizon-void](/voids/meta-epistemology-of-limits/)).
 
 ## Pessimistic Analysis Summary
 
@@ -28,7 +28,7 @@ topics: []
 None. Four prior reviews (2026-03-20 post-coalesce, 2026-04-17, 2026-04-21, 2026-04-23) verified attribution accuracy (Chomsky, Kriegel, Demircioglu, McGinn, Dunning-Kruger, Bostrom, Nicholas of Cusa, Kant, Gödel, Dennett, Chalmers, Frankish, Tallis, Whitehead, Block implicit via closure-types). No factual errors, misattributions, dropped qualifiers, or source/Map conflation were introduced in this cross-review.
 
 ### Medium Issues Found
-- **Missing cross-links to the rest of the second-order voids cluster**: The 2026-04-23 review integrated [epistemic-horizon-void](/voids/epistemic-horizon-void/) but [plenitude-void](/voids/plenitude-void/) (created 2026-04-23, links to meta-epistemology-of-limits) and [categorial-void](/voids/categorial-void/) (created 2026-04-23, also links here) remained un-reciprocated. Plenitude-void is a concrete instance of the article's "assessment requires the faculties under assessment" thesis at the level of phenomenal content; categorial-void sits one level below the closure-types distinction that the article already develops. Both warranted load-bearing cross-references, not just related_articles entries.
+- **Missing cross-links to the rest of the second-order voids cluster**: The 2026-04-23 review integrated [epistemic-horizon-void](/voids/meta-epistemology-of-limits/) but [plenitude-void](/voids/plenitude-void/) (created 2026-04-23, links to meta-epistemology-of-limits) and [categorial-void](/voids/categorial-void/) (created 2026-04-23, also links here) remained un-reciprocated. Plenitude-void is a concrete instance of the article's "assessment requires the faculties under assessment" thesis at the level of phenomenal content; categorial-void sits one level below the closure-types distinction that the article already develops. Both warranted load-bearing cross-references, not just related_articles entries.
   - **Resolution**: Added [plenitude-void](/voids/plenitude-void/) and [categorial-void](/voids/categorial-void/) to related_articles frontmatter; inserted one-sentence integrations at the two sections where they deepen the argument (The Core Problem → plenitude-void as the same recursion at the content level; The Pessimist Position → categorial-void as the level below closure-types); added both to Further Reading with short descriptors.
 
 ### Counterarguments Considered

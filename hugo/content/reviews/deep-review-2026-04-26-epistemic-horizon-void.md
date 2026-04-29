@@ -20,7 +20,7 @@ topics: []
 ---
 
 **Date**: 2026-04-26
-**Article**: [The Epistemic Horizon Void](/voids/epistemic-horizon-void/)
+**Article**: [The Epistemic Horizon Void](/voids/meta-epistemology-of-limits/)
 **Previous review**: [2026-04-25](/reviews/deep-review-2026-04-25-epistemic-horizon-void/)
 **Word count**: 1987 → 1987 (no prose changes)
 **Cross-review trigger**: Integrate [inference-void](/voids/inference-void/) insights (article published 2026-04-26, names epistemic-horizon-void as a sibling in the second-order cluster)

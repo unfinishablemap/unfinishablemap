@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-27
-ai_modified: 2026-04-27 02:28:00+00:00
+ai_modified: 2026-04-28 23:38:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,6 +18,7 @@ concepts:
 - '[[intentionality]]'
 - '[[phenomenal-concepts-strategy]]'
 - '[[hard-problem-of-content]]'
+- '[[phenomenology-vs-function-axis]]'
 created: 2026-02-27
 date: &id001 2026-02-27
 description: 'Multiple independent philosophical arguments converge on the same conclusion:
@@ -26,7 +27,7 @@ description: 'Multiple independent philosophical arguments converge on the same 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 02:28:00+00:00
+last_deep_review: 2026-04-28 23:38:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -66,7 +67,9 @@ The objection has force against some subsets of the arguments. The conceivabilit
 
 A further convergence comes from inside naturalism's own project. Hutto and Myin's [Hard Problem of Content](/concepts/hard-problem-of-content/) argues that no covariational or teleosemantic theory can deliver intentional aboutness—the truth-conditional, intensional properties that contentful states are supposed to have. The structural shape parallels the explanatory gap exactly: physical descriptions leave unexplained how neural processes acquire *aboutness*, just as they leave unexplained how those processes are accompanied by *experience*. Hutto and Myin are naturalists who reject dualism; their response is to deny that basic minds have content at all. The Map borrows the diagnosis without the cure—two parallel naturalisation failures, identified by different research programmes from different starting commitments, are evidence that physicalism is hitting a real boundary rather than a contingent gap.
 
-These philosophical arguments gain tentative empirical support from phenomena that production models struggle to accommodate. [Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—cognitive clarity returning in patients with severe neurodegeneration—challenges the monotonic relationship between neural substrate and cognitive capacity that production models predict. The evidence for terminal lucidity remains largely based on case reports and retrospective surveys rather than controlled studies, and conventional explanations (transient metabolic changes, incomplete neurodegeneration) have not been ruled out. It is suggestive rather than conclusive. Alongside [psychedelic states](/topics/psychedelics-and-the-filter-model/), [near-death-experiences](/concepts/near-death-experiences/), and [covert consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/), it forms a pattern worth taking seriously, though its evidential weight is modest compared to the philosophical arguments above.
+These philosophical arguments gain tentative empirical support from phenomena that production models struggle to accommodate. [Terminal lucidity](/topics/terminal-lucidity-and-filter-transmission-theory/)—cognitive clarity returning in patients with severe neurodegeneration—challenges the monotonic neural-substrate-to-cognitive-capacity relationship that production models predict. The evidence is largely case reports rather than controlled studies, and conventional explanations (transient metabolic changes, incomplete neurodegeneration) are not ruled out. Alongside [psychedelic states](/topics/psychedelics-and-the-filter-model/), [near-death-experiences](/concepts/near-death-experiences/), and [covert consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/), it forms a suggestive pattern of modest evidential weight compared to the philosophical arguments above.
+
+A separate empirical pressure point targets functionalism rather than production models. The [phenomenology-vs-function axis](/concepts/phenomenology-vs-function-axis/) in the Map's voids programme — aphantasic mental rotation, synaesthetic extra qualia, foreign-language comprehension contrasts, and Wegner's I-Spy agency dissociation — shows phenomenal character and cognitive function coming apart across four within-species exemplars. The pattern constrains rather than refutes function-phenomenology identity; the cumulative force is cross-domain recurrence rather than any single decisive case.
 
 For detailed treatment of each argument, see [dualism](/concepts/dualism/). For the focused systematic case from the hard problem through quantum indeterminacy, see [Against Materialism](/arguments/materialism-argument/).
 
@@ -154,6 +157,7 @@ The arguments against materialism do not prove that consciousness interfaces wit
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem that started the contemporary debate
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Formal mathematical case that physical description has principled limits
 - [hard-problem-of-content](/concepts/hard-problem-of-content/) — Hutto and Myin's parallel argument: no naturalistic theory delivers intentional aboutness
+- [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — Empirical wedge against function-phenomenology identity across imagery, synaesthesia, comprehension, and agency
 - [enactivism-challenge-to-interactionist-dualism](/topics/enactivism-challenge-to-interactionist-dualism/) — How enactivism's own commitments converge on dualism's irreducibility claim
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The Map's positive framework
 - [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Differential predictions and the experimental landscape constraining collapse models

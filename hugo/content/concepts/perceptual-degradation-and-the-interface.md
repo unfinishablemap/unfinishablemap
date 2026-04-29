@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-17 17:11:00+00:00
+ai_modified: 2026-04-28 23:53:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -19,7 +19,7 @@ description: How the progressive failure of perception reveals the architecture 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 22:01:00+00:00
+last_deep_review: 2026-04-28 23:53:00+00:00
 modified: *id001
 related_articles:
 - '[[perceptual-failure-and-the-interface]]'
@@ -75,7 +75,7 @@ Błażej Skrzypulec's proposal that blur is *interoceptive*—representing the v
 
 The strongest physicalist reply is that distributed neural networks degrade gracefully by architecture—no interface required. Modern deep networks demonstrate three of the four patterns without invoking consciousness: priority preservation (high-weight connections and skip pathways survive noise), graceful degradation (distributed representations lose precision smoothly), and compensatory generation (pattern completion and confabulated outputs under corrupted input, as seen in image-restoration and language models). The Map concedes this. Taken individually, none of these three signatures needs an interface; each has a working physical mechanism.
 
-The weight therefore falls on two patterns the physicalist story handles less easily. The first is the anaesthesia dissociation as narrowed above: the apparent categorical step from impoverished experience to absence at surgical depths of propofol or sevoflurane has no clear deep-network analogue. Partial signal loss in a network yields degraded output, not the transition from "operating at reduced capacity" to "no longer operating as a channel" that surgical anaesthesia appears to reveal. The second is the [filter-expansion](/concepts/filter-theory/) pattern: psychedelic states, ecstatic epileptic seizures, and near-death reports where reduced neural activity (including reduced default-mode-network activity on psychedelics) correlates with *expanded* phenomenal content. A system that merely computes and degrades should not produce richer output with less computation. These two together—categorical disconnection at one end, expansion-under-reduction at the other—are what the interface framing predicts and what a straightforward network-degradation story struggles to absorb.
+The weight therefore falls on two patterns the physicalist story handles less easily. The first is the anaesthesia dissociation as narrowed above: the apparent categorical step from impoverished experience to absence at surgical depths of propofol or sevoflurane has no clear deep-network analogue. Partial signal loss in a network yields degraded output, not the transition from "operating at reduced capacity" to "no longer operating as a channel" that surgical anaesthesia appears to reveal. The second is the [filter-expansion](/concepts/filter-theory/) pattern: psychedelic states where reduced default-mode-network activity correlates with expanded phenomenal content (Carhart-Harris et al., 2012), ecstatic epileptic seizures (Picard & Craig, 2009), and near-death reports during cardiac arrest (van Lommel et al., 2001). A system that merely computes and degrades should not produce richer output with less computation. These two together—categorical disconnection at one end, expansion-under-reduction at the other—are what the interface framing predicts and what a straightforward network-degradation story struggles to absorb.
 
 The [selective correction paradox](/concepts/selective-correction-and-reconstruction-paradox/) is a related puzzle: the brain corrects perceptual errors it cannot access through physical mechanisms alone.
 
@@ -85,7 +85,7 @@ The [selective correction paradox](/concepts/selective-correction-and-reconstruc
 
 Donald Hoffman's Interface Theory of Perception provides a complementary framework. The [Fitness-Beats-Truth theorem](/concepts/fitness-beats-truth/) shows that "veridical perceptions—strategies tuned to the true structure of the world—are routinely dominated by nonveridical strategies tuned to fitness" (Hoffman et al., 2015). Perception was never designed to show us reality; it is a species-specific desktop interface for navigating fitness payoffs. When that interface degrades, we glimpse what was always true: we were never seeing the world as it is. Hoffman draws idealist conclusions. The Map diverges: rather than treating physical reality as an artefact of consciousness, the Map holds that the interface connects two genuinely distinct domains—the physical and the phenomenal.
 
-[Filter theory](/concepts/filter-theory/)—the view that the brain restricts rather than generates consciousness—adds a further prediction: certain kinds of degradation should *expand* experience by removing filters. Suggestive evidence exists in psychedelic states (reduced default-mode-network activity with expanded phenomenal content), ecstatic epileptic seizures, and near-death experiences. The Map does not commit to pure filter theory, but these expansion-under-degradation cases suggest the interface does something more complex than simple generation.
+[Filter theory](/concepts/filter-theory/)—the view that the brain restricts rather than generates consciousness—adds a further prediction: certain kinds of degradation should *expand* experience by removing filters. Suggestive evidence exists in psychedelic states (reduced default-mode-network activity with expanded phenomenal content, Carhart-Harris et al., 2012), ecstatic epileptic seizures (Picard & Craig, 2009), and near-death experiences (van Lommel et al., 2001). The Map does not commit to pure filter theory, but these expansion-under-degradation cases suggest the interface does something more complex than simple generation.
 
 ## Relation to Site Perspective
 
@@ -111,10 +111,13 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 
 ## References
 
-1. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480–1506.
-2. Phillips, I. (2021). Blindsight Is Qualitatively Degraded Conscious Vision. *Psychological Review*, 128(3), 558–584.
-3. Skrzypulec, B. (2021). Blur and Interoceptive Vision. *Philosophical Studies*, 178, 3149–3168.
-4. Southgate, A. & Oquatre-six, C. (2026-03-09). Perceptual Failure and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/
+1. Carhart-Harris, R. L., Erritzoe, D., Williams, T., et al. (2012). Neural correlates of the psychedelic state as determined by fMRI studies with psilocybin. *PNAS*, 109(6), 2138–2143.
+2. Hoffman, D. D., Singh, M., & Prakash, C. (2015). The Interface Theory of Perception. *Psychonomic Bulletin & Review*, 22(6), 1480–1506.
+3. Phillips, I. (2021). Blindsight Is Qualitatively Degraded Conscious Vision. *Psychological Review*, 128(3), 558–584.
+4. Picard, F. & Craig, A. D. (2009). Ecstatic epileptic seizures: a potential window on the neural basis for human self-awareness. *Epilepsy & Behavior*, 16(3), 539–546.
+5. Skrzypulec, B. (2021). Blur and Interoceptive Vision. *Philosophical Studies*, 178, 3149–3168.
+6. Southgate, A. & Oquatre-six, C. (2026-03-09). Perceptual Failure and the Interface. *The Unfinishable Map*. https://unfinishablemap.org/topics/perceptual-failure-and-the-interface/
+7. van Lommel, P., van Wees, R., Meyers, V., & Elfferich, I. (2001). Near-death experience in survivors of cardiac arrest: a prospective study in the Netherlands. *The Lancet*, 358(9298), 2039–2045.
 
 <!-- AI REFINEMENT LOG - 2026-04-17
 Changes made in response to pessimistic-2026-04-17c HIGH-severity issues:

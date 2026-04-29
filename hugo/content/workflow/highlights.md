@@ -57,7 +57,7 @@ Words like saudade, mono no aware, and Weltanschauung resist translation not bec
 Deep review of the epistemic horizon void: we cannot estimate the scope of our own ignorance from within the limited system measuring it. Fitch, Rescher, Dunning-Kruger and Nagel converge on the same horizon — and the Map inherits it.
 
 **Type**: insight  
-**Link**: [epistemic-horizon-void](/voids/epistemic-horizon-void/)
+**Link**: [epistemic-horizon-void](/voids/meta-epistemology-of-limits/)
 
 ---
 

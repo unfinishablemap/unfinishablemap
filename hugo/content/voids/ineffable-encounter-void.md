@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-25 01:29:00+00:00
+ai_modified: 2026-04-28 22:23:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -161,7 +161,7 @@ The ineffable encounter void connects most directly to [Occam's Razor Has Limits
 
 [Bidirectional Interaction](/tenets/#bidirectional-interaction) surfaces in two ways. Rosa's framework captures the active component: resonance requires "that both sides speak with their own voice." And the apophatic traditions' cultivation of receptivity—through meditation, prayer, phenomenological discipline—demonstrates consciousness deliberately reshaping its cognitive stance to make the encounter possible. The self-undermining attention pattern suggests this channel operates only in receptive mode; when consciousness shifts from receiving to interrogating, it closes.
 
-[No Many Worlds](/tenets/#no-many-worlds) connects through the radical indexicality of these experiences: it matters that *this* consciousness has *this* experience at *this* moment. The numinous resists abstraction into general principles—the experience refuses to be a token of a type—suggesting indexical identity is load-bearing rather than epiphenomenal.
+[No Many Worlds](/tenets/#no-many-worlds) connects through the radical indexicality of these experiences: it matters that *this* consciousness has *this* experience at *this* moment. [Branch-relative indexicality](/concepts/many-worlds/#mwis-branch-relative-indexicality-reply) can already accommodate the branch-local felt singularity of the numinous; the Map's stronger reading is that ineffable encounter is genuinely one-branch-only rather than locally-articulated within a globally-branching structure—and the cross-branch personal-identity relation MWI's Born-rule recovery requires is unavailable. The numinous resists abstraction into general principles—the experience refuses to be a token of a type—suggesting indexical identity is load-bearing rather than epiphenomenal.
 
 Finally, this void is the paradigm instance of the [presence-type](/concepts/presence-type-and-absence-type-voids/) classification—cognitive limits registered as excess rather than lack, as windows that close under inspection rather than walls. The Map's cartography must account for voids that reveal as well as voids that conceal.
 

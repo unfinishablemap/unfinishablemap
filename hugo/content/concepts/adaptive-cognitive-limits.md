@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-17 14:56:00+00:00
+ai_modified: 2026-04-28 22:45:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ description: Human-AI inquiry into cognitive limits as evolutionary features —
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 19:14:00+00:00
+last_deep_review: 2026-04-28 22:45:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -37,7 +37,7 @@ Adaptive cognitive limits are cognitive boundaries maintained by natural selecti
 
 The strongest formal evidence for adaptive cognitive limits comes from Donald Hoffman, Manish Singh, and Chetan Prakash. Their [Fitness-Beats-Truth (FBT) theorem](/concepts/fitness-beats-truth/) proves that perceptual strategies tuned to fitness payoffs strictly dominate strategies tuned to objective truth — for all fitness functions and all probability distributions over world states.
 
-This is a mathematical result, not an empirical generalisation. Monte Carlo simulations confirm it: "truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021). Organisms that perceived reality more accurately were systematically outcompeted by organisms that perceived it in fitness-relevant ways.
+The theorem holds analytically across all fitness functions and probability distributions, with Monte Carlo simulations corroborating it: "truer perceptions are routinely driven to extinction by perceptions tuned to relevant fitness functions" (Prakash et al. 2021). Organisms that perceived reality more accurately were systematically outcompeted by organisms that perceived it in fitness-relevant ways.
 
 Hoffman's implication is that perception operates as a species-specific interface — like a desktop GUI — optimised for useful interaction rather than veridical representation. The interface hides underlying reality not because it cannot access it but because accessing it would compromise function.
 
@@ -53,7 +53,7 @@ The FBT theorem addresses perception, but adaptive limits extend across cognitiv
 
 **Epistemic virtue of limitation.** Benjamin Rancourt (2025) argues that cognitive limitations are prerequisites for epistemic agency, not obstacles to it. Without them, deliberation could never close — our limitations prevent us from "considering all possible doubt, leaving a tractable space of possibilities."
 
-**Architectural closure.** Colin McGinn's [mysterianism](/concepts/mysterianism/) holds that the brain is an evolved organ with structural boundaries no effort can transcend. Our concept-forming apparatus was shaped by spatial-motor functions and lacks the non-spatial concepts needed to bridge the consciousness explanatory gap.
+**Architectural closure.** Colin McGinn's [mysterianism](/concepts/mysterianism/) holds that the brain is an evolved organ with structural boundaries no effort can transcend. Our concept-forming apparatus was shaped by spatial-motor functions and lacks the non-spatial concepts needed to bridge the consciousness explanatory gap. McGinn's case sits at the boundary between adaptive and architectural limits: the structural closure itself was produced by adaptive evolutionary shaping, suggesting the two categories overlap at the deepest level — a hard ceiling that arose because reaching higher conferred no fitness advantage.
 
 ## Distinctive Phenomenology
 

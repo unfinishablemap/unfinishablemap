@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-28 05:29:00+00:00
+ai_modified: 2026-04-29 00:08:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -30,6 +30,7 @@ concepts:
 - '[[symbol-grounding-problem]]'
 - '[[metacognition]]'
 - '[[knowledge-argument]]'
+- '[[phenomenology-vs-function-axis]]'
 created: 2026-01-16
 date: &id001 2026-02-02
 description: Is there something it's like to think, beyond sensory accompaniments?
@@ -38,7 +39,7 @@ description: Is there something it's like to think, beyond sensory accompaniment
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 05:29:00+00:00
+last_deep_review: 2026-04-29 00:08:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -145,7 +146,7 @@ PCT explains several puzzles:
 
 ## The Mathematical Understanding Case
 
-[Mathematical understanding](/topics/consciousness-and-mathematics/) provides compelling evidence because three phenomenal stages are clearly delineated. (The [philosophy of mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) maps the broader landscape: every major position on mathematical ontology implies a position on what consciousness does.): **verification** (checking steps follow rules), **understanding** (grasping *why* it works), and **insight** (sudden arrival of solutions). The transition from verification to understanding is phenomenally marked—the same symbols, different experience.
+[Mathematical understanding](/topics/consciousness-and-mathematics/) provides compelling evidence because three phenomenal stages are clearly delineated: **verification** (checking steps follow rules), **understanding** (grasping *why* it works), and **insight** (sudden arrival of solutions). The transition from verification to understanding is phenomenally marked—the same symbols, different experience.
 
 Mathematical understanding shows tight coupling between phenomenology and performance: those who report genuine understanding can apply insights to new problems, while mere verifiers cannot. If the phenomenal difference were confabulation, it wouldn't predict cognitive success so reliably.
 
@@ -236,7 +237,7 @@ The [amplification hypothesis](/concepts/consciousness-as-amplifier/) provides e
 
 ## Evidence from Unusual Cases
 
-People with **aphantasia** (inability to form mental images) still think, understand, and have insights—their cognitive phenomenology cannot reduce to visual imagery. The [imagery-void](/voids/imagery-void/) catalogues the function-phenomenology dissociations this exposes: aphantasics complete mental rotation analytically rather than via image-rotation (Kay, Keogh & Pearson 2024), which Lennon (2023) reads as falsifying the sensory constraint on conscious thought. Some people report vivid inner speech while others report "thinking in concepts" without verbal accompaniment, suggesting cognitive phenomenology manifests differently across individuals. Additionally, introspective reliability improves with training: expert meditators and subjects guided by the [microphenomenological interview](/topics/microphenomenological-interview-method/) access pre-reflective cognitive content that casual introspection overlooks, narrowing the variation that fuels the unreliability objection.
+People with **aphantasia** (inability to form mental images) still think, understand, and have insights—their cognitive phenomenology cannot reduce to visual imagery. The [imagery-void](/voids/imagery-void/) catalogues the function-phenomenology dissociations this exposes: aphantasics complete mental rotation analytically rather than via image-rotation (Kay, Keogh & Pearson 2024), which Lennon (2023) reads as falsifying the sensory constraint on conscious thought. The [function-phenomenology axis](/concepts/phenomenology-vs-function-axis/) situates this within a cross-domain pattern: parallel dissociations recur in synaesthesia (extra qualia) and agency (Wegner's I-Spy), constraining functionalist absorption in aggregate. Some people report vivid inner speech while others report "thinking in concepts" without verbal accompaniment, suggesting cognitive phenomenology manifests differently across individuals. Additionally, introspective reliability improves with training: expert meditators and subjects guided by the [microphenomenological interview](/topics/microphenomenological-interview-method/) access pre-reflective cognitive content that casual introspection overlooks, narrowing the variation that fuels the unreliability objection.
 
 ## The Illusionist Challenge
 
