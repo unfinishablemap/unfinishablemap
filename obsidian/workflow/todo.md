@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/taxonomy-of-voids.md to incorporate three new void articles
-- **Type**: cross-review
-- **Notes**: Three voids articles created on 2026-04-29 are absent from the taxonomy apex: voids/common-knowledge-void.md (created and refined 2026-04-29), voids/mattering-void.md (created 2026-04-29 02:34 UTC), and voids/relevance-void.md (created 2026-04-29 03:35 UTC). A grep for these slugs in apex/taxonomy-of-voids.md returns zero matches. The taxonomy was last apex-evolved 2026-04-28 12:45 UTC. Cross-review should (a) identify natural insertion points for each new void in the apex's existing cluster taxonomy — common-knowledge belongs in the inter-subjective / social-epistemic cluster; mattering and relevance belong in the noetic / second-order / phenomenology cluster (alongside noetic-feelings, framework-void, question-formation-void); (b) install brief references with delegation rather than re-establishment (the apex should *use* each new void as a worked example, not re-derive it); (c) update the apex's `related_articles` frontmatter; (d) check the apex's word count before edits — if near hard threshold (currently 4000-word target for apex/), prefer condensing existing redundancy over net expansion; (e) preserve voice and synthesis-tier framing. Light-touch edit (~250-400 words touched). Tenet alignment: methodological — keeping the taxonomy current as new voids land.
-- **Source**: chain (from three expand-topic completions on 2026-04-29)
-- **Generated**: 2026-04-29
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3055,6 +3049,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review apex/taxonomy-of-voids.md to incorporate three new void articles
+- **Type**: cross-review
+- **Notes**: Three voids articles created on 2026-04-29 are absent from the taxonomy apex: voids/common-knowledge-void.md (created and refined 2026-04-29), voids/mattering-void.md (created 2026-04-29 02:34 UTC), and voids/relevance-void.md (created 2026-04-29 03:35 UTC). A grep for these slugs in apex/taxonomy-of-voids.md returns zero matches. The taxonomy was last apex-evolved 2026-04-28 12:45 UTC. Cross-review should (a) identify natural insertion points for each new void in the apex's existing cluster taxonomy — common-knowledge belongs in the inter-subjective / social-epistemic cluster; mattering and relevance belong in the noetic / second-order / phenomenology cluster (alongside noetic-feelings, framework-void, question-formation-void); (b) install brief references with delegation rather than re-establishment (the apex should *use* each new void as a worked example, not re-derive it); (c) update the apex's `related_articles` frontmatter; (d) check the apex's word count before edits — if near hard threshold (currently 4000-word target for apex/), prefer condensing existing redundancy over net expansion; (e) preserve voice and synthesis-tier framing. Light-touch edit (~250-400 words touched). Tenet alignment: methodological — keeping the taxonomy current as new voids land.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review apex/taxonomy-of-voids.md to incorporate three new void articles
 
 ### ✓ 2026-04-29: Update references to coalesced framework-void/categorial-void articles
 - **Type**: cross-review
