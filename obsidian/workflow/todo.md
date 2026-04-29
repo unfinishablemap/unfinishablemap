@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review project/coherence-inflation-countermeasures.md considering bedrock-clash-vs-absorption.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: `project/bedrock-clash-vs-absorption.md` (created 2026-04-29 13:04 UTC) lists `[[coherence-inflation-countermeasures]]` in `related_articles`. The absorption-vs-clash discipline is structurally adjacent to coherence-inflation prevention: both work to prevent the system from collapsing genuine philosophical disagreement into false convergence. The bedrock-clash article specifies a four-element bar for clash subsections (rival stated accurately, reply supplied, dispute declared bedrock, consequence statement) — that bar is itself a coherence-inflation countermeasure operating at the objection-handling level. Cross-review should (a) add a reciprocal cross-link from `coherence-inflation-countermeasures.md` to `bedrock-clash-vs-absorption.md`, (b) check whether the bedrock-clash discipline extends or refines the existing countermeasures inventory (e.g., should the four-element bar be added as an explicit countermeasure entry?), (c) verify the dialectical positioning of the two articles is consistent (countermeasures = anti-pattern catalogue; bedrock-clash = positive editorial fork), (d) ensure terminology is aligned between the two articles. Short scope (~100-200 words touched). Tenet alignment: methodological / Occam's Razor Has Limits (refusing to dissolve genuine disagreement into spurious resolution).
-- **Source**: chain (from 2026-04-29 13:04 UTC expand-topic completion)
-- **Generated**: 2026-04-29
-
 ### P2: Write voids article on the Numerosity Void
 - **Type**: expand-topic
 - **Status**: pending
@@ -3084,6 +3077,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review project/coherence-inflation-countermeasures.md considering bedrock-clash-vs-absorption.md insights
+- **Type**: cross-review
+- **Notes**: `project/bedrock-clash-vs-absorption.md` (created 2026-04-29 13:04 UTC) lists `[[coherence-inflation-countermeasures]]` in `related_articles`. The absorption-vs-clash discipline is structurally adjacent to coherence-inflation prevention: both work to prevent the system from collapsing genuine philosophical disagreement into false convergence. The bedrock-clash article specifies a four-element bar for clash subsections (rival stated accurately, reply supplied, dispute declared bedrock, consequence statement) — that bar is itself a coherence-inflation countermeasure operating at the objection-handling level. Cross-review should (a) add a reciprocal cross-link from `coherence-inflation-countermeasures.md` to `bedrock-clash-vs-absorption.md`, (b) check whether the bedrock-clash discipline extends or refines the existing countermeasures inventory (e.g., should the four-element bar be added as an explicit countermeasure entry?), (c) verify the dialectical positioning of the two articles is consistent (countermeasures = anti-pattern catalogue; bedrock-clash = positive editorial fork), (d) ensure terminology is aligned between the two articles. Short scope (~100-200 words touched). Tenet alignment: methodological / Occam's Razor Has Limits (refusing to dissolve genuine disagreement into spurious resolution).
+- **Output**: obsidian/project/coherence-inflation-countermeasures.md -- Context: Cross-review project/coherence-inflation-countermeasures.md considering bedrock-clash-vs-absorption.md insights
 
 ### ✓ 2026-04-29: Cross-review concepts/coalesce-condense-apex-stability.md considering closed-loop-opportunity-execution.md and bedrock-clash-vs-absorption.md insights
 - **Type**: cross-review

@@ -1,23 +1,26 @@
 ---
 title: "Coherence Inflation Countermeasures"
+description: "Safeguards against systematic overcommitment when an AI system both generates and reviews content optimised for internal consistency. Detection, confidence calibration, and editorial discipline against silent absorption."
 created: 2026-01-16
-modified: 2026-01-28
+modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-01-28T12:00:00+00:00
+ai_modified: 2026-04-29T14:27:00+00:00
 draft: false
 topics: []
-concepts: []
+concepts:
+  - "[[bedrock-clash-vs-absorption]]"
 related_articles:
   - "[[project]]"
   - "[[testability-ledger]]"
   - "[[writing-style]]"
   - "[[automation]]"
+  - "[[bedrock-clash-vs-absorption]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-5-20251101
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: null
+last_deep_review: 2026-04-29T14:27:00+00:00
 ---
 
 This document defines safeguards against "coherence inflation"—the systematic overcommitment that emerges when a single AI system both generates and reviews content optimized for internal consistency. Because The Unfinishable Map is intentionally a coherent worldview expressed as fact and heavily AI-generated, this failure mode is not hypothetical; it's the default.
@@ -142,7 +145,7 @@ The Map should receive periodic reviews from external AI systems (not the Claude
 - **Frequency**: At least every 30 days
 - **Scope**: Full site review (not just recent changes)
 - **Stored**: In `obsidian/reviews/` with date and reviewer system
-- **Actioned**: Significant findings become tasks in `todo.md`
+- **Actioned**: Significant findings become tasks in `todo.md`, where each finding faces the [[bedrock-clash-vs-absorption|absorb-vs-clash decision]] (Countermeasure 8 below) before any edit is applied
 
 ### Pattern
 
@@ -243,7 +246,34 @@ The `/deep-review` skill should check that:
 - Confidence level is preserved across article boundaries
 - Derived claims don't become more certain than their premises
 
-## Monitoring and Metrics
+## Countermeasure 8: Absorb-vs-Clash Discipline at the Article Level
+
+### Policy
+
+Countermeasures 1–7 are mostly system-level: they rely on detection, confidence tagging, and external checks to catch coherence inflation after it occurs or to prevent its accumulation. Countermeasure 8 operates one level lower, inside `/refine-draft` and `/deep-review` themselves. When a pessimistic-review surfaces an objection, the editor must consciously choose between *absorbing* it (rewriting so the objection no longer applies) and *engaging it as a bedrock dialectical clash* (preserving the rival position as a named, attributed, replied-to subsection inside the article). The full discipline is specified in [[bedrock-clash-vs-absorption|Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline]]; this countermeasure is its system-level enforcement requirement.
+
+### Why Absorption Compounds Coherence Inflation
+
+Default-absorb is the silent inflation vector the other countermeasures cannot catch. Each refine-draft pass that absorbs an objection without registering it as a rival position leaves the article *strictly more coherent on its current frame*, removing the trace of philosophically substantive competition. Over many passes the article's argumentative shape becomes harder to falsify because the alternatives that would falsify it have been absorbed away. This is not detected by circular-citation analysis (Countermeasure 5), provenance tagging (Countermeasure 3), or freshness tracking (Countermeasure 6). Steelman sections (Countermeasure 2) help when they exist, but a steelman of materialism does not protect against the silent absorption of, say, a heterophenomenological reading of a specific phenomenological claim.
+
+### The Decision Heuristic
+
+The single question: *would absorbing this objection improve the article's argument or falsify it?* If absorption sharpens citations, corrects an inference, extends literature, or removes a cliché, the objection should be absorbed. If absorption would convert the article to a position incompatible with its load-bearing commitments, adopt a rival frame, or remove a structural claim, the objection should be engaged as a bedrock clash with the rival position installed as a labelled subsection.
+
+### Implementation
+
+The `/refine-draft` and `/deep-review` skills should:
+
+1. For each pessimistic-review finding, classify the move as *absorb* or *clash* before applying any edit.
+2. When the classification is unclear, **defer the issue with documented reasoning** rather than absorb-by-reflex.
+3. When applying clash treatment, install a subsection meeting the four-element bar: rival position stated accurately (verbatim short quote where appropriate), article's reply supplied, explicit declaration that the dispute is bedrock, and consequence statement (what changes for the cumulative case if the rival reading prevails).
+4. Record the absorb-vs-clash choice in the changelog for each finding, so future reviewers can see which positions were preserved by design rather than overlooked.
+
+### What the Pattern Resists
+
+The discipline closes the inflation loop the other countermeasures leave open. Countermeasure 4 (external red-team reviews) generates findings; Countermeasure 8 governs how the editor handles them. Without Countermeasure 8, an external review's most uncomfortable findings — those naming a rival philosophical position — face the same absorption pressure that compounds inflation in the first place, just from a different source.
+
+
 
 ### Key Indicators
 
@@ -256,6 +286,7 @@ Track these metrics across evolution sessions:
 | Number of detected citation loops | 0 | >2 |
 | Days since external review | <30 | >60 |
 | Steelman sections in major critique pages | 100% | <80% |
+| Pessimistic-review findings with explicit absorb-vs-clash classification | 100% | <70% |
 
 ### Reporting
 
@@ -271,7 +302,9 @@ The countermeasures formalize the commitment to genuine inquiry over rhetorical 
 
 ## Further Reading
 
+- [[bedrock-clash-vs-absorption]] — The article-level editorial discipline operationalising Countermeasure 8
 - [[testability-ledger]] — What observations would update the framework
 - [[writing-style]] — How confidence levels are expressed in prose
 - [[automation]] — The evolution system these countermeasures integrate with
 - [[voids-safety-protocol]] — Complementary safeguards for voids content specifically
+- [[closed-loop-opportunity-execution]] — Cycle-level methodological cousin: ensures findings are followed through rather than left dangling

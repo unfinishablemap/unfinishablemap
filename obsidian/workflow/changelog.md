@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 14:10:00+00:00
+ai_modified: 2026-04-29 14:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 14:27 UTC - deep-review
+- **Status**: Success
+- **File**: [[project/coherence-inflation-countermeasures]]
+- **Word count**: 1421 → 1942 (+521)
+- **Critical issues addressed**: 2 (missing `description` frontmatter; missing engagement with bedrock-clash discipline)
+- **Medium issues addressed**: 3 (Countermeasure 4 cross-reference to absorb-vs-clash decision; Further Reading cross-links; metric table extended with absorb-vs-clash adherence row)
+- **Enhancements made**: 1 major (added Countermeasure 8: Absorb-vs-Clash Discipline at the Article Level — operationalises the [[bedrock-clash-vs-absorption|bedrock-clash discipline]] as a system-level requirement, with policy / why-default-absorb-compounds-inflation / decision heuristic / implementation / loop-closure subsections following the existing seven-countermeasure template)
+- **Cross-review context**: triggered by [[bedrock-clash-vs-absorption]]'s explicit self-designation as feeding into coherence-inflation countermeasures. Article previously had no countermeasure for the editorial-level absorption-by-default vector — Countermeasure 8 closes the loop external red-team reviews (Countermeasure 4) leave open
+- **Stability notes recorded**: eliminativist rejection of evidence/coherence distinction and Madhyamaka critique of the article's categories declared bedrock; freshness thresholds (3y neuroscience / 10y philosophy) declared stipulative policy not empirical claim — future reviews should not re-flag any of these
+- **Output**: [[reviews/deep-review-2026-04-29-coherence-inflation-countermeasures]]
 
 ## 2026-04-29 14:10 UTC - deep-review
 - **Status**: Success
