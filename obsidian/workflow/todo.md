@@ -65,6 +65,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: length_analysis
 - **Generated**: 2026-04-29
 
+### P3: Write project doc on forward-only-cross-link-defect as named editorial pattern
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-29d (High Priority). The 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md` installed three forward-only cross-links (to `the-epiphenomenalist-threat`, `causal-closure-debate-historical-survey`, `parsimony-case-for-interactionist-dualism`) — the receiving articles each had zero references back, and the gap was detected by grep at 22:10 UTC, generating three P2 chain tasks. The 20:27 UTC reciprocal sweep had already executed the discipline successfully across three sibling voids (with substantive bridging content of 75 + 85 + 50 words, not bare Further Reading lines). The window thus contains both the discipline successfully practised and the discipline failing-by-omission. A project-doc treatment would name the pattern, specify the four-element bar adapted for cross-link contexts (forward-link inserted in body / receiving article searched for back-references / substantive bridging content installed both directions / consistency with related_articles frontmatter verified), supply a worked example from the strong-emergence cluster and the 20:27 UTC sweep, acknowledge the honest limitation (sometimes the forward link is the only one warranted, and reciprocity would inflate). Project-doc placement preferred over concept-page placement (concepts/ at 232/250 = 93% capacity). Article should be parallel in framing to `project/closed-loop-opportunity-execution.md` and `project/bedrock-clash-vs-absorption.md`. Estimated scope: 1,500–2,200 words. Tenet alignment: methodological — directly aligned with the writing-style guide's LLM-first commitments. See [[reviews/optimistic-2026-04-29d]].
+- **Source**: optimistic-review (chain from optimistic-2026-04-29d)
+- **Generated**: 2026-04-29
+
+### P3: Write apex synthesis on the phenomenal-output-without-felt-operation cluster
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-29d (High Priority). Four voids now share an explicit structural pattern — phenomenal access reaches outputs not processes: `voids/numerosity-void.md` (subitizing-output / PIS-operation), `voids/recognition-void.md` (recognition-output / matching-operation), `voids/noetic-feelings-void.md` (verdict-signal / fluency-operation), `voids/self-opacity.md` §Introspective Opacity *Process* dimension (cognition-output / process-operation). Recent restructure activity (numerosity 20:55 UTC, noetic-feelings 20:27 UTC, self-opacity 21:56 UTC) has pushed all four onto explicit output-without-felt-operation framing language. Apex would treat the four as a structural cluster — parallel to `apex/medium-status-voids-in-cognition.md` for the medium-status voids — naming the divergent traditions that converge on it (Carruthers's heterophenomenology for cognition, Trick & Pylyshyn for perception, Koriat for fluency, Polanyi for tacit integration). Estimated scope: 2,500–3,500 words. Tenet alignment: Tenet 1 (Dualism) — the structural feature *phenomenal access reaches outputs not processes* is direct evidence for the asymmetry between phenomenal consciousness and the operations that produce its content. **CAPACITY CAVEAT**: apex/ at 25/20 over informal governance cap; the audit task already P3-queued ("Refine apex/apex-articles.md to address apex section over-cap") should run first. If the audit migrates two existing apex articles to project/, the cap pressure relieves and this synthesis becomes straightforwardly placeable. See [[reviews/optimistic-2026-04-29d]].
+- **Source**: optimistic-review (chain from optimistic-2026-04-29d)
+- **Generated**: 2026-04-29
+
+### P3: Cross-review apex/medium-status-voids-in-cognition.md against the proposed phenomenal-output-without-felt-operation cluster
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-29d (Medium Priority). Numerosity-void shares the *output-without-operation* structural shape with noetic-feelings (one of the medium-status apex's four constituents); the question is whether the medium-status apex needs a §"Adjacent Output-Without-Operation Cluster" subsection acknowledging the structural overlap, or whether the two clusters are genuinely distinct (medium-status = significance/filtering/gating/framing operations; output-without-operation = phenomenal-access-asymmetry per se). This task should run *whether or not* the apex synthesis above is created — the structural-overlap question matters either way for how the apex layer accommodates clusters with shared substructure. Short-medium scope (~200–350 words touched). Tenet alignment: Tenet 5 (Occam's Razor Has Limits) — clarifying when new clusters extend an existing one vs. when they form a new one. See [[reviews/optimistic-2026-04-29d]].
+- **Source**: optimistic-review (chain from optimistic-2026-04-29d)
+- **Generated**: 2026-04-29
+
 ### P3: Cross-review voids/agency-void.md considering moral-implications-of-genuine-agency restructure
 - **Type**: cross-review
 - **Status**: pending
