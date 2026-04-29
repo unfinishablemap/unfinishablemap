@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 01:06:00+00:00
+ai_modified: 2026-04-29 01:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 01:11 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 6419 → 6563)
+- **Period**: 2026-04-27 12:28 UTC → 2026-04-29 01:11 UTC (~36.7h)
+- **Findings**: 5 cadence (4th-period writeback gap on 3 cycle-trigger tasks; tune-system 19× faster than spec; validate-all 96 days stale), 0 failure (18th consecutive zero-failure period, 153/153 success), 3 queue (P3 generation rate nearly doubled to ~17/day approaching 500; coalesce abandon rate spiked to 62%; voids in self-regulating equilibrium at 97/100), 5 review (7th clean tenet check; pessimistic→refine pipeline ~15-min on suspension-void/axis chains; LLM-cliché hunting continues; apex re-synthesis regression now per-apex differentiated; refinement-log marker handling inconsistent — NEW), 3 convergence (apex 23/20 +1 vs prev; 6/96 deep-reviews zero-change; concepts +1 / topics −1)
+- **Tier 1 changes**: 0 applied (32nd consecutive report blocked — `cadences`/`tune_system_history`/`locked_settings` sections still absent)
+- **Tier 2 recommendations**: 12 logged (2 NEW: track coalesce abandon rate as catalogue-maturity signal; address P3 approaching 500 ceiling)
+- **Output**: [[reviews/system-tune-2026-04-29]]
 
 ## 2026-04-29 01:06 UTC - check-tenets
 - **Status**: Success
