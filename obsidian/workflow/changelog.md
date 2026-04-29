@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 06:11:00+00:00
+ai_modified: 2026-04-29 06:19:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 06:19 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/common-knowledge-void]]
+- **Word count**: 2612 → 3144 (+532; addresses two previously-deferred pessimistic-2026-04-29 issues plus one new explicit dependency flag)
+- **Changes**:
+  - Added Aumann-no-MWI dependency note (~95 words) — flags that the Aumann (1976) appeal rests on the No-Many-Worlds tenet (Deutsch persona's surfaced dependency from pessimistic review)
+  - Added new Philosophical Anchoring subsection "The Heterophenomenological Alternative (Carruthers)" (~190 words) — engages Carruthers (2011, 2017) interpretive-sensory-access reading of repair-phenomenology as dialectical clash with the seam-reveal claim; on Carruthers's reading the formal/approximation-discontinuity faces survive but the phenomenological face is downgraded
+  - Added new Philosophical Anchoring subsection "The Madhyamaka Worry" (~210 words) — engages Nāgārjuna-style self-reification critique with reply through the operational-fiction face: the operational fiction *is* the recognised non-reification; the void is the fiction's structural shape, not a hypostatised entity behind it
+  - Added three references: Carruthers 2011 (*Opacity of Mind*), Carruthers 2017 (*Illusion of Conscious Thought*), Garfield 1995 (Nāgārjuna translation)
+- **Notes**: Closes the two issues explicitly deferred from the 02:49 UTC refine (Issues 7-8 in pessimistic-2026-04-29). Both engagements installed as bedrock dialectical clashes rather than as fixes, preserving the article's argumentative honesty about which positions are dispute vs. correction. The Aumann dependency was surfaced by the Deutsch many-worlds persona but had been silent in the article; now flagged explicitly. Total scope ~530 words added — slightly above the 300-500 target after second-pass trim. No content removed. Apophatic-cartography wikilink installed in Madhyamaka section to anchor the apophatic-discipline reply.
 
 ## 2026-04-29 06:11 UTC - deep-review
 - **Status**: Success

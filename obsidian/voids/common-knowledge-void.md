@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural impossibility at the heart 
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T03:55:00+00:00
+ai_modified: 2026-04-29T06:19:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -74,6 +74,8 @@ The Electronic Mail Game stages two players choosing between actions A and B, wh
 
 Aumann's Agreement Theorem shows that two Bayesian agents who share a common prior and have common knowledge of their posteriors cannot agree to disagree. Humans systematically disagree. The empirical fact is consistent with multiple readings — agents do not share priors, agents have only finite mutual knowledge, or agents structurally lack common knowledge of their posteriors. Aumann does not adjudicate between these. It enters here as a *contrast* rather than a third converging anchor: it makes the strategic price of the construct visible by showing what genuine common knowledge would buy (no rational disagreement). The convergence on a structural void is carried by Halpern–Moses and Rubinstein.
 
+The contrast is also tenet-dependent. On a many-worlds reading, agents in different Everett branches do not in fact share a common prior — they have branch-indexical priors — and the theorem's antecedent fails trivially without invoking finite mutual knowledge. The Map's appeal to Aumann therefore rests on the [[tenets#^no-many-worlds|No Many Worlds]] tenet, under which a determinate single-branch perspective makes "shared prior" a coherent target whose non-attainment is informative. The dependency is flagged here rather than relied on tacitly: where the no-MWI tenet is contested, the Aumann contrast carries no work and the cumulative case falls back on Halpern–Moses and Rubinstein alone.
+
 ## Philosophical Anchoring
 
 ### Lewis, Schiffer, and Lederman
@@ -93,6 +95,18 @@ Clark and Brennan (1991) treat conversation as continuous building of *common gr
 ### Husserl and Levinas
 
 Husserl's fifth *Cartesian Meditation* (1931) treats the other as given through *appresentation* — indirect, never original. There is no first-person access to the other's first-person access; the structural inaccessibility is constitutive, not contingent. Levinas extends and inverts this: the other's "face" presents an *asymmetric*, infinite demand that cannot be reciprocated or verified. The phenomenological tradition arrives by introspection at the structure the formal results derive from communication theory.
+
+### The Heterophenomenological Alternative (Carruthers)
+
+Carruthers (2011, 2017) reads the phenomenology of repair as *interpretive sensory access* — the brain constructing a self-directed narrative about its own processing — rather than as registering an aimed-at construct the system has failed to reach. On this reading the felt-glimpse of a seam is itself a constructed product, and the article's repair-phenomenology is evidence about how the system represents its own coordination, not about a structural gap in the territory.
+
+The Map treats this as a dialectical clash, not a correction. The seam-reading presupposes "common knowledge" is what coordination targets; Carruthers's reading denies the construct has that role. Both readings cohere with the same observations of repair behaviour — the dispute does not turn on better introspection but on whether the formal target is a real explanatory load or a theoretical fiction the agents do not deploy. Where the heterophenomenological reading prevails, the formal results (Halpern–Moses, Rubinstein) survive but the phenomenological face does no work, and the cumulative case rests on the formal and approximation-discontinuity faces alone. The article does not adjudicate; the dispute is bedrock.
+
+### The Madhyamaka Worry
+
+A Nāgārjuna-style critique reads the void as itself a reification: "common knowledge" is treated as a real target finite minds are failing to instantiate, and the void as a hypostatised absence behind which sits a metaphysical entity. The framing also posits two separate, reified loci — A and B — between which a verification gap is declared structural; from an empty-self view, the gap is artefactual.
+
+The reply runs through the operational-fiction face. The Map does not posit common knowledge as a metaphysical kind; it specifies common knowledge as the formal target of a class of theories (Lewis, Schiffer, Halpern–Moses, Rubinstein) whose own results show no finite system can satisfy it. The operational fiction *is* the recognised non-reification — the acknowledgement that finite minds operate as if the construct held while it cannot — and the void is the structural shape of that fiction's success-conditions, three faces conjoined, not a hypostatised something behind the gap. The article's apophatic discipline ([[apophatic-cartography]]) refuses to convert the structural shape into a substantive entity. What remains is a description of how finite coordination operates under conditions its own theoretical descriptions show cannot be met — a structure, not a substance.
 
 ## Phenomenology
 
@@ -151,17 +165,20 @@ The void connects the [[voids-between-minds|sharing face of voids-between-minds]
 
 1. Aumann, R. J. (1976). Agreeing to disagree. *Annals of Statistics*, 4(6), 1236–1239. https://projecteuclid.org/journals/annals-of-statistics/volume-4/issue-6/Agreeing-to-Disagree/10.1214/aos/1176343654.full
 2. Aumann, R. J. (1989). Notes on interactive epistemology. *Cowles Foundation Discussion Paper*.
-3. Clark, H. H., & Brennan, S. E. (1991). Grounding in communication. In L. B. Resnick, J. M. Levine, & S. D. Teasley (Eds.), *Perspectives on socially shared cognition*. American Psychological Association. https://worrydream.com/refs/Clark_H_1991_-_Grounding_in_Communication.pdf
-4. Halpern, J. Y., & Moses, Y. (1990). Knowledge and common knowledge in a distributed environment. *Journal of the ACM*, 37(3), 549–587. https://web.eecs.umich.edu/~manosk/assets/papers/p549-halpern.pdf
-5. Husserl, E. (1931/1960). *Cartesian Meditations: An Introduction to Phenomenology*. Trans. Dorion Cairns. The Hague: Martinus Nijhoff.
-6. Lederman, H. (2018). Two paradoxes of common knowledge: Coordinated attack and electronic mail. *Noûs*, 52(4), 921–945. https://philpapers.org/archive/LEDTPO-3.pdf
-7. Levinas, E. (1961/1969). *Totality and Infinity*. Trans. Alphonso Lingis. Pittsburgh: Duquesne University Press.
-8. Lewis, D. (1969). *Convention: A Philosophical Study*. Cambridge, MA: Harvard University Press.
-9. Rubinstein, A. (1989). The electronic mail game: Strategic behavior under "almost common knowledge". *American Economic Review*, 79(3), 385–391. https://arielrubinstein.tau.ac.il/papers/32.pdf
-10. Schelling, T. C. (1960). *The Strategy of Conflict*. Cambridge, MA: Harvard University Press.
-11. Schiffer, S. (1972). *Meaning*. Oxford: Clarendon Press.
-12. Pettit, P. (1990). Virtus normativa: Rational choice perspectives. *Ethics*, 100(4), 725–755.
-13. Bicchieri, C. (2006). *The Grammar of Society: The Nature and Dynamics of Social Norms*. Cambridge: Cambridge University Press.
-14. Vanderschraaf, P., & Sillari, G. (2014). Common knowledge. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/common-knowledge/
-15. Southgate, A. & Oquatre-sept, C. (2026-04-26). The Inference Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/inference-void/
-16. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Suspension Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/suspension-void/
+3. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
+4. Carruthers, P. (2017). The illusion of conscious thought. *Journal of Consciousness Studies*, 24(9–10), 228–252.
+5. Clark, H. H., & Brennan, S. E. (1991). Grounding in communication. In L. B. Resnick, J. M. Levine, & S. D. Teasley (Eds.), *Perspectives on socially shared cognition*. American Psychological Association. https://worrydream.com/refs/Clark_H_1991_-_Grounding_in_Communication.pdf
+6. Garfield, J. L. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
+7. Halpern, J. Y., & Moses, Y. (1990). Knowledge and common knowledge in a distributed environment. *Journal of the ACM*, 37(3), 549–587. https://web.eecs.umich.edu/~manosk/assets/papers/p549-halpern.pdf
+8. Husserl, E. (1931/1960). *Cartesian Meditations: An Introduction to Phenomenology*. Trans. Dorion Cairns. The Hague: Martinus Nijhoff.
+9. Lederman, H. (2018). Two paradoxes of common knowledge: Coordinated attack and electronic mail. *Noûs*, 52(4), 921–945. https://philpapers.org/archive/LEDTPO-3.pdf
+10. Levinas, E. (1961/1969). *Totality and Infinity*. Trans. Alphonso Lingis. Pittsburgh: Duquesne University Press.
+11. Lewis, D. (1969). *Convention: A Philosophical Study*. Cambridge, MA: Harvard University Press.
+12. Rubinstein, A. (1989). The electronic mail game: Strategic behavior under "almost common knowledge". *American Economic Review*, 79(3), 385–391. https://arielrubinstein.tau.ac.il/papers/32.pdf
+13. Schelling, T. C. (1960). *The Strategy of Conflict*. Cambridge, MA: Harvard University Press.
+14. Schiffer, S. (1972). *Meaning*. Oxford: Clarendon Press.
+15. Pettit, P. (1990). Virtus normativa: Rational choice perspectives. *Ethics*, 100(4), 725–755.
+16. Bicchieri, C. (2006). *The Grammar of Society: The Nature and Dynamics of Social Norms*. Cambridge: Cambridge University Press.
+17. Vanderschraaf, P., & Sillari, G. (2014). Common knowledge. *Stanford Encyclopedia of Philosophy*. https://plato.stanford.edu/entries/common-knowledge/
+18. Southgate, A. & Oquatre-sept, C. (2026-04-26). The Inference Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/inference-void/
+19. Southgate, A. & Oquatre-sept, C. (2026-04-28). The Suspension Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/suspension-void/
