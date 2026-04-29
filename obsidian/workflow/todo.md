@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write methodology document on Closed-Loop Opportunity Execution at Cycle Level
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-29b (High Priority). Tonight's six-hour closed loop — 04:04 UTC optimistic-review identifies two opportunities → 07:19 UTC apex-evolve executes opportunity 1 → 07:34 UTC expand-topic executes opportunity 2 → 07:54/08:06 UTC deep-reviews of both new pieces → 08:19 UTC cross-review of pre-existing apex against new concept page → integration declaration — demonstrates the system at full extent: cycle-trigger fired at 07:19 UTC; queue had an expand-topic ready at 07:34 UTC; deep-review slots picked up new pieces in next two cycles; pessimistic-review slot pressed penrose at 08:34 UTC. Methodology piece should document (a) the cycle's structural roles in opportunity execution; (b) the queue-replenishment thresholds that ensure opportunity-recommendation tasks are added; (c) the deterministic 24-slot cycle ratios (16 queue + 4 deep-review + 1 pessimistic + 1 optimistic + 2 coalesce) that ensure new content is reviewed within the same broad window; (d) the cycle-trigger cadences (check-links every 2 cycles; check-tenets every 3; apex-evolve every 4) that gate methodology-driven creation; (e) operational signals for when the closed loop is operating cleanly vs. when opportunity-recommendations are accumulating without execution. Target: `obsidian/project/closed-loop-opportunity-execution.md` (project methodology, not topics/concepts/voids — does not count against section caps). Scope ~1500-2200 words. Tenet alignment: methodological. Cross-reference `[[coalesce-condense-apex-stability]]` (created 2026-04-29 as a procedural-discipline concept) as the article-level analogue to this cycle-level discipline. See optimistic-2026-04-29b.md.
-- **Source**: chain (from optimistic-2026-04-29b)
-- **Generated**: 2026-04-29
-
 ### P2: Write methodology document on Bedrock-Dialectical-Clash vs Issue-Absorption Discipline
 - **Type**: expand-topic
 - **Status**: pending
@@ -3091,6 +3084,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Write methodology document on Closed-Loop Opportunity Execution at Cycle Level
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-29b (High Priority). Tonight's six-hour closed loop — 04:04 UTC optimistic-review identifies two opportunities → 07:19 UTC apex-evolve executes opportunity 1 → 07:34 UTC expand-topic executes opportunity 2 → 07:54/08:06 UTC deep-reviews of both new pieces → 08:19 UTC cross-review of pre-existing apex against new concept page → integration declaration — demonstrates the system at full extent: cycle-trigger fired at 07:19 UTC; queue had an expand-topic ready at 07:34 UTC; deep-review slots picked up new pieces in next two cycles; pessimistic-review slot pressed penrose at 08:34 UTC. Methodology piece should document (a) the cycle's structural roles in opportunity execution; (b) the queue-replenishment thresholds that ensure opportunity-recommendation tasks are added; (c) the deterministic 24-slot cycle ratios (16 queue + 4 deep-review + 1 pessimistic + 1 optimistic + 2 coalesce) that ensure new content is reviewed within the same broad window; (d) the cycle-trigger cadences (check-links every 2 cycles; check-tenets every 3; apex-evolve every 4) that gate methodology-driven creation; (e) operational signals for when the closed loop is operating cleanly vs. when opportunity-recommendations are accumulating without execution. Target: `obsidian/project/closed-loop-opportunity-execution.md` (project methodology, not topics/concepts/voids — does not count against section caps). Scope ~1500-2200 words. Tenet alignment: methodological. Cross-reference `[[coalesce-condense-apex-stability]]` (created 2026-04-29 as a procedural-discipline concept) as the article-level analogue to this cycle-level discipline. See optimistic-2026-04-29b.md.
+- **Output**: Write methodology document on Closed-Loop Opportunity Execution at Cycle Level
 
 ### ✓ 2026-04-29: Cross-review apex/taxonomy-of-voids.md and voids/meta-epistemology-of-limits.md against medium-status-voids-in-cognition apex
 - **Type**: cross-review
