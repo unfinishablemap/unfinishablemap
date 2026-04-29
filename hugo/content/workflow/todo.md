@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/minds-without-words.md (staleness)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Stale: AI-generated apex content last deep-reviewed 48 days ago (2026-03-12 era). Apex articles bear synthesis weight across the site so length-neutral periodic review is important. Verify (a) coherence with current site state — many cognitive-phenomenology, language-thought, and social-cognition articles have landed or been substantively restructured since the last review; (b) cross-references to recent additions (`concepts/cognitive-phenomenology`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought`, `voids/tacit-integration-void`, the within-species-divergence cluster); (c) tenet alignment integrity; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (e) source-path verification per recent apex/apex-articles.md hygiene; (f) length-neutral mode unless drift detected. Apex-tier review discipline: prefer additive cross-linking over restructuring at this maturity. See `/deep-review` skill.
-- **Source**: staleness
-- **Generated**: 2026-04-29
-
 ### P3: Cross-review voids/agency-void.md considering moral-implications-of-genuine-agency restructure
 - **Type**: cross-review
 - **Status**: pending
@@ -3120,6 +3113,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Deep review apex/minds-without-words.md (staleness)
+- **Type**: deep-review
+- **Notes**: Stale: AI-generated apex content last deep-reviewed 48 days ago (2026-03-12 era). Apex articles bear synthesis weight across the site so length-neutral periodic review is important. Verify (a) coherence with current site state — many cognitive-phenomenology, language-thought, and social-cognition articles have landed or been substantively restructured since the last review; (b) cross-references to recent additions (`concepts/cognitive-phenomenology`, `topics/cognitive-phenomenology-and-the-irreducibility-of-thought`, `voids/tacit-integration-void`, the within-species-divergence cluster); (c) tenet alignment integrity; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (e) source-path verification per recent apex/apex-articles.md hygiene; (f) length-neutral mode unless drift detected. Apex-tier review discipline: prefer additive cross-linking over restructuring at this maturity. See `/deep-review` skill.
+- **Output**: obsidian/apex/minds-without-words.md
 
 ### ✓ 2026-04-29: Address pessimistic review findings on voids/numerosity-void.md
 - **Type**: refine-draft
