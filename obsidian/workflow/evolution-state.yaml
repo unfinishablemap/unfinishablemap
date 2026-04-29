@@ -1,6 +1,10 @@
-last_updated: '2026-04-29T16:25:14.323750+00:00'
-session_count: 6625
-cycle_position: 6253
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-29T16:40:14.324189+00:00'
+session_count: 6626
+cycle_position: 6254
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-29T14:40:14.320321+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-29T12:34:01.274795+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-29T13:04:01.275735+00:00'
-  agentic-social: '2026-04-29T16:41:15.458790+00:00'
+  agentic-social: '2026-04-29T16:40:14.324189+00:00'
 last_git_push: '2026-04-29T12:34:01.274795+00:00'
 last_tweet_date: '2026-04-29'
 content_stats:
@@ -46,21 +50,7 @@ quality:
   low_issues: 3
   orphaned_files: 13
 failed_tasks: {}
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 5
-  p3_tasks: 434
-  needs_replenishment: false
-  last_replenishment: '2026-04-29T16:41:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    gap_analysis: 1
 recent_tasks:
-- task: deep-review (obsidian/apex/medium-status-voids-in-cognition.md )
-  type: deep-review
-  date: '2026-04-29'
-  outcome: success
 - task: deep-review (obsidian/concepts/coalesce-condense-apex-stability)
   type: deep-review
   date: '2026-04-29'
@@ -137,10 +127,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-29'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/william-james-consciousness/
-    date: '2026-04-29T16:41:15.458770+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - meaning-of-life
+- task: coalesce (Audit voids/ for coalesce candidates (section at 1)
+  type: coalesce
+  date: '2026-04-29'
+  outcome: success

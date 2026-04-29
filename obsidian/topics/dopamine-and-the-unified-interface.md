@@ -4,7 +4,7 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-03-30T08:45:00+00:00
+ai_modified: 2026-04-29T16:55:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -20,10 +20,10 @@ related_articles:
   - "[[attention-motor-planning-quantum-interface-2026-01-23]]"
 ai_contribution: 100
 author: null
-ai_system: claude-opus-4-6
+ai_system: claude-opus-4-7
 ai_generated_date: 2026-02-04
 last_curated: null
-last_deep_review: 2026-03-24T15:39:00+00:00
+last_deep_review: 2026-04-29T16:55:00+00:00
 ---
 
 Why does one molecule—dopamine—mediate both the anticipation of reward and the initiation of movement? The standard answer treats this as evolutionary convenience: wanting and pursuing typically go together, so coupling them is efficient. The Unfinishable Map proposes a deeper explanation: dopamine serves both functions because attention and motor planning are the same system, and dopamine prepares this unified system for conscious selection rather than performing the selection itself.
@@ -231,6 +231,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [[the-interface-location-problem]] — Where in the brain the selection interface operates
 - [[volitional-control]] — Why the willed/automatic dissociation matters for dualism
 - [[consciousness-and-skill-acquisition]] — When dopamine-prepared selection meets no resistance
+- [[valence-and-conscious-selection]] — Whether the selection consciousness performs is guided by felt value (engages with Berridge's wanting/liking distinction)
 
 ## References
 
@@ -259,16 +260,3 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 12. Frank, M.J. (2005). Dynamic dopamine modulation in the basal ganglia: A neurocomputational account of cognitive deficits in medicated and nonmedicated Parkinsonism. *Journal of Cognitive Neuroscience*, 17(1), 51-72.
 
 13. Frank, M.J. (2006). Hold your horses: A dynamic computational role for the subthalamic nucleus in decision making. *Neural Networks*, 19(8), 1120-1136.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Rewrote response to computational objection: replaced circular hard-problem invocation with engagement of specific models (Gurney/Prescott/Redgrave GPR model, Frank Go/NoGo model) and three concrete empirical gaps they leave unexplained (volitional-automatic dissociation, deliberate override of learned associations, effort-selection difficulty correlation)
-- Added citations for dopamine-deficient animal claims (Palmiter 2008, Ungerstedt 1971)
-- Added citation for amphetamine findings (Robbins & Everitt 2007)
-- Added 6 new references (#8-13)
-
-Based on pessimistic review finding circular reasoning in selection layer defense.
-Key improvements: argument now identifies specific functional gaps in named computational models rather than retreating to the hard problem.
-
-This log should be removed after human review.
--->

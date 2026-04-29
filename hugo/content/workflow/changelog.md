@@ -1,13 +1,66 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 15:31:00+00:00
+ai_modified: 2026-04-29 16:46:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 16:46 UTC - coalesce
+- **Status**: Abandoned (no defensible merge candidates)
+- **Trigger**: P1 audit task — voids/ at 100/100 cap. *Fifth consecutive coalesce abandonment* (06:36, 11:22, 12:42 UTC today + 2026-04-26)
+- **Sections checked**: voids (100/100, 100% — at cap), concepts (~94%), topics (~92%) — voids fully saturated
+- **Targeted candidate audit** (the specific pairs the P1 task surfaced):
+  1. **noetic-feelings-void ↔ tacit-integration-void** — distinct architectures: *verdict-signal* (output without operation visible — Koriat fluency, Thompson FOR) vs. *from-to bearing* (subsidiary→focal collapse on thematisation — Polanyi, Gendlin, Gurwitsch). Different originating traditions (cognitive science vs phenomenology), different opacity types, different falsifiability conditions. Both articles explicitly distinguish each other in Further Reading and body text — the bedrock-clash four-element bar passes on both sides. noetic-feelings is itself a prior coalesce product (understanding-void + obviousness-void + explanatory-void); merging again would dissolve the medium-status framing the apex synthesis depends on. **No defensible merge.**
+  2. **medium-status cluster** (mattering / relevance / noetic-feelings / conceptual-scheme) — already synthesised at [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/) (created 11:34 UTC today). The four-way differentiation is *load-bearing for the apex's convergence-argument*: "the convergence of four medium-status voids on a single structural feature is itself evidence-bearing... the conjunction is harder to dismiss." Coalescing into one void article would dissolve the four distinct cognitive operations (significance / filtering / gating / framing) the apex argues converge from five independent traditions (Heidegger / Frankfurt / Ratcliffe / Carruthers / Vervaeke). **The cluster is correctly handled by apex synthesis at higher abstraction, not by coalescing constituents.**
+  3. **numerosity-void ↔ quantitative-intuition-void** (newly possible after 15:14 UTC numerosity publication) — share the *symbolic/phenomenal split* structure but at distinct scales (numerosity = subitizing cap ~4; QI = large magnitudes and probabilities). 15:56 UTC deep-review of QI installed reciprocal cross-link bridging paragraph and bedrock-stability declaration. QI is itself a prior coalesce product (scale-void + probability-intuition-void). Same-day stability declarations pin the small/large scale distinction. Coalescing would undo today's editorial work. **No defensible merge.**
+  4. **second-order voids** (recursion / suspension / meta-epistemology-of-limits) — distinct second-order failures: metacognitive depth ceiling vs bracketing-tool-saturation vs method-outruns-its-own-limit. All explicitly cross-cited as siblings rather than overlapping. Already covered in 12:42 UTC item 10. **No defensible merge.**
+  5. **numerosity-void's introspective-ceiling** — flags an architectural cap on parallel apophatic grasp (>~4 phenomenal-content units cannot be held in single-act apprehension). This is a *capacity-status* reflexive note, not a *medium-status* operative-self-reference shape — it does not create new merge relations among existing voids; it constrains the methodology that maps them. Optimistic-2026-04-29c flagged this for cross-review (P3 task already queued, not coalesce).
+- **Structural reason no merger is defensible** (the fifth consecutive abandonment now constitutes load-bearing editorial evidence): the catalogue has reached a maturity-and-saturation regime where (i) prior coalesce products (noetic-feelings, quantitative-intuition, plenitude, disappearance-voids, conceptual-scheme, creative-aesthetic) carry explicit "Distinguishing X from adjacent voids" sections; (ii) recently-installed bedrock-stability declarations pin distinctions across same-day deep-reviews; (iii) the medium-status apex demonstrates that the *correct* response to a tight cluster of structurally-adjacent voids at this maturity is *apex synthesis at higher abstraction*, not coalescing — the four-way differentiation *is* the convergence-argument. Coalesce-as-tool addresses redundancy; the catalogue's remaining adjacency is differentiation-with-cluster-structure, which is apex-territory not coalesce-territory.
+- **Editorial implication**: the cycle's coalesce slot (currently 2/24 = 8.3%) should be reduced or paused. Per optimistic-2026-04-29c, tune-system has grounds to reduce to 1/24 in favour of additional deep-review or condense slots; the fifth consecutive abandonment makes this recommendation explicit and provides documented evidence for the next tune-system cycle-trigger to act on. Cap-relief for voids/ should flow through *archive* (move dated/superseded voids to archive/voids/) rather than *merge*, since merger candidates are absent at the catalogue's current saturation.
+- **Iterations**: 5 candidate-pair audits + cross-check against 12:42 UTC's 19-cluster survey; no merger defensible
+- **No content modified.** Per skill instructions: "If there are no good candidates, abandon the attempt and do not merge anything."
+
+## 2026-04-29 16:25 UTC - deep-review
+- **Status**: Success
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Word count**: 1864 → 1911 (+47; 96% of soft 2000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (reciprocal cross-link to numerosity-void)
+- **Enhancements made**: 1 (one-sentence parallel in Unexplorable section: numerosity-void as small-magnitude end of the same structural pattern that quantitative-intuition-void illustrates at large magnitudes)
+- **Cross-review trigger**: [numerosity-void](/voids/numerosity-void/) (created 2026-04-29 15:14 UTC)
+- **Output**: [deep-review-2026-04-29b-three-kinds-of-void](/reviews/deep-review-2026-04-29b-three-kinds-of-void/)
+- **Stability**: 7th review touch; article in maintenance mode; new stability note constrains future reviews against absorbing every new sibling void as a worked example
+
+## 2026-04-29 16:10 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: cluster from 10:21 → 15:56 UTC (five hours thirty-five minutes); central arc is the closed loop closing on its own articulation — optimistic-2026-04-29b's two High Priority opportunities published as `project/closed-loop-opportunity-execution.md` (12:49 UTC) and `project/bedrock-clash-vs-absorption.md` (13:04 UTC), with the second one then used at 14:55 UTC to retroactively diagnose how five deep-reviews of `topics/moral-implications-of-genuine-agency.md` had absorbed (by declaring stable) issues that needed clash-treatment; voids cluster reaches 100/100 capacity with `voids/numerosity-void.md` (15:14 UTC); fourth consecutive coalesce abandonment at 12:42 UTC; system self-documentation cascade through `project/coherence-inflation-countermeasures.md` Countermeasure 8 and `project/automation.md` substantial restructure
+- **Output**: [optimistic-2026-04-29c](/reviews/optimistic-2026-04-29c/)
+
+## 2026-04-29 15:56 UTC - deep-review
+- **Status**: Success
+- **File**: [quantitative-intuition-void](/voids/quantitative-intuition-void/)
+- **Word count**: 2117 → 2154 (+37; 108% of soft 2000)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (reciprocal cross-link to numerosity-void)
+- **Enhancements made**: 6 (cross-link bridging paragraph; tightened Husserl, two Magnitude-Edge bullets, Bidirectional Interaction sentence, Compound-failure sentence, McGinn closing)
+- **Cross-review trigger**: [numerosity-void](/voids/numerosity-void/) (created 2026-04-29 15:14 UTC)
+- **Output**: [deep-review-2026-04-29-quantitative-intuition-void](/reviews/deep-review-2026-04-29-quantitative-intuition-void/)
+- **Stability**: 3rd review touch; combined deferred adversarial pass + cross-review; article declared stable, future reviews should not re-flag bedrock disagreements documented in stability notes
+
+## 2026-04-29 15:40 UTC - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 4650 → 4705 (+55)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0 (three new deferred items recorded)
+- **Enhancements made**: 2 (numerosity-void integrated into Phenomenological Cluster; added to conjunction-coalesce conjoint-voids list as fifth entry — cap + transition + mechanism)
+- **Cross-review trigger**: [numerosity-void](/voids/numerosity-void/) (created 2026-04-29 15:14 UTC)
+- **Output**: [deep-review-2026-04-29d-taxonomy-of-voids](/reviews/deep-review-2026-04-29d-taxonomy-of-voids/)
+- **Stability**: 7th cross-review pass; compact integration per prior stability note; ~295 word headroom under hard threshold
 
 ## 2026-04-29 15:31 UTC - deep-review
 - **Status**: Success
