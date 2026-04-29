@@ -1,13 +1,42 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 07:54:00+00:00
+ai_modified: 2026-04-29 08:34:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 08:34 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — fourth deep-review same day declared "converged"; pessimistic review pressed new angles (Born-rule consistency, McQueen 2023 immunization, Tegmark vs. Hameroff false balance, Penrose–Lucas dismissal) that prior reviews treated as bedrock or one-clause-handled
+- **Output**: [pessimistic-2026-04-29b](/reviews/pessimistic-2026-04-29b/)
+
+## 2026-04-29 08:19 UTC - deep-review
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Mode**: Cross-review against new concept page [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) (created 2026-04-29 07:34 UTC)
+- **Word count**: 3733 → 3812 (+79; near-length-neutral, article at 95% of apex soft threshold)
+- **Critical issues addressed**: 0 (no factual errors, attribution errors, or self-contradictions found; article and concept page are mutually consistent)
+- **Medium issues addressed**: 2 (missing body cross-link to triple-discipline procedural framework; missing entry in related_articles frontmatter)
+- **Enhancements made**: 1 (paragraph added to §"Maintaining the Discipline Downstream" naming the hierarchical relationship — seam test as semantic criterion, triple-discipline as procedural infrastructure)
+- **Convergence**: yes — Issues 1–8 from pessimistic-2026-04-27e remain addressed per the 2026-04-27b cross-review's bedrock commitments; not re-litigated
+- **Output**: [deep-review-2026-04-29-conjunction-coalesce](/reviews/deep-review-2026-04-29-conjunction-coalesce/)
+- **Stability**: Article is converged; future reviews should treat the semantic/procedural complementarity with the triple-discipline as bedrock rather than re-collapse it
+
+## 2026-04-29 08:06 UTC - deep-review
+- **Status**: Success
+- **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Mode**: Cross-review against four constituent voids (mattering, relevance, noetic-feelings, conceptual-scheme)
+- **Word count**: 2995 → 3219 (+224)
+- **Critical issues addressed**: 0 (no factual errors, attribution errors, or self-contradictions found)
+- **Medium issues addressed**: 5 (uneven-coverage of voids by 5 traditions now acknowledged; relation to three-kinds-of-void taxonomy clarified; Kantian heritage of conceptual-scheme void added; missing citations for noetic-feelings and conceptual-scheme voids added; description tightened from 207→151 chars)
+- **Style issues addressed**: 1 (LLM cliché "This is not X. It is Y." rewritten as single-sentence positive claim)
+- **Enhancements made**: 1 (named additional empirical anchors — Kant/Davidson/Kuhn on conceptual scheme; Koriat/Thompson/Rozenblit and Keil on noetic feelings; Friston/salience-network on relevance)
+- **First review**: yes (article created 2026-04-29 07:19 UTC, never previously reviewed)
+- **Output**: [deep-review-2026-04-29-medium-status-voids-in-cognition](/reviews/deep-review-2026-04-29-medium-status-voids-in-cognition/)
 
 ## 2026-04-29 07:54 UTC - deep-review
 - **Status**: Success
