@@ -2,9 +2,9 @@
 title: "The Noetic Feelings Void"
 description: "The felt signals that gate cognition from inside—knowing, rightness, familiarity, understanding, obviousness, coherence—are produced by heuristic machinery consciousness cannot inspect, and terminate inquiry before investigation can check them."
 created: 2026-02-27
-modified: 2026-04-28
+modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-28T14:13:00+00:00
+ai_modified: 2026-04-29T05:07:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -40,6 +40,7 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[predictive-construction-void]]"
   - "[[inference-void]]"
+  - "[[relevance-void]]"
   - "[[suspension-void]]"
   - "[[consciousness-and-scientific-explanation]]"
   - "[[consciousness-and-creativity]]"
@@ -48,7 +49,7 @@ author:
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-24
 last_curated:
-last_deep_review: 2026-04-26T16:23:00+00:00
+last_deep_review: 2026-04-29T05:07:00+00:00
 coalesced_from:
   - "/voids/understanding-void/"
   - "/voids/obviousness-void/"
@@ -73,7 +74,7 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a funct
 - **Feeling of confidence** — sense that a judgment is reliable. Gates commitment to action.
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
-Loev argues these are "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath the level of reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. [[consciousness-and-creativity|Insight]] is a paradigm case: the breakthrough presents as direct apprehension, not as the fluency-and-coherence signal it actually is. The noetic feel typically arrives as the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]—the two voids compose, with feelings registering when to stop and inferences doing the moving that produces the verdict.
+Loev argues these are "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath the level of reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. [[consciousness-and-creativity|Insight]] is a paradigm case: the breakthrough presents as direct apprehension, not as the fluency-and-coherence signal it actually is. The noetic feel typically arrives as the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]—the two voids compose, with feelings registering when to stop and inferences doing the moving that produces the verdict. Upstream of both is the [[relevance-void|relevance void]]: the filter that decides which items are even in play to be inferred about and felt-toward. Relevance shortlists the field; inference moves within it; noetic feelings register when to stop.
 
 ## How the Feelings Are Produced
 
@@ -81,7 +82,7 @@ Convergent evidence identifies noetic feelings as outputs of heuristic processes
 
 Thompson's research on the feeling of rightness showed FOR is driven by *generation fluency*—the ease and speed with which the first answer came to mind—not by actual correctness. Manipulating fluency (font legibility, rhyme, perceptual ease) shifts FOR without changing the underlying reasoning. The signal that tells consciousness "this is right" is a fluency trace, invisible as such.
 
-A 2021 *Synthese* paper formalises the "Lima problem": epistemic feelings inform us about content we cannot independently access, so we have no way to cross-check their accuracy except through more feelings. We have access to the feel, not the content; the mechanism that produces the feel is architecturally hidden.
+A 2021 *Synthese* paper formalises the "Lima problem": epistemic feelings inform us about content we cannot independently access, so we cannot cross-check their accuracy except through more feelings. We have access to the feel, not the content; the producing mechanism is architecturally hidden.
 
 ## Processing Fluency and Manufactured Self-Evidence
 
@@ -99,7 +100,7 @@ The void has three structural features.
 
 **Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence cannot be shaken by argument. These dissociations prove noetic feelings are signals rather than perceptions, and that consciousness cannot tell, from inside, when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: subjects report a feeling of *prediction* that does not track any actual predictive capacity—one feeling begetting another with no added information.
 
-Compound these features and the void emerges: the signals that gate cognition are precisely the signals consciousness cannot audit without their help.
+Compounded, these features yield the void: the signals that gate cognition are precisely the signals consciousness cannot audit without their help.
 
 ## The Explanatory Regress
 
@@ -111,7 +112,7 @@ Peter Lipton's work on inference to the best explanation adds a further dimensio
 
 Multiple traditions identified the phenomenology of obviousness before cognitive science named its mechanism. Wittgenstein noted that "the very things that are most obvious can become the most difficult to understand"—and insisted the obstacle is volitional, not intellectual: what must be overcome is the comfortable feeling of comprehension, not a complex truth. Heidegger described how the ready-to-hand withdraws from attention precisely by functioning well; what is ontically closest is "ontologically the farthest and not known at all." Schutz analysed the "natural attitude" of the life-world, where taken-for-grantedness is structural rather than lazy.
 
-Three traditions with different premises converge on the same architecture: the cognitive-science mechanism (fluency → felt truth → obviousness) and the phenomenological description (withdrawal of the well-functioning) point at one structure from different angles.
+Three traditions with different premises converge: the cognitive-science mechanism (fluency → felt truth → obviousness) and the phenomenological description (withdrawal of the well-functioning) point at one structure from different angles.
 
 ## The Self-Concealing Structure
 
@@ -119,9 +120,9 @@ The void has a recursive quality that makes it uniquely resistant to investigati
 
 This creates an epistemic trap: to recognise the void, you must first suspect that the feeling of understanding or rightness might be unreliable, but those feelings are precisely what prevents such suspicion. Husserl's *epoché*—bracketing the natural attitude—is a direct attempt to break this cycle, and Husserl himself acknowledged complete suspension may never be fully achieved. The deeper reason is catalogued by the [[suspension-void]]: any inspection that would check suspension deploys the same machinery whose neutrality is in question, leaving the tool of investigation saturated with noetic feelings.
 
-The trap has a temporal dimension too. Even after destabilising an obvious belief through Socratic questioning or contrary evidence, the feeling of obviousness reasserts itself. Rozenblit and Keil found participants' confidence partially rebounded after discovering their explanatory ignorance.
+The trap is also temporal. Even after destabilising an obvious belief through Socratic questioning or contrary evidence, the feeling of obviousness reasserts itself. Rozenblit and Keil found participants' confidence partially rebounded after discovering their explanatory ignorance.
 
-Approaching the edge feels like trying to look at the side of one's own eye: the more directly one attends to the feeling of knowing, the more it fragments into content-feelings *about* what one feels one knows, rather than disclosing its own mechanism. The characteristic texture is certainty that cannot be further grounded; recognition that refuses to produce a source; understanding that resists the question *what exactly have I grasped?*; obviousness that feels aggrieved at being questioned. [[necessary-opacity]] and [[self-opacity]] catalogue this structural closure; the noetic feelings void is one of the sharpest instances, because the opacity is load-bearing for functional cognition.
+Approaching the edge feels like trying to look at the side of one's own eye: the more directly one attends to the feeling of knowing, the more it fragments into content-feelings *about* what one knows, rather than disclosing its own mechanism. The characteristic texture is certainty that cannot be further grounded; recognition that refuses a source; understanding that resists the question *what exactly have I grasped?*; obviousness aggrieved at being questioned. [[necessary-opacity]] and [[self-opacity]] catalogue this structural closure; the noetic feelings void is one of the sharpest instances, because the opacity is load-bearing for functional cognition.
 
 ## Approaches to the Edge
 
@@ -174,6 +175,7 @@ A functionalist might dissolve the void by identifying understanding with a func
 - [[source-attribution-void]] — Why mental contents arrive without origin tags
 - [[meta-epistemology-of-limits]] — Methods that outrun their own limits
 - [[inference-void]] — The opacity of the transitions whose outputs noetic feelings register
+- [[relevance-void]] — The upstream gateway filter that selects which items are in play
 - [[suspension-void]] — Why bracketing the natural attitude cannot fully audit itself
 - [[predictive-construction-void]] — How successful prediction manufactures self-evidence
 - [[epistemic-emotions]] — The phenomenally rich extension of the noetic family
