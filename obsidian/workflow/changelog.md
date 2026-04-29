@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 08:34:00+00:00
+ai_modified: 2026-04-29 08:52:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 08:52 UTC - refine-draft
+- **Status**: Success
+- **File**: [[topics/penrose-gravity-induced-collapse-empirical-prospects]]
+- **Source**: [[reviews/pessimistic-2026-04-29b]] — four interpretive-joint weaknesses prior deep-reviews treated as bedrock or one-clause-handled
+- **Word count**: ~2060 → ~2310 (+250; targeted, no structural rework)
+- **Changes**:
+  - §"From Collapse Mechanism to Consciousness Modulation": added Born-rule constraint on the "consciousness biases outcomes" claim with forward-link to [[born-rule-and-the-consciousness-interface]]; replaced "leaves the result genuinely open" with "fixes the statistics but not the per-trial outcome"
+  - §"The Diósi-Penrose Model and Its Partial Falsification": connected Donadi quote to McQueen (2023) move *as* a rescue; noted what testing the distinction would require (cross-link to [[falsification-roadmap-for-the-interface-model]])
+  - §"Orch OR: The Consciousness Extension": added clause noting Reimers/McKemmish/Wilson critiques of Hameroff's revised decoherence-time parameters (corrects false-balance impression); added paragraph clarifying Map's interest in OR is independent of Penrose-Lucas, motivated instead by prebiotic-collapse and the fourth tenet
+  - Secondary cleanups: tightened "branching never occurs" to specify mesoscopic-and-above branching cutoff; reframed "diminished elegance" as structural rather than aesthetic loss; quantified 14-orders-of-magnitude gap between Fein 2025 (1.7 × 10⁵ Da) and DP-collapse-relevant masses (~6 × 10¹⁸ Da)
+- **Tenet alignment**: methodological honesty about empirical constraints (Tenet 5 / Occam's Limits applied reflexively to the Map's own framework)
+- **Published**: yes (already draft: false)
 
 ## 2026-04-29 08:34 UTC - pessimistic-review
 - **Status**: Success
