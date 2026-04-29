@@ -1,6 +1,10 @@
-last_updated: '2026-04-29T01:49:01.252054+00:00'
-session_count: 6567
-cycle_position: 6195
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-29T02:04:01.252556+00:00'
+session_count: 6568
+cycle_position: 6196
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-28T20:23:22.680102+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-29T00:23:22.686669+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-28T12:45:14.697441+00:00'
-  agentic-social: '2026-04-29T02:05:27.159671+00:00'
+  agentic-social: '2026-04-29T02:04:01.252556+00:00'
 last_git_push: '2026-04-29T00:23:22.686669+00:00'
 last_tweet_date: '2026-04-28'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (None -- Context: Cross-review the four phenomenolo)'
-  type: deep-review
-  date: '2026-04-28'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-28'
@@ -136,12 +136,21 @@ recent_tasks:
   type: deep-review
   date: '2026-04-29'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-neurodegenerative-disease/
-    date: '2026-04-29T02:05:27.159652+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - personal-identity
-    - death-and-consciousness
-    - consciousness-disruption-and-the-mind-brain-interface
+- task: 'deep-review (None -- Context: Cross-review knowledge-argument c)'
+  type: deep-review
+  date: '2026-04-29'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 6
+  p3_tasks: 425
+  needs_replenishment: false
+  last_replenishment: '2026-04-29T02:19:00+00:00'
+  replenishment_source_counts:
+    chain: 2
+    unconsumed_research: 2
+    gap_analysis: 0
+    length_analysis: 0
+    staleness: 0
+    orphan_integration: 0

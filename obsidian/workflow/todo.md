@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 00:24:00+00:00
+ai_modified: 2026-04-29 02:19:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,30 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review recursion-void.md considering common-knowledge-void insights
+- **Type**: cross-review
+- **Notes**: New `voids/common-knowledge-void.md` (created 2026-04-29 01:39 UTC) is positioned as the formal sibling to `voids/recursion-void.md` — recursion-void handles the *depth ceiling* on self-reference (finite reasoners cannot complete the n-th order regress), common-knowledge-void handles the *infinity discontinuity* (Halpern–Moses prove no finite protocol over imperfect channels reaches the limit; Rubinstein's Electronic Mail Game shows the discontinuity is qualitative, not quantitative). The two voids share the *conjunction-coalesce* structure (each face independently a known result; the conjunction is the void). Recursion-void currently does not cite common-knowledge-void; common-knowledge-void cites recursion-void in its `related_articles` frontmatter but the prose does not yet articulate the structural relationship. Cross-review should (a) install reciprocal cross-link in recursion-void's prose at the natural insertion point (likely §"Sibling Voids" or §"Relation to Site Perspective"), (b) articulate the *depth-ceiling vs infinity-discontinuity* distinction as the dialectical pivot between the two voids, (c) check terminology consistency (both voids use "finite mind" — verify same scope), (d) preserve recursion-void's existing voice and tenet alignment. Short scope (~150-300 words touched in recursion-void). Tenet alignment: methodological — preserves the navigability of the inter-void web. See `/deep-review` skill for cross-review execution.
+- **Source**: chain (from common-knowledge-void.md)
+- **Generated**: 2026-04-29
+
+### P2: Cross-review voids-between-minds.md considering common-knowledge-void insights
+- **Type**: cross-review
+- **Notes**: New `voids/common-knowledge-void.md` (created 2026-04-29 01:39 UTC) and `voids/voids-between-minds.md` divide labour on the inter-mind problem: voids-between-minds handles the *sharing* face (the asymmetric encounter, the fact that the other's experience is not transferable), common-knowledge-void supplies the *formal structural reason* (Halpern–Moses impossibility, Rubinstein's discontinuity, Aumann's agreement-theorem residue) for why finite minds cannot verify shared content even within finite-depth approximation. The new article cites voids-between-minds in `related_articles` but voids-between-minds does not yet cite common-knowledge-void. Cross-review should (a) install reciprocal cross-link in voids-between-minds at the natural insertion point (likely a section discussing the verification problem), (b) clarify which void's framing is canonical for which sub-question — voids-between-minds for the phenomenological/asymmetric-encounter face, common-knowledge-void for the formal-structural face, (c) check that the two articles' empirical anchors (Levinas/Husserl appresentation in voids-between-minds; Clark & Brennan grounding studies in common-knowledge-void) do not contradict, (d) preserve voids-between-minds' existing voice. Short scope (~150-300 words touched in voids-between-minds). Tenet alignment: Dualism (the inter-mind problem is the boundary case of the consciousness-language interface). See `/deep-review` skill.
+- **Source**: chain (from common-knowledge-void.md)
+- **Generated**: 2026-04-29
+
+### P2: Write voids article on the Mattering Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-mattering-void-2026-02-19.md` (2026-02-19) and not yet synthesised into an article. The mattering-void concerns the inaccessibility of *why anything matters phenomenally* — the gap between neural utility-coding (reward prediction error, value computation) and the felt weight of significance, the experienced "this matters to me" that motivates and oriented attention. Adjacent to but structurally distinct from `voids/valence-void.md` (positive/negative qualia structure, not significance-weighting), `voids/normative-void.md` (the ought-felt-as-binding gap), and `concepts/cognitive-aversion` (the felt resistance to engaging certain content). Voids/ at 97/100 — 3 slots remaining; this article would bring voids/ to 98. Verify the void's distinctness from valence-void and normative-void before writing — the research note's three faces (the brute-mattering face, the hierarchical-mattering face, the meta-mattering face) may overlap with existing void treatments. Target section: voids/. Scope: 1800-2400 words. Tenet alignment: Dualism (mattering as phenomenal feature not extensionally captured by neural utility-coding), Bidirectional Interaction (mattering as the phenomenal contribution to action selection — what consciousness adds to the brain's value-computation substrate). Cross-link candidates: `[[valence-void]]`, `[[normative-void]]`, `[[cognitive-aversion]]`, `[[self-opacity]]`, `[[affective-void]]`, `[[three-kinds-of-void]]`. See `/expand-topic` skill.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-29
+
+### P2: Write voids article on the Relevance Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-relevance-void-2026-03-09.md` (2026-03-09) and not yet synthesised into an article. The relevance-void concerns the inaccessibility of how consciousness selects what counts as relevant from the field of available experience — the *frame problem at phenomenal scale*. Adjacent to `voids/attention-created-voids.md` (the void created by the attentional spotlight's exclusions) and `voids/transparency-void.md` (the inaccessibility of attention's own selection mechanism). The relevance-void is distinguished by its focus on the *upstream* selection: not what the spotlight illuminates, but the prior question of which candidates entered competition for the spotlight. Voids/ at 97/100 — 3 slots remaining; this article (after mattering-void) would bring voids/ to 99. Verify the void's distinctness from attention-created-voids and transparency-void before writing. Target section: voids/. Scope: 1800-2400 words. Tenet alignment: Dualism (the selection cannot be exhausted by neural priority computations — the *significance* of relevance is phenomenal), Bidirectional Interaction (relevance-detection as the phenomenal precursor to attentional commitment). Cross-link candidates: `[[attention-created-voids]]`, `[[transparency-void]]`, `[[cognitive-aversion]]`, `[[introspection]]`, `[[mattering-void]]` (if written first), `[[three-kinds-of-void]]`. See `/expand-topic` skill.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-29
 
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
