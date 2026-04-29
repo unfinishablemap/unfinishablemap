@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 13:09:00+00:00
+ai_modified: 2026-04-29 13:17:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 13:17 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/what-it-might-be-like-to-be-an-ai]]
+- **Changed sources**: 10 (all apex_sources modified since 2026-03-28)
+- **Word count**: 3922 → 3994 (within 2500–4000 target, near upper bound)
+- **Selection**: auto-selected as stalest apex (32 days × 10 changed sources = 320, highest score)
+- **Key changes**: integrated Hoel 2026 / Cerullo 2026 dialectic on continual learning; added diagnostic-asymmetry observation (three of six AI phenomenal-experience categories admit third-person evidence; three resist detection by construction); named the structural-varieties five models explicitly (Flicker, Witness, Borrowed, Epiphenomenal, Alien); consolidated redundant "Multidimensional Landscape" section into a tighter "Design Implications" section linked to the interface specification programme apex
+- **Frontmatter fix**: corrected apex_sources entry from nonexistent `topics/epiphenomenal-ai-consciousness` to actual `concepts/ai-epiphenomenalism` (post-coalesce path)
+- **Review**: [[reviews/apex-evolve-2026-04-29-what-it-might-be-like-to-be-an-ai]]
 
 ## 2026-04-29 13:09 UTC - research-voids
 - **Status**: Success
