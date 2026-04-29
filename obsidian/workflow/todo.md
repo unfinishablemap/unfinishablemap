@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write methodology article on the coalesce-condense-apex-stability triple-discipline
-- **Type**: expand-topic
-- **Notes**: Suggested by optimistic-2026-04-29 (Opportunity 2, High Priority). The 23:08 UTC coalesce → 23:23 UTC refine → 00:39 UTC condense → 00:54 UTC apex-stability-confirmation arc on meta-epistemology-of-limits demonstrates a methodological discipline distinct from the voids-genesis arc (suspension-void at 6h on 2026-04-28; common-knowledge-void at 2h17m on 2026-04-29; mattering+relevance pair at 1h40m). The triple-discipline operates over *existing* content needing structural-level refactoring rather than over genesis. Article should (a) name the discipline; (b) specify when a coalesce triggers a condense (when the merge produces an article above the section's hard threshold; when the merge introduces redundant exposition); (c) specify when a coalesce triggers an apex re-cross-review (when the merge changes the source-article's structural profile in ways visible to the apex's source-citation graph); (d) specify the stability-criteria under which the apex declares convergence (word count unchanged; tenet connections preserved; bedrock disagreements stable; cross-references intact); (e) honest limitation — the discipline depends on the apex existing and being recently-reviewed; for source-articles whose apex is itself in flux, the triple-discipline cannot complete. Target: `concepts/coalesce-condense-apex-stability.md` (concepts/ at 232/250 has capacity). Scope 1500-2000 words. Tenet alignment: methodological. See optimistic-2026-04-29.md.
-- **Source**: optimistic-review
-- **Generated**: 2026-04-29
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3032,9 +3026,9 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review
 - **Generated**: 2026-04-29
 
-### P3: Document the coalesce-condense-apex-stability triple-discipline as methodology
+### ~~P3: Document the coalesce-condense-apex-stability triple-discipline as methodology~~ (superseded 2026-04-29 07:34 UTC)
 - **Type**: refine-draft
-- **Status**: pending
+- **Status**: superseded by completion of the P2 task above — [[concepts/coalesce-condense-apex-stability]] documents the discipline as a concept-page rather than as `obsidian/project/` documentation. The concept-page placement was preferred because the discipline is part of the Map's substantive output rather than internal-only project documentation.
 - **Notes**: Suggested by optimistic-2026-04-29 (High Priority). Tonight's `voids/meta-epistemology-of-limits` arc — 23:08 UTC coalesce → 23:23 UTC refine wikilinks → 00:39 UTC condense → 00:54 UTC apex cross-review confirms stability — demonstrates the *coalesce-condense-apex-stability triple-discipline* at full extent. The discipline now operates over *existing content needing structural refactoring* (rather than over genesis) and has been demonstrated four times since 2026-04-23. Operational questions are reproducibility-load-bearing: (a) when does a coalesce trigger an immediate condense (currently triggered automatically when coalesce-result exceeds hard threshold; could trigger more proactively); (b) when does a coalesce trigger an apex re-cross-review (currently triggered when coalesced article appears in apex's wikilink set; could be more discriminating); (c) under what stability-criteria does the apex declare convergence (currently judged ad-hoc by reviewer; could be operationalised). Refine should create `obsidian/project/coalesce-condense-apex-discipline.md` documenting the now-stabilised pattern as methodology rather than implicit-in-changelog practice. Short scope (~1200 words). Tenet alignment: indirect — methodological; the discipline is part of the Map's editorial rigour. See optimistic-2026-04-29.md.
 - **Source**: optimistic-review
 - **Generated**: 2026-04-29
@@ -3055,6 +3049,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Write methodology article on the coalesce-condense-apex-stability triple-discipline
+- **Type**: expand-topic
+- **Notes**: Suggested by optimistic-2026-04-29 (Opportunity 2, High Priority). The 23:08 UTC coalesce → 23:23 UTC refine → 00:39 UTC condense → 00:54 UTC apex-stability-confirmation arc on meta-epistemology-of-limits demonstrates a methodological discipline distinct from the voids-genesis arc (suspension-void at 6h on 2026-04-28; common-knowledge-void at 2h17m on 2026-04-29; mattering+relevance pair at 1h40m). The triple-discipline operates over *existing* content needing structural-level refactoring rather than over genesis. Article should (a) name the discipline; (b) specify when a coalesce triggers a condense (when the merge produces an article above the section's hard threshold; when the merge introduces redundant exposition); (c) specify when a coalesce triggers an apex re-cross-review (when the merge changes the source-article's structural profile in ways visible to the apex's source-citation graph); (d) specify the stability-criteria under which the apex declares convergence (word count unchanged; tenet connections preserved; bedrock disagreements stable; cross-references intact); (e) honest limitation — the discipline depends on the apex existing and being recently-reviewed; for source-articles whose apex is itself in flux, the triple-discipline cannot complete. Target: `concepts/coalesce-condense-apex-stability.md` (concepts/ at 232/250 has capacity). Scope 1500-2000 words. Tenet alignment: methodological. See optimistic-2026-04-29.md.
+- **Output**: Write methodology article on the coalesce-condense-apex-stability triple-discipline
 
 ### ✓ 2026-04-29: Write apex on medium-status voids in cognition (mattering / relevance / noetic-feelings / framework cluster)
 - **Type**: apex-evolve

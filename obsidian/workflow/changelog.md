@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 07:19:00+00:00
+ai_modified: 2026-04-29 07:34:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 07:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Coalesce-Condense-Apex-Stability Triple-Discipline
+- **Output**: [[concepts/coalesce-condense-apex-stability]]
+- **Word count**: 1761
+- **Based on research**: no — drawn directly from changelog evidence (2026-04-28 23:08 UTC → 2026-04-29 00:54 UTC arc on meta-epistemology-of-limits / taxonomy-of-voids) and from [[reviews/optimistic-2026-04-29]] Opportunity 2
+- **Notes**: Methodology concept-page documenting the now-stabilised editorial pattern. Specifies (a) the three operations and their conditional sequencing; (b) two triggers from coalesce to condense (hard-threshold violation; redundancy-introducing merge); (c) two triggers from coalesce to apex re-cross-review (source-citation removal; structural-profile change); (d) four stability criteria for apex convergence (word-count near-neutral; tenets preserved; bedrock disagreements stable; cross-references intact); (e) three honest limitations (apex-must-be-stable; not a substitute for genesis-side editing; declarations are defeasible). Tenet alignment: methodological, with indirect connection to Tenet 5 (Occam's-Limits) via seam-preservation.
 
 ## 2026-04-29 07:19 UTC - apex-evolve
 - **Status**: Complete
