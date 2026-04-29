@@ -6,7 +6,7 @@ human_modified: null
 ai_modified: 2026-04-28T23:23:00+00:00
 draft: false
 description: "Over sixty cognitive voids cluster at the consciousness-matter interface. Their structured taxonomy—by type, domain, and failure signature—offers cumulative abductive support for the Map's tenet-package."
-last_deep_review: 2026-04-28T18:07:00+00:00
+last_deep_review: 2026-04-29T00:54:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:

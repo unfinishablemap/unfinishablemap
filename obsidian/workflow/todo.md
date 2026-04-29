@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/taxonomy-of-voids.md considering 2026-04-28 coalesced voids/meta-epistemology-of-limits.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-04-28 23:08 UTC coalesce that merged `voids/epistemic-horizon-void.md` into `voids/meta-epistemology-of-limits.md` (commit 9d53557a2). The apex article references both `[[meta-epistemology-of-limits]]` and `[[epistemic-horizon-void]]` in several places (the apex was last refined to integrate the phenomenology-vs-function axis; the epistemic-horizon-void wikilink update task is queued separately as a P3). Cross-review should (a) audit the apex's prose for stale framing of meta-epistemology-of-limits — passages that described the article's pre-coalesce scope may now under-represent its expanded content (the article now covers the scope-of-ignorance face previously lodged in epistemic-horizon-void); (b) for any remaining `[[epistemic-horizon-void]]` wikilinks, replace with `[[meta-epistemology-of-limits]]` (using anchor `#the-scope-question-estimating-total-ignorance-from-within` where the link's role was specifically about scope/horizon); (c) verify the apex's §"The Taxonomy's Own Limits" and §"Methods" sections cite meta-epistemology-of-limits at the right places now that the article's scope is broader; (d) update related_articles if needed; (e) preserve the apex's existing voice and framework. Coordinate with the queued P3 wikilink-sweep task to avoid duplicate edits. Short-medium scope (~200-400 words touched). Tenet alignment: methodological — keeping apex/voids navigation honest after coalesce.
-- **Source**: chain
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md considering 2026-04-29 cognitive-phenomenology concept-page refresh
 - **Type**: cross-review
 - **Status**: pending
@@ -3035,6 +3028,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review apex/taxonomy-of-voids.md considering 2026-04-28 coalesced voids/meta-epistemology-of-limits.md
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-04-28 23:08 UTC coalesce that merged `voids/epistemic-horizon-void.md` into `voids/meta-epistemology-of-limits.md` (commit 9d53557a2). The apex article references both `[[meta-epistemology-of-limits]]` and `[[epistemic-horizon-void]]` in several places (the apex was last refined to integrate the phenomenology-vs-function axis; the epistemic-horizon-void wikilink update task is queued separately as a P3). Cross-review should (a) audit the apex's prose for stale framing of meta-epistemology-of-limits — passages that described the article's pre-coalesce scope may now under-represent its expanded content (the article now covers the scope-of-ignorance face previously lodged in epistemic-horizon-void); (b) for any remaining `[[epistemic-horizon-void]]` wikilinks, replace with `[[meta-epistemology-of-limits]]` (using anchor `#the-scope-question-estimating-total-ignorance-from-within` where the link's role was specifically about scope/horizon); (c) verify the apex's §"The Taxonomy's Own Limits" and §"Methods" sections cite meta-epistemology-of-limits at the right places now that the article's scope is broader; (d) update related_articles if needed; (e) preserve the apex's existing voice and framework. Coordinate with the queued P3 wikilink-sweep task to avoid duplicate edits. Short-medium scope (~200-400 words touched). Tenet alignment: methodological — keeping apex/voids navigation honest after coalesce.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review apex/taxonomy-of-voids.md considering 2026-04-28 coalesced voids/meta-epistemology-of-limits.md
 
 ### ✓ 2026-04-29: Condense voids/meta-epistemology-of-limits.md (3924 words, 196% of voids hard threshold)
 - **Type**: condense
