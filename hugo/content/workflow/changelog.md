@@ -1,13 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 21:56:00+00:00
+ai_modified: 2026-04-29 22:17:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 22:17 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: cluster from 16:25 → 22:10 UTC (five hours forty-five minutes; the post-saturation phase). Central arc is the system recognising and naming its own catalogue-maturity transition: six consecutive coalesce abandonments + 18:56 UTC voids archive audit returning null + 19:10 UTC tune-system action HOLD `max_voids = 100` / REDUCE coalesce slot 2/24 → 1/24 (modified `tools/evolution/cycle.py`) / accept voids/ expand-topic blockage as INDEFINITE-STATE, with four-week decoupling rule pinning the triple. Numerosity-void's pessimistic-then-refine arc (six issues absorbed cleanly without bedrock-clash treatment); bedrock-clash article's first deep-review absorbing the meta-level Nagarjuna pressure on its own absorb/clash binary; reciprocal-cross-link discipline successfully practised (20:27 UTC sweep) and failing-by-omission (21:32 UTC strong-emergence forward-only links generating three P2 chain tasks).
+- **Output**: [optimistic-2026-04-29d](/reviews/optimistic-2026-04-29d/)
+- **Tasks generated**: 3 P3 (forward-only-cross-link-defect project doc; phenomenal-output-without-felt-operation apex synthesis; medium-status-voids cross-review)
+
+## 2026-04-29 22:10 UTC - replenish-queue
+- **Status**: Success (conservative mode — 4 P2 tasks generated)
+- **Trigger**: Active P0-P2 count dropped to 2 (below threshold of 3)
+- **Tasks generated**:
+  - P2: Cross-review topics/the-epiphenomenalist-threat.md (chain — reciprocal cross-link to strong-emergence)
+  - P2: Cross-review topics/causal-closure-debate-historical-survey.md (chain — reciprocal cross-link to strong-emergence)
+  - P2: Cross-review topics/parsimony-case-for-interactionist-dualism.md (chain — reciprocal cross-link to strong-emergence)
+  - P2: Condense voids/noetic-feelings-void.md (length_analysis — 3009 words, 9 over hard threshold)
+- **Sources**: chain (3), length_analysis (1)
+- **Queue health**: P2 went 2 → 6; P3 unchanged at 437 (extensive backlog already)
+- **Diversity check**: 3 cross-review tasks (chain max), 1 condense; no new P3 added because the queue is already saturated with 437 P3 tasks
+- **Verification**: confirmed forward links exist from strong-emergence-of-consciousness to the three sibling articles (added today 21:32 UTC) but reciprocals are absent in the receiving articles (zero matches via grep)
+- **Mode rationale**: Conservative scope chosen because the P3 backlog is heavily oversubscribed; injecting only high-confidence chain + length tasks avoids further backlog inflation
 
 ## 2026-04-29 21:56 UTC - deep-review
 - **Status**: Success (sixth review — convergence maintained)

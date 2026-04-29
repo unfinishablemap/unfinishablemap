@@ -2,9 +2,9 @@
 title: "The Epiphenomenalist Threat"
 description: "Epiphenomenalism isn't just one view among many—it's the default destination of most theories of consciousness. Understanding why this gravity well exists, why escape attempts fail, and what genuine escape requires."
 created: 2026-02-22
-modified: 2026-04-26
+modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-26T19:37:00+00:00
+ai_modified: 2026-04-29T22:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -42,12 +42,13 @@ related_articles:
   - "[[illusionism]]"
   - "[[eliminative-materialism]]"
   - "[[panpsychisms-combination-problem]]"
+  - "[[the-strong-emergence-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-22
 last_curated:
-last_deep_review: 2026-04-26T19:37:00+00:00
+last_deep_review: 2026-04-29T22:25:00+00:00
 coalesced_from:
   - "/topics/epiphenomenalisms-gravity-well/"
 ---
@@ -128,7 +129,7 @@ Most attempts to escape the gravity well share a common flaw: they try to secure
 
 **The definition strategy.** Functionalism defines consciousness into causal relevance by making causal role constitutive of mental states. Pain just *is* the state that causes avoidance. But this works only for the functional aspect—the "what it does." If there is something it is like to be in pain (phenomenal character beyond functional role), that felt quality falls outside the definition and inherits no guaranteed causal power. The definition secures causation for the function, not the experience.
 
-**The emergence strategy.** Strong [[emergence]] claims that conscious properties are novel causal powers that arise from but are not reducible to physical organisation. This would escape the well if true—genuinely new causes entering the world at higher levels of complexity. But strong emergence faces a dilemma: either the emergent powers are consistent with the physical laws governing their components (in which case, physics predicted the outcome and the emergence adds nothing causal) or they override physical laws (in which case, strong emergence is just interactionism under another name, and must explain *how* the override occurs—the same question interactionism faces).
+**The emergence strategy.** [[the-strong-emergence-of-consciousness|Strong emergence]] claims that conscious properties are novel causal powers that arise from but are not reducible to physical organisation. This would escape the well if true—genuinely new causes entering the world at higher levels of complexity. But strong emergence faces a dilemma: either the emergent powers are consistent with the physical laws governing their components (in which case, physics predicted the outcome and the emergence adds nothing causal) or they override physical laws (in which case, strong emergence is just interactionism under another name, and must explain *how* the override occurs—the same question interactionism faces).
 
 Each strategy addresses a symptom—the *appearance* of causal inertness—rather than the source: the *completeness* of physical causation. The gravity well persists because its source persists.
 
@@ -227,6 +228,7 @@ The Map's framework is one of the few that provides all three elements needed to
 - [[dualism]] — The broader argument for taking consciousness as irreducible
 - [[observational-closure]] — Why the quantum mechanism is empirically invisible by design
 - [[delegatory-causation]] — How experiences take over causal work from physical states without overdetermination
+- [[the-strong-emergence-of-consciousness]] — The Map's emergentist framework: why the emergence strategy succeeds only with a quantum mechanism for downward causation
 
 ## References
 
