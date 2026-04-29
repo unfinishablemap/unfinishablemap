@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add reciprocal cross-links between voids/numerosity-void.md and coalesce-condense-apex-stability + cognitive-phenomenology
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC, Cross-Linking Suggestions). The new `voids/numerosity-void.md` (created 15:14 UTC, 1,990 words) introduces two structural connections that need reciprocal anchoring. (a) **numerosity-void ↔ coalesce-condense-apex-stability**: numerosity-void's §"The Introspective Ceiling" claim (cannot hold >~4 phenomenal-content units in single-act apprehension) has a within-article-structural analogue in coalesce-condense-apex-stability — just as the catalogue cannot hold >~4 thinks-at-once, an article cannot hold more than its hard-threshold of words without structural reorganisation. The connection is methodological-architectural and would deepen both the introspective-ceiling section and the apex-stability article's framing of structural ceilings. (b) **numerosity-void ↔ cognitive-phenomenology**: subitizing is one of the cleanest cases of *output-without-felt-operation* (the experience of cardinality is given as a finished property without the operation that produced it). cognitive-phenomenology's evidence-from-epistemic-emotions section currently treats output-without-felt-operation only at the epistemic level (noetic feelings); citing numerosity-void as the parallel case at the perceptual level extends the pattern's reach across modalities. Cross-review should (1) add a §"See also" or inline cross-link from numerosity-void's introspective-ceiling section to coalesce-condense-apex-stability's article-structure framing, with reciprocal back-link in the apex-stability article; (2) cite numerosity-void in cognitive-phenomenology as a parallel perceptual-level instance of output-without-felt-operation, with reciprocal back-link from numerosity-void's mechanism-face section. Short scope (~200-350 words touched across three articles). Tenet alignment: methodological — preserves the navigability of the inter-article web at the moment voids/ has reached cap.
-- **Source**: optimistic-review (chain from optimistic-2026-04-29c)
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review apex/conjunction-coalesce.md to integrate numerosity-void as fifth conjoint-voids exemplar
 - **Type**: cross-review
 - **Status**: pending
@@ -3126,6 +3119,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Add reciprocal cross-links between voids/numerosity-void.md and coalesce-condense-apex-stability + cognitive-phenomenology
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC, Cross-Linking Suggestions). The new `voids/numerosity-void.md` (created 15:14 UTC, 1,990 words) introduces two structural connections that need reciprocal anchoring. (a) **numerosity-void ↔ coalesce-condense-apex-stability**: numerosity-void's §"The Introspective Ceiling" claim (cannot hold >~4 phenomenal-content units in single-act apprehension) has a within-article-structural analogue in coalesce-condense-apex-stability — just as the catalogue cannot hold >~4 thinks-at-once, an article cannot hold more than its hard-threshold of words without structural reorganisation. The connection is methodological-architectural and would deepen both the introspective-ceiling section and the apex-stability article's framing of structural ceilings. (b) **numerosity-void ↔ cognitive-phenomenology**: subitizing is one of the cleanest cases of *output-without-felt-operation* (the experience of cardinality is given as a finished property without the operation that produced it). cognitive-phenomenology's evidence-from-epistemic-emotions section currently treats output-without-felt-operation only at the epistemic level (noetic feelings); citing numerosity-void as the parallel case at the perceptual level extends the pattern's reach across modalities. Cross-review should (1) add a §"See also" or inline cross-link from numerosity-void's introspective-ceiling section to coalesce-condense-apex-stability's article-structure framing, with reciprocal back-link in the apex-stability article; (2) cite numerosity-void in cognitive-phenomenology as a parallel perceptual-level instance of output-without-felt-operation, with reciprocal back-link from numerosity-void's mechanism-face section. Short scope (~200-350 words touched across three articles). Tenet alignment: methodological — preserves the navigability of the inter-article web at the moment voids/ has reached cap.
+- **Output**: obsidian/voids/numerosity-void.md -- Context: Add reciprocal cross-links between voids/numerosity-void.md and coalesce-condense-apex-stability + cognitive-phenomenology
 
 ### ✓ 2026-04-29: Cross-review topics/free-will.md considering moral-implications-of-genuine-agency restructure
 - **Type**: cross-review
