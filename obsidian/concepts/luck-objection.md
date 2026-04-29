@@ -4,7 +4,7 @@ description: "Why indeterminism seems to threaten free will as much as determini
 created: 2026-01-18
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-04-20T20:38:00+00:00
+ai_modified: 2026-04-29T20:10:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -34,7 +34,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-18
 last_curated: null
-last_deep_review: 2026-04-15T21:36:00+00:00
+last_deep_review: 2026-04-29T20:10:00+00:00
 ---
 
 The luck objection is the most persistent challenge to libertarian [[topics/free-will|free will]]. While much philosophical debate focuses on whether determinism threatens freedom, a long line of philosophers argue that *indeterminism* is equally fatal. If choices aren't causally predetermined, they must be random—and random choices aren't more "free" than determined ones. They're just arbitrary.
@@ -155,7 +155,7 @@ The luck objection directly challenges the Map's [[tenets#^bidirectional-interac
 - [[concepts/many-worlds]] — Why MWI undermines the selection picture entirely
 - [[delegatory-causation]] — Default causal profile (counterfactual baseline), preemption, and the mechanism by which experience takes over the physical state's causal work
 - [[trilemma-of-selection]] — The three-way choice between determinism, randomness, and mental causation
-- [[moral-implications-of-genuine-agency]] — How genuine agency transforms moral luck and grounds desert
+- [[moral-implications-of-genuine-agency]] — How agent causation repositions moral luck and grounds the Map's account of desert (with the compatibilist symmetry challenge)
 
 ## References
 
