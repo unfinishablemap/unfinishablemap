@@ -1,9 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 07:04:00+00:00
+ai_modified: 2026-04-29 07:19:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 07:19 UTC - apex-evolve
+- **Status**: Complete
+- **Mode**: Create
+- **Article**: [[apex/medium-status-voids-in-cognition]]
+- **Sources synthesised**: 4 voids articles ([[voids/mattering-void]], [[voids/relevance-void]], [[voids/noetic-feelings-void]], [[voids/conceptual-scheme-void]]) + 3 supporting voids ([[voids/three-kinds-of-void]], [[voids/self-opacity]], [[voids/apophatic-cartography]])
+- **Word count**: 2997 (target: 2200–3000)
+- **Trigger**: Recommended by [[reviews/optimistic-2026-04-29]] (Opportunity 1, High Priority — noetic-occlusion cluster apex synthesis)
+- **Five required moves**: (a) named the *medium-status of cognitive operations* category and distinguished it from content-status (qualia, phenomenal character) and capacity-status (cognitive closure, computational limits); (b) catalogued the four voids with their distinct medium-features (significance / filtering / gating / framing) and shared self-reference structure; (c) specified the recurring circularity as the *operative-self-reference* shape; (d) mapped five traditions on the circularity (Heideggerian readiness-to-hand; Frankfurtian caring-as-identity-constitutive; Ratcliffean existential feelings; Carruthers's interpretive sensory-access; Vervaekean relevance realization); (e) specified a three-condition criterion (operative-while-invisible; mode-fragile-under-objectification; breakdown-by-absence-rather-than-inspection) preventing inflation of the medium-status framing
+- **Tenet alignment**: Dualism (medium-status as new line of resistance to physicalist absorption parallel to content-level lines), Bidirectional Interaction (three of four voids identified as candidate causal-interface channels — void and channel as same structural feature viewed from opposite directions), Occam's Razor Has Limits (parsimony at content-level fails when medium-level features structure everything else)
+- **Index updated**: [[apex/apex-articles]] entry #22 added with thesis, sources, admission note; Guidelines section updated to record justification
+- **Length-management arc**: 4 cut passes from 3291 → 3172 → 3057 → 3003 → 2997 words; final 2,997 within target ceiling
+- **Review**: [[reviews/apex-evolve-2026-04-29-medium-status-voids-in-cognition]]
 
 ## 2026-04-29 07:04 UTC - deep-review
 - **Status**: Success
