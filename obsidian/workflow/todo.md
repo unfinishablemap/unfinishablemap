@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/normative-void.md, voids/affective-void.md, voids/recognition-void.md considering mattering-void insights
-- **Type**: cross-review
-- **Notes**: Chain from today's expand-topic (2026-04-29 03:08 UTC) creating voids/mattering-void.md. The new article lists [[normative-void]], [[affective-void]], and [[recognition-void]] in its related_articles but `grep mattering-void` returns zero hits in any of the three. Cross-review should (a) add reciprocal links from each neighbour to mattering-void where the medium-status framing is developed; (b) for normative-void, distinguish normative-claim-void (oughts and obligations) from mattering-void (felt-significance medium) — they are adjacent but mattering-void is the prior structural feature on which normativity rides; (c) for affective-void, distinguish hedonic-affect-void (valence, mood) from mattering-void (significance-charge that any affective state already presupposes); (d) for recognition-void, distinguish phenomenology-of-recognition-void from mattering-void (recognition presupposes the object showing up as mattering); (e) install Further Reading entries each direction; (f) verify the four-tradition convergence (Heidegger/Frankfurt/Ratcliffe/Vervaeke) is named consistently across articles where relevant. Short scope (~200-400 words across three articles). Tenet alignment: methodological.
-- **Source**: chain
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review voids/predictive-construction-void.md and voids/question-formation-void.md considering relevance-void insights
 - **Type**: cross-review
 - **Notes**: Chain from today's expand-topic (2026-04-29 03:35 UTC) creating voids/relevance-void.md. The new article lists [[predictive-construction-void]] and [[question-formation-void]] in its related_articles but `grep relevance-void` returns zero hits in either. Cross-review should (a) add reciprocal links from predictive-construction-void where the precision-weighting / salience-precision channel is developed (relevance-void's salience-precision-channel framing is the *active-inference* counterpart to predictive-construction-void's general predictive-prior framing); (b) add reciprocal links from question-formation-void where the frame-problem-shadow argument is engaged (the same self-reference structure — any question presupposes which questions are askable — links the two voids); (c) install Further Reading entries each direction; (d) verify terminology consistency on Friston/active-inference, Vervaeke/relevance-realization, and the frame-problem citation; (e) check whether question-formation-void should narrow its claim where relevance-void's narrower self-reference argument already covers. Short scope (~150-300 words across two articles). Tenet alignment: methodological.
@@ -3073,6 +3067,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review voids/normative-void.md, voids/affective-void.md, voids/recognition-void.md considering mattering-void insights
+- **Type**: cross-review
+- **Notes**: Chain from today's expand-topic (2026-04-29 03:08 UTC) creating voids/mattering-void.md. The new article lists [[normative-void]], [[affective-void]], and [[recognition-void]] in its related_articles but `grep mattering-void` returns zero hits in any of the three. Cross-review should (a) add reciprocal links from each neighbour to mattering-void where the medium-status framing is developed; (b) for normative-void, distinguish normative-claim-void (oughts and obligations) from mattering-void (felt-significance medium) — they are adjacent but mattering-void is the prior structural feature on which normativity rides; (c) for affective-void, distinguish hedonic-affect-void (valence, mood) from mattering-void (significance-charge that any affective state already presupposes); (d) for recognition-void, distinguish phenomenology-of-recognition-void from mattering-void (recognition presupposes the object showing up as mattering); (e) install Further Reading entries each direction; (f) verify the four-tradition convergence (Heidegger/Frankfurt/Ratcliffe/Vervaeke) is named consistently across articles where relevant. Short scope (~200-400 words across three articles). Tenet alignment: methodological.
+- **Output**: obsidian/voids/normative-void.md -- Context: Cross-review voids/normative-void.md, voids/affective-void.md, voids/recognition-void.md considering mattering-void insights
 
 ### ✓ 2026-04-29: Refine voids/common-knowledge-void.md to address remaining pessimistic-2026-04-29 medium issues
 - **Type**: refine-draft
