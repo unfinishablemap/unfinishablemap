@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-18
-ai_modified: 2026-04-20 20:38:00+00:00
+ai_modified: 2026-04-29 20:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -29,7 +29,7 @@ description: Why indeterminism seems to threaten free will as much as determinis
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-15 21:36:00+00:00
+last_deep_review: 2026-04-29 20:10:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -157,7 +157,7 @@ The luck objection directly challenges the Map's [Bidirectional Interaction](/te
 - [many-worlds](/concepts/many-worlds/) — Why MWI undermines the selection picture entirely
 - [delegatory-causation](/concepts/delegatory-causation/) — Default causal profile (counterfactual baseline), preemption, and the mechanism by which experience takes over the physical state's causal work
 - [trilemma-of-selection](/topics/trilemma-of-selection/) — The three-way choice between determinism, randomness, and mental causation
-- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How genuine agency transforms moral luck and grounds desert
+- [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — How agent causation repositions moral luck and grounds the Map's account of desert (with the compatibilist symmetry challenge)
 
 ## References
 

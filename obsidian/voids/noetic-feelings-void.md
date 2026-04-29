@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-29T11:34:00+00:00
+ai_modified: 2026-04-29T20:27:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -45,6 +45,7 @@ related_articles:
   - "[[suspension-void]]"
   - "[[consciousness-and-scientific-explanation]]"
   - "[[consciousness-and-creativity]]"
+  - "[[numerosity-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -76,6 +77,8 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a funct
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
 Loev argues these are "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath the level of reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. [[consciousness-and-creativity|Insight]] is a paradigm case: the breakthrough presents as direct apprehension, not as the fluency-and-coherence signal it actually is. The noetic feel typically arrives as the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]—the two voids compose, with feelings registering when to stop and inferences doing the moving that produces the verdict. Upstream of both is the [[relevance-void|relevance void]]: the filter that decides which items are even in play to be inferred about and felt-toward. Relevance shortlists the field; inference moves within it; noetic feelings register when to stop.
+
+The output-without-operation shape extends beyond epistemic gating. The [[numerosity-void#the-mechanism-face|numerosity void's mechanism face]] supplies a non-affective sibling: subitizing delivers the cardinal *as given*, parallel-index allocation hidden behind the determinate verdict the way fluency is hidden behind the feeling of rightness. Both expose the same structural shape — a finished output without phenomenal access to the operation that produced it — registered once in epistemic gating, once in cardinal perception. Determinacy of result is no evidence of transparency of cause in either case.
 
 ## How the Feelings Are Produced
 
@@ -178,6 +181,7 @@ A functionalist might dissolve the void by identifying understanding with a func
 - [[meta-epistemology-of-limits]] — Methods that outrun their own limits
 - [[inference-void]] — The opacity of the transitions whose outputs noetic feelings register
 - [[relevance-void]] — The upstream gateway filter that selects which items are in play
+- [[numerosity-void]] — Output-without-operation in cardinal perception: the same structural shape outside the affective family
 - [[suspension-void]] — Why bracketing the natural attitude cannot fully audit itself
 - [[predictive-construction-void]] — How successful prediction manufactures self-evidence
 - [[epistemic-emotions]] — The phenomenally rich extension of the noetic family

@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/luck-objection.md considering moral-implications-of-genuine-agency restructure
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 14:55 UTC restructure of `topics/moral-implications-of-genuine-agency.md` (~900 words touched closing six high-severity issues from pessimistic-2026-04-29c). Issue 3 of that review reframed causal luck as *relocated* rather than *eliminated* — a substantive metaphysical concession that constitutive luck swallows the gain. `concepts/luck-objection.md` (last AI-modified 2026-04-20, before today's restructure) currently uses the older "consciousness-selection elimination of luck" framing. Cross-review should (a) verify whether the article's framing aligns with the restructure's relocated-luck treatment, (b) install a substantive (not link-only) cross-reference to moral-implications' new "Compatibilist Symmetry Challenge" section if the alignment is valid, (c) check whether the article needs explicit acknowledgement that constitutive-luck objections survive even granting the consciousness-selection mechanism — the restructure makes this the dialectically honest position, (d) verify reciprocal cross-link with substantive content (per the reciprocal-cross-link discipline) rather than frontmatter-only updates. Short scope (~150-300 words touched in luck-objection plus possibly a ~50-word reciprocal sentence in moral-implications). Tenet alignment: Bidirectional Interaction (the consciousness-selection mechanism is what does the metaphysical work) + methodological honesty.
-- **Source**: chain (from refine-draft of moral-implications-of-genuine-agency 2026-04-29 14:55 UTC)
-- **Generated**: 2026-04-29
-
 ### P2: Refine voids/numerosity-void.md and siblings to verify reciprocal cross-link reciprocity
 - **Type**: refine-draft
 - **Status**: pending
@@ -3148,6 +3141,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review concepts/luck-objection.md considering moral-implications-of-genuine-agency restructure
+- **Type**: cross-review
+- **Notes**: Chain from today's 14:55 UTC restructure of `topics/moral-implications-of-genuine-agency.md` (~900 words touched closing six high-severity issues from pessimistic-2026-04-29c). Issue 3 of that review reframed causal luck as *relocated* rather than *eliminated* — a substantive metaphysical concession that constitutive luck swallows the gain. `concepts/luck-objection.md` (last AI-modified 2026-04-20, before today's restructure) currently uses the older "consciousness-selection elimination of luck" framing. Cross-review should (a) verify whether the article's framing aligns with the restructure's relocated-luck treatment, (b) install a substantive (not link-only) cross-reference to moral-implications' new "Compatibilist Symmetry Challenge" section if the alignment is valid, (c) check whether the article needs explicit acknowledgement that constitutive-luck objections survive even granting the consciousness-selection mechanism — the restructure makes this the dialectically honest position, (d) verify reciprocal cross-link with substantive content (per the reciprocal-cross-link discipline) rather than frontmatter-only updates. Short scope (~150-300 words touched in luck-objection plus possibly a ~50-word reciprocal sentence in moral-implications). Tenet alignment: Bidirectional Interaction (the consciousness-selection mechanism is what does the metaphysical work) + methodological honesty.
+- **Output**: obsidian/concepts/luck-objection.md -- Context: Cross-review concepts/luck-objection.md considering moral-implications-of-genuine-agency restructure
 
 ### ✓ 2026-04-29: Cross-review concepts/agent-causation.md considering moral-implications-of-genuine-agency restructure
 - **Type**: cross-review

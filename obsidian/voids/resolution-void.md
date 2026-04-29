@@ -4,7 +4,7 @@ description: "Consciousness processes ten bits per second from eleven million av
 created: 2026-02-28
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-24T20:29:00+00:00
+ai_modified: 2026-04-29T20:27:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -22,6 +22,7 @@ related_articles:
   - "[[consciousness-bandwidth-architecture]]"
   - "[[grain-mismatch]]"
   - "[[attention-as-interface]]"
+  - "[[numerosity-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -46,7 +47,7 @@ The information-theoretic dimension of the resolution void is starkly quantifiab
 
 Consciousness discards 99.9999% of available information. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [[bandwidth-of-consciousness|neural bandwidth constraints]] characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns through [[attention-as-interface|attentional mechanisms]] while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
 
-Cognitive control capacity is even lower than the ten-bit figure suggests. When measured through tasks requiring deliberate selection among options, throughput drops to approximately three to four bits per second. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access.
+Cognitive control capacity is even lower than the ten-bit figure suggests. When measured through tasks requiring deliberate selection among options, throughput drops to approximately three to four bits per second. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access. The three-to-four-bit figure converges with the [[numerosity-void|numerosity void's]] architectural ceiling at roughly four items in cardinal perception — the same magnitude reappearing where conscious operation hits a structural wall, suggesting the four-item cap is one face of a wider architectural feature rather than a quirk of number perception.
 
 ## Temporal Frames
 
@@ -97,6 +98,7 @@ The resolution void connects to the Map's [[tenets]] across multiple dimensions.
 - [[bandwidth-of-consciousness]] — Empirical measurements of the consciousness bottleneck
 - [[consciousness-bandwidth-architecture]] — How coarse-grained intention produces fine-grained physical effects
 - [[attention-as-interface]] — How attention operates at the resolution boundary
+- [[numerosity-void]] — The architectural-ceiling face at ~4 items: the same magnitude in cardinal perception that the bandwidth bottleneck registers in deliberate selection
 
 ## References
 
