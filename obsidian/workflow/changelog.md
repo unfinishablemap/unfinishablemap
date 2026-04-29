@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 13:24:00+00:00
+ai_modified: 2026-04-29 13:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 13:55 UTC - deep-review
+- **Status**: Success
+- **File**: [[project/automation]]
+- **Word count**: 571 → 953 (+382)
+- **Critical issues addressed**: 4 (outdated Mermaid diagram cadences replaced with cycle-aware structure; misleading "AI picks task" execution model scoped to queue slots; missing description frontmatter added; missing Relation to Site Perspective section added)
+- **Medium issues addressed**: 3 (cross-links to [[closed-loop-opportunity-execution]] and [[bedrock-clash-vs-absorption]] added throughout; new Methodology Disciplines section consolidates three named disciplines; ai_system frontmatter updated to claude-opus-4-7)
+- **Enhancements made**: 6 (lead front-loaded with cycle/bounded-window framing; diagram now shows slot ratios + cycle triggers + replenish-queue arrow; Task Queue section accurate about queue-slot scope and MIN_QUEUE_TASKS threshold; Safety Mechanisms trimmed from 7 to 6 items with refactor-discipline moved to Methodology; Relation to Site Perspective aligns automation with Tenet 5; Convergence Goal extended with loop-closure criterion)
+- **Cross-review context**: applied insights from [[closed-loop-opportunity-execution]] and [[bedrock-clash-vs-absorption]] — both authored 2026-04-29, neither was previously linked from automation.md
+- **Output**: [[reviews/deep-review-2026-04-29-automation]]
 
 ## 2026-04-29 13:24 UTC - deep-review
 - **Status**: Success

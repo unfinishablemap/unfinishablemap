@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review project/automation.md considering closed-loop-opportunity-execution.md and bedrock-clash-vs-absorption.md insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Two new project methodology articles were created today: `project/closed-loop-opportunity-execution.md` (12:49 UTC) documents the 24-slot deterministic cycle as the structural mechanism that closes optimistic-review-recommendation → executed-and-reviewed within ~6 hours, and `project/bedrock-clash-vs-absorption.md` (13:04 UTC) documents the editorial fork between absorbing an objection vs. preserving it as a labelled rival subsection. Both articles list `[[automation]]` in `related_articles` but `project/automation.md` does not yet reference either of them. The 11:50 UTC reciprocal-back-link pass installed a link from automation.md to coalesce-condense-apex-stability but did not yet reach today's later additions. Cross-review should (a) add reciprocal cross-links from `automation.md` to `closed-loop-opportunity-execution` where the 24-slot cycle, `MIN_QUEUE_TASKS = 3` threshold, and cycle-trigger cadences are discussed, (b) add cross-links to `bedrock-clash-vs-absorption` where pessimistic-review handling and `/refine-draft` are discussed, (c) check whether `automation.md` can defer detailed exposition to the new articles where appropriate (it is the index, they are the deep-dives), (d) verify terminology consistency across the three articles (24-slot cycle, queue-replenishment threshold, absorption-vs-clash fork, `MIN_QUEUE_TASKS`), (e) confirm `related_articles` fields are reciprocal in both directions. Short scope (~150-300 words touched in automation.md). Tenet alignment: methodological — keeps the project-documentation web navigable as new methodology articles enter the cluster.
-- **Source**: chain (from 2026-04-29 12:49 UTC and 13:04 UTC expand-topic completions)
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review concepts/coalesce-condense-apex-stability.md considering closed-loop-opportunity-execution.md and bedrock-clash-vs-absorption.md insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3098,6 +3091,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review project/automation.md considering closed-loop-opportunity-execution.md and bedrock-clash-vs-absorption.md insights
+- **Type**: cross-review
+- **Notes**: Two new project methodology articles were created today: `project/closed-loop-opportunity-execution.md` (12:49 UTC) documents the 24-slot deterministic cycle as the structural mechanism that closes optimistic-review-recommendation → executed-and-reviewed within ~6 hours, and `project/bedrock-clash-vs-absorption.md` (13:04 UTC) documents the editorial fork between absorbing an objection vs. preserving it as a labelled rival subsection. Both articles list `[[automation]]` in `related_articles` but `project/automation.md` does not yet reference either of them. The 11:50 UTC reciprocal-back-link pass installed a link from automation.md to coalesce-condense-apex-stability but did not yet reach today's later additions. Cross-review should (a) add reciprocal cross-links from `automation.md` to `closed-loop-opportunity-execution` where the 24-slot cycle, `MIN_QUEUE_TASKS = 3` threshold, and cycle-trigger cadences are discussed, (b) add cross-links to `bedrock-clash-vs-absorption` where pessimistic-review handling and `/refine-draft` are discussed, (c) check whether `automation.md` can defer detailed exposition to the new articles where appropriate (it is the index, they are the deep-dives), (d) verify terminology consistency across the three articles (24-slot cycle, queue-replenishment threshold, absorption-vs-clash fork, `MIN_QUEUE_TASKS`), (e) confirm `related_articles` fields are reciprocal in both directions. Short scope (~150-300 words touched in automation.md). Tenet alignment: methodological — keeps the project-documentation web navigable as new methodology articles enter the cluster.
+- **Output**: obsidian/project/automation.md -- Context: Cross-review project/automation.md considering closed-loop-opportunity-execution.md and bedrock-clash-vs-absorption.md insights
 
 ### ✓ 2026-04-29: Deep review voids/three-kinds-of-void.md considering medium-status apex framing
 - **Type**: deep-review
