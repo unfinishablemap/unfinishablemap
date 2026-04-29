@@ -37,18 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/meaning-void.md considering mattering-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/mattering-void.md (created 2026-04-29) lists [[meaning-void]] in its `related_articles` and the lede explicitly distinguishes the mattering void from neighbouring voids including meaning. Mattering's claim — that the felt weight of significance is itself the invisible medium through which any meaning-distinction is made — sits one structural layer below the aboutness/semantic-gap partition that meaning-void carries. Cross-review should (a) install reciprocal wikilinks from meaning-void to mattering-void at the points where significance-as-condition is treated (likely in the Tenet alignment / Site Perspective sections); (b) check whether meaning-void's distinction between aboutness-gap and semantic-gap can be sharpened by acknowledging that *mattering* is the prior layer on which both gaps presuppose a subject for whom anything matters at all; (c) verify terminology consistency (mattering vs significance vs salience); (d) preserve meaning-void's current voice and length (the article is already a recent coalesce result and a P3 condense candidate — keep edits light-touch, ~150-300 words touched). Tenet alignment: Dualism, Occam's Razor Has Limits.
-- **Source**: chain (from mattering-void.md expand-topic 2026-04-29)
-- **Generated**: 2026-04-29
-
-### P2: Cross-review voids/valence-void.md considering mattering-void insights
-- **Type**: cross-review
-- **Notes**: New article voids/mattering-void.md (created 2026-04-29) explicitly distinguishes the mattering void from the valence void at length in its opening section: valence concerns the polarity of feelings (good/bad) once something registers as mattering, while mattering concerns the prior structural fact of significance showing up at all. The distinction is load-bearing for both articles. Cross-review should (a) install a reciprocal wikilink from valence-void to [[mattering-void]] where the valence/mattering distinction would clarify the article's scope; (b) check whether valence-void's exposition of polarity-without-significance examples (e.g., affect-without-content cases) can borrow the mattering/valence layering as a structural disambiguation; (c) verify terminology consistency; (d) preserve voice and structure — light-touch edit (~100-200 words touched). Tenet alignment: Dualism — both voids reinforce the explanatory-gap argument by identifying structurally distinct phenomenal residues.
-- **Source**: chain (from mattering-void.md expand-topic 2026-04-29)
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review voids/noetic-feelings-void.md considering relevance-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/relevance-void.md (created 2026-04-29) lists [[noetic-feelings-void]] in its `related_articles` and the lede explicitly distinguishes them: noetic feelings are the felt qualities (rightness, familiarity, understanding) that *gate* inquiry from inside, whereas relevance is the prior live-narrowing operation that decides which contents are even candidates for inquiry in the first place. Cross-review should (a) install reciprocal wikilinks from noetic-feelings-void to [[relevance-void]] where the gating-vs-narrowing distinction would clarify the article; (b) check whether noetic-feelings-void's treatment of metacognitive feelings can be sharpened by acknowledging that the relevance-filter has already operated by the time noetic feelings show up — they are gates *within* a pre-narrowed candidate set; (c) verify terminology consistency (relevance vs salience vs noetic feelings); (d) preserve voice and structure — light-touch edit (~150-250 words touched). Tenet alignment: Dualism, Occam's Razor Has Limits.
@@ -3073,6 +3061,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review voids/valence-void.md considering mattering-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mattering-void.md (created 2026-04-29) explicitly distinguishes the mattering void from the valence void at length in its opening section: valence concerns the polarity of feelings (good/bad) once something registers as mattering, while mattering concerns the prior structural fact of significance showing up at all. The distinction is load-bearing for both articles. Cross-review should (a) install a reciprocal wikilink from valence-void to [[mattering-void]] where the valence/mattering distinction would clarify the article's scope; (b) check whether valence-void's exposition of polarity-without-significance examples (e.g., affect-without-content cases) can borrow the mattering/valence layering as a structural disambiguation; (c) verify terminology consistency; (d) preserve voice and structure — light-touch edit (~100-200 words touched). Tenet alignment: Dualism — both voids reinforce the explanatory-gap argument by identifying structurally distinct phenomenal residues.
+- **Output**: obsidian/voids/valence-void.md -- Context: Cross-review voids/valence-void.md considering mattering-void insights
+
+### ✓ 2026-04-29: Cross-review voids/meaning-void.md considering mattering-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mattering-void.md (created 2026-04-29) lists [[meaning-void]] in its `related_articles` and the lede explicitly distinguishes the mattering void from neighbouring voids including meaning. Mattering's claim — that the felt weight of significance is itself the invisible medium through which any meaning-distinction is made — sits one structural layer below the aboutness/semantic-gap partition that meaning-void carries. Cross-review should (a) install reciprocal wikilinks from meaning-void to mattering-void at the points where significance-as-condition is treated (likely in the Tenet alignment / Site Perspective sections); (b) check whether meaning-void's distinction between aboutness-gap and semantic-gap can be sharpened by acknowledging that *mattering* is the prior layer on which both gaps presuppose a subject for whom anything matters at all; (c) verify terminology consistency (mattering vs significance vs salience); (d) preserve meaning-void's current voice and length (the article is already a recent coalesce result and a P3 condense candidate — keep edits light-touch, ~150-300 words touched). Tenet alignment: Dualism, Occam's Razor Has Limits.
+- **Output**: obsidian/voids/meaning-void.md -- Context: Cross-review voids/meaning-void.md considering mattering-void insights
 
 ### ✓ 2026-04-29: Condense voids/common-knowledge-void.md (3190 words, 160% of voids soft target)
 - **Type**: condense

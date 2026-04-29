@@ -4,9 +4,9 @@ description: "Why does experience come sorted into good and bad? Human+AI explor
 created: 2026-02-18
 modified: 2026-02-18
 human_modified:
-ai_modified: 2026-04-20T14:40:00+00:00
+ai_modified: 2026-04-29T04:34:00+00:00
 draft: false
-last_deep_review: 2026-04-20T14:40:00+00:00
+last_deep_review: 2026-04-29T04:34:00+00:00
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[pain-consciousness-and-causal-power]]"
@@ -20,6 +20,7 @@ related_articles:
   - "[[tenets]]"
   - "[[affective-void]]"
   - "[[mood-void]]"
+  - "[[mattering-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[origin-of-consciousness]]"
   - "[[emergence-void]]"
@@ -38,9 +39,9 @@ The [[hard-problem-of-consciousness|hard problem]] asks why there is something i
 
 The Unfinishable Map treats the valence void as a distinct cognitive boundary, sharper and more intimate than the hard problem it inherits. The hard problem is abstract — one can discuss it without confronting it. The valence void is lived. Every moment of experience demonstrates the phenomenon and defeats the explanation simultaneously.
 
-## Distinct from Affective and Mood Voids
+## Distinct from Affective, Mood, and Mattering Voids
 
-The valence void sits among a family of affect-related voids. The [[affective-void|affective void]] concerns emotions we cannot feel — affects beyond human phenomenological reach due to evolutionary contingency and architectural limits. The [[mood-void|mood void]] concerns the opacity of the affective atmosphere we are always inside of — why we cannot cleanly witness the mood that colours our witnessing. The valence void is orthogonal to both: it asks why *any* affect has a good/bad character at all. A being with access to every possible emotion, in any mood, would still confront the valence void. The question concerns the evaluative structure all feelings share, not the range of feelings or the pervasiveness of the affective background.
+The valence void sits among a family of significance-related voids. The [[affective-void|affective void]] concerns emotions we cannot feel — affects beyond human phenomenological reach due to evolutionary contingency and architectural limits. The [[mood-void|mood void]] concerns the opacity of the affective atmosphere we are always inside of — why we cannot cleanly witness the mood that colours our witnessing. The [[mattering-void|mattering void]] concerns the broader significance-structure beneath valence — why anything shows up as relevant or concerning rather than as bare information; valence is arguably one mode of mattering, perhaps the most primitive, but mattering also encompasses urgency, relevance, and the felt weight of *this-concerns-me* without clear hedonic colour. The valence void is orthogonal to all three: it asks why *any* affect has a good/bad character at all. A being with access to every possible emotion, in any mood, with significance-structure intact, would still confront the valence void. The question concerns the evaluative axis all feelings share, not the range of feelings, the pervasiveness of the affective background, or the medium of significance itself.
 
 ## Three Failures of Explanation
 
@@ -50,21 +51,21 @@ Neuroscience has mapped the circuits of pleasure and pain with remarkable precis
 
 None of this explains why these circuits *feel* a certain way. A complete wiring diagram of nociception — from peripheral transduction through spinal signalling to cortical processing — specifies everything pain does without saying anything about why it hurts. The [[philosophical-zombies|zombie argument]] applies with particular force here: a being functionally identical to us in its pain-processing could conceivably lack the felt badness entirely.
 
-[[pain-consciousness-and-causal-power|Pain asymbolia]] demonstrates that this is not merely a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. If the physical description were sufficient, these patients should still be motivated to avoid damage with normal urgency. They are not — asymbolics fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional architecture and the felt quality are dissociable.
+[[pain-consciousness-and-causal-power|Pain asymbolia]] demonstrates that this is not merely a thought experiment. Patients with specific brain damage can represent tissue damage — they know their hand is burned — without feeling any badness. They have the information without the valence. If the physical description were sufficient, these patients should still avoid damage with normal urgency. They do not — asymbolics fail to guard injured limbs, seek treatment, or develop avoidance patterns. The functional architecture and the felt quality are dissociable.
 
 ### Introspection Bottoms Out
 
 Ask why pain hurts and introspection returns: it just does. Pain's badness is phenomenologically primitive — you cannot decompose it into simpler experiential components that individually lack valence but together produce it. Unlike complex emotions (guilt involves moral judgment, shame involves self-evaluation, nostalgia involves temporal perspective), valence appears to have no internal structure accessible to the experiencing subject. It is the ground floor of experiential evaluation, beneath which introspection cannot dig.
 
-Buddhist analysis of *vedanā* — the hedonic feeling-tone that accompanies all conscious contact with sense objects — reaches the same conclusion from a different tradition. Vedanā arises automatically and pre-reflectively at every moment of contact between sense organ, object, and consciousness. Contemplative practitioners who spend decades refining introspective awareness report increasing ability to observe hedonic tone without reactivity, but the tone itself never becomes transparent. As the contemplative literature notes, much of vedanā is known more through reactive states than through direct introspective access — a partial opacity even to disciplined first-person investigation.
+Buddhist analysis of *vedanā* — the hedonic feeling-tone that accompanies all conscious contact — reaches the same conclusion from a different tradition. Vedanā arises automatically and pre-reflectively at every moment of contact. Contemplative practitioners refining introspective awareness over decades report increasing ability to observe hedonic tone without reactivity, but the tone itself never becomes fully transparent — a partial opacity even to disciplined first-person investigation.
 
-Walter Veit (2024) proposes that hedonic valence may be "one of the most primary instances of experience" — not a feature added to consciousness but constitutive of it. This claim aligns with [[phenomenal-value-realism|phenomenal value realism]], the view that valence is an irreducible feature of reality rather than a projection. If this is correct, the introspective failure is structural rather than a matter of insufficient attention. Valence may resist decomposition because it is not composed of anything more basic.
+Walter Veit (2024) proposes that hedonic valence may be "one of the most primary instances of experience" — constitutive of consciousness rather than added to it. This aligns with [[phenomenal-value-realism|phenomenal value realism]], the view that valence is an irreducible feature of reality rather than a projection. If correct, the introspective failure is structural rather than a matter of insufficient attention: valence may resist decomposition because it is not composed of anything more basic.
 
 ### The Circularity Problem
 
 The deepest obstacle is self-referential. Any attempt to explain valence from within consciousness uses cognitive processes that are themselves valenced. Understanding feels *good*. Confusion feels *bad*. Clarity is pleasant; contradiction is unpleasant. The satisfaction of a good argument, the frustration of a dead end — these inject the phenomenon under investigation into the investigation itself.
 
-This is not merely an inconvenience. It is a structural feature of evaluative cognition. To assess whether an explanation of valence succeeds, one must judge it — and judgment itself is valenced. The evaluative framework we use to evaluate explanations is the very thing we are trying to explain. One cannot achieve the affective distance needed to examine valence as an object precisely because the examination requires valenced cognition at every step.
+The circularity is a structural feature of evaluative cognition, not a mere inconvenience. To assess whether an explanation of valence succeeds, one must judge it — and judgment itself is valenced. The evaluative framework we use to evaluate explanations is the very thing we are trying to explain. One cannot achieve the affective distance needed to examine valence as an object precisely because the examination requires valenced cognition at every step.
 
 The circularity is tighter than comparable self-referential problems in philosophy. The [[self-opacity|self-reference paradox]] concerns consciousness trying to observe itself as object; the valence void concerns evaluation trying to evaluate itself. And while one might imagine a form of consciousness that does not attempt self-observation, it is harder to imagine one that does not evaluate — since valence appears to be constitutive of experience.
 
@@ -78,11 +79,11 @@ The "Vulcan" thought experiment sharpens the question. A Vulcan is a hypothetica
 
 **If Vulcans are possible** — if consciousness could exist without a good/bad axis — then the presence of valence in our experience demands separate explanation. Why does *our* consciousness have this feature? Evolution provides a functional story (organisms that felt pain avoided damage), but this explains only why valence-like functional states were selected, not why they feel like anything.
 
-Veit argues that the first horn is more plausible: that cognitive sophistication necessarily involves valenced experience, because effort, curiosity, and processing fluency all carry hedonic tone. If so, "de-cored consciousness" — experience stripped of all valence — may be a philosopher's fiction rather than a genuine possibility.
+Veit argues the first horn is more plausible: cognitive sophistication necessarily involves valenced experience, since effort, curiosity, and processing fluency all carry hedonic tone. "De-cored consciousness" — experience stripped of all valence — may be a philosopher's fiction rather than a genuine possibility.
 
 ## The Phenomenology of the Valence Void
 
-Approaching this void has a distinctive character: *familiarity masking depth*. Valence is the most intimate feature of experience — closer than colour, sound, or spatial awareness. Everyone knows what pain feels like, what pleasure feels like, what hedonic neutrality (if it exists) feels like. This intimacy creates an illusion of understanding. Recognising that acquaintance is not comprehension requires a deliberate flip in attention.
+Approaching this void has a distinctive character: *familiarity masking depth*. Valence is the most intimate feature of experience — closer than colour, sound, or spatial awareness. Everyone knows what pain feels like, what pleasure feels like. This intimacy creates an illusion of understanding; recognising that acquaintance is not comprehension requires a deliberate flip in attention.
 
 **The flip from obvious to mysterious.** "Why does pain hurt?" initially seems like a trivial question with an obvious answer. Sustained attention reveals the complete absence of any answer. The question is not difficult — it is unanswerable, and the difficulty lies in noticing this.
 
@@ -92,7 +93,7 @@ Approaching this void has a distinctive character: *familiarity masking depth*. 
 
 ## What the Void Reveals
 
-The valence void has a distinctive relationship to the Map's other voids. The [[intrinsic-nature-void]] concerns what matter is in itself beyond relational description. The valence void may be a special case: valence is arguably the intrinsic nature of evaluative experience, known from inside but inexplicable from outside. If Russell and Eddington were right that physics captures only structure while consciousness reveals intrinsic nature, then valence may be the most fundamental intrinsic nature we encounter — the evaluative character of experience at its most raw and irreducible.
+The [[intrinsic-nature-void]] concerns what matter is in itself beyond relational description. The valence void may be a special case: valence is arguably the intrinsic nature of evaluative experience, known from inside but inexplicable from outside. If Russell and Eddington were right that physics captures only structure while consciousness reveals intrinsic nature, then valence may be the most fundamental intrinsic nature accessible — the evaluative character of experience at its most raw and irreducible.
 
 Johnson's Symmetry Theory of Valence (2016) proposes that the valence of a conscious experience corresponds to the mathematical symmetry of its information geometry — that pleasurable states exhibit greater symmetry than painful ones. Even if this correlation holds, it opens a new void rather than closing the current one: *why* would mathematical symmetry feel good? The explanatory gap does not disappear; it migrates. The physical correlate is found, and the felt quality remains mysterious.
 
@@ -114,6 +115,7 @@ The valence void connects to the Map's [[tenets|foundational commitments]] at mu
 - [[emotion-and-dualism]] — Valence irreducibility, emotional consciousness, and the dualist case
 - [[affective-void]] — Emotions beyond human reach — the range problem, not the structure problem
 - [[mood-void]] — The opacity of the affective atmosphere — the pervasiveness problem, not the structure problem
+- [[mattering-void]] — Why anything shows up as significant at all — valence as one mode of mattering
 - [[intrinsic-nature-void]] — What matter is in itself — valence as a case of intrinsic nature
 - [[origin-of-consciousness]] — Why consciousness exists at all — the most logically prior void
 - [[emergence-void]] — How arrangement produces novelty
