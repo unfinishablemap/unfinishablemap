@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 03:35:00+00:00
+ai_modified: 2026-04-29 03:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 03:55 UTC - condense
+- **Status**: Success
+- **File**: [[voids/common-knowledge-void]]
+- **Before**: 3190 words
+- **After**: 2500 words
+- **Reduction**: 22%
+- **Technique**: Trimmed redundant explanations and meta-commentary; tightened Aumann contrast section, focal-points alternative, Lederman discussion, and AI section; merged Approaches to the Edge subsections; consolidated Operational Fiction face with quote moved to Clark & Brennan section. Preserved all three faces, formal/philosophical/phenomenological anchoring, tenet alignment.
 
 ## 2026-04-29 03:35 UTC - expand-topic
 - **Status**: Success

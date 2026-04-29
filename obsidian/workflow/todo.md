@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/common-knowledge-void.md (3190 words, 160% of voids soft target)
-- **Type**: condense
-- **Notes**: Article exceeds 3000-word voids hard threshold (currently 3190 words; 160% of 2000-word soft target). Created 2026-04-29 via expand-topic, refined the same day to address pessimistic-review issues, but length was not aggressively reduced. Preserve the load-bearing four-tradition convergence (Lewis, Schiffer, Chwe, Hakli) and the three-kinds-taxonomy placement; condense by removing redundant exposition between the historical-survey and applications sections, and by deferring detailed sub-arguments (e.g., expanded social-epistemology citations, secondary AI-coordination examples) to linked articles. Target ~2500 words to leave headroom under hard threshold. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review voids/meaning-void.md considering mattering-void insights
 - **Type**: cross-review
 - **Notes**: New article voids/mattering-void.md (created 2026-04-29) lists [[meaning-void]] in its `related_articles` and the lede explicitly distinguishes the mattering void from neighbouring voids including meaning. Mattering's claim — that the felt weight of significance is itself the invisible medium through which any meaning-distinction is made — sits one structural layer below the aboutness/semantic-gap partition that meaning-void carries. Cross-review should (a) install reciprocal wikilinks from meaning-void to mattering-void at the points where significance-as-condition is treated (likely in the Tenet alignment / Site Perspective sections); (b) check whether meaning-void's distinction between aboutness-gap and semantic-gap can be sharpened by acknowledging that *mattering* is the prior layer on which both gaps presuppose a subject for whom anything matters at all; (c) verify terminology consistency (mattering vs significance vs salience); (d) preserve meaning-void's current voice and length (the article is already a recent coalesce result and a P3 condense candidate — keep edits light-touch, ~150-300 words touched). Tenet alignment: Dualism, Occam's Razor Has Limits.
@@ -3051,6 +3045,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Condense voids/common-knowledge-void.md (3190 words, 160% of voids soft target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word voids hard threshold (currently 3190 words; 160% of 2000-word soft target). Created 2026-04-29 via expand-topic, refined the same day to address pessimistic-review issues, but length was not aggressively reduced. Preserve the load-bearing four-tradition convergence (Lewis, Schiffer, Chwe, Hakli) and the three-kinds-taxonomy placement; condense by removing redundant exposition between the historical-survey and applications sections, and by deferring detailed sub-arguments (e.g., expanded social-epistemology citations, secondary AI-coordination examples) to linked articles. Target ~2500 words to leave headroom under hard threshold. See `/condense` skill.
+- **Output**: obsidian/voids/common-knowledge-void.md
 
 ### ✓ 2026-04-29: Write voids article on the Relevance Void
 - **Type**: expand-topic
