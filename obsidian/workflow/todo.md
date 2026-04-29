@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/three-kinds-of-void.md considering numerosity-void.md insights
-- **Type**: cross-review
-- **Notes**: New article `voids/numerosity-void.md` (created 2026-04-29 ~13:09 UTC) lists `[[three-kinds-of-void]]` in `related_articles` and the article's three opacity faces (perception-as-cap, Weber-bounded approximation, two-system architecture) appear to map to multiple of the three-kinds-of-void categories rather than fitting cleanly within one. `voids/three-kinds-of-void.md` does not yet reference numerosity-void. Cross-review should (a) decide which of the three kinds (constitutive / architectural / methodological — verify the actual categories in the article) numerosity-void instantiates, or whether it is one of the rarer cross-category cases that exemplifies the three-kinds framework's structural distinction, (b) add a reciprocal cross-link from three-kinds-of-void to numerosity-void as a worked example, (c) check whether numerosity-void's own use of the three-kinds framework (if any) is consistent with the canonical exposition in three-kinds-of-void, (d) verify that the numerosity case does not require a new fourth kind or a refinement of the existing three (the dual-system architecture is unusual — confirm it fits within an existing kind), (e) ensure terminology is aligned. Short scope (~150-250 words touched). Tenet alignment: Occam's Razor Has Limits — keeping the three-kinds taxonomy honest as new voids enter requires checking each new entry against the framework rather than letting categorisation drift implicit.
-- **Source**: chain (from voids/numerosity-void.md)
-- **Generated**: 2026-04-29
-
 ### P3: Write apex synthesis on the three methodology disciplines
 - **Type**: apex-evolve
 - **Status**: pending
@@ -3097,6 +3091,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review voids/three-kinds-of-void.md considering numerosity-void.md insights
+- **Type**: cross-review
+- **Notes**: New article `voids/numerosity-void.md` (created 2026-04-29 ~13:09 UTC) lists `[[three-kinds-of-void]]` in `related_articles` and the article's three opacity faces (perception-as-cap, Weber-bounded approximation, two-system architecture) appear to map to multiple of the three-kinds-of-void categories rather than fitting cleanly within one. `voids/three-kinds-of-void.md` does not yet reference numerosity-void. Cross-review should (a) decide which of the three kinds (constitutive / architectural / methodological — verify the actual categories in the article) numerosity-void instantiates, or whether it is one of the rarer cross-category cases that exemplifies the three-kinds framework's structural distinction, (b) add a reciprocal cross-link from three-kinds-of-void to numerosity-void as a worked example, (c) check whether numerosity-void's own use of the three-kinds framework (if any) is consistent with the canonical exposition in three-kinds-of-void, (d) verify that the numerosity case does not require a new fourth kind or a refinement of the existing three (the dual-system architecture is unusual — confirm it fits within an existing kind), (e) ensure terminology is aligned. Short scope (~150-250 words touched). Tenet alignment: Occam's Razor Has Limits — keeping the three-kinds taxonomy honest as new voids enter requires checking each new entry against the framework rather than letting categorisation drift implicit.
+- **Output**: obsidian/voids/three-kinds-of-void.md -- Context: Cross-review voids/three-kinds-of-void.md considering numerosity-void.md insights
 
 ### ✓ 2026-04-29: Cross-review voids/quantitative-intuition-void.md considering numerosity-void.md insights
 - **Type**: cross-review
