@@ -1,6 +1,10 @@
-last_updated: '2026-04-29T07:49:01.264451+00:00'
-session_count: 6591
-cycle_position: 6219
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-29T08:04:01.264934+00:00'
+session_count: 6592
+cycle_position: 6220
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-29T02:34:01.253717+00:00'
@@ -13,9 +17,9 @@ last_runs:
   coalesce: '2026-04-29T06:34:01.262000+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-28T12:45:14.697441+00:00'
-  agentic-social: '2026-04-29T08:06:50.701695+00:00'
-last_git_push: '2026-04-29T08:05:59.718279+00:00'
-last_tweet_date: '2026-04-28'
+  agentic-social: '2026-04-29T08:04:01.264934+00:00'
+last_git_push: '2026-04-29T04:34:01.257472+00:00'
+last_tweet_date: '2026-04-29'
 content_stats:
   total_files: 297
   published_files: 192
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: expand-topic (Write voids article on the Mattering Void)
-  type: expand-topic
-  date: '2026-04-29'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-29'
@@ -130,10 +130,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-29'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/jourdain-hypothesis/
-    date: '2026-04-29T08:06:50.701675+00:00'
-    topics:
-    - animal-consciousness
-    - ai-consciousness
+- task: 'deep-review (None -- Context: Cross-review medium-status-voids-)'
+  type: deep-review
+  date: '2026-04-29'
+  outcome: success

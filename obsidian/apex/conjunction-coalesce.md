@@ -2,10 +2,10 @@
 title: "The Conjunction-Coalesce"
 description: "When two voids are conjoined at a structural level, merging them into one article should keep the seam visible—because the seam itself is the claim. A methodological discipline distinct from standard coalesce."
 created: 2026-04-27
-modified: 2026-04-27
+modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-27T23:28:00+00:00
-last_deep_review: 2026-04-27T21:14:00+00:00
+ai_modified: 2026-04-29T08:19:00+00:00
+last_deep_review: 2026-04-29T08:19:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -22,6 +22,7 @@ related_articles:
   - "[[thrownness-void]]"
   - "[[apophatic-cartography]]"
   - "[[compound-failure-signatures]]"
+  - "[[coalesce-condense-apex-stability]]"
   - "[[tenets]]"
 
 ai_contribution: 100
@@ -106,6 +107,8 @@ The conjunction-coalesce depends on reviewer recognition to persist. Merged arti
 This dependence carries a category of cost worth naming. A discipline whose articles can only survive when readers know to protect them is constituted partly by editorial culture rather than wholly by features in the territory. Wittgenstein's rule-following considerations apply here: the rule and the practice that interprets the rule are not separable. The conjunction-coalesce is therefore best understood as editorial-cultural infrastructure that *protects* a structural reading the editor judges to be present in the territory—not as a self-supporting territorial fact whose visibility is independent of the practice. Treating fragility as a *feature* would naturalise this; treating it as a *symptom of editorial-cultural status* keeps the discipline's epistemic warrant honest. The practice can still be useful in the lighter sense even if its persistence depends on its own labelling.
 
 The 2026-04-27 pessimistic-review-to-refine-draft loop on the agency void is partial evidence the discipline can be maintained when the reviewer recognises it. The pessimistic review identified a *verification equivocation* (first-person versus third-person) as a missing distinction. The refine-draft installed the distinction without collapsing the void's conjunction—it sharpened the verification face while preserving the visible separation between verification and involuntariness. This is the desired pattern: pessimistic review identifies *internal* failures within a face; refine-draft addresses them in face-local terms; the conjunction at the article level remains intact.
+
+The procedural side of these pressures—when a coalesce triggers a condense, when it triggers an apex re-cross-review, and what counts as the apex declaring stability—is documented separately in [[coalesce-condense-apex-stability|the coalesce–condense–apex-stability triple-discipline]]. Within that framework the conjunction-coalesce sits as the seam-preserving input variant: its merged articles must survive both length-driven condensation and apex re-cross-review without losing the seam. The triple-discipline supplies the procedural infrastructure; the seam test supplies the semantic criterion that decides which mergers should be protected by it.
 
 Reviewers can be cued to the discipline by the structural signals it leaves behind. The merged article's opening paragraph names the two faces explicitly. A section titled along the lines of "Two Limits, One Void" articulates the joint claim. Subsequent sections work each face in turn rather than blending the two into running prose. References to the original face-named voids appear in the `coalesced_from` frontmatter field. These signals constitute the discipline's machine-readable trace—and they are also what an automated process can read to know which articles are protected by it.
 
