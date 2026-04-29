@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md considering 2026-04-29 cognitive-phenomenology concept-page refresh
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 2026-04-29 00:13 UTC refine of `concepts/cognitive-phenomenology.md` (commit 5114b39c3) which added a cross-link to `[[phenomenology-vs-function-axis]]` in §"Evidence from Unusual Cases", added the axis to frontmatter concepts, and tightened the "Mathematical Understanding Case" framing. The topic article `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md` is the strongest downstream consumer of the concept page (cites `[[cognitive-phenomenology]]` four times across body and references) and also references `[[phenomenology-vs-function-axis]]` independently (line 32, 127). Cross-review should (a) verify the topic article's framing of cognitive-phenomenology still aligns with the concept page after the refresh — particularly the "phenomenal contrast arguments, dissociation evidence, and contemplative testimony" formulation cited at line 47, which mirrors the concept page's structure; (b) check whether the topic's treatment of the foreign-language argument and aphantasic-thought wedge can now be tightened by referencing the concept page's refreshed §"Evidence from Unusual Cases"; (c) verify that the topic article and the concept page are not duplicating exposition the concept page now hosts more centrally — defer detailed cases to the concept page where possible; (d) ensure terminology alignment ("function-phenomenology dissociation" vs "phenomenology-vs-function axis" — both refer to the same structure per the concept-page's opening); (e) preserve the topic article's existing voice and tenet alignment (Dualism). Light-touch edit (~150-300 words touched). Tenet alignment: Dualism (the topic article anchors the cognitive-phenomenology arguments specifically against materialism).
-- **Source**: chain
-- **Generated**: 2026-04-29
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3028,6 +3021,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md considering 2026-04-29 cognitive-phenomenology concept-page refresh
+- **Type**: cross-review
+- **Notes**: Chain from today's 2026-04-29 00:13 UTC refine of `concepts/cognitive-phenomenology.md` (commit 5114b39c3) which added a cross-link to `[[phenomenology-vs-function-axis]]` in §"Evidence from Unusual Cases", added the axis to frontmatter concepts, and tightened the "Mathematical Understanding Case" framing. The topic article `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md` is the strongest downstream consumer of the concept page (cites `[[cognitive-phenomenology]]` four times across body and references) and also references `[[phenomenology-vs-function-axis]]` independently (line 32, 127). Cross-review should (a) verify the topic article's framing of cognitive-phenomenology still aligns with the concept page after the refresh — particularly the "phenomenal contrast arguments, dissociation evidence, and contemplative testimony" formulation cited at line 47, which mirrors the concept page's structure; (b) check whether the topic's treatment of the foreign-language argument and aphantasic-thought wedge can now be tightened by referencing the concept page's refreshed §"Evidence from Unusual Cases"; (c) verify that the topic article and the concept page are not duplicating exposition the concept page now hosts more centrally — defer detailed cases to the concept page where possible; (d) ensure terminology alignment ("function-phenomenology dissociation" vs "phenomenology-vs-function axis" — both refer to the same structure per the concept-page's opening); (e) preserve the topic article's existing voice and tenet alignment (Dualism). Light-touch edit (~150-300 words touched). Tenet alignment: Dualism (the topic article anchors the cognitive-phenomenology arguments specifically against materialism).
+- **Output**: obsidian/topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md -- Context: Cross-review topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md considering 2026-04-29 cognitive-phenomenology concept-page refresh
 
 ### ✓ 2026-04-29: Cross-review apex/taxonomy-of-voids.md considering 2026-04-28 coalesced voids/meta-epistemology-of-limits.md
 - **Type**: cross-review

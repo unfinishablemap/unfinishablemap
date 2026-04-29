@@ -4,8 +4,8 @@ description: "If thinking itself has phenomenal character beyond sensory accompa
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-28T21:00:00+00:00
-last_deep_review: 2026-04-28T21:00:00+00:00
+ai_modified: 2026-04-29T01:20:00+00:00
+last_deep_review: 2026-04-29T01:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,7 +96,7 @@ If consciousness pervades cognition in this way, then the materialist cannot tre
 
 The conservative position — that all apparent cognitive phenomenology reduces to sensory accompaniments — faces several burdens.
 
-People with aphantasia (no visual imagery) still understand, reason, and have insights. Lennon (2023) develops this point formally: aphantasics have phenomenally conscious thoughts with "no sensory reduction base," which "falsifies the sensory constraint on conscious thought" and supports a non-sensory cognitive phenomenology. The post-2015 aphantasia literature has added empirical depth — Zeman (2024) traces the spectrum from extreme aphantasia (~1% of the population) to extreme hyperphantasia (~3%), correlated with frontoparietal-to-visual network connectivity rather than with reasoning capacity. Some aphantasics report "thinking in concepts" with no accompanying inner speech. If cognitive phenomenology is entirely sensory, these cases should involve no phenomenology of understanding at all. Yet aphantasics report rich intellectual lives, and the [[imagery-void|imagery-void]] documents how the function/phenomenology dissociation goes deeper still: Kay, Keogh, and Pearson (2024) found aphantasics complete classical mental rotation tasks "slower but more accurately" than controls, using analytic strategies rather than imagery — phenomenology and cognitive function come apart on a task previously taken to be paradigmatically imagistic.
+People with aphantasia (no visual imagery) still understand, reason, and have insights. Lennon (2023) develops this point formally: aphantasics have phenomenally conscious thoughts with "no sensory reduction base," which "falsifies the sensory constraint on conscious thought" and supports a non-sensory cognitive phenomenology. The post-2015 aphantasia literature has added empirical depth — Zeman (2024) traces the spectrum from extreme aphantasia (~1% of the population) to extreme hyperphantasia (~3%), correlated with frontoparietal-to-visual network connectivity rather than with reasoning capacity. Some aphantasics report "thinking in concepts" with no accompanying inner speech. If cognitive phenomenology is entirely sensory, these cases should involve no phenomenology of understanding at all. Yet aphantasics report rich intellectual lives, and the [[imagery-void|imagery-void]] documents how the function/phenomenology dissociation goes deeper still: Kay, Keogh, and Pearson (2024) found aphantasics complete classical mental rotation tasks "slower but more accurately" than controls, using analytic strategies rather than imagery — phenomenology and cognitive function come apart on a task previously taken to be paradigmatically imagistic. The [[phenomenology-vs-function-axis|function-phenomenology axis]] situates Strawson's foreign-language case alongside the imagery cases, synaesthesia (extra qualia), and Wegner's I-Spy paradigm in agency: cognitive phenomenology is the comprehension-domain exemplar of a cross-domain pattern, and while functionalists can absorb each case singly via multi-realisation, the joint package constrains absorption in aggregate.
 
 Tip-of-the-tongue states reveal meaning without sensory form. You know the word — you can identify its first letter, semantic neighbours, syllable count — but the phonological form is absent. The meaning is phenomenally present without its sensory vehicle. If cognitive phenomenology is sensory, what is the subject experiencing?
 
