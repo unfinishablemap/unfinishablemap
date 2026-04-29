@@ -4,8 +4,8 @@ description: "How thoughts achieve aboutness, and what understanding feels like 
 created: 2026-02-05
 modified: 2026-04-26
 human_modified: null
-ai_modified: 2026-04-26T18:27:00+00:00
-last_deep_review: 2026-04-26T18:27:00+00:00
+ai_modified: 2026-04-29T04:20:00+00:00
+last_deep_review: 2026-04-29T04:20:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,6 +25,7 @@ related_articles:
   - "[[self-opacity]]"
   - "[[imagination-and-creativity-void]]"
   - "[[intrinsic-nature-void]]"
+  - "[[mattering-void]]"
   - "[[three-kinds-of-void]]"
   - "[[what-voids-reveal]]"
   - "[[compound-failure-signatures]]"
@@ -159,6 +160,7 @@ The meaning void also exemplifies the [[void-as-ground-of-meaning|constitutive t
 - [[self-opacity]] — The observer that cannot observe itself observing
 - [[imagination-and-creativity-void]] — Where insight originates, equally opaque to introspection
 - [[intrinsic-nature-void]] — Physics describes structure without intrinsic character; meaning's analogue
+- [[mattering-void]] — Why anything shows up as significant; meaning's inaccessibility itself shows up as mattering
 - [[language-thought-boundary]] — Where the sayable diverges from the thinkable
 - [[three-kinds-of-void]] — Unexplored, unexplorable, occluded
 - [[compound-failure-signatures]] — Using the structure of failure as data
