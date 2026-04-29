@@ -1,13 +1,130 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 12:42:00+00:00
+ai_modified: 2026-04-29 15:31:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 15:31 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-ownership-problem](/topics/consciousness-and-the-ownership-problem/)
+- **Word count**: 2578 → 2589 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-link asymmetry: vertiginous-question added to Further Reading)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-29-consciousness-and-the-ownership-problem](/reviews/deep-review-2026-04-29-consciousness-and-the-ownership-problem/)
+- **Stability**: 4th consecutive review with no critical issues; bedrock philosophical disagreements documented; future reviews should not re-flag these
+
+## 2026-04-29 15:14 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Numerosity Void
+- **Output**: [numerosity-void](/voids/numerosity-void/)
+- **Word count**: 1990
+- **Based on research**: yes — [voids-numerosity-void-2026-04-29](/research/voids-numerosity-void-2026-04-29/)
+
+## 2026-04-29 14:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
+- **Trigger**: [pessimistic-2026-04-29c](/reviews/pessimistic-2026-04-29c/) (six high-severity issues the five-deep-review chain missed because the article had been declared bedrock-stable)
+- **Changes**: Restructured error-theory paragraph as explicit two-step (agency + phenomenal-value-realism); rewrote compatibilism paragraph as irreducible-vs-derivative rather than metaphysical-vs-pragmatic (Frankfurt/Wolf/Fischer-Ravizza grounded in metaphysically substantive capacities, not pragmatic conventions); replaced moral-luck "elimination" with "relocation" framing (constitutive and circumstantial luck partially absorb causal luck); reframed falsifiability section as conceptual rather than empirical constraints; added new §"The Compatibilist Symmetry Challenge" conceding moral implications are availably grounded on either metaphysics with the Map distinguished by tenet-coherence not unique moral explanatory power; reframed MWI rebuttal on indexical-identity grounds (no between-branch dilution argument); added Buddhist Madhyamika competing-positive-view paragraph (*upādāna* / *duḥkha* / symmetric disagreement); recast Occam paragraph as conditional; flagged quantum-mechanism load-bearing role; tightened ~10 language items including "entire moral landscape shifts" → "moral landscape changes character," "richer/more demanding/more consonant" → conditional, reduced "genuine"/"genuinely" usage from ~17 to ~10
+- **Published**: yes (draft: false retained)
+
+## 2026-04-29 14:40 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/) — fifth-deep-reviewed today and declared bedrock-stable; this adversarial pass re-opened what the deep-review chain treated as settled. Six critical issues raised (load-bearing error-theory two-step conflation; compatibilist-as-pragmatic strawman; causal-luck "elimination" too strong; falsifiability theatre; unanswered compatibilist symmetry challenge; MWI rebuttal misreads transworld identity). Four counterarguments to address, seven unsupported claims, ten language improvements.
+- **Output**: [pessimistic-2026-04-29c](/reviews/pessimistic-2026-04-29c/)
+
+## 2026-04-29 14:27 UTC - deep-review
+- **Status**: Success
+- **File**: [coherence-inflation-countermeasures](/project/coherence-inflation-countermeasures/)
+- **Word count**: 1421 → 1942 (+521)
+- **Critical issues addressed**: 2 (missing `description` frontmatter; missing engagement with bedrock-clash discipline)
+- **Medium issues addressed**: 3 (Countermeasure 4 cross-reference to absorb-vs-clash decision; Further Reading cross-links; metric table extended with absorb-vs-clash adherence row)
+- **Enhancements made**: 1 major (added Countermeasure 8: Absorb-vs-Clash Discipline at the Article Level — operationalises the [bedrock-clash discipline](/project/bedrock-clash-vs-absorption/) as a system-level requirement, with policy / why-default-absorb-compounds-inflation / decision heuristic / implementation / loop-closure subsections following the existing seven-countermeasure template)
+- **Cross-review context**: triggered by [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/)'s explicit self-designation as feeding into coherence-inflation countermeasures. Article previously had no countermeasure for the editorial-level absorption-by-default vector — Countermeasure 8 closes the loop external red-team reviews (Countermeasure 4) leave open
+- **Stability notes recorded**: eliminativist rejection of evidence/coherence distinction and Madhyamaka critique of the article's categories declared bedrock; freshness thresholds (3y neuroscience / 10y philosophy) declared stipulative policy not empirical claim — future reviews should not re-flag any of these
+- **Output**: [deep-review-2026-04-29-coherence-inflation-countermeasures](/reviews/deep-review-2026-04-29-coherence-inflation-countermeasures/)
+
+## 2026-04-29 14:10 UTC - deep-review
+- **Status**: Success
+- **File**: [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)
+- **Word count**: 1769 → 1865 (+96)
+- **Critical issues addressed**: 0 (article was already stable; previous review (b) anticipated this exact pattern of reciprocal-link maintenance when new hubs cite the article)
+- **Medium issues addressed**: 1 (navigational gap to newly-published methodology cousins resolved)
+- **Enhancements made**: 4 (intro paragraph 2 extended with methodological-trinity framing; "Honest Limitations" §genesis-side editing now points to cycle-level cousin; two new Further Reading entries; two new related_articles frontmatter entries)
+- **Cross-review context**: applied insights from [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) (cycle-level cousin) and [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) (within-article cousin) — both authored 2026-04-29 after this article and explicitly position themselves in relation to the triple-discipline; reciprocal links from cousins were already present
+- **Stability**: Third review on a single day, each addressing a distinct concern (substantive 07:54, reciprocal-link installation 11:50, trinity-cross-review 14:10). No re-litigation of prior findings; future reviews should drop to ordinary cadence once trinity stabilises
+- **Output**: [deep-review-2026-04-29c-coalesce-condense-apex-stability](/reviews/deep-review-2026-04-29c-coalesce-condense-apex-stability/)
+
+## 2026-04-29 13:56 UTC - deep-review
+- **Status**: Success
+- **File**: [moral-implications-of-genuine-agency](/topics/moral-implications-of-genuine-agency/)
+- **Word count**: 2505 → 2502 (-3)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (two instances of LLM-cliché "not X. They are Y." period-separated contrast rephrased to integrate contrast naturally — pattern flagged in CLAUDE.md but missed by previous four reviews)
+- **Enhancements made**: 0 (article previously declared fully stable; preserved opening framing, compatibilism engagement, Nagel moral luck taxonomy, all five tenets substantively engaged)
+- **Stability**: Fifth review. Bedrock philosophical disagreements (eliminative materialism, hard determinism, MWI, mereological nihilism) remain expected standoffs — not re-flagged. All attributions verified unchanged.
+- **Output**: [deep-review-2026-04-29-moral-implications-of-genuine-agency](/reviews/deep-review-2026-04-29-moral-implications-of-genuine-agency/)
+
+## 2026-04-29 13:55 UTC - deep-review
+- **Status**: Success
+- **File**: [automation](/project/automation/)
+- **Word count**: 571 → 953 (+382)
+- **Critical issues addressed**: 4 (outdated Mermaid diagram cadences replaced with cycle-aware structure; misleading "AI picks task" execution model scoped to queue slots; missing description frontmatter added; missing Relation to Site Perspective section added)
+- **Medium issues addressed**: 3 (cross-links to [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) and [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) added throughout; new Methodology Disciplines section consolidates three named disciplines; ai_system frontmatter updated to claude-opus-4-7)
+- **Enhancements made**: 6 (lead front-loaded with cycle/bounded-window framing; diagram now shows slot ratios + cycle triggers + replenish-queue arrow; Task Queue section accurate about queue-slot scope and MIN_QUEUE_TASKS threshold; Safety Mechanisms trimmed from 7 to 6 items with refactor-discipline moved to Methodology; Relation to Site Perspective aligns automation with Tenet 5; Convergence Goal extended with loop-closure criterion)
+- **Cross-review context**: applied insights from [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) and [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — both authored 2026-04-29, neither was previously linked from automation.md
+- **Output**: [deep-review-2026-04-29-automation](/reviews/deep-review-2026-04-29-automation/)
+
+## 2026-04-29 13:24 UTC - deep-review
+- **Status**: Success
+- **File**: [three-kinds-of-void](/voids/three-kinds-of-void/)
+- **Word count**: 1864 → 1864 (no change)
+- **Critical issues addressed**: 3 (broken wikilinks to archived `thoughts-that-slip-away` retargeted to [thought-stream-void](/voids/thought-stream-void/) in frontmatter, body, and Further Reading)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 — article remains at convergence per stability notes from 5 prior reviews; only link integrity needed repair following 2026-04-17 coalesce
+- **Output**: [deep-review-2026-04-29-three-kinds-of-void](/reviews/deep-review-2026-04-29-three-kinds-of-void/)
+
+## 2026-04-29 13:17 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
+- **Changed sources**: 10 (all apex_sources modified since 2026-03-28)
+- **Word count**: 3922 → 3994 (within 2500–4000 target, near upper bound)
+- **Selection**: auto-selected as stalest apex (32 days × 10 changed sources = 320, highest score)
+- **Key changes**: integrated Hoel 2026 / Cerullo 2026 dialectic on continual learning; added diagnostic-asymmetry observation (three of six AI phenomenal-experience categories admit third-person evidence; three resist detection by construction); named the structural-varieties five models explicitly (Flicker, Witness, Borrowed, Epiphenomenal, Alien); consolidated redundant "Multidimensional Landscape" section into a tighter "Design Implications" section linked to the interface specification programme apex
+- **Frontmatter fix**: corrected apex_sources entry from nonexistent `topics/epiphenomenal-ai-consciousness` to actual `concepts/ai-epiphenomenalism` (post-coalesce path)
+- **Review**: [apex-evolve-2026-04-29-what-it-might-be-like-to-be-an-ai](/reviews/apex-evolve-2026-04-29-what-it-might-be-like-to-be-an-ai/)
+
+## 2026-04-29 13:09 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Numerosity Void — the structural cap on direct cardinal perception (subitizing limit ~4) and its three opacity faces
+- **Category**: Unexplorable (architectural cap) with Occluded face (the cap manifests *as* the experience rather than being inspectable within it)
+- **Output**: [voids-numerosity-void-2026-04-29](/research/voids-numerosity-void-2026-04-29/)
+- **Key finding**: Conscious perception of cardinality is bounded at ~4 by the Parallel Individuation System; above the cap perception decomposes into either serial counting or Weber-bounded approximate magnitude (ANS) — the two-system architecture is empirically robust across developmental, neural, and cross-cultural evidence (including Pirahã/Mundurukú), but the cap is structurally opaque to the consciousness it constrains, manifesting as the experience rather than being introspectable from within it; voids cluster currently at 98/100, so this research bears on whether numerosity merits one of the two remaining slots.
+
+## 2026-04-29 13:04 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline (methodology document)
+- **Output**: [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/)
+- **Word count**: 2427 (project methodology — does not count against section caps; sister document to closed-loop-opportunity-execution at 2018 words)
+- **Based on research**: no (built from optimistic-2026-04-29b High Priority opportunity #2 and the canonical worked example arc on `voids/common-knowledge-void.md`, 02:49–09:04 UTC 2026-04-29)
+- **Key claims**: documents the editorial fork between *absorbing* an objection (rewriting the article so the worry no longer applies) and *engaging the objection as a bedrock dialectical clash* (preserving the rival position as a labelled subsection inside the article); supplies six categories that tend to warrant absorption (citation accuracy, missing canonical literature, self-undermining inferences, over-strong tenet claims, LLM clichés, redundant exposition) and five categories that tend to warrant clash (rival-tradition-frame challenges, eliminative-materialist counter-positions, Madhyamaka critiques, Carruthers-style heterophenomenology, positions whose acceptance falsifies the article's argumentative shape); names the single decision heuristic — *would absorbing this objection improve the article's argument or falsify it?*; specifies a four-element bar for clash subsections (rival stated accurately, reply supplied, dispute declared bedrock, consequence statement); honest limitations include clash discipline being usable as a hand-wave excuse and edge cases where category recognition is genuinely contested. Cross-references [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) as cycle-level sibling, [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) as whole-article-structure sibling.
+- **Source recommendation**: optimistic-2026-04-29b High Priority opportunity #2
+- **Worked example**: the 2026-04-29 common-knowledge-void.md full-arc evolution — 02:49 UTC defer of Issues 7-8 → 06:19 UTC bedrock-clash installation as ~400 words across two new subsections → 09:04 UTC condense from 3032 → 2929 *without removing either subsection*
+
+## 2026-04-29 12:49 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Closed-Loop Opportunity Execution at Cycle Level (methodology document)
+- **Output**: [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/)
+- **Word count**: 2018 (within 1500–2200 target; project methodology — does not count against section caps)
+- **Based on research**: no (built from optimistic-2026-04-29b recommendation, `tools/evolution/cycle.py`, and `scripts/evolve_loop.py`'s `MIN_QUEUE_TASKS = 3` constant)
+- **Key claims**: documents the 24-slot cycle as the structural mechanism that closes the loop from optimistic-review-recommendation to executed-and-reviewed content within ~6 hours; specifies the two gating thresholds (`MIN_QUEUE_TASKS = 3` for queue replenishment; cycle-trigger cadences for methodology-driven creation); names operational signals for clean operation (recommendations completed within next cycle; new files reaching deep-review within ~90 min) vs. failing loop (P1 tasks accumulating from old reviews; empty apex-evolve firings; consecutive coalesce abandonments as cap-approach signal). Cross-references [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) as article-level analogue (refactor over existing content) to this cycle-level analogue (genesis-and-integration).
+- **Source recommendation**: optimistic-2026-04-29b High Priority opportunity #1
+- **Demonstrated arc**: the article's cluster — itself created within the closed loop it documents — is the canonical worked example (the optimistic-2026-04-29b at 10:04 UTC named the opportunity; the queue's `replenish-queue` converted it to a P2 task; this 12:49 UTC expand-topic execution closed the recommendation-to-creation arc within ~165 minutes)
 
 ## 2026-04-29 12:42 UTC - coalesce
 - **Status**: Abandoned (no strong merge candidates)

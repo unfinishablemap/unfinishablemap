@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-04-29 15:31:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ description: Why does experience belong to anyone? The ownership problem asks wh
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-24 09:36:00+00:00
+last_deep_review: 2026-04-29 15:31:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -140,6 +140,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [binding-problem](/concepts/binding-problem/) — Unity of experience as distinct from ownership of experience
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The prior question ownership presupposes
 - [indexical-identity-quantum-measurement](/topics/indexical-identity-quantum-measurement/) — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
+- [vertiginous-question](/topics/vertiginous-question/) — Why am I this person rather than another? Benj Hellie's question, closely paired with the ownership problem
 - [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/) — What makes a subject a discrete subject at all (prior to ownership)
 - [The Ownership Void](/voids/ownership-void/) — Why the ownership mechanism hides from introspection
 - [witness-consciousness](/concepts/witness-consciousness/) — Ownership stripped of narrative content

@@ -4,7 +4,7 @@ description: "Why does experience belong to anyone? The ownership problem asks w
 created: 2026-02-09
 modified: 2026-02-09
 human_modified:
-ai_modified: 2026-04-23T20:16:25+00:00
+ai_modified: 2026-04-29T15:31:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-09
 last_curated:
-last_deep_review: 2026-03-24T09:36:00+00:00
+last_deep_review: 2026-04-29T15:31:00+00:00
 ---
 
 Why does experience belong to anyone? Every conscious state is someone's conscious state—my pain is *mine*, your perception of blue is *yours*. This seems so obvious it barely warrants mention. Yet the ownership of experience is one of the deepest puzzles in philosophy of mind, because no physical description of a brain state includes the fact that the state is *had by* a particular subject. The ownership problem asks: what makes conscious states belong to someone rather than existing as free-floating experiential events?
@@ -137,6 +137,7 @@ The ownership problem supports and is illuminated by the Map's foundational comm
 - [[binding-problem]] — Unity of experience as distinct from ownership of experience
 - [[hard-problem-of-consciousness]] — The prior question ownership presupposes
 - [[indexical-identity-quantum-measurement]] — The indexical gap at quantum measurement: why *this* consciousness experiences *this* outcome
+- [[vertiginous-question]] — Why am I this person rather than another? Benj Hellie's question, closely paired with the ownership problem
 - [[consciousness-and-the-metaphysics-of-individuation]] — What makes a subject a discrete subject at all (prior to ownership)
 - [[ownership-void|The Ownership Void]] — Why the ownership mechanism hides from introspection
 - [[witness-consciousness]] — Ownership stripped of narrative content

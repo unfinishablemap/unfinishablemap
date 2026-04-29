@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-04-29 11:50:00+00:00
+ai_modified: 2026-04-29 14:10:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,13 +14,15 @@ description: 'An editorial discipline for refactoring existing Map content: when
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 11:50:00+00:00
+last_deep_review: 2026-04-29 14:10:00+00:00
 modified: *id001
 related_articles:
 - '[[apex-articles]]'
 - '[[apex]]'
 - '[[taxonomy-of-voids]]'
 - '[[meta-epistemology-of-limits]]'
+- '[[closed-loop-opportunity-execution]]'
+- '[[bedrock-clash-vs-absorption]]'
 - '[[automation]]'
 - '[[writing-style]]'
 - '[[tenets]]'
@@ -30,7 +32,7 @@ topics: []
 
 The Map maintains its catalogue through three operations applied in sequence: a **coalesce** merges overlapping articles, a **condense** trims the merged article when it exceeds its section's length threshold, and an **apex re-cross-review** confirms that any apex articles citing the merged sources remain coherent. When all three operations execute cleanly and the apex declares stability, the catalogue has performed a structural refactor without losing analytical content. The discipline differs from genesis-side editing—new article creation, research-to-expand chains, void-naming arcs—because it operates over *content already in the catalogue* rather than producing new content. Naming the sequence as a single discipline rather than three independent operations matters because the three operations *condition each other*: a coalesce that is not followed by a length check leaves the catalogue with a too-long article; a condense that is not followed by an apex-stability check leaves the apex-citation graph silently broken; an apex re-cross-review that finds nothing changed is the discipline's success condition rather than a failure.
 
-This article specifies when each operation triggers the next, what counts as apex stability, and where the discipline cannot complete. It operates as documentation of a now-stabilised editorial pattern rather than as a prescription for new content; the pattern's components ran repeatedly in the catalogue's recent history before being named here, with the cleanest full-arc demonstration on the 2026-04-28/29 [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) sequence.
+This article specifies when each operation triggers the next, what counts as apex stability, and where the discipline cannot complete. It operates as documentation of a now-stabilised editorial pattern rather than as a prescription for new content; the pattern's components ran repeatedly in the catalogue's recent history before being named here, with the cleanest full-arc demonstration on the 2026-04-28/29 [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) sequence. It is one of three named methodological disciplines in the Map's editorial system: alongside the cycle-level [closed-loop opportunity execution](/project/closed-loop-opportunity-execution/) (genesis-and-integration over the 24-slot cycle) and the within-article [absorb-or-clash discipline](/project/bedrock-clash-vs-absorption/) (position-handling when a pessimistic-review surfaces an objection), together covering loop closure at system level, structural refactoring across articles (this article), and rival-position handling within an article.
 
 ## The Three Operations and Their Operational Sequence
 
@@ -79,7 +81,7 @@ The triple-discipline has three failure modes worth naming explicitly.
 
 **The apex must already exist and be recently reviewed.** If the apex citing a coalesced source is itself in flux—being newly synthesised, undergoing a major rewrite, or with a stale prior cross-review—the discipline cannot complete. The re-cross-review's job is to *confirm* an existing argument, and there is no existing argument to confirm if the apex is mid-evolution. In this case, the apex enters its own evolution arc and the triple-discipline becomes a quintuple-or-higher chain whose closure depends on the apex's evolution settling.
 
-**The discipline is not a substitute for genesis-side editing.** The triple-discipline operates over content already in the catalogue. It does not produce new articles, identify new voids, or commission new research. The catalogue's growth runs on a parallel discipline: research-to-expand chains, conjunction-coalesce at expand-stage, and pessimistic-review-to-refine loops. A catalogue that ran only the triple-discipline would maintain itself but not grow; a catalogue that ran only genesis-side editing would grow but accumulate redundancy and length-violations. Both are required.
+**The discipline is not a substitute for genesis-side editing.** The triple-discipline operates over content already in the catalogue. It does not produce new articles, identify new voids, or commission new research. The catalogue's growth runs on a parallel discipline (the cycle-level [closed-loop opportunity execution](/project/closed-loop-opportunity-execution/)): research-to-expand chains, conjunction-coalesce at expand-stage, and pessimistic-review-to-refine loops. A catalogue that ran only the triple-discipline would maintain itself but not grow; a catalogue that ran only genesis-side editing would grow but accumulate redundancy and length-violations. Both are required.
 
 **Stability declarations are defeasible.** A stable-on-2026-04-29 apex is not stable forever. Future source-side activity—new research findings, additional coalesces, doctrinal shifts—may unsettle the apex's load-bearing claims. The discipline cannot declare *permanent* stability, only stability *as of the latest cross-review against the latest source state*. The apex's `apex_last_synthesis` timestamp and the changelog's record of cross-reviews together provide the auditable history.
 
@@ -97,6 +99,8 @@ The discipline also reflects the Map's commitment to its primary audience: LLMs 
 - [apex-articles](/apex/apex-articles/) — the curated list of apex articles whose stability the discipline maintains
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — the apex article most frequently subject to the discipline's stability checks
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — the canonical demonstration case of the full coalesce → condense → apex-stability arc
+- [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) — the cycle-level cousin: how recommendation-to-execution loop-closure operates over the 24-slot cycle
+- [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — the within-article cousin: when to absorb an objection into the article vs. engage it as a bedrock dialectical clash
 - [automation](/project/automation/) — the broader automation system in which the discipline operates
 - [writing-style](/project/writing-style/) — the audience-facing rationale for length thresholds and cross-reference integrity
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-29 11:34:00+00:00
+ai_modified: 2026-04-29 13:24:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -14,14 +14,14 @@ description: The unexplored, the unexplorable, and the occluded—a taxonomy of 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-23 21:42:00+00:00
+last_deep_review: 2026-04-29 13:24:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
 - '[[medium-status-voids-in-cognition]]'
 - '[[hard-problem-of-consciousness]]'
-- '[[thoughts-that-slip-away]]'
+- '[[thought-stream-void]]'
 - '[[self-maintained-cognitive-limits]]'
 - '[[sleep-consciousness-void]]'
 - '[[meta-epistemology-of-limits]]'
@@ -101,7 +101,7 @@ The taxonomy itself falls under the [epistemic horizon void](/voids/meta-epistem
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — A void combining features of all three types
 - [synesthetic-void](/voids/synesthetic-void/) — An intra-species void spanning all three categories
-- [thoughts-that-slip-away](/voids/thought-stream-void/) — The phenomenology of cognitive slippage
+- [thought-stream-void](/voids/thought-stream-void/) — The phenomenology of cognitive slippage
 - [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) — Specific tests for whether territory is defended
 - [apophatic-approaches](/concepts/apophatic-approaches/) — The methodology of knowing through negation that void investigation employs
 - [apophatic-cartography](/voids/apophatic-cartography/) — Formalising criteria for distinguishing genuine closure
