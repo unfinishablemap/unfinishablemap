@@ -4,7 +4,7 @@ description: "Interactionist dualism may be simpler than physicalism once all ex
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-17T09:10:00+00:00
+ai_modified: 2026-04-29T22:41:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,12 +24,13 @@ related_articles:
   - "[[limits-of-parsimony-consciousness-2026-03-20]]"
   - "[[biological-computationalisms-inadvertent-case-for-dualism]]"
   - "[[falsification-roadmap-for-the-interface-model]]"
+  - "[[the-strong-emergence-of-consciousness]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-03-28T16:03:00+00:00
+last_deep_review: 2026-04-29T22:41:00+00:00
 ---
 
 The Unfinishable Map's existing articles on [[parsimony-epistemology]] and the [[parsimony-epistemology|limits of parsimony]] make the defensive case: Occam's Razor cannot adjudicate the mind-body problem because its preconditions fail. This article makes the stronger, positive claim. When all explanatory costs are tallied — not just substance count but theoretical proliferation, brute facts, and accommodation of the data — [[interactionist-dualism]] emerges as the more parsimonious position. Physicalism's apparent simplicity counts only ontological categories, leaving other explanatory costs off the ledger.
@@ -66,7 +67,7 @@ What makes the case suggestive rather than dispositive is the *structural* incom
 
 Every physicalist account must accept at least one of three explanatory debts:
 
-**Brute emergence.** Type-B physicalists accept the [[explanatory-gap]] as epistemic but deny it is metaphysical. Consciousness arises from physical processes, but there is no explanation of why those processes are accompanied by experience. Type-B physicalists frame this as a brute *identity* — pain just *is* C-fibre firing — rather than a law connecting distinct things. But the parsimony cost persists: the identity is unexplained and underivable, and the theory requires a fundamental correspondence between physical structure and phenomenal character that cannot be reduced to anything more basic. Whether called an identity or a law, this is a brute addition to the theory's foundations.
+**Brute emergence.** Type-B physicalists accept the [[explanatory-gap]] as epistemic but deny it is metaphysical. Consciousness [[the-strong-emergence-of-consciousness|strongly emerges]] from physical processes, but there is no explanation of why those processes are accompanied by experience — a concession of strong emergence without any mechanism for it. Type-B physicalists frame this as a brute *identity* — pain just *is* C-fibre firing — rather than a law connecting distinct things. But the parsimony cost persists: the identity is unexplained and underivable, and the theory requires a fundamental correspondence between physical structure and phenomenal character that cannot be reduced to anything more basic. Whether called an identity or a law, this is a brute addition to the theory's foundations.
 
 **Error theory.** Illusionists (Frankish, Dennett) deny that phenomenal consciousness exists as it seems. This eliminates the explanatory gap by eliminating the explanandum. But it introduces a different cost: an error theory explaining why every conscious being is systematically mistaken about the most immediate feature of their existence. The theory that experience is illusory must explain why the illusion is universal, stable, and resistant to correction — an explanatory burden at least as heavy as the one it replaces.
 
@@ -125,6 +126,8 @@ Chalmers draws an illuminating parallel. James Clerk Maxwell expanded physics by
 
 Consciousness may require the same move. Adding a non-physical category is an ontological cost. But it explains why there is something it is like to be conscious — something no physicalist theory has achieved. As Chalmers writes: "Just as Maxwell sacrificed a simple mechanistic worldview by postulating electromagnetic fields in order to explain certain natural phenomena, we need to sacrifice a simple physicalistic worldview in order to explain consciousness." If the explanatory gain is real, the ontological cost is justified. A theory that explains nothing about its target phenomenon cannot claim the virtue of simplicity.
 
+This is the [[the-strong-emergence-of-consciousness|strong emergence]] move articulated in detail elsewhere on the Map: consciousness possesses properties not deducible even in principle from physical facts, and quantum indeterminacy supplies the mechanism through which those properties act. The parsimony case and the strong-emergence case meet here. Type-B physicalism accepts irreducibility but supplies no mechanism, leaving the brute identity unexplained. Panpsychism preserves a mechanism by denying emergence — at the cost of relocating the explanatory gap into the [[combination-problem]]. The Map's emergentist interactionism couples genuine ontological novelty to a specific physical interface, so the ontological cost purchases both the irreducibility *and* the causal coherence the rival positions cannot supply together. That joint purchase is what the standard parsimony argument leaves uncounted.
+
 ## Relation to Site Perspective
 
 The Map's fifth tenet — [[tenets#^occams-limits|Occam's Razor Has Limits]] — has been developed primarily as a defensive commitment: parsimony cannot adjudicate the consciousness debate. This article extends the tenet into positive territory. The Map interprets the convergence of Zanotti's burden analysis, Hubbard's dimensional reversal, Koksvik's interactionist simplicity argument, and Chalmers' Maxwell analogy as establishing that interactionist dualism is not merely defensible against parsimony objections but may be the more parsimonious position once all costs are counted.
@@ -138,6 +141,7 @@ The Map speculates that the standard parsimony argument persists not because of 
 - [[parsimony-epistemology]] — When and why simplicity tracks truth, including hostile witnesses from the materialist camp
 - [[epistemological-limits-of-occams-razor]] — The full philosophical case
 - [[interactionist-dualism]] — The Map's core position
+- [[the-strong-emergence-of-consciousness]] — Why "brute emergence" debts amount to strong emergence without mechanism, which dualism supplies
 - [[arguments-against-materialism]] — The broader case
 - [[phenomenal-authority-and-first-person-evidence]] — Why first-person evidence justifies taking consciousness at face value
 - [[tenets#^occams-limits|Tenet: Occam's Razor Has Limits]]

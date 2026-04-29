@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/the-epiphenomenalist-threat.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md`, which added a forward cross-link to `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)` in the strong-emergence subsection (where the article notes that without a mechanism, strongly emergent properties risk becoming epiphenomenal) plus frontmatter and Further Reading entries. The receiving article currently has zero references to `the-strong-emergence-of-consciousness` (verified 22:10 UTC). Per the reciprocal-cross-link-with-substantive-content discipline, this is the link-only-from-one-side defect: forward-only citation without reciprocal substantive integration. Cross-review should (a) verify whether the-epiphenomenalist-threat's existing argumentation engages strong emergence as one of the routes a non-physicalist might take to avoid epiphenomenalism, and add a substantive paragraph (~80–150 words) referencing strong-emergence-of-consciousness as a sibling response; (b) add `[the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)` to related_articles frontmatter; (c) verify that the new paragraph correctly distinguishes strong-emergence's "consciousness as new fundamental property" from the article's own preferred dualist response — the two routes are different, not interchangeable; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short scope (~100–200 words touched). Tenet alignment: Dualism + Bidirectional Interaction.
-- **Source**: chain (from 2026-04-29 21:32 UTC deep-review of the-strong-emergence-of-consciousness)
-- **Generated**: 2026-04-29
-
-### P2: Cross-review topics/causal-closure-debate-historical-survey.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md`, which added a forward cross-link to `[causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)` in the Kim's Challenge section, supporting the targeted denial of causal closure. The receiving article currently has zero references to `the-strong-emergence-of-consciousness` (verified 22:10 UTC). Per the reciprocal-cross-link-with-substantive-content discipline, this is the link-only-from-one-side defect. Cross-review should (a) identify a natural integration point in the historical-survey article — likely where the survey discusses the modern (post-1925 Broad) revival of strong emergence as a route to denying universal causal closure; (b) add a substantive paragraph (~100–180 words) noting strong-emergence-of-consciousness as the Map's targeted-denial response and clarifying how this differs from the survey's other catalogued positions; (c) add `[the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)` to related_articles frontmatter; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~120–200 words touched). Tenet alignment: Bidirectional Interaction (the targeted denial of causal closure is the structural move).
-- **Source**: chain (from 2026-04-29 21:32 UTC deep-review of the-strong-emergence-of-consciousness)
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review topics/parsimony-case-for-interactionist-dualism.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
 - **Type**: cross-review
 - **Status**: pending
@@ -3162,6 +3148,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review topics/the-epiphenomenalist-threat.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
+- **Type**: cross-review
+- **Notes**: Chain from today's 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md`, which added a forward cross-link to `[the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)` in the strong-emergence subsection (where the article notes that without a mechanism, strongly emergent properties risk becoming epiphenomenal) plus frontmatter and Further Reading entries. The receiving article currently has zero references to `the-strong-emergence-of-consciousness` (verified 22:10 UTC). Per the reciprocal-cross-link-with-substantive-content discipline, this is the link-only-from-one-side defect: forward-only citation without reciprocal substantive integration. Cross-review should (a) verify whether the-epiphenomenalist-threat's existing argumentation engages strong emergence as one of the routes a non-physicalist might take to avoid epiphenomenalism, and add a substantive paragraph (~80–150 words) referencing strong-emergence-of-consciousness as a sibling response; (b) add `[the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)` to related_articles frontmatter; (c) verify that the new paragraph correctly distinguishes strong-emergence's "consciousness as new fundamental property" from the article's own preferred dualist response — the two routes are different, not interchangeable; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short scope (~100–200 words touched). Tenet alignment: Dualism + Bidirectional Interaction.
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md -- Context: Cross-review topics/the-epiphenomenalist-threat.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
+
+### ✓ 2026-04-29: Cross-review topics/the-epiphenomenalist-threat.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
+- **Type**: cross-review
+- **Notes**: Completed 2026-04-29 22:25 UTC as the ninth deep-review of `the-epiphenomenalist-threat.md`. Length-neutral execution: article was at 3970 words (soft_warning, only 30 words from the topics-section hard threshold of 4000), so the substantive 80–150 word addition called for in the source task would have triggered a length violation. The article's existing "emergence strategy" paragraph (line 131) already engages strong emergence as one of the four escape routes and analyses its dilemma — that substantive integration is *already present*. Resolution: redirected the body link from `[emergence](/concepts/emergence/)` (concept) to `[Strong emergence](/topics/the-strong-emergence-of-consciousness/)` (topic) at the natural integration point; added topic to `related_articles` and Further Reading. Final word count 3990 (+20). Stylistic audit (CLAUDE.md "This is not X. It is Y." check): no violations introduced. Distinction (c) preserved by leaving the existing emergence-strategy critique unchanged — it already distinguishes strong emergence's own commitments from the Map's quantum-mechanism response. Output: [deep-review-2026-04-29-the-epiphenomenalist-threat](/reviews/deep-review-2026-04-29-the-epiphenomenalist-threat/).
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md
 
 ### ✓ 2026-04-29: Complete deferred reciprocity sweep — add numerosity-void cross-link to voids/self-opacity.md
 - **Type**: cross-review
