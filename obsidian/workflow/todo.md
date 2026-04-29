@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 02:19:00+00:00
+ai_modified: 2026-04-29 02:34:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,12 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Address pessimistic-review issues in common-knowledge-void.md
+- **Type**: refine-draft
+- **Notes**: Pessimistic review (2026-04-29) found three medium-severity issues in `voids/common-knowledge-void.md`. (1) Lederman 2018 is mis-characterised — the article gloss overstates Lederman's verdict from "the regress is overstated, weaker structures recover the work" to "defensive moves either re-introduce the regress or abandon what made it load-bearing"; soften and explicitly note the Map's reading is one option Lederman canvasses without endorsing. (2) The dualism inference is openly hedged ("the argument does not establish dualism") but Dualism is still listed as the "most directly engaged" tenet — either downgrade Dualism to indirectly engaged and promote Occam's-Limits, or argue why fictive imputation cannot do the work without something non-physical. (3) The standard counter-move (Schelling 1960 focal points, Pettit's "common attitude," Bicchieri's social norms) is missing from the Philosophical Anchoring section — add a paragraph engaging it, including the Map's reason for treating the void as load-bearing despite the focal-points alternative (likely: focal-point salience itself regresses common knowledge of which feature is focal). Also: Aumann's Agreement Theorem does no work for the void thesis (Issue 3, low–medium); reframe as a contrast rather than a third converging anchor. Light hedging on Rubinstein equilibrium-selection assumptions (Issue 5, low). Light hedging on the LLM-introspection claim in the AI section (Issue 6, low). Two open issues (7 and 8) deferred. Preserve the article's voice and existing structure; expect ~200-400 words touched, mostly in Philosophical Anchoring and Relation to Site Perspective. See `[[reviews/pessimistic-2026-04-29]]`.
+- **Source**: pessimistic-review
+- **Generated**: 2026-04-29
 
 ### P2: Cross-review voids-between-minds.md considering common-knowledge-void insights
 - **Type**: cross-review
