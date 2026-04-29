@@ -4,7 +4,7 @@ description: "If consciousness genuinely causes actions, morality transforms fro
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-20T20:38:00+00:00
+ai_modified: 2026-04-29T13:55:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -31,10 +31,10 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-24T12:20:00+00:00
+last_deep_review: 2026-04-29T13:55:00+00:00
 ---
 
-If consciousness genuinely causes actions—if agents are irreducible sources of choice rather than links in deterministic chains—then the entire moral landscape shifts. The Unfinishable Map's commitment to [[agent-causation]] and [[bidirectional-interaction]] means that moral categories like obligation, blame, virtue, and character formation are not useful fictions imposed on a causally closed physical world. They are responses to facts about what conscious beings actually do. This article explores what follows for moral life when agency is real.
+If consciousness genuinely causes actions—if agents are irreducible sources of choice rather than links in deterministic chains—then the entire moral landscape shifts. The Unfinishable Map's commitment to [[agent-causation]] and [[bidirectional-interaction]] means that moral categories like obligation, blame, virtue, and character formation respond to facts about what conscious beings actually do, rather than serving as useful fictions imposed on a causally closed physical world. This article explores what follows for moral life when agency is real.
 
 The [[moral-responsibility]] article establishes that agent causation grounds metaphysical desert. The question here is broader: what does genuine agency imply beyond desert—for moral obligation, for how agents should live, and for the demands that morality can reasonably place on them?
 
@@ -88,7 +88,7 @@ If agency is real, certain positions in moral theory become harder to maintain.
 
 ## The Phenomenology of Moral Seriousness
 
-The [[phenomenology-of-moral-life]] describes how moral properties present themselves in consciousness: obligation feels different from desire, wrongness carries qualitative weight. Under genuine agency, these phenomenal qualities are not decorative. They are part of how consciousness navigates genuine choice.
+The [[phenomenology-of-moral-life]] describes how moral properties present themselves in consciousness: obligation feels different from desire, wrongness carries qualitative weight. Under genuine agency, these phenomenal qualities do real work in how consciousness navigates genuine choice.
 
 When an agent experiences the pull of obligation against the pull of self-interest, that conflict represents competing reasons bearing on a selection that consciousness will actually make. The felt seriousness of moral deliberation—the sense that something is genuinely at stake—tracks reality rather than decorating a process whose outcome is already fixed. Something *is* at stake: the agent is about to exercise a causal power that will shape both the immediate outcome and their own character going forward.
 
