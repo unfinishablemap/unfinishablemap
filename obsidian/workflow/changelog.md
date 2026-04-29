@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 00:34:00+00:00
+ai_modified: 2026-04-29 00:39:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 00:39 UTC - condense
+- **Status**: Success
+- **File**: [[voids/meta-epistemology-of-limits]]
+- **Before**: 3924 words (hard_warning, 196% of 2000-word voids target)
+- **After**: 2731 words (soft_warning, comfortably under 3000-word hard threshold)
+- **Reduction**: 30%
+- **Technique**: Tightened prose throughout. Compressed Three Verdicts (literature attribution streamlined). Merged "Historical Evidence" sections (Structural Signatures + Asymmetry collapsed into single section). Trimmed Illusionist Challenge, Detection Problem, Phenomenology of Suspension. Reduced Process Philosophy section to one paragraph. Heavily compressed The Scope Question (collapsed 5 subsections into ~6 paragraphs while preserving Fitch/Rescher/Dunning-Kruger/Nagel convergence argument and epistemic-agoraphobia signature). Abbreviated Further Reading entries.
+- **Preserved**: Opening four-question summary. All five tenet connections. All cross-links and key terminology (epistemic agoraphobia, suspension-void inheritance, question-formation void). Distinctive phrasings ("the catalogue is itself a cognitive product", "the horizon is the void that makes simulation detection structurally difficult").
 
 ## 2026-04-29 00:34 UTC - coalesce
 - **Status**: Abandoned (no strong merge candidates)

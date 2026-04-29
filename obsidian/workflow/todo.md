@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/meta-epistemology-of-limits.md (3924 words, 196% of voids hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article was just expanded by the 2026-04-28 23:08 UTC coalesce that merged `voids/epistemic-horizon-void.md` into `voids/meta-epistemology-of-limits.md` (commit 9d53557a2). Pre-coalesce the article was ~2537 words after the 2026-04-23 condense pass; post-coalesce it stands at 3924 words — well above the 2000-word voids hard threshold and the worst real-content length offender on the site. The merge preserved both source articles' contributions but did not aggressively condense the joined material. Preserve: (a) the four meta-questions (genuineness, scope, dissolved-vs-persistent diagnostic, designed-vs-natural) which are load-bearing for the article's structural argument; (b) the epistemic-horizon-void content under §"The Scope Question" (this was the coalesce's central addition); (c) the suspension/categorial-void/inference-void/question-formation-void cross-link cluster added today; (d) the Münchhausen trilemma framing in §Tenet Alignment. Trim: redundant tradition-comparison framings between epistemic-horizon-void's pre-coalesce material and the existing meta-epistemology framing (the merge created some duplication); overlong examples that recapitulate structural arguments already named precisely; cross-tradition convergence paragraphs where the Map's internal cite-graph already establishes the point. Target: ≤3000 words (hard threshold), ideally ≤2400 (soft warning band). See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review apex/taxonomy-of-voids.md considering 2026-04-28 coalesced voids/meta-epistemology-of-limits.md
 - **Type**: cross-review
 - **Status**: pending
@@ -3042,6 +3035,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Condense voids/meta-epistemology-of-limits.md (3924 words, 196% of voids hard threshold)
+- **Type**: condense
+- **Notes**: Article was just expanded by the 2026-04-28 23:08 UTC coalesce that merged `voids/epistemic-horizon-void.md` into `voids/meta-epistemology-of-limits.md` (commit 9d53557a2). Pre-coalesce the article was ~2537 words after the 2026-04-23 condense pass; post-coalesce it stands at 3924 words — well above the 2000-word voids hard threshold and the worst real-content length offender on the site. The merge preserved both source articles' contributions but did not aggressively condense the joined material. Preserve: (a) the four meta-questions (genuineness, scope, dissolved-vs-persistent diagnostic, designed-vs-natural) which are load-bearing for the article's structural argument; (b) the epistemic-horizon-void content under §"The Scope Question" (this was the coalesce's central addition); (c) the suspension/categorial-void/inference-void/question-formation-void cross-link cluster added today; (d) the Münchhausen trilemma framing in §Tenet Alignment. Trim: redundant tradition-comparison framings between epistemic-horizon-void's pre-coalesce material and the existing meta-epistemology framing (the merge created some duplication); overlong examples that recapitulate structural arguments already named precisely; cross-tradition convergence paragraphs where the Map's internal cite-graph already establishes the point. Target: ≤3000 words (hard threshold), ideally ≤2400 (soft warning band). See `/condense` skill.
+- **Output**: obsidian/voids/meta-epistemology-of-limits.md
 
 ### ✓ 2026-04-29: Cross-review concepts/cognitive-phenomenology.md considering phenomenology-vs-function-axis insights
 - **Type**: cross-review
