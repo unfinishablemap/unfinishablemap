@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 06:19:00+00:00
+ai_modified: 2026-04-29 06:36:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 06:36 UTC - coalesce
+- **Status**: Abandoned (no strong merge candidates)
+- **Sections checked**: voids (99/100), concepts (232/250) — both close to caps
+- **Iterations**: 7 candidate clusters examined
+- **Clusters surveyed**:
+  1. Cognitive-limits (biological-cognitive-closure, embodiment-cognitive-limits) — different domains (evolution/architecture vs. body)
+  2. Affective family (affective/mood/valence/appetitive voids) — each article explicitly distinguishes itself in body text; recently deep-reviewed
+  3. Void taxonomies (closure-types-void vs three-kinds-of-void) — orthogonal classificatory axes (representational/psychological vs unexplored/unexplorable/occluded)
+  4. Time-scoped voids (inaccessible-past vs historical-consciousness-void) — explicitly distinguished by scale (single life vs. epochs)
+  5. Consciousness mechanism (consciousness-as-amplifier vs consciousness-selecting-neural-patterns) — function (great-ape gap) vs quantum mechanism (post-decoherence)
+  6. Phenomenal richness (surplus-void vs plenitude-void) — plenitude article explicitly distinguishes from surplus
+  7. Interface family (consciousness-physics-interface-formalism, mind-matter-interface, attention-as-interface, brain-interface-boundary, somatic-interface, mind-brain-separation) — different levels of analysis (formal/philosophical/cognitive/anatomical)
+- **Notes**: All examined articles are well-curated, recently deep-reviewed, and explicitly differentiate themselves from cluster-mates. The site has been actively reducing redundancy via /deep-review for some time, leaving the remaining catalogue with high differentiation. Per skill instructions ("If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything"), no merge was performed. Recommend the queue continue favouring deep-review/condense over coalesce until new material accumulates that genuinely overlaps.
 
 ## 2026-04-29 06:19 UTC - refine-draft
 - **Status**: Success
