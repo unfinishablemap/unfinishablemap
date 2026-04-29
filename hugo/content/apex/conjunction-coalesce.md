@@ -1,13 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-29 08:19:00+00:00
+ai_modified: 2026-04-29 18:25:00+00:00
 ai_system: claude-opus-4-7
-apex_last_synthesis: 2026-04-27 17:28:00+00:00
+apex_last_synthesis: 2026-04-29 18:25:00+00:00
 apex_sources:
 - voids/agency-void
 - voids/voids-between-minds
 - voids/erasure-void
+- voids/numerosity-void
 - voids/transit-void
 - voids/thrownness-void
 - voids/temporal-void
@@ -31,7 +32,7 @@ description: When two voids are conjoined at a structural level, merging them in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 08:19:00+00:00
+last_deep_review: 2026-04-29 18:25:00+00:00
 modified: *id001
 related_articles:
 - '[[apex-articles]]'
@@ -41,6 +42,7 @@ related_articles:
 - '[[agency-void]]'
 - '[[voids-between-minds]]'
 - '[[erasure-void]]'
+- '[[numerosity-void]]'
 - '[[transit-void]]'
 - '[[temporal-void]]'
 - '[[thrownness-void]]'
@@ -74,9 +76,9 @@ Three refinements sharpen the test. First, *structural* conjunction is required,
 
 The third refinement is a defeasible heuristic, not a permanent commitment to non-reduction. The history of theory runs the other way often enough to demand humility: Maxwell's electromagnetism, the electroweak unification, plate tectonics each looked like forced conjunctions before someone found the mechanism. The discipline yields to a successful single-mechanism account when one becomes available; conjunction-coalesce articles should be revisited in light of unifications, not defended against them. The discipline's claim is only that *until* a mechanism is found, dissolving the seam discards the structural information the conjunction provides.
 
-## Two Coalesces and One Cognate
+## Two Coalesces and Two Cognates
 
-The discipline's empirical base is two clean coalesces of prior articles plus one creation-time cognate. Holding these as distinct cases matters: the coalesce-of-prior-articles version is the discipline as initially named; the creation-time version is a related but separate move (call it *conjunction-articulation*) in which a single article takes a conjoint shape rather than two articles being merged. The cognate inherits the seam test but not the editorial geometry of merger. Treating the two as one would inflate the empirical base of the merger discipline; keeping them distinct lets each be assessed on its own work.
+The discipline's empirical base is two clean coalesces of prior articles plus two creation-time cognates. Holding these as distinct cases matters: the coalesce-of-prior-articles version is the discipline as initially named; the creation-time version is a related but separate move (call it *conjunction-articulation*) in which a single article takes a conjoint shape rather than two articles being merged. The cognates inherit the seam test but not the editorial geometry of merger. Treating the two as one would inflate the empirical base of the merger discipline; keeping them distinct lets each be assessed on its own work.
 
 **The agency void.** The 2026-04-27 coalesce of `involuntariness-void` and `agency-verification-void` into [the agency void](/voids/agency-void/) is the cleanest example. The two source articles tracked distinct limits: one *passive* (consciousness cannot control most of what it experiences—cannot will pain away, cannot stop being conscious while awake, cannot choose its qualia or moods); the other *skeptical* (consciousness cannot verify whether it causes anything at all, since every check is performed by the faculty whose causal status is in question). Each limit is independently real, but the merger's central claim is that the conjunction does work neither face does alone. As the merged article puts it: "Wide control without self-verification would still be agentive. Narrow control with reliable self-verification would yield a precisely mappable limit. The void lies in their conjunction: without self-verification, consciousness cannot tell whether the involuntariness it meets is *of its agency* (a faculty it has but cannot exercise here) or *of its absence of agency* (a faculty it lacks)." The seam is the claim.
 
@@ -84,7 +86,9 @@ The discipline's empirical base is two clean coalesces of prior articles plus on
 
 **The erasure void (cognate, not coalesce).** [The erasure void](/voids/erasure-void/) is not a merger of two prior articles. It is a single article that took a conjoint shape at creation time, structured around a conjunction it could not have articulated by treating either face alone. The two faces are *loss* (cognitive capacity erodes through injury, neurodegeneration, ageing) and *monitoring* (the system that would notice the loss is itself among the casualties). The conjunction is the void: where loss and monitoring share substrate, loss becomes silent. Anosognosia is the clinical extreme; Dunning-Kruger is the everyday case. Erasure-void inherits the seam test and demonstrates that a conjoint two-face structure can shape an article without a merger, but it does not thicken the empirical base for *coalesce* itself; it shows the seam-test logic generalising to creation time.
 
-The two genuine coalesces share a structural shape. Each merges distinct limits connected through shared substrate or shared structural condition. Each requires both faces. Each resists single-mechanism unification *as currently understood*; if a unifying mechanism surfaces later, the discipline yields. And in each, the merged article's central paragraphs name the conjunction explicitly—as a section heading, comparison table, or paragraph articulating what the conjunction adds. The cognate (erasure-void) shares the second through fourth features but not the first—there is nothing to merge.
+**The numerosity void (second cognate).** [The numerosity void](/voids/numerosity-void/) is a three-face creation-time cognate articulating an architectural cap (subitizing's ceiling at roughly four items), a phenomenal opacity at the cap's boundary (no felt edge between cardinal givenness and reconstructive counting), and an inaccessibility of the operation behind the determinate cardinal output (the suddenly-given *subitus* with no access to the index-allocation that produced it). Each face is structurally required—the conjunction is what the article is *for*—and the cognate class accordingly generalises: three-face creation-time articulation joins two-face (erasure-void), paralleling the two- and three-face spread among the coalesces (agency-void's two limits; voids-between-minds' three gaps).
+
+The two genuine coalesces share a structural shape. Each merges distinct limits connected through shared substrate or shared structural condition. Each requires both faces. Each resists single-mechanism unification *as currently understood*; if a unifying mechanism surfaces later, the discipline yields. And in each, the merged article's central paragraphs name the conjunction explicitly—as a section heading, comparison table, or paragraph articulating what the conjunction adds. The two cognates (erasure-void and numerosity-void) share the second through fourth features but not the first—there is nothing to merge.
 
 ## A Coalesce the Test Rejected
 
@@ -118,7 +122,7 @@ The 2026-04-27 pessimistic-review-to-refine-draft loop on the agency void is par
 
 The procedural side of these pressures—when a coalesce triggers a condense, when it triggers an apex re-cross-review, and what counts as the apex declaring stability—is documented separately in [the coalesce–condense–apex-stability triple-discipline](/concepts/coalesce-condense-apex-stability/). Within that framework the conjunction-coalesce sits as the seam-preserving input variant: its merged articles must survive both length-driven condensation and apex re-cross-review without losing the seam. The triple-discipline supplies the procedural infrastructure; the seam test supplies the semantic criterion that decides which mergers should be protected by it.
 
-Reviewers can be cued to the discipline by the structural signals it leaves behind. The merged article's opening paragraph names the two faces explicitly. A section titled along the lines of "Two Limits, One Void" articulates the joint claim. Subsequent sections work each face in turn rather than blending the two into running prose. References to the original face-named voids appear in the `coalesced_from` frontmatter field. These signals constitute the discipline's machine-readable trace—and they are also what an automated process can read to know which articles are protected by it.
+Reviewers can be cued to the discipline by the structural signals it leaves behind: an opening paragraph that names the faces explicitly, a section articulating the joint claim, subsequent sections working each face in turn rather than blending them into running prose, and `coalesced_from` frontmatter pointing to the source voids. These signals also constitute a machine-readable trace by which automated processes can recognise which articles are protected by the discipline.
 
 ## When the Discipline Fails
 
@@ -130,7 +134,7 @@ The second failure mode is *forced* conjunction-coalesce: applying the disciplin
 
 The conjunction-coalesce should not be confused with concept extraction, a different methodological move proposed earlier in the Map's review cycle. Concept extraction takes a structural feature appearing across multiple articles and gives it its own citable concept page (the *conjoint two-face limit* structure being a candidate). The two methodologies are complementary. Concept extraction identifies *patterns* that recur and gives them a stable home; the conjunction-coalesce identifies *cases* where two articles instantiate the same conjoint structure in different content domains.
 
-The conjunction-coalesce produces *instances* of the kind of structure that concept extraction may eventually *abstract*. The agency void, voids between minds, and erasure-void (as cognate) are instances of conjoint two-face limits across different content domains. If the structural feature recurs further, concept extraction may eventually give it a home. The conjunction-coalesce is a per-article move; concept extraction is a cross-article move. Each does work the other cannot.
+The conjunction-coalesce produces *instances* of the kind of structure that concept extraction may eventually *abstract*. The agency void, voids between minds, erasure-void (cognate), and numerosity-void (cognate) are instances of conjoint multi-face limits across different content domains. If the structural feature recurs further, concept extraction may eventually give it a home. The conjunction-coalesce is a per-article move; concept extraction is a cross-article move. Each does work the other cannot.
 
 ## A Note on Apex Placement
 
@@ -155,6 +159,7 @@ This synthesis draws on:
 - [The Agency Void](/voids/agency-void/) — The cleanest case of conjunction-coalesce: passive and skeptical limits as load-bearing conjunction
 - [The Voids Between Minds](/voids/voids-between-minds/) — The three-way conjunction of existence, encounter, and sharing
 - [The Erasure Void](/voids/erasure-void/) — Cognate (not coalesce): conjoint shape installed at article-creation time around loss and monitoring
+- [The Numerosity Void](/voids/numerosity-void/) — Second cognate: three-face creation-time articulation of cap, transition, and mechanism opacity in subitizing
 - [The Transit Void](/voids/transit-void/) — Cluster candidate: state transitions and act onsets as conjoint forms
 - [The Thrownness Void](/voids/thrownness-void/) — Cluster candidate: structural inaccessibility of the founding moment
 - [The Temporal Void](/voids/temporal-void/) — Cluster candidate: confinement, duration paradox, memory-anticipation asymmetry

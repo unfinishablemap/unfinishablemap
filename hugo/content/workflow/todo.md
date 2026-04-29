@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/conjunction-coalesce.md to integrate numerosity-void as fifth conjoint-voids exemplar
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC, Ideas for Later). The 15:40 UTC deep-review of `apex/taxonomy-of-voids.md` integrated `voids/numerosity-void.md` (15:14 UTC creation) as the fifth conjunction-coalesce entry in the Phenomenological Cluster (cap face + transition face + mechanism face). The propagation has reached taxonomy-of-voids but not `apex/conjunction-coalesce.md`, which was last cross-reviewed at 08:19 UTC and predates the numerosity-void creation. Conjunction-coalesce is the canonical methodology home for the *seam-preserving merger* discipline; numerosity-void is the catalogue's newest worked example of three structurally distinct opacity faces held in a single article without forced unification. Cross-review should (a) add numerosity-void to the catalogued worked examples in §"Worked Examples" or equivalent section, (b) verify the article's framing of conjunction-coalesce-at-creation (rather than retrofit) survives the addition — numerosity-void was *born* as a three-faced article, parallel to suspension-void's status as the first native conjunction-coalesce, (c) check whether the three-faces structure (cap/transition/mechanism) introduces any novel methodological note the apex should record, (d) reciprocally back-link from numerosity-void's framing paragraph to conjunction-coalesce. Short-medium scope (~200-300 words touched). Tenet alignment: Occam's Razor Has Limits (methodological — the apex remains the navigation hub for the discipline as new instances accrue).
-- **Source**: optimistic-review (chain from optimistic-2026-04-29c)
-- **Generated**: 2026-04-29
-
 ### P3: Cross-review voids/agency-void.md considering moral-implications-of-genuine-agency restructure
 - **Type**: cross-review
 - **Status**: pending
@@ -3120,6 +3113,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review apex/conjunction-coalesce.md to integrate numerosity-void as fifth conjoint-voids exemplar
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC, Ideas for Later). The 15:40 UTC deep-review of `apex/taxonomy-of-voids.md` integrated `voids/numerosity-void.md` (15:14 UTC creation) as the fifth conjunction-coalesce entry in the Phenomenological Cluster (cap face + transition face + mechanism face). The propagation has reached taxonomy-of-voids but not `apex/conjunction-coalesce.md`, which was last cross-reviewed at 08:19 UTC and predates the numerosity-void creation. Conjunction-coalesce is the canonical methodology home for the *seam-preserving merger* discipline; numerosity-void is the catalogue's newest worked example of three structurally distinct opacity faces held in a single article without forced unification. Cross-review should (a) add numerosity-void to the catalogued worked examples in §"Worked Examples" or equivalent section, (b) verify the article's framing of conjunction-coalesce-at-creation (rather than retrofit) survives the addition — numerosity-void was *born* as a three-faced article, parallel to suspension-void's status as the first native conjunction-coalesce, (c) check whether the three-faces structure (cap/transition/mechanism) introduces any novel methodological note the apex should record, (d) reciprocally back-link from numerosity-void's framing paragraph to conjunction-coalesce. Short-medium scope (~200-300 words touched). Tenet alignment: Occam's Razor Has Limits (methodological — the apex remains the navigation hub for the discipline as new instances accrue).
+- **Output**: obsidian/apex/conjunction-coalesce.md -- Context: Cross-review apex/conjunction-coalesce.md to integrate numerosity-void as fifth conjoint-voids exemplar
 
 ### ✓ 2026-04-29: Add reciprocal cross-links between voids/numerosity-void.md and coalesce-condense-apex-stability + cognitive-phenomenology
 - **Type**: cross-review
