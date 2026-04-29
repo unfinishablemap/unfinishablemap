@@ -1,9 +1,25 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 08:52:00+00:00
+ai_modified: 2026-04-29 09:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 09:04 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/common-knowledge-void]]
+- **Word count**: 3032 → 2929 (−103; under voids/ 3000-word hard threshold with ~21-word headroom against the <2950 task target)
+- **Changes**:
+  - §Verification: dropped redundant general-statement opening that duplicated the lead's Halpern–Moses summary
+  - §Approximation Discontinuity: folded duplicative protocol-description sentence into the iterated-elimination claim
+  - §Focal-Points Alternative: tightened second paragraph (parenthetical and closing clause)
+  - §Phenomenology: rephrased "not as X but as Y" cliché to "manifests through *constitutive smoothing*" per CLAUDE.md style ban
+  - Lead: tightened "Late-twentieth-century formal results..." topic sentence
+  - Anchoring summary: reduced parenthetical anchor lists since each is expanded in its own subsection
+  - §Aumann tenet-dependency: removed branch-indexical-priors restatement and "flagged here rather than relied on tacitly:" framing
+- **Preserved**: salience-regress reply, focal-points engagement, Halpern–Moses citation, MWI tenet-dependency, Carruthers/Madhyamaka treatments; all wikilinks intact
+- **Tenet alignment**: methodological — preserves section-cap-and-length discipline (Occam's Limits applied reflexively)
+- **Published**: yes (already draft: false)
 
 ## 2026-04-29 08:52 UTC - refine-draft
 - **Status**: Success
