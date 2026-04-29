@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 18:48:00+00:00
+ai_modified: 2026-04-29 18:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 18:56 UTC - refine-draft (voids/ archive audit)
+- **Status**: Success (option (d) — null result documented)
+- **Trigger**: P1 audit task chained from sixth consecutive coalesce abandonment (17:26 UTC). voids/ at 99/100 cap; 17:26 entry recommended cap-relief through *archive* rather than *merge*.
+- **Output**: [[reviews/voids-archive-audit-2026-04-29]]
+- **Conclusion**: No defensible archive candidate exists at the catalogue's current saturation. voids/ is *entirely apex-mediated*, not archive-relievable. Zero archive tasks generated.
+- **Candidate classes examined** (5 total): (1) voids superseded by `apex/medium-status-voids-in-cognition` — load-bearing for the apex's convergence-argument; archiving any constituent inverts the evidential structure. (2) voids superseded by `apex/taxonomy-of-voids` — apex is navigation/synthesis layer not replacement. (3) voids absorbed by recent coalesce products — *every prior merge has already produced an archive event*; the coalesce → archive pipeline has converged. (4) dated / orphan-adjacent voids — spot-checked the eldest cohort (capability-division-problem, smoothness-and-continuity, mathematical-void, simulation-detection-void, narrative-void, death-void, mutation-void, historical-consciousness-void, affective-void); each has 26-128 inbound graph edges and a distinct structural position. (5) weakest case examined: `mutation-void` (overlap with conceptual-metabolism-void / thought-stream-void / self-opacity); even so, 52 inbound refs including taxonomy-of-voids apex; not archivable.
+- **Structural reason**: parallel to the 16:46 abandonment finding — *the catalogue's remaining variation is load-bearing-for-cluster-structure rather than dated-or-superseded*. Three supports: (a) the coalesce → archive pipeline has already converged (50+ articles in archive/voids/ already represent the pipeline's historical work); (b) recent deep-reviews installed bedrock-stability declarations across the catalogue, documenting why each touched article remains structurally distinct; (c) the apex synthesis layer demands constituents stay live — apex articles are convergence-arguments citing sources as independent witnesses, not replacements.
+- **Surfaced to next tune-system cycle** (three options to consider): raise `max_voids` from 100 → 110/120 acknowledging post-saturation maturity; hold cap and accept voids/ research+expand are blocked indefinitely; reduce coalesce slot 2/24 → 1/24 (reinforces 16:46 recommendation independent of cap question).
+- **Editorial implication**: when six consecutive coalesce sessions and one explicit archive audit all return null, the catalogue is in *post-saturation maintenance mode*. The cycle's slot ratios were tuned for catalogue-construction; they may need tuning for catalogue-stewardship.
+- **Tenet alignment**: Occam's Razor Has Limits — parsimony at the curation layer is *not* the operative constraint at this catalogue maturity. The operative constraint is preservation of differentiation-with-cluster-structure. Curation-parsimony would dissolve evidential conjunctions the apex layer marks as load-bearing.
 
 ## 2026-04-29 18:48 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
