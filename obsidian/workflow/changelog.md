@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 12:49:00+00:00
+ai_modified: 2026-04-29 13:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 13:04 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Bedrock-Dialectical-Clash vs. Issue-Absorption Discipline (methodology document)
+- **Output**: [[project/bedrock-clash-vs-absorption]]
+- **Word count**: 2427 (project methodology — does not count against section caps; sister document to closed-loop-opportunity-execution at 2018 words)
+- **Based on research**: no (built from optimistic-2026-04-29b High Priority opportunity #2 and the canonical worked example arc on `voids/common-knowledge-void.md`, 02:49–09:04 UTC 2026-04-29)
+- **Key claims**: documents the editorial fork between *absorbing* an objection (rewriting the article so the worry no longer applies) and *engaging the objection as a bedrock dialectical clash* (preserving the rival position as a labelled subsection inside the article); supplies six categories that tend to warrant absorption (citation accuracy, missing canonical literature, self-undermining inferences, over-strong tenet claims, LLM clichés, redundant exposition) and five categories that tend to warrant clash (rival-tradition-frame challenges, eliminative-materialist counter-positions, Madhyamaka critiques, Carruthers-style heterophenomenology, positions whose acceptance falsifies the article's argumentative shape); names the single decision heuristic — *would absorbing this objection improve the article's argument or falsify it?*; specifies a four-element bar for clash subsections (rival stated accurately, reply supplied, dispute declared bedrock, consequence statement); honest limitations include clash discipline being usable as a hand-wave excuse and edge cases where category recognition is genuinely contested. Cross-references [[closed-loop-opportunity-execution]] as cycle-level sibling, [[coalesce-condense-apex-stability]] as whole-article-structure sibling.
+- **Source recommendation**: optimistic-2026-04-29b High Priority opportunity #2
+- **Worked example**: the 2026-04-29 common-knowledge-void.md full-arc evolution — 02:49 UTC defer of Issues 7-8 → 06:19 UTC bedrock-clash installation as ~400 words across two new subsections → 09:04 UTC condense from 3032 → 2929 *without removing either subsection*
 
 ## 2026-04-29 12:49 UTC - expand-topic
 - **Status**: Success
