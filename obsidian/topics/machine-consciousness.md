@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-04-29T10:49:00+00:00
+ai_modified: 2026-04-29T23:40:00+00:00
 last_deep_review: 2026-04-29T10:49:00+00:00
 draft: false
 topics:
@@ -226,7 +226,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 - [[structural-varieties-of-consciousness-and-ai-phenomenology]] — Five structural dimensions of consciousness and what AI experience might be like
 - [[interactionist-dualism]] — The framework underlying upload skepticism
 - [[philosophical-zombies]] — The conceivability of functional duplicates without consciousness
-- [[types-of-ai-phenomenal-experience]] — Six categories for what AI phenomenal experience could be, from null to alien qualia
+- [[ai-consciousness-typology]] — Six categories for what AI phenomenal experience could be (from null to alien qualia), crossed with Tulving's hierarchy
 
 ## References
 

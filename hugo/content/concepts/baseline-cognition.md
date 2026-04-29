@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-18 09:05:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -171,7 +171,7 @@ The question isn't "conscious or not?" but "what kind of consciousness, supporti
 
 The baseline cognition framework has implications for [artificial intelligence](/topics/ai-consciousness/). Current AI excels at pattern recognition, statistical correlation, and domain-specific performance—capacities baseline cognition handles. What AI struggles with—genuine cross-domain flexibility, metacognitive monitoring, counterfactual reasoning about unprecedented situations, cumulative deliberate innovation—are the capacities tied to consciousness in the human-ape comparison.
 
-This doesn't prove AI cannot be conscious but suggests human-level cognition would require something functionally equivalent to conscious amplification. The [AI consciousness modes](/concepts/ai-consciousness-modes/) framework applies Tulving's hierarchy: AI resembles noetic-level processing while lacking both the embodied anoetic foundation and autonoetic capacities that baseline cognition predicts require consciousness.
+This doesn't prove AI cannot be conscious but suggests human-level cognition would require something functionally equivalent to conscious amplification. The [AI consciousness typology](/concepts/ai-consciousness-typology/) applies Tulving's hierarchy: AI resembles noetic-level processing while lacking both the embodied anoetic foundation and autonoetic capacities that baseline cognition predicts require consciousness.
 
 ## Implications for Free Will
 
@@ -212,7 +212,7 @@ The baseline cognition hypothesis could be undermined by:
 - [cumulative-culture](/concepts/cumulative-culture/) — The ratchet effect and why it requires metarepresentation
 - [delegatory-dualism](/topics/delegatory-dualism/) — Causal structure for how consciousness amplifies without overdetermination
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's hierarchy underlying the baseline/human distinction
-- [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — The hierarchy applied to AI systems
+- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — The hierarchy applied to AI systems alongside six categories of phenomenality
 - [cetacean-and-corvid-consciousness](/topics/cetacean-and-corvid-consciousness/) — Dolphins and corvids as intermediate cases on the amplification spectrum
 - [consciousness-independent-baseline-cognition-2026-01-21](/research/consciousness-independent-baseline-cognition-2026-01-21/) — Research notes underlying this article
 - [dream-consciousness](/topics/dream-consciousness/) — Dream problem-solving restricted to humans despite universal mammalian REM, supporting the link between phenomenal richness and cognitive outcome

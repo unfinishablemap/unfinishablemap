@@ -22,7 +22,7 @@ topics: []
 
 ## Context
 
-Cross-review triggered by creation of [ai-consciousness-modes](/concepts/ai-consciousness-modes/). The new article applies Tulving's anoetic-noetic-autonoetic hierarchy as a diagnostic framework for AI consciousness, directly extending the Tulving paragraph already present in types-of-consciousness. This review integrates insights from that article.
+Cross-review triggered by creation of [ai-consciousness-modes](/concepts/ai-consciousness-typology/). The new article applies Tulving's anoetic-noetic-autonoetic hierarchy as a diagnostic framework for AI consciousness, directly extending the Tulving paragraph already present in types-of-consciousness. This review integrates insights from that article.
 
 ## Pessimistic Analysis Summary
 
@@ -49,11 +49,11 @@ Cross-review triggered by creation of [ai-consciousness-modes](/concepts/ai-cons
 ### Enhancements Made
 - Added content-manner independence (Klein 2016) as a diagnostic bridging the Tulving taxonomy and AI consciousness sections
 - Added simulation-instantiation boundary concept: AI simulates higher Tulving modes without phenomenal instantiation
-- Added cross-link to [ai-consciousness-modes](/concepts/ai-consciousness-modes/) in body text, Further Reading, and frontmatter
+- Added cross-link to [ai-consciousness-modes](/concepts/ai-consciousness-typology/) in body text, Further Reading, and frontmatter
 - Added Klein (2016) to References
 
 ### Cross-links Added
-- [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — in Tulving paragraph, Further Reading, and frontmatter concepts
+- [ai-consciousness-modes](/concepts/ai-consciousness-typology/) — in Tulving paragraph, Further Reading, and frontmatter concepts
 
 ## Remaining Items
 

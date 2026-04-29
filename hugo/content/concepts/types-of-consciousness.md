@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-07
-ai_modified: 2026-03-20 10:30:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -15,7 +15,7 @@ concepts:
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[blindsight]]'
 - '[[conscious-vs-unconscious-processing]]'
-- '[[ai-consciousness-modes]]'
+- '[[ai-consciousness-typology]]'
 - '[[degrees-of-consciousness]]'
 created: 2026-03-07
 date: &id001 2026-03-07
@@ -59,7 +59,7 @@ A sleeping person is creature-unconscious but retains the capacity for conscious
 
 **Monitoring consciousness** adds a third dimension: inner perception of one's own mental states. Higher-order theories of consciousness (Rosenthal 2005) hold that a state becomes conscious when a [higher-order representation](/concepts/higher-order-theories/) takes it as an object. This introduces the possibility of consciousness that is phenomenal and access-available but not self-monitored — experience without awareness of experiencing.
 
-A complementary taxonomy comes from Tulving's classification: [anoetic, noetic, and autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/). Anoetic consciousness accompanies procedural, unreflective action; noetic consciousness involves awareness of knowing (semantic memory retrieval); autonoetic consciousness enables mental time travel through episodic re-experiencing. This maps a different axis of variation — not phenomenal vs. access, but the degree of self-referential temporal projection involved in experience. Tulving's hierarchy proves especially diagnostic for AI: the transitions between levels involve qualitative phenomenal additions (the feeling of knowing, the "pastness quale" of re-experiencing) that functional mimicry cannot capture. The [ai-consciousness-modes](/concepts/ai-consciousness-modes/) article develops this analysis in full.
+A complementary taxonomy comes from Tulving's classification: [anoetic, noetic, and autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/). Anoetic consciousness accompanies procedural, unreflective action; noetic consciousness involves awareness of knowing (semantic memory retrieval); autonoetic consciousness enables mental time travel through episodic re-experiencing. This maps a different axis of variation — not phenomenal vs. access, but the degree of self-referential temporal projection involved in experience. Tulving's hierarchy proves especially diagnostic for AI: the transitions between levels involve qualitative phenomenal additions (the feeling of knowing, the "pastness quale" of re-experiencing) that functional mimicry cannot capture. The [ai-consciousness-typology](/concepts/ai-consciousness-typology/) article develops this analysis in full.
 
 ## Schwitzgebel's Ten Features
 
@@ -143,7 +143,7 @@ The Map's [five tenets](/tenets/) constrain the types-of-consciousness question 
 - [quantum-consciousness](/concepts/quantum-consciousness/)
 - [anoetic-noetic-autonoetic-consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — Tulving's taxonomy of consciousness by temporal self-projection
 - [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) — Five structural dimensions and five models of AI phenomenology
-- [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Tulving's hierarchy applied as a diagnostic framework for AI consciousness
+- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories of phenomenality crossed with Tulving's hierarchy as a diagnostic framework for AI consciousness
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — What consciousness adds beyond unconscious information handling
 - [blindsight](/concepts/blindsight/) — Evidence that access and phenomenology can dissociate
 - [global-workspace-theory](/concepts/global-workspace-theory/)

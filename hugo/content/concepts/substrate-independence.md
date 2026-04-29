@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-05 14:26:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 coalesced_from:
@@ -215,7 +215,7 @@ The overall framework provides resources for confident skepticism about current 
 - [machine-consciousness](/topics/machine-consciousness/) — Mind uploading and substrate transfer
 - [emergence](/concepts/emergence/) — Strong vs. weak emergence and consciousness
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information's substrate independence doesn't extend to consciousness under dualism
-- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for AI phenomenal experience, with substrate requirements varying across types
+- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories for AI phenomenal experience, with substrate requirements varying across types
 - [experimental-consciousness-science-2025-2026](/topics/experimental-consciousness-science-2025-2026/) — 2025-2026 experimental results bearing on substrate independence
 
 ## References

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -177,7 +177,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [animal-consciousness](/topics/animal-consciousness/) — The problem for non-human organisms
 - [Convergent Phenomenological Evidence](/concepts/phenomenological-evidence/#convergence) — How convergent reports across traditions constitute evidence for shared consciousness
 - [consciousness-and-collective-phenomena](/topics/consciousness-and-collective-phenomena/) — Shared intentionality, we-mode phenomenology, and the constitutive role of recognizing other minds
-- [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — Tulving's hierarchy applied to what we could infer about AI consciousness
+- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Tulving's hierarchy and six phenomenality categories applied to what we could infer about AI consciousness
 - [ai-epiphenomenalism](/concepts/ai-epiphenomenalism/) — The possibility that AI consciousness has no causal consequences and thus no behavioral evidence
 
 ### Apex Synthesis

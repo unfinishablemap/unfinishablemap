@@ -28,7 +28,7 @@ topics: []
 - None. Attribution check passed: Galton 1880, Würzburg School (Külpe et al.), Zeman 2024, Kay/Keogh/Pearson 2024, Larner 2024, Lennon 2023, Schwitzgebel 2008, Nanay 2025, Scholz 2025 all properly attributed. Quoted material preserved with original qualifiers. Speculative claims (Bidirectional Interaction phenomenal extras) clearly labelled as speculation, not tenet-level claims.
 
 ### Medium Issues Found
-- Cross-link to [ai-consciousness-modes](/concepts/ai-consciousness-modes/) absent despite the AI externalisation section discussing aphantasia/hyperphantasia analogues — a natural and substantive connection. Resolution: added inline link in "What AI Externalisation Reveals," in related_articles, and in Further Reading.
+- Cross-link to [ai-consciousness-modes](/concepts/ai-consciousness-typology/) absent despite the AI externalisation section discussing aphantasia/hyperphantasia analogues — a natural and substantive connection. Resolution: added inline link in "What AI Externalisation Reveals," in related_articles, and in Further Reading.
 
 ### Counterarguments Considered
 - Eliminative materialist objection (imagery is just neural activation): article addresses via aphantasia evidence — introspective reports diverge from neural function in ways that resist eliminativist reduction.
@@ -48,8 +48,8 @@ topics: []
 - Tightened "destabilising in both directions" passage and "linguistic divergence" bullet to compensate for added cross-link content (length-neutral mode — article was at 102% of soft threshold).
 
 ### Cross-links Added
-- [ai-consciousness-modes](/concepts/ai-consciousness-modes/) — added inline in "What AI Externalisation Reveals," in related_articles frontmatter, and as a Further Reading bullet.
-- Reciprocal link from [ai-consciousness-modes](/concepts/ai-consciousness-modes/) back to [imagery-void](/voids/imagery-void/) — added a paragraph in "The Simulation-Instantiation Boundary" section, in related_articles frontmatter, and as a Further Reading bullet.
+- [ai-consciousness-modes](/concepts/ai-consciousness-typology/) — added inline in "What AI Externalisation Reveals," in related_articles frontmatter, and as a Further Reading bullet.
+- Reciprocal link from [ai-consciousness-modes](/concepts/ai-consciousness-typology/) back to [imagery-void](/voids/imagery-void/) — added a paragraph in "The Simulation-Instantiation Boundary" section, in related_articles frontmatter, and as a Further Reading bullet.
 
 ## Remaining Items
 

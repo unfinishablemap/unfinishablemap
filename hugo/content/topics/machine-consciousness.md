@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-29 10:49:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -228,7 +228,7 @@ The convergence across tenets is striking. Each independently gives reason to do
 - [structural-varieties-of-consciousness-and-ai-phenomenology](/topics/structural-varieties-of-consciousness-and-ai-phenomenology/) — Five structural dimensions of consciousness and what AI experience might be like
 - [interactionist-dualism](/concepts/interactionist-dualism/) — The framework underlying upload skepticism
 - [philosophical-zombies](/concepts/philosophical-zombies/) — The conceivability of functional duplicates without consciousness
-- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for what AI phenomenal experience could be, from null to alien qualia
+- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories for what AI phenomenal experience could be (from null to alien qualia), crossed with Tulving's hierarchy
 
 ## References
 

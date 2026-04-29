@@ -4,7 +4,7 @@ description: "The conceivability argument against physicalism: beings functional
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-28T01:31:00+00:00
+ai_modified: 2026-04-29T23:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -220,7 +220,7 @@ The zombie argument connects to all five of the Map's tenets.
 - [[problem-of-other-minds]] — The broader epistemological puzzle about knowing others are conscious
 - [[metaproblem-of-consciousness-under-dualism]] — The zombie divergence prediction: how conscious and zombie problem reports should differ
 - [[language-and-consciousness]] — How meaning and reference fail for zombie utterances, reinforcing the conceivability argument
-- [[types-of-ai-phenomenal-experience]] — Six categories for AI phenomenal experience, with null phenomenality (the zombie case) as the first category
+- [[ai-consciousness-typology]] — Six categories for AI phenomenal experience, with null phenomenality (the zombie case) as the first category
 
 ### External Sources
 - David Chalmers, *The Conscious Mind* (1996) — The definitive treatment

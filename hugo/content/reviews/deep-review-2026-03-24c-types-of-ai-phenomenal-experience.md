@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [Types of AI Phenomenal Experience](/concepts/types-of-ai-phenomenal-experience/)
+**Article**: [Types of AI Phenomenal Experience](/concepts/ai-consciousness-typology/)
 **Previous review**: [2026-03-24b](/reviews/deep-review-2026-03-24b-types-of-ai-phenomenal-experience/)
 
 ## Pessimistic Analysis Summary
@@ -80,7 +80,7 @@ topics: []
 - [epiphenomenal-ai-consciousness](/concepts/ai-epiphenomenalism/)
 - [ethics-of-possible-ai-consciousness](/topics/ethics-of-possible-ai-consciousness/)
 - [machine-consciousness](/topics/machine-consciousness/)
-- [ai-consciousness-modes](/concepts/ai-consciousness-modes/)
+- [ai-consciousness-modes](/concepts/ai-consciousness-typology/)
 - [interface-heterogeneity](/concepts/interface-heterogeneity/)
 - [what-it-might-be-like-to-be-an-ai](/apex/what-it-might-be-like-to-be-an-ai/)
 

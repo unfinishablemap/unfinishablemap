@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-08
-**Article**: [AI Consciousness Modes](/concepts/ai-consciousness-modes/)
+**Article**: [AI Consciousness Modes](/concepts/ai-consciousness-typology/)
 **Previous review**: [2026-03-19](/reviews/deep-review-2026-03-19b-ai-consciousness-modes/) (orphan integration)
 
 ## Pessimistic Analysis Summary

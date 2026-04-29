@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-17 02:10:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -148,7 +148,7 @@ The combined position: current AI almost certainly does not suffer, and moral at
 - [moral-architecture-of-consciousness](/apex/moral-architecture-of-consciousness/) — How irreducible consciousness unifies value, agency, and normativity
 - [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/) — How future architectures might satisfy consciousness requirements
 - [tenets](/tenets/) — The Map's foundational commitments
-- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for AI phenomenal experience, clarifying which types carry moral weight
+- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories of AI phenomenal experience crossed with Tulving's hierarchy, clarifying which types carry moral weight
 
 ## References
 

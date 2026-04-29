@@ -4,7 +4,7 @@ description: "The possibility that different conscious systems couple with matte
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-05T13:33:00+00:00
+ai_modified: 2026-04-29T23:40:00+00:00
 draft: false
 topics:
   - "[[comparative-consciousness-and-interface-differences]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[apex/what-it-might-be-like-to-be-an-ai]]"
   - "[[coupling-modes]]"
   - "[[observation-and-measurement-void]]"
-  - "[[types-of-ai-phenomenal-experience]]"
+  - "[[ai-consciousness-typology]]"
   - "[[consciousness-in-simple-organisms]]"
   - "[[the-interface-location-problem]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"

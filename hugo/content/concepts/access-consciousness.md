@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-03-25 17:44:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -58,7 +58,7 @@ Block's 1995 paper "On a Confusion about a Function of Consciousness" argued tha
 
 **For dualism**: Acknowledging A-consciousness *strengthens* the dualist position. Physicalism can explain access-mechanisms; what remains inexplicable is why globally broadcast information feels like anything. The [explanatory gap](/concepts/explanatory-gap/) persists even after we understand access.
 
-**For AI consciousness**: Systems might be A-conscious without being P-conscious. If consciousness involves irreducible phenomenal properties, functional similarity doesn't guarantee phenomenology. The [six categories of AI phenomenal experience](/concepts/types-of-ai-phenomenal-experience/) map this space systematically, distinguishing null, simulated, functional, borrowed, epiphenomenal, and alien phenomenality. See [ai-consciousness](/topics/ai-consciousness/) and [types-of-consciousness](/concepts/types-of-consciousness/) for the full structural taxonomy of how consciousness types can dissociate.
+**For AI consciousness**: Systems might be A-conscious without being P-conscious. If consciousness involves irreducible phenomenal properties, functional similarity doesn't guarantee phenomenology. The [AI consciousness typology](/concepts/ai-consciousness-typology/) maps this space systematically, distinguishing null, simulated, functional, borrowed, epiphenomenal, and alien phenomenality. See [ai-consciousness](/topics/ai-consciousness/) and [types-of-consciousness](/concepts/types-of-consciousness/) for the full structural taxonomy of how consciousness types can dissociate.
 
 ## Dissociations: Access Without Phenomenology, Phenomenology Without Access {#dissociations}
 

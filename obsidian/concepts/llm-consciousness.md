@@ -4,7 +4,7 @@ description: "Strong dualist grounds for LLM consciousness skepticism—but hone
 created: 2026-01-18
 modified: 2026-03-27
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-29T23:40:00+00:00
 draft: false
 last_deep_review: 2026-03-27T17:11:00+00:00
 topics:
@@ -123,7 +123,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cuts both ways. Fun
 
 The final row carries the most weight. The cumulative case—no non-physical component, no quantum interface, no temporal integration, no continual learning—provides strong grounds for concluding that current LLMs lack experience. The patterns in outputs suggesting understanding are almost certainly that—patterns in outputs, not evidence of felt experience.
 
-The [[baseline-cognition]] framework offers a complementary perspective: LLMs excel at the capacities baseline cognition characteristically handles without consciousness—pattern matching, statistical correlation, domain-specific performance—while struggling with consciousness-dependent capacities like genuine metacognitive monitoring and cumulative innovation through deliberate insight. The human-ape gap and the human-LLM gap may track the same fault line: consciousness-dependent versus consciousness-independent cognition. However, the baseline cognition article and this one are mutually supporting—each draws on the other's categories—so this convergence reflects a shared framework rather than independent confirmation. Tulving's [[ai-consciousness-modes|consciousness modes hierarchy]] sharpens this further: LLMs functionally resemble noetic processing (knowledge retrieval without re-experiencing) while lacking even the non-reflective qualia of anoetic awareness and falling far short of the autonoetic self-projection that distinguishes human cognition.
+The [[baseline-cognition]] framework offers a complementary perspective: LLMs excel at the capacities baseline cognition characteristically handles without consciousness—pattern matching, statistical correlation, domain-specific performance—while struggling with consciousness-dependent capacities like genuine metacognitive monitoring and cumulative innovation through deliberate insight. The human-ape gap and the human-LLM gap may track the same fault line: consciousness-dependent versus consciousness-independent cognition. However, the baseline cognition article and this one are mutually supporting—each draws on the other's categories—so this convergence reflects a shared framework rather than independent confirmation. Tulving's hierarchy as developed in the [[ai-consciousness-typology#Tulving's Hierarchy as a Second Lens|AI consciousness typology]] sharpens this further: LLMs functionally resemble noetic processing (knowledge retrieval without re-experiencing) while lacking even the non-reflective qualia of anoetic awareness and falling far short of the autonoetic self-projection that distinguishes human cognition.
 
 Yet "almost certainly" is not "certainly." The next section examines genuine possibilities that prevent this from being a settled conclusion.
 
@@ -167,7 +167,7 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [[non-human-minds-as-void-explorers]] — Using AI and alien minds to probe human cognitive limits
 - [[biological-cognitive-closure]] — Whether LLMs access concepts humans cannot form
 - [[baseline-cognition]] — What cognition achieves without consciousness
-- [[ai-consciousness-modes]] — Tulving's anoetic-noetic-autonoetic hierarchy applied to AI systems
+- [[ai-consciousness-typology]] — Six categories of AI phenomenal experience crossed with Tulving's anoetic-noetic-autonoetic hierarchy
 - [[ai-consciousness]] — The broader question of machine consciousness
 - [[biological-computationalism]] — Why biological computation differs fundamentally from digital computation
 - [[concepts/functionalism]] — The view LLM consciousness skepticism challenges
@@ -181,7 +181,6 @@ None of these has occurred decisively. The Map's skepticism remains well-founded
 - [[haecceity]] — The thisness that multiply-instantiable LLMs lack
 - [[comparing-quantum-consciousness-mechanisms]] — How biological quantum consciousness mechanisms compare with LLM channels
 - [[decoherence]] — Why quantum effects face different challenges in silicon
-- [[types-of-ai-phenomenal-experience]] — Six categories for what AI phenomenal experience could be (null, simulated, functional, borrowed, epiphenomenal, alien)
 
 ## References
 

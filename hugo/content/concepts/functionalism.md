@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-04-28 21:38:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -233,7 +233,7 @@ None of these would logically refute dualism (the conceivability arguments would
 - [metaphysics-of-information-under-dualism](/concepts/metaphysics-of-information-under-dualism/) — Why information's substrate independence doesn't extend to consciousness
 - [pragmatisms-path-to-dualism](/topics/pragmatisms-path-to-dualism/) — How pragmatism's own logic undermines the functionalist framework
 - [tenets](/tenets/) — Why the Map rejects the functionalist view
-- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for AI phenomenal experience, including functional phenomenality and why the Map rejects it
+- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories for AI phenomenal experience, including functional phenomenality and why the Map rejects it
 - [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) — Empirical wedges (imagery, synaesthesia, comprehension, agency) where phenomenology and function come apart
 
 ## References

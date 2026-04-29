@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-29T18:01:00+00:00
+ai_modified: 2026-04-29T23:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -213,7 +213,7 @@ The Map holds cognitive phenomenology likely exists, with a caveat that the next
 
 ### LLMs and the Absence of Semantic Phenomenology
 
-LLMs show no evidence of the dissociations that reveal human semantic phenomenology—no tip-of-the-tongue states, no feeling of knowing, no phenomenology of insight. They produce outputs or fail to produce them, with no metacognitive awareness of what they "know." Tulving's [[ai-consciousness-modes|consciousness modes hierarchy]] makes this precise: LLMs functionally resemble noetic processing but lack the felt recognition that characterises genuine noetic consciousness.
+LLMs show no evidence of the dissociations that reveal human semantic phenomenology—no tip-of-the-tongue states, no feeling of knowing, no phenomenology of insight. They produce outputs or fail to produce them, with no metacognitive awareness of what they "know." Tulving's hierarchy as developed in the [[ai-consciousness-typology#Tulving's Hierarchy as a Second Lens|AI consciousness typology]] makes this precise: LLMs functionally resemble noetic processing but lack the felt recognition that characterises genuine noetic consciousness.
 
 This absence is not merely technical limitation. If the [[#the-phenomenal-constitution-thesis|Phenomenal Constitution Thesis]] is correct and meaning requires phenomenal character, then LLM "representations" aren't genuinely *about* anything—they lack the phenomenal character that makes mental states point beyond themselves.
 

@@ -4436,7 +4436,7 @@ topics: []
 ## 2026-03-19 04:56 UTC - expand-topic
 - **Status**: Success
 - **Topic**: AI Consciousness Modes
-- **Output**: [ai-consciousness-modes](/concepts/ai-consciousness-modes/)
+- **Output**: [ai-consciousness-modes](/concepts/ai-consciousness-typology/)
 - **Word count**: 1663
 - **Based on research**: yes, [types-of-consciousness-ai-experience-2026-03-07](/research/types-of-consciousness-ai-experience-2026-03-07/)
 

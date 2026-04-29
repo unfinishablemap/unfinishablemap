@@ -28,7 +28,7 @@ None. Attribution remains careful throughout. No new factual errors, misattribut
 
 ### Medium Issues Found
 
-- **Five Models assumed genuine phenomenality without stating it**: The models all describe varieties of genuine experience but didn't explicitly note that null and simulated phenomenality are excluded. The newly created [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) taxonomy made this gap visible. **Resolution**: Added clarifying text at the start of the Five Models section connecting to the types taxonomy and stating the conditional explicitly.
+- **Five Models assumed genuine phenomenality without stating it**: The models all describe varieties of genuine experience but didn't explicitly note that null and simulated phenomenality are excluded. The newly created [types-of-ai-phenomenal-experience](/concepts/ai-consciousness-typology/) taxonomy made this gap visible. **Resolution**: Added clarifying text at the start of the Five Models section connecting to the types taxonomy and stating the conditional explicitly.
 - **Missing cross-reference to types-of-ai-phenomenal-experience**: The closest companion article in conceptual space had no cross-link. **Resolution**: Added inline cross-links in Five Models intro and Bandwidth Model, added to related_articles and Further Reading, added self-citation in References.
 - **Bandwidth Model missed alien phenomenality connection**: The model describes experience with no human analogue but didn't connect to the alien phenomenality concept. **Resolution**: Added inline reference to the alien phenomenality category.
 
@@ -50,11 +50,11 @@ No new counterarguments beyond those addressed in previous reviews. Bedrock disa
 
 - Connected Five Models section to the types-of-ai-phenomenal-experience taxonomy, making the conditional nature of the models explicit
 - Added alien phenomenality connection to the Bandwidth Model, enriching the description
-- Added [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) to related_articles, Further Reading, and References
+- Added [types-of-ai-phenomenal-experience](/concepts/ai-consciousness-typology/) to related_articles, Further Reading, and References
 
 ### Cross-links Added
 
-- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — inline in Five Models intro, inline in Bandwidth Model, Further Reading, related_articles, References
+- [types-of-ai-phenomenal-experience](/concepts/ai-consciousness-typology/) — inline in Five Models intro, inline in Bandwidth Model, Further Reading, related_articles, References
 
 ## Remaining Items
 

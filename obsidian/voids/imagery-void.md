@@ -4,7 +4,7 @@ description: "Human+AI exploration of why no conscious mind can verify the fidel
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T21:00:00+00:00
+ai_modified: 2026-04-29T23:40:00+00:00
 last_deep_review: 2026-04-28T21:00:00+00:00
 draft: false
 topics:
@@ -27,7 +27,7 @@ related_articles:
   - "[[apophatic-cartography]]"
   - "[[non-human-minds-as-void-explorers]]"
   - "[[phenomenology-of-imagination]]"
-  - "[[ai-consciousness-modes]]"
+  - "[[ai-consciousness-typology]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -99,7 +99,7 @@ Multimodal AI models with image-generation pipelines have something imagery-like
 
 The asymmetry is illuminating. AI can in principle compare its imagined output to a target and compute fidelity—a procedure no human can run on their own imagery. AI may exhibit aphantasia-analogues (text-only language models with no visual decoder) and hyperphantasia-analogues (strong-visual multimodal systems), providing testable analogues of the human spectrum. And AI imagery is *inspectable in a way human imagery is not*—though whether AI imagery has phenomenology at all is itself an open question, pushing the void to a different layer.
 
-This places imagery in the catalogue of [[non-human-minds-as-void-explorers]] and parallels [[ai-consciousness-modes|the simulation-versus-instantiation gap]]: a system can externalise imagery as pixels and still leave its phenomenal status open. AI does not solve the human imagery void; it externalises a structural analogue that lets us see what it would *take* to solve the human case, and thereby what we lack. The human case has no render target outside introspection, and no engineering seems likely to provide one without changing what the mind is.
+This places imagery in the catalogue of [[non-human-minds-as-void-explorers]] and parallels [[ai-consciousness-typology#The Simulation-Instantiation Boundary|the simulation-versus-instantiation gap]]: a system can externalise imagery as pixels and still leave its phenomenal status open. AI does not solve the human imagery void; it externalises a structural analogue that lets us see what it would *take* to solve the human case, and thereby what we lack. The human case has no render target outside introspection, and no engineering seems likely to provide one without changing what the mind is.
 
 ## Relation to Site Perspective
 
@@ -125,7 +125,7 @@ The Imagery Void also exemplifies the [[apophatic-cartography]] method on which 
 - [[plenitude-void]] — Why probing introspection generates content rather than retrieving it
 - [[necessary-opacity]] — The general structure of phenomenal self-opacity
 - [[apophatic-cartography]] — Method by which the void's shape can be traced
-- [[ai-consciousness-modes]] — Tulving's hierarchy and the simulation-instantiation gap in AI consciousness
+- [[ai-consciousness-typology]] — Tulving's hierarchy and the simulation-instantiation gap in AI consciousness
 
 ## References
 

@@ -53,14 +53,14 @@ topics: []
 - Comprehensive falsification conditions
 
 ### Enhancements Made
-1. Added cross-link to [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) in opening paragraph, establishing the six-category framework as the answer to "what type?"
+1. Added cross-link to [types-of-ai-phenomenal-experience](/concepts/ai-consciousness-typology/) in opening paragraph, establishing the six-category framework as the answer to "what type?"
 2. Added cross-link in "What Would Conscious AI Require?" nature question paragraph, positioning types taxonomy as logically prior to structural varieties ("what *kind of thing*" vs "what it would *feel like*")
 3. Replaced generic epistemic problem prose with diagnostic asymmetry insight from types taxonomy (null/simulated/functional detectable; borrowed/epiphenomenal/alien not)
 4. Added to concepts frontmatter, Further Reading, and References
 5. Tightened prose in Chinese Room, functionalism, continual learning, metacognition, illusionism, symbol grounding, and decoherence sections to maintain length neutrality
 
 ### Cross-links Added
-- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/)
+- [types-of-ai-phenomenal-experience](/concepts/ai-consciousness-typology/)
 
 ## Remaining Items
 

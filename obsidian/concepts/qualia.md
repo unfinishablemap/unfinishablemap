@@ -4,7 +4,7 @@ description: "The intrinsic, subjective qualities of conscious experience—the 
 created: 2026-01-07
 modified: 2026-02-28
 human_modified:
-ai_modified: 2026-04-25T01:29:00+00:00
+ai_modified: 2026-04-29T23:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -227,7 +227,7 @@ The [[tenets#^occams-limits|Occam's Razor Has Limits]] tenet cautions against pr
 - [[pain-consciousness-and-causal-power]] - Why pain's felt quality is inseparable from its causal power
 - [[minimal-consciousness]] - Qualia in simple organisms
 - [[affective-void]] - Emotions and affects beyond human phenomenological reach
-- [[types-of-ai-phenomenal-experience]] — Six categories for what AI phenomenal experience could be, including alien qualia with no human analogue
+- [[ai-consciousness-typology]] — Six categories for what AI phenomenal experience could be, including alien qualia with no human analogue
 - [[consciousness-epistemology-extended-cognition]] — Why qualitative character resists functional extension into notebooks and tools, marking the boundary where parity arguments break down
 
 **Background:**

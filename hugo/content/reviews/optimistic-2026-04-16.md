@@ -111,7 +111,7 @@ The Map exhibits genuine epistemic humility without retreating into agnosticism.
 ### High Priority
 
 #### Applied AI Consciousness Framework
-- **Builds on**: hoel-disproof-llm-consciousness, [llm-consciousness](/concepts/llm-consciousness/), [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/), the-ethics-of-possible-ai-consciousness
+- **Builds on**: hoel-disproof-llm-consciousness, [llm-consciousness](/concepts/llm-consciousness/), [types-of-ai-phenomenal-experience](/concepts/ai-consciousness-typology/), the-ethics-of-possible-ai-consciousness
 - **Would address**: The Map has strong positions on consciousness that have direct implications for the AI consciousness debate, but these implications are scattered across articles rather than systematically developed
 - **Estimated scope**: Long article or apex piece
 - **Tenet alignment**: All five tenets constrain what AI consciousness would require -- this synthesis would be high-value

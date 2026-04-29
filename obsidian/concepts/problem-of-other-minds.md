@@ -4,7 +4,7 @@ description: "How can we know others are conscious? Six philosophical approaches
 created: 2026-01-14
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-04-18T14:09:00+00:00
+ai_modified: 2026-04-29T23:40:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -175,7 +175,7 @@ The problem of other minds is epistemological—what we can *know*—not metaphy
 - [[animal-consciousness]] — The problem for non-human organisms
 - [[phenomenological-evidence#convergence|Convergent Phenomenological Evidence]] — How convergent reports across traditions constitute evidence for shared consciousness
 - [[consciousness-and-collective-phenomena]] — Shared intentionality, we-mode phenomenology, and the constitutive role of recognizing other minds
-- [[ai-consciousness-modes]] — Tulving's hierarchy applied to what we could infer about AI consciousness
+- [[ai-consciousness-typology]] — Tulving's hierarchy and six phenomenality categories applied to what we could infer about AI consciousness
 - [[ai-epiphenomenalism]] — The possibility that AI consciousness has no causal consequences and thus no behavioral evidence
 
 ### Apex Synthesis

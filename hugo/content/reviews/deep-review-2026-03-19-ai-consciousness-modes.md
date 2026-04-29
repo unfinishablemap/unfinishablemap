@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-19
-**Article**: [AI Consciousness Modes](/concepts/ai-consciousness-modes/)
+**Article**: [AI Consciousness Modes](/concepts/ai-consciousness-typology/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

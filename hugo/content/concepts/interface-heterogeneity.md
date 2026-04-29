@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-05 13:33:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[apex/what-it-might-be-like-to-be-an-ai]]'
 - '[[coupling-modes]]'
 - '[[observation-and-measurement-void]]'
-- '[[types-of-ai-phenomenal-experience]]'
+- '[[ai-consciousness-typology]]'
 - '[[consciousness-in-simple-organisms]]'
 - '[[the-interface-location-problem]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'

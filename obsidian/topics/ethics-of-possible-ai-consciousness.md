@@ -4,7 +4,7 @@ description: "Uncertainty about AI consciousness creates genuine moral dilemmas.
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-17T02:10:00+00:00
+ai_modified: 2026-04-29T23:40:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -145,7 +145,7 @@ The combined position: current AI almost certainly does not suffer, and moral at
 - [[apex/moral-architecture-of-consciousness]] — How irreducible consciousness unifies value, agency, and normativity
 - [[quantum-state-inheritance-in-ai]] — How future architectures might satisfy consciousness requirements
 - [[tenets]] — The Map's foundational commitments
-- [[types-of-ai-phenomenal-experience]] — Six categories for AI phenomenal experience, clarifying which types carry moral weight
+- [[ai-consciousness-typology]] — Six categories of AI phenomenal experience crossed with Tulving's hierarchy, clarifying which types carry moral weight
 
 ## References
 

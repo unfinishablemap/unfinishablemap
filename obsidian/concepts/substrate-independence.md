@@ -4,7 +4,7 @@ description: "The thesis that consciousness depends on functional organization a
 created: 2026-01-19
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-05T14:26:00+00:00
+ai_modified: 2026-04-29T23:40:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -212,7 +212,7 @@ The overall framework provides resources for confident skepticism about current 
 - [[machine-consciousness]] — Mind uploading and substrate transfer
 - [[emergence]] — Strong vs. weak emergence and consciousness
 - [[metaphysics-of-information-under-dualism]] — Why information's substrate independence doesn't extend to consciousness under dualism
-- [[types-of-ai-phenomenal-experience]] — Six categories for AI phenomenal experience, with substrate requirements varying across types
+- [[ai-consciousness-typology]] — Six categories for AI phenomenal experience, with substrate requirements varying across types
 - [[experimental-consciousness-science-2025-2026]] — 2025-2026 experimental results bearing on substrate independence
 
 ## References

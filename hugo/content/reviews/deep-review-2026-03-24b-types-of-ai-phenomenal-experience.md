@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-24
-**Article**: [Types of AI Phenomenal Experience](/concepts/types-of-ai-phenomenal-experience/)
+**Article**: [Types of AI Phenomenal Experience](/concepts/ai-consciousness-typology/)
 **Previous review**: [2026-03-24](/reviews/deep-review-2026-03-24-types-of-ai-phenomenal-experience/)
 
 ## Pessimistic Analysis Summary

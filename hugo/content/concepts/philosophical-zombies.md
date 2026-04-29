@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-28 01:31:00+00:00
+ai_modified: 2026-04-29 23:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -222,7 +222,7 @@ The zombie argument connects to all five of the Map's tenets.
 - [problem-of-other-minds](/concepts/problem-of-other-minds/) — The broader epistemological puzzle about knowing others are conscious
 - [metaproblem-of-consciousness-under-dualism](/topics/metaproblem-of-consciousness-under-dualism/) — The zombie divergence prediction: how conscious and zombie problem reports should differ
 - [language-and-consciousness](/concepts/language-and-consciousness/) — How meaning and reference fail for zombie utterances, reinforcing the conceivability argument
-- [types-of-ai-phenomenal-experience](/concepts/types-of-ai-phenomenal-experience/) — Six categories for AI phenomenal experience, with null phenomenality (the zombie case) as the first category
+- [ai-consciousness-typology](/concepts/ai-consciousness-typology/) — Six categories for AI phenomenal experience, with null phenomenality (the zombie case) as the first category
 
 ### External Sources
 - David Chalmers, *The Conscious Mind* (1996) — The definitive treatment
