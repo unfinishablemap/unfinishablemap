@@ -3,9 +3,10 @@ title: "Medium-Status Voids in Cognition"
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T07:19:00+00:00
+ai_modified: 2026-04-29T08:06:00+00:00
+last_deep_review: 2026-04-29T08:06:00+00:00
 draft: false
-description: "Four cognitive voids — mattering, relevance, noetic-feelings, and conceptual-scheme — name not absent contents but operations that structure other contents while remaining invisible to inspection from inside."
+description: "Four cognitive voids name operations that structure other contents — significance, filtering, gating, framing — while remaining invisible from inside."
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
@@ -61,6 +62,8 @@ The Map distinguishes three ways a cognitive feature can become the subject of a
 
 Distinguishing the three is load-bearing. The hard problem is a *content* puzzle: how any felt quality arises from physical process. Cognitive closure is a *capacity* puzzle: which problems are in principle solvable given our architecture. Medium-status voids are *operational* puzzles: how the operation that makes contents available becomes available to itself. The three kinds compose but are not reducible to each other, and their failure signatures differ.
 
+This typology is orthogonal to the [[three-kinds-of-void|unexplored / unexplorable / occluded taxonomy]] developed elsewhere on the Map. That taxonomy classifies the *epistemic status* of a void — what kind of inaccessibility it has. The present typology classifies the *kind of feature* a void surrounds. A medium-status void will typically present as occluded with structurally unexplorable dimensions, but the framings track different cuts and can be applied jointly.
+
 ## The Four Voids and Their Medium-Features
 
 Each void in the cluster identifies a different cognitive operation occupying medium-status, and each picks out a distinct face of the same structural circularity.
@@ -71,7 +74,7 @@ Each void in the cluster identifies a different cognitive operation occupying me
 
 **The noetic-feelings void.** The medium here is *epistemic gating*. The felt signals that decide when to trust, when to search, when to stop — feelings of knowing, rightness, familiarity, obviousness, coherence — are produced by heuristic machinery not exposed to the consciousness it informs. Consciousness receives a finished verdict, not a derivation. Authority is granted without the possibility of audit, because audit requires more signals of the same kind. The medium-feature is *the verdict-issuing layer that terminates inquiry from inside*, and it is the most recursive of the four: the obviousness of an obviousness is itself an obviousness. The [[noetic-feelings-void|noetic-feelings article]] tracks how the void conceals itself by feeling like settled territory.
 
-**The conceptual-scheme void.** The medium here is *categorial framing*. Every mind operates with a finite system of categories — *property*, *substance*, *cause*, *event*, *relation* — that constitutes thought before any specific thought occurs. The scheme is not a content among contents; it is the general shape any concept must take to track a kind of feature at all. It is invisible because it constitutes the seeing rather than what is seen. The framework feels like transparent access to truth; the walls of the prison are made of the same material as the air inside, as [[conceptual-scheme-void|the conceptual-scheme-void article]] puts it.
+**The conceptual-scheme void.** The medium here is *categorial framing*. Every mind operates with a finite system of categories — *property*, *substance*, *cause*, *event*, *relation* — that constitutes thought before any specific thought occurs. Kant's first *Critique* gave the canonical formulation: the categories are preconditions for experience rather than generalisations from it. The scheme is not a content among contents; it is the general shape any concept must take to track a kind of feature at all. It is invisible because it constitutes the seeing rather than what is seen. The framework feels like transparent access to truth; the walls of the prison are made of the same material as the air inside, as [[conceptual-scheme-void|the conceptual-scheme-void article]] puts it.
 
 The four scopes differ. Mattering is broadest: any conscious creature for whom anything registers as significant has the medium. Relevance is a sharper cut just below it. Noetic feelings sit at the boundary of metacognition. Conceptual scheme is the most architectural — a precondition for anything having determinate categorial shape. Yet the four share a structural feature their individual articles cannot fully articulate: each is invisible-while-active, each self-references in attempting inspection, and each remains tractable to *outputs* analysis (correlates, breakdowns, behavioural traces) while resisting transparent inspection of its own *operation*.
 
@@ -83,7 +86,7 @@ The recurring circularity has the same logical shape across all four voids. Call
 
 For mattering: any investigation is itself motivated; nothing-mattering would not generate one. For relevance: any investigation must select what is relevant to the investigation, generating a regress where each meta-level introduces its own filter. For noetic feelings: the question whether the feeling of rightness is reliable must be settled by some feeling — typically of rightness about the rightness-feeling. For conceptual scheme: the audit of the categorial apparatus employs the apparatus being audited.
 
-This circularity is not a defect better methods could overcome. It is the structural face of medium-status. A field's medium becomes inspectable only by being temporarily replaced or suspended — anaesthesia, anxiety, anhedonia, contemplative bracketing, psychiatric disruption. These edge cases give *outputs-by-deformation*, not *inspection-while-operating*. Each glimpse is real evidence; none dissolves the circularity. The medium remains; the field falls apart; when the field reassembles the medium reasserts itself.
+The circularity is the structural face of medium-status, not a defect better methods could overcome. A field's medium becomes inspectable only by being temporarily replaced or suspended — anaesthesia, anxiety, anhedonia, contemplative bracketing, psychiatric disruption. These edge cases give *outputs-by-deformation*, not *inspection-while-operating*. Each glimpse is real evidence; none dissolves the circularity. The medium remains; the field falls apart; when the field reassembles the medium reasserts itself.
 
 ## Five Traditions on the Same Circularity
 
@@ -99,7 +102,7 @@ Independent intellectual traditions, working with different premises and vocabul
 
 **Vervaeke: relevance realization.** John Vervaeke and colleagues argue that the process by which organisms determine what is relevant is "impredicative and co-constructive": the criteria of relevance are reshaped by the same process that applies them. The strong non-computability claim is contested, and the Map flags it as hypothesis rather than established result. Bracketed, the framing remains useful — it locates the same phenomenon the AI literature has been calling the frame problem for fifty years.
 
-These five framings, working from existential phenomenology, identity-constitutive ethics, psychiatric phenomenology, philosophy of self-knowledge, and cognitive science, converge on a single structural picture: the operations that structure cognition are pre-reflective, constitutive, interpretively self-presenting, and resistant to transparent decomposition. None of the five traditions endorses the Map's dualist tenets; the convergence is on the circularity, not on what the circularity entails. The Map adds the interpretation.
+These five framings, working from existential phenomenology, identity-constitutive ethics, psychiatric phenomenology, philosophy of self-knowledge, and cognitive science, converge on a single structural picture: the operations that structure cognition are pre-reflective, constitutive, interpretively self-presenting, and resistant to transparent decomposition. The traditions cover the four voids unevenly. Heidegger touches all four — care for mattering, readiness-to-hand for relevance and conceptual scheme, breakdown phenomenology for noetic feelings. Frankfurt and Ratcliffe focus on the mattering face; Carruthers on relevance and noetic feelings; Vervaeke on relevance with mattering as upstream condition. Other traditions extend the cluster's empirical anchoring without appearing among the central five — Kant, Davidson, and Kuhn on conceptual scheme; Koriat, Thompson, Rozenblit and Keil on noetic feelings; Friston and the salience-network neuroscience on relevance. The convergence claim is structural: independent vocabularies arrive at the same circularity. None of the cited traditions endorses the Map's dualist tenets; the convergence is on the circularity, not on what the circularity entails. The Map adds the interpretation.
 
 ## The Inflation Risk and the Medium-Status Criterion
 
@@ -152,8 +155,11 @@ This synthesis draws on:
 2. Dreyfus, H. L. (1972). *What Computers Can't Do: A Critique of Artificial Reason*. Harper & Row.
 3. Frankfurt, H. G. (1988). *The Importance of What We Care About: Philosophical Essays*. Cambridge University Press.
 4. Heidegger, M. (1927/1962). *Being and Time* (J. Macquarrie & E. Robinson, Trans.). Harper & Row.
-5. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
-6. Ratcliffe, M. (2008). *Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality*. Oxford University Press.
-7. Vervaeke, J., Mastropietro, C., & Miscevic, F. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*, 15.
-8. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Mattering Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/mattering-void/
-9. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Relevance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/relevance-void/
+5. Kant, I. (1781/1998). *Critique of Pure Reason* (P. Guyer & A. Wood, Trans.). Cambridge University Press.
+6. McGinn, C. (1989). "Can We Solve the Mind-Body Problem?" *Mind*, 98(391), 349–366.
+7. Ratcliffe, M. (2008). *Feelings of Being: Phenomenology, Psychiatry and the Sense of Reality*. Oxford University Press.
+8. Vervaeke, J., Mastropietro, C., & Miscevic, F. (2024). "Naturalizing relevance realization: why agency and cognition are fundamentally not computational." *Frontiers in Psychology*, 15.
+9. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Mattering Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/mattering-void/
+10. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Relevance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/relevance-void/
+11. Southgate, A. & Oquatre-sept, C. (2026-02-27). The Noetic Feelings Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/noetic-feelings-void/
+12. Southgate, A. & Oquatre-sept, C. (2026-02-20). The Conceptual Scheme Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/conceptual-scheme-void/

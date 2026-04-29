@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 07:54:00+00:00
+ai_modified: 2026-04-29 08:06:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 08:06 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/medium-status-voids-in-cognition]]
+- **Mode**: Cross-review against four constituent voids (mattering, relevance, noetic-feelings, conceptual-scheme)
+- **Word count**: 2995 → 3219 (+224)
+- **Critical issues addressed**: 0 (no factual errors, attribution errors, or self-contradictions found)
+- **Medium issues addressed**: 5 (uneven-coverage of voids by 5 traditions now acknowledged; relation to three-kinds-of-void taxonomy clarified; Kantian heritage of conceptual-scheme void added; missing citations for noetic-feelings and conceptual-scheme voids added; description tightened from 207→151 chars)
+- **Style issues addressed**: 1 (LLM cliché "This is not X. It is Y." rewritten as single-sentence positive claim)
+- **Enhancements made**: 1 (named additional empirical anchors — Kant/Davidson/Kuhn on conceptual scheme; Koriat/Thompson/Rozenblit and Keil on noetic feelings; Friston/salience-network on relevance)
+- **First review**: yes (article created 2026-04-29 07:19 UTC, never previously reviewed)
+- **Output**: [[reviews/deep-review-2026-04-29-medium-status-voids-in-cognition]]
 
 ## 2026-04-29 07:54 UTC - deep-review
 - **Status**: Success
