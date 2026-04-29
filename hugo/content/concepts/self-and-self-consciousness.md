@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-23
-ai_modified: 2026-04-23 20:16:25+00:00
+ai_modified: 2026-04-29 03:19:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ description: The minimal self is not added to consciousness but is its very form
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-23 22:30:00+00:00
+last_deep_review: 2026-04-29 03:19:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -99,7 +99,7 @@ The theory faces several objections: the **regress problem** (what makes the hig
 
 Between the minimal self and narrative self lies [autonoetic consciousness](/concepts/anoetic-noetic-autonoetic-consciousness/) — the ability to mentally travel through time, re-inhabiting past experience from a first-person perspective rather than merely accessing facts.
 
-This capacity may be constitutive of the temporally extended self. The minimal self provides "for-me-ness" in each moment, but what connects these moments into a person? The [consciousness and memory](/topics/consciousness-and-memory/) article examines this: Tulving's hierarchy maps three forms of consciousness onto three memory systems, with autonoetic consciousness constituting the temporally extended self. Children don't develop it fully until age 4-5, explaining childhood amnesia; Buddhist meditation traditions observe that when mental time travel ceases, only the bare minimal self remains.
+This capacity may be constitutive of the temporally extended self. The minimal self provides "for-me-ness" in each moment, but what connects these moments into a person? The [consciousness and memory](/topics/consciousness-and-memory/) article examines this: Tulving's hierarchy maps three forms of consciousness onto three memory systems, with autonoetic consciousness constituting the temporally extended self. Children don't develop it fully until age 4-5, a leading explanation for childhood amnesia; Buddhist meditation traditions observe that when mental time travel ceases, only the bare minimal self remains.
 
 ## Metacognition and the Self
 

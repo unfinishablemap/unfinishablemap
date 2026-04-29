@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-15
-ai_modified: 2026-04-28 11:55:00+00:00
+ai_modified: 2026-04-29 02:05:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -17,6 +17,7 @@ concepts:
 - '[[consciousness-only-territories]]'
 - '[[intrinsic-nature-void]]'
 - '[[objectivity-and-consciousness]]'
+- '[[phenomenology-vs-function-axis]]'
 created: 2026-01-15
 date: &id001 2026-01-15
 description: Mary knows all physical facts about color but seems to learn something
@@ -24,7 +25,7 @@ description: Mary knows all physical facts about color but seems to learn someth
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-28 11:55:00+00:00
+last_deep_review: 2026-04-29 02:05:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -122,6 +123,8 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 **[The Aesthetic Extension](/topics/aesthetics-and-consciousness/)**: A stronger variant—someone with complete physical knowledge of Bach's *Goldberg Variations* learns an integrated aesthetic fact upon hearing them that exceeds both physical and simpler phenomenal facts.
 
 **[The Cognitive Extension](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)**: If cognitive phenomenology is irreducible, the argument generalises to mathematical understanding: knowing every physical fact about proof-processing yet learning something new upon first *grasping* why a conclusion follows.
+
+**[The Empirical Wedge](/concepts/phenomenology-vs-function-axis/)**: Mary's Room is the most stringent thought-experiment version of a wedge that empirical work has driven in other domains. The phenomenology-vs-function axis catalogues clinical and experimental cases—aphantasic mental rotation strategies, synaesthetic extra qualia, Strawson's foreign-language understanding, Wegner's I-Spy authorship dissociation—where phenomenology and function come apart in actual subjects rather than imagined scenarios. Together with Mary, the cross-domain pattern constrains functionalism without refuting it and resists single-rejoinder dispatch: the multi-realizability move that absorbs imagery has to absorb the others by the same logic.
 
 **Convergence**: The knowledge argument is one of several converging [arguments for dualism](/concepts/dualism/)—alongside the explanatory gap, conceivability, inverted qualia, modal arguments, and more. Their cumulative force exceeds any individual argument.
 

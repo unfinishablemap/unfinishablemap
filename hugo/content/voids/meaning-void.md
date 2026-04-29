@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-04-26 18:27:00+00:00
+ai_modified: 2026-04-29 04:20:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -23,7 +23,7 @@ description: How thoughts achieve aboutness, and what understanding feels like o
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-26 18:27:00+00:00
+last_deep_review: 2026-04-29 04:20:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -31,6 +31,7 @@ related_articles:
 - '[[self-opacity]]'
 - '[[imagination-and-creativity-void]]'
 - '[[intrinsic-nature-void]]'
+- '[[mattering-void]]'
 - '[[three-kinds-of-void]]'
 - '[[what-voids-reveal]]'
 - '[[compound-failure-signatures]]'
@@ -162,6 +163,7 @@ The meaning void also exemplifies the [constitutive thesis](/voids/void-as-groun
 - [self-opacity](/voids/self-opacity/) — The observer that cannot observe itself observing
 - [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — Where insight originates, equally opaque to introspection
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — Physics describes structure without intrinsic character; meaning's analogue
+- [mattering-void](/voids/mattering-void/) — Why anything shows up as significant; meaning's inaccessibility itself shows up as mattering
 - [language-thought-boundary](/voids/language-thought-boundary/) — Where the sayable diverges from the thinkable
 - [three-kinds-of-void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded
 - [compound-failure-signatures](/voids/compound-failure-signatures/) — Using the structure of failure as data

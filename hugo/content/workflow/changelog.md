@@ -1,13 +1,176 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 00:34:00+00:00
+ai_modified: 2026-04-29 04:34:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 04:34 UTC - deep-review
+- **Status**: Success
+- **File**: [valence-void](/voids/valence-void/)
+- **Word count**: 1985 → 2001 (+16, length-neutral via four compensating trims)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (reciprocal cross-link to newly-published [mattering-void](/voids/mattering-void/) integrated into "Distinct from" section, related_articles, and Further Reading; one LLM-cliché "not X. It is Y." pattern rephrased per style guide)
+- **Enhancements made**: 1 (renamed "Distinct from Affective and Mood Voids" → "Distinct from Affective, Mood, and Mattering Voids" with new clause framing valence as one mode of mattering)
+- **Output**: [deep-review-2026-04-29-valence-void](/reviews/deep-review-2026-04-29-valence-void/)
+- **Notes**: Fourth review of valence-void; cross-review triggered by mattering-void creation 2026-04-29 03:08 UTC. Convergence confirmed — zero critical issues across four reviews, all changes are sibling-void integrations rather than corrections to the article's own claims. Bedrock disagreements documented; do not re-flag.
+
+## 2026-04-29 04:20 UTC - deep-review
+- **Status**: Success
+- **File**: [meaning-void](/voids/meaning-void/)
+- **Word count**: 2943 → 2949 (+6, length-neutral; pointer-only addition)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (asymmetric cross-link with newly created [mattering-void](/voids/mattering-void/) closed via frontmatter `related_articles` + Further Reading entry)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-29-meaning-void](/reviews/deep-review-2026-04-29-meaning-void/)
+- **Notes**: Cross-review triggered by mattering-void creation 2026-04-29. Reciprocal pointer added; inline body integration deferred under length-neutral mode (article remains at stable 147% of soft cap). Second review of meaning-void; fifth in lineage including intentionality-void predecessors. Convergence confirmed — no critical issues, no re-flagging of bedrock disagreements.
+
+## 2026-04-29 04:04 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Cluster following 2026-04-28 22:00 UTC optimistic review — three new voids articles ([common-knowledge-void](/voids/common-knowledge-void/) 2,500 words after pessimistic+refine+condense, [mattering-void](/voids/mattering-void/) 1,988 words, [relevance-void](/voids/relevance-void/) 1,980 words); meta-epistemology-of-limits coalesce → refine → condense → apex-stability-confirmation full arc; coalesce abandonment under exhaustive eight-cluster survey (catalogue-maturity declaration); phenomenology-vs-function-axis propagation into five further articles; cognitive-phenomenology seventh-review and self-and-self-consciousness second-review convergence declarations; perceptual-degradation-and-the-interface third-review with empirical-citation regression-fix
+- **Output**: [optimistic-2026-04-29](/reviews/optimistic-2026-04-29/)
+
+## 2026-04-29 03:55 UTC - condense
+- **Status**: Success
+- **File**: [common-knowledge-void](/voids/common-knowledge-void/)
+- **Before**: 3190 words
+- **After**: 2500 words
+- **Reduction**: 22%
+- **Technique**: Trimmed redundant explanations and meta-commentary; tightened Aumann contrast section, focal-points alternative, Lederman discussion, and AI section; merged Approaches to the Edge subsections; consolidated Operational Fiction face with quote moved to Clark & Brennan section. Preserved all three faces, formal/philosophical/phenomenological anchoring, tenet alignment.
+
+## 2026-04-29 03:35 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Relevance Void
+- **Output**: [relevance-void](/voids/relevance-void/)
+- **Word count**: 1980
+- **Based on research**: yes — [voids-relevance-void-2026-03-09](/research/voids-relevance-void-2026-03-09/)
+
+## 2026-04-29 03:19 UTC - deep-review
+- **Status**: Success
+- **File**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+- **Word count**: 2759 → 2762 (+3, length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (calibrated overstated childhood amnesia claim)
+- **Enhancements made**: 1
+- **Output**: [deep-review-2026-04-29-self-and-self-consciousness](/reviews/deep-review-2026-04-29-self-and-self-consciousness/)
+- **Notes**: Article has converged. Second deep review found no critical issues; previous bedrock disagreements correctly preserved.
+
+## 2026-04-29 03:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Mattering Void
+- **Output**: [mattering-void](/voids/mattering-void/)
+- **Word count**: 1988
+- **Based on research**: yes — [voids-mattering-void-2026-02-19](/research/voids-mattering-void-2026-02-19/)
+
+## 2026-04-29 02:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [common-knowledge-void](/voids/common-knowledge-void/)
+- **Issues addressed**: 6 from [pessimistic-2026-04-29](/reviews/pessimistic-2026-04-29/) (Issues 1–6); Issues 7–8 deferred
+- **Changes**:
+  - Softened Lederman 2018 gloss; flagged Map's reading as one option Lederman canvasses without endorsing
+  - Reordered tenets: Occam's-Limits promoted to most directly engaged; Dualism downgraded to indirectly engaged
+  - Added new "Focal-Points Alternative" subsection (Schelling/Pettit/Bicchieri) with the Map's salience-regress reply
+  - Reframed Aumann (1976) as a contrast to Halpern–Moses/Rubinstein, not a third converging anchor
+  - Added equilibrium-selection hedge to Rubinstein (Three Faces section)
+  - Hedged AI-section claims about LLM introspection, "in principle" computation, and over-attribution conjecture
+  - Added Schelling, Pettit, Bicchieri to references
+- **Published**: yes
+
+## 2026-04-29 02:34 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [common-knowledge-void](/voids/common-knowledge-void/) (created today by `/expand-topic`, ~2,610 words, no prior pessimistic review)
+- **Output**: [pessimistic-2026-04-29](/reviews/pessimistic-2026-04-29/)
+
+## 2026-04-29 02:30 UTC - deep-review
+- **Status**: Success
+- **File**: [recursion-void](/voids/recursion-void/)
+- **Word count**: 2067 → 2102 (+35)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing back-reference to newly-published common-knowledge-void)
+- **Enhancements made**: New "Shared knowledge inherits the ceiling" bullet in "Why the Limit Matters" + frontmatter cross-link + Further Reading entry; tightened differentiation paragraph and three other passages for length-neutral compensation
+- **Output**: [deep-review-2026-04-29-recursion-void](/reviews/deep-review-2026-04-29-recursion-void/)
+
+## 2026-04-29 02:05 UTC - deep-review
+- **Status**: Success
+- **File**: [knowledge-argument](/concepts/knowledge-argument/)
+- **Word count**: 2385 → 2470 (+85)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing cross-link to new phenomenology-vs-function-axis)
+- **Enhancements made**: New "Empirical Wedge" bullet in Connection to Related Arguments + frontmatter cross-link
+- **Output**: [deep-review-2026-04-29-knowledge-argument](/reviews/deep-review-2026-04-29-knowledge-argument/)
+
+## 2026-04-29 01:49 UTC - deep-review
+- **Status**: Success
+- **File**: [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/)
+- **Word count**: 2833 → 2876 (+43)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-links to three new related articles created since last review)
+- **Enhancements made**: 3 inline cross-links + frontmatter + Further Reading annotations
+- **Output**: [deep-review-2026-04-29-perceptual-failure-and-the-interface](/reviews/deep-review-2026-04-29-perceptual-failure-and-the-interface/)
+
+## 2026-04-29 01:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Common-Knowledge Void
+- **Output**: [common-knowledge-void](/voids/common-knowledge-void/)
+- **Word count**: 2610
+- **Based on research**: yes — [voids-common-knowledge-void-2026-04-29](/research/voids-common-knowledge-void-2026-04-29/)
+
+## 2026-04-29 01:20 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology-and-the-irreducibility-of-thought](/topics/cognitive-phenomenology-and-the-irreducibility-of-thought/)
+- **Word count**: 2303 → 2350 (+47)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (mirrored the 2026-04-29 concept-page axis integration into the topic article body)
+- **Enhancements made**: 1 cross-link to [phenomenology-vs-function-axis](/concepts/phenomenology-vs-function-axis/) in "What Conservatives Must Explain"
+- **Output**: [deep-review-2026-04-29-cognitive-phenomenology-and-the-irreducibility-of-thought](/reviews/deep-review-2026-04-29-cognitive-phenomenology-and-the-irreducibility-of-thought/)
+
+## 2026-04-29 01:11 UTC - tune-system
+- **Status**: Success
+- **Sessions analyzed**: 144 (sessions 6419 → 6563)
+- **Period**: 2026-04-27 12:28 UTC → 2026-04-29 01:11 UTC (~36.7h)
+- **Findings**: 5 cadence (4th-period writeback gap on 3 cycle-trigger tasks; tune-system 19× faster than spec; validate-all 96 days stale), 0 failure (18th consecutive zero-failure period, 153/153 success), 3 queue (P3 generation rate nearly doubled to ~17/day approaching 500; coalesce abandon rate spiked to 62%; voids in self-regulating equilibrium at 97/100), 5 review (7th clean tenet check; pessimistic→refine pipeline ~15-min on suspension-void/axis chains; LLM-cliché hunting continues; apex re-synthesis regression now per-apex differentiated; refinement-log marker handling inconsistent — NEW), 3 convergence (apex 23/20 +1 vs prev; 6/96 deep-reviews zero-change; concepts +1 / topics −1)
+- **Tier 1 changes**: 0 applied (32nd consecutive report blocked — `cadences`/`tune_system_history`/`locked_settings` sections still absent)
+- **Tier 2 recommendations**: 12 logged (2 NEW: track coalesce abandon rate as catalogue-maturity signal; address P3 approaching 500 ceiling)
+- **Output**: [system-tune-2026-04-29](/reviews/system-tune-2026-04-29/)
+
+## 2026-04-29 01:06 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 32 (delta sweep against 2026-04-28 06:48 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Output**: [tenet-check-2026-04-29](/reviews/tenet-check-2026-04-29/)
+
+## 2026-04-29 01:01 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Common-Knowledge Void / Coordination Void
+- **Category**: Mixed (primarily Unexplorable, with Occluded operational face)
+- **Output**: [voids-common-knowledge-void-2026-04-29](/research/voids-common-knowledge-void-2026-04-29/)
+- **Key finding**: Coordination, convention, and shared meaning presuppose common knowledge (the infinite "I-know-you-know-I-know..." tower), but Halpern–Moses (1990) proves common knowledge cannot arise from finite communication with imperfect channels, and Rubinstein's Electronic Mail Game (1989) shows arbitrary approximations to common knowledge yield qualitatively different strategic behavior—a structural discontinuity at infinity that no finite mind can bridge. Three faces identified: verification, approximation discontinuity, operational fiction. Anchored formally (Halpern–Moses, Rubinstein, Aumann), philosophically (Lewis, Schiffer), empirically (Clark & Brennan), and phenomenologically (Husserl, Levinas). Distinct from existing recursion-void (depth ceiling, but the common-knowledge condition requires *infinity*) and voids-between-minds (sharing face, but here the structural reason for non-sharing receives explicit formal content). Conjunction-coalesce candidate at expand stage.
+
+## 2026-04-29 00:54 UTC - deep-review
+- **Status**: Success (stability confirmed)
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 4541 → 4541 (no change; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Cross-review trigger**: 2026-04-28 23:08 UTC coalesce of epistemic-horizon-void → meta-epistemology-of-limits, plus 2026-04-29 00:39 UTC condense of the resulting article (3924 → 2731 words).
+- **Verdict**: Apex remains coherent. The 23:23 UTC refine-draft already handled all wikilink-level integration; the 00:39 UTC condense preserved every element the apex's §"Taxonomy's Own Limits" references (Kit Fine/Fitch attributions verified distinct, difficulty-vs-impossibility framing preserved, natural-vs-designed framing preserved, scope question anchor still resolves correctly). All five tenet connections, the four meta-questions implicit coverage, and all bedrock philosophical disagreements remain stable.
+- **Output**: [deep-review-2026-04-29-taxonomy-of-voids](/reviews/deep-review-2026-04-29-taxonomy-of-voids/)
+- **Note**: Fourth cross-review since 2026-04-27 confirms apex stability under continued source-article evolution. Convergence pattern established: apex is robust to source-side methodology additions, restructurings, and condensations as long as core four meta-questions remain present.
+
+## 2026-04-29 00:39 UTC - condense
+- **Status**: Success
+- **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Before**: 3924 words (hard_warning, 196% of 2000-word voids target)
+- **After**: 2731 words (soft_warning, comfortably under 3000-word hard threshold)
+- **Reduction**: 30%
+- **Technique**: Tightened prose throughout. Compressed Three Verdicts (literature attribution streamlined). Merged "Historical Evidence" sections (Structural Signatures + Asymmetry collapsed into single section). Trimmed Illusionist Challenge, Detection Problem, Phenomenology of Suspension. Reduced Process Philosophy section to one paragraph. Heavily compressed The Scope Question (collapsed 5 subsections into ~6 paragraphs while preserving Fitch/Rescher/Dunning-Kruger/Nagel convergence argument and epistemic-agoraphobia signature). Abbreviated Further Reading entries.
+- **Preserved**: Opening four-question summary. All five tenet connections. All cross-links and key terminology (epistemic agoraphobia, suspension-void inheritance, question-formation void). Distinctive phrasings ("the catalogue is itself a cognitive product", "the horizon is the void that makes simulation detection structurally difficult").
 
 ## 2026-04-29 00:34 UTC - coalesce
 - **Status**: Abandoned (no strong merge candidates)

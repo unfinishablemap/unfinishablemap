@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-09
-ai_modified: 2026-04-15 10:15:00+00:00
+ai_modified: 2026-04-29 01:49:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -24,6 +24,7 @@ concepts:
 - '[[causal-closure]]'
 - '[[perceptual-degradation-and-the-interface]]'
 - '[[selective-correction-and-reconstruction-paradox]]'
+- '[[consciousness-bandwidth-architecture]]'
 created: 2026-03-09
 date: &id001 2026-03-14
 description: 'Perceptual degradation reveals the consciousness-brain interface: its
@@ -31,7 +32,7 @@ description: 'Perceptual degradation reveals the consciousness-brain interface: 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-24 00:00:00+00:00
+last_deep_review: 2026-04-29 01:49:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -47,6 +48,8 @@ related_articles:
 - '[[perceptual-degradation-and-the-interface]]'
 - '[[selective-correction-and-reconstruction-paradox]]'
 - '[[curated-mind]]'
+- '[[psychedelics-and-the-filter-model]]'
+- '[[neurological-dissociations-as-interface-architecture]]'
 title: Perceptual Failure and the Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -85,7 +88,7 @@ These patterns suggest a different model: consciousness receives perceptual info
 
 ## Bandwidth Signatures
 
-Several features of perceptual degradation are consistent with bandwidth limitation and difficult to explain as simple neural information loss.
+Several features of perceptual degradation are consistent with [bandwidth limitation](/concepts/consciousness-bandwidth-architecture/) and difficult to explain as simple neural information loss.
 
 **Graceful degradation.** Perceptual systems lose fidelity gradually. Progressive myopia does not produce a sharp boundary between seeing and not-seeing; it produces an expanding range of blur. Ageing reduces visual acuity, colour discrimination, and contrast sensitivity in parallel, each declining smoothly. This is the signature of a channel whose capacity is shrinking rather than a system whose components are failing discretely.
 
@@ -103,11 +106,11 @@ This objection has force for any single degradation pattern in isolation. But it
 
 [Anaesthesia](/topics/anaesthesia-and-the-consciousness-interface/) provides perhaps the most dramatic window into interface architecture. General anaesthetics do not damage neural tissue or destroy representations. They disrupt specific patterns of neural communication—particularly thalamocortical feedback loops and long-range cortical integration. Yet their effect on consciousness is profound: not degradation but apparent disconnection.
 
-The difference between anaesthetic unconsciousness and perceptual degradation is instructive. Progressive blur suggests reduced bandwidth. Anaesthesia suggests the channel shutting down. If consciousness were simply an emergent property of neural complexity, these should look similar—less complexity, less consciousness. Instead they produce categorically different phenomenologies: impoverished-but-present experience under degradation, and apparent absence under anaesthesia. This pattern extends to [disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) like vegetative states and locked-in syndrome, where the interface appears disrupted in yet different ways. The dissociation supports the interface model: the channel can transmit at reduced capacity (degradation) or be functionally closed (anaesthesia), and these are distinct failure modes.
+The difference between anaesthetic unconsciousness and perceptual degradation is instructive. Progressive blur suggests reduced bandwidth. Anaesthesia suggests the channel shutting down. If consciousness were simply an emergent property of neural complexity, these should look similar—less complexity, less consciousness. Instead they produce categorically different phenomenologies: impoverished-but-present experience under degradation, and apparent absence under anaesthesia. This pattern extends to [disorders of consciousness](/topics/consciousness-disruption-and-the-mind-brain-interface/) like vegetative states and locked-in syndrome, and to specific [neurological dissociations](/topics/neurological-dissociations-as-interface-architecture/) like blindsight and pain asymbolia, where the interface appears disrupted in yet different ways. The dissociation supports the interface model: the channel can transmit at reduced capacity (degradation) or be functionally closed (anaesthesia), and these are distinct failure modes.
 
 ## Selective Preservation and the Filter
 
-The pattern of what survives degradation is as revealing as what is lost. [Filter theory](/concepts/filter-theory/)—the view that the brain restricts rather than generates consciousness—predicts that degradation should sometimes *expand* experience by removing filters. There is suggestive evidence for this. Ecstatic epileptic seizures—originating in the temporal lobe and insula—produce vivid, hyper-real experiences characterised by heightened perception, intense clarity, and a sense of time dilation (Picard & Craig, 2009). Psilocybin and other psychedelic compounds reduce activity in the [default-mode-network](/concepts/default-mode-network/) yet are associated with expanded phenomenal content rather than impoverished content (Carhart-Harris et al., 2012). Near-death experiences occurring during cardiac arrest—when cerebral function is severely compromised—often involve reports of heightened clarity and a sense of "thinking more clearly than ever" (van Lommel et al., 2001).
+The pattern of what survives degradation is as revealing as what is lost. [Filter theory](/concepts/filter-theory/)—the view that the brain restricts rather than generates consciousness—predicts that degradation should sometimes *expand* experience by removing filters. There is suggestive evidence for this. Ecstatic epileptic seizures—originating in the temporal lobe and insula—produce vivid, hyper-real experiences characterised by heightened perception, intense clarity, and a sense of time dilation (Picard & Craig, 2009). [Psilocybin and other psychedelic compounds](/topics/psychedelics-and-the-filter-model/) reduce activity in the [default-mode-network](/concepts/default-mode-network/) yet are associated with expanded phenomenal content rather than impoverished content (Carhart-Harris et al., 2012). Near-death experiences occurring during cardiac arrest—when cerebral function is severely compromised—often involve reports of heightened clarity and a sense of "thinking more clearly than ever" (van Lommel et al., 2001).
 
 These [altered states](/concepts/altered-states-of-consciousness/) do not prove filter theory, but they create a puzzle for the standard picture. If the brain generates consciousness, less brain activity should always mean less consciousness. If the brain instead channels and constrains consciousness—acting as an interface that shapes a pre-existing phenomenal capacity—then certain kinds of degradation might reduce filtering while preserving or expanding the underlying signal. The degradation pattern becomes evidence about whether the interface primarily *generates* or primarily *transmits and constrains*.
 
@@ -149,6 +152,9 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 - [hypnagogic-phenomenology-and-interface-modulation](/topics/hypnagogic-phenomenology-and-interface-modulation/)
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/)
 - [selective-correction-and-reconstruction-paradox](/concepts/selective-correction-and-reconstruction-paradox/)
+- [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — the asymmetric bandwidth framework formalising transmission capacity
+- [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — pharmacological case for filter theory invoked in Selective Preservation
+- [neurological-dissociations-as-interface-architecture](/topics/neurological-dissociations-as-interface-architecture/) — blindsight, anosognosia, and other dissociations as interface evidence
 - [curated-mind](/topics/curated-mind/) — the presupposition argument: curation across vision, body, memory, and self-model
 
 ## References
