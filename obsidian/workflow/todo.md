@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write voids article on the Relevance Void
-- **Type**: expand-topic
-- **Notes**: Research completed in `research/voids-relevance-void-2026-03-09.md` (2026-03-09) and not yet synthesised into an article. The relevance-void concerns the inaccessibility of how consciousness selects what counts as relevant from the field of available experience — the *frame problem at phenomenal scale*. Adjacent to `voids/attention-created-voids.md` (the void created by the attentional spotlight's exclusions) and `voids/transparency-void.md` (the inaccessibility of attention's own selection mechanism). The relevance-void is distinguished by its focus on the *upstream* selection: not what the spotlight illuminates, but the prior question of which candidates entered competition for the spotlight. Voids/ at 97/100 — 3 slots remaining; this article (after mattering-void) would bring voids/ to 99. Verify the void's distinctness from attention-created-voids and transparency-void before writing. Target section: voids/. Scope: 1800-2400 words. Tenet alignment: Dualism (the selection cannot be exhausted by neural priority computations — the *significance* of relevance is phenomenal), Bidirectional Interaction (relevance-detection as the phenomenal precursor to attentional commitment). Cross-link candidates: `[[attention-created-voids]]`, `[[transparency-void]]`, `[[cognitive-aversion]]`, `[[introspection]]`, `[[mattering-void]]` (if written first), `[[three-kinds-of-void]]`. See `/expand-topic` skill.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-29
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3027,6 +3021,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Write voids article on the Relevance Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-relevance-void-2026-03-09.md` (2026-03-09) and not yet synthesised into an article. The relevance-void concerns the inaccessibility of how consciousness selects what counts as relevant from the field of available experience — the *frame problem at phenomenal scale*. Adjacent to `voids/attention-created-voids.md` (the void created by the attentional spotlight's exclusions) and `voids/transparency-void.md` (the inaccessibility of attention's own selection mechanism). The relevance-void is distinguished by its focus on the *upstream* selection: not what the spotlight illuminates, but the prior question of which candidates entered competition for the spotlight. Voids/ at 97/100 — 3 slots remaining; this article (after mattering-void) would bring voids/ to 99. Verify the void's distinctness from attention-created-voids and transparency-void before writing. Target section: voids/. Scope: 1800-2400 words. Tenet alignment: Dualism (the selection cannot be exhausted by neural priority computations — the *significance* of relevance is phenomenal), Bidirectional Interaction (relevance-detection as the phenomenal precursor to attentional commitment). Cross-link candidates: `[[attention-created-voids]]`, `[[transparency-void]]`, `[[cognitive-aversion]]`, `[[introspection]]`, `[[mattering-void]]` (if written first), `[[three-kinds-of-void]]`. See `/expand-topic` skill.
+- **Output**: Write voids article on the Relevance Void
 
 ### ✓ 2026-04-29: Write voids article on the Mattering Void
 - **Type**: expand-topic
