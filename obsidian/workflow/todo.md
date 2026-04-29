@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/three-kinds-of-void.md considering medium-status apex framing
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Chain from today's 11:34 UTC creation of `apex/medium-status-voids-in-cognition.md`. The new apex installs a content-status / capacity-status / medium-status typology (lines 53-65) as a structural axis distinct from the existing content-level hard problem and capacity-level cognitive closure. `voids/three-kinds-of-void.md` is the long-standing article that names the unexplored / unexplorable / occluded taxonomy — a triadic structure that is candidate-adjacent to the new medium-status framing. Today's 11:34 UTC touch on this file installed only a back-link to the new apex; the substantive question — *how does the unexplored/unexplorable/occluded taxonomy relate to content-status/capacity-status/medium-status?* — has not yet been worked through. Last full deep-review was 2026-04-23, predating the new apex. Deep-review should (a) verify the article remains coherent given the new apex's framing; (b) determine whether the two taxonomies are orthogonal axes (a void can be both unexplored AND content-status, both unexplorable AND medium-status, etc.) or competing partitions; (c) install whichever cross-reference structure best preserves both articles' claims without forcing artificial alignment; (d) audit cross-references and tenet alignment given the cluster has matured substantially since 2026-04-23; (e) audit for "This is not X. It is Y." cliché violations. See `/deep-review` skill and `apex/medium-status-voids-in-cognition.md`.
-- **Source**: chain (from apex/medium-status-voids-in-cognition)
-- **Generated**: 2026-04-29
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3077,6 +3070,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Deep review voids/three-kinds-of-void.md considering medium-status apex framing
+- **Type**: deep-review
+- **Notes**: Chain from today's 11:34 UTC creation of `apex/medium-status-voids-in-cognition.md`. The new apex installs a content-status / capacity-status / medium-status typology (lines 53-65) as a structural axis distinct from the existing content-level hard problem and capacity-level cognitive closure. `voids/three-kinds-of-void.md` is the long-standing article that names the unexplored / unexplorable / occluded taxonomy — a triadic structure that is candidate-adjacent to the new medium-status framing. Today's 11:34 UTC touch on this file installed only a back-link to the new apex; the substantive question — *how does the unexplored/unexplorable/occluded taxonomy relate to content-status/capacity-status/medium-status?* — has not yet been worked through. Last full deep-review was 2026-04-23, predating the new apex. Deep-review should (a) verify the article remains coherent given the new apex's framing; (b) determine whether the two taxonomies are orthogonal axes (a void can be both unexplored AND content-status, both unexplorable AND medium-status, etc.) or competing partitions; (c) install whichever cross-reference structure best preserves both articles' claims without forcing artificial alignment; (d) audit cross-references and tenet alignment given the cluster has matured substantially since 2026-04-23; (e) audit for "This is not X. It is Y." cliché violations. See `/deep-review` skill and `apex/medium-status-voids-in-cognition.md`.
+- **Output**: obsidian/voids/three-kinds-of-void.md
 
 ### ✓ 2026-04-29: Write methodology document on Bedrock-Dialectical-Clash vs Issue-Absorption Discipline
 - **Type**: expand-topic

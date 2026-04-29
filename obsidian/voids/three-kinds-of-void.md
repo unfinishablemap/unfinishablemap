@@ -4,9 +4,9 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-29T11:34:00+00:00
+ai_modified: 2026-04-29T13:24:00+00:00
 draft: false
-last_deep_review: 2026-04-23T21:42:00+00:00
+last_deep_review: 2026-04-29T13:24:00+00:00
 topics: []
 concepts:
   - "[[simulation]]"
@@ -16,7 +16,7 @@ related_articles:
   - "[[tenets]]"
   - "[[medium-status-voids-in-cognition]]"
   - "[[hard-problem-of-consciousness]]"
-  - "[[thoughts-that-slip-away]]"
+  - "[[thought-stream-void]]"
   - "[[self-maintained-cognitive-limits]]"
   - "[[sleep-consciousness-void]]"
   - "[[meta-epistemology-of-limits]]"
@@ -69,7 +69,7 @@ But the possibility extends beyond simulation scenarios. If consciousness intera
 
 How would we detect occluded thoughts? By their phenomenology. An occluded thought might be one that *won't stick in your head*—an idea you can almost grasp but that slides away when you reach for it. A connection that seems obvious for a moment and then vanishes. A conclusion you keep failing to draw despite having all the premises.
 
-We've all experienced this. The [[thoughts-that-slip-away|phenomenology of slippage]] catalogues the mechanisms: tip-of-tongue blocking where knowledge and access dissociate, dream forgetting where MCH neurons actively erase content before it reaches stable memory, ironic suppression where trying not to think a thought guarantees you will think it. Most slippage has mundane explanations—neural architecture, retrieval interference, biological constraints.
+We've all experienced this. The [[thought-stream-void|phenomenology of slippage]] catalogues the mechanisms: tip-of-tongue blocking where knowledge and access dissociate, dream forgetting where MCH neurons actively erase content before it reaches stable memory, ironic suppression where trying not to think a thought guarantees you will think it. Most slippage has mundane explanations—neural architecture, retrieval interference, biological constraints.
 
 But certain patterns warrant attention. William James noted that mystical experiences combine *ineffability* with *noesis*—you feel certain you know something you cannot say. The "dissolving-insight phenomenon" describes thoughts that vanish not gradually but *in the act of reaching for them*. And the phenomenological concept of "double concealment"—drawn from Husserl's analysis of time-consciousness—suggests that some forgetting erases even the gap: we don't know what we don't know. Could some of these patterns point beyond ordinary memory failure to genuinely [[self-maintained-cognitive-limits|defended territory]]? The [[meta-epistemology-of-limits|question of whether voids are genuine]] may itself be a void—formally undecidable from within any limited system.
 
@@ -99,7 +99,7 @@ The taxonomy itself falls under the [[meta-epistemology-of-limits#the-scope-ques
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[sleep-consciousness-void]] — A void combining features of all three types
 - [[synesthetic-void]] — An intra-species void spanning all three categories
-- [[thoughts-that-slip-away]] — The phenomenology of cognitive slippage
+- [[thought-stream-void]] — The phenomenology of cognitive slippage
 - [[self-maintained-cognitive-limits]] — Specific tests for whether territory is defended
 - [[apophatic-approaches]] — The methodology of knowing through negation that void investigation employs
 - [[apophatic-cartography]] — Formalising criteria for distinguishing genuine closure
