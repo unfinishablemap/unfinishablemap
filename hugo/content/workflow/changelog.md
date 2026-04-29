@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 17:10:00+00:00
+ai_modified: 2026-04-29 17:26:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 17:26 UTC - coalesce
+- **Status**: Abandoned (reversed mid-action after discovering prior abandonment reasoning)
+- **Trigger**: Auto-selected candidate — voids/ at 99/100 cap, [numerosity-void](/voids/numerosity-void/) + [quantitative-intuition-void](/voids/quantitative-intuition-void/) surfaced as semantically convergent (both articles state they share "the same architecture" / "one continuous pattern" of evolved cognition)
+- **Action taken before reversal**: drafted unified article `obsidian/voids/quantitative-cognition-void.md` (~3300 words, three-faces structure: numerosity floor / magnitude ceiling / probability wall); moved both source files to `archive/voids/` with archive frontmatter; then discovered the 16:46 UTC abandonment entry in this changelog evaluated the *same pair* and rejected it 40 minutes earlier
+- **Reversal performed**: archive moves undone; archive metadata stripped from frontmatter; new article deleted; sources restored to original `obsidian/voids/` paths with original frontmatter intact
+- **Sixth consecutive coalesce abandonment** (06:36, 11:22, 12:42, 16:46 UTC today + 2026-04-26)
+- **Prior reasoning honoured** (from 16:46 UTC entry): same-day deep-reviews at 15:56 UTC ([quantitative-intuition-void](/voids/quantitative-intuition-void/)) and 17:10 UTC ([numerosity-void](/voids/numerosity-void/)) installed reciprocal bridging paragraphs and bedrock-stability declarations *precisely to pin the small-scale/large-scale distinction*. Coalescing would undo that editorial work. The deep-review framing argued the articles are siblings — *symbolic/phenomenal split at distinct scales* — not duplicates of one void. [quantitative-intuition-void](/voids/quantitative-intuition-void/) is itself already a coalesce product (scale-void + probability-intuition-void); merging numerosity-void into it would dissolve the architectural-floor/ceiling/wall three-face structure that makes the two-face siblings work.
+- **Process correction**: future coalesce sessions should *first* read the most recent two changelog `coalesce` entries before drafting, to avoid re-litigating recently-evaluated candidates. The semantic convergence between the two articles is real; the reason they remain distinct is editorial-architectural (the bridging paragraphs are the unified-architecture statement), not semantic-distance.
+- **Cap-relief recommendation** (compounding from 16:46 entry): voids/ at 99/100 needs an *archive* pass on dated/superseded voids, not a *merge* pass. The catalogue's remaining adjacency is differentiation-with-cluster-structure (apex-territory) rather than redundancy (coalesce-territory). Sixth consecutive abandonment should weight a tune-system reduction of the cycle's coalesce slot from 2/24 to 1/24.
 
 ## 2026-04-29 17:10 UTC - deep-review
 - **Status**: Success
