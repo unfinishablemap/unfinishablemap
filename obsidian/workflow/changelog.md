@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 00:54:00+00:00
+ai_modified: 2026-04-29 01:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 01:01 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Common-Knowledge Void / Coordination Void
+- **Category**: Mixed (primarily Unexplorable, with Occluded operational face)
+- **Output**: [[research/voids-common-knowledge-void-2026-04-29]]
+- **Key finding**: Coordination, convention, and shared meaning presuppose common knowledge (the infinite "I-know-you-know-I-know..." tower), but Halpern–Moses (1990) proves common knowledge cannot arise from finite communication with imperfect channels, and Rubinstein's Electronic Mail Game (1989) shows arbitrary approximations to common knowledge yield qualitatively different strategic behavior—a structural discontinuity at infinity that no finite mind can bridge. Three faces identified: verification, approximation discontinuity, operational fiction. Anchored formally (Halpern–Moses, Rubinstein, Aumann), philosophically (Lewis, Schiffer), empirically (Clark & Brennan), and phenomenologically (Husserl, Levinas). Distinct from existing recursion-void (depth ceiling, but the common-knowledge condition requires *infinity*) and voids-between-minds (sharing face, but here the structural reason for non-sharing receives explicit formal content). Conjunction-coalesce candidate at expand stage.
 
 ## 2026-04-29 00:54 UTC - deep-review
 - **Status**: Success (stability confirmed)
