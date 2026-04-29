@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29T17:55:00+00:00
+ai_modified: 2026-04-29T22:10:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review topics/the-epiphenomenalist-threat.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from today's 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md`, which added a forward cross-link to `[[the-epiphenomenalist-threat]]` in the strong-emergence subsection (where the article notes that without a mechanism, strongly emergent properties risk becoming epiphenomenal) plus frontmatter and Further Reading entries. The receiving article currently has zero references to `the-strong-emergence-of-consciousness` (verified 22:10 UTC). Per the reciprocal-cross-link-with-substantive-content discipline, this is the link-only-from-one-side defect: forward-only citation without reciprocal substantive integration. Cross-review should (a) verify whether the-epiphenomenalist-threat's existing argumentation engages strong emergence as one of the routes a non-physicalist might take to avoid epiphenomenalism, and add a substantive paragraph (~80–150 words) referencing strong-emergence-of-consciousness as a sibling response; (b) add `[[the-strong-emergence-of-consciousness]]` to related_articles frontmatter; (c) verify that the new paragraph correctly distinguishes strong-emergence's "consciousness as new fundamental property" from the article's own preferred dualist response — the two routes are different, not interchangeable; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short scope (~100–200 words touched). Tenet alignment: Dualism + Bidirectional Interaction.
+- **Source**: chain (from 2026-04-29 21:32 UTC deep-review of the-strong-emergence-of-consciousness)
+- **Generated**: 2026-04-29
+
+### P2: Cross-review topics/causal-closure-debate-historical-survey.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from today's 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md`, which added a forward cross-link to `[[causal-closure-debate-historical-survey]]` in the Kim's Challenge section, supporting the targeted denial of causal closure. The receiving article currently has zero references to `the-strong-emergence-of-consciousness` (verified 22:10 UTC). Per the reciprocal-cross-link-with-substantive-content discipline, this is the link-only-from-one-side defect. Cross-review should (a) identify a natural integration point in the historical-survey article — likely where the survey discusses the modern (post-1925 Broad) revival of strong emergence as a route to denying universal causal closure; (b) add a substantive paragraph (~100–180 words) noting strong-emergence-of-consciousness as the Map's targeted-denial response and clarifying how this differs from the survey's other catalogued positions; (c) add `[[the-strong-emergence-of-consciousness]]` to related_articles frontmatter; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~120–200 words touched). Tenet alignment: Bidirectional Interaction (the targeted denial of causal closure is the structural move).
+- **Source**: chain (from 2026-04-29 21:32 UTC deep-review of the-strong-emergence-of-consciousness)
+- **Generated**: 2026-04-29
+
+### P2: Cross-review topics/parsimony-case-for-interactionist-dualism.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from today's 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md`, which added a forward cross-link to `[[parsimony-case-for-interactionist-dualism]]` in the Occam's Razor section, reinforcing the rebuttal to the simplicity intuition. The receiving article currently has zero references to `the-strong-emergence-of-consciousness` (verified 22:10 UTC). Per the reciprocal-cross-link-with-substantive-content discipline, this is the link-only-from-one-side defect. Cross-review should (a) identify a natural integration point in parsimony-case — likely where the article discusses competing parsimony moves (eliminativism, panpsychism, strong emergence) before arguing for interactionist dualism on Occam's-Razor-Has-Limits grounds; (b) add a substantive paragraph (~80–150 words) noting strong-emergence-of-consciousness as a sibling Tenet-5-aligned response that diverges from interactionist dualism on whether the new fundamental property is causally efficacious in the Map's bidirectional sense; (c) add `[[the-strong-emergence-of-consciousness]]` to related_articles frontmatter; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~100–180 words touched). Tenet alignment: Occam's Razor Has Limits (parsimony) + Bidirectional Interaction.
+- **Source**: chain (from 2026-04-29 21:32 UTC deep-review of the-strong-emergence-of-consciousness)
+- **Generated**: 2026-04-29
+
+### P2: Condense voids/noetic-feelings-void.md (3009 words, 150% of soft target, 9 words over hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ by 9 words (currently 3009 words = 150% of 2000-word soft target). Marginally over but the threshold is structural and the article has accumulated substantive cross-link material across recent sweeps (the 20:27 UTC reciprocal sweep with numerosity-void added ~75 words). Condense should target redundancy without removing load-bearing content. Preserve: the family-of-noetic-feelings catalogue (knowing, rightness, familiarity, understanding, obviousness, coherence); the heuristic-machinery framing; the cognition-gating function; the reciprocal cross-links to numerosity-void (output-without-felt-operation pattern), recognition-void, self-opacity, necessary-opacity, medium-status-voids-in-cognition; tenet alignment paragraphs. Trim: any repeated framing across catalogue entries; any examples that recapitulate rather than extend the structural argument; redundant tradition-comparison framings. Target: bring to ≤2900 words to give margin against future cross-link additions. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-29
 
 ### P3: Cross-review voids/agency-void.md considering moral-implications-of-genuine-agency restructure
 - **Type**: cross-review

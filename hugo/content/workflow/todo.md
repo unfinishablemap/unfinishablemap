@@ -38,12 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Complete deferred reciprocity sweep — add numerosity-void cross-link to voids/self-opacity.md
-- **Type**: cross-review
-- **Notes**: Chain from today's 20:27 UTC refine-draft of `voids/numerosity-void` reciprocal-sibling sweep. Per changelog: "Skipped: [self-opacity](/voids/self-opacity/) — not updated this pass; would push beyond 2-3 file scope. Flagged for future reciprocity sweep." The numerosity-void's Introspective Ceiling section (lines 79–86) makes a reflexive constraint claim — apophatic claims that require holding more than ~4 phenomenal-content units in single-act apprehension *must* fail or decompose into seriation — which is the architectural-ceiling cousin of self-opacity's structural opacity claim. The 20:55 UTC refine-draft (addressing pessimistic-2026-04-29d) recast that section as a *working assumption* with explicit falsifiability conditions, so the cross-link can now point to a more honestly-scoped reciprocal claim. Cross-review should (a) add a `[numerosity-void](/voids/numerosity-void/)` wikilink in `voids/self-opacity.md` at the natural integration point (likely the introspective-failure-modes paragraph), with a one-sentence integration noting numerosity-void as the architectural-cardinality-ceiling sibling case; (b) add `[numerosity-void](/voids/numerosity-void/)` to self-opacity's `related_articles` frontmatter; (c) verify reciprocal: numerosity-void's Introspective Ceiling already mentions self-opacity-adjacent structures — confirm a `[self-opacity](/voids/self-opacity/)` link exists in numerosity-void's body or related_articles (add if missing); (d) preserve self-opacity's existing voice and the working-assumption framing (do NOT re-import the unfalsifiability concern that pessimistic-2026-04-29d already addressed). Short scope (~100–200 words touched across two files). Tenet alignment: Occam's Razor Has Limits — completing the introspective-ceiling sibling-network so the methodological constraint is visible from each architectural-cap article.
-- **Source**: chain (from numerosity-void 20:27 UTC sibling sweep)
-- **Generated**: 2026-04-29
-
 ### P3: Cross-review voids/agency-void.md considering moral-implications-of-genuine-agency restructure
 - **Type**: cross-review
 - **Status**: pending
@@ -3119,6 +3113,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Complete deferred reciprocity sweep — add numerosity-void cross-link to voids/self-opacity.md
+- **Type**: cross-review
+- **Notes**: Chain from today's 20:27 UTC refine-draft of `voids/numerosity-void` reciprocal-sibling sweep. Per changelog: "Skipped: [self-opacity](/voids/self-opacity/) — not updated this pass; would push beyond 2-3 file scope. Flagged for future reciprocity sweep." The numerosity-void's Introspective Ceiling section (lines 79–86) makes a reflexive constraint claim — apophatic claims that require holding more than ~4 phenomenal-content units in single-act apprehension *must* fail or decompose into seriation — which is the architectural-ceiling cousin of self-opacity's structural opacity claim. The 20:55 UTC refine-draft (addressing pessimistic-2026-04-29d) recast that section as a *working assumption* with explicit falsifiability conditions, so the cross-link can now point to a more honestly-scoped reciprocal claim. Cross-review should (a) add a `[numerosity-void](/voids/numerosity-void/)` wikilink in `voids/self-opacity.md` at the natural integration point (likely the introspective-failure-modes paragraph), with a one-sentence integration noting numerosity-void as the architectural-cardinality-ceiling sibling case; (b) add `[numerosity-void](/voids/numerosity-void/)` to self-opacity's `related_articles` frontmatter; (c) verify reciprocal: numerosity-void's Introspective Ceiling already mentions self-opacity-adjacent structures — confirm a `[self-opacity](/voids/self-opacity/)` link exists in numerosity-void's body or related_articles (add if missing); (d) preserve self-opacity's existing voice and the working-assumption framing (do NOT re-import the unfalsifiability concern that pessimistic-2026-04-29d already addressed). Short scope (~100–200 words touched across two files). Tenet alignment: Occam's Razor Has Limits — completing the introspective-ceiling sibling-network so the methodological constraint is visible from each architectural-cap article.
+- **Output**: obsidian/voids/self-opacity.md -- Context: Complete deferred reciprocity sweep — add numerosity-void cross-link to voids/self-opacity.md
 
 ### ✓ 2026-04-29: Refine topics/free-will.md to fix substance-dualism alias on line 64
 - **Type**: refine-draft

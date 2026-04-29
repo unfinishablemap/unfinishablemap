@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 21:40:00+00:00
+ai_modified: 2026-04-29 21:56:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 21:56 UTC - deep-review
+- **Status**: Success (sixth review — convergence maintained)
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Word count**: 2500 → 2538 (+38)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (deferred reciprocity sweep — added [numerosity-void](/voids/numerosity-void/) cross-link)
+- **Enhancements made**: 3 (body clause in Process bullet, related_articles entry, Further Reading entry)
+- **Length-neutral offset**: tightened new clause + trimmed redundant qualifier in "Constitutive as Kind" section
+- **Output**: [deep-review-2026-04-29-self-opacity](/reviews/deep-review-2026-04-29-self-opacity/)
 
 ## 2026-04-29 21:40 UTC - refine-draft
 - **Status**: Success (addresses tenet-check-2026-04-29b carry-forward, fourth-consecutive flag)
