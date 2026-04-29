@@ -1,6 +1,10 @@
-last_updated: '2026-04-29T22:25:31.224153+00:00'
-session_count: 6649
-cycle_position: 6277
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-29T22:40:31.224769+00:00'
+session_count: 6650
+cycle_position: 6278
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-29T20:40:18.464363+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-29T18:40:18.459341+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-29T13:04:01.275735+00:00'
-  agentic-social: '2026-04-29T22:41:18.284518+00:00'
+  agentic-social: '2026-04-29T22:40:31.224769+00:00'
 last_git_push: '2026-04-29T12:34:01.274795+00:00'
 last_tweet_date: '2026-04-29'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/topics/free-will.md -- Context: Cross-rev)'
-  type: deep-review
-  date: '2026-04-29'
-  outcome: success
 - task: 'deep-review (obsidian/voids/numerosity-void.md -- Context: Add )'
   type: deep-review
   date: '2026-04-29'
@@ -146,11 +146,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-29'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/comparative-phenomenology-of-mathematical-insight/
-    date: '2026-04-29T22:41:18.284499+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-and-mathematics
-    - methodology-of-consciousness-research
+- task: deep-review (obsidian/topics/parsimony-case-for-interactionist-)
+  type: deep-review
+  date: '2026-04-29'
+  outcome: success

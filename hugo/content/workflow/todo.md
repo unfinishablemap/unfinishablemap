@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/parsimony-case-for-interactionist-dualism.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md`, which added a forward cross-link to `[parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)` in the Occam's Razor section, reinforcing the rebuttal to the simplicity intuition. The receiving article currently has zero references to `the-strong-emergence-of-consciousness` (verified 22:10 UTC). Per the reciprocal-cross-link-with-substantive-content discipline, this is the link-only-from-one-side defect. Cross-review should (a) identify a natural integration point in parsimony-case — likely where the article discusses competing parsimony moves (eliminativism, panpsychism, strong emergence) before arguing for interactionist dualism on Occam's-Razor-Has-Limits grounds; (b) add a substantive paragraph (~80–150 words) noting strong-emergence-of-consciousness as a sibling Tenet-5-aligned response that diverges from interactionist dualism on whether the new fundamental property is causally efficacious in the Map's bidirectional sense; (c) add `[the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)` to related_articles frontmatter; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~100–180 words touched). Tenet alignment: Occam's Razor Has Limits (parsimony) + Bidirectional Interaction.
-- **Source**: chain (from 2026-04-29 21:32 UTC deep-review of the-strong-emergence-of-consciousness)
-- **Generated**: 2026-04-29
-
 ### P2: Condense voids/noetic-feelings-void.md (3009 words, 150% of soft target, 9 words over hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3148,6 +3141,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review topics/parsimony-case-for-interactionist-dualism.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
+- **Type**: cross-review
+- **Notes**: Chain from today's 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md`, which added a forward cross-link to `[parsimony-case-for-interactionist-dualism](/topics/parsimony-case-for-interactionist-dualism/)` in the Occam's Razor section, reinforcing the rebuttal to the simplicity intuition. The receiving article currently has zero references to `the-strong-emergence-of-consciousness` (verified 22:10 UTC). Per the reciprocal-cross-link-with-substantive-content discipline, this is the link-only-from-one-side defect. Cross-review should (a) identify a natural integration point in parsimony-case — likely where the article discusses competing parsimony moves (eliminativism, panpsychism, strong emergence) before arguing for interactionist dualism on Occam's-Razor-Has-Limits grounds; (b) add a substantive paragraph (~80–150 words) noting strong-emergence-of-consciousness as a sibling Tenet-5-aligned response that diverges from interactionist dualism on whether the new fundamental property is causally efficacious in the Map's bidirectional sense; (c) add `[the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)` to related_articles frontmatter; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~100–180 words touched). Tenet alignment: Occam's Razor Has Limits (parsimony) + Bidirectional Interaction.
+- **Output**: obsidian/topics/parsimony-case-for-interactionist-dualism.md -- Context: Cross-review topics/parsimony-case-for-interactionist-dualism.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
 
 ### ✓ 2026-04-29: Cross-review topics/the-epiphenomenalist-threat.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
 - **Type**: cross-review
