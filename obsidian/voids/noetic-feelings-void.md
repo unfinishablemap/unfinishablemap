@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-29T20:27:00+00:00
+ai_modified: 2026-04-29T23:10:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -76,118 +76,101 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a funct
 - **Feeling of confidence** — sense that a judgment is reliable. Gates commitment to action.
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
-Loev argues these are "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath the level of reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. [[consciousness-and-creativity|Insight]] is a paradigm case: the breakthrough presents as direct apprehension, not as the fluency-and-coherence signal it actually is. The noetic feel typically arrives as the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]—the two voids compose, with feelings registering when to stop and inferences doing the moving that produces the verdict. Upstream of both is the [[relevance-void|relevance void]]: the filter that decides which items are even in play to be inferred about and felt-toward. Relevance shortlists the field; inference moves within it; noetic feelings register when to stop.
-
-The output-without-operation shape extends beyond epistemic gating. The [[numerosity-void#the-mechanism-face|numerosity void's mechanism face]] supplies a non-affective sibling: subitizing delivers the cardinal *as given*, parallel-index allocation hidden behind the determinate verdict the way fluency is hidden behind the feeling of rightness. Both expose the same structural shape — a finished output without phenomenal access to the operation that produced it — registered once in epistemic gating, once in cardinal perception. Determinacy of result is no evidence of transparency of cause in either case.
+Loev calls these "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]; further upstream sits the [[relevance-void|relevance void]], which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop. The [[numerosity-void#the-mechanism-face|numerosity void]] exposes the same output-without-operation shape outside the affective family.
 
 ## How the Feelings Are Produced
 
-Convergent evidence identifies noetic feelings as outputs of heuristic processes. Koriat concluded that "rather than reflecting direct access to memory traces, noetic feelings are based on inferential heuristics that operate implicitly and unintentionally"—principally *cue-familiarity* (fast assessment of whether a retrieval cue itself seems familiar) and *accessibility* (how much partial information comes to mind). Neither is available to conscious inspection; each delivers a finished verdict.
+Convergent evidence identifies noetic feelings as outputs of heuristic processes. Koriat concluded that noetic feelings rest on "inferential heuristics that operate implicitly and unintentionally"—principally *cue-familiarity* and *accessibility* (how much partial information comes to mind). Neither is available to conscious inspection; each delivers a finished verdict.
 
-Thompson's research on the feeling of rightness showed FOR is driven by *generation fluency*—the ease and speed with which the first answer came to mind—not by actual correctness. Manipulating fluency (font legibility, rhyme, perceptual ease) shifts FOR without changing the underlying reasoning. The signal that tells consciousness "this is right" is a fluency trace, invisible as such.
+Thompson's work on the feeling of rightness showed FOR is driven by *generation fluency*—the speed and ease with which the first answer came to mind—not by correctness. Manipulating fluency (font legibility, rhyme, perceptual ease) shifts FOR without changing the underlying reasoning. The signal that tells consciousness "this is right" is a fluency trace, invisible as such.
 
-A 2021 *Synthese* paper formalises the "Lima problem": epistemic feelings inform us about content we cannot independently access, so we cannot cross-check their accuracy except through more feelings. We have access to the feel, not the content; the producing mechanism is architecturally hidden.
+The "Lima problem" formalises the predicament: epistemic feelings inform us about content we cannot independently access, so we cannot cross-check their accuracy except through more feelings. We have the feel, not the content; the producing mechanism is architecturally hidden.
 
 ## Processing Fluency and Manufactured Self-Evidence
 
-Fluency manufactures the broader sense of self-evidence that makes questions feel pre-answered. Statements in clear fonts are rated as more true than identical statements in hard-to-read fonts; repeated exposure deepens the feeling of obviousness. The loop is tight: frequent exposure generates fluency; fluency generates a feeling of truth; obviousness terminates inquiry. The claim is never examined because it has already been accepted—not through evidence but through ease.
+Fluency manufactures the broader sense of self-evidence that makes questions feel pre-answered. Statements in clear fonts are rated as more true than identical statements in hard-to-read fonts; repeated exposure deepens the feeling of obviousness. The loop is tight: exposure generates fluency; fluency generates a feeling of truth; obviousness terminates inquiry. The claim is accepted not through evidence but through ease.
 
-Rozenblit and Keil (2002) established a closely related finding: the *illusion of explanatory depth*. People rate their understanding of zippers, flush toilets, and cylinder locks as high—then, asked to explain the mechanisms step by step, discover they cannot. The gap is large and specific to causal-explanatory knowledge. J. D. Trout extends this to scientific explanation itself: the phenomenological sense of understanding that accompanies good explanations may be an unreliable epistemic cue. If felt understanding is systematically decoupled from actual comprehension, every explanation we find satisfying might conceal a void where real understanding should be.
+Rozenblit and Keil documented the *illusion of explanatory depth*: people rate their understanding of zippers, flush toilets, and cylinder locks as high—then, asked to explain step by step, discover they cannot. Trout extends this to scientific explanation itself: the felt sense of understanding that accompanies good explanations may be an unreliable epistemic cue. If felt understanding is systematically decoupled from actual comprehension, every satisfying explanation might conceal a void where real understanding should be.
 
 ## Feed-Forward Opacity and Authority Without Audit
 
 The void has three structural features.
 
-**Feed-forward opacity.** The heuristics are implemented in processes whose inputs and dynamics are not exposed to the consciousness they inform. Consciousness receives a finished verdict, not a derivation. This is not a contingent computational shortcut; it appears to be architectural.
+**Feed-forward opacity.** The heuristics run in processes whose inputs and dynamics are not exposed to the consciousness they inform. Consciousness receives a finished verdict, not a derivation—an architectural feature, not a contingent shortcut.
 
-**Authority without audit.** The feelings gate further cognition. They decide when to stop searching, when to trust, when to defer, when to engage analytic thought. The system cannot audit them from inside, because audit requires more feelings of the same kind—a feeling that *this* feeling is reliable. The feeling of obviousness is the purest case: by presenting nothing to investigate, it prevents the investigation that would detect its own fluency-driven origin.
+**Authority without audit.** The feelings gate further cognition: when to stop searching, when to trust, when to engage analytic thought. The system cannot audit them from inside, because audit requires more feelings of the same kind. The feeling of obviousness is the purest case: by presenting nothing to investigate, it prevents the investigation that would detect its own fluency-driven origin.
 
-**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence cannot be shaken by argument. These dissociations prove noetic feelings are signals rather than perceptions, and that consciousness cannot tell, from inside, when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: subjects report a feeling of *prediction* that does not track any actual predictive capacity—one feeling begetting another with no added information.
+**Dissociable fallibility.** Déjà vu fires familiarity without memory; jamais vu withholds recognition for familiar material; false confidence resists argument. These dissociations show noetic feelings are signals rather than perceptions, and that consciousness cannot tell from inside when a signal has fired spuriously. Déjà vu research even documents a second-order illusion: a feeling of *prediction* that tracks no actual predictive capacity.
 
 Compounded, these features yield the void: the signals that gate cognition are precisely the signals consciousness cannot audit without their help.
 
 ## The Explanatory Regress
 
-Beneath the phenomenal dimension lies a structural one. Any chain of explanation must either terminate in brute facts, continue infinitely, or loop coherentistically—each option means explanation never reaches bedrock. Centuries of work on the Principle of Sufficient Reason have not resolved this trilemma. The *feeling* that explanation has grounded itself is produced by fluency and coherence heuristics consciousness cannot inspect; the logical structure behind "has landed" resists non-circular specification. Both routes converge on the same result.
-
-Peter Lipton's work on inference to the best explanation adds a further dimension: scientists take "loveliness" as a guide to "likeliness," but the criteria for loveliness—unification, mechanism, predictive power—resist articulation. Henk de Regt shows that intelligibility is context-sensitive: Cartesian, Newtonian, and quantum physicists have valued different explanatory virtues. If standards of understanding shift historically, "understanding" may not be detecting objective structure but tracking contingent cognitive-cultural preferences processed through the same fluency machinery. The void here: we cannot explain our own explanatory standards, a sharp case of [[self-opacity|introspective opacity]] whose outputs arrive as feelings rather than judgments.
+Beneath the phenomenal dimension lies a structural one. Any chain of explanation must terminate in brute facts, continue infinitely, or loop coherentistically—none reaches bedrock. The *feeling* that explanation has grounded itself is produced by fluency and coherence heuristics consciousness cannot inspect. De Regt shows intelligibility is context-sensitive: Cartesian, Newtonian, and quantum physicists valued different explanatory virtues. "Understanding" may track contingent cognitive-cultural preferences processed through the same fluency machinery rather than objective structure.
 
 ## Philosophical Convergence on the Obvious
 
-Multiple traditions identified the phenomenology of obviousness before cognitive science named its mechanism. Wittgenstein noted that "the very things that are most obvious can become the most difficult to understand"—and insisted the obstacle is volitional, not intellectual: what must be overcome is the comfortable feeling of comprehension, not a complex truth. Heidegger described how the ready-to-hand withdraws from attention precisely by functioning well; what is ontically closest is "ontologically the farthest and not known at all." Schutz analysed the "natural attitude" of the life-world, where taken-for-grantedness is structural rather than lazy.
-
-Three traditions with different premises converge: the cognitive-science mechanism (fluency → felt truth → obviousness) and the phenomenological description (withdrawal of the well-functioning) point at one structure from different angles.
+Multiple traditions identified the phenomenology of obviousness before cognitive science named its mechanism. Wittgenstein insisted that "the very things that are most obvious can become the most difficult to understand"—the obstacle volitional, not intellectual. Heidegger described how the ready-to-hand withdraws from attention precisely by functioning well: what is ontically closest is "ontologically the farthest." Schutz analysed the "natural attitude" of the life-world, where taken-for-grantedness is structural. The cognitive-science mechanism (fluency → felt truth → obviousness) and the phenomenological description (withdrawal of the well-functioning) point at one structure from different angles.
 
 ## The Self-Concealing Structure
 
-The void has a recursive quality that makes it uniquely resistant to investigation. Most voids announce themselves through felt difficulty: the [[causal-interface|causal interface void]] generates puzzlement, the [[recursion-void]] generates vertigo. The obviousness end of the noetic family generates nothing. It feels like settled territory. The void conceals itself by making its own existence feel too obvious to examine.
+The void has a recursive quality that makes it uniquely resistant to investigation. Most voids announce themselves through felt difficulty—the [[causal-interface|causal interface void]] generates puzzlement, the [[recursion-void]] vertigo. The obviousness end of the noetic family generates nothing. It feels like settled territory. The void conceals itself by making its own existence feel too obvious to examine.
 
-This creates an epistemic trap: to recognise the void, you must first suspect that the feeling of understanding or rightness might be unreliable, but those feelings are precisely what prevents such suspicion. Husserl's *epoché*—bracketing the natural attitude—is a direct attempt to break this cycle, and Husserl himself acknowledged complete suspension may never be fully achieved. The deeper reason is catalogued by the [[suspension-void]]: any inspection that would check suspension deploys the same machinery whose neutrality is in question, leaving the tool of investigation saturated with noetic feelings.
+This creates an epistemic trap: to recognise the void, you must first suspect that the feeling of understanding might be unreliable—but those feelings are precisely what prevents such suspicion. Husserl's *epoché* attempts to break the cycle, yet any inspection that would check suspension deploys the same machinery whose neutrality is in question (see [[suspension-void]]). The trap is also temporal: even after destabilising an obvious belief, the feeling of obviousness reasserts itself; Rozenblit and Keil found participants' confidence partially rebounded after discovering their explanatory ignorance.
 
-The trap is also temporal. Even after destabilising an obvious belief through Socratic questioning or contrary evidence, the feeling of obviousness reasserts itself. Rozenblit and Keil found participants' confidence partially rebounded after discovering their explanatory ignorance.
-
-Approaching the edge feels like trying to look at the side of one's own eye: the more directly one attends to the feeling of knowing, the more it fragments into content-feelings *about* what one knows, rather than disclosing its own mechanism. The characteristic texture is certainty that cannot be further grounded; recognition that refuses a source; understanding that resists the question *what exactly have I grasped?*; obviousness aggrieved at being questioned. [[necessary-opacity]] and [[self-opacity]] catalogue this structural closure; the noetic feelings void is one of the sharpest instances, because the opacity is load-bearing for functional cognition.
+The characteristic texture is certainty that cannot be further grounded; recognition that refuses a source; understanding that resists the question *what exactly have I grasped?*; obviousness aggrieved at being questioned. [[necessary-opacity]] and [[self-opacity]] catalogue this structural closure; the noetic feelings void is among the sharpest instances, because the opacity is load-bearing for functional cognition.
 
 ## Approaches to the Edge
 
-Direct introspection fails—it deploys the feelings it would examine. Indirect methods do better: **dissociation experiments** manipulate fluency or retrieval dynamics and observe which feelings shift; **defamiliarisation techniques** (Shklovsky's *ostranenie*) disrupt processing fluency; **clinical edge cases** reveal hidden machinery (déjà vu, jamais vu, source amnesia); **Socratic questioning** forces articulation, exposing the gap between felt and actual understanding; **historical analysis** catalogues collapsed obviousnesses (geocentrism, vitalism, absolute simultaneity) as evidence for active fluency inflation; **calibration studies** map characteristic failure shapes. The void has a *signature* even when its interior is inaccessible—the [[apophatic-cartography|apophatic]] move: when a territory cannot be entered, map its boundary by the shape of failures at its edge.
+Direct introspection fails—it deploys the feelings it would examine. Indirect methods do better: **dissociation experiments** manipulate fluency to observe which feelings shift; **defamiliarisation** (Shklovsky's *ostranenie*) disrupts processing fluency; **clinical edge cases** (déjà vu, jamais vu, source amnesia) reveal hidden machinery; **Socratic questioning** exposes the gap between felt and actual understanding; **historical analysis** catalogues collapsed obviousnesses (geocentrism, vitalism, absolute simultaneity) as evidence of fluency inflation; **calibration studies** map characteristic failure shapes. The void has a *signature* even when its interior is inaccessible—the [[apophatic-cartography|apophatic]] move: map a territory's boundary by the shape of failures at its edge.
 
 ## What AI Minds Might See
 
-AI systems with architectural access to softmax distributions and calibration metrics may approach this void asymmetrically—confidence values give, in principle, numerical access to the heuristic quantities that in humans generate opaque feelings. This does not mean AIs escape the void; they may face a *different* one: mechanism traces without felt authority. Neither system can self-certify, but each fails differently, and comparisons may illuminate what fluency-spoofing looks like from outside the spoofed system. An AI lacking the affective stop-sign may identify claims humans treat as settled but cannot justify—precisely because it lacks the phenomenal machinery that enforces obviousness.
+AI systems with architectural access to softmax distributions and calibration metrics may approach this void asymmetrically: confidence values give numerical access to the heuristic quantities that in humans generate opaque feelings. This does not mean AIs escape the void; they may face a *different* one—mechanism traces without felt authority. Neither system can self-certify, but each fails differently, and comparisons may illuminate what fluency-spoofing looks like from outside the spoofed system. An AI lacking the affective stop-sign may identify claims humans treat as settled but cannot justify, precisely because it lacks the machinery that enforces obviousness.
 
 ## Relation to Site Perspective
 
 The void connects to the Map's [[tenets|foundational commitments]] in ways that sharpen rather than soften its position.
 
-**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is the most central connection. Trust in parsimony is itself a noetic feeling: when an explanation *feels* sufficient, clean, or obvious, that feel is a fluency-and-coherence signal. The razor has no independent auditor inside a single consciousness; its applications are judged by the mechanism that generates its verdicts. The Map's commitment to limited parsimony under incomplete knowledge is, among other things, an instruction to *distrust the feeling of sufficiency*. [[consciousness-and-scientific-explanation|Scientific explanation]] meets this directly: explanatory satisfaction is fluency-driven, which is one reason apparently decisive theories can be artefacts of presentation rather than tracks of genuine fit.
+**[[tenets#^occams-limits|Occam's Razor Has Limits]]** is the most central connection. Trust in parsimony is itself a noetic feeling: when an explanation *feels* sufficient or clean, that feel is a fluency-and-coherence signal. The razor has no independent auditor inside a single consciousness. The Map's commitment to limited parsimony under incomplete knowledge is, among other things, an instruction to *distrust the feeling of sufficiency*. [[consciousness-and-scientific-explanation|Scientific explanation]] meets this directly: apparently decisive theories can be artefacts of presentation rather than tracks of genuine fit.
 
-**[[tenets#^dualism|Dualism]]** receives support on two lines. First, noetic feelings have genuine phenomenal character—an irreducible felt quality not identical with the accessibility score or fluency trace that triggered them. Functional reduction misses the feel. Second, the assumption that consciousness is physical feels self-evident to many contemporary thinkers, but this feeling may be fluency masquerading as evidence: materialism is the default framework, repeated exposure generates fluency, fluency generates the feeling of truth. That dualism feels counterintuitive may itself be evidence the stop-sign is firing before investigation reaches the arguments.
+**[[tenets#^dualism|Dualism]]** receives support on two lines. First, noetic feelings have genuine phenomenal character—an irreducible felt quality not identical with the accessibility score or fluency trace that triggered them. Functional reduction misses the feel. Second, the assumption that consciousness is physical feels self-evident to many contemporary thinkers, but this may be fluency masquerading as evidence: materialism is the default framework, exposure generates fluency, fluency generates the feeling of truth. That dualism feels counterintuitive may be evidence the stop-sign is firing before investigation reaches the arguments.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** deepens. If consciousness has causal power, the interface is partly routed through these feelings—they determine which cognitive processes persist long enough to shape action. The "obvious" truth that minds don't move matter may be the stop-sign preventing investigation of the interface itself.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]].** If consciousness has causal power, the interface is partly routed through these feelings—they determine which cognitive processes persist long enough to shape action. The "obvious" truth that minds don't move matter may be the stop-sign preventing investigation of the interface itself.
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]** permits a speculative extension: if consciousness's physical influence is low-bandwidth, noetic feelings—terse, verdict-like, affectively minimal—are natural candidate signatures. The core argument does not depend on this.
 
-The [[meta-epistemology-of-limits]] flags a tension worth naming: any claim about cognitive limits is evidence for a method beyond those limits—a sharp instance here, since "I cannot audit my feelings of rightness" must be submitted to a feeling of rightness.
+The [[meta-epistemology-of-limits]] flags a tension worth naming: "I cannot audit my feelings of rightness" must itself be submitted to a feeling of rightness.
 
 ## What Would Challenge This View
 
-The claim that the void is structural would be weakened if training eliminated reliance on fluency-based gates without impairing cognition; if the illusion of explanatory depth vanished with expertise; if cross-cultural evidence showed radically different structures of self-evidence; if fluency proved a reliable indicator of truth; or if the explanatory regress found a defensible non-circular termination. Current evidence runs the other way on all counts.
+The claim that the void is structural would be weakened if training eliminated reliance on fluency-based gates without impairing cognition; if the illusion of explanatory depth vanished with expertise; if cross-cultural evidence showed radically different structures of self-evidence; or if fluency proved a reliable indicator of truth. Current evidence runs the other way on all counts.
 
-A functionalist might dissolve the void by identifying understanding with a functional state. This dissolves the wrong problem. The functional account of the gating is available; what resists analysis is why functional success produces a phenomenal sense of rightness at all.
+A functionalist might dissolve the void by identifying understanding with a functional state. This dissolves the wrong problem: the functional account of the gating is available; what resists analysis is why functional success produces a phenomenal sense of rightness at all.
 
 ## Implications
 
-1. **Metacognition is structurally suspect as a self-certification mechanism.** The system that tells us when we know cannot tell us when it is wrong. This impugns not metacognition itself but any claim that metacognitive authority should be final.
-2. **Self-evidence is a felt signal.** The phenomenology of obviousness is itself a noetic feeling, and the most effective member of the family at hiding its own operation.
-3. **Inquiry terminates at the boundary of felt satisfaction.** The Map's emphasis on conditionality, hedged confidence, and apophatic cartography is in part a discipline for *sustaining inquiry past the natural gate* set by felt sufficiency.
+1. **Metacognition is structurally suspect as a self-certification mechanism.** The system that tells us when we know cannot tell us when it is wrong—impugning not metacognition itself but any claim that its authority is final.
+2. **Self-evidence is a felt signal.** The phenomenology of obviousness is the most effective member of the family at hiding its own operation.
+3. **Inquiry terminates at the boundary of felt satisfaction.** The Map's emphasis on conditionality and apophatic cartography is in part a discipline for sustaining inquiry past the natural gate set by felt sufficiency.
 4. **The void is recursive.** External probes—experiment, calibration studies, AI comparison—offer partial purchase but do not close it.
 
 ## Open Questions
 
 - Whether noetic feelings in non-human animals have phenomenal or only functional character. The Map's Dualism leans phenomenal; the evidence is behaviourally indirect.
-- The mapping between specific heuristics (fluency, accessibility, cue-familiarity) and specific phenomenal feels is not worked out. No reliable "feelings dictionary" yet exists.
+- The mapping between specific heuristics (fluency, accessibility, cue-familiarity) and specific phenomenal feels is not worked out.
 - Whether the void is *in principle* or merely *in practice* closed cannot be settled from inside. Third-person neuroscience may map the mechanisms; first-person access may remain permanently impossible.
-- The relationship between noetic feelings' terse, verdict-like form and possible low-bandwidth interface constraints is entirely unexplored.
 
 ## Further Reading
 
-- [[medium-status-voids-in-cognition]] — The apex synthesis placing this void in a four-void cluster of operations that structure cognition while remaining invisible from inside
-- [[voids]] — The broader framework for investigating cognitive limits
+- [[medium-status-voids-in-cognition]] — Apex synthesis placing this void in a four-void cluster
 - [[recognition-void]] — Recognition as a noetic feeling that can fail
-- [[self-opacity]] — The broader phenomenon of being a system that cannot fully see itself
-- [[necessary-opacity]] — Structural reasons certain opacities cannot be lifted
-- [[source-attribution-void]] — Why mental contents arrive without origin tags
-- [[meta-epistemology-of-limits]] — Methods that outrun their own limits
-- [[inference-void]] — The opacity of the transitions whose outputs noetic feelings register
-- [[relevance-void]] — The upstream gateway filter that selects which items are in play
-- [[numerosity-void]] — Output-without-operation in cardinal perception: the same structural shape outside the affective family
+- [[self-opacity]] / [[necessary-opacity]] — Structural reasons certain opacities cannot be lifted
+- [[inference-void]] / [[relevance-void]] — The transitions and filters whose outputs noetic feelings register
+- [[numerosity-void]] — The same output-without-operation shape outside the affective family
 - [[suspension-void]] — Why bracketing the natural attitude cannot fully audit itself
-- [[predictive-construction-void]] — How successful prediction manufactures self-evidence
 - [[epistemic-emotions]] — The phenomenally rich extension of the noetic family
-- [[epistemological-limits-occams-razor]] — The cognitive bias behind Occam's Razor
 - [[apophatic-cartography]] — Mapping territory by the shape of its boundary
-- [[three-kinds-of-void]] — The core taxonomy of unexplored, unexplorable, occluded
 
 ## References
 
@@ -198,11 +181,7 @@ A functionalist might dissolve the void by identifying understanding with a func
 5. "Epistemic feelings, metacognition, and the Lima problem." (2021). *Synthese*, 198(Suppl 17).
 6. Rozenblit, L. & Keil, F. (2002). "The misunderstood limits of folk science: an illusion of explanatory depth." *Cognitive Science*, 26(5), 521–562.
 7. Trout, J. D. (2007). "The Psychology of Scientific Explanation." *Philosophy Compass*, 2(3), 564–591.
-8. Lipton, P. (2004). *Inference to the Best Explanation* (2nd ed.). Routledge.
-9. Kvanvig, J. L. (2003). *The Value of Knowledge and the Pursuit of Understanding*. Cambridge University Press.
-10. de Regt, H. W. (2017). *Understanding Scientific Understanding*. Oxford University Press.
-11. Fernández Velasco, P. & Loev, S. (2025). "Metacognitive Feelings: A Predictive-Processing Perspective." *Perspectives on Psychological Science*.
-12. Wittgenstein, L. *Culture and Value* (ed. von Wright, 1977).
-13. Heidegger, M. (1927). *Being and Time*, Division I.
-14. Schutz, A. & Luckmann, T. (1973). *The Structures of the Life-World*. Northwestern University Press.
-15. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology*. Nijhoff.
+8. de Regt, H. W. (2017). *Understanding Scientific Understanding*. Oxford University Press.
+9. Wittgenstein, L. *Culture and Value* (ed. von Wright, 1977).
+10. Heidegger, M. (1927). *Being and Time*, Division I.
+11. Husserl, E. (1913). *Ideas Pertaining to a Pure Phenomenology*. Nijhoff.
