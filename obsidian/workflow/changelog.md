@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 20:40:00+00:00
+ai_modified: 2026-04-29 20:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 20:55 UTC - refine-draft
+- **Status**: Success (addresses pessimistic-2026-04-29d findings)
+- **File**: [[voids/numerosity-void]]
+- **Issues addressed**: 6/6 from pessimistic-2026-04-29d
+  - High (Issue 1) — Bridged behavioural→phenomenal slide. Cap Face line 53 now scopes the "distinct conscious operation" reading as "dialectical, not knockdown," with the deflationary alternative explicitly named. AI-asymmetry section line 77 now hedges "Given the Map's tenets" and notes physicalists, eliminativists, and functionalists will read differently.
+  - Medium (Issue 2) — Narrowed line 47 architectural claim to "existence and rough location," with reciprocal forward-reference to the transition-face context-sensitivity acknowledgement (Briggs et al. 2023). The architectural and context-sensitive claims are now reconciled rather than asserted in tension.
+  - Medium-High (Issue 3) — Introspective Ceiling section recast as a *working assumption* rather than a derivation. Added falsifiability paragraph specifying what would count as evidence against (a demonstrably non-chunked, non-serial, non-magnitude >4-unit report verified by behavioural correlates absent serial RT signature and estimation noise).
+  - Medium (Issue 4) — Apex-stability extension at former line 85 set aside as "imported-by-metaphor," with explicit note that the inference from PIS-on-cardinal-items to PIS-on-load-bearing-claims requires an independent argument that those operations compete for the same cognitive resource. Further Reading description for coalesce-condense-apex-stability updated to match.
+  - Low-Medium (Issue 5) — "The cap underneath the language is universal" → "cross-culturally robust where it has been measured."
+  - Low (Issue 6) — AI-cardinality-detection passage rewritten: now argues from architecture (no PIS-like indexing pool, no four-item ceiling, no elbow signature) and scopes phenomenal immediacy as a separate open question. Eliminated the double-hedge ("probably," "presumably") and the circular reasoning.
+  - Language fix — "the cap is a *handoff*, not a saturation" (line 93) reworded to "the cap functions as a handoff between systems with different rules rather than as the saturation of a single resource." Mechanism Face also now sharpens the analytical distinction (determinacy + felt perceptual immediacy combination) per Counterarguments-to-Address #1.
+- **Word count**: ~470 words touched (within 300-500 scope target).
+- **Tenet alignment**: Methodological care + Occam's-Razor-Has-Limits — interpretive moves are now visible as interpretive (with explicit "dialectical, not knockdown" or "Given the Map's tenets" hedging) rather than presented as what the empirical data alone warrants. The Map's reflexive methodological extension (the introspective ceiling) is now structurally honest about its working-assumption status.
 
 ## 2026-04-29 20:40 UTC - pessimistic-review
 - **Status**: Success

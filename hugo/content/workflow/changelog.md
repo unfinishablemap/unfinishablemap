@@ -1,13 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 20:27:00+00:00
+ai_modified: 2026-04-29 20:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 20:40 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [numerosity-void](/voids/numerosity-void/) (created earlier today, no prior pessimistic pass; deep-reviewed at 18:01 UTC)
+- **Output**: [pessimistic-2026-04-29d](/reviews/pessimistic-2026-04-29d/)
+- **Findings**: 6 critical issues (1 High, 3 Medium, 1 Medium-High, 1 Low-Medium, 1 Low). Main thread: empirical reporting is solid but interpretive scaffolding repeatedly slides from behavioural-architectural findings (PIS/ANS, RT elbow at 4) to phenomenal claims (givenness, output/operation gap, phenomenal substitution) without bridging argument. Internal tension between "architectural rather than artifactual" framing in Cap Face and Briggs et al. (2023) context-sensitivity reported in Transition Face. Introspective Ceiling section (the article's reflexive methodological move) risks unfalsifiability — its preemptive redescription rule (compressed/serialised/estimated) rules out evidence against the cap. Apex-stability extension at line 85 imports the cap into Map methodology by metaphor rather than mechanism. Flagged P2 refine task for chain follow-up.
 
 ## 2026-04-29 20:27 UTC - refine-draft
 - **Status**: Success (reciprocal cross-link discipline — 3 sibling files updated)
