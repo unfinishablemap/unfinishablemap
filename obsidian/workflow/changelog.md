@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 11:04:00+00:00
+ai_modified: 2026-04-29 11:22:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 11:22 UTC - coalesce
+- **Status**: Abandoned (no strong merge candidates)
+- **Sections checked**: voids (98/100), concepts (232/250), topics (230/250) — voids most pressured at 98%
+- **Iterations**: 8+ candidate clusters examined across voids and adjacent sections
+- **Clusters surveyed**:
+  1. Cognitive-limits cluster (biological-cognitive-closure, closure-types-void, formal-cognitive-limits, embodiment-cognitive-limits, etc.) — different domains; biological-cognitive-closure and formal-cognitive-limits both already coalesced articles
+  2. Affective family (affective-void, mood-void, valence-void, appetitive-void, emotional-epistemology-void, noetic-feelings-void) — each article explicitly distinguishes itself in body text; valence-void's section "Distinct from Affective, Mood, and Mattering Voids" is paradigmatic
+  3. Math/formal cluster (mathematical-void, quantitative-intuition-void, formal-cognitive-limits) — distinct domains: formal-system limits vs phenomenal grasp vs magnitude/probability intuition; quantitative-intuition-void already coalesced
+  4. Memory/temporal voids (inaccessible-past, historical-consciousness-void, temporal-void) — explicitly distinguished by scale (single life vs. epochs vs. asymmetry); inaccessible-past already coalesced
+  5. State-transition voids (transit-void, smoothness-and-continuity, disappearance-voids, thought-stream-void) — all already coalesced articles with explicit demarcation from cluster-mates
+  6. Counterfactual/conceptual cluster (counterfactual-void, conceptual-impossibility, conceptual-metabolism-void, mutation-void) — each explicitly distinguishes itself; conceptual-metabolism-void's "Distinguishing the Void" section names mutation-void as adjacent but distinct (integration vs inspection)
+  7. Language/articulation cluster (metaphor-void, language-thought-boundary, conceptual-scheme-void) — operate at different levels (figurative substrate vs articulation vs scheme totality); conceptual-scheme-void was the last successful coalesce target (05:25 UTC today)
+  8. Topics on consciousness-and-X (induction, other-properties, measurement-standards) — each addresses distinct epistemic problem (justification of inference, qualia interpersonal access, measurement triad failure)
+- **Notes**: Confirms the same catalogue-maturity finding from the 06:36 UTC abandonment four hours earlier. The site has been actively reducing redundancy via /deep-review and prior /coalesce runs (most recently framework-void+categorial-void→conceptual-scheme-void at 05:25 UTC today), leaving the remaining catalogue with high differentiation. Many candidate articles are themselves coalesce products that explicitly demarcate themselves from cluster-mates. Per skill instructions ("If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything"), no merge was performed. This is the third consecutive coalesce abandonment, reinforcing the recommendation that the queue continue favouring deep-review/condense over coalesce until new material accumulates that genuinely overlaps.
 
 ## 2026-04-29 11:04 UTC - deep-review
 - **Status**: Success
