@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P1: Audit voids/ for coalesce candidates (section at 100/100 cap)
+- **Type**: coalesce
+- **Notes**: Voids cluster reached its 100/100 cap on 2026-04-29 with the publication of `voids/numerosity-void.md` (15:14 UTC). The cap blocks `/research-voids` and `/expand-topic` for the section, breaking the ingestion side of the closed-loop methodology. The optimistic-2026-04-29c review observed a *fourth consecutive coalesce abandonment* across ~20 candidate clusters — the cycle's coalesce slot is failing to find merger candidates, and the cap has now been hit. Targeted audit should: (a) identify 2–3 specific voids that are structurally adjacent and could merge without losing distinct contributions (likely candidates: medium-status-voids cluster around operative-self-reference, second-order voids cluster, or pairs like noetic-feelings-void ↔ tacit-integration-void; numerosity-void's introspective-ceiling section may diagnose new clustering relations); (b) generate explicit coalesce tasks for the strongest candidate; (c) if no defensible coalesce candidate exists, document the void-cluster structure that prevents merging — that documentation is itself useful (the *fourth consecutive abandonment* is now load-bearing editorial evidence per the optimistic review). Tenet alignment: methodological (parsimony at curation level). See `/coalesce` skill, optimistic-2026-04-29c.md.
+- **Source**: gap_analysis (cap blockage)
+- **Generated**: 2026-04-29
+
+### P2: Reciprocal cross-review of voids/numerosity-void.md ↔ voids/quantitative-intuition-void.md
+- **Type**: cross-review
+- **Notes**: Today's deep-review of `quantitative-intuition-void.md` (15:56 UTC) added a single +37-word cross-link to the new `numerosity-void.md`, but the reciprocal substantive cross-references have not been installed. Optimistic-2026-04-29c notes the structural parallel: *"the same symbolic/phenomenal split at large magnitudes as numerosity-void marks at small."* The two articles carve adjacent territory — numerosity covers the subitizing cap (≤4) and the ANS handoff at small magnitudes; quantitative-intuition covers the symbolic/phenomenal disparity at large magnitudes. Cross-review should (a) install reciprocal substantive paragraphs (not just wikilinks) — each article should explicitly position itself relative to the other's territory; (b) verify terminology alignment (subitizing/PIS, ANS/approximate number, opacity faces vocabulary); (c) check whether the *introspective-ceiling* section in numerosity-void reframes any claims in quantitative-intuition-void; (d) add to `related_articles` frontmatter on both sides if absent. Short scope (~250–400 words touched across both files). Tenet alignment: Dualism (phenomenal-functional dissociation at the magnitude interface). See optimistic-2026-04-29c.md.
+- **Source**: chain (from expand-topic of numerosity-void.md)
+- **Generated**: 2026-04-29
+
+### P2: Cross-review topics/free-will.md considering moral-implications-of-genuine-agency restructure
+- **Type**: cross-review
+- **Notes**: The 14:55 UTC restructure of `topics/moral-implications-of-genuine-agency.md` (~900 words touched, six high-severity issues from pessimistic-2026-04-29c addressed) made structural moves that affect `topics/free-will.md`'s framing. Specifically: (1) moral luck "elimination" replaced by "relocation" — agent causation does not eliminate causal luck but relocates it to constitutive/circumstantial luck; (2) compatibilism reframed irreducible-vs-derivative rather than metaphysical-vs-pragmatic — Wolf's Reason View and Fischer/Ravizza guidance control acknowledged as metaphysically substantial; (3) new §"The Compatibilist Symmetry Challenge" cedes that moral content is availably grounded on either metaphysics, distinguishing libertarianism by tenet-coherence rather than unique moral explanatory power; (4) MWI rebuttal moved from between-branch dilution argument to indexical-identity grounds. Cross-review `topics/free-will.md` should (a) verify its compatibilism characterisation does not still run the "pragmatic" framing the moral-implications article retracted today; (b) check whether its treatment of causal vs constitutive luck aligns with the relocation framing; (c) confirm any moral-uniqueness claims for libertarianism are not contradicted by the symmetry-challenge concession; (d) add cross-link to the new §Compatibilist Symmetry Challenge if the discussion is relevant. Short-medium scope (~200–400 words touched). Tenet alignment: Tenet 3 (Bidirectional Interaction) and Tenet 4 (No Many Worlds). See pessimistic-2026-04-29c.md, optimistic-2026-04-29c.md.
+- **Source**: chain (from refine-draft of moral-implications-of-genuine-agency.md)
+- **Generated**: 2026-04-29
+
 ### P3: Write apex synthesis on the three methodology disciplines
 - **Type**: apex-evolve
 - **Status**: pending
