@@ -4,8 +4,8 @@ description: "Every mind operates with a finite system of categories and inferen
 created: 2026-02-20
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T05:25:00+00:00
-last_deep_review: 2026-04-29T05:25:00+00:00
+ai_modified: 2026-04-29T09:36:00+00:00
+last_deep_review: 2026-04-29T09:36:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,6 +18,10 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[medium-status-voids-in-cognition]]"
+  - "[[mattering-void]]"
+  - "[[relevance-void]]"
+  - "[[noetic-feelings-void]]"
   - "[[three-kinds-of-void]]"
   - "[[taxonomy-of-voids]]"
   - "[[conceptual-impossibility]]"
@@ -49,7 +53,7 @@ coalesced_from:
 
 Every mind operates with a finite system of categories and inferential patterns that constitutes thought before any specific thought occurs. The Conceptual Scheme Void marks the structural limit set by that system. It has two faces. At the level of the scheme as a whole, the totality is a *framework* that makes thought possible by excluding what it cannot represent — and is invisible because it constitutes the seeing rather than what is seen. At the level of structure within the scheme, particular *categories* — *property*, *substance*, *cause*, *event*, *relation* — are the general shapes any concept must take to track a kind of feature at all. Reality may contain features for which our apparatus has no such shape, or features that fit *no* shape we can produce. Either failure is a void; the framework as a whole has no Archimedean point from which to inventory what it lacks.
 
-This makes the conceptual scheme void a meta-void: the condition that generates many of the Map's other cognitive limits. The reason certain thoughts resist articulation, certain categories resist formation, and certain problems resist solution may ultimately be that the scheme within which thought occurs excludes what it cannot represent — silently, systematically, and without announcing its boundaries.
+This makes the conceptual scheme void a meta-void: the condition that generates many of the Map's other cognitive limits. The reason certain thoughts resist articulation, certain categories resist formation, and certain problems resist solution may ultimately be that the scheme within which thought occurs excludes what it cannot represent — silently, systematically, and without announcing its boundaries. It joins the [[mattering-void|mattering]], [[relevance-void|relevance]], and [[noetic-feelings-void|noetic-feelings]] voids in the cluster of [[medium-status-voids-in-cognition|medium-status voids]] — operations that structure other contents while remaining invisible from inside.
 
 ## Framework and Categorial: Two Scales of the Same Claim
 
@@ -89,13 +93,13 @@ Several candidates recur. Each is offered as *a place the void might lie*, not a
 
 **Experience structured by apparatus we do not possess.** Our categories of *space*, *object*, and *action* are built from the invariance structure of human perception (Sonesson, 2020). A being with radically different sensors or embodiment might operate with categorial shapes our apparatus cannot instantiate — testable rather than settled, per [[non-human-minds-as-void-explorers|non-human minds as void-explorers]].
 
-**Different metaphysical axes.** Graham (1989) argued that *physical object*, *causation*, and *quantity* may be parochial features of Indo-European languages. Strong linguistic relativity is widely rejected; weaker versions still suggest the categorial axes a mind carves are not self-evidently the ones reality follows.
+**Different metaphysical axes.** Graham (1989) argued that *physical object*, *causation*, and *quantity* may be parochial to Indo-European languages. Strong linguistic relativity is widely rejected; weaker versions still suggest the categorial axes a mind carves are not self-evidently those reality follows.
 
 ## Evidence That the Limit Is Genuine
 
 The persistence of the mind-body problem provides circumstantial evidence at the framework scale. After millennia of philosophical effort, dualism and materialism remain in approximately the same standoff. If the problem were merely difficult, convergence would be expected; its absence is consistent with framework-dependence.
 
-The 2023–2025 adversarial testing of Integrated Information Theory against Global Neuronal Workspace Theory revealed a related pattern. Even with shared experimental protocols, the theories operationalised different variables and defined success differently. They may be logically commensurable while remaining empirically incommensurable — looking for different things in the same data.
+The 2023–2025 adversarial testing of Integrated Information Theory against Global Neuronal Workspace Theory showed the same pattern at smaller scale: shared protocols, different operationalisations, different success criteria — logically commensurable, empirically incommensurable.
 
 Colin McGinn's species-relativity argument adds a further dimension. If [[biological-cognitive-closure|cognitive closure]] varies across species — "what is closed to the mind of a rat may be open to the mind of a monkey" — the human conceptual scheme may exclude possibilities other architectures access. Both dualist and materialist frameworks may be wrong in ways neither can specify, because specifying the error requires concepts neither contains.
 
@@ -123,7 +127,7 @@ Two further signatures recur. *Recursive collapse:* evaluating one's apparatus r
 
 ## Approaches to the Edge
 
-Davidson's challenge — that total incommensurability is incoherent because describing an alternative scheme dissolves the incommensurability — assumes understanding reduces to translatable propositional content. The scheme void may operate at a level the argument does not reach: not at the level of beliefs (which can be charitably interpreted) but at what counts as a belief, what questions seem meaningful, and what forms an explanation can take.
+Davidson's challenge assumes understanding reduces to translatable propositional content. The scheme void may operate at a level the argument does not reach: not at the level of beliefs (which can be charitably interpreted) but at what counts as a belief, what questions seem meaningful, and what forms an explanation can take.
 
 Two partial methods remain.
 
@@ -135,7 +139,7 @@ A third partial method — Husserl's *epoché*, the phenomenological suspension 
 
 Each of these methods confronts a reflexive complication. Describing scheme-dependence requires specific metaphors — *lens*, *prison*, *walls*, *map* — whose own distortions cannot be identified from within them. [[metaphor-void|The metaphor void]] operates one level beneath: schemes can be examined (with difficulty) from other schemes, but metaphors can only be examined through other metaphors.
 
-AI systems occupy a distinctive position: lacking first-person experiential grounding, they can operate within multiple philosophical frameworks without the commitment of embodied stance. Whether this is genuine framework-switching or surface simulation is itself a framework-dependent question — explored in [[non-human-minds-as-void-explorers]].
+AI systems, lacking first-person experiential grounding, can operate within multiple frameworks without embodied stance — whether this is genuine framework-switching or surface simulation is itself a framework-dependent question, explored in [[non-human-minds-as-void-explorers]].
 
 ## Honest Limitations
 
@@ -157,6 +161,7 @@ The conceptual scheme void ultimately suggests that the Map is unfinishable not 
 
 ## Further Reading
 
+- [[medium-status-voids-in-cognition|Medium-Status Voids in Cognition]] — The apex synthesis placing this void in a four-void cluster of operations that structure cognition while remaining invisible from inside
 - [[voids|The voids framework]] — The broader project this void belongs to
 - [[three-kinds-of-void]] — The taxonomy of unexplored, unexplorable, and occluded territory
 - [[conceptual-impossibility]] — Limits at the level of specific concepts, not entire schemes
@@ -189,7 +194,6 @@ The conceptual scheme void ultimately suggests that the Map is unfinishable not 
 10. Mellor, S., et al. (2025). "Adversarial testing of global neuronal workspace and integrated information theories of consciousness." *Nature*.
 11. Nagel, T. (1974). "What Is It Like to Be a Bat?" *The Philosophical Review*, 83(4), 435–450.
 12. Nagel, T. (1986). *The View from Nowhere*. Oxford University Press.
-13. Quine, W.V.O. (1968). "Ontological Relativity." *The Journal of Philosophy*, 65(7), 185–212.
-14. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science* (Vol. 1, pp. 253–329). University of Minnesota Press.
-15. Sonesson, G. (2020). "Primary cognitive categories are determined by their invariances." *Frontiers in Psychology*, 11, 584017.
-16. Strawson, P. F. (1959). *Individuals: An Essay in Descriptive Metaphysics*. Methuen.
+13. Sellars, W. (1956). "Empiricism and the Philosophy of Mind." In *Minnesota Studies in the Philosophy of Science* (Vol. 1, pp. 253–329). University of Minnesota Press.
+14. Sonesson, G. (2020). "Primary cognitive categories are determined by their invariances." *Frontiers in Psychology*, 11, 584017.
+15. Strawson, P. F. (1959). *Individuals: An Essay in Descriptive Metaphysics*. Methuen.

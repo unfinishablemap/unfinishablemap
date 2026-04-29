@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/conceptual-scheme-void.md considering medium-status apex synthesis
-- **Type**: cross-review
-- **Notes**: Chain from today's apex-evolve. The new `apex/medium-status-voids-in-cognition.md` names `[[conceptual-scheme-void]]` as one of the four medium-status cluster members (apex line 48, "the [[conceptual-scheme-void|conceptual-scheme void]] names the medium of framing"), but the conceptual-scheme-void article was written before the apex's medium-status synthesis crystallised and may not yet articulate the specific *medium-of-framing* role the apex now anchors. Cross-review should (a) verify `voids/conceptual-scheme-void.md` makes the medium-status structural claim explicit (it currently emphasises Whorfian/Quinean conceptual-relativity; the medium-status framing is a distinct emphasis that the apex now uses); (b) install a wikilink to `[[medium-status-voids-in-cognition]]` at the first invocation of the medium-status feature; (c) add a reciprocal §"Medium-Status Cluster" paragraph or pointer connecting to the three sister voids (`[[mattering-void]]`, `[[relevance-void]]`, `[[noetic-feelings-void]]`); (d) update `related_articles` frontmatter to include the apex and any newly-relevant siblings; (e) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (f) preserve the article's existing voice and Whorfian/Quinean treatment. Short scope (~200-300 words touched). Tenet alignment: Dualism (medium-status framing as anti-functionalist wedge); Occam's-Limits (parsimony at the cluster level requires the structural commonality the apex makes explicit). See `/deep-review` skill for cross-review execution.
-- **Source**: chain
-- **Generated**: 2026-04-29
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3055,6 +3049,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review voids/conceptual-scheme-void.md considering medium-status apex synthesis
+- **Type**: cross-review
+- **Notes**: Chain from today's apex-evolve. The new `apex/medium-status-voids-in-cognition.md` names `[[conceptual-scheme-void]]` as one of the four medium-status cluster members (apex line 48, "the [[conceptual-scheme-void|conceptual-scheme void]] names the medium of framing"), but the conceptual-scheme-void article was written before the apex's medium-status synthesis crystallised and may not yet articulate the specific *medium-of-framing* role the apex now anchors. Cross-review should (a) verify `voids/conceptual-scheme-void.md` makes the medium-status structural claim explicit (it currently emphasises Whorfian/Quinean conceptual-relativity; the medium-status framing is a distinct emphasis that the apex now uses); (b) install a wikilink to `[[medium-status-voids-in-cognition]]` at the first invocation of the medium-status feature; (c) add a reciprocal §"Medium-Status Cluster" paragraph or pointer connecting to the three sister voids (`[[mattering-void]]`, `[[relevance-void]]`, `[[noetic-feelings-void]]`); (d) update `related_articles` frontmatter to include the apex and any newly-relevant siblings; (e) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (f) preserve the article's existing voice and Whorfian/Quinean treatment. Short scope (~200-300 words touched). Tenet alignment: Dualism (medium-status framing as anti-functionalist wedge); Occam's-Limits (parsimony at the cluster level requires the structural commonality the apex makes explicit). See `/deep-review` skill for cross-review execution.
+- **Output**: obsidian/voids/conceptual-scheme-void.md -- Context: Cross-review voids/conceptual-scheme-void.md considering medium-status apex synthesis
 
 ### ✓ 2026-04-29: Refine voids/common-knowledge-void.md to bring under 3000-word hard threshold
 - **Type**: refine-draft
