@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/taxonomy-of-voids.md and voids/meta-epistemology-of-limits.md against medium-status-voids-in-cognition apex
-- **Type**: cross-review
-- **Notes**: Chain from today's apex-evolve completion (2026-04-29 08:10 UTC). The new `apex/medium-status-voids-in-cognition.md` shares territory with two earlier hub articles — `apex/taxonomy-of-voids.md` (which classifies all voids on multiple axes) and `voids/meta-epistemology-of-limits.md` (which treats the apparatus-versus-content distinction as a meta-question). The new apex's medium-status category needs to be situated within the taxonomy's existing axes (likely under the *phenomenology-vs-function axis* or as a new content-vs-capacity-vs-medium axis); it also needs to be cross-referenced from meta-epistemology-of-limits as one of the worked-example clusters of medium-status apparatus. Cross-review should (a) verify taxonomy-of-voids includes the medium-status category as a recognised classification axis (or specify why it should not be added — perhaps the four examples don't yet justify a new axis), (b) install reciprocal links between meta-epistemology-of-limits and medium-status-voids-in-cognition with a paragraph in each pointing out the structural-kinship, (c) check terminology consistency across the three articles (medium-status, apparatus, condition-of-investigation), (d) preserve each article's voice. Medium scope (~300-500 words across three articles). Tenet alignment: methodological/Occam's Razor Has Limits. See `/deep-review` skill.
-- **Source**: chain (from apex/medium-status-voids-in-cognition.md)
-- **Generated**: 2026-04-29
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3076,6 +3070,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review apex/taxonomy-of-voids.md and voids/meta-epistemology-of-limits.md against medium-status-voids-in-cognition apex
+- **Type**: cross-review
+- **Notes**: Chain from today's apex-evolve completion (2026-04-29 08:10 UTC). The new `apex/medium-status-voids-in-cognition.md` shares territory with two earlier hub articles — `apex/taxonomy-of-voids.md` (which classifies all voids on multiple axes) and `voids/meta-epistemology-of-limits.md` (which treats the apparatus-versus-content distinction as a meta-question). The new apex's medium-status category needs to be situated within the taxonomy's existing axes (likely under the *phenomenology-vs-function axis* or as a new content-vs-capacity-vs-medium axis); it also needs to be cross-referenced from meta-epistemology-of-limits as one of the worked-example clusters of medium-status apparatus. Cross-review should (a) verify taxonomy-of-voids includes the medium-status category as a recognised classification axis (or specify why it should not be added — perhaps the four examples don't yet justify a new axis), (b) install reciprocal links between meta-epistemology-of-limits and medium-status-voids-in-cognition with a paragraph in each pointing out the structural-kinship, (c) check terminology consistency across the three articles (medium-status, apparatus, condition-of-investigation), (d) preserve each article's voice. Medium scope (~300-500 words across three articles). Tenet alignment: methodological/Occam's Razor Has Limits. See `/deep-review` skill.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Cross-review apex/taxonomy-of-voids.md and voids/meta-epistemology-of-limits.md against medium-status-voids-in-cognition apex
 
 ### ✓ 2026-04-29: Install reciprocal cross-links from concepts/coalesce-condense-apex-stability.md hub articles
 - **Type**: cross-review

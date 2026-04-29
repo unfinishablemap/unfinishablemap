@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 12:04:00+00:00
+ai_modified: 2026-04-29 12:19:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 12:19 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/taxonomy-of-voids]]
+- **Mode**: Cross-review with new [[medium-status-voids-in-cognition]] apex (created 11:34 UTC) and post-coalesce/condense [[meta-epistemology-of-limits]]
+- **Word count**: 4601 → 4650 (+49; soft_warning preserved, ~350-word margin to hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (medium-status framing as a third cross-cutting axis was absent from the apex despite the medium-status apex introducing a genuine new methodological discipline parallel to presence/absence and phenomenology-vs-function)
+- **Enhancements made**: new content/capacity/medium-status axis paragraph added at end of §Phenomenological Cluster naming the four medium-status voids (mattering, relevance, noetic-feelings, conceptual-scheme), the operative-self-reference shape, and the five-tradition convergence (Heidegger, Frankfurt, Ratcliffe, Carruthers, Vervaeke); mattering-void cluster-sentence trimmed and forward-anchored to the new axis; Formal/Meta-Cognitive Cluster lightly compressed (~30 words); erasure-void mode treatment lightly tightened; frontmatter related_articles updated (added medium-status-voids-in-cognition, noetic-feelings-void); Source Articles list extended; cross-link added to meta-epistemology-of-limits frontmatter
+- **Output**: [[reviews/deep-review-2026-04-29c-taxonomy-of-voids]]
+- **Note**: Third deep-review of this article today. The medium-status axis is the first apex-level appearance of the noetic-feelings-void and the first time the four medium-status voids are framed as a structural cluster rather than scattered across clusters. Stability notes flagged: three cross-cutting axes are now canonical; future reviews should not reorder, merge, or split them.
 
 ## 2026-04-29 12:04 UTC - deep-review
 - **Status**: Success
