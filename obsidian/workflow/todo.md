@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 02:34:00+00:00
+ai_modified: 2026-04-29T03:49:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,36 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense voids/common-knowledge-void.md (3190 words, 160% of voids soft target)
+- **Type**: condense
+- **Notes**: Article exceeds 3000-word voids hard threshold (currently 3190 words; 160% of 2000-word soft target). Created 2026-04-29 via expand-topic, refined the same day to address pessimistic-review issues, but length was not aggressively reduced. Preserve the load-bearing four-tradition convergence (Lewis, Schiffer, Chwe, Hakli) and the three-kinds-taxonomy placement; condense by removing redundant exposition between the historical-survey and applications sections, and by deferring detailed sub-arguments (e.g., expanded social-epistemology citations, secondary AI-coordination examples) to linked articles. Target ~2500 words to leave headroom under hard threshold. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-29
+
+### P2: Cross-review voids/meaning-void.md considering mattering-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mattering-void.md (created 2026-04-29) lists [[meaning-void]] in its `related_articles` and the lede explicitly distinguishes the mattering void from neighbouring voids including meaning. Mattering's claim — that the felt weight of significance is itself the invisible medium through which any meaning-distinction is made — sits one structural layer below the aboutness/semantic-gap partition that meaning-void carries. Cross-review should (a) install reciprocal wikilinks from meaning-void to mattering-void at the points where significance-as-condition is treated (likely in the Tenet alignment / Site Perspective sections); (b) check whether meaning-void's distinction between aboutness-gap and semantic-gap can be sharpened by acknowledging that *mattering* is the prior layer on which both gaps presuppose a subject for whom anything matters at all; (c) verify terminology consistency (mattering vs significance vs salience); (d) preserve meaning-void's current voice and length (the article is already a recent coalesce result and a P3 condense candidate — keep edits light-touch, ~150-300 words touched). Tenet alignment: Dualism, Occam's Razor Has Limits.
+- **Source**: chain (from mattering-void.md expand-topic 2026-04-29)
+- **Generated**: 2026-04-29
+
+### P2: Cross-review voids/valence-void.md considering mattering-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/mattering-void.md (created 2026-04-29) explicitly distinguishes the mattering void from the valence void at length in its opening section: valence concerns the polarity of feelings (good/bad) once something registers as mattering, while mattering concerns the prior structural fact of significance showing up at all. The distinction is load-bearing for both articles. Cross-review should (a) install a reciprocal wikilink from valence-void to [[mattering-void]] where the valence/mattering distinction would clarify the article's scope; (b) check whether valence-void's exposition of polarity-without-significance examples (e.g., affect-without-content cases) can borrow the mattering/valence layering as a structural disambiguation; (c) verify terminology consistency; (d) preserve voice and structure — light-touch edit (~100-200 words touched). Tenet alignment: Dualism — both voids reinforce the explanatory-gap argument by identifying structurally distinct phenomenal residues.
+- **Source**: chain (from mattering-void.md expand-topic 2026-04-29)
+- **Generated**: 2026-04-29
+
+### P2: Cross-review voids/noetic-feelings-void.md considering relevance-void insights
+- **Type**: cross-review
+- **Notes**: New article voids/relevance-void.md (created 2026-04-29) lists [[noetic-feelings-void]] in its `related_articles` and the lede explicitly distinguishes them: noetic feelings are the felt qualities (rightness, familiarity, understanding) that *gate* inquiry from inside, whereas relevance is the prior live-narrowing operation that decides which contents are even candidates for inquiry in the first place. Cross-review should (a) install reciprocal wikilinks from noetic-feelings-void to [[relevance-void]] where the gating-vs-narrowing distinction would clarify the article; (b) check whether noetic-feelings-void's treatment of metacognitive feelings can be sharpened by acknowledging that the relevance-filter has already operated by the time noetic feelings show up — they are gates *within* a pre-narrowed candidate set; (c) verify terminology consistency (relevance vs salience vs noetic feelings); (d) preserve voice and structure — light-touch edit (~150-250 words touched). Tenet alignment: Dualism, Occam's Razor Has Limits.
+- **Source**: chain (from relevance-void.md expand-topic 2026-04-29)
+- **Generated**: 2026-04-29
+
+### P2: Cross-review apex/taxonomy-of-voids.md to incorporate three new void articles
+- **Type**: cross-review
+- **Notes**: Three voids articles created on 2026-04-29 are absent from the taxonomy apex: voids/common-knowledge-void.md (created and refined 2026-04-29), voids/mattering-void.md (created 2026-04-29 02:34 UTC), and voids/relevance-void.md (created 2026-04-29 03:35 UTC). A grep for these slugs in apex/taxonomy-of-voids.md returns zero matches. The taxonomy was last apex-evolved 2026-04-28 12:45 UTC. Cross-review should (a) identify natural insertion points for each new void in the apex's existing cluster taxonomy — common-knowledge belongs in the inter-subjective / social-epistemic cluster; mattering and relevance belong in the noetic / second-order / phenomenology cluster (alongside noetic-feelings, framework-void, question-formation-void); (b) install brief references with delegation rather than re-establishment (the apex should *use* each new void as a worked example, not re-derive it); (c) update the apex's `related_articles` frontmatter; (d) check the apex's word count before edits — if near hard threshold (currently 4000-word target for apex/), prefer condensing existing redundancy over net expansion; (e) preserve voice and synthesis-tier framing. Light-touch edit (~250-400 words touched). Tenet alignment: methodological — keeping the taxonomy current as new voids land.
+- **Source**: chain (from three expand-topic completions on 2026-04-29)
+- **Generated**: 2026-04-29
 
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
