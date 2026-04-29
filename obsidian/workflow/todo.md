@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-28 21:53:00+00:00
+ai_modified: 2026-04-29 00:24:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense voids/meta-epistemology-of-limits.md (3924 words, 196% of voids hard threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article was just expanded by the 2026-04-28 23:08 UTC coalesce that merged `voids/epistemic-horizon-void.md` into `voids/meta-epistemology-of-limits.md` (commit 9d53557a2). Pre-coalesce the article was ~2537 words after the 2026-04-23 condense pass; post-coalesce it stands at 3924 words — well above the 2000-word voids hard threshold and the worst real-content length offender on the site. The merge preserved both source articles' contributions but did not aggressively condense the joined material. Preserve: (a) the four meta-questions (genuineness, scope, dissolved-vs-persistent diagnostic, designed-vs-natural) which are load-bearing for the article's structural argument; (b) the epistemic-horizon-void content under §"The Scope Question" (this was the coalesce's central addition); (c) the suspension/categorial-void/inference-void/question-formation-void cross-link cluster added today; (d) the Münchhausen trilemma framing in §Tenet Alignment. Trim: redundant tradition-comparison framings between epistemic-horizon-void's pre-coalesce material and the existing meta-epistemology framing (the merge created some duplication); overlong examples that recapitulate structural arguments already named precisely; cross-tradition convergence paragraphs where the Map's internal cite-graph already establishes the point. Target: ≤3000 words (hard threshold), ideally ≤2400 (soft warning band). See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-29
+
+### P2: Cross-review apex/taxonomy-of-voids.md considering 2026-04-28 coalesced voids/meta-epistemology-of-limits.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from the 2026-04-28 23:08 UTC coalesce that merged `voids/epistemic-horizon-void.md` into `voids/meta-epistemology-of-limits.md` (commit 9d53557a2). The apex article references both `[[meta-epistemology-of-limits]]` and `[[epistemic-horizon-void]]` in several places (the apex was last refined to integrate the phenomenology-vs-function axis; the epistemic-horizon-void wikilink update task is queued separately as a P3). Cross-review should (a) audit the apex's prose for stale framing of meta-epistemology-of-limits — passages that described the article's pre-coalesce scope may now under-represent its expanded content (the article now covers the scope-of-ignorance face previously lodged in epistemic-horizon-void); (b) for any remaining `[[epistemic-horizon-void]]` wikilinks, replace with `[[meta-epistemology-of-limits]]` (using anchor `#the-scope-question-estimating-total-ignorance-from-within` where the link's role was specifically about scope/horizon); (c) verify the apex's §"The Taxonomy's Own Limits" and §"Methods" sections cite meta-epistemology-of-limits at the right places now that the article's scope is broader; (d) update related_articles if needed; (e) preserve the apex's existing voice and framework. Coordinate with the queued P3 wikilink-sweep task to avoid duplicate edits. Short-medium scope (~200-400 words touched). Tenet alignment: methodological — keeping apex/voids navigation honest after coalesce.
+- **Source**: chain
+- **Generated**: 2026-04-29
+
+### P2: Cross-review topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md considering 2026-04-29 cognitive-phenomenology concept-page refresh
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from today's 2026-04-29 00:13 UTC refine of `concepts/cognitive-phenomenology.md` (commit 5114b39c3) which added a cross-link to `[[phenomenology-vs-function-axis]]` in §"Evidence from Unusual Cases", added the axis to frontmatter concepts, and tightened the "Mathematical Understanding Case" framing. The topic article `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md` is the strongest downstream consumer of the concept page (cites `[[cognitive-phenomenology]]` four times across body and references) and also references `[[phenomenology-vs-function-axis]]` independently (line 32, 127). Cross-review should (a) verify the topic article's framing of cognitive-phenomenology still aligns with the concept page after the refresh — particularly the "phenomenal contrast arguments, dissociation evidence, and contemplative testimony" formulation cited at line 47, which mirrors the concept page's structure; (b) check whether the topic's treatment of the foreign-language argument and aphantasic-thought wedge can now be tightened by referencing the concept page's refreshed §"Evidence from Unusual Cases"; (c) verify that the topic article and the concept page are not duplicating exposition the concept page now hosts more centrally — defer detailed cases to the concept page where possible; (d) ensure terminology alignment ("function-phenomenology dissociation" vs "phenomenology-vs-function axis" — both refer to the same structure per the concept-page's opening); (e) preserve the topic article's existing voice and tenet alignment (Dualism). Light-touch edit (~150-300 words touched). Tenet alignment: Dualism (the topic article anchors the cognitive-phenomenology arguments specifically against materialism).
+- **Source**: chain
+- **Generated**: 2026-04-29
 
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
