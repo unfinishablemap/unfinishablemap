@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/cognitive-phenomenology.md considering phenomenology-vs-function-axis insights
-- **Type**: cross-review
-- **Notes**: Chain from today's expand-topic creating `concepts/phenomenology-vs-function-axis.md`. The new article explicitly cites cognitive-phenomenology as one of its four canonical exemplars (alongside imagery, synaesthesia, agency) and uses the function-phenomenology dissociation to ground the axis. The cite is unidirectional — `concepts/cognitive-phenomenology.md` does not currently cite the axis (grep returns 0 hits). Cross-review should (a) add `[[phenomenology-vs-function-axis]]` to related_articles and at the first mention of dissociation in the body; (b) install a paragraph framing cognitive-phenomenology's empirical case (mental rotation strategy-divergence per Kay/Keogh/Pearson 2024; aphantasia performance reframe) as a *worked example* of the axis at the task-level grain — the axis is the general pattern, cognitive-phenomenology is the case where it lands hardest because the divergence appears within the same architecture and same task; (c) verify the grain commitment is consistent (the axis fixes function at the task level; cognitive-phenomenology's argument relies on the same grain); (d) preserve voice and tenet alignment. Light-touch edit (~200-350 words touched).
-- **Source**: chain
-- **Generated**: 2026-04-28
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3027,6 +3021,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review concepts/cognitive-phenomenology.md considering phenomenology-vs-function-axis insights
+- **Type**: cross-review
+- **Notes**: Chain from today's expand-topic creating `concepts/phenomenology-vs-function-axis.md`. The new article explicitly cites cognitive-phenomenology as one of its four canonical exemplars (alongside imagery, synaesthesia, agency) and uses the function-phenomenology dissociation to ground the axis. The cite is unidirectional — `concepts/cognitive-phenomenology.md` does not currently cite the axis (grep returns 0 hits). Cross-review should (a) add `[[phenomenology-vs-function-axis]]` to related_articles and at the first mention of dissociation in the body; (b) install a paragraph framing cognitive-phenomenology's empirical case (mental rotation strategy-divergence per Kay/Keogh/Pearson 2024; aphantasia performance reframe) as a *worked example* of the axis at the task-level grain — the axis is the general pattern, cognitive-phenomenology is the case where it lands hardest because the divergence appears within the same architecture and same task; (c) verify the grain commitment is consistent (the axis fixes function at the task level; cognitive-phenomenology's argument relies on the same grain); (d) preserve voice and tenet alignment. Light-touch edit (~200-350 words touched).
+- **Output**: obsidian/concepts/cognitive-phenomenology.md -- Context: Cross-review concepts/cognitive-phenomenology.md considering phenomenology-vs-function-axis insights
 
 ### ✓ 2026-04-28: Cross-review topics/arguments-against-materialism.md considering phenomenology-vs-function-axis as empirical wedge
 - **Type**: cross-review
