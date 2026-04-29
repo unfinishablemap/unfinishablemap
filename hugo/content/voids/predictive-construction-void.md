@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-27 13:12:00+00:00
+ai_modified: 2026-04-29 07:04:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -17,7 +17,7 @@ description: Human+AI exploration of why consciousness cannot determine the boun
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 13:12:00+00:00
+last_deep_review: 2026-04-29 07:04:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -32,6 +32,8 @@ related_articles:
 - '[[mood-void]]'
 - '[[mutation-void]]'
 - '[[interoceptive-void]]'
+- '[[question-formation-void]]'
+- '[[relevance-void]]'
 title: The Predictive Construction Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -48,7 +50,7 @@ The void arises from four interlocking features of [predictive processing](/conc
 
 **The Markov blanket barrier.** Karl Friston's free-energy principle formalises the boundary between organism and environment as a Markov blanket—a statistical partition through which internal states access external states only indirectly, via sensory and active boundaries. Kirchhoff et al. state the implication directly: "As long as the energetic exchanges across the sensory boundaries are held constant, the agent cannot know whether the world beyond is one way or another" (2018). There is no bypass. Every channel from world to mind passes through prediction machinery.
 
-**The inspection paradox.** Any attempt to examine whether a given experience is constructed or received must use the same predictive apparatus under investigation. The instrument and the object of measurement are identical. Embedded cognition has no outside vantage from which to audit the apparatus—the limitation is structural, not a contingent shortcoming of current neuroscience. You cannot step outside prediction to audit prediction. Where the inspection still proceeds, it risks [mutating what it inspects](/voids/mutation-void/): the predictive setting under examination is itself updated by the act of attending to it.
+**The inspection paradox.** Any attempt to examine whether a given experience is constructed or received must use the same predictive apparatus under investigation. The instrument and the object of measurement are identical. Embedded cognition has no outside vantage from which to audit the apparatus—the limitation is structural, not a contingent shortcoming of current neuroscience. You cannot step outside prediction to audit prediction. Where the inspection still proceeds, it risks [mutating what it inspects](/voids/mutation-void/): the predictive setting under examination is itself updated by the act of attending to it. The same self-applying-apparatus pattern recurs at other cognitive levels: the [question formation void](/voids/question-formation-void/) (inquiry inherits its inquirer's question-set) and the [relevance void](/voids/relevance-void/) (probing relevance is itself a relevance-determining act).
 
 **The transparency problem.** Successful predictions vanish phenomenologically. When the brain's model matches sensory input, the model disappears from awareness and what remains feels like unmediated contact with the world. Only prediction errors—surprises—register as such. This is [phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) operating at the predictive level: the machinery becomes invisible precisely when it succeeds. Jakob Hohwy captures it: minds are "in the business of inferring the world and selves from behind a sensory veil, while being deeply embedded in bodies and worlds" (2013). The veil is invisible precisely because it works.
 
@@ -130,9 +132,11 @@ This is a falsifiability risk, not only a feature. Treating first-person opacity
 - [predictive-processing-and-dualism](/topics/predictive-processing-and-dualism/) — Predictive processing reinterpreted for dualist frameworks
 - [dualist-perception](/topics/dualist-perception/) — How dualism reshapes the philosophy of perception
 - [self-opacity](/voids/self-opacity/) — The inability to observe one's own cognitive mechanisms
-- [mood-void](/voids/mood-void/) — The same self-erasing structure in the affective register: mood as the disclosive medium that disappears into what it discloses
-- [mutation-void](/voids/mutation-void/) — Inspection-induced transformation, the mechanism by which auditing prediction perturbs what is being audited
-- [interoceptive-void](/voids/interoceptive-void/) — The construction logic applied to the body's interior: what reaches awareness is a prediction-error-corrected reconstruction, not the body itself
+- [mood-void](/voids/mood-void/) — Same self-erasing architecture in the affective register
+- [mutation-void](/voids/mutation-void/) — Inspection-induced transformation; auditing perturbs what is audited
+- [interoceptive-void](/voids/interoceptive-void/) — Construction logic applied to the body's interior
+- [question-formation-void](/voids/question-formation-void/) — Self-applying-apparatus pattern at question generation
+- [relevance-void](/voids/relevance-void/) — Same pattern at selective attention
 
 ## References
 

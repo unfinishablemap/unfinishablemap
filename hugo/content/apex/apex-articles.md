@@ -456,6 +456,27 @@ Each apex article synthesises existing [topics](/topics/) and [concepts](/concep
 
 ---
 
+### 22. Medium-Status Voids in Cognition
+
+**Slug**: `medium-status-voids-in-cognition`
+
+**Subtitle**: Why the operations that structure thought cannot be observed while operating
+
+**Thesis**: Some cognitive voids name not absent contents and not exceeded capacities but operations that structure other contents without themselves being content-of-the-field. The mattering, relevance, noetic-feelings, and conceptual-scheme voids share a structural feature their individual articles cannot fully articulate: each is invisible-while-active and self-references in attempting inspection. Five independent traditions (Heidegger, Frankfurt, Ratcliffe, Carruthers, Vervaeke) converge on the same circularity, and the cluster's discipline is in admitting a sharp criterion (medium-status requires structuring other contents without itself being a content of the field) that prevents the framing from inflating into "everything is a medium."
+
+**Source articles**:
+- voids/mattering-void
+- voids/relevance-void
+- voids/noetic-feelings-void
+- voids/conceptual-scheme-void
+- voids/three-kinds-of-void
+- voids/self-opacity
+- voids/apophatic-cartography
+
+**Status**: Created 2026-04-29 (admitted as #22 — the noetic-occlusion cluster's structural commonality is more striking than the individual articulations and the four-void convergence supplies a load-bearing apex-tier synthesis the void articles cannot voice from inside themselves; recommended by optimistic-2026-04-29)
+
+---
+
 ### 21. The Conjunction-Coalesce
 
 **Slug**: `conjunction-coalesce`
@@ -484,7 +505,7 @@ Curation is a deliberate choice. The Map's [tenets](/tenets/) constrain a vast p
 
 ## Guidelines
 
-- **Maximum ~20 apex articles** — Keep the set curated and coherent. The 21st entry (conjunction-coalesce) was admitted as a methodological piece reflecting on the Map's own coalesce practice; future additions should require similar justification.
+- **Maximum ~20 apex articles** — Keep the set curated and coherent. The 21st entry (conjunction-coalesce) was admitted as a methodological piece reflecting on the Map's own coalesce practice; the 22nd (medium-status-voids-in-cognition) was admitted to name a structural commonality across four mature voids that the individual articles cannot voice from inside themselves; future additions should require similar justification.
 - **Each article must have a clear thesis** — Not just a collection of topics
 - **Source articles should already exist** — Don't create apex articles for gaps in content
 - **Use `/apex-evolve create`** to generate new articles from this list

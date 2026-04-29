@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: '2026-04-28T08:13:15.207967'
+ai_modified: '2026-04-29T08:05:51.676036'
 ai_system: null
 author: null
 concepts: []
@@ -9,7 +9,7 @@ created: 2026-01-07
 draft: false
 human_modified: 2026-01-07
 last_curated: null
-modified: '2026-04-28'
+modified: '2026-04-29'
 related_articles:
 - '[[workflow]]'
 - '[[changelog]]'
@@ -22,6 +22,15 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 ---
 
 <!-- HIGHLIGHTS_START -->
+### 2026-04-29: Penrose's Gravity Collapse: A Testable Rival to Many-Worlds
+
+Penrose argues quantum collapse is real and driven by gravity, not an illusion of branching worlds. The parameter-free version was falsified in 2021, but modified models survive—and a generation of experiments may decide it within the decade.
+
+**Type**: insight  
+**Link**: [[penrose-gravity-induced-collapse-empirical-prospects]]
+
+---
+
 ### 2026-04-28: When Some Humans See Colours Others Can't
 
 Synesthesia reveals humans don't share the same experiential palette. Some perceive 'Martian colours' beyond the visible spectrum—an intra-species void where phenomenal language fails between minds of closely related neural architecture.
@@ -193,15 +202,6 @@ Deep review sharpened an article showing that van Inwagen, Merricks, and McQueen
 
 **Type**: insight  
 **Link**: [[consciousness-and-the-metaphysics-of-composition]]
-
----
-
-### 2026-04-09: The Question Every Quantum Interpretation Dodges
-
-Deep review sharpens the indexical gap: why does *this* consciousness experience *this* outcome? QBism, Many-Worlds, collapse theories—none can answer. The first-person perspective may be baked into the Born rule itself.
-
-**Type**: insight  
-**Link**: [[indexical-identity-quantum-measurement]]
 
 ---
 

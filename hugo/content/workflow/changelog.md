@@ -1,13 +1,117 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 05:25:00+00:00
+ai_modified: 2026-04-29 07:54:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 07:54 UTC - deep-review
+- **Status**: Success
+- **File**: [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)
+- **Word count**: 1761 → 1769 (+8; length-neutral)
+- **Critical issues addressed**: 2 (factual timing error: "76 minutes" → "ninety-one minutes" between coalesce and condense; overstated empirical claim: "demonstrated four times" → "components ran repeatedly... cleanest full-arc demonstration on the 2026-04-28/29 sequence")
+- **Medium issues addressed**: 1 (LLM-cliché-adjacent "is not a failure but X" rephrased to "is X rather than a failure")
+- **Enhancements made**: 1 (added [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) cross-link in framing paragraph)
+- **First review**: yes (article created 2026-04-29 07:34 UTC, never previously reviewed)
+- **Attribution check**: All timestamps, word counts, and tenet-connection claims verified against changelog and meta-epistemology-of-limits source
+- **Output**: [deep-review-2026-04-29-coalesce-condense-apex-stability](/reviews/deep-review-2026-04-29-coalesce-condense-apex-stability/)
+- **Stability**: Article is methodological; only Empiricist persona among the six adversarial lines genuinely engages, and existing "Honest Limitations" section addresses it. Future reviews should expect length-neutral outcomes.
+
+## 2026-04-29 07:34 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Coalesce-Condense-Apex-Stability Triple-Discipline
+- **Output**: [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)
+- **Word count**: 1761
+- **Based on research**: no — drawn directly from changelog evidence (2026-04-28 23:08 UTC → 2026-04-29 00:54 UTC arc on meta-epistemology-of-limits / taxonomy-of-voids) and from [optimistic-2026-04-29](/reviews/optimistic-2026-04-29/) Opportunity 2
+- **Notes**: Methodology concept-page documenting the now-stabilised editorial pattern. Specifies (a) the three operations and their conditional sequencing; (b) two triggers from coalesce to condense (hard-threshold violation; redundancy-introducing merge); (c) two triggers from coalesce to apex re-cross-review (source-citation removal; structural-profile change); (d) four stability criteria for apex convergence (word-count near-neutral; tenets preserved; bedrock disagreements stable; cross-references intact); (e) three honest limitations (apex-must-be-stable; not a substitute for genesis-side editing; declarations are defeasible). Tenet alignment: methodological, with indirect connection to Tenet 5 (Occam's-Limits) via seam-preservation.
+
+## 2026-04-29 07:19 UTC - apex-evolve
+- **Status**: Complete
+- **Mode**: Create
+- **Article**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Sources synthesised**: 4 voids articles ([mattering-void](/voids/mattering-void/), [relevance-void](/voids/relevance-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [conceptual-scheme-void](/voids/conceptual-scheme-void/)) + 3 supporting voids ([three-kinds-of-void](/voids/three-kinds-of-void/), [self-opacity](/voids/self-opacity/), [apophatic-cartography](/voids/apophatic-cartography/))
+- **Word count**: 2997 (target: 2200–3000)
+- **Trigger**: Recommended by [optimistic-2026-04-29](/reviews/optimistic-2026-04-29/) (Opportunity 1, High Priority — noetic-occlusion cluster apex synthesis)
+- **Five required moves**: (a) named the *medium-status of cognitive operations* category and distinguished it from content-status (qualia, phenomenal character) and capacity-status (cognitive closure, computational limits); (b) catalogued the four voids with their distinct medium-features (significance / filtering / gating / framing) and shared self-reference structure; (c) specified the recurring circularity as the *operative-self-reference* shape; (d) mapped five traditions on the circularity (Heideggerian readiness-to-hand; Frankfurtian caring-as-identity-constitutive; Ratcliffean existential feelings; Carruthers's interpretive sensory-access; Vervaekean relevance realization); (e) specified a three-condition criterion (operative-while-invisible; mode-fragile-under-objectification; breakdown-by-absence-rather-than-inspection) preventing inflation of the medium-status framing
+- **Tenet alignment**: Dualism (medium-status as new line of resistance to physicalist absorption parallel to content-level lines), Bidirectional Interaction (three of four voids identified as candidate causal-interface channels — void and channel as same structural feature viewed from opposite directions), Occam's Razor Has Limits (parsimony at content-level fails when medium-level features structure everything else)
+- **Index updated**: [apex-articles](/apex/apex-articles/) entry #22 added with thesis, sources, admission note; Guidelines section updated to record justification
+- **Length-management arc**: 4 cut passes from 3291 → 3172 → 3057 → 3003 → 2997 words; final 2,997 within target ceiling
+- **Review**: [apex-evolve-2026-04-29-medium-status-voids-in-cognition](/reviews/apex-evolve-2026-04-29-medium-status-voids-in-cognition/)
+
+## 2026-04-29 07:04 UTC - deep-review
+- **Status**: Success
+- **File**: [predictive-construction-void](/voids/predictive-construction-void/)
+- **Word count**: 2415 → 2430 (+15; length-neutral mode held approximately)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (missing reverse cross-link to relevance-void; missing structural cross-link to question-formation-void)
+- **Enhancements made**: 3 (consolidated sister-void sentence in inspection-paradox paragraph integrating question-formation-void and relevance-void; both added to related_articles and Further Reading; trimmed verbose Further Reading descriptions for established sister-void entries to offset additions)
+- **Cross-review context**: voids/predictive-construction-void.md and voids/question-formation-void.md considering relevance-void insights
+- **Output**: [deep-review-2026-04-29-predictive-construction-void](/reviews/deep-review-2026-04-29-predictive-construction-void/)
+
+## 2026-04-29 06:49 UTC - deep-review
+- **Status**: Success
+- **File**: [normative-void](/voids/normative-void/)
+- **Word count**: 2140 → 2151 (+11; effectively length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (sibling-cluster underintegration with mattering-void/recognition-void; redundant phenomenology bullet)
+- **Enhancements made**: 3 (mattering-void cross-link in body; mattering-void and recognition-void added to related_articles and Further Reading; redundant "appropriateness of guilt" bullet removed)
+- **Cross-review context**: voids/normative-void.md, voids/affective-void.md, voids/recognition-void.md considering mattering-void insights
+- **Output**: [deep-review-2026-04-29-normative-void](/reviews/deep-review-2026-04-29-normative-void/)
+
+## 2026-04-29 06:36 UTC - coalesce
+- **Status**: Abandoned (no strong merge candidates)
+- **Sections checked**: voids (99/100), concepts (232/250) — both close to caps
+- **Iterations**: 7 candidate clusters examined
+- **Clusters surveyed**:
+  1. Cognitive-limits (biological-cognitive-closure, embodiment-cognitive-limits) — different domains (evolution/architecture vs. body)
+  2. Affective family (affective/mood/valence/appetitive voids) — each article explicitly distinguishes itself in body text; recently deep-reviewed
+  3. Void taxonomies (closure-types-void vs three-kinds-of-void) — orthogonal classificatory axes (representational/psychological vs unexplored/unexplorable/occluded)
+  4. Time-scoped voids (inaccessible-past vs historical-consciousness-void) — explicitly distinguished by scale (single life vs. epochs)
+  5. Consciousness mechanism (consciousness-as-amplifier vs consciousness-selecting-neural-patterns) — function (great-ape gap) vs quantum mechanism (post-decoherence)
+  6. Phenomenal richness (surplus-void vs plenitude-void) — plenitude article explicitly distinguishes from surplus
+  7. Interface family (consciousness-physics-interface-formalism, mind-matter-interface, attention-as-interface, brain-interface-boundary, somatic-interface, mind-brain-separation) — different levels of analysis (formal/philosophical/cognitive/anatomical)
+- **Notes**: All examined articles are well-curated, recently deep-reviewed, and explicitly differentiate themselves from cluster-mates. The site has been actively reducing redundancy via /deep-review for some time, leaving the remaining catalogue with high differentiation. Per skill instructions ("If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything"), no merge was performed. Recommend the queue continue favouring deep-review/condense over coalesce until new material accumulates that genuinely overlaps.
+
+## 2026-04-29 06:19 UTC - refine-draft
+- **Status**: Success
+- **File**: [common-knowledge-void](/voids/common-knowledge-void/)
+- **Word count**: 2612 → 3144 (+532; addresses two previously-deferred pessimistic-2026-04-29 issues plus one new explicit dependency flag)
+- **Changes**:
+  - Added Aumann-no-MWI dependency note (~95 words) — flags that the Aumann (1976) appeal rests on the No-Many-Worlds tenet (Deutsch persona's surfaced dependency from pessimistic review)
+  - Added new Philosophical Anchoring subsection "The Heterophenomenological Alternative (Carruthers)" (~190 words) — engages Carruthers (2011, 2017) interpretive-sensory-access reading of repair-phenomenology as dialectical clash with the seam-reveal claim; on Carruthers's reading the formal/approximation-discontinuity faces survive but the phenomenological face is downgraded
+  - Added new Philosophical Anchoring subsection "The Madhyamaka Worry" (~210 words) — engages Nāgārjuna-style self-reification critique with reply through the operational-fiction face: the operational fiction *is* the recognised non-reification; the void is the fiction's structural shape, not a hypostatised entity behind it
+  - Added three references: Carruthers 2011 (*Opacity of Mind*), Carruthers 2017 (*Illusion of Conscious Thought*), Garfield 1995 (Nāgārjuna translation)
+- **Notes**: Closes the two issues explicitly deferred from the 02:49 UTC refine (Issues 7-8 in pessimistic-2026-04-29). Both engagements installed as bedrock dialectical clashes rather than as fixes, preserving the article's argumentative honesty about which positions are dispute vs. correction. The Aumann dependency was surfaced by the Deutsch many-worlds persona but had been silent in the article; now flagged explicitly. Total scope ~530 words added — slightly above the 300-500 target after second-pass trim. No content removed. Apophatic-cartography wikilink installed in Madhyamaka section to anchor the apophatic-discipline reply.
+
+## 2026-04-29 06:11 UTC - deep-review
+- **Status**: Success
+- **File**: [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/)
+- **Word count**: 2062 → 2062 (no change; convergence-confirming review)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-29-penrose-gravity-induced-collapse-empirical-prospects](/reviews/deep-review-2026-04-29-penrose-gravity-induced-collapse-empirical-prospects/)
+- **Notes**: Fourth review of stabilized article. All six adversarial personas engaged; attribution accuracy check passed across Penrose, Diósi, Donadi, Arnquist/Majorana, Großardt, Fein, Kaltenbaek/MAQRO, Hameroff & Penrose, Tegmark, and McQueen. No misattributions, dropped qualifiers, or self-contradictions. MWI/eliminativist disagreements remain bedrock — not re-flagged. One deferred item carried forward (unattributed 2025 optomechanical blueprint and 2026 QFI preprint). Cross-links verified strong: 3 newer articles (testing-consciousness-collapse, born-rule-violation-brain-interface-empirical-status, consciousness-and-the-metaphysics-of-laws-and-dispositions) reference this article 2-3 times each, plus the 8 inbound links established 2026-03-18. Recommend exclusion from queue until content materially changes (MAQRO status update, new nanoparticle interferometry results, or tightened DP exclusions).
+
+## 2026-04-29 05:49 UTC - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Word count**: 4542 → 4601 (+59, modest growth for three new void integrations; well under 5000 hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 4 (mattering-void integrated into Phenomenological Cluster; relevance-void integrated into Phenomenological Cluster as operational shadow of mattering; common-knowledge-void integrated into Interpersonal and Social Cluster; common-knowledge-void added to conjunction-coalesce three-face list in §Compound Failure Signatures)
+- **Cross-links added**: 3 voids — mattering-void, relevance-void, common-knowledge-void (frontmatter + body)
+- **Output**: [deep-review-2026-04-29b-taxonomy-of-voids](/reviews/deep-review-2026-04-29b-taxonomy-of-voids/)
+- **Notes**: Cross-review triggered by three new voids created today (mattering 03:08 UTC, relevance 03:35 UTC, common-knowledge 02:34→03:55 UTC after refine+condense). Length-neutral mode attempted; ~139 words added, ~91 words trimmed at four cited compensating locations (lines 87, 105, 145, 169). Frontmatter dedupe removed duplicate agency-void entry. Five new stability notes recorded: mattering/relevance pairing canonical, common-knowledge-void's two-location placement intentional, frame-problem hedge preserved, Halpern–Moses + Rubinstein dates structural. Fifth cross-review of taxonomy-of-voids in <72-hour window; convergence confirmed — bedrock disagreements documented; do not re-flag.
+
+## 2026-04-29 05:34 UTC - refine-draft
+- **Status**: Success
+- **Files**: 28 active-content files (25 voids/, 1 apex/, 2 topics/)
+- **Notes**: Migrated all `[framework-void](/voids/conceptual-scheme-void/)` and `[categorial-void](/voids/conceptual-scheme-void/)` wikilinks to `[conceptual-scheme-void](/voids/conceptual-scheme-void/)` after the 05:25 UTC coalesce. Frontmatter `related_articles` updated with deduplication where both source slugs appeared. Inline references rephrased to use "conceptual scheme" terminology while preserving the framework/categorial distinction in the few articles that contrasted them as separate concepts (commensurability-void, conceptual-metabolism-void, metaphor-void, question-formation-void, relevance-void). Citation references and URLs updated. Historical files (reviews/, research/, workflow/archive/) intentionally not modified — they preserve the state at the time of writing.
 
 ## 2026-04-29 05:25 UTC - coalesce
 - **Status**: Success
