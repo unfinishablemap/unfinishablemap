@@ -37,6 +37,24 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Write voids article on the Common-Knowledge Void
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/voids-common-knowledge-void-2026-04-29.md` (today, 2026-04-29 01:01 UTC) and not yet synthesised into an article. The void concerns the impossibility of bridging from finite communication to genuinely common knowledge: Halpern–Moses (1990) prove no finite protocol over imperfect channels can produce mutual knowledge to infinite depth, and Rubinstein's Electronic Mail Game (1989) shows arbitrary approximations of common knowledge yield qualitatively different strategic behavior — a structural discontinuity at infinity that no finite mind can bridge. The research note identifies three faces (verification, approximation discontinuity, operational fiction) and anchors the void formally (Halpern–Moses, Rubinstein, Aumann), philosophically (Lewis, Schiffer), empirically (Clark & Brennan grounding), and phenomenologically (Husserl, Levinas). Distinct from existing `voids/recursion-void.md` (depth ceiling, not infinity) and `voids/voids-between-minds.md` (sharing face without the formal structural reason). Voids/ is at 96/100 — has 4 slots; conjunction-coalesce candidate at expand stage. Target section: voids/. Scope: 2200-2700 words. Tenet alignment: Dualism (the structural impossibility constrains the consciousness-language interface), Occam's Razor Has Limits (the Halpern–Moses impossibility result names where parsimony fails — finite minds cannot construct what coordination presupposes). Cross-link candidates: `[[recursion-void]]`, `[[voids-between-minds]]`, `[[meaning-void]]`, `[[framework-void]]`, `[[voids]]`.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-29
+
+### P2: Cross-review philosophical-zombies considering phenomenology-vs-function-axis insights
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-04-29 axis-integration cycle. The new `concepts/phenomenology-vs-function-axis.md` (created 2026-04-28 19:18 UTC) and the 2026-04-28 21:38 UTC fifth deep-review of `concepts/functionalism.md` jointly establish the axis as the *empirical complement* to the conceivability arguments — zombies, inverted qualia, and the knowledge argument run at the conceivability layer; the four-exemplar empirical wedge (imagery-void / synesthetic-void / source-attribution-void / cognitive-phenomenology) runs at the documented layer. `concepts/philosophical-zombies.md` does not yet cite the axis (grep across `concepts/` confirms zero hits). Cross-review should (a) identify where the empirical-wedge / conceivability-wedge pairing belongs in the zombies dialectic — most likely at the response to the "conceivability does not entail possibility" objection, where the empirical track gives the conceivability track independent traction; (b) add reciprocal `[[phenomenology-vs-function-axis]]` and `[[cognitive-phenomenology]]` cross-links in prose and in `related_articles`; (c) verify terminology consistency between zombies' "functional duplicate" framing and the axis's task-level grain commitment; (d) preserve existing voice and arguments. Short scope (~200-400 words added). Tenet alignment: Dualism.
+- **Source**: chain (from concepts/phenomenology-vs-function-axis.md)
+- **Generated**: 2026-04-29
+
+### P2: Cross-review knowledge-argument considering phenomenology-vs-function-axis insights
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-04-29 axis-integration cycle. The new `concepts/phenomenology-vs-function-axis.md` (created 2026-04-28 19:18 UTC) is the empirical complement to the knowledge argument's conceivability-track demonstration that Mary acquires something new on first colour experience. `concepts/knowledge-argument.md` does not yet cite the axis (grep across `concepts/` confirms zero hits). Cross-review should (a) add a paragraph (likely in the response to the ability-hypothesis or phenomenal-concept replies) where the empirical four-exemplar wedge supplies independent traction beyond Mary's thought-experiment construction; (b) add reciprocal `[[phenomenology-vs-function-axis]]` cross-links in prose and in `related_articles`; (c) check whether the knowledge-argument's appeal to *new factual knowledge* aligns with or pulls against the axis's *task-level grain commitment* — flag any tension worth a footnote rather than papering over it; (d) preserve existing voice and argument structure. Short scope (~200-400 words added). Tenet alignment: Dualism.
+- **Source**: chain (from concepts/phenomenology-vs-function-axis.md)
+- **Generated**: 2026-04-29
+
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
