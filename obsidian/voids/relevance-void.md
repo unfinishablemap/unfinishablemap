@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the cognitive filter that selects what
 created: 2026-04-29
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-29T03:35:00+00:00
+ai_modified: 2026-04-29T10:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -90,7 +90,7 @@ The Map interprets the relevance void as bearing primarily on **Occam's Razor Ha
 
 The void also bears on **Dualism**. If relevance realization is fundamentally non-computational — a hypothesis the Map flags rather than asserts — this would open space for non-physical aspects of mind to play a role in determining what bears on a situation. The Map does not claim Vervaeke shares the dualist tenet; he does not. The Map adds that interpretation: the convergence of traditions on the irreducibility of relevance is read as supporting a non-physical reading without requiring it.
 
-It bears, more lightly, on **Bidirectional Interaction**. If consciousness causally influences the physical, one candidate channel is precisely the weighting of which neural events become salient. The salience network is a physical system, but what sets its precisions? The relevance void doubles the [[causal-interface|causal interface void]]: even if consciousness shapes what registers as relevant, that shaping cannot be observed because it is the very operation through which observing happens.
+It bears, more lightly, on **Bidirectional Interaction**. If consciousness causally influences the physical, one candidate channel is precisely the weighting of which neural events become salient. The salience network is a physical system, but what sets its precisions? On the [[attention-as-interface]] hypothesis, salience-precision is one face of the channel through which consciousness biases neural competition — and the relevance void identifies the channel's selection step itself as structurally opaque to the consciousness whose attention it shapes. The relevance void doubles the [[causal-interface|causal interface void]]: even if consciousness shapes what registers as relevant, that shaping cannot be observed because it is the very operation through which observing happens.
 
 The unifying picture: the Map is unfinishable not only because the territory is vast, but because every chart it draws has already been filtered for relevance by a process the chart cannot include in itself. What has the Map systematically excluded? The honest answer is that this question cannot be answered from inside the Map's own filter — only triangulated through other minds, breakdown cases, and external probes.
 

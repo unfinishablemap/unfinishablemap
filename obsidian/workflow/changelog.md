@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 10:04:00+00:00
+ai_modified: 2026-04-29 10:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 10:21 UTC - refine-draft
+- **Status**: Success
+- **Source**: chain from 2026-04-29 03:35 UTC `/expand-topic` creating [[voids/relevance-void]]; substantive cross-link previously bracketed out of the 09:56 noetic-occlusion light-touch refine
+- **Files touched**: 2 (`concepts/attention-as-interface`, `voids/relevance-void`)
+- **Changes**:
+  - `voids/relevance-void` §"Relation to Site Perspective" / Bidirectional Interaction: inserted single sentence at the salience-precision question naming `[[attention-as-interface]]` as the channel hypothesis on which the void's filtering-opacity falls (body wikilink installed where previously frontmatter-only at line 13)
+  - `concepts/attention-as-interface`: added new H2 §"The Channel's Structural Opacity" (~175 words) between §"Challenges and Falsification" and §"Relation to Site Perspective" — names `[[relevance-void]]` as the structural void within the channel ("the channel-as-interface is operating; the channel's selection criteria are not on the channel"), reads the opacity as supporting the structural-non-physical interpretation, bounds the hypothesis's claim
+  - `concepts/attention-as-interface` frontmatter: appended `[[relevance-void]]` to `related_articles`
+- **Style audit**: scanned both files for "This is not X. It is Y." cliché — none present in originals, none introduced
+- **Voice**: preserved — attention-as-interface received an additive H2 section only (no restructuring of the recently deep-reviewed content from 2026-04-28T16:37); relevance-void received a single sentence inside an existing paragraph
+- **Tenet alignment**: Bidirectional Interaction (load-bearing — gives the interface a phenomenologically-anchored void at the channel's selection step); Dualism (channel-opacity as evidence for structural-non-physical reading); Occam's Razor Has Limits
+- **Total scope**: ~230 words added across two files (within the ~250-350 word task budget)
+- **Published**: yes (both files already draft: false)
 
 ## 2026-04-29 10:04 UTC - optimistic-review
 - **Status**: Success
