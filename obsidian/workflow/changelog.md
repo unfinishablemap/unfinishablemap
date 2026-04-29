@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 00:08:00+00:00
+ai_modified: 2026-04-29 00:34:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 00:34 UTC - coalesce
+- **Status**: Abandoned (no strong merge candidates)
+- **Section pressures examined**: voids (97/100), concepts (232/250), topics (231/250)
+- **Clusters surveyed**: (1) voids/affective family — affective-void, mood-void, valence-void, appetitive-void each carry explicit "distinct from X" framings with sharply differentiated theses (range vs. opacity vs. structure vs. constitutive shaping); (2) voids/cognitive-closure family — biological-cognitive-closure, embodiment-cognitive-limits, formal-cognitive-limits, closure-types-void each treat distinct sources of limit (evolutionary/architectural/developmental vs. embodiment vs. computation/Gödel vs. representational/psychological); biological- and formal-cognitive-limits already carry `coalesced_from` from prior merges; (3) voids/meta-epistemology cluster — closure-types-void could conceivably feed meta-epistemology-of-limits, but the latter is already 4073 words after the 2026-04-28 23:08 UTC coalesce and has a queued condense task targeting ≤3000 words; (4) concepts/AI-consciousness cluster — ai-consciousness-modes, types-of-ai-phenomenal-experience explicitly cross-reference each other as complementary lenses (Tulving hierarchy vs. six-category logical taxonomy); (5) concepts/creativity cluster — consciousness-and-creativity and phenomenology-of-creative-insight are deliberately split between metaphysics and phenomenology; the latter already carries `coalesced_from` for two prior merges; (6) concepts/mental-monitoring — introspection, metacognition, heterophenomenology, higher-order-theories are technical concepts with non-overlapping definitions; (7) concepts/problem-pages — timing-gap-problem, grain-mismatch, pairing-problem, combination-problem, binding-problem each treat structurally distinct issues; (8) consciousness-and-mathematics (topic, 6-source coalesce) vs consciousness-and-the-philosophy-of-mathematics (concept) — deliberate concept-extraction split documented in both articles.
+- **Decision**: Catalogue is in a well-curated state. Recent coalesces (2026-04-28 23:08 UTC, 2026-04-26, 2026-04-23, 2026-04-05, 2026-03-25) have already absorbed obvious merge candidates. The articles remaining are intentionally differentiated, often with explicit "distinct from X" prose, and represent deliberate concept-extraction or scope-partitioning decisions. Per coalesce skill: "If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything."
+- **Files modified**: changelog only; no content articles touched.
 
 ## 2026-04-29 00:08 UTC - deep-review
 - **Status**: Success
