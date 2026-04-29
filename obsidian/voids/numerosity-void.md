@@ -4,9 +4,12 @@ description: "The architectural ceiling at roughly four items where direct cardi
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T15:14:00+00:00
+ai_modified: 2026-04-29T17:10:00+00:00
+last_deep_review: 2026-04-29T17:10:00+00:00
 draft: false
-topics: []
+topics:
+  - "[[hard-problem-of-consciousness]]"
+  - "[[philosophy-of-mind]]"
 concepts:
   - "[[simulation]]"
   - "[[phenomenology]]"
@@ -35,7 +38,7 @@ The void is primarily *unexplorable* in the [[three-kinds-of-void|voids taxonomy
 
 ## The Two-System Architecture
 
-Two distinct cognitive systems underpin non-symbolic numerical cognition. The **Parallel Individuation System** (PIS) encodes the numerical identity of individual items, capped at approximately four. The **Approximate Number System** (ANS) encodes the magnitude of larger sets, governed by Weber's law: two sets are discriminable only if they differ by a given numerical *ratio* rather than by a given absolute difference. Adult ANS precision plateaus at roughly fifteen percent—about the resolution at which one can distinguish a hundred dots from a hundred and fifteen without counting (Hyde, 2011).
+Two distinct cognitive systems underpin non-symbolic numerical cognition (Feigenson, Dehaene, & Spelke, 2004). The **Parallel Individuation System** (PIS) encodes the numerical identity of individual items, capped at approximately four. The **Approximate Number System** (ANS) encodes the magnitude of larger sets, governed by Weber's law: two sets are discriminable only if they differ by a given numerical *ratio* rather than by a given absolute difference. Adult ANS precision plateaus at roughly fifteen percent—about the resolution at which one can distinguish a hundred dots from a hundred and fifteen without counting (Hyde, 2011).
 
 Trick and Pylyshyn (1994) propose that the visual system indexes objects via a small pool of pre-attentive tokens they call *Fingers of INSTantiation* (FINSTs): "The visual system is capable of indexing a limited number (∼4) of objects after parallel preattentive grouping processes." Reaction-time curves for enumeration show a characteristic elbow between four and five items—negligible cost per item below, a steep climb above. Cowan's (2001) review of working-memory models reaches a convergent figure: "A central memory store limited to 3 to 5 meaningful items in young adults."
 
@@ -105,14 +108,9 @@ The numerosity void shares the deep structure of the [[quantitative-intuition-vo
 
 1. Trick, L. M., & Pylyshyn, Z. W. (1994). "Why are small and large numbers enumerated differently? A limited-capacity preattentive stage in vision." *Psychological Review*, 101(1), 80–102.
 2. Cowan, N. (2001). "The magical number 4 in short-term memory: A reconsideration of mental storage capacity." *Behavioral and Brain Sciences*, 24(1), 87–114.
-3. Cowan, N. (2010). "The magical mystery four: How is working memory capacity limited, and why?" *Current Directions in Psychological Science*, 19(1), 51–57.
-4. Feigenson, L., Dehaene, S., & Spelke, E. (2004). "Core systems of number." *Trends in Cognitive Sciences*, 8(7), 307–314.
-5. Dehaene, S. (1997, revised 2011). *The Number Sense: How the Mind Creates Mathematics*. Oxford University Press.
-6. Frank, M. C., Everett, D. L., Fedorenko, E., & Gibson, E. (2008). "Number as a cognitive technology: Evidence from Pirahã language and cognition." *Cognition*, 108(3), 819–824.
-7. Pica, P., Lemer, C., Izard, V., & Dehaene, S. (2004). "Exact and approximate arithmetic in an Amazonian indigenous group." *Science*, 306(5695), 499–503.
+3. Feigenson, L., Dehaene, S., & Spelke, E. (2004). "Core systems of number." *Trends in Cognitive Sciences*, 8(7), 307–314.
+4. Pica, P., Lemer, C., Izard, V., & Dehaene, S. (2004). "Exact and approximate arithmetic in an Amazonian indigenous group." *Science*, 306(5695), 499–503.
+5. Frank, M. C., Everett, D. L., Fedorenko, E., & Gibson, E. (2008). "Number as a cognitive technology: Evidence from Pirahã language and cognition." *Cognition*, 108(3), 819–824.
+6. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
+7. Hyde, D. C. (2011). "Two systems of non-symbolic numerical cognition." *Frontiers in Human Neuroscience*, 5, 150.
 8. Briggs, K. E., et al. (2023). "Attentional Strategies and the Transition From Subitizing to Estimation in Numerosity Perception." *Cognitive Science*, 47(11).
-9. Vetter, P., Butterworth, B., & Bahrami, B. (2008). "Modulating attentional load affects numerosity estimation: Evidence against a pre-attentive subitizing mechanism." *PLOS ONE*, 3(9), e3269.
-10. Carruthers, P. (2011). *The Opacity of Mind: An Integrative Theory of Self-Knowledge*. Oxford University Press.
-11. Nieder, A., & Dehaene, S. (2009). "Representation of number in the brain." *Annual Review of Neuroscience*, 32, 185–208.
-12. Hyde, D. C. (2011). "Two systems of non-symbolic numerical cognition." *Frontiers in Human Neuroscience*, 5, 150.
-13. Southgate, A. & Oquatre-sept, C. (2026-02-02). The Quantitative Intuition Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/quantitative-intuition-void/

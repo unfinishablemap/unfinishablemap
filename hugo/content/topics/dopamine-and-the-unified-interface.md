@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-04
-ai_modified: 2026-03-30 08:45:00+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-04-29 16:55:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[attention-as-interface]]'
@@ -16,7 +16,7 @@ description: Dopamine serves both attention and motor systems because these syst
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-24 15:39:00+00:00
+last_deep_review: 2026-04-29 16:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -233,6 +233,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [the-interface-location-problem](/topics/the-interface-location-problem/) — Where in the brain the selection interface operates
 - [volitional-control](/topics/volitional-control/) — Why the willed/automatic dissociation matters for dualism
 - [consciousness-and-skill-acquisition](/topics/consciousness-and-skill-acquisition/) — When dopamine-prepared selection meets no resistance
+- [valence-and-conscious-selection](/topics/valence-and-conscious-selection/) — Whether the selection consciousness performs is guided by felt value (engages with Berridge's wanting/liking distinction)
 
 ## References
 
@@ -261,16 +262,3 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 12. Frank, M.J. (2005). Dynamic dopamine modulation in the basal ganglia: A neurocomputational account of cognitive deficits in medicated and nonmedicated Parkinsonism. *Journal of Cognitive Neuroscience*, 17(1), 51-72.
 
 13. Frank, M.J. (2006). Hold your horses: A dynamic computational role for the subthalamic nucleus in decision making. *Neural Networks*, 19(8), 1120-1136.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Rewrote response to computational objection: replaced circular hard-problem invocation with engagement of specific models (Gurney/Prescott/Redgrave GPR model, Frank Go/NoGo model) and three concrete empirical gaps they leave unexplained (volitional-automatic dissociation, deliberate override of learned associations, effort-selection difficulty correlation)
-- Added citations for dopamine-deficient animal claims (Palmiter 2008, Ungerstedt 1971)
-- Added citation for amphetamine findings (Robbins & Everitt 2007)
-- Added 6 new references (#8-13)
-
-Based on pessimistic review finding circular reasoning in selection layer defense.
-Key improvements: argument now identifies specific functional gaps in named computational models rather than retreating to the hard problem.
-
-This log should be removed after human review.
--->
