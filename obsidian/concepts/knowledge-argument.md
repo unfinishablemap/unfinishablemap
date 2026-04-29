@@ -4,7 +4,7 @@ description: "Mary knows all physical facts about color but seems to learn somet
 created: 2026-01-15
 modified: 2026-01-15
 human_modified: null
-ai_modified: 2026-04-28T11:55:00+00:00
+ai_modified: 2026-04-29T02:05:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,6 +21,7 @@ concepts:
   - "[[consciousness-only-territories]]"
   - "[[intrinsic-nature-void]]"
   - "[[objectivity-and-consciousness]]"
+  - "[[phenomenology-vs-function-axis]]"
 related_articles:
   - "[[tenets]]"
   - "[[epiphenomenalism]]"
@@ -34,7 +35,7 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-15
 last_curated: null
-last_deep_review: 2026-04-28T11:55:00+00:00
+last_deep_review: 2026-04-29T02:05:00+00:00
 ---
 
 The knowledge argument, formulated by Frank Jackson (1982, 1986), is one of the most influential arguments against [[concepts/materialism|physicalism]]. It uses a thought experiment—Mary's Room—to argue that complete physical knowledge doesn't constitute complete knowledge. Mary, a brilliant scientist who knows every physical fact about color vision, appears to learn something new when she first sees color. If she does learn something new—and the intuition is powerful though contested—what she learns is *what it's like* to see red, a fact that physical knowledge alone could not provide. If sound, the argument shows that non-physical facts exist and physicalism is false. The argument relies on colour [[dualist-perception|perception]]—the paradigm case of how conscious experience reveals what physical description leaves out.
@@ -120,6 +121,8 @@ The knowledge argument shares deep structure with other anti-physicalist argumen
 **[[aesthetics-and-consciousness|The Aesthetic Extension]]**: A stronger variant—someone with complete physical knowledge of Bach's *Goldberg Variations* learns an integrated aesthetic fact upon hearing them that exceeds both physical and simpler phenomenal facts.
 
 **[[cognitive-phenomenology-and-the-irreducibility-of-thought|The Cognitive Extension]]**: If cognitive phenomenology is irreducible, the argument generalises to mathematical understanding: knowing every physical fact about proof-processing yet learning something new upon first *grasping* why a conclusion follows.
+
+**[[phenomenology-vs-function-axis|The Empirical Wedge]]**: Mary's Room is the most stringent thought-experiment version of a wedge that empirical work has driven in other domains. The phenomenology-vs-function axis catalogues clinical and experimental cases—aphantasic mental rotation strategies, synaesthetic extra qualia, Strawson's foreign-language understanding, Wegner's I-Spy authorship dissociation—where phenomenology and function come apart in actual subjects rather than imagined scenarios. Together with Mary, the cross-domain pattern constrains functionalism without refuting it and resists single-rejoinder dispatch: the multi-realizability move that absorbs imagery has to absorb the others by the same logic.
 
 **Convergence**: The knowledge argument is one of several converging [[dualism|arguments for dualism]]—alongside the explanatory gap, conceivability, inverted qualia, modal arguments, and more. Their cumulative force exceeds any individual argument.
 

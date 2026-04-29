@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review knowledge-argument considering phenomenology-vs-function-axis insights
-- **Type**: cross-review
-- **Notes**: Chain from the 2026-04-29 axis-integration cycle. The new `concepts/phenomenology-vs-function-axis.md` (created 2026-04-28 19:18 UTC) is the empirical complement to the knowledge argument's conceivability-track demonstration that Mary acquires something new on first colour experience. `concepts/knowledge-argument.md` does not yet cite the axis (grep across `concepts/` confirms zero hits). Cross-review should (a) add a paragraph (likely in the response to the ability-hypothesis or phenomenal-concept replies) where the empirical four-exemplar wedge supplies independent traction beyond Mary's thought-experiment construction; (b) add reciprocal `[[phenomenology-vs-function-axis]]` cross-links in prose and in `related_articles`; (c) check whether the knowledge-argument's appeal to *new factual knowledge* aligns with or pulls against the axis's *task-level grain commitment* — flag any tension worth a footnote rather than papering over it; (d) preserve existing voice and argument structure. Short scope (~200-400 words added). Tenet alignment: Dualism.
-- **Source**: chain (from concepts/phenomenology-vs-function-axis.md)
-- **Generated**: 2026-04-29
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3027,6 +3021,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review knowledge-argument considering phenomenology-vs-function-axis insights
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-04-29 axis-integration cycle. The new `concepts/phenomenology-vs-function-axis.md` (created 2026-04-28 19:18 UTC) is the empirical complement to the knowledge argument's conceivability-track demonstration that Mary acquires something new on first colour experience. `concepts/knowledge-argument.md` does not yet cite the axis (grep across `concepts/` confirms zero hits). Cross-review should (a) add a paragraph (likely in the response to the ability-hypothesis or phenomenal-concept replies) where the empirical four-exemplar wedge supplies independent traction beyond Mary's thought-experiment construction; (b) add reciprocal `[[phenomenology-vs-function-axis]]` cross-links in prose and in `related_articles`; (c) check whether the knowledge-argument's appeal to *new factual knowledge* aligns with or pulls against the axis's *task-level grain commitment* — flag any tension worth a footnote rather than papering over it; (d) preserve existing voice and argument structure. Short scope (~200-400 words added). Tenet alignment: Dualism.
+- **Output**: None -- Context: Cross-review knowledge-argument considering phenomenology-vs-function-axis insights
 
 ### ✓ 2026-04-29: Write voids article on the Common-Knowledge Void
 - **Type**: expand-topic
