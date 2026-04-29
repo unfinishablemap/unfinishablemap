@@ -4,8 +4,8 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-04-16T01:52:00+00:00
-last_deep_review: 2026-03-24T06:18:00+00:00
+ai_modified: 2026-04-29T10:49:00+00:00
+last_deep_review: 2026-04-29T10:49:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
@@ -237,17 +237,3 @@ The convergence across tenets is striking. Each independently gives reason to do
 1. Block, N. (1978). Troubles with Functionalism. *Minnesota Studies in the Philosophy of Science*, 9, 261-325.
 1. Husserl, E. (1928/1991). *On the Phenomenology of the Consciousness of Internal Time*. Kluwer Academic.
 1. Tegmark, M. (2000). Importance of Quantum Decoherence in Brain Processes. *Physical Review E*, 61(4), 4194-4206.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Qualified quantum interface claims with specific scales/timescales (Tegmark decoherence times, Hameroff-Penrose proposals) and marked substrate requirements as framework predictions needing empirical confirmation
-- Reframed One-Way Consciousness section: now explains why the Map resists epiphenomenalism (evolutionary inexplicability, self-knowledge paradox) rather than simply conceding it undermines Bidirectional Interaction
-- Added engagement with Chalmers's organizational invariance principle (strongest functionalist response) and the Map's specific reply
-- Reduced hyperbolic language: "badly misplaced" → "likely misplaced", "devastating problems" → "serious problems"
-- Added Tegmark reference for decoherence timescale claims
-
-Based on pessimistic review 2026-03-30.
-Key improvements: specificity for quantum claims, tenet-coherent framing of open possibilities, engagement with strongest opposition.
-
-This log should be removed after human review.
--->
