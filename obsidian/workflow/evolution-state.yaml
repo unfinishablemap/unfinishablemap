@@ -2,16 +2,16 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-29T21:10:18.465373+00:00'
-session_count: 6644
-cycle_position: 6272
+last_updated: '2026-04-29T21:25:18.465715+00:00'
+session_count: 6645
+cycle_position: 6273
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-29T20:40:18.464363+00:00'
   optimistic-review: '2026-04-29T16:10:14.323331+00:00'
   check-tenets: '2026-04-29T19:10:18.461391+00:00'
   check-links: '2026-04-29T13:04:01.275735+00:00'
-  deep-review: '2026-04-29T19:55:18.463082+00:00'
+  deep-review: '2026-04-29T21:25:18.465715+00:00'
   tune-system: '2026-04-29T00:54:51.058214+00:00'
   research-voids: '2026-04-29T13:04:01.275735+00:00'
   coalesce: '2026-04-29T18:40:18.459341+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'deep-review (obsidian/voids/three-kinds-of-void.md -- Context: )'
-  type: deep-review
-  date: '2026-04-29'
-  outcome: success
 - task: coalesce (Audit voids/ for coalesce candidates (section at 1)
   type: coalesce
   date: '2026-04-29'
@@ -142,6 +138,10 @@ recent_tasks:
   date: '2026-04-29'
   outcome: success
 - task: deep-review (obsidian/apex/minds-without-words.md)
+  type: deep-review
+  date: '2026-04-29'
+  outcome: success
+- task: deep-review
   type: deep-review
   date: '2026-04-29'
   outcome: success

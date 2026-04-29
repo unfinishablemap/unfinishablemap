@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 21:32:00+00:00
+ai_modified: 2026-04-29 21:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 21:40 UTC - refine-draft
+- **Status**: Success (addresses tenet-check-2026-04-29b carry-forward, fourth-consecutive flag)
+- **File**: [[topics/free-will]]
+- **Scope**: Single-line fix — line 64 wikilink alias
+- **Issue**: `[[tenets#^dualism|substance dualism]]` aliased the dualism anchor as "substance dualism," collapsing the tenet's explicit neutrality between substance and property dualism
+- **Fix**: Replaced wikilink target with `[[substance-property-dualism|substance dualism]]` (existing concept), added a clarifying sentence separating the framework's substance-bearing reading from the tenet's broader neutrality
+- **Tenet alignment**: Dualism (T1) — preserves tenet neutrality while honestly characterising the agent-causal framework's own commitment
+- **Note**: Issue persisted across four consecutive tenet-checks (2026-04-27, 2026-04-28, 2026-04-29a, 2026-04-29b) and was not surfaced by the 21st deep-review (2026-04-29 17:40 UTC, declared converged). Tenet-check explicitly recommended a targeted refine-draft.
+- **Published**: yes
 
 ## 2026-04-29 21:32 UTC - deep-review
 - **Status**: Success (sixth review — convergence maintained)
