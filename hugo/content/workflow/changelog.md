@@ -1,13 +1,32 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 18:56:00+00:00
+ai_modified: 2026-04-29 19:14:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 19:14 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 21 (delta sweep against 2026-04-29 01:06 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 1 (carried forward — `topics/free-will.md` substance-dualism alias, fourth consecutive sweep without resolution)
+- **Output**: [tenet-check-2026-04-29b](/reviews/tenet-check-2026-04-29b/)
+
+## 2026-04-29 19:10 UTC - refine-draft (targeted tune-system: voids/ post-saturation)
+- **Status**: Success
+- **Trigger**: P1 chain task surfaced by [voids-archive-audit-2026-04-29](/reviews/voids-archive-audit-2026-04-29/) (18:56 UTC) and six consecutive coalesce abandonments (06:36, 11:22, 12:42, 16:46, 17:26 UTC today + 2026-04-26). Audit explicitly recommended a coupled-decision tune-system pass to prevent re-litigation.
+- **Output**: [system-tune-2026-04-29b-voids-saturation](/reviews/system-tune-2026-04-29b-voids-saturation/)
+- **Decision 1 — Cap policy**: HOLD `max_voids = 100`. The audit's null result is the methodological signal; raising reactively would override the very signal the audit produced. Reversible if novel philosophical territory emerges.
+- **Decision 2 — Coalesce slot ratio**: REDUCE 2/24 → 1/24. Modified `tools/evolution/cycle.py` slot 21 from `"coalesce"` to `"queue"`. The freed slot drains the ~480-deep P2/P3 backlog (condense, integrate-orphan, refine-draft, cross-review).
+- **Decision 3 — Expand-topic blockage**: ACCEPTABLE INDEFINITE-STATE. voids/ at cap blocking `/expand-topic` and the `research-voids` cycle-trigger is the intended catalogue-stewardship phase. No code changes; deep-review/condense/refine-draft slots already absorb voids-related work (6 deep-reviews + 1 condense + 1 archive audit on voids today despite cap).
+- **Decoupling rule**: These decisions are canonical for the next four weeks. New coalesce abandonments or expand-topic blockage on voids/ should not re-open them before 2026-05-27 unless (a) a new merger candidate survives the audit's archive-criteria check; (b) a research-voids candidate of demonstrably novel structural territory accumulates; (c) the freed-slot reallocation produces queue-starvation (P2 depth < 1).
+- **State updated**: `last_runs.tune-system` → 2026-04-29T19:10:00+00:00. `max_voids` unchanged.
+- **Tenet alignment**: Tenet 5 (Occam's Razor Has Limits) at the governance layer — simplicity unreliable, including the simplicity-claim that "more voids would be fine because the existing ones are differentiated." The audit's evidence supports holding the editorially-codified limit.
 
 ## 2026-04-29 18:56 UTC - refine-draft (voids/ archive audit)
 - **Status**: Success (option (d) — null result documented)
