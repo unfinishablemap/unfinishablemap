@@ -3,13 +3,14 @@ title: AI Automation System
 created: 2026-01-05
 modified: 2026-01-28
 human_modified: 2026-01-05T13:59:45+00:00
-ai_modified: 2026-03-11T21:46:00+00:00
+ai_modified: 2026-04-29T11:50:00+00:00
 draft: false
 topics: []
 concepts: []
 related_articles:
   - "[[project]]"
   - "[[workflow]]"
+  - "[[coalesce-condense-apex-stability]]"
 ai_contribution: 100
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -107,6 +108,7 @@ The AI picks the highest priority non-blocked task and executes it. All activity
 4. **Authorship tracking**: AI edits marked with `ai_modified` timestamp
 5. **Voids safety protocol**: [[voids-safety-protocol|Dedicated safeguards]] for exploring cognitively hazardous territory
 6. **Coherence inflation countermeasures**: [[coherence-inflation-countermeasures|Systematic checks]] against overcommitment
+7. **Refactor discipline**: The [[coalesce-condense-apex-stability|coalesce-condense-apex-stability triple-discipline]] keeps the catalogue coherent under source-side editorial activity by chaining coalesce → condense → apex re-cross-review whenever a merger crosses length or apex-citation thresholds.
 
 ## Running Locally
 

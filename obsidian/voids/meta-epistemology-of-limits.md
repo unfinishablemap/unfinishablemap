@@ -4,7 +4,7 @@ description: "Can we know our cognitive limits are genuine? Estimate their total
 created: 2026-01-16
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T09:56:00+00:00
+ai_modified: 2026-04-29T11:50:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -41,6 +41,7 @@ related_articles:
   - "[[suspension-void]]"
   - "[[inference-void]]"
   - "[[question-formation-void]]"
+  - "[[coalesce-condense-apex-stability]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7

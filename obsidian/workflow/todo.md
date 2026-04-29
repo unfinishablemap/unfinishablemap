@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Install reciprocal cross-links from concepts/coalesce-condense-apex-stability.md hub articles
-- **Type**: cross-review
-- **Notes**: Chain from today's expand-topic completion (2026-04-29 07:58 UTC). The new methodology concept `concepts/coalesce-condense-apex-stability.md` declares seven `related_articles` (apex-articles, apex, taxonomy-of-voids, meta-epistemology-of-limits, automation, writing-style, tenets). Of those, only `apex/conjunction-coalesce.md` (the closest methodology kin) reciprocally cites the new concept; the other related articles lack inbound links. Cross-review should (a) verify each related article includes a wikilink to `[[coalesce-condense-apex-stability]]` where editorially natural — `apex/apex-articles.md` is the highest-value site (the index should reference the discipline that governs its updates), `apex/taxonomy-of-voids.md` and `voids/meta-epistemology-of-limits.md` are the canonical worked-example articles, `project/automation.md` is the natural home for documenting the discipline's place in the workflow, (b) preserve each article's existing voice, (c) update `related_articles` frontmatter reciprocally where missing, (d) avoid restating the concept's content in the linking articles. Short scope (~150–250 words across four-six articles). Tenet alignment: methodological. See `/deep-review` skill.
-- **Source**: chain (from concepts/coalesce-condense-apex-stability.md)
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review apex/taxonomy-of-voids.md and voids/meta-epistemology-of-limits.md against medium-status-voids-in-cognition apex
 - **Type**: cross-review
 - **Notes**: Chain from today's apex-evolve completion (2026-04-29 08:10 UTC). The new `apex/medium-status-voids-in-cognition.md` shares territory with two earlier hub articles — `apex/taxonomy-of-voids.md` (which classifies all voids on multiple axes) and `voids/meta-epistemology-of-limits.md` (which treats the apparatus-versus-content distinction as a meta-question). The new apex's medium-status category needs to be situated within the taxonomy's existing axes (likely under the *phenomenology-vs-function axis* or as a new content-vs-capacity-vs-medium axis); it also needs to be cross-referenced from meta-epistemology-of-limits as one of the worked-example clusters of medium-status apparatus. Cross-review should (a) verify taxonomy-of-voids includes the medium-status category as a recognised classification axis (or specify why it should not be added — perhaps the four examples don't yet justify a new axis), (b) install reciprocal links between meta-epistemology-of-limits and medium-status-voids-in-cognition with a paragraph in each pointing out the structural-kinship, (c) check terminology consistency across the three articles (medium-status, apparatus, condition-of-investigation), (d) preserve each article's voice. Medium scope (~300-500 words across three articles). Tenet alignment: methodological/Occam's Razor Has Limits. See `/deep-review` skill.
@@ -3082,6 +3076,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Install reciprocal cross-links from concepts/coalesce-condense-apex-stability.md hub articles
+- **Type**: cross-review
+- **Notes**: Chain from today's expand-topic completion (2026-04-29 07:58 UTC). The new methodology concept `concepts/coalesce-condense-apex-stability.md` declares seven `related_articles` (apex-articles, apex, taxonomy-of-voids, meta-epistemology-of-limits, automation, writing-style, tenets). Of those, only `apex/conjunction-coalesce.md` (the closest methodology kin) reciprocally cites the new concept; the other related articles lack inbound links. Cross-review should (a) verify each related article includes a wikilink to `[[coalesce-condense-apex-stability]]` where editorially natural — `apex/apex-articles.md` is the highest-value site (the index should reference the discipline that governs its updates), `apex/taxonomy-of-voids.md` and `voids/meta-epistemology-of-limits.md` are the canonical worked-example articles, `project/automation.md` is the natural home for documenting the discipline's place in the workflow, (b) preserve each article's existing voice, (c) update `related_articles` frontmatter reciprocally where missing, (d) avoid restating the concept's content in the linking articles. Short scope (~150–250 words across four-six articles). Tenet alignment: methodological. See `/deep-review` skill.
+- **Output**: obsidian/concepts/coalesce-condense-apex-stability.md -- Context: Install reciprocal cross-links from concepts/coalesce-condense-apex-stability.md hub articles
 
 ### ✓ 2026-04-29: Install reciprocal cross-links from apex/medium-status-voids-in-cognition.md sources
 - **Type**: cross-review
