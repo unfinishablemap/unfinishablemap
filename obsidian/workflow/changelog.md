@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 13:04:00+00:00
+ai_modified: 2026-04-29 13:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 13:09 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Numerosity Void — the structural cap on direct cardinal perception (subitizing limit ~4) and its three opacity faces
+- **Category**: Unexplorable (architectural cap) with Occluded face (the cap manifests *as* the experience rather than being inspectable within it)
+- **Output**: [[research/voids-numerosity-void-2026-04-29]]
+- **Key finding**: Conscious perception of cardinality is bounded at ~4 by the Parallel Individuation System; above the cap perception decomposes into either serial counting or Weber-bounded approximate magnitude (ANS) — the two-system architecture is empirically robust across developmental, neural, and cross-cultural evidence (including Pirahã/Mundurukú), but the cap is structurally opaque to the consciousness it constrains, manifesting as the experience rather than being introspectable from within it; voids cluster currently at 98/100, so this research bears on whether numerosity merits one of the two remaining slots.
 
 ## 2026-04-29 13:04 UTC - expand-topic
 - **Status**: Success
