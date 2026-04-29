@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 02:34:00+00:00
+ai_modified: 2026-04-29 02:49:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 02:49 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/common-knowledge-void]]
+- **Issues addressed**: 6 from [[reviews/pessimistic-2026-04-29]] (Issues 1–6); Issues 7–8 deferred
+- **Changes**:
+  - Softened Lederman 2018 gloss; flagged Map's reading as one option Lederman canvasses without endorsing
+  - Reordered tenets: Occam's-Limits promoted to most directly engaged; Dualism downgraded to indirectly engaged
+  - Added new "Focal-Points Alternative" subsection (Schelling/Pettit/Bicchieri) with the Map's salience-regress reply
+  - Reframed Aumann (1976) as a contrast to Halpern–Moses/Rubinstein, not a third converging anchor
+  - Added equilibrium-selection hedge to Rubinstein (Three Faces section)
+  - Hedged AI-section claims about LLM introspection, "in principle" computation, and over-attribution conjecture
+  - Added Schelling, Pettit, Bicchieri to references
+- **Published**: yes
 
 ## 2026-04-29 02:34 UTC - pessimistic-review
 - **Status**: Success
