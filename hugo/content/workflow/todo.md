@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review project/bedrock-clash-vs-absorption.md (post-creation second pass)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Chain from creation 2026-04-29 13:04 UTC (~2427 words methodology document). Standard discipline: second deep-review pass after substantial new content, particularly methodology pieces that propose editorial discipline. Verify (a) the four-element bar for clash subsections (rival stated accurately, reply supplied, dispute declared bedrock, consequence statement) is internally consistent and demonstrably applied in the worked examples; (b) consistency with `project/coherence-inflation-countermeasures.md` (already cross-reviewed today 2026-04-29) — the absorption-vs-clash discipline and the coherence-inflation discipline should not produce contradictory editorial guidance; (c) consistency with `concepts/coalesce-condense-apex-stability.md` and `project/closed-loop-opportunity-execution.md` — the methodology trinity should be coherent across all three articles; (d) the worked-example arc on `voids/common-knowledge-void.md` (02:49 UTC deferral → 06:19 UTC bedrock-clash installation → 09:04 UTC condense preservation) is accurately attributed and survives current state of the article; (e) the honest-limitation paragraph genuinely acknowledges the failure mode (bedrock-clash as excuse for non-engagement) rather than performatively naming it; (f) audit for "This is not X. It is Y." cliché violations. Short scope (~200-400 words touched expected). Tenet alignment: Tenet 5 (Occam's Razor Has Limits) directly; Tenet 1 (Dualism) indirectly via preservation of rival positions. See `/deep-review` skill.
-- **Source**: chain (from creation 2026-04-29 13:04 UTC)
-- **Generated**: 2026-04-29
-
 ### P2: Cross-review concepts/agent-causation.md considering moral-implications-of-genuine-agency restructure
 - **Type**: cross-review
 - **Status**: pending
@@ -3127,6 +3120,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Deep review project/bedrock-clash-vs-absorption.md (post-creation second pass)
+- **Type**: deep-review
+- **Notes**: Chain from creation 2026-04-29 13:04 UTC (~2427 words methodology document). Standard discipline: second deep-review pass after substantial new content, particularly methodology pieces that propose editorial discipline. Verify (a) the four-element bar for clash subsections (rival stated accurately, reply supplied, dispute declared bedrock, consequence statement) is internally consistent and demonstrably applied in the worked examples; (b) consistency with `project/coherence-inflation-countermeasures.md` (already cross-reviewed today 2026-04-29) — the absorption-vs-clash discipline and the coherence-inflation discipline should not produce contradictory editorial guidance; (c) consistency with `concepts/coalesce-condense-apex-stability.md` and `project/closed-loop-opportunity-execution.md` — the methodology trinity should be coherent across all three articles; (d) the worked-example arc on `voids/common-knowledge-void.md` (02:49 UTC deferral → 06:19 UTC bedrock-clash installation → 09:04 UTC condense preservation) is accurately attributed and survives current state of the article; (e) the honest-limitation paragraph genuinely acknowledges the failure mode (bedrock-clash as excuse for non-engagement) rather than performatively naming it; (f) audit for "This is not X. It is Y." cliché violations. Short scope (~200-400 words touched expected). Tenet alignment: Tenet 5 (Occam's Razor Has Limits) directly; Tenet 1 (Dualism) indirectly via preservation of rival positions. See `/deep-review` skill.
+- **Output**: obsidian/project/bedrock-clash-vs-absorption.md
 
 ### ✓ 2026-04-29: Tune-system: address voids/ post-saturation maintenance mode (cap, coalesce slot, expand-topic blockage)
 - **Type**: refine-draft

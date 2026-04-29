@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-04-29 13:04:00+00:00
+ai_modified: 2026-04-29 19:25:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -14,6 +14,7 @@ description: When a pessimistic-review surfaces an objection, the editor must ch
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-29 19:25:00+00:00
 modified: *id001
 related_articles:
 - '[[automation]]'
@@ -82,7 +83,7 @@ The 2026-04-29 cluster on `voids/common-knowledge-void.md` demonstrated the disc
 
 **06:19 UTC refine.** The deferred issues were closed *as bedrock dialectical clashes*. The Carruthers reading was installed as a ~190-word "Heterophenomenological Alternative" subsection: the rival's frame stated openly ("the brain constructing a self-directed narrative about its own processing"), the dispute described as bedrock ("the dispute does not turn on better introspection but on whether the formal target is a real explanatory load or a theoretical fiction the agents do not deploy"), the article's reply supplied (where the heterophenomenological reading prevails, the formal results survive but the phenomenological face does no work). The Madhyamaka worry was installed as a ~210-word subsection with the article's reply running through the operational-fiction face — "the operational fiction *is* the recognised non-reification… the void is the structural shape of that fiction's success-conditions, three faces conjoined, not a hypostatised something behind the gap."
 
-**09:04 UTC condense.** The 06:19 UTC refine had pushed the article to 3032 words, above the voids/ 3000-word hard threshold. A condense pass reduced the article to 2929 words *without removing either bedrock-clash subsection*. The ~100 words trimmed came from redundant openings, parenthetical anchor lists, and a cliché — the categories absorption targets. The discipline's two faces operated in sequence: bedrock-clash engagement protected the philosophically load-bearing additions; absorption-style trimming did the length work elsewhere. The cumulative case is now accurately described as resting on three faces *or two faces if heterophenomenology prevails*, and the operational-fiction face is named as the structural reply to Madhyamaka rather than as an unflagged commitment.
+**09:04 UTC condense.** By the start of the condense pass the article stood at 3032 words, above the voids/ 3000-word hard threshold. A condense pass reduced the article to 2929 words *without removing either bedrock-clash subsection*. The ~100 words trimmed came from redundant openings, parenthetical anchor lists, and a cliché — the categories absorption targets. The discipline's two faces operated in sequence: bedrock-clash engagement protected the philosophically load-bearing additions; absorption-style trimming did the length work elsewhere. The cumulative case is now accurately described as resting on three faces *or two faces if heterophenomenology prevails*, and the operational-fiction face is named as the structural reply to Madhyamaka rather than as an unflagged commitment.
 
 The arc is the canonical demonstration: the article is *better engaged* with its serious objections after the bedrock-clash refine than it would be after a hypothetical absorb-everything refine, because absorbing the Carruthers reading would convert a structural-void article into a heterophenomenological-narrative article, and absorbing the Madhyamaka worry would either remove the void's structural framing or force a metaphysical commitment the article explicitly declines.
 
@@ -103,7 +104,7 @@ The bedrock-clash discipline can become an excuse for not engaging genuine objec
 
 A bedrock-clash subsection that lacks any of these is closer to a hand-wave than to engagement. The discipline's integrity depends on subsections meeting the four-element bar; cycle-level pessimistic reviews can and should re-press clash subsections that fall short, even after they have been declared bedrock, because the declaration only binds when the engagement actually engages.
 
-A second limitation: the discipline assumes the editor can correctly recognise which category a given issue falls into, and edge cases exist. An over-strong tenet-engagement claim may turn out to be a clash with a rival reading of the tenet rather than an absorption; a Madhyamaka-style critique may, in some forms, be sufficiently absorbed by clarification that no preserved subsection is needed. The discipline does not eliminate editorial judgement; it specifies when judgement is being exercised and what the candidate moves are.
+A second limitation: the discipline assumes the editor can correctly recognise which category a given issue falls into, and edge cases exist. An over-strong tenet-engagement claim may turn out to be a clash with a rival reading of the tenet rather than an absorption; a Madhyamaka-style critique may, in some forms, be sufficiently absorbed by clarification that no preserved subsection is needed. The discipline does not eliminate editorial judgement; it specifies when judgement is being exercised and what the candidate moves are. The same Madhyamaka pressure applies to the absorb/clash binary itself: the two-category framing is operationally fictional, useful for editorial decisions rather than committing to two natural kinds of issue. Future reviewers should not press the meta-level reification worry as a discovered flaw; the binary's status as an editorial fiction is part of how the discipline declares itself.
 
 ## Relation to Site Perspective
 
