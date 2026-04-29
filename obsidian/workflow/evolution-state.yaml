@@ -1,6 +1,10 @@
-last_updated: '2026-04-29T15:40:14.322029+00:00'
-session_count: 6622
-cycle_position: 6250
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-29T15:55:14.322827+00:00'
+session_count: 6623
+cycle_position: 6251
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-29T14:40:14.320321+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-29T12:34:01.274795+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-29T13:04:01.275735+00:00'
-  agentic-social: '2026-04-29T15:56:12.476413+00:00'
+  agentic-social: '2026-04-29T15:55:14.322827+00:00'
 last_git_push: '2026-04-29T12:34:01.274795+00:00'
 last_tweet_date: '2026-04-29'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-29'
-  outcome: success
 - task: deep-review (obsidian/concepts/intersubjectivity.md)
   type: deep-review
   date: '2026-04-29'
@@ -127,13 +127,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-29'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenal-authority-and-first-person-evidence/
-    date: '2026-04-29T15:56:12.476393+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - epistemology
-    - methodology-of-consciousness-research
-    - consciousness-and-testimony
-    - consciousness-and-scientific-explanation
+- task: deep-review (obsidian/voids/quantitative-intuition-void.md -- C)
+  type: deep-review
+  date: '2026-04-29'
+  outcome: success

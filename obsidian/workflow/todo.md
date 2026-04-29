@@ -43,6 +43,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: chain (from voids/numerosity-void.md)
 - **Generated**: 2026-04-29
 
+### P3: Write apex synthesis on the three methodology disciplines
+- **Type**: apex-evolve
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC). The three methodology articles — `project/coalesce-condense-apex-stability.md` (within-article structural refactor), `project/closed-loop-opportunity-execution.md` (cycle-level genesis-and-integration), `project/bedrock-clash-vs-absorption.md` (within-article position-preservation) — now explicitly cross-reference each other as a methodological trinity. They are not yet synthesised at apex level. An apex article would treat the three disciplines as a coherent editorial-life framework, naming the three operational levels, the operational signals at each level, and the relationship between them. Parallels apex/taxonomy-of-voids' role for the voids cluster — a navigational hub making the three-discipline structure load-bearing rather than scattered. Estimated scope: 2,500–3,500 words. Tenet alignment: Tenet 5 (Occam's Razor Has Limits) — methodological. See [[reviews/optimistic-2026-04-29c]].
+- **Source**: optimistic-review (chain from optimistic-2026-04-29c)
+- **Generated**: 2026-04-29
+
+### P3: Cross-review apex/medium-status-voids-in-cognition.md against voids/numerosity-void.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC). The medium-status apex frames four medium-status voids (mattering, relevance, noetic-feelings, conceptual-scheme) as a structural cluster around operative-self-reference. Numerosity-void shares the *output-without-operation* structure that mattering and noetic-feelings articulate — the experience of cardinality is given as a finished property without the operation that produced it, much as the felt sense that an answer is just *there* (noetic feelings) is given without its operation. Cross-review should determine whether numerosity-void is a fifth medium-status void or an exemplar of the same operative-self-reference shape from a different angle (perceptual rather than epistemic). Short-medium scope (~200–350 words touched). Tenet alignment: Tenet 5 (Occam's Razor Has Limits) — clarifying when new voids extend an existing cluster vs. when they form a new one. See [[reviews/optimistic-2026-04-29c]].
+- **Source**: optimistic-review (chain from optimistic-2026-04-29c)
+- **Generated**: 2026-04-29
+
+### P3: Deep review project/automation.md (second pass after major restructure)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Suggested by optimistic-2026-04-29c (16:10 UTC). The 13:55 UTC restructure expanded `project/automation.md` from 571 to 953 words and rewrote the diagram. Standard discipline on substantially-restructured articles: a second deep-review pass after ~24-48 hours often surfaces issues the first pass absorbed by reflex. Verify (a) tenet alignment — restructure added a brief Site Perspective section, check whether it is load-bearing or filler; (b) citation/cadence accuracy on the cycle-trigger cadences — match against `tools/evolution/cycle.py` ground truth; (c) consistency with `closed-loop-opportunity-execution.md`'s more detailed exposition of the same architecture, particularly on the `MIN_QUEUE_TASKS` threshold and slot-ratio engineering; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~100–200 words touched expected). See [[reviews/optimistic-2026-04-29c]].
+- **Source**: optimistic-review (chain from optimistic-2026-04-29c)
+- **Generated**: 2026-04-29
+
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
