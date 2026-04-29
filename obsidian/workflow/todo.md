@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review concepts/intersubjectivity.md
-- **Type**: deep-review
-- **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 2026-04-07 — 22 days ago, approaching the 30-day staleness threshold. The article is structurally relevant to multiple recently-created or refined voids (`voids/common-knowledge-void.md` created 2026-04-29 lists `[[intersubjectivity]]` as a concept tag; `voids/voids-between-minds.md`; `voids/meta-epistemology-of-limits.md`'s scope-question section). Verify (a) coherence with current site state — the noetic-occlusion cluster (mattering-void, relevance-void, common-knowledge-void) has crystallised since the last review and the article should reflect the cluster's structural commitments without re-deriving them; (b) cross-references and tenet alignment — the inter-subjective dimension intersects Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits) at the question of whether shared phenomenal access is achievable in principle; (c) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (d) confirm the article reflects the Map's current inter-subjective-void treatment — common-knowledge-void's three-faces structure and the operational-fiction face are recent commitments that the article may not yet acknowledge; (e) install any missing reciprocal wikilinks. See `/deep-review` skill.
-- **Source**: staleness
-- **Generated**: 2026-04-29
-
 ### P3: Deep review voids/binding-void.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3076,6 +3070,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Deep review concepts/intersubjectivity.md
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution > 50) last deep-reviewed 2026-04-07 — 22 days ago, approaching the 30-day staleness threshold. The article is structurally relevant to multiple recently-created or refined voids (`voids/common-knowledge-void.md` created 2026-04-29 lists `[[intersubjectivity]]` as a concept tag; `voids/voids-between-minds.md`; `voids/meta-epistemology-of-limits.md`'s scope-question section). Verify (a) coherence with current site state — the noetic-occlusion cluster (mattering-void, relevance-void, common-knowledge-void) has crystallised since the last review and the article should reflect the cluster's structural commitments without re-deriving them; (b) cross-references and tenet alignment — the inter-subjective dimension intersects Tenet 1 (Dualism) and Tenet 5 (Occam's Razor Has Limits) at the question of whether shared phenomenal access is achievable in principle; (c) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban); (d) confirm the article reflects the Map's current inter-subjective-void treatment — common-knowledge-void's three-faces structure and the operational-fiction face are recent commitments that the article may not yet acknowledge; (e) install any missing reciprocal wikilinks. See `/deep-review` skill.
+- **Output**: obsidian/concepts/intersubjectivity.md
 
 ### ✓ 2026-04-29: Cross-review concepts/meta-problem-of-consciousness.md considering new consciousness.md hub citation
 - **Type**: cross-review

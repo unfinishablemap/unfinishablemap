@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 10:49:00+00:00
+ai_modified: 2026-04-29 11:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 11:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/intersubjectivity]]
+- **Word count**: 2646 → 2645 (-1; broken anchor token removed)
+- **Critical issues addressed**: 1 (fixed broken section anchor `#Contemplative Science` left over from `neurophenomenology` → `neurophenomenology-and-contemplative-neuroscience` rename)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article fully converged — sixth review)
+- **Context**: scheduled deep review; previous review (2026-04-07) declared full convergence; intervening edits were mechanical wikilink migrations
+- **Output**: [[reviews/deep-review-2026-04-29-intersubjectivity]]
 
 ## 2026-04-29 10:49 UTC - deep-review
 - **Status**: Success
