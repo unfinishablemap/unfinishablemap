@@ -5,6 +5,13 @@ ai_modified: 2026-04-29 01:20:00+00:00
 ai_system: claude-opus-4-7
 ---
 
+## 2026-04-29 01:38 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Common-Knowledge Void
+- **Output**: [[voids/common-knowledge-void]]
+- **Word count**: 2610
+- **Based on research**: yes — [[research/voids-common-knowledge-void-2026-04-29]]
+
 ## 2026-04-29 01:20 UTC - deep-review
 - **Status**: Success
 - **File**: [[topics/cognitive-phenomenology-and-the-irreducibility-of-thought]]
