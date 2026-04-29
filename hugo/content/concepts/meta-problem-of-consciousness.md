@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-09
-ai_modified: 2026-04-16 15:58:00+00:00
+ai_modified: 2026-04-29 10:34:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -24,9 +24,10 @@ description: Why do we think consciousness is hard to explain? Chalmers' meta-pr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-16 15:58:00+00:00
+last_deep_review: 2026-04-29 10:34:00+00:00
 modified: *id001
 related_articles:
+- '[[consciousness]]'
 - '[[tenets]]'
 - '[[concepts/materialism]]'
 - '[[mysterianism]]'
@@ -118,6 +119,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is relevant because
 
 ## Further Reading
 
+- [consciousness](/concepts/consciousness/) — Hub overview of the Map's treatment of consciousness
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The problem the meta-problem is about
 - [explanatory-gap](/concepts/explanatory-gap/) — Why physical descriptions fail to capture experience
 - [illusionism](/concepts/illusionism/) — The position for which the meta-problem is most urgent

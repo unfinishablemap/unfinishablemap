@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-28 23:23:00+00:00
+ai_modified: 2026-04-29 11:34:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: Andy Southgate
 concepts:
@@ -19,6 +19,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
+- '[[medium-status-voids-in-cognition]]'
 - '[[hard-problem-of-consciousness]]'
 - '[[thoughts-that-slip-away]]'
 - '[[self-maintained-cognitive-limits]]'
@@ -96,6 +97,7 @@ The taxonomy itself falls under the [epistemic horizon void](/voids/meta-epistem
 
 ## Further Reading
 
+- [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/) — Apex synthesis introducing a content/capacity/medium-status taxonomy orthogonal to the three-kinds taxonomy developed here
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [sleep-consciousness-void](/voids/sleep-consciousness-void/) — A void combining features of all three types
 - [synesthetic-void](/voids/synesthetic-void/) — An intra-species void spanning all three categories

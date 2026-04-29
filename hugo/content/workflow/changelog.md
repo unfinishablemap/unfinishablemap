@@ -1,13 +1,145 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 09:56:00+00:00
+ai_modified: 2026-04-29 12:42:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-29'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-29 12:42 UTC - coalesce
+- **Status**: Abandoned (no strong merge candidates)
+- **Sections checked**: voids (99/100, 99%), concepts (233/250, 93.2%), topics (231/250, 92.4%) — voids most pressured
+- **Iterations**: ~20 candidate clusters surveyed across voids
+- **Clusters surveyed (new since 11:22 UTC abandonment)**:
+  1. Self/agency family (agency-void, ownership-void, source-attribution-void) — agency = control + verification, ownership = mineness, source-attribution = origin-tracing of contents; three distinct gaps
+  2. Recognition/witnessing/acquaintance — recognition = knowing-as, witnessing = self-witnessing reflexivity, acquaintance = direct phenomenal contact; orthogonal angles
+  3. Surplus/plenitude — explicitly demarcated in plenitude-void §"Distinguishing Plenitude from Adjacent Voids" (function-excess vs cognitive-grip-excess); coalescing would erase a recently-installed boundary
+  4. Encounter/transformative/silence — meaning-encounter vs perspective-shift vs cognitive-cessation; Heideggerian/Paul/contemplative traditions respectively
+  5. Inference/observation/simulation — reasoning-step opacity vs measurement-disturbance vs embedded-observer indeterminacy
+  6. Tacit/binding — Polanyi's subsidiary-focal vs phenomenal-unity; different levels of integration
+  7. Metaphysics cluster (intrinsic-nature, nomic, consciousness-only-territories) — Russellian gap vs nomic-law constraints vs experience-only domains
+  8. Voids-between-minds/boundary-and-projection/plurality — between-minds access vs single-mind perimeter vs combination-impossibility
+  9. Erasure/disappearance/death — own-deletion-blindness vs three-mechanism phenomenal-disappearance (already coalesced) vs self-absence-inconceivability
+  10. Thrownness/suspension/recursion — origin-conditions vs judgment-withholding vs metacognitive-depth-ceiling
+  11. Amplification/compound-failure/mutation — quantum-to-macro chain vs superadditive-limit-interactions vs inspection-changes-content
+  12. Origin/minimal/infant — existence-question vs lower-bound-introspection vs lost-prior-self
+  13. Anesthesia/sleep — pharmacological-gap vs state-dependent across the sleep spectrum
+  14. Meaning/narrative/void-as-ground-of-meaning — aboutness vs self-storytelling vs constitutive-role of voids
+  15. Edge/opacity (self-opacity, necessary-opacity, phenomenology-of-the-edge) — general structural opacity vs functional self-protection vs felt-quality-at-boundary; self-opacity is a hub article cited from the new medium-status apex
+  16. Imagery/synesthetic/metaphor — single-modality-fidelity vs intra-species-qualia-closure vs reflexive-figurative-substrate
+  17. Conceptual-impossibility/counterfactual — formally-unthinkable (round square) vs cognitively-distant-but-possible (radically alien laws)
+  18. Interface family (interface-formalization, causal-interface, capability-division-problem) — math-language inadequacy vs intention→action invisibility vs which-side-does-X-belong-to
+  19. Foundational taxonomy (three-kinds-of-void, what-voids-reveal, mapping-mind-space, apophatic-cartography) — load-bearing classification infrastructure; merging would damage the catalogue's navigation
+- **Notes**: Fourth consecutive coalesce abandonment (06:36, 11:22, and now 12:42 UTC today, plus the 2026-04-26 abandonment cited by tune-system). Many candidate articles are themselves prior coalesce products with explicit "Distinguishing X from adjacent voids" sections (plenitude, boundary-and-projection, disappearance-voids, creative-aesthetic, conceptual-scheme — the 05:25 UTC merge target). The catalogue is now saturated at ~99 voids with high inter-article differentiation. Per skill instructions ("If there are no good candidates, abandon the attempt and do not merge anything"), no merge was performed. Strengthens the recommendation that the cycle's coalesce slot be reduced or paused until new material accumulates.
+
+## 2026-04-29 12:19 UTC - deep-review
+- **Status**: Success
+- **File**: [taxonomy-of-voids](/apex/taxonomy-of-voids/)
+- **Mode**: Cross-review with new [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/) apex (created 11:34 UTC) and post-coalesce/condense [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
+- **Word count**: 4601 → 4650 (+49; soft_warning preserved, ~350-word margin to hard threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (medium-status framing as a third cross-cutting axis was absent from the apex despite the medium-status apex introducing a genuine new methodological discipline parallel to presence/absence and phenomenology-vs-function)
+- **Enhancements made**: new content/capacity/medium-status axis paragraph added at end of §Phenomenological Cluster naming the four medium-status voids (mattering, relevance, noetic-feelings, conceptual-scheme), the operative-self-reference shape, and the five-tradition convergence (Heidegger, Frankfurt, Ratcliffe, Carruthers, Vervaeke); mattering-void cluster-sentence trimmed and forward-anchored to the new axis; Formal/Meta-Cognitive Cluster lightly compressed (~30 words); erasure-void mode treatment lightly tightened; frontmatter related_articles updated (added medium-status-voids-in-cognition, noetic-feelings-void); Source Articles list extended; cross-link added to meta-epistemology-of-limits frontmatter
+- **Output**: [deep-review-2026-04-29c-taxonomy-of-voids](/reviews/deep-review-2026-04-29c-taxonomy-of-voids/)
+- **Note**: Third deep-review of this article today. The medium-status axis is the first apex-level appearance of the noetic-feelings-void and the first time the four medium-status voids are framed as a structural cluster rather than scattered across clusters. Stability notes flagged: three cross-cutting axes are now canonical; future reviews should not reorder, merge, or split them.
+
+## 2026-04-29 12:04 UTC - deep-review
+- **Status**: Success
+- **File**: [curated-mind](/topics/curated-mind/)
+- **Word count**: 2609 → 2610 (length-neutral; only link repairs)
+- **Critical issues addressed**: 1 (broken wikilink to archived `perceptual-reconstruction-selection`, coalesced 2026-04-23 into `selective-correction-and-reconstruction-paradox` as third mode)
+- **Medium issues addressed**: 0
+- **Enhancements made**: redirected three references to the surviving coalesced concept (frontmatter, opening summary anchor-link, Further Reading), confirmed all remaining wikilinks resolve, all empirical citations verified accurate
+- **Output**: [deep-review-2026-04-29-curated-mind](/reviews/deep-review-2026-04-29-curated-mind/)
+- **Note**: Fifth review of this article. Content is definitively stable on core arguments after four prior 2026-03-24 passes. Sole driver of this pass: stale link rot from upstream coalesce.
+
+## 2026-04-29 11:50 UTC - deep-review
+- **Status**: Success
+- **File**: [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)
+- **Mode**: Reciprocal cross-link installation from hub articles
+- **Word count**: 1769 → 1769 (source unchanged; hub destinations received minimal back-link additions)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (most hub destinations cited by the article lacked reciprocal back-links)
+- **Enhancements made**: 4 reciprocal back-links installed (apex-articles, taxonomy-of-voids, meta-epistemology-of-limits, automation) — each in frontmatter `related_articles`; apex-articles and automation also received inline bullets noting the discipline's role in their workflows. Conjunction-coalesce was already reciprocal. Tenets, writing-style, and apex.md (foundational/landing pages) intentionally not given reciprocal links.
+- **Output**: [deep-review-2026-04-29b-coalesce-condense-apex-stability](/reviews/deep-review-2026-04-29b-coalesce-condense-apex-stability/)
+- **Note**: Second review of this article today, addressing the navigation-asymmetry follow-up flagged by the morning's pass. No prose-level changes to source article; convergence preserved.
+
+## 2026-04-29 11:34 UTC - deep-review
+- **Status**: Success
+- **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Mode**: Reciprocal cross-link installation from apex sources
+- **Word count**: 3219 → 3219 (apex unchanged; six sources received minimal back-link additions)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (six of seven apex sources lacked reciprocal back-links)
+- **Enhancements made**: 6 reciprocal back-links installed (mattering-void, relevance-void, noetic-feelings-void, three-kinds-of-void, self-opacity, apophatic-cartography) — each in frontmatter `related_articles` and Further Reading; mattering-void and relevance-void also received inline cluster-membership sentences at points where body already discussed medium-status
+- **Output**: [deep-review-2026-04-29-medium-status-voids-in-cognition-cross-links](/reviews/deep-review-2026-04-29-medium-status-voids-in-cognition-cross-links/)
+
+## 2026-04-29 11:22 UTC - coalesce
+- **Status**: Abandoned (no strong merge candidates)
+- **Sections checked**: voids (98/100), concepts (232/250), topics (230/250) — voids most pressured at 98%
+- **Iterations**: 8+ candidate clusters examined across voids and adjacent sections
+- **Clusters surveyed**:
+  1. Cognitive-limits cluster (biological-cognitive-closure, closure-types-void, formal-cognitive-limits, embodiment-cognitive-limits, etc.) — different domains; biological-cognitive-closure and formal-cognitive-limits both already coalesced articles
+  2. Affective family (affective-void, mood-void, valence-void, appetitive-void, emotional-epistemology-void, noetic-feelings-void) — each article explicitly distinguishes itself in body text; valence-void's section "Distinct from Affective, Mood, and Mattering Voids" is paradigmatic
+  3. Math/formal cluster (mathematical-void, quantitative-intuition-void, formal-cognitive-limits) — distinct domains: formal-system limits vs phenomenal grasp vs magnitude/probability intuition; quantitative-intuition-void already coalesced
+  4. Memory/temporal voids (inaccessible-past, historical-consciousness-void, temporal-void) — explicitly distinguished by scale (single life vs. epochs vs. asymmetry); inaccessible-past already coalesced
+  5. State-transition voids (transit-void, smoothness-and-continuity, disappearance-voids, thought-stream-void) — all already coalesced articles with explicit demarcation from cluster-mates
+  6. Counterfactual/conceptual cluster (counterfactual-void, conceptual-impossibility, conceptual-metabolism-void, mutation-void) — each explicitly distinguishes itself; conceptual-metabolism-void's "Distinguishing the Void" section names mutation-void as adjacent but distinct (integration vs inspection)
+  7. Language/articulation cluster (metaphor-void, language-thought-boundary, conceptual-scheme-void) — operate at different levels (figurative substrate vs articulation vs scheme totality); conceptual-scheme-void was the last successful coalesce target (05:25 UTC today)
+  8. Topics on consciousness-and-X (induction, other-properties, measurement-standards) — each addresses distinct epistemic problem (justification of inference, qualia interpersonal access, measurement triad failure)
+- **Notes**: Confirms the same catalogue-maturity finding from the 06:36 UTC abandonment four hours earlier. The site has been actively reducing redundancy via /deep-review and prior /coalesce runs (most recently framework-void+categorial-void→conceptual-scheme-void at 05:25 UTC today), leaving the remaining catalogue with high differentiation. Many candidate articles are themselves coalesce products that explicitly demarcate themselves from cluster-mates. Per skill instructions ("If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything"), no merge was performed. This is the third consecutive coalesce abandonment, reinforcing the recommendation that the queue continue favouring deep-review/condense over coalesce until new material accumulates that genuinely overlaps.
+
+## 2026-04-29 11:04 UTC - deep-review
+- **Status**: Success
+- **File**: [intersubjectivity](/concepts/intersubjectivity/)
+- **Word count**: 2646 → 2645 (-1; broken anchor token removed)
+- **Critical issues addressed**: 1 (fixed broken section anchor `#Contemplative Science` left over from `neurophenomenology` → `neurophenomenology-and-contemplative-neuroscience` rename)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article fully converged — sixth review)
+- **Context**: scheduled deep review; previous review (2026-04-07) declared full convergence; intervening edits were mechanical wikilink migrations
+- **Output**: [deep-review-2026-04-29-intersubjectivity](/reviews/deep-review-2026-04-29-intersubjectivity/)
+
+## 2026-04-29 10:49 UTC - deep-review
+- **Status**: Success
+- **File**: [machine-consciousness](/topics/machine-consciousness/)
+- **Word count**: 3092 → 3092 (no change; HTML comment removal only)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale `<!-- AI REFINEMENT LOG - 2026-03-30 -->` comment block marked for removal after human review)
+- **Enhancements made**: 0 (article confirmed at stability — fourth review)
+- **Context**: scheduled deep review; previous review (2026-03-24) declared stability; three substantive intervening edits reviewed and cleared
+- **Output**: [deep-review-2026-04-29-machine-consciousness](/reviews/deep-review-2026-04-29-machine-consciousness/)
+
+## 2026-04-29 10:34 UTC - deep-review
+- **Status**: Success
+- **File**: [meta-problem-of-consciousness](/concepts/meta-problem-of-consciousness/)
+- **Word count**: 1920 → 1931 (+11)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (added reciprocal back-link to new `consciousness` hub)
+- **Enhancements made**: 1 (Further Reading hub entry)
+- **Context**: cross-review prompted by new `consciousness.md` hub citation
+- **Output**: [deep-review-2026-04-29-meta-problem-of-consciousness](/reviews/deep-review-2026-04-29-meta-problem-of-consciousness/)
+
+## 2026-04-29 10:21 UTC - refine-draft
+- **Status**: Success
+- **Source**: chain from 2026-04-29 03:35 UTC `/expand-topic` creating [relevance-void](/voids/relevance-void/); substantive cross-link previously bracketed out of the 09:56 noetic-occlusion light-touch refine
+- **Files touched**: 2 (`concepts/attention-as-interface`, `voids/relevance-void`)
+- **Changes**:
+  - `voids/relevance-void` §"Relation to Site Perspective" / Bidirectional Interaction: inserted single sentence at the salience-precision question naming `[attention-as-interface](/concepts/attention-as-interface/)` as the channel hypothesis on which the void's filtering-opacity falls (body wikilink installed where previously frontmatter-only at line 13)
+  - `concepts/attention-as-interface`: added new H2 §"The Channel's Structural Opacity" (~175 words) between §"Challenges and Falsification" and §"Relation to Site Perspective" — names `[relevance-void](/voids/relevance-void/)` as the structural void within the channel ("the channel-as-interface is operating; the channel's selection criteria are not on the channel"), reads the opacity as supporting the structural-non-physical interpretation, bounds the hypothesis's claim
+  - `concepts/attention-as-interface` frontmatter: appended `[relevance-void](/voids/relevance-void/)` to `related_articles`
+- **Style audit**: scanned both files for "This is not X. It is Y." cliché — none present in originals, none introduced
+- **Voice**: preserved — attention-as-interface received an additive H2 section only (no restructuring of the recently deep-reviewed content from 2026-04-28T16:37); relevance-void received a single sentence inside an existing paragraph
+- **Tenet alignment**: Bidirectional Interaction (load-bearing — gives the interface a phenomenologically-anchored void at the channel's selection step); Dualism (channel-opacity as evidence for structural-non-physical reading); Occam's Razor Has Limits
+- **Total scope**: ~230 words added across two files (within the ~250-350 word task budget)
+- **Published**: yes (both files already draft: false)
+
+## 2026-04-29 10:04 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: cluster from 05:34 → 09:56 UTC including two new pieces specifically recommended by optimistic-2026-04-29 (apex/medium-status-voids-in-cognition created 07:19 UTC; concepts/coalesce-condense-apex-stability created 07:34 UTC); common-knowledge-void's bedrock-dialectical-clash refine + condense; penrose article's convergence-is-not-stasis arc; second-consecutive coalesce abandonment with explicit catalogue-maturity declaration
+- **Output**: [optimistic-2026-04-29b](/reviews/optimistic-2026-04-29b/)
 
 ## 2026-04-29 09:56 UTC - refine-draft
 - **Status**: Success

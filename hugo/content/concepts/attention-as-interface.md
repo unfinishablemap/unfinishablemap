@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-28 16:37:00+00:00
+ai_modified: 2026-04-29 10:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -64,6 +64,7 @@ related_articles:
 - '[[libet-experiments]]'
 - '[[perception]]'
 - '[[bandwidth-of-consciousness]]'
+- '[[relevance-void]]'
 title: Attention as Interface
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -208,6 +209,12 @@ The hypothesis would fail if:
 3. **Quantum decoherence too fast**: No quantum effects surviving attention timescales at any candidate sites (though alternative physics could preserve the interface hypothesis)
 4. **Willed and instructed attention prove identical**: If "willed" attention is instructed with hidden instructions
 5. **Many-worlds interpretation confirmed**: Selection would be illusory—consciousness finding itself in branches rather than selecting outcomes
+
+## The Channel's Structural Opacity
+
+The interface hypothesis specifies *where* consciousness acts (through attention) and *how* it might act (through quantum selection on neural competition). A further limitation surfaces when the channel is examined from inside. The [relevance void](/voids/relevance-void/) names what the interface cannot see of itself: the selection mechanism that decides which items become candidates for attention is structurally inaccessible to the consciousness whose attention it shapes. We experience the outputs of relevance filtering—*these* options as live, *those* as background—without experiencing the filtering. Inspection is itself a relevance-using act and inherits the opacity it tries to dissolve. The channel-as-interface is operating; the channel's selection criteria are not on the channel.
+
+This bounds what the interface hypothesis can claim. Phenomenal attention biases neural competition through the salience-precision channel, but does not author the shortlist consciousness gets to bias. The interface acts on options; the upstream relevance step that constituted them as options remains a void. That opacity is itself evidence for the structural-non-physical reading the Map prefers: a wholly-physical filter ought, in principle, to be inspectable; one whose operation cannot survive being looked at fits the dualist picture of consciousness as something other than the mechanism it engages.
 
 ## Relation to Site Perspective
 

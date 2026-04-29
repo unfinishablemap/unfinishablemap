@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-19
-ai_modified: 2026-04-29 09:56:00+00:00
+ai_modified: 2026-04-29 12:19:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -54,6 +54,8 @@ related_articles:
 - '[[suspension-void]]'
 - '[[inference-void]]'
 - '[[question-formation-void]]'
+- '[[coalesce-condense-apex-stability]]'
+- '[[medium-status-voids-in-cognition]]'
 title: The Meta-Epistemology of Cognitive Limits
 topics:
 - '[[hard-problem-of-consciousness]]'

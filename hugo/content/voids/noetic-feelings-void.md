@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-04-29 05:07:00+00:00
+ai_modified: 2026-04-29 11:34:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -29,6 +29,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
+- '[[medium-status-voids-in-cognition]]'
 - '[[recognition-void]]'
 - '[[self-opacity]]'
 - '[[necessary-opacity]]'
@@ -172,6 +173,7 @@ A functionalist might dissolve the void by identifying understanding with a func
 
 ## Further Reading
 
+- [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/) — The apex synthesis placing this void in a four-void cluster of operations that structure cognition while remaining invisible from inside
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [recognition-void](/voids/recognition-void/) — Recognition as a noetic feeling that can fail
 - [self-opacity](/voids/self-opacity/) — The broader phenomenon of being a system that cannot fully see itself

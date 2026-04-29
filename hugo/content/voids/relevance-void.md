@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-04-29 03:35:00+00:00
+ai_modified: 2026-04-29 11:34:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -21,6 +21,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
+- '[[medium-status-voids-in-cognition]]'
 - '[[three-kinds-of-void]]'
 - '[[mattering-void]]'
 - '[[attention-and-consciousness]]'
@@ -75,7 +76,7 @@ These traditions — analytic philosophy, phenomenology, cognitive science, comp
 
 ## Why the Void Is Occluded — and Partly Unexplorable
 
-The relevance void is primarily *occluded*, with medium-status opacity analogous to (but distinct from) mattering's. We do not experience relevance *as* a filter; we experience a world in which some things bear on the situation and others do not, as if bearing-on-the-situation were a property of the things themselves. The filter is invisible because it is the medium through which any seeing happens.
+The relevance void is primarily *occluded*, with medium-status opacity analogous to (but distinct from) mattering's. We do not experience relevance *as* a filter; we experience a world in which some things bear on the situation and others do not, as if bearing-on-the-situation were a property of the things themselves. The filter is invisible because it is the medium through which any seeing happens. The relevance void joins the mattering, noetic-feelings, and conceptual-scheme voids in the cluster of [medium-status voids in cognition](/apex/medium-status-voids-in-cognition/) — operations that structure other contents while remaining invisible from inside.
 
 The void also has a *structurally unexplorable* dimension built from three converging arguments. *Self-reference*: any investigation of relevance must itself select what is relevant to the investigation, generating a regress in which each meta-level introduces its own equally opaque filter. *Constitutivity*: if relevance is constitutive of cognition, separating the filter from cognition for inspection is impossible in principle — every reflective surface is itself produced by the relevance mechanism. *Frame-problem shadow*: artificial systems have not solved general relevance determination after fifty years of attempts; the Map weights this toward the structural reading without taking it as proof.
 
@@ -93,12 +94,13 @@ The Map interprets the relevance void as bearing primarily on **Occam's Razor Ha
 
 The void also bears on **Dualism**. If relevance realization is fundamentally non-computational — a hypothesis the Map flags rather than asserts — this would open space for non-physical aspects of mind to play a role in determining what bears on a situation. The Map does not claim Vervaeke shares the dualist tenet; he does not. The Map adds that interpretation: the convergence of traditions on the irreducibility of relevance is read as supporting a non-physical reading without requiring it.
 
-It bears, more lightly, on **Bidirectional Interaction**. If consciousness causally influences the physical, one candidate channel is precisely the weighting of which neural events become salient. The salience network is a physical system, but what sets its precisions? The relevance void doubles the [causal interface void](/voids/causal-interface/): even if consciousness shapes what registers as relevant, that shaping cannot be observed because it is the very operation through which observing happens.
+It bears, more lightly, on **Bidirectional Interaction**. If consciousness causally influences the physical, one candidate channel is precisely the weighting of which neural events become salient. The salience network is a physical system, but what sets its precisions? On the [attention-as-interface](/concepts/attention-as-interface/) hypothesis, salience-precision is one face of the channel through which consciousness biases neural competition — and the relevance void identifies the channel's selection step itself as structurally opaque to the consciousness whose attention it shapes. The relevance void doubles the [causal interface void](/voids/causal-interface/): even if consciousness shapes what registers as relevant, that shaping cannot be observed because it is the very operation through which observing happens.
 
 The unifying picture: the Map is unfinishable not only because the territory is vast, but because every chart it draws has already been filtered for relevance by a process the chart cannot include in itself. What has the Map systematically excluded? The honest answer is that this question cannot be answered from inside the Map's own filter — only triangulated through other minds, breakdown cases, and external probes.
 
 ## Further Reading
 
+- [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/) — The apex synthesis placing this void in a four-void cluster of operations that structure cognition while remaining invisible from inside
 - [voids](/voids/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [mattering-void](/voids/mattering-void/)

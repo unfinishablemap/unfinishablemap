@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-29 11:04:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: 'The shared space between minds: how first-person experience can be
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-07 06:52:00+00:00
+last_deep_review: 2026-04-29 11:04:00+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -77,7 +77,7 @@ Alternative explanations deserve acknowledgment. Cross-tradition contact may pro
 
 However, the convergence extends beyond categories to include *structural relationships* between states. Independent traditions converge not merely on identifying concentration and insight as distinct but on the relationship between them—that concentration enables insight, that insight destabilises concentration, that both can operate independently. Shared interpretive frameworks can align categories, but converging independently on the same dynamic relationships suggests practitioners are tracking genuine phenomenological features. The evidence remains contested, but the relational specificity strengthens the case for phenomenological tracking over mere conceptual alignment.
 
-Third-person neuroscience corroborates this convergence. States that meditators describe similarly correlate with similar neural signatures—gamma synchrony, default mode network modulation, frontal-parietal coherence. The gamma synchrony finding (Lutz et al., 2004) has been replicated across multiple laboratories and contemplative traditions, strengthening confidence that intersubjective phenomenological reports track genuine states. [Mutual constraint](/concepts/neurophenomenology-and-contemplative-neuroscience/#contemplative-science) between first-person phenomenology and third-person measurement reveals structures that neither perspective alone would discover.
+Third-person neuroscience corroborates this convergence. States that meditators describe similarly correlate with similar neural signatures—gamma synchrony, default mode network modulation, frontal-parietal coherence. The gamma synchrony finding (Lutz et al., 2004) has been replicated across multiple laboratories and contemplative traditions, strengthening confidence that intersubjective phenomenological reports track genuine states. [Mutual constraint](/concepts/neurophenomenology-and-contemplative-neuroscience/) between first-person phenomenology and third-person measurement reveals structures that neither perspective alone would discover.
 
 ## The Discourse Argument
 

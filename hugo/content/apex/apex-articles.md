@@ -1,7 +1,7 @@
 ---
 ai_contribution: 40
 ai_generated_date: null
-ai_modified: 2026-04-27 21:27:00+00:00
+ai_modified: 2026-04-29 11:50:00+00:00
 ai_system: null
 author: Andy Southgate
 concepts: []
@@ -16,6 +16,7 @@ last_deep_review: 2026-04-27 21:27:00+00:00
 modified: *id001
 related_articles:
 - '[[apex]]'
+- '[[coalesce-condense-apex-stability]]'
 title: Apex Articles Index
 topics: []
 ---
@@ -510,3 +511,4 @@ Curation is a deliberate choice. The Map's [tenets](/tenets/) constrain a vast p
 - **Source articles should already exist** — Don't create apex articles for gaps in content
 - **Use `/apex-evolve create`** to generate new articles from this list
 - **Update status** when articles are created
+- **Source-side refactors** of the articles cited by an apex's `apex_sources` graph trigger the [coalesce-condense-apex-stability triple-discipline](/concepts/coalesce-condense-apex-stability/): a coalesce or condense of a source article must be followed by an apex re-cross-review to confirm the apex's narrative still resolves against the merged source's anchors and tenet connections.
