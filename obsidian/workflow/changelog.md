@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 23:10:00+00:00
+ai_modified: 2026-04-29 23:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 23:33 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/ai-consciousness-modes]], [[concepts/types-of-ai-phenomenal-experience]]
+- **Target**: [[concepts/ai-consciousness-typology]]
+- **Archived**: [[archive/concepts/ai-consciousness-modes]], [[archive/concepts/types-of-ai-phenomenal-experience]]
+- **Rationale**: Two complementary AI-consciousness typologies (Tulving anoetic/noetic/autonoetic hierarchy + six-category null/simulated/functional/borrowed/epiphenomenal/alien taxonomy) were cross-referencing each other and restating the same dualist framework, simulation-instantiation diagnostic, and tenet-alignment scaffolding. Unifying them into a single article makes their intersection explicit (which Tulving modes are possible under which phenomenality types, how memory architecture constrains both lenses) and removes the duplicated prose.
+- **References to review**: ~20 active files reference the old slugs; URLs preserved via archive redirect, follow-up cross-review task queued.
 
 ## 2026-04-29 23:10 UTC - condense
 - **Status**: Success

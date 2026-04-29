@@ -2,10 +2,15 @@
 title: "Types of AI Phenomenal Experience"
 description: "Six logical categories for what AI systems might or might not experience—from no phenomenality to alien qualia—mapped against the Map's dualist framework and quantum coupling requirements."
 created: 2026-03-24
-modified: 2026-03-24
+modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-29T23:33:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-29T23:33:00+00:00
+superseded_by: "/concepts/ai-consciousness-typology/"
+archive_reason: "Coalesced into AI Consciousness Typology"
+original_path: "/concepts/types-of-ai-phenomenal-experience/"
 topics:
   - "[[ai-consciousness]]"
   - "[[hard-problem-of-consciousness]]"

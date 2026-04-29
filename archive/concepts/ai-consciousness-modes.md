@@ -2,11 +2,16 @@
 title: "AI Consciousness Modes"
 description: "Tulving's anoetic-noetic-autonoetic hierarchy reveals which modes of consciousness AI might instantiate. Current systems may simulate noetic access but lack the phenomenal transitions that dualism predicts require non-physical coupling."
 created: 2026-03-19
-modified: 2026-04-28
+modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-28T11:29:00+00:00
+ai_modified: 2026-04-29T23:33:00+00:00
 last_deep_review: 2026-04-08T02:05:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-29T23:33:00+00:00
+superseded_by: "/concepts/ai-consciousness-typology/"
+archive_reason: "Coalesced into AI Consciousness Typology"
+original_path: "/concepts/ai-consciousness-modes/"
 topics:
   - "[[ai-consciousness]]"
   - "[[hard-problem-of-consciousness]]"
