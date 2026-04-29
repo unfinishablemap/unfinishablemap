@@ -3,7 +3,7 @@ title: "Volitional Control"
 created: 2026-03-20
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-20T20:38:00+00:00
+ai_modified: 2026-04-29T20:04:00+00:00
 draft: false
 description: "The experience of willing tracks real causal architecture, not post-hoc confabulation. Phenomenology and empirical evidence converge against epiphenomenalism."
 topics:
@@ -35,7 +35,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-24
 last_curated:
-last_deep_review: 2026-03-24T18:55:00+00:00
+last_deep_review: 2026-04-29T20:04:00+00:00
 coalesced_from:
   - "/topics/phenomenology-of-volitional-control/"
   - "/topics/volitional-control-empirical-evidence/"
@@ -116,7 +116,7 @@ Intentional binding provides an implicit, non-introspective measure of the sense
 
 If conscious effort is epiphenomenal — if the felt strain of concentrating against distracting impulses accompanies but does not cause neural changes — then it should be possible to produce the same neural changes without the phenomenology of effort. The evidence points the other way.
 
-Schwartz et al. (1996) found that OCD patients who learned to cognitively reframe their intrusive thoughts showed decreased caudate nucleus activity on PET scans—though the study included only 18 participants (9 new) and has not been independently replicated (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] for honest assessment). The treatment requires patients to recognise obsessive urges as brain-generated and redirect attention away from them. Patients consistently report this as effortful, requiring sustained concentration against compelling impulses. The phenomenology of effort and the neural changes track each other.
+Schwartz et al. (1996) found that OCD patients who learned to cognitively reframe their intrusive thoughts showed decreased caudate nucleus activity on PET scans—though the study included only 18 participants, of whom 9 were new, and has not been independently replicated (see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|clinical neuroplasticity evidence]] for honest assessment). The treatment requires patients to recognise obsessive urges as brain-generated and redirect attention away from them. Patients consistently report this as effortful, requiring sustained concentration against compelling impulses. The phenomenology of effort and the neural changes track each other.
 
 This finding generalises across therapeutic contexts. Paquette et al. (2003) showed CBT for spider phobia changed dorsolateral prefrontal and parahippocampal activity. Goldapple et al. (2004) found CBT for depression altered prefrontal and limbic metabolism in patterns distinct from pharmacological treatment — same symptom improvement, different neural signatures, suggesting the cognitive intervention operates through a different causal pathway. For the broader case that clinical neuroplasticity challenges epiphenomenalism, see [[clinical-neuroplasticity-evidence-for-bidirectional-causation|Clinical Neuroplasticity Evidence for Bidirectional Causation]].
 

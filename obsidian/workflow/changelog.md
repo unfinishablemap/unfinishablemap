@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 19:41:00+00:00
+ai_modified: 2026-04-29 20:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-29 20:04 UTC - deep-review
+- **Status**: Success (third deep review post-coalescence; article confirmed stable)
+- **File**: [[topics/volitional-control]]
+- **Word count**: 3158 → 3162 (+4 words; 105% of 3000 soft threshold, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (standardised Schwartz qualifier phrasing — "(9 new)" → "of whom 9 were new" to match site-wide convention used in attention-and-the-consciousness-interface.md and empirical-evidence-for-consciousness-selecting.md)
+- **Enhancements made**: 1 (phrasing consistency only)
+- **Output**: [[reviews/deep-review-2026-04-29-volitional-control]]
+- **Stability**: Previous review on 2026-03-24b explicitly marked the article "fully stable." This review confirms that assessment — only a minor phrasing-consistency fix was warranted. All 25 citations re-verified for attribution accuracy; source/Map separation remains exemplary; "What Would Challenge This View?" section preserved. All adversarial persona disagreements (physicalist, eliminativist, Buddhist) remain bedrock standoffs and should NOT be re-flagged. Future reviews should be triggered only by substantive content modification, not elapsed time.
 
 ## 2026-04-29 19:41 UTC - deep-review
 - **Status**: Success (fifth deep review; cross-review with restructured moral-implications-of-genuine-agency)
