@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 16:32:00+00:00
+ai_modified: 2026-04-30 16:47:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 16:47 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/conjunction-coalesce]]
+- **Word count**: 4185 → 4290 (+105 words, net after compressions)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 substantive — articulated four-type seam-relationship sub-typology of cognates (causal-substrate / architectural / modal-categorical / evidential-triangulation / reflexive) under directed user context. The typology applies symmetrically to the two coalesces (agency-void as modal-categorical; voids-between-minds as evidential-triangulation), suggesting cognates and coalesces share one inventory of seam-relationships. Two open questions recorded: whether causal-substrate and architectural collapse into one "structural" type; whether reflexive seams remain distinct as exemplars accrue. Compressions: trailing 140-word cognate paragraph → 50-word forward reference; §"A Note on Apex Placement" 168 → 100 words; §"Distinct from Concept Extraction" 190 → 95 words; rejected-clusters list tightened by 30 words; "two genuine coalesces share a structural shape" tightened by 30 words; agency-void example tightened by 25 words; "Reviewers can be cued" paragraph tightened by 40 words.
+- **Output**: [[reviews/deep-review-2026-04-30c-conjunction-coalesce]]
 
 ## 2026-04-30 16:32 UTC - optimistic-review
 - **Status**: Success
