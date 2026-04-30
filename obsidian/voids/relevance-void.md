@@ -2,9 +2,9 @@
 title: "The Relevance Void"
 description: "Human+AI exploration of why the cognitive filter that selects what currently matters cannot be inspected without already operating—the self-referential opacity at the root of selective attention."
 created: 2026-04-29
-modified: 2026-04-29
+modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-29T11:34:00+00:00
+ai_modified: 2026-04-30T10:33:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -73,11 +73,11 @@ These traditions — analytic philosophy, phenomenology, cognitive science, comp
 
 ## Why the Void Is Occluded — and Partly Unexplorable
 
-The relevance void is primarily *occluded*, with medium-status opacity analogous to (but distinct from) mattering's. We do not experience relevance *as* a filter; we experience a world in which some things bear on the situation and others do not, as if bearing-on-the-situation were a property of the things themselves. The filter is invisible because it is the medium through which any seeing happens. The relevance void joins the mattering, noetic-feelings, and conceptual-scheme voids in the cluster of [[medium-status-voids-in-cognition|medium-status voids in cognition]] — operations that structure other contents while remaining invisible from inside.
+The relevance void is primarily *occluded*, with medium-status opacity analogous to (but distinct from) mattering's. We do not experience relevance *as* a filter; we experience a world in which some things bear on the situation and others do not, as if bearing-on-the-situation were a property of the things themselves. The filter is invisible because it is the medium through which any seeing happens. The relevance void joins the mattering, noetic-feelings, and conceptual-scheme voids in the cluster of [[medium-status-voids-in-cognition|medium-status voids in cognition]] — operations that structure other contents while remaining invisible from inside. The apex treats the four-fold cluster as provisional: attention has a strong medium-status profile but is largely downstream of relevance and so figured as medium-adjacent rather than canonical, and the cluster is not closed against further members.
 
 The void also has a *structurally unexplorable* dimension built from three converging arguments. *Self-reference*: any investigation of relevance must itself select what is relevant to the investigation, generating a regress in which each meta-level introduces its own equally opaque filter. *Constitutivity*: if relevance is constitutive of cognition, separating the filter from cognition for inspection is impossible in principle — every reflective surface is itself produced by the relevance mechanism. *Frame-problem shadow*: artificial systems have not solved general relevance determination after fifty years of attempts; the Map weights this toward the structural reading without taking it as proof.
 
-These arguments do not jointly establish that relevance is forever unmappable. They establish that the void admits *some* mapping — its outputs, its breakdown signatures, its neural correlates — while resisting transparent inspection of its operation.
+These arguments do not jointly establish that relevance is forever unmappable. They establish that the void admits *some* mapping — its outputs, its breakdown signatures, its neural correlates — while resisting transparent inspection of its operation. The relevance face is the most directly tested by the apex's [[medium-status-voids-in-cognition#what-would-falsify-this-cluster|falsification candidates]]: a controlled bypass of the relevance filter — attentional, psychedelic, or computational — that left the rest of cognition operating would push this void toward capacity-status rather than medium-status. Lesion or pharmacological dissociation cleanly separating relevance from significance, gating, and framing would weaken the cluster-level convergence claim without by itself dissolving the relevance face.
 
 ## Approaches to the Edge
 

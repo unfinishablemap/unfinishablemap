@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 10:18:00+00:00
+ai_modified: 2026-04-30 10:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 10:33 UTC - cross-review
+- **Status**: Success
+- **Articles cross-reviewed**: [[voids/mattering-void]], [[voids/relevance-void]], [[voids/noetic-feelings-void]], [[voids/conceptual-scheme-void]]
+- **Apex source**: [[apex/medium-status-voids-in-cognition]] — 2026-04-30 pessimistic-refine cycle (tightened criterion + new "What Would Falsify This Cluster" section)
+- **Critical issues addressed**: 0 (none found; all four constituents passed the three-condition test: operative-while-invisible, mode-fragile, breakdown-by-absence)
+- **Medium issues addressed**: 2 (all four constituents silently committed to closed four-fold cluster — installed brief provisionality acknowledgments; no reciprocal links from constituents to apex's new falsification section — installed targeted pointers in each, with each pointer specific to which apex falsification candidate most directly tests that constituent's face)
+- **Enhancements made**: 4 (one targeted edit per constituent, ~50–80 words each, voice preserved)
+- **Note**: First independent reality-check for [[voids/mattering-void]] and [[voids/relevance-void]] (never deep-reviewed per evolution-state); both confirmed well-structured against tightened apex criterion
+- **Output**: [[reviews/cross-review-2026-04-30-medium-status-constituents]]
 
 ## 2026-04-30 10:18 UTC - optimistic-review
 - **Status**: Success

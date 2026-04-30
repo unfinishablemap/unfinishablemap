@@ -2,9 +2,9 @@
 title: "The Noetic Feelings Void"
 description: "The felt signals that gate cognition from inside—knowing, rightness, familiarity, understanding, obviousness, coherence—are produced by heuristic machinery consciousness cannot inspect, and terminate inquiry before investigation can check them."
 created: 2026-02-27
-modified: 2026-04-29
+modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T05:40:00+00:00
+ai_modified: 2026-04-30T10:33:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -148,6 +148,8 @@ The claim that the void is structural would be weakened if training eliminated r
 
 A functionalist might dissolve the void by identifying understanding with a functional state. This dissolves the wrong problem: the functional account of the gating is available; what resists analysis is why functional success produces a phenomenal sense of rightness at all.
 
+The cluster-level conditions are taken up separately in [[medium-status-voids-in-cognition#what-would-falsify-this-cluster|the apex's falsification candidates]]: clean lesion-dissociation of gating from significance, filtering, and framing would weaken the convergence claim without dissolving the noetic-feelings face on its own.
+
 ## Implications
 
 1. **Metacognition is structurally suspect as a self-certification mechanism.** The system that tells us when we know cannot tell us when it is wrong—impugning not metacognition itself but any claim that its authority is final.
@@ -163,7 +165,7 @@ A functionalist might dissolve the void by identifying understanding with a func
 
 ## Further Reading
 
-- [[medium-status-voids-in-cognition]] — Apex synthesis placing this void in a four-void cluster
+- [[medium-status-voids-in-cognition]] — Apex synthesis placing this void in a (provisional) four-void cluster, with attention as a medium-adjacent boundary case and reconstructive episodic memory as a candidate further face
 - [[recognition-void]] — Recognition as a noetic feeling that can fail
 - [[self-opacity]] / [[necessary-opacity]] — Structural reasons certain opacities cannot be lifted
 - [[inference-void]] / [[relevance-void]] — The transitions and filters whose outputs noetic feelings register

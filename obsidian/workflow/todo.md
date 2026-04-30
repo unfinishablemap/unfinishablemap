@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review four medium-status constituent voids against tightened criterion
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-04-30 pessimistic-2026-04-30b refine of `apex/medium-status-voids-in-cognition.md` (commit 17fdb9949), which tightened the medium-status criterion to handle attention as a *medium-adjacent boundary case* (with "four" framed as provisional) and reconstructive episodic memory as a *candidate medium-status face* distinguished from memory's output. The four constituent voids cited by the apex — `voids/mattering-void.md`, `voids/relevance-void.md`, `voids/noetic-feelings-void.md`, `voids/conceptual-scheme-void.md` — predate the criterion's tightening and may now read as overcommitted to the strict three-condition framing. Cross-review should (a) audit each constituent's framing of the medium-status condition against the apex's now-tightened version; (b) verify each constituent acknowledges the apex's "four-as-provisional" stance rather than treating the four-fold cluster as definitive; (c) install reciprocal links to the apex's new "What Would Falsify This Cluster" section where each constituent's own falsification conditions can leverage the apex's framework; (d) note that `voids/mattering-void.md` and `voids/relevance-void.md` have NEVER been deep-reviewed (per evolution-state staleness audit) — this cross-review serves as their first independent reality-check; the cross-review should flag substantive issues for follow-up deep-review tasks rather than attempting full rewrites; (e) preserve each constituent's voice and don't import the apex's hedging mechanically. Short-medium scope (~250–500 words distributed across the four files; not all need updates if alignment is already adequate). Tenet alignment: methodological — closes the forward-only-cross-link defect on apex→constituent direction after the apex restructure.
-- **Source**: chain (from apex/medium-status-voids-in-cognition.md pessimistic-refine)
-- **Generated**: 2026-04-30
-
 ### P2: Optimistic-review apex/medium-status-voids-in-cognition.md (post-refine cycle counterpart)
 - **Type**: optimistic-review
 - **Status**: pending
@@ -3196,6 +3189,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Cross-review four medium-status constituent voids against tightened criterion
+- **Type**: cross-review
+- **Notes**: Chain from the 2026-04-30 pessimistic-2026-04-30b refine of `apex/medium-status-voids-in-cognition.md` (commit 17fdb9949), which tightened the medium-status criterion to handle attention as a *medium-adjacent boundary case* (with "four" framed as provisional) and reconstructive episodic memory as a *candidate medium-status face* distinguished from memory's output. The four constituent voids cited by the apex — `voids/mattering-void.md`, `voids/relevance-void.md`, `voids/noetic-feelings-void.md`, `voids/conceptual-scheme-void.md` — predate the criterion's tightening and may now read as overcommitted to the strict three-condition framing. Cross-review should (a) audit each constituent's framing of the medium-status condition against the apex's now-tightened version; (b) verify each constituent acknowledges the apex's "four-as-provisional" stance rather than treating the four-fold cluster as definitive; (c) install reciprocal links to the apex's new "What Would Falsify This Cluster" section where each constituent's own falsification conditions can leverage the apex's framework; (d) note that `voids/mattering-void.md` and `voids/relevance-void.md` have NEVER been deep-reviewed (per evolution-state staleness audit) — this cross-review serves as their first independent reality-check; the cross-review should flag substantive issues for follow-up deep-review tasks rather than attempting full rewrites; (e) preserve each constituent's voice and don't import the apex's hedging mechanically. Short-medium scope (~250–500 words distributed across the four files; not all need updates if alignment is already adequate). Tenet alignment: methodological — closes the forward-only-cross-link defect on apex→constituent direction after the apex restructure.
+- **Output**: None -- Context: Cross-review four medium-status constituent voids against tightened criterion
 
 ### ✓ 2026-04-30: Deep-review apex/medium-status-voids-in-cognition.md (post-pessimistic-refine verification)
 - **Type**: deep-review
