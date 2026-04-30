@@ -161,7 +161,7 @@ Tegmark's Mathematical Universe Hypothesis (2007) offers the most radical respon
 
 ## When Understanding Fails
 
-The [mathematical-void](/voids/mathematical-void/) documents what happens when understanding breaks down—when we manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent. This negative phenomenology is equally revealing.
+The [mathematical-void](/voids/the-quantitative-comprehension-void/) documents what happens when understanding breaks down—when we manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent. This negative phenomenology is equally revealing.
 
 The experience of failing to understand has positive phenomenal character: hitting a wall, symbols remaining opaque despite correct manipulation. Kant described mathematical sublimity as arising when imagination fails to comprehend what reason can grasp. You *know* the transfinite hierarchy is well-defined; you cannot *see* it as you see that 2+2=4. This felt boundary—transparent understanding versus opaque formal correctness—marks a distinction computation alone cannot explain, since from a computational standpoint both processes terminate in the same outputs.
 
@@ -196,7 +196,7 @@ The claim that mathematical knowledge requires irreducible consciousness would f
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — Concise overview of how each philosophy of mathematics implies a philosophy of consciousness
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — Penrose's argument, the Poincaré phenomenon, and the computational challenge
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
-- [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Cognitive limits on mathematical comprehension
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Gödel's incompleteness and quantum measurement as instances of the same self-referential obstruction
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought supports dualism
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Broader epistemic benefits of the dualist framework

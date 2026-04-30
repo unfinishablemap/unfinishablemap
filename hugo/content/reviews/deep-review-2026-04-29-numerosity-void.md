@@ -17,10 +17,10 @@ topics: []
 ---
 
 **Date**: 2026-04-29
-**Article**: [The Numerosity Void](/voids/numerosity-void/)
+**Article**: [The Numerosity Void](/voids/the-quantitative-comprehension-void/)
 **Previous review**: Never (article created 2026-04-29)
 **Word count**: 1990 → 1897 (-93; 95% of soft 2000)
-**Trigger**: Reciprocal cross-review of [numerosity-void](/voids/numerosity-void/) ↔ [quantitative-intuition-void](/voids/quantitative-intuition-void/). Sister article was deep-reviewed earlier today (2026-04-29T15:56) and added the bridging paragraph + cross-link in that direction; this pass brings the new void article up to the same standard.
+**Trigger**: Reciprocal cross-review of [numerosity-void](/voids/the-quantitative-comprehension-void/) ↔ [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/). Sister article was deep-reviewed earlier today (2026-04-29T15:56) and added the bridging paragraph + cross-link in that direction; this pass brings the new void article up to the same standard.
 
 ## Pessimistic Analysis Summary
 
@@ -79,7 +79,7 @@ None.
 
 ### Cross-links Added
 
-None new — the article was already comprehensively cross-linked at creation. `[quantitative-intuition-void](/voids/quantitative-intuition-void/)` appears in `related_articles`, in the closing of "Relation to Site Perspective," and in Further Reading. `[non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)`, `[noetic-feelings-void](/voids/noetic-feelings-void/)`, `[self-opacity](/voids/self-opacity/)`, `[apophatic-cartography](/voids/apophatic-cartography/)`, `[three-kinds-of-void](/voids/three-kinds-of-void/)`, `[resolution-void](/voids/resolution-void/)`, `[tacit-integration-void](/voids/tacit-integration-void/)`, and the tenets all already linked.
+None new — the article was already comprehensively cross-linked at creation. `[quantitative-intuition-void](/voids/the-quantitative-comprehension-void/)` appears in `related_articles`, in the closing of "Relation to Site Perspective," and in Further Reading. `[non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/)`, `[noetic-feelings-void](/voids/noetic-feelings-void/)`, `[self-opacity](/voids/self-opacity/)`, `[apophatic-cartography](/voids/apophatic-cartography/)`, `[three-kinds-of-void](/voids/three-kinds-of-void/)`, `[resolution-void](/voids/resolution-void/)`, `[tacit-integration-void](/voids/tacit-integration-void/)`, and the tenets all already linked.
 
 ## Remaining Items
 
@@ -87,7 +87,7 @@ None deferred.
 
 ## Stability Notes
 
-This is the article's first deep review and the second leg of the reciprocal cross-review with [quantitative-intuition-void](/voids/quantitative-intuition-void/). The cross-link symmetry is now complete in both directions:
+This is the article's first deep review and the second leg of the reciprocal cross-review with [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/). The cross-link symmetry is now complete in both directions:
 
 - `quantitative-intuition-void` → `numerosity-void`: "The same architecture extends to cardinality itself. The numerosity void marks the architectural floor: a four-item ceiling beyond which direct cardinal perception ends and reconstructive cognition (counting, estimation) takes over."
 - `numerosity-void` → `quantitative-intuition-void`: "The numerosity void shares the deep structure of the quantitative-intuition-void: in both, *symbolic* manipulation of number is unbounded while *phenomenal* grasp is sharply limited. The numerosity void marks the smallest end of the same structural pattern."

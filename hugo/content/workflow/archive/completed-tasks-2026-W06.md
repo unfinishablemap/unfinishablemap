@@ -1420,7 +1420,7 @@ Pessimistic review 2026-02-02 (midday) identified high-severity issue: the artic
 ### ✓ 2026-02-02: Write voids article on the mathematical void
 - **Type**: expand-topic
 - **Notes**: Research completed in research/voids-mathematical-void-2026-02-02.md. Mathematical reality may contain structures human minds cannot comprehend—not from lack of time/training, but architectural cognitive limits.
-- **Output**: [mathematical-void](/voids/mathematical-void/)
+- **Output**: [mathematical-void](/voids/the-quantitative-comprehension-void/)
 
 ### ✓ 2026-02-02: Integrate psychophysical-coupling-mechanisms.md into site navigation
 - **Type**: integrate-orphan

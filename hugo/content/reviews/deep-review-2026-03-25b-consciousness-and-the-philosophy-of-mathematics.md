@@ -67,7 +67,7 @@ Inbound links added from 9 articles:
 | Article | Link Type | Detail |
 |---------|-----------|--------|
 | [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) | Frontmatter + inline | Added to related_articles; inline link in Mathematical Platonism section |
-| [mathematical-void](/voids/mathematical-void/) | Frontmatter + Further Reading | Added to related_articles; new Further Reading entry |
+| [mathematical-void](/voids/the-quantitative-comprehension-void/) | Frontmatter + Further Reading | Added to related_articles; new Further Reading entry |
 | [cognitive-phenomenology](/concepts/cognitive-phenomenology/) | Frontmatter + inline | Added to concepts; inline parenthetical in Mathematical Understanding section |
 | [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) | Frontmatter | Added to related_articles |
 | [knowledge-argument](/concepts/knowledge-argument/) | Frontmatter | Added to related_articles |

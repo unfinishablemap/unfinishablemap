@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-02-04
-**Article**: [The Mathematical Void](/voids/mathematical-void/)
+**Article**: [The Mathematical Void](/voids/the-quantitative-comprehension-void/)
 **Previous review**: [2026-02-03](/reviews/deep-review-2026-02-03-mathematical-void/)
 
 ## Review Context

@@ -100,7 +100,7 @@ Three features of this phenomenon resist computational explanation:
 
 ## The Phenomenology of Mathematical Insight
 
-Beyond formal arguments, the experience of mathematical cognition provides evidence for [cognitive-phenomenology](/concepts/cognitive-phenomenology/)—the view that thinking itself has phenomenal character distinct from sensory accompaniments. This phenomenology has a negative counterpart: the [mathematical-void](/voids/mathematical-void/) documents what happens when understanding *fails*—when we can manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent.
+Beyond formal arguments, the experience of mathematical cognition provides evidence for [cognitive-phenomenology](/concepts/cognitive-phenomenology/)—the view that thinking itself has phenomenal character distinct from sensory accompaniments. This phenomenology has a negative counterpart: the [mathematical-void](/voids/the-quantitative-comprehension-void/) documents what happens when understanding *fails*—when we can manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent.
 
 ### Understanding vs. Verification
 
@@ -229,7 +229,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [mysterianism](/concepts/mysterianism/) — On whether consciousness may exceed human understanding
 - [working-memory](/concepts/working-memory/) — Computational limits that consciousness may transcend
 - [creativity-void](/voids/imagination-and-creativity-void/) — The phenomenologically hidden source of creative insight
-- [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Cognitive limits on mathematical comprehension
 - [incompleteness-void](/voids/formal-cognitive-limits/) — The boundary Gödel's theorems reveal
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Empirical evidence for unconscious creative processing
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why aesthetic experience matters philosophically

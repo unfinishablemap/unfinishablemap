@@ -50,7 +50,7 @@ The information-theoretic dimension of the resolution void is starkly quantifiab
 
 Consciousness discards 99.9999% of available information. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [neural bandwidth constraints](/topics/bandwidth-of-consciousness/) characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns through [attentional mechanisms](/concepts/attention-as-interface/) while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
 
-Cognitive control capacity is even lower than the ten-bit figure suggests. When measured through tasks requiring deliberate selection among options, throughput drops to approximately three to four bits per second. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access. The three-to-four-bit figure converges with the [numerosity void's](/voids/numerosity-void/) architectural ceiling at roughly four items in cardinal perception — the same magnitude reappearing where conscious operation hits a structural wall, suggesting the four-item cap is one face of a wider architectural feature rather than a quirk of number perception.
+Cognitive control capacity is even lower than the ten-bit figure suggests. When measured through tasks requiring deliberate selection among options, throughput drops to approximately three to four bits per second. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access. The three-to-four-bit figure converges with the [numerosity void's](/voids/the-quantitative-comprehension-void/) architectural ceiling at roughly four items in cardinal perception — the same magnitude reappearing where conscious operation hits a structural wall, suggesting the four-item cap is one face of a wider architectural feature rather than a quirk of number perception.
 
 ## Temporal Frames
 
@@ -68,7 +68,7 @@ Below the JND, distinctions vanish from consciousness entirely. There is no expe
 
 ## Phenomenology at the Edge
 
-The resolution void has a distinctive phenomenology — or rather, a distinctive absence of one. Below the resolution threshold, experience does not occur. There is no "edge" feeling, no vertigo of approaching a limit. This distinguishes the resolution void from limits like the [magnitude face of the quantitative intuition void](/voids/quantitative-intuition-void/#the-magnitude-face), where contemplating vast magnitudes produces characteristic cognitive strain.
+The resolution void has a distinctive phenomenology — or rather, a distinctive absence of one. Below the resolution threshold, experience does not occur. There is no "edge" feeling, no vertigo of approaching a limit. This distinguishes the resolution void from limits like the [magnitude face of the quantitative intuition void](/voids/the-quantitative-comprehension-void/#the-magnitude-face), where contemplating vast magnitudes produces characteristic cognitive strain.
 
 Indirect markers reveal the void's presence. Peripheral vision presents a smooth visual field despite drastically lower resolution than foveal vision — consciousness fills in what it cannot discriminate, producing an illusion of completeness that the [blur paradox](/topics/perceptual-failure-and-the-interface/) exposes when perception degrades. The tip-of-the-tongue phenomenon reveals sub-resolution information pressing against the threshold without crossing it. The specious present — the subjective sense that "now" has duration of roughly two to three seconds — reveals temporal resolution disguising itself as continuity.
 
@@ -91,7 +91,7 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 ## Further Reading
 
 - [voids](/voids/) — The framework of cognitive limits and unchartable territories
-- [quantitative-intuition-void](/voids/quantitative-intuition-void/) — Parallel resolution limits at the other end: the magnitude face treats the vast-end failure where the resolution void treats the fine-end failure; the probability face extends the pattern to randomness
+- [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) — Parallel resolution limits at the other end: the magnitude face treats the vast-end failure where the resolution void treats the fine-end failure; the probability face extends the pattern to randomness
 - [temporal-void](/voids/temporal-void/) — The temporal dimension of conscious confinement
 - [smoothness-and-continuity](/voids/smoothness-and-continuity/) — Whether experience is continuous or discrete at the finest grain
 - [grain-mismatch](/concepts/grain-mismatch/) — The structural incompatibility between smooth phenomenal properties and discrete neural substrates
@@ -101,7 +101,7 @@ The resolution void connects to the Map's [tenets](/tenets/) across multiple dim
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — Empirical measurements of the consciousness bottleneck
 - [consciousness-bandwidth-architecture](/concepts/consciousness-bandwidth-architecture/) — How coarse-grained intention produces fine-grained physical effects
 - [attention-as-interface](/concepts/attention-as-interface/) — How attention operates at the resolution boundary
-- [numerosity-void](/voids/numerosity-void/) — The architectural-ceiling face at ~4 items: the same magnitude in cardinal perception that the bandwidth bottleneck registers in deliberate selection
+- [numerosity-void](/voids/the-quantitative-comprehension-void/) — The architectural-ceiling face at ~4 items: the same magnitude in cardinal perception that the bandwidth bottleneck registers in deliberate selection
 
 ## References
 

@@ -133,7 +133,7 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal systems reach principled limits at consciousness
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as boundary disclosure
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödelian limits as cognitive boundaries
-- [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Where formal manipulation succeeds but understanding fails
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The interface between consciousness and quantum measurement
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why collapse interpretations matter for consciousness
 

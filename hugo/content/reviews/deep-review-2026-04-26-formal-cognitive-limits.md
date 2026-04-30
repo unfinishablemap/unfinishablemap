@@ -84,7 +84,7 @@ All seven strengths from the 2026-04-17 review remain intact:
 
 Length-neutral mode applied. Trims to compensate for the Carroll paragraph (~95 words):
 - Removed redundant final sentence of intro ("Only under the computational hypothesis do Gödel and Turing bound what consciousness can know") — 17 words. The preceding sentence already establishes this.
-- Removed Dehaene/Pirahã example from Cognitive Architecture and Mathematical Access (~50 words). The empirical content is preserved in [mathematical-void](/voids/mathematical-void/) which the section already links to; cutting here removes overlap rather than original content.
+- Removed Dehaene/Pirahã example from Cognitive Architecture and Mathematical Access (~50 words). The empirical content is preserved in [mathematical-void](/voids/the-quantitative-comprehension-void/) which the section already links to; cutting here removes overlap rather than original content.
 
 The article remains well below the hard threshold (3000 for voids/) at 71% of hard. Soft_warning status carries from the prior review and is acceptable for a void article integrating substantial cross-reference material.
 

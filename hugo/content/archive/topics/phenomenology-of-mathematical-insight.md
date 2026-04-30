@@ -96,7 +96,7 @@ AI mathematical discovery sharpens the challenge further. Systems like DeepMind'
 
 ## The Negative Phenomenology: When Understanding Fails
 
-The [mathematical-void](/voids/mathematical-void/) documents what happens when mathematical understanding breaks down—when we can manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent. This *negative* phenomenology is equally revealing.
+The [mathematical-void](/voids/the-quantitative-comprehension-void/) documents what happens when mathematical understanding breaks down—when we can manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent. This *negative* phenomenology is equally revealing.
 
 The experience of failing to understand a proof is not mere absence. It has a positive phenomenal character: the sense of hitting a wall, of symbols that remain opaque despite correct manipulation, of a necessity that *should* be visible but isn't. This is an instance of what the Map calls [phenomenological-evidence](/concepts/phenomenological-evidence/)—introspective data that carries evidential weight precisely because its structure is so specific. Mathematicians distinguish sharply between "I can follow the steps but don't see why it works" and "I understand why it must be true." The phenomenal gap between these states—both involving correct processing of the same formal content—is evidence that mathematical understanding involves something beyond formal manipulation.
 
@@ -127,7 +127,7 @@ Several features of mathematical phenomenology converge on the same conclusion: 
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — Penrose's argument and the computational challenge
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — The general phenomenology of creative insight across domains
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The case for phenomenal character in thinking
-- [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Cognitive limits on mathematical comprehension
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty in mathematics matters philosophically
 - [aesthetic-irreducibility-arguments](/topics/aesthetics-and-consciousness/) — Mathematical beauty as the strongest case of substrate-independent aesthetic experience
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/) — The felt difference between verification and comprehension

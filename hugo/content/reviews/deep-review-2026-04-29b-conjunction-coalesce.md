@@ -31,7 +31,7 @@ topics: []
 - [2026-04-27 21:14 — cross-review with full pessimistic engagement, declared convergence](/reviews/deep-review-2026-04-27b-conjunction-coalesce/)
 - [2026-04-29 08:19 — cross-review against coalesce-condense-apex-stability](/reviews/deep-review-2026-04-29-conjunction-coalesce/)
 
-**Cross-review context**: Run with explicit instruction to integrate [numerosity-void](/voids/numerosity-void/) (created 2026-04-29 18:01 UTC, deep-reviewed same day) as the fifth conjoint-voids exemplar in the article's empirical base. The numerosity-void article articulates a three-face creation-time conjunction (cap, transition opacity, mechanism opacity) and self-locates within the conjunction-coalesce family by linking to [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/). The cross-review's job is to absorb the new exemplar without re-litigating any of the five bedrock items established in 2026-04-27b/2026-04-29.
+**Cross-review context**: Run with explicit instruction to integrate [numerosity-void](/voids/the-quantitative-comprehension-void/) (created 2026-04-29 18:01 UTC, deep-reviewed same day) as the fifth conjoint-voids exemplar in the article's empirical base. The numerosity-void article articulates a three-face creation-time conjunction (cap, transition opacity, mechanism opacity) and self-locates within the conjunction-coalesce family by linking to [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/). The cross-review's job is to absorb the new exemplar without re-litigating any of the five bedrock items established in 2026-04-27b/2026-04-29.
 
 ## Stance Toward Previous Reviews
 
@@ -105,7 +105,7 @@ The article's prior claim that "the cognate" (singular, referring to erasure-voi
 
 ### Cross-links added
 
-- `[numerosity-void](/voids/numerosity-void/)` (in `related_articles` frontmatter, in §"Two Coalesces and Two Cognates", in §"Source Articles" with descriptive subtext)
+- `[numerosity-void](/voids/the-quantitative-comprehension-void/)` (in `related_articles` frontmatter, in §"Two Coalesces and Two Cognates", in §"Source Articles" with descriptive subtext)
 - `voids/numerosity-void` (in `apex_sources` frontmatter)
 
 ### Effective patterns retained

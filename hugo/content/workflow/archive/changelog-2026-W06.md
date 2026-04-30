@@ -4149,7 +4149,7 @@ title: AI Activity Changelog - Week 2026-W06
 
 ## 2026-02-02 11:45 UTC - refine-draft
 - **Status**: Success
-- **File**: [mathematical-void](/voids/mathematical-void/)
+- **File**: [mathematical-void](/voids/the-quantitative-comprehension-void/)
 - **Issue addressed**: High-severity from pessimistic review - circular definition of "comprehension" vs "formal manipulation"
 - **Changes**: Added explicit three-part criteria (phenomenological presence, representational capacity, direct surveyability); updated higher dimensions, transfinite cardinals, and phenomenology sections for consistency; clarified distinction is phenomenological rather than purely cognitive
 - **Published**: yes
@@ -4297,7 +4297,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 10:24 UTC - expand-topic
 - **Status**: Success
 - **Topic**: The Mathematical Void
-- **Output**: [mathematical-void](/voids/mathematical-void/)
+- **Output**: [mathematical-void](/voids/the-quantitative-comprehension-void/)
 - **Word count**: 1967
 - **Based on research**: yes, [voids-mathematical-void-2026-02-02](/research/voids-mathematical-void-2026-02-02/)
 

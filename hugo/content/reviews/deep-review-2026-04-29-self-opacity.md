@@ -21,7 +21,7 @@ topics: []
 **Date**: 2026-04-29
 **Article**: [Self-Opacity](/voids/self-opacity/)
 **Previous review**: [2026-04-21](/reviews/deep-review-2026-04-21-self-opacity/)
-**Context**: Deferred reciprocity sweep prompted by the new [numerosity-void](/voids/numerosity-void/) (created 2026-04-29). Numerosity-void already cites self-opacity in "The Mechanism Face" as part of the broader pattern of routine inaccessibility of cognitive operations; the reciprocal link from self-opacity was missing.
+**Context**: Deferred reciprocity sweep prompted by the new [numerosity-void](/voids/the-quantitative-comprehension-void/) (created 2026-04-29). Numerosity-void already cites self-opacity in "The Mechanism Face" as part of the broader pattern of routine inaccessibility of cognitive operations; the reciprocal link from self-opacity was missing.
 
 ## Pessimistic Analysis Summary
 
@@ -51,16 +51,16 @@ No new counterarguments. All bedrock disagreements (eliminativism, physicalism, 
 - "Constitutive as Kind, Not as Degree"
 
 ### Enhancements Made
-- Added clause to "Introspective Opacity" Process bullet linking [numerosity-void](/voids/numerosity-void/) as a sharper perceptual instance.
-- Added [numerosity-void](/voids/numerosity-void/) to related_articles.
-- Added [numerosity-void](/voids/numerosity-void/) entry to Further Reading, adjacent to recognition-void and erasure-void since all three sit on the process-opacity axis.
+- Added clause to "Introspective Opacity" Process bullet linking [numerosity-void](/voids/the-quantitative-comprehension-void/) as a sharper perceptual instance.
+- Added [numerosity-void](/voids/the-quantitative-comprehension-void/) to related_articles.
+- Added [numerosity-void](/voids/the-quantitative-comprehension-void/) entry to Further Reading, adjacent to recognition-void and erasure-void since all three sit on the process-opacity axis.
 
 ### Length-Neutral Offset
 - Tightened the new clause from 34 to ~26 words.
 - Trimmed "Clinical and contemplative evidence to date supplies only the latter" → "Evidence to date supplies only the latter" (–4 words) in "Constitutive as Kind, Not as Degree" section.
 
 ### Cross-links Added
-- [numerosity-void](/voids/numerosity-void/) (related_articles, Further Reading, body text in "Introspective Opacity" Process bullet)
+- [numerosity-void](/voids/the-quantitative-comprehension-void/) (related_articles, Further Reading, body text in "Introspective Opacity" Process bullet)
 
 ## Word Count
 - Before: 2500 words (125% of 2000 soft threshold)

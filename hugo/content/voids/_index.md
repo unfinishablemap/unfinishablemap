@@ -81,7 +81,7 @@ A maintenance note on this index. Four of the entries below—[the agency void](
 
 ### Specific Voids
 
-- [The Quantitative Intuition Void](/voids/quantitative-intuition-void/) — Why intuition fails systematically when consciousness encounters magnitudes and probabilities outside ancestral calibration (coalesced from scale-void + probability-intuition-void 2026-04-24)
+- [The Quantitative Intuition Void](/voids/the-quantitative-comprehension-void/) — Why intuition fails systematically when consciousness encounters magnitudes and probabilities outside ancestral calibration (coalesced from scale-void + probability-intuition-void 2026-04-24)
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [The Interface Formalization Void](/voids/interface-formalization-void/) — Why the consciousness-physics interface resists mathematical formalization
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter and consciousness are in themselves, when every answer yields only structure or negation
@@ -156,7 +156,7 @@ A maintenance note on this index. Four of the entries below—[the agency void](
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
 - [The Conceptual Scheme Void](/voids/conceptual-scheme-void/) — How the totality of one's conceptual apparatus, and the categorial shapes within it, excludes what it cannot represent—at both the framework level and the level of specific category-shapes
 - [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Proved limits on computation (Gödel, Turing, Chaitin) and their bearing on consciousness
-- [The Mathematical Void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails
+- [The Mathematical Void](/voids/the-quantitative-comprehension-void/) — Where formal manipulation succeeds but understanding fails
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [The Nomic Void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics themselves
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said

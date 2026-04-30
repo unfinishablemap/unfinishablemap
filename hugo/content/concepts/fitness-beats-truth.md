@@ -96,7 +96,7 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why experience conceals its own representational character
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — What degraded perception reveals about the interface's architecture
-- [quantitative-intuition-void](/voids/quantitative-intuition-void/) — How fitness-tuned cognition distorts both magnitude and probability reasoning: the probability face treats the randomness failures directly relevant to FBT's implications for Bayesian inference
+- [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) — How fitness-tuned cognition distorts both magnitude and probability reasoning: the probability face treats the randomness failures directly relevant to FBT's implications for Bayesian inference
 - [mysterianism](/concepts/mysterianism/) — McGinn's argument that the hard problem reflects cognitive closure
 - [tenets](/tenets/) — The Unfinishable Map's foundational commitments
 

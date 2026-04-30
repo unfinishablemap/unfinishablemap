@@ -60,7 +60,7 @@ topics: []
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) (frontmatter + body + Further Reading)
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) (frontmatter + Further Reading)
 - [computational-cognitive-limits](/voids/formal-cognitive-limits/) (frontmatter + concepts + Further Reading)
-- [mathematical-void](/voids/mathematical-void/) (frontmatter)
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) (frontmatter)
 - [consciousness-philosophy-of-mathematics-2026-03-19](/research/consciousness-philosophy-of-mathematics-2026-03-19/) (research, frontmatter)
 - Highlights entry updated
 

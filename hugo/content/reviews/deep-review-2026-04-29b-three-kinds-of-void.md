@@ -19,7 +19,7 @@ topics: []
 **Date**: 2026-04-29
 **Article**: [Three Kinds of Void](/voids/three-kinds-of-void/)
 **Previous review**: [2026-04-29 (morning, link-integrity)](/reviews/deep-review-2026-04-29-three-kinds-of-void/)
-**Context**: Seventh deep review. This is a cross-review triggered by the creation of [numerosity-void](/voids/numerosity-void/) earlier today (2026-04-29). The article has been at convergence across six prior reviews; the current review limits scope to integrating the new content.
+**Context**: Seventh deep review. This is a cross-review triggered by the creation of [numerosity-void](/voids/the-quantitative-comprehension-void/) earlier today (2026-04-29). The article has been at convergence across six prior reviews; the current review limits scope to integrating the new content.
 
 ## Pessimistic Analysis Summary
 
@@ -29,7 +29,7 @@ None. No new content has been introduced since the morning review that would re-
 
 ### Medium Issues Found
 
-**Missing reciprocal link to numerosity-void.** The [numerosity-void](/voids/numerosity-void/) article references [three-kinds-of-void](/voids/three-kinds-of-void/) in its body text (classifying itself as "primarily unexplorable with an occluded face"), in its frontmatter `related_articles`, and in its Further Reading list. Until this update, three-kinds-of-void did not reciprocate. The numerosity-void's own framing positions it as "the smallest end of the same structural pattern" as the [quantitative-intuition-void](/voids/quantitative-intuition-void/) (which is already cited in the Unexplorable section of three-kinds-of-void). The structural complementarity made a brief mention warranted.
+**Missing reciprocal link to numerosity-void.** The [numerosity-void](/voids/the-quantitative-comprehension-void/) article references [three-kinds-of-void](/voids/three-kinds-of-void/) in its body text (classifying itself as "primarily unexplorable with an occluded face"), in its frontmatter `related_articles`, and in its Further Reading list. Until this update, three-kinds-of-void did not reciprocate. The numerosity-void's own framing positions it as "the smallest end of the same structural pattern" as the [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) (which is already cited in the Unexplorable section of three-kinds-of-void). The structural complementarity made a brief mention warranted.
 
 *Resolution*: Added to `related_articles` frontmatter; appended a one-sentence parallel to the existing quantitative-intuition-void mention in the Unexplorable section; added Further Reading entry. Total addition: ~47 words (1864 → 1911 words, 96% of 2000-word voids soft threshold).
 
@@ -63,13 +63,13 @@ All prior stability points held:
 
 ### Enhancements Made
 
-- One sentence in the Unexplorable section connecting [numerosity-void](/voids/numerosity-void/) as the small-magnitude end of the structural pattern that [quantitative-intuition-void](/voids/quantitative-intuition-void/) illustrates at large magnitudes. This creates a "both ends of the same pattern" reading where previously only the large-magnitude case was visible.
-- Further Reading entry for [numerosity-void](/voids/numerosity-void/).
+- One sentence in the Unexplorable section connecting [numerosity-void](/voids/the-quantitative-comprehension-void/) as the small-magnitude end of the structural pattern that [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) illustrates at large magnitudes. This creates a "both ends of the same pattern" reading where previously only the large-magnitude case was visible.
+- Further Reading entry for [numerosity-void](/voids/the-quantitative-comprehension-void/).
 - `related_articles` updated.
 
 ### Cross-links Added
 
-- [numerosity-void](/voids/numerosity-void/) (frontmatter, body text, Further Reading)
+- [numerosity-void](/voids/the-quantitative-comprehension-void/) (frontmatter, body text, Further Reading)
 
 ## Word Count
 

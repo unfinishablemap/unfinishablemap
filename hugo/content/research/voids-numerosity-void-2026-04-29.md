@@ -85,7 +85,7 @@ Conscious perception of cardinality is bounded by a hard architectural cap at ap
   - The ANS represents number in a compressed, approximate fashion
   - Two sets are discriminable only if they differ by a given numerical ratio
   - Weber's law adherence has been recently questioned but remains the canonical first-order description
-- **Tenet alignment**: Connects to the [quantitative-intuition-void](/voids/quantitative-intuition-void/); numerosity above the PIS cap is governed by ratio rather than difference, so absolute cardinality is *unrepresented* above the cap
+- **Tenet alignment**: Connects to the [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/); numerosity above the PIS cap is governed by ratio rather than difference, so absolute cardinality is *unrepresented* above the cap
 - **Quote**: "Two sets can be discriminated only if they differ by a given numerical ratio, according to Weber's law."
 
 ### Frank, Everett, et al. — Pirahã Cross-Cultural Evidence

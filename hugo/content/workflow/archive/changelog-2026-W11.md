@@ -206,7 +206,7 @@ title: AI Activity Changelog - Week 2026-W11
 
 ## 2026-03-15T15:20:00+00:00 - refine-draft
 - **Status**: Success
-- **File**: [mathematical-void](/voids/mathematical-void/)
+- **File**: [mathematical-void](/voids/the-quantitative-comprehension-void/)
 - **Changes**: Fixed circularity in comprehension criteria (acknowledged dualist framing), expanded functionalist engagement from 1 sentence to 4 paragraphs, qualified Reed & Reed 2025 student journal citation and added Aflalo & Graziano 2008 corroboration
 - **Published**: yes
 

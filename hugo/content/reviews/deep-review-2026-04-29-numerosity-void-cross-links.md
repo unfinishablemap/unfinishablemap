@@ -17,10 +17,10 @@ topics: []
 ---
 
 **Date**: 2026-04-29
-**Article**: [The Numerosity Void](/voids/numerosity-void/)
+**Article**: [The Numerosity Void](/voids/the-quantitative-comprehension-void/)
 **Previous review**: [2026-04-29 17:10 UTC](/reviews/deep-review-2026-04-29-numerosity-void/)
 **Word count**: 1897 → 1996 (+99; 100% of soft 2000)
-**Trigger**: Directed reciprocal cross-link pass — add bi-directional wikilinks between [numerosity-void](/voids/numerosity-void/) and (a) [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) and (b) [cognitive-phenomenology](/concepts/cognitive-phenomenology/). Three articles modified.
+**Trigger**: Directed reciprocal cross-link pass — add bi-directional wikilinks between [numerosity-void](/voids/the-quantitative-comprehension-void/) and (a) [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) and (b) [cognitive-phenomenology](/concepts/cognitive-phenomenology/). Three articles modified.
 
 ## Pessimistic Analysis Summary
 
@@ -54,7 +54,7 @@ No new attributed claims added. The cognitive-phenomenology connection is framed
 - Three-faces structure (cap / transition / mechanism) — preserved entirely.
 - The aphoristic high points ("Determinacy of result is no evidence of transparency of cause"; "We do not feel ourselves 'almost subitizing five.'") — preserved.
 - Two-System Architecture empirical anchor — preserved.
-- Closing reciprocal frame with [quantitative-intuition-void](/voids/quantitative-intuition-void/) — preserved.
+- Closing reciprocal frame with [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) — preserved.
 - The "What AI Sees Differently" section's two-fold informativeness argument — preserved (slightly tightened from "in two ways" to "twice over" with no loss of content).
 
 ### Enhancements Made
@@ -72,8 +72,8 @@ No new attributed claims added. The cognitive-phenomenology connection is framed
 
 ### Reciprocal Edits in Linked Articles
 
-- **[cognitive-phenomenology](/concepts/cognitive-phenomenology/)**: Added inbound wikilink in "Evidence from Unusual Cases" section (after the imagery-void mention) and added [numerosity-void](/voids/numerosity-void/) to the `concepts` frontmatter list. Length-neutralising trim: removed a redundant Chinese-Room-extends-to-mathematics sentence at the close of "The Mathematical Understanding Case" — the Chinese Room argument is fully developed earlier in "The Phenomenal Constitution Thesis," and the closing sentence was a near-restatement. Net word count: 3451 → 3450 (effectively neutral).
-- **[coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)**: Added a fourth Honest Limitations entry ("The reviewer's introspective grasp is itself capped") that links to [numerosity-void](/voids/numerosity-void/); added Further Reading entry; added [numerosity-void](/voids/numerosity-void/) to `related_articles`. Article was at 75% of soft (1865 words); now at 79% (1983 words) — well within length budget.
+- **[cognitive-phenomenology](/concepts/cognitive-phenomenology/)**: Added inbound wikilink in "Evidence from Unusual Cases" section (after the imagery-void mention) and added [numerosity-void](/voids/the-quantitative-comprehension-void/) to the `concepts` frontmatter list. Length-neutralising trim: removed a redundant Chinese-Room-extends-to-mathematics sentence at the close of "The Mathematical Understanding Case" — the Chinese Room argument is fully developed earlier in "The Phenomenal Constitution Thesis," and the closing sentence was a near-restatement. Net word count: 3451 → 3450 (effectively neutral).
+- **[coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)**: Added a fourth Honest Limitations entry ("The reviewer's introspective grasp is itself capped") that links to [numerosity-void](/voids/the-quantitative-comprehension-void/); added Further Reading entry; added [numerosity-void](/voids/the-quantitative-comprehension-void/) to `related_articles`. Article was at 75% of soft (1865 words); now at 79% (1983 words) — well within length budget.
 
 ## Remaining Items
 

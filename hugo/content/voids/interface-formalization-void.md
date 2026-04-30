@@ -38,7 +38,7 @@ topics:
 
 The Unfinishable Map holds that consciousness causally influences the physical world through a minimal quantum interface. But can this interface be described mathematically? Mathematics is the language of structure—relations, symmetries, magnitudes, transformations. The interface, if the Map's [dualism](/tenets/#dualism) is correct, is where structure meets something that is not structure: the actuality of conscious experience. Any mathematical description of this meeting point produces more structure. It cannot produce the actuality it aims to capture. The interface formalization void is this systematic inability: not a gap in our current mathematics awaiting a better formalism, but a principled mismatch between what mathematics can express and what the interface is.
 
-This void is distinct from the [causal interface void](/voids/causal-interface/) (why we cannot *observe* how consciousness causes anything) and from the [mathematical-void](/voids/mathematical-void/) (where formal manipulation succeeds but comprehension fails). The interface formalization void concerns a deeper problem: whether the ontological joint between two fundamentally different domains *can be* the kind of thing mathematics captures at all.
+This void is distinct from the [causal interface void](/voids/causal-interface/) (why we cannot *observe* how consciousness causes anything) and from the [mathematical-void](/voids/the-quantitative-comprehension-void/) (where formal manipulation succeeds but comprehension fails). The interface formalization void concerns a deeper problem: whether the ontological joint between two fundamentally different domains *can be* the kind of thing mathematics captures at all.
 
 ## Why Mathematics Cannot Reach the Interface
 
@@ -110,7 +110,7 @@ The interface formalization void is generated directly by the Map's tenets, spec
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
 - [causal-interface](/voids/causal-interface/) — Why we cannot observe how consciousness causes anything
-- [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but understanding fails
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Where formal manipulation succeeds but understanding fails
 - [nomic-void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — What matter is in itself, beyond relational description
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödel's shadow on self-knowledge

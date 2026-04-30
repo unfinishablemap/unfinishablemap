@@ -124,7 +124,7 @@ The Map proposes a distinction between mathematical *authority* and mathematical
 
 This distinction has independent motivation beyond the consciousness case. Within physics itself, mathematical models underdetermine ontology: different mathematical formulations (Lagrangian vs. Hamiltonian mechanics, wave function vs. matrix formulation of quantum mechanics) describe the same structural relationships using different mathematical machinery. The mathematics captures the relational structure while remaining silent about what, if anything, constitutes the underlying reality. If mathematical descriptions underdetermine ontology even for physical systems, the claim that structural description might not exhaust *all* of reality is hardly ad hoc—it reflects a feature of mathematical representation that physicists have long recognised.
 
-The [mathematical-void](/voids/mathematical-void/) documents how even *within* mathematics, formal manipulation can proceed without genuine comprehension—we can prove theorems about structures we cannot intuit. The gap between mathematical formalism and understanding appears within mathematics itself. When the target is consciousness—the very phenomenon that constitutes understanding—the gap may be unbridgeable in principle.
+The [mathematical-void](/voids/the-quantitative-comprehension-void/) documents how even *within* mathematics, formal manipulation can proceed without genuine comprehension—we can prove theorems about structures we cannot intuit. The gap between mathematical formalism and understanding appears within mathematics itself. When the target is consciousness—the very phenomenon that constitutes understanding—the gap may be unbridgeable in principle.
 
 Mathematics' authority also matters *for* the Map's framework. The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet proposes that consciousness biases quantum indeterminacies. This claim is partially mathematical: it concerns probabilities, collapse dynamics, and conservation laws. Mathematics constrains how consciousness could interact with physics even if it cannot describe what consciousness is. The authority holds where structure is at stake—and interaction is structural even if the interacting parties are not exhaustively structural.
 
@@ -175,7 +175,7 @@ The view would be *supported* by:
 
 - [consciousness-and-mathematical-understanding](/topics/consciousness-and-mathematical-cognition/) — The phenomenology of mathematical insight as evidence for irreducible consciousness
 - [consciousness-and-mathematical-creativity](/topics/consciousness-and-mathematical-cognition/) — Mathematical creation as the strongest evidence for consciousness doing causal work
-- [mathematical-void](/voids/mathematical-void/) — Where formal manipulation succeeds but genuine understanding fails
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Where formal manipulation succeeds but genuine understanding fails
 - [consciousness-and-the-grounds-of-normative-authority](/topics/consciousness-and-normative-force/) — Parallel case for consciousness grounding authority in normative domains
 - [consciousness-and-the-authority-of-logic](/topics/consciousness-and-the-authority-of-formal-systems/) — Parallel analysis of where logical authority meets its limits at consciousness
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The unbridgeable gap between structural description and intrinsic nature

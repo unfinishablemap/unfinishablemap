@@ -27,7 +27,7 @@ None. Third review — all attribution checks pass, no factual errors, no source
 
 ### Medium Issues Found
 1. **Style guide violation (line 31-32)**: "This is not merely the self-reference paradox in formal dress" used the "This is not X. It is Y." construct explicitly forbidden by the writing style guide. **Resolution**: Rephrased to "The incompleteness void goes beyond the self-reference paradox: it concerns truths that are *provably* inaccessible..."
-2. **Missing `mathematical-void` from frontmatter**: Article references `[mathematical-void](/voids/mathematical-void/)` in body (line 76) but omitted it from `related_articles`. **Resolution**: Added to frontmatter.
+2. **Missing `mathematical-void` from frontmatter**: Article references `[mathematical-void](/voids/the-quantitative-comprehension-void/)` in body (line 76) but omitted it from `related_articles`. **Resolution**: Added to frontmatter.
 
 ### Low Issues Found
 1. **Line 44**: "Whether Gödel's disjunction itself is decidable may be undecidable" applies formal decidability language to a philosophical claim. Defensible as informal usage — left unchanged.
@@ -59,10 +59,10 @@ All checks pass (third consecutive review with clean attribution):
 
 ### Enhancements Made
 1. Fixed style guide violation — rephrased "This is not merely" construct
-2. Added `[mathematical-void](/voids/mathematical-void/)` to frontmatter `related_articles`
+2. Added `[mathematical-void](/voids/the-quantitative-comprehension-void/)` to frontmatter `related_articles`
 
 ### Cross-links Added
-- `[mathematical-void](/voids/mathematical-void/)` added to frontmatter (was already linked in body)
+- `[mathematical-void](/voids/the-quantitative-comprehension-void/)` added to frontmatter (was already linked in body)
 
 ## Word Count
 - Before: 2036 words (102% of 2000 soft threshold)

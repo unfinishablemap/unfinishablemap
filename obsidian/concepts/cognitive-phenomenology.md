@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-04-29T23:40:00+00:00
+ai_modified: 2026-04-30T00:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -43,13 +43,13 @@ related_articles:
   - "[[phenomenology-of-linguistic-failure]]"
   - "[[comparative-phenomenology-of-mathematical-insight]]"
   - "[[imagery-void]]"
-  - "[[numerosity-void]]"
+  - "[[the-quantitative-comprehension-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-16
 last_curated: null
-last_deep_review: 2026-04-29T00:08:00+00:00
+last_deep_review: 2026-04-30T00:56:00+00:00
 coalesced_from:
   - "/concepts/semantic-phenomenology/"
 ---
@@ -235,7 +235,7 @@ The [[consciousness-as-amplifier|amplification hypothesis]] provides empirical s
 
 ## Evidence from Unusual Cases
 
-People with **aphantasia** (inability to form mental images) still think, understand, and have insights—their cognitive phenomenology cannot reduce to visual imagery. The [[imagery-void]] catalogues the function-phenomenology dissociations this exposes: aphantasics complete mental rotation analytically rather than via image-rotation (Kay, Keogh & Pearson 2024), which Lennon (2023) reads as falsifying the sensory constraint on conscious thought. The [[numerosity-void|numerosity void]] adds a parallel architectural case: cardinal perception ≤4 is phenomenally given without felt operation, displaying individuative phenomenology with the proprietary phenomenology of the producing act structurally absent. The [[phenomenology-vs-function-axis|function-phenomenology axis]] situates this within a cross-domain pattern: parallel dissociations recur in synaesthesia (extra qualia) and agency (Wegner's I-Spy), constraining functionalist absorption in aggregate. Some people report vivid inner speech while others report "thinking in concepts" without verbal accompaniment, suggesting cognitive phenomenology manifests differently across individuals. Additionally, introspective reliability improves with training: expert meditators and subjects guided by the [[microphenomenological-interview-method|microphenomenological interview]] access pre-reflective cognitive content that casual introspection overlooks, narrowing the variation that fuels the unreliability objection.
+People with **aphantasia** (inability to form mental images) still think, understand, and have insights—their cognitive phenomenology cannot reduce to visual imagery. The [[imagery-void]] catalogues the function-phenomenology dissociations this exposes: aphantasics complete mental rotation analytically rather than via image-rotation (Kay, Keogh & Pearson 2024), which Lennon (2023) reads as falsifying the sensory constraint on conscious thought. The [[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor of the quantitative comprehension void]] adds a parallel architectural case: cardinal perception ≤4 is phenomenally given without felt operation, displaying individuative phenomenology with the proprietary phenomenology of the producing act structurally absent. The [[phenomenology-vs-function-axis|function-phenomenology axis]] situates this within a cross-domain pattern: parallel dissociations recur in synaesthesia (extra qualia) and agency (Wegner's I-Spy), constraining functionalist absorption in aggregate. Some people report vivid inner speech while others report "thinking in concepts" without verbal accompaniment, suggesting cognitive phenomenology manifests differently across individuals. Additionally, introspective reliability improves with training: expert meditators and subjects guided by the [[microphenomenological-interview-method|microphenomenological interview]] access pre-reflective cognitive content that casual introspection overlooks, narrowing the variation that fuels the unreliability objection.
 
 ## The Illusionist Challenge
 

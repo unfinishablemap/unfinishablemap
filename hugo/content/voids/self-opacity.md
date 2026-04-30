@@ -101,7 +101,7 @@ The distinction matters between self-directed thought (thinking *about* myself a
 
 We access mental contents—thoughts, images, feelings—but not the processes that produce them. James compared introspecting thought to "seizing a spinning top to catch its motion." Nisbett and Wilson (1977) established the asymmetry empirically: participants chose among identical stockings, consistently preferring items on the right, then confabulated reasons about quality and colour. No one mentioned position. Choice blindness (Johansson et al., 2005) deepens this: when choices are secretly switched, most fail to notice, then confabulate reasons for choices they never made with equal detail and confidence.
 
-The opacity has four dimensions. **Temporal**: by the time introspection occurs, the thought has passed. **Process**: you perceive the solution but not solving—the [recognition-void](/voids/recognition-void/) is paradigmatic, and the [numerosity-void](/voids/numerosity-void/) sharpens it to perception itself, where cardinality below four arrives all at once with its parallel-indexing operation hidden. **Mechanism**: even metacognition yields descriptions but not mechanisms. **Ontological**: Sartre's point that consciousness cannot objectify itself without self-distortion.
+The opacity has four dimensions. **Temporal**: by the time introspection occurs, the thought has passed. **Process**: you perceive the solution but not solving—the [recognition-void](/voids/recognition-void/) is paradigmatic, and the [numerosity-void](/voids/the-quantitative-comprehension-void/) sharpens it to perception itself, where cardinality below four arrives all at once with its parallel-indexing operation hidden. **Mechanism**: even metacognition yields descriptions but not mechanisms. **Ontological**: Sartre's point that consciousness cannot objectify itself without self-distortion.
 
 Despite structural opacity, we *feel* transparent to ourselves. This connects to [inventory blindness](/concepts/inventory-blindness/): absent capabilities produce no signal, so the illusion of transparency is never challenged from within. The [erasure-void](/voids/erasure-void/) extends the same structure across time—when capacities erode, the monitor that would notice the loss often erodes with them. Fabricated explanations feel no different from veridical ones.
 
@@ -173,7 +173,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [The Recursion Void](/voids/recursion-void/) — Depth limit of metacognitive self-reference
 - [The Recognition Void](/voids/recognition-void/) — Process opacity applied to recognition
 - [The Erasure Void](/voids/erasure-void/) — Self-opacity extended across time: capacity loss without signal
-- [The Numerosity Void](/voids/numerosity-void/) — A sharp instance of process opacity: cardinality given without the parallel-indexing operation that produced it
+- [The Numerosity Void](/voids/the-quantitative-comprehension-void/) — A sharp instance of process opacity: cardinality given without the parallel-indexing operation that produced it
 - [Free Will](/topics/free-will/) — Broader context for questions of agency
 
 ## References

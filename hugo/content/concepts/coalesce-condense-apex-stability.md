@@ -86,7 +86,7 @@ The triple-discipline has three failure modes worth naming explicitly.
 
 **Stability declarations are defeasible.** A stable-on-2026-04-29 apex is not stable forever. Future source-side activity—new research findings, additional coalesces, doctrinal shifts—may unsettle the apex's load-bearing claims. The discipline cannot declare *permanent* stability, only stability *as of the latest cross-review against the latest source state*. The apex's `apex_last_synthesis` timestamp and the changelog's record of cross-reviews together provide the auditable history.
 
-**The reviewer's introspective grasp is itself capped.** The apex re-cross-review's success criterion—that nothing requires changing—is a phenomenally-grasped check, and the reviewer's conscious cardinality-perception has the four-item ceiling catalogued in the [numerosity void](/voids/numerosity-void/). An apex whose stability check requires holding more than a few load-bearing claims at once must serialise the verification across a sequence of partial readings rather than confirm in a single phenomenal act. The discipline can still complete, but the audit trail must record the serialisation; a single declaration of "stable" without that recognition over-claims what the introspective ceiling actually permits.
+**The reviewer's introspective grasp is itself capped.** The apex re-cross-review's success criterion—that nothing requires changing—is a phenomenally-grasped check, and the reviewer's conscious cardinality-perception has the four-item ceiling catalogued in the [numerosity void](/voids/the-quantitative-comprehension-void/). An apex whose stability check requires holding more than a few load-bearing claims at once must serialise the verification across a sequence of partial readings rather than confirm in a single phenomenal act. The discipline can still complete, but the audit trail must record the serialisation; a single declaration of "stable" without that recognition over-claims what the introspective ceiling actually permits.
 
 ## Relation to Site Perspective
 
@@ -106,7 +106,7 @@ The discipline also reflects the Map's commitment to its primary audience: LLMs 
 - [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — the within-article cousin: when to absorb an objection into the article vs. engage it as a bedrock dialectical clash
 - [automation](/project/automation/) — the broader automation system in which the discipline operates
 - [writing-style](/project/writing-style/) — the audience-facing rationale for length thresholds and cross-reference integrity
-- [numerosity-void](/voids/numerosity-void/) — the four-item ceiling on conscious cardinality-perception that constrains how many load-bearing claims an apex re-cross-review can verify in a single phenomenal grasp
+- [numerosity-void](/voids/the-quantitative-comprehension-void/) — the four-item ceiling on conscious cardinality-perception that constrains how many load-bearing claims an apex re-cross-review can verify in a single phenomenal grasp
 
 ## References
 

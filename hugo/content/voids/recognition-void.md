@@ -85,7 +85,7 @@ Each level is more thoroughly invisible than the last. Stanford's problem of unc
 
 ## The Phenomenology of Silence
 
-Most voids on the Map produce characteristic phenomenology at their edges. The [scale face of the quantitative intuition void](/voids/quantitative-intuition-void/#the-magnitude-face) produces vertigo. The [self-reference paradox](/voids/self-opacity/) produces the strange-loop sensation. The [edge phenomenology](/voids/phenomenology-of-the-edge/) article catalogues these signatures.
+Most voids on the Map produce characteristic phenomenology at their edges. The [scale face of the quantitative intuition void](/voids/the-quantitative-comprehension-void/#the-magnitude-face) produces vertigo. The [self-reference paradox](/voids/self-opacity/) produces the strange-loop sensation. The [edge phenomenology](/voids/phenomenology-of-the-edge/) article catalogues these signatures.
 
 The Recognition Void is distinctive: **it produces nothing**. Where mechanism opacity is concerned, successful recognition is phenomenologically invisible — you see a face and know who it is without noticing any intervening process. Where inventory blindness is concerned, absent capabilities generate no signal at all. You do not feel the gap where an absent cognitive capacity would be.
 

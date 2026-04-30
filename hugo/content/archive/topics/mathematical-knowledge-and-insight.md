@@ -128,7 +128,7 @@ If both mathematical and physical reality are aspects of a deeper order that con
 
 ## When Understanding Fails
 
-The [mathematical-void](/voids/mathematical-void/) documents what happens when understanding breaks down—when we manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent. This negative phenomenology is equally revealing.
+The [mathematical-void](/voids/the-quantitative-comprehension-void/) documents what happens when understanding breaks down—when we manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent. This negative phenomenology is equally revealing.
 
 The experience of failing to understand is not mere absence. It has positive phenomenal character: hitting a wall, symbols remaining opaque despite correct manipulation. Kant described mathematical sublimity as arising when imagination fails to comprehend what reason can grasp—the *Unübersehbarkeit* (unsurveyability) of vast structures. You *know* the transfinite hierarchy is well-defined; you cannot *see* it as you see that 2+2=4. This felt boundary—transparent understanding versus opaque formal correctness—marks a distinction computation alone cannot explain, since from a computational standpoint both processes terminate in the same outputs.
 
@@ -149,7 +149,7 @@ These limits are themselves informative. They suggest consciousness accesses mat
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — Penrose's argument, the Poincaré phenomenon, and the computational challenge
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — How every major position on mathematical ontology implies a position on consciousness
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
-- [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Cognitive limits on mathematical comprehension
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought supports dualism
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Broader epistemic benefits of the dualist framework
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The case for phenomenal character in thinking

@@ -129,7 +129,7 @@ Bertrand Russell's observation is relevant here: "Physics is mathematical not be
 
 ## The Limits of Mathematical Knowledge
 
-The epistemological argument for dualism should not be overstated. The [mathematical-void](/voids/mathematical-void/) documents genuine limits to mathematical understanding: transfinite structures that resist intuitive grasp, non-surveyable proofs too vast for human comprehension, higher-dimensional spaces we can manipulate formally but cannot visualise. Mathematical consciousness is powerful but not omniscient.
+The epistemological argument for dualism should not be overstated. The [mathematical-void](/voids/the-quantitative-comprehension-void/) documents genuine limits to mathematical understanding: transfinite structures that resist intuitive grasp, non-surveyable proofs too vast for human comprehension, higher-dimensional spaces we can manipulate formally but cannot visualise. Mathematical consciousness is powerful but not omniscient.
 
 These limits are themselves epistemically informative. They suggest that consciousness accesses mathematical reality through a faculty that, like perception, has a finite bandwidth. We can perceive some mathematical structures directly (small numbers, simple geometric forms) and grasp others through chains of reasoning that extend our direct access. But some mathematical objects may lie permanently beyond our intuitive reach—not because they are unreal, but because our mode of access has inherent constraints.
 
@@ -150,7 +150,7 @@ This is what dualism predicts: a genuine but limited faculty of mathematical per
 - [consciousness-and-mathematical-cognition](/topics/consciousness-and-mathematics/) — The cognitive processes and phenomenology of mathematical thinking
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
 - [phenomenology-of-mathematical-insight](/topics/mathematical-knowledge-and-insight/) — The felt character of mathematical understanding
-- [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Cognitive limits on mathematical comprehension
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought supports dualism
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Broader epistemic benefits of the dualist framework
 

@@ -90,7 +90,7 @@ The interior is unexplorable, but the boundary admits indirect mapping. Three ap
 
 The tacit integration void is *unexplorable* in the [Map's taxonomy](/voids/three-kinds-of-void/), structural rather than contingent. The from-to relation is what makes meaning possible; thematising it would require a vantage point outside the relation. As with Gurwitsch's thematic field, attempting to dissolve the void creates a new instance: the new focal object brings its own subsidiaries. The materialist objection — that the integration is in principle specifiable as a pattern of neural activation, and the void is just a practical limit of introspection — is a substantive challenge to the conditional, addressed in [Honest Limitation](#honest-limitation) below.
 
-The from-to relation is one architectural ceiling among several. The [numerosity void's introspective ceiling](/voids/numerosity-void/#the-introspective-ceiling) supplies a quantitative sibling: any single-act apprehension exceeding about four phenomenal-content units must serialise rather than grasp them at once. Both ceilings are structural rather than contingent, and both bound apophatic catalogues from inside — the from-to ceiling prevents grasping the bearing relation as it bears, while the four-item ceiling caps how many bearings can be held in one phenomenal grasp at all. Sibling architectural caps on what consciousness can carry as a single act.
+The from-to relation is one architectural ceiling among several. The [numerosity void's introspective ceiling](/voids/the-quantitative-comprehension-void/#the-introspective-ceiling) supplies a quantitative sibling: any single-act apprehension exceeding about four phenomenal-content units must serialise rather than grasp them at once. Both ceilings are structural rather than contingent, and both bound apophatic catalogues from inside — the from-to ceiling prevents grasping the bearing relation as it bears, while the four-item ceiling caps how many bearings can be held in one phenomenal grasp at all. Sibling architectural caps on what consciousness can carry as a single act.
 
 ## Relation to Site Perspective
 
@@ -126,7 +126,7 @@ A third limitation: described from inside human integration. Minds with differen
 - [acquaintance-void](/voids/acquaintance-void/) — The gap between having an experience and describing it
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — Felt verdicts whose generation is opaque
 - [meaning-void](/voids/meaning-void/) — Whether meaning can be analysed at all
-- [numerosity-void](/voids/numerosity-void/) — The four-item architectural ceiling: a sibling structural cap on single-act phenomenal grasp
+- [numerosity-void](/voids/the-quantitative-comprehension-void/) — The four-item architectural ceiling: a sibling structural cap on single-act phenomenal grasp
 - [apophatic-cartography](/voids/apophatic-cartography/) — The boundary-marking discipline this article practises
 - [what-voids-reveal](/voids/what-voids-reveal/) — Why structural failures disclose features of consciousness
 

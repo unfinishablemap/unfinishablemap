@@ -113,7 +113,7 @@ The diagnostic value of this intersection would weaken if:
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Ontological, phenomenological, and computational treatment of mathematical cognition
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — How formalism, logicism, intuitionism, and structuralism each concede the irreducibility of mathematical understanding
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Formal authority and its boundary at consciousness
-- [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Cognitive limits on mathematical comprehension
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The boundary where relational description meets intrinsic quality
 - [knowledge-argument](/concepts/knowledge-argument/) — Parallel epistemic gap between physical facts and phenomenal knowledge
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Broader epistemic benefits of the dualist framework

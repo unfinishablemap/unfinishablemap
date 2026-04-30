@@ -134,7 +134,7 @@ The void sits with [formal cognitive limits](/voids/formal-cognitive-limits/) as
 - [conceptual-scheme-void](/voids/conceptual-scheme-void/)
 - [plenitude-void](/voids/plenitude-void/)
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/)
-- [mathematical-void](/voids/mathematical-void/)
+- [mathematical-void](/voids/the-quantitative-comprehension-void/)
 - [noetic-feelings-void](/voids/noetic-feelings-void/)
 - [suspension-void](/voids/suspension-void/)
 - [recursion-void](/voids/recursion-void/)

@@ -17,10 +17,10 @@ topics: []
 ---
 
 **Date**: 2026-04-29
-**Article**: [The Quantitative Intuition Void](/voids/quantitative-intuition-void/)
+**Article**: [The Quantitative Intuition Void](/voids/the-quantitative-comprehension-void/)
 **Previous review**: [2026-04-24](/reviews/deep-review-2026-04-24-quantitative-intuition-void/)
 **Word count**: 2117 → 2154 (+37; 108% of soft 2000)
-**Trigger**: Cross-review against newly-published [numerosity-void](/voids/numerosity-void/) (P2 from replenish-queue)
+**Trigger**: Cross-review against newly-published [numerosity-void](/voids/the-quantitative-comprehension-void/) (P2 from replenish-queue)
 
 The 2026-04-24 review was a wikilink-cleanup pass after the coalesce of `scale-void` + `probability-intuition-void`; it explicitly deferred a full adversarial pass and noted "Schedule a standalone adversarial deep review of the unified article in ~2 weeks." The current review combines that deferred adversarial pass with the cross-review against the new `numerosity-void` article (published 2026-04-29).
 
@@ -34,7 +34,7 @@ None.
 
 ### Medium Issues Found
 
-- **Missing reciprocal cross-link to numerosity-void**: The numerosity-void article (published today) explicitly cross-links here in its closing paragraph and frames itself as "the smallest end of the same structural pattern." The quantitative-intuition-void article had no reciprocal link, leaving the architectural continuity asserted in only one direction. **Resolution applied**: Added `[numerosity-void](/voids/numerosity-void/)` to related_articles, added a paragraph in "Why Magnitudes and Probabilities Belong Together" framing the numerosity void as the architectural floor of the same symbol/referent dissociation, and added a Further Reading entry.
+- **Missing reciprocal cross-link to numerosity-void**: The numerosity-void article (published today) explicitly cross-links here in its closing paragraph and frames itself as "the smallest end of the same structural pattern." The quantitative-intuition-void article had no reciprocal link, leaving the architectural continuity asserted in only one direction. **Resolution applied**: Added `[numerosity-void](/voids/the-quantitative-comprehension-void/)` to related_articles, added a paragraph in "Why Magnitudes and Probabilities Belong Together" framing the numerosity void as the architectural floor of the same symbol/referent dissociation, and added a Further Reading entry.
 
 ### Counterarguments Considered
 
@@ -70,7 +70,7 @@ None.
 
 ### Cross-links Added
 
-- `[numerosity-void](/voids/numerosity-void/)` (frontmatter related_articles, body text, Further Reading)
+- `[numerosity-void](/voids/the-quantitative-comprehension-void/)` (frontmatter related_articles, body text, Further Reading)
 
 ## Remaining Items
 

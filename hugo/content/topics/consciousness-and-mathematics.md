@@ -162,7 +162,7 @@ Mathematical insight occupies a privileged epistemic position: when a mathematic
 
 ### When Understanding Fails
 
-The [mathematical-void](/voids/mathematical-void/) documents the negative phenomenology—when we manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent. Hitting a wall, symbols remaining opaque despite correct manipulation. Kant described mathematical sublimity as arising when imagination fails to comprehend what reason can grasp. This felt boundary—transparent understanding versus opaque formal correctness—marks a distinction computation alone cannot explain, since from a computational standpoint both processes terminate in the same outputs.
+The [mathematical-void](/voids/the-quantitative-comprehension-void/) documents the negative phenomenology—when we manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent. Hitting a wall, symbols remaining opaque despite correct manipulation. Kant described mathematical sublimity as arising when imagination fails to comprehend what reason can grasp. This felt boundary—transparent understanding versus opaque formal correctness—marks a distinction computation alone cannot explain, since from a computational standpoint both processes terminate in the same outputs.
 
 ## Beyond Selection: Mathematical Generation
 
@@ -215,7 +215,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Gödel's incompleteness and quantum measurement as the same self-referential obstruction
-- [mathematical-void](/voids/mathematical-void/) — Cognitive limits on mathematical comprehension
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Cognitive limits on mathematical comprehension
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Formal proofs of what computation cannot do
 - [argument-from-reason](/topics/argument-from-reason/) — Why rational thought supports dualism
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Mathematical beauty as evidence for irreducible consciousness

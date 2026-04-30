@@ -113,7 +113,7 @@ The analysis reveals two distinct failures that are easily conflated:
 
 **Cognitive probability blindness**: the well-documented failure to reason correctly about base rates, conjunctions, and sample sizes. This is partly remediable through format changes (Gigerenzer's natural frequencies) and intensive training.
 
-**Phenomenological probability blindness**: the inability to *experience* genuine randomness or probability as such. No amount of training gives probability a phenomenal character. We cannot feel 30% versus 70%. We can represent these values symbolically, but they have no qualia. This blindness may be irremediable because it reflects how consciousness is structured rather than what it has learned. The Map identifies this as the probability face of the [quantitative intuition void](/voids/quantitative-intuition-void/#the-probability-face)—a territory that consciousness cannot chart because the charting instrument itself is the wrong tool for the terrain.
+**Phenomenological probability blindness**: the inability to *experience* genuine randomness or probability as such. No amount of training gives probability a phenomenal character. We cannot feel 30% versus 70%. We can represent these values symbolically, but they have no qualia. This blindness may be irremediable because it reflects how consciousness is structured rather than what it has learned. The Map identifies this as the probability face of the [quantitative intuition void](/voids/the-quantitative-comprehension-void/#the-probability-face)—a territory that consciousness cannot chart because the charting instrument itself is the wrong tool for the terrain.
 
 The distinction matters for the interface view. Cognitive blindness is a limitation of our evolutionary history—ancestral environments required frequency-counting, not abstract probability. Phenomenological blindness may be a deeper feature of consciousness itself. If consciousness operates through qualitative selection (pattern, meaning, attention), then probability—a quantitative, population-level abstraction—falls outside its phenomenal repertoire by nature, not by accident.
 
@@ -136,7 +136,7 @@ The distinction matters for the interface view. Cognitive blindness is a limitat
 - [quantum-measurement-and-subjective-probability](/topics/quantum-measurement-and-subjective-probability/) — QBism's phenomenological gap
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — Why consciousness resists physical explanation
 - [cognitive closure](/concepts/mysterianism/) — Why some features of mind-body interaction may be permanently inaccessible
-- [quantitative-intuition-void](/voids/quantitative-intuition-void/) — The probability face of this void treats the cognitive limits at the heart of probabilistic reasoning; the magnitude face extends the same architecture to scale
+- [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) — The probability face of this void treats the cognitive limits at the heart of probabilistic reasoning; the magnitude face extends the same architecture to scale
 - [narrative-coherence](/concepts/narrative-coherence/) — How narrative structure overrides probabilistic reasoning
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Formalising consciousness's downward selection among quantum outcomes
 - [phenomenology-of-deliberation-under-uncertainty](/topics/phenomenology-of-deliberation-under-uncertainty/) — What genuine uncertainty feels like from the inside

@@ -126,7 +126,7 @@ The Map interprets the cross-domain convergence as evidence that the problem is 
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches its limit at consciousness
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When independent convergence constitutes evidence
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reductive programmes fail at consciousness
-- [mathematical-void](/voids/mathematical-void/) — The boundary of mathematical knowledge
+- [mathematical-void](/voids/the-quantitative-comprehension-void/) — The boundary of mathematical knowledge
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödel's theorems and the limits of formal systems
 
 ## References

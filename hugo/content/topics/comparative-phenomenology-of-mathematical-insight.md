@@ -130,7 +130,7 @@ The Map's fifth tenet—that Occam's razor has limits—is illustrated by the in
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
-- [mathematical-void](/voids/mathematical-void/)
+- [mathematical-void](/voids/the-quantitative-comprehension-void/)
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
 

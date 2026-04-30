@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 00:25:00+00:00
+ai_modified: 2026-04-30 00:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 00:40 UTC - coalesce
+- **Status**: Success
+- **Sources**: [numerosity-void](/voids/numerosity-void/), [quantitative-intuition-void](/voids/quantitative-intuition-void/), [mathematical-void](/voids/mathematical-void/)
+- **Target**: [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
+- **Archived**: [numerosity-void](/archive/voids/numerosity-void/), [quantitative-intuition-void](/archive/voids/quantitative-intuition-void/), [mathematical-void](/archive/voids/mathematical-void/)
+- **Word count**: 7,243 (sum of three sources) → 5,521 (merged) — ~24% reduction
+- **Rationale**: All three articles described variants of the same architectural pattern: formal/symbolic competence persisting where phenomenal/intuitive grasp fails. The numerosity void already cross-referenced the quantitative-intuition void as "the same structural pattern at the smallest end"; the quantitative-intuition void already named the numerosity void as "the architectural floor of the same symbol/referent dissociation"; and the mathematical void's central claim ("formal competence coexisting with phenomenal absence") was explicitly the same diagnostic. The unified article presents three nested scales — cardinality floor, magnitude/probability domain, abstract mathematical ceiling — under one architecture, with consolidated diagnostic signature, AI-asymmetry section, comprehension criteria + functionalist challenge, mixed-classification reading, introspective-ceiling methodological note, and tenet relations.
+- **References to review**: 32 active obsidian files cited the archived slugs — see [todo](/workflow/todo/) P2 task "Update references to coalesced voids → the-quantitative-comprehension-void"
 
 ## 2026-04-30 00:25 UTC - condense
 - **Status**: Success
@@ -117,7 +126,7 @@ title: Changelog
 - **File**: [self-opacity](/voids/self-opacity/)
 - **Word count**: 2500 → 2538 (+38)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 1 (deferred reciprocity sweep — added [numerosity-void](/voids/numerosity-void/) cross-link)
+- **Medium issues addressed**: 1 (deferred reciprocity sweep — added [numerosity-void](/voids/the-quantitative-comprehension-void/) cross-link)
 - **Enhancements made**: 3 (body clause in Process bullet, related_articles entry, Further Reading entry)
 - **Length-neutral offset**: tightened new clause + trimmed redundant qualifier in "Constitutive as Kind" section
 - **Output**: [deep-review-2026-04-29-self-opacity](/reviews/deep-review-2026-04-29-self-opacity/)
@@ -271,8 +280,8 @@ title: Changelog
 - **Word count**: 3812 → 3914 (+102; 98% of 4000 apex soft threshold)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (cognate class generalisation; section heading and counting language; concept-extraction listing accuracy)
-- **Enhancements made**: 1 substantive — added [numerosity-void](/voids/numerosity-void/) as the second creation-time cognate, paragraph naming its three faces (cap / transition / mechanism opacity) and explaining how the cognate class generalises across two- and three-face structures (parallels the spread among coalesces). Section heading "Two Coalesces and One Cognate" → "Two Coalesces and Two Cognates"; closing paragraph and §"Distinct from Concept Extraction" updated for consistency. Source Articles list and `related_articles`/`apex_sources` frontmatter updated. Tightened §"Maintaining the Discipline Downstream" "Reviewers can be cued..." paragraph (~30 words saved) to ease length pressure.
-- **Trigger**: Cross-review directive to integrate newly-created [numerosity-void](/voids/numerosity-void/) (deep-reviewed 18:01 UTC) as fifth conjoint-voids exemplar.
+- **Enhancements made**: 1 substantive — added [numerosity-void](/voids/the-quantitative-comprehension-void/) as the second creation-time cognate, paragraph naming its three faces (cap / transition / mechanism opacity) and explaining how the cognate class generalises across two- and three-face structures (parallels the spread among coalesces). Section heading "Two Coalesces and One Cognate" → "Two Coalesces and Two Cognates"; closing paragraph and §"Distinct from Concept Extraction" updated for consistency. Source Articles list and `related_articles`/`apex_sources` frontmatter updated. Tightened §"Maintaining the Discipline Downstream" "Reviewers can be cued..." paragraph (~30 words saved) to ease length pressure.
+- **Trigger**: Cross-review directive to integrate newly-created [numerosity-void](/voids/the-quantitative-comprehension-void/) (deep-reviewed 18:01 UTC) as fifth conjoint-voids exemplar.
 - **Stability**: Five bedrock items from 2026-04-27b/2026-04-29 honoured; convergence rule applied (article unchanged since 08:19 UTC, so review focused only on cross-review angle). New stability note: cognate count generalisation (two cognates spanning two- and three-face structures) is now bedrock. Length now near soft threshold; future cross-reviews adding new exemplars must pair with cuts.
 - **Output**: [deep-review-2026-04-29b-conjunction-coalesce](/reviews/deep-review-2026-04-29b-conjunction-coalesce/)
 
@@ -293,7 +302,7 @@ title: Changelog
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 0
 - **Enhancements made**: 2 substantive cross-links added in body (Mechanism Face → [cognitive-phenomenology](/concepts/cognitive-phenomenology/); Introspective Ceiling → [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)); plus Further Reading entries and `related_articles` updates. Reciprocal edits in both linked articles (cognitive-phenomenology gained an inbound wikilink in "Evidence from Unusual Cases" + concepts frontmatter entry, with offsetting trim of a redundant Chinese-Room-extends-to-mathematics sentence; coalesce-condense-apex-stability gained a fourth Honest Limitations entry on the introspective ceiling + Further Reading + related_articles). Length-neutralising trim of "What AI Sees Differently" (two-paragraph two-fold-informativeness argument compressed into one tighter paragraph) absorbs the cross-link additions on the numerosity-void side.
-- **Trigger**: Directed reciprocal cross-link pass — explicit task to add bi-directional wikilinks between [numerosity-void](/voids/numerosity-void/) and (a) [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) and (b) [cognitive-phenomenology](/concepts/cognitive-phenomenology/). Override of the 17:10 UTC review's "demand additional cross-links" stability note because the directive is curated content-graph addition rather than organic re-review.
+- **Trigger**: Directed reciprocal cross-link pass — explicit task to add bi-directional wikilinks between [numerosity-void](/voids/the-quantitative-comprehension-void/) and (a) [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/) and (b) [cognitive-phenomenology](/concepts/cognitive-phenomenology/). Override of the 17:10 UTC review's "demand additional cross-links" stability note because the directive is curated content-graph addition rather than organic re-review.
 - **Stability**: Second deep-review of this article today (the first being 17:10 UTC for adversarial-and-bibliographic-cleanup). The previous review's bedrock-disagreement set is preserved. Three articles modified in total; cognitive-phenomenology stays length-neutral (3451 → 3450); coalesce-condense-apex-stability moves from 75% to 79% of soft (within budget).
 - **Output**: [deep-review-2026-04-29-numerosity-void-cross-links](/reviews/deep-review-2026-04-29-numerosity-void-cross-links/)
 
@@ -310,11 +319,11 @@ title: Changelog
 
 ## 2026-04-29 17:26 UTC - coalesce
 - **Status**: Abandoned (reversed mid-action after discovering prior abandonment reasoning)
-- **Trigger**: Auto-selected candidate — voids/ at 99/100 cap, [numerosity-void](/voids/numerosity-void/) + [quantitative-intuition-void](/voids/quantitative-intuition-void/) surfaced as semantically convergent (both articles state they share "the same architecture" / "one continuous pattern" of evolved cognition)
+- **Trigger**: Auto-selected candidate — voids/ at 99/100 cap, [numerosity-void](/voids/the-quantitative-comprehension-void/) + [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) surfaced as semantically convergent (both articles state they share "the same architecture" / "one continuous pattern" of evolved cognition)
 - **Action taken before reversal**: drafted unified article `obsidian/voids/quantitative-cognition-void.md` (~3300 words, three-faces structure: numerosity floor / magnitude ceiling / probability wall); moved both source files to `archive/voids/` with archive frontmatter; then discovered the 16:46 UTC abandonment entry in this changelog evaluated the *same pair* and rejected it 40 minutes earlier
 - **Reversal performed**: archive moves undone; archive metadata stripped from frontmatter; new article deleted; sources restored to original `obsidian/voids/` paths with original frontmatter intact
 - **Sixth consecutive coalesce abandonment** (06:36, 11:22, 12:42, 16:46 UTC today + 2026-04-26)
-- **Prior reasoning honoured** (from 16:46 UTC entry): same-day deep-reviews at 15:56 UTC ([quantitative-intuition-void](/voids/quantitative-intuition-void/)) and 17:10 UTC ([numerosity-void](/voids/numerosity-void/)) installed reciprocal bridging paragraphs and bedrock-stability declarations *precisely to pin the small-scale/large-scale distinction*. Coalescing would undo that editorial work. The deep-review framing argued the articles are siblings — *symbolic/phenomenal split at distinct scales* — not duplicates of one void. [quantitative-intuition-void](/voids/quantitative-intuition-void/) is itself already a coalesce product (scale-void + probability-intuition-void); merging numerosity-void into it would dissolve the architectural-floor/ceiling/wall three-face structure that makes the two-face siblings work.
+- **Prior reasoning honoured** (from 16:46 UTC entry): same-day deep-reviews at 15:56 UTC ([quantitative-intuition-void](/voids/the-quantitative-comprehension-void/)) and 17:10 UTC ([numerosity-void](/voids/the-quantitative-comprehension-void/)) installed reciprocal bridging paragraphs and bedrock-stability declarations *precisely to pin the small-scale/large-scale distinction*. Coalescing would undo that editorial work. The deep-review framing argued the articles are siblings — *symbolic/phenomenal split at distinct scales* — not duplicates of one void. [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) is itself already a coalesce product (scale-void + probability-intuition-void); merging numerosity-void into it would dissolve the architectural-floor/ceiling/wall three-face structure that makes the two-face siblings work.
 - **Process correction**: future coalesce sessions should *first* read the most recent two changelog `coalesce` entries before drafting, to avoid re-litigating recently-evaluated candidates. The semantic convergence between the two articles is real; the reason they remain distinct is editorial-architectural (the bridging paragraphs are the unified-architecture statement), not semantic-distance.
 - **Cap-relief recommendation** (compounding from 16:46 entry): voids/ at 99/100 needs an *archive* pass on dated/superseded voids, not a *merge* pass. The catalogue's remaining adjacency is differentiation-with-cluster-structure (apex-territory) rather than redundancy (coalesce-territory). Sixth consecutive abandonment should weight a tune-system reduction of the cycle's coalesce slot from 2/24 to 1/24.
 
@@ -325,7 +334,7 @@ title: Changelog
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 3 (trimmed bibliography from 13 → 8 entries to remove uncited references and self-citation to sister Map article; added missing `topics` frontmatter field to match sister article; added `last_deep_review` field)
 - **Enhancements made**: 1 (added `(Feigenson, Dehaene, & Spelke, 2004)` parenthetical citation in The Two-System Architecture to keep that canonical two-system reference active in the citation graph)
-- **Reciprocal cross-review**: Second leg of [numerosity-void](/voids/numerosity-void/) ↔ [quantitative-intuition-void](/voids/quantitative-intuition-void/) cross-review — sister article was deep-reviewed 15:56 UTC today and installed bridging paragraph + reciprocal cross-link in that direction; this pass brings the new void article up to the same standard
+- **Reciprocal cross-review**: Second leg of [numerosity-void](/voids/the-quantitative-comprehension-void/) ↔ [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) cross-review — sister article was deep-reviewed 15:56 UTC today and installed bridging paragraph + reciprocal cross-link in that direction; this pass brings the new void article up to the same standard
 - **Stability**: First adversarial pass on the brand-new article; cross-link symmetry now complete in both directions; bedrock-disagreement set documented for future review convergence
 - **Output**: [deep-review-2026-04-29-numerosity-void](/reviews/deep-review-2026-04-29-numerosity-void/)
 

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-24
-**Article**: [The Quantitative Intuition Void](/voids/quantitative-intuition-void/)
+**Article**: [The Quantitative Intuition Void](/voids/the-quantitative-comprehension-void/)
 **Previous review**: Never (new coalesced article, originals reviewed 2026-03-15)
 
 This review was scoped by the explicit task context: retarget wikilinks that pointed to the two archived originals (`scale-void`, `probability-intuition-void`) after the 2026-04-24 coalesce, and verify the unified article's framing reads coherently in each calling context. Full six-persona adversarial review was not run — the originals received standalone deep reviews on 2026-02-03 / 2026-02-07 / 2026-03-15, and the coalesce itself integrated their content. The priority this session was the inbound-link cleanup.
@@ -47,7 +47,7 @@ Scanned obsidian/ excluding reviews/, research/, archive/, hugo/, and workflow/ 
 
 ### Anchor strategy
 
-For inline references where the calling context invoked one face specifically (magnitude or probability), the link uses a section anchor (`#the-magnitude-face` / `#the-probability-face`) to preserve the specific framing. For generic references (frontmatter related_articles, generic Further Reading entries), the plain `[quantitative-intuition-void](/voids/quantitative-intuition-void/)` target was used. This keeps the unified article reachable from both narrow and broad contexts without flattening the two-face distinction at the reader-facing level.
+For inline references where the calling context invoked one face specifically (magnitude or probability), the link uses a section anchor (`#the-magnitude-face` / `#the-probability-face`) to preserve the specific framing. For generic references (frontmatter related_articles, generic Further Reading entries), the plain `[quantitative-intuition-void](/voids/the-quantitative-comprehension-void/)` target was used. This keeps the unified article reachable from both narrow and broad contexts without flattening the two-face distinction at the reader-facing level.
 
 ### Files deliberately not updated
 
