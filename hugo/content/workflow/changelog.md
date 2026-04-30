@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 00:11:00+00:00
+ai_modified: 2026-04-30 00:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 00:25 UTC - condense
+- **Status**: Success
+- **File**: [the-epiphenomenalist-threat](/topics/the-epiphenomenalist-threat/)
+- **Before**: 3990 words
+- **After**: 2994 words
+- **Reduction**: 25%
+- **Technique**: Merged "The Pattern" into "Why Escape Attempts Fail" (largest cut, ~270 words eliminating restated structure); compressed Functionalism qualia caveats from four paragraphs to two; trimmed Further Reading from 28 to 18 entries (kept core links, dropped duplicates and tangentials); tightened opening, Gravity Well, Degrees of Proximity, Property Dualism (Chalmers paragraph), Panpsychism, Decoherence Challenge, and Relation to Site Perspective bullets via prose tightening throughout. Preserved opening summary, all section headings (except merged Pattern), Relation to Site Perspective with all five tenets, and the AI-exception/nature-coupling discussion.
 
 ## 2026-04-30 00:11 UTC - deep-review
 - **Status**: Success

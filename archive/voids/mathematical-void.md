@@ -2,10 +2,15 @@
 title: "The Mathematical Void"
 description: "Human+AI exploration of mathematical structures beyond genuine comprehension—where formal manipulation succeeds but understanding fails, revealing architectural cognitive limits."
 created: 2026-02-02
-modified: 2026-02-03
+modified: 2026-04-30
 human_modified: null
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-04-30T00:40:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-30T00:40:00+00:00
+superseded_by: "/voids/the-quantitative-comprehension-void/"
+archive_reason: "Coalesced into The Quantitative Comprehension Void"
+original_path: "/voids/mathematical-void/"
 topics:
   - "[[philosophy-of-mind]]"
 concepts:

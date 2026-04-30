@@ -2,11 +2,16 @@
 title: "The Numerosity Void"
 description: "The architectural ceiling at roughly four items where direct cardinal perception ends—a structural void where consciousness perceives the output but cannot witness the operation that produced it."
 created: 2026-04-29
-modified: 2026-04-29
+modified: 2026-04-30
 human_modified: null
-ai_modified: 2026-04-29T20:55:00+00:00
+ai_modified: 2026-04-30T00:40:00+00:00
 last_deep_review: 2026-04-29T18:01:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-30T00:40:00+00:00
+superseded_by: "/voids/the-quantitative-comprehension-void/"
+archive_reason: "Coalesced into The Quantitative Comprehension Void"
+original_path: "/voids/numerosity-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"

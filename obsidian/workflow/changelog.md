@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 00:25:00+00:00
+ai_modified: 2026-04-30 00:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 00:40 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[voids/numerosity-void]], [[voids/quantitative-intuition-void]], [[voids/mathematical-void]]
+- **Target**: [[voids/the-quantitative-comprehension-void]]
+- **Archived**: [[archive/voids/numerosity-void]], [[archive/voids/quantitative-intuition-void]], [[archive/voids/mathematical-void]]
+- **Word count**: 7,243 (sum of three sources) → 5,521 (merged) — ~24% reduction
+- **Rationale**: All three articles described variants of the same architectural pattern: formal/symbolic competence persisting where phenomenal/intuitive grasp fails. The numerosity void already cross-referenced the quantitative-intuition void as "the same structural pattern at the smallest end"; the quantitative-intuition void already named the numerosity void as "the architectural floor of the same symbol/referent dissociation"; and the mathematical void's central claim ("formal competence coexisting with phenomenal absence") was explicitly the same diagnostic. The unified article presents three nested scales — cardinality floor, magnitude/probability domain, abstract mathematical ceiling — under one architecture, with consolidated diagnostic signature, AI-asymmetry section, comprehension criteria + functionalist challenge, mixed-classification reading, introspective-ceiling methodological note, and tenet relations.
+- **References to review**: 32 active obsidian files cited the archived slugs — see [[todo]] P2 task "Update references to coalesced voids → the-quantitative-comprehension-void"
 
 ## 2026-04-30 00:25 UTC - condense
 - **Status**: Success

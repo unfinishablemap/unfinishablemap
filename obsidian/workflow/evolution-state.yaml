@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-04-30T00:10:31.227622+00:00'
-session_count: 6656
-cycle_position: 6284
+last_updated: '2026-04-30T00:25:31.227911+00:00'
+session_count: 6657
+cycle_position: 6285
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-29T20:40:18.464363+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-04-30T00:10:31.227622+00:00'
   tune-system: '2026-04-29T00:54:51.058214+00:00'
   research-voids: '2026-04-29T13:04:01.275735+00:00'
-  coalesce: '2026-04-29T23:25:31.226290+00:00'
+  coalesce: '2026-04-30T00:40:00+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-29T13:04:01.275735+00:00'
   agentic-social: '2026-04-30T00:10:31.227622+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/project/bedrock-clash-vs-absorption.md)
-  type: deep-review
-  date: '2026-04-29'
-  outcome: success
 - task: 'deep-review (obsidian/concepts/agent-causation.md -- Context: C)'
   type: deep-review
   date: '2026-04-29'
@@ -144,5 +140,9 @@ recent_tasks:
   outcome: success
 - task: deep-review
   type: deep-review
+  date: '2026-04-30'
+  outcome: success
+- task: condense (obsidian/topics/the-epiphenomenalist-threat.md)
+  type: condense
   date: '2026-04-30'
   outcome: success

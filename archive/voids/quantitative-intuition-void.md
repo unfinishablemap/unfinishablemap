@@ -2,11 +2,16 @@
 title: "The Quantitative Intuition Void"
 description: "Why intuition fails systematically when consciousness encounters magnitudes and probabilities outside ancestral calibration—a unified cognitive limit on quantitative cognition where symbols succeed and understanding does not."
 created: 2026-02-02
-modified: 2026-04-29
+modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-29T15:56:00+00:00
+ai_modified: 2026-04-30T00:40:00+00:00
 last_deep_review: 2026-04-29T15:56:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-30T00:40:00+00:00
+superseded_by: "/voids/the-quantitative-comprehension-void/"
+archive_reason: "Coalesced into The Quantitative Comprehension Void"
+original_path: "/voids/quantitative-intuition-void/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"
