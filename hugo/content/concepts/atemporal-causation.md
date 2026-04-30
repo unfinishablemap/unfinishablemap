@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-14
-ai_modified: 2026-03-25 13:59:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -33,7 +33,7 @@ related_articles:
 - '[[tenets]]'
 - '[[time-symmetric-selection-mechanism]]'
 - '[[time-collapse-and-agency]]'
-- '[[non-retrocausal-conscious-selection-models]]'
+- '[[forward-in-time-conscious-selection]]'
 - '[[interactionist-dualism]]'
 title: Atemporal Causation
 topics:
@@ -43,7 +43,7 @@ topics:
 
 Atemporal causation is causation that does not operate within temporal sequence. Where ordinary causation flows from earlier events to later ones, atemporal causation determines which temporal sequence becomes actual without itself being located at any point in that sequence. The Unfinishable Map's framework draws on this concept to explain how consciousness can select quantum outcomes even when neural activity precedes conscious awareness — the selection isn't late because it isn't at a time at all.
 
-This concept matters because the standard objection to [interactionist dualism](/concepts/interactionist-dualism/) assumes causation must be temporally ordered. [Libet experiments](/concepts/libet-experiments/) show neural readiness potentials preceding conscious awareness by hundreds of milliseconds. If causes must precede effects, consciousness arrives too late to be the cause. Atemporal causation dissolves this objection: a cause that isn't located in time cannot be "too late." The Map develops this as one of two pathways for the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction), alongside [non-retrocausal selection](/topics/non-retrocausal-conscious-selection-models/) which acts on present superpositions at the moment of collapse.
+This concept matters because the standard objection to [interactionist dualism](/concepts/interactionist-dualism/) assumes causation must be temporally ordered. [Libet experiments](/concepts/libet-experiments/) show neural readiness potentials preceding conscious awareness by hundreds of milliseconds. If causes must precede effects, consciousness arrives too late to be the cause. Atemporal causation dissolves this objection: a cause that isn't located in time cannot be "too late." The Map develops this as one of two pathways for the [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction), alongside [non-retrocausal selection](/topics/forward-in-time-conscious-selection/) which acts on present superpositions at the moment of collapse.
 
 ## Distinguishing Atemporal from Retrocausal
 
@@ -116,7 +116,7 @@ Standard consciousness-collapse models face a relativistic problem: if conscious
 
 ## Comparison with Non-Retrocausal Selection
 
-The Map develops both [non-retrocausal](/topics/non-retrocausal-conscious-selection-models/) and atemporal pathways for conscious selection without requiring a final choice between them.
+The Map develops both [non-retrocausal](/topics/forward-in-time-conscious-selection/) and atemporal pathways for conscious selection without requiring a final choice between them.
 
 | Feature | Non-Retrocausal | Atemporal |
 |---------|----------------|-----------|
@@ -201,7 +201,7 @@ Atemporal causation connects to each of the Map's tenets:
 
 - [retrocausality](/concepts/retrocausality/) — Physics of backward causation and the Libet resolution
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — How consciousness selects among neural configurations
-- [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — Detailed comparison of forward-in-time frameworks
+- [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — Detailed comparison of forward-in-time frameworks
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — The full selection mechanism using atemporal causation
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces time's arrow
 - [time-collapse-and-agency](/topics/time-collapse-and-agency/) — Synthesis of time, collapse, and conscious agency

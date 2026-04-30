@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-16
-**Article**: [Post-Decoherence Selection Mechanisms](/topics/post-decoherence-selection-mechanisms/)
+**Article**: [Post-Decoherence Selection Mechanisms](/topics/forward-in-time-conscious-selection/)
 **Previous review**: [2026-04-16](/reviews/deep-review-2026-04-16-post-decoherence-selection-mechanisms/)
 
 ## Pessimistic Analysis Summary

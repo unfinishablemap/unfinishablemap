@@ -5167,7 +5167,7 @@ topics: []
 
 ## 2026-03-18T18:32:00+00:00 - deep-review
 - **Status**: Success
-- **File**: [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **File**: [non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)
 - **Word count**: 2135 → 2135 (+0)
 - **Critical issues addressed**: 0 (none found — article stable after 2 prior reviews)
 - **Medium issues addressed**: 1 (orphan status — zero inbound links)
@@ -5216,7 +5216,7 @@ topics: []
 
 ## 2026-03-18T17:51:00+00:00 - deep-review
 - **Status**: Success
-- **File**: [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **File**: [non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)
 - **Word count**: 2102 → 2122 (+20)
 - **Critical issues addressed**: 1 (broken wikilink `[psychophysical-coupling](/concepts/psychophysical-laws/)`)
 - **Medium issues addressed**: 3 (missing Georgiev citation, unlinked related articles)

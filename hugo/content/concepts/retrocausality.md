@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-07
-ai_modified: 2026-03-30 00:14:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -99,7 +99,7 @@ If the transactional interpretation is correct—including a satisfactory respon
 
 ## Connection to Quantum Consciousness Mechanisms
 
-Retrocausality complements [non-retrocausal quantum consciousness mechanisms](/topics/non-retrocausal-conscious-selection-models/) like Orch OR and Stapp's quantum Zeno. These explain *where* consciousness interfaces with quantum processes; retrocausality explains *how* the temporal ordering puzzle dissolves. Both benefit because consciousness need not "speed up" to precede neural preparation—the collapse and its preparation form an atemporal transaction.
+Retrocausality complements [non-retrocausal quantum consciousness mechanisms](/topics/forward-in-time-conscious-selection/) like Orch OR and Stapp's quantum Zeno. These explain *where* consciousness interfaces with quantum processes; retrocausality explains *how* the temporal ordering puzzle dissolves. Both benefit because consciousness need not "speed up" to precede neural preparation—the collapse and its preparation form an atemporal transaction.
 
 ### Motor Selection: Independent Corroboration
 

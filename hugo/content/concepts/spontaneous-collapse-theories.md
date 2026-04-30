@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-28 00:30:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-sonnet-4-5-20250929
 author: null
 concepts:
@@ -111,7 +111,7 @@ Stuart Hameroff extends Penrose OR by proposing that consciousness arises when *
 - Requires large-scale quantum effects (microtubule-level), not minimal interaction
 - Experimental tests (germanium detectors, matter-wave interference) increasingly constrain Orch OR parameter space
 
-Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models — both examples of [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/). For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/).
+Orch OR aligns with [Dualism](/tenets/#dualism) and [Bidirectional Interaction](/tenets/#bidirectional-interaction) but conflicts with [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) by requiring macroscopic quantum coherence. The Map's framework favors smaller-scale quantum selection (see [stapp-quantum-mind](/concepts/stapp-quantum-mind/)) or hybrid CSL-IIT models — both examples of [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/). For detailed treatment of microtubule coherence evidence and alternative neural quantum mechanisms, see [quantum neural mechanisms](/concepts/quantum-biology-and-neural-mechanisms/).
 
 ## Experimental Status
 

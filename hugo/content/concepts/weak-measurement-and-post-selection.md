@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-30 04:18:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -148,7 +148,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet rejects the view that all ou
 - [retrocausality](/concepts/retrocausality/) — Backward causation in physics
 - [measurement-problem](/concepts/measurement-problem/) — The problem weak measurement illuminates without solving
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces time's arrow
-- [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — Alternative selection models that avoid retrocausality
+- [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — Alternative selection models that avoid retrocausality
 
 ## References
 

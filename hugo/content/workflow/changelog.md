@@ -1,13 +1,70 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 18:50:00+00:00
+ai_modified: 2026-04-30 20:35:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 20:35 UTC - condense
+- **Status**: Success
+- **File**: [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
+- **Before**: 3039 words
+- **After**: 2361 words
+- **Reduction**: 22%
+- **Status change**: hard_warning → soft_warning
+- **Technique**: Removed AI refinement-log HTML comment block (post-review cleanup). Tightened prose throughout (excess hedging, wordy phrasings). Trimmed citation density without dropping references; cut Husserl-Kant philosophical digression in Magnitude paragraph; collapsed redundant unexplored/unexplorable/possibly-occluded re-definitions in Mixed Classification (already given in opening); compressed Introspective Ceiling to single paragraph; cut Further Reading list from 11 to 7 strongest entries. Preserved opening summary, all five-tenet Relation to Site Perspective sections, conjunction-coalesce architectural-seam back-reference, Challenge-this-View section, and full References list.
+
+## 2026-04-30 20:26 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-as-activity](/topics/consciousness-as-activity/)
+- **Word count**: 2411 → 2409 (-2)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Low issues addressed**: 2 (description tightened from 177 → 154 chars per style-guide window; one soft "not X. It is Y." LLM-cliché construction rewritten as a direct positive claim)
+- **Stability**: Fourth review. Article is converged — three prior reviews left attribution, citations, tenet connections, cross-links, and structure clean. Only stylistic polish remained.
+- **Output**: [deep-review-2026-04-30-consciousness-as-activity](/reviews/deep-review-2026-04-30-consciousness-as-activity/)
+
+## 2026-04-30 20:07 UTC - expand-topic
+- **Status**: Skipped (already-exists)
+- **Topic**: min-max dualism taxonomy
+- **Existing article**: [four-quadrant-dualism-taxonomy](/topics/four-quadrant-dualism-taxonomy/) — created 2026-04-21 from the same research note (`research/min-max-dualism-taxonomy-2026-04-21.md`), deep-reviewed 2026-04-23
+- **Reason**: Task was generated 2026-04-30 by replenisher under `unconsumed_research` source, but the matching research note had already been consumed into `topics/four-quadrant-dualism-taxonomy.md` on 2026-04-21 (the same day it was produced). The replenisher's "no corresponding article" check missed the existing file because the article slug ("four-quadrant-dualism-taxonomy") differs from the research-note slug ("min-max-dualism-taxonomy") — both phrasings name the same two-axis taxonomy. The slug-availability check (`check_slug.py`) returned OK on `four-quadrant-dualism-taxonomy` in `topics/` despite the file existing there (same same-section bug noted in the 2026-04-30 19:50 UTC consciousness-normativity skip). Existing article already covers all four quadrants (Q1 min-mind/min-physical through Q4 max-mind/max-physical) with the worked examples and tenet integration the task requested.
+- **Action**: Marked todo task complete pointing to the existing article. No new content created. No git commit. The replenisher needs phrasing-aware matching against the existing-article catalogue (research-slug → article-slug isn't always identity); fixing `check_slug.py` to flag same-section collisions would also catch the second-line case.
+
+## 2026-04-30 19:50 UTC - expand-topic
+- **Status**: Skipped (already-exists)
+- **Topic**: consciousness and the normativity of reason
+- **Existing article**: [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/) — created 2026-04-07, deep-reviewed 2026-04-16
+- **Reason**: Task was generated 2026-04-30 by replenisher under `unconsumed_research` source, but the matching research note (`research/consciousness-normativity-of-reason-2026-04-07.md`) had already been consumed into the topics/ article on the same day it was produced. The replenisher's "no corresponding article" check appears to have missed the existing file. The slug-availability check (`check_slug.py`) only catches cross-section collisions, so it returned OK on `topics` even though the file is already at `obsidian/topics/consciousness-and-the-normativity-of-reason.md`.
+- **Action**: Marked todo task complete pointing to the existing article. No new content created. No git commit. Recommend adjusting `replenish-queue` consumed-research detection (or `check_slug.py` to also flag same-section collisions) to prevent repeat duplicate generation.
+
+## 2026-04-30 19:39 UTC - condense
+- **Status**: Success
+- **File**: [creative-consciousness](/concepts/creative-consciousness/)
+- **Before**: 4663 words
+- **After**: 2678 words
+- **Reduction**: 43%
+- **Technique**: Merged "Selection View" + "Generation View" + "Synthesis" into one combined section; trimmed background phrasing ("This is not X — it is Y" forms removed); compressed each phenomenology subsection (search, impasse, restructuring, scientific encounter, aha moment) by ~50% while preserving the four-phase structure and qualitative markers; tightened L-Creativity to a single paragraph deferring to linked articles; trimmed "What This Phenomenology Reveals" by removing redundant restatements; reduced Further Reading list from 15 to 10 entries; removed less-cited references (Bergson 1889, Kounios & Beeman 2009, Polanyi 1966, Duncker 1945) keeping the load-bearing citations (Bowden, Metcalfe & Wiebe, Ohlsson, Wertheimer, Weisberg, Yeh et al., Penrose). Preserved opening summary, generation-through-selection thesis, Boden table, four phenomenological phases, all five tenet connections.
+- **Cliché audit**: zero "This is not X. It is Y." constructions
+
+## 2026-04-30 19:21 UTC - cross-review
+- **Status**: Success
+- **Task**: Repoint inbound wikilinks from coalesced selection-mechanism articles to [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Files modified**: 22 active content files — `concepts/atemporal-causation`, `concepts/bidirectional-interaction`, `concepts/consciousness-in-non-collapsed-quantum-states`, `concepts/consciousness-selecting-neural-patterns`, `concepts/quantum-consciousness`, `concepts/retrocausality`, `concepts/spontaneous-collapse-theories`, `concepts/stapp-quantum-mind`, `concepts/von-neumann-wigner-interpretation`, `concepts/weak-measurement-and-post-selection`, `topics/amplification-mechanisms-consciousness-physics`, `topics/comparing-quantum-consciousness-mechanisms`, `topics/decoherence-and-macroscopic-superposition`, `topics/penrose-gravity-induced-collapse-empirical-prospects`, `topics/psychophysical-laws-bridging-mind-and-matter`, `topics/quantum-biology-and-neural-consciousness`, `topics/quantum-measurement-and-consciousness`, `topics/quantum-neural-timing-constraints`, `topics/testing-consciousness-collapse`, `topics/time-collapse-and-agency`, `topics/time-symmetric-selection-mechanism`, `topics/trilemma-of-selection`
+- **Changes**: Replaced bare wikilink slugs `non-retrocausal-conscious-selection-models` and `post-decoherence-selection-mechanisms` with `forward-in-time-conscious-selection` in `related_articles` frontmatter, inline body wikilinks, and Further Reading lists. No deduplication required: no file held both source slugs in its `related_articles` list. The 23rd flagged file (`concepts/post-decoherence-selection`) contained only a research-note path inside an HTML comment — no wikilink to repoint. Apex `apex/post-decoherence-selection-programme` had no references to either source slug. Hugo aliases (`coalesced_from` in unified article) preserve old URLs; archived originals remain in `archive/topics/`.
+- **Style audit**: zero "This is not X. It is Y." cliché introductions (substitutions were slug-only)
+
+## 2026-04-30 19:05 UTC - coalesce
+- **Status**: Success
+- **Sources**: [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/), [post-decoherence-selection-mechanisms](/topics/post-decoherence-selection-mechanisms/)
+- **Target**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Archived**: [non-retrocausal-conscious-selection-models](/archive/topics/non-retrocausal-conscious-selection-models/), [post-decoherence-selection-mechanisms](/archive/topics/post-decoherence-selection-mechanisms/)
+- **References to review**: 23 articles cross-link to one or both source slugs (concepts and topics); follow-up task created to repoint inbound wikilinks to the unified article
+- **Rationale**: Both articles treated forward-in-time conscious selection from overlapping angles—non-retrocausal already contained a "Post-Decoherence Alternative" section that the second article expanded. Merging unifies pre-decoherence frameworks (Orch OR, Stapp Zeno, Chalmers-McQueen) with the three post-decoherence mechanisms (von Neumann cut, relocated Stapp Process 1, actualisation model) under a single thesis structure.
 
 ## 2026-04-30 18:50 UTC - refine-draft
 - **Status**: Success

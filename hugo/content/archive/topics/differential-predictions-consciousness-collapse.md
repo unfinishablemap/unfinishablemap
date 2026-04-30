@@ -130,7 +130,7 @@ The [Occam's Razor Has Limits](/tenets/#occams-limits) tenet addresses a predict
 - [decoherence-and-macroscopic-superposition](/topics/decoherence-and-macroscopic-superposition/) — How far superposition has been pushed experimentally
 - [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/) — How Orch OR, Stapp, and IIT-CSL approaches compare
 - [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — The experimental programme constraining gravity-related collapse models
-- [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — Why these three frameworks share a forward-in-time temporal direction
+- [non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/) — Why these three frameworks share a forward-in-time temporal direction
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — What is at stake philosophically in the collapse debate
 
 ## References

@@ -26,8 +26,8 @@ topics: []
 None. Article remains stable after four reviews. All previous critical issues (Van Inwagen misattribution) were resolved in the 2026-04-06 review.
 
 ### Medium Issues Found
-- **Missing post-decoherence selection integration**: The mechanism section discussed how consciousness biases physical outcomes (quantum Zeno, orchestrated collapse, CSL dynamics, non-retrocausal mechanisms) but did not mention post-decoherence selection—now a well-developed part of the Map's framework with its own dedicated topic article. Resolution: Added a paragraph explaining how post-decoherence selection strengthens Horn 3 by sidestepping the decoherence objection, with cross-links to [post-decoherence-selection-mechanisms](/topics/post-decoherence-selection-mechanisms/) and [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/).
-- **Missing cross-links to related content**: No links to [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) (whose structural parallel argument directly supports the trilemma) or [post-decoherence-selection-mechanisms](/topics/post-decoherence-selection-mechanisms/) (written today, explicitly builds on the trilemma). Resolution: Added both to related_articles, Further Reading, and body text.
+- **Missing post-decoherence selection integration**: The mechanism section discussed how consciousness biases physical outcomes (quantum Zeno, orchestrated collapse, CSL dynamics, non-retrocausal mechanisms) but did not mention post-decoherence selection—now a well-developed part of the Map's framework with its own dedicated topic article. Resolution: Added a paragraph explaining how post-decoherence selection strengthens Horn 3 by sidestepping the decoherence objection, with cross-links to [post-decoherence-selection-mechanisms](/topics/forward-in-time-conscious-selection/) and [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/).
+- **Missing cross-links to related content**: No links to [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) (whose structural parallel argument directly supports the trilemma) or [post-decoherence-selection-mechanisms](/topics/forward-in-time-conscious-selection/) (written today, explicitly builds on the trilemma). Resolution: Added both to related_articles, Further Reading, and body text.
 - **Missing concept link**: [post-decoherence-selection](/concepts/post-decoherence-selection/) was not in the frontmatter concepts despite the mechanism section discussing the gap between formalism and outcome. Resolution: Added to concepts list.
 
 ### Counterarguments Considered
@@ -74,7 +74,7 @@ All six adversarial personas engaged. No new substantive objections beyond those
 - Added post-decoherence-selection to concepts frontmatter
 
 ### Cross-links Added
-- [post-decoherence-selection-mechanisms](/topics/post-decoherence-selection-mechanisms/) (related_articles, Further Reading, body text)
+- [post-decoherence-selection-mechanisms](/topics/forward-in-time-conscious-selection/) (related_articles, Further Reading, body text)
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) (related_articles, Further Reading, body text)
 - [post-decoherence-selection](/concepts/post-decoherence-selection/) (concepts frontmatter)
 

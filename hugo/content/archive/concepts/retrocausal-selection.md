@@ -88,7 +88,7 @@ A 2025 experimental result in *Nature Communications* demonstrated that if retro
 
 ## Comparison with Non-Retrocausal Selection
 
-The Map develops both [non-retrocausal](/topics/non-retrocausal-conscious-selection-models/) and retrocausal pathways for conscious selection without requiring a final choice between them.
+The Map develops both [non-retrocausal](/topics/forward-in-time-conscious-selection/) and retrocausal pathways for conscious selection without requiring a final choice between them.
 
 | Feature | Non-Retrocausal | Retrocausal |
 |---------|----------------|-------------|
@@ -127,7 +127,7 @@ The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) applies straightfor
 
 - [retrocausality](/concepts/retrocausality/) — The general physics concept
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — Non-retrocausal selection pathways
-- [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — Detailed comparison of forward-in-time frameworks
+- [non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/) — Detailed comparison of forward-in-time frameworks
 - [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) — Time-symmetric selection developed in full
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation outside temporal sequence

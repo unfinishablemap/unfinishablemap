@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-18
-ai_modified: 2026-03-29 16:41:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -140,7 +140,7 @@ No single stage performs the full amplification. Each contributes a factor, and 
 
 The seven mechanisms are not mutually exclusive. They operate at different points in the amplification chain and could function in concert:
 
-- **Microtubule collapse** and **Zeno stabilization** address the quantum end—how consciousness selects or sustains quantum states. Both are [non-retrocausal mechanisms](/topics/non-retrocausal-conscious-selection-models/) acting forward in time, operating on present superpositions rather than retroactively influencing past events
+- **Microtubule collapse** and **Zeno stabilization** address the quantum end—how consciousness selects or sustains quantum states. Both are [non-retrocausal mechanisms](/topics/forward-in-time-conscious-selection/) acting forward in time, operating on present superpositions rather than retroactively influencing past events
 - **Synaptic tunneling** bridges quantum-to-molecular scales
 - **Chaotic sensitivity** and **SOC** bridge molecular-to-network scales
 - **Stochastic resonance** operates across all scales as a general amplification principle

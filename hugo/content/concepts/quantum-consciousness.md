@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-09
-ai_modified: 2026-04-30 17:17:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -47,7 +47,7 @@ topics:
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level—scientifically engaged theories, still contested, proposing mechanisms by which consciousness could influence brain activity without violating physical law.
 
-The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. The Map favours [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) — forward-in-time frameworks that avoid the metaphysical costs of backward causation. For how these mechanisms fit into the Map's broader research programme, see [Comparing Quantum Consciousness Mechanisms](/topics/comparing-quantum-consciousness-mechanisms/).
+The Map's [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. The Map favours [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/) — forward-in-time frameworks that avoid the metaphysical costs of backward causation. For how these mechanisms fit into the Map's broader research programme, see [Comparing Quantum Consciousness Mechanisms](/topics/comparing-quantum-consciousness-mechanisms/).
 
 **Map position vs. headline reading.** Several mechanisms below were originally formulated under a "consciousness causes collapse" headline (most directly the [von Neumann–Wigner lineage](/concepts/von-neumann-wigner-interpretation/)). The Map's thesis is weaker: collapse occurs universally whether or not anyone is conscious—[objective-collapse mechanisms](/concepts/spontaneous-collapse-theories/) supply the baseline—and consciousness *modulates* statistics within those events at its own neural interface. The mechanisms here are evaluated as candidate *modulation* mechanisms, not as causes of collapse-as-such. This distinction dissolves the [prebiotic](/concepts/prebiotic-collapse/) and [multi-observer](/concepts/multi-mind-collapse-problem/) problems without surrendering causal efficacy.
 

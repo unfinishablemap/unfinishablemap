@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-01
-ai_modified: 2026-03-30 01:44:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -28,7 +28,7 @@ related_articles:
 - '[[tenets]]'
 - '[[time-collapse-and-agency]]'
 - '[[presentiment-and-retrocausality]]'
-- '[[non-retrocausal-conscious-selection-models]]'
+- '[[forward-in-time-conscious-selection]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'
 title: Time-Symmetric Selection Mechanism
 topics:
@@ -38,7 +38,7 @@ topics:
 
 Time-symmetric selection proposes that consciousness determines quantum outcomes not at a moment in time but through [atemporal constraint satisfaction](/concepts/atemporal-causation/). On this view, consciousness participates in determining which correlations hold between past and future—selecting which "transaction" completes—rather than causing collapse at an instant. This resolves the apparent timing problem from [Libet experiments](/concepts/libet-experiments/): neural activity can precede conscious awareness without undermining conscious causation, because the selection isn't located in time at all.
 
-The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets require a mechanism for consciousness to influence physical outcomes. Time-symmetric selection is one of two pathways the Map develops. The alternative—[non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/)—proposes that consciousness acts forward in time, selecting among currently superposed neural states at the moment of collapse. That pathway avoids the transactional interpretation dependency and carries fewer metaphysical commitments. Time-symmetric selection carries greater commitments but offers a distinctive advantage: it dissolves the Libet timing problem entirely rather than requiring macroscopic neural superpositions to persist long enough for forward-in-time selection to operate.
+The Unfinishable Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenets require a mechanism for consciousness to influence physical outcomes. Time-symmetric selection is one of two pathways the Map develops. The alternative—[non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/)—proposes that consciousness acts forward in time, selecting among currently superposed neural states at the moment of collapse. That pathway avoids the transactional interpretation dependency and carries fewer metaphysical commitments. Time-symmetric selection carries greater commitments but offers a distinctive advantage: it dissolves the Libet timing problem entirely rather than requiring macroscopic neural superpositions to persist long enough for forward-in-time selection to operate.
 
 ## The Timing Problem
 
@@ -212,7 +212,7 @@ Time-symmetric selection connects tightly to the Map's tenets:
 
 ## Further Reading
 
-- [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — The alternative pathway: forward-in-time selection via Orch OR, Stapp Zeno, and Chalmers-McQueen CSL
+- [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — The alternative pathway: forward-in-time selection via Orch OR, Stapp Zeno, and Chalmers-McQueen CSL
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The selection mechanism in detail
 - [retrocausality](/concepts/retrocausality/) — Physics of backward causation and the Libet resolution
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces time's arrow

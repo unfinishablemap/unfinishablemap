@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-23 17:41:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -60,7 +60,7 @@ Stapp proposes that neural firing patterns exist in superposition until "observe
 3. **Zeno freezing**: Rapid attention holds desired patterns, preventing decay into alternatives
 4. **Effort as observation rate**: Felt effort corresponds to observation rapidity
 
-The key insight: consciousness doesn't *generate* neural patterns—it *selects* among patterns the brain presents. This represents basis control (choosing which question to ask) combined with timing control (determining when observation occurs)—two of the three [coupling-modes](/concepts/coupling-modes/) by which consciousness might influence quantum outcomes. As a forward-in-time mechanism, the Zeno model is one of three [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/) frameworks the Map develops.
+The key insight: consciousness doesn't *generate* neural patterns—it *selects* among patterns the brain presents. This represents basis control (choosing which question to ask) combined with timing control (determining when observation occurs)—two of the three [coupling-modes](/concepts/coupling-modes/) by which consciousness might influence quantum outcomes. As a forward-in-time mechanism, the Zeno model is one of three [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/) frameworks the Map develops.
 
 Crucially, the mechanism satisfies [conservation laws](/concepts/conservation-laws-and-mental-causation/)—consciousness shapes which possibility actualises without adding energy. Whether [Born-rule](/topics/born-rule-and-the-consciousness-interface/) statistics survive at the ensemble is a live question: the [corridor reading](/concepts/observational-closure/) treats single selections as averaging to |⟨φ|ψ⟩|² and leaving no detectable signature, while the Map's [empirical-status taxonomy](/topics/born-rule-violation-brain-interface-empirical-status/) classifies Stapp's picture as Born-rule-bending because attention-modulated observation rate shifts aggregate probabilities ("minimum-outside-the-corridor"). Either reading addresses the classical objection to dualism: at quantum indeterminacies, physics leaves outcomes undetermined, and consciousness biases the outcome without competing with physical causes. The physical causes are *necessary but not sufficient*; consciousness provides the sufficiency.
 

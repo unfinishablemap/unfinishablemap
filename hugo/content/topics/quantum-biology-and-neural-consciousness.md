@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-20
-ai_modified: 2026-04-23 22:28:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -122,7 +122,7 @@ The convergence also has directionality. Over the past decade, new evidence has 
 
 The connection runs through the [measurement-problem](/concepts/measurement-problem/). Every quantum system eventually produces definite outcomes. Physics provides probabilities; something determines which outcome becomes actual. Orthodox quantum mechanics is silent on what that something is.
 
-The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/)—acting as [non-retrocausal conscious selection](/topics/non-retrocausal-conscious-selection-models/). This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
+The Map's position: consciousness is a candidate. Where physics leaves outcomes genuinely undetermined, consciousness might bias selection without violating [conservation laws](/concepts/conservation-laws-and-mental-causation/)—acting as [non-retrocausal conscious selection](/topics/forward-in-time-conscious-selection/). This is the [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet.
 
 Quantum biology matters because it establishes the substrate. If brains were purely classical, there would be no indeterminate outcomes for consciousness to influence. The question becomes whether neural systems specifically involve quantum indeterminacy at functionally relevant points—and whether consciousness interfaces there.
 

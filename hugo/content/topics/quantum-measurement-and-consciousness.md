@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-23 18:31:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -133,7 +133,7 @@ The Map [rejects Many-Worlds](/tenets/#no-many-worlds) while acknowledging that 
 
 ### Exploit the Gap: Consciousness Selection
 
-A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/). [Non-retrocausal selection](/topics/non-retrocausal-conscious-selection-models/) frameworks like [Stapp's quantum Zeno model](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) and Chalmers-McQueen's CSL-IIT fall in the Born-bending family: mental attention biases which neural patterns become actual, with selection statistics depending on a consciousness-related variable. Stapp's model is the most developed successor to the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/), specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
+A third approach takes the gap seriously: consciousness determines outcomes at the measurement event itself. The Map distinguishes three live flavors — *corridor-preserving*, *Born-bending*, and *trumping-orthogonal* — catalogued with empirical stakes in [born-rule-violation-brain-interface-empirical-status](/topics/born-rule-violation-brain-interface-empirical-status/). [Non-retrocausal selection](/topics/forward-in-time-conscious-selection/) frameworks like [Stapp's quantum Zeno model](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp) and Chalmers-McQueen's CSL-IIT fall in the Born-bending family: mental attention biases which neural patterns become actual, with selection statistics depending on a consciousness-related variable. Stapp's model is the most developed successor to the [von Neumann–Wigner interpretation](/concepts/von-neumann-wigner-interpretation/), specifying *how* consciousness terminates the chain — through rapid observation (the quantum Zeno effect) rather than an unanalysed "collapse."
 
 The strength: consciousness is causally efficacious—[Bidirectional Interaction](/tenets/#bidirectional-interaction) is preserved. The weakness: the mechanism by which mental attention generates observation events in a warm, decoherent brain remains unspecified.
 

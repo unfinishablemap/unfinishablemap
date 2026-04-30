@@ -28,7 +28,7 @@ topics: []
 - **Stale AI refinement log**: HTML comment at end of file explicitly requested removal after human review. Resolution: removed.
 
 ### Medium Issues Found
-- **Missing cross-link**: No link to [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/), which provides useful contrast to the retrocausal framework presented here. Resolution: added to Further Reading.
+- **Missing cross-link**: No link to [non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/), which provides useful contrast to the retrocausal framework presented here. Resolution: added to Further Reading.
 - **Ensemble problem could be stronger**: The limitation about weak values requiring ensembles is correctly identified but somewhat understated given how specific the conditions for valid weak value extraction are. Deferred—the current treatment is honest and adequate.
 
 ### Counterarguments Considered
@@ -52,12 +52,12 @@ topics: []
 ### Enhancements Made
 - Added Pryde et al. (2005) to References (was cited but missing)
 - Removed unverifiable Kedem & Vaidman (2005) quantum random walk entry
-- Added cross-link to [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) in Further Reading
+- Added cross-link to [non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/) in Further Reading
 - Removed stale AI refinement log comment
 - Renumbered references for consistency
 
 ### Cross-links Added
-- [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- [non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)
 
 ## Remaining Items
 

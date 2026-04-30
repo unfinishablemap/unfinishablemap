@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-04-30 20:26:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,13 +18,12 @@ concepts:
 - '[[predictive-processing]]'
 created: 2026-02-23
 date: &id001 2026-02-23
-description: Reframing consciousness from something the brain has to something the
-  organism does—an activity-first ontology that dissolves old puzzles and strengthens
-  interactionist dualism.
+description: Recasting consciousness from a property the brain has to an activity
+  the organism does—an activity-first ontology that strengthens interactionist dualism.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-22 01:41:00+00:00
+last_deep_review: 2026-04-30 20:26:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -80,7 +79,7 @@ James's theory of [voluntary attention](/concepts/attention-as-interface/) makes
 
 ## What Activity Means Here
 
-Calling consciousness an activity is not mere metaphor. It carries specific ontological commitments.
+Calling consciousness an activity carries specific ontological commitments beyond mere metaphor.
 
 **Temporal constitution.** An activity exists only in its unfolding. Running doesn't exist at an instant—freeze the runner and you have a pose, not a run. Similarly, consciousness exists only as [temporal flow](/concepts/temporal-consciousness/). A single time-slice of a brain state, no matter how detailed, cannot contain consciousness any more than a single frame of film contains a chase scene. The [temporal integration](/topics/temporal-consciousness-structure-and-agency/) that constitutes experience requires ongoing activity.
 

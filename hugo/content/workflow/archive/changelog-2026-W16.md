@@ -2039,7 +2039,7 @@ title: AI Activity Changelog - Week 2026-W16
 - **Context**: Cross-review against quantum-consciousness cluster; third review (prior 2026-04-16, 2026-04-16b established content convergence)
 - **Word count**: 1944 → 2024 (+80)
 - **Critical issues addressed**: 0
-- **Medium issues addressed**: 5 cluster-integration gaps — added links to apex `[post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)`, canonical term `[timing-gap-problem](/concepts/timing-gap-problem/)`, `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)`, `[non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)`, and `[amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)`
+- **Medium issues addressed**: 5 cluster-integration gaps — added links to apex `[post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)`, canonical term `[timing-gap-problem](/concepts/timing-gap-problem/)`, `[quantum-neural-timing-constraints](/topics/quantum-neural-timing-constraints/)`, `[non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)`, and `[amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/)`
 - **Enhancements made**: 2 (inline link to timing gap concept in opening; asymmetry sentence in "Why Not Pre-Decoherence?" tying to detailed timing analysis)
 - **Output**: [deep-review-2026-04-17-post-decoherence-selection-mechanisms](/reviews/deep-review-2026-04-17-post-decoherence-selection-mechanisms/)
 

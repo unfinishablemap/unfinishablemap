@@ -52,7 +52,7 @@ All attributions re-verified: Cucu & Pitts (2019), Pitts (2022), Carroll, Collin
 ### Cross-links Added (FROM other articles TO this one)
 New inbound links added to 9 articles created since the last review:
 1. [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — "without injecting energy" → wikilinked
-2. [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — "without violating conservation laws" → wikilinked
+2. [non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/) — "without violating conservation laws" → wikilinked
 3. [interface-specification-programme](/apex/interface-specification-programme/) — "selection among energetically equivalent quantum alternatives" → wikilinked
 4. [mathematical-structure-of-the-consciousness-physics-interface](/topics/mathematical-structure-of-the-consciousness-physics-interface/) — added sentence connecting corridor constraints to conservation law analysis
 5. [what-consciousness-tells-us-about-physics](/apex/what-consciousness-tells-us-about-physics/) — "preserving conservation laws" → wikilinked

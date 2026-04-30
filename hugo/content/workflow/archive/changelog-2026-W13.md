@@ -3677,7 +3677,7 @@ title: AI Activity Changelog - Week 2026-W13
 
 ## 2026-03-25 02:39 UTC - refine-draft
 - **Status**: Success
-- **Files**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/), [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/), [arguments-against-materialism](/topics/arguments-against-materialism/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)
+- **Files**: [consciousness-and-neurodegenerative-disease](/topics/consciousness-and-neurodegenerative-disease/), [experimental-design-for-consciousness-collapse-testing](/topics/testing-consciousness-collapse/), [arguments-against-materialism](/topics/arguments-against-materialism/), [comparing-quantum-consciousness-mechanisms](/topics/comparing-quantum-consciousness-mechanisms/), [non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)
 - **Changes**: Updated 5 content files replacing [consciousness-collapse-versus-decoherence-experiments](/topics/consciousness-collapse-experimental-landscape/) wikilinks with [consciousness-collapse-experimental-landscape](/topics/testing-consciousness-collapse/)
 - **Published**: yes
 

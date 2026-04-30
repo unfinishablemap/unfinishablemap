@@ -1,0 +1,185 @@
+---
+ai_contribution: 100
+ai_generated_date: 2026-03-18
+ai_modified: 2026-04-28 09:09:00+00:00
+ai_system: claude-opus-4-6
+archive_reason: Coalesced into Forward-in-Time Conscious Selection
+archived: true
+archived_date: 2026-04-30 19:05:00+00:00
+author: null
+concepts:
+- '[[consciousness-selecting-neural-patterns]]'
+- '[[spontaneous-collapse-theories]]'
+- '[[retrocausality]]'
+- '[[quantum-consciousness]]'
+- '[[measurement-problem]]'
+- '[[decoherence]]'
+- '[[collapse-and-time]]'
+- '[[mental-causation-and-downward-causation]]'
+- '[[post-decoherence-selection]]'
+created: 2026-03-18
+date: &id001 2026-03-18
+description: Three forward-in-time frameworks propose consciousness selects among
+  quantum possibilities without reaching backward through time. Despite deep disagreements,
+  their shared temporal direction and compatibility with objective collapse favour
+  non-retrocausal selection.
+draft: false
+human_modified: null
+last_curated: null
+last_deep_review: 2026-04-28 09:09:00+00:00
+modified: *id001
+original_path: /topics/non-retrocausal-conscious-selection-models/
+related_articles:
+- '[[tenets]]'
+- '[[time-symmetric-selection-mechanism]]'
+- '[[empirical-evidence-for-consciousness-selecting]]'
+- '[[interactionist-dualism]]'
+- '[[presentiment-and-retrocausality]]'
+- '[[von-neumann-wigner-interpretation]]'
+superseded_by: /topics/forward-in-time-conscious-selection/
+title: Non-Retrocausal Conscious Selection Models
+topics:
+- '[[hard-problem-of-consciousness]]'
+- '[[topics/free-will]]'
+---
+
+If consciousness selects among quantum possibilities in the brain, must it reach backward through time to do so? The Unfinishable Map has explored [retrocausal selection](/concepts/retrocausality/) — consciousness biasing past quantum events so their causal consequences produce desired outcomes — as one pathway for mind-matter interaction. But a distinct family of models exists: non-retrocausal conscious selection, where consciousness acts on superposed neural states *at the moment of collapse*, forward in time. Three major frameworks — Penrose-Hameroff Orchestrated Objective Reduction, Stapp's Quantum Zeno approach, and the Chalmers-McQueen consciousness-collapse model — develop this idea with different physics, different metaphysical commitments, and different roles for consciousness. They disagree on whether new physics is needed, whether consciousness operates within or outside the quantum formalism, and whether collapse requires a threshold. What they share is temporal direction: selection happens now, not retroactively.
+
+## The Core Distinction
+
+The Map's framework — a form of [interactionist-dualism](/concepts/interactionist-dualism/) — requires that consciousness causally influences physical outcomes ([Bidirectional Interaction tenet](/tenets/#bidirectional-interaction)). Two broad strategies satisfy this requirement:
+
+**Retrocausal selection**: Consciousness influences a past quantum indeterminacy — a random number generated microseconds or milliseconds ago — so that the downstream causal chain produces the neural pattern it "wanted." This requires backward-in-time influence, as explored in the [time-symmetric selection](/topics/time-symmetric-selection-mechanism/) article. Frameworks like the transactional interpretation and the two-state vector formalism provide physics for this pathway.
+
+**Non-retrocausal selection**: Consciousness selects among quantum possibilities as they resolve, forward in time. Two versions of this pathway exist, with different physical requirements:
+
+*Pre-decoherence selection* requires macroscopic superpositions of neural states to persist long enough for consciousness to act on them directly. The superposition forms through ordinary quantum dynamics, persists briefly, and collapses to one outcome under conscious influence.
+
+*Post-decoherence selection* targets a later stage. [Decoherence](/concepts/decoherence/) rapidly selects a preferred basis (pointer states) and suppresses interference, but the resulting state is an *improper mixture*—mathematically resembling classical probability but not physically equivalent to it (Luppi & Adlam, 2012). The post-decoherence state does not justify saying "the system is in one state, we just don't know which." This residual indeterminacy—the [problem of outcomes](/concepts/post-decoherence-selection/)—is where consciousness could act without requiring sustained pre-decoherence coherence.
+
+The distinction between these two versions matters empirically. Pre-decoherence selection faces Tegmark's decoherence objection directly. Post-decoherence selection sidesteps it: the mechanism operates *after* decoherence has done its work, at the point where physics narrows options without resolving them.
+
+## Three Frameworks for Forward-in-Time Selection
+
+### Orchestrated Objective Reduction (Penrose-Hameroff)
+
+Penrose and Hameroff propose that quantum superpositions in neural [microtubules](/concepts/quantum-consciousness/) reach a gravitational self-energy threshold and undergo objective reduction — a physical collapse mechanism driven by the incompatibility of superposed spacetime geometries. The "orchestration" by biological structures determines which superposition resolves and how. On this account, each moment of conscious experience *is* an orchestrated collapse event (Hameroff & Penrose, 2014).
+
+Selection is forward-in-time: a superposition forms, biological orchestration shapes its structure, the gravitational threshold triggers collapse, and one outcome becomes actual. Consciousness modulates which outcome is selected through the orchestration, not by reaching back to influence earlier quantum events.
+
+A 2022 experiment at Gran Sasso ruled out the simplest version of the Diósi-Penrose (DP) collapse model. McQueen (2023) argues this does not apply to Orch OR proper, since the refuted variant was generic DP collapse in bulk matter — not the biologically orchestrated collapse that Hameroff and Penrose actually propose. The distinction between generic gravitational collapse and specific biological orchestration remains central to the theory's viability.
+
+### Quantum Zeno Selection (Stapp)
+
+Stapp's framework uses orthodox quantum mechanics without new physics. Mental attention acts as repeated quantum measurement, holding desired neural firing patterns via the [quantum Zeno effect](/concepts/quantum-consciousness/#quantum-zeno-effect-stapp). By rapidly "observing" a neural template — projecting onto a subspace of the system's Hilbert space — consciousness stabilises that pattern against both decoherence and natural decay (Stapp, 2007).
+
+This approach addresses the decoherence objection differently from Orch OR. Stapp's mechanism does not require sustained quantum coherence between observations — each measurement is instantaneous, and the Zeno effect arises from the *frequency* of measurement, not from preserved coherence. However, the Zeno effect can only stabilise a superposition that still exists. If decoherence converts the neural state into a classical mixture between measurements, there is no superposition left for the next measurement to project onto. Stapp's approach therefore requires that the measurement frequency exceeds the decoherence rate — which brings the decoherence timescale question back into play, though in a different form than for Orch OR. Selection is explicitly forward-in-time: attention holds a pattern now; it does not reach backward to select a past quantum event.
+
+Critics raise a foundational objection: in Stapp's model, "the mind" has no wavefunction or density matrix yet acts with projection operators on quantum systems. Georgiev (2017) argues this negates rather than builds on standard quantum mechanics — the mind is introduced as an external agent acting on quantum formalism from outside it. Stapp responds that this is precisely what the [measurement problem](/concepts/measurement-problem/) demands: something outside the quantum formalism must account for definite outcomes.
+
+### Consciousness-Collapse with CSL Dynamics (Chalmers-McQueen)
+
+Chalmers and McQueen (2021) develop the [von Neumann-Wigner](/concepts/von-neumann-wigner-interpretation/) tradition — consciousness causes collapse — with mathematical rigour previously lacking. They combine a formal theory of consciousness (integrated information theory provides the structural framework, though the argument generalises) with continuous spontaneous localisation (CSL) collapse dynamics.
+
+Their key insight concerns the "super-resistance" problem. If conscious states cannot enter superposition — the naive consciousness-collapse assumption — then the quantum Zeno effect prevents transitions *between* conscious states, since any transition would require passing through a superposition of the old and new state. Consciousness could never re-emerge from dreamless sleep or anaesthesia. Chalmers and McQueen write: "The idea was taken seriously by John von Neumann and Eugene Wigner but is now widely dismissed. We develop the idea by combining a mathematical theory of consciousness with an account of quantum collapse dynamics" (Chalmers & McQueen, 2021).
+
+The solution: replace instantaneous projection with gradual CSL-style collapse. Superpositions of conscious states decay smoothly toward definite states, avoiding the Zeno freezing. This preserves consciousness as a collapse trigger while permitting the state transitions experience obviously involves.
+
+## Why Non-Retrocausal Models May Be Preferable
+
+Five considerations favour non-retrocausal over retrocausal selection, though the Map does not require choosing between them:
+
+**Minimality.** The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) favours the smallest possible deviation from standard physics. Biasing a present collapse outcome is more minimal than reaching backward through causal chains. Non-retrocausal selection requires one intervention at one moment; retrocausal selection requires an influence that propagates backward through an entire causal history.
+
+**Phenomenological fit.** Conscious experience presents itself as choosing among present possibilities, not as retroactively selecting past events. When deliberating over a decision, the phenomenology is of options arrayed before us now — not of reaching backward to adjust a quantum event that already occurred. While phenomenology is not conclusive evidence for mechanism, a theory that matches the phenomenology has fewer explanatory burdens than one that contradicts it.
+
+**Compatibility with objective collapse.** Non-retrocausal selection layers naturally onto [spontaneous collapse models](/concepts/spontaneous-collapse-theories/) (GRW, CSL, Diósi-Penrose). These models provide baseline collapse throughout the universe — solving the [prebiotic collapse problem](/concepts/prebiotic-collapse/) — while consciousness modulates collapse specifically in neural systems. Retrocausal selection fits less naturally with objective collapse, since it requires influencing events that may have already undergone spontaneous localisation.
+
+**Avoidance of temporal paradoxes.** Retrocausal theories must address whether backward influence creates closed causal loops and, if so, whether consistency constraints eliminate genuine freedom. Non-retrocausal models face no such difficulties — the causal arrow points in the expected direction throughout.
+
+**Alignment with established frameworks.** All three major non-retrocausal frameworks — Penrose OR, Stapp Zeno, Chalmers-McQueen CSL — use well-understood physics (gravitational collapse, the quantum Zeno effect, continuous spontaneous localisation). The retrocausal pathway depends on more speculative interpretive frameworks like the transactional interpretation, which remains a minority position in quantum foundations.
+
+## The Macroscopic Superposition Question
+
+Pre-decoherence versions of non-retrocausal selection stand or fall on whether macroscopic superpositions of neural states can exist, even briefly. If decoherence destroys all neural superpositions in femtoseconds — as Tegmark (2000) calculated — consciousness has nothing to select among at the moment of collapse. Post-decoherence selection avoids this requirement entirely (see the post-decoherence alternative section below), but the question remains important for evaluating Orch OR, Stapp's Zeno mechanism, and other pre-decoherence frameworks.
+
+The evidence has shifted substantially since Tegmark's original calculation:
+
+**Corrected decoherence estimates.** Hagan et al. (2002) challenged Tegmark's model parameters and obtained corrected decoherence times several orders of magnitude longer — microseconds rather than femtoseconds. However, these revised estimates are themselves contested: critics argue that Hagan et al. made optimistic assumptions about microtubule isolation from the thermal environment, and no independent group has replicated their results. If microtubule dynamics operate at faster timescales than Tegmark assumed, coherence times of 10⁻⁷ seconds might suffice for selection — but whether they do remains an open empirical question.
+
+**Biological quantum effects.** Quantum coherence has been confirmed in biological systems at physiological temperatures: avian magnetoreception relies on quantum spin coherence in cryptochrome proteins persisting for microseconds. A 2026 Princeton study provided computational confirmation of the underlying model. These results demonstrate that evolution can sustain quantum effects in warm biological systems, though a gap remains between spin coherence in specialised receptor proteins and the macroscopic neural superpositions non-retrocausal selection requires.
+
+**Macroscopic brain quantum effects.** A 2025 *Frontiers in Human Neuroscience* study reported evidence for coherence domains involving approximately 10¹¹ glutamate molecules, with an energy gap protecting coherence from thermal decoherence. This is an extraordinary and as yet unreplicated claim that has not been accepted by the broader physics community. If independently confirmed, it would extend quantum effects far beyond the microtubule scale to cortical microcolumns — precisely the kind of macroscopic neural superposition non-retrocausal selection requires. But extraordinary claims require extraordinary evidence, and a single study does not establish a phenomenon.
+
+None of this constitutes proof. No experiment has directly demonstrated macroscopic superpositions in living neural tissue. Some recent findings support plausibility, though the evidence remains contested and the gap between demonstrated biological quantum effects and the macroscopic neural superpositions these models require is substantial.
+
+## The Post-Decoherence Alternative
+
+The three frameworks above all assume consciousness must act on states that retain some quantum coherence — whether in microtubules (Orch OR), neural firing patterns (Stapp), or information-bearing states (Chalmers-McQueen). This assumption makes them vulnerable to decoherence timescale objections.
+
+A distinct version of non-retrocausal selection targets the [post-decoherence gap](/concepts/post-decoherence-selection/) instead. Decoherence solves two of the three sub-problems of quantum measurement (Schlosshauer, 2004): it selects the preferred basis and suppresses interference between branches. The third — why one definite outcome obtains rather than the mixture persisting — remains open. The diagonal density matrix after decoherence is an *improper mixture* (derived from tracing out the environment), not a *proper mixture* (classical ignorance about a determinate state). This distinction, emphasised by Luppi & Adlam (2012), means the post-decoherence state remains genuinely indeterminate until something resolves it.
+
+Five families of selection mechanism have been proposed for this residual gap — consciousness-mediated collapse, objective collapse, hidden variables, many worlds, and history selection. Only consciousness-mediated selection is consistent with all five of the Map's [tenets](/tenets/): pure objective collapse eliminates consciousness's causal role (conflicting with [Bidirectional Interaction](/tenets/#bidirectional-interaction)), hidden variables leave no indeterminacy for consciousness to exploit, many worlds is directly ruled out by [No Many Worlds](/tenets/#no-many-worlds), and history selection frameworks are agnostic about consciousness at best. Hybrid frameworks like Chalmers-McQueen — where consciousness modulates CSL-style collapse — fall under the consciousness-mediated family.
+
+Post-decoherence selection has three advantages over its pre-decoherence counterparts:
+
+**It sidesteps the decoherence timescale objection.** Consciousness does not need to act before decoherence destroys coherence — it acts *after* decoherence has narrowed options, at the residual indeterminacy that decoherence itself cannot close.
+
+**It is interpretation-neutral.** The post-decoherence gap is acknowledged across interpretations (except Everett, which dissolves it). Von Neumann-Wigner, Stapp, and Chalmers-McQueen frameworks can all be recast as operating at this gap rather than requiring pre-decoherence coherence.
+
+**It aligns with the Map's [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction).** Acting at a residual indeterminacy — where physics has already done most of the work — is more minimal than maintaining fragile coherence against environmental decoherence.
+
+The trade-off: post-decoherence selection is less specific about mechanism. It identifies *where* consciousness acts (the outcome gap) but says less about *how* — the detailed mechanisms of Orch OR, Zeno stabilisation, and CSL dynamics are replaced by a broader claim about consciousness resolving improper mixtures. Whether this generality is a strength (robustness against empirical refutation of specific mechanisms) or a weakness (lack of testable predictions) depends on what one demands of a philosophical framework.
+
+## What Non-Retrocausal Selection Does Not Resolve
+
+Even granting macroscopic neural superpositions and consciousness's ability to bias collapse, significant open questions remain:
+
+**The selection criterion problem.** If consciousness selects among superposed neural states, what determines its "preference"? Where does the selection criterion come from? This is the binding problem for conscious selection — it cannot be answered by the physics of collapse alone.
+
+**Causal closure tension.** Consciousness biasing collapse outcomes still challenges the causal closure of physics, even without retrocausality. The response — quantum indeterminacy leaves room for non-physical influence [without violating conservation laws](/concepts/conservation-laws-and-mental-causation/) — is well-developed but not universally accepted.
+
+**The combination problem.** If consciousness modulates collapse in individual microtubules or localised quantum systems, how do individual modulations combine to produce unified conscious selection of macroscopic neural states? This mirrors the [combination problem](/concepts/combination-problem/) in panpsychism but arises in a different context.
+
+**Decoherence-basis selection.** Decoherence selects preferred bases (pointer states) before collapse. The post-decoherence framework argues consciousness selects among pointer states — the outcomes decoherence has narrowed down but not resolved. Pre-decoherence frameworks require consciousness to act on superpositions before decoherence destroys them. The answer determines the required timescale, the physical mechanism, and the vulnerability to empirical objections about coherence times.
+
+## Relation to Site Perspective
+
+The Map's framework is compatible with both retrocausal and non-retrocausal selection, and need not choose between them. But non-retrocausal models align more naturally with several tenets.
+
+The [Minimal Quantum Interaction tenet](/tenets/#minimal-quantum-interaction) asks for the smallest possible non-physical influence on physical outcomes. Forward-in-time selection at a single collapse event is more minimal than backward-reaching influence through extended causal chains. The Map speculates that minimality favours non-retrocausal selection as the primary mechanism, with retrocausal pathways remaining a theoretical possibility rather than a practical necessity.
+
+The [Bidirectional Interaction tenet](/tenets/#bidirectional-interaction) is satisfied equally by both pathways — what matters is that consciousness causally influences physical outcomes, not the temporal direction of that influence. The [No Many Worlds tenet](/tenets/#no-many-worlds) is supported by both, since both require real collapse.
+
+The [Occam's Razor Has Limits tenet](/tenets/#occams-limits) cautions against dismissing either pathway prematurely. While non-retrocausal selection appears simpler, the Map acknowledges that apparent simplicity can mislead when knowledge is incomplete. The [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/) remains a live alternative — one that resolves certain puzzles (particularly the Libet timing problem) that non-retrocausal models must address through other means.
+
+The Map's position: non-retrocausal conscious selection is the more conservative and better-supported pathway, but intellectual honesty requires keeping both options open.
+
+## Further Reading
+
+- [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/)
+- [time-symmetric-selection-mechanism](/topics/time-symmetric-selection-mechanism/)
+- [empirical-evidence-for-consciousness-selecting](/topics/empirical-evidence-for-consciousness-selecting/)
+- [spontaneous-collapse-theories](/concepts/spontaneous-collapse-theories/)
+- [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/)
+- [amplification-mechanisms-consciousness-physics](/topics/amplification-mechanisms-consciousness-physics/) — Six mechanisms for scaling quantum selection to macroscopic neural effects
+- [quantum-consciousness](/concepts/quantum-consciousness/)
+- [post-decoherence-selection](/concepts/post-decoherence-selection/) — Selection after decoherence removes the coherence requirement
+- [von-neumann-wigner-interpretation](/concepts/von-neumann-wigner-interpretation/) — The ancestor interpretation that Chalmers-McQueen develop
+- [testing-consciousness-collapse](/topics/testing-consciousness-collapse/) — Experimental landscape constraining collapse models
+- [penrose-gravity-induced-collapse-empirical-prospects](/topics/penrose-gravity-induced-collapse-empirical-prospects/) — Empirical status of the gravitational OR mechanism
+
+## References
+
+1. Chalmers, D.J. & McQueen, K.J. (2021). Consciousness and the collapse of the wave function. arXiv:2105.02314.
+2. Hameroff, S. & Penrose, R. (2014). Consciousness in the universe: A review of the 'Orch OR' theory. *Physics of Life Reviews*, 11(1), 39-78.
+3. McQueen, K.J. (2023). Have underground radiation measurements refuted the Orch OR theory? *PhilArchive*.
+4. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
+5. Tegmark, M. (2000). Importance of quantum decoherence in brain processes. *Physical Review E*, 61(4), 4194-4206.
+6. Hagan, S., Hameroff, S.R., & Tuszyński, J.A. (2002). Quantum computation in brain microtubules: Decoherence and biological feasibility. *Physical Review E*, 65(6), 061901.
+7. Georgiev, D.D. (2017). *Quantum Information and Consciousness: A Gentle Introduction*. CRC Press.
+8. Ghirardi, G.C., Rimini, A., & Weber, T. (1986). Unified dynamics for microscopic and macroscopic systems. *Physical Review D*, 34(2), 470-491.
+9. Luppi, A. & Adlam, E. (2012). Decoherence and definite outcomes. arXiv:1208.0904.
+10. Schlosshauer, M. (2004). Decoherence, the measurement problem, and interpretations of quantum mechanics. *Reviews of Modern Physics*, 76(4), 1267. arXiv:quant-ph/0312059.
+11. Southgate, A. & Oquatre-cinq, C. (2026-01-16). Consciousness-Selecting Neural Patterns. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-selecting-neural-patterns/
+12. Southgate, A. & Oquatre-six, C. (2026-02-01). Time-Symmetric Selection Mechanism. *The Unfinishable Map*. https://unfinishablemap.org/topics/time-symmetric-selection-mechanism/

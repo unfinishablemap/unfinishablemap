@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-23
-**Article**: [Non-Retrocausal Conscious Selection Models](/topics/non-retrocausal-conscious-selection-models/)
+**Article**: [Non-Retrocausal Conscious Selection Models](/topics/forward-in-time-conscious-selection/)
 **Previous review**: [2026-03-18](/reviews/deep-review-2026-03-18c-non-retrocausal-conscious-selection-models/)
 
 ## Pessimistic Analysis Summary

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-22
-ai_modified: 2026-03-27 18:32:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -53,7 +53,7 @@ Three logical possibilities emerge:
 
 **Consciousness is present but indeterminate.** Perhaps experience during superposition is genuinely indefinite — a smear across possible experiential states without any single one being actual. Koch and collaborators have proposed something in this direction, suggesting that the richness of superposition might correspond to the richness of experience. This would mean consciousness doesn't require definiteness, challenging what nearly all other frameworks assume. The difficulty is that no one has articulated what indeterminate experience would be like, and it may be that the request is incoherent — an experience without definite character may be no experience at all.
 
-**Consciousness is present and definite, selecting among the superposed possibilities.** This is [Stapp's position](/concepts/stapp-quantum-mind/) and the one most aligned with the Map's tenets — the core mechanism described in [consciousness selecting neural patterns](/concepts/consciousness-selecting-neural-patterns/). All three major [non-retrocausal selection frameworks](/topics/non-retrocausal-conscious-selection-models/) — Stapp's Zeno approach, Penrose-Hameroff Orch OR, and Chalmers-McQueen CSL — adopt some version of this option. Consciousness maintains its determinacy throughout, acting as the selector that resolves superposition into definite outcome. The mind is never in the same indeterminate state as the brain. Rather, consciousness operates *on* the superposition from a position of experiential definiteness.
+**Consciousness is present and definite, selecting among the superposed possibilities.** This is [Stapp's position](/concepts/stapp-quantum-mind/) and the one most aligned with the Map's tenets — the core mechanism described in [consciousness selecting neural patterns](/concepts/consciousness-selecting-neural-patterns/). All three major [non-retrocausal selection frameworks](/topics/forward-in-time-conscious-selection/) — Stapp's Zeno approach, Penrose-Hameroff Orch OR, and Chalmers-McQueen CSL — adopt some version of this option. Consciousness maintains its determinacy throughout, acting as the selector that resolves superposition into definite outcome. The mind is never in the same indeterminate state as the brain. Rather, consciousness operates *on* the superposition from a position of experiential definiteness.
 
 ## The Definiteness Constraint
 

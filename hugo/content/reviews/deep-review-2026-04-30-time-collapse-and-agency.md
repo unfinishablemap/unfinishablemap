@@ -38,7 +38,7 @@ No qualifier drops, no source/Map conflation, no self-contradiction.
 
 1. **Missing cross-link to non-retrocausal selection alternatives**
    - *Issue*: A 2026-03-18 Map article (`non-retrocausal-conscious-selection-models`) explicitly compares retrocausal and forward-in-time selection pathways and argues that non-retrocausal models may be preferable on five grounds. This article commits firmly to the retrocausal/atemporal frame without acknowledging that the Map also explores alternatives. A reader could reasonably infer that this article speaks for the entire Map on selection mechanism, when it actually develops one branch of a wider comparative framework.
-   - *Resolution*: Added a brief acknowledgment in "The Framework's Temporal Commitments" — one sentence noting the Map also explores forward-in-time alternatives (Penrose-Hameroff, Stapp, Chalmers-McQueen) and that this article develops the retrocausal/atemporal route in detail because it most tightly couples agency to time's structure. Added cross-link to `[non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)` in frontmatter `related_articles` and Further Reading.
+   - *Resolution*: Added a brief acknowledgment in "The Framework's Temporal Commitments" — one sentence noting the Map also explores forward-in-time alternatives (Penrose-Hameroff, Stapp, Chalmers-McQueen) and that this article develops the retrocausal/atemporal route in detail because it most tightly couples agency to time's structure. Added cross-link to `[non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)` in frontmatter `related_articles` and Further Reading.
 
 2. **Missing cross-link to non-temporal-consciousness**
    - *Issue*: The article's core thesis — that consciousness constitutes time rather than inhabiting it — directly resonates with Husserl's absolute flow as treated in `non-temporal-consciousness` (created 2026-02-10, recently modified). The cessation/jhāna evidence in this article's Contemplative Evidence section is precisely the phenomenological data that the non-temporal-consciousness article analyses metaphysically. Missing this cross-link leaves a major thematic connection invisible.
@@ -72,7 +72,7 @@ No new counterarguments. Major objections (illusionism, decoherence, MWI) remain
 
 ### Cross-links Added
 
-- `[non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/)` (frontmatter + Further Reading)
+- `[non-retrocausal-conscious-selection-models](/topics/forward-in-time-conscious-selection/)` (frontmatter + Further Reading)
 - `[non-temporal-consciousness](/topics/non-temporal-consciousness/)` (frontmatter + Further Reading)
 
 ## Remaining Items

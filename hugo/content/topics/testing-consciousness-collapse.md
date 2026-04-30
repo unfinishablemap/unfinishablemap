@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-23 15:29:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ related_articles:
 - '[[born-rule-and-the-consciousness-interface]]'
 - '[[born-rule-violation-brain-interface-empirical-status]]'
 - '[[penrose-gravity-induced-collapse-empirical-prospects]]'
-- '[[non-retrocausal-conscious-selection-models]]'
+- '[[forward-in-time-conscious-selection]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[quantum-measurement-and-consciousness]]'
