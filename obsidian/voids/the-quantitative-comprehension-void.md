@@ -4,7 +4,7 @@ description: "A structural family of cognitive limits—cardinality, magnitudes,
 created: 2026-02-02
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T03:40:00+00:00
+ai_modified: 2026-04-30T03:56:00+00:00
 last_deep_review: 2026-04-30T03:40:00+00:00
 draft: false
 topics:
@@ -115,7 +115,7 @@ The void plausibly constrains the Map's own methodology, treated here as regulat
 
 **[[tenets#^no-many-worlds|No Many Worlds]]** connects through the incomprehensibility of infinite branching. Our commitment to singular, indexical identity may partly reflect the cognitive impossibility of conceiving ourselves as infinitely duplicated across branches whose weights would themselves require probability and transfinite-magnitude intuition we lack.
 
-If the limits arise from our particular evolutionary history, differently embodied minds might have different limits, or none. A being with a million-year lifespan might intuit deep time as we intuit days. A being whose perceptual systems sampled stochastic processes directly might experience probabilities as we experience colours. The void is not a feature of reality but of how our form of consciousness interfaces with it.
+If the limits arise from our particular evolutionary history, differently embodied minds might have different limits, or none. A being with a million-year lifespan might intuit deep time as we intuit days. A being whose perceptual systems sampled stochastic processes directly might experience probabilities as we experience colours. The void describes our form of consciousness's interface with reality rather than a property of reality itself.
 
 ## What Would Challenge This View?
 

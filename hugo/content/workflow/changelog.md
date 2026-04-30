@@ -1,13 +1,31 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 03:25:00+00:00
+ai_modified: 2026-04-30 03:56:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 03:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
+- **Word count**: 2987 → 2987 (length-neutral)
+- **Context**: Task queued to address pessimistic-2026-04-30 findings *after* the deep-review on the same file. The 03:40 UTC deep-review absorbed all 10 pessimistic-flagged issues (architectural-unity downgrade, output/operation contrast, AI overstatements, Pirahã contestation, introspective-ceiling regulative framing, falsification conditions, functionalist standoff, Cantor/CH, Boolean Pythagorean figure, Kant inversion). Deep-review explicitly marks article stable and reserves any further pass to "strictly length-neutral or trimming."
+- **Changes applied**: 1 single-line writing-style fix on the closing speculative paragraph — "The void is not a feature of reality but of how our form of consciousness interfaces with it" → "The void describes our form of consciousness's interface with reality rather than a property of reality itself." Removes the proscribed "X is not A but B" LLM-cliché construct (writing-style.md) without altering the philosophical claim.
+- **Issues left unaddressed**: None — all pessimistic findings absorbed by the deep-review; no new issues surfaced on this pass.
+- **Published**: yes
+
+## 2026-04-30 03:40 UTC - deep-review
+- **Status**: Success
+- **File**: [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
+- **Word count**: 2784 → 2987 (+203; 149% of soft 2000, under hard 3000)
+- **Critical issues addressed**: 0 (no factual errors or attribution issues; all pessimistic-flagged issues were structural/medium)
+- **Medium issues addressed**: 10 (architectural-unity claim downgraded to structural family; output/operation tautology fixed with effortful-counting contrast; AI section overstatements softened; Pirahã contestation flagged with Nevins et al. citation; introspective-ceiling scope restricted to perceptual items with regulative framing; falsification conditions replaced with genuinely risky empirical conditions; functionalist standoff named as bedrock with intrinsic/non-relational claim explicit; Cantor passage de-tied from CH dependence; Boolean Pythagorean Triples figure de-overstated; Kant's positive moral explicitly flagged as declined)
+- **Enhancements made**: 4 (face-by-face mapping in Mixed Classification; ancestral-envelope post-hoc framing flagged; Brouwer "retreat" balanced with classical reading; Sedlmeier & Gigerenzer 2001 added as sharper citation for "minimal protection" claim)
+- **Output**: [deep-review-2026-04-30-the-quantitative-comprehension-void](/reviews/deep-review-2026-04-30-the-quantitative-comprehension-void/)
 
 ## 2026-04-30 03:25 UTC - deep-review
 - **Status**: Success
