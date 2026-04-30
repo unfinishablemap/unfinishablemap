@@ -4,7 +4,7 @@ description: "The consciousness-causes-collapse interpretation of quantum mechan
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-04-28T06:27:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -132,7 +132,7 @@ Each of these articles invokes the *weaker-than-headline disclosure* described i
 - [[multi-mind-collapse-problem]] — The multi-observer coordination challenge
 - [[coupling-modes]] — How consciousness couples to physics: basis, timing, and probability control
 - [[consciousness-physics-interface-formalism]] — Formal framework for the consciousness–physics coupling
-- [[non-retrocausal-conscious-selection-models]] — Comparative analysis of three forward-in-time frameworks (Orch OR, Stapp Zeno, Chalmers-McQueen)
+- [[forward-in-time-conscious-selection]] — Comparative analysis of three forward-in-time frameworks (Orch OR, Stapp Zeno, Chalmers-McQueen)
 - [[spontaneous-collapse-theories]] — Objective collapse as baseline mechanism
 - [[brain-interface-boundary]] — Why consciousness acts only on its own brain's quantum events
 - [[indexical-identity-quantum-measurement]] — The indexical gap: why *this* consciousness experiences *this* collapsed outcome

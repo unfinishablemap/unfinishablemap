@@ -4,7 +4,7 @@ description: "Causation outside temporal sequence — consciousness selects whic
 created: 2026-02-14
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-03-25T13:59:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[tenets]]"
   - "[[time-symmetric-selection-mechanism]]"
   - "[[time-collapse-and-agency]]"
-  - "[[non-retrocausal-conscious-selection-models]]"
+  - "[[forward-in-time-conscious-selection]]"
   - "[[interactionist-dualism]]"
 ai_contribution: 100
 author:
@@ -40,7 +40,7 @@ coalesced_from:
 
 Atemporal causation is causation that does not operate within temporal sequence. Where ordinary causation flows from earlier events to later ones, atemporal causation determines which temporal sequence becomes actual without itself being located at any point in that sequence. The Unfinishable Map's framework draws on this concept to explain how consciousness can select quantum outcomes even when neural activity precedes conscious awareness — the selection isn't late because it isn't at a time at all.
 
-This concept matters because the standard objection to [[interactionist-dualism|interactionist dualism]] assumes causation must be temporally ordered. [[libet-experiments|Libet experiments]] show neural readiness potentials preceding conscious awareness by hundreds of milliseconds. If causes must precede effects, consciousness arrives too late to be the cause. Atemporal causation dissolves this objection: a cause that isn't located in time cannot be "too late." The Map develops this as one of two pathways for the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]], alongside [[non-retrocausal-conscious-selection-models|non-retrocausal selection]] which acts on present superpositions at the moment of collapse.
+This concept matters because the standard objection to [[interactionist-dualism|interactionist dualism]] assumes causation must be temporally ordered. [[libet-experiments|Libet experiments]] show neural readiness potentials preceding conscious awareness by hundreds of milliseconds. If causes must precede effects, consciousness arrives too late to be the cause. Atemporal causation dissolves this objection: a cause that isn't located in time cannot be "too late." The Map develops this as one of two pathways for the [[tenets#^bidirectional-interaction|Bidirectional Interaction tenet]], alongside [[forward-in-time-conscious-selection|non-retrocausal selection]] which acts on present superpositions at the moment of collapse.
 
 ## Distinguishing Atemporal from Retrocausal
 
@@ -113,7 +113,7 @@ Standard consciousness-collapse models face a relativistic problem: if conscious
 
 ## Comparison with Non-Retrocausal Selection
 
-The Map develops both [[non-retrocausal-conscious-selection-models|non-retrocausal]] and atemporal pathways for conscious selection without requiring a final choice between them.
+The Map develops both [[forward-in-time-conscious-selection|non-retrocausal]] and atemporal pathways for conscious selection without requiring a final choice between them.
 
 | Feature | Non-Retrocausal | Atemporal |
 |---------|----------------|-----------|
@@ -198,7 +198,7 @@ Atemporal causation connects to each of the Map's tenets:
 
 - [[retrocausality]] — Physics of backward causation and the Libet resolution
 - [[consciousness-selecting-neural-patterns]] — How consciousness selects among neural configurations
-- [[non-retrocausal-conscious-selection-models]] — Detailed comparison of forward-in-time frameworks
+- [[forward-in-time-conscious-selection]] — Detailed comparison of forward-in-time frameworks
 - [[time-symmetric-selection-mechanism]] — The full selection mechanism using atemporal causation
 - [[collapse-and-time]] — How collapse introduces time's arrow
 - [[time-collapse-and-agency]] — Synthesis of time, collapse, and conscious agency

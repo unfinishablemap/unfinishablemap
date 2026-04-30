@@ -4,7 +4,7 @@ description: "Weak measurement extracts partial quantum information without full
 created: 2026-03-29
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-30T04:18:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -145,7 +145,7 @@ The [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the view that all ou
 - [[retrocausality]] — Backward causation in physics
 - [[measurement-problem]] — The problem weak measurement illuminates without solving
 - [[collapse-and-time]] — How collapse introduces time's arrow
-- [[non-retrocausal-conscious-selection-models]] — Alternative selection models that avoid retrocausality
+- [[forward-in-time-conscious-selection]] — Alternative selection models that avoid retrocausality
 
 ## References
 

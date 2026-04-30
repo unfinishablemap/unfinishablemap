@@ -4,7 +4,7 @@ description: "Consciousness and matter causally influence each other. This tenet
 created: 2026-01-23
 modified: 2026-01-24
 human_modified:
-ai_modified: 2026-04-23T06:38:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 last_deep_review: 2026-04-06T21:25:00+00:00
 draft: false
 topics:
@@ -75,7 +75,7 @@ Two concrete mechanisms have been proposed:
 
 **[[spontaneous-collapse-theories|Spontaneous collapse with consciousness modulation]]**: GRW and CSL theories provide baseline collapse that operates consciousness-independently, solving the prebiotic problem. Consciousness then *modulates* these processes in neural systems rather than wholly causing collapse.
 
-All three are [[non-retrocausal-conscious-selection-models|non-retrocausal]] — consciousness acts forward in time at the moment of collapse. They share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. This selective actualisation—reality concentrating determination where consciousness attends—is captured by [[adaptive-computational-depth|adaptive computational depth]], which argues that the allocator of detail must itself be non-computational. The specific [[coupling-modes|coupling mode]]—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
+All three are [[forward-in-time-conscious-selection|non-retrocausal]] — consciousness acts forward in time at the moment of collapse. They share what bidirectional interaction requires: consciousness selecting among outcomes physics leaves undetermined. This selective actualisation—reality concentrating determination where consciousness attends—is captured by [[adaptive-computational-depth|adaptive computational depth]], which argues that the allocator of detail must itself be non-computational. The specific [[coupling-modes|coupling mode]]—basis control, timing control, or probability control—varies between proposals, with Stapp emphasizing the first two and Penrose-Hameroff implying the third.
 
 For detailed specification of how phenomenal properties map to physical parameters, see [[psychophysical-laws]]. The attention mechanism is currently the most developed, with [[attention-as-interface|voluntary attention]] documenting the ~300ms deployment window and neural signatures (frontal theta, DLPFC/ACC activation) that distinguish willed from instructed attention.
 

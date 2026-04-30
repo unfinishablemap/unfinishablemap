@@ -4,7 +4,7 @@ description: "If consciousness is distinct from physics, fundamental laws must c
 created: 2026-01-26
 modified: 2026-02-07
 human_modified:
-ai_modified: 2026-04-16T08:06:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -142,7 +142,7 @@ The quantum Zeno effect provides amplification: rapid repeated observation preve
 
 **The decoherence objection**: Georgiev's (2015) Monte Carlo simulations showed the quantum Zeno effect breaks down for timescales exceeding brain decoherence time. If neural quantum states decohere in femtoseconds while attention operates at millisecond timescales, the Zeno mechanism cannot bridge the gap.
 
-**The post-decoherence concession**: If the Zeno mechanism fails at neural timescales, one fallback relocates consciousness's role to outcome determination after decoherence has already selected preferred bases—consciousness biases which possible outcome becomes actual (see [[post-decoherence-selection-mechanisms]] for the full treatment). This is a significant retreat: the original Zeno formulation made a specific, testable claim, while "consciousness selects among physically possible outcomes" is difficult to distinguish from "outcomes are stochastic." Three candidate discriminators have been proposed—systematic bias aligned with attentional goals, temporal correlation with reportable phenomenal states, and intervention asymmetry—but none is currently testable. The honest assessment: the specific version of Stapp's mechanism may not work, and the replacement does not yet generate discriminating predictions.
+**The post-decoherence concession**: If the Zeno mechanism fails at neural timescales, one fallback relocates consciousness's role to outcome determination after decoherence has already selected preferred bases—consciousness biases which possible outcome becomes actual (see [[forward-in-time-conscious-selection]] for the full treatment). This is a significant retreat: the original Zeno formulation made a specific, testable claim, while "consciousness selects among physically possible outcomes" is difficult to distinguish from "outcomes are stochastic." Three candidate discriminators have been proposed—systematic bias aligned with attentional goals, temporal correlation with reportable phenomenal states, and intervention asymmetry—but none is currently testable. The honest assessment: the specific version of Stapp's mechanism may not work, and the replacement does not yet generate discriminating predictions.
 
 ### Eccles' Intention as Quantum Tunneling Probability
 
@@ -240,7 +240,7 @@ The framework would face serious difficulty if (see also [[tenet-falsification-c
 - [[mysterianism]] — Whether consciousness may be cognitively closed to human understanding
 - [[pain-consciousness-and-causal-power]] — Pain's inseparable phenomenal-causal character as evidence for coupling
 - [[the-psychophysical-control-law]] — The formal structure a coupling law would need
-- [[post-decoherence-selection-mechanisms]] — How consciousness could select among already-decohered outcomes
+- [[forward-in-time-conscious-selection]] — How consciousness could select among already-decohered outcomes
 - [[tenet-falsification-conditions]] — What it would take to abandon the Map's foundational commitments
 - [[conservation-laws-and-mental-causation]] — Why selection without energy injection is consistent with conservation
 - [[causal-closure]] — The exclusion argument and quantum indeterminacy's opening

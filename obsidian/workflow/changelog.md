@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 19:05:00+00:00
+ai_modified: 2026-04-30 19:21:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 19:21 UTC - cross-review
+- **Status**: Success
+- **Task**: Repoint inbound wikilinks from coalesced selection-mechanism articles to [[topics/forward-in-time-conscious-selection]]
+- **Files modified**: 22 active content files — `concepts/atemporal-causation`, `concepts/bidirectional-interaction`, `concepts/consciousness-in-non-collapsed-quantum-states`, `concepts/consciousness-selecting-neural-patterns`, `concepts/quantum-consciousness`, `concepts/retrocausality`, `concepts/spontaneous-collapse-theories`, `concepts/stapp-quantum-mind`, `concepts/von-neumann-wigner-interpretation`, `concepts/weak-measurement-and-post-selection`, `topics/amplification-mechanisms-consciousness-physics`, `topics/comparing-quantum-consciousness-mechanisms`, `topics/decoherence-and-macroscopic-superposition`, `topics/penrose-gravity-induced-collapse-empirical-prospects`, `topics/psychophysical-laws-bridging-mind-and-matter`, `topics/quantum-biology-and-neural-consciousness`, `topics/quantum-measurement-and-consciousness`, `topics/quantum-neural-timing-constraints`, `topics/testing-consciousness-collapse`, `topics/time-collapse-and-agency`, `topics/time-symmetric-selection-mechanism`, `topics/trilemma-of-selection`
+- **Changes**: Replaced bare wikilink slugs `non-retrocausal-conscious-selection-models` and `post-decoherence-selection-mechanisms` with `forward-in-time-conscious-selection` in `related_articles` frontmatter, inline body wikilinks, and Further Reading lists. No deduplication required: no file held both source slugs in its `related_articles` list. The 23rd flagged file (`concepts/post-decoherence-selection`) contained only a research-note path inside an HTML comment — no wikilink to repoint. Apex `apex/post-decoherence-selection-programme` had no references to either source slug. Hugo aliases (`coalesced_from` in unified article) preserve old URLs; archived originals remain in `archive/topics/`.
+- **Style audit**: zero "This is not X. It is Y." cliché introductions (substitutions were slug-only)
 
 ## 2026-04-30 19:05 UTC - coalesce
 - **Status**: Success

@@ -4,7 +4,7 @@ description: "The quantum-classical boundary keeps receding. Hot cat states, nan
 created: 2026-01-27
 modified: 2026-01-27
 human_modified:
-ai_modified: 2026-03-28T10:42:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -103,7 +103,7 @@ The receding quantum-classical boundary matters for theories that propose consci
 
 **Two hypotheses require distinction.** The first claims that quantum coherence in neural tissue directly enables or constitutes consciousness—that maintaining superposition across many neurons is essential to conscious states. The second, weaker claim holds that consciousness biases quantum measurement outcomes without requiring sustained coherence. These are different proposals with different empirical requirements. The receding boundary supports the physical plausibility of the first; the measurement problem discussion (below) concerns the second.
 
-The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] endorses the second hypothesis. It proposes that consciousness influences quantum outcomes at the smallest possible scale without requiring macroscopic neural coherence. Mechanisms like the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno effect]]—where repeated observation holds a system in a particular state—could allow consciousness to bias neural outcomes at the moment of measurement, not through sustained superposition. These [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks act forward in time without requiring backward causation.
+The Unfinishable Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction tenet]] endorses the second hypothesis. It proposes that consciousness influences quantum outcomes at the smallest possible scale without requiring macroscopic neural coherence. Mechanisms like the [[quantum-consciousness#Quantum Zeno Effect (Stapp)|quantum Zeno effect]]—where repeated observation holds a system in a particular state—could allow consciousness to bias neural outcomes at the moment of measurement, not through sustained superposition. These [[forward-in-time-conscious-selection|non-retrocausal conscious selection]] frameworks act forward in time without requiring backward causation.
 
 This distinction matters because it insulates the core position from empirical findings about decoherence timescales. Even if Tegmark's rapid-decoherence calculations are correct, consciousness could still act at the point of collapse rather than through coherent superposition.
 

@@ -4,7 +4,7 @@ description: "Head-to-head evaluation of Orch OR, Stapp's Zeno model, Fisher's n
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-04-10T23:56:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 last_deep_review: 2026-03-31T19:38:00+00:00
 draft: false
 topics:
@@ -147,7 +147,7 @@ Hybrid models combine spontaneous collapse theories (GRW, CSL) with consciousnes
 
 The Map's [[tenets]] do not commit to a single mechanism, and this comparison explains why agnosticism is warranted. The [[#the-post-decoherence-gap|post-decoherence gap]] explains where the constraints bite: [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] locates consciousness's causal role at the point where decoherence prepares pointer states but does not select among them — ruling against proposals requiring macroscopic coherence or panpsychist commitments. [[tenets#^bidirectional-interaction|Bidirectional Interaction]] requires genuine causation, not mere correlation. [[tenets#^no-many-worlds|No Many Worlds]] requires real collapse.
 
-Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches — both [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] frameworks acting forward in time. Tenet compatibility is a philosophical preference, not a scientific verdict. These may be complementary rather than competing: Stapp describes *how* consciousness modulates collapse (through attentional observation), while gravitational OR or CSL provides baseline collapse dynamics. The [[coupling-modes]] framework — basis control, timing control, probability control — specifies what integration would require.
+Within these constraints, Stapp's Zeno model and consciousness-modulated spontaneous collapse emerge as the most tenet-compatible approaches — both [[forward-in-time-conscious-selection|non-retrocausal conscious selection]] frameworks acting forward in time. Tenet compatibility is a philosophical preference, not a scientific verdict. These may be complementary rather than competing: Stapp describes *how* consciousness modulates collapse (through attentional observation), while gravitational OR or CSL provides baseline collapse dynamics. The [[coupling-modes]] framework — basis control, timing control, probability control — specifies what integration would require.
 
 The Map's position: *some* quantum consciousness mechanism exists, constrained by the tenets. Which one is correct remains genuinely open. The diversity of viable candidate mechanisms also raises the question of [[interface-heterogeneity]]—whether different conscious systems couple through different mechanisms rather than a single universal one.
 

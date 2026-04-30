@@ -4,7 +4,7 @@ description: "Free will, quantum collapse, and time's arrow interlink. If consci
 created: 2026-01-16
 modified: 2026-01-20
 human_modified: null
-ai_modified: 2026-04-30T15:54:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[agent-causation]]"
   - "[[indexical-identity-quantum-measurement]]"
-  - "[[non-retrocausal-conscious-selection-models]]"
+  - "[[forward-in-time-conscious-selection]]"
   - "[[non-temporal-consciousness]]"
 ai_contribution: 100
 author: null
@@ -55,7 +55,7 @@ The Map's [[tenets]] make several claims bearing on time:
 
 **[[retrocausality|Retrocausal resolution]]** of the Libet problem proposes that consciousness's selection needn't precede the neural activity it shapes. Time-symmetric quantum mechanics allows backward causation; the "selection" may be atemporal—determining which transaction completes rather than pushing events at a moment.
 
-The Map also explores [[non-retrocausal-conscious-selection-models|forward-in-time alternatives]] (Penrose-Hameroff, Stapp, Chalmers-McQueen), and does not require the retrocausal pathway. This article develops the retrocausal/atemporal route in detail because it most tightly couples agency to time's structure; the alternatives are tracked in the comparative article.
+The Map also explores [[forward-in-time-conscious-selection|forward-in-time alternatives]] (Penrose-Hameroff, Stapp, Chalmers-McQueen), and does not require the retrocausal pathway. This article develops the retrocausal/atemporal route in detail because it most tightly couples agency to time's structure; the alternatives are tracked in the comparative article.
 
 Together: consciousness selects real collapses that introduce irreversibility, yet this selection operates atemporally. There's apparent tension here. Let's work through it.
 
@@ -238,7 +238,7 @@ This synthesis strengthens and deepens each of the five tenets:
 
 - [[collapse-and-time]] — How collapse introduces temporal asymmetry
 - [[retrocausality]] — Time-symmetric physics and backward causation
-- [[non-retrocausal-conscious-selection-models]] — Forward-in-time alternatives the Map also explores, with comparative analysis
+- [[forward-in-time-conscious-selection]] — Forward-in-time alternatives the Map also explores, with comparative analysis
 - [[atemporal-causation]] — Causation without temporal ordering
 - [[presentiment-and-retrocausality]] — Why physics-based retrocausality doesn't rest on contested parapsychology
 - [[temporal-consciousness]] — Durée, the specious present, and the phenomenology of temporal experience

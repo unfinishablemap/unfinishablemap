@@ -4,7 +4,7 @@ description: "Can experiments distinguish consciousness-driven collapse from dec
 created: 2026-02-19
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T15:29:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[born-rule-and-the-consciousness-interface]]"
   - "[[born-rule-violation-brain-interface-empirical-status]]"
   - "[[penrose-gravity-induced-collapse-empirical-prospects]]"
-  - "[[non-retrocausal-conscious-selection-models]]"
+  - "[[forward-in-time-conscious-selection]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[quantum-measurement-and-consciousness]]"

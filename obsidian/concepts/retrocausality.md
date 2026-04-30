@@ -4,7 +4,7 @@ description: "Backward causation in time-symmetric quantum mechanics. On retroca
 created: 2026-01-07
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-03-30T00:14:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -96,7 +96,7 @@ If the transactional interpretation is correct—including a satisfactory respon
 
 ## Connection to Quantum Consciousness Mechanisms
 
-Retrocausality complements [[non-retrocausal-conscious-selection-models|non-retrocausal quantum consciousness mechanisms]] like Orch OR and Stapp's quantum Zeno. These explain *where* consciousness interfaces with quantum processes; retrocausality explains *how* the temporal ordering puzzle dissolves. Both benefit because consciousness need not "speed up" to precede neural preparation—the collapse and its preparation form an atemporal transaction.
+Retrocausality complements [[forward-in-time-conscious-selection|non-retrocausal quantum consciousness mechanisms]] like Orch OR and Stapp's quantum Zeno. These explain *where* consciousness interfaces with quantum processes; retrocausality explains *how* the temporal ordering puzzle dissolves. Both benefit because consciousness need not "speed up" to precede neural preparation—the collapse and its preparation form an atemporal transaction.
 
 ### Motor Selection: Independent Corroboration
 

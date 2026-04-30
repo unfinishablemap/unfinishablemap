@@ -4,7 +4,7 @@ description: "Quantum decoherence at femtoseconds, neural decisions at hundreds 
 created: 2026-01-24
 modified: 2026-01-27
 human_modified: null
-ai_modified: 2026-04-07T05:21:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -198,7 +198,7 @@ What would challenge the Map's metaphysical position is not timing evidence but 
 - [[motor-selection]] — The 280ms motor commitment point and Libet dissolution
 - [[attention-as-interface|voluntary attention]] — Willed attention deployment and frontal theta
 - [[measurement-problem]] — Why decoherence doesn't solve outcome selection
-- [[non-retrocausal-conscious-selection-models]] — Comparative analysis of the three forward-in-time frameworks
+- [[forward-in-time-conscious-selection]] — Comparative analysis of the three forward-in-time frameworks
 - [[neural-implementation-specifics]] — How timing constraints differ across five quantum neural mechanisms
 
 ## References

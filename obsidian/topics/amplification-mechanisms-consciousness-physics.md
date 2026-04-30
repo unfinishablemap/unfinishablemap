@@ -4,7 +4,7 @@ description: "Seven proposed mechanisms for scaling quantum-level conscious infl
 created: 2026-03-18
 modified: 2026-03-29
 human_modified:
-ai_modified: 2026-03-29T16:41:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -136,7 +136,7 @@ No single stage performs the full amplification. Each contributes a factor, and 
 
 The seven mechanisms are not mutually exclusive. They operate at different points in the amplification chain and could function in concert:
 
-- **Microtubule collapse** and **Zeno stabilization** address the quantum end—how consciousness selects or sustains quantum states. Both are [[non-retrocausal-conscious-selection-models|non-retrocausal mechanisms]] acting forward in time, operating on present superpositions rather than retroactively influencing past events
+- **Microtubule collapse** and **Zeno stabilization** address the quantum end—how consciousness selects or sustains quantum states. Both are [[forward-in-time-conscious-selection|non-retrocausal mechanisms]] acting forward in time, operating on present superpositions rather than retroactively influencing past events
 - **Synaptic tunneling** bridges quantum-to-molecular scales
 - **Chaotic sensitivity** and **SOC** bridge molecular-to-network scales
 - **Stochastic resonance** operates across all scales as a general amplification principle

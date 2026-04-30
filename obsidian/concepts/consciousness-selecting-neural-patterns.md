@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-04-30T19:21:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -151,7 +151,7 @@ The mechanisms above all operate forward in time. The Map also considers [[retro
 
 ### How the Frameworks Differ on Consciousness's Role
 
-The three forward-in-time frameworks (see [[non-retrocausal-conscious-selection-models]] for detailed comparison) assign consciousness different causal roles. In Penrose-Hameroff, consciousness *results from* collapse—the orchestrated reduction event *is* the conscious moment. In Stapp, consciousness *causes* collapse via mental attention. In Chalmers-McQueen, consciousness *triggers* collapse—integrated information determines the collapse rate. Stapp and Chalmers-McQueen place consciousness in the causal driver's seat; Penrose-Hameroff makes it emergent from collapse. All three support the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
+The three forward-in-time frameworks (see [[forward-in-time-conscious-selection]] for detailed comparison) assign consciousness different causal roles. In Penrose-Hameroff, consciousness *results from* collapse—the orchestrated reduction event *is* the conscious moment. In Stapp, consciousness *causes* collapse via mental attention. In Chalmers-McQueen, consciousness *triggers* collapse—integrated information determines the collapse rate. Stapp and Chalmers-McQueen place consciousness in the causal driver's seat; Penrose-Hameroff makes it emergent from collapse. All three support the Map's [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet.
 
 ## What Would Challenge This View?
 
