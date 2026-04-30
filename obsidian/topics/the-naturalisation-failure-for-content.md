@@ -1,10 +1,11 @@
 ---
 title: "The Naturalisation Failure for Content"
-description: "A human-AI exploration of why naturalising mental content keeps failing, why this matters independently of the hard problem of consciousness, and what dualism inherits from the diagnosis."
+description: "A human-AI exploration of why naturalising mental content fails, why it matters beyond the hard problem of consciousness, and what dualism inherits."
 created: 2026-04-30
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T21:45:00+00:00
+ai_modified: 2026-04-30T21:50:00+00:00
+last_deep_review: 2026-04-30T21:50:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-the-normativity-of-reason]]"
@@ -21,6 +22,7 @@ concepts:
   - "[[symbol-grounding-problem]]"
   - "[[predictive-processing]]"
   - "[[parsimony-epistemology]]"
+  - "[[rational-normativity]]"
 related_articles:
   - "[[tenets]]"
   - "[[hutto-myin-hard-problem-of-content-2026-04-27]]"
@@ -67,7 +69,7 @@ But the independence is dialectical, not metaphysical. The Map's [[concepts/inte
 
 The HPC sits naturally alongside the Map's treatment of [[consciousness-and-the-normativity-of-reason|the normativity of reason]]. Both arguments share a diagnostic structure: a feature of mind that is normatively loaded — content has correctness conditions, inference has prescriptive force — meets a description language that is purely descriptive — covariation, function, causation, dynamical coupling — and falls through.
 
-The normativity-of-reason argument identifies the *ought* of inference: the fact that, given certain premises, you ought to draw a particular conclusion, and that this *ought* is not captured by any account of what the brain *will* do. The HPC identifies the *aboutness* of content: the fact that an internal state is *about* something specific, under a specific guise, and that this aboutness is not captured by any account of what the state *correlates with*. Different topics, same structural diagnosis. In each case, naturalisation gets the descriptive shape right and misses the normative-intensional dimension that makes the phenomenon what it is.
+The normativity-of-reason argument identifies the [[concepts/rational-normativity|*ought* of inference]]: the fact that, given certain premises, you ought to draw a particular conclusion, and that this *ought* is not captured by any account of what the brain *will* do. The HPC identifies the *aboutness* of content: the fact that an internal state is *about* something specific, under a specific guise, and that this aboutness is not captured by any account of what the state *correlates with*. Different topics, same structural diagnosis. In each case, naturalisation gets the descriptive shape right and misses the normative-intensional dimension that makes the phenomenon what it is.
 
 The parallel suggests a unified line of defence for non-physicalist views of mind. Where physicalism keeps hitting boundaries — phenomenal experience, rational normativity, mental content — the boundaries form a consistent pattern. The Map's claim that consciousness is the common ground for all three (developed in the [[concepts/intentionality|intentionality]] and [[consciousness-and-normative-force|normative-force]] articles) is one available unification. It is not the only one, but it is the unification that fits the Map's [[tenets]].
 
@@ -90,6 +92,8 @@ First, REC remains a live alternative the Map cannot dismiss by stipulation. Hut
 Second, the Mann-Pain (2021) reply shows the HPC is not a knock-down argument. It is possible to keep teleosemantics by narrowing what content is supposed to deliver. The Map's response is that this narrowing concedes the substantive point — naturalism cannot deliver folk-psychological, intensional, fully conceptual content — and rebrands the loss as acceptable. That response is dialectically reasonable, but readers who accept the narrowing will find the Map's argument less compelling.
 
 Third, Hutto and Myin themselves would reject the Map's conclusion. They are naturalists who take their negative argument to *dissolve* rather than vindicate non-physicalism. Borrowing their argument as a structural ally of dualism is a use they did not intend and would not endorse. The alliance is at the level of shared diagnosis, not at the level of metaphysical commitment.
+
+Fourth, a Dennettian "intentional stance" reply may sidestep the HPC by reconceiving content as a useful pattern that emerges under interpretation rather than a metaphysical kind to naturalise. On this view, the demand that brains "really" have content is malformed: content is what shows up when one takes the intentional stance toward systems whose behaviour rewards that frame. The Map treats this as deflation by export — naturalism is preserved by removing content from the metaphysical inventory. The deeper engagement is at the [[concepts/intentionality|intentionality]] page, where the Map argues that phenomenally grounded aboutness is what the intentional stance is responsive *to*, making the stance derivative on something physicalism still cannot ground.
 
 ## Relation to Site Perspective
 

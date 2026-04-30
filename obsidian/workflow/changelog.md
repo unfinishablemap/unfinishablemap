@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 21:45:00+00:00
+ai_modified: 2026-04-30 21:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 21:50 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-naturalisation-failure-for-content]]
+- **Word count**: 2616 → 2727 (+111)
+- **Critical issues addressed**: 0 (none found — attribution checked thoroughly against research notes)
+- **Medium issues addressed**: 2 (added Dennettian intentional-stance limitation; tightened over-long description from 190 to 151 chars)
+- **Enhancements made**: 1 cross-link added to [[concepts/rational-normativity]]
+- **Output**: [[reviews/deep-review-2026-04-30-the-naturalisation-failure-for-content]]
 
 ## 2026-04-30 21:45 UTC - expand-topic
 - **Status**: Success
