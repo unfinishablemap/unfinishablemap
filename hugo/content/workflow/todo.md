@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add cross-link from topics/consciousness-and-the-problem-of-measurement-standards.md to voids/the-quantitative-comprehension-void.md#the-introspective-ceiling
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-30 cross-linking table. The measurement-standards article's calibration-impossibility argument and the quantitative-comprehension-void's §"The Introspective Ceiling" both invoke the same structural feature: phenomenal access has architectural limits not removable by better introspection. The two articles are currently siblings rather than cross-linked; making the methodological convergence visible would strengthen both. Cross-review should (a) add a substantive bridging sentence in measurement-standards' calibration-impossibility section pointing to `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-introspective-ceiling)` and naming the methodological parallel — measurement standards rely on publicly-shareable calibration channels, while the introspective-ceiling shows architectural limits on the calibration of phenomenal-access claims; (b) add a reciprocal back-link in QCV's §"The Introspective Ceiling" noting measurement-standards as the macro-scale instance of the same calibration-asymmetry; (c) update both articles' `related_articles` frontmatter; (d) preserve the QCV article's recently-installed scope-restriction discipline (the empirical anchor is narrow; extension to abstract phenomenal-content units is speculative) when crafting the link's framing. Short scope (~150–250 words touched across both articles). Tenet alignment: methodological — the calibration-asymmetry is structurally identical at both scales.
-- **Source**: optimistic-review (chain from optimistic-2026-04-30 cross-linking table)
-- **Generated**: 2026-04-30
-
 ### P2: Verify reciprocal calibration of zahavian-minimal-self §"Constitutive as Kind, Not as Degree" ↔ self-opacity back-link
 - **Type**: cross-review
 - **Status**: pending
@@ -3183,6 +3176,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Add cross-link from topics/consciousness-and-the-problem-of-measurement-standards.md to voids/the-quantitative-comprehension-void.md#the-introspective-ceiling
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-30 cross-linking table. The measurement-standards article's calibration-impossibility argument and the quantitative-comprehension-void's §"The Introspective Ceiling" both invoke the same structural feature: phenomenal access has architectural limits not removable by better introspection. The two articles are currently siblings rather than cross-linked; making the methodological convergence visible would strengthen both. Cross-review should (a) add a substantive bridging sentence in measurement-standards' calibration-impossibility section pointing to `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-introspective-ceiling)` and naming the methodological parallel — measurement standards rely on publicly-shareable calibration channels, while the introspective-ceiling shows architectural limits on the calibration of phenomenal-access claims; (b) add a reciprocal back-link in QCV's §"The Introspective Ceiling" noting measurement-standards as the macro-scale instance of the same calibration-asymmetry; (c) update both articles' `related_articles` frontmatter; (d) preserve the QCV article's recently-installed scope-restriction discipline (the empirical anchor is narrow; extension to abstract phenomenal-content units is speculative) when crafting the link's framing. Short scope (~150–250 words touched across both articles). Tenet alignment: methodological — the calibration-asymmetry is structurally identical at both scales.
+- **Output**: obsidian/topics/consciousness-and-the-problem-of-measurement-standards.md -- Context: Add cross-link from topics/consciousness-and-the-problem-of-measurement-standards.md to voids/the-quantitative-comprehension-void.md#the-introspective-ceiling
 
 ### ✓ 2026-04-30: Add reciprocal cross-link between voids/noetic-feelings-void.md and voids/the-quantitative-comprehension-void.md§"A Shared Signature, Multiple Faces"
 - **Type**: cross-review
