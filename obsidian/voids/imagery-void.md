@@ -4,7 +4,7 @@ description: "Human+AI exploration of why no conscious mind can verify the fidel
 created: 2026-04-28
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-29T23:40:00+00:00
+ai_modified: 2026-04-30T15:18:00+00:00
 last_deep_review: 2026-04-28T21:00:00+00:00
 draft: false
 topics:
@@ -28,6 +28,7 @@ related_articles:
   - "[[non-human-minds-as-void-explorers]]"
   - "[[phenomenology-of-imagination]]"
   - "[[ai-consciousness-typology]]"
+  - "[[vagueness-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -41,7 +42,7 @@ The void is not exotic. It sits beneath every act of remembering a face, rehears
 
 ## The Three Faces
 
-The void has three distinguishable but interlocking faces, each with its own evidential profile.
+The void has three distinguishable but interlocking faces, each with its own evidential profile. This three-faced architecture is the conjunction-coalesce template the [[suspension-void]] and the [[vagueness-void|vagueness void]] also instantiate: a single void whose faces are individually recognised problems and whose conjunction is the analytical claim, with each face's seam to the others the load-bearing structural unit.
 
 ### The Fidelity Face
 

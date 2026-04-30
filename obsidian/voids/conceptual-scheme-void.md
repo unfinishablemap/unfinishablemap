@@ -4,7 +4,7 @@ description: "Every mind operates with a finite system of categories and inferen
 created: 2026-02-20
 modified: 2026-04-30
 human_modified: null
-ai_modified: 2026-04-30T12:33:00+00:00
+ai_modified: 2026-04-30T15:18:00+00:00
 last_deep_review: 2026-04-30T12:33:00+00:00
 draft: false
 topics:
@@ -41,6 +41,7 @@ related_articles:
   - "[[compound-failure-signatures]]"
   - "[[transformative-experience-void]]"
   - "[[question-formation-void]]"
+  - "[[vagueness-void]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7
@@ -78,6 +79,8 @@ A categorial gap also resists acquisition. The [[language-thought-boundary|langu
 **Against the [[intrinsic-nature-void|intrinsic nature void]].** That void concerns unknown *content* behind known structure — what mass and charge *are*, beneath what they *do*. The scheme void concerns unknown *shape*. The two compound: if the intrinsic nature of matter is categorially unlike anything our physical-object schema represents, the intrinsic nature void is partly a scheme void.
 
 **Against the [[language-thought-boundary|language-thought boundary]].** That boundary can be felt — one senses content resisting articulation. The scheme void typically produces no such signal: the framework feels like transparent access to truth; the walls of the prison are made of the same material as the air inside.
+
+**Against the [[vagueness-void|vagueness void]].** That void operates *within* any scheme: every concept the scheme deploys admits borderline cases the scheme cannot resolve from inside, regardless of which categorial apparatus it uses. The scheme void operates *between* schemes, or at the level of the apparatus as a whole, where the inventory may lack shapes for features reality permits. Vagueness is the limit internal to any framework; the scheme void marks the framework's outer edge.
 
 ## Candidate Voids
 

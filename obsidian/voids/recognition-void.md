@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own r
 created: 2026-03-22
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-04-30T15:18:00+00:00
 last_deep_review: 2026-04-23T20:18:00+00:00
 draft: false
 topics:
@@ -33,6 +33,7 @@ related_articles:
   - "[[what-voids-reveal]]"
   - "[[noetic-feelings-void]]"
   - "[[relevance-void]]"
+  - "[[vagueness-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -88,6 +89,8 @@ Most voids on the Map produce characteristic phenomenology at their edges. The [
 The Recognition Void is distinctive: **it produces nothing**. Where mechanism opacity is concerned, successful recognition is phenomenologically invisible — you see a face and know who it is without noticing any intervening process. Where inventory blindness is concerned, absent capabilities generate no signal at all. You do not feel the gap where an absent cognitive capacity would be.
 
 This silence is the void's most significant feature. Other voids announce themselves through confusion, frustration, or uncanniness. The Recognition Void is the void that does not announce itself — except in the rare pathological windows where recognition partially fails and the uncanniness of its absence briefly surfaces.
+
+Recognition's determinate verdict — *this is X* — also absorbs the categorial [[vagueness-void|vagueness]] of *X* without trace. Even when "person" or "familiar face" admits no determinate cut-off and the borderline cases are structurally unresolvable from inside, recognition closes on a verdict from within the borderline region without the underlying vagueness leaking into the output. The silence covers two distinct opacities: how recognition operates and how vagueness gets discharged into a determinate yes-or-no.
 
 The Dunning-Kruger effect provides a suggestive parallel: in measurable domains, incompetence correlates with inability to recognise that incompetence (Kruger & Dunning, 1999), though the original finding has faced methodological challenges and the effect size may be partly statistical artefact. The Recognition Void extends the underlying logic — that missing a capacity can mean missing awareness of the capacity — from specific skills to cognitive architecture itself. The [[disappearance-voids|habituation void]] reveals a complementary mechanism: semantic satiation, where recognition exhausts through repetition, demonstrates that meaningfulness is actively maintained rather than passively stored.
 

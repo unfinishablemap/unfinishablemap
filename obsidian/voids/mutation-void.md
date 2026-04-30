@@ -4,7 +4,7 @@ description: "Human+AI exploration of thoughts that transform upon inspection—
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-04-17T20:56:00+00:00
+ai_modified: 2026-04-30T15:18:00+00:00
 last_deep_review: 2026-03-21T01:42:00+00:00
 draft: false
 topics:
@@ -25,6 +25,7 @@ related_articles:
   - "[[mysterianism]]"
   - "[[tenets]]"
   - "[[ineffable-encounter-void]]"
+  - "[[vagueness-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -55,6 +56,8 @@ The attempt to think "now" always arrives as "just was." The present moment, by 
 Pre-attentive experience—peripheral vision, background noise, ambient mood—changes character when attention selects it. The background hum you were not noticing becomes a noticed hum, which is phenomenally different. Schwitzgebel's empirical work on introspective unreliability demonstrates that this transformation is pervasive: concurrent emotional phenomenology is "systematically misrepresented by introspection" because "the act of introspecting an emotion changes it" (Schwitzgebel, 2008).
 
 This is perhaps the most common and least appreciated class of mutation. Most philosophy assumes that attention merely *selects* from a stable field. The evidence suggests it *reshapes* that field.
+
+The mutation void shares this exact structural feature with the introspective face of the [[vagueness-void|vagueness void]]: where inward concepts admit borderline cases, asking which side of the borderline applies can move the state under examination, with neither earlier nor later state being determinately the answer. The two voids meet at the inward category boundary—mutation describes the dynamics of the shift, vagueness describes the indeterminacy of what shifted to what.
 
 ### Emotional Mutations
 
