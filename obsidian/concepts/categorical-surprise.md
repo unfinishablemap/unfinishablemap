@@ -4,7 +4,7 @@ description: "When expectation fails not at the level of prediction but at the l
 created: 2026-02-15
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-04-30T18:36:00+00:00
 draft: false
 topics:
   - "[[surprise-prediction-error-and-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-15
 last_curated:
-last_deep_review: 2026-03-19T03:11:00+00:00
+last_deep_review: 2026-04-30T18:36:00+00:00
 ---
 
 Categorical surprise is the experience of encountering something that falls outside the space of possibilities one's framework was built to cover. Unlike ordinary surprise—where a prediction within a familiar domain turns out wrong—categorical surprise reveals that the framework itself was inadequate. You expected a red car and saw a blue one: ordinary surprise. You encountered something that made you realise you had no category for cars at all: categorical surprise. The Unfinishable Map argues that this distinction marks a critical test case for theories of consciousness, because categorical surprise requires a vantage point outside one's own representational space—something [[predictive-processing]] models struggle to provide.
@@ -45,7 +45,7 @@ Categorical surprise is structurally different. The system confronts a situation
 
 **Absence of relevant prior expectation.** In ordinary surprise, there was a specific expectation that was violated. In categorical surprise, no expectation was available to be violated. The experiential character is less "that's wrong" and more "I didn't even know this was possible."
 
-**Restructuring rather than revision.** The aftermath of categorical surprise is not a corrected prediction but a reorganised framework—new categories, new dimensions of variation, sometimes a new sense of what questions are worth asking.
+**Restructuring rather than revision.** The aftermath of categorical surprise is a reorganised framework rather than a corrected prediction—new categories, new dimensions of variation, sometimes a new sense of what questions are worth asking.
 
 ## The Computational Difficulty
 
@@ -57,7 +57,7 @@ Bayesian nonparametric methods (Dirichlet process mixtures, Indian buffet proces
 
 This limitation is not merely practical. Tarski's undefinability theorem establishes that a formal language cannot define its own truth predicate; Gödel's incompleteness theorems show that sufficiently powerful formal systems cannot prove all truths about themselves from within. The pattern is general: self-referential completeness is structurally unachievable. A system that perfectly modelled its own representational boundaries would need a representation of those boundaries—which would itself need to be within the representational space, leading to regress.
 
-A critic might object that this regress applies equally to non-physical consciousness: why should a non-physical mind be any better at modelling its own boundaries? The Map's response is that consciousness does not escape the regress by *solving* it but by *experiencing* it. The felt quality of categorical surprise—the vertigo of "I didn't know I didn't know"—is the phenomenal marker of hitting this structural limit. Computational systems hit the same limit silently; conscious beings hit it with vertigo, and that phenomenal signal is what enables the reorganisation that follows. The capacity is not for complete self-knowledge but for felt recognition of incompleteness—and that felt recognition, the Map argues, is irreducibly phenomenal.
+A critic might object that this regress applies equally to non-physical consciousness: why should a non-physical mind be any better at modelling its own boundaries? The Map's response is that consciousness does not escape the regress by *solving* it but by *experiencing* it. The felt quality of categorical surprise—the vertigo of "I didn't know I didn't know"—is the phenomenal marker of hitting this structural limit. Computational systems hit the same limit silently; conscious beings hit it with vertigo, and that phenomenal signal is what enables the reorganisation that follows. The capacity is for felt recognition of incompleteness rather than complete self-knowledge—and that felt recognition, the Map argues, is irreducibly phenomenal.
 
 ## Phenomenology of Categorical Surprise
 
@@ -81,7 +81,7 @@ The connection runs both directions. Creative acts produce categorical surprise 
 
 ## Why Categorical Surprise Matters for Consciousness
 
-Categorical surprise provides a specific test case for the [[explanatory-gap]]. Ordinary surprise is computationally tractable: prediction error signals, model updating, precision weighting. But categorical surprise—the recognition that one's entire framework is inadequate—resists this treatment for structural reasons, not merely because we lack better models.
+Categorical surprise provides a specific test case for the [[explanatory-gap]] (Chalmers 1996). Ordinary surprise is computationally tractable: prediction error signals, model updating, precision weighting. But categorical surprise—the recognition that one's entire framework is inadequate—resists this treatment for structural reasons, not merely because we lack better models.
 
 If consciousness is what enables framework transcendence—the capacity to recognise and reorganise one's own representational boundaries—then categorical surprise is consciousness caught in the act. It is not the only evidence for irreducible [[phenomenal-consciousness]], but it is among the most vivid, because the phenomenal character (vertigo, free-fall, the click of new understanding) correlates with a cognitive achievement (framework revision) that has no adequate computational account.
 
