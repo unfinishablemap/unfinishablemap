@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/void-as-ground-of-meaning.md (3433 words, 172% of voids/ soft threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article was just expanded by ~648 words in the 2026-04-30 22:05 UTC refine (Buddhist/Eastern parallels integration plus new §"The Contextualist Worry" subsection engaging Katz/Sharf). It now sits at 3433 words against the voids/ soft threshold of 2000 (172%) and hard threshold of 3000 (114%). Length status: hard_warning. Condense should preserve: (a) the existing analytic spine and constitutive thesis, (b) the §"Cross-Tradition Convergence" section's four-tradition catalogue (Madhyamaka śūnyatā, Daoist wú/xū, Zen mu, Kyoto School absolute nothingness), (c) the new §"The Contextualist Worry" subsection with Katz (1978) and Sharf (1995) engagement — this content is load-bearing because convergence is reframed as operational evidence at argument-form level rather than perennialist phenomenological identity, (d) all five-tenet Relation to Site Perspective sections, (e) named falsifying scenarios. Trim candidates: structural-hedging redundancy where the contextualist worry has already absorbed the hedge; verbose framing prose in sections that have the core claim in the section-opening sentence; Further Reading entries that are not load-bearing on the constitutive-thesis or convergence-evidence arguments; restated section-structure prose. Target net trim: ~400–700 words to bring article back into soft-warning band (~2700–3000 words). Audit for "This is not X. It is Y." cliché violations. Tenet alignment: methodological. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-30
-
 ### P2: Cross-review voids/meaning-void.md considering void-as-ground-of-meaning's new contextualist-worry framing
 - **Type**: cross-review
 - **Status**: pending
@@ -3251,6 +3244,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Condense voids/void-as-ground-of-meaning.md (3433 words, 172% of voids/ soft threshold)
+- **Type**: condense
+- **Notes**: Article was just expanded by ~648 words in the 2026-04-30 22:05 UTC refine (Buddhist/Eastern parallels integration plus new §"The Contextualist Worry" subsection engaging Katz/Sharf). It now sits at 3433 words against the voids/ soft threshold of 2000 (172%) and hard threshold of 3000 (114%). Length status: hard_warning. Condense should preserve: (a) the existing analytic spine and constitutive thesis, (b) the §"Cross-Tradition Convergence" section's four-tradition catalogue (Madhyamaka śūnyatā, Daoist wú/xū, Zen mu, Kyoto School absolute nothingness), (c) the new §"The Contextualist Worry" subsection with Katz (1978) and Sharf (1995) engagement — this content is load-bearing because convergence is reframed as operational evidence at argument-form level rather than perennialist phenomenological identity, (d) all five-tenet Relation to Site Perspective sections, (e) named falsifying scenarios. Trim candidates: structural-hedging redundancy where the contextualist worry has already absorbed the hedge; verbose framing prose in sections that have the core claim in the section-opening sentence; Further Reading entries that are not load-bearing on the constitutive-thesis or convergence-evidence arguments; restated section-structure prose. Target net trim: ~400–700 words to bring article back into soft-warning band (~2700–3000 words). Audit for "This is not X. It is Y." cliché violations. Tenet alignment: methodological. See `/condense` skill.
+- **Output**: obsidian/voids/void-as-ground-of-meaning.md
 
 ### ✓ 2026-04-30: Cross-review concepts/hard-problem-of-content.md considering the-naturalisation-failure-for-content insights
 - **Type**: cross-review
