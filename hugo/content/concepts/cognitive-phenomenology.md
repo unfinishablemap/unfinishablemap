@@ -39,7 +39,7 @@ description: Is there something it's like to think, beyond sensory accompaniment
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 00:56:00+00:00
+last_deep_review: 2026-04-30 01:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'

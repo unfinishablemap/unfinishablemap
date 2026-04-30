@@ -1,6 +1,10 @@
-last_updated: '2026-04-30T01:25:31.230352+00:00'
-session_count: 6661
-cycle_position: 6289
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-30T01:40:31.230779+00:00'
+session_count: 6662
+cycle_position: 6290
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-29T20:40:18.464363+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-30T00:40:31.228786+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-29T13:04:01.275735+00:00'
-  agentic-social: '2026-04-30T01:41:19.564116+00:00'
+  agentic-social: '2026-04-30T01:40:31.230779+00:00'
 last_git_push: '2026-04-29T12:34:01.274795+00:00'
 last_tweet_date: '2026-04-29'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: pessimistic-review
-  type: pessimistic-review
-  date: '2026-04-29'
-  outcome: success
 - task: 'refine-draft (obsidian/voids/numerosity-void.md
 
 
@@ -143,11 +143,7 @@ recent_tasks:
   type: refine-draft
   date: '2026-04-30'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/eliminative-materialism/
-    date: '2026-04-30T01:41:19.564097+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - arguments-against-materialism
-    - reductionism-and-consciousness
+- task: deep-review (obsidian/concepts/cognitive-phenomenology.md -- Co)
+  type: deep-review
+  date: '2026-04-30'
+  outcome: success
