@@ -4,8 +4,8 @@ description: "Human+AI exploration of why almost every concept consciousness use
 created: 2026-04-30
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T15:18:00+00:00
-last_deep_review: 2026-04-30T15:18:00+00:00
+ai_modified: 2026-04-30T15:34:00+00:00
+last_deep_review: 2026-04-30T15:34:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

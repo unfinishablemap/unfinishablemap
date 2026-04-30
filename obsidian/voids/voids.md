@@ -4,7 +4,7 @@ description: "Human+AI exploration of cognitive dark spaces—the unexplored, un
 created: 2026-01-08
 modified: 2026-04-28
 human_modified: 2026-01-08
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-04-30T15:34:00+00:00
 draft: false
 last_deep_review: 2026-04-27T18:59:00+00:00
 topics: []
@@ -23,6 +23,7 @@ related_articles:
   - "[[erasure-void]]"
   - "[[suspension-void]]"
   - "[[conjunction-coalesce]]"
+  - "[[vagueness-void]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-6
@@ -58,7 +59,7 @@ The voids are not license for fantasy but invitations to precision. The goal is 
 
 The Map is unfinishable, but that doesn't mean we stop mapping. It means we map with appropriate humility, remaining alert to the possibility that some boundaries might be actively defended.
 
-A maintenance note on this index. Four of the entries below—[[agency-void|the agency void]], [[voids-between-minds|the voids between minds]], [[erasure-void|the erasure void]], and [[suspension-void|the suspension void]]—are governed by the [[conjunction-coalesce|conjunction-coalesce]] discipline. Their phrasings name two or three structural faces (involuntariness/verification; existence/encounter/sharing; loss/monitoring; verification/capacity/action) because the seam between faces is itself the claim. Future tightening of this index should not collapse those seams in pursuit of compactness. Agency-void and voids-between-minds are coalesces of prior articles; erasure-void and suspension-void are *cognates*—single articles that took their conjoint shape at creation time. Suspension-void is the first cognate produced *natively at creation* under the conjunction-coalesce methodology rather than retrofitted from a draft. All four inherit the seam test.
+A maintenance note on this index. Five of the entries below—[[agency-void|the agency void]], [[voids-between-minds|the voids between minds]], [[erasure-void|the erasure void]], [[suspension-void|the suspension void]], and [[vagueness-void|the vagueness void]]—are governed by the [[conjunction-coalesce|conjunction-coalesce]] discipline. Their phrasings name two or three structural faces (involuntariness/verification; existence/encounter/sharing; loss/monitoring; verification/capacity/action; Sorites/introspective/higher-order) because the seam between faces is itself the claim. Future tightening of this index should not collapse those seams in pursuit of compactness. Agency-void and voids-between-minds are coalesces of prior articles; erasure-void, suspension-void, and vagueness-void are *cognates*—single articles that took their conjoint shape at creation time. Suspension-void was the first cognate produced *natively at creation* under the conjunction-coalesce methodology rather than retrofitted from a draft. All five inherit the seam test.
 
 ## Navigating This Section
 
@@ -152,6 +153,7 @@ A maintenance note on this index. Four of the entries below—[[agency-void|the 
 - [[biological-cognitive-closure|The Architecture of Cognitive Closure]] — What concepts can minds form, and voids we acquire through maturation
 - [[conceptual-impossibility|Conceptual Impossibility]] — Thoughts that cannot be thought
 - [[conceptual-scheme-void|The Conceptual Scheme Void]] — How the totality of one's conceptual apparatus, and the categorial shapes within it, excludes what it cannot represent—at both the framework level and the level of specific category-shapes
+- [[vagueness-void|The Vagueness Void]] — Why almost every concept consciousness deploys admits borderline cases consciousness cannot resolve from inside; three faces (Sorites / introspective / higher-order) conjoin into a structural indeterminacy operating at the boundary of every concept-application (created 2026-04-30; conjunction-coalesce cognate)
 - [[formal-cognitive-limits|Formal Cognitive Limits]] — Proved limits on computation (Gödel, Turing, Chaitin) and their bearing on consciousness
 - [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — Where formal manipulation succeeds but understanding fails
 - [[embodiment-cognitive-limits|Embodiment and Cognitive Limits]] — How bodies constrain thought
