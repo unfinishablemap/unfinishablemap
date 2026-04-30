@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 12:33:00+00:00
+ai_modified: 2026-04-30 13:04:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 13:04 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/mattering-void]]
+- **Word count**: 2227 → 2241 (+14; 112% of 2000-word voids soft target — length-neutral mode)
+- **Previous review**: Never (first deep review)
+- **Critical issues addressed**: 0 (none found — full attribution accuracy check passed across Heidegger 1927, Frankfurt 1988, Ratcliffe 2008/2015, Vervaeke et al. 2024, McCann et al. 2020; Map/source separation explicitly maintained; Vervaeke non-computability claim correctly hedged as contested; no dropped qualifiers, no false shared commitments)
+- **Medium issues addressed**: 1 — added missing four-cluster sibling cross-links (`relevance-void`, `noetic-feelings-void`, `conceptual-scheme-void`) to `related_articles` and Further Reading; trimmed redundant trailing sentence in cluster paragraph to partially offset additions
+- **Enhancements made**: 1 (cluster cross-link completion above)
+- **Stability notes added**: 4 bedrock items (eliminative-materialist disagreement, MWI-defender disagreement, Vervaeke hedge as position, Buddhist absence as known omission) — future reviews should NOT re-flag these
+- **Output**: [[reviews/deep-review-2026-04-30-mattering-void]]
 
 ## 2026-04-30 12:33 UTC - deep-review
 - **Status**: Success
