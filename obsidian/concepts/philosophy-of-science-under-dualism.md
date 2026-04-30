@@ -4,7 +4,7 @@ description: "Dualism reshapes the philosophy of science—from demarcation and 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-04-30T23:27:00+00:00
 draft: false
 topics:
   - "[[methodology-of-consciousness-research]]"
@@ -28,7 +28,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-22T07:12:00+00:00
+last_deep_review: 2026-04-30T23:27:00+00:00
 ---
 
 The Unfinishable Map holds that consciousness is not reducible to physical processes. If this is correct, several core doctrines in philosophy of science — the unity of science, standard demarcation criteria, theory choice by parsimony, and scientific realism about unobservables — require revision. Not abandonment. Revision. Dualism does not reject science. It redraws the boundaries of what science studies, how it chooses between theories, and what scientific success actually tells us about reality.
