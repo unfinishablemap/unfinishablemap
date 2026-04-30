@@ -1,7 +1,7 @@
 ---
 ai_contribution: 80
 ai_generated_date: 2026-01-08
-ai_modified: 2026-04-28 23:23:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-6
 author: Andy Southgate
 concepts:
@@ -81,7 +81,7 @@ A maintenance note on this index. Four of the entries below—[the agency void](
 
 ### Specific Voids
 
-- [The Quantitative Intuition Void](/voids/the-quantitative-comprehension-void/) — Why intuition fails systematically when consciousness encounters magnitudes and probabilities outside ancestral calibration (coalesced from scale-void + probability-intuition-void 2026-04-24)
+- [The Quantitative Comprehension Void](/voids/the-quantitative-comprehension-void/) — A structural family of cognitive limits—cardinality floor, magnitudes, probabilities, abstract structures—where formal manipulation succeeds while phenomenal grasp does not (coalesced from numerosity-void + quantitative-intuition-void + mathematical-void 2026-04-30)
 - [The Causal Interface Void](/voids/causal-interface/) — How consciousness interfaces with the physical
 - [The Interface Formalization Void](/voids/interface-formalization-void/) — Why the consciousness-physics interface resists mathematical formalization
 - [The Intrinsic Nature Void](/voids/intrinsic-nature-void/) — What matter and consciousness are in themselves, when every answer yields only structure or negation
@@ -156,7 +156,7 @@ A maintenance note on this index. Four of the entries below—[the agency void](
 - [Conceptual Impossibility](/voids/conceptual-impossibility/) — Thoughts that cannot be thought
 - [The Conceptual Scheme Void](/voids/conceptual-scheme-void/) — How the totality of one's conceptual apparatus, and the categorial shapes within it, excludes what it cannot represent—at both the framework level and the level of specific category-shapes
 - [Formal Cognitive Limits](/voids/formal-cognitive-limits/) — Proved limits on computation (Gödel, Turing, Chaitin) and their bearing on consciousness
-- [The Mathematical Void](/voids/the-quantitative-comprehension-void/) — Where formal manipulation succeeds but understanding fails
+- [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — Where formal manipulation succeeds but understanding fails
 - [Embodiment and Cognitive Limits](/voids/embodiment-cognitive-limits/) — How bodies constrain thought
 - [The Nomic Void](/voids/nomic-void/) — Cognitive limits imposed by the laws of physics themselves
 - [The Language-Thought Boundary](/voids/language-thought-boundary/) — What cannot be said

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-25 01:29:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -43,7 +43,7 @@ related_articles:
 - '[[conceptual-impossibility]]'
 - '[[synesthetic-void]]'
 - '[[non-human-minds-as-void-explorers]]'
-- '[[quantitative-intuition-void]]'
+- '[[the-quantitative-comprehension-void]]'
 - '[[biological-cognitive-closure]]'
 - '[[appetitive-void]]'
 - '[[thoughts-that-slip-away]]'

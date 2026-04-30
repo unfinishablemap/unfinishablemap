@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-13
-ai_modified: 2026-04-17 03:25:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[epistemology-of-convergence-arguments]]'
 - '[[reductionism-and-consciousness]]'
 - '[[arguments-against-materialism]]'
-- '[[mathematical-void]]'
+- '[[the-quantitative-comprehension-void]]'
 - '[[formal-cognitive-limits]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[comparative-phenomenology-of-mathematical-insight]]'
@@ -126,7 +126,7 @@ The Map interprets the cross-domain convergence as evidence that the problem is 
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches its limit at consciousness
 - [epistemology-of-convergence-arguments](/topics/epistemology-of-convergence-arguments/) — When independent convergence constitutes evidence
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reductive programmes fail at consciousness
-- [mathematical-void](/voids/the-quantitative-comprehension-void/) — The boundary of mathematical knowledge
+- [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — The boundary of mathematical comprehension
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödel's theorems and the limits of formal systems
 
 ## References

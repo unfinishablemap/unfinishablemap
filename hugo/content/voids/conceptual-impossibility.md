@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-23
-ai_modified: 2026-04-01 17:39:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -158,7 +158,7 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 ## Further Reading
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
-- [The Mathematical Void](/voids/the-quantitative-comprehension-void/) — A related limit: comprehension failing where formal manipulation succeeds
+- [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — A related limit: comprehension failing where formal manipulation succeeds
 - [Apophatic Approaches](/concepts/apophatic-approaches/) — Methods for knowing through negation
 - [The Phenomenology of the Edge](/voids/phenomenology-of-the-edge/) — What consciousness encounters at boundaries
 - [The Counterfactual Void](/voids/counterfactual-void/) — Where modal imagination thins rather than hitting a wall

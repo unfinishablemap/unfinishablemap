@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-15 12:05:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -23,7 +23,7 @@ modified: *id001
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
-- '[[mathematical-void]]'
+- '[[the-quantitative-comprehension-void]]'
 - '[[self-reference-and-the-limits-of-physical-description]]'
 - '[[epistemic-advantages-of-dualism]]'
 - '[[phenomenology-of-intellectual-life]]'
@@ -113,7 +113,7 @@ The diagnostic value of this intersection would weaken if:
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — Ontological, phenomenological, and computational treatment of mathematical cognition
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — How formalism, logicism, intuitionism, and structuralism each concede the irreducibility of mathematical understanding
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Formal authority and its boundary at consciousness
-- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Cognitive limits on mathematical comprehension
+- [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — Cognitive limits on mathematical comprehension
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The boundary where relational description meets intrinsic quality
 - [knowledge-argument](/concepts/knowledge-argument/) — Parallel epistemic gap between physical facts and phenomenal knowledge
 - [epistemic-advantages-of-dualism](/topics/epistemic-advantages-of-dualism/) — Broader epistemic benefits of the dualist framework

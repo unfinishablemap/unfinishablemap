@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-04-28 23:23:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -25,7 +25,6 @@ related_articles:
 - '[[conceptual-scheme-void]]'
 - '[[plenitude-void]]'
 - '[[formal-cognitive-limits]]'
-- '[[mathematical-void]]'
 - '[[noetic-feelings-void]]'
 - '[[suspension-void]]'
 - '[[recursion-void]]'
@@ -134,7 +133,6 @@ The void sits with [formal cognitive limits](/voids/formal-cognitive-limits/) as
 - [conceptual-scheme-void](/voids/conceptual-scheme-void/)
 - [plenitude-void](/voids/plenitude-void/)
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/)
-- [mathematical-void](/voids/the-quantitative-comprehension-void/)
 - [noetic-feelings-void](/voids/noetic-feelings-void/)
 - [suspension-void](/voids/suspension-void/)
 - [recursion-void](/voids/recursion-void/)

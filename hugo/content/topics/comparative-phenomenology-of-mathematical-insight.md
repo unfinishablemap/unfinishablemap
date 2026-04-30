@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-14
-ai_modified: 2026-04-17 03:25:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -27,7 +27,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
 - '[[aesthetics-and-consciousness]]'
-- '[[mathematical-void]]'
+- '[[the-quantitative-comprehension-void]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[cognitive-science-of-dualism]]'
 - '[[phenomenology-of-cognitive-capacity]]'
@@ -130,7 +130,7 @@ The Map's fifth tenet—that Occam's razor has limits—is illustrated by the in
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
 - [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
-- [mathematical-void](/voids/the-quantitative-comprehension-void/)
+- [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling)
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/)
 

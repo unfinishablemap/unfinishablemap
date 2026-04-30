@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-28 22:23:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -39,7 +39,7 @@ related_articles:
 - '[[death-void]]'
 - '[[self-opacity]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[quantitative-intuition-void]]'
+- '[[the-quantitative-comprehension-void]]'
 - '[[smoothness-and-continuity]]'
 - '[[resolution-void]]'
 - '[[consciousness-and-the-ontology-of-temporal-becoming]]'

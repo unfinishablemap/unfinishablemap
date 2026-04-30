@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-17
-ai_modified: 2026-04-18 14:38:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -31,7 +31,7 @@ related_articles:
 - '[[tenets]]'
 - '[[consciousness-and-mathematics]]'
 - '[[consciousness-and-the-authority-of-formal-systems]]'
-- '[[mathematical-void]]'
+- '[[the-quantitative-comprehension-void]]'
 - '[[formal-cognitive-limits]]'
 - '[[philosophical-stakes-of-spontaneous-collapse]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
@@ -133,7 +133,7 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal systems reach principled limits at consciousness
 - [physics-as-disclosure](/concepts/physics-as-disclosure/) — The measurement problem as boundary disclosure
 - [formal-cognitive-limits](/voids/formal-cognitive-limits/) — Gödelian limits as cognitive boundaries
-- [mathematical-void](/voids/the-quantitative-comprehension-void/) — Where formal manipulation succeeds but understanding fails
+- [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — Where formal manipulation succeeds but understanding fails
 - [quantum-measurement-and-consciousness](/topics/quantum-measurement-and-consciousness/) — The interface between consciousness and quantum measurement
 - [philosophical-stakes-of-spontaneous-collapse](/topics/philosophical-stakes-of-spontaneous-collapse/) — Why collapse interpretations matter for consciousness
 

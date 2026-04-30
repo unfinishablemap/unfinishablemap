@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-15
-ai_modified: 2026-04-24 20:29:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,7 +22,7 @@ related_articles:
 - '[[perceptual-failure-and-the-interface]]'
 - '[[perceptual-degradation-and-the-interface]]'
 - '[[adaptive-cognitive-limits]]'
-- '[[quantitative-intuition-void]]'
+- '[[the-quantitative-comprehension-void]]'
 - '[[tenets]]'
 title: Fitness-Beats-Truth Theorem
 topics:
@@ -96,7 +96,7 @@ For **[Bidirectional Interaction](/tenets/#bidirectional-interaction)**, the FBT
 - [Phenomenal transparency](/concepts/phenomenal-transparency-opacity-spectrum/) — Why experience conceals its own representational character
 - [perceptual-failure-and-the-interface](/topics/perceptual-failure-and-the-interface/) — Perceptual failure analysed through Hoffman's interface framework
 - [perceptual-degradation-and-the-interface](/concepts/perceptual-degradation-and-the-interface/) — What degraded perception reveals about the interface's architecture
-- [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) — How fitness-tuned cognition distorts both magnitude and probability reasoning: the probability face treats the randomness failures directly relevant to FBT's implications for Bayesian inference
+- [The Quantitative Comprehension Void — magnitude and probability face](/voids/the-quantitative-comprehension-void/#the-magnitude-and-probability-domain) — How fitness-tuned cognition distorts both magnitude and probability reasoning: the probability face treats the randomness failures directly relevant to FBT's implications for Bayesian inference
 - [mysterianism](/concepts/mysterianism/) — McGinn's argument that the hard problem reflects cognitive closure
 - [tenets](/tenets/) — The Unfinishable Map's foundational commitments
 

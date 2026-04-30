@@ -1,13 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 04:17:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 04:25 UTC - deep-review (cross-review wikilink retarget)
+- **Status**: Success
+- **Files**: 25 active content files outside apex/ (voids/{creative-aesthetic-void, embodiment-cognitive-limits, emergence-void, formal-cognitive-limits, inference-void, interface-formalization-void, mapping-mind-space, noetic-feelings-void, phenomenology-of-the-edge, recognition-void, resolution-void, self-opacity, tacit-integration-void, temporal-void, three-kinds-of-void, conceptual-impossibility, what-voids-reveal, voids}; topics/{comparative-phenomenology-of-mathematical-insight, concession-convergence-philosophy-of-mathematics, consciousness-and-mathematics, consciousness-and-probability-interpretation, consciousness-and-the-authority-of-formal-systems, phenomenology-of-deliberation-under-uncertainty, self-reference-and-the-limits-of-physical-description}; concepts/{coalesce-condense-apex-stability, consciousness-and-the-philosophy-of-mathematics, fitness-beats-truth})
+- **Context**: Chain from 2026-04-30 00:40 UTC coalesce that merged voids/numerosity-void.md, voids/quantitative-intuition-void.md, and voids/mathematical-void.md into voids/the-quantitative-comprehension-void.md. Apex articles (taxonomy-of-voids, medium-status-voids-in-cognition, conjunction-coalesce) were retargeted by 03:11 UTC apex-stale-wikilinks-cross-review; this pass handles the remaining 25 active content files outside apex/.
+- **Retarget pattern applied**: (1) `[numerosity-void](/voids/the-quantitative-comprehension-void/)` → `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-cardinality-floor)`; (2) `[quantitative-intuition-void](/voids/the-quantitative-comprehension-void/)` → `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-magnitude-and-probability-domain)`; (3) `[mathematical-void](/voids/the-quantitative-comprehension-void/)` (Gödel/Turing/Rice/Chaitin context) → `[formal-cognitive-limits](/voids/formal-cognitive-limits/)`; (4) `[mathematical-void](/voids/the-quantitative-comprehension-void/)` (phenomenal grasp context) → `[the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling)`. Frontmatter `related_articles` retargeted and de-duplicated; display labels in body prose updated to match the new void's three-faces structure ("cardinality floor," "magnitude and probability face," "abstract mathematical ceiling").
+- **Notes**: One mathematical-void → formal-cognitive-limits retarget in voids/inference-void.md (Carroll/Gödel/Turing context, both frontmatter and Further Reading); all other mathematical-void retargets used the abstract-mathematical-ceiling anchor under the phenomenal-grasp reading. voids.md index entries for "Quantitative Intuition Void" and "Mathematical Void" merged into a single entry pointing to the unified article.
 
 ## 2026-04-30 04:17 UTC - optimistic-review
 - **Status**: Success

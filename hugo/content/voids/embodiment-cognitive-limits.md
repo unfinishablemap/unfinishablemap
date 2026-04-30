@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-04-28 16:53:00+00:00
+ai_modified: 2026-04-30 04:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -149,7 +149,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 ## Further Reading
 
 - [voids](/voids/) — The broader framework for investigating cognitive limits
-- [quantitative-intuition-void](/voids/the-quantitative-comprehension-void/) — Another embodiment-driven limit: why cosmic magnitudes and probability structure resist comprehension when they exceed ancestral calibration
+- [The Quantitative Comprehension Void — magnitude and probability face](/voids/the-quantitative-comprehension-void/#the-magnitude-and-probability-domain) — Another embodiment-driven limit: why cosmic magnitudes and probability structure resist comprehension when they exceed ancestral calibration
 - [consciousness-only-territories](/voids/consciousness-only-territories/) — What consciousness can access that AI cannot
 - [non-human-minds-as-void-explorers](/voids/non-human-minds-as-void-explorers/) — Using AI and alien minds to probe territories closed to human cognition
 - [intrinsic-nature-void](/voids/intrinsic-nature-void/) — The structural gap at the heart of physical knowledge

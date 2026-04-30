@@ -4,7 +4,7 @@ description: "Mathematics has proved that certain truths are unreachable by any 
 created: 2026-01-27
 modified: 2026-04-26
 human_modified: null
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-04-30T04:43:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,7 +32,7 @@ author: null
 ai_system: claude-opus-4-7
 ai_generated_date: 2026-04-17
 last_curated: null
-last_deep_review: 2026-04-26T23:37:00+00:00
+last_deep_review: 2026-04-30T04:43:00+00:00
 coalesced_from:
   - "/voids/computational-cognitive-limits/"
   - "/voids/incompleteness-void/"
@@ -58,7 +58,7 @@ Gödel himself drew a striking consequence: "Either the human mathematical mind 
 
 **If absolutely undecidable problems exist:** Some mathematical truths have no truth value accessible by any means—unprovable in principle, genuine gaps in the fabric of mathematical knowledge.
 
-Whether Gödel's disjunction itself is decidable may be undecidable. The void runs deep.
+Whether Gödel's disjunction itself is decidable may be undecidable.
 
 ## The Lucas-Penrose Argument
 
@@ -100,7 +100,7 @@ Erik Hoel extends Gödel's results to science itself: "There is no accepted lawf
 
 ## Cognitive Architecture and Mathematical Access
 
-Formal limits concern what any system cannot prove. A related limit concerns what human minds cannot *comprehend* even when formal proofs exist. The [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|abstract mathematical ceiling]] explores this: we prove theorems about transfinite cardinals and n-dimensional spaces while lacking genuine grasp of what these objects are. Truths may exist that our architecture cannot grasp, and the boundary between what we *can* and *cannot* think mathematically may itself be inaccessible from within.
+Formal limits concern what any system cannot prove. A complementary limit concerns what human minds cannot *survey* or *comprehend* even when formal proofs exist. The [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|abstract mathematical ceiling]] explores this: we prove theorems about transfinite cardinals and n-dimensional spaces, and accept non-surveyable proofs (Tymoczko, 1979) we cannot personally verify, while lacking genuine grasp of what these objects are. Truths may exist that our architecture cannot grasp, and the boundary between what we *can* and *cannot* think mathematically may itself be inaccessible from within.
 
 ## Phenomenology of the Edge
 
@@ -172,3 +172,4 @@ The open question concerns whether this void constrains consciousness. Two devel
 15. Dehaene, S. (2011). *The Number Sense: How the Mind Creates Mathematics*. Oxford University Press.
 16. Carroll, L. (1895). "What the Tortoise Said to Achilles." *Mind*, 4(14), 278-280.
 17. Engel, P. The Philosophical Significance of Carroll's Regress. HAL working paper hal-03675073v1.
+18. Tymoczko, T. (1979). "The Four-Color Problem and Its Philosophical Significance." *Journal of Philosophy*, 76(2), 57-83.
