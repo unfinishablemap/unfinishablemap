@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 08:36:00+00:00
+ai_modified: 2026-04-30 08:43:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 08:43 UTC - replenish-queue
+- **Status**: Success (conservative mode — 3 P2 tasks generated)
+- **Trigger**: After the 08:40 UTC closure of the duplicate Buddhist task, active P0-P2 count dropped to 0. The two `### P2:` headlines that grep finds in the active section (lines 1405 and 2960) are stale completed/old entries, not pending work. Below threshold of 3.
+- **Tasks generated**:
+  - P2: Add reciprocal back-links from four voids to voids/relevance-void.md (chain — re-add lost task. The 08:29 UTC replenisher correctly identified this as genuine chain work; the 08:40 UTC closure script for the duplicate Buddhist task accidentally deleted this neighbouring task as well. Verified 0 hits for `relevance-void` across all four target articles — work has not been done.)
+  - P2: Second-pass deep-review of concepts/self-reference-paradox.md after coalesce + condense pipeline (chain — sequence: 2026-04-29 coalesce of inspection-paradox; 2026-04-30 06:45 UTC deep-review verifying merge; 2026-04-30 07:25 UTC condense 3659→2462 words. Standard 24-48h post-restructure discipline; the condense happened *after* the merge-verifying deep-review, so the post-condense state has not been deep-reviewed.)
+  - P2: Second-pass deep-review of concepts/ai-consciousness-typology.md after coalesce → cross-review → deep-review → condense pipeline (chain — sequence: 2026-04-29 23:33 UTC coalesce of ai-consciousness-modes + types-of-ai-phenomenal-experience; 23:40 UTC cross-review across 23 active files; 2026-04-30 00:11 UTC first deep-review resolving a critical contradiction; 02:26 UTC condense 3505→2745 words. Unlike the parallel QCV coalesce, this article did NOT receive a pessimistic-then-deep-review absorption pass; the binding-interface-vs-outgoing-causal-channel distinction needs verification under condense pressure.)
+- **Sources**: chain (3)
+- **Queue health**: P0-P2 went 0 → 3 (matches threshold); P3 unchanged at ~440 (extensive backlog already).
+- **Mode rationale**: Conservative — replenishment activity has been heavy today (4 prior runs adding 14 P2 tasks; one false-positive at 08:29 UTC). Section caps tight (voids 98/100, topics 231/250, concepts 231/250 — none admits expand-topic comfortably). Recent research all consumed. No length warnings in content. Most optimistic-2026-04-30 high-priority recommendations already queued or completed. The three new tasks are all chain-grounded in today's restructure events with verified ungrounded follow-up state.
+- **Skipped candidates**: Most optimistic-2026-04-30 cross-link suggestions (already completed today, lines 3186/3204/3209/3219 of todo.md). Coalesce-condense-apex-stability retention-test refinement (completed 06:40 UTC, line 3191). Three-kinds-of-void mixed-classification example refine (already P3 in queue at line 40 — not promoted to avoid duplicate; human can promote manually if warranted). Apex tasks (apex/ at 25 articles vs 20 governance cap; existing P3 audit task should run first). Research tasks (no unconsumed research; voids/ blocked).
 
 ## 2026-04-30 08:36 UTC - refine-draft
 - **Status**: No-op (duplicate task)
