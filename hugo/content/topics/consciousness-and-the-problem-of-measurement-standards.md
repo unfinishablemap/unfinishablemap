@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-03-26 09:17:00+00:00
+ai_modified: 2026-04-30 03:25:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -21,7 +21,7 @@ description: Science requires measurement standards—units, instruments, calibr
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 01:54:00+00:00
+last_deep_review: 2026-04-30 03:25:00+00:00
 modified: *id001
 related_articles:
 - '[[methodology-of-consciousness-research]]'
@@ -56,9 +56,9 @@ Physical measurement rests on a triad. Each element involves assumptions that br
 
 Consider pain intensity. We have scales — the visual analogue scale (VAS), the McGill Pain Questionnaire, the 0-10 numerical rating. These capture something. But they do not establish a unit of pain.
 
-The problem is not imprecision. It is that pain intensity lacks the structural properties that units require. There is no principled answer to whether the difference between pain-level-3 and pain-level-5 is the "same amount" as the difference between pain-level-7 and pain-level-9. The question assumes that phenomenal pain occupies a metric space with equal intervals — that it has the additive structure of physical quantities. Nothing about the phenomenology of pain guarantees this. Two simultaneous pains do not necessarily produce a pain whose intensity is the sum of the individual intensities. Pains interact, modulate, mask, and amplify each other in ways that violate additivity.
+The problem goes deeper than imprecision: pain intensity lacks the structural properties that units require. There is no principled answer to whether the difference between pain-level-3 and pain-level-5 is the "same amount" as the difference between pain-level-7 and pain-level-9. The question assumes that phenomenal pain occupies a metric space with equal intervals — that it has the additive structure of physical quantities. Nothing about the phenomenology of pain guarantees this. Two simultaneous pains do not necessarily produce a pain whose intensity is the sum of the individual intensities. Pains interact, modulate, mask, and amplify each other in ways that violate additivity.
 
-This is not a measurement artefact. It reflects the nature of [phenomenal experience](/concepts/phenomenal-consciousness/) itself. Physical quantities like mass are *extensive* — they combine additively because mass is a feature of objects that can be spatially juxtaposed. Phenomenal quantities are features of a subject's experience, integrated within a unified field of consciousness. The unity of experience means phenomenal quantities cannot be cleanly decomposed and recomposed. There is no "unit of blueness" for the same reason there is no unit of meaning: the thing being measured is constitutively holistic.
+This reflects the nature of [phenomenal experience](/concepts/phenomenal-consciousness/) itself rather than any measurement artefact. Physical quantities like mass are *extensive* — they combine additively because mass is a feature of objects that can be spatially juxtaposed. Phenomenal quantities are features of a subject's experience, integrated within a unified field of consciousness. The unity of experience means phenomenal quantities cannot be cleanly decomposed and recomposed. There is no "unit of blueness" for the same reason there is no unit of meaning: the thing being measured is constitutively holistic.
 
 ## Why Phenomenal Instruments Cannot Be Built
 
@@ -102,7 +102,7 @@ If consciousness were reducible to physical processes, measurement standards for
 
 The Map's [Occam's Razor Has Limits](/tenets/#occams-limits) tenet is also relevant. The materialist might argue that the absence of measurement standards is a *practical* gap that will close with better neuroscience. But the arguments in this article suggest a *principled* gap: the features that prevent measurement standards (first-person access, non-additivity, absence of public reference points) are features of consciousness itself, not features of our current ignorance. Treating the gap as merely practical assumes what needs to be shown — that phenomenal consciousness has the structure that measurement requires. The simpler explanation (that it does not) may be the correct one, even though it complicates the ontological picture.
 
-The Map's [Bidirectional Interaction](/tenets/#bidirectional) tenet holds that consciousness causally influences the physical world. The measurement standards problem illuminates a related asymmetry: physical quantities are measurable because their causal effects are publicly accessible, but consciousness's causal influence — if real — works through channels (neural activity, behaviour) that do not carry phenomenal information. We can measure the *effects* of consciousness on the physical world, but measuring consciousness itself requires access to the side of the interaction that remains private. Bidirectional causation without bidirectional measurability is exactly what a dualist framework predicts.
+The Map's [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet holds that consciousness causally influences the physical world. The measurement standards problem illuminates a related asymmetry: physical quantities are measurable because their causal effects are publicly accessible, but consciousness's causal influence — if real — works through channels (neural activity, behaviour) that do not carry phenomenal information. We can measure the *effects* of consciousness on the physical world, but measuring consciousness itself requires access to the side of the interaction that remains private. Bidirectional causation without bidirectional measurability is exactly what a dualist framework predicts.
 
 The [observation-and-measurement-void](/voids/observation-and-measurement-void/) traces this same impossibility through five independent routes — units, instruments, interpersonal comparison, introspection, and proxy metrics — each failing for different structural reasons yet converging on the same impasse.
 

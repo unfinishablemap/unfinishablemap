@@ -1,13 +1,22 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 03:11:00+00:00
+ai_modified: 2026-04-30 03:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 03:25 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-problem-of-measurement-standards](/topics/consciousness-and-the-problem-of-measurement-standards/)
+- **Word count**: 2106 → 2103 (-3)
+- **Critical issues addressed**: 2 (broken tenets anchor `^bidirectional` → `^bidirectional-interaction`, previously flagged in tenet-check 2026-03-29 but unfixed; two instances of "This is not X. It is Y." LLM-cliché construct rephrased per writing-style.md)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (length-stable maintenance review; article remains stable after 4 reviews)
+- **Output**: [deep-review-2026-04-30-consciousness-and-the-problem-of-measurement-standards](/reviews/deep-review-2026-04-30-consciousness-and-the-problem-of-measurement-standards/)
 
 ## 2026-04-30 03:11 UTC - deep-review (cross-review, directed retarget)
 - **Status**: Success

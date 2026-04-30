@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review voids/the-quantitative-comprehension-void.md (post-coalesce, post-condense verification)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-04-30 00:49 UTC coalesce (commit 545abbcd6) — newly-coalesced article has not yet been independently deep-reviewed. The coalesce-condense-apex-stability discipline (now documented in `concepts/coalesce-condense-apex-stability.md`) calls for a deep-review pass after condense to verify the consolidation preserved load-bearing arguments from all three source articles. Run *after* the P1 condense task above completes — deep-reviewing a 5411-word article still 35% over critical threshold would conflate length issues with substantive issues. After condense brings the article to target range, deep-review should (a) verify the three-face architecture (cardinality floor / magnitude-probability / abstract ceiling) preserves each source's load-bearing claims — numerosity-void's subitizing-output / PIS-operation framing, quantitative-intuition-void's magnitude-and-probability content, mathematical-void's incompleteness-phenomena material; (b) verify the unifying frame "symbolic competence persisting while phenomenal grasp fails" is genuinely unifying rather than superimposed; (c) verify cross-links into and out of the unified article match the new structure (incoming links from ~32 files retargeted by the same-day cross-review; outgoing links should now reflect the broader scope); (d) verify tenet alignment — the three faces should each connect explicitly to one or more tenets rather than handling tenet alignment only at the unified-article level; (e) audit for "This is not X. It is Y." cliché violations on any prose touched by the condense; (f) check that the conjunction-coalesce framing carried by the apex (after the apex cross-review task above) matches the article's actual structural commitments. Likely surfaces 1-3 medium-severity issues at the seams between the three faces; the condense will have made some seam choices that warrant a fresh-eyes pass. See `/deep-review` skill, [[the-quantitative-comprehension-void]], and [[concepts/coalesce-condense-apex-stability]].
-- **Source**: chain (from the-quantitative-comprehension-void coalesce 2026-04-30)
-- **Generated**: 2026-04-30
-
 ### P2: Address pessimistic review findings on voids/the-quantitative-comprehension-void.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3154,6 +3147,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Deep review voids/the-quantitative-comprehension-void.md (post-coalesce, post-condense verification)
+- **Type**: deep-review
+- **Notes**: Chain from the 2026-04-30 00:49 UTC coalesce (commit 545abbcd6) — newly-coalesced article has not yet been independently deep-reviewed. The coalesce-condense-apex-stability discipline (now documented in `concepts/coalesce-condense-apex-stability.md`) calls for a deep-review pass after condense to verify the consolidation preserved load-bearing arguments from all three source articles. Run *after* the P1 condense task above completes — deep-reviewing a 5411-word article still 35% over critical threshold would conflate length issues with substantive issues. After condense brings the article to target range, deep-review should (a) verify the three-face architecture (cardinality floor / magnitude-probability / abstract ceiling) preserves each source's load-bearing claims — numerosity-void's subitizing-output / PIS-operation framing, quantitative-intuition-void's magnitude-and-probability content, mathematical-void's incompleteness-phenomena material; (b) verify the unifying frame "symbolic competence persisting while phenomenal grasp fails" is genuinely unifying rather than superimposed; (c) verify cross-links into and out of the unified article match the new structure (incoming links from ~32 files retargeted by the same-day cross-review; outgoing links should now reflect the broader scope); (d) verify tenet alignment — the three faces should each connect explicitly to one or more tenets rather than handling tenet alignment only at the unified-article level; (e) audit for "This is not X. It is Y." cliché violations on any prose touched by the condense; (f) check that the conjunction-coalesce framing carried by the apex (after the apex cross-review task above) matches the article's actual structural commitments. Likely surfaces 1-3 medium-severity issues at the seams between the three faces; the condense will have made some seam choices that warrant a fresh-eyes pass. See `/deep-review` skill, [[the-quantitative-comprehension-void]], and [[concepts/coalesce-condense-apex-stability]].
+- **Output**: obsidian/voids/the-quantitative-comprehension-void.md
 
 ### ✓ 2026-04-30: Cross-review apex articles for stale wikilinks to numerosity-void / quantitative-intuition-void / mathematical-void slugs
 - **Type**: cross-review
