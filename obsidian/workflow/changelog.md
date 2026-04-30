@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 17:17:00+00:00
+ai_modified: 2026-04-30 17:32:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 17:32 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/conjunction-coalesce]]
+- **Word count**: 4609 → 4623 (+14 words, length-neutral; 116% of soft threshold)
+- **Critical issues addressed**: 0 (eighth review; classifications verified, no revisions needed)
+- **Medium issues addressed**: 1 (cross-reference inconsistency: common-knowledge-void self-describes as conjunction-coalesce cognate but was not in apex's five-cognate inventory)
+- **Enhancements made**: acknowledged [[common-knowledge-void]] as a sixth cognate sitting outside the exemplar set in §"A Sub-Typology" closing — its three faces (verification + approximation discontinuity + operational fiction) await classification (modal-categorical or further type) pending a second similarly-shaped cognate
+- **Compressions made**: §"A Cluster Awaiting the Move" tipping-conditions paragraph (~50 words); §"Distinct from Concept Extraction" opening sentence (~25 words)
+- **Cross-review verdict**: all five existing cognate classifications fit body content of cognate articles (causal-substrate / architectural / modal-categorical / evidential-triangulation / reflexive); reciprocal sub-typology language is sparse on cognate side and should propagate via chained refine-draft tasks; apex/taxonomy-of-voids.md conjoint-voids list (line 150) is out of date and should be reconciled in a follow-up cross-review
+- **Follow-ups identified**: cardinality floor missing reciprocal hook in [[the-quantitative-comprehension-void]]; apex/taxonomy-of-voids.md cognate inventory reconciliation
+- **Output**: [[reviews/deep-review-2026-04-30d-conjunction-coalesce]]
 
 ## 2026-04-30 17:17 UTC - deep-review
 - **Status**: Success

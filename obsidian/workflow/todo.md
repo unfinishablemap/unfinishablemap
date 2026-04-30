@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review the five cognate articles against the new sub-typology in apex/conjunction-coalesce.md
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-04-30 16:47 UTC deep-review of `apex/conjunction-coalesce.md`. The deep-review installed a four-type sub-typology classifying coalesce/cognate seam-relationships. Cross-review should verify reciprocal-link alignment: each of the five cognate articles (`voids/agency-void.md`, `voids/voids-between-minds.md`, `voids/suspension-void.md`, `voids/imagery-void.md`, `voids/vagueness-void.md`) should acknowledge its sub-typology classification in body content or at minimum carry consistent forward-link material to conjunction-coalesce. Specifically: (a) verify `voids/agency-void.md` contains the modal-categorical framing where the apex says it does, and add a brief reciprocal acknowledgment if absent; (b) verify `voids/voids-between-minds.md` contains the evidential-triangulation framing and add reciprocal acknowledgment if absent; (c) for the three forward-pointed cognates (`voids/suspension-void.md`, `voids/imagery-void.md`, `voids/vagueness-void.md`), verify the seam-descriptor language used in the apex's forward-pointing paragraph appears as reciprocal hook in each cognate's body; (d) flag any classification asserted in the apex but not visible in the cognate as a candidate for either body-update in the cognate or revision of the classification (the chained refine-draft task above will resolve such cases for the three forward-pointed cognates); (e) check whether `apex/taxonomy-of-voids.md` and `apex/medium-status-voids-in-cognition.md` reference the new sub-typology when discussing the same cognates — and whether they should. Short-medium scope (~200-400 words touched across multiple files). Tenet alignment: methodological — keeping apex/source reciprocal-link discipline coherent. See [[reviews/deep-review-2026-04-30c-conjunction-coalesce]].
-- **Source**: chain (from 2026-04-30 16:47 UTC deep-review of apex/conjunction-coalesce.md)
-- **Generated**: 2026-04-30
-
 ### P3: Write project doc on full-lifecycle compression as saturated-section discipline
 - **Type**: expand-topic
 - **Status**: pending
@@ -3202,6 +3195,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Cross-review the five cognate articles against the new sub-typology in apex/conjunction-coalesce.md
+- **Type**: cross-review
+- **Notes**: Chain from 2026-04-30 16:47 UTC deep-review of `apex/conjunction-coalesce.md`. The deep-review installed a four-type sub-typology classifying coalesce/cognate seam-relationships. Cross-review should verify reciprocal-link alignment: each of the five cognate articles (`voids/agency-void.md`, `voids/voids-between-minds.md`, `voids/suspension-void.md`, `voids/imagery-void.md`, `voids/vagueness-void.md`) should acknowledge its sub-typology classification in body content or at minimum carry consistent forward-link material to conjunction-coalesce. Specifically: (a) verify `voids/agency-void.md` contains the modal-categorical framing where the apex says it does, and add a brief reciprocal acknowledgment if absent; (b) verify `voids/voids-between-minds.md` contains the evidential-triangulation framing and add reciprocal acknowledgment if absent; (c) for the three forward-pointed cognates (`voids/suspension-void.md`, `voids/imagery-void.md`, `voids/vagueness-void.md`), verify the seam-descriptor language used in the apex's forward-pointing paragraph appears as reciprocal hook in each cognate's body; (d) flag any classification asserted in the apex but not visible in the cognate as a candidate for either body-update in the cognate or revision of the classification (the chained refine-draft task above will resolve such cases for the three forward-pointed cognates); (e) check whether `apex/taxonomy-of-voids.md` and `apex/medium-status-voids-in-cognition.md` reference the new sub-typology when discussing the same cognates — and whether they should. Short-medium scope (~200-400 words touched across multiple files). Tenet alignment: methodological — keeping apex/source reciprocal-link discipline coherent. See [[reviews/deep-review-2026-04-30c-conjunction-coalesce]].
+- **Output**: obsidian/apex/conjunction-coalesce.md -- Context: Cross-review the five cognate articles against the new sub-typology in apex/conjunction-coalesce.md
 
 ### ✓ 2026-04-30: Integrate three forward-pointed cognates under the four-type sub-typology in apex/conjunction-coalesce.md
 - **Type**: refine-draft

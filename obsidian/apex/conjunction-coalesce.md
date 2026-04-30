@@ -4,8 +4,8 @@ description: "When two voids are conjoined at a structural level, merging them i
 created: 2026-04-27
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-30T17:09:00+00:00
-last_deep_review: 2026-04-30T16:47:00+00:00
+ai_modified: 2026-04-30T17:32:00+00:00
+last_deep_review: 2026-04-30T17:32:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -109,6 +109,8 @@ The five-cognate exemplar set settles one open question and leaves the other ope
 
 *Reflexive remains a candidate fifth type rather than a settled one.* Vagueness-void is currently the only exemplar in which the seam itself is reflexive. Suspension-void exhibits a reflexive aspect at one face (verification cannot be conducted without invoking the suspension capacity) without making the whole seam reflexive—hinting that reflexivity may eventually decompose into a cross-cutting property attachable to any of the four object-level types rather than a parallel typology. The type is retained pending a second exemplar; if none accrues, it folds into evidential-triangulation by treating metalanguage as a vantage. The typology is provisional in the same sense as the seam test: it yields when new cases force restructuring.
 
+A sixth cognate, [[common-knowledge-void|the common-knowledge void]] (2026-04-29; verification + approximation discontinuity + operational fiction), sits outside this exemplar set. Its three faces present a verification impossibility, a strategic discontinuity at the limit of mutual knowledge, and an operational fiction by which finite minds proceed as if the unattainable held. Whether the conjunction collapses into modal-categorical (verification ⊕ acting-as-fiction) or warrants a further type indexed to formal-hierarchy structures awaits a second similarly-shaped cognate; the candidate is recorded as an unclassified exemplar pending that accrual.
+
 ## A Coalesce the Test Rejected
 
 The worked-success cases above show conjunction-coalesces the discipline produced. A worked-failure case sharpens the discipline more than further successes would: it shows the test refusing a candidate the editor was prepared to consider. The 2026-04-27 22:57 UTC coalesce session surveyed the most pressured section (voids at 96/100) for merger candidates and rejected each cluster examined. The cleanest rejection was the affective trio.
@@ -129,7 +131,7 @@ The three share a tenet connection (each engages [[tenets#^bidirectional-interac
 
 The seam test counsels caution. The joint claim is genuinely structural rather than thematic, but "self-witnessing failure indexed to a temporal mode" may be a shared structural feature rather than a single conjoint void. If temporal mode is the underlying mechanism, the three faces are consequences of one principle and the article should be on the principle. This is the third refinement in operation: the joint claim must have the right kind of irreducibility. The Map currently judges this cluster does *not* yet meet the test cleanly enough to warrant a merger.
 
-The "not yet" verdict admits open-ended deferral, which is itself a weakness of the test as currently formulated. To constrain it, the Map records two specific tipping conditions. The verdict would tip *toward* a conjunction-coalesce if a sustained reading of all three articles surfaced a joint claim that none of the three currently makes—for example, that the three temporal failures are co-implicated in a way that forces a quadruple-bind not predicted by any single article. The verdict would tip *away* (toward decline) if a candidate single-mechanism account became available that derives all three from a unified principle (most plausibly a feature of the retention-protention apparatus itself). Until either condition obtains, the cluster is a recorded negative-leaning verdict, not a permanent one. Recording the conditions explicitly is what prevents "not yet" from operating as indefinite option-keeping.
+The "not yet" verdict admits open-ended deferral, which the Map constrains by recording two tipping conditions. The verdict would tip *toward* a conjunction-coalesce if a sustained reading surfaced a joint claim none of the three currently makes—a quadruple-bind not predicted by any single article. The verdict would tip *away* if a single-mechanism account derived all three from a unified principle (most plausibly a feature of the retention-protention apparatus). Until either condition obtains, the cluster is a recorded negative-leaning verdict, the explicit conditions preventing "not yet" from operating as indefinite option-keeping.
 
 ## Maintaining the Discipline Downstream
 
@@ -151,7 +153,7 @@ The second failure mode is *forced* conjunction-coalesce: applying the disciplin
 
 ## Distinct from Concept Extraction
 
-The conjunction-coalesce should not be confused with concept extraction, a different methodological move proposed earlier in the Map's review cycle. Concept extraction takes a structural feature recurring across articles and gives it its own citable concept page (the *conjoint multi-face limit* structure being a candidate). The two are complementary: concept extraction identifies *patterns* and gives them a stable home; the conjunction-coalesce identifies *cases* where two or more articles instantiate the same conjoint structure in different content domains. The conjunction-coalesce produces *instances* that concept extraction may eventually *abstract*—a per-article move beside a cross-article one. Each does work the other cannot.
+The conjunction-coalesce should not be confused with concept extraction, which takes a structural feature recurring across articles and gives it its own citable concept page (the *conjoint multi-face limit* structure being a candidate). The two are complementary: concept extraction identifies *patterns* and gives them a stable home; the conjunction-coalesce identifies *cases* where two or more articles instantiate the same conjoint structure in different content domains. The conjunction-coalesce produces *instances* that concept extraction may eventually *abstract*.
 
 ## A Note on Apex Placement
 
@@ -194,17 +196,24 @@ This synthesis draws on:
 4. Southgate, A. & Oquatre-sept, C. (2026-03-05). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
 5. Southgate, A. & Oquatre-six, C. (2026-03-10). A Taxonomy of Voids. *The Unfinishable Map*. https://unfinishablemap.org/apex/taxonomy-of-voids/
 
-<!-- AI REFINEMENT LOG - 2026-04-30
-Changes made:
+<!-- AI REFINEMENT LOG - 2026-04-30 (cumulative through 17:32 UTC)
+Changes made (16:47 UTC, deep-review-2026-04-30c):
 - Renamed §"Two Coalesces and Two Cognates" → "Two Coalesces and Five Cognates" to reflect cluster expansion
-- Added three substantive cognate paragraphs (suspension-void, imagery-void, vagueness-void) parallel in form to the agency-void/voids-between-minds treatments, addressing the editorial debt flagged by the 2026-04-30 15:34 UTC orphan-integration review
-- Replaced forward-pointing paragraph (now redundant) with new synthesis paragraph noting cognates share coalesce-features minus prior-merger geometry
-- Compressed typology entries in §"A Sub-Typology" since substantive content now lives in §"Five Cognates"
-- Resolved one open question (causal-substrate and architectural remain distinct based on causal asymmetry vs parallel consequence)
-- Refined the second open question (reflexive retained as candidate fifth type pending a second exemplar; suspension-void's per-face reflexivity hints at reflexivity as a cross-cutting property)
-- Tightened erasure-void paragraph and cardinality floor parenthetical to absorb growth
+- Added three substantive cognate paragraphs (suspension-void, imagery-void, vagueness-void) parallel in form to the agency-void/voids-between-minds treatments
+- Replaced forward-pointing paragraph (now redundant) with new synthesis paragraph
+- Compressed typology entries in §"A Sub-Typology"
+- Resolved one open question (causal-substrate and architectural remain distinct)
+- Refined the second open question (reflexive retained as candidate fifth type pending a second exemplar)
 
-Length: 4299 → 4618 body words. The article is now at ~115% of 4000-word soft threshold (was 107%). Net growth was the editorial-debt resolution mandated by the prior review chain. Future reviews should operate strictly length-neutral.
+Changes made (17:32 UTC, deep-review-2026-04-30d, cross-review against cognates):
+- Acknowledged [[common-knowledge-void]] as a sixth cognate sitting outside the exemplar set in §"A Sub-Typology" closing — its three faces (verification + approximation discontinuity + operational fiction) await classification (modal-categorical or further type) pending a second similarly-shaped cognate. Triggered by cross-review finding that common-knowledge-void self-describes as a conjunction-coalesce cognate but was not in the apex's five-cognate inventory.
+- Compressed §"A Cluster Awaiting the Move" tipping-conditions paragraph (~50 words removed) to offset the addition.
+- Compressed §"Distinct from Concept Extraction" opening sentence (~25 words removed) for further offset.
+- Verified all five existing cognate classifications fit the seam-relationships they're assigned to (no classification revisions needed).
+
+Length tracking: original 4299 → 4618 body words (16:47) → 4623 body words (17:32). The article remains at ~115% of 4000-word soft threshold; the cross-review addition was offset by adjacent compressions. Future reviews should continue to operate strictly length-neutral.
+
+Cross-review verdict: classifications verified against cognate body content; reciprocal sub-typology language is currently sparse on the cognate side and should propagate via chained refine-draft tasks. apex/taxonomy-of-voids.md's conjoint-voids list (line 150) is out of date relative to the current cognate inventory — should be reconciled in a follow-up cross-review task. apex/medium-status-voids-in-cognition.md does not need to reference the typology (different cluster).
 
 Style audit: zero "This is not X. It is Y." cliché violations.
 
