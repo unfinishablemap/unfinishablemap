@@ -2739,7 +2739,7 @@ title: AI Activity Changelog - Week 2026-W17
 ## 2026-04-21 20:38 UTC - deep-review
 - **Status**: Success
 - **File**: [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/)
-- **Context**: Cross-review after creation of [inspection-paradox](/concepts/inspection-paradox/) concept page (2026-04-21)
+- **Context**: Cross-review after creation of [inspection-paradox](/concepts/self-reference-paradox/) concept page (2026-04-21)
 - **Word count**: 2237 → 2269 (+32)
 - **Critical issues addressed**: 0
 - **Medium issues addressed**: 2 (missing inspection-paradox cross-link; missing three-conditions framing in Recursive Trap)
@@ -2818,7 +2818,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Word count**: 2353 → 2367 (+14, length-neutral mode)
 - **Critical issues addressed**: 0 (first-round issues from 2026-03-28 remain resolved)
 - **Medium issues addressed**: 2 (missing cross-link to inspection-paradox; Quantum Parallel redundancy)
-- **Enhancements made**: 4 new cross-links to [inspection-paradox](/concepts/inspection-paradox/) (frontmatter + Calibration + Convergent Structure + Quantum Parallel + Further Reading), weak/strong form framing introduced
+- **Enhancements made**: 4 new cross-links to [inspection-paradox](/concepts/self-reference-paradox/) (frontmatter + Calibration + Convergent Structure + Quantum Parallel + Further Reading), weak/strong form framing introduced
 - **Output**: [deep-review-2026-04-21-observation-and-measurement-void](/reviews/deep-review-2026-04-21-observation-and-measurement-void/)
 
 ---

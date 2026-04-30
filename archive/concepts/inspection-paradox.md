@@ -7,6 +7,11 @@ human_modified:
 ai_modified: 2026-04-21T08:39:00+00:00
 last_deep_review: 2026-04-21T08:39:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-30T06:45:00+00:00
+superseded_by: "/concepts/self-reference-paradox/"
+archive_reason: "Coalesced into The Self-Reference Paradox"
+original_path: "/concepts/inspection-paradox/"
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[philosophy-of-mind]]"

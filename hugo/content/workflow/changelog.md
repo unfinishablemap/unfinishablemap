@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 06:25:00+00:00
+ai_modified: 2026-04-30 06:45:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 06:40 UTC - coalesce
+- **Status**: Success
+- **Sources**: [inspection-paradox](/concepts/inspection-paradox/), [self-reference-paradox](/concepts/self-reference-paradox/) (in-place absorption)
+- **Target**: [self-reference-paradox](/concepts/self-reference-paradox/)
+- **Archived**: [inspection-paradox](/archive/concepts/inspection-paradox/)
+- **References to review**: 0 (3 active wikilinks updated to point to merged article: [self-opacity](/voids/self-opacity/), [observation-and-measurement-void](/voids/observation-and-measurement-void/), [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/))
+- **Context**: Inspection-paradox (created 2026-04-21) was the epistemic-inspection face of the same architectural feature self-reference-paradox (2026-03-23) covered as the formal-logical Gödelian face. Both shared Lawvere fixed-point unification, Wittgenstein eye image, Metzinger transparent self-model, calibration-without-anchor, and tenet implications. Inspection-paradox explicitly positioned itself as "the epistemically-oriented face" of the broader pattern. Merged into self-reference-paradox (much higher inbound link count) with weak/strong forms, three architectural conditions, void-catalogue instantiations, and quantum-measurement parallel folded in.
 
 ## 2026-04-30 06:25 UTC - deep-review (reciprocal calibration: zahavian-minimal-self §"Constitutive as Kind, Not as Degree" ↔ self-opacity)
 - **Status**: Success

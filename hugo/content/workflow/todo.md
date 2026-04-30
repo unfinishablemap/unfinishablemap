@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Verify reciprocal calibration of zahavian-minimal-self §"Constitutive as Kind, Not as Degree" ↔ self-opacity back-link
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-30 cross-linking table (small calibration matter). The 01:25 UTC refine-draft installed a new H2 §"Constitutive as Kind, Not as Degree" (~330 words) in concepts/zahavian-minimal-self.md that survived the 02:55 UTC condense (3,780 → 2,587 words, 32% reduction) intact — confirming load-bearing-by-revealed-preference status. The recommendation chain (optimistic-2026-04-29d → refine-draft → condense survival) closed cleanly, but the optimistic-2026-04-30 review notes a calibration concern: the back-link from voids/self-opacity.md should point to zahavian-minimal-self's *new subsection anchor* rather than to the article's general treatment. Cross-review should (a) verify the wikilink target in self-opacity.md uses the new section anchor (e.g., `[zahavian-minimal-self](/concepts/zahavian-minimal-self/#constitutive-as-kind-not-as-degree)`) rather than the bare article slug; (b) verify the back-link's surrounding prose still reads naturally given the new section anchors content (kind-vs-degree articulation, falsifying-scenario specification); (c) if the back-link is currently anchored to the bare slug, retarget; if anchored correctly, log the verification finding; (d) preserve the article voice. Very short scope (~30–80 words touched). Tenet alignment: methodological/Dualism — the kind-vs-degree distinction is the load-bearing dualist commitment about phenomenal-access structure.
-- **Source**: optimistic-review (chain from optimistic-2026-04-30 cross-linking table)
-- **Generated**: 2026-04-30
-
 ### P2: Refine concepts/coalesce-condense-apex-stability.md to incorporate the retention-test framing as named principle
 - **Type**: refine-draft
 - **Status**: pending
@@ -3176,6 +3169,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Verify reciprocal calibration of zahavian-minimal-self §"Constitutive as Kind, Not as Degree" ↔ self-opacity back-link
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-30 cross-linking table (small calibration matter). The 01:25 UTC refine-draft installed a new H2 §"Constitutive as Kind, Not as Degree" (~330 words) in concepts/zahavian-minimal-self.md that survived the 02:55 UTC condense (3,780 → 2,587 words, 32% reduction) intact — confirming load-bearing-by-revealed-preference status. The recommendation chain (optimistic-2026-04-29d → refine-draft → condense survival) closed cleanly, but the optimistic-2026-04-30 review notes a calibration concern: the back-link from voids/self-opacity.md should point to zahavian-minimal-self's *new subsection anchor* rather than to the article's general treatment. Cross-review should (a) verify the wikilink target in self-opacity.md uses the new section anchor (e.g., `[zahavian-minimal-self](/concepts/zahavian-minimal-self/#constitutive-as-kind-not-as-degree)`) rather than the bare article slug; (b) verify the back-link's surrounding prose still reads naturally given the new section anchors content (kind-vs-degree articulation, falsifying-scenario specification); (c) if the back-link is currently anchored to the bare slug, retarget; if anchored correctly, log the verification finding; (d) preserve the article voice. Very short scope (~30–80 words touched). Tenet alignment: methodological/Dualism — the kind-vs-degree distinction is the load-bearing dualist commitment about phenomenal-access structure.
+- **Output**: None -- Context: Verify reciprocal calibration of zahavian-minimal-self §"Constitutive as Kind, Not as Degree" ↔ self-opacity back-link
 
 ### ✓ 2026-04-30: Add cross-link from topics/consciousness-and-the-problem-of-measurement-standards.md to voids/the-quantitative-comprehension-void.md#the-introspective-ceiling
 - **Type**: cross-review

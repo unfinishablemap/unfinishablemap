@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-04-21
 **Article**: [The Observation and Measurement Void](/voids/observation-and-measurement-void/)
 **Previous review**: [2026-03-28](/reviews/deep-review-2026-03-28-observation-and-measurement-void/)
-**Cross-review trigger**: New concept [inspection-paradox](/concepts/inspection-paradox/) published 2026-04-21
+**Cross-review trigger**: New concept [inspection-paradox](/concepts/self-reference-paradox/) published 2026-04-21
 
 ## Pessimistic Analysis Summary
 
@@ -33,11 +33,11 @@ None. All issues flagged in the 2026-03-28 review (Occam's Razor framing, descri
 - No source/Map conflation introduced.
 
 ### Medium Issues Found
-- **Missing cross-link to new structural concept**: The new [inspection-paradox](/concepts/inspection-paradox/) concept article explicitly identifies this void as "the load-bearing structural element behind the convergence," yet the void article had no reverse link. Resolution: Added bidirectional linkage in four places (frontmatter, Calibration Impasse, Convergent Structure, Quantum Parallel, Further Reading).
-- **Quantum Parallel section redundancy**: The section duplicated framing now developed more fully in [inspection-paradox](/concepts/inspection-paradox/). Resolution: Condensed by 13 words and linked out, freeing word budget for the cross-link additions while remaining length-neutral.
+- **Missing cross-link to new structural concept**: The new [inspection-paradox](/concepts/self-reference-paradox/) concept article explicitly identifies this void as "the load-bearing structural element behind the convergence," yet the void article had no reverse link. Resolution: Added bidirectional linkage in four places (frontmatter, Calibration Impasse, Convergent Structure, Quantum Parallel, Further Reading).
+- **Quantum Parallel section redundancy**: The section duplicated framing now developed more fully in [inspection-paradox](/concepts/self-reference-paradox/). Resolution: Condensed by 13 words and linked out, freeing word budget for the cross-link additions while remaining length-neutral.
 
 ### Counterarguments Considered
-- **Dennett-style displacement objection** (heterophenomenology dissolves the paradox by relocating it to behaviour): Noted as a bedrock philosophical disagreement in the 2026-03-28 stability notes and NOT re-flagged. The [inspection-paradox](/concepts/inspection-paradox/) article now engages this directly in its "Why the Paradox Is Not Merely an Engineering Limit" section, providing another place the reader can find the response.
+- **Dennett-style displacement objection** (heterophenomenology dissolves the paradox by relocating it to behaviour): Noted as a bedrock philosophical disagreement in the 2026-03-28 stability notes and NOT re-flagged. The [inspection-paradox](/concepts/self-reference-paradox/) article now engages this directly in its "Why the Paradox Is Not Merely an Engineering Limit" section, providing another place the reader can find the response.
 
 ## Optimistic Analysis Summary
 
@@ -58,7 +58,7 @@ None. All issues flagged in the 2026-03-28 review (Occam's Razor framing, descri
 - **Further Reading entry** added with one-line description identifying the weak/strong distinction readers can explore.
 
 ### Cross-links Added
-- `[inspection-paradox](/concepts/inspection-paradox/)` — added to frontmatter related_articles, Alston paragraph (Calibration Impasse), closing paragraph of Convergent Structure, opening of Quantum Parallel, and Further Reading.
+- `[inspection-paradox](/concepts/self-reference-paradox/)` — added to frontmatter related_articles, Alston paragraph (Calibration Impasse), closing paragraph of Convergent Structure, opening of Quantum Parallel, and Further Reading.
 
 ## Remaining Items
 
@@ -72,7 +72,7 @@ None. The cross-review focused on integrating the new structural concept; no oth
 
 ## Stability Notes
 
-- The Dennett-style objection (measurement void presupposes dualism) remains a bedrock philosophical disagreement and should not be re-flagged. The new [inspection-paradox](/concepts/inspection-paradox/) article's "Why the Paradox Is Not Merely an Engineering Limit" section now engages this response directly.
+- The Dennett-style objection (measurement void presupposes dualism) remains a bedrock philosophical disagreement and should not be re-flagged. The new [inspection-paradox](/concepts/self-reference-paradox/) article's "Why the Paradox Is Not Merely an Engineering Limit" section now engages this response directly.
 - The article remains above the voids soft threshold (2367 vs 2000). This reflects the coalesced scope (observation-void + measurement-void) rather than a length flaw. A dedicated `/condense` pass could be considered if length becomes a priority, but not as part of deep-review.
 - The "arguably the most sustained first-person investigation ever undertaken" contemplative claim remains qualified with "arguably" and is defensible. Future reviews should not re-flag.
 - The inspection-paradox cross-link integration is now complete. Future cross-reviews should treat this as stable unless the inspection-paradox concept article substantively changes.

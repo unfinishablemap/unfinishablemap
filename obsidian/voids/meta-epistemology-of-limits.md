@@ -14,7 +14,7 @@ concepts:
   - "[[introspection]]"
   - "[[simulation]]"
   - "[[phenomenology]]"
-  - "[[inspection-paradox]]"
+  - "[[self-reference-paradox]]"
   - "[[illusionism]]"
   - "[[epistemology]]"
 related_articles:
@@ -67,7 +67,7 @@ Distinguishing *difficult* from *impossible* seems straightforward; in practice 
 
 **Success proves contingency; failure proves nothing.** Solving shows the problem was solvable. Failing—even across centuries—cannot establish permanent closure.
 
-**Assessment requires the faculties under assessment.** Determining whether our architecture has limits requires using that architecture—an [[inspection-paradox|inspection paradox]] that [[mysterianism|cognitive closure]] makes precise. [[self-opacity|Introspective opacity]] ensures we cannot simply look inward. The [[phenomenal-quality-void|phenomenal quality void]] deepens the trap: the conviction that the question is *about something real* is produced by a phenomenal stamp that is structurally hidden and demonstrably fallible. The [[plenitude-void|plenitude void]] is the same recursion at the level of phenomenal *content*: introspective probes direct attention, and attention manufactures the detail sought.
+**Assessment requires the faculties under assessment.** Determining whether our architecture has limits requires using that architecture—an instance of the [[self-reference-paradox]] that [[mysterianism|cognitive closure]] makes precise. [[self-opacity|Introspective opacity]] ensures we cannot simply look inward. The [[phenomenal-quality-void|phenomenal quality void]] deepens the trap: the conviction that the question is *about something real* is produced by a phenomenal stamp that is structurally hidden and demonstrably fallible. The [[plenitude-void|plenitude void]] is the same recursion at the level of phenomenal *content*: introspective probes direct attention, and attention manufactures the detail sought.
 
 ## Three Verdicts
 
@@ -123,7 +123,7 @@ Whitehead's process philosophy suggests cognitive limits may be neither fixed wa
 
 ## The Recursive Trap
 
-Asking "are my limits genuine?" or "are my limits designed?" is the meta-level form of the [[inspection-paradox|inspection paradox]]: the faculties used to ask are part of the system under investigation, with no un-inspected baseline standing outside for comparison. Some questions can only be answered from outside: a formal system cannot prove its own consistency (Gödel); a simulation cannot detect itself using only simulated tools; a mind cannot determine whether its limits are natural or designed using only the limited cognition in question.
+Asking "are my limits genuine?" or "are my limits designed?" is the meta-level form of the [[self-reference-paradox|self-reference paradox]]: the faculties used to ask are part of the system under investigation, with no un-inspected baseline standing outside for comparison. Some questions can only be answered from outside: a formal system cannot prove its own consistency (Gödel); a simulation cannot detect itself using only simulated tools; a mind cannot determine whether its limits are natural or designed using only the limited cognition in question.
 
 This creates a distinctive void combining all [[three-kinds-of-void|three categories]]. **Unexplored**: philosophy rarely asks whether limits could be artifacts of design. **Unexplorable**: if faculties were constrained to prevent detecting the constraint, no internal method could succeed. **Occluded**: if design-detection would threaten a simulation, the thought might be actively blocked—[[self-maintained-cognitive-limits|defended territory]].
 
@@ -185,7 +185,7 @@ None of these has been met. The hard problem remains as puzzling after 30 years 
 - [[self-maintained-cognitive-limits|Defended Territory]] — Actively blocked thoughts
 - [[simulation|Simulation Hypothesis]] — Sharpens the design question
 - [[closure-types-void|The Closure-Types Void]] — Representational vs. psychological closure
-- [[inspection-paradox|The Inspection Paradox]] — The general structural pattern
+- [[self-reference-paradox|The Self-Reference Paradox]] — The general structural pattern (with weak/strong forms)
 - [[phenomenal-quality-void|The Phenomenal Quality Void]] — Why the stamp of realness hides itself
 - [[epistemology-of-limit-knowledge]] — Systematic account of limit-claim methods
 - [[conceptual-scheme-void|The Conceptual Scheme Void]] — When the mind lacks the categorial shape

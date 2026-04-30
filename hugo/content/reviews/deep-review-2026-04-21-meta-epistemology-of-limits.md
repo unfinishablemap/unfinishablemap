@@ -20,7 +20,7 @@ topics: []
 **Date**: 2026-04-21
 **Article**: [The Meta-Epistemology of Cognitive Limits](/voids/meta-epistemology-of-limits/)
 **Previous review**: [2026-04-17](/reviews/deep-review-2026-04-17-meta-epistemology-of-limits/)
-**Trigger**: Cross-review after creation of [inspection-paradox](/concepts/inspection-paradox/) concept page (2026-04-21)
+**Trigger**: Cross-review after creation of [inspection-paradox](/concepts/self-reference-paradox/) concept page (2026-04-21)
 
 ## Pessimistic Analysis Summary
 
@@ -28,7 +28,7 @@ topics: []
 None. Previous two reviews (2026-03-20, 2026-04-17) already verified attribution accuracy (Chomsky, Kriegel, Demircioglu, McGinn, Dunning-Kruger, Bostrom, Nicholas of Cusa, Kant, Gödel, Dennett). No factual errors, misattributions, dropped qualifiers, or source/Map conflation. Article was flagged stable in prior review.
 
 ### Medium Issues Found
-- **Missing cross-link to newly created inspection-paradox concept page**: The article's central argument (recursive trap, "assessment requires the faculties under assessment") is the meta-level instance of what the new [inspection-paradox](/concepts/inspection-paradox/) article formalises as a general structural pattern. Without the cross-link, readers cannot locate the article within the Map's structural taxonomy. **Resolution**: Added `[inspection-paradox](/concepts/inspection-paradox/)` to concepts frontmatter, inline reference in "Core Problem" bullet ("Assessment requires the faculties under assessment"), explicit naming in "The Recursive Trap" opener ("the meta-level form of the inspection paradox"), and Further Reading entry with framing.
+- **Missing cross-link to newly created inspection-paradox concept page**: The article's central argument (recursive trap, "assessment requires the faculties under assessment") is the meta-level instance of what the new [inspection-paradox](/concepts/self-reference-paradox/) article formalises as a general structural pattern. Without the cross-link, readers cannot locate the article within the Map's structural taxonomy. **Resolution**: Added `[inspection-paradox](/concepts/self-reference-paradox/)` to concepts frontmatter, inline reference in "Core Problem" bullet ("Assessment requires the faculties under assessment"), explicit naming in "The Recursive Trap" opener ("the meta-level form of the inspection paradox"), and Further Reading entry with framing.
 - **Missing three-conditions framing in recursive trap**: The inspection-paradox article supplies a clean diagnostic triad (instrument-object identity, no meta-instrument, no un-inspected baseline). The Recursive Trap section implicitly satisfies all three but doesn't say so. **Resolution**: Added a clause naming the three conditions in the trap's opening sentence.
 
 ### Counterarguments Considered
@@ -45,9 +45,9 @@ None. Previous two reviews (2026-03-20, 2026-04-17) already verified attribution
 - Self-maintained-cognitive-limits integration from 2026-04-17 review (the complicity dimension).
 
 ### Enhancements Made
-- Inline cross-link to [inspection-paradox](/concepts/inspection-paradox/) at "Assessment requires the faculties under assessment"—names the general structural pattern this bullet instantiates.
+- Inline cross-link to [inspection-paradox](/concepts/self-reference-paradox/) at "Assessment requires the faculties under assessment"—names the general structural pattern this bullet instantiates.
 - Recursive Trap opener now explicitly frames the meta-level form as an inspection paradox, supplying the three diagnostic conditions (instrument-object identity, no meta-instrument, no un-inspected baseline).
-- Added Further Reading entry for [inspection-paradox](/concepts/inspection-paradox/) flagging the weak/strong distinction.
+- Added Further Reading entry for [inspection-paradox](/concepts/self-reference-paradox/) flagging the weak/strong distinction.
 - Tightened four passages to offset additions (length-neutral mode):
   - LLM/AI parallel in "Could Limits Be Designed?" (~10 words saved)
   - Apophatic-methodology redundancy (~7 words saved)
@@ -55,7 +55,7 @@ None. Previous two reviews (2026-03-20, 2026-04-17) already verified attribution
   - Epistemology-of-limit-knowledge trailing phrase ("each producing different warrants" removed) (~4 words saved)
 
 ### Cross-links Added
-- [inspection-paradox](/concepts/inspection-paradox/) — added to concepts frontmatter, two inline references, and Further Reading.
+- [inspection-paradox](/concepts/self-reference-paradox/) — added to concepts frontmatter, two inline references, and Further Reading.
 
 ## Length Impact
 

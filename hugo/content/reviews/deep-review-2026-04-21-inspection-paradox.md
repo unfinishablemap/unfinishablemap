@@ -18,7 +18,7 @@ topics: []
 ---
 
 **Date**: 2026-04-21
-**Article**: [The Inspection Paradox](/concepts/inspection-paradox/)
+**Article**: [The Inspection Paradox](/concepts/self-reference-paradox/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

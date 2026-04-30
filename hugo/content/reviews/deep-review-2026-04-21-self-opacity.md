@@ -21,7 +21,7 @@ topics: []
 **Date**: 2026-04-21
 **Article**: [Self-Opacity](/voids/self-opacity/)
 **Previous review**: [2026-04-20](/reviews/deep-review-2026-04-20-self-opacity/)
-**Context**: Cross-review considering the new [inspection-paradox](/concepts/inspection-paradox/) concept article (created 2026-04-21), which names the architectural pattern self-opacity instantiates and cites self-opacity as a key example.
+**Context**: Cross-review considering the new [inspection-paradox](/concepts/self-reference-paradox/) concept article (created 2026-04-21), which names the architectural pattern self-opacity instantiates and cites self-opacity as a key example.
 
 ## Pessimistic Analysis Summary
 
@@ -52,15 +52,15 @@ No new counterarguments beyond those noted in previous reviews. All bedrock disa
 - "Constitutive as Kind, Not as Degree" (scalar variation response)
 
 ### Enhancements Made
-- Added one-sentence body cross-reference in "The Constitutive Thesis" section: "The [inspection-paradox](/concepts/inspection-paradox/) names this architecture: wherever the apparatus of investigation is identical to or inseparable from its object, characteristic failure modes recur." Placed after the "feature not artifact of method" claim, since inspection-paradox is the name for that architectural feature.
-- Added [inspection-paradox](/concepts/inspection-paradox/) to related_articles
+- Added one-sentence body cross-reference in "The Constitutive Thesis" section: "The [inspection-paradox](/concepts/self-reference-paradox/) names this architecture: wherever the apparatus of investigation is identical to or inseparable from its object, characteristic failure modes recur." Placed after the "feature not artifact of method" claim, since inspection-paradox is the name for that architectural feature.
+- Added [inspection-paradox](/concepts/self-reference-paradox/) to related_articles
 - Added inspection-paradox entry to Further Reading (adjacent to constitutive-exclusion, since both describe general structural limits)
 
 ### Length-Neutral Offset
 - Trimmed in "Formal Limits and Strange Loops": removed parenthetical qualifier "—the mind is not obviously a formal system—" and tightened "characteristic difficulties modelling themselves" to "similar difficulties." Saved 11 words.
 
 ### Cross-links Added
-- [inspection-paradox](/concepts/inspection-paradox/) (related_articles, Further Reading, body text in Constitutive Thesis section)
+- [inspection-paradox](/concepts/self-reference-paradox/) (related_articles, Further Reading, body text in Constitutive Thesis section)
 
 ## Word Count
 - Before: 2402 words (120% of 2000 soft threshold)
