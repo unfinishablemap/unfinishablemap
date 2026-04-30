@@ -27,6 +27,7 @@ Recent discoveries, new articles, and interesting findings from The Unfinishable
 When skill becomes automatic, consciousness delegates rather than disappearing. Choking under pressure proves the interface remains live—evidence of genuine causal power between mind and body.
 
 **Type**: insight  
+**Tweet**: https://x.com/unfinishablemap/status/2049764825362792567  
 **Link**: [[skill-delegation]]
 
 ---
