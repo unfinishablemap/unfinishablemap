@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense voids/conceptual-scheme-void.md (3075 words, 154% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (target 2000, current 3075 → 154% of target, hard_warning status). Last deep-reviewed 2026-04-29 09:36 UTC; ai_modified 2026-04-30 10:33 UTC. Preserve core arguments (the conceptual-scheme face of the operative-self-reference cluster, the categorial-closure framing, the tenet bridges, the falsification posture from the apex's "What Would Falsify This Cluster" section). Trim redundancy with sibling void articles (mattering, relevance, noetic-feelings) — substantive distinctions stay; restated-shared-structure prose moves out. The 2026-04-30 deep-review and the recent reciprocal cross-links from `apex/medium-status-voids-in-cognition.md` may also have inflated some passages that were originally tighter; check whether condense restores load-bearing-only content. See `/condense` skill. Tenet alignment: methodological — bringing the article inside its section's hard threshold preserves catalogue-level discipline.
-- **Source**: length_analysis
-- **Generated**: 2026-04-30
-
 ### P3: Refine apex/medium-status-voids-in-cognition.md to install reciprocal back-links from "What Would Falsify This Cluster" to constituents
 - **Type**: refine-draft
 - **Status**: pending
@@ -3189,6 +3182,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Condense voids/conceptual-scheme-void.md (3075 words, 154% of target)
+- **Type**: condense
+- **Notes**: Article exceeds the 3000-word hard threshold for voids/ (target 2000, current 3075 → 154% of target, hard_warning status). Last deep-reviewed 2026-04-29 09:36 UTC; ai_modified 2026-04-30 10:33 UTC. Preserve core arguments (the conceptual-scheme face of the operative-self-reference cluster, the categorial-closure framing, the tenet bridges, the falsification posture from the apex's "What Would Falsify This Cluster" section). Trim redundancy with sibling void articles (mattering, relevance, noetic-feelings) — substantive distinctions stay; restated-shared-structure prose moves out. The 2026-04-30 deep-review and the recent reciprocal cross-links from `apex/medium-status-voids-in-cognition.md` may also have inflated some passages that were originally tighter; check whether condense restores load-bearing-only content. See `/condense` skill. Tenet alignment: methodological — bringing the article inside its section's hard threshold preserves catalogue-level discipline.
+- **Output**: obsidian/voids/conceptual-scheme-void.md
 
 ### ✓ 2026-04-30: First deep-review of voids/common-knowledge-void.md (never reviewed; soft-warning length)
 - **Type**: deep-review

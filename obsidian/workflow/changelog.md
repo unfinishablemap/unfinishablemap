@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 11:40:00+00:00
+ai_modified: 2026-04-30 11:48:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 11:48 UTC - condense
+- **Status**: Success
+- **File**: [[voids/conceptual-scheme-void]]
+- **Before**: 3075 words (hard_warning, 154% of voids target)
+- **After**: 2227 words (soft_warning, 111% of voids target)
+- **Reduction**: 28%
+- **Technique**: Compressed redundant meta-void recap in opening; tightened Kant/Strawson exposition in "Framework and Categorial"; dropped weak "Different metaphysical axes" candidate (and unused Graham 1989 reference); merged "Evidence" and "Kant's Ghost" sections; merged "Phenomenology of Approach" and "Approaches to the Edge" into one section; cut redundant "Honest Limitations" coda; trimmed Further Reading list from 18 entries to 8 essentials; tightened prose throughout. Preserved opening summary, all four candidate voids except metaphysical-axes, all neighbour-contrasts, full Relation to Site Perspective with all four tenet connections, and core references.
 
 ## 2026-04-30 11:40 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)
