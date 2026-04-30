@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review argument-from-reason.md and self-stultification.md considering consciousness-and-the-normativity-of-reason insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's (2026-04-30) expand-topic on consciousness and the normativity of reason. The new article `topics/consciousness-and-the-normativity-of-reason.md` argues that reasoning is normative (involves rules about what one ought to believe) while physical processes merely happen — making consciousness's normative-uptake role a load-bearing distinction. The article cross-references `argument-from-reason`, `self-stultification-as-master-argument`, `cognitive-phenomenology-and-the-irreducibility-of-thought`, and `pragmatisms-path-to-dualism`, but the receiving articles may not yet acknowledge the new article reciprocally. Cross-review should (a) audit `topics/argument-from-reason.md`, `topics/self-stultification-as-master-argument.md` (or equivalent), `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`, `topics/pragmatisms-path-to-dualism.md`, and `concepts/consciousness-and-normative-force.md` for forward-only-cross-link defects to the new article; (b) install substantive bridging content (~50–120 words) at relevant places where the new article's normativity-of-reason move sharpens or extends the receiving article's argument; (c) verify that the new article's framing is consistent with the receiving articles' treatments of normativity, reasons-responsiveness, and the epistemic-self-defeat structure; (d) update related_articles frontmatter on both sides where missing. Medium scope (~400–700 words touched across 3–5 articles). Tenet alignment: Dualism (the normativity gap is a tenet-bearing argument), methodological.
-- **Source**: chain (from consciousness-and-the-normativity-of-reason expand-topic)
-- **Generated**: 2026-04-30
-
 ### P3: Address pessimistic-review findings on topics/forward-in-time-conscious-selection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3202,6 +3195,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Cross-review argument-from-reason.md and self-stultification.md considering consciousness-and-the-normativity-of-reason insights
+- **Type**: cross-review
+- **Notes**: Chain from today's (2026-04-30) expand-topic on consciousness and the normativity of reason. The new article `topics/consciousness-and-the-normativity-of-reason.md` argues that reasoning is normative (involves rules about what one ought to believe) while physical processes merely happen — making consciousness's normative-uptake role a load-bearing distinction. The article cross-references `argument-from-reason`, `self-stultification-as-master-argument`, `cognitive-phenomenology-and-the-irreducibility-of-thought`, and `pragmatisms-path-to-dualism`, but the receiving articles may not yet acknowledge the new article reciprocally. Cross-review should (a) audit `topics/argument-from-reason.md`, `topics/self-stultification-as-master-argument.md` (or equivalent), `topics/cognitive-phenomenology-and-the-irreducibility-of-thought.md`, `topics/pragmatisms-path-to-dualism.md`, and `concepts/consciousness-and-normative-force.md` for forward-only-cross-link defects to the new article; (b) install substantive bridging content (~50–120 words) at relevant places where the new article's normativity-of-reason move sharpens or extends the receiving article's argument; (c) verify that the new article's framing is consistent with the receiving articles' treatments of normativity, reasons-responsiveness, and the epistemic-self-defeat structure; (d) update related_articles frontmatter on both sides where missing. Medium scope (~400–700 words touched across 3–5 articles). Tenet alignment: Dualism (the normativity gap is a tenet-bearing argument), methodological.
+- **Output**: obsidian/topics/argument-from-reason.md -- Context: Cross-review argument-from-reason.md and self-stultification.md considering consciousness-and-the-normativity-of-reason insights
 
 ### ✓ 2026-04-30: Refine voids/void-as-ground-of-meaning.md to integrate Buddhist/Eastern parallels research
 - **Type**: refine-draft
