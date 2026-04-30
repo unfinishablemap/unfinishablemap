@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 02:26:00+00:00
+ai_modified: 2026-04-30 02:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 02:55 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/zahavian-minimal-self]]
+- **Before**: 3780 words (151% of target — hard_warning)
+- **After**: 2587 words (103% of target — soft_warning)
+- **Reduction**: 32%
+- **Technique**: Removed AI refinement log block (flagged for human-review removal); collapsed four-bullet "Zahavi's Position" treatment into tightened bullets with the anchor quotation moved up rather than left as a standalone closing paragraph; tightened Metzinger contrast section by merging eliminativist statement and SMT setup; cut hedging throughout the Bidirectional Interaction paragraph (removed self-corrective acknowledgment of an earlier draft's overreach now subsumed by the weaker claim); compressed "Choice Under Metaphysical Commitment" by removing duplicate framing of the conditional structure that the Madhyamaka section already establishes; condensed Madhyamaka section by merging the closing "what this honesty costs and earns" meta-paragraph into the third reply, tightening the three replies, and trimming Thompson's middle path; tightened "Constitutive as Kind, Not as Degree" while preserving the falsifying-scenario specification and methodological-generalisation flag; condensed "Acknowledged Limits" and tightened all four "Relation to Site Perspective" entries while preserving every tenet connection. Preserved opening summary, anchor Zahavi quotation, three-way Strawson/Hume distinction, all three "Why the Map Requires" arguments, full Madhyamaka three-reply structure, kind/degree falsifying-scenario, and every tenet connection.
 
 ## 2026-04-30 02:40 UTC - pessimistic-review
 - **Status**: Success
