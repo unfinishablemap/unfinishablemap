@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense concepts/self-reference-paradox.md (3659 words, 146% of 2500-word target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds the 3500-word hard_warning threshold for `concepts/`. The current length results from the 2026-04-29 coalesce of `concepts/inspection-paradox.md` into `self-reference-paradox.md` (recent commit `54298e24b refine(coalesce): merge concepts/inspection-paradox.md into self-reference-paradox.md`); a deep-review at 2026-04-30 06:45 UTC verified the merge preserved coherence but the merged article carries duplicated structural exposition that has not yet been condensed. Apply the condense discipline named in the 2026-04-30 06:40 UTC refine of `concepts/coalesce-condense-apex-stability.md` §"The Retention Test": preserve the opening summary, the structural skeleton, the inspection-paradox subsection's distinguishing weak/strong forms, all tenet connections, and named falsifying scenarios; trim Further Reading and References to load-bearing entries; eliminate hedging redundancy with already-installed structural hedges; eliminate restated-section-structure prose. Target ≤2700 words (within soft threshold). The 2026-04-30 22:17 → 04:17 UTC five-condense session supplies operational worked examples (QCV 49% reduction; zahavian-minimal-self 32%; ai-consciousness-typology 22%; epiphenomenalist-threat 25%; noetic-feelings-void 22%). Tenet alignment: methodological. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-30
-
 ### P2: Add reciprocal back-link from voids/the-quantitative-comprehension-void.md to apex/medium-status-voids-in-cognition.md
 - **Type**: cross-review
 - **Status**: pending
@@ -3175,6 +3168,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Condense concepts/self-reference-paradox.md (3659 words, 146% of 2500-word target)
+- **Type**: condense
+- **Notes**: Article exceeds the 3500-word hard_warning threshold for `concepts/`. The current length results from the 2026-04-29 coalesce of `concepts/inspection-paradox.md` into `self-reference-paradox.md` (recent commit `54298e24b refine(coalesce): merge concepts/inspection-paradox.md into self-reference-paradox.md`); a deep-review at 2026-04-30 06:45 UTC verified the merge preserved coherence but the merged article carries duplicated structural exposition that has not yet been condensed. Apply the condense discipline named in the 2026-04-30 06:40 UTC refine of `concepts/coalesce-condense-apex-stability.md` §"The Retention Test": preserve the opening summary, the structural skeleton, the inspection-paradox subsection's distinguishing weak/strong forms, all tenet connections, and named falsifying scenarios; trim Further Reading and References to load-bearing entries; eliminate hedging redundancy with already-installed structural hedges; eliminate restated-section-structure prose. Target ≤2700 words (within soft threshold). The 2026-04-30 22:17 → 04:17 UTC five-condense session supplies operational worked examples (QCV 49% reduction; zahavian-minimal-self 32%; ai-consciousness-typology 22%; epiphenomenalist-threat 25%; noetic-feelings-void 22%). Tenet alignment: methodological. See `/condense` skill.
+- **Output**: obsidian/concepts/self-reference-paradox.md
 
 ### ✓ 2026-04-30: Cross-review apex/medium-status-voids-in-cognition.md against the-quantitative-comprehension-void's magnitude-probability face
 - **Type**: cross-review
