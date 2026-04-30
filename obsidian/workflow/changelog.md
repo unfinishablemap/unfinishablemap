@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 08:56:00+00:00
+ai_modified: 2026-04-30 09:01:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 09:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/medium-status-voids-in-cognition]]
+- **Trigger**: P2 task targeting six load-bearing fixes from [[reviews/pessimistic-2026-04-30b]]
+- **Changes**: (1) Reframed medium-status typology as the Map's stipulation rather than a discovery — replaced "less clearly identified" wording and added a physicalist-deflation paragraph conceding functional-architectural readings are coherent at the cognitive-science level and that the typology is neutral between functionalist and dualist readings. (2) Added one hedge sentence per tradition naming what each would *not* endorse — Heidegger (resists cognitive-architecture register), Frankfurt (normative not phenomenological), Ratcliffe (firmly naturalist), Carruthers (opposed to Heidegger; rejects non-naturalist moves), Vervaeke (project is naturalist). Added a structural-vs-interpretive convergence hedge. (3) Tightened criterion to handle attention (passes all three sub-conditions; treated as medium-adjacent / boundary case; "four" framed as provisional) and reconstructive episodic memory (now distinguished from memory's output as a candidate medium-status face). (4) Added new "What Would Falsify This Cluster" section with three operational candidates: controlled bypass of the relevance filter, lesion-dissociation of the four operations, verifiable scheme-articulation while operating. (5) Reframed bidirectional-interaction bridge from evidence to consistency-and-suggestion — "the void and the channel are the same structural feature viewed from opposite directions" replaced with explicit conditional framing that flags the affirming-the-consequent risk; cited counter-examples (DNS resolution, articulatory motor commands, predictive-coding precision-weighting). (6) Removed undefined "asymmetric mirror" phrase. Also softened the closing paragraph so it no longer contradicts the earlier concession that the cluster does not establish non-physicality.
+- **Word count delta**: +~720 words (mostly the new falsification section and qualifying inserts; structural cuts preserved — three-way typology, four-fold cluster, five-tradition convergence, three-part criterion, tenet bridge all intact)
+- **Published**: yes (draft: false unchanged)
 
 ## 2026-04-30 08:56 UTC - pessimistic-review
 - **Status**: Success
