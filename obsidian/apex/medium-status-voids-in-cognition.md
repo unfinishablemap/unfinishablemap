@@ -3,7 +3,7 @@ title: "Medium-Status Voids in Cognition"
 created: 2026-04-29
 modified: 2026-04-30
 human_modified: null
-ai_modified: 2026-04-30T13:46:00+00:00
+ai_modified: 2026-04-30T16:02:00+00:00
 last_deep_review: 2026-04-30T10:10:00+00:00
 draft: false
 description: "Four cognitive voids name operations that structure other contents — significance, filtering, gating, framing — while remaining invisible from inside."
@@ -133,11 +133,11 @@ The cluster does not establish that the medium is non-physical. The four article
 
 A category whose evidence comes mostly from breakdowns risks being structurally indistinguishable from a category whose alleged contents do not exist — the Popperian worry already faced by phlogiston. The medium-status framing earns its keep only if it specifies what would tell against it. Three concrete candidates:
 
-**Controlled bypass of the relevance filter.** If a paradigm — attentional-capture, psychedelic, or computational — could demonstrate that the relevance-determining operation can be suspended while the rest of cognition continues unimpaired, the relevance face would lose its medium status. The void was never the claim that filtering is *necessary in principle*; if the filter turns out to be contingent infrastructure that can be removed without ceasing to think, it is more capacity-like than medium-like.
+**Controlled bypass of the relevance filter.** If a paradigm — attentional-capture, psychedelic, or computational — could demonstrate that the relevance-determining operation can be suspended while the rest of cognition continues unimpaired, the [[relevance-void|relevance face]] would lose its medium status. The void was never the claim that filtering is *necessary in principle*; if the filter turns out to be contingent infrastructure that can be removed without ceasing to think, it is more capacity-like than medium-like.
 
-**Lesion-dissociation of the four operations.** If targeted lesions, pharmacological dissociations, or computational ablations could cleanly separate significance, filtering, gating, and framing — each running on independent substrates with no shared circularity — the convergence claim would weaken to four independent functions rather than a unified medium structure. The cluster predicts shared signature; clean dissociation falsifies the prediction.
+**Lesion-dissociation of the four operations.** If targeted lesions, pharmacological dissociations, or computational ablations could cleanly separate significance, filtering, gating, and framing — each running on independent substrates with no shared circularity — the convergence claim would weaken to four independent functions rather than a unified medium structure. The cluster predicts a shared signature across [[mattering-void|mattering]], [[relevance-void|relevance]], [[noetic-feelings-void|noetic feelings]], and [[conceptual-scheme-void|conceptual scheme]]; clean dissociation of any one operation falsifies the prediction.
 
-**Verifiable scheme-articulation while the scheme is operating.** If a meditator, psychedelic subject, or contemplative practitioner could articulate the conceptual scheme while using it — articulating the framework that makes the articulation possible, with the description checkable from outside — the conceptual-scheme face would lose its mode-fragile profile. The criterion stipulates that such inspection transforms what it inspects; a worked-out counter-example would put the stipulation under pressure.
+**Verifiable scheme-articulation while the scheme is operating.** If a meditator, psychedelic subject, or contemplative practitioner could articulate the [[conceptual-scheme-void|conceptual scheme]] while using it — articulating the framework that makes the articulation possible, with the description checkable from outside — the conceptual-scheme face would lose its mode-fragile profile. The criterion stipulates that such inspection transforms what it inspects; a worked-out counter-example would put the stipulation under pressure.
 
 None of the three is currently observed; that is what makes the framework usable. None is in principle excluded; that is what makes it falsifiable rather than merely descriptive. The candidates are not symmetrically weighted — a single clean lesion-dissociation result would do more damage than a contested introspective report — but each is operational enough to count.
 

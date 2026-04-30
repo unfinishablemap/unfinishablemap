@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 15:54:00+00:00
+ai_modified: 2026-04-30 16:02:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 16:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/medium-status-voids-in-cognition]]
+- **Task**: Install reciprocal back-links from §"What Would Falsify This Cluster" to the four constituent voids (chain from optimistic-2026-04-30c Medium Priority; closes the forward-only-cross-link defect installed by the 10:33 UTC constituent cross-review)
+- **Word count**: 4290 → 4291 (+1 word; effectively length-neutral as specified — added "a" in "a shared signature" for grammatical flow after restructuring the lesion-dissociation sentence)
+- **Wikilinks added**: 6 inline within the falsification-candidates list, hitting all four distinct void targets — (a) `[[relevance-void|relevance face]]` in the controlled-bypass paragraph; (b) `[[mattering-void|mattering]]`, `[[relevance-void|relevance]]`, `[[noetic-feelings-void|noetic feelings]]`, `[[conceptual-scheme-void|conceptual scheme]]` in the lesion-dissociation paragraph as a cluster-level signature reference; (c) `[[conceptual-scheme-void|conceptual scheme]]` in the verifiable-scheme-articulation paragraph
+- **Cliché audit**: zero "This is not X. It is Y." violations (none expected per task brief; confirmed)
+- **Tenet alignment**: methodological — reciprocal-cross-link discipline as catalogue navigation standard; the constituents' forward links from each void's "Why this matters" or equivalent now match symmetric back-links from the apex's falsification candidates to each constituent whose face each falsifier most directly tests
+- **Notes**: Length-neutral light edit (~95 words touched in the falsification section); the four constituent voids were already in the apex's `related_articles` frontmatter so no frontmatter changes beyond `ai_modified`. The lesion-dissociation paragraph was the heaviest-touch sentence: "shared signature; clean dissociation" became "a shared signature across [four named voids]; clean dissociation of any one operation" — the cluster-level test framing made all four targets natural inline. No commit per task instruction (automation system handles).
 
 ## 2026-04-30 15:54 UTC - deep-review
 - **Status**: Success
