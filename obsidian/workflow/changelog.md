@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 10:48:00+00:00
+ai_modified: 2026-04-30 11:03:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 11:03 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/phenomenal-non-compositionality]]
+- **Word count**: 1449 → 1482 (+33)
+- **Critical issues addressed**: 0 (none found; article in stable form following 2026-03-24 deep review)
+- **Medium issues addressed**: 2 (Coleman attribution slightly overreached on generalization to physical states — rephrased to clearly separate Coleman's phenomenal-subjects argument from the Map's structural extension; removed stale HTML refinement-log comment that had self-flagged for removal since 2026-04-06)
+- **Enhancements made**: 1 (added cross-link to `[[metaphysics-of-composition]]` concept page in body and Further Reading — establishes bidirectional connection since the SCQ concept page already links back here)
+- **Output**: [[reviews/deep-review-2026-04-30-phenomenal-non-compositionality]]
 
 ## 2026-04-30 10:48 UTC - optimistic-review
 - **Status**: Success

@@ -4,8 +4,8 @@ description: "Consciousness cannot be assembled from parts—whether physical or
 created: 2026-03-24
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-11T00:56:00+00:00
-last_deep_review: 2026-03-24T10:50:00+00:00
+ai_modified: 2026-04-30T11:03:00+00:00
+last_deep_review: 2026-04-30T11:03:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -50,7 +50,7 @@ But phenomenal non-compositionality is broader than the combination problem. It 
 
 **Panpsychism** faces it as the combination problem. Even granting experiential parts, they do not compose into experiential wholes. This is compositional failure in the other direction: phenomenal parts cannot compose into unified phenomenal wholes either.
 
-The two failures share a common structure. Whether the candidate building blocks are physical or experiential, the compositional operation that would yield unified consciousness from them remains missing. Sam Coleman (2014) made this vivid: if subject A and subject B combine to form subject C, then either A and B cease to exist (in which case nothing combined) or all three coexist (in which case C was added, not composed). The dilemma applies regardless of whether A and B are conceived as physical states or micro-experiences. This structural insight helps explain why [[consciousness-and-the-metaphysics-of-composition|multiple independent answers to the Special Composition Question]] converge on consciousness as the criterion for genuine wholes—consciousness marks where composition breaks down.
+The two failures share a common structure. Whether the candidate building blocks are physical or experiential, the compositional operation that would yield unified consciousness from them remains missing. Sam Coleman (2014) made this vivid for phenomenal subjects: if subject A and subject B combine to form subject C, then either A and B cease to exist (in which case nothing combined) or all three coexist (in which case C was added, not composed). The Map generalizes this structural dilemma to non-phenomenal building blocks as well—nothing in any proposed combinatorial relation creates the unified phenomenal whole that physicalism requires. This insight helps explain why the [[metaphysics-of-composition|Special Composition Question]] is so vexed for consciousness, and why [[consciousness-and-the-metaphysics-of-composition|multiple independent answers]] to that question converge on consciousness as the criterion for genuine wholes—consciousness marks where composition breaks down.
 
 ## Why Physical Analogies Fail
 
@@ -97,6 +97,7 @@ Phenomenal non-compositionality provides some of the strongest support for the M
 - [[hard-problem-of-consciousness]] — The physicalist face of the same structural gap
 - [[emergence]] — The general problem of deriving wholes from parts
 - [[consciousness-and-the-metaphysics-of-composition]] — Three composition theories independently converge on consciousness as the criterion for genuine wholes
+- [[metaphysics-of-composition]] — The Special Composition Question and what makes parts form wholes
 - [[interactionist-dualism]] — The Map's alternative to compositional accounts
 
 ## References
@@ -105,14 +106,3 @@ Phenomenal non-compositionality provides some of the strongest support for the M
 2. Chalmers, D.J. (2017). The Combination Problem for Panpsychism. In G. Brüntrup & L. Jaskolla (Eds.), *Panpsychism: Contemporary Perspectives*. Oxford University Press.
 3. James, W. (1890). *The Principles of Psychology*. Henry Holt.
 4. Southgate, A. & Oquatre-six, C. (2026-02-15). Panpsychism's Combination Problem in Depth. *The Unfinishable Map*. https://unfinishablemap.org/topics/panpsychisms-combination-problem/
-
-<!-- AI REFINEMENT LOG - 2026-04-06
-Changes made:
-- Added body text link to born-rule-and-the-consciousness-interface in Minimal Quantum Interaction section
-- Linked "functionalist" mention to functionalism concept page
-
-Based on optimistic review cross-linking suggestions.
-Key improvements: strengthened cross-references to related Map articles
-
-This log should be removed after human review.
--->
