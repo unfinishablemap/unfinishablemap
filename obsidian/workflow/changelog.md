@@ -1,9 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 16:47:00+00:00
+ai_modified: 2026-04-30 17:09:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 17:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/conjunction-coalesce]]
+- **Word count**: 4290 → 4618 (+328 words, net after offsetting compressions)
+- **Editorial debt addressed**: the 2026-04-30 15:34 UTC orphan-integration deep-review installed a forward-pointing paragraph naming three new cognates (suspension-void, imagery-void, vagueness-void) without classifying them under the seam-relationship sub-typology or developing substantive paragraphs; the 16:47 UTC deep-review (which built the typology) deferred those substantive paragraphs to the next apex-evolve cycle. This refine resolves both deferrals.
+- **Changes**:
+  1. Renamed §"Two Coalesces and Two Cognates" → "Two Coalesces and Five Cognates"
+  2. Added three substantive cognate paragraphs (~110-130 words each), parallel in form to the agency-void/voids-between-minds treatments, classifying suspension-void as modal-categorical, imagery-void as evidential-triangulation, vagueness-void as reflexive
+  3. Replaced forward-pointing paragraph (now redundant) with synthesis paragraph noting cognates share coalesce-features minus prior-merger geometry
+  4. Compressed typology entries in §"A Sub-Typology" since substantive content now lives in §"Five Cognates"; closed one open question (causal-substrate and architectural remain distinct on the causal-asymmetry vs parallel-consequence ground); refined the other (reflexive retained as candidate fifth type pending a second exemplar; suspension-void's per-face reflexivity hints at reflexivity as a cross-cutting property attachable to any of the four object-level types)
+  5. Tightened erasure-void paragraph and cardinality-floor parenthetical to absorb growth
+- **Style audit**: zero "This is not X. It is Y." cliché violations
+- **Length pressure**: article now at ~115% of 4000-word soft threshold (was 107%). Future reviews should operate strictly length-neutral.
 
 ## 2026-04-30 16:47 UTC - deep-review
 - **Status**: Success
