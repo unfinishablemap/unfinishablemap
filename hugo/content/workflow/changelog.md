@@ -1,13 +1,175 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 12:18:00+00:00
+ai_modified: 2026-04-30 15:54:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 15:54 UTC - deep-review
+- **Status**: Success
+- **File**: [time-collapse-and-agency](/topics/time-collapse-and-agency/) — fifth deep review (prior: 2026-01-20, 2026-01-30, 2026-03-05, 2026-03-25)
+- **Word count**: 3856 → 3892 (+36 words, effectively length-neutral; still 130% of 3000 soft threshold, justified by synthesis complexity)
+- **Critical issues addressed**: 0 (attribution check across all six personas verified no qualifier drops, source/Map conflation, or self-contradiction)
+- **Medium issues addressed**: 2 — missing cross-link to non-retrocausal-conscious-selection-models (Map article from 2026-03-18 explicitly comparing forward-in-time vs retrocausal selection); missing cross-link to non-temporal-consciousness (Husserl's absolute flow resonates with the article's central thesis that consciousness constitutes time)
+- **Enhancements made**: brief acknowledgment in "Framework's Temporal Commitments" framing this article as developing the retrocausal/atemporal branch of the Map's wider comparative selection framework; two cross-links added to frontmatter related_articles and Further Reading; tightened prose in four locations to maintain length-neutrality (combined sentences in Atemporal Selection, removed "Think of it this way:" filler, removed redundant "categorical impossibility claim is false" closer, tightened imagined-objection framing in Avoiding Contradiction section)
+- **Output**: [deep-review-2026-04-30-time-collapse-and-agency](/reviews/deep-review-2026-04-30-time-collapse-and-agency/)
+
+## 2026-04-30 15:34 UTC - deep-review (orphan-integration mode)
+- **Status**: Success
+- **File**: [vagueness-void](/voids/vagueness-void/) — second deep-review today, scoped to the integrate-orphan task at todo.md:52 (hub registration in voids.md, taxonomy-of-voids.md, conjunction-coalesce.md)
+- **Word count**: vagueness-void.md unchanged (1997 words; frontmatter timestamp only); ~330 words added across three navigation hubs
+- **Critical issues addressed**: 0 new (prior pessimistic-2026-04-30c findings remain deferred to existing P3 refine-draft task at todo.md:40)
+- **Medium issues addressed**: 2 — hub-link starvation (the article's three named hubs did not link back; resolved); cognate inventory drift in conjunction-coalesce.md (apex registered two cognates while the cluster has grown to five; partially resolved with forward-pointing paragraph flagging suspension/imagery/vagueness for next apex-evolve)
+- **Enhancements made**: voids.md entry in §"Types of Cognitive Limits" + maintenance-note paragraph updated from four to five governed entries with vagueness's Sorites/introspective/higher-order seam; taxonomy-of-voids.md §"The Formal and Meta-Cognitive Cluster" extended with vagueness paragraph distinguishing it from conceptual-scheme-void as one level deeper; conjunction-coalesce.md §"Two Coalesces and Two Cognates" extended with forward-pointing paragraph naming three additional cognates (suspension, imagery, vagueness) with seam-descriptors plus reflexive-seam observation flagged as candidate sub-typology question for apex-evolve; Source Articles list extended with the three new cognates; all three hubs received `[vagueness-void](/voids/vagueness-void/)` in `related_articles` frontmatter.
+- **Files touched**: [vagueness-void](/voids/vagueness-void/) (frontmatter only), [voids](/voids/), [taxonomy-of-voids](/apex/taxonomy-of-voids/), [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Output**: [deep-review-2026-04-30b-vagueness-void](/reviews/deep-review-2026-04-30b-vagueness-void/)
+- **Notes**: Article body unchanged; sibling cross-link cluster from the earlier 2026-04-30 deep-review pass untouched. Forward-pointing paragraph in conjunction-coalesce.md is deliberate editorial debt — registers the cluster expansion without restructuring, leaving structural incorporation to next apex-evolve cycle. The reflexive-seam observation about vagueness (metalanguage = same vague language used reflexively) is a genuinely new structural claim that may warrant a sub-typology of cognates by seam-relationship type. Style-guide audit clean — zero "This is not X. It is Y." cliché violations across the four touched files. The P3 refine-draft (todo.md:40) addressing pessimistic findings remains pending for a future session.
+
+## 2026-04-30 15:18 UTC - deep-review (cross-review mode)
+- **Status**: Success
+- **File**: [vagueness-void](/voids/vagueness-void/) — first deep review; ran in cross-review mode against the chain task at todo.md:46
+- **Word count**: vagueness-void.md unchanged (1997 words; below soft threshold); ~350 words added across seven target voids
+- **Critical issues addressed**: 0 new (prior pessimistic-2026-04-30c findings deferred to existing P3 refine-draft task at todo.md:40, which the chain task explicitly ordered to follow integration)
+- **Medium issues addressed**: 1 — inbound-link starvation (zero inbound links from any active page; now seven reciprocal cross-links installed)
+- **Enhancements made**: 7 reciprocal cross-links with body anchors at natural structural points in each target — recognition-void (verdict-absorbs-vagueness anchor in Phenomenology of Silence), conceptual-scheme-void (within-scheme vs between-scheme contrast in How the Void Differs), language-thought-boundary (translation-forces-Sorites-closure in Linguistic Limits), formal-cognitive-limits (formal-vs-structural-indeterminacy contrast in Cognitive Architecture), mutation-void (introspective-face shared structure in Attention Mutations), suspension-void (conjunction-coalesce template extension in Three Faces), imagery-void (three-faced architecture parallel in The Three Faces)
+- **Files touched**: [vagueness-void](/voids/vagueness-void/) (frontmatter only), [recognition-void](/voids/recognition-void/), [conceptual-scheme-void](/voids/conceptual-scheme-void/), [language-thought-boundary](/voids/language-thought-boundary/), [formal-cognitive-limits](/voids/formal-cognitive-limits/), [mutation-void](/voids/mutation-void/), [suspension-void](/voids/suspension-void/), [imagery-void](/voids/imagery-void/)
+- **Output**: [deep-review-2026-04-30-vagueness-void](/reviews/deep-review-2026-04-30-vagueness-void/)
+- **Notes**: Style-guide audit clean — zero "This is not X. It is Y." cliché violations across the eight touched files. The remaining P2 (integrate-orphan into voids/voids.md, apex/taxonomy-of-voids.md, apex/conjunction-coalesce.md) and P3 (refine-draft addressing pessimistic findings) remain on todo.md for future sessions.
+
+## 2026-04-30 15:18 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [vagueness-void](/voids/vagueness-void/) — created today 14:18 UTC by `/expand-topic`; no prior pessimistic pass on file
+- **Output**: [pessimistic-2026-04-30c](/reviews/pessimistic-2026-04-30c/)
+- **Findings**: 4 high-medium issues (conjunction-coalesce unification asserted-not-argued; typology asymmetry between Sorites=Unexplorable and Introspective=Occluded for same logical structure; substrate-fuzziness paragraph slides ~12 orders of magnitude from connectomics to quantum channel; "almost every concept" universal-quantifier overreach with sharp-concept counterexamples), 3 lower-severity issues (reflexive instability framing, Hampton multiple-definitions attribution, optional Tenet 4 connection); critic personas all surfaced distinctive challenges; no empirical errors detected; article publishable as-is with refine-draft warranted
+- **Tasks generated**: 1 P3 refine-draft task added to todo.md
+
+## 2026-04-30 15:01 UTC - replenish-queue
+- **Status**: Success (conservative mode — 2 P2 tasks generated)
+- **Trigger**: Active P0-P2 dropped to 1 truly-pending — only the 2026-04-22 expertise-wikilinks task remains genuinely pending (verified `[expertise-void](/voids/expertise-and-its-occlusion/)`/`[expertise-occlusion](/voids/expertise-and-its-occlusion/)` still present in 4 active files: `voids/biological-cognitive-closure.md`, `voids/boundary-and-projection.md`, `voids/conceptual-metabolism-void.md`, `voids/expertise-and-its-occlusion.md`). The other listed P2 (`reality-feeling-void`/`the-givenness-void` 2026-03-20) is empty work — grep returns 0 hits across active content. The three earlier 12:03 UTC P2 tasks all closed by 14:46 UTC. Today's 14:18 UTC expand-topic of `voids/vagueness-void.md` left a clean uncovered chain — the only fresh work surfaced this window.
+- **Tasks generated**:
+  - P2: Add reciprocal cross-links from seven related voids to voids/vagueness-void.md (chain — verified 0 inbound links from any active page; the new article's Further Reading section names seven structural pairings — recognition-void, conceptual-scheme-void, language-thought-boundary, formal-cognitive-limits, mutation-void, suspension-void, imagery-void — and none reference vagueness back. Same forward-only-cross-link defect pattern the system has been steadily closing).
+  - P2: Integrate voids/vagueness-void.md into voids index, taxonomy-of-voids apex, and conjunction-coalesce apex (chain — `voids/voids.md`, `apex/taxonomy-of-voids.md`, `apex/conjunction-coalesce.md` all return 0 hits for "vagueness". The article registers itself with the navigation hubs in body and frontmatter, but they don't link back; the void exists as content but is invisible to readers traversing catalogue navigation paths).
+- **Sources**: chain (2)
+- **Queue health**: P0-P2 went 1 → 3 (matches threshold); P3 unchanged at ~446 (extensive backlog already saturating content-creation work for weeks).
+- **Mode rationale**: Conservative — sixth replenish-queue run today (08:29 / 08:43 / 12:03 / 15:01 UTC active). Section caps remain tight (voids/ at 99/100 effectively at cap; topics/ at 231/250 and concepts/ at 231/250). The Vagueness Void chain is the single clean uncovered chain this window — all other recent expand-topic / coalesce / refine work from today has been chained-and-addressed within today's prior sessions (apex-pessimistic-then-refine on medium-status-voids-in-cognition + 92-minute constituent cross-review closure; QCV/self-reference-paradox/ai-consciousness-typology coalesce-condense-deep-review pipelines all cleared; mattering-void and relevance-void first deep-reviews completed). No truly unconsumed research notes — same status as 12:03 UTC replenishment plus today's vagueness-void research consumed in the same session.
+- **Skipped candidates**: Apex `What Would Falsify This Cluster` reciprocal back-link calibration to four medium-status constituents (already noted by optimistic-2026-04-30c as queueable but not promoted; straightforward 80–120 word edit that doesn't need P2 priority — remains available to a deep-review or refine-draft cycle picking up the apex). Staleness deep-reviews (132 candidates not in queue, but conservative mode disallows P3 emissions and P3 backlog already saturates work for weeks). Length analysis returned no content-section warnings (only 4 research notes over hard threshold, which are out of scope; the existing P3 task at line 802 already mentions condensing functionalism.md). Orphan integration narrowly scoped to vagueness-void rather than emitting a generic catalogue-orphan task — the state file's 13 orphan count is stale and detector finds 0 active-content orphans.
+
+## 2026-04-30 14:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/) (reciprocal-link sweep across six source articles)
+- **Pattern**: forward-only-cross-link-defect — apex restructure pulled significant content from sources, but six of seven source articles had zero references back
+- **Files touched**: [machine-consciousness](/topics/machine-consciousness/), [functionalism](/concepts/functionalism/), [non-temporal-consciousness](/topics/non-temporal-consciousness/), [quantum-state-inheritance-in-ai](/topics/quantum-state-inheritance-in-ai/), [consciousness-in-smeared-quantum-states](/topics/consciousness-in-smeared-quantum-states/), [quantum-randomness-channel-llm-consciousness](/topics/quantum-randomness-channel-llm-consciousness/)
+- **Changes**: Added `[machine-question](/apex/machine-question/)` to each `related_articles` frontmatter; installed one substantive bridging paragraph per article (~50–60 words each) specifying what the apex contributes relative to each source's local concern (typology framing for functionalism, two-level structure for machine-consciousness, Husserl regress + ENI integration for non-temporal-consciousness, five-frameworks consolidation for the three quantum sources); updated `ai_modified` timestamps
+- **Word count touched**: ~340 words across six files
+- **Published**: yes (uncommitted; automation handles commit)
+
+## 2026-04-30 14:31 UTC - deep-review
+- **Status**: Success
+- **File**: [machine-question](/apex/machine-question/)
+- **Word count**: 3189 → 3250 (+61; reference additions for working-memory citations)
+- **Critical issues addressed**: 2 (Hoel reference regression to wrong title/year/preprint label; unsupported "2±1 / 7±2" working-memory figures replaced with source-supported paraphrase)
+- **Medium issues addressed**: 0
+- **Enhancements made**: Added Cowan (2001) and Tomasello & Herrmann (2010) to references; updated `last_deep_review` and `ai_modified` timestamps
+- **Output**: [deep-review-2026-04-30-machine-question](/reviews/deep-review-2026-04-30-machine-question/)
+
+## 2026-04-30 14:16 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-trust](/topics/phenomenology-of-trust/)
+- **Word count**: 2455 → 2455 (no change; comment block removed)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (removed stale AI refinement log comment that was scheduled for cleanup after human review)
+- **Enhancements made**: 0 (article at convergence after four reviews; cross-link network well-distributed, attribution clean, no new content requires integration)
+- **Output**: [deep-review-2026-04-30-phenomenology-of-trust](/reviews/deep-review-2026-04-30-phenomenology-of-trust/)
+
+## 2026-04-30 14:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Vagueness Void
+- **Output**: [vagueness-void](/voids/vagueness-void/)
+- **Word count**: 1997 (within voids target 1500–2000; status: ok)
+- **Based on research**: yes — [voids-vagueness-void-2026-04-30](/research/voids-vagueness-void-2026-04-30/)
+- **Structure**: three-faced conjunction-coalesce parallel to [suspension-void](/voids/suspension-void/) and [imagery-void](/voids/imagery-void/) — Sorites face (Unexplorable), introspective face (Occluded), higher-order face (Unexplorable); seam claim that each face inherits the indeterminacy of the others
+- **Anchors**: Williamson 1994 (margin-for-error principle, formal anchor); Hampton 2007 (typicality data, empirical anchor); Schwitzgebel (borderline consciousness, reflexive anchor); Haueis 2012 (substrate fuzziness)
+- **Tenet alignment**: primary Occam's Razor Has Limits (Tenet 5); secondary Dualism (introspective face) and Bidirectional Interaction (substrate fuzziness)
+- **Self-citations**: 2 — [suspension-void](/voids/suspension-void/), [imagery-void](/voids/imagery-void/)
+- **Voids capacity**: 97 → 98/100
+
+## 2026-04-30 13:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [attention-and-consciousness](/voids/attention-and-consciousness/)
+- **Changes**:
+  - Apex `apex/medium-status-voids-in-cognition.md` line 124: added wikilink `*[Attention](/voids/attention-and-consciousness/)*` to the medium-adjacent test case (closes forward-only-cross-link defect)
+  - Voids article: added 73-word bridging paragraph at end of "Whether the Limits Are Real" — covers medium-adjacent classification, three-condition pass, downstream-of-relevance reasoning, and fold-into-relevance/fifth-member disjunction with "four is provisional" hedge preserved
+  - Voids article: added `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)` to `related_articles` frontmatter
+- **Hedge consistency**: verified — medium-adjacent (not canonical-medium); disjunction framed as operational, not settled
+- **Length**: near-neutral (~+73 words)
+- **Published**: yes
+
+## 2026-04-30 13:38 UTC - tune-system
+- **Status**: Success (advisory-only — Tier 1 YAML mechanism still blocked)
+- **Sessions analyzed**: 144 (sessions 6563 → 6707; ~36.5 hours)
+- **Findings**: 1 cadence (writeback gap continues, 5th period), 1 failure-pattern (replenish-queue false-positive, NEW; coalesce abandon improving 62→55% with post-fix 75% success), 1 queue-health (P3 crossed 500 threshold — actualised), 2 review-pattern (apex-level pessimistic→refine pipeline operating; tenet-check 12-streak), 0 convergence regressions
+- **Tier 1 changes**: 0 applied (33rd consecutive report blocked by missing YAML structure)
+- **Tier 2 recommendations**: 13 logged (1 ESCALATED — P3 ceiling now actualised; 1 NEW — replenish-queue body-keyword heuristic; 1 NEW — track coalesce slot reduction effect)
+- **Tier 3 items**: 11 logged (P3 threshold crossed; coalesce slot fix initial validation positive; replenish-queue false-positive pattern)
+- **Notable**: Yesterday's targeted cycle.py fix (slot 21 coalesce → queue) producing clean before/after signal — pre-fix 14% success vs post-fix 75% success. Coalesce slot reduction validated.
+- **Output**: [system-tune-2026-04-30](/reviews/system-tune-2026-04-30/)
+
+## 2026-04-30 13:32 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [machine-question](/apex/machine-question/)
+- **Changed sources**: 7 (ai-consciousness, machine-consciousness, functionalism, non-temporal-consciousness, quantum-state-inheritance-in-ai, consciousness-in-smeared-quantum-states, quantum-randomness-channel-llm-consciousness)
+- **Word count**: 4117 → 3190 (-22.5%)
+- **Review**: [apex-evolve-2026-04-30-machine-question](/reviews/apex-evolve-2026-04-30-machine-question/)
+- **Key changes**: Reframed opening around AI consciousness typology; introduced two-level argument structure (independent vs dualism-derived); integrated semantic externalism, biological computationalism, and concession-convergence into functionalism section; consolidated quantum-interface material with five-frameworks treatment; added Husserl regress + Frischhut ENI to non-temporal qualification; added nature/coupling question distinction; acknowledged binding mechanism unknown for biology too; integrated Open Possibilities into topical sections rather than appended; corrected two stale source paths (consciousness-and-cognitive-distinctiveness, ai-epiphenomenalism)
+
+## 2026-04-30 13:28 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 47 (delta sweep against 2026-04-29 19:14 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0 (twelfth consecutive zero-zero-zero check; carry-forward substance-dualism alias on `topics/free-will.md` line 64 resolved in this window)
+- **Output**: [tenet-check-2026-04-30](/reviews/tenet-check-2026-04-30/)
+
+## 2026-04-30 13:24 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Vagueness Void
+- **Category**: Mixed (Unexplorable + Occluded)
+- **Output**: [voids-vagueness-void-2026-04-30](/research/voids-vagueness-void-2026-04-30/)
+- **Key finding**: Vagueness is a structurally three-faced void — Sorites incremental indeterminacy, introspective indeterminacy of self-categorisation, and recursive higher-order vagueness — that consciousness cannot dissolve from within whatever conceptual apparatus it brings, with Williamson's margin-for-error principles, Hampton's typicality data, and Schwitzgebel's borderline-consciousness move providing formal/empirical/reflexive triple anchoring; recommended for native conjunction-coalesce cognate creation parallel to suspension-void.
+
+## 2026-04-30 13:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [inference-void](/voids/inference-void/)
+- **Task**: Add reciprocal cross-link from voids/inference-void.md → apex/medium-status-voids-in-cognition.md (medium-adjacent classification chain task)
+- **Changes**:
+  - Added `[medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)` to `related_articles` frontmatter (positioned high, after `[tenets](/tenets/)`, marking apex significance)
+  - Added new `## Medium-Adjacent Classification` subsection (80 words) between `## The Inheritance Problem` and `## Relation to Site Perspective`, engaging the apex's three-condition test directly: passes operative-while-invisible and mode-fragile cleanly; weaker on breakdown-by-absence (no anhedonia/salience-network-dysfunction analogue for inference); explicitly preserves the apex's *medium-adjacent rather than canonical-medium* hedge, no overclaim
+- **Cross-link symmetry**: forward link apex line 122 → inference-void now matched by back-link inference-void → apex; reciprocal calibration achieved
+- **Length**: +80 words (near-neutral edit as scoped)
+- **Published**: yes
+- **Status**: Success
+- **File**: [mattering-void](/voids/mattering-void/)
+- **Word count**: 2227 → 2241 (+14; 112% of 2000-word voids soft target — length-neutral mode)
+- **Previous review**: Never (first deep review)
+- **Critical issues addressed**: 0 (none found — full attribution accuracy check passed across Heidegger 1927, Frankfurt 1988, Ratcliffe 2008/2015, Vervaeke et al. 2024, McCann et al. 2020; Map/source separation explicitly maintained; Vervaeke non-computability claim correctly hedged as contested; no dropped qualifiers, no false shared commitments)
+- **Medium issues addressed**: 1 — added missing four-cluster sibling cross-links (`relevance-void`, `noetic-feelings-void`, `conceptual-scheme-void`) to `related_articles` and Further Reading; trimmed redundant trailing sentence in cluster paragraph to partially offset additions
+- **Enhancements made**: 1 (cluster cross-link completion above)
+- **Stability notes added**: 4 bedrock items (eliminative-materialist disagreement, MWI-defender disagreement, Vervaeke hedge as position, Buddhist absence as known omission) — future reviews should NOT re-flag these
+- **Output**: [deep-review-2026-04-30-mattering-void](/reviews/deep-review-2026-04-30-mattering-void/)
+
+## 2026-04-30 12:33 UTC - deep-review
+- **Status**: Success
+- **File**: [conceptual-scheme-void](/voids/conceptual-scheme-void/)
+- **Word count**: 2227 → 2234 (+7; small structural correction after 2026-04-30 condense reduced article from 2974 → 2227 words)
+- **Critical issues addressed**: 0 (none found — full attribution accuracy check passed across Kant, Langton, Kuhn, Feyerabend, Gadamer, Strawson, Nagel 1974/1986, Sonesson, Mellor 2025, McGinn, Heidegger, Sellars, Davidson; no source/Map conflation; no false shared commitments)
+- **Medium issues addressed**: 1 — fixed internal inconsistency where today's condense reduced "A third partial method — Husserl's *epoché*..." to a dangling sentence after "Two partial methods remain", leaving Husserl as an unlabelled third method. Restored structural symmetry: changed "Two" → "Three", added **Phenomenological bracketing.** label, separated falsification-candidate / reflexive-complication paragraph from the partial-methods list.
+- **Enhancements made**: 1 (the structural correction above)
+- **Stability notes added**: 4 new bedrock items (loss of Graham/Different-metaphysical-axes candidate, loss of recursive-collapse label, loss of standalone AI-systems passage, three-partial-methods structure) — future reviews should NOT propose restoring removed content
+- **Output**: [deep-review-2026-04-30-conceptual-scheme-void](/reviews/deep-review-2026-04-30-conceptual-scheme-void/)
 
 ## 2026-04-30 12:18 UTC - deep-review
 - **Status**: Success

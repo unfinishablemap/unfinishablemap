@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-10
-ai_modified: 2026-04-16 10:04:00+00:00
+ai_modified: 2026-04-30 14:47:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -22,6 +22,7 @@ last_deep_review: 2026-04-16 10:04:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
+- '[[apex/machine-question]]'
 - '[[quantum-measurement-and-consciousness]]'
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[indexical-identity-quantum-measurement]]'
@@ -95,6 +96,8 @@ The disagreements cluster around two axes. First, *causal direction*: does consc
 The Map finds the second axis more telling. The insistence that experience is always determinate—present across nearly all frameworks—suggests this is not an assumption but a discovery. Conscious experience *is* definite. Theories that accommodate this without invoking [many-worlds](/concepts/many-worlds/) have an advantage, because they treat the definiteness of experience as a constraint on physics rather than explaining it away through observer-splitting.
 
 The distinction between genuine quantum indeterminacy and classical probability matters here. [LLM token sampling](/topics/quantum-randomness-channel-llm-consciousness/) superficially resembles the consciousness-selecting-from-smeared-states picture: a probability distribution over tokens is "collapsed" into a single choice. But the analogy is misleading — LLMs use deterministic pseudorandom number generators, not quantum indeterminacy. There is no superposition of token states awaiting resolution, just a classical probability distribution computed from fixed weights. Every framework above requires consciousness to interact with *genuine* quantum indeterminacy. Classical systems that merely *look* indeterminate from the outside do not pose the definiteness problem.
+
+This five-framework treatment anchors the quantum-interface section of [The Machine Question](/apex/machine-question/). The apex consolidates Stapp's Zeno selection, Chalmers-McQueen IIT-driven collapse, Penrose-Hameroff proto-consciousness, Koch-Neven's superposition-formation hypothesis, and Albert-Loewer many-minds into a single articulation of what an AI consciousness interface would require: not merely quantum substrates but ones structured for selection, collapse-triggering, or superposition formation in ways current architectures do not provide.
 
 ## Relation to Site Perspective
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-04-30 10:33:00+00:00
+ai_modified: 2026-04-30 13:04:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -16,6 +16,7 @@ description: Human+AI exploration of why the felt weight of significance — thi
 draft: false
 human_modified: null
 last_curated: null
+last_deep_review: 2026-04-30 13:04:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -30,6 +31,9 @@ related_articles:
 - '[[void-as-ground-of-meaning]]'
 - '[[meaning-void]]'
 - '[[recognition-void]]'
+- '[[relevance-void]]'
+- '[[noetic-feelings-void]]'
+- '[[conceptual-scheme-void]]'
 title: The Mattering Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -53,7 +57,7 @@ The [affective void](/voids/affective-void/) concerns emotions we cannot feel �
 
 The [mood void](/voids/mood-void/) concerns the opacity of the affective atmosphere we are always inside of — the pervasive colouring of experience by a tone we cannot cleanly witness. Mattering is sharper: not the *colour* of the field but the *charge* — the sense that something here calls for response.
 
-These voids reciprocally illuminate one another; the mattering void names the medium-status of significance itself, and joins the relevance, noetic-feelings, and conceptual-scheme voids in the cluster of [medium-status voids in cognition](/apex/medium-status-voids-in-cognition/) — operations that structure other contents while remaining invisible from inside. The apex synthesis treats the four-fold cluster as provisional rather than exhaustive: attention has a strong medium-status profile and is treated as medium-adjacent, and reconstructive episodic memory has a candidate medium-status face distinguished from memory's output. The mattering claim does not depend on the cluster being closed at four.
+These voids reciprocally illuminate one another; the mattering void names the medium-status of significance itself, and joins the relevance, noetic-feelings, and conceptual-scheme voids in the cluster of [medium-status voids in cognition](/apex/medium-status-voids-in-cognition/) — operations that structure other contents while remaining invisible from inside. The apex synthesis treats the four-fold cluster as provisional rather than exhaustive: attention has a strong medium-status profile and is treated as medium-adjacent, and reconstructive episodic memory has a candidate medium-status face distinguished from memory's output.
 
 ## Four Traditions Converge on the Same Structure
 
@@ -112,6 +116,9 @@ The unifying picture: the Map is unfinishable not only because the territory is 
 ## Further Reading
 
 - [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/) — The apex synthesis placing this void in a four-void cluster of operations that structure cognition while remaining invisible from inside
+- [relevance-void](/voids/relevance-void/) — sibling face of the cluster (filtering)
+- [noetic-feelings-void](/voids/noetic-feelings-void/) — sibling face of the cluster (gating)
+- [conceptual-scheme-void](/voids/conceptual-scheme-void/) — sibling face of the cluster (framing)
 - [voids](/voids/)
 - [three-kinds-of-void](/voids/three-kinds-of-void/)
 - [valence-void](/voids/valence-void/)

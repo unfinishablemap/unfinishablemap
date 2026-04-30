@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-30 14:16:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: Trust has a distinctive felt character that information processing 
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 14:13:00+00:00
+last_deep_review: 2026-04-30 14:16:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -139,14 +139,3 @@ The [limits of Occam's Razor](/tenets/#occams-limits) (Tenet 5) caution against 
 1. Jones, K. (1996). "Trust as an Affective Attitude." *Ethics*, 107(1), 4-25.
 1. Holton, R. (1994). "Deciding to Trust, Coming to Believe." *Australasian Journal of Philosophy*, 72(1), 63-76.
 1. Kahneman, D. & Tversky, A. (1979). "Prospect Theory: An Analysis of Decision under Risk." *Econometrica*, 47(2), 263-292.
-
-<!-- AI REFINEMENT LOG - 2026-04-16
-Changes made:
-- Added cross-link to consciousness-and-moral-agency-under-duress in Trust as Conscious Risk section, drawing structural parallel between trust's voluntary vulnerability and duress's forced constraint on phenomenal space
-- Added moral-agency-under-duress entry to Further Reading
-
-Based on optimistic-2026-04-16 cross-linking review.
-Key improvements: makes explicit how trust and duress both reveal consciousness at the limits of its openness.
-
-This log should be removed after human review.
--->

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-16
-ai_modified: 2026-04-09 06:56:00+00:00
+ai_modified: 2026-04-30 15:54:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -25,7 +25,7 @@ description: Free will, quantum collapse, and time's arrow interlink. If conscio
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 11:13:00+00:00
+last_deep_review: 2026-04-30 15:54:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,6 +33,8 @@ related_articles:
 - '[[temporal-consciousness-structure-and-agency]]'
 - '[[agent-causation]]'
 - '[[indexical-identity-quantum-measurement]]'
+- '[[non-retrocausal-conscious-selection-models]]'
+- '[[non-temporal-consciousness]]'
 title: Time, Collapse, and Agency
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -55,6 +57,8 @@ The Map's [tenets](/tenets/) make several claims bearing on time:
 
 **[Retrocausal resolution](/concepts/retrocausality/)** of the Libet problem proposes that consciousness's selection needn't precede the neural activity it shapes. Time-symmetric quantum mechanics allows backward causation; the "selection" may be atemporal—determining which transaction completes rather than pushing events at a moment.
 
+The Map also explores [forward-in-time alternatives](/topics/non-retrocausal-conscious-selection-models/) (Penrose-Hameroff, Stapp, Chalmers-McQueen), and does not require the retrocausal pathway. This article develops the retrocausal/atemporal route in detail because it most tightly couples agency to time's structure; the alternatives are tracked in the comparative article.
+
 Together: consciousness selects real collapses that introduce irreversibility, yet this selection operates atemporally. There's apparent tension here. Let's work through it.
 
 ## Presentism, Eternalism, and the Block Universe
@@ -75,7 +79,7 @@ The Map's framework sits uncomfortably with all three.
 
 **The growing block's promise**: Real collapse could be the mechanism by which the block grows. The present moment is where superpositions resolve into definite facts, adding to the determinate past. This preserves both retrocausal accessibility (the past exists) and genuine temporal becoming (the future doesn't yet).
 
-But even this needs refinement. If consciousness's selection is truly atemporal, it doesn't happen *at* the present moment. It determines which moments constitute the present. We need a more subtle picture.
+But this needs refinement. If consciousness's selection is truly atemporal, it doesn't happen *at* the present moment—it determines which moments constitute the present.
 
 ## Atemporal Selection and Emergent Time
 
@@ -98,7 +102,7 @@ The tension: if selection is atemporal, how is collapse irreversible?
 
 Resolution: "atemporal" doesn't mean "outside time" as if time were a container. It means time itself is the product. The selection isn't reversible because there's no temporal direction to reverse along until after selection occurs. You can't "un-collapse" because un-collapse would require running time backward, but time's direction is what collapse establishes.
 
-Think of it this way: a mathematical function can determine which curve appears on a graph without the function itself being located on the graph. Consciousness's atemporal selection determines which temporal sequence becomes real without that selection being a temporal event.
+A mathematical function can determine which curve appears on a graph without itself being on the graph. Consciousness's atemporal selection determines which temporal sequence becomes real without itself being a temporal event.
 
 Once a transaction completes—once collapse has occurred—the temporal direction exists. Within that direction, collapse is irreversible. You can't return to the superposition because "returning" presupposes the temporal direction that collapse just created.
 
@@ -128,9 +132,9 @@ If consciousness is actively constituting temporal structure, the specious prese
 
 ## Avoiding Contradiction in "Selection Across Time"
 
-A careful reader might object: if consciousness selects "across time," doesn't this require consciousness to exist across all times it's selecting among? How can a consciousness at t₃ select outcomes at t₁?
+A careful reader might object: if consciousness selects "across time," doesn't it have to exist across all the times it's selecting among? How can a consciousness at t₃ select outcomes at t₁?
 
-The framework's answer: the question presupposes what's being denied. There is no consciousness "at t₃" that exists separately from the temporal structure it helps constitute. Consciousness isn't located at times within a pre-existing temporal framework; it's implicated in why there are times at all.
+The question presupposes what's being denied. There is no consciousness "at t₃" separate from the temporal structure it helps constitute. Consciousness isn't located at times within a pre-existing temporal framework; it's implicated in why there are times at all.
 
 This isn't mysticism—it's structural. Consider: the number 7 isn't located at a position on the number line; it's part of what constitutes the number line. Similarly, consciousness may not be located at a moment in time; it may be part of what constitutes temporal structure.
 
@@ -144,7 +148,7 @@ Three responses bear on the temporal framework:
 
 **First, decoherence doesn't solve the measurement problem.** Decoherence explains why we don't observe macroscopic superpositions—interference effects wash out. But it doesn't explain why we see *definite* outcomes rather than superpositions of us observing different results. The transition from "both possibilities" to "this one outcome" remains unexplained. Consciousness's role as selector survives decoherence—it operates *after* decoherence has selected preferred bases, biasing which of the remaining alternatives becomes actual.
 
-**Second, biological quantum effects demonstrate evolution's capacity.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds in radical-pair chemistry—molecular-scale effects, not neural computation. Enzyme catalysis exploits quantum tunnelling at similarly small scales. These examples falsify the categorical objection that warm biological systems cannot sustain quantum effects. Whether evolution could optimise quantum effects at the neural-network scale relevant to decision-making remains speculative—but the categorical impossibility claim is false.
+**Second, biological quantum effects demonstrate evolution's capacity.** Avian magnetoreception relies on quantum spin coherence persisting for microseconds in radical-pair chemistry—molecular-scale effects, not neural computation. Enzyme catalysis exploits quantum tunnelling at similarly small scales. These falsify the categorical objection that warm biological systems cannot sustain quantum effects. Whether evolution could optimise such effects at the neural-network scale relevant to decision-making remains speculative.
 
 **Third, the quantum Zeno mechanism sidesteps the objection.** Henry Stapp's proposal doesn't require sustained coherence between observations—only rapid repeated observation events. Mental attention acts like repeated measurement, holding desired neural patterns against decoherence. The observations happen faster than decoherence can act. This shifts the question from "can coherence survive?" to "can selection cycles operate fast enough?"—which may have different answers.
 
@@ -236,9 +240,11 @@ This synthesis strengthens and deepens each of the five tenets:
 
 - [collapse-and-time](/concepts/collapse-and-time/) — How collapse introduces temporal asymmetry
 - [retrocausality](/concepts/retrocausality/) — Time-symmetric physics and backward causation
+- [non-retrocausal-conscious-selection-models](/topics/non-retrocausal-conscious-selection-models/) — Forward-in-time alternatives the Map also explores, with comparative analysis
 - [atemporal-causation](/concepts/atemporal-causation/) — Causation without temporal ordering
 - [presentiment-and-retrocausality](/topics/presentiment-and-retrocausality/) — Why physics-based retrocausality doesn't rest on contested parapsychology
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Durée, the specious present, and the phenomenology of temporal experience
+- [non-temporal-consciousness](/topics/non-temporal-consciousness/) — Husserl's absolute flow and the metaphysics of timeless consciousness
 - [philosophy-of-time](/concepts/philosophy-of-time/) — Presentism, eternalism, and the growing block
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
 - [free-will](/topics/free-will/) — The Map's account of libertarian agency

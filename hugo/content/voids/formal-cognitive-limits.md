@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-17
-ai_modified: 2026-04-30 04:43:00+00:00
+ai_modified: 2026-04-30 15:18:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -37,6 +37,7 @@ related_articles:
 - '[[concession-convergence-philosophy-of-mathematics]]'
 - '[[self-transcendence-void]]'
 - '[[inference-void]]'
+- '[[vagueness-void]]'
 title: 'Formal Cognitive Limits: Computation and Incompleteness'
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -105,6 +106,8 @@ Erik Hoel extends Gödel's results to science itself: "There is no accepted lawf
 ## Cognitive Architecture and Mathematical Access
 
 Formal limits concern what any system cannot prove. A complementary limit concerns what human minds cannot *survey* or *comprehend* even when formal proofs exist. The [abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) explores this: we prove theorems about transfinite cardinals and n-dimensional spaces, and accept non-surveyable proofs (Tymoczko, 1979) we cannot personally verify, while lacking genuine grasp of what these objects are. Truths may exist that our architecture cannot grasp, and the boundary between what we *can* and *cannot* think mathematically may itself be inaccessible from within.
+
+A further axis distinguishes these formal limits from the [vagueness void](/voids/vagueness-void/). The limits in this article are *formal*: they describe what no algorithm can compute or prove, however much it has of any resource. Vagueness marks a different limit—genuine indeterminacy: borderline cases where no sharp answer exists at any computational scale, not because the question is too complex but because the concept itself does not deliver a determinate verdict. Formal undecidability and structural vagueness are sister voids of complementary type—a domain may be tractable but undecidable, decidable but vague, both, or neither.
 
 ## Phenomenology of the Edge
 

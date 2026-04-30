@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-26
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-04-30 13:18:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -20,6 +20,7 @@ modified: *id001
 related_articles:
 - '[[voids]]'
 - '[[tenets]]'
+- '[[medium-status-voids-in-cognition]]'
 - '[[question-formation-void]]'
 - '[[meta-epistemology-of-limits]]'
 - '[[conceptual-scheme-void]]'
@@ -115,6 +116,10 @@ Indirect methods are more tractable. Studying invalid inferences and the felt se
 This article reasons about the inference void using inferences. The argument cannot escape the void it describes; it can only register the void by performing operations the void declares unobservable. The load-bearing claim is not that inference is unanalysable in principle but that it is *currently* unanalysable from inside the apparatus, and that the analytical apparatus and the analysed operation are the same kind of thing.
 
 This structure carries a falsifiability concern. Evidence *against* the thesis would be a fully reductive computational model of inference capturing all phenomenological signatures inferential agents report — the felt difference between valid and invalid inference, the asymmetry between fast transparent and effortful opaque inference, and the registration of step-licensing as such — without remainder. No such model currently exists; the thesis is therefore not vacuous, but its empirical exposure is genuine. The Map treats the inheritance not as a defect of the article but as a property of the void: any account of the inference void must inherit the limitation it describes.
+
+## Medium-Adjacent Classification
+
+The [medium-status cluster](/apex/medium-status-voids-in-cognition/) classifies the inference void as *medium-adjacent* rather than canonical-medium. The recursive structure passes the first two sub-conditions cleanly: inference is operative-while-invisible (the licensing operation structures reasoning without appearing as a content of it) and mode-fragile (looking directly at a step decomposes it). The third sub-condition — breakdown-by-absence — is weaker: inference does not cleanly fail in observed pathologies the way mattering fails in anhedonia or relevance fails in salience-network dysfunction. The partial pass is honest: medium-adjacent rather than overclaimed.
 
 ## Relation to Site Perspective
 

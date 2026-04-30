@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-28
-ai_modified: 2026-04-29 23:40:00+00:00
+ai_modified: 2026-04-30 15:18:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -32,6 +32,7 @@ related_articles:
 - '[[non-human-minds-as-void-explorers]]'
 - '[[phenomenology-of-imagination]]'
 - '[[ai-consciousness-typology]]'
+- '[[vagueness-void]]'
 title: The Imagery Void
 topics:
 - '[[philosophy-of-mind]]'
@@ -44,7 +45,7 @@ The void is not exotic. It sits beneath every act of remembering a face, rehears
 
 ## The Three Faces
 
-The void has three distinguishable but interlocking faces, each with its own evidential profile.
+The void has three distinguishable but interlocking faces, each with its own evidential profile. This three-faced architecture is the conjunction-coalesce template the [suspension-void](/voids/suspension-void/) and the [vagueness void](/voids/vagueness-void/) also instantiate: a single void whose faces are individually recognised problems and whose conjunction is the analytical claim, with each face's seam to the others the load-bearing structural unit.
 
 ### The Fidelity Face
 

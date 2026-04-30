@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-26
-ai_modified: 2026-04-18 14:09:00+00:00
+ai_modified: 2026-04-30 15:18:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -29,6 +29,7 @@ related_articles:
 - '[[what-voids-reveal]]'
 - '[[phenomenology-of-the-edge]]'
 - '[[phenomenology-of-linguistic-failure]]'
+- '[[vagueness-void]]'
 title: The Language-Thought Boundary
 topics: []
 ---
@@ -46,6 +47,8 @@ Two companion articles map adjacent territory: the [consciousness-language inter
 Some thoughts expressible in one language resist translation to another. Russian speakers distinguish *siniy* (dark blue) and *goluboy* (light blue) as separate colours, and their perception tracks the distinction—they detect differences between these blues faster than English speakers do. Kuuk Thaayorre speakers of Australia use cardinal directions rather than left and right; their spatial cognition is fundamentally oriented. These are limits of *this* language, not language as such.
 
 The weak Sapir-Whorf hypothesis—that language influences habitual thought—has substantial empirical support. Japanese speakers thinking in Japanese categorise objects differently than when thinking in English. The language you're using changes what thoughts come readily, though it doesn't absolutely determine what you can think.
+
+The boundary intersects the [vagueness void](/voids/vagueness-void/) at the point of translation. *Siniy* and *goluboy* carve a borderline region English treats as a single shade with vague edges; rendering the Russian sentence into English forces a closure on the Sorites series the source language did not close. Each translation has to commit to a determinate verdict where the source treated the cut-off as indeterminate—a vagueness-shaped commitment baked into every cross-linguistic transit.
 
 ### Language-as-Such Limits
 

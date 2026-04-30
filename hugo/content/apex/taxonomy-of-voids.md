@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-10
-ai_modified: 2026-04-30 03:11:00+00:00
+ai_modified: 2026-04-30 15:34:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-30 03:11:00+00:00
 apex_sources:
@@ -72,6 +72,7 @@ related_articles:
 - '[[noetic-feelings-void]]'
 - '[[medium-status-voids-in-cognition]]'
 - '[[coalesce-condense-apex-stability]]'
+- '[[vagueness-void]]'
 title: A Taxonomy of Voids
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -137,7 +138,7 @@ The [voids between minds](/voids/voids-between-minds/) mark where individual con
 
 ### The Formal and Meta-Cognitive Cluster
 
-The [formal cognitive limits](/voids/formal-cognitive-limits/) applies Gödelian limits to self-knowledge. The [recursion void](/voids/recursion-void/) shows metacognitive depth terminating around fifth order. The [cartography problem](/voids/apophatic-cartography/) proves a complete catalog of cognitive voids impossible in principle—the map of voids cannot contain itself. The [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) adds a second-order twist: no finite mind can estimate the *scope* of its ignorance from within. The [closure-types void](/voids/closure-types-void/) imposes a twin reflexive constraint: representational closure (concepts cannot frame the target) and psychological closure (concepts exist but resist assembly) look similar from within, so the catalogue tracks *suspected* closures whose types stay partially hidden. The [conceptual scheme void](/voids/conceptual-scheme-void/) shifts the analysis from concepts to the *shape* concepts must take—reality may contain features for which architecture has no categorial schema, producing a distinctive "soft absence." These formal limits constrain not just what can be thought but what can be thought *about* thought.
+The [formal cognitive limits](/voids/formal-cognitive-limits/) applies Gödelian limits to self-knowledge. The [recursion void](/voids/recursion-void/) shows metacognitive depth terminating around fifth order. The [cartography problem](/voids/apophatic-cartography/) proves a complete catalog of cognitive voids impossible in principle—the map of voids cannot contain itself. The [epistemic horizon void](/voids/meta-epistemology-of-limits/#the-scope-question-estimating-total-ignorance-from-within) adds a second-order twist: no finite mind can estimate the *scope* of its ignorance from within. The [closure-types void](/voids/closure-types-void/) imposes a twin reflexive constraint: representational closure (concepts cannot frame the target) and psychological closure (concepts exist but resist assembly) look similar from within, so the catalogue tracks *suspected* closures whose types stay partially hidden. The [conceptual scheme void](/voids/conceptual-scheme-void/) shifts the analysis from concepts to the *shape* concepts must take—reality may contain features for which architecture has no categorial schema, producing a distinctive "soft absence." The [vagueness void](/voids/vagueness-void/) operates one level deeper still: almost every concept consciousness deploys admits borderline cases consciousness cannot resolve from inside, with three faces (third-personal Sorites indeterminacy, first-personal introspective indeterminacy, meta-level higher-order vagueness) conjoined because each inherits the indeterminacy of the others, and using a sharper concept to investigate a vague one merely displaces the borderline rather than dissolving it. These formal limits constrain not just what can be thought but what can be thought *about* thought.
 
 ## How Thought Fails: The Topology of Failure
 

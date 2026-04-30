@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-04-30 11:48:00+00:00
+ai_modified: 2026-04-30 15:18:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -20,7 +20,7 @@ description: Every mind operates with a finite system of categories and inferent
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-29 09:36:00+00:00
+last_deep_review: 2026-04-30 12:33:00+00:00
 modified: *id001
 related_articles:
 - '[[voids]]'
@@ -48,6 +48,7 @@ related_articles:
 - '[[compound-failure-signatures]]'
 - '[[transformative-experience-void]]'
 - '[[question-formation-void]]'
+- '[[vagueness-void]]'
 title: The Conceptual Scheme Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -82,6 +83,8 @@ A categorial gap also resists acquisition. The [language-thought boundary](/void
 
 **Against the [language-thought boundary](/voids/language-thought-boundary/).** That boundary can be felt — one senses content resisting articulation. The scheme void typically produces no such signal: the framework feels like transparent access to truth; the walls of the prison are made of the same material as the air inside.
 
+**Against the [vagueness void](/voids/vagueness-void/).** That void operates *within* any scheme: every concept the scheme deploys admits borderline cases the scheme cannot resolve from inside, regardless of which categorial apparatus it uses. The scheme void operates *between* schemes, or at the level of the apparatus as a whole, where the inventory may lack shapes for features reality permits. Vagueness is the limit internal to any framework; the scheme void marks the framework's outer edge.
+
 ## Candidate Voids
 
 Each candidate is offered as *a place the void might lie*, not a proven instance.
@@ -104,13 +107,15 @@ Kant held the categorial apparatus he catalogued was *determinate* — fixed, un
 
 The [phenomenology-of-the-edge](/voids/phenomenology-of-the-edge/) describes vertigo at most void boundaries; the scheme void more often produces *false clarity* — a confident sense one understands the alternative framework when one has only translated it. Encountering an incommensurable framework typically registers not as wonder but as irritation — the framework protecting its coherence by treating alien frameworks as errors ([self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) asks whether this protection is structural or whether consciousness has a *stake* in its current framework). *Framework slippage* — reading a text from a radically different tradition producing a brief, disorienting moment where one's own framework becomes visible as a framework — is the strongest first-person signature, before transparency reasserts.
 
-Davidson's translatability challenge may not reach the level the void operates at: not beliefs, but what counts as a belief, what questions seem meaningful, and what forms an explanation can take. Two partial methods remain.
+Davidson's translatability challenge may not reach the level the void operates at: not beliefs, but what counts as a belief, what questions seem meaningful, and what forms an explanation can take. Three partial methods remain.
 
 **Historical immersion.** Sustained engagement with radically different traditions — Buddhist no-self, Advaita's pure consciousness, Indigenous relational ontologies — can produce brief destabilisation. Never complete, but it can make the framework momentarily visible.
 
 **[Apophatic mapping](/voids/apophatic-cartography/).** Trace where the framework produces strain, paradox, or explanatory failure; the shape of what lies beyond can be inferred from the pattern of breakdown. The [question formation void](/voids/question-formation-void/) sits upstream: apophatic mapping can only negate what has been formulated, and unformulated questions cast no shadow.
 
-Husserl's *epoché* attempts to bracket the framework itself; whether it succeeds is contested. The apex synthesis's [falsification candidate](/apex/medium-status-voids-in-cognition/#what-would-falsify-this-cluster) — verifiable scheme-articulation while the scheme operates, checkable from outside — is the strongest external constraint on the claim that the void is mode-fragile rather than merely difficult. Each method confronts a reflexive complication: describing scheme-dependence requires metaphors whose distortions cannot be identified from within them — [the metaphor void](/voids/metaphor-void/) operates one level beneath.
+**Phenomenological bracketing.** Husserl's *epoché* attempts to suspend the natural attitude and bracket the framework itself; whether it succeeds is contested.
+
+The apex synthesis's [falsification candidate](/apex/medium-status-voids-in-cognition/#what-would-falsify-this-cluster) — verifiable scheme-articulation while the scheme operates, checkable from outside — is the strongest external constraint on the claim that the void is mode-fragile rather than merely difficult. Each method confronts a reflexive complication: describing scheme-dependence requires metaphors whose distortions cannot be identified from within them — [the metaphor void](/voids/metaphor-void/) operates one level beneath.
 
 ## Relation to Site Perspective
 

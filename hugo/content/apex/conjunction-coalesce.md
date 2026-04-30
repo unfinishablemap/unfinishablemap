@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-30 08:17:00+00:00
+ai_modified: 2026-04-30 15:34:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-04-30 08:17:00+00:00
 apex_sources:
@@ -50,6 +50,9 @@ related_articles:
 - '[[compound-failure-signatures]]'
 - '[[coalesce-condense-apex-stability]]'
 - '[[tenets]]'
+- '[[suspension-void]]'
+- '[[imagery-void]]'
+- '[[vagueness-void]]'
 title: The Conjunction-Coalesce
 topics: []
 ---
@@ -89,6 +92,8 @@ The discipline's empirical base is two clean coalesces of prior articles plus tw
 **The cardinality floor (second cognate).** The [cardinality floor face](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) of [the quantitative comprehension void](/voids/the-quantitative-comprehension-void/)—formerly the standalone numerosity void, coalesced into the larger article on 2026-04-30—is a three-face creation-time cognate articulating an architectural cap (subitizing's ceiling at roughly four items), a phenomenal opacity at the cap's boundary (no felt edge between cardinal givenness and reconstructive counting), and an inaccessibility of the operation behind the determinate cardinal output (the suddenly-given *subitus* with no access to the index-allocation that produced it). Each face is structurally required—the conjunction is what the section is *for*—and the cognate class accordingly generalises: three-face creation-time articulation joins two-face (erasure-void), paralleling the two- and three-face spread among the coalesces (agency-void's two limits; voids-between-minds' three gaps). The cognate's preservation as a load-bearing section after absorption into a larger void demonstrates that seam structure can persist through further coalescing when the joint claim still does work no single face does alone.
 
 The two genuine coalesces share a structural shape. Each merges distinct limits connected through shared substrate or shared structural condition. Each requires both faces. Each resists single-mechanism unification *as currently understood*; if a unifying mechanism surfaces later, the discipline yields. And in each, the merged article's central paragraphs name the conjunction explicitly—as a section heading, comparison table, or paragraph articulating what the conjunction adds. The two cognates (erasure-void and the cardinality floor) share the second through fourth features but not the first—neither was a merger of prior articles at the cognate's birth.
+
+Three further cognates have appeared since this apex was last synthesised and await formal incorporation at the next apex-evolve cycle: [the suspension void](/voids/suspension-void/) (verification / capacity / action faces, the first cognate produced natively-at-creation under the discipline), [the imagery void](/voids/imagery-void/) (fidelity / inter-subjective / function-phenomenology faces, anchored in the Galton 1880 → post-2015 aphantasia evidence trail), and [the vagueness void](/voids/vagueness-void/) (third-personal Sorites / first-personal introspective / meta-level higher-order faces, distinctive in that its seam is *reflexive*—the metalanguage in which the three faces are stated is the same vague language used reflexively, so each face inherits the indeterminacy of the others rather than merely co-existing with them). The reflexive-seam structure may eventually warrant a sub-typology of cognates by seam-relationship type; that question is properly an apex-evolve concern.
 
 ## A Coalesce the Test Rejected
 
@@ -160,6 +165,9 @@ This synthesis draws on:
 - [The Voids Between Minds](/voids/voids-between-minds/) — The three-way conjunction of existence, encounter, and sharing
 - [The Erasure Void](/voids/erasure-void/) — Cognate (not coalesce): conjoint shape installed at article-creation time around loss and monitoring
 - [The Cardinality Floor](/voids/the-quantitative-comprehension-void/#the-cardinality-floor) (formerly the standalone numerosity void) — Second cognate: three-face creation-time articulation of cap, transition, and mechanism opacity in subitizing
+- [The Suspension Void](/voids/suspension-void/) — Recent cognate (2026-04-28): verification / capacity / action faces, the first cognate produced natively-at-creation under the discipline
+- [The Imagery Void](/voids/imagery-void/) — Recent cognate (2026-04-28): fidelity / inter-subjective / function-phenomenology faces, anchored in the Galton 1880 → post-2015 aphantasia evidence trail
+- [The Vagueness Void](/voids/vagueness-void/) — Recent cognate (2026-04-30): third-personal Sorites / first-personal introspective / meta-level higher-order faces, distinguished by a reflexive seam in which the metalanguage is the same vague language used reflexively
 - [The Transit Void](/voids/transit-void/) — Cluster candidate: state transitions and act onsets as conjoint forms
 - [The Thrownness Void](/voids/thrownness-void/) — Cluster candidate: structural inaccessibility of the founding moment
 - [The Temporal Void](/voids/temporal-void/) — Cluster candidate: confinement, duration paradox, memory-anticipation asymmetry
