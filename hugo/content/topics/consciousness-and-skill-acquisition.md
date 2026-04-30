@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-19
-ai_modified: 2026-04-28 05:42:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -29,7 +29,7 @@ concepts:
 - '[[interface-friction]]'
 - '[[temporal-consciousness]]'
 - '[[self-and-self-consciousness]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[neuroplasticity]]'
 created: 2026-02-02
 date: &id001 2026-03-22

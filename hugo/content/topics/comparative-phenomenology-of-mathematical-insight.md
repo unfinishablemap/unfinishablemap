@@ -1,14 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-14
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[cognitive-phenomenology]]'
 - '[[phenomenology]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
-- '[[phenomenology-of-creative-insight]]'
+- '[[creative-consciousness]]'
 - '[[qualia]]'
 - '[[explanatory-gap]]'
 - '[[introspection]]'
@@ -128,7 +128,7 @@ The Map's fifth tenet—that Occam's razor has limits—is illustrated by the in
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — The theoretical complement: how foundational programmes converge on conceding irreducibility
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
-- [phenomenology-of-creative-insight](/concepts/creative-consciousness/)
+- [creative-consciousness](/concepts/creative-consciousness/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling)
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)

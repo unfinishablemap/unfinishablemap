@@ -4,7 +4,7 @@ description: "A structural family of cognitive limits—cardinality, magnitudes,
 created: 2026-02-02
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T07:45:00+00:00
+ai_modified: 2026-04-30T18:50:00+00:00
 last_deep_review: 2026-04-30T07:45:00+00:00
 draft: false
 topics:
@@ -35,6 +35,7 @@ related_articles:
   - "[[intrinsic-nature-void]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
   - "[[medium-status-voids-in-cognition]]"
+  - "[[conjunction-coalesce]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -63,6 +64,8 @@ Two distinct cognitive systems underpin non-symbolic numerical cognition (Feigen
 Tracking and cardinal grasp come apart: a subject tracking five moving objects does not arrive at "there are five" without counting or estimating. On the phenomenal reading the Map adopts—dialectical, not knockdown—this dissociation suggests cardinality-perception is a distinct conscious operation rather than a downstream function of attentional bandwidth. Cross-cultural evidence sharpens the architectural reading: the Mundurukú perform like French controls on approximate tasks but stumble on exact subtraction (Pica et al., 2004); the Pirahã case (Frank et al., 2008) yields convergent evidence, though its linguistic-cognitive interpretation is contested (Nevins, Pesetsky & Rodrigues, 2009). Number words function as cognitive technology, not as the basis of cardinality perception itself.
 
 The transition between subitizing and counting is itself opaque. We have the experience of *knowing how many* (≤4) and the experience of *having to count or estimate* (≥5), but no experience of the boundary—no "almost subitizing five." One regime gives way to another the way a perceptual figure flips. The third layer is the inaccessibility of the operation that produces the subitizing output: cardinality arrives all at once; we cannot witness the FINST allocation, the parallel binding, or the output's assembly. The subitizing case supplies a sharp instance of *output* (the determinate cardinal) phenomenally given while *operation* (parallel index allocation) has no phenomenal character—connecting to [[noetic-feelings-void|noetic feelings]], [[self-opacity|self-opacity]], and [[cognitive-phenomenology|cognitive phenomenology]].
+
+The three faces named in this section—architectural cap, transition opacity, output-without-operation—serve in [[conjunction-coalesce|the conjunction-coalesce]] as a creation-time cognate of the seam-preserving discipline, classified there as the *architectural* seam-type: faces that are joint consequences of a single architectural feature whose presentation has structurally distinct sides, with no one face delivering the architecture-as-presenting alone.
 
 ## The Magnitude and Probability Domain
 
@@ -156,3 +159,17 @@ The void would be empirically pressured by: a controlled training intervention s
 16. Tversky, A., & Kahneman, D. (1971). "Belief in the Law of Small Numbers." *Psychological Bulletin*, 76(2), 105–110.
 17. Tversky, A., & Kahneman, D. (1974). "Judgment under Uncertainty: Heuristics and Biases." *Science*, 185(4157), 1124–1131.
 18. Tymoczko, T. (1979). "The Four-Color Problem and Its Philosophical Significance." *Journal of Philosophy*, 76(2), 57–83.
+
+<!-- AI REFINEMENT LOG - 2026-04-30 18:50 UTC
+Changes made (refine-draft from 2026-04-30 17:32 UTC eighth deep-review of apex/conjunction-coalesce.md, follow-ups):
+- Closed forward-only-cross-link defect: cardinality floor was named in apex's §"Two Coalesces and Five Cognates" (line 84) as a creation-time cognate and classified in §"A Sub-Typology" (line 100) as the *architectural* seam-type, but the void article had no reciprocal hook acknowledging the apex's use.
+- Installed ~58-word reciprocal hook at end of §"The Cardinality Floor" naming the three faces (architectural cap, transition opacity, output-without-operation) and the architectural-seam classification.
+- Added [[conjunction-coalesce]] to related_articles frontmatter.
+- Updated ai_modified to 2026-04-30T18:50:00+00:00.
+
+Cliché audit: zero "This is not X. It is Y." violations found. Article uses acceptable "X rather than Y" and "X, not Y" constructions (lines 49, 63, 105, 109).
+
+Length impact: ~58 words added; near-length-neutral targeted edit. No deep-review modification (last_deep_review preserved at 2026-04-30T07:45:00+00:00).
+
+This log should be removed after human review.
+-->

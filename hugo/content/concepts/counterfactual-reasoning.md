@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-03-25 03:53:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -14,7 +14,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[episodic-memory]]'
 - '[[prospective-memory]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[reasons-responsiveness]]'
 created: 2026-01-28
 date: &id001 2026-01-28

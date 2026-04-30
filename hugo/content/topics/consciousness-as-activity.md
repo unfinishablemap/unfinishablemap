@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-22 01:41:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[emergence]]'
 - '[[interactionist-dualism]]'
 - '[[temporal-consciousness]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[intentionality]]'
 - '[[unity-of-consciousness]]'
 - '[[embodied-cognition]]'

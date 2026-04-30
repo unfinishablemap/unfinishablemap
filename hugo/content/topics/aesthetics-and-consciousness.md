@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-22
-ai_modified: 2026-04-21 06:38:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[witness-consciousness]]'
 - '[[temporal-consciousness]]'
 - '[[cognitive-phenomenology]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[intentionality]]'
 - '[[unity-of-consciousness]]'
 - '[[inverted-qualia]]'
@@ -70,7 +70,6 @@ related_articles:
 - '[[consciousness-and-skill-acquisition]]'
 - '[[phenomenology-of-intellectual-life]]'
 - '[[phenomenology-of-agency-vs-passivity]]'
-- '[[phenomenology-of-creative-insight]]'
 - '[[ineffable-encounter-void]]'
 title: Aesthetics and Consciousness
 topics:
@@ -164,7 +163,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Experiential evidence for consciousness theories
-- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — Aesthetic experience guiding scientific theory choice
+- [creative-consciousness](/concepts/creative-consciousness/) — Aesthetic experience guiding scientific theory choice
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Cross-traditional convergence on aesthetic and evaluative qualia, including Indian rasa theory
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction

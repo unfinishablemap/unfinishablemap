@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-28
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -13,7 +13,7 @@ coalesced_from:
 - /topics/mathematical-knowledge-and-insight/
 concepts:
 - '[[cognitive-phenomenology]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[consciousness-as-amplifier]]'
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
@@ -58,7 +58,6 @@ related_articles:
 - '[[intrinsic-nature-void]]'
 - '[[argument-from-reason]]'
 - '[[epistemic-advantages-of-dualism]]'
-- '[[phenomenology-of-creative-insight]]'
 - '[[comparative-phenomenology-of-mathematical-insight]]'
 - '[[concession-convergence-philosophy-of-mathematics]]'
 title: Consciousness and Mathematics
@@ -118,7 +117,7 @@ Critics object that the argument assumes human consistency—an unproven claim. 
 
 ## The Poincaré Phenomenon
 
-Poincaré's 1908 account reveals the phenomenology of creative insight. Working on Fuchsian functions, weeks of conscious preparation yielded nothing. Then, boarding an omnibus: "the idea came to me... that the transformations I had used to define the Fuchsian functions were identical with those of non-Euclidean geometry." Hadamard (1945) found the same pattern—preparation, incubation, illumination, verification—what the [phenomenology-of-creative-insight](/concepts/creative-consciousness/) examines across domains.
+Poincaré's 1908 account reveals the phenomenology of creative insight. Working on Fuchsian functions, weeks of conscious preparation yielded nothing. Then, boarding an omnibus: "the idea came to me... that the transformations I had used to define the Fuchsian functions were identical with those of non-Euclidean geometry." Hadamard (1945) found the same pattern—preparation, incubation, illumination, verification—what the [phenomenology of creative insight](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight) examines across domains.
 
 Three features resist computational explanation:
 
@@ -212,7 +211,7 @@ The view would be supported by continued failure of AI to achieve transformation
 
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — How each philosophy of mathematics implies a philosophy of consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader case for phenomenal character in thinking
-- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis
+- [creative-consciousness](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Gödel's incompleteness and quantum measurement as the same self-referential obstruction
 - [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — Cognitive limits on mathematical comprehension

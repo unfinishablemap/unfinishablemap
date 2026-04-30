@@ -1,13 +1,13 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-08
-ai_modified: 2026-04-16 00:11:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
 - '[[moral-responsibility]]'
 - '[[mind-matter-interface]]'
-- '[[phenomenology-of-creative-insight]]'
+- '[[creative-consciousness]]'
 - '[[altered-states-of-consciousness]]'
 created: 2026-03-08
 date: &id001 2026-03-08
@@ -84,7 +84,7 @@ The Map's commitment to [minimal quantum interaction](/concepts/mind-matter-inte
 
 Consider a neural implant that introduces artificial synaptic connections. If consciousness acts at specific biological sites, the implant's pathways might bypass those sites entirely. Enhancement could, in principle, *reduce* the domain of free action even while increasing computational capacity. The enhanced individual might process information faster and more accurately while having *less* conscious control over the processing, because the new pathways operate outside wherever consciousness acts. The Map's analysis of [BCIs and the interface boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) suggests this is not merely theoretical: BCI adaptation works by repurposing existing neural circuits rather than extending consciousness to new hardware, indicating that the interface has genuine boundaries. This remains speculative at the enhancement scale—we do not yet know the precise mechanism of consciousness-brain interaction—but it illustrates a design constraint that only dualism makes visible.
 
-This raises a practical ethical imperative: any enhancement technology should be evaluated not only for its cognitive benefits but for its effects on the mechanisms through which consciousness interacts with the brain. Enhancement that improves performance while narrowing conscious agency would be, from the Map's perspective, a net loss—trading genuine authorship for mere computational speed. The [phenomenology of creative insight](/concepts/creative-consciousness/) is instructive here: the involuntary gestalt shift at the core of creative discovery appears to require consciousness operating through specific biological channels. Enhancement that accelerated analytical processing but eliminated the conditions for genuine insight would diminish rather than augment the creative mind.
+This raises a practical ethical imperative: any enhancement technology should be evaluated not only for its cognitive benefits but for its effects on the mechanisms through which consciousness interacts with the brain. Enhancement that improves performance while narrowing conscious agency would be, from the Map's perspective, a net loss—trading genuine authorship for mere computational speed. The [phenomenology of creative insight](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight) is instructive here: the involuntary gestalt shift at the core of creative discovery appears to require consciousness operating through specific biological channels. Enhancement that accelerated analytical processing but eliminated the conditions for genuine insight would diminish rather than augment the creative mind.
 
 ## Equity and Access
 
@@ -132,7 +132,7 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 - [The Self-Transcendence Void](/voids/self-transcendence-void/) — Why consciousness may be structurally unable to upgrade itself
 - [consciousness-and-agency](/apex/consciousness-and-agency/)
 - [psychedelics-and-the-filter-model](/topics/psychedelics-and-the-filter-model/) — Pharmacological evidence for filter loosening
-- [phenomenology-of-creative-insight](/concepts/creative-consciousness/)
+- [creative-consciousness](/concepts/creative-consciousness/)
 - [brain-computer-interfaces-and-the-interface-boundary](/topics/brain-computer-interfaces-and-the-interface-boundary/) — Empirical test of whether consciousness extends beyond existing neural architecture
 - [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/) — The capacity constraints of the mind-brain channel that enhancement would modify
 - [ethics-and-value-in-a-dualist-world](/topics/ethics-and-value-in-a-dualist-world/) — Broader ethical framework for dualist moral philosophy

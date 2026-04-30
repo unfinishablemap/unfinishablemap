@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-04-30 10:33:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -54,7 +54,7 @@ related_articles:
 - '[[relevance-void]]'
 - '[[suspension-void]]'
 - '[[consciousness-and-scientific-explanation]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[the-quantitative-comprehension-void]]'
 title: The Noetic Feelings Void
 topics:

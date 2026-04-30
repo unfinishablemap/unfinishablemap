@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-20
-ai_modified: 2026-04-15 23:21:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -11,7 +11,7 @@ concepts:
 - '[[agent-causation]]'
 - '[[phenomenology-of-choice-and-volition]]'
 - '[[philosophy-of-time]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[prehension]]'
 - '[[contemplative-epistemology]]'
 created: 2026-02-20
@@ -137,7 +137,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [agent-causation](/concepts/agent-causation/) — The self as originator of action in durée
 - [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/) — The lived experience of deliberation and decision
 - [consciousness-and-the-ontology-of-temporal-becoming](/topics/consciousness-and-the-ontology-of-temporal-becoming/) — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
-- [consciousness-and-creativity](/concepts/creative-consciousness/) — Duration's creative novelty and the generation-selection model
+- [creative-consciousness](/concepts/creative-consciousness/) — Duration's creative novelty and the generation-selection model
 - [prehension](/concepts/prehension/) — Whitehead's concept of experiential inheritance
 - [temporal-consciousness-structure-and-agency](/topics/temporal-consciousness-structure-and-agency/) — How temporal ontology constrains theories of consciousness
 

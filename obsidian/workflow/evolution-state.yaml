@@ -1,19 +1,23 @@
-last_updated: '2026-04-30T18:20:36.919966+00:00'
-session_count: 6727
-cycle_position: 6355
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-30T18:35:36.920316+00:00'
+session_count: 6728
+cycle_position: 6356
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-30T15:01:44.960837+00:00'
   optimistic-review: '2026-04-30T16:32:19.662361+00:00'
   check-tenets: '2026-04-30T13:18:11.907335+00:00'
   check-links: '2026-04-30T13:18:11.907335+00:00'
-  deep-review: '2026-04-30T17:17:34.838669+00:00'
+  deep-review: '2026-04-30T18:35:36.920316+00:00'
   tune-system: '2026-04-30T13:18:11.907335+00:00'
   research-voids: '2026-04-30T13:18:11.907335+00:00'
   coalesce: '2026-04-30T17:47:34.839612+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-30T13:18:11.907335+00:00'
-  agentic-social: '2026-04-30T18:36:19.875372+00:00'
+  agentic-social: '2026-04-30T18:35:36.920316+00:00'
 last_git_push: '2026-04-30T16:32:19.662361+00:00'
 last_tweet_date: '2026-04-30'
 content_stats:
@@ -47,15 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: 'refine-draft (obsidian/voids/inference-void.md
-
-
-    Task context:
-
-    Fo)'
-  type: refine-draft
-  date: '2026-04-30'
-  outcome: success
 - task: 'refine-draft (obsidian/voids/attention-and-consciousness.md
 
 
@@ -145,11 +140,7 @@ recent_tasks:
   type: deep-review
   date: '2026-04-30'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/consciousness-and-the-problem-of-measurement-standards/
-    date: '2026-04-30T18:36:19.875339+00:00'
-    topics:
-    - hard-problem-of-consciousness
-    - consciousness-and-scientific-explanation
-    - methodology-of-consciousness-research
+- task: deep-review
+  type: deep-review
+  date: '2026-04-30'
+  outcome: success

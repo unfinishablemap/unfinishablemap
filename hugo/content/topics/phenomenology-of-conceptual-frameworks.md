@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-16
-ai_modified: 2026-04-17 01:10:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -16,6 +16,7 @@ concepts:
 - '[[cognitive-phenomenology]]'
 - '[[metacognition]]'
 - '[[temporal-structure-of-understanding]]'
+- '[[creative-consciousness]]'
 created: 2026-02-17
 date: &id001 2026-04-16
 description: What it is like to dwell inside a framework and what it is like when
@@ -48,7 +49,6 @@ related_articles:
 - '[[self-opacity]]'
 - '[[necessary-opacity]]'
 - '[[phenomenology-of-the-edge]]'
-- '[[phenomenology-of-creative-insight]]'
 - '[[consciousness-and-the-structure-of-scientific-revolutions]]'
 title: The Phenomenology of Conceptual Frameworks
 topics:
@@ -192,7 +192,7 @@ The claim that framework inhabitation and change have irreducible phenomenal cha
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) — What happens when inhabited frameworks collide
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The felt texture of epistemic cognition, intellectual effort, and understanding
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/) — Holding position when frameworks clash
-- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — The scientific-anomaly dimension of framework breakdown
+- [creative-consciousness](/concepts/creative-consciousness/) — The scientific-anomaly dimension of framework breakdown
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — The perceptual parallel: how perception itself transforms through learning
 - [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/) — Kuhnian analysis applied to consciousness studies
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why simplicity is framework-relative

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-15
-ai_modified: 2026-03-19 03:11:00+00:00
+ai_modified: 2026-04-30 18:36:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -20,7 +20,7 @@ description: When expectation fails not at the level of prediction but at the le
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-19 03:11:00+00:00
+last_deep_review: 2026-04-30 18:36:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -28,7 +28,7 @@ related_articles:
 - '[[surprise-prediction-error-and-consciousness]]'
 - '[[explanatory-gap]]'
 - '[[mysterianism]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[consciousness-selecting-neural-patterns]]'
 title: Categorical Surprise
 topics:
@@ -48,7 +48,7 @@ Categorical surprise is structurally different. The system confronts a situation
 
 **Absence of relevant prior expectation.** In ordinary surprise, there was a specific expectation that was violated. In categorical surprise, no expectation was available to be violated. The experiential character is less "that's wrong" and more "I didn't even know this was possible."
 
-**Restructuring rather than revision.** The aftermath of categorical surprise is not a corrected prediction but a reorganised framework—new categories, new dimensions of variation, sometimes a new sense of what questions are worth asking.
+**Restructuring rather than revision.** The aftermath of categorical surprise is a reorganised framework rather than a corrected prediction—new categories, new dimensions of variation, sometimes a new sense of what questions are worth asking.
 
 ## The Computational Difficulty
 
@@ -60,7 +60,7 @@ Bayesian nonparametric methods (Dirichlet process mixtures, Indian buffet proces
 
 This limitation is not merely practical. Tarski's undefinability theorem establishes that a formal language cannot define its own truth predicate; Gödel's incompleteness theorems show that sufficiently powerful formal systems cannot prove all truths about themselves from within. The pattern is general: self-referential completeness is structurally unachievable. A system that perfectly modelled its own representational boundaries would need a representation of those boundaries—which would itself need to be within the representational space, leading to regress.
 
-A critic might object that this regress applies equally to non-physical consciousness: why should a non-physical mind be any better at modelling its own boundaries? The Map's response is that consciousness does not escape the regress by *solving* it but by *experiencing* it. The felt quality of categorical surprise—the vertigo of "I didn't know I didn't know"—is the phenomenal marker of hitting this structural limit. Computational systems hit the same limit silently; conscious beings hit it with vertigo, and that phenomenal signal is what enables the reorganisation that follows. The capacity is not for complete self-knowledge but for felt recognition of incompleteness—and that felt recognition, the Map argues, is irreducibly phenomenal.
+A critic might object that this regress applies equally to non-physical consciousness: why should a non-physical mind be any better at modelling its own boundaries? The Map's response is that consciousness does not escape the regress by *solving* it but by *experiencing* it. The felt quality of categorical surprise—the vertigo of "I didn't know I didn't know"—is the phenomenal marker of hitting this structural limit. Computational systems hit the same limit silently; conscious beings hit it with vertigo, and that phenomenal signal is what enables the reorganisation that follows. The capacity is for felt recognition of incompleteness rather than complete self-knowledge—and that felt recognition, the Map argues, is irreducibly phenomenal.
 
 ## Phenomenology of Categorical Surprise
 
@@ -68,7 +68,7 @@ The [epistemic emotions](/concepts/epistemic-emotions/) surrounding categorical 
 
 **Disorientation.** Ordinary surprise produces a jolt; categorical surprise produces something closer to vertigo. The ground of expectation itself has shifted. There is a moment of phenomenal free-fall before the new framework begins to coalesce.
 
-**Retrospective reinterpretation.** After categorical surprise, previous experiences are reinterpreted through the new framework. Kuhn described this at the social scale in scientific revolutions: when Lavoisier reinterpreted combustion as combination with oxygen rather than release of phlogiston, chemists did not simply add a new fact—they reinterpreted decades of experimental results as having been about the wrong thing entirely (Kuhn 1962, ch. X). The Map's analysis of the [phenomenology of creative insight](/concepts/creative-consciousness/) examines this process in detail — the distinctive *theoretical vertigo* of anomaly recognition, and the felt sense that the new framework was already there in nature rather than constructed by the scientist. At the individual scale, the same restructuring produces the felt sense that one was seeing the world wrong all along, not merely predicting it inaccurately.
+**Retrospective reinterpretation.** After categorical surprise, previous experiences are reinterpreted through the new framework. Kuhn described this at the social scale in scientific revolutions: when Lavoisier reinterpreted combustion as combination with oxygen rather than release of phlogiston, chemists did not simply add a new fact—they reinterpreted decades of experimental results as having been about the wrong thing entirely (Kuhn 1962, ch. X). The Map's analysis of the [phenomenology of creative insight](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight) examines this process in detail — the distinctive *theoretical vertigo* of anomaly recognition, and the felt sense that the new framework was already there in nature rather than constructed by the scientist. At the individual scale, the same restructuring produces the felt sense that one was seeing the world wrong all along, not merely predicting it inaccurately.
 
 **Epistemic humility.** Categorical surprise generates awareness of one's own cognitive limitations in a way ordinary surprise does not. Ordinary surprise teaches that a specific prediction was wrong. Categorical surprise teaches that one's way of making predictions was incomplete—and raises the question of how many other blind spots remain.
 
@@ -84,7 +84,7 @@ The connection runs both directions. Creative acts produce categorical surprise 
 
 ## Why Categorical Surprise Matters for Consciousness
 
-Categorical surprise provides a specific test case for the [explanatory-gap](/concepts/explanatory-gap/). Ordinary surprise is computationally tractable: prediction error signals, model updating, precision weighting. But categorical surprise—the recognition that one's entire framework is inadequate—resists this treatment for structural reasons, not merely because we lack better models.
+Categorical surprise provides a specific test case for the [explanatory-gap](/concepts/explanatory-gap/) (Chalmers 1996). Ordinary surprise is computationally tractable: prediction error signals, model updating, precision weighting. But categorical surprise—the recognition that one's entire framework is inadequate—resists this treatment for structural reasons, not merely because we lack better models.
 
 If consciousness is what enables framework transcendence—the capacity to recognise and reorganise one's own representational boundaries—then categorical surprise is consciousness caught in the act. It is not the only evidence for irreducible [phenomenal-consciousness](/concepts/phenomenal-consciousness/), but it is among the most vivid, because the phenomenal character (vertigo, free-fall, the click of new understanding) correlates with a cognitive achievement (framework revision) that has no adequate computational account.
 
@@ -115,7 +115,7 @@ The Map's treatment of categorical surprise would be undermined by several possi
 - [mysterianism](/concepts/mysterianism/) — Cognitive closure and the limits of framework transcendence
 - [phenomenology-of-anticipation](/topics/phenomenology-of-anticipation/) — Protention and the forward-directed structure of experience
 - [epistemic-emotions](/concepts/epistemic-emotions/) — The family of feelings directed at knowledge itself
-- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — Categorical surprise in the context of scientific anomaly and paradigm shifts
+- [creative-consciousness](/concepts/creative-consciousness/) — Categorical surprise in the context of scientific anomaly and paradigm shifts
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The non-retrocausal selection mechanism that categorical surprise may activate most intensely
 
 ## References

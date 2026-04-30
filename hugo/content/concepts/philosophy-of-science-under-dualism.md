@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-03-22 07:12:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -72,7 +72,7 @@ More precisely, parsimony as a theory-choice criterion is domain-relative. Withi
 
 Kuhn's insight is relevant here — as the Map's [Kuhnian analysis](/topics/consciousness-and-the-structure-of-scientific-revolutions/) develops, physicalism exhibits the hallmarks of a paradigm in crisis: anomalies accumulating, competing theories proliferating, and no successor framework consolidating.
 
-Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. The Map's analysis of the [phenomenology of creative insight](/concepts/creative-consciousness/) adds a further dimension: scientists report that aesthetic experience — the felt sense of a theory's elegance or "rightness" — causally guides their choices, suggesting that phenomenal consciousness plays an irreducible role in theory selection.
+Theory choice is not algorithmic. Scientists weigh virtues differently depending on disciplinary norms and background assumptions. The Map's analysis of the [phenomenology of creative insight](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight) adds a further dimension: scientists report that aesthetic experience — the felt sense of a theory's elegance or "rightness" — causally guides their choices, suggesting that phenomenal consciousness plays an irreducible role in theory selection.
 
 Materialist philosophy of mind weights parsimony heavily because it treats the physical as a settled baseline. Dualist philosophy of mind weights explanatory adequacy — the capacity to account for phenomenal experience — more heavily because it treats consciousness as the most certain datum we have.
 
@@ -125,7 +125,7 @@ The [Minimal Quantum Interaction](/tenets/#minimal-quantum-interaction) tenet pr
 - [reductionism-and-consciousness](/topics/reductionism-and-consciousness/) — Why reductive strategies fail for consciousness
 - [evolution-under-dualism](/topics/evolution-under-dualism/) — How evolutionary biology operates under dualist assumptions
 - [dualism](/concepts/dualism/) — The converging arguments for irreducibility
-- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — How the felt experience of creative insight and scientific discovery supports bidirectional interaction
+- [creative-consciousness](/concepts/creative-consciousness/) — How the felt experience of creative insight and scientific discovery supports bidirectional interaction
 
 ## References
 

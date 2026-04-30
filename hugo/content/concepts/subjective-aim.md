@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-13
-ai_modified: 2026-04-06 15:20:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -113,7 +113,7 @@ Subjective aim intersects with the Map's tenets in illuminating but also tension
 - [agent-teleology](/concepts/agent-teleology/) — How conscious beings introduce genuine purpose; subjective aim as metaphysical grounding
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's forward-directedness of experience, structurally close to subjective aim
 - [downward causation](/concepts/mental-causation-and-downward-causation/) — Subjective aim as a form of top-down causal influence within Whitehead's framework
-- [consciousness-and-creativity](/concepts/creative-consciousness/) — Creative advance and the generation-through-selection synthesis
+- [creative-consciousness](/concepts/creative-consciousness/) — Creative advance and the generation-through-selection synthesis
 
 ## References
 

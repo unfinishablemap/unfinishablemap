@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-12
-ai_modified: 2026-04-16 01:52:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -10,7 +10,7 @@ coalesced_from:
 concepts:
 - '[[consciousness-as-amplifier]]'
 - '[[baseline-cognition]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[phenomenal-consciousness]]'
 - '[[access-consciousness]]'
 - '[[concepts/functionalism]]'
@@ -166,7 +166,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How consciousness enables recursive language
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Interface differences across species
 - [infant-consciousness](/voids/infant-consciousness/) — The developmental threshold
-- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis
+- [creative-consciousness](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the consciousness-brain interface
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions

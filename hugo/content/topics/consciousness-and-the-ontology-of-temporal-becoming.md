@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-11
-ai_modified: 2026-04-15 19:19:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[anoetic-noetic-autonoetic-consciousness]]'
 - '[[qualia]]'
 - '[[phenomenology]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[attention-as-interface]]'
 - '[[concepts/consciousness-selecting-neural-patterns]]'
 - '[[agent-causation]]'

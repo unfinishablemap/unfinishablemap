@@ -1,13 +1,56 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 17:54:00+00:00
+ai_modified: 2026-04-30 18:50:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 18:50 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
+- **Task**: Close forward-only-cross-link defect from 2026-04-30 17:32 UTC eighth deep-review of [conjunction-coalesce](/apex/conjunction-coalesce/) follow-ups (cardinality floor missing reciprocal hook)
+- **Changes**: Installed ~58-word reciprocal hook at end of §"The Cardinality Floor" naming the three faces (architectural cap, transition opacity, output-without-operation) and the architectural-seam classification; added [conjunction-coalesce](/apex/conjunction-coalesce/) to `related_articles` frontmatter
+- **Cliché audit**: zero "This is not X. It is Y." violations
+- **Length impact**: ~58 words added; near-length-neutral
+- **Published**: yes
+
+## 2026-04-30 18:36 UTC - deep-review
+- **Status**: Success
+- **File**: [categorical-surprise](/concepts/categorical-surprise/)
+- **Word count**: 1863 → 1864 (+1)
+- **Critical issues addressed**: 0 (article stable after two prior reviews)
+- **Medium issues addressed**: 2 (LLM-cliché contrast constructs at lines 48 and 60 rephrased to "X rather than Y" form; unused Chalmers (1996) reference now cited inline at the explanatory-gap mention)
+- **Enhancements made**: 0 (no structural changes — surface-level prose polish only)
+- **Stability**: Third deep review; article has converged. All bedrock philosophical disagreements (eliminative materialist continuity, regress parity, Buddhist no-self) carried forward from prior stability notes.
+- **Output**: [deep-review-2026-04-30-categorical-surprise](/reviews/deep-review-2026-04-30-categorical-surprise/)
+
+## 2026-04-30 18:20 UTC - deep-review
+- **Status**: Success
+- **Task**: Propagate seam-typology classifications from [conjunction-coalesce](/apex/conjunction-coalesce/) to the three forward-pointed cognates
+- **Article under review**: [conjunction-coalesce](/apex/conjunction-coalesce/) (not modified)
+- **Articles modified**: [suspension-void](/voids/suspension-void/), [imagery-void](/voids/imagery-void/), [vagueness-void](/voids/vagueness-void/)
+- **Classifications propagated**: modal-categorical → suspension-void; evidential-triangulation → imagery-void; reflexive → vagueness-void
+- **Word count changes**: suspension 2764 → 2788 (+24); imagery 2148 → 2177 (+29); vagueness 1997 → 2044 (+47, status `ok` → `soft_warning`); apex 4623 unchanged
+- **Critical issues addressed**: 0 (propagation task; classifications already verified in 8th review)
+- **Medium issues addressed**: 1 (cognate-side reciprocal-link gap at typology layer for the three forward-pointed cognates)
+- **Enhancements made**: cognate-side classification hooks; explicit cross-link to companion coalesce on each (suspension→agency-void, imagery→voids-between-minds, vagueness→suspension-void at single-face reflexivity); imagery-void frontmatter `related_articles` gained `[conjunction-coalesce](/apex/conjunction-coalesce/)` and `[voids-between-minds](/voids/voids-between-minds/)`; imagery-void plain-text "conjunction-coalesce" upgraded to wikilink
+- **Output**: [deep-review-2026-04-30e-conjunction-coalesce](/reviews/deep-review-2026-04-30e-conjunction-coalesce/)
+
+## 2026-04-30 18:10 UTC - cross-review
+- **Status**: Success
+- **Task**: Update inline references to coalesced articles (consciousness-and-creativity, phenomenology-of-creative-insight)
+- **Files touched**: 27 active content files (13 concepts/, 12 topics/, 2 voids/)
+- **References retargeted**: ~50 wikilinks across frontmatter `concepts:`/`related_articles:` lists, inline body links, and "Further Reading" sections
+- **Pattern**: `[consciousness-and-creativity](/concepts/creative-consciousness/)` and `[phenomenology-of-creative-insight](/concepts/creative-consciousness/)` → `[creative-consciousness](/concepts/creative-consciousness/)`; inline references to "phenomenology of creative insight" use anchored form `[...](/concepts/creative-consciousness/#the-phenomenology-of-creative-insight)` to land readers in the relevant section
+- **Deduplication**: 4 files (consciousness-and-mathematics.md, aesthetics-and-consciousness.md, phenomenology-of-conceptual-frameworks.md, methodology-of-consciousness-research.md) had both old slugs in different frontmatter lists — collapsed to single creative-consciousness reference
+- **Cliché audit**: zero "This is not X. It is Y." violations found in any of the 27 touched files (preserved)
+- **Anchor verification**: confirmed `## The Phenomenology of Creative Insight` section exists in `concepts/creative-consciousness.md` (line 115); anchor links resolve
+- **Files with no edits needed**: review/archive/workflow files (historical records); `concepts/creative-consciousness.md` self-references (citation URLs to original archived paths — correct as-is)
+- **Output**: [cross-review-2026-04-30-creative-consciousness-references](/reviews/cross-review-2026-04-30-creative-consciousness-references/)
 
 ## 2026-04-30 17:54 UTC - coalesce
 - **Status**: Success

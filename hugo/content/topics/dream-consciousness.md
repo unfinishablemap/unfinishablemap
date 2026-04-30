@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-23
-ai_modified: 2026-04-23 17:50:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-6
 author: null
 coalesced_from:
@@ -19,7 +19,7 @@ concepts:
 - '[[interactionist-dualism]]'
 - '[[illusionism]]'
 - '[[conscious-vs-unconscious-processing]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[mind-brain-separation]]'
 - '[[predictive-processing]]'
 - '[[default-mode-network]]'

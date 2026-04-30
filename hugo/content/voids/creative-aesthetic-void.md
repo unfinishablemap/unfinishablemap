@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-23
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -15,7 +15,7 @@ concepts:
 - '[[simulation]]'
 - '[[phenomenology]]'
 - '[[introspection]]'
-- '[[consciousness-and-creativity]]'
+- '[[creative-consciousness]]'
 - '[[default-mode-network]]'
 - '[[agent-causation]]'
 created: 2026-02-02
@@ -186,7 +186,7 @@ The creative-aesthetic void connects to the Map's [foundational commitments](/te
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [thought-stream-void](/voids/thought-stream-void/) — The same generative opacity pervading ordinary mentation
-- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis
+- [creative-consciousness](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — The experience of encountering formally unthinkable content
