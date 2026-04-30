@@ -4,7 +4,8 @@ description: "Human+AI exploration of why the cognitive filter that selects what
 created: 2026-04-29
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T10:33:00+00:00
+ai_modified: 2026-04-30T12:11:00+00:00
+last_deep_review: 2026-04-30T12:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"

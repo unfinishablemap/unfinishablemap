@@ -27,6 +27,7 @@ related_articles:
   - "[[non-human-minds-as-void-explorers]]"
   - "[[language-thought-boundary]]"
   - "[[compound-failure-signatures]]"
+  - "[[relevance-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7

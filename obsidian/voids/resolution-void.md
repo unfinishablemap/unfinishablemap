@@ -22,6 +22,7 @@ related_articles:
   - "[[consciousness-bandwidth-architecture]]"
   - "[[grain-mismatch]]"
   - "[[attention-as-interface]]"
+  - "[[relevance-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -44,7 +45,7 @@ Andrew Lee's formal work sharpens the problem. Lee develops precise models of "d
 
 The information-theoretic dimension of the resolution void is starkly quantifiable. Zheng et al. (2024) measured the throughput of conscious cognition at approximately ten bits per second. Reading, typing, speech, gaming — across every domain where conscious processing can be measured, the figure converges on the same order of magnitude. Meanwhile, sensory systems deliver roughly eleven million bits per second to the brain. The brain itself operates at an estimated 10⁹ bits per second.
 
-Consciousness discards 99.9999% of available information. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [[bandwidth-of-consciousness|neural bandwidth constraints]] characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns through [[attention-as-interface|attentional mechanisms]] while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
+Consciousness discards 99.9999% of available information. The selection process — which fraction survives the bottleneck — remains largely opaque to consciousness itself; the [[relevance-void|relevance void]] names that opacity at its source, the live narrowing from everything-possible to *these things, now*. We do not experience ourselves filtering; we experience the filtered result as the whole of reality. The [[bandwidth-of-consciousness|neural bandwidth constraints]] characterising this bottleneck suggest that consciousness does not process individual sensory data points at all. It operates at a policy level — selecting among high-level action patterns through [[attention-as-interface|attentional mechanisms]] while the brain handles fine-grained execution autonomously. The resolution void is not a failure of attention but an architectural feature of the interface between mind and brain.
 
 Cognitive control capacity is even lower than the ten-bit figure suggests. When measured through tasks requiring deliberate selection among options, throughput drops to approximately three to four bits per second. Humans appear to think one thought at a time, sequentially, while the parallel sensory apparatus floods the brain with data that consciousness will never access. The three-to-four-bit figure converges with the [[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor]] at roughly four items in cardinal perception — the same magnitude reappearing where conscious operation hits a structural wall, suggesting the four-item cap is one face of a wider architectural feature rather than a quirk of number perception.
 

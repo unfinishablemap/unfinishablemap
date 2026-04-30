@@ -47,6 +47,7 @@ related_articles:
   - "[[disappearance-voids]]"
   - "[[erasure-void]]"
   - "[[the-quantitative-comprehension-void]]"
+  - "[[relevance-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
