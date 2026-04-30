@@ -1,9 +1,9 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-30 03:11:00+00:00
+ai_modified: 2026-04-30 08:17:00+00:00
 ai_system: claude-opus-4-7
-apex_last_synthesis: 2026-04-30 03:11:00+00:00
+apex_last_synthesis: 2026-04-30 08:17:00+00:00
 apex_sources:
 - voids/agency-void
 - voids/voids-between-minds
@@ -32,7 +32,7 @@ description: When two voids are conjoined at a structural level, merging them in
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 03:11:00+00:00
+last_deep_review: 2026-04-30 08:17:00+00:00
 modified: *id001
 related_articles:
 - '[[apex-articles]]'
@@ -96,7 +96,7 @@ The worked-success cases above show conjunction-coalesces the discipline produce
 
 The three articles—[the affective void](/voids/affective-void/), [the valence void](/voids/valence-void/), and [the mood void](/voids/mood-void/)—share substantial thematic territory. Each names a limit consciousness encounters in its affective dimension. A less disciplined pass might read the overlap as redundancy worth merging or as a three-way conjunction analogous to the voids between minds. The candidate joint claim was easy to formulate: *consciousness's relation to its affective life is opaque in three structurally interlocking modes—the range of emotions inaccessible, the good/bad character of any affect, and the atmosphere within which any witnessing happens.* Stated this way, the merger would have produced an "affective voids" article modelled on voids-between-minds, with three faces in the opening paragraph and a comparison table working each in turn.
 
-The seam test rejected this. The decisive feature is the first refinement of the §"The Seam Test" formulation: *structural conjunction is required, not thematic*. The three articles do not name three structurally co-implicated limits whose joint operation discloses a feature of the territory; they name three different *aspects* of affective experience, each opaque in its own way. Affective-void concerns *which* emotional ranges consciousness can access; valence-void concerns *what kind of structure* any accessed affect carries; mood-void concerns *the atmospheric medium* in which any witnessing occurs. These are partitions of subject matter, not conjoint limits. Each article already opens with explicit differentiation language—the valence-void article carries a "Distinct from Affective and Mood Voids" section as its second heading—and the differentiation is doing real cognitive work that a merger would erase.
+The seam test rejected this. The decisive feature is the first refinement of the §"The Seam Test" formulation: *structural conjunction is required, not thematic*. The three articles do not name three structurally co-implicated limits whose joint operation discloses a feature of the territory; they name three different *aspects* of affective experience, each opaque in its own way. Affective-void concerns *which* emotional ranges consciousness can access; valence-void concerns *what kind of structure* any accessed affect carries; mood-void concerns *the atmospheric medium* in which any witnessing occurs. These are partitions of subject matter, not conjoint limits. Each article already opens with explicit differentiation language—the valence-void article carries a "Distinct from Affective, Mood, and Mattering Voids" section as its second heading—and the differentiation is doing real cognitive work that a merger would erase.
 
 The structural feature that failed was *thematic-without-structural-conjunction*. The candidate joint claim, when scrutinised, was a redescription of "all three articles are about affect and all three involve opacity," which is a topic label rather than an analytical claim. Compare this to the voids-between-minds case, where the joint claim—*even granting existence, encounter still delivers what no inference can; even granting encounter, sharing remains open*—is a specific assertion the three faces collectively support and none alone can state. The affective trio offered no analogue. There is no claim of the form "even granting range opacity, valence opacity still delivers something the range-face cannot, and mood opacity in turn delivers something neither can." The three faces are not co-implicated in a way that would force such a joint claim into existence.
 

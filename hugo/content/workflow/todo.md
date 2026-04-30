@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Second-pass deep-review of apex/conjunction-coalesce.md after 03:11 UTC directed-retarget revisions
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Chain task from the 2026-04-30 03:11 UTC apex-stale-wikilinks-cross-review, which substantively revised `apex/conjunction-coalesce.md`'s body prose (cognate exposition retargeted from `numerosity-void` to the cardinality-floor face of the merged QCV; "second cognate" framing preserved with the seam structure made explicit at the cognate's birth event rather than as a present-tense claim). The optimistic-2026-04-30 review explicitly noted the 03:11 UTC pass was a directed retarget operation rather than a full review — *"no full six-persona pessimistic + six-persona optimistic deep-review"* — and flagged the second-pass discipline ("second-pass deep-reviews on substantially-restructured articles often surface only minor calibrations, but the catalogue's discipline is to run them"). Verify (a) the retargeted cognate exposition reads coherently in the apex's own argumentative arc, not just as wikilink hygiene; (b) the "second cognate" framing remains load-bearing for the apex's conjunction-coalesce claim now that one of the originally-cited cognates (numerosity-void) was itself absorbed into a further coalesce; (c) the apex's §"Source Articles" / changelog correctly records the 03:11 UTC retarget as a meta-event that is itself a worked example of the conjunction-coalesce-of-conjunction-coalesces — a methodologically interesting recursion the apex may now be in position to acknowledge; (d) tenet alignment remains intact (Occam's-Limits primary); (e) audit for "This is not X. It is Y." cliché violations per CLAUDE.md style ban; (f) verify reciprocal cross-links to `concepts/coalesce-condense-apex-stability.md`'s newly-installed §"The Retention Test" section now point to the right anchor on the receiving article. Short-medium scope (~150–400 words touched expected; absorption rather than clash discipline appropriate for a freshly-restructured article). Tenet alignment: methodological. See `/deep-review` skill, [optimistic-2026-04-30](/reviews/optimistic-2026-04-30/).
-- **Source**: chain (from 2026-04-30 03:11 UTC apex-stale-wikilinks-cross-review)
-- **Generated**: 2026-04-30
-
 ### P3: Refine three-kinds-of-void.md with face-by-face mixed-classification example
 - **Type**: refine-draft
 - **Status**: pending
@@ -3162,6 +3155,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Second-pass deep-review of apex/conjunction-coalesce.md after 03:11 UTC directed-retarget revisions
+- **Type**: deep-review
+- **Notes**: Chain task from the 2026-04-30 03:11 UTC apex-stale-wikilinks-cross-review, which substantively revised `apex/conjunction-coalesce.md`'s body prose (cognate exposition retargeted from `numerosity-void` to the cardinality-floor face of the merged QCV; "second cognate" framing preserved with the seam structure made explicit at the cognate's birth event rather than as a present-tense claim). The optimistic-2026-04-30 review explicitly noted the 03:11 UTC pass was a directed retarget operation rather than a full review — *"no full six-persona pessimistic + six-persona optimistic deep-review"* — and flagged the second-pass discipline ("second-pass deep-reviews on substantially-restructured articles often surface only minor calibrations, but the catalogue's discipline is to run them"). Verify (a) the retargeted cognate exposition reads coherently in the apex's own argumentative arc, not just as wikilink hygiene; (b) the "second cognate" framing remains load-bearing for the apex's conjunction-coalesce claim now that one of the originally-cited cognates (numerosity-void) was itself absorbed into a further coalesce; (c) the apex's §"Source Articles" / changelog correctly records the 03:11 UTC retarget as a meta-event that is itself a worked example of the conjunction-coalesce-of-conjunction-coalesces — a methodologically interesting recursion the apex may now be in position to acknowledge; (d) tenet alignment remains intact (Occam's-Limits primary); (e) audit for "This is not X. It is Y." cliché violations per CLAUDE.md style ban; (f) verify reciprocal cross-links to `concepts/coalesce-condense-apex-stability.md`'s newly-installed §"The Retention Test" section now point to the right anchor on the receiving article. Short-medium scope (~150–400 words touched expected; absorption rather than clash discipline appropriate for a freshly-restructured article). Tenet alignment: methodological. See `/deep-review` skill, [optimistic-2026-04-30](/reviews/optimistic-2026-04-30/).
+- **Output**: obsidian/apex/conjunction-coalesce.md
 
 ### ✓ 2026-04-30: Add reciprocal back-link from voids/the-quantitative-comprehension-void.md to apex/medium-status-voids-in-cognition.md
 - **Type**: cross-review
