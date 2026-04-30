@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 16:02:00+00:00
+ai_modified: 2026-04-30 16:27:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 16:27 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/functionalism]]
+- **Before**: 3559 words
+- **After**: 2659 words
+- **Reduction**: 25%
+- **Technique**: cut redundancy between opening and "Functionalist View" section (merged into single Multiple Realizability section); condensed Modern Functionalist Frameworks (PP and GWT collapsed since both make the same "doesn't explain phenomenal" point); tightened Semantic Externalism (removed Putnam biographical scaffolding); compressed Specification Problem (C. elegans and Physarum into single paragraph); tightened Hard Problem and Functionalism's Appeal sections; pruned Further Reading from 27 entries to 12 highest-value links. Preserved opening summary, all five Relation to Site Perspective subsections, all unique arguments (zombie, Twin Earth, Chinese Room, phenomenal non-compositionality, slime mold dilemma), and complete References list. Now in soft_warning range (target 2500, hard 3500).
 
 ## 2026-04-30 16:02 UTC - refine-draft
 - **Status**: Success
