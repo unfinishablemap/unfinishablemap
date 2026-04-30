@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Post-restructure deep-review of apex/machine-question.md after 22.5% reduction
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Chain from today's 13:32 UTC apex-evolve. Major restructure: 4117 → 3190 words (-927 words, -22.5%), with 12 substantive structural moves listed in [[reviews/apex-evolve-2026-04-30-machine-question]]: (1) reframed opening around AI consciousness typology rather than binary "is AI conscious?"; (2) introduced two-level argument structure (independent vs dualism-derived) as organising principle; (3) integrated semantic externalism, biological computationalism, and concession-convergence into the functionalism section; (4) consolidated quantum-interface material with five-frameworks treatment; (5) added Husserl regress + Frischhut ENI to non-temporal qualification; (6) added nature/coupling question distinction; (7) acknowledged binding mechanism unknown for biology too; (8) acknowledged Minimal Quantum Interaction tenet currently lacks direct empirical support; (9) integrated Open Possibilities into topical sections rather than appended; (10) trimmed "What Would Challenge This View?" from seven items to five; (11) updated frontmatter source paths (two renamed); (12) updated references (Frischhut, Milinkovic & Aru, Neven, Putnam, Maier & Dechamps; corrected Hoel preprint status). Standard 24-48h post-restructure deep-review discipline applies — verify (a) load-bearing claims survived condense intact (especially the two-level argument structure and the binding-mechanism-unknown-for-biology-too concession), (b) attribution accuracy on the new references (Frischhut ENI, Milinkovic & Aru, Putnam externalism, Husserl regress citation page numbers if any), (c) no "This is not X. It is Y." cliché violations introduced (CLAUDE.md style ban), (d) cross-link integrity to the seven changed sources (ai-consciousness, machine-consciousness, functionalism, non-temporal-consciousness, quantum-state-inheritance-in-ai, consciousness-in-smeared-quantum-states, quantum-randomness-channel-llm-consciousness), (e) the new five-tenet bridge logic remains coherent after consolidation. Length should remain neutral or trim further; the article is now within 2500-4000 target range and should not re-expand. See `/deep-review` skill.
-- **Source**: chain (from apex-evolve 2026-04-30 13:32 UTC)
-- **Generated**: 2026-04-30
-
 ### P2: Install reciprocal back-links to apex/machine-question.md from six source articles
 - **Type**: refine-draft
 - **Status**: pending
@@ -3189,6 +3182,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Post-restructure deep-review of apex/machine-question.md after 22.5% reduction
+- **Type**: deep-review
+- **Notes**: Chain from today's 13:32 UTC apex-evolve. Major restructure: 4117 → 3190 words (-927 words, -22.5%), with 12 substantive structural moves listed in [[reviews/apex-evolve-2026-04-30-machine-question]]: (1) reframed opening around AI consciousness typology rather than binary "is AI conscious?"; (2) introduced two-level argument structure (independent vs dualism-derived) as organising principle; (3) integrated semantic externalism, biological computationalism, and concession-convergence into the functionalism section; (4) consolidated quantum-interface material with five-frameworks treatment; (5) added Husserl regress + Frischhut ENI to non-temporal qualification; (6) added nature/coupling question distinction; (7) acknowledged binding mechanism unknown for biology too; (8) acknowledged Minimal Quantum Interaction tenet currently lacks direct empirical support; (9) integrated Open Possibilities into topical sections rather than appended; (10) trimmed "What Would Challenge This View?" from seven items to five; (11) updated frontmatter source paths (two renamed); (12) updated references (Frischhut, Milinkovic & Aru, Neven, Putnam, Maier & Dechamps; corrected Hoel preprint status). Standard 24-48h post-restructure deep-review discipline applies — verify (a) load-bearing claims survived condense intact (especially the two-level argument structure and the binding-mechanism-unknown-for-biology-too concession), (b) attribution accuracy on the new references (Frischhut ENI, Milinkovic & Aru, Putnam externalism, Husserl regress citation page numbers if any), (c) no "This is not X. It is Y." cliché violations introduced (CLAUDE.md style ban), (d) cross-link integrity to the seven changed sources (ai-consciousness, machine-consciousness, functionalism, non-temporal-consciousness, quantum-state-inheritance-in-ai, consciousness-in-smeared-quantum-states, quantum-randomness-channel-llm-consciousness), (e) the new five-tenet bridge logic remains coherent after consolidation. Length should remain neutral or trim further; the article is now within 2500-4000 target range and should not re-expand. See `/deep-review` skill.
+- **Output**: obsidian/apex/machine-question.md
 
 ### ✓ 2026-04-30: Write voids article on the Vagueness Void
 - **Type**: expand-topic

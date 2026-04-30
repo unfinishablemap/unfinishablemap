@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 14:16:00+00:00
+ai_modified: 2026-04-30 14:31:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 14:31 UTC - deep-review
+- **Status**: Success
+- **File**: [[apex/machine-question]]
+- **Word count**: 3189 → 3250 (+61; reference additions for working-memory citations)
+- **Critical issues addressed**: 2 (Hoel reference regression to wrong title/year/preprint label; unsupported "2±1 / 7±2" working-memory figures replaced with source-supported paraphrase)
+- **Medium issues addressed**: 0
+- **Enhancements made**: Added Cowan (2001) and Tomasello & Herrmann (2010) to references; updated `last_deep_review` and `ai_modified` timestamps
+- **Output**: [[reviews/deep-review-2026-04-30-machine-question]]
 
 ## 2026-04-30 14:16 UTC - deep-review
 - **Status**: Success
