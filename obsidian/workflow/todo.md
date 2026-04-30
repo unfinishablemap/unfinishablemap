@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense topics/the-epiphenomenalist-threat.md (3990/4000 words at 99.75% of hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: The 2026-04-29 22:25 UTC ninth deep-review (cross-review with strong-emergence) brought the article to 3990 words against the 4000-word hard threshold for topics/. The review's own stability note states: "The article is approaching the hard length threshold (3990 / 4000 topics-section). Future cross-link additions should be length-neutral (e.g., redirecting existing body links rather than adding new ones)." This is a constraint the article cannot honour indefinitely — the bedrock-clash and reciprocal-cross-link disciplines both pull toward additive content. Preventative condense should (a) target trim of ~200–400 words to give the article real headroom (3500–3700 word range); (b) preserve the gravity-well metaphor, the four-escape-strategy taxonomy, the degrees-of-proximity framing, and the tenet-coordination structure that nine prior reviews have stabilised; (c) candidate trim sites: redundant restatement between §"The Threat" and §"What Makes Epiphenomenalism a Gravity Well", over-elaboration in the four-escape-strategies section where each strategy could be tightened, the three-paragraph treatment of bedrock disagreements that could compress to two; (d) verify no load-bearing cross-link is removed (the recently installed reciprocal to strong-emergence must stay). The article is at editorial maturity (nine reviews, stable since fourth) — condensation should be surgical, preserving voice. See `/condense` skill and [[reviews/deep-review-2026-04-29-the-epiphenomenalist-threat]].
-- **Source**: length_analysis (preventative — soft_warning approaching hard_warning)
-- **Generated**: 2026-04-29
-
 ### P2: Refine concepts/zahavian-minimal-self.md to absorb constitutive-as-kind-not-as-degree material
 - **Type**: refine-draft
 - **Status**: pending
@@ -3161,6 +3154,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Condense topics/the-epiphenomenalist-threat.md (3990/4000 words at 99.75% of hard threshold)
+- **Type**: condense
+- **Notes**: The 2026-04-29 22:25 UTC ninth deep-review (cross-review with strong-emergence) brought the article to 3990 words against the 4000-word hard threshold for topics/. The review's own stability note states: "The article is approaching the hard length threshold (3990 / 4000 topics-section). Future cross-link additions should be length-neutral (e.g., redirecting existing body links rather than adding new ones)." This is a constraint the article cannot honour indefinitely — the bedrock-clash and reciprocal-cross-link disciplines both pull toward additive content. Preventative condense should (a) target trim of ~200–400 words to give the article real headroom (3500–3700 word range); (b) preserve the gravity-well metaphor, the four-escape-strategy taxonomy, the degrees-of-proximity framing, and the tenet-coordination structure that nine prior reviews have stabilised; (c) candidate trim sites: redundant restatement between §"The Threat" and §"What Makes Epiphenomenalism a Gravity Well", over-elaboration in the four-escape-strategies section where each strategy could be tightened, the three-paragraph treatment of bedrock disagreements that could compress to two; (d) verify no load-bearing cross-link is removed (the recently installed reciprocal to strong-emergence must stay). The article is at editorial maturity (nine reviews, stable since fourth) — condensation should be surgical, preserving voice. See `/condense` skill and [[reviews/deep-review-2026-04-29-the-epiphenomenalist-threat]].
+- **Output**: obsidian/topics/the-epiphenomenalist-threat.md
 
 ### ✓ 2026-04-29: Cross-review topics/causal-closure-debate-historical-survey.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
 - **Type**: cross-review
