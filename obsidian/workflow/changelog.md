@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 13:28:00+00:00
+ai_modified: 2026-04-30 13:32:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 13:32 UTC - apex-evolve
+- **Status**: Complete
+- **Article**: [[apex/machine-question]]
+- **Changed sources**: 7 (ai-consciousness, machine-consciousness, functionalism, non-temporal-consciousness, quantum-state-inheritance-in-ai, consciousness-in-smeared-quantum-states, quantum-randomness-channel-llm-consciousness)
+- **Word count**: 4117 → 3190 (-22.5%)
+- **Review**: [[reviews/apex-evolve-2026-04-30-machine-question]]
+- **Key changes**: Reframed opening around AI consciousness typology; introduced two-level argument structure (independent vs dualism-derived); integrated semantic externalism, biological computationalism, and concession-convergence into functionalism section; consolidated quantum-interface material with five-frameworks treatment; added Husserl regress + Frischhut ENI to non-temporal qualification; added nature/coupling question distinction; acknowledged binding mechanism unknown for biology too; integrated Open Possibilities into topical sections rather than appended; corrected two stale source paths (consciousness-and-cognitive-distinctiveness, ai-epiphenomenalism)
 
 ## 2026-04-30 13:28 UTC - check-tenets
 - **Status**: Success
