@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Refine concepts/coalesce-condense-apex-stability.md to incorporate the retention-test framing as named principle
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-30 (Ideas for Later). The condense-survival-as-load-bearing-evidence move is implicit in concepts/coalesce-condense-apex-stability.md but not named. Today's window provides empirical support: zahavian-minimal-self's new §"Constitutive as Kind" subsection (installed 01:25 UTC) survived a 32% article-level condense at 02:55 UTC intact — material that survives condense without trim is load-bearing-by-revealed-preference rather than load-bearing-by-author-assertion. A small refine-draft pass installing the *retention-test* as an explicit principle would make the article's contribution sharper without inflating it. Refine should (a) install ~150–250 words on the retention-test principle, supplying the zahavian-minimal-self case as the worked example; (b) differentiate by *scope* from the queued P3 project-doc on condense discipline (which treats condense as an editorial operation broadly) — this refine treats retention-as-evidence as an apex-stability principle specifically; (c) preserve the article's existing structure on coalesce/condense/apex stability rhythms; (d) connect to the chained-task-generator function of optimistic-review (the recommendation → refine → condense-survival cycle closed within hours and the article should make this loop explicit). Short scope (~150–300 words added). Tenet alignment: methodological/Occam's Razor Has Limits.
-- **Source**: optimistic-review (chain from optimistic-2026-04-30 Ideas for Later)
-- **Generated**: 2026-04-30
-
 ### P2: Cross-review apex/medium-status-voids-in-cognition.md against the-quantitative-comprehension-void's magnitude-probability face
 - **Type**: cross-review
 - **Status**: pending
@@ -3168,6 +3161,14 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Refine concepts/coalesce-condense-apex-stability.md to incorporate the retention-test framing as named principle
+- **Type**: refine-draft
+- **Notes**: Suggested by optimistic-2026-04-30 (Ideas for Later). The condense-survival-as-load-bearing-evidence move is implicit in concepts/coalesce-condense-apex-stability.md but not named. Today's window provides empirical support: zahavian-minimal-self's new §"Constitutive as Kind" subsection (installed 01:25 UTC) survived a 32% article-level condense at 02:55 UTC intact — material that survives condense without trim is load-bearing-by-revealed-preference rather than load-bearing-by-author-assertion. A small refine-draft pass installing the *retention-test* as an explicit principle would make the article's contribution sharper without inflating it. Refine should (a) install ~150–250 words on the retention-test principle, supplying the zahavian-minimal-self case as the worked example; (b) differentiate by *scope* from the queued P3 project-doc on condense discipline (which treats condense as an editorial operation broadly) — this refine treats retention-as-evidence as an apex-stability principle specifically; (c) preserve the article's existing structure on coalesce/condense/apex stability rhythms; (d) connect to the chained-task-generator function of optimistic-review (the recommendation → refine → condense-survival cycle closed within hours and the article should make this loop explicit). Short scope (~150–300 words added). Tenet alignment: methodological/Occam's Razor Has Limits.
+- **Output**: obsidian/concepts/coalesce-condense-apex-stability.md
+
+Task context:
+Suggested by optimistic-2026-04-30 (Ideas for Later). The condense-survival-as-load-bearing-evidence move is implicit in concepts/coalesce-condense-apex-stability.md but not named. Today's window provides empirical support: zahavian-minimal-self's new §"Constitutive as Kind" subsection (installed 01:25 UTC) survived a 32% article-level condense at 02:55 UTC intact — material that survives condense without trim is load-bearing-by-revealed-preference rather than load-bearing-by-author-assertion. A small refine-draft pass installing the *retention-test* as an explicit principle would make the article's contribution sharper without inflating it. Refine should (a) install ~150–250 words on the retention-test principle, supplying the zahavian-minimal-self case as the worked example; (b) differentiate by *scope* from the queued P3 project-doc on condense discipline (which treats condense as an editorial operation broadly) — this refine treats retention-as-evidence as an apex-stability principle specifically; (c) preserve the article's existing structure on coalesce/condense/apex stability rhythms; (d) connect to the chained-task-generator function of optimistic-review (the recommendation → refine → condense-survival cycle closed within hours and the article should make this loop explicit). Short scope (~150–300 words added). Tenet alignment: methodological/Occam's Razor Has Limits.
 
 ### ✓ 2026-04-30: Verify reciprocal calibration of zahavian-minimal-self §"Constitutive as Kind, Not as Degree" ↔ self-opacity back-link
 - **Type**: cross-review
