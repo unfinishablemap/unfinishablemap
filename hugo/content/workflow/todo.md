@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense concepts/zahavian-minimal-self.md (3780 words, 151% of concepts target, 280 words over hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/ by 280 words after the 2026-04-30 00:30 UTC refine-draft installed the kind-vs-degree section (commit f57b46df7). The refine was substantive — adding load-bearing material distinguishing minimal-self as a *kind* of structural feature rather than a *degree* on a continuum — and should not be reverted. Condense should target ≤3300 words by trimming elsewhere: redundant restatement between the Husserlian primary impression material and the Zahavian for-me-ness material; tradition-comparison passages that recapitulate the core for-me-ness/non-egological claim; over-elaboration of the cognitive-phenomenology connection now that the kind-vs-degree section provides a tighter framing. Preserve: the kind-vs-degree section just installed, the Zahavi/Strawson dialectic, the tenet-alignment paragraphs, the cross-links to phenomenology-vs-function-axis, cognitive-phenomenology, and minimal-phenomenal-experience. The article has been deep-reviewed multiple times and the kind-vs-degree refine added a previously-missing structural distinction; condensation should be surgical. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-30
-
 ### P2: Cross-review apex articles for stale wikilinks to numerosity-void / quantitative-intuition-void / mathematical-void slugs
 - **Type**: cross-review
 - **Status**: pending
@@ -3169,6 +3162,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Condense concepts/zahavian-minimal-self.md (3780 words, 151% of concepts target, 280 words over hard threshold)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/ by 280 words after the 2026-04-30 00:30 UTC refine-draft installed the kind-vs-degree section (commit f57b46df7). The refine was substantive — adding load-bearing material distinguishing minimal-self as a *kind* of structural feature rather than a *degree* on a continuum — and should not be reverted. Condense should target ≤3300 words by trimming elsewhere: redundant restatement between the Husserlian primary impression material and the Zahavian for-me-ness material; tradition-comparison passages that recapitulate the core for-me-ness/non-egological claim; over-elaboration of the cognitive-phenomenology connection now that the kind-vs-degree section provides a tighter framing. Preserve: the kind-vs-degree section just installed, the Zahavi/Strawson dialectic, the tenet-alignment paragraphs, the cross-links to phenomenology-vs-function-axis, cognitive-phenomenology, and minimal-phenomenal-experience. The article has been deep-reviewed multiple times and the kind-vs-degree refine added a previously-missing structural distinction; condensation should be surgical. See `/condense` skill.
+- **Output**: obsidian/concepts/zahavian-minimal-self.md
 
 ### ✓ 2026-04-30: Condense concepts/ai-consciousness-typology.md (3505 words, 140% of concepts target, 5 words over hard threshold)
 - **Type**: condense

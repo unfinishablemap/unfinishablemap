@@ -4,8 +4,8 @@ description: "When two voids are conjoined at a structural level, merging them i
 created: 2026-04-27
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T18:25:00+00:00
-last_deep_review: 2026-04-29T18:25:00+00:00
+ai_modified: 2026-04-30T03:11:00+00:00
+last_deep_review: 2026-04-30T03:11:00+00:00
 draft: false
 topics: []
 concepts: []
@@ -17,7 +17,7 @@ related_articles:
   - "[[agency-void]]"
   - "[[voids-between-minds]]"
   - "[[erasure-void]]"
-  - "[[numerosity-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[transit-void]]"
   - "[[temporal-void]]"
   - "[[thrownness-void]]"
@@ -36,13 +36,13 @@ apex_sources:
   - voids/agency-void
   - voids/voids-between-minds
   - voids/erasure-void
-  - voids/numerosity-void
+  - voids/the-quantitative-comprehension-void
   - voids/transit-void
   - voids/thrownness-void
   - voids/temporal-void
   - apex/taxonomy-of-voids
   - voids/apophatic-cartography
-apex_last_synthesis: 2026-04-29T18:25:00+00:00
+apex_last_synthesis: 2026-04-30T03:11:00+00:00
 apex_thesis: "A distinctive methodological move has emerged in the Map's voids work: merging two articles whose subjects are conjoined at a structural level into a single article that keeps the seam visible because the seam encodes the claim. The conjunction-coalesce differs from standard coalesce by preserving rather than dissolving its source structure, admits a sharp criterion (the conjunction must make a claim its parts cannot), and yields to successful single-mechanism unifications when those become available—it is editorial-cultural infrastructure for protecting a structural reading, not a permanent commitment to non-reduction."
 ---
 
@@ -78,9 +78,9 @@ The discipline's empirical base is two clean coalesces of prior articles plus tw
 
 **The erasure void (cognate, not coalesce).** [[erasure-void|The erasure void]] is not a merger of two prior articles. It is a single article that took a conjoint shape at creation time, structured around a conjunction it could not have articulated by treating either face alone. The two faces are *loss* (cognitive capacity erodes through injury, neurodegeneration, ageing) and *monitoring* (the system that would notice the loss is itself among the casualties). The conjunction is the void: where loss and monitoring share substrate, loss becomes silent. Anosognosia is the clinical extreme; Dunning-Kruger is the everyday case. Erasure-void inherits the seam test and demonstrates that a conjoint two-face structure can shape an article without a merger, but it does not thicken the empirical base for *coalesce* itself; it shows the seam-test logic generalising to creation time.
 
-**The numerosity void (second cognate).** [[numerosity-void|The numerosity void]] is a three-face creation-time cognate articulating an architectural cap (subitizing's ceiling at roughly four items), a phenomenal opacity at the cap's boundary (no felt edge between cardinal givenness and reconstructive counting), and an inaccessibility of the operation behind the determinate cardinal output (the suddenly-given *subitus* with no access to the index-allocation that produced it). Each face is structurally required—the conjunction is what the article is *for*—and the cognate class accordingly generalises: three-face creation-time articulation joins two-face (erasure-void), paralleling the two- and three-face spread among the coalesces (agency-void's two limits; voids-between-minds' three gaps).
+**The cardinality floor (second cognate).** The [[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor face]] of [[the-quantitative-comprehension-void|the quantitative comprehension void]]—formerly the standalone numerosity void, coalesced into the larger article on 2026-04-30—is a three-face creation-time cognate articulating an architectural cap (subitizing's ceiling at roughly four items), a phenomenal opacity at the cap's boundary (no felt edge between cardinal givenness and reconstructive counting), and an inaccessibility of the operation behind the determinate cardinal output (the suddenly-given *subitus* with no access to the index-allocation that produced it). Each face is structurally required—the conjunction is what the section is *for*—and the cognate class accordingly generalises: three-face creation-time articulation joins two-face (erasure-void), paralleling the two- and three-face spread among the coalesces (agency-void's two limits; voids-between-minds' three gaps). The cognate's preservation as a load-bearing section after absorption into a larger void demonstrates that seam structure can persist through further coalescing when the joint claim still does work no single face does alone.
 
-The two genuine coalesces share a structural shape. Each merges distinct limits connected through shared substrate or shared structural condition. Each requires both faces. Each resists single-mechanism unification *as currently understood*; if a unifying mechanism surfaces later, the discipline yields. And in each, the merged article's central paragraphs name the conjunction explicitly—as a section heading, comparison table, or paragraph articulating what the conjunction adds. The two cognates (erasure-void and numerosity-void) share the second through fourth features but not the first—there is nothing to merge.
+The two genuine coalesces share a structural shape. Each merges distinct limits connected through shared substrate or shared structural condition. Each requires both faces. Each resists single-mechanism unification *as currently understood*; if a unifying mechanism surfaces later, the discipline yields. And in each, the merged article's central paragraphs name the conjunction explicitly—as a section heading, comparison table, or paragraph articulating what the conjunction adds. The two cognates (erasure-void and the cardinality floor) share the second through fourth features but not the first—neither was a merger of prior articles at the cognate's birth.
 
 ## A Coalesce the Test Rejected
 
@@ -126,7 +126,7 @@ The second failure mode is *forced* conjunction-coalesce: applying the disciplin
 
 The conjunction-coalesce should not be confused with concept extraction, a different methodological move proposed earlier in the Map's review cycle. Concept extraction takes a structural feature appearing across multiple articles and gives it its own citable concept page (the *conjoint two-face limit* structure being a candidate). The two methodologies are complementary. Concept extraction identifies *patterns* that recur and gives them a stable home; the conjunction-coalesce identifies *cases* where two articles instantiate the same conjoint structure in different content domains.
 
-The conjunction-coalesce produces *instances* of the kind of structure that concept extraction may eventually *abstract*. The agency void, voids between minds, erasure-void (cognate), and numerosity-void (cognate) are instances of conjoint multi-face limits across different content domains. If the structural feature recurs further, concept extraction may eventually give it a home. The conjunction-coalesce is a per-article move; concept extraction is a cross-article move. Each does work the other cannot.
+The conjunction-coalesce produces *instances* of the kind of structure that concept extraction may eventually *abstract*. The agency void, voids between minds, erasure-void (cognate), and the cardinality floor (cognate) are instances of conjoint multi-face limits across different content domains. If the structural feature recurs further, concept extraction may eventually give it a home. The conjunction-coalesce is a per-article move; concept extraction is a cross-article move. Each does work the other cannot.
 
 ## A Note on Apex Placement
 
@@ -151,7 +151,7 @@ This synthesis draws on:
 - [[agency-void|The Agency Void]] — The cleanest case of conjunction-coalesce: passive and skeptical limits as load-bearing conjunction
 - [[voids-between-minds|The Voids Between Minds]] — The three-way conjunction of existence, encounter, and sharing
 - [[erasure-void|The Erasure Void]] — Cognate (not coalesce): conjoint shape installed at article-creation time around loss and monitoring
-- [[numerosity-void|The Numerosity Void]] — Second cognate: three-face creation-time articulation of cap, transition, and mechanism opacity in subitizing
+- [[the-quantitative-comprehension-void#the-cardinality-floor|The Cardinality Floor]] (formerly the standalone numerosity void) — Second cognate: three-face creation-time articulation of cap, transition, and mechanism opacity in subitizing
 - [[transit-void|The Transit Void]] — Cluster candidate: state transitions and act onsets as conjoint forms
 - [[thrownness-void|The Thrownness Void]] — Cluster candidate: structural inaccessibility of the founding moment
 - [[temporal-void|The Temporal Void]] — Cluster candidate: confinement, duration paradox, memory-anticipation asymmetry

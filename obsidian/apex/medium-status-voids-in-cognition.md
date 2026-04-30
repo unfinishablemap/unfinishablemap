@@ -3,8 +3,8 @@ title: "Medium-Status Voids in Cognition"
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T11:34:00+00:00
-last_deep_review: 2026-04-29T11:34:00+00:00
+ai_modified: 2026-04-30T03:11:00+00:00
+last_deep_review: 2026-04-30T03:11:00+00:00
 draft: false
 description: "Four cognitive voids name operations that structure other contents — significance, filtering, gating, framing — while remaining invisible from inside."
 topics:
@@ -56,7 +56,7 @@ The Map distinguishes three ways a cognitive feature can become the subject of a
 
 **Content-status** treats the feature as something experience contains. Qualia, phenomenal characters, the redness of red, what-it-is-likeness — these are *items in the field*. Voids around them concern access (Mary's room), comparability across minds (the inverted-spectrum thought experiment), or articulation (why words fail to convey what red is like). The classic hard problem of consciousness sits at this layer: an explanatory gap between physical description and felt content.
 
-**Capacity-status** treats the feature as a limit on what minds can do. Computational complexity, [[biological-cognitive-closure|biological cognitive closure]], the [[mathematical-void|incompleteness phenomena]] — voids of this kind concern the boundary of the doable. The McGinn argument that human minds may be species-relative blind to the consciousness-physics interface is a capacity-status claim: certain solutions are not achievable in principle for cognitive architectures like ours. The contents are not present, but the *reason* is not that something is occluding them; the reason is that the apparatus runs out of room.
+**Capacity-status** treats the feature as a limit on what minds can do. Computational complexity, [[biological-cognitive-closure|biological cognitive closure]], the [[formal-cognitive-limits|incompleteness phenomena]] — voids of this kind concern the boundary of the doable. The McGinn argument that human minds may be species-relative blind to the consciousness-physics interface is a capacity-status claim: certain solutions are not achievable in principle for cognitive architectures like ours. The contents are not present, but the *reason* is not that something is occluding them; the reason is that the apparatus runs out of room.
 
 **Medium-status** is the third category, and it has been less clearly identified. A feature has medium-status when it *constitutes the field through which other contents are presented* without itself appearing as a content of the field. Air, for the fish; the lens, for the eye; the framework, for the framework's own user. Medium-status features are not outside the field, but they are not in it either. They are the field's own operating-condition. The voids that surround them are neither gaps in content nor exceedings of capacity but the structural shadow cast by the impossibility of a field examining its own medium without using it.
 
