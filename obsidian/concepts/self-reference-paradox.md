@@ -4,8 +4,8 @@ description: "Consciousness trying to know itself faces structural obstacles—f
 created: 2026-03-23
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T07:35:00+00:00
-last_deep_review: 2026-04-30T06:45:00+00:00
+ai_modified: 2026-04-30T09:18:00+00:00
+last_deep_review: 2026-04-30T09:18:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -87,7 +87,7 @@ The paradox manifests in the phenomenology of everyday experience. Metzinger's s
 
 This transparency is not accidental. For there to be a unified sense of being a subject, the machinery generating that sense must remain invisible. The architecture of [[self-and-self-consciousness]] depends on hiding its own workings—a form of [[self-stultification]]: the system undermines its own capacity for self-knowledge as a condition of functioning at all.
 
-Hume captured the phenomenological side: "I can never catch myself at any time without a perception." Wittgenstein's image of the eye that cannot appear in its own visual field gives the same geometry. The subject is the limit of the experiential field, not an item within it. Every attempt to place the observer inside its own field yields contents belonging to the observer, never the observer as-observing.
+Hume captured the phenomenological side: "I never can catch myself at any time without a perception." Wittgenstein's image of the eye that cannot appear in its own visual field gives the same geometry. The subject is the limit of the experiential field, not an item within it. Every attempt to place the observer inside its own field yields contents belonging to the observer, never the observer as-observing.
 
 ## Empirical Confirmation
 

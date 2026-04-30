@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Second-pass deep-review of concepts/self-reference-paradox.md after coalesce + condense pipeline
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Standard discipline on substantially-restructured articles: a second deep-review pass after ~24-48 hours often surfaces issues the first pass absorbed by reflex. The article underwent three operations across two days: 2026-04-29 coalesce of `concepts/inspection-paradox.md` into `self-reference-paradox.md` (commit `54298e24b`); 2026-04-30 06:45 UTC deep-review verified the merge preserved coherence (per todo.md line 3182); 2026-04-30 07:25 UTC condense reduced 3659 → 2462 words (commit `160210358`). The condense happened *after* the deep-review verifying the merge — so the post-condense state has not yet been deep-reviewed. Verify (a) the condense preserved both load-bearing arguments from the merged inspection-paradox subsection (weak vs strong forms of the paradox; the inspection-cannot-inspect-itself structural claim) and the original self-reference-paradox arguments; (b) tenet alignment across the condensed exposition (the merged article ties to Dualism via reflexive-failure and Occam's-Limits via parsimony's structural ceiling — both should survive condense); (c) all named falsifying scenarios survived; (d) cross-references to `concepts/coalesce-condense-apex-stability.md` §"The Retention Test" (added 2026-04-30 06:40 UTC) — verify the retention-test framing is consistent with how the article's own coalesce-then-condense sequence demonstrated retention; (e) audit for "This is not X. It is Y." cliché violations introduced during the rapid editing cycle (CLAUDE.md style ban); (f) verify reciprocal cross-links to `voids/self-opacity.md` and `voids/inspection-paradox` references throughout the catalogue point to the right anchors on the merged article. Short-medium scope (~150-400 words touched expected; possibly minimal touch if the condense was clean). Tenet alignment: methodological. See `/deep-review` skill.
-- **Source**: chain (from condense of self-reference-paradox.md 2026-04-30 07:25 UTC)
-- **Generated**: 2026-04-30
-
 ### P2: Second-pass deep-review of concepts/ai-consciousness-typology.md after coalesce → cross-review → deep-review → condense pipeline
 - **Type**: deep-review
 - **Status**: pending
@@ -3168,6 +3161,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Second-pass deep-review of concepts/self-reference-paradox.md after coalesce + condense pipeline
+- **Type**: deep-review
+- **Notes**: Standard discipline on substantially-restructured articles: a second deep-review pass after ~24-48 hours often surfaces issues the first pass absorbed by reflex. The article underwent three operations across two days: 2026-04-29 coalesce of `concepts/inspection-paradox.md` into `self-reference-paradox.md` (commit `54298e24b`); 2026-04-30 06:45 UTC deep-review verified the merge preserved coherence (per todo.md line 3182); 2026-04-30 07:25 UTC condense reduced 3659 → 2462 words (commit `160210358`). The condense happened *after* the deep-review verifying the merge — so the post-condense state has not yet been deep-reviewed. Verify (a) the condense preserved both load-bearing arguments from the merged inspection-paradox subsection (weak vs strong forms of the paradox; the inspection-cannot-inspect-itself structural claim) and the original self-reference-paradox arguments; (b) tenet alignment across the condensed exposition (the merged article ties to Dualism via reflexive-failure and Occam's-Limits via parsimony's structural ceiling — both should survive condense); (c) all named falsifying scenarios survived; (d) cross-references to `concepts/coalesce-condense-apex-stability.md` §"The Retention Test" (added 2026-04-30 06:40 UTC) — verify the retention-test framing is consistent with how the article's own coalesce-then-condense sequence demonstrated retention; (e) audit for "This is not X. It is Y." cliché violations introduced during the rapid editing cycle (CLAUDE.md style ban); (f) verify reciprocal cross-links to `voids/self-opacity.md` and `voids/inspection-paradox` references throughout the catalogue point to the right anchors on the merged article. Short-medium scope (~150-400 words touched expected; possibly minimal touch if the condense was clean). Tenet alignment: methodological. See `/deep-review` skill.
+- **Output**: obsidian/concepts/self-reference-paradox.md
 
 ### ✓ 2026-04-30: Address pessimistic-review findings on apex/medium-status-voids-in-cognition.md
 - **Type**: refine-draft
