@@ -4,7 +4,7 @@ description: "Mathematics has proved that certain truths are unreachable by any 
 created: 2026-01-27
 modified: 2026-04-26
 human_modified: null
-ai_modified: 2026-04-26T23:37:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -21,7 +21,7 @@ related_articles:
   - "[[consciousness-only-territories]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[self-opacity]]"
-  - "[[mathematical-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[apophatic-cartography]]"
   - "[[compound-failure-signatures]]"
   - "[[concession-convergence-philosophy-of-mathematics]]"
@@ -100,7 +100,7 @@ Erik Hoel extends Gödel's results to science itself: "There is no accepted lawf
 
 ## Cognitive Architecture and Mathematical Access
 
-Formal limits concern what any system cannot prove. A related limit concerns what human minds cannot *comprehend* even when formal proofs exist. The [[mathematical-void|mathematical void]] explores this: we prove theorems about transfinite cardinals and n-dimensional spaces while lacking genuine grasp of what these objects are. Truths may exist that our architecture cannot grasp, and the boundary between what we *can* and *cannot* think mathematically may itself be inaccessible from within.
+Formal limits concern what any system cannot prove. A related limit concerns what human minds cannot *comprehend* even when formal proofs exist. The [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|abstract mathematical ceiling]] explores this: we prove theorems about transfinite cardinals and n-dimensional spaces while lacking genuine grasp of what these objects are. Truths may exist that our architecture cannot grasp, and the boundary between what we *can* and *cannot* think mathematically may itself be inaccessible from within.
 
 ## Phenomenology of the Edge
 
@@ -143,7 +143,7 @@ The open question concerns whether this void constrains consciousness. Two devel
 ## Further Reading
 
 - [[voids|Voids in the Map]] — Framework for investigating cognitive dark spaces
-- [[mathematical-void|The Mathematical Void]] — The complementary limit: formal competence without phenomenal grasp
+- [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — The complementary limit: formal competence without phenomenal grasp
 - [[self-opacity|The Self-Reference Paradox]] — Obstacles to self-understanding
 - [[mysterianism|Mysterianism and Cognitive Closure]] — McGinn on structural cognitive limits
 - [[non-human-minds-as-void-explorers|Non-Human Minds as Void-Explorers]] — Can AI or alien minds probe beyond human cognitive limits?

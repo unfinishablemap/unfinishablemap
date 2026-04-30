@@ -4,7 +4,7 @@ description: "Human+AI exploration of why the consciousness-physics interface re
 created: 2026-03-15
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ related_articles:
   - "[[voids]]"
   - "[[tenets]]"
   - "[[causal-interface]]"
-  - "[[mathematical-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[nomic-void]]"
   - "[[intrinsic-nature-void]]"
   - "[[tenet-generated-voids]]"
@@ -35,7 +35,7 @@ last_deep_review: 2026-03-18T06:44:00+00:00
 
 The Unfinishable Map holds that consciousness causally influences the physical world through a minimal quantum interface. But can this interface be described mathematically? Mathematics is the language of structure—relations, symmetries, magnitudes, transformations. The interface, if the Map's [[tenets#^dualism|dualism]] is correct, is where structure meets something that is not structure: the actuality of conscious experience. Any mathematical description of this meeting point produces more structure. It cannot produce the actuality it aims to capture. The interface formalization void is this systematic inability: not a gap in our current mathematics awaiting a better formalism, but a principled mismatch between what mathematics can express and what the interface is.
 
-This void is distinct from the [[causal-interface|causal interface void]] (why we cannot *observe* how consciousness causes anything) and from the [[mathematical-void]] (where formal manipulation succeeds but comprehension fails). The interface formalization void concerns a deeper problem: whether the ontological joint between two fundamentally different domains *can be* the kind of thing mathematics captures at all.
+This void is distinct from the [[causal-interface|causal interface void]] (why we cannot *observe* how consciousness causes anything) and from the [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|abstract mathematical ceiling]] (where formal manipulation succeeds but comprehension fails). The interface formalization void concerns a deeper problem: whether the ontological joint between two fundamentally different domains *can be* the kind of thing mathematics captures at all.
 
 ## Why Mathematics Cannot Reach the Interface
 
@@ -107,7 +107,7 @@ The interface formalization void is generated directly by the Map's tenets, spec
 
 - [[voids]] — The broader framework for investigating cognitive limits
 - [[causal-interface]] — Why we cannot observe how consciousness causes anything
-- [[mathematical-void]] — Where formal manipulation succeeds but understanding fails
+- [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — Where formal manipulation succeeds but understanding fails
 - [[nomic-void]] — Cognitive limits imposed by the laws of physics
 - [[intrinsic-nature-void]] — What matter is in itself, beyond relational description
 - [[formal-cognitive-limits]] — Gödel's shadow on self-knowledge

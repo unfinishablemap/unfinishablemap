@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-25T01:29:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 last_deep_review: 2026-04-23T13:44:00+00:00
 topics:
@@ -36,7 +36,7 @@ related_articles:
   - "[[conceptual-impossibility]]"
   - "[[synesthetic-void]]"
   - "[[non-human-minds-as-void-explorers]]"
-  - "[[quantitative-intuition-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[biological-cognitive-closure]]"
   - "[[appetitive-void]]"
   - "[[thoughts-that-slip-away]]"

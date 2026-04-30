@@ -4,7 +4,7 @@ description: "Human+AI exploration of why no mind can grasp how arrangement prod
 created: 2026-02-05
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-24T20:29:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 last_deep_review: 2026-03-15T08:32:00+00:00
 draft: false
 topics:
@@ -22,7 +22,7 @@ related_articles:
   - "[[tenets]]"
   - "[[three-kinds-of-void]]"
   - "[[intrinsic-nature-void]]"
-  - "[[quantitative-intuition-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[disappearance-voids]]"
   - "[[meta-epistemology-of-limits]]"
   - "[[nomic-void]]"

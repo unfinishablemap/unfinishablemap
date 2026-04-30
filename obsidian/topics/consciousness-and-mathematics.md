@@ -4,7 +4,7 @@ description: "Every major mathematical ontology implies a position on consciousn
 created: 2026-01-21
 modified: 2026-03-28
 human_modified:
-ai_modified: 2026-04-17T01:41:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 concepts:
   - "[[cognitive-phenomenology]]"
@@ -40,7 +40,7 @@ related_articles:
   - "[[tenets]]"
   - "[[formal-cognitive-limits]]"
   - "[[imagination-and-creativity-void]]"
-  - "[[mathematical-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[incubation-effect-and-unconscious-processing]]"
   - "[[aesthetics-and-consciousness]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
@@ -160,7 +160,7 @@ Mathematical insight occupies a privileged epistemic position: when a mathematic
 
 ### When Understanding Fails
 
-The [[mathematical-void]] documents the negative phenomenology—when we manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent. Hitting a wall, symbols remaining opaque despite correct manipulation. Kant described mathematical sublimity as arising when imagination fails to comprehend what reason can grasp. This felt boundary—transparent understanding versus opaque formal correctness—marks a distinction computation alone cannot explain, since from a computational standpoint both processes terminate in the same outputs.
+The [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|abstract mathematical ceiling]] documents the negative phenomenology—when we manipulate symbols for transfinite cardinals or n-dimensional spaces without genuinely grasping what they represent. Hitting a wall, symbols remaining opaque despite correct manipulation. Kant described mathematical sublimity as arising when imagination fails to comprehend what reason can grasp. This felt boundary—transparent understanding versus opaque formal correctness—marks a distinction computation alone cannot explain, since from a computational standpoint both processes terminate in the same outputs.
 
 ## Beyond Selection: Mathematical Generation
 
@@ -213,7 +213,7 @@ The view would be supported by continued failure of AI to achieve transformation
 - [[consciousness-and-creativity]] — The generation-selection synthesis
 - [[consciousness-and-the-authority-of-formal-systems]] — Why formal authority reaches a boundary at consciousness
 - [[self-reference-and-the-limits-of-physical-description]] — Gödel's incompleteness and quantum measurement as the same self-referential obstruction
-- [[mathematical-void]] — Cognitive limits on mathematical comprehension
+- [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — Cognitive limits on mathematical comprehension
 - [[formal-cognitive-limits]] — Formal proofs of what computation cannot do
 - [[argument-from-reason]] — Why rational thought supports dualism
 - [[aesthetics-and-consciousness]] — Mathematical beauty as evidence for irreducible consciousness

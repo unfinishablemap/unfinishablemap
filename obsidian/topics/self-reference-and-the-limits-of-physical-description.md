@@ -4,7 +4,7 @@ description: "Gödel's incompleteness and the quantum measurement problem share 
 created: 2026-03-17
 modified: 2026-03-18
 human_modified:
-ai_modified: 2026-04-18T14:38:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-mathematics]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
-  - "[[mathematical-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[formal-cognitive-limits]]"
   - "[[philosophical-stakes-of-spontaneous-collapse]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
@@ -130,7 +130,7 @@ The self-referential structure underlying both Gödelian incompleteness and the 
 - [[consciousness-and-the-authority-of-formal-systems]] — Why formal systems reach principled limits at consciousness
 - [[physics-as-disclosure]] — The measurement problem as boundary disclosure
 - [[formal-cognitive-limits]] — Gödelian limits as cognitive boundaries
-- [[mathematical-void]] — Where formal manipulation succeeds but understanding fails
+- [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — Where formal manipulation succeeds but understanding fails
 - [[quantum-measurement-and-consciousness]] — The interface between consciousness and quantum measurement
 - [[philosophical-stakes-of-spontaneous-collapse]] — Why collapse interpretations matter for consciousness
 

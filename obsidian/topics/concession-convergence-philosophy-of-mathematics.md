@@ -4,7 +4,7 @@ description: "Formalism, logicism, intuitionism, and structuralism each independ
 created: 2026-04-13
 modified: 2026-04-13
 human_modified:
-ai_modified: 2026-04-17T03:25:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 topics:
   - "[[consciousness-and-mathematics]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[epistemology-of-convergence-arguments]]"
   - "[[reductionism-and-consciousness]]"
   - "[[arguments-against-materialism]]"
-  - "[[mathematical-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[formal-cognitive-limits]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[comparative-phenomenology-of-mathematical-insight]]"
@@ -123,7 +123,7 @@ The Map interprets the cross-domain convergence as evidence that the problem is 
 - [[consciousness-and-the-authority-of-formal-systems]] — Why formal authority reaches its limit at consciousness
 - [[epistemology-of-convergence-arguments]] — When independent convergence constitutes evidence
 - [[reductionism-and-consciousness]] — Why reductive programmes fail at consciousness
-- [[mathematical-void]] — The boundary of mathematical knowledge
+- [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — The boundary of mathematical comprehension
 - [[formal-cognitive-limits]] — Gödel's theorems and the limits of formal systems
 
 ## References

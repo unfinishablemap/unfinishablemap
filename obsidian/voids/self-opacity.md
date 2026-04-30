@@ -4,7 +4,7 @@ description: "Consciousness cannot fully know itself—six thinkers from diverge
 created: 2026-01-14
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T21:56:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -47,7 +47,7 @@ related_articles:
   - "[[inspection-paradox]]"
   - "[[disappearance-voids]]"
   - "[[erasure-void]]"
-  - "[[numerosity-void]]"
+  - "[[the-quantitative-comprehension-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-6
@@ -98,7 +98,7 @@ The distinction matters between self-directed thought (thinking *about* myself a
 
 We access mental contents—thoughts, images, feelings—but not the processes that produce them. James compared introspecting thought to "seizing a spinning top to catch its motion." Nisbett and Wilson (1977) established the asymmetry empirically: participants chose among identical stockings, consistently preferring items on the right, then confabulated reasons about quality and colour. No one mentioned position. Choice blindness (Johansson et al., 2005) deepens this: when choices are secretly switched, most fail to notice, then confabulate reasons for choices they never made with equal detail and confidence.
 
-The opacity has four dimensions. **Temporal**: by the time introspection occurs, the thought has passed. **Process**: you perceive the solution but not solving—the [[recognition-void]] is paradigmatic, and the [[numerosity-void]] sharpens it to perception itself, where cardinality below four arrives all at once with its parallel-indexing operation hidden. **Mechanism**: even metacognition yields descriptions but not mechanisms. **Ontological**: Sartre's point that consciousness cannot objectify itself without self-distortion.
+The opacity has four dimensions. **Temporal**: by the time introspection occurs, the thought has passed. **Process**: you perceive the solution but not solving—the [[recognition-void]] is paradigmatic, and the [[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor]] sharpens it to perception itself, where cardinality below four arrives all at once with its parallel-indexing operation hidden. **Mechanism**: even metacognition yields descriptions but not mechanisms. **Ontological**: Sartre's point that consciousness cannot objectify itself without self-distortion.
 
 Despite structural opacity, we *feel* transparent to ourselves. This connects to [[inventory-blindness|inventory blindness]]: absent capabilities produce no signal, so the illusion of transparency is never challenged from within. The [[erasure-void]] extends the same structure across time—when capacities erode, the monitor that would notice the loss often erodes with them. Fabricated explanations feel no different from veridical ones.
 
@@ -170,7 +170,7 @@ After millennia of contemplative practice and centuries of philosophical inquiry
 - [[recursion-void|The Recursion Void]] — Depth limit of metacognitive self-reference
 - [[recognition-void|The Recognition Void]] — Process opacity applied to recognition
 - [[erasure-void|The Erasure Void]] — Self-opacity extended across time: capacity loss without signal
-- [[numerosity-void|The Numerosity Void]] — A sharp instance of process opacity: cardinality given without the parallel-indexing operation that produced it
+- [[the-quantitative-comprehension-void#the-cardinality-floor|The Quantitative Comprehension Void — cardinality floor]] — A sharp instance of process opacity: cardinality given without the parallel-indexing operation that produced it
 - [[topics/free-will|Free Will]] — Broader context for questions of agency
 
 ## References

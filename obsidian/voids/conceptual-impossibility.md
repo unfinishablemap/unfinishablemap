@@ -3,7 +3,7 @@ title: "Conceptual Impossibility"
 created: 2026-01-23
 modified: 2026-02-25
 human_modified: null
-ai_modified: 2026-04-01T17:39:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 description: "How consciousness encounters the formally unthinkable—we can reference impossibilities but cannot grasp them, revealing cognitive architecture's limits."
 topics: []
@@ -156,7 +156,7 @@ The claim that conceptual impossibilities mark genuine cognitive boundaries woul
 ## Further Reading
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
-- [[mathematical-void|The Mathematical Void]] — A related limit: comprehension failing where formal manipulation succeeds
+- [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — A related limit: comprehension failing where formal manipulation succeeds
 - [[apophatic-approaches|Apophatic Approaches]] — Methods for knowing through negation
 - [[phenomenology-of-the-edge|The Phenomenology of the Edge]] — What consciousness encounters at boundaries
 - [[counterfactual-void|The Counterfactual Void]] — Where modal imagination thins rather than hitting a wall

@@ -4,7 +4,7 @@ description: "Subsidiary cues bear on a focal meaning only by not being focal th
 created: 2026-04-27
 modified: 2026-04-27
 human_modified:
-ai_modified: 2026-04-29T20:27:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 last_deep_review: 2026-04-27T13:46:00+00:00
 draft: false
 topics:
@@ -29,7 +29,7 @@ related_articles:
   - "[[apophatic-cartography]]"
   - "[[what-voids-reveal]]"
   - "[[disappearance-voids]]"
-  - "[[numerosity-void]]"
+  - "[[the-quantitative-comprehension-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -87,7 +87,7 @@ The interior is unexplorable, but the boundary admits indirect mapping. Three ap
 
 The tacit integration void is *unexplorable* in the [[three-kinds-of-void|Map's taxonomy]], structural rather than contingent. The from-to relation is what makes meaning possible; thematising it would require a vantage point outside the relation. As with Gurwitsch's thematic field, attempting to dissolve the void creates a new instance: the new focal object brings its own subsidiaries. The materialist objection — that the integration is in principle specifiable as a pattern of neural activation, and the void is just a practical limit of introspection — is a substantive challenge to the conditional, addressed in [Honest Limitation](#honest-limitation) below.
 
-The from-to relation is one architectural ceiling among several. The [[numerosity-void#the-introspective-ceiling|numerosity void's introspective ceiling]] supplies a quantitative sibling: any single-act apprehension exceeding about four phenomenal-content units must serialise rather than grasp them at once. Both ceilings are structural rather than contingent, and both bound apophatic catalogues from inside — the from-to ceiling prevents grasping the bearing relation as it bears, while the four-item ceiling caps how many bearings can be held in one phenomenal grasp at all. Sibling architectural caps on what consciousness can carry as a single act.
+The from-to relation is one architectural ceiling among several. The [[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor of the quantitative comprehension void]] supplies a quantitative sibling: any single-act apprehension exceeding about four phenomenal-content units must serialise rather than grasp them at once. Both ceilings are structural rather than contingent, and both bound apophatic catalogues from inside — the from-to ceiling prevents grasping the bearing relation as it bears, while the four-item ceiling caps how many bearings can be held in one phenomenal grasp at all. Sibling architectural caps on what consciousness can carry as a single act.
 
 ## Relation to Site Perspective
 
@@ -123,7 +123,7 @@ A third limitation: described from inside human integration. Minds with differen
 - [[acquaintance-void]] — The gap between having an experience and describing it
 - [[noetic-feelings-void]] — Felt verdicts whose generation is opaque
 - [[meaning-void]] — Whether meaning can be analysed at all
-- [[numerosity-void]] — The four-item architectural ceiling: a sibling structural cap on single-act phenomenal grasp
+- [[the-quantitative-comprehension-void#the-cardinality-floor|The Quantitative Comprehension Void — cardinality floor]] — The four-item architectural ceiling: a sibling structural cap on single-act phenomenal grasp
 - [[apophatic-cartography]] — The boundary-marking discipline this article practises
 - [[what-voids-reveal]] — Why structural failures disclose features of consciousness
 

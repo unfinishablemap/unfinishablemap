@@ -4,7 +4,7 @@ description: "Why consciousness is confined to a moving present, cannot simultan
 created: 2026-01-21
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-28T22:23:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -29,7 +29,7 @@ related_articles:
   - "[[death-void]]"
   - "[[self-opacity]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[quantitative-intuition-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[smoothness-and-continuity]]"
   - "[[resolution-void]]"
   - "[[consciousness-and-the-ontology-of-temporal-becoming]]"

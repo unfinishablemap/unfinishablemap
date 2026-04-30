@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-29
 human_modified:
-ai_modified: 2026-04-29T23:10:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -45,7 +45,7 @@ related_articles:
   - "[[suspension-void]]"
   - "[[consciousness-and-scientific-explanation]]"
   - "[[consciousness-and-creativity]]"
-  - "[[numerosity-void]]"
+  - "[[the-quantitative-comprehension-void]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7
@@ -76,7 +76,7 @@ Noetic feelings—also called epistemic or metacognitive feelings—form a funct
 - **Feeling of confidence** — sense that a judgment is reliable. Gates commitment to action.
 - **Feeling of error** — dysphoric, often pre-conceptual sense that something is wrong. Gates corrective search.
 
-Loev calls these "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]; further upstream sits the [[relevance-void|relevance void]], which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop. The [[numerosity-void#the-mechanism-face|numerosity void]] exposes the same output-without-operation shape outside the affective family.
+Loev calls these "mild affective experiences" whose felt character "tends to elude us introspectively" precisely because of their mildness. Proust treats metacognition as procedural rather than metarepresentational: the feelings drive epistemic control beneath reportable judgment. The Map treats [[epistemic-emotions|epistemic emotions]]—curiosity, doubt, insight, confusion—as the phenomenally rich end of the family; noetic feelings sit a level lower, minimal and verdict-like. The noetic feel typically registers the *output* of an upstream inferential transition whose own opacity is the [[inference-void|inference void]]; further upstream sits the [[relevance-void|relevance void]], which shortlists what is even in play. Relevance shortlists; inference moves; noetic feelings register when to stop. The [[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor of the quantitative comprehension void]] exposes the same output-without-operation shape outside the affective family.
 
 ## How the Feelings Are Produced
 
@@ -167,7 +167,7 @@ A functionalist might dissolve the void by identifying understanding with a func
 - [[recognition-void]] — Recognition as a noetic feeling that can fail
 - [[self-opacity]] / [[necessary-opacity]] — Structural reasons certain opacities cannot be lifted
 - [[inference-void]] / [[relevance-void]] — The transitions and filters whose outputs noetic feelings register
-- [[numerosity-void]] — The same output-without-operation shape outside the affective family
+- [[the-quantitative-comprehension-void#the-cardinality-floor|The Quantitative Comprehension Void — cardinality floor]] — The same output-without-operation shape outside the affective family
 - [[suspension-void]] — Why bracketing the natural attitude cannot fully audit itself
 - [[epistemic-emotions]] — The phenomenally rich extension of the noetic family
 - [[apophatic-cartography]] — Mapping territory by the shape of its boundary

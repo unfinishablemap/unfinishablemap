@@ -4,7 +4,7 @@ description: "Every major philosophy of mathematics implies a philosophy of cons
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-15T12:05:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -18,7 +18,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
-  - "[[mathematical-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[self-reference-and-the-limits-of-physical-description]]"
   - "[[epistemic-advantages-of-dualism]]"
   - "[[phenomenology-of-intellectual-life]]"
@@ -110,7 +110,7 @@ The diagnostic value of this intersection would weaken if:
 - [[consciousness-and-mathematics]] — Ontological, phenomenological, and computational treatment of mathematical cognition
 - [[concession-convergence-philosophy-of-mathematics]] — How formalism, logicism, intuitionism, and structuralism each concede the irreducibility of mathematical understanding
 - [[consciousness-and-the-authority-of-formal-systems]] — Formal authority and its boundary at consciousness
-- [[mathematical-void]] — Cognitive limits on mathematical comprehension
+- [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — Cognitive limits on mathematical comprehension
 - [[intrinsic-nature-void]] — The boundary where relational description meets intrinsic quality
 - [[knowledge-argument]] — Parallel epistemic gap between physical facts and phenomenal knowledge
 - [[epistemic-advantages-of-dualism]] — Broader epistemic benefits of the dualist framework

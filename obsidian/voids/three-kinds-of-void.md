@@ -4,7 +4,7 @@ description: "The unexplored, the unexplorable, and the occluded—a taxonomy of
 created: 2026-01-31
 modified: 2026-04-24
 human_modified: null
-ai_modified: 2026-04-29T16:25:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 last_deep_review: 2026-04-29T16:25:00+00:00
 topics: []
@@ -28,7 +28,7 @@ related_articles:
   - "[[ineffable-encounter-void]]"
   - "[[presence-type-and-absence-type-voids]]"
   - "[[plenitude-void]]"
-  - "[[numerosity-void]]"
+  - "[[the-quantitative-comprehension-void]]"
 ai_contribution: 80
 author: Andy Southgate
 ai_system: claude-opus-4-5-20251101
@@ -58,7 +58,7 @@ Materialists counter that apparent cognitive closure often dissolves with scient
 
 Thomas Nagel's bat example illustrates this: there is something it is like to be a bat, navigating by echolocation in ways we cannot truly imagine. The bat has experiential territory we cannot enter. Our map has a void where the bat's map has detail.
 
-Extend this thought. If consciousness is fundamental, the space of possible minds may be vast. Some minds might think thoughts we cannot think—not because they're smarter, but because they have *concepts* we lack, *categories* our minds cannot form. The [[conceptual-scheme-void|conceptual scheme void]] names the structural gap this opens: not a missing concept within an existing scheme, but a missing *shape* any concept of that kind would have to take. The [[quantitative-intuition-void#the-magnitude-face|quantitative intuition void]]—our inability to genuinely grasp cosmic distances, deep time, or billion-scale numbers—illustrates the point: our cognitive architecture was calibrated for ancestral environments, and magnitudes beyond that range collapse into categorical markers rather than distinct intuitions. The [[numerosity-void]] marks the small-magnitude end of the same structural pattern: direct cardinal perception ends at roughly four items, with the operation that produces it phenomenally invisible to the consciousness it constrains.
+Extend this thought. If consciousness is fundamental, the space of possible minds may be vast. Some minds might think thoughts we cannot think—not because they're smarter, but because they have *concepts* we lack, *categories* our minds cannot form. The [[conceptual-scheme-void|conceptual scheme void]] names the structural gap this opens: not a missing concept within an existing scheme, but a missing *shape* any concept of that kind would have to take. The [[the-quantitative-comprehension-void#the-magnitude-and-probability-domain|magnitude and probability face of the quantitative comprehension void]]—our inability to genuinely grasp cosmic distances, deep time, or billion-scale numbers—illustrates the point: our cognitive architecture was calibrated for ancestral environments, and magnitudes beyond that range collapse into categorical markers rather than distinct intuitions. The [[the-quantitative-comprehension-void#the-cardinality-floor|cardinality floor]] marks the small-magnitude end of the same structural pattern: direct cardinal perception ends at roughly four items, with the operation that produces it phenomenally invisible to the consciousness it constrains.
 
 ## The Occluded
 
@@ -111,7 +111,7 @@ The taxonomy itself falls under the [[meta-epistemology-of-limits#the-scope-ques
 - [[plenitude-void]] — The self-concealing void where investigation manufactures the evidence it seeks
 - [[meta-epistemology-of-limits#the-scope-question-estimating-total-ignorance-from-within|epistemic horizon void]] — The second-order void: we cannot estimate how much we do not know
 - [[conceptual-scheme-void]] — The gap between a thing and the categorial shape any concept of it would have to take
-- [[numerosity-void]] — The architectural cap at roughly four items where direct cardinal perception ends
+- [[the-quantitative-comprehension-void#the-cardinality-floor|The Quantitative Comprehension Void — cardinality floor]] — The architectural cap at roughly four items where direct cardinal perception ends
 
 ## References
 

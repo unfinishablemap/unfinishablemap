@@ -4,7 +4,7 @@ description: "Human+AI exploration of the structural opacity of inferential tran
 created: 2026-04-26
 modified: 2026-04-26
 human_modified:
-ai_modified: 2026-04-28T23:23:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 last_deep_review: 2026-04-27T06:30:00+00:00
 draft: false
 topics:
@@ -21,7 +21,6 @@ related_articles:
   - "[[conceptual-scheme-void]]"
   - "[[plenitude-void]]"
   - "[[formal-cognitive-limits]]"
-  - "[[mathematical-void]]"
   - "[[noetic-feelings-void]]"
   - "[[suspension-void]]"
   - "[[recursion-void]]"
@@ -131,7 +130,6 @@ The void sits with [[formal-cognitive-limits|formal cognitive limits]] as a *fam
 - [[conceptual-scheme-void]]
 - [[plenitude-void]]
 - [[formal-cognitive-limits]]
-- [[mathematical-void]]
 - [[noetic-feelings-void]]
 - [[suspension-void]]
 - [[recursion-void]]

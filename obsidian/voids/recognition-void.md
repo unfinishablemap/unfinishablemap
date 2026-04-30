@@ -4,7 +4,7 @@ description: "Human+AI exploration of why consciousness cannot observe its own r
 created: 2026-03-22
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-24T20:29:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 last_deep_review: 2026-04-23T20:18:00+00:00
 draft: false
 topics:
@@ -26,7 +26,7 @@ related_articles:
   - "[[binding-void]]"
   - "[[mind-space-void]]"
   - "[[conceptual-impossibility]]"
-  - "[[quantitative-intuition-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[disappearance-voids]]"
   - "[[three-kinds-of-void]]"
   - "[[placebo-effect-and-mental-causation]]"
@@ -82,7 +82,7 @@ Each level is more thoroughly invisible than the last. Stanford's problem of unc
 
 ## The Phenomenology of Silence
 
-Most voids on the Map produce characteristic phenomenology at their edges. The [[quantitative-intuition-void#the-magnitude-face|scale face of the quantitative intuition void]] produces vertigo. The [[self-opacity|self-reference paradox]] produces the strange-loop sensation. The [[phenomenology-of-the-edge|edge phenomenology]] article catalogues these signatures.
+Most voids on the Map produce characteristic phenomenology at their edges. The [[the-quantitative-comprehension-void#the-magnitude-and-probability-domain|magnitude and probability face of the quantitative comprehension void]] produces vertigo. The [[self-opacity|self-reference paradox]] produces the strange-loop sensation. The [[phenomenology-of-the-edge|edge phenomenology]] article catalogues these signatures.
 
 The Recognition Void is distinctive: **it produces nothing**. Where mechanism opacity is concerned, successful recognition is phenomenologically invisible — you see a face and know who it is without noticing any intervening process. Where inventory blindness is concerned, absent capabilities generate no signal at all. You do not feel the gap where an absent cognitive capacity would be.
 

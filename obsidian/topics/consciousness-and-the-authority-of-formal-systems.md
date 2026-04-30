@@ -4,7 +4,7 @@ description: "Logic compels and mathematics describes with extraordinary precisi
 created: 2026-02-15
 modified: 2026-02-24
 human_modified:
-ai_modified: 2026-04-18T09:05:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 last_deep_review: 2026-04-17T13:05:00+00:00
 draft: false
 topics:
@@ -36,7 +36,7 @@ related_articles:
   - "[[argument-from-reason]]"
   - "[[consciousness-and-normative-force]]"
   - "[[consciousness-and-mathematics]]"
-  - "[[mathematical-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[objectivity-and-consciousness]]"
   - "[[arguments/materialism-argument]]"
@@ -114,7 +114,7 @@ Formal systems also face *internal* limits. Gödel's incompleteness theorems (19
 
 The connection between incompleteness and formal limits at consciousness can be stated at three levels of strength that should not be conflated. *Mathematically*, category-theoretic work (Szangolies 2018, via Lawvere's fixed-point theorem) identifies a single structure — self-referential obstruction in Cartesian closed categories — underlying both Gödelian incompleteness and quantum complementarity. The same formal mechanism that prevents a system from proving its own consistency also prevents a physical theory from determining its own measurement outcomes. This is rigorous mathematics, not analogy. *Interpretively*, the measurement problem's self-referential structure involves an observer who is part of the system being described — and every actual measurement we perform involves a conscious subject. This proximity is suggestive but is not itself a mathematical conclusion; Szangolies' result concerns epistemic horizons, not phenomenal experience. *Philosophically*, the Map argues that consciousness — the phenomenon that constitutes the observer's side of every measurement — occupies the boundary where formal self-description breaks down. This is a philosophical claim that draws on but goes beyond the mathematics, motivated by the convergence of the formal result with independent arguments from the [[explanatory-gap]] and the [[hard-problem-of-consciousness|hard problem]]. The [[self-reference-and-the-limits-of-physical-description]] develops the mathematical and interpretive levels across three tiers of rigour.
 
-The [[mathematical-void]] documents how even *within* mathematics, formal manipulation can proceed without genuine comprehension — we can prove theorems about structures we cannot intuit. When the target is consciousness — the phenomenon that constitutes understanding — the gap between formalism and comprehension may be unbridgeable in principle.
+The [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|abstract mathematical ceiling]] documents how even *within* mathematics, formal manipulation can proceed without genuine comprehension — we can prove theorems about structures we cannot intuit. When the target is consciousness — the phenomenon that constitutes understanding — the gap between formalism and comprehension may be unbridgeable in principle.
 
 ## Alternative Frameworks
 
@@ -145,7 +145,7 @@ Mathematical Platonists hold that mathematical objects have intrinsic properties
 - [[consciousness-and-normative-force]] — Normative authority across moral, epistemic, aesthetic, and prudential domains
 - [[cognitive-phenomenology]] — Whether thinking has its own phenomenal character
 - [[consciousness-and-mathematics]] — Mathematical insight and creativity as evidence for consciousness doing causal work
-- [[mathematical-void]] — Where formal manipulation succeeds but genuine understanding fails
+- [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]] — Where formal manipulation succeeds but genuine understanding fails
 - [[phenomenology-of-intellectual-life|phenomenology of intellectual effort]] — The felt experience of reasoning
 - [[self-stultification]] — Positions that undermine their own rational grounds
 - [[reasons-responsiveness]] — Tracking normative relationships

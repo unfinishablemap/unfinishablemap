@@ -4,7 +4,7 @@ description: "Mathematical insight feels like something—but does it feel the s
 created: 2026-04-14
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-17T03:25:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -23,7 +23,7 @@ related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-the-authority-of-formal-systems]]"
   - "[[aesthetics-and-consciousness]]"
-  - "[[mathematical-void]]"
+  - "[[the-quantitative-comprehension-void]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[cognitive-science-of-dualism]]"
   - "[[phenomenology-of-cognitive-capacity]]"
@@ -127,7 +127,7 @@ The Map's fifth tenet—that Occam's razor has limits—is illustrated by the in
 - [[aesthetics-and-consciousness]]
 - [[phenomenology-of-creative-insight]]
 - [[cognitive-phenomenology]]
-- [[mathematical-void]]
+- [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]]
 - [[phenomenology-of-cognitive-capacity]]
 - [[consciousness-and-the-authority-of-formal-systems]]
 

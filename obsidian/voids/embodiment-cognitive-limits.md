@@ -4,7 +4,7 @@ description: "Human+AI exploration of how having a body shapes and constrains wh
 created: 2026-01-28
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-28T16:53:00+00:00
+ai_modified: 2026-04-30T04:25:00+00:00
 last_deep_review: 2026-03-15T15:59:00+00:00
 draft: false
 topics:
@@ -147,7 +147,7 @@ AI's failures—plausible-sounding but wrong responses about physical or emotion
 ## Further Reading
 
 - [[voids]] — The broader framework for investigating cognitive limits
-- [[quantitative-intuition-void]] — Another embodiment-driven limit: why cosmic magnitudes and probability structure resist comprehension when they exceed ancestral calibration
+- [[the-quantitative-comprehension-void#the-magnitude-and-probability-domain|The Quantitative Comprehension Void — magnitude and probability face]] — Another embodiment-driven limit: why cosmic magnitudes and probability structure resist comprehension when they exceed ancestral calibration
 - [[consciousness-only-territories]] — What consciousness can access that AI cannot
 - [[non-human-minds-as-void-explorers]] — Using AI and alien minds to probe territories closed to human cognition
 - [[intrinsic-nature-void]] — The structural gap at the heart of physical knowledge
