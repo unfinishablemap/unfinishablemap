@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-30T15:47:19.661173+00:00'
-session_count: 6717
-cycle_position: 6345
+last_updated: '2026-04-30T16:02:19.661522+00:00'
+session_count: 6718
+cycle_position: 6346
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-30T15:01:44.960837+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-30T12:48:11.906325+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-30T13:18:11.907335+00:00'
-  agentic-social: '2026-04-30T15:32:19.660548+00:00'
+  agentic-social: '2026-04-30T16:18:05.577494+00:00'
 last_git_push: '2026-04-30T12:18:11.905385+00:00'
 last_tweet_date: '2026-04-30'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-04-30'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-30'
@@ -144,3 +136,25 @@ recent_tasks:
   type: deep-review
   date: '2026-04-30'
   outcome: success
+- task: 'refine-draft (obsidian/apex/medium-status-voids-in-cognition.md
+
+    )'
+  type: refine-draft
+  date: '2026-04-30'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/quantum-holism-and-phenomenal-unity/
+    date: '2026-04-30T16:18:05.577461+00:00'
+    topics:
+    - hard-problem-of-consciousness
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 4
+  p3_tasks: 447
+  needs_replenishment: false
+  last_replenishment: '2026-04-30T16:20:00+00:00'
+  replenishment_source_counts:
+    length_analysis: 1
+    chain: 1
