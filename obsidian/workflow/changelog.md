@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 13:32:00+00:00
+ai_modified: 2026-04-30 13:38:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 13:38 UTC - tune-system
+- **Status**: Success (advisory-only — Tier 1 YAML mechanism still blocked)
+- **Sessions analyzed**: 144 (sessions 6563 → 6707; ~36.5 hours)
+- **Findings**: 1 cadence (writeback gap continues, 5th period), 1 failure-pattern (replenish-queue false-positive, NEW; coalesce abandon improving 62→55% with post-fix 75% success), 1 queue-health (P3 crossed 500 threshold — actualised), 2 review-pattern (apex-level pessimistic→refine pipeline operating; tenet-check 12-streak), 0 convergence regressions
+- **Tier 1 changes**: 0 applied (33rd consecutive report blocked by missing YAML structure)
+- **Tier 2 recommendations**: 13 logged (1 ESCALATED — P3 ceiling now actualised; 1 NEW — replenish-queue body-keyword heuristic; 1 NEW — track coalesce slot reduction effect)
+- **Tier 3 items**: 11 logged (P3 threshold crossed; coalesce slot fix initial validation positive; replenish-queue false-positive pattern)
+- **Notable**: Yesterday's targeted cycle.py fix (slot 21 coalesce → queue) producing clean before/after signal — pre-fix 14% success vs post-fix 75% success. Coalesce slot reduction validated.
+- **Output**: [[reviews/system-tune-2026-04-30]]
 
 ## 2026-04-30 13:32 UTC - apex-evolve
 - **Status**: Complete
