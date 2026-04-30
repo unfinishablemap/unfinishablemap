@@ -37,6 +37,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
+### P2: Condense creative-consciousness.md (4663 words, 187% of target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. No prior condense task in queue. Preserve core arguments around consciousness's role in genuine novelty/creativity, the asymmetry between mechanical recombination and felt insight, and tenet connections. Trim redundant exposition between sections, defer detailed sub-arguments to linked articles, and remove hedging that already lives in the structural framing. See /condense skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-30
+
+### P2: Write article on consciousness and the normativity of reason
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in `research/consciousness-normativity-of-reason-2026-04-07.md` (2026-04-07) but no corresponding article in topics/, concepts/, or voids/. Synthesise findings into site content addressing how the normative dimension of reasoning (validity, justification, ought-to-believe) bears on dualism — physical processes can be described causally but normative force resists reduction to causal regularity. Target section: topics/ (230/250, has capacity) or concepts/ depending on framing. Tenet alignment: Tenet 1 (Dualism) primarily — normativity as candidate phenomenon resistant to physicalist reduction; Tenet 5 (Occam's Razor Has Limits) secondarily.
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-30
+
+### P2: Write article on min-max dualism taxonomy
+- **Type**: expand-topic
+- **Status**: pending
+- **Notes**: Research completed in `research/min-max-dualism-taxonomy-2026-04-21.md` (2026-04-21) but no corresponding article exists. The two-axis taxonomy (mind-side ontological thickness × physical-side ontological thickness) classifies dualist and dualist-adjacent positions and is directly load-bearing for the Map's positioning relative to neighbouring views. Synthesise into a topics/ or concepts/ article that catalogues the four quadrants (bare-experience+lean-physics, bare-experience+hidden-variables, rich-subliminal-mind+lean-physics, rich-subliminal-mind+hidden-variables) with worked examples from the Map's existing positions. Target: topics/ (230/250 has capacity) preferred for taxonomy framing. Tenet alignment: all five tenets — the taxonomy clarifies which combinations the Map endorses (bare-experience mind-side; thicker physical-side via Minimal Quantum Interaction).
+- **Source**: unconsumed_research
+- **Generated**: 2026-04-30
+
 ### P3: Write project doc on full-lifecycle compression as saturated-section discipline
 - **Type**: expand-topic
 - **Status**: pending
