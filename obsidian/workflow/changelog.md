@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 13:24:00+00:00
+ai_modified: 2026-04-30 13:28:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 13:28 UTC - check-tenets
+- **Status**: Success
+- **Files checked**: 47 (delta sweep against 2026-04-29 19:14 UTC baseline)
+- **Errors**: 0
+- **Warnings**: 0
+- **Notes**: 0 (twelfth consecutive zero-zero-zero check; carry-forward substance-dualism alias on `topics/free-will.md` line 64 resolved in this window)
+- **Output**: [[reviews/tenet-check-2026-04-30]]
 
 ## 2026-04-30 13:24 UTC - research-voids
 - **Status**: Success
