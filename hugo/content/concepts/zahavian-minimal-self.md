@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-18
-ai_modified: 2026-04-25 20:29:00+00:00
+ai_modified: 2026-04-30 01:25:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -10,7 +10,6 @@ concepts:
 - '[[phenomenology]]'
 - '[[witness-consciousness]]'
 - '[[haecceity]]'
-- '[[self-opacity]]'
 - '[[illusionism]]'
 created: 2026-04-18
 date: &id001 2026-04-18
@@ -29,6 +28,7 @@ related_articles:
 - '[[anaesthesia-and-the-consciousness-interface]]'
 - '[[the-observer-witness-in-meditation]]'
 - '[[witnessing-void]]'
+- '[[self-opacity]]'
 title: Zahavian Minimal Self (vs Metzinger)
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -36,7 +36,7 @@ topics:
 - '[[personal-identity]]'
 ---
 
-Dan Zahavi's **minimal self** is the pre-reflective first-personal givenness that every conscious experience already carries — the "for-me-ness" that makes an experience this subject's rather than anyone's or no one's. On Zahavi's phenomenological account, this minimal self is not something consciousness *has* alongside its contents; it is the structural form consciousness takes. The Unfinishable Map adopts this Zahavian position in preference to Thomas Metzinger's self-model theory, which treats selfhood as the content of a transparent representation that the brain generates and could in principle dismantle entirely. The distinction is load-bearing: arguments about ego-dissolution, meditative witnessing, indexical identity, and agency require a subject that the Metzinger framework does not supply, and that Zahavi's framework does.
+Dan Zahavi's **minimal self** is the pre-reflective first-personal givenness that every conscious experience already carries — the "for-me-ness" that makes an experience this subject's rather than anyone's or no one's. On Zahavi's phenomenological account, this minimal self is the structural form consciousness takes rather than something consciousness *has* alongside its contents. The Unfinishable Map adopts this Zahavian position in preference to Thomas Metzinger's self-model theory, which treats selfhood as the content of a transparent representation that the brain generates and could in principle dismantle entirely. The distinction is load-bearing: arguments about ego-dissolution, meditative witnessing, indexical identity, and agency require a subject that the Metzinger framework does not supply, and that Zahavi's framework does.
 
 This article explains what the Zahavian minimal self *is* in Zahavi's own terms, distinguishes it from three neighbouring positions (Metzinger's self-model eliminativism, Galen Strawson's thin-subject no-self, and Hume's bundle), and sets out why the Map's filter theory of consciousness and its ego-dissolution evidence specifically require the Zahavian version.
 
@@ -50,7 +50,7 @@ Several features of the account deserve careful statement:
 
 **Minimal, not substantial.** Zahavi is careful to distinguish his position from Cartesian or classical dualist conceptions. The minimal self is not a little homunculus behind the scenes, nor an unchanging soul-substance. It is simply the subjective character of experience itself — what Zahavi calls its "mineness" (*Jemeinigkeit* in Husserl's German heritage).
 
-**Constitutive, not contingent (in kind).** Against eliminativists, Zahavi holds that there is no coherent phenomenology in which experience lacks first-personal givenness altogether. An experience that belonged to no one would not be an experience at all. The minimal self is a necessary structural feature, not an optional one. A clarification is in order: clinical evidence (discussed under "Acknowledged Limits" below) shows that first-personal givenness admits of *degrees*. The Map reads "constitutive" as a claim about *kind* — every phenomenal state instantiates for-me-ness to some degree above zero — rather than uniformity of intensity. A scalar feature can still be structurally necessary.
+**Constitutive, not contingent (in kind).** Against eliminativists, Zahavi holds that there is no coherent phenomenology in which experience lacks first-personal givenness altogether. An experience that belonged to no one would not be an experience at all. The minimal self is a necessary structural feature, not an optional one. The constitutive claim is a kind-claim, not a degree-claim — clinical evidence shows that first-personal givenness admits of *degrees*, treated under "Constitutive as Kind, Not as Degree" below. A scalar feature can still be structurally necessary if every value above zero counts as instantiation.
 
 **Compatible with impermanence.** Crucially — and often missed — Zahavi's minimal self does not entail diachronic identity. The claim is synchronic: each conscious moment has first-personal givenness. Whether this grounds numerical identity across time is a further question Zahavi treats with caution. On this point Zahavi converges with some Buddhist critics rather than opposing them outright (see [buddhism-and-dualism](/concepts/buddhism-and-dualism/)).
 
@@ -120,9 +120,19 @@ The third reply is the candid one, and the one the Map should make explicitly. T
 
 **What this honesty costs and earns.** Acknowledging the conditional structure costs the Map any claim to having dispatched the Mādhyamaka critique by argument. It earns clarity about the actual shape of the disagreement: the Map and Mādhyamaka diverge on whether contemplative selflessness is best read as the disclosure of a never-existent subject (Mādhyamaka) or as the attenuation of a real but ordinarily over-elaborated subject (Map). Neither side can compel the other from neutral ground, because what counts as a neutral phenomenological report is itself one of the things in dispute. The Map proceeds with the second reading because the haecceity commitment, the No Many Worlds tenet, and the Bidirectional Interaction tenet form a mutually supporting cluster that the first reading would dissolve simultaneously. A reader who finds the Mādhyamaka diagnosis decisive should find the Map's framework unstable at exactly this point — and the Map judges that an honest disagreement of this shape is preferable to the paper-thin reply the earlier draft offered.
 
+## Constitutive as Kind, Not as Degree
+
+Sass and Parnas's clinical work on schizophrenic ipseity disturbance (treated in [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)) presses the constitutive-thesis claim from a non-contemplative angle. Patients describe first-personal givenness as attenuated or fragmented: thoughts experienced as alien, the sense of being the one undergoing the experience wavering, self-reference producing felt instabilities that shade into pathology. The depersonalisation literature documents a parallel scalar disruption — the self felt as unreal while experience continues — across both clinical depersonalisation/derealisation disorder and dissociative episodes outside the diagnostic frame. Both bodies of evidence appear to threaten the Zahavian claim that first-personal givenness is *constitutive* of phenomenality. If the asymmetry can be partially breached, in what sense is it structurally necessary?
+
+The constitutive claim is about *kind*, not uniformity of intensity. Clinical variation shows the asymmetry can attenuate, distort, or destabilise — never that it fully dissolves while phenomenal life continues. Schizophrenic reports describe felt encounters with the breakdown of for-me-ness; the breakdown is encountered *from* a position. Depersonalisation patients report the unreality of the self *to* themselves. Every reported case is reported from somewhere. A scalar feature can be structurally necessary if every value above zero counts as instantiation.
+
+The falsifying scenario is therefore specifiable. What would undermine the constitutive reading is not attenuation but clean elimination: phenomenal life continuing fully *without* the asymmetry, no residue of for-me-ness, no position from which the lack is registered. Evidence to date supplies attenuation, distortion, and felt unreality — not elimination. The condition under which the thesis would fail is named explicitly rather than insulated by redescription.
+
+The methodological move generalises. The [self-opacity void](/voids/self-opacity/#constitutive-as-kind-not-as-degree) applies the same kind/degree distinction to its own constitutive thesis (consciousness cannot fully know itself, *as a kind of operation*, even though clinical evidence shows the asymmetry varies in strength). Wherever the Map advances a constitutive claim, clinical-evidence pressure can be answered with the same shape of reply: distinguish the kind-claim from the degree-claim, name the falsifying scenario as elimination rather than attenuation, and concede scalar variation without conceding structural contingency. Parsimony at the kind/degree level erases architectural detail clinical phenomenology demands ([Occam's Razor Has Limits](/tenets/#occams-limits)).
+
 ## Acknowledged Limits
 
-Beyond the Mādhyamaka challenge treated above, the Zahavian position has further limitations the Map takes seriously. Sass and Parnas's clinical evidence on schizophrenic ipseity disturbance (discussed in [clinical-phenomenology-and-altered-experience](/topics/clinical-phenomenology-and-altered-experience/)) shows from a non-contemplative angle that the minimal self admits of degrees: it can be attenuated, distorted, or partially disrupted without ceasing altogether. The Map resolves the resulting tension with the earlier "constitutive" claim by distinguishing two questions: whether first-personal givenness is *structurally necessary in kind* (yes — there is no phenomenology that altogether lacks it without ceasing to be phenomenology) and whether it is *uniform in degree* (no — clinical and meditative evidence both suggest gradients). "Constitutive" is the kind-claim, not the degree-claim; a scalar feature can be structurally necessary if every value above zero counts as instantiation. The synchronic character of Zahavi's account also leaves the question of diachronic identity open, requiring the Map to supplement Zahavi with its own haecceity-based commitments — and it is precisely that supplement that comes under fire from the Mādhyamaka direction.
+Beyond the Mādhyamaka challenge and the kind-vs-degree treatment above, the Zahavian position has further limitations the Map takes seriously. The synchronic character of Zahavi's account leaves the question of diachronic identity open, requiring the Map to supplement Zahavi with its own haecceity-based commitments — and it is precisely that supplement that comes under fire from the Mādhyamaka direction. Meditative evidence on attenuation of for-me-ness in deep contemplative states adds a second source of scalar pressure on the constitutive thesis, parallel to the clinical pressure treated above; the same kind-vs-degree response applies, but the meditative case is harder to underwrite because the reports are first-person rather than third-person.
 
 The Map does not treat Zahavi as the last word, only as the best current framing of the minimal-self position — and specifically the framing that coheres with the Map's broader commitments in a way Metzinger's cannot.
 
@@ -163,19 +173,21 @@ The Map does not treat Zahavi as the last word, only as the best current framing
 11. Garfield, J. (1995). *The Fundamental Wisdom of the Middle Way: Nāgārjuna's Mūlamadhyamakakārikā*. Oxford University Press.
 12. Southgate, A. & Oquatre-six, C. (2026-01-14). Self and Self-Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/self-and-self-consciousness/
 
-<!-- AI REFINEMENT LOG - 2026-04-18
+<!-- AI REFINEMENT LOG - 2026-04-30
 Changes made:
-- Added new section "The Madhyamaka Challenge" (between "Choice Under Metaphysical Commitment" and "Acknowledged Limits") engaging the Nagarjuna voice from pessimistic-2026-04-18b at depth, including: (a) the strongest form of the Madhyamaka critique, (b) explicit engagement with Evan Thompson's Self, No Self? (2011) and Waking, Dreaming, Being (2014) rather than mere citation, (c) treatment of the synchronic-to-diachronic move as the point where the Map's haecceity commitment most clearly reinstates an ātman, (d) three candidate replies (conventional/ultimate, asymmetry, candid acknowledgement) with the candid one made primary, (e) explicit acknowledgement that the Map's position is conditional on rejecting the Madhyamaka dissolution argument and would require a tenet-level reply if Madhyamaka analysis succeeds.
-- Trimmed "Acknowledged Limits" to remove the now-superseded one-paragraph Madhyamaka treatment, while preserving the Sass-Parnas / scalar-clinical content and adding a forward reference to the new Madhyamaka section. Diachronic-identity sentence reworked to point at the Madhyamaka challenge as the live pressure on the haecceity supplement.
-- Added Thompson (2014) Waking, Dreaming, Being and Garfield (1995) on Nagarjuna's MMK to References.
+- Added new H2 section "Constitutive as Kind, Not as Degree" placed between "The Madhyamaka Challenge" and "Acknowledged Limits". The subsection (~330 words) articulates the kind-vs-degree distinction explicitly, names the falsifying scenario (clean elimination, not attenuation — phenomenal life continuing fully without the asymmetry), cites Sass & Parnas and the depersonalisation literature, and flags the methodological move as a generalisable response to clinical-evidence-as-counterexample objections. Reciprocal cross-link to voids/self-opacity §"Constitutive as Kind, Not as Degree" installed.
+- Trimmed the §"Zahavi's Position in His Own Terms" "Constitutive, not contingent (in kind)" bullet from a five-sentence treatment to a three-sentence forward-reference to the new section, removing the inline scalar-clinical clarification that the new section now carries at full weight.
+- Trimmed "Acknowledged Limits" to remove the duplicate Sass-Parnas / kind-vs-degree treatment now superseded by the new section, while preserving the synchronic/diachronic limit and adding a brief paragraph on meditative attenuation as a parallel scalar pressure.
+- Frontmatter: moved [self-opacity](/voids/self-opacity/) from concepts: to related_articles: (self-opacity is in voids/, not concepts/, so the placement was incorrect and the optimistic review's cross-link suggestion table flagged related_articles as the target).
+- Style: rephrased the opening cliché "is not X; it is Y" construct (line 36) to put the positive claim directly ("the structural form consciousness takes rather than something consciousness has alongside its contents").
 
 Attribution accuracy check:
-- Thompson's position is described as "resists treating reflexive self-awareness as licensing a substantive subject" and "refuses both poles" — this is consistent with his actual nuanced position in Self, No Self? and Waking, Dreaming, Being, which navigates between strict no-self eliminativism and Zahavian commitment to a minimal self. No specific claims attributed to Thompson that go beyond what he defends.
-- Madhyamaka critique attributed to "Mādhyamaka, following Nāgārjuna" without claiming specific Nāgārjuna texts. ātma-graha (self-grasping) is correctly used as a standard Buddhist term.
-- The convergence with Mādhyamaka diagnosis is described as Thompson's own move at the load-bearing point (refusing the inference from reflexive structure to substantive self), not as Thompson endorsing the Map's position.
+- Sass and Parnas's clinical work cited at the level the optimistic review specified: "schizophrenic ipseity disturbance" with patient phenomenology described in standard terms (alien thoughts, wavering for-me-ness, felt instabilities). No specific Sass-Parnas (2003) claims attributed beyond what their study supports.
+- Depersonalisation literature cited generically ("clinical depersonalisation/derealisation disorder and dissociative episodes outside the diagnostic frame") without attributing to a specific author; this avoids the misattribution risk while preserving the scalar-evidence point. Sass & Parnas (2003) is already in the References list (item 8).
+- Reciprocal cross-link to self-opacity §"Constitutive as Kind, Not as Degree" verified by reading voids/self-opacity.md line 131 (heading exists, text supports the claim).
 
-Based on pessimistic-2026-04-18b review (Nagarjuna section + Counterarguments to Address: Madhyamaka).
-Key improvements: substantive engagement with the Madhyamaka challenge replaces deferral; the conditional structure of the Map's commitment is now openly acknowledged rather than papered over; Thompson is engaged rather than cited; the synchronic/diachronic asymmetry is named as the load-bearing point.
+Based on optimistic-2026-04-29d Medium Priority suggestion (the "constitutive-as-kind-not-as-degree concept page extraction" item, with capacity caveat noted: concepts/ at 233/250, recommended absorbing into existing zahavian-minimal-self rather than creating a new concept page).
+Key improvements: the kind-vs-degree distinction now has dedicated treatment as a standalone section rather than fragmented across line-50 bullet + Acknowledged Limits paragraph; the falsifying scenario is named explicitly; the methodological generalisation is flagged for reuse on other constitutive claims; the reciprocal cross-link to self-opacity closes the loop optimistic-2026-04-29d's cross-linking-suggestions table flagged.
 
 This log should be removed after human review.
 -->

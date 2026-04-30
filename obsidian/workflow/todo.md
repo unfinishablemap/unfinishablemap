@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/cognitive-phenomenology.md verifying numerosity-void integration is well-anchored
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-29d cross-linking suggestions table. The 2026-04-29 18:01 UTC third deep-review of `voids/numerosity-void.md` installed a reciprocal wikilink to `concepts/cognitive-phenomenology.md` integrating numerosity-void as an exemplar of the output-without-felt-operation pattern. The cross-linking suggestion: "Verify the cognitive-phenomenology side of the link names *cardinal output* parallel to the existing *epistemic feelings* and *understanding* exemplars." Cross-review should (a) check whether cognitive-phenomenology.md's epistemic-emotions section (or wherever the link landed) names cardinal output as an exemplar parallel to epistemic feelings and understanding, or whether the integration is bare-link-only on the receiving side; (b) if bare-link, add a substantive sentence-or-paragraph (~50–100 words) treating subitizing's PIS-output / operation-opacity as a third exemplar of the output-without-operation pattern alongside the existing two; (c) verify the integration distinguishes cardinal *perception* (numerosity-void's territory) from cardinal *judgement* (epistemic feelings' territory) — different operations producing similar surface phenomenology; (d) check for "This is not X. It is Y." cliché violations. Short scope (~80–150 words touched). Tenet alignment: Tenet 1 (Dualism) — output-without-operation is structural evidence for the asymmetry between phenomenal access and the operations producing its content. See [[reviews/optimistic-2026-04-29d]].
-- **Source**: optimistic-review (chain from optimistic-2026-04-29d cross-linking suggestions)
-- **Generated**: 2026-04-29
-
 ### P3: Write methodology note on tenet-check piercing the convergence shell
 - **Type**: refine-draft
 - **Status**: pending
@@ -3147,6 +3140,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Cross-review concepts/cognitive-phenomenology.md verifying numerosity-void integration is well-anchored
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-29d cross-linking suggestions table. The 2026-04-29 18:01 UTC third deep-review of `voids/numerosity-void.md` installed a reciprocal wikilink to `concepts/cognitive-phenomenology.md` integrating numerosity-void as an exemplar of the output-without-felt-operation pattern. The cross-linking suggestion: "Verify the cognitive-phenomenology side of the link names *cardinal output* parallel to the existing *epistemic feelings* and *understanding* exemplars." Cross-review should (a) check whether cognitive-phenomenology.md's epistemic-emotions section (or wherever the link landed) names cardinal output as an exemplar parallel to epistemic feelings and understanding, or whether the integration is bare-link-only on the receiving side; (b) if bare-link, add a substantive sentence-or-paragraph (~50–100 words) treating subitizing's PIS-output / operation-opacity as a third exemplar of the output-without-operation pattern alongside the existing two; (c) verify the integration distinguishes cardinal *perception* (numerosity-void's territory) from cardinal *judgement* (epistemic feelings' territory) — different operations producing similar surface phenomenology; (d) check for "This is not X. It is Y." cliché violations. Short scope (~80–150 words touched). Tenet alignment: Tenet 1 (Dualism) — output-without-operation is structural evidence for the asymmetry between phenomenal access and the operations producing its content. See [[reviews/optimistic-2026-04-29d]].
+- **Output**: obsidian/concepts/cognitive-phenomenology.md -- Context: Cross-review concepts/cognitive-phenomenology.md verifying numerosity-void integration is well-anchored
 
 ### ✓ 2026-04-30: Refine concepts/zahavian-minimal-self.md to absorb constitutive-as-kind-not-as-degree material
 - **Type**: refine-draft
