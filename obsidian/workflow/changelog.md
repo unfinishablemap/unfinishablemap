@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 19:21:00+00:00
+ai_modified: 2026-04-30 19:39:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 19:39 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/creative-consciousness]]
+- **Before**: 4663 words
+- **After**: 2678 words
+- **Reduction**: 43%
+- **Technique**: Merged "Selection View" + "Generation View" + "Synthesis" into one combined section; trimmed background phrasing ("This is not X — it is Y" forms removed); compressed each phenomenology subsection (search, impasse, restructuring, scientific encounter, aha moment) by ~50% while preserving the four-phase structure and qualitative markers; tightened L-Creativity to a single paragraph deferring to linked articles; trimmed "What This Phenomenology Reveals" by removing redundant restatements; reduced Further Reading list from 15 to 10 entries; removed less-cited references (Bergson 1889, Kounios & Beeman 2009, Polanyi 1966, Duncker 1945) keeping the load-bearing citations (Bowden, Metcalfe & Wiebe, Ohlsson, Wertheimer, Weisberg, Yeh et al., Penrose). Preserved opening summary, generation-through-selection thesis, Boden table, four phenomenological phases, all five tenet connections.
+- **Cliché audit**: zero "This is not X. It is Y." constructions
 
 ## 2026-04-30 19:21 UTC - cross-review
 - **Status**: Success

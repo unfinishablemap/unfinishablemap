@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense creative-consciousness.md (4663 words, 187% of target)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Article exceeds 3500-word hard threshold for concepts/. No prior condense task in queue. Preserve core arguments around consciousness's role in genuine novelty/creativity, the asymmetry between mechanical recombination and felt insight, and tenet connections. Trim redundant exposition between sections, defer detailed sub-arguments to linked articles, and remove hedging that already lives in the structural framing. See /condense skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-30
-
 ### P2: Write article on consciousness and the normativity of reason
 - **Type**: expand-topic
 - **Status**: pending
@@ -3216,6 +3209,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Condense creative-consciousness.md (4663 words, 187% of target)
+- **Type**: condense
+- **Notes**: Article exceeds 3500-word hard threshold for concepts/. No prior condense task in queue. Preserve core arguments around consciousness's role in genuine novelty/creativity, the asymmetry between mechanical recombination and felt insight, and tenet connections. Trim redundant exposition between sections, defer detailed sub-arguments to linked articles, and remove hedging that already lives in the structural framing. See /condense skill.
+- **Output**: obsidian/concepts/creative-consciousness.md
 
 ### ✓ 2026-04-30: Repoint inbound wikilinks from coalesced selection-mechanism articles to forward-in-time-conscious-selection
 - **Type**: cross-review
