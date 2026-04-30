@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-30T11:03:11.903177+00:00'
-session_count: 6699
-cycle_position: 6327
+last_updated: '2026-04-30T11:18:11.903634+00:00'
+session_count: 6700
+cycle_position: 6328
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-30T08:43:34.156484+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-30T06:40:31.239219+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-29T13:04:01.275735+00:00'
-  agentic-social: '2026-04-30T10:48:11.902551+00:00'
+  agentic-social: '2026-04-30T11:33:55.823709+00:00'
 last_git_push: '2026-04-30T08:13:34.155355+00:00'
 last_tweet_date: '2026-04-30'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-30'
-  outcome: success
 - task: 'deep-review (None -- Context: Verify reciprocal calibration of )'
   type: deep-review
   date: '2026-04-30'
@@ -136,3 +128,29 @@ recent_tasks:
   type: deep-review
   date: '2026-04-30'
   outcome: success
+- task: deep-review (obsidian/voids/common-knowledge-void.md)
+  type: deep-review
+  date: '2026-04-30'
+  outcome: success
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/apex/identity-across-transformations/
+    date: '2026-04-30T11:33:55.823692+00:00'
+    topics:
+    - personal-identity
+    - death-and-consciousness
+    - topics/free-will
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 2
+  p3_tasks: 447
+  needs_replenishment: false
+  last_replenishment: '2026-04-30T11:34:00+00:00'
+  replenishment_source_counts:
+    chain: 0
+    unconsumed_research: 0
+    gap_analysis: 0
+    length_analysis: 1
+    staleness: 0
+    orphan_integration: 0
