@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/medium-status-voids-in-cognition.md against the-quantitative-comprehension-void's magnitude-probability face
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-30 (Medium Priority). The 03:11 UTC apex-stale-wikilinks-cross-review retargeted "incompleteness phenomena" references to `formal-cognitive-limits` and grasp-of-mathematical-structures references to QCV's mathematical-ceiling face, but `apex/medium-status-voids-in-cognition.md` may have additional surface area for cross-link to the magnitude-and-probability-domain face (Kahneman/Tversky heuristics, frequency-format intervention, deep-time intuition). The directed retarget pass at 03:11 UTC explicitly noted "no full six-persona pessimistic + six-persona optimistic deep-review" — the second pass at the new generalisation should verify whether magnitude-and-probability content needs explicit acknowledgment in the medium-status apex's structural cluster framing. Cross-review should (a) audit medium-status-voids-in-cognition.md for current treatment of magnitude/probability material (mattering, relevance, noetic-feelings, conceptual-scheme are the four constituents — none directly handles probability-magnitude); (b) determine whether QCV's magnitude-probability face is a fifth medium-status void or an exemplar of a sibling cluster (output-without-operation, see related queue tasks); (c) install whatever cross-link work the audit warrants — substantive bridging if reciprocal alignment is found, framing-clarification if the clusters are genuinely distinct; (d) log finding count even if the audit produces only minor edits. Short scope (~150–300 words touched). Tenet alignment: methodological/Occam's Razor Has Limits — clarifying when new voids extend an existing apex cluster vs. when they form a new one.
-- **Source**: optimistic-review (chain from optimistic-2026-04-30 Medium Priority)
-- **Generated**: 2026-04-30
-
 ### P3: Refine three-kinds-of-void.md with face-by-face mixed-classification example
 - **Type**: refine-draft
 - **Status**: pending
@@ -3162,6 +3155,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Cross-review apex/medium-status-voids-in-cognition.md against the-quantitative-comprehension-void's magnitude-probability face
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-30 (Medium Priority). The 03:11 UTC apex-stale-wikilinks-cross-review retargeted "incompleteness phenomena" references to `formal-cognitive-limits` and grasp-of-mathematical-structures references to QCV's mathematical-ceiling face, but `apex/medium-status-voids-in-cognition.md` may have additional surface area for cross-link to the magnitude-and-probability-domain face (Kahneman/Tversky heuristics, frequency-format intervention, deep-time intuition). The directed retarget pass at 03:11 UTC explicitly noted "no full six-persona pessimistic + six-persona optimistic deep-review" — the second pass at the new generalisation should verify whether magnitude-and-probability content needs explicit acknowledgment in the medium-status apex's structural cluster framing. Cross-review should (a) audit medium-status-voids-in-cognition.md for current treatment of magnitude/probability material (mattering, relevance, noetic-feelings, conceptual-scheme are the four constituents — none directly handles probability-magnitude); (b) determine whether QCV's magnitude-probability face is a fifth medium-status void or an exemplar of a sibling cluster (output-without-operation, see related queue tasks); (c) install whatever cross-link work the audit warrants — substantive bridging if reciprocal alignment is found, framing-clarification if the clusters are genuinely distinct; (d) log finding count even if the audit produces only minor edits. Short scope (~150–300 words touched). Tenet alignment: methodological/Occam's Razor Has Limits — clarifying when new voids extend an existing apex cluster vs. when they form a new one.
+- **Output**: obsidian/apex/medium-status-voids-in-cognition.md -- Context: Cross-review apex/medium-status-voids-in-cognition.md against the-quantitative-comprehension-void's magnitude-probability face
 
 ### ✓ 2026-04-30: Refine concepts/coalesce-condense-apex-stability.md to incorporate the retention-test framing as named principle
 - **Type**: refine-draft

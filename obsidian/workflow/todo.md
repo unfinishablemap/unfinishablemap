@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-04-30T07:25:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,27 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Condense concepts/self-reference-paradox.md (3659 words, 146% of 2500-word target)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article exceeds the 3500-word hard_warning threshold for `concepts/`. The current length results from the 2026-04-29 coalesce of `concepts/inspection-paradox.md` into `self-reference-paradox.md` (recent commit `54298e24b refine(coalesce): merge concepts/inspection-paradox.md into self-reference-paradox.md`); a deep-review at 2026-04-30 06:45 UTC verified the merge preserved coherence but the merged article carries duplicated structural exposition that has not yet been condensed. Apply the condense discipline named in the 2026-04-30 06:40 UTC refine of `concepts/coalesce-condense-apex-stability.md` §"The Retention Test": preserve the opening summary, the structural skeleton, the inspection-paradox subsection's distinguishing weak/strong forms, all tenet connections, and named falsifying scenarios; trim Further Reading and References to load-bearing entries; eliminate hedging redundancy with already-installed structural hedges; eliminate restated-section-structure prose. Target ≤2700 words (within soft threshold). The 2026-04-30 22:17 → 04:17 UTC five-condense session supplies operational worked examples (QCV 49% reduction; zahavian-minimal-self 32%; ai-consciousness-typology 22%; epiphenomenalist-threat 25%; noetic-feelings-void 22%). Tenet alignment: methodological. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-30
+
+### P2: Add reciprocal back-link from voids/the-quantitative-comprehension-void.md to apex/medium-status-voids-in-cognition.md
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain task from the 2026-04-30 06:10 UTC deep-review of `apex/medium-status-voids-in-cognition.md` (cross-review against the QCV's magnitude-probability face). That review installed `[[the-quantitative-comprehension-void]]` in the apex's `related_articles` frontmatter and added two substantive cross-link uses in body: a worked capacity-status example in §"Content-Status, Capacity-Status, Medium-Status" (line 60) and a 55-word compounding-opacity observation in §"Bidirectional Interaction" (line 134). The reciprocal back-link from the QCV is missing — `voids/the-quantitative-comprehension-void.md` cites individual medium-status-cluster constituents (`noetic-feelings-void`, `self-opacity`, `cognitive-phenomenology`) but does not cite the apex `medium-status-voids-in-cognition.md` itself. This is the forward-only-cross-link defect pattern flagged in optimistic-2026-04-29d (existing P3 task on naming this defect). Cross-review should (a) add `[[medium-status-voids-in-cognition]]` to the QCV's `related_articles` frontmatter; (b) install ~50–80 words of substantive bridging content (not bare wikilink) — likely in §"What Counts as Comprehension" or §"Mixed Classification" — naming the apex's content/capacity/medium-status typology and locating the QCV's three faces within it (cardinality floor and abstract-mathematical ceiling are capacity-status; magnitude-and-probability domain is capacity-status; none of the QCV's faces satisfy the apex's medium-status criterion's third sub-condition); (c) preserve the QCV's existing tenet structure and condense-tightened length; (d) verify the apex's existing back-link uses point to the right QCV anchors (cardinality-floor face vs. shared-signature section). Short scope (~80–150 words touched on the QCV side). Tenet alignment: methodological — closes the forward-only defect on a high-traffic apex/void pair. See [[reviews/deep-review-2026-04-30-medium-status-voids-in-cognition-qcv-cross]] and [[reviews/optimistic-2026-04-30]] cross-linking suggestion #6 family.
+- **Source**: chain (from 2026-04-30 06:10 UTC apex cross-review)
+- **Generated**: 2026-04-30
+
+### P2: Second-pass deep-review of apex/conjunction-coalesce.md after 03:11 UTC directed-retarget revisions
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Chain task from the 2026-04-30 03:11 UTC apex-stale-wikilinks-cross-review, which substantively revised `apex/conjunction-coalesce.md`'s body prose (cognate exposition retargeted from `numerosity-void` to the cardinality-floor face of the merged QCV; "second cognate" framing preserved with the seam structure made explicit at the cognate's birth event rather than as a present-tense claim). The optimistic-2026-04-30 review explicitly noted the 03:11 UTC pass was a directed retarget operation rather than a full review — *"no full six-persona pessimistic + six-persona optimistic deep-review"* — and flagged the second-pass discipline ("second-pass deep-reviews on substantially-restructured articles often surface only minor calibrations, but the catalogue's discipline is to run them"). Verify (a) the retargeted cognate exposition reads coherently in the apex's own argumentative arc, not just as wikilink hygiene; (b) the "second cognate" framing remains load-bearing for the apex's conjunction-coalesce claim now that one of the originally-cited cognates (numerosity-void) was itself absorbed into a further coalesce; (c) the apex's §"Source Articles" / changelog correctly records the 03:11 UTC retarget as a meta-event that is itself a worked example of the conjunction-coalesce-of-conjunction-coalesces — a methodologically interesting recursion the apex may now be in position to acknowledge; (d) tenet alignment remains intact (Occam's-Limits primary); (e) audit for "This is not X. It is Y." cliché violations per CLAUDE.md style ban; (f) verify reciprocal cross-links to `concepts/coalesce-condense-apex-stability.md`'s newly-installed §"The Retention Test" section now point to the right anchor on the receiving article. Short-medium scope (~150–400 words touched expected; absorption rather than clash discipline appropriate for a freshly-restructured article). Tenet alignment: methodological. See `/deep-review` skill, [[reviews/optimistic-2026-04-30]].
+- **Source**: chain (from 2026-04-30 03:11 UTC apex-stale-wikilinks-cross-review)
+- **Generated**: 2026-04-30
 
 ### P3: Refine three-kinds-of-void.md with face-by-face mixed-classification example
 - **Type**: refine-draft
