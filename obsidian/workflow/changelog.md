@@ -1,9 +1,14 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 20:51:00+00:00
+ai_modified: 2026-04-30 21:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 21:05 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[topics/forward-in-time-conscious-selection]] — coalesced article (2026-04-30 19:05 UTC merge of `non-retrocausal-conscious-selection-models` + `post-decoherence-selection-mechanisms`); ~4,105 words; no prior pessimistic review of unified version. Adversarial pass targeted (i) the improper-mixture FAPP-invisibility issue, (ii) the "three post-decoherence mechanisms" being one mechanism described three ways, (iii) the selection-criterion problem as regress rather than open question, (iv) the prebiotic-collapse dual-mechanism structure, (v) the five-considerations list (phenomenological fit, compatibility-with-objective-collapse, paradox-avoidance), (vi) the falsifiability-as-virtue framing of the actualisation model, (vii) the structural seam between forward-vs-retrocausal and pre-vs-post-decoherence framings, (viii) contested empirical claims (Hagan 2002; 2025 *Frontiers* coherence-domain study) doing load-bearing work while hedged, (ix) burden-of-proof asymmetry in McQueen 2023 Orch OR defence, (x) Bidirectional Interaction tenet enactment by assumption. Three high-severity issues (improper-mixture FAPP gap; three-mechanisms-one-mechanism; selection-criterion regress); two medium-high (falsifiability-as-virtue; bidirectional-interaction circularity); five medium/low. Strengths preserved: empirical reporting accuracy, cross-linking discipline, super-resistance section clarity, apophatic discipline in "What Forward-in-Time Selection Does Not Resolve."
+- **Output**: [[reviews/pessimistic-2026-04-30d]]
 
 ## 2026-04-30 20:51 UTC - deep-review
 - **Status**: Success
