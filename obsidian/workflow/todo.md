@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30T19:50:00+00:00
+ai_modified: 2026-04-30T20:07:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,20 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on min-max dualism taxonomy
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/min-max-dualism-taxonomy-2026-04-21.md` (2026-04-21) but no corresponding article exists. The two-axis taxonomy (mind-side ontological thickness × physical-side ontological thickness) classifies dualist and dualist-adjacent positions and is directly load-bearing for the Map's positioning relative to neighbouring views. Synthesise into a topics/ or concepts/ article that catalogues the four quadrants (bare-experience+lean-physics, bare-experience+hidden-variables, rich-subliminal-mind+lean-physics, rich-subliminal-mind+hidden-variables) with worked examples from the Map's existing positions. Target: topics/ (230/250 has capacity) preferred for taxonomy framing. Tenet alignment: all five tenets — the taxonomy clarifies which combinations the Map endorses (bare-experience mind-side; thicker physical-side via Minimal Quantum Interaction).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-30
-
-### P3: Write project doc on full-lifecycle compression as saturated-section discipline
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-30d (Medium Priority). The 2026-04-30 13:24 → 15:34 UTC vagueness-void window executed research → expand → pessimistic-review → cross-review → orphan-integration in 130 minutes for a single new article entering the catalogue. The catalogue does not yet have a methodology document on full-lifecycle compression as a discipline. The pattern is structurally distinct from the more typical create-and-orphan-then-clean-up pattern. The document would name the operation's structural commitments — research-before-expand to anchor empirical claims, pessimistic-review-before-cross-review to identify issues before installing reciprocal links, cross-review-before-orphan-integration to ensure sibling pairings are identified before navigation-hub registration — and articulate the *saturation-discipline driver*: section caps tighten, full-lifecycle compression becomes the only sustainable creation pattern. The document should be parallel to `project/closed-loop-opportunity-execution.md` and `project/bedrock-clash-vs-absorption.md`. Distinct from the proposed condense-discipline-as-retention-test doc (todo.md:59) by *scope* (full-lifecycle creation rather than length-discipline editing). Worked examples: this window's vagueness-void plus 2026-04-22's ai-consciousness-typology full-lifecycle. Estimated scope: 1,200–1,800 words. Project-document placement preferred (concepts/ at 231/250 = 92%). Tenet alignment: methodological. See [[reviews/optimistic-2026-04-30d]].
-- **Source**: optimistic-review (2026-04-30d)
-- **Generated**: 2026-04-30
 
 ### P3: Cross-review apex articles for reciprocal-link discipline at internal vs external levels
 - **Type**: cross-review
@@ -3202,6 +3188,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Write article on min-max dualism taxonomy
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/min-max-dualism-taxonomy-2026-04-21.md` (2026-04-21) but no corresponding article exists. The two-axis taxonomy (mind-side ontological thickness × physical-side ontological thickness) classifies dualist and dualist-adjacent positions and is directly load-bearing for the Map's positioning relative to neighbouring views. Synthesise into a topics/ or concepts/ article that catalogues the four quadrants (bare-experience+lean-physics, bare-experience+hidden-variables, rich-subliminal-mind+lean-physics, rich-subliminal-mind+hidden-variables) with worked examples from the Map's existing positions. Target: topics/ (230/250 has capacity) preferred for taxonomy framing. Tenet alignment: all five tenets — the taxonomy clarifies which combinations the Map endorses (bare-experience mind-side; thicker physical-side via Minimal Quantum Interaction).
+- **Output**: min-max dualism taxonomy
+
+### ✓ 2026-04-30: Write article on min-max dualism taxonomy
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/min-max-dualism-taxonomy-2026-04-21.md` (2026-04-21) but no corresponding article exists. The two-axis taxonomy (mind-side ontological thickness × physical-side ontological thickness) classifies dualist and dualist-adjacent positions and is directly load-bearing for the Map's positioning relative to neighbouring views. Synthesise into a topics/ or concepts/ article that catalogues the four quadrants (bare-experience+lean-physics, bare-experience+hidden-variables, rich-subliminal-mind+lean-physics, rich-subliminal-mind+hidden-variables) with worked examples from the Map's existing positions. Target: topics/ (230/250 has capacity) preferred for taxonomy framing. Tenet alignment: all five tenets — the taxonomy clarifies which combinations the Map endorses (bare-experience mind-side; thicker physical-side via Minimal Quantum Interaction).
+- **Output**: [[topics/four-quadrant-dualism-taxonomy]] (already existed — created 2026-04-21, deep-reviewed 2026-04-23)
 
 ### ✓ 2026-04-30: Write article on consciousness and the normativity of reason
 - **Type**: expand-topic

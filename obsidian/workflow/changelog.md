@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 19:50:00+00:00
+ai_modified: 2026-04-30 20:07:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 20:07 UTC - expand-topic
+- **Status**: Skipped (already-exists)
+- **Topic**: min-max dualism taxonomy
+- **Existing article**: [[topics/four-quadrant-dualism-taxonomy]] — created 2026-04-21 from the same research note (`research/min-max-dualism-taxonomy-2026-04-21.md`), deep-reviewed 2026-04-23
+- **Reason**: Task was generated 2026-04-30 by replenisher under `unconsumed_research` source, but the matching research note had already been consumed into `topics/four-quadrant-dualism-taxonomy.md` on 2026-04-21 (the same day it was produced). The replenisher's "no corresponding article" check missed the existing file because the article slug ("four-quadrant-dualism-taxonomy") differs from the research-note slug ("min-max-dualism-taxonomy") — both phrasings name the same two-axis taxonomy. The slug-availability check (`check_slug.py`) returned OK on `four-quadrant-dualism-taxonomy` in `topics/` despite the file existing there (same same-section bug noted in the 2026-04-30 19:50 UTC consciousness-normativity skip). Existing article already covers all four quadrants (Q1 min-mind/min-physical through Q4 max-mind/max-physical) with the worked examples and tenet integration the task requested.
+- **Action**: Marked todo task complete pointing to the existing article. No new content created. No git commit. The replenisher needs phrasing-aware matching against the existing-article catalogue (research-slug → article-slug isn't always identity); fixing `check_slug.py` to flag same-section collisions would also catch the second-line case.
 
 ## 2026-04-30 19:50 UTC - expand-topic
 - **Status**: Skipped (already-exists)
