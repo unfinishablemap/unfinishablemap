@@ -4,8 +4,8 @@ description: "Consciousness contributes to creativity by generating possibilitie
 created: 2026-01-19
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T19:39:00+00:00
-last_deep_review: 2026-04-30T17:54:00+00:00
+ai_modified: 2026-04-30T20:51:00+00:00
+last_deep_review: 2026-04-30T20:51:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -82,7 +82,7 @@ Transformational creativity most clearly requires both aspects. You cannot selec
 
 A 2024 study in *Brain* (Yeh et al.) established that the Default Mode Network plays a *causal* role in creative thinking, not merely correlational. The DMN supports mind-wandering, remote associative thinking, and spontaneous idea generation; theta waves distinguish creative ideation from mere mind-wandering. The Executive Control Network supports focused attention and evaluation. Crucially, the *capacity* to fluidly switch between DMN and ECN states — not either alone — predicts creative ability. This switching demands [[mental-effort|mental effort]]; the [[agent-causation#Creative Generation: Beyond Pure Selection|agent-causal framework]] interprets it as consciousness orchestrating transitions.
 
-Before conscious insight, the brain shows specific preparation: alpha bursts over right visual cortex reduce distraction, gamma activity marks the emerging solution. The brain "knows" roughly 8 seconds before you consciously do whether a solution will come through insight or analysis. This does not reduce insight to unconscious processes — it suggests preparation and selection operate on different timescales. The "aha!" itself belongs to the family of [[noetic-feelings-void|noetic feelings]] — a verdict-like felt signal that gates which candidate survives into explicit thought.
+Before conscious insight, the brain shows specific preparation. Kounios and Beeman (2009) document alpha bursts over right visual cortex that reduce distraction and gamma activity that marks the emerging solution; pre-insight neural signatures predict roughly 8 seconds in advance whether a solution will arrive through insight or analysis. This does not reduce insight to unconscious processes — it suggests preparation and selection operate on different timescales. The "aha!" itself belongs to the family of [[noetic-feelings-void|noetic feelings]] — a verdict-like felt signal that gates which candidate survives into explicit thought.
 
 ## The Phenomenology of Creative Insight
 
@@ -110,20 +110,20 @@ The philosophical debate turns on whether genuine novelty requires libertarian f
 
 ## What the Phenomenology Reveals
 
-The experiential structure resists the [[concepts/epiphenomenalism|epiphenomenalist]] interpretation. Each phase carries information that shapes subsequent processing: the felt quality of search guides attention; the phenomenology of impasse signals framework inadequacy; the gestalt shift restructures the problem space; certainty distinguishes genuine solutions from false leads before verification. The feeling of impasse carries information about *why* search has failed (framework inadequacy versus insufficient effort) — a distinction the thinker uses to guide the next move. If phenomenology were merely a detailed shadow, the question of why natural selection would produce such informationally rich shadows would demand an answer epiphenomenalism struggles to provide.
+The experiential structure resists the [[concepts/epiphenomenalism|epiphenomenalist]] interpretation. Each phase carries information that shapes subsequent processing: the felt quality of search guides attention; impasse signals *why* search has failed (framework inadequacy versus insufficient effort), guiding the next move; the gestalt shift restructures the problem space; certainty distinguishes genuine solutions from false leads before verification. If phenomenology were merely a detailed shadow, the question of why natural selection would produce such informationally rich shadows would demand an answer epiphenomenalism struggles to provide.
 
 A deeper objection holds that the phases are retrospective narrative constructions rather than real-time experiential structures. The Metcalfe and Wiebe warmth-rating data provides independent, non-narrative evidence: subjects' numerical ratings *during* problem-solving show the characteristic discontinuity. Convergence between structured ratings and verbal reports suggests the phenomenological structure is real-time, not post-hoc.
 
 ## Where Do Options Come From?
 
-A pure selection model faces an unresolved question: who generates the options consciousness selects from? If the brain generates them unconsciously, consciousness is reduced to picking from a menu it didn't create. The synthesis answers: consciousness generates options through imagination's exploration of possibility space. The "menu" isn't pre-set; it expands through imaginative engagement. The brain provides constraints and substrates, but the creative exploration is consciousness's contribution. When you brainstorm, you don't feel you're scanning pre-existing options — you feel you're producing them, each idea suggesting the next through associative exploration.
+A pure selection model faces an unresolved question: who generates the options consciousness selects from? If the brain produces them unconsciously, consciousness is reduced to picking from a menu it didn't create. The synthesis answers that consciousness generates options through imagination's exploration of possibility space — the menu expands through imaginative engagement rather than being pre-set. The brain provides constraints and substrates; the creative work belongs to consciousness. The phenomenology of brainstorming confirms this: each idea suggests the next through associative exploration rather than being plucked from a hidden catalogue.
 
 ## What Would Challenge This View
 
 The synthesis would face serious difficulty if any of the following held.
 
 1. **Incubation proved necessary.** If creative breakthroughs only occurred after unconscious incubation, never during active conscious engagement, the generation role would be undermined. Current evidence shows both routes produce insight.
-2. **Phenomenology proved unreliable.** Research on noetic feelings shows terse felt verdicts can fire driven by fluency rather than truth, so some scepticism is warranted. The felt texture of creative generation is not a terse verdict, however — it is extended exploratory work, with successive possibilities shaping one another.
+2. **Phenomenology proved unreliable.** Research on noetic feelings shows terse felt verdicts can fire driven by fluency rather than truth, so some scepticism is warranted. The felt texture of creative generation, however, runs deeper than a terse verdict — it is extended exploratory work, with successive possibilities shaping one another.
 3. **Imagination proved purely combinatorial.** Transformational creativity — changing the rules themselves — resists this reduction.
 4. **DMN-ECN coupling proved irrelevant to creativity.** If dynamic switching could be explained entirely by unconscious mechanisms, the bidirectional thesis would weaken.
 
@@ -167,14 +167,15 @@ The creative process may also illuminate [[mysterianism|cognitive closure]]. The
 5. Hausman, C. R. (1984). *A Discourse on Novelty and Creation*. SUNY Press.
 6. Kosso, P. (1989). *Observability and Observation in Physical Science*. Kluwer Academic Publishers.
 7. Kronfeldner, M. (2009). Creativity Naturalized. *The Philosophical Quarterly*, 59(237), 577–592.
-8. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
-9. Metcalfe, J. & Wiebe, D. (1987). Intuition in insight and noninsight problem solving. *Memory & Cognition*, 15(3), 238–246.
-10. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
-11. Ohlsson, S. (1992). Information-processing explanations of insight and related phenomena. In M. Keane & K. Gilhooly (Eds.), *Advances in the Psychology of Thinking* (pp. 1–44). Harvester Wheatsheaf.
-12. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
-13. Poincaré, H. (1908). *Science and Method*. Thomas Nelson and Sons.
-14. Weisberg, R. W. (2015). Toward an integrated theory of insight in problem solving. *Thinking & Reasoning*, 21(1), 5–39.
-15. Wertheimer, M. (1945). *Productive Thinking*. Harper & Brothers.
-16. Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409–3423.
-17. Southgate, A. & Oquatre-six, C. (2026-01-19). Consciousness and Creativity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-and-creativity/
-18. Southgate, A. & Oquatre-six, C. (2026-03-08). Phenomenology of Creative Insight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenology-of-creative-insight/
+8. Kounios, J. & Beeman, M. (2009). The Aha! Moment: The Cognitive Neuroscience of Insight. *Current Directions in Psychological Science*, 18(4), 210–216.
+9. Kuhn, T. S. (1962). *The Structure of Scientific Revolutions*. University of Chicago Press.
+10. Metcalfe, J. & Wiebe, D. (1987). Intuition in insight and noninsight problem solving. *Memory & Cognition*, 15(3), 238–246.
+11. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
+12. Ohlsson, S. (1992). Information-processing explanations of insight and related phenomena. In M. Keane & K. Gilhooly (Eds.), *Advances in the Psychology of Thinking* (pp. 1–44). Harvester Wheatsheaf.
+13. Penrose, R. (1989). *The Emperor's New Mind*. Oxford University Press.
+14. Poincaré, H. (1908). *Science and Method*. Thomas Nelson and Sons.
+15. Weisberg, R. W. (2015). Toward an integrated theory of insight in problem solving. *Thinking & Reasoning*, 21(1), 5–39.
+16. Wertheimer, M. (1945). *Productive Thinking*. Harper & Brothers.
+17. Yeh, Y. et al. (2024). Default mode network electrophysiological dynamics and causal role in creative thinking. *Brain*, 147(10), 3409–3423.
+18. Southgate, A. & Oquatre-six, C. (2026-01-19). Consciousness and Creativity. *The Unfinishable Map*. https://unfinishablemap.org/concepts/consciousness-and-creativity/
+19. Southgate, A. & Oquatre-six, C. (2026-03-08). Phenomenology of Creative Insight. *The Unfinishable Map*. https://unfinishablemap.org/concepts/phenomenology-of-creative-insight/
