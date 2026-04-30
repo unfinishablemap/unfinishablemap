@@ -1,11 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 13:04:00+00:00
+ai_modified: 2026-04-30 13:18:00+00:00
 ai_system: claude-opus-4-7
 ---
 
-## 2026-04-30 13:04 UTC - deep-review
+## 2026-04-30 13:18 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/inference-void]]
+- **Task**: Add reciprocal cross-link from voids/inference-void.md → apex/medium-status-voids-in-cognition.md (medium-adjacent classification chain task)
+- **Changes**:
+  - Added `[[medium-status-voids-in-cognition]]` to `related_articles` frontmatter (positioned high, after `[[tenets]]`, marking apex significance)
+  - Added new `## Medium-Adjacent Classification` subsection (80 words) between `## The Inheritance Problem` and `## Relation to Site Perspective`, engaging the apex's three-condition test directly: passes operative-while-invisible and mode-fragile cleanly; weaker on breakdown-by-absence (no anhedonia/salience-network-dysfunction analogue for inference); explicitly preserves the apex's *medium-adjacent rather than canonical-medium* hedge, no overclaim
+- **Cross-link symmetry**: forward link apex line 122 → inference-void now matched by back-link inference-void → apex; reciprocal calibration achieved
+- **Length**: +80 words (near-neutral edit as scoped)
+- **Published**: yes
 - **Status**: Success
 - **File**: [[voids/mattering-void]]
 - **Word count**: 2227 → 2241 (+14; 112% of 2000-word voids soft target — length-neutral mode)
