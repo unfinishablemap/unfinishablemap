@@ -1,13 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 05:55:00+00:00
+ai_modified: 2026-04-30 06:25:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 06:25 UTC - deep-review (reciprocal calibration: zahavian-minimal-self §"Constitutive as Kind, Not as Degree" ↔ self-opacity)
+- **Status**: Success
+- **File**: [self-opacity](/voids/self-opacity/)
+- **Word count**: 2543 → 2543 (no change; 127% of 2000 soft threshold; anchor added within an existing wikilink)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (asymmetric anchored linking on parallel sections — forward link from zahavian was anchored, back-link from self-opacity pointed only at the article)
+- **Enhancements made**: 1 (retargeted self-opacity line 135 back-link to anchor at the matching section in zahavian, completing reciprocal calibration; both sides now anchored at parallel "Constitutive as Kind, Not as Degree" headings)
+- **Context**: Seventh review of self-opacity. Triggered by addition of dedicated kind-vs-degree section to zahavian-minimal-self on 2026-04-30 (commit f57b46df7), which carried an anchored forward link into self-opacity's parallel section while the existing self-opacity back-link (added 2026-04-18 in commit a1fbb50c6) pointed only at the article. Conceptual reciprocity was already correct (matching headings, originator/applier framing, identical falsifying-scenario phrasing, shared Sass & Parnas citation); only the link-anchor symmetry needed tightening. Bedrock disagreements (Dennett heterophenomenology, MWI, Buddhist emptiness, eliminativism, physicalism) all remain correctly categorised and not re-flagged.
+- **Output**: [deep-review-2026-04-30-self-opacity](/reviews/deep-review-2026-04-30-self-opacity/)
+
+## 2026-04-30 06:11 UTC - deep-review (stability confirmation: lucid-dreaming-and-dualist-rendering)
+- **Status**: Success
+- **File**: [lucid-dreaming-and-dualist-rendering](/topics/lucid-dreaming-and-dualist-rendering/)
+- **Word count**: 2920 → 2920 (no change; 97% of 3000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-30-lucid-dreaming-and-dualist-rendering](/reviews/deep-review-2026-04-30-lucid-dreaming-and-dualist-rendering/)
+- **Context**: Fifth consecutive review with zero critical issues. Only modification since 2026-03-24 review was a slug rename (`memory-as-dual-domain-capability` → `episodic-memory`) at three locations — verified the alias `[dual-domain framework](/concepts/episodic-memory/)` remains semantically accurate (target article describes itself as a "dual-domain capability"). Article is at robust stability. Updated `last_deep_review` and `ai_modified` timestamps; no content edits.
 
 ## 2026-04-30 05:55 UTC - deep-review (cross-link addition to quantitative-comprehension-void introspective-ceiling)
 - **Status**: Success
