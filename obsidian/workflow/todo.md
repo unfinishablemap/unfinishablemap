@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep-review apex/medium-status-voids-in-cognition.md (post-pessimistic-refine verification)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: Chain from the 2026-04-30 08:43 UTC pessimistic-2026-04-30b review and the subsequent refine-draft (commit 17fdb9949) that added ~720 words across six load-bearing fixes — physicalist-deflation paragraph, per-tradition hedges (Heidegger/Frankfurt/Ratcliffe/Carruthers/Vervaeke), tightened criterion treating attention as a medium-adjacent boundary case and reconstructive episodic memory as a candidate medium-status face, new "What Would Falsify This Cluster" section with three operational candidates, reframed bidirectional-interaction bridge from evidence to consistency-and-suggestion, removed undefined "asymmetric mirror" phrase. Standard discipline on a ~720-word restructure: a verification deep-review should (a) confirm all six pessimistic-2026-04-30b critical/high/medium issues are now adequately absorbed without restating the original positions; (b) verify the new "What Would Falsify This Cluster" section's three conditions are genuinely risky rather than decorative (the pessimistic critique was specifically that falsification was decorative); (c) check that the tightened criterion now correctly excludes attention as a fifth medium-status void (or accepts it as a boundary case with explicit framing); (d) verify the closing-paragraph softening no longer contradicts the earlier non-physicality concession; (e) confirm structural cuts preserved (three-way typology, four-fold cluster, five-tradition convergence, three-part criterion, tenet bridge); (f) audit for "This is not X. It is Y." cliché violations introduced during rapid editing per CLAUDE.md style ban; (g) verify cross-links to constituents (mattering, relevance, noetic-feelings, conceptual-scheme) remain accurate after the criterion tightening. Short-medium scope (~150–400 words touched expected; absorption rather than clash discipline appropriate for a freshly-refined article). Tenet alignment: methodological. See [[reviews/pessimistic-2026-04-30b]] and `/deep-review` skill.
-- **Source**: chain (from apex/medium-status-voids-in-cognition.md pessimistic-refine)
-- **Generated**: 2026-04-30
-
 ### P2: Cross-review four medium-status constituent voids against tightened criterion
 - **Type**: cross-review
 - **Status**: pending
@@ -3182,6 +3175,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Deep-review apex/medium-status-voids-in-cognition.md (post-pessimistic-refine verification)
+- **Type**: deep-review
+- **Notes**: Chain from the 2026-04-30 08:43 UTC pessimistic-2026-04-30b review and the subsequent refine-draft (commit 17fdb9949) that added ~720 words across six load-bearing fixes — physicalist-deflation paragraph, per-tradition hedges (Heidegger/Frankfurt/Ratcliffe/Carruthers/Vervaeke), tightened criterion treating attention as a medium-adjacent boundary case and reconstructive episodic memory as a candidate medium-status face, new "What Would Falsify This Cluster" section with three operational candidates, reframed bidirectional-interaction bridge from evidence to consistency-and-suggestion, removed undefined "asymmetric mirror" phrase. Standard discipline on a ~720-word restructure: a verification deep-review should (a) confirm all six pessimistic-2026-04-30b critical/high/medium issues are now adequately absorbed without restating the original positions; (b) verify the new "What Would Falsify This Cluster" section's three conditions are genuinely risky rather than decorative (the pessimistic critique was specifically that falsification was decorative); (c) check that the tightened criterion now correctly excludes attention as a fifth medium-status void (or accepts it as a boundary case with explicit framing); (d) verify the closing-paragraph softening no longer contradicts the earlier non-physicality concession; (e) confirm structural cuts preserved (three-way typology, four-fold cluster, five-tradition convergence, three-part criterion, tenet bridge); (f) audit for "This is not X. It is Y." cliché violations introduced during rapid editing per CLAUDE.md style ban; (g) verify cross-links to constituents (mattering, relevance, noetic-feelings, conceptual-scheme) remain accurate after the criterion tightening. Short-medium scope (~150–400 words touched expected; absorption rather than clash discipline appropriate for a freshly-refined article). Tenet alignment: methodological. See [[reviews/pessimistic-2026-04-30b]] and `/deep-review` skill.
+- **Output**: obsidian/apex/medium-status-voids-in-cognition.md
 
 ### ✓ 2026-04-30: Second-pass deep-review of concepts/ai-consciousness-typology.md after coalesce → cross-review → deep-review → condense pipeline
 - **Type**: deep-review

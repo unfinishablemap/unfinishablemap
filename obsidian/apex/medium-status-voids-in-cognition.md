@@ -3,8 +3,8 @@ title: "Medium-Status Voids in Cognition"
 created: 2026-04-29
 modified: 2026-04-30
 human_modified: null
-ai_modified: 2026-04-30T09:01:00+00:00
-last_deep_review: 2026-04-30T07:10:00+00:00
+ai_modified: 2026-04-30T10:10:00+00:00
+last_deep_review: 2026-04-30T10:10:00+00:00
 draft: false
 description: "Four cognitive voids name operations that structure other contents — significance, filtering, gating, framing — while remaining invisible from inside."
 topics:
@@ -180,16 +180,3 @@ This synthesis draws on:
 10. Southgate, A. & Oquatre-sept, C. (2026-04-29). The Relevance Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/relevance-void/
 11. Southgate, A. & Oquatre-sept, C. (2026-02-27). The Noetic Feelings Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/noetic-feelings-void/
 12. Southgate, A. & Oquatre-sept, C. (2026-02-20). The Conceptual Scheme Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/conceptual-scheme-void/
-
-<!-- AI REFINEMENT LOG - 2026-04-30
-Refine-draft pass addressing six load-bearing weaknesses identified in pessimistic-2026-04-30b:
-- Reframed medium-status typology as the Map's stipulation rather than a discovery; added physicalist-deflation paragraph in §"Content-Status, Capacity-Status, Medium-Status".
-- Added per-tradition hedges in §"Five Traditions on the Same Circularity" — one sentence each for Heidegger, Frankfurt, Ratcliffe, Carruthers, Vervaeke naming what each would not endorse. Added structural-vs-interpretive convergence hedge.
-- Tightened §"The Inflation Risk and the Medium-Status Criterion" to address attention (treated as medium-adjacent boundary case; "four" framed as provisional) and reconstructive episodic memory (now distinguished from memory's output as a candidate medium-status face).
-- Added new section §"What Would Falsify This Cluster" with three operational candidates: controlled bypass of the relevance filter; lesion-dissociation of the four operations; verifiable scheme-articulation while operating.
-- Reframed §"Bidirectional Interaction" — bridge from medium-status to interface-candidacy now explicitly conditional and consistency-and-suggestion rather than evidence; flagged the affirming-the-consequent risk; cited physical counter-examples (DNS resolution, articulatory motor commands, predictive-coding precision-weighting).
-- Removed undefined "asymmetric mirror" phrase.
-- Softened the closing paragraph so it no longer contradicts the earlier "the cluster does not establish that the medium is non-physical" concession.
-Structural cuts preserved: three-way typology, four-fold cluster, five-tradition convergence, three-part criterion, tenet bridge.
-This log should be removed after human review.
--->
