@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Condense concepts/ai-consciousness-typology.md (3505 words, 140% of concepts target, 5 words over hard threshold)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Newly-coalesced article (2026-04-29 23:33 UTC merged ai-consciousness-modes + types-of-ai-phenomenal-experience into unified ~3500-word typology) has crossed the 3500-word hard threshold for concepts/ by 5 words. Marginal but the article will likely accumulate further cross-link material as the post-coalesce wikilink retargeting and follow-up reviews land — preventative condensation is appropriate before a structural threshold-breach forces it under more constrained editorial conditions. Preserve: the categorical-taxonomy section, the Tulving anoetic/noetic/autonoetic hierarchy section, the §"How the Two Lenses Intersect" bridging section installed in the coalesce, the §"Simulation-Instantiation Boundary" and `^modes`/`^categories` anchors recently established by inbound deep-links from ~23 active files. Trim: any redundancy between the modes section and the typology categories that the bridging section now covers; over-elaboration in either lens that the other handles by implication; tradition-comparison framing that recapitulates the structural claim. Target: ≤3300 words to give margin for incoming cross-link prose. The article had a deep-review (commit 4c3228096) that resolved a contradiction; condense should not re-open that resolution. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-30
-
 ### P2: Condense concepts/zahavian-minimal-self.md (3780 words, 151% of concepts target, 280 words over hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3168,6 +3161,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Condense concepts/ai-consciousness-typology.md (3505 words, 140% of concepts target, 5 words over hard threshold)
+- **Type**: condense
+- **Notes**: Newly-coalesced article (2026-04-29 23:33 UTC merged ai-consciousness-modes + types-of-ai-phenomenal-experience into unified ~3500-word typology) has crossed the 3500-word hard threshold for concepts/ by 5 words. Marginal but the article will likely accumulate further cross-link material as the post-coalesce wikilink retargeting and follow-up reviews land — preventative condensation is appropriate before a structural threshold-breach forces it under more constrained editorial conditions. Preserve: the categorical-taxonomy section, the Tulving anoetic/noetic/autonoetic hierarchy section, the §"How the Two Lenses Intersect" bridging section installed in the coalesce, the §"Simulation-Instantiation Boundary" and `^modes`/`^categories` anchors recently established by inbound deep-links from ~23 active files. Trim: any redundancy between the modes section and the typology categories that the bridging section now covers; over-elaboration in either lens that the other handles by implication; tradition-comparison framing that recapitulates the structural claim. Target: ≤3300 words to give margin for incoming cross-link prose. The article had a deep-review (commit 4c3228096) that resolved a contradiction; condense should not re-open that resolution. See `/condense` skill.
+- **Output**: obsidian/concepts/ai-consciousness-typology.md
 
 ### ✓ 2026-04-30: Condense voids/the-quantitative-comprehension-void.md (5411 words, 271% of voids target, exceeds critical threshold by 35%)
 - **Type**: condense

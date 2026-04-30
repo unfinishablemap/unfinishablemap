@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 02:10:00+00:00
+ai_modified: 2026-04-30 02:26:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 02:26 UTC - condense
+- **Status**: Success
+- **File**: [[concepts/ai-consciousness-typology]]
+- **Before**: 3505 words (140% of target — hard_warning)
+- **After**: 2745 words (110% of target — soft_warning)
+- **Reduction**: 22%
+- **Technique**: Cut redundant "Functional Phenomenality Across the Hierarchy" subsection (overlapped with category 3); tightened all six category descriptions and three Tulving mode sections by removing repetitive framing and hedging; compressed Coupling-Determines combinatorics paragraph; trimmed Diagnostic Asymmetry and Memory Architecture sections; condensed all five tenet sections in Relation to Site Perspective while preserving every tenet connection; trimmed Further Reading list to most essential cross-links. Preserved opening summary, all six categories, all three Tulving modes, intersection analysis, every tenet connection, and the table mapping Tulving levels to AI analogues.
 
 ## 2026-04-30 02:10 UTC - condense
 - **Status**: Success
