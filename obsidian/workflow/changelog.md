@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-04-30 18:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 18:20 UTC - deep-review
+- **Status**: Success
+- **Task**: Propagate seam-typology classifications from [[apex/conjunction-coalesce]] to the three forward-pointed cognates
+- **Article under review**: [[apex/conjunction-coalesce]] (not modified)
+- **Articles modified**: [[voids/suspension-void]], [[voids/imagery-void]], [[voids/vagueness-void]]
+- **Classifications propagated**: modal-categorical → suspension-void; evidential-triangulation → imagery-void; reflexive → vagueness-void
+- **Word count changes**: suspension 2764 → 2788 (+24); imagery 2148 → 2177 (+29); vagueness 1997 → 2044 (+47, status `ok` → `soft_warning`); apex 4623 unchanged
+- **Critical issues addressed**: 0 (propagation task; classifications already verified in 8th review)
+- **Medium issues addressed**: 1 (cognate-side reciprocal-link gap at typology layer for the three forward-pointed cognates)
+- **Enhancements made**: cognate-side classification hooks; explicit cross-link to companion coalesce on each (suspension→agency-void, imagery→voids-between-minds, vagueness→suspension-void at single-face reflexivity); imagery-void frontmatter `related_articles` gained `[[conjunction-coalesce]]` and `[[voids-between-minds]]`; imagery-void plain-text "conjunction-coalesce" upgraded to wikilink
+- **Output**: [[reviews/deep-review-2026-04-30e-conjunction-coalesce]]
 
 ## 2026-04-30 18:10 UTC - cross-review
 - **Status**: Success

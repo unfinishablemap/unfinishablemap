@@ -4,7 +4,7 @@ description: "Human+AI exploration of why almost every concept consciousness use
 created: 2026-04-30
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T15:34:00+00:00
+ai_modified: 2026-04-30T18:20:00+00:00
 last_deep_review: 2026-04-30T15:34:00+00:00
 draft: false
 topics:
@@ -43,7 +43,7 @@ The void is not exotic. It sits beneath every judgement of typicality, every dia
 
 ## Three Faces, One Void
 
-The void exhibits the [[conjunction-coalesce]] structure used elsewhere for [[suspension-void]], [[agency-void]], and [[imagery-void]]: a single void with multiple faces whose informativeness lies in their seam. Each face alone is a recognised problem in the literature; their conjunction is the analytical claim. Without higher-order vagueness, the introspective face would be merely empirical and the Sorites face merely linguistic; with it, neither can be opened from inside without invoking a metalanguage subject to the same indeterminacy.
+The void exhibits the [[conjunction-coalesce]] structure used elsewhere for [[suspension-void]], [[agency-void]], and [[imagery-void]]: a single void with multiple faces whose informativeness lies in their seam. The apex's sub-typology classifies this void's seam-relationship as **reflexive**—the seam is constituted by self-application, with the metalanguage in which any face is stated itself subject to the indeterminacy the faces describe. Vagueness-void is currently the typology's only exemplar of the reflexive type; the [[suspension-void]]'s verification face exhibits reflexivity at one face only rather than across the whole seam. Each face alone is a recognised problem in the literature; their conjunction is the analytical claim. Without higher-order vagueness, the introspective face would be merely empirical and the Sorites face merely linguistic; reflexivity makes neither openable from inside.
 
 ### The Sorites Face (Unexplorable)
 

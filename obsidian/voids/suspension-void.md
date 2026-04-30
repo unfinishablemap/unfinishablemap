@@ -4,7 +4,7 @@ description: "Consciousness cannot verify, sustain, or coherently perform the wi
 created: 2026-04-28
 modified: 2026-04-28
 human_modified: null
-ai_modified: 2026-04-30T15:18:00+00:00
+ai_modified: 2026-04-30T18:20:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -47,7 +47,7 @@ The void cuts close to the Map. Investigating cognitive limits—holding simple 
 
 ## Three Faces, One Void
 
-The void exhibits the [[conjunction-coalesce|conjunction-coalesce]] structure used elsewhere for [[agency-void]], [[erasure-void]], and the [[vagueness-void|vagueness void]]: a single void with multiple faces whose informativeness lies in their seam. Each face alone is a recognised problem; their conjunction is the analytical claim. Without verification, capacity would be merely empirical and action merely paradoxical; with it, neither can be opened from inside without invoking the very capacity under investigation. The vagueness void shares the same template at one remove: its three faces (Sorites, introspective, higher-order) cohere because the metalanguage in which any face is stated is itself subject to the indeterminacy the faces describe—the same self-application pattern by which suspension's verification face cannot be opened without invoking the suspension capacity.
+The void exhibits the [[conjunction-coalesce|conjunction-coalesce]] structure used elsewhere for [[agency-void]], [[erasure-void]], and the [[vagueness-void|vagueness void]]: a single void with multiple faces whose informativeness lies in their seam. The apex's sub-typology classifies this void's seam-relationship as **modal-categorical**—the three faces span distinct modal categories (knowing-that for verification, being-able-to for capacity, doing for action) and the void is constituted by the joint failure to bridge across them; the [[agency-void]] coalesce shares the same shape. Each face alone is a recognised problem; their conjunction is the analytical claim. Without verification, capacity would be merely empirical and action merely paradoxical; with it, neither can be opened from inside without invoking the very capacity under investigation. The vagueness void shares the template reflexively—its faces cohere through a metalanguage subject to the same indeterminacy, paralleling how suspension's verification face cannot be opened without invoking the capacity it tests.
 
 ### Verification (Unexplorable)
 
