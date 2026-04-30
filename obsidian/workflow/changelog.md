@@ -1,9 +1,15 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 08:43:00+00:00
+ai_modified: 2026-04-30 08:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 08:56 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [[apex/medium-status-voids-in-cognition]] — newly synthesised apex (apex_last_synthesis 2026-04-29T07:19; last_deep_review 2026-04-30T07:10), no prior pessimistic pass on file
+- **Output**: [[reviews/pessimistic-2026-04-30b]]
+- **Findings summary**: Six load-bearing weaknesses identified — (1) typology presented as discovery rather than stipulation (high); (2) five-tradition convergence elides ontological disagreements within the five (medium); (3) inflation criterion selectively applied — attention passes all three sub-conditions but is excluded, episodic memory's reconstructive face not handled (medium-high); (4) interaction-channel bridge affirms-the-consequent — invisible-while-operative is not evidence of non-physicality (high); (5) falsification posture decorative — no specified falsifier of the medium-status thesis (medium-high); (6) "asymmetric mirror" undefined (low). Six critic personas applied (Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna). Five unsupported claims tabulated. P2 refine-draft task added to todo.md.
 
 ## 2026-04-30 08:43 UTC - replenish-queue
 - **Status**: Success (conservative mode — 3 P2 tasks generated)
