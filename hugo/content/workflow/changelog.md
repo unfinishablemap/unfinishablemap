@@ -1,13 +1,37 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 15:54:00+00:00
+ai_modified: 2026-04-30 16:32:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 16:32 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: 5h44m window (10:48 → 16:32 UTC) — vagueness-void full-lifecycle (research → expand → pessimistic-review → cross-review → orphan-integration in 130 minutes); machine-question apex restructure → deep-review → reciprocal-link sweep in 75 minutes; medium-status apex back-link install closing optimistic-2026-04-30c Suggestion #1 at 5h14m latency; first deep-reviews of mattering-void, relevance-void, conceptual-scheme-void (all 0 critical); functionalism condense -25% (3559 → 2659); time-collapse-and-agency 5th deep-review with comparative-framework branch reframe; phenomenology-of-trust + subject-object-distinction-as-philosophical-discovery convergence confirmations; tenet-check 12-streak.
+- **Output**: [optimistic-2026-04-30d](/reviews/optimistic-2026-04-30d/)
+- **Tasks generated**: 2 P3 — full-lifecycle-compression project doc; apex reciprocal-link discipline cross-review.
+
+## 2026-04-30 16:27 UTC - condense
+- **Status**: Success
+- **File**: [functionalism](/concepts/functionalism/)
+- **Before**: 3559 words
+- **After**: 2659 words
+- **Reduction**: 25%
+- **Technique**: cut redundancy between opening and "Functionalist View" section (merged into single Multiple Realizability section); condensed Modern Functionalist Frameworks (PP and GWT collapsed since both make the same "doesn't explain phenomenal" point); tightened Semantic Externalism (removed Putnam biographical scaffolding); compressed Specification Problem (C. elegans and Physarum into single paragraph); tightened Hard Problem and Functionalism's Appeal sections; pruned Further Reading from 27 entries to 12 highest-value links. Preserved opening summary, all five Relation to Site Perspective subsections, all unique arguments (zombie, Twin Earth, Chinese Room, phenomenal non-compositionality, slime mold dilemma), and complete References list. Now in soft_warning range (target 2500, hard 3500).
+
+## 2026-04-30 16:02 UTC - refine-draft
+- **Status**: Success
+- **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Task**: Install reciprocal back-links from §"What Would Falsify This Cluster" to the four constituent voids (chain from optimistic-2026-04-30c Medium Priority; closes the forward-only-cross-link defect installed by the 10:33 UTC constituent cross-review)
+- **Word count**: 4290 → 4291 (+1 word; effectively length-neutral as specified — added "a" in "a shared signature" for grammatical flow after restructuring the lesion-dissociation sentence)
+- **Wikilinks added**: 6 inline within the falsification-candidates list, hitting all four distinct void targets — (a) `[relevance face](/voids/relevance-void/)` in the controlled-bypass paragraph; (b) `[mattering](/voids/mattering-void/)`, `[relevance](/voids/relevance-void/)`, `[noetic feelings](/voids/noetic-feelings-void/)`, `[conceptual scheme](/voids/conceptual-scheme-void/)` in the lesion-dissociation paragraph as a cluster-level signature reference; (c) `[conceptual scheme](/voids/conceptual-scheme-void/)` in the verifiable-scheme-articulation paragraph
+- **Cliché audit**: zero "This is not X. It is Y." violations (none expected per task brief; confirmed)
+- **Tenet alignment**: methodological — reciprocal-cross-link discipline as catalogue navigation standard; the constituents' forward links from each void's "Why this matters" or equivalent now match symmetric back-links from the apex's falsification candidates to each constituent whose face each falsifier most directly tests
+- **Notes**: Length-neutral light edit (~95 words touched in the falsification section); the four constituent voids were already in the apex's `related_articles` frontmatter so no frontmatter changes beyond `ai_modified`. The lesion-dissociation paragraph was the heaviest-touch sentence: "shared signature; clean dissociation" became "a shared signature across [four named voids]; clean dissociation of any one operation" — the cluster-level test framing made all four targets natural inline. No commit per task instruction (automation system handles).
 
 ## 2026-04-30 15:54 UTC - deep-review
 - **Status**: Success
