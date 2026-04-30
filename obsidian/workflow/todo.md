@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30T20:20:00+00:00
+ai_modified: 2026-04-30T22:36:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,41 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Cross-review topics/eliminative-materialism.md considering the-naturalisation-failure-for-content insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from today's (2026-04-30) 21:45 UTC expand-topic on Hutto & Myin's hard problem of content, which created `topics/the-naturalisation-failure-for-content.md`. The new article frames the Map's dialectical position as content-being-constitutively-conscious-mediated and pairs explicitly with `topics/consciousness-and-the-normativity-of-reason.md`. Eliminative-materialism is in the new article's `topics:` frontmatter — the failure-of-naturalisation argument intersects directly with eliminativism's content critique: either eliminativism's "no content to begin with" move dissolves the HPC (and the Map's argument needs to engage that dissolution), or eliminativism inherits the same problem at the level of natural/scientific concepts (the self-stultification line). Cross-review should (a) audit `topics/eliminative-materialism.md` for forward-only-cross-link defects to the new article; (b) check whether the eliminative-materialism article's treatment of folk-psychological content needs sharpening in light of the naturalisation-failure framing; (c) install substantive bridging content (~50–120 words) where each article's specific concern intersects the other's; (d) verify reciprocal entries in `related_articles` frontmatter on both sides; (e) audit for "This is not X. It is Y." cliché violations. Short-medium scope (~200–400 words touched). Tenet alignment: Dualism (content's irreducibility), methodological. See [[topics/the-naturalisation-failure-for-content]].
+- **Source**: chain (from the-naturalisation-failure-for-content.md expand-topic 21:45 UTC)
+- **Generated**: 2026-04-30
+
+### P2: Cross-review concepts/hard-problem-of-content.md considering the-naturalisation-failure-for-content insights
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from today's (2026-04-30) 21:45 UTC expand-topic on Hutto & Myin's hard problem of content, which created `topics/the-naturalisation-failure-for-content.md`. The new topic article is the topic-level treatment of the same HPC the concept page expounds. The 21:50 UTC deep-review noted distinctness (topic isolates the dialectical position the Map takes; concept page expounds the underlying argument) but did not audit reciprocal anchoring. Cross-review should (a) verify `concepts/hard-problem-of-content.md` is forward-linked from the new article (it is, in `concepts:` frontmatter) and verify the reverse: the concept page should now point to the topic article as the canonical home of the dialectical position; (b) check for content overlap that would suggest the concept page should defer to the topic article on dialectical-position exposition rather than re-stating it; (c) install reciprocal cross-link with substantive bridging content (~30–80 words) at the natural anchor in the concept page; (d) verify `related_articles` frontmatter contains the topic article on the concept-page side; (e) audit for "This is not X. It is Y." cliché violations. Short scope (~100–250 words touched). Tenet alignment: Dualism (the HPC bears directly on intentionality's irreducibility), methodological — closing forward-only-cross-link defect after expand-topic. See [[topics/the-naturalisation-failure-for-content]].
+- **Source**: chain (from the-naturalisation-failure-for-content.md expand-topic 21:45 UTC)
+- **Generated**: 2026-04-30
+
+### P2: Condense voids/void-as-ground-of-meaning.md (3433 words, 172% of voids/ soft threshold)
+- **Type**: condense
+- **Status**: pending
+- **Notes**: Article was just expanded by ~648 words in the 2026-04-30 22:05 UTC refine (Buddhist/Eastern parallels integration plus new §"The Contextualist Worry" subsection engaging Katz/Sharf). It now sits at 3433 words against the voids/ soft threshold of 2000 (172%) and hard threshold of 3000 (114%). Length status: hard_warning. Condense should preserve: (a) the existing analytic spine and constitutive thesis, (b) the §"Cross-Tradition Convergence" section's four-tradition catalogue (Madhyamaka śūnyatā, Daoist wú/xū, Zen mu, Kyoto School absolute nothingness), (c) the new §"The Contextualist Worry" subsection with Katz (1978) and Sharf (1995) engagement — this content is load-bearing because convergence is reframed as operational evidence at argument-form level rather than perennialist phenomenological identity, (d) all five-tenet Relation to Site Perspective sections, (e) named falsifying scenarios. Trim candidates: structural-hedging redundancy where the contextualist worry has already absorbed the hedge; verbose framing prose in sections that have the core claim in the section-opening sentence; Further Reading entries that are not load-bearing on the constitutive-thesis or convergence-evidence arguments; restated section-structure prose. Target net trim: ~400–700 words to bring article back into soft-warning band (~2700–3000 words). Audit for "This is not X. It is Y." cliché violations. Tenet alignment: methodological. See `/condense` skill.
+- **Source**: length_analysis
+- **Generated**: 2026-04-30
+
+### P2: Cross-review voids/meaning-void.md considering void-as-ground-of-meaning's new contextualist-worry framing
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from today's (2026-04-30) 22:05 UTC refine of `voids/void-as-ground-of-meaning.md`, which (a) sharpened the convergence opener with explicit "operational evidence vs. Map-specific artefact" framing and (b) added §"The Contextualist Worry" subsection engaging Katz (1978) and Sharf (1995) — preserves structural-claim convergence (argument-form) while conceding phenomenological-convergence claim has to retreat. `voids/meaning-void.md` is the closest cousin in the Map's meaning cluster (both invoke or could invoke cross-tradition convergence to support their structural claims) and may need a parallel calibration: if cross-tradition convergence is invoked in meaning-void, it should be classified as operational-evidence-at-argument-form rather than perennialist-phenomenological-identity. Cross-review should (a) audit meaning-void's existing cross-tradition convergence claims (if any) for Katz/Sharf vulnerability; (b) install a calibration paragraph (~80–150 words) if convergence claims are present and unhedged; (c) verify reciprocal `related_articles` cross-link to `[[void-as-ground-of-meaning]]` and substantive bridging language at the natural anchor; (d) flag any other articles in the meaning cluster (e.g., `topics/buddhist-perspectives-on-meaning.md`, `topics/eastern-philosophy-consciousness.md`) that may need parallel calibration; (e) audit for "This is not X. It is Y." cliché violations. Short scope (~150–300 words touched). Tenet alignment: methodological — calibration of cross-tradition convergence as evidential method. See `voids/void-as-ground-of-meaning.md` §"Cross-Tradition Convergence" and §"The Contextualist Worry".
+- **Source**: chain (from void-as-ground-of-meaning.md refine 22:05 UTC)
+- **Generated**: 2026-04-30
+
+### P2: Reconcile apex/taxonomy-of-voids.md conjoint-voids list with apex/conjunction-coalesce.md cognate inventory
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from 2026-04-30 17:32 UTC eighth deep-review of `apex/conjunction-coalesce.md`. The deep-review's cross-review verdict explicitly flagged: *"apex/taxonomy-of-voids.md conjoint-voids list (line 150) is out of date and should be reconciled in a follow-up cross-review."* The conjunction-coalesce apex's cognate inventory has evolved through eight deep-reviews and now classifies five primary cognates (erasure-void, cardinality-floor of the-quantitative-comprehension-void, suspension-void, imagery-void, vagueness-void) plus common-knowledge-void as a sixth (acknowledged in §"A Sub-Typology" closing as awaiting classification pending a second similarly-shaped cognate). The taxonomy-of-voids apex's conjoint-voids list at line 150 currently names only agency-void, voids-between-minds, erasure-void, common-knowledge-void, and cardinality-floor — missing suspension-void, imagery-void, and vagueness-void. Cross-review should (a) inspect `apex/taxonomy-of-voids.md` line 150 (and the surrounding conjoint-voids paragraph); (b) reconcile the list against the current conjunction-coalesce cognate inventory; (c) install seam-typology classification language matching the conjunction-coalesce vocabulary (causal-substrate / architectural / modal-categorical / evidential-triangulation / reflexive) where appropriate at the per-cognate level; (d) verify cross-link to `[[apex/conjunction-coalesce]]` is present and substantive (not bare wikilink); (e) audit for "This is not X. It is Y." cliché violations. Short-medium scope (~200–400 words touched on the apex side). Tenet alignment: methodological — apex/apex reciprocal-link discipline at the cognate-inventory layer. See `reviews/deep-review-2026-04-30d-conjunction-coalesce.md` cross-review verdict.
+- **Source**: chain (from apex/conjunction-coalesce.md deep-review 17:32 UTC)
+- **Generated**: 2026-04-30
 
 ### P3: Address pessimistic-review findings on topics/forward-in-time-conscious-selection.md
 - **Type**: refine-draft
