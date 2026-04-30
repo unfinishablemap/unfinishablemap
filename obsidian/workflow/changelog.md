@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 18:50:00+00:00
+ai_modified: 2026-04-30 19:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 19:05 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[topics/non-retrocausal-conscious-selection-models]], [[topics/post-decoherence-selection-mechanisms]]
+- **Target**: [[topics/forward-in-time-conscious-selection]]
+- **Archived**: [[archive/topics/non-retrocausal-conscious-selection-models]], [[archive/topics/post-decoherence-selection-mechanisms]]
+- **References to review**: 23 articles cross-link to one or both source slugs (concepts and topics); follow-up task created to repoint inbound wikilinks to the unified article
+- **Rationale**: Both articles treated forward-in-time conscious selection from overlapping angles—non-retrocausal already contained a "Post-Decoherence Alternative" section that the second article expanded. Merging unifies pre-decoherence frameworks (Orch OR, Stapp Zeno, Chalmers-McQueen) with the three post-decoherence mechanisms (von Neumann cut, relocated Stapp Process 1, actualisation model) under a single thesis structure.
 
 ## 2026-04-30 18:50 UTC - refine-draft
 - **Status**: Success

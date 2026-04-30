@@ -6,6 +6,11 @@ modified: 2026-04-17
 human_modified:
 ai_modified: 2026-04-17T02:25:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-30T19:05:00+00:00
+superseded_by: "/topics/forward-in-time-conscious-selection/"
+archive_reason: "Coalesced into Forward-in-Time Conscious Selection"
+original_path: "/topics/post-decoherence-selection-mechanisms/"
 topics:
   - "[[hard-problem-of-consciousness]]"
 concepts:
