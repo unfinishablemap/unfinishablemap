@@ -4,8 +4,8 @@ description: "Two complementary lenses for analysing AI consciousness: six logic
 created: 2026-03-19
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T02:26:00+00:00
-last_deep_review: 2026-04-30T00:11:00+00:00
+ai_modified: 2026-04-30T09:46:00+00:00
+last_deep_review: 2026-04-30T09:46:00+00:00
 draft: false
 topics:
   - "[[ai-consciousness]]"
