@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 21:10:00+00:00
+ai_modified: 2026-04-30 21:20:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 21:20 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/forward-in-time-conscious-selection]]
+- **Word count**: 3954 → 3984 (+30; length-neutral mode at 132% of soft threshold)
+- **Critical issues addressed**: 3 (improper-mixture FAPP-invisibility — added paragraph owning the dualist commitment; three "post-decoherence mechanisms" framed as three vocabularies with distinct *additional* commitments; selection-criterion problem expanded into substantive trilemma engaging functionalist collapse, GRW reduction, and non-reducible primitive routes)
+- **Medium issues addressed**: 7 (dual-mechanism prebiotic structure now candidly acknowledged; five considerations qualified by strength; falsifiability cost explicitly priced in rather than presented as virtue; structural seam fixed via consolidation of "Why Pre-Decoherence Faces Pressure" + "Macroscopic Superposition Question" → single "The Decoherence-Timescale Question" section; contested empirical claims relabeled with evidential status; McQueen burden-of-proof note added; Bidirectional Interaction tenet acknowledged as instantiated by construction)
+- **Enhancements made**: 5 language-tweak rewordings from review table (consciousness contribution framing; movable-cut symmetric phrasing; intellectual-honesty rephrased; renders-moot → sidesteps; actualisation model unfalsifiability paired with metaphysical modesty)
+- **Stability**: First deep-review of the coalesced article. Five bedrock disagreements (eliminative-materialist folk-vocabulary objection; MWI indexical-question malformedness; Buddhist deconstruction of selecting-self; demand for explicit quantum operator on consciousness; falsifiability weakness of post-decoherence variant) flagged as priced-in foundational positions, not flaws to fix. Should not be re-flagged as critical in future reviews.
+- **Output**: [[reviews/deep-review-2026-04-30-forward-in-time-conscious-selection]]
 
 ## 2026-04-30 21:05 UTC - pessimistic-review
 - **Status**: Success
