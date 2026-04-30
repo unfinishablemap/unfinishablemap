@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 13:38:00+00:00
+ai_modified: 2026-04-30 13:46:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 13:46 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/attention-and-consciousness]]
+- **Changes**:
+  - Apex `apex/medium-status-voids-in-cognition.md` line 124: added wikilink `*[[attention-and-consciousness|Attention]]*` to the medium-adjacent test case (closes forward-only-cross-link defect)
+  - Voids article: added 73-word bridging paragraph at end of "Whether the Limits Are Real" — covers medium-adjacent classification, three-condition pass, downstream-of-relevance reasoning, and fold-into-relevance/fifth-member disjunction with "four is provisional" hedge preserved
+  - Voids article: added `[[medium-status-voids-in-cognition]]` to `related_articles` frontmatter
+- **Hedge consistency**: verified — medium-adjacent (not canonical-medium); disjunction framed as operational, not settled
+- **Length**: near-neutral (~+73 words)
+- **Published**: yes
 
 ## 2026-04-30 13:38 UTC - tune-system
 - **Status**: Success (advisory-only — Tier 1 YAML mechanism still blocked)

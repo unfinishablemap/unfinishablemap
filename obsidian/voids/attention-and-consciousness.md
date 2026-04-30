@@ -4,7 +4,7 @@ description: "Attending generates unattendable territory as a structural necessi
 created: 2026-01-29
 modified: 2026-04-23
 human_modified: null
-ai_modified: 2026-04-27T19:19:00+00:00
+ai_modified: 2026-04-30T13:46:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,6 +19,7 @@ concepts:
 related_articles:
   - "[[voids]]"
   - "[[tenets]]"
+  - "[[medium-status-voids-in-cognition]]"
   - "[[transit-void]]"
   - "[[thoughts-that-slip-away]]"
   - "[[self-opacity]]"
@@ -115,6 +116,8 @@ Third, finite access entails exclusion. Only a consciousness simultaneously gras
 The disorder-based voids may be equally permanent. We cannot determine, from inside an attention disorder, whether consciousness is the same consciousness operating through a degraded interface, or a different form of consciousness that the degraded interface prevents us from recognising as different. The materialist response — identifying consciousness with attention — merely relocates the void rather than dissolving it.
 
 This makes the attention void among the most fundamental in the Map's framework — it concerns not content we cannot access but the *mechanism* by which we access anything.
+
+On the Map's [[medium-status-voids-in-cognition|medium-status voids cluster]], attention is classified *medium-adjacent* rather than canonical. It is operative-while-invisible, mode-fragile under self-inquiry, and known largely through breakdown — passing the cluster's three sub-conditions. The synthesis keeps it non-canonical because attention is largely downstream of relevance and inherits relevance's circularity rather than adding a distinct one. A sharper account would either fold it into the relevance face or admit it as a fifth member. The "four" is provisional.
 
 ## Relation to Site Perspective
 
