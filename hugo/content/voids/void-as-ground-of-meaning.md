@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-24
-ai_modified: 2026-04-28 04:12:00+00:00
+ai_modified: 2026-04-30 22:05:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[dualism]]'
 created: 2026-02-24
-date: &id001 2026-04-28
+date: &id001 2026-04-30
 description: Why cognitive limits are preconditions for meaning, not merely obstacles.
   Human+AI exploration of the constitutive thesis—that a mind with no limits would
   have no significance.
@@ -53,7 +53,7 @@ Meaning operates the same way. A sentence means something because it says *this*
 
 ## Convergence Across Traditions
 
-The constitutive thesis is not the discovery of any single thinker. Multiple independent philosophical traditions arrive at the same insight through radically different routes, and this convergence is itself evidence that something structural is being tracked.
+The constitutive thesis is not the discovery of any single thinker. Multiple independent philosophical traditions arrive at the same insight through radically different routes, and this convergence is itself evidence that something structural is being tracked. If the void-as-ground move were a Map-specific artefact—an idiosyncrasy of how this project frames cognitive limits—we would not expect prior traditions, working under unrelated motivations and methods, to arrive at the same structural claim. That they do is operational evidence that the move tracks a real feature of how meaning works rather than a stylised invention. The contextualist worry [discussed below](#the-contextualist-worry) puts a calibrated brake on how much weight this kind of evidence can bear.
 
 **Heidegger** makes finitude the ground of authentic existence. Being-toward-death is not a morbid preoccupation but the condition under which choice becomes real. An immortal being could defer everything indefinitely—and therefore nothing would be worth doing now. Temporal finitude is both the source of our struggle with meaningfulness and a necessary condition for the subjectivity from which we form meanings at all. The [death-void](/voids/death-void/) is not a bug in human existence but a load-bearing feature.
 
@@ -80,6 +80,24 @@ The convergences above run through analytic, hermeneutic, theological, and poeti
 Buddhist *anātman*—the denial of an enduring self-substance—sits awkwardly with the Map's [Dualism](/tenets/#dualism) and its commitments to indexical identity. The constitutive thesis cannot quietly absorb Madhyamaka without addressing this; the parallel is structural, not a wholesale alliance.
 
 Three points clarify the tension without papering over it. First, Madhyamaka denies *svabhāva* of *all* phenomena—phenomenal and physical alike—so its anti-substantialism is symmetric and does not single out consciousness for elimination. Second, *anātman* is compatible with conventional self-continuity: at the conventional level where the Map's tenets operate, there is a continuous experiencer; what is denied is an ultimate self-substance underlying that continuity. The Map's dualism requires irreducibility rather than Cartesian substance, which leaves room for the conventional/ultimate distinction. Third, the indexical-identity commitment ([No Many Worlds](/tenets/#no-many-worlds)) and any defensible [minimal-self](/concepts/zahavian-minimal-self/) view require *some* phenomenal continuity—this is genuinely harder to reconcile with strict Madhyamaka than the structural parallel might suggest, and Yogācāra (which preserves a stratum of luminous awareness) sits closer to the Map than mainstream Madhyamaka does. The broader Indian terrain sharpens the choice points further: see [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) for Samkhya, Nyaya, and Vedanta on whether consciousness can be passive, adventitious, or self-luminous—three different settlements of the same bearer question, each with different consequences for the Map's commitments. The convergence on the constitutive thesis is real; the convergence on what *bears* the meaning that limit constitutes is not.
+
+### The Contextualist Worry
+
+The convergence argument assumes that the four Eastern entries and the six Western ones are pointing at structurally the same insight. Critics in the comparative philosophy of mysticism and in modern Buddhology deny precisely this assumption, and the worry deserves a direct hearing rather than a reassuring footnote.
+
+Steven Katz's "Language, Epistemology, and Mysticism" (1978) argued that contemplative experiences are not pre-conceptual reports that traditions later interpret. Traditions shape what experiences are available, how they are described, and what they mean. There is no "pure" *śūnyatā*-experience that Madhyamaka, Zen, and Kyoto-School practitioners encounter and then describe in their separate idioms. There are only Madhyamaka experiences, Zen experiences, and Kyoto-School experiences—each constituted by the conceptual framework of the practitioner. Apparent agreement between Heidegger's being-toward-death and Nāgārjuna's emptiness may be a translation artefact rather than evidence of a shared phenomenon.
+
+Robert Sharf's "Buddhist Modernism and the Rhetoric of Meditative Experience" (1995) and subsequent work pressed the case further. The contemporary emphasis on direct meditative experience as the foundation of Buddhism is itself partly a modern, Western-influenced construction. Traditional Buddhist textual sources may not be reporting the kind of phenomenal data that perennialist comparativists assume the texts describe. If even within Buddhism the "lived realisation of *śūnyatā*" is partly a 20th-century scholarly artefact, then a comparative argument that leans on lived realisation as a methodological channel is leaning on shakier ground than the convergence rhetoric suggests.
+
+If contextualism is broadly correct, the convergence argument has to retreat from its strongest version. Three responses preserve a defensible structural claim while conceding genuine ground.
+
+First, the structural argument does not require perennialism. Even if the Madhyamaka commentator and the Heideggerian phenomenologist are *not* having the same experience, they can independently produce the same structural claim: that absence-of-determinate-content is constitutive of meaning rather than a deficit. Convergence on a thesis is a different thing from convergence on a lived experience, and the thesis is what carries the weight here. The claim being tested is about argument-form, not about phenomenal reports.
+
+Second, the framing acknowledged—translation choices ("emptiness" for *śūnyatā*, "nothingness" for *mu*, "void" for both) prime for resonance with Western absence-concepts that may not be the right comparators. The constitutive-thesis reading of these traditions is the *contested* anti-nihilist reading; mainstream scholars endorse it (Garfield, Westerhoff, Heisig), but it is not the only available reading, and the comparative framing the article uses is one mapping among several. This is a reason for confidence in degree rather than confidence in kind.
+
+Third, the contextualist critique cuts both ways. If the meanings of contemplative claims are tradition-bound, that also undermines confident claims that the traditions are *unrelated*—the assertion that the convergence is "merely" an artefact of framing presupposes the same kind of tradition-transcending access to underlying meanings that strong contextualism denies us. The honest position is that the parallel is real at the level of argument-form (where the structural claim can be stated in any of several vocabularies and remain recognisable), less certain at the level of phenomenology (where Katz and Sharf rightly press), and that the convergence-as-evidence move is doing the former, lighter work.
+
+The net effect is calibration, not abandonment. The convergence still counts as operational evidence against the void-as-ground move being a Map-specific artefact. But it counts less than a perennialist reading would suggest, and the article should not lean on the Eastern entries as a confirmatory chorus saying the same thing in different keys—they are independent runs of a structurally similar argument under genuinely different framings.
 
 ## The Omniscience Paradox
 
@@ -175,9 +193,17 @@ The constitutive thesis connects to each of the Map's [tenets](/tenets/):
 13. Heisig, J.W. (2001). *Philosophers of Nothingness: An Essay on the Kyoto School*. University of Hawaii Press.
 14. Dōgen. (13th c.). *Shōbōgenzō*, including *Genjōkōan*.
 15. Laozi. *Daodejing*, chapter 11.
+16. Katz, S.T. (1978). "Language, Epistemology, and Mysticism." In S.T. Katz (ed.), *Mysticism and Philosophical Analysis*, 22–74. Oxford University Press. (Foundational statement of contextualism in mystical-experience studies.)
+17. Sharf, R.H. (1995). "Buddhist Modernism and the Rhetoric of Meditative Experience." *Numen* 42(3): 228–283.
 
-<!-- AI REFINEMENT LOG - 2026-04-28
-Changes made (2026-04-28 04:12 UTC, completing the 2026-04-26 integration):
+<!-- AI REFINEMENT LOG - 2026-04-30
+Changes made (2026-04-30 22:05 UTC, contextualist-limitation pass):
+- Sharpened the convergence section opener with explicit "operational evidence" framing — convergence as evidence the void-as-ground move tracks a real feature of meaning rather than a Map-specific artefact, with a forward link to the new contextualist-worry subsection that calibrates how much weight this evidence can bear
+- Added §"The Contextualist Worry" subsection (within Convergence Across Traditions, after Anātman Tension): directly engages Katz (1978) and Sharf (1995) on tradition-mediated experience and Buddhist modernism's role in constructing the "lived realisation" trope. Three-point response preserves the structural claim (argument-form convergence) while conceding the phenomenological-convergence claim has to retreat — calibration, not abandonment
+- Added Katz and Sharf primary citations (refs 16–17)
+- Honest limitation: the article previously asserted cross-tradition convergence without engaging the standard contextualist objection from comparative mysticism; this pass closes that gap
+
+Earlier changes (2026-04-28 04:12 UTC, completing the 2026-04-26 integration):
 - Added [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) to related_articles and Further Reading; the prior pass cross-linked to buddhist-perspectives-on-meaning and eastern-philosophy-consciousness but missed the third article specified by the task
 - Added one inline reference to [indian-philosophy-of-mind](/topics/indian-philosophy-of-mind/) in §"The Anātman Tension," anchored to the bearer-of-meaning question that the *Samkhya / Nyaya / Vedanta* three-way disagreement directly engages
 - Added reciprocal back-links from buddhist-perspectives-on-meaning, eastern-philosophy-consciousness, and indian-philosophy-of-mind to this article (none had previously linked back)

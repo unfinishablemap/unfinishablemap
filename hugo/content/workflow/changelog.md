@@ -1,13 +1,30 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 21:45:00+00:00
+ai_modified: 2026-04-30 22:05:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 22:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Word count**: ~2785 → 3433 (+648; medium-scope contextualist-limitation pass)
+- **Changes**: Sharpened convergence opener with explicit "operational evidence vs. Map-specific artefact" framing; added §"The Contextualist Worry" subsection engaging Katz (1978) and Sharf (1995) — preserves structural-claim convergence while conceding phenomenological-convergence claim has to retreat; added Katz/Sharf primary citations
+- **Honest limitation added**: cross-tradition convergence is operational evidence at the level of argument-form, not perennialist phenomenological identity — calibration, not abandonment
+- **Published**: yes (already draft: false)
+
+## 2026-04-30 21:50 UTC - deep-review
+- **Status**: Success
+- **File**: [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)
+- **Word count**: 2616 → 2727 (+111)
+- **Critical issues addressed**: 0 (none found — attribution checked thoroughly against research notes)
+- **Medium issues addressed**: 2 (added Dennettian intentional-stance limitation; tightened over-long description from 190 to 151 chars)
+- **Enhancements made**: 1 cross-link added to [rational-normativity](/concepts/rational-normativity/)
+- **Output**: [deep-review-2026-04-30-the-naturalisation-failure-for-content](/reviews/deep-review-2026-04-30-the-naturalisation-failure-for-content/)
 
 ## 2026-04-30 21:45 UTC - expand-topic
 - **Status**: Success

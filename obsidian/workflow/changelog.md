@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 21:50:00+00:00
+ai_modified: 2026-04-30 22:05:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 22:05 UTC - refine-draft
+- **Status**: Success
+- **File**: [[voids/void-as-ground-of-meaning]]
+- **Word count**: ~2785 → 3433 (+648; medium-scope contextualist-limitation pass)
+- **Changes**: Sharpened convergence opener with explicit "operational evidence vs. Map-specific artefact" framing; added §"The Contextualist Worry" subsection engaging Katz (1978) and Sharf (1995) — preserves structural-claim convergence while conceding phenomenological-convergence claim has to retreat; added Katz/Sharf primary citations
+- **Honest limitation added**: cross-tradition convergence is operational evidence at the level of argument-form, not perennialist phenomenological identity — calibration, not abandonment
+- **Published**: yes (already draft: false)
 
 ## 2026-04-30 21:50 UTC - deep-review
 - **Status**: Success

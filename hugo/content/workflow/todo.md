@@ -38,20 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topic article on consciousness and the extreme metabolic constraint
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-extreme-metabolic-constraint-2026-04-05.md (never synthesised). The metabolic-constraint argument: brains cost ~20% of basal metabolism for ~2% of body mass, and this exorbitant cost has been preserved across evolutionary lineages where consciousness is plausibly present — suggesting consciousness *does work* (i.e., is non-epiphenomenal) rather than being a free-rider on metabolism the organism would have selected for anyway. Argument has two prongs: (a) the cost-as-evidence prong (selection pressure against expensive traits implies the trait pays its way), (b) the lineage-comparative prong (cross-species metabolic profiles correlated with putative consciousness markers). Article should (a) lay out the argument cleanly, (b) engage objections (epiphenomenalist response that consciousness piggybacks on cognitive operations that themselves do the work; comparative-neuroscience worries about conscious-marker validity), (c) connect to existing site treatment of the epiphenomenalist threat, the bidirectional-interaction tenet, and `topics/consciousness-and-causal-powers.md`, (d) honest limitation: metabolic-cost arguments are correlational; selection pressure for cognitive operations could explain the cost without requiring phenomenal consciousness specifically. Target: topics/ (229/250). Scope: 2,000–2,600 words. Tenet alignment: Bidirectional Interaction (consciousness pays its way), Dualism (metabolic argument supports the asymmetry), Occam's Razor Has Limits (the apparent parsimony of epiphenomenalism is undermined by selection pressure).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-30
-
-### P2: Refine voids/void-as-ground-of-meaning.md to integrate Buddhist/Eastern parallels research
-- **Type**: refine-draft
-- **Status**: pending
-- **Notes**: Research completed in research/buddhist-eastern-parallels-void-as-ground-of-meaning-2026-04-25.md (never integrated). The research surveys Madhyamaka śūnyatā, Daoist wú/xū, Zen mu, and Kyoto School (Nishida, Nishitani) absolute nothingness as parallels to the void-as-ground-of-meaning thesis — each tradition independently arrives at the structural claim that the absence-of-determinate-content is constitutive of meaning rather than a deficit. The existing `voids/void-as-ground-of-meaning.md` makes the structural argument but does not draw on the cross-tradition convergence available in the research note. Refine should (a) install a §"Cross-Tradition Convergence" section drawing on the four traditions catalogued in the research, (b) preserve the article's existing analytic spine while adding the convergence as evidential support (multiple traditions independently arrive at the same structural claim — operational evidence that the void-as-ground move is tracking something real, not a Map-specific artefact), (c) honest limitation: Katz/Sharf contextualist worries about cross-tradition convergence claims should be acknowledged — convergence may be partly an artefact of how the comparison is framed; (d) update related_articles frontmatter and add reciprocal cross-links to relevant Eastern-philosophy articles if they exist (e.g., `topics/eastern-philosophy-and-consciousness` if present). Medium scope (~600–900 words added). Tenet alignment: methodological (cross-tradition convergence as evidence), Occam's Razor Has Limits.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-30
-
 ### P2: Cross-review interactionist-dualism.md and related dualism articles considering four-quadrant-dualism-taxonomy insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3224,6 +3210,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Refine voids/void-as-ground-of-meaning.md to integrate Buddhist/Eastern parallels research
+- **Type**: refine-draft
+- **Notes**: Cross-tradition convergence content (Madhyamaka, Nishitani/Kyoto, Daoist *wu*, Zen *mu*) was already integrated in the 2026-04-26 and 2026-04-28 passes. This pass closed the remaining gap: (a) sharpened convergence opener with explicit "operational evidence vs. Map-specific artefact" framing; (b) added §"The Contextualist Worry" subsection engaging Katz (1978) on tradition-mediated experience and Sharf (1995) on Buddhist modernism's role in constructing the lived-realisation trope; (c) three-point response preserves structural-claim convergence (argument-form) while conceding phenomenological-convergence claim has to retreat — calibration, not abandonment; (d) added Katz/Sharf primary citations (refs 16–17). Net addition: ~648 words. Tenet alignment: methodological (cross-tradition convergence as evidence) and Occam's Razor Has Limits.
+- **Output**: obsidian/voids/void-as-ground-of-meaning.md
+
+### ✓ 2026-04-30: Write topic article on Hutto & Myin's hard problem of content
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hutto-myin-hard-problem-of-content-2026-04-27.md (3,868 words; never synthesised). Hutto & Myin's "hard problem of content" argues that no naturalistic account of intentionality grounds genuine semantic content — Radical Enactivism gets by without representational content (REC), and content-based theories cannot bridge the gap from covariation/teleofunction to truth-conditional content. Distinct from the Map's existing intentionality treatment because it isolates the *content question* as a separate hard problem orthogonal to the phenomenal-consciousness one — and because it sits naturally alongside `topics/consciousness-and-the-normativity-of-reason.md` (today's expand-topic) which makes the related normativity-of-content move. Article should (a) lay out Hutto & Myin's argument structure (the natural-origins/teleo/covariation triad and their failure mode), (b) connect to existing `concepts/intentionality.md`, `concepts/representational-theories-of-mind.md`, and `topics/consciousness-and-meaning-content.md` if extant, (c) frame the dialectical position the Map takes — content as constitutively conscious-mediated rather than naturalistically reducible, parallel to the normativity-of-reason move, (d) honest limitation: Radical Enactivism remains live as a non-content alternative; the Map's argument should not assume content is the only candidate explanans. Target: topics/ (229/250 — 21 slots remaining; has capacity). Scope: 2,000–2,800 words. Tenet alignment: Dualism (content's irreducibility to natural-origins facts), Bidirectional Interaction (content shaping behaviour), Occam's Razor Has Limits (parsimony at the wrong level dissolves the explanandum).
+- **Output**: Write topic article on Hutto & Myin's hard problem of content
 
 ### ✓ 2026-04-30: Write topic article on Hutto & Myin's hard problem of content
 - **Type**: expand-topic
