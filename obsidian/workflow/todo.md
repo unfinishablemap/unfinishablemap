@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Add reciprocal cross-link between voids/noetic-feelings-void.md and voids/the-quantitative-comprehension-void.md§"A Shared Signature, Multiple Faces"
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-30 cross-linking table. The "output without operation" diagnostic is now anchored in voids/the-quantitative-comprehension-void.md §"A Shared Signature, Multiple Faces" with explicit contrast cases (effortful counting beyond four, long-division assembly — both *with* phenomenally-available intermediate steps, both excluded from void scope). voids/noetic-feelings-void.md re-derives the same diagnostic; it should reference the QCV anchor as the canonical home rather than re-deriving. Cross-review should (a) add a wikilink in noetic-feelings-void's relevant section pointing to `[[the-quantitative-comprehension-void#a-shared-signature-multiple-faces]]` with a substantive bridging sentence (the diagnostic is now anchored in QCV's contrastive form; noetic-feelings is one instance of the family); (b) add a reciprocal back-link in QCV's §"A Shared Signature" pointing to noetic-feelings-void as a *non-quantitative* instance of the same diagnostic; (c) verify both articles' `related_articles` frontmatter includes the other; (d) preserve each article's voice — the cross-link is an integration move, not a rewrite. Short scope (~80–150 words touched across both articles). Tenet alignment: methodological — the shared diagnostic is the structural backbone of the phenomenal-output-without-felt-operation cluster.
-- **Source**: optimistic-review (chain from optimistic-2026-04-30 cross-linking table)
-- **Generated**: 2026-04-30
-
 ### P2: Add cross-link from topics/consciousness-and-the-problem-of-measurement-standards.md to voids/the-quantitative-comprehension-void.md#the-introspective-ceiling
 - **Type**: cross-review
 - **Status**: pending
@@ -3189,6 +3182,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Add reciprocal cross-link between voids/noetic-feelings-void.md and voids/the-quantitative-comprehension-void.md§"A Shared Signature, Multiple Faces"
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-30 cross-linking table. The "output without operation" diagnostic is now anchored in voids/the-quantitative-comprehension-void.md §"A Shared Signature, Multiple Faces" with explicit contrast cases (effortful counting beyond four, long-division assembly — both *with* phenomenally-available intermediate steps, both excluded from void scope). voids/noetic-feelings-void.md re-derives the same diagnostic; it should reference the QCV anchor as the canonical home rather than re-deriving. Cross-review should (a) add a wikilink in noetic-feelings-void's relevant section pointing to `[[the-quantitative-comprehension-void#a-shared-signature-multiple-faces]]` with a substantive bridging sentence (the diagnostic is now anchored in QCV's contrastive form; noetic-feelings is one instance of the family); (b) add a reciprocal back-link in QCV's §"A Shared Signature" pointing to noetic-feelings-void as a *non-quantitative* instance of the same diagnostic; (c) verify both articles' `related_articles` frontmatter includes the other; (d) preserve each article's voice — the cross-link is an integration move, not a rewrite. Short scope (~80–150 words touched across both articles). Tenet alignment: methodological — the shared diagnostic is the structural backbone of the phenomenal-output-without-felt-operation cluster.
+- **Output**: obsidian/voids/noetic-feelings-void.md -- Context: Add reciprocal cross-link between voids/noetic-feelings-void.md and voids/the-quantitative-comprehension-void.md§"A Shared Signature, Multiple Faces"
 
 ### ✓ 2026-04-30: Deep review the-quantitative-comprehension-void.md (second pass after coalesce + condense + pessimistic refine cycle)
 - **Type**: deep-review
