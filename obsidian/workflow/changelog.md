@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 19:39:00+00:00
+ai_modified: 2026-04-30 19:50:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 19:50 UTC - expand-topic
+- **Status**: Skipped (already-exists)
+- **Topic**: consciousness and the normativity of reason
+- **Existing article**: [[topics/consciousness-and-the-normativity-of-reason]] — created 2026-04-07, deep-reviewed 2026-04-16
+- **Reason**: Task was generated 2026-04-30 by replenisher under `unconsumed_research` source, but the matching research note (`research/consciousness-normativity-of-reason-2026-04-07.md`) had already been consumed into the topics/ article on the same day it was produced. The replenisher's "no corresponding article" check appears to have missed the existing file. The slug-availability check (`check_slug.py`) only catches cross-section collisions, so it returned OK on `topics` even though the file is already at `obsidian/topics/consciousness-and-the-normativity-of-reason.md`.
+- **Action**: Marked todo task complete pointing to the existing article. No new content created. No git commit. Recommend adjusting `replenish-queue` consumed-research detection (or `check_slug.py` to also flag same-section collisions) to prevent repeat duplicate generation.
 
 ## 2026-04-30 19:39 UTC - condense
 - **Status**: Success

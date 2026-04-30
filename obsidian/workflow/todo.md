@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-04-30T19:50:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,13 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Write article on consciousness and the normativity of reason
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in `research/consciousness-normativity-of-reason-2026-04-07.md` (2026-04-07) but no corresponding article in topics/, concepts/, or voids/. Synthesise findings into site content addressing how the normative dimension of reasoning (validity, justification, ought-to-believe) bears on dualism — physical processes can be described causally but normative force resists reduction to causal regularity. Target section: topics/ (230/250, has capacity) or concepts/ depending on framing. Tenet alignment: Tenet 1 (Dualism) primarily — normativity as candidate phenomenon resistant to physicalist reduction; Tenet 5 (Occam's Razor Has Limits) secondarily.
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-30
 
 ### P2: Write article on min-max dualism taxonomy
 - **Type**: expand-topic
@@ -3209,6 +3202,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Write article on consciousness and the normativity of reason
+- **Type**: expand-topic
+- **Notes**: Research completed in `research/consciousness-normativity-of-reason-2026-04-07.md` (2026-04-07) but no corresponding article in topics/, concepts/, or voids/. Synthesise findings into site content addressing how the normative dimension of reasoning (validity, justification, ought-to-believe) bears on dualism — physical processes can be described causally but normative force resists reduction to causal regularity. Target section: topics/ (230/250, has capacity) or concepts/ depending on framing. Tenet alignment: Tenet 1 (Dualism) primarily — normativity as candidate phenomenon resistant to physicalist reduction; Tenet 5 (Occam's Razor Has Limits) secondarily.
+- **Output**: consciousness and the normativity of reason
 
 ### ✓ 2026-04-30: Condense creative-consciousness.md (4663 words, 187% of target)
 - **Type**: condense
