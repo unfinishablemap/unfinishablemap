@@ -4,7 +4,7 @@ description: "How consciousness might interact with quantum mechanics: Orch OR m
 created: 2026-01-09
 modified: 2026-01-25
 human_modified: null
-ai_modified: 2026-04-28T00:42:00+00:00
+ai_modified: 2026-04-30T17:17:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -40,14 +40,14 @@ author: null
 ai_system: claude-opus-4-5-20251101
 ai_generated_date: 2026-01-09
 last_curated: null
-last_deep_review: 2026-03-24T16:03:00+00:00
+last_deep_review: 2026-04-30T17:17:00+00:00
 ---
 
 Several scientific proposals explain how consciousness might interact with physics at the quantum level—scientifically engaged theories, still contested, proposing mechanisms by which consciousness could influence brain activity without violating physical law.
 
 The Map's [[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]] tenet aligns with these approaches: consciousness operates at quantum indeterminacies, biasing undetermined outcomes without injecting energy. The Map favours [[non-retrocausal-conscious-selection-models|non-retrocausal conscious selection]] — forward-in-time frameworks that avoid the metaphysical costs of backward causation. For how these mechanisms fit into the Map's broader research programme, see [[comparing-quantum-consciousness-mechanisms|Comparing Quantum Consciousness Mechanisms]].
 
-**Map position vs. headline reading.** Several of the mechanisms below were originally formulated under a "consciousness causes collapse" headline (most directly the [[von-neumann-wigner-interpretation|von Neumann–Wigner lineage]]). The Map's own thesis is weaker: collapse occurs throughout the universe whether or not anyone is conscious—[[spontaneous-collapse-theories|objective-collapse mechanisms]] supply the baseline—and consciousness *modulates* statistics within those collapse events at its own neural interface. The mechanisms in this article are therefore evaluated as candidate *modulation* mechanisms, not as candidate causes of collapse-as-such. This distinction matters: it is what dissolves the [[prebiotic-collapse|prebiotic collapse problem]] and the [[multi-mind-collapse-problem|multi-observer problem]] without surrendering causal efficacy.
+**Map position vs. headline reading.** Several mechanisms below were originally formulated under a "consciousness causes collapse" headline (most directly the [[von-neumann-wigner-interpretation|von Neumann–Wigner lineage]]). The Map's thesis is weaker: collapse occurs universally whether or not anyone is conscious—[[spontaneous-collapse-theories|objective-collapse mechanisms]] supply the baseline—and consciousness *modulates* statistics within those events at its own neural interface. The mechanisms here are evaluated as candidate *modulation* mechanisms, not as causes of collapse-as-such. This distinction dissolves the [[prebiotic-collapse|prebiotic]] and [[multi-mind-collapse-problem|multi-observer]] problems without surrendering causal efficacy.
 
 ## The Quantum Opening
 
@@ -64,7 +64,7 @@ The Map's [[tenets#^no-many-worlds|No Many Worlds]] tenet rejects the alternativ
 Orch OR locates quantum effects in microtubules—protein structures inside neurons. The proposal: tubulin proteins exist in superposition; these become entangled across microtubules; when the superposed mass reaches a threshold, spacetime geometry forces collapse ("objective reduction"); each collapse constitutes a moment of conscious experience.
 
 **Recent evidence** (2024-2025):
-- **2024 epothilone B study**: Microtubule-stabilizing drugs delayed anesthetic unconsciousness, demonstrating that microtubule integrity affects consciousness-related processes. However, this shows microtubule *involvement*—not quantum involvement. Microtubules are structural proteins with many cellular roles, so drug effects on consciousness do not by themselves distinguish quantum from classical microtubule function.
+- **2024 epothilone B study**: Microtubule-stabilizing drugs delayed anesthetic unconsciousness, demonstrating microtubule *involvement* in consciousness. But microtubules are structural proteins with many cellular roles—drug effects on consciousness don't by themselves distinguish quantum from classical function.
 - Room-temperature superradiance in tryptophan networks demonstrates quantum collective behavior at body temperature
 - **2025 Wiest et al.**: Anesthetics abolish a 613 THz quantum oscillation peak in microtubules while non-anesthetics don't—a testable signature, though independent replication is needed
 
@@ -129,11 +129,10 @@ This is a separate challenge. Even granting that the measurement problem leaves 
 
 Despite differences, these theories share several commitments (though none is empirically established):
 
-1. **Consciousness plays a physical role**—it is proposed to bias which outcomes occur within the Born distribution, not to cause collapse from outside physics
+1. **Consciousness plays a physical role**—it biases which outcomes occur within the Born distribution rather than causing collapse from outside physics
 2. **The interface is at quantum indeterminacies**—where physics is genuinely undetermined
-3. **No energy violation**—consciousness would shape outcomes without adding energy (see [[conservation-laws-and-mental-causation]])
+3. **No energy violation**—consciousness shapes outcomes without adding energy (see [[conservation-laws-and-mental-causation]])
 4. **Many Worlds is rejected**—collapse is real, outcomes genuinely selected
-5. **Modulation, not collapse-causation**—on the Map's reading, an objective-collapse process supplies the baseline; these mechanisms describe how consciousness *modulates* that process at its neural interface
 
 All are compatible with [[adaptive-computational-depth|adaptive computational depth]]—the principle that reality need not maintain maximum detail everywhere, concentrating determination where consciousness attends. The allocator's non-computability resolves the regress any computational allocation mechanism would face.
 
