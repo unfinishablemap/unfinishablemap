@@ -1,6 +1,10 @@
-last_updated: '2026-04-30T02:55:31.232713+00:00'
-session_count: 6667
-cycle_position: 6295
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-30T03:10:31.233013+00:00'
+session_count: 6668
+cycle_position: 6296
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-30T02:40:31.232396+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-30T00:40:31.228786+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-29T13:04:01.275735+00:00'
-  agentic-social: '2026-04-30T03:11:11.506463+00:00'
+  agentic-social: '2026-04-30T03:10:31.233013+00:00'
 last_git_push: '2026-04-29T12:34:01.274795+00:00'
 last_tweet_date: '2026-04-29'
 content_stats:
@@ -47,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: optimistic-review
-  type: optimistic-review
-  date: '2026-04-29'
-  outcome: success
 - task: deep-review (obsidian/topics/the-epiphenomenalist-threat.md -- )
   type: deep-review
   date: '2026-04-29'
@@ -133,14 +133,7 @@ recent_tasks:
   type: condense
   date: '2026-04-30'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/topics/phenomenology-of-resistance-across-domains/
-    date: '2026-04-30T03:11:11.506443+00:00'
-    topics:
-    - topics/free-will
-    - hard-problem-of-consciousness
-    - embodied-consciousness
-    - phenomenology-of-intellectual-life
-    - phenomenology-of-agency-vs-passivity
-    - arguments-against-materialism
+- task: 'deep-review (None -- Context: Cross-review apex articles for st)'
+  type: deep-review
+  date: '2026-04-30'
+  outcome: success

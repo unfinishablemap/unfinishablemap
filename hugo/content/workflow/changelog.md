@@ -1,13 +1,26 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 02:55:00+00:00
+ai_modified: 2026-04-30 03:11:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 03:11 UTC - deep-review (cross-review, directed retarget)
+- **Status**: Success
+- **Files**: [taxonomy-of-voids](/apex/taxonomy-of-voids/), [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/), [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Trigger**: P2 directed retarget — fix stale wikilinks to numerosity-void / quantitative-intuition-void / mathematical-void slugs after their 2026-04-30 00:40 UTC coalesce into [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
+- **Word count**: taxonomy-of-voids 4708 → 4717 (+9); medium-status 3219 → 3219 (0); conjunction-coalesce 3949 → 3979 (+30)
+- **Critical issues addressed**: 6 (stale wikilinks: 3 in taxonomy-of-voids frontmatter+body; 1 in medium-status retargeting "incompleteness phenomena" to [formal-cognitive-limits](/voids/formal-cognitive-limits/) as the analytically-correct home; 6 in conjunction-coalesce frontmatter+body+source-articles)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (conjunction-coalesce — added one sentence at line 81 noting the cardinality-floor cognate's seam structure persisted through further coalescing into the-quantitative-comprehension-void, as a methodological observation about the discipline's robustness; +30 words)
+- **Substantive revision in conjunction-coalesce.md**: "second cognate" exposition retargeted from numerosity-void to the cardinality floor face of the-quantitative-comprehension-void; "the conjunction is what the article is *for*" → "the conjunction is what the section is *for*" (cognate is now a section, not a standalone article); "there is nothing to merge" reframed to "neither was a merger of prior articles at the cognate's birth" (locating the claim at the cognate's birth event rather than as a present-tense claim contradicted by the further coalesce)
+- **Wikilink targets**: numerosity-void → the-quantitative-comprehension-void#the-cardinality-floor (where face structure persists); mathematical-void → formal-cognitive-limits (for "incompleteness phenomena" specifically) or the-quantitative-comprehension-void#the-abstract-mathematical-ceiling (for phenomenal grasp of math)
+- **Method note**: directed retarget pass, not a full six-persona pessimistic + six-persona optimistic deep-review; all three articles were deep-reviewed within the past 30 hours so re-review would be redundant. last_deep_review timestamps bumped to record retarget event for staleness tracking.
+- **Output**: [deep-review-2026-04-30-apex-stale-wikilinks-cross-review](/reviews/deep-review-2026-04-30-apex-stale-wikilinks-cross-review/)
 
 ## 2026-04-30 02:55 UTC - condense
 - **Status**: Success
