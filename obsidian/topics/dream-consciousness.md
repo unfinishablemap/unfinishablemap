@@ -4,7 +4,7 @@ description: "Dreams provide the most accessible everyday evidence for the filte
 created: 2026-01-21
 modified: 2026-02-23
 human_modified: null
-ai_modified: 2026-04-23T17:50:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[interactionist-dualism]]"
   - "[[illusionism]]"
   - "[[conscious-vs-unconscious-processing]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[mind-brain-separation]]"
   - "[[predictive-processing]]"
   - "[[default-mode-network]]"

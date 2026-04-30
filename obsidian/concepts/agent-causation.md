@@ -4,7 +4,7 @@ description: "Agent causation holds that persons originate actions directly as s
 created: 2026-01-15
 modified: 2026-02-28
 human_modified: null
-ai_modified: 2026-04-27T15:30:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -18,7 +18,7 @@ concepts:
   - "[[attention-as-interface]]"
   - "[[luck-objection]]"
   - "[[motor-selection]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[quantum-indeterminacy-free-will]]"
   - "[[concepts/many-worlds]]"
@@ -133,7 +133,7 @@ The Libet challenge has weakened substantially. Schurger reinterprets the readin
 
 ## Creative Generation: Beyond Pure Selection
 
-Agent causation traditionally focuses on selection, but [[consciousness-and-creativity|recent work]] reveals agents also *generate* options through imaginative exploration. This strengthens agent causation against the critic: if agents generate the options through imagination, the agent explains the outcome because they constituted the very options available.
+Agent causation traditionally focuses on selection, but [[creative-consciousness|recent work]] reveals agents also *generate* options through imaginative exploration. This strengthens agent causation against the critic: if agents generate the options through imagination, the agent explains the outcome because they constituted the very options available.
 
 Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood. Bergson's [[temporal-consciousness]] develops this through memory's integration with the present. Whitehead's [[process-philosophy|process philosophy]] offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally. The [[process-and-consciousness|Process and Consciousness]] apex develops this in depth.
 

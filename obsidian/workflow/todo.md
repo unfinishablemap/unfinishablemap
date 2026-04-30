@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30T15:47:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,12 +36,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
-
-### P2: Update inline references to coalesced articles (consciousness-and-creativity, phenomenology-of-creative-insight)
-- **Type**: cross-review
-- **Notes**: Coalesce on 2026-04-30 17:54 UTC merged `concepts/consciousness-and-creativity.md` and `concepts/phenomenology-of-creative-insight.md` into new `concepts/creative-consciousness.md`. Archive redirects (superseded_by) handle wikilink resolution transparently, but ~59 obsidian files contain inline references to the archived slugs. Most references are in review files (which are historical and should not be edited). Cross-review should focus on active content in concepts/, topics/, voids/ that references the archived slugs. Specifically: (a) check whether each inline reference is best served by retargeting to `[[creative-consciousness]]` or by leaving the redirect to handle resolution; (b) if context-specific anchor links (e.g., `[[consciousness-and-creativity#Section]]`) exist in the active content, verify the corresponding section exists in the new article and update the anchor; (c) batch updates by file in priority order: concepts/ first (highest visibility), then topics/, then voids/. Active content files with references: `voids/noetic-feelings-void.md`, `voids/creative-aesthetic-void.md`, `concepts/phenomenology-of-choice-and-volition.md`, `concepts/cognitive-phenomenology.md`, `concepts/agent-causation.md`, `concepts/attention-as-interface.md`, `concepts/spontaneous-intentional-action.md`, `concepts/epistemic-emotions.md`, `concepts/consciousness-selecting-neural-patterns.md`, `concepts/counterfactual-reasoning.md`, `concepts/categorical-surprise.md`, `concepts/subjective-aim.md`, `concepts/philosophy-of-science-under-dualism.md`, `topics/consciousness-and-mathematics.md`, `topics/comparative-phenomenology-of-mathematical-insight.md`, `topics/phenomenology-of-conceptual-frameworks.md`, `topics/consciousness-and-skill-acquisition.md`, `topics/methodology-of-consciousness-research.md`, `topics/dream-consciousness.md`, `topics/aesthetics-and-consciousness.md`, `topics/incubation-effect-and-unconscious-processing.md`, `topics/surprise-prediction-error-and-consciousness.md`, `topics/consciousness-and-cognitive-distinctiveness.md`, `topics/ethics-of-cognitive-enhancement-under-dualism.md`, `topics/bergson-and-duration.md`, `topics/consciousness-and-the-ontology-of-temporal-becoming.md`, `topics/consciousness-as-activity.md`. Audit each touched file for "This is not X. It is Y." cliché violations. Tenet alignment: methodological — keeping inline references current after coalesce.
-- **Source**: coalesce
-- **Generated**: 2026-04-30
 
 ### P2: Propagate seam-typology classifications from apex/conjunction-coalesce.md to the three forward-pointed cognates
 - **Type**: cross-review
@@ -3225,6 +3219,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Update inline references to coalesced articles (consciousness-and-creativity, phenomenology-of-creative-insight)
+- **Type**: cross-review
+- **Notes**: Coalesce on 2026-04-30 17:54 UTC merged `concepts/consciousness-and-creativity.md` and `concepts/phenomenology-of-creative-insight.md` into new `concepts/creative-consciousness.md`. Archive redirects (superseded_by) handle wikilink resolution transparently, but ~59 obsidian files contain inline references to the archived slugs. Most references are in review files (which are historical and should not be edited). Cross-review should focus on active content in concepts/, topics/, voids/ that references the archived slugs. Specifically: (a) check whether each inline reference is best served by retargeting to `[[creative-consciousness]]` or by leaving the redirect to handle resolution; (b) if context-specific anchor links (e.g., `[[consciousness-and-creativity#Section]]`) exist in the active content, verify the corresponding section exists in the new article and update the anchor; (c) batch updates by file in priority order: concepts/ first (highest visibility), then topics/, then voids/. Active content files with references: `voids/noetic-feelings-void.md`, `voids/creative-aesthetic-void.md`, `concepts/phenomenology-of-choice-and-volition.md`, `concepts/cognitive-phenomenology.md`, `concepts/agent-causation.md`, `concepts/attention-as-interface.md`, `concepts/spontaneous-intentional-action.md`, `concepts/epistemic-emotions.md`, `concepts/consciousness-selecting-neural-patterns.md`, `concepts/counterfactual-reasoning.md`, `concepts/categorical-surprise.md`, `concepts/subjective-aim.md`, `concepts/philosophy-of-science-under-dualism.md`, `topics/consciousness-and-mathematics.md`, `topics/comparative-phenomenology-of-mathematical-insight.md`, `topics/phenomenology-of-conceptual-frameworks.md`, `topics/consciousness-and-skill-acquisition.md`, `topics/methodology-of-consciousness-research.md`, `topics/dream-consciousness.md`, `topics/aesthetics-and-consciousness.md`, `topics/incubation-effect-and-unconscious-processing.md`, `topics/surprise-prediction-error-and-consciousness.md`, `topics/consciousness-and-cognitive-distinctiveness.md`, `topics/ethics-of-cognitive-enhancement-under-dualism.md`, `topics/bergson-and-duration.md`, `topics/consciousness-and-the-ontology-of-temporal-becoming.md`, `topics/consciousness-as-activity.md`. Audit each touched file for "This is not X. It is Y." cliché violations. Tenet alignment: methodological — keeping inline references current after coalesce.
+- **Output**: None -- Context: Update inline references to coalesced articles (consciousness-and-creativity, phenomenology-of-creative-insight)
 
 ### ✓ 2026-04-30: Cross-review the five cognate articles against the new sub-typology in apex/conjunction-coalesce.md
 - **Type**: cross-review

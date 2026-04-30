@@ -4,7 +4,7 @@ description: "Curiosity, doubt, certainty, insight: feelings directed at knowled
 created: 2026-01-21
 modified: 2026-01-21
 human_modified: null
-ai_modified: 2026-04-18T07:49:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -72,7 +72,7 @@ Educationally, confusion is double-edged: it signals that learning is occurring,
 
 Surprise is the epistemic emotion of prediction error. It arrives suddenly, with intensity proportional to expectation, and captures attention toward the unexpected. The relationship to [[self-opacity|error recognition]] is illuminating: since we cannot detect current errors directly, surprise provides indirect detection—when a confident prediction fails, surprise signals that some belief was wrong.
 
-Predictive processing frameworks interpret surprise as the phenomenal correlate of prediction error. The [[phenomenology-of-creative-insight|phenomenology of creative insight]] reveals a specific epistemic emotion associated with anomalous data — what that article calls *theoretical vertigo* — where the entire interpretive framework destabilises rather than a single prediction failing. But this functional account leaves the phenomenal character unexplained. Why should prediction error *feel* like anything? The irreducibility of surprise's phenomenology supports the view that consciousness is not merely computational.
+Predictive processing frameworks interpret surprise as the phenomenal correlate of prediction error. The [[creative-consciousness#The Phenomenology of Creative Insight|phenomenology of creative insight]] reveals a specific epistemic emotion associated with anomalous data — what that article calls *theoretical vertigo* — where the entire interpretive framework destabilises rather than a single prediction failing. But this functional account leaves the phenomenal character unexplained. Why should prediction error *feel* like anything? The irreducibility of surprise's phenomenology supports the view that consciousness is not merely computational.
 
 ### Insight: The Aha Moment
 
@@ -180,7 +180,7 @@ None of these conditions currently obtains.
 - [[philosophical-zombies]] — Why functional duplicates without experience pose problems
 - [[attention-as-interface|attention]] — How epistemic emotions direct cognitive resources
 - [[witness-consciousness]] — Observing epistemic emotions without identification
-- [[phenomenology-of-creative-insight]] — Epistemic emotions in scientific anomaly recognition and theory choice
+- [[creative-consciousness]] — Epistemic emotions in scientific anomaly recognition and theory choice
 
 ## References
 

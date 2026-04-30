@@ -4,7 +4,7 @@ description: "Mathematical insight feels like something—but does it feel the s
 created: 2026-04-14
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[phenomenology]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
-  - "[[phenomenology-of-creative-insight]]"
+  - "[[creative-consciousness]]"
   - "[[qualia]]"
   - "[[explanatory-gap]]"
   - "[[introspection]]"
@@ -125,7 +125,7 @@ The Map's fifth tenet—that Occam's razor has limits—is illustrated by the in
 - [[consciousness-and-the-philosophy-of-mathematics]]
 - [[concession-convergence-philosophy-of-mathematics]] — The theoretical complement: how foundational programmes converge on conceding irreducibility
 - [[aesthetics-and-consciousness]]
-- [[phenomenology-of-creative-insight]]
+- [[creative-consciousness]]
 - [[cognitive-phenomenology]]
 - [[the-quantitative-comprehension-void#the-abstract-mathematical-ceiling|The Quantitative Comprehension Void — abstract mathematical ceiling]]
 - [[phenomenology-of-cognitive-capacity]]

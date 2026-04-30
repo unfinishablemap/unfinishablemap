@@ -4,7 +4,7 @@ description: "Actions that are genuinely intentional yet arise without prior del
 created: 2026-02-13
 modified: 2026-02-17
 human_modified:
-ai_modified: 2026-04-27T06:13:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[mental-effort]]"
   - "[[temporal-consciousness]]"
   - "[[witness-consciousness]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[self-opacity|volitional opacity]]"
   - "[[authentic-vs-inauthentic-choice]]"
   - "[[interface-friction]]"
@@ -93,7 +93,7 @@ The [[agent-causation#luck-objection|luck objection]] to libertarian free will�
 
 ## Spontaneity and Creativity
 
-Spontaneous intentional action is closely linked to [[consciousness-and-creativity|creative generation]] and [[consciousness-and-skill-acquisition|flow states]]. In creative work, the most valued moments are often those where the right idea arrives without being sought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain: novel, contextually appropriate, owned, and undeliberated.
+Spontaneous intentional action is closely linked to [[creative-consciousness|creative generation]] and [[consciousness-and-skill-acquisition|flow states]]. In creative work, the most valued moments are often those where the right idea arrives without being sought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain: novel, contextually appropriate, owned, and undeliberated.
 
 Bergson's account of [[temporal-consciousness|durée]] illuminates why. In lived duration, the whole of one's accumulated experience interpenetrates with the present moment. Spontaneous action draws on this entire depth without needing to make it explicit. The musician's improvisation expresses years of training, emotional memory, and situational sensitivity in a single gesture. The action is intelligent because it is *deep*—rooted in the full thickness of lived experience—even though its surface is instantaneous.
 
@@ -146,7 +146,7 @@ The account of spontaneous intentional action offered here would face difficulty
 - [[attention-as-interface]] — Attention as the interface between consciousness and neural processing
 - [[mental-effort]] — Why effort tracks difficulty of selection, not presence of selection
 - [[implicit-memory]] — Skill delegation and the boundary with spontaneous action
-- [[consciousness-and-creativity]] — Creative generation as spontaneous intentional action in the cognitive domain
+- [[creative-consciousness]] — Creative generation as spontaneous intentional action in the cognitive domain
 - [[temporal-consciousness]] — Bergson's lived time and the depth behind spontaneous action
 - [[self-opacity|volitional opacity]] — Why the mechanism of spontaneous initiation is hidden
 - [[authentic-vs-inauthentic-choice]] — Why spontaneous actions often feel more genuinely ours

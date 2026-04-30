@@ -4,14 +4,14 @@ description: "Walking away from a problem sometimes helps solve it. The incubati
 created: 2026-02-10
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-04-16T03:18:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
   - "[[topics/free-will]]"
 concepts:
   - "[[conscious-vs-unconscious-processing]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[baseline-cognition]]"
   - "[[working-memory]]"
   - "[[global-workspace-theory]]"

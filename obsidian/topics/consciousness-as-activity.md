@@ -4,7 +4,7 @@ description: "Reframing consciousness from something the brain has to something 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-03-22T01:41:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[emergence]]"
   - "[[interactionist-dualism]]"
   - "[[temporal-consciousness]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[intentionality]]"
   - "[[unity-of-consciousness]]"
   - "[[embodied-cognition]]"
@@ -98,7 +98,7 @@ Candidate features include:
 - **Self-referential integration**: conscious activity continuously incorporates its own prior moments, creating the recursive self-awareness that distinguishes experience from mere processing
 - **Selective engagement**: consciousness actively selects what to attend to, constituting its own content through [[agent-causation|agent-causal]] choice rather than passively receiving inputs
 - **Temporal thickness**: the activity extends across time with [[temporal-consciousness|genuine duration]], not merely instantaneous state-changes
-- **Creative synthesis**: each moment of conscious activity produces something genuinely novel—a new integration of past and present that [[consciousness-and-creativity|didn't exist before]]
+- **Creative synthesis**: each moment of conscious activity produces something genuinely novel—a new integration of past and present that [[creative-consciousness|didn't exist before]]
 
 None of these features can be understood as static properties. Each is inherently dynamic, inherently temporal, inherently active. The hard problem looks intractable in part because the property framework strips away exactly the features that make consciousness what it is.
 

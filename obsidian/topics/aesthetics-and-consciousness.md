@@ -4,7 +4,7 @@ description: "Aesthetic experience—simultaneously qualitative, evaluative, hol
 created: 2026-01-22
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-21T06:38:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 last_deep_review: 2026-04-05T22:11:00+00:00
 topics:
@@ -20,7 +20,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[temporal-consciousness]]"
   - "[[cognitive-phenomenology]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[intentionality]]"
   - "[[unity-of-consciousness]]"
   - "[[inverted-qualia]]"
@@ -60,7 +60,6 @@ related_articles:
   - "[[consciousness-and-skill-acquisition]]"
   - "[[phenomenology-of-intellectual-life]]"
   - "[[phenomenology-of-agency-vs-passivity]]"
-  - "[[phenomenology-of-creative-insight]]"
   - "[[ineffable-encounter-void]]"
 ai_contribution: 100
 author:
@@ -160,7 +159,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [[knowledge-argument]] — Mary's Room and what physical information leaves out
 - [[philosophical-zombies]] — Conceivability arguments for dualism
 - [[contemplative-practice-as-philosophical-evidence]] — Experiential evidence for consciousness theories
-- [[phenomenology-of-creative-insight]] — Aesthetic experience guiding scientific theory choice
+- [[creative-consciousness]] — Aesthetic experience guiding scientific theory choice
 - [[phenomenal-acquaintance]] — Why aesthetic knowledge requires experience
 - [[evaluative-qualia-phenomenal-normativity-across-traditions]] — Cross-traditional convergence on aesthetic and evaluative qualia, including Indian rasa theory
 - [[modal-structure-of-phenomenal-properties]] — Why phenomenal properties resist physical reduction

@@ -4,7 +4,7 @@ description: "Skill acquisition challenges epiphenomenalism—deliberate practic
 created: 2026-02-02
 modified: 2026-03-22
 human_modified:
-ai_modified: 2026-04-28T05:42:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -27,7 +27,7 @@ concepts:
   - "[[interface-friction]]"
   - "[[temporal-consciousness]]"
   - "[[self-and-self-consciousness]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[neuroplasticity]]"
 related_articles:
   - "[[tenets]]"

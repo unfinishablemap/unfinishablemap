@@ -4,7 +4,7 @@ description: "The felt signals that gate cognition from inside—knowing, rightn
 created: 2026-02-27
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T10:33:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -44,7 +44,7 @@ related_articles:
   - "[[relevance-void]]"
   - "[[suspension-void]]"
   - "[[consciousness-and-scientific-explanation]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[the-quantitative-comprehension-void]]"
 ai_contribution: 100
 author:

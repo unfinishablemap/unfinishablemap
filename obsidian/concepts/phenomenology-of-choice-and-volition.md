@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-30T09:31:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -21,7 +21,7 @@ concepts:
   - "[[witness-consciousness]]"
   - "[[illusionism]]"
   - "[[meditation-and-consciousness-modes]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[retrocausality]]"
   - "[[haecceity]]"
   - "[[decoherence]]"
@@ -62,7 +62,7 @@ Before choosing, options present themselves as genuinely open possibilities. Thi
 
 Deliberation also involves the *weight* of options — some feel heavier, demanding more consideration, others almost dismissible. This felt weight doesn't reduce to probability estimates or preference rankings; it's an experiential quality guiding attention during choice.
 
-Henri Bergson's concept of [[temporal-consciousness|durée]] illuminates this phase. Choosing unfolds in lived time, not spatialised clock-time. Options evolve through deliberation — what "option A" means changes as you consider option B, seemingly equivalent options reveal differences, and new options emerge. This is the [[consciousness-and-creativity|creativity]] aspect of choice — consciousness doesn't merely select from a fixed menu but actively constitutes options through imaginative exploration.
+Henri Bergson's concept of [[temporal-consciousness|durée]] illuminates this phase. Choosing unfolds in lived time, not spatialised clock-time. Options evolve through deliberation — what "option A" means changes as you consider option B, seemingly equivalent options reveal differences, and new options emerge. This is the [[creative-consciousness|creativity]] aspect of choice — consciousness doesn't merely select from a fixed menu but actively constitutes options through imaginative exploration.
 
 ## The Moment of Decision
 

@@ -4,7 +4,7 @@ description: "Consciousness causally enables the cognitive leap that separates h
 created: 2026-01-29
 modified: 2026-04-12
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -14,7 +14,7 @@ topics:
 concepts:
   - "[[consciousness-as-amplifier]]"
   - "[[baseline-cognition]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[phenomenal-consciousness]]"
   - "[[access-consciousness]]"
   - "[[concepts/functionalism]]"
@@ -163,7 +163,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 - [[language-recursion-and-consciousness]] — How consciousness enables recursive language
 - [[comparative-consciousness-and-interface-differences]] — Interface differences across species
 - [[infant-consciousness]] — The developmental threshold
-- [[consciousness-and-creativity]] — The generation-selection synthesis
+- [[creative-consciousness]] — The generation-selection synthesis
 - [[attention-as-interface]] — Attention as the consciousness-brain interface
 - [[concepts/consciousness-selecting-neural-patterns]] — The quantum Zeno mechanism for selection
 - [[conscious-vs-unconscious-processing]] — Empirical evidence on consciousness-requiring functions

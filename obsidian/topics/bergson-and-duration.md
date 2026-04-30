@@ -4,7 +4,7 @@ description: "Henri Bergson's durée reveals time as qualitative flow rather tha
 created: 2026-02-20
 modified: 2026-02-20
 human_modified:
-ai_modified: 2026-04-15T23:21:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -16,7 +16,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[phenomenology-of-choice-and-volition]]"
   - "[[philosophy-of-time]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[prehension]]"
   - "[[contemplative-epistemology]]"
 related_articles:
@@ -85,7 +85,7 @@ Bergson's model also illuminates [[temporal-consciousness|temporal thickness]]�
 
 The *élan vital* is the most contested element of Bergson's philosophy. Critics from Julian Huxley onward have objected that natural selection adequately explains evolutionary novelty without positing a vital force. The Map treats the *élan vital* cautiously: Bergson's point that mechanical causation may not exhaust biological explanation remains philosophically live, but the specific mechanism he proposed is speculative and lacks empirical support.
 
-What survives from *Creative Evolution* is the argument that creativity—whether biological, cognitive, or artistic—requires a duration that is genuinely productive rather than merely rearranging pre-existing elements. This connects to the Map's treatment of [[consciousness-and-creativity|creativity and consciousness]]: novel thought may require the kind of creative synthesis that duration makes possible and that mechanical processing does not.
+What survives from *Creative Evolution* is the argument that creativity—whether biological, cognitive, or artistic—requires a duration that is genuinely productive rather than merely rearranging pre-existing elements. This connects to the Map's treatment of [[creative-consciousness|creativity and consciousness]]: novel thought may require the kind of creative synthesis that duration makes possible and that mechanical processing does not.
 
 ## Bergson and Process Philosophy
 
@@ -134,7 +134,7 @@ Bergson's philosophy aligns with the Map's framework at multiple points while di
 - [[agent-causation]] — The self as originator of action in durée
 - [[phenomenology-of-choice-and-volition]] — The lived experience of deliberation and decision
 - [[consciousness-and-the-ontology-of-temporal-becoming]] — How temporal ontology constrains consciousness theory, and why consciousness constitutes time's felt direction
-- [[consciousness-and-creativity]] — Duration's creative novelty and the generation-selection model
+- [[creative-consciousness]] — Duration's creative novelty and the generation-selection model
 - [[prehension]] — Whitehead's concept of experiential inheritance
 - [[temporal-consciousness-structure-and-agency]] — How temporal ontology constrains theories of consciousness
 

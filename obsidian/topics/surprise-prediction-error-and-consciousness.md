@@ -4,7 +4,7 @@ description: "Surprise requires phenomenal consciousness—not just prediction e
 created: 2026-02-09
 modified: 2026-02-22
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -24,7 +24,7 @@ concepts:
   - "[[epistemic-emotions]]"
   - "[[cognitive-phenomenology]]"
   - "[[metacognition]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[counterfactual-reasoning]]"
   - "[[agent-causation]]"
   - "[[concepts/consciousness-selecting-neural-patterns]]"

@@ -4,7 +4,7 @@ description: "Counterfactual reasoning imagines what could have been or might be
 created: 2026-01-28
 modified: 2026-01-28
 human_modified: null
-ai_modified: 2026-03-25T03:53:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 last_deep_review: 2026-03-25T03:53:00+00:00
 draft: false
 topics:
@@ -20,7 +20,7 @@ concepts:
   - "[[agent-causation]]"
   - "[[episodic-memory]]"
   - "[[prospective-memory]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[reasons-responsiveness]]"
 related_articles:
   - "[[tenets]]"
@@ -109,7 +109,7 @@ Counterfactual reasoning enables learning beyond direct experience:
 
 Each learning mode extends cognition beyond the limits of direct experience. Animals restricted to learning from actual experience—without counterfactual elaboration—would be limited to what the environment directly teaches. The human capacity for counterfactual reasoning enables learning from imagination, not just reality.
 
-This connects to [[cumulative-culture|cumulative culture]]. Counterfactual reasoning enables asking "how could this be better?"—imagining improved versions of current practices. Without this capacity, cultural traditions would remain within the zone of latent solutions: variations on themes, not genuine innovations built on previous innovations. [[consciousness-and-creativity|Creativity]] depends on this same capacity: consciousness doesn't merely select among brain-generated options but *generates* the space of alternatives through counterfactual imagination.
+This connects to [[cumulative-culture|cumulative culture]]. Counterfactual reasoning enables asking "how could this be better?"—imagining improved versions of current practices. Without this capacity, cultural traditions would remain within the zone of latent solutions: variations on themes, not genuine innovations built on previous innovations. [[creative-consciousness|Creativity]] depends on this same capacity: consciousness doesn't merely select among brain-generated options but *generates* the space of alternatives through counterfactual imagination.
 
 ## Neural Correlates
 

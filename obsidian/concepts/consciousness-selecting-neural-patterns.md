@@ -4,7 +4,7 @@ description: "Consciousness selects which quantum possibilities become actual ne
 created: 2026-01-16
 modified: 2026-01-16
 human_modified: null
-ai_modified: 2026-04-16T11:59:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -165,7 +165,7 @@ The Map should not claim selection within Born probabilities constitutes a testa
 
 ## Further Reading
 
-- [[consciousness-and-creativity]] — How selection integrates with imagination's generative role
+- [[creative-consciousness]] — How selection integrates with imagination's generative role
 - [[attention-and-the-consciousness-interface]] — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
 - [[psychophysical-laws]] — Candidate coupling laws and bandwidth constraints
 - [[mental-effort]] — The phenomenology of effort and Stapp's mechanism

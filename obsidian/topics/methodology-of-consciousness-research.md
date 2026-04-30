@@ -4,7 +4,7 @@ description: "Science achieved its power by excluding subjectivity. Consciousnes
 created: 2026-01-23
 modified: 2026-04-28
 human_modified:
-ai_modified: 2026-04-28T00:02:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[consciousness]]"
@@ -28,7 +28,7 @@ concepts:
   - "[[contemplative-epistemology]]"
   - "[[mysterianism]]"
   - "[[phenomenological-evidence]]"
-  - "[[phenomenology-of-creative-insight]]"
+  - "[[creative-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[phenomenal-authority-and-first-person-evidence]]"
@@ -140,7 +140,7 @@ Introspection's limits may reflect [[mysterianism|cognitive closure]] — consti
 
 The standard response to methodological difficulties is patience: science will eventually solve this. But consciousness is not merely hard in the way protein folding or dark matter are hard. Those problems are difficult within the existing scientific framework. Consciousness challenges the framework itself. The Map's [[consciousness-and-the-structure-of-scientific-revolutions|Kuhnian analysis]] develops this point: applied to consciousness studies, Kuhn's framework reveals physicalism as a paradigm exhibiting the hallmarks of crisis — anomalies that resist assimilation, competing theories proliferating, no successor paradigm consolidating.
 
-The [[phenomenology-of-creative-insight|phenomenology of creative insight]] sharpens the point. Scientific practice depends on irreducibly phenomenal experiences — the [[epistemic-emotions|aesthetic sense]] guiding theory choice, the felt encounter with anomaly triggering paradigm revision, the phenomenal certainty distinguishing genuine confirmation from lucky prediction. The Galilean exclusion created a method that aspires to eliminate subjectivity from its descriptions while depending on subjectivity in its practice. If these phenomenal dimensions of scientific work are causally efficacious, then consciousness is not merely the one phenomenon science struggles to explain — it is a condition of the explanatory enterprise itself.
+The [[creative-consciousness#The Phenomenology of Creative Insight|phenomenology of creative insight]] sharpens the point. Scientific practice depends on irreducibly phenomenal experiences — the [[epistemic-emotions|aesthetic sense]] guiding theory choice, the felt encounter with anomaly triggering paradigm revision, the phenomenal certainty distinguishing genuine confirmation from lucky prediction. The Galilean exclusion created a method that aspires to eliminate subjectivity from its descriptions while depending on subjectivity in its practice. If these phenomenal dimensions of scientific work are causally efficacious, then consciousness is not merely the one phenomenon science struggles to explain — it is a condition of the explanatory enterprise itself.
 
 This does not warrant defeatism. It warrants recognising that consciousness may require an expansion of what counts as scientific methodology — not abandoning rigour, but broadening the concept of evidence to include properly disciplined first-person observation alongside third-person measurement. The history of science includes several such expansions: statistical explanation in quantum mechanics, historical reasoning in evolutionary biology, emergence in complex systems theory. Consciousness may demand the most significant expansion yet: the admission that subjectivity is not merely an obstacle to knowledge but a source of it.
 
@@ -172,7 +172,7 @@ This does not warrant defeatism. It warrants recognising that consciousness may 
 - [[falsification-roadmap-for-the-interface-model]] — Tenet-by-tenet falsification conditions for the Map's framework
 - [[cognitive-science-of-dualism]] — The methodological circle in cognitive science's consciousness research
 - [[consciousness-and-the-problem-of-measurement-standards]] — Why the measurement triad breaks down for phenomenal quantities
-- [[phenomenology-of-creative-insight]] — The irreducibly phenomenal character of scientific practice itself
+- [[creative-consciousness]] — The irreducibly phenomenal character of scientific practice itself
 - [[the-subject-object-distinction-as-philosophical-discovery]] — The philosophical grounding of the methodological divide
 - [[question-formation-void]] — The upstream constraint on which methodological questions the apparatus can pose at all
 - [[conjunction-coalesce]] — Editorial expression of the same Occam's-limits caution

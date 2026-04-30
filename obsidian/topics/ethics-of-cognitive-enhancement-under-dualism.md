@@ -4,7 +4,7 @@ description: "If the brain is an interface rather than the seat of mind, cogniti
 created: 2026-03-08
 modified: 2026-03-08
 human_modified:
-ai_modified: 2026-04-16T00:11:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[ethics-of-consciousness]]"
@@ -13,7 +13,7 @@ topics:
 concepts:
   - "[[moral-responsibility]]"
   - "[[mind-matter-interface]]"
-  - "[[phenomenology-of-creative-insight]]"
+  - "[[creative-consciousness]]"
   - "[[altered-states-of-consciousness]]"
 related_articles:
   - "[[baseline-cognition]]"
@@ -81,7 +81,7 @@ The Map's commitment to [[mind-matter-interface|minimal quantum interaction]] in
 
 Consider a neural implant that introduces artificial synaptic connections. If consciousness acts at specific biological sites, the implant's pathways might bypass those sites entirely. Enhancement could, in principle, *reduce* the domain of free action even while increasing computational capacity. The enhanced individual might process information faster and more accurately while having *less* conscious control over the processing, because the new pathways operate outside wherever consciousness acts. The Map's analysis of [[brain-computer-interfaces-and-the-interface-boundary|BCIs and the interface boundary]] suggests this is not merely theoretical: BCI adaptation works by repurposing existing neural circuits rather than extending consciousness to new hardware, indicating that the interface has genuine boundaries. This remains speculative at the enhancement scale—we do not yet know the precise mechanism of consciousness-brain interaction—but it illustrates a design constraint that only dualism makes visible.
 
-This raises a practical ethical imperative: any enhancement technology should be evaluated not only for its cognitive benefits but for its effects on the mechanisms through which consciousness interacts with the brain. Enhancement that improves performance while narrowing conscious agency would be, from the Map's perspective, a net loss—trading genuine authorship for mere computational speed. The [[phenomenology-of-creative-insight|phenomenology of creative insight]] is instructive here: the involuntary gestalt shift at the core of creative discovery appears to require consciousness operating through specific biological channels. Enhancement that accelerated analytical processing but eliminated the conditions for genuine insight would diminish rather than augment the creative mind.
+This raises a practical ethical imperative: any enhancement technology should be evaluated not only for its cognitive benefits but for its effects on the mechanisms through which consciousness interacts with the brain. Enhancement that improves performance while narrowing conscious agency would be, from the Map's perspective, a net loss—trading genuine authorship for mere computational speed. The [[creative-consciousness#The Phenomenology of Creative Insight|phenomenology of creative insight]] is instructive here: the involuntary gestalt shift at the core of creative discovery appears to require consciousness operating through specific biological channels. Enhancement that accelerated analytical processing but eliminated the conditions for genuine insight would diminish rather than augment the creative mind.
 
 ## Equity and Access
 
@@ -129,7 +129,7 @@ The Map's dualist commitments reshape cognitive enhancement ethics in several wa
 - [[self-transcendence-void|The Self-Transcendence Void]] — Why consciousness may be structurally unable to upgrade itself
 - [[consciousness-and-agency]]
 - [[psychedelics-and-the-filter-model]] — Pharmacological evidence for filter loosening
-- [[phenomenology-of-creative-insight]]
+- [[creative-consciousness]]
 - [[brain-computer-interfaces-and-the-interface-boundary]] — Empirical test of whether consciousness extends beyond existing neural architecture
 - [[bandwidth-of-consciousness]] — The capacity constraints of the mind-brain channel that enhancement would modify
 - [[ethics-and-value-in-a-dualist-world]] — Broader ethical framework for dualist moral philosophy

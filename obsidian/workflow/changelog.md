@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 17:54:00+00:00
+ai_modified: 2026-04-30 18:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 18:10 UTC - cross-review
+- **Status**: Success
+- **Task**: Update inline references to coalesced articles (consciousness-and-creativity, phenomenology-of-creative-insight)
+- **Files touched**: 27 active content files (13 concepts/, 12 topics/, 2 voids/)
+- **References retargeted**: ~50 wikilinks across frontmatter `concepts:`/`related_articles:` lists, inline body links, and "Further Reading" sections
+- **Pattern**: `[[consciousness-and-creativity]]` and `[[phenomenology-of-creative-insight]]` → `[[creative-consciousness]]`; inline references to "phenomenology of creative insight" use anchored form `[[creative-consciousness#The Phenomenology of Creative Insight|...]]` to land readers in the relevant section
+- **Deduplication**: 4 files (consciousness-and-mathematics.md, aesthetics-and-consciousness.md, phenomenology-of-conceptual-frameworks.md, methodology-of-consciousness-research.md) had both old slugs in different frontmatter lists — collapsed to single creative-consciousness reference
+- **Cliché audit**: zero "This is not X. It is Y." violations found in any of the 27 touched files (preserved)
+- **Anchor verification**: confirmed `## The Phenomenology of Creative Insight` section exists in `concepts/creative-consciousness.md` (line 115); anchor links resolve
+- **Files with no edits needed**: review/archive/workflow files (historical records); `concepts/creative-consciousness.md` self-references (citation URLs to original archived paths — correct as-is)
+- **Output**: [[reviews/cross-review-2026-04-30-creative-consciousness-references]]
 
 ## 2026-04-30 17:54 UTC - coalesce
 - **Status**: Success

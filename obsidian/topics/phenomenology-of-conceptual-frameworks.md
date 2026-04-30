@@ -4,7 +4,7 @@ description: "What it is like to dwell inside a framework and what it is like wh
 created: 2026-02-17
 modified: 2026-04-16
 human_modified: null
-ai_modified: 2026-04-17T01:10:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 last_deep_review: 2026-04-17T01:10:00+00:00
 draft: false
 topics:
@@ -20,6 +20,7 @@ concepts:
   - "[[cognitive-phenomenology]]"
   - "[[metacognition]]"
   - "[[temporal-structure-of-understanding]]"
+  - "[[creative-consciousness]]"
 related_articles:
   - "[[tenets]]"
   - "[[conceptual-scheme-void]]"
@@ -42,7 +43,6 @@ related_articles:
   - "[[self-opacity]]"
   - "[[necessary-opacity]]"
   - "[[phenomenology-of-the-edge]]"
-  - "[[phenomenology-of-creative-insight]]"
   - "[[consciousness-and-the-structure-of-scientific-revolutions]]"
 ai_contribution: 100
 author: null
@@ -189,7 +189,7 @@ The claim that framework inhabitation and change have irreducible phenomenal cha
 - [[phenomenology-of-philosophical-disagreement]] — What happens when inhabited frameworks collide
 - [[phenomenology-of-intellectual-life]] — The felt texture of epistemic cognition, intellectual effort, and understanding
 - [[phenomenology-of-intellectual-courage]] — Holding position when frameworks clash
-- [[phenomenology-of-creative-insight]] — The scientific-anomaly dimension of framework breakdown
+- [[creative-consciousness]] — The scientific-anomaly dimension of framework breakdown
 - [[consciousness-as-perceptual-architect]] — The perceptual parallel: how perception itself transforms through learning
 - [[consciousness-and-the-structure-of-scientific-revolutions]] — Kuhnian analysis applied to consciousness studies
 - [[epistemological-limits-occams-razor]] — Why simplicity is framework-relative

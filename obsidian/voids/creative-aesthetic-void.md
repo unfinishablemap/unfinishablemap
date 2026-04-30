@@ -4,7 +4,7 @@ description: "Consciousness cannot generate genuinely novel phenomenal content, 
 created: 2026-02-02
 modified: 2026-04-24
 human_modified:
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 last_deep_review: 2026-04-23T13:44:00+00:00
 topics:
@@ -18,7 +18,7 @@ concepts:
   - "[[simulation]]"
   - "[[phenomenology]]"
   - "[[introspection]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[default-mode-network]]"
   - "[[agent-causation]]"
 related_articles:
@@ -183,7 +183,7 @@ The creative-aesthetic void connects to the Map's [[tenets|foundational commitme
 
 - [[voids|Voids in the Map]] — The broader framework for investigating cognitive limits
 - [[thought-stream-void]] — The same generative opacity pervading ordinary mentation
-- [[consciousness-and-creativity]] — The generation-selection synthesis
+- [[creative-consciousness]] — The generation-selection synthesis
 - [[aesthetics-and-consciousness]] — Why beauty pervades conscious experience and resists physical reduction
 - [[affective-void]] — Emotions beyond human reach
 - [[conceptual-impossibility]] — The experience of encountering formally unthinkable content

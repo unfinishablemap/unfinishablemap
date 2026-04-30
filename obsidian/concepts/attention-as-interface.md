@@ -4,7 +4,7 @@ description: "Attention serves as the interface where consciousness influences t
 created: 2026-01-14
 modified: 2026-03-29
 human_modified: null
-ai_modified: 2026-04-29T10:21:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -20,7 +20,7 @@ concepts:
   - "[[meditation-and-consciousness-modes]]"
   - "[[motor-selection]]"
   - "[[emotion-and-dualism]]"
-  - "[[consciousness-and-creativity]]"
+  - "[[creative-consciousness]]"
   - "[[agent-causation]]"
   - "[[illusionism]]"
   - "[[mysterianism]]"
@@ -239,7 +239,7 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 
 **Phenomenal properties**: [[qualia]], [[phenomenal-consciousness]], [[phenomenal-overflow]], [[explanatory-gap]], [[blindsight]]
 
-**Related domains**: [[meditation-and-consciousness-modes]], [[emotion-and-dualism]], [[consciousness-and-creativity]], [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]], [[bandwidth-of-consciousness]]
+**Related domains**: [[meditation-and-consciousness-modes]], [[emotion-and-dualism]], [[creative-consciousness]], [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]], [[bandwidth-of-consciousness]]
 
 **Alternative perspectives**: [[illusionism]], [[mysterianism]], [[attention-schema-theory]], [[haecceity]]
 

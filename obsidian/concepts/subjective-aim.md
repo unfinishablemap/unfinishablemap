@@ -4,7 +4,7 @@ description: "Whitehead's subjective aim—each occasion's directedness toward i
 created: 2026-02-13
 modified: 2026-02-13
 human_modified:
-ai_modified: 2026-04-06T15:20:00+00:00
+ai_modified: 2026-04-30T18:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -111,7 +111,7 @@ Subjective aim intersects with the Map's tenets in illuminating but also tension
 - [[agent-teleology]] — How conscious beings introduce genuine purpose; subjective aim as metaphysical grounding
 - [[temporal-consciousness]] — Husserl's forward-directedness of experience, structurally close to subjective aim
 - [[mental-causation-and-downward-causation|downward causation]] — Subjective aim as a form of top-down causal influence within Whitehead's framework
-- [[consciousness-and-creativity]] — Creative advance and the generation-through-selection synthesis
+- [[creative-consciousness]] — Creative advance and the generation-through-selection synthesis
 
 ## References
 
