@@ -131,7 +131,7 @@ Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminat
 
 Bergson argued that determinism treats mental states as discrete units causing each other mechanically. But in lived duration, mental states interpenetrate. Options don't sit statically waiting to be picked; they evolve through deliberation. What "option A" means changes as you consider option B. A free act emerges from the whole self—the full depth of one's lived duration—not from a chain of discrete events.
 
-This creative dimension shows up phenomenologically. Options become ambiguous through consideration; seemingly equivalent options reveal differences; sometimes new options emerge. This is the [creativity](/concepts/consciousness-and-creativity/) aspect of choice: consciousness doesn't merely select from a fixed menu but actively constitutes the options through imaginative exploration.
+This creative dimension shows up phenomenologically. Options become ambiguous through consideration; seemingly equivalent options reveal differences; sometimes new options emerge. This is the [creativity](/concepts/creative-consciousness/) aspect of choice: consciousness doesn't merely select from a fixed menu but actively constitutes the options through imaginative exploration.
 
 ## The Contemplative Perspective
 
@@ -211,7 +211,7 @@ The phenomenology of choice aligns with what the Map's tenets predict:
 - [motor-selection](/concepts/motor-selection/) — Motor choice as parallel to attentional choice
 - [causal-interface](/voids/causal-interface/) — Why the mechanism connecting intention to action is invisible
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time and creative becoming
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness generates options, not just selects
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — How consciousness generates options, not just selects
 - [introspection](/concepts/introspection/) — First-person methods for investigating choice
 - [Testing the Map from Inside](/apex/testing-the-map-from-inside/) — Apex synthesis: phenomenological experiments testing the structure of choice
 - [witness-consciousness](/concepts/witness-consciousness/) — The contrast case of choiceless awareness

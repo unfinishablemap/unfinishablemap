@@ -52,7 +52,7 @@ Seven existing articles now link to this previously orphaned article:
 - [phenomenology-of-creative-problem-solving](/concepts/phenomenology-of-creative-insight/) — Added inline reference in Restructuring section + Further Reading
 - [epistemic-emotions](/concepts/epistemic-emotions/) — Added inline reference in Surprise section + Further Reading
 - [categorical-surprise](/concepts/categorical-surprise/) — Added inline reference in Phenomenology section (Kuhn paragraph) + Further Reading
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Added inline reference in Generation-Through-Selection section + Further Reading
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — Added inline reference in Generation-Through-Selection section + Further Reading
 - [philosophy-of-science-under-dualism](/concepts/philosophy-of-science-under-dualism/) — Added inline reference in Theory Choice section + Further Reading
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Added inline reference in Abstract thought subsection + Further Reading
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/) — Added inline reference in opening (Kuhn paragraph) + Further Reading

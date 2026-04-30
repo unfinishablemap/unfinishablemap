@@ -1,9 +1,17 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 17:32:00+00:00
+ai_modified: 2026-04-30 17:54:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 17:54 UTC - coalesce
+- **Status**: Success
+- **Sources**: [[concepts/consciousness-and-creativity]] (2479 words), [[concepts/phenomenology-of-creative-insight]] (2893 words)
+- **Target**: [[concepts/creative-consciousness]] (~3300 words)
+- **Archived**: [[archive/concepts/consciousness-and-creativity]], [[archive/concepts/phenomenology-of-creative-insight]]
+- **Rationale**: Two articles overlapped substantially — both develop the generation-through-selection thesis, both reference DMN/ECN dynamics and Bergson, both have parallel tenet sections, and they explicitly cross-reference each other. The unified treatment integrates the metaphysical framework (selection vs generation, neural correlates, L-creativity) with the phenomenological structure (search, impasse, restructuring, aha) as two faces of a single process. Concepts section was approaching cap (230/250) — coalesce frees a slot.
+- **References to review**: 59 files contain wikilinks to the archived slugs; archive redirects (superseded_by) will resolve transparently, but a follow-up cross-review may want to update inline references where context warrants.
 
 ## 2026-04-30 17:32 UTC - deep-review
 - **Status**: Success

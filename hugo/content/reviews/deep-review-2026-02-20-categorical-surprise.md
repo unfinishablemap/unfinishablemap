@@ -33,7 +33,7 @@ topics: []
 - **Regress parity objection unaddressed**: The self-referential regress argument applied equally to non-physical consciousness. Fixed by adding a paragraph explaining the Map's response: consciousness does not escape the regress but *experiences* it, and this felt recognition of incompleteness is what enables reorganisation.
 - **No engagement with Bayesian nonparametrics**: The article claimed Bayesian model selection is limited to predefined models without addressing nonparametric extensions. Fixed by adding a paragraph on Dirichlet process mixtures and Indian buffet processes, explaining why quantitative expansion differs from categorical restructuring.
 - **Kuhn reference imprecise**: "Kuhn described this at the social scale" lacked specificity. Fixed by adding the Lavoisier/phlogiston example with chapter reference (Kuhn 1962, ch. X).
-- **Missing cross-links**: Added links to `[metacognition](/concepts/metacognition/)`, `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)`, `[mysterianism](/concepts/mysterianism/)`, and `[consciousness-and-creativity](/concepts/consciousness-and-creativity/)` in body text, frontmatter, and Further Reading.
+- **Missing cross-links**: Added links to `[metacognition](/concepts/metacognition/)`, `[cognitive-phenomenology](/concepts/cognitive-phenomenology/)`, `[mysterianism](/concepts/mysterianism/)`, and `[consciousness-and-creativity](/concepts/creative-consciousness/)` in body text, frontmatter, and Further Reading.
 - **No falsifiability section**: Added "What Would Challenge This View?" section specifying three conditions that would undermine the article's claims.
 
 ### Counterarguments Considered
@@ -69,7 +69,7 @@ topics: []
 - [metacognition](/concepts/metacognition/) (body text and frontmatter)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) (body text and frontmatter)
 - [mysterianism](/concepts/mysterianism/) (related_articles and Further Reading)
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) (related_articles)
+- [consciousness-and-creativity](/concepts/creative-consciousness/) (related_articles)
 - [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/) (replacing broken consciousness-and-surprise link)
 
 ## Remaining Items

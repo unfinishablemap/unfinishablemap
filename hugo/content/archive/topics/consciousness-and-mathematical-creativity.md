@@ -50,7 +50,7 @@ topics:
 
 Mathematical creativity is where the case for consciousness as a causal force is sharpest. Other forms of creativity can be partially deflated—maybe the poet's inspiration is sophisticated pattern-matching, maybe the painter's aesthetic sense reduces to trained preference. But when a mathematician sees *why* a proof must work, grasps a connection between distant fields, or invents a structure that transforms what was previously thinkable, something happens that resists reduction to algorithmic process. The Unfinishable Map argues that mathematical creativity provides the strongest domain-specific evidence for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet: consciousness doesn't merely select among pre-computed solutions but generates genuinely new mathematical understanding.
 
-This article examines what makes mathematical creativity distinctive—not as a rehashing of the Penrose-Gödel argument or the [generation-selection synthesis](/concepts/consciousness-and-creativity/), both treated elsewhere on the Map, but as an integration of both. Mathematical creativity sits precisely at the intersection: it is the domain where non-algorithmic insight meets creative generation, where the phenomenology of understanding intersects the phenomenology of invention.
+This article examines what makes mathematical creativity distinctive—not as a rehashing of the Penrose-Gödel argument or the [generation-selection synthesis](/concepts/creative-consciousness/), both treated elsewhere on the Map, but as an integration of both. Mathematical creativity sits precisely at the intersection: it is the domain where non-algorithmic insight meets creative generation, where the phenomenology of understanding intersects the phenomenology of invention.
 
 ## The Poincaré Phenomenon
 
@@ -70,7 +70,7 @@ What makes this phenomenon philosophically significant is its structure. The cre
 
 ## Beyond Selection: Mathematical Generation
 
-The Map's [generation-selection synthesis](/concepts/consciousness-and-creativity/) argues that consciousness both generates possibilities through imagination and selects among them through attention. Mathematical creativity sharpens this framework because the generation component is particularly hard to explain computationally.
+The Map's [generation-selection synthesis](/concepts/creative-consciousness/) argues that consciousness both generates possibilities through imagination and selects among them through attention. Mathematical creativity sharpens this framework because the generation component is particularly hard to explain computationally.
 
 Consider what happens when a mathematician invents a new mathematical structure—say, Cantor creating set theory, or Grothendieck developing schemes in algebraic geometry. These are not selections from a pre-existing space of options. They are acts of conceptual creation that expand what mathematics can even talk about. Before Cantor, transfinite numbers were not options anyone could select. Before Grothendieck, the algebraic-geometric structures he formalised were not available as mathematical tools. The mathematical framework itself had to be invented—and this invention constitutes possibility space rather than traversing it.
 
@@ -149,7 +149,7 @@ The [illusionist](/concepts/illusionism/) challenge also applies: if phenomenal 
 ## Further Reading
 
 - Consciousness And Mathematical Understanding — Penrose's Gödelian argument and the phenomenology of mathematical insight
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) — Mechanisms of creative consciousness
 - [distinctiveness-of-human-creativity](/topics/consciousness-and-creative-distinctiveness/) — Why human creativity differs in kind from animal and AI creativity
 - [creativity-void](/voids/imagination-and-creativity-void/) — The phenomenologically hidden source of creative insight

@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-01-19
-**Article**: [Consciousness and Creativity](/concepts/consciousness-and-creativity/)
+**Article**: [Consciousness and Creativity](/concepts/creative-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

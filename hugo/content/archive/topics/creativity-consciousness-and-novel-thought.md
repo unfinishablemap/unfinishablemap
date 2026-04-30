@@ -172,7 +172,7 @@ The incubation effect—improved solutions after stepping away from a problem—
 
 DMN activity during incubation generates candidate solutions through remote associative thinking, while the Executive Control Network (ECN) evaluates them. The *capacity to dynamically switch* between networks—not either mode alone—predicts creative ability.
 
-This maps onto the [generation-selection synthesis](/concepts/consciousness-and-creativity/#the-synthesis-generation-through-selection). Incubation allows the DMN to generate options, but consciousness defines the problem initially, selects which options become actual thoughts (the "aha!" moment), and evaluates selected options. Prior conscious engagement shapes what the DMN explores. The creative loop requires both phases working together.
+This maps onto the [generation-selection synthesis](/concepts/creative-consciousness/#the-synthesis-generation-through-selection). Incubation allows the DMN to generate options, but consciousness defines the problem initially, selects which options become actual thoughts (the "aha!" moment), and evaluates selected options. Prior conscious engagement shapes what the DMN explores. The creative loop requires both phases working together.
 
 ## The Creative Loop
 
@@ -312,7 +312,7 @@ Current evidence doesn't support any of these conditions.
 
 ## Further Reading
 
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis in conceptual overview
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role as the interface between consciousness and matter
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness

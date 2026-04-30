@@ -153,7 +153,7 @@ None of these conditions currently obtains. AI systems produce formally impressi
 ## Further Reading
 
 - [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) — How consciousness enables novel combinations that escape baseline cognition
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [creativity-void](/voids/imagination-and-creativity-void/) — Why the creative source remains phenomenologically hidden
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic experience as irreducible phenomenal property

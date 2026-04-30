@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-03-08
-**Article**: [Phenomenology of Creative Insight](/concepts/phenomenology-of-creative-insight/)
+**Article**: [Phenomenology of Creative Insight](/concepts/creative-consciousness/)
 **Previous review**: Never
 
 ## Pessimistic Analysis Summary

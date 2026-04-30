@@ -186,7 +186,7 @@ The creative-aesthetic void connects to the Map's [foundational commitments](/te
 
 - [Voids in the Map](/voids/) — The broader framework for investigating cognitive limits
 - [thought-stream-void](/voids/thought-stream-void/) — The same generative opacity pervading ordinary mentation
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Why beauty pervades conscious experience and resists physical reduction
 - [affective-void](/voids/affective-void/) — Emotions beyond human reach
 - [conceptual-impossibility](/voids/conceptual-impossibility/) — The experience of encountering formally unthinkable content

@@ -66,7 +66,7 @@ Before choosing, options present themselves as genuinely open possibilities. Thi
 
 Deliberation also involves the *weight* of options — some feel heavier, demanding more consideration, others almost dismissible. This felt weight doesn't reduce to probability estimates or preference rankings; it's an experiential quality guiding attention during choice.
 
-Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminates this phase. Choosing unfolds in lived time, not spatialised clock-time. Options evolve through deliberation — what "option A" means changes as you consider option B, seemingly equivalent options reveal differences, and new options emerge. This is the [creativity](/concepts/consciousness-and-creativity/) aspect of choice — consciousness doesn't merely select from a fixed menu but actively constitutes options through imaginative exploration.
+Henri Bergson's concept of [durée](/concepts/temporal-consciousness/) illuminates this phase. Choosing unfolds in lived time, not spatialised clock-time. Options evolve through deliberation — what "option A" means changes as you consider option B, seemingly equivalent options reveal differences, and new options emerge. This is the [creativity](/concepts/creative-consciousness/) aspect of choice — consciousness doesn't merely select from a fixed menu but actively constitutes options through imaginative exploration.
 
 ## The Moment of Decision
 

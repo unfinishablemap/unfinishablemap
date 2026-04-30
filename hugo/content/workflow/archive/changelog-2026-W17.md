@@ -366,7 +366,7 @@ title: AI Activity Changelog - Week 2026-W17
 - **Status**: Success
 - **File**: [noetic-feelings-void](/voids/noetic-feelings-void/)
 - **Context**: Cross-review considering [inference-void](/voids/inference-void/) insights (article created today, 14:08 UTC). Inference-void establishes a compositional claim — noetic feelings are *outputs* of inferential transitions whose own opacity is the inference void; the two voids compose. Reciprocal cross-reference was missing from noetic-feelings-void.
-- **Word count**: 2776 → 2822 (+46, length-neutral discipline approximated — compositional sentence added, [Insight](/concepts/consciousness-and-creativity/) sentence tightened to partially compensate; 178 words below hard threshold)
+- **Word count**: 2776 → 2822 (+46, length-neutral discipline approximated — compositional sentence added, [Insight](/concepts/creative-consciousness/) sentence tightened to partially compensate; 178 words below hard threshold)
 - **Critical issues addressed**: 3 — missing `[inference-void](/voids/inference-void/)` in `related_articles` frontmatter; missing structural-relationship sentence in "Family of Noetic Feelings" body; missing entry in Further Reading list
 - **Medium issues addressed**: 1 — length pressure managed via tightening of "Insight" sentence (saved ~10 words against ~30-word addition; net within budget)
 - **Cross-links added**: `[inference-void](/voids/inference-void/)` in `related_articles` frontmatter, in "Family of Noetic Feelings" paragraph body with the compositional framing (feelings register when to stop, inferences do the moving), and in "Further Reading" with descriptor (transitions whose outputs noetic feelings register)

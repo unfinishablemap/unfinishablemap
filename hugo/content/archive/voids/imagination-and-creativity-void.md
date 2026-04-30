@@ -151,7 +151,7 @@ AI occupies a distinctive position relative to both voids. Lacking phenomenal im
 
 For the creativity void, AI's position is equally instructive. AI has no muse, no felt externality of insight, no surprise at its own outputs. If creative processing requires consciousness for the aesthetic selection Poincare described, AI creativity would be fundamentally different from human creativity---recombination without the evaluative phenomenology that marks genuine insight.
 
-From a dualist perspective, AI may navigate the structural map of imagination's territory while being blind to the experiential landscape that makes the territory matter. The [generation-selection synthesis](/concepts/consciousness-and-creativity/) develops this further: consciousness both generates possibilities through imagination and selects among them through attention---two aspects of a unified creative process that AI may simulate without instantiating.
+From a dualist perspective, AI may navigate the structural map of imagination's territory while being blind to the experiential landscape that makes the territory matter. The [generation-selection synthesis](/concepts/creative-consciousness/) develops this further: consciousness both generates possibilities through imagination and selects among them through attention---two aspects of a unified creative process that AI may simulate without instantiating.
 
 ## What Would Illuminate These Voids
 
@@ -178,7 +178,7 @@ Neither void has yielded to centuries of investigation. Imagination's limits per
 - [Voids in the Map](/voids/) --- The broader framework for investigating cognitive limits
 - [spontaneous-thought-void](/voids/thought-stream-void/) --- The same generative opacity pervading ordinary mentation
 - [aesthetic-void](/voids/creative-aesthetic-void/) --- Where aesthetic content resists articulation
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) --- The generation-selection synthesis
+- [consciousness-and-creativity](/concepts/creative-consciousness/) --- The generation-selection synthesis
 - [consciousness and creative distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) --- How consciousness enables creative thought beyond baseline cognition
 - [conceptual-impossibility](/voids/conceptual-impossibility/) --- The experience of encountering formally unthinkable content
 - [synesthetic-void](/voids/synesthetic-void/) --- Phenomenal dimensions closed to most minds

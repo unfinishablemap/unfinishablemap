@@ -102,7 +102,7 @@ The phenomenology of scientific discovery connects to several of the Map's [tene
 ## Further Reading
 
 - [phenomenology-of-creative-problem-solving](/concepts/phenomenology-of-creative-insight/)
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+- [consciousness-and-creativity](/concepts/creative-consciousness/)
 - [phenomenology-of-epistemic-achievement](/topics/phenomenology-of-epistemic-cognition/)
 - [phenomenology-of-understanding](/topics/phenomenology-of-understanding-and-meaning/)
 - [phenomenology-of-conceptual-change](/topics/phenomenology-of-conceptual-frameworks/)

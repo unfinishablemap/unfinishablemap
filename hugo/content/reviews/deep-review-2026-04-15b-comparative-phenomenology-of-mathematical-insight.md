@@ -59,7 +59,7 @@ No new attributions. Existing attributions (Hadamard, Poincare, Brahmagupta, Bha
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — linked from What Would Challenge section, as evidence against eliminability of mathematical phenomenology
 - [consciousness-and-mathematics](/topics/consciousness-and-mathematics/) — linked from What Would Challenge section, as the cross-cultural convergence that would support the view
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — linked from Contemplative Evidence section, extending cross-cultural convergence discussion
-- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — linked from Aesthetic Experience section, showing cross-cultural aesthetic variation
+- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — linked from Aesthetic Experience section, showing cross-cultural aesthetic variation
 
 ## Remaining Items
 

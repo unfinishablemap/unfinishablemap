@@ -66,7 +66,7 @@ All attributions previously verified in prior reviews. No new claims to check.
 1. **Creativity-consciousness integration**: Expanded the creativity paragraph to integrate the generation-selection synthesis from the newly coalesced [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) article. Now notes that consciousness contributes both which options become actual and which options exist to begin with.
 
 2. **Cross-link additions**:
-   - Updated inline link from [consciousness-and-creativity](/concepts/consciousness-and-creativity/) to [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) as the main topic reference
+   - Updated inline link from [consciousness-and-creativity](/concepts/creative-consciousness/) to [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) as the main topic reference
    - Added [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) to Further Reading
    - Added [creativity-consciousness-and-novel-thought](/topics/consciousness-and-creative-distinctiveness/) to related_articles frontmatter
 

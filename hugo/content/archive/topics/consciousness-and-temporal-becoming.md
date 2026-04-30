@@ -208,7 +208,7 @@ A materialist can claim temporal flow is an outright illusion—a cognitive arti
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — How consciousness enables creative thought
 - [bergson-and-duration](/topics/bergson-and-duration/) — Bergson's philosophy of durée and creative evolution
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Why incubation depends on prior conscious engagement
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis in conceptual overview
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's process metaphysics and its convergence with Bergson
 - [temporal-consciousness](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role mediating consciousness and matter

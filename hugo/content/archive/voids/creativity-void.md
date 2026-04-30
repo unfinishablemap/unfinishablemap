@@ -130,7 +130,7 @@ The [Dualism](/tenets/#dualism) tenet finds support in the creativity void's res
 
 ### Bidirectional Interaction
 
-The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains texture from the creativity void. If consciousness merely received ideas passively, its role would be epiphenomenal. But Poincaré's aesthetic selection suggests active filtering: consciousness evaluates which combinations are "harmonious" before presenting them. If the selecting is conscious (or proto-conscious), creativity involves genuine mind-matter causation. The [generation-selection synthesis](/concepts/consciousness-and-creativity/) develops this further: consciousness both generates possibilities through imagination and selects among them through attention—two aspects of a unified creative process.
+The [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet gains texture from the creativity void. If consciousness merely received ideas passively, its role would be epiphenomenal. But Poincaré's aesthetic selection suggests active filtering: consciousness evaluates which combinations are "harmonious" before presenting them. If the selecting is conscious (or proto-conscious), creativity involves genuine mind-matter causation. The [generation-selection synthesis](/concepts/creative-consciousness/) develops this further: consciousness both generates possibilities through imagination and selects among them through attention—two aspects of a unified creative process.
 
 ### Occam's Razor Has Limits
 
@@ -145,7 +145,7 @@ The [No Many Worlds](/tenets/#no-many-worlds) tenet connects to the haecceity of
 - [spontaneous-thought-void](/voids/thought-stream-void/) — The same generative opacity pervading ordinary mentation
 - [imagination-void](/voids/imagination-and-creativity-void/) — Where consciousness's instrument for exploring beyond the given fails
 - [aesthetic-void](/voids/creative-aesthetic-void/) — The companion void: where aesthetic content resists articulation
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis: how consciousness generates and selects creative possibilities
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis: how consciousness generates and selects creative possibilities
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — How consciousness enables creative thought that escapes baseline cognition
 - [Voids in the Map](/voids/) — The framework for cognitive dark spaces
 - [Three Kinds of Void](/voids/three-kinds-of-void/) — Unexplored, unexplorable, occluded

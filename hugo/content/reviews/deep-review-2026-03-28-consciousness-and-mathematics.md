@@ -50,13 +50,13 @@ topics: []
 - Tenet connections are substantive, especially Bidirectional Interaction and Dualism
 
 ### Enhancements Made
-- Added cross-link to [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) in Poincaré section
-- Added cross-link to [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) in Process Philosophy section
+- Added cross-link to [phenomenology-of-creative-insight](/concepts/creative-consciousness/) in Poincaré section
+- Added cross-link to [phenomenology-of-creative-insight](/concepts/creative-consciousness/) in Process Philosophy section
 - Tightened Ramanujan claims for accuracy
 - Improved MWI argument for philosophical precision
 
 ### Cross-links Added
-- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) (two locations)
+- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) (two locations)
 
 ## Remaining Items
 

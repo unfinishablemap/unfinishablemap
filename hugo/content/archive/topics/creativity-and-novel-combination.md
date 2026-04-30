@@ -84,7 +84,7 @@ Creativity involves both conscious and unconscious phases. The incubation effect
 
 The neuroscience clarifies. A 2024 study in *Brain* established that the Default Mode Network (DMN) plays a *causal* role in creative thinking. DMN activity during incubation generates candidate solutions through remote associative thinking. But the Executive Control Network (ECN) evaluates these candidates. Crucially, the *capacity to dynamically switch* between DMN and ECN—not either mode alone—predicts creative ability.
 
-This maps onto the [generation-selection synthesis](/concepts/consciousness-and-creativity/#the-synthesis-generation-through-selection). Imagination explores possibilities; attention actualizes specific ones. Incubation allows the DMN to generate options, but consciousness:
+This maps onto the [generation-selection synthesis](/concepts/creative-consciousness/#the-synthesis-generation-through-selection). Imagination explores possibilities; attention actualizes specific ones. Incubation allows the DMN to generate options, but consciousness:
 
 1. Initially defines the problem (conscious formulation)
 2. Selects which generated options become actual thoughts (conscious insight)
@@ -195,7 +195,7 @@ None of these conditions currently obtains.
 
 ## Further Reading
 
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in consciousness studies
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis in consciousness studies
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - Metarepresentation — The capacity to represent representations

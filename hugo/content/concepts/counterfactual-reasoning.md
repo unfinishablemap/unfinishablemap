@@ -112,7 +112,7 @@ Counterfactual reasoning enables learning beyond direct experience:
 
 Each learning mode extends cognition beyond the limits of direct experience. Animals restricted to learning from actual experience—without counterfactual elaboration—would be limited to what the environment directly teaches. The human capacity for counterfactual reasoning enables learning from imagination, not just reality.
 
-This connects to [cumulative culture](/concepts/cumulative-culture/). Counterfactual reasoning enables asking "how could this be better?"—imagining improved versions of current practices. Without this capacity, cultural traditions would remain within the zone of latent solutions: variations on themes, not genuine innovations built on previous innovations. [Creativity](/concepts/consciousness-and-creativity/) depends on this same capacity: consciousness doesn't merely select among brain-generated options but *generates* the space of alternatives through counterfactual imagination.
+This connects to [cumulative culture](/concepts/cumulative-culture/). Counterfactual reasoning enables asking "how could this be better?"—imagining improved versions of current practices. Without this capacity, cultural traditions would remain within the zone of latent solutions: variations on themes, not genuine innovations built on previous innovations. [Creativity](/concepts/creative-consciousness/) depends on this same capacity: consciousness doesn't merely select among brain-generated options but *generates* the space of alternatives through counterfactual imagination.
 
 ## Neural Correlates
 

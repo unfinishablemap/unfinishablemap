@@ -145,7 +145,7 @@ A legitimate challenge comes from computational systems with state history. Recu
 - [specious-present](/concepts/temporal-consciousness/) — The experienced duration of the present moment
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — Why incubation depends on prior conscious engagement
 - [non-temporal-consciousness](/topics/non-temporal-consciousness/) — The contrasting claim that consciousness may have a non-temporal ground
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis in conceptual overview
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's process metaphysics and its convergence with Bergson on creativity
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role mediating consciousness and matter
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection

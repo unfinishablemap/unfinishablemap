@@ -99,7 +99,7 @@ An epiphenomenalist could argue that all this guiding is done by underlying neur
 
 A deeper objection holds that the phenomenological phases described here may be retrospective narrative constructions rather than real-time experiential structures — that the solver imposes the four-phase story after the fact. This is a serious methodological concern for any phenomenological analysis. But the Metcalfe and Wiebe warmth-rating data provides independent evidence: subjects report phenomenal states *during* problem-solving (not after), and these reports show the characteristic patterns described here. The phenomenology of impasse and insight is not merely a retrospective story about what happened; it is a real-time experiential structure that leaves measurable traces in concurrent reports.
 
-The [generation-through-selection synthesis](/concepts/consciousness-and-creativity/) developed on the Map gains additional support from this phenomenological analysis. During directed search, consciousness selects among available representations (the selection aspect). During restructuring, new representations emerge that were not among the options being selected from (the generation aspect). The felt difference between these phases — effortful choosing versus involuntary shift — maps onto the two aspects of consciousness's creative contribution.
+The [generation-through-selection synthesis](/concepts/creative-consciousness/) developed on the Map gains additional support from this phenomenological analysis. During directed search, consciousness selects among available representations (the selection aspect). During restructuring, new representations emerge that were not among the options being selected from (the generation aspect). The felt difference between these phases — effortful choosing versus involuntary shift — maps onto the two aspects of consciousness's creative contribution.
 
 ## Relation to Site Perspective
 
@@ -113,7 +113,7 @@ The phenomenology of creative problem-solving supports several of the Map's [ten
 
 ## Further Reading
 
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+- [consciousness-and-creativity](/concepts/creative-consciousness/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/)

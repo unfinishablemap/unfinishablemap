@@ -55,7 +55,7 @@ From **[incubation-effect-and-unconscious-processing](/topics/incubation-effect-
 - Added to Further Reading section
 - Connection: Poincare's incubation and creative process opacity
 
-From **[phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)**:
+From **[phenomenology-of-creative-insight](/concepts/creative-consciousness/)**:
 - Added to `related_articles` frontmatter
 - Added inline link in "Altered sense of agency" paragraph connecting creative insight's felt externality to the void's constitutive opacity thesis
 - Connection: the aha moment's phenomenology of reception rather than production

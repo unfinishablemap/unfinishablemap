@@ -192,7 +192,7 @@ The claim that framework inhabitation and change have irreducible phenomenal cha
 - [phenomenology-of-philosophical-disagreement](/topics/phenomenology-of-philosophical-disagreement/) — What happens when inhabited frameworks collide
 - [phenomenology-of-intellectual-life](/topics/phenomenology-of-intellectual-life/) — The felt texture of epistemic cognition, intellectual effort, and understanding
 - [phenomenology-of-intellectual-courage](/topics/phenomenology-of-intellectual-courage/) — Holding position when frameworks clash
-- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — The scientific-anomaly dimension of framework breakdown
+- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — The scientific-anomaly dimension of framework breakdown
 - [consciousness-as-perceptual-architect](/topics/consciousness-as-perceptual-architect/) — The perceptual parallel: how perception itself transforms through learning
 - [consciousness-and-the-structure-of-scientific-revolutions](/topics/consciousness-and-the-structure-of-scientific-revolutions/) — Kuhnian analysis applied to consciousness studies
 - [epistemological-limits-occams-razor](/voids/epistemological-limits-occams-razor/) — Why simplicity is framework-relative

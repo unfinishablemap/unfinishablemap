@@ -36,7 +36,7 @@ topics:
 - '[[hard-problem-of-consciousness]]'
 ---
 
-What mechanisms enable consciousness to contribute to creative thought? The Unfinishable Map's [generation-selection synthesis](/concepts/consciousness-and-creativity/) holds that consciousness both generates possibilities through imagination and selects among them through attention. But how does this work at the level of neural and quantum processes? This article examines candidate mechanisms—quantum selection, network switching, and imaginative expansion—and asks whether creativity's mechanisms require something beyond physical computation.
+What mechanisms enable consciousness to contribute to creative thought? The Unfinishable Map's [generation-selection synthesis](/concepts/creative-consciousness/) holds that consciousness both generates possibilities through imagination and selects among them through attention. But how does this work at the level of neural and quantum processes? This article examines candidate mechanisms—quantum selection, network switching, and imaginative expansion—and asks whether creativity's mechanisms require something beyond physical computation.
 
 The question matters because creativity presents a test case for the [Bidirectional Interaction](/tenets/#bidirectional-interaction) tenet. If creative thought can be fully explained by unconscious neural processes with consciousness merely observing the results, bidirectional interaction weakens. If creative mechanisms require consciousness to contribute causally—not just select among pre-computed options but shape what options exist—the case for genuine mental causation strengthens.
 
@@ -181,7 +181,7 @@ Current evidence doesn't support any of these conditions.
 
 ## Further Reading
 
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis in conceptual overview
 - [creativity-and-novel-combination](/topics/creativity-consciousness-and-novel-thought/) — How consciousness enables escaping the zone of latent solutions
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role as the interface between consciousness and matter
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection

@@ -2,10 +2,15 @@
 title: "Consciousness and Creativity"
 description: "Consciousness contributes to creativity through both generating possibilities and selecting among them. Generation and selection unify as two aspects of creative process."
 created: 2026-01-19
-modified: 2026-01-19
+modified: 2026-04-30
 human_modified: null
-ai_modified: 2026-04-23T13:29:00+00:00
+ai_modified: 2026-04-30T17:54:00+00:00
 draft: false
+archived: true
+archived_date: 2026-04-30T17:54:00+00:00
+superseded_by: "/concepts/creative-consciousness/"
+archive_reason: "Coalesced into Creative Consciousness"
+original_path: "/concepts/consciousness-and-creativity/"
 topics:
   - "[[topics/free-will]]"
   - "[[hard-problem-of-consciousness]]"

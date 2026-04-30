@@ -58,8 +58,8 @@ No changes to the article body (content stable, length-neutral mode). Focus was 
 ### Cross-links Added (from other articles to this article)
 
 New inbound `related_articles` links added:
-- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — discusses creative insight phases including "shock of discovery"; directly parallels creative surprise analysis
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — core concept page on generation/selection in creativity; the surprise article's self-surprise criterion is a key contribution to this topic
+- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — discusses creative insight phases including "shock of discovery"; directly parallels creative surprise analysis
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — core concept page on generation/selection in creativity; the surprise article's self-surprise criterion is a key contribution to this topic
 - [epistemic-emotions](/concepts/epistemic-emotions/) — the surprise article discusses epistemic emotions extensively in reorientation and creative phases
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — covers Poincare and incubation phases that the surprise article analyses phenomenologically
 - [predictive-processing](/concepts/predictive-processing/) — core concept page; the surprise article builds its entire argument on PP's explanatory gap

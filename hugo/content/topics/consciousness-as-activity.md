@@ -101,7 +101,7 @@ Candidate features include:
 - **Self-referential integration**: conscious activity continuously incorporates its own prior moments, creating the recursive self-awareness that distinguishes experience from mere processing
 - **Selective engagement**: consciousness actively selects what to attend to, constituting its own content through [agent-causal](/concepts/agent-causation/) choice rather than passively receiving inputs
 - **Temporal thickness**: the activity extends across time with [genuine duration](/concepts/temporal-consciousness/), not merely instantaneous state-changes
-- **Creative synthesis**: each moment of conscious activity produces something genuinely novel—a new integration of past and present that [didn't exist before](/concepts/consciousness-and-creativity/)
+- **Creative synthesis**: each moment of conscious activity produces something genuinely novel—a new integration of past and present that [didn't exist before](/concepts/creative-consciousness/)
 
 None of these features can be understood as static properties. Each is inherently dynamic, inherently temporal, inherently active. The hard problem looks intractable in part because the property framework strips away exactly the features that make consciousness what it is.
 

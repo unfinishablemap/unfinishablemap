@@ -69,7 +69,7 @@ topics: []
 
 - [meaning-and-consciousness](/topics/consciousness-and-semantic-understanding/) (frontmatter and Further Reading)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) (frontmatter and Further Reading)
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) (frontmatter and Further Reading)
+- [consciousness-and-creativity](/concepts/creative-consciousness/) (frontmatter and Further Reading)
 
 ## Remaining Items
 

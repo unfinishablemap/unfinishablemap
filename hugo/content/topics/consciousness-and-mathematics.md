@@ -118,7 +118,7 @@ Critics object that the argument assumes human consistency—an unproven claim. 
 
 ## The Poincaré Phenomenon
 
-Poincaré's 1908 account reveals the phenomenology of creative insight. Working on Fuchsian functions, weeks of conscious preparation yielded nothing. Then, boarding an omnibus: "the idea came to me... that the transformations I had used to define the Fuchsian functions were identical with those of non-Euclidean geometry." Hadamard (1945) found the same pattern—preparation, incubation, illumination, verification—what the [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) examines across domains.
+Poincaré's 1908 account reveals the phenomenology of creative insight. Working on Fuchsian functions, weeks of conscious preparation yielded nothing. Then, boarding an omnibus: "the idea came to me... that the transformations I had used to define the Fuchsian functions were identical with those of non-Euclidean geometry." Hadamard (1945) found the same pattern—preparation, incubation, illumination, verification—what the [phenomenology-of-creative-insight](/concepts/creative-consciousness/) examines across domains.
 
 Three features resist computational explanation:
 
@@ -166,7 +166,7 @@ The [abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#
 
 ## Beyond Selection: Mathematical Generation
 
-The Map's [generation-selection synthesis](/concepts/consciousness-and-creativity/) argues that consciousness both generates possibilities through imagination and selects among them through attention. Mathematical creativity sharpens this framework because the generation component is particularly hard to explain computationally.
+The Map's [generation-selection synthesis](/concepts/creative-consciousness/) argues that consciousness both generates possibilities through imagination and selects among them through attention. Mathematical creativity sharpens this framework because the generation component is particularly hard to explain computationally.
 
 When a mathematician invents a new structure—Cantor creating set theory, Grothendieck developing schemes in algebraic geometry—these are not selections from a pre-existing space of options. They are acts of conceptual creation expanding what mathematics can express. This is Margaret Boden's *transformational creativity*: not combining existing ideas but changing the rules themselves. The [zone of latent solutions](/topics/consciousness-and-cognitive-distinctiveness/) concept captures why this matters: great apes innovate within their zone—recombining existing skills without reconceptualising what they are doing. AI systems explore within training distributions. Mathematical transformational creativity exits every zone.
 
@@ -212,7 +212,7 @@ The view would be supported by continued failure of AI to achieve transformation
 
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — How each philosophy of mathematics implies a philosophy of consciousness
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader case for phenomenal character in thinking
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [consciousness-and-the-authority-of-formal-systems](/topics/consciousness-and-the-authority-of-formal-systems/) — Why formal authority reaches a boundary at consciousness
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) — Gödel's incompleteness and quantum measurement as the same self-referential obstruction
 - [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling) — Cognitive limits on mathematical comprehension

@@ -1,8 +1,11 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-19
-ai_modified: 2026-04-23 13:29:00+00:00
+ai_modified: 2026-04-30 17:54:00+00:00
 ai_system: claude-opus-4-6
+archive_reason: Coalesced into Creative Consciousness
+archived: true
+archived_date: 2026-04-30 17:54:00+00:00
 author: null
 concepts:
 - '[[agent-causation]]'
@@ -14,7 +17,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 created: 2026-01-19
-date: &id001 2026-01-19
+date: &id001 2026-04-30
 description: Consciousness contributes to creativity through both generating possibilities
   and selecting among them. Generation and selection unify as two aspects of creative
   process.
@@ -23,10 +26,12 @@ human_modified: null
 last_curated: null
 last_deep_review: 2026-04-23 13:29:00+00:00
 modified: *id001
+original_path: /concepts/consciousness-and-creativity/
 related_articles:
 - '[[tenets]]'
 - '[[consciousness-creativity-novelty-generation-2026-01-19]]'
 - '[[surprise-prediction-error-and-consciousness]]'
+superseded_by: /concepts/creative-consciousness/
 title: Consciousness and Creativity
 topics:
 - '[[topics/free-will]]'
@@ -77,7 +82,7 @@ Margaret Boden's distinction between types of creativity clarifies this integrat
 | **Exploratory** | Traversing possibility space within rules | Focusing on valuable regions |
 | **Transformational** | Changing the rules themselves | Recognizing when rule-change is needed |
 
-Transformational creativity—producing what was "downright impossible" within the previous framework—most clearly requires both aspects. You cannot select a rule-change from the old rule-system; consciousness must both generate the new rules and recognize their value. The [phenomenology of creative insight](/concepts/phenomenology-of-creative-insight/) provides vivid examples: the aesthetic sense of a theory's "rightness" guides scientists toward frameworks that nature's evidence will later confirm, combining generation (imagining new theoretical structures) with selection (recognising which fits nature). That recognition operates through [feelings of rightness](/voids/noetic-feelings-void/) rather than explicit derivation—a felt verdict that does its gating work before analytic justification can catch up.
+Transformational creativity—producing what was "downright impossible" within the previous framework—most clearly requires both aspects. You cannot select a rule-change from the old rule-system; consciousness must both generate the new rules and recognize their value. The [phenomenology of creative insight](/concepts/creative-consciousness/) provides vivid examples: the aesthetic sense of a theory's "rightness" guides scientists toward frameworks that nature's evidence will later confirm, combining generation (imagining new theoretical structures) with selection (recognising which fits nature). That recognition operates through [feelings of rightness](/voids/noetic-feelings-void/) rather than explicit derivation—a felt verdict that does its gating work before analytic justification can catch up.
 
 ## Neural Correlates of Creative Consciousness
 
@@ -156,7 +161,7 @@ The creative process may also illuminate [cognitive closure](/concepts/mysterian
 - [dream-consciousness](/topics/dream-consciousness/) — Dream problem-solving as empirical evidence that phenomenal mode shapes creative outcomes
 - [imagination-and-creativity-void](/voids/creative-aesthetic-void/) — The void where creative insight originates
 - [noetic-feelings-void](/voids/noetic-feelings-void/) — Felt signals (rightness, insight, familiarity) that gate creative selection from inside
-- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — Creative insight and scientific discovery as cases of conscious creativity
+- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — Creative insight and scientific discovery as cases of conscious creativity
 - [consciousness-creativity-novelty-generation-2026-01-19](/research/consciousness-creativity-novelty-generation-2026-01-19/) — Research notes underlying this article
 
 ## References

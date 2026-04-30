@@ -63,7 +63,7 @@ None. The article has proper structure, includes required "Relation to Site Pers
 - Expanded MWI engagement with decision-theoretic acknowledgment
 
 ### Cross-links Added
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — added to concepts list and body text
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — added to concepts list and body text
 
 ## Word Count
 

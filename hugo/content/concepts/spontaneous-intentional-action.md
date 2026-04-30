@@ -95,7 +95,7 @@ The [luck objection](/concepts/agent-causation/#luck-objection) to libertarian f
 
 ## Spontaneity and Creativity
 
-Spontaneous intentional action is closely linked to [creative generation](/concepts/consciousness-and-creativity/) and [flow states](/topics/consciousness-and-skill-acquisition/). In creative work, the most valued moments are often those where the right idea arrives without being sought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain: novel, contextually appropriate, owned, and undeliberated.
+Spontaneous intentional action is closely linked to [creative generation](/concepts/creative-consciousness/) and [flow states](/topics/consciousness-and-skill-acquisition/). In creative work, the most valued moments are often those where the right idea arrives without being sought—the phrase that writes itself, the brush stroke that finds its own path, the solution that appears in the shower. These are spontaneous intentional actions in the cognitive domain: novel, contextually appropriate, owned, and undeliberated.
 
 Bergson's account of [durée](/concepts/temporal-consciousness/) illuminates why. In lived duration, the whole of one's accumulated experience interpenetrates with the present moment. Spontaneous action draws on this entire depth without needing to make it explicit. The musician's improvisation expresses years of training, emotional memory, and situational sensitivity in a single gesture. The action is intelligent because it is *deep*—rooted in the full thickness of lived experience—even though its surface is instantaneous.
 
@@ -148,7 +148,7 @@ The account of spontaneous intentional action offered here would face difficulty
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the interface between consciousness and neural processing
 - [mental-effort](/concepts/mental-effort/) — Why effort tracks difficulty of selection, not presence of selection
 - [implicit-memory](/concepts/implicit-memory/) — Skill delegation and the boundary with spontaneous action
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Creative generation as spontaneous intentional action in the cognitive domain
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — Creative generation as spontaneous intentional action in the cognitive domain
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Bergson's lived time and the depth behind spontaneous action
 - [volitional opacity](/voids/self-opacity/) — Why the mechanism of spontaneous initiation is hidden
 - [authentic-vs-inauthentic-choice](/topics/authentic-vs-inauthentic-choice/) — Why spontaneous actions often feel more genuinely ours

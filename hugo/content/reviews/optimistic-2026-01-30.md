@@ -44,7 +44,7 @@ The Map's treatment of [agent-causation](/concepts/agent-causation/) resonates w
 
 The recognition in [temporal-consciousness](/concepts/temporal-consciousness/) that mental states interpenetrate rather than causing each other like discrete billiard balls captures Bergson's insight that the deterministic model fails at its foundations. The Map understands that consciousness introduces genuine novelty—each decision adds something that wasn't determined by prior states.
 
-The treatment of creativity in [consciousness-and-creativity](/concepts/consciousness-and-creativity/) goes beyond mere selection to genuine generation of possibilities through imagination. This is exactly right: consciousness doesn't just choose among pre-given options but constitutes the space of alternatives.
+The treatment of creativity in [consciousness-and-creativity](/concepts/creative-consciousness/) goes beyond mere selection to genuine generation of possibilities through imagination. This is exactly right: consciousness doesn't just choose among pre-given options but constitutes the space of alternatives.
 
 ### The Libertarian Free Will Defender (Kane)
 
@@ -162,7 +162,7 @@ The Map's honesty about what remains uncertain—whether specific quantum mechan
 | [free-will](/topics/free-will/) | [vertiginous-question](/topics/vertiginous-question/) | Indexical identity grounds personal authorship |
 | [quantum-biology-and-the-consciousness-debate](/topics/quantum-biology-and-neural-consciousness/) | [voluntary-attention](/concepts/attention-as-interface/) | Cryptochrome Zeno effect parallels attention mechanism |
 | [machine-consciousness](/topics/machine-consciousness/) | [vertiginous-question](/topics/vertiginous-question/) | Haecceity problem central to upload skepticism |
-| [agent-causation](/concepts/agent-causation/) | [consciousness-and-creativity](/concepts/consciousness-and-creativity/) | Generation extends beyond pure selection |
+| [agent-causation](/concepts/agent-causation/) | [consciousness-and-creativity](/concepts/creative-consciousness/) | Generation extends beyond pure selection |
 | [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) | [aesthetic-dimension-of-consciousness](/topics/aesthetics-and-consciousness/) | Aesthetic qualia may resist reduction more than sensory |
 
 ## New Concept Pages Needed

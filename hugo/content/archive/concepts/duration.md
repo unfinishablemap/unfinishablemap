@@ -156,7 +156,7 @@ Bergson's durée aligns with all five site tenets:
 - Specious Present — The experienced duration of the present moment
 - [philosophy-of-time](/concepts/philosophy-of-time/) — A-theory, B-theory, and the Map's growing block position
 - [process-philosophy](/concepts/process-philosophy/) — Whitehead's framework; concrescence, prehension, and the combination problem
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How duration's creative novelty relates to the generation-selection model
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — How duration's creative novelty relates to the generation-selection model
 - [neurophenomenology](/concepts/neurophenomenology-and-contemplative-neuroscience/) — Contemplative science and access to temporal microstructure
 - [collapse-and-time](/concepts/collapse-and-time/) — How quantum collapse may constitute time's arrow
 - [free-will](/topics/free-will/) — How temporal structure relates to agency

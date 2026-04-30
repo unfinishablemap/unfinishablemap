@@ -156,7 +156,7 @@ These limits are themselves informative. They suggest consciousness accesses mat
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) — Aesthetic experience, including mathematical beauty, as evidence for irreducible consciousness
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) — The felt difference between verification and comprehension
 - [temporal-structure-of-understanding](/concepts/temporal-structure-of-understanding/) — How the "click" of comprehension has constitutive temporal structure
-- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — The general phenomenology of creative insight across domains
+- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — The general phenomenology of creative insight across domains
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why understanding may require phenomenal awareness
 
 ## References

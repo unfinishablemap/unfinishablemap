@@ -169,7 +169,7 @@ The Map should not claim selection within Born probabilities constitutes a testa
 
 ## Further Reading
 
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How selection integrates with imagination's generative role
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — How selection integrates with imagination's generative role
 - [attention-and-the-consciousness-interface](/topics/attention-and-the-consciousness-interface/) — ADHD, OCD, and meditation deficits reveal selection interface dysfunction
 - [psychophysical-laws](/concepts/psychophysical-laws/) — Candidate coupling laws and bandwidth constraints
 - [mental-effort](/concepts/mental-effort/) — The phenomenology of effort and Stapp's mechanism

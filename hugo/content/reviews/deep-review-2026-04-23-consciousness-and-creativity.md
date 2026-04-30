@@ -17,7 +17,7 @@ topics: []
 ---
 
 **Date**: 2026-04-23
-**Article**: [Consciousness and Creativity](/concepts/consciousness-and-creativity/)
+**Article**: [Consciousness and Creativity](/concepts/creative-consciousness/)
 **Previous review**: [2026-03-28](/reviews/deep-review-2026-03-28-consciousness-and-creativity/)
 **Context**: Cross-review triggered by publication of [noetic-feelings-void](/voids/noetic-feelings-void/) (2026-04-23).
 

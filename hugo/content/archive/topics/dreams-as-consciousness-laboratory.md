@@ -100,7 +100,7 @@ This dissociation matters for theories of consciousness. [Higher-Order Thought t
 
 The most philosophically provocative finding: dreaming consciousness outperforms waking consciousness on certain problems. Konkoly's dreamers solved puzzles that defeated their waking attempts. Dormio-incubated subjects showed creativity gains unavailable to wakeful cognition. Cai et al. (2009) demonstrated that REM sleep specifically enhanced creative problem-solving by priming associative networks—an effect specific to problems requiring remote associations, not logical analysis.
 
-This creates a paradox for [epiphenomenalism](/concepts/epiphenomenalism/). If [consciousness contributes nothing](/concepts/consciousness-and-creativity/) to cognition—if it is merely the phenomenal shadow of neural processing—then the mode of consciousness should be irrelevant to cognitive outcomes. But the evidence shows systematic correspondence: the specific phenomenal character of dreaming (loosened associations, emotional vividness, immersive spatial cognition) matches the specific problems that dream cognition solves (creative combination, emotional reframing, spatial insight). The mode of experience predicts the type of cognitive contribution.
+This creates a paradox for [epiphenomenalism](/concepts/epiphenomenalism/). If [consciousness contributes nothing](/concepts/creative-consciousness/) to cognition—if it is merely the phenomenal shadow of neural processing—then the mode of consciousness should be irrelevant to cognitive outcomes. But the evidence shows systematic correspondence: the specific phenomenal character of dreaming (loosened associations, emotional vividness, immersive spatial cognition) matches the specific problems that dream cognition solves (creative combination, emotional reframing, spatial insight). The mode of experience predicts the type of cognitive contribution.
 
 A physicalist might object that this correspondence is trivially explained: different neural modes produce both the phenomenal character and the functional output, with no causal role for experience itself. But this response concedes the core observation—that phenomenal character *tracks* cognitive contribution—and then must explain why such tracking exists if experience contributes nothing. If consciousness is causally inert, its systematic alignment with cognitive function is an unexplained coincidence that grows more suspicious as the evidence accumulates across waking, dreaming, hypnagogic, and lucid states.
 
@@ -143,7 +143,7 @@ Intellectual honesty requires acknowledging the limits:
 
 - [dream-consciousness](/topics/dream-consciousness/) — Filter model treatment of dream consciousness, including problem-solving evidence
 - [dreams-and-consciousness](/topics/dream-consciousness/) — Concept-level overview of dreams and consciousness
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — How consciousness contributes to creative cognition
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — How consciousness contributes to creative cognition
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-specific functions
 - [sleep-and-consciousness](/concepts/sleep-and-consciousness/) — Consciousness gradations across sleep stages
 - [attention-as-interface](/concepts/attention-as-interface/) — The interface hypothesis applied to dream states

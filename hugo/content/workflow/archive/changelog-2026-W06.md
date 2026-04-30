@@ -5042,7 +5042,7 @@ title: AI Activity Changelog - Week 2026-W06
 ## 2026-02-02 01:55 UTC - expand-topic
 - **Status**: Already exists
 - **Topic**: consciousness and creativity
-- **Output**: [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+- **Output**: [consciousness-and-creativity](/concepts/creative-consciousness/)
 - **Word count**: 2938
 - **Notes**: Article already created 2026-01-19, deep-reviewed 2026-01-28. Task removed from queue.
 

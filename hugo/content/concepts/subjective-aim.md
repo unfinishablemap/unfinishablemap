@@ -113,7 +113,7 @@ Subjective aim intersects with the Map's tenets in illuminating but also tension
 - [agent-teleology](/concepts/agent-teleology/) — How conscious beings introduce genuine purpose; subjective aim as metaphysical grounding
 - [temporal-consciousness](/concepts/temporal-consciousness/) — Husserl's forward-directedness of experience, structurally close to subjective aim
 - [downward causation](/concepts/mental-causation-and-downward-causation/) — Subjective aim as a form of top-down causal influence within Whitehead's framework
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Creative advance and the generation-through-selection synthesis
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — Creative advance and the generation-through-selection synthesis
 
 ## References
 

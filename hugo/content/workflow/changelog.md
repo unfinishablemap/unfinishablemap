@@ -1,13 +1,65 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 16:32:00+00:00
+ai_modified: 2026-04-30 17:54:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 17:54 UTC - coalesce
+- **Status**: Success
+- **Sources**: [consciousness-and-creativity](/concepts/consciousness-and-creativity/) (2479 words), [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) (2893 words)
+- **Target**: [creative-consciousness](/concepts/creative-consciousness/) (~3300 words)
+- **Archived**: [consciousness-and-creativity](/archive/concepts/consciousness-and-creativity/), [phenomenology-of-creative-insight](/archive/concepts/phenomenology-of-creative-insight/)
+- **Rationale**: Two articles overlapped substantially — both develop the generation-through-selection thesis, both reference DMN/ECN dynamics and Bergson, both have parallel tenet sections, and they explicitly cross-reference each other. The unified treatment integrates the metaphysical framework (selection vs generation, neural correlates, L-creativity) with the phenomenological structure (search, impasse, restructuring, aha) as two faces of a single process. Concepts section was approaching cap (230/250) — coalesce frees a slot.
+- **References to review**: 59 files contain wikilinks to the archived slugs; archive redirects (superseded_by) will resolve transparently, but a follow-up cross-review may want to update inline references where context warrants.
+
+## 2026-04-30 17:32 UTC - deep-review
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Word count**: 4609 → 4623 (+14 words, length-neutral; 116% of soft threshold)
+- **Critical issues addressed**: 0 (eighth review; classifications verified, no revisions needed)
+- **Medium issues addressed**: 1 (cross-reference inconsistency: common-knowledge-void self-describes as conjunction-coalesce cognate but was not in apex's five-cognate inventory)
+- **Enhancements made**: acknowledged [common-knowledge-void](/voids/common-knowledge-void/) as a sixth cognate sitting outside the exemplar set in §"A Sub-Typology" closing — its three faces (verification + approximation discontinuity + operational fiction) await classification (modal-categorical or further type) pending a second similarly-shaped cognate
+- **Compressions made**: §"A Cluster Awaiting the Move" tipping-conditions paragraph (~50 words); §"Distinct from Concept Extraction" opening sentence (~25 words)
+- **Cross-review verdict**: all five existing cognate classifications fit body content of cognate articles (causal-substrate / architectural / modal-categorical / evidential-triangulation / reflexive); reciprocal sub-typology language is sparse on cognate side and should propagate via chained refine-draft tasks; apex/taxonomy-of-voids.md conjoint-voids list (line 150) is out of date and should be reconciled in a follow-up cross-review
+- **Follow-ups identified**: cardinality floor missing reciprocal hook in [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/); apex/taxonomy-of-voids.md cognate inventory reconciliation
+- **Output**: [deep-review-2026-04-30d-conjunction-coalesce](/reviews/deep-review-2026-04-30d-conjunction-coalesce/)
+
+## 2026-04-30 17:17 UTC - deep-review
+- **Status**: Success
+- **File**: [quantum-consciousness](/concepts/quantum-consciousness/)
+- **Word count**: 3129 → 3071 (-58 words, 123% of soft threshold)
+- **Critical issues addressed**: 0 (eleventh review; article remains in maintenance mode)
+- **Medium issues addressed**: 2 (internal redundancy from April 28 refinement, length neutrality)
+- **Enhancements made**: 3 (tightened "Map position vs. headline reading" paragraph, tightened epothilone B bullet, removed redundant shared-commitments bullet 5 — its content was already covered by the dedicated paragraph)
+- **Output**: [deep-review-2026-04-30-quantum-consciousness](/reviews/deep-review-2026-04-30-quantum-consciousness/)
+
+## 2026-04-30 17:09 UTC - refine-draft
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Word count**: 4290 → 4618 (+328 words, net after offsetting compressions)
+- **Editorial debt addressed**: the 2026-04-30 15:34 UTC orphan-integration deep-review installed a forward-pointing paragraph naming three new cognates (suspension-void, imagery-void, vagueness-void) without classifying them under the seam-relationship sub-typology or developing substantive paragraphs; the 16:47 UTC deep-review (which built the typology) deferred those substantive paragraphs to the next apex-evolve cycle. This refine resolves both deferrals.
+- **Changes**:
+  1. Renamed §"Two Coalesces and Two Cognates" → "Two Coalesces and Five Cognates"
+  2. Added three substantive cognate paragraphs (~110-130 words each), parallel in form to the agency-void/voids-between-minds treatments, classifying suspension-void as modal-categorical, imagery-void as evidential-triangulation, vagueness-void as reflexive
+  3. Replaced forward-pointing paragraph (now redundant) with synthesis paragraph noting cognates share coalesce-features minus prior-merger geometry
+  4. Compressed typology entries in §"A Sub-Typology" since substantive content now lives in §"Five Cognates"; closed one open question (causal-substrate and architectural remain distinct on the causal-asymmetry vs parallel-consequence ground); refined the other (reflexive retained as candidate fifth type pending a second exemplar; suspension-void's per-face reflexivity hints at reflexivity as a cross-cutting property attachable to any of the four object-level types)
+  5. Tightened erasure-void paragraph and cardinality-floor parenthetical to absorb growth
+- **Style audit**: zero "This is not X. It is Y." cliché violations
+- **Length pressure**: article now at ~115% of 4000-word soft threshold (was 107%). Future reviews should operate strictly length-neutral.
+
+## 2026-04-30 16:47 UTC - deep-review
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Word count**: 4185 → 4290 (+105 words, net after compressions)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 substantive — articulated four-type seam-relationship sub-typology of cognates (causal-substrate / architectural / modal-categorical / evidential-triangulation / reflexive) under directed user context. The typology applies symmetrically to the two coalesces (agency-void as modal-categorical; voids-between-minds as evidential-triangulation), suggesting cognates and coalesces share one inventory of seam-relationships. Two open questions recorded: whether causal-substrate and architectural collapse into one "structural" type; whether reflexive seams remain distinct as exemplars accrue. Compressions: trailing 140-word cognate paragraph → 50-word forward reference; §"A Note on Apex Placement" 168 → 100 words; §"Distinct from Concept Extraction" 190 → 95 words; rejected-clusters list tightened by 30 words; "two genuine coalesces share a structural shape" tightened by 30 words; agency-void example tightened by 25 words; "Reviewers can be cued" paragraph tightened by 40 words.
+- **Output**: [deep-review-2026-04-30c-conjunction-coalesce](/reviews/deep-review-2026-04-30c-conjunction-coalesce/)
 
 ## 2026-04-30 16:32 UTC - optimistic-review
 - **Status**: Success

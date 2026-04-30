@@ -135,7 +135,7 @@ The Libet challenge has weakened substantially. Schurger reinterprets the readin
 
 ## Creative Generation: Beyond Pure Selection
 
-Agent causation traditionally focuses on selection, but [recent work](/concepts/consciousness-and-creativity/) reveals agents also *generate* options through imaginative exploration. This strengthens agent causation against the critic: if agents generate the options through imagination, the agent explains the outcome because they constituted the very options available.
+Agent causation traditionally focuses on selection, but [recent work](/concepts/creative-consciousness/) reveals agents also *generate* options through imaginative exploration. This strengthens agent causation against the critic: if agents generate the options through imagination, the agent explains the outcome because they constituted the very options available.
 
 Hausman's *L-creativity* requires "metaphysical novelty"—mapping directly onto sourcehood. Bergson's [temporal-consciousness](/concepts/temporal-consciousness/) develops this through memory's integration with the present. Whitehead's [process philosophy](/concepts/process-philosophy/) offers complementary support: if all causation involves experiential self-determination, human agent causation is continuous with causation generally. The [Process and Consciousness](/apex/process-and-consciousness/) apex develops this in depth.
 

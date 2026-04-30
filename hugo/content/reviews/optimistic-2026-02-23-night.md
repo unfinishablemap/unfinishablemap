@@ -113,7 +113,7 @@ This pattern of honest limitation transforms what could be defensive argumentati
 ### High Priority
 
 #### The Phenomenology of Creative Problem-Solving
-- **Builds on**: [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/), [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/), [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/)
+- **Builds on**: [phenomenology-of-flow-states](/topics/consciousness-and-skilled-performance/), [consciousness-and-aesthetic-creation](/topics/aesthetics-and-consciousness/), [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/), [consciousness-and-creativity](/concepts/creative-consciousness/)
 - **Would address**: The incubation effect (solutions arriving during periods of non-attention) provides evidence for both delegatory processing and consciousness-as-selector. When the "aha" moment arrives, what is its phenomenal structure? The sudden gestalt shift—from confusion to clarity—may reveal consciousness recognising a solution that unconscious processing generated, instantiating the bidirectional architecture
 - **Estimated scope**: Medium article
 - **Tenet alignment**: Bidirectional Interaction (consciousness recognises and selects solutions), Dualism (the phenomenal character of insight is irreducible)

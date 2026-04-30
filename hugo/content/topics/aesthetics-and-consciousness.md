@@ -164,7 +164,7 @@ The aesthetic case for dualism would weaken if: aesthetic qualia proved reducibl
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room and what physical information leaves out
 - [philosophical-zombies](/concepts/philosophical-zombies/) — Conceivability arguments for dualism
 - [contemplative-practice-as-philosophical-evidence](/topics/contemplative-practice-as-philosophical-evidence/) — Experiential evidence for consciousness theories
-- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) — Aesthetic experience guiding scientific theory choice
+- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) — Aesthetic experience guiding scientific theory choice
 - [phenomenal-acquaintance](/concepts/phenomenal-acquaintance/) — Why aesthetic knowledge requires experience
 - [evaluative-qualia-phenomenal-normativity-across-traditions](/topics/evaluative-qualia-phenomenal-normativity-across-traditions/) — Cross-traditional convergence on aesthetic and evaluative qualia, including Indian rasa theory
 - [modal-structure-of-phenomenal-properties](/topics/modal-structure-of-phenomenal-properties/) — Why phenomenal properties resist physical reduction

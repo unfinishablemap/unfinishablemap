@@ -166,7 +166,7 @@ The consciousness-intelligence-creativity thesis would weaken if:
 - [language-recursion-and-consciousness](/topics/language-recursion-and-consciousness/) — How consciousness enables recursive language
 - [comparative-consciousness-and-interface-differences](/topics/comparative-consciousness-and-interface-differences/) — Interface differences across species
 - [infant-consciousness](/voids/infant-consciousness/) — The developmental threshold
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention as the consciousness-brain interface
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions

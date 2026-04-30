@@ -128,7 +128,7 @@ Mathematicians overwhelmingly describe their work as finding rather than inventi
 
 ## Beyond Selection: Mathematical Generation
 
-The Map's [generation-selection synthesis](/concepts/consciousness-and-creativity/) argues that consciousness both generates possibilities through imagination and selects among them through attention. Mathematical creativity sharpens this framework because the generation component is particularly hard to explain computationally.
+The Map's [generation-selection synthesis](/concepts/creative-consciousness/) argues that consciousness both generates possibilities through imagination and selects among them through attention. Mathematical creativity sharpens this framework because the generation component is particularly hard to explain computationally.
 
 Consider what happens when a mathematician invents a new structure—say, Cantor creating set theory, or Grothendieck developing schemes in algebraic geometry. These are not selections from a pre-existing space of options. They are acts of conceptual creation that expand what mathematics can express. This generation component involves a form of [counterfactual reasoning](/topics/consciousness-and-counterfactual-reasoning/)—imagining frameworks that don't yet exist, holding them in dual status as both non-actual and informatively real, and evaluating whether they could capture mathematical truths the current framework cannot.
 
@@ -222,7 +222,7 @@ The view would be supported by continued failure of AI to achieve transformation
 
 - [mathematical-truth-and-conscious-access](/topics/consciousness-and-mathematics/) — Mathematical ontology, epistemology, and the phenomenology of mathematical knowledge
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — The broader case for phenomenal character in thinking
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis
 - [consciousness-and-creative-distinctiveness](/topics/consciousness-and-cognitive-distinctiveness/) — Why human creativity differs in kind from animal and AI creativity
 - [consciousness-as-amplifier](/concepts/consciousness-as-amplifier/) — Why understanding may require phenomenal awareness
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/) — How every major mathematical ontology implies a philosophy of consciousness

@@ -53,7 +53,7 @@ None. The article contains no factual errors, attribution errors, or internal co
 ### Cross-links Added (Orphan Integration)
 
 **Outbound links added to creativity-void.md:**
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — In concepts frontmatter and Further Reading
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — In concepts frontmatter and Further Reading
 - [creativity-and-novel-combination](/topics/creativity-consciousness-and-novel-thought/) — In related_articles and Further Reading
 - [default-mode-network](/concepts/default-mode-network/) — Inline link in Process Void section
 - [agent-causation](/concepts/agent-causation/) — In concepts frontmatter and Further Reading
@@ -61,7 +61,7 @@ None. The article contains no factual errors, attribution errors, or internal co
 - [process-and-consciousness](/apex/process-and-consciousness/) — In related_articles
 
 **Inbound links added FROM other articles:**
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Added paragraph connecting to creativity void and Further Reading link
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — Added paragraph connecting to creativity void and Further Reading link
 - [creativity-and-novel-combination](/topics/creativity-consciousness-and-novel-thought/) — Added inline link in Bergson section and Further Reading link
 - [the-unobservable-self](/voids/self-reference-paradox/) — Added inline link noting structural parallel
 - [voids](/voids/) — Added to "Specific Voids" navigation section

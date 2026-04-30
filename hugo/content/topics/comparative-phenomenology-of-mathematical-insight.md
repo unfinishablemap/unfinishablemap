@@ -128,7 +128,7 @@ The Map's fifth tenet—that Occam's razor has limits—is illustrated by the in
 - [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
 - [concession-convergence-philosophy-of-mathematics](/topics/concession-convergence-philosophy-of-mathematics/) — The theoretical complement: how foundational programmes converge on conceding irreducibility
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/)
-- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)
+- [phenomenology-of-creative-insight](/concepts/creative-consciousness/)
 - [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
 - [The Quantitative Comprehension Void — abstract mathematical ceiling](/voids/the-quantitative-comprehension-void/#the-abstract-mathematical-ceiling)
 - [phenomenology-of-cognitive-capacity](/topics/phenomenology-of-cognitive-capacity/)

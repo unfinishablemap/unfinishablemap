@@ -123,7 +123,7 @@ The phenomenal mode tracking argument would face difficulty if:
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) — The creative cycle and consciousness's role in incubation
 - [lucid-dreaming-as-capability-evidence](/topics/lucid-dreaming-and-dualist-rendering/) — What lucid dreaming reveals about the brain-mind division
 - [consciousness-and-intelligence](/topics/consciousness-and-cognitive-distinctiveness/) — The broader case for consciousness enabling human-level cognition
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — Consciousness's role in creative generation and selection
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — Consciousness's role in creative generation and selection
 - [conscious-vs-unconscious-processing](/concepts/conscious-vs-unconscious-processing/) — Empirical evidence on consciousness-requiring functions
 - [dream-consciousness-void](/voids/sleep-consciousness-void/) — The bidirectional void between waking and dreaming cognition
 

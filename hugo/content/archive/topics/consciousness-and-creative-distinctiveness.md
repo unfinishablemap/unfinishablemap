@@ -152,7 +152,7 @@ Current evidence does not support any of these conditions.
 
 ## Further Reading
 
-- [consciousness-and-creativity](/concepts/consciousness-and-creativity/) — The generation-selection synthesis in conceptual overview
+- [consciousness-and-creativity](/concepts/creative-consciousness/) — The generation-selection synthesis in conceptual overview
 - [attention-as-interface](/concepts/attention-as-interface/) — Attention's role as the interface between consciousness and matter
 - [consciousness-selecting-neural-patterns](/concepts/consciousness-selecting-neural-patterns/) — The quantum Zeno mechanism for selection
 - [baseline-cognition](/concepts/baseline-cognition/) — What cognition achieves without consciousness

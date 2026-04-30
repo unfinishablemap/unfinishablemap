@@ -57,7 +57,7 @@ topics: []
 - [phenomenology-of-understanding-and-meaning](/topics/phenomenology-of-intellectual-life/) (frontmatter + Further Reading)
 - [aesthetics-and-consciousness](/topics/aesthetics-and-consciousness/) (frontmatter)
 - [incubation-effect-and-unconscious-processing](/topics/incubation-effect-and-unconscious-processing/) (frontmatter + body + Further Reading)
-- [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/) (frontmatter + body + Further Reading)
+- [phenomenology-of-creative-insight](/concepts/creative-consciousness/) (frontmatter + body + Further Reading)
 - [self-reference-and-the-limits-of-physical-description](/topics/self-reference-and-the-limits-of-physical-description/) (frontmatter + Further Reading)
 - [computational-cognitive-limits](/voids/formal-cognitive-limits/) (frontmatter + concepts + Further Reading)
 - [mathematical-void](/voids/the-quantitative-comprehension-void/) (frontmatter)

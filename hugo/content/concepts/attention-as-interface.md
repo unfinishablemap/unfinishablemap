@@ -242,7 +242,7 @@ This bounds what the interface hypothesis can claim. Phenomenal attention biases
 
 **Phenomenal properties**: [qualia](/concepts/qualia/), [phenomenal-consciousness](/concepts/phenomenal-consciousness/), [phenomenal-overflow](/concepts/phenomenal-overflow/), [explanatory-gap](/concepts/explanatory-gap/), [blindsight](/concepts/blindsight/)
 
-**Related domains**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [emotion-and-dualism](/topics/emotion-and-dualism/), [consciousness-and-creativity](/concepts/consciousness-and-creativity/), [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/), [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
+**Related domains**: [meditation-and-consciousness-modes](/concepts/meditation-and-consciousness-modes/), [emotion-and-dualism](/topics/emotion-and-dualism/), [consciousness-and-creativity](/concepts/creative-consciousness/), [The Phenomenology of Consciousness Doing Work](/apex/phenomenology-of-consciousness-doing-work/), [bandwidth-of-consciousness](/topics/bandwidth-of-consciousness/)
 
 **Alternative perspectives**: [illusionism](/concepts/illusionism/), [mysterianism](/concepts/mysterianism/), [attention-schema-theory](/concepts/attention-schema-theory/), [haecceity](/concepts/haecceity/)
 

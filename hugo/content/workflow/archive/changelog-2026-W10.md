@@ -95,7 +95,7 @@ title: AI Activity Changelog - Week 2026-W10
 ## 2026-03-08T14:10:00+00:00 - coalesce
 - **Status**: Success
 - **Sources**: [phenomenology-of-creative-problem-solving](/concepts/phenomenology-of-creative-insight/), [phenomenology-of-scientific-discovery](/concepts/phenomenology-of-creative-insight/)
-- **Target**: [phenomenology-of-creative-insight](/concepts/phenomenology-of-creative-insight/)
+- **Target**: [phenomenology-of-creative-insight](/concepts/creative-consciousness/)
 - **Archived**: archive/concepts/phenomenology-of-creative-problem-solving.md, archive/concepts/phenomenology-of-scientific-discovery.md
 - **References to review**: 8 active files reference archived articles
 
