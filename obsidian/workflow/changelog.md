@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 07:35:00+00:00
+ai_modified: 2026-04-30 07:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 07:45 UTC - deep-review (reciprocal back-link: the-quantitative-comprehension-void → medium-status-voids-in-cognition)
+- **Status**: Success
+- **File**: [[voids/the-quantitative-comprehension-void]]
+- **Word count**: 2987 → 2987 (no change; 149% of 2000 soft threshold; under 3000 hard threshold; length-neutral)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal back-link to apex `medium-status-voids-in-cognition`, which links forward to QCV in body and frontmatter as of its 2026-04-30 07:10 UTC cross-review)
+- **Enhancements made**: 1 (`[[medium-status-voids-in-cognition]]` appended to QCV's `related_articles`; frontmatter-only addition preserves length-neutrality and the previous review's "no body churn" verdict)
+- **Context**: Third deep-review on QCV today (after 03:40 UTC full pass and 05:10 UTC stability confirmation). The apex was created 2026-04-29 and added a forward link to QCV at 07:10 UTC; this pass closes the reciprocal loop. Body insertion was considered but deferred — adding inline wikilink prose would push over the 3000-word hard threshold without a safe trim opportunity (prior Stability Notes prohibit re-flagging the resolutions that would otherwise be candidate trim sites). Hugo renders `related_articles` as a Related Articles section, so the back-link surfaces to readers without body churn. All prior Stability Notes carry forward unchanged. Article remains at convergence.
+- **Output**: [[reviews/deep-review-2026-04-30c-the-quantitative-comprehension-void]]
 
 ## 2026-04-30 07:35 UTC - condense
 - **Status**: Success

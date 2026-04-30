@@ -4,8 +4,8 @@ description: "A structural family of cognitive limits—cardinality, magnitudes,
 created: 2026-02-02
 modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-30T05:10:00+00:00
-last_deep_review: 2026-04-30T05:10:00+00:00
+ai_modified: 2026-04-30T07:45:00+00:00
+last_deep_review: 2026-04-30T07:45:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -34,6 +34,7 @@ related_articles:
   - "[[formal-cognitive-limits]]"
   - "[[intrinsic-nature-void]]"
   - "[[consciousness-and-the-philosophy-of-mathematics]]"
+  - "[[medium-status-voids-in-cognition]]"
 ai_contribution: 100
 author:
 ai_system: claude-opus-4-7

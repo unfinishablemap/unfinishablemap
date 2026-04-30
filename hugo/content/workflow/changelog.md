@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 07:10:00+00:00
+ai_modified: 2026-04-30 07:35:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 07:35 UTC - condense
+- **Status**: Success
+- **File**: [self-reference-paradox](/concepts/self-reference-paradox/)
+- **Before**: 3659 words (146% of 2500 soft threshold; hard_warning)
+- **After**: 2496 words (99% of soft threshold; ok)
+- **Reduction**: 32%
+- **Technique**: Cut redundant intro paragraph; tightened Three Conditions failure-modes paragraph; trimmed Formal Lineage Lucas/Penrose detail and Lawvere paragraph; cut Schwitzgebel verbatim quote and Markov-blanket detail in instantiations; consolidated Hume/Wittgenstein passages between Transparency Problem and Phenomenology of Self-Reference Failure; cut redundant "elusive self" subsection that restated Hume; trimmed Quantum Measurement bulleted list and made structural; tightened Why Resists Dissolution into two bullets; trimmed Relation to Site Perspective tenets while keeping all five; reduced Further Reading from 17 entries to 10 most essential. Preserved opening summary, Relation to Site Perspective (all five tenets), all unique arguments, and tenet alignment.
 
 ## 2026-04-30 07:10 UTC - deep-review (cross-review: medium-status-voids-in-cognition ↔ the-quantitative-comprehension-void's magnitude-probability face)
 - **Status**: Success
