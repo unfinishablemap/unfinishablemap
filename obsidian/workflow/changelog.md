@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 00:56:00+00:00
+ai_modified: 2026-04-30 01:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 01:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/zahavian-minimal-self]]
+- **Trigger**: optimistic-2026-04-29d Medium Priority — the §"Constitutive as Kind, Not as Degree" subsection added to voids/self-opacity at 21:56 UTC supplied a generalisable kind-vs-degree response to clinical-evidence-as-counterexample objections; concepts/ at 233/250 (93%) makes new concept-page creation expensive, so the optimistic review recommended absorbing the material into zahavian-minimal-self as a new subsection rather than creating a dedicated concept page.
+- **Changes**: Added new H2 §"Constitutive as Kind, Not as Degree" (~330 words) between The Madhyamaka Challenge and Acknowledged Limits — articulates kind-vs-degree distinction explicitly, names falsifying scenario (clean elimination not attenuation, phenomenal life continuing fully *without* the asymmetry), cites Sass & Parnas and depersonalisation literature, flags methodological generalisation. Trimmed §"Zahavi's Position" "Constitutive, not contingent (in kind)" bullet to forward-reference the new section. Trimmed §"Acknowledged Limits" to remove duplicate Sass-Parnas / kind-vs-degree treatment, with new paragraph on meditative attenuation as parallel scalar pressure. Reciprocal cross-link to voids/self-opacity §"Constitutive as Kind, Not as Degree" installed. Frontmatter: moved [[self-opacity]] from concepts: to related_articles: (correct placement — self-opacity is in voids/, not concepts/). Style: rephrased opening "is not X; it is Y" cliché construct.
+- **Word count**: ~2,950 → ~3,150 (+200 net; new subsection +330 words, trimmed bullet -40, trimmed Acknowledged Limits -90)
+- **Output**: [[concepts/zahavian-minimal-self]]
+- **Published**: yes
 
 ## 2026-04-30 00:56 UTC - deep-review
 - **Status**: Success

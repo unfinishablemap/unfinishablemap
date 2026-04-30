@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 00:40:00+00:00
+ai_modified: 2026-04-30 00:56:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 00:56 UTC - deep-review
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Trigger**: Maintenance retarget of references to coalesced voids → [the-quantitative-comprehension-void](/voids/the-quantitative-comprehension-void/)
+- **Word count**: 3460 → 3463 (+3, length-neutral mode)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 2 (frontmatter `related_articles` retarget; body-text wikilink retargeted to section-anchored `#the-cardinality-floor` for sharper landing)
+- **Output**: [deep-review-2026-04-30-cognitive-phenomenology](/reviews/deep-review-2026-04-30-cognitive-phenomenology/)
 
 ## 2026-04-30 00:40 UTC - coalesce
 - **Status**: Success

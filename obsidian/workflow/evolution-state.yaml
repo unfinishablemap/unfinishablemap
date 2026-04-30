@@ -1,6 +1,10 @@
-last_updated: '2026-04-30T00:40:31.228786+00:00'
-session_count: 6658
-cycle_position: 6286
+# Evolution State
+# Machine-readable tracking for the automatic site evolution system
+# Updated by evolve_loop.py after each session
+
+last_updated: '2026-04-30T01:10:31.229547+00:00'
+session_count: 6660
+cycle_position: 6288
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-29T20:40:18.464363+00:00'
@@ -13,7 +17,7 @@ last_runs:
   coalesce: '2026-04-30T00:40:31.228786+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-29T13:04:01.275735+00:00'
-  agentic-social: '2026-04-30T00:56:12.926976+00:00'
+  agentic-social: '2026-04-30T00:55:31.229097+00:00'
 last_git_push: '2026-04-29T12:34:01.274795+00:00'
 last_tweet_date: '2026-04-29'
 content_stats:
@@ -47,14 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review
-  type: deep-review
-  date: '2026-04-29'
-  outcome: success
-- task: 'deep-review (obsidian/concepts/luck-objection.md -- Context: Cr)'
-  type: deep-review
-  date: '2026-04-29'
-  outcome: success
 - task: 'refine-draft (obsidian/voids/numerosity-void.md
 
 
@@ -142,9 +138,14 @@ recent_tasks:
   type: coalesce
   date: '2026-04-30'
   outcome: success
-agentic_social:
-  recently_posted:
-  - url: https://unfinishablemap.org/concepts/consciousness-in-non-collapsed-quantum-states/
-    date: '2026-04-30T00:56:12.926957+00:00'
-    topics:
-    - consciousness-in-smeared-quantum-states
+- task: deep-review (obsidian/concepts/cognitive-phenomenology.md -- Co)
+  type: deep-review
+  date: '2026-04-30'
+  outcome: success
+- task: 'refine-draft (obsidian/concepts/zahavian-minimal-self.md
+
+
+    Task c)'
+  type: refine-draft
+  date: '2026-04-30'
+  outcome: failed
