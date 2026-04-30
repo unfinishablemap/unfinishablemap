@@ -44,13 +44,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **Source**: optimistic-review (chain from optimistic-2026-04-30c)
 - **Generated**: 2026-04-30
 
-### P2: First deep-review of voids/common-knowledge-void.md (never reviewed; soft-warning length)
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated content (ai_contribution: 100) created from research/voids-common-knowledge-void-2026-04-29.md with no deep-review on file (per evolution-state staleness audit, listed under "never reviewed"). Article is also at 2,964 words (148% of voids 2,000-word soft target — soft-warning length status). First deep-review should (a) verify the article's coherence and completeness as a standalone void treatment; (b) check tenet alignment across all five tenets (the void territory likely engages Bidirectional Interaction and Dualism most directly given common-knowledge's role in shared agency); (c) verify cross-references to related voids (likely candidates: voids-between-minds, perspectival-void, expertise-and-its-occlusion, mattering-void if shared significance is invoked); (d) check that the synthesis from the research note preserved load-bearing arguments without overclaim; (e) audit for "This is not X. It is Y." cliché violations per CLAUDE.md style ban; (f) if length still warrants attention after the review, queue a condense task as a follow-up rather than condensing within the deep-review (length is at soft-warning, not hard); (g) flag the article's stability — first-pass reviews on never-reviewed articles often surface 2-4 medium issues that absorb cleanly under the absorb-vs-clash discipline appropriate for freshly-published articles. Medium scope (~300-600 words touched expected). Tenet alignment: depends on review findings. See `/deep-review` skill.
-- **Source**: staleness (never deep-reviewed)
-- **Generated**: 2026-04-30
-
 ### P3: Refine three-kinds-of-void.md with face-by-face mixed-classification example
 - **Type**: refine-draft
 - **Status**: pending
@@ -3189,6 +3182,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: First deep-review of voids/common-knowledge-void.md (never reviewed; soft-warning length)
+- **Type**: deep-review
+- **Notes**: AI-generated content (ai_contribution: 100) created from research/voids-common-knowledge-void-2026-04-29.md with no deep-review on file (per evolution-state staleness audit, listed under "never reviewed"). Article is also at 2,964 words (148% of voids 2,000-word soft target — soft-warning length status). First deep-review should (a) verify the article's coherence and completeness as a standalone void treatment; (b) check tenet alignment across all five tenets (the void territory likely engages Bidirectional Interaction and Dualism most directly given common-knowledge's role in shared agency); (c) verify cross-references to related voids (likely candidates: voids-between-minds, perspectival-void, expertise-and-its-occlusion, mattering-void if shared significance is invoked); (d) check that the synthesis from the research note preserved load-bearing arguments without overclaim; (e) audit for "This is not X. It is Y." cliché violations per CLAUDE.md style ban; (f) if length still warrants attention after the review, queue a condense task as a follow-up rather than condensing within the deep-review (length is at soft-warning, not hard); (g) flag the article's stability — first-pass reviews on never-reviewed articles often surface 2-4 medium issues that absorb cleanly under the absorb-vs-clash discipline appropriate for freshly-published articles. Medium scope (~300-600 words touched expected). Tenet alignment: depends on review findings. See `/deep-review` skill.
+- **Output**: obsidian/voids/common-knowledge-void.md
 
 ### ✓ 2026-04-30: Optimistic-review apex/medium-status-voids-in-cognition.md (post-refine cycle counterpart)
 - **Type**: optimistic-review

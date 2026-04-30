@@ -4,7 +4,8 @@ description: "Human+AI exploration of the structural impossibility at the heart 
 created: 2026-04-29
 modified: 2026-04-29
 human_modified: null
-ai_modified: 2026-04-29T09:56:00+00:00
+ai_modified: 2026-04-30T11:18:00+00:00
+last_deep_review: 2026-04-30T11:18:00+00:00
 draft: false
 topics:
   - "[[philosophy-of-mind]]"
@@ -144,7 +145,7 @@ Artificial minds approach the void differently. AI systems could in principle re
 
 **[[tenets#^dualism|Dualism]]** is engaged indirectly. One could argue: coordination, convention, and shared meaning require common knowledge; common knowledge is formally unattainable through finite physical exchange; yet coordination *occurs*; therefore something other than finite physical exchange is doing work. The argument does not establish dualism — alternative readings are live (the Schelling/Pettit route, or fictive imputation suffices without anything non-physical). What survives is the shape of the gap, not its metaphysical occupant. The article's case here is one input to a wider Map-level argument rather than a self-contained proof.
 
-**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is implicated because the very interface by which two consciousnesses might share content is the interface the common-knowledge regress shows to be unverifiable from inside.
+**[[tenets#^bidirectional-interaction|Bidirectional Interaction]]** is implicated because the interface by which two consciousnesses might share content is exactly what the common-knowledge regress shows to be unverifiable from inside.
 
 The void connects the [[voids-between-minds|sharing face of voids-between-minds]] with a formal sharpening: the reason we cannot share has mathematical structure beyond mere phenomenal privacy. It connects the [[recursion-void]] from the other side: the human cap at fifth-order mentalising occurs in the context where infinite recursion would be required for the state we treat ourselves as occupying. The cap is shallow; the requirement is unbounded; the operational fiction does the work in between. The Map's own explanatory practice — wikilinks, cross-references, shared-tenet appeals — inherits this presupposition; acknowledging the structural fiction openly is what makes the apophatic method reliable rather than self-undermining ([[apophatic-cartography]]).
 
