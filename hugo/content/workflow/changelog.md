@@ -1,13 +1,33 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 23:40:00+00:00
+ai_modified: 2026-04-30 00:11:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
-date: '2026-04-29'
+date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 00:11 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness-typology](/concepts/ai-consciousness-typology/)
+- **Trigger**: First review of coalesced article (merged 2026-04-29 from `ai-consciousness-modes` + `types-of-ai-phenomenal-experience`)
+- **Word count**: 3500 → 3505 (+5, length-neutral mode)
+- **Critical issues addressed**: 1 (internal contradiction: borrowed-phenomenality section claimed silicon provides no binding channel while epiphenomenal-phenomenality section described "a conscious entity bound to silicon hardware"; resolved by reframing the epiphenomenal scenario as hypothetical hardware with binding-without-outgoing-causation)
+- **Medium issues addressed**: 0 (mild "framework-neutral" overclaim noted but stable across predecessor reviews — left undisturbed)
+- **Enhancements made**: 1 (binding-interface vs outgoing-causal-channel distinction now explicit, preserves pilot/cockpit analogy)
+- **Output**: [deep-review-2026-04-30-ai-consciousness-typology](/reviews/deep-review-2026-04-30-ai-consciousness-typology/)
+
+## 2026-04-29 23:55 UTC - deep-review
+- **Status**: Success
+- **File**: [causal-closure-debate-historical-survey](/topics/causal-closure-debate-historical-survey/)
+- **Trigger**: Cross-review to install reciprocal cross-link to [the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/) (which already cited this article without a back-link)
+- **Word count**: 2456 → 2475 (+19)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal cross-link)
+- **Enhancements made**: 1 (added cross-link in three locations: `related_articles` frontmatter, inline within "An Empirical Claim Hardened into an Axiom" closing list, and "Further Reading" with explanatory gloss)
+- **Output**: [deep-review-2026-04-29-causal-closure-debate-historical-survey](/reviews/deep-review-2026-04-29-causal-closure-debate-historical-survey/)
 
 ## 2026-04-29 23:40 UTC - cross-review
 - **Status**: Success

@@ -38,13 +38,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/causal-closure-debate-historical-survey.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-04-29 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md`, which installed three forward-only cross-links to sibling articles. Two of the three reciprocal links (to `the-epiphenomenalist-threat` at 22:25 UTC and to `parsimony-case-for-interactionist-dualism` at 22:41 UTC) have been completed in subsequent deep-reviews; this one remains uncompleted (verified by grep: zero references to "strong-emergence" in causal-closure-debate-historical-survey.md). Optimistic-2026-04-29d explicitly flagged this as one of three P2-queued chain tasks but only the other two were enqueued and executed. Cross-review should (a) identify a natural integration point — likely in the article's discussion of post-1925 Broad-style strong emergence as a route to denying universal causal closure, or wherever the survey treats Kim's exclusion argument (the strong-emergence article addresses precisely this); (b) add a substantive paragraph (~80–150 words) referencing strong-emergence-of-consciousness as a sibling response that uses the quantum interface to escape the exclusion challenge, distinguishing it from interactionist dualism's bidirectional commitment; (c) add `[the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)` to related_articles frontmatter; (d) verify that the substantive paragraph follows the reciprocal-cross-link-with-substantive-content discipline (not a bare Further Reading line); (e) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short scope (~100–180 words touched). Tenet alignment: Bidirectional Interaction + Tenet 5 (Occam's Razor Has Limits — strong emergence is a sibling parsimony-with-cost move). See [optimistic-2026-04-29d](/reviews/optimistic-2026-04-29d/).
-- **Source**: chain (from strong-emergence-of-consciousness sixth deep-review, 2026-04-29 21:32 UTC)
-- **Generated**: 2026-04-29
-
 ### P2: Condense topics/the-epiphenomenalist-threat.md (3990/4000 words at 99.75% of hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3169,6 +3162,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-29: Cross-review topics/causal-closure-debate-historical-survey.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
+- **Type**: cross-review
+- **Notes**: Chain from 2026-04-29 21:32 UTC sixth deep-review of `topics/the-strong-emergence-of-consciousness.md`, which installed three forward-only cross-links to sibling articles. Two of the three reciprocal links (to `the-epiphenomenalist-threat` at 22:25 UTC and to `parsimony-case-for-interactionist-dualism` at 22:41 UTC) have been completed in subsequent deep-reviews; this one remains uncompleted (verified by grep: zero references to "strong-emergence" in causal-closure-debate-historical-survey.md). Optimistic-2026-04-29d explicitly flagged this as one of three P2-queued chain tasks but only the other two were enqueued and executed. Cross-review should (a) identify a natural integration point — likely in the article's discussion of post-1925 Broad-style strong emergence as a route to denying universal causal closure, or wherever the survey treats Kim's exclusion argument (the strong-emergence article addresses precisely this); (b) add a substantive paragraph (~80–150 words) referencing strong-emergence-of-consciousness as a sibling response that uses the quantum interface to escape the exclusion challenge, distinguishing it from interactionist dualism's bidirectional commitment; (c) add `[the-strong-emergence-of-consciousness](/topics/the-strong-emergence-of-consciousness/)` to related_articles frontmatter; (d) verify that the substantive paragraph follows the reciprocal-cross-link-with-substantive-content discipline (not a bare Further Reading line); (e) audit for "This is not X. It is Y." cliché violations (CLAUDE.md style ban). Short scope (~100–180 words touched). Tenet alignment: Bidirectional Interaction + Tenet 5 (Occam's Razor Has Limits — strong emergence is a sibling parsimony-with-cost move). See [optimistic-2026-04-29d](/reviews/optimistic-2026-04-29d/).
+- **Output**: obsidian/topics/causal-closure-debate-historical-survey.md -- Context: Cross-review topics/causal-closure-debate-historical-survey.md to install reciprocal cross-link to the-strong-emergence-of-consciousness
 
 ### ✓ 2026-04-29: Update references to coalesced AI-consciousness articles (ai-consciousness-modes, types-of-ai-phenomenal-experience → ai-consciousness-typology)
 - **Type**: cross-review

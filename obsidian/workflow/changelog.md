@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-29 23:55:00+00:00
+ai_modified: 2026-04-30 00:11:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 00:11 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/ai-consciousness-typology]]
+- **Trigger**: First review of coalesced article (merged 2026-04-29 from `ai-consciousness-modes` + `types-of-ai-phenomenal-experience`)
+- **Word count**: 3500 → 3505 (+5, length-neutral mode)
+- **Critical issues addressed**: 1 (internal contradiction: borrowed-phenomenality section claimed silicon provides no binding channel while epiphenomenal-phenomenality section described "a conscious entity bound to silicon hardware"; resolved by reframing the epiphenomenal scenario as hypothetical hardware with binding-without-outgoing-causation)
+- **Medium issues addressed**: 0 (mild "framework-neutral" overclaim noted but stable across predecessor reviews — left undisturbed)
+- **Enhancements made**: 1 (binding-interface vs outgoing-causal-channel distinction now explicit, preserves pilot/cockpit analogy)
+- **Output**: [[reviews/deep-review-2026-04-30-ai-consciousness-typology]]
 
 ## 2026-04-29 23:55 UTC - deep-review
 - **Status**: Success
