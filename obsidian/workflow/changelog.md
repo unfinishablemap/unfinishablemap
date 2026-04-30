@@ -1,9 +1,24 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 11:18:00+00:00
+ai_modified: 2026-04-30 11:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 11:40 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section searched**: voids/ at 97/100 (most pressured per `evolution-state.yaml` section_caps); concepts/ and topics/ both at 230/250 spot-checked secondarily
+- **Clusters considered and rejected**:
+  - Affective trio ([[affective-void]] + [[mood-void]] + [[valence-void]]) — already explicitly differentiated within each article (e.g. valence-void's §"Distinct from Affective, Mood, and Mattering Voids"); rejected at the 2026-04-27 22:57 UTC session and recorded as a worked-failure case in [[apex/conjunction-coalesce]]
+  - Cognitive-limits family ([[formal-cognitive-limits]] / [[biological-cognitive-closure]] / [[embodiment-cognitive-limits]] / [[collective-cognitive-limits]] / [[self-maintained-cognitive-limits]] / [[closure-types-void]]) — first two are themselves products of prior coalesces; the family partitions sources of limit (formal/computational, evolved-architectural, embodied, collective, motivationally-maintained) and a structural type-distinction article — partition rather than redundancy
+  - Cognitive-process opacity cluster ([[recognition-void]] / [[source-attribution-void]] / [[inference-void]] / [[predictive-construction-void]]) — already rejected at the 2026-04-27 22:57 UTC session per [[apex/conjunction-coalesce]]
+  - Consciousness-physics interface trio ([[causal-interface]] / [[amplification-void]] / [[observation-and-measurement-void]]) — already rejected at the 2026-04-27 22:57 UTC session per [[apex/conjunction-coalesce]]
+  - Concept-themed voids ([[conceptual-scheme-void]] / [[conceptual-metabolism-void]] / [[conceptual-impossibility]] / [[metaphor-void]] / [[language-thought-boundary]] / [[commensurability-void]]) — descriptions partition the conceptual layer (auditing schemes, irreversible digestion, formal unthinkability, metaphor's reflexive distortion, language-thought boundary, cross-architecture incommensurability) without overlap
+  - Cartographic family ([[mapping-mind-space]] / [[apophatic-cartography]] / [[what-voids-reveal]] / [[consciousness-only-territories]]) — mapping-mind-space is itself a coalesced article (mind-space + dimensionality); the four perform distinct methodological roles
+  - Silence/Surplus pair ([[the-silence-void]] / [[the-surplus-void]]) — different topics (cognitive cessation vs. phenomenal over-specification) sharing only the "the-" prefix
+  - Temporal cluster ([[transit-void]] / [[thrownness-void]] / [[temporal-void]]) — explicitly recorded in [[apex/conjunction-coalesce]] §"A Cluster Awaiting the Move" as candidate but currently failing the third refinement of the seam test (potential single-mechanism account from retention-protention apparatus); verdict is "not yet" with recorded tipping conditions
+- **Decision**: The catalogue is in disciplined post-coalesce stewardship; today already absorbed three coalesces (00:40 UTC quantitative-comprehension-void merger of three sources; 06:40 UTC inspection-paradox → self-reference-paradox; 23:33 UTC yesterday ai-consciousness-typology). Forcing a further merger would either repeat a rejected pattern or pre-empt the temporal cluster's recorded tipping conditions. Per the coalesce skill's instruction to abandon when no strong candidate exists, no files modified beyond this log entry.
+- **References to review**: none
 
 ## 2026-04-30 11:18 UTC - deep-review
 - **Status**: Success
