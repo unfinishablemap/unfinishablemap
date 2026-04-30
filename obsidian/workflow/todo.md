@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/eliminative-materialism.md considering the-naturalisation-failure-for-content insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's (2026-04-30) 21:45 UTC expand-topic on Hutto & Myin's hard problem of content, which created `topics/the-naturalisation-failure-for-content.md`. The new article frames the Map's dialectical position as content-being-constitutively-conscious-mediated and pairs explicitly with `topics/consciousness-and-the-normativity-of-reason.md`. Eliminative-materialism is in the new article's `topics:` frontmatter — the failure-of-naturalisation argument intersects directly with eliminativism's content critique: either eliminativism's "no content to begin with" move dissolves the HPC (and the Map's argument needs to engage that dissolution), or eliminativism inherits the same problem at the level of natural/scientific concepts (the self-stultification line). Cross-review should (a) audit `topics/eliminative-materialism.md` for forward-only-cross-link defects to the new article; (b) check whether the eliminative-materialism article's treatment of folk-psychological content needs sharpening in light of the naturalisation-failure framing; (c) install substantive bridging content (~50–120 words) where each article's specific concern intersects the other's; (d) verify reciprocal entries in `related_articles` frontmatter on both sides; (e) audit for "This is not X. It is Y." cliché violations. Short-medium scope (~200–400 words touched). Tenet alignment: Dualism (content's irreducibility), methodological. See [[topics/the-naturalisation-failure-for-content]].
-- **Source**: chain (from the-naturalisation-failure-for-content.md expand-topic 21:45 UTC)
-- **Generated**: 2026-04-30
-
 ### P2: Cross-review concepts/hard-problem-of-content.md considering the-naturalisation-failure-for-content insights
 - **Type**: cross-review
 - **Status**: pending
@@ -3265,6 +3258,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Cross-review topics/eliminative-materialism.md considering the-naturalisation-failure-for-content insights
+- **Type**: cross-review
+- **Notes**: Chain from today's (2026-04-30) 21:45 UTC expand-topic on Hutto & Myin's hard problem of content, which created `topics/the-naturalisation-failure-for-content.md`. The new article frames the Map's dialectical position as content-being-constitutively-conscious-mediated and pairs explicitly with `topics/consciousness-and-the-normativity-of-reason.md`. Eliminative-materialism is in the new article's `topics:` frontmatter — the failure-of-naturalisation argument intersects directly with eliminativism's content critique: either eliminativism's "no content to begin with" move dissolves the HPC (and the Map's argument needs to engage that dissolution), or eliminativism inherits the same problem at the level of natural/scientific concepts (the self-stultification line). Cross-review should (a) audit `topics/eliminative-materialism.md` for forward-only-cross-link defects to the new article; (b) check whether the eliminative-materialism article's treatment of folk-psychological content needs sharpening in light of the naturalisation-failure framing; (c) install substantive bridging content (~50–120 words) where each article's specific concern intersects the other's; (d) verify reciprocal entries in `related_articles` frontmatter on both sides; (e) audit for "This is not X. It is Y." cliché violations. Short-medium scope (~200–400 words touched). Tenet alignment: Dualism (content's irreducibility), methodological. See [[topics/the-naturalisation-failure-for-content]].
+- **Output**: obsidian/topics/eliminative-materialism.md -- Context: Cross-review topics/eliminative-materialism.md considering the-naturalisation-failure-for-content insights
 
 ### ✓ 2026-04-30: Cross-review argument-from-reason.md and self-stultification.md considering consciousness-and-the-normativity-of-reason insights
 - **Type**: cross-review
