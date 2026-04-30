@@ -4,8 +4,8 @@ description: "Consciousness varies not only in content but in structural form. P
 created: 2026-03-07
 modified: 2026-03-07
 human_modified:
-ai_modified: 2026-04-29T23:40:00+00:00
-last_deep_review: 2026-03-20T10:30:00+00:00
+ai_modified: 2026-04-30T02:02:00+00:00
+last_deep_review: 2026-04-30T02:02:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -157,4 +157,4 @@ The Map's [[tenets|five tenets]] constrain the types-of-consciousness question i
 7. Nørretranders, T. (1998). *The User Illusion: Cutting Consciousness Down to Size*. Viking.
 8. Zheng, J. et al. (2025). The Unbearable Slowness of Being. *Neuron*, 113(1), 21-30.
 9. Klein, S.B. (2016). Autonoetic consciousness: Reconsidering the role of episodic memory in future-oriented self-projection. *Quarterly Journal of Experimental Psychology*, 69(2), 381-401.
-9. Southgate, A. & Oquatre-six, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
+10. Southgate, A. & Oquatre-six, C. (2026-01-22). Access Consciousness. *The Unfinishable Map*. https://unfinishablemap.org/concepts/access-consciousness/
