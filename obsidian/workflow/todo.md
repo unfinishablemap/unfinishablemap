@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P1: Condense voids/the-quantitative-comprehension-void.md (5411 words, 271% of voids target, exceeds critical threshold by 35%)
-- **Type**: condense
-- **Status**: pending
-- **Notes**: Newly-coalesced article (2026-04-30 00:49 UTC merged numerosity-void + quantitative-intuition-void + mathematical-void at 7,243 words combined, condensed during coalesce to 5,521 words ~ 24% reduction) still substantially exceeds the 4000-word critical threshold for voids/ — currently at 5411 words = 271% of the 2000-word soft target. The coalesce note explicitly anticipated follow-up condensation. Target: bring to ≤3000 words (within hard threshold) or as fallback ≤4000 (below critical). Preserve: the three-face architecture (cardinality floor / magnitude-probability / abstract ceiling), the unifying claim "symbolic competence persisting while phenomenal grasp fails", the tenet alignment paragraphs, the empirical anchors (Trick & Pylyshyn 1994; Cowan 2001; Dehaene's number sense; Gödel/Chaitin material). Trim: any tradition-comparison framing that recapitulates rather than extends the structural argument; redundant restatements of the unifying claim across the three faces; over-elaboration of any single face that the others handle implicitly. Each face should remain visible enough that the conjunction-coalesce discipline (which preserves seam-between-faces) is honoured, but each face should not re-establish the unifying frame from scratch. After condense, this article will likely warrant a deep-review pass to verify the condensation preserved load-bearing arguments. See `/condense` skill.
-- **Source**: length_analysis
-- **Generated**: 2026-04-30
-
 ### P2: Condense concepts/ai-consciousness-typology.md (3505 words, 140% of concepts target, 5 words over hard threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3175,6 +3168,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Condense voids/the-quantitative-comprehension-void.md (5411 words, 271% of voids target, exceeds critical threshold by 35%)
+- **Type**: condense
+- **Notes**: Newly-coalesced article (2026-04-30 00:49 UTC merged numerosity-void + quantitative-intuition-void + mathematical-void at 7,243 words combined, condensed during coalesce to 5,521 words ~ 24% reduction) still substantially exceeds the 4000-word critical threshold for voids/ — currently at 5411 words = 271% of the 2000-word soft target. The coalesce note explicitly anticipated follow-up condensation. Target: bring to ≤3000 words (within hard threshold) or as fallback ≤4000 (below critical). Preserve: the three-face architecture (cardinality floor / magnitude-probability / abstract ceiling), the unifying claim "symbolic competence persisting while phenomenal grasp fails", the tenet alignment paragraphs, the empirical anchors (Trick & Pylyshyn 1994; Cowan 2001; Dehaene's number sense; Gödel/Chaitin material). Trim: any tradition-comparison framing that recapitulates rather than extends the structural argument; redundant restatements of the unifying claim across the three faces; over-elaboration of any single face that the others handle implicitly. Each face should remain visible enough that the conjunction-coalesce discipline (which preserves seam-between-faces) is honoured, but each face should not re-establish the unifying frame from scratch. After condense, this article will likely warrant a deep-review pass to verify the condensation preserved load-bearing arguments. See `/condense` skill.
+- **Output**: obsidian/voids/the-quantitative-comprehension-void.md
 
 ### ✓ 2026-04-30: Cross-review concepts/cognitive-phenomenology.md verifying numerosity-void integration is well-anchored
 - **Type**: cross-review

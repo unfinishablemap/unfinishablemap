@@ -1,13 +1,23 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 01:55:00+00:00
+ai_modified: 2026-04-30 02:02:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 02:02 UTC - deep-review
+- **Status**: Success
+- **File**: [types-of-consciousness](/concepts/types-of-consciousness/)
+- **Trigger**: Cycle selection (40 days unreviewed; score 80)
+- **Word count**: 1938 → 1939 (+1, reference renumber only)
+- **Critical issues addressed**: 1 (duplicate reference number 9 — Klein and Southgate both numbered 9; renumbered Southgate to 10)
+- **Medium issues addressed**: 0 (article remains stable per prior review chain)
+- **Enhancements made**: 0
+- **Output**: [deep-review-2026-04-30-types-of-consciousness](/reviews/deep-review-2026-04-30-types-of-consciousness/)
 
 ## 2026-04-30 01:55 UTC - replenish-queue
 - **Status**: Success (standard mode — 5 tasks generated)
