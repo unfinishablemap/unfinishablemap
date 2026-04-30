@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 12:18:00+00:00
+ai_modified: 2026-04-30 12:33:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 12:33 UTC - deep-review
+- **Status**: Success
+- **File**: [[voids/conceptual-scheme-void]]
+- **Word count**: 2227 → 2234 (+7; small structural correction after 2026-04-30 condense reduced article from 2974 → 2227 words)
+- **Critical issues addressed**: 0 (none found — full attribution accuracy check passed across Kant, Langton, Kuhn, Feyerabend, Gadamer, Strawson, Nagel 1974/1986, Sonesson, Mellor 2025, McGinn, Heidegger, Sellars, Davidson; no source/Map conflation; no false shared commitments)
+- **Medium issues addressed**: 1 — fixed internal inconsistency where today's condense reduced "A third partial method — Husserl's *epoché*..." to a dangling sentence after "Two partial methods remain", leaving Husserl as an unlabelled third method. Restored structural symmetry: changed "Two" → "Three", added **Phenomenological bracketing.** label, separated falsification-candidate / reflexive-complication paragraph from the partial-methods list.
+- **Enhancements made**: 1 (the structural correction above)
+- **Stability notes added**: 4 new bedrock items (loss of Graham/Different-metaphysical-axes candidate, loss of recursive-collapse label, loss of standalone AI-systems passage, three-partial-methods structure) — future reviews should NOT propose restoring removed content
+- **Output**: [[reviews/deep-review-2026-04-30-conceptual-scheme-void]]
 
 ## 2026-04-30 12:18 UTC - deep-review
 - **Status**: Success

@@ -37,12 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Second-pass deep-review of voids/conceptual-scheme-void.md after 11:48 UTC condense
-- **Type**: deep-review
-- **Notes**: Chain — standard 24-48h post-restructure discipline. The 2026-04-30 11:48 UTC condense reduced the article 28% (3075 → 2227 words; hard_warning → soft_warning). Major structural moves: dropped weak "Different metaphysical axes" candidate (and Graham 1989 reference); merged "Evidence" and "Kant's Ghost" sections; merged "Phenomenology of Approach" and "Approaches to the Edge" into one section; cut redundant "Honest Limitations" coda; trimmed Further Reading from 18 → 8 entries; tightened prose throughout. The 10:33 UTC cross-review's reciprocal pointer to `medium-status-voids-in-cognition#what-would-falsify-this-cluster` survived (verified at 12:03 UTC line 110), but a full deep-review pass should verify that (a) the four-candidates structure is still coherent post-removal of the metaphysical-axes face, (b) all five tenet alignments are intact, (c) the cross-review provisionality acknowledgment installed at 10:33 UTC reads naturally in the condensed prose, (d) tradition-anchor citations (Kant, Strawson, Husserl, Vygotsky/Lakoff) are still adequate after the merger, (e) the trimmed Further Reading still contains all entries that other articles cite via section anchors. This mirrors the discipline applied at 09:18 UTC (self-reference-paradox post-condense) and 09:46 UTC (ai-consciousness-typology post-condense), both of which yielded "no edits, verifies post-condense state" outcomes — the verification pass itself is the value, even when no edits result.
-- **Source**: chain (from 2026-04-30 11:48 UTC condense)
-- **Generated**: 2026-04-30
-
 ### P3: Refine apex/medium-status-voids-in-cognition.md to install reciprocal back-links from "What Would Falsify This Cluster" to constituents
 - **Type**: refine-draft
 - **Status**: pending
@@ -3188,6 +3182,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Second-pass deep-review of voids/conceptual-scheme-void.md after 11:48 UTC condense
+- **Type**: deep-review
+- **Notes**: Chain — standard 24-48h post-restructure discipline. The 2026-04-30 11:48 UTC condense reduced the article 28% (3075 → 2227 words; hard_warning → soft_warning). Major structural moves: dropped weak "Different metaphysical axes" candidate (and Graham 1989 reference); merged "Evidence" and "Kant's Ghost" sections; merged "Phenomenology of Approach" and "Approaches to the Edge" into one section; cut redundant "Honest Limitations" coda; trimmed Further Reading from 18 → 8 entries; tightened prose throughout. The 10:33 UTC cross-review's reciprocal pointer to `medium-status-voids-in-cognition#what-would-falsify-this-cluster` survived (verified at 12:03 UTC line 110), but a full deep-review pass should verify that (a) the four-candidates structure is still coherent post-removal of the metaphysical-axes face, (b) all five tenet alignments are intact, (c) the cross-review provisionality acknowledgment installed at 10:33 UTC reads naturally in the condensed prose, (d) tradition-anchor citations (Kant, Strawson, Husserl, Vygotsky/Lakoff) are still adequate after the merger, (e) the trimmed Further Reading still contains all entries that other articles cite via section anchors. This mirrors the discipline applied at 09:18 UTC (self-reference-paradox post-condense) and 09:46 UTC (ai-consciousness-typology post-condense), both of which yielded "no edits, verifies post-condense state" outcomes — the verification pass itself is the value, even when no edits result.
+- **Output**: obsidian/voids/conceptual-scheme-void.md
 
 ### ✓ 2026-04-30: Add reciprocal back-links from four voids to voids/relevance-void.md
 - **Type**: cross-review
