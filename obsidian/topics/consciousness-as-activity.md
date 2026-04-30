@@ -1,10 +1,10 @@
 ---
 title: "Consciousness as Activity Rather Than Property"
-description: "Reframing consciousness from something the brain has to something the organism does—an activity-first ontology that dissolves old puzzles and strengthens interactionist dualism."
+description: "Recasting consciousness from a property the brain has to an activity the organism does—an activity-first ontology that strengthens interactionist dualism."
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-04-30T18:10:00+00:00
+ai_modified: 2026-04-30T20:26:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -36,7 +36,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-02-23
 last_curated:
-last_deep_review: 2026-03-22T01:41:00+00:00
+last_deep_review: 2026-04-30T20:26:00+00:00
 ---
 
 Most philosophy of mind treats consciousness as a property—something the brain *has*, the way a ball has mass or a surface has colour. The Unfinishable Map argues this framing is a mistake that generates false puzzles. Consciousness is better understood as an activity—something the organism *does*. The shift from noun to verb, from possession to performance, reframes the hard problem, aligns naturally with [[interactionist-dualism]], and explains why materialist reduction keeps failing: you cannot reduce an activity to the substrate on which it acts, any more than you can reduce dancing to legs.
@@ -77,7 +77,7 @@ James's theory of [[attention-as-interface|voluntary attention]] makes the activ
 
 ## What Activity Means Here
 
-Calling consciousness an activity is not mere metaphor. It carries specific ontological commitments.
+Calling consciousness an activity carries specific ontological commitments beyond mere metaphor.
 
 **Temporal constitution.** An activity exists only in its unfolding. Running doesn't exist at an instant—freeze the runner and you have a pose, not a run. Similarly, consciousness exists only as [[temporal-consciousness|temporal flow]]. A single time-slice of a brain state, no matter how detailed, cannot contain consciousness any more than a single frame of film contains a chase scene. The [[temporal-consciousness-structure-and-agency|temporal integration]] that constitutes experience requires ongoing activity.
 
