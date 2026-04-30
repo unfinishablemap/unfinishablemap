@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 13:46:00+00:00
+ai_modified: 2026-04-30 14:18:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 14:08 UTC - expand-topic
+- **Status**: Success
+- **Topic**: The Vagueness Void
+- **Output**: [[voids/vagueness-void]]
+- **Word count**: 1997 (within voids target 1500–2000; status: ok)
+- **Based on research**: yes — [[research/voids-vagueness-void-2026-04-30]]
+- **Structure**: three-faced conjunction-coalesce parallel to [[suspension-void]] and [[imagery-void]] — Sorites face (Unexplorable), introspective face (Occluded), higher-order face (Unexplorable); seam claim that each face inherits the indeterminacy of the others
+- **Anchors**: Williamson 1994 (margin-for-error principle, formal anchor); Hampton 2007 (typicality data, empirical anchor); Schwitzgebel (borderline consciousness, reflexive anchor); Haueis 2012 (substrate fuzziness)
+- **Tenet alignment**: primary Occam's Razor Has Limits (Tenet 5); secondary Dualism (introspective face) and Bidirectional Interaction (substrate fuzziness)
+- **Self-citations**: 2 — [[suspension-void]], [[imagery-void]]
+- **Voids capacity**: 97 → 98/100
 
 ## 2026-04-30 13:46 UTC - refine-draft
 - **Status**: Success
