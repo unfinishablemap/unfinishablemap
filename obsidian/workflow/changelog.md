@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 21:20:00+00:00
+ai_modified: 2026-04-30 21:45:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 21:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Hutto & Myin's hard problem of content (topic-level treatment)
+- **Output**: [[topics/the-naturalisation-failure-for-content]]
+- **Word count**: 2616 (87% of 3000 soft target)
+- **Based on research**: yes, [[hutto-myin-hard-problem-of-content-2026-04-27]] (also drew on existing [[concepts/hard-problem-of-content]] for non-contradiction)
+- **Distinct from concept page**: topic-level treatment frames the dialectical position the Map takes (content as constitutively conscious-mediated, parallel to normativity-of-reason move) rather than primarily expounding the HPC argument; isolates the content question as a hard problem orthogonal to the phenomenal-consciousness one and pairs explicitly with [[topics/consciousness-and-the-normativity-of-reason]]
+- **Honest limitation flagged**: REC remains live as a non-content alternative; Mann-Pain (2021) reply narrows criteria; Hutto and Myin themselves would reject the Map's borrowing
 
 ## 2026-04-30 21:20 UTC - deep-review
 - **Status**: Success

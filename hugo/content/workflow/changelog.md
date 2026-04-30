@@ -1,13 +1,47 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 20:35:00+00:00
+ai_modified: 2026-04-30 21:45:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 21:45 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Hutto & Myin's hard problem of content (topic-level treatment)
+- **Output**: [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/)
+- **Word count**: 2616 (87% of 3000 soft target)
+- **Based on research**: yes, [hutto-myin-hard-problem-of-content-2026-04-27](/research/hutto-myin-hard-problem-of-content-2026-04-27/) (also drew on existing [hard-problem-of-content](/concepts/hard-problem-of-content/) for non-contradiction)
+- **Distinct from concept page**: topic-level treatment frames the dialectical position the Map takes (content as constitutively conscious-mediated, parallel to normativity-of-reason move) rather than primarily expounding the HPC argument; isolates the content question as a hard problem orthogonal to the phenomenal-consciousness one and pairs explicitly with [consciousness-and-the-normativity-of-reason](/topics/consciousness-and-the-normativity-of-reason/)
+- **Honest limitation flagged**: REC remains live as a non-content alternative; Mann-Pain (2021) reply narrows criteria; Hutto and Myin themselves would reject the Map's borrowing
+
+## 2026-04-30 21:20 UTC - deep-review
+- **Status**: Success
+- **File**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Word count**: 3954 → 3984 (+30; length-neutral mode at 132% of soft threshold)
+- **Critical issues addressed**: 3 (improper-mixture FAPP-invisibility — added paragraph owning the dualist commitment; three "post-decoherence mechanisms" framed as three vocabularies with distinct *additional* commitments; selection-criterion problem expanded into substantive trilemma engaging functionalist collapse, GRW reduction, and non-reducible primitive routes)
+- **Medium issues addressed**: 7 (dual-mechanism prebiotic structure now candidly acknowledged; five considerations qualified by strength; falsifiability cost explicitly priced in rather than presented as virtue; structural seam fixed via consolidation of "Why Pre-Decoherence Faces Pressure" + "Macroscopic Superposition Question" → single "The Decoherence-Timescale Question" section; contested empirical claims relabeled with evidential status; McQueen burden-of-proof note added; Bidirectional Interaction tenet acknowledged as instantiated by construction)
+- **Enhancements made**: 5 language-tweak rewordings from review table (consciousness contribution framing; movable-cut symmetric phrasing; intellectual-honesty rephrased; renders-moot → sidesteps; actualisation model unfalsifiability paired with metaphysical modesty)
+- **Stability**: First deep-review of the coalesced article. Five bedrock disagreements (eliminative-materialist folk-vocabulary objection; MWI indexical-question malformedness; Buddhist deconstruction of selecting-self; demand for explicit quantum operator on consciousness; falsifiability weakness of post-decoherence variant) flagged as priced-in foundational positions, not flaws to fix. Should not be re-flagged as critical in future reviews.
+- **Output**: [deep-review-2026-04-30-forward-in-time-conscious-selection](/reviews/deep-review-2026-04-30-forward-in-time-conscious-selection/)
+
+## 2026-04-30 21:05 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) — coalesced article (2026-04-30 19:05 UTC merge of `non-retrocausal-conscious-selection-models` + `post-decoherence-selection-mechanisms`); ~4,105 words; no prior pessimistic review of unified version. Adversarial pass targeted (i) the improper-mixture FAPP-invisibility issue, (ii) the "three post-decoherence mechanisms" being one mechanism described three ways, (iii) the selection-criterion problem as regress rather than open question, (iv) the prebiotic-collapse dual-mechanism structure, (v) the five-considerations list (phenomenological fit, compatibility-with-objective-collapse, paradox-avoidance), (vi) the falsifiability-as-virtue framing of the actualisation model, (vii) the structural seam between forward-vs-retrocausal and pre-vs-post-decoherence framings, (viii) contested empirical claims (Hagan 2002; 2025 *Frontiers* coherence-domain study) doing load-bearing work while hedged, (ix) burden-of-proof asymmetry in McQueen 2023 Orch OR defence, (x) Bidirectional Interaction tenet enactment by assumption. Three high-severity issues (improper-mixture FAPP gap; three-mechanisms-one-mechanism; selection-criterion regress); two medium-high (falsifiability-as-virtue; bidirectional-interaction circularity); five medium/low. Strengths preserved: empirical reporting accuracy, cross-linking discipline, super-resistance section clarity, apophatic discipline in "What Forward-in-Time Selection Does Not Resolve."
+- **Output**: [pessimistic-2026-04-30d](/reviews/pessimistic-2026-04-30d/)
+
+## 2026-04-30 20:51 UTC - deep-review
+- **Status**: Success
+- **File**: [creative-consciousness](/concepts/creative-consciousness/)
+- **Word count**: 2678 → 2689 (+11; length-neutral mode at 108% of soft threshold)
+- **Critical issues addressed**: 2 (Kounios & Beeman 2009 citation regression — restored after condense pass dropped it; "is not X — it is Y" cliché at line 126 rephrased)
+- **Medium issues addressed**: 2 (folded redundant impasse sentence in "What the Phenomenology Reveals"; tightened brainstorming illustration in "Where Do Options Come From?")
+- **Enhancements made**: 0 (cross-linking already comprehensive after today's cross-review pass)
+- **Stability**: First review of unified article. Both ancestors (`consciousness-and-creative-distinctiveness`, `phenomenology-of-creative-insight`) had reached terminal stability through multiple reviews. Today's coalesce + condense introduced two regressions caught by this review.
+- **Output**: [deep-review-2026-04-30-creative-consciousness](/reviews/deep-review-2026-04-30-creative-consciousness/)
 
 ## 2026-04-30 20:35 UTC - condense
 - **Status**: Success

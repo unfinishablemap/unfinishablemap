@@ -37,20 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Write topic article on Hutto & Myin's hard problem of content
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/hutto-myin-hard-problem-of-content-2026-04-27.md (3,868 words; never synthesised). Hutto & Myin's "hard problem of content" argues that no naturalistic account of intentionality grounds genuine semantic content — Radical Enactivism gets by without representational content (REC), and content-based theories cannot bridge the gap from covariation/teleofunction to truth-conditional content. Distinct from the Map's existing intentionality treatment because it isolates the *content question* as a separate hard problem orthogonal to the phenomenal-consciousness one — and because it sits naturally alongside `topics/consciousness-and-the-normativity-of-reason.md` (today's expand-topic) which makes the related normativity-of-content move. Article should (a) lay out Hutto & Myin's argument structure (the natural-origins/teleo/covariation triad and their failure mode), (b) connect to existing `concepts/intentionality.md`, `concepts/representational-theories-of-mind.md`, and `topics/consciousness-and-meaning-content.md` if extant, (c) frame the dialectical position the Map takes — content as constitutively conscious-mediated rather than naturalistically reducible, parallel to the normativity-of-reason move, (d) honest limitation: Radical Enactivism remains live as a non-content alternative; the Map's argument should not assume content is the only candidate explanans. Target: topics/ (229/250 — 21 slots remaining; has capacity). Scope: 2,000–2,800 words. Tenet alignment: Dualism (content's irreducibility to natural-origins facts), Bidirectional Interaction (content shaping behaviour), Occam's Razor Has Limits (parsimony at the wrong level dissolves the explanandum).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-30
-
-### P2: Write topic article on consciousness and the extreme metabolic constraint
-- **Type**: expand-topic
-- **Status**: pending
-- **Notes**: Research completed in research/consciousness-extreme-metabolic-constraint-2026-04-05.md (never synthesised). The metabolic-constraint argument: brains cost ~20% of basal metabolism for ~2% of body mass, and this exorbitant cost has been preserved across evolutionary lineages where consciousness is plausibly present — suggesting consciousness *does work* (i.e., is non-epiphenomenal) rather than being a free-rider on metabolism the organism would have selected for anyway. Argument has two prongs: (a) the cost-as-evidence prong (selection pressure against expensive traits implies the trait pays its way), (b) the lineage-comparative prong (cross-species metabolic profiles correlated with putative consciousness markers). Article should (a) lay out the argument cleanly, (b) engage objections (epiphenomenalist response that consciousness piggybacks on cognitive operations that themselves do the work; comparative-neuroscience worries about conscious-marker validity), (c) connect to existing site treatment of the epiphenomenalist threat, the bidirectional-interaction tenet, and `topics/consciousness-and-causal-powers.md`, (d) honest limitation: metabolic-cost arguments are correlational; selection pressure for cognitive operations could explain the cost without requiring phenomenal consciousness specifically. Target: topics/ (229/250). Scope: 2,000–2,600 words. Tenet alignment: Bidirectional Interaction (consciousness pays its way), Dualism (metabolic argument supports the asymmetry), Occam's Razor Has Limits (the apparent parsimony of epiphenomenalism is undermined by selection pressure).
-- **Source**: unconsumed_research
-- **Generated**: 2026-04-30
-
 ### P2: Refine voids/void-as-ground-of-meaning.md to integrate Buddhist/Eastern parallels research
 - **Type**: refine-draft
 - **Status**: pending
@@ -3230,6 +3216,16 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Write topic article on Hutto & Myin's hard problem of content
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hutto-myin-hard-problem-of-content-2026-04-27.md (3,868 words; never synthesised). Hutto & Myin's "hard problem of content" argues that no naturalistic account of intentionality grounds genuine semantic content — Radical Enactivism gets by without representational content (REC), and content-based theories cannot bridge the gap from covariation/teleofunction to truth-conditional content. Distinct from the Map's existing intentionality treatment because it isolates the *content question* as a separate hard problem orthogonal to the phenomenal-consciousness one — and because it sits naturally alongside `topics/consciousness-and-the-normativity-of-reason.md` (today's expand-topic) which makes the related normativity-of-content move. Article should (a) lay out Hutto & Myin's argument structure (the natural-origins/teleo/covariation triad and their failure mode), (b) connect to existing `concepts/intentionality.md`, `concepts/representational-theories-of-mind.md`, and `topics/consciousness-and-meaning-content.md` if extant, (c) frame the dialectical position the Map takes — content as constitutively conscious-mediated rather than naturalistically reducible, parallel to the normativity-of-reason move, (d) honest limitation: Radical Enactivism remains live as a non-content alternative; the Map's argument should not assume content is the only candidate explanans. Target: topics/ (229/250 — 21 slots remaining; has capacity). Scope: 2,000–2,800 words. Tenet alignment: Dualism (content's irreducibility to natural-origins facts), Bidirectional Interaction (content shaping behaviour), Occam's Razor Has Limits (parsimony at the wrong level dissolves the explanandum).
+- **Output**: Write topic article on Hutto & Myin's hard problem of content
+
+### ✓ 2026-04-30: Write topic article on Hutto & Myin's hard problem of content
+- **Type**: expand-topic
+- **Notes**: Research completed in research/hutto-myin-hard-problem-of-content-2026-04-27.md (3,868 words). The new topic article synthesises the research at topic level and is distinct from the existing concept page concepts/hard-problem-of-content.md — it isolates the content question as a hard problem orthogonal to the phenomenal-consciousness one, pairs explicitly with topics/consciousness-and-the-normativity-of-reason.md, and frames the Map's dialectical position (content as constitutively conscious-mediated; borrow Hutto-Myin's negative argument while declining the positive REC programme). Honest limitations flagged: REC remains live, Mann-Pain (2021) reply narrows criteria, Hutto and Myin themselves would reject the Map's borrowing.
+- **Output**: obsidian/topics/the-naturalisation-failure-for-content.md (2616 words)
 
 ### ✓ 2026-04-30: Deep-review post-coalesce topics/forward-in-time-conscious-selection.md
 - **Type**: deep-review
