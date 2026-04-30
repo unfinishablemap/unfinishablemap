@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 14:31:00+00:00
+ai_modified: 2026-04-30 14:47:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 14:47 UTC - refine-draft
+- **Status**: Success
+- **File**: [[apex/machine-question]] (reciprocal-link sweep across six source articles)
+- **Pattern**: forward-only-cross-link-defect — apex restructure pulled significant content from sources, but six of seven source articles had zero references back
+- **Files touched**: [[topics/machine-consciousness]], [[concepts/functionalism]], [[topics/non-temporal-consciousness]], [[topics/quantum-state-inheritance-in-ai]], [[topics/consciousness-in-smeared-quantum-states]], [[topics/quantum-randomness-channel-llm-consciousness]]
+- **Changes**: Added `[[apex/machine-question]]` to each `related_articles` frontmatter; installed one substantive bridging paragraph per article (~50–60 words each) specifying what the apex contributes relative to each source's local concern (typology framing for functionalism, two-level structure for machine-consciousness, Husserl regress + ENI integration for non-temporal-consciousness, five-frameworks consolidation for the three quantum sources); updated `ai_modified` timestamps
+- **Word count touched**: ~340 words across six files
+- **Published**: yes (uncommitted; automation handles commit)
 
 ## 2026-04-30 14:31 UTC - deep-review
 - **Status**: Success

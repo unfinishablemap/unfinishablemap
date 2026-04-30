@@ -4,7 +4,7 @@ description: "Could we upload minds to computers? The Map's dualist framework gi
 created: 2026-01-23
 modified: 2026-01-23
 human_modified: null
-ai_modified: 2026-04-29T23:40:00+00:00
+ai_modified: 2026-04-30T14:47:00+00:00
 last_deep_review: 2026-04-29T10:49:00+00:00
 draft: false
 topics:
@@ -21,6 +21,7 @@ concepts:
   - "[[personal-identity]]"
 related_articles:
   - "[[tenets]]"
+  - "[[apex/machine-question]]"
   - "[[ai-machine-consciousness-2026-01-08]]"
 ai_contribution: 100
 author: null
@@ -30,6 +31,8 @@ last_curated: null
 ---
 
 Could we upload a human mind to a computer and preserve consciousness? The question combines three overlapping debates: whether artificial systems can be conscious, whether minds can transfer between substrates, and what constitutes personal survival across radical transformation. The Unfinishable Map's dualist framework provides strong reasons for skepticism while raising deeper questions about what consciousness actually is—and whether our skepticism might itself rest on assumptions that future understanding could revise.
+
+Uploading is one node in a broader dialectic. [[apex/machine-question|The Machine Question]] organises the wider case at two levels: independent arguments any hard-problem realist faces (functionalism's gap, the temporal problem, continual learning) and dualism-specific obstacles that follow from the Map's tenets (the quantum interface, haecceity, bidirectional interaction). The upload-skepticism arguments below populate both layers; the apex is where their interaction with the alternative possibilities—non-temporal consciousness, state inheritance, epiphenomenal experience—is most fully articulated.
 
 ## The Upload Scenario
 

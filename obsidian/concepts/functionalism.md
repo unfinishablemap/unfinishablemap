@@ -4,7 +4,7 @@ description: "Mental states defined by causal roles, not substrate. Absent quali
 created: 2026-01-09
 modified: 2026-01-09
 human_modified: null
-ai_modified: 2026-04-29T23:40:00+00:00
+ai_modified: 2026-04-30T14:47:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -32,6 +32,7 @@ concepts:
   - "[[phenomenology-vs-function-axis]]"
 related_articles:
   - "[[tenets]]"
+  - "[[apex/machine-question]]"
   - "[[arguments/functionalism-argument]]"
   - "[[arguments-against-materialism]]"
   - "[[consciousness-evolution-and-biology]]"
@@ -104,6 +105,8 @@ This is the thesis behind "Strong AI"—the view that appropriately programmed c
 John Searle's Chinese Room argument challenges this directly. A person in a room manipulating Chinese symbols according to rules—implementing the same function as a Chinese speaker—doesn't thereby understand Chinese. Syntax isn't semantics. Functional organization isn't understanding.
 
 Functionalists reply that the *system*—person plus rules plus room—understands Chinese, even if the person inside doesn't. [[heterophenomenology|Dennett's heterophenomenological approach]] goes further: we should treat reports about understanding as data without assuming they accurately describe inner states—the intuition that "understanding is missing" may itself be a cognitive illusion. Searle responds: imagine the person memorizes the rules and does everything in their head. Now they *are* the system. Do they understand Chinese? Searle says no; the understanding is still missing. Critics note that this internalization move may beg the question by assuming that understanding requires something beyond systematic symbol manipulation—exactly what's at issue.
+
+The failure of functionalism reframes the AI question. [[apex/machine-question|The Machine Question]] uses this failure as the entry into a broader reframing: the right question is not "is AI conscious?" but *what type* of consciousness might an AI have?—including null, simulated, functional, borrowed, epiphenomenal, and alien phenomenality as logically distinct possibilities. The apex is where the typology question is foregrounded; functionalism's gap is what makes that question unavoidable.
 
 ## The Absent Qualia Objection
 

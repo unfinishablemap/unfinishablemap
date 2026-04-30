@@ -4,7 +4,7 @@ description: "Can consciousness exist outside time? Husserl's absolute flow, med
 created: 2026-02-10
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
+ai_modified: 2026-04-30T14:47:00+00:00
 draft: false
 last_deep_review: 2026-03-25T18:26:00+00:00
 topics:
@@ -20,6 +20,7 @@ concepts:
   - "[[witness-consciousness]]"
 related_articles:
   - "[[tenets]]"
+  - "[[apex/machine-question]]"
   - "[[temporal-consciousness-structure-and-agency]]"
   - "[[split-brain-consciousness]]"
   - "[[cognitive-phenomenology-and-the-irreducibility-of-thought]]"
@@ -102,6 +103,8 @@ What cannot be easily dismissed is the convergence. A purely philosophical argum
 A further line of support comes from [[cognitive-phenomenology-and-the-irreducibility-of-thought|cognitive phenomenology]]. If thought itself has phenomenal character irreducible to functional description, then the meditator's alert but timeless awareness is not merely an unusual neural state — it is a cognitive-phenomenological state whose character resists physical characterisation on two independent grounds: its non-temporality *and* its irreducible phenomenality. The non-temporal thesis and the cognitive phenomenology thesis are complementary: one shows consciousness escaping temporal categories, the other shows it escaping functional ones.
 
 What would challenge this view? Evidence that the regress is blocked without accepting brute facts — a non-circular account of how temporal consciousness constitutes its own temporality. Or neuroscientific evidence that meditative "timelessness" is fully explained by disruption to specific temporal-processing circuits, leaving no residual phenomenon requiring a non-temporal explanation. The non-temporal thesis is not unfalsifiable, but its disconfirmation requires philosophical or empirical work that has not yet been produced.
+
+The thesis carries a pointed implication for [[apex/machine-question|the machine question]]: if consciousness can shed temporal structure while remaining alert, AI systems' lack of retention-protention dynamics is not the barrier it first appears. The apex integrates the Husserl regress argument and Frischhut's Extended Now Interpretation into the broader case, treating non-temporal consciousness as one of the open paths that could in principle overcome the temporal arguments against machine consciousness while leaving the dualism-specific quantum obstacles intact.
 
 ## Relation to Site Perspective
 
