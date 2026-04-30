@@ -4,7 +4,7 @@ description: "The experiential arc from deliberation through decision to volitio
 created: 2026-01-22
 modified: 2026-03-24
 human_modified:
-ai_modified: 2026-04-20T20:38:00+00:00
+ai_modified: 2026-04-30T09:31:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -48,7 +48,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-01-22
 last_curated:
-last_deep_review: 2026-03-24T08:51:00+00:00
+last_deep_review: 2026-04-30T09:31:00+00:00
 coalesced_from:
   - "/concepts/phenomenology-of-choice/"
   - "/concepts/phenomenology-of-volition/"
@@ -127,7 +127,7 @@ The [[mental-effort|phenomenology of effort]] provides the strongest evidence fo
 
 The strongest empirical objection comes from [[libet-experiments|Libet's experiments]] (1983): the readiness potential begins ~550ms before movement but ~350ms before subjects report awareness of intending to move — widely interpreted as proof that unconscious processes initiate action before consciousness arrives.
 
-This interpretation has substantially weakened. Schurger, Sitt, and Dehaene (2012) demonstrated that the readiness potential reflects stochastic fluctuations in neural activity, not an unconscious "decision" to act. Their accumulator model accounts for the RP's shape and the distribution of waiting times. A 2021 meta-analysis confirmed the evidence is "uncertain and based on only a small number of studies." See [[volitional-control]] for detailed treatment.
+This interpretation has substantially weakened. Schurger, Sitt, and Dehaene (2012) demonstrated that the readiness potential reflects stochastic fluctuations in neural activity, not an unconscious "decision" to act. Their accumulator model accounts for the RP's shape and the distribution of waiting times. Subsequent reviews have found the original interpretation contested and the evidence base narrower than its rhetorical reach suggests. See [[volitional-control]] for detailed treatment.
 
 The core argument does not depend on any specific mechanism. Effort phenomenology correlates with genuine cognitive engagement whether the underlying interface is Stapp's [[mental-effort|quantum Zeno model]], some other quantum process, or a mechanism not yet conceived.
 
@@ -184,7 +184,6 @@ The framework would face serious difficulty if: (1) trained introspectors report
 
 ## References
 
-1. Aydin, K., et al. (2007). Increased gray matter density in the parietal cortex of mathematicians. *American Journal of Neuroradiology*, 28(10), 1859-1864.
 1. Bayne, T. & Levy, N. (2006). The feeling of doing: Deconstructing the phenomenology of agency. In N. Sebanz & W. Prinz (Eds.), *Disorders of Volition*. MIT Press.
 1. Bergson, H. (1889). *Time and Free Will: An Essay on the Immediate Data of Consciousness*.
 1. Brass, M., & Haggard, P. (2007). To do or not to do: The neural signature of self-control. *Journal of Neuroscience*, 27(34), 9141–9145.
@@ -202,18 +201,3 @@ The framework would face serious difficulty if: (1) trained introspectors report
 1. Stapp, H.P. (2007). *Mindful Universe: Quantum Mechanics and the Participating Observer*. Springer.
 1. Tallis, R. (2010). *Aping Mankind: Neuromania, Darwinitis and the Misrepresentation of Humanity*. Acumen.
 1. Wegner, D. M. (2002). *The Illusion of Conscious Will*. MIT Press.
-1. Whitehead, A.N. (1929). *Process and Reality*. Macmillan.
-
-<!-- AI REFINEMENT LOG - 2026-03-30
-Changes made:
-- Expanded Veto section with Brass & Haggard's "what, when, whether" model (2007–2008) and Libet's temporal window detail
-- Added new subsection "The Libet Timing Challenge and Its Dissolution" under Effort as Evidence, integrating Schurger 2012 stochastic noise reinterpretation, Fried et al. 2011 single-neuron findings, and 2021 meta-analytic uncertainty
-- Integrated Mele's ecological validity critique into the Illusionist Challenge section
-- Strengthened Bidirectional Interaction tenet paragraph with Schurger and Mele findings
-- Added 4 new references: Brass & Haggard 2007, Fried et al. 2011, Libet et al. 1983, Schurger et al. 2012
-
-Based on integration of dedicated research from phenomenology-volitional-control-2026-03-20.md.
-Key improvements: article now directly engages the Libet timing challenge rather than mentioning it in passing, and marshals the Schurger/Mele/Brass-Haggard evidence as support for Tenet 3 (bidirectional interaction).
-
-This log should be removed after human review.
--->
