@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 22:45:00+00:00
+ai_modified: 2026-04-30 23:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 23:10 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/hard-problem-of-content]]
+- **Word count**: 2024 → 2127 (+103; ok at 85% of soft threshold)
+- **Critical issues addressed**: 0 (none found — 2nd review, prior gap closures stable)
+- **Medium issues addressed**: 2 (added compact "Predictive Processing as a Third Target" section closing the body-engagement gap with the predictive-processing concept already listed in frontmatter; integrated newly-published [[the-naturalisation-failure-for-content]] across topics list, body link, and Further Reading)
+- **Enhancements made**: 3 (PP mini-section ~95 words, topics frontmatter entry, Further Reading entry)
+- **Context**: Cross-review with [[the-naturalisation-failure-for-content]] — concept and topic page now form clean two-tier treatment with topic page carrying extended PP horn and conscious-mediated-content positive position
+- **Output**: [[reviews/deep-review-2026-04-30-hard-problem-of-content]]
 
 ## 2026-04-30 22:55 UTC - deep-review
 - **Status**: Success

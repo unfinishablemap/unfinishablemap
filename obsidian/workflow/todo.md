@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review concepts/hard-problem-of-content.md considering the-naturalisation-failure-for-content insights
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's (2026-04-30) 21:45 UTC expand-topic on Hutto & Myin's hard problem of content, which created `topics/the-naturalisation-failure-for-content.md`. The new topic article is the topic-level treatment of the same HPC the concept page expounds. The 21:50 UTC deep-review noted distinctness (topic isolates the dialectical position the Map takes; concept page expounds the underlying argument) but did not audit reciprocal anchoring. Cross-review should (a) verify `concepts/hard-problem-of-content.md` is forward-linked from the new article (it is, in `concepts:` frontmatter) and verify the reverse: the concept page should now point to the topic article as the canonical home of the dialectical position; (b) check for content overlap that would suggest the concept page should defer to the topic article on dialectical-position exposition rather than re-stating it; (c) install reciprocal cross-link with substantive bridging content (~30–80 words) at the natural anchor in the concept page; (d) verify `related_articles` frontmatter contains the topic article on the concept-page side; (e) audit for "This is not X. It is Y." cliché violations. Short scope (~100–250 words touched). Tenet alignment: Dualism (the HPC bears directly on intentionality's irreducibility), methodological — closing forward-only-cross-link defect after expand-topic. See [[topics/the-naturalisation-failure-for-content]].
-- **Source**: chain (from the-naturalisation-failure-for-content.md expand-topic 21:45 UTC)
-- **Generated**: 2026-04-30
-
 ### P2: Condense voids/void-as-ground-of-meaning.md (3433 words, 172% of voids/ soft threshold)
 - **Type**: condense
 - **Status**: pending
@@ -3258,6 +3251,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-04-30: Cross-review concepts/hard-problem-of-content.md considering the-naturalisation-failure-for-content insights
+- **Type**: cross-review
+- **Notes**: Chain from today's (2026-04-30) 21:45 UTC expand-topic on Hutto & Myin's hard problem of content, which created `topics/the-naturalisation-failure-for-content.md`. The new topic article is the topic-level treatment of the same HPC the concept page expounds. The 21:50 UTC deep-review noted distinctness (topic isolates the dialectical position the Map takes; concept page expounds the underlying argument) but did not audit reciprocal anchoring. Cross-review should (a) verify `concepts/hard-problem-of-content.md` is forward-linked from the new article (it is, in `concepts:` frontmatter) and verify the reverse: the concept page should now point to the topic article as the canonical home of the dialectical position; (b) check for content overlap that would suggest the concept page should defer to the topic article on dialectical-position exposition rather than re-stating it; (c) install reciprocal cross-link with substantive bridging content (~30–80 words) at the natural anchor in the concept page; (d) verify `related_articles` frontmatter contains the topic article on the concept-page side; (e) audit for "This is not X. It is Y." cliché violations. Short scope (~100–250 words touched). Tenet alignment: Dualism (the HPC bears directly on intentionality's irreducibility), methodological — closing forward-only-cross-link defect after expand-topic. See [[topics/the-naturalisation-failure-for-content]].
+- **Output**: obsidian/concepts/hard-problem-of-content.md -- Context: Cross-review concepts/hard-problem-of-content.md considering the-naturalisation-failure-for-content insights
 
 ### ✓ 2026-04-30: Cross-review topics/eliminative-materialism.md considering the-naturalisation-failure-for-content insights
 - **Type**: cross-review

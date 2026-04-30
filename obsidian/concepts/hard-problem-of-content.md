@@ -2,12 +2,13 @@
 title: "Hutto-Myin's Hard Problem of Content"
 description: "The argument by Hutto and Myin that no naturalistic theory can explain how neural states acquire genuine semantic content. The Map treats it as a structural ally to the explanatory gap."
 created: 2026-04-27
-modified: 2026-04-27
+modified: 2026-04-30
 human_modified:
-ai_modified: 2026-04-27T02:43:00+00:00
-last_deep_review: 2026-04-27T02:43:00+00:00
+ai_modified: 2026-04-30T23:10:00+00:00
+last_deep_review: 2026-04-30T23:10:00+00:00
 draft: false
 topics:
+  - "[[the-naturalisation-failure-for-content]]"
   - "[[enactivism-challenge-to-interactionist-dualism]]"
   - "[[eliminative-materialism]]"
   - "[[arguments-against-materialism]]"
@@ -57,6 +58,10 @@ Hutto and Myin argue that teleosemantics inherits the covariational problem rath
 
 The dilemma Hutto and Myin press: emphasise the covariational component of teleosemantics and inherit covariation's problems; emphasise the consumer-function component and lose intensionality. Neither horn delivers what content was supposed to be.
 
+## Predictive Processing as a Third Target
+
+More recent representationalist programmes—chiefly the predictive-processing accounts of Andy Clark and others—appear to escape the dilemma by recasting representation as the encoding of generative-model parameters tuned by prediction-error minimisation. In *Evolving Enactivism* (2017) Hutto and Myin argue that these accounts inherit the same chokepoint. Calling a parameter a "representation" because it figures in a model that minimises error does not change the underlying point that what the parameter does is covary with something. The third horn extends rather than escapes the original argument; for the topic-level treatment of all three horns together, see [[the-naturalisation-failure-for-content]].
+
 ## The Positive Alternative: Contentless Basic Minds
 
 The negative argument motivates Hutto and Myin's positive programme, Radical Enactive (or Embodied) Cognition. If naturalistic theories cannot deliver content for basic cognition, the conclusion they draw is that basic cognition does not have content. Basic minds engage the world through embodied skill, dynamic coupling, and ecological responsiveness rather than through the manipulation of representations.
@@ -104,6 +109,7 @@ The honest limitation: Hutto and Myin would reject the Map's conclusion. They ar
 - [[hard-problem-of-consciousness]]
 - [[predictive-processing]]
 - [[philosophy-of-language-under-dualism]]
+- [[the-naturalisation-failure-for-content]]
 - [[hutto-myin-hard-problem-of-content-2026-04-27]]
 
 ## References
