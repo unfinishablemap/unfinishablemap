@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 06:56:00+00:00
+ai_modified: 2026-04-30 07:10:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 07:10 UTC - deep-review (cross-review: medium-status-voids-in-cognition ↔ the-quantitative-comprehension-void's magnitude-probability face)
+- **Status**: Success
+- **File**: [[apex/medium-status-voids-in-cognition]]
+- **Word count**: 3219 → 3328 (+109 words; 80% → 83% of 4000 soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 (capacity-status section under-anchored; BI section addressed channel opacity but not variable opacity)
+- **Enhancements made**: 3 (QCV magnitude-probability face added as worked capacity-status example; BI section gained a "compounding observation" sentence on two-layer opacity—channel invisible AND modulated variables outside phenomenal access; `[[the-quantitative-comprehension-void]]` added to related_articles and used twice inline)
+- **Context**: Third review of this apex. The QCV (coalesced 2026-04-30 from numerosity-void / quantitative-intuition-void / mathematical-void) post-dates the apex's initial synthesis. Cross-review verified compatibility (QCV's magnitude-probability face is paradigmatically capacity-status, not medium-status; its breakdowns are quantitative, not mode-shifting) and surfaced two productive connections worth integrating: (1) QCV anchors the apex's capacity-status category with a concrete vivid example; (2) QCV's MQI argument compounds the BI tenet section by adding variable opacity to channel opacity. No critical issues. All prior stability notes carry forward.
+- **Output**: [[reviews/deep-review-2026-04-30-medium-status-voids-in-cognition-qcv-cross]]
 
 ## 2026-04-30 06:56 UTC - refine-draft
 - **Status**: Success

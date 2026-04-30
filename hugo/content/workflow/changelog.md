@@ -1,13 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 06:45:00+00:00
+ai_modified: 2026-04-30 06:56:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 06:56 UTC - refine-draft
+- **Status**: Success
+- **File**: [coalesce-condense-apex-stability](/concepts/coalesce-condense-apex-stability/)
+- **Original score**: not scored (curate.py review unavailable; refinement scope was task-prescribed)
+- **Changes**: Added new section "The Retention Test: Condense-Survival as Load-Bearing Evidence" (~270 words) between "When Coalesce Triggers Condense" and "When Coalesce Triggers Apex Re-Cross-Review"; supplied zahavian-minimal-self §"Constitutive as Kind, Not as Degree" as the worked example (installed 01:25 UTC, survived 32% condense at 02:55 UTC, recommendation→refine→condense-survival loop closed in 4h 38min); differentiated scope from queued P3 project-doc on condense discipline (this article: apex-stability principle; project-doc: editorial operation); made the optimistic-review chained-task-generator function explicit; added zahavian-minimal-self to related_articles and Further Reading; added a fourth References entry for the retention-test window
+- **Published**: yes
+- **Context**: Suggested by optimistic-2026-04-30 (Ideas for Later). Tenet alignment: Methodological / Tenet 5 (Occam's Razor Has Limits). Existing structure preserved.
 
 ## 2026-04-30 06:40 UTC - coalesce
 - **Status**: Success

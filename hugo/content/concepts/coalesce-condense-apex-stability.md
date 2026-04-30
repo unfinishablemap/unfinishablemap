@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-04-30 06:56:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -27,6 +27,7 @@ related_articles:
 - '[[writing-style]]'
 - '[[tenets]]'
 - '[[the-quantitative-comprehension-void]]'
+- '[[zahavian-minimal-self]]'
 title: The Coalesce-Condense-Apex-Stability Triple-Discipline
 topics: []
 ---
@@ -54,6 +55,14 @@ A coalesce triggers a condense under either of two conditions:
 **Redundant exposition introduced by the merge.** Even when the merged article is under the hard threshold, the merger may have introduced redundancy that a condense should remove. Two source articles often cover the same background material differently; the merge concatenates both treatments unless edited. The condense step in this case is not length-driven but redundancy-driven, and it preserves the merge's structural commitments while removing the duplicated exposition. This trigger is editorial-judgement-driven rather than mechanical: there is no analyser flag, only a reviewer's recognition that the merged article reads as if it had two introductions.
 
 When neither condition holds—the merge produces an article comfortably under the hard threshold and without redundant exposition—no condense is required. The chain breaks here, and the next stage (apex re-cross-review) is checked directly against the post-coalesce article.
+
+## The Retention Test: Condense-Survival as Load-Bearing Evidence
+
+A condense run yields a structural diagnostic the discipline can exploit: material that survives a condense without being trimmed is *load-bearing-by-revealed-preference* rather than *load-bearing-by-author-assertion*. The author's view of which content is essential is revised under length pressure; whatever the condense leaves intact has passed an editorial test the author did not stage in advance.
+
+The 2026-04-30 [zahavian-minimal-self](/concepts/zahavian-minimal-self/) case is the worked example. An optimistic-review on 2026-04-29 recommended installing a kind-vs-degree distinction; a refine-draft at 01:25 UTC installed approximately 330 words as a new "Constitutive as Kind, Not as Degree" subsection; a condense at 02:55 UTC reduced the article from 3,780 to 2,587 words (a 32% reduction); the new subsection survived intact, retaining its falsifying-scenario specification (clean elimination, not attenuation), its kind-vs-degree articulation, and its methodological-generalisation flag. The recommendation → refine → condense-survival loop closed in four hours thirty-eight minutes—an empirical confirmation that the optimistic-review's chained-task-generator function (recommendations propagating into refine-and-condense execution within a single window) operates as designed, and that the inserted material was load-bearing by the catalogue's own revealed preference rather than by author assertion alone.
+
+This article treats retention-as-evidence as an *apex-stability principle*: condense survival is a structural cue the apex re-cross-review can exploit when identifying which source-article claims a stable apex narrative may rely on. A parallel project-document on condense discipline treats condense as an editorial operation more broadly—preservation criteria for opening summaries, tenet connections, falsifying scenarios, and References sections. The two scopes are complementary: the editorial operation produces the condense; the apex-stability principle interprets the survival pattern.
 
 ## When Coalesce Triggers Apex Re-Cross-Review
 
@@ -102,6 +111,7 @@ The discipline also reflects the Map's commitment to its primary audience: LLMs 
 - [apex-articles](/apex/apex-articles/) — the curated list of apex articles whose stability the discipline maintains
 - [taxonomy-of-voids](/apex/taxonomy-of-voids/) — the apex article most frequently subject to the discipline's stability checks
 - [meta-epistemology-of-limits](/voids/meta-epistemology-of-limits/) — the canonical demonstration case of the full coalesce → condense → apex-stability arc
+- [zahavian-minimal-self](/concepts/zahavian-minimal-self/) — worked example for the retention test: the "Constitutive as Kind, Not as Degree" subsection survived a 32% condense intact, validating the recommendation → refine → condense-survival loop
 - [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/) — the cycle-level cousin: how recommendation-to-execution loop-closure operates over the 24-slot cycle
 - [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/) — the within-article cousin: when to absorb an objection into the article vs. engage it as a bedrock dialectical clash
 - [automation](/project/automation/) — the broader automation system in which the discipline operates
@@ -115,3 +125,21 @@ The triple-discipline is documented through the catalogue's changelog and review
 1. Southgate, A. & Oquatre-sept, C. (2026-04-27). The Conjunction-Coalesce. *The Unfinishable Map*. https://unfinishablemap.org/apex/conjunction-coalesce/
 2. *The Unfinishable Map* changelog, 2026-04-28 23:08 UTC through 2026-04-29 00:54 UTC: the canonical four-stage demonstration arc (coalesce → refine-wikilinks → condense → apex-stability-confirmation) on `meta-epistemology-of-limits` and `taxonomy-of-voids`.
 3. *The Unfinishable Map* optimistic-review, 2026-04-29: the review that first named the triple-discipline as a methodology distinct from genesis-side editing. https://unfinishablemap.org/reviews/optimistic-2026-04-29/
+4. *The Unfinishable Map* changelog, 2026-04-30 01:25 UTC through 02:55 UTC: the canonical retention-test worked example—optimistic-review-recommended subsection installed in `zahavian-minimal-self.md` survived a 32% article-level condense intact (3,780 → 2,587 words). The chain closure was named in the 04:17 UTC optimistic-2026-04-30 review at https://unfinishablemap.org/reviews/optimistic-2026-04-30/.
+
+<!-- AI REFINEMENT LOG - 2026-04-30
+Changes made:
+- Added new section "The Retention Test: Condense-Survival as Load-Bearing Evidence" between "When Coalesce Triggers Condense" and "When Coalesce Triggers Apex Re-Cross-Review" (~270 words)
+- Worked example: zahavian-minimal-self §"Constitutive as Kind, Not as Degree" — installed 01:25 UTC, survived 32% condense at 02:55 UTC
+- Made the optimistic-review chained-task-generator function (recommendation → refine → condense-survival loop, closed in 4h 38min) explicit
+- Differentiated scope from queued P3 project-doc on condense discipline: this article treats retention-as-evidence as an apex-stability principle; project-doc treats condense as broader editorial operation
+- Added zahavian-minimal-self to related_articles and Further Reading
+- Added retention-test changelog window as a fourth References entry
+- Updated ai_modified to 2026-04-30T06:56:00+00:00
+
+Tenet alignment: Methodological / Tenet 5 (Occam's Razor Has Limits) — the retention test is the catalogue's revealed-preference check on which content the simpler "trim it" reading would silently lose.
+
+Suggested by optimistic-2026-04-30 (Ideas for Later). Existing structure on coalesce/condense/apex-stability rhythms preserved.
+
+This log should be removed after human review.
+-->
