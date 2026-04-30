@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30T08:43:00+00:00
+ai_modified: 2026-04-30T10:02:00+00:00
 ai_system: claude-opus-4-7
 author: Andy Southgate
 concepts: []
@@ -36,6 +36,34 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 - **P2**: Low - nice to have, human approval needed
 
 ## Active Tasks
+
+### P2: Deep-review apex/medium-status-voids-in-cognition.md (post-pessimistic-refine verification)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: Chain from the 2026-04-30 08:43 UTC pessimistic-2026-04-30b review and the subsequent refine-draft (commit 17fdb9949) that added ~720 words across six load-bearing fixes — physicalist-deflation paragraph, per-tradition hedges (Heidegger/Frankfurt/Ratcliffe/Carruthers/Vervaeke), tightened criterion treating attention as a medium-adjacent boundary case and reconstructive episodic memory as a candidate medium-status face, new "What Would Falsify This Cluster" section with three operational candidates, reframed bidirectional-interaction bridge from evidence to consistency-and-suggestion, removed undefined "asymmetric mirror" phrase. Standard discipline on a ~720-word restructure: a verification deep-review should (a) confirm all six pessimistic-2026-04-30b critical/high/medium issues are now adequately absorbed without restating the original positions; (b) verify the new "What Would Falsify This Cluster" section's three conditions are genuinely risky rather than decorative (the pessimistic critique was specifically that falsification was decorative); (c) check that the tightened criterion now correctly excludes attention as a fifth medium-status void (or accepts it as a boundary case with explicit framing); (d) verify the closing-paragraph softening no longer contradicts the earlier non-physicality concession; (e) confirm structural cuts preserved (three-way typology, four-fold cluster, five-tradition convergence, three-part criterion, tenet bridge); (f) audit for "This is not X. It is Y." cliché violations introduced during rapid editing per CLAUDE.md style ban; (g) verify cross-links to constituents (mattering, relevance, noetic-feelings, conceptual-scheme) remain accurate after the criterion tightening. Short-medium scope (~150–400 words touched expected; absorption rather than clash discipline appropriate for a freshly-refined article). Tenet alignment: methodological. See [[reviews/pessimistic-2026-04-30b]] and `/deep-review` skill.
+- **Source**: chain (from apex/medium-status-voids-in-cognition.md pessimistic-refine)
+- **Generated**: 2026-04-30
+
+### P2: Cross-review four medium-status constituent voids against tightened criterion
+- **Type**: cross-review
+- **Status**: pending
+- **Notes**: Chain from the 2026-04-30 pessimistic-2026-04-30b refine of `apex/medium-status-voids-in-cognition.md` (commit 17fdb9949), which tightened the medium-status criterion to handle attention as a *medium-adjacent boundary case* (with "four" framed as provisional) and reconstructive episodic memory as a *candidate medium-status face* distinguished from memory's output. The four constituent voids cited by the apex — `voids/mattering-void.md`, `voids/relevance-void.md`, `voids/noetic-feelings-void.md`, `voids/conceptual-scheme-void.md` — predate the criterion's tightening and may now read as overcommitted to the strict three-condition framing. Cross-review should (a) audit each constituent's framing of the medium-status condition against the apex's now-tightened version; (b) verify each constituent acknowledges the apex's "four-as-provisional" stance rather than treating the four-fold cluster as definitive; (c) install reciprocal links to the apex's new "What Would Falsify This Cluster" section where each constituent's own falsification conditions can leverage the apex's framework; (d) note that `voids/mattering-void.md` and `voids/relevance-void.md` have NEVER been deep-reviewed (per evolution-state staleness audit) — this cross-review serves as their first independent reality-check; the cross-review should flag substantive issues for follow-up deep-review tasks rather than attempting full rewrites; (e) preserve each constituent's voice and don't import the apex's hedging mechanically. Short-medium scope (~250–500 words distributed across the four files; not all need updates if alignment is already adequate). Tenet alignment: methodological — closes the forward-only-cross-link defect on apex→constituent direction after the apex restructure.
+- **Source**: chain (from apex/medium-status-voids-in-cognition.md pessimistic-refine)
+- **Generated**: 2026-04-30
+
+### P2: Optimistic-review apex/medium-status-voids-in-cognition.md (post-refine cycle counterpart)
+- **Type**: optimistic-review
+- **Status**: pending
+- **Notes**: Chain from the 2026-04-30 08:43 UTC pessimistic-2026-04-30b review and the subsequent refine-draft (commit 17fdb9949 adding ~720 words). Standard pessimistic-then-optimistic discipline: pessimistic surfaces critical weaknesses, refine addresses them, optimistic captures what the refined article does well and what new opportunities the restructure opens. Optimistic-review should (a) catalogue the strengths of the now-refined article — particularly the new "What Would Falsify This Cluster" section's three operational candidates (controlled bypass of relevance filter, lesion-dissociation of the four operations, verifiable scheme-articulation while operating); (b) note the per-tradition hedges as a worked example of the absorption-vs-clash discipline applied to a five-tradition convergence claim; (c) examine the reframed bidirectional-interaction bridge (from evidence to consistency-and-suggestion) as a methodological move that may be applicable to other apex articles making similar dualism-channel-mapping moves; (d) identify expansion opportunities — particularly whether the now-tightened criterion's treatment of attention as boundary case warrants a dedicated "Attention as Medium-Adjacent" subsection or its own concept-page treatment (concepts/ at 233/250 = 93% capacity caveat applies); (e) flag any remaining tensions or new opportunities the refine opened. Short-medium scope (full review note in `obsidian/reviews/optimistic-2026-04-30c.md` or appropriate naming). Tenet alignment: methodological. See [[reviews/pessimistic-2026-04-30b]] and `/optimistic-review` skill.
+- **Source**: chain (from apex/medium-status-voids-in-cognition.md pessimistic-refine)
+- **Generated**: 2026-04-30
+
+### P2: First deep-review of voids/common-knowledge-void.md (never reviewed; soft-warning length)
+- **Type**: deep-review
+- **Status**: pending
+- **Notes**: AI-generated content (ai_contribution: 100) created from research/voids-common-knowledge-void-2026-04-29.md with no deep-review on file (per evolution-state staleness audit, listed under "never reviewed"). Article is also at 2,964 words (148% of voids 2,000-word soft target — soft-warning length status). First deep-review should (a) verify the article's coherence and completeness as a standalone void treatment; (b) check tenet alignment across all five tenets (the void territory likely engages Bidirectional Interaction and Dualism most directly given common-knowledge's role in shared agency); (c) verify cross-references to related voids (likely candidates: voids-between-minds, perspectival-void, expertise-and-its-occlusion, mattering-void if shared significance is invoked); (d) check that the synthesis from the research note preserved load-bearing arguments without overclaim; (e) audit for "This is not X. It is Y." cliché violations per CLAUDE.md style ban; (f) if length still warrants attention after the review, queue a condense task as a follow-up rather than condensing within the deep-review (length is at soft-warning, not hard); (g) flag the article's stability — first-pass reviews on never-reviewed articles often surface 2-4 medium issues that absorb cleanly under the absorb-vs-clash discipline appropriate for freshly-published articles. Medium scope (~300-600 words touched expected). Tenet alignment: depends on review findings. See `/deep-review` skill.
+- **Source**: staleness (never deep-reviewed)
+- **Generated**: 2026-04-30
 
 ### P3: Refine three-kinds-of-void.md with face-by-face mixed-classification example
 - **Type**: refine-draft

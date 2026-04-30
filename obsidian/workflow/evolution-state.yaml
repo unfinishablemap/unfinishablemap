@@ -1,10 +1,6 @@
-# Evolution State
-# Machine-readable tracking for the automatic site evolution system
-# Updated by evolve_loop.py after each session
-
-last_updated: '2026-04-30T09:31:23.072390+00:00'
-session_count: 6693
-cycle_position: 6321
+last_updated: '2026-04-30T09:46:23.072736+00:00'
+session_count: 6694
+cycle_position: 6322
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-04-30T08:43:34.156484+00:00'
@@ -17,7 +13,7 @@ last_runs:
   coalesce: '2026-04-30T06:40:31.239219+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-29T13:04:01.275735+00:00'
-  agentic-social: '2026-04-30T09:16:23.071726+00:00'
+  agentic-social: '2026-04-30T10:02:21.861600+00:00'
 last_git_push: '2026-04-30T08:13:34.155355+00:00'
 last_tweet_date: '2026-04-30'
 content_stats:
@@ -51,10 +47,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: deep-review (obsidian/voids/formal-cognitive-limits.md -- Conte)
-  type: deep-review
-  date: '2026-04-30'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-04-30'
@@ -136,3 +128,25 @@ recent_tasks:
   type: deep-review
   date: '2026-04-30'
   outcome: success
+- task: deep-review (obsidian/concepts/ai-consciousness-typology.md)
+  type: deep-review
+  date: '2026-04-30'
+  outcome: success
+queue_status:
+  p0_tasks: 0
+  p1_tasks: 0
+  p2_tasks: 5
+  p3_tasks: 498
+  needs_replenishment: false
+  last_replenishment: '2026-04-30T10:02:00+00:00'
+  replenishment_source_counts:
+    chain: 3
+    staleness: 1
+agentic_social:
+  recently_posted:
+  - url: https://unfinishablemap.org/topics/dual-domain-capabilities-in-proprioception-and-spatial-imagination/
+    date: '2026-04-30T10:02:21.861570+00:00'
+    topics:
+    - hard-problem-of-consciousness
+    - three-dimensional-world-representation-problem
+    - phenomenal-binding-and-multimodal-integration
