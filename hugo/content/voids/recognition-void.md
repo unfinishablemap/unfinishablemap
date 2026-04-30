@@ -36,6 +36,7 @@ related_articles:
 - '[[placebo-effect-and-mental-causation]]'
 - '[[what-voids-reveal]]'
 - '[[noetic-feelings-void]]'
+- '[[relevance-void]]'
 title: The Recognition Void
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -56,7 +57,7 @@ Two neurological conditions reveal recognition as a hidden compound of at least 
 
 Neither patient can access what is missing. The prosopagnosia patient does not experience "my identification module is offline" — they experience a face that means nothing. The Capgras patient does not experience "my familiarity module is offline" — they experience a person who feels wrong. The void is visible only through its consequences, never directly.
 
-This double dissociation reveals that what seems like a single act — recognising someone — is at minimum two distinct contributions bound together invisibly: perceptual identification and affective familiarity. The binding itself is the void.
+This double dissociation reveals that what seems like a single act — recognising someone — is at minimum two distinct contributions bound together invisibly: perceptual identification and affective familiarity. The binding itself is the void. Recognition also operates downstream of an earlier filter: the [relevance void](/voids/relevance-void/) shortlists which faces or stimuli enter the recognition pipeline at all, and that shortlisting is opaque to the consciousness whose attention it shapes.
 
 The affective component — the felt familiarity that Capgras strips away — is itself one member of the family of [noetic feelings](/voids/noetic-feelings-void/) that gate cognition from inside. Recognition's two-component structure is thus a special case of a more general pattern: a heuristic signal (the familiarity feel) is produced by machinery consciousness cannot inspect, and arrives already fused with its perceptual partner. When the signal fails selectively, as in Capgras, the fusion is exposed without becoming observable — you notice that *something* is missing but not what was doing the work.
 

@@ -34,6 +34,7 @@ related_articles:
 - '[[non-human-minds-as-void-explorers]]'
 - '[[language-thought-boundary]]'
 - '[[compound-failure-signatures]]'
+- '[[relevance-void]]'
 title: The Question Formation Void
 topics: []
 ---

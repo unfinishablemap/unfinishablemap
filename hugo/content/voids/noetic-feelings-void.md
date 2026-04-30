@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-24
-ai_modified: 2026-04-30 05:40:00+00:00
+ai_modified: 2026-04-30 10:33:00+00:00
 ai_system: claude-opus-4-7
 author: null
 coalesced_from:
@@ -16,7 +16,7 @@ concepts:
 - '[[phenomenology]]'
 - '[[explanatory-gap]]'
 created: 2026-02-27
-date: &id001 2026-04-29
+date: &id001 2026-04-30
 description: The felt signals that gate cognition from inside—knowing, rightness,
   familiarity, understanding, obviousness, coherence—are produced by heuristic machinery
   consciousness cannot inspect, and terminate inquiry before investigation can check
@@ -152,6 +152,8 @@ The claim that the void is structural would be weakened if training eliminated r
 
 A functionalist might dissolve the void by identifying understanding with a functional state. This dissolves the wrong problem: the functional account of the gating is available; what resists analysis is why functional success produces a phenomenal sense of rightness at all.
 
+The cluster-level conditions are taken up separately in [the apex's falsification candidates](/apex/medium-status-voids-in-cognition/#what-would-falsify-this-cluster): clean lesion-dissociation of gating from significance, filtering, and framing would weaken the convergence claim without dissolving the noetic-feelings face on its own.
+
 ## Implications
 
 1. **Metacognition is structurally suspect as a self-certification mechanism.** The system that tells us when we know cannot tell us when it is wrong—impugning not metacognition itself but any claim that its authority is final.
@@ -167,7 +169,7 @@ A functionalist might dissolve the void by identifying understanding with a func
 
 ## Further Reading
 
-- [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/) — Apex synthesis placing this void in a four-void cluster
+- [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/) — Apex synthesis placing this void in a (provisional) four-void cluster, with attention as a medium-adjacent boundary case and reconstructive episodic memory as a candidate further face
 - [recognition-void](/voids/recognition-void/) — Recognition as a noetic feeling that can fail
 - [self-opacity](/voids/self-opacity/) / [necessary-opacity](/voids/necessary-opacity/) — Structural reasons certain opacities cannot be lifted
 - [inference-void](/voids/inference-void/) / [relevance-void](/voids/relevance-void/) — The transitions and filters whose outputs noetic feelings register

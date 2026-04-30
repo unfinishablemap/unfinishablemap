@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-29
-ai_modified: 2026-04-29 11:34:00+00:00
+ai_modified: 2026-04-30 10:33:00+00:00
 ai_system: claude-opus-4-7
 author: null
 concepts:
@@ -9,7 +9,7 @@ concepts:
 - '[[mysterianism]]'
 - '[[qualia]]'
 created: 2026-04-29
-date: &id001 2026-04-29
+date: &id001 2026-04-30
 description: Human+AI exploration of why the felt weight of significance — things
   showing up as mattering at all — resists observation from inside the consciousness
   it constitutes.
@@ -53,7 +53,7 @@ The [affective void](/voids/affective-void/) concerns emotions we cannot feel �
 
 The [mood void](/voids/mood-void/) concerns the opacity of the affective atmosphere we are always inside of — the pervasive colouring of experience by a tone we cannot cleanly witness. Mattering is sharper: not the *colour* of the field but the *charge* — the sense that something here calls for response.
 
-These voids reciprocally illuminate one another; the mattering void names the medium-status of significance itself, and joins the relevance, noetic-feelings, and conceptual-scheme voids in the cluster of [medium-status voids in cognition](/apex/medium-status-voids-in-cognition/) — operations that structure other contents while remaining invisible from inside.
+These voids reciprocally illuminate one another; the mattering void names the medium-status of significance itself, and joins the relevance, noetic-feelings, and conceptual-scheme voids in the cluster of [medium-status voids in cognition](/apex/medium-status-voids-in-cognition/) — operations that structure other contents while remaining invisible from inside. The apex synthesis treats the four-fold cluster as provisional rather than exhaustive: attention has a strong medium-status profile and is treated as medium-adjacent, and reconstructive episodic memory has a candidate medium-status face distinguished from memory's output. The mattering claim does not depend on the cluster being closed at four.
 
 ## Four Traditions Converge on the Same Structure
 
@@ -76,6 +76,8 @@ The Map's [three-kinds taxonomy](/voids/three-kinds-of-void/) distinguishes the 
 The occlusion is medium-status. Mattering operates as a transparent medium: we see *through* it constantly but cannot see *it*. Like the eye that cannot observe itself seeing, consciousness cannot observe itself caring. Anxiety briefly lifts the occlusion, but only by collapsing the system, not by rendering it visible while operational. Anhedonia (discussed below) drains the system without revealing its mechanism. The transparency is part of how the medium does its work; mattering must be invisible-while-active for it to function as the unmarked default of attention.
 
 The unexplorable dimension comes from three converging arguments. First, *circularity*: any investigation of mattering must itself be motivated — there is no outside from which to approach the void. Second, *constitutivity*: if mattering is constitutive of consciousness, separating them for inspection is impossible in principle, like asking what wetness is like without water. Third, *the frame problem as computational shadow*: artificial systems have not solved general relevance determination after fifty years of attempts. This is compatible with the weaker claim that the right specification has not been found; the Map treats it as evidence weighted toward the structural reading without taking that reading as proven.
+
+The apex synthesis specifies what would tell against the cluster framing as a whole — see [What Would Falsify This Cluster](/apex/medium-status-voids-in-cognition/#what-would-falsify-this-cluster). The mattering face inherits two of those conditions in particular: clean lesion-dissociation of significance from the other three operations would weaken the convergence claim, and any paradigm that drained mattering while leaving action-selection unimpaired would push the void toward capacity-status rather than medium-status.
 
 ## Anhedonia: The Mattering Void as Lived Phenomenon
 

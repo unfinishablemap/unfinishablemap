@@ -58,6 +58,7 @@ related_articles:
 - '[[disappearance-voids]]'
 - '[[erasure-void]]'
 - '[[the-quantitative-comprehension-void]]'
+- '[[relevance-void]]'
 title: Self-Opacity
 topics:
 - '[[philosophy-of-mind]]'

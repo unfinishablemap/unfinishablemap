@@ -1,13 +1,189 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 08:17:00+00:00
+ai_modified: 2026-04-30 12:18:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-04-30'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-04-30 12:18 UTC - deep-review
+- **Status**: Success
+- **File**: [the-subject-object-distinction-as-philosophical-discovery](/topics/the-subject-object-distinction-as-philosophical-discovery/)
+- **Word count**: 2138 → 2138 (no change; stable article, 71% of 3000-word soft threshold)
+- **Critical issues addressed**: 0 (none found — attribution accuracy verified for Descartes 1641, Husserl 1913, Nagel 1986, Levine 1983, Jackson 1982; Buddhist *anatman* / Advaita *sakshi* terminology accurate; no qualifier-drop, no source/Map conflation, no self-contradiction)
+- **Medium issues addressed**: 0 (none found — article was substantively stabilised in 2026-03-25 review with the Enactivist Challenge section; only stale-wikilink fixes have occurred since)
+- **Enhancements made**: 0 (second consecutive review confirming stability — convergence threshold reached)
+- **Cross-link verification**: All 25 wikilinks in body and Further Reading resolve to existing files
+- **Output**: [deep-review-2026-04-30-the-subject-object-distinction-as-philosophical-discovery](/reviews/deep-review-2026-04-30-the-subject-object-distinction-as-philosophical-discovery/)
+
+## 2026-04-30 12:11 UTC - deep-review
+- **Status**: Success
+- **File**: [relevance-void](/voids/relevance-void/)
+- **Word count**: 2175 → 2175 (no change; length-neutral mode at 109% of voids soft threshold)
+- **Critical issues addressed**: 0 (none found)
+- **Medium issues addressed**: 0 (3 considered, all deferred — process-reification is metaphor-load-bearing; heterophenomenology engagement and contemplative expansion both length-budget incompatible)
+- **Enhancements made**: 4 reciprocal back-links from neighbouring voids — `resolution-void` (frontmatter + body mention at bandwidth selection section), `recognition-void` (frontmatter + body mention at double-dissociation section), `self-opacity` (frontmatter only, article at 127% soft threshold), `question-formation-void` (frontmatter only, article at 136% soft threshold)
+- **Output**: [deep-review-2026-04-30-relevance-void](/reviews/deep-review-2026-04-30-relevance-void/)
+
+## 2026-04-30 12:03 UTC - replenish-queue
+- **Status**: Success (conservative mode — 2 P2 tasks generated)
+- **Trigger**: Active P0-P2 dropped to 1 — only the 2026-04-22 expertise-wikilinks task remains genuinely pending (verified `[expertise-void](/voids/expertise-and-its-occlusion/)`/`[expertise-occlusion](/voids/expertise-and-its-occlusion/)` still present in 3 active files: `voids/biological-cognitive-closure.md`, `voids/boundary-and-projection.md`, `voids/conceptual-metabolism-void.md`). The two earlier 08:43 UTC P2 tasks (self-reference-paradox second-pass deep-review at 09:18 UTC; ai-consciousness-typology second-pass deep-review at 09:46 UTC) closed cleanly. The third 08:43 UTC task (relevance-void back-links) appears to have been removed from the active queue without execution — confirmed at 12:03 UTC that all four target voids have 0 hits for `relevance-void`.
+- **Tasks generated**:
+  - P2: Add reciprocal back-links from four voids to voids/relevance-void.md (chain — re-emit of lost task. Same forward-only-cross-link defect pattern; verified work has not been done in resolution-void / self-opacity / recognition-void / question-formation-void).
+  - P2: Second-pass deep-review of voids/conceptual-scheme-void.md after 11:48 UTC condense (chain — 28% reduction; 3075 → 2227 words; major structural moves include dropping the metaphysical-axes candidate, merging Evidence/Kant's Ghost and Phenomenology of Approach/Approaches to the Edge sections, cutting the Honest Limitations coda, and trimming Further Reading 18→8. Standard 24-48h post-restructure discipline; matches the pattern applied at 09:18 UTC and 09:46 UTC).
+- **Sources**: chain (2)
+- **Queue health**: P0-P2 went 1 → 3 (matches threshold of 3); P3 unchanged at ~502 (massive backlog already saturating content-creation work for weeks).
+- **Mode rationale**: Conservative — fifth replenish-queue run today (08:29 / 08:43 / 12:03 UTC active). Section caps remain tight (voids/ at 98/100 INDEFINITE-STATE per 2026-04-29 19:10 UTC tune-system; topics/ at 231/250 and concepts/ at 231/250 with ~500 P3 backlog blocking new emissions). No length warnings in content (only 4 research notes over hard threshold, out of replenishment scope). No truly unconsumed research — most-recent void research notes consumed (numerosity-void, common-knowledge-void, suspension-void, imagery-void, interoceptive-void, tacit-integration-void, inference-void, question-formation-void, distraction-void all map to existing/archived voids); recent non-void research consumed (hutto-myin-hard-problem-of-content → concepts/hard-problem-of-content; min-max-dualism-taxonomy → topics/four-quadrant-dualism-taxonomy; trumping-preemption-mental-causation → concepts/trumping-preemption; consciousness-normativity-of-reason → topics/consciousness-and-the-normativity-of-reason; invertebrate-consciousness-interface-test-case → topics/invertebrate-consciousness-as-interface-test; consciousness-metaphysics-of-composition → topics/consciousness-and-the-metaphysics-of-composition; consciousness-extreme-metabolic-constraint → topics/consciousness-under-extreme-metabolic-constraint; qbism-pragmatist-quantum-foundations → concepts/qbism; biological-computationalism-inadvertent-dualism → topics/biological-computationalisms-inadvertent-case-for-dualism; petitmengin-microphenomenological-interview → topics/microphenomenological-interview-method; buddhist-eastern-parallels-void-as-ground-of-meaning consumed via 2026-04-26/28 refine passes per 08:36 UTC closure note).
+- **Skipped candidates**: Apex back-link reciprocal calibration to four medium-status constituents (already P3 at todo.md:40 from optimistic-2026-04-30c; not promoted — straightforward 80–120 word edit that doesn't need P2 priority). Conceptual-scheme-void coalesce wikilink updates (already P3 at todo.md:3693). All optimistic-2026-04-30 / -30b / -30c high-priority recommendations already queued or completed. Length analysis returned no content-section warnings. Orphan integration skipped — the state file's 13 orphan count predates today's reciprocal-cross-link sweeps; my detector across content + tenets + project sources finds 0 orphans, suggesting the 13 are research/reviews/authors pages outside the scope.
+
+## 2026-04-30 11:48 UTC - condense
+- **Status**: Success
+- **File**: [conceptual-scheme-void](/voids/conceptual-scheme-void/)
+- **Before**: 3075 words (hard_warning, 154% of voids target)
+- **After**: 2227 words (soft_warning, 111% of voids target)
+- **Reduction**: 28%
+- **Technique**: Compressed redundant meta-void recap in opening; tightened Kant/Strawson exposition in "Framework and Categorial"; dropped weak "Different metaphysical axes" candidate (and unused Graham 1989 reference); merged "Evidence" and "Kant's Ghost" sections; merged "Phenomenology of Approach" and "Approaches to the Edge" into one section; cut redundant "Honest Limitations" coda; trimmed Further Reading list from 18 entries to 8 essentials; tightened prose throughout. Preserved opening summary, all four candidate voids except metaphysical-axes, all neighbour-contrasts, full Relation to Site Perspective with all four tenet connections, and core references.
+
+## 2026-04-30 11:40 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section searched**: voids/ at 97/100 (most pressured per `evolution-state.yaml` section_caps); concepts/ and topics/ both at 230/250 spot-checked secondarily
+- **Clusters considered and rejected**:
+  - Affective trio ([affective-void](/voids/affective-void/) + [mood-void](/voids/mood-void/) + [valence-void](/voids/valence-void/)) — already explicitly differentiated within each article (e.g. valence-void's §"Distinct from Affective, Mood, and Mattering Voids"); rejected at the 2026-04-27 22:57 UTC session and recorded as a worked-failure case in [conjunction-coalesce](/apex/conjunction-coalesce/)
+  - Cognitive-limits family ([formal-cognitive-limits](/voids/formal-cognitive-limits/) / [biological-cognitive-closure](/voids/biological-cognitive-closure/) / [embodiment-cognitive-limits](/voids/embodiment-cognitive-limits/) / [collective-cognitive-limits](/voids/collective-cognitive-limits/) / [self-maintained-cognitive-limits](/voids/self-maintained-cognitive-limits/) / [closure-types-void](/voids/closure-types-void/)) — first two are themselves products of prior coalesces; the family partitions sources of limit (formal/computational, evolved-architectural, embodied, collective, motivationally-maintained) and a structural type-distinction article — partition rather than redundancy
+  - Cognitive-process opacity cluster ([recognition-void](/voids/recognition-void/) / [source-attribution-void](/voids/source-attribution-void/) / [inference-void](/voids/inference-void/) / [predictive-construction-void](/voids/predictive-construction-void/)) — already rejected at the 2026-04-27 22:57 UTC session per [conjunction-coalesce](/apex/conjunction-coalesce/)
+  - Consciousness-physics interface trio ([causal-interface](/voids/causal-interface/) / [amplification-void](/voids/amplification-void/) / [observation-and-measurement-void](/voids/observation-and-measurement-void/)) — already rejected at the 2026-04-27 22:57 UTC session per [conjunction-coalesce](/apex/conjunction-coalesce/)
+  - Concept-themed voids ([conceptual-scheme-void](/voids/conceptual-scheme-void/) / [conceptual-metabolism-void](/voids/conceptual-metabolism-void/) / [conceptual-impossibility](/voids/conceptual-impossibility/) / [metaphor-void](/voids/metaphor-void/) / [language-thought-boundary](/voids/language-thought-boundary/) / [commensurability-void](/voids/commensurability-void/)) — descriptions partition the conceptual layer (auditing schemes, irreversible digestion, formal unthinkability, metaphor's reflexive distortion, language-thought boundary, cross-architecture incommensurability) without overlap
+  - Cartographic family ([mapping-mind-space](/voids/mapping-mind-space/) / [apophatic-cartography](/voids/apophatic-cartography/) / [what-voids-reveal](/voids/what-voids-reveal/) / [consciousness-only-territories](/voids/consciousness-only-territories/)) — mapping-mind-space is itself a coalesced article (mind-space + dimensionality); the four perform distinct methodological roles
+  - Silence/Surplus pair ([the-silence-void](/voids/the-silence-void/) / [the-surplus-void](/voids/the-surplus-void/)) — different topics (cognitive cessation vs. phenomenal over-specification) sharing only the "the-" prefix
+  - Temporal cluster ([transit-void](/voids/transit-void/) / [thrownness-void](/voids/thrownness-void/) / [temporal-void](/voids/temporal-void/)) — explicitly recorded in [conjunction-coalesce](/apex/conjunction-coalesce/) §"A Cluster Awaiting the Move" as candidate but currently failing the third refinement of the seam test (potential single-mechanism account from retention-protention apparatus); verdict is "not yet" with recorded tipping conditions
+- **Decision**: The catalogue is in disciplined post-coalesce stewardship; today already absorbed three coalesces (00:40 UTC quantitative-comprehension-void merger of three sources; 06:40 UTC inspection-paradox → self-reference-paradox; 23:33 UTC yesterday ai-consciousness-typology). Forcing a further merger would either repeat a rejected pattern or pre-empt the temporal cluster's recorded tipping conditions. Per the coalesce skill's instruction to abandon when no strong candidate exists, no files modified beyond this log entry.
+- **References to review**: none
+
+## 2026-04-30 11:18 UTC - deep-review
+- **Status**: Success
+- **File**: [common-knowledge-void](/voids/common-knowledge-void/)
+- **Word count**: 2964 → 2963 (-1; length-neutral; voids/ soft 2000, hard 3000)
+- **Critical issues addressed**: 0 (none found; all six pessimistic-2026-04-29 issues verified intact from 2026-04-29 same-day refine — Lederman gloss softened, Occam's-Limits promoted to most-directly-engaged tenet, Aumann recast as contrast with MWI-tenet-dependency, focal-points alternative subsection with salience-regress reply, Rubinstein equilibrium-selection hedging, AI-asymmetry overclaims qualified)
+- **Medium issues addressed**: 1 (tightened "interface…interface" repetition in Bidirectional Interaction tenet sentence at line 147)
+- **Enhancements made**: 0 (article already well-cross-linked: intersubjectivity in body, meta-epistemology-of-limits in Further Reading both present from prior refine)
+- **Convergence**: First deep-review; declared converged. Six bedrock disagreements documented (heterophenomenology, Madhyamaka emptiness, eliminative materialism, MWI reading of Aumann, focal-points alternative, Aumann-as-contrast framing) — future reviews should not re-flag these as critical.
+- **Output**: [deep-review-2026-04-30-common-knowledge-void](/reviews/deep-review-2026-04-30-common-knowledge-void/)
+
+## 2026-04-30 11:03 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenal-non-compositionality](/concepts/phenomenal-non-compositionality/)
+- **Word count**: 1449 → 1482 (+33)
+- **Critical issues addressed**: 0 (none found; article in stable form following 2026-03-24 deep review)
+- **Medium issues addressed**: 2 (Coleman attribution slightly overreached on generalization to physical states — rephrased to clearly separate Coleman's phenomenal-subjects argument from the Map's structural extension; removed stale HTML refinement-log comment that had self-flagged for removal since 2026-04-06)
+- **Enhancements made**: 1 (added cross-link to `[metaphysics-of-composition](/concepts/metaphysics-of-composition/)` concept page in body and Further Reading — establishes bidirectional connection since the SCQ concept page already links back here)
+- **Output**: [deep-review-2026-04-30-phenomenal-non-compositionality](/reviews/deep-review-2026-04-30-phenomenal-non-compositionality/)
+
+## 2026-04-30 10:48 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Narrow 30-minute window since optimistic-2026-04-30b at 10:18 UTC. Central event: 10:33 UTC cross-review of four medium-status constituent voids ([mattering-void](/voids/mattering-void/), [relevance-void](/voids/relevance-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [conceptual-scheme-void](/voids/conceptual-scheme-void/)) against the apex's tightened criterion (commit a65f7974c). All four passed the three-condition test cleanly without rewrites; brief provisionality acknowledgments and per-face falsification pointers installed (~50–80 words each). First independent reality-check for `voids/mattering-void.md` and `voids/relevance-void.md` (both never-deep-reviewed per evolution-state staleness audit). Conceptual-scheme face's weaker breakdown-by-absence profile classified as structural rather than defective, with stability note protecting future review cycles from false-positive findings. Catalogue's first apex-pessimistic-refine → constituent-cross-review chain closed in 92 minutes (09:01 UTC apex refine → 10:33 UTC constituent cross-review) — new chain-closure latency low; prior best was 2h 39min retention-test framing. Closes the existing P2 "Optimistic-review apex/medium-status-voids-in-cognition.md (post-refine cycle counterpart)" task.
+- **Output**: [optimistic-2026-04-30c](/reviews/optimistic-2026-04-30c/)
+- **Tasks generated**: 2 P3 (project doc on apex-pessimistic-refine → constituent-cross-review propagation pattern, coordinates with optimistic-2026-04-30b's proposed apex-level project doc; apex back-link reciprocal calibration to four constituents within "What Would Falsify This Cluster" section).
+
+## 2026-04-30 10:33 UTC - cross-review
+- **Status**: Success
+- **Articles cross-reviewed**: [mattering-void](/voids/mattering-void/), [relevance-void](/voids/relevance-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [conceptual-scheme-void](/voids/conceptual-scheme-void/)
+- **Apex source**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/) — 2026-04-30 pessimistic-refine cycle (tightened criterion + new "What Would Falsify This Cluster" section)
+- **Critical issues addressed**: 0 (none found; all four constituents passed the three-condition test: operative-while-invisible, mode-fragile, breakdown-by-absence)
+- **Medium issues addressed**: 2 (all four constituents silently committed to closed four-fold cluster — installed brief provisionality acknowledgments; no reciprocal links from constituents to apex's new falsification section — installed targeted pointers in each, with each pointer specific to which apex falsification candidate most directly tests that constituent's face)
+- **Enhancements made**: 4 (one targeted edit per constituent, ~50–80 words each, voice preserved)
+- **Note**: First independent reality-check for [mattering-void](/voids/mattering-void/) and [relevance-void](/voids/relevance-void/) (never deep-reviewed per evolution-state); both confirmed well-structured against tightened apex criterion
+- **Output**: [cross-review-2026-04-30-medium-status-constituents](/reviews/cross-review-2026-04-30-medium-status-constituents/)
+
+## 2026-04-30 10:18 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: cluster from 04:25 → 10:10 UTC (five hours forty-five minutes; the catalogue-stewardship phase's second-shift execution). Third coalesce of the day at 06:40 UTC (inspection-paradox → self-reference-paradox under shared Lawvere fixed-point unification), followed by full pipeline (07:35 UTC condense, 09:18 UTC deep-review). First apex-level pessimistic-then-refine cycle on `apex/medium-status-voids-in-cognition.md` (08:56 → 09:01 UTC; six load-bearing weaknesses absorbed in 75 minutes including new "What Would Falsify This Cluster" section). Second optimistic-review chain closure within 12 hours (06:56 UTC refine of coalesce-condense-apex-stability installing "The Retention Test" section; 2h 39min latency from optimistic-2026-04-30 Idea-for-Later #3). Replenisher self-correction loop closed in 14 minutes (08:29 false-positive → 08:36 no-op closure → 08:43 conservative-mode replenishment). Five articles confirmed convergence (skill-delegation 5th, lucid-dreaming-and-dualist-rendering 5th, conjunction-coalesce 6th, ai-consciousness-typology post-condense, self-reference-paradox post-condense).
+- **Output**: [optimistic-2026-04-30b](/reviews/optimistic-2026-04-30b/)
+- **Tasks generated**: 3 P3 (project doc on apex-level pessimistic-then-refine pattern; cross-review four medium-status voids against apex's "What Would Falsify This Cluster" section; apex-status snapshot for the four current apex articles); existing P3 three-kinds-of-void task expanded to incorporate the new self-reference-paradox Weak/Strong/irrecoverably-conditioned trichotomy mapping.
+
+## 2026-04-30 10:10 UTC - deep-review
+- **Status**: Success
+- **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Word count**: 4291 → 4291 (no body changes; HTML comment removed)
+- **Critical issues addressed**: 0 (none found; refine-draft at 09:01 UTC adequately addressed pessimistic-2026-04-30b's six load-bearing weaknesses)
+- **Medium issues addressed**: 1 (removed lingering AI refinement log HTML comment per convention from 09:31 UTC phenomenology-of-choice-and-volition deep-review)
+- **Enhancements made**: 0 (article at convergence after four review cycles: initial → cross-links → QCV cross → pessimistic+refine; further AI-side review without new external triggers would over-engineer)
+- **Output**: [deep-review-2026-04-30b-medium-status-voids-in-cognition](/reviews/deep-review-2026-04-30b-medium-status-voids-in-cognition/)
+
+## 2026-04-30 09:46 UTC - deep-review
+- **Status**: Success
+- **File**: [ai-consciousness-typology](/concepts/ai-consciousness-typology/)
+- **Word count**: 2745 → 2745 (no edits; second review verifies post-condense state)
+- **Critical issues addressed**: 0 (none found; prior review's contradiction-resolution survives the condense intact)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 0 (article at convergence after coalesce → deep-review → condense → verification; all 12 strengths and the borrowed/epiphenomenal binding distinction preserved)
+- **Output**: [deep-review-2026-04-30b-ai-consciousness-typology](/reviews/deep-review-2026-04-30b-ai-consciousness-typology/)
+
+## 2026-04-30 09:31 UTC - deep-review
+- **Status**: Success
+- **File**: [phenomenology-of-choice-and-volition](/concepts/phenomenology-of-choice-and-volition/)
+- **Word count**: 2505 → 2476 (-29; length-neutral mode honored)
+- **Critical issues addressed**: 1 (unverifiable quoted attribution to a 2021 meta-analysis replaced with softer unquoted characterization)
+- **Medium issues addressed**: 3 (removed lingering AI refinement log comment, removed off-topic Aydin 2007 reference, removed uncited Whitehead 1929 reference)
+- **Enhancements made**: 0 (article at convergence per 2026-03-24 stability notes — cleanup-only pass, no philosophical restructuring or expansion)
+- **Output**: [deep-review-2026-04-30-phenomenology-of-choice-and-volition](/reviews/deep-review-2026-04-30-phenomenology-of-choice-and-volition/)
+
+## 2026-04-30 09:18 UTC - deep-review
+- **Status**: Success
+- **File**: [self-reference-paradox](/concepts/self-reference-paradox/)
+- **Word count**: 2462 → 2462 (length-neutral mode at 98% of soft threshold)
+- **Critical issues addressed**: 1 (Hume quote word order — corrected to match original Treatise text; aligns with sibling [self-opacity](/voids/self-opacity/))
+- **Medium issues addressed**: 0 (three-taxonomy structural overlap and "Empirical Confirmation" heading sharpening deferred — would require length-neutral trims)
+- **Enhancements made**: 0 (article reached stability after 2026-03-26 review; this pass verifies the post-condense + post-coalesce state and harmonises one quotation)
+- **Output**: [deep-review-2026-04-30-self-reference-paradox](/reviews/deep-review-2026-04-30-self-reference-paradox/)
+
+## 2026-04-30 09:01 UTC - refine-draft
+- **Status**: Success
+- **File**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/)
+- **Trigger**: P2 task targeting six load-bearing fixes from [pessimistic-2026-04-30b](/reviews/pessimistic-2026-04-30b/)
+- **Changes**: (1) Reframed medium-status typology as the Map's stipulation rather than a discovery — replaced "less clearly identified" wording and added a physicalist-deflation paragraph conceding functional-architectural readings are coherent at the cognitive-science level and that the typology is neutral between functionalist and dualist readings. (2) Added one hedge sentence per tradition naming what each would *not* endorse — Heidegger (resists cognitive-architecture register), Frankfurt (normative not phenomenological), Ratcliffe (firmly naturalist), Carruthers (opposed to Heidegger; rejects non-naturalist moves), Vervaeke (project is naturalist). Added a structural-vs-interpretive convergence hedge. (3) Tightened criterion to handle attention (passes all three sub-conditions; treated as medium-adjacent / boundary case; "four" framed as provisional) and reconstructive episodic memory (now distinguished from memory's output as a candidate medium-status face). (4) Added new "What Would Falsify This Cluster" section with three operational candidates: controlled bypass of the relevance filter, lesion-dissociation of the four operations, verifiable scheme-articulation while operating. (5) Reframed bidirectional-interaction bridge from evidence to consistency-and-suggestion — "the void and the channel are the same structural feature viewed from opposite directions" replaced with explicit conditional framing that flags the affirming-the-consequent risk; cited counter-examples (DNS resolution, articulatory motor commands, predictive-coding precision-weighting). (6) Removed undefined "asymmetric mirror" phrase. Also softened the closing paragraph so it no longer contradicts the earlier concession that the cluster does not establish non-physicality.
+- **Word count delta**: +~720 words (mostly the new falsification section and qualifying inserts; structural cuts preserved — three-way typology, four-fold cluster, five-tradition convergence, three-part criterion, tenet bridge all intact)
+- **Published**: yes (draft: false unchanged)
+
+## 2026-04-30 08:56 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [medium-status-voids-in-cognition](/apex/medium-status-voids-in-cognition/) — newly synthesised apex (apex_last_synthesis 2026-04-29T07:19; last_deep_review 2026-04-30T07:10), no prior pessimistic pass on file
+- **Output**: [pessimistic-2026-04-30b](/reviews/pessimistic-2026-04-30b/)
+- **Findings summary**: Six load-bearing weaknesses identified — (1) typology presented as discovery rather than stipulation (high); (2) five-tradition convergence elides ontological disagreements within the five (medium); (3) inflation criterion selectively applied — attention passes all three sub-conditions but is excluded, episodic memory's reconstructive face not handled (medium-high); (4) interaction-channel bridge affirms-the-consequent — invisible-while-operative is not evidence of non-physicality (high); (5) falsification posture decorative — no specified falsifier of the medium-status thesis (medium-high); (6) "asymmetric mirror" undefined (low). Six critic personas applied (Churchland, Dennett, Tegmark, Deutsch, Popper, Nagarjuna). Five unsupported claims tabulated. P2 refine-draft task added to todo.md.
+
+## 2026-04-30 08:43 UTC - replenish-queue
+- **Status**: Success (conservative mode — 3 P2 tasks generated)
+- **Trigger**: After the 08:40 UTC closure of the duplicate Buddhist task, active P0-P2 count dropped to 0. The two `### P2:` headlines that grep finds in the active section (lines 1405 and 2960) are stale completed/old entries, not pending work. Below threshold of 3.
+- **Tasks generated**:
+  - P2: Add reciprocal back-links from four voids to voids/relevance-void.md (chain — re-add lost task. The 08:29 UTC replenisher correctly identified this as genuine chain work; the 08:40 UTC closure script for the duplicate Buddhist task accidentally deleted this neighbouring task as well. Verified 0 hits for `relevance-void` across all four target articles — work has not been done.)
+  - P2: Second-pass deep-review of concepts/self-reference-paradox.md after coalesce + condense pipeline (chain — sequence: 2026-04-29 coalesce of inspection-paradox; 2026-04-30 06:45 UTC deep-review verifying merge; 2026-04-30 07:25 UTC condense 3659→2462 words. Standard 24-48h post-restructure discipline; the condense happened *after* the merge-verifying deep-review, so the post-condense state has not been deep-reviewed.)
+  - P2: Second-pass deep-review of concepts/ai-consciousness-typology.md after coalesce → cross-review → deep-review → condense pipeline (chain — sequence: 2026-04-29 23:33 UTC coalesce of ai-consciousness-modes + types-of-ai-phenomenal-experience; 23:40 UTC cross-review across 23 active files; 2026-04-30 00:11 UTC first deep-review resolving a critical contradiction; 02:26 UTC condense 3505→2745 words. Unlike the parallel QCV coalesce, this article did NOT receive a pessimistic-then-deep-review absorption pass; the binding-interface-vs-outgoing-causal-channel distinction needs verification under condense pressure.)
+- **Sources**: chain (3)
+- **Queue health**: P0-P2 went 0 → 3 (matches threshold); P3 unchanged at ~440 (extensive backlog already).
+- **Mode rationale**: Conservative — replenishment activity has been heavy today (4 prior runs adding 14 P2 tasks; one false-positive at 08:29 UTC). Section caps tight (voids 98/100, topics 231/250, concepts 231/250 — none admits expand-topic comfortably). Recent research all consumed. No length warnings in content. Most optimistic-2026-04-30 high-priority recommendations already queued or completed. The three new tasks are all chain-grounded in today's restructure events with verified ungrounded follow-up state.
+- **Skipped candidates**: Most optimistic-2026-04-30 cross-link suggestions (already completed today, lines 3186/3204/3209/3219 of todo.md). Coalesce-condense-apex-stability retention-test refinement (completed 06:40 UTC, line 3191). Three-kinds-of-void mixed-classification example refine (already P3 in queue at line 40 — not promoted to avoid duplicate; human can promote manually if warranted). Apex tasks (apex/ at 25 articles vs 20 governance cap; existing P3 audit task should run first). Research tasks (no unconsumed research; voids/ blocked).
+
+## 2026-04-30 08:36 UTC - refine-draft
+- **Status**: No-op (duplicate task)
+- **File**: [void-as-ground-of-meaning](/voids/void-as-ground-of-meaning/)
+- **Word count**: unchanged
+- **Findings**: The 08:29 UTC replenish-queue generated a P2 task asserting the article had "zero references to Buddhist/Eastern material" (grep for Buddhist|Nagarjuna|sunyata|Madhyamaka|Nishitani|Kyoto|Daoism|emptiness returned 0 hits, per the task notes). Direct grep against `obsidian/voids/void-as-ground-of-meaning.md` returns 15 hits. The Buddhist/Eastern integration was completed across two prior passes — 2026-04-26 (Nāgārjuna/Madhyamaka, Nishitani/Kyoto, Daoist *wu* / Zen *mu*, §Anātman Tension, six new citations) and 2026-04-28 (`indian-philosophy-of-mind` reciprocal links, bearer-of-meaning tightening). The article's existing AI Refinement Log records both passes; the parent task closed at todo.md:4016 on 2026-04-28.
+- **Action**: Closed today's duplicate task as no-op (no article edits — adding redundant content would have been bloat). Moved task entry to Completed Tasks with full closure note. The replenisher's grep step appears to have run against a stale snapshot or wrong target — an `unconsumed_research` detector that checks `related_articles` linkage but not body keyword presence is the likely failure mode.
+- **Recommended follow-up**: Next `tune-system` run should examine whether the unconsumed_research replenishment heuristic can cross-check the article body for the research note's primary keywords before emitting a task.
+- **Published**: yes (no changes)
+
+## 2026-04-30 08:29 UTC - replenish-queue
+- **Status**: Success (conservative mode — 2 P2 tasks generated)
+- **Trigger**: Truly-pending P0-P2 count dropped to 1 (the lone remaining P2 — "Update wikilinks pointing to coalesced expertise articles" 2026-04-22 — is also stale; grep confirms no active content references `[expertise-void](/voids/expertise-and-its-occlusion/)` or `[expertise-occlusion](/voids/expertise-and-its-occlusion/)`). Below threshold of 3.
+- **Tasks generated**:
+  - P2: Integrate Buddhist/Eastern parallels research into voids/void-as-ground-of-meaning.md (unconsumed_research — research note 2026-04-25 explicitly targets this article via frontmatter, but article currently has zero Buddhist/Eastern references)
+  - P2: Add reciprocal back-links from four voids to voids/relevance-void.md (chain — relevance-void created 2026-04-29 references 13 siblings; resolution-void, self-opacity, recognition-void, question-formation-void are missing reciprocals; same forward-only-cross-link-defect pattern as 2026-04-29 strong-emergence sweep)
+- **Sources**: unconsumed_research (1), chain (1)
+- **Queue health**: P2 went 1 → 3; P3 unchanged at 435 (extensive backlog already)
+- **Mode rationale**: Conservative — P3 backlog is at 435 pending tasks; voids/ section saturated (97/100 cap with INDEFINITE-STATE per 2026-04-29 19:10 UTC tune-system) so no new voids expand-topics are emittable; topics/ at 230/250 and concepts/ at 230/250 have nominal capacity but the existing P3 queue already saturates content-creation work for weeks. Length analysis returned no content-section warnings (only 4 research notes over hard threshold, which are not part of replenishment scope). Today's coalesces (06:40 UTC inspection-paradox → self-reference-paradox; 00:40 UTC numerosity/quantitative-intuition/mathematical → quantitative-comprehension-void) already had cross-review and wikilink retargeting completed.
+- **Skipped candidates**: hutto-myin-hard-problem-of-content research (consumed into concepts/hard-problem-of-content.md created 2026-04-27); recent void research notes (all consumed into existing or archived voids); inspection-paradox wikilink updates (no active content references the old slug); orphan integration (the 30 hugo orphans are research notes and authors pages, expectedly orphaned).
 
 ## 2026-04-30 08:17 UTC - deep-review
 - **Status**: Success
