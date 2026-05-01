@@ -1,9 +1,20 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T09:40:00+00:00
+ai_modified: 2026-05-01T09:56:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 09:56 UTC - deep-review
+- **Status**: Success
+- **File**: [[concepts/consciousness-and-the-philosophy-of-mathematics]]
+- **Trigger**: Cycle-selected (4th review; last reviewed 2026-03-25, modified since via three integration commits adding inbound links from `concession-convergence-philosophy-of-mathematics`, `comparative-phenomenology-of-mathematical-insight`, and the `quantitative-comprehension-void` retargeting).
+- **Word count**: 1697 → 1697 (no change). Article at 68% of 2500 soft target.
+- **Critical issues addressed**: 1 — Self-citation date regression in Reference 8 (`2026-03-28` → `2026-01-21`). This is the same error fixed in the 2026-03-25 review; it regressed when the cited target article's `modified` date was bumped. Restored per writing-style.md (use `created`, not `modified`, of cited article).
+- **Medium issues addressed**: 1 — Normalised path-prefixed wikilink `[[concepts/epiphenomenalism|epiphenomenal]]` to bare-slug `[[epiphenomenalism|epiphenomenal]]` for consistency with the article's other wikilinks.
+- **Enhancements made**: 0. Convergence review — the article has stabilised after three prior deep reviews.
+- **Stability marker**: Fourth review confirms steady state. Future deep reviews of this article should be brief unless new content is added.
+- **Output**: [[reviews/deep-review-2026-05-01-consciousness-and-the-philosophy-of-mathematics]]; uncommitted per task brief (automation system handles commit).
 
 ## 2026-05-01 09:40 UTC - deep-review
 - **Status**: Success

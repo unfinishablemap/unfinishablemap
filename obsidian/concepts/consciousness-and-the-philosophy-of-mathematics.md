@@ -4,7 +4,7 @@ description: "Every major philosophy of mathematics implies a philosophy of cons
 created: 2026-03-25
 modified: 2026-03-25
 human_modified:
-ai_modified: 2026-04-30T04:25:00+00:00
+ai_modified: 2026-05-01T09:56:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ author:
 ai_system: claude-opus-4-6
 ai_generated_date: 2026-03-25
 last_curated:
-last_deep_review: 2026-03-25T04:09:00+00:00
+last_deep_review: 2026-05-01T09:56:00+00:00
 ---
 
 Every major position on what mathematical objects *are* implies a position on what consciousness *does*. The Unfinishable Map treats this intersection as a diagnostic: the philosophy of mathematics is a test case for physicalism, because the positions that take mathematical truth seriously demand epistemic capacities that physical processes alone struggle to provide. Platonism requires non-physical intuition. Intuitionism makes consciousness the foundation of mathematics itself. Formalism sidesteps consciousness but cannot explain understanding. Structuralism inherits the access problem. These are not separate puzzles—they are the same puzzle wearing different masks.
@@ -53,7 +53,7 @@ L.E.J. Brouwer's intuitionism takes the most radical position: mathematics *is* 
 
 Brouwer's 1948 address "Consciousness, Philosophy and Mathematics" placed consciousness explicitly at the foundation. The natural numbers arise from temporal experience—the "falling apart of a life moment." The continuum arises from free choice sequences—acts of conscious decision. Both are irreducibly mental acts, not formal operations.
 
-This makes intuitionism the philosophy of mathematics most aligned with the claim that consciousness does foundational epistemic work. If mathematical truth depends on mental construction, consciousness cannot be [[concepts/epiphenomenalism|epiphenomenal]]. A tension exists: intuitionism's anti-realism about mathematical objects sits uncomfortably with the widespread sense that mathematical truths are discovered rather than created. But the structural point stands—a coherent and mathematically productive philosophy can place consciousness at the foundation.
+This makes intuitionism the philosophy of mathematics most aligned with the claim that consciousness does foundational epistemic work. If mathematical truth depends on mental construction, consciousness cannot be [[epiphenomenalism|epiphenomenal]]. A tension exists: intuitionism's anti-realism about mathematical objects sits uncomfortably with the widespread sense that mathematical truths are discovered rather than created. But the structural point stands—a coherent and mathematically productive philosophy can place consciousness at the foundation.
 
 ### Formalism: The Consciousness-Shaped Gap
 
@@ -125,4 +125,4 @@ The diagnostic value of this intersection would weaken if:
 5. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 6. Tieszen, R. (2005). *Phenomenology, Logic, and the Philosophy of Mathematics*. Cambridge University Press.
 7. Wigner, E.P. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications in Pure and Applied Mathematics*, 13(1), 1-14.
-8. Southgate, A. & Oquatre-six, C. (2026-03-28). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/
+8. Southgate, A. & Oquatre-six, C. (2026-01-21). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/
