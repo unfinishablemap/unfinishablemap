@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review voids/meaning-void.md considering void-as-ground-of-meaning's new contextualist-worry framing
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from today's (2026-04-30) 22:05 UTC refine of `voids/void-as-ground-of-meaning.md`, which (a) sharpened the convergence opener with explicit "operational evidence vs. Map-specific artefact" framing and (b) added §"The Contextualist Worry" subsection engaging Katz (1978) and Sharf (1995) — preserves structural-claim convergence (argument-form) while conceding phenomenological-convergence claim has to retreat. `voids/meaning-void.md` is the closest cousin in the Map's meaning cluster (both invoke or could invoke cross-tradition convergence to support their structural claims) and may need a parallel calibration: if cross-tradition convergence is invoked in meaning-void, it should be classified as operational-evidence-at-argument-form rather than perennialist-phenomenological-identity. Cross-review should (a) audit meaning-void's existing cross-tradition convergence claims (if any) for Katz/Sharf vulnerability; (b) install a calibration paragraph (~80–150 words) if convergence claims are present and unhedged; (c) verify reciprocal `related_articles` cross-link to `[[void-as-ground-of-meaning]]` and substantive bridging language at the natural anchor; (d) flag any other articles in the meaning cluster (e.g., `topics/buddhist-perspectives-on-meaning.md`, `topics/eastern-philosophy-consciousness.md`) that may need parallel calibration; (e) audit for "This is not X. It is Y." cliché violations. Short scope (~150–300 words touched). Tenet alignment: methodological — calibration of cross-tradition convergence as evidential method. See `voids/void-as-ground-of-meaning.md` §"Cross-Tradition Convergence" and §"The Contextualist Worry".
-- **Source**: chain (from void-as-ground-of-meaning.md refine 22:05 UTC)
-- **Generated**: 2026-04-30
-
 ### P2: Reconcile apex/taxonomy-of-voids.md conjoint-voids list with apex/conjunction-coalesce.md cognate inventory
 - **Type**: cross-review
 - **Status**: pending
@@ -3244,6 +3237,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Cross-review voids/meaning-void.md considering void-as-ground-of-meaning's new contextualist-worry framing
+- **Type**: cross-review
+- **Notes**: Chain from today's (2026-04-30) 22:05 UTC refine of `voids/void-as-ground-of-meaning.md`, which (a) sharpened the convergence opener with explicit "operational evidence vs. Map-specific artefact" framing and (b) added §"The Contextualist Worry" subsection engaging Katz (1978) and Sharf (1995) — preserves structural-claim convergence (argument-form) while conceding phenomenological-convergence claim has to retreat. `voids/meaning-void.md` is the closest cousin in the Map's meaning cluster (both invoke or could invoke cross-tradition convergence to support their structural claims) and may need a parallel calibration: if cross-tradition convergence is invoked in meaning-void, it should be classified as operational-evidence-at-argument-form rather than perennialist-phenomenological-identity. Cross-review should (a) audit meaning-void's existing cross-tradition convergence claims (if any) for Katz/Sharf vulnerability; (b) install a calibration paragraph (~80–150 words) if convergence claims are present and unhedged; (c) verify reciprocal `related_articles` cross-link to `[[void-as-ground-of-meaning]]` and substantive bridging language at the natural anchor; (d) flag any other articles in the meaning cluster (e.g., `topics/buddhist-perspectives-on-meaning.md`, `topics/eastern-philosophy-consciousness.md`) that may need parallel calibration; (e) audit for "This is not X. It is Y." cliché violations. Short scope (~150–300 words touched). Tenet alignment: methodological — calibration of cross-tradition convergence as evidential method. See `voids/void-as-ground-of-meaning.md` §"Cross-Tradition Convergence" and §"The Contextualist Worry".
+- **Output**: obsidian/voids/meaning-void.md -- Context: Cross-review voids/meaning-void.md considering void-as-ground-of-meaning's new contextualist-worry framing
 
 ### ✓ 2026-04-30: Condense voids/void-as-ground-of-meaning.md (3433 words, 172% of voids/ soft threshold)
 - **Type**: condense

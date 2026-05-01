@@ -4,8 +4,8 @@ description: "How thoughts achieve aboutness, and what understanding feels like 
 created: 2026-02-05
 modified: 2026-04-26
 human_modified: null
-ai_modified: 2026-04-29T04:20:00+00:00
-last_deep_review: 2026-04-29T04:20:00+00:00
+ai_modified: 2026-05-01T00:11:00+00:00
+last_deep_review: 2026-05-01T00:11:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
