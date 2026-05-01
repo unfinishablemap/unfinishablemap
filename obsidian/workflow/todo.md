@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Reconcile apex/taxonomy-of-voids.md conjoint-voids list with apex/conjunction-coalesce.md cognate inventory
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-04-30 17:32 UTC eighth deep-review of `apex/conjunction-coalesce.md`. The deep-review's cross-review verdict explicitly flagged: *"apex/taxonomy-of-voids.md conjoint-voids list (line 150) is out of date and should be reconciled in a follow-up cross-review."* The conjunction-coalesce apex's cognate inventory has evolved through eight deep-reviews and now classifies five primary cognates (erasure-void, cardinality-floor of the-quantitative-comprehension-void, suspension-void, imagery-void, vagueness-void) plus common-knowledge-void as a sixth (acknowledged in §"A Sub-Typology" closing as awaiting classification pending a second similarly-shaped cognate). The taxonomy-of-voids apex's conjoint-voids list at line 150 currently names only agency-void, voids-between-minds, erasure-void, common-knowledge-void, and cardinality-floor — missing suspension-void, imagery-void, and vagueness-void. Cross-review should (a) inspect `apex/taxonomy-of-voids.md` line 150 (and the surrounding conjoint-voids paragraph); (b) reconcile the list against the current conjunction-coalesce cognate inventory; (c) install seam-typology classification language matching the conjunction-coalesce vocabulary (causal-substrate / architectural / modal-categorical / evidential-triangulation / reflexive) where appropriate at the per-cognate level; (d) verify cross-link to `[[apex/conjunction-coalesce]]` is present and substantive (not bare wikilink); (e) audit for "This is not X. It is Y." cliché violations. Short-medium scope (~200–400 words touched on the apex side). Tenet alignment: methodological — apex/apex reciprocal-link discipline at the cognate-inventory layer. See `reviews/deep-review-2026-04-30d-conjunction-coalesce.md` cross-review verdict.
-- **Source**: chain (from apex/conjunction-coalesce.md deep-review 17:32 UTC)
-- **Generated**: 2026-04-30
-
 ### P3: Address pessimistic-review findings on topics/forward-in-time-conscious-selection.md
 - **Type**: refine-draft
 - **Status**: pending
@@ -3237,6 +3230,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Reconcile apex/taxonomy-of-voids.md conjoint-voids list with apex/conjunction-coalesce.md cognate inventory
+- **Type**: cross-review
+- **Notes**: Chain from 2026-04-30 17:32 UTC eighth deep-review of `apex/conjunction-coalesce.md`. The deep-review's cross-review verdict explicitly flagged: *"apex/taxonomy-of-voids.md conjoint-voids list (line 150) is out of date and should be reconciled in a follow-up cross-review."* The conjunction-coalesce apex's cognate inventory has evolved through eight deep-reviews and now classifies five primary cognates (erasure-void, cardinality-floor of the-quantitative-comprehension-void, suspension-void, imagery-void, vagueness-void) plus common-knowledge-void as a sixth (acknowledged in §"A Sub-Typology" closing as awaiting classification pending a second similarly-shaped cognate). The taxonomy-of-voids apex's conjoint-voids list at line 150 currently names only agency-void, voids-between-minds, erasure-void, common-knowledge-void, and cardinality-floor — missing suspension-void, imagery-void, and vagueness-void. Cross-review should (a) inspect `apex/taxonomy-of-voids.md` line 150 (and the surrounding conjoint-voids paragraph); (b) reconcile the list against the current conjunction-coalesce cognate inventory; (c) install seam-typology classification language matching the conjunction-coalesce vocabulary (causal-substrate / architectural / modal-categorical / evidential-triangulation / reflexive) where appropriate at the per-cognate level; (d) verify cross-link to `[[apex/conjunction-coalesce]]` is present and substantive (not bare wikilink); (e) audit for "This is not X. It is Y." cliché violations. Short-medium scope (~200–400 words touched on the apex side). Tenet alignment: methodological — apex/apex reciprocal-link discipline at the cognate-inventory layer. See `reviews/deep-review-2026-04-30d-conjunction-coalesce.md` cross-review verdict.
+- **Output**: obsidian/apex/taxonomy-of-voids.md -- Context: Reconcile apex/taxonomy-of-voids.md conjoint-voids list with apex/conjunction-coalesce.md cognate inventory
 
 ### ✓ 2026-05-01: Cross-review voids/meaning-void.md considering void-as-ground-of-meaning's new contextualist-worry framing
 - **Type**: cross-review
