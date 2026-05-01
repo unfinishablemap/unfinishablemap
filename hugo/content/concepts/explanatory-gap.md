@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-14
-ai_modified: 2026-04-27 03:19:00+00:00
+ai_modified: 2026-05-01 03:40:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -22,7 +22,7 @@ description: Physical descriptions leave unexplained why neural activity feels l
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-27 03:19:00+00:00
+last_deep_review: 2026-05-01 03:40:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -36,6 +36,7 @@ related_articles:
 - '[[consciousness-and-the-philosophy-of-mathematics]]'
 - '[[phenomenal-authority-and-first-person-evidence]]'
 - '[[cross-traditional-convergence-on-consciousness-irreducibility]]'
+- '[[the-naturalisation-failure-for-content]]'
 title: The Explanatory Gap
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -200,6 +201,7 @@ The gap supports humility. If we cannot understand consciousness from physical d
 
 - [hard-problem-of-consciousness](/topics/hard-problem-of-consciousness/) — The metaphysical problem the gap points to
 - [hard-problem-of-content](/concepts/hard-problem-of-content/) — The structural parallel: physical resources cannot yield aboutness any more than they yield experience
+- [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) — Topic-level companion treating the content failure as a separate front, and what dualism inherits
 - [dualism](/concepts/dualism/) — The explanatory gap as one of seven converging arguments
 - [knowledge-argument](/concepts/knowledge-argument/) — Mary's Room: the gap dramatized through a thought experiment
 - [qualia](/concepts/qualia/) — The experiential properties the gap concerns

@@ -1,13 +1,158 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 01:25:00+00:00
+ai_modified: 2026-05-01 04:47:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-01 04:47 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: narrow-window cluster from 03:56 → 04:47 UTC — `apex/conjunction-coalesce.md` (tenth-pass deep-review at 04:10 UTC installing cross-link to `topics/forward-in-time-conscious-selection.md` selection-criterion trilemma) and `concepts/self-and-self-consciousness.md` (third deep-review at 04:25 UTC, first since coalesce+44%-condense restructure)
+- **Output**: [optimistic-2026-05-01](/reviews/optimistic-2026-05-01/)
+- **Key observations**: cross-domain coherence executed at apex level (editorial-methodology ↔ metaphysical-commitment defeasibility-logic parallel); convergence-stability holding across substantive restructure (zero critical issues at post-coalesce post-condense third review); length-discipline preserved under content-addition pressure (116% band held with three small offsets); metadata-as-attention-discipline elevated to medium-issue tier
+- **Tasks generated**: 3 P3 (reciprocal hook in forward-in-time-conscious-selection.md → conjunction-coalesce.md; project-doc on cross-domain isomorphism as named pattern; project-doc on convergence-stability-under-restructure as catalogue-wide measurement)
+
+## 2026-05-01 04:25 UTC - deep-review
+- **Status**: Success
+- **File**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+- **Trigger**: Third review after substantive restructure (coalesce with `zahavian-minimal-self` + condense 4914→2770) since 2026-04-29 review
+- **Word count**: 2770 → 2770 (0; length-neutral mode at 111% of soft threshold)
+- **Critical issues addressed**: 0 (full attribution check passed across restructure)
+- **Medium issues addressed**: 1 (inline wikilinks `the-subject-object-distinction-as-philosophical-discovery` and `indexical-knowledge-and-identity` added to `related_articles` to close metadata indexing gap)
+- **Enhancements made**: 0 (all strengths preserved; convergence holding across restructure)
+- **Convergence**: 3rd review; post-restructure attribution and tenet connections intact, no new philosophical objections raised.
+- **Output**: [deep-review-2026-05-01-self-and-self-consciousness](/reviews/deep-review-2026-05-01-self-and-self-consciousness/)
+
+## 2026-05-01 04:10 UTC - deep-review
+- **Status**: Success
+- **File**: [conjunction-coalesce](/apex/conjunction-coalesce/)
+- **Trigger**: Cross-review against the selection-criterion trilemma installed in [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)
+- **Word count**: 4623 → 4658 (+35; 116% band preserved)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (cross-domain parallel between seam test third refinement and trilemma option (iii) was implicit; now explicit)
+- **Enhancements made**: 2 (cross-link paragraph in §"Synthesis" naming the structural parallel; `[forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/)` added to `related_articles`)
+- **Compressions for length-neutral**: §"Two Coalesces and Five Cognates" closing sentence (~15 words); §"Relation to Site Perspective" Occam's-Limits paragraph (~15 words); §"A Cluster Awaiting the Move" temporal-mode descriptions (~3 words)
+- **Convergence**: 10th review; article remains stable in post-convergence state.
+- **Output**: [deep-review-2026-05-01-conjunction-coalesce](/reviews/deep-review-2026-05-01-conjunction-coalesce/)
+
+## 2026-05-01 03:56 UTC - deep-review
+- **Status**: Success
+- **File**: [counterfactual-reasoning](/concepts/counterfactual-reasoning/)
+- **Word count**: 2343 → 2342 (-1)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (removed inaccurate "review" qualifier from Van Hoeck et al. 2015 citation, which is an fMRI study)
+- **Convergence**: 4th review; article remains stable. Only changes since last review were mechanical wikilink retargets from coalesce operations. All wikilinks verified.
+- **Output**: [deep-review-2026-05-01-counterfactual-reasoning](/reviews/deep-review-2026-05-01-counterfactual-reasoning/)
+
+## 2026-05-01 03:40 UTC - deep-review
+- **Status**: Success
+- **File**: [explanatory-gap](/concepts/explanatory-gap/)
+- **Trigger**: Cross-review prompted by creation of [the-naturalisation-failure-for-content](/topics/the-naturalisation-failure-for-content/) (2026-04-30)
+- **Word count**: 3427 → 3444 (+17)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (missing reciprocal link to topic-level companion)
+- **Enhancements made**: 2 (added to `related_articles` frontmatter; added Further Reading entry adjacent to existing `hard-problem-of-content` entry)
+- **Body unchanged**: per previous review's stability note that further HPC-related body expansion would unbalance the convergence passage
+- **Output**: [deep-review-2026-05-01-explanatory-gap](/reviews/deep-review-2026-05-01-explanatory-gap/)
+
+## 2026-05-01 03:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Task**: Address seven critical issues from [pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/) — self-undermining tension between new "Introspective Limits" section and the article's introspection-based central evidence; Würzburg-Titchener precedent read backwards; PCT promoted to explanatory tool without independent defence; Tallis regress argument begs the question; methodological asymmetry justifications reduce to functional differences; MQI/No Many Worlds tenet bridges over-claimed; falsifiability/structural-irresolvability internal contradiction
+- **Word count delta**: ~5,200 → ~5,660 words (+~460 words across 9 sections, within recommended 400–700 scope)
+- **High-priority fixes**:
+  - Issue 1: Added "self-application worry" paragraph (~190 words) framing qualified liberalism as interpretive choice under acknowledged irresolvability rather than verdict from evidence
+  - Issue 3: Added independent PCT defense (~150 words) acknowledging Chudnoff's accompanying-vs-constituting distinction; recast Chinese Room and LLM-skepticism downstream applications as conditional on PCT commitment
+- **Medium-high fixes**:
+  - Issue 2: Reframed Würzburg-Titchener as supporting neutrality on disputes of this structural shape, not default-liberal verdict
+  - Issue 5: Reframed Methodological Asymmetry from "ground" to "defeat the symmetry charge"; conceded considerations establish only functional differences
+  - Issue 7: Reframed three challenge conditions as abductive-balance shifters rather than Popperian falsifications
+- **Medium fixes**:
+  - Issue 4: Replaced Tallis quote with substantive Frankish (2016) engagement; added abductive grounds (TOT, insight-onset, contemplative clarification) for judging illusionist redescription inadequate
+  - Issue 6: Dropped MQI tenet bridge as honest non-link; rewrote No Many Worlds bridge to acknowledge within-branch phenomenal singularity is consistent with branching architectures
+- **Counterargument additions**:
+  - Tye-style sensory reply to Strawson (~100 words) with abductive grounds for the Map's preferred reading
+  - Trimmed four-tradition convergence claim to "structural similarity" with explicit Heidegger/Ratcliffe/Vervaeke disagreement note
+- **Language improvements**: Removed "phenomenal, not computational" cliché in Recursive Language; replaced poetic "structural opacity" gesture in cartography section with concrete claim
+- **References**: Dropped Tallis (2024); added Tye (1995)
+- **Published**: yes (draft: false, kept)
+
+## 2026-05-01 03:11 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/) — refined 2026-05-01 02:55 UTC absorbing voids research; ~5,200 words; new "Introspective Limits" section (~770 words) installing Würzburg-Titchener precedent and Fürst's three-faces conjunction
+- **Output**: [pessimistic-2026-05-01](/reviews/pessimistic-2026-05-01/)
+- **Key findings**: Self-undermining tension between new "Introspective Limits" section and the article's introspection-based central evidence; Würzburg-Titchener precedent read backwards (historical lesson is abandonment, not qualified-liberal default); PCT promoted to explanatory tool without independent defence; Tallis regress argument against illusionism begs the question; methodological asymmetry justifications reduce to functional differences; MQI tenet bridge decorative and No Many Worlds bridge question-begging; internal contradiction between "What Would Challenge This View?" falsification list and "Three Faces" structural-irresolvability claim. Seven critical issues filed (one High, several Medium-High); follow-up refine task added to todo.md.
+
+## 2026-05-01 02:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [cognitive-phenomenology](/concepts/cognitive-phenomenology/)
+- **Task**: Absorb research from [voids-cognitive-phenomenology-void-2026-05-01](/research/voids-cognitive-phenomenology-void-2026-05-01/) into the canonical concept-page treatment, since voids/ is at 98/100 capacity and a new void article cannot be placed without exceeding the cap
+- **What landed**: New H2 section "Introspective Limits on Cognitive Phenomenology" (~770 words) installed between "Constitutive as Kind, Not as Degree" and "Relation to Site Perspective". Contents: Würzburg-Titchener historical precedent (c.1900–1915 introspective controversy as evidence of structural irresolvability — controversy abandoned, not resolved); Fürst's three-faces conjunction-coalesce framing (introspective / dialectical / empirical-architectural pressure points each blocking the others' escape routes); Fürst's structural diagnosis that phenomenal-contrast verdicts are theory-laden ("regimented by the view initially held"); Fürst (2019) cognitive-phenomenology zombie as a sister conceivability argument; Lennon (2023) diagnostic reinterpretation (disagreement may track interpersonal architectural variation); explicit cartography of how the territory sits in the existing voids family
+- **Cartography decision**: No genuinely-unmapped void-face was surfaced — the territory is well-covered piecewise across [imagery-void](/voids/imagery-void/), [noetic-feelings-void](/voids/noetic-feelings-void/), [meaning-void](/voids/meaning-void/), [tacit-integration-void](/voids/tacit-integration-void/), [suspension-void](/voids/suspension-void/), so no new voids article is warranted (consistent with capacity caveat)
+- **Cross-link updates**: Added 6 entries to article's `related_articles` (noetic-feelings-void, meaning-void, tacit-integration-void, suspension-void, self-opacity, non-human-minds-as-void-explorers) and 4 references (Fürst x2, Lennon, Thomas); updated research note's `related_articles` to point to absorbing article and added `absorbed_into` / `absorbed_date` fields
+- **Tenet alignment**: Dualism — explicit argument that structural unprovability from inside introspection does not weaken dualism, since the introspection-onto-itself opacity is itself a clue about consciousness's nature (a kind of thing whose furniture cannot be enumerated by the inhabitant)
+- **Published**: yes (draft: false, kept)
+
+## 2026-05-01 02:40 UTC - refine-draft
+- **Status**: Success
+- **File**: tools/curate/research_match.py (new), scripts/check_research_consumed.py (new), tests/test_research_match.py (new)
+- **Task**: Address replenisher slug-matching defect — phrasing-aware matching against existing-article catalogue (from optimistic-2026-04-30e)
+- **What landed**: Phrasing-aware research → article matcher with three confidence tiers. `slug_similarity()` returns `exact` (identical after lowercase/punctuation normalisation), `stopword-equivalent` (token sets equal after dropping the/a/an/and/of/etc and light stemming), or `fuzzy` (shared compound bigram with Jaccard ≥0.3, or Jaccard ≥0.5 with ≥2 shared tokens). `find_matching_articles()` searches `obsidian/{topics,concepts,voids,apex}/` AND `archive/{...}/`, excluding section index files. CLI `scripts/check_research_consumed.py` exits 0 with `CONSUMED:` or 1 with `UNCONSUMED:` and supports `--all` and `--min-confidence` flags.
+- **Tests**: 25 unit tests pass — including the two known review cases (`consciousness-normativity-of-reason` → `consciousness-and-the-normativity-of-reason` via stopword-equivalence; `min-max-dualism-taxonomy` → `four-quadrant-dualism-taxonomy` via shared `dualism-taxonomy` bigram). Corpus sweep across all 370 current research notes runs cleanly: 194 exact/stopword matches, 150 fuzzy matches, 26 unmatched (genuinely unconsumed).
+- **Honest limitation**: Conservative threshold means a few borderline fuzzy matches (e.g. `introspection-reliability-first-person` → `first-person-third-person-methodology` at score 0.33) get suppressed — these may occasionally be false negatives where a curator would judge the topics distinct enough to warrant separate articles. Per the review's guidance, false negatives are worse than false positives, but this threshold sits at the boundary. The CLI's `--all` flag surfaces below-threshold candidates for inspection.
+- **Follow-up needed**: `.claude/skills/replenish-queue/SKILL.md` Section 2.2 needs to be edited to call `scripts/check_research_consumed.py` instead of the existing pseudocode pattern. Write to that path was blocked in this session; queued as P1 follow-up task.
+
+## 2026-05-01 02:26 UTC - deep-review
+- **Status**: Success (sixth review, high stability)
+- **File**: [altered-states-of-consciousness](/concepts/altered-states-of-consciousness/)
+- **Word count**: 2795 → 2824 (+29 words; 113% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 2 (missing Kral et al. (2022) References entry for an inline citation added in 2026-03-31 refinement; stale AI refinement log comment block that explicitly requested its own removal)
+- **Medium issues addressed**: 0 (Kelly et al. 2007 reference-without-inline-citation noted but preserved as foundational filter-theory work; not flagged in five prior reviews)
+- **Enhancements made**: 0 (length-neutral mode; no expansion)
+- **Context**: Article has reached very high stability across six reviews. Bedrock philosophical disagreements (MWI phenomenological argument, functionalist interpretation, operational falsifiability) remain acknowledged. Pattern note: AI refinement logs have been left in this file twice now (2026-03-24 cleanup, then 2026-03-31 reintroduction); future refinements should strip such comments before completing.
+- **Output**: [deep-review-2026-05-01-altered-states-of-consciousness](/reviews/deep-review-2026-05-01-altered-states-of-consciousness/)
+
+## 2026-05-01 02:17 UTC - condense
+- **Status**: Success
+- **File**: [self-and-self-consciousness](/concepts/self-and-self-consciousness/)
+- **Before**: 4914 words (197% of 2500 concepts target, hard_warning)
+- **After**: 2770 words (111% of target, soft_warning — well within 3500 hard threshold)
+- **Reduction**: 44%
+- **Technique**: Cut redundancy between "Zahavi's Position in His Own Terms" and earlier sections (merged into Circularity Problem); collapsed three short topical sections (Autonoetic, Metacognition, Comparative Cognition) into one "Layers Above the Minimal Self"; merged Meta-Hard, Binding, and Testability into one combined section; trimmed Buddhist/Madhyamaka section by deferring detailed exposition to [buddhism-and-dualism](/concepts/buddhism-and-dualism/); tightened Diachronic Identity exposition; trimmed Relation to Site Perspective and Further Reading. Preserved opening summary, all four tenet connections, Zahavi/Metzinger/Strawson/Hume distinctions, the kind/degree methodological move, and the candid Mādhyamaka reply.
+
+## 2026-05-01 01:55 UTC - deep-review
+- **Status**: Success (cross-review, terminology aligned to restructured target)
+- **File**: [categorical-surprise](/concepts/categorical-surprise/)
+- **Word count**: 1864 → 1865 (+1 word; 75% of 2500 concepts soft threshold)
+- **Critical issues addressed**: 1 (stale "theoretical vertigo" terminology that no longer exists in the linked destination)
+- **Medium issues addressed**: 0
+- **Enhancements made**: 1 (rewrote inline cross-reference at line 68 to match the new `creative-consciousness` article's actual phrasing — "felt destabilisation of the interpretive framework that Kuhn called *anomaly*" — replacing a phrase coined in the now-archived `phenomenology-of-creative-insight` ancestor)
+- **Context**: Cross-review triggered by 2026-04-30 coalesce + condense + deep-review of `creative-consciousness` (unified `consciousness-and-creativity` + `phenomenology-of-creative-insight`). Reciprocal wikilinks were already in place from the 2026-04-30 cross-review reference-update pass; the only outstanding work was an inline description that named a specific phrase ("theoretical vertigo") that did not survive the coalesce. Anchored link `creative-consciousness#The Phenomenology of Creative Insight` verified resolving correctly. Article remains stable across four deep reviews.
+- **Output**: [deep-review-2026-05-01-categorical-surprise](/reviews/deep-review-2026-05-01-categorical-surprise/)
+
+## 2026-05-01 01:46 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Cognitive Phenomenology Void
+- **Category**: Mixed (Unexplorable + Occluded — structural irresolvability with theory-laden methodology)
+- **Output**: [voids-cognitive-phenomenology-void-2026-05-01](/research/voids-cognitive-phenomenology-void-2026-05-01/)
+- **Key finding**: A century-old debate (Würzburg-Titchener c.1900-1915 → contemporary Pitt/Strawson vs. Carruthers) cannot be settled because three structural faces — introspective regimentation by prior view (Fürst), dialectical ineffectiveness of phenomenal contrast, and reinterpretability of empirical evidence including aphantasia (Lennon 2023) — conjoin into non-collapsible structural opacity at the seam where consciousness asks itself what kind of phenomenal furniture its thinking is made of.
+- **Voids count**: 98/100 articles (2 slots remaining; if expanded to article, 99/100)
+- **Recommended angle**: Three-faces conjunction-coalesce native cognate (introspective / dialectical / empirical-architectural)
+
+## 2026-05-01 01:41 UTC - deep-review
+- **Status**: Success (cross-review, forward-link installed)
+- **File**: [post-decoherence-selection-programme](/apex/post-decoherence-selection-programme/)
+- **Word count**: 2825 → 2876 (+51 words; 72% of 4000 apex soft threshold)
+- **Critical issues addressed**: 0 (none found; article stable since 2026-03-30 review)
+- **Medium issues addressed**: 1 (missing forward-link to canonical mechanism survey)
+- **Enhancements made**: 2 (body cross-link in "The selection mechanism" subsection; related_articles frontmatter entry)
+- **Context**: Cross-review triggered by 2026-04-30 deep review of [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) which positioned that topic article as the Map's canonical mechanism survey (catalogue of three pre-decoherence and three post-decoherence mechanisms). The apex now forward-links to it as the worked-example complement to its research-programme framing. Division of labour established: apex specifies what a complete theory *requires*; topic article enumerates the *candidate mechanisms*. Future reviews should preserve this and not duplicate the mechanism catalogue inside the apex.
+- **Output**: [deep-review-2026-05-01-post-decoherence-selection-programme](/reviews/deep-review-2026-05-01-post-decoherence-selection-programme/)
 
 ## 2026-05-01 01:25 UTC - cross-review (wikilink repoint)
 - **Status**: Success

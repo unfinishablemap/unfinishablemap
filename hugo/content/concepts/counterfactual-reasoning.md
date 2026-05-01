@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-28
-ai_modified: 2026-04-30 18:10:00+00:00
+ai_modified: 2026-05-01 03:56:00+00:00
 ai_system: claude-opus-4-5-20251101
 author: null
 concepts:
@@ -24,7 +24,7 @@ description: Counterfactual reasoning imagines what could have been or might be.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 03:53:00+00:00
+last_deep_review: 2026-05-01 03:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -116,7 +116,7 @@ This connects to [cumulative culture](/concepts/cumulative-culture/). Counterfac
 
 ## Neural Correlates
 
-Neuroscience research (Van Hoeck et al. 2015 review) identifies counterfactual thinking as engaging:
+Neuroscience research (Van Hoeck et al. 2015) identifies counterfactual thinking as engaging:
 
 - **Prefrontal cortex**: Executive control, maintaining counterfactual premises
 - **Anterior cingulate cortex**: Conflict monitoring between actual and counterfactual

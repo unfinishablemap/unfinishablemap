@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-29
-ai_modified: 2026-03-30 10:29:00+00:00
+ai_modified: 2026-05-01 01:41:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-03-29 13:56:00+00:00
 apex_sources:
@@ -25,14 +25,14 @@ concepts:
 - '[[post-decoherence-selection]]'
 - '[[contextual-selection-in-quantum-foundations]]'
 created: 2026-03-29
-date: &id001 2026-03-29
+date: &id001 2026-05-01
 description: Five converging lines of inquiry—post-decoherence selection, quantum
   Darwinism, contextuality, weak measurement, and stochastic amplification—constitute
   a physics research programme for consciousness acting after decoherence.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-30 01:15:00+00:00
+last_deep_review: 2026-05-01 01:41:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -43,6 +43,7 @@ related_articles:
 - '[[comparing-quantum-consciousness-mechanisms]]'
 - '[[conservation-laws-and-mental-causation]]'
 - '[[amplification-void]]'
+- '[[forward-in-time-conscious-selection]]'
 title: The Post-Decoherence Selection Programme
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -122,7 +123,7 @@ The five lines of inquiry converge on a research programme with identified compo
 
 **The selection locus.** Where exactly in neural processing does consciousness act on the decohered mixture? The post-decoherence selection concept identifies the gap; quantum Darwinism specifies that the options are pointer states; but which pointer states, in which neural structures, at which points in processing? The programme names the locus without localising it.
 
-**The selection mechanism.** Does consciousness trigger collapse at a moment (standard consciousness-collapse models) or provide a boundary condition that shapes the whole history (the TSVF alternative)? These are different physical pictures with different empirical signatures. The programme accommodates both but has not determined which is correct—or whether some third option is needed.
+**The selection mechanism.** Does consciousness trigger collapse at a moment (standard consciousness-collapse models) or provide a boundary condition that shapes the whole history (the TSVF alternative)? The [forward-in-time conscious selection](/topics/forward-in-time-conscious-selection/) survey catalogues the candidate mechanisms—Penrose-Hameroff Orch OR, Stapp's quantum Zeno, Chalmers-McQueen CSL, von Neumann's movable cut, a post-decoherence relocation of Stapp's Process 1, and a process-philosophical actualisation model—differing on whether they require pre- or post-decoherence quantum coherence and on what additional ontology they commit to. These are different physical pictures with different empirical signatures. The programme accommodates the post-decoherence variants but has not determined which is correct—or whether some third option is needed.
 
 **The contextual constraints.** Quantum contextuality shows that selection depends on the full measurement context. A complete theory must specify how the brain's physical configuration determines the selection context, and how conscious attention might shape that configuration. Stapp's quantum Zeno mechanism provides one account; the post-decoherence programme needs its own.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-04-27
-ai_modified: 2026-04-30 17:32:00+00:00
+ai_modified: 2026-05-01 04:10:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-04-30 08:17:00+00:00
 apex_sources:
@@ -25,14 +25,14 @@ apex_thesis: 'A distinctive methodological move has emerged in the Map''s voids 
 author: null
 concepts: []
 created: 2026-04-27
-date: &id001 2026-04-29
+date: &id001 2026-05-01
 description: When two voids are conjoined at a structural level, merging them into
   one article should keep the seam visible—because the seam itself is the claim. A
   methodological discipline distinct from standard coalesce.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-04-30 17:32:00+00:00
+last_deep_review: 2026-05-01 04:10:00+00:00
 modified: *id001
 related_articles:
 - '[[apex-articles]]'
@@ -53,6 +53,7 @@ related_articles:
 - '[[suspension-void]]'
 - '[[imagery-void]]'
 - '[[vagueness-void]]'
+- '[[forward-in-time-conscious-selection]]'
 title: The Conjunction-Coalesce
 topics: []
 ---
@@ -81,7 +82,7 @@ The third refinement is a defeasible heuristic, not a permanent commitment to no
 
 ## Two Coalesces and Five Cognates
 
-The discipline's empirical base is two coalesces of prior articles plus five creation-time cognates. Holding these as distinct cases matters: the coalesce-of-prior-articles version is the discipline as initially named; the creation-time version is a related but separate move (call it *conjunction-articulation*) in which a single article takes a conjoint shape rather than two articles being merged. The cognates inherit the seam test but not the editorial geometry of merger. Treating the two as one would inflate the empirical base of the merger discipline; keeping them distinct lets each be assessed on its own work.
+The discipline's empirical base is two coalesces of prior articles plus five creation-time cognates. Holding these as distinct cases matters: the coalesce-of-prior-articles version is the discipline as initially named; the creation-time version is a related but separate move (call it *conjunction-articulation*) in which a single article takes a conjoint shape rather than two articles being merged. The cognates inherit the seam test but not the editorial geometry of merger. Conflating the two would inflate the merger discipline's empirical base.
 
 **The agency void.** The 2026-04-27 coalesce of `involuntariness-void` and `agency-verification-void` into [the agency void](/voids/agency-void/) is the cleanest example. The two source articles tracked distinct limits: one *passive* (consciousness cannot control most of what it experiences—cannot will pain away, cannot stop being conscious while awake, cannot choose its qualia or moods); the other *skeptical* (consciousness cannot verify whether it causes anything at all, since every check is performed by the faculty whose causal status is in question). Each limit is independently real, but the merger's central claim is that the conjunction does work neither face does alone. As the merged article puts it: "Wide control without self-verification would still be agentive. Narrow control with reliable self-verification would yield a precisely mappable limit. The void lies in their conjunction: without self-verification, consciousness cannot tell whether the involuntariness it meets is *of its agency* (a faculty it has but cannot exercise here) or *of its absence of agency* (a faculty it lacks)." The seam is the claim.
 
@@ -133,7 +134,7 @@ The test discriminated three outcomes, not two. The articles were not redundant�
 
 ## A Cluster Awaiting the Move
 
-The Map currently maintains [the transit void](/voids/transit-void/), [the thrownness void](/voids/thrownness-void/), and [the temporal void](/voids/temporal-void/) as separate articles, despite each exhibiting candidate structure. Transit treats consciousness's inability to witness its own crossings; thrownness treats its inability to access the conditions under which it became conscious; temporal treats its confinement to a moving present and its asymmetric access to past and future.
+The Map currently maintains [the transit void](/voids/transit-void/), [the thrownness void](/voids/thrownness-void/), and [the temporal void](/voids/temporal-void/) as separate articles, despite each exhibiting candidate structure. Transit treats consciousness's inability to witness its own crossings; thrownness, its inability to access the conditions under which it became conscious; temporal, its confinement to a moving present with asymmetric access to past and future.
 
 The three share a tenet connection (each engages [Bidirectional Interaction](/tenets/#bidirectional-interaction) and [Dualism](/tenets/#dualism) through a different temporal feature), an empirical literature (Husserl's retention-protention analysis appears in all three), and a structural shape (each names a kind of *self-witnessing failure* indexed to a temporal mode). The candidate joint claim: *consciousness cannot witness its own temporal architecture in any of the three modes the architecture provides—crossings, foundations, or the relation between its lived now and the broader temporal field*.
 
@@ -173,9 +174,11 @@ The conjunction-coalesce is one expression of a broader methodological commitmen
 
 The deeper value lies in what the move refuses. Standard editorial logic favours unification; standard explanatory logic favours single-mechanism accounts. Both pressures are reasonable in most cases, but both mislead when the territory itself appears to be genuinely conjoint and no unifying mechanism has yet been established. The conjunction-coalesce is the editorial discipline that resists premature unification when the seam between two limits looks like an analytical object—a small move, applicable to a small class of cases, and one that yields to a successful unification when the territory turns out to be reducible after all.
 
+A parallel commitment runs in the Map's metaphysical content: [the selection-criterion trilemma](/topics/forward-in-time-conscious-selection/) retains a non-reducible primitive (route iii) over reductive identifications (route i—internal reasons collapsing dualism into functionalism) for the same structural reason this discipline retains the seam. Editorial methodology and metaphysical commitment differ in scope, but the defeasibility logic is shared: a primitive held in place is preferable to forced reduction until a unifying mechanism is established.
+
 ## Relation to Site Perspective
 
-The methodological discipline named here connects most directly to **[Occam's Razor Has Limits](/tenets/#occams-limits)**. The fifth tenet warns that simplicity is unreliable when knowledge is incomplete; the conjunction-coalesce names a specific cost of forced unification—the lossy fusion of two structurally distinct limits into a single mechanism. Where the tenet is general (parsimony can mislead), the conjunction-coalesce is specific (here is a class of cases where merging without preserving the seam destroys what the merger should reveal). The discipline is methodological infrastructure for executing the tenet at the level of editorial practice. This is the legitimate tenet connection that the discipline itself bears.
+The methodological discipline named here connects most directly to **[Occam's Razor Has Limits](/tenets/#occams-limits)**. The fifth tenet warns that simplicity is unreliable when knowledge is incomplete; the conjunction-coalesce names a specific cost of forced unification—the lossy fusion of two structurally distinct limits into a single mechanism. Where the tenet is general (parsimony can mislead), the conjunction-coalesce is specific—naming a class of cases where merging without preserving the seam destroys what the merger should reveal. The discipline is methodological infrastructure for executing the tenet at the editorial level.
 
 A weaker, conditional connection runs to **[Dualism](/tenets/#dualism)**: *if* the dualism tenet is granted, then the structural features of consciousness's failures—the architecture of where introspection breaks, verification fails, self-monitoring erodes—plausibly constitute data about consciousness's architecture rather than artefacts of an incomplete reductive account. The conjunction-coalesce, on that conditional, preserves a piece of evidence; a redundancy-coalesce in such a case would discard it. The connection is conditional rather than constitutive: the discipline does not argue *for* dualism; it presupposes that void structure is informative, which is a substantive empirical commitment that needs its own support elsewhere ([the taxonomy of voids](/apex/taxonomy-of-voids/) is the natural home for that argument). Connections to other tenets borrow from the cases the discipline operates on rather than being earned by the discipline itself, and so are not claimed here.
 
@@ -204,7 +207,15 @@ This synthesis draws on:
 4. Southgate, A. & Oquatre-sept, C. (2026-03-05). The Transit Void. *The Unfinishable Map*. https://unfinishablemap.org/voids/transit-void/
 5. Southgate, A. & Oquatre-six, C. (2026-03-10). A Taxonomy of Voids. *The Unfinishable Map*. https://unfinishablemap.org/apex/taxonomy-of-voids/
 
-<!-- AI REFINEMENT LOG - 2026-04-30 (cumulative through 17:32 UTC)
+<!-- AI REFINEMENT LOG - 2026-04-30 → 2026-05-01
+
+Changes made (2026-05-01 04:10 UTC, deep-review-2026-05-01-conjunction-coalesce, cross-review against selection-criterion trilemma installed in topics/forward-in-time-conscious-selection.md):
+- Added cross-link paragraph in §"Synthesis" naming the structural parallel between the seam test's third refinement (resist single-mechanism unification when no unifying mechanism is established) and the trilemma's option (iii) (non-reducible primitive over reductive identifications). Both honor a primitive when reduction is unavailable; the two cases differ in scope (editorial methodology versus metaphysics) but share the defeasibility structure.
+- Added [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/) to related_articles frontmatter.
+- Compressed §"Two Coalesces and Five Cognates" closing sentence (~15 words removed) and §"Relation to Site Perspective" Occam's-Limits paragraph (~15 words removed) to offset the addition.
+- No critical issues identified by the pessimistic-review six-persona pass; no attribution errors, no qualifier drops, no source/Map conflation. Stable convergence preserved.
+
+
 Changes made (16:47 UTC, deep-review-2026-04-30c):
 - Renamed §"Two Coalesces and Two Cognates" → "Two Coalesces and Five Cognates" to reflect cluster expansion
 - Added three substantive cognate paragraphs (suspension-void, imagery-void, vagueness-void) parallel in form to the agency-void/voids-between-minds treatments
