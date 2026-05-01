@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review apex/post-decoherence-selection-programme.md to forward-link to topics/forward-in-time-conscious-selection.md as canonical worked example
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 19:05 UTC coalesce of `non-retrocausal-conscious-selection-models` + `post-decoherence-selection-mechanisms` into `topics/forward-in-time-conscious-selection.md` produced the topic-layer treatment of two of the apex's five strands operating in coordination (von Neumann movable cut, relocated Stapp framework, actualisation model). The 2026-04-30 wikilink-repoint task explicitly noted that `apex/post-decoherence-selection-programme.md` had no references to either source slug — i.e., no link installed at all, not just missing repoint. The apex should now forward-link to the unified topic as the canonical worked example of three of its strands in integrated treatment. Cross-review should (a) verify `apex/post-decoherence-selection-programme.md` has `topics/forward-in-time-conscious-selection` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~75–150 words) at a natural anchor (likely the canonical-examples section if one exists, or the strand-integration discussion otherwise) noting that the unified topic is the canonical worked example of three strands in integrated treatment, with explicit pointers to the trilemma-of-selection and improper-mixture-FAPP-framing as the two structurally important methodological commitments the topic installs; (c) verify the bridging paragraph does not re-state the topic's exposition — the apex should locate the topic as worked example; the worked-example expansion belongs in the topic article; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~100–180 words touched). Tenet alignment: Dualism, Minimal Quantum Interaction, methodological. See [[reviews/optimistic-2026-04-30e]].
-- **Source**: chain (from optimistic-2026-04-30e)
-- **Generated**: 2026-05-01
-
 ### P2: Cross-review concepts/categorical-surprise.md to install reciprocal link to concepts/creative-consciousness.md restructuring
 - **Type**: cross-review
 - **Status**: pending
@@ -3244,6 +3237,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Cross-review apex/post-decoherence-selection-programme.md to forward-link to topics/forward-in-time-conscious-selection.md as canonical worked example
+- **Type**: cross-review
+- **Notes**: Suggested by optimistic-2026-04-30e (Cross-Linking Suggestions). The 2026-04-30 19:05 UTC coalesce of `non-retrocausal-conscious-selection-models` + `post-decoherence-selection-mechanisms` into `topics/forward-in-time-conscious-selection.md` produced the topic-layer treatment of two of the apex's five strands operating in coordination (von Neumann movable cut, relocated Stapp framework, actualisation model). The 2026-04-30 wikilink-repoint task explicitly noted that `apex/post-decoherence-selection-programme.md` had no references to either source slug — i.e., no link installed at all, not just missing repoint. The apex should now forward-link to the unified topic as the canonical worked example of three of its strands in integrated treatment. Cross-review should (a) verify `apex/post-decoherence-selection-programme.md` has `topics/forward-in-time-conscious-selection` in its `related_articles` frontmatter; (b) install a substantive bridging paragraph (~75–150 words) at a natural anchor (likely the canonical-examples section if one exists, or the strand-integration discussion otherwise) noting that the unified topic is the canonical worked example of three strands in integrated treatment, with explicit pointers to the trilemma-of-selection and improper-mixture-FAPP-framing as the two structurally important methodological commitments the topic installs; (c) verify the bridging paragraph does not re-state the topic's exposition — the apex should locate the topic as worked example; the worked-example expansion belongs in the topic article; (d) audit for "This is not X. It is Y." cliché violations. Short scope (~100–180 words touched). Tenet alignment: Dualism, Minimal Quantum Interaction, methodological. See [[reviews/optimistic-2026-04-30e]].
+- **Output**: obsidian/apex/post-decoherence-selection-programme.md -- Context: Cross-review apex/post-decoherence-selection-programme.md to forward-link to topics/forward-in-time-conscious-selection.md as canonical worked example
 
 ### ✓ 2026-05-01: Update wikilinks pointing to coalesced zahavian-minimal-self
 - **Type**: cross-review

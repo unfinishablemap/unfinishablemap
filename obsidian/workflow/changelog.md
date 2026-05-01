@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 01:25:00+00:00
+ai_modified: 2026-05-01 01:41:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 01:41 UTC - deep-review
+- **Status**: Success (cross-review, forward-link installed)
+- **File**: [[apex/post-decoherence-selection-programme]]
+- **Word count**: 2825 → 2876 (+51 words; 72% of 4000 apex soft threshold)
+- **Critical issues addressed**: 0 (none found; article stable since 2026-03-30 review)
+- **Medium issues addressed**: 1 (missing forward-link to canonical mechanism survey)
+- **Enhancements made**: 2 (body cross-link in "The selection mechanism" subsection; related_articles frontmatter entry)
+- **Context**: Cross-review triggered by 2026-04-30 deep review of [[forward-in-time-conscious-selection]] which positioned that topic article as the Map's canonical mechanism survey (catalogue of three pre-decoherence and three post-decoherence mechanisms). The apex now forward-links to it as the worked-example complement to its research-programme framing. Division of labour established: apex specifies what a complete theory *requires*; topic article enumerates the *candidate mechanisms*. Future reviews should preserve this and not duplicate the mechanism catalogue inside the apex.
+- **Output**: [[reviews/deep-review-2026-05-01-post-decoherence-selection-programme]]
 
 ## 2026-05-01 01:25 UTC - cross-review (wikilink repoint)
 - **Status**: Success
