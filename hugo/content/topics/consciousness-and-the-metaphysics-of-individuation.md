@@ -1,8 +1,8 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-02-18
-ai_modified: 2026-04-23 20:16:25+00:00
-ai_system: claude-opus-4-6
+ai_modified: 2026-05-01 12:47:00+00:00
+ai_system: claude-opus-4-7
 author: null
 concepts:
 - '[[haecceity]]'
@@ -20,7 +20,7 @@ description: Why does consciousness come in discrete subjects? The individuation
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 11:58:00+00:00
+last_deep_review: 2026-05-01 12:47:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -33,6 +33,7 @@ related_articles:
 - '[[consciousness-and-the-ownership-problem]]'
 - '[[epistemological-limits-occams-razor]]'
 - '[[indexical-identity-quantum-measurement]]'
+- '[[panpsychisms-combination-problem]]'
 title: Consciousness and the Metaphysics of Individuation
 topics:
 - '[[hard-problem-of-consciousness]]'
@@ -48,7 +49,7 @@ The individuation question is distinct from—and more fundamental than—the qu
 
 William James identified the core puzzle in 1890. Consider his thought experiment: give twelve men one word each from a sentence. "Nowhere will there be a consciousness of the whole sentence." Private minds do not aggregate into a compound mind. Experiences do not sum.
 
-James's observation cuts in both directions. If experiences cannot combine upward into larger subjects, can a unified subject be decomposed downward into smaller ones? The answer appears to be no—or at least, not cleanly. [Split-brain patients](/topics/split-brain-consciousness/), whose corpus callosum has been severed, display what Thomas Nagel called "too much unity to say 'two', yet too much separation to say 'one'." The subject count is not determined by the anatomy.
+James's observation cuts in both directions. If experiences cannot combine upward into larger subjects, can a unified subject be decomposed downward into smaller ones? The answer appears to be no—or at least, not cleanly. [Split-brain patients](/topics/split-brain-consciousness/), whose corpus callosum has been severed, display what Thomas Nagel characterised as "too much unity ... to say 'two', yet too much separation ... to say 'one'." The subject count is not determined by the anatomy.
 
 This creates a puzzle that no physical criterion resolves. The boundary of a conscious subject cannot be the boundary of a body (conjoined twins share bodies; split-brain patients may harbour more than one consciousness in a single skull). It cannot be the boundary of a brain region (no sharp neural threshold separates "one subject" from "two"). And it cannot be the boundary of a causal process, since many causal processes cross between subjects (conversation, shared environments, entangled neural responses) without merging their consciousnesses.
 
@@ -68,7 +69,7 @@ That these three positions remain live options after nearly three millennia of i
 
 ## The Combination Problem and Its Reverse
 
-Panpsychism—the view that consciousness is fundamental and ubiquitous—faces the [combination problem](/concepts/combination-problem/): how do micro-conscious entities combine into macro-conscious subjects like us? David Chalmers identifies *subject-summing* as the hardest form: we can conceive micro-subjects existing without any macro-consciousness emerging. The gap between micro-experience and unified subjecthood resists any compositional principle.
+Panpsychism—the view that consciousness is fundamental and ubiquitous—faces the [combination problem](/concepts/combination-problem/): how do micro-conscious entities combine into macro-conscious subjects like us? David Chalmers identifies *subject-summing* as the hardest form: we can conceive micro-subjects existing without any macro-consciousness emerging. The gap between micro-experience and unified subjecthood resists any compositional principle (see [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) for a fuller treatment of why this gap may be panpsychism's most serious vulnerability).
 
 The Map rejects panpsychism but inherits a related puzzle. If consciousness interfaces with the physical through [minimal quantum interaction](/tenets/#minimal-quantum-interaction), and if collapse events occur throughout the nervous system, what unifies these into a single subject's experience rather than a swarm of disconnected micro-collapses? The [metaphysics of composition](/topics/consciousness-and-the-metaphysics-of-composition/)—where van Inwagen, Merricks, and McQueen and Tsuchiya independently converge on consciousness as the criterion for genuine wholes—sharpens this: if consciousness is what makes composites real, something must individuate which composite *this* consciousness constitutes. The [unity of consciousness](/concepts/unity-of-consciousness/)—the fact that your visual field, bodily sensations, and inner monologue belong to one phenomenal field—requires some principle of integration that physical connectivity alone does not explain. (Split-brain cases demonstrate this: severing the main physical connection does not cleanly sever the subject.)
 
@@ -138,6 +139,7 @@ The individuation question connects to all five of the Map's [tenets](/tenets/),
 - [haecceity](/concepts/haecceity/) — Primitive thisness and why qualitative identity is insufficient
 - [split-brain-consciousness](/topics/split-brain-consciousness/) — Empirical evidence on subject boundaries
 - [combination-problem](/concepts/combination-problem/) — How micro-subjects fail to compose macro-subjects
+- [panpsychisms-combination-problem](/topics/panpsychisms-combination-problem/) — Topic-level treatment of why subject-summing may be panpsychism's hardest problem
 - [unity-of-consciousness](/concepts/unity-of-consciousness/) — Phenomenal unity, its varieties, and what makes experiences belong to one subject
 - [voids-between-minds](/voids/voids-between-minds/) — The epistemic asymmetry in consciousness access
 - [identity-across-transformations](/apex/identity-across-transformations/) — Apex synthesis: identity through radical change

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-21 12:51:00+00:00
+ai_modified: 2026-05-01 10:55:00+00:00
 ai_system: claude-opus-4-6
 apex_last_synthesis: 2026-04-21 12:51:00+00:00
 apex_sources:
@@ -23,13 +23,13 @@ concepts:
 - '[[unity-of-consciousness]]'
 - '[[agent-causation]]'
 created: 2026-01-31
-date: &id001 2026-04-21
+date: &id001 2026-05-01
 description: Reality as becoming, not being. Whitehead and Bergson's process frameworks
   illuminate the Map's five tenets—from irreducibility to temporal agency.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-15 14:09:00+00:00
+last_deep_review: 2026-05-01 10:55:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -105,7 +105,7 @@ Process philosophy strongly supports this claim—indeed, it generalizes it. Eve
 
 The phenomenology of [durée](/concepts/temporal-consciousness/) reinforces this. Bergson connected duration directly to free will in *Time and Free Will* (1889). A free act emerges from the whole self—from the full depth of one's duration. Unfree acts are superficial, from habit or convention, without engaging genuine selfhood. Freedom is not arbitrary choice between pre-defined options but creative expression of who we are becoming.
 
-Recent empirical work defends the phenomenological basis against sceptical reinterpretations. Schurger et al. (2012) showed that the Libet readiness potential more plausibly reflects ongoing neural noise than unconscious decision preparation; Sjöberg (2024) reports that surgical resection of the supplementary motor area preserves volitional phenomenology entirely, suggesting the readiness potential is not necessary for conscious willing. Four independent phenomenological features of agency—initiation, sustained control, effort, and veto—each have distinct neural correlates and dissociate in pathologies like anarchic hand syndrome and schizophrenic passivity. This structured correspondence is not what blanket confabulation would produce. The process framework makes it legible: these features are dimensions of concrescence's subjective pole, the inheriting occasion taking up its past and contributing its novel synthesis through distinguishable modes of subjective aim.
+Recent empirical work defends the phenomenological basis against sceptical reinterpretations. Schurger et al. (2012) showed that the Libet readiness potential more plausibly reflects ongoing neural noise than unconscious decision preparation; Sjöberg (2024) reports that patients with surgical resection of the supplementary motor area retain their sense of voluntary action, suggesting the readiness potential is not necessary for conscious willing. Four independent phenomenological features of agency—initiation, sustained control, effort, and veto—each have distinct neural correlates and dissociate in pathologies like anarchic hand syndrome and schizophrenic passivity. This structured correspondence is not what blanket confabulation would produce. The process framework makes it legible: these features are dimensions of concrescence's subjective pole, the inheriting occasion taking up its past and contributing its novel synthesis through distinguishable modes of subjective aim.
 
 This connects to the Map's treatment of the [argument-from-reason](/topics/argument-from-reason/). If all beliefs are fully explained by nonrational physical causes—neurons firing because of electrochemical gradients rather than because conclusions *follow* from premises—then no belief is rationally justified. The physicalist's own belief in physicalism would itself be unjustified. Functionalists respond that physical systems *can* track normative relationships—that the right causal structure constitutes rational inference. But this conflates reliable causal correlation with genuine normative grasp: a thermostat reliably tracks temperature without *understanding* heat. Rational inference requires consciousness that grasps logical connections and affirms accordingly. Process philosophy provides the metaphysical framework: occasions with subjective aim can instantiate rational causation because aim is constitutive of actuality itself.
 

@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-31
-ai_modified: 2026-04-28 12:59:00+00:00
+ai_modified: 2026-05-01 10:25:00+00:00
 ai_system: claude-opus-4-7
 apex_last_synthesis: 2026-04-28 12:59:00+00:00
 apex_sources:
@@ -24,14 +24,14 @@ concepts:
 - '[[neurophenomenology-and-contemplative-neuroscience]]'
 - '[[phenomenology]]'
 created: 2026-01-31
-date: &id001 2026-04-28
+date: &id001 2026-05-01
 description: First-person investigation reveals consciousness structures invisible
   to external observation. Two millennia of contemplative practice offer systematic
   data the Map takes seriously.
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-14 21:39:00+00:00
+last_deep_review: 2026-05-01 10:25:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -158,7 +158,7 @@ Three responses preserve the contemplative case, though each has limitations the
 
 **Training should dissolve illusion.** If contemplative phenomenology were fabricated, extended practice should reveal this—as understanding dissolves other cognitive errors. Instead, traditions report that practice *refines* phenomenological access. The distinctions between choosing and observing, between effort and effortlessness, become *clearer* with training. Meditators report increasingly subtle phenomenological distinctions, not recognition that there was nothing there.
 
-**The convergence problem.** The illusionist must still explain why systematic investigation across radically different traditions—Buddhist *vipassanā*, Hindu *dhyāna*, Christian contemplative prayer, Sufi *murāqaba*, and secular mindfulness, with no mutual influence and opposed metaphysical commitments—produced converging structural descriptions of an experience that should have dissolved under scrutiny. Where theory-ladenness predicts artefacts diverging across frameworks, structural convergence despite theoretical disagreement is the better explanation by genuine discovery.
+**The convergence problem.** The illusionist must still explain why systematic investigation across radically different traditions—Buddhist *vipassanā*, Hindu *dhyāna*, Christian contemplative prayer, Sufi *murāqaba*, and secular mindfulness, with no mutual influence and opposed metaphysical commitments—produced converging structural descriptions of an experience that should have dissolved under scrutiny. Where theory-ladenness predicts artefacts diverging across frameworks, structural convergence despite theoretical disagreement is better explained as genuine discovery.
 
 ## What Would Challenge This View?
 

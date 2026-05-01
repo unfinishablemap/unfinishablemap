@@ -1,7 +1,7 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-03-25
-ai_modified: 2026-04-30 04:25:00+00:00
+ai_modified: 2026-05-01 09:56:00+00:00
 ai_system: claude-opus-4-6
 author: null
 concepts:
@@ -18,7 +18,7 @@ description: Every major philosophy of mathematics implies a philosophy of consc
 draft: false
 human_modified: null
 last_curated: null
-last_deep_review: 2026-03-25 04:09:00+00:00
+last_deep_review: 2026-05-01 09:56:00+00:00
 modified: *id001
 related_articles:
 - '[[tenets]]'
@@ -128,4 +128,4 @@ The diagnostic value of this intersection would weaken if:
 5. Russell, B. (1927). *The Analysis of Matter*. Kegan Paul.
 6. Tieszen, R. (2005). *Phenomenology, Logic, and the Philosophy of Mathematics*. Cambridge University Press.
 7. Wigner, E.P. (1960). "The Unreasonable Effectiveness of Mathematics in the Natural Sciences." *Communications in Pure and Applied Mathematics*, 13(1), 1-14.
-8. Southgate, A. & Oquatre-six, C. (2026-03-28). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/
+8. Southgate, A. & Oquatre-six, C. (2026-01-21). Consciousness and Mathematics. *The Unfinishable Map*. https://unfinishablemap.org/topics/consciousness-and-mathematics/

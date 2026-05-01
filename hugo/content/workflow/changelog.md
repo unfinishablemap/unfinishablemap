@@ -1,13 +1,175 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01 08:40:00+00:00
+ai_modified: 2026-05-01 11:40:00+00:00
 ai_system: claude-opus-4-7
 concepts: []
 date: '2026-05-01'
 related_articles: []
 title: Changelog
 ---
+
+## 2026-05-01 12:47 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-metaphysics-of-individuation](/topics/consciousness-and-the-metaphysics-of-individuation/)
+- **Word count**: 2598 → 2630 (+32)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (Nagel quote elision marks)
+- **Low issues addressed**: 1 (panpsychisms-combination-problem cross-link)
+- **Output**: [deep-review-2026-05-01-consciousness-and-the-metaphysics-of-individuation](/reviews/deep-review-2026-05-01-consciousness-and-the-metaphysics-of-individuation/)
+- **Stability**: Fourth review; article remains in convergence per previous reviews.
+
+## 2026-05-01 12:25 UTC - expand-topic
+- **Status**: Success
+- **Topic**: Framework-stage calibration (pre-Keplerian as named pattern)
+- **Output**: [framework-stage-calibration](/project/framework-stage-calibration/)
+- **Word count**: 2223 (89% of 2500 soft target — ok)
+- **Based on research**: No (project-doc; built directly from optimistic-2026-05-01b suggestion + worked example in [the-interface-problem](/topics/the-interface-problem/) 09:25 UTC refine)
+- **Source task**: P2 expand-topic from [optimistic-2026-05-01b](/reviews/optimistic-2026-05-01b/) Medium Priority section
+- **Structure**: Opening + Stage Distinction + Worked Example (interface-problem 09:25 UTC pre-Keplerian framing with verbatim quote) + Tycho-Analogue Scaffolding catalogue (5 items: bandwidth constraint, Born-rule causal-consistency, theta-band willed-attention, coupling-modes taxonomy, five formal constraints) + Three Rules of the Discipline + Honest Limitation (in-principle vs. practical decidability; structural disanalogy with astronomy) + Relation to Site Perspective (Tenet 5 calibration-layer alignment + Tenet 3 indirect alignment) + Further Reading + References.
+- **Tenet alignment**: Methodological + Tenet 5 (Occam's Razor Has Limits, applied at the calibration layer) + Tenet 3 indirect (Bidirectional Interaction held honestly via stage-calibration).
+- **Sibling project docs framed in parallel**: [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/), [bedrock-clash-vs-absorption](/project/bedrock-clash-vs-absorption/), [coalesce-condense-apex-stability](/project/coalesce-condense-apex-stability/).
+- **Uncommitted per task brief** (automation system handles commit).
+
+## 2026-05-01 12:12 UTC - deep-review
+- **Status**: Success
+- **File**: [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/)
+- **Trigger**: P2 cross-review chain task — verify roadmap parity against post-Lakatosian framing installed in [the-interface-problem](/topics/the-interface-problem/) on 2026-05-01 (09:25 UTC + 11:17 UTC). Seventh deep review on this article.
+- **Word count**: 2660 → 2747 (+87 words; 92% of 3000 topics/ soft target)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 — Tenet 2 honest-assessment paragraph rewritten to (i) name the Lakatosian degenerating-problem-shift charge directly, (ii) cross-link to [the-interface-problem](/topics/the-interface-problem/)'s open concession that recent narrowing is post-hoc accommodation rather than predictive narrowing, (iii) replace the closing "challenge distinct from falsification" with "currently unfalsifiable in practice, in-principle accessible as detection thresholds improve" — the parity wording matching the interface-problem's framing at line 122 and the 11:17 UTC reframe of the "What Would Falsify" section. Single edit; ~140 words touched at lines 83-85; no other content changes.
+- **Enhancements made**: 1 — second body cross-link to [the-interface-problem](/topics/the-interface-problem/) at the Lakatosian-concession reference (load-bearing, not ornamental).
+- **Strengths preserved**: corridor/minimum-outside-corridor/trumping taxonomy at Tenet 2, Maier-Dechamps preregistered null at Tenet 3, six-programme list at "What the Map Should Watch," Falsification Asymmetry table, "honest assessment" subsection pattern across all five tenets, "What would not count" disclosure at Tenet 1.
+- **Output**: [deep-review-2026-05-01-falsification-roadmap-for-the-interface-model](/reviews/deep-review-2026-05-01-falsification-roadmap-for-the-interface-model/); uncommitted per task brief (automation system handles commit).
+
+## 2026-05-01 11:55 UTC - coalesce (no-op)
+- **Status**: Success (no merge performed — no strong candidates after multi-cluster search)
+- **Section pressure**: voids 99/100, topics 230/250, concepts 229/250 — voids most pressured but searched all three.
+- **Clusters examined**:
+  1. **Affective/Mood/Valence** (`affective-void`, `mood-void`, `valence-void`) — explicitly differentiated; mood-void's intro contrasts itself against the other two ("opacity of the affective state we are always inside of" vs. "emotions beyond reach" vs. "good/bad evaluative dimension").
+  2. **Cognitive limits** (`biological-cognitive-closure`, `embodiment-cognitive-limits`, `formal-cognitive-limits`, `self-maintained-cognitive-limits`, `collective-cognitive-limits`) — each carves a distinct origin (evolution vs. body vs. logic vs. motivation vs. social); biological-cognitive-closure already `coalesced_from` evolved-cognitive-limits and architecture-of-cognitive-closure.
+  3. **Conceptual cluster** (`conceptual-impossibility`, `conceptual-scheme-void`, `conceptual-metabolism-void`) — scheme-void has explicit "Against conceptual impossibility" and "Against language-thought boundary" sections; already `coalesced_from` framework-void and categorial-void; metabolism is irreversible-by-integration, distinct from all.
+  4. **Causal closure cluster** (`causal-closure`, `conservation-laws-and-mental-causation`) — heavy cross-reference but distinct scope (broader closure principle vs. narrow conservation-of-energy objection); each already `coalesced_from` prior merges.
+  5. **Mental causation** (`cross-cultural-convergence-on-mental-causation`, `mental-causation-and-downward-causation`, `content-specificity-of-mental-causation`) — convergence article is about *evidence from cross-tradition agreement*, not about the mechanism; clearly distinct purposes.
+- **Reason for no-op**: The site has matured to the point where most adjacent articles have been deliberately differentiated (often via prior coalesces or "Against X" sections) and forcing a merge would destroy structure. Per skill instructions: "If after five iterations there are still no strong candidates, abandon the attempt and do not merge anything."
+- **Output**: This changelog entry only; uncommitted per task brief (automation system handles commit).
+
+## 2026-05-01 11:40 UTC - refine-draft (verification, no-op)
+- **Status**: Success (no content changes — work already completed in the 11:17 UTC pass)
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Trigger**: Re-queued instance of the P2 reciprocal-hook task from [optimistic-2026-05-01b](/reviews/optimistic-2026-05-01b/) (todo.md line 40 already marked completed 11:17 UTC; duplicate P3 at line 6800 also already marked completed). This 11:40 UTC pass is a verification run.
+- **Forward link verified**: Lines 142–143 already install a fully integrative ~95-word body cross-link to [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) in the reframed "What Would Falsify the Framework" section, naming the route from in-principle falsifiability to applicable falsifiers via single-molecule quantum readout, sharper attentional probes, and joint phenomenal-physical correlation tools. Within the brief's ~30–80 word target.
+- **Reverse link verified**: Line 83 of `topics/falsification-roadmap-for-the-interface-model.md` (Tenet 2 / Minimal Quantum Interaction "Honest assessment") links back as `[specifying exactly how conscious states map to physical selections](/topics/the-interface-problem/)—the hardest open problem facing the Map's framework, and a challenge distinct from falsification`; line 171 (Further Reading) also links. Back-link exists and refers accurately to the interface-problem at the specification-challenge level. The framework-stage-commitment alignment ("currently unfalsifiable in practice... awaiting detection-threshold improvements") is *not yet* mirrored in the back-link wording, but this enhancement is already queued separately as item (b) of the P2 chain task `Cross-review topics/falsification-roadmap-for-the-interface-model.md against post-Lakatosian interface-problem framing` (todo.md line 47) — exactly the "queue a separate refine if not" path the task brief authorises. No new task created (existing chain task covers the scope).
+- **Skill discipline**: Per refine-draft "What NOT to Do" — `Don't make stylistic changes just for the sake of change.` The 11:17 UTC pass produced a comprehensive refinement log at lines 203–216 of the article; no further article-side changes warranted. `ai_modified` not bumped on `topics/the-interface-problem.md` (no content edits).
+- **Output**: No file modifications other than this changelog entry; uncommitted per task brief (automation system handles commit).
+
+## 2026-05-01 11:26 UTC - deep-review
+- **Status**: Success
+- **File**: [surprise-prediction-error-and-consciousness](/topics/surprise-prediction-error-and-consciousness/)
+- **Word count**: 3628 → 3628 (unchanged; length-neutral mode at 121% of 3000-word soft threshold)
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 1 (retargeted 3 occurrences of `[imagination-and-creativity-void](/voids/creative-aesthetic-void/)` → `[creative-aesthetic-void](/voids/creative-aesthetic-void/)` after the upstream void was archived 2026-04-23 and superseded; previously the link resolved to an archive-notice page)
+- **Enhancements made**: 0 (article reached convergence at 2026-03-19; no new content added)
+- **Output**: [deep-review-2026-05-01-surprise-prediction-error-and-consciousness](/reviews/deep-review-2026-05-01-surprise-prediction-error-and-consciousness/)
+
+## 2026-05-01 11:17 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Trigger**: P2 follow-up to 09:25 UTC refine that addressed four of seven [pessimistic-2026-05-01b](/reviews/pessimistic-2026-05-01b/) findings; this pass closes the three deferred items (microtubule-demotion charity, Cai dopamine→consciousness mapping, "What Would Falsify" testability) and folds in the queued P2 reciprocal-hook task from [optimistic-2026-05-01b](/reviews/optimistic-2026-05-01b/) (forward link to [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) installed at the natural editorial seam in the reframed "What Would Falsify" section).
+- **Original score**: No curate-tool score; pessimistic-review skill output drove the queue.
+- **Changes**: (1) microtubule-demotion passage expanded to name what would constitute a meaningful tubulin-coupling/PTM/synchrony differentiator (isoform expression, acetylation/detyrosination/polyglutamylation, gamma-band coupling maturation), with the same charity granted to the attention-motor architecture extended in principle to microtubules — demotion now framed as soft preference rather than structural exclusion; (2) Cai et al. citation qualified at both occurrence sites — "From Agnosticism" passage now separates Channel A (Cai's cognitive-functional finding: initiative as disposition to begin purposive behaviour) from Channel B (Map interpretation: same architecture is what conscious selection would have to act *through*), explicitly stating the framework adds the second to the first rather than deriving it from Cai; "Relation to Site Perspective" Bidirectional Interaction passage softened from "gains from" to "gains qualified support from" with the dissociation reframed as "consistent with" rather than "establishes"; (3) "What Would Falsify the Framework" section reframed consistent with the line-122 "currently unfalsifiable in practice" framing — opening sentence rewritten (in-principle falsifiable even where not so in practice yet; "rules out quantum effects" qualified to "consciousness-relevant quantum effects" / "the relevant indeterminacy"), new paragraph added stating the conditions are not currently testable, naming them as "in-principle falsification conditions awaiting detection-threshold improvements," and pointing to [falsification-roadmap-for-the-interface-model](/topics/falsification-roadmap-for-the-interface-model/) for the catalogue of intermediate experimental advances (single-molecule quantum readout, sharper attentional probes, joint phenomenal-physical correlation tools); (4) ai_modified bumped to 2026-05-01T11:17:00+00:00; refinement log block replaced with the 11:17 UTC follow-up log.
+- **Preserved** (per [optimistic-2026-05-01b](/reviews/optimistic-2026-05-01b/) Stability Notes): Lakatosian concession at "From Agnosticism" opener, pre-Keplerian framing, "currently unfalsifiable in practice" wording at line 122 — all left untouched.
+- **Word count**: ~430 words touched (within the brief's 300–500 range); article net growth ~280 words (~3,500 → ~3,780).
+- **Output**: obsidian/topics/the-interface-problem.md; uncommitted per task brief (automation system handles commit).
+
+## 2026-05-01 10:55 UTC - deep-review
+- **Status**: Success
+- **File**: [process-and-consciousness](/apex/process-and-consciousness/)
+- **Trigger**: Third deep review; substantively revised since 2026-03-15 via apex-evolve on 2026-04-21 that added phenomenal non-compositionality (van Inwagen / Merricks / McQueen-Tsuchiya), 2022-2024 empirical bridge (Kerskens & Pérez; Wiest et al.), the Schurger/Sjöberg Libet reinterpretation, and the Kent & Wittmann 280 ms specious-present linkage.
+- **Word count**: 3806 → 3810 (+4). Article at 95% of 4000 apex soft target — length-neutral mode.
+- **Critical issues addressed**: 0 — Attribution accuracy verified across all four new content blocks; all citations cross-checked against source articles (combination-problem, temporal-consciousness, free-will).
+- **Medium issues addressed**: 1 — Qualifier-preservation issue: Sjöberg (2024) characterized as "preserves volitional phenomenology entirely"; source says "retain their sense of voluntary action." Replaced with source phrasing.
+- **Enhancements made**: 0 — Convergence review.
+- **Stability marker**: Third review converging — each pass has found progressively fewer issues (medium-only in 2026-02-08, readability-only in 2026-03-15, single qualifier in 2026-05-01). Article has stabilised; only newly added content or factual corrections warrant future flags.
+- **Output**: [deep-review-2026-05-01-process-and-consciousness](/reviews/deep-review-2026-05-01-process-and-consciousness/); uncommitted per task brief (automation system handles commit).
+
+## 2026-05-01 10:41 UTC - optimistic-review
+- **Status**: Success
+- **Content reviewed**: Window 04:47 → 10:41 UTC; eight operations across four mature apex/topic deep reviews (`epistemology-of-mechanism`, `time-consciousness-growing-block`, `consciousness-and-the-philosophy-of-mathematics`, `contemplative-path`, `the-self-minimal-narrative-and-substantial`), one cross-review parity audit (`cognitive-phenomenology-and-the-irreducibility-of-thought`), one tenet-check refinement (`closed-loop-opportunity-execution`, `time-collapse-and-agency`), and one pessimistic→refine-draft cycle on the freshly coalesced `the-interface-problem`. Headline patterns: multi-article convergence-stability (4 articles cleared 3rd–5th deep reviews with progressively-fewer findings), the Lakatosian concession at interface-problem's "From Agnosticism" pivot, the pre-Keplerian framing replacing the Newton analogy, hub/exemplar parity discipline operating as deliberate workflow, and methodology-cluster reciprocity at parity. Three P3 tasks added (interface-problem ↔ falsification-roadmap reciprocal hook; project-doc on framework-stage calibration; project-doc on hub/exemplar parity audit). One tooling concern flagged (self-citation date linter — same regression caught twice on philosophy-of-mathematics) — not added as content task.
+- **Output**: [optimistic-2026-05-01b](/reviews/optimistic-2026-05-01b/); uncommitted per task brief (automation system handles commit).
+
+## 2026-05-01 10:25 UTC - deep-review
+- **Status**: Success
+- **File**: [contemplative-path](/apex/contemplative-path/)
+- **Trigger**: Third deep review; substantively revised since 2026-03-14 via apex-evolve on 2026-04-28 that added Sufi *murāqaba* and Christian *recollectio* to the witness convergence, the Petitmengin/Navarro/Le Van Quyen (2007) epilepsy-prodrome microphenomenology case, a methodological-weakness caveat for *nirodha samāpatti*, and the aesthetic decomposition test.
+- **Word count**: 3659 → 3659 (no change). Article at 91% of 4000 apex soft target.
+- **Critical issues addressed**: 0 — Attribution accuracy verified across all six new content blocks; all citations cross-checked against deep reviews of source articles (introspection 2026-04-23, microphenomenological-interview-method 2026-04-19, phenomenological-method-and-evidence-standards 2026-04-20).
+- **Medium issues addressed**: 1 — Grammatical awkwardness in convergence argument: "is the better explanation by genuine discovery" → "is better explained as genuine discovery" (line 157).
+- **Enhancements made**: 0 — Convergence review. All six adversarial personas raise bedrock disagreements already noted in prior reviews; no re-litigation.
+- **Stability marker**: Third review converging — each pass has found progressively fewer issues. Article has stabilised; only newly added content or factual corrections warrant future flags.
+- **Output**: [deep-review-2026-05-01-contemplative-path](/reviews/deep-review-2026-05-01-contemplative-path/); uncommitted per task brief (automation system handles commit).
+
+## 2026-05-01 10:10 UTC - deep-review
+- **Status**: Success
+- **File**: [time-consciousness-growing-block](/apex/time-consciousness-growing-block/)
+- **Trigger**: Third deep review; substantively revised since 2026-03-13 via two apex-evolve sessions (2026-03-14 and 2026-04-15) that added new sections on temporal thickness, attentional modulation, the kairos moment, agent identity across collapses, the two-tier collapse response, and the circularity problem.
+- **Word count**: 3620 → 3619 (-1). Article at 90% of 4000 apex soft target.
+- **Critical issues addressed**: 0
+- **Medium issues addressed**: 2 — (1) Stale `apex_sources` frontmatter referencing archived `topics/philosophy-of-time-and-consciousness` and `concepts/duration` (both successors already listed); replaced with `concepts/retrocausality` to reflect actual source dependence. (2) Duplicate Source Articles entries pointing to the same file (`temporal-consciousness-structure-and-agency`) with different display text — same redundancy pattern the 2026-03-13 review fixed for `temporal-consciousness`; consolidated into one entry covering all subtopics.
+- **Enhancements made**: 0 — Convergence review. All adversarial-persona objections are bedrock disagreements already noted in prior reviews. Verified all new wikilinks (`consciousness-as-activity`, `attention-as-interface`, `temporal-consciousness-structure-and-agency`) resolve, and that the 12-order-of-magnitude decoherence claim is properly sourced via wikilink.
+- **Stability marker**: Third review converging — each pass has found progressively fewer and smaller issues. The substantive philosophical content has stabilised.
+- **Output**: [deep-review-2026-05-01-time-consciousness-growing-block](/reviews/deep-review-2026-05-01-time-consciousness-growing-block/); uncommitted per task brief (automation system handles commit).
+
+## 2026-05-01 09:56 UTC - deep-review
+- **Status**: Success
+- **File**: [consciousness-and-the-philosophy-of-mathematics](/concepts/consciousness-and-the-philosophy-of-mathematics/)
+- **Trigger**: Cycle-selected (4th review; last reviewed 2026-03-25, modified since via three integration commits adding inbound links from `concession-convergence-philosophy-of-mathematics`, `comparative-phenomenology-of-mathematical-insight`, and the `quantitative-comprehension-void` retargeting).
+- **Word count**: 1697 → 1697 (no change). Article at 68% of 2500 soft target.
+- **Critical issues addressed**: 1 — Self-citation date regression in Reference 8 (`2026-03-28` → `2026-01-21`). This is the same error fixed in the 2026-03-25 review; it regressed when the cited target article's `modified` date was bumped. Restored per writing-style.md (use `created`, not `modified`, of cited article).
+- **Medium issues addressed**: 1 — Normalised path-prefixed wikilink `[epiphenomenal](/concepts/epiphenomenalism/)` to bare-slug `[epiphenomenal](/concepts/epiphenomenalism/)` for consistency with the article's other wikilinks.
+- **Enhancements made**: 0. Convergence review — the article has stabilised after three prior deep reviews.
+- **Stability marker**: Fourth review confirms steady state. Future deep reviews of this article should be brief unless new content is added.
+- **Output**: [deep-review-2026-05-01-consciousness-and-the-philosophy-of-mathematics](/reviews/deep-review-2026-05-01-consciousness-and-the-philosophy-of-mathematics/); uncommitted per task brief (automation system handles commit).
+
+## 2026-05-01 09:40 UTC - deep-review
+- **Status**: Success
+- **File**: [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/)
+- **Trigger**: Cross-review of [the-self-minimal-narrative-and-substantial](/topics/the-self-minimal-narrative-and-substantial/) following the [zahavian-minimal-self](/concepts/self-and-self-consciousness/) → [self-and-self-consciousness](/concepts/self-and-self-consciousness/) coalesce (completed 2026-05-01 01:15 UTC). Article had been auto-retargeted to anchored references at 01:25 UTC; this review verified anchors, attribution, and cross-link density.
+- **Word count**: 2894 → 2896 (+2 words). Article at 97% of 3000 soft target.
+- **Critical issues addressed**: 0 (none found; coalesce cleanup verified complete).
+- **Medium issues addressed**: 2 — (1) Replaced raw-slug display text "self-and-self-consciousness" with article title "Self and Self-Consciousness" on the Metzinger anchor link. (2) Expanded Further Reading description for the coalesced page to reflect its broader scope (now also covers self-consciousness, circularity problem, Strawson/Hume distinctions, diachronic identity).
+- **Enhancements made**: 0 structural; 2 minor wording cleanups.
+- **Anchors verified**: `#Why the Map Requires the Zahavian Version` and `#Metzinger's Alternative and Why It Differs` both live in the coalesced target.
+- **Stability marker added**: Coalesce-driven anchoring is now stable; future reviews should not re-introduce links to archived `zahavian-minimal-self` and should not over-link the coalesced page beyond current density.
+- **Output**: [deep-review-2026-05-01-the-self-minimal-narrative-and-substantial](/reviews/deep-review-2026-05-01-the-self-minimal-narrative-and-substantial/); uncommitted per task brief (automation system handles commit).
+
+## 2026-05-01 09:25 UTC - refine-draft
+- **Status**: Success
+- **File**: [the-interface-problem](/topics/the-interface-problem/)
+- **Trigger**: P2 todo addressing [pessimistic-2026-05-01b](/reviews/pessimistic-2026-05-01b/) critical/medium issues on the freshly coalesced interface-problem article.
+- **Issues addressed (4 of 7 in scope per task brief)**: (1) constrained pluralism reframed as reorganisation rather than narrowing — lead summary and "From Agnosticism" section opener both adjusted, three-of-four candidates explicitly preserved; (4) "underdetermination, not unfalsifiability" replaced with "currently unfalsifiable in practice," accepting the Popperian point; (5) self-stultifying charge against epiphenomenalism softened, Chalmers (1996) and Robinson (2004) responses cited, the move reframed from clincher to specification-burden preference; (7) pre-Keplerian framing expanded — bandwidth constraint, Born-rule causal-consistency, theta signatures identified as Tycho-like measurements, coupling-modes taxonomy and five formal constraints identified as constraint scaffolding rather than laws.
+- **Lakatosian counterargument**: Conceded post-hoc accommodation rather than predictive narrowing in the "From Agnosticism" section opener; framework's defence stated honestly (more constrained than agnosticism, not predictive).
+- **Issues deferred**: (2) microtubule-demotion charity, (3) dopamine→consciousness mapping, (6) "What Would Falsify" testability — left for a follow-up refine-draft. New P3 task added.
+- **Word count delta**: +~300 words across five edits (lead summary, "From Agnosticism" opener, "Why Specification Is Hard" closer, "The Critic's Strongest Objection" mid-section, Newton/pre-Keplerian paragraph). Total article ~3,500 → ~3,800 words.
+- **Tenet alignment**: Bidirectional Interaction (the article's most load-bearing tenet — preserved); Occam's Razor Has Limits (acknowledged honestly via Lakatosian concession + pre-Keplerian framing); methodological discipline (Tenet 5) by accepting Popperian scolding rather than rebutting it verbally.
+- **Output**: edits to `obsidian/topics/the-interface-problem.md`; AI refinement log appended (to be removed after human review). Uncommitted per task brief.
+
+## 2026-05-01 09:18 UTC - pessimistic-review
+- **Status**: Success
+- **Content reviewed**: [the-interface-problem](/topics/the-interface-problem/) — coalesced 2026-05-01 07:30–08:00 UTC, no prior pessimistic review on file
+- **Output**: [pessimistic-2026-05-01b](/reviews/pessimistic-2026-05-01b/)
+
+## 2026-05-01 08:55 UTC - refine-draft
+- **Status**: Success
+- **Files**: [closed-loop-opportunity-execution](/project/closed-loop-opportunity-execution/), [time-collapse-and-agency](/topics/time-collapse-and-agency/)
+- **Trigger**: Tenet-check 2026-05-01 07:47 UTC tensions (1) temporal-cluster proliferation, (3) AI substrate-requirements, (4) methodological-discipline cluster modifications
+- **Tension (1) — temporal cluster:** Audited 8 articles (`atemporal-causation`, `retrocausality`, `time-symmetric-selection-mechanism`, `forward-in-time-conscious-selection`, `time-collapse-and-agency`, `consciousness-and-the-ontology-of-temporal-becoming`, `non-temporal-consciousness`, `bergson-and-duration`) for mechanism-direction framing against the canonical [forward-in-time-conscious-selection](/topics/forward-in-time-conscious-selection/). Cluster is internally coherent: each mechanism-direction article reciprocally disambiguates forward-in-time vs. retrocausal/atemporal pathways and frames the Map as developing both without requiring a final choice. One surface-level fix: `time-collapse-and-agency.md` lead read "Free will operates through retrocausal or atemporal quantum selection" — bridged to "retrocausal, atemporal, or forward-in-time" with one-clause article-scope disclaimer (truncation-resilience improvement; body and Further Reading were already correct).
+- **Tension (3) — AI substrate-requirements:** Audited 5 articles (`ai-consciousness`, `ai-consciousness-typology`, `machine-consciousness`, `quantum-randomness-channel-llm-consciousness`, `quantum-state-inheritance-in-ai`) per the actual review's cluster identification (note: task brief named different files; the review's identification is authoritative). All five consistently hedge substrate-requirements as *predictions of the Map's framework* rather than independent empirical findings. Hedging language is uniform and explicit (`ai-consciousness.md` line 112, `machine-consciousness.md` lines 52/88, `quantum-randomness-channel-llm-consciousness.md` line 74, `quantum-state-inheritance-in-ai.md` line 34). No fixes needed — verification result; the cluster's discipline holds.
+- **Tension (4) — methodology cluster:** Audited 4 articles (`automation`, `closed-loop-opportunity-execution`, `bedrock-clash-vs-absorption`, `coalesce-condense-apex-stability`). Identified one cross-reference inconsistency: `closed-loop-opportunity-execution.md` did not reference `bedrock-clash-vs-absorption` anywhere (not in `related_articles`, body text, or Further Reading), while the other three articles all reciprocally cross-link the trio. Added bedrock-clash to closed-loop's frontmatter, body text (where the trio of methodology disciplines is named), and Further Reading. The methodology cluster now reciprocally cross-links symmetrically.
+- **Coordination**: This task addresses tensions (1), (3), (4); items (2) interface-problem coalesce stability and (5) illusionism carry-forward closure are covered by other queued tasks. Findings inform the queued cognitive-phenomenology cross-review (substrate-requirements framing already disciplined) and the interface-problem deep-review (the temporal cluster's mechanism-direction discipline shows the pattern interface-problem articles can adopt).
+- **Word count delta**: closed-loop-opportunity-execution.md +~150 words (one related_articles line, one body sentence rephrased, one Further Reading entry); time-collapse-and-agency.md ~+15 words (one-clause bridge in opening summary). Total ~165 words across two files.
+- **Tenet alignment**: Methodological (Tenet 5) for tension (4); content alignment for tension (1) Bidirectional Interaction (mechanism-direction coherence in the temporal cluster) and tension (3) Dualism (substrate-requirements as framework prediction). All tenets preserved.
+- **Output**: [tenet-check-2026-05-01](/reviews/tenet-check-2026-05-01/) (source review); changelog entry above.
 
 ## 2026-05-01 08:40 UTC - deep-review
 - **Status**: Success
