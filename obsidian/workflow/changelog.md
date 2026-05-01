@@ -1,9 +1,21 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T09:35:00+00:00
+ai_modified: 2026-05-01T09:40:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 09:40 UTC - deep-review
+- **Status**: Success
+- **File**: [[topics/the-self-minimal-narrative-and-substantial]]
+- **Trigger**: Cross-review of [[the-self-minimal-narrative-and-substantial]] following the [[zahavian-minimal-self]] → [[self-and-self-consciousness]] coalesce (completed 2026-05-01 01:15 UTC). Article had been auto-retargeted to anchored references at 01:25 UTC; this review verified anchors, attribution, and cross-link density.
+- **Word count**: 2894 → 2896 (+2 words). Article at 97% of 3000 soft target.
+- **Critical issues addressed**: 0 (none found; coalesce cleanup verified complete).
+- **Medium issues addressed**: 2 — (1) Replaced raw-slug display text "self-and-self-consciousness" with article title "Self and Self-Consciousness" on the Metzinger anchor link. (2) Expanded Further Reading description for the coalesced page to reflect its broader scope (now also covers self-consciousness, circularity problem, Strawson/Hume distinctions, diachronic identity).
+- **Enhancements made**: 0 structural; 2 minor wording cleanups.
+- **Anchors verified**: `#Why the Map Requires the Zahavian Version` and `#Metzinger's Alternative and Why It Differs` both live in the coalesced target.
+- **Stability marker added**: Coalesce-driven anchoring is now stable; future reviews should not re-introduce links to archived `zahavian-minimal-self` and should not over-link the coalesced page beyond current density.
+- **Output**: [[reviews/deep-review-2026-05-01-the-self-minimal-narrative-and-substantial]]; uncommitted per task brief (automation system handles commit).
 
 ## 2026-05-01 09:25 UTC - refine-draft
 - **Status**: Success

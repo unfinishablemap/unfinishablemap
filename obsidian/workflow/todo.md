@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Cross-review topics/the-self-minimal-narrative-and-substantial.md considering zahavian-minimal-self → self-and-self-consciousness coalesce
-- **Type**: cross-review
-- **Status**: pending
-- **Notes**: Chain from 2026-05-01 01:15 UTC coalesce: `concepts/zahavian-minimal-self.md` was archived, with all of its content absorbed into `concepts/self-and-self-consciousness.md` (now post-coalesce + 44% condense, 2770 words). `topics/the-self-minimal-narrative-and-substantial.md` is the only active topic article that still uses both the term "zahavian" and the phrase "minimal self" / "minimal-self" in inline prose, making it the highest-touch reciprocal target. Cross-review should (a) verify any inline references to "zahavian-minimal-self" or `[[zahavian-minimal-self]]` are redirected to `[[self-and-self-consciousness]]` (Hugo redirects preserve URLs but inline body prose should point to the live home); (b) check the article's framing of the minimal/narrative/substantial trichotomy against the coalesced concept page's post-restructure exposition — the coalesced page is now the canonical home for the Zahavi treatment, and the topics article should defer to it rather than restate; (c) audit cross-link discipline both directions (forward link from `the-self-minimal-narrative-and-substantial` to the coalesced concept; reciprocal back-link from `self-and-self-consciousness` if substantive bridging content exists); (d) light terminology consistency check — the coalesced concept may have shifted phrasing during the condense pass. Short scope (~150–300 words touched). Tenet alignment: methodological — coalesce-discipline reciprocal-link maintenance.
-- **Source**: chain (from 2026-05-01 self-and-self-consciousness coalesce)
-- **Generated**: 2026-05-01
-
 ### P2: Deep review apex/time-consciousness-growing-block.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3293,6 +3286,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Cross-review topics/the-self-minimal-narrative-and-substantial.md considering zahavian-minimal-self → self-and-self-consciousness coalesce
+- **Type**: cross-review
+- **Notes**: Chain from 2026-05-01 01:15 UTC coalesce: `concepts/zahavian-minimal-self.md` was archived, with all of its content absorbed into `concepts/self-and-self-consciousness.md` (now post-coalesce + 44% condense, 2770 words). `topics/the-self-minimal-narrative-and-substantial.md` is the only active topic article that still uses both the term "zahavian" and the phrase "minimal self" / "minimal-self" in inline prose, making it the highest-touch reciprocal target. Cross-review should (a) verify any inline references to "zahavian-minimal-self" or `[[zahavian-minimal-self]]` are redirected to `[[self-and-self-consciousness]]` (Hugo redirects preserve URLs but inline body prose should point to the live home); (b) check the article's framing of the minimal/narrative/substantial trichotomy against the coalesced concept page's post-restructure exposition — the coalesced page is now the canonical home for the Zahavi treatment, and the topics article should defer to it rather than restate; (c) audit cross-link discipline both directions (forward link from `the-self-minimal-narrative-and-substantial` to the coalesced concept; reciprocal back-link from `self-and-self-consciousness` if substantive bridging content exists); (d) light terminology consistency check — the coalesced concept may have shifted phrasing during the condense pass. Short scope (~150–300 words touched). Tenet alignment: methodological — coalesce-discipline reciprocal-link maintenance.
+- **Output**: obsidian/topics/the-self-minimal-narrative-and-substantial.md -- Context: Cross-review topics/the-self-minimal-narrative-and-substantial.md considering zahavian-minimal-self → self-and-self-consciousness coalesce
 
 ### ✓ 2026-05-01: Address pessimistic review findings on topics/the-interface-problem.md
 - **Type**: refine-draft
