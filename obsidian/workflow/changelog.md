@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-04-30 23:40:00+00:00
+ai_modified: 2026-04-30 23:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-04-30 23:55 UTC - coalesce
+- **Status**: Abandoned (no strong candidates)
+- **Section surveyed**: voids/ (96/100 = 96%, most pressured); also sampled topics/ (230/250 = 92%)
+- **Candidates examined**: affective/valence/mood/mattering cluster; biological/embodiment/self-maintained cognitive-limits cluster; conceptual-impossibility/metabolism/scheme cluster; recursion/witnessing pair; inaccessible-past/erasure pair; inference/recognition/suspension cluster; counterfactual/closure-types pair; altered-states/non-human-minds probe articles; quantum-measurement-and-consciousness/subjective-probability pair
+- **Reason for abandonment**: Section already heavily coalesced (recent merges include forward-in-time-conscious-selection at 19:05 UTC today, plus observation-and-measurement-void, apophatic-cartography, biological-cognitive-closure, self-maintained-cognitive-limits, transit-void, ineffable-encounter-void, smoothness-and-continuity, inaccessible-past, non-human-minds-as-void-explorers, meta-epistemology-of-limits — many show `coalesced_from:` frontmatter with 2–5 prior ancestors). Articles uniformly carry explicit "what this is / is not" sections distinguishing themselves from neighbours. The apex `conjunction-coalesce` formalises a discipline of keeping seams visible between conjoined voids rather than dissolving them, which structurally argues against further merger of the candidates checked. No pair examined met the threshold of significant overlap with weak differentiation.
+- **References to review**: none
 
 ## 2026-04-30 23:40 UTC - condense
 - **Status**: Success
