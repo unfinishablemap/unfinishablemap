@@ -1,9 +1,18 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T16:55:00+00:00
+ai_modified: 2026-05-01T21:35:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 21:26 UTC - research-voids
+- **Status**: Success
+- **Topic**: The Aspect Perception Void (Wittgensteinian seeing-as)
+- **Category**: Mixed — primarily Unexplorable, with Occluded and Unexplored faces
+- **Output**: [[research/voids-aspect-perception-void-2026-05-01]]
+- **Key finding**: Aspect perception has three structural faces — dawning (transit-opacity), aspect-blindness (architectural-asymmetry), constitution (from-to opacity) — that conjoin at a single seam, making it a strong conjunction-coalesce cognate candidate; the moment of aspect-switching is reflexively unavailable while the integration that constitutes seeing-as cannot be made focal without collapsing.
+- **Voids count**: 98/100 (under cap by 2)
+- **Uncommitted per task brief** (automation system handles commit).
 
 ## 2026-05-01 21:01 UTC - condense
 - **Status**: Success
