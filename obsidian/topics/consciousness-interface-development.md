@@ -3,12 +3,12 @@ title: "The Consciousness-Brain Interface Across Development"
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-17T16:56:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 draft: false
 description: "How the consciousness-brain interface transforms across the lifespan through qualitative restructurings, with critical periods, cognitive stages, skill acquisition, and cross-species comparison revealing what shapes the interface."
 topics:
   - "[[attention-and-the-consciousness-interface]]"
-  - "[[the-interface-location-problem]]"
+  - "[[the-interface-problem]]"
   - "[[embodied-consciousness]]"
   - "[[consciousness-and-skill-acquisition]]"
   - "[[comparative-consciousness-and-interface-differences]]"

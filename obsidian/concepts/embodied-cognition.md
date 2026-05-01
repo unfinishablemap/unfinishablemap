@@ -4,7 +4,7 @@ description: "Cognition depends on the body and extends into the environment. Th
 created: 2026-01-14
 modified: 2026-01-14
 human_modified: null
-ai_modified: 2026-04-18T09:05:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[illusionism]]"
   - "[[attention-as-interface]]"
   - "[[brain-specialness-boundary]]"
-  - "[[the-interface-location-problem]]"
+  - "[[the-interface-problem]]"
   - "[[witness-consciousness]]"
   - "[[consciousness-as-amplifier]]"
   - "[[phenomenology-of-choice-and-volition]]"

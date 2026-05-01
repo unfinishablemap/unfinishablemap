@@ -4,7 +4,7 @@ description: "Dopamine serves both attention and motor systems because these sys
 created: 2026-02-04
 modified: 2026-02-04
 human_modified: null
-ai_modified: 2026-04-29T16:55:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 draft: false
 topics:
   - "[[topics/free-will]]"
@@ -228,7 +228,7 @@ What dopamine research provides is a candidate locus and a constraint: whatever 
 - [[mental-effort]] — Why selection feels effortful
 - [[quantum-consciousness]] — Quantum mechanisms for consciousness-brain interaction
 - [[consciousness-and-neurodegenerative-disease]] — What progressive dopamine loss reveals about the mind-brain relationship
-- [[the-interface-location-problem]] — Where in the brain the selection interface operates
+- [[the-interface-problem]] — Where in the brain the selection interface operates and how conscious states map to physical selections
 - [[volitional-control]] — Why the willed/automatic dissociation matters for dualism
 - [[consciousness-and-skill-acquisition]] — When dopamine-prepared selection meets no resistance
 - [[valence-and-conscious-selection]] — Whether the selection consciousness performs is guided by felt value (engages with Berridge's wanting/liking distinction)

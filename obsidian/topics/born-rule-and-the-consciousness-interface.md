@@ -4,7 +4,7 @@ description: "The Born rule resists derivation across every quantum interpretati
 created: 2026-03-15
 modified: 2026-04-23
 human_modified:
-ai_modified: 2026-04-23T17:00:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -38,7 +38,7 @@ related_articles:
   - "[[many-worlds-argument]]"
   - "[[concepts/many-worlds]]"
   - "[[pragmatist-quantum-foundations-under-dualism]]"
-  - "[[the-interface-specification-problem]]"
+  - "[[the-interface-problem]]"
   - "[[born-rule-violation-brain-interface-empirical-status-2026-04-23]]"
 ai_contribution: 100
 author:
@@ -131,7 +131,7 @@ Torres Alegre (2025) showed that within generalised probabilistic theories satis
 
 For the consciousness-interface interpretation, this is illuminating rather than threatening. If consciousness modulates quantum outcomes, it *must* follow the Born rule — any deviation would enable superluminal signalling, inconsistent with [[tenets#^minimal-quantum-interaction|minimal interaction]]. The Born rule is what relativistic causality *requires* of any agent — physical or non-physical — that participates in measurement outcomes.
 
-The rule's form is determined by causal consistency; its existence — the fact that one outcome actualises from among possibilities — is what physics cannot generate. This is the kind of partial progress [[the-interface-specification-problem#What Would Count as Progress?|the interface specification problem]] identifies as tractable short of a full mapping: physics-side constraints narrow the space of viable corridor-family specifications even while the mental-side variable remains unsettled.
+The rule's form is determined by causal consistency; its existence — the fact that one outcome actualises from among possibilities — is what physics cannot generate. This is the kind of partial progress [[the-interface-problem#What Would Count as Progress?|the interface specification problem]] identifies as tractable short of a full mapping: physics-side constraints narrow the space of viable corridor-family specifications even while the mental-side variable remains unsettled.
 
 Two qualifications temper this picture. Born-uniqueness and causal-consistency have been tested in photon, atom, qubit, triple-slit, and high-energy regimes — not in brain-internal tissue during conscious selection ([[born-rule-violation-brain-interface-empirical-status-2026-04-23]]) — so the corridor binds wherever the standard postulates hold rather than universally. And it binds only *interface* theories; the [[trumping-preemption|trumping alternative]] ([[delegatory-causation]]) leaves the formalism untouched, so the Born rule is neither a constraint on nor a signature of the interface under that reading.
 

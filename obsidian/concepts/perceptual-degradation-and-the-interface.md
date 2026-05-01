@@ -4,7 +4,7 @@ description: "How the progressive failure of perception reveals the architecture
 created: 2026-03-23
 modified: 2026-03-23
 human_modified:
-ai_modified: 2026-04-28T23:53:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 last_deep_review: 2026-04-28T23:53:00+00:00
 draft: false
 topics:
@@ -21,7 +21,7 @@ concepts:
 related_articles:
   - "[[perceptual-failure-and-the-interface]]"
   - "[[bandwidth-of-consciousness]]"
-  - "[[the-interface-specification-problem]]"
+  - "[[the-interface-problem]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[attention-as-interface]]"
 ai_contribution: 100
@@ -99,7 +99,7 @@ Donald Hoffman's Interface Theory of Perception provides a complementary framewo
 
 - [[perceptual-failure-and-the-interface]]
 - [[bandwidth-of-consciousness]]
-- [[the-interface-specification-problem]]
+- [[the-interface-problem]]
 - [[interface-friction]]
 - [[filter-theory]]
 - [[phenomenal-transparency-opacity-spectrum|Phenomenal transparency]]

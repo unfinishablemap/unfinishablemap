@@ -4,7 +4,7 @@ description: "Perceptual degradation reveals the consciousness-brain interface: 
 created: 2026-03-09
 modified: 2026-03-14
 human_modified:
-ai_modified: 2026-04-29T01:49:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -30,7 +30,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[dualist-perception]]"
-  - "[[the-interface-specification-problem]]"
+  - "[[the-interface-problem]]"
   - "[[anaesthesia-and-the-consciousness-interface]]"
   - "[[sensorimotor-contingencies-and-the-interface]]"
   - "[[bandwidth-of-consciousness]]"
@@ -137,7 +137,7 @@ The bandwidth model accommodates this directly. A transmission channel with fini
 ## Further Reading
 
 - [[dualist-perception]]
-- [[the-interface-specification-problem]]
+- [[the-interface-problem]]
 - [[anaesthesia-and-the-consciousness-interface]]
 - [[interface-friction]]
 - [[filter-theory]]

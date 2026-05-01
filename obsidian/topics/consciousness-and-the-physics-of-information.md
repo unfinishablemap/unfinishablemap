@@ -4,7 +4,7 @@ description: "If information is physically fundamental, consciousness may sit at
 created: 2026-02-15
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-17T08:19:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 last_deep_review: 2026-04-17T08:19:00+00:00
 draft: false
 topics:
@@ -24,7 +24,7 @@ related_articles:
   - "[[tenets]]"
   - "[[participatory-universe-2026-02-08]]"
   - "[[consciousness-and-integrated-information]]"
-  - "[[the-interface-specification-problem]]"
+  - "[[the-interface-problem]]"
   - "[[consciousness-and-causal-powers]]"
   - "[[conservation-laws-and-mental-causation]]"
   - "[[metaphysics-of-information-under-dualism]]"
@@ -81,7 +81,7 @@ The Map proposes a third possibility, consistent with its [[tenets|foundational 
 
 Wheeler's [[wheelers-participatory-universe-and-it-from-bit|participatory framework]] supports this reading. If physical facts are constituted by informational acts of measurement, and if consciousness participates in measurement (as some interpretations of [[quantum-measurement-and-consciousness|the measurement problem]] suggest—a contested position, associated with von Neumann and Stapp rather than mainstream physics), then consciousness shapes reality through information without being reducible to it. One way to develop this idea is through [[adaptive-computational-depth|adaptive computational depth]]—the hypothesis that reality's informational content concentrates where conscious observers engage, much as adaptive mesh refinement in computational physics allocates detail where it matters. Information is the language in which mind and matter communicate, not a substance that eliminates the distinction between them.
 
-The standard objection is [[decoherence]]: quantum coherence in warm biological tissue decoheres on timescales far shorter than neural processing requires (Tegmark 2000 estimated 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules). If coherence is destroyed almost instantly, how can consciousness bias quantum outcomes? The Map's response: decoherence selects preferred bases but does not explain why one definite outcome rather than another is observed. Consciousness could bias outcomes at the point where indeterminacy resolves into a definite result, even after decoherence has occurred. The details of this mechanism remain an open problem—the [[the-interface-specification-problem|interface specification problem]]—but decoherence does not close the question. See [[quantum-consciousness]] for the full treatment of decoherence objections and responses.
+The standard objection is [[decoherence]]: quantum coherence in warm biological tissue decoheres on timescales far shorter than neural processing requires (Tegmark 2000 estimated 10⁻¹³ to 10⁻²⁰ seconds for neural microtubules). If coherence is destroyed almost instantly, how can consciousness bias quantum outcomes? The Map's response: decoherence selects preferred bases but does not explain why one definite outcome rather than another is observed. Consciousness could bias outcomes at the point where indeterminacy resolves into a definite result, even after decoherence has occurred. The details of this mechanism remain an open problem—the [[the-interface-problem|interface specification problem]]—but decoherence does not close the question. See [[quantum-consciousness]] for the full treatment of decoherence objections and responses.
 
 ## Landauer's Principle and the Cost of Consciousness
 
@@ -118,7 +118,7 @@ The **No Many Worlds** tenet connects directly. Many-worlds avoids collapse by t
 - [[quantum-measurement-and-consciousness]]
 - [[hard-problem-of-consciousness]]
 - [[prebiotic-collapse]]
-- [[the-interface-specification-problem]]
+- [[the-interface-problem]]
 - [[consciousness-and-causal-powers]]
 - [[conservation-laws-and-mental-causation]]
 - [[metaphysics-of-information-under-dualism]] — The ontological status of information under dualist metaphysics

@@ -1,9 +1,16 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T07:17:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 07:25 UTC - refine-draft
+- **Status**: Success
+- **Files**: 21 active articles cross-linking to the now-archived `the-interface-location-problem` and `the-interface-specification-problem` slugs (8 referencing location, 14 referencing specification, with `concepts/filter-theory.md` referencing both)
+- **Changes**: Retargeted 22 wikilinks to the unified `[[the-interface-problem]]` following the 2026-05-01 05:55 UTC coalesce. Pipe-renamed display labels preserved where the source sentence named a sub-question (e.g., `[[the-interface-problem|attention-motor architecture]]`, `[[the-interface-problem|interface specification problem]]`). Two un-piped body references received pipe-renames to retain the original noun phrase: `concepts/metaphysics-of-information-under-dualism.md` line 91 ("the interface specification problem") and `topics/consciousness-and-causal-powers.md` line 74 ("the interface location problem"). In `concepts/filter-theory.md`, frontmatter, body text (line 137), and Further Reading were consolidated from two separate references into one; similar one-line consolidation applied to `concepts/interface-heterogeneity.md`, `topics/dopamine-and-the-unified-interface.md`, `topics/brain-computer-interfaces-and-the-interface-boundary.md`, and several Further Reading descriptions broadened to acknowledge the unified article covers both location and specification halves.
+- **Notes**: Targeted link-maintenance refinement following [[the-interface-problem]] coalesce. Archive redirects preserve the old URLs; this updates active cross-references so readers and the LLM-first navigation flow land on the unified treatment. Voice and argument structure in each article preserved — only wikilink targets and (where necessary) the surrounding short noun phrases were touched. ai_modified updated on each modified file.
+- **Published**: yes
 
 ## 2026-05-01 07:17 UTC - coalesce
 - **Status**: Abandoned (no strong candidates)

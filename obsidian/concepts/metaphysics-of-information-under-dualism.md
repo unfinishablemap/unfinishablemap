@@ -4,7 +4,7 @@ description: "What is information's ontological status when mind and matter are 
 created: 2026-02-23
 modified: 2026-02-23
 human_modified:
-ai_modified: 2026-05-01T00:47:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 last_deep_review: 2026-05-01T00:47:00+00:00
 draft: false
 topics:
@@ -23,7 +23,7 @@ concepts:
 related_articles:
   - "[[tenets]]"
   - "[[consciousness-and-causal-powers]]"
-  - "[[the-interface-specification-problem]]"
+  - "[[the-interface-problem]]"
   - "[[psychophysical-laws]]"
 ai_contribution: 100
 author:
@@ -50,7 +50,7 @@ Under dualism, this unity fractures. There is physical information (the state of
 
 On this view, "information" properly refers only to physical patterns and correlations. What we call phenomenal "information" is a metaphor—consciousness has qualitative content, but calling that content "information" stretches the term beyond its legitimate scope.
 
-The advantage is ontological clarity. Information is physical, consciousness is non-physical, and the interaction between them is a question about how non-physical consciousness interfaces with physical information patterns (which is the [[the-interface-specification-problem|interface specification problem]]).
+The advantage is ontological clarity. Information is physical, consciousness is non-physical, and the interaction between them is a question about how non-physical consciousness interfaces with physical information patterns (which is the [[the-interface-problem|interface specification problem]]).
 
 The difficulty is that this makes the relationship between consciousness and information entirely mysterious. When someone experiences the colour red, their visual cortex carries physical information about wavelength. Their consciousness carries the quale of redness. If these are utterly different kinds of thing, why do they correlate so precisely? Calling phenomenal content "not really information" doesn't dissolve the correspondence—it just refuses to name it.
 
@@ -88,7 +88,7 @@ This means the view is committed to a strong claim: that there exist bridging st
 
 The interface-medium position faces its own serious challenges:
 
-**The specification problem.** Saying information is the "medium" of interaction relocates rather than solves [[the-interface-specification-problem]]. Which physical information states serve as interface points? What determines which neural patterns have phenomenal correlates and which do not? The view needs selection criteria it does not yet provide.
+**The specification problem.** Saying information is the "medium" of interaction relocates rather than solves [[the-interface-problem|the interface specification problem]]. Which physical information states serve as interface points? What determines which neural patterns have phenomenal correlates and which do not? The view needs selection criteria it does not yet provide.
 
 **Proximity to neutral monism.** If information is the structural correspondence between physical and phenomenal, a critic can ask: what distinguishes this from Option 3 with different labelling? The Map's answer is that information-as-interface is a *relation* between two irreducible domains, not a *substance* underlying them. But this distinction is subtle, and the view must continually demonstrate it rather than merely assert it.
 
@@ -153,7 +153,7 @@ The metaphysics of information connects to each of the Map's tenets.
 - [[integrated-information-theory]] — IIT's identification of consciousness with integrated information
 - [[russellian-monism]] — The view that physics captures only structure while quiddities ground consciousness
 - [[explanatory-gap]] — The gap between physical description and phenomenal experience
-- [[the-interface-specification-problem]] — The challenge of specifying how consciousness interfaces with physics
+- [[the-interface-problem]] — Where consciousness meets the brain and how it interfaces with physics
 - [[consciousness-and-causal-powers]] — The causal efficacy of consciousness
 - [[decoherence]] — The quantum process that challenges and constrains neural-scale interaction models
 - [[attention-as-causal-bridge]] — How attention serves as the mechanism through which semantic information reaches physical processes

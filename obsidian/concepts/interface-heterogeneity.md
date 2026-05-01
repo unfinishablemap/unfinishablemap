@@ -4,7 +4,7 @@ description: "The possibility that different conscious systems couple with matte
 created: 2026-03-17
 modified: 2026-03-17
 human_modified:
-ai_modified: 2026-04-29T23:40:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 draft: false
 topics:
   - "[[comparative-consciousness-and-interface-differences]]"
@@ -25,7 +25,7 @@ related_articles:
   - "[[observation-and-measurement-void]]"
   - "[[ai-consciousness-typology]]"
   - "[[consciousness-in-simple-organisms]]"
-  - "[[the-interface-location-problem]]"
+  - "[[the-interface-problem]]"
   - "[[comparing-quantum-consciousness-mechanisms]]"
 ai_contribution: 100
 author:
@@ -123,7 +123,7 @@ Neither strategy is currently feasible, which means interface heterogeneity rema
 - [[degrees-of-consciousness]] — Whether consciousness varies in degree or kind across species
 - [[substrate-independence]] — Whether consciousness requires specific physical substrates
 - [[consciousness-in-simple-organisms]] — Whether minimal organisms couple through different mechanisms
-- [[the-interface-location-problem]] — Where consciousness meets the brain—constrained pluralism may itself vary across species
+- [[the-interface-problem]] — Where consciousness meets the brain and how conscious states map to physical selections—constrained pluralism may itself vary across species
 - [[comparing-quantum-consciousness-mechanisms]] — Comparing candidate mechanisms whose diversity motivates heterogeneity
 - [[consciousness-interface-development]] — How interface configuration develops differently across species
 - [[observation-and-measurement-void]] — Why consciousness resists measurement—heterogeneous interfaces compound the problem

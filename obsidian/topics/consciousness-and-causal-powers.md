@@ -4,7 +4,7 @@ description: "What kind of causal powers does consciousness possess? Examining t
 created: 2026-02-11
 modified: 2026-02-15
 human_modified:
-ai_modified: 2026-04-23T06:38:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 last_deep_review: 2026-03-28T03:42:00+00:00
 draft: false
 topics:
@@ -33,7 +33,7 @@ related_articles:
   - "[[conservation-laws-and-mental-causation]]"
   - "[[topics/phenomenal-value-realism]]"
   - "[[quantum-measurement-and-consciousness]]"
-  - "[[the-interface-location-problem]]"
+  - "[[the-interface-problem]]"
   - "[[metaphysics-of-information-under-dualism]]"
   - "[[valence-and-conscious-selection]]"
   - "[[the-epiphenomenalist-threat]]"
@@ -71,7 +71,7 @@ If consciousness has causal powers, those powers must have limits—otherwise ev
 
 The Map proposes that consciousness interfaces with the physical world specifically at quantum indeterminacies in neural systems. This localizes the causal power: consciousness doesn't directly influence distant objects, other people's brains, or macroscopic events. It operates where mind meets matter—in your own neural activity.
 
-This explains why you can decide to raise your arm (mental influence on your neural motor patterns) but cannot telekinetically move someone else's arm. The difference is not degree of effort but location of interface. See [[attention-as-interface]] for detailed treatment of how attention might implement this local coupling, and [[the-interface-location-problem]] for the deeper question of why consciousness interfaces where it does.
+This explains why you can decide to raise your arm (mental influence on your neural motor patterns) but cannot telekinetically move someone else's arm. The difference is not degree of effort but location of interface. See [[attention-as-interface]] for detailed treatment of how attention might implement this local coupling, and [[the-interface-problem|the interface location problem]] for the deeper question of why consciousness interfaces where it does.
 
 ### The Physical Constraint
 
@@ -206,7 +206,7 @@ The cost is commitment to quantum effects in the brain operating at timescales r
 - [[pain-consciousness-and-causal-power]] — Pain as the paradigm case for phenomenal biasing
 - [[topics/free-will]] — How causal powers relate to freedom and responsibility
 - [[conservation-laws-and-mental-causation]] — Why mental causation need not violate physical conservation
-- [[the-interface-location-problem]] — Where and why consciousness interfaces with the physical
+- [[the-interface-problem]] — Where and why consciousness interfaces with the physical, and how phenomenal states map to physical selections
 - [[quantum-measurement-and-consciousness]] — The measurement problem as window for mental causation
 - [[consciousness-and-the-metaphysics-of-laws-and-dispositions]] — Whether consciousness is a disposition, has dispositions, or transcends dispositional ontology, and what kind of law could bridge mind and matter
 - [[phenomenology-of-consciousness-doing-work|The Phenomenology of Consciousness Doing Work]] — Apex synthesis: how the phenomenology of effort, selection, and holding constitutes evidence for causal powers

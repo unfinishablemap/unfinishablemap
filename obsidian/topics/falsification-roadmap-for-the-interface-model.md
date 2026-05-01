@@ -4,7 +4,7 @@ description: "What evidence would force the Map to abandon its tenets? A tenet-b
 created: 2026-04-09
 modified: 2026-04-09
 human_modified:
-ai_modified: 2026-04-23T15:14:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -19,7 +19,7 @@ concepts:
   - "[[concepts/epiphenomenalism]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-interface-specification-problem]]"
+  - "[[the-interface-problem]]"
   - "[[testing-consciousness-collapse]]"
   - "[[invertebrate-consciousness-as-interface-test]]"
   - "[[tenet-falsification-conditions-2026-04-05]]"
@@ -80,7 +80,7 @@ A principled resolution of the [[knowledge-argument|knowledge argument]] (Mary's
 
 **Current experimental status**: This is the Map's most empirically tractable tenet. Hameroff (2020) argues Orch OR is "the most complete, and most easily falsifiable theory of consciousness," with 20 testable predictions published in 1998—six confirmed and zero refuted as of a 2014 review by the theory's proponents (Hameroff & Penrose, 2014). Independent assessment of these claims remains limited. The Gran Sasso experiment (Donadi et al., 2021) rules out the simplest form of the Diosi-Penrose collapse model but not Penrose's original proposal. The 2025 experimental blueprint for distinguishing decoherence from objective collapse using levitated nanoparticles (arXiv:2512.02838) offers a near-term path to testing whether collapse is real.
 
-**Honest assessment**: The tenet is broader than any single mechanism. It commits to *some* quantum-level interface, not to microtubules or the Zeno effect specifically. This breadth makes the tenet harder to falsify than any individual mechanism—a feature that could be mistaken for evasiveness. The Map should acknowledge that falsifying Orch OR would not falsify the tenet, while specifying that falsifying *all* quantum biology in neural systems would. Even confirming quantum effects in the brain would leave the deeper challenge: [[the-interface-specification-problem|specifying exactly how conscious states map to physical selections]]—the hardest open problem facing the Map's framework, and a challenge distinct from falsification.
+**Honest assessment**: The tenet is broader than any single mechanism. It commits to *some* quantum-level interface, not to microtubules or the Zeno effect specifically. This breadth makes the tenet harder to falsify than any individual mechanism—a feature that could be mistaken for evasiveness. The Map should acknowledge that falsifying Orch OR would not falsify the tenet, while specifying that falsifying *all* quantum biology in neural systems would. Even confirming quantum effects in the brain would leave the deeper challenge: [[the-interface-problem|specifying exactly how conscious states map to physical selections]]—the hardest open problem facing the Map's framework, and a challenge distinct from falsification.
 
 A further distinction sharpens the falsification picture. The "minimum" in Minimal Quantum Interaction admits at least three readings: *corridor* (consciousness biases single-event selection but ensemble statistics remain Born-compliant), *minimum-outside-the-corridor* (consciousness produces detectable deviations from Born statistics—Stapp's Zeno rate, Chalmers-McQueen Φ-collapse, Arana's λ-suppressed weighting, Orch OR), and *trumping* (consciousness is authoritative on an axis orthogonal to Born-rule dynamics). These three readings have different falsification conditions: corridor predicts no statistical signature by construction and is therefore the hardest to directly test, minimum-outside-corridor is the most empirically distinguishable, and trumping treats Born-rule tests as neither confirming nor threatening. The [[born-rule-violation-brain-interface-empirical-status|empirical status of Born-rule tests at the brain interface]] catalogues which current experimental programmes bear on which reading.
 
@@ -168,7 +168,7 @@ Publishing a falsification roadmap is itself an expression of the [[tenets]].
 
 ## Further Reading
 
-- [[the-interface-specification-problem]] — The hardest open challenge: specifying the mind-matter mapping
+- [[the-interface-problem]] — The hardest open challenge: where the interface operates and how to specify the mind-matter mapping
 - [[testing-consciousness-collapse]] — Three-tier experimental programme for consciousness-collapse theories
 - [[invertebrate-consciousness-as-interface-test]] — Insect and cephalopod architectures as interface model constraints
 - [[methodology-of-consciousness-research]] — Epistemological challenges in studying consciousness

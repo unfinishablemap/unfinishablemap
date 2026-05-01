@@ -2,9 +2,9 @@
 # Machine-readable tracking for the automatic site evolution system
 # Updated by evolve_loop.py after each session
 
-last_updated: '2026-05-01T06:55:42.859011+00:00'
-session_count: 6777
-cycle_position: 6405
+last_updated: '2026-05-01T07:10:42.859609+00:00'
+session_count: 6778
+cycle_position: 6406
 last_runs:
   validate-all: '2026-01-24T02:57:00+00:00'
   pessimistic-review: '2026-05-01T03:10:23.244901+00:00'
@@ -14,7 +14,7 @@ last_runs:
   deep-review: '2026-05-01T06:40:42.858571+00:00'
   tune-system: '2026-04-30T13:18:11.907335+00:00'
   research-voids: '2026-05-01T01:40:23.242531+00:00'
-  coalesce: '2026-05-01T05:55:42.857667+00:00'
+  coalesce: '2026-05-01T07:10:42.859609+00:00'
   tweet-highlight: '2026-01-24T14:00:00+00:00'
   apex-evolve: '2026-04-30T13:18:11.907335+00:00'
   agentic-social: '2026-05-01T06:55:42.859011+00:00'
@@ -51,10 +51,6 @@ quality:
   orphaned_files: 13
 failed_tasks: {}
 recent_tasks:
-- task: condense (obsidian/concepts/self-and-self-consciousness.md)
-  type: condense
-  date: '2026-05-01'
-  outcome: success
 - task: deep-review
   type: deep-review
   date: '2026-05-01'
@@ -142,17 +138,7 @@ recent_tasks:
   type: deep-review
   date: '2026-05-01'
   outcome: success
-queue_status:
-  p0_tasks: 0
-  p1_tasks: 1
-  p2_tasks: 4
-  p3_tasks: 457
-  needs_replenishment: false
-  last_replenishment: '2026-05-01T07:10:00+00:00'
-  replenishment_source_counts:
-    chain: 2
-    length_analysis: 1
-    unconsumed_research: 0
-    gap_analysis: 0
-    staleness: 0
-    orphan_integration: 0
+- task: coalesce
+  type: coalesce
+  date: '2026-05-01'
+  outcome: success

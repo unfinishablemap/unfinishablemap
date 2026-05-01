@@ -4,11 +4,11 @@ description: "Anaesthetic pharmacology maps the consciousness-brain interface wi
 created: 2026-02-23
 modified: 2026-04-17
 human_modified:
-ai_modified: 2026-04-17T13:56:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
-  - "[[the-interface-location-problem]]"
+  - "[[the-interface-problem]]"
 concepts:
   - "[[filter-theory]]"
   - "[[neural-correlates-of-consciousness]]"
@@ -72,7 +72,7 @@ Ketamine, blocking NMDA receptors, produces a radically different pattern. Behav
 
 The xenon-ketamine contrast is particularly striking. Both are NMDA receptor antagonists, yet xenon extinguishes experience while ketamine preserves it. Xenon's broader action on two-pore potassium channels suppresses the phenomenal interface, while ketamine's more selective NMDA blockade severs access channels while sparing it. Same primary receptor, opposite phenomenological outcomes — strong evidence that interface components are pharmacologically separable even at the level of a single receptor system. This parallels the [[contemplative-practice-as-philosophical-evidence|contemplative discovery]] that awareness can be distinguished from its contents — the same architectural feature revealed from opposite directions.
 
-On the Map's framework, ketamine disrupts access channels while leaving the phenomenal interface intact — consistent with the [[the-interface-location-problem|attention-motor architecture]] as a distinct interface layer. The dissociation also bears on the [[self-stultification-as-master-argument|self-stultification problem]]: patients who later report vivid ketamine experiences demonstrate that consciousness maintained its causal connection to memory even when severed from behavioural output. If consciousness were epiphenomenal during the ketamine state, these later reports would be [[self-stultification|self-stultifying]] — presupposing the very causal efficacy that epiphenomenalism denies.
+On the Map's framework, ketamine disrupts access channels while leaving the phenomenal interface intact — consistent with the [[the-interface-problem|attention-motor architecture]] as a distinct interface layer. The dissociation also bears on the [[self-stultification-as-master-argument|self-stultification problem]]: patients who later report vivid ketamine experiences demonstrate that consciousness maintained its causal connection to memory even when severed from behavioural output. If consciousness were epiphenomenal during the ketamine state, these later reports would be [[self-stultification|self-stultifying]] — presupposing the very causal efficacy that epiphenomenalism denies.
 
 ### Temporal Binding
 
@@ -160,7 +160,7 @@ Anaesthetic pharmacology connects to each of the Map's [[tenets]] in concrete wa
 
 **[[tenets#^minimal-quantum-interaction|Minimal Quantum Interaction]]**: Several anaesthetic targets involve conformational changes at scales where thermal noise and quantum uncertainty overlap. Craddock et al. (2015) provide a more specific candidate: anaesthetics dampen quantum oscillations in tryptophan residues within microtubule quantum channels, impairing π-resonance energy transfer — a proposed mechanism linking anaesthetic action to quantum-sensitive molecular systems. Hameroff et al. (2025) extend this with delayed luminescence experiments demonstrating that anaesthetics measurably alter quantum properties of microtubules — providing additional experimental evidence, though still contested, for quantum-level interface disruption.
 
-These findings remain speculative, but if anaesthetics work partly by disrupting quantum processes that classical receptor pharmacology does not fully explain, the selectivity of anaesthetics for consciousness (while sparing other brain functions) gains an additional explanation. The irreducible stochasticity of emergence timing in genetically identical organisms adds further support: deterministic models fail where stochastic models succeed, consistent with the interface operating where fundamental indeterminacy shapes reconnection. The [[the-interface-location-problem|constrained pluralism]] position gains support: the interface operates through the [[voluntary-attention-control-mechanisms|attention-motor architecture]] at the functional level, with molecular-level effects in receptor proteins and ion channels providing the physical substrate.
+These findings remain speculative, but if anaesthetics work partly by disrupting quantum processes that classical receptor pharmacology does not fully explain, the selectivity of anaesthetics for consciousness (while sparing other brain functions) gains an additional explanation. The irreducible stochasticity of emergence timing in genetically identical organisms adds further support: deterministic models fail where stochastic models succeed, consistent with the interface operating where fundamental indeterminacy shapes reconnection. The [[the-interface-problem|constrained pluralism]] position gains support: the interface operates through the [[voluntary-attention-control-mechanisms|attention-motor architecture]] at the functional level, with molecular-level effects in receptor proteins and ion channels providing the physical substrate.
 
 **[[tenets#^bidirectional-interaction|Bidirectional Interaction]]**: The active reboot — the brain preparing for consciousness before consciousness arrives — suggests causal traffic in both directions. During disconnected consciousness under ketamine, consciousness actively generates elaborate internal experience despite environmental severance — reorganising around whichever channels remain open, characteristic of an agent interacting with a structured interface.
 
@@ -172,7 +172,7 @@ These findings remain speculative, but if anaesthetics work partly by disrupting
 
 - [[consciousness-disruption-and-the-mind-brain-interface]] — Disorders of consciousness, coma, sleep, and covert consciousness as parallel cases of interface disruption
 - [[filter-theory]] — The transmission model of brain-consciousness relation
-- [[the-interface-location-problem]] — Where consciousness meets the brain: candidates and constraints
+- [[the-interface-problem]] — Where consciousness meets the brain: candidates and constraints
 - [[contemplative-pathology-and-interface-malfunction]] — Parallel case: interface disruption from the consciousness side rather than pharmacological
 - [[self-stultification-as-master-argument]] — Why epiphenomenal consciousness is epistemically self-defeating
 - [[direction-of-fit]] — How consciousness's world-to-mind directedness relates to its causal role

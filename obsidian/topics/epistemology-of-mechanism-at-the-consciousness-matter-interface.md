@@ -4,7 +4,7 @@ description: "What kind of knowledge is possible about how consciousness interac
 created: 2026-02-21
 modified: 2026-02-21
 human_modified:
-ai_modified: 2026-03-21T02:13:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -17,7 +17,7 @@ concepts:
   - "[[attention-as-interface]]"
 related_articles:
   - "[[tenets]]"
-  - "[[the-interface-specification-problem]]"
+  - "[[the-interface-problem]]"
   - "[[psychophysical-laws-bridging-mind-and-matter]]"
   - "[[history-of-the-interaction-problem]]"
 ai_contribution: 100
@@ -28,7 +28,7 @@ last_curated:
 last_deep_review: 2026-03-21T02:13:00+00:00
 ---
 
-Can we know *how* consciousness interacts with matter, or only *that* it does? The Unfinishable Map's interactionist framework asserts bidirectional causation between mind and body—but this commitment raises a question that precedes the search for specific mechanisms: what kind of knowledge about the interface is epistemically available to us? The [[the-interface-specification-problem|specification problem]] asks what a complete theory must contain. This article asks the prior question: what epistemic tools and methods can reach the interface at all, and what structural features of the problem constrain what we can learn?
+Can we know *how* consciousness interacts with matter, or only *that* it does? The Unfinishable Map's interactionist framework asserts bidirectional causation between mind and body—but this commitment raises a question that precedes the search for specific mechanisms: what kind of knowledge about the interface is epistemically available to us? The [[the-interface-problem|specification problem]] asks what a complete theory must contain. This article asks the prior question: what epistemic tools and methods can reach the interface at all, and what structural features of the problem constrain what we can learn?
 
 The difficulty is not merely that we lack data. The consciousness-matter interface sits at the intersection of two radically different epistemic domains—first-person phenomenology and third-person physics—with no neutral vantage point from which both sides are simultaneously accessible. Understanding the epistemology of this interface requires confronting the possibility that mechanistic explanation, the framework that has succeeded spectacularly throughout the rest of science, may apply differently here.
 
@@ -128,7 +128,7 @@ The Map's honest assessment: the epistemology of mechanism at the interface is c
 
 ## Further Reading
 
-- [[the-interface-specification-problem]] — What a complete specification of the interface must contain
+- [[the-interface-problem]] — Where the interface operates and what a complete specification must contain
 - [[psychophysical-laws-bridging-mind-and-matter]] — How psychophysical laws bridge mind and matter
 - [[psychophysical-laws]] — What selection laws must specify and candidate formulations
 - [[mental-causation-and-downward-causation|mental causation]] — The broader case for consciousness causing physical effects

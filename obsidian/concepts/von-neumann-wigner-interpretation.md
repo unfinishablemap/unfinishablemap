@@ -4,7 +4,7 @@ description: "The consciousness-causes-collapse interpretation of quantum mechan
 created: 2026-03-20
 modified: 2026-03-20
 human_modified:
-ai_modified: 2026-04-30T19:21:00+00:00
+ai_modified: 2026-05-01T07:25:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -105,7 +105,7 @@ With those clarifications in place, the Map inherits three commitments from V-N-
 
 **From Wigner:** Consciousness occupies a unique position in the measurement chain—the one element that resists quantum-mechanical treatment. The Map's [[tenets#^dualism|Dualism]] tenet affirms this irreducibility, and the [[tenets#^bidirectional-interaction|Bidirectional Interaction]] tenet affirms that consciousness does causal work.
 
-**Beyond both:** The Map addresses von Neumann–Wigner's weaknesses through objective collapse theories that provide [[prebiotic-collapse|baseline collapse]] before consciousness, [[brain-interface-boundary|interface locality]] that resolves the [[multi-mind-collapse-problem|multi-observer problem]], and Stapp's quantum Zeno mechanism that specifies *how* consciousness acts. Where von Neumann–Wigner left "consciousness causes collapse" as an unanalysed primitive, the Map pursues a detailed [[the-interface-specification-problem|interface specification]].
+**Beyond both:** The Map addresses von Neumann–Wigner's weaknesses through objective collapse theories that provide [[prebiotic-collapse|baseline collapse]] before consciousness, [[brain-interface-boundary|interface locality]] that resolves the [[multi-mind-collapse-problem|multi-observer problem]], and Stapp's quantum Zeno mechanism that specifies *how* consciousness acts. Where von Neumann–Wigner left "consciousness causes collapse" as an unanalysed primitive, the Map pursues a detailed [[the-interface-problem|interface specification]].
 
 The interpretation also connects to [[tenets#^no-many-worlds|No Many Worlds]]: Many-Worlds was motivated partly as an escape from the von Neumann–Wigner conclusion. If consciousness causes collapse, and this seems problematic, eliminate collapse entirely. The Map rejects this move—the measurement problem's openness to consciousness is a feature, not a bug.
 
