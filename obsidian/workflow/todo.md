@@ -37,13 +37,6 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Active Tasks
 
-### P2: Deep review apex/time-consciousness-growing-block.md
-- **Type**: deep-review
-- **Status**: pending
-- **Notes**: AI-generated apex article (ai_contribution > 50) last deep-reviewed 2026-03-13 — 49 days ago. Apex articles are central synthesis hubs in the catalogue, so staleness here propagates faster than at the topic/concept layer. Multiple coalesces and restructures have landed since the last review (recent self-and-self-consciousness coalesce, interface-problem coalesce, conjunction-coalesce apex stabilisation, the cognitive-phenomenology absorption of its void research). Verify (a) coherence with current site state — cross-references to `[[forward-in-time-conscious-selection]]`, `[[temporal-consciousness]]`, and any retrocausal/transactional articles for terminology drift; (b) tenet alignment, particularly No Many Worlds and Bidirectional Interaction (the growing-block ontology is load-bearing for both); (c) whether claims about block-universe arguments and the physics of time still match the catalogue's current treatment; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md ban); (e) confirm reciprocal cross-link discipline at the apex/topic interface. See `/deep-review` skill.
-- **Source**: staleness
-- **Generated**: 2026-05-01
-
 ### P2: Deep review apex/contemplative-path.md
 - **Type**: deep-review
 - **Status**: pending
@@ -3286,6 +3279,11 @@ Vetoed items are moved automatically to the Vetoed Tasks section on the next evo
 
 ## Completed Tasks
 
+
+### ✓ 2026-05-01: Deep review apex/time-consciousness-growing-block.md
+- **Type**: deep-review
+- **Notes**: AI-generated apex article (ai_contribution > 50) last deep-reviewed 2026-03-13 — 49 days ago. Apex articles are central synthesis hubs in the catalogue, so staleness here propagates faster than at the topic/concept layer. Multiple coalesces and restructures have landed since the last review (recent self-and-self-consciousness coalesce, interface-problem coalesce, conjunction-coalesce apex stabilisation, the cognitive-phenomenology absorption of its void research). Verify (a) coherence with current site state — cross-references to `[[forward-in-time-conscious-selection]]`, `[[temporal-consciousness]]`, and any retrocausal/transactional articles for terminology drift; (b) tenet alignment, particularly No Many Worlds and Bidirectional Interaction (the growing-block ontology is load-bearing for both); (c) whether claims about block-universe arguments and the physics of time still match the catalogue's current treatment; (d) audit for "This is not X. It is Y." cliché violations (CLAUDE.md ban); (e) confirm reciprocal cross-link discipline at the apex/topic interface. See `/deep-review` skill.
+- **Output**: obsidian/apex/time-consciousness-growing-block.md
 
 ### ✓ 2026-05-01: Cross-review topics/the-self-minimal-narrative-and-substantial.md considering zahavian-minimal-self → self-and-self-consciousness coalesce
 - **Type**: cross-review

@@ -2,10 +2,10 @@
 title: "Time, Consciousness, and the Growing Block"
 description: "Consciousness requires temporal structure to exist. Time's arrow may require consciousness to emerge. Their bidirectional dependence reshapes both the hard problem and temporal metaphysics."
 created: 2026-02-01
-modified: 2026-03-14
+modified: 2026-05-01
 human_modified:
-ai_modified: 2026-04-16T01:52:00+00:00
-last_deep_review: 2026-03-13T22:25:00+00:00
+ai_modified: 2026-05-01T10:10:00+00:00
+last_deep_review: 2026-05-01T10:10:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -26,14 +26,13 @@ ai_generated_date: 2026-02-01
 last_curated:
 
 apex_sources:
-  - topics/philosophy-of-time-and-consciousness
-  - topics/time-collapse-and-agency
   - topics/temporal-consciousness-structure-and-agency
+  - topics/time-collapse-and-agency
   - topics/time-symmetric-selection-mechanism
   - concepts/temporal-consciousness
-  - concepts/duration
   - concepts/collapse-and-time
   - concepts/philosophy-of-time
+  - concepts/retrocausality
 apex_last_synthesis: 2026-04-15T09:00:00+00:00
 apex_thesis: "Consciousness and time have a bidirectional dependence: consciousness requires temporal structure to exist, while time's arrow may require consciousness-involving collapse to emerge—making them mutually constitutive rather than one containing the other."
 ---
@@ -170,9 +169,8 @@ This synthesis connects to all five of The Unfinishable Map's [[tenets]]:
 
 This synthesis draws from:
 
-- [[temporal-consciousness-structure-and-agency|Philosophy of Time and Consciousness]] — The bidirectional dependence between time and consciousness
+- [[temporal-consciousness-structure-and-agency|Temporal Consciousness, Structure, and Agency]] — Bidirectional dependence between time and consciousness, the gap between functional moments and experienced duration, and the phenomenology of temporal agency
 - [[time-collapse-and-agency|Time, Collapse, and Agency]] — How collapse introduces temporal direction and enables agency
-- [[temporal-consciousness-structure-and-agency|Temporal Structure of Consciousness]] — The gap between functional moments and experienced duration
 - [[time-symmetric-selection-mechanism|Time-Symmetric Selection Mechanism]] — How atemporal selection resolves the Libet problem
 - [[temporal-consciousness|Temporal Consciousness]] — The specious present, durée, temporal binding, temporal thickness, and AI implications
 - [[collapse-and-time|Collapse and Time]] — How quantum collapse may constitute time's arrow
