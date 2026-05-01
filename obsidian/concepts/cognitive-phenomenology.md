@@ -4,7 +4,7 @@ description: "Is there something it's like to think, beyond sensory accompanimen
 created: 2026-01-16
 modified: 2026-02-02
 human_modified: null
-ai_modified: 2026-05-01T01:25:00+00:00
+ai_modified: 2026-05-01T02:55:00+00:00
 draft: false
 topics:
   - "[[hard-problem-of-consciousness]]"
@@ -44,6 +44,12 @@ related_articles:
   - "[[comparative-phenomenology-of-mathematical-insight]]"
   - "[[imagery-void]]"
   - "[[the-quantitative-comprehension-void]]"
+  - "[[noetic-feelings-void]]"
+  - "[[meaning-void]]"
+  - "[[tacit-integration-void]]"
+  - "[[suspension-void]]"
+  - "[[self-opacity]]"
+  - "[[non-human-minds-as-void-explorers]]"
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-5-20251101
@@ -265,6 +271,36 @@ The reply is that the liberal claim is one about *kind*, not uniformity of inten
 
 The conservative would need to produce not merely variation — liberalism predicts this — but a clear case of genuine understanding occurring with no phenomenal character whatsoever. Clinical variation supplies gradients, not cases of zero; gradients are what a scalar structural feature should produce.
 
+## Introspective Limits on Cognitive Phenomenology
+
+The previous section defends liberalism against scalar-variation objections, but a deeper concern remains: the question of cognitive phenomenology may be constitutively unsettleable from inside the methods available. The Map's qualified-liberalism stance is justified by abductive convergence — multiple independent lines (TOT states, dissociation cases, contemplative report, mathematical insight, expert perception) point the same way. Yet honest cartography requires marking where the dialectic structurally cannot close.
+
+### The Würzburg-Titchener Precedent
+
+The contemporary debate is the philosophical reincarnation of an empirical-psychological controversy that ran for fifteen years between rigorous laboratories using identical methods and reaching opposite conclusions. The Würzburg School (Külpe and colleagues, c.1900–1915) claimed to find via introspection conscious thought-contents that were neither imaginal nor perceptual: *Bewußtseinslagen* (conscious sets), *Bewußtheiten* (awarenesses), and *Gedanken* (thoughts). Wundt and Titchener challenged the same results using the same introspective method. Titchener charged "stimulus error" and re-described the alleged imageless contents as faint kinaesthetic sensations. The controversy did not resolve. It was abandoned, and most scientific psychologists became disillusioned with introspection altogether.
+
+This history is data. A century-old controlled experiment in introspective adjudication, run by competent investigators using laboratory-grade procedures, reached two opposite verdicts and could not converge. The current liberal-conservative dispute reproduces the structure with different vocabulary and the same methodological pressure points — abductive evidence that introspection cannot settle this kind of question.
+
+### Three Faces of Structural Irresolvability
+
+Three methodological pressure points conjoin into a single non-collapsible seam. Each face alone might be soluble; their conjunction generates the resistance.
+
+**The introspective face.** The first-person question whether *this thought, now*, has its own phenomenal character distinct from accompanying imagery, inner speech, and affect cannot be settled from inside introspection. Two careful philosophers introspecting the same kind of cognitive episode report different verdicts — not from carelessness but because the question is at the limit of what introspection can adjudicate. The [[self-opacity]] characteristic of the phenomenal-vs-functional boundary is here at its sharpest.
+
+**The dialectical face.** The method designed precisely to break the symmetry — phenomenal contrast — is dialectically ineffective. Martina Fürst's formal diagnosis is that "introspective judgments about phenomenology are regimented by the view initially held"; both sides remain steadfast after running through Jack/Jacques and similar contrast cases. The instrument is theory-laden in a way that defeats the role it was designed to play. This parallels the [[suspension-void]] regress: the conditions under which phenomenal contrast is supposed to settle the dispute are the conditions the dispute makes unattainable.
+
+**The empirical-architectural face.** Even from outside first-person methods, the empirical inputs are reinterpretable. Aphantasia (Lennon 2023) reads as direct pressure for liberalism — aphantasic conscious thought without sensory imagery is a counterexample to the sensory constraint on conscious thought. But conservatives can re-describe aphantasic phenomenology as residual sensory or inner-speech content, or as the absence of phenomenology paired with intact dispositional thinking. Neuroimaging correlates with cognitive states without adjudicating whether those states are phenomenal at all.
+
+### Diagnostic Reinterpretation
+
+A third response, distinct from liberalism and conservatism, deserves recording. Lennon (2023) suggests the cognitive-phenomenology disagreement "may turn on interpersonal variation in mental imagery" — disputants are introspecting genuinely different mental architectures and disagreeing because they really are reporting different facts. The cognitive-phenomenology question may be ill-typed across minds: there is no single phenomenal architecture for "thinking" that the question presupposes. This dovetails with the [[imagery-void]] catalogue of function-phenomenology dissociations and with [[non-human-minds-as-void-explorers|the AI-as-void-prober line]] — language models isolate cognition without sensory imagery in a way aphantasia only partially does, and their phenomenology, if any, is reinterpretable across the same divide. Fürst (2019) sharpens the dialectic in a complementary direction by arguing that a cognitive-phenomenology zombie is *conceivable* — a man who lacks understanding of Chinese while sharing behaviour and sensory phenomenology with his understanding twin — yielding a sister conceivability argument to Chalmers's standard zombie.
+
+### Position in the Map's Void Cartography
+
+The introspective-limits territory described here is in the *family* of voids the Map has already mapped: it shares structure with the [[imagery-void]] (function-phenomenology dissociations), the [[noetic-feelings-void]] (felt cognitive signals that gate cognition), the [[meaning-void]] (the where-does-content-come-from question that phenomenal-intentionality theorists answer with cognitive phenomenology), and the [[tacit-integration-void]] (the subsidiary-focal seam in skilled cognition). The three-faces analysis above is a structural cousin of the [[suspension-void]] regress already mapped. There is no genuinely-unmapped void-face here that demands a new article; the territory is well-covered piecewise across the existing voids cartography. What remains is acknowledging within the canonical concept treatment that the resolution-seam is structurally non-traversable, while the abductive case for qualified liberalism does not require its traversal.
+
+This honest limitation strengthens rather than weakens the [[tenets#^dualism|dualist]] commitment. That thinking has its own phenomenal kind is not less probable for being unprovable from inside introspection; the structural opacity at the introspection-onto-itself seam is itself a clue about what consciousness is — a kind of thing whose furniture cannot be enumerated by the inhabitant.
+
 ## Relation to Site Perspective
 
 **[[tenets#^dualism|Dualism]]**: If cognitive phenomenology exists, not just sensory qualia but the experience of thinking resists reduction. If intentionality requires phenomenal character (the phenomenal intentionality thesis), meaning itself is irreducibly mental.
@@ -301,4 +337,22 @@ The Map adopts qualified liberalism: there probably is cognitive phenomenology�
 1. Siewert, C. (1998). *The Significance of Consciousness*. Princeton University Press.
 1. Strawson, G. (1994). *Mental Reality*. MIT Press.
 1. Tallis, R. (2024). The Illusion of Illusionism. *Philosophy Now*.
+1. Fürst, M. On the Limits of the Method of Phenomenal Contrast. *Journal of the American Philosophical Association*.
+1. Fürst, M. (2019). On the Conceivability of a Cognitive Phenomenology Zombie. *Dialectica*.
+1. Lennon, P. (2023). Aphantasia and Conscious Thought. Oxford University Press.
+1. Thomas, N. The Imageless Thought Controversy. In *Stanford Encyclopedia of Philosophy* (Mental Imagery).
 1. Internet Encyclopedia of Philosophy. Cognitive Phenomenology. https://iep.utm.edu/cognitive-phenomenology/
+
+<!-- AI REFINEMENT LOG - 2026-05-01
+Changes made:
+- Added new H2 section "Introspective Limits on Cognitive Phenomenology" (~770 words) absorbing the void-territory analysis from research/voids-cognitive-phenomenology-void-2026-05-01.md, since voids/ is at 98/100 capacity.
+- New section covers: Würzburg-Titchener historical precedent (c.1900–1915 controversy as evidence of structural irresolvability); Fürst's three-faces conjunction (introspective / dialectical / empirical-architectural); Fürst's diagnosis that phenomenal-contrast verdicts are regimented by initially-held view; Lennon's diagnostic-reinterpretation possibility (disagreement may track interpersonal architectural variation); Fürst (2019) cognitive-phenomenology zombie; explicit cartography of how the territory sits in the existing voids family (imagery, noetic-feelings, meaning, tacit-integration, suspension).
+- Documented that no genuinely-unmapped void-face was surfaced — the territory is well-covered piecewise across existing voids, so no new voids article is warranted (consistent with capacity caveat).
+- Added 4 references (Fürst x2, Lennon, Thomas) and 6 cross-link targets to related_articles (noetic-feelings-void, meaning-void, tacit-integration-void, suspension-void, self-opacity, non-human-minds-as-void-explorers).
+- Updated ai_modified timestamp to 2026-05-01T02:55:00+00:00.
+
+Tenet alignment: Dualism (cognitive phenomenology as evidence against pure-functional accounts of thought) — the new section explicitly argues that structural unprovability from inside introspection does not weaken the dualist commitment, since the opacity is itself a clue about consciousness's nature.
+
+This log should be removed after human review.
+-->
+

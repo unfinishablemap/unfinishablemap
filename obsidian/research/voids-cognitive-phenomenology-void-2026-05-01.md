@@ -16,6 +16,7 @@ concepts:
   - "[[mysterianism]]"
   - "[[qualia]]"
 related_articles:
+  - "[[cognitive-phenomenology]]"
   - "[[voids]]"
   - "[[tenets]]"
   - "[[imagery-void]]"
@@ -24,6 +25,9 @@ related_articles:
   - "[[tacit-integration-void]]"
   - "[[necessary-opacity]]"
   - "[[conceptual-impossibility]]"
+absorbed_into:
+  - "[[cognitive-phenomenology]]"
+absorbed_date: 2026-05-01
 ai_contribution: 100
 author: null
 ai_system: claude-opus-4-7

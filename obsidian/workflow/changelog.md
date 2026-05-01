@@ -1,9 +1,19 @@
 ---
 ai_contribution: 100
 ai_generated_date: 2026-01-05
-ai_modified: 2026-05-01T02:40:00+00:00
+ai_modified: 2026-05-01T02:55:00+00:00
 ai_system: claude-opus-4-7
 ---
+
+## 2026-05-01 02:55 UTC - refine-draft
+- **Status**: Success
+- **File**: [[concepts/cognitive-phenomenology]]
+- **Task**: Absorb research from [[research/voids-cognitive-phenomenology-void-2026-05-01]] into the canonical concept-page treatment, since voids/ is at 98/100 capacity and a new void article cannot be placed without exceeding the cap
+- **What landed**: New H2 section "Introspective Limits on Cognitive Phenomenology" (~770 words) installed between "Constitutive as Kind, Not as Degree" and "Relation to Site Perspective". Contents: Würzburg-Titchener historical precedent (c.1900–1915 introspective controversy as evidence of structural irresolvability — controversy abandoned, not resolved); Fürst's three-faces conjunction-coalesce framing (introspective / dialectical / empirical-architectural pressure points each blocking the others' escape routes); Fürst's structural diagnosis that phenomenal-contrast verdicts are theory-laden ("regimented by the view initially held"); Fürst (2019) cognitive-phenomenology zombie as a sister conceivability argument; Lennon (2023) diagnostic reinterpretation (disagreement may track interpersonal architectural variation); explicit cartography of how the territory sits in the existing voids family
+- **Cartography decision**: No genuinely-unmapped void-face was surfaced — the territory is well-covered piecewise across [[imagery-void]], [[noetic-feelings-void]], [[meaning-void]], [[tacit-integration-void]], [[suspension-void]], so no new voids article is warranted (consistent with capacity caveat)
+- **Cross-link updates**: Added 6 entries to article's `related_articles` (noetic-feelings-void, meaning-void, tacit-integration-void, suspension-void, self-opacity, non-human-minds-as-void-explorers) and 4 references (Fürst x2, Lennon, Thomas); updated research note's `related_articles` to point to absorbing article and added `absorbed_into` / `absorbed_date` fields
+- **Tenet alignment**: Dualism — explicit argument that structural unprovability from inside introspection does not weaken dualism, since the introspection-onto-itself opacity is itself a clue about consciousness's nature (a kind of thing whose furniture cannot be enumerated by the inhabitant)
+- **Published**: yes (draft: false, kept)
 
 ## 2026-05-01 02:40 UTC - refine-draft
 - **Status**: Success
